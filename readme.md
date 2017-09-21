@@ -16,7 +16,8 @@ Inspired by [this](https://github.com/yoshuawuyts/knowledge). I want to keep my 
 Unlike [my mind maps](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#179.9,-50.7,1) and [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) that searches over these mind maps. I want this to be a more official knowledge index and a reference for things I know that I find useful to reference back to.
 
 My focus at current time is learning Programming, macOS automation with JXA, Alfred and Keyboard Maestro and scripting.
-
+ 
+ 
 <h1 align="center"> Thanks 🍀</h1>
 
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-191.2,-905.2,2) I shared. Thank you. 💛 
