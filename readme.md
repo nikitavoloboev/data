@@ -24,12 +24,12 @@ I also share my knowledge in a longer form by [writing articles][6] and making [
 
 I will be using certain abbreviations for things that I may be repeating often. Here is what they mean : 
 
-- LA = Learn Anything (will often link to a map there for the topic)
+- LA = [Learn Anything][8] (will often link to a map there for learning some topic)
 
 	 
 <h1 align="center"> Thanks 🍀</h1>
 
-You can support what I do on [Patreon][8] or look [into other repositories][9] I shared. Thank you. 💛 
+You can support what I do on [Patreon][9] or look [into other repositories][10] I shared. Thank you. 💛 
 
 [1]:	https://yoshuawuyts.gitbooks.io/knowledge/content/
 [2]:	https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#179.9,-50.7,1
@@ -38,5 +38,6 @@ You can support what I do on [Patreon][8] or look [into other repositories][9] I
 [5]:	https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#666.6,-32.8,-3
 [6]:	https://medium.com/@NikitaVoloboev
 [7]:	https://github.com/nikitavoloboev/my-youtube
-[8]:	https://www.patreon.com/nikitavoloboev
-[9]:	https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0
+[8]:	https://learn-anything.xyz
+[9]:	https://www.patreon.com/nikitavoloboev
+[10]:	https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0
