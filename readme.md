@@ -16,6 +16,19 @@ Inspired by [this](https://github.com/yoshuawuyts/knowledge). I want to keep my 
 Unlike [my mind maps](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#179.9,-50.7,1) and [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) that searches over these mind maps. I want this to be a more official knowledge index and a reference for things I know that I find useful to reference back to.
 
 My focus at current time is learning Programming, macOS automation with JXA, Alfred and Keyboard Maestro and scripting.
+
+```XML
+<?xml version="1.0"?>
+<root>
+
+<!-- _modif def -->
+<modifierdef>MY_CAPSLOCK</modifierdef>
+<modifierdef>MY_OPTION_L</modifierdef>
+<modifierdef>MY_CONTROL_L</modifierdef>
+
+```
+
+
  
  
 <h1 align="center"> Thanks 🍀</h1>
