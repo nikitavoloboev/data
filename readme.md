@@ -1,14 +1,5 @@
 <h1 align="center">My Knowledge Index 💡</h1>
 
-<div align="center">
-<a href="https://www.patreon.com/nikitavoloboev">
-        <img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
-    </a>
-    <a href="https://github.com/nikitavoloboev/knowledge/blob/master/LICENSE">
-        <img src="https://img.shields.io/pypi/l/pipenv.svg">
-    </a>
-</div>
-
 <h1 align="center"> Description 📕</h1>
 
 Inspired by [this](https://github.com/yoshuawuyts/knowledge). I want to keep my own version of a knowledge index that both I and other people can search over and use.
