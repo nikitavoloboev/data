@@ -1,6 +1,7 @@
 
 You can define a sticky key using this syntax : 
 
+	XML
 	<item>
 	<name>sticky g - movement</name>
 	<identifier>private.launcher_mode_open_apps_v10</identifier>
