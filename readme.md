@@ -20,7 +20,13 @@ This Index however is targeted to be read and understood by other people easily 
 
 I also share my knowledge in a longer form by [writing articles][6] and making [YouTube videos][7].
 
- 
+<h1 align="center"> Abbreviations 🔖</h1>
+
+I will be using certain abbreviations for things that I may be repeating often. Here is what they mean : 
+
+- LA = Learn Anything (will often link to a map there for the topic)
+
+	 
 <h1 align="center"> Thanks 🍀</h1>
 
 You can support what I do on [Patreon][8] or look [into other repositories][9] I shared. Thank you. 💛 
