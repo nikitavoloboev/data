@@ -18,11 +18,11 @@ Unlike [my mind maps][2] and [Alfred My Mind][3] that searches over these mind m
 My focus at current time is learning Programming, macOS automation with JXA, Alfred and Keyboard Maestro and scripting.
 
 ```XML
-\<?xml version="1.0"?\>
+<?xml version="1.0"?\>
 <root>
 
 <!-- _modif def -->
-<modifierdef>MY\_CAPSLOCK</modifierdef>
+	<modifierdef>MY\_CAPSLOCK</modifierdef>
 <modifierdef>MY\_OPTION\_L</modifierdef>
 <modifierdef>MY\_CONTROL\_L</modifierdef>
 
