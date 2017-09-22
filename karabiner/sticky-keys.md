@@ -3,7 +3,7 @@
 
 Snippet below makes `a` key into a modifier key. This only works for old Karabiner on El Captain. I am still not certain how it will look for Sierra.
 
-`XML
+```XML
 <item>
 <name>general: sticky a - control key</name>
 <identifier>private.launcher_mode_open_apps_v12</identifier>
@@ -54,4 +54,4 @@ KeyCode::F, ModifierFlag::CONTROL_L,
 </autogen>
 
   </item>
-`XML
+```XML
