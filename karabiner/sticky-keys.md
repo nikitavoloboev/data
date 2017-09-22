@@ -4,7 +4,7 @@
 You can define a sticky key using this syntax : 
 
 	<item>
-		'' <name>sticky g - movement</name>
+	<name>sticky g - movement</name>
 	<identifier>private.launcher_mode_open_apps_v10</identifier>
 	
 	<!-- condition: turn on launcher mode only when the trigger key is pressed without other keys. -->
