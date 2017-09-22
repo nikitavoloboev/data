@@ -14,4 +14,4 @@
 [2]:	./alfred/making-workflows.md
 [3]:	./karabiner/sticky-keys.md
 [4]:	./math/learning-math.md
-[5]:	./cs/learning-cs
+[5]:	./cs/learning-cs.md
