@@ -8,7 +8,7 @@ You create macros of actions that you can then easily call from Karabiner.
 # Mentioned in
 
 - [Write once, never write again][2] 
-	- goes over how to use [Typinator][3]
+	- goes over how to use [Typinator][3] together with KM to automate writing text
 
 
 
