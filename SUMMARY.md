@@ -2,8 +2,7 @@
 
 * [Introduction][1]
 * macOS
-	* alfred
-		* [alfred][2]
+	* [alfred][2]
 		* [making workflows][3]
 * karabiner
 	* [sticky keys][4]
@@ -11,10 +10,8 @@
 	* [learning math][5]
 * cs
 	* [learning cs][6]
-* km
-	* [km][7]
-* books
-	* [books][8]
+* [km][7]
+* [books][8]
 
 [1]:	readme.md
 [2]:	./macOS/alfred/Alfred.md
