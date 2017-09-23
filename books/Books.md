@@ -1,4 +1,3 @@
-
 # Books
 
 I have not read many books but from the ones I have read I really liked [Master and Margarita][1].

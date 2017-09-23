@@ -22,4 +22,4 @@
 [5]:	./math/learning-math.md
 [6]:	./cs/learning-cs.md
 [7]:	./km/km.md
-[8]:	./books/books.md
+[8]:	./books/Books.md
