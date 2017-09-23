@@ -1,9 +1,9 @@
 
-# making workflows
+# Making Workflows
 
 There is a [detailed article][1] available on how you can write workflows in Go language.
 
-You can also take a look through [Alfred's help][2] and get help from the [forum][3]
+You can also take a look through [Alfred's help][2] and get help from the [forum][3].
 
 ## Links
 
