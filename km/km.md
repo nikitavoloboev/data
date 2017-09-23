@@ -3,6 +3,5 @@
 
 You create macros of actions that you can then easily call from Karabiner.
 
-test
 
 [1]:	https://www.keyboardmaestro.com/main/
