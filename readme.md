@@ -25,7 +25,7 @@ I will be using certain abbreviations for things that I may be repeating often. 
 
 <h1 align="center"> Other things I wrote and shared 📚</h1>  
 
-I also share my knowledge in a longer form by [writing articles][7] and making [YouTube videos][8].
+I share my knowledge in a longer form by [writing articles][7] and making [YouTube videos][8].
 
 And you can also explore [my personal mind map of notes and links][9] that I use for my own personal productivity and research. It is of course a bit more chaotic than these notes as its made for my own personal use.
 
