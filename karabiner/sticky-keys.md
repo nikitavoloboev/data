@@ -6,32 +6,35 @@ Snippet below makes `a` key into a modifier key. This only works for old Karabin
 ```XML
 <item>
 <name>general: sticky a - control key</name>
-<identifier>private.launcher_mode_open_apps_v12</identifier>
+<identifier>private.launcher\_mode\_open\_apps\_v12</identifier>
 
 <!-- condition: turn on launcher mode only when the trigger key is pressed without other keys. -->
-<pressingphysicalkeys_lessthan>2</pressingphysicalkeys_lessthan>
-<modifier_not>
-  ModifierFlag::COMMAND_L,
-  ModifierFlag::COMMAND_R,
-  ModifierFlag::CONTROL_L,
-  ModifierFlag::CONTROL_R,
+\<pressingphysicalkeys\_lessthan\>2\</pressingphysicalkeys\_lessthan\>
+\<modifier\_not\>
+  ModifierFlag::COMMAND\_L,
+  ModifierFlag::COMMAND\_R,
+  ModifierFlag::CONTROL\_L,
+  ModifierFlag::CONTROL\_R,
   ModifierFlag::FN,
-  ModifierFlag::OPTION_L,
-  ModifierFlag::OPTION_R,
-  ModifierFlag::SHIFT_L,
-  ModifierFlag::SHIFT_R,
-</modifier_not>
+  ModifierFlag::OPTION\_L,
+  ModifierFlag::OPTION\_R,
+  ModifierFlag::SHIFT\_L,
+  ModifierFlag::SHIFT\_R,
+\</modifier\_not\>
 
 <autogen>
   __KeyOverlaidModifier__
   KeyCode::A,
 
   <!--
+
   Use notsave.launcher_mode_v2 in order to be higher priority.
+
   Use ModifierFlag::MY_LAUNCHER_MODE for __DropAllKeys__.
+
   -->
   @begin
-  KeyCode::VK_CONFIG_SYNC_KEYDOWNUP_notsave_private_launcher_mode_v93, ModifierFlag::MY_LAUNCHER_MODE,
+  KeyCode::VK\_CONFIG\_SYNC\_KEYDOWNUP\_notsave\_private\_launcher\_mode\_v93, ModifierFlag::MY\_LAUNCHER\_MODE,
   @end
 
   @begin
@@ -41,7 +44,7 @@ Snippet below makes `a` key into a modifier key. This only works for old Karabin
   </item>
 
   <item hidden="true">
-<identifier vk_config="true">notsave.private_launcher_mode_v12</identifier>
+\<identifier vk\_config="true"\>notsave.private\_launcher\_mode\_v12</identifier>
 
 <autogen>
   __BlockUntilKeyUp__ KeyCode::A,
@@ -50,8 +53,8 @@ Snippet below makes `a` key into a modifier key. This only works for old Karabin
 <autogen>
 __KeyToKey__
 KeyCode::F,
-KeyCode::F, ModifierFlag::CONTROL_L, 
+KeyCode::F, ModifierFlag::CONTROL\_L, 
 </autogen>
 
   </item>
-```XML
+```
