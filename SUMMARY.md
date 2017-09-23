@@ -12,6 +12,8 @@
 	* [learning cs][6]
 * km
 	* [km][7]
+* books
+	* [books][8]
 
 [1]:	readme.md
 [2]:	./alfred/alfred.md
@@ -20,3 +22,4 @@
 [5]:	./math/learning-math.md
 [6]:	./cs/learning-cs.md
 [7]:	./km/km.md
+[8]:	./books/books.md

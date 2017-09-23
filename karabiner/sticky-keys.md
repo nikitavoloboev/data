@@ -58,3 +58,4 @@ KeyCode::F, ModifierFlag::CONTROL\_L,
 
   </item>
 ```
+
