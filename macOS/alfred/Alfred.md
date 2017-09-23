@@ -8,13 +8,12 @@
 
 ## clean prompt
 
-Sometimes when passing things from one object into another, you want to clear your {query} being passed to get a clean prompt. To achive this you can set argument utility and set it as empty like here : 
+Sometimes when passing things from one object into another, you want to clear your {query} being passed to get a clean prompt. To achieve this you can set argument utility and set it as empty like here : 
 
-![][image-1]
+<p align="center"><img src="https://i.imgur.com/seduWW7.png" width="600" alt="img"></p>
+
 
 
 
 
 [1]:	https://www.alfredapp.com/
-
-[image-1]:	https://i.imgur.com/seduWW7.png
