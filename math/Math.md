@@ -3,7 +3,7 @@
 
 Math is fascinating. And frankly I am not that good at it yet. But I can get better.
 
-# Learning it
+## Learning it
 
 As for all things being learned, it is best to learn by doing and practicing.
 
