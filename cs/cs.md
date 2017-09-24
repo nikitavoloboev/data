@@ -10,6 +10,8 @@ Lambda Calculus is also something really interesting as it tries to define compu
 # Links
 
 - [LA][2]
+- [this seems interesting][3]
 
 [1]:	https://learn-anything.xyz/mathematics/computability-theory/turing-completeness/halting-problem
 [2]:	https://learn-anything.xyz/computer-science
+[3]:	https://functionalcs.github.io/curriculum/#org71f231a
