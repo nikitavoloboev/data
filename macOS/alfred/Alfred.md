@@ -13,7 +13,11 @@ Sometimes when passing things from one object into another, you want to clear yo
 <p align="center"><img src="https://i.imgur.com/seduWW7.png" width="600" alt="img"></p>
 
 
+## Links
+
+- [LA][2]
 
 
 
 [1]:	https://www.alfredapp.com/
+[2]:	https://learn-anything.xyz/software/tooling/productivity/alfred

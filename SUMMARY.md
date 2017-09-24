@@ -1,23 +1,24 @@
 # Summary
 
 * [Introduction][1]
-* macOS
-	* [alfred][2]
-		* [making workflows][3]
+* [macOS][2]
+	* [alfred][3]
+		* [making workflows][4]
 * karabiner
-	* [sticky keys][4]
+	* [sticky keys][5]
 * math
-	* [learning math][5]
+	* [learning math][6]
 * cs
-	* [learning cs][6]
-* [km][7]
-* [books][8]
+	* [learning cs][7]
+* [km][8]
+* [books][9]
 
 [1]:	readme.md
-[2]:	./macOS/alfred/Alfred.md
-[3]:	./macOS/alfred/making-workflows.md
-[4]:	./karabiner/sticky-keys.md
-[5]:	./math/learning-math.md
-[6]:	./cs/learning-cs.md
-[7]:	./km/km.md
-[8]:	./books/Books.md
+[2]:	./macOS/macOS.md
+[3]:	./macOS/alfred/Alfred.md
+[4]:	./macOS/alfred/making-workflows.md
+[5]:	./karabiner/sticky-keys.md
+[6]:	./math/learning-math.md
+[7]:	./cs/learning-cs.md
+[8]:	./km/km.md
+[9]:	./books/Books.md
