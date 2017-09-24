@@ -9,7 +9,7 @@ I try to stay in touch using these few things :
 
 - RSS 
 	- I follow blogs I really like and read them through my [RSS reader][2] which I occasionally check to see what's new
-- [Hacker News][3], my [Twitter list][4], [Reddit][5], [Lobsters][6], [Pinboard (popular)][7]
+- [Hacker News][3], [my Twitter list][4], [Reddit][5], [Lobsters][6], [Pinboard (popular)][7]
 	- is where I get my news
 	- my Reddit is heavily tailored to my own likes and I very often just look into some subreddits I really like to see what is new like 
 		- [haskell][8]
