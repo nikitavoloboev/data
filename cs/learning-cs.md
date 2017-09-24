@@ -1,8 +1,6 @@
 
 # Learning Computer Science
 
-Studies computation.
-
 # Links
 
 - [LA][1]
