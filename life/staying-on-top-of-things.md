@@ -9,7 +9,7 @@ I try to stay in touch using these few things :
 
 - RSS 
 	- I follow blogs I really like and read them through my [RSS reader][2] which I occasionally check to see what's new
-- [Hacker News][3], [my Twitter list][4], [Reddit][5], [Lobsters][6], [Pinboard (popular)][7]
+- [Hacker News][3], [Reddit][4], [Lobsters][5], [Pinboard (popular)][6], [my Twitter list][7]
 	- is where I get my news
 	- my Reddit is heavily tailored to my own likes and I very often just look into some subreddits I really like to see what is new like 
 		- [haskell][8]
@@ -29,10 +29,10 @@ I try to stay in touch using these few things :
 [1]:	../mindfulness/Mindfulness.md
 [2]:	http://reederapp.com/mac/
 [3]:	https://hckrnews.com/
-[4]:	https://twitter.com/nikitavoloboev/lists/top
-[5]:	https://www.reddit.com
-[6]:	https://lobste.rs/
-[7]:	https://pinboard.in/popular/
+[4]:	https://www.reddit.com
+[5]:	https://lobste.rs/
+[6]:	https://pinboard.in/popular/
+[7]:	https://twitter.com/nikitavoloboev
 [8]:	https://www.reddit.com/r/haskell/
 [9]:	https://www.reddit.com/r/math/
 [10]:	https://www.reddit.com/r/golang/
