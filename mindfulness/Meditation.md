@@ -11,4 +11,9 @@ I like to practice mindfulness through journalling my thoughts in my diary. I wr
 
 Although I do want to start more focused mindfulness and trying to practice _channeling_ my focus. I do build my personal system of productivity and happiness around this idea of _less thinking, more happiness_. I try to cultivate good thoughts and let bad thoughts pass by. I focus on the present moment and try to take the best from the cards I have been dealt. And more importantly I try to be _proactive_ with life. Great things won't happen if you sit idly waiting for things to happen. You either have to go out and find these great things or make your own. 
 
+# Links
+
+- [LA][2]
+
 [1]:	https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32
+[2]:	https://learn-anything.xyz/health/mindfulness/meditation

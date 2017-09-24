@@ -26,7 +26,7 @@
 [1]:	readme.md
 [2]:	./life/Life.md
 [3]:	./life/staying-on-top-of-things.md
-[4]:	./education/Education.md
+[4]:	./education/education.md
 [5]:	./macOS/macOS.md
 [6]:	./macOS/alfred/Alfred.md
 [7]:	./macOS/alfred/making-workflows.md
