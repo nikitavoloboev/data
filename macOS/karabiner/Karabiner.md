@@ -9,4 +9,4 @@ I however take this idea further and define these kind of hyper key but for __ev
 
 [1]:	https://github.com/tekezo/Karabiner-Elements
 [2]:	http://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/
-[3]:	./macOS/karabiner/sticky-keys.md
+[3]:	./sticky-keys.md
