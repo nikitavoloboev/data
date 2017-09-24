@@ -14,7 +14,7 @@ In the left corner you can make searches for what content I have already indexed
 
 Aside from this, you can of course also explore [Learn Anything][4] for things that you can learn about and I will often reference it from these notes.
 
-And I also am in the process of writing a book on macOS automation that you can read for free [here][5].
+I also am in the process of writing a book on macOS automation that you will soon be able to read for free [here][5].
 
 
 <h1 align="center"> Abbreviations 🔖</h1>
@@ -27,15 +27,15 @@ I will be using certain abbreviations for things that I may be repeating often. 
 
 I share my knowledge in a longer form by [writing articles][7] and making [YouTube videos][8].
 
-And you can also explore [my personal mind map of notes and links][9] that I use for my own personal productivity and research. It is of course a bit more chaotic than these notes as its made for my own personal use.
+And you can also explore [my personal mind map][9] of [notes and links][10] that I use for my own personal productivity and research. It is of course a bit more chaotic than these notes as its made for my own personal use.
 
-But you can use [this Alfred workflow][10] to easily search through my entire knowledge base and essentially my whole world.
+But you can use [this Alfred workflow][11] to easily search through my entire knowledge base and essentially my whole world.
 
-You can also see more repositories and books similar to this one [here][11]. And don't be afraid to create one of your own and share what you know with the world. 
+You can also see more repositories and books similar to this one [here][12]. And don't be afraid to create one of your own and share what you know with the world. 
 
 <h1 align="center"> Thanks 🍀</h1>
 
-You can support what I do on [Patreon][12] or look [into other repositories][13] I shared. Thank you. 💛 
+You can support what I do on [Patreon][13] or look [into other repositories][14] I shared. Thank you. 💛 
 
 [1]:	https://yoshuawuyts.gitbooks.io/knowledge/content/
 [2]:	https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#179.9,-50.7,1
@@ -46,7 +46,8 @@ You can support what I do on [Patreon][12] or look [into other repositories][13]
 [7]:	https://medium.com/@NikitaVoloboev
 [8]:	https://github.com/nikitavoloboev/my-youtube
 [9]:	https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#666.6,-32.8,-3
-[10]:	https://github.com/nikitavoloboev/alfred-my-mind
-[11]:	https://github.com/RichardLitt/meta-knowledge
-[12]:	https://www.patreon.com/nikitavoloboev
-[13]:	https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0
+[10]:	https://my.mindnode.com/4gWrZs1WYDYbuxaBm9NsxKchqDt1qV7nCy4LxH2Z#1590.7,-1462.8,-2
+[11]:	https://github.com/nikitavoloboev/alfred-my-mind
+[12]:	https://github.com/RichardLitt/meta-knowledge
+[13]:	https://www.patreon.com/nikitavoloboev
+[14]:	https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0
