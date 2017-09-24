@@ -11,7 +11,6 @@
 	* [learning math][9]
 * [cs][10]
 	* [learning cs][11]
-
 * [books][12]
 
 [1]:	readme.md
