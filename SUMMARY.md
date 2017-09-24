@@ -1,41 +1,41 @@
 # Summary
 
 * [Introduction][1]
-* [macOS][2]
-	* [alfred][3]
-		* [making workflows][4]
-	* [karabiner][5]
-		* [sticky keys][6]
-	* [km][7]
-* [math][8]
-* [cs][9]
-* [programming languages][10]
-	* [go][11]
-	* [bash][12]
-* [mindfulness][13]
-	* [meditation][14]
-* [physics][15]
-* [projects][16]
-* [life][17]
-	* [staying on top of things][18]
+* [life][2]
+	* [staying on top of things][3]
+* [macOS][4]
+	* [alfred][5]
+		* [making workflows][6]
+	* [karabiner][7]
+		* [sticky keys][8]
+	* [km][9]
+* [math][10]
+* [cs][11]
+* [programming languages][12]
+	* [go][13]
+	* [bash][14]
+* [mindfulness][15]
+	* [meditation][16]
+* [physics][17]
+* [projects][18]
 * [books][19]
 
 [1]:	readme.md
-[2]:	./macOS/macOS.md
-[3]:	./macOS/alfred/Alfred.md
-[4]:	./macOS/alfred/making-workflows.md
-[5]:	./macOS/karabiner/Karabiner.md
-[6]:	./macOS/karabiner/sticky-keys.md
-[7]:	./macOS/km/km.md
-[8]:	./math/Math.md
-[9]:	./cs/cs.md
-[10]:	./programming-languages/programming-languages.md
-[11]:	./programming-languages/Go.md
-[12]:	./programming-languages/Bash.md
-[13]:	./mindfulness/Mindfulness.md
-[14]:	./mindfulness/Meditation.md
-[15]:	physics/Physics.md
-[16]:	./projects/Projects.md
-[17]:	./life/Life.md
-[18]:	./life/Staying-on-top-of-things.md
+[2]:	./life/Life.md
+[3]:	./life/staying-on-top-of-things.md
+[4]:	./macOS/macOS.md
+[5]:	./macOS/alfred/Alfred.md
+[6]:	./macOS/alfred/making-workflows.md
+[7]:	./macOS/karabiner/Karabiner.md
+[8]:	./macOS/karabiner/sticky-keys.md
+[9]:	./macOS/km/km.md
+[10]:	./math/Math.md
+[11]:	./cs/cs.md
+[12]:	./programming-languages/programming-languages.md
+[13]:	./programming-languages/Go.md
+[14]:	./programming-languages/Bash.md
+[15]:	./mindfulness/Mindfulness.md
+[16]:	./mindfulness/Meditation.md
+[17]:	physics/Physics.md
+[18]:	./projects/Projects.md
 [19]:	./books/Books.md
