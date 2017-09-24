@@ -32,7 +32,7 @@ I try to stay in touch using these few things :
 [4]:	https://www.reddit.com
 [5]:	https://lobste.rs/
 [6]:	https://pinboard.in/popular/
-[7]:	https://twitter.com/nikitavoloboev
+[7]:	https://twitter.com/nikitavoloboev/lists/top
 [8]:	https://www.reddit.com/r/haskell/
 [9]:	https://www.reddit.com/r/math/
 [10]:	https://www.reddit.com/r/golang/
