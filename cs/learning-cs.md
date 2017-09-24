@@ -4,7 +4,7 @@
 # Links
 
 - [LA][1]
-- [this seems interesting][2]
+- [seems interesting][2]
 
 
 [1]:	https://learn-anything.xyz/computer-science

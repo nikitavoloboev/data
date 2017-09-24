@@ -15,7 +15,10 @@
 * [mindfulness][13]
 	* [meditation][14]
 * [physics][15]
-* [books][16]
+* [projects][16]
+* [life][17]
+	* [staying on top of things][18]
+* [books][19]
 
 [1]:	readme.md
 [2]:	./macOS/macOS.md
@@ -32,4 +35,7 @@
 [13]:	./mindfulness/Mindfulness.md
 [14]:	./mindfulness/Meditation.md
 [15]:	physics/Physics.md
-[16]:	./books/Books.md
+[16]:	./projects/Projects.md
+[17]:	./life/Life.md
+[18]:	./life/Staying-on-top-of-things.md
+[19]:	./books/Books.md

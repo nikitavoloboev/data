@@ -31,9 +31,11 @@ And you can also explore [my personal mind map of notes and links][9] that I use
 
 But you can use [this Alfred workflow][10] to easily search through my entire knowledge base and essentially my whole world.
 
+You can also see more repositories and books similar to this one [here][11]. And don't be afraid to create one of your own and share what you know with the world. 
+
 <h1 align="center"> Thanks 🍀</h1>
 
-You can support what I do on [Patreon][11] or look [into other repositories][12] I shared. Thank you. 💛 
+You can support what I do on [Patreon][12] or look [into other repositories][13] I shared. Thank you. 💛 
 
 [1]:	https://yoshuawuyts.gitbooks.io/knowledge/content/
 [2]:	https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#179.9,-50.7,1
@@ -45,5 +47,6 @@ You can support what I do on [Patreon][11] or look [into other repositories][12]
 [8]:	https://github.com/nikitavoloboev/my-youtube
 [9]:	https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#666.6,-32.8,-3
 [10]:	https://github.com/nikitavoloboev/alfred-my-mind
-[11]:	https://www.patreon.com/nikitavoloboev
-[12]:	https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0
+[11]:	https://github.com/RichardLitt/meta-knowledge
+[12]:	https://www.patreon.com/nikitavoloboev
+[13]:	https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0
