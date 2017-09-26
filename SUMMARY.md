@@ -13,14 +13,15 @@
 * [research][11]
 * [math][12]
 * [cs][13]
-* [programming languages][14]
-	* [go][15]
-	* [bash][16]
-* [mindfulness][17]
-	* [meditation][18]
-* [physics][19]
-* [projects][20]
-* [books][21]
+* [algorithms][14]
+* [programming languages][15]
+	* [go][16]
+	* [bash][17]
+* [mindfulness][18]
+	* [meditation][19]
+* [physics][20]
+* [projects][21]
+* [books][22]
 
 
 [1]:	readme.md
@@ -36,11 +37,12 @@
 [11]:	./research/Research.md
 [12]:	./math/Math.md
 [13]:	./cs/cs.md
-[14]:	./programming-languages/programming-languages.md
-[15]:	./programming-languages/Go.md
-[16]:	./programming-languages/Bash.md
-[17]:	./mindfulness/Mindfulness.md
-[18]:	./mindfulness/Meditation.md
-[19]:	physics/Physics.md
-[20]:	./projects/Projects.md
-[21]:	./books/Books.md
+[14]:	./algorithms/Algorithms.md
+[15]:	./programming-languages/programming-languages.md
+[16]:	./programming-languages/Go.md
+[17]:	./programming-languages/Bash.md
+[18]:	./mindfulness/Mindfulness.md
+[19]:	./mindfulness/Meditation.md
+[20]:	physics/Physics.md
+[21]:	./projects/Projects.md
+[22]:	./books/Books.md
