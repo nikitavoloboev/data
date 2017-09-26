@@ -22,7 +22,11 @@ I try to stay in touch using these few things :
 	- I access all these subreddits from my [Alfred My Mind][13] workflow and [Deanishe's Reddit worklfow][14]
 - I limit my time when I get my news and try to focus on my work and learning instead
 
+# Links
 
+- [News][15]
+	- I wrote briefly on what my opinion about reading news and the opinion as stated in the article is still the same for
+	- only the approach has changed and hopefully became a bit more refined to meet my own goals
 
 
 
@@ -40,3 +44,4 @@ I try to stay in touch using these few things :
 [12]:	https://www.reddit.com/r/Python/
 [13]:	https://github.com/nikitavoloboev/alfred-my-mind
 [14]:	https://github.com/deanishe/alfred-reddit
+[15]:	https://medium.com/@NikitaVoloboev
