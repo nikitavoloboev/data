@@ -13,15 +13,8 @@ I assign a time frame to each issue, either `working on` or `soon`.
 
 Ship app also allows you to put certain issues into Up Next group as can be seen below : 
 
-![][image-1]
-
 TODO: 
 
-
-
-
-And then I can filter through these issues 
+And then I can filter through these issues.
 
 [1]:	https://www.realartists.com
-
-[image-1]:	https://i.imgur.com/DgMzQa1.png

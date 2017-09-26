@@ -32,7 +32,7 @@ Aside from that I really like visiting and at times contributing to these forums
 1. [alfred forum][16]
 2. [keyboard maestro forum][17]
 
-As well as quite a few a few other Slack communities like : 
+As well as quite a few other Slack communities like : 
 
 1. [Gophers][18]
 2. [ZEIT chat][19]
