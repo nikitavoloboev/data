@@ -20,18 +20,21 @@
 * [math][18]
 * [cs][19]
 * [algorithms][20]
-* [programming languages][21]
-	* [go][22]
-	* [bash][23]
-* [mindfulness][24]
-	* [meditation][25]
-* [physics][26]
-* [interviews][27]
-	* [leetcode][28]
-* [consciousness][29]
-	* [ego][30]
-* [projects][31]
-* [books][32]
+* [programming][21]
+	* [GitHub][22]
+* [programming languages][23]
+	* [go][24]
+	* [bash][25]
+* [mindfulness][26]
+	* [meditation][27]
+* [physics][28]
+* [interviews][29]
+	* [leetcode][30]
+* [consciousness][31]
+	* [ego][32]
+* [music][33]
+* [projects][34]
+* [books][35]
 
 
 [1]:	readme.md
@@ -54,15 +57,18 @@
 [18]:	./math/Math.md
 [19]:	./cs/cs.md
 [20]:	./algorithms/Algorithms.md
-[21]:	./programming-languages/programming-languages.md
-[22]:	./programming-languages/Go.md
-[23]:	./programming-languages/Bash.md
-[24]:	./mindfulness/Mindfulness.md
-[25]:	./mindfulness/Meditation.md
-[26]:	physics/Physics.md
-[27]:	./interviews/Interviews.md
-[28]:	./interviews/Leetcode.md
-[29]:	./consciousness/Consciousness.md
-[30]:	./consciousness/Ego.md
-[31]:	./projects/Projects.md
-[32]:	./books/Books.md
+[21]:	./programming/Programming.md
+[22]:	./programming/GitHub.md
+[23]:	./programming-languages/programming-languages.md
+[24]:	./programming-languages/Go.md
+[25]:	./programming-languages/Bash.md
+[26]:	./mindfulness/Mindfulness.md
+[27]:	./mindfulness/Meditation.md
+[28]:	physics/Physics.md
+[29]:	./interviews/Interviews.md
+[30]:	./interviews/Leetcode.md
+[31]:	./consciousness/Consciousness.md
+[32]:	./consciousness/Ego.md
+[33]:	./music/Music.md
+[34]:	./projects/Projects.md
+[35]:	./books/Books.md
