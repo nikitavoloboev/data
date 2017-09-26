@@ -1,7 +1,7 @@
 
-# Consciousness 
+# Compassion
 
-Consciousness is an interesting thing. The only way to really study it is through self reflection, meditation and awareness.
+I believe compassion for other living organisms is an important part of our lives. Having the ability to put ourselves in the shoes of other living organisms is incredibly valuable.
 
 # Links
 

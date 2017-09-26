@@ -6,4 +6,10 @@ I do wish however to expand my horizons and try out Linux. I doubt I will ever b
 
 In any way, I like to think my journey with macOS, operating systems, programming and the like has only begun, I am still yet to make something substantial, something akin to [Karabiner][1]. But I am getting there.
 
+# Links
+
+- [Take control of your trackpad on macOS][2]
+	- how to customise the trackpad to do more things
+
 [1]:	https://github.com/tekezo/Karabiner-Elements
+[2]:	https://medium.com/@NikitaVoloboev/take-control-of-your-trackpad-on-macos-45c581f542e0

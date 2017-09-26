@@ -3,7 +3,7 @@
 
 I have quite a few negative thoughts about my experience with education in life thus far.
 
-I have never been a good student both in school nor in university. And there are many reasons for that. But one of the major reasons is that I thought that in many ways education was not efficient enough for me. I often lost interest and most professors/teachers didn't really engage me in way for me hto really be fascinated about what it is I am learning.
+I have never been a good student both in school nor in university. And there are many reasons for that. But one of the major reasons is that I thought that in many ways education was not efficient enough for me. I often lost interest and most professors/teachers didn't really engage me in way for me to really be fascinated about what it is I am learning.
 
 For example, in school, learning about math was quite a chore. I looked into text books and never did my homework. Simply because I did not like math. I looked at math as learning a bunch of rules and then trying to use these rules I have learned hoping I have not forgotten anything. And that's not really fun.
 

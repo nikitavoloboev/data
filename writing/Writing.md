@@ -24,7 +24,7 @@ Read other people's work. Read books. Both fiction and non fiction, and get a ta
 
 - [How I write][3]
 	- what my writing setup looks like on my mac
-	- although I know use Ulysses full screen and use many macros and few alfred workflows to quickly navigate through my writing library
+	- although I now use Ulysses full screen and use many macros and few alfred workflows to quickly navigate through my writing library
 
 [1]:	http://www.paulgraham.com/talk.html
 [2]:	../journalling/Journalling.md
