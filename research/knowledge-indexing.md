@@ -1,6 +1,6 @@
 # Knowledge indexing
 
-I index knowledge for fast retrieval as I cannot rely on my memory and I want to focus on solving problems rather than try keep all and everything in head. What I need to do, what my plans are for the future, what projects am I working on, what I know or want to know and so the list goes on.
+I index knowledge for fast retrieval as I cannot rely on my memory and I want to focus on solving problems rather than try keep all and everything in head. What I need to do, what my plans are for the future, what projects am I working on, what I know or want to know and this list goes on.
 
 I solve this problem in multiple ways and I change my approach as I find better ways of doing things.
 

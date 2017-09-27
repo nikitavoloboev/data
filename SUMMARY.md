@@ -10,7 +10,7 @@
 * [research][8]
 	* [knowledge indexing][9]
 	* [asking questions][10]
-* [learning][11]
+* [learning][11]a
 * [education][12]
 * [macOS][13]
 	* [alfred][14]
@@ -43,8 +43,8 @@
 
 
 [1]:	readme.md
-[2]:	./life/Life.md
-[3]:	./life/self-expression.md
+[2]:	life/Life.md
+[3]:	life/self-expression.md
 [4]:	./life/Journalling.md
 [5]:	./life/Compassion.md
 [6]:	./life/staying-on-top-of-things.md
