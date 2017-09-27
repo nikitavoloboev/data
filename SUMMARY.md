@@ -38,8 +38,9 @@
 	* [ego][36]
 * [music][37]
 * [linux][38]
-* [projects][39]
-* [books][40]
+* [anki][39]
+* [projects][40]
+* [books][41]
 
 
 [1]:	readme.md
@@ -80,5 +81,6 @@
 [36]:	consciousness/Ego.md
 [37]:	music/Music.md
 [38]:	linux/Linux.md
-[39]:	projects/Projects.md
-[40]:	books/Books.md
+[39]:	anki/Anki.md
+[40]:	projects/Projects.md
+[41]:	books/Books.md
