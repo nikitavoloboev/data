@@ -7,38 +7,39 @@
 	* [compassion][5]
 	* [staying on top of things][6]
 * [writing][7]
-* [education][8]
-* [learning][9]
-* [macOS][10]
-	* [alfred][11]
-		* [making workflows][12]
-	* [karabiner][13]
-		* [sticky keys][14]
-	* [km][15]
-	* [typinator][16]
-* [research][17]
-	* [asking questions][18]
-* [math][19]
-* [cs][20]
-* [algorithms][21]
-* [programming][22]
-	* [GitHub][23]
-* [programming languages][24]
-	* [go][25]
-	* [bash][26]
-* [text editors][27]
-	* [vs code][28]
-* [mindfulness][29]
-	* [meditation][30]
-* [physics][31]
-* [interviews][32]
-	* [leetcode][33]
-* [consciousness][34]
-	* [ego][35]
-* [music][36]
-* [linux][37]
-* [projects][38]
-* [books][39]
+* [research][8]
+	* [knowledge indexing][9]
+	* [asking questions][10]
+* [learning][11]
+* [education][12]
+* [macOS][13]
+	* [alfred][14]
+		* [making workflows][15]
+	* [karabiner][16]
+		* [sticky keys][17]
+	* [km][18]
+	* [typinator][19]
+* [math][20]
+* [cs][21]
+* [algorithms][22]
+* [programming][23]
+	* [GitHub][24]
+* [programming languages][25]
+	* [go][26]
+	* [bash][27]
+* [text editors][28]
+	* [vs code][29]
+* [mindfulness][30]
+	* [meditation][31]
+* [physics][32]
+* [interviews][33]
+	* [leetcode][34]
+* [consciousness][35]
+	* [ego][36]
+* [music][37]
+* [linux][38]
+* [projects][39]
+* [books][40]
 
 
 [1]:	readme.md
@@ -48,35 +49,36 @@
 [5]:	./life/Compassion.md
 [6]:	./life/staying-on-top-of-things.md
 [7]:	./writing/Writing.md
-[8]:	./education/education.md
-[9]:	./learning/Learning.md
-[10]:	./macOS/macOS.md
-[11]:	./macOS/alfred/Alfred.md
-[12]:	./macOS/alfred/making-workflows.md
-[13]:	./macOS/karabiner/Karabiner.md
-[14]:	./macOS/karabiner/sticky-keys.md
-[15]:	./macOS/km/km.md
-[16]:	./macOS/typinator/Typinator.md
-[17]:	./research/Research.md
-[18]:	./research/asking-questions.md
-[19]:	./math/Math.md
-[20]:	./cs/cs.md
-[21]:	./algorithms/Algorithms.md
-[22]:	./programming/Programming.md
-[23]:	./programming/GitHub.md
-[24]:	./programming-languages/programming-languages.md
-[25]:	./programming-languages/Go.md
-[26]:	./programming-languages/Bash.md
-[27]:	./text-editors/text-editors.md
-[28]:	./text-editors/vs-code.md
-[29]:	./mindfulness/Mindfulness.md
-[30]:	./mindfulness/Meditation.md
-[31]:	physics/Physics.md
-[32]:	./interviews/Interviews.md
-[33]:	./interviews/Leetcode.md
-[34]:	./consciousness/Consciousness.md
-[35]:	./consciousness/Ego.md
-[36]:	./music/Music.md
-[37]:	./linux/Linux.md
-[38]:	./projects/Projects.md
-[39]:	./books/Books.md
+[8]:	./research/Research.md
+[9]:	./research/knowledge-indexing.md
+[10]:	./research/asking-questions.md
+[11]:	./learning/Learning.md
+[12]:	./education/education.md
+[13]:	./macOS/macOS.md
+[14]:	./macOS/alfred/Alfred.md
+[15]:	./macOS/alfred/making-workflows.md
+[16]:	./macOS/karabiner/Karabiner.md
+[17]:	./macOS/karabiner/sticky-keys.md
+[18]:	./macOS/km/km.md
+[19]:	./macOS/typinator/Typinator.md
+[20]:	./math/Math.md
+[21]:	./cs/cs.md
+[22]:	./algorithms/Algorithms.md
+[23]:	./programming/Programming.md
+[24]:	./programming/GitHub.md
+[25]:	./programming-languages/programming-languages.md
+[26]:	./programming-languages/Go.md
+[27]:	./programming-languages/Bash.md
+[28]:	./text-editors/text-editors.md
+[29]:	./text-editors/vs-code.md
+[30]:	./mindfulness/Mindfulness.md
+[31]:	./mindfulness/Meditation.md
+[32]:	physics/Physics.md
+[33]:	./interviews/Interviews.md
+[34]:	./interviews/Leetcode.md
+[35]:	./consciousness/Consciousness.md
+[36]:	./consciousness/Ego.md
+[37]:	./music/Music.md
+[38]:	./linux/Linux.md
+[39]:	./projects/Projects.md
+[40]:	./books/Books.md
