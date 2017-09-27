@@ -17,24 +17,27 @@
 	* [km][15]
 	* [typinator][16]
 * [research][17]
-* [math][18]
-* [cs][19]
-* [algorithms][20]
-* [programming][21]
-	* [GitHub][22]
-* [programming languages][23]
-	* [go][24]
-	* [bash][25]
-* [mindfulness][26]
-	* [meditation][27]
-* [physics][28]
-* [interviews][29]
-	* [leetcode][30]
-* [consciousness][31]
-	* [ego][32]
-* [music][33]
-* [projects][34]
-* [books][35]
+	* [asking questions][18]
+* [math][19]
+* [cs][20]
+* [algorithms][21]
+* [programming][22]
+	* [GitHub][23]
+* [programming languages][24]
+	* [go][25]
+	* [bash][26]
+* [text editors][27]
+	* [vs code][28]
+* [mindfulness][29]
+	* [meditation][30]
+* [physics][31]
+* [interviews][32]
+	* [leetcode][33]
+* [consciousness][34]
+	* [ego][35]
+* [music][36]
+* [projects][37]
+* [books][38]
 
 
 [1]:	readme.md
@@ -54,21 +57,24 @@
 [15]:	./macOS/km/km.md
 [16]:	./macOS/typinator/Typinator.md
 [17]:	./research/Research.md
-[18]:	./math/Math.md
-[19]:	./cs/cs.md
-[20]:	./algorithms/Algorithms.md
-[21]:	./programming/Programming.md
-[22]:	./programming/GitHub.md
-[23]:	./programming-languages/programming-languages.md
-[24]:	./programming-languages/Go.md
-[25]:	./programming-languages/Bash.md
-[26]:	./mindfulness/Mindfulness.md
-[27]:	./mindfulness/Meditation.md
-[28]:	physics/Physics.md
-[29]:	./interviews/Interviews.md
-[30]:	./interviews/Leetcode.md
-[31]:	./consciousness/Consciousness.md
-[32]:	./consciousness/Ego.md
-[33]:	./music/Music.md
-[34]:	./projects/Projects.md
-[35]:	./books/Books.md
+[18]:	./research/asking-questions.md
+[19]:	./math/Math.md
+[20]:	./cs/cs.md
+[21]:	./algorithms/Algorithms.md
+[22]:	./programming/Programming.md
+[23]:	./programming/GitHub.md
+[24]:	./programming-languages/programming-languages.md
+[25]:	./programming-languages/Go.md
+[26]:	./programming-languages/Bash.md
+[27]:	./text-editors/text-editors.md
+[28]:	./vs-code/vs-code.md
+[29]:	./mindfulness/Mindfulness.md
+[30]:	./mindfulness/Meditation.md
+[31]:	physics/Physics.md
+[32]:	./interviews/Interviews.md
+[33]:	./interviews/Leetcode.md
+[34]:	./consciousness/Consciousness.md
+[35]:	./consciousness/Ego.md
+[36]:	./music/Music.md
+[37]:	./projects/Projects.md
+[38]:	./books/Books.md

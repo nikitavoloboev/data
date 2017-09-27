@@ -17,6 +17,10 @@ Ship app also allows you to put certain issues into Up Next group as can be seen
 
 And then I can filter through these issues.
 
+# Tips and Tricks
+
+- selecting some text in a github comment and pressing `r` will make a reply of that text
+
 [1]:	https://www.realartists.com
 
 [image-1]:	https://i.imgur.com/DgMzQa1.png
