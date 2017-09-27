@@ -1,4 +1,3 @@
-
 # GitHub
 
 I 💚 GitHub. It is really one of the best communities out there that exists with so many different projects and ideas being worked on at any given time.

@@ -1,4 +1,3 @@
-
 # Programming languages
 
 There is an [awesome article][1] that goes over how one program can be written in different languages from the most abstract level of Math to Haskell to C to Assembly to actual machine code. 

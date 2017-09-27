@@ -1,5 +1,4 @@
-
-# Meditation 
+# Meditation
 
 Is the practice of being aware of the present moment. Usually achieved through focusing on something like your breath.
 

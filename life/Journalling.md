@@ -1,4 +1,3 @@
-
 # Journalling
 
 Journalling my thoughts and experiences has seriously been my most impactful and healthy habit I started doing in my life.

@@ -1,4 +1,3 @@
-
 # Writing
 
 I love writing. Human language, of which I currently know two so far : russian and english. Is incredibly empowering. The sheer fact that I can actually put my thoughts onto paper in a way that other people can read and understand is amazing. 
@@ -16,7 +15,7 @@ _Never use a long word where a short one will do._
 
 I try to have my writing be as transparent as possible for the person reading it. If something can be said simply, it is best to say it, simply. 
 
-## Read 
+## Read
 
 Read other people's work. Read books. Both fiction and non fiction, and get a taste to how different styles of writing can exist and how they can be used effectively.
 

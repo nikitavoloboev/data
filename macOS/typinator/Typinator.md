@@ -1,4 +1,3 @@
-
 # Typinator
 
 A really amazing text expanding app that saves me a lot of time from my life by expanding the text I most frequently type.

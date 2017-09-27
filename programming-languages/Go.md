@@ -1,4 +1,3 @@
-
 # Go
 
 Go is currently my favourite language.
@@ -9,7 +8,7 @@ Go promotes composition over inheritance.
 
 # Links
 
-- [LA][2] 
+- [LA][2]
 
 
 [1]:	https://github.com/Microsoft/vscode-go

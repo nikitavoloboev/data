@@ -1,4 +1,3 @@
-
 # Computer Science
 
 Studies computation. 

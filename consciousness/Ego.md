@@ -1,4 +1,3 @@
-
 # Ego
 
 Ego is who I am. Without ego, there is no I.

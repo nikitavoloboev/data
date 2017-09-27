@@ -1,4 +1,3 @@
-
 # Staying on top of things
 
 There is so much out there in the world. It's often really hard to stay on top of things and many times not being able to understand something is frustrating so is feeling as if you are _missing out_. 

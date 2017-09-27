@@ -1,4 +1,3 @@
-
 # Bash
 
 Not too experienced with Bash. But I do know that you have to __quote your variables__. 

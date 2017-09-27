@@ -36,8 +36,9 @@
 * [consciousness][34]
 	* [ego][35]
 * [music][36]
-* [projects][37]
-* [books][38]
+* [linux][37]
+* [projects][38]
+* [books][39]
 
 
 [1]:	readme.md
@@ -67,7 +68,7 @@
 [25]:	./programming-languages/Go.md
 [26]:	./programming-languages/Bash.md
 [27]:	./text-editors/text-editors.md
-[28]:	./vs-code/vs-code.md
+[28]:	./text-editors/vs-code.md
 [29]:	./mindfulness/Mindfulness.md
 [30]:	./mindfulness/Meditation.md
 [31]:	physics/Physics.md
@@ -76,5 +77,6 @@
 [34]:	./consciousness/Consciousness.md
 [35]:	./consciousness/Ego.md
 [36]:	./music/Music.md
-[37]:	./projects/Projects.md
-[38]:	./books/Books.md
+[37]:	./linux/Linux.md
+[38]:	./projects/Projects.md
+[39]:	./books/Books.md

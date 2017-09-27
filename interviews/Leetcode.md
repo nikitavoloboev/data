@@ -1,4 +1,3 @@
-
 # Leetcode
 
 I am currently practicing some Leetcode questions and writing my solutions in Go [here][1]. It has been quite fun trying to come up with solutions and experimenting with Go language in the process.

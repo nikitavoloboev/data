@@ -1,4 +1,3 @@
-
 # Projects
 
 I have many ideas on projects I want to make and you can see the ones I am working on right now or have completed in the past [here][1].

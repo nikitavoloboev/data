@@ -1,4 +1,3 @@
-
 # Learning
 
 I love learning new things. And I love being efficient with the time I have so I learn new things faster and better and in ways that I hopefully can immediately apply my knowledge.

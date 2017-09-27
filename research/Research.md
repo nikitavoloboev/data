@@ -1,4 +1,3 @@
-
 # Research
 
 Research is an interesting topic and something that plays a big role in my life. I like to think that I do research every day.

@@ -1,4 +1,3 @@
-
 # Keyboard Maestro
 
 [Keyboard Maestro][1] is essentially an IDE for automation. 

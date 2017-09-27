@@ -1,4 +1,3 @@
-
 # Music
 
 I love listening to different music. Although my favourite genres are ambient, electronic and instrumental, I love quite a lot of songs from many different genres.

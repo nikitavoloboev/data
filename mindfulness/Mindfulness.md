@@ -1,5 +1,4 @@
-
-# Mindfulness 
+# Mindfulness
 
 If I ever want to master one thing in my life, mindfulness would be it.
 

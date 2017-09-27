@@ -1,4 +1,3 @@
-
 # Physics
 
 Studies how our universe behaves. 
@@ -9,9 +8,9 @@ Perhaps we can replicate a universe like ours in the future. One of the more int
 
 # Links
 
-- [LA][4] 
+- [LA][4]
 
 [1]:	https://learn-anything.xyz/mathematics/computability-theory/cellular-automata
-[2]:	http://www.wikiwand.com/en/Conway%27s_Game_of_Life
+[2]:	http://www.wikiwand.com/en/Conway's_Game_of_Life
 [3]:	Stephen%20Wolfram
 [4]:	https://learn-anything.xyz/physics

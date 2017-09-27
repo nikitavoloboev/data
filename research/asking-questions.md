@@ -1,4 +1,3 @@
-
 # Asking Questions
 
 [This][1] has everything in it on how to ask questions correctly.
