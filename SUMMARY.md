@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](readme.md)
+* [meta](meta/meta.md)
 * [life](life/Life.md)
 	* [self expression](life/self-expression.md)
 	* [journalling](life/Journalling.md)
