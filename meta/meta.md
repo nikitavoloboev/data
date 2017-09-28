@@ -14,7 +14,7 @@ Most topics will also include a _Links_ section.
 
 Where I very often link to a  [Learn Anything](https://learn-anything.xyz/) map as that in my opinion is the perfect place to start learning any topic as it should ideally show you the most efficient path for learning anything. Aside from the link to LA, I may also include some of my own things I wrote or really liked as well as my comments on these links.
 
-As my focus at current time is writing code to solve various problems, I will also be including a lot of code and covering various technical and interesting to me subjects. The code I will be linking to will be embedded as Gists and you can use and reuse it as you seem fit. 
+As my focus at current time is writing code to solve various problems, I will also be including a lot of code and covering various technical and interesting to me subjects. The code I will be linking to will be embedded as Gists and you can use and reuse it as you see fit. 
 
 # My workflow in writing and maintaining this wiki
 
