@@ -29,18 +29,22 @@
 	* [bash][27]
 * [text editors][28]
 	* [vs code][29]
-* [mindfulness][30]
-	* [meditation][31]
-* [physics][32]
-* [interviews][33]
-	* [leetcode][34]
-* [consciousness][35]
-	* [ego][36]
-* [music][37]
-* [linux][38]
-* [anki][39]
-* [projects][40]
-* [books][41]
+	* [sublime text][30]
+* [mindfulness][31]
+	* [meditation][32]
+* [physics][33]
+* [interviews][34]
+	* [leetcode][35]
+* [consciousness][36]
+	* [ego][37]
+* [music][38]
+* [unix][39]
+	* [dotfiles][40]
+* [linux][41]
+* [anki][42]
+* [machine learning][43]
+* [projects][44]
+* [books][45]
 
 
 [1]:	readme.md
@@ -72,15 +76,19 @@
 [27]:	programming-languages/Bash.md
 [28]:	text-editors/text-editors.md
 [29]:	text-editors/vs-code.md
-[30]:	mindfulness/Mindfulness.md
-[31]:	mindfulness/Meditation.md
-[32]:	physics/Physics.md
-[33]:	interviews/Interviews.md
-[34]:	interviews/Leetcode.md
-[35]:	consciousness/Consciousness.md
-[36]:	consciousness/Ego.md
-[37]:	music/Music.md
-[38]:	linux/Linux.md
-[39]:	anki/Anki.md
-[40]:	projects/Projects.md
-[41]:	books/Books.md
+[30]:	text-editors/sublime-text.md
+[31]:	mindfulness/Mindfulness.md
+[32]:	mindfulness/Meditation.md
+[33]:	physics/Physics.md
+[34]:	interviews/Interviews.md
+[35]:	interviews/Leetcode.md
+[36]:	consciousness/Consciousness.md
+[37]:	consciousness/Ego.md
+[38]:	music/Music.md
+[39]:	unix/Unix.md
+[40]:	unix/Dotfiles.md
+[41]:	linux/Linux.md
+[42]:	anki/Anki.md
+[43]:	machine-learning/machine-learning.md
+[44]:	projects/Projects.md
+[45]:	books/Books.md
