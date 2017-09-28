@@ -45,7 +45,7 @@
 	* [dotfiles](unix/Dotfiles.md)
 * [web](web/Web.md)
 	* [browsers](web/browsers/Browsers.md)
-		* [safari](web/browsers/safari.md)
+		* [safari](web/browsers/Safari.md)
 * [linux](linux/Linux.md)
 * [nutrition](nutrition/Nutrition.md)
 * [anki](anki/Anki.md)
