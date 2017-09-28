@@ -15,36 +15,37 @@
 * [macOS][13]
 	* [alfred][14]
 		* [making workflows][15]
-	* [karabiner][16]
-		* [sticky keys][17]
-	* [km][18]
-	* [typinator][19]
-* [math][20]
-* [cs][21]
-* [algorithms][22]
-* [programming][23]
-	* [GitHub][24]
-* [programming languages][25]
-	* [go][26]
-	* [bash][27]
-* [text editors][28]
-	* [vs code][29]
-	* [sublime text][30]
-* [mindfulness][31]
-	* [meditation][32]
-* [physics][33]
-* [interviews][34]
-	* [leetcode][35]
-* [consciousness][36]
-	* [ego][37]
-* [music][38]
-* [unix][39]
-	* [dotfiles][40]
-* [linux][41]
-* [anki][42]
-* [machine learning][43]
-* [projects][44]
-* [books][45]
+		* [AwGo][16]
+	* [karabiner][17]
+		* [sticky keys][18]
+	* [km][19]
+	* [typinator][20]
+* [math][21]
+* [cs][22]
+* [algorithms][23]
+* [programming][24]
+	* [GitHub][25]
+* [programming languages][26]
+	* [go][27]
+	* [bash][28]
+* [text editors][29]
+	* [vs code][30]
+	* [sublime text][31]
+* [mindfulness][32]
+	* [meditation][33]
+* [physics][34]
+* [interviews][35]
+	* [leetcode][36]
+* [consciousness][37]
+	* [ego][38]
+* [music][39]
+* [unix][40]
+	* [dotfiles][41]
+* [linux][42]
+* [anki][43]
+* [machine learning][44]
+* [projects][45]
+* [books][46]
 
 
 [1]:	readme.md
@@ -62,33 +63,34 @@
 [13]:	macOS/macOS.md
 [14]:	macOS/alfred/Alfred.md
 [15]:	macOS/alfred/making-workflows.md
-[16]:	macOS/karabiner/Karabiner.md
-[17]:	macOS/karabiner/sticky-keys.md
-[18]:	macOS/km/km.md
-[19]:	macOS/typinator/Typinator.md
-[20]:	math/Math.md
-[21]:	cs/cs.md
-[22]:	algorithms/Algorithms.md
-[23]:	programming/Programming.md
-[24]:	programming/GitHub.md
-[25]:	programming-languages/programming-languages.md
-[26]:	programming-languages/Go.md
-[27]:	programming-languages/Bash.md
-[28]:	text-editors/text-editors.md
-[29]:	text-editors/vs-code.md
-[30]:	text-editors/sublime-text.md
-[31]:	mindfulness/Mindfulness.md
-[32]:	mindfulness/Meditation.md
-[33]:	physics/Physics.md
-[34]:	interviews/Interviews.md
-[35]:	interviews/Leetcode.md
-[36]:	consciousness/Consciousness.md
-[37]:	consciousness/Ego.md
-[38]:	music/Music.md
-[39]:	unix/Unix.md
-[40]:	unix/Dotfiles.md
-[41]:	linux/Linux.md
-[42]:	anki/Anki.md
-[43]:	machine-learning/machine-learning.md
-[44]:	projects/Projects.md
-[45]:	books/Books.md
+[16]:	macOS/alfred/Awgo.md
+[17]:	macOS/karabiner/Karabiner.md
+[18]:	macOS/karabiner/sticky-keys.md
+[19]:	macOS/km/km.md
+[20]:	macOS/typinator/Typinator.md
+[21]:	math/Math.md
+[22]:	cs/cs.md
+[23]:	algorithms/Algorithms.md
+[24]:	programming/Programming.md
+[25]:	programming/GitHub.md
+[26]:	programming-languages/programming-languages.md
+[27]:	programming-languages/Go.md
+[28]:	programming-languages/Bash.md
+[29]:	text-editors/text-editors.md
+[30]:	text-editors/vs-code.md
+[31]:	text-editors/sublime-text.md
+[32]:	mindfulness/Mindfulness.md
+[33]:	mindfulness/Meditation.md
+[34]:	physics/Physics.md
+[35]:	interviews/Interviews.md
+[36]:	interviews/Leetcode.md
+[37]:	consciousness/Consciousness.md
+[38]:	consciousness/Ego.md
+[39]:	music/Music.md
+[40]:	unix/Unix.md
+[41]:	unix/Dotfiles.md
+[42]:	linux/Linux.md
+[43]:	anki/Anki.md
+[44]:	machine-learning/machine-learning.md
+[45]:	projects/Projects.md
+[46]:	books/Books.md

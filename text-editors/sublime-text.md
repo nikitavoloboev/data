@@ -2,7 +2,7 @@
 
 Started using this editor in addition to VS Code and neovim for its blazing fast speed of opening files.
 
-I know always keep it open full screen with my .dotfiles folder open there : 
+I now always keep it open full screen with my .dotfiles folder open there : 
 
 ![][image-1]
 
