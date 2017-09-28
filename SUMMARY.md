@@ -49,6 +49,8 @@
 * [philosophy](philosophy/philosophy.md)
 	* [simulated reality](philosophy/simulated-reality.md)
 * [machine learning](machine-learning/machine-learning.md)
+* [tools](tools/Tools.md)
+	* [Gitbook](tools/Gitbook.md)
 * [projects](projects/Projects.md)
 * [books](books/Books.md)
 
