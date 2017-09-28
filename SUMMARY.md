@@ -42,10 +42,11 @@
 * [unix][40]
 	* [dotfiles][41]
 * [linux][42]
-* [anki][43]
-* [machine learning][44]
-* [projects][45]
-* [books][46]
+* [nutrition][43]
+* [anki][44]
+* [machine learning][45]
+* [projects][46]
+* [books][47]
 
 
 [1]:	readme.md
@@ -90,7 +91,8 @@
 [40]:	unix/Unix.md
 [41]:	unix/Dotfiles.md
 [42]:	linux/Linux.md
-[43]:	anki/Anki.md
-[44]:	machine-learning/machine-learning.md
-[45]:	projects/Projects.md
-[46]:	books/Books.md
+[43]:	nutrition/Nutrition.md
+[44]:	anki/Anki.md
+[45]:	machine-learning/machine-learning.md
+[46]:	projects/Projects.md
+[47]:	books/Books.md
