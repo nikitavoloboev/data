@@ -36,7 +36,7 @@
 	* [haskell](programming-languages/Haskell.md)
 * [text editors](text-editors/text-editors.md)
 	* [vs code](text-editors/vs-code.md)
-	* [vim](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim)
+	* [vim](text-editors/Vim.md)
 	* [sublime text](text-editors/sublime-text.md)
 * [mindfulness](mindfulness/Mindfulness.md)
 	* [meditation](mindfulness/Meditation.md)
