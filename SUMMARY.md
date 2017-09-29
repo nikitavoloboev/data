@@ -64,6 +64,7 @@
 * [games](games/Games.md)
 * [projects](projects/Projects.md)
 * [reading](reading/Reading.md)
+* [quotes](quotes/Quotes.md)
 * [books](books/Books.md)
 
 
