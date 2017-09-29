@@ -4,7 +4,7 @@ Health is important to me for many reasons. I don't particularly even want to li
 
 All of those things rely on good health and a good both physical and mental state of being. 
 
-Frankly even when I do know all that I still have many habits that actually go against what I ultimately want. I still don't exercise enough, I still sometimes do eat _bad food_and I still often don't practice meditation and mindfulness as much as I like.
+Frankly even when I do know all that I still have many habits that actually go against what I ultimately want. I still don't exercise enough, I still sometimes do eat _bad food_ and I still often don't practice meditation and mindfulness as much as I like.
 
 In any way, this is something I am working on and hopefully improving with every passing day. I am happy to say though that I don't have any really unhealthy habits like smoking or drinking. Those two don't really make sense to me. 
 
