@@ -22,6 +22,7 @@
 		* [sticky keys](macOS/karabiner/sticky-keys.md)
 	* [km](macOS/km/km.md)
 	* [typinator](macOS/typinator/Typinator.md)
+	* [MindNode](macOS/mindnode/Mindnode.md)
 * [math](math/Math.md)
 * [cs](cs/cs.md)
 * [work](work/Work.md)
@@ -66,5 +67,6 @@
 * [reading](reading/Reading.md)
 * [quotes](quotes/Quotes.md)
 * [books](books/Books.md)
+	* [go in action](books/go-in-action.md)
 
 
