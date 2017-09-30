@@ -44,6 +44,11 @@ I also use this macro to quickly create folders in this wiki :
 
 ![](https://i.imgur.com/aGywogI.png)
 
+And finally, the most used macro I use to fully automate updating this wiki is simply committing all the changes in this wiki with a single hotkey : 
+
+![](https://i.imgur.com/BuKbfkn.png)
+
+
 And that is pretty much it. This lets me be extremely fast with editing and maintaining this wiki. I also heavily make use of this wiki by searching through Gitbook book itself : 
 
 ![](https://i.imgur.com/UY8B6gc.png)
