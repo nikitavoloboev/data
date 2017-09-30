@@ -34,6 +34,7 @@
 * [data structures](data-structures/data-structures.md)
 * [programming](programming/Programming.md)
 	* [GitHub](programming/GitHub.md)
+	* [semantic versioning](programming/semantic-versioning.md)
 * [programming languages](programming-languages/programming-languages.md)
 	* [go](programming-languages/go/Go.md)
 	* [bash](programming-languages/Bash.md)
