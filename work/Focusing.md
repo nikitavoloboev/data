@@ -11,3 +11,5 @@ And I like to listen to some stimulating music. Lately I have been really liking
 Working outside from home and changing location often is also something helps me a lot being productive. 
 
 I also realise that multiple monitors is not so helpful for me after all and I am quite productive with just one.
+
+I also try to live by my calendar. That is I try to assign blocks of time where I work on certain things and actually follow through and work during these time blocks. There is always something useful that I can be doing and I don't want to waste any mental energy choosing what to do in the moment. 

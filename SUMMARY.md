@@ -24,6 +24,7 @@
 	* [typinator](macOS/typinator/Typinator.md)
 	* [MindNode](macOS/mindnode/Mindnode.md)
 * [math](math/Math.md)
+	* [lambda calculus](math/lambda-calculus.md)
 * [cs](cs/cs.md)
 * [work](work/Work.md)
 	* [focusing](work/Focusing.md)
@@ -67,6 +68,6 @@
 * [reading](reading/Reading.md)
 * [quotes](quotes/Quotes.md)
 * [books](books/Books.md)
-	* [go in action](books/go-in-action.md)
+	* [go in action](books/17/go-in-action.md)
 
 
