@@ -10,9 +10,9 @@ Gitbook provides a pretty awesome search feature that lets you search across thi
 
 Each topic will have a title, some description of it, usually my own thoughts and knowledge on it as well as referencing some resources or links I have liked or used that helped me either understand the topic or gain appreciation of it.
 
-Most topics will also include a _Links_ section. 
+Most topics will also include a _Links_ and _Notes_ sections. 
 
-Where I very often link to a  [Learn Anything](https://learn-anything.xyz/) map as that in my opinion is the perfect place to start learning any topic as it should ideally show you the most efficient path for learning anything. Aside from the link to LA, I may also include some of my own things I wrote or really liked as well as my comments on these links.
+In links I very often link to a  [Learn Anything](https://learn-anything.xyz/) map as that in my opinion is the perfect place to start learning any topic as it should ideally show you the most efficient path for learning anything. Aside from the link to LA, I may also include some of my own things I wrote or really liked as well as my comments on these links.
 
 As my focus at current time is writing code to solve various problems, I will also be including a lot of code and covering various technical and interesting to me subjects. The code I will be linking to will be embedded as Gists and you can use and reuse it as you see fit. 
 

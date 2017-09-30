@@ -2,6 +2,7 @@
 
 * [Introduction](readme.md)
 * [meta](meta/meta.md)
+	* [working on](meta/working-on.md)
 * [life](life/Life.md)
 	* [self expression](life/self-expression.md)
 	* [journalling](life/Journalling.md)
@@ -25,6 +26,7 @@
 	* [MindNode](macOS/mindnode/Mindnode.md)
 * [math](math/Math.md)
 	* [lambda calculus](math/lambda-calculus.md)
+	* [logic](math/Logic.md)
 * [cs](cs/cs.md)
 * [work](work/Work.md)
 	* [focusing](work/Focusing.md)
