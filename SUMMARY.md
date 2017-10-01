@@ -7,6 +7,7 @@
 	* [self expression](life/self-expression.md)
 	* [journalling](life/Journalling.md)
 	* [compassion](life/Compassion.md)
+	* [lessons learned](life/lessons-learned.md)
 	* [staying on top of things](life/staying-on-top-of-things.md)
 * [writing](writing/Writing.md)
 * [research](research/Research.md)
