@@ -27,6 +27,7 @@
 * [math](math/Math.md)
 	* [lambda calculus](math/lambda-calculus.md)
 	* [logic](math/Logic.md)
+	* [project Euler](math/project-euler.md)
 * [cs](cs/cs.md)
 * [work](work/Work.md)
 	* [focusing](work/Focusing.md)
