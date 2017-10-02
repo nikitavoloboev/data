@@ -12,8 +12,8 @@ For searching, I use :
 
 - Google
 	- general / programming related
-- DuckDuckGo  
-	- private searches / instant answers / cheat sheets 
+- DuckDuckGo
+	- private searches / instant answers / cheat sheets
 - GitHub
 	- software / repos / code search
 
@@ -27,3 +27,6 @@ There is also absolutely amazing workflow to [search various websites with autos
 - [research debt](https://distill.pub/2017/research-debt/)
 - [do schools kill creativity](https://www.youtube.com/watch?v=iG9CE55wbtY)
 
+# Notes
+
+- [has some notes on doing research](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/dnrsmh9/ "permalink")

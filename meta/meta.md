@@ -6,11 +6,26 @@ Each folder is a topic that can include other topics under it, ideally related t
 
 Gitbook provides a pretty awesome search feature that lets you search across this entire knowledge base, so feel free to use it.
 
+I also really love the night mode. You can switch to it from here if you haven't :
+
+![](https://i.imgur.com/zMvyZeE.png)
+
+
 # Content Structure
 
 Each topic will have a title, some description of it, usually my own thoughts and knowledge on it as well as referencing some resources or links I have liked or used that helped me either understand the topic or gain appreciation of it.
 
-Most topics will also include a _Links_ and _Notes_ sections. 
+The structure of each of the posts will then look roughly like this : 
+
+1. Title
+2. Description
+	- my thoughts on the topic
+3. Subtopics 
+	- various subtopics related to the main topic
+3. Links
+	- links related to the topic
+4. Notes
+	- my own personal notes on the matter
 
 In links I very often link to a  [Learn Anything](https://learn-anything.xyz/) map as that in my opinion is the perfect place to start learning any topic as it should ideally show you the most efficient path for learning anything. Aside from the link to LA, I may also include some of my own things I wrote or really liked as well as my comments on these links.
 
@@ -51,6 +66,5 @@ And finally, the most used macro I use to fully automate updating this wiki is s
 And that is pretty much it. This lets me be extremely fast with editing and maintaining this wiki. I also heavily make use of this wiki by searching through Gitbook book itself : 
 
 ![](https://i.imgur.com/UY8B6gc.png)
-
 
 

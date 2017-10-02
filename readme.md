@@ -12,7 +12,6 @@ In the left corner you can make searches for what content I have already indexed
 
 Aside from this, you can of course also explore [Learn Anything](https://learn-anything.xyz) for things that you can learn about and I will often reference it from these notes.
 
-
 <h1 align="center"> Abbreviations 🔖</h1>
 
 I will be using certain abbreviations for things that I may be repeating often. Here is what they mean : 
@@ -23,7 +22,7 @@ I will be using certain abbreviations for things that I may be repeating often. 
 
 I share my knowledge in a longer form by [writing articles](https://medium.com/@NikitaVoloboev) and making [YouTube videos](https://github.com/nikitavoloboev/my-youtube).
 
-And you can also explore [my personal mind map](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#666.6,-32.8,-3) of [notes and links](https://my.mindnode.com/4gWrZs1WYDYbuxaBm9NsxKchqDt1qV7nCy4LxH2Z#1590.7,-1462.8,-2) that I use for my own personal productivity and research. It is of course a bit more chaotic than these notes as its made for my own personal use.
+And you can also explore [my personal mind map](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#666.6,-32.8,-3) that I use for my own personal productivity and research. It is of course a bit more chaotic than these notes as its made for my own personal use.
 
 But you can use [this Alfred workflow](https://github.com/nikitavoloboev/alfred-my-mind) to easily search through my entire knowledge base and essentially my whole world.
 
