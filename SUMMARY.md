@@ -59,7 +59,7 @@
 	* [leetcode](interviews/Leetcode.md)
 * [consciousness](consciousness/Consciousness.md)
 	* [ego](consciousness/Ego.md)
-* [psychedelics](psychedelics/Psychedelics.md%20) 
+* [psychedelics](psychedelics/Psychedelics.md) 
 * [music](music/Music.md)
 * [unix](unix/Unix.md)
 	* [dotfiles](unix/Dotfiles.md)
