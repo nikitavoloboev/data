@@ -22,6 +22,7 @@
 * [education](education/education.md)
 * [macOS](macOS/macOS.md)
 	* [apps](macOS/apps/macOS-apps.md)
+		* [safari](macOS/apps/Safari.md)
 		* [alfred](macOS/alfred/Alfred.md)
 			* [making workflows](macOS/alfred/making-workflows.md)
 			* [AwGo](macOS/apps/alfred/Awgo.md)
