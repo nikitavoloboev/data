@@ -10,9 +10,6 @@ I open any of my most used websites using [this macro](https://github.com/nikita
 
 Aside from it, I use [many Safari extensions](https://github.com/learn-anything/safari-extensions) for it. Most notably I really love and recommend using [sVim](https://github.com/flipxfx/sVim). My configuration for it can be found [here](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c) : 
 
-{% gist id="" %}{% endgist %}
-
-
 I also use [this amazing workflow](https://git.deanishe.net/deanishe/alfred-safari-assistant) by Deanishe to quickly jump between my currently active Safari tabs as well as search through my history and my bookmarks.
 
 
