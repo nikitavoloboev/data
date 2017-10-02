@@ -10,7 +10,6 @@ I also really love using night mode. You can switch to it from here if you haven
 
 ![](https://i.imgur.com/k6EDR4K.png)
 
-
 # Content Structure
 
 Each topic will have a title, some description of it, usually my own thoughts and knowledge on it as well as referencing some resources or links I have liked or used that helped me either understand the topic or gain appreciation of it.
@@ -30,6 +29,12 @@ The structure of each of the posts will then look roughly like this :
 In links I very often link to a  [Learn Anything](https://learn-anything.xyz/) map as that in my opinion is the perfect place to start learning any topic as it should ideally show you the most efficient path for learning anything. Aside from the link to LA, I may also include some of my own things I wrote or really liked as well as my comments on these links.
 
 As my focus at current time is writing code to solve various problems, I will also be including a lot of code and covering various technical and interesting to me subjects. The code I will be linking to will be embedded as Gists and you can use and reuse it as you see fit. 
+
+# Abbreviations 🔖
+
+I will be using certain abbreviations for things that I may be repeating often. Here is what they mean : 
+
+- LA = [Learn Anything](https://learn-anything.xyz) (will often link to a map there for learning some topic)
 
 # My workflow in writing and maintaining this wiki
 
@@ -66,5 +71,4 @@ And finally, the most used macro I use to fully automate updating this wiki is s
 And that is pretty much it. This lets me be extremely fast with editing and maintaining this wiki. I also heavily make use of this wiki by searching through Gitbook book itself : 
 
 ![](https://i.imgur.com/UY8B6gc.png)
-
 
