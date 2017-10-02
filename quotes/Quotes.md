@@ -1,14 +1,7 @@
 # Quotes
 
-Here are some quotes I like. 
+Here are some quotes I like. I share my of the quotes I like [here](https://github.com/learn-anything/quotes).
 
-# Life
-
-- The teacher appears when the student is ready
-
-# Privacy
-
-- Today's surveillance is extremely stealthy. If a person was following you all day, writing down what you are doing, of course you would care. But the problem today is, most people don't see the person following them.
 
 # Funny
 
