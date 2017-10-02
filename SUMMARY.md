@@ -28,7 +28,7 @@
 		* [karabiner](macOS/apps/karabiner/Karabiner.md)
 			* [sticky keys](macOS/apps/karabiner/sticky-keys.md)
 		* [km](macOS/apps/km/km.md)
-		* [typinator](macOS/apps/typinator/Typinator.md)
+		* [typinator](macOS/apps/Typinator.md)
 		* [MindNode](macOS/apps/Mindnode.md)
 * [math](math/Math.md)
 	* [logic](math/Logic.md)
