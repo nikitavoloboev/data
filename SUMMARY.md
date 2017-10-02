@@ -2,6 +2,7 @@
 
 * [Introduction](readme.md)
 * [meta](meta/meta.md)
+	* [my mind](meta/my-mind.md)
 	* [working on](meta/working-on.md)
 * [life](life/Life.md)
 	* [self expression](life/self-expression.md)
@@ -84,4 +85,3 @@
 * [movies](movies/Movies.md)
 * [books](books/Books.md)
 	* [go in action](books/17/go-in-action.md)
-
