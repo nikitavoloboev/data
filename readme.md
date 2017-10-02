@@ -6,7 +6,7 @@ Inspired by [this](https://yoshuawuyts.gitbooks.io/knowledge/content/). I want t
 
 Unlike [my mind maps](meta/my-mind.md) and [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) that searches over these mind maps. I want this to be a more official knowledge index and a reference for things I know that I find useful to reference back to.
 
-<h1 align="center"> Using the Search Well 🔍</h1>
+<h1 align="center"> Using the Wiki Well 🔍</h1>
 
 In the left corner you can make searches for what content I have already indexed or you can simply explore the tree view to the left.
 
