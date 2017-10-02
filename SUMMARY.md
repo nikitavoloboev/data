@@ -4,7 +4,7 @@
 * [meta](meta/meta.md)
 	* [my mind](meta/my-mind.md)
 	* [working on](meta/working-on.md)
-	* [abbreviations](meta/Abbreviations.md)
+	* [abbreviations](meta/abbreviations.md)
 * [life](life/Life.md)
 	* [self expression](life/self-expression.md)
 	* [journalling](life/Journalling.md)

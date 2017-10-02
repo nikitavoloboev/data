@@ -32,7 +32,7 @@ This wiki acts as a first class citizen and anything that I ultimately want to s
 
 # Future
 
-There are many, many things I am yet to add to this little system I am planning to make. I am still trying to find the perfect balance of how my knowledge, projects, thoughts and ideas and programmes and code should be structured but my goals with both this wiki, my mind maps are : 
+There are many, many things I am yet to add to this little system I am planning to make. I am still trying to find the perfect balance of how my knowledge, projects, thoughts and ideas and programmes and code should be structured but my goals with both this wiki and my mind maps are : 
 
 1. fast access to all this knowledge base  
 	- achieved through 
