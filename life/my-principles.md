@@ -5,7 +5,6 @@ I believe everyone should have some set of principles they should follow. Having
 Here are my principles :
 
  - knowledge and education should be free for all
-
 - I should value each animal’s life on this planet as equal to that of my own
 - I should attempt to minimise suffering caused directly by me to other living organisms and the planet
 - I should attempt to minimise suffering caused directly by me to other living organisms and the planet
