@@ -2,7 +2,7 @@
 
 Exploring my mind has always been one of the most interesting things in life for me.
 
-Exploring different states of consciousness both naturally or chemically induced. There is a certain sense of mystery how one chemical can radically change your perception in such a short time and you leave you with more questions than you started with.
+Exploring different states of consciousness both naturally or chemically induced. There is a certain sense of mystery how one chemical can radically change your perception in such a short time and leave you with more questions than you started with.
 
 Sadly, there is a rather negative stigma attached to most illegal drugs. It's sad that drugs like alcohol that numb your senses and your perception are socially acceptable yet drugs that let you explore and see things in a new light are banned and frowned upon.
 
