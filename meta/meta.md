@@ -30,11 +30,7 @@ In links I very often link to a  [Learn Anything](https://learn-anything.xyz/) m
 
 As my focus at current time is writing code to solve various problems, I will also be including a lot of code and covering various technical and interesting to me subjects. The code I will be linking to will be embedded as Gists and you can use and reuse it as you see fit. 
 
-# Abbreviations 🔖
 
-I will be using certain abbreviations for things that I may be repeating often. Here is what they mean : 
-
-- LA = [Learn Anything](https://learn-anything.xyz) (will often link to a map there for learning some topic)
 
 # My workflow in writing and maintaining this wiki
 
