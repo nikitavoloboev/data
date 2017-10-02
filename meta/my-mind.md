@@ -12,11 +12,11 @@ I use these mind maps for many things. Some maps I use to simply parse for link 
 
 Which as the name suggests, acts as my second brain that I use to quickly access anything I have indexed for myself. I share it because I wish other people took this idea and made their own _Alfred My Mind_ or a _knowledge wiki_ but for their own use. Sharing knowledge and tools like that is very powerful and makes a big difference. As I use and reuse other people's work and knowledge many times a day. It never hurts to add to the mix.
 
-But outside of parsing these maps for links for super fact access from Alfred. I also use these maps to actually stay sane with the immense amount of modifications and changes I have made in my life. Things like documenting my [Karabiner](macOS/karabiner/Karabiner.md) configuration. 
+But outside of parsing these maps for links for super fact access from Alfred. I also use these maps to actually stay sane with the immense amount of modifications and changes I have made in my life. Things like documenting my [Karabiner](../macOS/karabiner/Karabiner.md) configuration. 
 
 ![](https://i.imgur.com/hqMA7Kd.png)
 
-That you can see live [here](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh#2738.2,-4854.9,-3) and I explain it in more detail [here](macOS/karabiner/Karabiner.md).
+That you can see live [here](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh#2738.2,-4854.9,-3) and I explain it in more detail [here](../macOS/karabiner/Karabiner.md).
 
 I also use mind maps to keep my life in order with my own personal _projects_ mind map that looks like this : 
 
