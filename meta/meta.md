@@ -8,7 +8,8 @@ Gitbook provides a pretty awesome search feature that lets you search across thi
 
 I also really love using night mode. You can switch to it from here if you haven't :
 
-![](https://i.imgur.com/zMvyZeE.png)
+![](https://i.imgur.com/k6EDR4K.png)
+
 
 # Content Structure
 
