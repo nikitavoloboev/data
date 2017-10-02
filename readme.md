@@ -2,18 +2,17 @@
 
 <h1 align="center"> Description 📕</h1>
 
-Inspired by [this](https://yoshuawuyts.gitbooks.io/knowledge/content/). I want to keep my own version of a knowledge index that both I and other people can search over and use.
+Inspired by [this](https://yoshuawuyts.gitbooks.io/knowledge/content/). I want to keep [my own version of a knowledge index](https://nikitavoloboev.gitbooks.io/knowledge/content/) that both I and other people can search over and use.
 
-Unlike [my mind maps](meta/my-mind.md) and [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) that searches over these mind maps. I want this to be a more official knowledge index and a reference for things I know that I find useful to reference back to.
+Unlike [my mind maps](https://nikitavoloboev.gitbooks.io/knowledge/content/meta/my-mind.html) and [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) that searches over these mind maps. I want this to be a more official knowledge index and a reference for things I know that I find useful to reference back to.
 
 <h1 align="center"> Using the Search Well 🔍</h1>
 
 In the left corner you can make searches for what content I have already indexed or you can simply explore the tree view to the left.
 
-If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals in a lot of detail.
+If this is your first time visiting this wiki, take a look [here](https://nikitavoloboev.gitbooks.io/knowledge/content/meta/meta.html) as it describes this wiki, its structure and goals in a lot of detail.
 
 Aside from this, you can of course also explore [Learn Anything](https://learn-anything.xyz) for things that you can learn about and I will often reference it from these notes.
-
 
 <h1 align="center"> Other things I wrote and shared 📚</h1>
 
