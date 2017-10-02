@@ -22,7 +22,7 @@ I also use mind maps to keep my life in order with my own personal _projects_ mi
 
 ![](https://i.imgur.com/8ZXgvMS.png)
 
-I also use it to track things I am doing currently like tracking the [books I am reading now](https://my.mindnode.com/N7EYLDQWCsHKRLXadZKmvTwhr9P78ARYwZchG3mq#-49.6,-1462.4,2), [courses I am taking](https://my.mindnode.com/uXZqWxUQsXMGnzbjgjNccxsVGgtxA6d9RsM7NsHB) and a lot more. Essentially mind maps act as a digital augmentation of my mind in many ways. I want to visualise knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](https://medium.com/@NikitaVoloboev), the [YouTube videos I make](https://github.com/nikitavoloboev/my-youtube)  and of course finally through the code I write to make useful tools, apps and interactive visualisations that all can use and enjoy.
+I also use themo to track things I am doing currently like tracking the [books I am reading now](https://my.mindnode.com/N7EYLDQWCsHKRLXadZKmvTwhr9P78ARYwZchG3mq#-49.6,-1462.4,2), [courses I am taking](https://my.mindnode.com/uXZqWxUQsXMGnzbjgjNccxsVGgtxA6d9RsM7NsHB) and a lot more. Essentially mind maps act as a digital augmentation of my mind in many ways. I want to visualise knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](https://medium.com/@NikitaVoloboev), the [YouTube videos I make](https://github.com/nikitavoloboev/my-youtube)  and of course finally through the code I write to make useful tools, apps and interactive visualisations that all can use and enjoy.
 
 # How to use these mind maps
 
@@ -34,10 +34,10 @@ This wiki acts as a first class citizen and anything that I ultimately want to s
 
 There are many, many things I am yet to add to this little system I am planning to make. I am still trying to find the perfect balance of how my knowledge, projects, thoughts and ideas and programmes and code should be structured but my goals with both this wiki and my mind maps are : 
 
-1. fast access to all this knowledge base  
+1. fast access to all this knowledge base
 	- achieved through 
 		- alfred my mind 
 			- which will soon be rewritten in Go and be a lot more powerful
 		- this knowledge wiki itself and the search it has
 2. transcribing knowledge in terms that make sense to me and other people
-	- I wish to make my knowledge and expertise as _reusable_ by as many other interested people as possible 
+	- I wish to make my knowledge and expertise as _reusable_ by as many other interested people as possible
