@@ -4,7 +4,9 @@ I believe compassion for other living organisms is an important part of our live
 
 # Links
 
-- [What it means to live a conscious life?][1]
+- [What it means to live a conscious life?](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077)
 	- my thoughts on compassion and living a conscious life
 
-[1]:	https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077
+# Notes
+
+- Love, in all the forms that it takes, is the greatest gift we as a conscious creatures can give to one another.

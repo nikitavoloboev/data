@@ -6,10 +6,9 @@ Each folder is a topic that can include other topics under it, ideally related t
 
 Gitbook provides a pretty awesome search feature that lets you search across this entire knowledge base, so feel free to use it.
 
-I also really love the night mode. You can switch to it from here if you haven't :
+I also really love using night mode. You can switch to it from here if you haven't :
 
 ![](https://i.imgur.com/zMvyZeE.png)
-
 
 # Content Structure
 
