@@ -20,6 +20,7 @@
 	* [knowledge indexing](research/knowledge-indexing.md)
 	* [asking questions](research/asking-questions.md)
 * [writing](writing/Writing.md)
+	* [markdown](writing/Markdown.md)
 * [learning](learning/Learning.md)
 * [education](education/education.md)
 * [macOS](macOS/macOS.md)
