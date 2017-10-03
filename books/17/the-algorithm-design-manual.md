@@ -1,5 +1,5 @@
 # The algorithm design manual
 
-# Notes
+# 1. introduction to algorithm design
 
 - 
