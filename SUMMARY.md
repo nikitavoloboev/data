@@ -71,6 +71,7 @@
 	* [browsers](web/browsers/Browsers.md)
 		* [safari](web/browsers/Safari.md)
 	* [IPFS](web/IPFS.md)
+* [social networks](social-networks/social-networks.md)
 * [linux](linux/Linux.md)
 * [health](health/Health.md)
 	* [nutrition](health/nutrition/Nutrition.md)
