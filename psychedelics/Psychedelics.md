@@ -10,7 +10,7 @@ On the brighter side, I think things are changing and are getting better in this
 
 But as will all things, _moderation is key_. Or as in the case with psychedelics, this Alan Watts quote : 
 
-_"When you get the message, hang up the phone"_.
+> _"When you get the message, hang up the phone"_.
 
 # Links
 
