@@ -33,6 +33,7 @@
 		* [km](macOS/apps/km/km.md)
 		* [typinator](macOS/apps/Typinator.md)
 		* [MindNode](macOS/apps/Mindnode.md)
+		* [hammerspoon](macOS/apps/Hammerspoon.md)
 * [math](math/Math.md)
 	* [logic](math/Logic.md)
 	* [lambda calculus](math/lambda-calculus.md)

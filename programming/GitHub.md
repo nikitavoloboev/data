@@ -10,13 +10,13 @@ I publish most of my work and make it open source for other people to use and re
 
 For managing issues I have, I use [Ship macOS app](https://www.realartists.com).
 
-I assign a time frame to each issue, either `working on` or `soon`. 
+If I can't work on a task straight away, I assign `future` tag on it. 
 
 Ship app also allows you to put certain issues into Up Next group as can be seen below : 
 
 ![](https://i.imgur.com/DgMzQa1.png)
 
-And then I can filter through these issues.
+And then I can go through these issues one by one.
 
 # Tips and Tricks
 
