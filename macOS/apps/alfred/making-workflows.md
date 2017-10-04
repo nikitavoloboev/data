@@ -15,12 +15,16 @@ In cases where I am planning to use Go to write the workflow. Here are the steps
 	- i.e. `alfred-twitter`
 3. I initialise the folder with git as any project
 4. inside my `alfred-` folder I create a `workflow` directory
-	- this is where the actual workflow will live in as well as the binary file from my Go code
+	- this is where the actual workflow will live in as well as the binary file compiled from my Go code
 5. I create the workflow I want to make in alfred preferences
 	- add the icon, name and unique bundle id
 6. I then carry the info.plist and .png file of the logo to this workflow directory I created
 	- you can find these files by going here 
+
+
 ![](https://i.imgur.com/rVlcl9y.png)
+
+
 - I use Alfred's _Move To..._ file action for quickly transferring these files
 7. After transferring the files, I delete the workflow from Alfred preferences
 8. Inside my `alfred-` directory I run `alfred link` 
