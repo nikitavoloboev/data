@@ -1,4 +1,3 @@
-@: learning-cs
 # Learning Computer Science
 
 # Links
