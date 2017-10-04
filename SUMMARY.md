@@ -64,7 +64,7 @@
 	* [ego](consciousness/Ego.md)
 * [psychedelics](psychedelics/Psychedelics.md) 
 * [music](music/Music.md)
-	* [music artists](music/music-aritsts.md)
+	* [music artists](music/music-artists.md)
 * [unix](unix/Unix.md)
 	* [dotfiles](unix/Dotfiles.md)
 * [web](web/Web.md)

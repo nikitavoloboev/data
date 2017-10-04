@@ -10,5 +10,4 @@ As for myself, I like to follow these simple rules for eating my food :
 	- both for health reasons but mostly for [ethical reasons](../life/Compassion.md)
 2. no extra sugar in the food
 3. no processed food
-4. drink more water 
 
