@@ -13,4 +13,5 @@ Go promotes composition over inheritance.
 
 # Notes
 
-- I can call functions from anywhere if they are in the same packagez
+- I can call functions from anywhere if they are in the same package.
+- 
