@@ -11,3 +11,7 @@ Another one of my focuses is transparency. I want to do everything in a way that
 In short, MindNode for me is the ultimate playground where ideas get born and played with first. I even have a _thinking_ map that I open with Karabiner by pressing _b + :_. And I brainstorm thing I am doing __now__ there. Here is how that looks :
 
 ![](https://i.imgur.com/WarjaVq.png)
+
+# Notes
+
+- ⌥ + delete will delete currently selected node only unlike delete which will delete the entire branch
