@@ -19,15 +19,12 @@ In cases where I am planning to use Go to write the workflow. Here are the steps
 5. I create the workflow I want to make in alfred preferences
 	- add the icon, name and unique bundle id
 6. I then carry the info.plist and .png file of the logo to this workflow directory I created
-	- you can find these files by going here 
-
+	- I use Alfred's _Move To..._ file action for quickly transferring these files
+	- you can find them by going here
 
 ![](https://i.imgur.com/rVlcl9y.png)
 
-
-- I use Alfred's _Move To..._ file action for quickly transferring these files
-7. After transferring the files, I delete the workflow from Alfred preferences
-8. Inside my `alfred-` directory I run `alfred link` 
-	- that creates a symlink between the workflow directory and where the actual workflow lies 
-9. I write my Go code inside `alfred-` folder and when I want to compile it to run from Alfred, I run `alfred build`
-
+- After transferring the files, I delete the workflow from Alfred preferences
+- Inside my `alfred-` directory I run `alfred link` 
+	- that creates a symlink between the workflow directory and where the actual workflow lies
+- I write my Go code inside `alfred-` folder and when I want to compile it to run from Alfred, I run `alfred build`
