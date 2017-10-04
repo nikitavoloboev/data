@@ -6,13 +6,15 @@
 
 ## call hammerspoon functions from Applescript
 First activate applescript support : 
+
 `hs.allowAppleScript(true)`
+
 Then you can call functions from your lua code like this :
 
-```Lua
+\`\`\`Lua
 tell application "Hammerspoon"
 execute lua code "showClipBoardContent()"
 end tell
-```
+\`\`\`
 
 In the above case it would call `showClipBoardContent()` function.
