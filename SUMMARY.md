@@ -34,6 +34,7 @@
 		* [typinator](macOS/apps/Typinator.md)
 		* [mindnode](macOS/apps/Mindnode.md)
 		* [hammerspoon](macOS/apps/Hammerspoon.md)
+		* [hazel](macOS/apps/Hazel.md)
 * [math](math/Math.md)
 	* [logic](math/Logic.md)
 	* [lambda calculus](math/lambda-calculus.md)

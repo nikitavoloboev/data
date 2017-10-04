@@ -11,3 +11,6 @@ Go promotes composition over inheritance.
 
 - [LA](https://learn-anything.xyz/programming/programming-languages/go)
 
+# Notes
+
+- I can call functions from anywhere if they are in the same packagez
