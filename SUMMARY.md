@@ -47,6 +47,7 @@
 * [programming](programming/Programming.md)
 	* [git](programming/Git.md)
 	* [GitHub](programming/GitHub.md)
+	* [regex](programming/regex/Regex.md)u
 	* [semantic versioning](programming/semantic-versioning.md)
 * [programming languages](programming-languages/programming-languages.md)
 	* [go](programming-languages/go/Go.md)
