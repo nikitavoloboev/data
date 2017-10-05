@@ -7,7 +7,7 @@ Snippet below makes `a` key into a modifier key. This only works for old Karabin
 
 # Notes
 
-- You can probably use [this](https://github.com/tekezo/Karabiner-Elements/issues/926) to achieve this behaviour but I have not tested it
+- You can probably use [this](https://github.com/tekezo/Karabiner-Elements/issues/926) to achieve this behaviour on Sierra but I have not tested it
 
 
 
