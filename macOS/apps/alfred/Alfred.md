@@ -7,6 +7,7 @@
 
 - [LA](https://learn-anything.xyz/software/tooling/productivity/alfred)
 
+# Notes
 
 ## clean prompt
 
@@ -15,3 +16,4 @@ Sometimes when passing things from one object into another, you want to clear yo
 ![](https://i.imgur.com/seduWW7.png)
 
 
+- 
