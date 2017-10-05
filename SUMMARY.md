@@ -74,6 +74,7 @@
 	* [music artists](music/music-artists.md)
 * [unix](unix/Unix.md)
 	* [dotfiles](unix/Dotfiles.md)
+	* [zsh](unix/Zsh.md)
 * [web](web/Web.md)
 	* [browsers](web/browsers/Browsers.md)
 		* [safari](web/browsers/Safari.md)
