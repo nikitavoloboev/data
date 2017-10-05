@@ -95,7 +95,7 @@
 	* [sleep](productivity/Sleep.md)
 	* [my workflow](productivity/my-workflow.md)
 * [design](design/Design.md)
-* [cryptocurrencies](cryptocurrencies/Cryptocurrencies.md)
+* [cryptocurrencies](cryptocurrencies/cryptocurrencies.md)
 	* [bitcoin](cryptocurrencies/Bitcoin.md)
 * [games](games/Games.md)
 * [podcasts](podcasts/Podcasts.md)
