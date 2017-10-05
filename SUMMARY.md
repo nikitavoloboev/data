@@ -13,7 +13,6 @@
 	* [my principles](life/my-principles.md)
 	* [lessons learned](life/lessons-learned.md)
 	* [staying on top of things](life/staying-on-top-of-things.md)
-
 * [projects](projects/Projects.md)
 	* [learn anything](projects/learn-anything.md)
 * [knowledge](knowledge/Knowledge.md)
@@ -106,3 +105,5 @@
 * [courses](courses/Courses.md)
 * [books](books/Books.md)
 	* [go in action](books/17/go-in-action.md)
+* [other](other/other-things.md)
+	* [interesting things](other/interesting-things.md)
