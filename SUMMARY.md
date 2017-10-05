@@ -7,6 +7,7 @@
 	* [abbreviations](meta/abbreviations.md)
 * [projects](projects/Projects.md)
 	* [learn anything](projects/learn-anything.md)
+	* [crafting ideas](projects/crafting-ideas.md)
 * [knowledge](knowledge/Knowledge.md)
 	* [things I know](knowledge/things-I-know.md)
 	* [things I want to learn](knowledge/things-I-want-to-learn.md)
