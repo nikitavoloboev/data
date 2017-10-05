@@ -13,6 +13,9 @@
 	* [my principles](life/my-principles.md)
 	* [lessons learned](life/lessons-learned.md)
 	* [staying on top of things](life/staying-on-top-of-things.md)
+
+* [projects](projects/Projects.md)
+	* [learn anything](projects/learn-anything.md)
 * [knowledge](knowledge/Knowledge.md)
 	* [things I know](knowledge/things-I-know.md)
 	* [things I want to learn](knowledge/things-I-want-to-learn.md)
@@ -96,8 +99,6 @@
 * [cryptocurrencies](cryptocurrencies/Cryptocurrencies.md)
 	* [bitcoin](cryptocurrencies/Bitcoin.md)
 * [games](games/Games.md)
-* [projects](projects/Projects.md)
-	* [learn anything](projects/learn-anything.md)
 * [podcasts](podcasts/Podcasts.md)
 * [quotes](quotes/Quotes.md)
 * [movies](movies/Movies.md)
