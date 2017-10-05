@@ -74,6 +74,7 @@
 * [web](web/Web.md)
 	* [browsers](web/browsers/Browsers.md)
 		* [safari](web/browsers/Safari.md)
+		* [chrome](web/browsers/google-chrome.md)
 	* [IPFS](web/IPFS.md)
 * [social networks](social-networks/social-networks.md)
 * [linux](linux/Linux.md)
@@ -96,6 +97,7 @@
 	* bitcoin
 * [games](games/Games.md)
 * [projects](projects/Projects.md)
+	* [learn anything](projects/learn-anything.md)
 * [podcasts](podcasts/Podcasts.md)
 * [quotes](quotes/Quotes.md)
 * [movies](movies/Movies.md)
