@@ -91,6 +91,7 @@
 * [philosophy](philosophy/philosophy.md)
 	* [simulated reality](philosophy/simulated-reality.md)
 * [machine learning](machine-learning/machine-learning.md)
+	* [neural networks](machine-learning/neural-networks.md)
 * [tools](tools/Tools.md)
 	* [Gitbook](tools/Gitbook.md)
 * [ideas](ideas/Ideas.md)
