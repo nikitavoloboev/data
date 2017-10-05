@@ -93,8 +93,8 @@
 	* [sleep](productivity/Sleep.md)
 	* [my workflow](productivity/my-workflow.md)
 * [design](design/Design.md)
-* cryptocurrencies
-	* bitcoin
+* [cryptocurrencies](cryptocurrencies/Cryptocurrencies.md)
+	* [bitcoin](cryptocurrencies/Bitcoin.md)
 * [games](games/Games.md)
 * [projects](projects/Projects.md)
 	* [learn anything](projects/learn-anything.md)
