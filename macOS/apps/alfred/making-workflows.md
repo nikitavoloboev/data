@@ -19,8 +19,8 @@ In cases where I am planning to use Go to write the workflow. Here are the steps
 5. I create the workflow I want to make in alfred preferences
 	- add the icon, name and unique bundle id
 6. I then carry the info.plist and .png file of the logo to this workflow directory I created
-	- I use Alfred's _Move To..._ file action for quickly transferring these files
-	- you can find them by going here
+	- I use Alfred's _Move To..._ file action for quickly transferring files
+	- you can find these files by going here
 
 ![](https://i.imgur.com/rVlcl9y.png)
 
