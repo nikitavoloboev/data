@@ -12,27 +12,3 @@ Also it's really useful to use [SpellCheck](https://www.shellcheck.net).
 {% gist id="https://gist.github.com/e01c827c070d158aa63d339fd2e962c7" %}{% endgist %}
 
 
-```Sh
-case $1 in
-  "")         usage; exit 1 ;;
-  -h|--help)  usage; exit ;;
-  -l|--link)  link "$@" ;;
-  *)          readonly name=$1 ;;
-esac
-```
-
-
-```Sh
-case $1 in
-  "")         usage; exit 1 ;;
-  -h|--help)  usage; exit ;;
-  -l|--link)  link "$@" ;;
-  *)          readonly name=$1 ;;
-esac
-```
-
-
-
-
-
-
