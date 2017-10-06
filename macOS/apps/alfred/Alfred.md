@@ -11,7 +11,7 @@ Sometimes when passing things from one object into another, you want to clear yo
 # Links
 
 - [LA](https://learn-anything.xyz/software/tooling/productivity/alfred)
-- [how to: workflow / environment variables]()
+- [how to: workflow / environment variables](https://www.alfredforum.com/topic/9070-how-to-workflowenvironment-variables/?tab=comments#comment-45177)
 
 # Notes
 
