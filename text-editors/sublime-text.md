@@ -8,4 +8,4 @@ I now always keep it open full screen with my .dotfiles folder open there :
 
 I also use it to quickly edit certain config files like [adding more web searches](https://github.com/nikitavoloboev/alfred-web-searches), adding more maps to parse for Alfred My Mind or editing and adding maps for LA itself.
 
-Lately I have been really enjoying using this editor. The editor + [Six vim plugin](https://github.com/guillermooo/Six) is genuinely 
+Lately I have been really enjoying using this editor. The editor + [Six vim plugin](https://github.com/guillermooo/Six) is genuinely amazing.
