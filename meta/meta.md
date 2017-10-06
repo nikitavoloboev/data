@@ -25,6 +25,8 @@ The structure of each of the posts will then look roughly like this :
 	- links related to the topic
 4. Notes
 	- my own personal notes on the matter
+5. interesting
+	- some things I find interesting
 
 In links I very often link to a  [Learn Anything](https://learn-anything.xyz/) map as that in my opinion is the perfect place to start learning any topic as it should ideally show you the most efficient path for learning anything. Aside from the link to LA, I may also include some of my own things I wrote or really liked as well as my comments on these links.
 
@@ -67,4 +69,3 @@ And finally, the most used macro I use to fully automate updating this wiki is s
 And that is pretty much it. This lets me be extremely fast with editing and maintaining this wiki. I also heavily make use of this wiki by searching through Gitbook book itself : 
 
 ![](https://i.imgur.com/UY8B6gc.png)
-
