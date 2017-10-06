@@ -8,3 +8,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 
 - [LA](https://learn-anything.xyz/operating-systems/unix)
 - [shell scripts and tools](https://yoshuawuyts.gitbooks.io/knowledge/content/unix/unix.html)
+- [stream editing](https://yoshuawuyts.gitbooks.io/knowledge/content/unix/streams.html)
