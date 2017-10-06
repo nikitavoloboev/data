@@ -72,7 +72,7 @@
 * [consciousness](consciousness/Consciousness.md)
 	* [ego](consciousness/Ego.md)
 * [psychedelics](psychedelics/Psychedelics.md) 
-* [muasic](music/Music.md)
+* [music](music/Music.md)
 	* [music artists](music/music-artists.md)
 * [unix](unix/Unix.md)
 	* [shell](unix/shell/shell.md)

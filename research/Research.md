@@ -40,7 +40,7 @@ In addition to Learn Anything, I also make a lot of filters of my own for _even 
 - [all the reddit subreddits worth visiting](https://github.com/learn-anything/reddit) 
 - [all the websites worth visiting](https://my.mindnode.com/LQyxs8s9UewT5WKMbtUMrjJeRZCAHwU5JVY5ryiM)
 - [all the research papers worth reading](https://github.com/learn-anything/research-papers)
-- 
+
 
 
 # Links

@@ -2,7 +2,7 @@
 
 I believe everyone should have some set of principles they should follow. Having a clear picture of what is important to you and what you want to focus on doing in life is important.
 
-Here are my principles :
+Here are my mine :
 
 1. knowledge and education should be free for all
 2. I should value each animal’s life on this planet as equal to that of my own
