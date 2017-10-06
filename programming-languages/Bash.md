@@ -22,6 +22,16 @@ esac
 ```
 
 
+```Sh
+case $1 in
+  "")         usage; exit 1 ;;
+  -h|--help)  usage; exit ;;
+  -l|--link)  link "$@" ;;
+  *)          readonly name=$1 ;;
+esac
+```
+
+
 
 
 
