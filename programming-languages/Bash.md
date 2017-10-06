@@ -13,5 +13,4 @@ Also it's really useful to use [SpellCheck](https://www.shellcheck.net).
 
 
 ```Bash
-`ssh -i \<path/to/file\> \<name\>@\<ip\>
-````
+ssh -i <path/to/file> <name>@<ip>
