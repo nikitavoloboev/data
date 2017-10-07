@@ -64,6 +64,7 @@
 	* [vs code](text-editors/vs-code.md)
 	* [vim](text-editors/Vim.md)
 	* [sublime text](text-editors/sublime-text.md)
+	* [emacs](text-editors/Emacs.md)
 * [mindfulness](mindfulness/Mindfulness.md)
 	* [meditation](mindfulness/Meditation.md)
 * [physics](physics/Physics.md)

@@ -17,7 +17,7 @@ Similar to how I took Yoshua's idea with his [original knowledge repo](https://g
 
 # Plugins I like
 
-## [KaTex ](https://plugins.gitbook.com/plugin/katex)
+## [KaTex](https://plugins.gitbook.com/plugin/katex)
 
 To insert LaTeX, surround LaTeX code with `$$`.
 
