@@ -39,6 +39,7 @@
 		* [hammerspoon](macOS/apps/Hammerspoon.md)
 		* [hazel](macOS/apps/Hazel.md)
 		* [2Do](macOS/apps/2Do.md)
+	* [homebrew](macOS/Homebrew.md)
 * [math](math/Math.md)
 	* [logic](math/Logic.md)
 	* [lambda calculus](math/lambda-calculus.md)
