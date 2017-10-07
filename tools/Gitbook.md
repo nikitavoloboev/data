@@ -17,7 +17,7 @@ Similar to how I took Yoshua's idea with his [original knowledge repo](https://g
 
 # Plugins I like
 
-## [Mathjax](https://plugins.gitbook.com/plugin/mathjax)
+## [KaTex ](https://plugins.gitbook.com/plugin/katex)
 
-To insert LaTex, start your the block with ` {% math %} ` and end it with `{% endmath %}`. Or use the shortcut `$$`.
+To insert LaTeX, surround LaTeX code with `$$`.
 
