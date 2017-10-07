@@ -8,6 +8,4 @@ I am writing a longer article on this that I hope to publish soon.
 
 ## go to 2Do list from URL scheme
 
-`twodo://x-callback-url/showList?name=bugs` 
-
-Would go to to `bugs` list.
+`twodo://x-callback-url/showList?name=bugs` would go to to `bugs` list.
