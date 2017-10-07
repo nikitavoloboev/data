@@ -14,3 +14,6 @@ Similar to how I took Yoshua's idea with his [original knowledge repo](https://g
 	- extend your Gitbook with useful things
 - [Gitbook explore](https://www.gitbook.com/explore)
 	- find work made by other people
+
+
+
