@@ -6,6 +6,9 @@ Although 2Do focused on actionable tasks that I have to complete in [GTD](http:/
 
 I am writing a longer article on this that I hope to publish soon.
 
-## go to 2Do list from URL scheme
+# Notes
 
-`twodo://x-callback-url/showList?name=bugs` would go to to `bugs` list.
+- go to 2Do list from URL scheme
+	- `twodo://x-callback-url/showList?name=bugs` would go to to `bugs` list.
+	- more [here](https://www.2doapp.com/kb/article/url-schemes.html)
+

@@ -59,6 +59,7 @@
 	* [bash](programming-languages/Bash.md)
 	* [haskell](programming-languages/Haskell.md)
 	* [javascript](programming-languages/Javascript.md)
+	* [clojure](programming-languages/clojure.md)
 * [open source](open-source/open-source.md)
 	* [GitHub](open-source/GitHub.md)
 * [text editors](text-editors/text-editors.md)
