@@ -9,6 +9,9 @@ Also it's really useful to use [SpellCheck](https://www.shellcheck.net).
 
 ## removes some string from a string
 
-{% gist id="https://gist.github.com/e01c827c070d158aa63d339fd2e962c7" %}{% endgist %}
-
+```Bash
+url="https://github.com/learn-anything/maps"
+# removes https:// 
+url="${url#https://}"
+```
 
