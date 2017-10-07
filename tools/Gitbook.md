@@ -13,5 +13,11 @@ Similar to how I took Yoshua's idea with his [original knowledge repo](https://g
 - [plugins 🖌](https://toolchain.gitbook.com/)
 	- extend your Gitbook with useful things
 - [Gitbook explore](https://www.gitbook.com/explore)
-	- find work made by other people
+	- find books made by other people
+
+# Plugins I like
+
+## [Mathjax](https://plugins.gitbook.com/plugin/mathjax)
+
+To insert LaTex, start your the block with ` {% math %} ` and end it with `{% endmath %}`. Or use the shortcut `$$`.
 
