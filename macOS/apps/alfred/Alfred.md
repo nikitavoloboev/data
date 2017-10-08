@@ -2,11 +2,17 @@
 
 [Alfred](https://www.alfredapp.com/) is a macOS launcher that is extremely powerful as you can program it to show what you want.
 
-## clean prompt
+### clean prompt
 
 Sometimes when passing things from one object into another, you want to clear your {query} being passed to get a clean prompt. To achieve this you can set argument utility and set it as empty like here : 
 
 ![](https://i.imgur.com/seduWW7.png)
+
+### exclude certain folders or files from being searched
+
+For example, if you have a file filter that searches through some folders and its contents but you don't wish for it to search some big `node_modules` folder. You can simply add this folder to Spotlight preferences under _privacy_ tab like here : 
+
+![](https://i.imgur.com/D0NP2s3.png)
 
 # Links
 
