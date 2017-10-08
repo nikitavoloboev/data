@@ -20,5 +20,4 @@ Sometimes when passing things from one object into another, you want to clear yo
 	- I added a finder comment to node\_modules like so 
 ![](https://i.imgur.com/J8Co1dt.png)
 - and then in my Alfred File filter I said to skip files where the comment is _skip_
-
 ![](https://i.imgur.com/qRIYTZi.png)

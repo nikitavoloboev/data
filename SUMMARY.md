@@ -67,6 +67,7 @@
 	* [vim](text-editors/Vim.md)
 	* [sublime text](text-editors/sublime-text.md)
 	* [emacs](text-editors/Emacs.md)
+* [operating systems](operating-systems/operating-systems.md)
 * [mindfulness](mindfulness/Mindfulness.md)
 	* [meditation](mindfulness/Meditation.md)
 * [physics](physics/Physics.md)
