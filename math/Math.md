@@ -9,7 +9,3 @@ As for all things being learned, it is best to learn by doing and practicing.
 # Links
 
 - [LA](https://learn-anything.xyz/mathematics)
-
-$$
-\int_{-\infty}^\infty g(x) dx
-$$
