@@ -9,4 +9,6 @@ I want to learn many things. Here are some of the more important areas I am focu
 - javascript and web development
 	- for making web applications
 - math
-	- for improving and expanding my thinking 
+	- for improving and expanding my thinking
+- music
+	- learning to play the guitar 
