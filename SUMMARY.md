@@ -113,6 +113,7 @@
 	* [bitcoin](cryptocurrencies/Bitcoin.md)
 * [games](games/Games.md)
 * [podcasts](podcasts/Podcasts.md)
+* [talks](talks/Talks.md)
 * [humans](humans/Humans.md)
 * [quotes](quotes/Quotes.md)
 * [movies](movies/Movies.md)
