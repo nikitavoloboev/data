@@ -1,6 +1,6 @@
 # Lessons learned
 
-# Life 
+# Life
 
 - automate backups
 	- make sure the backups you’ve made are actually successful
@@ -59,6 +59,10 @@
 - use switch cases over long ifs
 - it’s a lot easier to actually just use one screen
 	- much easier to context switch
+- use version control
+	- and commit your changes
+	- it is a pain to reverse and fix things when you don't know where the problem is
+	- do __atomic__ commits
 
 # Using Mind maps
 
@@ -66,5 +70,4 @@
 	- try to see how this piece of knowledge plays a role in on a more higher level
 - be smart about how to present information in the mind maps
 	- it should be more of a guide and a glue between different things rather than as a way to dump everything in one single file
-
 
