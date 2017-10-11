@@ -6,3 +6,6 @@ I love watching interesting talks on various subjects. I hope to give a few talk
 
 - [17: My History with Papers by James Long](https://www.youtube.com/watch?v=UzE955UJUVU)
 
+## Go
+
+- [17: Building a Bank with Go](https://www.infoq.com/presentations/bank-go)
