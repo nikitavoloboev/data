@@ -9,3 +9,7 @@ I love watching interesting talks on various subjects. I hope to give a few talk
 ## Go
 
 - [17: Building a Bank with Go](https://www.infoq.com/presentations/bank-go)
+
+## Startups
+
+- [17: New Tech Start-Up Bubble](https://www.youtube.com/watch?v=G7vrCpWbmDw)
