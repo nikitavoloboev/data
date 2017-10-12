@@ -89,6 +89,8 @@
 	* [browsers](web/browsers/Browsers.md)
 		* [safari](web/browsers/Safari.md)
 		* [chrome](web/browsers/google-chrome.md)
+	* [react](web/react/React.md)
+		* [redux](web/react/Redux.md)
 	* [IPFS](web/IPFS.md)
 * [social networks](social-networks/social-networks.md)
 * [linux](linux/Linux.md)
