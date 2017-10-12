@@ -116,6 +116,7 @@
 * [games](games/Games.md)
 * [podcasts](podcasts/Podcasts.md)
 * [talks](talks/Talks.md)
+* [art](art/Art.md)
 * [humans](humans/Humans.md)
 * [quotes](quotes/Quotes.md)
 * [movies](movies/Movies.md)
