@@ -34,7 +34,7 @@ Together with [Learn Anything](https://learn-anything.xyz/), you really do have 
 In addition to Learn Anything, I also make a lot of filters of my own for _even faster_ access to knowledge and resources. I collected : 
 
 - [books I liked and plan to read](https://github.com/learn-anything/books)
-	- both free and paid, here
+	- both free and paid
 - [all the courses that are worth taking](https://github.com/learn-anything/courses) 
 - [all the blogs worth reading](https://github.com/learn-anything/blogs)
 - [all the reddit subreddits worth visiting](https://github.com/learn-anything/reddit) 

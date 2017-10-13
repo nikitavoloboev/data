@@ -4,7 +4,7 @@ Snippet below makes `a` key into a modifier key. This only works for old Karabin
 
 ## sticky key example
 
-```XML
+\`\`\`XML
 <item>
 	<name>general: sticky p</name>
 	<identifier>private.launcher_mode_open_apps_v12</identifier>
@@ -55,19 +55,19 @@ Snippet below makes `a` key into a modifier key. This only works for old Karabin
 	</autogen>
 
   </item>
-```
+\`\`\`
 
 This will make your P key into a modifier key where if you press it once, it will insert P. However if you press and _hold_ P key, it becomes your own personal modifier key. 
 
 This code : 
 
-```XML
+\`\`\`XML
 	<autogen>
 	    __KeyToKey__
 	    KeyCode::A,
 	    KeyCode::A, ModifierFlag::CONTROL_L
 	</autogen>
-```
+\`\`\`
 
 Makes it so that pressing A key when P is pressed will make control + A action.
 
@@ -75,5 +75,4 @@ You can extend this to add more modifier key presses this way.
 
 # Notes
 
-- You can probably use [this](https://github.com/tekezo/Karabiner-Elements/issues/926) to achieve this behaviour on Sierra but I have not tested it
-e
+- You can probably use [this](https://github.com/tekezo/Karabiner-Elements/issues/926) to achieve this behaviour on Sierra but I have not tested it.
