@@ -67,7 +67,7 @@ This code :
 	    KeyCode::A,
 	    KeyCode::A, ModifierFlag::CONTROL_L
 	</autogen>
-\`\`\`
+```
 
 Makes it so that pressing A key when P is pressed will make control + A action.
 
