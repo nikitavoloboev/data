@@ -4,7 +4,7 @@ Snippet below makes `a` key into a modifier key. This only works for old Karabin
 
 ## sticky key example
 
-\`\`\`XML
+```XML
 <item>
 	<name>general: sticky p</name>
 	<identifier>private.launcher_mode_open_apps_v12</identifier>
@@ -55,13 +55,13 @@ Snippet below makes `a` key into a modifier key. This only works for old Karabin
 	</autogen>
 
   </item>
-\`\`\`
+```
 
 This will make your P key into a modifier key where if you press it once, it will insert P. However if you press and _hold_ P key, it becomes your own personal modifier key. 
 
 This code : 
 
-\`\`\`XML
+```XML
 	<autogen>
 	    __KeyToKey__
 	    KeyCode::A,
