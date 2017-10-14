@@ -63,6 +63,8 @@
 	* [clojure](programming-languages/Clojure.md)
 * [open source](open-source/open-source.md)
 	* [GitHub](open-source/GitHub.md)
+* [languages](languages/Languages.md)
+	* [english](languages/english/english.md)
 * [text editors](text-editors/text-editors.md)
 	* [vs code](text-editors/vs-code.md)
 	* [vim](text-editors/Vim.md)

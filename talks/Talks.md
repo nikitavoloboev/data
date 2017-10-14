@@ -10,6 +10,10 @@ I love watching interesting talks on various subjects. I hope to give a few talk
 
 - [17: Building a Bank with Go](https://www.infoq.com/presentations/bank-go)
 
+## Clojure
+
+- [17: Opening Keynote - Rich Hickey](https://www.youtube.com/watch?v=2V1FtfBDsLU)
+
 ## Startups
 
 - [17: New Tech Start-Up Bubble](https://www.youtube.com/watch?v=G7vrCpWbmDw)
