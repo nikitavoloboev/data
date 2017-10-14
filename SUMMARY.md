@@ -12,6 +12,7 @@
 	* [things I know](knowledge/things-I-know.md)
 	* [things I want to learn](knowledge/things-I-want-to-learn.md)
 * [life](life/Life.md)
+
 	* [self expression](life/self-expression.md)
 	* [memories](life/Memories.md)
 	* [journalling](life/Journalling.md)
