@@ -1,9 +1,5 @@
 # Working on
   
-Here are things I am currently working on and learning.
-
-# Working
-
 I am currently working on : 
 
 - [learn anything](https://learn-anything.xyz/)
