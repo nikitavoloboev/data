@@ -12,8 +12,8 @@
 	* [things I know](knowledge/things-I-know.md)
 	* [things I want to learn](knowledge/things-I-want-to-learn.md)
 * [life](life/Life.md)
-
 	* [self expression](life/self-expression.md)
+	* [time](life/Time.md)
 	* [memories](life/Memories.md)
 	* [journalling](life/Journalling.md)
 	* [compassion](life/Compassion.md)
