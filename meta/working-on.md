@@ -14,6 +14,4 @@ I am currently working on :
 
 The projects I am currently working on and ones I have completed can be seen [here](https://nikitavoloboev.xyz/projects/).
 
-# Learning
-
 
