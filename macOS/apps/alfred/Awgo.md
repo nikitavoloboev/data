@@ -7,4 +7,5 @@ Will try to document things I know on how to effectively use it or at least how 
 # Notes
 
 - using macOS console app is a lot nicer than using Alfred debugger
-	- you can access it by running `workflow:`
+	- you can access it by running `workflow:log` in a script filter
+	- where `workflow:` is a magic argument with a bunch of other dev related things you can run
