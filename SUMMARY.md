@@ -24,6 +24,7 @@
 * [research](research/Research.md)
 	* [knowledge indexing](research/knowledge-indexing.md)
 	* [asking questions](research/asking-questions.md)
+	* [finding answers](research/finding-answers.md)
 * [work](work/Work.md)
 	* [focusing](work/Focusing.md)
 * [writing](writing/Writing.md)
