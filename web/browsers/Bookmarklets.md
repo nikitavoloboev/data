@@ -18,4 +18,3 @@ javascript:(b=>fetch('https://api.github.com/repos/'+b[1]+'/commits?sha='+(b[2]|
 
 Lets you see where the link you are watching right now has been discussed before. Super handy.
 
-
