@@ -122,6 +122,7 @@
 * [talks](talks/Talks.md)
 * [art](art/Art.md)
 * [API](api/API.md)
+* [IRC](irc/IRC.md)
 * [humans](humans/Humans.md)
 * [quotes](quotes/Quotes.md)
 * [movies](movies/Movies.md)

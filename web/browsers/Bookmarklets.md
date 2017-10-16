@@ -1,8 +1,6 @@
 # Bookmarklets
 
-I only use two bookmarklets often right now. 
-
-I run all these bookmarklets from KM like so :
+I run my bookmarklets from KM like so :
 
 ![](https://i.imgur.com/UIQNrjr.png)
 
