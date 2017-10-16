@@ -25,13 +25,3 @@ And then I can go through these issues one by one.
 	- I [slightly modified it](https://www.dropbox.com/s/t3iyjt3pyuz8mup/github%20jumps-.alfredworkflow?dl=1) to jump to different parts of the repo with modifiers like going to issues, releases, opening new issue or even cloning the repo instantly
 - [this](http://www.somsubhra.com/github-release-stats/) is really cool website where you can find how people people have downloaded various GitHub releases of people
 
-
-## go to first commit of currently open repo bookmarklet
-
-```Javascript
-javascript:(b=>fetch('https://api.github.com/repos/'+b[1]+'/commits?sha='+(b[2]||'')).then(c=>Promise.all([c.headers.get('link'),c.json()])).then(c=>{if(c[0]){var d=c[0].split(',')[1].split(';')[0].slice(2,-1);return fetch(d).then(e=>e.json())}return c[1]}).then(c=>c.pop().html_url).then(c=>window.location=c))(window.location.pathname.match(/\/([^\/]+\/[^\/]+)(?:\/tree\/([^\/]+))?/));
-```
-
-I run it from Keyboard Maestro like so : 
-
-![](https://i.imgur.com/UIQNrjr.png)
