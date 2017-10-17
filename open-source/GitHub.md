@@ -10,9 +10,7 @@ I publish most of my work and make it open source for other people to use and re
 
 For managing issues I have, I use [Ship macOS app](https://www.realartists.com).
 
-If I can't work on a task straight away, I assign `future` tag on it. 
-
-Ship app also allows you to put certain issues into Up Next group as can be seen below : 
+It allows me to put certain issues into Up Next group as can be seen below : 
 
 ![](https://i.imgur.com/DgMzQa1.png)
 
@@ -24,4 +22,3 @@ And then I can go through these issues one by one.
 - [GitHub jump](https://github.com/lox/alfred-github-jump) workflow is one of the best things you can install to navigate GitHub like a God
 	- I [slightly modified it](https://www.dropbox.com/s/t3iyjt3pyuz8mup/github%20jumps-.alfredworkflow?dl=1) to jump to different parts of the repo with modifiers like going to issues, releases, opening new issue or even cloning the repo instantly
 - [this](http://www.somsubhra.com/github-release-stats/) is really cool website where you can find how people people have downloaded various GitHub releases of people
-
