@@ -113,7 +113,7 @@
 * [ideas](ideas/Ideas.md)
 * [productivity](productivity/Productivity.md)
 	* [flow](productivity/flow/Flow.md)
-		* [flow proceses](productivity/flow/flow-processes.md)
+		* [flow processes](productivity/flow/flow-processes.md)
 	* [sleep](productivity/Sleep.md)
 	* [my workflow](productivity/my-workflow.md)
 * [design](design/Design.md)
