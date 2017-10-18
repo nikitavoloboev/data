@@ -9,7 +9,7 @@ Go promotes composition over inheritance.
 
 # Links
 
-- [LA](https://learn-anything.xyz/programming/programming-languages/go)
+- [15: Performance without the event loop](https://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
 
 # Notes
 
