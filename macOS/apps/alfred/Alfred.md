@@ -1,6 +1,6 @@
-# Alfred
+# [Alfred](https://www.alfredapp.com/)
 
-[Alfred](https://www.alfredapp.com/) is a macOS launcher that is extremely powerful as you can program it to show what you want. [Here](https://github.com/learn-anything/alfred-workflows) are all the workflows I really love to use with it.
+Alfred is a macOS launcher that is extremely powerful as you can program it to show what you want. [Here](https://github.com/learn-anything/alfred-workflows) are all the workflows I really love to use with it.
 
 ### clean prompt
 
