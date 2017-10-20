@@ -1,4 +1,4 @@
-# Go in action
+# [Go in action](https://www.goodreads.com/book/show/22727352-go-in-action?from_search=true)
 
 # Chapter 2 - quick start
 
@@ -12,7 +12,6 @@
 # Chapter 3 - packages
 
 - The convention for naming your package is to use the name of the directory containing it.
-
 
 
 
