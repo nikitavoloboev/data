@@ -2,7 +2,7 @@
 Still learning it.
 
 # useful snippets
-## get the URL of the frontmost tab
+## get the URL of the frontmost chrome tab 
 ```Javascript
 Application('Google Chrome').windows\[0].activeTab.url()
 ```

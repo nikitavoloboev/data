@@ -1,4 +1,4 @@
-# Mindnode
+# MindNode
 
 The app that I use to make various mind maps. It is currently one of my top 5 used apps and alongside 2Do acts as my second brain to everything that I do.
 
