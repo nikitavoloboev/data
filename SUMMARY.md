@@ -9,6 +9,7 @@
 	* [crafting ideas](projects/crafting-ideas.md)
 * [working on](working-on/working-on.md)
 	* [learning](working-on/Learning.md)
+	* [reading](working-on/Reading.md)
 * [knowledge](knowledge/Knowledge.md)
 	* [things I know](knowledge/things-I-know.md)
 	* [things I want to learn](knowledge/things-I-want-to-learn.md)
