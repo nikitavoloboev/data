@@ -2,7 +2,7 @@
 
 My focus at current time is learning :
 
-- [programming in Go](../programming-languages/Go.md)
+- [programming in Go](../programming-languages/go/Go.md)
 - [math](../math/Math.md)
 - [vim](../text-editors/Vim.md)
 - macOS automation 
