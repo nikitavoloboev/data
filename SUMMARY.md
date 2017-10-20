@@ -39,6 +39,7 @@
 		* [km](macOS/apps/km/km.md)
 		* [typinator](macOS/apps/Typinator.md)
 		* [mindnode](macOS/apps/mindnode.md)
+		* [ulysses](macOS/apps/Ulysses.md) 
 		* [hammerspoon](macOS/apps/Hammerspoon.md)
 		* [hazel](macOS/apps/Hazel.md)
 		* [2Do](macOS/apps/2Do.md)

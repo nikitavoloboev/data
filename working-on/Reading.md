@@ -2,10 +2,10 @@
 You can view books I have already read [here](https://www.goodreads.com/review/list/15768482?shelf=read). 
 
 I am currently trying to read through these books :
+- godel, escher bach
 - type theory & functional programming
 - algorithm design manual
 - go in action
-- godel, escher bach
 - code: hidden language
 - programming in haskell
 - SICP
