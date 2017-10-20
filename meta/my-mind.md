@@ -16,7 +16,7 @@ But outside of parsing these maps for links for super fact access from Alfred. I
 
 ![](https://i.imgur.com/hqMA7Kd.png)
 
-That you can see live [here](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh#2738.2,-4854.9,-3) and I explain it in more detail [here](../macOS/karabiner/Karabiner.md).
+That you can see live [here](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh#2738.2,-4854.9,-3) and I explain it in more detail [here](../macOS/apps/karabiner/Karabiner.md).
 
 I also use mind maps to keep my life in order with my own personal _projects_ mind map that looks like this : 
 
