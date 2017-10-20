@@ -1,5 +1,5 @@
 # Reading
-You can view books I have already read [here](https://www.goodreads.com/user/show/15768482-nikita-voloboev). 
+You can view books I have already read [here](https://www.goodreads.com/review/list/15768482?shelf=read). 
 
 I am currently trying to read through these books :
 - type theory & functional programming

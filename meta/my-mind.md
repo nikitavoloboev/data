@@ -22,7 +22,7 @@ I also use mind maps to keep my life in order with my own personal _projects_ mi
 
 ![](https://i.imgur.com/8ZXgvMS.png)
 
-I also use themo to track things I am doing currently like tracking the [books I am reading now](https://my.mindnode.com/N7EYLDQWCsHKRLXadZKmvTwhr9P78ARYwZchG3mq#-49.6,-1462.4,2), [courses I am taking](https://my.mindnode.com/uXZqWxUQsXMGnzbjgjNccxsVGgtxA6d9RsM7NsHB) and a lot more. Essentially mind maps act as a digital augmentation of my mind in many ways. I want to visualise knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](https://medium.com/@NikitaVoloboev), the [YouTube videos I make](https://github.com/nikitavoloboev/my-youtube)  and of course finally through the code I write to make useful tools, apps and interactive visualisations that all can use and enjoy.
+Essentially mind maps act as a digital augmentation of my mind in many ways. I want to visualise knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](https://medium.com/@NikitaVoloboev), the [YouTube videos I make](https://github.com/nikitavoloboev/my-youtube)  and of course finally through the code I write to make useful tools, apps and interactive visualisations that all can use and enjoy.
 
 # How to use these mind maps
 
