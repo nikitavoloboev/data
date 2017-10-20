@@ -11,4 +11,4 @@ I want to learn many things. Here are some of the more important areas I am focu
 - math
 	- for improving and expanding my thinking
 - music
-	- learning to play the guitar 
+	- learning to play the guitar
