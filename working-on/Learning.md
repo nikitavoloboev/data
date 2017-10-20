@@ -6,7 +6,7 @@ My focus at current time is learning :
 - [math](../math/Math.md)
 - [vim](../text-editors/Vim.md)
 - macOS automation 
-	- JXA
+	- [JXA](../macOS/jxa.md)
 	- [Alfred](../macOS/apps/alfred/Alfred.md)
 	- [Keyboard Maestro](../macOS/apps/km/km.md)
 - [web development](../web/Web.md) and [javascript](../programming-languages/Javascript.md)
