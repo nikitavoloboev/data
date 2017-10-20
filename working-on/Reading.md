@@ -1,4 +1,6 @@
 # Reading
+You can view books I have already read [here](https://www.goodreads.com/user/show/15768482-nikita-voloboev). 
+
 I am currently trying to read through these books :
 - type theory & functional programming
 - algorithm design manual
@@ -52,7 +54,30 @@ I am currently trying to read through these books :
 - we by Yevgeny Zamyatin
 - [letters to young poet](https://www.amazon.com/gp/product/0393310396/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393310396&linkCode=as2&tag=susanfowler-20&linkId=61d136ac107e3375ed6cde569b6521f1)
 - biological psychology by Breedlove
-
+- physiology of behaviour by Carlson
+- [a primer of drug action](https://www.amazon.com/Primer-Drug-Action-Robert-Julien/dp/1429233435)
+- [drugged: the science and culture behind psychotropic drugs](https://www.amazon.co.uk/Drugged-Science-Culture-Behind-Psychotropic/dp/0190235950)
+- [pleasures of the brain (series in affective science)](https://www.amazon.com/Pleasures-Affective-Science-Morten-Kringelbach/dp/0195331028/ref=sr_1_1?ie=UTF8&qid=1451952117&sr=8-1&keywords=pleasures+of+the+brain)
+- how to win friends and influence people
+- the e-myth revisited
+- earthly powers
+- sophie's world
+- bowling alone
+- the autobiography of Benjamin Franklin
+- the laws of medicine: field notes from an uncertain science
+- 99 bottles of OOP
+- art of the deal
+- [the bug: a novel](https://www.amazon.com/The-Bug-Novel-Ellen-Ullman/dp/1250002494/)
+- lord of the rings
+- the penultimate truth
+- how google works
+- letters from a stoic
+- forever on: a novel of silicon valley
+- dark money: the hidden history of the billionaires behind the rise of the radical right
+- beyond words: what animals think and feel
+- you've got only three seconds: how to make the right impression in your business and social life
+- [consciousness explained](http://www.wikiwand.com/en/Consciousness_Explained)
+- advanced nutrition and human metabolism
 
 # interesting authors to check out
 - Douglas Adams
