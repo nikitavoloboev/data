@@ -9,3 +9,4 @@ Small tip, [regex101](https://regex101.com) has night mode 🌃
 # Some useful regexes
 
 - [get everything after last /](https://regex101.com/r/66NqQ9/8)
+- `.* ` = will select all occurrences 
