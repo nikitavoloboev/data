@@ -129,6 +129,7 @@
 * [API](api/API.md)
 * [IRC](irc/IRC.md)
 * [work](work/Work.md)
+* [LaTeX](latex/LaTeX.md)
 * [humans](humans/Humans.md)
 * [quotes](quotes/Quotes.md)
 * [movies](movies/Movies.md)
