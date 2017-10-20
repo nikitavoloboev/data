@@ -13,7 +13,6 @@
 	* [courses](working-on/courses.md)
 * [knowledge](knowledge/Knowledge.md)
 	* [things I know](knowledge/things-I-know.md)
-	* [things I want to learn](knowledge/things-to-learn.md)
 * [life](life/Life.md)
 	* [self expression](life/self-expression.md)
 	* [time](life/Time.md)

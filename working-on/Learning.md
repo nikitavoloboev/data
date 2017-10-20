@@ -9,7 +9,9 @@ My focus at current time is learning :
 	- JXA
 	- [Alfred](../macOS/apps/alfred/Alfred.md)
 	- [Keyboard Maestro](../macOS/apps/km/km.md)
-	- scripting
 - [web development](../web/Web.md) and [javascript](../programming-languages/Javascript.md)
 - [operating systems](../operating-systems/operating-systems.md)
 
+# learn next
+- music
+	- learning to play the guitar
