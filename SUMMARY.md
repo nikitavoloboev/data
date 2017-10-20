@@ -38,7 +38,7 @@
 			* [sticky keys](macOS/apps/karabiner/sticky-keys.md)
 		* [km](macOS/apps/km/km.md)
 		* [typinator](macOS/apps/Typinator.md)
-		* [mindnode](macOS/apps/MindNode.md)
+		* [mindnode](macOS/apps/Mindnode.md)
 		* [ulysses](macOS/apps/Ulysses.md) 
 		* [hammerspoon](macOS/apps/Hammerspoon.md)
 		* [hazel](macOS/apps/Hazel.md)
