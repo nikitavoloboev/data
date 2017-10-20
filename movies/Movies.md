@@ -8,13 +8,12 @@ I really love watching interesting movies and I have seen quite a few of them th
 - [Her](https://letterboxd.com/film/her/)
 
 
-I track the movies I have seen on [LetterBoxd](https://letterboxd.com/NikitaVoloboev/) and you can see the movies I plan on watching soon [here](https://letterboxd.com/nikitavoloboev/films/). I also occasionally [review some of the movies](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/) I have seen.
+I track the movies I have seen on [LetterBoxd](https://letterboxd.com/NikitaVoloboev/) and you can see the movies I plan on watching soon [here](./watching-movies.md). I also occasionally [review some of the movies](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/) I have seen.
 
 I also made some lists of movies I really liked. 
 
 1. [my favourite movies](https://letterboxd.com/nikitavoloboev/list/absolutely-incredible/)
 2. [favourite performances](https://letterboxd.com/nikitavoloboev/list/favourite-performances/)
 3. [thought provoking](https://letterboxd.com/nikitavoloboev/list/thought-provoking/)
-
 
 
