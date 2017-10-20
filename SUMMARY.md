@@ -43,7 +43,7 @@
 		* [hazel](macOS/apps/Hazel.md)
 		* [2Do](macOS/apps/2Do.md)
 	* [homebrew](macOS/Homebrew.md)
-	* [JXA](macOS/Javavascript%20for%20Automation.md)
+	* [JXA](macOS/jxa.md)
 * [math](math/Math.md)
 	* [logic](math/Logic.md)
 	* [lambda calculus](math/lambda-calculus.md)
