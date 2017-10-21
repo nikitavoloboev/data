@@ -77,6 +77,7 @@
 	* [nixOS](operating-systems/nixOS.md)
 * [mindfulness](mindfulness/Mindfulness.md)
 	* [meditation](mindfulness/Meditation.md)
+* [compilers](compilers/Compilers.md)
 * [physics](physics/Physics.md)
 * [quantum physics](quantum-physics/quantum-physics.md)
 * [interviews](interviews/Interviews.md)
