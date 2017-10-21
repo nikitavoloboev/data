@@ -25,9 +25,7 @@ The structure of each of the posts will then look roughly like this :
 	- links related to the topic
 4. Notes
 	- my own personal notes on the matter as well as things I found interesting on the internet regarding the topic
-		- I often give a link of where I found  
-5. interesting
-	- some things I find interesting
+		- I often give a link of where I got it from
 
 In links I very often link to a  [Learn Anything](https://learn-anything.xyz/) map as that in my opinion is the perfect place to start learning any topic as it should ideally show you the most efficient path for learning anything. Aside from the link to LA, I may also include some of my own things I wrote or really liked as well as my comments on these links.
 

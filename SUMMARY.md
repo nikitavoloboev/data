@@ -85,7 +85,7 @@
 	* [ego](consciousness/Ego.md)
 * [psychedelics](psychedelics/Psychedelics.md) 
 * [music](music/Music.md)
-	* [music playlists](music/music-playlists.md)
+	* [music playlists](music/music-plays.md)
 	* [music artists](music/music-artists.md)
 * [unix](unix/Unix.md)
 	* [shell](unix/shell/shell.md)
