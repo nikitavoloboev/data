@@ -2,6 +2,7 @@
 You can view books I have already read [here](https://www.goodreads.com/review/list/15768482?shelf=read). 
 
 I am currently trying to read through these books :
+- [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - godel, escher bach
 - type theory & functional programming
 - algorithm design manual
