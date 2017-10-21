@@ -1,6 +1,6 @@
 # Learning
 My focus at current time is learning :
-> the dash after the name shows what I am currently using to learn the thing
+> -\> after the name shows what I am currently using to learn the thing
 
 - [programming in Go](../programming-languages/go/Go.md)
 - [math](../math/Math.md) -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
