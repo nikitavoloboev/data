@@ -24,7 +24,8 @@ The structure of each of the posts will then look roughly like this :
 3. Links
 	- links related to the topic
 4. Notes
-	- my own personal notes on the matter
+	- my own personal notes on the matter as well as things I found interesting on the internet regarding the topic
+		- I often give a link of where I found  
 5. interesting
 	- some things I find interesting
 
