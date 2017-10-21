@@ -36,7 +36,7 @@ As my focus at current time is writing code to solve various problems, I will al
 
 # My workflow in writing and maintaining this wiki
 
-I write all these entries in [Ulysses](https://ulyssesapp.com/) app and since all of the entries are simply markdown files sorted into folders and [hosted on GitHub](https://github.com/nikitavoloboev/knowledge). I hook this git _knowledge_ folder to Ulysses as external folder : 
+I write all these entries in [Ulysses](../macOS/apps/Ulysses.md) app and since all of the entries are simply markdown files sorted into folders and [hosted on GitHub](https://github.com/nikitavoloboev/knowledge). I hook this git _knowledge_ folder to Ulysses as external folder : 
 
 ![](https://i.imgur.com/EgReXPY.png)
 
