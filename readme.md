@@ -1,5 +1,4 @@
 <h1 align="center">My Knowledge Index 💡</h1>
-
 <h1 align="center"> Description 📕</h1>
 
 Inspired by [this](https://yoshuawuyts.gitbooks.io/knowledge/content/). I want to keep [my own version of a knowledge index](https://nikitavoloboev.gitbooks.io/knowledge/content/) that both I and other people can search over and use.
