@@ -1,5 +1,5 @@
 # Sharing my work
-I am currently focusing on working through [my projects](./working-on.md), [learning](../working-on/Learning.md) and sharing things I have learned and made.
+I am currently focusing on working through [my projects](./projects.md), [learning](../working-on/Learning.md) and sharing things I have learned and made.
 
 Here are things I have made thus far and where you can find more about each of the things.
 
