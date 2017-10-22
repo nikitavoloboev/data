@@ -2,6 +2,8 @@
 
 A really amazing text expanding app that saves me a lot of time from my life by expanding the text I most frequently type.
 
+I share the Typinator sets I made and use with the app [here](https://github.com/nikitavoloboev/typinator-sets). 
+
 # Links
 
 - [Write once, never write again](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8)

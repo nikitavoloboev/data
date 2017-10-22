@@ -52,6 +52,7 @@
 		* [snippetslab](macOS/apps/SnippetsLab.md)
 		* [tweetbot](macOS/apps/Tweetbot.md)
 		* [fantastical](macOS/apps/Fantastical.md)
+		* [bettertouchtool](macOS/apps/BetterTouchTool.md)
 	* [homebrew](macOS/Homebrew.md)
 	* [JXA](macOS/jxa.md)
 * [math](math/Math.md)
