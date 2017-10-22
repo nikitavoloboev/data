@@ -9,6 +9,6 @@ Until I have built [Crafting Ideas](https://github.com/nikitavoloboev/crafting-i
 	- see if there is API for that
 - alfred travis interface
 	- quickly scan my builds and get info on them
-	- 
+
 # fun
 - create a fractal tree

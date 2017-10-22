@@ -11,7 +11,7 @@
 	* [learning](working-on/Learning.md)
 	* [reading](working-on/Reading.md)
 	* [courses](working-on/courses.md)
-	* [ideas](ideas/Ideas.md)
+	* [ideas](working-on/Ideas.md)
 * [knowledge](knowledge/Knowledge.md)
 	* [things I know](knowledge/things-I-know.md)
 	* [knowledge indexing](knowledge/knowledge-indexing.md)
