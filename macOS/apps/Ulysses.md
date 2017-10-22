@@ -14,7 +14,7 @@ And I use two [alfred file filters](https://www.alfredapp.com/help/workflows/inp
 ![](https://i.imgur.com/UU7nulB.png)
 Only thing I do is that I add a `tab` keypress after the sheet is opened so that immediately after the sheet is opened, the focus is on the text of the sheet and not the sidebar.
 
-How I use Ulysses to edit this wiki can be seen [here](../meta/meta.md).
+How I use Ulysses to edit this wiki can be seen [here](../../meta/meta.md).
 
 # tagging sheets 
 I tag Ulysses sheets I am currently writing and focusing on with `#writing` tag like this : 

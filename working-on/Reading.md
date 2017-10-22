@@ -18,7 +18,7 @@ I am currently trying to read through these books :
 - [guide on FP](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - elements of information theory
 
-# books to read next
+# read next
 - intro to statistical learning
 - mans search for meaning
 - 7 habits

@@ -1,5 +1,4 @@
-# Working on
-  
+# Working on  
 I am currently working on : 
 
 - [learn anything](https://learn-anything.xyz/)
@@ -9,4 +8,3 @@ I am currently working on :
 	- making an MVP with a user's profile with adding of ideas privately for now
 
 The big projects I have already done can be seen in more detail [here](https://nikitavoloboev.xyz/projects/).
-

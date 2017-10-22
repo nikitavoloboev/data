@@ -1,7 +1,5 @@
 # Lessons learned
-
 # Life
-
 - automate backups
 	- make sure the backups you’ve made are actually successful
 - study smart
@@ -55,7 +53,6 @@
 - [don’t assume it’s difficult until it is](https://news.ycombinator.com/item?id=10872970)
 
 # Code
-
 - use switch cases over long ifs
 - it’s a lot easier to actually just use one screen
 	- much easier to context switch
@@ -65,9 +62,7 @@
 	- do __atomic__ commits
 
 # Using Mind maps
-
 - don’t index information for the sake of indexing
 	- try to see how this piece of knowledge plays a role in on a more higher level
 - be smart about how to present information in the mind maps
 	- it should be more of a guide and a glue between different things rather than as a way to dump everything in one single file
-

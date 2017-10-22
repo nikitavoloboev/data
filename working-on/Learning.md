@@ -4,6 +4,7 @@ My focus at current time is learning :
 
 - [programming in Go](../programming-languages/go/Go.md)
 - [math](../math/Math.md) -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+	- lambda calculus
 	- type theory 
 	- category theory
 - [vim](../text-editors/Vim.md) 
@@ -18,7 +19,7 @@ My focus at current time is learning :
 
 # learn next
 - music
-	- learning to play the guitar
+	- guitar
 - machine learning
 - git
 	- git tagging
@@ -28,7 +29,6 @@ My focus at current time is learning :
 - docker
 - blockchain
 - haskell
-- lambda calculus
 - http and web stack
 - DOM
 - making logos
@@ -58,6 +58,6 @@ My focus at current time is learning :
 - delegate methods
 - zero knowledge proofs
 - keras lib
-	- [blockstack](https://github.com/blockstack/blockstack-core)
+- [blockstack](https://github.com/blockstack/blockstack-core)
 - [dat](https://github.com/datproject/dat)
 
