@@ -14,6 +14,7 @@ Aside from this, you can of course also explore [Learn Anything](https://learn-a
 You can access any entry from this wiki super fast using my [Alfred My Mind]() workflow which alongside this wiki here, also searches through [various mind maps I've made](./meta/my-mind.md).
 
 <h1 align="center"> Other things I wrote and shared 📚</h1>
+
 I share my knowledge in a longer form by [writing articles](https://medium.com/@NikitaVoloboev) and making [YouTube videos](https://github.com/nikitavoloboev/my-youtube).
 
 I also love writing code that solves various problems I have and I share it all on [GitHub](https://github.com/nikitavoloboev). [Here](http://nikitavoloboev.xyz/projects/) you can find the things I have made and shared thus far.
