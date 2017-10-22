@@ -1,15 +1,12 @@
 # Machine learning
-
 Making computers learn using algorithms and math.
 
 Still a mystery to me mostly due to my lack of mathematical maturity.
 
 # Links
-
 - [LA](https://learn-anything.xyz/machine-learning)
 
 # Notes
-
 - A big part of the utility of math (especially in ML) is having breadth rather than depth. The strategy of picking out specific things you don't know from papers and looking them up is only effective if you have the breadth in your background to understand the answers you find.
 	- Broad knowledge is also what helps you manage the exponential tree of complexity you're encountering.
 		- You won't have seen all the things you come across, but you'll develop the ability to make good judgements about what you need to read to achieve your goals. You'll learn how to recognize when a reference you're reading is more (or less) technical than you need, and how to search for something more appropriate. You'll also learn how and when you can use results without understanding the details.

@@ -5,6 +5,7 @@
 	* [my mind](meta/my-mind.md)
 	* [abbreviations](meta/abbreviations.md)
 * [projects](projects/Projects.md)
+	* [sharing](projects/sharing.md)
 	* [learn anything](projects/learn-anything.md)
 	* [crafting ideas](projects/crafting-ideas.md)
 * [working on](working-on/working-on.md)
