@@ -49,6 +49,8 @@
 		* [2Do](macOS/apps/2Do.md)
 		* [pixave](macOS/apps/Pixave.md)
 		* [snippetslab](macOS/apps/SnippetsLab.md)
+		* [tweetbot](macOS/apps/Tweetbot.md)
+		* [fantastical](macOS/apps/Fantastical.md)
 	* [homebrew](macOS/Homebrew.md)
 	* [JXA](macOS/jxa.md)
 * [math](math/Math.md)
