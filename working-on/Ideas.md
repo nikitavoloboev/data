@@ -10,5 +10,15 @@ Until I have built [Crafting Ideas](https://github.com/nikitavoloboev/crafting-i
 - alfred travis interface
 	- quickly scan my builds and get info on them
 
+# web
+- [Your life as little boxes](https://github.com/nikitavoloboev/boxes)
+	- a little website to show your life as little boxes 
+	- in similar vein to [Alfred time](https://github.com/nikitavoloboev/alfred-time) but visualise time passed and time passing
+	- although it would be cool to extend this idea further and make these little blocks of time actionable in some way
+		- or even make boxes represent something else and not time (like habits done)
+
+# react components 
+- [markdown -\> CV](https://github.com/nikitavoloboev/react-md-to-cv)
+	- render markdown of information to a full fledged CV as a react component
 # fun
 - create a fractal tree

@@ -23,7 +23,7 @@ For more things I have shared, you can look [here](./sharing/sharing.md).
 
 <h1 align="center"> Make your own wiki 📓</h1>
 
-You can view other similar to this continuously updated wikis and knowledge bases [here](https://github.com/RichardLitt/meta-knowledge). 
+You can view other similar to this, continuously updated wikis, [here](https://github.com/RichardLitt/meta-knowledge). 
 
 Don't be afraid to create one of your own and share what you know with the world. 
 

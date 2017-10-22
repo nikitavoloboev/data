@@ -12,7 +12,7 @@ Contains longer articles I write. I map all the articles I wrote in form of a ma
 ## [Youtube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
 I mostly focus on making videos about macOS automation as that is what interests me. I list videos I have made as a repository [here](https://github.com/nikitavoloboev/my-youtube).
 
-# [Instagram](https://www.instagram.com/nikitavoloboev/)
+## [Instagram](https://www.instagram.com/nikitavoloboev/)
 I don't often share photographs and things but when I do, I upload it there.
 
 ## Sharing thoughts on Twitter

@@ -60,4 +60,3 @@ My focus at current time is learning :
 - keras lib
 - [blockstack](https://github.com/blockstack/blockstack-core)
 - [dat](https://github.com/datproject/dat)
-
