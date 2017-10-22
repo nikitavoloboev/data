@@ -12,7 +12,7 @@ Contains longer articles I write. I map all the articles I wrote in form of a ma
 # [Youtube](https://github.com/nikitavoloboev/my-youtube)
 I mostly focus on making videos about macOS automation as that is what interests me.
 
-# sharing thoughts on Twitter
+# Sharing thoughts on Twitter
 I share most of the things I am up to right now on [my Twitter page](https://twitter.com/nikitavoloboev).
 
 # [Instagram](https://www.instagram.com/nikitavoloboev/)
@@ -21,7 +21,7 @@ I don't often share photographs and things but when I do, I upload it there.
 # Music
 I am currently not writing any music of my own although I am learning. I do however share many of the songs I like in [form of playlists](../music/music-plays.md).
 
-# this wiki
+# This wiki
 I share everything I know in form of this wiki here. Can be easily queried with the search in top left corner and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
 
 
