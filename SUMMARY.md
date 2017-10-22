@@ -47,6 +47,7 @@
 		* [hammerspoon](macOS/apps/Hammerspoon.md)
 		* [hazel](macOS/apps/Hazel.md)
 		* [2Do](macOS/apps/2Do.md)
+		* [pixave](macOS/apps/Pixave.md)
 	* [homebrew](macOS/Homebrew.md)
 	* [JXA](macOS/jxa.md)
 * [math](math/Math.md)

@@ -1,10 +1,10 @@
 # [2Do](https://www.2doapp.com/)
 
-2Do together with [MindNode](mindnode) acts as as my second brain.
+2Do together with [MindNode](mindnode) acts as as my second brain. Although 2Do focused on actionable tasks that I have to complete in [GTD](http://gettingthingsdone.com/) style.
 
-Although 2Do focused on actionable tasks that I have to complete in [GTD](http://gettingthingsdone.com/) style.
+Here is how my sidebar looks :
 
-I am writing a longer article on this that I hope to publish soon.
+![](https://i.imgur.com/6UXv7Mv.png)
 
 # Notes
 

@@ -3,10 +3,10 @@ My focus at current time is learning :
 > -\> after the name shows what I am currently using to learn the thing
 
 - [programming in Go](../programming-languages/go/Go.md)
-- [math](../math/Math.md) -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+- [math](../math/Math.md) 
 	- lambda calculus
 	- type theory 
-	- category theory
+	- category theory -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [vim](../text-editors/Vim.md) 
 - macOS automation 
 	- [JXA](../macOS/jxa.md)
@@ -15,7 +15,7 @@ My focus at current time is learning :
 	- [Keyboard Maestro](../macOS/apps/km/km.md) 
 - [web development](../web/Web.md) 
 - [javascript](../programming-languages/Javascript.md)
-- [operating systems](../operating-systems/operating-systems.md) -\> [three easy pieces ](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [operating systems](../operating-systems/operating-systems.md) -\> [three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 # learn next
 - music
