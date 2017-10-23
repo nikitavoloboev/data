@@ -135,7 +135,7 @@
 * [design](design/Design.md)
 * [cryptocurrencies](cryptocurrencies/cryptocurrencies.md)
 	* [bitcoin](cryptocurrencies/Bitcoin.md)
-	* [ethereum](cryptocurrencies/Ethereum.md)
+	* [ethereum](cryptocurrencies/ethereum.md)
 * [privacy](privacy/Privacy.md)
 * [games](games/Games.md)
 * [talks](talks/Talks.md)
