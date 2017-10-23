@@ -11,7 +11,7 @@ If this is your first time visiting this wiki, take a look [here](meta/meta.md) 
 
 Aside from this, you can of course also explore [Learn Anything](https://learn-anything.xyz) for things that you can learn about and I will often reference it from these notes.
 
-You can access any entry from this wiki super fast using my [Alfred My Mind]() workflow which alongside this wiki here, also searches through [various mind maps I've made](./meta/my-mind.md).
+You can access any entry from this wiki super fast using my [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow which alongside this wiki here, also searches through [various mind maps I've made](./meta/my-mind.md).
 
 <h1 align="center"> Other things I wrote and shared 📚</h1>
 

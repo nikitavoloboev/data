@@ -11,7 +11,7 @@ For me solving a problem usually involves going through these three steps :
 
 ## 1. Finding what the problem is 
 I use one [MindNode](../macOS/apps/Mindnode.md) mind map called `thinking` where as a main node I outline the problem I want to solve and then I outline the steps I think I need to do to solve the problem. For example, I wanted to make a markdown parser. I outlined the problem as follows : 
-![](https://i.imgur.com/6jqhSLg.png)
+![](https://i.imgur.com/kf6K3ft.png)
 And then I could simply try to go through each of the steps outlined and hopefully reach a working solution. Of course, things can and often change in the process as I find things I have missed or found better ways to do a thing but the idea and structure still stays.
 
 # 2. Finding the answer
