@@ -2,12 +2,12 @@
 Still learning it.
 
 ## Useful snippets
-### Get the URL of the frontmost chrome tab
+### get the URL of the frontmost chrome tab
 ```Javascript
 Application('Google Chrome').windows\[0].activeTab.url()
 ```
 
-### Get selected text in Chrome
+### get selected text in Chrome
 ```Javascript
 Application('Google Chrome').windows[0].activeTab.execute({javascript:'window.getSelection().toString()'})
 ```

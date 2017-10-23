@@ -5,7 +5,7 @@ Also it's really useful to use [SpellCheck](https://www.shellcheck.net).
 
 # Snippets
 ### removes some string from a string
-```Bash~~ 
+```Bash
 url="https://github.com/learn-anything/maps"
 # removes https:// 
 url="${url#https://}"

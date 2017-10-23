@@ -1,5 +1,4 @@
 # Music artists
-
 I have many favourite artists I like. Lately I have been really liking listening to : 
 
 - Four Tet
