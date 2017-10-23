@@ -1,5 +1,4 @@
 # Staying on top of things
-
 There is so much out there in the world. It's often really hard to stay on top of things and many times not being able to understand something is frustrating so is feeling as if you are _missing out_. 
 
 Of course, it is all in my head and [mindfulness](../mindfulness/Mindfulness.md) is the answer. But I still want to do my best and try and understand as many things as I can because knowing a broad range of things helps me connect the dots and pieces together faster.
@@ -23,7 +22,6 @@ I try to stay in touch using these few things :
 
 
 # Communities and forums I frequent
-
 I spend a lot of my time in the [Slack group we have for Learn Anything](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ). 
 
 Aside from that I really like visiting and at times contributing to these forums :  
@@ -40,9 +38,7 @@ As well as quite a few other Slack communities like :
 I also frequently use IRC and the various channels of Freenode.
 
 # Links
-
 - [News](https://medium.com/@NikitaVoloboev)
 	- I wrote briefly on what my opinion about reading news and the opinion as stated in the article is still the same for
 	- only the approach has changed and hopefully became a bit more refined to meet my own goals
-
 

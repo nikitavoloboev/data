@@ -1,9 +1,9 @@
 # Reading
 I am currently trying to read through these books :
-- [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - network programming in Go
+- [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
-# read next
+# Read next
 - godel, escher bach
 - type theory & functional programming
 - algorithm design manual
@@ -20,7 +20,6 @@ I am currently trying to read through these books :
 - [analysis](http://www-personal.acfr.usyd.edu.au/spns/cdm/resources/Kreyszig%20-%20Introductory%20Functional%20Analysis%20with%20Applications.pdf)
 - [guide on FP](https://drboolean.gitbooks.io/mostly-adequate-guide/content/)
 - elements of information theory
-
 - intro to statistical learning
 - mans search for meaning
 - 7 habits
@@ -80,13 +79,13 @@ I am currently trying to read through these books :
 - [consciousness explained](http://www.wikiwand.com/en/Consciousness_Explained)
 - advanced nutrition and human metabolism
 
-# books read
+# Books read
 You can view books I have already read [here](https://www.goodreads.com/review/list/15768482?shelf=read). 
 
 I make notes on all the books I have read. Here are the books I have covered thus far where number means the year in which I've read the book.
 -  [17: go in action](../books/go-in-action.md)
 
-# interesting authors to check out
+# Interesting authors to check out
 - Douglas Adams
 - Ted Chiang
 - Alan Watts
@@ -96,7 +95,7 @@ I make notes on all the books I have read. Here are the books I have covered thu
 - Aleksandr Solzhenitisyn
 - David Sedaris
 
-# interesting books + recommendations
+# Interesting books + recommendations
 - [check these books - master switch is interesting](https://news.ycombinator.com/item?id=14477851)
 - [most meaningful books I read in 2016](http://blog.ncase.me/the-most-meaningful-books-i-read-in-2016/)
 - [most mentioned programming books on reddit](http://booksreddit.com/product-category/best-programming-books/)

@@ -5,7 +5,7 @@ I use it to both write this wiki you are reading now as well as everything else 
 
 Here is how my workflow with Ulysses looks like.
 
-# content structure
+# Content structure
 I group my writing into appropriate categories. Here are how my categories look like. I blurred some that are personal to me.
 
 ![](https://i.imgur.com/hImTZN9.png)
@@ -16,7 +16,7 @@ Only thing I do is that I add a `tab` keypress after the sheet is opened so that
 
 How I use Ulysses to edit this wiki can be seen [here](../../meta/meta.md).
 
-# tagging sheets 
+# Tagging sheets
 I tag Ulysses sheets I am currently writing and focusing on with `#writing` tag like this : 
 ![](https://i.imgur.com/O6BoGNy.png)
 Which allows me to quickly search and filter through Ulysses sheets quickly from Alfred :
@@ -30,5 +30,4 @@ Here are some more tags I use :
 Here is how a sheet with an idea looks like : 
 ![](https://i.imgur.com/V7exdqm.png)
 I have many like it in `writing` group. The little `#idea` heading is used to quickly note down some ideas or thoughts I have about what the article should be about. As I write the article I usually try to address these points one by one until I cover everything I want to say. 
-
 

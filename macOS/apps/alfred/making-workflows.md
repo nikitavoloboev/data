@@ -1,11 +1,9 @@
 # Making Workflows
-
 There is a [detailed article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) available on how you can write workflows in Go language.
 
 You can also take a look through [Alfred's help](https://www.alfredapp.com/help/) and get help from the [forum](https://www.alfredforum.com/).
 
 # My workflow in developing workflows
-
 I like to write all my workflows in Go language unless the workflow can be done using only Alfred builtin objects and some python/bash code.
 
 In cases where I am planning to use Go to write the workflow. Here are the steps I follow. This assumes you have installed [alfred cli tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred).

@@ -15,5 +15,4 @@ It documents both simultaneous key presses that is if I press _j and k together_
 ![](https://i.imgur.com/FWI0VK4.png)
 
 # Notes
-
 - [interesting setup](https://github.com/dunkarooftop/thought/blob/master/keymaps.org)

@@ -1,5 +1,4 @@
 # Git
-
 I love git and version control. And I use version control over any project I do.
 
 I often like to use emojis for some git commits. But only for few specific ones and usually the emoji insertions are automated. 

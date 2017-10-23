@@ -1,5 +1,4 @@
 # My principles
-
 I believe everyone should have some set of principles they should follow. Having a clear picture of what is important to you and what you want to focus on doing in life is important.
 
 Here are my mine :

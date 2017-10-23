@@ -1,5 +1,4 @@
 # My mind
-
 Aside from this wiki. I also heavily use and update my mind maps. There are many mind maps I have made and they are all connected in a way that makes sense to me. 
 
 You can see all these mind maps I have made [here](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#463.5,-49.4,-1).
@@ -25,13 +24,11 @@ I also use mind maps to keep my life in order with my own personal _projects_ mi
 Essentially mind maps act as a digital augmentation of my mind in many ways. I want to visualise knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](https://medium.com/@NikitaVoloboev), the [YouTube videos I make](https://github.com/nikitavoloboev/my-youtube)  and of course finally through the code I write to make useful tools, apps and interactive visualisations that all can use and enjoy.
 
 # How to use these mind maps
-
 With all that said. The best way to know about me as a person, what I like and what I am into and what I am working on is to read through this wiki. With time, it will contain essentially everything that I know _in my own words_. 
 
 This wiki acts as a first class citizen and anything that I ultimately want to share or have shared will be written down here, somewhere. Most of the mind maps I have made will be linked to from here and will have some description of the map too.
 
 # Future
-
 There are many, many things I am yet to add to this little system I am planning to make. I am still trying to find the perfect balance of how my knowledge, projects, thoughts and ideas and programmes and code should be structured but my goals with both this wiki and my mind maps are : 
 
 1. fast access to all this knowledge base

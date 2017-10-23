@@ -1,5 +1,4 @@
 # Design
-
 _"Design is not just what it looks like and feels like. Design is how it works."_
 
 I can't call myself a designer yet but I am learning.

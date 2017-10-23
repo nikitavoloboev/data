@@ -2,6 +2,7 @@
 My focus at current time is learning :
 > -\> after the name shows what I am currently using to learn the thing
 
+# Learning now
 - [Go](../programming-languages/go/Go.md)
 - [math](../math/Math.md) 
 	- lambda calculus
@@ -19,7 +20,7 @@ My focus at current time is learning :
 - [operating systems](../operating-systems/operating-systems.md) -\> [three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - Memcached
 
-# learn next
+# Learn next
 - music
 	- guitar
 - machine learning
@@ -36,7 +37,7 @@ My focus at current time is learning :
 - ethereum
 	- [ether](http://www.ethdocs.org/en/latest/frequently-asked-questions/frequently-asked-questions.html#what-is-ethereum)
 
-# interesting
+# Interesting
 - kingpin go lib
 - RxJS
 - hammerspoon

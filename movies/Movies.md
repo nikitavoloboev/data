@@ -1,5 +1,4 @@
 # Movies
-
 I really love watching interesting movies and I have seen quite a few of them thus far. I have many favourite movies but amongst the top movies I have seen, I would put these movies : 
 
 - [Synecdoche, New York](https://letterboxd.com/film/synecdoche-new-york/)
@@ -15,5 +14,4 @@ I also made some lists of movies I really liked.
 1. [my favourite movies](https://letterboxd.com/nikitavoloboev/list/absolutely-incredible/)
 2. [favourite performances](https://letterboxd.com/nikitavoloboev/list/favourite-performances/)
 3. [thought provoking](https://letterboxd.com/nikitavoloboev/list/thought-provoking/)
-
 

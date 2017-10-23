@@ -60,6 +60,8 @@
 	- and commit your changes
 	- it is a pain to reverse and fix things when you don't know where the problem is
 	- do __atomic__ commits
+- comment over my code!
+	- especially zsh functions, makes things easier to read
 
 # Using Mind maps
 - don’t index information for the sake of indexing

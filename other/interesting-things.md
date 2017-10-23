@@ -1,5 +1,4 @@
 # Interesting things
-
 I have a list in 2Do where I track various interesting things I have found that I want to look at more in depth at some point.
 
 ![](https://i.imgur.com/eyyVOEm.png)
