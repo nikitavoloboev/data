@@ -31,6 +31,7 @@
 	* [asking questions](research/asking-questions.md)
 	* [finding answers](research/finding-answers.md)
 * [writing](writing/Writing.md)
+	* [writing prompts](writing/writing-prompts.md)
 	* [markdown](writing/Markdown.md)
 * [education](education/education.md)
 * [macOS](macOS/macOS.md)
