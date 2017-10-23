@@ -2,7 +2,7 @@
 Snippet below makes `a` key into a modifier key. This only works for old Karabiner on El Captain. I am still not certain how it will look for Sierra.
 
 ## sticky key example
-```XML~~ 
+```XML
 <item>
     <name>general: sticky p</name>
     <identifier>private.launcher_mode_open_apps_v12</identifier>
@@ -53,7 +53,7 @@ This will make your P key into a modifier key where if you press it once, it wil
 
 This code : 
 
-```XML~~ 	
+```XML
         <autogen>
 		__KeyToKey__
 		KeyCode::A,
