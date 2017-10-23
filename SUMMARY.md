@@ -55,6 +55,7 @@
 		* [bettertouchtool](macOS/apps/BetterTouchTool.md)
 	* [homebrew](macOS/Homebrew.md)
 	* [JXA](macOS/jxa.md)
+	* [applescript](macOS/Applescript.md)
 * [iOS](iOS/iOS.md)
 * [math](math/Math.md)
 	* [logic](math/Logic.md)
