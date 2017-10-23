@@ -9,6 +9,9 @@ Until I have built [Crafting Ideas](https://github.com/nikitavoloboev/crafting-i
 	- see if there is API for that
 - alfred travis interface
 	- quickly scan my builds and get info on them
+- parse arbitrary CSV files
+	- similar to my [alfred edit files](https://github.com/nikitavoloboev/alfred-edit-files) but instead of it reading one file, you pass in some CSV file instead and it will parse it to show in Alfred
+		- can use that for many things
 
 # web
 - [Your life as little boxes](https://github.com/nikitavoloboev/boxes)
@@ -20,5 +23,6 @@ Until I have built [Crafting Ideas](https://github.com/nikitavoloboev/crafting-i
 # react components 
 - [markdown -\> CV](https://github.com/nikitavoloboev/react-md-to-cv)
 	- render markdown of information to a full fledged CV as a react component
+
 # fun
 - create a fractal tree

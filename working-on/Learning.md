@@ -2,12 +2,13 @@
 My focus at current time is learning :
 > -\> after the name shows what I am currently using to learn the thing
 
-- [programming in Go](../programming-languages/go/Go.md)
+- [Go](../programming-languages/go/Go.md)
 - [math](../math/Math.md) 
 	- lambda calculus
 	- type theory 
 	- category theory -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [vim](../text-editors/Vim.md) 
+- [haskell](../programming-languages/Haskell.md) 
 - macOS automation 
 	- [JXA](../macOS/jxa.md)
 	- [Alfred](../macOS/apps/alfred/Alfred.md) 
@@ -28,7 +29,6 @@ My focus at current time is learning :
 - chrome dev tools
 - docker
 - blockchain
-- haskell
 - http and web stack
 - DOM
 - making logos
@@ -60,3 +60,6 @@ My focus at current time is learning :
 - keras lib
 - [blockstack](https://github.com/blockstack/blockstack-core)
 - [dat](https://github.com/datproject/dat)
+- math
+	- Taylor's theorem
+	- Cauchy's integral formula

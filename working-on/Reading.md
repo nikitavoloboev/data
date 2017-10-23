@@ -107,3 +107,4 @@ I make notes on all the books I have read. Here are the books I have covered thu
 - [ask HN - what are you reading](https://news.ycombinator.com/item?id=14859274)
 - [math books](https://www.reddit.com/r/math/comments/6xmuhc/math_booksresources_to_pique_math_interest/)
 - [history books](https://www.reddit.com/r/AskHistorians/comments/1403l7/askhistorians_master_book_list_ii/)
+- [good books for deep hacks](https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html)
