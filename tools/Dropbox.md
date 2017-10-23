@@ -6,6 +6,6 @@ I have a folder `shares` inside it where I put various files inside that I want 
 
 It's pretty amazing as I can very easily query all the links I have shared with anyone. And I use it heavily to share files in this wiki itself.
 
-For sharing files temporarily I use [transfer.sh](https://transfer.sh) and Vi
+For sharing files temporarily I use [transfer.sh](https://transfer.sh) and [Vitor's awesome Alfred workflow](https://www.alfredforum.com/topic/5233-uploadfile-%E2%80%94-upload-files-and-directories-for-easy-sharing/).
 
 
