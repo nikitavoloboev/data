@@ -28,6 +28,6 @@ Here are some more tags I use :
 	- indicates that this should be worked on after all of `#writing` articles are done
 
 Here is how a sheet with an idea looks like : 
-![](https://i.imgur.com/V7exdqm.png)
+![](https://i.imgur.com/Y4cslCI.png)
 I have many like it in `writing` group. The little `#idea` heading is used to quickly note down some ideas or thoughts I have about what the article should be about. As I write the article I usually try to address these points one by one until I cover everything I want to say. 
 
