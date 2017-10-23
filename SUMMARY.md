@@ -102,6 +102,7 @@
 * [unix](unix/Unix.md)
 	* [shell](unix/shell/shell.md)
 		* [zsh](unix/shell/Zsh.md)
+	* [my file system](unix/my-file-system.md)
 	* [dotfiles](unix/Dotfiles.md)
 * [web](web/Web.md)
 	* [browsers](web/browsers/Browsers.md)

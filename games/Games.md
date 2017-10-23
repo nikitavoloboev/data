@@ -1,5 +1,4 @@
 # Games
-
 I kind of stopped playing games after I got my Mac.
 
 Although I have really loved spending my time playing Warcraft 3 and its multitude of awesome mods, WOW, Diablo II, Heroes of Might and Magic III, League of Legends and many other ones. 
@@ -9,5 +8,4 @@ I don't regret the time I spent playing these games and I have learned a lot fro
 I track the games I have played [here](https://www.grouvee.com/user/nikivi/). Although I have not updated it in a long time.
 
 # Notes
-
 - [some interesting games to play](https://www.reddit.com/r/patientgamers/comments/7629r3/what_game_would_you_describe_as_a_masterpiece/)
