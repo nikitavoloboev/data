@@ -17,7 +17,7 @@ And inside I sort the projects according to their purpose too :
 I keep all my Go projects inside my GOPATH.
 
 ## \~/Documents
-I use Documents that has to do with various files and documents. Things like books, research papers, uni work, various app related things and files, audio books and more. Here is how my Documents folder looks like : 
+I use Documents to store things like books, research papers, uni work, various app related things and files, audio books and more. Here is how my Documents folder looks like : 
 ![](https://i.imgur.com/tuZC9lE.png)
 I use a custom icon for Documents folder just so it's easy to distinguish them from the rest using my [folder search workflow](https://github.com/nikitavoloboev/alfred-folder-search).
 
