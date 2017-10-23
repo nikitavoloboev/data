@@ -1,9 +1,9 @@
 # Applescript
 Pretty useful to know scripting language for macOS. 
 
-Here are some useful I found useful to know :
+Here are some useful snippets I found useful to know :
 
-### 
+### get path of open document in an app
 ```Applescript
-tell application "MacDown" to set ia_file to file of front document
+tell application "MacDown" to set file_path to file of front document
 ```
