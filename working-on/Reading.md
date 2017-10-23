@@ -3,6 +3,12 @@ I am currently trying to read through these books :
 - network programming in Go
 - [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
+# Books read
+You can view books I have already read [here](https://www.goodreads.com/review/list/15768482?shelf=read). 
+
+I make notes on all the books I have read. Here are the books I have covered thus far where number means the year in which I've read the book.
+-  [17: go in action](../books/go-in-action.md)
+
 # Read next
 - godel, escher bach
 - type theory & functional programming
@@ -78,12 +84,6 @@ I am currently trying to read through these books :
 - you've got only three seconds: how to make the right impression in your business and social life
 - [consciousness explained](http://www.wikiwand.com/en/Consciousness_Explained)
 - advanced nutrition and human metabolism
-
-# Books read
-You can view books I have already read [here](https://www.goodreads.com/review/list/15768482?shelf=read). 
-
-I make notes on all the books I have read. Here are the books I have covered thus far where number means the year in which I've read the book.
--  [17: go in action](../books/go-in-action.md)
 
 # Interesting authors to check out
 - Douglas Adams

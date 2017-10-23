@@ -1,5 +1,5 @@
 # Javascript for Automation
-Still learning it.
+Still learning it. [This](https://github.com/JXA-Cookbook/JXA-Cookbook/wiki/Foreword) is a great reference.
 
 ## Useful snippets
 ### get the URL of the frontmost chrome tab
