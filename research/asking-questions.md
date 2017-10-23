@@ -1,6 +1,5 @@
 # Asking Questions
-
-[This][1] has everything in it on how to ask questions correctly.
+[This](http://www.catb.org/esr/faqs/smart-questions.html) has everything in it on how to ask questions correctly.
 
 In short, it can be summed down to this : 
 
@@ -11,5 +10,3 @@ In short, it can be summed down to this :
 
 
 
-
-[1]:	http://www.catb.org/esr/faqs/smart-questions.html

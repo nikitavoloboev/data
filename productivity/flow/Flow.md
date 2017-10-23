@@ -1,5 +1,4 @@
 # Flow
-
 Getting in the _flow_ is one of the most important things I try to focus on throughout the day.
 
 The _flow_ state is different for all people. For myself I try to define it clearly. I also try to define a certain set of _rules_ or _workflows_ that I like myself to follow for doing certain things.
