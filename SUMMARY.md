@@ -29,7 +29,6 @@
 	* [compassion](life/Compassion.md)
 	* [my principles](life/my-principles.md)
 	* [lessons learned](life/lessons-learned.md)
-	* [staying on top of things](life/staying-on-top-of-things.md)
 * [writing](writing/Writing.md)
 	* [writing prompts](writing/writing-prompts.md)
 	* [markdown](writing/Markdown.md)
@@ -133,7 +132,7 @@
 	* [focusing](productivity/Focusing.md)
 	* [flow](productivity/flow/Flow.md)
 		* [flow processes](productivity/flow/flow-processes.md)
-		* [rules](productivity/flow/Rules.md)r
+		* [rules](productivity/flow/Rules.md)
 		* [no list](productivity/flow/no-list.md)
 	* [sleep](productivity/Sleep.md)
 	* [my workflow](productivity/my-workflow.md)
