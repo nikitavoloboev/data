@@ -33,6 +33,7 @@
 - docker
 - http and web stack
 - DOM
+- regex
 - making logos
 - ethereum
 	- [ether](http://www.ethdocs.org/en/latest/frequently-asked-questions/frequently-asked-questions.html#what-is-ethereum)
@@ -62,6 +63,32 @@
 - keras lib
 - [blockstack](https://github.com/blockstack/blockstack-core)
 - [dat](https://github.com/datproject/dat)
+- making safari extensions 
+- make cli
+- biases 
+	- being aware of all biases that can happen
+- periodic table
+- brain computer interfaces
+- arduino
+- kuberenetes
+- nutrition
+- webassembly
+- visualisation 
+	- visualising algorithms and mathematical concepts
+- webGL
+- physics
+	- non-causality
+	- waveform collapse
+	- loop quantum gravity
+- numpy lib
+- bitwise operations
+- computer graphics
+- typescript
+- human memory
+- Bayesian networks
+- economics
+- zero sum game
+- web crawlers
 - math
 	- Taylor's theorem
 	- Cauchy's integral formula

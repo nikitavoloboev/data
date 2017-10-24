@@ -5,9 +5,13 @@ I mostly love the tooling around it like VS Code and its [Go plugin](https://git
 
 Go promotes composition over inheritance. 
 
+## Commenting Go code
+- Comments documenting declarations should be full sentences
+- Comments should begin with the name of the thing being described and end in a period
+
 # Links
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [15: Performance without the event loop](https://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
 
 # Notes
-- I can call functions from anywhere if they are in the same package.
+- I can call functions from anywhere if they are in the same package
