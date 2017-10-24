@@ -8,11 +8,16 @@ Gitbook provides a pretty awesome search feature that lets you search across thi
 I also really love using night mode. You can switch to it from here if you haven't :
 ![](https://i.imgur.com/k6EDR4K.png)
 
+If this is your first time visiting this wiki, you can just start reading from the top entry down and see what sparks your interest. The top folders include content that is often changing which includes [projects](../projects/Projects.md) I am working on, [things I am working on right now](../working-on/working-on.md), things I am [learning](../working-on/Learning.md) and [reading](../working-on/Reading.md) and [some ideas](../working-on/Ideas.md) I have that I don't have time or skill to work on. 
+
+I will be updating this wiki quite often as I use it myself daily both to keep an account of things I know as well as things I want to know and everything in-between.
+
+For super fast access of this wiki, I do advise you to try out [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
+
 # Content Structure
 Each topic will have a title, some description of it, usually my own thoughts and knowledge on it as well as referencing some resources or links I have liked or used that helped me either understand the topic or gain appreciation of it.
 
-The structure of each of the posts will then look roughly like this : 
-
+The structure of each of the posts will often look roughly like this : 
 1. Title
 2. Description
 	- my thoughts on the topic
