@@ -145,6 +145,7 @@
 * [privacy](privacy/Privacy.md)
 * [games](games/Games.md)
 * [talks](talks/Talks.md)
+* [databases](databases/databases.md)
 * [art](art/Art.md)
 * [API](api/API.md)
 * [IRC](irc/IRC.md)
