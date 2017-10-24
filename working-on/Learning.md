@@ -1,26 +1,27 @@
 # Learning
-My focus at current time is learning :
 > -\> after the name shows what I am currently using to learn the thing
 
 # Learning now
 - [Go](../programming-languages/go/Go.md)
-- [math](../math/Math.md) 
-	- lambda calculus
-	- type theory 
-	- category theory -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+- [web development](../web/Web.md) 
+- [javascript](../programming-languages/Javascript.md)
+	- [react](../web/react/React.md)
+- networking -\> [network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [vim](../text-editors/Vim.md) 
-- [haskell](../programming-languages/Haskell.md) 
+- [operating systems](../operating-systems/operating-systems.md) -\> [three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- Memcached
 - macOS automation 
 	- [JXA](../macOS/jxa.md)
 	- [Alfred](../macOS/apps/alfred/Alfred.md) 
 		- [awgo](https://github.com/deanishe/awgo)
 	- [Keyboard Maestro](../macOS/apps/km/km.md) 
-- [web development](../web/Web.md) 
-- [javascript](../programming-languages/Javascript.md)
-- [operating systems](../operating-systems/operating-systems.md) -\> [three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-- Memcached
+- [math](../math/Math.md) 
+	- lambda calculus
+	- type theory 
+	- category theory -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
 # Learn next
+- [haskell](../programming-languages/Haskell.md) 
 - music
 	- guitar
 - machine learning
@@ -30,7 +31,6 @@ My focus at current time is learning :
 	- IPV6
 - chrome dev tools
 - docker
-- blockchain
 - http and web stack
 - DOM
 - making logos
