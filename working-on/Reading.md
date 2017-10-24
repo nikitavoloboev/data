@@ -1,6 +1,6 @@
 # Reading
 I am currently trying to read through these books :
-- network programming in Go
+- [network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
 # Books read
