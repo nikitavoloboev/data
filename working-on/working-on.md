@@ -12,5 +12,5 @@ The big projects I have already done can be seen in more detail [here](https://n
 
 ## Other things
 - alfred github followers
-	- index people I follow similar similar to [GitHub jump](https://github.com/lox/alfred-github-jump)
+	- index people I follow similar to [GitHub jump](https://github.com/lox/alfred-github-jump)
 - [write a parser to parse a markdown page for all links to read from Alfred](https://github.com/nikitavoloboev/markdown-to-alfred/issues/1)
