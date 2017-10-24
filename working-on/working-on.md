@@ -1,5 +1,4 @@
 # Working on
-I am currently working on these things : 
 - [writing a parser to parse a markdown page for all links to read from Alfred](https://github.com/nikitavoloboev/markdown-to-alfred/issues/1)
 - [learn anything](https://learn-anything.xyz/)
 	- [moving to our new design](https://github.com/learn-anything/learn-anything/issues/77)

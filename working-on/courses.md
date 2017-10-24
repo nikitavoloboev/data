@@ -1,3 +1,6 @@
 # Courses I am taking
-Here are some courses I am currently taking or planning to take soon.
+# Taking now
+- 
+
+# Take next
 - [shell tools](http://www.cs.cornell.edu/courses/cs2043/2014sp/)
