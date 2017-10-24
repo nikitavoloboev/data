@@ -164,4 +164,5 @@
 	* [go in action](books/go-in-action.md)
 * [research papers](research-papers/research-papers.md)
 * [other](other/other-things.md)
+	* [advice](other/Advice.md)
 	* [interesting things](other/interesting-things.md)

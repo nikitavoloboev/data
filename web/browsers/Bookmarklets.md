@@ -14,3 +14,8 @@ javascript:(b=>fetch('https://api.github.com/repos/'+b[1]+'/commits?sha='+(b[2]|
 ## [Online article discussion finder](https://github.com/theoretick/discuss-it)
 
 Lets you see where the link you are watching right now has been discussed before. Super handy.
+
+# Notes
+- you can add bookmarklets in Safari either by 
+	- dragging a bookmarklet from a webpage to your bookmarks bar then moving it from there
+	- creating a random bookmark, then editing it and changing the URL to the bookmarklet JavaScript
