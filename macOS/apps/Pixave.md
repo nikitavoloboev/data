@@ -4,4 +4,4 @@ I use Pixave as my own personal image library. I sort images in groups and I hav
 Here is how my library looks like :
 ![](https://i.imgur.com/PHNdc3s.jpg)
 
-The orange tag means that the image was uploaded to my library on Imgur for sharing.
+The orange tag means that the image was uploaded to my [library on Imgur](https://nikivii.imgur.com) for sharing.

@@ -7,3 +7,4 @@ My workflow is always changing but currently it consists of the following.
 
 # Task tracking
 - 2Do
+- Ship (for GitHub issues)

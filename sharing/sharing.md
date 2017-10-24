@@ -15,11 +15,14 @@ I mostly focus on making videos about macOS automation as that is what interests
 ## [Instagram](https://www.instagram.com/nikitavoloboev/)
 I don't often share photographs and things but when I do, I upload it there.
 
-## Sharing thoughts on Twitter
-I share most of the things I am up to right now on [my Twitter page](https://twitter.com/nikitavoloboev).
+## [Twitter](https://twitter.com/nikitavoloboev)
+I share most of the things I am up to right now on my Twitter page.
 
 ## Music
 I am currently not writing any music of my own although I am learning. I do however share many of the songs I like in [form of playlists](../music/music-plays.md).
+
+## Curated Images
+I also curate some [Imgur albums](https://nikivii.imgur.com) of various things.
 
 ## This wiki
 I share everything I know in form of this wiki here. Can be easily queried with the search in top left corner and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.

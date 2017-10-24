@@ -27,7 +27,7 @@ I make notes on all the books I have read. Here are the books I have covered thu
 - elements of information theory
 - intro to statistical learning
 - mans search for meaning
-- 7 habits
+- 7 habits 
 - thinking physics: understandable practical reality
 - the craft of research
 - Augustus
