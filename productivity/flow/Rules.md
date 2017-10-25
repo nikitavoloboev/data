@@ -18,3 +18,4 @@ Some simple rules to follow for myself doing things.
  - only add snippets of code that are really useful
 	- keep simple things I use for my own reference in SnippetsLab only
 - Heading / Snippets / Notes / Links / should always be on one level heading
+
