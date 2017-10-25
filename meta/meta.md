@@ -23,9 +23,11 @@ The structure of each of the posts will often look roughly like this :
 	- my thoughts on the topic
 3. Subtopics 
 	- various subtopics related to the main topic
-3. Links
+4. Snippets
+	- if the topic is programming related, I will attach a few Gists related to the topic I personally use
+5. Links
 	- links related to the topic
-4. Notes
+6. Notes
 	- my own personal notes on the matter as well as things I found interesting on the internet regarding the topic
 		- I often give a link of where I got it from
 

@@ -4,9 +4,4 @@ Not too experienced with Bash. But I do know that you have to __quote your varia
 Also it's really useful to use [SpellCheck](https://www.shellcheck.net).
 
 # Snippets
-### removes some string from a string
-```Bash
-url="https://github.com/learn-anything/maps"
-# removes https:// 
-url="${url#https://}"
-```
+- [removes some string from a string](https://gist.github.com/187a7971fd28de1eeaeabe0bd3a6d457)
