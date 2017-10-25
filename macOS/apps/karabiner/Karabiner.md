@@ -12,6 +12,7 @@ I document all the bindings I have made on my laptop as a mind map [here](https:
 
 It documents both simultaneous key presses that is if I press _j and k together_ and my custom modifier keys (_sticky keys_).
 
+## Mind Map key
 Below is the _key_ for how to read that map. Mind Maps are pretty awesome because I can literally map my modifier mappings and bindings as a QWERTY map :
 ![](https://i.imgur.com/4yk23Be.png)
 I hope you get the idea for how powerful both Karabiner and this way of visualising bindings is. 
