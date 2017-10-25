@@ -10,11 +10,11 @@ I share my Karabiner private.xml [here](https://github.com/nikitavoloboev/dotfil
 
 I document all the bindings I have made on my laptop as a mind map [here](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh). It is pretty large but if you have MindNode, you can download it locally and it would be quite fast to use.
 
-It documents both simultaneous key presses that is if I press _j and k together_ and my custom modifier keys.
+It documents both simultaneous key presses that is if I press _j and k together_ and my custom modifier keys (_sticky keys_).
 
 Below is the _key_ for how to read that map. Mind Maps are pretty awesome because I can literally map my modifier mappings and bindings as a QWERTY map :
 ![](https://i.imgur.com/4yk23Be.png)
-I hope you get the idea for how powerful both Karabiner and this way of visualising bindings is. Feel free 
+I hope you get the idea for how powerful both Karabiner and this way of visualising bindings is. 
 
 ![](https://i.imgur.com/u12aP4C.png)
 
