@@ -18,7 +18,7 @@
 * [research](research/Research.md)
 	* [solving problems](research/solving-problems.md)
 	* [asking questions](research/asking-questions.md)
-	* [staying on top of things](life/staying-on-top-of-things.md)
+	* [staying on top of things](research/staying-on-top-of-things.md)
 * [music](music/Music.md)
 	* [music playlists](music/music-plays.md)
 	* [music artists](music/music-artists.md)
