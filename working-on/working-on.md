@@ -1,10 +1,12 @@
 # Working on
-- [writing a parser to parse a markdown page for all links to read from Alfred](https://github.com/nikitavoloboev/markdown-to-alfred/issues/1)
+- [parse a markdown page for all links to read from Alfred](https://github.com/nikitavoloboev/markdown-to-alfred/issues/1)
 - [learn anything](https://learn-anything.xyz/)
 	- [moving to our new design](https://github.com/learn-anything/learn-anything/issues/77)
 	- adding and easing up contribution and adding authentication
 
 ## Do next
+- alfred parse files
+	- parse arbitrary CSV
 - alfred github followers
 	- index people I follow similar to [GitHub jump](https://github.com/lox/alfred-github-jump)
 - [crafting ideas](https://github.com/nikitavoloboev/crafting-ideas)
