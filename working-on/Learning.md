@@ -23,6 +23,7 @@
 # Learn next
 - [haskell](../programming-languages/Haskell.md) 
 - music
+- statistics
 	- guitar
 - machine learning
 - git
