@@ -12,6 +12,7 @@ Until I have built [Crafting Ideas](https://github.com/nikitavoloboev/crafting-i
 - parse arbitrary CSV files
 	- similar to my [alfred edit files](https://github.com/nikitavoloboev/alfred-edit-files) but instead of it reading one file, you pass in some CSV file instead and it will parse it to show in Alfred
 		- can use that for many things
+- index starred Gists and store in sqlite to read from Alfred 
 
 # Web
 - [Your life as little boxes](https://github.com/nikitavoloboev/boxes)
@@ -20,7 +21,7 @@ Until I have built [Crafting Ideas](https://github.com/nikitavoloboev/crafting-i
 	- although it would be cool to extend this idea further and make these little blocks of time actionable in some way
 		- or even make boxes represent something else and not time (like habits done)
 
-# React components 
+# React components
 - [markdown -\> CV](https://github.com/nikitavoloboev/react-md-to-cv)
 	- render markdown of information to a full fledged CV as a react component
 
