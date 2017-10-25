@@ -9,7 +9,7 @@ Go promotes composition over inheritance.
 - Comments documenting declarations should be full sentences
 - Comments should begin with the name of the thing being described and end in a period
 
-## Snippets
+# Snippets
 - [read file line by line](https://gist.github.com/69824f3c2f29ae5fc6519452e2c89a4d)
 
 # Links
