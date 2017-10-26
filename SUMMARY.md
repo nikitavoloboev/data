@@ -116,6 +116,7 @@
 	* [react](web/react/React.md)
 		* [redux](web/react/Redux.md)
 	* [IPFS](web/IPFS.md)
+	* [aws](web/AWS.md)
 * [security](security/Security.md)
 * [social networks](social-networks/social-networks.md)
 * [linux](linux/Linux.md)
