@@ -71,5 +71,5 @@
 	- it should be more of a guide and a glue between different things rather than as a way to dump everything in one single file
 
 # Other
-- when proposing feature requests, don't say _"for me"_ is never a good argument for a feature request
+- when proposing feature requests, _"for me"_ is never a good argument for a feature request
 	- if you want someone to add a feature to their software, show how it would be useful to lots of users

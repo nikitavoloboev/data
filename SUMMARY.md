@@ -150,6 +150,7 @@
 * [games](games/Games.md)
 * [talks](talks/Talks.md)
 * [databases](databases/databases.md)
+	* [dynamoDB](databases/DynamoDB.md)
 * [art](art/Art.md)
 * [API](api/API.md)
 * [IRC](irc/IRC.md)
