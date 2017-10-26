@@ -80,6 +80,7 @@
 	* [haskell](programming-languages/Haskell.md)
 	* [javascript](programming-languages/Javascript.md)
 	* [clojure](programming-languages/Clojure.md)
+	* [lisp](programming-languages/Lisp.md)
 * [open source](open-source/open-source.md)
 	* [GitHub](open-source/GitHub.md)
 * [languages](languages/Languages.md)
