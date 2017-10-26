@@ -69,3 +69,7 @@
 	- try to see how this piece of knowledge plays a role in on a more higher level
 - be smart about how to present information in the mind maps
 	- it should be more of a guide and a glue between different things rather than as a way to dump everything in one single file
+
+# Other
+- when proposing feature requests, don't say _"for me"_ is never a good argument for a feature request
+	- if you want someone to add a feature to their software, show how it would be useful to lots of users
