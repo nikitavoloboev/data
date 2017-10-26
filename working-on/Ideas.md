@@ -3,7 +3,6 @@ Until I have built [Crafting Ideas](https://github.com/nikitavoloboev/crafting-i
 
 # Workflows
 - parse all [awesome lists](https://github.com/sindresorhus/awesome) and read from Alfred
-- make LA workflow using our API
 - parse all books from [free programming books](https://github.com/EbookFoundation/free-programming-books) to Alfred
 - index twitter following similar to [GitHub jump](https://github.com/lox/alfred-github-jump)
 	- see if there is API for that

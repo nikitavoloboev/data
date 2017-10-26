@@ -5,6 +5,7 @@
 	- adding and easing up contribution and adding authentication
 
 ## Do next
+- make LA workflow using our API
 - alfred parse files
 	- parse arbitrary CSV
 - alfred github followers

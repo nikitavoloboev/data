@@ -60,6 +60,7 @@
 	- and commit your changes
 	- it is a pain to reverse and fix things when you don't know where the problem is
 	- do __atomic__ commits
+- write proper commit messages
 - comment over my code!
 	- especially zsh functions, makes things easier to read
 
