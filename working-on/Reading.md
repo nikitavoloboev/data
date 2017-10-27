@@ -11,6 +11,7 @@ I make notes on all the books I have read. Here are the books I have covered thu
 # Read next
 - godel, escher bach
 - type theory & functional programming
+- docker in practice
 - algorithm design manual
 - go in action
 - code: hidden language
