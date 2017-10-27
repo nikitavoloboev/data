@@ -1,5 +1,5 @@
 # Working on
-I am currently working and focusing my time on making and improving [Learn Anything](../projects/learn-anything.xyz).
+I am currently working and focusing my time on making and improving [Learn Anything](../projects/learn-anything.md).
 
 I am also continuously [learning](./Learning.md), [reading books](./Reading.md) and writing various tools and [Alfred workflows](../macOS/apps/alfred/alfred-workflows.md) for my own personal productivity.
 
