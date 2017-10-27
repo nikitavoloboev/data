@@ -57,6 +57,7 @@
 		* [bettertouchtool](macOS/apps/BetterTouchTool.md)
 		* [reeder](macOS/apps/Reeder.md)
 		* [day one](macOS/apps/day-one.md)
+		* [airmail](macOS/apps/Airmail.md)
 	* [homebrew](macOS/Homebrew.md)
 	* [JXA](macOS/jxa.md)
 	* [applescript](macOS/Applescript.md)
