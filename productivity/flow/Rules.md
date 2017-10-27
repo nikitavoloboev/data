@@ -1,11 +1,14 @@
 # Rules
 Some simple rules to follow for myself doing things.
 
-## Ulysses
+## Markdown
 - don't leave whitespace between headings and text
 - headings should start with capital letter
 	- code snippets headings don't have to
-- snippets of code headings should be on three level heading
+
+## GitHub
+- GitHub descriptions should be capitalised 
+- add appropriate topics to each repo
 
 ## Alfred
 - name triggers with spaces between words (all lowercased)
