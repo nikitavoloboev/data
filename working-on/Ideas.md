@@ -12,6 +12,7 @@ Until I have built [Crafting Ideas](https://github.com/nikitavoloboev/crafting-i
 	- similar to my [alfred edit files](https://github.com/nikitavoloboev/alfred-edit-files) but instead of it reading one file, you pass in some CSV file instead and it will parse it to show in Alfred
 		- can use that for many things
 - index starred Gists and store in sqlite to read from Alfred 
+- make workflows to quickly search through my entire Pixave library
 
 # Web
 - [Your life as little boxes](https://github.com/nikitavoloboev/boxes)

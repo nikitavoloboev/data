@@ -51,6 +51,8 @@
 	- learn why they happened and do my best to never repeat them again
 - look at the price of the delivery
 - [don’t assume it’s difficult until it is](https://news.ycombinator.com/item?id=10872970)
+- simplicity matters
+	- don't overcomplicate things for no reason
 
 # Code
 - use switch cases over long ifs

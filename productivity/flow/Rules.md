@@ -1,6 +1,9 @@
 # Rules
 Some simple rules to follow for myself doing things.
 
+## Git
+- do atomic commits and write proper appropriate commit messages
+
 ## Markdown
 - don't leave whitespace between headings and text
 - headings should start with capital letter
