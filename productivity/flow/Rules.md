@@ -19,5 +19,5 @@ Some simple rules to follow for myself doing things.
 	- keep simple things I use for my own reference in SnippetsLab only
 - Heading / Snippets / Notes / Links / should always be on one level heading
 - no TODOs in normal wiki entries
-	- the wiki is for notes and references and some actionable dedicated lists like [reading](../working-on/Reading.md) or [working on](../working-on/working-on.md)
+	- the wiki is for notes and references and some actionable dedicated lists like [reading](../working-on/Reading.md) or [learning](../working-on/Learning.md).
 
