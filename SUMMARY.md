@@ -37,6 +37,7 @@
 * [macOS](macOS/macOS.md)
 	* [apps](macOS/apps/macOS-apps.md)
 		* [alfred](macOS/apps/alfred/Alfred.md)
+			* [alfred workflows](macOS/apps/alfred/alfred-workflows.md)
 			* [making workflows](macOS/apps/alfred/making-workflows.md)
 			* [AwGo](macOS/apps/alfred/Awgo.md)
 		* [karabiner](macOS/apps/karabiner/Karabiner.md)

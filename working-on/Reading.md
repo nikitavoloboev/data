@@ -1,7 +1,6 @@
 # Reading
 - [network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
-- [macOS in a nutshell](https://books.google.nl/books?id=HfKggD2umXUC&pg=PA550&lpg=PA550&dq=%23+Auth:+Christopher+Stone&source=bl&ots=B52TJqF9jM&sig=Ys-3Fiw9Jzp517ARLB6rpHg4Mqs&hl=en&sa=X&ved=0ahUKEwjmt6CnoIzXAhXEI1AKHUszC3oQ6AEIQTAF#v=onepage&q=%23%20Auth%3A%20Christopher%20Stone&f=false)
 
 # Books read
 You can view books I have already read [here](https://www.goodreads.com/review/list/15768482?shelf=read). 
