@@ -19,3 +19,7 @@ And then I can go through these issues one by one.
 - [GitHub jump](https://github.com/lox/alfred-github-jump) workflow is one of the best things you can install to navigate GitHub like a God
 	- I [slightly modified it](https://www.dropbox.com/s/t3iyjt3pyuz8mup/github%20jumps-.alfredworkflow?dl=1) to jump to different parts of the repo with modifiers like going to issues, releases, opening new issue or even cloning the repo instantly
 - [this](http://www.somsubhra.com/github-release-stats/) is really cool website where you can find how people people have downloaded various GitHub releases of people
+- I can include media files like GIFs in the repository itself and then just reference them from README to embed them
+	- media folder is usually used for this
+- I can include and mix in HTML in GitHub readme's
+	- this is super useful for embedding images because you can customise `width` and `height` values to make the READMEs look a lot nicer
