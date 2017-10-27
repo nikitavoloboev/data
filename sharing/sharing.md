@@ -4,7 +4,7 @@ I am currently focusing on working through [my projects](./projects.md), [learni
 Here are things I have made thus far and where you can find more about each of the things.
 
 ## [Code on GitHub](https://github.com/nikitavoloboev)
-I like to solve problems I have with code and sharing the things I made on GitHub. I map all the repositories I shared as a map [here](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#49.4,-944.4,0).
+I like to solve problems I have with code and sharing the things I made on [GitHub](https://github.com/nikitavoloboev). I map all the repositories I shared as a map [here](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#49.4,-944.4,0).
 
 ## [Blog on Medium](https://medium.com/@NikitaVoloboev)
 Contains longer articles I write. I map all the articles I wrote in form of a map [here](https://my.mindnode.com/2YJ1yeqHkxaBMHKDPC1k2Ripxpx9Ne7ULk4rfh3H#460.7,-466.1,-1).

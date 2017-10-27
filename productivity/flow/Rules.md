@@ -10,14 +10,12 @@ Some simple rules to follow for myself doing things.
 ## Alfred
 - name triggers with spaces between words (all lowercased)
 
-## GitHub
-- centre headings in readme's and add badges below
-	- add a logo or something visual if possible
-
 ## Wiki
  - only add snippets of code that are really useful
 	- keep simple things I use for my own reference in SnippetsLab only
-- Heading / Snippets / Notes / Links / should always be on one level heading
+- Heading should always be on one level heading
+	- and Snippets / Notes / Links / on two level heading
+	- everything else on three levels where appropriate
 - no TODOs in normal wiki entries
 	- the wiki is for notes and references and some actionable dedicated lists like [reading](../working-on/Reading.md) or [learning](../working-on/Learning.md).
 
