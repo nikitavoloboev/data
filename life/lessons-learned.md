@@ -53,6 +53,8 @@
 - [don’t assume it’s difficult until it is](https://news.ycombinator.com/item?id=10872970)
 - simplicity matters
 	- don't overcomplicate things for no reason
+- try to avoid confusion as much as possible
+	- don't use anything only you can understand and release it in the public
 
 ## Code
 - use switch cases over long ifs

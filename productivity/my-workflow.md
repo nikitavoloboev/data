@@ -1,10 +1,10 @@
 # My workflow
 My workflow is always changing but currently it consists of the following. 
 
-# Code
+## Code
 - VS Code - main editor
+- Sublime text - GitHub readme / editing dotfiles
 - iTerm - terminal / neovim
-
-# Task tracking
+## Task tracking
 - 2Do
 - Ship (for GitHub issues)
