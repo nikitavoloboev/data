@@ -12,6 +12,8 @@ Some simple rules to follow for myself doing things.
 ## GitHub
 - GitHub descriptions should be capitalised 
 - add appropriate topics to each repo
+- if the readme is long enough, add a table of contents
+- don't add anything that is not needed and focus on the content
 
 ## Alfred
 - name triggers with spaces between words (all lowercased)
