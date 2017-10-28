@@ -1,7 +1,7 @@
 # [Ulysses](https://ulyssesapp.com/)
 The app I use to do all my writing in.
 
-I use it to both write this wiki you are reading now as well as everything else that has to do with writing somehow except writing GitHub readme's. For that I use [MacDown](https://github.com/MacDownApp/macdown).
+I use it to both write this wiki you are reading now as well as everything else that has to do with writing somehow except writing GitHub readme's. For that I use Sublime Text.
 
 Here is how my workflow with Ulysses looks like.
 
@@ -30,4 +30,3 @@ Here are some more tags I use :
 Here is how a sheet with an idea looks like : 
 ![](https://i.imgur.com/Y4cslCI.png)
 I have many like it in `writing` group. The small dashed points below are used to quickly note down some ideas or thoughts I have about what the article should be about. As I write the article I usually try to address these points one by one until I cover everything I want to say. 
-

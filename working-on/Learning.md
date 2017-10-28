@@ -1,7 +1,7 @@
 # Learning
 > -\> after the name shows what I am currently using to learn the thing
 
-# Learning now
+## Learning now
 - [Go](../programming-languages/go/Go.md)
 - [web development](../web/Web.md) 
 - [javascript](../programming-languages/Javascript.md)
@@ -20,7 +20,7 @@
 	- type theory 
 	- category theory -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
-# Learn next
+## Learn next
 - [haskell](../programming-languages/Haskell.md) 
 - music
 - statistics
@@ -39,7 +39,7 @@
 - ethereum
 	- [ether](http://www.ethdocs.org/en/latest/frequently-asked-questions/frequently-asked-questions.html#what-is-ethereum)
 
-# Interesting
+## Interesting
 - kingpin go lib
 - RxJS
 - hammerspoon

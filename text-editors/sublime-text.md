@@ -5,6 +5,6 @@ I now always keep it open full screen with my .dotfiles folder open there :
 
 ![](https://i.imgur.com/fyGWhVc.png)
 
-I also use it to quickly edit certain config files like [adding more web searches](https://github.com/nikitavoloboev/alfred-web-searches), adding more maps to parse for Alfred My Mind or editing and adding maps for LA itself.
+I also use it to quickly edit certain config files like [adding more web searches](https://github.com/nikitavoloboev/alfred-web-searches), adding more maps to parse for Alfred My Mind or editing and adding maps for LA itself. And I use it to edit GitHub readme files.
 
 [Six vim plugin](https://github.com/guillermooo/Six) for this editor is genuinely amazing.
