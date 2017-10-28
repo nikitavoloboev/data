@@ -4,7 +4,7 @@ Here are some of my [above described flow processes](./Flow.md) that I try to ma
 ## Sharing files
 - more permanent shares are shared with Dropbox
 - temporary shares with [Transfer](https://transfer.sh)
- - if the files are stored on GitHub somewhere, I can use [this](http://rawgit.com/) to get a downloadable link of the file
+ - if the files are stored on GitHub somewhere, I can use [this](http://rawgit.com/) to get a downloadable link of the raw file
 
 ## Releasing workflows with OneUpdater
 - don't forget to update version number and then also commit the workflow so info.plist on GitHub has the latest version
