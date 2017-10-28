@@ -3,6 +3,6 @@ Anything that I do is ultimately self expression. It's that often times I was af
 
 Always feeling like you are in a race with other people is not a good way to live a life. 
 
-# Links
+## Links
 - [Just keep expressing yourself](https://medium.com/@NikitaVoloboev/just-keep-expressing-yourself-306870791ae4)
 	- my first ever article I published on Medium

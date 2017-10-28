@@ -16,7 +16,7 @@ For super fast access of this wiki, I do advise you to try out [Alfred My Mind](
 
 If you find some mistake, especially if something that I say is plain wrong, please fork [this repository](https://github.com/nikitavoloboev/knowledge) and make a PR with correct changes. Or [open an issue](https://github.com/nikitavoloboev/knowledge/issues/new) saying what you think is wrong.
 
-# Content Structure
+## Content Structure
 Each topic will have a title, some description of it, usually my own thoughts and knowledge on it as well as referencing some resources or links I have liked or used that helped me either understand the topic or gain appreciation of it.
 
 The structure of each of the posts will often look roughly like this : 
@@ -37,7 +37,7 @@ In links I very often link to a  [Learn Anything](https://learn-anything.xyz/) m
 
 As my focus at current time is writing code to solve various problems, I will also be including a lot of code and covering various technical and interesting to me subjects. The code I will be linking to will be embedded as Gists and you can use and reuse it as you see fit. 
 
-# My workflow in writing and maintaining this wiki
+## My workflow in writing and maintaining this wiki
 I write all these entries in [Ulysses](../macOS/apps/Ulysses.md) app and since all of the entries are simply markdown files sorted into folders and [hosted on GitHub](https://github.com/nikitavoloboev/knowledge). I hook this git _knowledge_ folder to Ulysses as external folder : 
 
 ![](https://i.imgur.com/EgReXPY.png)

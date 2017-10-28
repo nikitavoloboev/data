@@ -4,8 +4,8 @@ I will be using certain abbreviations for things that I may be repeating often. 
 - km = [keyboard maestro](../macOS/apps/km/km.md)
 - repo = GitHub repository
 
-# Prefixes
+## Prefixes
 I also can prefix certain things with a year, like in [talks](../talks/Talks.md) which stand for they year in which the article or book was made in.
 
-# Karabiner mappings
+## Karabiner mappings
 I may often say something like `which I binded to a + k` which means I binded some action with Karabiner to `a` modifier key held down + k. For what means, you can read [this](../macOS/apps/karabiner/Karabiner.md).

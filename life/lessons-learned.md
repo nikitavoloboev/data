@@ -1,5 +1,5 @@
 # Lessons learned
-# Life
+## Life
 - automate backups
 	- make sure the backups you’ve made are actually successful
 - study smart
@@ -54,7 +54,7 @@
 - simplicity matters
 	- don't overcomplicate things for no reason
 
-# Code
+## Code
 - use switch cases over long ifs
 - it’s a lot easier to actually just use one screen
 	- much easier to context switch
@@ -66,12 +66,12 @@
 - comment over my code!
 	- especially zsh functions, makes things easier to read
 
-# Using Mind maps
+## Using Mind maps
 - don’t index information for the sake of indexing
 	- try to see how this piece of knowledge plays a role in on a more higher level
 - be smart about how to present information in the mind maps
 	- it should be more of a guide and a glue between different things rather than as a way to dump everything in one single file
 
-# Other
+## Other
 - when proposing feature requests, _"for me"_ is never a good argument for a feature request
 	- if you want someone to add a feature to their software, show how it would be useful to lots of users

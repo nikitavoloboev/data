@@ -2,13 +2,13 @@
 - [network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
-# Books read
+## Books read
 You can view books I have already read [here](https://www.goodreads.com/review/list/15768482?shelf=read). 
 
 I make notes on all the books I have read. Here are the books I have covered thus far where number means the year in which I've read the book.
 -  [17: go in action](../books/go-in-action.md)
 
-# Read next
+## Read next
 - godel, escher bach
 - type theory & functional programming
 - docker in practice
@@ -85,7 +85,7 @@ I make notes on all the books I have read. Here are the books I have covered thu
 - [consciousness explained](http://www.wikiwand.com/en/Consciousness_Explained)
 - advanced nutrition and human metabolism
 
-# Interesting authors to check out
+## Interesting authors to check out
 - Douglas Adams
 - Ted Chiang
 - Alan Watts
@@ -95,7 +95,7 @@ I make notes on all the books I have read. Here are the books I have covered thu
 - Aleksandr Solzhenitisyn
 - David Sedaris
 
-# Interesting books + recommendations
+## Interesting books + recommendations
 - [check these books - master switch is interesting](https://news.ycombinator.com/item?id=14477851)
 - [most meaningful books I read in 2016](http://blog.ncase.me/the-most-meaningful-books-i-read-in-2016/)
 - [most mentioned programming books on reddit](http://booksreddit.com/product-category/best-programming-books/)
