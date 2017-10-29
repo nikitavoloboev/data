@@ -158,6 +158,7 @@
 * [API](api/API.md)
 * [IRC](irc/IRC.md)
 * [work](work/Work.md)
+* [streaming](streaming/Streaming.md)
 * [LaTeX](latex/LaTeX.md)
 * [cli](cli/cli.md)
 	* [commands](cli/commands/cli-commands.md)
