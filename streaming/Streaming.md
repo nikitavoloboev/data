@@ -1,5 +1,5 @@
 # Streaming
-I am thinking of starting streaming some of the things I am doing like programming but maybe some other things in the future too. [Twitch](https://go.twitch.tv) is genuinely a pretty amazing community for this kind of thing, it's a shame that is focused primarily over gaming channels and its [creative](https://go.twitch.tv/directory/game/Creative) is not as active.
+I am thinking of starting streaming some of the things I am doing like programming but maybe some other things in the future too. [Twitch](https://go.twitch.tv) is genuinely a pretty amazing community for this kind of thing, it's a shame that is focused primarily over gaming channels and it its [creative section](https://go.twitch.tv/directory/game/Creative) is not as active.
 
 In any way, here are things I am using for streaming : 
 1. [OBS](https://obsproject.com) for recording my laptop, audio and sometimes the camera
