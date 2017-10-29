@@ -3,6 +3,7 @@
 
 ## Learning now
 - [Go](../programming-languages/go/Go.md)
+	- testing code
 - [web development](../web/Web.md) 
 - [javascript](../programming-languages/Javascript.md)
 	- [react](../web/react/React.md)

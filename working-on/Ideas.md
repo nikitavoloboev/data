@@ -13,6 +13,7 @@ Until I have built [Crafting Ideas](https://github.com/nikitavoloboev/crafting-i
 		- can use that for many things
 - index starred Gists and store in sqlite to read from Alfred 
 - make workflows to quickly search through my entire Pixave library
+- make workflow like [Safari Assistant](https://git.deanishe.net/deanishe/alfred-safari-assistant) but for Chrome
 
 # Web
 - [Your life as little boxes](https://github.com/nikitavoloboev/boxes)

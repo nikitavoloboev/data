@@ -5,7 +5,7 @@
 ## Books read
 You can view books I have already read [here](https://www.goodreads.com/review/list/15768482?shelf=read). 
 
-I make notes on all the books I have read. Here are the books I have covered thus far where number means the year in which I've read the book.
+I make notes on all the books I have read. Below are the books I have covered thus far where number means the year in which I've read the book.
 -  [17: go in action](../books/go-in-action.md)
 
 ## Read next
