@@ -26,4 +26,3 @@ Some simple rules to follow for myself doing things.
 	- everything else on three levels where appropriate
 - no TODOs in normal wiki entries
 	- the wiki is for notes and references and some actionable dedicated lists like [reading](../working-on/Reading.md) or [learning](../working-on/Learning.md).
-
