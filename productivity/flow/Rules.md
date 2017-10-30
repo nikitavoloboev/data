@@ -14,6 +14,7 @@ Some simple rules to follow for myself doing things.
 - add appropriate topics to each repo
 - if the readme is long enough, add a table of contents
 - don't add anything that is not needed and focus on the content
+- add image or logo if possible to visually show the workfow/library in action
 
 ## Alfred
 - name triggers with spaces between words (all lowercased)
