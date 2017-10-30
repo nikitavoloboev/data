@@ -173,6 +173,7 @@
 * [courses](courses/Courses.md)
 * [books](books/Books.md)
 	* [go in action](books/go-in-action.md)
+	* [AI - modern approach](books/ai-modern-approach.md)
 * [research papers](research-papers/research-papers.md)
 * [other](other/other-things.md)
 	* [advice](other/Advice.md)
