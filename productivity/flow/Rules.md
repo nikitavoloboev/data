@@ -29,4 +29,4 @@ Some simple rules to follow for myself doing things.
 	- the wiki is for notes and references and some actionable dedicated lists like [reading](../working-on/Reading.md) or [learning](../working-on/Learning.md).
 
 ## Writing
-- capitalise things properly
+- capitalise things properly and use punctuation 
