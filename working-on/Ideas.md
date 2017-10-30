@@ -1,7 +1,7 @@
 # Ideas
 Until I have built [Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas), I may put some of my ideas I have here although I really should just sit down and build the project. It solves a __huge__ problem of mine.
 
-# Workflows
+## Workflows
 - parse all [awesome lists](https://github.com/sindresorhus/awesome) and read from Alfred
 - parse all books from [free programming books](https://github.com/EbookFoundation/free-programming-books) to Alfred
 - index twitter following similar to [GitHub jump](https://github.com/lox/alfred-github-jump)
@@ -15,16 +15,19 @@ Until I have built [Crafting Ideas](https://github.com/nikitavoloboev/crafting-i
 - make workflows to quickly search through my entire Pixave library
 - make workflow like [Safari Assistant](https://git.deanishe.net/deanishe/alfred-safari-assistant) but for Chrome
 
-# Web
+## Web
 - [Your life as little boxes](https://github.com/nikitavoloboev/boxes)
 	- a little website to show your life as little boxes 
 	- in similar vein to [Alfred time](https://github.com/nikitavoloboev/alfred-time) but visualise time passed and time passing
 	- although it would be cool to extend this idea further and make these little blocks of time actionable in some way
 		- or even make boxes represent something else and not time (like habits done)
 
-# React components
+## React components
 - [markdown -\> CV](https://github.com/nikitavoloboev/react-md-to-cv)
 	- render markdown of information to a full fledged CV as a react component
 
-# Fun
+## Fun
 - create a fractal tree
+
+## GitHub awesome lists
+- awesome bookmarklets
