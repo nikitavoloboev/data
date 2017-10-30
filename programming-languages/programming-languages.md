@@ -4,3 +4,6 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 It is quite interesting really how languages like Python allow us to play with _new primitives_. New lego building blocks that other people have made that we can build castles with or new more robust lego blocks to build better castles and build them faster.
 
 As for me, I don't really know any programming language like I know English and I don't think you can really compare the two. Programming is the language of logic. And I just don't have such vast range of experience to call myself a programmer yet.
+
+## Links
+- [near future of programming languages](http://dev.stephendiehl.com/nearfuture.pdf) 
