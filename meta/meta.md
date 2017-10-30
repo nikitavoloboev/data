@@ -1,7 +1,7 @@
 # Wiki Structure
 Below you will find all the notes I have made. I continuously update them and I use them myself for my own reference. However I try to write things and structure them so everyone can benefit from reading them or even reference what I know easily and quickly.
 
-Each folder is a topic that can include other topics under it, ideally related to the parent topic.
+Each folder is a topic that can include other topics under it related to the parent topic.
 
 Gitbook provides a pretty awesome search feature that lets you search across this entire knowledge base, so feel free to use it.
 
@@ -35,7 +35,7 @@ The structure of each of the posts will often look roughly like this :
 
 In links I very often link to a  [Learn Anything](https://learn-anything.xyz/) map as that in my opinion is the perfect place to start learning any topic as it should ideally show you the most efficient path for learning anything. Aside from the link to LA, I may also include some of my own things I wrote or really liked as well as my comments on these links.
 
-As my focus at current time is writing code to solve various problems, I will also be including a lot of code and covering various technical and interesting to me subjects. The code I will be linking to will be embedded as Gists and you can use and reuse it as you see fit. 
+As my focus at current time is writing code to solve various problems, I will also be including a lot of code and covering various technical and interesting to me subjects. The code I will be linking to will be presented via GitHub gists and you can use and reuse the code as you see fit. 
 
 ## My workflow in writing and maintaining this wiki
 I write all these entries in [Ulysses](../macOS/apps/Ulysses.md) app and since all of the entries are simply markdown files sorted into folders and [hosted on GitHub](https://github.com/nikitavoloboev/knowledge). I hook this git _knowledge_ folder to Ulysses as external folder : 

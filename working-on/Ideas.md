@@ -1,7 +1,7 @@
 # Ideas
 Until I have built [Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas), I may put some of my ideas I have here although I really should just sit down and build the project. It solves a __huge__ problem of mine.
 
-Feel free to _steal_ and make any of them yourself. 
+Feel free to _steal_ and make any of them yourself. 🌻
 
 ## Workflows
 - parse all [awesome lists](https://github.com/sindresorhus/awesome) and read from Alfred
