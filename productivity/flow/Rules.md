@@ -19,6 +19,9 @@ Some simple rules to follow for myself doing things.
 ## Alfred
 - name triggers with spaces between words (all lowercased)
 
+## MindNode
+- use lighter themes for sharing (it's nicer)
+
 ## Wiki
  - only add snippets of code that are really useful
 	- keep simple things I use for my own reference in SnippetsLab only
