@@ -74,6 +74,11 @@
 - be smart about how to present information in the mind maps
 	- it should be more of a guide and a glue between different things rather than as a way to dump everything in one single file
 
+## Productivity
+- use the right tool for the job
+	- i.e. mind maps are great for visualising things so don't use them to dump things inside to filter for things
+	- you can use simple markdown and text files for that where it is easier to maintain and extend
+
 ## Other
 - when proposing feature requests, _"for me"_ is never a good argument for a feature request
 	- if you want someone to add a feature to their software, show how it would be useful to lots of users

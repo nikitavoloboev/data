@@ -157,6 +157,7 @@
 	* [dynamoDB](databases/DynamoDB.md)
 * [art](art/Art.md)
 * [API](api/API.md)
+* [startups](startups/Startups.md)
 * [IRC](irc/IRC.md)
 * [work](work/Work.md)
 * [LaTeX](latex/LaTeX.md)
