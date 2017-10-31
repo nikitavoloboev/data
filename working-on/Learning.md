@@ -24,8 +24,11 @@
 ## Learn next
 - [haskell](../programming-languages/Haskell.md) 
 - music
+	- guitar 
+	- electronic music
+- Buddhism
+	- Taoism
 - statistics
-	- guitar
 - machine learning
 - git
 	- git tagging

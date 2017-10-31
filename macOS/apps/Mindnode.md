@@ -11,9 +11,11 @@ In short, MindNode for me is the ultimate playground where ideas get born and pl
 
 ![](https://i.imgur.com/WarjaVq.png)
 
-# Links
+## Links
 - [Mind map everything](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739)
 	- how I use mind maps to effectively transcribe knowledge digitally and visualise thoughts and knowledge I have for both myself and for other people interested
 
-# Notes
+## Notes
 - ⌥ + delete will delete currently selected node only unlike delete which will delete the entire branch
+- I can label connection arrows
+- I can embed links in notes

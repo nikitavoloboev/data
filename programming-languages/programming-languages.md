@@ -6,4 +6,4 @@ It is quite interesting really how languages like Python allow us to play with _
 As for me, I don't really know any programming language like I know English and I don't think you can really compare the two. Programming is the language of logic. And I just don't have such vast range of experience to call myself a programmer yet.
 
 ## Links
-- [near future of programming languages](http://dev.stephendiehl.com/nearfuture.pdf) 
+- [17: near future of programming languages](http://dev.stephendiehl.com/nearfuture.pdf) 

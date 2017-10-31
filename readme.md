@@ -23,5 +23,5 @@ You can view other similar to this, continuously updated wikis, [here](https://g
 
 Don't be afraid to create one of your own and share what you know with the world. 
 
-## Thanks
+## Thanks 🍀
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look [into other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. Thank you. 💚
