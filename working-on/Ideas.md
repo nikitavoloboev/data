@@ -23,6 +23,11 @@ Feel free to _steal_ and make any of them yourself. 🌻
 	- in similar vein to [Alfred time](https://github.com/nikitavoloboev/alfred-time) but visualise time passed and time passing
 	- although it would be cool to extend this idea further and make these little blocks of time actionable in some way
 		- or even make boxes represent something else and not time (like habits done)
+- [website to create custom learning paths for anything](https://github.com/learn-anything/path-picker)
+	- a simple website with a search bar and a todo like list where the search bar searches over all the different topics you can learn about and users can create _recipes_ for learning anything they wish to learn about
+		- i.e. one can make a _recipe_ to learn React.js that includes Javascript, then HTML or one can make a recipe to learn machine learning that includes linear algebra and then statistics where both of those topics can be split into more topics
+		- and then you can share these _recipes_ with other people where the goal is to show what you think is the _most efficient_ path to learning some topic is 
+		- and others users can then go through that path and learn each of the topics in [Learn Anything](https://learn-anything.xyz/) 
 
 ## React components
 - [markdown -\> CV](https://github.com/nikitavoloboev/react-md-to-cv)

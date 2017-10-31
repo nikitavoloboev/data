@@ -152,6 +152,7 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - The hardest thing to do is start.
 - Focus on selling your product, not selling your company.
 - Focus on the long term, and always do what’s right to grow the company and not make short-term decisions. And outlast everyone
+- The best startup book is one you never open because you're too busy marketing and building your product.
 
 ## Psychedelics
 - [Some people say that we’ve been here before.That we don’t live just once, but hundreds of times.](http://www.jamesreads.com/about/) 

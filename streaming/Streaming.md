@@ -8,3 +8,6 @@ In any way, here are things I am using for streaming :
 There are some annoying things that I do wish I could fix though. Since I am using just one laptop screen, I can't really see any new Twitch comments without constantly switching to my Dashboard which if you are programming is certainly the last thing you want to be doing. And another is more due to the way I do things and how the main driver for what I do is my 2Do task manager which sometimes happens to contain some _personal_ stuff. And finally I often like to ask questions and get help from various chats like IRC or Slack groups and asking help there whilst streaming does not seem to be a good thing to do. 
 
 If I fix those three things though, I do think streaming is a really fun little hobby and a thing I might be doing more in the future.
+
+## Links
+- [Being a development streamer on Twitch](https://bot.land/blog/2016/10/being-a-development-streamer-on-twitch/) 
