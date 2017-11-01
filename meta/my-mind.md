@@ -19,7 +19,7 @@ That you can see live [here](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLp
 
 I also use mind maps to keep my life in order with my own personal _projects_ mind map that looks like this : 
 
-![](https://i.imgur.com/8ZXgvMS.png)
+![](https://i.imgur.com/iXO6gxS.png)
 
 Essentially mind maps act as a digital augmentation of my mind in many ways. I want to visualise knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](https://medium.com/@NikitaVoloboev), the [YouTube videos I make](https://github.com/nikitavoloboev/my-youtube)  and of course finally through the code I write to make useful tools, apps and interactive visualisations that all can use and enjoy.
 
