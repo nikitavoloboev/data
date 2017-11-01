@@ -1,2 +1,2 @@
 # SQL
-Still learning
+Still learning.
