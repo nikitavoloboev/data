@@ -11,11 +11,6 @@
 - [vim](../text-editors/Vim.md) 
 - [operating systems](../operating-systems/operating-systems.md) -\> [three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - Memcached
-- macOS automation 
-	- [JXA](../macOS/jxa.md)
-	- [Alfred](../macOS/apps/alfred/Alfred.md) 
-		- [awgo](https://github.com/deanishe/awgo)
-	- [Keyboard Maestro](../macOS/apps/km/km.md) 
 - [math](../math/Math.md) 
 	- lambda calculus
 	- type theory 
@@ -23,7 +18,7 @@
 
 ## Learn next
 - [haskell](../programming-languages/Haskell.md) 
-- music
+- music -\> [get started making music](https://learningmusic.ableton.com/)
 	- guitar 
 	- electronic music
 - Buddhism
