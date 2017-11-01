@@ -7,5 +7,5 @@ I use [neovim](https://github.com/neovim/neovim) instead of vim and my vimrc for
 
 I also document my learnings in vim as a mind map [here](https://my.mindnode.com/24sx5yV3S7FLayi5Msvhysx5HZ8aAPzUqJ6rStKi). And I document my own vimrc and my modifications [here](https://my.mindnode.com/EPJxCtfjuZJGz5TTHiwTyshmUUBfwRpVyH4BvQj2).
 
-# Neovim
+## Neovim
 - I can run `:CheckHealth` to see if there is anything wrong with my installation

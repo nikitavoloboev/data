@@ -28,6 +28,7 @@ Some simple rules to follow for myself doing things.
 
 ## Alfred
 - name triggers with spaces between words (all lowercased)
+- name all modifier connections
 
 ## MindNode
 - use lighter themes for sharing (it's nicer)
@@ -58,6 +59,10 @@ Some simple rules to follow for myself doing things.
 - live by my calendar 
 	- assign tasks and blocks of time in advance and work through each of the blocks
 	- adjust when necessary
+
+## SnippetsLab
+- include all useful snippets in this wiki and add `wiki` tag
+	- if I delete a snippet with `wiki` tag, delete it from wiki too
 
 ## Planning
 - plan the next day in advance in the calendar

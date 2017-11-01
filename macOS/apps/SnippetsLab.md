@@ -10,4 +10,4 @@ I tag snippets that I have shared in this wiki with `wiki` tag like so :
 ![](https://i.imgur.com/gBkuR1H.png)
 This makes me quickly see what I have shared already and what I have not.
 
-And since I share all my snippets in this wiki as Gists, I have [this macro](https://cdn.rawgit.com/nikitavoloboev/km-macros/master/macros/apps/snippetslab/update%20github%20gist%20-%20%5Bhover%20over%20snippet%5D.kmmacros) to quickly make a macro of a snippet.
+And since I share all my snippets in this wiki as Gists, I have [this macro](https://cdn.rawgit.com/nikitavoloboev/km-macros/master/macros/apps/snippetslab/update%20github%20gist%20-%20[hover%20over%20snippet].kmmacros) to quickly make a macro of a snippet.

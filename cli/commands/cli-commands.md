@@ -1,4 +1,3 @@
 # CLI commands
-- alias
-	- can create a symlink (pointers to paths, not actual file system objects)
-	- or a hardlink (additional name for an existing file) (changes happening one, appear in the other)
+- [list all processes running](https://gist.github.com/3fa57243dbfbdfb422555b28c89ab650)
+- create symbolic link
