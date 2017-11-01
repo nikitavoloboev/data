@@ -140,7 +140,6 @@
 * [productivity](productivity/Productivity.md)
 	* [focusing](productivity/Focusing.md)
 	* [flow](productivity/flow/Flow.md)
-		* [flow processes](productivity/flow/flow-processes.md)
 		* [rules](productivity/flow/Rules.md)
 		* [no list](productivity/flow/no-list.md)
 	* [sleep](productivity/Sleep.md)
