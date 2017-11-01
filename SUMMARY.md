@@ -77,6 +77,7 @@
 	* [semantic versioning](programming/semantic-versioning.md)
 * [programming languages](programming-languages/programming-languages.md)
 	* [go](programming-languages/go/Go.md)
+		* [go libs](programming-languages/go/go-libs.md)
 	* [python](programming-languages/Python.md)
 	* [bash](programming-languages/Bash.md)
 	* [haskell](programming-languages/Haskell.md)
