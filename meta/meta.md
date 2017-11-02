@@ -33,7 +33,7 @@ The structure of each of the posts will often look roughly like this :
 	- my own personal notes on the matter as well as things I found interesting on the internet regarding the topic
 		- I often give a link of where I got things from
 
-In links I very often link to a  [Learn Anything](https://learn-anything.xyz/) map as that in my opinion is the perfect place to start learning any topic as it should ideally show you the most efficient path for learning anything. Aside from the link to LA, I may also include some of my own things I wrote or really liked as well as my comments on these links.
+In links I very often link to  [Learn Anything](https://learn-anything.xyz/) as that in my opinion is the perfect place to start learning any topic as it should ideally show you the most efficient path for learning anything. Aside from the link to LA, I may also include some of my own things I wrote or really liked as well as my comments on these links.
 
 Aside from this wiki, I also share various mind maps I have made for myself and you can read more about it [here](./my-mind.md).
 
