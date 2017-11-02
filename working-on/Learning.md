@@ -18,12 +18,12 @@
 
 ## Learn next
 - [haskell](../programming-languages/Haskell.md) 
+- statistics
 - music -\> [get started making music](https://learningmusic.ableton.com/)
 	- guitar 
 	- electronic music
 - Buddhism
 	- Taoism
-- statistics
 - machine learning
 - git
 	- git tagging

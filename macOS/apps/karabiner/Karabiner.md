@@ -17,11 +17,5 @@ Mind Maps are pretty awesome because I can literally map my modifier mappings an
 ![](https://i.imgur.com/4yk23Be.png)
 I hope you get the idea for how powerful both Karabiner and this way of visualising bindings is. And you will make and share your own private.xml config file or .json file if you are using [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements).
 
-Below is the _key_ for how to read that map. 
-
-![](https://i.imgur.com/u12aP4C.png)
-
-![](https://i.imgur.com/FWI0VK4.png)
-
-# Notes
+## Notes
 - [interesting setup](https://github.com/dunkarooftop/thought/blob/master/keymaps.org)

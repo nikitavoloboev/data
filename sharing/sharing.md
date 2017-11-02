@@ -13,7 +13,7 @@ Contains longer articles I write. I map all the articles I wrote in form of a ma
 I share most of the things I am up to right now on my Twitter page.
 
 ## [Videos on Youtube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
-I mostly focus on making videos about macOS automation as that is what interests me. I list videos I have made as a repository [here](https://github.com/nikitavoloboev/my-youtube).
+I mostly focus on making videos about macOS automation as that is what interests me. I map all the videos I have made as a map [here](https://my.mindnode.com/1TFgMjvqLR63KyTzBNL7o9oQbNVEuPvLJg6f7XxM#219.0,80.7,2).
 
 ## [Streaming on Twitch](https://www.twitch.tv/nikiivi)
 I sometimes stream some of the things I am working on for fun on [Twitch](https://www.twitch.tv/nikiivi). I try to explain things as I do them. 

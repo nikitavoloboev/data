@@ -31,7 +31,8 @@ Some simple rules to follow for myself doing things.
 - name all modifier connections
 
 ## MindNode
-- use lighter themes for sharing (it's nicer)
+- use lighter themes for sharing (it's nicer) (and using in general)
+- use one tree structure for organisation especially when sharing maps (makes the map much easier to follow)
 
 ## Writing
 - capitalise things properly and use punctuation
