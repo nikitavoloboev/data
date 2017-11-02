@@ -33,7 +33,7 @@ The structure of each of the posts will often look roughly like this :
 	- my own personal notes on the matter as well as things I found interesting on the internet regarding the topic
 		- I often give a link of where I got things from
 
-Aside from this wiki, I also share various mind maps I have made for myself and you can read more about it [here](./my-mind.md).
+Aside from this wiki, I also share various mind maps I have made and you can read more about it [here](./my-mind.md).
 
 If you are interested in how I maintain and write this wiki, I wrote about it in detail [here](../other/wiki-workflow.md).
 
