@@ -196,5 +196,6 @@
 	* [surely you are joking Mr Feynman](books/surely-you-are-joking-mr-feynman.md)
 	* [university physics with modern physics](books/university-physics-with-modern-physics.md)
 * [other](other/other-things.md)
+	* [wiki workflow](other/wiki-workflow.md)
 	* [advice](other/Advice.md)
 	* [interesting things](other/interesting-things.md)

@@ -1,11 +1,11 @@
-# My Knowledge Index 💡
+# [My Knowledge Index 💡](https://nikitavoloboev.gitbooks.io/knowledge/content/)
 ## Description 📕
-Inspired by [this](https://yoshuawuyts.gitbooks.io/knowledge/content/). I want to keep [my own version of a knowledge index](https://nikitavoloboev.gitbooks.io/knowledge/content/) that both I and other people can search over and use.
+This is my personal wiki where I share everything I know about this world. 
+
+If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals in a lot of detail.
 
 ## Using the Wiki Well 🔍
 In the left corner you can make searches for what content I have already indexed or you can simply explore the tree view to the left.
-
-If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals in a lot of detail.
 
 Aside from this, you can of course also explore [Learn Anything](https://learn-anything.xyz) for things that you can learn about and I will often reference it from these notes.
 
