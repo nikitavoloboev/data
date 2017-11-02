@@ -37,3 +37,5 @@ In links I very often link to a  [Learn Anything](https://learn-anything.xyz/) m
 
 Aside from this wiki, I also share various mind maps I have made for myself and you can read more about it [here](./my-mind.md).
 
+If you are interested in how I maintain and write this wiki, I wrote about it in detail [here](../other/wiki-workflow.md).
+
