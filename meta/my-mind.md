@@ -1,7 +1,9 @@
 # My mind
+![](https://i.imgur.com/iYLwzFl.png)
+
 Aside from this wiki. I also heavily use and update my mind maps. There are many mind maps I have made and they are all connected in a way that makes sense to me. 
 
-You can see all these mind maps I have made [here](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#463.5,-49.4,-1).
+You can see all these mind maps I have made [here](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3).
 
 ## Why I made them
 
