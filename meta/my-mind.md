@@ -1,4 +1,4 @@
-# My mind
+# [My mind](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3 "My Mind")
 ![](https://i.imgur.com/iYLwzFl.png)
 
 Aside from this wiki. I also heavily use and update my interactive mind maps. which are all connected in a way that makes sense to me. 
@@ -25,7 +25,7 @@ I also use mind maps to keep my life in order with my own personal _projects_ mi
 Essentially mind maps act as a digital augmentation of my mind in many ways. I want to visualise knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](https://medium.com/@NikitaVoloboev), the [YouTube videos I make](https://github.com/nikitavoloboev/my-youtube)  and of course finally through the [code I write](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) to make useful tools, apps and interactive visualisations that all can use and enjoy.
 
 ## How to use these mind maps
-Every mind map I made and shared is linked to some other mind map in some way. You can view all of these mind maps I made [here](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3 "My Mind").
+Every mind map I made and shared is linked to some other mind map in some way and [this map](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3 "My Mind") is the starting point.
 
 Some nodes contain a description which is indicated by this little symbol here that you can click : 
 ![](https://i.imgur.com/RJQVHmk.png)
@@ -41,8 +41,7 @@ There are many, many things I am yet to add to this little system I am planning 
 
 1. fast access to all this knowledge base
 	- achieved through 
-		- alfred my mind 
-			- which will soon be rewritten in Go and be a lot more powerful
+		- [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) 
 		- this knowledge wiki itself and the search it has
 2. transcribing knowledge in terms that make sense to me and other people
 	- I wish to make my knowledge and expertise as _reusable_ by as many other interested people as possible
