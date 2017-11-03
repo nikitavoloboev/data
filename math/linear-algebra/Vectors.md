@@ -1,6 +1,4 @@
 # Vectors
-### Vector scalar multiplication
-![]()
 
 ## Links
 - [vector field explorer](https://anvaka.github.io/fieldplay/)
