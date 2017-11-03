@@ -64,6 +64,7 @@ Some simple rules to follow for myself doing things.
 ## SnippetsLab
 - include all useful snippets in this wiki and add `wiki` tag
 	- if I delete a snippet with `wiki` tag, delete it from wiki too
+- create smart group for each new prefix I add
 
 ## Planning
 - plan the next day in advance in the calendar
