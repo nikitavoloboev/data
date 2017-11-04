@@ -62,6 +62,7 @@ Some simple rules to follow for myself doing things.
 	- adjust when necessary
 
 ## SnippetsLab
+- upload all non sensitive snippets as Gists
 - include all useful snippets in this wiki and add `wiki` tag
 	- if I delete a snippet with `wiki` tag, delete it from wiki too
 - create smart group for each new prefix I add
@@ -70,3 +71,6 @@ Some simple rules to follow for myself doing things.
 - plan the next day in advance in the calendar
 	- plan deadlines one week in advance
 	- follow through with the plan but adapt where necessary
+
+## My Mind
+- uppercase entries in the main map + articles / GitHub

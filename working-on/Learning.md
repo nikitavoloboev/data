@@ -4,6 +4,7 @@
 ## Learning now
 - [Go](../programming-languages/go/Go.md)
 	- testing code
+- tmux
 - [web development](../web/Web.md) 
 - [javascript](../programming-languages/Javascript.md)
 	- [react](../web/react/React.md)
@@ -18,10 +19,12 @@
 
 ## Learn next
 - [haskell](../programming-languages/Haskell.md) 
+- GraphQL, Serverless & The Graphcool Framework
 - statistics
 - music -\> [get started making music](https://learningmusic.ableton.com/)
 	- guitar 
 	- electronic music
+- Kubernetes
 - Buddhism
 	- Taoism
 - machine learning
@@ -70,7 +73,6 @@
 - periodic table
 - brain computer interfaces
 - arduino
-- kuberenetes
 - nutrition
 - webassembly
 - visualisation 
