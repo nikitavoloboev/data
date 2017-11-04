@@ -3,9 +3,9 @@
 
 Here is how my sidebar looks :
 
-![](https://i.imgur.com/MVgIeOW.png)
+![](https://i.imgur.com/fDdLMpM.png)
 
-# Notes
+## Notes
 - go to 2Do list from URL scheme
 	- `twodo://x-callback-url/showList?name=bugs` would go to to `bugs` list.
 	- more [here](https://www.2doapp.com/kb/article/url-schemes.html)

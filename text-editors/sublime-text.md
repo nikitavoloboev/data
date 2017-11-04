@@ -15,4 +15,3 @@ I also use it to quickly edit certain config files like [adding more web searche
 	- `sublime.log_input(True)`
 		- allows you to then see what commands you type as well as actions you make map to as sublime bindings
 	- you can then turn all logging by running commands above with `False` or restart Sublime
-- 

@@ -69,6 +69,7 @@ Some simple rules to follow for myself doing things.
 - include all useful snippets in this wiki and add `wiki` tag
 	- if I delete a snippet with `wiki` tag, delete it from wiki too
 - create smart group for each new prefix I add
+- add correct language syntax to every snippet
 
 ## Planning
 - plan the next day in advance in the calendar
@@ -78,5 +79,3 @@ Some simple rules to follow for myself doing things.
 ## My Mind
 - uppercase entries in the main map + articles / GitHub
 
-## Go
-- all comments should be capitalised
