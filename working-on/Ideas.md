@@ -6,6 +6,8 @@ Feel free to _steal_ and make any of them yourself. 🌻
 ## Workflows
 - [parse all awesome lists and read from Alfred](https://github.com/nikitavoloboev/alfred-awesome-lists) 
 - parse all books from [free programming books](https://github.com/EbookFoundation/free-programming-books) to Alfred
+- index starred Gists and store in sqlite to read from Alfred 
+- index people I follow on GitHub for fast search
 - index twitter following similar to [GitHub jump](https://github.com/lox/alfred-github-jump)
 	- see if there is API for that
 - alfred travis interface
@@ -13,9 +15,8 @@ Feel free to _steal_ and make any of them yourself. 🌻
 - parse arbitrary CSV files
 	- similar to my [alfred edit files](https://github.com/nikitavoloboev/alfred-edit-files) but instead of it reading one file, you pass in some CSV file instead and it will parse it to show in Alfred
 		- can use that for many things
-- index starred Gists and store in sqlite to read from Alfred 
-- make workflows to quickly search through my entire Pixave library
-- make workflow like [Safari Assistant](https://git.deanishe.net/deanishe/alfred-safari-assistant) but for Chrome
+- quickly search through my entire Pixave library
+-  workflow like [Safari Assistant](https://git.deanishe.net/deanishe/alfred-safari-assistant) but for Chrome
 
 ## Web
 - [Your life as little boxes](https://github.com/nikitavoloboev/boxes)

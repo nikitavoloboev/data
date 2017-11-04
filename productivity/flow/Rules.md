@@ -14,6 +14,9 @@ Some simple rules to follow for myself doing things.
 ## Git
 - do atomic commits and write proper appropriate commit messages
 
+## Karabiner
+- document any changes I make in Karabiner map
+
 ## Markdown
 - don't leave whitespace between headings and text
 - headings should start with capital letter
@@ -74,3 +77,6 @@ Some simple rules to follow for myself doing things.
 
 ## My Mind
 - uppercase entries in the main map + articles / GitHub
+
+## Go
+- all comments should be capitalised
