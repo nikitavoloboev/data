@@ -1,5 +1,8 @@
 # Lessons learned
 ## Life
+- prioritise 
+	- do the important things first
+		- define these _important_ things for myself and be clear with what I want to achieve
 - automate backups
 	- make sure the backups you’ve made are actually successful
 - study smart

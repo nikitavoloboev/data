@@ -79,3 +79,5 @@ Some simple rules to follow for myself doing things.
 ## My Mind
 - uppercase entries in the main map + articles / GitHub
 
+## 2Do
+- only contain things I really need to get done in `Today`
