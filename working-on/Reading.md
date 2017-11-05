@@ -100,6 +100,7 @@ I make notes on all the books I have read. Below are the books I have covered th
 - David Sedaris
 
 ## Recommendations
+- [17: HN recommends](https://news.ycombinator.com/item?id=15629762)
 - [check these books - master switch is interesting](https://news.ycombinator.com/item?id=14477851)
 - [most meaningful books I read in 2016](http://blog.ncase.me/the-most-meaningful-books-i-read-in-2016/)
 - [most mentioned programming books on reddit](http://booksreddit.com/product-category/best-programming-books/)
