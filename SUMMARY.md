@@ -127,7 +127,7 @@
 * [social networks](social-networks/social-networks.md)
 * [linux](linux/Linux.md)
 * [networking](networking/networking.md)
-	* [http](networking/http.md)
+	* [http](networking/HTTP.md)
 * [health](health/Health.md)
 	* [nutrition](health/nutrition/Nutrition.md)
 	* [skin care](health/skin-care.md)

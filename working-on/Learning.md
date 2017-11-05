@@ -19,6 +19,7 @@
 
 ## Learn next
 - [haskell](../programming-languages/Haskell.md) 
+- [telnet](http://www.wikiwand.com/en/Telnet)
 - GraphQL, Serverless & The Graphcool Framework
 - statistics
 - music -\> [get started making music](https://learningmusic.ableton.com/)

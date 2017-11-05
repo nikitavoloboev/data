@@ -7,5 +7,5 @@ Here is how my sidebar looks :
 
 ## Notes
 - go to 2Do list from URL scheme
-	- `twodo://x-callback-url/showList?name=bugs` would go to to `bugs` list.
+	- `twodo://x-callback-url/showList?name=next` would go to to `next` list.
 	- more [here](https://www.2doapp.com/kb/article/url-schemes.html)
