@@ -8,7 +8,7 @@ I open any of my most used websites using [this macro](https://cdn.rawgit.com/ni
 
 Aside from it, I use [many Safari extensions](https://github.com/learn-anything/safari-extensions) for it. Most notably I really love and recommend using [sVim](https://github.com/flipxfx/sVim). My configuration for it can be found [here](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c) : 
 
-I also use [this amazing workflow](https://git.deanishe.net/deanishe/alfred-safari-assistant) by Deanishe to quickly jump between my currently active Safari tabs as well as search through my history and my bookmarks.
+I also use [this amazing workflow](https://github.com/deanishe/alfred-safari-assistant) by Deanishe to quickly jump between my currently active Safari tabs as well as search through my history and my bookmarks.
 
 If I get too many tabs open filled with things to read and do, I sometimes save a session of all these tabs in [Sessions safari extension](https://sessions-extension.github.io/Sessions/) and then have a clean Safari window to focus on.
 

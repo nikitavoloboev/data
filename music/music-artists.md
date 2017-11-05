@@ -8,5 +8,5 @@ I have many favourite artists I like. Lately I have been really liking listening
 But there is many more. [Here](https://my.mindnode.com/t9622zX2emWC3HxLNkFebMzuxWoF8PGH2MLjREpy) is a map of all the artists I love.
 
 ## Favourite artists
-- 
+- Crooked Colours
 

@@ -81,3 +81,10 @@ Some simple rules to follow for myself doing things.
 
 ## 2Do
 - only contain things I really need to get done in `Today`
+
+## GitHub
+- capitalise all GitHub issues and PRs
+
+## Fantastical
+- always show the `week view`, not `today` because I need perspective on events
+	- be aware of the deadlines 

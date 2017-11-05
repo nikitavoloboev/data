@@ -3,7 +3,7 @@
 
 Here is how my sidebar looks :
 
-![](https://i.imgur.com/fDdLMpM.png)
+![](https://i.imgur.com/notPjjl.png)
 
 ## Notes
 - go to 2Do list from URL scheme
