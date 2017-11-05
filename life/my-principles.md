@@ -11,5 +11,6 @@ Here are my mine :
 6. I should always challenge myself to do new things I have never tried before no matter how hard they seem
 7. I want to make the world a fair place where all have a chance to create something creative and new
 8. I want to visualise my ideas and knowledge and share these ideas with the world
-9. I should learn from my mistakes
-10. I should behave in accordance to my principles
+9. I should embrace change 
+10. I should learn from my mistakes
+11. I should behave in accordance to my principles

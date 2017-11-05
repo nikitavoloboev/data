@@ -25,6 +25,7 @@ Some simple rules to follow for myself doing things.
 ## GitHub
 - GitHub descriptions should be capitalised 
 - add appropriate topics to each repo
+- add appropriate _quote_ to briefly describe the repo (often is the same as description but with links)
 - if the readme is long enough, add a table of contents
 - don't add anything that is not needed and focus on the content
 - add image or logo if possible to visually show the workfow/library in action
