@@ -53,6 +53,7 @@
 		* [Pixave](macOS/apps/Pixave.md)
 		* [SnippetsLab](macOS/apps/SnippetsLab.md)
 		* [Tweetbot](macOS/apps/Tweetbot.md)
+		* [Textual](macOS/apps/Textual.md)
 		* [Fantastical](macOS/apps/Fantastical.md)
 		* [BetterTouchTool](macOS/apps/BetterTouchTool.md)
 		* [Reeder](macOS/apps/Reeder.md)

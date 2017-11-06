@@ -8,7 +8,7 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - `/list` - will open channel list
 
 ## ZNC commands
-- `/znc detach ..` - will detach a channel from znc
-	- i.e. `/znc detach ##graphics`
+- `/quote detach ..` - will detach a channel from znc
+	- i.e. `/quote detach ##graphics`
 	- pay attention to the slashes as they matter
 	- connecting back is then simply `/join ..` (or connecting through Textual GUI click)
