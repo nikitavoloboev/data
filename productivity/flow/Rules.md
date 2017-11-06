@@ -2,45 +2,49 @@
 Some simple rules to follow for myself doing things.
 
 ## Wiki
- - only add snippets of code that are really useful
+ - Only add snippets of code that are really useful
 	- keep simple things I use for my own reference in SnippetsLab only
 - Heading should always be on one level heading
 	- and Snippets / Notes / Links / on two level heading
 	- everything else on three levels where appropriate
-- no TODOs in normal wiki entries
+- No TODOs in normal wiki entries
 	- the wiki is for notes and references and some actionable dedicated lists like [reading](../working-on/Reading.md) or [learning](../working-on/Learning.md).
-- describe links on the same line with `:` separator (if needs more description, then sub dash)
+- Describe links on the same line with `:` separator (if needs more description, then sub dash)
+
+## Capitalising things
+- Main dashed points
+	- sub dash points (like this one) don't have to be capitalised
+- Headings
+- GitHub descriptions
+- All GitHub issues and PRs
+- Nodes in my wiki
 
 ## Git
-- do atomic commits and write proper appropriate commit messages
+- Do atomic commits and write proper appropriate commit messages
 
 ## Karabiner
-- document any changes I make in Karabiner map
+- Document any changes I make in Karabiner map
 
 ## Markdown
-- don't leave whitespace between headings and text
-- headings should start with capital letter
-	- code snippets headings don't have to
+- Don't leave whitespace between headings and text
 
 ## GitHub
-- GitHub descriptions should be capitalised 
-- add appropriate topics to each repo
-- add appropriate _quote_ to briefly describe the repo (often is the same as description but with links)
-- if the readme is long enough, add a table of contents
-- don't add anything that is not needed and focus on the content
-- add image or logo if possible to visually show the workfow/library in action
+- Add appropriate topics to each repo
+- Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links)
+- If the readme is long enough, add a table of contents
+- Don't add anything that is not needed and focus on the content
+- Add image or logo if possible to visually show the workfow/library in action
 
 ## Alfred
-- name triggers with spaces between words (all lowercased)
-- name all modifier connections
+- Name triggers with spaces between words (all lowercased)
+- Name all modifier connections
 
 ## MindNode
-- use lighter themes for sharing (it's nicer) (and using in general)
-- use one tree structure for organisation especially when sharing maps (makes the map much easier to follow)
+- Use lighter themes for sharing (it's nicer) (and using in general)
+- Use one tree structure for organisation especially when sharing maps (makes the map much easier to follow)
 
 ## Writing
-- Capitalise things properly and use punctuation
-	- in bullet points too (a sentence is a sentence) (two level dashes don't require uppercase)
+- Use proper punctuation and capitalise things appropriately
 
 ## Social Networks
 - Only add people I really know on Facebook
@@ -84,8 +88,5 @@ Some simple rules to follow for myself doing things.
 
 ## 2Do
 - only contain things I really need to get done in `Today`
-
-## GitHub
-- capitalise all GitHub issues and PRs
 
 
