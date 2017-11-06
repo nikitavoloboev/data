@@ -39,10 +39,11 @@ Some simple rules to follow for myself doing things.
 - use one tree structure for organisation especially when sharing maps (makes the map much easier to follow)
 
 ## Writing
-- capitalise things properly and use punctuation
+- Capitalise things properly and use punctuation
+	- in bullet points too (a sentence is a sentence) (two level dashes don't require uppercase)
 
 ## Social Networks
-- only add people I really know on Facebook
+- Only add people I really know on Facebook
 
 ## Sharing files
 - more permanent shares are shared with Dropbox
