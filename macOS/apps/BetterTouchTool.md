@@ -17,21 +17,20 @@ You can view a printed version of all the bindings I have made [here](https://ww
 
 Here are some images of the gestures I use. 
 
+
+### Global Gestures
+
 ![](https://i.imgur.com/yrMgdTi.png)
-> Global Gestures
 
-<img src="https://i.imgur.com/yrMgdTi.png" width="500" alt="img">
+### Safari
 
-## Safari
-
-<img src="https://i.imgur.com/npL5GBk.png" width="500" alt="img">
+![](https://i.imgur.com/npL5GBk.png)
 
 ## VS Code
 
-<img src="https://i.imgur.com/Y5sob7q.png" width="500" alt="img">
+![](https://i.imgur.com/Y5sob7q.png)
 
 ## Fantastical
 
-<img src="https://i.imgur.com/03pExh8.png" width="500" alt="img">
-
+![](https://i.imgur.com/03pExh8.png)
 
