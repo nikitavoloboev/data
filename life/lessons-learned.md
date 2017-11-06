@@ -1,25 +1,25 @@
 # Lessons learned
 ## Life
-- prioritise 
+- Prioritise 
 	- do the important things first
 		- define these _important_ things for myself and be clear with what I want to achieve
-- automate backups
+- Automate backups
 	- make sure the backups you’ve made are actually successful
-- study smart
+- Study smart
 	- ask yourself the question of what it is I am trying to solve or understand
 	- start working to solve the problems before the deadline
 		- and __prioritise__
-- move fast
+- Move fast
 	- ask questions whenever you don’t understand
 	- don’t sit idly
-- focus
+- Focus
 	- focus is the ability to say __no__ to things
-- write more
+- Write more
 	- document my thoughts and findings and share it
 	- research really well the topic you are trying to share
 	- make sure I don’t repeat what has been said before and if it was 
 		- link to it and make my own observations and conclusions
-- track my expenses
+- Track my expenses
 - get into the flow state as early as possible during the day
 - just being exposed to concepts through videos or tutorials is not going to help me pass interviews
 	- actually code everything up and implement it

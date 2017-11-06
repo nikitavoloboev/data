@@ -88,7 +88,4 @@ Some simple rules to follow for myself doing things.
 ## GitHub
 - capitalise all GitHub issues and PRs
 
-## Fantastical
-- always show the `week view`, not `today` because I need perspective on events
-	- be aware of the deadlines 
 
