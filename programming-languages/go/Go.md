@@ -20,3 +20,4 @@ Go promotes composition over inheritance.
 - I can call functions from anywhere if they are in the same package
 - The package “main” tells the Go compiler that the package should compile as an executable program instead of a shared library
 - Note that any type implements the empty interface interface{} because it doesn't have any methods and all types have zero methods by default
+- Simply pushing my source code to GitHub, makes it `go get`table.

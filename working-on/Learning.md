@@ -44,6 +44,7 @@
 
 ## Interesting
 - kingpin go lib
+- C++ -\> [C++ resources](https://github.com/MattPD/cpplinks)
 - RxJS
 - hammerspoon
 	- [spoons](https://github.com/Hammerspoon/hammerspoon/blob/master/SPOONS.md#what-is-a-spoon)
