@@ -6,9 +6,3 @@ I use [Textual](https://www.codeux.com/textual/ "Textual") IRC client and I use 
 ## IRC commands  
 Textual keeps a command reference [here](https://help.codeux.com/textual/Command-Reference.kb).
 - `/list` - will open channel list
-
-## ZNC commands
-- `/quote detach ..` - will detach a channel from znc
-	- i.e. `/quote detach ##graphics`
-	- pay attention to the slashes as they matter
-	- connecting back is then simply `/join ..` (or connecting through Textual GUI click)

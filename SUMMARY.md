@@ -173,6 +173,7 @@
 * [Node.js](nodejs/nodejs.md)
 * [Startups](startups/Startups.md)
 * [IRC](irc/IRC.md)
+	* [ZNC](irc/ZNC.md)
 * [Work](work/Work.md)
 * [LaTeX](latex/LaTeX.md)
 * [CLI](cli/cli.md)
