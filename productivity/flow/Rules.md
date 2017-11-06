@@ -17,7 +17,8 @@ Some simple rules to follow for myself doing things.
 - Headings
 - GitHub descriptions
 - All GitHub issues and PRs
-- Nodes in my wiki
+- Nodes in my mind
+- Alfred workflows 
 
 ## Git
 - Do atomic commits and write proper appropriate commit messages

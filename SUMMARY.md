@@ -86,6 +86,7 @@
 	* [Javascript](programming-languages/Javascript.md)
 	* [Clojure](programming-languages/Clojure.md)
 	* [Lisp](programming-languages/Lisp.md)
+	* [C](programming-languages/C.md)
 * [Open Source](open-source/open-source.md)
 	* [GitHub](open-source/GitHub.md)
 * [Languages](languages/Languages.md)
