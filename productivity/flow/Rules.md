@@ -46,6 +46,7 @@ Some simple rules to follow for myself doing things.
 
 ## Sharing files
 - more permanent shares are shared with Dropbox
+	-  don't delete items from `shares` folder unless I delete the file somewhere myself
 - temporary shares with [Transfer](https://transfer.sh)
  - if the files are stored on GitHub somewhere, I can use [this](http://rawgit.com/) to get a downloadable link of the raw file
 
@@ -89,3 +90,4 @@ Some simple rules to follow for myself doing things.
 ## Fantastical
 - always show the `week view`, not `today` because I need perspective on events
 	- be aware of the deadlines 
+
