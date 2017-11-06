@@ -5,6 +5,7 @@ I like to collect various beautiful art pieces as an imgur album you can view [h
 
 ## Favourite artists
 - [Leland K Foster](http://www.lelandkfoster.com/)
+- [Ilya Kuvshinov](https://www.artstation.com/kuvshinov_ilya) 
 
 ## Interesting artists
 - [Anderson Debernardi](https://imgur.com/gallery/dKx5S)

@@ -31,7 +31,7 @@ Feel free to _steal_ and make any of them yourself. 🌻
 		- and others users can then go through that path and learn each of the topics in [Learn Anything](https://learn-anything.xyz/) 
 
 ## React components
-- [markdown -\> CV](https://github.com/nikitavoloboev/react-md-to-cv)
+- markdown -\> CV
 	- render markdown of information to a full fledged CV as a react component
 
 ## Fun
