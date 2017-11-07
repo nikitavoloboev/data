@@ -7,3 +7,4 @@ I am focusing on these things currently.
 - [learning new things](./Learning.md) and [reading books](./Reading.md)
 - writing [Alfred Workflow](https://github.com/learn-anything/alfred-workflows) and Go libraries
 - implementing [ideas I have](./Ideas.md)
+

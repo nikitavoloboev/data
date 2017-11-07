@@ -24,7 +24,7 @@ Some simple rules to follow for myself doing things.
 - Do atomic commits and write proper appropriate commit messages
 
 ## Karabiner
-- Document any changes I make in Karabiner map
+- Document any changes I make in Karabiner map instantly in the map (update where necessary)
 
 ## Markdown
 - Don't leave whitespace between headings and text
