@@ -4,18 +4,20 @@
 ## Learning now
 - [Go](../programming-languages/go/Go.md)
 	- testing code
-- tmux
-- [web development](../web/Web.md) 
-- [javascript](../programming-languages/Javascript.md)
-	- [react](../web/react/React.md)
-- networking -\> [network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
-- [vim](../text-editors/Vim.md) 
-- [operating systems](../operating-systems/operating-systems.md) -\> [three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- Tmux
+- [Web development](../web/Web.md) 
+	- [Javascript](../programming-languages/Javascript.md)
+		- [React](../web/react/React.md)
+	- HTML
+	- CSS
+- Networking -\> [Network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
+- [Vim](../text-editors/Vim.md) 
+- [Operating systems](../operating-systems/operating-systems.md) -\> [three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - Memcached
-- [math](../math/Math.md) 
-	- lambda calculus
-	- type theory 
-	- category theory -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+- [Math](../math/Math.md) 
+	- Lambda calculus
+	- Type theory 
+	- Category theory -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
 ## Learn next
 - [haskell](../programming-languages/Haskell.md) 

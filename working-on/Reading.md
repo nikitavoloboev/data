@@ -1,11 +1,11 @@
 # Reading
-- [network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
-- [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+- [Network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
+- [Category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
 
 ## Read next
-- godel, escher bach
-- type theory & functional programming
+- Godel, escher bach
+- Type theory & functional programming
 - docker in practice
 - algorithm design manual
 - go in action

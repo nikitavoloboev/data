@@ -39,9 +39,9 @@ This wiki acts as a first class citizen and anything that I ultimately want to s
 ## Future
 There are many, many things I am yet to add to this little system I am planning to make. I am still trying to find the perfect balance of how my knowledge, projects, thoughts and ideas and programmes and code should be structured but my goals with both this wiki and my mind maps are : 
 
-1. fast access to all this knowledge base
+1. Fast access to all this knowledge base
 	- achieved through 
 		- [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) 
 		- this knowledge wiki itself and the search it has
-2. transcribing knowledge in terms that make sense to me and other people
+2. Transcribing knowledge in terms that make sense to me and other people
 	- I wish to make my knowledge and expertise as _reusable_ by as many other interested people as possible

@@ -23,6 +23,9 @@ Some simple rules to follow for myself doing things.
 ## Git
 - Do atomic commits and write proper appropriate commit messages
 
+## Code
+- Comment over my code (be mindful of not repeating things, sometimes code speaks for itself)
+
 ## Karabiner
 - Document any changes I make in Karabiner map instantly in the map (update where necessary)
 
