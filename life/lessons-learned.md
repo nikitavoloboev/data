@@ -58,6 +58,9 @@
 	- don't overcomplicate things for no reason
 - try to avoid confusion as much as possible
 	- don't use anything only you can understand and release it in the public
+- Ask questions
+	- asking questions is a a great thing and being stuck on the same problem or being oblivious how to do some thing is not always a great thing
+	- be wary of how to [ask questions the right way](../research/asking-questions.md) though
 
 ## Code
 - use switch cases over long ifs
