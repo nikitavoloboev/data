@@ -76,11 +76,12 @@ Some simple rules to follow for myself doing things.
 	- adjust when necessary
 
 ## SnippetsLab
-- upload all non sensitive snippets as Gists
-- include all useful snippets in this wiki and add `wiki` tag
+- Upload all non sensitive snippets as Gists
+- Include all useful snippets in this wiki and add `wiki` tag
 	- if I delete a snippet with `wiki` tag, delete it from wiki too
-- create smart group for each new prefix I add
-- add correct language syntax to every snippet
+- Create smart group for each new prefix I add
+- Add correct language syntax to every snippet
+- Don't strip prefixes in snippets
 
 ## Planning
 - Plan the next day in advance in the calendar
@@ -92,4 +93,3 @@ Some simple rules to follow for myself doing things.
 
 ## 2Do
 - Only contain things I really need to get done in `Today`
-
