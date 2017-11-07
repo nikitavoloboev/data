@@ -149,6 +149,7 @@
 	* [Flow](productivity/flow/Flow.md)
 		* [Rules](productivity/flow/Rules.md)
 		* [No list](productivity/flow/no-list.md)
+		* [Routine](productivity/flow/Routine.md)
 		* [Flow processes](productivity/flow/flow-processes.md)
 	* [My workflow](productivity/my-workflow.md)
 	* [Sleep](productivity/Sleep.md)

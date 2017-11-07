@@ -4,7 +4,6 @@
 ## Learning now
 - [Go](../programming-languages/go/Go.md)
 	- testing code
-- Tmux
 - [Web development](../web/Web.md) 
 	- [Javascript](../programming-languages/Javascript.md)
 		- [React](../web/react/React.md)

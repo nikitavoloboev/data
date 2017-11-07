@@ -10,6 +10,8 @@ Some simple rules to follow for myself doing things.
 - No TODOs in normal wiki entries
 	- the wiki is for notes and references and some actionable dedicated lists like [reading](../working-on/Reading.md) or [learning](../working-on/Learning.md).
 - Describe links on the same line with `:` separator (if needs more description, then sub dash)
+- Don't repeat myself or anyone else
+	- if something has already been said either by me or someone else, link to it
 
 ## Capitalising things
 - Main dashed points
@@ -19,6 +21,7 @@ Some simple rules to follow for myself doing things.
 - All GitHub issues and PRs
 - Nodes in my mind
 - Alfred workflows 
+- Normal other sentences
 
 ## Git
 - Do atomic commits and write proper appropriate commit messages
@@ -61,9 +64,6 @@ Some simple rules to follow for myself doing things.
 
 ## Releasing workflows with OneUpdater
 - don't forget to update version number and then also commit the workflow so info.plist on GitHub has the latest version
-
-## Research
-- have pen and paper always with me
 
 ## Making Anki cards
 - don't make a card of a fact or something that you can easily look up
