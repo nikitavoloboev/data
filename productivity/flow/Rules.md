@@ -93,3 +93,7 @@ Some simple rules to follow for myself doing things.
 
 ## 2Do
 - Only contain things I really need to get done in `Today`
+
+## Rules
+- If the idea is not private or something really small
+	- share it in the wiki (or hopefully soon in crafting ideas)
