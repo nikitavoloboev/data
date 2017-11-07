@@ -83,14 +83,13 @@ Some simple rules to follow for myself doing things.
 - add correct language syntax to every snippet
 
 ## Planning
-- plan the next day in advance in the calendar
+- Plan the next day in advance in the calendar
 	- plan deadlines one week in advance
 	- follow through with the plan but adapt where necessary
 
 ## My Mind
-- uppercase entries in the main map + articles / GitHub + notes
+- Uppercase entries in the main map + articles / GitHub + notes
 
 ## 2Do
-- only contain things I really need to get done in `Today`
-
+- Only contain things I really need to get done in `Today`
 

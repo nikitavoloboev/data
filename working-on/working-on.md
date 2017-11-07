@@ -4,7 +4,6 @@ The big projects I am working on and have already done can be seen in more detai
 ## Focusing
 I am focusing on these things currently.
 - [Learn Anything](../projects/learn-anything.md)
-- [Learning new things](./Learning.md) and [Reading interesting books](./Reading.md)
-- Writing [Alfred Workflow](https://github.com/learn-anything/alfred-workflows) and Go libraries
+- [Learning new things](./Learning.md) and [eading interesting books](./Reading.md)
+- Writing [Alfred Workflows](https://github.com/learn-anything/alfred-workflows) and Go libraries
 - Implementing [ideas I have](./Ideas.md)
-
