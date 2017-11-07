@@ -15,3 +15,4 @@ I hope to cultivate and make many healthy routines and habits throughout my life
 - Take shower 
 - Moisturise face
 - Plan the day ahead of me if it is not planned already
+- Go to sleep before 11 pm ideally and wake up at the same time ideally
