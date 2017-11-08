@@ -13,7 +13,6 @@
 	* [Courses](working-on/courses.md)
 	* [Ideas](working-on/Ideas.md)
 * [Knowledge](knowledge/Knowledge.md)
-	* [Things I know](knowledge/things-I-know.md)
 	* [Knowledge indexing](knowledge/knowledge-indexing.md)
 * [Research](research/Research.md)
 	* [Solving problems](research/solving-problems.md)
