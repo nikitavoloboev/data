@@ -12,5 +12,6 @@ Here are my mine :
 7. I want to make the world a fair place where all have a chance to create something creative and new
 8. I want to visualise my ideas and knowledge and share these ideas with the world
 9. I should embrace change 
-10. I should learn from my mistakes
-11. I should behave in accordance to my principles
+10. I should not waste time doing things that don't impact my life in a positive way 
+11. I should learn from my mistakes
+12. I should behave in accordance to my principles

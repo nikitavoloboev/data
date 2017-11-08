@@ -1,6 +1,7 @@
 # Reading
 - [Network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+- Thinking fast and slow
 - [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
 
 ## Read next
@@ -114,3 +115,4 @@ I make notes on all the books I have read. Below are the books I have covered th
 - [math books](https://www.reddit.com/r/math/comments/6xmuhc/math_booksresources_to_pique_math_interest/)
 - [history books](https://www.reddit.com/r/AskHistorians/comments/1403l7/askhistorians_master_book_list_ii/)
 - [good books for deep hacks](https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html)
+- [some psychology books to read](https://www.reddit.com/r/booksuggestions/comments/5kslq8/looking_for_psychology_literature_like_thinking/)

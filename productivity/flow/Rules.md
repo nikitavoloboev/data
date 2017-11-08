@@ -9,19 +9,9 @@ Some simple rules to follow for myself doing things.
 	- everything else on three levels where appropriate
 - No TODOs in normal wiki entries
 	- the wiki is for notes and references and some actionable dedicated lists like [reading](../working-on/Reading.md) or [learning](../working-on/Learning.md).
-- Describe links on the same line with `:` separator (if needs more description, then sub dash)
+- Describe links on the same line with `-` separator (if needs more description, then sub dash)
 - Don't repeat myself or anyone else
 	- if something has already been said either by me or someone else, link to it
-
-## Capitalising things
-- Main dashed points
-	- sub dash points (like this one) don't have to be capitalised
-- Headings
-- GitHub descriptions
-- All GitHub issues and PRs
-- Nodes in my mind
-- Alfred workflows 
-- Normal other sentences
 
 ## Git
 - Do atomic commits and write proper appropriate commit messages
@@ -40,11 +30,12 @@ Some simple rules to follow for myself doing things.
 - Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links)
 - If the readme is long enough, add a table of contents
 - Don't add anything that is not needed and focus on the content
-- Add image or logo if possible to visually show the workfow/library in action
+- Add image or logo if possible to visually show the workflow / library in action
 
 ## Alfred
 - Name triggers with spaces between words (all lowercased)
 - Name all modifier connections
+- Release all my workflows (that have no sensitive information) either in [small workflows](https://github.com/nikitavoloboev/small-workflows) or standalone if they contain quite a bit of code
 
 ## MindNode
 - Use lighter themes for sharing (it's nicer) (and using in general)
@@ -54,7 +45,8 @@ Some simple rules to follow for myself doing things.
 - Use proper punctuation and capitalise things appropriately
 
 ## Social Networks
-- Only add people I really know on Facebook
+- Only add people I really know on Facebook 
+- Only add / follow people I am really interested in in other networks
 
 ## Sharing files
 - more permanent shares are shared with Dropbox
@@ -97,3 +89,24 @@ Some simple rules to follow for myself doing things.
 ## Rules
 - If the idea is not private or something really small
 	- share it in the wiki (or hopefully soon in crafting ideas)
+
+## Capitalising things
+- Main dashed points
+	- sub dash points (like this one) don't have to be capitalised
+- Headings
+- GitHub descriptions
+- All GitHub issues and PRs
+- Nodes in my mind
+- Alfred workflows 
+- Normal other sentences
+
+## Ship app
+- Prioritise repos in the sidebar
+
+## Stack Overflow CV
+- Only add repositories that are meaningful to the list
+- Keep the PDF CV up to date
+
+## Reading books
+- Make notes as you read books
+- Review each book you read on Goodreads and add it to an appropriate category 

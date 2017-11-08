@@ -11,8 +11,8 @@ For example, if you have a file filter that searches through some folders and it
 
 ![](https://i.imgur.com/D0NP2s3.png)
 
-# Links
+## Links
 - [how to: workflow / environment variables](https://www.alfredforum.com/topic/9070-how-to-workflowenvironment-variables/?tab=comments#comment-45177)
 
-# Notes
+## Notes
 - [package workflows from CLI with version numbers](https://www.alfredforum.com/topic/10838-how-to-package-workflows-from-the-command-line/?tab=comments#comment-55677)

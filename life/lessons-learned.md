@@ -61,6 +61,9 @@
 - Ask questions
 	- asking questions is a a great thing and being stuck on the same problem or being oblivious how to do some thing is not always a great thing
 	- be wary of how to [ask questions the right way](../research/asking-questions.md) though
+- Be aware of my quirks and ask myself why I have them and why I do what I do
+	- for example I at once had a weird obsession with lowercasing everything just because it `felt` nicer to have everything lowercased
+	- but that is obviously a weird quirk and does no good to anyone including myself
 
 ## Code
 - use switch cases over long ifs

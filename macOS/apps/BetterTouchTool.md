@@ -13,7 +13,7 @@ And to set up app specific and global gestures. Like this one :
 
 ![](https://i.imgur.com/iUCzo8l.png)
 
-You can view a printed version of all the bindings I have made [here](https://www.dropbox.com/s/ch3xv362vewsldo/btt-gestures.pdf?dl=1) and you can download the preset I use to try some of the bindings I have made for yourself by importng [my preset](https://www.dropbox.com/s/j7o7yu8jm85shd5/main.json?dl=1) to BetterTouchTool.
+You can view a printed version of all the bindings I have made [here](https://github.com/nikitavoloboev/my-mac-os/blob/master/btt/btt-gestures.pdf) and you can download the preset I use to try some of the bindings I have made for yourself by importng [my preset](https://raw.githubusercontent.com/nikitavoloboev/my-mac-os/master/btt/main.json) to BetterTouchTool.
 
 Here are some images of the gestures I use. 
 

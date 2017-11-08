@@ -13,6 +13,7 @@
 - [Vim](../text-editors/Vim.md) 
 - [Operating systems](../operating-systems/operating-systems.md) -\> [three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - Memcached
+- [next.js](https://learnnextjs.com/basics/getting-started) 
 - [Math](../math/Math.md) 
 	- Lambda calculus
 	- Type theory 

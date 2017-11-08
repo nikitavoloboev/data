@@ -1,7 +1,7 @@
 # [Typinator](http://www.ergonis.com/products/typinator/)
 A really amazing text expanding app that saves me a lot of time from my life by expanding the text I most frequently type.
 
-I share the Typinator sets I made and use with the app [here](https://github.com/nikitavoloboev/typinator-sets). 
+I share the Typinator sets I made and use with the app [here](https://github.com/nikitavoloboev/my-mac-os/tree/master/typinator). 
 
 I use the same trick as in KM to indicate what information should I have in a snippet before activating with by enclosing the info I need to have in the clipboard with \{}.
 ![](https://i.imgur.com/VH0ctGO.png)
