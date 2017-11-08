@@ -110,3 +110,6 @@ Some simple rules to follow for myself doing things.
 ## Reading books
 - Make notes as you read books
 - Review each book you read on Goodreads and add it to an appropriate category 
+
+## Anki
+ - Post all my anki decks in the wiki here under [anki decks](../anki/anki-decks.md)
