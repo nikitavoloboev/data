@@ -1,13 +1,13 @@
 # Ideas
 Until I have built [Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas), I may put some of my ideas I have here although I really should just sit down and build the project. It solves a __huge__ problem of mine.
 
-Feel free to _steal_ and make any of them yourself. 🌻
+Feel free to _steal_ and make any of them yourself. Ideas with 🍀 are ideas I am working on at this moment.
 
 ## Workflows
-- [parse all awesome lists and read from Alfred](https://github.com/nikitavoloboev/alfred-awesome-lists) 
+- [parse all awesome lists and read from Alfred](https://github.com/nikitavoloboev/alfred-awesome-lists) 🍀
+- index people I follow on GitHub for fast search 🍀
 - parse all books from [free programming books](https://github.com/EbookFoundation/free-programming-books) to Alfred
 - index starred Gists and store in sqlite to read from Alfred 
-- index people I follow on GitHub for fast search
 - index twitter following similar to [GitHub jump](https://github.com/lox/alfred-github-jump)
 	- see if there is API for that
 - alfred travis interface

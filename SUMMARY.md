@@ -213,3 +213,4 @@
 	* [Wiki workflow](other/wiki-workflow.md)
 	* [Advice](other/Advice.md)
 	* [Interesting things](other/interesting-things.md)
+	* [Resources](other/Resources.md)

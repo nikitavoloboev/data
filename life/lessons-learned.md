@@ -5,6 +5,7 @@
 		- define these _important_ things for myself and be clear with what I want to achieve
 - Automate backups
 	- make sure the backups you’ve made are actually successful
+	- and you have at least 1 week fresh backup of everything I did
 - Study smart
 	- ask yourself the question of what it is I am trying to solve or understand
 	- start working to solve the problems before the deadline
@@ -84,10 +85,12 @@
 	- it should be more of a guide and a glue between different things rather than as a way to dump everything in one single file
 
 ## Productivity
-- use the right tool for the job
+- Just start
+	- getting distracted is easy but starting is hard
+- Use the right tool for the job
 	- i.e. mind maps are great for visualising things so don't use them to dump things inside to filter for things
 	- you can use simple markdown and text files for that where it is easier to maintain and extend
 
 ## Other
-- when proposing feature requests, _"for me"_ is never a good argument for a feature request
+- When proposing feature requests, _"for me"_ is never a good argument for a feature request
 	- if you want someone to add a feature to their software, show how it would be useful to lots of users
