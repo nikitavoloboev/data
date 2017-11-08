@@ -113,3 +113,6 @@ Some simple rules to follow for myself doing things.
 
 ## Anki
  - Post all my anki decks in the wiki here under [anki decks](../anki/anki-decks.md)
+
+## Product Hunt
+- Add products I like to an appropriate collection

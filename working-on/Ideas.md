@@ -15,9 +15,10 @@ Feel free to _steal_ and make any of them yourself. Ideas with 🍀 are ideas I 
 - parse arbitrary CSV files
 	- similar to my [alfred edit files](https://github.com/nikitavoloboev/alfred-edit-files) but instead of it reading one file, you pass in some CSV file instead and it will parse it to show in Alfred
 		- can use that for many things
-- quickly search through my entire Pixave library
-- workflow like [Safari Assistant](https://git.deanishe.net/deanishe/alfred-safari-assistant) but for Chrome
+- Quickly search through my entire Pixave library
+- Workflow like [Safari Assistant](https://git.deanishe.net/deanishe/alfred-safari-assistant) but for Chrome
 - Workflow to search through all my Facebook friends (if there is API for that)
+- Workflow to search through my user collections (if there is API)
 
 ## Web
 - [Your life as little boxes](https://github.com/nikitavoloboev/boxes)
