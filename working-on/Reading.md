@@ -101,6 +101,7 @@ I make notes on all the books I have read. Below are the books I have covered th
 - David Sedaris
 
 ## Recommendations
+- [Similar to SICP](https://lobste.rs/s/9o8lvk/books_written_style_similar_sicp)  📌
 - [17: HN recommends](https://news.ycombinator.com/item?id=15629762)
 - [check these books - master switch is interesting](https://news.ycombinator.com/item?id=14477851)
 - [most meaningful books I read in 2016](http://blog.ncase.me/the-most-meaningful-books-i-read-in-2016/)

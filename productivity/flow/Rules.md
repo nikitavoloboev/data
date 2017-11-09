@@ -20,7 +20,8 @@ Some simple rules to follow for myself doing things.
 - Comment over my code (be mindful of not repeating things, sometimes code speaks for itself)
 
 ## Karabiner
-- Document any changes I make in Karabiner map instantly in the map (update where necessary)# 
+- Document any changes I make in Karabiner map instantly in the map (update where necessary)
+- Lowercase KeyCode mappings
 
 ## Markdown
 - Don't leave whitespace between headings and text
@@ -123,4 +124,4 @@ Some simple rules to follow for myself doing things.
 - Add products I like to an appropriate collection
 
 # Vim
-- Document my main mappings in the vimrc itself (make things easier to search for)
+- Document my main mappings in the vimrc itself (make things easier to search for# )

@@ -5,7 +5,7 @@ For example you can make caps lock into an escape key when pressed once but if y
 
 I however take this idea further and define these kind of hyper keys but for __every single key on my keyboard__. I like to call them _sticky keys_ and you can read more about it [here](./sticky-keys.md).
 
-# My personal Karabiner setup
+## My personal Karabiner setup
 I share my Karabiner private.xml [here](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/private.xml). It is approximately 12,000 lines long so might take a bit of time to load. However I edit it in vim and vim handles this big file very easily. I also use `_` to indicate jumping points in the config. So I can jump between various XML blocks by searching `_km def` for defining KM actions to map, `_alfred def` for mapping alfred triggers to run and `sticky ..` to jump between sticky key definitions. 
 
 I document all the bindings I have made on my laptop as a mind map [here](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh). It is pretty large but if you have MindNode, you can download it locally and it would be quite fast to use.
