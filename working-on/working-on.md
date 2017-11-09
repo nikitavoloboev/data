@@ -8,3 +8,4 @@ I am focusing on these things currently.
 - Writing [Alfred Workflows](https://github.com/learn-anything/alfred-workflows) and Go libraries
 - Implementing [ideas I have](./Ideas.md)
 - Making the first working version of [Crafting Ideas](../projects/crafting-ideas.md)
+

@@ -24,7 +24,7 @@ Some simple rules to follow for myself doing things.
 
 ## Markdown
 - Don't leave whitespace between headings and text
-- Don't need to add `:` to the end of text when adding image below as it is implicit
+- Don't need to add `:` to the end of text when adding image below as it is # implicit
 
 ## GitHub
 - Add appropriate topics to each repo
@@ -37,7 +37,7 @@ Some simple rules to follow for myself doing things.
 ## Alfred
 - Name triggers with spaces between words (all lowercased)
 - Name all modifier connections
-- Release all my workflows (that have no sensitive information) either in [small workflows](https://github.com/nikitavoloboev/small-workflows) or standalone if they contain quite a bit of code
+- Release all my workflows (that have no sensitive information) either in #  or standalone if they contain quite a bit of code
 
 ## MindNode
 - Use lighter themes for sharing (it's nicer) (and using in general)
@@ -115,6 +115,9 @@ Some simple rules to follow for myself doing things.
 
 ## Anki
  - Post all my anki decks in the wiki here under [anki decks](../anki/anki-decks.md)
+- Lowercase all deck names and folders
+- Follow the same capitalising rules as in markdown for making cards
+	- start all cards capitalised
 
 ## Product Hunt
 - Add products I like to an appropriate collection
