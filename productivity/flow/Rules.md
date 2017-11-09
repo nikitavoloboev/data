@@ -24,7 +24,7 @@ Some simple rules to follow for myself doing things.
 
 ## Markdown
 - Don't leave whitespace between headings and text
-- Don't need to add `:` before the image added as it is implicit
+- Don't need to add `:` to the end of text when adding image below as it is implicit
 
 ## GitHub
 - Add appropriate topics to each repo
