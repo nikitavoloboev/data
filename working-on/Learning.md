@@ -18,6 +18,7 @@
 	- Lambda calculus
 	- Type theory 
 	- Category theory -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+- Hugo (improve my site)
 
 ## Learn next
 - [haskell](../programming-languages/Haskell.md) 

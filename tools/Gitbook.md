@@ -7,12 +7,12 @@ Having a book you write be available on the internet, ready to be read in an ins
 
 Similar to how I took Yoshua's idea with his [original knowledge repo](https://github.com/yoshuawuyts/knowledge), I modified it, _forked it_ and made my own. That's how books should be written or well, can be written. There is no right way of doing of things but I think Git and Web publishing as first class citizen is pretty damn awesome.
 
-# Cool things Gitbook has
-- [plugins 🖌](https://toolchain.gitbook.com/)
+## Cool things GitBook has
+- [Plugins 🖌](https://toolchain.gitbook.com/)
 	- extend your Gitbook with useful things
-- [Gitbook explore](https://www.gitbook.com/explore)
+- [GitBook explore](https://www.gitbook.com/explore)
 	- find books made by other people
 
-# Plugins I like
-## [KaTex](https://plugins.gitbook.com/plugin/katex)
-To insert LaTeX, surround LaTeX code with `$$`.
+## Plugins I like
+- [KaTex](https://plugins.gitbook.com/plugin/katex)
+	- To insert LaTeX, surround LaTeX code with `$$`.

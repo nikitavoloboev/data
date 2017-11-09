@@ -24,6 +24,7 @@ Some simple rules to follow for myself doing things.
 
 ## Markdown
 - Don't leave whitespace between headings and text
+- Don't need to add `:` before the image added as it is implicit
 
 ## GitHub
 - Add appropriate topics to each repo
@@ -31,6 +32,7 @@ Some simple rules to follow for myself doing things.
 - If the readme is long enough, add a table of contents
 - Don't add anything that is not needed and focus on the content
 - Add image or logo if possible to visually show the workflow / library in action
+- Make many experiments and share them (add the experiments to the bottom of the mindnode map so they are not seen instantly)
 
 ## Alfred
 - Name triggers with spaces between words (all lowercased)
@@ -86,7 +88,7 @@ Some simple rules to follow for myself doing things.
 ## 2Do
 - Only contain things I really need to get done in `Today`
 
-## Rules
+## Ideas
 - If the idea is not private or something really small
 	- share it in the wiki (or hopefully soon in crafting ideas)
 
@@ -116,3 +118,4 @@ Some simple rules to follow for myself doing things.
 
 ## Product Hunt
 - Add products I like to an appropriate collection
+

@@ -144,6 +144,7 @@
 * [Tools](tools/Tools.md)
 	* [GitBook](tools/Gitbook.md)
 	* [Dropbox](tools/Dropbox.md)
+	* [Product Hunt](tools/product-hunt.md)
 	* [DuckDuckGo](tools/DuckDuckGo.md)
 * [Productivity](productivity/Productivity.md)
 	* [Focusing](productivity/Focusing.md)

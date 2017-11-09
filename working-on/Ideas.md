@@ -18,7 +18,7 @@ Feel free to _steal_ and make any of them yourself. Ideas with 🍀 are ideas I 
 - Quickly search through my entire Pixave library
 - Workflow like [Safari Assistant](https://git.deanishe.net/deanishe/alfred-safari-assistant) but for Chrome
 - Workflow to search through all my Facebook friends (if there is API for that)
-- Workflow to search through my user collections (if there is API)
+	- Workflow to search through my user collections (if there is API)
 
 ## Web
 - [Your life as little boxes](https://github.com/nikitavoloboev/boxes)
