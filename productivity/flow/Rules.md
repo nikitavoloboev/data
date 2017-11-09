@@ -20,11 +20,11 @@ Some simple rules to follow for myself doing things.
 - Comment over my code (be mindful of not repeating things, sometimes code speaks for itself)
 
 ## Karabiner
-- Document any changes I make in Karabiner map instantly in the map (update where necessary)
+- Document any changes I make in Karabiner map instantly in the map (update where necessary)# 
 
 ## Markdown
 - Don't leave whitespace between headings and text
-- Don't need to add `:` to the end of text when adding image below as it is # implicit
+- Don't need to add `:` to the end of text when adding image below as it is implicit
 
 ## GitHub
 - Add appropriate topics to each repo
@@ -37,7 +37,7 @@ Some simple rules to follow for myself doing things.
 ## Alfred
 - Name triggers with spaces between words (all lowercased)
 - Name all modifier connections
-- Release all my workflows (that have no sensitive information) either in #  or standalone if they contain quite a bit of code
+- Release all my workflows (that have no sensitive information) either in small workflows  or standalone if they contain quite a bit of code
 
 ## MindNode
 - Use lighter themes for sharing (it's nicer) (and using in general)
@@ -122,3 +122,5 @@ Some simple rules to follow for myself doing things.
 ## Product Hunt
 - Add products I like to an appropriate collection
 
+# Vim
+- Document my main mappings in the vimrc itself (make things easier to search for)

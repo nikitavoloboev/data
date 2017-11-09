@@ -1,21 +1,21 @@
 # Learning
 > -\> after the name shows what I am currently using to learn the thing
-> words inside () show my reason to learn the thing
+> words inside () show my reason to learn the thing (if now)
 
 ## Learning now
-- [Go](../programming-languages/go/Go.md) 
+- [Go](../programming-languages/go/Go.md) (make tools)
 	- testing code
-- [Web development](../web/Web.md) 
+- [Web development](../web/Web.md) (make sites)
 	- [Javascript](../programming-languages/Javascript.md) -\> [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 		- [React](../web/react/React.md)
 	- HTML
 	- CSS
-- Networking -\> [Network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
-- [Vim](../text-editors/Vim.md) 
+- Networking -\> (make sites) [Network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
+- [Vim](../text-editors/Vim.md) (be faster)
 - [Operating systems](../operating-systems/operating-systems.md) -\> [three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - Memcached
-- [next.js](https://learnnextjs.com/basics/getting-started) 
-- [Math](../math/Math.md) 
+- [next.js](https://learnnextjs.com/basics/getting-started)  (build sites)
+- [Math](../math/Math.md) (think abstractly)
 	- Lambda calculus
 	- Type theory 
 	- Category theory -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
