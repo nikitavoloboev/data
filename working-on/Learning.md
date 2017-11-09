@@ -1,8 +1,9 @@
 # Learning
 > -\> after the name shows what I am currently using to learn the thing
+> words inside () show my reason to learn the thing
 
 ## Learning now
-- [Go](../programming-languages/go/Go.md)
+- [Go](../programming-languages/go/Go.md) 
 	- testing code
 - [Web development](../web/Web.md) 
 	- [Javascript](../programming-languages/Javascript.md) -\> [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
@@ -18,7 +19,7 @@
 	- Lambda calculus
 	- Type theory 
 	- Category theory -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
-- Hugo (improve my site)
+- Hugo (improve my site) 
 
 ## Learn next
 - [haskell](../programming-languages/Haskell.md) 
