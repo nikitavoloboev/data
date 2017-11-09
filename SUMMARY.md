@@ -2,7 +2,7 @@
 * [Introduction](readme.md)
 * [Meta](meta/meta.md)
 	* [My mind](meta/my-mind.md)
-	* [Abbreviations](meta/abbreviations.md)
+	* [Reference](meta/Reference.md)
 * [Projects](projects/Projects.md)
 	* [Learn anything](projects/learn-anything.md)
 	* [Crafting ideas](projects/crafting-ideas.md)
