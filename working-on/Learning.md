@@ -5,7 +5,6 @@
 
 ## Learning now
 - [Go](../programming-languages/go/Go.md) (make tools)
-	- testing code
 - [Web development](../web/Web.md) (make sites)
 	- [Javascript](../programming-languages/Javascript.md) -\> [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 		- [React](../web/react/React.md)
