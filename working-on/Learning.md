@@ -1,6 +1,6 @@
 # Learning
 > -\> after the name shows what I am currently using to learn the thing
-> words inside () show my reason to learn the thing (if now)
+> words inside () show my reason to learn the thing 
 
 ## Learning now
 - [Go](../programming-languages/go/Go.md) (make tools)
@@ -15,14 +15,14 @@
 - [Operating systems](../operating-systems/operating-systems.md) -\> [three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - Memcached
 - [next.js](https://learnnextjs.com/basics/getting-started)  (build sites)
-- [Math](../math/Math.md) (think abstractly)
+- [Math](../math/Math.md) (new concepts)
 	- Lambda calculus
 	- Type theory 
 	- Category theory -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - Hugo (improve my site) 
 
 ## Learn next
-- [haskell](../programming-languages/Haskell.md) 
+- [Haskell](../programming-languages/Haskell.md) 
 - [telnet](http://www.wikiwand.com/en/Telnet)
 - GraphQL, Serverless & The Graphcool Framework
 - statistics
