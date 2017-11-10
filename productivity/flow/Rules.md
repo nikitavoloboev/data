@@ -39,6 +39,7 @@ Some simple rules to follow for myself doing things.
 - Don't add anything that is not needed and focus on the content
 - Add image or logo if possible to visually show the workflow / library in action
 - Don't link to Imgur images as links, render them in the GitHub README itself
+- In screenshots of Alfred prompts and other prompts, show the cursor
 
 ## Alfred
 - Name triggers with spaces between words (all lowercased)

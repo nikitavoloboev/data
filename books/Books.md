@@ -9,4 +9,4 @@ I track all the books I have read [here](https://www.goodreads.com/review/list/1
 I also make notes on all the books I have read. Below are the books I have covered thus far sorted by the year I read the books in.
 
 ### 2017
--  [Go in action (](../books/go-in-action.md)
+-  [Go in action](../books/go-in-action.md)

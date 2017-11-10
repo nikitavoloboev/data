@@ -10,7 +10,7 @@
 		- [React](../web/react/React.md)
 	- HTML
 	- CSS
-- Networking -\> (make sites) [Network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
+- Networking (make sites) -\> [Network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Vim](../text-editors/Vim.md) (be faster)
 - [Operating systems](../operating-systems/operating-systems.md) -\> [three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - Memcached
