@@ -65,6 +65,9 @@
 - Be aware of my quirks and ask myself why I have them and why I do what I do
 	- for example I at once had a weird obsession with lowercasing everything just because it `felt` nicer to have everything lowercased
 	- but that is obviously a weird quirk and does no good to anyone including myself
+- What I make doesn't have to be perfect. It's better to make something than nothing at all, and it's better to share things early to get feedback than spending years trying to perfect something.
+- I won't be able to do everything. Setting constraints is key. I want my projects to be focused, rather than growing too much in scope and becoming a "catch all".
+- Do one thing at a time. Rather than trying to achieve all of my goals at once, it's best focus on completing one thing at a time. Sometimes external pressure can make this hard, but I try to stick to it as much as possible - I've found that it enables me to move way faster.
 
 ## Code
 - use switch cases over long ifs

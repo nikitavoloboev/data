@@ -4,6 +4,8 @@
 - Thinking fast and slow
 - [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
 
+You can see the books I have read already as well as all the notes I have made on these books [here](../books/Books.md).
+
 ## Read next
 - Godel, escher bach
 - Type theory & functional programming
@@ -80,12 +82,6 @@
 - you've got only three seconds: how to make the right impression in your business and social life
 - [consciousness explained](http://www.wikiwand.com/en/Consciousness_Explained)
 - advanced nutrition and human metabolism
-
-## Books read
-You can view books I have already read [here](https://www.goodreads.com/review/list/15768482?shelf=read). 
-
-I make notes on all the books I have read. Below are the books I have covered thus far where number means the year in which I've read the book.
--  [17: go in action](../books/go-in-action.md)
 
 ## Interesting books
 - [Dynamic Programming and Optimal Control](http://www.athenasc.com/dpbook.html)

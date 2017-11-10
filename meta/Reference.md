@@ -8,7 +8,7 @@ I will be using certain abbreviations for things that I may be repeating often. 
 - repo = GitHub repository
 
 ## Emojis
-Instead of writing `TODO:` across this wiki, I use 📌 emoji to mean the same thing. So if you see something with 📌 next to it, just dismiss it as it is for my own personal use and reference.
+Instead of writing lots of `TODO:`s across this wiki, I use 📌 emoji to mean the same thing. So if you see something with 📌 next to it, just dismiss it as it is for my own personal use and reference.
 
 ## GitHub Gists
 As I embed a lot of code in these wiki as gists. I use `{}` to signify user input in these Gists. [Here](https://gist.github.com/17a9bc95ce5da0db7f85d076b45d07cd) is an example of one such gist. There `{dir}` means that a directory name is the user command that is missing.

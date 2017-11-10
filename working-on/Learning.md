@@ -14,7 +14,7 @@
 - [Vim](../text-editors/Vim.md) (be faster)
 - [Operating systems](../operating-systems/operating-systems.md) -\> [three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - Memcached
-- [next.js](https://learnnextjs.com/basics/getting-started)  (build sites)
+- [next.js](https://learnnextjs.com/basics/getting-started) (build sites)
 - [Math](../math/Math.md) (new concepts)
 	- Lambda calculus
 	- Type theory 

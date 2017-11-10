@@ -15,6 +15,7 @@ Some simple rules to follow for myself doing things.
 
 ## Git
 - Do atomic commits and write proper appropriate commit messages
+- Don't use emojis in commit messages aside from ✨commit
 
 ## Code
 - Comment over my code (be mindful of not repeating things, sometimes code speaks for itself)
@@ -29,11 +30,15 @@ Some simple rules to follow for myself doing things.
 
 ## GitHub
 - Add appropriate topics to each repo
+- Make many experiments and share them (add the experiments to the bottom of the mindnode map so they are not seen instantly)
+
+## GitHub README
+- Use HTML for rendering images as I have more control on the size and things
 - Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links)
 - If the readme is long enough, add a table of contents
 - Don't add anything that is not needed and focus on the content
 - Add image or logo if possible to visually show the workflow / library in action
-- Make many experiments and share them (add the experiments to the bottom of the mindnode map so they are not seen instantly)
+- Don't link to Imgur images as links, render them in the GitHub README itself
 
 ## Alfred
 - Name triggers with spaces between words (all lowercased)
@@ -100,8 +105,9 @@ Some simple rules to follow for myself doing things.
 - GitHub descriptions
 - All GitHub issues and PRs
 - Nodes in my mind
-- Alfred workflows 
+- Alfred workflows
 - Normal other sentences
+- Comments in Snippets of SnippetsLab
 
 ## Ship app
 - Prioritise repos in the sidebar
@@ -124,4 +130,4 @@ Some simple rules to follow for myself doing things.
 - Add products I like to an appropriate collection
 
 # Vim
-- Document my main mappings in the vimrc itself (make things easier to search for# )
+- Document my main mappings in the vimrc itself (make things easier to search for)
