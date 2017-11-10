@@ -12,8 +12,8 @@ Contains longer articles I write. I map all the articles I wrote in form of a ma
 ## [Thoughts on Twitter](https://twitter.com/nikitavoloboev)
 I share most of the things I am up to right now on my Twitter page.
 
-## [Photographs on Instagram](https://www.instagram.com/nikitavoloboev/)
-I don't often share photographs and things but when I do, I upload it there.
+## [Experiences on Instagram](https://www.instagram.com/nikitavoloboev/)
+I like to share small photos and stories from my life there.
 
 ## [Videos on Youtube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
 I mostly focus on making videos about macOS automation as that is what interests me. I map all the videos I have made as a map [here](https://my.mindnode.com/1TFgMjvqLR63KyTzBNL7o9oQbNVEuPvLJg6f7XxM#219.0,80.7,2).
