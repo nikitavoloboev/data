@@ -214,6 +214,7 @@
 * [Understand](understand/Understand.md)
 * [Other](other/other-things.md)
 	* [Wiki workflow](other/wiki-workflow.md)
+	* [Tracking](other/Tracking.md)
 	* [Resources](other/Resources.md)
 	* [Advice](other/Advice.md)
 	* [Interesting things](other/interesting-things.md)

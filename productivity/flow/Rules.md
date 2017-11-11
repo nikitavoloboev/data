@@ -9,7 +9,7 @@ Some simple rules to follow for myself doing things.
 	- everything else on three levels where appropriate
 - Describe links on the same line with `-` separator (if needs more description, then sub dash)
 - Don't repeat myself or anyone else
-	- if something has already been said either by me or someone else, link to it
+	- if something has already been said either by me or someone else, link to it (especially in this wiki)
 - Interlink entries between each other often within wiki where necessary 
 	- don't over do it
 
