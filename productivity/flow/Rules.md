@@ -7,8 +7,6 @@ Some simple rules to follow for myself doing things.
 - Heading should always be on one level heading
 	- and Snippets / Notes / Links / on two level heading
 	- everything else on three levels where appropriate
-- No TODOs in normal wiki entries
-	- the wiki is for notes and references and some actionable dedicated lists like [reading](../working-on/Reading.md) or [learning](../working-on/Learning.md).
 - Describe links on the same line with `-` separator (if needs more description, then sub dash)
 - Don't repeat myself or anyone else
 	- if something has already been said either by me or someone else, link to it
@@ -86,7 +84,7 @@ Some simple rules to follow for myself doing things.
 - Don't strip prefixes in snippets
 
 ## Planning
-- Plan the next day in advance in the calendar
+- Plan the next day fully in advance in the calendar
 	- plan deadlines one week in advance
 	- follow through with the plan but adapt where necessary
 
