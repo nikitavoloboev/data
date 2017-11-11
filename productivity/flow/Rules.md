@@ -51,7 +51,7 @@ Some simple rules to follow for myself doing things.
 
 ## Social Networks
 - Only add people I really know on Facebook 
-- Only add / follow people I am really interested in in other networks
+- Only add / follow people I am really interested in other networks
 
 ## Sharing files
 - more permanent shares are shared with Dropbox
@@ -60,10 +60,7 @@ Some simple rules to follow for myself doing things.
  - if the files are stored on GitHub somewhere, I can use [this](http://rawgit.com/) to get a downloadable link of the raw file
 
 ## Releasing workflows with OneUpdater
-- don't forget to update version number and then also commit the workflow so info.plist on GitHub has the latest version
-
-## Making Anki cards
-- don't make a card of a fact or something that you can easily look up
+- Don't forget to update version number and then also commit the workflow so info.plist on GitHub has the latest version
 
 ## Working
 - Work to complete the task I have at hand
@@ -77,9 +74,10 @@ Some simple rules to follow for myself doing things.
 - Upload all non sensitive snippets as Gists
 - Include all useful snippets in this wiki and add `wiki` tag
 	- if I delete a snippet with `wiki` tag, delete it from wiki too
+	- useful = something substantial that can't easily be Googled
 - Create smart group for each new prefix I add
 - Add correct language syntax to every snippet
-- Don't strip prefixes in snippets
+- Don't strip prefixes in snippets when sharing Gists
 
 ## Planning
 - Plan the next day fully in advance in the calendar
@@ -112,7 +110,6 @@ Some simple rules to follow for myself doing things.
 
 ## Stack Overflow CV
 - Only add repositories that are meaningful to the list
-- Keep the PDF CV up to date
 
 ## Reading books
 - Make notes as you read books
@@ -123,6 +120,7 @@ Some simple rules to follow for myself doing things.
 - Lowercase all deck names and folders
 - Follow the same capitalising rules as in markdown for making cards
 	- start all cards capitalised
+- Don't make a card of a fact or something that you can easily look up
 
 ## Product Hunt
 - Add products I like to an appropriate collection
