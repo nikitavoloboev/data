@@ -20,6 +20,7 @@
 	- Type theory 
 	- Category theory -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - Hugo (improve my site) 
+- Bash (automation)
 
 ## Learn next
 - [Haskell](../programming-languages/Haskell.md) 

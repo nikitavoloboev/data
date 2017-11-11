@@ -138,3 +138,7 @@ Some simple rules to follow for myself doing things.
 - Add all songs I like to my Likes playlist
 	- add all songs I _really_ like to Favourites playlist
 	- add songs to other playlists accordingly 
+
+## Focus
+- Be very aggressive in cutting any kind of distractions when working 
+	- look at where I spend my time in Timing and cut those out with Focus and scripts 

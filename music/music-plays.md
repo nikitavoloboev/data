@@ -14,7 +14,7 @@ I share a lot of [my personal Spotify playlists](https://open.spotify.com/user/n
 - [Tea and code](https://open.spotify.com/user/nikitavoloboev/playlist/1tOSHXne3GqST6z96HwD5L)
 - [Get things done](https://open.spotify.com/user/nikitavoloboev/playlist/2trMafmjrSlwLZSz4hH6oI)
 - [Code - new wave](https://open.spotify.com/user/nikitavoloboev/playlist/07jSX4atDq4etqLS3Nn6Ey)
-- Coding Go
+- [Coding Go](https://open.spotify.com/user/nikitavoloboev/playlist/4pRiHQwLoSc8MQ23swgts8)
 
 Currently I am really liking and listening to [this playlist](https://open.spotify.com/user/nikitavoloboev/playlist/4pRiHQwLoSc8MQ23swgts8) a lot.
 
