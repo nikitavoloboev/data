@@ -68,6 +68,16 @@
 - What I make doesn't have to be perfect. It's better to make something than nothing at all, and it's better to share things early to get feedback than spending years trying to perfect something.
 - I won't be able to do everything. Setting constraints is key. I want my projects to be focused, rather than growing too much in scope and becoming a "catch all".
 - Do one thing at a time. Rather than trying to achieve all of my goals at once, it's best focus on completing one thing at a time. Sometimes external pressure can make this hard, but I try to stick to it as much as possible - I've found that it enables me to move way faster.
+- Change location
+	- work from different places
+	- meet new people
+	- you are not productive staying in the same spot for too long
+- Focus on the foundations fist 
+	- health
+		- exercise
+		- nutrition
+	- good state of mind
+	- and all else will follow
 
 ## Code
 - use switch cases over long ifs

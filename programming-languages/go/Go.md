@@ -21,4 +21,4 @@ Go promotes composition over inheritance.
 - The package “main” tells the Go compiler that the package should compile as an executable program instead of a shared library
 - Note that any type implements the empty interface interface{} because it doesn't have any methods and all types have zero methods by default
 - Simply pushing my source code to GitHub, makes it `go get`table.
-- interface types represent fixed sets of methods
+- Interface types represent fixed sets of methods
