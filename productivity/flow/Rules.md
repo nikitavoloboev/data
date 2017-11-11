@@ -13,14 +13,13 @@ Some simple rules to follow for myself doing things.
 
 ## Git
 - Do atomic commits and write proper appropriate commit messages
-- Don't use emojis in commit messages aside from ✨commit
+- Don't use emojis in commit messages aside from ✨ commit
 
 ## Code
 - Comment over my code (be mindful of not repeating things, sometimes code speaks for itself)
 
 ## Karabiner
 - Document any changes I make in Karabiner map instantly in the map (update where necessary)
-- Lowercase KeyCode mappings
 
 ## Markdown
 - Don't leave whitespace between headings and text
@@ -41,7 +40,6 @@ Some simple rules to follow for myself doing things.
 
 ## Alfred
 - Name triggers with spaces between words (all lowercased)
-- Name all modifier connections
 - Release all my workflows (that have no sensitive information) either in small workflows  or standalone if they contain quite a bit of code
 
 ## MindNode
