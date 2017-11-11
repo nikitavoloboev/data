@@ -3,8 +3,9 @@
 I share a lot of [my personal Spotify playlists](https://open.spotify.com/user/nikitavoloboev) that I like. Here are some of them : 
 
 - [My likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn)
-	- contains all the music I like in one big playlist
+	- all the music I like in one big playlist
 - [Favourite](https://open.spotify.com/user/nikitavoloboev/playlist/7j0M4e0nxFtsrLREfcj2qk)
+	- my favourite tunes I like
 - [Good stuff](https://open.spotify.com/user/nikitavoloboev/playlist/30tVJRIDTcXUMJI0sAeUMS)
 - [Chill](https://open.spotify.com/user/nikitavoloboev/playlist/5rPMZiZyYSrChlYT8kY4Rt)
 - [Code](https://open.spotify.com/user/nikitavoloboev/playlist/7x77eBDnCZ5AiHcey4CLox)
@@ -13,6 +14,7 @@ I share a lot of [my personal Spotify playlists](https://open.spotify.com/user/n
 - [Tea and code](https://open.spotify.com/user/nikitavoloboev/playlist/1tOSHXne3GqST6z96HwD5L)
 - [Get things done](https://open.spotify.com/user/nikitavoloboev/playlist/2trMafmjrSlwLZSz4hH6oI)
 - [Code - new wave](https://open.spotify.com/user/nikitavoloboev/playlist/07jSX4atDq4etqLS3Nn6Ey)
+- Coding Go
 
 Currently I am really liking and listening to [this playlist](https://open.spotify.com/user/nikitavoloboev/playlist/4pRiHQwLoSc8MQ23swgts8) a lot.
 
