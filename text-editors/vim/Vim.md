@@ -9,6 +9,7 @@ I also document my learnings in vim as a mind map [here](https://my.mindnode.com
 
 ## Links
 - [You don't grok vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
+- [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/) - quite funny
 
 ## Neovim
 - I can run `:CheckHealth` to see if there is anything wrong with my installation

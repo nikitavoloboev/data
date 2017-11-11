@@ -70,9 +70,10 @@ Some simple rules to follow for myself doing things.
 - don't make a card of a fact or something that you can easily look up
 
 ## Working
-- work to complete the task I have at hand
-- turn on [Focus block](https://heyfocus.com) when working and never visit any news sites or discussion forums
-- live by my calendar 
+- Work to complete the task I have at hand
+- Turn on [Focus block](https://heyfocus.com) when starting a work block and focus fully on the task
+	- adjust the focus list to block even more distractions and tune my workflow to only do the task/s I have
+- Live by my calendar 
 	- assign tasks and blocks of time in advance and work through each of the blocks
 	- adjust when necessary
 
@@ -130,5 +131,10 @@ Some simple rules to follow for myself doing things.
 ## Product Hunt
 - Add products I like to an appropriate collection
 
-# Vim
+## Vim
 - Document my main mappings in the vimrc itself (make things easier to search for)
+
+## Spotify
+- Add all songs I like to my Likes playlist
+	- add all songs I _really_ like to Favourites playlist
+	- add songs to other playlists accordingly 
