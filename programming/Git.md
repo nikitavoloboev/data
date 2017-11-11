@@ -5,6 +5,9 @@ I often like to use emojis for some git commits. But only for few specific ones 
 
 I quite often commit all changes with ✨with [this alias](https://github.com/nikitavoloboev/dotfiles#commit-all-with-). Sometimes I just want to commit a change and a commit message is unnecessary so it saves time. I don't do it when writing code.
 
+## Links
+- [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+
 ## Snippets
 - [remove dir from git](https://gist.github.com/17a9bc95ce5da0db7f85d076b45d07cd)
 - [reset to a specific commit](https://gist.github.com/9dd017136b8ad625af938a916c9e90a8)
@@ -20,3 +23,4 @@ I quite often commit all changes with ✨with [this alias](https://github.com/ni
 - [checkout previous commit](https://gist.github.com/8da63bc3a6801337356119647fb27e52)
 - [show where configs get defined](https://gist.github.com/8e4fe9f16e8141778eabdb030276263a)
 - [undo last commit but don't throw away changes](https://gist.github.com/9d4621d9813ed28aaebaaef7100bcaec)
+

@@ -21,43 +21,43 @@
 	- make sure I don’t repeat what has been said before and if it was 
 		- link to it and make my own observations and conclusions
 - Track my expenses
-- get into the flow state as early as possible during the day
-- just being exposed to concepts through videos or tutorials is not going to help me pass interviews
+- Get into the flow state as early as possible during the day
+- Just being exposed to concepts through videos or tutorials is not going to help me pass interviews
 	- actually code everything up and implement it
-- don’t be careless on the exams and when doing exercises
+- Don’t be careless on the exams and when doing exercises
 	- check back on your work and go through your calculations
 	- it is very easy to miss something
-- sit up right
+- Sit up right
 	- your body language dictates how you feel
 	- sit straight and don’t slouch your back
-- drink water
+- Drink water
 	- always stay hydrated
-- pay attention to my health and well being
+- Pay attention to my health and well being
 	- do not consume excess sugar
-- learn by investigation
+- Learn by investigation
 	- rather than by consuming some data points
 	- that is __strive to understand__
 		- why 
 		- and how
-- use paper
+- Use paper
 	- don’t be full digital and try out my calculations and thinking on paper
-- read documentation
+- Read documentation
 	- it saves a lot of time
-- keep receipts of expensive purchases
+- Keep receipts of expensive purchases
 	- you never know what happens and a lot of more expensive items have warranty
-- specialise
+- Specialise
 	- don’t jump at everything and try to know it all
 	- be really great at one thing and then you can branch out
-- check everything once you leave a room
+- Check everything once you leave a room
 	- did I forget anything?
-- learn from my mistakes
+- Learn from my mistakes
 	- be conscious of mistakes that I have already done
 	- learn why they happened and do my best to never repeat them again
-- look at the price of the delivery
-- [don’t assume it’s difficult until it is](https://news.ycombinator.com/item?id=10872970)
-- simplicity matters
+- Look at the price of the delivery
+- [Don’t assume it’s difficult until it is](https://news.ycombinator.com/item?id=10872970)
+- Simplicity matters
 	- don't overcomplicate things for no reason
-- try to avoid confusion as much as possible
+- Try to avoid confusion as much as possible
 	- don't use anything only you can understand and release it in the public
 - Ask questions
 	- asking questions is a a great thing and being stuck on the same problem or being oblivious how to do some thing is not always a great thing
@@ -78,23 +78,25 @@
 		- nutrition
 	- good state of mind
 	- and all else will follow
+- Experiment often
+	- try out any new ideas I have (it is the only way to see if the idea is any good)
 
 ## Code
-- use switch cases over long ifs
-- it’s a lot easier to actually just use one screen
+- Use switch cases over long ifs
+- It’s a lot easier to actually just use one screen
 	- much easier to context switch
-- use version control
+- Use version control
 	- and commit your changes
 	- it is a pain to reverse and fix things when you don't know where the problem is
 	- do __atomic__ commits
-- write proper commit messages
-- comment over my code!
+- Write proper commit messages
+- Comment over my code!
 	- especially zsh functions, makes things easier to read
 
 ## Using Mind maps
-- don’t index information for the sake of indexing
+- Don’t index information for the sake of indexing
 	- try to see how this piece of knowledge plays a role in on a more higher level
-- be smart about how to present information in the mind maps
+- Be smart about how to present information in the mind maps
 	- it should be more of a guide and a glue between different things rather than as a way to dump everything in one single file
 
 ## Productivity

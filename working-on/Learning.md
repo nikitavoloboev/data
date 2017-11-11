@@ -1,7 +1,7 @@
 # Learning
 > -\> after the name shows what I am currently using to learn the thing
 
-> words inside () show my reason to learn the thing 
+> words inside () show my reason to learn it
 
 ## Learning now
 - [Go](../programming-languages/go/Go.md) (make tools)

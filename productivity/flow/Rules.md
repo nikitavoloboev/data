@@ -10,6 +10,8 @@ Some simple rules to follow for myself doing things.
 - Describe links on the same line with `-` separator (if needs more description, then sub dash)
 - Don't repeat myself or anyone else
 	- if something has already been said either by me or someone else, link to it
+- Interlink entries between each other often within wiki where necessary 
+	- don't over do it
 
 ## Git
 - Do atomic commits and write proper appropriate commit messages
@@ -37,6 +39,8 @@ Some simple rules to follow for myself doing things.
 - Add image or logo if possible to visually show the workflow / library in action
 - Don't link to Imgur images as links, render them in the GitHub README itself
 - In screenshots of Alfred prompts and other prompts, show the cursor
+- Add `Related` section to most repos linking to similar projects either of my own or of other 
+	- not all projects need this
 
 ## Alfred
 - Name triggers with spaces between words (all lowercased)
@@ -114,6 +118,7 @@ Some simple rules to follow for myself doing things.
 ## Reading books
 - Make notes as you read books
 - Review each book you read on Goodreads and add it to an appropriate category 
+	- add the review to [books](../books/Books.md) after
 
 ## Anki
  - Post all my anki decks in the wiki here under [anki decks](../anki/anki-decks.md)
