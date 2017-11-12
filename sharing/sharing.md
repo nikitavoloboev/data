@@ -31,4 +31,4 @@ I also curate some [Imgur albums](https://nikivii.imgur.com) of various things.
 I share everything I know in form of this wiki here. Can be easily queried with the search in top left corner and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
 
 ## [Tracking all the things](../other/Tracking.md)
-I track various things I like and have done [in this wiki](../other/Tracking.md).
+I track various things I like and have done [in this wiki](../sharing/Tracking.md).
