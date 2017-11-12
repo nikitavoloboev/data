@@ -1,11 +1,11 @@
 # TV series I am watching
 Here are TV series I am currently watching or planning to watch soon.
 
-# watching
-- narcos
+## Watching
+- Narcos
 
-# watch next
-- hannibal
-- twin peaks
-- bates motel
-- hemlock grove
+## Watch next
+- Hannibal
+- Twin peaks
+- Bates motel
+- Hemlock grove

@@ -7,6 +7,7 @@
 	* [Learn anything](projects/learn-anything.md)
 	* [Crafting ideas](projects/crafting-ideas.md)
 * [Sharing](sharing/sharing.md)
+	* [Tracking](sharing/Tracking.md)
 * [Working on](working-on/working-on.md)
 	* [Learning](working-on/Learning.md)
 	* [Reading](working-on/Reading.md)
