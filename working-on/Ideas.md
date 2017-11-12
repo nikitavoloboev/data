@@ -20,6 +20,8 @@ Feel free to _steal_ and make any of them yourself. Ideas with 🍀 are ideas I 
 - Workflow to search through all my Facebook friends (if there is API for that)
 - Workflow to search through Product Hunt collections (if there is API)
 - Make a more robust version of [EggTimer](http://www.packal.org/workflow/eggtimer-2) workflow 
+- Workflow to search through all languages and open their trending page (if there is API)
+	- and with modifiers scope the search (today/week/month)
 
 ## Web
 - [Your life as little boxes](https://github.com/nikitavoloboev/boxes)
