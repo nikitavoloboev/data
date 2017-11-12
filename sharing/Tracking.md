@@ -26,4 +26,5 @@ Here is a list of various things I track.
 
 ## Games
 - [Grouevee](https://www.grouvee.com/user/nikivi/) - contains all the [games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) and [games I want to play](https://www.grouvee.com/user/nikivi/shelves/12652-wish-list/?num=25)
+- [Games](../games/Games.md) - contains all the games I have played and my thoughts on them together with my favourite games of all time
 
