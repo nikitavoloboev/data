@@ -6,7 +6,5 @@ Still, I would like to know in some ways thing I do _know_. In my opinion of cou
 I list most of the skills I think I am good at on my [CV](https://stackoverflow.com/cv/nikitavoloboev "CV"). Below however is a more complete list of things _I think_ I know well.
 
 ## I know well
-- Mind maps
-	- I really love this little knowledge transcribing format and I would say I got pretty good at transcribing my thoughts and ideas in it with time
 - Workflow optimisation
-	- I am insanely fast at my computer and my keyboard and I set out myself on the endless path of micro and macro optimisations that I think I am getting better at with every day
+- 
