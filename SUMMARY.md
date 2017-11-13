@@ -177,6 +177,7 @@
 * [Distributed systems](distributed-systems/distributed-systems.md)
 * [Node.js](nodejs/nodejs.md)
 * [Psychology](psychology/Psychology.md)
+	* [Biases](psychology/Biases.md)
 * [Inspiration](inspiration/Inspiration.md)
 * [Startups](startups/Startups.md)
 * [IRC](irc/IRC.md)

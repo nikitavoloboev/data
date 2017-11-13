@@ -54,5 +54,5 @@ Feel free to _steal_ and make any of them yourself. Ideas with 🍀 are ideas I 
 ## GitHub awesome lists
 - Awesome bookmarklets
 
-## Safari extension
+## Safari extensions
 - Open Wiki links in Dictionary macOS app

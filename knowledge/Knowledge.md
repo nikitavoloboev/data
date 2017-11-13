@@ -7,4 +7,3 @@ I list most of the skills I think I am good at on my [CV](https://stackoverflow.
 
 ## I know well
 - Workflow optimisation
-- 
