@@ -8,11 +8,10 @@ I track all the books I have read [here](https://www.goodreads.com/review/list/1
 
 I also make notes on all the books I have read. Below are the books I have covered thus far sorted by the year I read (or started reading) the books in. If there is a review next to the book, that means I have read it. 
 
-🌟 = My favourite books. 
-📖 = I am reading the book now. 
-📕 = I finished reading the book.
-❌ = I didn't finish reading the book. 
-
+- 🌟 = My favourite books. 
+- 📖 = I am reading the book now. 
+- 📕 = I finished reading the book. 
+- ❌ = I didn't finish reading the book. 
 
 ### 2017
  - [Database system concepts](../books/database-system-concepts.md) 📖
