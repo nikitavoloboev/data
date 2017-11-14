@@ -4,7 +4,7 @@ Making computers learn using algorithms and math.
 Still a mystery to me mostly due to my lack of mathematical maturity.
 
 ## Links
-- [LA](https://learn-anything.xyz/machine-learning)
+- [Best way to start with AI](https://news.ycombinator.com/item?id=15689399)
 
 ## Notes
 - A big part of the utility of math (especially in ML) is having breadth rather than depth. The strategy of picking out specific things you don't know from papers and looking them up is only effective if you have the breadth in your background to understand the answers you find.

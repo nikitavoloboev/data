@@ -34,7 +34,7 @@
 - Kubernetes
 - Buddhism
 	- Taoism
-- machine learning
+- Machine Learning -\> [Best way to start with AI](https://news.ycombinator.com/item?id=15689399) 
 - git
 	- git tagging
 - computer networking
