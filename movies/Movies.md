@@ -16,10 +16,4 @@ I made some lists of movies I really liked.
 3. [Thought provoking](https://letterboxd.com/nikitavoloboev/list/thought-provoking/)
 
 ## Movies seen
-I track the movies I have seen on [LetterBoxd](https://letterboxd.com/NikitaVoloboev/) and I often [review some of the movies](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/) I have seen. Below is a big list of movies I have seen with a link to a review if I have written one. Movies with 🌟 were my favourite.
-
-### 2017
-- [John Wick 2](https://letterboxd.com/film/john-wick-chapter-2/)
-- [Almost Famous](https://letterboxd.com/film/almost-famous/) 🌟
-- [Baby Driver](https://letterboxd.com/film/baby-driver/) 🌟
-- [Miss Sloane](https://letterboxd.com/film/miss-sloane/)
+I track the movies I have seen on [LetterBoxd](https://letterboxd.com/NikitaVoloboev/) and I often [review some of the movies](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/) I have seen. 
