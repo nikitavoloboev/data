@@ -4,7 +4,7 @@ Here is a list of various things I track.
 ## Books
 - [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev) - contains a list of all the [books I have finished reading](https://www.goodreads.com/review/list/15768482?shelf=read) and reviews on all of the books I read
 - [Books](../books/Books.md) - contains all of the books I have started reading, read and finished together with a link to the notes I made on each of the books and my reviews
-- [Reading](../working-on/Reading.md) - contains all the books I am reading now and planning to read soon
+- [Reading Books](../working-on/reading-books.md) - contains all the books I am reading now and planning to read soon
 
 ## Movies
 - [Letterboxd](https://letterboxd.com/NikitaVoloboev/) - contains all the movies [I want to watch](https://letterboxd.com/nikitavoloboev/watchlist/) as well all the [movies I have seen](https://letterboxd.com/nikitavoloboev/films/) together with [all the reviews I have written](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/) and various movie collections I have made and shared

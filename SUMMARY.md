@@ -11,7 +11,7 @@
 * [Working on](working-on/working-on.md)
 	* [Learning](working-on/Learning.md)
 	* [Reading books](working-on/reading-books.md)
-	* [Reading Papers](working-on/reading-papers.md)
+	* [Reading papers](working-on/reading-papers.md)
 	* [Courses](working-on/courses.md)
 	* [Ideas](working-on/Ideas.md)
 * [Knowledge](knowledge/Knowledge.md)

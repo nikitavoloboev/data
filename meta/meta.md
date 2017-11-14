@@ -8,7 +8,7 @@ Each folder is a topic that can include other topics under it related to the par
 I also really love using night mode. You can switch to it from here if you haven't :
 ![](https://i.imgur.com/k6EDR4K.png)
 
-If this is your first time visiting this wiki, you can just start reading from the top entry down and see what sparks your interest. The top folders include content that is often changing which includes [projects](../projects/Projects.md) I am working on, [things I am working on right now](../working-on/working-on.md), things I am [learning](../working-on/Learning.md) and [reading](../working-on/Reading.md) and [some ideas](../working-on/Ideas.md) I have that I don't have time or skill to work on. 
+If this is your first time visiting this wiki, you can just start reading from the top entry down and see what sparks your interest. The top folders include content that is often changing which includes [projects](../projects/Projects.md) I am working on, [things I am working on right now](../working-on/working-on.md), things I am [learning](../working-on/Learning.md) and [reading](../working-on/reading-books.md) and [some ideas](../working-on/Ideas.md) I have that I don't have time or skill to work on. 
 
 I will be updating this wiki quite often as I use it myself daily both to keep an account of things I know as well as things I want to know and everything in-between.
 
@@ -36,4 +36,3 @@ The structure of each of the posts will often look roughly like this :
 Aside from this wiki, I also share [various mind maps I have made](./my-mind.md).
 
 If you are interested in how I maintain and write this wiki, I wrote about it in detail [here](../other/wiki-workflow.md).
-

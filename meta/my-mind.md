@@ -1,5 +1,5 @@
 # [My mind](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3 "My Mind")
-![](https://i.imgur.com/iYLwzFl.png)
+![](https://i.imgur.com/riNWYpk.png)
 
 Aside from this wiki. I also heavily use and update my interactive mind maps. which are all connected in a way that makes sense to me. 
 
