@@ -196,6 +196,7 @@
 	* [Watching](tv-series/watching-series.md)
 * [Courses](courses/Courses.md)
 * [Research papers](research-papers/research-papers.md)
+* [Short Stories](short-stories/short-stories.md)
 * [Books](books/Books.md)
 	* [Go in action](books/go-in-action.md)
 	* [AI - Modern Approach](books/ai-modern-approach.md)

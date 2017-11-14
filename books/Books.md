@@ -34,6 +34,18 @@ I also make notes on all the books I have read. Below are the books I have cover
 - [Eloquent ruby](../books/eloquent-ruby.md) ❌
 - [Confident ruby](../books/confident-ruby.md) ❌
 - [University physics with modern physics](../books/university-physics-with-modern-physics.md) ❌
+- Heart of a Dog - 📕
+- You Don't Know JS: Up & Going 📕
+
+### 2015
+- Logical Reasoning: A First Course ❌
+
+### 2014
+- Roadside Picnic - 📕
+- A Thousand Tiny Failures: Memoirs of a Pickup Artist 📕 - [Review](https://www.goodreads.com/review/show/919954441)
+
+### 2013
+- The Master and Margarita 📕🌟 - [Review](https://www.goodreads.com/review/show/583056473)
 
 ### 2012
 - The Picture of Dorian Gray 📕🌟
