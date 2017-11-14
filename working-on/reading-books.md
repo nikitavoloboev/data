@@ -1,4 +1,4 @@
-# Reading
+# Reading books
 - [Network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - Thinking fast and slow
