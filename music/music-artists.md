@@ -10,3 +10,5 @@ But there is many more. [Here](https://my.mindnode.com/t9622zX2emWC3HxLNkFebMzux
 ## Favourite artists
 - Crooked Colours
 
+## Interesting artists
+- Ifan Dafydd

@@ -22,6 +22,7 @@
 - Hugo (improve my site) 
 - Bash (automation)
 - Psychology
+- Chess
 
 ## Learn next
 - [Haskell](../programming-languages/Haskell.md) 
@@ -55,7 +56,6 @@
 - hammerspoon
 	- [spoons](https://github.com/Hammerspoon/hammerspoon/blob/master/SPOONS.md#what-is-a-spoon)
 - pixelmator
-- chess
 - go game
 - IPFS
 	- [go IPFS](https://dist.ipfs.io/#go-ipfs)

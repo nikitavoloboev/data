@@ -1,8 +1,8 @@
 # Reading books
 ## Reading now
-- [Network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
-- [Category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
-- Thinking fast and slow
+- [Network programming in Go](../books/network-programming-in-go.md)
+- [Category theory for programmers](../books/category-theory-for-programmers.md)
+- [Thinking fast and slow](../books/thinking-fast-and-slow.md)
 - [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
 
 You can see the books I have read already as well as all the notes I have made on these books [here](../books/Books.md).

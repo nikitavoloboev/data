@@ -19,3 +19,4 @@ I hope you get the idea for how powerful both Karabiner and this way of visualis
 
 ## Notes
 - [interesting setup](https://github.com/dunkarooftop/thought/blob/master/keymaps.org)
+- [Karabiner Elements documentation](https://qiita.com/s-show/items/a1fd228b04801477729c) (in Japanese)
