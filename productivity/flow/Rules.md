@@ -99,6 +99,7 @@ Some simple rules to follow for myself doing things.
 	- share it in the wiki (or hopefully soon in crafting ideas)
 
 ## Capitalising things
+- Normal sentences
 - Main dashed points
 	- sub dash points (like this one) don't have to be capitalised
 - Headings
@@ -106,7 +107,6 @@ Some simple rules to follow for myself doing things.
 - All GitHub issues and PRs
 - Nodes in my mind
 - Alfred workflows
-- Normal other sentences
 - Comments in Snippets of SnippetsLab
 
 ## Ship app
@@ -140,4 +140,4 @@ Some simple rules to follow for myself doing things.
 
 ## Focus
 - Be very aggressive in cutting any kind of distractions when working 
-	- look at where I spend my time in Timing and cut those out with Focus and scripts 
+	- look at where I spend my time in Timing and cut those out with Focus and scripts
