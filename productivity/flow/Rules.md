@@ -99,15 +99,12 @@ Some simple rules to follow for myself doing things.
 	- share it in the wiki (or hopefully soon in crafting ideas)
 
 ## Capitalising things
-- Normal sentences
-- Main dashed points
-	- sub dash points (like this one) don't have to be capitalised
-- Headings
-- GitHub descriptions
-- All GitHub issues and PRs
-- Nodes in my mind
-- Alfred workflows
-- Comments in Snippets of SnippetsLab
+- Capitalise everything where appropriate (Sentences / Headings / Alfred workflows / GitHub descriptions / GitHub issues and PRs / Comments in SnippetsLab / Main dashed points / ..)
+
+## Don't capitalise
+- Sub dash points 
+	- like this one
+- KM macros and groups
 
 ## Ship app
 - Prioritise repos in the sidebar

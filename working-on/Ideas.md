@@ -56,3 +56,7 @@ Feel free to _steal_ and make any of them yourself. Ideas with 🍀 are ideas I 
 
 ## Safari extensions
 - Open Wiki links in Dictionary macOS app
+
+## KM macros
+- Macro to move selected macro(s) to another group (give a searchable list of options)
+- Macro to move a macro to `_examples` group and provide a prompt for a custom name
