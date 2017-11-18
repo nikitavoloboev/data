@@ -13,3 +13,6 @@ My workflow is always changing but currently it consists of the following.
 ## Knowledge Indexing
 - SnippetsLab - snippets of code / snippets of knowledge (facts/reference)
 	- all embedded into my wiki
+
+## Photographs
+- Personal images in Photos and other images in [Pixave](../macOS/apps/Pixave.md)

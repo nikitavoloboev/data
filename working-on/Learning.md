@@ -12,13 +12,13 @@
 	- CSS
 - Networking (make sites) -\> [Network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
 - [Vim](../text-editors/Vim.md) (be faster)
-- [Operating systems](../operating-systems/operating-systems.md) -\> [three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Operating systems](../operating-systems/operating-systems.md) -\> [Three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - Memcached
 - [next.js](https://learnnextjs.com/basics/getting-started) (build sites)
 - [Math](../math/Math.md) (new concepts)
 	- Lambda calculus
 	- Type theory 
-	- Category theory -\> [category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+	- Category theory -\> [Category theory for programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - Hugo (improve my site) 
 - Bash (automation)
 - Psychology
@@ -32,7 +32,7 @@
 - music -\> [get started making music](https://learningmusic.ableton.com/)
 	- guitar 
 	- electronic music
-- Kubernetes
+- Kubernetes -\> [What happens when I type kubectl run](https://github.com/jamiehannaford/what-happens-when-k8s)
 - Buddhism
 	- Taoism
 - Machine Learning -\> [Best way to start with AI](https://news.ycombinator.com/item?id=15689399) 
