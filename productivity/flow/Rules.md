@@ -52,6 +52,7 @@ Some simple rules to follow for myself doing things.
 
 ## Writing
 - Use proper punctuation and capitalise things appropriately
+- When adding `:`, don't add space beforehand
 
 ## Social Networks
 - Only add people I really know on Facebook 
