@@ -31,6 +31,7 @@ Feel free to _steal_ and make any of them yourself. Ideas with 🍀 are ideas I 
 	- i.e. select some python code in an editor and it will pass that code into a REPL
 - Search Godoc from Alfred with autosuggestions (if there is API)
 - Save some GitHub topics tags into Sqlite for fast access similar to [this](https://github.com/deanishe/awgo/blob/master/update/github.go)
+- Download Soundcloud songs to Desktop (given URL, download the song or check user's favourite songs and download any of the songs from there)
 
 ## Web
 - [Your life as little boxes](https://github.com/nikitavoloboev/boxes)
