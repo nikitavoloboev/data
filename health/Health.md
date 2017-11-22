@@ -7,21 +7,24 @@ Frankly even when I do know all that I still have many habits that actually go a
 
 In any way, this is something I am working on and hopefully improving with every passing day. I am happy to say though that I don't have any really unhealthy habits like smoking or drinking. Those two don't really make sense to me. 
 
-# Improving my health
+## Improving my health
 Here are some things I am trying to improve with my health right now. 
 
-# Posture
+### Posture
 I spend the most of my conscious time near my computer for better or worse. I need to get into the habit of being aware of my posture when I do that. 
 
 I actually tried my own hacked version of a standing desk once and I really loved it. One day, when I get some money, I would love to get a proper standing desk for myself.
 
-# Nutrition
+### Nutrition
 I cover nutrition in more depth [here](../nutrition/Nutrition.md). 
 
-# Stress
+### Stress
 Stress shortens telomeres. Practicing [mindfulness](../mindfulness/Mindfulness.md) helps greatly in maintaining a healthy and stress free outlook on life. 
 
-# Dental care
+### Proper Sleep
+Ideally going to sleep and waking up at the same time to keep the Circadian rhythm up. With \~ 7-8 hours of sleep each night.
+
+### Dental care
 Brushing my teeth every evening and morning as well as flossing it few times throughout the day. At least some things are simple in life. 
 
 

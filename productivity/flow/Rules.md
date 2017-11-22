@@ -100,7 +100,7 @@ Some simple rules to follow for myself doing things.
 	- share it in the wiki (or hopefully soon in crafting ideas)
 
 ## Capitalising things
-- Capitalise everything where appropriate (Sentences / Headings / Alfred workflows / GitHub descriptions / GitHub issues and PRs / Comments in SnippetsLab / Main dashed points / ..)
+- Capitalise everything where appropriate (Sentences / Headings / Alfred workflows / GitHub descriptions / GitHub issues and PRs / Comments in SnippetsLab / Main dashed points / Tweets / ..)
 
 ## Don't capitalise
 - Sub dash points 

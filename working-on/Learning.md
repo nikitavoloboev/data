@@ -12,7 +12,7 @@
 	- CSS
 - Networking (make sites) -\> [Network programming in Go](http://tumregels.github.io/Network-Programming-with-Go/)
 	- HTTP -\> [Know your HTTP well](https://github.com/for-GET/know-your-http-well)
-- [Vim](../text-editors/Vim.md) (be faster)
+- [Vim](../text-editors/vim/Vim.md) (be faster)
 - [Operating systems](../operating-systems/operating-systems.md) -\> [Three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - Memcached
 - [next.js](https://learnnextjs.com/basics/getting-started) (build sites)

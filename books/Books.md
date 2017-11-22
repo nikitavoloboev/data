@@ -24,7 +24,7 @@ I make notes on all the books I have read. Below are the books I have covered th
 - [Mindstorms](../books/Mindstorms.md) ❌
 - [Rich dad poor dad](../books/rich-dad-poor-dad.md) ❌
 - [Elements of programming interviews](../books/elements-of-programming-interviews.md) ❌
-- [Crafting interpreters](../projects/crafting-ideas.md) ❌
+- [Crafting interpreters](../books/crafting-interpreters.md) ❌
 - [Flowers of Algernon](../books/flowers-for-algernon.md) 📕🌟 - [Review](https://www.goodreads.com/review/show/782624446) 
 - [Brave new world](../books/brave-new-world.md) ❌
 - [Cracking the coding interview](../books/cracking-the-coding-interview.md) ❌

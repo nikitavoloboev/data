@@ -190,6 +190,7 @@
 	* [ngrok](cli/Ngrok.md)
 	* [docker](cli/Docker.md)
 * [Humans](humans/Humans.md)
+	* [Alan Watts](humans/alan-watts.md)
 * [Quotes](quotes/Quotes.md)
 * [Podcasts](podcasts/Podcasts.md)
 * [Movies](movies/Movies.md)

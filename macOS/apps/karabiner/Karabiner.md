@@ -17,7 +17,11 @@ Mind Maps are pretty awesome because I can literally map my modifier mappings an
 ![](https://i.imgur.com/4yk23Be.png)
 I hope you get the idea for how powerful both Karabiner and this way of visualising bindings is. And you will make and share your own private.xml config file or .json file if you are using [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements).
 
+## Links
+- My detailed post on Alfred forum mentioning how I use Karabiner
+
 ## Notes
 - [Interesting setup](https://github.com/dunkarooftop/thought/blob/master/keymaps.org)
 - [Karabiner Elements documentation](https://qiita.com/s-show/items/a1fd228b04801477729c) (in Japanese)
 - [Tekezo's launcher mode](https://github.com/pqrs-org/KE-complex_modifications/pull/206/files)
+- [Karabiner.json reference manual](https://pqrs.org/osx/karabiner/json.html)

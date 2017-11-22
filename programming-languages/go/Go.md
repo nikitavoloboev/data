@@ -22,3 +22,4 @@ Go promotes composition over inheritance.
 - Note that any type implements the empty interface interface{} because it doesn't have any methods and all types have zero methods by default
 - Simply pushing my source code to GitHub, makes it `go get`table.
 - Interface types represent fixed sets of methods
+- the prevailing wisdom in Go is to use a flat directory structure and only create new directories when you are building self-contained functionality

@@ -6,3 +6,6 @@ My biggest rule I try to follow is to live by my 2Do task manager. And work thro
 I then use [EggTimer workflow](https://www.alfredforum.com/topic/275-eggtimer-v2-updated-to-20-final/?tab=comments#comment-1117) to run the timer. And I activate [Focus](https://heyfocus.com) and work.
 
 I also stopped using external monitors and only use one screen as I found multiple monitors to be a distraction for me.
+
+## Notes
+- You can't manage projects; you can only manage actions related to projects.
