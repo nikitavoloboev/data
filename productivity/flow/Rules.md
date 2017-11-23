@@ -139,3 +139,9 @@ Some simple rules to follow for myself doing things.
 ## Focus
 - Be very aggressive in cutting any kind of distractions when working 
 	- look at where I spend my time in Timing and cut those out with Focus and scripts
+
+## Airmail
+- Action on all emails and keep Inbox 0 at all times
+- Archive emails if I want them to be searchable later 
+	- delete emails otherwise
+- Label all emails accordingly (if it is appropriate) 
