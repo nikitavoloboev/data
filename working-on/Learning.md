@@ -24,6 +24,7 @@
 - Bash (automation)
 - Psychology
 - Chess
+- CircleCI
 
 ## Learn next
 - [Haskell](../programming-languages/Haskell.md) 

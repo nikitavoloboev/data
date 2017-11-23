@@ -1,5 +1,5 @@
 # YouTube
-[Here](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view_as=subscriber) you can find all the YouTube playlists I made and shared and below is a full list of all of these playlists :
+[Here](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view_as=subscriber) you can find all the YouTube playlists I made and shared and below is a full list of all of these playlist:
 - [Good music](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) - all the music I like 
 - [Vaporware](https://www.youtube.com/playlist?list=PL0nGxteCFLXapia7BObp8ehDADOq1l5sB)
 - [Movie clips](https://www.youtube.com/playlist?list=PL0nGxteCFLXYniLU1UARhkvtSGunUS_rh)
@@ -11,4 +11,3 @@
 - [Computer Science](https://www.youtube.com/playlist?list=PL0nGxteCFLXaUij9ThDr-mmt0MMF-9xVg)
 - [Favourite Talks](https://www.youtube.com/playlist?list=PL0nGxteCFLXb4XV7jEwkGbEc3v2mraFwo)
 - [Futurology](https://www.youtube.com/playlist?list=PL0nGxteCFLXYO0hdKQYZ_mEmfO1jsl-sA)
-

@@ -139,7 +139,7 @@
 	* [Skin care](health/skin-care.md)
 * [Fitness](fitness/Fitness.md)
 * [Anki](anki/Anki.md)
-	* [Anki decks](anki/anki-decks.md)
+	* [Anki decks](anki/anki-decks/anki-decks.md)
 * [Philosophy](philosophy/philosophy.md)
 	* [Simulated reality](philosophy/simulated-reality.md)
 * [Machine learning](machine-learning/machine-learning.md)
