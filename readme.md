@@ -1,4 +1,4 @@
-# [My Knowledge Index 📚](https://nikitavoloboev.gitbooks.io/knowledge/content/) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/nikitavoloboev)
+# [My Knowledge Index 📚](https://nikitavoloboev.gitbooks.io/knowledge/content/) 
 This is my personal wiki where I share everything I know about this world in form of an [online GitBook](https://nikitavoloboev.gitbooks.io/knowledge/content/).
 
 If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals in a lot of detail.
