@@ -9,3 +9,10 @@ I am focusing on these things currently.
 - Implementing [ideas I have](./Ideas.md)
 - Making the first working version of [Crafting Ideas](../projects/crafting-ideas.md)
 
+## Reading 
+### [Books](https://trello.com/b/MOrnm2aN)
+You can see a board of books I am currently reading as well as books I want to read [here](https://trello.com/b/MOrnm2aN). I make notes on all the books I have read, and you can read the books I have read [here](../books/Books.md).
+
+### Research papers
+
+
