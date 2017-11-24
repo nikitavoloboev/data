@@ -42,6 +42,7 @@ Some simple rules to follow for myself doing things.
 - In screenshots of Alfred prompts and other prompts, show the cursor
 - Add `Related` section to most repos linking to similar projects either of my own or of other 
 	- not all projects need this
+- Don't add Thank You clause in `idea` stage projects
 
 ## Alfred
 - Name triggers with spaces between words (all lowercased)
