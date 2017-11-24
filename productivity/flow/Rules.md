@@ -34,6 +34,7 @@ Some simple rules to follow for myself doing things.
 ## GitHub README
 - Use HTML for rendering images as I have more control on the size and things
 - Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links)
+	- don't repeat what is said in the quote in the description underneath the quote
 - If the readme is long enough, add a table of contents
 - Don't add anything that is not needed and focus on the content
 - Add image or logo if possible to visually show the workflow / library in action
@@ -144,4 +145,8 @@ Some simple rules to follow for myself doing things.
 - Action on all emails and keep Inbox 0 at all times
 - Archive emails if I want them to be searchable later 
 	- delete emails otherwise
-- Label all emails accordingly (if it is appropriate) 
+- Label all emails accordingly (if it is appropriate)
+
+## Licensing
+- License my own code under MIT
+- License curated lists and other things under [CC1](https://creativecommons.org/publicdomain/zero/1.0/) 
