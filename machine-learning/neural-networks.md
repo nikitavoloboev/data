@@ -2,7 +2,7 @@
 [This](https://www.youtube.com/watch?v=aircAruvnKk&feature=youtu.be) is a great introduction. Still learning.
 
 ## Links
-- [LA](https://learn-anything.xyz/machine-learning/neural-networks)
+- [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900)
 
 ## Notes
 - Neural Networks are really good at identifying patterns in data. As a classic example, if you wanted to predict housing prices, you could build a data set that maps features about houses (square feet, location, proximity to Caltrain, etc) onto their actual price, and then train a network to recognize the complex relationship between features and pricing. Training happens by feeding the network features, letting it make a guess about the price, and then correcting the guess (backpropagation).
