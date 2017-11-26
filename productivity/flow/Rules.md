@@ -151,3 +151,4 @@ Some simple rules to follow for myself doing things.
 ## Licensing
 - License my own code under MIT
 - License curated lists and other things under [CC1](https://creativecommons.org/publicdomain/zero/1.0/) 
+
