@@ -24,7 +24,7 @@ I made a repo [here](https://github.com/nikitavoloboev/my-mac-os) where I cover 
 Aside from my Blog, I heavily share nearly everything I know about this world in this wiki here so you can explore and see what you like. If you did get the Powerpack for Alfred, you can even install [my own workflow](https://github.com/nikitavoloboev/alfred-my-mind) and easily search through entirety of both this wiki, [my mind maps](../meta/my-mind.md) and everything I have made or did. The big idea behind thiss workflow and my other creations is to do things in a way that anyone else can use these same things I am using.
 
 ## That's it
-I do think that if you do some or all of these four steps, you may find something interesting that you can use and apply in your life. The big thing for me that really made my life quite a lot better was [Karabiner](../macOS/apps/karabiner/Karabiner.md) so if you didn't get anything from this, I hope I made you at least look into this program because it is seriously awesome.
+I do think that if you do some or all of these four steps, you may find something interesting that you can use and apply in your life. The big thing for me that really made my life quite a lot better was [Karabiner](../macOS/apps/karabiner/Karabiner.md) so if you didn't get anything from this, I hope I at least made you look into this program because it is seriously awesome.
 
 If you are interested in keeping in touch with some other things I am working on or learning, I am very active on [Twitter](https://twitter.com/nikitavoloboev).
 
