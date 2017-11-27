@@ -55,6 +55,9 @@ Some simple rules to follow for myself doing things.
 ## Writing
 - Use proper punctuation and capitalise things appropriately
 - When adding `:`, don't add space beforehand
+- Remove unnecessary words
+	- if something can be said in less words, say it in less words
+	- always try to be clear and to the point
 
 ## Social Networks
 - Only add people I really know on Facebook 
@@ -152,4 +155,3 @@ Some simple rules to follow for myself doing things.
 ## Licensing
 - License my own code under MIT
 - License curated lists and other things under [CC1](https://creativecommons.org/publicdomain/zero/1.0/) 
-
