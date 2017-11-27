@@ -22,11 +22,11 @@ Here is a list of various things I track.
 - [Last.fm](https://www.last.fm/user/playfullyExist) - contains music I am listening to now and music I listened to in the past
 
 ## Coding
-- [Wakatime](https://wakatime.com/@nikivi) - contains the ratio of all thdifferent languages I used this week together with the editors I used
+- [Wakatime](https://wakatime.com/@nikivi) - contains the ratio of different programming languages I used this week together with the editors I used
 
 ## Games
-- [Grouevee](https://www.grouvee.com/user/nikivi/) - contains all the [games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) and [games I want to play](https://www.grouvee.com/user/nikivi/shelves/12652-wish-list/?num=25)
-- [Games](../games/Games.md) - contains all the games I have played and my thoughts on them together with my favourite games of all time
+- [Grouevee](https://www.grouvee.com/user/nikivi/) - contains [games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) and [games I want to play](https://www.grouvee.com/user/nikivi/shelves/12652-wish-list/?num=25)
+- [Games](../games/Games.md) - contains games I have played and my thoughts on them together with my favourite games of all time
 - [Playing Games](https://trello.com/b/EekGabpj) - contains games I am playing now and want to play in the futre
 
 ## Videos
