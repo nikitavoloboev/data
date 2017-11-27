@@ -9,6 +9,3 @@ I will be using certain abbreviations for things that I may be repeating often. 
 
 ## Years
 I often add a year in brackets to some articles or talks like `(2017)` which stands for the year in which that article or talk was given in.
-
-## Karabiner mappings
-I may often say something like `which I binded to a + k` which means I binded some action with Karabiner to `a` modifier key held down + k. For what means, you can read [this](../macOS/apps/karabiner/Karabiner.md).

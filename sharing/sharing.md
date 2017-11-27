@@ -23,7 +23,7 @@ I sometimes stream some of the things I am working on for fun on [Twitch](https:
 ## [Curated Images on Imgur](https://nikivii.imgur.com)
 I also curate many [Imgur albums](https://nikivii.imgur.com) of various things.
 
-## Ideas
+## [Ideas](https://trello.com/b/alB1ryRP)
 My time is limited and I can't often do everything I wish. But I have many ideas so I put all of them in the open [here](https://trello.com/b/alB1ryRP). I hope to build [Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas) soon and will keep them there after.
 
 ## [Things I track](./Tracking.md)
