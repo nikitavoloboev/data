@@ -9,7 +9,6 @@
 * [Sharing](sharing/sharing.md)
 	* [Tracking](sharing/Tracking.md)
 * [Working on](working-on/working-on.md)
-	* [Learning](working-on/Learning.md)
 	* [Reading books](working-on/reading-books.md)
 	* [Reading papers](working-on/reading-papers.md)
 	* [Courses](working-on/courses.md)

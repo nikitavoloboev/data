@@ -108,7 +108,7 @@
 
 ## Asking questions
 - When posting an error or an issue on some forum or GitHub, give as much information as you can to help debug it
-	- in the case of posting an issue with an Alfred workflow, it is best to link to the workflow you are using and also link what the debugger sa
+	- in the case of posting an issue with an Alfred workflow, it is best to link to the workflow you are using and also link what the debugger says when you are running into the issue 
 
 ## Design
 - Giving users many options is more often a bad idea
