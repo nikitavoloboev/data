@@ -106,10 +106,14 @@
 	- i.e. mind maps are great for visualising things so don't use them to dump things inside to filter for things
 	- you can use simple markdown and text files for that where it is easier to maintain and extend
 
-## Other
-- When proposing feature requests, _"for me"_ is never a good argument for a feature request
-	- if you want someone to add a feature to their software, show how it would be useful to lots of users
+## Asking questions
+- When posting an error or an issue on some forum or GitHub, give as much information as you can to help debug it
+	- in the case of posting an issue with an Alfred workflow, it is best to link to the workflow you are using and also link what the debugger sa
 
 ## Design
 - Giving users many options is more often a bad idea
 	- instead give very few options but make each one of them count and stand out
+
+## Other
+- When proposing feature requests, _"for me"_ is never a good argument for a feature request
+	- if you want someone to add a feature to their software, show how it would be useful to lots of users

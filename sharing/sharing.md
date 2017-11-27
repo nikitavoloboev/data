@@ -15,7 +15,7 @@ I like to share small photos and stories from my life there. I also curate a sma
 I am currently not writing any music of my own although I am learning. I do however share many of the songs I like in [form of playlists](../music/music-plays.md). 
 
 ## [Videos on Youtube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
-I mostly makes videos about macOS automation as that is what interests me. I map all the videos I have made as a map [here](https://my.mindnode.com/1TFgMjvqLR63KyTzBNL7o9oQbNVEuPvLJg6f7XxM#219.0,80.7,2).
+I mostly make videos about macOS automation. I map all the videos I have made as a map [here](https://my.mindnode.com/1TFgMjvqLR63KyTzBNL7o9oQbNVEuPvLJg6f7XxM#219.0,80.7,2).
 
 ## [Streaming on Twitch](https://www.twitch.tv/nikiivi)
 I sometimes stream some of the things I am working on for fun on [Twitch](https://www.twitch.tv/nikiivi). I try to explain things as I do them. 

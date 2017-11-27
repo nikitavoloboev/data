@@ -85,6 +85,7 @@ Some simple rules to follow for myself doing things.
 - Create smart group for each new prefix I add
 - Add correct language syntax to every snippet
 - Don't strip prefixes in snippets when sharing Gists
+- Prefer to use comments in the code itself rather than notes (easier to follow)
 
 ## Planning
 - Plan the next day fully in advance in the calendar
