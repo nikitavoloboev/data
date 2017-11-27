@@ -32,7 +32,7 @@ I try to make my own workflow in doing things be as _transparent_ as possible an
 ## [Things I track](./Tracking.md)
 I love tracking various things for my own reference. [Here](./Tracking.md) you can find a big list of everything I track and where.
 
-## [Knowledge](https://nikitavoloboev.gitbooks.io/knowledge/content/)
+## [Knowledge in this wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/)
 I share everything I know in form of this wiki here. Can be easily queried with the search in top left corner and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow. 
 
 I also try to [answer questions](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile) on various stack exchanges and [Reddit](https://www.reddit.com/user/nikivi/).
