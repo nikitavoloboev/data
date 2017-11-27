@@ -1,5 +1,5 @@
 # Tracking
-Here is a list of various things I track.
+Here is a list of various things I track for my own use and reference.
 
 ## Books
 - [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev) - contains a list of [books I have finished reading](https://www.goodreads.com/review/list/15768482?shelf=read) and reviews on all of the books I read
