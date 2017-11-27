@@ -6,6 +6,7 @@
 * [Working on](working-on/working-on.md)
 * [Sharing](sharing/sharing.md)
 	* [Tracking](sharing/Tracking.md)
+	* [My workflow](sharing/my-workflow.md)
 * [Projects](projects/Projects.md)
 	* [Learn anything](projects/learn-anything.md)
 	* [Crafting ideas](projects/crafting-ideas.md)
