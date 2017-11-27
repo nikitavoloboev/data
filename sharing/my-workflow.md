@@ -17,11 +17,11 @@ Some articles I wrote are more actionable and focused on a specific topic, other
 ## 2. Explore my GitHub repositories (\~ 1 hour)
 I try make this step super easy to do too as you can simply explore all the repositories I made and shared [here](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0). Again, you can just read the descriptions of these repos in that interactive map itself and see what you find interesting. 
 
-## 3. Use my macOS tools and workflows I made (\~ 1 hour)
+## 3. Use macOS tools and workflows I made (\~ 1 hour)
 I made a repo [here](https://github.com/nikitavoloboev/my-mac-os) where I cover everything I use on my macOS system in great detail. I share everything I use including [hundreds of Keyboard Maestro macros](https://github.com/nikitavoloboev/my-mac-os/tree/master/km) and the various [amazing Alfred workflows](https://github.com/learn-anything/alfred-workflows) that you can simply explore and see what you find interesting.
 
 ## 4. Read or Search through my wiki here (\~ 2 hours)
-Aside from the Blog, I heavily share nearly everything I know about this world in this wiki here so you can explore and see what you like. If you did get the Powerpack for Alfred, you can even install [my own workflow](https://github.com/nikitavoloboev/alfred-my-mind) and most easily search through entirety of both this wiki, [my mind maps](../meta/my-mind.md) and everything I have made or did. The big idea behind this workflow and my other creations is to do things in a way that anyone else can use these same things if they so wished.
+Aside from my Blog, I heavily share nearly everything I know about this world in this wiki here so you can explore and see what you like. If you did get the Powerpack for Alfred, you can even install [my own workflow](https://github.com/nikitavoloboev/alfred-my-mind) and easily search through entirety of both this wiki, [my mind maps](../meta/my-mind.md) and everything I have made or did. The big idea behind this workflow and my other creations is to do things in a way that anyone else can use these same things if they so wished.
 
 ## That's it
 I do think that if you do some or all of these four steps, you may find something interesting that you can use and apply in your life. The big thing for me that really made my life quite a lot better was [Karabiner](../macOS/apps/karabiner/Karabiner.md) so if you didn't get anything from this, I hope I made you at least look into this program because it is seriously awesome.
