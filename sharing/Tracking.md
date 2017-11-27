@@ -30,4 +30,8 @@ Here is a list of various things I track for my own use and reference.
 - [Playing Games](https://trello.com/b/EekGabpj) - contains games I am playing now and want to play in the futre
 
 ## Videos
-- [YouTube](../other/YouTube.md) - contains various YouTube playlists I made and shared
+- [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists) - contains various YouTube playlists I made and shared
+
+## Personal
+- [Ideas](https://trello.com/b/alB1ryRP) - contains ideas I have that I don't have time/skill to work on yet
+- [Things to try](https://trello.com/b/tkaqFKYa) - contains things I want to try do or make in my limited life

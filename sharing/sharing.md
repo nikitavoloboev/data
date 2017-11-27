@@ -15,7 +15,7 @@ I like to share small photos and stories from my life there. I also curate a sma
 I am currently not writing any music of my own although I am learning. I do however share many of the songs I like in [form of playlists](../music/music-plays.md). You can see music I am listening to now [here](https://www.last.fm/user/playfullyExist).
 
 ## [Videos on Youtube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
-I mostly make videos about macOS automation. I map all the videos I have made as a map [here](https://my.mindnode.com/1TFgMjvqLR63KyTzBNL7o9oQbNVEuPvLJg6f7XxM#219.0,80.7,2).
+I mostly make videos about macOS automation. I map all the videos I have made as a map [here](https://my.mindnode.com/1TFgMjvqLR63KyTzBNL7o9oQbNVEuPvLJg6f7XxM#219.0,80.7,2). I also share [many playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view_as=subscriber) I made there.
 
 ## [Streaming on Twitch](https://www.twitch.tv/nikiivi)
 I sometimes stream some of the things I am working on for fun on [Twitch](https://www.twitch.tv/nikiivi). I try to explain things as I do them. 
@@ -25,6 +25,9 @@ I also curate many [Imgur albums](https://nikivii.imgur.com) of various things.
 
 ## Ideas
 My time is limited and I can't often do everything I wish. But I have many ideas so I put all of them in the open [here](https://trello.com/b/alB1ryRP). I hope to build [Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas) soon and will keep them there after.
+
+## [Things I track](./Tracking.md)
+I love tracking various things for my own reference. [Here](./Tracking.md) you can find a big list of everything I track and where.
 
 ## [Knowledge in this wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/)
 I share everything I know in form of this wiki here. Can be easily queried with the search in top left corner and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow. 
