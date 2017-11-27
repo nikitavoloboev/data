@@ -32,6 +32,9 @@ Here is a list of various things I track for my own use and reference.
 ## Videos
 - [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists) - contains various YouTube playlists I made and shared
 
+## Products
+- [Product Hunt](https://www.producthunt.com/@nikitavoloboev/collections) - contains different collections I made of products and things I liked
+
 ## Personal
 - [Ideas](https://trello.com/b/alB1ryRP) - contains ideas I have that I don't have time/skill to work on yet
 - [Things to try](https://trello.com/b/tkaqFKYa) - contains things I want to try do or make in my limited life
