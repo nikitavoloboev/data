@@ -46,7 +46,9 @@ Some simple rules to follow for myself doing things.
 
 ## Alfred
 - Name triggers with spaces between words (all lowercased)
-- Release all my workflows (that have no sensitive information) either in small workflows  or standalone if they contain quite a bit of code
+- Release all my workflows (that have no sensitive information) either in small workflows or standalone if they contain quite a bit of code
+- Add keyword triggers and descriptions to workflows even if I don't use them
+- Name all modi
 
 ## MindNode
 - Use lighter themes for sharing (it's nicer) (and using in general)
@@ -74,7 +76,7 @@ Some simple rules to follow for myself doing things.
 
 ## Working
 - Work to complete the task I have at hand
-- Turn on [Focus block](https://heyfocus.com) when starting a work block and focus fully on the task
+- Turn on [Focus block](https://heyfocus.com) when starting a work block and focus fully on the tasks
 	- adjust the focus list to block even more distractions and tune my workflow to only do the task/s I have
 - Live by my calendar 
 	- assign tasks and blocks of time in advance and work through each of the blocks
