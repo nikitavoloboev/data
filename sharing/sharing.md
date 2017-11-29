@@ -34,5 +34,5 @@ I also try to [answer questions](https://stackoverflow.com/users/3067664/nikita-
 ### [My workflow](./my-workflow.md)
 I try to make my own workflow in doing things be as _transparent_ as possible and I share it fully [here](./my-workflow.md).
 
-## [Things I track](./Tracking.md)
+### [Things I track](./Tracking.md)
 I love tracking various things for my own reference. [Here](./Tracking.md) you can find a big list of everything I track and where.
