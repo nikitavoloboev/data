@@ -20,8 +20,8 @@ I try make this step super easy to do too as you can simply explore all the repo
 ## 3. Use macOS tools and workflows I made (\~ 1 hour)
 I made a repo [here](https://github.com/nikitavoloboev/my-mac-os) where I cover everything I use on my macOS system in great detail. I share everything I use including [hundreds of Keyboard Maestro macros](https://github.com/nikitavoloboev/my-mac-os/tree/master/km) and the various [amazing Alfred workflows](https://github.com/learn-anything/alfred-workflows) that you can simply explore and see what you find interesting.
 
-## 4. Read or Search through my wiki here (\~ 2 hours)
-Aside from my Blog, I heavily share nearly everything I know about this world in this wiki here so you can explore and see what you like. If you did get the Powerpack for Alfred, you can even install [my own workflow](https://github.com/nikitavoloboev/alfred-my-mind) and easily search through entirety of both this wiki, [my mind maps](../meta/my-mind.md) and everything I have made or did. The big idea behind thiss workflow and my other creations is to do things in a way that anyone else can use these same things I am using.
+## 4. Read or Search through my wiki (\~ 2 hours)
+wAside from my Blog, I heavily share nearly everything I know about this world in this wiki here so you can explore and see what you like. If you did get the Powerpack for Alfred, you can even install [my own workflow](https://github.com/nikitavoloboev/alfred-my-mind) and easily search through entirety of both this wiki, [my mind maps](../meta/my-mind.md) and everything I have made or did. The big idea behind this workflow and my other creations is to do things in a way that anyone else can use these same things I am using.
 
 ## That's it
 I do think that if you do some or all of these four steps, you may find something interesting that you can use and apply in your life. The big thing for me that really made my life quite a lot better was [Karabiner](../macOS/apps/karabiner/Karabiner.md) so if you didn't get anything from this, I hope I at least made you look into this program because it is seriously awesome.

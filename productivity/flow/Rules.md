@@ -19,6 +19,7 @@ Some simple rules to follow for myself doing things.
 
 ## Code
 - Comment over my code (be mindful of not repeating things, sometimes code speaks for itself)
+- Uppercase comments for consistency 
 
 ## Karabiner
 - Document any changes I make in Karabiner map instantly in the map (update where necessary)
@@ -35,7 +36,7 @@ Some simple rules to follow for myself doing things.
 - Use HTML for rendering images as I have more control on the size and things
 - Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links)
 	- don't repeat what is said in the quote in the description underneath the quote
-- If the readme is long enough, add a table of contents
+- If the readme is long enough, add a `Contents` table
 - Don't add anything that is not needed and focus on the content
 - Add image or logo if possible to visually show the workflow / library in action
 - Don't link to Imgur images as links, render them in the GitHub README itself
@@ -48,7 +49,7 @@ Some simple rules to follow for myself doing things.
 - Name triggers with spaces between words (all lowercased)
 - Release all my workflows (that have no sensitive information) either in small workflows or standalone if they contain quite a bit of code
 - Add keyword triggers and descriptions to workflows even if I don't use them
-- Name all modi
+- Name all modifier triggers (uppercased)
 
 ## MindNode
 - Use lighter themes for sharing (it's nicer) (and using in general)
@@ -113,7 +114,7 @@ Some simple rules to follow for myself doing things.
 ## Don't capitalise
 - Sub dash points 
 	- like this one
-- KM macros and groups
+- KM groups and macros
 
 ## Ship app
 - Prioritise repos in the sidebar

@@ -23,16 +23,16 @@ I sometimes stream some of the things I am working on for fun on [Twitch](https:
 ## [Curated Images on Imgur](https://nikivii.imgur.com)
 I also curate many [Imgur albums](https://nikivii.imgur.com) of various things.
 
-## [Ideas](https://trello.com/b/alB1ryRP)
+## [Ideas in Trello](https://trello.com/b/alB1ryRP)
 My time is limited and I can't often do everything I wish. But I have many ideas so I put all of them in the open [here](https://trello.com/b/alB1ryRP). I hope to build [Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas) soon and will keep them there after.
-
-## [My workflow](./my-workflow.md)
-I try to make my own workflow in doing things be as _transparent_ as possible and I share it fully [here](./my-workflow.md).
-
-## [Things I track](./Tracking.md)
-I love tracking various things for my own reference. [Here](./Tracking.md) you can find a big list of everything I track and where.
 
 ## [Knowledge in this wiki](https://nikitavoloboev.gitbooks.io/knowledge/content/)
 I share everything I know in form of this wiki here. Can be easily queried with the search in top left corner and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow. 
 
 I also try to [answer questions](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile) on various stack exchanges and [Reddit](https://www.reddit.com/user/nikivi/).
+
+### [My workflow](./my-workflow.md)
+I try to make my own workflow in doing things be as _transparent_ as possible and I share it fully [here](./my-workflow.md).
+
+## [Things I track](./Tracking.md)
+I love tracking various things for my own reference. [Here](./Tracking.md) you can find a big list of everything I track and where.
