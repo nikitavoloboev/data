@@ -12,3 +12,4 @@ But there is many more. [Here](https://my.mindnode.com/t9622zX2emWC3HxLNkFebMzux
 
 ## Interesting artists
 - Ifan Dafydd
+- montell2099
