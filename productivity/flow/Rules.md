@@ -2,11 +2,11 @@
 Some simple rules to follow for myself doing things.
 
 ## Wiki
- - Only add snippets of code that are really useful
-	- keep simple things I use for my own reference in SnippetsLab only
+ - Only add snippets of code that are really useful.
+	- Keep simple things I use for my own reference in SnippetsLab only.
 - Heading should always be on one level heading
-	- and Snippets / Notes / Links / on two level heading
-	- everything else on three levels where appropriate
+	- And Snippets / Notes / Links / on two level heading
+	- Everything else on three levels where appropriate
 - Describe links on the same line with `-` separator (if needs more description, then sub dash)
 - Don't repeat myself or anyone else
 	- if something has already been said either by me or someone else, link to it (especially in this wiki)
@@ -14,36 +14,36 @@ Some simple rules to follow for myself doing things.
 	- don't over do it
 
 ## Git
-- Do atomic commits and write proper appropriate commit messages
-- Don't use emojis in commit messages aside from ✨ commit
+- Do atomic commits and write proper appropriate commit messages.
+- Don't use emojis in commit messages aside from ✨ commit.
 
 ## Code
-- Comment over my code (be mindful of not repeating things, sometimes code speaks for itself)
-- Uppercase comments for consistency 
+- Comment over my code (be mindful of not repeating things, sometimes code speaks for itself).
+- Uppercase comments for consistency.
 
 ## Karabiner
-- Document any changes I make in Karabiner map instantly in the map (update where necessary)
+- Document any changes I make in Karabiner map instantly in the map (update where necessary).
 
 ## Markdown
-- Don't leave whitespace between headings and text
+- Don't leave whitespace between headings and text.
 - Don't need to add `:` to the end of text when adding image below as it is implicit
 
 ## GitHub
-- Add appropriate topics to each repo
+- Add appropriate topics to each repo.
 - Make many experiments and share them (add the experiments to the bottom of the mindnode map so they are not seen instantly)
 
 ## GitHub README
-- Use HTML for rendering images as I have more control on the size and things
+- Use HTML for rendering images as I have more control on the size and things.
 - Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links)
-	- don't repeat what is said in the quote in the description underneath the quote
+	- Don't repeat what is said in the quote in the description underneath the quote.
 - If the readme is long enough, add a `Contents` table
-- Don't add anything that is not needed and focus on the content
-- Add image or logo if possible to visually show the workflow / library in action
-- Don't link to Imgur images as links, render them in the GitHub README itself
-- In screenshots of Alfred prompts and other prompts, show the cursor
+- Don't add anything that is not needed and focus on the content.
+- Add image or logo if possible to visually show the workflow / library in action.
+- Don't link to Imgur images as links, render them in the GitHub README itself.
+- In screenshots of Alfred prompts and other prompts, show the cursor.
 - Add `Related` section to most repos linking to similar projects either of my own or of other 
-	- not all projects need this
-- Don't add Thank You clause in `idea` stage projects
+	- Not all projects need this.
+- Don't add Thank You clause in `idea` stage projects.
 
 ## Alfred
 - Name triggers with spaces between words (all lowercased)
@@ -106,14 +106,12 @@ Some simple rules to follow for myself doing things.
 
 ## Ideas
 - If the idea is not private or something really small
-	- share it in the wiki (or hopefully soon in crafting ideas)
+	- Share it in the wiki (or hopefully soon in crafting ideas)
 
 ## Capitalising things
 - Capitalise everything where appropriate (Sentences / Headings / Alfred workflows / GitHub descriptions / GitHub issues and PRs / Comments in SnippetsLab / Main dashed points / Tweets / ..)
 
 ## Don't capitalise
-- Sub dash points 
-	- like this one
 - KM groups and macros
 
 ## Ship app
@@ -158,3 +156,9 @@ Some simple rules to follow for myself doing things.
 ## Licensing
 - License my own code under MIT
 - License curated lists and other things under [CC1](https://creativecommons.org/publicdomain/zero/1.0/) 
+
+## File naming
+- Prefer to use `-` instead of `_` in naming script files.
+
+## Prefixing 
+- Prefer to have the prefix reference the name in some way for easier mental mapping of
