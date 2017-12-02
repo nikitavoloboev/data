@@ -6,9 +6,10 @@ You can also take a look through [Alfred's help](https://www.alfredapp.com/help/
 ## My workflow in developing workflows
 I like to write all my workflows in Go language unless the workflow can be done using only Alfred builtin objects and some python/bash code.
 
+### Workflows in Go language
 In cases where I am planning to use Go to write the workflow. Here are the steps I follow. This assumes you have installed [alfred cli tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred).
 
-1. create a folder in my GOPATH inside `~/go/src/github.com/nikitavoloboev/` 
+1. Create a folder in my GOPATH inside `~/go/src/github.com/nikitavoloboev/` 
 2. prefix the folder name with `alfred-`
 	- i.e. `alfred-twitter`
 3. initialise the folder with git as any project
@@ -26,3 +27,6 @@ In cases where I am planning to use Go to write the workflow. Here are the steps
 - Inside my `alfred-` directory I run `alfred link` 
 	- that creates a symlink between the workflow directory and where the actual workflow lies
 - write my Go code inside `alfred-` folder and when I want to compile it to run from Alfred, I run `alfred build`
+
+### Workflows in other language
+TODO: 

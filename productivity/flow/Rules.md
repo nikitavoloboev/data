@@ -161,4 +161,4 @@ Some simple rules to follow for myself doing things.
 - Prefer to use `-` instead of `_` in naming script files.
 
 ## Prefixing 
-- Prefer to have the prefix reference the name in some way for easier mental mapping of
+- Prefer to have the prefix reference the name in some way for easier mental mapping of prefix to meaning.

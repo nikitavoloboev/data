@@ -9,7 +9,7 @@ I share all of the things I am up to right now on [my Twitter page](https://twit
 I write about various things, mostly programming and macOS tips. I map all the articles I wrote in form of a map [here](https://my.mindnode.com/qVGMak6nNCFxh5YxUGR3z6RKrmVNP6sr1Pk721FB#136.3,-676.8,0).
 
 ## [Experiences on Instagram](https://www.instagram.com/nikitavoloboev/)
-I like to share small photos and stories from my life there. I also curate a small page where I share [beautiful pictures and photos I like](https://www.instagram.com/nvpix_/).
+I like to share small photos and stories from my life there. I also curate a small page where I share [beautiful pictures and photos I like](https://www.instagram.com/niikivi/).
 
 ## [Music on Spotify](https://open.spotify.com/user/nikitavoloboev)
 I am currently not writing any music of my own although I am learning. I do however share many of the songs I like in [form of playlists](../music/music-plays.md). You can see music I am listening to now [here](https://www.last.fm/user/playfullyExist).
