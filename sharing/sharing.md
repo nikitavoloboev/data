@@ -20,8 +20,8 @@ I mostly make videos about macOS automation. I map all the videos I have made as
 ## [Streaming on Twitch](https://www.twitch.tv/nikiivi)
 I sometimes stream some of the things I am working on for fun on [Twitch](https://www.twitch.tv/nikiivi). I try to explain things as I do them. 
 
-## [Curated Images on Imgur](https://nikivii.imgur.com)
-I also curate many [Imgur albums](https://nikivii.imgur.com) of various things.
+## [Curated Images on Imgur](https://niikivi.imgur.com)
+I also curate many [Imgur albums](https://niikivi.imgur.com) of various things.
 
 ## [Ideas in Trello](https://trello.com/b/alB1ryRP)
 My time is limited and I can't often do everything I wish. But I have many ideas so I put all of them in the open [here](https://trello.com/b/alB1ryRP). I hope to build [Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas) soon and will keep them there after.
