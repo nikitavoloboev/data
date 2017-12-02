@@ -1,8 +1,7 @@
 # My principles
 I believe everyone should have some set of principles they should follow. Having a clear picture of what is important to you and what you want to focus on doing in life is important.
 
-Here are my mine :
-
+Here are my mine:
 1. I should share all and everything I know openly and free to all
 2. I should value each animal’s life on this planet as equal to that of my own
 3. I should attempt to minimise suffering caused directly by me to other living organisms and the planet

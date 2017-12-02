@@ -61,14 +61,14 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - The bad news is you’re falling through the air, nothing to hang on to, no parachute. The good news is there’s no ground. 
 	- Trungpa Rinpoche
 
-## Success 
+## Success
 - Success is a few simple disciplines, practiced every day; while failure is simply a few errors in judgment, repeated every day.
 - Frameworks descend and burn up in the atmosphere like meteors. Technology changes fast enough that today’s problems are never tomorrow’s problems. Historically, our greatest technologies have been created by those who kept digging until they hit bedrock; who understood foundational ideas and technologies well enough to improve upon them.
 - The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest 
 - Every day we change the world. But to change the world in a way that means anything - that takes more time than most people have. It never happens all at once. It's slow. It's methodical. It's exhausting. We don't all have the stomach for it 
 - You want to be the first and last mover. Be the company that defines that area : Google / Amazon. Think of the end game, but do start.
 
-## Socialism 
+## Socialism
 - Socialism never took root in America because the poor see themselves not as an exploited proletariat but as temporarily embarrassed millionaires.
 	- John Steinbeck
 
@@ -230,7 +230,7 @@ And here are a few quotes that didn't make both of those lists but I still liked
 	- Abraham Lincoln
 
 ## Relationship
-- [If it feels good, stay. If it doesn't, leave.](https://www.reddit.com/r/Psychonaut/comments/5xh2z7/open_relationships/dei0b3f/) 
+- [If it feels good, stay. If it doesn't, leave.](https://www.reddit.com/r/Psychonaut/comments/5xh2z7/open_relationships/dei0b3f/)
 
 ## Fear
 - The more afraid you are the more power your fear has.
@@ -319,31 +319,31 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - I am reminded of the story of the great French Marshal Lyautey, who once asked his gardener to plant a tree. The gardener objected that the tree was slow-growing and would not reach maturity for a hundred years. The Marshal replied, In that case, there is no time to lose, plant it this afternoon.
 	- John F. Kennedy
 
-## Friends 
+## Friends
 - To know who your true friends are, look out for the ones who say good things behind your back and bad things to your face.
 
-## Awareness 
+## Awareness
 - Today a young man on acid realized that all matter is merely energy condensed to a slow vibration, that we are all one consciousness experiencing itself subjectively, there is no such thing as death, life is only a dream, and we are the imagination of ourselves. 
 	- now here’s Tom with the weather
 
 ## Learning
-- It is impossible for a man to learn what he thinks he already knows. 
+- It is impossible for a man to learn what he thinks he already knows.
 
 ## Language
 - I didn’t learn to talk from a linguist, I learned to talk from hearing other people talk
 - A language isn't something you learn so much as something you join.
 
-##  Engineering
+## Engineering
 - A brilliant professor of mine liked to say "The Answer of the Engineer: it depends".
 
 ## Justice
-- All animals are equal, but some animals are more equal than others 
+- All animals are equal, but some animals are more equal than others
 
 ## Drugs
 - When you drink alcohol you are just borrowing happiness from tomorrow.
 - Know your body, know your mind, know your substance, know your source.
 
-##  Psychedelics
+## Psychedelics
 - [Any experience in your life will alter the way you think.](https://www.reddit.com/r/LSD/comments/5tov8q/does_lsd_really_make_you_think_different/ddnz08q/)
 
 ## DMT
@@ -383,7 +383,7 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - The first gulp from the glass of natural sciences will turn you into an atheist, but at the bottom of the glass God is waiting for you.
 	- Heisenberg
 
-## Internet 
+## Internet
 - I knew when I was eight .. that I might sincerely regret not having participate in this thing called the internet..
 	- Jeff Bezos
 
@@ -418,7 +418,7 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - the philosophy of one century is the common sense of the next 
 
 ## Design
-- You cannot understand good design if you do not understand people; design is made for people 
+- You cannot understand good design if you do not understand people; design is made for people
 
 ## Change
 - There are decades when nothing happens. There are weeks where decades happen.
@@ -434,10 +434,10 @@ And here are a few quotes that didn't make both of those lists but I still liked
 ## Nutrition
 - Eat food. Not too much. Mostly plants.
 
-## Privacy 
+## Privacy
 - There is no cloud, just other people's computers
 
-##  Control
+## Control
 - If everything is under control, you're going too slow.
 	- Mario Andretti
 
@@ -455,4 +455,3 @@ And here are a few quotes that didn't make both of those lists but I still liked
 
 ## Science
 - If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generations of creatures, what statement would contain the most information in the fewest words? I believe it is the atomic hypothesis (or the atomic fact, or whatever you wish to call it) that all things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another. In that one sentence, you will see, there is an enormous amount of information about the world, if just a little imagination and thinking are applied.
-
