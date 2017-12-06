@@ -194,6 +194,7 @@
 * [Movies](movies/Movies.md)
 * [TV series](tv-series/tv-series.md)
 * [Courses](courses/Courses.md)
+* [Articles](articles/Articles.md)
 * [Short Stories](short-stories/short-stories.md)
 * [Books](books/Books.md)
 	* [Go in action](books/go-in-action.md)

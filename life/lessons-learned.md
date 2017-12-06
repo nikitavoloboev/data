@@ -1,8 +1,8 @@
 # Lessons learned
 ## Life
 - Prioritise 
-	- do the important things first
-		- define these _important_ things for myself and be clear with what I want to achieve
+	- Do the important things first.
+		- Define these _important_ things for myself and be clear with what I want to achieve.
 - Automate backups
 	- make sure the backups you’ve made are actually successful
 	- and you have at least 1 week fresh backup of everything I did
@@ -82,7 +82,7 @@
 	- try out any new ideas I have (it is the only way to see if the idea is any good)
 
 ## Code
-- Use switch cases over long ifs
+- Use switch cases over long ifs.
 - It’s a lot easier to actually just use one screen
 	- much easier to context switch
 - Use version control
@@ -108,7 +108,7 @@
 
 ## Asking questions
 - When posting an error or an issue on some forum or GitHub, give as much information as you can to help debug it
-	- in the case of posting an issue with an Alfred workflow, it is best to link to the workflow you are using and also link what the debugger says when you are running into the issue 
+	- in the case of posting an issue with an Alfred workflow, it is best to link to the workflow you are using and also link what the debugger says when you are running into the issue
 
 ## Design
 - Giving users many options is more often a bad idea

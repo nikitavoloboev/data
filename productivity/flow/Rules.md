@@ -44,6 +44,7 @@ Some simple rules to follow for myself doing things.
 - Add `Related` section to most repos linking to similar projects either of my own or of other 
 	- Not all projects need this.
 - Don't add Thank You clause in `idea` stage projects.
+- If the project has many ways to contribute, create a `contributing.md` file and link to it.
 
 ## Alfred
 - Name triggers with spaces between words (all lowercased)
@@ -160,5 +161,5 @@ Some simple rules to follow for myself doing things.
 ## File naming
 - Prefer to use `-` instead of `_` in naming script files.
 
-## Prefixing 
+## Prefixing
 - Prefer to have the prefix reference the name in some way for easier mental mapping of prefix to meaning.
