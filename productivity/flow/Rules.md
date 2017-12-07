@@ -163,3 +163,9 @@ Some simple rules to follow for myself doing things.
 
 ## Prefixing
 - Prefer to have the prefix reference the name in some way for easier mental mapping of prefix to meaning.
+
+## Sleep
+- Prefer to sleep and wake up at the same time. 
+	- 5:30AM- Wake up.
+	- 10:00PM - Sleep.
+- Sleep for \~ 7 hours each day.
