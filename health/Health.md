@@ -27,5 +27,7 @@ Ideally going to sleep and waking up at the same time to keep the Circadian rhyt
 ### Dental care
 Brushing my teeth every evening and morning as well as flossing it few times throughout the day. At least some things are simple in life. 
 
-
 The common theme here is _everything in moderation_.
+
+## Notes
+- [Great comment on staying heathy](https://www.reddit.com/r/longevity/comments/7hwgo7/for_people_in_their_young_or_middle_ages_now_who/).
