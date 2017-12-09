@@ -1,13 +1,16 @@
 # [Day One](http://dayoneapp.com)
 Day One is my digital life journal.
 
-I mostly use it to write my [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32) evaluating my day and noting interesting and memorable things that have happened to me during the day. 
+I started with journalling my writing [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32), evaluating my day and noting interesting and memorable things that have happened to me during the day. 
 
-I also log and archive automatically my tweets and Instagram posts using [IFTTT](https://ifttt.com/day_one). 
+Since then however, I adopted a more open approach to documenting my memories and life in a way that doesn't stop me from being in the moment and just enjoying things and experiences.
+
+I am very open to the public sharing both the things I know and like and also the different little things that happen to me, so I use [IFTTT](https://ifttt.com/day_one) to log and archive my public activity from Instagram and Twitter into Day one. 
+
 
 ## My Journals
 ### Photo a Day
-I make a picture of me every day and put it in the journal. Often doing it a new and different place and saying how I feel about the day. I want to do a collage of these pictures in the future.
+I make a picture of me every day and put it in the journal. Often doing it a new and different place and saying how I feel about the day. I want to do a collage of these pictures in the future. Sometimes I put more than one photo there. The idea is that I can replicate what happened to me from that day just from the photos.
 
 ### Evaluation
 Weekly evaluation and self reflection. I use [Timing](https://timingapp.com/?lang=en) and [Wakatime](https://wakatime.com/dashboard) for this see through these tools where I spent my time and where I can do better.
