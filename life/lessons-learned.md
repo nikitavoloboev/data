@@ -81,7 +81,7 @@
 - Experiment often
 	- try out any new ideas I have (it is the only way to see if the idea is any good)
 
-## Code
+## Programming
 - Use switch cases over long ifs.
 - It’s a lot easier to actually just use one screen
 	- much easier to context switch
@@ -91,7 +91,9 @@
 	- do __atomic__ commits
 - Write proper commit messages
 - Comment over my code!
-	- especially zsh functions, makes things easier to read
+	- Especially zsh functions, makes things easier to read.
+- Run/Right/Fast.
+	- Make the code work then make is clean then make it fast (if necessary). Solving the “correct/clean/performant code” problem all at once can be overwhelming. Don’t be overwhelmed. Solve one at a time.
 
 ## Using Mind maps
 - Don’t index information for the sake of indexing

@@ -13,3 +13,6 @@
 
 ## Make web apps
 - [neutrino dev](https://github.com/mozilla-neutrino/neutrino-dev)
+
+## Python libs
+- [click](http://click.pocoo.org/5/)

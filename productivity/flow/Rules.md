@@ -60,18 +60,18 @@ Some simple rules to follow for myself doing things.
 - Use proper punctuation and capitalise things appropriately
 - When adding `:`, don't add space beforehand
 - Remove unnecessary words
-	- if something can be said in less words, say it in less words
-	- always try to be clear and to the point
+	- If something can be said in less words, say it in less words
+	- Always try to be clear and to the point
 
 ## Social Networks
 - Only add people I really know on Facebook 
-- Only add / follow people I am really interested in other networks
+- Only add/follow people I am really interested in other networks
 
 ## Sharing files
-- more permanent shares are shared with Dropbox
-	-  don't delete items from `shares` folder unless I delete the file somewhere myself
-- temporary shares with [Transfer](https://transfer.sh)
- - if the files are stored on GitHub somewhere, I can use [this](http://rawgit.com/) to get a downloadable link of the raw file
+- More permanent shares are shared with Dropbox
+	-  Don't delete items from `shares` folder unless I delete the file somewhere myself
+- Temporary shares with [Transfer](https://transfer.sh)
+ - If the files are stored on GitHub somewhere, I can use [this](http://rawgit.com/) to get a downloadable link of the raw file
 
 ## Releasing workflows with OneUpdater
 - Don't forget to update version number and then also commit the workflow so info.plist on GitHub has the latest version
@@ -104,6 +104,8 @@ Some simple rules to follow for myself doing things.
 
 ## 2Do
 - Only contain things I really need to get done in `Today`
+- All 2Do tasks need to be actionable
+- Work on tasks based on priority (starred completed first)
 
 ## Ideas
 - If the idea is not private or something really small
