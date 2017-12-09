@@ -30,7 +30,7 @@ I use [IFTTT](../../tools/IFTTT.md) to automatically post my public activity fro
 Contains very short entries. If I am feeling sad or happy about something, I write a small entry and say what I feel and put it there. It helps me be more conscious and honest with myself, my thoughts and feelings. 
 
 ### Progress
-In similar vein to `Evaluation`. I try to track and be more conscious about my physical progress in me trying to become a stronger version of me physically. I post my progress pictures and my own commentary and thoughts there.
+In similar vein to `Evaluation`. I try to track and be more conscious about my physical progress of me trying to become a stronger version of me physically. I post my progress pictures and my own commentary and thoughts there.
 
 ### Family
 I also have a dedicated journal where I put all the memories I have shared with my family.
