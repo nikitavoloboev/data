@@ -12,7 +12,7 @@ I am very open to the public sharing both the things I know and like and also th
 I make a picture of me every day and put it in the journal. Often doing it a new and different places and saying how I feel about the day. I want to do a collage of these pictures in the future. Sometimes I put more than one photo there. The idea is that I can replicate what happened to me from that day just from the photos.
 
 ### Evaluation
-Weekly evaluation and self reflection. I use [Timing](https://timingapp.com/?lang=en) and [Wakatime](https://wakatime.com/dashboard) for this and see through these tools to know I spent my time and where I can do better.
+Weekly evaluation and self reflection. I use [Timing](https://timingapp.com/?lang=en) and [Wakatime](https://wakatime.com/dashboard) for this and see through these tools to know how I spent my time and where I can do better.
 
 ### Life
 Writing about my life in a more open and free way. If something memorable happened to my life or I've been through something or want to say something, I write it there.
