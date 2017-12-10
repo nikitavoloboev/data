@@ -5,17 +5,17 @@ I hope to cultivate and make many healthy routines and habits throughout my life
 
 ## Daily
 ### Morning
-- Brush my teeth
-- Moisturise face
-- Focus 
-- Start working on the first event from my Calendar (often includes cleaning up Today list in 2Do)
+1. Brush my teeth
+2. Moisturise face
+3. Focus 
+4. Start working on the first event from my Calendar (often includes cleaning up Today list in 2Do)
 
 ### Evening
-- Brush my teeth
-- Take shower 
-- Moisturise face
-- Plan the day ahead of me if it is not planned already
-- Go to sleep before 11 pm ideally and wake up at the same time ideally
+1. Brush my teeth
+2. Take shower 
+3. Moisturise face
+4. Plan the day ahead of me if it is not planned already
+5. Go to sleep before 11 pm ideally and wake up at the same time ideally
 
 ## Weekly
 - Review period (Timing / Wakatime)

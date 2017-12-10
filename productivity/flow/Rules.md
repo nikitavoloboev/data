@@ -171,3 +171,7 @@ Some simple rules to follow for myself doing things.
 	- 5:30AM- Wake up.
 	- 10:00PM - Sleep.
 - Sleep for \~ 7 hours each day.
+
+## 1Password
+- Write down licenses of things purchased in there
+

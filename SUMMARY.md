@@ -147,6 +147,7 @@
 	* [Product Hunt](tools/product-hunt.md)
 	* [DuckDuckGo](tools/DuckDuckGo.md)
 	* [IFTTT](tools/IFTTT.md)
+	* [Dat](tools/Dat.md)
 * [Productivity](productivity/Productivity.md)
 	* [Focusing](productivity/Focusing.md)
 	* [Flow](productivity/flow/Flow.md)
