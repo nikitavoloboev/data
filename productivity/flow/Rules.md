@@ -175,3 +175,5 @@ Some simple rules to follow for myself doing things.
 ## 1Password
 - Write down licenses of things purchased in there
 
+## Day One
+ - Mark all memorable moments and experiences in Day One.
