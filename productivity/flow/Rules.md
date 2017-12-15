@@ -4,14 +4,16 @@ Some simple rules to follow for myself doing things.
 ## Wiki
  - Only add snippets of code that are really useful.
 	- Keep simple things I use for my own reference in SnippetsLab only.
-- Heading should always be on one level heading
-	- And Snippets / Notes / Links / on two level heading
-	- Everything else on three levels where appropriate
-- Describe links on the same line with `-` separator (if needs more description, then sub dash)
-- Don't repeat myself or anyone else
-	- if something has already been said either by me or someone else, link to it (especially in this wiki)
-- Interlink entries between each other often within wiki where necessary 
-	- don't over do it
+- Heading should always be on one level heading.
+	- And Snippets / Notes / Links / on two level heading.
+	- Everything else on three levels where appropriate.
+- Describe links on the same line with `-` separator (if needs more description, then sub dash).
+- Don't repeat myself or anyone else.
+	- If something has already been said either by me or someone else, link to it (especially in this wiki).
+- Interlink entries between each other often within wiki where necessary.
+	- Don't over do it.
+- I can omit the full stops in the dashed points.
+	- Unless there are full sentences. Then do use the full stops. 
 
 ## Git
 - Do atomic commits and write proper appropriate commit messages.
