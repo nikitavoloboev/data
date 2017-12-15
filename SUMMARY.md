@@ -148,6 +148,7 @@
 	* [DuckDuckGo](tools/DuckDuckGo.md)
 	* [IFTTT](tools/IFTTT.md)
 	* [Dat](tools/Dat.md)
+	* [Trello](tools/Trello.md)
 * [Productivity](productivity/Productivity.md)
 	* [Focusing](productivity/Focusing.md)
 	* [Flow](productivity/flow/Flow.md)

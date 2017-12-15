@@ -10,3 +10,4 @@ Some interesting Go libraries I found.
 - [Argum](https://github.com/sg3des/argum) - Parse incoming arguments in to structure.
 - [go prompt](https://github.com/c-bata/go-prompt) 
 - [The Joy compiler](https://mat.tm/joy/#faq)
+- [graphql](https://github.com/machinebox/graphql) TODO: use it 

@@ -177,3 +177,4 @@ Some simple rules to follow for myself doing things.
 
 ## Day One
  - Mark all memorable moments and experiences in Day One.
+- Mark memorable moments throughout the day and put them in `Photo a Day` journal. 

@@ -9,3 +9,6 @@ I will be using certain abbreviations for things that I may be repeating often. 
 
 ## Years
 I often add a year in brackets to some articles or talks like `(2017)` which stands for the year in which that article or talk was given in.
+
+## Actions
+I will sometimes leave off `TODO: ` statements throughout the wiki. This won't happen often but this is to remind myself to do something about a particular thing. You can ignore them.
