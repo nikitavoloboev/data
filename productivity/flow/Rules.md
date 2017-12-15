@@ -83,6 +83,7 @@ Some simple rules to follow for myself doing things.
 - Live by my calendar 
 	- assign tasks and blocks of time in advance and work through each of the blocks
 	- adjust when necessary
+- Work away from home
 
 ## SnippetsLab
 - Upload all non sensitive snippets as Gists
@@ -113,9 +114,6 @@ Some simple rules to follow for myself doing things.
 
 ## Capitalising things
 - Capitalise everything where appropriate (Sentences / Headings / Alfred workflows / GitHub descriptions / GitHub issues and PRs / Comments in SnippetsLab / Main dashed points / Tweets / ..)
-
-## Don't capitalise
-- KM groups and macros
 
 ## Ship app
 - Prioritise repos in the sidebar

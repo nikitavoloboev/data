@@ -94,6 +94,8 @@
 	- Especially zsh functions, makes things easier to read.
 - Run/Right/Fast.
 	- Make the code work then make is clean then make it fast (if necessary). Solving the “correct/clean/performant code” problem all at once can be overwhelming. Don’t be overwhelmed. Solve one at a time.
+- Reducing the maintenance burden is, for most codebases, the biggest optimization you can do.
+	- Of course it's all about striking a balance, but 99% of the time there is a choice between performance and readability, readability is the right answer. Performance should only be chosen if it is absolutely necessary.
 
 ## Using Mind maps
 - Don’t index information for the sake of indexing

@@ -25,5 +25,8 @@ And then I can go through these issues one by one.
 	- this is super useful for embedding images because you can customise `width` and `height` values to make the READMEs look a lot nicer
 - [Hub](https://github.com/github/hub) is an awesome wrapper over `git` command
 
+## Interesting
+- [ghb0t](https://github.com/jessfraz/ghb0t)
+
 ## Links
-- [This is my work-flow for contributing on Github](https://zimbatm.com/journal/2015/08/16/this-is-how-i-contribute-on-github/) - shell centric workflow
+- [This is my work-flow for contributing on Github](https://zimbatm.com/journal/2015/08/16/this-is-how-i-contribute-on-github/) - Shell centric workflow.
