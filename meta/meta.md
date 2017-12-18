@@ -12,7 +12,7 @@ If this is your first time visiting this wiki, you can just start reading from t
 
 I will be updating this wiki quite often as I use it myself daily both to keep an account of things I know as well as things I want to know and everything in-between.
 
-For super fast access of this wiki, I do advise you to try out [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
+For super fast access of this wiki, I advise you to try out [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 
 If you find some mistake, especially if something that I say is plain wrong, please fork [this repository](https://github.com/nikitavoloboev/knowledge) and make a PR with correct changes. Or [open an issue](https://github.com/nikitavoloboev/knowledge/issues/new) saying what you think is wrong.
 
@@ -22,16 +22,16 @@ Each topic will have a title, some description of it, usually my own thoughts an
 The structure of each of the posts will often look roughly like this: 
 1. Title
 2. Description
-	- my thoughts on the topic
+	- My thoughts on the topic.
 3. Subtopics 
-	- various subtopics related to the main topic
+	- Various subtopics related to the main topic.
 4. Snippets
-	- if the topic is programming related, I will attach a few Gists related to the topic I personally use
+	- If the topic is programming related, I will attach a few Gists related to the topic I personally use.
 5. Links
-	- links related to the topic
+	- Links related to the topic.
 6. Notes
-	- my own personal notes on the matter as well as things I found interesting on the internet regarding the topic
-		- I often give a link of where I got things from
+	- My own personal notes on the matter as well as things I found interesting on the internet regarding the topic.
+		- I often give a link of where I got things from.
 
 Aside from this wiki, I also share [various mind maps I have made](./my-mind.md).
 

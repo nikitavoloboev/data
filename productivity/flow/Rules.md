@@ -12,8 +12,6 @@ Some simple rules to follow for myself doing things.
 	- If something has already been said either by me or someone else, link to it (especially in this wiki).
 - Interlink entries between each other often within wiki where necessary.
 	- Don't over do it.
-- I can omit the full stops in the dashed points.
-	- Unless there are full sentences. Then do use the full stops. 
 
 ## Git
 - Do atomic commits and write proper appropriate commit messages.
