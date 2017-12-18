@@ -38,4 +38,4 @@ Here is a list of various things I track for my own use and reference.
 ## Personal
 - [Ideas](https://trello.com/b/alB1ryRP) - Contains ideas I have that I don't have time/skill to work on yet.
 - [Things to try](https://trello.com/b/tkaqFKYa) - Contains things I want to try do or make in my limited life.
-- [Understand](https://trello.com/b/oPkSf1xL) - contains some specific things I want to understand 
+- [Understand](https://trello.com/b/oPkSf1xL) - Contains some specific things I want to understand.
