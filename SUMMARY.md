@@ -87,6 +87,7 @@
 	* [Clojure](programming-languages/Clojure.md)
 	* [Lisp](programming-languages/Lisp.md)
 	* [C](programming-languages/C.md)
+	* [Rust](programming-languages/Rust.md)
 * [Open Source](open-source/open-source.md)
 	* [GitHub](open-source/GitHub.md)
 * [Languages](languages/Languages.md)
@@ -225,4 +226,5 @@
 	* [Wiki workflow](other/wiki-workflow.md)
 	* [Resources](other/Resources.md)
 	* [Advice](other/Advice.md)
+	* [Favourite tweets](other/favourite-tweets.md)
 	* [Interesting things](other/interesting-things.md)
