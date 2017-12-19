@@ -118,6 +118,9 @@
 - Giving users many options is more often a bad idea
 	- instead give very few options but make each one of them count and stand out
 
+## Keyboard Maestro
+- Minimise inputs to the macros. Sometimes it's possible that the input you need to a macro, you can get from another place.
+
 ## Other
 - When proposing feature requests, _"for me"_ is never a good argument for a feature request
 	- if you want someone to add a feature to their software, show how it would be useful to lots of users
