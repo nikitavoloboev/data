@@ -127,6 +127,7 @@
 		* [Redux](web/react/Redux.md)
 	* [IPFS](web/IPFS.md)
 	* [AWS](web/aws/AWS.md)
+	* [WebAssembly](web/WebAssembly.md)
 * [CSS](css/CSS.md)
 * [Security](security/Security.md)
 * [Social networks](social-networks/social-networks.md)

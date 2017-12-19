@@ -1,5 +1,5 @@
-# [My Knowledge Wiki 📚](https://nikitavoloboev.gitbooks.io/knowledge/content/)
-This is my personal wiki where I share everything I know about this world in form of an [online GitBook](https://nikitavoloboev.gitbooks.io/knowledge/content/).
+# [My Knowledge Wiki 📚](https://wiki.nikitavoloboev.xyz)
+This is my personal wiki where I share everything I know about this world in form of an [online GitBook](https://wiki.nikitavoloboev.xyz).
 
 If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals in a lot of detail.
 

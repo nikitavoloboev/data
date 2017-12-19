@@ -64,8 +64,8 @@ Some simple rules to follow for myself doing things.
 	- Always try to be clear and to the point
 
 ## Social Networks
-- Only add people I really know on Facebook 
-- Only add/follow people I am really interested in other networks
+- Only add people I really know on Facebook.
+- Only add/follow people I am really interested in other networks.
 
 ## Sharing files
 - More permanent shares are shared with Dropbox
