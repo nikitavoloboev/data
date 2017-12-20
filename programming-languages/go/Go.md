@@ -23,3 +23,5 @@ Go promotes composition over inheritance.
 - Simply pushing my source code to GitHub, makes it `go get`table.
 - Interface types represent fixed sets of methods
 - the prevailing wisdom in Go is to use a flat directory structure and only create new directories when you are building self-contained functionality
+- `go get` = download the source code to your PC
+- `go install` = download, build, and put it in the path so you can use it

@@ -16,3 +16,7 @@ My workflow is always changing but currently it consists of the following.
 
 ## Photographs
 - Personal images in Photos and other images in [Pixave](../macOS/apps/Pixave.md)
+
+## News
+- RSS - I follow all blogs I am interested in with RSS.
+- Twitter - I made many Twitter lists separated by topics.

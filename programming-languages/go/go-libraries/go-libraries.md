@@ -1,4 +1,4 @@
-# Go libs
+# Go libraries
 Some interesting Go libraries I found.
 
 ## CLI

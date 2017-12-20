@@ -25,7 +25,7 @@ Don't be afraid to create one of your own and share what you know with the world
 ## Contributing
 If you found a mistake anywhere in this wiki, I would really appreciate your help. You can quickly find any entry you wish to edit by searching for the topic [here](https://github.com/nikitavoloboev/knowledge/find/master) and then making the changes.
 
-I also appreciate any [ideas you have](https://github.com/nikitavoloboev/knowledge/issues) on how I can improve this wiki.
+I also appreciate any [ideas you have](https://github.com/nikitavoloboev/knowledge/issues/new) on how I can improve this wiki.
 
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 

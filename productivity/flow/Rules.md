@@ -126,6 +126,10 @@ Some simple rules to follow for myself doing things.
 - Review each book you read on Goodreads and add it to an appropriate category 
 	- add the review to [books](../books/Books.md) after
 
+## Productivity
+- Always have water next to me. Drink water when taking breaks and take breaks.
+- Set deadlines for all things. Adjust plan according to the deadlines.
+
 ## Anki
  - Post all my anki decks in the wiki here under [anki decks](../anki/anki-decks.md)
 - Lowercase all deck names and folders
@@ -133,8 +137,8 @@ Some simple rules to follow for myself doing things.
 	- start all cards capitalised
 - Don't make a card of a fact or something that you can easily look up
 
-## Product Hunt
-- Add products I like to an appropriate collection
+## Product Huntr
+- Add products I like to an appropriate collection.
 
 ## Vim
 - Document my main mappings in the vimrc itself (make things easier to search for)
