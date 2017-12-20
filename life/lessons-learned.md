@@ -109,6 +109,7 @@
 - Use the right tool for the job
 	- i.e. mind maps are great for visualising things so don't use them to dump things inside to filter for things
 	- you can use simple markdown and text files for that where it is easier to maintain and extend
+- Slow down. Think about the problem. Don't rush things.
 
 ## Asking questions
 - When posting an error or an issue on some forum or GitHub, give as much information as you can to help debug it

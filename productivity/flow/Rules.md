@@ -83,7 +83,7 @@ Some simple rules to follow for myself doing things.
 - Live by my calendar 
 	- assign tasks and blocks of time in advance and work through each of the blocks
 	- adjust when necessary
-- Work away from home
+- Work away from home.
 
 ## SnippetsLab
 - Upload all non sensitive snippets as Gists
