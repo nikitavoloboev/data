@@ -24,5 +24,6 @@ There is a lot of other things you can do to automate and customise the Keyboard
 
 ## Links
 - [Write once, never write again](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8) : goes over how to use [Typinator](http://www.ergonis.com/products/typinator/) together with KM to automate writing text
+- [How I manage my huge KM library](https://forum.keyboardmaestro.com/t/notation-i-use-to-manage-my-macros/8907)
 - [KM forum](https://forum.keyboardmaestro.com/latest) : great place to discuss all things related to KM
 
