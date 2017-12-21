@@ -17,7 +17,7 @@ Some simple rules to follow for myself doing things.
 - Do atomic commits and write proper appropriate commit messages.
 - Don't use emojis in commit messages aside from ✨ commit.
 
-## Code
+## Proramming
 - Comment over my code (be mindful of not repeating things, sometimes code speaks for itself).
 - Uppercase comments for consistency.
 
@@ -86,10 +86,10 @@ Some simple rules to follow for myself doing things.
 - Work away from home.
 
 ## SnippetsLab
-- Upload all non sensitive snippets as Gists
-- Include all useful snippets in this wiki and add `wiki` tag
-	- if I delete a snippet with `wiki` tag, delete it from wiki too
-	- useful = something substantial that can't easily be Googled
+- Upload all non sensitive snippets as Gists.
+- Include all useful snippets in this wiki and add `wiki` tag.
+	- If I delete a snippet with `wiki` tag, delete it from wiki too.
+	- Useful = something substantial that can't easily be Googled.
 - Create smart group for each new prefix I add
 - Add correct language syntax to every snippet
 - Don't strip prefixes in snippets when sharing Gists
