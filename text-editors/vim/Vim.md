@@ -7,9 +7,11 @@ I use [neovim](https://github.com/neovim/neovim) instead of vim and my vimrc for
 
 I document my own vimrc and my modifications [here](https://my.mindnode.com/EPJxCtfjuZJGz5TTHiwTyshmUUBfwRpVyH4BvQj2).
 
-## Links
-- [You don't grok vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
-- [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/) - quite funny
-
 ## Neovim
 - I can run `:CheckHealth` to see if there is anything wrong with my installation
+
+## Links
+- [My Vim snippets](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+%28vim%29&ref=searchresults)
+- [You don't grok vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
+- [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/) - Quite funny.
+
