@@ -14,4 +14,3 @@ I document my own vimrc and my modifications [here](https://my.mindnode.com/EPJx
 - [My Vim snippets](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+%28vim%29&ref=searchresults)
 - [You don't grok vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
 - [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/) - Quite funny.
-

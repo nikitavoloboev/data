@@ -122,3 +122,4 @@
 ## Other
 - When proposing feature requests, _"for me"_ is never a good argument for a feature request.
 	- If I want someone to add a feature to their software, show how it would be useful to lots of users.
+- Explicit over implicit is almost always better.

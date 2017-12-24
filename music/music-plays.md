@@ -1,11 +1,9 @@
 # Music playlists
 ## Spotify
-I share a lot of [my personal Spotify playlists](https://open.spotify.com/user/nikitavoloboev) that I like. Here are some of them : 
+I share a lot of [my personal Spotify playlists](https://open.spotify.com/user/nikitavoloboev) that I like. Here are some of them: 
 
-- [My likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn)
-	- all the music I like in one big playlist
-- [Favourite](https://open.spotify.com/user/nikitavoloboev/playlist/7j0M4e0nxFtsrLREfcj2qk)
-	- my favourite tunes I like
+- [My likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn) - All the music I like in one big playlist.
+- [Favourite](https://open.spotify.com/user/nikitavoloboev/playlist/7j0M4e0nxFtsrLREfcj2qk) - My favourite tunes I like.
 - [Good stuff](https://open.spotify.com/user/nikitavoloboev/playlist/30tVJRIDTcXUMJI0sAeUMS)
 - [Chill](https://open.spotify.com/user/nikitavoloboev/playlist/5rPMZiZyYSrChlYT8kY4Rt)
 - [Code](https://open.spotify.com/user/nikitavoloboev/playlist/7x77eBDnCZ5AiHcey4CLox)
@@ -21,7 +19,7 @@ Currently I am really liking and listening to [this playlist](https://open.spoti
 ## Soundcloud
 I also often like to explore the rich library of music on SoundCloud. I share all the music I liked on [my profile](https://soundcloud.com/nikitavoloboev).
 
-And here are some playlists I like from there :
+And here are some playlists I like from there:
 - [Soo good](https://soundcloud.com/nikitavoloboev/sets/soo-good)
 
 ## Youtube

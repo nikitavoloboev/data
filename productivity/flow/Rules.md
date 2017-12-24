@@ -31,7 +31,8 @@ Some simple rules to follow for myself doing things.
 
 ## GitHub
 - Add appropriate topics to each repo.
-- Make many experiments and share them (add the experiments to the bottom of the mindnode map so they are not seen instantly)
+- Make many experiments and share them.
+- Add credits to repos and acknowledge work of people I am using.
 
 ## GitHub README
 - Use HTML for rendering images as I have more control on the size and things.
@@ -88,13 +89,9 @@ Some simple rules to follow for myself doing things.
 
 ## SnippetsLab
 - Upload all non sensitive snippets as Gists.
-- Include all useful snippets in this wiki and add `wiki` tag.
-	- If I delete a snippet with `wiki` tag, delete it from wiki too.
-	- Useful = something substantial that can't easily be Googled.
-- Create smart group for each new prefix I add
-- Add correct language syntax to every snippet
-- Don't strip prefixes in snippets when sharing Gists
-- Prefer to use comments in the code itself rather than notes (easier to follow)
+- Create smart group for each new prefix I add.
+- Add correct language syntax to every snippet.
+- Prefer to use comments in the code itself rather than notes (easier to follow).
 
 ## Planning
 - Plan the next day fully in advance in the calendar
