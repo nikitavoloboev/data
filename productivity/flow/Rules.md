@@ -17,7 +17,7 @@ Some simple rules to follow for myself doing things.
 - Do atomic commits and write proper appropriate commit messages.
 - Don't use emojis in commit messages aside from ✨ commit.
 
-## Proramming
+## Programming
 - Comment over my code (be mindful of not repeating things, sometimes code speaks for itself).
 - Uppercase comments for consistency.
 
@@ -64,6 +64,7 @@ Some simple rules to follow for myself doing things.
 - Remove unnecessary words
 	- If something can be said in less words, say it in less words
 	- Always try to be clear and to the point
+- Both in code and prose. Say more with less and never repeat myself.
 
 ## Social Networks
 - Only add people I really know on Facebook.
