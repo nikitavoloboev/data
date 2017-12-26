@@ -19,7 +19,7 @@ You can use [this script](https://gist.github.com/deanishe/35faae3e7f89f629a94e)
 
 ## Tools
 - [fuzzy-list](https://github.com/derickfay/fuzzylist) - Self-updating list filter workflow template.
-- [fuzzy-search](https://github.com/deanishe/alfred-fuzzy) - 
+- [fuzzy-search](https://github.com/deanishe/alfred-fuzzy) - Fuzzy search helper.
 
 ## Links
 - [How to: workflow / environment variables](https://www.alfredforum.com/topic/9070-how-to-workflowenvironment-variables/?tab=comments#comment-45177)

@@ -128,6 +128,7 @@ Some simple rules to follow for myself doing things.
 ## Productivity
 - Always have water next to me. Drink water when taking breaks and take breaks.
 - Set deadlines for all things. Adjust plan according to the deadlines.
+- Sound of rain and thunderstorm is the best sound to write code to.
 
 ## Anki
  - Post all my anki decks in the wiki here under [anki decks](../anki/anki-decks.md)
@@ -136,7 +137,7 @@ Some simple rules to follow for myself doing things.
 	- start all cards capitalised
 - Don't make a card of a fact or something that you can easily look up
 
-## Product Huntr
+## Product Hunt
 - Add products I like to an appropriate collection.
 
 ## Vim
@@ -175,6 +176,9 @@ Some simple rules to follow for myself doing things.
 
 ## 1Password
 - Write down licenses of things purchased in there
+
+## Tracking
+- Minimise `Distracting` time and aim at `< 1 hour` `Distracted` time a day. Ideally less. Block everything that is `Distracting` when working.
 
 ## Day One
  - Mark all memorable moments and experiences in Day One.

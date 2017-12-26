@@ -13,7 +13,7 @@
 
 ## Make web apps
 - [neutrino dev](https://github.com/mozilla-neutrino/neutrino-dev)
+- [yew](https://github.com/DenisKolodin/yew) - Rust framework for making client web apps.
 
 ## Python libs
 - [click](http://click.pocoo.org/5/)
-
