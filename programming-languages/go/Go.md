@@ -19,6 +19,7 @@ Go promotes composition over inheritance.
 ## Links
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Performance without the event loop (2015)](https://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
+- [7 common mistakes in Go and when to avoid them by Steve Francia](https://www.youtube.com/watch?v=29LLRKIL_TI)
 
 ## Notes
 - I can call functions from anywhere if they are in the same package
