@@ -78,6 +78,7 @@
 - Experiment often.
 	- Try out any new ideas I have (it is the only way to see if the idea is any good).
 - Use my brain. Actually think about the problems I have an things I can do with what I have instead of giving up and resorting to other things or exterior help. Think first.
+- Share. Without sharing the things you have made, there's a very slim chance someone will ever see them. 
 
 ## Programming
 - Use switch cases over long ifs.

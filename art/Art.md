@@ -6,7 +6,8 @@ I like to collect various beautiful art pieces as an imgur album you can view [h
 ## Favourite artists
 - [Leland K Foster](http://www.lelandkfoster.com/)
 - [Ilya Kuvshinov](https://www.artstation.com/kuvshinov_ilya) 
-- [Miles Johnston](https://www.instagram.com/miles_art/)
+- [Miles Johnston](https://www.instagram.com/miles_art/) - His [top art](https://www.reddit.com/user/Miles___?sort=top).
+- [James Jean](https://www.instagram.com/jamesjeanart/?hl=en)
 
 ## Interesting artists
 - [Anderson Debernardi](https://imgur.com/gallery/dKx5S)

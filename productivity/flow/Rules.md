@@ -12,6 +12,7 @@ Some simple rules to follow for myself doing things.
 	- If something has already been said either by me or someone else, link to it (especially in this wiki).
 - Interlink entries between each other often within wiki where necessary.
 	- Don't over do it.
+- Try to use other services for logging and other things where possible. Like in the case of [Letterboxd](https://letterboxd.com/NikitaVoloboev/) and its Lists feature. It's better to make lists there and link to them from wiki.
 
 ## Git
 - Do atomic commits and write proper appropriate commit messages.
