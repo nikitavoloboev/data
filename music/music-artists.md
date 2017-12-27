@@ -11,6 +11,7 @@ But there is many more. [Here](https://my.mindnode.com/t9622zX2emWC3HxLNkFebMzux
 - Crooked Colours
 - Nils Frahm
 - Mecca:83
+- Solar Fields
 
 ## Interesting artists
 - Ifan Dafydd
