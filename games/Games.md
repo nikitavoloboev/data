@@ -5,4 +5,8 @@ Although I have really loved spending my time playing Warcraft 3 and its multitu
 
 I don't regret the time I spent playing these games and I have learned a lot from them. In some way, my love for optimising and streamlining my workflow has come from these games where you can get immediate reward for things you do and where the rules you have to follow and the end goals you have are more obvious.
 
-[Here](https://trello.com/b/EekGabpj) is a list of movies I am playing now or want to play later. I track the games I have played [here](https://www.grouvee.com/user/nikivi/).
+## Games played
+I track the games I have played [here](https://www.grouvee.com/user/nikivi/). [Here](https://trello.com/b/EekGabpj/games) is a list of games I am playing now or want to play soon.  
+
+Below are the games I've played sorted by years I've tried them in.
+- [2018](https://www.grouvee.com/user/nikivi/shelves/255545-played-in-2018/)
