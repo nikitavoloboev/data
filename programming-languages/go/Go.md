@@ -13,9 +13,6 @@ Go promotes composition over inheritance.
 - You can `log.Fatal(err)` when playing with code.
 	- In actual applications you need to decide what you need to do with each error response - bail immediately, pass it to the caller, show it to the user, log it and continue, etc ...
 
-## Snippets
-- [read file line by line](https://gist.github.com/69824f3c2f29ae5fc6519452e2c89a4d)
-
 ## Links
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Performance without the event loop (2015)](https://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
@@ -28,5 +25,6 @@ Go promotes composition over inheritance.
 - Simply pushing my source code to GitHub, makes it `go get`table.
 - Interface types represent fixed sets of methods
 - the prevailing wisdom in Go is to use a flat directory structure and only create new directories when you are building self-contained functionality
-- `go get` = download the source code to your PC
-- `go install` = download, build, and put it in the path so you can use it
+- `go get` = download the source code to your PC.
+- `go install` = download, build, and put it in the path so you can use it.
+- I don't need to comment all functions as some are self describing. I do need to comment exported functions however.
