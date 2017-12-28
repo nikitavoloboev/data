@@ -227,6 +227,7 @@
 * [Research papers](research-papers/research-papers.md)
 	* [A view of mathematics](research-papers/a-view-of-mathematics.md)
 * [Looking back](looking-back/looking-back.md)
+	* [2017](looking-back/2017/2017.md)
 * [Other](other/other-things.md)
 	* [Wiki workflow](other/wiki-workflow.md)
 	* [Resources](other/Resources.md)
