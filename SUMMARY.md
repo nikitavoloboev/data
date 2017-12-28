@@ -56,6 +56,7 @@
 		* [Reeder](macOS/apps/Reeder.md)
 		* [Day One](macOS/apps/day-one.md)
 		* [Airmail](macOS/apps/Airmail.md)
+		* [Timing](macOS/apps/timing.md)
 		* [Little Snitch](macOS/apps/little-snitch.md)
 	* [Homebrew](macOS/Homebrew.md)
 	* [JXA](macOS/jxa.md)
