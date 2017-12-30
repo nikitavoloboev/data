@@ -11,6 +11,9 @@ I am very open to the public sharing both the things I know and like and also th
 ### Photo a Day
 I make a picture of me every day and put it in the journal. Often doing it a new and different places and saying how I feel about the day. I want to do a collage of these pictures in the future. Sometimes I put more than one photo there. The idea is that I can replicate what happened to me from that day just from the photos.
 
+### Check ins
+Day One has a pretty awesome `activity stream` feature where it tracks the places you have been and visited to across your day and you can `check in` into those places and add some photos or comments to go alongside these check ins. I use this a lot and I especially love looking back at all the places I've been to and things I've done over time later by exploring Day One map.
+
 ### Evaluation
 Weekly evaluation and self reflection. I use [Timing](https://timingapp.com/?lang=en) and [Wakatime](https://wakatime.com/dashboard) for this and see through these tools to know how I spent my time and where I can do better.
 
@@ -34,5 +37,4 @@ In similar vein to `Evaluation`. I try to track and be more conscious about my p
 
 ### Family
 I also have a dedicated journal where I put all the memories I have shared with my family.
-
 
