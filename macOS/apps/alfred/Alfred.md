@@ -26,3 +26,4 @@ You can use [this script](https://gist.github.com/deanishe/35faae3e7f89f629a94e)
 
 ## Notes
 - [Package workflows from CLI with version numbers](https://www.alfredforum.com/topic/10838-how-to-package-workflows-from-the-command-line/?tab=comments#comment-55677)
+- Alfred can preserve a user's Hotkey shortcuts, keywords and workflow variable values. Everything else in the workflow directory gets overwritten.

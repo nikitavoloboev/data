@@ -19,6 +19,9 @@ I also love tagging entries by country and geo tagging every entry. And I use ta
 ### Life
 Writing about my life in a more open and free way. If something memorable happened to my life or I've been through something or want to say something, I write it there.
 
+### Dreams
+My dream journal. I want to lucid dream and to do that you need to remember your dreams. You also need to get into the habit of making reality checks. I write about my dreams briefly in this journal and note down common themes about them, if any.
+
 ### Evaluation
 Weekly evaluation and self reflection. I use [Timing](https://timingapp.com/?lang=en) and [Wakatime](https://wakatime.com/dashboard) for this and see through these tools to know how I spent my time and where I can do better.
 
