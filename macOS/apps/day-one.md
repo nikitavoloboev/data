@@ -11,20 +11,16 @@ I am very open to the public sharing both the things I know and like and also th
 ### Photo a Day
 I make a picture of me every day and put it in the journal. Often doing it a new and different places and saying how I feel about the day. I want to do a collage of these pictures in the future. Sometimes I put more than one photo there. The idea is that I can replicate what happened to me from that day just from the photos.
 
-### Check ins
+### Travel
 Day One has a pretty awesome `activity stream` feature where it tracks the places you have been and visited to across your day and you can `check in` into those places and add some photos or comments to go alongside these check ins. I use this a lot and I especially love looking back at all the places I've been to and things I've done over time later by exploring Day One map.
 
-### Evaluation
-Weekly evaluation and self reflection. I use [Timing](https://timingapp.com/?lang=en) and [Wakatime](https://wakatime.com/dashboard) for this and see through these tools to know how I spent my time and where I can do better.
+I also love tagging entries by country and geo tagging every entry. And I use tags like `new city` or `new country` or `new ..` often.
 
 ### Life
 Writing about my life in a more open and free way. If something memorable happened to my life or I've been through something or want to say something, I write it there.
 
-### Travel
-Documenting my travel experiences. Tagging entries by country and geo tagging every entry. I also use tags like `new city` or `new country` or `new ..` often. I also use Swarm app for checkins of various places.
-
-### Dreams
-My dream journal. I want to lucid dream and to do that you need to remember your dreams. You also need to get into the habit of making reality checks. I write about my dreams briefly in this journal and note down common themes about them, if any.
+### Evaluation
+Weekly evaluation and self reflection. I use [Timing](https://timingapp.com/?lang=en) and [Wakatime](https://wakatime.com/dashboard) for this and see through these tools to know how I spent my time and where I can do better.
 
 ### Autolog
 I use [IFTTT](../../tools/IFTTT.md) to automatically post my public activity from Twitter / Instagram / Facebook to this journal. Since I do want to lead a more open life, I very often post in the public outlets and share my experiences there so I want to have those experiences in Day One together with my more private memories. 
