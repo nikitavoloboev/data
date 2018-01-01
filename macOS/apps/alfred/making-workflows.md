@@ -28,5 +28,3 @@ In cases where I am planning to use Go to write the workflow. Here are the steps
 	- that creates a symlink between the workflow directory and where the actual workflow lies
 - write my Go code inside `alfred-` folder and when I want to compile it to run from Alfred, I run `alfred build`
 
-### Workflows in other language
-TODO: 

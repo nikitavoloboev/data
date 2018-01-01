@@ -19,7 +19,8 @@ My workflow is always changing but currently it consists of the following.
 
 ## Bookmarks
 - Alfred My Mind -  All my public facing bookmarks.
-- Safari and Chrome local b
+- Safari and Chrome local bookmarks - Only personal bookmarks.
+- Alfred Go Fast - Everything else.
 
 ## Photographs
 - Personal images in Photos and other images in [Pixave](../macOS/apps/Pixave.md)
