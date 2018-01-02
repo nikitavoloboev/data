@@ -16,7 +16,8 @@ Some simple rules to follow for myself doing things.
 
 ## Git
 - Do atomic commits and write proper appropriate commit messages.
-- Don't use emojis in commit messages aside from ✨ commit.
+- Don't use emojis in commit messages. Aside from ✨ commit in [Knowledge](https://github.com/nikitavoloboev/knowledge) repo. 
+	- Everything else, add explicit, ideally atomic commit messages.
 
 ## Programming
 - Comment over my code (be mindful of not repeating things, sometimes code speaks for itself).

@@ -241,6 +241,7 @@
 - [Dropbox](https://www.dropbox.com/home)
 
 ## Websites (w:)
+- [Golang weekly](https://golangweekly.com)
 - [Stack share](https://stackshare.io)
 - [Startup tracker](https://startuptracker.io/home)
 - [Letterboxd](https://letterboxd.com)
