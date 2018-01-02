@@ -19,9 +19,10 @@ Some simple rules to follow for myself doing things.
 - Don't use emojis in commit messages. Aside from ✨ commit in [Knowledge](https://github.com/nikitavoloboev/knowledge) repo. 
 	- Everything else, add explicit, ideally atomic commit messages.
 
-## Programming
+## Code
 - Comment over my code (be mindful of not repeating things, sometimes code speaks for itself).
 - Uppercase comments for consistency.
+- Write code to be read by other people. Prefer to be explicit over implicit.
 
 ## Karabiner
 - Document any changes I make in Karabiner map instantly in the map (update where necessary).

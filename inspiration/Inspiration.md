@@ -6,3 +6,4 @@ Here are some things I found interesting or inspiring
 - [I am Stevedao](https://iamstevendao.github.io/portfolio/) 
 - [Tonsky](http://tonsky.me/about/)
 - [Isobit](https://www.isobit.io)
+- [Adam Morse](http://mrmrs.cc)
