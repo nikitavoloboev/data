@@ -232,7 +232,7 @@
 	* [Bookmarks](links/Bookmarks.md)
 	* [Websites](links/Websites.md)
 	* [Interesting things](links/interesting-things.md)
-	* [Resources](other/Resources.md)
+	* [Resources](links/Resources.md)
 	* [Reddit](links/Reddit.md)
 	* [Reddit multi](links/reddit-multi.md)
 	* [Slack](links/Slack.md)

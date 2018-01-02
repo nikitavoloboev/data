@@ -5,3 +5,4 @@ Here are some things I found interesting or inspiring
 - [Adam Pritchard](https://crypti.cc/) 
 - [I am Stevedao](https://iamstevendao.github.io/portfolio/) 
 - [Tonsky](http://tonsky.me/about/)
+- [Isobit](https://www.isobit.io)
