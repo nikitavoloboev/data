@@ -14,4 +14,3 @@ I love watching interesting talks on various subjects. I hope to give a few talk
 
 ## Startups
 - [New Tech Start-Up Bubble (2017)](https://www.youtube.com/watch?v=G7vrCpWbmDw)
-
