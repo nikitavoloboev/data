@@ -235,7 +235,7 @@
 	* [Reddit multi](links/reddit-multi.md)
 	* [Slack](links/Slack.md)
 	* [Spectrum](links/Spectrum.md)
-	* [GitHub trending](links/github-trending.md)
+	* [GitHub trending](links/github-trending.md)l
 * [Looking back](looking-back/looking-back.md)
 	* [2017](looking-back/2017/2017.md)
 * [Other](other/other-things.md)
