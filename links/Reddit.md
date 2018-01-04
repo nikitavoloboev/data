@@ -2,6 +2,7 @@
 ## General
 - [iPhonegraphy](https://www.reddit.com/r/iPhoneography/)
 - [Photography](https://www.reddit.com/r/photography/)
+- [Speedrun](https://www.reddit.com/r/speedrun/)
 
 ## Web
 - [Web dev](https://www.reddit.com/r/webdev/)

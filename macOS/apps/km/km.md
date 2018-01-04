@@ -23,7 +23,9 @@ It brings focus to the group sidebar and then you can start typing the starting 
 There is a lot of other things you can do to automate and customise the Keyboard Maestro editor itelf. For more information, you can take a look [here](https://forum.keyboardmaestro.com/t/automating-the-keyboard-maestro-editor/4184). And for a collection of community created awesome macros you can check out [this](https://forum.keyboardmaestro.com/t/best-macro-list/4118).
 
 ## Links
-- [Write once, never write again](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8) : goes over how to use [Typinator](http://www.ergonis.com/products/typinator/) together with KM to automate writing text
+- [Write once, never write again](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8) - Goes over how to use [Typinator](http://www.ergonis.com/products/typinator/) together with KM to automate writing text.
 - [How I manage my huge KM library](https://forum.keyboardmaestro.com/t/notation-i-use-to-manage-my-macros/8907)
-- [KM forum](https://forum.keyboardmaestro.com/latest) : great place to discuss all things related to KM
+- [KM forum](https://forum.keyboardmaestro.com/latest) - Great place to discuss all things related to KM.
 
+## Notes
+- It is always better to run compiled Applescripts.  

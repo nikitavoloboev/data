@@ -1,6 +1,9 @@
 # Rules
 Some simple rules to follow for myself doing things.
 
+## General
+- Name and prefix things with focus on clarity. The semantics of prefixes should be obvious. And naming should be appropriate. 
+
 ## Wiki
  - Only add snippets of code that are really useful.
 	- Keep simple things I use for my own reference in SnippetsLab only.
