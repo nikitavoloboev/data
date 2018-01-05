@@ -17,8 +17,8 @@ I am currently not writing any music of my own although I am learning. I do howe
 ## [Videos on Youtube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
 I mostly make videos about macOS automation. I map all the videos I have made as a map [here](https://my.mindnode.com/1TFgMjvqLR63KyTzBNL7o9oQbNVEuPvLJg6f7XxM#219.0,80.7,2). I also share [many playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view_as=subscriber) I made there.
 
-## [Streaming on Twitch](https://www.twitch.tv/nikiivi)
-I sometimes stream some of the things I am working on for fun on [Twitch](https://www.twitch.tv/nikiivi). I try to explain things as I do them. 
+## [Streaming on Twitch](https://www.twitch.tv/niikivi)
+I sometimes stream some of the things I am working on for fun on [Twitch](https://www.twitch.tv/niikivi). I try to explain things as I do them. 
 
 ## [Curated Images on Imgur](https://niikivi.imgur.com)
 I also curate many [Imgur albums](https://niikivi.imgur.com) of various things.
