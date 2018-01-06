@@ -3,4 +3,4 @@ I want to share my journey in life both for myself and other people who might fi
 
 ## [2017](../looking-back/2017/2017.md)
 ## 2018
-- January
+- [January](2018/january-2018.md)
