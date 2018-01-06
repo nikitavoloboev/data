@@ -147,6 +147,8 @@
 * [Machine learning](machine-learning/machine-learning.md)
 	* [Neural networks](machine-learning/neural-networks.md)
 	* [Unsupervised learning](machine-learning/unsupervised-learning.md)
+* [Package managers](package-managers/package-managers.md)
+	* [nix](package-managers/Nix.md)
 * [Tools](tools/Tools.md)
 	* [GitBook](tools/Gitbook.md)
 	* [Dropbox](tools/Dropbox.md)

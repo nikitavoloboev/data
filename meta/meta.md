@@ -27,11 +27,11 @@ The structure of each of the posts will often look roughly like this:
 	- Various subtopics related to the main topic.
 4. Snippets
 	- If the topic is programming related, I will attach a few Gists related to the topic I personally use.
-5. Links
-	- Links related to the topic.
-6. Notes
+5. Notes
 	- My own personal notes on the matter as well as things I found interesting on the internet regarding the topic.
 		- I often give a link of where I got things from.
+6. Links
+	- Links related to the topic.
 
 Aside from this wiki, I also share [various mind maps I have made](./my-mind.md).
 

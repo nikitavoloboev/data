@@ -19,8 +19,6 @@ I hope you get the idea for how powerful both Karabiner and this way of visualis
 
 ## Links
 - [My detailed post on Alfred forum mentioning how I use Karabiner](https://www.alfredforum.com/topic/10673-how-to-make-the-alfred-search-window-a-frontmost-app/?do=findComment&comment=57212)
-
-## Notes
 - [Interesting setup](https://github.com/dunkarooftop/thought/blob/master/keymaps.org)
 - [Karabiner Elements documentation](https://qiita.com/s-show/items/a1fd228b04801477729c) (in Japanese)
 - [Tekezo's launcher mode](https://github.com/pqrs-org/KE-complex_modifications/pull/206/files)

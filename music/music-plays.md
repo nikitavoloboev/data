@@ -14,13 +14,11 @@ I share a lot of [my personal Spotify playlists](https://open.spotify.com/user/n
 - [Code - new wave](https://open.spotify.com/user/nikitavoloboev/playlist/07jSX4atDq4etqLS3Nn6Ey)
 - [Coding Go](https://open.spotify.com/user/nikitavoloboev/playlist/4pRiHQwLoSc8MQ23swgts8)
 
-Currently I am really liking and listening to [this playlist](https://open.spotify.com/user/nikitavoloboev/playlist/4pRiHQwLoSc8MQ23swgts8) a lot.
-
 ## Soundcloud
 I also often like to explore the rich library of music on SoundCloud. I share all the music I liked on [my profile](https://soundcloud.com/nikitavoloboev).
 
 And here are some playlists I like from there:
-- [Soo good](https://soundcloud.com/nikitavoloboev/sets/soo-good)
+- [Favourite](https://soundcloud.com/nikitavoloboev/sets/favourite)
 
 ## Youtube
-And finally I share a [big playlist of all the music I like](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) on YouTube. And a [little playlist with vaporware](https://www.youtube.com/playlist?list=PL0nGxteCFLXapia7BObp8ehDADOq1l5sB) music.
+And finally I also share a [big playlist of all the music I like](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) on YouTube. 
