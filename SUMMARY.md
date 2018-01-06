@@ -27,6 +27,7 @@
 	* [Compassion](life/Compassion.md)
 	* [My principles](life/my-principles.md)
 	* [Lessons learned](life/lessons-learned.md)
+	* [Success](life/Success.md)
 * [Writing](writing/Writing.md)
 	* [Writing prompts](writing/writing-prompts.md)
 	* [Markdown](writing/Markdown.md)
