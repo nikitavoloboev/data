@@ -172,7 +172,7 @@
 * [Cryptocurrencies](cryptocurrencies/cryptocurrencies.md)
 	* [Bitcoin](cryptocurrencies/Bitcoin.md)
 	* [Ethereum](cryptocurrencies/ethereum.md)
-	* [Stellar](/Users/nikivi/src/github/nikitavoloboev/personal/knowledge/cryptocurrencies/Stellar.md)
+	* [Stellar](cryptocurrencies/Stellar.md)
 * [Privacy](privacy/Privacy.md)
 * [Games](games/Games.md)
 * [Streaming](streaming/Streaming.md)
