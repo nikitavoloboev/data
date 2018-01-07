@@ -6,6 +6,7 @@
 ## Tools
 - [Webhook](https://github.com/adnanh/webhook)
 - [Santa](https://github.com/google/santa)
+- [Bleeve search](http://www.blevesearch.com)
 
 ## Music instruments
 - [Theremin](http://www.wikiwand.com/en/Theremin)
