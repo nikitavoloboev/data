@@ -1,6 +1,6 @@
 # Researching
 ## Crypto
-- [Cardano sl](https://github.com/input-output-hk/cardano-sl/) - Cryptographic currency implementing Ouroboros PoS protocol. 
+- [Cardano sl](https://github.com/input-output-hk/cardano-sl/) - Cryptographic currency implementing Ouroboros PoS protocol.
 
 ## Make web apps
 - [neutrino dev](https://github.com/mozilla-neutrino/neutrino-dev)

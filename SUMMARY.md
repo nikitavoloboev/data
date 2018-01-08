@@ -232,6 +232,7 @@
 	* [A view of mathematics](research-papers/a-view-of-mathematics.md)
 * [Links](links/Links.md)
 	* [Researching](links/Researching.md)
+	* [Reading](links/reading.md)
 	* [Websites](links/Websites.md)
 	* [Interesting things](links/interesting-things.md)
 	* [Resources](links/Resources.md)
