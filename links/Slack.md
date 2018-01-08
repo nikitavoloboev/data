@@ -13,6 +13,7 @@
 - [VS Code vim](https://vscodevim.slack.com/messages/C0ENQMTUM/)
 
 ## Other
+- [Stellar](https://stellar-public.slack.com/messages/C03QK9DJ8/)
 - [Overcast](https://overcastfm.slack.com/messages/C7MBRCNRF/)
 - [Preact](https://preact.slack.com/messages/C3NMBSJKH/)
 - [Clojurians](https://clojurians.slack.com/messages/C053AK3F9/)

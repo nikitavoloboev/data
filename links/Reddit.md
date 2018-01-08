@@ -3,6 +3,7 @@
 - [iPhonegraphy](https://www.reddit.com/r/iPhoneography/)
 - [Photography](https://www.reddit.com/r/photography/)
 - [Speedrun](https://www.reddit.com/r/speedrun/)
+- [Stellar](https://www.reddit.com/r/Stellar/)
 
 ## Web
 - [Web dev](https://www.reddit.com/r/webdev/)
