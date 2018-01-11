@@ -11,7 +11,7 @@ Here is a list of various things I track for my own use and reference.
 - [Watching movies](https://trello.com/b/jFaHJFow) - Contains movies I plan on watching soon.
 
 ## TV series
-- [Trakt](https://trakt.tv/users/nikivi) - Contains [TV series I have seen](https://trakt.tv/users/nikivi/history) and [ratings I made](https://trakt.tv/users/nikivi/ratings) for different episodes/seasons.
+- [Trakt](https://trakt.tv/users/nikitavoloboev) - Contains [TV series I have seen](https://trakt.tv/users/nikitavoloboev/history) and [ratings I made](https://trakt.tv/users/nikitavoloboev/ratings) for different episodes/seasons.
 - [TV Series](../tv-series/tv-series.md) - Contains TV series I have seen already with my thoughts and a small reviews on each one.
 - [Watching series](https://trello.com/b/iUtT6wmu) - Contains TV series I am planning to watch soon.
 

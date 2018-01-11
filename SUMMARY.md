@@ -111,6 +111,7 @@
 * [Physics](physics/Physics.md)
 * [Quantum physics](quantum-physics/quantum-physics.md)
 * [Interviews](interviews/Interviews.md)
+	* [CV](interviews/CV.md)
 	* [LeetCode](interviews/Leetcode.md)
 * [Consciousness](consciousness/Consciousness.md)
 	* [Ego](consciousness/Ego.md)

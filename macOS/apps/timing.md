@@ -1,5 +1,5 @@
 # [Timing](https://timingapp.com/?lang=en)
-I use the timing to fully automate tracking my time on my computer.
+I use Timing app to fully automate tracking my time on my computer.
 
 My projects look like this now:
 
