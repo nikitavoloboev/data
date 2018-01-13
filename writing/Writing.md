@@ -17,5 +17,5 @@ Read other people's work. Read books. Both fiction and non fiction, and get a ta
 
 # Links
 - [How I write](https://medium.com/@NikitaVoloboev/how-i-write-cdc2cebdc70c)
-	- what my writing setup looks like on my mac
-	- although I now use Ulysses full screen and use many macros and few alfred workflows to quickly navigate through my writing library
+	- What my writing setup looks like on my mac.
+	- Although I now use Ulysses full screen and use many macros and few alfred workflows to quickly navigate through my writing library.

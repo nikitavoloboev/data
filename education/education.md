@@ -17,8 +17,3 @@ However I believe we are genuinely entering a new era of learning. Where the _sh
 Learning is a process of self discovery. You are learning more about yourself as you learn about your surroundings. You learn about how complex some things are and how limiting our own brains are. How you are not really in control of your thoughts and how curiosity and imagination can produce really wonderful things.
 
 In essence, though, I just wish every person on this planet could get the same level of education as everyone else. And I hope to do my part in making that wish a reality with [Learn Anything](https://learn-anything.xyz/).
-
-
-# Links
-- [LA](https://learn-anything.xyz/cognitive-science/cognition/learning/education)
-

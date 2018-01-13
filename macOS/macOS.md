@@ -8,6 +8,6 @@ In any way, I like to think my journey with macOS, operating systems, programmin
 I once had an idea to make a [macOS app of my own](https://github.com/nikitavoloboev/last-time) to automatically track things I do. However I found the development of it quite challenging. Perhaps I will give a go at completing some time soon again.
 
 ## Snippets
-- [turn internal keyboard on or off](https://gist.github.com/ff9fd158b6831dfcacf33f54bc91945c)
-- [reset launchpad](https://gist.github.com/21c10b91e0f4b4093fdfe6840aea1079)
-- [remove dock animation](https://gist.github.com/f36012550c4fed06bd2f87eb76df15ec)
+- [Turn internal keyboard on or off](https://gist.github.com/ff9fd158b6831dfcacf33f54bc91945c)
+- [Reset launchpad](https://gist.github.com/21c10b91e0f4b4093fdfe6840aea1079)
+- [Remove dock animation](https://gist.github.com/f36012550c4fed06bd2f87eb76df15ec)
