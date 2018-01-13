@@ -12,6 +12,7 @@ But there is many more. [Here](https://my.mindnode.com/t9622zX2emWC3HxLNkFebMzux
 - Nils Frahm
 - Mecca:83
 - Solar Fields
+- The Toxic Avenger
 
 ## Interesting artists
 - Ifan Dafydd

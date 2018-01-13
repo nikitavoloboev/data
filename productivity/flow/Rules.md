@@ -2,7 +2,7 @@
 Some simple rules to follow for myself doing things.
 
 ## General
-- Name and prefix things with focus on clarity. The semantics of prefixes should be obvious. And naming should be appropriate. 
+- Name and prefix things with focus on clarity. The semantics of prefixes should be obvious. And naming should be appropriate.
 
 ## Wiki
  - Only add snippets of code that are really useful.
@@ -189,3 +189,6 @@ Some simple rules to follow for myself doing things.
 ## Day One
  - Mark all memorable moments and experiences in Day One.
 - Mark memorable moments throughout the day and put them in `Photo a Day` journal. 
+
+## Images
+- Keep screenshots and interesting images saved in Pixave.
