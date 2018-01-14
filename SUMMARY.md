@@ -228,7 +228,6 @@
 	* [Surely you are joking Mr Feynman](books/surely-you-are-joking-mr-feynman.md)
 	* [University physics with modern physics](books/university-physics-with-modern-physics.md)
 	* [Thinking, fast and slow](books/thinking-fast-and-slow.md)
-	* [Database System Concepts](books/database-system-concepts.md)
 * [Research papers](research-papers/research-papers.md)
 	* [A view of mathematics](research-papers/a-view-of-mathematics.md)
 * [Links](links/Links.md)

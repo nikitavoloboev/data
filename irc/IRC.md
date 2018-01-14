@@ -10,3 +10,6 @@ Here are the IRC channels I very often frequent :
 ## IRC commands  
 Textual keeps a command reference [here](https://help.codeux.com/textual/Command-Reference.kb).
 - `/list` - will open channel list
+
+## Links
+- [IRC Gitter](https://irc.gitter.im/) - Connect to Gitter with Textual.
