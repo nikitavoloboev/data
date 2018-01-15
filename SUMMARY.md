@@ -243,9 +243,8 @@
 	* [GitHub trending](links/github-trending.md)
 * [Looking back](looking-back/looking-back.md)
 	* [2017](looking-back/2017/2017.md)
-* Test
-	* [CV](pdf/cv.pdf)
 * [Other](other/other-things.md)
+	* [CV](other/cv.pdf)
 	* [Wiki workflow](other/wiki-workflow.md)
 	* [Advice](other/Advice.md)
 	* [Understand](other/Understand.md)
