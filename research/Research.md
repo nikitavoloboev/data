@@ -7,7 +7,6 @@ The most useful thing that has helped me be more productive in uncovering new an
 As for the research itself, I use all the tools available to me to answer a question I have. I love using macOS dictionary app to quickly go and read a wiki article. It is amazing how fast it lets me both search for things there and simply explore the depth of the wiki.
 
 For searching, I use:
-
 - Google - General / programming related.
 - DuckDuckGo - Private searches / instant answers / cheat sheets.
 - GitHub - Software / repos / code search

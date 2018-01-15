@@ -97,6 +97,7 @@
 	* [GitHub](open-source/GitHub.md)
 * [Languages](languages/Languages.md)
 	* [English](languages/english/english.md)
+	* [Russian](languages/Russian.md)
 * [Text editors](text-editors/text-editors.md)
 	* [VS Code](text-editors/vs-code.md)
 	* [Vim](text-editors/vim/Vim.md)
@@ -243,6 +244,8 @@
 	* [GitHub trending](links/github-trending.md)
 * [Looking back](looking-back/looking-back.md)
 	* [2017](looking-back/2017/2017.md)
+	* 2018
+		* [January](looking-back/2018/january-2018.md)
 * [Other](other/other-things.md)
 	* [Wiki workflow](other/wiki-workflow.md)
 	* [Advice](other/Advice.md)
