@@ -11,7 +11,6 @@ I make notes on all the books I have read. Below are the books I have covered th
 - ❌ = I didn't finish reading the book. 
 
 ### 2017
- - [Database system concepts](../books/database-system-concepts.md) 📖
 - [Thinking fast and slow](../books/thinking-fast-and-slow.md) 📖
 - [Go in action](../books/go-in-action.md) ❌
 - [AI - Modern Approach](../books/ai-modern-approach.md) ❌
