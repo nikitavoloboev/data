@@ -10,7 +10,7 @@ With that said, if you are reading this and want to know more about _my workflow
 Parts of this guide assume you use macOS. I put some time estimates on how long I think some of the points might take to complete.
 
 ## 1. Read my articles (\~ 50 min)
-I would read through some of the articles I wrote (you can view all of them [here](https://my.mindnode.com/qVGMak6nNCFxh5YxUGR3z6RKrmVNP6sr1Pk721FB#136.3,-676.8,0)). Just pick the ones that have 🌟on them as those are ones that I consider better than others.
+I would read through some of the articles I wrote (you can view all of them [here](my-articles.md)). Just pick the ones that have 🌟on them as those are ones that I consider better than others.
 
 Some articles I wrote are more actionable and focused on a specific topic, others I am sharing some thoughts I have and how they relate to my life.
 
