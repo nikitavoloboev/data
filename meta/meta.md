@@ -8,7 +8,7 @@ Each folder is a topic that can include other topics under it related to the par
 I also really love using night mode. You can switch to it from here if you haven't:
 ![](https://i.imgur.com/k6EDR4K.png)
 
-If this is your first time visiting this wiki, you can just start reading from the top entry down and see what sparks your interest.  
+If this is your first time visiting this wiki, you can just start reading from the top entry down and see what sparks your interest.
 
 I will be updating this wiki quite often as I use it myself daily both to keep an account of things I know as well as things I want to know and everything in-between.
 
@@ -19,18 +19,13 @@ If you find some mistake, especially if something that I say is plain wrong, ple
 ## Content Structure
 Each topic will have a title, some description of it, usually my own thoughts and knowledge on it as well as referencing some resources or links I have liked or used that helped me either understand the topic or gain appreciation of it.
 
-The structure of each of the posts will often look roughly like this: 
+The structure of each of the posts will often look roughly like this:
 1. Title
-2. Description
-	- My thoughts on the topic.
-3. Subtopics 
-	- Various subtopics related to the main topic.
-4. Notes
-	- My own personal notes on the matter as well as things I found interesting on the internet regarding the topic.
-		- I often give a link of where I got things from.
-5. Links
-	- Links related to the topic.
+2. Description - My thoughts on the topic.
+3. Subtopics - Various subtopics related to the main topic.
+4. Notes - My own personal notes on the matter as well as things I found interesting on the internet regarding the topic. I often give a link of where I got things from.
+5. Links - Links related to the topic.
 
-Aside from this wiki, I also share [various mind maps I have made](./my-mind.md).
+Aside from this wiki, I also share [various mind maps I have made](my-mind.md).
 
 If you are interested in how I maintain and write this wiki, I wrote about it in detail [here](../other/wiki-workflow.md).

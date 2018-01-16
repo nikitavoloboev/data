@@ -1,12 +1,12 @@
 # [My mind](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3 "My Mind")
-![](https://i.imgur.com/mqiTUzs.png)
+![](https://i.imgur.com/6wmvGNT.png)
 
 Aside from this wiki. I also heavily use and update my interactive mind maps. 
 
 You can see all these mind maps I have made [here](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3).
 
 ## Why I made them
-I use these mind maps for many things. Since these mind maps are interactive and allow you to neatly link information together, they are much better suited for some formats. Like visualising my enormous [Karabiner](../macOS/karabiner/Karabiner.md) configuration I made:
+I use these mind maps for many things. Since these maps are interactive and allow you to neatly link information together, they are much better suited for some formats. Like visualising my enormous [Karabiner](../macOS/karabiner/Karabiner.md) configuration I made:
 
 ![](https://i.imgur.com/d8hCSbQ.png)
 
@@ -33,7 +33,7 @@ With all that said. The best way to know about me as a person, what I like and w
 This wiki acts as a first class citizen and anything that I ultimately want to share or have shared will be written down here, somewhere. Most of the mind maps I have made will be linked to from here and will have some description of the map too.
 
 ## Future
-There are many, many things I am yet to add to this little system I am planning to make. I am still trying to find the perfect balance of how my knowledge, projects, thoughts and ideas and programmes and code should be structured but my goals with both this wiki and my mind maps are : 
+There are many, many things I am yet to add to this little system I am planning to make. I am still trying to find the perfect balance of how my knowledge, projects, thoughts and ideas and programmes and code should be structured but my goals with both this wiki and my mind maps are: 
 
 1. Fast access to all this knowledge base
 	- Achieved through:

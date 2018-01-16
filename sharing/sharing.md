@@ -1,6 +1,6 @@
 # Sharing
 ## [Code on GitHub](https://github.com/nikitavoloboev)
-I like to solve problems I have with code and sharing the things I made on [GitHub](https://github.com/nikitavoloboev). I map all the repositories I made as a map [here](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#49.4,-944.4,0).
+I like to solve problems I have with code and sharing the things I made on [GitHub](https://github.com/nikitavoloboev). I map all the repositories I made [here](my-github.md).
 
 ## [Thoughts on Twitter](https://twitter.com/nikitavoloboev)
 I share all of the things I am up to right now on [my Twitter page](https://twitter.com/nikitavoloboev). I also curate a [few Twitter lists](https://twitter.com/nikitavoloboev/lists) where I get most of my news from.
