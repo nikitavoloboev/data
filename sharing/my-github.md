@@ -4,7 +4,6 @@ Below is a list of all the GitHub repositories I shared.
 The number between brackets shows the year I created the repo in and the repos are sorted by category. Repos with a 🌟 are my `favourite`. Repos with 💡 mean they are in an idea stage still.
 
 ## [Learn Anything](https://github.com/learn-anything)
-Repositories related to [Learn Anything](https://learn-anything.xyz/) website
 - [Learn Anything (2017) 🌟](https://github.com/learn-anything/learn-anything) - Search Interactive Maps to Learn Anything.
 - [Alfred Learn Anything (2017) 🌟](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search Learn Anything.
 

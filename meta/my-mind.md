@@ -26,7 +26,7 @@ Every mind map I made and shared is linked to some other mind map in some way an
 Some nodes contain a description which is indicated by this little symbol here that you can click: 
 ![](https://i.imgur.com/9lN9cFk.png)
 
-I use various emojis to indicate certain things like indicating that a node links to another map with 🗺. I also use emojis to make actionable tasks for my own personal use that you don't have to know but if you do, you can view [this map](https://my.mindnode.com/s4ekUp1MmNr7VDeCNqcGfiHAtUGEtANRxwPB3vJ8#30.4,-40.1,2) which shows all the emojis I use and their meanings.
+I use various emojis to indicate certain things like indicating that a node links to another map with 🗺.
 
 With all that said. The best way to know about me as a person, what I like and what I am into and what I am working on is to read through this wiki. With time, it will contain essentially everything that I know _in my own words_. 
 
