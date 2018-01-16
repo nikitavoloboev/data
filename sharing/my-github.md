@@ -1,7 +1,7 @@
 # My GitHub repositories
 Below is a list of all the GitHub repositories I shared.
 
-The number between brackets shows the year I wrote the article in and the articles are sorted by category. Repositories with a 🌟 are my `favourite`. Repositories with 💡 mean they are in an idea stage still.
+The number between brackets shows the year I created the repo in and the repos are sorted by category. Repos with a 🌟 are my `favourite`. Repos with 💡 mean they are in an idea stage still.
 
 ## [Learn Anything](https://github.com/learn-anything)
 Repositories related to [Learn Anything](https://learn-anything.xyz/) website
