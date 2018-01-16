@@ -6,7 +6,7 @@ Aside from this wiki. I also heavily use and update my interactive mind maps.
 You can see all these mind maps I have made [here](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3).
 
 ## Why I made them
-I use these mind maps for many things. Since these mind maps are interactive and allow you to neatly link information together, they are much better suited for some formats. Like visualising [all of the articles I ever wrote](https://my.mindnode.com/qVGMak6nNCFxh5YxUGR3z6RKrmVNP6sr1Pk721FB#136.3,-676.8,0) grouped by category or helping me visualise my enormous [Karabiner](../macOS/karabiner/Karabiner.md) configuration I made:
+I use these mind maps for many things. Since these mind maps are interactive and allow you to neatly link information together, they are much better suited for some formats. Like visualising my enormous [Karabiner](../macOS/karabiner/Karabiner.md) configuration I made:
 
 ![](https://i.imgur.com/d8hCSbQ.png)
 
@@ -18,7 +18,7 @@ I can then also instantly access any of these mind maps or any entry in this wik
 
 Which as the name suggests, acts as my second brain that I use to quickly access anything I [have indexed for myself](../knowledge/knowledge-indexing.md). I share it because I wish other people took this idea and made their own _Alfred My Mind_ or a _knowledge wiki_ but for their own use. Sharing knowledge and tools like that is very powerful and makes a big difference. As I use and reuse other people's work and knowledge many times a day. It never hurts to add to the mix.
 
-Essentially mind maps act as a digital augmentation of my mind in many ways. I want to visualise knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](https://medium.com/@NikitaVoloboev), the [YouTube videos I make](https://github.com/nikitavoloboev/my-youtube)  and of course finally through the [code I write](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) to make useful tools, apps and interactive visualisations that all can use and enjoy.
+Essentially mind maps act as a digital augmentation of my mind in many ways. I want to visualise knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](https://medium.com/@NikitaVoloboev), the [YouTube videos I make](../sharing/my-youtube.md)  and of course finally through the [code I write](../sharing/my-github.md) to make useful tools, apps and interactive visualisations that all can use and enjoy.
 
 ## How to use these mind maps
 Every mind map I made and shared is linked to some other mind map in some way and [this map](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3 "My Mind") is the starting point.
