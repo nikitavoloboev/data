@@ -1,9 +1,9 @@
 # Music artists
-I have many favourite artists I like. Lately I have been really liking listening to: 
+I have many favourite artists I like. Lately I have been really liking listening to:
 - Four Tet
 - Ludovico Einaudi
 - Hidden Orchestra
-- Emancipator 
+- Emancipator
 
 But there is many more. [Here](https://my.mindnode.com/t9622zX2emWC3HxLNkFebMzuxWoF8PGH2MLjREpy) is a map of all the artists I love.
 
@@ -13,10 +13,68 @@ But there is many more. [Here](https://my.mindnode.com/t9622zX2emWC3HxLNkFebMzux
 - Mecca:83
 - Solar Fields
 - The Toxic Avenger
+- [Hans Zimmer](https://soundcloud.com/hanszimmer)
+- [Toro y Moi](https://soundcloud.com/toroymoi)
+- Murcof
+- [Telefon Tel Aviv](https://soundcloud.com/telefon-tel-aviv)
+- [TOKiMONSTA](https://soundcloud.com/tokimonsta)
+- [Mura Masa](https://soundcloud.com/muramasamusic)
+- [Max Richter](https://soundcloud.com/max-richter)
+- [tsaik](https://soundcloud.com/tsaik)
+- [baaskaT](https://soundcloud.com/baaskat-beats)
+- [Otto Totland](https://soundcloud.com/sonic-pieces/otto-a-totland-seveen)
+- [Aso](https://soundcloud.com/aricogle)
+- [Caribou](https://soundcloud.com/caribouband)
+- Frenic
+- [Gramatik](https://soundcloud.com/gramatik)
+- [Tame Impala](https://soundcloud.com/tame-impala)
+- [Bon Iver](https://soundcloud.com/boniver)
+- [40 Winks](https://soundcloud.com/40winks)
+- [Ludovico Einaudi](https://soundcloud.com/ludovicoeinaudi)
+- [J Dilla](https://soundcloud.com/jdilla)
+- [18 Carat Affair](https://soundcloud.com/18carataffair)
+- Patrick O’Hearn
+- [Glass Animals](https://soundcloud.com/glassanimals)
+- [Lorn](https://soundcloud.com/lorn)
+- [il:lo](https://soundcloud.com/il-lomusic)
+- [godblesscomputers](https://soundcloud.com/godblesscomputers)
+- [Alessandro Diga](https://soundcloud.com/alessandro-diga)
+- [In Love With a Ghost](https://soundcloud.com/in-love-with-a-ghost)
+- [Little People](https://soundcloud.com/littlepeoplemusic)
+- [Shlohmo](https://soundcloud.com/shlohmo)
+- [Jimi Hendrix](https://soundcloud.com/jimihendrix)
+- [Fakear](https://soundcloud.com/fakear)
+- Nujabes
+- [Hot Sugar](https://soundcloud.com/hotsugar)
+- [Hidden Orchestra](https://soundcloud.com/hiddenorchestra)
+- Man Tobin
+- [SOHN](https://soundcloud.com/sohn)
+- [Kyson](https://soundcloud.com/kyson)
+- [Tipper](https://soundcloud.com/tippermusic)
+- [Emancipator](https://soundcloud.com/emancipator)
+- [Pink Floyd](https://soundcloud.com/officialpinkfloyd)
+- [Henry Green](https://soundcloud.com/henrygreenmusic)
+- [Soosh](https://soundcloud.com/soosh)
+- [Shook](https://soundcloud.com/shookshookshook)
+- [Nosaj Thing](https://soundcloud.com/nosajthing)
+- [Baths](https://soundcloud.com/bathsmusic)
+- [Shigeto](https://soundcloud.com/shigeto)
+- [Lapalux](https://soundcloud.com/lapalux)
+- [Alt J](https://soundcloud.com/alt-j)
+- [Valentin Stip](https://soundcloud.com/valentinstip)
+- [Flume](https://soundcloud.com/flume)
+- Sabzi
+- [Ta-ku](https://soundcloud.com/takugotbeats)
+- [Tycho](https://soundcloud.com/tycho)
+- [Bonobo](https://soundcloud.com/bonobo)
+- The Cinematic Orchestra
+- [Jon Hopkins](https://soundcloud.com/jonhopkins)
+- [Nicolas Jaar](https://soundcloud.com/nicolas-jaar)
+- [Angus & Julia Stone](https://soundcloud.com/angusandjuliastone)
 
 ## Interesting artists
 - Ifan Dafydd
 - montell2099
 - AtYyA
 - Scann-Tec
-- Entheogenic 
+- Entheogenic
