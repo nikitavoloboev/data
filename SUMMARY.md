@@ -5,6 +5,8 @@
 	* [Reference](meta/Reference.md)
 * [Sharing](sharing/sharing.md)
 	* [Everything I know](sharing/everything-I-know.md)
+	* [My articles](sharing/my-articles.md)
+	* [My GitHub](sharing/my-github.md)
 	* [Tracking](sharing/Tracking.md)
 * [Projects](projects/Projects.md)
 	* [Learn anything](projects/learn-anything.md)
