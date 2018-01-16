@@ -18,9 +18,9 @@ I also love writing code that solves various problems I have and I share it all 
 For more things I have shared, you can look [here](./sharing/sharing.md).
 
 ## Make your own wiki
-You can view other similar to this, continuously updated wikis, [here](https://github.com/RichardLitt/meta-knowledge). 
+You can view other similar to this, continuously updated wikis, [here](https://github.com/RichardLitt/meta-knowledge).
 
-Don't be afraid to create one of your own and share what you know with the world. 
+Don't be afraid to create one of your own and share what you know with the world.
 
 ## Contributing
 If you found a mistake anywhere in this wiki, I would really appreciate your help. You can quickly find any entry you wish to edit by searching for the topic [here](https://github.com/nikitavoloboev/knowledge/find/master) and then making the changes.
@@ -28,4 +28,4 @@ If you found a mistake anywhere in this wiki, I would really appreciate your hel
 I also appreciate any [ideas you have](https://github.com/nikitavoloboev/knowledge/issues/new) on how I can improve this wiki.
 
 ## Thank you 💜
-You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other repositories](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#-143.5,-902.6,0) I shared. 
+You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.

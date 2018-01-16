@@ -5,6 +5,7 @@ Some interesting Go libraries I found.
 - [tui go](https://github.com/marcusolsson/tui-go) - UI library for terminal applications.
 - [cli](https://github.com/urfave/cli)
 - [gjson](https://github.com/tidwall/gjson)
+- [ishell](https://github.com/abiosoft/ishell)
 
 ## Web
  - [Buffalo](https://gobuffalo.io/docs/overview)
