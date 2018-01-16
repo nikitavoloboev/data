@@ -15,7 +15,7 @@ I like to share small photos and stories from my life there. I also curate a sma
 I am currently not writing any music of my own although I am learning. I do however share many of the songs I like in [form of playlists](../music/music-plays.md). You can see music I am listening to now [here](https://www.last.fm/user/playfullyExist).
 
 ## [Videos on Youtube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
-I mostly make videos about macOS automation. I map all the videos I have made [here](my-youtube). I also share [many playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view_as=subscriber) I made there.
+I mostly make videos about macOS automation. I map all the videos I have made [here](my-youtube.md). I also share [many playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view_as=subscriber) I made there.
 
 ## [Streaming on Twitch](https://www.twitch.tv/niikivi)
 I sometimes stream some of the things I am working on for fun on [Twitch](https://www.twitch.tv/niikivi). I try to explain things as I do them.
