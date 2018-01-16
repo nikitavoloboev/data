@@ -18,6 +18,7 @@ Some simple rules to follow for myself doing things.
 - Try to use other services for logging and other things where possible. Like in the case of [Letterboxd](https://letterboxd.com/NikitaVoloboev/) and its Lists feature. It's better to make lists there and link to them from wiki.
 
 ## Git
+- Always initialise new projects with Git.
 - Do atomic commits and write proper appropriate commit messages.
 - Don't use emojis in commit messages. Aside from ✨ commit in [Knowledge](https://github.com/nikitavoloboev/knowledge) repo. 
 	- Everything else, add explicit, ideally atomic commit messages.
@@ -135,6 +136,7 @@ Some simple rules to follow for myself doing things.
 - Always have water next to me. Drink water when taking breaks and take breaks.
 - Set deadlines for all things. Adjust plan according to the deadlines.
 - Sound of rain and thunderstorm is the best sound to write code to.
+- Limit distractions. Strive to increase signal to noise ratio. 
 
 ## Anki
  - Post all my anki decks in the wiki here under [anki decks](../anki/anki-decks.md)
@@ -191,4 +193,19 @@ Some simple rules to follow for myself doing things.
 - Mark memorable moments throughout the day and put them in `Photo a Day` journal. 
 
 ## Images
-- Keep screenshots and interesting images saved in Pixave.
+- Keep screenshots and interesting images saved in Pixave.k
+
+## Knowledge indexing
+- Index knowledge that is actionable in case I might need to reference it later.
+
+## Email
+- Do emails in burst. Bring my inbox to 0 every day. Action on each email.
+- Star emails that are important and I may need to reference late.
+- Sort newsletters automatically into groups for later viewings.
+- Only show relevant emails to me in Inbox.
+
+## Finance
+- Track every purchase made with YNAB. Putting it in its respective category.
+- Adhere to my budget that I have set for each of the categories. 
+	- If there is no budget left for eating out. Don't eat out.
+

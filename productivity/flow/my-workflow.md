@@ -28,3 +28,6 @@ My workflow is always changing but currently it consists of the following.
 ## News
 - RSS - I follow all blogs I am interested in with RSS.
 - Twitter - I made many Twitter lists separated by topics.
+
+## Writing
+- Ulysses - Ally my writing. Medium posts, stories, wiki, small pieces.

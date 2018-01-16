@@ -200,6 +200,7 @@
 * [Work](work/Work.md)
 * [LaTeX](latex/LaTeX.md)
 * [CLI](cli/cli.md)
+	* [Sed](cli/Sed.md)
 	* [ngrok](cli/Ngrok.md)
 * [Humans](humans/Humans.md)
 	* [Alan Watts](humans/alan-watts.md)

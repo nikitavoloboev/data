@@ -121,6 +121,9 @@
 ## Keyboard Maestro
 - Minimise inputs to the macros. Sometimes it's possible that the input I need to a macro, I can get from another place.
 
+## Focusing
+- Good jazz music is really amazing as background music. Together with low sound of rain or thunder, it really makes you focus and get lost in what you're doing.
+
 ## Other
 - When proposing feature requests, _"for me"_ is never a good argument for a feature request.
 	- If I want someone to add a feature to their software, show how it would be useful to lots of users.
