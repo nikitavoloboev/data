@@ -7,6 +7,7 @@ I quite often commit all changes with ✨with [this alias](https://github.com/ni
 
 ## Links
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+- [GIT Conventions](https://medium.com/@tjholowaychuk/git-conventions-a940ee20862d)
 
 ## Snippets
 - [remove dir from git](https://gist.github.com/17a9bc95ce5da0db7f85d076b45d07cd)

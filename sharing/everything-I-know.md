@@ -15,7 +15,7 @@ I would read through some of the articles I wrote (you can view all of them [her
 Some articles I wrote are more actionable and focused on a specific topic, others I am sharing some thoughts I have and how they relate to my life.
 
 ## 2. Explore my GitHub repositories (\~ 1 hour)
-I try make this step super easy to do too as you can simply explore all the repositories I made and shared [here](my-github).
+I try make this step super easy to do too as you can simply explore all the repositories I made and shared [here](my-github.md).
 
 ## 3. Use macOS tools and workflows I use (\~ 1 hour)
 I made a repo [here](https://github.com/nikitavoloboev/my-mac-os) where I cover everything I use on my macOS system in great detail. I share everything I use including [hundreds of Keyboard Maestro macros](https://github.com/nikitavoloboev/my-mac-os/tree/master/km) and the various [amazing Alfred workflows](https://github.com/learn-anything/alfred-workflows) that you can simply explore and see what you find interesting.
