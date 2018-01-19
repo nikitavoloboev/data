@@ -39,7 +39,6 @@ The number between brackets shows the year I created the repo in and the repos a
 - [Karabiner generator (2018)💡](https://github.com/nikitavoloboev/karabiner-generator) - A small DSL to easily modify [Karabiner](https://github.com/tekezo/Karabiner-Elements) configuration.
 
 ## Curated
-- [Awesome Mindmaps (2017)](https://github.com/nikitavoloboev/awesome-mindmaps) - Curated list of amazing Mind Maps.
 - [Privacy Respecting (2017) 🌟](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software.
 
 ## Practice

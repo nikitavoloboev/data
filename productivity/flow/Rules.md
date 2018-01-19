@@ -28,6 +28,9 @@ Some simple rules to follow for myself doing things.
 - Uppercase comments for consistency.
 - Write code to be read by other people. Prefer to be explicit over implicit.
 
+## Keyboard Maestro
+- All macro names are lowercased. Unless it is necessary like snippet trigger.
+
 ## Karabiner
 - Document any changes I make in Karabiner map instantly in the map (update where necessary).
 - Try to make semantic mappings and chunk mappings by theme or context.
@@ -99,6 +102,7 @@ Some simple rules to follow for myself doing things.
 - Create smart group for each new prefix I add.
 - Add correct language syntax to every snippet.
 - Prefer to use comments in the code itself rather than notes (easier to follow).
+- All snippet titles are lowercased. Notes are uppercased.
 
 ## Planning
 - Plan the next day fully in advance in the calendar
