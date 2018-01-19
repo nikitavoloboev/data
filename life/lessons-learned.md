@@ -24,7 +24,7 @@
 - Just being exposed to concepts through videos or tutorials is not going to help me pass interviews.
 	- Actually code everything up and implement it.
 - Don’t be careless on the exams and when doing exercises.
-	- Check back on my work and go through my calculations. 
+	- Check back on my work and go through my calculations.
 	- It is very easy to miss something.
 - Sit up right.
 	- My body language dictates how I feel.
@@ -78,7 +78,7 @@
 - Experiment often.
 	- Try out any new ideas I have (it is the only way to see if the idea is any good).
 - Use my brain. Actually think about the problems I have an things I can do with what I have instead of giving up and resorting to other things or exterior help. Think first.
-- Share. Without sharing the things you have made, there's a very slim chance someone will ever see them. 
+- Share. Without sharing the things you have made, there's a very slim chance someone will ever see them.
 
 ## Code
 - Use switch cases over long ifs.

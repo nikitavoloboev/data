@@ -19,9 +19,9 @@ Some simple rules to follow for myself doing things.
 
 ## Git
 - Always initialise new projects with Git.
-- Do atomic commits and write proper appropriate commit messages.
-- Don't use emojis in commit messages. Aside from ✨ commit in [Knowledge](https://github.com/nikitavoloboev/knowledge) repo. 
-	- Everything else, add explicit, ideally atomic commit messages.
+- Do atomic commits and write [proper appropriate commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+- Start commits uppercased and prefix them with an action (Add/Remove/Fix/Update).
+- Don't use emojis in commit messages.
 
 ## Code
 - Comment over my code (be mindful of not repeating things, sometimes code speaks for itself).
@@ -50,7 +50,7 @@ Some simple rules to follow for myself doing things.
 - Add image or logo if possible to visually show the workflow / library in action.
 - Don't link to Imgur images as links, render them in the GitHub README itself.
 - In screenshots of Alfred prompts and other prompts, show the cursor.
-- Add `Related` section to most repos linking to similar projects either of my own or of other 
+- Add `Related` section to most repos linking to similar projects either of my own or of other
 	- Not all projects need this.
 - Don't add Thank You clause in `idea` stage projects.
 - If the project has many ways to contribute, create a `contributing.md` file and link to it.
@@ -62,8 +62,7 @@ Some simple rules to follow for myself doing things.
 - Name all modifier triggers (uppercased)
 
 ## MindNode
-- Use lighter themes for sharing (it's nicer) (and using in general)
-- Use one tree structure for organisation especially when sharing maps (makes the map much easier to follow)
+- Use one tree structure for organisation especially when sharing maps (makes the map much easier to follow).
 
 ## Writing
 - Use proper punctuation and capitalise things appropriately
@@ -90,7 +89,7 @@ Some simple rules to follow for myself doing things.
 - Work to complete the task I have at hand
 - Turn on [Focus block](https://heyfocus.com) when starting a work block and focus fully on the tasks
 	- adjust the focus list to block even more distractions and tune my workflow to only do the task/s I have
-- Live by my calendar 
+- Live by my calendar
 	- assign tasks and blocks of time in advance and work through each of the blocks
 	- adjust when necessary
 - Work away from home.
@@ -129,14 +128,14 @@ Some simple rules to follow for myself doing things.
 
 ## Reading books
 - Make notes as you read books
-- Review each book you read on Goodreads and add it to an appropriate category 
+- Review each book you read on Goodreads and add it to an appropriate category
 	- add the review to [books](../books/Books.md) after
 
 ## Productivity
 - Always have water next to me. Drink water when taking breaks and take breaks.
 - Set deadlines for all things. Adjust plan according to the deadlines.
 - Sound of rain and thunderstorm is the best sound to write code to.
-- Limit distractions. Strive to increase signal to noise ratio. 
+- Limit distractions. Strive to increase signal to noise ratio.
 
 ## Anki
  - Post all my anki decks in the wiki here under [anki decks](../anki/anki-decks.md)
@@ -154,21 +153,21 @@ Some simple rules to follow for myself doing things.
 ## Spotify
 - Add all songs I like to my Likes playlist
 	- add all songs I _really_ like to Favourites playlist
-	- add songs to other playlists accordingly 
+	- add songs to other playlists accordingly
 
 ## Focus
-- Be very aggressive in cutting any kind of distractions when working 
+- Be very aggressive in cutting any kind of distractions when working
 	- look at where I spend my time in Timing and cut those out with Focus and scripts
 
 ## Airmail
 - Action on all emails and keep Inbox 0 at all times
-- Archive emails if I want them to be searchable later 
+- Archive emails if I want them to be searchable later
 	- delete emails otherwise
 - Label all emails accordingly (if it is appropriate)
 
 ## Licensing
 - License my own code under MIT
-- License curated lists and other things under [CC1](https://creativecommons.org/publicdomain/zero/1.0/) 
+- License curated lists and other things under [CC1](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## File naming
 - Prefer to use `-` instead of `_` in naming script files.
@@ -177,7 +176,7 @@ Some simple rules to follow for myself doing things.
 - Prefer to have the prefix reference the name in some way for easier mental mapping of prefix to meaning.
 
 ## Sleep
-- Prefer to sleep and wake up at the same time. 
+- Prefer to sleep and wake up at the same time.
 	- 5:30AM- Wake up.
 	- 10:00PM - Sleep.
 - Sleep for \~ 7 hours each day.
@@ -190,7 +189,7 @@ Some simple rules to follow for myself doing things.
 
 ## Day One
  - Mark all memorable moments and experiences in Day One.
-- Mark memorable moments throughout the day and put them in `Photo a Day` journal. 
+- Mark memorable moments throughout the day and put them in `Photo a Day` journal.
 
 ## Images
 - Keep screenshots and interesting images saved in Pixave.k
@@ -206,6 +205,8 @@ Some simple rules to follow for myself doing things.
 
 ## Finance
 - Track every purchase made with YNAB. Putting it in its respective category.
-- Adhere to my budget that I have set for each of the categories. 
+- Adhere to my budget that I have set for each of the categories.
 	- If there is no budget left for eating out. Don't eat out.
 
+## SnippetsLab
+- Attach the URL to snippets as note as a first thing always if URL is needed. Add other notes underneath the URL.
