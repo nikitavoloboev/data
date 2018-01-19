@@ -1,8 +1,6 @@
 # Research
 Research is an interesting topic and something that plays a big role in my life. I like to think that I do research every day.
 
-I have a Trelo board of things I want to research more in depth [here](https://trello.com/b/DOj0fSCB).
-
 ## How I do research
 The most useful thing that has helped me be more productive in uncovering new and interesting things is to do things with a purpose. Research included.
 

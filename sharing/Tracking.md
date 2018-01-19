@@ -34,8 +34,3 @@ Here is a list of various things I track for my own use and reference.
 
 ## Products
 - [Product Hunt](https://www.producthunt.com/@nikitavoloboev/collections) - Different collections I made of products and things I liked.
-
-## Personal
-- [Ideas](https://trello.com/b/alB1ryRP) - Ideas I have that I don't have time/skill to work on yet.
-- [Things to try](https://trello.com/b/tkaqFKYa) - Things I want to try do or make in my limited life.
-- [Research](https://trello.com/b/DOj0fSCB) - Things I want to research in depth.

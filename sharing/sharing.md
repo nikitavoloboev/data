@@ -26,6 +26,8 @@ I also curate many [Imgur albums](https://niikivi.imgur.com) of various things.
 ## [Ideas in Trello](https://trello.com/b/alB1ryRP)
 My time is limited and I can't often do everything I wish. But I have many ideas so I put all of them in the open [here](https://trello.com/b/alB1ryRP). I hope to build [Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas) soon and will keep them there after.
 
+I have many more Trello boards I use and share and you can view them all [here](my-trello.md).
+
 ## [Knowledge in this wiki](./everything-I-know.md)
 I share [everything I know](./everything-I-know.md) in form of this wiki here. Can be easily queried with the search in top left corner and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
 
