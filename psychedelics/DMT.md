@@ -1,3 +1,3 @@
 # DMT
 ## Links
-- [The Hyperbolic Geometry of DMT Experiences: Symmetries, Sheets, and Saddled Scenes](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/)
+- [Your number ONE most profound realisation after taking DMT...](https://www.reddit.com/r/DMT/comments/7mnp7f/your_number_one_most_profound_realisation_after/).
