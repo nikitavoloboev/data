@@ -98,11 +98,12 @@ Some simple rules to follow for myself doing things.
 - Work away from home.
 
 ## SnippetsLab
-- Upload all non sensitive snippets as Gists.
+- Upload all non personal snippets as Gists.
 - Create smart group for each new prefix I add.
 - Add correct language syntax to every snippet.
 - Prefer to use comments in the code itself rather than notes (easier to follow).
 - All snippet titles are lowercased. Notes are uppercased.
+- Map command line tools in the curated list. Only add commands where I do want to add some optional commands as snippet to SnippetsLab.
 
 ## Planning
 - Plan the next day fully in advance in the calendar
