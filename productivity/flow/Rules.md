@@ -34,6 +34,7 @@ Some simple rules to follow for myself doing things.
 ## Karabiner
 - Document any changes I make in Karabiner map instantly in the map (update where necessary).
 - Try to make semantic mappings and chunk mappings by theme or context.
+- Prefix variable names by action (i.e. EDIT/OPEN/ALFRED).
 
 ## Markdown
 - Don't leave whitespace between headings and text.

@@ -40,7 +40,7 @@ The number between brackets shows the year I created the repo in. Repos with a ð
 
 ## Curated
 - [Privacy Respecting (2017) ðŸŒŸ](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software.
-- [Find work](https://github.com/nikitavoloboev/find-work) (2018) - Curated list of websites and resources to find work programming.
+- [Find work (2018)](https://github.com/nikitavoloboev/find-work) - Curated list of websites and resources to find work programming.
 
 ## Practice
 - [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions for LeetCode in Python and Go.
