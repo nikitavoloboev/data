@@ -69,6 +69,7 @@ I have many favourite artists I like. Lately I have been really liking listening
 - [Angus & Julia Stone](https://soundcloud.com/angusandjuliastone)
 
 ## Interesting artists
+- Emapea
 - Ifan Dafydd
 - montell2099
 - AtYyA

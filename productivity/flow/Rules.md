@@ -4,6 +4,12 @@ Some simple rules to follow for myself doing things.
 ## General
 - Name and prefix things with focus on clarity. The semantics of prefixes should be obvious. And naming should be appropriate.
 
+## Nutrition
+- No processed sugar (includes sugary carbonated beverages (drink water!)).
+- No food with extra sugar in it.
+- No meat or dairy products (health and [ethical reasons](../../life/Compassion.md)).
+- No drinks other than water, coffee and tea. No added sugar in the drinks.
+
 ## Wiki
  - Only add snippets of code that are really useful.
 	- Keep simple things I use for my own reference in SnippetsLab only.
