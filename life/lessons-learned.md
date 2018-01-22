@@ -3,6 +3,10 @@
 - Prioritise.
 	- Do the important things first.
 		- Define these _important_ things for myself and be clear with what I want to achieve.
+- Do things that scale.
+	- Try find solutions that will scale with time. Ideally try to come up with solutions to problems that don't just help you but help other people solve a problem.
+- Don't repeat what other people have already done.
+	- If possible reuse other people's work as much as possible to create new and novel things.
 - Automate backups.
 	- Make sure the backups I've made are actually successful. And I have at least 1 week fresh backup of everything I did.
 - Study smart.
@@ -12,6 +16,7 @@
 - Move fast.
 	- Ask questions whenever you don’t understand.
 	- Don’t sit idly.
+	- Try things to see if they work. If they fail, move on.
 - Focus.
 	- Focus is the ability to say __no__ to things.
 - Write more.
