@@ -12,7 +12,7 @@ My workflow is always changing but currently it consists of the following.
 - Trello - Public and personal boards.
 
 ## Time management
-- Fantastical - I plan my work for the entire day ahead of me and my dad is primarily guided by the events I create.
+- Fantastical - I plan my work for the entire day ahead of me and my day is primarily guided by the events I create.
 
 ## Knowledge Indexing
 - SnippetsLab - Snippets of code / snippets of knowledge (facts/reference).

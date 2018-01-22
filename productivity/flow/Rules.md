@@ -66,7 +66,8 @@ Some simple rules to follow for myself doing things.
 - If the project has many ways to contribute, create a `contributing.md` file and link to it.
 
 ## Alfred
-- Name triggers with spaces between words (all lowercased)
+- Keyword triggers should be one string (no spaces). Try to make keyword be semantically appropriate to workflow and easy to memorise and type.
+- Name external triggers with spaces between words (all lowercased).
 - Release all my workflows (that have no sensitive information) either in small workflows or standalone if they contain quite a bit of code
 - Add keyword triggers and descriptions to workflows even if I don't use them
 - Name all modifier triggers (uppercased)
