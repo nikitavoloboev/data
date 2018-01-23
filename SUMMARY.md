@@ -94,7 +94,6 @@
 * [Programming languages](programming-languages/programming-languages.md)
 	* [Go](programming-languages/go/Go.md)
 		* [Go libraries](programming-languages/go/go-libraries/go-libraries.md)
-			* [Kingpin](programming-languages/go/go-libraries/Kingpin.md)
 	* [Python](programming-languages/Python.md)
 	* [Bash](programming-languages/Bash.md)
 	* [Haskell](programming-languages/Haskell.md)
