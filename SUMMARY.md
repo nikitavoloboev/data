@@ -137,6 +137,7 @@
 	* [Browsers](web/browsers/Browsers.md)
 		* [Safari](web/browsers/Safari.md)
 		* [Chrome](web/browsers/google-chrome.md)
+		* [Firefox](web/browsers/Firefox.md)
 		* [Bookmarklets](web/browsers/Bookmarklets.md)
 	* [React](web/react/React.md)
 		* [Redux](web/react/Redux.md)

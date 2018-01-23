@@ -19,6 +19,7 @@
 	- Try things to see if they work. If they fail, move on.
 - Focus.
 	- Focus is the ability to say __no__ to things.
+- Think long term. What am I ultimately want to achieve or want to exist in the world.
 - Write more.
 	- Document my thoughts and findings and share it.
 	- Research really well the topic you are trying to share.
