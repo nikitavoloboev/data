@@ -17,6 +17,9 @@ Mind Maps are pretty awesome because I can literally map my modifier mappings an
 ![](https://i.imgur.com/4yk23Be.png)
 I hope you get the idea for how powerful both Karabiner and this way of visualising bindings is. And you will make and share your own private.xml config file or .json file if you are using [Karabiner Elements](https://github.com/tekezo/Karabiner-Elements).
 
+## Notes
+- I can embed simultaneous key mappings inside sticky keys.
+
 ## Links
 - [My detailed post on Alfred forum mentioning how I use Karabiner](https://www.alfredforum.com/topic/10673-how-to-make-the-alfred-search-window-a-frontmost-app/?do=findComment&comment=57212)
 - [Interesting setup](https://github.com/dunkarooftop/thought/blob/master/keymaps.org)

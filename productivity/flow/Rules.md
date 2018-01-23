@@ -26,7 +26,7 @@ Some simple rules to follow for myself doing things.
 ## Git
 - Always initialise new projects with Git.
 - Do atomic commits and write [proper appropriate commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
-- Start commits uppercased and prefix them with an action (Add/Remove/Fix/Update).
+- Start commits uppercased and prefix them with an action (Add/Remove/Fix/Update). Use imperative tense.
 - Don't use emojis in commit messages.
 
 ## Code
@@ -44,7 +44,7 @@ Some simple rules to follow for myself doing things.
 
 ## Markdown
 - Don't leave whitespace between headings and text.
-- Don't need to add `:` to the end of text when adding image below as it is implicit
+- Don't need to add `:` to the end of text when adding image below as it is implicit.
 
 ## GitHub
 - Add appropriate topics to each repo.
@@ -53,14 +53,14 @@ Some simple rules to follow for myself doing things.
 
 ## GitHub README
 - Use HTML for rendering images as I have more control on the size and things.
-- Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links)
+- Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links).
 	- Don't repeat what is said in the quote in the description underneath the quote.
-- If the readme is long enough, add a `Contents` table
+- If the readme is long enough, add a `Contents` table.
 - Don't add anything that is not needed and focus on the content.
 - Add image or logo if possible to visually show the workflow / library in action.
 - Don't link to Imgur images as links, render them in the GitHub README itself.
 - In screenshots of Alfred prompts and other prompts, show the cursor.
-- Add `Related` section to most repos linking to similar projects either of my own or of other
+- Add `Related` section to most repos linking to similar projects either of my own or of other.
 	- Not all projects need this.
 - Don't add Thank You clause in `idea` stage projects.
 - If the project has many ways to contribute, create a `contributing.md` file and link to it.
