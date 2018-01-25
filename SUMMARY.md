@@ -198,7 +198,6 @@
 * [Psychology](psychology/Psychology.md)
 	* [Addiction](psychology/Addiction.md)
 	* [Biases](psychology/Biases.md)
-* [Inspiration](inspiration/Inspiration.md)
 * [Startups](startups/Startups.md)
 * [IRC](irc/IRC.md)
 	* [ZNC](irc/ZNC.md)
