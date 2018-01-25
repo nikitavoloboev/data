@@ -31,6 +31,7 @@
 	* [My principles](life/my-principles.md)
 	* [Lessons learned](life/lessons-learned.md)
 	* [Success](life/Success.md)
+	* [Death](life/Death.md)
 * [Productivity](productivity/Productivity.md)
 	* [Focusing](productivity/Focusing.md)
 	* [Flow](productivity/flow/Flow.md)

@@ -8,6 +8,9 @@ Consciousness is an interesting thing. The only way to really study it is throug
 
 ## Notes
 - [LSD and DMT (Ayahuasca) made me realize that "I" am an illusion. My ego is afraid of death, but I am not my ego. Think about it: anything that is mine is not I. I am the subject, my things are my objects. So I am not my body, my car, my house, my clothes, my ego. So what am I?](https://www.reddit.com/r/Psychonaut/comments/7sec24/does_any_psychedelic_allow_you_to_make_peace_with/)
+- [There is no end to consciousness and no end goal.](https://www.reddit.com/r/Psychonaut/comments/7lu9wr/what_is_the_end_goal_of_consiousness_is_it_to_all/)
+	- Goals are things that can keep the experiencer engaged in the experience and are creations to add spice to reality and existence.
+	- You can have any goal you want. It all is an experience.
 
 ## Links
 - [What it means to live a conscious life?](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077) - My thoughts on compassion and living a conscious life.

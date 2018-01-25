@@ -6,19 +6,20 @@ I make notes on all the books I have read. Below are the books I have covered th
 
 #### Key
 - 🌟 = My favourite books.
-- 📖 = I am reading the book now.
 - 📕 = I finished reading the book.
 - ❌ = I didn't finish reading the book.
 
+## 2018
+
 ### 2017
-- [Thinking fast and slow](../books/thinking-fast-and-slow.md) 📖
+- [Thinking fast and slow](../books/thinking-fast-and-slow.md)
 - [Go in action](../books/go-in-action.md) ❌
 - [AI - Modern Approach](../books/ai-modern-approach.md) ❌
 - [Programming in Haskell](../books/programming-in-haskell.md) ❌
 - [Surely, you're joking Mr Feynman](../books/surely-you-are-joking-mr-feynman.md) ❌
 
 ### 2016
-- [Mind for Numbers](../books/mind-for-numbers.md) 📕 - [Review](https://www.goodreads.com/review/show/782624446)
+- [Mind for Numbers](../books/mind-for-numbers.md) 📕
 - [Mindstorms](../books/Mindstorms.md) ❌
 - [Rich dad poor dad](../books/rich-dad-poor-dad.md) ❌
 - [Elements of programming interviews](../books/elements-of-programming-interviews.md) ❌
@@ -37,7 +38,7 @@ I make notes on all the books I have read. Below are the books I have covered th
 - Logical Reasoning: A First Course ❌
 
 ### 2014
-- Roadside Picnic - 📕
+- Roadside Picnic 📕
 - A Thousand Tiny Failures: Memoirs of a Pickup Artist 📕 - [Review](https://www.goodreads.com/review/show/919954441)
 
 ### 2013

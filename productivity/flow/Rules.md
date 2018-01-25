@@ -23,6 +23,9 @@ Some simple rules to follow for myself doing things.
 	- Don't over do it.
 - Try to use other services for logging and other things where possible. Like in the case of [Letterboxd](https://letterboxd.com/NikitaVoloboev/) and its Lists feature. It's better to make lists there and link to them from wiki.
 
+## Adding resources (links)
+- When adding resources and bookmarks. Priorotise adding them to LA curated lists first and LA itself (not Trello).
+
 ## Git
 - Always initialise new projects with Git.
 - Do atomic commits and write [proper appropriate commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
@@ -97,13 +100,13 @@ Some simple rules to follow for myself doing things.
 - Don't forget to update version number and then also commit the workflow so info.plist on GitHub has the latest version
 
 ## Working
-- Work to complete the task I have at hand
-- Turn on [Focus block](https://heyfocus.com) when starting a work block and focus fully on the tasks
-	- adjust the focus list to block even more distractions and tune my workflow to only do the task/s I have
-- Live by my calendar
-	- assign tasks and blocks of time in advance and work through each of the blocks
-	- adjust when necessary
-- Work away from home.
+- Work to complete the task I have at hand.
+- Always turn [Focus](https://heyfocus.com) when starting to work and make things and fully focus on the task/s at hand.
+	- Adjust the focus list to block even more distractions and tune my workflow to only do the task/s I have.
+- Live by my calendar.
+	- Assign tasks and blocks of time in advance and work through each of the blocks.
+	- Adjust when necessary.
+- Work away from home ideally.
 
 ## SnippetsLab
 - Upload all non personal snippets as Gists.
