@@ -43,6 +43,3 @@ The number between brackets shows the year I wrote the article in. Articles with
 ## Learn Anything
 - [An incredible future (2017) 🌟](https://medium.com/@NikitaVoloboev/an-incredible-future-9f18bb0f3a7c) - How [Learn Anything](https://learn-anything.xyz/) got started.
 - [Invisible mountains (2017) 🌟](https://medium.com/@NikitaVoloboev/the-invisible-mountains-bd50a31bc64e) - What research and learning really is and how we can make it better.
-
-
-

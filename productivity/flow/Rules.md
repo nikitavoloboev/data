@@ -32,10 +32,14 @@ Some simple rules to follow for myself doing things.
 - Start commits uppercased and prefix them with an action (Add/Remove/Fix/Update). Use imperative tense.
 - Don't use emojis in commit messages.
 
+## Dotfiles
+- Comment all my aliases briefly saying what they do. Comment all zsh functions. Be mindful that I can then search through these functions and aliases later.
+
 ## Code
 - Comment over my code (be mindful of not repeating things, sometimes code speaks for itself).
 - Uppercase comments for consistency.
 - Write code to be read by other people. Prefer to be explicit over implicit.
+- Only add one space after the code for inline comments. Don't space them out.
 
 ## Keyboard Maestro
 - All macro names are lowercased. Unless it is necessary like snippet trigger.
@@ -164,7 +168,8 @@ Some simple rules to follow for myself doing things.
 - Add products I like to an appropriate collection.
 
 ## Vim
-- Document my main mappings in the vimrc itself (make things easier to search for)
+- Comment over all mappings in vimrc itself.
+- Only add things that are essential to me and what I actually use.
 
 ## Spotify
 - Add all songs I like to my Likes playlist
