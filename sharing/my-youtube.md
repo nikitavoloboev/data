@@ -8,7 +8,3 @@ The number between brackets shows the year I created the video in.
 
 ## Automation
 - [Write once, never write again (2017)](https://www.youtube.com/watch?v=NfeKenZHfDQ&t=66s) - Demonstration video for my article: [Write once, never again](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
-
-
-
-

@@ -4,7 +4,7 @@ I have many favourite artists I like. Lately I have been really liking listening
 - Solar Fields
 
 ## Favourite artists
-- Giyo
+- [Giyo](https://soundcloud.com/gi-yo) - So many great songs.
 - Crooked Colours
 - Nils Frahm
 - Mecca:83
