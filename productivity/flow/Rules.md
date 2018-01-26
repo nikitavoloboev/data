@@ -40,6 +40,7 @@ Some simple rules to follow for myself doing things.
 - Uppercase comments for consistency.
 - Write code to be read by other people. Prefer to be explicit over implicit.
 - Only add one space after the code for inline comments. Don't space them out.
+- Delimit files that have spaces with `-` instead of `_`.
 
 ## Keyboard Maestro
 - All macro names are lowercased. Unless it is necessary like snippet trigger.

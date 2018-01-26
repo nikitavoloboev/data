@@ -4,7 +4,7 @@ My workflow is always changing but currently it consists of the following.
 ## Code
 - VS Code - Main editor.
 - Sublime text - GitHub readmes and quit edits (Markdown mostly).
-- Neovim - Small and quit edits.
+- Neovim - Small and quick edits.
 
 ## Task tracking
 - 2Do - Personal day-to-day tasks.
