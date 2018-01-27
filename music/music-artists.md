@@ -1,10 +1,9 @@
 # Music artists
-I have many favourite artists I like. Lately I have been really liking listening to:
-- The Toxic Avenger
-- Solar Fields
+I have many favourite artists I like.
 
 ## Favourite artists
 - [Giyo](https://soundcloud.com/gi-yo) - So many great songs.
+- Neroche
 - Crooked Colours
 - Nils Frahm
 - Mecca:83

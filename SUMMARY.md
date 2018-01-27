@@ -61,6 +61,7 @@
 		* [Hazel](macOS/apps/Hazel.md)
 		* [2Do](macOS/apps/2Do.md)
 		* [Pixave](macOS/apps/Pixave.md)
+		* [iTerm](macOS/apps/iTerm.md)
 		* [SnippetsLab](macOS/apps/SnippetsLab.md)
 		* [Tweetbot](macOS/apps/Tweetbot.md)
 		* [Textual](macOS/apps/Textual.md)
