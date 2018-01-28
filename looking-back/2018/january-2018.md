@@ -1,5 +1,4 @@
 # January 2018
-## FB blocks Learn Anything
 Learn Anything was banned from both Facebook and Instagram platforms.
 
 No one can share or send messages of the website to anyone. Facebook won't allow it.
