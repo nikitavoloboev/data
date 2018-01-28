@@ -4,6 +4,7 @@ I have many favourite artists I like.
 ## Favourite artists
 - [Giyo](https://soundcloud.com/gi-yo) - So many great songs.
 - Neroche
+- Auditive Escape
 - Crooked Colours
 - Nils Frahm
 - Mecca:83

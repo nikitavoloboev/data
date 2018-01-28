@@ -3,7 +3,7 @@ My workflow is always changing but currently it consists of the following.
 
 ## Code
 - VS Code - Main editor. Currently write mostly Go and Python.
-- Sublime text - GitHub readmes and quick edits (Markdown mostly).
+- Sublime text - GitHub readmes, editing the wiki and quick edits (Markdown mostly).
 - Neovim - Small and quick edits. Edit my Karabiner XML config file there.
 
 ## Task tracking
