@@ -28,6 +28,7 @@ My workflow is always changing but currently it consists of the following.
 ## Photographs
 - [Pixave](../macOS/apps/Pixave.md) - My entire media library of images and GIFs neatly sorted into collections. I post some images from there to my [Instagram page](https://www.instagram.com/niikivi/).
 - Apple Photos - All my personal photographs and images I made sorted into albums.
+- Day One - Alongside small private notes and journal entries I add most photographs I take to Day One. Usually in form of `Travel` checkins. It's really awesome because everything there is encrypted and I can rely on it always being there.
 
 ## News
 - Reeder - I follow all blogs I am interested in with RSS.

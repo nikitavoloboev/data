@@ -24,14 +24,12 @@ Google, DuckDuckGo and other search engines are phenomenal in how they solve thi
 
 Together with [Learn Anything](https://learn-anything.xyz/), you really do have all the superpowers of this world to create anything and everything. Things that didn't exist before. Ideas and thoughts that weren't thought of before.
 
-In addition to Learn Anything, I also make a lot of filters of my own for _even faster_ access to knowledge and resources. I collected:
-- [Books I liked and plan to read](https://github.com/learn-anything/books) - Both free and paid.
-- [All the courses that are worth taking](https://github.com/learn-anything/courses)
-- [All the blogs worth reading](https://github.com/learn-anything/blogs)
-- [All the reddit subreddits worth visiting](https://github.com/learn-anything/reddit)
-- [All the research papers worth reading](https://github.com/learn-anything/research-papers)
+In addition to Learn Anything, I also help curate [many curated lists of resources and links](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists). I then parse these lists and access them from [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) worlflow. These lists include:
+- [Books](https://github.com/learn-anything/books) - Both free and paid.
+- [Courses](https://github.com/learn-anything/courses)
+- [Blogs](https://github.com/learn-anything/blogs)
+- [Research papers](https://github.com/learn-anything/research-papers)
 
 ## Links
 - [Research debt](https://distill.pub/2017/research-debt/)
-- [Do schools kill creativity](https://www.youtube.com/watch?v=iG9CE55wbtY)
 - [Some notes on doing research](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/dnrsmh9/ "permalink")
