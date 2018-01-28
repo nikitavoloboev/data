@@ -94,8 +94,7 @@ Some simple rules to follow for myself doing things.
 - Both in code and prose. Say more with less and never repeat myself.
 
 ## Social Networks
-- Only add people I really know on Facebook.
-- Only add/follow people I am really interested in other networks.
+- Only add/follow people I am really interested in or know.
 
 ## Sharing files
 - More permanent shares are shared with Dropbox
