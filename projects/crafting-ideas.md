@@ -5,3 +5,4 @@ Crafting Ideas should help tame my ever increasing list of ideas to do and make.
 
 Currently I am trying to understand React, Javascript and more of the web stack and build things as I go.
 
+For now I keep the ideas I want to build and make as a [Trello board](https://trello.com/b/alB1ryRP).

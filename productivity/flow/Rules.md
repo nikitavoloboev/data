@@ -92,6 +92,7 @@ Some simple rules to follow for myself doing things.
 	- If something can be said in less words, say it in less words
 	- Always try to be clear and to the point
 - Both in code and prose. Say more with less and never repeat myself.
+- When wanting to reference a certain URL, I don't need to mention `and you can see it here`. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
 
 ## Social Networks
 - Only add/follow people I am really interested in or know.
