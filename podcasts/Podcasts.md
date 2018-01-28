@@ -5,5 +5,4 @@ My favourite podcast currently is [Hello Internet](http://www.hellointernet.fm).
 
 I would love to make my own podcast one day if I find something interesting to talk about.
 
-## Podcasts I follow
-- [The iPhreaks Show](https://overcast.fm/itunes634022060/the-iphreaks-show)
+I keep a [Trello board](https://trello.com/b/Wtr04eGQ) of podcasts I am listening and want to listen to.

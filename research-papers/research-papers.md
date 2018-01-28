@@ -1,7 +1,7 @@
 # Research papers
-[Here](https://trello.com/b/EKl1Ie3q) is a list of research papers I am currently reading or planning to read soon.
+I keep a [Trello board](https://trello.com/b/EKl1Ie3q) of research papers I am reading and want to read.
 
-Below is a list of research papers I read with a link to my own notes of the paper if there are any.
+Below is a list of research papers I read with a link to my own notes of the paper.
 
 ## 2017
 - [A view of mathematics](../research-papers/a-view-of-mathematics.md)

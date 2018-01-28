@@ -234,3 +234,7 @@ Some simple rules to follow for myself doing things.
 
 ## SnippetsLab
 - Attach the URL to snippets as note as a first thing always if URL is needed. Add other notes underneath the URL.
+
+## Trello
+- No need to create `Doing now` and `Do next` blocks. I can use `watching` feature for that and seprate cards instead by topic. Use `tags` to give priority to tasks. (In my case `Important`, `Interesting` and `Next` are always present tags in most boards).
+- Share boards publically that contain no sensetive or private information.

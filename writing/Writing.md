@@ -1,5 +1,5 @@
 # Writing
-I love writing. Human language, of which I currently know two so far : russian and english. Is incredibly empowering. The sheer fact that I can actually put my thoughts onto paper in a way that other people can read and understand is amazing. 
+I love writing. Human language, of which I currently know two so far : russian and english. Is incredibly empowering. The sheer fact that I can actually put my thoughts onto paper in a way that other people can read and understand is amazing.
 
 Paul Graham wrote a wonderful article titled [_Write like you talk_](http://www.paulgraham.com/talk.html) and I agree with it wholeheartedly. In my opinion these are main pillars on which I try to build my writing skills upon.
 
@@ -15,7 +15,10 @@ I try to have my writing be as transparent as possible for the person reading it
 ## Read
 Read other people's work. Read books. Both fiction and non fiction, and get a taste to how different styles of writing can exist and how they can be used effectively.
 
+## Knowing what to write next
+I keep a private Trello board where I drop ideas I have of what I want to write next. Then I set due dates for articles I want to write and start working on them. Most often it is the simple act of starting to write something that makes something I can actually publish that I like. Here is how my Trello board looks:
+
+![](https://i.imgur.com/S2JEESU.png)
+
 # Links
-- [How I write](https://medium.com/@NikitaVoloboev/how-i-write-cdc2cebdc70c)
-	- What my writing setup looks like on my mac.
-	- Although I now use Ulysses full screen and use many macros and few alfred workflows to quickly navigate through my writing library.
+- [How I write](https://medium.com/@NikitaVoloboev/how-i-write-cdc2cebdc70c) - What my writing setup looks like on my mac. Although I now use Ulysses full screen and use many macros and few alfred workflows to quickly navigate through my writing library.

@@ -9,7 +9,7 @@ And I actually went to a really good high school where my math teacher did try t
 
 Instead I wish I was actually _shown_ math. Like [this](https://www.youtube.com/watch?v=fNk_zzaMoSs&index=2&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab). I wish I could _play_ with math, like [here](https://www.khanacademy.org). I wish I could _discover_ math and actually be willing to discover and fail at things. And the only way to get a kid like me excited about learning is showing that math is _playful_ and that is is __not__ about learning and applying the rules you learn in class and your text book.
 
-Same story goes for physics, literature, history and language. That is not to say that most teachers are bad at their job but just to point out that education can be done differently. It's often hard to show how _playful_ and _engaging_ learning new things can be. And words and talking often don't convey this. 
+Same story goes for physics, literature, history and language. That is not to say that most teachers are bad at their job but just to point out that education can be done differently. It's often hard to show how _playful_ and _engaging_ learning new things can be. And words and talking often don't convey this.
 
 However I believe we are genuinely entering a new era of learning. Where the _showing_ part is as easy as opening a website. Where the _playing_ part is as easy as playing with the interactive game or visualisation of some idea or concept. Where _engaging_ means getting enough interest to find out more about what you have just learned. All of this makes learning as was done previously really inefficient and in many ways __kills__ the passion to learn new things.
 
