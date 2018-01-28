@@ -58,6 +58,8 @@ Some simple rules to follow for myself doing things.
 - Add appropriate topics to each repo.
 - Make many experiments and share them.
 - Add credits to repos and acknowledge work of people I am using.
+- Use relative links instead of hard wired links. For example in GitHub you can use `../../issues/` to reference issues of current repo from readme.
+- Lowercase license, contributing and readme files. There is no need for them to be uppercased.
 
 ## GitHub README
 - Use HTML for rendering images as I have more control on the size and things.
