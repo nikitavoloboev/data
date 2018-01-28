@@ -27,3 +27,4 @@ I hope you get the idea for how powerful both Karabiner and this way of visualis
 - [Tekezo's launcher mode](https://github.com/pqrs-org/KE-complex_modifications/pull/206/files)
 - [Karabiner.json reference manual](https://pqrs.org/osx/karabiner/json.html)
 - [Karabiner JSON spec](https://pqrs.org/osx/karabiner/json.html)
+- [Write Karabiner config in YAML and then convert to JSON](https://github.com/15cm/dotfiles/tree/master/.config/karabiner)
