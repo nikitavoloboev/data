@@ -36,3 +36,6 @@ My workflow is always changing but currently it consists of the following.
 
 ## Writing
 - Ulysses - All my writing. Medium posts, stories, wiki, small pieces and ideas.
+
+## Contacts
+- Apple Contacts - All contacts and people I meet are added as contacts in my contacts book. All contacts are prefixed with a category (i.e. `f.` for `friend`) and most contacts have tags attached so it's easier to remember the person.

@@ -119,6 +119,9 @@
 ## Asking questions
 - When posting an error or an issue on some forum or GitHub, give as much information as you can to help debug it.
 	- In the case of posting an issue with an Alfred workflow, it is best to link to the workflow you are using and also link what the debugger says when you are running into the issue.
+- When asking for feedback, never ask people if they like the product you built. Ask them if they don't like anything.
+	- If you ask them if they like it, there is a high chance they will not say what they dislike because they will fear to hurt you. As if you are asking for validation.
+	- Critical feedback and opinion is most useful for feedback.
 
 ## Design
 - Giving users many options is more often a bad idea.
