@@ -9,7 +9,7 @@ It's a real shame how a company can dictate what other people see or say and wil
 
 My last post on FB. Have no idea why I didn't delete my account already given things I know about the company.
 
-![](https://i.imgur.com/46A1mL4.jpg)
+![](https://i.imgur.com/k8HFr0e.png)
 
 Will be exploring [Scuttlebutt](https://www.scuttlebutt.nz) and other decentralised solutions for sharing news and communicating. It makes no sense to live in a world where a company can choose what its users should see, do or talk about.
 

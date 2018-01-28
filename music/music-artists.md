@@ -2,9 +2,9 @@
 I have many favourite artists I like.
 
 ## Favourite artists
-- [Giyo](https://soundcloud.com/gi-yo) - So many great songs.
+- [Giyo](https://soundcloud.com/gi-yo) - Chill.
 - Neroche
-- Auditive Escape
+- [Auditive Escape](https://auditiveescape.bandcamp.com) - Downtempo.
 - Crooked Colours
 - Nils Frahm
 - Mecca:83
@@ -24,7 +24,7 @@ I have many favourite artists I like.
 - [Caribou](https://soundcloud.com/caribouband)
 - Frenic
 - [Gramatik](https://soundcloud.com/gramatik)
-- [Tame Impala](https://soundcloud.com/tame-impala)
+- [Tame Impala](https://soundcloud.com/tame-impala) - Psychedelic.
 - [Bon Iver](https://soundcloud.com/boniver)
 - [40 Winks](https://soundcloud.com/40winks)
 - [Ludovico Einaudi](https://soundcloud.com/ludovicoeinaudi)
