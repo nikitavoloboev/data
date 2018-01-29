@@ -225,3 +225,4 @@ Some simple rules to follow for myself doing things.
 ## Trello
 - No need to create `Doing now` and `Do next` blocks. I can use `watching` feature for that and seprate cards instead by topic. Use `tags` to give priority to tasks. (In my case `Important`, `Interesting` and `Next` are always present tags in most boards).
 - Share boards publically that contain no sensetive or private information.
+- For boards like `Learning` and `Books`, no need to add links to cards as the links to these things should already be added in LA curated lists which are easily queriable.

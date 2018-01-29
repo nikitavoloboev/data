@@ -5,7 +5,10 @@ I have many interests and I find studying and looking into people who have spent
 
 In any way, I maintain a list of all the interesting humans across all the different disciplines [here](https://github.com/learn-anything/humans).
 
-# Favourite humans
+## Favourite humans
 Here are some humans whose work I found great interest in:
-- [Stanislav Grof](http://www.wikiwand.com/en/Stanislav_Grof) 
+- [Stanislav Grof](http://www.wikiwand.com/en/Stanislav_Grof)
 - [Alan Watts](http://www.wikiwand.com/en/Alan_Watts)
+
+## Links
+- [Important women in CS who aren't Grace Hopper](https://www.hillelwayne.com/post/important-women-in-cs/)
