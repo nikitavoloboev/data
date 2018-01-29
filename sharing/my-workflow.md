@@ -39,7 +39,7 @@ My workflow is always changing but currently it consists of the following.
 - Tweetbot - I made many Twitter lists separated by topics.
 
 ## Social Media
-- Covered what I use in [sharing](sharing.md) and [tracking](../sharing/tracking.md)
+- Covered what I use in [sharing](sharing.md) and [tracking](../sharing/tracking.md).
 
 ## Writing
 - Ulysses - All my writing. Medium posts, stories, wiki, small pieces and ideas.

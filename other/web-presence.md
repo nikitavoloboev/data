@@ -18,8 +18,7 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Learning
 - [Quora](https://www.quora.com/profile/Nikita-Voloboev) - Asking and answering questions.
-- [Kaggle](https://www.kaggle.com/nikitavoloboev) - Practicing machine
-learning.
+- [Kaggle](https://www.kaggle.com/nikitavoloboev) - Practicing machine learning.
 - [Coursera](https://www.coursera.org/user/i/7d650aebf46b82dcd83832d8358301c6) - Doing various courses.
 - [Wiki](https://wiki.nikitavoloboev.xyz) - Everything I know.
 - [Khan Academy](https://www.khanacademy.org/profile/NikitaVoloboev/) - Getting up to speed with things quickly.
@@ -75,10 +74,10 @@ learning.
 
 ## Other
 - [Keybase](https://keybase.io/nikitavoloboev) - Holds my public PGP key. I also prove my identity on various websites there.
-- [Etsy](https://www.etsy.com/people/nikitavoloboev) - If I ever make something with my hands, I will probably share it there.
-- [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - Don't really use it, but it holds all the things I made in form of a digital CV.
-- [Angel.co](https://angel.co/nikitavoloboev) - Sometimes use it to find interesting startups to apply to.
 - [CV](https://stackoverflow.com/cv/nikitavoloboev) - My official and up-to-date digital CV on Stack Overflow.
+- [Etsy](https://www.etsy.com/people/nikitavoloboev) - If I ever make something with my hands, I will probably share it there.
+- [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - Don't really use it. I prefer [Stack Overflow CV](https://stackoverflow.com/cv/nikitavoloboev) as it looks much cleaner and I have more control over it.
+- [Angel.co](https://angel.co/nikitavoloboev) - Sometimes use it to find interesting startups to apply to.
 - [Home](https://nikitavoloboev.xyz) - My personal home page on the internet.
 - [Vimeo](https://vimeo.com/user18010447) - Don't really use it but it has many creative videos.
 - [Airbnb](https://www.airbnb.com/users/show/48269245) - Don't use really use it.
