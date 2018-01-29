@@ -1,5 +1,5 @@
 # Music artists
-I have many favourite artists I like.
+I have many music artists I like.
 
 ## Favourite artists
 - [Giyo](https://soundcloud.com/gi-yo) - Chill.

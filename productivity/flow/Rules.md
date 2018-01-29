@@ -73,19 +73,19 @@ Some simple rules to follow for myself doing things.
 ## Alfred
 - Keyword triggers should be one string (no spaces). Try to make keyword be semantically appropriate to workflow and easy to memorise and type.
 - Name external triggers with spaces between words (all lowercased).
-- Release all my workflows (that have no sensitive information) either in small workflows or standalone if they contain quite a bit of code
-- Add keyword triggers and descriptions to workflows even if I don't use them
-- Name all modifier triggers (uppercased)
+- Release all my workflows (that have no sensitive information) either in small workflows or standalone if they contain quite a bit of code.
+- Add keyword triggers and descriptions to workflows even if I don't use them.
+- Name all modifier triggers (uppercased).
 
 ## MindNode
 - Use one tree structure for organisation especially when sharing maps (makes the map much easier to follow).
 
 ## Writing
-- Use proper punctuation and capitalise things appropriately
-- When adding `:`, don't add space beforehand
-- Remove unnecessary words
-	- If something can be said in less words, say it in less words
-	- Always try to be clear and to the point
+- Use proper punctuation and capitalise things appropriately.
+- When adding `:`, don't add space beforehand.
+- Remove unnecessary words.
+	- If something can be said in less words, say it in less words.
+	- Always try to be clear and to the point.
 - Both in code and prose. Say more with less and never repeat myself.
 - When wanting to reference a certain URL, I don't need to mention `and you can see it here`. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
 
@@ -93,10 +93,10 @@ Some simple rules to follow for myself doing things.
 - Only add/follow people I am really interested in or know.
 
 ## Sharing files
-- More permanent shares are shared with Dropbox
-	-  Don't delete items from `shares` folder unless I delete the file somewhere myself
-- Temporary shares with [Transfer](https://transfer.sh)
- - If the files are stored on GitHub somewhere, I can use [this](http://rawgit.com/) to get a downloadable link of the raw file
+- Temporary shares with [Transfer](https://transfer.sh).
+- More permanent shares are shared with Dropbox.
+	- Don't delete items from `shares` folder unless I delete the file somewhere myself.
+ - If the files are stored on GitHub somewhere, I can use [Rawgit](http://rawgit.com/) to get a downloadable link of the raw file
 
 ## Releasing workflows with OneUpdater
 - Don't forget to update version number and then also commit the workflow so info.plist on GitHub has the latest version
@@ -119,35 +119,33 @@ Some simple rules to follow for myself doing things.
 - Map command line tools in the curated list. Only add commands where I do want to add some optional commands as snippet to SnippetsLab.
 
 ## Planning
-- Plan the next day fully in advance in the calendar
-	- plan deadlines one week in advance
-	- follow through with the plan but adapt where necessary
+- Plan the next day fully in advance in the calendar.
+	- Plan deadlines one week in advance.
+	- Follow through with the plan but adapt where necessary.
 
 ## My Mind
-- Uppercase entries in the main map + articles / GitHub + notes
+- Uppercase entries in the main map + articles / GitHub + notes.
 
 ## 2Do
-- Only contain things I really need to get done in `Today`
-- All 2Do tasks need to be actionable
-- Work on tasks based on priority (starred completed first)
+- Only contain things I really need to get done in `Today`.
+- All 2Do tasks need to be actionable.
+- Work on tasks based on priority (starred completed first).
 
 ## Ideas
-- If the idea is not private or something really small
-	- Share it in the wiki (or hopefully soon in crafting ideas)
+- If the idea is not private or something really small. Share it in Trello (or hopefully soon in Crafting Ideas)
 
 ## Capitalising things
-- Capitalise everything where appropriate (Sentences / Headings / Alfred workflows / GitHub descriptions / GitHub issues and PRs / Comments in SnippetsLab / Main dashed points / Tweets / ..)
+- Capitalise everything where appropriate (Sentences / Headings / Alfred workflows / GitHub descriptions / GitHub issues and PRs / Comments in SnippetsLab / Main dashed points / Tweets / ..).
 
 ## Ship app
-- Prioritise repos in the sidebar
+- Prioritise repos in the sidebar.
 
 ## Stack Overflow CV
-- Only add repositories that are meaningful to the list
+- Only add repositories that are meaningful to the list.
 
 ## Reading books
-- Make notes as you read books
-- Review each book you read on Goodreads and add it to an appropriate category
-	- add the review to [books](../books/Books.md) after
+- Make notes as I read books.
+- Review each book you read on Goodreads and add it to an appropriate category. Add the review to [books](../books/Books.md) after.
 
 ## Productivity
 - Always have water next to me. Drink water when taking breaks and take breaks.
@@ -156,11 +154,10 @@ Some simple rules to follow for myself doing things.
 - Limit distractions. Strive to increase signal to noise ratio.
 
 ## Anki
- - Post all my anki decks in the wiki here under [anki decks](../anki/anki-decks.md)
-- Lowercase all deck names and folders
-- Follow the same capitalising rules as in markdown for making cards
-	- start all cards capitalised
-- Don't make a card of a fact or something that you can easily look up
+- Post all my anki decks in the wiki here under [anki decks](../anki/anki-decks.md).
+- Lowercase all deck names and folders.
+- Follow the same capitalising rules as in markdown for making cards. Start all cards capitalised.
+- Don't make a card of a fact or something that you can easily look up.
 
 ## Product Hunt
 - Add products I like to an appropriate collection.
@@ -170,26 +167,25 @@ Some simple rules to follow for myself doing things.
 - Only add things that are essential to me and what I actually use.
 
 ## Spotify
-- Add all songs I like to my Likes playlist
-	- add all songs I _really_ like to Favourites playlist
-	- add songs to other playlists accordingly
+- Add all songs I like to my Likes playlist.
+	- Add all songs I _really_ like to Favourites playlist.
+	- Add songs to other playlists accordingly.
 
 ## Focus
-- Be very aggressive in cutting any kind of distractions when working
-	- look at where I spend my time in Timing and cut those out with Focus and scripts
+- Be very aggressive in cutting any kind of distractions when working.
+	- Look at where I spend my time in Timing and cut those out with Focus and scripts.
 
 ## Airmail
-- Action on all emails and keep Inbox 0 at all times
-- Archive emails if I want them to be searchable later
-	- delete emails otherwise
-- Label all emails accordingly (if it is appropriate)
+- Action on all emails and keep Inbox at 0 at all times.
+- Archive emails if I want them to be searchable later. Delete emails otherwise.
+- Label all emails accordingly (if it is appropriate).
 
 ## Licensing
-- License my own code under MIT
-- License curated lists and other things under [CC1](https://creativecommons.org/publicdomain/zero/1.0/)
+- License my own code under MIT.
+- License curated lists and other things under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## File naming
-- Prefer to use `-` instead of `_` in naming script files.
+- Prefer to use `-` instead of `_` in naming script files. And lowercased.
 
 ## Prefixing
 - Prefer to have the prefix reference the name in some way for easier mental mapping of prefix to meaning.
@@ -200,18 +196,15 @@ Some simple rules to follow for myself doing things.
 	- 10:00PM - Sleep.
 - Sleep for \~ 7 hours each day.
 
-## 1Password
-- Write down licenses of things purchased in there
-
 ## Tracking
 - Minimise `Distracting` time and aim at `< 1 hour` `Distracted` time a day. Ideally less. Block everything that is `Distracting` when working.
 
 ## Day One
- - Mark all memorable moments and experiences in Day One.
+- Mark all memorable moments and experiences in Day One.
 - Mark memorable moments throughout the day and put them in `Photo a Day` journal.
 
 ## Images
-- Keep screenshots and interesting images saved in Pixave.k
+- Keep screenshots and interesting images saved in Pixave.
 
 ## Knowledge indexing
 - Index knowledge that is actionable in case I might need to reference it later.
@@ -224,8 +217,7 @@ Some simple rules to follow for myself doing things.
 
 ## Finance
 - Track every purchase made with YNAB. Putting it in its respective category.
-- Adhere to my budget that I have set for each of the categories.
-	- If there is no budget left for eating out. Don't eat out.
+- Adhere to my budget that I have set for each of the categories. If there is no budget left for eating out. Don't eat out.
 
 ## SnippetsLab
 - Attach the URL to snippets as note as a first thing always if URL is needed. Add other notes underneath the URL.
