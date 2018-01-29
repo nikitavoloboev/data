@@ -43,7 +43,7 @@ learning.
 - [Hacker News](https://news.ycombinator.com/user?id=nikivi) - Often share things I built there.
 - [Product Hunt](https://www.producthunt.com/@nikitavoloboev) - Share all my bigger and smaller projects I have made there.
 - [Google+](https://plus.google.com/u/0/+NikitaVoloboev) - Don't use it.
-- [Facebook](https://www.facebook.com/nikita.voloboev) - Don't use it as it serves no purpose for me.
+- [Facebook](https://www.facebook.com/nikita.voloboev) - Don't use it as it serves no purpose for me and is [unethical](../looking-back/2018/january-2018.md).
 - [Meetup](https://www.meetup.com/members/185347053/) - Attending various groups and meeting new interesting people and communities.
 
 ## Photos

@@ -246,7 +246,7 @@
 	- [Advice](other/Advice.md)
 	- [Recent](other/Recent.md)
 	- [Favourite tweets](other/favourite-tweets.md)
-	- [Funny](other/Funny.md)
+	- [Funny](other/funny.md)
 	- [My web presence](other/web-presence.md)
 - [Looking back](looking-back/looking-back.md)
 	- [2017](looking-back/2017/2017.md)
