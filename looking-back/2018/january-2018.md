@@ -27,3 +27,6 @@ Will be exploring [Scuttlebutt](https://www.scuttlebutt.nz) and other decentrali
 - Started using Trello a lot more.
 - Moved to using Sublime Text more for editing wiki. And generally optimised a lot of my wiki editing so I can edit any wiki entry in seconds.
 	- This wiki as it stands now is only the beginning. I think I laid a good foundation for it going forward. I do need to write full articles more often too though.
+
+## Links
+- [My January tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-01-01%20until%3A2018-01-30&src=typd)
