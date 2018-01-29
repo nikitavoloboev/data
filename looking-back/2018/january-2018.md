@@ -18,7 +18,7 @@ Will be exploring [Scuttlebutt](https://www.scuttlebutt.nz) and other decentrali
 
 ## Highlights
 - Learn Anything was nomitated for [2017 Golden Kitty Awards](https://www.producthunt.com/golden-kitty-awards-2017).
-	- We didn't win in the end but it was an amazing feeling to actually be selected for it.
+	- We [didn't win](https://www.producthunt.com/newsletter/540) in the end but it was an amazing feeling to actually be selected to participate in the event.
 - Added all the [Keyboard Maestro macros I use and love](https://github.com/nikitavoloboev/my-mac-os/tree/master/km) to my macOS repo.
 - Started working through [Leetcode](https://github.com/nikitavoloboev/leetcode) problems and preparing for interviews.
 - Stopped using FB. Deactivated the account.

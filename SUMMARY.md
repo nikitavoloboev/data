@@ -2,7 +2,7 @@
 - [Introduction](readme.md)
 - [Meta](meta/meta.md)
 	- [My mind](meta/my-mind.md)
-	- [Reference](meta/Reference.md)
+	- [Reference](meta/reference.md)
 - [Sharing](sharing/sharing.md)
 	- [Everything I know](sharing/everything-I-know.md)
 	- [My articles](sharing/my-articles.md)

@@ -15,6 +15,7 @@ Some simple rules to follow for myself doing things.
 - Don't repeat myself or anyone else. If something has already been said either by me or someone else, link to it (especially in this wiki).
 - Interlink entries between each other often within wiki where necessary. Don't over do it.
 - Try to use other services for logging and other things where possible. Like in the case of [Letterboxd](https://letterboxd.com/NikitaVoloboev/) and its Lists feature. It's better to make lists there and link to them from wiki. Find the right tool for the job.
+- Keep all files lowercased.
 
 ## Adding resources (links)
 - When adding resources and bookmarks. Priorotise adding them to LA curated lists first and LA itself (not Trello). The goal of the wiki is to mostly contain my own notes and references.
