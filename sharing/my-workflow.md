@@ -30,9 +30,16 @@ My workflow is always changing but currently it consists of the following.
 - Apple Photos - All my personal photographs and images I made sorted into albums.
 - Day One - Alongside small private notes and journal entries I add most photographs I take to Day One. Usually in form of `Travel` checkins. It's really awesome because everything there is encrypted and I can rely on it always being there.
 
+## Journalling
+- Day One - All my private thoughts and journal entries.
+- [Looking back](../looking-back/looking-back.md) - My public log of things I've done and worked on throughout the months with highglights and comments on each month/year.
+
 ## News
 - Reeder - I follow all blogs I am interested in with RSS.
 - Tweetbot - I made many Twitter lists separated by topics.
+
+## Social Media
+- Covered what I use in [sharing](sharing.md) and [tracking](../sharing/tracking.md)
 
 ## Writing
 - Ulysses - All my writing. Medium posts, stories, wiki, small pieces and ideas.
