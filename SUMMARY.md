@@ -196,6 +196,7 @@
 - [API](api/API.md)
 - [Encoding](encoding/Encoding.md)
 - [Distributed systems](distributed-systems/distributed-systems.md)
+- [Backups](backups/backups.md)
 - [Node.js](nodejs/nodejs.md)
 - [Psychology](psychology/Psychology.md)
 	- [Addiction](psychology/Addiction.md)

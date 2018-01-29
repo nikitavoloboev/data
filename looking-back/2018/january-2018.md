@@ -15,6 +15,10 @@ Will be exploring [Scuttlebutt](https://www.scuttlebutt.nz) and other decentrali
 
 ## Highlights
 - [Added all the Keyboard Maestro macros I use and love to my macOS repo](https://github.com/nikitavoloboev/my-mac-os/tree/master/km).
+- Started working through [Leetcode](https://github.com/nikitavoloboev/leetcode) problems and preparing for interviews.
+- Stopped using FB. Deleted the account.
 
 ## Changes
 - Started using Trello a lot more.
+- Moved to using Sublime Text more for editing wiki. And generally optimised a lot of my wiki editing so I can edit any wiki entry in seconds.
+	- This wiki as it stands now is only the beginning. I think I laid a good foundation for it going forward. I do need to write full articles more often too though.

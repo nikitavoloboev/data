@@ -8,7 +8,8 @@
 - Don't repeat what other people have already done.
 	- If possible reuse other people's work as much as possible to create new and novel things.
 - Automate backups.
-	- Make sure the backups I've made are actually successful. And I have at least 1 week fresh backup of everything I did.
+	- Make sure the [backups I've made are actually successful](http://taobackup.com). And I have at least 1 week fresh backup of everything I did.
+	- It is best to have offsite backups too.
 - Study smart.
 	- Ask myself the question of what it is I am trying to solve or understand.
 	- Start working to solve the problems before the deadline

@@ -1,9 +1,6 @@
 # Processes
 Some simple processes I should follow to do things.
 
-## Making new Alfred workflow
-1. Follow [making workflows outline](../../macOS/apps/alfred/making-workflows.md). Don't forget to add update icon when using AwGo.
-
 ## Starting new projects
 1. If I want to experiment with something, make the project in `~/src/ideas` first and then transfer to the appropriate directories (folders) later.
 
@@ -15,3 +12,6 @@ Some simple processes I should follow to do things.
 ## Learning something
 1. Find what I want/need to learn.
 2. Find the topic on Learn Anything and pick the best resource for learning the topic.
+
+## Making new Alfred workflow
+1. Follow [making workflows outline](../../macOS/apps/alfred/making-workflows.md). Don't forget to add update icon when using AwGo.

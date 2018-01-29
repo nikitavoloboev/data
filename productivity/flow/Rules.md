@@ -11,20 +11,15 @@ Some simple rules to follow for myself doing things.
 - No drinks other than water, coffee and tea. No added sugar in the drinks.
 
 ## Wiki
- - Only add snippets of code that are really useful.
-	- Keep simple things I use for my own reference in SnippetsLab only.
-- Heading should always be on one level heading.
-	- And Snippets / Notes / Links / on two level heading.
-	- Everything else on three levels where appropriate.
 - Describe links on the same line with `-` separator (if needs more description, then sub dash).
-- Don't repeat myself or anyone else.
-	- If something has already been said either by me or someone else, link to it (especially in this wiki).
-- Interlink entries between each other often within wiki where necessary.
-	- Don't over do it.
-- Try to use other services for logging and other things where possible. Like in the case of [Letterboxd](https://letterboxd.com/NikitaVoloboev/) and its Lists feature. It's better to make lists there and link to them from wiki.
+- Don't repeat myself or anyone else. If something has already been said either by me or someone else, link to it (especially in this wiki).
+- Interlink entries between each other often within wiki where necessary. Don't over do it.
+- Try to use other services for logging and other things where possible. Like in the case of [Letterboxd](https://letterboxd.com/NikitaVoloboev/) and its Lists feature. It's better to make lists there and link to them from wiki. Find the right tool for the job.
 
 ## Adding resources (links)
-- When adding resources and bookmarks. Priorotise adding them to LA curated lists first and LA itself (not Trello).
+- When adding resources and bookmarks. Priorotise adding them to LA curated lists first and LA itself (not Trello). The goal of the wiki is to mostly contain my own notes and references.
+	- If I am watching a talk, it is best not to jot down notes from the talk itself but capture ideas and note down these ideas in the wiki, sometimes referencing the talk where the idea or insight was taken from for context.
+	- The resources themselves should be moderated and extended by the community.
 
 ## Git
 - Always initialise new projects with Git.
