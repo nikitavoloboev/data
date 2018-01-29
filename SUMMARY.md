@@ -185,6 +185,7 @@
 - [Streaming](streaming/Streaming.md)
 - [Talks](talks/Talks.md)
 - [Cooking](cooking/Cooking.md)
+- [Analytics](analytics/analytics.md)
 - [Databases](databases/databases.md)
 	- [Blockchain](databases/Blockchain.md)
 	- [DynamoDB](databases/DynamoDB.md)
