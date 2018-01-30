@@ -24,7 +24,7 @@ Some simple rules to follow for myself doing things.
 
 ## Git
 - Always initialise new projects with Git.
-- Do atomic commits and write [proper appropriate commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
+- Do atomic commits and write [proper appropriate commit messages](https://chris.beams.io/posts/git-commit/).
 - Start commits uppercased and prefix them with an action (Add/Remove/Fix/Update). Use imperative tense.
 - Don't use emojis in commit messages.
 
