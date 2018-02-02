@@ -21,4 +21,4 @@ Ulysses is also pretty amazing in that it indexes all the content and lets me ma
 Now that I can edit this wiki and extend it at the speed of a thought. I can open any of the wiki entries in seconds by searching for the file I need with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 ![](https://i.imgur.com/nrsr1cK.png)
 
-And anyone who owns Alfred can download the workflow and search through too. Outside of that, Gitbook also provides a pretty neat search in the wiki itself. In there you can make textual queries too and files where the queried text is will be shown.
+And anyone who owns Alfred can download the workflow and search through the wiki too. Outside of that, Gitbook also provides a pretty neat search in the wiki itself. In there you can make textual queries too and files where the queried text is will be shown.
