@@ -174,7 +174,7 @@
 	- [Neural networks](machine-learning/neural-networks.md)
 	- [Unsupervised learning](machine-learning/unsupervised-learning.md)
 - [Package managers](package-managers/package-managers.md)
-	- [Nix](package-managers/Nix.md)
+	- [Nix](package-managers/nix.md)
 - [Tools](tools/tools.md)
 	- [GitBook](tools/gitbook.md)
 	- [Dropbox](tools/dropbox.md)
