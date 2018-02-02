@@ -1,34 +1,26 @@
 # My workflow in writing and maintaining this wiki
-I write all these entries in [Ulysses](../macOS/apps/Ulysses.md) app and since all of the entries are simply markdown files sorted into folders and [hosted on GitHub](https://github.com/nikitavoloboev/knowledge). I hook this git _knowledge_ folder to Ulysses as external folder : 
+The entire wiki is one folder that you can find on [GitHub](https://github.com/nikitavoloboev/knowledge). It has many folders with subfolders or entries inside.
 
-![](https://i.imgur.com/EgReXPY.png)
+The order with which GitBook renders the files in the sidebar to your left is defined in [SUMMARY.md](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md).
 
-And then I have all the power of Ulysses search across my entire wiki base + my personal entries : 
+I write and edit all the markdown files in this `knowledge` folder from [Sublime Text](../text-editors/sublime-text.md).
 
-![](https://i.imgur.com/M7vXSjl.png)
+I use [this Alfred workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/personal/Manage%20wiki.alfredworkflow?raw=true) to quickly search through all the `.md` files that are found in this wiki.
 
-I also use two specialised Alfred workflows. One that specifically searches through folders in this _knowledge_ main folder : 
+TODO: add image
 
-![](https://i.imgur.com/FdZB0Aj.png)
+This workflow also searches through all fodlers in this wiki and lets me create new folders inside those folders or create new entries (md files) inside the folders.
 
-And then on activation will open these folders in Ulysses so I can quickly add more notes to the folder. I then have another workflow that searches for all the markdown files in this _knowledge_ folder : 
+## Making notes on books
+When reading books, I make notes on the books I have read as I read the book. For that I use [Ulysses](../macOS/apps/ulysses.md) and usually split the book and and Ulysses side by side as I read the book and make notes:
+![](https://i.imgur.com/E392tIl.png)
 
-![](https://i.imgur.com/g7riHqR.png)
+Ulysses is also pretty amazing in that it indexes all the content and lets me make textual searches on this content like so:
 
-And then it opens these markdown files in Ulysses for quickly editing them.
+TODO: add image
 
-Aside from these two workflows I heavily automate and customise Ulysses to my liking. And I use this Keyboard Maestro macro to quickly start editing my [SUMMARY file](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) which defines the order in which Gitbook actually renders my markdowns. Here is how this simple macro looks like : 
+## Using this wiki
+Now that I can edit this wiki and extend it at the speed of a thought. I can open any of the wiki entries in seconds by searching for the file I need with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
+![](https://i.imgur.com/nrsr1cK.png)
 
-![](https://i.imgur.com/2GLv5A4.png)
-
-I also use this macro to quickly create folders in this wiki : 
-
-![](https://i.imgur.com/aGywogI.png)
-
-And finally, the most used macro I use to fully automate updating this wiki is simply committing all the changes in this wiki with a single hotkey : 
-
-![](https://i.imgur.com/BuKbfkn.png)
-
-And that is pretty much it. This lets me be extremely fast with editing and maintaining this wiki. I also heavily make use of this wiki by searching through Gitbook book itself : 
-
-![](https://i.imgur.com/UY8B6gc.png)
+And anyone who owns Alfred can download the workflow and search through too. Outside of that, Gitbook also provides a pretty neat search in the wiki itself. In there you can make textual queries too and files where the queried text is will be shown.

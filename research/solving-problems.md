@@ -4,23 +4,35 @@ Knowledge is knowing where the answers might lie. Solving problems is knowing ho
 I like to be methodical when approaching and solving problems I have.
 
 For me solving a problem usually involves going through these three steps:
-
 1. Finding what the problem I want to solve is.
-2. Finding an answer for said problem.
-3. Solving the problem.
+2. Breaking the problem down to smaller parts I can solve.
+3. Finding an answer to these smaller parts.
+4. Solving the problem.
 
 ## 1. Finding what the problem is
-I use one [MindNode](../macOS/apps/Mindnode.md) mind map called `thinking` where as a main node I outline the problem I want to solve and then I outline the steps I think I need to do to solve the problem. For example, I wanted to make a markdown parser. I outlined the problem as follows:
-![](https://i.imgur.com/2CxJqwx.png)
+I use one [MindNode](../macOS/apps/mindnode.md) mind map called `thinking` where I have two main nodes: `now` and `backlog`.
 
-And then I could simply try to go through each of the steps outlined and hopefully reach a working solution. Of course, things can and often change in the process as I find things I have missed or found better ways to do a thing but the idea and structure still stays.
+I outline the problem I want to solve and then I outline the steps I think I need to do to solve the problem. For example, I wanted to parse [SUMMARY.md](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) file so I can search through all entries of this wiki from Alfred.
 
-# 2. Finding the answer
-As mentioned in [research](./Research.md), I mostly use Google for searching mixed in with DuckDuckGo. I heavily use Dash for documentation and Dictionary for searching the wiki. I use IRC and various forums specific to the problem I am solving.
+So I created the entry in `now` of what I want to do.
+![](https://i.imgur.com/sCGcKCG.png)
 
-I often remind myself of [how to effectively ask questions](./asking-questions.md) so as to respect other people's time and maximise chances of getting a good answer.
+## 2. Breaking the problem down to smaller parts
+I then try to break down the problem into small steps (things) I need to do, to make this task complete. In the case of this problem, my breakdown of the task looked like this:
+![](https://i.imgur.com/CTNV7mI.png)
 
-# 3. Solving the problem.
+I could then simply try to go through each of the steps outlined and hopefully reach a working solution.
+
+Of course, things can and often change in the process as I find things I have missed or found better ways to do a thing. I can freely change the structure in light of newly found insights and knowledge. However the main idea and structure usually still stays.
+
+# 3. Finding the answer
+As mentioned in [research](research.md), I mostly use Google for searching mixed in with DuckDuckGo. I heavily use Dash for documentation and Dictionary for searching the wiki. I also use IRC and various forums specific to the problem I am solving.
+
+I often remind myself of [how to effectively ask questions](asking-questions.md) so as to respect other people's time and maximise chances of getting a good answer.
+
+# 4. Solving the problem.
 Sometimes I already know the answer given my past experience without conducting help outside and the only thing left is to apply the solution I have or have found.
 
 In some cases, a problem may be complex enough that it needs time thinking more about it. Researching various possible solutions and things you could use. And playing with possible solutions and ideas in your head until you reach something worthwhile you can spend time implementing. [This](https://www.youtube.com/watch?v=f84n5oFoZBc) talk by Rich Hickey covers this point quite well.
+
+In most other cases, the problem I have is simple enough that it doesn't need to go into a `thinking` map to be broken down to be solved and I can just start working on the task immediately and see if I can make it happen.

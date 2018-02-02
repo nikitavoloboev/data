@@ -2,47 +2,49 @@
 My workflow is always changing but currently it consists of the following.
 
 ## Code
-- VS Code - Main editor. Currently write mostly Go and Python.
-- Sublime text - GitHub readmes, editing the wiki and quick edits (Markdown mostly).
-- Neovim - Small and quick edits. Edit my Karabiner XML config file there.
+- [VS Code](../text-editors/vs-code.md) - Main editor. Currently write mostly Go and Python.
+- [Sublime text](../text-editors/sublime-text.md) - GitHub readmes, editing the wiki and quick edits (Markdown mostly).
+- [Neovim](../text-editors/vim/vim.md) - Small and quick edits. Edit my Karabiner XML config file there.
 
 ## Task tracking
-- 2Do - Personal day-to-day tasks. Every task is actionable. Tasks that don't fit into a GitHub issue are put there. Usually this includes personal tasks.
+- [2Do](../macOS/apps/2do.md) - Personal day-to-day tasks. Every task is actionable. Tasks that don't fit into a GitHub issue are put there. Usually this includes personal tasks.
 - Ship - GitHub issues. All issues I want to work on soon are put into `Up Next` queue and I work through each one, one by one.
-- Trello - Public and personal boards. It's really nice because I can share pragmatically things I want to do publically and have the workflow actually be seamless so it doesn't distract or detach from the experience in any way.
+- [Trello](../macOS/apps/trello.md) - Public and personal boards. It's really nice because I can share pragmatically things I want to do publically and have the workflow actually be seamless so it doesn't distract or detach from the experience in any way.
 
 ## Time management
-- Fantastical - I plan my work for the entire day ahead of me and my day is primarily guided by the events I create. I always have Fantastical show `Week` view for `5 days` from current day. This gives me a perspective on what deadlines I have soon to complete and I can adjust my events as necessary and plan accordingly.
-- Timing - Track all time I spend there. I try to automate as much of the tracking as possible so Timing learns from what I do and it's easy to fill out the sections after.
+- [Fantastical](../macOS/apps/fantastical.md) - I plan my work for the entire day ahead of me and my day is primarily guided by the events I create. I always have Fantastical show `Week` view for `5 days` from current day. This gives me a perspective on what deadlines I have soon to complete and I can adjust my events as necessary and plan accordingly.
+- [Timing](../macOS/apps/timing.md) - Track all time I spend there. I try to automate as much of the tracking as possible so Timing learns from what I do and it's easy to fill out the sections after.
 
 ## Knowledge Indexing
-- This wiki - A bunch of markdown files rendered by [Gitbook](https://www.gitbook.com) and edited with Ulysses and Sublime Text.
-- Articles on Medium - Share longer articles that serve to answer some one message or share some one insight there. This wiki is a more living and ever changing document.
-- SnippetsLab - Snippets of code and knowledge (facts/reference).
+- [This wiki](../readme.md) - A bunch of markdown files rendered by [Gitbook](https://www.gitbook.com) and edited with Ulysses and Sublime Text.
+- Articles on [Medium](https://medium.com/@NikitaVoloboev) - Share longer articles that serve to answer some one message or share some one insight there. This wiki is a more living and ever changing document.
+- [SnippetsLab](../macOS/apps/snippetslab.md) - Snippets of code and knowledge (facts/reference).
 
 ## Bookmarks
 - [LA curated lists](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) - I open any of the lists readmes in seconds and any edit I make is automatically commited with Hazel. The lists are open to contribution too this way they get better and scale with time.
-- Alfred My Mind -  All my public facing bookmarks. Searching this wiki here. Searching my articles, my GitHub repos and more.
-- Safari and Chrome bookmarks - Only contain personal bookmarks. The rest is publically available and queriable by anyone.
+- [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) -  All my public facing bookmarks. Searching this wiki here. Searching my articles, my GitHub repos and more.
+- [Safari](../web/browsers/safari.md) and [Chrome](../web/browsers/google-chrome.md) bookmarks - Only contain personal bookmarks. The rest is publically available and queriable by anyone.
 
 ## Photographs
-- [Pixave](../macOS/apps/Pixave.md) - My entire media library of images and GIFs neatly sorted into collections. I post some images from there to my [Instagram page](https://www.instagram.com/niikivi/).
+- [Pixave](../macOS/apps/pixave.md) - My entire media library of images and GIFs neatly sorted into collections. I post some images from there to my [Instagram page](https://www.instagram.com/niikivi/).
 - Apple Photos - All my personal photographs and images I made sorted into albums.
-- Day One - Alongside small private notes and journal entries I add most photographs I take to Day One. Usually in form of `Travel` checkins. It's really awesome because everything there is encrypted and I can rely on it always being there.
+- [Day One](../macOS/apps/day-one.md) - Alongside small private notes and journal entries I add most photographs I take to Day One. Usually in form of `Travel` checkins. It's really awesome because everything there is encrypted and I can rely on it always being there.
 
 ## Journalling
-- Day One - All my private thoughts and journal entries.
+- [Day One](../macOS/apps/day-one.md) - All my private thoughts and journal entries.
 - [Looking back](../looking-back/looking-back.md) - My public log of things I've done and worked on throughout the months with highglights and comments on each month/year.
 
 ## News
-- Reeder - I follow all blogs I am interested in with RSS.
-- Tweetbot - I made many Twitter lists separated by topics.
+- Covered in [staying on top of things](../research/staying-on-top-of-things.md).
 
 ## Social Media
-- Covered what I use in [sharing](sharing.md) and [tracking](../sharing/tracking.md).
+- Covered in [sharing](sharing.md).
+
+## Tracking
+- Covered in [tracking](tracking.md).
 
 ## Writing
-- Ulysses - All my writing. Medium posts, stories, wiki, small pieces and ideas.
+- [Ulysses](../macOS/apps/ulysses.md) - All my writing. Medium posts, stories, wiki, small pieces and ideas.
 
 ## Contacts
 - Apple Contacts - All contacts and people I meet are added as contacts in my contacts book. All contacts are prefixed with a category (i.e. `f.` for `friend`) and most contacts have tags attached so it's easier to remember the person.

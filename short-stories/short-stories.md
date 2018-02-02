@@ -1,11 +1,11 @@
 # Short stories
+## Stories I read
 #### Key
-- 🌟 = My favourite story. 
-- ❌ = I didn't finish reading the story. 
+- 🌟 = My favourite story.
+- ❌ = I didn't finish reading it.
 
-## Read stories
 ### 2016
-- The Yellow Wallpaper 
+- The Yellow Wallpaper
 
 ### 2015
 - Understand - Ted Chiang 🌟

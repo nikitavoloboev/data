@@ -12,7 +12,7 @@ I write about various things, mostly programming and macOS tips. I map all the a
 I like to share small photos and stories from my life there. I also curate a small page where I share [beautiful pictures and photos I like](https://www.instagram.com/niikivi/).
 
 ## Music on [Spotify](https://open.spotify.com/user/nikitavoloboev)
-I am currently not writing any music of my own although I am learning. I do however share many of the songs I like in [form of playlists](../music/music-plays.md). You can see music I am listening to now [here](https://www.last.fm/user/playfullyExist).
+I am currently not writing any music of my own although I am learning. I do however share many of the songs I like in [form of playlists](../music/music-playlists.md). You can see music I am listening to now [here](https://www.last.fm/user/playfullyExist).
 
 ## Videos on [Youtube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
 I mostly make videos about macOS automation. I map all the videos I have made [here](my-youtube.md). I also share [many playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view_as=subscriber) I made there.
@@ -28,14 +28,13 @@ My time is limited and I can't often do everything I wish. But I have many ideas
 
 I have many more Trello boards I use and share and you can view them all [here](my-trello.md).
 
-## Knowledge in [this wiki](./everything-I-know.md)
-I share [everything I know](./everything-I-know.md) in form of this wiki here. Can be easily queried with the search in top left corner and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
+## Knowledge in [this wiki](everything-I-know.md)
+I share [everything I know](everything-I-know.md) in form of this wiki here. Can be easily queried with the search in top left corner and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
 
-## Answering questions on [Quora](https://www.quora.com/profile/Nikita-Voloboev) and [Reddit](https://www.reddit.com/user/nikivi/)
-I also try to [answer questions](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile) on various Stack Exchanges and [Reddit](https://www.reddit.com/user/nikivi/).
+## Answering questions on [Quora](https://www.quora.com/profile/Nikita-Voloboev), [Reddit](https://www.reddit.com/user/nikivi/) and various [Stack Exchanges](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile)
 
 ## [My workflow](my-workflow.md)
 I try to make my own workflow in doing things be as _transparent_ as possible and I share it fully [here](my-workflow.md).
 
-## [Things I track](Tracking.md)
-I love tracking various things for my own reference. [Here](Tracking.md) you can find a big list of everything I track and where.
+## [Things I track](tracking.md)
+I love tracking various things for my own reference. [Here](tracking.md) you can find a big list of everything I track and where.

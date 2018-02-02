@@ -1,7 +1,7 @@
 # My Trello boards
-I share many Trello boards publicly as I try have my workflow, ideas and experiences be fully transparent. Here is a list of all public Trello boards I share.
+I share many Trello boards publicly as I try have my workflow, ideas and experiences be fully transparent.
 
-## Learning
+Below is a list of all public Trello boards I share.
 - [Learning](https://trello.com/b/cu32qF3q) - Things I am learning and want to learn.
 - [Ideas](https://trello.com/b/alB1ryRP) - Ideas I have that I want to bring to existence.
 - [Books](https://trello.com/b/MOrnm2aN) - Books I am reading and want to read.

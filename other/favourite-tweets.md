@@ -1,4 +1,5 @@
 # Favourite tweets
+I keep tweets I really like as a [Twitter moment](https://twitter.com/i/moments/949663238626725888). Below are some more tweets I liked I wanted to note down.
 
 > [Hire the people who will automate themselves out of a job, then just keep giving them jobs.](https://twitter.com/jessfraz/status/942031487809085440)
 

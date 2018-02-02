@@ -4,7 +4,7 @@ I have watched quite a few TV series. [Here](https://trakt.tv/users/nikitavolobo
 I keep a [Trello board](https://trello.com/b/iUtT6wmu) of TV series I am watching and want to watch.
 
 ## Watched Series
-I track all the series I have watched [here](https://trakt.tv/users/nikitavoloboev/history).
+I track [all the series I have watched](https://trakt.tv/users/nikitavoloboev/history).
 
 Below are the series I've seen sorted by years I've seen them in.
 - [2018](https://trakt.tv/users/nikitavoloboev/lists/watched-in-2018)

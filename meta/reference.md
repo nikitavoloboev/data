@@ -10,5 +10,7 @@ I will be using certain abbreviations for things that I may be repeating often. 
 ## Years
 I often add a year in brackets to some articles or talks like `(2017)` which stands for the year in which that article or talk was given in.
 
-## TODOs
-I will sometimes leave off `TODO: ` statements throughout the wiki. This won't happen often but this is to remind myself to do something about a particular thing. You can ignore them.
+## KM macros
+I sometimes will link to KM macro group/palette from this wiki. The link will will lead to the macro group/palette in my [GitHub repository](https://github.com/nikitavoloboev/my-mac-os/tree/master/km).
+
+[Here](https://github.com/nikitavoloboev/my-mac-os/tree/master/km#downloading-macros-individually) are instructions for how you can save these macros. This assumes you have [Keyboard Maestro](https://www.keyboardmaestro.com/main/) installed.

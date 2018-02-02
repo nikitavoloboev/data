@@ -2,11 +2,11 @@
 I have many music artists I like.
 
 ## Favourite artists
+- [Nils Frahm](https://soundcloud.com/nils_frahm) - Is [incredible](https://www.youtube.com/watch?v=kv2nmefHc9Y).
 - [Giyo](https://soundcloud.com/gi-yo) - Chill.
 - Neroche
 - [Auditive Escape](https://auditiveescape.bandcamp.com) - Downtempo.
 - Crooked Colours
-- Nils Frahm
 - Mecca:83
 - Solar Fields
 - The Toxic Avenger

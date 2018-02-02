@@ -1,2 +1,2 @@
 # University physics with modern physics
-Need to study it in more depth. But here are the [chapters of the book mapped](https://my.mindnode.com/1B7PfXMxzownxUzcMHGTpYKgs7xu7T63MFHyqgJq). Will try to go through it all when I get time.
+Need to study it in more depth. Will try to go through it all when I get time.

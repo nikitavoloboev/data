@@ -1,11 +1,11 @@
 # [Day One](http://dayoneapp.com)
 Day One is my digital life journal.
 
-I started with journalling by writing [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32), evaluating my day and noting interesting and memorable things that have happened to me during the day. 
+I started with journalling by writing [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32), evaluating my day and noting interesting and memorable things that have happened to me during the day.
 
 Since then however, I adopted a more open approach to documenting my memories and life in a way that doesn't stop me from being in the moment and just enjoying things and experiences.
 
-I am very open to the public sharing both the things I know and like and also the different little things that happen to me, so I use [IFTTT](https://ifttt.com/day_one) to log and archive my public activity from Instagram and Twitter into Day one. 
+I am very open to the public sharing both the things I know and like and also the different little things that happen to me, so I use [IFTTT](https://ifttt.com/day_one) to log and archive my public activity from Instagram and Twitter into Day one.
 
 ## My Journals
 ### Photo a Day
@@ -26,14 +26,13 @@ My dream journal. I want to lucid dream and to do that you need to remember your
 Weekly evaluation and self reflection. I use [Timing](https://timingapp.com/?lang=en) and [Wakatime](https://wakatime.com/dashboard) for this and see through these tools to know how I spent my time and where I can do better.
 
 ### Autolog
-I use [IFTTT](../../tools/IFTTT.md) to automatically post my public activity from Twitter / Instagram / Facebook to this journal. Since I do want to lead a more open life, I very often post in the public outlets and share my experiences there so I want to have those experiences in Day One together with my more private memories. 
+I use [IFTTT](../../tools/ifttt.md) to automatically post my public activity from Twitter / Instagram / Facebook to this journal. Since I do want to lead a more open life, I very often post in the public outlets and share my experiences there so I want to have those experiences in Day One together with my more private memories.
 
 ### Feelings
-Contains very short entries. If I am feeling sad or happy about something, I write a small entry and say what I feel and put it there. It helps me be more conscious and honest with myself, my thoughts and feelings. 
+Contains very short entries. If I am feeling sad or happy about something, I write a small entry and say what I feel and put it there. It helps me be more conscious and honest with myself, my thoughts and feelings.
 
 ### Progress
 In similar vein to `Evaluation`. I try to track and be more conscious about my physical progress of me trying to become a stronger version of me physically. I post my progress pictures and my own commentary and thoughts there.
 
 ### Family
 I also have a dedicated journal where I put all the memories I have shared with my family.
-

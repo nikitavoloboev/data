@@ -4,7 +4,7 @@ These are my personal profiles on various websites sorted by categories.
 ## Code
 - [GitHub](https://github.com/nikitavoloboev) - Share all my code there.
 - [Codepen](https://codepen.io/nikitavoloboev/) - Hope to use it more often to experiment with web things.
-- [GitHub Gists](https://gist.github.com/nikitavoloboev) - Sharing all my Code Snippets.
+- [GitHub Gists](https://gist.github.com/nikitavoloboev) - Sharing all my Code Snippets. Created with [SnippetsLab](../macOS/apps/snippetslab.md).
 - [Stack Overflow](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile) - Asking and answering questions.
 - [Leetcode](https://leetcode.com/nikitavoloboev/) - Preparing for technical interviews.
 - [NPM](https://www.npmjs.com/~nikitavoloboev) - All the node modules I released.
@@ -33,7 +33,7 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Writing
 - [Medium](https://medium.com/@NikitaVoloboev) - My personal blog.
-- [GitBook](https://www.gitbook.com/@nikitavoloboev) - Share my [wiki](https://wiki.nikitavoloboev.xyz) there. I also hope to write some books and I will publish them there once they are done
+- [GitBook](https://www.gitbook.com/@nikitavoloboev) - Share my [wiki](https://wiki.nikitavoloboev.xyz) there. I also hope to write some books and I will publish them there once they are done.
 
 ## Social
 - [Twitter](https://twitter.com/nikitavoloboev) - Sharing all the different things I am up to right now.
@@ -42,7 +42,6 @@ These are my personal profiles on various websites sorted by categories.
 - [Hacker News](https://news.ycombinator.com/user?id=nikivi) - Often share things I built there.
 - [Product Hunt](https://www.producthunt.com/@nikitavoloboev) - Share all my bigger and smaller projects I have made there.
 - [Google+](https://plus.google.com/u/0/+NikitaVoloboev) - Don't use it.
-- [Facebook](https://www.facebook.com/nikita.voloboev) - Don't use it as it serves no purpose for me and is [unethical](../looking-back/2018/january-2018.md).
 - [Meetup](https://www.meetup.com/members/185347053/) - Attending various groups and meeting new interesting people and communities.
 
 ## Photos

@@ -1,5 +1,5 @@
 # Flowers for Algernon
-## Review 
+## Review
 Quite an interesting book. I really loved the way the story progressed not just as story itself gained momentum but since it was a diary, the character changed and with it changed the way he wrote things and expressed himself.
 
 The whole book was written as a series of progress reports for an experiment the main character was allowed to take part it.

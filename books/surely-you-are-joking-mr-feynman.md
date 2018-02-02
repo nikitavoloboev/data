@@ -3,7 +3,7 @@
 - “I remembered only that trigonometry had something to do with relations between sines and cosines. So I began to work out all the relations by drawing triangles, and each one I proved by myself. I also calculated the sine, cosine, and tangent of every five degrees, starting with the sine of five degrees as given, by addition and half-angle formulas that I had worked out.”
 - “While I was doing all this trigonometry, I didn’t like the symbols for sine, cosine, tangent, and so on. To me, “sin f” looked like s times i times n times f! So I invented another symbol, like a square root sign, that was a sigma with a long arm sticking out of it, and I put the f underneath. For the tangent it was a tau with the top of the tau extended, and for the cosine I made a kind of gamma, but it looked a little bit like the square root sign.”
 - “I thought my symbols were just as good, if not better, than the regular symbols—it doesn’t make any difference what symbols you use—but I discovered later that it does make a difference. Once when I was explaining something to another kid in high school, without thinking I started to make these symbols, and he said, “What the hell are those?” I realized then that if I’m going to talk to anybody else, I’ll have to use the standard symbols, so I eventually gave up my own symbols.”
-	- invented his own symbols for himself
+	- Invented his own symbols for himself.
 - “But the whole problem of discovering what was the matter, and figuring out what you have to do to fix it—that was interesting to me, like a puzzle.”
 
 ## Part1 - who stole the door?
