@@ -7,3 +7,6 @@ My biggest goal and challenge with productivity is trying to minimise distaction
 
 ## Notes
 - You can't manage projects; you can only manage actions related to projects.
+
+## Links
+- [Shipping vs. Fiddling](https://medium.com/@okonetchnikov/shipping-vs-fiddling-74e27e61e0c1) - Sometimes it's best to focus on getting things done and not fighting the tools/software.

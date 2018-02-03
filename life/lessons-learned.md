@@ -81,6 +81,8 @@
 	- Actually think about the problems I have and things I can do with what I have instead of giving up and resorting to other things or exterior help. Think first.
 - Share.
 	- Without sharing the things you have made, there's a very slim chance someone will ever see them.
+- Don't overthink things to the point of not doing anything. If you can't find a reason why not to do something, it's often much better to just do the thing and see where it takes you.
+
 
 ## Code
 - Use switch cases over long ifs.

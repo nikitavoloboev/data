@@ -13,4 +13,5 @@ I also use [this amazing workflow](https://github.com/deanishe/alfred-safari-ass
 If I get too many tabs open filled with things to read and do, I sometimes save a session of all these tabs in [Sessions safari extension](https://sessions-extension.github.io/Sessions/) and then have a clean Safari window to focus on.
 
 I then schedule times where I go and review these saved sessions.
+
 ![](https://i.imgur.com/BX2PeJc.png)
