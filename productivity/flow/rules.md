@@ -34,6 +34,7 @@ Some simple rules to follow for myself doing things.
 - Uppercase comments for consistency.
 - Only add one space after the code for inline comments. Don't space them out.
 - Delimit files that have spaces with `-` instead of `_`.
+- In comments, don't write `Will ..`. Just write what it will do. Remove unnecessary (filler) words.
 
 ## Keyboard Maestro
 - All macro names are lowercased. Unless it is necessary.
