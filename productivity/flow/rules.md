@@ -30,11 +30,13 @@ Some simple rules to follow for myself doing things.
 
 ## Code
 - Write code to be read by other people. Prefer to be explicit over implicit.
-- Comment over my code (be mindful of not repeating things, sometimes code speaks for itself).
+- Delimit files that have spaces with `-` instead of `_`.
+
+## Commenting
+- In comments, don't write `Will ..`. Just write what it will do. Remove unnecessary (filler) words.
 - Uppercase comments for consistency.
 - Only add one space after the code for inline comments. Don't space them out.
-- Delimit files that have spaces with `-` instead of `_`.
-- In comments, don't write `Will ..`. Just write what it will do. Remove unnecessary (filler) words.
+- Comment over my code (be mindful of not repeating things, sometimes code speaks for itself).
 
 ## Keyboard Maestro
 - All macro names are lowercased. Unless it is necessary.
