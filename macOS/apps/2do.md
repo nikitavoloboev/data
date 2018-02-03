@@ -19,3 +19,4 @@ This is useful because sometimes I can simply open a tag `10m` and see all tasks
 
 ## Links
 - [2Do URL schemes](https://www.2doapp.com/kb/article/url-schemes.html).
+-[Getting things done: 5 steps](http://gettingthingsdone.com/fivesteps/)

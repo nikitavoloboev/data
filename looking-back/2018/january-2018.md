@@ -41,5 +41,21 @@ I will try practicing meditation and mindfulness a lot more in the coming months
 - Moved to using Sublime Text more for editing wiki. And generally optimised a lot of my wiki editing so I can edit any wiki entry in seconds.
 	- This wiki as it stands now is only the beginning. I think I laid a good foundation for it going forward. I do need to write full articles more often too though.
 
+## Timing
+![](https://i.imgur.com/esZ8xq0.png)
+
+I had some problems and uncertainties about how I should approach doing things. I also have a health issue I am still yet to fix. I also heavily refined my workflow and I think I have a really nice workflow and mental model in how I will approach doing things going forward.
+
+Will be interesting to see how this will change in the coming time. I hope it will.
+
+## Coding
+![](https://i.imgur.com/WZl7m9s.png)
+
+137 hours is really bad. Spent a lot of the time on non code activities like this wiki.
+
+![](https://i.imgur.com/rYqH7G5.png)
+
+Will be changing all of this in the next month. Step by step. Not everythng at once.
+
 ## Links
 - [My January tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-01-01%20until%3A2018-01-30&src=typd)
