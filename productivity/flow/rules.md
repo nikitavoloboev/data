@@ -183,6 +183,10 @@ Some simple rules to follow for myself doing things.
 - Mark all memorable moments and experiences in Day One.
 - Mark memorable moments throughout the day and put them in `Photo a Day` and `Travel` journals.
 
+## Tools
+- Only use what is necessary. Experiment with things but never keep things you are not actually using. That mostly includes plugins and modifications.
+	 - Try to establish a good mental model of what you need and what you use as you apprach modifying your workflow and tools.
+
 ## Images
 - Keep screenshots and interesting images saved in Pixave.
 
@@ -203,6 +207,11 @@ Some simple rules to follow for myself doing things.
 
 ## SnippetsLab
 - Attach the URL to snippets as note as a first thing always if URL is needed. Add other notes underneath the URL.
+
+## Information
+- Don't save unnecessary information. This mostly concerns tracking data and the like. More data is not always better. Quality and purposeful data is.
+- Make the data actionable in some way. Either as a way that you can query it later and read or look back upon in the future (as is case with Day One) or as a way you can immediately take action on in form of analysis of it.
+	- Knowing what goals you have and the reasons why you are collecting or using certain kind of data is important and saves a lot of time in the future when you want to `minimise` and `simplify` things in life.
 
 ## Trello
 - No need to create `Doing now` and `Do next` blocks. I can use `watching` feature for that and seperate cards instead by topic. Use `tags` to give priority to tasks. (In my case `Important`, `Interesting` and `Next` are always present tags in most boards).
