@@ -4,4 +4,4 @@ I want to share my journey in life both for myself and other people who might fi
 ## [2017](2017/2017.md)
 > Interesting year. Learn Anything was born. Started doing this wiki.
 
-## [2018](/2018/2018.md)
+## [2018](2018/2018.md)
