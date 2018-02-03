@@ -1,16 +1,16 @@
-# [My mind](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3 "My Mind")
-![](https://i.imgur.com/6wmvGNT.png)
+# [My mind](https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5)
+![](https://i.imgur.com/rfh1MzA.png)
 
 Aside from this wiki. I also heavily use and update my interactive mind maps.
 
-You can see all these mind maps I have made [here](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3).
+You can see all these mind maps I have made [here](https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5).
 
 ## Why I made them
-I use these mind maps for many things. Since these maps are interactive and allow you to neatly link information together, they are much better suited for some formats. Like visualising my enormous [Karabiner](../macOS/karabiner/Karabiner.md) configuration I made:
+I use these mind maps for many things. Since these maps are interactive and allow you to neatly link information together, they are much better suited for some formats. Like visualising my enormous [Karabiner](../macOS/karabiner/karabiner.md) configuration I made:
 
 ![](https://i.imgur.com/d8hCSbQ.png)
 
-Which you can see live [here](https://my.mindnode.com/c7EmmKvaxCyCEuTzcpkGB4MGeLpWdR8nsJK4rjDh#2738.2,-4854.9,-3) and I explain it in more detail [here](../macOS/apps/karabiner/karabiner.md).
+Which you can see [live](https://my.mindnode.com/mR7ds52Ls21umnbD27SfCD4SmwwrvxxGwvSyy7yW#603.1,-2191.4,3) and I explain it in more detail [here](../macOS/apps/karabiner/karabiner.md).
 
 I can then also instantly access any of these mind maps or any entry in this wiki from [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow:
 ![](https://i.imgur.com/wdPE5dK.png)
@@ -20,10 +20,10 @@ Which as the name suggests, acts as my second brain that I use to quickly access
 Essentially mind maps act as a digital augmentation of my mind in many ways. I want to visualise knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](../sharing/my-articles.md), the [YouTube videos I make](../sharing/my-youtube.md)  and of course finally through the [code I write](../sharing/my-github.md) to make useful tools, apps and interactive visualisations that all can use and enjoy.
 
 ## How to use these mind maps
-Every mind map I made and shared is linked to some other mind map in some way and [this map](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3 "My Mind") is the starting point.
+Every mind map I made and shared is linked to some other mind map in some way and [this map](https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5) is the starting point.
 
 Some nodes contain a description which is indicated by this little symbol here that you can click:
-![](https://i.imgur.com/wI8YLqy.png)
+![](https://i.imgur.com/PuhNjSN.png)
 
 I use various emojis to indicate certain things like indicating that a node links to another map with 🗺.
 

@@ -82,6 +82,6 @@ These are my personal profiles on various websites sorted by categories.
 - [Airbnb](https://www.airbnb.com/users/show/48269245) - Don't use really use it.
 - [DevianArt](https://nikivi.deviantart.com/) - Don't really use it.
 - [Eventbrite](https://www.eventbrite.com/u/146147331884/#) - Various events I have attended or planning to attend.
-- [My Mind](https://my.mindnode.com/myLVaRLKytoTYBLshxGzzb75MN9cyGHbQBgaVVPp#323.6,381.4,3) - My personal interactive mind maps.
+- [My Mind](https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5) - My personal interactive mind maps.
 - [Gfycat](https://gfycat.com/@nikivi) - Sharing Gifs.
 - [AMA](https://github.com/nikitavoloboev/ama) - Ask Me Anything.
