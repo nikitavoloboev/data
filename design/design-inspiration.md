@@ -13,6 +13,7 @@ Here are few things I liked, design wise.
 - [Nienke](https://nienkedekker.com/) - Really like the background and colours.
 - [Justin Windle](https://soulwire.co.uk/)
 - [Yoshua Wuyts](https://www.yoshuawuyts.com/) - Really clean dark design.
+- [Kenneth Reitz](https://www.kennethreitz.org/)
 
 ## Websites
 - [Draftsend](https://draftsend.com/)

@@ -14,3 +14,4 @@ I use [neovim](https://github.com/neovim/neovim) instead of vim and my vimrc for
 - [You don't grok vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
 - [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/) - Quite funny.
 - [Macros](http://vim.wikia.com/wiki/Macros)
+- [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)

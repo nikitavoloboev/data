@@ -23,6 +23,9 @@
 	- Document my thoughts and findings and share it.
 	- Research really well the topic I am trying to share.
 	- Make sure I don’t repeat what has been said before and if it was. Link to it and make my own observations and conclusions.
+- Remove friction.
+	- In whatever you are doing, try to remove as much friction as possible.
+	- Try to practice self documentation. For example don't try to to map things in one app and then try to outline the mappings in another. Try to make the process self documenting and remove the friction of going and keeping the documentation up-to-date. Only do it where it is really necessary and helpful.
 - Track my expenses.
 - Get into the [flow state](../productivity/flow/flow.md) as early as possible during the day.
 - Just being exposed to concepts through videos or tutorials is not going to help me pass interviews.
@@ -75,8 +78,9 @@
 	- Health (Exercise and Nutrition).
 	- Good state of mind.
 	- And all else will follow.
-- Experiment often.
+- Experiment a lot.
 	- Try out any new ideas I have (it is the only way to see if the idea is any good).
+	- Don't be afraid to fail.
 - Use my brain.
 	- Actually think about the problems I have and things I can do with what I have instead of giving up and resorting to other things or exterior help. Think first.
 - Share.
