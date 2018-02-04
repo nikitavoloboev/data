@@ -45,6 +45,7 @@ The number between brackets shows the year I created the repo in. Repos with a ð
 ## Practice
 - [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions for LeetCode in Python and Go.
 - [Euler (2017)](https://github.com/nikitavoloboev/euler) - Solutions to problems in Project Euler written in Python and Go.
+- [Coding practice (2018)](https://github.com/nikitavoloboev/coding-practice) - Solving problems.
 
 ## Books
 - [macOS Automation Guide (2017) ðŸ’¡](https://github.com/nikitavoloboev/macOS-automation-guide) - Online book focused on learning how to automate everything on your mac.
