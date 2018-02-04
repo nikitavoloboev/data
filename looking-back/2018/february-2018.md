@@ -2,6 +2,7 @@
 ## Highlights
 - Completely updated my wiki and now everything is quite clean and tidy.
 - Started using [Fira Code](https://github.com/tonsky/FiraCode) font. And generally started to pay attention to fonts more. Fira Code is amazing.
+- Automated [dotfiles](https://github.com/nikitavoloboev/dotfiles) with [dotbot](https://github.com/anishathalye/dotbot).
 
 ## Changes
 - Started using Ship app more often for GitHub issues.

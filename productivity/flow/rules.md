@@ -35,6 +35,7 @@ Some simple rules to follow for myself doing things.
 ## Commenting
 - In comments, don't write `Will ..`. Just write what it will do. Remove unnecessary (filler) words.
 - Uppercase comments for consistency.
+- Use imperative tense. Instead of `# Outputs`, use `# Output`.
 - Only add one space after the code for inline comments. Don't space them out.
 - Comment over my code (be mindful of not repeating things, sometimes code speaks for itself).
 

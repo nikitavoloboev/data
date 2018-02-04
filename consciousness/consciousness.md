@@ -11,6 +11,8 @@ Consciousness is an interesting thing. The only way to really study it is throug
 - [There is no end to consciousness and no end goal.](https://www.reddit.com/r/Psychonaut/comments/7lu9wr/what_is_the_end_goal_of_consiousness_is_it_to_all/)
 	- Goals are things that can keep the experiencer engaged in the experience and are creations to add spice to reality and existence.
 	- You can have any goal you want. It all is an experience.
+- [You can have super intelligence without consciousness.](https://www.youtube.com/watch?v=XbOP0IKpsZ0)
 
 ## Links
 - [What it means to live a conscious life?](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077) - My thoughts on compassion and living a conscious life.
+- [The Evolution of Consciousness](https://www.youtube.com/watch?v=XbOP0IKpsZ0)

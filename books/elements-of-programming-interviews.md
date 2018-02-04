@@ -21,3 +21,4 @@
 	- Interviewers rarely penalise you for small syntax errors since modern IDE excel at handling these details.
 		- However, lots of bad syntax may result in the impression that you have limited coding experience. Once you are done writing your program, make a pass through it to fix any obvious syntax errors before claiming you are done.
 - Know your interviewers & the company.
+- 
