@@ -160,6 +160,7 @@
 	- [HTTP](networking/http.md)
 	- [Peer to peer](networking/peer-to-peer.md)
 	- [Microservices](networking/microservices.md)
+	- [VPN](networking/vpn.md)
 - [Internet of things](iot/iot.md)
 - [Health](health/health.md)
 	- [Nutrition](health/nutrition/nutrition.md)

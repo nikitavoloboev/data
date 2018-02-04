@@ -49,6 +49,7 @@ Some simple rules to follow for myself doing things.
 ## Markdown
 - Don't leave unnecessary whitespace between headings and text.
 - Don't need to add `:` to the end of text when adding image below as it is implicit.
+- Only use HTML to adjust the image if the original size is not what I need. Don't adjust images blindly and check how the final image looks rendered compared to the text.
 
 ## GitHub
 - Add appropriate topics to each repo.
