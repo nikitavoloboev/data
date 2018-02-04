@@ -43,9 +43,8 @@ Some simple rules to follow for myself doing things.
 - All macro names are lowercased. Unless it is necessary.
 
 ## Karabiner
-- Document any changes I make in Karabiner map instantly in the map (update where necessary).
 - Try to make semantic mappings and chunk mappings by theme or context.
-- Prefix variable names by action (i.e. EDIT/OPEN/ALFRED).
+- Prefix variable names by action (i.e. EDIT/OPEN/ALFRED). Each variable name should be descriptive.
 
 ## Markdown
 - Don't leave unnecessary whitespace between headings and text.
@@ -102,12 +101,13 @@ Some simple rules to follow for myself doing things.
 - Don't forget to update version number and then also commit the workflow so info.plist on GitHub has the latest version.
 
 ## SnippetsLab
+- Lowercase and prefix all snippets. Notes can be uppercased.
 - Upload all non personal snippets as Gists.
 - Create smart group for each new prefix I add.
 - Add correct language syntax to every snippet.
 - Prefer to use comments in the code itself rather than notes (easier to follow).
-- All snippet titles are lowercased. Notes are uppercased.
 - Map command line tools in the curated list. Only add commands where I do want to add some optional commands as snippet to SnippetsLab.
+- Attach the URL to snippets as note as a first thing always if URL is needed. Add other notes underneath the URL.
 
 ## Planning
 - Plan the next day fully in advance in the calendar. Follow through with the plan but adapt where necessary.
@@ -208,9 +208,6 @@ Some simple rules to follow for myself doing things.
 ## Finance
 - Track every purchase made with YNAB. Putting it in its respective category.
 - Adhere to my budget that I have set for each of the categories. If there is no budget left for eating out. Don't eat out.
-
-## SnippetsLab
-- Attach the URL to snippets as note as a first thing always if URL is needed. Add other notes underneath the URL.
 
 ## Information
 - Don't save unnecessary information. This mostly concerns tracking data and the like. More data is not always better. Quality and purposeful data is.
