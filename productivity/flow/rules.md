@@ -45,6 +45,7 @@ Some simple rules to follow for myself doing things.
 ## Karabiner
 - Try to make semantic mappings and chunk mappings by theme or context.
 - Prefix variable names by action (i.e. EDIT/OPEN/ALFRED). Each variable name should be descriptive.
+- Map all hotkeys that are taken in `Karabiner` mind map.
 
 ## Markdown
 - Don't leave unnecessary whitespace between headings and text.
@@ -117,6 +118,7 @@ Some simple rules to follow for myself doing things.
 - Only contain things I really need to get done in `Today`.
 - All 2Do tasks need to be actionable.
 - Work on tasks based on priority (starred completed first).
+- Don't include context in the task title since I can do add it as a tag instead.
 
 ## Ideas
 - If the idea is not private. Share it in Trello (hopefully soon in Crafting Ideas).
@@ -209,6 +211,9 @@ Some simple rules to follow for myself doing things.
 - Sort newsletters automatically into groups for later viewings.
 - Only show relevant emails to me in Inbox.
 - Label all emails accordingly (if it is appropriate).
+
+## Life
+- Simplify as much as possible. Never repeat myself.
 
 ## Finance
 - Track every purchase made with YNAB. Putting it in its respective category.
