@@ -3,7 +3,7 @@
 I like to solve problems I have with code there. [Here](my-github.md) are all the repositories I made.
 
 ## Thoughts on [Twitter](https://twitter.com/nikitavoloboev)
-I share all the things I am up to right now there. I also curate a [few Twitter lists](https://twitter.com/nikitavoloboev/lists) where I get most of my news from.
+I share all the things I am up to right now there and I curate a [few Twitter lists](https://twitter.com/nikitavoloboev/lists) where I get most of my news from.
 
 ## Blog on [Medium](https://medium.com/@NikitaVoloboev)
 I write about various things, mostly programming and macOS tips. [Here](my-articles.md) are all the articles I wrote.
