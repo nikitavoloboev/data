@@ -2,7 +2,7 @@
 My workflow is always changing but currently it consists of the following.
 
 ## Code
-- [VS Code](../text-editors/vs-code.md) - Main editor. Currently write mostly Go and Python.
+- [VS Code](../text-editors/vs-code.md) - Main code editor. Currently write mostly Go and Python.
 - [Sublime text](../text-editors/sublime-text.md) - GitHub readmes, editing the wiki and quick edits (Markdown mostly).
 - [Neovim](../text-editors/vim/vim.md) - Small and quick edits. Edit my Karabiner XML config file there.
 

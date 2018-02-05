@@ -82,6 +82,7 @@ Some simple rules to follow for myself doing things.
 ## Writing
 - Use proper punctuation and capitalise things appropriately.
 - When adding `:`, don't add space beforehand.
+- When making tasks (2Do, Trello, GitHub issues), use imperative tense.
 - Remove unnecessary and `filler` words.
 	- If something can be said in less words, say it in less words.
 	- Always try to be clear and to the point.
@@ -196,6 +197,10 @@ Some simple rules to follow for myself doing things.
 
 ## Knowledge indexing
 - Index knowledge that is actionable in case I might need to reference it later.
+
+## macOS
+- Only run apps I am actually using. Quit everything else.
+- Delete apps I am not using and have no need over. Only use what I need or may need.
 
 ## Email
 - Do emails in burst. Bring my inbox to 0 every day. Action on each email.

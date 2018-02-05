@@ -4,7 +4,7 @@ Here is a list of various things I track for my own use and reference.
 ## Books
 - [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev) - List of [books I have finished reading](https://www.goodreads.com/review/list/15768482?shelf=read) and reviews on all of the books I read.
 - [Books](../books/books.md) - Books I have started reading, read and finished together with a link to the notes I made on each of the books and my reviews.
-- [Reading books](https://trello.com/b/MOrnm2aN) - Books I am reading now and planning to read.
+- [Reading](https://trello.com/b/MOrnm2aN) - Books I am reading now and planning to read.
 
 ## Movies
 - [Letterboxd](https://letterboxd.com/NikitaVoloboev/) - Movies [I want to watch](https://letterboxd.com/nikitavoloboev/watchlist/) as well [movies I have seen](https://letterboxd.com/nikitavoloboev/films/) together with [reviews I have written](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/) and various [movie lists](https://letterboxd.com/nikitavoloboev/lists/) I have made and shared.
@@ -30,7 +30,10 @@ Here is a list of various things I track for my own use and reference.
 - [Playing Games](https://trello.com/b/EekGabpj) - Games I am playing now and want to play.
 
 ## Videos
-- [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists) - Various YouTube playlists I made and shared.
+- [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists) - Various YouTube playlists I made.
 
 ## Products
-- [Product Hunt](https://www.producthunt.com/@nikitavoloboev/collections) - Different collections I made of products and things I liked.
+- [Product Hunt](https://www.producthunt.com/@nikitavoloboev/collections) - Different collections of products and things I liked.
+
+## Design
+- [Dribble](https://dribbble.com/nikitavoloboev/buckets) - Various buckets of designs I liked. There is also a [big list of designs I liked](https://dribbble.com/nikitavoloboev/likes).
