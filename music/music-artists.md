@@ -3,16 +3,18 @@ I have many music artists I like.
 
 ## Favourite artists
 - [Nils Frahm](https://soundcloud.com/nils_frahm) - Is [incredible](https://www.youtube.com/watch?v=kv2nmefHc9Y).
+- [Mounika](https://soundcloud.com/mounika-beat) - [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) is amazing.
+- [Boogie Belgique](https://soundcloud.com/boogiebelgique) - [Need somebody](https://www.youtube.com/watch?v=9jKfexL3TNc) and [Every Time](https://www.youtube.com/watch?v=-svrq8P3RYo&feature=youtu.be) are  amazing.
 - [Giyo](https://soundcloud.com/gi-yo) - Chill.
-- Neroche
+- [Neroche](https://soundcloud.com/nerocheproductions)
 - [Auditive Escape](https://auditiveescape.bandcamp.com) - Downtempo.
-- Crooked Colours
-- Mecca:83
-- Solar Fields
-- The Toxic Avenger
+- [Crooked Colours](https://soundcloud.com/crookedcolours)
+- [Mecca:83](https://soundcloud.com/solar-sound-system)
+- [Solar Fields](https://soundcloud.com/solarfields)
+- [The Toxic Avenger](https://soundcloud.com/thetoxicavenger)
 - [Hans Zimmer](https://soundcloud.com/hanszimmer)
 - [Toro y Moi](https://soundcloud.com/toroymoi)
-- Murcof
+- [Murcof](https://murcofmusic.bandcamp.com)
 - [Telefon Tel Aviv](https://soundcloud.com/telefon-tel-aviv)
 - [TOKiMONSTA](https://soundcloud.com/tokimonsta)
 - [Mura Masa](https://soundcloud.com/muramasamusic)
@@ -22,7 +24,7 @@ I have many music artists I like.
 - [Otto Totland](https://soundcloud.com/sonic-pieces/otto-a-totland-seveen)
 - [Aso](https://soundcloud.com/aricogle)
 - [Caribou](https://soundcloud.com/caribouband)
-- Frenic
+- [Frenic](https://soundcloud.com/frenic)
 - [Gramatik](https://soundcloud.com/gramatik)
 - [Tame Impala](https://soundcloud.com/tame-impala) - Psychedelic.
 - [Bon Iver](https://soundcloud.com/boniver)
@@ -70,10 +72,9 @@ I have many music artists I like.
 - [Angus & Julia Stone](https://soundcloud.com/angusandjuliastone)
 
 ## Interesting artists
-- Emapea
-- Boogie Belgique - [Need somebody](https://www.youtube.com/watch?v=9jKfexL3TNc) and [Every Time](https://www.youtube.com/watch?v=-svrq8P3RYo&feature=youtu.be) are  amazing.
-- Ifan Dafydd
-- montell2099
-- AtYyA
-- Scann-Tec
+- [Emapea](https://soundcloud.com/emapea)
+- [Ifan Dafydd](https://soundcloud.com/ifandafydd)
+- [montell2099](https://soundcloud.com/montell2099)
+- [AtYyA](https://soundcloud.com/atyya)
+- [Scann-Tec](https://soundcloud.com/scann-tec)
 - Entheogenic
