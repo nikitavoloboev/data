@@ -1,6 +1,9 @@
 # Rules
 Some simple rules to follow for myself doing things.
 
+## Life
+- Simplify as much as possible. Never repeat myself.
+
 ## Nutrition
 - No processed sugar. Includes sugary carbonated beverages. Drink water!
 - No food with extra sugar in it.
@@ -211,9 +214,6 @@ Some simple rules to follow for myself doing things.
 - Sort newsletters automatically into groups for later viewings.
 - Only show relevant emails to me in Inbox.
 - Label all emails accordingly (if it is appropriate).
-
-## Life
-- Simplify as much as possible. Never repeat myself.
 
 ## Finance
 - Track every purchase made with YNAB. Putting it in its respective category.

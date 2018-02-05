@@ -1,9 +1,9 @@
 # Sharing
 ## Code on [GitHub](https://github.com/nikitavoloboev)
-I like to solve problems I have with code on [GitHub](https://github.com/nikitavoloboev). [Here](my-github.md) are all the repositories I made.
+I like to solve problems I have with code there. [Here](my-github.md) are all the repositories I made.
 
 ## Thoughts on [Twitter](https://twitter.com/nikitavoloboev)
-I share all the things I am up to right now on [Twitter](https://twitter.com/nikitavoloboev). I also curate a [few Twitter lists](https://twitter.com/nikitavoloboev/lists) where I get most of my news from.
+I share all the things I am up to right now there. I also curate a [few Twitter lists](https://twitter.com/nikitavoloboev/lists) where I get most of my news from.
 
 ## Blog on [Medium](https://medium.com/@NikitaVoloboev)
 I write about various things, mostly programming and macOS tips. [Here](my-articles.md) are all the articles I wrote.
@@ -34,7 +34,7 @@ I share [everything I know](everything-I-know.md) in form of this wiki here. Can
 ## Answering questions on [Reddit](https://www.reddit.com/user/nikivi/), [Quora](https://www.quora.com/profile/Nikita-Voloboev) and various [Stack Exchanges](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile)
 
 ## [My workflow](my-workflow.md)
-I try to make my own workflow in doing things be as _transparent_ as possible and I share it all [here](my-workflow.md).
+I try to make my own workflow in doing things be as _transparent_ as possible.
 
 ## [Things I track](tracking.md)
 I love tracking various things for my own reference.
