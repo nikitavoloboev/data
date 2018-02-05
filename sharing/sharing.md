@@ -12,7 +12,7 @@ I write about various things, mostly programming and macOS tips. [Here](my-artic
 I like to share small photos and stories from my life there. I also curate a small page where I share [beautiful pictures and photos](https://www.instagram.com/niikivi/).
 
 ## Music on [Spotify](https://open.spotify.com/user/nikitavoloboev) and [Soundcloud](https://soundcloud.com/nikitavoloboev)
-I am currently not writing any music of my own although I am learning. I do however share many of the songs I like in [form of playlists](../music/music-playlists.md). I also share music I am [listening to now](https://www.last.fm/user/playfullyExist).
+I am currently not writing any music of my own but I am learning. I do however share many of the songs I like in [form of playlists](../music/music-playlists.md). I also share music I am [listening to now](https://www.last.fm/user/playfullyExist) and [artists I love](../music/music-artists.md).
 
 ## Videos on [Youtube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
 I mostly make videos about macOS automation. [Here](my-youtube.md) are all the videos I have made. I also share [many YouTube playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view_as=subscriber) I made.

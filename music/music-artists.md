@@ -1,23 +1,23 @@
 # Music artists
-I have many music artists I like.
+Below is a list music artists I like. I add my favourite songs from these artists too.
 
 ## Favourite artists
-- [Nils Frahm](https://soundcloud.com/nils_frahm) - Is [incredible](https://www.youtube.com/watch?v=kv2nmefHc9Y).
-- [Mounika](https://soundcloud.com/mounika-beat) - [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) is amazing.
-- [Boogie Belgique](https://soundcloud.com/boogiebelgique) - [Need somebody](https://www.youtube.com/watch?v=9jKfexL3TNc) and [Every Time](https://www.youtube.com/watch?v=-svrq8P3RYo&feature=youtu.be) are  amazing.
-- [Giyo](https://soundcloud.com/gi-yo) - Chill.
-- [Neroche](https://soundcloud.com/nerocheproductions)
-- [Auditive Escape](https://auditiveescape.bandcamp.com) - Downtempo.
-- [Crooked Colours](https://soundcloud.com/crookedcolours)
-- [Mecca:83](https://soundcloud.com/solar-sound-system)
-- [Solar Fields](https://soundcloud.com/solarfields)
-- [The Toxic Avenger](https://soundcloud.com/thetoxicavenger)
-- [Hans Zimmer](https://soundcloud.com/hanszimmer)
-- [Toro y Moi](https://soundcloud.com/toroymoi)
-- [Murcof](https://murcofmusic.bandcamp.com)
-- [Telefon Tel Aviv](https://soundcloud.com/telefon-tel-aviv)
-- [TOKiMONSTA](https://soundcloud.com/tokimonsta)
-- [Mura Masa](https://soundcloud.com/muramasamusic)
+- [Nils Frahm](https://soundcloud.com/nils_frahm) - [My Friend the Forest](https://www.youtube.com/watch?v=d99p-SPn5Tc)
+- [Mounika](https://soundcloud.com/mounika-beat) - [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg)
+- [Boogie Belgique](https://soundcloud.com/boogiebelgique) - [Need somebody](https://www.youtube.com/watch?v=9jKfexL3TNc) | [Every Time](https://www.youtube.com/watch?v=-svrq8P3RYo&feature=youtu.be)
+- [Giyo](https://soundcloud.com/gi-yo) - [Downward Spiral](https://www.youtube.com/watch?v=M6beaMfKmjw)
+- [Neroche](https://soundcloud.com/nerocheproductions) - [The departure](https://www.youtube.com/watch?v=B2DrqS6Rxhw)
+- [Auditive Escape](https://auditiveescape.bandcamp.com) - [Collective Monad](https://www.youtube.com/watch?v=U1mcD-IfAas)
+- [Crooked Colours](https://soundcloud.com/crookedcolours) - [All Eyes](https://www.youtube.com/watch?v=5ne08M5fr30)
+- [Mecca:83](https://soundcloud.com/solar-sound-system) - [So fine](https://www.youtube.com/watch?v=2dlVqNTGad0)
+- [Solar Fields](https://soundcloud.com/solarfields) - [Vive Le Resistance](https://www.youtube.com/watch?v=J-9CUuPA4FU)
+- [The Toxic Avenger](https://soundcloud.com/thetoxicavenger) - [Over Me](https://www.youtube.com/watch?v=5fx1-SbkWtY)
+- [Hans Zimmer](https://soundcloud.com/hanszimmer) - [Time](https://www.youtube.com/watch?v=RxabLA7UQ9k)
+- [Toro y Moi](https://soundcloud.com/toroymoi) - [Girl like you](https://www.youtube.com/watch?v=Fg7r4kQUbPw)
+- [Murcof](https://murcofmusic.bandcamp.com) - [Rios](https://www.youtube.com/watch?v=66-6kvJUiVw)
+- [Telefon Tel Aviv](https://soundcloud.com/telefon-tel-aviv) - [Lengthening Shadows](https://www.youtube.com/watch?v=PomcdVPfNFY)
+- [TOKiMONSTA](https://soundcloud.com/tokimonsta) - [Put it down](https://www.youtube.com/watch?v=7_7Yi7cCHx4)
+- [Mura Masa](https://soundcloud.com/muramasamusic) - [Are U there?](https://www.youtube.com/watch?v=NJ4pslRSG0c)
 - [Max Richter](https://soundcloud.com/max-richter)
 - [tsaik](https://soundcloud.com/tsaik)
 - [baaskaT](https://soundcloud.com/baaskat-beats)
