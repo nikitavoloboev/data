@@ -126,6 +126,7 @@
 - [Compilers](compilers/compilers.md)
 - [Physics](physics/physics.md)
 - [Quantum physics](quantum-physics/quantum-physics.md)
+- [Biology](biology/biology.md)
 - [Interviews](interviews/interviews.md)
 	- [CV](interviews/cv.md)
 	- [LeetCode](interviews/leetcode.md)

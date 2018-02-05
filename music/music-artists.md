@@ -71,6 +71,7 @@ I have many music artists I like.
 
 ## Interesting artists
 - Emapea
+- Boogie Belgique - [Need somebody](https://www.youtube.com/watch?v=9jKfexL3TNc) and [Every Time](https://www.youtube.com/watch?v=-svrq8P3RYo&feature=youtu.be) are  amazing.
 - Ifan Dafydd
 - montell2099
 - AtYyA
