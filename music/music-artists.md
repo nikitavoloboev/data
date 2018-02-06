@@ -4,6 +4,7 @@ Below is a list music artists I like. I attach my favourite songs from these art
 ## Favourite artists
 - [Nils Frahm](https://soundcloud.com/nils_frahm) - [My Friend the Forest](https://www.youtube.com/watch?v=d99p-SPn5Tc)
 - [Mounika](https://soundcloud.com/mounika-beat) - [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) | [Stay Here](https://www.youtube.com/watch?v=-RTOrm50Q8w) | [Love You Sweet It's What I Do](https://www.youtube.com/watch?v=55EANOPFunw)
+- [Little People](https://soundcloud.com/littlepeoplemusic) - [Moon](https://www.youtube.com/watch?v=IK5I4cTkL-E)
 - [Boogie Belgique](https://soundcloud.com/boogiebelgique) - [Need somebody](https://www.youtube.com/watch?v=9jKfexL3TNc) | [Every Time](https://www.youtube.com/watch?v=-svrq8P3RYo&feature=youtu.be)
 - [Giyo](https://soundcloud.com/gi-yo) - [Downward Spiral](https://www.youtube.com/watch?v=M6beaMfKmjw)
 - [Neroche](https://soundcloud.com/nerocheproductions) - [The departure](https://www.youtube.com/watch?v=B2DrqS6Rxhw)
@@ -26,7 +27,7 @@ Below is a list music artists I like. I attach my favourite songs from these art
 - [Caribou](https://soundcloud.com/caribouband)
 - [Frenic](https://soundcloud.com/frenic)
 - [Gramatik](https://soundcloud.com/gramatik)
-- [Tame Impala](https://soundcloud.com/tame-impala) - Psychedelic.
+- [Tame Impala](https://soundcloud.com/tame-impala)
 - [Bon Iver](https://soundcloud.com/boniver)
 - [40 Winks](https://soundcloud.com/40winks)
 - [Ludovico Einaudi](https://soundcloud.com/ludovicoeinaudi)
@@ -39,7 +40,6 @@ Below is a list music artists I like. I attach my favourite songs from these art
 - [godblesscomputers](https://soundcloud.com/godblesscomputers)
 - [Alessandro Diga](https://soundcloud.com/alessandro-diga)
 - [In Love With a Ghost](https://soundcloud.com/in-love-with-a-ghost)
-- [Little People](https://soundcloud.com/littlepeoplemusic)
 - [Shlohmo](https://soundcloud.com/shlohmo)
 - [Jimi Hendrix](https://soundcloud.com/jimihendrix)
 - [Fakear](https://soundcloud.com/fakear)
