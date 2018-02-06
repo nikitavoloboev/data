@@ -13,3 +13,6 @@ Similar to how I took Yoshua's idea with his [original knowledge repo](https://g
 
 ## Plugins I like
 - [KaTex](https://plugins.gitbook.com/plugin/katex) - To insert LaTeX, surround LaTeX code with `$$`.
+
+## Links
+- [rustbook](https://github.com/steveklabnik/rustbook) - Alternative to Gitbook in Rust.

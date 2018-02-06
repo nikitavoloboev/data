@@ -5,10 +5,11 @@ Some simple rules to follow for myself doing things.
 - Simplify as much as possible. Never repeat myself.
 
 ## Nutrition
-- No processed sugar. Includes sugary carbonated beverages. Drink water!
+- No processed sugar.
 - No food with extra sugar in it.
-- No meat or dairy products. Health and [ethical reasons](../../life/compassion.md).
 - No drinks other than water, coffee and tea. No added sugar in the drinks.
+- No meat or dairy products. Health and [ethical reasons](../../life/compassion.md).
+- Focus on Whole Food, Plant-Based diet.
 
 ## Wiki
 - Describe links on the same line with `-` separator (if needs more description, then sub dash).
@@ -17,6 +18,7 @@ Some simple rules to follow for myself doing things.
 - Try to use other services for logging and other things where possible. Like in the case of [Letterboxd](https://letterboxd.com/NikitaVoloboev/) and its Lists feature. It's better to make lists there and link to the lists from wiki. Find the right tool for the job. The wiki should act as a glue between things.
 - Keep all files lowercased.
 - If I am watching a talk, it is best not to jot down notes from the talk itself but capture ideas and note down these ideas in the wiki, sometimes referencing the talk where the idea or insight was taken from for context.
+- Think about structuring the content and entries as I add new entries. Should a new category be added for the topic (thing) and under what category should the entry be placed.
 
 ## Adding resources (links)
 - When adding resources and bookmarks. Priorotise adding them to LA curated lists first and LA itself (not Trello). The goal of the wiki is to mostly contain my own notes and references.

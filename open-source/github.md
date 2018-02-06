@@ -20,8 +20,9 @@ And then I can go through these issues one by one.
 - [GitHub release states](http://www.somsubhra.com/github-release-stats/) is really cool website where you can find how many people have downloaded various GitHub releases of people.
 - I can include media files like GIFs in the repository itself and then just reference them from readme to embed them.
 - I can include and mix in HTML in GitHub readme's. This is super useful for embedding images because you can customise `width` and `height` values to make the READMEs look a lot nice.
-- [Hub](https://github.com/github/hub) is an awesome wrapper over `git` command
+- I can tack in various GitHub related templates like `issue_template.md` and `pull_request_template.md` as well as `code_of_conduct.md` under `.github` folder at the root of my project.
 
 ## Links
 - [This is my work-flow for contributing on Github](https://zimbatm.com/journal/2015/08/16/this-is-how-i-contribute-on-github/) - Shell centric workflow.
 - [ghb0t](https://github.com/jessfraz/ghb0t)
+- [Hub](https://github.com/github/hub) - Awesome wrapper over `git` command.
