@@ -144,6 +144,7 @@ Some simple rules to follow for myself doing things.
 ## Productivity
 - Work to complete the task I have at hand.
 - Set deadlines for all things. Adjust plan according to the deadlines.
+- Deadlines set are of utmost importance. Do my best to complete the deadlines I have set for today before venturing in trying to do anything else. Learn how to deal and set appropriate deadlines with time.
 - Limit distractions. Strive to increase signal to noise ratio.
 - Always turn [Focus](https://heyfocus.com) when starting to work and make things and fully focus on the task/s at hand. Adjust the focus list to block even more distractions and tune my workflow to only do the task/s I have.
 - Live by my calendar. Assign tasks and blocks of time in advance and work through each of the blocks. Adjust when necessary.
@@ -216,6 +217,9 @@ Some simple rules to follow for myself doing things.
 - Sort newsletters automatically into groups for later viewings.
 - Only show relevant emails to me in Inbox.
 - Label all emails accordingly (if it is appropriate).
+
+## Looking back
+- Don't say `Want to`. Instead say `Will` in `Changes`. This applies more generally too, try be more proactive with anything I do. Intention counts.
 
 ## Finance
 - Track every purchase made with YNAB. Putting it in its respective category.
