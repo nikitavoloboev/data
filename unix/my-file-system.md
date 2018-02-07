@@ -28,7 +28,8 @@ And inside I sort the projects according to their purpose too:
 ![](https://i.imgur.com/seM6wJQ.png)
 
 ## ~/go/src/github.com/nikitavoloboev
-I keep all my Go projects inside my GOPATH.
+I keep all my Go projects inside my GOPATH. Which are split by their context:
+![](https://i.imgur.com/TP0xfnC.png)
 
 ## ~/src/testing
 Inside this folder I have a bunch of language specific folders that usually just have one file inside them with the extension of that language. Here is how that folder looks for me:
