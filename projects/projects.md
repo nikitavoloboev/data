@@ -1,5 +1,5 @@
 # Projects
-I have many ideas on projects I want to make and you can see the ones I am working on right now or have completed in the past [here](https://nikitavoloboev.xyz/projects/).
+I have [many ideas](https://trello.com/b/alB1ryRP) on projects I want to make and you can see the ones I am working on right now or have completed in the past [here](https://nikitavoloboev.xyz/projects/).
 
 Aside from [Learn Anything](https://learn-anything.xyz/) which solves many of my own personal problems, I want to create [Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas) which solves another one of my problems of working together on interesting things and finding likeminded people to share ideas and collaborate together.
 

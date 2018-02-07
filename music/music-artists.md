@@ -2,9 +2,9 @@
 Below is a list music artists I like. I attach my favourite songs from these artists.
 
 ## Favourite artists
-- [Nils Frahm](https://soundcloud.com/nils_frahm) - [My Friend the Forest](https://www.youtube.com/watch?v=d99p-SPn5Tc)
+- [Nils Frahm](https://soundcloud.com/nils_frahm) - [My Friend the Forest](https://www.youtube.com/watch?v=d99p-SPn5Tc) | [Evening with Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po)
 - [Mounika](https://soundcloud.com/mounika-beat) - [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) | [Stay Here](https://www.youtube.com/watch?v=-RTOrm50Q8w) | [Love You Sweet It's What I Do](https://www.youtube.com/watch?v=55EANOPFunw)
-- [Little People](https://soundcloud.com/littlepeoplemusic) - [Moon](https://www.youtube.com/watch?v=IK5I4cTkL-E)
+- [Little People](https://soundcloud.com/littlepeoplemusic) - [Enola](https://www.youtube.com/watch?v=SH2w1nXNbrM) | [Offal Waffle](https://soundcloud.com/littlepeoplemusic/offal-waffle-emancipator-remix)
 - [Boogie Belgique](https://soundcloud.com/boogiebelgique) - [Need somebody](https://www.youtube.com/watch?v=9jKfexL3TNc) | [Every Time](https://www.youtube.com/watch?v=-svrq8P3RYo&feature=youtu.be)
 - [Giyo](https://soundcloud.com/gi-yo) - [Downward Spiral](https://www.youtube.com/watch?v=M6beaMfKmjw)
 - [Neroche](https://soundcloud.com/nerocheproductions) - [The departure](https://www.youtube.com/watch?v=B2DrqS6Rxhw)
@@ -47,6 +47,7 @@ Below is a list music artists I like. I attach my favourite songs from these art
 - [Hot Sugar](https://soundcloud.com/hotsugar)
 - [Hidden Orchestra](https://soundcloud.com/hiddenorchestra)
 - Man Tobin
+- [Ólafur Arnalds](https://soundcloud.com/olafur-arnalds)
 - [SOHN](https://soundcloud.com/sohn)
 - [Kyson](https://soundcloud.com/kyson)
 - [Tipper](https://soundcloud.com/tippermusic)

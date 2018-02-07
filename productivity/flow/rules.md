@@ -5,8 +5,7 @@ Some simple rules to follow for myself doing things.
 - Simplify as much as possible. Never repeat myself.
 
 ## Nutrition
-- No processed sugar.
-- No food with extra sugar in it.
+- No processed sugar. No food with extra sugar in it.
 - No drinks other than water, coffee and tea. No added sugar in the drinks.
 - No meat or dairy products. Health and [ethical reasons](../../life/compassion.md).
 - Focus on Whole Food, Plant-Based diet.
@@ -46,6 +45,7 @@ Some simple rules to follow for myself doing things.
 
 ## Keyboard Maestro
 - All macro names are lowercased. Unless it is necessary.
+- When doing macros to `focus` on something, name the macro like so `sidebar focus` rather than `focus on sidebar`.
 
 ## Karabiner
 - Try to make semantic mappings and chunk mappings by theme or context.
