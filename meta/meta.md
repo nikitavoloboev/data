@@ -6,6 +6,7 @@ Each folder is a topic that can include other topics under it related to the par
 [Gitbook](https://www.gitbook.com/) provides a pretty awesome search feature that lets you search across this entire knowledge base, so feel free to use it.
 
 I also really love using night mode. You can switch to it from here if you haven't:
+
 ![](https://i.imgur.com/k6EDR4K.png)
 
 If this is your first time visiting this wiki, you can just start reading from the top entry down and see what sparks your interest.

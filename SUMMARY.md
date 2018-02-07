@@ -191,6 +191,7 @@
 	- [Dat](tools/dat.md)
 - [Design](design/design.md)
 	- [Design inspiration](design/design-inspiration.md)
+- [Future](future/future.md)
 - [Cryptocurrencies](cryptocurrencies/cryptocurrencies.md)
 	- [Bitcoin](cryptocurrencies/bitcoin.md)
 	- [Ethereum](cryptocurrencies/ethereum.md)

@@ -1,15 +1,15 @@
 # Sharing
 ## Code on [GitHub](https://github.com/nikitavoloboev)
-I like to solve problems I have with code there. [Here](my-github.md) are all the repositories I made.
+I love to solve problems I have with code. [Here](my-github.md) are all the repositories I made.
 
 ## Thoughts on [Twitter](https://twitter.com/nikitavoloboev)
-I share all the things I am up to right now there and I curate a [few Twitter lists](https://twitter.com/nikitavoloboev/lists) where I get most of my news from.
+I share all the things I am up to right now there. And I curate a [few Twitter lists](https://twitter.com/nikitavoloboev/lists) where I get most of my news from.
 
 ## Blog on [Medium](https://medium.com/@NikitaVoloboev)
 I write about various things, mostly programming and macOS tips. [Here](my-articles.md) are all the articles I wrote.
 
 ## Experiences on [Instagram](https://www.instagram.com/nikitavoloboev/)
-I like to share small photos and stories from my life there. I also curate a small page where I share [beautiful pictures and photos](https://www.instagram.com/niikivi/).
+I like to share photos and stories from my life there. I also curate a small page where I share [beautiful pictures and photos](https://www.instagram.com/niikivi/).
 
 ## Music on [Spotify](https://open.spotify.com/user/nikitavoloboev) and [Soundcloud](https://soundcloud.com/nikitavoloboev)
 I am currently not writing any music of my own but I am learning. I do however share many of the songs I like in [form of playlists](../music/music-playlists.md). I also share music I am [listening to now](https://www.last.fm/user/playfullyExist) and [artists I love](../music/music-artists.md).
