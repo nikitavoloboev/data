@@ -49,9 +49,6 @@ The number between brackets shows the year I created the repo in. Repos with a �
 ## Books
 - [macOS Automation Guide (2017) 💡](https://github.com/nikitavoloboev/macOS-automation-guide) - Online book focused on learning how to automate everything on your mac.
 
-## macOS apps
-- [Last Time (2017) 💡](https://github.com/nikitavoloboev/last-time) - macOS app to show you the last time you have done something.
-
 ## Web
 - [Crafting Ideas (2017) 💡](https://github.com/nikitavoloboev/crafting-ideas) - A platform to share and grow your ideas.
 - [Boxes (2017) 💡](https://github.com/nikitavoloboev/boxes) - Your life as little boxes.
