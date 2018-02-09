@@ -1,9 +1,9 @@
 # Photography
-Still learning.
+Still [learning](https://www.instagram.com/nikitavoloboev/).
 
 ## Photographers I like
+- [Valeriya Prokopova](https://www.instagram.com/valeriyaprokopova/)
 - [Michael Kenna](http://www.michaelkenna.net/gallery.php?id=22)
-- [Valeriya](https://www.instagram.com/valeriyaprokopova/)
 - [Kenneth Reitz](https://500px.com/kennethreitz)
 
 ## Links

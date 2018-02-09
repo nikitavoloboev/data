@@ -1,4 +1,17 @@
 # January 2018
+## Overview
+Wouldn't call this month the best start to the year. LA was blocked by FB and all of FB products. This although quite bad, how a company can block an educational website, opened me up to the horrible prospects that the future will bring if we allow these centralised companies to get control over our daily lives. I will be exploring alternatives to centralised solutions that bring power to the users and the people instead of the few handful of individuals and shareholders who get to decide what to do with all the user's data they collect.
+
+On the other brighter side, I found a certain sense of peace with where I am in my life. Yes, I never had a job and no one wants to hire me to write code for them. There are upsides to it in that I can just focus and do my own things. Build the projects I want to build and not build someone else's dream and ideas. In this day and age, you can really do anything.
+
+Another problem I still have not fixed in my life is university. I have been completely hating my life doing my Bachelor's degree in CS. Not because I hate CS or hate learning. But because the way (Eindhoven uni) teaches and presents the material is horrendous. Maybe something is wrong with me but I can't force myself to care to pass a course and memorise a certain set of rules and processes just so I have a chance of passing an exam. I am too accustomed to solving problems with using everything I have available at my disposale. I am too efficient in using my laptop.
+
+But all in all, this sounds like a bunch of grumpy thoughts and complaining about how things are not the way I expect them to be. The reality is that nothing comes easy and you have to work to get what you want to achieve. Fortunately I genuinely enjoy working on the ideas I have and building the things I want to build. I wish I can do open source for a living and people who do use and enjoy using the things I build can support me. Even if few people can do it, this would make a massive difference.
+
+I still don't know what I want to do in life. And I think I read too much about zen, Buddhism and all that stuff so I stopped caring about too many things. I realised that life and all that I do has no inherent meaning and I have to give meaning to everything or else I simply won't care about it. And thus don't do it. I can stop caring about my university. I can stop caring about health or exercise. I can stop caring about my growing addiction to news and entertainment. But these things are irrational. It makes sense to step back and look at life from a different prespective and ask myself why I do the things I do and if I want to continue doing them.
+
+I will try practicing meditation and mindfulness a lot more in the coming months. And will focus on building things that matter to me. I am really happy in how computers and software can solve so many of my problems and do it so beautifully. I still have some frustrations and problems I feel and I want to solve them too in the coming time. I also want to be a lot more brutally honest with myself. I think trying to hide or ignore things away from myself is literally the worst thing I can do.
+
 ## FB blocked Learn Anything
 Learn Anything was banned from both Facebook and Instagram platforms.
 
@@ -15,19 +28,6 @@ My last post on FB. Have no idea why I didn't delete my account already given th
 ![](https://i.imgur.com/k8HFr0e.png)
 
 Will be exploring [Scuttlebutt](https://www.scuttlebutt.nz) and other decentralised solutions for sharing news and communicating. It makes no sense to live in a world where a company can choose what its users should see, do or talk about.
-
-## Overview
-Wouldn't call this month the best start to the year. LA was blocked by FB and all of FB products. This although quite bad, how a company can block an educational website, opened me up to the horrible prospects that the future will bring if we allow these centralised companies to get control over our daily lives. I will be exploring alternatives to centralised solutions that bring power to the users and the people instead of the few handful of individuals and shareholders who get to decide what to do with all the user's data they collect.
-
-On the other brighter side, I found a certain sense of peace with where I am in my life. Yes, I never had a job and no one wants to hire me to write code for them. There are upsides to it in that I can just focus and do my own things. Build the projects I want to build and not build someone else's dream and ideas. In this day and age, you can really do anything.
-
-Another problem I still have not fixed in my life is university. I have been completely hating my life doing my Bachelor's degree in CS. Not because I hate CS or hate learning. But because the way (Eindhoven uni) teaches and presents the material is horrendous. Maybe something is wrong with me but I can't force myself to care to pass a course and memorise a certain set of rules and processes just so I have a chance of passing an exam. I am too accustomed to solving problems with using everything I have available at my disposale. I am too efficient in using my laptop.
-
-But all in all, this sounds like a bunch of grumpy thoughts and complaining about how things are not the way I expect them to be. The reality is that nothing comes easy and you have to work to get what you want to achieve. Fortunately I genuinely enjoy working on the ideas I have and building the things I want to build. I wish I can do open source for a living and people who do use and enjoy using the things I build can support me. Even if few people can do it, this would make a massive difference.
-
-I still don't know what I want to do in life. And I think I read too much about zen, Buddhism and all that stuff so I stopped caring about too many things. I realised that life and all that I do has no inherent meaning and I have to give meaning to everything or else I simply won't care about it. And thus don't do it. I can stop caring about my university. I can stop caring about health or exercise. I can stop caring about my growing addiction to news and entertainment. But these things are irrational. It makes sense to step back and look at life from a different prespective and ask myself why I do the things I do and if I want to continue doing them.
-
-I will try practicing meditation and mindfulness a lot more in the coming months. And will focus on building things that matter to me. I am really happy in how computers and software can solve so many of my problems and do it so beautifully. I still have some frustrations and problems I feel and I want to solve them too in the coming time. I also want to be a lot more brutally honest with myself. I think trying to hide or ignore things away from myself is literally the worst thing I can do.
 
 ## Highlights
 - Learn Anything was nomitated for [2017 Golden Kitty Awards](https://www.producthunt.com/golden-kitty-awards-2017).
