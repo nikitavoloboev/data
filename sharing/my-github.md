@@ -20,7 +20,6 @@ The number between brackets shows the year I created the repo in. Repos with a �
 - [Web Searches (2017) 🌟](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web (easily extendable list).
 - [My Mind (2017) 🌟](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my notes and bookmarks on the web.
 - [Birthday (2017)](https://github.com/nikitavoloboev/alfred-birthday) - Showcase how much time passed since your birthday.
-- [Go Search (2017)💡](https://github.com/nikitavoloboev/alfred-go-search) - Search websites with autosuggestions.
 - [Small Workflows (2017) 🌟](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
 - [Awesome Lists (2017) 🌟](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds inside Alfred.
 - [GitHub users (2018) 💡](https://github.com/nikitavoloboev/alfred-github-users) - Search people you follow on GitHub.
@@ -28,7 +27,7 @@ The number between brackets shows the year I created the repo in. Repos with a �
 - [Trello (2018) 💡](https://github.com/nikitavoloboev/alfred-trello) - Communicate with Trello.
 
 ## Go Libraries
-- [Mindnode Parser (2017) 💡](https://github.com/nikitavoloboev/mindnode-parser) - Go library to parse mind maps from MindNode.
+- [MindNode Parser (2017) 💡](https://github.com/nikitavoloboev/mindnode-parser) - Go library to parse mind maps from MindNode.
 - [Markdown Parser (2017)](https://github.com/nikitavoloboev/markdown-parser) - Go library to parse markdown to grab various things.
 
 ## CLI
