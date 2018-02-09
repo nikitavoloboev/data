@@ -5,8 +5,6 @@ I do wish however to expand my horizons and try out Linux. I doubt I will ever b
 
 In any way, I like to think my journey with macOS, operating systems, programming and the like has only begun, I am still yet to make something substantial, something akin to [Karabiner](https://github.com/tekezo/Karabiner-Elements). But I am getting there.
 
-I once had an idea to make a [macOS app of my own](https://github.com/nikitavoloboev/last-time) to automatically track things I do. However I found the development of it quite challenging. Perhaps I will give it a go again in the future.
-
 ## Snippets
 - [Turn internal keyboard on or off](https://gist.github.com/ff9fd158b6831dfcacf33f54bc91945c)
 - [Reset launchpad](https://gist.github.com/21c10b91e0f4b4093fdfe6840aea1079)

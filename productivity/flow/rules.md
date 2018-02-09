@@ -28,6 +28,7 @@ Some simple rules to follow for myself doing things.
 - Do atomic commits and write [proper appropriate commit messages](https://chris.beams.io/posts/git-commit/).
 - Start commits uppercased and prefix them with an action (Add/Remove/Fix/Update). Use imperative tense.
 - Don't use emojis in commit messages.
+- Commit changes and push before making a release. This way the commits come bundled together with release as change log.
 
 ## Dotfiles
 - Comment all my aliases briefly saying what they do. Comment all zsh functions. Be mindful that I can then search through these functions and aliases later.
