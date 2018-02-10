@@ -183,6 +183,7 @@
 	- [Nix](package-managers/nix.md)
 	- [Brew](package-managers/brew.md)
 - [Tools](tools/tools.md)
+	- [Codesandbox](tools/codesandbox.md)
 	- [GitBook](tools/gitbook.md)
 	- [Dropbox](tools/dropbox.md)
 	- [Product Hunt](tools/product-hunt.md)
