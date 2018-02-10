@@ -232,6 +232,7 @@
 - [Podcasts](podcasts/podcasts.md)
 - [Documentaries](documentaries/documentaries.md)
 - [Movies](movies/movies.md)
+	- [Directors](movies/directors.md)
 - [TV series](tv-series/tv-series.md)
 - [Courses](courses/courses.md)
 - [Articles](articles/articles.md)

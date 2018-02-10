@@ -2,7 +2,7 @@
 Still [learning](https://www.instagram.com/nikitavoloboev/).
 
 ## Photographers I like
-- [Valeriya Prokopova](https://www.instagram.com/valeriyaprokopova/)
+- [Brandon Woelfel](http://www.brandonwoelfel.com/photography-1/)
 - [Michael Kenna](http://www.michaelkenna.net/gallery.php?id=22)
 - [Kenneth Reitz](https://500px.com/kennethreitz)
 
