@@ -63,19 +63,17 @@ Some simple rules to follow for myself doing things.
 - Make many experiments and share them.
 - Add credits to repos and acknowledge work of people I am using at end of repos (`Credits`).
 - Use relative links instead of hard wired links. For example in GitHub you can use `../../issues/` to reference issues of current repo from readme.
-- Lowercase readme file. There is no need for it to be uppercased.
 
-## GitHub readme
+## GitHub README
 - Use HTML for rendering images if I need control on their size and position.
 - Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links). Don't repeat what is said in the quote in the description underneath the quote.
-- If the readme is long enough, add a `Contents` table.
+- If the README is long enough, add a `Contents` reference table. Can omit `Contents` heading.
 - Don't add anything that is not needed and focus on the content.
 - Add a way to visually show the workflow/library in action where appropriate.
-- Don't link to Imgur images as links, render them in the GitHub readme itself.
+- Don't link to Imgur images as links, render them in the GitHub README itself.
 - In screenshots of Alfred prompts and other prompts, show the cursor.
 - Add `Related` section to most repos linking to similar projects either of my own or of other. Not all projects need this.
 - Don't add Thank You clause in `idea` stage projects.
-- If the project has many ways to contribute, create a `contributing.md` file and link to it.
 
 ## Alfred
 - Keyword triggers should be one string (no spaces). Try to make keyword be semantically appropriate to workflow and easy to memorise and type.
