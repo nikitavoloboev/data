@@ -1,7 +1,6 @@
 # February 2018
-
-## Went through all my old FB posts and looking back
-Went through all my FB posts on my acc and transferred the links + photos to my Photos app locally. I posted a lot of songs and links there as it turns out. Was fun going through most of them but I am super happy to never ever post to FB again. Life is so much simpler without it. I have a pretty awesome mental outlook on how I want to approach using technology and tools going forward and I want to cut out anything that brings me no use to my life.
+## Going through all my old FB posts
+Went through all my FB posts on my account and transferred the links + photos to my Photos app locally. I posted a lot of songs and links there as it turns out. Was fun going through most of them but I am super happy to never ever post to FB again. Life is so much simpler without it. I have a pretty awesome mental outlook on how I want to approach using technology and tools going forward and I want to cut out anything that brings me no use to my life.
 
 One thing I did find that was actually interesting was the first post I made about the mind map I was making that back then was called `research` and you can still explore it live [here](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J#-18.1,-200.3,2). It's a *lot* smaller than what it once was. Before I started cleaning and going through it all moving all the links to another map I started to make which I named `learn anything` and you can see that map [here](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#171.5,-731.2,0). History is fun to look back on.
 
