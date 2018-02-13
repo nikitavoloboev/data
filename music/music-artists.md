@@ -2,7 +2,9 @@
 Below is a list music artists I like. I attach my favourite songs from these artists.
 
 ## Favourite artists
+- [Otto Totland](https://soundcloud.com/sonic-pieces/otto-a-totland-seveen) - [Aust](https://www.youtube.com/watch?v=TUs8BUVye9s)
 - [Nils Frahm](https://soundcloud.com/nils_frahm) - [My Friend the Forest](https://www.youtube.com/watch?v=d99p-SPn5Tc) | [Evening with Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po)
+- [Shigeto](https://soundcloud.com/shigeto) - [Ann Arbor Part 3 & 4](https://www.youtube.com/watch?v=0ZRM3hrn0hM) | [Detroit Part 1](https://www.youtube.com/watch?v=aG6Z_-iE4lI)
 - [Emancipator](https://soundcloud.com/emancipator) - [Valhalla](https://www.youtube.com/watch?v=JkFYkMYAXzw) | [Black Lake](https://www.youtube.com/watch?v=Dz4aVM8fug0)
 - [Mounika](https://soundcloud.com/mounika-beat) - [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) | [Stay Here](https://www.youtube.com/watch?v=-RTOrm50Q8w) | [Love You Sweet It's What I Do](https://www.youtube.com/watch?v=55EANOPFunw)
 - [Little People](https://soundcloud.com/littlepeoplemusic) - [Enola](https://www.youtube.com/watch?v=SH2w1nXNbrM) | [Offal Waffle](https://soundcloud.com/littlepeoplemusic/offal-waffle-emancipator-remix)
@@ -33,7 +35,6 @@ Below is a list music artists I like. I attach my favourite songs from these art
 - [baaskaT](https://soundcloud.com/baaskat-beats) - [Bittersweet](https://www.youtube.com/watch?v=oHiNB9NtgXA)
 - [il:lo](https://soundcloud.com/il-lomusic) - [Ronda](https://www.youtube.com/watch?v=U48Kl1Cc1MY) | [Vär (Rework Bonus)](https://www.youtube.com/watch?v=1csy4XEtbUc)
 - [tsaik](https://soundcloud.com/tsaik)
-- [Otto Totland](https://soundcloud.com/sonic-pieces/otto-a-totland-seveen)
 - [Aso](https://soundcloud.com/aricogle) - [Seasons](https://www.youtube.com/watch?v=Xo3ez6LThQ4)
 - [Caribou](https://soundcloud.com/caribouband)
 - [Frenic](https://soundcloud.com/frenic)
@@ -65,7 +66,6 @@ Below is a list music artists I like. I attach my favourite songs from these art
 - [Shook](https://soundcloud.com/shookshookshook)
 - [Nosaj Thing](https://soundcloud.com/nosajthing)
 - [Baths](https://soundcloud.com/bathsmusic)
-- [Shigeto](https://soundcloud.com/shigeto) - [Ann Arbor Part 3 & 4](https://www.youtube.com/watch?v=0ZRM3hrn0hM) | [Detroit Part 1](https://www.youtube.com/watch?v=aG6Z_-iE4lI)
 - [Lapalux](https://soundcloud.com/lapalux)
 - [Alt J](https://soundcloud.com/alt-j)
 - [Valentin Stip](https://soundcloud.com/valentinstip)
