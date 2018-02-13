@@ -4,6 +4,7 @@ I love git and version control. And I use version control over any project I do.
 ## Links
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 - [GIT Conventions](https://medium.com/@tjholowaychuk/git-conventions-a940ee20862d)
+- [Learn Git branching](https://learngitbranching.js.org/)
 
 ## Snippets
 - [Remove dir from git](https://gist.github.com/17a9bc95ce5da0db7f85d076b45d07cd)

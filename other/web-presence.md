@@ -27,6 +27,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Soundcloud](https://soundcloud.com/nikitavoloboev) - Sharing music I like and the tunes I make.
 - [Spotify](https://open.spotify.com/user/nikitavoloboev) - Sharing music I like in form of a variety of playlists.
 - [Last.fm](https://www.last.fm/user/playfullyExist) - Tracking music I listen to on Spotify.
+- [Mixcloud](https://www.mixcloud.com/nikitavoloboev/) - Don't really use it.
 
 ## Design
 - [Dribble](https://dribbble.com/nikitavoloboev) - Sharing my design creations and design things I like.

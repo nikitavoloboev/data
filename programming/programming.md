@@ -8,3 +8,4 @@ I am not a great programmer by any means but the few programs I did write solved
 
 ## Links
 - [One Bite At A Time: Partitioning Complexity](https://www.facebook.com/notes/kent-beck/one-bite-at-a-time-partitioning-complexity/1716882961677894/)
+- [Being A Developer After 40](https://medium.freecodecamp.org/being-a-developer-after-40-3c5dd112210c)

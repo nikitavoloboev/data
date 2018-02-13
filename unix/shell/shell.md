@@ -5,6 +5,7 @@
 
 ## Notes
 - In shell everything is a string.
+- Children never touch parent enviroment. It can only if it runs as part of the current process (source, function, alias).
 
 ## Links
 - [Yoshua's notes](https://yoshuawuyts.gitbooks.io/knowledge/content/unix/shell.html)

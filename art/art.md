@@ -13,9 +13,14 @@ I share different photographs and art pieces I like on [my Instagram page](https
 - [Dániel Taylor](https://www.instagram.com/mrtaylordani/)
 - [Yanjun Cheng](https://www.artstation.com/yjc)
 - [Alena Aenami](https://www.artstation.com/aenamiart)
+- [Pawel Kuczynski](http://www.pictorem.com/profile/Pawel.Kuczynski)
 
 ## Interesting artists
 - [Anderson Debernardi](https://imgur.com/gallery/dKx5S)
 
 ## Notes
 - [Hitofude Ryuu = the art of painting a dragon with a single stroke](https://www.youtube.com/watch?v=2z8n1UiWQ6c)
+
+## Links
+- [Intricate Paper Installations By Daniele Papuli](https://www.ignant.com/2016/02/23/intricate-paper-installations-by-daniele-papuli/)
+- [Order from Chaos](https://vimeo.com/196269431)

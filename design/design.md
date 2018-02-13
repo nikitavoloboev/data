@@ -10,3 +10,4 @@ Thus I try to be conscious of how my design decisions affect what I do.
 ## Links
 - [Findguidelin](http://www.findguidelin.es/) - The fastest way to brand assets.
 - [Brand Style Guide Examples](https://saijogeorge.com/brand-style-guide-examples/)
+- [Intenion - ad by Apple](https://www.youtube.com/watch?v=LcGPI2tV2yY)

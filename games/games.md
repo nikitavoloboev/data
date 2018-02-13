@@ -8,10 +8,10 @@ I don't regret the time I spent playing these games and I have learned a lot fro
 I keep a [Trello board](https://trello.com/b/EekGabpj) of games I am playing now or want to play.
 
 ## Favourite games
-- [Dune 2000](http://www.wikiwand.com/en/Dune_2000) - Loved this gamed. Probably the first strategy game I really fell in love with.
-- [Stronghold 2001](http://www.wikiwand.com/en/Stronghold_(2001_video_game)) - The campaign was super hard and interesting. I loved building little worlds with superficial economy. Was super fun.
+- [Dune 2000](http://www.wikiwand.com/en/Dune_2000) - Loved this game. Probably the first strategy game I really fell in love with.
+- [Stronghold 2001](http://www.wikiwand.com/en/Stronghold_(2001_video_game)) - The campaign was super hard and interesting. I loved building little worlds with superficial economies. Was super fun.
 - [Diablo II](http://www.wikiwand.com/en/Diablo_II) - The first RPG I fell in love with. Many great memories from the game.
-- [Warcraft III](http://www.wikiwand.com/en/Warcraft_III:_Reign_of_Chaos) - Probably the best multiplayer game I ever played. The amount of amazing and creative modes that game out of the game's world builder is immense. DOTA came from Warcraft III initially.
+- [Warcraft III](http://www.wikiwand.com/en/Warcraft_III:_Reign_of_Chaos) - Probably the best multiplayer game I ever played. The amount of amazing and creative modes that came out of the game's world builder is immense. DOTA came from Warcraft III initially.
 - [League of Legends](http://www.wikiwand.com/en/League_of_Legends) - Speaking of DOTA, whilist I haven't played original DOTA much, I did love League. Have many fond memories of playng with my friends. Many people take the game too seriously and ruin the fun both for themselves and other people but if you play with friends and just have fun, the game is quite amazing.
 
 ## Games played

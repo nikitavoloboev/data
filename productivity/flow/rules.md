@@ -36,6 +36,7 @@ Some simple rules to follow for myself doing things.
 ## Code
 - Write code to be read by other people. Prefer to be explicit over implicit.
 - Delimit files that have spaces with `-` instead of `_`.
+- Write a small comment on top of the file to describe the purpose of the file. Where appropriate.
 
 ## Commenting
 - In comments, don't write `Will ..`. Just write what it will do. Remove unnecessary (filler) words.

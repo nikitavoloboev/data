@@ -15,8 +15,8 @@ I use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/mas
 Everything that is code is put into this folder.
 ![](https://i.imgur.com/vJnFegB.png)
 
-## ~/src/play
-I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I use km macro that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/src/play` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime.
+## ~/src/clones
+I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I use km macro that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/src/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime.
 
 I can also filter contents of the folder with [this workfow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true).
 

@@ -1,4 +1,107 @@
 # February 2018
+
+## Went through all my old FB posts and looking back
+Went through all my FB posts on my acc and transferred the links + photos to my Photos app locally. I posted a lot of songs and links there as it turns out. Was fun going through most of them but I am super happy to never ever post to FB again. Life is so much simpler without it. I have a pretty awesome mental outlook on how I want to approach using technology and tools going forward and I want to cut out anything that brings me no use to my life.
+
+One thing I did find that was actually interesting was the first post I made about the mind map I was making that back then was called `research` and you can still explore it live [here](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J#-18.1,-200.3,2). It's a *lot* smaller than what it once was. Before I started cleaning and going through it all moving all the links to another map I started to make which I named `learn anything` and you can see that map [here](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#171.5,-731.2,0). History is fun to look back on.
+
+![](https://i.imgur.com/uVXL6XO.png)
+
+I actually have a lot more things written in my private journal which I am really greatful I was doing back then. Nowadays I am more relaxed and less consistent about my journalling. Mostly because I am experimenting with having a kind of a public log/journal here. Although I still will keep my Day One journal for most everything else.
+
+One other thing I absorved is just how much the kind of links I shared changed with time. I started posting a lot more personal links with links to the mind maps + the articles I started reading on Medium. It mostly started after I publihed my [first ever article on Medium](https://medium.com/@NikitaVoloboev/just-keep-expressing-yourself-306870791ae4#.3ilcote4m) which has a rather symbolic title to it too:
+
+![](https://i.imgur.com/GMa59IK.png)
+
+Since then I genuinely try to live by that motto of trying to express myself, who I am and what I want to see or create. It's a really libeating thought and outlook on life that no matter what you do, there is no one that can judge you for being **you**. I am still trying to integrate this idea more into my life. It's crazy to think what would happen if I didn't actually sit down and write that article that day. I wouldn't have started a blog then and probably wouldn't have started it in a long time since then either. I wouldn't have created this wiki as result as it came as a somewhat of direct evolution of my blog and the things I have learned about Open Source and development. Will see how my workflow changes in time, I am curious to see what I will learn next and if I will regret having this wiki and these public journal logs. Although I doubt that.
+
+This act of transferring my posts from a closed and controlled silo that FB is opened my eyes to just how hard it is for some people to move away from FB. If you have invested quite some time in posting photographs, sharing links and sharing experiences with other people, there really is quite a lot of friction as you can't really just close down the account and leave. You have all those photos and comments and posts you made at different points in your life. And in many ways you are kind of forced to visit this horrible place where everything you do is monitored and recorded. Where every action you make is used as data to some neural network optimised for extracting as much value from every single user as possible by trying to show the most relevant ads and content that you *should* like. It's sad that people realise these things so late into using the service that they accumulated and *gave away* so much of their data and memories that it really *will take time* to move all of that away from it.
+
+In any way, no one is really forcing me to use FB yet and that feels amazing. I have learned my lesson and I am now always trying to stay in the control of the data I create. Having a private encrypted journal is really an amazing feeling, I can't thank [Day One](../../macOS/apps/day-one.md) enough for making such an awesome digital journal that I can use.
+
+Here is a little collage of my favourite posts I made on FB since my first article on `expressing myself`.
+
+![](https://i.imgur.com/rhon4mH.png)
+
+> I pm'd Day One of my second Medium article I wrote about my approach to journalling. And they kindly enough [published it](http://dayoneapp.com/2016/07/day-evaluations/) on their own blog.
+
+![](https://i.imgur.com/3oAdAMN.png)
+
+> An [article I wrote](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) about my experience of trying to become more compassionate and consious in my life. Starting with my decision of stopping eating meat. Long story short, I watched [Earthlings](https://letterboxd.com/film/earthlings/) and realised my absurd and ignorant behavouirs towards other living creatures. So I stopped supporting this horrible insdustry. I just wish more other people started to think consequences of their actions and how they affect other living beings with them.
+
+![](https://i.imgur.com/KYxcizh.png)
+
+> The [next article I wrote](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.nn8gvwavn) about my not so original idea that everything is connected in this world. Mostly it was about how I tried to embrace this fact to try and approach learning knowing in a new way. The article was also a part showcase of my growing love for mind maps.
+
+![](https://i.imgur.com/PE1UjkR.png)
+
+> Probably [my favourite article](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.udmp9eotg) I wrote on Medium. The true essence of the article is very close and dear to my heart. And the entire idea of boostrapping knowledge and sharing experiences and everything a person knows continuously with the entire world really clicked something in my brain and it made me approach and do things differently. Both with my blog, the GitHub repositories I made since then and finally this wiki itself together with Learn Anything which acts as my ultimate answer of trying to solve `boostrapping knowledge` problem as best as I can. My ultimate goal though is something akin to [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) which will let anyone query what I know about any topic. As well as of course sharing my entire workflow and ways of doing things as well as ideas and, well everything. It's pretty amazing how far you can take this idea if you really want to.
+
+
+![](https://i.imgur.com/Q4ks3EL.png)
+
+> This was an interesting post too as I for the first time shared some Imgur albums I started curating. I shared my [Art](https://imgur.com/a/3m5wf) album in that post as it was my favourite of all. And still is. It's interesting to think how everything evolves if you just start doing a thing. I have since then made an [Instagram account](https://www.instagram.com/niikivi/) where I share some of these photos. I think it would be awesome to see the collage of all the beautiful photos as one big stream in time.
+
+![](https://i.imgur.com/bmxiORp.png)
+
+> I didn't think much of the mind map back then. Aside from the fact that I really loved mind maps and I thought that making mind maps was awesome. This [learn anything](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#319.2,-697.8,0) map was born from me trying to break down the huge `research` map into smaller maps connected to each other. I also only focused on links rather than notes + links that `research` map had. I automated adding of links as well as opening any of the maps so extending it was quite easy and fun even. In many ways I became obsessed with that map as I wanted to connect every topic that you can learn about in there. It was named `learn anything` after all.
+
+![](https://i.imgur.com/wopQjne.png)
+
+> Somewhere in the middle of making the many `learn anything` maps, I got the idea of trying to make a search engine for them. Or at least a way to search for a map (topic) and open it. Currently only I could open the maps locally on my computer and no one else could. Problem was/is that I suck at code and don't know web development but I did manage to make a sketch of how this hypothetical search engine might look.
+
+![](https://i.imgur.com/6NARh9L.png)
+
+> One [Reddit post](https://www.reddit.com/r/InternetIsBeautiful/comments/6a861a/interactive_mind_map_for_learning_anything/) that literally changed my life. On a random thought, I posted the link of [the mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#319.2,-697.8,0) to [Internet is Beautiful](https://www.reddit.com/r/InternetIsBeautiful/) subreddit. I also had this profile picture on my GitHub:
+
+![](https://i.imgur.com/30l5P0d.jpg)
+
+> Which mostly certainly played into the success of that post. Most clicked without even reading the title thinking it was a post in /r/aww or something. This post reached the front page of Reddit which meant that more than 200,000 people saw the post and the mind map I made.
+
+![](https://i.imgur.com/FhPnsgw.png)
+
+> Pretty crazy for a random thought of making a post and going through with it. Lesson learned though. Share things I have made, perhaps something awesome will come out of it.
+
+![](https://i.imgur.com/bMkyxSG.png)
+
+> This post actually linked to a GIF:
+
+![](https://i.imgur.com/P45AWgA.gif)
+
+> The GIF showed the first version of what is now [learn-anything.xyz](https://learn-anything.xyz/). The website didn't even have a domain then. But most important change that happened was that [Angelo](https://github.com/nglgzz) who actually knew code and web development actually found interest in the project and [added the search bar](https://github.com/learn-anything/old/pull/11) that I only hypothosised about till now.
+
+![](https://i.imgur.com/nrQsFXA.png)
+
+> This post linked to a GIF too I can't find now. But big date there (12 May) is the date when Learn Anything was launched. We bought the domain and set it up after a bit of fighing with nginx as none of us knew it at that point.
+
+![](https://i.imgur.com/09oEzJq.png)
+
+> Things were moving really fast since then and I wrote [an article](https://medium.com/@NikitaVoloboev/an-incredible-future-9f18bb0f3a7c) on the changes that happened since that Reddit post and things I've learned on the way.
+
+![](https://i.imgur.com/HhbXezb.png)
+
+> Freecodecamp published a [blog article about us](https://medium.freecodecamp.org/an-open-source-search-engine-that-will-help-you-learn-pretty-much-anything-3c206c688457). This was absolutely huge for us due to it bringing a lot of people and thus more people were at least aware we existed. We weren't the most usable website in the world then so the retention we got from those users was horrible but seeing that number of 150+ active users on the website for the first time was incredibly motivating. We haven't met that user spike from this article in a long time since then.
+
+![](https://i.imgur.com/33uShi7.png)
+
+> Angelo came to Netherlands and we actually wrote some code for the website together. I learned what React was all about and helped add the sidebar to the website. The post above showed a preview for a white themed map that we were going to add very soon to the site.
+
+![](https://i.imgur.com/cfmSiSR.png)
+
+> This update was quite painful to make but it made the website a LOT better. Before D3.js, trying to zoom in and out as well as navigate the map was barely usable. With D3.js it was actually pleasant for the first time. Also I was adding mind maps manually at the time, so each map added was still a MindNode map that was attached to all other maps. I added ~ 400 more maps since then and stopped as we moved to the new version of the website.
+
+![](https://i.imgur.com/osHA2Pe.png)
+
+> One cool thing that old website had that current doesn't. Was that the suggestions for topics were instant. You just type things and they would show up instantly, 0 delay. This was because the entire suggestions list lived on the client. We later moved it to ElasticSearch so we can provide API for suggestions amongst other things but that did come at a cost.
+
+![](https://i.imgur.com/KLcXxo0.png)
+
+> A little prototype or rather an idea we had and wanted to add. We did add themes but didn't add `Bookmarks` and `Learned Maps` as that was quite complex to add at one time.
+
+![](https://i.imgur.com/QYKymkS.png)
+
+> The last post I'll add here. But on that day we released our first version which allowed for users to actually contribute and add resources to maps much more easily than before. We still have a long way to go and improve but I think its pretty awesome how some idea can turn into something quite cool if only you open it up and share with the world.
+
 ## Highlights
 - Completely updated my wiki and now everything is quite clean and tidy.
 - Started using [Fira Code](https://github.com/tonsky/FiraCode) font. And generally started to pay attention to fonts more. Fira Code is amazing.
@@ -16,6 +119,6 @@
 - Moved all my Go workflows to use Kingpin. Makes updating and extending workflows a lot easier which I should do in the coming time.
 - Started to use Spotify's `make song radio` of the song a lot more aggresively. My current Spotifiy workflow is pretty awesome. I find a song I like, I quickly add the song to [Likes](spotify:user:nikitavoloboev:playlist:0ERn0U4qZIKC8Dy7RrMMsn) with `m + g`. If I _really_ like the song, then I add it to my [Nirvana](spotify:user:nikitavoloboev:playlist:0epiRzQHjdJieYr0y3TdST) playlist. And then I can start a song radio of the song to see what other cool things Spotify throws my way. I should start making my own music too although my knowledge of music and music theory is 0.
 
-## Thoughts
+## Thoughtss
 - I am thinking how I can experiment with this monthly overview more. `Highlights` and `Changes` seem quite important topics I want to go over in each month. I think I want to drop down some `thoughts` I have too in some form. Just for prosterity. Plus I really do want to write more often, I think it's better to focus on that more rather than just dropping some random thoughts here.
 - In other news though, I think this month, I really am starting to realise more just how absurd my past behaviours were in regards to my life and education. I really want to make cool stuff and I deeply felt that everything around me was limiting me in some way but I should treat it differently. I should embrace everything as a learning opportunity and take the best from the cards I have been dealt just like my [lessons learned](../../life/lessons-learned.md) state. But above all I should just take small steps every day to achieve my goals and not live in some fantasy or fantasies. Just make things I want to make and see what comes out of it.
