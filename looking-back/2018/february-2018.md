@@ -106,6 +106,7 @@ Here is a little collage of my favourite posts I made on FB since my first artic
 - Started using [Fira Code](https://github.com/tonsky/FiraCode) font. And generally started to pay attention to fonts more. Fira Code is amazing.
 - Automated [dotfiles](https://github.com/nikitavoloboev/dotfiles) with [dotbot](https://github.com/anishathalye/dotbot).
 - Started discussing and working on new version of Learn Anything. Will have two modes: `Explore` and `Learn`. Made some mockup for both of the modes.
+- FB actually unblocked Learn Anything and now people can share links of the website with other people.
 
 ## Changes
 - Started using Ship app more often for GitHub issues.
