@@ -8,7 +8,7 @@ One thing I did find that was actually interesting was the first post I made abo
 
 I actually have a lot more things written in my private journal which I am really greatful I was doing back then. Nowadays I am more relaxed and less consistent about my journalling. Mostly because I am experimenting with having a kind of a public log/journal here. Although I still will keep my Day One journal for most everything else.
 
-One other thing I absorved is just how much the kind of links I shared changed with time. I started posting a lot more personal links with links to the mind maps + the articles I started reading on Medium. It mostly started after I publihed my [first ever article on Medium](https://medium.com/@NikitaVoloboev/just-keep-expressing-yourself-306870791ae4#.3ilcote4m) which has a rather symbolic title to it too:
+One other thing I absorved is just how much the kind of links I shared changed with time. I started posting a lot more personal links with links to the mind maps + the articles I started writing on Medium. It mostly started after I publihed my [first ever article on Medium](https://medium.com/@NikitaVoloboev/just-keep-expressing-yourself-306870791ae4#.3ilcote4m) which has a rather symbolic title to it too:
 
 ![](https://i.imgur.com/GMa59IK.png)
 

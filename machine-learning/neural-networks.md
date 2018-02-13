@@ -8,3 +8,4 @@
 ## Links
 - [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900)
 - [Chris Olah explains neural nets](https://www.youtube.com/watch?v=vdqu6fvjc5c)
+- [How I Shipped a Neural Network on iOS with CoreML, PyTorch, and React Native](https://attardi.org/pytorch-and-coreml) - Really detailed and awesome article.
