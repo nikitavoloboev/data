@@ -1,5 +1,4 @@
 # Summary
-- [Introduction](readme.md)
 - [Meta](meta/meta.md)
 	- [My mind](meta/my-mind.md)
 	- [Reference](meta/reference.md)
