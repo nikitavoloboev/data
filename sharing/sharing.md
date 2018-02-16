@@ -28,7 +28,7 @@ My time is limited and I can't often do everything I wish. But I have many ideas
 
 I have [many more Trello boards](my-trello.md) I use and share.
 
-## Knowledge in [this wiki](README.md)
+## Knowledge in [this wiki](https://wiki.nikitavoloboev.xyz)
 I share [everything I know](everything-I-know.md) in form of this wiki here. Can be easily queried with the search in top left corner and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
 
 ## Answering questions on [Reddit](https://www.reddit.com/user/nikivi/), [Quora](https://www.quora.com/profile/Nikita-Voloboev) and various [Stack Exchanges](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile)
