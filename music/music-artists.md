@@ -1,5 +1,5 @@
 # Music artists
-Below is a list music artists I like. I attach my favourite songs from these artists.
+Below is a list of music artists I like. I attach my favourite songs from these artists.
 
 ## Favourite artists
 - [Otto Totland](https://soundcloud.com/sonic-pieces/otto-a-totland-seveen) - [Aust](https://www.youtube.com/watch?v=TUs8BUVye9s)
