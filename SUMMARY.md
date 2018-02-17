@@ -170,6 +170,8 @@
 - [Internet of things](iot/iot.md)
 - [Health](health/health.md)
 	- [Nutrition](health/nutrition/nutrition.md)
+		- [Foods](health/nutrition/foods.md)
+		- [Supplements](health/nutrition/supplements.md)
 	- [Skin care](health/skin-care.md)
 - [Fitness](fitness/fitness.md)
 - [Medicine](medicine/medicine.md)

@@ -2,9 +2,9 @@
 Don't know much about why we dream.
 
 ## Lucid dreaming
-I do know that lucid dreaming is possible. That is you can be somewhat *aware* that you are in a dream. You can even control the dream by manifesting objects you want to see or even flying.
+I do know that lucid dreaming is possible. That is you can be somewhat *aware* that you are in a dream. You can even control the dream by manifesting objects you want to see or you can even fly.
 
-In order to have lucid dreams you need two do two things consistently:
+In order to have lucid dreams you need two do three things consistently:
 
 1. Have a dream journal.
 	- Where you write down everything that you can recall from the last dream you had.

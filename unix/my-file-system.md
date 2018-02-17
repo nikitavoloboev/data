@@ -13,7 +13,13 @@ I use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/mas
 
 ## ~/dev
 Everything that is code is put into this folder.
-![](https://i.imgur.com/ezM5esL.png)
+
+```Bash
+~/dev
+❯ exa
+alfred  clones  curated  forks  github  ideas  learning  ml  personal  practice  safari  scripts  testing  uni  web  Xcode
+
+```
 
 ## ~/dev/clones
 I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I use km macro that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/dev/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime.
@@ -21,18 +27,25 @@ I often love checking out various GitHub repos. Everything that I clone, I clone
 I can also filter contents of the folder with [this workfow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true).
 
 ## ~/dev/github
-Inside this folder I keep all the things that are open source on GitHub sorted by organisation. In my case it just contains two folders:
-![](https://i.imgur.com/QRqdrl7.png)
+Inside this folder I keep all the things that are open source on GitHub sorted by organisation. In my case it's only [learn-anything](https://github.com/learn-anything/):
 
-And inside I sort the projects according to their purpose too:
-![](https://i.imgur.com/seM6wJQ.png)
+```Bash
+~/dev/github
+❯ exa
+learn-anything
+```
 
 ## ~/go/src/github.com/nikitavoloboev
 I keep all my Go projects inside my GOPATH.
 
 ## ~/dev/testing
 Inside this folder I have a bunch of language specific folders that usually just have one file inside them with the extension of that language. Here is how that folder looks for me:
-![](https://i.imgur.com/0hmPty7.png)
+
+```Bash
+~/dev/testing
+❯ exa
+bash-test  haskell-test  js-test  lisp-test  py-test
+```
 
 Only `go-test` is put inside my GOPATH. I then have km macros that open these files so I can quickly prototype or test out some code quickly. Here is how such macro looks:
 ![](https://i.imgur.com/ZNL31og.png)
@@ -51,11 +64,21 @@ I use the folder to learn new technologies, languages and things. Perhaps I am c
 
 ## ~/app
 I put various app configuration and app specific files in there. For example my `Alfred preferences` is synced to `~/app/alfred/Alfred.alfredpreferences`. Here is how the folder looks for me:
-![](https://i.imgur.com/E27yBe5.png)
+
+```Bash
+~/app
+❯ exa
+alfred  dash  focus  hammerspoon  iterm  km  paw  safari
+```
 
 ## ~/Documents
 I use Documents to store things like books, research papers, uni work, various app related things and files, audio books and more. Here is how my Documents folder looks like:
-![](https://i.imgur.com/sMPGInd.png)
+
+```Bash
+~/Documents
+❯ exa
+audio-books  backup  books  design  latex  papers  pdfs  personal  pixave  uni  voice memos  watch
+```
 
 I use a custom icon for Documents folder just so it's easy to distinguish them from the rest using my [folder search workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/folder-search).
 

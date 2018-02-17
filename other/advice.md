@@ -12,3 +12,6 @@ Some advice I received and liked or read in some place.
 	2. How?
 	3. What?
 - It is sometimes more powerful than the other way around.
+
+## Links
+- [Naval Ravikant's Second Periscope (2018)](https://www.youtube.com/watch?v=PEGTfXngUWg&feature=youtu.be)
