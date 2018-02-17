@@ -21,7 +21,7 @@ The number between brackets shows the year I created the repo in. Repos with a �
 - [My Mind (2017) 🌟](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my notes and bookmarks on the web.
 - [Birthday (2017)](https://github.com/nikitavoloboev/alfred-birthday) - Showcase how much time passed since your birthday.
 - [Small Workflows (2017) 🌟](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
-- [Awesome Lists (2017) 🌟](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds inside Alfred.
+- [Awesome Lists (2017) 🌟](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds.
 - [GitHub users (2018) 💡](https://github.com/nikitavoloboev/alfred-github-users) - Search people you follow on GitHub.
 - [last.fm (2018) 💡](https://github.com/nikitavoloboev/alfred-lastfm) - Communicate with [last.fm](https://www.last.fm/home) website.
 - [Trello (2018) 💡](https://github.com/nikitavoloboev/alfred-trello) - Communicate with Trello.

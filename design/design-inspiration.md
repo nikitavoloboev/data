@@ -1,6 +1,18 @@
 # Design inspiration
 Here are few things I liked, design wise.
 
+## Websites
+- [Draftsend](https://draftsend.com/)
+- [taotajima ](http://taotajima.jp/works/waxing-moon/) - Amazing transitions.
+- [TANMU LABS](https://tanmulabs.com/) - Pretty awesome colour palette.
+
+## Design
+- [Marc Edwards](https://dribbble.com/bjango) - Developer of iStats Menu for mac.
+- [Malik Thomas](http://malikthomas.co.uk/)
+
+## Blogs
+- [Actual budget](https://dev.actualbudget.com/) - The deisgn is so clean.
+
 ## Personal pages
 - [Tyler Gaw](https://tylergaw.com/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
@@ -14,14 +26,3 @@ Here are few things I liked, design wise.
 - [Justin Windle](https://soulwire.co.uk/)
 - [Yoshua Wuyts](https://www.yoshuawuyts.com/) - Really clean dark design.
 - [Kenneth Reitz](https://www.kennethreitz.org/)
-
-## Websites
-- [Draftsend](https://draftsend.com/)
-- [taotajima ](http://taotajima.jp/works/waxing-moon/) - Amazing transitions.
-- [TANMU LABS](https://tanmulabs.com/) - Pretty awesome colour palette.
-
-## Design
-- [Marc Edwards](https://dribbble.com/bjango) - Developer of iStats Menu for mac.
-
-## Blogs
-- [Actual budget](https://dev.actualbudget.com/) - The deisgn is so clean.

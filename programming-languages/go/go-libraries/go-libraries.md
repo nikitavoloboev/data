@@ -10,8 +10,9 @@ Some interesting Go libraries I found.
 ## Web
  - [Buffalo](https://gobuffalo.io/docs/overview)
 
-## Interesting
+## Other
 - [Argum](https://github.com/sg3des/argum) - Parse incoming arguments in to structure.
 - [Go prompt](https://github.com/c-bata/go-prompt)
 - [The Joy compiler](https://mat.tm/joy/#faq)
 - [Graphql](https://github.com/machinebox/graphql)
+- [ws](https://github.com/gobwas/ws) - Websocker lib.

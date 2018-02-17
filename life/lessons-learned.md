@@ -87,7 +87,7 @@
 	- Without sharing the things you have made, there's a very slim chance someone will ever see them.
 - Don't overthink things to the point of not doing anything. If you can't find a reason why not to do something, it's often much better to just do the thing and see where it takes you.
 - Take it easy.
-	- Don't stress myself too much about not achieving things I want to achieve. What's important is that I try and ideally love what I am doing. Everything else is not worth to worry about.
+	- Don't stress myself too much about not achieving things I want to achieve. What's important is that I try and ideally love what I am doing. Everything else is not worth worrying about.
 
 ## Relationships
 - Treat people as if they are in a sensitive and malleable emotional state all the time.
