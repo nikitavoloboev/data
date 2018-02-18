@@ -1,4 +1,6 @@
 # Supplements
-Currenlty only take Vitamin D.
+## Taking daily
+- Vitamin D 1000ug
+- Fish Oil
 
-I also drink quite a lot of Green tea for it's l-theanine and taste.
+I also drink quite a lot of Green tea for its taste and l-theanine.
