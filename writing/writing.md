@@ -21,10 +21,10 @@ Read other people's work. Read books. Both fiction and non fiction, and get a ta
 Specifically these words:
 - really
 
-Always be consious when I am writing something and try not to focus on the message and remove as much fluff as possible.
+Always be consious when I am writing something and try to focus on the message and remove as much fluff as possible.
 
 ## Be aware of pacing
-Be aware of pacing between words and sentences. The sententes ideally should flow into one another. Breaks in form of commas and full steps are important too. As they allow for the reader to take a break and absorb the point that you tried to deliver.
+Be aware of pacing between words and sentences. The sententes ideally should flow into one another. Breaks in form of commas and full steps are important. As they allow for the reader to take a break and absorb the point that you tried to deliver.
 
 ## Knowing what to write next
 I keep a private Trello board where I drop ideas I have of what I want to write next. Then I set due dates for articles I want to write and start working on them. Most often it is the simple act of starting to write something that makes something I can actually publish that I like. Here is how my Trello board looks:
