@@ -24,7 +24,7 @@ The books with links attached will lead to notes I have made when reading the bo
 - [Surely, you're joking Mr Feynman](surely-you-are-joking-mr-feynman.md) ❌ - Will finish it soon.
 
 ### 2016
-- [Mind for Numbers](mind-for-numbers.md) 📕 - Really loved the book and it introduced me to ideas on how efficieny in learning actually matters and techniques I can use. Specifically chuncking information and utilising spaced repetition learning.
+- [Mind for Numbers](mind-for-numbers.md) 📕 - Loved the book. It introduced me to ideas on how efficieny in learning actually matters and techniques I can use. Specifically chuncking information and utilising spaced repetition learning.
 - [Mindstorms](mindstorms.md) ❌
 - [Rich dad poor dad](rich-dad-poor-dad.md) ❌
 - [Elements of programming interviews](elements-of-programming-interviews.md) ❌
@@ -50,4 +50,4 @@ The books with links attached will lead to notes I have made when reading the bo
 - The Master and Margarita 📕🌟 - [Review](https://www.goodreads.com/review/show/583056473)
 
 ### 2012
-- The Picture of Dorian Gray 📕🌟 - Really loved the book. Specifically the beautiful writing of it by Oscar Wilde.
+- The Picture of Dorian Gray 📕🌟 - Loved the book. Specifically the beautiful writing of it by Oscar Wilde.

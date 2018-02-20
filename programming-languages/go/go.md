@@ -26,6 +26,7 @@ Go promotes composition over inheritance.
 - `go get` = download the source code to your PC.
 - `go install` = download, build, and put it in the path so you can use it.
 - I don't need to comment all functions as some are self describing. I do need to comment exported functions however.
+- I [can put my Go projects not in my GOPATH if I am not planning to release them publically as library or cli tool](https://golang.org/doc/code.html#GOPATH). i.e. My Alfred workflows live in `~/dev/alfred` and not in my GOPATH and are still writen in Go.
 
 ## Links
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)

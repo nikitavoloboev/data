@@ -47,7 +47,7 @@ Inside this folder I have a bunch of language specific folders that usually just
 bash-test  haskell-test  js-test  lisp-test  py-test
 ```
 
-Only `go-test` is put inside my GOPATH. I then have km macros that open these files so I can quickly prototype or test out some code quickly. Here is how such macro looks:
+I then have KM macros to quickly open these files:
 ![](https://i.imgur.com/ZNL31og.png)
 
 ## ~/dev/ideas
