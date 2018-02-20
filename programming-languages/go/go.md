@@ -13,6 +13,9 @@ Go promotes composition over inheritance.
 - You can `log.Fatal(err)` when playing with code.
 	- In actual applications you need to decide what you need to do with each error response - bail immediately, pass it to the caller, show it to the user, log it and continue, etc ...
 
+## Vendoring
+[vg](https://github.com/getstream/vg) and [dep](https://github.com/golang/dep) are pretty good.
+
 ## Notes
 - I can call functions from anywhere if they are in the same package.
 - The package “main” tells the Go compiler that the package should compile as an executable program instead of a shared library.

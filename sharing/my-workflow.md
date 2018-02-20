@@ -21,7 +21,7 @@ My workflow is always changing but currently it consists of the following.
 - [SnippetsLab](../macOS/apps/snippetslab.md) - Snippets of code and knowledge (facts/reference).
 
 ## Bookmarks
-- [LA curated lists](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) - I open any of the lists readmes in seconds and any edit I make is automatically commited with Hazel. The lists are open to contribution too this way they get better and scale with time.
+- [LA curated lists](https://github.com/learn-anything/curated-lists#curated-lists) - I open any of the lists readmes in seconds and any edit I make is automatically commited with Hazel. The lists are open to contribution too this way they get better and scale with time.
 - [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) -  All my public facing bookmarks. Searching this wiki here. Searching my articles, my GitHub repos and more.
 - [Safari](../web/browsers/safari.md) and [Chrome](../web/browsers/google-chrome.md) bookmarks - Only contain personal bookmarks. The rest is publically available and queriable by anyone.
 

@@ -24,12 +24,12 @@ Google, DuckDuckGo and other search engines are phenomenal in how they solve thi
 
 Together with [Learn Anything](https://learn-anything.xyz/), you really do have all the superpowers of this world to create anything and everything. Things that didn't exist before. Ideas and thoughts that weren't thought of before.
 
-In addition to Learn Anything, I also help curate [many curated lists of resources and links](https://github.com/learn-anything/curated-lists#curated-lists-). I then parse these lists and access them from [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) worlflow. These lists include:
-- [Books](https://github.com/learn-anything/books) - Both free and paid.
-- [Courses](https://github.com/learn-anything/courses)
-- [Blogs](https://github.com/learn-anything/blogs)
-- [Research papers](https://github.com/learn-anything/research-papers)
-- And [lots more](https://github.com/learn-anything/curated-lists#curated-lists-).
+In addition to Learn Anything, I also help curate [many curated lists of resources and links](https://github.com/learn-anything/curated-lists#curated-lists). I then parse these lists and access them from [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) worlflow. These lists include:
+- [Books](https://github.com/learn-anything/books#interesting-books-) - Both free and paid.
+- [Courses](https://github.com/learn-anything/courses#interesting-courses-)
+- [Blogs](https://github.com/learn-anything/blogs#interesting-blogs-)
+- [Research papers](https://github.com/learn-anything/research-papers#interesting-research-papers-)
+- And [lots more](https://github.com/learn-anything/curated-lists#curated-lists).
 
 ## Links
 - [Research debt](https://distill.pub/2017/research-debt/)

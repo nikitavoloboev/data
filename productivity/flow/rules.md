@@ -26,7 +26,7 @@ Some simple rules to follow for myself doing things.
 ## Git
 - Always initialise new projects with Git.
 - Do atomic commits and write [proper appropriate commit messages](https://chris.beams.io/posts/git-commit/).
-- Start commits uppercased and prefix them with an action (Add/Remove/Fix/Update). Use imperative tense.
+- Start commits uppercased and prefix them with an action (Add/Remove/Fix/Update). Use [imperative tense](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg).
 	- On larger projects, prefix commits by scope for easier search and index.
 - Don't use emojis in commit messages.
 - Commit changes and push before making a release. This way the commits come bundled together with release as change log.
@@ -77,6 +77,7 @@ Some simple rules to follow for myself doing things.
 - In screenshots of Alfred prompts and other prompts, show the cursor.
 - Add `Related` section to most repos linking to similar projects either of my own or of other. Not all projects need this.
 - Don't add Thank You clause in `idea` stage projects.
+- Don't add `Say Thanks` badge on curated lists.
 
 ## Alfred
 - Keyword triggers should be one string (no spaces). Try to make keyword be semantically appropriate to workflow and easy to memorise and type.

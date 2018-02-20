@@ -119,3 +119,4 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Bill Laurance](http://www.billlaurance.com/#/music) - [Swift (Live at Union Chapel)](https://www.youtube.com/watch?v=-KTggEz0Bkw)
 - [LUCKY TAPES](https://soundcloud.com/lucky-tapes) - [レイディ・ブルース](https://www.youtube.com/watch?v=BiBTpQPCMtg)
 - [Subaqueous](https://soundcloud.com/subaqueousmusic)
+- [Travelling Day](https://soundcloud.com/travellingday) - [Japan Food](https://www.youtube.com/watch?v=p7QfGEQ7qIs)
