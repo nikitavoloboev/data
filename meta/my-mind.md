@@ -1,16 +1,16 @@
 # [My mind](https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5)
 ![](https://i.imgur.com/rfh1MzA.png)
 
-Aside from this wiki. I also heavily use and update my interactive mind maps.
+Aside from this wiki. I also use and many interactive mind maps.
 
 You can see all these mind maps I have made [here](https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5).
 
 ## Why I made them
-I use these mind maps for many things. Since these maps are interactive and allow you to neatly link information together, they are much better suited for some formats. Like visualising my enormous [Karabiner](../macOS/karabiner/karabiner.md) configuration I made:
+I use these mind maps for many things. Since these maps are interactive and allow you to neatly link information together, they are much better suited for some formats. Like visualising different topics and their relations:
 
-![](https://i.imgur.com/d8hCSbQ.png)
+![](https://i.imgur.com/xubfa1T.png)
 
-Which you can see [live](https://my.mindnode.com/mR7ds52Ls21umnbD27SfCD4SmwwrvxxGwvSyy7yW#603.1,-2191.4,3) and I explain it in more detail [here](../macOS/apps/karabiner/karabiner.md).
+Which you can see and explore [here](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J#1506.8,-1099.0,2).
 
 I can then also instantly access any of these mind maps or any entry in this wiki from [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow:
 ![](https://i.imgur.com/wdPE5dK.png)

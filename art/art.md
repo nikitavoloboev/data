@@ -7,6 +7,7 @@ I share different photographs and art pieces I like on [my Instagram page](https
 
 ## Favourite artists
 - [Leland K Foster](http://www.lelandkfoster.com/)
+- [Android Jones](https://imgur.com/a/Xdeye)
 - [Ilya Kuvshinov](https://www.artstation.com/kuvshinov_ilya)
 - [Miles Johnston](https://www.instagram.com/miles_art/) - His [top art](https://www.reddit.com/user/Miles___?sort=top).
 - [James Jean](https://www.instagram.com/jamesjeanart/?hl=en)

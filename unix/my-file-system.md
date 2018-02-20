@@ -18,7 +18,6 @@ Everything that is code is put into this folder.
 ~/dev
 ❯ exa
 alfred  clones  curated  forks  github  ideas  learning  ml  personal  practice  safari  scripts  testing  uni  web  Xcode
-
 ```
 
 ## ~/dev/clones
@@ -44,11 +43,11 @@ Inside this folder I have a bunch of language specific folders that usually just
 ```Bash
 ~/dev/testing
 ❯ exa
-bash-test  haskell-test  js-test  lisp-test  py-test
+bash-test  haskell-test  js-test  lisp-test  py-test go-test
 ```
 
 I then have KM macros to quickly open these files:
-![](https://i.imgur.com/ZNL31og.png)
+![](https://i.imgur.com/Ygqwukd.png)
 
 ## ~/dev/ideas
 Most of my projects I start, start out in this folder. If something works out and I like the idea and want to develop it further, I move the project away from `ideas`.
@@ -61,6 +60,17 @@ Contains all my Swift iOS and macOS projects. It is further divided into macOS, 
 
 ## ~/dev/learning
 I use the folder to learn new technologies, languages and things. Perhaps I am completing some course or going through some book that has exercises. I usually put them there.
+
+## ~/dev/alfred
+All my Alfred workflows are placed there. And each one is symlinked either with [worklow install](https://gist.github.com/deanishe/35faae3e7f89f629a94e) or [alfred CLI tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred) for Go workflows.
+
+```Bash
+~/dev/alfred
+❯ exa
+alfred-ask-create-share  alfred-birthday      alfred-inline-searches  alfred-my-mind  alfred-twitter
+alfred-awesome-lists     alfred-breathe       alfred-lastfm           alfred-pixave   alfred-web-searches
+alfred-awgo-practice     alfred-github-users  alfred-learn-anything   alfred-trello   small-workflows
+```
 
 ## ~/app
 I put various app configuration and app specific files in there. For example my `Alfred preferences` is synced to `~/app/alfred/Alfred.alfredpreferences`. Here is how the folder looks for me:
@@ -77,7 +87,7 @@ I use Documents to store things like books, research papers, uni work, various a
 ```Bash
 ~/Documents
 ❯ exa
-audio-books  backup  books  design  latex  papers  pdfs  personal  pixave  uni  voice memos  watch
+audio-books  backup  books  design  latex  papers  pdfs  personal  pixave  uni  voice-memos  watch
 ```
 
 I use a custom icon for Documents folder just so it's easy to distinguish them from the rest using my [folder search workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/folder-search).

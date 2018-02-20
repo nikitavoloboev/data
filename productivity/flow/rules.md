@@ -228,6 +228,9 @@ Some simple rules to follow for myself doing things.
 - Track every purchase made with YNAB. Putting it in its respective category.
 - Adhere to my budget that I have set for each of the categories. If there is no budget left for eating out. Don't eat out.
 
+## Videos
+- Watch talks and tutorials at 1.25+ speed. Unless it hurts coprehension than watch it at slower speeds.
+
 ## Information
 - Don't save unnecessary information. This mostly concerns tracking data and the like. More data is not always better. Quality and purposeful data is.
 - Make the data actionable in some way. Either as a way that you can query it later and read or look back upon in the future (as is case with Day One) or as a way you can immediately take action on in form of analysis of it.
