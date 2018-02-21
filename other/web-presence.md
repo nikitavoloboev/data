@@ -74,9 +74,8 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Other
 - [Keybase](https://keybase.io/nikitavoloboev) - Holds my public PGP key. I also prove my identity on various websites there.
-- [CV](https://stackoverflow.com/cv/nikitavoloboev) - My official and up-to-date digital CV on Stack Overflow.
 - [Etsy](https://www.etsy.com/people/nikitavoloboev) - If I ever make something with my hands, I will probably share it there.
-- [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - Don't really use it. I prefer [Stack Overflow CV](https://stackoverflow.com/cv/nikitavoloboev) as it looks much cleaner and I have more control over it.
+- [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - My online CV.
 - [Angel.co](https://angel.co/nikitavoloboev) - Sometimes use it to find interesting startups to apply to.
 - [Home](https://nikitavoloboev.xyz) - My personal home page on the internet.
 - [Vimeo](https://vimeo.com/user18010447) - Don't really use it but it has many creative videos.
@@ -84,5 +83,6 @@ These are my personal profiles on various websites sorted by categories.
 - [DevianArt](https://nikivi.deviantart.com/) - Don't really use it.
 - [Eventbrite](https://www.eventbrite.com/u/146147331884/#) - Various events I have attended or planning to attend.
 - [My Mind](https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5) - My personal interactive mind maps.
+- [Stack Overflow CV](https://stackoverflow.com/cv/nikitavoloboev) - Not updating it. Prefer Linkedin.
 - [Gfycat](https://gfycat.com/@nikivi) - Sharing Gifs.
 - [AMA](https://github.com/nikitavoloboev/ama) - Ask Me Anything.

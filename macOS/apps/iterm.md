@@ -5,8 +5,8 @@ I always have 5 tabs (sessions) open in iTerm. I open other tabs as the need ari
 
 My always open tabs are:
 1. `::` - This tab never has a program open inside. It is my `runner` terminal. I have it assigned to open with `f + j` and I use it to run commands that are not project related. It's my `general` kind of session.
-2. `now` - This tab is where the majority of my work is done. If I am working on any kind of project, I usually work in to through this tab. Open it with `f+.`.
-3. `play` - Is used to run various projects I have saved in [~/src/play](../../unix/my-file-system.md).
+2. `now` - This tab is where the majority of my work is done. If I am working on any kind of project, I usually work on it through this tab.
+3. `clones` - Is used to run various projects I have saved in [~/dev/clones](../../unix/my-file-system.md).
 4. `test` - Is used to quickly test out things in varius languages.
 5. `kar` - Contains my [Karabiner configuration file](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/private.xml) is always open. I have assigned `v + :` to always switch to this tab from no matter what app I am on my system.
 6. `vim` - Contains my [vim config file](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim).
