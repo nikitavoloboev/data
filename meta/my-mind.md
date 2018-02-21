@@ -1,7 +1,7 @@
 # [My mind](https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5)
 ![](https://i.imgur.com/rfh1MzA.png)
 
-Aside from this wiki. I also use and many interactive mind maps.
+Aside from this wiki. I also use many interactive mind maps.
 
 You can see all these mind maps I have made [here](https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5).
 
