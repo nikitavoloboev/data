@@ -1,5 +1,5 @@
 # January 2018
-## Overview
+## Summary
 Wouldn't call this month the best start to the year. LA was blocked by FB and all of FB products. This although quite bad, how a company can block an educational website, opened me up to the horrible prospects that the future will bring if we allow these centralised companies to get control over our daily lives. I will be exploring alternatives to centralised solutions that bring power to the users and the people instead of the few handful of individuals and shareholders who get to decide what to do with all the user's data they collect.
 
 On the other brighter side, I found a certain sense of peace with where I am in my life. Yes, I never had a job and no one wants to hire me to write code for them. There are upsides to it in that I can just focus and do my own things. Build the projects I want to build and not build someone else's dream and ideas. In this day and age, you can really do anything.
@@ -12,7 +12,17 @@ I still don't know what I want to do in life. And I think I read too much about 
 
 I will try practicing meditation and mindfulness a lot more in the coming months. And will focus on building things that matter to me. I am really happy in how computers and software can solve so many of my problems and do it so beautifully. I still have some frustrations and problems I feel and I want to solve them too in the coming time. I also want to be a lot more brutally honest with myself. I think trying to hide or ignore things away from myself is literally the worst thing I can do.
 
-## FB blocked Learn Anything
+## Changes
+- Started using Trello a lot more.
+- Moved to using Sublime Text more for editing wiki. And generally optimised a lot of my wiki editing so I can edit any wiki entry in seconds.
+	- This wiki as it stands now is only the beginning. I think I laid a good foundation for it going forward. I do need to write full articles more often too though.
+- Learn Anything was nomitated for [2017 Golden Kitty Awards](https://www.producthunt.com/golden-kitty-awards-2017).
+	- We [didn't win](https://blog.producthunt.com/golden-kitty-awards-winners-7c2628e5f429) in the end but it was an amazing feeling to actually be selected to participate in the event.
+- Added all the [Keyboard Maestro macros I use and love](https://github.com/nikitavoloboev/my-mac-os/tree/master/km) to my macOS repo.
+- Started working through [Leetcode](https://github.com/nikitavoloboev/leetcode) problems and preparing for interviews.
+- Stopped using FB. Deleted the account.
+
+### FB blocked Learn Anything
 Learn Anything was banned from both Facebook and Instagram platforms.
 
 No one can share or send messages of the website to anyone. Facebook won't allow it.
@@ -28,18 +38,6 @@ My last post on FB. Have no idea why I didn't delete my account already given th
 ![](https://i.imgur.com/k8HFr0e.png)
 
 Will be exploring [Scuttlebutt](https://www.scuttlebutt.nz) and other decentralised solutions for sharing news and communicating. It makes no sense to live in a world where a company can choose what its users should see, do or talk about.
-
-## Highlights
-- Learn Anything was nomitated for [2017 Golden Kitty Awards](https://www.producthunt.com/golden-kitty-awards-2017).
-	- We [didn't win](https://blog.producthunt.com/golden-kitty-awards-winners-7c2628e5f429) in the end but it was an amazing feeling to actually be selected to participate in the event.
-- Added all the [Keyboard Maestro macros I use and love](https://github.com/nikitavoloboev/my-mac-os/tree/master/km) to my macOS repo.
-- Started working through [Leetcode](https://github.com/nikitavoloboev/leetcode) problems and preparing for interviews.
-- Stopped using FB. Deleted the account.
-
-## Changes
-- Started using Trello a lot more.
-- Moved to using Sublime Text more for editing wiki. And generally optimised a lot of my wiki editing so I can edit any wiki entry in seconds.
-	- This wiki as it stands now is only the beginning. I think I laid a good foundation for it going forward. I do need to write full articles more often too though.
 
 ## Timing
 ![](https://i.imgur.com/esZ8xq0.png)

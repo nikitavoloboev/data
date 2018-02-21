@@ -1,5 +1,25 @@
 # February 2018
-## Going through all my old FB posts
+## Changes
+- Completely updated my wiki and now everything is quite clean and tidy.
+- Started using [Fira Code](https://github.com/tonsky/FiraCode) font. And generally started to pay attention to fonts more. Fira Code is amazing.
+- Automated [dotfiles](https://github.com/nikitavoloboev/dotfiles) with [dotbot](https://github.com/anishathalye/dotbot).
+- Started discussing and working on new version of Learn Anything. Will have two modes: `Explore` and `Learn`. Made some mockup for both of the modes.
+- FB actually unblocked Learn Anything and now people can share links of the website with other people.
+- Started using Ship app more often for GitHub issues.
+	- Will try to triage as many open issues I have across all my repos.
+	- Have a pretty sweet setup going with 2Do, Trello, Fantastical and Ship.
+- Will try not use mind map for documenting my Karabiner config but try a method of self documenting.
+- Will try to be a lot more active on Twitter. It's a pretty amazing platform.
+- Taking Git and Git workflow a lot more seriously. Atomic commits. And coding. Lots more coding. Also started to use Tower app for for my Git workflow. It's working pretty great so far.
+	- I also automated quite a lot of my Git activity. Specifically I learned that most commits if not all start with an _action_ so I automated inserting `Update ` words in Tower as well as many more things. Plus I automated a lot of same `Update` commits that I do for my [knowledge](https://github.com/nikitavoloboev/knowledge) repo. It genuinely saves a ton of time.
+- Moved all my Go workflows to use Kingpin. Makes updating and extending workflows a lot easier which I should do in the coming time.
+- Started to use Spotify's `make song radio` of the song a lot more aggresively. My current Spotifiy workflow is pretty awesome. I find a song I like, I quickly add the song to [Likes](spotify:user:nikitavoloboev:playlist:0ERn0U4qZIKC8Dy7RrMMsn) with `m + g`. If I _really_ like the song, then I add it to my [Nirvana](spotify:user:nikitavoloboev:playlist:0epiRzQHjdJieYr0y3TdST) playlist. And then I can start a song radio of the song to see what other cool things Spotify throws my way. I should start making my own music too although my knowledge of music and music theory is 0.
+- (21 Feb) Going to use my diary a bit more often. I realised just how valuable it is to express my thoughts and feelings either on paper or through music. Ideally through music but I really need to learn how I can do that.
+- (21 Feb) Writing in this diary feels like sipping by a fire place sipping warm tea. It feels nice to let my thoughts and my frustrations be expressed on paper. Knowing well that what I write is not going to be read by anyone but me.
+- (21 Feb) Will try to write more in my digital private journal. I wrote a small letter to myself in there. To remind myself of what it is that I want to do and what I want to **stop doing**. I am not following [my own rules](../../productivity/flow/rules.md)!
+- (21 Feb) Removed my Karabiner mind map as I it is stupid to keep it in track with my actual config. It's better to optimise searching and self documenting the config itself in the code with comments.
+
+### (Feb 13) Went through all my old FB posts
 Went through all my FB posts on my account and transferred the links + photos to my Photos app locally. I posted a lot of songs and links there as it turns out. Was fun going through most of them but I am super happy to never ever post to FB again. Life is so much simpler without it. I have a pretty awesome mental outlook on how I want to approach using technology and tools going forward and I want to cut out anything that brings me no use to my life.
 
 One thing I did find that was actually interesting was the first post I made about the mind map I was making that back then was called `research` and you can still explore it live [here](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J#-18.1,-200.3,2). It's a *lot* smaller than what it once was. Before I started cleaning and going through it all moving all the links to another map I started to make which I named `learn anything` and you can see that map [here](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#171.5,-731.2,0). History is fun to look back on.
@@ -100,26 +120,6 @@ Here is a little collage of my favourite posts I made on FB since my first artic
 ![](https://i.imgur.com/QYKymkS.png)
 
 > The last post I'll add here. But on that day we released our first version which allowed for users to actually contribute and add resources to maps much more easily than before. We still have a long way to go and improve but I think its pretty awesome how some idea can turn into something quite cool if only you open it up and share with the world.
-
-## Changes
-- Completely updated my wiki and now everything is quite clean and tidy.
-- Started using [Fira Code](https://github.com/tonsky/FiraCode) font. And generally started to pay attention to fonts more. Fira Code is amazing.
-- Automated [dotfiles](https://github.com/nikitavoloboev/dotfiles) with [dotbot](https://github.com/anishathalye/dotbot).
-- Started discussing and working on new version of Learn Anything. Will have two modes: `Explore` and `Learn`. Made some mockup for both of the modes.
-- FB actually unblocked Learn Anything and now people can share links of the website with other people.
-- Started using Ship app more often for GitHub issues.
-	- Will try to triage as many open issues I have across all my repos.
-	- Have a pretty sweet setup going with 2Do, Trello, Fantastical and Ship.
-- Will try not use mind map for documenting my Karabiner config but try a method of self documenting.
-- Will try to be a lot more active on Twitter. It's a pretty amazing platform.
-- Taking Git and Git workflow a lot more seriously. Atomic commits. And coding. Lots more coding. Also started to use Tower app for for my Git workflow. It's working pretty great so far.
-	- I also automated quite a lot of my Git activity. Specifically I learned that most commits if not all start with an _action_ so I automated inserting `Update ` words in Tower as well as many more things. Plus I automated a lot of same `Update` commits that I do for my [knowledge](https://github.com/nikitavoloboev/knowledge) repo. It genuinely saves a ton of time.
-- Moved all my Go workflows to use Kingpin. Makes updating and extending workflows a lot easier which I should do in the coming time.
-- Started to use Spotify's `make song radio` of the song a lot more aggresively. My current Spotifiy workflow is pretty awesome. I find a song I like, I quickly add the song to [Likes](spotify:user:nikitavoloboev:playlist:0ERn0U4qZIKC8Dy7RrMMsn) with `m + g`. If I _really_ like the song, then I add it to my [Nirvana](spotify:user:nikitavoloboev:playlist:0epiRzQHjdJieYr0y3TdST) playlist. And then I can start a song radio of the song to see what other cool things Spotify throws my way. I should start making my own music too although my knowledge of music and music theory is 0.
-- (21 Feb) Going to use my diary a bit more often. I realised just how valuable it is to express my thoughts and feelings either on paper or through music. Ideally through music but I really need to learn how I can do that.
-- (21 Feb) Writing in this diary feels like sipping by a fire place sipping warm tea. It feels nice to let my thoughts and my frustrations be expressed on paper. Knowing well that what I write is not going to be read by anyone but me.
-- (21 Feb) Will try to write more in my digital private journal. I wrote a small letter to myself in there. To remind myself of what it is that I want to do and what I want to **stop doing**. I am not following [my own rules](../../productivity/flow/rules.md)!
-- (21 Feb) Removed my Karabiner mind map as I it is stupid to keep it in track with my actual config. It's better to optimise searching and self documenting the config itself in the code with comments.
 
 ## Thoughts
 - I am thinking how I can experiment with this monthly overview more. Aside from `Changes` and the `Overview` paragarph at the end of each month, I want to drop down some `thoughts` I have too in some form. Just for prosterity. Plus I really do want to write more often, I think it's better to focus on that more rather than just dropping some random thoughts here.
