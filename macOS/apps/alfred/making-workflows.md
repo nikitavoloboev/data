@@ -43,9 +43,9 @@ I then use [Workflow Directory](https://github.com/nikitavoloboev/small-workflow
 
 I then use modified by me wonderful [Repos](https://github.com/deanishe/alfred-repos) workflow which searches Git projects in directories I specify to open a __new release__ page in my browser on a modifier keypress. You can grab my hacked version of Repos workflow [here](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Git%20Repos.alfredworkflow?raw=true).
 
-Using the workflow I search the `alfred-..` workflow I want to release and update for and with a modifier press quickly open the __new release__ page. I then add the version number I have copied in my clipboard and add the name to the release and I attach the workflow sitting in my `~/Desktop` to the release.
+Using the workflow I search the `alfred-..` workflow I want to release an update for and with a modifier press quickly open the __new release__ page. I then add the version number I have copied in my clipboard and add the name to the release and I attach the workflow sitting in my `~/Desktop` to the release.
 
 ### Small workflows (Alfred builtin objects + some code)
-I use [Workflow Directory](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Workflow%20directory.alfredworkflow?raw=true) workflow to search the workflow I want to export and with a modifier press, export that workflow to `~/Desktop`. This action also copies the version number of the workflow.
+I use [Workflow Directory](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Workflow%20directory.alfredworkflow?raw=true) workflow to search the workflow I want to export and with a modifier press, export that workflow to `~/Desktop`.
 
 I delete the original workflow sitting in the directory of the workflow and then with Alfred's `Move to..` transfer the workflow to the directory of the workflow. Commit and push.

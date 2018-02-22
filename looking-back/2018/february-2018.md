@@ -19,6 +19,7 @@
 - (21) Will try to write more in my digital private journal. I wrote a small letter to myself in there. To remind myself of what it is that I want to do and what I want to __stop doing__. I am not following [my own rules](../../productivity/flow/rules.md)!
 - (21) Removed my Karabiner mind map as I it is stupid to keep it in track with my actual config. It's better to optimise searching and self documenting the config itself in the code with comments.
 - (21) Going to start doing this kind of changelog more often. I really like it. With the date on the side. Software has change logs. Why not life?
+- (22) [Wrote about my workflow in making workflows](https://www.alfredforum.com/topic/11274-my-workflow-in-making-workflows).
 
 ## Thoughts
 - I am thinking how I can experiment with this monthly overview more. Aside from __Changes__ and the __Summary__ paragraph at the end of each month, I want to drop down some __thoughts__ I have too in some form. Just for prosterity. Plus I really do want to write more often, I think it's better to focus on that more rather than just dropping some random thoughts here.
