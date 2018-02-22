@@ -19,7 +19,7 @@ You can use [this script](https://gist.github.com/deanishe/35faae3e7f89f629a94e)
 ## Notes
 - [Package workflows from CLI with version numbers](https://www.alfredforum.com/topic/10838-how-to-package-workflows-from-the-command-line/?tab=comments#comment-55677)
 - Alfred can preserve a user's Hotkey shortcuts, keywords and workflow variable values. Everything else in the workflow directory gets overwritten.
-- I prefix my own workflows that I have not published out to the world with `a.` prefix. This way I know off hand that this workflow is either private or unreleased yet.
+- I prefix my own workflows that I have not published out to the world with __a.__ prefix. This way I know off hand that this workflow is either private or unreleased yet.
 
 ## Links
 - [How to: workflow / environment variables](https://www.alfredforum.com/topic/9070-how-to-workflowenvironment-variables/?tab=comments#comment-45177)

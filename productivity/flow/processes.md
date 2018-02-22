@@ -1,9 +1,6 @@
 # Processes
 Some simple processes I should follow when doing things.
 
-## Starting new projects
-1. If I want to experiment with something, make the project in `~/src/ideas` first and then transfer to the appropriate directories (folders) later.
-
 ## Understanding
 1. Think it through.
 2. Ask myself why this is the way it is.

@@ -1,31 +1,31 @@
 # Lessons learned
 ## Life
 - Prioritise.
-	- Do the important things first. Define these _important_ things for myself and be clear with what I want to achieve.
+	- Do the important things first.
+	- Define these _important_ things for myself and be clear with what I want to achieve.
 - Do things that scale.
 	- Try find solutions that will scale with time. Ideally try to come up with solutions to problems that don't just help you but help other people solve a problem.
 - Don't repeat what other people have already done.
 	- If possible reuse other people's work as much as possible to create new and novel things.
 - Don't compare myself to other people.
-- Be consistent. Define your own [rules](../productivity/flow/rules.md) and follow them. Adjust the rules and your workflow to match what you have learned.
-- Make friends with imperfection. Enjoy and cherish the process and never fixate on the result. Projects, articles, ideas will evolve with time and will never be what you first envisioned them to be. But you can only know that when you start and try make it.
-- Just start. Getting distracted is easy but starting is hard.
-- Study smart.
-	- Ask myself the question of what it is I am trying to solve or understand.
-	- Start working to solve the problems before the deadline. And __prioritise__.
+- Be consistent.
+	- Define your own [rules](../productivity/flow/rules.md) and follow them. Adjust the rules and your workflow to match what you have learned.
+- Make friends with imperfection.
+	- Enjoy and cherish the process and never fixate on the result. Projects, articles, ideas will evolve with time and will never be what you first envisioned them to be. But you can only know that when you start and try make it.
+- Just start.
+	- Getting distracted is easy but starting is hard.
 - Move fast.
-	- Ask questions whenever I don’t understand. Don’t sit idly.
-	- Try things to see if they work. If they fail, move on.
-- Focus.
-	- Focus is the ability to say __no__ to things.
+	- Ask questions whenever I don’t understand. Don’t sit idly. Try things to see if they work. If they fail, move on.
 - Think long term.
 	- What do I ultimately want to achieve or want to exist in the world.
+- Focus.
+	- Focus is the ability to say __no__ to things.
+- Study smart.
+	- Ask myself the question of what it is I am trying to solve or understand. Start working to solve the problems before the deadline. And __prioritise__.
 - Do one thing at a time.
 	- Rather than trying to achieve all of my goals at once, it's best focus on completing one thing at a time. Sometimes external pressure can make this hard, but try to stick to it as much as possible. I've found that it enables me to move way faster.
 - Write more.
-	- Document my thoughts and findings and share it.
-	- Research really well the topic I am trying to share.
-	- Make sure I don’t repeat what has been said before and if it was. Link to it and make my own observations and conclusions.
+	- Document my thoughts and findings and share it. Research really well the topic I am trying to share. Make sure I don’t repeat what has been said before and if it was. Link to it and make my own observations and conclusions.
 - Remove friction.
 	- In whatever you are doing, try to remove as much friction as possible.
 	- Try to practice self documentation. For example don't try to to map things in one app and then try to outline the mappings in another. Try to make the process self documenting and remove the friction of going and keeping the documentation up-to-date. Only do it where it is really necessary and helpful.

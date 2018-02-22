@@ -11,7 +11,7 @@ Some simple rules to follow for myself doing things.
 - Focus on Whole Food, Plant-Based diet.
 
 ## Wiki
-- Describe links on the same line with `-` separator (if needs more description, then sub dash).
+- Describe links on the same line with __-__ separator (if needs more description, then sub dash).
 - Don't repeat myself or anyone else. If something has already been said either by me or someone else, link to it (especially in this wiki).
 - Interlink entries between each other within wiki where necessary. Don't over do it.
 - Try to use other services for logging and other things where possible. Like in the case of [Letterboxd](https://letterboxd.com/NikitaVoloboev/) and its Lists feature. It's better to make lists there and link to the lists from wiki. Find the right tool for the job. The wiki should act as a glue between things.
@@ -38,19 +38,19 @@ Some simple rules to follow for myself doing things.
 
 ## Code
 - Write code to be read by other people. Prefer to be explicit over implicit.
-- Delimit files that have spaces with `-` instead of `_`.
+- Delimit files that have spaces with __-__ instead of __\___.
 - Write a small comment on top of the file to describe the purpose of the file. Where appropriate.
 
 ## Commenting
-- In comments, don't write `Will ..`. Just write what it will do. Remove unnecessary (filler) words.
+- In comments, don't write __Will ..__. Just write what it will do. Remove unnecessary (filler) words.
 - Uppercase comments for consistency.
-- Use imperative tense. Instead of `# Outputs`, use `# Output`.
+- Use imperative tense. Instead of _# Outputs_, use _# Output_.
 - Only add one space after the code for inline comments. Don't space them out.
 - Comment over my code (be mindful of not repeating things, sometimes code speaks for itself).
 
 ## Keyboard Maestro
 - All macro names are lowercased. Unless it is necessary.
-- When doing macros to _focus_ on something, name the macro like so `sidebar focus` rather than `focus on sidebar`.
+- When doing macros to _focus_ on something, name the macro like _sidebar focus_ rather than _focus on sidebar_.
 
 ## Karabiner
 - Try to make semantic mappings and chunk mappings by theme or context.
@@ -58,38 +58,38 @@ Some simple rules to follow for myself doing things.
 
 ## Writing
 - Use proper punctuation and capitalise things appropriately.
-- When adding `:`, don't add space beforehand.
+- When adding __:__, don't add space beforehand.
 - When making tasks (2Do, Trello, GitHub issues), use imperative tense.
 - Remove unnecessary and _filler_ words.
 	- If something can be said in less words, say it in less words.
 	- Always try to be clear and to the point.
 - Both in code and prose. Say more with less and never repeat myself.
 - Minimise using word _here_.
-	- When wanting to reference a certain URL, I don't need to mention `and you can see it here`. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
+	- When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
 
 ## Markdown
 - Don't leave unnecessary whitespace between headings and text.
-- Don't need to add `:` to the end of text when adding image below as it is implicit.
+- Don't need to add __:__ to the end of text when adding image below as it is implicit.
 - Only use HTML to adjust the image if the original size is not what I need. Don't adjust images blindly and check how the final image looks rendered compared to the text.
 - Use __Bold__ for strong emphasis. Use _Italic_ for soft emphasis. And `code quotes` for actual code, variables, path names and quoting inline (in same sentence).
 
 ## GitHub
 - Add appropriate topics to each repo.
 - Make many experiments and share them.
-- Add credits to repos and acknowledge work of people I am using at end of repos. Under `# Credits`.
+- Add credits to repos and acknowledge work of people I am using at end of repos. Under __# Credits__.
 - Use relative links instead of hard wired links. For example in GitHub you can use `../../issues/` to reference issues of current repo from readme.
 
 ## GitHub README
 - Use HTML for rendering images if I need control on their size and position.
 - Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links). Don't repeat what is said in the quote in the description underneath the quote.
-- If the README is long enough, add a `Contents` reference table. Can omit `Contents` heading.
+- If the README is long enough, add a __Contents__ reference table. Can omit Contents heading.
 - Don't add anything that is not needed and focus on the content.
 - Add a way to visually show the workflow/library in action where appropriate.
 - Don't link to Imgur images as links, render them in the GitHub README itself.
 - In screenshots of Alfred prompts and other prompts, show the cursor.
-- Add `Related` section to most repos linking to similar projects either of my own or of other. Not all projects need this.
-- Don't add Thank You clause in `idea` stage projects.
-- Don't add `Say Thanks` badge on curated lists.
+- Add __Related__ section to most repos linking to similar projects either of my own or of other. Not all projects need this.
+- Don't add Thank You clause in _idea_ stage projects.
+- Don't add _Say Thanks_ badge on curated lists.
 
 ## Alfred
 - Keyword triggers should be one string (no spaces). Try to make keyword be semantically appropriate to workflow and easy to memorise and type.
@@ -105,7 +105,7 @@ Some simple rules to follow for myself doing things.
 
 ## Sharing files
 - Temporary shares with [Transfer](https://transfer.sh).
-- More permanent shares are shared with Dropbox. Don't delete items from `shares` folder unless I delete the file somewhere myself.
+- More permanent shares are shared with Dropbox. Don't delete items from _shares_ folder unless I delete the file somewhere myself.
 - If the files are stored on GitHub somewhere, I can use [Rawgit](http://rawgit.com/) to get a downloadable link of the raw file.
 
 ## Releasing workflows with OneUpdater
@@ -124,7 +124,7 @@ Some simple rules to follow for myself doing things.
 - Plan the next day fully in advance in the calendar. Follow through with the plan but adapt where necessary.
 
 ## 2Do
-- Only contain things I really need to get done in `Today`.
+- Only contain things I really need to get done in _Today_.
 - All 2Do tasks need to be actionable.
 - Work on tasks based on priority (starred completed first).
 - Don't include context in the task title since I can do add it as a tag instead.
@@ -178,9 +178,6 @@ Some simple rules to follow for myself doing things.
 - License my own code under MIT.
 - License curated lists and other things under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-## File naming
-- Prefer to use `-` instead of `_` in naming script files. And lowercased.
-
 ## Prefixing
 - Prefer to have the prefix reference the meaning in some way for easier mental mapping of prefix to meaning.
 - Name and prefix things with focus on clarity. The semantics of prefixes should ideally be obvious. And naming should be appropriate.
@@ -192,13 +189,13 @@ Some simple rules to follow for myself doing things.
 - Sleep for ~ 7 hours each day.
 
 ## Timing
-- Minimise `Distracting` time and aim at `< 1 hour` `Distracted` time a day. Ideally less. Block everything that is `Distracting` when working.
+- Minimise _Distracting_ time and aim at __< 1 hour Distracted time__ a day. Ideally less. Block everything that is _Distracting_ when working.
 - Mark all time past in Timing. Adjust filters and projects to what kind of things I am working on.
 - Only mark non distracting blocks with tasks. Those blocks are ones that matter.
 
 ## Day One
 - Mark all memorable moments and experiences in Day One.
-- Mark memorable moments throughout the day and put them in `Photo a Day` and `Travel` journals.
+- Mark memorable moments throughout the day and put them in __Photo a Day__ and __Travel__ journals.
 
 ## Tools
 - Only use what is necessary. Experiment with things but never keep things you are not actually using. That mostly includes plugins and modifications.
@@ -223,7 +220,7 @@ Some simple rules to follow for myself doing things.
 - Label all emails accordingly (if it is appropriate).
 
 ## Looking back
-- Don't say `Want to`. Instead say `Will` in `Changes`. This applies more generally too, try be more proactive with anything I do. Intention counts.
+- Don't say _Want to_. Instead say _Will_ in _Changes_. This applies more generally too, try be more proactive with anything I do. Intention counts.
 
 ## Finance
 - Track every purchase made with YNAB. Putting it in its respective category.
@@ -235,9 +232,9 @@ Some simple rules to follow for myself doing things.
 ## Information
 - Don't save unnecessary information. This mostly concerns tracking data and the like. More data is not always better. Quality and purposeful data is.
 - Make the data actionable in some way. Either as a way that you can query it later and read or look back upon in the future (as is case with Day One) or as a way you can immediately take action on in form of analysis of it.
-	- Knowing what goals you have and the reasons why you are collecting or using certain kind of data is important and saves a lot of time in the future when you want to `minimise` and `simplify` things in life.
+	- Knowing what goals you have and the reasons why you are collecting or using certain kind of data is important and saves a lot of time in the future when you want to _minimise_ and _simplify_ things in life.
 
 ## Trello
-- No need to create `Doing now` and `Do next` blocks. I can use `watching` feature for that and seperate cards instead by topic. Use `tags` to give priority to tasks. (In my case `Important`, `Interesting` and `Next` are always present tags in most boards).
+- No need to create _Doing now_ and _Do next_ blocks. I can use _watching_ feature for that and seperate cards instead by topic. Use _tags_ to give priority to tasks. (In my case _Important_, _Interesting_ and _Next_ are always present tags in most boards).
 - Share boards publically that contain no sensetive or private information.
-- For boards like `Learning` and `Books`, no need to add links to cards as the links to these things should already be added in LA curated lists which are easily queriable.
+- For boards like _Learning_ and _Books_, no need to add links to cards as the links to these things should already be added in LA curated lists which are easily queriable.
