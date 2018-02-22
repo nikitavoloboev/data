@@ -50,7 +50,7 @@ Some simple rules to follow for myself doing things.
 
 ## Keyboard Maestro
 - All macro names are lowercased. Unless it is necessary.
-- When doing macros to `focus` on something, name the macro like so `sidebar focus` rather than `focus on sidebar`.
+- When doing macros to _focus_ on something, name the macro like so `sidebar focus` rather than `focus on sidebar`.
 
 ## Karabiner
 - Try to make semantic mappings and chunk mappings by theme or context.
@@ -71,12 +71,12 @@ Some simple rules to follow for myself doing things.
 - Don't leave unnecessary whitespace between headings and text.
 - Don't need to add `:` to the end of text when adding image below as it is implicit.
 - Only use HTML to adjust the image if the original size is not what I need. Don't adjust images blindly and check how the final image looks rendered compared to the text.
-- Use __Bold__ for strong emphasis. Use _Italic_ for soft emphasis. And `code quotes` for actual code, variables and path names and quoting inline (in same sentence).
+- Use __Bold__ for strong emphasis. Use _Italic_ for soft emphasis. And `code quotes` for actual code, variables, path names and quoting inline (in same sentence).
 
 ## GitHub
 - Add appropriate topics to each repo.
 - Make many experiments and share them.
-- Add credits to repos and acknowledge work of people I am using at end of repos (`Credits`).
+- Add credits to repos and acknowledge work of people I am using at end of repos. Under `# Credits`.
 - Use relative links instead of hard wired links. For example in GitHub you can use `../../issues/` to reference issues of current repo from readme.
 
 ## GitHub README

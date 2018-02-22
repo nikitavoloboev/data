@@ -7,6 +7,9 @@
 - Don't repeat what other people have already done.
 	- If possible reuse other people's work as much as possible to create new and novel things.
 - Don't compare myself to other people.
+- Be consistent. Define your own [rules](../productivity/flow/rules.md) and follow them. Adjust the rules and your workflow to match what you have learned.
+- Make friends with imperfection. Enjoy and cherish the process and never fixate on the result. Projects, articles, ideas will evolve with time and will never be what you first envisioned them to be. But you can only know that when you start and try make it.
+- Just start. Getting distracted is easy but starting is hard.
 - Study smart.
 	- Ask myself the question of what it is I am trying to solve or understand.
 	- Start working to solve the problems before the deadline. And __prioritise__.
@@ -114,8 +117,6 @@
 	- It should be more of a guide and a glue between different things rather than as a way to dump everything in one single file.
 
 ## Productivity
-- Just start.
-	- Getting distracted is easy but starting is hard.
 - Use the right tool for the job.
 	- i.e. mind maps are great for visualising things so don't use them to dump things inside to filter for things. I can use simple markdown and text files for that where it is easier to maintain and extend.
 - Slow down. Think about the problem. Don't rush things.
