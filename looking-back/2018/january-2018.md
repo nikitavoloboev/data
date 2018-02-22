@@ -28,7 +28,7 @@ Learn Anything was banned from both Facebook and Instagram platforms.
 No one can share or send messages of the website to anyone. Facebook won't allow it.
 ![](https://i.imgur.com/DZWjMDn.jpg)
 
-Moreover FB decided to delete all mentiones of the website off their `platform`. Even my own posts.
+Moreover FB decided to delete all mentiones of the website off their _platform_. Even my own posts.
 ![](https://i.imgur.com/SptlLnC.png)
 
 It's a real shame how a company can dictate what other people see or say and will block anything that even remotely questions the ethics of what they do.

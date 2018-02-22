@@ -55,24 +55,23 @@ Some simple rules to follow for myself doing things.
 ## Karabiner
 - Try to make semantic mappings and chunk mappings by theme or context.
 - Prefix variable names by action (i.e. EDIT/OPEN/ALFRED). Each variable name should be descriptive.
-- Map all hotkeys that are taken in `Karabiner` mind map.
 
 ## Writing
 - Use proper punctuation and capitalise things appropriately.
 - When adding `:`, don't add space beforehand.
 - When making tasks (2Do, Trello, GitHub issues), use imperative tense.
-- Remove unnecessary and `filler` words.
+- Remove unnecessary and _filler_ words.
 	- If something can be said in less words, say it in less words.
 	- Always try to be clear and to the point.
 - Both in code and prose. Say more with less and never repeat myself.
-- Minimise using word `here`.
+- Minimise using word _here_.
 	- When wanting to reference a certain URL, I don't need to mention `and you can see it here`. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
 
 ## Markdown
 - Don't leave unnecessary whitespace between headings and text.
 - Don't need to add `:` to the end of text when adding image below as it is implicit.
 - Only use HTML to adjust the image if the original size is not what I need. Don't adjust images blindly and check how the final image looks rendered compared to the text.
-- Use __Bold__ for emphasis. And `code quotes` for actual code, variables and path names.
+- Use __Bold__ for strong emphasis. Use _Italic_ for soft emphasis. And `code quotes` for actual code, variables and path names and quoting inline (in same sentence).
 
 ## GitHub
 - Add appropriate topics to each repo.

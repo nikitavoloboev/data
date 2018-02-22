@@ -11,9 +11,9 @@
 - Will try not use mind map for documenting my Karabiner config but try a method of self documenting.
 - Will try to be a lot more active on Twitter. It's a pretty amazing platform.
 - Taking Git and Git workflow a lot more seriously. Atomic commits. And coding. Lots more coding. Also started to use Tower app for for my Git workflow. It's working pretty great so far.
-	- I also automated quite a lot of my Git activity. Specifically I learned that most commits if not all start with an _action_ so I automated inserting _Update_ words in Tower as well as many more things. Plus I automated a lot of same _Update_ commits that I do for my [knowledge](https://github.com/nikitavoloboev/knowledge) repo. It genuinely saves a ton of time.
+	- I also automated quite a lot of my Git activity. Specifically I learned that most commits if not all start with an _action_ so I automated inserting `Update` words in Tower as well as many more things. Plus I automated a lot of same `Update` commits that I do for my [knowledge](https://github.com/nikitavoloboev/knowledge) repo. It genuinely saves a ton of time.
 - Moved all my Go workflows to use Kingpin. Makes updating and extending workflows a lot easier which I should do in the coming time.
-- Started to use Spotify's _make song radio_ of the song a lot more aggresively. My current Spotifiy workflow is pretty awesome. I find a song I like, I quickly add the song to [Likes](spotify:user:nikitavoloboev:playlist:0ERn0U4qZIKC8Dy7RrMMsn) with `m + g`. If I _really_ like the song, then I add it to my [Nirvana](spotify:user:nikitavoloboev:playlist:0epiRzQHjdJieYr0y3TdST) playlist. And then I can start a song radio of the song to see what other cool things Spotify throws my way. I should start making my own music too although my knowledge of music and music theory is 0.
+- Started to use Spotify's `make song radio` of the song a lot more aggresively. My current Spotifiy workflow is pretty awesome. I find a song I like, I quickly add the song to [Likes](spotify:user:nikitavoloboev:playlist:0ERn0U4qZIKC8Dy7RrMMsn) with `m + g`. If I _really_ like the song, then I add it to my [Nirvana](spotify:user:nikitavoloboev:playlist:0epiRzQHjdJieYr0y3TdST) playlist. And then I can start a song radio of the song to see what other cool things Spotify throws my way. I should start making my own music too although my knowledge of music and music theory is 0.
 - (21) Going to use my diary a bit more often. I realised just how valuable it is to express my thoughts and feelings either on paper or through music. Ideally through music but I really need to learn how I can do that.
 - (21) Writing in my personal diary feels like sitting by a fire place sipping warm tea. It feels nice to let my thoughts and my frustrations be expressed on paper. Knowing well that what I write is not going to be read by anyone but me.
 - (21) Will try to write more in my digital private journal. I wrote a small letter to myself in there. To remind myself of what it is that I want to do and what I want to __stop doing__. I am not following [my own rules](../../productivity/flow/rules.md)!
@@ -32,7 +32,7 @@
 ### (13) Went through all my old FB posts
 Went through all my FB posts on my account and transferred the links + photos to my Photos app locally. I posted a lot of songs and links there as it turns out. Was fun going through most of them but I am super happy to never ever post to FB again. Life is so much simpler without it. I have a pretty awesome mental outlook on how I want to approach using technology and tools going forward and I want to cut out anything that brings me no use to my life.
 
-One thing I did find that was actually interesting was the first post I made about the mind map I was making that back then was called _research_ and you can still explore it live [here](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J#-18.1,-200.3,2). It's a *lot* smaller than what it once was. Before I started cleaning and going through it all moving all the links to another map I started to make which I named `learn anything` and you can see that map [here](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#171.5,-731.2,0). History is fun to look back on.
+One thing I did find that was actually interesting was the first post I made about the mind map I was making that back then was called `research` and you can still explore it live [here](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J#-18.1,-200.3,2). It's a _lot_ smaller than what it once was. Before I started cleaning and going through it all moving all the links to another map I started to make which I named `learn anything` and you can see that map [here](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#171.5,-731.2,0). History is fun to look back on.
 
 ![](https://i.imgur.com/uVXL6XO.png)
 
@@ -48,7 +48,7 @@ This act of transferring my posts from a closed and controlled silo that FB is o
 
 In any way, no one is really forcing me to use FB yet and that feels amazing. I have learned my lesson and I am now always trying to stay in the control of the data I create. Having a private encrypted journal is really an amazing feeling, I can't thank [Day One](../../macOS/apps/day-one.md) enough for making such an awesome digital journal that I can use.
 
-Here is a little collage of my favourite posts I made on FB since my first article on `expressing myself`.
+Here is a little collage of my favourite posts I made on FB since my first article on _expressing myself_.
 
 ![](https://i.imgur.com/rhon4mH.png)
 
@@ -73,7 +73,7 @@ Here is a little collage of my favourite posts I made on FB since my first artic
 
 ![](https://i.imgur.com/bmxiORp.png)
 
-> I didn't think much of the mind map back then. Aside from the fact that I really loved mind maps and I thought that making mind maps was awesome. This [learn anything](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#319.2,-697.8,0) map was born from me trying to break down the huge `research` map into smaller maps connected to each other. I also only focused on links rather than notes + links that `research` map had. I automated adding of links as well as opening any of the maps so extending it was quite easy and fun even. In many ways I became obsessed with that map as I wanted to connect every topic that you can learn about in there. It was named `learn anything` after all.
+> I didn't think much of the mind map back then. Aside from the fact that I really loved mind maps and I thought that making mind maps was awesome. This [learn anything](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#319.2,-697.8,0) map was born from me trying to break down the huge _research_ map into smaller maps connected to each other. I also only focused on links rather than notes + links that _research_ map had. I automated adding of links as well as opening any of the maps so extending it was quite easy and fun even. In many ways I became obsessed with that map as I wanted to connect every topic that you can learn about in there. It was named _learn anything_ after all.
 
 ![](https://i.imgur.com/wopQjne.png)
 

@@ -6,7 +6,7 @@ Here is how my sidebar looks:
 ![](https://i.imgur.com/sNnbnzx.png)
 
 ## Managing tasks with tags
-My main way of managing tasks is with `tags`. This lets me give scope to the task I want to complete and lets me filter through the many thousands of tasks I have in my `Inbox`. Here is a brief glimpse of what tags I add:
+My main way of managing tasks is with __tags__. This lets me give scope to the task I want to complete and lets me filter through the many thousands of tasks I have in my __Inbox__. Here is a brief glimpse of what tags I add:
 
 ![](https://i.imgur.com/vrhSpBs.png)
 
@@ -14,11 +14,11 @@ I also add time estimates to tasks like so:
 
 ![](https://i.imgur.com/G9wBnIB.png)
 
-This is useful because sometimes I can simply open a tag `10m` and see all tasks with this short time frame so I can quickly complete them and get on build on the momentum. I don't add time estimates to all tasks but I try to add it where possible.
+This is useful because sometimes I can simply open a tag __10m__ and see all tasks with this short time frame so I can quickly complete them and get on build on the momentum. I don't add time estimates to all tasks but I try to add it where possible.
 
 ## Notes
-- Go to 2Do list from URL scheme: `twodo://x-callback-url/showList?name=next` (would go to to `next` list).
-- Filter 2Do tag from URL scheme: `twodo://x-callback-url/search?text=tags:bug` (would show all tasks with `bug` tag)
+- Go to 2Do list from URL scheme: `twodo://x-callback-url/showList?name=next` (would go to to __next__ list).
+- Filter 2Do tag from URL scheme: `twodo://x-callback-url/search?text=tags:bug` (would show all tasks with __bug__ tag)
 
 ## Links
 - [2Do URL schemes](https://www.2doapp.com/kb/article/url-schemes.html)
