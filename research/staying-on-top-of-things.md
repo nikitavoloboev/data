@@ -15,7 +15,7 @@ I follow [blogs I really like](https://github.com/learn-anything/blogs) and read
 They are my two favourite news aggregators on the web. I really like lobsters for its smaller community and quite often better links and discussions.
 
 ### Twitter with [Tweetbot](../macOS/apps/tweetbot.md)
-Twitter is my favourite social media network and it is where I share everything [I am personally up to](https://twitter.com/nikitavoloboev) right now. I love Twitter for its ability to tailor completely what news and tweets I am actually reading. I never check the official Twitter page. I only view [the lists I made](https://twitter.com/nikitavoloboev/lists). I split my Tweetbot into [four columns](../macOS/apps/tweetbot.md) and the app is always full screen although during `Focus` session, the app is inaccesible to me, I can only post tweets.
+Twitter is my favourite social media network and it is where I share everything [I am personally up to](https://twitter.com/nikitavoloboev) right now. I love Twitter for its ability to tailor completely what news and tweets I am actually reading. I never check the official Twitter page. I only view [the lists I made](https://twitter.com/nikitavoloboev/lists). I split my Tweetbot into [four columns](../macOS/apps/tweetbot.md) and the app is always full screen although during __Focus__ session, the app is inaccesible to me, I can only post tweets.
 
 ### Reddit
 My Reddit is heavily tailored to my own likes and I very often just look into some subreddits I really like to see what is new. I list subreddits I like [here](https://github.com/learn-anything/reddit). I also really love using and creating [multi reddits](https://github.com/learn-anything/reddit-multi) I often check out.

@@ -8,7 +8,7 @@ I will be using certain abbreviations for things that I may be repeating often. 
 - repo = GitHub repository
 
 ## Years
-I often add a year in brackets to some articles or talks like **(2017)** which stands for the year in which that article or talk was given in.
+I often add a year in brackets to some articles or talks like __(2017)__ which stands for the year in which that article or talk was given in.
 
 ## KM macros
 I sometimes will link to KM macro group/palette from this wiki. The link will lead to the macro group/palette in my [GitHub repository](https://github.com/nikitavoloboev/my-mac-os/tree/master/km).

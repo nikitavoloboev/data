@@ -10,11 +10,11 @@ For me solving a problem usually involves going through these three steps:
 4. Solving the problem.
 
 ## 1. Finding what the problem is
-I use one [MindNode](../macOS/apps/mindnode.md) mind map called `thinking` where I have two main nodes: `now` and `backlog`.
+I use one [MindNode](../macOS/apps/mindnode.md) mind map called __thinking__ where I have two main nodes: __now__ and __backlog__.
 
 I outline the problem I want to solve and then I outline the steps I think I need to do to solve the problem. For example, I wanted to parse [SUMMARY.md](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) file so I can search through all entries of this wiki from Alfred.
 
-So I created the entry in `now` of what I want to do.
+So I created the entry in __now__ of what I want to do.
 ![](https://i.imgur.com/sCGcKCG.png)
 
 ## 2. Breaking the problem down to smaller parts
@@ -35,4 +35,4 @@ Sometimes I already know the answer given my past experience without conducting 
 
 In some cases, a problem may be complex enough that it needs time thinking more about it. Researching various possible solutions and things you could use. And playing with possible solutions and ideas in your head until you reach something worthwhile you can spend time implementing. [This](https://www.youtube.com/watch?v=f84n5oFoZBc) talk by Rich Hickey covers this point quite well.
 
-In most other cases, the problem I have is simple enough that it doesn't need to go into a `thinking` map to be broken down to be solved and I can just start working on the task immediately and see if I can make it happen.
+In most other cases, the problem I have is simple enough that it doesn't need to go into a __thinking__ map to be broken down to be solved and I can just start working on the task immediately and see if I can make it happen.

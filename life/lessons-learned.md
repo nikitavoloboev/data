@@ -67,7 +67,7 @@
 	- Asking questions is a a great thing and being stuck on the same problem or being oblivious how to do some thing is not always a great thing.
 	- Be wary of how to [ask questions the right way](../research/asking-questions.md).
 - Be aware of my own quirks and ask myself why I have them and why I do what I do.
-	- For example I at once had a weird obsession with lowercasing everything just because it `felt` nicer to have everything lowercased. But that is obviously a weird quirk and does no good to anyone including myself.
+	- For example I at once had a weird obsession with lowercasing everything just because it _felt_ nicer to have everything lowercased. But that is obviously a weird quirk and does no good to anyone including myself.
 - What I make doesn't have to be perfect. It's better to make something than nothing at all, and it's better to share things early to get feedback than spending years trying to perfect something.
 - I won't be able to do everything. Setting constraints is key. I want my projects to be focused, rather than growing too much in scope and becoming a "catch all".
 - Change location.

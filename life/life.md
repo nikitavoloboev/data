@@ -4,7 +4,7 @@ I live an interesting life. I think. It is fascinating to think what I would be 
 In any way, you probably live only one life. So best make it count.
 
 ## Focusing on what's important
-I keep a private Trello board where I outline things that I want to focus on in life and achieve. I try to not work on long periods of time and predict things in advance for over three month and instead work in very short time frames whilist having some end goal(s) in mind of what I ultimately want to achieve. Here is how my `Focus` Trello board looks:
+I keep a private Trello board where I outline things that I want to focus on in life and achieve. I try to not work on long periods of time and predict things in advance for over three month and instead work in very short time frames whilist having some end goal(s) in mind of what I ultimately want to achieve. Here is how my __Focus__ Trello board looks:
 ![](https://i.imgur.com/izTCK9V.png)
 
 ## Notes
