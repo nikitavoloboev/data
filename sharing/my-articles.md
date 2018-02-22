@@ -1,7 +1,7 @@
 # My articles
 Below is a list of all the articles I published on [Medium](https://medium.com/@NikitaVoloboev).
 
-The number between brackets shows the year I wrote the article in. Articles with a 🌟 are my `favourite`.
+The number between brackets shows the year I wrote the article in. Articles with a 🌟 are my **favourite**.
 
 ## Life
 - [Just keep expressing yourself (2015)](https://medium.com/@NikitaVoloboev/just-keep-expressing-yourself-306870791ae4#.3ilcote4m) - The first article I have ever wrote and published on how to not be afraid to express yourself and be you.

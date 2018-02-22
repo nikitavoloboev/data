@@ -8,11 +8,11 @@ My workflow is always changing but currently it consists of the following.
 
 ## Task tracking
 - [2Do](../macOS/apps/2do.md) - Personal day-to-day tasks. Every task is actionable. Tasks that don't fit into a GitHub issue are put there. Usually this includes personal tasks.
-- Ship - GitHub issues. All issues I want to work on soon are put into `Up Next` queue and I work through each one, one by one.
+- Ship - GitHub issues. All issues I want to work on soon are put into **Up Next** queue and I work through each one, one by one.
 - [Trello](../macOS/apps/trello.md) - Public and personal boards. It's really nice because I can share pragmatically things I want to do publically and have the workflow actually be seamless so it doesn't distract or detach from the experience in any way.
 
 ## Time management
-- [Fantastical](../macOS/apps/fantastical.md) - I plan my work for the entire day ahead of me and my day is primarily guided by the events I create. I always have Fantastical show `Week` view for `5 days` from current day. This gives me a perspective on what deadlines I have soon to complete and I can adjust my events as necessary and plan accordingly.
+- [Fantastical](../macOS/apps/fantastical.md) - I plan my work for the entire day ahead of me and my day is primarily guided by the events I create. I always have Fantastical show **Week** view for **5 days** from current day. This gives me a perspective on what deadlines I have soon to complete and I can adjust my events as necessary and plan accordingly.
 - [Timing](../macOS/apps/timing.md) - Track all time I spend there. I try to automate as much of the tracking as possible so Timing learns from what I do and it's easy to fill out the sections after.
 
 ## Knowledge Indexing
@@ -28,7 +28,7 @@ My workflow is always changing but currently it consists of the following.
 ## Photographs
 - [Pixave](../macOS/apps/pixave.md) - My entire media library of images and GIFs neatly sorted into collections. I post some images from there to my [Instagram page](https://www.instagram.com/niikivi/).
 - Apple Photos - All my personal photographs and images I made sorted into albums.
-- [Day One](../macOS/apps/day-one.md) - Alongside small private notes and journal entries I add most photographs I take to Day One. Usually in form of `Travel` checkins. It's really awesome because everything there is encrypted and I can rely on it always being there.
+- [Day One](../macOS/apps/day-one.md) - Alongside small private notes and journal entries I add most photographs I take to Day One. Usually in form of **Travel** checkins. It's really awesome because everything there is encrypted and I can rely on it always being there.
 
 ## Journalling
 - [Day One](../macOS/apps/day-one.md) - All my private thoughts and journal entries.
@@ -47,4 +47,4 @@ My workflow is always changing but currently it consists of the following.
 - [Ulysses](../macOS/apps/ulysses.md) - All my writing. Medium posts, stories, wiki, small pieces and ideas.
 
 ## Contacts
-- Apple Contacts - All contacts and people I meet are added as contacts in my contacts book. All contacts are prefixed with a category (i.e. `f.` for `friend`) and most contacts have tags attached so it's easier to remember the person.
+- Apple Contacts - All contacts and people I meet are added as contacts in my contacts book. All contacts are prefixed with a category (i.e. **f.** for **friend**) and most contacts have tags attached so it's easier to remember the person.
