@@ -110,6 +110,9 @@ Some simple rules to follow for myself doing things.
 - More permanent shares are shared with Dropbox. Don't delete items from _shares_ folder unless I delete the file somewhere myself.
 - If the files are stored on GitHub somewhere, I can use [Rawgit](http://rawgit.com/) to get a downloadable link of the raw file.
 
+## Sharing my work
+- Share the link to the project on the appropriate website/forum/subreddit.
+
 ## Releasing workflows with OneUpdater
 - Don't forget to update version number and then also commit the workflow so info.plist on GitHub has the latest version.
 
