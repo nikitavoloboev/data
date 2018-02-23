@@ -2,14 +2,14 @@
 ## Life
 - Prioritise.
 	- Do the important things first.
-	- Define these _important_ things for myself and be clear with what I want to achieve.
+	- Define these _important_ things for yourself and be clear with what I want to achieve.
+- Be consistent.
+	- Define your own [rules](../productivity/flow/rules.md) and follow them. Adjust the rules and your workflow to match what you have learned.
 - Do things that scale.
 	- Try find solutions that will scale with time. Ideally try to come up with solutions to problems that don't just help you but help other people solve a problem.
 - Don't repeat what other people have already done.
 	- If possible reuse other people's work as much as possible to create new and novel things.
-- Don't compare myself to other people.
-- Be consistent.
-	- Define your own [rules](../productivity/flow/rules.md) and follow them. Adjust the rules and your workflow to match what you have learned.
+- Don't compare yourself to other people.
 - Make friends with imperfection.
 	- Enjoy and cherish the process and never fixate on the result. Projects, articles, ideas will evolve with time and will never be what you first envisioned them to be. But you can only know that when you start and try make it.
 - Just start.
@@ -21,25 +21,25 @@
 - Focus.
 	- Focus is the ability to say __no__ to things.
 - Study smart.
-	- Ask myself the question of what it is I am trying to solve or understand. Start working to solve the problems before the deadline. And __prioritise__.
+	- Ask yourself the question of what it is I am trying to solve or understand. Start working to solve the problems before the deadline. And __prioritise__.
 - Do one thing at a time.
-	- Rather than trying to achieve all of my goals at once, it's best focus on completing one thing at a time. Sometimes external pressure can make this hard, but try to stick to it as much as possible. I've found that it enables me to move way faster.
+	- Rather than trying to achieve all of your goals at once, it's best focus on completing one thing at a time. Sometimes external pressure can make this hard, but try to stick to it as much as possible. I've found that it enables me to move way faster.
 - Write more.
-	- Document my thoughts and findings and share it. Research really well the topic I am trying to share. Make sure I don’t repeat what has been said before and if it was. Link to it and make my own observations and conclusions.
+	- Document your thoughts and findings and share it. Research really well the topic I am trying to share. Make sure I don’t repeat what has been said before and if it was. Link to it and make your own observations and conclusions.
 - Remove friction.
 	- In whatever you are doing, try to remove as much friction as possible.
 	- Try to practice self documentation. For example don't try to to map things in one app and then try to outline the mappings in another. Try to make the process self documenting and remove the friction of going and keeping the documentation up-to-date. Only do it where it is really necessary and helpful.
-- Track my expenses.
+- Track your expenses.
 - Get into the [flow state](../productivity/flow/flow.md) as early as possible during the day.
 - Just being exposed to concepts through videos or tutorials is not going to help me pass interviews.
 	- Actually code everything up and implement it.
 - Don’t be careless on the exams and when doing exercises.
-	- Check back on my work and go through my calculations. It is very easy to miss something.
+	- Check back on your work and go through your calculations. It is very easy to miss something.
 - Sit up right.
-	- My body language dictates how I feel. Sit straight and don’t slouch my back.
+	- your body language dictates how I feel. Sit straight and don’t slouch your back.
 - Drink water.
 	- Always stay hydrated.
-- Pay attention to my health and well being.
+- Pay attention to your health and well being.
 	- Do not consume excess sugar.
 - Learn by investigation.
 	- Rather than by consuming some data points.
@@ -47,7 +47,7 @@
 		- Why?
 		- And how?
 - Use paper.
-	- Don’t be full digital and try out my calculations and thinking on paper.
+	- Don’t be full digital and try out your calculations and thinking on paper.
 - Read documentation.
 	- It saves a lot of time.
 - Keep receipts of expensive purchases.
@@ -57,9 +57,9 @@
 	- Be really great at one thing and then you can branch out.
 - Check everything once I leave a room.
 	- Did I forget anything?
-- Learn from my mistakes.
+- Learn from your mistakes.
 	- Be conscious of mistakes that I have already done.
-	- Learn why they happened and do my best to never repeat them again.
+	- Learn why they happened and do your best to never repeat them again.
 - Look at the price of the delivery.
 - [Don’t assume it’s difficult until it is](https://news.ycombinator.com/item?id=10872970).
 - Simplicity matters.
@@ -69,10 +69,10 @@
 - Ask questions.
 	- Asking questions is a a great thing and being stuck on the same problem or being oblivious how to do some thing is not always a great thing.
 	- Be wary of how to [ask questions the right way](../research/asking-questions.md).
-- Be aware of my own quirks and ask myself why I have them and why I do what I do.
-	- For example I at once had a weird obsession with lowercasing everything just because it _felt_ nicer to have everything lowercased. But that is obviously a weird quirk and does no good to anyone including myself.
+- Be aware of your own quirks and ask yourself why I have them and why I do what I do.
+	- For example I at once had a weird obsession with lowercasing everything just because it _felt_ nicer to have everything lowercased. But that is obviously a weird quirk and does no good to anyone including yourself.
 - What I make doesn't have to be perfect. It's better to make something than nothing at all, and it's better to share things early to get feedback than spending years trying to perfect something.
-- I won't be able to do everything. Setting constraints is key. I want my projects to be focused, rather than growing too much in scope and becoming a "catch all".
+- I won't be able to do everything. Setting constraints is key. I want your projects to be focused, rather than growing too much in scope and becoming a "catch all".
 - Change location.
 	- Work from different places.
 	- Meet new people.
@@ -84,31 +84,33 @@
 - Experiment a lot.
 	- Try out any new ideas I have (it is the only way to see if the idea is any good).
 	- Don't be afraid to fail.
-- Use my brain.
+- Publish your work and share it.
+	- Any feedback you can get is very valuable. Plus it helps as many people would probably love to use/read about what you have made. But they will never know if you don't share it.
+- Use your brain.
 	- Actually think about the problems I have and things I can do with what I have instead of giving up and resorting to other things or exterior help. Think first.
 - Share.
 	- Without sharing the things you have made, there's a very slim chance someone will ever see them.
 - Don't overthink things to the point of not doing anything. If you can't find a reason why not to do something, it's often much better to just do the thing and see where it takes you.
 - Take it easy.
-	- Don't stress myself too much about not achieving things I want to achieve. What's important is that I try and ideally love what I am doing. Everything else is not worth worrying about.
+	- Don't stress yourself too much about not achieving things I want to achieve. What's important is that I try and ideally love what I am doing. Everything else is not worth worrying about.
 
 ## Relationships
 - Treat people as if they are in a sensitive and malleable emotional state all the time.
 	- I have the power to uplift friends and strangers with every interaction, large or small.
 
 ## Code
-- Use switch cases over long ifs.
 - It’s a lot easier to actually just use one screen. Much easier to context switch.
-- Comment over my code.
+- Comment over your code to explain anything that isn't obvious.
 - Run/Right/Fast.
 	- Make the code work I write is working. Then I can make it fast (if necessary). Solving the “correct/clean/performant code” problem all at once can be overwhelming. Don’t be overwhelmed. Solve one at a time.
 - Reducing the maintenance burden is, for most codebases, the biggest optimization you can do.
 	- Of course it's all about striking a balance, but 99% of the time there is a choice between performance and readability, readability is the right answer. Performance should only be chosen if it is absolutely necessary.
+- If you write ugly code, anyone who intends to fix a bug or add a feature will not enjoy his work and likely avoid it next time.
 
 ## Git
 - Use version control.
 	- It is a pain to reverse and fix things when you don't know where the problem is.
-- Commit all my changes. Do __atomic__ commits. Write proper descriptive commit messages.
+- Commit all your changes. Do __atomic__ commits. Write proper descriptive commit messages.
 
 ## Learning
 - Don’t index information for the sake of indexing.
@@ -130,10 +132,13 @@
 
 ## Social media
 - Don't lock yourself into using a service. Have your own system in place and give the social media a purpose. If there is no purpose to it, don't use it.
-- Losing control over personal data is horrible. Always be mindful of the services I use and the data they will be extracting from my use of it. If the service disregards my privacy. Avoid it.
+- Losing control over personal data is horrible. Always be mindful of the services I use and the data they will be extracting from your use of it. If the service disregards your privacy. Avoid it.
 
 ## Design
 - Giving users many options is more often a bad idea. Instead give very few options but make each one of them count and stand out.
+
+## Building a product
+- Have a nice looking website. The first look matters.
 
 ## Keyboard Maestro
 - Minimise inputs to the macros. Sometimes it's possible that the input I need to a macro, I can get from another place within the macro itself.
@@ -146,4 +151,4 @@
 	- If I want someone to add a feature to their software, show how it would be useful to lots of users.
 - Explicit over implicit is almost always better.
 - Automate backups.
-	- Make sure the [backups I've made are actually successful](http://taobackup.com). And I have at least 1 week fresh backup of everything I did. It is best to have offsite backups too.
+	- Make sure the [backups you've made are actually successful](http://taobackup.com). And I have at least 1 week fresh backup of everything I did. It is best to have offsite backups too.

@@ -3,6 +3,7 @@ Some simple rules to follow for myself doing things.
 
 ## Life
 - Simplify as much as possible. Never repeat myself.
+- Remember the [lessons I learned](../../life/lessons-learned.md). So as to not repeat the mistakes I have made.
 
 ## Nutrition
 - No processed sugar. No food with extra sugar in it.
@@ -40,6 +41,7 @@ Some simple rules to follow for myself doing things.
 - Write code to be read by other people. Prefer to be explicit over implicit.
 - Delimit files that have spaces with __-__ instead of __\___.
 - Write a small comment on top of the file to describe the purpose of the file. Where appropriate.
+- Use switch cases over long ifs.
 
 ## Commenting
 - In comments, don't write __Will ..__. Just write what it will do. Remove unnecessary (filler) words.

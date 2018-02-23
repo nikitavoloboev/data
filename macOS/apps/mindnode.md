@@ -3,7 +3,7 @@ The app that I use to make various mind maps. It is currently one of my top 5 us
 
 In short, MindNode for me is the ultimate playground where ideas get born and played with first. I even have a _thinking_ map that I open with Karabiner by pressing _f + :_. And I [brainstorm things](../../research/solving-problems.md) I am doing __now__ there. Here is how that looks:
 
-![](https://i.imgur.com/CTNV7mI.png)
+![](https://i.imgur.com/fxJG2Cb.png)
 
 ## Links
 - [Mind map everything](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739) - How I use mind maps to effectively transcribe knowledge digitally and visualise thoughts and knowledge I have for both myself and for other people interested.
