@@ -19,7 +19,7 @@ I like to write all my workflows in Go language unless the workflow can be done 
 7. Inside my `alfred-..` directory I run `alfred link`. That creates a symlink between the workflow directory and where the actual workflow lies. This uses [alfred](https://godoc.org/github.com/jason0x43/go-alfred/alfred) CLI tool.
 8. Write my Go code inside `alfred-..` folder and when I want to compile it to run from Alfred, I run `alfred build`.
 9. Write the code and make a MVP. Not forgetting to add/change version number of my workflow.
-10. If I want to share the workflow with the world (which is usually always), I create a GitHub repository to share the workflow, making sure that AwGo updating works so all the users can receieve future updates.
+10. If I want to share the workflow with the world (which is usually always), I create a GitHub repository and push my workflow there, making sure that AwGo updating works so all the users can receieve future updates.
 
 ### Using Alfred builtin objects + some code
 1. Create a folder in `~/dev/alfred/small-workflows`. Name the folder by workflow name, lowercased and separated by dashes without `alfred` prefix.
@@ -28,9 +28,9 @@ I like to write all my workflows in Go language unless the workflow can be done 
 4. Create the workflow I want to make in Alfred Preferences. Add the icon, name and unique bundle ID. Add the workflow to `Mine` category.
 5. Carry the info.plist and .png file of the logo to `source` directory I just made.
 6. Delete the workflow I made from Alfred preferences.
-7. Inside my workflow's folder in _small workflows_, I run `workflow-install -s source`. `workflow-install` command is placed inside my [~/.dotfiles/bin](https://github.com/nikitavoloboev/dotfiles/tree/master/bin) which is added to my $PATH. The [script](https://gist.github.com/deanishe/35faae3e7f89f629a94e), written by [Deanishe](https://github.com/deanishe), symlinks the `source` directory to Alfred.
+7. Inside my workflow's folder in _small workflows_, I run `workflow-install -s source`. `workflow-install` command is placed inside my [~/.dotfiles/bin](https://github.com/nikitavoloboev/dotfiles/tree/master/bin) which is added to my $PATH. The [script](https://gist.github.com/deanishe/35faae3e7f89f629a94e) symlinks the `source` directory to Alfred.
 8. If the workflow is private to me, I prefix it's name with `a. ` before the workflow name to indicate that I have not released the workflow yet or it contains sensitive information.
-9. Create the Alfred objects I need to make the workflow do what I want. If the workflow needs something more complex, I sometimes create Python files inside the workflow dir to do what I want and call them from the Script Filters.
+9. Create the Alfred objects I need to make the workflow does what I want. If the workflow needs something more complex, I sometimes create Python files inside the workflow dir to do what I want and call them from the Script Filters.
 10. In cases where I want to release the workflow, I strip the `a. ` prefix from the name. Then go to to my [Objects library](https://github.com/nikitavoloboev/small-workflows/tree/master/objects-library) workflow and transfer a [OneUpdater](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) object to my workflow.
 11. Change `readonly remote_info_plist` and `readonly workflow_url` variables in OneUpdater script to point to correct links. Then add a version number to the workflow if I haven't yet. Export the workflow to `~/Desktop` with [DirectoryWatches](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Workflow%20directory.alfredworkflow?raw=true) workflow and then viewing `~/Desktop` with [Directory Watches](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true) workflow, I file action on the workflow in `~/Desktop` to move it quickly to the directory in my [small workflows](https://github.com/nikitavoloboev/small-workflows).
 11. `git commit` and `push` the directory contents to GitHub.

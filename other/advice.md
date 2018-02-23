@@ -14,4 +14,4 @@ Some advice I received and liked or read in some place.
 - It is sometimes more powerful than the other way around.
 
 ## Links
-- [Naval Ravikant's Second Periscope (2018)](https://www.youtube.com/watch?v=PEGTfXngUWg&feature=youtu.be)
+- [Naval Ravikant's Second Periscope (2018)](https://www.pscp.tv/w/1MnGneBLZVmKO)

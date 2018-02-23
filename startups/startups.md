@@ -5,4 +5,4 @@
 
 ## Links
 - [Indie Hackers](https://www.indiehackers.com/) - Some stories of successful solo founders.
-- []David Heinemeier Hansson at Startup School(https://www.youtube.com/watch?v=0CDXJ6bMkMY) - Put a price on it.
+- [David Heinemeier Hansson at Startup School](https://www.youtube.com/watch?v=0CDXJ6bMkMY) - Put a price on it.

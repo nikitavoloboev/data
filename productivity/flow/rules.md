@@ -210,6 +210,7 @@ Some simple rules to follow for myself doing things.
 ## macOS
 - Only run apps I am actually using. Quit everything else.
 - Delete apps I am not using and have no need over. Only use what I need or may need.
+- Have full control over what is going on my system to a reasonable degree. Don't use/install things I do not actually need.
 
 ## Email
 - Do emails in burst. Bring my inbox to 0 every day. Action on each email.

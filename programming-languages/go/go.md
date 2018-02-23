@@ -27,6 +27,7 @@ Go promotes composition over inheritance.
 - `go install` = download, build, and put it in the path so you can use it.
 - I don't need to comment all functions as some are self describing. I do need to comment exported functions however.
 - I [can put my Go projects not in my GOPATH if I am not planning to release them publically as library or cli tool](https://golang.org/doc/code.html#GOPATH). i.e. My Alfred workflows live in `~/dev/alfred` and not in my GOPATH and are still writen in Go.
+- `go run` looks at the paths you specify.  `go build` takes the package(s) you specify and uses GOPATH to find their location.
 
 ## Links
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
