@@ -138,8 +138,9 @@ Some simple rules to follow for myself doing things.
 ## Ship app
 - Prioritise repos in the sidebar based on priority/urgency.
 
-## Stack Overflow CV
-- Only add repositories that are meaningful to the list.
+## [Thinking](../../research/solving-problems.md) map
+- Only have actual things I am struggling to work through there that need slicing (breaking down of smaller tasks).
+- Keep the list to maximum of 5 main nodes in there. If there is more, break them down and move them to either 2Do or GitHub issues and only keep things I am working on and important.
 
 ## Reading books
 - Make notes as I read books.
