@@ -12,14 +12,16 @@ For me solving a problem usually involves going through these three steps:
 ## 1. Finding what the problem is
 I use one [MindNode](../macOS/apps/mindnode.md) mind map called __thinking__ where I have two main nodes: __now__ and __backlog__.
 
-I outline the problem I want to solve and then I outline the steps I think I need to do to solve the problem. For example, I wanted to parse [SUMMARY.md](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) file so I can search through all entries of this wiki from Alfred.
+I outline the problem I want to solve and then I outline the steps I think I need to do to solve the problem.
+
+For example I wanted to modernise and improve my [Hammerspoon config](https://github.com/nikitavoloboev/dotfiles/tree/master/hammerspoon).
 
 So I created the entry in __now__ of what I want to do.
-![](https://i.imgur.com/sCGcKCG.png)
+![](https://i.imgur.com/fxJG2Cb.png)
 
 ## 2. Breaking the problem down to smaller parts
 I then try to break down the problem into small steps (things) I need to do, to make this task complete. In the case of this problem, my breakdown of the task looked like this:
-![](https://i.imgur.com/CTNV7mI.png)
+![](https://i.imgur.com/uYr28eZ.png)
 
 I could then simply try to go through each of the steps outlined and hopefully reach a working solution.
 
