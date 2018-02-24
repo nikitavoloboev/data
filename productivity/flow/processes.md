@@ -11,4 +11,8 @@ Some simple processes I should follow when doing things.
 2. Find the topic on Learn Anything and pick the best resource for learning the topic.
 
 ## Making new Alfred workflow
-1. Follow [making workflows outline](../../macOS/apps/alfred/making-workflows.md). Don't forget to add update icon when using AwGo.
+1. Follow [making workflows outline](../../macOS/apps/alfred/making-workflows.md).
+
+## Writing an article
+1. Collect notes and experiences.
+2. Write the article.

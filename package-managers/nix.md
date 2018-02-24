@@ -2,6 +2,8 @@
 [Nix package manager](https://github.com/NixOS/nix) is really interesting. I am in the process of transitioning to using it over homebrew.
 
 ## Notes
+- Nix lets you roll back changes atomically.
+- nix-shell lets you make build environments that are totally reproducible across machines, and don’t interfere with each other. You can freely mix any number of libraries of versions or software on the same machine and they don’t conflict.
 - With Ubuntu, every time you want to fix something with your car, you roll it into the garage, pop open the hood and get to work. It's intensive
 labour, results will vary, and undoing a change can be really difficult.
 	- With NixOS, it's like 3D printing a new car every time. You'll design a model, press a button, and the car gets built from scratch. If you don't like it, tweak the design a bit, and print a new car. If the new car breaks, just go back to the previous known-good one, which is already in your garage. You can even take the design documents to your friend and generate an exactly identical model.

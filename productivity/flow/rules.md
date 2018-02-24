@@ -4,6 +4,19 @@ Some simple rules to follow for myself doing things.
 ## Life
 - Simplify as much as possible. Never repeat myself.
 - Remember the [lessons I learned](../../sharing/lessons-learned.md). So as to not repeat the mistakes I have made.
+- Always learn new things.
+- Exercise daily.
+- Build ideas.
+- Follow good nutrition. No sugar, drink water.
+- Share everything I know and made.
+- No food/item wastage.
+- Be mindful of my actions and thoughts.
+- Minimise distractions.
+- Follow these rules.
+
+## Routine
+- Write. (1+ article / month)
+- Read a book (1+ hour / day)
 
 ## Nutrition
 - No processed sugar. No food with extra sugar in it.

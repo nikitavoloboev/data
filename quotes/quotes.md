@@ -1,5 +1,5 @@
 # Quotes
-I share quotes I really love at the end of [this page](https://nikitavoloboev.xyz/likes/). And I share all the interesting quotes as a [curated list anyone can contribute to](https://github.com/learn-anything/quotes).
+I share quotes I really love at the end of [this page](https://nikitavoloboev.xyz/likes/). And I share all the interesting quotes as a [curated list anyone can contribute to](https://github.com/learn-anything/quotes#interesting-quotes-).
 
 And here are a few quotes that didn't make both of those lists but I still liked.
 
@@ -87,8 +87,8 @@ And here are a few quotes that didn't make both of those lists but I still liked
 ## Success
 - Success is a few simple disciplines, practiced every day; while failure is simply a few errors in judgment, repeated every day.
 - Frameworks descend and burn up in the atmosphere like meteors. Technology changes fast enough that today’s problems are never tomorrow’s problems. Historically, our greatest technologies have been created by those who kept digging until they hit bedrock; who understood foundational ideas and technologies well enough to improve upon them.
-- The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest 
-- Every day we change the world. But to change the world in a way that means anything - that takes more time than most people have. It never happens all at once. It's slow. It's methodical. It's exhausting. We don't all have the stomach for it 
+- The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest
+- Every day we change the world. But to change the world in a way that means anything - that takes more time than most people have. It never happens all at once. It's slow. It's methodical. It's exhausting. We don't all have the stomach for it
 - You want to be the first and last mover. Be the company that defines that area : Google / Amazon. Think of the end game, but do start.
 
 ## Socialism
@@ -121,7 +121,7 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - [His communication is great. He's a great communicator. Believe me. He's communicated with a lot of people and he's top notch. Very top notch. A lot of people ask him "How do you do it?" and trust me when I say, he's great. And we're gonna have a lot more communication with him in charge, you can bet on that. China doesn't even communicate, but I'm telling you, he does it and it's just terrific.](https://www.reddit.com/r/worldnews/comments/5rjv9n/trump_told_australian_prime_minister_refugee/dd7vme2/)
 - if you haven’t automatically destroyed something by mistake, you are not automating enough
 - A junior software engineer is a function that maps programs to excuses.
-- The Muskonauts figured out why their shit exploded. Hackernews, literally all of whom are actual rocket scientists, wonders if unit tests could have helped. 
+- The Muskonauts figured out why their shit exploded. Hackernews, literally all of whom are actual rocket scientists, wonders if unit tests could have helped.
 - An astronaut has passed away. He retired from NASA in 1976, since which time humanity has been phoning it in with this whole space-travel scene. Half of Hackernews recognizes this as the massive failure it is; the other half seizes the opportunity to virtue-signal about all the other problems nobody's fixing.
 - Some people Instagram their food. On Hackernews, foodie cred is earned by bragging about what you don't eat. Sugar. Bread. Dairy. Meat. Caffeine. All of these are linked by science to early stroke, heart attack, cancer, and/or obesity. In addition, to live a long healthy life you need to tend to the bacteria living in your intestine like a Sea Monkey colony -- and don't forget to meditate frequently. I bet you can figure out where all this is headed -- and yes, when a very scientific study was published indicating eating nothing at all gave you regenerative superpowers, the Hackernews dietary virtue-signalers lost their collective mind.
 - [Technologically current X.org resembles a trashcan with rockets taped on it.](https://www.reddit.com/r/linux/comments/5x9gvw/what_are_the_advantages_of_mirwayland_over_xorg/degf6ch/)
@@ -153,7 +153,7 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - The whole point of JavaScript libraries is to abstract away the browser’s internal API and provide a different, better API instead.
 - [To be able to speak, one must listen. To be able to write (code), one must read (code)](https://medium.com/@jochasinga/dear-novice-developers-e95ce344de09#.i59gt5nym)
 - [The line of code that the developer can write the fastest, the line of code that the developer can maintain the cheapest, and the line of code that never breaks for the user, is the line of code that the developer never had to write.](https://www.youtube.com/watch?v=dl0CbKYUFTY)
-- it's better for your tool to be dumb and work in predictable ways than to implement surprising "convenience" behaviours. The presence of magic numbers set by default is a good indicator that some tool is too "smart" for its own good and will cause you grief. 
+- it's better for your tool to be dumb and work in predictable ways than to implement surprising "convenience" behaviours. The presence of magic numbers set by default is a good indicator that some tool is too "smart" for its own good and will cause you grief.
 
 ## Business
 - Stop thinking about making a million dollars and start thinking about serving a million people
@@ -178,15 +178,15 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - The best startup book is one you never open because you're too busy marketing and building your product.
 
 ## Psychedelics
-- [Some people say that we’ve been here before.That we don’t live just once, but hundreds of times.](http://www.jamesreads.com/about/) 
+- [Some people say that we’ve been here before.That we don’t live just once, but hundreds of times.](http://www.jamesreads.com/about/)
 	- Some people say that we have soulmates, not just one, but many. And that we meet again and again throughout our lives.
-	- Some people like to keep their minds on other things. And so they spend their whole lives looking for answers to the wrong questions. 
+	- Some people like to keep their minds on other things. And so they spend their whole lives looking for answers to the wrong questions.
 	- But what if the many secrets of life and death were not as unknown as we’ve been taught to believe?
-	- Maybe, if you just shift your mind ever so slightly just an inch to the left you’ll see what I mean. 
+	- Maybe, if you just shift your mind ever so slightly just an inch to the left you’ll see what I mean.
 	- You’ll know when it happens. It will feel like a hundred sunsets hitting you all at once.
 	- It’s a difficult feeling to explain, maybe you have felt it before. It’s sort of like old friends meeting, or the dawn breaking into the night after a thousand years of darkness.
 	- But if I really told you the secrets of the universe,  you probably wouldn’t believe me.
-	- So I am here to remind you of how it used to be. No longer just the distance of a memory but instead something completely clear  as if it were only yesterday. 
+	- So I am here to remind you of how it used to be. No longer just the distance of a memory but instead something completely clear  as if it were only yesterday.
 - Without salt, an egg is no fun to eat
 - [I was no longer afraid to live my life ](https://www.reddit.com/r/Psychonaut/comments/5zimh9/first_dmt_experience_i_wasnt_ready/dez65cg/)
 
@@ -223,8 +223,8 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - So then, let’s suppose that you were able every night to dream any dream you wanted to dream, and that you could for example have the power within one night to dream 75 years of time, or any length of time you wanted to have.
 	- And you would, naturally, as you began on this adventure of dreams, you would fulfill all your wishes. You would have every kind of pleasure during your sleep. And after several nights of 75 years of total pleasure each you would say “Well that was pretty great”. But now let’s have a surprise, let’s have a dream which isn’t under control, where something is gonna happen to me that I don’t know what it's gonna be.
 	- And you would dig that and would come out of that and you would say “Wow that was a close shave, wasn’t it?”. Then you would get more and more adventurous and you would make further- and further-out gambles what you would dream. And finally, you would dream where you are now. You would dream the dream of living the life that you are actually living today.
-	- That would be within the infinite multiplicity of choices you would have. Of playing that you weren't god, because the whole nature of the godhead, according to this idea, is to play that he is not. So in this idea then, everybody is fundamentally the ultimate reality, not god in a politically kingly sense, but god in the sense of being the self, the deep-down basic whatever there is. And you are all that, only you are pretending you are not. 
-- Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water. 
+	- That would be within the infinite multiplicity of choices you would have. Of playing that you weren't god, because the whole nature of the godhead, according to this idea, is to play that he is not. So in this idea then, everybody is fundamentally the ultimate reality, not god in a politically kingly sense, but god in the sense of being the self, the deep-down basic whatever there is. And you are all that, only you are pretending you are not.
+- Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water.
 
 ## Products
 - Apple often doesn't invent the whole thing, but definitely puts a usable version on the market.
@@ -246,7 +246,7 @@ And here are a few quotes that didn't make both of those lists but I still liked
 
 ## Thinking
 - Just because other people are idiots doesn't mean we should be.
-- Think for yourself, question authority 
+- Think for yourself, question authority
 
 ## Planning
 - Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
@@ -279,10 +279,10 @@ And here are a few quotes that didn't make both of those lists but I still liked
 
 ## Work
 - You are a business, your skills are the product. Treat it like that.
-- Show, don't tell 
+- Show, don't tell
 - You don't remember the work, you remember the exhilaration.
 	- Robert Herjavec
-- You don't pay a plumber to bang on your pipes, you pay them to know where to bang 
+- You don't pay a plumber to bang on your pipes, you pay them to know where to bang
 - If you think a pro is expensive, wait until you have to fix the work of an amateur
 
 ## Intelligence
@@ -331,8 +331,8 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity.
 	- Angus K. Rodgers
 - fractals are shapes with a non-integer dimension
-- She, like many, had always thought that mathematics did not derive its meaning from the universe, but rather imposed some meaning onto the universe. 
-- Geometry without algebra is dumb! Algebra without geometry is blind! 
+- She, like many, had always thought that mathematics did not derive its meaning from the universe, but rather imposed some meaning onto the universe.
+- Geometry without algebra is dumb! Algebra without geometry is blind!
 - Young man, in mathematics you don't understand things. You just get used to them.
 	- John von Neumann
 - Most people who are "Bad At Math" simply don't have the fundamentals down. It happens in school where, if you don't have a concept well understood, too bad we're onto the next topic. And you don't have the skills to cope with the new topic. You fall behind and it's kind of over unless you really apply yourself.
@@ -346,7 +346,7 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - To know who your true friends are, look out for the ones who say good things behind your back and bad things to your face.
 
 ## Awareness
-- Today a young man on acid realized that all matter is merely energy condensed to a slow vibration, that we are all one consciousness experiencing itself subjectively, there is no such thing as death, life is only a dream, and we are the imagination of ourselves. 
+- Today a young man on acid realized that all matter is merely energy condensed to a slow vibration, that we are all one consciousness experiencing itself subjectively, there is no such thing as death, life is only a dream, and we are the imagination of ourselves.
 	- now here’s Tom with the weather
 
 ## Learning
@@ -380,10 +380,10 @@ And here are a few quotes that didn't make both of those lists but I still liked
 
 ## Politics
 - Democracy is the worst form of government ... except for all those other forms that have been tried from time to time.
-- It is difficult to get a man to understand something, when his salary depends on his not understanding it 
+- It is difficult to get a man to understand something, when his salary depends on his not understanding it
 	- Upton Sinclair
 - Political battles are won with money not words
-- If you don't read the paper you are uninformed, if you do you are misinformed 
+- If you don't read the paper you are uninformed, if you do you are misinformed
 	- Mark Twain
 
 ## War
@@ -431,14 +431,14 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - Art washes from the soul, the dust from every day life
 
 ## Innovation
-- If others would think as hard as I did, then they would get similar results. 
+- If others would think as hard as I did, then they would get similar results.
 	- Newton
-- We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress. 
+- We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress.
 
 ## History
 - What is done cannot be undone, but one can prevent it happening again.
 	- Anne Frank
-- the philosophy of one century is the common sense of the next 
+- the philosophy of one century is the common sense of the next
 
 ## Design
 - You cannot understand good design if you do not understand people; design is made for people
@@ -451,7 +451,7 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - The essence of strategy is choosing what not to do.
 	- M. E. Porter
 - If it's not a hell yes, it's a no.
-- In the age of information, ignorance is a choice 
+- In the age of information, ignorance is a choice
 	- Donny Miller
 
 ## Nutrition

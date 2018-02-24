@@ -3,6 +3,10 @@ Focusing on the things I need to be doing is quite hard and I am always trying t
 
 My main goal with focusing is reaching the [state of flow](flow/flow.md) as soon as possible and keeping it for as long as possible throughout the day.
 
+## Focusing on what's important
+I keep a private Trello board where I outline things that I want to focus on in life and achieve. I try to not work on long periods of time and predict things in advance for over three month and instead work in very short time frames whilist having some end goal(s) in mind of what I ultimately want to achieve. Here is how my __Focus__ Trello board looks:
+![](https://i.imgur.com/siqjXwz.png)
+
 ## Things that help me
 - I use [Focus app](https://heyfocus.com) to block a particular set of websites for 90 minutes (front pages of Hacker News, Reddit, ..).
 - And I like to listen to some stimulating music. Lately been enjoying listening to [this](spotify:user:nikitavoloboev:playlist:0epiRzQHjdJieYr0y3TdST).

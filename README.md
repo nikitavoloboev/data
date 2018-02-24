@@ -6,7 +6,7 @@ If this is your first time visiting this wiki, take a look [here](meta/meta.md) 
 ## Using the Wiki Well
 In the left corner you can make searches for what content I have already indexed or you can simply explore the tree view to the left.
 
-Aside from this, you can also explore [Learn Anything](https://learn-anything.xyz) for things that you can learn about and I will often reference it from these notes.
+Aside from this wiki, you can also explore [Learn Anything](https://learn-anything.xyz) for things that you can learn about.
 
 You can access any entry from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow which alongside this wiki here, also searches through [various mind maps I've made](meta/my-mind.md).
 
