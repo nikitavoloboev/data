@@ -3,7 +3,7 @@ Some simple rules to follow for myself doing things.
 
 ## Life
 - Simplify as much as possible. Never repeat myself.
-- Remember the [lessons I learned](../../life/lessons-learned.md). So as to not repeat the mistakes I have made.
+- Remember the [lessons I learned](../../sharing/lessons-learned.md). So as to not repeat the mistakes I have made.
 
 ## Nutrition
 - No processed sugar. No food with extra sugar in it.

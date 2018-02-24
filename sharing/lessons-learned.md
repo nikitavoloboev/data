@@ -1,4 +1,6 @@
 # Lessons learned
+Things I have learned in life. To remind myself not to repeat the mistakes I have made.
+
 ## Life
 - Prioritise.
 	- Do the important things first.
