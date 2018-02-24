@@ -29,7 +29,7 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 - Write more.
 	- Document my thoughts and findings and share it. Research really well the topic I am trying to share. Make sure I don’t repeat what has been said before and if it was. Link to it and make my own observations and conclusions.
 - Remove friction.
-	- In whatever I are doing, try to remove as much friction as possible.
+	- In whatever I am doing, try to remove as much friction as possible.
 	- Try to practice self documentation. For example don't try to to map things in one app and then try to outline the mappings in another. Try to make the process self documenting and remove the friction of going and keeping the documentation up-to-date. Only do it where it is really necessary and helpful.
 - Track my expenses.
 - Get into the [flow state](../productivity/flow/flow.md) as early as possible during the day.
@@ -78,7 +78,7 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 - Change location.
 	- Work from different places.
 	- Meet new people.
-	- I are not productive staying in the same spot for too long.
+	- I am not productive staying in the same spot for too long.
 - Focus on the foundations fist.
 	- Health (Exercise and Nutrition).
 	- Good state of mind.
@@ -127,9 +127,9 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 
 ## Asking questions
 - When posting an error or an issue on some forum or GitHub, give as much information as I can to help debug it.
-	- In the case of posting an issue with an Alfred workflow, it is best to link to the workflow I are using and also link what the debugger says when I are running into the issue.
+	- In the case of posting an issue with an Alfred workflow, it is best to link to the workflow itself and also link what the debugger says when I am running into the issue.
 - When asking for feedback, never ask people if they like the product I built. Ask them whether they don't like anything.
-	- If I ask them if they like it, there is a high chance they will not say what they dislike because they will fear to hurt I. As if I are asking for validation.
+	- If I ask them if they like it, there is a high chance they will not say what they dislike because they will fear to hurt I. As if I am asking for validation.
 	- Critical feedback and opinion is most useful for feedback.
 
 ## Social media
