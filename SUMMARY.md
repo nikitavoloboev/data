@@ -77,6 +77,7 @@
 	- [JXA](macOS/jxa.md)
 	- [Applescript](macOS/applescript.md)
 - [iOS](iOS/iOS.md)
+- [Hardware](hardware/hardware.md)
 - [Ideas](ideas/ideas.md)
 	- [Crafting ideas](ideas/crafting-ideas.md)
 - [Math](math/math.md)

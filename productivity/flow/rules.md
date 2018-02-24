@@ -24,6 +24,23 @@ Some simple rules to follow for myself doing things.
 - No meat or dairy products. Health and [ethical reasons](../../life/compassion.md).
 - Focus on Whole Food, Plant-Based diet.
 
+## Writing
+- Use proper punctuation and capitalise things appropriately.
+- When adding __:__, don't add space beforehand.
+- When making tasks (2Do, Trello, GitHub issues), use imperative tense.
+- Remove unnecessary and _filler_ words.
+	- If something can be said in less words, say it in less words.
+	- Always try to be clear and to the point.
+- Both in code and prose. Say more with less and never repeat myself.
+- Minimise using word _here_.
+	- When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
+
+## Markdown
+- Don't leave unnecessary whitespace between headings and text.
+- Don't need to add __:__ to the end of text when adding image below as it is implicit.
+- Only use HTML to adjust the image if the original size is not what I need. Don't adjust images blindly and check how the final image looks rendered compared to the text.
+- Use __Bold__ for strong emphasis. Use _Italic_ for soft emphasis. And `code quotes` for actual code, variables, path names and quoting inline (in same sentence).
+
 ## Wiki
 - Describe links on the same line with __-__ separator (if needs more description, then sub dash).
 - Don't repeat myself or anyone else. If something has already been said either by me or someone else, link to it (especially in this wiki).
@@ -33,6 +50,24 @@ Some simple rules to follow for myself doing things.
 - If I am watching a talk, it is best not to jot down notes from the talk itself but capture ideas and note down these ideas in the wiki, sometimes referencing the talk where the idea or insight was taken from for context.
 - Think about structuring the content and entries as I add new entries. Should a new category be added for the topic (thing) and under what category should the entry be placed.
 - If I move a file anywhere in the wiki, make sure to search for the path to the file in the entire wiki and change the references to the previous file with new one.
+
+## GitHub
+- Add appropriate topics to each repo.
+- Make many experiments and share them.
+- Add credits to repos and acknowledge work of people I am using at end of repos. Under __# Credits__.
+- Use relative links instead of hard wired links. For example in GitHub you can use `../../issues/` to reference issues of current repo from readme.
+
+## GitHub README
+- Use HTML for rendering images if I need control on their size and position.
+- Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links). Don't repeat what is said in the quote in the description underneath the quote.
+- If the README is long enough, add a __Contents__ reference table. Can omit Contents heading.
+- Don't add anything that is not needed and focus on the content.
+- Add a way to visually show the workflow/library in action where appropriate.
+- Don't link to Imgur images as links, render them in the GitHub README itself.
+- In screenshots of Alfred prompts and other prompts, show the cursor.
+- Add __Related__ section to most repos linking to similar projects either of my own or of other. Not all projects need this.
+- Don't add Thank You clause in _idea_ stage projects.
+- Don't add _Say Thanks_ badge on curated lists.
 
 ## Adding resources (links)
 - When adding resources and bookmarks. Priorotise adding them to LA curated lists first and LA itself (not Trello). The goal of the wiki is to mostly contain my own notes and references.
@@ -70,41 +105,6 @@ Some simple rules to follow for myself doing things.
 ## Karabiner
 - Try to make semantic mappings and chunk mappings by theme or context.
 - Prefix variable names by action (i.e. EDIT/OPEN/ALFRED). Each variable name should be descriptive.
-
-## Writing
-- Use proper punctuation and capitalise things appropriately.
-- When adding __:__, don't add space beforehand.
-- When making tasks (2Do, Trello, GitHub issues), use imperative tense.
-- Remove unnecessary and _filler_ words.
-	- If something can be said in less words, say it in less words.
-	- Always try to be clear and to the point.
-- Both in code and prose. Say more with less and never repeat myself.
-- Minimise using word _here_.
-	- When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
-
-## Markdown
-- Don't leave unnecessary whitespace between headings and text.
-- Don't need to add __:__ to the end of text when adding image below as it is implicit.
-- Only use HTML to adjust the image if the original size is not what I need. Don't adjust images blindly and check how the final image looks rendered compared to the text.
-- Use __Bold__ for strong emphasis. Use _Italic_ for soft emphasis. And `code quotes` for actual code, variables, path names and quoting inline (in same sentence).
-
-## GitHub
-- Add appropriate topics to each repo.
-- Make many experiments and share them.
-- Add credits to repos and acknowledge work of people I am using at end of repos. Under __# Credits__.
-- Use relative links instead of hard wired links. For example in GitHub you can use `../../issues/` to reference issues of current repo from readme.
-
-## GitHub README
-- Use HTML for rendering images if I need control on their size and position.
-- Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links). Don't repeat what is said in the quote in the description underneath the quote.
-- If the README is long enough, add a __Contents__ reference table. Can omit Contents heading.
-- Don't add anything that is not needed and focus on the content.
-- Add a way to visually show the workflow/library in action where appropriate.
-- Don't link to Imgur images as links, render them in the GitHub README itself.
-- In screenshots of Alfred prompts and other prompts, show the cursor.
-- Add __Related__ section to most repos linking to similar projects either of my own or of other. Not all projects need this.
-- Don't add Thank You clause in _idea_ stage projects.
-- Don't add _Say Thanks_ badge on curated lists.
 
 ## Alfred
 - Keyword triggers should be one string (no spaces). Try to make keyword be semantically appropriate to workflow and easy to memorise and type.

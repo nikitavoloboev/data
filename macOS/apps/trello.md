@@ -3,6 +3,8 @@ I use the app a lot to track various ongoing things I have in my life.
 
 I share many boards I have [publically](../../sharing/my-trello.md).
 
+I nearly always use two labels: `Important` and `Next`. And I mark the cards I am working on and set deadlines on most cards.
+
 ## Notes
 - You can attach link to card by simply selecting card and pressing `⌘ + V`.
 	- You can also add a link as a new card itself by simply `⌘ + V`ing in the new card area. This will also fetch the thumbnail and add that to the card and create an appropriate title.

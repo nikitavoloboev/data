@@ -20,6 +20,7 @@
 - (21) Removed my Karabiner mind map as I it is stupid to keep it in track with my actual config. It's better to optimise searching and self documenting the config itself in the code with comments.
 - (21) Going to start doing this kind of changelog more often. I really like it. With the date on the side. Software has change logs. Why not life?
 - (22) [Wrote about my workflow in making workflows](https://www.alfredforum.com/topic/11274-my-workflow-in-making-workflows).
+- (24) [LA just hit 9,500 ⭐ on GitHub.](https://twitter.com/learnanything_/status/967486070807023623)
 
 ## Thoughts
 - I am thinking how I can experiment with this monthly overview more. Aside from __Changes__ and the __Summary__ paragraph at the end of each month, I want to drop down some __thoughts__ I have too in some form. Just for prosterity. Plus I really do want to write more often, I think it's better to focus on that more rather than just dropping some random thoughts here.
