@@ -6,14 +6,14 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 	- Do the important things first.
 	- Define these _important_ things for myself and be clear with what I want to achieve.
 - Be consistent.
-	- Define my own [rules](../productivity/flow/rules.md) and follow them. Adjust the rules and my workflow to match what you have learned.
+	- Define my own [rules](../productivity/flow/rules.md) and follow them. Adjust the rules and my workflow to match what I have learned.
 - Do things that scale.
-	- Try find solutions that will scale with time. Ideally try to come up with solutions to problems that don't just help you but help other people solve a problem.
+	- Try find solutions that will scale with time. Ideally try to come up with solutions to problems that don't just help I but help other people solve a problem.
 - Don't repeat what other people have already done.
 	- If possible reuse other people's work as much as possible to create new and novel things.
 - Don't compare myself to other people.
 - Make friends with imperfection.
-	- Enjoy and cherish the process and never fixate on the result. Projects, articles, ideas will evolve with time and will never be what you first envisioned them to be. But you can only know that when you start and try make it.
+	- Enjoy and cherish the process and never fixate on the result. Projects, articles, ideas will evolve with time and will never be what I first envisioned them to be. But I can only know that when I start and try make it.
 - Just start.
 	- Getting distracted is easy but starting is hard.
 - Move fast.
@@ -29,7 +29,7 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 - Write more.
 	- Document my thoughts and findings and share it. Research really well the topic I am trying to share. Make sure I don’t repeat what has been said before and if it was. Link to it and make my own observations and conclusions.
 - Remove friction.
-	- In whatever you are doing, try to remove as much friction as possible.
+	- In whatever I are doing, try to remove as much friction as possible.
 	- Try to practice self documentation. For example don't try to to map things in one app and then try to outline the mappings in another. Try to make the process self documenting and remove the friction of going and keeping the documentation up-to-date. Only do it where it is really necessary and helpful.
 - Track my expenses.
 - Get into the [flow state](../productivity/flow/flow.md) as early as possible during the day.
@@ -53,10 +53,10 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 - Read documentation.
 	- It saves a lot of time.
 - Keep receipts of expensive purchases.
-	- You never know what happens and a lot of more expensive items have warranty.
+	- I never know what happens and a lot of more expensive items have warranty.
 - Specialise.
 	- Don’t jump at everything and try to know it all.
-	- Be really great at one thing and then you can branch out.
+	- Be really great at one thing and then I can branch out.
 - Check everything once I leave a room.
 	- Did I forget anything?
 - Learn from my mistakes.
@@ -67,7 +67,7 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 - Simplicity matters.
 	- Don't overcomplicate things for no reason.
 - Try to avoid confusion as much as possible.
-	- Don't use anything only you can understand and release it in the public.
+	- Don't use anything only I can understand and release it in the public.
 - Ask questions.
 	- Asking questions is a a great thing and being stuck on the same problem or being oblivious how to do some thing is not always a great thing.
 	- Be wary of how to [ask questions the right way](../research/asking-questions.md).
@@ -78,7 +78,7 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 - Change location.
 	- Work from different places.
 	- Meet new people.
-	- You are not productive staying in the same spot for too long.
+	- I are not productive staying in the same spot for too long.
 - Focus on the foundations fist.
 	- Health (Exercise and Nutrition).
 	- Good state of mind.
@@ -87,12 +87,12 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 	- Try out any new ideas I have (it is the only way to see if the idea is any good).
 	- Don't be afraid to fail.
 - Publish my work and share it.
-	- Any feedback you can get is very valuable. Plus it helps as many people would probably love to use/read about what you have made. But they will never know if you don't share it.
+	- Any feedback I can get is very valuable. Plus it helps as many people would probably love to use/read about what I have made. But they will never know if I don't share it.
 - Use my brain.
 	- Actually think about the problems I have and things I can do with what I have instead of giving up and resorting to other things or exterior help. Think first.
 - Share.
-	- Without sharing the things you have made, there's a very slim chance someone will ever see them.
-- Don't overthink things to the point of not doing anything. If you can't find a reason why not to do something, it's often much better to just do the thing and see where it takes you.
+	- Without sharing the things I have made, there's a very slim chance someone will ever see them.
+- Don't overthink things to the point of not doing anything. If I can't find a reason why not to do something, it's often much better to just do the thing and see where it takes I.
 - Take it easy.
 	- Don't stress myself too much about not achieving things I want to achieve. What's important is that I try and ideally love what I am doing. Everything else is not worth worrying about.
 
@@ -105,13 +105,13 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 - Comment over my code to explain anything that isn't obvious.
 - Run/Right/Fast.
 	- Make the code work I write is working. Then I can make it fast (if necessary). Solving the “correct/clean/performant code” problem all at once can be overwhelming. Don’t be overwhelmed. Solve one at a time.
-- Reducing the maintenance burden is, for most codebases, the biggest optimization you can do.
+- Reducing the maintenance burden is, for most codebases, the biggest optimization I can do.
 	- Of course it's all about striking a balance, but 99% of the time there is a choice between performance and readability, readability is the right answer. Performance should only be chosen if it is absolutely necessary.
-- If you write ugly code, anyone who intends to fix a bug or add a feature will not enjoy his work and likely avoid it next time.
+- If I write ugly code, anyone who intends to fix a bug or add a feature will not enjoy his work and likely avoid it next time.
 
 ## Git
 - Use version control.
-	- It is a pain to reverse and fix things when you don't know where the problem is.
+	- It is a pain to reverse and fix things when I don't know where the problem is.
 - Commit all my changes. Do __atomic__ commits. Write proper descriptive commit messages.
 
 ## Learning
@@ -126,10 +126,10 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 - Slow down. Think about the problem. Don't rush things.
 
 ## Asking questions
-- When posting an error or an issue on some forum or GitHub, give as much information as you can to help debug it.
-	- In the case of posting an issue with an Alfred workflow, it is best to link to the workflow you are using and also link what the debugger says when you are running into the issue.
-- When asking for feedback, never ask people if they like the product you built. Ask them whether they don't like anything.
-	- If you ask them if they like it, there is a high chance they will not say what they dislike because they will fear to hurt you. As if you are asking for validation.
+- When posting an error or an issue on some forum or GitHub, give as much information as I can to help debug it.
+	- In the case of posting an issue with an Alfred workflow, it is best to link to the workflow I are using and also link what the debugger says when I are running into the issue.
+- When asking for feedback, never ask people if they like the product I built. Ask them whether they don't like anything.
+	- If I ask them if they like it, there is a high chance they will not say what they dislike because they will fear to hurt I. As if I are asking for validation.
 	- Critical feedback and opinion is most useful for feedback.
 
 ## Social media
@@ -146,7 +146,7 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 - Minimise inputs to the macros. Sometimes it's possible that the input I need to a macro, I can get from another place within the macro itself.
 
 ## Focusing
-- Good jazz or downtempo music is really amazing as background music. Together with low sound of rain or thunder, it really makes you focus and get lost in what you're doing.
+- Good jazz or downtempo music is really amazing as background music. Together with low sound of rain or thunder, it really makes I focus and get lost in what I're doing.
 
 ## Other
 - When proposing feature requests, _"for me"_ is never a good argument for a feature request.
