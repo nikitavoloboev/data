@@ -101,6 +101,7 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 	- I have the power to uplift friends and strangers with every interaction, large or small.
 
 ## Code
+- [Readability Matters More Than Correctness](https://xph.us/2017/04/23/readability.html)
 - It’s a lot easier to actually just use one screen. Much easier to context switch.
 - Comment over my code to explain anything that isn't obvious.
 - Run/Right/Fast.

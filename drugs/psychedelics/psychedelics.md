@@ -11,6 +11,17 @@ But as will all things, _moderation is key_. Or as in the case with psychedelics
 
 > _"When you get the message, hang up the phone"_
 
+## Interesting psychedelics
+- [DMT](dmt.md)
+- 2C-E
+- 5-MeO-DMT - Pure ego death.
+- N,N-DMT
+- 4-AcO-DMT
+- 4-AcO-MiPT
+- 4-HO-MET
+- 5-HO-DMT
+- 5-meo-MIPT
+
 ## Notes
 - [I believe that everything is the creator. People and animals are the creator looking through different eyes.](https://www.reddit.com/r/Psychonaut/comments/7811jc/have_psychedelic_experiences_changed_your_view_of/doq5ia1/)
 	- Psychedelics made me realise how intricate reality really is. They added this thought that maybe there’s something more real than real.

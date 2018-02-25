@@ -3,7 +3,7 @@ I use the app a lot to track various ongoing things I have in my life.
 
 I share many boards I have [publically](../../sharing/my-trello.md).
 
-I nearly always use two labels: `Important` and `Next`. And I mark the cards I am working on and set deadlines on most cards.
+I nearly always use two labels: __Important__ and __Next__. And I mark the cards I am working on and set deadlines on most cards.
 
 ## Notes
 - You can attach link to card by simply selecting card and pressing `⌘ + V`.

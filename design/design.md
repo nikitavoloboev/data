@@ -11,3 +11,4 @@ Thus I try to be conscious of how my design decisions affect what I do.
 - [Findguidelin](http://www.findguidelin.es/) - The fastest way to brand assets.
 - [Brand Style Guide Examples](https://saijogeorge.com/brand-style-guide-examples/)
 - [Intenion - ad by Apple](https://www.youtube.com/watch?v=LcGPI2tV2yY)
+- [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)

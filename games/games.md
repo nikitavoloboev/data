@@ -18,3 +18,7 @@ I keep a [Trello board](https://trello.com/b/EekGabpj) of games I am playing now
 
 ## Games played
 I track all the games I have played [here](https://www.grouvee.com/user/nikivi/).
+
+## Links
+- [Games where you write code: part I](https://habrahabr.ru/company/mailru/blog/328806/)
+	- [part II](https://habrahabr.ru/company/mailru/blog/349546/)

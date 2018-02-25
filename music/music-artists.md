@@ -3,6 +3,7 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 
 ## Favourite artists
 - [Mounika](https://soundcloud.com/mounika-beat) - [I Feel love](https://www.youtube.com/watch?v=OM97kdCa99s) | [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) | [Stay Here](https://www.youtube.com/watch?v=-RTOrm50Q8w) | [Love You Sweet It's What I Do](https://www.youtube.com/watch?v=55EANOPFunw)
+- [Maribou State](https://soundcloud.com/mariboustate) - [Manila](https://www.youtube.com/watch?v=BNs8pnOgtEw) | [Bricks](https://www.youtube.com/watch?v=0Z7PUEHb3e8)
 - [Boogie Belgique](https://soundcloud.com/boogiebelgique) - [Once have I](https://www.youtube.com/watch?v=a0ukwowW2Z0) | [Need somebody](https://www.youtube.com/watch?v=9jKfexL3TNc) | [Every Time](https://www.youtube.com/watch?v=-svrq8P3RYo)
 - [Nils Frahm](https://soundcloud.com/nils_frahm) - [My Friend the Forest](https://www.youtube.com/watch?v=d99p-SPn5Tc) | [Evening with Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po)
 - [Shigeto](https://soundcloud.com/shigeto) - [Ann Arbor Part 3 & 4](https://www.youtube.com/watch?v=0ZRM3hrn0hM) | [Detroit Part 1](https://www.youtube.com/watch?v=aG6Z_-iE4lI)
@@ -99,7 +100,6 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Balam Acab](https://soundcloud.com/balamacab) - [Motion](https://www.youtube.com/watch?v=TacuLI4wOww)
 - [Favela](https://soundcloud.com/favelamusic) - [Future Visions](https://www.youtube.com/watch?v=bdmsK7x7HKY)
 - [Message to Bears](https://soundcloud.com/messagetobears) - [Moonlight](https://www.youtube.com/watch?v=zFmKLFpRh_Q)
-- [Maribou State](https://soundcloud.com/mariboustate) - [Manila](https://www.youtube.com/watch?v=BNs8pnOgtEw)
 - [Charlie Cunningham](https://soundcloud.com/charliecunningham) - [Plans](https://www.youtube.com/watch?v=4SKYrslreBY)
 - [Trifonic](https://soundcloud.com/trifonic) - [Ninth Wave](https://www.youtube.com/watch?v=7oQDBxhtFHw)
 - [Eyes on the Shore](https://soundcloud.com/eyes-on-the-shore) - [Washed Away](https://www.youtube.com/watch?v=iXOVB4BPt2U)

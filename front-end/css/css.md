@@ -6,3 +6,7 @@
 - Classes are NOT unique.
 	- You can use the same class on multiple elements.
 	- You can use multiple classes on the same element.
+
+## Links
+- [Code guide by @mdo](http://codeguide.co/)
+- [CSS reference](https://cssreference.io/)

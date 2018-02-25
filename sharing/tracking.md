@@ -22,7 +22,7 @@ Here is a list of various things I track for my own use and reference.
 - [Last.fm](https://www.last.fm/user/playfullyExist) - Music I am listening to now and music I listened to in the past.
 
 ## Coding
-- [Wakatime](https://wakatime.com/@nikivi) - The ratio of different programming languages I used this week together with the editors I used.
+- [Wakatime activity](https://wakatime.com/@nikivi) - The ratio of different programming languages I used this week together with the editors I used.
 
 ## Games
 - [Grouevee](https://www.grouvee.com/user/nikivi/) - [Games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) and [games I want to play](https://www.grouvee.com/user/nikivi/shelves/12652-wish-list/?num=25).
@@ -30,10 +30,13 @@ Here is a list of various things I track for my own use and reference.
 - [Playing Games](https://trello.com/b/EekGabpj) - Games I am playing now and want to play.
 
 ## Videos
-- [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists) - Various YouTube playlists I made.
+- [YouTube playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists) - Various YouTube playlists I made.
 
 ## Products
-- [Product Hunt](https://www.producthunt.com/@nikitavoloboev/collections) - Different collections of products and things I liked.
+- [Product Hunt collections](https://www.producthunt.com/@nikitavoloboev/collections) - Different collections of products and things I liked.
+
+## Code
+- [Codepen collections](https://codepen.io/collections/mycollections/)
 
 ## Design
-- [Dribble](https://dribbble.com/nikitavoloboev/buckets) - Various buckets of designs I liked. There is also a [big list of designs I liked](https://dribbble.com/nikitavoloboev/likes).
+- [Dribble buckets](https://dribbble.com/nikitavoloboev/buckets) - Various buckets of designs I liked. There is also a [big list of designs I liked](https://dribbble.com/nikitavoloboev/likes).

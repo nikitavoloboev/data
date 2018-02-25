@@ -21,6 +21,7 @@ Some simple rules to follow for myself doing things.
 ## Nutrition
 - No processed sugar. No food with extra sugar in it.
 - No drinks other than water, coffee and tea. No added sugar in the drinks.
+- Always have water/tea next to me when working on something. Fill up the water/tea if it empties.
 - No meat or dairy products. Health and [ethical reasons](../../life/compassion.md).
 - Focus on Whole Food, Plant-Based diet.
 
@@ -90,6 +91,7 @@ Some simple rules to follow for myself doing things.
 - Delimit files that have spaces with __-__ instead of __\___.
 - Write a small comment on top of the file to describe the purpose of the file. Where appropriate.
 - Use switch cases over long ifs.
+- Function name should describe what it does, not when it's run. Good function names summarize what happens inside.
 
 ## Commenting
 - In comments, don't write __Will ..__. Just write what it will do. Remove unnecessary (filler) words.
