@@ -9,3 +9,4 @@ I use my own Night Blue theme for it that you can download from [here](https://g
 
 ## Links
 - [Adding scripts](https://help.codeux.com/textual/Writing-Scripts.kb)
+- [How to hide your own joins in Textual](https://blog.jay2k1.com/2016/11/12/how-to-hide-your-own-joins-in-textual/)

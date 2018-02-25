@@ -53,7 +53,7 @@ Some simple rules to follow for myself doing things.
 - If I move a file anywhere in the wiki, make sure to search for the path to the file in the entire wiki and change the references to the previous file with new one.
 
 ## GitHub
-- Add appropriate topics to each repo.
+- Add appropriate topics to each repo. Add the languages used in the repo as topics.
 - Make many experiments and share them.
 - Add credits to repos and acknowledge work of people I am using at end of repos. Under __# Credits__.
 - Use relative links instead of hard wired links. For example in GitHub you can use `../../issues/` to reference issues of current repo from readme.
