@@ -21,7 +21,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Kaggle](https://www.kaggle.com/nikitavoloboev) - Practicing machine learning.
 - [Coursera](https://www.coursera.org/user/i/7d650aebf46b82dcd83832d8358301c6) - Doing various courses.
 - [Wiki](https://wiki.nikitavoloboev.xyz) - Everything I know.
-- [Khan Academy](https://www.khanacademy.org/profile/NikitaVoloboev/) - Getting up to speed with things quickly.
+- [Khan Academy](https://www.khanacademy.org/profile/nikivi) - Getting up to speed with things quickly.
 
 ## Music
 - [Soundcloud](https://soundcloud.com/nikitavoloboev) - Sharing music I like and the tunes I make.

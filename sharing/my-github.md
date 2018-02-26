@@ -6,7 +6,7 @@ The number between brackets shows the year I created the repo in. Repos with a �
 ## Learn Anything
 - [Learn Anything (2017) 🌟](https://github.com/learn-anything/learn-anything) - Search Interactive Maps to Learn Anything.
 - [Alfred Learn Anything (2017) 🌟](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search Learn Anything.
-- [Curated lists (2018) 🌟](https://github.com/learn-anything/curated-lists) - Interesting curated lists on various topics.
+- [Curated lists (2018) 🌟](https://github.com/learn-anything/curated-lists#curated-lists) - Interesting curated lists on various topics.
 
 ## Alfred
 - [Ask Create Share (2017) 🌟](https://github.com/nikitavoloboev/alfred-ask-create-share) - Create various Web Submissions (Stack exchange, Reddit and more).
@@ -39,8 +39,8 @@ The number between brackets shows the year I created the repo in. Repos with a �
 - [Karabiner generator (2018)💡](https://github.com/nikitavoloboev/karabiner-generator) - A small DSL to easily modify [Karabiner](https://github.com/tekezo/Karabiner-Elements) configuration.
 
 ## Curated
-- [Privacy Respecting (2017) 🌟](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software.
-- [Find work (2018)](https://github.com/nikitavoloboev/find-work) - Curated list of websites and resources to find work programming.
+- [Privacy Respecting (2017) 🌟](https://github.com/nikitavoloboev/privacy-respecting#privacy-respecting) - Curated List of Privacy Respecting Services and Software.
+- [Find work (2018)](https://github.com/nikitavoloboev/find-work#find-work-programming) - Curated list of websites and resources to find work programming.
 
 ## Practice
 - [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions for LeetCode in Python and Go.
