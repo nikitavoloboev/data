@@ -21,8 +21,8 @@
 - (21) Going to start doing this kind of changelog more often. I really like it. With the date on the side. Software has change logs. Why not life?
 - (22) [Wrote about my workflow in making workflows](https://www.alfredforum.com/topic/11274-my-workflow-in-making-workflows).
 - (24) [LA just hit 9,500 ⭐ on GitHub.](https://twitter.com/learnanything_/status/967486070807023623)
-- (27) Made a [Telegram group](https://t.me/macOSautomation) to share talk about all things macOS/iOS and automation.
-- (27) LA was included in a [PH Best of 2017 book](https://books.producthunt.com/bestof2017).
+- (27) Made a [Telegram group](https://t.me/macOSautomation) to share and talk about all things macOS/iOS and automation.
+- (27) LA was included in [Product Hunt Best of 2017 book](https://books.producthunt.com/bestof2017).
 
 ![](https://i.imgur.com/McMiW7W.png)
 

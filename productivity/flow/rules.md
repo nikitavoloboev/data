@@ -25,6 +25,11 @@ Some simple rules to follow for myself doing things.
 - No meat or dairy products. Health and [ethical reasons](../../life/compassion.md).
 - Focus on Whole Food, Plant-Based diet.
 
+## Social media
+- Twitter posts are first made in [looking back](../../looking-back/looking-back.md) and are always rallied to `Changes` section unless the tweet has no preserving value.
+	- Images if relevant can be linked and embedded too.
+- Instagram posts are rallied to `Photos` in [looking back](../../looking-back/looking-back.md). If taken on the phone, it can be done on the mac later or automated.
+
 ## Writing
 - Use proper punctuation and capitalise things appropriately.
 - When adding __:__, don't add space beforehand.

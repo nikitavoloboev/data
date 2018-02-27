@@ -189,6 +189,8 @@
 - [Fitness](fitness/fitness.md)
 - [Medicine](medicine/medicine.md)
 - [History](history/history.md)
+- [Business](business/business.md)
+	- [Pricing](business/pricing.md)
 - [Anki](anki/anki.md)
 	- [Anki decks](anki/anki-decks/anki-decks.md)
 - [Philosophy](philosophy/philosophy.md)
