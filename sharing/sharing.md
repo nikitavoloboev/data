@@ -20,13 +20,16 @@ I mostly make videos about macOS automation. [Here](my-youtube.md) are all the v
 ## Streaming on [Twitch](https://www.twitch.tv/niikivi)
 I sometimes stream some of the things I am building for fun on [Twitch](https://www.twitch.tv/niikivi). I try to explain things as I do them.
 
-## Curated Images on [Imgur](https://niikivi.imgur.com)
-I also curate many [Imgur albums](https://niikivi.imgur.com) of various things.
+## macOS/iOS group on [Telegram](https://t.me/macOSautomation)
+I love macOS and automation and made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS with focus on productivity.
 
 ## Ideas in [Trello](https://trello.com/b/alB1ryRP)
 My time is limited and I can't often do everything I wish. But I have many ideas so I put all of them [in the open](https://trello.com/b/alB1ryRP).
 
 I have [many more Trello boards](my-trello.md) I use and share.
+
+## Curated Images on [Imgur](https://niikivi.imgur.com)
+I also curate many [Imgur albums](https://niikivi.imgur.com) of various things.
 
 ## Knowledge in [this wiki](https://wiki.nikitavoloboev.xyz)
 I share [everything I know](everything-I-know.md) in form of this wiki here. Can be easily queried with the search in top left corner and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
