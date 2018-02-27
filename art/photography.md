@@ -6,7 +6,6 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 - [Michael Kenna](http://www.michaelkenna.net/gallery.php?id=22)
 - [Kenneth Reitz](https://500px.com/kennethreitz)
 - [Simen Johan](http://www.simenjohan.com/x/index.html)
-- [Valeriya Prokopova](https://www.instagram.com/valeriyaprokopova/)
 - [Samuel Zeller](https://archive.samuelzeller.ch/) - His [Botanical](https://www.samuelzeller.ch/botanical) project is really awesome.
 
 ## Links

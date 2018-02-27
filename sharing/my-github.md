@@ -6,13 +6,12 @@ The number between brackets shows the year I created the repo in. Repos with a �
 ## Learn Anything
 - [Learn Anything (2017) 🌟](https://github.com/learn-anything/learn-anything) - Search Interactive Maps to Learn Anything.
 - [Alfred Learn Anything (2017) 🌟](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search Learn Anything.
-- [Curated lists (2018) 🌟](https://github.com/learn-anything/curated-lists#curated-lists) - Interesting curated lists on various topics.
+- [Curated lists (2018) 🌟](https://github.com/learn-anything/curated-lists#readme) - Interesting curated lists on various topics.
 
 ## Alfred
 - [Ask Create Share (2017) 🌟](https://github.com/nikitavoloboev/alfred-ask-create-share) - Create various Web Submissions (Stack exchange, Reddit and more).
 - [Web Searches (2017) 🌟](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web (easily extendable list).
 - [My Mind (2017) 🌟](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my notes and bookmarks on the web.
-- [Birthday (2017)](https://github.com/nikitavoloboev/alfred-birthday) - Showcase how much time passed since your birthday.
 - [Small Workflows (2017) 🌟](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
 - [Awesome Lists (2017) 🌟](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds.
 - [GitHub users (2018) 💡](https://github.com/nikitavoloboev/alfred-github-users) - Search people you follow on GitHub.
@@ -36,11 +35,11 @@ The number between brackets shows the year I created the repo in. Repos with a �
 - [Al (2017) 💡](https://github.com/nikitavoloboev/al) - Find your aliases and shell functions.
 
 ## Tools
-- [Karabiner generator (2018)💡](https://github.com/nikitavoloboev/karabiner-generator) - A small DSL to easily modify [Karabiner](https://github.com/tekezo/Karabiner-Elements) configuration.
+- [Karabiner generator (2018) 💡](https://github.com/nikitavoloboev/karabiner-generator) - A small DSL to easily modify [Karabiner](https://github.com/tekezo/Karabiner-Elements) configuration.
 
 ## Curated
-- [Privacy Respecting (2017) 🌟](https://github.com/nikitavoloboev/privacy-respecting#privacy-respecting) - Curated List of Privacy Respecting Services and Software.
-- [Find work (2018)](https://github.com/nikitavoloboev/find-work#find-work-programming) - Curated list of websites and resources to find work programming.
+- [Privacy Respecting (2017) 🌟](https://github.com/nikitavoloboev/privacy-respecting#readme) - Curated List of Privacy Respecting Services and Software.
+- [Find work (2018)](https://github.com/nikitavoloboev/find-work#readme) - Curated list of websites and resources to find work programming.
 
 ## Practice
 - [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions for LeetCode in Python and Go.
