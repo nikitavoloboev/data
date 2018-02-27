@@ -8,3 +8,4 @@
 - [Your number ONE most profound realisation after taking DMT...](https://www.reddit.com/r/DMT/comments/7mnp7f/your_number_one_most_profound_realisation_after/)
 - [Mario in hyperspace](https://www.youtube.com/watch?v=uFqE0uyD2H4&feature=youtu.be)
 - [The Hyperbolic Geometry of DMT Experiences: Symmetries, Sheets, and Saddled Scenes](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/)
+- [The Machine vaporizer](https://wiki.dmt-nexus.me/The_Machine)

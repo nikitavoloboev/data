@@ -22,7 +22,7 @@ The number between brackets shows the year I created the repo in. Repos with a �
 - [Dotfiles (2016) 🌟](https://github.com/nikitavoloboev/dotfiles) - Zsh, Neovim, Karabiner, Hammerspoon, VS Code.
 - [My macOS (2016) 🌟](https://github.com/nikitavoloboev/my-mac-os) - A list of applications and various tools that make my macOS experience even more amazing.
 - [My iOS (2016) 🌟](https://github.com/nikitavoloboev/my-ios) - A list of applications and tools I use that make my iOS experience even more amazing.
-- [AMA (2017) 🌟](https://github.com/nikitavoloboev/ama) - Ask me anything.
+- [AMA (2017) 🌟](https://github.com/nikitavoloboev/ama#readme) - Ask me anything.
 - [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.github.io) - My personal home on the internet.
 - [Knowledge (2017) 🌟](https://github.com/nikitavoloboev/my-knowledge) - Everything I know.
 

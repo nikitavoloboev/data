@@ -1,5 +1,5 @@
 # Alan Watts
-Alan Watts is most certainly my favourite person I wish I knew. Fortunately he wrote a few books and did many talks.
+Alan Watts is most certainly my favourite person I wish I knew. Fortunately he wrote a [few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts?from_search=true) and did [many talks](https://www.youtube.com/results?search_query=alan+watts).
 
 ## Favourite talks
 - [The Rhythmic Dance of Existence](https://www.youtube.com/watch?v=O237jkoxbXg)
