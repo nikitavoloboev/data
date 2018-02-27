@@ -185,6 +185,7 @@
 		- [Foods](health/nutrition/foods.md)
 		- [Supplements](health/nutrition/supplements.md)
 	- [Skin care](health/skin-care.md)
+	- [Depression](health/depression.md)
 - [Fitness](fitness/fitness.md)
 - [Medicine](medicine/medicine.md)
 - [History](history/history.md)
