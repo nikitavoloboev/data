@@ -77,6 +77,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Etsy](https://www.etsy.com/people/nikitavoloboev) - If I ever make something with my hands, I will probably share it there.
 - [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - My online CV.
 - [Angel.co](https://angel.co/nikitavoloboev) - Sometimes use it to find interesting startups to apply to.
+- [Indie Hackers](https://www.indiehackers.com/user/nikivi)
 - [Home](https://nikitavoloboev.xyz) - My personal home page on the internet.
 - [Vimeo](https://vimeo.com/user18010447) - Don't really use it but it has many creative videos.
 - [Airbnb](https://www.airbnb.com/users/show/48269245) - Don't use really use it.

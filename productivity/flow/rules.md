@@ -7,16 +7,16 @@ Some simple rules to follow for myself doing things.
 - Always learn new things.
 - Exercise daily.
 - Build ideas.
-- Follow good nutrition. No sugar, drink water.
+- Follow good nutrition. No sugar. Drink water.
 - Share everything I know and made.
 - No food/item wastage.
 - Be mindful of my actions and thoughts.
-- Minimise distractions.
+- Do deep work. Minimise distractions.
 - Follow these rules.
 
 ## Routine
 - Write. (1+ article / month)
-- Read a book (1+ hour / day)
+- Read a book. (1+ hour / day)
 
 ## Nutrition
 - No processed sugar. No food with extra sugar in it.
@@ -262,6 +262,6 @@ Some simple rules to follow for myself doing things.
 	- Knowing what goals you have and the reasons why you are collecting or using certain kind of data is important and saves a lot of time in the future when you want to _minimise_ and _simplify_ things in life.
 
 ## Trello
-- No need to create _Doing now_ and _Do next_ blocks. I can use _watching_ feature for that and seperate cards instead by topic. Use _tags_ to give priority to tasks. (In my case _Important_, _Interesting_ and _Next_ are always present tags in most boards).
+- No need to create _Doing now_ and _Do next_ blocks. I can use _watching_ feature for that and seperate cards instead by topic. Use _tags_ to give priority to tasks. (In my case _Important_ and _Next_ are always present tags in most boards).
 - Share boards publically that contain no sensetive or private information.
-- For boards like _Learning_ and _Books_, no need to add links to cards as the links to these things should already be added in LA curated lists which are easily queriable.
+- For boards like _Learning_ and _Books_, no need to add links to cards as the links to these things should already be added in [LA curated lists](https://github.com/learn-anything/curated-lists#readme) which are easily queriable.
