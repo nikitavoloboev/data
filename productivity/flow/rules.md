@@ -15,7 +15,7 @@ Some simple rules to follow for myself doing things.
 
 ## Work
 - Do deep work. Minimise distractions.
-- Don't visit Tweetbot and other sites that are blocked during the `focus` session.
+- Don't visit Tweetbot and other sites that are blocked during the __focus__ session.
 - If my mind wanders and avoids doing the task, take a walk and do some exercice.
 
 ## Routine
@@ -30,9 +30,9 @@ Some simple rules to follow for myself doing things.
 - Focus on Whole Food, Plant-Based diet.
 
 ## Social media
-- Twitter posts are first made in [looking back](../../looking-back/looking-back.md) and are always rallied to `Changes` section unless the tweet has no preserving value.
+- Twitter posts are first made in [looking back](../../looking-back/looking-back.md) and are always rallied to _Changes_ section unless the tweet has no preserving value.
 	- Images if relevant can be linked and embedded too.
-- Instagram posts are rallied to `Photos` in [looking back](../../looking-back/looking-back.md). If taken on the phone, it can be done on the mac later or automated.
+- Instagram posts are rallied to _Photos_ in [looking back](../../looking-back/looking-back.md). If taken on the phone, it can be done on the mac later or automated.
 
 ## Writing
 - Use proper punctuation and capitalise things appropriately.

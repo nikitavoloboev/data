@@ -183,6 +183,7 @@
 - [Health](health/health.md)
 	- [Nutrition](health/nutrition/nutrition.md)
 		- [Foods](health/nutrition/foods.md)
+		- [Fasting](health/nutrition/fasting.md)
 		- [Supplements](health/nutrition/supplements.md)
 	- [Skin care](health/skin-care.md)
 	- [Depression](health/depression.md)

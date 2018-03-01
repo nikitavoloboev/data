@@ -30,6 +30,7 @@ Go promotes composition over inheritance.
 - `go run` looks at the paths you specify.  `go build` takes the package(s) you specify and uses GOPATH to find their location.
 
 ## Links
+- [Gopher reading list](https://github.com/enocom/gopher-reading-list)
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Performance without the event loop (2015)](https://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
 - [7 common mistakes in Go and when to avoid them by Steve Francia](https://www.youtube.com/watch?v=29LLRKIL_TI)

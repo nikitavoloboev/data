@@ -12,6 +12,7 @@ Here are some humans whose work I found great interest in:
 
 ## Interesting
 - [Ajahn Chah](http://www.wikiwand.com/en/Ajahn_Chah)
+- Rupert Spira
 
 ## Links
 - [Important women in CS who aren't Grace Hopper](https://www.hillelwayne.com/post/important-women-in-cs/)

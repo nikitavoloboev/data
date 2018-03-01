@@ -2,7 +2,7 @@
 ## Summary
 This month went by fast. 'Started' working on a side project that I am quite excited about. Hope to learn more more things and hopefully apply the things I've learned in action to do something I really want to exist from scratch.
 
-Aside from that I refined my workflow, as always and am still looking to do some kind of meaningful work. I hope the next months will go better. Another thing to note is that I hope to make the upcoming months `Changes` to be a bit more lively with updates. Hopefully an update each day of something I've done or made. I like to think of this as just the begginning of this.
+Aside from that I refined my workflow, as always and am still looking to do some kind of meaningful work. I hope the next months will go better. Another thing to note is that I hope to make the upcoming months _Changes_ to be a bit more lively with updates. Hopefully an update each day of something I've done or made. I like to think of this as just the begginning of this.
 
 Another cool thing is that my project I hope to make soon will improve these _looking back_ entries by quite a bit. Can't wait to release it.
 
@@ -161,7 +161,7 @@ Here is a little collage of my favourite posts I made on FB since my first artic
 > The last post I'll add here. But on that day we released our first version which allowed for users to actually contribute and add resources to maps much more easily than before. We still have a long way to go and improve but I think its pretty awesome how some idea can turn into something quite cool if only you open it up and share with the world.
 
 ## Timing
-![](https://i.imgur.com/KYNmq1d.png)
+![](https://i.imgur.com/tnDk6kl.png)
 
 Going to take Timing a lot more serious next month. I revamped by projects and Trello according to my goals but disregarded Timing for this month. I also was not productive this month. At all. Mostly due to my health condition that I _really_ wish would go away already.
 
@@ -178,6 +178,3 @@ Didn't do a month review as that is premium feature, will do weekly shots next m
 
 ## Links
 - [My February tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-02-01%20until%3A2018-02-28&src=typd)
-
-
-
