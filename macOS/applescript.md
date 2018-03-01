@@ -1,6 +1,9 @@
 # Applescript
 Pretty useful to know scripting language for macOS.
 
+## Links
+- [Advanced Applescript techniques](https://computers.tutsplus.com/tutorials/advanced-applescript-techniques--mac-4603)
+
 ## Snippets
 - [Get path of open document in an app](https://gist.github.com/b7c8b94717134d98f5580c7945b592ad)
 - [Trigger a keypress](https://gist.github.com/243d9595686861cc77fc01f33d47a899)

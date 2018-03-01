@@ -11,8 +11,12 @@ Some simple rules to follow for myself doing things.
 - Share everything I know and made.
 - No food/item wastage.
 - Be mindful of my actions and thoughts.
-- Do deep work. Minimise distractions.
 - Follow these rules.
+
+## Work
+- Do deep work. Minimise distractions.
+- Don't visit Tweetbot and other sites that are blocked during the `focus` session.
+- If my mind wanders and avoids doing the task, take a walk and do some exercice.
 
 ## Routine
 - Write. (1+ article / month)
@@ -108,6 +112,7 @@ Some simple rules to follow for myself doing things.
 ## Keyboard Maestro
 - All macro names are lowercased. Unless it is necessary.
 - When doing macros to _focus_ on something, name the macro like _sidebar focus_ rather than _focus on sidebar_.
+- Minimise inputs and preconditions to macros. Sometimes it's possible that the input I need to a macro, I can get from another place within the macro itself.
 
 ## Karabiner
 - Try to make semantic mappings and chunk mappings by theme or context.

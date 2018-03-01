@@ -28,4 +28,8 @@ And here are few ore things I liked, design wise.
 - [Nienke](https://nienkedekker.com/) - Really like the background and colours.
 - [Justin Windle](https://soulwire.co.uk/)
 - [Yoshua Wuyts](https://www.yoshuawuyts.com/) - Really clean dark design.
+- [xxiivv](http://xxiivv.com/)
+- [Kokorobot](http://kokorobot.ca/#home)
 - [Kenneth Reitz](https://www.kennethreitz.org/)
+- [autophagy](http://autophagy.io/)
+- [Seana Burns](http://seenaburns.com/)

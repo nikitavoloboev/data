@@ -46,7 +46,7 @@ I had some problems and uncertainties about how I should approach doing things. 
 
 Will be interesting to see how this will change in the coming time. I hope it will.
 
-## Coding
+## Code
 ![](https://i.imgur.com/WZl7m9s.png)
 
 137 hours is really bad. Spent a lot of the time on non code activities like this wiki.

@@ -143,9 +143,6 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 ## Building a product
 - Have a nice looking website. The first look matters.
 
-## Keyboard Maestro
-- Minimise inputs to the macros. Sometimes it's possible that the input I need to a macro, I can get from another place within the macro itself.
-
 ## Focusing
 - Good jazz or downtempo music is really amazing as background music. Together with low sound of rain or thunder, it really makes I focus and get lost in what I're doing.
 
