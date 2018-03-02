@@ -12,6 +12,7 @@ Some simple rules to follow for myself doing things.
 - No food/item wastage.
 - Be mindful of my actions and thoughts.
 - Follow these rules.
+- Always refine my workflow around idea of having transparent everything.
 
 ## Work
 - Do deep work. Minimise distractions.
