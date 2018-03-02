@@ -1,5 +1,6 @@
 # [MindNode](https://mindnode.com/)
 An application which allowed me to oriinally create all of the maps for [Learn Anything](https://learn-anything.xyz).
+
 <img src="https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png" width="700" alt="img">
 
 It is an incredible joy to make mind maps in this app and I use it to visualize everything. [My notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).

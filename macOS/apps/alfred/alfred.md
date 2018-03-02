@@ -1,5 +1,6 @@
 # [Alfred](https://www.alfredapp.com/)
 Alfred is a very powerful launcher that you can program to show you anything you want. It saved me a lot of time in my life.
+
 <img src="https://i.imgur.com/kbw0yCF.png" width="600" alt="img">
 
 It has a great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
