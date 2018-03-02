@@ -1,4 +1,4 @@
-# Safari
+# [Safari](https://www.apple.com/lae/safari/)
 My favourite browser for many reasons. It is incredibly fast, doesn't have the baggage of all the Google Chrome tracking and is native to macOS so it is extremely optimised.
 
 ## Safari power using

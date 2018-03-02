@@ -1,9 +1,9 @@
 # [2Do](https://www.2doapp.com/)
-2Do together with [MindNode](mindnode) and [Trello](trello) acts as as my second brain. Where 2Do is focused on actionable tasks that I have to complete in [GTD](http://gettingthingsdone.com/) style.
+I love GTD methodology, this application is phenomenal with helping me organise my tasks and things I want to do and achieve. Here is how my sidebar looks:
+<img src="https://i.imgur.com/0BQF2a1.png" width="150">
 
-Here is how my sidebar looks:
-
-![](https://i.imgur.com/sNnbnzx.png)
+And it has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
+<img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
 
 ## Managing tasks with tags
 My main way of managing tasks is with __tags__. This lets me give scope to the task I want to complete and lets me filter through the many thousands of tasks I have in my __Inbox__. Here is a brief glimpse of what tags I add:

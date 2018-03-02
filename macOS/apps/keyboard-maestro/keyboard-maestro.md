@@ -1,7 +1,9 @@
 # [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
 Keyboard Maestro is essentially an IDE for automation. You create macros of actions that you can then easily call from Karabiner.
 
-I share all the macros I have made [here](https://github.com/nikitavoloboev/my-mac-os/tree/master/km-macros#readme).
+Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
+
+I share [all the macros I use](https://github.com/nikitavoloboev/my-mac-os/tree/master/km-macros#readme) with the app.
 
 ## Notes
 - It is always better to run compiled Applescripts.

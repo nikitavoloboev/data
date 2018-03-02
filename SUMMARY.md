@@ -157,7 +157,7 @@
 - [Web](web/web.md)
 	- [Browsers](web/browsers/browsers.md)
 		- [Safari](web/browsers/safari.md)
-		- [Chrome](web/browsers/google-chrome.md)
+		- [Google Chrome](web/browsers/google-chrome.md)
 		- [Firefox](web/browsers/firefox.md)
 		- [Bookmarklets](web/browsers/bookmarklets.md)
 	- [Static sites](web/static-sites/static-sites.md)

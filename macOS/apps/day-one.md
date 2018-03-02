@@ -1,6 +1,14 @@
 # [Day One](http://dayoneapp.com)
 Day One is my digital life journal.
 
+My entire life's experiences lives encrypted in the journal. Adding photographs I made and the thoughts and events that happened to me.
+
+I document and review [my life](https://wiki.nikitavoloboev.xyz/looking-back/looking-back.html) publicly too.
+
+The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all [my tweets](https://twitter.com/nikitavoloboev) and [Insgragram posts](https://www.instagram.com/nikitavoloboev/).
+
+If you don't journal, I suggest you to start, it is a very powerful mind cleanser and acts as a wonderful history record of your life.
+
 I started with journalling by writing [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32), evaluating my day and noting interesting and memorable things that have happened to me during the day.
 
 Since then however, I adopted a more open approach to documenting my memories and life in a way that doesn't stop me from being in the moment and just enjoying things and experiences.

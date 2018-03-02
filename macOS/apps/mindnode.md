@@ -1,9 +1,14 @@
 # [MindNode](https://mindnode.com/)
-The app that I use to make various mind maps. It is currently one of my top 5 used apps and alongside 2Do acts as my second brain to everything that I do.
+An application which allowed me to oriinally create all of the maps for [Learn Anything](https://learn-anything.xyz).
+<img src="https://raw.githubusercontent.com/learn-anything/learn-anything/master/media/header.png" width="700" alt="img">
 
-In short, MindNode for me is the ultimate playground where ideas get born and played with first. I even have a _thinking_ map that I open with Karabiner by pressing _f + :_. And I [brainstorm things](../../research/solving-problems.md) I am doing __now__ there. Here is how that looks:
+It is an incredible joy to make mind maps in this app and I use it to visualize everything. [My notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
 
-![](https://i.imgur.com/fxJG2Cb.png)
+I also try to completely bridge the gap between [my mind maps](https://wiki.nikitavoloboev.xyz/meta/my-mind.html) and my mind with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
+
+In short, MindNode for me is the ultimate playground where ideas get born and played with first. I even have a __thinking__ map that I open with Karabiner by pressing `f + :`. And I [brainstorm things](../../research/solving-problems.md) I am doing __now__ there. Here is how that looks:
+
+![](https://i.imgur.com/uYr28eZ.png)
 
 ## Links
 - [Mind map everything](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739) - How I use mind maps to effectively transcribe knowledge digitally and visualise thoughts and knowledge I have for both myself and for other people interested.

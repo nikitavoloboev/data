@@ -1,9 +1,9 @@
 # Sublime text
 Started using this editor in addition to VS Code and neovim for its blazing fast speed of opening files.
 
-I use it primarily to edit markdown files [like this wiki here](../other/wiki-workflow.md). I also edit config files and open large and small files for quick edits.
+I use it primarily to edit markdown files like [my wiki](https://wiki.nikitavoloboev.xyz/other/wiki-workflow.html). I also edit config files and open large and small files for quick edits.
 
-[Six vim plugin](https://github.com/guillermooo/Six) for this editor is genuinely amazing.
+[Six](https://github.com/guillermooo/Six) vim plugin for this editor is genuinely amazing. Alongside [Ayu theme](https://github.com/dempfi/ayu).
 
 ## Notes
 - Entering into sublime console (View -> Show Console):

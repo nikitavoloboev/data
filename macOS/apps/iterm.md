@@ -1,6 +1,9 @@
-# iTerm
-My terminal emulator of choice.
+# [iTerm](https://www.iterm2.com/)
+Moved completely to using the command line for all my development needs. Assigned it to [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open it with Karabiner in seconds.
 
+[Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
+
+## My workflow
 I always have 5 tabs (sessions) open in iTerm. I open other tabs as the need arises and I start working on other projects.
 
 My always open tabs are:

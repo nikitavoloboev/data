@@ -1,5 +1,10 @@
 # [Alfred](https://www.alfredapp.com/)
-Alfred is a macOS launcher that is extremely powerful as you can program it to show what you want. [Here](https://github.com/learn-anything/alfred-workflows#readme) are all the workflows I really love to use with it.
+Alfred is a very powerful launcher that you can program to show you anything you want. It saved me a lot of time in my life.
+<img src="https://i.imgur.com/kbw0yCF.png" width="600" alt="img">
+
+It has a great [community](http://www.alfredforum.com/) and very powerful [workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
+
+I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
 ### Symlink workflows
 It is a great idea to symlink workflows you are working on so you can work on them in the comfort of your file system and not inside Alfred UUID named directories.
