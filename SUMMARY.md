@@ -50,7 +50,6 @@
 			- [Making Workflows](macOS/apps/alfred/making-workflows.md)
 			- [AwGo](macOS/apps/alfred/awgo.md)
 		- [Karabiner](macOS/apps/karabiner/karabiner.md)
-			- [Sticky keys](macOS/apps/karabiner/sticky-keys.md)
 		- [Keyboard Maestro](macOS/apps/keyboard-maestro/keyboard-maestro.md)
 			- [Keyboard Maestro actions](macOS/apps/keyboard-maestro/keyboard-maestro-actions.md)
 		- [Typinator](macOS/apps/typinator.md)

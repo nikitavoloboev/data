@@ -1,5 +1,5 @@
 # [iTerm](https://www.iterm2.com/)
-Moved completely to using the command line for all my development needs. Assigned it to [w + j](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) to open it with Karabiner in seconds.
+Moved completely to using the command line for all my development needs. Assigned [w + j](karabiner/karabiner.md) with Karabiner to open the app from Keyboard Maestro in seconds.
 
 [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
 
