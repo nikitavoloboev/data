@@ -8,7 +8,7 @@ For example you can make caps lock into an escape key when pressed once but if y
 I however take this idea further and define these kind of hyper keys but for __every single key on my keyboard__. I like to call them _sticky keys_.
 
 ## Sticky keys
-[This snippet](https://gist.github.com/b591b290c6a55ac47b19158c721415a4) above makes `p` key into a modifier key. This only works for old Karabiner on El Captain. I am still not certain how it will look like in Sierra.
+[This snippet](https://gist.github.com/b591b290c6a55ac47b19158c721415a4) makes `p` key into a modifier key. This only works for old Karabiner on El Captain. I am still not certain how it will look like in Sierra.
 
 You can probably use [this](https://github.com/tekezo/Karabiner-Elements/issues/926) to achieve this behaviour on Sierra but I have not tested it.
 
