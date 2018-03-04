@@ -258,7 +258,7 @@ Some simple rules to follow for myself doing things.
 - Don't say _Want to_. Instead say _Will_ in _Changes_. This applies more generally too, try be more proactive with anything I do. Intention counts.
 
 ## Finance
-- Track every purchase made with YNAB. Putting it in its respective category.
+- Track every purchase made with YNAB. Put every purchase in its respective category.
 - Adhere to my budget that I have set for each of the categories. If there is no budget left for eating out. Don't eat out.
 
 ## Videos
