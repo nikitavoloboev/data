@@ -1,4 +1,4 @@
-# Psychedelics
+# [Psychedelics](https://psychonautwiki.org/w/index.php?title=Psychedelic)
 Exploring my mind has always been one of the most interesting things in life for me.
 
 Exploring different states of consciousness both naturally or chemically induced. There is a certain sense of mystery how one chemical can radically change your perception in such a short time and leave you with more questions than you started with.
@@ -13,14 +13,14 @@ But as will all things, _moderation is key_. Or as in the case with psychedelics
 
 ## Interesting psychedelics
 - [DMT](dmt.md)
-- 2C-E
-- 5-MeO-DMT - Pure ego death.
+- [2C-E](https://psychonautwiki.org/wiki/2C-E)
+- [5-MeO-DMT](https://psychonautwiki.org/wiki/5-MeO-DMT) - Pure ego death.
 - N,N-DMT
-- 4-AcO-DMT
-- 4-AcO-MiPT
-- 4-HO-MET
-- 5-HO-DMT
-- 5-meo-MIPT
+- [4-AcO-DMT](https://psychonautwiki.org/wiki/4-AcO-DMT)
+- [4-AcO-MiPT](https://psychonautwiki.org/wiki/4-AcO-MiPT)
+- [4-HO-MET](https://psychonautwiki.org/wiki/4-HO-MET)
+- [5-HO-DMT](https://psychonautwiki.org/w/index.php?title=Bufotenin)
+- [5-meo-MIPT](https://psychonautwiki.org/w/index.php?title=5-MeO-MiPT)
 
 ## Notes
 - [I believe that everything is the creator. People and animals are the creator looking through different eyes.](https://www.reddit.com/r/Psychonaut/comments/7811jc/have_psychedelic_experiences_changed_your_view_of/doq5ia1/)

@@ -6,6 +6,7 @@ Small tip, [regex101](https://regex101.com) has night mode.
 
 ## Notes
 - `.* ` = will select all occurrences
+- A regex is useful for validating simple patterns and for finding patterns in text. For anything beyond that it’s almost certainly a terrible choice.
 
 ## Links
 - [Learn regex](https://github.com/zeeshanu/learn-regex) - Great reference.

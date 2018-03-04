@@ -5,6 +5,7 @@ Some simple rules to follow for myself doing things.
 - Simplify as much as possible. Never repeat myself.
 - Remember the [lessons I learned](../../sharing/lessons-learned.md). So as to not repeat the mistakes I have made.
 - Always learn new things.
+- Ask questions. Don't be afraid of not knowing something and [ask for help](../../research/asking-questions.md).
 - Exercise daily.
 - Build ideas.
 - Follow good nutrition. No sugar. Drink water.
@@ -72,7 +73,7 @@ Some simple rules to follow for myself doing things.
 ## GitHub README
 - Use HTML for rendering images if I need control on their size and position.
 - Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links). Don't repeat what is said in the quote in the description underneath the quote.
-- If the README is long enough, add a __Contents__ reference table. Can omit Contents heading.
+- If the README is long enough, add a __Contents__ reference table.
 - Don't add anything that is not needed and focus on the content.
 - Add a way to visually show the workflow/library in action where appropriate.
 - Don't link to Imgur images as links, render them in the GitHub README itself.

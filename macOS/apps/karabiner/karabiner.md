@@ -5,7 +5,7 @@ I have completely remapped my keyboard with it and every key on my keyboard is a
 
 For example you can make caps lock into an escape key when pressed once but if you hold it, it becomes a [hyper key](http://brettterpstra.com/2017/06/15/a-hyper-key-with-karabiner-elements-full-instructions/). Hyper key means that a key now serves two purposes, once when pressed alone and once when held down. So for example for remapping caps lock, we can remap it to act as escape when pressed alone once but if we hold down on it it becomes ⌘ + ⌃ modifier key. So `caps lock + F` becomes ⌘ + ⌃ + F. And so on.
 
-I however take this idea further and define these kind of hyper keys but for __every single key on my keyboard__. I like to call them _sticky keys_.
+I take this idea further and define these kind of hyper keys but for __every single key on my keyboard__. I like to call them _sticky keys_.
 
 ## Sticky keys
 [This snippet](https://gist.github.com/b591b290c6a55ac47b19158c721415a4) makes `p` key into a modifier key. This only works for old Karabiner on El Captain. I am still not certain how it will look like in Sierra.
@@ -13,7 +13,7 @@ I however take this idea further and define these kind of hyper keys but for __e
 You can probably use [this](https://github.com/tekezo/Karabiner-Elements/issues/926) to achieve this behaviour on Sierra but I have not tested it.
 
 ## My personal Karabiner setup
-I share my Karabiner private.xml [here](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/private.xml). It is approximately 12,000 lines long so might take a bit of time to load. However I edit it in vim and vim handles this big file very easily. I also use `_` to indicate jumping points in the config. So I can jump between various XML blocks by searching `_km def` for defining KM actions to map, `_alfred def` for mapping alfred triggers to run and `sticky ..` to jump between sticky key definitions.
+I share my Karabiner private.xml [here](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/private.xml). It is approximately 14,000 lines long so might take a bit of time to load. However I edit it in vim and vim handles this big file very easily. I also use `_` to indicate jumping points in the config. So I can jump between various XML blocks by searching `_km def` for defining KM actions to map, `_alfred def` for mapping alfred triggers to run and `sticky ..` to jump between sticky key definitions.
 
 ## Notes
 - I can embed simultaneous key mappings inside sticky key definitions.

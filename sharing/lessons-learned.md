@@ -96,6 +96,10 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 - Take it easy.
 	- Don't stress myself too much about not achieving things I want to achieve. What's important is that I try and ideally love what I am doing. Everything else is not worth worrying about.
 
+## Work
+- Figure out what you are uniquely the best in the world at because you just love it. And then just find out who or what needs that the most.
+- You don’t get paid what you deserve. You get paid what other people think you're worth.
+
 ## Relationships
 - Treat people as if they are in a sensitive and malleable emotional state all the time.
 	- I have the power to uplift friends and strangers with every interaction, large or small.

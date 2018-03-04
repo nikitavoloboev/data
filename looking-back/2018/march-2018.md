@@ -8,3 +8,4 @@
 
 ## Thoughts
 - (1) Going to take Timing a __lot__ more seriously this month. And get some work done!
+- (4) Cryptocurrencies are really the future of money. No fees. Instant pay across the globe. Peer to peer with no intermediaries. It's exciting.
