@@ -1,9 +1,7 @@
-# [My mind](https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5)
+# [My Mind](https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5)
 ![](https://i.imgur.com/rfh1MzA.png)
 
-Aside from this wiki. I also use many interactive mind maps.
-
-You can see all these mind maps I have made [here](https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5).
+Aside from this wiki. I also use many interactive mind maps. You can see all the mind maps I have made [here](https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5).
 
 ## Why I made them
 I use these mind maps for many things. Since these maps are interactive and allow you to neatly link information together, they are much better suited for some formats. Like visualising different topics and their relations:
