@@ -24,6 +24,9 @@ Some simple rules to follow for myself doing things.
 - Write. (1+ article / month)
 - Read a book. (1+ hour / day)
 
+## Research
+- Document everything. Don't repeat things. Link instead.
+
 ## Nutrition
 - No processed sugar. No food with extra sugar in it.
 - No drinks other than water, coffee and tea. No added sugar in the drinks.

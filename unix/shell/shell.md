@@ -4,6 +4,7 @@
 - `$PS1` - the variable that represents my command prompt line.
 
 ## Notes
+- Scripts are run in subshells, and nothing is shared "upwards". That's the difference between running a script and sourcing one. A sourced (imported) script is run in your own script's namespace.
 - In shell everything is a string.
 - Children never touch parent enviroment. It can only if it runs as part of the current process (source, function, alias).
 
