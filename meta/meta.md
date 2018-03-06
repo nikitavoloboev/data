@@ -27,6 +27,15 @@ The structure of each of the posts will often look roughly like this:
 4. Notes - My own personal notes on the matter as well as things I found interesting on the internet regarding the topic. I often give a link of where I got things from.
 5. Links - Links related to the topic.
 
-Aside from this wiki, I also share [various mind maps I have made](my-mind.md).
+Aside from this wiki, I also share [various mind maps I have made](sharing/my-mind.md).
 
 If you are interested in how I maintain and write this wiki, I wrote about it in detail [here](../other/wiki-workflow.md).
+
+## Future
+There are many, many things I am yet to add to this little system I am planning to make. I am still trying to find the perfect balance of how my knowledge, projects, thoughts and ideas and programmes and code should be structured but my goals with both this wiki and my mind maps are:
+
+1. Fast access to all this knowledge base. Achieved through:
+	1. [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
+	2. This knowledge wiki itself and the search it has.
+2. Transcribing knowledge in terms that make sense to me and other people.
+	- I wish to make my knowledge and expertise as _reusable_ by as many other interested people as possible.

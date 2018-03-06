@@ -8,9 +8,9 @@ Some simple rules to follow for myself doing things.
 - Share everything I know and made. Refine my workflow around this idea.
 - Be mindful of my actions and thoughts.
 - Don't compare myself to other people.
-- Be consistent.
+- Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals too much.
 - Don't waste food/items.
-- Adjust rules and my workflow to match what I have learned.
+- Adjust these rules and my workflow to match what I have learned.
 - Follow these rules!
 
 ## Work
@@ -19,10 +19,9 @@ Some simple rules to follow for myself doing things.
 - Don't visit Tweetbot and other sites that are blocked during the __focus__ session.
 - If my mind wanders and avoids doing the task, take a walk and do some exercice.
 - Do things that scale. Try to find solutions that scale with time.
-
-## Routine
-- Write. (1+ article / month)
-- Read a book. (1+ hour / day)
+- Reuse other people's work.
+- Start. Don't be afraid to solve the problem no matter how complex or intimidating it may be.
+- If things fail. Learn from it and move on.
 
 ## Learning
 - Always learn new things.
@@ -281,3 +280,6 @@ Some simple rules to follow for myself doing things.
 - No need to create _Doing now_ and _Do next_ blocks. I can use _watching_ feature for that and seperate cards instead by topic. Use _tags_ to give priority to tasks. (In my case _Important_ and _Next_ are always present tags in most boards).
 - Share boards publically that contain no sensetive or private information.
 - For boards like _Learning_ and _Books_, no need to add links to cards as the links to these things should already be added in [LA curated lists](https://github.com/learn-anything/curated-lists#readme) which are easily queriable.
+
+## Remember
+- Everything evolves with time. Projects, articles, ideas will evolve with time and will never be what I first envisioned them to be.

@@ -3,7 +3,12 @@ Repeat things often enough and it becomes a routine. It's useful to be mindful a
 
 I hope to cultivate and make many healthy routines and habits throughout my life. Here is a start. It simply states thing I should ideally follow or do at any given time throughout the day/week.
 
+## Monthly
+- Write. (1+ article / month)
+
 ## Daily
+- Read a book. (1+ hour / day)
+
 ### Morning
 1. Brush my teeth.
 2. Moisturise face.

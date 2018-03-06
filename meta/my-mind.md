@@ -25,15 +25,6 @@ Some nodes contain a description which is indicated by this little symbol here t
 
 I use various emojis to indicate certain things like indicating that a node links to another map with 🗺.
 
-With all that said. The best way to know about me as a person, what I like and what I am into and what I am working on is to read through this wiki. With time, it will contain essentially everything that I know _in my own words_.
+With all that said. The best way to know about me as a person, what I like and what I am into and what I am working on is to read through this wiki. With time, it will contain essentially [everything that I know](everything-I-know.md) _in my own words_.
 
 This wiki acts as a first class citizen and anything that I ultimately want to share or have shared will be written down here, somewhere. Most of the mind maps I have made will be linked to from here and will have some description of the map too.
-
-## Future
-There are many, many things I am yet to add to this little system I am planning to make. I am still trying to find the perfect balance of how my knowledge, projects, thoughts and ideas and programmes and code should be structured but my goals with both this wiki and my mind maps are:
-
-1. Fast access to all this knowledge base. Achieved through:
-	1. [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
-	2. This knowledge wiki itself and the search it has.
-2. Transcribing knowledge in terms that make sense to me and other people.
-	- I wish to make my knowledge and expertise as _reusable_ by as many other interested people as possible.

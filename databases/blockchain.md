@@ -5,3 +5,4 @@ In short, blockchain is a [linked list of hashes](https://www.quora.com/Is-a-blo
 
 ## Links
 - [What is blockchain](https://oleganza.com/all/what-is-blockchain/)
+- [18 Blockchain Predictions for 2018](https://media.consensys.net/18-predictions-for-2018-7a376ea7bd4b)

@@ -27,7 +27,6 @@ Things I have learned in life. To remind myself not to repeat the mistakes I mad
 	- In whatever I am doing, try to remove as much friction as possible.
 	- Try to practice self documentation. For example don't try to to map things in one app and then try to outline the mappings in another. Try to make the process self documenting and remove the friction of going and keeping the documentation up-to-date. Only do it where it is really necessary and helpful.
 - Track my expenses.
-- Get into the [flow state](../productivity/flow/flow.md) as early as possible during the day.
 - Just being exposed to concepts through videos or tutorials is not going to help me pass interviews.
 	- Actually code everything up and implement it.
 - Don’t be careless on the exams and when doing exercises.
