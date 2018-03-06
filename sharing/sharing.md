@@ -39,9 +39,6 @@ I share [everything I know](everything-I-know.md) in form of this wiki here. Can
 ## [My workflow](my-workflow.md)
 I try to make my own workflow in doing things be as _transparent_ as possible.
 
-## [Lessons learned](lessons-learned.md)
-I share things I have learned in life.
-
 ## [Things I track](tracking.md)
 I love tracking various things for my own reference.
 
