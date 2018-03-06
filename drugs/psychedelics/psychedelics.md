@@ -11,7 +11,7 @@ But as will all things, _moderation is key_. Or as in the case with psychedelics
 
 > _"When you get the message, hang up the phone"_
 
-## Interesting tryptamines
+## Interesting [tryptamines](https://psychonautwiki.org/w/index.php?title=Tryptamine)
 - [N,N-DMT](dmt.md)
 - [5-MeO-DMT](https://psychonautwiki.org/wiki/5-MeO-DMT) - Pure ego death. Probably strongest psych there is.
 - [4-AcO-DMT](https://psychonautwiki.org/wiki/4-AcO-DMT) - Synthetic mushrooms. Prodrug to Psilocin.
@@ -24,9 +24,12 @@ But as will all things, _moderation is key_. Or as in the case with psychedelics
 - [DiPT](https://psychonautwiki.org/wiki/DiPT)
 - [ΑMT](https://psychonautwiki.org/w/index.php?title=%CE%91MT)
 
-## Interesting phenethylamines
+## Interesting [phenethylamines](https://psychonautwiki.org/w/index.php?title=Phenethylamine)
 - [2C-E](https://psychonautwiki.org/wiki/2C-E)
 - [2C-B](https://psychonautwiki.org/wiki/2C-B)
+
+## Interesting [lysergamides](https://psychonautwiki.org/wiki/Lysergamide)
+- [ALD-52](https://psychonautwiki.org/wiki/ALD-52)
 
 ## Notes
 - [I believe that everything is the creator. People and animals are the creator looking through different eyes.](https://www.reddit.com/r/Psychonaut/comments/7811jc/have_psychedelic_experiences_changed_your_view_of/doq5ia1/)
