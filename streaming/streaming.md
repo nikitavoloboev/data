@@ -10,7 +10,7 @@ There are some annoying things that I do wish I could fix though. Since I am usi
 If I fix those three things though, I do think streaming is a really fun little hobby and a thing I might be doing more in the future.
 
 ## Notes
-- If connecting to Twitch with IRC, you have to join the channel from IRC after. In my case it's `/join #niikivi`.
+- If connecting to Twitch with IRC, you have to join the channel from IRC after. In my case it's `/join #nikitavoloboev`.
 
 ## Links
 - [Being a development streamer on Twitch](https://bot.land/blog/2016/10/being-a-development-streamer-on-twitch/)

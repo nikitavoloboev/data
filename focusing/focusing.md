@@ -1,10 +1,6 @@
 # Focusing
 Focusing on the things I need to be doing is quite hard and I am always trying to lure [my monkey brain](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) to actually listen to me and not live a life of its own.
 
-My main goal with focusing is reaching the [state of flow](#flow) as soon as possible and keeping it for as long as possible throughout the day.
-
-I also try to track and quantify my own productivity using various tools.
-
 ## Flow
 Getting in the _flow_ state is one of the most important things I try to focus on throughout the day.
 
@@ -26,7 +22,7 @@ I keep a private Trello board where I outline things that I want to focus on in 
 - I also try to [live by my calendar](../macOS/apps/fantastical.md). That is I try to assign blocks of time where I work on certain things and actually follow through and work during these time blocks. There is always something useful that I can be doing and I don't want to waste any mental energy choosing what to do in the moment.
 
 ## Notes
-- You can't manage projects; you can only manage actions related to projects.
+- You can't manage projects. You can only manage actions related to projects.
 
 ## Links
 - [Shipping vs. Fiddling](https://medium.com/@okonetchnikov/shipping-vs-fiddling-74e27e61e0c1) - Sometimes it's best to focus on getting things done and not fighting the tools/software.

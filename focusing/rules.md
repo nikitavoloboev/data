@@ -3,7 +3,7 @@ Some simple rules to follow for myself doing things.
 
 ## Life
 - Simplify as much as possible. Never repeat myself.
-- Remember the [lessons I learned](../knowledge/lessons-learned.md). Don't repeat the mistakes I made.
+- Remember the lessons I learned. Don't repeat the mistakes I made.
 - Build [ideas](https://trello.com/b/alB1ryRP).
 - Share everything I know and made. Refine my workflow around this idea.
 - Be mindful of my actions and thoughts.
@@ -14,8 +14,8 @@ Some simple rules to follow for myself doing things.
 - Follow these rules!
 
 ## Work
-- Do deep work. Minimise distractions.
-- Prioritise. Do important things first. Be clear on what I want to achieve.
+- Do deep work. Minimise distractions. Say __no__ to things.
+- Prioritise. Do important things first. Be clear on what I want to achieve. Think long term.
 - Don't visit Tweetbot and other sites that are blocked during the __focus__ session.
 - If my mind wanders and avoids doing the task, take a walk and do some exercice.
 - Do things that scale. Try to find solutions that scale with time.
@@ -26,6 +26,7 @@ Some simple rules to follow for myself doing things.
 ## Learning
 - Always learn new things.
 - Ask questions. Don't be afraid of not knowing something and [ask for help](../research/asking-questions.md).
+- Ask myself what is it that I am trying to solve or understand.
 - Document everything. Don't repeat things. Link instead.
 
 ## Health

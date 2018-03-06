@@ -17,8 +17,8 @@ I am currently not writing any music of my own but I am learning. I do however s
 ## Videos on [Youtube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
 I mostly make videos about macOS automation. [Here](my-youtube.md) are all the videos I have made. I also share [many YouTube playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view_as=subscriber) I made.
 
-## Streaming on [Twitch](https://www.twitch.tv/niikivi)
-I sometimes stream some of the things I am building for fun on [Twitch](https://www.twitch.tv/niikivi). I try to explain things as I do them.
+## Streaming on [Twitch](https://www.twitch.tv/nikitavoloboev)
+I sometimes stream some of the things I am building for fun there. I try to explain things as I do them.
 
 ## macOS/iOS group on [Telegram](https://t.me/macOSautomation)
 I love macOS and automation and made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS with focus on productivity.
