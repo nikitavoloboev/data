@@ -6,9 +6,9 @@ If this is your first time visiting this wiki, take a look [here](meta/meta.md) 
 ## Using the Wiki Well
 In the left corner you can make searches for what content I have already indexed or you can simply explore the tree view to the left.
 
-Aside from this wiki, you can also explore [Learn Anything](https://learn-anything.xyz) for things that you can learn about.
+You can access any entry from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
 
-You can access any entry from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow which alongside this wiki here, also searches through [various mind maps I've made](sharing/my-mind.md).
+Aside from this wiki, you can also explore [Learn Anything](https://learn-anything.xyz) for things that you can learn about.
 
 ## Other things I wrote and shared
 I share my knowledge in a longer form by [writing articles](sharing/my-articles.md) and making [YouTube videos](sharing/my-youtube.md).
@@ -18,7 +18,7 @@ I also love writing code that solves various problems I have and I share it all 
 [Here](http://nikitavoloboev.xyz/projects) you can find all the things I have made and shared thus far.
 
 ## Make your own wiki
-You can view other similar to this, continuously updated wikis, [here](https://github.com/RichardLitt/meta-knowledge).
+You can view other similar to this, continuously updated wikis, [here](https://github.com/RichardLitt/meta-knowledge#readme).
 
 Don't be afraid to create one of your own and share what you know with the world.
 
