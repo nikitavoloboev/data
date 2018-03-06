@@ -2,6 +2,8 @@
 Things I have learned in life. To remind myself not to repeat the mistakes I made.
 
 ## Life
+- Do things that scale.
+	- Try find solutions that will scale with time. Ideally try to come up with solutions to problems that don't just help I but help other people solve a problem.
 - Don't repeat what other people have already done.
 	- If possible reuse other people's work as much as possible to create new and novel things.
 - Don't compare myself to other people.

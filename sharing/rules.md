@@ -10,7 +10,7 @@ Some simple rules to follow for myself doing things.
 - Don't compare myself to other people.
 - Be consistent.
 - Don't waste food/items.
-- Adjust these rules and my workflow to match what I have learned.
+- Adjust rules and my workflow to match what I have learned.
 - Follow these rules!
 
 ## Work
@@ -18,6 +18,7 @@ Some simple rules to follow for myself doing things.
 - Prioritise. Do important things first. Be clear on what I want to achieve.
 - Don't visit Tweetbot and other sites that are blocked during the __focus__ session.
 - If my mind wanders and avoids doing the task, take a walk and do some exercice.
+- Do things that scale. Try to find solutions that scale with time.
 
 ## Routine
 - Write. (1+ article / month)
@@ -62,8 +63,8 @@ Some simple rules to follow for myself doing things.
 
 ## Wiki
 - Describe links on the same line with __-__ separator (if needs more description, then sub dash).
-- Don't repeat myself or anyone else. If something has already been said either by me or someone else, link to it (especially in this wiki).
 - Interlink entries between each other within wiki where necessary. Don't over do it.
+- Don't repeat myself or anyone else. If something has already been said either by me or someone else, link to it (especially in this wiki).
 - Try to use other services for logging and other things where possible. Like in the case of [Letterboxd](https://letterboxd.com/NikitaVoloboev/) and its Lists feature. It's better to make lists there and link to the lists from wiki. Find the right tool for the job. The wiki should act as a glue between things.
 - Keep all files lowercased.
 - If I am watching a talk, it is best not to jot down notes from the talk itself but capture ideas and note down these ideas in the wiki, sometimes referencing the talk where the idea or insight was taken from for context.
