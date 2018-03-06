@@ -3,17 +3,12 @@ Some simple rules to follow for myself doing things.
 
 ## Life
 - Simplify as much as possible. Never repeat myself.
-- Remember the [lessons I learned](../../sharing/lessons-learned.md). So as to not repeat the mistakes I have made.
-- Always learn new things.
-- Ask questions. Don't be afraid of not knowing something and [ask for help](../../research/asking-questions.md).
-- Exercise daily.
-- Build ideas.
-- Follow good nutrition. No sugar. Drink water.
-- Share everything I know and made.
-- No food/item wastage.
+- Remember the [lessons I learned](../../sharing/lessons-learned.md). Don't repeat the mistakes I made.
+- Build [ideas](https://trello.com/b/alB1ryRP).
+- Share everything I know and made. Refine my workflow around this idea.
 - Be mindful of my actions and thoughts.
-- Follow these rules.
-- Always refine my workflow around idea of having transparent everything.
+- Don't waste food/items.
+- Follow these rules!
 
 ## Work
 - Do deep work. Minimise distractions.
@@ -24,12 +19,17 @@ Some simple rules to follow for myself doing things.
 - Write. (1+ article / month)
 - Read a book. (1+ hour / day)
 
-## Research
+## Learning
+- Always learn new things.
+- Ask questions. Don't be afraid of not knowing something and [ask for help](../../research/asking-questions.md).
 - Document everything. Don't repeat things. Link instead.
+
+## Health
+- Exercise daily.
 
 ## Nutrition
 - No processed sugar. No food with extra sugar in it.
-- No drinks other than water, coffee and tea. No added sugar in the drinks.
+- No added sugar in the drinks. Drink water, coffee and tea.
 - Always have water/tea next to me when working on something. Fill up the water/tea if it empties.
 - No meat or dairy products. Health and [ethical reasons](../../life/compassion.md).
 - Focus on Whole Food, Plant-Based diet.

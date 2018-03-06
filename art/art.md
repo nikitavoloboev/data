@@ -15,6 +15,7 @@ I share different photographs and art pieces I like on [my Instagram page](https
 - [Yanjun Cheng](https://www.artstation.com/yjc)
 - [Alena Aenami](https://www.artstation.com/aenamiart)
 - [Pawel Kuczynski](http://www.pictorem.com/profile/Pawel.Kuczynski)
+- [Daniel Liang](https://www.artstation.com/danielliang)
 
 ## Interesting artists
 - [Anderson Debernardi](https://imgur.com/gallery/dKx5S)

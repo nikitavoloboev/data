@@ -141,6 +141,9 @@ Things I have learned in life. To remind myself not to repeat the mistakes I hav
 - Don't lock myself into using a service. Have my own system in place and give the social media a purpose. If there is no purpose to it, don't use it.
 - Losing control over personal data is horrible. Always be mindful of the services I use and the data they will be extracting from my use of it. If the service disregards my privacy. Avoid it.
 
+## Writing
+- Most adverbs are superfluous. Most cases where you say "generally" or "usually" you're undermining your point and the use of "very", "extremely", etc. are hyperbolic and breathless and make it easier to regard what you're writing as unserious.
+
 ## Design
 - Giving users many options is more often a bad idea. Instead give very few options but make each one of them count and stand out.
 

@@ -5,6 +5,10 @@ Has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to
 
 I share [all the macros I use](https://github.com/nikitavoloboev/my-mac-os/tree/master/km-macros#readme) with the app.
 
+### KM actions
+- [Assert action](https://forum.keyboardmaestro.com/t/assert-action/8374) - "if not condition then fail".
+	- Useful for checking if you got right kind of data.
+
 ## Notes
 - It is always better to run compiled Applescripts.
 
