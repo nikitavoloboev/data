@@ -66,7 +66,7 @@ Some simple rules to follow for myself doing things.
 - Use proper punctuation and capitalise things appropriately.
 - When adding `:`, don't add space beforehand.
 - When making tasks (2Do, Trello, GitHub issues), use imperative tense.
-- Remove unnecessary and _filler_ words. Use adverbs sparingly, the often undermine your point.
+- Remove unnecessary and _filler_ words. Use adverbs sparingly, they often undermine your point.
 - If something can be said in less words, say it in less words. Be clear and to the point.
 - Both in code and prose. Say more with less and never repeat myself.
 - Minimise using word _here_.
@@ -160,9 +160,6 @@ Some simple rules to follow for myself doing things.
 ## MindNode
 - Use one tree structure for organisation especially when sharing maps (makes the map much easier to follow).
 
-## Social Networks
-- Only add/follow people I am really interested in or know.
-
 ## Sharing files
 - Temporary shares with [Transfer](https://transfer.sh).
 - More permanent shares are shared with Dropbox. Don't delete items from _shares_ folder unless I delete the file somewhere myself.
@@ -196,7 +193,7 @@ Some simple rules to follow for myself doing things.
 - Don't include context in the task title since I can do add it as a tag instead.
 
 ## Ideas
-- If the idea is not private. Share it in Trello (hopefully soon in Crafting Ideas).
+- If the idea is not private. Share it in [Trello](https://trello.com/b/alB1ryRP).
 
 ## Capitalising things
 - Capitalise everything where appropriate (Sentences / Headings / Alfred workflows / GitHub descriptions / GitHub issues and PRs / Comments in SnippetsLab / Main dashed points / Tweets / ..).
