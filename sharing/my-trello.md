@@ -1,7 +1,7 @@
 # My Trello boards
 I share many Trello boards publicly as I try have my workflow, ideas and experiences be fully transparent.
 
-Below is a list of all public Trello boards I share.
+Below is a list of all public Trello boards I share. I don't attach links to most cards as links can be found in [curated lists](https://github.com/learn-anything/curated-lists#readme).
 - [Learn](https://trello.com/b/cu32qF3q) - Things I am learning and want to learn.
 - [Ideas](https://trello.com/b/alB1ryRP) - Ideas I have that I want to bring to existence.
 - [Books](https://trello.com/b/MOrnm2aN) - Books I am reading and want to read.
