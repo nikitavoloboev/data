@@ -215,6 +215,7 @@
 	- [Dat](tools/dat.md)
 - [Design](design/design.md)
 	- [Design inspiration](design/design-inspiration.md)
+- [Keyboards](keyboards/keyboards.md)
 - [Future](future/future.md)
 - [Cryptocurrencies](cryptocurrencies/cryptocurrencies.md)
 	- [Bitcoin](cryptocurrencies/bitcoin.md)
