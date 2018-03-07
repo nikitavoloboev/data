@@ -278,12 +278,17 @@ And here are a few quotes that didn't make both of those lists but I still liked
 	- Elon Musk
 
 ## Work
-- You are a business, your skills are the product. Treat it like that.
-- Show, don't tell
-- You don't remember the work, you remember the exhilaration.
-	- Robert Herjavec
-- You don't pay a plumber to bang on your pipes, you pay them to know where to bang
-- If you think a pro is expensive, wait until you have to fix the work of an amateur
+> "You are a business, your skills are the product. Treat it like that."
+
+> "You don’t get paid what you deserve. You get paid what other people think you're worth."
+
+> "Show, don't tell."
+
+> "You don't remember the work, you remember the exhilaration. - Robert Herjavec"
+
+> "You don't pay a plumber to bang on your pipes, you pay them to know where to bang"
+
+> "If you think a pro is expensive, wait until you have to fix the work of an amateur"
 
 ## Intelligence
 - An educated man is not, necessarily, one who has an abundance of general or specialised knowledge. An educated man is one who has so developed the faculties of his mind that he may acquire anything he wants, or its equivalent, without violating the rights of others.

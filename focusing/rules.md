@@ -3,67 +3,83 @@ Some simple rules to follow for myself doing things.
 
 ## Life
 - Simplify as much as possible. Never repeat myself.
-- Remember the lessons I learned. Don't repeat the mistakes I made.
-- Build [ideas](https://trello.com/b/alB1ryRP).
+- Learn from my mistakes. If things fail. Learn from it and move on.
+- Build [ideas](https://trello.com/b/alB1ryRP). Experiment.
 - Share everything I know and made.
-- Be mindful of my actions and thoughts.
+- Be mindful of my actions and thoughts. Don't eat/hurt anyone.
 - Don't compare myself to other people.
 - Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals too much.
 - Don't waste food/items.
 - Adjust these rules and my workflow to match what I have learned.
-- Follow these rules!
+- Follow these rules. Take it easy. You only live now.
 
 ## Work
-- Do deep work. Minimise distractions. Say __no__ to things.
+- Do deep work. Minimise distractions. Say __no__ to things. Set constraints.
 - Prioritise. Do important things first. Be clear on what I want to achieve. Think long term.
-- Do one thing at a time.
+- Do one thing at a time. Remove friction.
 - Don't visit Tweetbot and other sites that are blocked during the __focus__ session.
+- Think about the problem I want to solve. Don't give up. Don't rush things.
 - If my mind wanders and avoids doing the task, take a walk and do some exercice.
 - Do things that scale. Try to find solutions that scale with time.
 - Reuse other people's work.
+- Use the right tool for the job. Only when you master a tool, do you learn when not to use it. Learn new tools.
 - Start. Don't be afraid to solve the problem no matter how complex or intimidating it may be.
-- If things fail. Learn from it and move on.
+- Ship early. Get feedback and iterate on it. Rinse and repeat.
 
 ## Learning
-- Always learn new things.
+- Always learn new things. Investigate. Why? How?
 - Ask questions. Don't be afraid of not knowing something and [ask for help](../research/asking-questions.md).
 - Ask myself what is it that I am trying to solve or understand.
+- Go deep. Specialise. Be great at some thing and then branch out.
 - Document everything. Don't repeat things. Link instead.
+- Draw. Don't be full digital and use paper and imagination to distill complex ideas.
 
 ## Health
 - Exercise daily.
 
 ## Nutrition
 - No processed sugar. No food with extra sugar in it.
-- No added sugar in the drinks. Drink water, coffee and tea.
+- Drink water, coffee and tea. No added sugar in the drinks.
 - Always have water/tea next to me when working on something. Fill up the water/tea if it empties.
 - No meat or dairy products. Health and [ethical reasons](../life/compassion.md).
 - Focus on Whole Food, Plant-Based diet.
+
+## Ergonomics
+- Sit up right. Don't slouch my back. Take breaks.
+
+## Shipping a product
+- Have a nice looking website. The first look matters.
 
 ## Social media
 - Twitter posts are first made in [looking back](../looking-back/looking-back.md) and are always rallied to _Changes_ section unless the tweet has no preserving value.
 	- Images if relevant can be linked and embedded too.
 - Instagram posts are rallied to _Photos_ in [looking back](../looking-back/looking-back.md). If taken on the phone, it can be done on the mac later or automated.
+- Don't lock myself into using a service. Have my own system in place and give the social media a purpose. If there is no purpose to it, don't use it.
+
+## Privacy
+- Be mindful of the data fingerprint I leave from using a service. If the service disregards my privacy and brings me no value. Don't use it.
+
+## Design
+- Giving users too many options is often a bad idea. Give very few options but make each one of them count and stand out.
 
 ## Writing
 - Use proper punctuation and capitalise things appropriately.
-- When adding __:__, don't add space beforehand.
+- When adding `:`, don't add space beforehand.
 - When making tasks (2Do, Trello, GitHub issues), use imperative tense.
-- Remove unnecessary and _filler_ words.
-	- If something can be said in less words, say it in less words.
-	- Always try to be clear and to the point.
+- Remove unnecessary and _filler_ words. Use adverbs sparingly, the often undermine your point.
+- If something can be said in less words, say it in less words. Be clear and to the point.
 - Both in code and prose. Say more with less and never repeat myself.
 - Minimise using word _here_.
 	- When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
 
 ## Markdown
 - Don't leave unnecessary whitespace between headings and text.
-- Don't need to add __:__ to the end of text when adding image below as it is implicit.
+- Don't need to add `:` to the end of text when adding image below as it is implicit.
 - Only use HTML to adjust the image if the original size is not what I need. Don't adjust images blindly and check how the final image looks rendered compared to the text.
 - Use __Bold__ for strong emphasis. Use _Italic_ for soft emphasis. And `code quotes` for actual code, variables, path names and quoting inline (in same sentence).
 
 ## Wiki
-- Describe links on the same line with __-__ separator (if needs more description, then sub dash).
+- Describe links on the same line with `-` separator (if needs more description, then sub dash).
 - Interlink entries between each other within wiki where necessary. Don't over do it.
 - Don't repeat myself or anyone else. If something has already been said either by me or someone else, link to it (especially in this wiki).
 - Try to use other services for logging and other things where possible. Like in the case of [Letterboxd](https://letterboxd.com/NikitaVoloboev/) and its Lists feature. It's better to make lists there and link to the lists from wiki. Find the right tool for the job. The wiki should act as a glue between things.
@@ -96,7 +112,7 @@ Some simple rules to follow for myself doing things.
 	- The resources should be moderated and extended by the community through clear guidelines.
 
 ## Git
-- Always initialise new projects with Git.
+- Alwaysinitialise new projects with Git.
 - Do atomic commits and write [proper appropriate commit messages](https://chris.beams.io/posts/git-commit/).
 - Start commits uppercased and prefix them with an action (Add/Remove/Fix/Update). Use [imperative tense](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg).
 	- On larger projects, prefix commits by scope for easier search and index.
@@ -108,18 +124,23 @@ Some simple rules to follow for myself doing things.
 - Comment all my aliases briefly saying what they do. Comment all zsh functions. Be mindful that I can then search through these functions and aliases later.
 
 ## Code
-- Write code to be read by other people. Prefer to be explicit over implicit.
-- Delimit files that have spaces with __-__ instead of __\___.
-- Write a small comment on top of the file to describe the purpose of the file. Where appropriate.
+- Write code to be read by other people. Prefer to be explicit over implicit. [Readability Matters More Than Correctness](https://xph.us/2017/04/23/readability.html)
+- Make the code run first. Then make it fast (if necessary).
+- Read documentation.
+- Delimit files that have spaces with `-` instead of `_`.
 - Use switch cases over long ifs.
 - Function name should describe what it does, not when it's run. Good function names summarize what happens inside.
 
+## Documentation
+- Practice self documentation. Where possible, document things inline in the code base or app itself in some way. Don't duplicate things.
+
 ## Commenting
+- Comment over my code. Be mindful of not repeating things. Don't comment obvious things.
 - In comments, don't write __Will ..__. Just write what it will do. Remove unnecessary (filler) words.
 - Uppercase comments for consistency.
 - Use imperative tense. Instead of _# Outputs_, use _# Output_.
 - Only add one space after the code for inline comments. Don't space them out.
-- Comment over my code (be mindful of not repeating things, sometimes code speaks for itself).
+- Write a small comment on top of the file to describe the purpose of the file. Where appropriate.
 
 ## Keyboard Maestro
 - All macro names are lowercased. Unless it is necessary.
@@ -153,6 +174,9 @@ Some simple rules to follow for myself doing things.
 ## Releasing workflows with OneUpdater
 - Don't forget to update version number and then also commit the workflow so info.plist on GitHub has the latest version.
 
+## Interviews
+- When preparing for interviews, code up solutions myself instead of looking at solutions. Be able to express solution in my own words.
+
 ## SnippetsLab
 - Lowercase and prefix all snippets. Notes can be uppercased.
 - Upload all non personal snippets as Gists.
@@ -176,6 +200,14 @@ Some simple rules to follow for myself doing things.
 
 ## Capitalising things
 - Capitalise everything where appropriate (Sentences / Headings / Alfred workflows / GitHub descriptions / GitHub issues and PRs / Comments in SnippetsLab / Main dashed points / Tweets / ..).
+
+## Asking questions
+- When posting an error or an issue, give as much relevant information as I can to help debug it.
+- For asking questions about Alfred workflows, link to the workflow you are trying to edit in the comment. And paste the debugger output from when the issue occurs.
+
+## Feedback
+- When asking for feedback, never ask people if they like the product I built. Ask them whether they don't like anything instead.
+- Welcome any feedback. The more critical feedback, the better. Iterate on it.
 
 ## Ship app
 - Prioritise repos in the sidebar based on priority/urgency.
@@ -201,8 +233,14 @@ Some simple rules to follow for myself doing things.
 ## Anki
 - Don't make a card of a fact or something that you can easily look up.
 
+## Tests
+- Check my work and go through my calculations again. It's easy to miss something.
+
 ## Product Hunt
 - Add products I like to an appropriate collection.
+
+## Relationships
+- Meet new people.
 
 ## Vim
 - Comment over all mappings in vimrc itself.
@@ -216,6 +254,8 @@ Some simple rules to follow for myself doing things.
 ## Focus
 - Be very aggressive in cutting any kind of distractions when working.
 - Look at where I spend my time in Timing and cut those out with Focus and scripts.
+- Change location. Work from different places.
+- Use one screen when coding. Much easier to context switch.
 
 ## Licensing
 - License my own code under MIT.
@@ -269,6 +309,7 @@ Some simple rules to follow for myself doing things.
 ## Finance
 - Track every purchase made with YNAB. Put every purchase in its respective category.
 - Adhere to my budget that I have set for each of the categories. If there is no budget left for eating out. Don't eat out.
+- Keep receipts of expensive purchases for warranty.
 
 ## Safari
 - Only bookmark personal information and links. The rest should be available via [curated lists](https://github.com/learn-anything/curated-lists#readme) or [awesome lists](https://github.com/sindresorhus/awesome#readme).
@@ -281,10 +322,19 @@ Some simple rules to follow for myself doing things.
 - Make the data actionable in some way. Either as a way that you can query it later and read or look back upon in the future (as is case with Day One) or as a way you can immediately take action on in form of analysis of it.
 	- Knowing what goals you have and the reasons why you are collecting or using certain kind of data is important and saves a lot of time in the future when you want to _minimise_ and _simplify_ things in life.
 
+## Backups
+- Data that is not backed up is lost data. Automate backups.
+
 ## Trello
 - No need to create _Doing now_ and _Do next_ blocks. I can use _watching_ feature for that and seperate cards instead by topic. Use _tags_ to give priority to tasks. (In my case _Important_ and _Next_ are always present tags in most boards).
 - Share boards publically that contain no sensetive or private information.
 - For boards like _Learning_ and _Books_, no need to add links to cards as the links to these things should already be added in [LA curated lists](https://github.com/learn-anything/curated-lists#readme) which are easily queriable.
+
+## Other
+- Check everything once I leave a room. In case I forget anything.
+- Avoid confusion. Don't use anything only I can understand.
+- Be aware of my own quirks and ask myself why I do what I do.
+- Don't overthink things to the point of not doing anything.
 
 ## Remember
 - Everything evolves with time. Projects, articles, ideas will evolve with time and will never be what I first envisioned them to be.
