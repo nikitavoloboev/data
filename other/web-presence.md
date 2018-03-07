@@ -73,7 +73,7 @@ These are my personal profiles on various websites sorted by categories.
 ## Support
 - [Patreon](https://patreon.com/nikitavoloboev) - Since I do nearly everything Open Source and Free by default, I don't get any money for these things. Thus anyone who likes my work can show it in form of small or bigger donations.
 - [Buy me a coffee](https://www.buymeacoffee.com/nikitavoloboev) - One time donations.
-- [My public crypto addresses](https://www.vaulty.io/v/bea81e30-2171-11e8-bd4d-07213ba02ab3)
+- [My public crypto addresses](https://www.vaulty.io/v/a0c360d0-2196-11e8-a119-494749abff15)
 
 ## Other
 - [Keybase](https://keybase.io/nikitavoloboev) - Holds my public PGP key. I also prove my identity on various websites there.

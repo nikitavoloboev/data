@@ -2,6 +2,7 @@
 ## Changes
 - (2) Going to use Trello exclusively for managing projects.
 - (4) Adding this change from iOS. Moved the wiki to Dropbox and hooked up Ulysses to edit the folder on iOS. Pretty amazing.
+- (5) Made my first crypto purchase. Pretty awesome experience.
 
 ## Photos
 ![](https://scontent-ams3-1.cdninstagram.com/vp/f31a8d90a3b19d084b8df84ccf718c37/5B35DA2F/t51.2885-15/e35/28428181_175665736388402_1209533580204572672_n.jpg)

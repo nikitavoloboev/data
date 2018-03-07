@@ -5,7 +5,7 @@ Some simple rules to follow for myself doing things.
 - Simplify as much as possible. Never repeat myself.
 - Remember the lessons I learned. Don't repeat the mistakes I made.
 - Build [ideas](https://trello.com/b/alB1ryRP).
-- Share everything I know and made. Refine my workflow around this idea.
+- Share everything I know and made.
 - Be mindful of my actions and thoughts.
 - Don't compare myself to other people.
 - Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals too much.
@@ -16,6 +16,7 @@ Some simple rules to follow for myself doing things.
 ## Work
 - Do deep work. Minimise distractions. Say __no__ to things.
 - Prioritise. Do important things first. Be clear on what I want to achieve. Think long term.
+- Do one thing at a time.
 - Don't visit Tweetbot and other sites that are blocked during the __focus__ session.
 - If my mind wanders and avoids doing the task, take a walk and do some exercice.
 - Do things that scale. Try to find solutions that scale with time.
@@ -268,6 +269,9 @@ Some simple rules to follow for myself doing things.
 ## Finance
 - Track every purchase made with YNAB. Put every purchase in its respective category.
 - Adhere to my budget that I have set for each of the categories. If there is no budget left for eating out. Don't eat out.
+
+## Safari
+- Only bookmark personal information and links. The rest should be available via [curated lists](https://github.com/learn-anything/curated-lists#readme) or [awesome lists](https://github.com/sindresorhus/awesome#readme).
 
 ## Videos
 - Watch talks and tutorials at 1.25+ speed. Unless it hurts coprehension than watch it at slower speeds.
