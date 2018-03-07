@@ -9,7 +9,7 @@ Some simple rules to follow for myself doing things.
 - Be mindful of my actions and thoughts. Don't eat/hurt anyone.
 - Don't compare myself to other people.
 - Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals too much.
-- Don't waste food/items.
+- Don't waste food/items/time.
 - Adjust these rules and my workflow to match what I have learned.
 - Follow these rules. Take it easy. You only live now.
 
