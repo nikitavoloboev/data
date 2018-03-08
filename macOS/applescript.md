@@ -1,4 +1,4 @@
-# Applescript
+# [Applescript](https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
 Pretty useful to know scripting language for macOS.
 
 ## Links

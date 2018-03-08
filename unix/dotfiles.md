@@ -1,4 +1,4 @@
-# Dotfiles
+# [Dotfiles](https://dotfiles.github.io)
 Dotfiles are all the hidden settings and configuration files you have on your unix system.
 
 I wrote a bit on how you can set up and start customising your shell from scratch as well as how to set up a dotfiles folder and share it on GitHub [here](https://medium.com/@NikitaVoloboev/pretty-and-fast-shell-97ea870f2805).

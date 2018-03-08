@@ -1,4 +1,4 @@
-# Sublime text
+# [Sublime text](https://www.sublimetext.com)
 Use this editor in addition to VS Code and Neovim for its blazing fast speed of opening files.
 
 I use it primarily to edit markdown files like [this wiki](../other/wiki-workflow.md). I also edit config files and open large and small files for quick edits.

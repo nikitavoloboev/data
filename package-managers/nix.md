@@ -1,5 +1,5 @@
-# Nix
-[Nix package manager](https://github.com/NixOS/nix) is really interesting. I am in the process of transitioning to using it over homebrew.
+# [Nix](https://github.com/NixOS/nix)
+Nix package manager is really interesting. I am in the process of transitioning to using it over homebrew.
 
 ## Notes
 - Nix lets you roll back changes atomically.

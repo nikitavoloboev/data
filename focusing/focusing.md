@@ -25,4 +25,5 @@ I keep a private Trello board where I outline things that I want to focus on in 
 - You can't manage projects. You can only manage actions related to projects.
 
 ## Links
+- [Maker's schedule](http://www.paulgraham.com/makersschedule.html)
 - [Shipping vs. Fiddling](https://medium.com/@okonetchnikov/shipping-vs-fiddling-74e27e61e0c1) - Sometimes it's best to focus on getting things done and not fighting the tools/software.

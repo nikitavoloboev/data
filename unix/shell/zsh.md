@@ -1,4 +1,4 @@
-# Zsh
+# [Zsh](http://www.wikiwand.com/en/Z_shell)
 My shell of choice. My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/tree/master/zsh).
 
 ## Notes

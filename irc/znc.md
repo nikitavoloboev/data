@@ -1,4 +1,4 @@
-# ZNC
+# [ZNC](https://wiki.znc.in/ZNC)
 ## ZNC commands
 - `/quote detach ..` - will detach a channel from znc
 	- i.e. `/quote detach ##graphics`

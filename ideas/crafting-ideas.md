@@ -1,5 +1,5 @@
-# Crafting ideas
-[Crafting Ideas](https://github.com/nikitavoloboev/crafting-ideas) is a project I really wish existed in this world.
+# [Crafting ideas](https://github.com/nikitavoloboev/crafting-ideas)
+Crafting Ideas is a project I really wish existed in this world.
 
 The goal of the project is sharing ideas that a person has either privately for oneself or publically so that other people can help you make the project come alive.
 

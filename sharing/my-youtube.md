@@ -1,5 +1,5 @@
 # My YouTube videos
-Below is a list of all the YouTube videos I shared.
+Below is a list of all the videos I shared on [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw).
 
 The number between brackets shows the year I created the video in.
 

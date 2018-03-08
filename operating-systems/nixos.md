@@ -1,4 +1,4 @@
-# NixOS
+# [NixOS](https://nixos.org)
 Is interesting. [This](https://nixos.org/~eelco/pubs/phd-thesis.pdf) is a PhD thesis on this OS.
 
 Whilst I don't use NixOS as my primary OS. I am trying to use its [nix package manager](../package-managers/nix.md) on macOS where possible.

@@ -1,4 +1,4 @@
-# Javascript for Automation
+# [Javascript for Automation](https://developer.apple.com/library/content/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/Articles/Introduction.html)
 Still learning it. [This](https://github.com/JXA-Cookbook/JXA-Cookbook/wiki/Foreword) is a great reference.
 
 ## Notes

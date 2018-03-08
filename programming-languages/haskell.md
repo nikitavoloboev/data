@@ -1,4 +1,4 @@
-# Haskell
+# [Haskell](https://www.haskell.org)
 A language I really want to learn.
 
 ## Links

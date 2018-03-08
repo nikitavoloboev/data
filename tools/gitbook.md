@@ -1,4 +1,4 @@
-# [Gitbook](https://www.gitbook.com)
+# [GitBook](https://www.gitbook.com)
 The tool I use to render all the markdown files in this wiki.
 
 In my opinion this is the future of book and publishing in general. Being able to put writing under Git and have such an awesome way to render what you write and have a builtin search ready to use, all for free is incredible.

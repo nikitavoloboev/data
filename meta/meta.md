@@ -3,7 +3,7 @@ Below you will find all the notes I have made. I continuously update them and I 
 
 Each folder is a topic that can include other topics under it related to the parent topic.
 
-[Gitbook](https://www.gitbook.com/) provides a pretty awesome search feature that lets you search across this entire knowledge base, so feel free to use it.
+[GitBook](https://www.gitbook.com/) provides a pretty awesome search feature that lets you search across this entire knowledge base, so feel free to use it.
 
 I also love using night mode. You can switch to it from here if you haven't:
 

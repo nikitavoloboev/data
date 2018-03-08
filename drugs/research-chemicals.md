@@ -1,4 +1,4 @@
-# Research chemicals
+# [Research chemicals](https://psychonautwiki.org/w/index.php?title=Research_chemicals)
 ## Interesting
 - [3-HO-PCP](https://psychonautwiki.org/wiki/3-HO-PCP)
 - [arylcyclohexylamine](https://psychonautwiki.org/wiki/Arylcyclohexylamine)

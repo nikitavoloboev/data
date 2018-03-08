@@ -88,6 +88,7 @@ Some simple rules to follow for myself doing things.
 - Think about structuring the content and entries as I add new entries. Should a new category be added for the topic (thing) and under what category should the entry be placed.
 - If I move a file anywhere in the wiki, make sure to search for the path to the file in the entire wiki and change the references to the previous file with new one.
 - Don't abbreviate folders and files. Unless it is really clear what abbreviation means.
+- Add links to headings that link to the description of what my wiki article is actually about.
 
 ## GitHub
 - Add appropriate topics to each repo. Add the languages used in the repo as topics.

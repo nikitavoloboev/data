@@ -1,4 +1,4 @@
-# DuckDuckGo
+# [DuckDuckGo](https://duckduckgo.com)
 Pretty amazing search engine that respects user's privacy.
 
 I especially like its [instant answers](https://duckduckgo.com/api) feature.

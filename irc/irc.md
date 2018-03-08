@@ -1,4 +1,4 @@
-# IRC
+# [IRC](http://www.wikiwand.com/en/Internet_Relay_Chat)
 I spend quite a lot of my time on Freenode as it has so many really useful channels and people that can help you.
 
 I use [Textual](https://www.codeux.com/textual/ "Textual") IRC client and I use [ZNC](http://www.wikiwand.com/en/ZNC) network bouncer to always keep me logged in to the servers as well as it keeping history logs when I am away.

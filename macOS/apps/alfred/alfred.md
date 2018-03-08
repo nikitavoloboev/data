@@ -1,4 +1,4 @@
-# [Alfred](https://www.alfredapp.com/)
+# [Alfred](https://www.alfredapp.com)
 Alfred is a very powerful launcher that you can program to show you anything you want. It saved me a lot of time in my life.
 
 <img src="https://i.imgur.com/kbw0yCF.png" width="600" alt="img">
