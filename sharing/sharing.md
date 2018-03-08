@@ -43,4 +43,4 @@ I try to make my own workflow in doing things be as _transparent_ as possible.
 I love tracking various things for my own reference.
 
 ## [My life](../looking-back/looking-back.md)
-I also share and review my life in this wiki here. Acts as a little personal journal I love to look back on with time.
+I share and review my life in this wiki here. Acts as a little personal journal I love to look back on with time.

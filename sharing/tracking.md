@@ -36,7 +36,7 @@ Here is a list of various things I track for my own use and reference.
 - [Product Hunt collections](https://www.producthunt.com/@nikitavoloboev/collections) - Different collections of products and things I liked.
 
 ## Code
-- [Codepen collections](https://codepen.io/collections/mycollections/)
+- [Codepen collections](https://codepen.io/nikitavoloboev/collections/popular/)
 
 ## Design
 - [Dribble buckets](https://dribbble.com/nikitavoloboev/buckets) - Various buckets of designs I liked. There is also a [big list of designs I liked](https://dribbble.com/nikitavoloboev/likes).

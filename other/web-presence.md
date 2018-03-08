@@ -6,7 +6,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Codepen](https://codepen.io/nikitavoloboev/) - Hope to use it more often to experiment with web things.
 - [GitHub Gists](https://gist.github.com/nikitavoloboev) - Sharing all my Code Snippets. Created with [SnippetsLab](../macOS/apps/snippetslab.md).
 - [Stack Overflow](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile) - Asking and answering questions.
-- [Leetcode](https://leetcode.com/nikitavoloboev/) - Preparing for technical interviews.
+- [Leetcode](https://leetcode.com/nikivi) - Preparing for technical interviews.
 - [NPM](https://www.npmjs.com/~nikitavoloboev) - All the node modules I released.
 - [Freecodecamp](https://www.freecodecamp.com/nikitavoloboev) - Haven't completed it fully.
 - [Codementor](https://www.codementor.io/nikitavoloboev) - Never used it.
@@ -83,7 +83,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Indie Hackers](https://www.indiehackers.com/user/nikivi)
 - [Home](https://nikitavoloboev.xyz) - My personal home page on the internet.
 - [Vimeo](https://vimeo.com/user18010447) - Don't really use it but it has many creative videos.
-- [Airbnb](https://www.airbnb.com/users/show/48269245) - Don't use really use it.
+- [Airbnb](https://www.airbnb.com/users/show/48269245) - Don't really use it.
 - [DevianArt](https://nikivi.deviantart.com/) - Don't really use it.
 - [Eventbrite](https://www.eventbrite.com/u/146147331884/#) - Various events I have attended or planning to attend.
 - [My Mind](https://my.mindnode.com/iLmnWSNcvYYUMHxtwZkjKh6gJMNyZpzgLXjupniC#237.7,357.1,5) - My personal interactive mind maps.
