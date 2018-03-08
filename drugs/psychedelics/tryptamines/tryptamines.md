@@ -1,4 +1,6 @@
 # [Tryptamines](https://psychonautwiki.org/w/index.php?title=Tryptamine)
+This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/05/psychedelic-tryptamine-chemistry/) is a great read.
+
 ## Interesting
 - [N,N-DMT](dmt.md)
 - [4-AcO-DMT](https://psychonautwiki.org/wiki/4-AcO-DMT) - Synthetic mushrooms. Prodrug to Psilocin.
@@ -12,6 +14,3 @@
 - [DPT](https://psychonautwiki.org/w/index.php?title=DPT) - More intense than DMT.
 - [DiPT](https://psychonautwiki.org/wiki/DiPT)
 - [ΑMT](https://psychonautwiki.org/w/index.php?title=%CE%91MT)
-
-## Links
-- [Tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/05/psychedelic-tryptamine-chemistry/)
