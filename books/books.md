@@ -1,19 +1,14 @@
 # Books
 I love reading new books and making notes on things I've read and learned from the books I read.
 
-I keep a [Trello board](https://trello.com/b/MOrnm2aN) of books I am reading and want to read.
+I keep a [Trello board](https://trello.com/b/MOrnm2aN) of books I am reading and want to read. And I keep a few bookshelves of books I liked on [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev)
 
-I also track the books I have read on [Goodreads](https://www.goodreads.com/review/list/15768482?shelf=read) and below.
-
-## Books read
 I make notes on all the books I have read. Below are the books I have read or started to read sorted by the year I read (or started reading) the books in.
 
 #### Key
-The books with links attached will lead to notes I have made when reading the book. I add emojis to indicate if I read the book or liked it.
+The books with links attached will lead to notes I have made when reading the book as well as my review of the book if I read the book.
 - 📕 = I finished reading the book.
 - 🌟 = My favourite books.
-
-## 2018
 
 ### 2017
 - [Thinking fast and slow](thinking-fast-and-slow.md) - Interesting book so far.
@@ -28,7 +23,7 @@ The books with links attached will lead to notes I have made when reading the bo
 - [Rich dad poor dad](rich-dad-poor-dad.md)
 - [Elements of programming interviews](elements-of-programming-interviews.md)
 - [Crafting interpreters](crafting-interpreters.md)
-- [Flowers of Algernon](flowers-for-algernon.md) 🌟 - [Review](https://www.goodreads.com/review/show/782624446)
+- [Flowers of Algernon](flowers-for-algernon.md) 🌟
 - [Brave new world](brave-new-world.md)
 - [Cracking the coding interview](cracking-the-coding-interview.md)
 - [Code: hidden language of software](code-the-hidden-language.md) - Will read it soon. Really awesome book.
@@ -43,10 +38,10 @@ The books with links attached will lead to notes I have made when reading the bo
 
 ### 2014
 - Roadside Picnic 📕 - Was quite a fun read.
-- A Thousand Tiny Failures: Memoirs of a Pickup Artist 📕 - [Review](https://www.goodreads.com/review/show/919954441)
+- [A Thousand Tiny Failures: Memoirs of a Pickup Artist](a-thousand-tiny-failures-memoirs-of-a-pickup-artist.md) 📕
 
 ### 2013
-- The Master and Margarita 🌟 - [Review](https://www.goodreads.com/review/show/583056473)
+- [The Master and Margarita](master-and-margarita.md) 🌟
 
 ### 2012
 - The Picture of Dorian Gray 🌟 - Loved the book. Specifically the beautiful writing of it by Oscar Wilde.
