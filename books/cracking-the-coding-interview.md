@@ -1,4 +1,4 @@
-# Cracking the coding interview
+# [Cracking the coding interview](https://www.goodreads.com/book/show/12544648)
 ## Chapter 1 - arrays and strings
 - Hash table is a data structure that maps keys to values for highly efficient lookup.
 	- In a very simple implementation of a hash table, the hash table has an underlying array and a hash function.

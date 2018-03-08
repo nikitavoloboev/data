@@ -1,4 +1,4 @@
-# Eloquent ruby
+# [Eloquent ruby](http://goodreads.com/book/show/9364729)
 ## Chapter 1 - write code that looks like ruby
 - Code should be crystal clear - good code tells the reader exactly what it is trying to do. Great code shouts its intent.
 - Since there is a limit to how much information you can keep in your head at any given moment, good code is not just clear, it is also concise. It’s much easier to understand what a method or a class is doing if you can take it all in at a glance.

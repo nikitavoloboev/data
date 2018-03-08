@@ -1,4 +1,4 @@
-# Programming in Haskell
+# [Programming in Haskell](https://www.goodreads.com/book/show/912217)
 ## Foreword
 - Adding recursion in the form of feedback-loops to pure combinational circuits lets us implement mutable state via flip-flops.
 - True value of functional programming lies in leveraging first-class functions to achieve compositionality and equational reasoning.

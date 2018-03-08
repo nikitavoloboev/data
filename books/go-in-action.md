@@ -1,4 +1,4 @@
-# [Go in action](https://www.goodreads.com/book/show/22727352-go-in-action?from_search=true)
+# [Go in action](https://www.goodreads.com/book/show/22727352-go-in-action)
 # Chapter 2 - quick start
 - init() functions get called before main functions.
 - All variables in Go are initialized to their zero value. Pointer's zero value is nil.

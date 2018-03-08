@@ -1,4 +1,4 @@
-# Elements of programming interviews
+# [Elements of programming interviews](http://goodreads.com/book/show/16253895)
 ## Chapter 1 - strategies for a great interview
 - Once you have an algorithm, it is important to present it in a clear manner. Your solution will be much simpler if you take advantage of libraries such as Java Collections or C++ Boost.
 - Important that you use the language you are most comfortable with.
@@ -21,4 +21,4 @@
 	- Interviewers rarely penalise you for small syntax errors since modern IDE excel at handling these details.
 		- However, lots of bad syntax may result in the impression that you have limited coding experience. Once you are done writing your program, make a pass through it to fix any obvious syntax errors before claiming you are done.
 - Know your interviewers & the company.
-- 
+-

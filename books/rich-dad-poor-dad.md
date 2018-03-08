@@ -1,4 +1,4 @@
-# Rich dad poor dad
+# [Rich dad poor dad](http://goodreads.com/book/show/69571)
 - The author basically implies you need to let your money work for you.
 	- If you're not then you aren't going to be rich.
 	- Which means you need to invest in stock markets, bonds, mutual funds, real estate, business ventures that don't require you to actually have to be working but at the same time they make money over time.

@@ -1,4 +1,4 @@
-# Crafting interpreters
+# [Crafting interpreters](http://craftinginterpreters.com)
 ## Chapter 1
 - You can implement a compiler in any language, including the same language it compiles, a process called “self-hosting”.
 - You can’t compile it using itself yet, but if you have another compiler for your language written in some other language, you use that one to compile your compiler once.

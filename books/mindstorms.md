@@ -1,4 +1,4 @@
-# Mindstorms
+# [Mindstorms](http://goodreads.com/book/show/703532)
 ## Foreword
 - I began to formulate what I still consider the fundamental fact about learning:
 	- Anything is easy if you can assimilate it to your collection of models.
