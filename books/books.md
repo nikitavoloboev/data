@@ -32,16 +32,21 @@ The books with links attached will lead to notes I have made when reading the bo
 - [University physics with modern physics](university-physics-with-modern-physics.md)
 - Heart of a Dog 📕 - [Review](https://www.goodreads.com/review/show/589165109)
 - You Don't Know JS: Up & Going 📕 - [Review](https://www.goodreads.com/review/show/1587216818).
+- The Yellow Wallpaper 📕
 
 ### 2015
-- Logical Reasoning: A First Course - [Review](https://www.goodreads.com/review/show/1389050373?book_show_action=false&from_review_page=1)
+- Logical Reasoning: A First Course - [Review](https://www.goodreads.com/review/show/1389050373)
+- The Fable of the Dragon-Tyrant 📕
+- The Little Prince 🌟 - [Review](https://www.goodreads.com/review/show/1206274538)
+- Understand - Ted Chiang 🌟
 
 ### 2014
-- Roadside Picnic 📕 - [Review](https://www.goodreads.com/review/show/589176848?book_show_action=false&from_review_page=1)
-- A Thousand Tiny Failures: Memoirs of a Pickup Artist 📕 - [Review](https://www.goodreads.com/review/show/919954441?book_show_action=false&from_review_page=1)
+- Roadside Picnic 📕 - [Review](https://www.goodreads.com/review/show/589176848)
+- A Thousand Tiny Failures: Memoirs of a Pickup Artist 📕 - [Review](https://www.goodreads.com/review/show/919954441)
+- The Last Question 🌟- [Review](https://www.goodreads.com/review/show/935666315)
 
 ### 2013
-- The Master and Margarita 🌟 - [Review](https://www.goodreads.com/review/show/583056473?book_show_action=false&from_review_page=1)
+- The Master and Margarita 🌟 - [Review](https://www.goodreads.com/review/show/583056473)
 
 ### 2012
-- The Picture of Dorian Gray 🌟 - [Review](https://www.goodreads.com/review/show/485035652?book_show_action=false&from_review_page=1)
+- The Picture of Dorian Gray 🌟 - [Review](https://www.goodreads.com/review/show/485035652)
