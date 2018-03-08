@@ -269,7 +269,6 @@
 - [TV series](tv-series/tv-series.md)
 - [Courses](courses/courses.md)
 - [Articles](articles/articles.md)
-- [Short Stories](short-stories/short-stories.md)
 - [Research papers](research-papers/research-papers.md)
 	- [A view of mathematics](research-papers/a-view-of-mathematics.md)
 - [Books](books/books.md)

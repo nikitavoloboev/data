@@ -1,12 +1,12 @@
 # Books
-I love reading new books and making notes on things I've read and learned from the books I read.
+I love reading new books and making notes on things I've read and learned.
 
 I keep a [Trello board](https://trello.com/b/MOrnm2aN) of books I am reading and want to read. And I keep a few bookshelves of books I liked on [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev)
 
-I make notes on all the books I have read. Below are the books I have read or started to read sorted by the year I read (or started reading) the books in.
+Below are the books I have read or started to read sorted by the year I read (or started reading) the books in.
 
 #### Key
-The books with links attached will lead to notes I have made when reading the book as well as my review of the book if I read the book.
+The books with links attached will lead to notes I have made when reading the book. I attach my reviews to the books.
 - 📕 = I read the book.
 - 🌟 = I read the book and loved it.
 
