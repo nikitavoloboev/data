@@ -1,6 +1,4 @@
-# My GitHub repositories
-Below is a list of all the repositories I shared on [GitHub](https://github.com/nikitavoloboev).
-
+# My [GitHub](https://github.com/nikitavoloboev) repositories
 The number between brackets shows the year I created the repo in. Repos with a 🌟 are my **favourite**. Repos with 💡 mean they are in an idea stage still.
 
 ## Learn Anything

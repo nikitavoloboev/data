@@ -1,6 +1,4 @@
-# My YouTube videos
-Below is a list of all the videos I shared on [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw).
-
+# My [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) videos
 The number between brackets shows the year I created the video in.
 
 ## Alfred

@@ -1,4 +1,4 @@
-# Unix Shell
+# [Unix Shell](http://www.wikiwand.com/en/Unix_shell)
 ## Variables
 - `$HOME` - expands to the path of my home folder.
 - `$PS1` - the variable that represents my command prompt line.

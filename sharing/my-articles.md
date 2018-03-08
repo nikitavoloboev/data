@@ -1,6 +1,4 @@
-# My articles
-Below is a list of all the articles I published on [Medium](https://medium.com/@NikitaVoloboev).
-
+# My [Medium](https://medium.com/@NikitaVoloboev) articles
 The number between brackets shows the year I wrote the article in. Articles with a 🌟 are my __favourite__.
 
 ## Life
