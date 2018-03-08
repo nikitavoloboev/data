@@ -17,7 +17,7 @@ I keep a [Trello board](https://trello.com/b/EekGabpj) of games I am playing now
 - [League of Legends](http://www.wikiwand.com/en/League_of_Legends) - Speaking of DOTA, whilist I haven't played original DOTA much, I did love League. Have many fond memories of playng with my friends. Many people take the game too seriously and ruin the fun both for themselves and other people but if you play with friends and just have fun, the game is quite amazing.
 
 ## Games played
-I track all the games I have played [here](https://www.grouvee.com/user/nikivi/).
+I track all the games I have played [here](https://www.grouvee.com/user/nikivi).
 
 ## Links
 - [Games where you write code: part I](https://habrahabr.ru/company/mailru/blog/328806/)
