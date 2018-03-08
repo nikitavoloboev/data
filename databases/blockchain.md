@@ -9,6 +9,9 @@ In short, blockchain is a [linked list of hashes](https://www.quora.com/Is-a-blo
 - PBFT: Hand selected trusted nodes.
 - Randomized asynchronous algorithm: You trust nobody! Every single node is constantly re-evaluated. ([Skycoin](https://www.skycoin.net))
 
+## Interesting applications
+- [Horizon State](https://horizonstate.com/) - Digital voting.
+
 ## Links
 - [What is blockchain](https://oleganza.com/all/what-is-blockchain/)
 - [18 Blockchain Predictions for 2018](https://media.consensys.net/18-predictions-for-2018-7a376ea7bd4b)
