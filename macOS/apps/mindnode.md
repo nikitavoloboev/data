@@ -5,7 +5,7 @@ An application which allowed me to oriinally create all of the maps for [Learn A
 
 It is an incredible joy to make mind maps in this app and I use it to visualize everything. [My notes, my projects, my plans, my thoughts](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44).
 
-I also try to completely bridge the gap between [my mind maps](https://wiki.nikitavoloboev.xyz/meta/my-mind.html) and my mind with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
+I also try to completely bridge the gap between [my mind maps](../../sharing/my-mind.md) and my mind with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 
 In short, MindNode for me is the ultimate playground where ideas get born and played with first. I even have a __thinking__ map that I open with Karabiner by pressing `f + :`. And I [brainstorm things](../../research/solving-problems.md) I am doing __now__ there. Here is how that looks:
 

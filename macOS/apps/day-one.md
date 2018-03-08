@@ -3,7 +3,7 @@ Day One is my digital life journal.
 
 My entire life's experiences lives encrypted in the journal. Adding photographs I made and the thoughts and events that happened to me.
 
-I document and review [my life](https://wiki.nikitavoloboev.xyz/looking-back/looking-back.html) publicly too.
+I document and review [my life](../../looking-back/looking-back.md) publicly too.
 
 The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all [my tweets](https://twitter.com/nikitavoloboev) and [Insgragram posts](https://www.instagram.com/nikitavoloboev/).
 

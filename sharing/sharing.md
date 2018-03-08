@@ -31,7 +31,7 @@ I have [many more Trello boards](my-trello.md) I use and share.
 ## Curated Images on [Imgur](https://niikivi.imgur.com)
 I also curate many [Imgur albums](https://niikivi.imgur.com) of various things.
 
-## Knowledge in [this wiki](https://wiki.nikitavoloboev.xyz)
+## Knowledge in [this wiki](../README.md)
 I share [everything I know](everything-I-know.md) in form of this wiki here. Can be easily queried with the search in top left corner and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
 
 ## Answering questions on [Reddit](https://www.reddit.com/user/nikivi/), [Quora](https://www.quora.com/profile/Nikita-Voloboev) and various [Stack Exchanges](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile)
