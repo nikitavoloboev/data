@@ -22,7 +22,7 @@
 - (7) Going to use and abuse IFTTT a bit more and rally various online info I create like Tweets I made into Google spreadsheets. I want to make some meaningful analysis on this data later + it's nice to save for proseterity as I can save it as PDF for later viewing.
 - (8) Will review all movies I watch from now on.
 
-## Code
+## Weekly
 
 ## Music
 > [Artists](https://www.last.fm/user/playfullyExist/library/artists?to=2018-03-31&from=2018-03-01)

@@ -21,6 +21,10 @@ Some simple processes I should follow when doing things.
 1. Collect notes and experiences.
 2. Write the article.
 
+## Week review in [looking back](../looking-back/looking-back.md)
+1. Add snapshot of Timing & Wakatime. Evaluate. See what can be improved.
+2. Add images from [Instagram](https://www.instagram.com/nikitavoloboev).
+
 ## Month review in [looking back](../looking-back/looking-back.md)
-1. Write summary. Evaluate time spent. See what can be improved.
-2. Add Timing, Wakatime, music listened (Artists, Tracks, Albums from Last.fm), Twitter snapshots.
+1. Write summary. Evaluate. See what can be improved.
+2. Add Timing (monthly view), music listened (Artists, Tracks, Albums from Last.fm), Twitter snapshots.
