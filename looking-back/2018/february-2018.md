@@ -180,5 +180,5 @@ Didn't do a month review as that is premium feature, will do weekly shots next m
 ![](https://i.imgur.com/WFkjfse.png)
 > [Albums](https://www.last.fm/user/playfullyExist/library/albums?from=2018-02-01&to=2018-02-28)
 
-## Links
+## Twitter
 - [February tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-02-01%20until%3A2018-02-28&src=typd)
