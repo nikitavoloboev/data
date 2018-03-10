@@ -11,7 +11,6 @@ The books with links attached will lead to notes I have made when reading the bo
 - 🌟 = I read the book and loved it.
 
 ### 2018
-#### March
 - SICP
 
 ### 2017
