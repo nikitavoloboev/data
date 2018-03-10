@@ -57,7 +57,7 @@ Will be changing all of this in the next month. Step by step. Not everythng at o
 
 ## Music
 ![](https://i.imgur.com/jsh1UzR.jpg)
-> [Artists](https://www.last.fm/user/playfullyExist/library/artists?to=2018-01-31&from=2018-01-01) & [Albums](https://www.last.fm/user/playfullyExist/library/albums?to=2018-01-31&from=2018-01-01)
+> [Artists](https://www.last.fm/user/playfullyExist/library/artists?from=2018-01-01&to=2018-01-31) & [Albums](https://www.last.fm/user/playfullyExist/library/albums?from=2018-01-01&to=2018-01-31)
 
 ![](https://i.imgur.com/V4IvQaT.png)
 > [Tracks](https://www.last.fm/user/playfullyExist/library/tracks?to=2018-01-31&from=2018-01-01)

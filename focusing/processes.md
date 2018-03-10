@@ -23,4 +23,4 @@ Some simple processes I should follow when doing things.
 
 ## Month review in [looking back](../looking-back/looking-back.md)
 1. Write summary. Evaluate time spent. See what can be improved.
-2. Add music listened (Last.fm), Timing, Wakatime.
+2. Add Timing, Wakatime, music listened (Artists, Tracks, Albums from Last.fm), Twitter snapshots.

@@ -21,3 +21,15 @@
 - (7) Still wonder what it's like to work at a company or even a startup. Being a one person team for all my life aside from Learn Anything project and Angelo is quite tiring and brings you down with time. I think being surrounded by a team of people who inspire and empower you is amazing. Maybe one day I can find myself to be in that team.
 - (7) Going to use and abuse IFTTT a bit more and rally various online info I create like Tweets I made into Google spreadsheets. I want to make some meaningful analysis on this data later + it's nice to save for proseterity as I can save it as PDF for later viewing.
 - (8) Will review all movies I watch from now on.
+
+## Code
+
+## Music
+> [Artists](https://www.last.fm/user/playfullyExist/library/artists?to=2018-03-31&from=2018-03-01)
+
+> [Tracks](https://www.last.fm/user/playfullyExist/library/tracks?to=2018-02-31&from=2018-03-01)
+
+> [Albums](https://www.last.fm/user/playfullyExist/library/albums?from=2018-02-31&to=2018-03-01)
+
+## Links
+- [March tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-03-01%20until%3A2018-03-31&src=typd)

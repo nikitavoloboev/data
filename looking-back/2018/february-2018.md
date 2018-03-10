@@ -172,10 +172,10 @@ Didn't do a month review as that is premium feature, will do weekly shots next m
 
 ## Music
 ![](https://i.imgur.com/ONfuZsA.png)
-> [Artists](https://www.last.fm/user/playfullyExist/library/artists?to=2018-02-28&from=2018-02-01)
+> [Artists](https://www.last.fm/user/playfullyExist/library/artists?from=2018-02-01&to=2018-02-28)
 
 ![](https://i.imgur.com/HpsGfIL.png)
-> [Tracks](https://www.last.fm/user/playfullyExist/library/tracks?to=2018-02-28&from=2018-02-01)
+> [Tracks](https://www.last.fm/user/playfullyExist/library/tracks?from=2018-02-01&to=2018-02-28)
 
 ![](https://i.imgur.com/WFkjfse.png)
 > [Albums](https://www.last.fm/user/playfullyExist/library/albums?from=2018-02-01&to=2018-02-28)
