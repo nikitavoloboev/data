@@ -20,3 +20,7 @@ Some simple processes I should follow when doing things.
 ## Write an article
 1. Collect notes and experiences.
 2. Write the article.
+
+## Month review in [looking back](../looking-back/looking-back.md)
+1. Write summary. Evaluate time spent. See what can be improved.
+2. Add music listened (Last.fm), Timing, Wakatime.

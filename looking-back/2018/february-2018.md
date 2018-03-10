@@ -171,9 +171,14 @@ Going to take Timing a lot more serious next month. I revamped by projects and T
 Didn't do a month review as that is premium feature, will do weekly shots next month though.
 
 ## Music
-![](https://i.imgur.com/BCDcb66.jpg)
+![](https://i.imgur.com/ONfuZsA.png)
+> [Artists](https://www.last.fm/user/playfullyExist/library/artists?to=2018-02-28&from=2018-02-01)
 
-![](https://i.imgur.com/rr3gukJ.png)
+![](https://i.imgur.com/HpsGfIL.png)
+> [Tracks](https://www.last.fm/user/playfullyExist/library/tracks?to=2018-02-28&from=2018-02-01)
+
+![](https://i.imgur.com/WFkjfse.png)
+> [Albums](https://www.last.fm/user/playfullyExist/library/albums?from=2018-02-01&to=2018-02-28)
 
 ## Links
-- [My February tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-02-01%20until%3A2018-02-28&src=typd)
+- [February tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-02-01%20until%3A2018-02-28&src=typd)

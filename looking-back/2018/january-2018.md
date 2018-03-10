@@ -56,12 +56,13 @@ Will be interesting to see how this will change in the coming time. I hope it wi
 Will be changing all of this in the next month. Step by step. Not everythng at once.
 
 ## Music
-
 ![](https://i.imgur.com/jsh1UzR.jpg)
+> [Artists](https://www.last.fm/user/playfullyExist/library/artists?to=2018-01-31&from=2018-01-01) & [Albums](https://www.last.fm/user/playfullyExist/library/albums?to=2018-01-31&from=2018-01-01)
 
 ![](https://i.imgur.com/V4IvQaT.png)
+> [Tracks](https://www.last.fm/user/playfullyExist/library/tracks?to=2018-01-31&from=2018-01-01)
 
 I really loved listening to downtmpo and instrumental music. Also Nils Frahm and his All Melody album is phenomenal.
 
 ## Links
-- [My January tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-01-01%20until%3A2018-01-30&src=typd)
+- [January tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-01-01%20until%3A2018-01-30&src=typd)
