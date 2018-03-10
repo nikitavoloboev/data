@@ -164,12 +164,6 @@ Here is a little collage of my favourite posts I made on FB since my first artic
 
 Going to take Timing a lot more serious next month. I revamped by projects and Trello according to my goals but disregarded Timing for this month. I also was not productive this month. At all. Mostly due to my health condition that I _really_ wish would go away already.
 
-## Code
-![](https://i.imgur.com/I2tAW1k.png)
-> (22-28)
-
-Didn't do a month review as that is premium feature, will do weekly shots next month though.
-
 ## Music
 ![](https://i.imgur.com/ONfuZsA.png)
 > [Artists](https://www.last.fm/user/playfullyExist/library/artists?from=2018-02-01&to=2018-02-28)
@@ -180,5 +174,6 @@ Didn't do a month review as that is premium feature, will do weekly shots next m
 ![](https://i.imgur.com/WFkjfse.png)
 > [Albums](https://www.last.fm/user/playfullyExist/library/albums?from=2018-02-01&to=2018-02-28)
 
-## Twitter
+## Links
+- [Movies seen](https://letterboxd.com/nikitavoloboev/films/diary/for/2018/02/)
 - [February tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-02-01%20until%3A2018-02-28&src=typd)
