@@ -22,6 +22,7 @@ Some advice I received and liked or read in some place.
 - When proposing feature requests, _"for me"_ is never a good argument for a feature request.
 	- If I want someone to add a feature to their software, show how it would be useful to lots of users.
 - Explicit over implicit is almost always better.
+- It can be all too easy to forget your audience has no idea what you’re talking about beyond what you tell them.
 
 ## Writing
 - Most adverbs are superfluous. Most cases where you say "generally" or "usually" you're undermining your point and the use of "very", "extremely", etc. are hyperbolic and breathless and make it easier to regard what you're writing as unserious.

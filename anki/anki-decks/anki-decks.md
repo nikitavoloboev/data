@@ -1,5 +1,5 @@
 # [Anki](https://apps.ankiweb.net) decks
-I love [Anki](https://apps.ankiweb.net) app for making various flash cards to aid in my learning.
+I love Anki app for making various flash cards to aid in my learning.
 
 I will be adding all the Anki decks I have made to aid my learning here.
 

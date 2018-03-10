@@ -10,7 +10,7 @@ And here are a few quotes that didn't make both of those lists but I still liked
 
 > "Mistakes are the portals of discovery." - James Joyce.
 
-> "[In a year from now, you'll wish you had started today.](https://www.julian.com/learn/muscle/intro)"
+> ["In a year from now, you'll wish you had started today."](https://www.julian.com/learn/muscle/intro)
 
 > "Don't let anyone tell you your ideas are stupid or the thing you feel most passionate about 'won't work" - Dennis Crowley
 

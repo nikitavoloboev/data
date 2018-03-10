@@ -29,7 +29,7 @@ I love using IRC and hanging out in various channels of Freenode. Mostly as a wa
 I sometimes check it out as it does contain some interesting links.
 
 ## Communities and forums I frequent
-I spend a lot of my time in the [Slack group we have for Learn Anything](https://join.slack.com/t/learnanythingxyz/shared_invite/enQtMjg1MTcxMjA4NDg2LWU0YjgxZTZmZGY5MTRlMWI3ZWJjYzNhYTg4MmE1OTRjNTQ2MjUwYWI3ZGZlZjg1MDA0OTc3ZDY3ZmMzZDc4N2I).
+I spend a lot of my time in the [Gitter](https://gitter.im/learn-anything/Lobby) chat to discuss Learn Anything development.
 
 Aside from that I really like visiting and at times contributing to these forums:
 1. [Alfred forum](https://www.alfredforum.com)

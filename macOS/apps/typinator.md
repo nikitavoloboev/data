@@ -1,5 +1,5 @@
 # [Typinator](http://www.ergonis.com/products/typinator/)
-I use the app to [fully automate writing repetetive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
+I use the app to [fully automate writing repetitive text](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8).
 
 I share all the Typinator sets I made with the app [here](typinator#readme).
 
