@@ -3,6 +3,7 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 
 ## Favourite artists
 - [Mounika](https://soundcloud.com/mounika-beat) - [I Feel love](https://www.youtube.com/watch?v=OM97kdCa99s) | [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) | [Stay Here](https://www.youtube.com/watch?v=-RTOrm50Q8w) | [Love You Sweet It's What I Do](https://www.youtube.com/watch?v=55EANOPFunw)
+- [Kamandi](https://soundcloud.com/kamandi-1) - [Habits](https://www.youtube.com/watch?v=crWSwBhKz-o) | [Martyrs](https://www.youtube.com/watch?v=v6gdhUY1phY)
 - [Maribou State](https://soundcloud.com/mariboustate) - [Midas](https://www.youtube.com/watch?v=-UM76mULg7M) | [Manila](https://www.youtube.com/watch?v=BNs8pnOgtEw) | [Bricks](https://www.youtube.com/watch?v=0Z7PUEHb3e8)
 - [Boogie Belgique](https://soundcloud.com/boogiebelgique) - [Once have I](https://www.youtube.com/watch?v=a0ukwowW2Z0) | [Need somebody](https://www.youtube.com/watch?v=9jKfexL3TNc) | [Every Time](https://www.youtube.com/watch?v=-svrq8P3RYo)
 - [Tor](https://soundcloud.com/torsmusic) - [Days Gone](https://www.youtube.com/watch?v=NyBFuj0BBh8)
@@ -91,7 +92,6 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Scann-Tec](https://soundcloud.com/scann-tec)
 - [Entheogenic](https://entheogenic-usr.bandcamp.com)
 - [NoMBe](https://soundcloud.com/nombe) - [California Girls](https://soundcloud.com/nombe/california-girls) | [Miss Mirage](https://www.youtube.com/watch?v=egijOUnGgQ4)
-- [Kamandi](https://soundcloud.com/kamandi-1) - [Martyrs](https://www.youtube.com/watch?v=v6gdhUY1phY)
 - [Madisen Ward and the Mama Bear](http://www.madisenwardandthemamabear.com) - [Silent Movies](https://www.youtube.com/watch?v=ts2aARA1dwQ)
 - [LEISURE](https://soundcloud.com/theleisurecollective) - [Got It Bad](https://www.youtube.com/watch?v=FLZhbW8ds1U)
 - [Lion González](https://soundcloud.com/liongonzalez) - [Robot Text](https://www.youtube.com/watch?v=US-_l3H8yaU)
