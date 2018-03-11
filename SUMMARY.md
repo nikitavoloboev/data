@@ -294,7 +294,6 @@
 	- [Recent](other/recent.md)
 	- [Favourite tweets](other/favourite-tweets.md)
 	- [Funny](other/funny.md)
-	- [GIFs](other/gifs.md)
 	- [Puzzles](other/puzzles.md)
 	- [My web presence](other/web-presence.md)
 - [Looking back](looking-back/looking-back.md)
