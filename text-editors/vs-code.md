@@ -10,6 +10,7 @@ I also love using [Ayu One Dark](https://marketplace.visualstudio.com/items?item
 ## Plugins I use
 - [Vim](https://github.com/VSCodeVim/Vim)
 - [Go](https://github.com/Microsoft/vscode-go)
+- [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop)
 
 ## Interesting plugins
 - [Polacode](https://github.com/octref/polacode) - Polaroid for your code.

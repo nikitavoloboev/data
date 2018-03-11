@@ -10,3 +10,4 @@ Math is fascinating. And frankly I am not that good at it yet. But I can get bet
 - [Tools for thought](https://acko.net/files/gltalks/toolsforthought/#0)
 - [Making things with maths](https://www.youtube.com/watch?v=Zkx1aKv2z8o)
 - [The Map of Mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y&)
+- [How to self learn math](https://news.ycombinator.com/item?id=16562173)

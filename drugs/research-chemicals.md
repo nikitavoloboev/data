@@ -1,7 +1,7 @@
 # [Research chemicals](https://psychonautwiki.org/w/index.php?title=Research_chemicals)
 ## Interesting
 - [3-HO-PCP](https://psychonautwiki.org/wiki/3-HO-PCP)
-- [arylcyclohexylamine](https://psychonautwiki.org/wiki/Arylcyclohexylamine)
+- [Arylcyclohexylamine](https://psychonautwiki.org/wiki/Arylcyclohexylamine)
 - [Deschloroketamine](https://psychonautwiki.org/w/index.php?title=Deschloroketamine)
 - [Etizolam](https://psychonautwiki.org/wiki/Etizolam)
 - [3-MMC](https://psychonautwiki.org/wiki/3-MMC) - Euphoric serotonin releasing stimulant. Closer to MDMA but shorter duration.
