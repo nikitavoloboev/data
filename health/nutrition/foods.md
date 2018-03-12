@@ -8,5 +8,8 @@ List of foods that are healthy.
 - Griffonia Seed - Has a lot of 5-HTP.
 - Ginger
 
+## Don't eat
+- Bread
+
 ## Links
 - [Serotonin Foods and Mood Disorders](https://bebrainfit.com/serotonin-foods-mood-brain/)

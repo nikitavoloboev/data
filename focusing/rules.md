@@ -8,6 +8,7 @@ Some simple rules to follow for myself doing things.
 - Share everything I know and made.
 - Be mindful of my actions and thoughts. Don't eat/hurt anyone.
 - Don't compare myself to other people.
+- Surround myself with people that inspire me.
 - Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals too much.
 - Don't waste food/items/time.
 - Adjust these rules and my workflow to match what I have learned.
