@@ -6,11 +6,10 @@ Some simple rules to follow for myself doing things.
 - Learn from my mistakes. If things fail. Learn from it and move on.
 - Build [ideas](https://trello.com/b/alB1ryRP). Experiment.
 - Share everything I know and made.
-- Be mindful of my actions and thoughts. Don't eat/hurt anyone.
-- Don't compare myself to other people.
-- Surround myself with people that inspire me.
+- Be mindful of my actions and thoughts. Don't eat/hurt anyone. Don't waste food/items/time.
+- Don't compare myself to other people. Surround myself with people that inspire me.
 - Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals too much.
-- Don't waste food/items/time.
+- Be honest. Don't lie to myself nor anyone else.
 - Adjust these rules and my workflow to match what I have learned.
 - Follow these rules. Take it easy. You only live now.
 

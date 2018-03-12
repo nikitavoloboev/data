@@ -291,7 +291,7 @@
 	- [Surely you are joking Mr Feynman](books/surely-you-are-joking-mr-feynman.md)
 	- [University physics with modern physics](books/university-physics-with-modern-physics.md)
 	- [Thinking, fast and slow](books/thinking-fast-and-slow.md)
-- [Other](other/other-things.md)
+- [Other](other/other.md)
 	- [Interesting things](other/interesting-things.md)
 	- [Wiki workflow](other/wiki-workflow.md)
 	- [Recent](other/recent.md)
