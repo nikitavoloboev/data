@@ -1,5 +1,5 @@
 # Processes
-Some simple processes I should follow when doing things.
+Some simple processes to follow when doing things.
 
 ## Understand
 1. Think it through.
