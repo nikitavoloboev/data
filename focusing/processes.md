@@ -21,6 +21,15 @@ Some simple processes I should follow when doing things.
 1. Collect notes and experiences.
 2. Write the article.
 
+## Morning routine
+1. Brush teeth and moisturise face.
+2. Start working on the first event from my Calendar. Focus.
+
+### Evening routine
+1. Brush teeth, moisturise face and take shower.
+2. Plan the day ahead in context of my Focus board estimates.
+3. Go to sleep before 11 pm. Ideally.
+
 ## Week review in [looking back](../looking-back/looking-back.md)
 1. Add snapshot of Timing & Wakatime. Evaluate. See what can be improved.
 2. Add images from [Instagram](https://www.instagram.com/nikitavoloboev) to `Photos`.

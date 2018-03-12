@@ -14,7 +14,6 @@
 	- [Learn Anything](projects/learn-anything.md)
 - [Focusing](focusing/focusing.md)
 	- [Rules](focusing/rules.md)
-	- [Routine](focusing/routine.md)
 	- [Processes](focusing/processes.md)
 - [Knowledge](knowledge/knowledge.md)
 	- [Knowledge indexing](knowledge/knowledge-indexing.md)

@@ -6,7 +6,7 @@
 - (2) Going to use Trello exclusively for managing projects.
 - (4) Adding this change from iOS. Moved the wiki to Dropbox and hooked up Ulysses to edit the folder on iOS. Pretty amazing.
 - (5) Made my first crypto purchase. Pretty awesome experience.
-- (7) Removed lessons learned from wiki. Only have [rules](../../focusing/rules.md), [processes](../../focusing/processes.md) and [routine](../../focusing/routine.md) now. Each of the files is binded to a key so I can open in a second. Should itearate on all of it with time and find what works the best for me.
+- (7) Removed lessons learned from wiki. Only have [rules](../../focusing/rules.md) and [processes](../../focusing/processes.md) now. Each of the files is binded to a key so I can open in a second. Should itearate on all of it with time and find what works the best for me.
 - (7) 10,000 ⭐ on [Learn Anything](https://github.com/learn-anything/learn-anything). 🎊
 ![](https://pbs.twimg.com/media/DXt-sVyWAAI0FIo.jpg:large)
 - (7) Going to use and abuse IFTTT a bit more and rally various online info I create like Tweets I made into Google spreadsheets. I want to make some meaningful analysis on this data later + it's nice to save for proseterity as I can save it as PDF for later viewing.
