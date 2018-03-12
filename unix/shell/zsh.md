@@ -7,6 +7,9 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - Search `zshall` man page to find all zsh widgets and more things.
 - I can use `zsh/zprof` to profile zsh startup time. Docs for it can be seen in `zshmodules`.
 
+## Links
+- [Zsh custom widgets](https://sgeb.io/posts/2014/04/zsh-zle-custom-widgets/)
+
 ## Snippets
 - [Read function definition](https://gist.github.com/44dfe0dff52103bc8f48bdb52791cd74)
 - [Run zsh without sourcing zshrc](https://gist.github.com/3322090e17652f5370ea8dd320ec2618)

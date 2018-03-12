@@ -15,3 +15,6 @@ This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/
 - [DPT](https://psychonautwiki.org/w/index.php?title=DPT) - More intense than DMT.
 - [DiPT](https://psychonautwiki.org/wiki/DiPT)
 - [ΑMT](https://psychonautwiki.org/w/index.php?title=%CE%91MT)
+
+## Links
+- [Tryptamines I Have Known And Loved: The Chemistry Continues](https://erowid.org/library/books_online/tihkal/tihkal.shtml)

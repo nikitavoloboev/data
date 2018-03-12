@@ -16,3 +16,4 @@ Here are some humans whose work I found great interest in:
 
 ## Links
 - [Important women in CS who aren't Grace Hopper](https://www.hillelwayne.com/post/important-women-in-cs/)
+- [Awesome programmers](https://github.com/rekihattori/awesome-programmers)

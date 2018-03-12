@@ -26,3 +26,4 @@ I share my Karabiner private.xml [here](https://github.com/nikitavoloboev/dotfil
 - [Karabiner.json reference manual](https://pqrs.org/osx/karabiner/json.html)
 - [Karabiner JSON spec](https://pqrs.org/osx/karabiner/json.html)
 - [Write Karabiner config in YAML and then convert to JSON](https://github.com/15cm/dotfiles/tree/master/.config/karabiner)
+- [jKeyboard](https://github.com/jhelvy/jKeyboard)

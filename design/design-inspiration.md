@@ -8,6 +8,7 @@ And here are few ore things I liked, design wise.
 - [taotajima ](http://taotajima.jp/works/waxing-moon/) - Amazing transitions.
 - [TANMU LABS](https://tanmulabs.com/) - Pretty awesome colour palette.
 - [The Disconnect](https://thedisconnect.co/)
+- [John Otander](http://johnotander.com/) - Simple.
 
 ## Design
 - [Marc Edwards](https://dribbble.com/bjango) - Developer of iStats Menu for mac.

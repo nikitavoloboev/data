@@ -18,6 +18,7 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [FB simply prolonged relationships that should’ve died out a long time ago naturally](https://www.reddit.com/r/AskReddit/comments/7lsywl/people_who_have_deleted_social_media_like/droyc6d/ "permalink")
 	- Generally you'd lose contact with all these people over time as you mature and just naturally drift apart. No shame in that, the ones you do want to keep in touch with you'd make a real effort for. Now it's so easy to just send a "like" , "congratulations!" or "Happy birthday!" that you find yourself very loosely connected to a bunch of people you really don't want to be but feel like everyone else is still in "contact" so you don't want to miss out.
 - When you realize that Instagram is someones curated life, you realize how manufactured their profile actually is. What you see is what they want you to see.
+- [The sad truth is that friendly face isn’t Facebook’s true face; it’s a sham, just like it’s a sham to sit on a tractor so people will think you’re tall. Mark Zuckerberg uses your most intimate connections, the literal faces of the people you love, to fool you into thinking that he’s not picking your pocket and taking a wrecking ball to our media, to the integrity of our society, and to democracy itself.](https://medium.com/s/story/the-smallness-of-mark-zuckerberg-4e94a88bba02)
 
 ## Links
 - [A plan to rescue the web](https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html)

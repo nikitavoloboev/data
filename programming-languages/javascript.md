@@ -9,6 +9,7 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 ## Links
 - [2017 JavaScript Rising Stars](https://risingstars.js.org/2017/en/)
 - [ES6 features](https://github.com/lukehoban/es6features#readme)
+- [The Definitive Guide to Object-Oriented JavaScript](https://www.youtube.com/watch?v=PMfcsYzj-9M) - Amazing video to understand JS inheritance & objects.
 
 ## Snippets
 - [Go to a specific url](https://gist.github.com/44d2f4c818a85a2cab6eff381ad43c6a)

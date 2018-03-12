@@ -11,9 +11,6 @@
 - (10) Started usig [Gitter](https://gitter.im/learn-anything) and our [Reddit subreddit](https://www.reddit.com/r/learnanything_) as our official way to communicate with the community around LA. Slack was a closed silo that doesn't work well with OSS projects.
 - (10) New format to monthly reviews. There are now `Weekly reviews` as well as `Shipped` category to track things I actually make and publish. Articles, code, projects. `Changes` then is more as a way of tracking _other_ things. Changes to workflow and whatnot. And `Thoughts` still stay as I find it quite a useful outlet for things. The ending 'credits' will include music I tracked on [Last.fm](https://www.last.fm/user/playfullyExist) & my tweets for that month. Would love to add some more things in time, my own new project I am working on will help in that regard quite a bit. Cleaned up my [books](../../books/books.md) entry and it's really clean list of books I read and started with my reviews attached. Will also be adding books I read in this month here though. Trying to optimise my [processes](../../focusing/processes.md) to account for all these things and simplify and 'automate' my life in this way. There is a lot of merit in keeping things simple but actually doing this kind of looking back thing. It keeps me accountable and motivates me to __do more__. I hope to refine my process with time and ship things perhaps not daily but at least weekly. Something new. Something I made.
 
-## Weekly reviews
-### (5-11)
-
 ## Thoughts
 - (1) Going to take Timing a __lot__ more seriously this month. And get some work done!
 - (4) Cryptocurrencies are really the future of money. No fees. Instant pay across the globe. Peer to peer with no intermediaries. It's exciting.
