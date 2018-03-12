@@ -34,9 +34,7 @@ reality checks. I write about my dreams briefly in this journal and note down co
 Contains very short entries. If I am feeling sad or happy about something, I write a small entry and say what I feel and put it there. It helps me be more conscious and honest with myself, my thoughts and feelings.
 
 ### Progress
-Weekly evaluation and self reflection. I use [Timing](https://timingapp.com/?lang=en) and [Wakatime](https://wakatime.com/dashboard) for this and see through these tools to know how I spent my time and where I can do better.
-
-I also try to track and be more conscious about my physical health and I trying to become a stronger version of myself every day. I post my progress pictures and my own commentary and thoughts there.
+I track my physical progress there. As I try to be more conscious about my physical health and always trying to become a stronger version of myself every day. I post my progress pictures and my own commentary and thoughts there.
 
 ### Family
 I have a dedicated journal where I put all the memories I have shared with my family.

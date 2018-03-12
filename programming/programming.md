@@ -13,6 +13,7 @@ I am not a great programmer by any means but the few programs I did write solved
 	- Of course it's all about striking a balance, but 99% of the time there is a choice between performance and readability, readability is the right answer. Performance should only be chosen if it is absolutely necessary.
 - If I write ugly code, anyone who intends to fix a bug or add a feature will not enjoy his work and likely avoid it next time.
 - Explicit over implicit is almost always better.
+- [One of my principles is to always strive for simplicity when creating. In retrospect, I've learned many thing that I previously thought too complex to understand. The complexities tend to dissolve when you realise they are mostly just extra distractions emerging from the pressures of engineering the thing... distractions that you probably find yourself inventing all over again once you've assimilated the core idea.](https://news.ycombinator.com/item?id=16562827)
 
 ## Links
 - [One Bite At A Time: Partitioning Complexity](https://www.facebook.com/notes/kent-beck/one-bite-at-a-time-partitioning-complexity/1716882961677894/)
