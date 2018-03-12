@@ -22,6 +22,7 @@
 	- [Solving problems](research/solving-problems.md)
 	- [Asking questions](research/asking-questions.md)
 	- [Staying on top of things](research/staying-on-top-of-things.md)
+- [Minimalism](minimalism/minimalism.md)
 - [Music](music/music.md)
 	- [Music playlists](music/music-playlists.md)
 	- [Music artists](music/music-artists.md)
