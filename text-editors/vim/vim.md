@@ -8,6 +8,9 @@ I use [neovim](https://github.com/neovim/neovim) instead of vim and my vimrc for
 ## Notes
 - I can profile vim startup time with [this](https://github.com/tweekmonster/startuptime.vim).
 - I can run `:CheckHealth` to see if there is anything wrong with my installation (only Neovim).
+- Get plugins that meet your needs.
+- You're more likely to find useful plugins if you approach it the other way around: I want to do X, vim can't really do it nicely by itself, which plugin can help me do it.
+- If something doesn't work in vimrc, put the binding in the bottom of vimrc (perhaps something overrides it).
 
 ## Links
 - [My Vim snippets](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+%28vim%29&ref=searchresults)

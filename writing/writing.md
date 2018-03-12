@@ -27,6 +27,9 @@ I keep a private Trello board where I drop ideas I have of what I want to write 
 
 ![](https://i.imgur.com/S2JEESU.png)
 
+## Notes
+- Most adverbs are superfluous. Most cases where you say "generally" or "usually" you're undermining your point and the use of "very", "extremely", etc. are hyperbolic and breathless and make it easier to regard what you're writing as unserious.
+
 # Links
 - [How I write](https://medium.com/@NikitaVoloboev/how-i-write-cdc2cebdc70c) - What my writing setup looks like on my mac. Although I now use Ulysses and PDF Expert in a separate space on my mac and I use many macros and few alfred workflows to quickly navigate through my writing library.
 - [A blog post about blog posts](https://medium.com/@naomi_pen/a-blog-post-about-blog-posts-4bb6a6ce0772)

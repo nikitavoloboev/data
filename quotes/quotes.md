@@ -4,85 +4,85 @@ I share quotes I really love at the end of [this page](https://nikitavoloboev.xy
 And here are a few quotes that didn't make both of those lists but I still liked.
 
 ## Life
-> "I don't believe in asceticism or sobriety, moderation is the middle path."
+> I don't believe in asceticism or sobriety, moderation is the middle path.
 
-> "Once you realise what a joke everything is, being the Comedian is the only thing that makes sense" - Watchmen by Alan Moore
+> Once you realise what a joke everything is, being the Comedian is the only thing that makes sense - Watchmen by Alan Moore
 
-> "Mistakes are the portals of discovery." - James Joyce.
+> Mistakes are the portals of discovery. - James Joyce.
 
-> ["In a year from now, you'll wish you had started today."](https://www.julian.com/learn/muscle/intro)
+> [In a year from now, you'll wish you had started today.](https://www.julian.com/learn/muscle/intro)
 
-> "Don't let anyone tell you your ideas are stupid or the thing you feel most passionate about 'won't work" - Dennis Crowley
+> Don't let anyone tell you your ideas are stupid or the thing you feel most passionate about 'won't work - Dennis Crowley
 
-> "It’s fine to celebrate success but it is more important to heed the lessons of failure. Success is a lousy teacher. It seduces smart people into thinking they can't lose." - Bill Gates
+> It’s fine to celebrate success but it is more important to heed the lessons of failure. Success is a lousy teacher. It seduces smart people into thinking they can't lose. - Bill Gates
 
-> "Times change, and we change with them."
+> Times change, and we change with them.
 
-> "One tomorrow at a time."
+> One tomorrow at a time.
 
-> "I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it." - Mark Twain
+> I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it. - Mark Twain
 
-> "Absorb what is useful, Discard what is not, Add what is uniquely your own." - Bruce Lee
+> Absorb what is useful, Discard what is not, Add what is uniquely your own. - Bruce Lee
 
-> "When I let go of what I am, I become what I might be." - Lao Tzu
+> When I let go of what I am, I become what I might be. - Lao Tzu
 
-> "Empower people. Embrace change. Eliminate waste."
+> Empower people. Embrace change. Eliminate waste.
 
-> "An unexamined life is not worth living."
+> An unexamined life is not worth living.
 
-> "A man who knows the price of everything and the value of nothing." - Oscar Wilde
+> A man who knows the price of everything and the value of nothing. - Oscar Wilde
 
-> "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose." - Steve Jobs
+> Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. - Steve Jobs
 
-> "You can’t be free if you judge people"
+> You can’t be free if you judge people
 
-> "If you don’t know where you’re going, any road will get you there." - Cheshire Cat in Alice in Wonderland
+> If you don’t know where you’re going, any road will get you there. - Cheshire Cat in Alice in Wonderland
 
-> "I wish it need not have happened in my time," said Frodo. "So do I," said Gandalf, "and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us." - The Fellowship of the Ring
+> I wish it need not have happened in my time, said Frodo. So do I, said Gandalf, and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us. - The Fellowship of the Ring
 
-> "Anyone, no matter how smart or educated, can be tricked and it's impossible to know when the person being tricked is you."
+> Anyone, no matter how smart or educated, can be tricked and it's impossible to know when the person being tricked is you.
 
-> "My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humour, and some style."
+> My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humour, and some style.
 
-> ""I don't think" - said Alice; "Then you shouldn't talk" said the Hatter." - Lewis Carroll, Alice in Wonderland
+> I don't think - said Alice; Then you shouldn't talk said the Hatter. - Lewis Carroll, Alice in Wonderland
 
-> "For a long time it seemed to me that real life was about to begin, but there was always some obstacle in the way. Something had to be got through first, some unfinished business; time still to be served, a debt to be paid. Then life would begin. At last it dawned on me that these obstacles were my life." - Alfred D. Souza
+> For a long time it seemed to me that real life was about to begin, but there was always some obstacle in the way. Something had to be got through first, some unfinished business; time still to be served, a debt to be paid. Then life would begin. At last it dawned on me that these obstacles were my life. - Alfred D. Souza
 
-> "I can remember thinking, "Oh, someday, like in my mid-thirties maybe, everything's going to just somehow gel and settle, just end." It was like there was this plateau, and it was waiting for me, and I was climbing up it, and when I got to the top, all growth and change would stop. Even exhilaration. But that hasn't happened like that, thank goodness. I think that what we don't take into account when we're young is our endless curiosity. That's what's so great about being human." - From movie “Waking Life
+> I can remember thinking, Oh, someday, like in my mid-thirties maybe, everything's going to just somehow gel and settle, just end. It was like there was this plateau, and it was waiting for me, and I was climbing up it, and when I got to the top, all growth and change would stop. Even exhilaration. But that hasn't happened like that, thank goodness. I think that what we don't take into account when we're young is our endless curiosity. That's what's so great about being human. - From movie “Waking Life
 
-> "[Two famous authors, Kurt Vonnegut and Joseph Heller are talking at a party hosted by a billionaire hedge fund manager. Kurt says to Joseph, “You know, this billionaire makes more money in one day than you made in your whole lifetime from your novel Catch-22“. Joe responds, “Yes, but I have something he will never have… enough.](http://www.mrmoneymustache.com/2011/09/04/book-review-enough-by-john-c-bogle/)"
+> [Two famous authors, Kurt Vonnegut and Joseph Heller are talking at a party hosted by a billionaire hedge fund manager. Kurt says to Joseph, “You know, this billionaire makes more money in one day than you made in your whole lifetime from your novel Catch-22“. Joe responds, “Yes, but I have something he will never have… enough.](http://www.mrmoneymustache.com/2011/09/04/book-review-enough-by-john-c-bogle/)
 
-> "All you touch, and all you see is all your life will ever be."
+> All you touch, and all you see is all your life will ever be.
 
-> "A mistake only stays a mistake if you don't learn from it."
+> A mistake only stays a mistake if you don't learn from it.
 
-> "The grass isn't greener on the other side, it's greener where you water it."
+> The grass isn't greener on the other side, it's greener where you water it.
 
-> "Don't spend life daydreaming about 'what could be' in a different place or circumstance. Instead, invest your energy in what is right in front of you and see how it can be cultivated into something beautiful."
+> Don't spend life daydreaming about 'what could be' in a different place or circumstance. Instead, invest your energy in what is right in front of you and see how it can be cultivated into something beautiful.
 
-> "Don’t worry about controlling your emotions. Control your actions"
+> Don’t worry about controlling your emotions. Control your actions
 
-> "Be the person you needed in life."
+> Be the person you needed in life.
 
-> "[Perhaps drugs aren't the experience, but life itself is the experience](https://www.reddit.com/r/Psychonaut/comments/5zimh9/first_dmt_experience_i_wasnt_ready/)"
+> [Perhaps drugs aren't the experience, but life itself is the experience](https://www.reddit.com/r/Psychonaut/comments/5zimh9/first_dmt_experience_i_wasnt_ready/)
 
-> "Energy is the currency of the universe. When you ‘pay’ attention to something, you buy that experience. Be selective with your focus."
+> Energy is the currency of the universe. When you ‘pay’ attention to something, you buy that experience. Be selective with your focus.
 
-> "Will either find a way, or make one Your soul takes on the colour of your thoughts"
+> Will either find a way, or make one Your soul takes on the colour of your thoughts
 
-> "Awaken; return to yourself. Now, no longer asleep, knowing they were only dreams, clear-headed again, treat everything around as a dream "
+> Awaken; return to yourself. Now, no longer asleep, knowing they were only dreams, clear-headed again, treat everything around as a dream
 
-> "It's normal to feel pain in your hands and feet, if your using your feet as feet and your hands as hands. And for a human being to feel stress is normal - if he's living a normal human life. And if it's normal, how can it be bad? "
+> It's normal to feel pain in your hands and feet, if your using your feet as feet and your hands as hands. And for a human being to feel stress is normal - if he's living a normal human life. And if it's normal, how can it be bad?
 
-> "You can hold your breath until you turn blue, but they'll still go on doing it."
+> You can hold your breath until you turn blue, but they'll still go on doing it.
 
-> "Leave other people's mistakes where they lie"
+> Leave other people's mistakes where they lie
 
-> "Don't mistake the finger for the moon"
+> Don't mistake the finger for the moon
 
-> "I mean, they say you die twice. One time when you stop breathing and a second time, a bit later on, when somebody says your name for the last time. " - Banksy
+> I mean, they say you die twice. One time when you stop breathing and a second time, a bit later on, when somebody says your name for the last time.  - Banksy
 
-> "The bad news is you’re falling through the air, nothing to hang on to, no parachute. The good news is there’s no ground. " - Trungpa Rinpoche
+> The bad news is you’re falling through the air, nothing to hang on to, no parachute. The good news is there’s no ground.  - Trungpa Rinpoche
 
 ## Success
 - Success is a few simple disciplines, practiced every day; while failure is simply a few errors in judgment, repeated every day.
@@ -111,14 +111,14 @@ And here are a few quotes that didn't make both of those lists but I still liked
 	- Constantin Brancusi
 
 ## Funny
-- I actually saw a job ad today for a front end developer "proficient in all JavaScript frameworks"
+- I actually saw a job ad today for a front end developer proficient in all JavaScript frameworks
 - The grass is greener on the other side, but that's because it's fertilised with bullshit
 - I'm glad I'm unemployed so I have time to configure it!
 - You can’t wait to take perfectly Instagrammed photos of the meal to go along with your perfectly Instagrammed life.
 - Being a millennial is like joining a game of monopoly after all the properties have been bought up.
-- The exercises are phenomenal. Though they do range from "a stop gap to see if you understand" to "phd thesis" so it does vary.
+- The exercises are phenomenal. Though they do range from a stop gap to see if you understand to phd thesis so it does vary.
 	- on exercises of The Art of Computer Programming
-- [His communication is great. He's a great communicator. Believe me. He's communicated with a lot of people and he's top notch. Very top notch. A lot of people ask him "How do you do it?" and trust me when I say, he's great. And we're gonna have a lot more communication with him in charge, you can bet on that. China doesn't even communicate, but I'm telling you, he does it and it's just terrific.](https://www.reddit.com/r/worldnews/comments/5rjv9n/trump_told_australian_prime_minister_refugee/dd7vme2/)
+- [His communication is great. He's a great communicator. Believe me. He's communicated with a lot of people and he's top notch. Very top notch. A lot of people ask him How do you do it? and trust me when I say, he's great. And we're gonna have a lot more communication with him in charge, you can bet on that. China doesn't even communicate, but I'm telling you, he does it and it's just terrific.](https://www.reddit.com/r/worldnews/comments/5rjv9n/trump_told_australian_prime_minister_refugee/dd7vme2/)
 - if you haven’t automatically destroyed something by mistake, you are not automating enough
 - A junior software engineer is a function that maps programs to excuses.
 - The Muskonauts figured out why their shit exploded. Hackernews, literally all of whom are actual rocket scientists, wonders if unit tests could have helped.
@@ -153,7 +153,7 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - The whole point of JavaScript libraries is to abstract away the browser’s internal API and provide a different, better API instead.
 - [To be able to speak, one must listen. To be able to write (code), one must read (code)](https://medium.com/@jochasinga/dear-novice-developers-e95ce344de09#.i59gt5nym)
 - [The line of code that the developer can write the fastest, the line of code that the developer can maintain the cheapest, and the line of code that never breaks for the user, is the line of code that the developer never had to write.](https://www.youtube.com/watch?v=dl0CbKYUFTY)
-- it's better for your tool to be dumb and work in predictable ways than to implement surprising "convenience" behaviours. The presence of magic numbers set by default is a good indicator that some tool is too "smart" for its own good and will cause you grief.
+- it's better for your tool to be dumb and work in predictable ways than to implement surprising convenience behaviours. The presence of magic numbers set by default is a good indicator that some tool is too smart for its own good and will cause you grief.
 
 ## Business
 - Stop thinking about making a million dollars and start thinking about serving a million people
@@ -203,8 +203,8 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - Lately it occurs to me, what a long strange trip it's been...
 - [Could it be anything but perfect though?](https://www.reddit.com/r/DMT/comments/5pul1f/i_love_you_everything_is_perfect/)
 - A man was walking along a river bank when he saw another man on the opposite side.
-	- "Hello!" he called out, "how do you get to the other side of the river?"
-	- The man called out in response, "you are on the other side of the river!"
+	- Hello! he called out, how do you get to the other side of the river?
+	- The man called out in response, you are on the other side of the river!
 - [Anxiety's a funny thing. A simple change in perspective and it's just gone. But will it stay gone? That's always the question.](https://www.reddit.com/r/Meditation/comments/5b9n3d/philosopher_alan_watts_short_lecture_on_letting_go/)
 - We often look, but we rarely see.
 - We often hear, but we rarely listen.
@@ -218,7 +218,7 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - Modern man is a prisoner who thinks he is free because he refrains from touching the walls of his dungeon.
 - You are an extra in everyone else's movie
 - [God is consciousness without the sense of self](https://www.reddit.com/r/Psychonaut/comments/5rhm1j/what_does_god_mean_to_you/dd7dywq/)
-- [After years of meditation, thousands of "out of body" experiences and one very significant, particular meditation I've come to the conclusion that I am not in the world, but the world is within "me".](https://www.reddit.com/r/Psychonaut/comments/5swt7m/what_is_the_craziest_thought_you_believe_in/ddin787/)
+- [After years of meditation, thousands of out of body experiences and one very significant, particular meditation I've come to the conclusion that I am not in the world, but the world is within me.](https://www.reddit.com/r/Psychonaut/comments/5swt7m/what_is_the_craziest_thought_you_believe_in/ddin787/)
 - heaven, it's anywhere but where you are
 - So then, let’s suppose that you were able every night to dream any dream you wanted to dream, and that you could for example have the power within one night to dream 75 years of time, or any length of time you wanted to have.
 	- And you would, naturally, as you began on this adventure of dreams, you would fulfill all your wishes. You would have every kind of pleasure during your sleep. And after several nights of 75 years of total pleasure each you would say “Well that was pretty great”. But now let’s have a surprise, let’s have a dream which isn’t under control, where something is gonna happen to me that I don’t know what it's gonna be.
@@ -278,17 +278,17 @@ And here are a few quotes that didn't make both of those lists but I still liked
 	- Elon Musk
 
 ## Work
-> "You are a business, your skills are the product. Treat it like that."
+> You are a business, your skills are the product. Treat it like that.
 
-> "You don’t get paid what you deserve. You get paid what other people think you're worth."
+> You don’t get paid what you deserve. You get paid what other people think you're worth.
 
-> "Show, don't tell."
+> Show, don't tell.
 
-> "You don't remember the work, you remember the exhilaration. - Robert Herjavec"
+> You don't remember the work, you remember the exhilaration. - Robert Herjavec
 
-> "You don't pay a plumber to bang on your pipes, you pay them to know where to bang"
+> You don't pay a plumber to bang on your pipes, you pay them to know where to bang
 
-> "If you think a pro is expensive, wait until you have to fix the work of an amateur"
+> If you think a pro is expensive, wait until you have to fix the work of an amateur
 
 ## Intelligence
 - An educated man is not, necessarily, one who has an abundance of general or specialised knowledge. An educated man is one who has so developed the faculties of his mind that he may acquire anything he wants, or its equivalent, without violating the rights of others.
@@ -340,7 +340,7 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - Geometry without algebra is dumb! Algebra without geometry is blind!
 - Young man, in mathematics you don't understand things. You just get used to them.
 	- John von Neumann
-- Most people who are "Bad At Math" simply don't have the fundamentals down. It happens in school where, if you don't have a concept well understood, too bad we're onto the next topic. And you don't have the skills to cope with the new topic. You fall behind and it's kind of over unless you really apply yourself.
+- Most people who are Bad At Math simply don't have the fundamentals down. It happens in school where, if you don't have a concept well understood, too bad we're onto the next topic. And you don't have the skills to cope with the new topic. You fall behind and it's kind of over unless you really apply yourself.
 	- I know this because it happened to me. So what I suggest is, no matter what course you take, start at the very beginning. Even if you think you know it, do all the exercises. You'll build your skills piece by piece much like programming and before long you'll wonder why you found it hard in the beginning. It becomes like programming where even with huge problems you just break them down into smaller and smaller pieces until you can cope.
 
 ## Time
@@ -362,7 +362,7 @@ And here are a few quotes that didn't make both of those lists but I still liked
 - A language isn't something you learn so much as something you join.
 
 ## Engineering
-- A brilliant professor of mine liked to say "The Answer of the Engineer: it depends".
+- A brilliant professor of mine liked to say The Answer of the Engineer: it depends.
 
 ## Justice
 - All animals are equal, but some animals are more equal than others

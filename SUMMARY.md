@@ -294,7 +294,6 @@
 - [Other](other/other-things.md)
 	- [Interesting things](other/interesting-things.md)
 	- [Wiki workflow](other/wiki-workflow.md)
-	- [Advice](other/advice.md)
 	- [Recent](other/recent.md)
 	- [Favourite tweets](other/favourite-tweets.md)
 	- [Funny](other/funny.md)
