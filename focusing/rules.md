@@ -90,6 +90,15 @@ Some simple rules to follow for myself doing things.
 - Don't abbreviate folders and files. Unless it is really clear what abbreviation means.
 - Add links to headings that link to the description of what my wiki article is actually about.
 
+## Git
+- Always initialise new projects with Git.
+- Do atomic commits and write [proper appropriate commit messages](https://chris.beams.io/posts/git-commit/).
+- Start commits uppercased and prefix them with an action (Add/Remove/Fix/Update). Use [imperative tense](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg).
+	- On larger projects, prefix commits by scope for easier search and index.
+- Don't use emojis in commit messages.
+- Commit changes and push before making a release. This way the commits come bundled together with release as change log.
+- When making changes to other projects, respect their Git workflow and commit style.
+
 ## GitHub
 - Add appropriate topics to each repo. Add the languages used in the repo as topics.
 - Make many experiments and share them.
@@ -111,15 +120,6 @@ Some simple rules to follow for myself doing things.
 ## Adding resources (links)
 - When adding resources and bookmarks. Priorotise adding them to LA curated lists first and LA itself (not Trello). The goal of the wiki is to mostly contain my own notes and references.
 	- The resources should be moderated and extended by the community through clear guidelines.
-
-## Git
-- Alwaysinitialise new projects with Git.
-- Do atomic commits and write [proper appropriate commit messages](https://chris.beams.io/posts/git-commit/).
-- Start commits uppercased and prefix them with an action (Add/Remove/Fix/Update). Use [imperative tense](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg).
-	- On larger projects, prefix commits by scope for easier search and index.
-- Don't use emojis in commit messages.
-- Commit changes and push before making a release. This way the commits come bundled together with release as change log.
-- When making changes to other projects, respect their Git workflow and commit style.
 
 ## Dotfiles
 - Comment all my aliases briefly saying what they do. Comment all zsh functions. Be mindful that I can then search through these functions and aliases later.
