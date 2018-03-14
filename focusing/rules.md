@@ -325,8 +325,8 @@ Some simple rules to follow for myself doing things.
 
 ## Trello
 - No need to create _Doing now_ and _Do next_ blocks. I can use _watching_ feature for that and seperate cards instead by topic. Use _tags_ to give priority to tasks. (In my case _Important_ and _Next_ are always present tags in most boards).
-- Share boards publically that contain no sensetive or private information.
-- For boards like _Learning_ and _Books_, no need to add links to cards as the links to these things should already be added in [LA curated lists](https://github.com/learn-anything/curated-lists#readme) which are easily queriable.
+- Share boards publically that contain no sensitive or private information.
+- For boards like [Learn](https://trello.com/b/cu32qF3q) and [Books](https://trello.com/b/MOrnm2aN), no need to add links to cards as the links to these things should already be added in [LA curated lists](https://github.com/learn-anything/curated-lists#readme) which are easily queriable.
 
 ## Other
 - Check everything once I leave a room. In case I forget anything.
