@@ -8,4 +8,6 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 	1. Why?
 	2. How?
 	3. What?
-- It is sometimes more powerful than the other way around.
+
+## Links
+- [How to prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)

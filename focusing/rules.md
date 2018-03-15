@@ -313,7 +313,7 @@ Some simple rules to follow for myself doing things.
 - Only bookmark personal information and links. The rest should be available via [curated lists](https://github.com/learn-anything/curated-lists#readme) or [awesome lists](https://github.com/sindresorhus/awesome#readme).
 
 ## Videos
-- Watch talks and tutorials at 1.25+ speed. Unless it hurts coprehension than watch it at slower speeds.
+- Watch talks and tutorials at 1.25+ speed. Unless it hurts comprehension than watch it at slower speeds.
 
 ## Information
 - Don't save unnecessary information. This mostly concerns tracking data and the like. More data is not always better. Quality and purposeful data is.
