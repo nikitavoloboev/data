@@ -16,6 +16,7 @@ I share different photographs and art pieces I like on [my Instagram page](https
 - [Alena Aenami](https://www.artstation.com/aenamiart)
 - [Pawel Kuczynski](http://www.pictorem.com/profile/Pawel.Kuczynski)
 - [Daniel Liang](https://www.artstation.com/danielliang)
+- [Ben Ridgway](https://www.instagram.com/benridgwayart/) - DMT like images.
 
 ## Interesting artists
 - [Anderson Debernardi](https://imgur.com/gallery/dKx5S)
@@ -23,6 +24,7 @@ I share different photographs and art pieces I like on [my Instagram page](https
 
 ## Interesting art
 - [Art by Alycia Rainaud](https://ello.co/maalavidaa/post/0avsbcnwu5jet6j-uckz2g)
+- [Incedigris](https://www.incedigris.com/) - DMT/Salvia like images.
 
 ## Notes
 - [Hitofude Ryuu = the art of painting a dragon with a single stroke](https://www.youtube.com/watch?v=2z8n1UiWQ6c)

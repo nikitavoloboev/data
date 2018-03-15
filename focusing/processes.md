@@ -19,7 +19,9 @@ Some simple processes to follow when doing things.
 
 ## Write an article
 1. Collect notes and experiences.
-2. Write the article.
+2. Write down main ideas I want to cover as bullet points.
+3. Write the article touching on all the main points.
+4. Refactor. Remove useless words and irrelevant pieces. Publish.
 
 ## Morning routine
 1. Brush teeth and moisturise face.

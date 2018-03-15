@@ -11,3 +11,6 @@
 
 ## Products
 - [Future of AMAs](https://hackernoon.com/how-chris-messina-works-and-whats-the-future-of-amas-319046d1f12f)
+
+## Other
+- [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
