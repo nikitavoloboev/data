@@ -1,8 +1,6 @@
 # March 2018
 ## Shipped
 
-## 12 - 18 Review
-
 ## Notes
 - (1) Going to take Timing a __lot__ more seriously this month. And get some work done!
 - (2) Going to use Trello exclusively for managing projects.
