@@ -9,3 +9,4 @@ Perhaps we can replicate a universe like ours in the future. One of the more int
 - [The Astonishing Simplicity of Everything](https://www.youtube.com/watch?v=f1x9lgX8GaE)
 - [The theoretical minimum](http://theoreticalminimum.com/courses) - Has pretty amazing courses.
 - [Fun to Imagine](https://www.youtube.com/watch?v=eqtuNXWT0mo)
+- [Stephen Hawking had pinned his hopes on 'M-theory' to fully explain the universe—here's what it is](https://phys.org/news/2018-03-stephen-hawking-pinned-m-theory-fully.html)

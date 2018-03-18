@@ -128,6 +128,7 @@
 - [Compilers](compilers/compilers.md)
 - [Physics](physics/physics.md)
 	- [Quantum physics](physics/quantum-physics/quantum-physics.md)
+	- [String theory](physics/string-theory.md)
 - [Biology](biology/biology.md)
 - [Economy](economy/economy.md)
 	- [Basic Income](economy/basic-income.md)
