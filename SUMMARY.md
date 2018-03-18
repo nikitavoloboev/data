@@ -211,6 +211,7 @@
 	- [Codesandbox](tools/codesandbox.md)
 	- [GitBook](tools/gitbook.md)
 	- [Dropbox](tools/dropbox.md)
+	- [Telegram](tools/telegram.md)
 	- [Product Hunt](tools/product-hunt.md)
 	- [DuckDuckGo](tools/duckduckgo.md)
 	- [IFTTT](tools/ifttt.md)

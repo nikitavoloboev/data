@@ -121,3 +121,4 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [LUCKY TAPES](https://soundcloud.com/lucky-tapes) - [レイディ・ブルース](https://www.youtube.com/watch?v=BiBTpQPCMtg)
 - [Subaqueous](https://soundcloud.com/subaqueousmusic)
 - [Travelling Day](https://soundcloud.com/travellingday) - [Japan Food](https://www.youtube.com/watch?v=p7QfGEQ7qIs)
+- [Karma Knows](https://soundcloud.com/karmaknows) - [Come Our Way](https://www.youtube.com/watch?v=7GCKIk4Hc6E&feature=youtu.be)
