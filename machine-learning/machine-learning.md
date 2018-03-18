@@ -12,3 +12,4 @@ Still a mystery to me mostly due to my lack of mathematical maturity.
 
 ## Links
 - [Best way to start with AI](https://news.ycombinator.com/item?id=15689399)
+- [Ask HN: 'Crash Courses' for Mathematics Related to DL, ML and Data Analysis](https://news.ycombinator.com/item?id=16508873)
