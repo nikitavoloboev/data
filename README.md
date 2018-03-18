@@ -27,7 +27,5 @@ If you found a mistake anywhere in this wiki, I would really appreciate your hel
 
 I also appreciate any [ideas you have](https://github.com/nikitavoloboev/knowledge/issues/new) on how I can improve this wiki.
 
-[contributors](../../contributors)
-
 ## Thank you 💜
 You can support what I do on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
