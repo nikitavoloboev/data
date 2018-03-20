@@ -226,6 +226,7 @@
 	- [Ethereum](cryptocurrencies/ethereum.md)
 	- [Stellar](cryptocurrencies/stellar.md)
 - [Privacy](privacy/privacy.md)
+	- [Freedom](privacy/freedom.md)
 - [Games](games/games.md)
 	- [Gamedev](games/gamedev/gamedev.md)
 - [Streaming](streaming/streaming.md)

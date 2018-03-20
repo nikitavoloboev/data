@@ -10,6 +10,7 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Tor](https://soundcloud.com/torsmusic) - [Days Gone](https://www.youtube.com/watch?v=NyBFuj0BBh8)
 - [Nils Frahm](https://soundcloud.com/nils_frahm) - [My Friend the Forest](https://www.youtube.com/watch?v=d99p-SPn5Tc) | [Evening with Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po)
 - [Shigeto](https://soundcloud.com/shigeto) - [Ann Arbor Part 3 & 4](https://www.youtube.com/watch?v=0ZRM3hrn0hM) | [Detroit Part 1](https://www.youtube.com/watch?v=aG6Z_-iE4lI)
+- [Recondite](https://soundcloud.com/recondite_music) - [Tie In](https://www.youtube.com/watch?v=KKYYAbGpw6A)
 - [Rival Consoles](https://soundcloud.com/rivalconsoles) - [Soul](https://www.youtube.com/watch?v=r5VflAxDCGw) | [Untravel](https://www.youtube.com/watch?v=cxxIN6fyj58)
 - [Floating Points](https://soundcloud.com/floatingpoints) - [ARP3](https://www.youtube.com/watch?v=d38xbAFnCSQ)
 - [Otto Totland](https://soundcloud.com/sonic-pieces/otto-a-totland-seveen) - [Aust](https://www.youtube.com/watch?v=TUs8BUVye9s)
