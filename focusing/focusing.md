@@ -12,7 +12,7 @@ For example, one of these _rules_ can be that I need to be proactive with my ema
 
 ## Focusing on what's important
 I keep a private Trello board where I outline things that I want to focus on in life and achieve. I try to not work on long periods of time and predict things in advance for over three month and instead work in very short time frames whilist having some end goal(s) in mind of what I ultimately want to achieve. Here is how my __Focus__ Trello board looks:
-![](https://i.imgur.com/OsBSD9c.png)
+![](https://i.imgur.com/FfYC0Re.png)
 
 ## Things that help me
 - I use [Focus app](https://heyfocus.com) to block a particular set of websites for 90 minutes (front pages of Hacker News, Reddit, ..) every 2 hours.
