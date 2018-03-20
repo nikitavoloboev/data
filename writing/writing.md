@@ -30,7 +30,6 @@ I keep a private Trello board where I drop ideas I have of what I want to write 
 ## Notes
 - Most adverbs are superfluous. Most cases where you say "generally" or "usually" you're undermining your point and the use of "very", "extremely", etc. are hyperbolic and breathless and make it easier to regard what you're writing as unserious.
 - Examine every word: a surprising number don’t serve any purpose.
-- Examine every word: a surprising number don’t serve any purpose.
 - Prune out “a bit,” “a little,” “sort of,” “kind of,” “rather,” “quite,” “very,” “too,” “pretty much.”
 
 # Links
