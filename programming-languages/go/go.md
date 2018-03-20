@@ -38,3 +38,4 @@ Go promotes composition over inheritance.
 - [7 common mistakes in Go and when to avoid them by Steve Francia](https://www.youtube.com/watch?v=29LLRKIL_TI)
 - [Performance without the event loop (2015)](https://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
 - [What I learned in 2017 Writing Go](https://www.commandercoriander.net/blog/2017/12/31/writing-go/)
+- [Golang interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
