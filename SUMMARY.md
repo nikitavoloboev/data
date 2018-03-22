@@ -33,7 +33,6 @@
 	- [Memories](life/memories.md)
 	- [Journalling](life/journalling.md)
 	- [Compassion](life/compassion.md)
-	- [My principles](life/my-principles.md)
 	- [Success](life/success.md)
 	- [Death](life/death.md)
 - [Writing](writing/writing.md)

@@ -9,8 +9,10 @@ Some simple rules to follow for myself doing things.
 - Be mindful of my actions and thoughts. Don't eat/hurt anyone. Don't waste food/items/time.
 - Don't compare myself to other people. Surround myself with people that inspire me.
 - Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals too much.
+- Don't judge anyone. Attempt to see another person's point of view.
 - If an item/thing doesn't provide me any value, get rid of it.
 - Be honest. Don't lie to myself nor anyone else.
+- Embrace change. Never complain about anything. Be proactive.
 - Adjust these rules and my workflow to match what I have learned.
 - Follow these rules. Take it easy. You only live now.
 
@@ -18,7 +20,7 @@ Some simple rules to follow for myself doing things.
 - Do deep work. Minimise distractions. Say __no__ to things. Set constraints.
 - Prioritise. Do important things first. Be clear on what I want to achieve. Think long term.
 - Do one thing at a time. Remove friction.
-- Don't visit Tweetbot and other sites that are blocked during the __focus__ session.
+- Don't visit blocked sites and apps during my __focus__ sessions.
 - Think about the problem I want to solve. Don't give up. Don't rush things.
 - If my mind wanders and avoids doing the task, take a walk and do some exercice.
 - Do things that scale. Try to find solutions that scale with time.
@@ -44,6 +46,10 @@ Some simple rules to follow for myself doing things.
 - Always have water/tea next to me when working on something. Fill up the water/tea if it empties.
 - No meat or dairy products. Health and [ethical reasons](../life/compassion.md).
 - Focus on Whole Food, Plant-Based diet.
+
+## Compassion
+- Value each animal’s life as equal to that of my own. Don't eat anyone.
+- Minimise suffering caused to other people. Be consious of other people's feelings.
 
 ## Ergonomics
 - Sit up right. Don't slouch my back. Take breaks.
