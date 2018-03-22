@@ -1,3 +1,3 @@
 # Virtual reality
 ## Links
-- [https://www.youtube.com/watch?v=GSbkn6mCfXE](https://www.youtube.com/watch?v=GSbkn6mCfXE)
+- [Glen Keane – Step into the Page](https://www.youtube.com/watch?v=GSbkn6mCfXE)
