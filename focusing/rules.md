@@ -29,6 +29,13 @@ Some simple rules to follow for myself doing things.
 - Start. Don't be afraid to solve the problem no matter how complex or intimidating it may be.
 - Ship early. Get feedback and iterate on it. Rinse and repeat.
 
+## Focus
+- Be very aggressive in cutting any kind of distractions when working.
+- Look at where I spend my time in Timing and cut those out with Focus and scripts.
+- Change location. Work from different places.
+- Use one screen when coding. Much easier to context switch.
+- Don't listen to music when coding and focusing. Use [Noizio](http://noiz.io) and listen to Sailing Yacht or other pieces.
+
 ## Learning
 - Always learn new things. Investigate. Why? How?
 - Ask questions. Don't be afraid of not knowing something and [ask for help](../research/asking-questions.md).
@@ -49,7 +56,7 @@ Some simple rules to follow for myself doing things.
 
 ## Compassion
 - Value each animal’s life as equal to that of my own. Don't eat anyone.
-- Minimise suffering caused to other people. Be consious of other people's feelings.
+- Minimise suffering caused to other people. Be conscious of other people's feelings.
 
 ## Ergonomics
 - Sit up right. Don't slouch my back. Take breaks.
@@ -255,13 +262,6 @@ Some simple rules to follow for myself doing things.
 - Add all songs I like to my [Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=s7begtjFTM-vaAp0ZplMaQ) playlist.
 	- Add all songs I _really_ like to [Favourites](spotify:user:nikitavoloboev:playlist:7j0M4e0nxFtsrLREfcj2qk) playlist.
 	- Add songs to other playlists accordingly.
-
-## Focus
-- Be very aggressive in cutting any kind of distractions when working.
-- Look at where I spend my time in Timing and cut those out with Focus and scripts.
-- Change location. Work from different places.
-- Use one screen when coding. Much easier to context switch.
-- Don't listen to music when coding and focusing. Use [Noizio](http://noiz.io) and listen to Sailing Yacht or other pieces.
 
 ## Licensing
 - License my own code under MIT.
