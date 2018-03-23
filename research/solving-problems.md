@@ -3,7 +3,7 @@ Knowledge is knowing where the answers might lie. Solving problems is knowing ho
 
 I like to be methodical when approaching and solving problems I have.
 
-For me solving a problem usually involves going through these three steps:
+For me solving a problem usually involves going through these four steps:
 1. Finding what the problem I want to solve is.
 2. Breaking the problem down to smaller parts I can solve.
 3. Finding an answer to these smaller parts.
@@ -16,7 +16,7 @@ I outline the problem I want to solve and then I outline the steps I think I nee
 
 For example I wanted to modernise and improve my [Hammerspoon config](https://github.com/nikitavoloboev/dotfiles/tree/master/hammerspoon).
 
-So I created the entry in __now__ of what I want to do.
+So I create a new branch saying what it is I want to do.
 ![](https://i.imgur.com/fxJG2Cb.png)
 
 ## 2. Breaking the problem down to smaller parts
