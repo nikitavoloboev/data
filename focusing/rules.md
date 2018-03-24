@@ -105,7 +105,7 @@ Some simple rules to follow for myself doing things.
 - Add links to headings that link to the description of what my wiki article is actually about.
 
 ## Git
-- Always initialise new projects with Git.
+- Version control any document. Initialise all projects with Git first.
 - Do atomic commits and write [proper appropriate commit messages](https://chris.beams.io/posts/git-commit/).
 - Start commits uppercased and prefix them with an action (Add/Remove/Fix/Update). Use [imperative tense](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg).
 	- On larger projects, prefix commits by scope for easier search and index.

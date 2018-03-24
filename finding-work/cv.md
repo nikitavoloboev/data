@@ -8,3 +8,6 @@
 
 ## Notes
 - Experience > Education
+
+## Links
+- [Ask HN: How does a great resume look like? What are the best tools to make one?](https://news.ycombinator.com/item?id=16659255)
