@@ -15,7 +15,7 @@ My always open tabs are:
 6. `vim` - Contains my [vim config file](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim).
 
 All other tabs are added on top of this `default` configuration. Usually it looks something like this:
-![](https://i.imgur.com/oazm47D.png)
+![](https://i.imgur.com/cMY26z2.png)
 
 Where `la` and `al` are projects I am working on.
 
