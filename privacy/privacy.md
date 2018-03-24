@@ -8,5 +8,6 @@ I made a [repository](https://github.com/nikitavoloboev/privacy-respecting#readm
 
 ## Links
 - [We are building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-8834)
+- [Monologue of the Algorithm: how Facebook turns users data into its profit](https://vimeo.com/249633335)
 - [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources. Really reccomended to modify hosts file so to block malicous sites and trackers.
 - [Beyond The Clouds](https://ind.ie/beyond-the-clouds/)
