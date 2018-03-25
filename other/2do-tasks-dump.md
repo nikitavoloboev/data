@@ -11,13 +11,13 @@ Here are the lists I share so far.
 ## Read
 > Things I want to read. Books & research papers are in [Trello](../sharing/my-trello.md).
 
-✮ (!!!) read
+- ✮ (!!!) read
 https://xph.us/
-✮ (!!!) read
+- ✮ (!!!) read
 https://bjango.com/articles/appdesignworkflow/
-✮ (!!!) read
+- ✮ (!!!) read
 https://github.com/SSYGEN/blog/issues/30
-✮ (!!!) read
+- ✮ (!!!) read
 https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/
 - (!!!) read this
 http://plato.stanford.edu/entries/computational-mind/
@@ -883,12 +883,12 @@ https://flaviocopes.com/
 ## Learn
 > Things I want to learn/research.
 
-✮ (!!!) take a look at this
+- ✮ (!!!) take a look at this
 https://github.com/ryanrhymes/owl
-✮ (!!!) nice summations in latex
-✮ (!!) learn this
+- ✮ (!!!) nice summations in latex
+- ✮ (!!) learn this
 http://adamschwartz.co/magic-of-css/
-✮ (!) this lib
+- ✮ (!) this lib
 https://keras.io
 - (!!!) give this a read
 https://github.com/pytorch/tutorials/blob/master/Deep%20Learning%20with%20PyTorch.ipynb
@@ -1054,7 +1054,7 @@ https://twitter.com/_ryannystrom/following
 ## Watch
 > Things I want to watch on the internet.
 
-✮ (!) watch
+- ✮ (!) watch
 https://www.youtube.com/watch?v=H74R1eNsAHY
 - (!!!) tesla autopilot
 https://www.youtube.com/watch?v=8VEOhBcQp_0
