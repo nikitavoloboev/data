@@ -78,3 +78,4 @@ The books with links attached will lead to notes I have made when reading the bo
 - [Psychonaut books](https://www.reddit.com/r/Psychonaut/comments/7kuhxx/what_are_some_must_read_books_for_this_sub/)
 - [Reading list](https://github.com/keithamus/reading-list)
 - [Pick three books you think every beginner to sci-fi should read, three for "veterans", and three for "experts".](https://www.reddit.com/r/printSF/comments/5mrj3a/pick_three_books_you_think_every_beginner_to/)
+- [Any book recommendations for building your own indie business?](https://www.indiehackers.com/forum/any-book-recommendations-for-building-your-own-indie-business-22a3f89d27)
