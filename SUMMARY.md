@@ -205,6 +205,7 @@
 - [Machine learning](machine-learning/machine-learning.md)
 	- [Neural networks](machine-learning/neural-networks.md)
 	- [Unsupervised learning](machine-learning/unsupervised-learning.md)
+	- [Pytorch](machine-learning/pytorch.md)
 - [Package managers](package-managers/package-managers.md)
 	- [Nix](package-managers/nix.md)
 	- [Homebrew](package-managers/homebrew.md)
