@@ -1,6 +1,9 @@
 # [iTerm](https://www.iterm2.com/)
 Moved completely to using the command line for all my development needs. Assigned [w + j](karabiner/karabiner.md) with Karabiner to open the app from Keyboard Maestro in seconds.
 
+I also made my own [Ayu theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it that looks like this:
+![](https://i.imgur.com/KZYHoa9.png)
+
 [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
 
 ## My workflow

@@ -311,6 +311,7 @@ Some simple rules to follow for myself doing things.
 
 ## Looking back
 - Don't say _Want to_. Instead say _Will_ in _Changes_. This applies more generally too, try be more proactive with anything I do. Intention counts.
+- Include all my Instagram posts in Photos. Link Twitter tweets, last.fm, movies seen.
 
 ## Finance
 - Track every purchase made with YNAB. Put every purchase in its respective category.

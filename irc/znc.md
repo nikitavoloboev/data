@@ -5,5 +5,6 @@
 	- Pay attention to the slashes as they matter.
 	- Connecting back is then simply `/join ..` (or connecting through Textual GUI click).
 
-## Notes
-- [Modules](https://wiki.znc.in/Modules) are quite interesting.
+## Links
+- [Znc commands](https://wiki.znc.in/Using_commands)
+- [Modules](https://wiki.znc.in/Modules)

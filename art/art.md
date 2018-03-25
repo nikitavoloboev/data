@@ -23,7 +23,7 @@ I share different photographs and art pieces I like on [my Instagram page](https
 - [Petur Orn](https://www.instagram.com/orn.design/)
 
 ## Interesting art
-- [Art by Alycia Rainaud](https://ello.co/maalavidaa/post/0avsbcnwu5jet6j-uckz2g)
+- [Alycia Rainaud](https://ello.co/maalavidaa)
 - [Incedigris](https://www.incedigris.com/) - DMT/Salvia like images.
 
 ## Notes
