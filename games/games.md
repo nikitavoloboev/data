@@ -20,6 +20,8 @@ I keep a [Trello board](https://trello.com/b/EekGabpj) of games I am playing now
 ## Games played
 I track all the games I have played [here](https://www.grouvee.com/user/nikivi).
 
-## Links
+# Recommendations
+- [What game would you describe as a masterpiece?](https://www.reddit.com/r/patientgamers/comments/7629r3/what_game_would_you_describe_as_a_masterpiece/)
+- [What are some games you replay every few years?](https://www.reddit.com/r/patientgamers/comments/85laqu/what_are_some_games_you_replay_every_few_years/)
 - [Games where you write code: part I](https://habrahabr.ru/company/mailru/blog/328806/)
-	- [part II](https://habrahabr.ru/company/mailru/blog/349546/)
+	- [Part II](https://habrahabr.ru/company/mailru/blog/349546/)

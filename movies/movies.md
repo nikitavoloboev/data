@@ -17,5 +17,6 @@ Below are the movies I've seen sorted by years I've seen them in.
 ## Notes
 - [Some film critics to follow](https://www.reddit.com/r/flicks/comments/7lgwp1/having_a_hard_time_finding_quality_critics_on/)
 
-## Links
+# Recommendations
 - [Letterboxd 2017](https://letterboxd.com/2017/#most-popular-overall)
+- [Documentaries list](https://letterboxd.com/vitorgalvao/list/documentary/)

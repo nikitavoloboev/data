@@ -28,6 +28,9 @@ I love using IRC and hanging out in various channels of Freenode. Mostly as a wa
 ### [Pinboard (popular)](https://pinboard.in/popular/)
 I sometimes check it out as it does contain some interesting links.
 
+## Medium
+I follow few publications and writers on Medium. I then view new articles from my feed [here](https://medium.com/stream/network).
+
 ## Communities and forums I frequent
 I spend a lot of my time in the [Gitter](https://gitter.im/learn-anything/Lobby) chat to discuss Learn Anything development.
 

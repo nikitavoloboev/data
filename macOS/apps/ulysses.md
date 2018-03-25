@@ -8,7 +8,6 @@ All your writing in one place is the motto and the underlying design of the app.
 It also has pretty awesome export functions that let you export the text you write to PDF, ePub and HTML. I mostly use it's ability to export text to Medium.
 
 I use [New Wave 80s](https://styles.ulyssesapp.com/bundle/New+Wave+80s/5407d108ce6703c6350c1977) theme in dark more when I write. Here is how it looks:
-
 ![](https://i.imgur.com/k0Gp9fH.png)
 
 I describe my thoughts and approach to writing [here](../../writing/writing.md).
@@ -23,7 +22,7 @@ I use two [Alfred file filters](https://github.com/nikitavoloboev/small-workflow
 ## Writing an article
 I start writing all my artciles by jotting down notes as dashed points below the title. Here is how that looks:
 
-![](https://i.imgur.com/9gofhPm.png)
+![](https://i.imgur.com/mx6jsyL.png)
 
 I then start writing the article and try to touch on one or all of these points as I write the article. I add/remove points as I write the article.
 

@@ -47,3 +47,7 @@ Some simple processes to follow when doing things.
 ## Start new month
 1. Create new entry in [looking back](../looking-back/looking-back.md).
 2. Add link to music listened (Artists, Tracks, Albums from Last.fm) & Twitter monthly tweets.
+
+## Write a book
+1. Know what I want to write about. Write the book.
+2. Publish on [Leanpub](https://leanpub.com/)
