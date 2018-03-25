@@ -13,7 +13,7 @@ I will be using certain abbreviations for things that I may be repeating often. 
 I often add a year in brackets to some articles or talks like __(2017)__ which stands for the year in which that article or talk was given in.
 
 ## Karabiner
-I may use phrasing like `binded with v + r` which means that I created an action that activates when I hold `v` key and then press `r`. For how that works read [this](../macOS/apps/karabiner/karabiner.md).
+I may say things like `binded with v + r` which means that I created an action that activates when I hold `v` key and then press `r`. For how that works read [this](../macOS/apps/karabiner/karabiner.md).
 
 ## KM macros
 I sometimes will link to KM macro group/palette from this wiki. The link will lead to the macro group/palette in my [GitHub repository](https://github.com/nikitavoloboev/my-mac-os/tree/master/km-macros#readme).
