@@ -1,7 +1,7 @@
 # My 2Do tasks dump
 This is just contents of my never ending lists of tasks I have tagged in [2Do](../macOS/apps/2do.md) with varying tags like `read`, `learn` and `watch`.
 
-All lists are sorted by priority. I hope to bring all these lists closer to 0 when I get time. But until then, perhaps you will find something interesting.
+All lists are sorted by priority. I hope to bring all these lists closer to 0 when I get time. But until then, perhaps you will find something interesting in them.
 
 Here are the lists I share so far.
 - [Read](#read)
