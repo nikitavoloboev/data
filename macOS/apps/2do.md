@@ -18,6 +18,8 @@ I also add time estimates to tasks like so:
 
 This is useful because sometimes I can simply open a tag __10m__ and see all tasks with this short time frame so I can quickly complete them and get on build on the momentum. I don't add time estimates to all tasks but I try to add it where possible.
 
+Given my growing collection of tasks I am yet to do. Some 3,000 pending tasks. I decided to share [some tasks I keep in my manager publically](../../other/2do-tasks-dump.md).
+
 ## Notes
 - Go to 2Do list from URL scheme: `twodo://x-callback-url/showList?name=Read` (would go to to __Read__ list).
 - Filter 2Do tag from URL scheme: `twodo://x-callback-url/search?text=tags:github` (would show all tasks with __github__ tag)
