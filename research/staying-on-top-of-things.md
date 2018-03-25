@@ -34,6 +34,7 @@ I spend a lot of my time in the [Gitter](https://gitter.im/learn-anything/Lobby)
 Aside from that I really like visiting and at times contributing to these forums:
 1. [Alfred forum](https://www.alfredforum.com)
 2. [Keyboard maestro forum](https://forum.keyboardmaestro.com/latest)
+3. [Indie Hackers](https://www.indiehackers.com/)
 
 As well as quite a few other Slack communities like:
 1. [Gophers](https://invite.slack.golangbridge.org/)

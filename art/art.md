@@ -17,9 +17,9 @@ I share different photographs and art pieces I like on [my Instagram page](https
 - [Pawel Kuczynski](http://www.pictorem.com/profile/Pawel.Kuczynski)
 - [Daniel Liang](https://www.artstation.com/danielliang)
 - [Ben Ridgway](https://www.instagram.com/benridgwayart/) - DMT like images.
+- [Anderson Debernardi](https://imgur.com/gallery/dKx5S)
 
 ## Interesting artists
-- [Anderson Debernardi](https://imgur.com/gallery/dKx5S)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 
 ## Interesting art

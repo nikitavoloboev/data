@@ -7,6 +7,7 @@ I made a [repository](https://github.com/nikitavoloboev/privacy-respecting#readm
 - [Facebook is not a private nor a secure platform for sharing sensitive information. Every character that you type into their text boxes is immediately parsed and sent to their servers, regardless of whether you actually complete a post and submit it.](https://www.reddit.com/r/privacy/comments/79x7u3/facebook_employees_just_opened_a_privately_shared/)
 
 ## Links
+- [Privacy Lab: Jay Freeman on "How to Get a Dystopia"](https://air.mozilla.org/privacy-lab-orchid/)
 - [We are building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-8834)
 - [Monologue of the Algorithm: how Facebook turns users data into its profit](https://vimeo.com/249633335)
 - [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources. Really reccomended to modify hosts file so to block malicous sites and trackers.
