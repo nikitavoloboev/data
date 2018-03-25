@@ -80,7 +80,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Etsy](https://www.etsy.com/people/nikitavoloboev) - If I ever make something with my hands, I will probably share it there.
 - [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - My online CV.
 - [Leanpub](https://leanpub.com/u/nikitavoloboev) - Will publish my books there. Once I write them.
-- [Angel.co](https://angel.co/nikitavoloboev) - Sometimes use it to find interesting startups to apply to.
+- [Angel List](https://angel.co/nikitavoloboev) - Sometimes use it to find interesting startups to apply to.
 - [Indie Hackers](https://www.indiehackers.com/user/nikivi) - Awesome community of hackers and entrepreneurs.
 - [Home](https://nikitavoloboev.xyz) - My personal home page on the internet.
 - [Vimeo](https://vimeo.com/user18010447) - Don't really use it but it has many creative videos.

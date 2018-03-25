@@ -5,12 +5,14 @@ I use it primarily to edit markdown files like [this wiki](../other/wiki-workflo
 
 I use [Ayu theme](https://github.com/dempfi/ayu).
 
-## Packages I use
-- [Six](https://github.com/guillermooo/Six) - Vim plugin that is genuinely amazing.
-- [SendCode](https://Sgithub.com/randy3k/SendCode)
-- [Text Git](https://github.com/kemayo/sublime-text-git)
+## Tricks I use
+- I also made a km macro that I binded with `v + r` to open `temp-notes.md` file I have saved on my system in Sublime. It acts as a kind of quick dump buffer for writing a thing that will be deleted afterwards. I can use my vim mode to fast edit text and the paste the text I wrote to another app like Google docs.
+- I [binded jj](https://github.com/nikitavoloboev/dotfiles/blob/master/sublime/Default%20(OSX).sublime-keymap) to go to normal mode from insert. This way when I load a file in sublime, it doesn't sometimes immediately go to normal mode. So I can instantly open file and safely spam j to go down a page without writing the j's.
 
-## Interesting
+## Packages I use
+[Here](https://github.com/nikitavoloboev/dotfiles/blob/master/sublime/Package%20Control.sublime-settings) is my up-to-date list of Sublime packages I use.
+
+## Interesting packages
 - [Linter flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
 
 ## Notes

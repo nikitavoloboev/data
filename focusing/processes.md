@@ -50,4 +50,4 @@ Some simple processes to follow when doing things.
 
 ## Write a book
 1. Know what I want to write about. Write the book.
-2. Publish on [Leanpub](https://leanpub.com/)
+2. Publish on [Leanpub](https://leanpub.com/).
