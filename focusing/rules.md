@@ -93,6 +93,7 @@ Some simple rules to follow for myself doing things.
 - Use __Bold__ for strong emphasis. Use _Italic_ for soft emphasis. And `code quotes` for actual code, variables, path names and quoting inline (in same sentence).
 
 ## Wiki
+- Share everything I know and need to reference in the wiki. Document my life and reflect.
 - Describe links on the same line with `-` separator (if needs more description, then sub dash).
 - Interlink entries between each other within wiki where necessary. Don't over do it.
 - Don't repeat myself or anyone else. If something has already been said either by me or someone else, link to it (especially in this wiki).
