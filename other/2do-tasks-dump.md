@@ -10,6 +10,7 @@ Here are the lists I share so far.
 
 ## Read
 > Things I want to read. Books & research papers are in [Trello](../sharing/my-trello.md).
+
 ✮ (!!!) read
 https://xph.us/
 ✮ (!!!) read
@@ -880,6 +881,8 @@ https://outcrawl.com/go-elastic-search-service/
 https://flaviocopes.com/
 
 ## Learn
+> Things I want to learn/research.
+
 ✮ (!!!) take a look at this
 https://github.com/ryanrhymes/owl
 ✮ (!!!) nice summations in latex
@@ -1049,6 +1052,8 @@ https://github.com/tweag
 https://twitter.com/_ryannystrom/following
 
 ## Watch
+> Things I want to watch on the internet.
+
 ✮ (!) watch
 https://www.youtube.com/watch?v=H74R1eNsAHY
 - (!!!) tesla autopilot
