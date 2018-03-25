@@ -4,4 +4,4 @@ I use Pixave as my own personal image library. I sort images in groups and I hav
 Here is how my library looks like:
 ![](https://i.imgur.com/MjGFvSb.jpg)
 
-The red tag means that the image was uploaded to my [Instagram page](https://www.instagram.com/niikivi) for sharing.
+The red tag means that the image was uploaded to my [Instagram page](https://www.instagram.com/prettiways) for sharing.

@@ -26,7 +26,7 @@ My workflow is always changing but currently it consists of the following.
 - [Safari](../web/browsers/safari.md) and [Chrome](../web/browsers/google-chrome.md) bookmarks - Only contain personal bookmarks. The rest is publically available and queriable by anyone.
 
 ## Photographs
-- [Pixave](../macOS/apps/pixave.md) - My entire media library of images and GIFs neatly sorted into collections. I post some images from there to my [Instagram page](https://www.instagram.com/niikivi/).
+- [Pixave](../macOS/apps/pixave.md) - My entire media library of images and GIFs neatly sorted into collections. I post some images from there to my [Instagram page](https://instagram.com/prettiways).
 - Apple Photos - All my personal photographs and images I made sorted into albums.
 - [Day One](../macOS/apps/day-one.md) - Alongside small private notes and journal entries I add most photographs I take to Day One. Usually in form of __Travel__ checkins. It's really awesome because everything there is encrypted and I can rely on it always being there.
 

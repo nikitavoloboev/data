@@ -9,7 +9,7 @@ I share all the things I am up to right now there. And I curate a [few Twitter l
 I write about various things, mostly programming and macOS tips. [Here](my-articles.md) are all the articles I wrote.
 
 ## Experiences on [Instagram](https://www.instagram.com/nikitavoloboev/)
-I like to share photos and stories from my life there. I also curate a [small page of beautiful pictures](https://www.instagram.com/niikivi/) and various [Unsplash collections](https://unsplash.com/@nikitavoloboev/collections).
+I like to share photos and stories from my life there. I also curate a [small page of beautiful pictures](https://instagram.com/prettiways) and various [Unsplash collections](https://unsplash.com/@nikitavoloboev/collections).
 
 ## Music on [Spotify](https://open.spotify.com/user/nikitavoloboev) and [Soundcloud](https://soundcloud.com/nikitavoloboev)
 I am currently not writing any music of my own but I am learning. I do however share many of the songs I like in [form of playlists](../music/music-playlists.md). I also share music I am [listening to now](https://www.last.fm/user/playfullyExist) and [artists I love](../music/music-artists.md).

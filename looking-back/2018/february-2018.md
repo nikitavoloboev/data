@@ -97,7 +97,7 @@ Here is a little collage of my favourite posts I made on FB since my first artic
 
 ![](https://i.imgur.com/Q4ks3EL.png)
 
-> This was an interesting post too as I for the first time shared some Imgur albums I started curating. I shared my [Art](https://imgur.com/a/3m5wf) album in that post as it was my favourite of all. And still is. It's interesting to think how everything evolves if you just start doing a thing. I have since then made an [Instagram account](https://www.instagram.com/niikivi/) where I share some of these photos. I think it would be awesome to see the collage of all the beautiful photos as one big stream in time.
+> This was an interesting post too as I for the first time shared some Imgur albums I started curating. I shared my [Art](https://imgur.com/a/3m5wf) album in that post as it was my favourite of all. And still is. It's interesting to think how everything evolves if you just start doing a thing. I have since then made an [Instagram account](https://instagram.com/prettiways) where I share some of these photos. I think it would be awesome to see the collage of all the beautiful photos as one big stream in time.
 
 ![](https://i.imgur.com/bmxiORp.png)
 

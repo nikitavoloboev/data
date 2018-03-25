@@ -3,6 +3,7 @@ Will be going through [this](https://edisciplinas.usp.br/pluginfile.php/1995283/
 
 ## Links
 - [100 days of algorithms](https://github.com/coells/100days)
+- [Algorithms](https://github.com/marcosfede/algorithms) - Solved algorithms and data structures problems in many languages.
 
 ## Sorting
 - [Merge sort](https://gist.github.com/9d34c4095ef3ef62db19f3599ebcfb17)
