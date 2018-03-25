@@ -19,12 +19,12 @@ These are my personal profiles on various websites sorted by categories.
 ## Learning
 - [Quora](https://www.quora.com/profile/Nikita-Voloboev) - Asking and answering questions.
 - [Kaggle](https://www.kaggle.com/nikitavoloboev) - Practicing machine learning.
-- [Coursera](https://www.coursera.org/user/i/7d650aebf46b82dcd83832d8358301c6) - Doing various courses.
+- [Coursera](https://www.coursera.org/user/7d650aebf46b82dcd83832d8358301c6) - Doing various courses.
 - [Wiki](https://wiki.nikitavoloboev.xyz) - Everything I know.
-- [Khan Academy](https://www.khanacademy.org/profile/nikivi) - Getting up to speed with things quickly.
+- [Khan Academy](https://khanacademy.org/profile/nikivi) - Getting up to speed with things quickly.
 
 ## Music
-- [Soundcloud](https://soundcloud.com/nikitavoloboev) - Sharing music I like and the tunes I make.
+- [SoundCloud](https://soundcloud.com/nikitavoloboev) - Sharing music I like and the tunes I make.
 - [Spotify](https://open.spotify.com/user/nikitavoloboev) - Sharing music I like in form of a variety of playlists.
 - [Last.fm](https://www.last.fm/user/playfullyExist) - Tracking music I listen to on Spotify.
 - [Mixcloud](https://www.mixcloud.com/nikitavoloboev/) - Don't really use it.
@@ -35,7 +35,7 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Writing
 - [Medium](https://medium.com/@NikitaVoloboev) - My personal blog.
-- [GitBook](https://www.gitbook.com/@nikitavoloboev) - Share my [wiki](https://wiki.nikitavoloboev.xyz) there. I also hope to write some books and I will publish them there once they are done.
+- [GitBook](https://www.gitbook.com/@nikitavoloboev) - Share my [wiki](https://wiki.nikitavoloboev.xyz) there.
 
 ## Social
 - [Twitter](https://twitter.com/nikitavoloboev) - Sharing all the different things I am up to right now.
@@ -79,8 +79,9 @@ These are my personal profiles on various websites sorted by categories.
 - [Keybase](https://keybase.io/nikitavoloboev) - Holds my public PGP key. I also prove my identity on various websites there.
 - [Etsy](https://www.etsy.com/people/nikitavoloboev) - If I ever make something with my hands, I will probably share it there.
 - [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - My online CV.
+- [Leanpub](https://leanpub.com/u/nikitavoloboev) - Will publish my books there. Once I write them.
 - [Angel.co](https://angel.co/nikitavoloboev) - Sometimes use it to find interesting startups to apply to.
-- [Indie Hackers](https://www.indiehackers.com/user/nikivi)
+- [Indie Hackers](https://www.indiehackers.com/user/nikivi) - Awesome community of hackers and entrepreneurs.
 - [Home](https://nikitavoloboev.xyz) - My personal home page on the internet.
 - [Vimeo](https://vimeo.com/user18010447) - Don't really use it but it has many creative videos.
 - [Airbnb](https://www.airbnb.com/users/show/48269245) - Don't really use it.
