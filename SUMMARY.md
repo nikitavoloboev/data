@@ -194,6 +194,8 @@
 - [Fitness](fitness/fitness.md)
 - [Medicine](medicine/medicine.md)
 - [History](history/history.md)
+- [Travel](travel/travel.md)
+	- [Nomad](travel/nomad.md)
 - [Business](business/business.md)
 	- [Startups](business/startups/startups.md)
 	- [Pricing](business/pricing.md)

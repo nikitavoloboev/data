@@ -7,13 +7,6 @@ It has a great [community](http://www.alfredforum.com/) and very powerful [workf
 
 I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
-### Symlink workflows
-It is a great idea to symlink workflows you are working on so you can work on them in the comfort of your file system and not inside Alfred UUID named directories.
-
-You can use [this script](https://gist.github.com/deanishe/35faae3e7f89f629a94e) to achieve this. In example of [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/folder-search) you can use it as follows. Assuming the `source` directory contains Alfred workflow contents (`info.plist` file). You can run `workflow-install.py -s source`.
-
-I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3fe951af) and build my workflow with `workflow-build.py -v source`.
-
 ### Workflows I use
 My most used workflows at current time are:
 - [Searchio](https://github.com/deanishe/alfred-searchio)
@@ -25,6 +18,13 @@ My most used workflows at current time are:
 - [GitHub Jump](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations)
 
 Coupled with many [small workflows](https://github.com/nikitavoloboev/small-workflows) I made. I hope to add more workflows of my own to the mix with time.
+
+### Symlink workflows
+It is a great idea to symlink workflows you are working on so you can work on them in the comfort of your file system and not inside Alfred UUID named directories.
+
+You can use [this script](https://gist.github.com/deanishe/35faae3e7f89f629a94e) to achieve this. In example of [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/folder-search) you can use it as follows. Assuming the `source` directory contains Alfred workflow contents (`info.plist` file). You can run `workflow-install.py -s source`.
+
+I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3fe951af) and build my workflow with `workflow-build.py -v source`.
 
 ## Notes
 - [Package workflows from CLI with version numbers](https://www.alfredforum.com/topic/10838-how-to-package-workflows-from-the-command-line/?tab=comments#comment-55677)
