@@ -51,3 +51,7 @@ Some simple processes to follow when doing things.
 ## Write a book
 1. Know what I want to write about. Write the book.
 2. Publish on [Leanpub](https://leanpub.com/).
+
+## Read books
+1. Read the book. Highlight important parts.
+2. When finished reading, transfer highlights to wiki. Make review of book on Goodreads.
