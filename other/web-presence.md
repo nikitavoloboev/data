@@ -51,7 +51,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Instagram](https://www.instagram.com/nikitavoloboev/) - Sharing my experiences in life with photographs and stories.
 - [VSCO](http://vsco.co/nikitavoloboev) - Edit my iPhone images there.
 - [Curated images](https://instagram.com/prettiways) - Curating all the beautiful photographs/images I like.
-- [Imgur](http://niikivi.imgur.com/) - Sharing various albums I curated and liked.
+- [Imgur](http://nikivi.imgur.com/) - Sharing various albums I curated and liked.
 - [Unsplash](https://unsplash.com/@nikitavoloboev/collections) - Sharing some of my better photographs I made.
 
 ## Video

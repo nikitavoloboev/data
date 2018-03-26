@@ -28,8 +28,8 @@ My time is limited and I can't often do everything I wish. But I have many ideas
 
 I have [many more Trello boards](my-trello.md) I use and share.
 
-## Curated Images on [Imgur](https://niikivi.imgur.com)
-I also curate many [Imgur albums](https://niikivi.imgur.com) of various things.
+## Curated Images on [Imgur](https://nikivi.imgur.com)
+I also curate many [Imgur albums](https://nikivi.imgur.com) of various things.
 
 ## Knowledge in [this wiki](../README.md)
 I share [everything I know](everything-I-know.md) in form of this wiki here. Can be easily queried with the search in top left corner and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.

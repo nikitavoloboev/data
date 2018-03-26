@@ -19,6 +19,7 @@ I share my Karabiner private.xml [here](https://github.com/nikitavoloboev/dotfil
 - I can embed simultaneous key mappings inside sticky key definitions.
 
 ## Links
+- [KE complex modifications](https://github.com/pqrs-org/KE-complex_modifications)
 - [My detailed post on Alfred forum mentioning how I use Karabiner](https://www.alfredforum.com/topic/10673-how-to-make-the-alfred-search-window-a-frontmost-app/?do=findComment&comment=57212)
 - [Interesting setup](https://github.com/dunkarooftop/thought/blob/master/keymaps.org)
 - [Karabiner Elements documentation](https://qiita.com/s-show/items/a1fd228b04801477729c) (in Japanese)

@@ -165,7 +165,7 @@ Some simple rules to follow for myself doing things.
 - Minimise inputs and preconditions to macros. Sometimes it's possible that the input I need to a macro, I can get from another place within the macro itself.
 
 ## Karabiner
-- Try to make semantic mappings and chunk mappings by theme or context.
+- Prefer to make semantic mappings and chunk mappings by theme or context.
 - Prefix variable names by action (i.e. EDIT/OPEN/ALFRED). Each variable name should be descriptive.
 
 ## Alfred

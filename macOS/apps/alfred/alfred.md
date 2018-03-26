@@ -14,7 +14,7 @@ You can use [this script](https://gist.github.com/deanishe/35faae3e7f89f629a94e)
 
 I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3fe951af) and build my workflow with `workflow-build.py -v source`.
 
-### [Alfred](https://www.alfredapp.com) workflows
+### Workflows I use
 My most used workflows at current time are:
 - [Searchio](https://github.com/deanishe/alfred-searchio)
 - [My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
@@ -22,9 +22,9 @@ My most used workflows at current time are:
 - [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant)
 - [Ask, Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share)
 - [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything)
-- [GitHub Jump](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations).
+- [GitHub Jump](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations)
 
-Coupled with [many other finely tuned File Filters I made and other workflows I use in various other contexts](https://github.com/nikitavoloboev/small-workflows). I hope to add more workflows of my own to the mix with time.
+Coupled with many [small workflows](https://github.com/nikitavoloboev/small-workflows) I made. I hope to add more workflows of my own to the mix with time.
 
 ## Notes
 - [Package workflows from CLI with version numbers](https://www.alfredforum.com/topic/10838-how-to-package-workflows-from-the-command-line/?tab=comments#comment-55677)
