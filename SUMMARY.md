@@ -97,6 +97,7 @@
 	- [Go](programming-languages/go/go.md)
 		- [Go libraries](programming-languages/go/go-libraries/go-libraries.md)
 	- [Python](programming-languages/python.md)
+	- [Swift](programming-languages/swift.md)
 	- [Bash](programming-languages/bash.md)
 	- [Haskell](programming-languages/haskell.md)
 	- [Javascript](programming-languages/javascript.md)

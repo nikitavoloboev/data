@@ -1,5 +1,5 @@
 # Game development
-[Love](https://love2d.org) looks pretty awesome and clean framework.
+[Love](https://love2d.org) looks pretty awesome and clean framework. I want to learn how to make games with [Godot engine](https://github.com/godotengine/godot).
 
 ## OSS Games
 - [Dino Jump](https://github.com/dj/dinojump)
