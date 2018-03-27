@@ -12,3 +12,4 @@ I made a [repository](https://github.com/nikitavoloboev/privacy-respecting#readm
 - [Monologue of the Algorithm: how Facebook turns users data into its profit](https://vimeo.com/249633335)
 - [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources. Really reccomended to modify hosts file so to block malicous sites and trackers.
 - [Beyond The Clouds](https://ind.ie/beyond-the-clouds/)
+- [A Picture Is Worth a Thousand Cookies](https://blog.halide.cam/a-picture-is-worth-a-thousand-cookies-8400efa3d650)
