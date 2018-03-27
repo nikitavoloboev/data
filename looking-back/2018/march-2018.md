@@ -1,5 +1,5 @@
 # March 2018
-## Shipped
+## Shared
 - (25) [Posted my first rice ever on /r/unixporn](https://www.reddit.com/r/unixporn/comments/8709c4/macos_clean_functional_my_first_rice_many_apps/).
 
 ## Notes
