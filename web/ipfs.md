@@ -5,3 +5,6 @@ I especially like the distinction of distributing content over distributing link
 
 # Notes
 - HTTP isn't the reason things are centralising so much as economies of scale and convenience are.
+
+## Links
+- [Go IPFS](https://github.com/ipfs/go-ipfs)

@@ -13,3 +13,4 @@ Math is fascinating. And frankly I am not that good at it yet. But I can get bet
 - [How to self learn math](https://news.ycombinator.com/item?id=16562173)
 - [Math books](https://mathblog.com/mathematics-books/)
 - [Mathematics for Computer Science: Readings](https://news.ycombinator.com/item?id=16607308)
+- [mathematicalmonk YouTube playlists](https://www.youtube.com/user/mathematicalmonk/playlists) - A lot of stuff covered.

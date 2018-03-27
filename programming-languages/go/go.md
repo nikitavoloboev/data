@@ -39,3 +39,5 @@ Go promotes composition over inheritance.
 - [Performance without the event loop (2015)](https://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
 - [What I learned in 2017 Writing Go](https://www.commandercoriander.net/blog/2017/12/31/writing-go/)
 - [Golang interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
+- [Go in 5 minutes](https://github.com/arschles/go-in-5-minutes)
+- [Learn Go with test](https://github.com/quii/learn-go-with-tests)

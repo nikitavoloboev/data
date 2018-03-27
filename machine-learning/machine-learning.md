@@ -11,5 +11,7 @@ Still a mystery to me mostly due to my lack of mathematical maturity.
 - [In supervised learning, you have a bunch of data, a specific question you want to answer, and access to the correct answer to many instances of that question. In unsupervised learning, you have a bunch of data points, and you want to find meaningful patterns in the structure of that data. In reinforcement learning, you have a task you want to take actions to accomplish, and you don't have any access to knowing what the best action is, but after each action you get a rough idea of how good the result was.](https://www.reddit.com/r/MachineLearning/comments/7780ok/r_alphago_zero_learning_from_scratch_deepmind/dol3knx/ "permalink")
 
 ## Links
-- [Best way to start with AI](https://news.ycombinator.com/item?id=15689399)
+- [Ask HN: Best way to get started with AI?](https://news.ycombinator.com/item?id=15689399)
 - [Ask HN: 'Crash Courses' for Mathematics Related to DL, ML and Data Analysis](https://news.ycombinator.com/item?id=16508873)
+- [Computational Statistics and Machine Learning Revision Notes](https://github.com/acbraith/CSML_notes)
+- [Stanford CS229 course](https://github.com/econti/cs229)

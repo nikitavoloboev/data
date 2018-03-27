@@ -5,3 +5,4 @@ I am still exploring how the underlying web technologies work although the netwo
 
 ## Links
 - [Everything easy is hard again](https://frankchimero.com/writing/everything-easy-is-hard-again/)
+- [Freecodecamp Map](https://www.freecodecamp.org/map)

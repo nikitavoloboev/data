@@ -11,6 +11,8 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 
 ## Interesting applications
 - [Horizon State](https://horizonstate.com/) - Digital voting.
+- [Blockstack](https://blockstack.org/) - Decentralized apps on Blockstack let you own your data so you can maintain your privacy, security and freedom.
+- [Cardano](https://github.com/input-output-hk/cardano-sl/) - Cryptographic currency implementing Ouroboros PoS protocol.
 
 ## Links
 - [What is blockchain](https://oleganza.com/all/what-is-blockchain/)

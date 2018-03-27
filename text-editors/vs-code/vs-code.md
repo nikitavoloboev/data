@@ -6,3 +6,7 @@ My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/
 I also love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
 <img src="https://i.imgur.com/IDesq0E.png" width="500" alt="img">
+
+## Links
+- [VS Code Docs](https://code.visualstudio.com/docs)
+- [Introductory Videos](https://code.visualstudio.com/docs/getstarted/introvideos)
