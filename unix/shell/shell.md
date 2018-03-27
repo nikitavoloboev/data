@@ -9,6 +9,7 @@
 - Children never touch parent enviroment. It can only if it runs as part of the current process (source, function, alias).
 
 ## Links
+- [Explain Shell](https://www.explainshell.com/)
 - [Introduction to POSIX Shell](http://sircmpwn.github.io/2018/02/05/Introduction-to-POSIX-shell.html)
 - [Yoshua's notes](https://yoshuawuyts.gitbooks.io/knowledge/content/unix/shell.html)
 - [Shell Auto-completion Systems](http://dundalek.com/entropic/shell-auto-completion/)

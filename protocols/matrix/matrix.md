@@ -1,4 +1,8 @@
 # [Matrix](https://matrix.org)
+
+## Bridges
+- [Matrix IRCd](https://github.com/matrix-org/matrix-ircd) - Bridge to IRC.
+
 ## Links
 - [What is Matrix?](https://matrix.org/docs/guides/faq.html#what-is-matrix)
 - [Matrix doc](https://github.com/matrix-org/matrix-doc)

@@ -337,7 +337,7 @@ Some simple rules to follow for myself doing things.
 
 ## Trello
 - Share boards publically that contain no sensitive or private information.
-- No need to create _Doing now_ and _Do next_ blocks. I can use _watching_ feature for that and seperate cards instead by topic. Use _tags_ to give priority to tasks. (In my case _Important_ and _Next_ are always present tags in most boards).
+- Use _watching_ feature for cards I am working on now. Seperate cards by topic. Use _tags_ to give priority to tasks. _Important_ and _Next_. Assigned cards are more important than `_Next_` and `_Next_` is more important than `_Important_`.
 - Add links to wiki / [curated lists](https://github.com/learn-anything/curated-lists#readme) over adding them to Trello where it is appropriate.
 
 ## Other

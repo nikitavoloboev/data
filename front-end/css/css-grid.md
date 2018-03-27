@@ -2,4 +2,4 @@
 
 ## Links
 - [Grid Critters game](https://gridcritters.com/p/gridcritters)
-- [CSS Grid Wes Bos course](https://github.com/wesbos/css-grid)
+- [CSS Grid course by Wes Bos](https://github.com/wesbos/css-grid)
