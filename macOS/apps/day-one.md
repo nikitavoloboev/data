@@ -43,3 +43,6 @@ I have a dedicated journal where I put all the memories I have shared with my fa
 I use [IFTTT](../../tools/ifttt.md) to automatically post all my public activity from [Twitter](https://twitter.com/nikitavoloboev) & [Instagram](https://www.instagram.com/nikitavoloboev/) to this journal. Since I do want to lead a more open life, I very often post in the public outlets and share my experiences there so I want to have those experiences in Day One together with my more private memories.
 
 I then at the end of the week quickly move entries from `Autolog` to appropriate journals thus keeping `Autolog` ideally empty at all times. If I don't want to preserve a post and save it, I delete it.
+
+### Shares
+At the end of the week, I transfer most tweets from Autolog I want to keep to this journal. Others I simply delete.

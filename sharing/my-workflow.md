@@ -1,6 +1,12 @@
 # My workflow
 My workflow is always changing but currently it consists of the following.
 
+## Mac
+- Described in [my macOS](https://github.com/nikitavoloboev/my-mac-os#readme)
+
+## iOS
+- Described in [my iOS](https://github.com/nikitavoloboev/my-ios#readme)
+
 ## Code
 - [VS Code](../text-editors/vs-code/vs-code.md) - Main editor. Currently write mostly Go and Python.
 - [Sublime text](../text-editors/sublime-text.md) - GitHub readmes, editing the wiki and quick edits (Markdown mostly).

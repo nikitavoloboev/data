@@ -195,6 +195,7 @@
 - [Health](health/health.md)
 	- [Nutrition](health/nutrition/nutrition.md)
 		- [Foods](health/nutrition/foods.md)
+		- [Drinks](health/nutrition/drinks.md)
 		- [Fasting](health/nutrition/fasting.md)
 		- [Supplements](health/nutrition/supplements.md)
 	- [Skin care](health/skin-care.md)

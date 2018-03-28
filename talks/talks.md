@@ -1,5 +1,7 @@
 # Talks
-I love watching interesting talks on various subjects. I hope to give a few talks of my own one day.
+I love watching interesting talks on various subjects. As well as I love making talks and presenting in front of people.
+
+I once made TEDx talk on mindfulness. I only have a transcript of it [here](http://telegra.ph/TED-Talk---Mindfulness-March-2016-03-28). I hope to give a few talks of my own one day.
 
 I mark talks that I found interesting [here](https://github.com/learn-anything/talks).
 
