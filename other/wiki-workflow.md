@@ -22,3 +22,8 @@ Now that I can edit this wiki and extend it at the speed of a thought. I can ope
 ![](https://i.imgur.com/nrsr1cK.png)
 
 And anyone who owns Alfred can download the workflow and search through the wiki too. Outside of that, Gitbook also provides a pretty neat search in the wiki itself. In there you can make textual queries too and files where the queried text is will be shown.
+
+## Similar wikis I liked
+- [Meta knowledge](https://github.com/RichardLitt/knowledge#readme)
+- [RichardLitt](https://github.com/RichardLitt/knowledge)
+- [Yoshua Wuyts](https://github.com/yoshuawuyts/knowledge)

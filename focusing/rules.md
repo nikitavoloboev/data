@@ -288,6 +288,7 @@ Some simple rules to follow for myself doing things.
 	- 5:30AM - Wake up.
 	- 10:00PM - Sleep.
 - Sleep for ~ 7 hours each day.
+- No macbook in bed. No phone in the morning before waking up.
 
 ## Timing
 - Minimise _Distracting_ time and aim at __< 1 hour Distracted time__ a day. Ideally less. Block everything that is _Distracting_ when working.

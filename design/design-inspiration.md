@@ -1,7 +1,7 @@
 # Design inspiration
 I follow a [few designers on Dribble](https://dribbble.com/nikitavoloboev/following) whose work I like.
 
-And here are few ore things I liked, design wise.
+Here are few more things I liked, design wise.
 
 ## Websites
 - [Draftsend](https://draftsend.com/)
