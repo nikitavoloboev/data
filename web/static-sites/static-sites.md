@@ -3,3 +3,7 @@ I really like using [Hugo](hugo.md) for generating static websites. And I use [N
 
 ## Interesting generators
 - [Gatsby](https://github.com/gatsbyjs/gatsby) - Using React.
+
+## Links
+- [The Intrinsic Static Site](https://brandur.org/aws-intrinsic-static)
+- [Going static](https://brandur.org/fragments/going-static)

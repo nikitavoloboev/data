@@ -28,6 +28,7 @@ Some simple rules to follow for myself doing things.
 - Use the right tool for the job. Only when you master a tool, do you learn when not to use it. Learn new tools.
 - Start. Don't be afraid to solve the problem no matter how complex or intimidating it may be.
 - Ship early. Get feedback and iterate on it. Rinse and repeat.
+- Track all time in Timing. Reflect on it at the end of the week.
 
 ## Focus
 - Be very aggressive in cutting any kind of distractions when working.
@@ -191,6 +192,9 @@ Some simple rules to follow for myself doing things.
 
 ## Interviews
 - When preparing for interviews, code up solutions myself instead of looking at solutions. Be able to express solution in my own words.
+
+## iOS
+- Only have notifications from real people and 2Do. The rest should be blocked. No badges.
 
 ## SnippetsLab
 - Lowercase and prefix all snippets. Notes can be uppercased.
