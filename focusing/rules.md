@@ -20,7 +20,7 @@ Some simple rules to follow for myself doing things.
 - Do deep work. Minimise distractions. Say __no__ to things. Set constraints.
 - Prioritise. Do important things first. Be clear on what I want to achieve. Think long term.
 - Do one thing at a time. Resist temptations. Remove friction.
-- Don't visit blocked sites and apps during my __focus__ sessions.
+- Don't visit blocked sites and apps during my __focus__ sessions. Don't touch the phone unless necessary during __focus__ sessions.
 - Think about the problem I want to solve. Don't give up. Don't rush things.
 - If my mind wanders and avoids doing the task, take a walk and do some exercice.
 - Do things that scale. Try to find solutions that scale with time.
@@ -100,6 +100,7 @@ Some simple rules to follow for myself doing things.
 - Don't need to add `:` to the end of text when adding image below as it is implicit.
 - Only use HTML to adjust the image if the original size is not what I need. Don't adjust images blindly and check how the final image looks rendered compared to the text.
 - Use __Bold__ for strong emphasis. Use _Italic_ for soft emphasis. And `code quotes` for actual code, variables, path names and quoting inline (in same sentence).
+- Leave one space afer text for image embed.
 
 ## Wiki
 - Share everything I know and need to reference in the wiki. Document my life and reflect.
@@ -331,6 +332,9 @@ Some simple rules to follow for myself doing things.
 
 ## Safari
 - Only bookmark personal information and links. The rest should be available via [curated lists](https://github.com/learn-anything/curated-lists#readme) or [awesome lists](https://github.com/sindresorhus/awesome#readme).
+
+## Paprika recipes
+- Add any new recipe I discover or make to Paprika.
 
 ## Videos
 - Watch talks and tutorials at 1.25+ speed. Unless it hurts comprehension than watch it at slower speeds.

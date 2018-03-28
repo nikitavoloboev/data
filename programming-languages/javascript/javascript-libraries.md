@@ -1,3 +1,3 @@
 # JS libraries
-## Interesting
+## Web dev
 - [Neutrino dev](https://github.com/mozilla-neutrino/neutrino-dev)

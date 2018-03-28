@@ -1,6 +1,4 @@
 # Go libraries
-Some interesting Go libraries I found.
-
 ## CLI
 - [tui go](https://github.com/marcusolsson/tui-go) - UI lib for terminal applications.
 - [cli](https://github.com/urfave/cli)

@@ -32,4 +32,4 @@ I share different photographs and art pieces I like on [my Instagram page](https
 ## Links
 - [Intricate Paper Installations By Daniele Papuli](https://www.ignant.com/2016/02/23/intricate-paper-installations-by-daniele-papuli/)
 - [Order from Chaos](https://vimeo.com/196269431)
-- [My Instagram likes](http://nikitavoloboev.tumblr.com/) - I once had a Tumblr blocked I cross posted my Instagram likes to. Until Instragram closed the API in 2016. The blog still stayed though.
+- [My Instagram likes](http://nikitavoloboev.tumblr.com/) - I once had a Tumblr blog I cross posted my Instagram likes to. Until Instragram closed the API in 2016. The blog still stayed though.

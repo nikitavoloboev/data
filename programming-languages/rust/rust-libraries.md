@@ -1,5 +1,5 @@
 # Rust libraries
-## Interesting
+## Other
 - [yew](https://github.com/DenisKolodin/yew) - Framework to make client web apps.
 - [pyo3](https://github.com/PyO3/pyo3)
 - [actix web](https://github.com/actix/actix-web)

@@ -2,10 +2,10 @@
 My workflow is always changing but currently it consists of the following.
 
 ## Mac
-- Described in [my macOS](https://github.com/nikitavoloboev/my-mac-os#readme)
+- [my macOS](https://github.com/nikitavoloboev/my-mac-os#readme)
 
 ## iOS
-- Described in [my iOS](https://github.com/nikitavoloboev/my-ios#readme)
+- [my iOS](https://github.com/nikitavoloboev/my-ios#readme)
 
 ## Code
 - [VS Code](../text-editors/vs-code/vs-code.md) - Main editor. Currently write mostly Go and Python.
@@ -41,17 +41,18 @@ My workflow is always changing but currently it consists of the following.
 - [Looking back](../looking-back/looking-back.md) - My public log of things I've done and worked on throughout the months with highglights and comments on each month/year.
 
 ## News
-- Covered in [staying on top of things](../research/staying-on-top-of-things.md).
+- [Staying on top of things](../research/staying-on-top-of-things.md).
 
 ## Social Media
-- Covered in [sharing](sharing.md).
+- [Sharing](sharing.md).
 
 ## Tracking
-- Covered in [tracking](tracking.md).
+- [Tracking](tracking.md).
 
 ## Writing
 - [Ulysses](../macOS/apps/ulysses.md) - All my writing. Medium posts, stories, wiki, small pieces and ideas.
 
 ## Contacts
 - Apple Contacts - All contacts and people I meet are added as contacts in my contacts book. All contacts are prefixed with a category (i.e. __f.__ for __friend__) and most contacts have tags attached so it's easier to remember the person. I also add various people I follow as contacts and use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/search-for-content#readme) to search all contacts, names, tags links and notes I wrote for the contact.
+
 ![](https://i.imgur.com/RTAMQYw.png)

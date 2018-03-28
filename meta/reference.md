@@ -6,7 +6,7 @@ If you stumble upon anything confusing in the wiki, this place should ideally cl
 ## Abbreviations
 I will be using certain abbreviations for things that I may be repeating often. Here is what they mean:
 - LA = [Learn Anything](https://learn-anything.xyz)
-- KM = [Keyboard Maestro](../macOS/apps/keyboard-maestro/keyboard-maestro.md). Will often reference `km macros` I have made.
+- KM = [Keyboard Maestro](../macOS/apps/keyboard-maestro/keyboard-maestro.md). Will often reference KM macros I have made.
 - repo = GitHub repository
 
 ## Years
