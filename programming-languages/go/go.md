@@ -43,4 +43,4 @@ Go promotes composition over inheritance.
 - [What I learned in 2017 Writing Go](https://www.commandercoriander.net/blog/2017/12/31/writing-go/)
 - [Golang interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
 - [Go in 5 minutes](https://github.com/arschles/go-in-5-minutes)
-- [Learn Go with test](https://github.com/quii/learn-go-with-tests)
+- [Learn Go with tests](https://github.com/quii/learn-go-with-tests)

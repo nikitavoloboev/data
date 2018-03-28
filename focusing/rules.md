@@ -19,7 +19,7 @@ Some simple rules to follow for myself doing things.
 ## Work
 - Do deep work. Minimise distractions. Say __no__ to things. Set constraints.
 - Prioritise. Do important things first. Be clear on what I want to achieve. Think long term.
-- Do one thing at a time. Remove friction.
+- Do one thing at a time. Resist temptations. Remove friction.
 - Don't visit blocked sites and apps during my __focus__ sessions.
 - Think about the problem I want to solve. Don't give up. Don't rush things.
 - If my mind wanders and avoids doing the task, take a walk and do some exercice.
@@ -37,13 +37,21 @@ Some simple rules to follow for myself doing things.
 - Use one screen when coding. Much easier to context switch.
 - Don't listen to music when coding and focusing. Use [Noizio](http://noiz.io) and listen to Sailing Yacht or other pieces.
 
-## Learning
+## Learn
 - Always learn new things. Investigate. Why? How?
 - Ask questions. Don't be afraid of not knowing something and [ask for help](../research/asking-questions.md).
 - Ask myself what is it that I am trying to solve or understand.
 - Go deep. Specialise. Be great at some thing and then branch out.
 - Document everything. Don't repeat things. Link instead.
 - Draw. Don't be full digital and use paper and imagination to distill complex ideas.
+
+## Share
+- Share the link to the project on the appropriate website/forum/subreddit. Tweet it. Log it in [looking back](../looking-back/looking-back.md).
+
+## Share files
+- Temporary shares with [Transfer](https://transfer.sh).
+- More permanent shares are shared with Dropbox. Don't delete items from _shares_ folder unless I delete the file somewhere myself.
+- If the files are stored on GitHub somewhere, I can use [Rawgit](http://rawgit.com/) to get a downloadable link of the raw file.
 
 ## Health
 - Exercise daily.
@@ -77,7 +85,7 @@ Some simple rules to follow for myself doing things.
 ## Design
 - Giving users too many options is often a bad idea. Give very few options but make each one of them count and stand out.
 
-## Writing
+## Write
 - Use proper punctuation and capitalise things appropriately.
 - When adding `:`, don't add space beforehand.
 - When making tasks (2Do, Trello, GitHub issues), use imperative tense.
@@ -179,13 +187,8 @@ Some simple rules to follow for myself doing things.
 ## MindNode
 - Use one tree structure for organisation especially when sharing maps (makes the map much easier to follow).
 
-## Sharing files
-- Temporary shares with [Transfer](https://transfer.sh).
-- More permanent shares are shared with Dropbox. Don't delete items from _shares_ folder unless I delete the file somewhere myself.
-- If the files are stored on GitHub somewhere, I can use [Rawgit](http://rawgit.com/) to get a downloadable link of the raw file.
-
-## Sharing my work
-- Share the link to the project on the appropriate website/forum/subreddit. Tweet it. Log it in [looking back](../looking-back/looking-back.md).
+## Ulysses
+- If I publish the article, private note or anything that is not worth keeping. Delete it from Ulysses. Only keep `in progress` things in the library.
 
 ## Releasing workflows with OneUpdater
 - Don't forget to update version number and then also commit the workflow so info.plist on GitHub has the latest version.
@@ -198,7 +201,7 @@ Some simple rules to follow for myself doing things.
 - Spend time on phone mindfully. Read & be proactive.
 
 ## SnippetsLab
-- Lowercase and prefix all snippets. Notes can be uppercased.
+- Lowercase and prefix all snippets. Notes uppercased.
 - Upload all non personal snippets as Gists.
 - Create smart group for each new prefix I add.
 - Add correct language syntax to every snippet.
