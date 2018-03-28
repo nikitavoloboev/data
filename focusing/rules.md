@@ -185,7 +185,7 @@ Some simple rules to follow for myself doing things.
 - If the files are stored on GitHub somewhere, I can use [Rawgit](http://rawgit.com/) to get a downloadable link of the raw file.
 
 ## Sharing my work
-- Share the link to the project on the appropriate website/forum/subreddit.
+- Share the link to the project on the appropriate website/forum/subreddit. Tweet it. Log it in [looking back](../looking-back/looking-back.md).
 
 ## Releasing workflows with OneUpdater
 - Don't forget to update version number and then also commit the workflow so info.plist on GitHub has the latest version.
@@ -195,6 +195,7 @@ Some simple rules to follow for myself doing things.
 
 ## iOS
 - Only have notifications from real people and 2Do. The rest should be blocked. No badges.
+- Spend time on phone mindfully. Read & be proactive.
 
 ## SnippetsLab
 - Lowercase and prefix all snippets. Notes can be uppercased.

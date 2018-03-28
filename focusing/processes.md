@@ -55,3 +55,7 @@ Some simple processes to follow when doing things.
 ## Read books
 1. Read the book. Highlight important parts.
 2. When finished reading, transfer highlights to wiki. Make review of book on Goodreads.
+
+## Reflect & Plan (end of day)
+1. Reflect and consolidate time from Timing with Focus board.
+2. Adjust & create events. Create food plan for next day.
