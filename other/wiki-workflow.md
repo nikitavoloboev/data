@@ -25,5 +25,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 
 ## Similar wikis I liked
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme)
-- [RichardLitt](https://github.com/RichardLitt/knowledge)
+- [Richard Litt](https://github.com/RichardLitt/knowledge)
 - [Yoshua Wuyts](https://github.com/yoshuawuyts/knowledge)
