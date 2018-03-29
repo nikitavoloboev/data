@@ -200,7 +200,7 @@
 - [Health](health/health.md)
 	- [Nutrition](health/nutrition/nutrition.md)
 		- [Cooking](health/nutrition/cooking/cooking.md)
-			- [Recipes](health/nutrition/cooking/food-recipes.md)
+			- [Recipes](health/nutrition/cooking/recipes.md)
 		- [Foods](health/nutrition/foods.md)
 		- [Drinks](health/nutrition/drinks.md)
 		- [Fasting](health/nutrition/fasting.md)
