@@ -67,6 +67,9 @@ Some simple rules to follow for myself doing things.
 - Value each animal’s life as equal to that of my own. Don't eat anyone.
 - Minimise suffering caused to other people. Be conscious of other people's feelings.
 
+## Communication
+- Say things that [contribute to the conversation](https://discourse.elm-lang.org/t/how-we-talk-about-other-languages/972/7). Be honest.
+
 ## Ergonomics
 - Sit up right. Don't slouch my back. Take breaks.
 

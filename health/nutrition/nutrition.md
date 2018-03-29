@@ -9,6 +9,7 @@ As for myself, I like to [follow these simple rules](../../focusing/rules.md#nut
 - Minimize high GI (glycemic index). It spikes blood sugar and insulin.
 - Eat many healthy fats. Avocados, Flax seed oil, etc.
 - Eat lots of high quality protein.
+- [The “best” diet is a theme: an emphasis on vegetables, fruits, whole grains, beans, lentils, nuts, seeds, and plain water for thirst.](http://www.grubstreet.com/2018/03/ultimate-conversation-on-healthy-eating-and-nutrition.html)
 
 ## Links
-- [Grim Grains](http://grimgrains.com/)
+- [The Last Conversation You’ll Ever Need to Have About Eating Right](http://www.grubstreet.com/2018/03/ultimate-conversation-on-healthy-eating-and-nutrition.html)
