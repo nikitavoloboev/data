@@ -15,3 +15,4 @@ Still a mystery to me mostly due to my lack of mathematical maturity.
 - [Ask HN: 'Crash Courses' for Mathematics Related to DL, ML and Data Analysis](https://news.ycombinator.com/item?id=16508873)
 - [Computational Statistics and Machine Learning Revision Notes](https://github.com/acbraith/CSML_notes)
 - [Stanford CS229 course](https://github.com/econti/cs229)
+- [Readings in applied data science](https://github.com/hadley/stats337)

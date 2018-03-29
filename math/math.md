@@ -14,3 +14,4 @@ Math is fascinating. And frankly I am not that good at it yet. But I can get bet
 - [Math books](https://mathblog.com/mathematics-books/)
 - [Mathematics for Computer Science: Readings](https://news.ycombinator.com/item?id=16607308)
 - [mathematicalmonk YouTube playlists](https://www.youtube.com/user/mathematicalmonk/playlists) - A lot of stuff covered.
+- [How Grothendieck Simplified Algebraic Geometry](http://www.ams.org/publications/journals/notices/201603/rnoti-p256.pdf)

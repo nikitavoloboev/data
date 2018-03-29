@@ -277,6 +277,7 @@
 - [Robots](robots/robots.md)
 - [NLP](nlp/nlp.md)
 - [Virtual Reality](virtual-reality/virtual-reality.md)
+- [Augmented-Reality](augmented-reality/augmented-reality.md)
 - [Neuroscience](neuroscience/neuroscience.md)
 - [CLI](cli/cli.md)
 	- [sed](cli/sed.md)

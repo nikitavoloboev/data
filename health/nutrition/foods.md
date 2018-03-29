@@ -3,10 +3,20 @@ List of foods that are healthy.
 
 ## Healthy
 - Bananas
+- Beans
 - Eggs
-- Nuts (Walnuts, pistachio)
-- Griffonia Seed - Has a lot of 5-HTP.
+- Nuts (walnuts, pistachio, almonds)
+- Griffonia Seeds - Has a lot of 5-HTP.
 - Ginger
+- Avocados
+- Lentils
+- Blueberries
+- Broccoli
+- Chickpeas
+- Pinto beans
+- Kale
+- Peaches
+- Dark chocolate
 
 ## Don't eat
 - Bread. Grains.
