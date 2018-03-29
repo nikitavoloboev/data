@@ -20,7 +20,7 @@ Some simple rules to follow for myself doing things.
 - Do deep work. Minimise distractions. Say __no__ to things. Set constraints.
 - Prioritise. Do important things first. Be clear on what I want to achieve. Think long term.
 - Do one thing at a time. Resist temptations. Remove friction.
-- Don't visit blocked sites and apps during my __focus__ sessions. Don't touch the phone unless necessary during __focus__ sessions.
+- Don't visit blocked sites and apps during __focus__ sessions. Don't touch the phone unless necessary during __focus__ sessions.
 - Think about the problem I want to solve. Don't give up. Don't rush things.
 - If my mind wanders and avoids doing the task, take a walk and do some exercice.
 - Do things that scale. Try to find solutions that scale with time.
