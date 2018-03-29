@@ -23,6 +23,7 @@ But as will all things, _moderation is key_. Or as in the case with psychedelics
 - Most psyches target 5-HT receptor. 5-HT is the chemical name for serotonin.
 
 ## Links
+- [Trip Safe](https://tripsafe.org/) - Education for psychedelics like LSD and Shrooms.
 - [The big list of every hallucinogen that has ever been available](https://www.reddit.com/r/Drugs/comments/616do6/the_big_list_of_every_hallucinogen_that_has_ever/)
 - [I did so much acid I almost died](https://www.reddit.com/r/Drugs/comments/4whrnx/i_did_so_much_acid_i_almost_died/)
 - [Interview with James Oroc](https://www.youtube.com/watch?v=ZVBpIzFr8wM)

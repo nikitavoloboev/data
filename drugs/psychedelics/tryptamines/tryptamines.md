@@ -4,7 +4,7 @@ This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/
 ## Interesting
 - [N,N-DMT](dmt.md)
 - [4-AcO-DMT](https://psychonautwiki.org/wiki/4-AcO-DMT) - Synthetic mushrooms. Prodrug to Psilocin.
-- [4-HO-MET](https://psychonautwiki.org/wiki/4-HO-MET)
+- [4-HO-MET](https://psychonautwiki.org/wiki/4-HO-MET) - Light headspace. Interesting visuals.
 - [4-AcO-MiPT](https://psychonautwiki.org/wiki/4-AcO-MiPT)
 - [4-HO-DiPT](https://psychonautwiki.org/wiki/4-HO-DiPT)
 - [5-MeO-DMT](https://psychonautwiki.org/wiki/5-MeO-DMT) - Pure ego death. Probably strongest psych there is.
