@@ -277,7 +277,7 @@
 - [Robots](robots/robots.md)
 - [NLP](nlp/nlp.md)
 - [Virtual Reality](virtual-reality/virtual-reality.md)
-- [Augmented-Reality](augmented-reality/augmented-reality.md)
+- [Augmented Reality](augmented-reality/augmented-reality.md)
 - [Neuroscience](neuroscience/neuroscience.md)
 - [CLI](cli/cli.md)
 	- [sed](cli/sed.md)
@@ -324,7 +324,7 @@
 	- [My web presence](other/web-presence.md)
 - [Looking back](looking-back/looking-back.md)
 	- [2017](looking-back/2017/2017.md)
-	- [2018](looking-back/2018/2018.md)
+	- 2018
 		- [January](looking-back/2018/january-2018.md)
 		- [February](looking-back/2018/february-2018.md)
 		- [March](looking-back/2018/march-2018.md)
