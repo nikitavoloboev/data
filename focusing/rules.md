@@ -20,7 +20,6 @@ Some simple rules to follow for myself doing things.
 - Do deep work. Minimise distractions. Say __no__ to things. Set constraints.
 - Prioritise. Do important things first. Be clear on what I want to achieve. Think long term.
 - Do one thing at a time. Resist temptations. Remove friction.
-- Don't visit blocked sites and apps during __focus__ sessions. Don't touch the phone unless necessary during __focus__ sessions.
 - Think about the problem I want to solve. Don't give up. Don't rush things.
 - If my mind wanders and avoids doing the task, take a walk and do some exercice.
 - Do things that scale. Try to find solutions that scale with time.
@@ -28,12 +27,17 @@ Some simple rules to follow for myself doing things.
 - Use the right tool for the job. Only when you master a tool, do you learn when not to use it. Learn new tools.
 - Start. Don't be afraid to solve the problem no matter how complex or intimidating it may be.
 - Ship early. Get feedback and iterate on it. Rinse and repeat.
-- Track all time in Timing. Reflect on it at the end of the week.
+- Track all time in Timing. Reflect on it at the end of the day & week.
+- Make calendar events based on my __Focus__ Trello board.
 
 ## Focus
 - Be very aggressive in cutting any kind of distractions when working.
-- Look at where I spend my time in Timing and cut those out with Focus and scripts.
+- Don't visit blocked sites and apps during __focus__ time. Don't touch the phone unless necessary during __focus__ time.
+- During __focus__ time, do the activity specified in the calendar, and nothing else.
+- Be mindful of my habits and temptations. Don't succumb to them and focus on the task at hand.
 - Change location. Work from different places.
+- Look at where I spend my time in Timing and cut those out with Focus and scripts.
+- Less than 1 hr _Distracted_ time every day.
 - Use one screen when coding. Much easier to context switch.
 - Don't listen to music when coding and focusing. Use [Noizio](http://noiz.io) and listen to Sailing Yacht or other pieces.
 

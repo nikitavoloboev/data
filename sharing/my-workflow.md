@@ -1,21 +1,25 @@
 # My workflow
-My workflow is always changing but currently it consists of the following.
+I try to be methodical in working and doing things. And I use the best tools and workflows that work for me to achieve my goals.
 
-## Mac
-- [my macOS](https://github.com/nikitavoloboev/my-mac-os#readme)
-
-## iOS
-- [my iOS](https://github.com/nikitavoloboev/my-ios#readme)
+## Life
+- [Rules](../focusing/rules.md) - Grounds me into focusing on what I find important in life and cutting out the waste.
+- [Processes](../focusing/processes.md) - Streamlines doing some tasks.
 
 ## Code
 - [VS Code](../text-editors/vs-code/vs-code.md) - Main editor. Currently write mostly Go and Python.
-- [Sublime text](../text-editors/sublime-text.md) - GitHub readmes, editing the wiki and quick edits (Markdown mostly).
+- [Sublime Text](../text-editors/sublime-text.md) - GitHub readmes, editing the wiki and quick edits (Markdown mostly).
 - [Neovim](../text-editors/vim/vim.md) - Small and quick edits. Edit my Karabiner XML config file there.
 
 ## Task tracking
 - [2Do](../macOS/apps/2do.md) - Personal day-to-day tasks. Every task is actionable. Tasks that don't fit into a GitHub issue are put there. Usually this includes personal tasks.
 - Ship - GitHub issues. All issues I want to work on soon are put into __Up Next__ queue and I work through each one, one by one.
 - [Trello](../macOS/apps/trello.md) - Public and personal boards. It's really nice because I can share pragmatically things I want to do publically and have the workflow actually be seamless so it doesn't distract or detach from the experience in any way.
+
+## Mac
+- [my macOS](https://github.com/nikitavoloboev/my-mac-os#readme)
+
+## iOS
+- [my iOS](https://github.com/nikitavoloboev/my-ios#readme)
 
 ## Time management
 - [Fantastical](../macOS/apps/fantastical.md) - I plan my work for the entire day ahead of me and my day is primarily guided by the events I create. I always have Fantastical show __Week__ view for __5 days__ from current day. This gives me a perspective on what deadlines I have soon to complete and I can adjust my events as necessary and plan accordingly.

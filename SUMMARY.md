@@ -180,6 +180,7 @@
 	- [AWS](web/aws/aws.md)
 	- [WebAssembly](web/webassembly.md)
 	- [SEO](web/seo.md)
+	- [Progressive Web Apps](web/progressive-web-apps.md)
 - [Front End](front-end/front-end.md)
 	- [HTML](front-end/html.md)
 	- [CSS](front-end/css/css.md)
