@@ -54,5 +54,3 @@ My workflow is always changing but currently it consists of the following.
 
 ## Contacts
 - Apple Contacts - All contacts and people I meet are added as contacts in my contacts book. All contacts are prefixed with a category (i.e. __f.__ for __friend__) and most contacts have tags attached so it's easier to remember the person. I also add various people I follow as contacts and use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/search-for-content#readme) to search all contacts, names, tags links and notes I wrote for the contact.
-
-![](https://i.imgur.com/RTAMQYw.png)
