@@ -39,7 +39,7 @@ Some simple rules to follow for myself doing things.
 - Look at where I spend my time in Timing and cut those out with Focus and scripts.
 - Less than 1 hr _Distracted_ time every day.
 - Use one screen when coding. Much easier to context switch.
-- Don't listen to music when coding and focusing. Use [Noizio](http://noiz.io) and listen to Sailing Yacht or other pieces.
+- Don't listen to music when coding and focusing. Use [Noizio](http://noiz.io) and listen to rain, train or other pieces.
 - Sit up right always. Never slouch.
 
 ## Learn
