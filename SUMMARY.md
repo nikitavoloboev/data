@@ -7,7 +7,6 @@
 	- [My GitHub](sharing/my-github.md)
 	- [My YouTube](sharing/my-youtube.md)
 	- [My Trello](sharing/my-trello.md)
-	- [My Mind](sharing/my-mind.md)
 	- [My Workflow](sharing/my-workflow.md)
 	- [Tracking](sharing/tracking.md)
 - [Projects](projects/projects.md)

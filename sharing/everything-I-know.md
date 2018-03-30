@@ -21,9 +21,15 @@ I try make this step super easy to do too as you can simply [explore all the rep
 I made a [repo](https://github.com/nikitavoloboev/my-mac-os) where I cover everything I use on my macOS system in great detail. I share everything I use including [hundreds of Keyboard Maestro macros](https://github.com/nikitavoloboev/my-mac-os/tree/master/km-macros#readme) and the various [amazing Alfred workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can simply explore and see what you find interesting.
 
 ## 4. Read or Search through my wiki (~ 2 hours)
-Aside from my Blog, I heavily share nearly everything I know about this world in this wiki here so you can explore and see what you like. If you did get the [Powerpack for Alfred](https://www.alfredapp.com/powerpack/), you can even install [my own workflow](https://github.com/nikitavoloboev/alfred-my-mind) and easily search through entirety of both this wiki, [my mind maps](my-mind.md) and everything I have made or did. The big idea behind this workflow and my other creations is to do things in a way that anyone else can use these same things I am using.
+Aside from my Blog, I heavily share nearly everything I know about this world in this wiki here so you can explore and see what you like. If you did get the [Powerpack for Alfred](https://www.alfredapp.com/powerpack/), you can even install [my own workflow](https://github.com/nikitavoloboev/alfred-my-mind) and easily search through entirety of both this wiki and everything I have made or did. The big idea behind this workflow and my other creations is to do things in a way that anyone else can use these same things I am using.
 
-## That's it
-I do think that if you do some or all of these four steps, you may find something interesting that you can use and apply in your life. The big thing for me that really made my life quite a lot better was [Karabiner](../macOS/apps/karabiner/karabiner.md) so if you didn't get anything from this, I hope I at least made you look into this program because it is seriously awesome.
+## [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
+I also wrote an Alfred workflow that as the name suggests, acts as my second brain that I use to quickly access anything I [have indexed for myself](../knowledge/knowledge-indexing.md). I share it because I wish other people took this idea and made their own _Alfred My Mind_ or a _Knowledge wiki_ but for their own use. Sharing knowledge and tools like that is very powerful and makes a big difference. As I use and reuse other people's work and knowledge many times a day. It never hurts to add to the mix.
 
-If you are interested in keeping in touch with some other things I am working on or learning, I am very active on [Twitter](https://twitter.com/nikitavoloboev).
+I want to visualise knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](../sharing/my-articles.md), the [YouTube videos I make](../sharing/my-youtube.md)  and of course finally through the [code I write](../sharing/my-github.md) to make useful tools, apps and interactive visualisations that all can use and enjoy.
+
+With all that said. The best way to know about me as a person, what I like and what I am into and what I am working on is to read through this wiki. With time, it will contain essentially everything that I know _in my own words_.
+
+This wiki acts as a first class citizen and anything that I ultimately want to share or have shared will be written down here, somewhere.
+
+If you are interested in keeping in touch with things I am working on or learning, I am very active on [Twitter](https://twitter.com/nikitavoloboev).
