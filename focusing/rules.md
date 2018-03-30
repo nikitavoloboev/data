@@ -40,6 +40,7 @@ Some simple rules to follow for myself doing things.
 - Less than 1 hr _Distracted_ time every day.
 - Use one screen when coding. Much easier to context switch.
 - Don't listen to music when coding and focusing. Use [Noizio](http://noiz.io) and listen to Sailing Yacht or other pieces.
+- Sit up right always. Never slouch.
 
 ## Learn
 - Always learn new things. Investigate. Why? How?
@@ -73,9 +74,6 @@ Some simple rules to follow for myself doing things.
 
 ## Communication
 - Say things that [contribute to the conversation](https://discourse.elm-lang.org/t/how-we-talk-about-other-languages/972/7). Be honest.
-
-## Ergonomics
-- Sit up right. Don't slouch my back. Take breaks.
 
 ## Shipping a product
 - Have a nice looking website. The first look matters.
@@ -227,7 +225,7 @@ Some simple rules to follow for myself doing things.
 - Don't include context in the task title since I can do add it as a tag instead.
 
 ## Ideas
-- If the idea is not private. Share it in [Trello](https://trello.com/b/alB1ryRP).
+- If the idea is not private. Share it in [Trello](https://trello.com/b/alB1ryRP). Add relevant description and links to describe the idea clearly.
 
 ## Capitalising things
 - Capitalise everything where appropriate (Sentences / Headings / Alfred workflows / GitHub descriptions / GitHub issues and PRs / Comments in SnippetsLab / Main dashed points / Tweets / ..).
@@ -358,7 +356,7 @@ Some simple rules to follow for myself doing things.
 ## Trello
 - Share boards publically that contain no sensitive or private information.
 - Order of importance for cards: __Watching__ -> __Next__ -> __Important__ -> No label.
-- Add links to wiki or [curated lists](https://github.com/learn-anything/curated-lists#readme) over adding them to Trello where it is appropriate.
+- Add links to wiki or [curated lists](https://github.com/learn-anything/curated-lists#readme) over adding them to Trello where appropriate.
 
 ## Newsletters
 - All newsletters should never reach inbox and be automated to appropriate mailboxes.

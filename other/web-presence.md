@@ -85,6 +85,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Indie Hackers](https://www.indiehackers.com/user/nikivi) - Awesome community of hackers and entrepreneurs.
 - [Home](https://nikitavoloboev.xyz) - My personal home page on the internet.
 - [Vimeo](https://vimeo.com/user18010447) - Don't really use it but it has many creative videos.
+- [Kickstarter](https://www.kickstarter.com/profile/2082672852) - Don't use it.
 - [Airbnb](https://www.airbnb.com/users/show/48269245) - Don't really use it.
 - [DevianArt](https://nikivi.deviantart.com/) - Don't really use it.
 - [Eventbrite](https://www.eventbrite.com/u/146147331884/#) - Various events I have attended or planning to attend.

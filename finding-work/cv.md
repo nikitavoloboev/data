@@ -5,6 +5,7 @@
 - [Safia Abdalla](https://cloudup.com/cqozUYp889k)
 - [Joseph Combs](https://www.josephecombs.com/resume/)
 - [Kiliankoe](https://github.com/kiliankoe/cv) - Open Source, made with LaTeX.
+- [Ioannis Mitliagkas](http://mitliagkas.github.io/cv.pdf)
 
 ## Notes
 - Experience > Education

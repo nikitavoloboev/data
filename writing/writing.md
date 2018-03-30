@@ -1,5 +1,5 @@
 # Writing
-I love writing. Human language, of which I currently know two so far: russian and english.
+I love writing. Human language, of which I currently know two so far: Russian and English.
 
 Is incredibly empowering. The sheer fact that I can actually put my thoughts onto paper in a way that other people can read and understand is amazing.
 
