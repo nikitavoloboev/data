@@ -1,4 +1,4 @@
-# My workflow
+# My Workflow
 I try to be methodical in working and doing things. And I use the best tools and workflows that work for me to achieve my goals.
 
 ## Life

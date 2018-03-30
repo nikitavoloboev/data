@@ -357,8 +357,8 @@ Some simple rules to follow for myself doing things.
 
 ## Trello
 - Share boards publically that contain no sensitive or private information.
-- Use _watching_ feature for cards I am working on now. Separate cards by topic. Use _tags_ to give priority to tasks. _Important_ and _Next_. Assigned cards are more important than `_Next_` and `_Next_` is more important than `_Important_`.
-- Add links to wiki / [curated lists](https://github.com/learn-anything/curated-lists#readme) over adding them to Trello where it is appropriate.
+- Order of importance for cards: __Watching__ -> __Next__ -> __Important__ -> No label.
+- Add links to wiki or [curated lists](https://github.com/learn-anything/curated-lists#readme) over adding them to Trello where it is appropriate.
 
 ## Newsletters
 - All newsletters should never reach inbox and be automated to appropriate mailboxes.

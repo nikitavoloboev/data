@@ -229,7 +229,7 @@
 	- [Nix](package-managers/nix.md)
 	- [Homebrew](package-managers/homebrew.md)
 - [Tools](tools/tools.md)
-	- [Codesandbox](tools/codesandbox.md)
+	- [CodeSandbox](tools/codesandbox.md)
 	- [GitBook](tools/gitbook.md)
 	- [Dropbox](tools/dropbox.md)
 	- [Telegram](tools/telegram.md)
