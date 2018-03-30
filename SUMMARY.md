@@ -214,6 +214,7 @@
 	- [Nomad](travel/nomad.md)
 - [Business](business/business.md)
 	- [Startups](business/startups/startups.md)
+	- [Landing pages](business/landing-pages.md)
 	- [Pricing](business/pricing.md)
 - [Anki](anki/anki.md)
 	- [Anki decks](anki/anki-decks/anki-decks.md)
