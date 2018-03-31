@@ -11,4 +11,4 @@ Alan Watts is most certainly my favourite person I wish I knew. Fortunately he w
 ## Mixed in music
 - [Will Cady - What Fills The Gap](https://www.youtube.com/watch?v=cmT3t2Kdr3I)
 - [n u a g e s - Dreams](https://www.youtube.com/watch?v=9RMHHwJ9Eqk)
-- [Out of Your Mind lecture series mixed with ambient music](https://soundcloud.com/spacekittyisyou/sets/ambient-watts)I
+- [Out of Your Mind lecture series mixed with ambient music](https://soundcloud.com/spacekittyisyou/sets/ambient-watts)

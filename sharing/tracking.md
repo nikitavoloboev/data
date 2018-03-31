@@ -18,7 +18,7 @@ Here is a list of various things I track for my own use and reference.
 ## Music
 - [Music playlists](../music/music-playlists.md) - Different playlists I made of music I like.
 - [Spotify](https://open.spotify.com/user/nikitavoloboev) - Different Spotify playlists I made.
-- [Soundcloud](https://soundcloud.com/nikitavoloboev) - Different music I liked.
+- [SoundCloud](https://soundcloud.com/nikitavoloboev) - Different music I liked.
 - [Last.fm](https://www.last.fm/user/playfullyExist) - Music I am listening to now and music I listened to in the past.
 
 ## Coding

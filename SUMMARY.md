@@ -125,6 +125,7 @@
 		- [Vim commands](text-editors/vim/vim-commands.md)
 	- [Sublime text](text-editors/sublime-text.md)
 	- [Emacs](text-editors/emacs.md)
+	- [IntelliJ](text-editors/intellij.md)
 - [Operating systems](operating-systems/operating-systems.md)
 	- [nixOS](operating-systems/nixos.md)
 	- [Containers](operating-systems/containers/containers.md)

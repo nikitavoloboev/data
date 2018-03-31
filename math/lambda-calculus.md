@@ -3,3 +3,5 @@ Is logical theory of computable functions.
 
 ## Notes
 - Lambda calculus is a formal language capable of expressing arbitrary computable functions. In combination with types it forms a compact way to denote on the one hand functional programs and on the other hand mathematical proofs.
+- Lambda calculus is turing complete, meaning you can express everything computable in a regular computer in lambda calculus.
+- You can formalize the entire lambda calculus inside of category theory via cartesian closed categories.

@@ -11,14 +11,14 @@ I write about various things, mostly programming and macOS tips. [Here](my-artic
 ## Experiences on [Instagram](https://www.instagram.com/nikitavoloboev/)
 I share photos and stories from my life there. I also curate a [small page of beautiful pictures](https://instagram.com/prettiways) and various [Unsplash collections](https://unsplash.com/@nikitavoloboev/collections).
 
-## Music on [Spotify](https://open.spotify.com/user/nikitavoloboev) and [Soundcloud](https://soundcloud.com/nikitavoloboev)
+## Music on [Spotify](https://open.spotify.com/user/nikitavoloboev) and [SoundCloud](https://soundcloud.com/nikitavoloboev)
 I share many of the songs I like in [form of playlists](../music/music-playlists.md). I also share music I am [listening to now](https://www.last.fm/user/playfullyExist) and [artists I love](../music/music-artists.md).
 
 ## Videos on [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
 I mostly make videos about macOS automation. [Here](my-youtube.md) are all the videos I have made. I also share [many YouTube playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view_as=subscriber) I made.
 
 ## Streaming on [Twitch](https://www.twitch.tv/nikitavoloboev)
-I stream some of the things I am building for fun there. I try to explain things as I do them.
+I stream some of the things I am building for fun there. I explain things as I do them.
 
 ## macOS/iOS group on [Telegram](https://t.me/macOSautomation)
 I love macOS and automation and made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS with focus on productivity.
