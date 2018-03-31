@@ -6,14 +6,14 @@ Some simple processes to follow when doing things.
 2. Ask myself why it is the way it is.
 3. Ask myself what am I missing and what I don't understand (tackle each dependency one by one).
 
-## Learn something
+## Learn
 1. Find what I want/need to learn. Ideally in context of a problem I want to solve.
 2. Read about it on wiki. Find the topic on Learn Anything and learn from best resources for deeper knowledge.
 
 ## Make new Alfred workflow
 1. Follow [making workflows outline](../macOS/apps/alfred/making-workflows.md).
 
-## Publish Alfred workflows
+## Publish Alfred workflow
 1. Post the workflow on [Alfred Forum](https://www.alfredforum.com/).
 2. Heading (36 pt), `Code | Download` (26 pt) on the bottom. [Example](https://www.alfredforum.com/topic/10486-ask-create-share).
 
