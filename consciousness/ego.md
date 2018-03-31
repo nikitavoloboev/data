@@ -1,7 +1,7 @@
 # Ego
 Ego is who I am. Without ego, there is no I.
 
-Psychonaut wiki describes [ego death as memory suppression](https://psychonautwiki.org/w/index.php?title=Memory_suppression&_=#Ego_death). And it's an interesting way to look at it and I think as it is true, that without your memory, there really is no you.
+Psychonaut wiki describes [ego death as memory suppression](https://psychonautwiki.org/w/index.php?title=Memory_suppression&_=#Ego_death). And it's an interesting way to look at it and I think it is true. Without your memory, there really is no you.
 
 In my thoughts, everything is dependent on perspective and many of the experiences we have are experienced though the perspective of our ego. If we take that away, we get completely new experience that we were not able to experience prior.
 

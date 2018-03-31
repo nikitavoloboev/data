@@ -21,6 +21,7 @@ But as will all things, _moderation is key_. Or as in the case with psychedelics
 - [Psychedelics can make anything seem meaningful even if it's something pointless, similar to how cannabis can make you satisfied with boredom, opiates can make you relaxed in any situation, stims can give you confidence, etc. Relying on any drugs to give you meaning or whatever makes you a slave to them and in the end the only way you really get something is working for it, not just doing psychedelics and thinking about how meaningful something is.](https://www.reddit.com/r/RationalPsychonaut/comments/7b7kxu/how_have_psychedelics_changed_your_life_if_at_all/)
 - [Drug induced enlightenment is not enlightenment at all, I'm not sure what the mechanism is, but it feels like a different version of ecstacy. You take it, you overload your brain with serotonin, feel wonderful and connected, and then it's gone. I think psychedelics do the same with whatever chemical gets released in much smaller amounts when we figure something out.](https://www.reddit.com/r/Drugs/comments/4whrnx/i_did_so_much_acid_i_almost_died/d67p6sd/ "permalink")
 - Most psyches target 5-HT receptor. 5-HT is the chemical name for serotonin.
+- [I've always felt that hallucinogens each have their own "staircase", and they all lead to the same "place" in their own way.](https://www.reddit.com/r/DMT/comments/87nmpz/just_broke_through_for_the_first_time/)
 
 ## Links
 - [Trip Safe](https://tripsafe.org/) - Education for psychedelics like LSD and Shrooms.

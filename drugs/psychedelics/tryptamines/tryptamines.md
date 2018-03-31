@@ -12,7 +12,7 @@ This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/
 - 5-MeO-MET
 - [Psilocin](https://psychonautwiki.org/w/index.php?title=Psilocin)
 - [Bufoterin](https://psychonautwiki.org/w/index.php?title=Bufotenin)
-- [DPT](https://psychonautwiki.org/w/index.php?title=DPT) - More intense than DMT.
+- [DPT](https://psychonautwiki.org/w/index.php?title=DPT)
 - [DiPT](https://psychonautwiki.org/wiki/DiPT)
 - [ΑMT](https://psychonautwiki.org/w/index.php?title=%CE%91MT)
 
