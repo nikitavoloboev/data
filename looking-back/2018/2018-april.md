@@ -1,7 +1,7 @@
 # 2018 April
 ## Shared
 
-## Notes
+## Diary
 
 ## Music
 - [Tracks](https://www.last.fm/user/playfullyExist/library/tracks?to=2018-04-30&from=2018-04-01)

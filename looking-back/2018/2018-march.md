@@ -1,8 +1,13 @@
-# March 2018
+# 2018 March
+## Summary
+Moved LA to [Discord](https://discord.gg/KKYdWjt). Started focusing on mindfulness and minimalism and using only things that bring me value. Still learning what the best way to coduct this diary together with Day One and other things. Will be experimening a lot more in the future. Want to visualise things a bit more in the coming time.
+
+![](https://i.imgur.com/KhhYWfv.png)
+
 ## Shared
 - (25) [Posted my first rice ever on /r/unixporn](https://www.reddit.com/r/unixporn/comments/8709c4/macos_clean_functional_my_first_rice_many_apps/).
 
-## Notes
+## Diary
 - (1) Going to take Timing a __lot__ more seriously this month. And get some work done!
 - (2) Going to use Trello exclusively for managing projects.
 - (4) Adding this change from iOS. Moved the wiki to Dropbox and hooked up Ulysses to edit the folder on iOS. Pretty amazing.
