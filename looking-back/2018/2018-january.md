@@ -1,4 +1,4 @@
-# January 2018
+# 2018 January
 ## Summary
 Wouldn't call this month the best start to the year. LA was blocked by FB and all of FB products. This although quite bad, how a company can block an educational website, opened me up to the horrible prospects that the future will bring if we allow these centralised companies to get control over our daily lives. I will be exploring alternatives to centralised solutions that bring power to the users and the people instead of the few handful of individuals and shareholders who get to decide what to do with all the user's data they collect.
 

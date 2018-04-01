@@ -9,6 +9,7 @@ In each of the months I track changes that happened to my life as well as some t
 ## 2018
 > Have many hopes for this year. The first year that I will be viewing and documenting my life in my wiki here. Hope to build some awesome things too.
 
-- [January](2018/january-2018.md)
-- [February](2018/february-2018.md)
-- [March](2018/march-2018.md)
+- [January](2018/2018-january.md)
+- [February](2018/2018-february.md)
+- [March](2018/2018-march.md)
+- [April](2018/2018-april.md)

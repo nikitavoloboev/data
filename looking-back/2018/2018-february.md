@@ -1,4 +1,4 @@
-# February 2018
+# 2018 February
 ## Summary
 This month went by fast. 'Started' working on a side project that I am quite excited about. Hope to learn more more things and hopefully apply the things I've learned in action to do something I really want to exist from scratch.
 

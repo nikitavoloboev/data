@@ -15,7 +15,7 @@ I keep a [Trello board](https://trello.com/b/EekGabpj) of games I am playing now
 - [Warcraft III](http://www.wikiwand.com/en/Warcraft_III:_Reign_of_Chaos) - Probably the best multiplayer game I ever played. The amount of amazing and creative modes that came out of the game's world builder is immense. DOTA came from Warcraft III initially.
 - [Command & Conquer: Generals](http://www.wikiwand.com/en/Command_%26_Conquer:_Generals)
 - [Cossacks: European Wars](http://www.wikiwand.com/en/Cossacks:_European_Wars)
-- [League of Legends](http://www.wikiwand.com/en/League_of_Legends) - Speaking of DOTA, whilist I haven't played original DOTA much, I did love League. Have many fond memories of playng with my friends. Many people take the game too seriously and ruin the fun both for themselves and other people but if you play with friends and just have fun, the game is quite amazing.
+- [League of Legends](http://www.wikiwand.com/en/League_of_Legends) - Speaking of DOTA, whilst I haven't played original DOTA much, I did love League. Have many fond memories of playng with my friends. Many people take the game too seriously and ruin the fun both for themselves and other people but if you play with friends and just have fun, the game is quite amazing.
 
 ## Games played
 I track all the games I have played [here](https://www.grouvee.com/user/nikivi).

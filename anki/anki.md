@@ -1,7 +1,7 @@
 # [Anki](https://apps.ankiweb.net)
 Anki is an awesome app that uses [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) to memorise and learn things efficiently.
 
-The reason I am not currently using it is because I find the philophy of `Knowing something is knowing where it is written down.` much more effective than memorising things. And I am pretty fast on the computer already so looking something up is 'nearly' as fast as retrieving something from memory. Also I believe that doing something that you want to get good at a lot of times is the only real way to learn and master the thing. That said, Anki is pretty great for learning vocabulary for a language as that is something where memorisation and 'knowing' thing is actually important. But even then being immersed in the enviroment where you try to speak the language is much more effective.
+The reason I am not currently using it is because I find the philophy of `Knowing something is knowing where it is written down.` much more effective than memorising things. And I am pretty fast on the computer already so looking something up is 'nearly' as fast as retrieving something from memory. Also I believe that doing something that you want to get good at a lot of times is the only real way to learn and master anything. That said, Anki is pretty great for learning vocabulary for a language as that is something where memorisation and 'knowing' thing is actually important. But even then being immersed in the enviroment where you try to speak the language is much more effective.
 
 > A language isn’t something you learn so much as something you join.
 
