@@ -18,3 +18,4 @@ I use [neovim](https://github.com/neovim/neovim) instead of vim and my vimrc for
 - [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/) - Quite funny.
 - [Macros](http://vim.wikia.com/wiki/Macros)
 - [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
+- [Go client for neovim](https://github.com/neovim/go-client)

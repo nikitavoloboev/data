@@ -1,6 +1,6 @@
 # 2018 March
 ## Summary
-Moved LA to [Discord](https://discord.gg/KKYdWjt). Started focusing on mindfulness and minimalism and using only things that bring me value. Still learning what the best way to coduct this diary together with Day One and other things. Will be experimening a lot more in the future. Want to visualise things a bit more in the coming time.
+Moved LA to [Discord](https://discord.gg/KKYdWjt). Started focusing on mindfulness and minimalism and using only things that bring me value. Still learning what the best way to coduct this diary together with Day One and other things is. Will be experimening a lot more in the future. Want to visualise things a bit more in the coming time.
 
 ![](https://i.imgur.com/KhhYWfv.png)
 
