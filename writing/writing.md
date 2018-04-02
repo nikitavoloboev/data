@@ -27,7 +27,7 @@ I keep a private Trello board where I drop ideas I have of what I want to write 
 
 ![](https://i.imgur.com/S2JEESU.png)
 
-## Avoid using these
+## Avoid using these words
 - a bit
 - a little
 - sort of
@@ -44,7 +44,7 @@ I keep a private Trello board where I drop ideas I have of what I want to write 
 - Examine every word: a surprising number don’t serve any purpose.
 
 # Links
-- [How I write](https://medium.com/@NikitaVoloboev/how-i-write-cdc2cebdc70c) - What my writing setup looks like on my mac. I now use Ulysses and PDF Expert in a separate space on my mac and I use many macros and few alfred workflows to quickly navigate through my writing library.
+- [How I write](https://medium.com/@NikitaVoloboev/how-i-write-cdc2cebdc70c) - What my writing setup looks like on my mac. However now I use Ulysses full screened with a few alfred workflows to quickly navigate through my writing library.
 - [A blog post about blog posts](https://medium.com/@naomi_pen/a-blog-post-about-blog-posts-4bb6a6ce0772)
 - [Learnup](https://leanpub.com/) - Service to publish books.
 - [TLDR of MailChimp's writing style guide](https://styleguide.mailchimp.com/tldr/)
