@@ -7,7 +7,7 @@ Treating thoughts and thinking in this way is incredibly freeing. Not getting at
 
 I like to practice mindfulness through journalling my thoughts in my diary. I wrote about it [here](../life/journalling.md).
 
-Although I do want to start more focused mindfulness and trying to practice _channeling_ my focus. I do build my personal system of productivity and happiness around this idea of _less thinking, more happiness_. I try to cultivate good thoughts and let bad thoughts pass by. I focus on the present moment and try to take the best from the cards I have been dealt. And more importantly I try to be _proactive_ with life. Great things won't happen if you sit idly waiting for things to happen. You either have to go out and find these great things or make your own.
+I do want to start more focused mindfulness and trying to practice _channeling_ my focus. I do build my personal system of productivity and happiness around this idea of _less thinking, more happiness_. I try to cultivate good thoughts and let bad thoughts pass by. I focus on the present moment and try to take the best from the cards I have been dealt. And more importantly I try to be _proactive_ with life. Great things won't happen if you sit idly waiting for things to happen. You either have to go out and find these great things or make your own.
 
 ## Notes
 - [There are no secrets. There are no shortcuts. You literally just practice for years and years and years and years.](https://www.reddit.com/r/Buddhism/comments/6v5dg5/how_do_i_enter_all_the_four_jhanas/dlxpy6w/)

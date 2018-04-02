@@ -14,7 +14,7 @@ It allows me to put certain issues into Up Next group as can be seen below:
 And then I can go through these issues one by one.
 
 ## Notes
-- You can append `#readme` to GitHub repo URL to jump to the README of the repo. I use it all the time for curated lists of any kind and where README is the most important thing of the repo.
+- You can append `#readme` to GitHub repo URL to jump to the README of the repo. I use it all the time for curated lists of any kind and where README is the most important thing in the repo.
 - Selecting some text in a github comment and pressing `r` will make a reply of that text.
 - [GitHub jump](https://github.com/lox/alfred-github-jump) workflow is one of the best things you can install to navigate GitHub like a God.
 	- I [slightly modified it](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to jump to different parts of the repo with modifiers like going to issues, releases, opening new issue or even cloning the repo instantly.

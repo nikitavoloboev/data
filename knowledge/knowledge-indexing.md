@@ -11,4 +11,4 @@ I also parse all these mind maps for super fast access with [Alfred My Mind](htt
 
 For all the other things, I use a search engine of my liking. I still prefer to use Google as it does make superior searches at the cost of my privacy but I also use DuckDuckGo for both privacy and their awesome instant answers feature. I think they complement each other really well.
 
-And of course this system of knowledge indexing is really flexible and I am experimenting with these things as I go. I want to focus on writing code though and writing solutions with code to real problems that exist in this world and this above system of knowledge indexing helps me greatly with that and I build and augment it with software where possible.
+And of course this system of knowledge indexing is really flexible and I am experimenting with these things as I go. I want to focus on writing code and writing solutions with code to real problems that exist in this world and this above system of knowledge indexing helps me greatly with that and I build and augment it with software where possible.
