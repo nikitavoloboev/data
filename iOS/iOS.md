@@ -9,6 +9,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Giving location, camera, photo permissions to apps matters](https://krausefx.com/blog/ios-privacy-watchuser-access-both-iphone-cameras-any-time-your-app-is-running)
 
 ## Links
+- [iOS Security paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
 - [iOS landing page](https://github.com/sindresorhus/ios-landing-page)
 - [iOS Developer roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap#readme)
 - [Peek](https://github.com/shaps80/Peek) - Inspect your iOS application at runtime.

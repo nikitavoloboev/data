@@ -8,7 +8,7 @@ This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/
 - [4-AcO-MiPT](https://psychonautwiki.org/wiki/4-AcO-MiPT)
 - [4-HO-DiPT](https://psychonautwiki.org/wiki/4-HO-DiPT)
 - [5-MeO-DMT](https://psychonautwiki.org/wiki/5-MeO-DMT) - Pure ego death. Probably strongest psych there is.
-- [5-meo-MIPT](https://psychonautwiki.org/w/index.php?title=5-MeO-MiPT)
+- [5-MeO-MIPT](https://psychonautwiki.org/w/index.php?title=5-MeO-MiPT)
 - 5-MeO-MET
 - [Psilocin](https://psychonautwiki.org/w/index.php?title=Psilocin)
 - [Bufoterin](https://psychonautwiki.org/w/index.php?title=Bufotenin)

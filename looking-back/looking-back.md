@@ -12,4 +12,4 @@ In each of the months I track changes that happened to my life as well as some t
 - [January](2018/2018-january.md)
 - [February](2018/2018-february.md)
 - [March](2018/2018-march.md)
-<!-- - [April](2018/2018-april.md) -->
+- [April](2018/2018-april.md)
