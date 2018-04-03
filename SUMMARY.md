@@ -14,6 +14,7 @@
 - [Focusing](focusing/focusing.md)
 	- [Rules](focusing/rules.md)
 	- [Processes](focusing/processes.md)
+	- [Habits](focusing/habits.md)
 - [Knowledge](knowledge/knowledge.md)
 	- [Knowledge indexing](knowledge/knowledge-indexing.md)
 - [Research](research/research.md)
