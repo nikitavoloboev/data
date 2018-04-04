@@ -39,6 +39,7 @@ I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3
 ![](https://i.imgur.com/D0NP2s3.png)
 
 ## Links
+- [Reporting Problems with Workflows](https://www.alfredforum.com/topic/10224-reporting-problems-with-workflows/)
 - [How to: workflow / environment variables](https://www.alfredforum.com/topic/9070-how-to-workflowenvironment-variables/?tab=comments#comment-45177)
 - [fuzzy-list](https://github.com/derickfay/fuzzylist) - Self-updating list filter workflow template.
 - [fuzzy-search](https://github.com/deanishe/alfred-fuzzy) - Fuzzy search helper.

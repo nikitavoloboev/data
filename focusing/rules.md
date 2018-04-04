@@ -332,7 +332,7 @@ Some simple rules to follow for myself doing things.
 - Include all my Instagram posts in Photos. Link Twitter tweets, last.fm, movies seen.
 
 ## Finance
-- Track every purchase made with YNAB. Put every purchase in its respective category.
+- Track every purchase made with Actual. Put every purchase in its respective category.
 - Adhere to my budget that I have set for each of the categories. If there is no budget left for eating out. Don't eat out.
 - Keep receipts of expensive purchases for warranty.
 
