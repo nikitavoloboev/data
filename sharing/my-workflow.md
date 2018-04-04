@@ -15,12 +15,6 @@ I try to be methodical in working and doing things. And I use the best tools and
 - Ship - GitHub issues. All issues I want to work on soon are put into __Up Next__ queue and I work through each one, one by one.
 - [Trello](../macOS/apps/trello.md) - Public and personal boards. It's really nice because I can share pragmatically things I want to do publically and have the workflow actually be seamless so it doesn't distract or detach from the experience in any way.
 
-## Mac
-- [my macOS](https://github.com/nikitavoloboev/my-mac-os#readme)
-
-## iOS
-- [my iOS](https://github.com/nikitavoloboev/my-ios#readme)
-
 ## Time management
 - [Fantastical](../macOS/apps/fantastical.md) - I plan my work for the entire day ahead of me and my day is primarily guided by the events I create. I always have Fantastical show __Week__ view for __5 days__ from current day. This gives me a perspective on what deadlines I have soon to complete and I can adjust my events as necessary and plan accordingly.
 - [Timing](../macOS/apps/timing.md) - Track all time I spend there. I try to automate as much of the tracking as possible so Timing learns from what I do and it's easy to fill out the sections after.
@@ -44,17 +38,17 @@ I try to be methodical in working and doing things. And I use the best tools and
 - [Day One](../macOS/apps/day-one.md) - All my private thoughts and journal entries.
 - [Looking back](../looking-back/looking-back.md) - My public log of things I've done and worked on throughout the months with highglights and comments on each month/year.
 
-## News
-- [Staying on top of things](../research/staying-on-top-of-things.md).
+## [Mac](https://github.com/nikitavoloboev/my-mac-os#readme)
 
-## Social Media
-- [Sharing](sharing.md).
+## [iOS](https://github.com/nikitavoloboev/my-ios#readme)
 
-## Tracking
-- [Tracking](tracking.md).
+## [News](../research/staying-on-top-of-things.md)
 
-## Finance
-- [Finance](../finance/finance.md)
+## [Social Media](sharing.md)
+
+## [Tracking](tracking.md)
+
+## [Finance](../finance/finance.md)
 
 ## Writing
 - [Ulysses](../macOS/apps/ulysses.md) - All my writing. Medium posts, stories, wiki, small pieces and ideas.
