@@ -53,6 +53,9 @@ I try to be methodical in working and doing things. And I use the best tools and
 ## Tracking
 - [Tracking](tracking.md).
 
+## Finance
+- [Finance](../finance/finance.md)
+
 ## Writing
 - [Ulysses](../macOS/apps/ulysses.md) - All my writing. Medium posts, stories, wiki, small pieces and ideas.
 
