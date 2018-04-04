@@ -275,6 +275,7 @@
 - [IRC](irc/irc.md)
 	- [ZNC](irc/znc.md)
 - [Work](work/work.md)
+- [Finance](finance/finance.md)
 - [Management](management/management.md)
 - [LaTeX](latex/latex.md)
 - [Robots](robots/robots.md)
