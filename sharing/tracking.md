@@ -21,8 +21,9 @@ Here is a list of various things I track for my own use and reference.
 - [SoundCloud](https://soundcloud.com/nikitavoloboev) - Different music I liked.
 - [Last.fm](https://www.last.fm/user/playfullyExist) - Music I am listening to now and music I listened to in the past.
 
-## Coding
+## Code
 - [WakaTime activity](https://wakatime.com/@nikivi) - The ratio of different programming languages I used this week together with the editors I used.
+- [Codepen collections](https://codepen.io/nikitavoloboev/collections/popular/)
 
 ## Games
 - [Grouevee](https://www.grouvee.com/user/nikivi/) - [Games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) and [games I want to play](https://www.grouvee.com/user/nikivi/shelves/12652-wish-list/?num=25).
@@ -34,9 +35,6 @@ Here is a list of various things I track for my own use and reference.
 
 ## Products
 - [Product Hunt collections](https://www.producthunt.com/@nikitavoloboev/collections) - Different collections of products and things I liked.
-
-## Code
-- [Codepen collections](https://codepen.io/nikitavoloboev/collections/popular/)
 
 ## Design
 - [Dribble buckets](https://dribbble.com/nikitavoloboev/buckets) - Various buckets of designs I liked. There is also a [big list of designs I liked](https://dribbble.com/nikitavoloboev/likes).

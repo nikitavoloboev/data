@@ -25,7 +25,7 @@ I try to be methodical in working and doing things. And I use the best tools and
 - [SnippetsLab](../macOS/apps/snippetslab.md) - Snippets of code and knowledge (facts/reference).
 
 ## Bookmarks
-- [LA curated lists](https://github.com/learn-anything/curated-lists#readme) - I open any of the lists readmes in seconds and any edit I make is automatically commited with Hazel. The lists are open to contribution too this way they get better and scale with time.
+- [Curated lists](https://github.com/learn-anything/curated-lists#readme) - I open any of the lists readmes in seconds and any edit I make is automatically commited with Hazel. The lists are open to contribution too this way they get better and scale with time.
 - [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) -  All my public facing bookmarks. Searching this wiki here. Searching my articles, my GitHub repos and more.
 - [Safari](../web/browsers/safari.md) and [Chrome](../web/browsers/google-chrome.md) bookmarks - Only contain personal bookmarks. The rest is publically available and queriable by anyone.
 
@@ -38,6 +38,12 @@ I try to be methodical in working and doing things. And I use the best tools and
 - [Day One](../macOS/apps/day-one.md) - All my private thoughts and journal entries.
 - [Looking back](../looking-back/looking-back.md) - My public log of things I've done and worked on throughout the months with highglights and comments on each month/year.
 
+## Writing
+- [Ulysses](../macOS/apps/ulysses.md) - All my writing. Medium posts, stories, wiki, small pieces and ideas.
+
+## Contacts
+- Apple Contacts - All contacts and people I meet are added as contacts in my contacts book. All contacts are prefixed with a category (i.e. __f.__ for __friend__) and most contacts have tags attached so it's easier to remember the person. I also add various people I follow as contacts and use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/search-for-content#readme) to search all contacts, names, tags links and notes I wrote for the contact.
+
 ## [Mac](https://github.com/nikitavoloboev/my-mac-os#readme)
 
 ## [iOS](https://github.com/nikitavoloboev/my-ios#readme)
@@ -49,9 +55,3 @@ I try to be methodical in working and doing things. And I use the best tools and
 ## [Tracking](tracking.md)
 
 ## [Finance](../finance/finance.md)
-
-## Writing
-- [Ulysses](../macOS/apps/ulysses.md) - All my writing. Medium posts, stories, wiki, small pieces and ideas.
-
-## Contacts
-- Apple Contacts - All contacts and people I meet are added as contacts in my contacts book. All contacts are prefixed with a category (i.e. __f.__ for __friend__) and most contacts have tags attached so it's easier to remember the person. I also add various people I follow as contacts and use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/search-for-content#readme) to search all contacts, names, tags links and notes I wrote for the contact.
