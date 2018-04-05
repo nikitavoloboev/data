@@ -10,6 +10,7 @@ I also automatically sort newsletters into mailboxes so they never show up in my
 ![](https://i.imgur.com/v6hKS7D.png)
 
 And here is my sidebar of labels I use for my email accounts:
+
 ![](https://i.imgur.com/OJvJOrP.png)
 
 The main goal is that the only emails that can get into my Inbox are emails from real people that are actionable and ideally important. Anything else should be sorted automatically or not sent in the first place. Unsubscribe from anything that brings no value and only adds noise.

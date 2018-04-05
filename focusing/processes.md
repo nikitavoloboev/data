@@ -33,7 +33,7 @@ Some simple processes to follow when doing things.
 3. Go to sleep before 11 pm. Ideally.
 
 ## Week review in [looking back](../looking-back/looking-back.md)
-1. Add snapshot of Timing & Wakatime. Evaluate. See what can be improved.
+1. Add snapshot of Timing & WakaTime. Evaluate. See what can be improved.
 2. Add images from [Instagram](https://www.instagram.com/nikitavoloboev) to `Photos`.
 3. Go through `Autolog` in Day One and move entries to appropriate journals.
 
