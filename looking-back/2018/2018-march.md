@@ -46,6 +46,6 @@ Moved LA to [Discord](https://discord.gg/KKYdWjt). Started focusing on mindfulne
 ## Music
 - [Tracks](https://www.last.fm/user/playfullyExist/library/tracks?to=2018-03-31&from=2018-03-01) | [Artists](https://www.last.fm/user/playfullyExist/library/artists?to=2018-03-31&from=2018-03-01) | [Albums](https://www.last.fm/user/playfullyExist/library/albums?to=2018-03-31&from=2018-03-01)
 
-## Other
+## Links
 - [March tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-03-01%20until%3A2018-03-31&src=typd)
 - [Movies seen](https://letterboxd.com/nikitavoloboev/films/diary/for/2018/03/)

@@ -29,3 +29,4 @@ I share my Karabiner private.xml [here](https://github.com/nikitavoloboev/dotfil
 - [Write Karabiner config in YAML and then convert to JSON](https://github.com/15cm/dotfiles/tree/master/.config/karabiner)
 - [jKeyboard](https://github.com/jhelvy/jKeyboard)
 - [shell command JSON](https://pqrs.org/osx/karabiner/json.html#typical-complex_modifications-examples-open-alfred-when-escape-is-held-down)
+- [Karaconv](https://github.com/durka/karaconv) - Converter from Karabiner to Karabiner-Elements text configuration format.

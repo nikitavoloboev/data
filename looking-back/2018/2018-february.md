@@ -174,6 +174,6 @@ Going to take Timing a lot more serious next month. I revamped by projects and T
 ![](https://i.imgur.com/WFkjfse.png)
 > [Albums](https://www.last.fm/user/playfullyExist/library/albums?from=2018-02-01&to=2018-02-28)
 
-## Other
+## Links
 - [February tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-02-01%20until%3A2018-02-28&src=typd)
 - [Movies seen](https://letterboxd.com/nikitavoloboev/films/diary/for/2018/02/)
