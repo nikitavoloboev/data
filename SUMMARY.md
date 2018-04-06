@@ -84,7 +84,7 @@
 	- [Type Theory](math/type-theory.md)
 	- [Category theory](math/category-theory.md)
 	- [Fractals](math/fractals.md)
-- [Computer science](computer-science/computer-science.md)
+- [Computer Science](computer-science/computer-science.md)
 	- [Data Structures](computer-science/data-structures/data-structures.md)
 	- [Algorithms](computer-science/algorithms/algorithms.md)
 - [Programming](programming/programming.md)

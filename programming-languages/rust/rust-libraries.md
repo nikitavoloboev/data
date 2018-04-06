@@ -6,3 +6,4 @@
 - [actix web](https://github.com/actix/actix-web)
 - [actix](https://github.com/actix/actix)
 - [tokio](https://github.com/tokio-rs/tokio)
+- [nom](https://github.com/Geal/nom) - Parser combinators library.

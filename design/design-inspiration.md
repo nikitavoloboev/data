@@ -13,6 +13,7 @@ Here are few more things I liked, design wise.
 ## Design
 - [Marc Edwards](https://dribbble.com/bjango) - Developer of iStats Menu for mac.
 - [Malik Thomas](http://malikthomas.co.uk/)
+- [Alexander Käßner](http://www.alexkaessner.de/) - Amazing logos.
 
 ## Blogs
 - [Actual budget](https://dev.actualbudget.com/) - The deisgn is so clean.
@@ -35,3 +36,4 @@ Here are few more things I liked, design wise.
 - [Kenneth Reitz](https://www.kennethreitz.org/)
 - [autophagy](http://autophagy.io/)
 - [Seana Burns](http://seenaburns.com/)
+- [Maddie](http://maddie.io/) - Clean.

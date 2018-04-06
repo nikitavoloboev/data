@@ -7,3 +7,4 @@ I use [Streaks](https://streaksapp.com) iOS app to track any new habits I want t
 ![](https://i.imgur.com/CNjtmai.jpg)
 
 ## Learned habits
+- No sugary drinks.

@@ -13,3 +13,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS landing page](https://github.com/sindresorhus/ios-landing-page)
 - [iOS Developer roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap#readme)
 - [Peek](https://github.com/shaps80/Peek) - Inspect your iOS application at runtime.
+- [Unix / CLI / shell-like tools for iOS](http://maverick.inria.fr/Members/Nicolas.Holzschuch/ios_shell.html)
