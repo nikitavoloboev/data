@@ -21,7 +21,7 @@ The number between brackets shows the year I created the repo in. Repos with a �
 - [My macOS (2016) 🌟](https://github.com/nikitavoloboev/my-mac-os#readme) - A list of applications and various tools that make my macOS experience even more amazing.
 - [My iOS (2016) 🌟](https://github.com/nikitavoloboev/my-ios#readme) - A list of applications and tools I use that make my iOS experience even more amazing.
 - [AMA (2017) 🌟](https://github.com/nikitavoloboev/ama#readme) - Ask me anything.
-- [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.github.io) - My personal home on the internet.
+- [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.xyz) - My personal home on the internet.
 - [Knowledge (2017) 🌟](https://github.com/nikitavoloboev/my-knowledge) - Everything I know.
 
 ## Go Libraries
@@ -37,11 +37,11 @@ The number between brackets shows the year I created the repo in. Repos with a �
 
 ## Curated
 - [Privacy Respecting (2017) 🌟](https://github.com/nikitavoloboev/privacy-respecting#readme) - Curated List of Privacy Respecting Services and Software.
-- [Find work (2018)](https://github.com/nikitavoloboev/find-work#readme) - Curated list of websites and resources to find work programming.
+- [Find work (2018) 🌟](https://github.com/nikitavoloboev/find-work#readme) - Curated list of websites and resources to find work programming.
 
 ## Practice
-- [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions for LeetCode in Python and Go.
-- [Euler (2017)](https://github.com/nikitavoloboev/euler) - Solutions to problems in Project Euler written in Python and Go.
+- [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions to LeetCode in Python and Go.
+- [Euler (2017)](https://github.com/nikitavoloboev/euler) - Solutions to Project Euler in Python and Go.
 - [Coding practice (2018)](https://github.com/nikitavoloboev/coding-practice) - Solving problems.
 
 ## Books

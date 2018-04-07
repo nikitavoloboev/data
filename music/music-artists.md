@@ -13,7 +13,7 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Rival Consoles](https://soundcloud.com/rivalconsoles) - [Soul](https://www.youtube.com/watch?v=r5VflAxDCGw) | [Untravel](https://www.youtube.com/watch?v=cxxIN6fyj58)
 - [Tor](https://soundcloud.com/torsmusic) - [Days Gone](https://www.youtube.com/watch?v=NyBFuj0BBh8)
 - [Floating Points](https://soundcloud.com/floatingpoints) - [ARP3](https://www.youtube.com/watch?v=d38xbAFnCSQ)
-- [Otto Totland](https://soundcloud.com/sonic-pieces/otto-a-totland-seveen) - [Aust](https://www.youtube.com/watch?v=TUs8BUVye9s)
+- [Otto Totland](https://ottoatotland.bandcamp.com) - [Pinô](https://www.youtube.com/watch?v=9s3DS-Dslps) | [Âust](https://www.youtube.com/watch?v=TUs8BUVye9s)
 - [Emancipator](https://soundcloud.com/emancipator) - [Valhalla](https://www.youtube.com/watch?v=JkFYkMYAXzw) | [Black Lake](https://www.youtube.com/watch?v=Dz4aVM8fug0)
 - [Little People](https://soundcloud.com/littlepeoplemusic) - [Enola](https://www.youtube.com/watch?v=SH2w1nXNbrM) | [Offal Waffle](https://soundcloud.com/littlepeoplemusic/offal-waffle-emancipator-remix)
 - [Giyo](https://soundcloud.com/gi-yo) - [Downward Spiral](https://www.youtube.com/watch?v=M6beaMfKmjw)
@@ -86,7 +86,6 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Angus & Julia Stone](https://soundcloud.com/angusandjuliastone)
 - [Blockhead](https://soundcloud.com/blockheadnyc) - [Farewell Spaceman](https://www.youtube.com/watch?v=Omq9_JTGeiw)
 - [Sinitus Tempo](https://soundcloud.com/sinitustempo) - [Many Fellings](https://www.youtube.com/watch?v=UgojU9PIjq0)
-- [Otto A. Totland](https://ottoatotland.bandcamp.com) - [Pinô](https://www.youtube.com/watch?v=9s3DS-Dslps) | [Âust](https://www.youtube.com/watch?v=TUs8BUVye9s)
 
 ## Interesting artists
 - [Emapea](https://soundcloud.com/emapea)
@@ -134,3 +133,4 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Saiko](https://soundcloud.com/saikotropic) - [In Space](https://www.youtube.com/watch?v=6Y1naR7xDY8)
 - [Enja](https://soundcloud.com/ennja) - [Way](https://www.youtube.com/watch?v=HeBEwUkMQUo) | [Let Go](https://www.youtube.com/watch?v=s_Vg5NN7LBo)
 - [Opia](https://soundcloud.com/opia-official) - [YDU (Aftrparty Remix)](https://soundcloud.com/aftrpartymusic/opia-ydu-aftrparty-remix)
+- [Ott](https://soundcloud.com/ottsonic) - [The Bicycle Of The Sky](https://www.youtube.com/watch?v=sGJKsWSsPr0)

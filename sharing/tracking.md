@@ -12,7 +12,7 @@ Here is a list of various things I track for my own use and reference.
 
 ## TV series
 - [Trakt](https://trakt.tv/users/nikitavoloboev) - [TV series I have seen](https://trakt.tv/users/nikitavoloboev/history) and [ratings I made](https://trakt.tv/users/nikitavoloboev/ratings) for different episodes/seasons.
-- [TV Series (Wiki)](../tv-series/tv-series.md) - TV series I have seen already with my thoughts and a small reviews on each one.
+- [Series (Wiki)](../tv-series/tv-series.md) - TV series I have seen already with my thoughts and a small reviews on each one.
 - [Series (Trello)](https://trello.com/b/iUtT6wmu) - TV series I am planning to watch.
 
 ## Music
