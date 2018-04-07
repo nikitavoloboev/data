@@ -15,3 +15,4 @@ I made a [repository](https://github.com/nikitavoloboev/privacy-respecting#readm
 - [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources. Really reccomended to modify hosts file so to block malicous sites and trackers.
 - [Beyond The Clouds](https://ind.ie/beyond-the-clouds/)
 - [A Picture Is Worth a Thousand Cookies](https://blog.halide.cam/a-picture-is-worth-a-thousand-cookies-8400efa3d650)
+- [Why Zuckerberg’s 14-year apology tour hasn’t fixed Facebook](https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/)

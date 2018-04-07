@@ -15,7 +15,7 @@ I keep a private Trello board where I outline things that I want to focus on in 
 ![](https://i.imgur.com/FfYC0Re.png)
 
 ## Things that help me
-- I use [Focus app](https://heyfocus.com) to block a particular set of websites for 90 minutes (front pages of Hacker News, Reddit, ..) every 2 hours.
+- I use [Focus app](https://heyfocus.com) to block a particular set of websites for 90 minutes (front pages of Hacker News, Reddit, ..) every 2 hours. I also have Focus trigger Do Not Disturb by calling [this CLI tool](https://github.com/sindresorhus/do-not-disturb-cli). This way I get no notifications when I am working and have 0 distractions.
 - I don't listen to any music when working and instead use [Noizio](http://noiz.io/) and listen to sounds of wind, rain, train or fire.
 - I try to work outside of home and move often. When that is not possible I emulate a working enviroment in some part of my home so my brain knows that if I am in this place, it is time to work and not do anything else.
 - I use only one monitor (my macbook). I found multiple monitors distracting as I can do everything really fast from my computer already.

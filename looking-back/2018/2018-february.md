@@ -84,11 +84,11 @@ Here is a little collage of my favourite posts I made on FB since my first artic
 
 ![](https://i.imgur.com/3oAdAMN.png)
 
-> An [article I wrote](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) about my experience of trying to become more compassionate and consious in my life. Starting with my decision of stopping eating meat. Long story short, I watched [Earthlings](https://letterboxd.com/film/earthlings/) and realised my absurd and ignorant behaviours towards other living creatures. So I stopped supporting this horrible insdustry. I just wish more other people started to think consequences of their actions and how they affect other living beings with them.
+> An [article I wrote](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) about my experience of trying to become more compassionate and consious in my life. Starting with my decision of stopping eating meat. Long story short, I watched [Earthlings](https://letterboxd.com/film/earthlings/) and realised my absurd and ignorant behaviours towards other living creatures. So I stopped supporting this horrible insdustry. I just wish more other people started to think about consequences of their actions and how they affect other living beings with them.
 
 ![](https://i.imgur.com/KYxcizh.png)
 
-> The [next article I wrote](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.nn8gvwavn) about my not so original idea that everything is connected in this world. Mostly it was about how I tried to embrace this fact to try and approach learning knowing in a new way. The article was also a part showcase of my growing love for mind maps.
+> The [next article I wrote](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.nn8gvwavn) about my not so original idea that everything is connected in this world. Mostly it was about how I tried to embrace this fact to try and approach learning in a new way. The article was also a part showcase of my growing love for mind maps.
 
 ![](https://i.imgur.com/PE1UjkR.png)
 

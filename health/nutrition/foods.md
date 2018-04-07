@@ -17,6 +17,7 @@ List of foods that are healthy.
 - Kale
 - Peaches
 - Dark chocolate
+- Salmon
 
 ## Don't eat
 - Bread. Grains.
