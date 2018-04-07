@@ -1,5 +1,5 @@
 # Skin care
-[Tanning is not so good](https://www.youtube.com/watch?v=o9BqrSAHbTc) for your skin. Moisturising your skin is.
+[Tanning is not good](https://www.youtube.com/watch?v=o9BqrSAHbTc) for your skin. Moisturising your skin is.
 
 Frowning is also quite quite bad for you. So best thing you can do is be happy and smile.
 

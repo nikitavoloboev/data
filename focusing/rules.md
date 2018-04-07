@@ -5,7 +5,6 @@ Some simple rules to follow for myself doing things.
 - Simplify as much as possible. Never repeat myself.
 - Learn from my mistakes. If things fail. Learn from it and move on.
 - Build [ideas](https://trello.com/b/alB1ryRP). Experiment.
-- Share everything I know and made.
 - Be mindful of my actions and thoughts. Don't eat/hurt anyone. Don't waste anything.
 - Don't compare myself to other people. Surround myself with people that inspire me.
 - Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals too much.
@@ -51,7 +50,8 @@ Some simple rules to follow for myself doing things.
 - Draw. Don't be full digital and use paper and imagination to distill complex ideas.
 
 ## Share
-- Share the link to the project on the appropriate website/forum/subreddit. Tweet it. Log it in [looking back](../looking-back/looking-back.md).
+- Share everything I know and made.
+- Share the link on the appropriate website/forum/subreddit. Tweet it. Log it in [looking back](../looking-back/looking-back.md).
 
 ## Share files
 - Temporary shares with [Transfer](https://transfer.sh).

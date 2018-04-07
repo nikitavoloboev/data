@@ -37,6 +37,8 @@ I share [everything I know](everything-I-know.md) in form of this wiki here. Can
 ## Answering questions on [Reddit](https://www.reddit.com/user/nikivi/), [Quora](https://www.quora.com/profile/Nikita-Voloboev) and various [Stack Exchanges](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile)
 I also share a multireddit of my [favourite subreddits](https://reddit.com/user/nikivi/m/top/).
 
+## Sharing things on [Product Hunt](https://www.producthunt.com/@nikitavoloboev), [Hacker News](https://news.ycombinator.com/user?id=nikivi), [Lobsters](https://lobste.rs/u/nikivi) and [Indie Hackers](https://www.indiehackers.com/user/nikivi)
+
 ## [My workflow](my-workflow.md)
 I try to make my own workflow in doing things be as _transparent_ as possible.
 
