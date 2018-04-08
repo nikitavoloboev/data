@@ -18,3 +18,4 @@ Still a mystery to me mostly due to my lack of mathematical maturity.
 - [Computational Statistics and Machine Learning Revision Notes](https://github.com/acbraith/CSML_notes)
 - [Stanford CS229 course](https://github.com/econti/cs229)
 - [Readings in applied data science](https://github.com/hadley/stats337)
+- [Learn ML in 3 months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#readme)
