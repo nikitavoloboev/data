@@ -5,3 +5,4 @@ It also has a __really__ [generous free tier](https://aws.amazon.com/free/).
 
 ## Links
 - [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english) - Great reference.
+- [AWS practical guide](https://github.com/open-guides/og-aws#readme)
