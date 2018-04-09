@@ -9,3 +9,6 @@ Similar to how switching of channels in a radio works, perhaps we can tune into 
 
 # Notes
 - [According to Buddhism, birth and death are both illusions of the self or the ego](https://www.reddit.com/r/DMT/comments/6i7d2r/sowe_dont_really_die_do_we/)
+
+## Links
+- [Who experiences ego death if not your ego?](https://www.reddit.com/r/Psychonaut/comments/8an34k/who_experiences_ego_death_if_not_your_ego/)

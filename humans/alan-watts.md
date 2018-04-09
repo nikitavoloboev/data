@@ -6,7 +6,8 @@ Alan Watts is most certainly my favourite person I wish I knew. Fortunately he w
 - [Money, Guilt and The Machine](https://www.youtube.com/watch?v=ryBUYB3F0NU)
 - [You Must Do It in Order To Understand It](https://www.youtube.com/watch?v=YCJsgb_enWs)
 - [Don't Try](https://www.youtube.com/watch?v=Q-tRXsteuRA)
-- [Alan Watts - Man and nature](https://www.youtube.com/watch?v=JQHWrCYS8cM&feature=youtu.be)
+- [Alan Watts - Man and Nature](https://www.youtube.com/watch?v=JQHWrCYS8cM)
+- [Why the Urge to Improve Yourself?](https://www.youtube.com/watch?v=vlNVQ-_y4-0)
 
 ## Mixed in music
 - [Will Cady - What Fills The Gap](https://www.youtube.com/watch?v=cmT3t2Kdr3I)

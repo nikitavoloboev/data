@@ -7,6 +7,9 @@
 - [Kiliankoe](https://github.com/kiliankoe/cv) - Open Source, made with LaTeX.
 - [Ioannis Mitliagkas](http://mitliagkas.github.io/cv.pdf)
 
+## Templates
+- [Simple yet tasteful CV and cover letter LaTeX templates](https://github.com/lorenzosaino/simpletexcv)
+
 ## Notes
 - Experience > Education
 
