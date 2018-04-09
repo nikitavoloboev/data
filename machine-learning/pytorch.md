@@ -1,4 +1,4 @@
-# [Pytorch](http://pytorch.org/)
+# [PyTorch](http://pytorch.org/)
 
 ## Links
 - [RL Adventure](https://github.com/higgsfield/RL-Adventure)
