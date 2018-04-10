@@ -50,8 +50,6 @@ I try to be methodical in working and doing things. And I use the best tools and
 
 ## [News](../research/staying-on-top-of-things.md)
 
-## [Social Media](sharing.md)
-
 ## [Tracking](tracking.md)
 
 ## [Finance](../finance/finance.md)
