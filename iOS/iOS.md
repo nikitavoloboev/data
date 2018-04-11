@@ -1,7 +1,5 @@
 # iOS
-My favourite mobile operating system mostly due to me not really trying anything else.
-
-I wrote how I use iOS in quite a bit of detail [here](https://github.com/nikitavoloboev/my-ios) alongside all the different apps I use on it.
+My [favourite mobile operating system](https://github.com/nikitavoloboev/my-ios#readme) mostly due to me not really trying anything else.
 
 I hope to release Learn Anything on iOS soon too. That would be quite cool.
 

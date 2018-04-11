@@ -14,3 +14,4 @@ If I fix those three things though, I do think streaming is a really fun little 
 
 ## Links
 - [Being a development streamer on Twitch](https://bot.land/blog/2016/10/being-a-development-streamer-on-twitch/)
+- [How I stream myself coding](http://bitemyapp.com/posts/2018-03-14-how-i-stream-coding.html)
