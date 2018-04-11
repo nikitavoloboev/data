@@ -16,6 +16,8 @@ Since then however, I adopted a more open approach to documenting my memories an
 I am very open to the public sharing both the things I know and like and also the different little things that happen to me, so I use [IFTTT](https://ifttt.com/day_one) to log and archive my public activity from Instagram and Twitter into Day one.
 
 ## My Journals
+![](https://i.imgur.com/j62nOQH.png)
+
 ### Life
 Writing about my life in a more open and free way. If something memorable happened to my life or I've been through something or want to say something, I write it there.
 
