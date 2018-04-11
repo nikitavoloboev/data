@@ -71,3 +71,4 @@ Below are books I have read or started reading. The books with links attached wi
 - [Reading list](https://github.com/keithamus/reading-list)
 - [Pick three books you think every beginner to sci-fi should read, three for "veterans", and three for "experts".](https://www.reddit.com/r/printSF/comments/5mrj3a/pick_three_books_you_think_every_beginner_to/)
 - [Any book recommendations for building your own indie business?](https://www.indiehackers.com/forum/any-book-recommendations-for-building-your-own-indie-business-22a3f89d27)
+- [Books read by Radek](http://radex.io/books/)

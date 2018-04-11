@@ -9,6 +9,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using Pages as I find it a lot 
 - [Kiliankoe](https://github.com/kiliankoe/cv) - Open Source, made with LaTeX.
 - [Ioannis Mitliagkas](http://mitliagkas.github.io/cv.pdf)
 - [Patrick Balestra](https://patrickbalestra.com/CV.pdf) - Minimal. Made in Pages.
+- [Fujun Luan](http://www.cs.cornell.edu/~fujun/files/Fujun_cv.pdf)
 
 ## Templates
 - [Simple yet tasteful CV and cover letter LaTeX templates](https://github.com/lorenzosaino/simpletexcv)
