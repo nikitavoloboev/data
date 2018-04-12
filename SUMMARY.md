@@ -159,7 +159,7 @@
 		- [Salvia](drugs/psychedelics/salvia.md)
 		- [Trippy](drugs/psychedelics/trippy.md)
 	- [Dissociatives](drugs/dissociatives.md)
-	[Cannabis](drugs/cannabis.md)
+	- [Cannabis](drugs/cannabis.md)
 	- [Nootropics](drugs/nootropics.md)
 	- [Opiates](drugs/opiates.md)
 	- [Research chemicals](drugs/research-chemicals.md)

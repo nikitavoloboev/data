@@ -11,3 +11,4 @@ Perhaps we can replicate a universe like ours in the future. One of the more int
 - [Fun to Imagine](https://www.youtube.com/watch?v=eqtuNXWT0mo)
 - [Stephen Hawking had pinned his hopes on 'M-theory' to fully explain the universe—here's what it is](https://phys.org/news/2018-03-stephen-hawking-pinned-m-theory-fully.html)
 - [Ask HN: How to self-learn electronics?](https://news.ycombinator.com/item?id=16775744)
+- [Conceptual illustration of time and space distortion near a mass](https://gfycat.com/AliveIndelibleElkhound)

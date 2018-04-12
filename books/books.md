@@ -15,7 +15,7 @@ Below are books I have read or started reading. The books with links attached wi
 - Logical Reasoning: A First Course - [Review](https://www.goodreads.com/review/show/1389050373)
 - The Fable of the Dragon-Tyrant
 - The Little Prince 🌟 - [Review](https://www.goodreads.com/review/show/1206274538)
-- Understand - Ted Chiang 🌟
+- Understand 🌟
 
 ### 2014
 - Roadside Picnic - [Review](https://www.goodreads.com/review/show/589176848)
