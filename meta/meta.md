@@ -30,7 +30,7 @@ The structure of each of the posts will often look roughly like this:
 If you are interested in how I maintain and write this wiki, I wrote about it in detail [here](../other/wiki-workflow.md).
 
 ## Future
-There are many, many things I am yet to add to this little system I am planning to make. I am still trying to find the perfect balance of how my knowledge, projects, thoughts and ideas and programmes and code should be structured but my goals with both this wiki and my mind maps are:
+There are many, many things I am yet to add to this little system I am planning to make. I am still trying to find the perfect balance of how my knowledge, projects, thoughts and ideas and programmes and code should be structured but my goals with this wiki are:
 
 1. Fast access to all this knowledge base. Achieved through:
 	1. [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
