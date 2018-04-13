@@ -3,7 +3,7 @@ My [favourite mobile operating system](https://github.com/nikitavoloboev/my-ios#
 
 I hope to release Learn Anything on iOS soon too. That would be quite cool.
 
-# Notes
+## Notes
 - [Giving location, camera, photo permissions to apps matters](https://krausefx.com/blog/ios-privacy-watchuser-access-both-iphone-cameras-any-time-your-app-is-running)
 - To unlock watch with iOS: Watch.app > Passcode > Unlock with iPhone.
 

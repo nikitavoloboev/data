@@ -5,6 +5,6 @@ I [wrote briefly](https://medium.com/@NikitaVoloboev/the-root-of-it-all-9b6ab6a7
 
 ![](https://i.redd.it/5ke1r9et38601.jpg)
 
-# Links
+## Links
 - [Mindfulness in plain english](http://misc.equanimity.info/downloads/mindfulness_in_plain_english.pdf) - Started reading but did not finish it. There is a lot of interesting insights there. That once again flee from your life if you don't pay attention and practice them.
 - [The book by Alan Watts](http://www.freespiritualebooks.com/uploads/5/0/5/8/50589505/the-book-on-the-taboo-against-knowing-who-you-are-by-alan-watts.pdf) - Or anything by Alan Watts really.

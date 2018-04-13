@@ -32,18 +32,18 @@ I sometimes check it out as it does contain some interesting links.
 I follow few publications and writers on Medium. I then view new articles from my feed [here](https://medium.com/stream/network).
 
 ## Communities and forums I frequent
-I spend a lot of my time in the [Gitter](https://gitter.im/learn-anything/Lobby) chat to discuss Learn Anything development.
+I spend a lot of my time on [Discord](https://discord.gg/KKYdWjt) server to discuss Learn Anything development. As well as [macOS/iOS automation Telegram group](https://t.me/macOSautomation).
 
 Aside from that I like visiting and at times contributing to these forums:
-1. [Alfred forum](https://www.alfredforum.com)
-2. [Keyboard maestro forum](https://forum.keyboardmaestro.com/latest)
-3. [Indie Hackers](https://www.indiehackers.com/)
+- [Alfred forum](https://www.alfredforum.com)
+- [Keyboard maestro forum](https://forum.keyboardmaestro.com/latest)
+- [Indie Hackers](https://www.indiehackers.com/)
 
 As well as quite a few other Slack communities like:
-1. [Gophers](https://invite.slack.golangbridge.org/)
-2. [ZEIT chat](https://zeit.chat)
-3. [VS Code Vim](https://vscodevim-slackin.azurewebsites.net/)
+- [Gophers](https://invite.slack.golangbridge.org/)
+- [ZEIT chat](https://zeit.chat)
+- [VS Code Vim](https://vscodevim-slackin.azurewebsites.net/)
 
-# Links
+## Links
 - [News](https://medium.com/@NikitaVoloboev) - I wrote briefly my opinion about consuming news and media. Although my opinion as stated in the article is still the same. My approach as indicated above has changed and hopefully became a bit more refined to meet my own goals.
 - [List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)

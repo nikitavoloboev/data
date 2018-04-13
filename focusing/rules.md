@@ -64,7 +64,7 @@ Some simple rules to follow for myself doing things.
 ## Nutrition
 - No processed sugar. No food with extra sugar in it.
 - Drink water, coffee and tea. No added sugar in the drinks.
-- Always have water/tea next to me when working on something. Fill up the water/tea if it empties.
+- Always have water/tea next to me. Fill up the water/tea if it empties.
 - No meat or dairy products. Health and [ethical reasons](../life/compassion.md).
 - Focus on Whole Food, Plant-Based diet.
 

@@ -7,7 +7,7 @@ In my thoughts, everything is dependent on perspective and many of the experienc
 
 Similar to how switching of channels in a radio works, perhaps we can tune into different frequencies of consciousness. In any way, it's quite hard to really put these concepts into words, if not impossible.
 
-# Notes
+## Notes
 - [According to Buddhism, birth and death are both illusions of the self or the ego](https://www.reddit.com/r/DMT/comments/6i7d2r/sowe_dont_really_die_do_we/)
 
 ## Links

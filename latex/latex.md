@@ -3,6 +3,6 @@ LaTeX is an amazing typesetting language that I mostly use to markup various mat
 
 For writing LaTeX I use [VS Code](../text-editors/vs-code/vs-code.md) and [LaTeX workshop](https://github.com/James-Yu/LaTeX-Workshop) plugin.
 
-# Notes
+## Notes
 - [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
 - [Neat typesetting](http://tullo.ch/static/cambridge/TimeSeriesMonteCarlo-LectureNotes.pdf)
