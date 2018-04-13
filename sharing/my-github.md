@@ -18,8 +18,8 @@ The number between brackets shows the year I created the repo in. Repos with a �
 
 ## Personal
 - [Dotfiles (2016) 🌟](https://github.com/nikitavoloboev/dotfiles) - Zsh, Neovim, Karabiner, Hammerspoon, VS Code.
-- [My macOS (2016) 🌟](https://github.com/nikitavoloboev/my-mac-os#readme) - A list of applications and various tools that make my macOS experience even more amazing.
-- [My iOS (2016) 🌟](https://github.com/nikitavoloboev/my-ios#readme) - A list of applications and tools I use that make my iOS experience even more amazing.
+- [My macOS (2016) 🌟](https://github.com/nikitavoloboev/my-mac-os#readme) - List of applications and various tools that make my macOS experience even more amazing.
+- [My iOS (2016) 🌟](https://github.com/nikitavoloboev/my-ios#readme) - List of applications and tools I use that make my iOS experience even more amazing.
 - [AMA (2017) 🌟](https://github.com/nikitavoloboev/ama#readme) - Ask me anything.
 - [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.xyz) - My personal home on the internet.
 - [Knowledge (2017) 🌟](https://github.com/nikitavoloboev/my-knowledge) - Everything I know.
@@ -33,7 +33,7 @@ The number between brackets shows the year I created the repo in. Repos with a �
 - [Al (2017) 💡](https://github.com/nikitavoloboev/al) - Find your aliases and shell functions.
 
 ## Tools
-- [Karabiner generator (2018) 💡](https://github.com/nikitavoloboev/karabiner-generator) - A small DSL to easily modify [Karabiner](https://github.com/tekezo/Karabiner-Elements) configuration.
+- [Karabiner generator (2018) 💡](https://github.com/nikitavoloboev/karabiner-generator) - Small DSL to easily modify [Karabiner](https://github.com/tekezo/Karabiner-Elements) configuration.
 
 ## Curated
 - [Privacy Respecting (2017) 🌟](https://github.com/nikitavoloboev/privacy-respecting#readme) - Curated List of Privacy Respecting Services and Software.
@@ -48,5 +48,5 @@ The number between brackets shows the year I created the repo in. Repos with a �
 - [macOS Automation Guide (2017) 💡](https://github.com/nikitavoloboev/macOS-automation-guide) - Online book focused on learning how to automate everything on your mac.
 
 ## Web
-- [Crafting Ideas (2017) 💡](https://github.com/nikitavoloboev/crafting-ideas) - A platform to share and grow your ideas.
+- [Crafting Ideas (2017) 💡](https://github.com/nikitavoloboev/crafting-ideas) - Platform to share and grow your ideas.
 - [Boxes (2017) 💡](https://github.com/nikitavoloboev/boxes) - Your life as little boxes.

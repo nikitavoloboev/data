@@ -7,4 +7,4 @@ I use [Reeder](../macOS/apps/reeder.md) to stay on top of my favourite blogs I f
 - [Brandur](https://brandur.org/articles)
 
 ## Links
-- [Blogs list](https://github.com/learn-anything/blogs#readme) - Interesting blogs.
+- [Interesting Blogs](https://github.com/learn-anything/blogs#readme)

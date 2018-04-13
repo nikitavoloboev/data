@@ -1,5 +1,5 @@
 # Command Line Interface
-I use many CLI tools. I also keep a [curated list of awesome CLI tools](https://github.com/learn-anything/command-line-tools).
+I use many CLI tools. I also keep a [curated list of CLI tools](https://github.com/learn-anything/command-line-tools).
 
 ## CLI actions
 - [List all processes running](https://gist.github.com/3fa57243dbfbdfb422555b28c89ab650)
