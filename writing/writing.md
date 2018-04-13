@@ -22,6 +22,8 @@ Always be consious when I am writing something and try to focus on the message a
 ## Be aware of pacing
 Be aware of pacing between words and sentences. The sententes ideally should flow into one another. Breaks in form of commas and full steps are important. As they allow for the reader to take a break and absorb the point that you tried to deliver.
 
+Replace words like `really like` with `love` or other more appropriate words that save space writing and are more relevant to what I am trying to say.
+
 ## Know what to write next
 I keep a private Trello board where I drop ideas I have of what I want to write next. Then I set due dates for articles I want to write and start working on them. Most often it is the simple act of starting to write something that makes something I can actually publish that I like. Here is how my Trello board looks:
 
@@ -29,6 +31,7 @@ I keep a private Trello board where I drop ideas I have of what I want to write 
 
 ## Avoid using these words
 - a bit
+- really
 - a little
 - sort of
 - kind of

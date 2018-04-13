@@ -25,7 +25,7 @@ Another cool thing is that my project I hope to make soon will improve these _lo
 - (21) Writing in my personal diary feels like sitting by a fire place sipping warm tea. It feels nice to let my thoughts and my frustrations be expressed on paper. Knowing well that what I write is not going to be read by anyone but me.
 - (21) Will try to write more in my digital private journal. I wrote a small letter to myself in there. To remind myself of what it is that I want to do and what I want to __stop doing__. I am not following [my own rules](../../focusing/rules.md)!
 - (21) Removed my Karabiner mind map as I it is stupid to keep it in track with my actual config. It's better to optimise searching and self documenting the config itself in the code with comments.
-- (21) Going to start doing this kind of changelog more often. I really like it. With the date on the side. Software has change logs. Why not life?
+- (21) Going to start doing this kind of changelog more often. I love it. With the date on the side. Software has change logs. Why not life?
 - (22) [Wrote about my workflow in making workflows](https://www.alfredforum.com/topic/11274-my-workflow-in-making-workflows).
 - (24) [LA just hit 9,500 ⭐ on GitHub.](https://twitter.com/learnanything_/status/967486070807023623)
 - (27) Made a [Telegram group](https://t.me/macOSautomation) to share and talk about all things macOS/iOS and automation.

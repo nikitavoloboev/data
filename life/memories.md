@@ -11,7 +11,7 @@ These are all questions I wish there was some definitive answer to.
 
 But based on my experience thus far in life. Making these unforgettable memories is really one of the most amazing traits this life has to give. Being able to remember past events and happy or even sad moments is a bliss. The only thing left is to maximise how many of these awesome and unique moments you get in life.
 
-It's interesting to think, what would I do if I knew that at the end of every day my memory would be gone. How would I choose to lead my days. What would I do? There's a pretty [awesome movie](https://letterboxd.com/film/memento/) that is quite similar to this idea that I really like.
+It's interesting to think, what would I do if I knew that at the end of every day my memory would be gone. How would I choose to lead my days. What would I do? There's a pretty [awesome movie](https://letterboxd.com/film/memento/) that is quite similar to this idea that I like.
 
 In any way, knowing all that. I just wish to make as many unique and interesting experiences in life as I can. Make many meaningful friendships and meet many interesting people. Build interesting things and share them. Travel to new places and feel the different cultures and histories of these places. Take photographs and capture these little moments in my life.
 

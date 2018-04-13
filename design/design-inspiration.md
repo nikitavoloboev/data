@@ -28,7 +28,7 @@ Here are few more things I liked, design wise.
 - [Tonsky](http://tonsky.me/about/)
 - [Isobit](https://www.isobit.io)
 - [Adam Morse](http://mrmrs.cc)
-- [Nienke](https://nienkedekker.com/) - Really like the background and colours.
+- [Nienke](https://nienkedekker.com/) - Like the background and colours.
 - [Justin Windle](https://soulwire.co.uk/)
 - [Yoshua Wuyts](https://www.yoshuawuyts.com/) - Really clean dark design.
 - [xxiivv](http://xxiivv.com/)
