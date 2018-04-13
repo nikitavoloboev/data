@@ -34,7 +34,7 @@ Go promotes composition over inheritance.
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [Avoiding complexity in Go](https://bradgignac.com/2014/09/24/avoiding-complexity-with-go.html)
 - [Effective Go](https://golang.org/doc/effective_go.html)
-- [Go internals](Ghttps://github.com/teh-cmc/go-internals)
+- [Go internals](https://github.com/teh-cmc/go-internals#readme)
 - [Gopher reading list](https://github.com/enocom/gopher-reading-list#readme)
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Performance without the event loop (2015)](https://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
