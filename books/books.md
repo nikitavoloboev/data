@@ -46,6 +46,16 @@ Below are books I have read or started reading. The books with links attached wi
 - [University physics with modern physics](university-physics-with-modern-physics.md)
 - The Yellow Wallpaper
 
+## Interesting authors
+- Douglas Adams
+- Ted Chiang
+- Alan Watts
+- Jorge Luis Borges
+- Nikolay Nekrasov
+- HP Lovecraft
+- Aleksandr Solzhenitisyn
+- David Sedaris
+
 # Recommendations
 - [Side Project books](https://books.makesideproject.com/)
 - [Derek Sivers's books read](https://sivers.org/book)

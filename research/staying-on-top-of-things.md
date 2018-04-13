@@ -9,7 +9,7 @@ I use [Focus](https://heyfocus.com) macOS app to completely block many websites 
 I try to stay in touch using these few things:
 
 ### RSS with [Reeder](../macOS/apps/reeder.md)
-I follow [blogs I really like](https://github.com/learn-anything/blogs#readme) and read them through them with [Reeder](../macOS/apps/reeder.md) which I occasionally check to see what's new.
+I follow [blogs I really like](blogs.md) and read them through them with [Reeder](../macOS/apps/reeder.md) which I occasionally check to see what's new.
 
 ### [Hacker News](https://hckrnews.com/) and [Lobsters](https://lobste.rs/)
 They are my two favourite news aggregators on the web. I really like lobsters for its smaller community and quite often better links and discussions.
