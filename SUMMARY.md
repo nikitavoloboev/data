@@ -148,6 +148,7 @@
 - [Finding work](finding-work/finding-work.md)
 	- [Interviews](finding-work/interviews.md)
 	- [CV](finding-work/cv.md)
+	- [Hiring](finding-work/hiring.md)
 - [Consciousness](consciousness/consciousness.md)
 	- [Ego](consciousness/ego.md)
 - [Drugs](drugs/drugs.md)

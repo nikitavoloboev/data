@@ -1,5 +1,5 @@
 # Interviews
-Don't have a lot of experience with interviews sadly. But I hope to change that very soon.
+Don't have a lot of experience with interviews sadly. But I hope to change that soon.
 
 ## Links
 - [How I landed offers from Microsoft, Amazon, and Twitter without an Ivy League degree](https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8)
