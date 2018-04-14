@@ -15,3 +15,4 @@ Whilst I don't use NixOS as my primary OS. I am trying to use its [nix package m
 - [PhD thesis on nixOS](https://nixos.org/~eelco/pubs/phd-thesis.pdf)
 - [Search NixOS options](https://nixos.org/nixos/options.html#)
 - [Notes on nixOS package manager](https://yoshuawuyts.gitbooks.io/knowledge/content/bin/nix.html)
+- [Why nixOS?](https://www.reddit.com/r/NixOS/comments/8bxdyu/why_nixos/)
