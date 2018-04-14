@@ -113,6 +113,7 @@
 	- [Clojure](programming-languages/clojure/clojure.md)
 	- [Lisp](programming-languages/lisp.md)
 	- [C](programming-languages/c/c.md)
+	- [Lua](programming-languages/lua.md)
 	- [C++](programming-languages/cpp/cpp.md)
 	- [Rust](programming-languages/rust/rust.md)
 		- [Rust libraries](programming-languages/rust/rust-libraries.md)
