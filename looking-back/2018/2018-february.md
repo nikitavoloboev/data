@@ -1,6 +1,6 @@
 # 2018 February
 ## Summary
-This month went by fast. 'Started' working on a side project that I am quite excited about. Hope to learn more more things and hopefully apply the things I've learned in action to do something I really want to exist from scratch.
+This month went by fast. 'Started' working on a side project that I am quite excited about. Hope to learn more more things and hopefully apply the things I've learned in action to make something I really want to exist from scratch.
 
 Aside from that I refined my workflow, as always and am still looking to do some kind of meaningful work. I hope the next months will go better. Another thing to note is that I hope to make the upcoming months _Changes_ to be a bit more lively with updates. Hopefully an update each day of something I've done or made. I like to think of this as just the begginning of this.
 

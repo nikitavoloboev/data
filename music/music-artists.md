@@ -42,6 +42,7 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [baaskaT](https://soundcloud.com/baaskat-beats) - [Bittersweet](https://www.youtube.com/watch?v=oHiNB9NtgXA)
 - [il:lo](https://soundcloud.com/il-lomusic) - [Ronda](https://www.youtube.com/watch?v=U48Kl1Cc1MY) | [Vär (Rework Bonus)](https://www.youtube.com/watch?v=1csy4XEtbUc)
 - [Almunia](https://soundcloud.com/leocekko) - [New Moon](https://www.youtube.com/watch?v=Vn4qm-xVCto) | [Pulsar](https://www.youtube.com/watch?v=A6S8J8ZyT8w)
+- [Adam Young](https://soundcloud.com/adamyoungmusic) - [Voyager 1](https://www.ayoungscores.com/scores/voyager-1/)
 - [tsaik](https://soundcloud.com/tsaik)
 - [Aso](https://soundcloud.com/aricogle) - [Seasons](https://www.youtube.com/watch?v=Xo3ez6LThQ4)
 - [Caribou](https://soundcloud.com/caribouband)

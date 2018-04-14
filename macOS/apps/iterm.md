@@ -14,13 +14,13 @@ My always open tabs are:
 2. `now` - This tab is where the majority of my work is done. If I am working on any kind of project, I usually work on it through this tab.
 3. `clones` - Is used to run various projects I have saved in [~/dev/clones](../../unix/my-file-system.md).
 4. `test` - Is used to quickly test out things in varius languages.
-5. `kar` - Contains my [Karabiner configuration file](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/private.xml) is always open. I have assigned `v + :` to always switch to this tab from no matter what app I am on my system.
+5. `kar` - Contains my [Karabiner configuration file](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/private.xml) I edit. I have assigned `v + :` to always switch to this tab from no matter what app I am on my system.
 6. `vim` - Contains my [vim config file](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim).
 
 All other tabs are added on top of this `default` configuration. Usually it looks something like this:
 ![](https://i.imgur.com/cMY26z2.png)
 
-Where `la` and `al` are projects I am working on.
+Where `la` is some project I am working on.
 
 I then use [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between many tty sessions:
 ![](https://i.imgur.com/KMvqvzF.png)

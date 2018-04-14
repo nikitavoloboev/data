@@ -22,7 +22,7 @@ I use two [Alfred file filters](https://github.com/nikitavoloboev/small-workflow
 ## Writing an article
 I start writing all my artciles by jotting down notes as dashed points below the title. Here is how that looks:
 
-![](https://i.imgur.com/mx6jsyL.png)
+![](http://i.imgur.com/Aa17RCQ.png)
 
 I then start writing the article and try to touch on one or all of these points as I write the article. I add/remove points as I write the article.
 
