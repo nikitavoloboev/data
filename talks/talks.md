@@ -13,3 +13,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 
 ## Links
 - [How to prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
+- [Ask HN: What is your favourite tech talk? (2018)](https://news.ycombinator.com/item?id=16838460)

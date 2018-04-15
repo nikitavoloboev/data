@@ -87,6 +87,7 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Angus & Julia Stone](https://soundcloud.com/angusandjuliastone)
 - [Blockhead](https://soundcloud.com/blockheadnyc) - [Farewell Spaceman](https://www.youtube.com/watch?v=Omq9_JTGeiw)
 - [Sinitus Tempo](https://soundcloud.com/sinitustempo) - [Many Fellings](https://www.youtube.com/watch?v=UgojU9PIjq0)
+- [Ott](https://soundcloud.com/ottsonic) - [The Bicycle Of The Sky](https://www.youtube.com/watch?v=sGJKsWSsPr0)
 
 ## Interesting artists
 - [Emapea](https://soundcloud.com/emapea)
@@ -134,4 +135,3 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Saiko](https://soundcloud.com/saikotropic) - [In Space](https://www.youtube.com/watch?v=6Y1naR7xDY8)
 - [Enja](https://soundcloud.com/ennja) - [Way](https://www.youtube.com/watch?v=HeBEwUkMQUo) | [Let Go](https://www.youtube.com/watch?v=s_Vg5NN7LBo)
 - [Opia](https://soundcloud.com/opia-official) - [YDU (Aftrparty Remix)](https://soundcloud.com/aftrpartymusic/opia-ydu-aftrparty-remix)
-- [Ott](https://soundcloud.com/ottsonic) - [The Bicycle Of The Sky](https://www.youtube.com/watch?v=sGJKsWSsPr0)

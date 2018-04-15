@@ -1,4 +1,5 @@
 # Type Theory
+
 ## Links
 - [Homotopy Type Theory lecture materials](https://github.com/RobertHarper/hott-materials)
 - [A textbook on informal homotopy type theory](https://github.com/HoTT/book)

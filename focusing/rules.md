@@ -60,6 +60,7 @@ Some simple rules to follow for myself doing things.
 
 ## Health
 - Exercise daily.
+- Don't purposefully hurt myself in any way.
 
 ## Nutrition
 - No processed sugar. No food with extra sugar in it.
