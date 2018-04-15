@@ -5,11 +5,11 @@ I once made TEDx talk on mindfulness. I only have a transcript of it [here](http
 
 I mark talks that I found interesting [here](https://github.com/learn-anything/talks#readme).
 
+## Favourite
+- [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0) - [Paper version](http://www.cs.virginia.edu/%7Eevans/cs655/readings/steele.pdf) of talk.
+
 ## Notes
-- Giving a talk, it sometimes helps to follow this order:
-	1. Why?
-	2. How?
-	3. What?
+- Giving a talk, it is often best to start with a `Why?`
 
 ## Links
 - [How to prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
