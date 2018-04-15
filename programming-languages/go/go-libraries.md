@@ -4,6 +4,7 @@
 - [cli](https://github.com/urfave/cli)
 - [gjson](https://github.com/tidwall/gjson)
 - [ishell](https://github.com/abiosoft/ishell)
+- [progressbar](https://github.com/schollz/progressbar) - Really basic thread-safe progressbar for Golang applications.
 
 ## Web
  - [Buffalo](https://gobuffalo.io/docs/overview)
