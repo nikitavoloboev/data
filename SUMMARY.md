@@ -129,7 +129,7 @@
 	- [VS Code](text-editors/vs-code/vs-code.md)
 		- [VS Code extensions](text-editors/vs-code/vs-code-extensions.md)
 	- [Vim](text-editors/vim/vim.md)
-		- [Vim commands](text-editors/vim/vim-commands.md)
+		- [Vim plugins](text-editors/vim/vim-plugins.md)
 	- [Sublime text](text-editors/sublime-text.md)
 	- [Emacs](text-editors/emacs.md)
 	- [IntelliJ](text-editors/intellij.md)
