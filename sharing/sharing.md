@@ -28,6 +28,9 @@ My time is limited and I can't often do everything I wish. But I have many ideas
 
 I have [many more Trello boards](my-trello.md) I use and share.
 
+## Snippets on [GitHub Gists](my-gists.md)
+I share snippets I made with various languages for quick reference.
+
 ## Curated Images on [Imgur](https://nikivi.imgur.com)
 I curate many [Imgur albums](https://nikivi.imgur.com) of various things.
 
@@ -38,8 +41,6 @@ I share [everything I know](everything-I-know.md) in form of this wiki here. Can
 I also share a multireddit of my [favourite subreddits](https://reddit.com/user/nikivi/m/top/).
 
 ## Sharing things on [Product Hunt](https://www.producthunt.com/@nikitavoloboev), [Hacker News](https://news.ycombinator.com/user?id=nikivi), [Lobsters](https://lobste.rs/u/nikivi) and [Indie Hackers](https://www.indiehackers.com/user/nikivi)
-
-## Code snippets on [GitHub Gists](my-gists.md)
 
 ## [My workflow](my-workflow.md)
 I try to make my own workflow in doing things be as _transparent_ as possible.
