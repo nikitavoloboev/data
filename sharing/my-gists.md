@@ -1,23 +1,30 @@
 # My [GitHub Gists](https://gist.github.com/search?utf8=✓&q=user%3Anikitavoloboev&ref=searchresults)
 
+## Code
 - [Go](https://gist.github.com/search?l=Go&q=user%3Anikitavoloboev)
-- [Applescript](https://gist.github.com/search?l=AppleScript&q=user%3Anikitavoloboev)
-- [Vim](https://gist.github.com/search?l=Vim+script&q=user%3Anikitavoloboev)
-- [Git](https://gist.github.com/search?l=Shell&q=user%3Anikitavoloboev+git)
+- [Python](https://gist.github.com/search?l=Python&q=user%3Anikitavoloboev)
 - [Javascript](https://gist.github.com/search?l=JavaScript&q=user%3Anikitavoloboev+)
 - [JXA](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+jxa&ref=searchresults)
-- [Algorithms](https://gist.github.com/search?l=Markdown&q=user%3Anikitavoloboev+algo)
-- [Karabiner](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+karabiner&ref=searchresults)
-- [Configs](https://gist.github.com/search?l=Text&q=user%3Anikitavoloboev+config)
-- [Zsh](https://gist.github.com/search?l=Shell&q=user%3Anikitavoloboev+zsh)
-- [Regex](https://gist.github.com/search?l=Shell&q=user%3Anikitavoloboev+regex)
+- [Applescript](https://gist.github.com/search?l=AppleScript&q=user%3Anikitavoloboev)
 - [Bash](https://gist.github.com/search?l=Shell&q=user%3Anikitavoloboev+bash)
+- [HTML](https://gist.github.com/search?l=HTML&q=user%3Anikitavoloboev)
+
+## Tools
+- [Vim](https://gist.github.com/search?l=Vim+script&q=user%3Anikitavoloboev)
+- [Git](https://gist.github.com/search?l=Shell&q=user%3Anikitavoloboev+git)
+- [Karabiner](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+karabiner&ref=searchresults)
+- [Zsh](https://gist.github.com/search?l=Shell&q=user%3Anikitavoloboev+zsh)
 - [Sublime](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+sublime&ref=searchresults)
 - [Hammerspoon](https://gist.github.com/search?l=Lua&q=user%3Anikitavoloboev+hammerspoon)
-- [Definitions](https://gist.github.com/search?l=Markdown&q=user%3Anikitavoloboev)
-- [Python](https://gist.github.com/search?l=Python&q=user%3Anikitavoloboev)
 - [Docker](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+docker&ref=searchresults)
-- [HTML](https://gist.github.com/search?l=HTML&q=user%3Anikitavoloboev)
-- [ASCII](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+ascii&ref=searchresults)
 - [Alfred](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+alfred&ref=searchresults)
+
+# Personal
+- [Configs](https://gist.github.com/search?l=Text&q=user%3Anikitavoloboev+config)
+
+## Other
+- [Regex](https://gist.github.com/search?l=Shell&q=user%3Anikitavoloboev+regex)
+- [Algorithms](https://gist.github.com/search?l=Markdown&q=user%3Anikitavoloboev+algo)
 - [Bookmarklets](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+bookmarklet&ref=searchresults)
+- [Definitions](https://gist.github.com/search?l=Markdown&q=user%3Anikitavoloboev)
+- [ASCII](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+ascii&ref=searchresults)
