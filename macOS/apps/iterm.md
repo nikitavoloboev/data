@@ -7,7 +7,7 @@ I also made my own [Ayu theme](https://github.com/nikitavoloboev/my-mac-os/tree/
 [Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
 
 ## My workflow
-I always have 5 tabs (sessions) open in iTerm. I open other tabs as the need arises and I start working on other projects.
+I always have 5 tabs (sessions) always open in iTerm. I open other tabs as the need arises and I start working on other projects.
 
 My always open tabs are:
 1. `::` - This tab never has a program open inside. It is my `runner` terminal. I have it assigned to open with `f + j` and I use it to run commands that are not project related. It's my `general` kind of session.

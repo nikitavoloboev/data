@@ -299,6 +299,7 @@
 	- [tmux](cli/tmux.md)
 - [Humans](humans/humans.md)
 	- [Alan Watts](humans/alan-watts.md)
+- [Philanthropy](philanthropy/philanthropy.md)
 - [Quotes](quotes/quotes.md)
 - [Podcasts](podcasts/podcasts.md)
 - [Documentaries](documentaries/documentaries.md)
