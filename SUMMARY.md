@@ -216,6 +216,7 @@
 		- [Drinks](health/nutrition/drinks.md)
 		- [Fasting](health/nutrition/fasting.md)
 		- [Supplements](health/nutrition/supplements.md)
+	- [Aging](health/aging.md)
 	- [Skin care](health/skin-care.md)
 	- [Depression](health/depression.md)
 - [Fitness](fitness/fitness.md)
