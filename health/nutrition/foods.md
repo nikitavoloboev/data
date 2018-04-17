@@ -18,6 +18,8 @@ List of foods that are healthy.
 - Peaches
 - Dark chocolate
 - Salmon
+- Garlic
+- Feta cheese
 
 ## Don't eat
 - Bread. Grains.
