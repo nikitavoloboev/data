@@ -3,6 +3,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 
 ## Interesting generators
 - [Gatsby](https://github.com/gatsbyjs/gatsby) - Using React.
+- [VuePress](https://github.com/vuejs/vuepress) - Minimalistic docs generator with Vue component based layout system.
 
 ## Links
 - [The Intrinsic Static Site](https://brandur.org/aws-intrinsic-static)
