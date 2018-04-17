@@ -10,11 +10,11 @@ I also made my own [Ayu theme](https://github.com/nikitavoloboev/my-mac-os/tree/
 I always have 5 tabs (sessions) always open in iTerm. I open other tabs as the need arises and I start working on other projects.
 
 My always open tabs are:
-1. `::` - This tab never has a program open inside. It is my `runner` terminal. I have it assigned to open with `f + j` and I use it to run commands that are not project related. It's my `general` kind of session.
-2. `now` - This tab is where the majority of my work is done. If I am working on any kind of project, I usually work on it through this tab.
-3. `clones` - Is used to run various projects I have saved in [~/dev/clones](../../unix/my-file-system.md).
-4. `kar` - Contains my [Karabiner configuration file](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/private.xml) I edit. I have assigned `v + :` to always switch to this tab from no matter what app I am on my system.
-5. `vim` - Contains my [vim config file](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim).
+1. `::` - This tab never has a program open inside. It is my `runner` terminal. I have it assigned to open with `f+j` and I use it to run commands that are not project related. It's my `general` kind of session.
+2. `now` - This tab is where the majority of my work is done. If I am working on any kind of project, I usually work on it through this tab. Bound to `f+.`.
+3. `clones` - Is used to work through various projects I cloned in [~/dev/clones](../../unix/my-file-system.md). Bound to `f+/`.
+4. `kar` - Contains my [Karabiner configuration file](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/private.xml) I edit. Bound to `v+:`.
+5. `vim` - Contains my [vim config file](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). Bound to `v+a`.
 
 All other tabs are added on top of this `default` configuration. Usually it looks something like this:
 ![](https://i.imgur.com/cMY26z2.png)
