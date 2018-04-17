@@ -29,7 +29,7 @@ My time is limited and I can't often do everything I wish. But I have many ideas
 I have [many more Trello boards](my-trello.md) I use and share.
 
 ## Snippets on [GitHub Gists](my-gists.md)
-I share snippets I made with various languages for quick reference.
+I share snippets of code I made with various languages for quick reference.
 
 ## Curated Images on [Imgur](https://nikivi.imgur.com)
 I curate many [Imgur albums](https://nikivi.imgur.com) of various things.
