@@ -1,27 +1,43 @@
 # Foods
-List of foods that are healthy.
+I exclude all foods that are not healthy to me and experiment with recipes from the many foods that are healthy. I follow a mostly whole foods pesceterian diet.
 
 ## Healthy
-- Bananas
-- Beans
-- Eggs
-- Nuts (walnuts, pistachio, almonds)
-- Griffonia Seeds - Has a lot of 5-HTP.
-- Ginger
-- Avocados
-- Lentils
-- Blueberries
+### Vegetables
 - Broccoli
+- Kale
+- Carrots
+
+### Fruits
+- Avocados
+- Bananas
+- Blueberries
+- Peaches
+
+### Nuts
+- Walnuts
+- Pistachios
+- Almonds
+- Cashews
+
+### Legumes
+- Beans
+- Griffonia Seeds - Has a lot of 5-HTP.
+- Lentils
 - Chickpeas
 - Pinto beans
-- Kale
-- Peaches
-- Dark chocolate
+
+### Fish
 - Salmon
+
+### Other
+- Eggs
+- Dark chocolate
+- Ginger
 - Garlic
 - Feta cheese
 
 ## Don't eat
+- Sugar
 - Bread. Grains.
 
 ## Links

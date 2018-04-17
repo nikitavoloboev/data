@@ -121,6 +121,7 @@ Some simple rules to follow for myself doing things.
 - If I move a file anywhere in the wiki, make sure to search for the path to the file in the entire wiki and change the references to the previous file with new one.
 - Don't abbreviate folders and files. Unless it is really clear what abbreviation means.
 - Add links to headings that link to the description of what my wiki article is actually about.
+- Don't say `I need to`, but say `I will ..` or `I try to ..`. Be proactive. Intention counts.
 
 ## Git
 - Version control any document. Initialise all projects with Git first.
@@ -344,8 +345,8 @@ Some simple rules to follow for myself doing things.
 ## Paprika recipes
 - Add any new recipe I discover or make to Paprika.
 
-## Videos
-- Watch talks and tutorials at 1.25+ speed. Unless it hurts comprehension than watch it at slower speeds.
+## Watching talks
+- Watch talks and tutorials at 1.5+ speed. Unless it hurts comprehension than watch it at slower speeds.
 
 ## Information
 - Don't save unnecessary information. This mostly concerns tracking data and the like. More data is not always better. Quality and purposeful data is.
