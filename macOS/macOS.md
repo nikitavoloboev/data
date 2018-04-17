@@ -13,8 +13,4 @@ In any way, I like to think my journey with macOS, operating systems, programmin
 
 ## Links
 - [macOS developer tutorials](https://www.raywenderlich.com/category/macos)
-
-## Snippets
-- [Turn internal keyboard on or off](https://gist.github.com/ff9fd158b6831dfcacf33f54bc91945c)
-- [Reset launchpad](https://gist.github.com/21c10b91e0f4b4093fdfe6840aea1079)
-- [Remove dock animation](https://gist.github.com/f36012550c4fed06bd2f87eb76df15ec)
+- [A Pro’s Guide to the Best Secret Mac Features](https://matthewpalmer.net/blog/2018/04/14/ultimate-pro-guide-best-secret-mac-features/index.html)

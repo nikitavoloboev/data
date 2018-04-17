@@ -16,26 +16,20 @@ Since then however, I adopted a more open approach to documenting my memories an
 I am very open to the public sharing both the things I know and like and also the different little things that happen to me, so I use [IFTTT](https://ifttt.com/day_one) to log and archive my public activity from Instagram and Twitter into Day one.
 
 ## My Journals
-![](https://i.imgur.com/j62nOQH.png)
+![](https://i.imgur.com/ZPqcKme.png)
 
 ### Life
 Writing about my life in a more open and free way. If something memorable happened to my life or I've been through something or want to say something, I write it there.
 
-I also try and make a photograph of me every day. Often doing it a new and different places and saying how I feel about the day. I want to do a collage of these pictures in the future. Sometimes I put more than one photo there. The idea is that I can replicate what happened to me from that day just from the photos.
+I also try and make a photograph of me every day. Often doing it a new and different places. I want to do a collage of these pictures in the future. Often I put more than one photo there. The idea is that I can replicate what happened to me from that day just from the photos.
 
 ### Travel
-Day One has a pretty awesome `activity stream` feature where it tracks the places you have been and visited to across your day and you can `check in` into those places and add some photos or comments to go alongside these check ins. I use this a lot and I especially love looking back at all the places I've been to and things I've done over time later by exploring Day One map.
-
-I also love tagging entries by country and geo tagging every entry. And I use tags like `new city` or `new country` or `new ..` often.
+I document my travel experiences there. For travel checkins I use [Swarm](https://www.swarmapp.com). And I make lists of places I liked on Foursquare.
 
 ### Dreams
-My dream journal. I want to lucid dream and to do that you need to remember your dreams. You also need to get into the habit of making
-reality checks. I write about my dreams briefly in this journal and note down common themes about them, if any.
+My dream journal. I want to lucid dream and to do that you need to remember your dreams. You also need to get into the habit of making reality checks. I write about my dreams briefly in this journal and note down common themes about them, if any.
 
-### Feelings
-Contains very short entries. If I am feeling sad or happy about something, I write a small entry and say what I feel and put it there. It helps me be more conscious and honest with myself, my thoughts and feelings.
-
-### Progress
+### Fitness
 I track my physical progress there. As I try to be more conscious about my physical health and always trying to become a stronger version of myself every day. I post my progress pictures and my own commentary and thoughts there.
 
 ### Family
@@ -48,3 +42,6 @@ I then at the end of the week quickly move entries from `Autolog` to appropriate
 
 ### Shares
 At the end of the week, I transfer most tweets from Autolog I want to keep to this journal. Others I simply delete.
+
+## Looking back
+Besides Day One, I lead a more open diary and monthly overviews in [Looking Back](../../looking-back/looking-back.md).

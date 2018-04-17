@@ -135,3 +135,4 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Saiko](https://soundcloud.com/saikotropic) - [In Space](https://www.youtube.com/watch?v=6Y1naR7xDY8)
 - [Enja](https://soundcloud.com/ennja) - [Way](https://www.youtube.com/watch?v=HeBEwUkMQUo) | [Let Go](https://www.youtube.com/watch?v=s_Vg5NN7LBo)
 - [Opia](https://soundcloud.com/opia-official) - [YDU (Aftrparty Remix)](https://soundcloud.com/aftrpartymusic/opia-ydu-aftrparty-remix)
+- [MorMor](https://soundcloud.com/mormor_music) - [Heaven's Only Wishful](https://www.youtube.com/watch?v=9PvIIn6cc1M)
