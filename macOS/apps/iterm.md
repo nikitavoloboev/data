@@ -21,7 +21,7 @@ All other tabs are added on top of this `default` configuration. Usually it look
 
 Where `la` is some project I am working on.
 
-I then use [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between many tty sessions:
+I then use [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions:
 ![](https://i.imgur.com/WSRgeum.png)
 
 ## Links

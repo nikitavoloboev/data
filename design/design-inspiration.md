@@ -9,8 +9,9 @@ Here are few more things I liked, design wise.
 - [TANMU LABS](https://tanmulabs.com/) - Pretty awesome colour palette.
 - [The Disconnect](https://thedisconnect.co/)
 - [John Otander](http://johnotander.com/) - Simple.
+- [Stripe](https://stripe.com) - Incredible design. I really love their docs format too.
 
-## Design
+## Designers
 - [Marc Edwards](https://dribbble.com/bjango) - Developer of iStats Menu for mac.
 - [Malik Thomas](http://malikthomas.co.uk/)
 - [Alexander Käßner](http://www.alexkaessner.de/) - Amazing logos.
