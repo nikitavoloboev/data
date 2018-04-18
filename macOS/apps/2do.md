@@ -24,7 +24,7 @@ I create many smart lists of most common tags I want to jump to. I use `J` key a
 
 I share the same philosophy of `Always` and `Temporary` projects as I have in my [Focus Trello board](../../focusing/focusing.md).
 
-Given my growing collection of tasks I am yet to do. Some 3,000 pending tasks. I decided to share [some tasks I keep in my manager publically](../../other/2do-tasks.md).
+Given my growing collection of tasks I am yet to do. Some 3,000 pending tasks. I decided to share [some tasks I keep in 2Do publically](../../other/2do-tasks.md).
 
 ## URL Scheme
 [2Do URL schemes documentation](https://www.2doapp.com/kb/article/url-schemes.html) has everything. I use these URL schemes currently:
