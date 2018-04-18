@@ -3,7 +3,7 @@ This is my personal wiki where I share everything I know about this world in for
 
 If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals in a lot of detail.
 
-## Using the wiki
+## Using the wiki well
 In the left corner you can make searches for what content I have already indexed or you can simply explore the tree view to the left.
 
 You can access any entry from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.

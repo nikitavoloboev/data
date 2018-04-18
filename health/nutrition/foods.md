@@ -1,35 +1,34 @@
 # Foods
 I exclude all foods that are not healthy to me and experiment with recipes from the many foods that are healthy. I follow a mostly whole foods pesceterian diet.
 
-## Healthy
-### Vegetables
+## Vegetables
 - Broccoli
 - Kale
 - Carrots
 
-### Fruits
+## Fruits
 - Avocados
 - Bananas
 - Blueberries
 - Peaches
 
-### Nuts
+## Nuts
 - Walnuts
 - Pistachios
 - Almonds
 - Cashews
 
-### Legumes
+## Legumes
 - Beans
-- Griffonia Seeds - Has a lot of 5-HTP.
+- Griffonia Seeds - Lots of 5-HTP.
 - Lentils
 - Chickpeas
 - Pinto beans
 
-### Fish
+## Fish
 - Salmon
 
-### Spices
+## Spices
 - Parsley
 - Oregano
 - Rosemary
@@ -39,8 +38,9 @@ I exclude all foods that are not healthy to me and experiment with recipes from 
 - Chilly
 - Salt
 - Pepper
+- Sage
 
-### Other
+## Other
 - Eggs
 - Dark chocolate
 - Mushrooms
