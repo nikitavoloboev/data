@@ -29,9 +29,21 @@ I exclude all foods that are not healthy to me and experiment with recipes from 
 ### Fish
 - Salmon
 
+### Spices
+- Parsley
+- Oregano
+- Rosemary
+- Turmeric
+- Paprika
+- Curry
+- Chilly
+- Salt
+- Pepper
+
 ### Other
 - Eggs
 - Dark chocolate
+- Mushrooms
 - Ginger
 - Garlic
 - Feta cheese
