@@ -6,7 +6,7 @@ I love to solve problems I have with code. [Here](my-github.md) are all the repo
 I share all the things I am up to right now there. And I curate a [few Twitter lists](https://twitter.com/nikitavoloboev/lists) where I get most of my news from.
 
 ## Blog on [Medium](https://medium.com/@NikitaVoloboev)
-I write about various things, mostly programming and macOS tips. [Here](my-articles.md) are all the articles I wrote.
+I write about various things, mostly programming and macOS. [Here](my-articles.md) are all the articles I wrote.
 
 ## Experiences on [Instagram](https://www.instagram.com/nikitavoloboev/)
 I share photos and stories from my life there. I also curate a [small page of beautiful pictures](https://instagram.com/prettiways) and various [Unsplash collections](https://unsplash.com/@nikitavoloboev/collections).

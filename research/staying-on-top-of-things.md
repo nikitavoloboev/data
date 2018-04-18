@@ -35,8 +35,8 @@ I follow few publications and writers on Medium. I then view new articles from m
 I spend a lot of my time on [Discord](https://discord.gg/KKYdWjt) server to discuss Learn Anything development. As well as [macOS/iOS automation Telegram group](https://t.me/macOSautomation).
 
 Aside from that I like visiting and at times contributing to these forums:
-- [Alfred forum](https://www.alfredforum.com)
-- [Keyboard maestro forum](https://forum.keyboardmaestro.com/latest)
+- [Alfred Forum](https://www.alfredforum.com)
+- [Keyboard Maestro Forum](https://forum.keyboardmaestro.com/latest)
 - [Indie Hackers](https://www.indiehackers.com/)
 
 As well as quite a few other Slack communities like:
