@@ -88,6 +88,7 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Blockhead](https://soundcloud.com/blockheadnyc) - [Farewell Spaceman](https://www.youtube.com/watch?v=Omq9_JTGeiw)
 - [Sinitus Tempo](https://soundcloud.com/sinitustempo) - [Many Fellings](https://www.youtube.com/watch?v=UgojU9PIjq0)
 - [Ott](https://soundcloud.com/ottsonic) - [The Bicycle Of The Sky](https://www.youtube.com/watch?v=sGJKsWSsPr0)
+- [Mount Kimbie](https://soundcloud.com/mountkimbie) - [Before I Move Off](https://www.youtube.com/watch?v=-x1TFxao0oI)
 
 ## Interesting artists
 - [Emapea](https://soundcloud.com/emapea)
