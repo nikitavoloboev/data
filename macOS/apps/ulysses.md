@@ -15,7 +15,7 @@ I describe my thoughts and approach to writing [here](../../writing/writing.md).
 ## Content structure
 I group my writing into appropriate categories. Here are how my categories look like. I blurred some that are personal to me.
 
-![](https://i.imgur.com/rPqhsJf.png)
+![](https://i.imgur.com/7QS5OzA.png)
 
 I use two [Alfred file filters](https://github.com/nikitavoloboev/small-workflows/tree/master/search-files) to search through both Ulysses sheets and Ulysses groups.
 

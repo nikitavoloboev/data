@@ -3,7 +3,7 @@ I want to find/build a good web front end that can import recipes I have created
 
 ## Favourite
 ### Feta cheede & tomatoes salad
-I add chopped tomatoes and feta cheese together. I then add garlic, some salt and lemon and mix.
+I add chopped tomatoes and feta cheese together. I then add garlic, some salt with lemon and mix.
 
 Really simple to make, has some calories due to feta cheese and tastes amazing. I also add it as a side dish often to other meals like salmon.
 
