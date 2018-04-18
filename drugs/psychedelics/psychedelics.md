@@ -7,7 +7,7 @@ Sadly, there is a rather negative stigma attached to most illegal drugs. It's sa
 
 On the brighter side, I think things are changing and are getting better in this regard. With advent of such easy access to knowledge, it is not so hard to do one's own research and come to one's own conclusions instead of accepting what other people think or say.
 
-But as will all things, _moderation is key_. Or as in the case with psychedelics, this Alan Watts quote:
+But as will all things, _moderation is key_. Or as in the case of psychedelics, this Alan Watts quote:
 
 > _"When you get the message, hang up the phone"_
 
