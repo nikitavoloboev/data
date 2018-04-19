@@ -6,4 +6,5 @@ It is quite interesting really how languages like Python allow us to play with _
 As for me, I don't really know any programming language like I know English and I don't think you can really compare the two. Programming is the language of logic. And I just don't have such vast range of experience to call myself a programmer yet.
 
 ## Links
+- [Interesting programming languages](https://github.com/learn-anything/programming-languages#readme)
 - [Tour de Babel](https://sites.google.com/site/steveyegge2/tour-de-babel) - Funny de tour of programming languages.
