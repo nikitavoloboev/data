@@ -137,3 +137,4 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Enja](https://soundcloud.com/ennja) - [Way](https://www.youtube.com/watch?v=HeBEwUkMQUo) | [Let Go](https://www.youtube.com/watch?v=s_Vg5NN7LBo)
 - [Opia](https://soundcloud.com/opia-official) - [YDU (Aftrparty Remix)](https://soundcloud.com/aftrpartymusic/opia-ydu-aftrparty-remix)
 - [MorMor](https://soundcloud.com/mormor_music) - [Heaven's Only Wishful](https://www.youtube.com/watch?v=9PvIIn6cc1M)
+- [Torgeir Waldemar](http://www.torgeirwaldemar.com) - [Island Bliss](https://www.youtube.com/watch?v=MfBrItArHts)

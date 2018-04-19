@@ -11,6 +11,8 @@ I exclude all foods that are not healthy to me and experiment with [recipes](coo
 - Bananas
 - Blueberries
 - Peaches
+- Lemons
+- Grapes
 
 ## Nuts
 - Walnuts
@@ -27,6 +29,7 @@ I exclude all foods that are not healthy to me and experiment with [recipes](coo
 
 ## Fish
 - Salmon
+- Harring
 
 ## Spices
 - Parsley
@@ -47,6 +50,9 @@ I exclude all foods that are not healthy to me and experiment with [recipes](coo
 - Ginger
 - Garlic
 - Feta cheese
+- Mozzarella
+- Tofu
+- Olive oil
 
 ## Don't eat
 - Sugar
