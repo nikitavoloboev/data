@@ -227,7 +227,8 @@ Some simple rules to follow for myself doing things.
 - Only contain things I really need to get done in _Today_.
 - All 2Do tasks need to be actionable.
 - Work on tasks based on priority (starred completed first).
-- Don't include context in the task title since I can do add it as a tag instead.
+- Don't include context in the task title. Add it as a tag instead.
+- Add time estimates to tasks that might take more than 10m, where appropriate.
 
 ## Ideas
 - If the idea is not private. Share it in [Trello](https://trello.com/b/alB1ryRP). Add relevant description and links to describe the idea clearly.
