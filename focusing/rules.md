@@ -45,6 +45,7 @@ Some simple rules to follow for myself doing things.
 ## Learn
 - Always learn new things. Investigate. Why? How?
 - Ask questions. Don't be afraid of not knowing something and [ask for help](../research/asking-questions.md).
+- There are no dumb questions. Do your own research first though.
 - Ask myself what is it that I am trying to solve or understand.
 - Go deep. Specialise. Be great at some thing and then branch out.
 - Document everything. Don't repeat things. Link instead.
@@ -273,7 +274,7 @@ Some simple rules to follow for myself doing things.
 - Add products I like to an appropriate collection.
 
 ## Relationships
-- Meet new people.
+- Meet new people. Go to seminars, talks, conferences.. even if you won't understand much of it. Big chance you'll find something interesting or meet someone.
 
 ## Vim
 - Comment over all mappings in vimrc itself.
