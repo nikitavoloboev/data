@@ -1,5 +1,5 @@
 # Recent
-Some web queries (bookmarks) I like to use to keep on top of some things. This page is parsed to be read from [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
+Some web queries I use to keep on top of some things. This page is parsed to be read from [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 
 ## GitHub (g:)
 - [Alfred](https://github.com/search?utf8=%E2%9C%93&amp;q=alfred&amp;type=Repositories&amp;ref=searchresults&amp;o=desc&amp;s=updated)
