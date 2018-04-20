@@ -13,10 +13,10 @@ I started with journalling by writing [Day Evaluations](https://medium.com/@Niki
 
 Since then however, I adopted a more open approach to documenting my memories and life in a way that doesn't stop me from being in the moment and just enjoying things and experiences.
 
-I am very open to the public sharing both the things I know and like and also the different little things that happen to me, so I use [IFTTT](https://ifttt.com/day_one) to log and archive my public activity from Instagram and Twitter into Day one.
+I am very open to the public sharing both the things I know and like and also the different little things that happen to me, so I use [IFTTT](../../tools/ifttt.md) to log and archive my public activity from Instagram and Twitter into Day One.
 
 ## My Journals
-![](https://i.imgur.com/ZPqcKme.png)
+![](https://i.imgur.com/zdFLdEP.png)
 
 ### Life
 Writing about my life in a more open and free way. If something memorable happened to my life or I've been through something or want to say something, I write it there.
@@ -35,13 +35,11 @@ I track my physical progress there. As I try to be more conscious about my physi
 ### Family
 I have a dedicated journal where I put all the memories I have shared with my family.
 
-### Autolog
-I use [IFTTT](../../tools/ifttt.md) to automatically post all my public activity from [Twitter](https://twitter.com/nikitavoloboev) & [Instagram](https://www.instagram.com/nikitavoloboev/) to this journal. Since I do want to lead a more open life, I very often post in the public outlets and share my experiences there so I want to have those experiences in Day One together with my more private memories.
+### Twitter
+I use [IFTTT](../../tools/ifttt.md) to [automatically post all my tweets](https://ifttt.com/applets/56660889d-save-your-tweets-to-day-one) from [Twitter](https://twitter.com/nikitavoloboev) here. Since I do want to lead a more open life, I very often post in the public outlets and share my experiences there so I want to have those experiences in Day One together with my more private memories.
 
-I then at the end of the week quickly move entries from `Autolog` to appropriate journals thus keeping `Autolog` ideally empty at all times. If I don't want to preserve a post and save it, I delete it.
-
-### Shares
-At the end of the week, I transfer most tweets from Autolog I want to keep to this journal. Others I simply delete.
+### Instagram
+Similar to Twitter, [this IFTTT recipe](https://ifttt.com/applets/61918118d-save-your-instagram-photos-to-day-one) will do the same but for my [Instagram](https://www.instagram.com/nikitavoloboev/) photographs.
 
 ## Looking back
 Besides Day One, I lead a more open diary and monthly overviews in [Looking Back](../../looking-back/looking-back.md).

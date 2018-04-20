@@ -12,21 +12,21 @@ The number between brackets shows the year I created the repo in. Repos with a �
 - [My Mind (2017) 🌟](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my notes and bookmarks on the web.
 - [Small Workflows (2017) 🌟](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
 - [Awesome Lists (2017) 🌟](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds.
-- [GitHub users (2018) 💡](https://github.com/nikitavoloboev/alfred-github-users) - Search people you follow on GitHub.
-- [last.fm (2018) 💡](https://github.com/nikitavoloboev/alfred-lastfm) - Communicate with [last.fm](https://www.last.fm/home) website.
+- [GitHub (2018) 💡](https://github.com/nikitavoloboev/alfred-github-users) - Search GitHub.
+- [last.fm (2018) 💡](https://github.com/nikitavoloboev/alfred-lastfmg - Communicate with [last.fm](https://www.last.fm/home) website.
 - [Trello (2018) 💡](https://github.com/nikitavoloboev/alfred-trello) - Communicate with Trello.
 
 ## Personal
 - [Dotfiles (2016) 🌟](https://github.com/nikitavoloboev/dotfiles) - Zsh, Neovim, Karabiner, Hammerspoon, VS Code.
 - [My macOS (2016) 🌟](https://github.com/nikitavoloboev/my-mac-os#readme) - List of applications and various tools that make my macOS experience even more amazing.
-- [My iOS (2016) 🌟](https://github.com/nikitavoloboev/my-ios#readme) - List of applications and tools I use that make my iOS experience even more amazing.
+- [My iOS (2016) 🌟](https://github.com/nikitavoloboev/my-ios#readme) - List of applications and tools that make my iOS experience even more amazing.
 - [AMA (2017) 🌟](https://github.com/nikitavoloboev/ama#readme) - Ask me anything.
 - [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.xyz) - My personal home on the internet.
 - [Knowledge (2017) 🌟](https://github.com/nikitavoloboev/my-knowledge) - Everything I know.
 
 ## Go Libraries
-- [MindNode Parser (2017) 💡](https://github.com/nikitavoloboev/mindnode-parser) - Go library to parse mind maps from MindNode.
 - [Markdown Parser (2017)](https://github.com/nikitavoloboev/markdown-parser) - Go library to parse markdown to grab various things.
+- [MindNode Parser (2017) 💡](https://github.com/nikitavoloboev/mindnode-parser) - Go library to parse mind maps from MindNode.
 
 ## CLI
 - [License Up (2017) 🌟](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
@@ -43,9 +43,6 @@ The number between brackets shows the year I created the repo in. Repos with a �
 - [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions to LeetCode in Python and Go.
 - [Euler (2017)](https://github.com/nikitavoloboev/euler) - Solutions to Project Euler in Python and Go.
 - [Coding practice (2018)](https://github.com/nikitavoloboev/coding-practice) - Solving problems.
-
-## Books
-- [macOS Automation Guide (2017) 💡](https://github.com/nikitavoloboev/macOS-automation-guide) - Online book focused on learning how to automate everything on your mac.
 
 ## Web
 - [Crafting Ideas (2017) 💡](https://github.com/nikitavoloboev/crafting-ideas) - Platform to share and grow your ideas.
