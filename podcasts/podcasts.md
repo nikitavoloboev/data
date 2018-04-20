@@ -14,5 +14,14 @@ I keep a [Trello board](https://trello.com/b/Wtr04eGQ) of podcasts I am listenin
 ## Interesting episodes
 - [James Long - Seeking Deep Knowledge](http://developeronfire.com/podcast/episode-329-james-long-seeking-deep-knowledge)
 
+## Notes
+- A podcast is just people talking. Nothing magical.
+- Can use QuickTime to record.
+- Great opportunity to meet up with others - makes for a more fun show.
+- Since it's a rather new format, there's lots of room for new concepts and new ideas.
+- You don't need expensive recording studio. It's just recording conversations.
+- Basic audio editing is easy to learn. You can use free tools like GarageBand and Audacity.
+- Podcasts are not necessarily live. You can edit out the parts that go off topic.
+
 ## Links
 - [Interesting Podcasts](https://github.com/learn-anything/podcasts#readme)

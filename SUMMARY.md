@@ -232,6 +232,7 @@
 - [Anki](anki/anki.md)
 - [Philosophy](philosophy/philosophy.md)
 	- [Simulated reality](philosophy/simulated-reality.md)
+- [Video](video/video.md)
 - [Machine learning](machine-learning/machine-learning.md)
 	- [Neural networks](machine-learning/neural-networks.md)
 	- [Unsupervised learning](machine-learning/unsupervised-learning.md)

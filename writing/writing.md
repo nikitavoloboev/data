@@ -42,6 +42,24 @@ I keep a private Trello board where I drop ideas I have of what I want to write 
 - too
 - pretty much
 
+## [Focus. Format. Framing.](https://www.youtube.com/watch?v=_mQNwL8HkS0)
+- Focus
+	- Short focused post is easier to both read & write.
+	- Focus on making a single point.
+	- If your post needs a table of contents, it's probably too large in scope.
+- Format
+	- Find a format that works for you. Experiment, ask for feedback & iterate.
+	- A few, clear examples go a long way.
+	- Headings, code samples and images can provide visual "anchor points".
+
+![](https://i.imgur.com/vaV81G3.png)
+
+- Framing
+	- Presentation guides perception.
+	- You don't have to be an expert, just don't pretend to be.
+	- Topics are everywhere - just look at the problems you're solving every day.
+	- Share learnings & experiences instead of "selling" things. (Don't say `I hope I convinced you to use ..`. Just share what you want to share and let the readers decide for themselves.)
+
 ## Notes
 - Most adverbs are superfluous. Most cases where you say "generally" or "usually" you're undermining your point and the use of "very", "extremely", etc. are hyperbolic and breathless and make it easier to regard what you're writing as unserious.
 - Examine every word: a surprising number don’t serve any purpose.
