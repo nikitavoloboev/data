@@ -346,7 +346,7 @@ Some simple rules to follow for myself doing things.
 - Only bookmark personal information and links. The rest should be available via [curated lists](https://github.com/learn-anything/curated-lists#readme) or [awesome lists](https://github.com/sindresorhus/awesome#readme).
 
 ## Paprika recipes
-- Add any new recipe I discover or make to Paprika.
+- Add any new recipe I discover or make to Paprika. Add correct ingredients, instructions and a photo to each recipe.
 
 ## Watching talks
 - Watch talks and tutorials at 1.5+ speed. Unless it hurts comprehension than watch it at slower speeds.

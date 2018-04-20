@@ -29,18 +29,21 @@
 - (16) On the subject of needing more exercise in my life. I will start playing tennis every morning. It’s a fun sport and is competitive in nature which I love. Should take things slow and improve. And slowly make things.
 - (18) Regret minimization framework. Although you can’t always be sure that what you are doing now, you’re not going to regret later. It’s still a very valuable thing to be aware of. Thankfully with the failures I already had in life and the wealth of failures and successes made by other people, it is a bit easier to follow this rule.
 - (18) Speaking of failure. LA for the second time in a row was rejected by [Y Combinator](http://www.ycombinator.com). Not sure why as they don't give feedback. Perhaps because LA is a non profit that is hard to monetize. Perhaps other non profits that applied are curing aging. Nevertheless it is what it is. Life goes on.
-- (19) Exercising in the morning, really does make a huge difference. Currently for me that is playing tennis. But if I will have no one to play with me in the mornings, I will go to the gym. Regret not doing it before. Exercise and finally a proper diet with a good life work balance is life changing. I still get distracted on my mac too often but all the above things greatly help in keeping my mindfulness up. Now to only find some source of income and life would be perfect.
+- (19) Exercising in the morning really does make a huge difference. Currently for me that is playing tennis. But if I will have no one to play with me in the mornings, I will go to the gym. Regret not doing it before. Exercise and finally a proper diet with a good life work balance is life changing. I still get distracted on my mac too often but all the above things greatly help in keeping my mindfulness up. Now to only find some source of income and life would be perfect.
 - (19) One other thing you really start to appreciate with a sugar free diet (aside from fruits). Is just how much your taste buds change in the process. Eating things like ice cream feels like an actual 'oh my god' experience instead of being 'just another sweet'.
 
 ## Photos
 ![](https://scontent-ams3-1.cdninstagram.com/vp/3bb87331b05475f949fcb3df6ff8df2c/5B74C236/t51.2885-15/e35/29715437_330845627439683_7882915393767997440_n.jpg)
-> (3)
+[> (3)](https://www.instagram.com/p/BhG6x75j2AA/)
 
 ![](https://scontent-frt3-2.cdninstagram.com/vp/68c23def62067967114cd407d866d843/5B74F7EE/t51.2885-15/e35/29715719_235957613628981_3447830682431127552_n.jpg)
-> (8)
+[> (8)](https://www.instagram.com/p/BhUcpq0D3Ek/)
 
 ![](https://scontent-ams3-1.cdninstagram.com/vp/e942ae566b5a259012222c2f0074c27a/5B74EC13/t51.2885-15/e35/30076839_161320084508332_5977679832681545728_n.jpg)
-> (17)
+[> (17)](https://www.instagram.com/p/BhrMOhwHz02/)
+
+![](https://scontent-ams3-1.cdninstagram.com/vp/104b933adaabba43d5fce56794cdec3b/5B5C272B/t51.2885-15/e35/30080145_121692075290372_7100262014726963200_n.jpg)
+[> (19) 🌸](https://www.instagram.com/p/BhxDDXbnWRv/)
 
 <!-- ## Music
 - [Tracks](https://www.last.fm/user/playfullyExist/library/tracks?to=2018-04-30&from=2018-04-01) | [Artists](https://www.last.fm/user/playfullyExist/library/artists?to=2018-04-30&from=2018-04-01) | [Albums](https://www.last.fm/user/playfullyExist/library/albums?to=2018-04-30&from=2018-04-01)
