@@ -342,6 +342,9 @@ Some simple rules to follow for myself doing things.
 - Adhere to my budget that I have set for each of the categories. If there is no budget left for eating out. Don't eat out.
 - Keep receipts of expensive purchases for warranty.
 
+## Calendar
+- Always plan the next day ahead of me with events. Adjust the schedule on the day only where necessary. Stay true to the schedule.
+
 ## Safari
 - Only bookmark personal information and links. The rest should be available via [curated lists](https://github.com/learn-anything/curated-lists#readme) or [awesome lists](https://github.com/sindresorhus/awesome#readme).
 

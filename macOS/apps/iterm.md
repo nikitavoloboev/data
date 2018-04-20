@@ -17,12 +17,12 @@ My always open tabs are:
 5. `vim` - Contains my [vim config file](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). Bound to `v+a`.
 
 All other tabs are added on top of this `default` configuration. Usually it looks something like this:
-![](https://i.imgur.com/Bx83MJu.png)
+![](https://i.imgur.com/QTToVhR.png)
 
 Where `la` is some project I am working on.
 
 I then use [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions:
-![](https://i.imgur.com/WSRgeum.png)
+![](https://i.imgur.com/8qhYJjW.png)
 
 ## Links
 - [Make macOS hotkeys work with iTerm](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line/29403520#29403520)
