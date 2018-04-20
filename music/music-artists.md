@@ -138,3 +138,4 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Opia](https://soundcloud.com/opia-official) - [YDU (Aftrparty Remix)](https://soundcloud.com/aftrpartymusic/opia-ydu-aftrparty-remix)
 - [MorMor](https://soundcloud.com/mormor_music) - [Heaven's Only Wishful](https://www.youtube.com/watch?v=9PvIIn6cc1M)
 - [Torgeir Waldemar](http://www.torgeirwaldemar.com) - [Island Bliss](https://www.youtube.com/watch?v=MfBrItArHts)
+- [Morgin Madison](https://soundcloud.com/morginmadison) - [What You Want](https://www.youtube.com/watch?v=SKKT7MecFWU)

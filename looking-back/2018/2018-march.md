@@ -35,13 +35,13 @@ Moved LA to [Discord](https://discord.gg/KKYdWjt). Started focusing on mindfulne
 
 ## Photos
 ![](https://scontent-ams3-1.cdninstagram.com/vp/f31a8d90a3b19d084b8df84ccf718c37/5B35DA2F/t51.2885-15/e35/28428181_175665736388402_1209533580204572672_n.jpg)
-> (2)
+[> (2)](https://www.instagram.com/p/Bf0_7fIjhds/)
 
 ![](https://scontent-ams3-1.cdninstagram.com/vp/0a6652613ef41a45c763815abb5f5a2f/5B3D053E/t51.2885-15/e35/28753104_368914760244266_5769848224948944896_n.jpg)
-> (5)
+[> (5)](https://www.instagram.com/p/Bf8ybHTDhfh/)
 
 ![](https://scontent-ams3-1.cdninstagram.com/vp/ad6b4e71783887ab28e9fa6c4e8c78d8/5B54DF8A/t51.2885-15/e35/28753564_349101512251241_5494211294204526592_n.jpg)
-> (12) Going on adventure 🐕
+[> (12) Going on adventure 🐕](https://www.instagram.com/p/BgO5dAxHUJz/)
 
 ## Music
 - [Tracks](https://www.last.fm/user/playfullyExist/library/tracks?to=2018-03-31&from=2018-03-01) | [Artists](https://www.last.fm/user/playfullyExist/library/artists?to=2018-03-31&from=2018-03-01) | [Albums](https://www.last.fm/user/playfullyExist/library/albums?to=2018-03-31&from=2018-03-01)

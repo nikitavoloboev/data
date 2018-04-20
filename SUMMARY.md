@@ -237,6 +237,7 @@
 	- [Reinforcement learning](machine-learning/reinforcement-learning.md)
 	- [Pytorch](machine-learning/pytorch.md)
 	- [Keras](machine-learning/keras.md)
+	- [TensorFlow](machine-learning/tensorflow.md)
 - [Package managers](package-managers/package-managers.md)
 	- [Nix](package-managers/nix.md)
 	- [Homebrew](package-managers/homebrew.md)
