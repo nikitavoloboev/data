@@ -29,19 +29,6 @@ I keep a private Trello board where I drop ideas I have of what I want to write 
 
 ![](https://i.imgur.com/S2JEESU.png)
 
-## Avoid using these words
-- really
-- though
-- very
-- a bit
-- a little
-- sort of
-- kind of
-- rather
-- quite
-- too
-- pretty much
-
 ## [Focus. Format. Framing.](https://www.youtube.com/watch?v=_mQNwL8HkS0)
 - Focus
 	- Short focused post is easier to both read & write.
@@ -59,6 +46,19 @@ I keep a private Trello board where I drop ideas I have of what I want to write 
 	- You don't have to be an expert, just don't pretend to be.
 	- Topics are everywhere - just look at the problems you're solving every day.
 	- Share learnings & experiences instead of "selling" things. (Don't say `I hope I convinced you to use ..`. Just share what you want to share and let the readers decide for themselves.)
+
+## Avoid using these words
+- really
+- though
+- very
+- a bit
+- a little
+- sort of
+- kind of
+- rather
+- quite
+- too
+- pretty much
 
 ## Notes
 - Most adverbs are superfluous. Most cases where you say "generally" or "usually" you're undermining your point and the use of "very", "extremely", etc. are hyperbolic and breathless and make it easier to regard what you're writing as unserious.
