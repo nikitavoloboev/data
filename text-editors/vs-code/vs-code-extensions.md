@@ -1,5 +1,5 @@
 # [VS Code extensions](https://github.com/Microsoft/vscode)
-[Here](https://gist.github.com/nikitavoloboev/6a477ff089612434d28258901d9d9e04) is a list of extensions I use.
+Below is a list of extensions I use.
 
 ## Utility
 - [Vim](https://github.com/VSCodeVim/Vim) - Vim emulation.

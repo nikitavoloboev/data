@@ -1,9 +1,9 @@
 # [Sublime Text](https://www.sublimetext.com)
-Use this editor in addition to VS Code and Neovim for its blazing fast speed of opening files.
+Use this editor in addition to [VS Code](vs-code/vs-code.md) and [Neovim](vim/vim.md) for its blazing fast speed of opening files.
 
 I use it primarily to edit markdown files like [this wiki](../other/wiki-workflow.md). I also edit config files and open large and small files for quick edits.
 
-I use [Ayu theme](https://github.com/dempfi/ayu).
+I use [many plugins](sublime-text-plugins.md) together with [Ayu theme](https://github.com/dempfi/ayu).
 
 ## Tricks I use
 - I made a km macro that I binded with `v + r` to open `temp-notes.md` file I have saved on my system in Sublime. It acts as a kind of quick dump buffer for writing a thing that will be deleted afterwards. I can use my vim mode to fast edit text and the paste the text I wrote to another app like Google docs.
