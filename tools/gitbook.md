@@ -16,3 +16,4 @@ Similar to how I took Yoshua's idea with his [original knowledge repo](https://g
 
 ## Links
 - [rustbook](https://github.com/steveklabnik/rustbook) - Alternative to Gitbook in Rust.
+- [Implementing GitBook to manage open source documentation](https://blog.strapi.io/gitbook-open-source-documentation/)

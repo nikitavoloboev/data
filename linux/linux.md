@@ -3,6 +3,7 @@ Never used it as my main OS but I do want to explore it more in the future.
 
 ## WM
 - [xmonad](http://xmonad.org/) - Tiling WM.
+- [i3](https://github.com/i3/i3) - Tiling WM.
 - [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor.
 
 ## Launchers
