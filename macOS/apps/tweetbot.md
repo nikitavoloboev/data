@@ -8,7 +8,7 @@ Tweetbot is also blocked for me during my `Focus` time. I can only post tweets b
 The app is always full screen for me. And is split into four columns.
 - First column: Mentions / Messages / [Software](https://twitter.com/nikitavoloboev/lists/software)
 - Second column: [Top](https://twitter.com/nikitavoloboev/lists/top). Tweets with highest value to me.
-- Third column: [ML](https://twitter.com/nikitavoloboev/lists/ml). Machine Learning news.
+- Third column: [ML](https://twitter.com/nikitavoloboev/lists/ml). Machine learning news.
 - Fourth column: [Other](https://twitter.com/nikitavoloboev/lists/other1) list. Tweets with least priority to me.
 
 Here is how that all looks together for me:

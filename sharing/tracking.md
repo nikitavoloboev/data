@@ -34,7 +34,7 @@ Here is a list of various things I track for my own use and reference.
 - [YouTube playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists) - Various YouTube playlists I made.
 
 ## Products
-- [Product Hunt collections](https://www.producthunt.com/@nikitavoloboev/collections) - Different collections of products and things I liked.
+- [Product Hunt collections](https://www.producthunt.com/@nikitavoloboev/collections) - Different collections of products I liked.
 
 ## Design
 - [Dribble buckets](https://dribbble.com/nikitavoloboev/buckets) - Various buckets of designs I liked. There is also a [big list of designs I liked](https://dribbble.com/nikitavoloboev/likes).

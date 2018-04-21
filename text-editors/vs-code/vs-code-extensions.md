@@ -79,6 +79,7 @@ Below is a list of extensions I use.
 - [React Component](https://github.com/remicass/vscode-exts/tree/master/react-component) - Creates a react component code according to file name.
 - [Shell](https://github.com/bbenoist/vscode-shell) - Execute shell commands from VS Code.
 - [SVG Viewer](https://github.com/cssho/vscode-svgviewer)
+- [FTP Simple](https://github.com/humy2833/FTP-Simple) - Simple FTP/SFTP.
 
 ## Notes
 - In [Go plugin](https://github.com/Microsoft/vscode-go) `ife` snippet will create an error catching block.
