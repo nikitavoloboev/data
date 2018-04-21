@@ -2,7 +2,7 @@
 I use [Package Control](https://packagecontrol.io/installation) to manage my plugins. Below is a list of plugins I use.
 
 ## Utility
-- [Six](https://github.com/guillermooo/Six) - New and improved Vim emulation.
+- [Six](https://github.com/guillermooo/Six) - Vim emulation.
 - [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons for Improved Visual Grepping.
 - [Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile) - File creation plugin.
 - [DashDoc](https://github.com/farcaller/DashDoc) - Dash integration.

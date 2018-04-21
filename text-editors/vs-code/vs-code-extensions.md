@@ -1,4 +1,4 @@
-# [VS Code extensions](https://github.com/Microsoft/vscode)
+# [VS Code](https://github.com/Microsoft/vscode) extensions
 Below is a list of extensions I use.
 
 ## Utility
