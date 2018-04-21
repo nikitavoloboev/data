@@ -13,7 +13,7 @@ I use [New Wave 80s](https://styles.ulyssesapp.com/bundle/New+Wave+80s/5407d108c
 I describe my thoughts and approach to writing [here](../../writing/writing.md).
 
 ## Content structure
-I group my writing into appropriate categories. Here are how my categories look like. I blurred some that are personal to me.
+I group my writing into appropriate categories. Here are how my categories look like.
 
 ![](https://i.imgur.com/7QS5OzA.png)
 

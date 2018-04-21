@@ -47,14 +47,14 @@ Below are books I have read or started reading. The books with links attached wi
 - The Yellow Wallpaper
 
 ## Interesting authors
-- Douglas Adams
-- Ted Chiang
-- Alan Watts
-- Jorge Luis Borges
-- Nikolay Nekrasov
-- HP Lovecraft
-- Aleksandr Solzhenitisyn
-- David Sedaris
+- [Douglas Adams](https://www.goodreads.com/author/show/4.Douglas_Adams)
+- [Ted Chiang](https://www.goodreads.com/author/show/130698.Ted_Chiang)
+- [Alan Watts](https://www.goodreads.com/author/show/1501668.Alan_W_Watts)
+- [Jorge Luis Borges](https://www.goodreads.com/author/show/500.Jorge_Luis_Borges)
+- [Nikolay Nekrasov](https://www.goodreads.com/author/show/2143156.Nikolay_A_Nekrasov)
+- [HP Lovecraft](https://www.goodreads.com/author/show/9494.H_P_Lovecraft)
+- [Aleksandr Solzhenitisyn](https://www.goodreads.com/author/show/10420.Aleksandr_Solzhenitsyn)
+- [David Sedaris](https://www.goodreads.com/author/show/2849.David_Sedaris)
 
 # Recommendations
 - [Side Project books](https://books.makesideproject.com/)
