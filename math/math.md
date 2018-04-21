@@ -15,3 +15,4 @@ Math is fascinating. And frankly I am not that good at it yet. But I can get bet
 - [Mathematics for Computer Science: Readings](https://news.ycombinator.com/item?id=16607308)
 - [mathematicalmonk YouTube playlists](https://www.youtube.com/user/mathematicalmonk/playlists) - A lot of stuff covered.
 - [How Grothendieck Simplified Algebraic Geometry](http://www.ams.org/publications/journals/notices/201603/rnoti-p256.pdf)
+- [A new “Mathematician’s Apology”](https://ldtopology.wordpress.com/2017/03/18/a-new-mathematicians-apology/)

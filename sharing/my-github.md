@@ -1,5 +1,5 @@
 # My [GitHub](https://github.com/nikitavoloboev) repositories
-The number between brackets shows the year I created the repo in. Repos with a 🌟 are my **favourite**. Repos with 💡 mean they are in an idea stage still.
+The number between brackets shows the year I created the repo in. Repos with 🌟 are my **favourite**. Repos with 💡 mean they are in an idea stage still.
 
 ## Learn Anything
 - [Learn Anything (2017) 🌟](https://github.com/learn-anything/learn-anything) - Search Interactive Maps to Learn Anything.
