@@ -1,7 +1,7 @@
 # Looking back
-I want to share my journey in life both for myself and other people who might find an interest in it. I document each month and all the memorable things that happened in these months.
+I want to share my journey in life both for myself and other people who might find an interest in it. I document each month and all the memorable things that happened to me.
 
-The numbers before each of the dashed points like (21) signify the day of the month I wrote the line in. I share most everything on [Twitter](https://twitter.com/nikitavoloboev) too.
+The numbers before each of the dashed points like (21) signify the day of the month I wrote the line in. I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev).
 
 ## [2017](2017/2017.md)
 > Interesting year. Learn Anything was born. Started doing this wiki.
