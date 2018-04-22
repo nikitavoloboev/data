@@ -11,7 +11,6 @@ Below is a list of extensions I use.
 - [Docker](https://github.com/microsoft/vscode-docker) - Easilly build and deploy containerized applications from VS Code.
 - [File Icons](https://github.com/file-icons/vscode) - File specific icons for improved visual grepping.
 - [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense) - Autocomplete filenames.
-- [Regex](https://github.com/chrmarti/vscode-regex) - Shows the current regular expression's matches in a side-by-side document.
 - [RelativePath](https://github.com/jakob101/RelativePath) - Get the relative path to any file in the workspace.
 - [Settings Sync](https://github.com/shanalikhan/code-settings-sync) - Synchronize VS Code settings across multiple machines using Github Gist.
 - [Terminal tabs](https://github.com/Tyriar/vscode-terminal-tabs) - Adds tabs for each terminal process to the status bar.
@@ -80,6 +79,7 @@ Below is a list of extensions I use.
 - [Shell](https://github.com/bbenoist/vscode-shell) - Execute shell commands from VS Code.
 - [SVG Viewer](https://github.com/cssho/vscode-svgviewer)
 - [FTP Simple](https://github.com/humy2833/FTP-Simple) - Simple FTP/SFTP.
+- [Regex Previewer](https://github.com/chrmarti/vscode-regex) - Shows the current regular expression's matches in a side-by-side document.
 
 ## Notes
 - In [Go plugin](https://github.com/Microsoft/vscode-go) `ife` snippet will create an error catching block.

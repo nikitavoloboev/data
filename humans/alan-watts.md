@@ -9,6 +9,7 @@ Alan Watts is most certainly my favourite person I wish I knew. Fortunately he w
 - [Man and Nature](https://www.youtube.com/watch?v=JQHWrCYS8cM)
 - [Why the Urge to Improve Yourself?](https://www.youtube.com/watch?v=vlNVQ-_y4-0)
 - [We Don't See All There Is](https://www.youtube.com/watch?v=M30ChDvwBLQ)
+- [Undifferentiated Toy Gardens](https://soundcloud.com/spacekittyisyou/undifferentiated-toy-gardens?in=spacekittyisyou/sets/ambient-watts)
 
 ## Mixed in music
 - [Will Cady - What Fills The Gap](https://www.youtube.com/watch?v=cmT3t2Kdr3I)

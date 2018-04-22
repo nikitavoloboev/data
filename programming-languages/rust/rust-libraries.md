@@ -10,3 +10,4 @@
 - [actix](https://github.com/actix/actix)
 - [tokio](https://github.com/tokio-rs/tokio)
 - [nom](https://github.com/Geal/nom) - Parser combinators library.
+- [rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures.
