@@ -29,8 +29,8 @@ The number between brackets shows the year I created the repo in. Repos with �
 - [MindNode Parser (2017) 💡](https://github.com/nikitavoloboev/mindnode-parser) - Go library to parse mind maps from MindNode.
 
 ## CLI
-- [License Up (2017) 🌟](https://github.com/nikitavoloboev/license-up) - Create a license quickly for a given name.
-- [Al (2017) 💡](https://github.com/nikitavoloboev/al) - Find your aliases and shell functions.
+- [License Up (2017) 🌟](https://github.com/nikitavoloboev/license-up) - Create a license quickly.
+- [Alias search (2017) 💡](https://github.com/nikitavoloboev/alias-search) - Find your aliases and shell functions.
 
 ## Tools
 - [Karabiner generator (2018) 💡](https://github.com/nikitavoloboev/karabiner-generator) - Small DSL to easily modify [Karabiner](https://github.com/tekezo/Karabiner-Elements) configuration.
@@ -42,7 +42,6 @@ The number between brackets shows the year I created the repo in. Repos with �
 ## Practice
 - [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions to LeetCode in Python and Go.
 - [Euler (2017)](https://github.com/nikitavoloboev/euler) - Solutions to Project Euler in Python and Go.
-- [Coding practice (2018)](https://github.com/nikitavoloboev/coding-practice) - Solving problems.
 
 ## Web
 - [Crafting Ideas (2017) 💡](https://github.com/nikitavoloboev/crafting-ideas) - Platform to share and grow your ideas.
