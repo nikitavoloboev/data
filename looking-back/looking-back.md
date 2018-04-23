@@ -12,4 +12,4 @@ The numbers before each of the dashed points like (21) signify the day of the mo
 - [January](2018/2018-january.md) - LA got nominated for Golden Kitty award but didn't win. LA was blocked by FB. Stopped using FB & transferred stuff from it to wiki.
 - [February](2018/2018-february.md) - LA unblocked by FB. Started adding days to wiki entries. Made Telegram macOS/iOS group.
 - [March](2018/2018-march.md) - Moved LA from Slack to Discord. Made my first crypto purchase.
-- [April](2018/2018-april.md) - Uni & depression. Stopped listening to music when working. Started playing tennis and growing my healthy recipe collection. Started to use Twitter a lot more.
+- [April](2018/2018-april.md) - Uni & depression. Stopped listening to music when working. Started playing tennis and growing my healthy recipe collection. Started to use Twitter more.

@@ -66,7 +66,8 @@ Below is a list of extensions I use.
 ## Theme
 - [Ayu](https://github.com/teabyii/vscode-ayu)
 
-## Interesting (not using)
+# Interesting (not using)
+## Utility
 - [Polacode](https://github.com/octref/polacode) - Polaroid for your code.
 - [Calculate](https://github.com/andrewcarreiro/vscode-calculate) - Evaluate math expressions.
 - [Code Outline](https://github.com/patrys/vscode-code-outline) - Display code outline tree in the explorer pane.
