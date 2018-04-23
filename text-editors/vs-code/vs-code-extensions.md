@@ -80,6 +80,7 @@ Below is a list of extensions I use.
 - [SVG Viewer](https://github.com/cssho/vscode-svgviewer)
 - [FTP Simple](https://github.com/humy2833/FTP-Simple) - Simple FTP/SFTP.
 - [Regex Previewer](https://github.com/chrmarti/vscode-regex) - Shows the current regular expression's matches in a side-by-side document.
+- [Import cost](https://github.com/wix/import-cost) - Displays the import size of the package you are importing inside the code editor.
 
 ## Notes
 - In [Go plugin](https://github.com/Microsoft/vscode-go) `ife` snippet will create an error catching block.

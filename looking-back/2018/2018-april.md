@@ -32,6 +32,10 @@
 - (19) Exercising in the morning really does make a huge difference. Currently for me that is playing tennis. But if I will have no one to play with me in the mornings, I will go to the gym. Regret not doing it before. Exercise and finally a proper diet with a good life work balance is life changing. I still get distracted on my mac too often but all the above things greatly help in keeping my mindfulness up. Now to only find some source of income and life would be perfect.
 - (19) One other thing you really start to appreciate with a sugar free diet (aside from fruits). Is just how much your taste buds change in the process. Eating things like ice cream feels like an actual 'oh my god' experience instead of being 'just another sweet'.
 - (22) Now that I think a bit more about it. This public Diary can actually be better done via Twitter. Minus the depressive and 'useless' parts. Those I can leave off either here or Day One or remove completely. It's a silly way to look at things anyway, just feels good to write it out and get it out of your mind. I do need to build [this thing](https://brandur.org/twitter) for myself though. So yeah. Twitter it is. 🐦
+- (23) Got rejected for GSOC summer internship. It's not unexpected though. I just can't code well enough yet. And I suck.
+
+![](https://i.imgur.com/qqG3cyb.png)
+- (23) YC rejection x2. GSOC rejection x1. Job rejections x1000. Should keep the streak up. 🚀
 
 ## Photos
 ![](https://scontent-ams3-1.cdninstagram.com/vp/3bb87331b05475f949fcb3df6ff8df2c/5B74C236/t51.2885-15/e35/29715437_330845627439683_7882915393767997440_n.jpg)
