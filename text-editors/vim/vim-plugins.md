@@ -36,6 +36,7 @@ Below is a list of plugins I use.
 - [Rename](https://github.com/danro/rename.vim) - Rename the current file in the vim buffer + retain relative path.
 - [NerdTree](https://github.com/scrooloose/nerdtree) - File system explorer.
 - [NERDTree Git](https://github.com/Xuyuanp/nerdtree-git-plugin) - Plugin of NERDTree showing git status flags.
+- [Gina](https://github.com/lambdalisue/gina.vim) - Asynchronously control git repositories.
 
 ## Interesting
 - [Codi](https://github.com/metakirby5/codi.vim) - Interactive scratchpad for hackers.
