@@ -20,11 +20,18 @@ Below is a list of plugins I use.
 - [Surround](https://github.com/tpope/vim-surround) - Quoting/parenthesizing made simple.
 - [Easy align](https://github.com/junegunn/vim-easy-align) - Simple, easy-to-use alignment.
 - [fzf](https://github.com/junegunn/fzf.vim) - Fzf search.
+- [WakaTime](https://github.com/wakatime/vim-wakatime) - Automatic time tracking.
+- [Easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed.
 
 ## Deoplete
 - [Deoplete](https://github.com/Shougo/deoplete.nvim) - Asynchronous completion framework.
 - [Deoplete Go](https://github.com/zchee/deoplete-go) - Asynchronous Go completion.
 - [Deoplete Jedi](https://github.com/zchee/deoplete-jedi) - Deoplete source for [jedi](https://github.com/davidhalter/jedi).
+
+## Looks
+- [Ayu theme](https://www.google.com/search?q=ayu-theme/ayu-vim)
+- [Airline](https://github.com/vim-airline/vim-airline) - Lean & mean status/tabline.
+- [Airline themes](https://github.com/vim-airline/vim-airline-themes) - Collection of themes for Vim Airline.
 
 ## Interesting (not using)
 - [neoinclude.vim](https://github.com/Shougo/neoinclude.vim) - Include completion framework for neocomplete/deoplete.
@@ -37,6 +44,17 @@ Below is a list of plugins I use.
 - [NerdTree](https://github.com/scrooloose/nerdtree) - File system explorer.
 - [NERDTree Git](https://github.com/Xuyuanp/nerdtree-git-plugin) - Plugin of NERDTree showing git status flags.
 - [Gina](https://github.com/lambdalisue/gina.vim) - Asynchronously control git repositories.
-
-## Interesting
 - [Codi](https://github.com/metakirby5/codi.vim) - Interactive scratchpad for hackers.
+- [Vinegar](https://github.com/tpope/vim-vinegar) - Enhances netrw.
+- [Dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer.
+- [Sneak](https://github.com/justinmk/vim-sneak) - Jump to any location specified by two characters.
+- [Limelight](https://github.com/junegunn/limelight.vim) - Highlight only active paragraphs.
+- [Auto pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
+- [Unimpaired](https://github.com/tpope/vim-unimpaired) - Pairs of handy bracket mappings.
+- [Multiple cursors](https://github.com/terryma/vim-multiple-cursors) - Sublime Text style multiple selections.
+- [Table mode](https://github.com/dhruvasagar/vim-table-mode) - Instant table creation.
+- [Abolish](https://github.com/tpope/vim-abolish) - Search for, substitute, and abbreviate multiple variants of a word.
+- [Gutentags](https://github.com/ludovicchabant/vim-gutentags) - Manages your tag files.
+- [Bufferline](https://github.com/bling/vim-bufferline) - Show the list of buffers in the command bar.
+- [Dev icons](https://github.com/ryanoasis/vim-devicons) - Adds file type glyphs/icons to popular Vim plugins.
+- [Vim caddyfile](https://github.com/isobit/vim-caddyfile) - Caddyfile syntax support.
