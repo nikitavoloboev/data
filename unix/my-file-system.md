@@ -16,9 +16,8 @@ Everything that is code is put into this folder.
 
 ```Bash
 ~/dev
-❯ exa
-alfred  clones  curated  forks  github  ideas  learning  ml  personal  practice  safari  scripts  testing  uni  web  Xcode
-```
+❯ ls
+alfred  applescript  bots  clones  curated  forks  github  ideas  learn  ml  personal  practice  python  rust  safari  test  uni  web  Xcode```
 
 ## ~/dev/clones
 I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I use km macro that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/dev/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime.
@@ -30,20 +29,20 @@ Inside this folder I keep all the things that are open source on GitHub sorted b
 
 ```Bash
 ~/dev/github
-❯ exa
+❯ ls
 learn-anything
 ```
 
 ## ~/go/src/github.com/nikitavoloboev
 I keep all my Go projects inside my GOPATH.
 
-## ~/dev/testing
+## ~/dev/test
 Inside this folder I have a bunch of language specific folders that usually just have one file inside them with the extension of that language. Here is how that folder looks for me:
 
 ```Bash
-~/dev/testing
-❯ exa
-bash-test  haskell-test  js-test  lisp-test  py-test go-test
+~/dev/test
+❯ ls
+bash-test	c-test		clojure-test	go-test		haskell-test	js-test		lisp-test	python-test	web-test
 ```
 
 I then have KM macros to quickly open these files:
@@ -58,7 +57,7 @@ If I forked something and I want to keep working on the repo later, I keep it in
 ## ~/dev/Xcode
 Contains all my Swift iOS and macOS projects. It is further divided into macOS, iOS and playgrounds folders.
 
-## ~/dev/learning
+## ~/dev/learn
 I use the folder to learn new technologies, languages and things. Perhaps I am completing some course or going through some book that has exercises. I usually put them there.
 
 ## ~/dev/alfred
@@ -66,7 +65,7 @@ All my Alfred workflows are placed there. And each one is symlinked either with 
 
 ```Bash
 ~/dev/alfred
-❯ exa
+❯ ls
 alfred-ask-create-share  alfred-birthday      alfred-inline-searches  alfred-my-mind  alfred-twitter
 alfred-awesome-lists     alfred-breathe       alfred-lastfm           alfred-pixave   alfred-web-searches
 alfred-awgo-practice     alfred-github-users  alfred-learn-anything   alfred-trello   small-workflows
@@ -77,7 +76,7 @@ I put various app configuration and app specific files in there. For example my 
 
 ```Bash
 ~/app
-❯ exa
+❯ ls
 alfred  dash  focus  hammerspoon  iterm  km  paw  safari
 ```
 
@@ -86,7 +85,7 @@ I use Documents to store things like books, research papers, uni work, various a
 
 ```Bash
 ~/Documents
-❯ exa
+❯ ls
 audio-books  backup  books  design  latex  papers  pdfs  personal  pixave  uni  voice-memos  watch
 ```
 
