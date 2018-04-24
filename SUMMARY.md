@@ -198,6 +198,7 @@
 		- [CSS Grid](front-end/css/css-grid.md)
 	- [React](front-end/react/react.md)
 		- [Redux](front-end/react/redux.md)
+	- [Vue.js](front-end/vue.md)
 - [Security](security/security.md)
 	- [Cryptography](security/cryptography/cryptography.md)
 - [Social networks](social-networks/social-networks.md)
