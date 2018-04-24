@@ -17,7 +17,8 @@ Everything that is code is put into this folder.
 ```Bash
 ~/dev
 ❯ ls
-alfred  applescript  bots  clones  curated  forks  github  ideas  learn  ml  personal  practice  python  rust  safari  test  uni  web  Xcode```
+alfred  applescript  bots  clones  curated  forks  github  ideas  learn  ml  personal  practice  python  rust  safari  test  uni  web  Xcode
+```
 
 ## ~/dev/clones
 I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I use km macro that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/dev/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime.
