@@ -77,6 +77,7 @@ Below is a list of plugins I use.
 - [Gutentags](https://github.com/ludovicchabant/vim-gutentags) - Manages your tag files.
 - [Vimtex](https://github.com/lervag/vimtex) - LaTeX support.
 - [Goyo](https://github.com/junegunn/goyo.vim) - Distraction-free writing.
+- [Ultisnips](https://github.com/SirVer/ultisnips) - Ultimate snippet solution for Vim.
 
 ## Looks
 - [Dev icons](https://github.com/ryanoasis/vim-devicons) - Adds file type glyphs/icons to popular Vim plugins.

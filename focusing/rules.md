@@ -4,7 +4,7 @@ Some simple rules to follow for myself doing things.
 ## Life
 - [Simplify](../minimalism/minimalism.md) as much as possible. Never repeat myself.
 - Learn from my mistakes. If things fail. Learn from it and move on.
-- Build [ideas](https://trello.com/b/alB1ryRP). Experiment.
+- Build [ideas](https://trello.com/b/alB1ryRP). Experiment. Take risks.
 - Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts. Don’t eat animals, don’t hurt any person. Don't waste anything.
 - Don't compare myself to other people. Don't care what other people think of me. Surround myself with people that inspire me.
 - Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals too much.
@@ -82,8 +82,7 @@ Some simple rules to follow for myself doing things.
 ## Shipping a product
 - Have a nice looking website. The first look matters.
 
-## Social
-- Instagram posts are rallied to _Photos_ in [looking back](../looking-back/looking-back.md).
+## Social media
 - Don't lock myself into using a service. Have my own system in place and give the social media a purpose. If there is no purpose to it, don't use it.
 
 ## Privacy
