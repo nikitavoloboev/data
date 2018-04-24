@@ -33,7 +33,7 @@ Prefixes I use for various apps and tools and their meanings.
 - w: - Safari websites open
 - g: - Global macros
 - c: - Chrome websites open
-- opern: - Open applications
+- open: - Open applications
 - {} - What should be in my clipboard
 - @ - Actions. i.e. `@todo` = things to add/fix. `@fin` = macros to finish.
 - [] - What state the macro should be in

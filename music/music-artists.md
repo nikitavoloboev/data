@@ -140,3 +140,4 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [MorMor](https://soundcloud.com/mormor_music) - [Heaven's Only Wishful](https://www.youtube.com/watch?v=9PvIIn6cc1M)
 - [Torgeir Waldemar](http://www.torgeirwaldemar.com) - [Island Bliss](https://www.youtube.com/watch?v=MfBrItArHts)
 - [Morgin Madison](https://soundcloud.com/morginmadison) - [What You Want](https://www.youtube.com/watch?v=SKKT7MecFWU)
+- [Hot Sugar](https://soundcloud.com/hotsugar) - [The girl who stole my Tamagotchi](https://www.youtube.com/watch?v=NF6PPz8LunY)

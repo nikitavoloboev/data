@@ -34,7 +34,7 @@
 
 ![](https://i.imgur.com/qqG3cyb.png)
 - (23) YC rejections x2. GSOC rejections x1. Exams failed x20. Job rejections x1000. Should keep the streaks up. 🚀
-- (23) Going to stop writing in this ‘Diary’ for a bit. And just share things through Twitter. Hopefully I get my life together soon and won’t be as depressed and sad all the time.  A life of no regrets.
+- (23) Going to stop writing in this ‘Diary’ for a bit. And just share things through Twitter. Hopefully I get my life together soon and won’t be as depressed and sad all the time. A life of no regrets.
 
 ## Photos
 ![](https://scontent-ams3-1.cdninstagram.com/vp/3bb87331b05475f949fcb3df6ff8df2c/5B74C236/t51.2885-15/e35/29715437_330845627439683_7882915393767997440_n.jpg)
