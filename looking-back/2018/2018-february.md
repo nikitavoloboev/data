@@ -37,7 +37,7 @@ Another cool thing is that my project I hope to make soon will improve these _lo
 Not really sure if these photos will actually stay here as they are links from Instagram and there is a chance Instagram will change them in the future but why not try. Will rally images I posted on Instagram here too.
 
 ![](https://scontent-ams3-1.cdninstagram.com/vp/ae9451cd953ef3be3dcde1266e08bf97/5B116052/t51.2885-15/e35/27894445_164536137532199_7303673985147863040_n.jpg)
-[> (27) ☁️](https://www.instagram.com/p/BftXeq_j6xf/)
+> [(27) ☁️](https://www.instagram.com/p/BftXeq_j6xf/)
 
 ## Thoughts
 - I am thinking how I can experiment with this monthly overview more. Aside from __Changes__ and the __Summary__ paragraph at the end of each month, I want to drop down some __thoughts__ I have too in some form. Just for prosterity. Plus I really do want to write more often, I think it's better to focus on that more rather than just dropping some random thoughts here.
