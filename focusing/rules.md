@@ -6,7 +6,7 @@ Some simple rules to follow for myself doing things.
 - Learn from my mistakes. If things fail. Learn from it and move on.
 - Build [ideas](https://trello.com/b/alB1ryRP). Experiment.
 - Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts. Don’t eat animals, don’t hurt any person. Don't waste anything.
-- Don't compare myself to other people. Surround myself with people that inspire me.
+- Don't compare myself to other people. Don't care what other people think of me. Surround myself with people that inspire me.
 - Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals too much.
 - Don't judge anyone. Attempt to see another person's point of view.
 - If an item/thing doesn't provide me any value, get rid of it.
