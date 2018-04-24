@@ -53,7 +53,7 @@ Some simple rules to follow for myself doing things.
 
 ## Share
 - Share everything I know and made.
-- Share the link on the appropriate website/forum/subreddit. Tweet it. Log it in [looking back](../looking-back/looking-back.md).
+- Share the link on the appropriate website/forum/subreddit. Tweet it.
 
 ## Share files
 - Temporary shares with [Transfer](https://transfer.sh).
@@ -82,10 +82,8 @@ Some simple rules to follow for myself doing things.
 ## Shipping a product
 - Have a nice looking website. The first look matters.
 
-## Social media
-- Twitter posts are first made in [looking back](../looking-back/looking-back.md) and are always rallied to _Changes_ section unless the tweet has no preserving value.
-	- Images if relevant can be linked and embedded too.
-- Instagram posts are rallied to _Photos_ in [looking back](../looking-back/looking-back.md). If taken on the phone, it can be done on the mac later or automated.
+## Social
+- Instagram posts are rallied to _Photos_ in [looking back](../looking-back/looking-back.md).
 - Don't lock myself into using a service. Have my own system in place and give the social media a purpose. If there is no purpose to it, don't use it.
 
 ## Privacy

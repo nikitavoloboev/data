@@ -14,7 +14,6 @@ Below is a list of plugins I use.
 - [Quick scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement.
 - [vimproc](https://github.com/Shougo/vimproc.vim) - Interactive command execution.
 - [Repeat](https://github.com/tpope/vim-repeat) - Enable repeating supported plugin maps with ".".
-- [Goyo](https://github.com/junegunn/goyo.vim) - Distraction-free writing.
 - [Titlecase](https://github.com/christoomey/vim-titlecase) - Titlecase text.
 - [Surround](https://github.com/tpope/vim-surround) - Quoting/parenthesizing made simple.
 - [Easy align](https://github.com/junegunn/vim-easy-align) - Simple, easy-to-use alignment.
@@ -77,6 +76,7 @@ Below is a list of plugins I use.
 - [Abolish](https://github.com/tpope/vim-abolish) - Search for, substitute, and abbreviate multiple variants of a word.
 - [Gutentags](https://github.com/ludovicchabant/vim-gutentags) - Manages your tag files.
 - [Vimtex](https://github.com/lervag/vimtex) - LaTeX support.
+- [Goyo](https://github.com/junegunn/goyo.vim) - Distraction-free writing.
 
 ## Looks
 - [Dev icons](https://github.com/ryanoasis/vim-devicons) - Adds file type glyphs/icons to popular Vim plugins.

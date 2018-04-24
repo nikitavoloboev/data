@@ -59,7 +59,13 @@ If I forked something and I want to keep working on the repo later, I keep it in
 Contains all my Swift iOS and macOS projects. It is further divided into macOS, iOS and playgrounds folders.
 
 ## ~/dev/learn
-I use the folder to learn new technologies, languages and things. Perhaps I am completing some course or going through some book that has exercises. I usually put them there.
+I use the folder to learn new technologies, languages and things. Perhaps I am completing some course or going through some book that has exercises. I put it there.
+
+```Bash
+~/dev/learn
+❯ ls
+go-learn  graphics-learn  ml-learn  react-learn
+```
 
 ## ~/dev/alfred
 All my Alfred workflows are placed there. And each one is symlinked either with [worklow install](https://gist.github.com/deanishe/35faae3e7f89f629a94e) or [alfred CLI tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred) for Go workflows.
