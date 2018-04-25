@@ -1,5 +1,5 @@
 # Music albums
-A list of my albums I like.
+A list of albums I like.
 
 ## Favourite
 - [Boards of Canada - Music Has the Right to Children (1998)](https://www.youtube.com/watch?v=XaJn3QqiIUc)

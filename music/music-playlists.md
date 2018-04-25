@@ -6,4 +6,4 @@ I made and share a lot of [my Spotify playlists](https://open.spotify.com/user/n
 I also share a [big playlist of all the music I like](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) on YouTube.
 
 ## SoundCloud
-And I love exploring the rich library of music on SoundCloud. I share all the music I liked on [my profile](https://soundcloud.com/nikitavoloboev).
+I love exploring the rich library of music on SoundCloud. I share all the music I liked on [my profile](https://soundcloud.com/nikitavoloboev).

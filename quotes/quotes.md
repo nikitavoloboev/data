@@ -1,7 +1,7 @@
 # Quotes
 I share quotes I really love at the end of [this page](https://nikitavoloboev.xyz/likes/). And I share all the interesting quotes as a [curated list anyone can contribute to](https://github.com/learn-anything/quotes#interesting-quotes-).
 
-And here are a few quotes that didn't make both of those lists but I still liked.
+And here are a few quotes that didn't make both of those lists that I still liked.
 
 ## Life
 > I don't believe in asceticism or sobriety, moderation is the middle path.

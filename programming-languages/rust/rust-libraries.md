@@ -11,3 +11,4 @@
 - [tokio](https://github.com/tokio-rs/tokio)
 - [nom](https://github.com/Geal/nom) - Parser combinators library.
 - [rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures.
+- [Futures await](https://github.com/alexcrichton/futures-await) - Async/await syntax for Rust and the [futures](https://crates.io/crates/futures) crate.
