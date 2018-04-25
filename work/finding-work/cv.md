@@ -14,6 +14,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using Pages as I find it a lot 
 - [Bryn Hanby-Roberts](http://bryn.co.uk/cv.pdf)
 - [Harlan Haskins](https://www.harlanhaskins.com/files/Resume.pdf)
 - [Ben Hoyt](http://benhoyt.com/cv/)
+- [Colin Raffel](http://colinraffel.com/cv.html) - Web.
 
 ## Templates
 - [Simple yet tasteful CV and cover letter LaTeX templates](https://github.com/lorenzosaino/simpletexcv)

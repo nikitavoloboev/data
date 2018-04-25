@@ -12,7 +12,7 @@ My main way of managing tasks is with __tags__. This lets me give scope to the t
 
 I create many smart lists of most common tags I want to jump to. I use `J` key and macros that activate the URL scheme to jump between the lists. Here is how my sidebar of these smart lists looks in full:
 
-![](https://i.imgur.com/qDNXBSH.png)
+![](https://i.imgur.com/xEhx5Xj.png)
 
 I also add time estimates to tasks like so:
 
