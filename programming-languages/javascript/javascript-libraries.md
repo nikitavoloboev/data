@@ -1,6 +1,7 @@
 # JS libraries
 ## Web dev frameworks
 - [Neutrino dev](https://github.com/mozilla-neutrino/neutrino-dev)
+- [San](https://github.com/baidu/san) - Flexible JavaScript component framework.
 
 ## Animation
 - [popmotion](https://github.com/Popmotion/popmotion) - Functional, reactive animation library.
