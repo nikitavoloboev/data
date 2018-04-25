@@ -8,19 +8,17 @@ It also has global quick add with a hotkey. Together with lists, priorities, pow
 <img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
 
 ## Managing tasks with tags
-My main way of managing tasks is with __tags__. This lets me give scope to the task I want to complete and lets me filter through the many thousands of tasks I have in my __Inbox__. Here is a brief glimpse of what tags I add:
-
-![](https://i.imgur.com/cZ9kdM1.png)
-
-I also add time estimates to tasks like so:
-
-![](https://i.imgur.com/G9wBnIB.png)
-
-This is useful because sometimes I can simply open a tag __10m__ and see all tasks with this short time frame so I can quickly complete them and get on build on the momentum. I don't add time estimates to all tasks but I try to add it where possible.
+My main way of managing tasks is with __tags__. This lets me give scope to the task I want to complete and lets me filter through the many thousands of tasks I have in my __Inbox__.
 
 I create many smart lists of most common tags I want to jump to. I use `J` key and macros that activate the URL scheme to jump between the lists. Here is how my sidebar of these smart lists looks in full:
 
 ![](https://i.imgur.com/qDNXBSH.png)
+
+I also add time estimates to tasks like so:
+
+![](https://i.imgur.com/y4o36Yr.png)
+
+This is useful because sometimes I can simply open a tag __10m__ and see all tasks with this short time frame so I can quickly complete them and get on build on the momentum. I don't add time estimates to all tasks but I try to add it where possible.
 
 I share the same philosophy of `Always` and `Temporary` projects as I have in my [Focus Trello board](../../focusing/focusing.md).
 
