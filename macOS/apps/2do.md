@@ -1,5 +1,5 @@
 # [2Do](https://www.2doapp.com/)
-I love GTD methodology, this application is phenomenal with helping me organise my tasks and things I want to do and achieve. Here is how my sidebar looks:
+I love GTD methodology. This app is phenomenal with helping me organise my tasks. Here is how my sidebar looks:
 
 <img src="https://i.imgur.com/z8GLl48.png" width="150">
 

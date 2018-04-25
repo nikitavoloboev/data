@@ -6,7 +6,6 @@ Below is a list of plugins I use.
 - [Cool](https://github.com/romainl/vim-cool) - Stop matching after search is done.
 - [Auto Pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
 - [Snippets](https://github.com/honza/vim-snippets) - Snippet files for various programming languages.
-- [Autoformat](https://github.com/Chiel92/vim-autoformat) - Easy code formatting.
 - [Neoformat](https://github.com/sbdchd/neoformat) - Format code.
 - [Dash](https://github.com/rizzatti/dash.vim) - Search Dash app.
 - [Nerdcommenter](https://github.com/scrooloose/nerdcommenter) - Quick comments.
@@ -19,15 +18,13 @@ Below is a list of plugins I use.
 - [Easy align](https://github.com/junegunn/vim-easy-align) - Simple, easy-to-use alignment.
 - [fzf](https://github.com/junegunn/fzf.vim) - Fzf search.
 - [WakaTime](https://github.com/wakatime/vim-wakatime) - Automatic time tracking.
-
-## Moving
-- [Easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed.
 - [Incsearch](https://github.com/haya14busa/incsearch.vim) - Improved incremental searching.
-- [Incsearch & Easymotion](https://github.com/haya14busa/incsearch-easymotion.vim) - Incsearch & easymotion integration.
+- [Easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed.
+- [Quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
 
 ## Git
 - [Fugitive](https://github.com/tpope/vim-fugitive) - Git wrapper.
-- [Signify](https://github.com/mhinz/vim-signify) - Show a diff using Vim its sign column.
+- [Gitgutter](https://github.com/airblade/vim-gitgutter) - Shows git diff in the gutter (sign column) and stages/undoes hunks.
 
 ## Deoplete
 - [Deoplete](https://github.com/Shougo/deoplete.nvim) - Asynchronous completion framework.
@@ -35,8 +32,7 @@ Below is a list of plugins I use.
 
 ## Looks
 - [Ayu theme](https://www.google.com/search?q=ayu-theme/ayu-vim)
-- [Airline](https://github.com/vim-airline/vim-airline) - Lean & mean status/tabline.
-- [Airline themes](https://github.com/vim-airline/vim-airline-themes) - Collection of themes for Airline.
+- [Lightline](https://github.com/itchyny/lightline.vim) - Light and configurable statusline/tabline.
 
 ## Go
 - [Vim Go](https://github.com/fatih/vim-go) - Go development.
@@ -53,14 +49,20 @@ Below is a list of plugins I use.
 
 # Interesting (not using)
 ## Utility
+- [Autoformat](https://github.com/Chiel92/vim-autoformat) - Easy code formatting.
 - [neoinclude.vim](https://github.com/Shougo/neoinclude.vim) - Include completion framework for neocomplete/deoplete.
 - [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - Adds snippet support.
 - [Polyglot](https://github.com/sheerun/vim-polyglot) - Solid language pack.
+- [Auto save](https://github.com/907th/vim-auto-save) - Automatically save changes to disk.
 - [Ag](https://github.com/rking/ag.vim) - Plugin for the_silver_searcher, 'ag'.
 - [Undotree](https://github.com/mbbill/undotree) - Undo history visualizer.
 - [Tabular](https://github.com/godlygeek/tabular) - Text filtering and alignment.
+- [Yank stack](https://github.com/maxbrunsfeld/vim-yankstack) - Lightweight implementation of emacs's kill-ring for Vim.
+- [Better whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting.
 - [Rename](https://github.com/danro/rename.vim) - Rename the current file in the vim buffer + retain relative path.
+- [Mkdir](https://github.com/pbrisbin/vim-mkdir) - Automatically create any non-existent directories before writing the buffer.
 - [NerdTree](https://github.com/scrooloose/nerdtree) - File system explorer.
+- [Commentary](https://github.com/tpope/vim-commentary) - Comment stuff out.
 - [NERDTree Git](https://github.com/Xuyuanp/nerdtree-git-plugin) - Plugin of NERDTree showing git status flags.
 - [Gina](https://github.com/lambdalisue/gina.vim) - Asynchronously control git repositories.
 - [Codi](https://github.com/metakirby5/codi.vim) - Interactive scratchpad for hackers.
@@ -78,10 +80,15 @@ Below is a list of plugins I use.
 - [Vimtex](https://github.com/lervag/vimtex) - LaTeX support.
 - [Goyo](https://github.com/junegunn/goyo.vim) - Distraction-free writing.
 - [Ultisnips](https://github.com/SirVer/ultisnips) - Ultimate snippet solution for Vim.
+- [Incsearch & Easymotion](https://github.com/haya14busa/incsearch-easymotion.vim) - Incsearch & easymotion integration.
+- [Last place](https://github.com/farmergreg/vim-lastplace) - Intelligently reopen files at your last edit position.
+- [Sleuth](https://github.com/tpope/vim-sleuth) - Heuristically set buffer options.
 
 ## Looks
 - [Dev icons](https://github.com/ryanoasis/vim-devicons) - Adds file type glyphs/icons to popular Vim plugins.
 - [Bufferline](https://github.com/bling/vim-bufferline) - Show the list of buffers in the command bar.
+- [Airline](https://github.com/vim-airline/vim-airline) - Lean & mean status/tabline.
+- [Airline themes](https://github.com/vim-airline/vim-airline-themes) - Collection of themes for Airline.
 
 ## Syntax
 - [Vim caddyfile](https://github.com/isobit/vim-caddyfile) - Caddyfile syntax support.
@@ -97,5 +104,11 @@ Below is a list of plugins I use.
 - [Rust](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
 
 ## Git
-- [Gitgutter](https://github.com/airblade/vim-gitgutter) - Shows git diff in the gutter (sign column) and stages/undoes hunks.
 - [Gitv](https://github.com/gregsexton/gitv) - See Git branching history.
+- [Signify](https://github.com/mhinz/vim-signify) - Show a diff using Vim its sign column.
+
+## Ruby
+- [Endwise](https://github.com/tpope/vim-endwise) - Wisely add "end" in ruby, endfunction/endif/more in vim script, etc.
+
+## Links
+- [Begin with init.vim](https://github.com/raviqqe/begin-with-init.vim) - Minimal neovim distribution as init.vim.

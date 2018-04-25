@@ -1,4 +1,4 @@
-# [Sublime Text](https://www.sublimetext.com) packages
+# [Sublime Text](https://www.sublimetext.com) plugins
 I use [Package Control](https://packagecontrol.io/installation) to manage my plugins. Below is a list of plugins I use.
 
 ## Utility
@@ -18,8 +18,9 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 ## Git
 - [GitGutter](https://github.com/jisaacks/GitGutter) - See git diff in gutter.
 
-## Interesting (not using)
-- [Git](https://github.com/kemayo/sublime-text-git) - Git integration.
-
 ## Theme
 - [Ayu](https://github.com/dempfi/ayu)
+
+# Interesting (not using)
+## Git
+- [Git](https://github.com/kemayo/sublime-text-git) - Git integration.

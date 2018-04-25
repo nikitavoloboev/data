@@ -13,7 +13,6 @@ I use [neovim](https://github.com/neovim/neovim) instead of vim and my vimrc can
 - If something doesn't work in vimrc, put the binding in the bottom of vimrc (perhaps something overrides it).
 
 ## Links
-- [My Vim snippets](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+%28vim%29&ref=searchresults)
 - [You don't grok vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
 - [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/) - Quite funny.
 - [Macros](http://vim.wikia.com/wiki/Macros)
