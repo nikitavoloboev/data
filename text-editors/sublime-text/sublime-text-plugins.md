@@ -3,7 +3,6 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 
 ## Utility
 - [Six](https://github.com/guillermooo/Six) - Vim emulation.
-- [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons for Improved Visual Grepping.
 - [Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile) - File creation plugin.
 - [DashDoc](https://github.com/farcaller/DashDoc) - Dash integration.
 - [Dockerfile Syntax Highlighting](https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting)
@@ -11,6 +10,9 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 - [SendCode](https://github.com/randy3k/SendCode) - Send code and text to macOS and Linux Terminals, iTerm, ConEmu, Cmder, Tmux, TerminalView; R (RStudio), Julia, IPython.
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Code linting framework.
 - [WakaTime](https://wakatime.com/sublime-text) - Automatic time tracking and metrics generated from your programming activity.
+
+## Looks
+- [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons for Improved Visual Grepping.
 
 ## Javascript
 - [JSPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - Plugin for Prettier, the opinionated code formatter.
@@ -22,5 +24,8 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 - [Ayu](https://github.com/dempfi/ayu)
 
 # Interesting (not using)
+## Looks
+- [DistractionFreeWindow](https://github.com/aziz/DistractionFreeWindow) - Sublime Text's "Distraction free mode" but not full-screen.
+
 ## Git
 - [Git](https://github.com/kemayo/sublime-text-git) - Git integration.

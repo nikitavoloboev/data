@@ -9,3 +9,4 @@
 
 ## Other
 - [micro github](https://github.com/mxstbr/micro-github) - Tiny microservice that makes adding authentication with GitHub to your application easy.
+- [pico.js](https://github.com/tehnokv/picojs) - Face detection library in 200 lines of JavaScript.

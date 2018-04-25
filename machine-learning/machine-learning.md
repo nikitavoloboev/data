@@ -24,3 +24,4 @@ Still a mystery to me mostly due to my lack of mathematical maturity.
 - [Learn ML in 3 months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months#readme)
 - [Deep Learn](https://github.com/GauravBh1010tt/DeepLearn#readme) - Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn.
 - [Building Brundage Bot](https://hackernoon.com/building-brundage-bot-10252facf3d1)
+- [Summaries of ML papers](https://github.com/aleju/papers)
