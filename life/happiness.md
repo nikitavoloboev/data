@@ -19,7 +19,7 @@ For me personally, I try to be very methodical with what makes me happy and what
 
 Writing it all down is helpful. But what matters is going through and being mindful enough to follow through with these rules I wrote down for myself. Being mindful of my body and thoughts and not attaching myself to needless things.
 
-One other thing I found helped me the most in life. Is expressing myself. Expressing my thoughts, feelings and frustrations. Be it through music, writing, drawing or code. I never want to hold back what I feel. I embrace it. I also find great joy in self improvement and honing [my workflow](../sharing/my-workflow.md). It is an endless persuit with no end goal in sight and that brings me happiness. Because no matter what happens in life. I can strive to improve myself. Be a better person that I was before.
+One other thing I found helped me the most in life. Is expressing myself. Expressing my thoughts, feelings and frustrations. Be it through music, writing, drawing or code. I never want to hold back what I feel. I embrace it. I also find great joy in self improvement and honing [my workflow](../sharing/my-workflow.md). It is an endless persuit with no end goal in sight and that brings me happiness. Because no matter what happens in life. I can strive to improve myself. Be a better person than I was before.
 
 I love to live minimally and only use what I really need. Think about things that matter to me. Cutting out the noise and focusing on what's important to me. I love cutting out any kind of distractions from my life. I love not keeping everything in my head and letting software and tools do the things they are good at. Storing and retrieving information. Events, todos, tasks and projects.
 
@@ -35,4 +35,4 @@ I practice this art of minimising and focusing on what's important to me & remov
 - Predictable sleep patterns. Set an alarm both to wake up and go to sleep.
 - Let go of societies values and expectations. If you feel a pressure to be successful, let that go. Swallow your pride, stay away from the desire to fullfill other people's expectation of you (if you can).
 - Help people around you. If you are a good musician, start a meetup group in a park and teach people how to play guitar. If you are good at coding, start a meetup group in the public library to teach people how to code. Limit your students to 2-3 and try to make a deep, positive impact in their lives.
-- From my experience, practicing empathy and helping others around me helped alot. Be aware though, don't fall into the trap of trying to measure success by quantity. Its better to help 2-3 people become REALLY REALLY good than to help 100 people get average skills.
+- From my experience, practicing empathy and helping others around me helped a lot. Be aware though, don't fall into the trap of trying to measure success by quantity. Its better to help 2-3 people become really really good than to help 100 people get average skills.
