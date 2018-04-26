@@ -1,11 +1,6 @@
 # Machine learning
 Making computers learn using algorithms and math.
 
-Still a mystery to me mostly due to my lack of mathematical maturity.
-
-## Applications
-- [Code and data for paper "Deep Painterly Harmonization"](https://github.com/luanfujun/deep-painterly-harmonization)
-
 ## Notes
 - A big part of the utility of math (especially in ML) is having breadth rather than depth. The strategy of picking out specific things you don't know from papers and looking them up is only effective if you have the breadth in your background to understand the answers you find.
 	- Broad knowledge is also what helps you manage the exponential tree of complexity you're encountering.
@@ -25,3 +20,4 @@ Still a mystery to me mostly due to my lack of mathematical maturity.
 - [Deep Learn](https://github.com/GauravBh1010tt/DeepLearn#readme) - Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn.
 - [Building Brundage Bot](https://hackernoon.com/building-brundage-bot-10252facf3d1)
 - [Summaries of ML papers](https://github.com/aleju/papers)
+- [Code and data for paper "Deep Painterly Harmonization"](https://github.com/luanfujun/deep-painterly-harmonization)

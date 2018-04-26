@@ -5,3 +5,6 @@
 
 ## Notes
 - [Put a price on it](https://www.youtube.com/watch?v=0CDXJ6bMkMY). And sell.
+
+## Links
+- [Think about Equity](http://foundersatwork.posthaven.com/think-about-equity)

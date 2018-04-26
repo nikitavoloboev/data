@@ -142,3 +142,4 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Morgin Madison](https://soundcloud.com/morginmadison) - [What You Want](https://www.youtube.com/watch?v=SKKT7MecFWU)
 - [Hot Sugar](https://soundcloud.com/hotsugar) - [The girl who stole my Tamagotchi](https://www.youtube.com/watch?v=NF6PPz8LunY)
 - [Degiheugi](https://soundcloud.com/degiheugi) - [The L.S.A. Theme](https://www.youtube.com/watch?v=-f0Nyt4LvBs)
+- [The Dukes Of Stratosphear](https://www.discogs.com/artist/257163-The-Dukes-Of-Stratosphear) - [Vanishing Girl](https://www.youtube.com/watch?v=0bbqezgfqD8)
