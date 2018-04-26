@@ -240,6 +240,7 @@
 		- [Pytorch](machine-learning/libraries/pytorch.md)
 		- [Keras](machine-learning/libraries/keras.md)
 		- [TensorFlow](machine-learning/libraries/tensorflow.md)
+- [Computer vision](computer-vision/computer-vision.md)
 - [Package managers](package-managers/package-managers.md)
 	- [Nix](package-managers/nix.md)
 	- [Homebrew](package-managers/homebrew.md)
