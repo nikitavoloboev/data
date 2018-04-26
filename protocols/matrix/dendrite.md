@@ -1,5 +1,5 @@
 # [Dendrite](https://github.com/matrix-org/dendrite)
-Dendrite is matrix homeserver written in go.
+Dendrite is Matrix homeserver written in go.
 
 It is a rewrite of [synapse](https://github.com/matrix-org/synapse) that was written in Python which could not scale.
 
