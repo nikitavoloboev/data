@@ -1,5 +1,5 @@
 # Happiness
-For me personally, happiness is an emotional state of no anxiety and fear. A feeling of satisfaction that what I am doing now is what I want to be doing.
+Happiness is an emotional state of no anxiety and fear. A feeling of satisfaction that what I am doing now is what I want to be doing.
 
 [Mindfulness](../mindfulness/mindfulness.md) is the best tool I have in staying happy no matter what the circumstance is. Life is suffering and it's best to acknowledge that. In that you cannot avoid pain and hurt. Even if you try really hard. You will get hurt. You will mess up and you will feel regret. It is logical then to accept these feelings as they are. No matter how bad they may feel in the moment. The key to happiness is detachment. The ability to mindfully observe the feelings and thoughts you have and _choose_ what you think is the right thing to do in the moment. The thoughts you have and feelings you feel are your body's reaction to the enviroment it is in.
 
@@ -19,7 +19,7 @@ For me personally, I try to be very methodical with what makes me happy and what
 
 Writing it all down is helpful. But what matters is going through and being mindful enough to follow through with these rules I wrote down for myself. Being mindful of my body and thoughts and not attaching myself to needless things.
 
-One thing I found helped me the most in life. Is expressing myself. Expressing my thoughts, feelings and frustrations. Be it through music, writing, drawing or code. I never want to hold back what I feel. I embrace it. I also find great joy in self improvement and honing [my workflow](../sharing/my-workflow.md). It is an endless persuit with no end goal in sight and that brings me happiness. Because no matter what happens in life. I can strive to improve myself. Be a better person that I was before.
+One other thing I found helped me the most in life. Is expressing myself. Expressing my thoughts, feelings and frustrations. Be it through music, writing, drawing or code. I never want to hold back what I feel. I embrace it. I also find great joy in self improvement and honing [my workflow](../sharing/my-workflow.md). It is an endless persuit with no end goal in sight and that brings me happiness. Because no matter what happens in life. I can strive to improve myself. Be a better person that I was before.
 
 I love to live minimally and only use what I really need. Think about things that matter to me. Cutting out the noise and focusing on what's important to me. I love cutting out any kind of distractions from my life. I love not keeping everything in my head and letting software and tools do the things they are good at. Storing and retrieving information. Events, todos, tasks and projects.
 
@@ -27,7 +27,7 @@ I practice this art of minimising and focusing on what's important to me & remov
 
 ## Other things that help
 - Maintaining a social support network (and having a dog).
-- An hour of light to moderate cardio _every_day_.
+- An hour of light to moderate cardio _every day_.
 - Focusing on hobbies.
 - Focusing on pragmatism and thoughtfulness in every action (or at least, aspiring to). Stoicism and virtue ethics.
 - Keep asking for help, trying new things. Someone somewhere has an answer for you. It also helps if you have someone in your life to serve as your “patient advocate”, keeping you honest, on track, to help calibrate your self reporting.
