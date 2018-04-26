@@ -1,5 +1,5 @@
 # Happiness
-Happiness is an emotional state of no anxiety and fear. A feeling of satisfaction that what I am doing now is what I want to be doing.
+For me personally, happiness is an emotional state of no anxiety and fear. A feeling of satisfaction that what I am doing now is what I want to be doing.
 
 [Mindfulness](../mindfulness/mindfulness.md) is the best tool I have in staying happy no matter what the circumstance is. Life is suffering and it's best to acknowledge that. In that you cannot avoid pain and hurt. Even if you try really hard. You will get hurt. You will mess up and you will feel regret. It is logical then to accept these feelings as they are. No matter how bad they may feel in the moment. The key to happiness is detachment. The ability to mindfully observe the feelings and thoughts you have and _choose_ what you think is the right thing to do in the moment. The thoughts you have and feelings you feel are your body's reaction to the enviroment it is in.
 
@@ -31,7 +31,7 @@ I practice this art of minimising and focusing on what's important to me & remov
 - Focusing on hobbies.
 - Focusing on pragmatism and thoughtfulness in every action (or at least, aspiring to). Stoicism and virtue ethics.
 - Keep asking for help, trying new things. Someone somewhere has an answer for you. It also helps if you have someone in your life to serve as your “patient advocate”, keeping you honest, on track, to help calibrate your self reporting.
-- Sunlight. Get outside. Or take at least 5000 IU vitamin D.
+- Sunlight. Get outside. Or take at least 3000 IU vitamin D.
 - Predictable sleep patterns. Set an alarm both to wake up and go to sleep.
 - Let go of societies values and expectations. If you feel a pressure to be successful, let that go. Swallow your pride, stay away from the desire to fullfill other people's expectation of you (if you can).
 - Help people around you. If you are a good musician, start a meetup group in a park and teach people how to play guitar. If you are good at coding, start a meetup group in the public library to teach people how to code. Limit your students to 2-3 and try to make a deep, positive impact in their lives.
