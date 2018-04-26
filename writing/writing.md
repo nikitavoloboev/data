@@ -25,9 +25,9 @@ Be aware of pacing between words and sentences. The sententes ideally should flo
 Replace words like `really like` with `love` or other more appropriate words that save space writing and are more relevant to what I am trying to say.
 
 ## Know what to write next
-I keep a private Trello board where I drop ideas I have of what I want to write next. Then I set due dates for articles I want to write and start working on them. Most often it is the simple act of starting to write something that makes something I can actually publish that I like. Here is how my Trello board looks:
+I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have of what I want to write next. I set due dates for articles I want to write and start working on them. Most often it is the simple act of starting to write something that makes something I can actually publish that I like. Here is how my Trello board looks:
 
-![](https://i.imgur.com/S2JEESU.png)
+![](https://i.imgur.com/U8JjGl7.png)
 
 ## [Focus. Format. Framing.](https://www.youtube.com/watch?v=_mQNwL8HkS0)
 - Focus

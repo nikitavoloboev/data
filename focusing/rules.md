@@ -13,7 +13,7 @@ Some simple rules to follow for myself doing things.
 - Be honest. Don't lie to myself nor anyone else.
 - Embrace change. Never complain about anything. Be proactive.
 - Adjust these rules and my workflow to match what I have learned.
-- Follow these rules. Take it easy. You only live now.
+- Follow these rules. [Take it easy](../life/happiness.md). You only live now.
 
 ## Work
 - Do deep work. Minimise distractions. Say __no__ to things. Set constraints.

@@ -31,6 +31,7 @@
 	- [Song covers](music/song-covers.md)
 	- [Music production](music/music-production.md)
 - [Life](life/life.md)
+	- [Happiness](life/happiness.md)
 	- [Self expression](life/self-expression.md)
 	- [Time](life/time.md)
 	- [Memories](life/memories.md)
