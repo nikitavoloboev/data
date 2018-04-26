@@ -19,7 +19,7 @@
 - [Docker](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+docker&ref=searchresults)
 - [Alfred](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+alfred&ref=searchresults)
 
-# Personal
+## Personal
 - [Configs](https://gist.github.com/search?l=Text&q=user%3Anikitavoloboev+config)
 
 ## Other

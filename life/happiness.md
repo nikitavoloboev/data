@@ -1,5 +1,5 @@
 # Happiness
-For me personally, happiness is an emotional state of no anxiety and fear. A feeling of satisfaction that what I am doing now is what I want to be doing.
+Happiness is an emotional state of no anxiety and fear. A feeling of satisfaction that what I am doing now is what I want to be doing.
 
 [Mindfulness](../mindfulness/mindfulness.md) is the best tool I have in staying happy no matter what the circumstance is. Life is suffering and it's best to acknowledge that. In that you cannot avoid pain and hurt. Even if you try really hard. You will get hurt. You will mess up and you will feel regret. It is logical then to accept these feelings as they are. No matter how bad they may feel in the moment. The key to happiness is detachment. The ability to mindfully observe the feelings and thoughts you have and _choose_ what you think is the right thing to do in the moment. The thoughts you have and feelings you feel are your body's reaction to the enviroment it is in.
 
