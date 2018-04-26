@@ -270,6 +270,7 @@
 - [Analytics](analytics/analytics.md)
 - [Databases](databases/databases.md)
 	- [PostgreSQL](databases/postgresql.md)
+	- [Redis](databases/redis.md)
 	- [DynamoDB](databases/dynamodb.md)
 	- [FoundationDB](databases/foundationdb.md)
 	- [SQL](databases/sql/sql.md)
