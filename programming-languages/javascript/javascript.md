@@ -1,5 +1,5 @@
 # [Javascript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
-Still learning it. Although it's a fairly simple language. The amount of tooling and libraries around it is immense.
+It's a fairly simple language and the amount of tooling and libraries around it is immense.
 
 I love using [Prettier](https://github.com/prettier/prettier) for never having to think about styling code again. [AirBnb](https://github.com/airbnb/javascript) style guide is pretty awesome though.
 

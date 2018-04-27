@@ -55,11 +55,6 @@ Some simple rules to follow for myself doing things.
 - Share everything I know and made.
 - Share the link on the appropriate website/forum/subreddit. Tweet it.
 
-## Share files
-- Temporary shares with [Transfer](https://transfer.sh).
-- More permanent shares are shared with Dropbox (wiki & articles). Don't delete items from _shares_ folder unless the reference to it from either wiki or articles is gone.
-- If the files are stored on GitHub somewhere, I can use [Rawgit](http://rawgit.com/) to get a downloadable link of the raw file.
-
 ## Health
 - Exercise daily.
 - [Sleep](../sleep/sleep.md) at least 7 hours every day.
@@ -81,6 +76,11 @@ Some simple rules to follow for myself doing things.
 
 ## Communication
 - Say things that [contribute to the conversation](https://discourse.elm-lang.org/t/how-we-talk-about-other-languages/972/7). Be honest.
+
+## Share files
+- Temporary shares with [Transfer](https://transfer.sh).
+- More permanent shares are shared with Dropbox (wiki & articles). Don't delete items from _shares_ folder unless the reference to it from either wiki or articles is gone.
+- If the files are stored on GitHub somewhere, I can use [Rawgit](http://rawgit.com/) to get a downloadable link of the raw file.
 
 ## Shipping a product
 - Have a nice looking website. The first look matters.

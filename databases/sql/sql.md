@@ -1,4 +1,6 @@
-# SQL
+# [SQL](http://www.wikiwand.com/en/SQL)
 ## Notes
-- high cardinality - unique
-- low cardinality - less unique
+- High cardinality = unique. Low cardinality = less unique.
+
+## Links
+- [Learn SQL the hard way](https://learncodethehardway.org/sql/)
