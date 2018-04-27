@@ -226,6 +226,7 @@
 - [History](history/history.md)
 - [Travel](travel/travel.md)
 	- [Nomad](travel/nomad.md)
+	- [Countries](travel/countries/countries.md)
 - [Business](business/business.md)
 	- [Startups](business/startups/startups.md)
 	- [Landing pages](business/landing-pages.md)
