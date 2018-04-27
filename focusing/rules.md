@@ -62,6 +62,8 @@ Some simple rules to follow for myself doing things.
 
 ## Health
 - Exercise daily.
+- [Sleep](../sleep/sleep.md) at least 7 hours every day.
+- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
 - Don't purposefully hurt myself in any way.
 
 ## Nutrition
@@ -69,8 +71,9 @@ Some simple rules to follow for myself doing things.
 - Drink water, coffee and tea. No added sugar in the drinks.
 - Always have water/tea next to me. Fill up the water/tea if it empties.
 - No meat or dairy products. Health and [ethical reasons](../life/compassion.md).
-- Focus on [Whole Food, Pescetarian diet](../health/nutrition/foods.md).
+- Focus on [whole food, pescetarian diet](../health/nutrition/foods.md).
 - Eat a salad every morning.
+- Take [Vitamin D & Vitamin B12](../health/nutrition/supplements.md) every morning.
 
 ## Compassion
 - Value each animal’s life as equal to that of my own. Don't eat anyone.

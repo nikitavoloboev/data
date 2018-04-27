@@ -25,3 +25,4 @@ Here are some _other_ things that I find interesting that don't really have a ca
 
 ## Other
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
+- [Hashicorp principles](https://www.hashicorp.com/our-principles)

@@ -14,3 +14,4 @@ The core premise for React is that UIs are simply a projection of data into a di
 - [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic#readme)
 - [Didact](https://github.com/hexacta/didact) - DIY guide to build your own React.
 - [ReactiFlux Learning](https://www.reactiflux.com/learning/)
+- [Tom Occhino and Jordan Walke first presenting React](https://www.youtube.com/watch?v=GW0rj4sNH2w)
