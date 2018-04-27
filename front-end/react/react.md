@@ -13,3 +13,4 @@ The core premise for React is that UIs are simply a projection of data into a di
 - [Introduction to The Beginner's Guide to ReactJS](https://egghead.io/lessons/react-introduction-to-the-beginner-s-guide-to-reactjs)
 - [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic#readme)
 - [Didact](https://github.com/hexacta/didact) - DIY guide to build your own React.
+- [ReactiFlux Learning](https://www.reactiflux.com/learning/)
