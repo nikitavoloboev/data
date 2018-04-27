@@ -3,7 +3,6 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using Pages as I find it a lot 
 
 ## Interesting CVs
 - [Joshua Cockrell](http://joshcockrell.com/joshua_cockrell_resume.pdf) - Minimal and to the point.
-- [Greate CV template](https://github.com/barrucadu/cv)
 - [Safia Abdalla](https://cloudup.com/cqozUYp889k)
 - [Joseph Combs](https://www.josephecombs.com/resume/)
 - [Kiliankoe](https://github.com/kiliankoe/cv) - Open Source, made with LaTeX.
@@ -18,6 +17,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using Pages as I find it a lot 
 
 ## Templates
 - [Simple yet tasteful CV and cover letter LaTeX templates](https://github.com/lorenzosaino/simpletexcv)
+- [Great CV template](https://github.com/barrucadu/cv)
 
 ## Notes
 - Experience > Education

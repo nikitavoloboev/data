@@ -1,3 +1,3 @@
 # Hardware
-## Links
-- [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide)
+## Interesting
+- [Eero](https://eero.com/) - WiFi router.
