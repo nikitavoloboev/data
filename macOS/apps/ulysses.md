@@ -7,8 +7,9 @@ All your writing in one place is the motto and the underlying design of the app.
 
 It also has pretty awesome export functions that let you export the text you write to PDF, ePub and HTML. I mostly use it's ability to export text to Medium.
 
-I use [New Wave 80s](https://styles.ulyssesapp.com/bundle/New+Wave+80s/5407d108ce6703c6350c1977) theme in dark more when I write. Here is how it looks:
-![](https://i.imgur.com/k0Gp9fH.png)
+I use [Ayu](https://styles.ulyssesapp.com/bundle/Ayu/5ae3545d5075368b0270daa9) theme in dark mode when I write. Here is how it looks:
+
+![](https://i.imgur.com/t18JhxI.png)
 
 I describe my thoughts and approach to writing [here](../../writing/writing.md).
 
