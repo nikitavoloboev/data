@@ -29,7 +29,7 @@ I also have Focus trigger Do Not Disturb mode by calling [this CLI tool](https:/
 
 The things I work on during this 90 min focus session is specified by an event in [Fantastical](../macOS/apps/fantastical.md). The events are simply names of projects on which I want to work on in that time. Here are the most common events I use and what I do during them:
 - GitHub - I use [Ship](https://www.realartists.com/index.html) app and work through GitHub issues in `Up Next` list.
-- Inbox - I open [2Do](../macOS/apps/2do.md) and work through the most priorotised tasks for `Today`.
+- Inbox - I open [2Do](../macOS/apps/2do.md) and work through the most prioritised tasks for `Today`.
 - Books - I open [PDF Expert](https://pdfexpert.com/) and read through the [book I set out to read](https://trello.com/b/MOrnm2aN).
 - Research papers - I open [PDF Expert](https://pdfexpert.com/) and read through the [research paper I set out to read](https://trello.com/b/EKl1Ie3q).
 - Learn - I choose a topic I want to learn from [Trello](https://trello.com/b/cu32qF3q) and learn it. Usually I start with wiki and resources from [LA](../projects/learn-anything.md).
