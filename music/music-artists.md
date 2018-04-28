@@ -143,3 +143,4 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Hot Sugar](https://soundcloud.com/hotsugar) - [The girl who stole my Tamagotchi](https://www.youtube.com/watch?v=NF6PPz8LunY)
 - [Degiheugi](https://soundcloud.com/degiheugi) - [The L.S.A. Theme](https://www.youtube.com/watch?v=-f0Nyt4LvBs)
 - [The Dukes Of Stratosphear](https://www.discogs.com/artist/257163-The-Dukes-Of-Stratosphear) - [Vanishing Girl](https://www.youtube.com/watch?v=0bbqezgfqD8)
+- [Os Tincoãs](https://www.discogs.com/artist/2371690-Os-Tincoãs) - [Deixa A Gira Girar (j g b edit)](https://www.youtube.com/watch?v=3xt8Mp8oWzc)
