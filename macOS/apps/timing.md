@@ -5,7 +5,7 @@ The fact that I can combine active and passive tracking together is very powerfu
 
 My projects look like this now:
 
-![](https://i.imgur.com/ralsO5H.png)
+![](https://i.imgur.com/Q5Bgw4u.png)
 
 And my preferred `Report` view is:
 
