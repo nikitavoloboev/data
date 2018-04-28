@@ -12,7 +12,7 @@ Some simple rules to follow for myself doing things.
 - If an item/thing doesn't provide me any value, get rid of it.
 - Be honest. Don't lie to myself nor anyone else.
 - Embrace change. Never complain about anything. Be proactive.
-- Adjust these rules and my workflow to match what I have learned.
+- Adjust these rules and [my workflow](../sharing/my-workflow.md) to match what I have learned.
 - Follow these rules. [Take it easy](../life/happiness.md). You only live now.
 
 ## Work

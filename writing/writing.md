@@ -69,3 +69,4 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 - [A blog post about blog posts](https://medium.com/@naomi_pen/a-blog-post-about-blog-posts-4bb6a6ce0772)
 - [Learnup](https://leanpub.com/) - Service to publish books.
 - [TLDR of MailChimp's writing style guide](https://styleguide.mailchimp.com/tldr/)
+- [You Should Write Blogs](https://sites.google.com/site/steveyegge2/you-should-write-blogs)

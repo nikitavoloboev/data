@@ -1,4 +1,5 @@
 # [Matrix](https://matrix.org)
+Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) is a web and mobile interface to the Matrix system.
 
 ## Bridges
 - [Matrix IRCd](https://github.com/matrix-org/matrix-ircd) - Bridge to IRC.
