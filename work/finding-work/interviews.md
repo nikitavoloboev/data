@@ -11,3 +11,4 @@ Don't have a lot of experience with interviews sadly. But I hope to change that 
 - [Leetcode](https://leetcode.com/) - Collection of 700+ interview coding challenges.
 - [Preparing for SRE interview](https://blog.balthazar-rouberol.com/preparing-the-sre-interview.html)
 - [Developer questions](https://github.com/ggomaeng/better-developer-quotes#readme)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university#readme) - Complete computer science study plan to become a software engineer.

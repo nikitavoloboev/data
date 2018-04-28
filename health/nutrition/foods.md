@@ -20,6 +20,8 @@ I exclude all foods that are not healthy to me and experiment with [recipes](coo
 - Pistachios
 - Almonds
 - Cashews
+- Hazelnuts
+- Brazil nuts
 
 ## Legumes
 - Beans

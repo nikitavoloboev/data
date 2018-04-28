@@ -83,6 +83,7 @@ Below is a list of plugins I use.
 - [Incsearch & Easymotion](https://github.com/haya14busa/incsearch-easymotion.vim) - Incsearch & easymotion integration.
 - [Last place](https://github.com/farmergreg/vim-lastplace) - Intelligently reopen files at your last edit position.
 - [Sleuth](https://github.com/tpope/vim-sleuth) - Heuristically set buffer options.
+- [Obsession](https://github.com/tpope/vim-obsession) - Continuously updated session files.
 
 ## Looks
 - [Dev icons](https://github.com/ryanoasis/vim-devicons) - Adds file type glyphs/icons to popular Vim plugins.

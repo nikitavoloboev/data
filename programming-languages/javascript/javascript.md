@@ -1,4 +1,4 @@
-# [Javascript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+# [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
 It's a fairly simple language and the amount of tooling and libraries around it is immense.
 
 I love using [Prettier](https://github.com/prettier/prettier) for never having to think about styling code again. [AirBnb](https://github.com/airbnb/javascript) style guide is pretty awesome though.

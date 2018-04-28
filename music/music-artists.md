@@ -90,7 +90,7 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Ott](https://soundcloud.com/ottsonic) - [The Bicycle Of The Sky](https://www.youtube.com/watch?v=sGJKsWSsPr0)
 - [Mount Kimbie](https://soundcloud.com/mountkimbie) - [Before I Move Off](https://www.youtube.com/watch?v=-x1TFxao0oI)
 - ExT - [Output](https://www.youtube.com/watch?v=fhwbsu6Gfo0)
-
+- [Shakey Graves](https://www.shakeygraves.com) - [Dearly Departed](https://www.youtube.com/watch?v=F3jk3pflofk)
 ## Interesting artists
 - [Emapea](https://soundcloud.com/emapea)
 - [Only emily](https://soundcloud.com/onlyemilymusic) - [Evenings](https://soundcloud.com/onlyemilymusic/evenings)
@@ -144,3 +144,5 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Degiheugi](https://soundcloud.com/degiheugi) - [The L.S.A. Theme](https://www.youtube.com/watch?v=-f0Nyt4LvBs)
 - [The Dukes Of Stratosphear](https://www.discogs.com/artist/257163-The-Dukes-Of-Stratosphear) - [Vanishing Girl](https://www.youtube.com/watch?v=0bbqezgfqD8)
 - [Os Tincoãs](https://www.discogs.com/artist/2371690-Os-Tincoãs) - [Deixa A Gira Girar (j g b edit)](https://www.youtube.com/watch?v=3xt8Mp8oWzc)
+- [Drake](http://www.drakeofficial.com/music.html) - [Nice For What](https://www.youtube.com/watch?v=U9BwWKXjVaI)
+- [Fantasy Guys](https://soundcloud.com/fantasy-guys) - [Jazzy Kisses](https://www.youtube.com/watch?v=EaEBp2800eo)
