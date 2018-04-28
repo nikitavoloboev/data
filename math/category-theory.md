@@ -9,6 +9,7 @@
 - [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/)
 - [Category Theory for Programmers PDF](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+- [Learn You Some Category Theory](https://jozefg.bitbucket.io/posts/2013-10-22-category-theory-in-haskell.html)
 
 ## Images
 ![](https://i.imgur.com/4Qcz4tc.png)

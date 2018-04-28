@@ -6,6 +6,7 @@ I use [Reeder](../macOS/apps/reeder.md) to stay on top of my favourite blogs I f
 ## Favourite blogs
 - [Brandur](https://brandur.org/articles)
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html)
+- [Danny Gratzer](https://jozefg.bitbucket.io/about.html)
 
 ## Links
 - [Interesting Blogs](https://github.com/learn-anything/blogs#readme)

@@ -11,3 +11,4 @@ A language I want to learn.
 - [FP course](https://github.com/data61/fp-course)
 - [Russian Haskell book FAQ](https://www.ohaskell.guide/haskell-faq.html)
 - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
+- [Please Don't Learn Category Theory to Learn Haskell](https://jozefg.bitbucket.io/posts/2013-10-14-please-dont-learn-cat-theory.html)
