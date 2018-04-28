@@ -32,20 +32,12 @@ Some simple processes to follow when doing things.
 2. Plan the day ahead in context of my Focus board estimates.
 3. Go to sleep before 11 pm. Ideally.
 
-## Week review in [looking back](../looking-back/looking-back.md)
+## Week review
 1. Review Timing & WakaTime. Evaluate. See what can be improved.
-2. Add images from [Instagram](https://www.instagram.com/nikitavoloboev) to `Photos`.
 
-## Month review in [looking back](../looking-back/looking-back.md)
+## Month summary in [looking back](../looking-back/looking-back.md)
 1. Review Timing & WakaTime. Add screenshot of Timing (monthly view).
 1. Write summary. Evaluate. See what can be improved.
-
-## Start new week
-1. Set projects I want to focus on this week in `Focus`. Set time estimates.
-
-## Start new month
-1. Create new entry in [looking back](../looking-back/looking-back.md).
-2. Add link to music listened (Artists, Tracks, Albums from Last.fm) & Twitter monthly tweets.
 
 ## Write a book
 1. Know what I want to write about. Write the book.
