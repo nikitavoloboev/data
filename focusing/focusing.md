@@ -20,6 +20,7 @@ I use the same `Focus on cards` approach for all my [other Trello boards](../sha
 
 ## Focus sessions
 I use [Focus app](https://heyfocus.com) to block many non work related websites for 90 minutes (front pages of Hacker News, Reddit, ..) every 2 hours.
+
 ![](https://i.imgur.com/OwIlq6v.png)
 
 ![](https://i.imgur.com/OsAazBy.png)
