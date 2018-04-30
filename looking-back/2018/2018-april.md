@@ -1,4 +1,30 @@
 # 2018 April
+## Summary
+I changed a lot this month. Starting to pay a __lot__ of attention to both my physical and mental health. I stopped completely to eat _bad_ food and I feel incredible. Started to play tennis but will be playing it a lot more the next months. Refined quite a few things in my workflow and started to love simple Zen mode interfaces for writing code. [Goyo](https://github.com/junegunn/goyo.vim) for Vim. Zen mode for VS Code.
+
+These monthly looking back pieces will be a bit different going forward. Mostly because although I enjoy occasionally writing in this `Diary`, I think at times it is a bit out of place. So I will be changing it up a bit for the future but will see what works best.
+
+Really happy with the piece I wrote on [happiness](../../life/happiness.md). I had the thoughts of writing either blog piece on it for quite some time but never had the courage to do it because it's not something you learn once and forget about. My ways of reaching and staying happy will change with time but I am happy that I genuniely know now what I want and need to focus on in life first and foremost. Proper diet. Daily exercise. Proper sleep. Building and maintating relations that matter. And a sense of purpose for what I want to do.
+
+I have been feeling frustrated a lot by university. But I learned over this time that frustration is really not effective stance as it solves none of the problems. And being frustrated all the time and complaining about things achieves nothing. I've read a lot over the years on the things [most people consider important in life](https://news.ycombinator.com/item?id=16950507). But it is one thing to read it. And another to actually follow it. The approach that I follow now and really love is pretty simple. Start small. Don't be so harsh on myself. And be mindful. Change doesn't come instantly and if you have a vision of what you want to do and make in life. Just keep at it.
+
+One another thing this month taught me. Or rather strengthe in me. Is my ressilience to failures. Some failures happen for a reason. Some just happen because life. There is no reason to make it worse for yourself and dwell on it. Investigate why you failed. And do your best to avoid getting yourself in the same situation in the future.
+
+Also avocados and salads are amazing. 🥑
+
+## Photos
+![](https://scontent-ams3-1.cdninstagram.com/vp/3bb87331b05475f949fcb3df6ff8df2c/5B74C236/t51.2885-15/e35/29715437_330845627439683_7882915393767997440_n.jpg)
+> [(3)](https://www.instagram.com/p/BhG6x75j2AA/)
+
+![](https://scontent-frt3-2.cdninstagram.com/vp/68c23def62067967114cd407d866d843/5B74F7EE/t51.2885-15/e35/29715719_235957613628981_3447830682431127552_n.jpg)
+> [(8)](https://www.instagram.com/p/BhUcpq0D3Ek/)
+
+![](https://scontent-ams3-1.cdninstagram.com/vp/e942ae566b5a259012222c2f0074c27a/5B74EC13/t51.2885-15/e35/30076839_161320084508332_5977679832681545728_n.jpg)
+> [(17)](https://www.instagram.com/p/BhrMOhwHz02/)
+
+![](https://scontent-ams3-1.cdninstagram.com/vp/104b933adaabba43d5fce56794cdec3b/5B5C272B/t51.2885-15/e35/30080145_121692075290372_7100262014726963200_n.jpg)
+> [(19) 🌸](https://www.instagram.com/p/BhxDDXbnWRv/)
+
 ## Diary
 - (2) Stopped listening to music for a while now. I now listen to music as a way to find new tunes and relax rather than as a way to listen to things just to dull the background noise. I use [Noizio](http://noiz.io) for that now and love it. So my last.fm is looking a bit empty compared to the previous months.
 - (2) Also renamed `Notes` to `Diary` as I think I found a perfect workflow that really works for me in doing this kind of diary. `Shared`, `Diary` and `Photos` is all I want to remember from the month. Private memories and notes will still be in Day One. A `Travel` section would be really awesome to have too.
@@ -38,19 +64,6 @@
 - (24) One last thing I want to note. Is that no one actually cares about failures. Everyone just looks at successes in life as that's all that ever gets shown. Failures are something personal and no one genuinely cares that I got rejected for GSOC. Or that LA was twice rejected by YC or that I have been irresponsible with my university degree. It's just noise to people. Everyone wants to see the 'good stuff'. Failure is part of life. You take risks. You learn from mistakes. You change your approach and focus on things that you think matter to you now. The beauty of life is that you don't have to prove anything to anyone. Ever. I always had this nagging thought in my head that I HAVE to earn money to prove my existence to people. To pay off the amazing things that my parents provided me in life. Paid education, food, house and free time to do what I want. I always felt guilty for having these priveledges in life and I always felt that I owe it to them to be a good student. A smart adult who can not only pay off for his own life but help improve theirs. And it has been ever more depressing knowing that, I as 23 years old person can't do that for them. I can't even earn my own living, let alone pay off my education (which admittedly is not as bad as US or UK). I can't imagine what it feels like to be 40k+ in loans for an education that you hated. It's a horrible feeling. I really do hope that something like Basic Income will one day be a reality. The unneeded anxiety of where and how you are going to get money to simply live in a house and get food is just that. Unneeded. It should be free.
 - (24) I don't regret writing this diary in public like that though. It taught me how to actually, genuinely, don't give a single care in the world what other people think of me. I just want live a life and do something good in the world.
 - (26) Finally wrote [my thoughts on what happiness means to me](../../life/happiness.md).
-
-## Photos
-![](https://scontent-ams3-1.cdninstagram.com/vp/3bb87331b05475f949fcb3df6ff8df2c/5B74C236/t51.2885-15/e35/29715437_330845627439683_7882915393767997440_n.jpg)
-> [(3)](https://www.instagram.com/p/BhG6x75j2AA/)
-
-![](https://scontent-frt3-2.cdninstagram.com/vp/68c23def62067967114cd407d866d843/5B74F7EE/t51.2885-15/e35/29715719_235957613628981_3447830682431127552_n.jpg)
-> [(8)](https://www.instagram.com/p/BhUcpq0D3Ek/)
-
-![](https://scontent-ams3-1.cdninstagram.com/vp/e942ae566b5a259012222c2f0074c27a/5B74EC13/t51.2885-15/e35/30076839_161320084508332_5977679832681545728_n.jpg)
-> [(17)](https://www.instagram.com/p/BhrMOhwHz02/)
-
-![](https://scontent-ams3-1.cdninstagram.com/vp/104b933adaabba43d5fce56794cdec3b/5B5C272B/t51.2885-15/e35/30080145_121692075290372_7100262014726963200_n.jpg)
-> [(19) 🌸](https://www.instagram.com/p/BhxDDXbnWRv/)
 
 ## Links
 - [Movies seen](https://letterboxd.com/nikitavoloboev/films/diary/for/2018/04/)

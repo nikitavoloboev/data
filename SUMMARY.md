@@ -151,6 +151,7 @@
 - [Physics](physics/physics.md)
 	- [Quantum physics](physics/quantum-physics/quantum-physics.md)
 	- [String theory](physics/string-theory.md)
+	- [Electronics](physics/electronics.md)
 - [Biology](biology/biology.md)
 - [Economy](economy/economy.md)
 	- [Basic Income](economy/basic-income.md)

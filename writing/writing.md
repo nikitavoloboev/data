@@ -70,4 +70,4 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 - [Learnup](https://leanpub.com/) - Service to publish books.
 - [TLDR of MailChimp's writing style guide](https://styleguide.mailchimp.com/tldr/)
 - [You Should Write Blogs](https://sites.google.com/site/steveyegge2/you-should-write-blogs)
-- [Awesome book authoring](https://github.com/TalAter/awesome-book-authoring) - Collection of awesome resources for technical book authors.
+- [Awesome book authoring](https://github.com/TalAter/awesome-book-authoring#readme) - Collection of awesome resources for technical book authors.

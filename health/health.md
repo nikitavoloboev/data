@@ -1,5 +1,5 @@
 # Health
-I try to maximise my [happiness](../life/happiness.md) and quality of life through proper [nutrition](nutrition/nutrition.md), [exercise](../fitness/fitness.md) and stress free outlook with [mindfulness](../mindfulness/mindfulness.md).
+I try to maximise my [happiness](../life/happiness.md) and quality of life through proper [nutrition](nutrition/nutrition.md), [exercise](../fitness/fitness.md) and stress free outlook on life with [mindfulness](../mindfulness/mindfulness.md).
 
 Here are some things I am trying to improve with my health right now.
 
