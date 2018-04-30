@@ -4,13 +4,13 @@ I changed a lot this month. Starting to pay a __lot__ of attention to both my ph
 
 These monthly looking back pieces will be a bit different going forward. Mostly because although I enjoy occasionally writing in this `Diary`, I think at times it is a bit out of place. So I will be changing it up a bit for the future but will see what works best.
 
-Really happy with the piece I wrote on [happiness](../../life/happiness.md). I had the thoughts of writing either blog piece on it for quite some time but never had the courage to do it because it's not something you learn once and forget about. My ways of reaching and staying happy will change with time but I am happy that I genuniely know now what I want and need to focus on in life first and foremost. Proper diet. Daily exercise. Proper sleep. Building and maintating relations that matter. And a sense of purpose for what I want to do.
+Really happy with the piece I wrote on [happiness](../../life/happiness.md). I had the thoughts of writing a blog piece on it for quite some time but never had the courage to do it because it's not something you learn once and forget about. My ways of reaching and staying happy will change with time but I am happy that I genuniely know now what I want and need to focus on in life first and foremost. Proper diet. Daily exercise. Proper sleep. Building and maintating relationships that matter. And a sense of purpose for what I want to do.
 
 I have been feeling frustrated a lot by university. But I learned over this time that frustration is really not effective stance as it solves none of the problems. And being frustrated all the time and complaining about things achieves nothing. I've read a lot over the years on the things [most people consider important in life](https://news.ycombinator.com/item?id=16950507). But it is one thing to read it. And another to actually follow it. The approach that I follow now and really love is pretty simple. Start small. Don't be so harsh on myself. And be mindful. Change doesn't come instantly and if you have a vision of what you want to do and make in life. Just keep at it.
 
-One another thing this month taught me. Or rather strengthe in me. Is my ressilience to failures. Some failures happen for a reason. Some just happen because life. There is no reason to make it worse for yourself and dwell on it. Investigate why you failed. And do your best to avoid getting yourself in the same situation in the future.
+One another thing this month taught me. Or rather strengthed in me. Is my ressilience to failures. Some failures happen for a reason. Some just happen because life. There is no reason to make it worse for yourself and dwell on it. Investigate why you failed. And do your best to avoid getting yourself in the same situation in the future.
 
-Also avocados and salads are amazing. 🥑
+Also avocados and salads are amazing.
 
 ## Photos
 ![](https://scontent-ams3-1.cdninstagram.com/vp/3bb87331b05475f949fcb3df6ff8df2c/5B74C236/t51.2885-15/e35/29715437_330845627439683_7882915393767997440_n.jpg)

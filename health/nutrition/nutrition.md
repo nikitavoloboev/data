@@ -3,7 +3,7 @@
 
 As for myself, I like to [follow these simple rules](../../focusing/rules.md#nutrition) in regards to my nutrition. I try to always cook my own food and I love exploring [new and interesting recipes](cooking/recipes.md) to cook which I add to [Paprika](https://www.paprikaapp.com).
 
-I eat a salad every day morning and take [few supplements](supplements.md).
+I eat a salad every morning and take [few supplements](supplements.md).
 
 ## Notes
 - Minimize high GI (glycemic index). It spikes blood sugar and insulin.
