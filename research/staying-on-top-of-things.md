@@ -9,10 +9,10 @@ I use [Focus](https://heyfocus.com) macOS app to completely block many websites 
 I try to stay in touch using these few things:
 
 ### RSS with [Reeder](../macOS/apps/reeder.md)
-I follow [blogs I like](blogs.md) and read them through them with [Reeder](../macOS/apps/reeder.md) which I occasionally check to see what's new.
+I follow [blogs I like](blogs.md) and read them through them with [Reeder](../macOS/apps/reeder.md).
 
 ### [Hacker News](https://hckrnews.com/) and [Lobsters](https://lobste.rs/)
-They are my two favourite news aggregators on the web. I like lobsters for its smaller community and quite often better links and discussions.
+They are my two favourite news aggregators on the web. I like Lobsters for its smaller community and quite often better links and discussions.
 
 ### Twitter with [Tweetbot](../macOS/apps/tweetbot.md)
 Twitter is my favourite social media network and it is where I share everything [I am personally up to](https://twitter.com/nikitavoloboev) right now. I love Twitter for its ability to tailor completely what news and tweets I am actually reading. I never check the official Twitter page. I only view [the lists I made](https://twitter.com/nikitavoloboev/lists). I split my Tweetbot into [four columns](../macOS/apps/tweetbot.md) and the app is always full screen although during __Focus__ session, the app is inaccesible to me, I can only post tweets.
@@ -23,7 +23,7 @@ My Reddit is heavily tailored to my own likes and I very often just look into so
 I access all these subreddits from my [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-my-mind) and [Deanishe's Reddit worklfow](https://github.com/deanishe/alfred-reddit) workflows.
 
 ### IRC
-I love using IRC and hanging out in various channels of Freenode. Mostly as a way to get help with an issue that I can't solve on my own after searching for everything.
+I love using IRC with [Textual client](../macOS/apps/textual.md) and hanging out in various channels of Freenode. Mostly as a way to get help with an issue that I can't solve on my own after searching for everything.
 
 ### [Pinboard (popular)](https://pinboard.in/popular/)
 I sometimes check it out as it does contain some interesting links.
@@ -32,7 +32,7 @@ I sometimes check it out as it does contain some interesting links.
 I follow few publications and writers on Medium. I then view new articles from my feed [here](https://medium.com/stream/network).
 
 ## Communities and forums I frequent
-I spend a lot of my time on [Discord](https://discord.gg/KKYdWjt) server to discuss Learn Anything development. As well as [macOS/iOS automation Telegram group](https://t.me/macOSautomation).
+I spend a lot of my time on [Discord](https://discord.gg/KKYdWjt) server to discuss LA development. As well as [macOS/iOS automation Telegram group](https://t.me/macOSautomation).
 
 Aside from that I like visiting and at times contributing to these forums:
 - [Alfred Forum](https://www.alfredforum.com)
