@@ -56,7 +56,7 @@ Below are books I have read or started reading. The books with links attached wi
 - [Aleksandr Solzhenitisyn](https://www.goodreads.com/author/show/10420.Aleksandr_Solzhenitsyn)
 - [David Sedaris](https://www.goodreads.com/author/show/2849.David_Sedaris)
 
-# Recommendations
+## Recommendations
 - [Side Project books](https://books.makesideproject.com/)
 - [Derek Sivers's books read](https://sivers.org/book)
 - [Rahim's books read](https://rakh.im/bookshelf/)

@@ -14,6 +14,7 @@ I use [neovim](https://github.com/neovim/neovim) instead of vim and my vimrc can
 
 ## Links
 - [You don't grok vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
+- [How to start learning Vim](https://www.reddit.com/r/vim/comments/8fqsju/learning_vim_and_switching_to_it/dy5qkpe/?context=1)
 - [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/) - Quite funny.
 - [Macros](http://vim.wikia.com/wiki/Macros)
 - [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)

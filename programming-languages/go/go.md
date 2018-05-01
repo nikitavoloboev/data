@@ -47,3 +47,7 @@ Go promotes composition over inheritance.
 - [Go in 5 minutes](https://github.com/arschles/go-in-5-minutes)
 - [Learn Go with tests](https://github.com/quii/learn-go-with-tests)
 - [Using Instruments to profile Go programs](https://rakyll.org/instruments/)
+- [Design Philosophy On Packaging](https://www.ardanlabs.com/blog/2017/02/design-philosophy-on-packaging.html)
+- [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
+- [Standard Package Layout](https://medium.com/@benbjohnson/standard-package-layout-7cdbc8391fc1)
+- [Style guideline for Go packages](https://rakyll.org/style-packages/)

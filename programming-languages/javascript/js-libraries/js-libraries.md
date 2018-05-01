@@ -12,3 +12,4 @@
 - [micro github](https://github.com/mxstbr/micro-github) - Tiny microservice that makes adding authentication with GitHub to your application easy.
 - [pico.js](https://github.com/tehnokv/picojs) - Face detection library in 200 lines of JavaScript.
 - [mdxc](https://github.com/jamesknelson/mdxc) - Use React Components within Markdown.
+- [ReLaXeD](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies.
