@@ -318,6 +318,7 @@
 - [Humans](humans/humans.md)
 	- [Alan Watts](humans/alan-watts.md)
 - [Philanthropy](philanthropy/philanthropy.md)
+- [Animals](animals/animals.md)
 - [Podcasts](podcasts/podcasts.md)
 - [Documentaries](documentaries/documentaries.md)
 - [Movies](movies/movies.md)

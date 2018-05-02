@@ -10,6 +10,13 @@ Alan Watts is most certainly my favourite person I wish I knew. Fortunately he w
 - [Why the Urge to Improve Yourself?](https://www.youtube.com/watch?v=vlNVQ-_y4-0)
 - [We Don't See All There Is](https://www.youtube.com/watch?v=M30ChDvwBLQ)
 - [Undifferentiated Toy Gardens](https://soundcloud.com/spacekittyisyou/undifferentiated-toy-gardens?in=spacekittyisyou/sets/ambient-watts)
+- [It all goes together](https://www.youtube.com/watch?v=qml1-xzPpxY)
+- [The Freedom To Make Mistakes](https://www.youtube.com/watch?v=AnLZBdB9uWU&t=5s)
+
+## Interesting talks
+- [How Your Beliefs Create Reality](https://www.youtube.com/watch?v=u4Qp_q-PqAc)
+- [Analytical Thinking (Act Without Thinking)](https://www.youtube.com/watch?v=S18KUmPjRdg)
+- [The Ways In Which The Material World Is An Illusion](https://www.youtube.com/watch?v=_l0ZqjhQzks)
 
 ## Mixed in music
 - [Will Cady - What Fills The Gap](https://www.youtube.com/watch?v=cmT3t2Kdr3I)
