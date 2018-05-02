@@ -16,3 +16,4 @@ I made a [repository](https://github.com/nikitavoloboev/privacy-respecting#readm
 - [Beyond The Clouds](https://ind.ie/beyond-the-clouds/)
 - [A Picture Is Worth a Thousand Cookies](https://blog.halide.cam/a-picture-is-worth-a-thousand-cookies-8400efa3d650)
 - [Why Zuckerberg’s 14-year apology tour hasn’t fixed Facebook](https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/)
+- [Against Facebook](https://0xadada.pub/2018/05/01/against-facebook/)

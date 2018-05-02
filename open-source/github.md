@@ -27,3 +27,4 @@ And then I can go through these issues one by one.
 - [ghb0t](https://github.com/jessfraz/ghb0t)
 - [Hub](https://github.com/github/hub) - Awesome wrapper over `git` command.
 - [GitHub release stats](http://www.somsubhra.com/github-release-stats/) - Find how many people have downloaded various GitHub releases of people.
+- [GitHub contributions chart](https://github-contributions.now.sh/) - Show user's contribution charts across the years.

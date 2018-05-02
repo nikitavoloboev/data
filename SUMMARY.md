@@ -87,6 +87,7 @@
 	- [Real Analysis](math/real-analysis.md)
 	- [Type Theory](math/type-theory.md)
 	- [Category theory](math/category-theory.md)
+	- [Statistics](math/statistics.md)
 	- [Fractals](math/fractals.md)
 - [Computer Science](computer-science/computer-science.md)
 	- [Data Structures](computer-science/data-structures/data-structures.md)

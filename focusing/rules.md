@@ -372,6 +372,7 @@ Some simple rules to follow for myself doing things.
 
 ## Newsletters
 - All newsletters should never reach inbox and be automated to appropriate mailboxes.
+- Use iCloud over Gmail for newsletters.
 
 ## Other
 - Check everything once I leave a room. In case I forget anything.
