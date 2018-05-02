@@ -8,3 +8,4 @@ As for me, I don't really know any programming language like I know English and 
 ## Links
 - [Interesting programming languages](https://github.com/learn-anything/programming-languages#readme)
 - [Tour de Babel](https://sites.google.com/site/steveyegge2/tour-de-babel) - Funny de tour of programming languages.
+- [Progamming Language Theory](http://steshaw.org/plt/)
