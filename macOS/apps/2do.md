@@ -18,7 +18,7 @@ I also add time estimates to tasks like so:
 
 ![](https://i.imgur.com/y4o36Yr.png)
 
-This is useful because sometimes I can simply open a tag __10m__ and see all tasks with this short time frame so I can quickly complete them and get on build on the momentum. I don't add time estimates to all tasks but I try to add it where possible.
+This is useful because sometimes I can simply open a tag __10m__ and see all tasks with this short time frame so I can quickly complete them and build on the momentum. I don't add time estimates to all tasks but I try to add it where possible.
 
 I share the same philosophy of `Always` and `Temporary` projects as I have in my [Focus Trello board](../../focusing/focusing.md).
 
