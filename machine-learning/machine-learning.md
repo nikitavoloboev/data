@@ -25,3 +25,4 @@ Making computers learn using algorithms and math.
 - [Building Brundage Bot](https://hackernoon.com/building-brundage-bot-10252facf3d1)
 - [Summaries of ML papers](https://github.com/aleju/papers)
 - [Code and data for paper "Deep Painterly Harmonization"](https://github.com/luanfujun/deep-painterly-harmonization)
+- [FB AI Tools](https://facebook.ai/developers/tools)

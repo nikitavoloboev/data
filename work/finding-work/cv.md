@@ -1,11 +1,11 @@
 # CV
-I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using Pages as I find it a lot easier to maintain and edit than LaTeX.
+I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://github.com/posquit0/Awesome-CV) in LaTeX.
 
 ## Interesting CVs
 - [Joshua Cockrell](http://joshcockrell.com/joshua_cockrell_resume.pdf) - Minimal and to the point.
 - [Safia Abdalla](https://cloudup.com/cqozUYp889k)
 - [Joseph Combs](https://www.josephecombs.com/resume/)
-- [Kiliankoe](https://github.com/kiliankoe/cv) - Open Source, made with LaTeX.
+- [Kiliankoe](http://kilian.io/assets/files/cv.pdf) - [Open Source](https://github.com/kiliankoe/cv), made with LaTeX.
 - [Ioannis Mitliagkas](http://mitliagkas.github.io/cv.pdf)
 - [Patrick Balestra](https://patrickbalestra.com/CV.pdf) - Minimal. Made in Pages.
 - [Fujun Luan](http://www.cs.cornell.edu/~fujun/files/Fujun_cv.pdf)
@@ -15,13 +15,11 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using Pages as I find it a lot 
 - [Ben Hoyt](http://benhoyt.com/cv/)
 - [Colin Raffel](http://colinraffel.com/cv.html) - Web.
 - [Evy Kassirer](http://www.evykassirer.com/resume)
-
-## Templates
-- [Simple yet tasteful CV and cover letter LaTeX templates](https://github.com/lorenzosaino/simpletexcv)
-- [Great CV template](https://github.com/barrucadu/cv)
+- [Jerry Ma](https://docs.google.com/document/d/1F16GPu8A0TV1esJHrl9gA5o21OPRLG58kSxdi6dG_48/edit) - Google Docs.
 
 ## Notes
 - Experience > Education
 
 ## Links
 - [Ask HN: How does a great resume look like? What are the best tools to make one?](https://news.ycombinator.com/item?id=16659255)
+- [Ask HN: What do you consider resume red flags?](https://news.ycombinator.com/item?id=16982575)
