@@ -12,3 +12,4 @@
 - [CSS reference](https://cssreference.io/)
 - [CSS Blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [Opticss](https://github.com/linkedin/opticss) - CSS Optimizer.
+- [CSS Puns](https://saijogeorge.com/css-puns/)

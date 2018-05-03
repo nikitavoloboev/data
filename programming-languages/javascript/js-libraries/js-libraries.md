@@ -14,3 +14,4 @@
 - [mdxc](https://github.com/jamesknelson/mdxc) - Use React Components within Markdown.
 - [ReLaXeD](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies.
 - [Dragula](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts.
+- [Hammer.js](https://github.com/hammerjs/hammer.js) - Multi-touch gestures.

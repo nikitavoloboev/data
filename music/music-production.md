@@ -11,3 +11,4 @@ Learning to write music. Live coding music sounds pretty awesome. I used [Sonic 
 - [Techno's Jon Hopkins Drops Science - Supersonic](https://www.youtube.com/watch?v=gzquxwYnDvk)
 - [NSynth Super](https://nsynthsuper.withgoogle.com/)
 - [Music concepts explained](https://www.youtube.com/playlist?list=PL-NzMNM2cyt-RYr-8YmF0yFVDwhdklaiT)
+- [Flat](https://flat.io) - Write music scores online.

@@ -12,3 +12,8 @@
 
 ## Links
 - [Think about Equity](http://foundersatwork.posthaven.com/think-about-equity)
+- [Index](https://index.co/) - Connecting startups, corporate brands, and investors.
+- [Startup Resources](http://startupresources.io) - Tightly curated lists of the best startup tools.
+- [Autopsy](http://autopsy.io) - Lessons Learnt from Failed Tech Startups.
+- [Let's Crunch It](https://www.letscrunchit.com/) - Powerful, interactive calculators and planners.
+- [Startup Tracker](https://startuptracker.io/)
