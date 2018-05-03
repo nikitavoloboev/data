@@ -6,3 +6,5 @@ Some articles I read and liked.
 - [Who will steal Android from Google?](https://medium.com/@steve.yegge/who-will-steal-android-from-google-af3622b6252e)
 - [Stevey's Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
 - [The Stack Overflow Age](https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age/)
+- [~2015 in review](https://medium.com/@sebmck/2015-in-review-51ac7035e272) - Inspiring.
+- [My Airbnb story](https://medium.com/non-fiction/my-airbnb-story-cafb5cd7fcbe) - Share your work.

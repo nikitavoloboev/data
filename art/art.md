@@ -21,6 +21,7 @@ I share different photographs and art pieces I like on [my Instagram page](https
 
 ## Interesting artists
 - [Petur Orn](https://www.instagram.com/orn.design/)
+- [Soreine](http://soreine.github.io/art/)
 
 ## Interesting art
 - [Alycia Rainaud](https://ello.co/maalavidaa)

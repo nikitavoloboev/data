@@ -6,6 +6,7 @@ I exclude all foods that are not healthy to me and experiment with [recipes](coo
 - Kale
 - Carrots
 - Spinach
+- Arugula
 
 ## Fruits
 - Avocados

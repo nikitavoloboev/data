@@ -17,5 +17,9 @@ Learning is a process of self discovery. You are learning more about yourself as
 
 In essence, though, I just wish every person on this planet could get the same level of education as everyone else. And I hope to do my part in making that wish a reality with [Learn Anything](https://learn-anything.xyz/).
 
+## Notes
+- Try to get learning working in multiple aspects of your brain at once. One of the best "learn about learning" lessons I ever had was studying jazz theory. My teacher used a four-way method of learning chords - say the name of the chord, visualize it on the keyboard, feel the shape your hands make to play the chord, and listen to the sound of the chord. I've applied this sort of approach to all sorts of skills since then.
+
 ## Links
 - [Do schools kill creativity](https://www.youtube.com/watch?v=iG9CE55wbtY)
+- [University of Reddit](http://ureddit.com/)

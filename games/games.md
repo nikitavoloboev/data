@@ -28,3 +28,5 @@ I track all the games I have played [here](https://www.grouvee.com/user/nikivi).
 
 ## Links
 - [Patient gamers subreddit](https://www.reddit.com/r/patientgamers/)
+- [Awesome games](https://github.com/leereilly/games#readme)
+- [Awesome educational games](https://github.com/yrgo/awesome-eg#readme)

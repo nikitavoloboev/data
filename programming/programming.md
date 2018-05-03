@@ -15,6 +15,11 @@ I am not a great programmer by any means but the few programs I did write solved
 - Explicit over implicit is almost always better.
 - [One of my principles is to always strive for simplicity when creating. In retrospect, I've learned many thing that I previously thought too complex to understand. The complexities tend to dissolve when you realise they are mostly just extra distractions emerging from the pressures of engineering the thing... distractions that you probably find yourself inventing all over again once you've assimilated the core idea.](https://news.ycombinator.com/item?id=16562827)
 - Readme driven development is pretty neat. Write the README first as a specification. Then write the code for it. [Zeit](https://github.com/zeit) do it often.
+- We are about to study the idea of a computational process. Computational processes are abstract beings that inhabit computers. As they evolve, processes manipulate other abstract things called data. The evolution of a process is directed by a pattern of rules called a program. People create programs to direct processes.
+- Always be looking for patterns. Abstract them always and only when it simplifies.
+- Persevere in getting an abstraction just right. When you find it, everything will magically fall into place.
+- The implementation is the design.
+- Hide whatever the caller shouldn't care about. In particular, you can remove type parameters with appropriate quantification.
 
 ## Links
 - [One Bite At A Time: Partitioning Complexity](https://www.facebook.com/notes/kent-beck/one-bite-at-a-time-partitioning-complexity/1716882961677894/)

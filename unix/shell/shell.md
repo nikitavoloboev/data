@@ -1,12 +1,14 @@
 # [Unix Shell](http://www.wikiwand.com/en/Unix_shell)
 ## Variables
-- `$HOME` - expands to the path of my home folder.
-- `$PS1` - the variable that represents my command prompt line.
+- `$HOME` - Expands to the path of my home folder.
+- `$PS1` - Variable that represents my command prompt line.
+- `$PATH` - Special environment variable that contains the command path (list of system directories that the shell searches when trying to locate a command).
 
 ## Notes
 - Scripts are run in subshells, and nothing is shared "upwards". That's the difference between running a script and sourcing one. A sourced (imported) script is run in your own script's namespace.
 - In shell everything is a string.
 - Children never touch parent enviroment. It can only if it runs as part of the current process (source, function, alias).
+- Pipes are used to connect one process's output with another process’s input.
 
 ## Links
 - [Explain Shell](https://www.explainshell.com/)

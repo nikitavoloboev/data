@@ -7,3 +7,4 @@ I practice this art of minimising and focusing on what's important to me & remov
 
 ## Notes
 - [Will this item provide value? If not, get rid of it.](https://www.reddit.com/r/minimalism/comments/846drx/extreme_minimalism_a_trend/)
+- I've found the easiest stuff to organize is the stuff I no longer have.

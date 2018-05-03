@@ -34,3 +34,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 ## Links
 - [Research debt](https://distill.pub/2017/research-debt/)
 - [Some notes on doing research](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/dnrsmh9/ "permalink")
+- [Awesome research](https://github.com/emptymalei/awesome-research#readme)

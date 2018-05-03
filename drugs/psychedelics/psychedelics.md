@@ -22,6 +22,9 @@ But as will all things, _moderation is key_. Or as in the case of psychedelics, 
 - [Drug induced enlightenment is not enlightenment at all, I'm not sure what the mechanism is, but it feels like a different version of ecstacy. You take it, you overload your brain with serotonin, feel wonderful and connected, and then it's gone. I think psychedelics do the same with whatever chemical gets released in much smaller amounts when we figure something out.](https://www.reddit.com/r/Drugs/comments/4whrnx/i_did_so_much_acid_i_almost_died/d67p6sd/ "permalink")
 - Most psyches target 5-HT receptor. 5-HT is the chemical name for serotonin.
 - [I've always felt that hallucinogens each have their own "staircase", and they all lead to the same "place" in their own way.](https://www.reddit.com/r/DMT/comments/87nmpz/just_broke_through_for_the_first_time/)
+- Bad trips happen because your brain is uncomfortable with something in your surroundings, your life, or yourself. Normally it is easier to not think of this but on a trip your brain turns the mirror in on itself and you're often forced to confront that unpleasantness.
+	- This can be a purely bad thing, but only if you let it. What should you do to keep it from being purely bad? Accept what your brain is showing you, rather than fight it. Consider the problems and their source. Figure out how to improve the situation or else make it a non-issue in your life, and take action when you have sobered up toward making those changes a reality.
+- The feeling that I got is that there is a certain type of knowledge that exists there, but it cannot come back with you. It's like trying to save a banana to a memory stick. Our brains simply cannot store that type of data. The heart of the experience(if you go deep enough) is something which is beyond mind. It can be experienced but not remembered.
 
 ## Links
 - [Trip Safe](https://tripsafe.org/) - Education for psychedelics like LSD and Shrooms.
@@ -30,3 +33,5 @@ But as will all things, _moderation is key_. Or as in the case of psychedelics, 
 - [Interview with James Oroc](https://www.youtube.com/watch?v=ZVBpIzFr8wM)
 - [Psychanut wiki](https://psychonautwiki.org/wiki/Main_Page) - Amazing resource.
 - [Psychoactive substance index](https://psychonautwiki.org/wiki/Psychoactive_substance_index)
+- [Psychedelic Society](http://psychedelicsociety.org.uk/)
+- [Roland Griffiths, Ph.D. on Psilocybin, Psychedelic Therapies & Mystical Experiences](https://www.youtube.com/watch?v=rkBq33KWFmY)

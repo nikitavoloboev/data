@@ -9,6 +9,9 @@ Below are the categories I currently use in Actual:
 
 ![](https://i.imgur.com/wmjtsDj.png)
 
+## Notes
+- FI is possible everywhere. The idea stays the same, save more than you spend, try generate passive income through stocks, dividends and property.
+
 ## Links
 - [Important saving goals people should have](https://www.reddit.com/r/ynab/comments/8d4ab4/what_is_the_best_approach_for_budgeting_savings/)
 - [The Shockingly Simple Math Behind Early Retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)

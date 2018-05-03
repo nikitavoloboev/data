@@ -1,6 +1,10 @@
 # Git
 I love git and version control. And I use version control over any project I do.
 
+## Notes
+- Commit as often as you can. Ideally after each micro-iteration, when something new is working.
+	- This way, at the end of the day you can just rebase the whole branch and squash all of the micro-commits in a whole commit implementing the whole new features.
+
 ## Links
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 - [GIT Conventions](https://medium.com/@tjholowaychuk/git-conventions-a940ee20862d)

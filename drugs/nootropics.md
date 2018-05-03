@@ -1,7 +1,7 @@
 # [Nootropics](http://www.wikiwand.com/en/Nootropic)
 Sleep, exercise & and proper nutrition are the most imporant things you can do for ultimate mental performance combined with focused mindfulness.
 
-There are also few nootropics you can take though to in some way boost your mental ability and focus.
+There are also few nootropics you can take to in some way boost your mental ability and focus.
 
 ## Interesting
 - [Adrafinil](https://psychonautwiki.org/wiki/Adrafinil)
