@@ -13,3 +13,4 @@
 - [pico.js](https://github.com/tehnokv/picojs) - Face detection library in 200 lines of JavaScript.
 - [mdxc](https://github.com/jamesknelson/mdxc) - Use React Components within Markdown.
 - [ReLaXeD](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies.
+- [Dragula](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts.

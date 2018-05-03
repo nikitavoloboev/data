@@ -12,6 +12,5 @@ In any way, I like to think my journey with macOS, operating systems, programmin
 - I can also press `/` or `~` to quickly go to some directory from a save dialogue. And I can press `⌘ + ↑` to go to `parent directory`.
 
 ## Links
-- [Interesting macOS apps](https://github.com/learn-anything/macos-apps#readme)
 - [macOS developer tutorials](https://www.raywenderlich.com/category/macos)
 - [A Pro’s Guide to the Best Secret Mac Features](https://matthewpalmer.net/blog/2018/04/14/ultimate-pro-guide-best-secret-mac-features/index.html)

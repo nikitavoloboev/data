@@ -1,5 +1,5 @@
 # Command Line Interface
-I use many CLI tools and share my favourite ones I use [here](https://github.com/nikitavoloboev/my-mac-os#command-line-apps).
+I use [many CLI tools](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) and share my favourite ones I use [here](https://github.com/nikitavoloboev/my-mac-os#command-line-apps).
 
 ## Links
 - [Interesting command line tools](https://github.com/learn-anything/command-line-tools#readme)

@@ -11,7 +11,7 @@ I try to be methodical in working and doing things. And I use the best tools and
 - [Neovim](../text-editors/vim/vim.md) - Small and quick edits. Edit my Karabiner XML config file there.
 
 ## Task tracking
-- [2Do](../macOS/apps/2do.md) - Personal day-to-day tasks. Every task is actionable. Tasks that don't fit into a GitHub issue are put there. Usually this includes personal tasks.
+- [2Do](../macOS/apps/2do.md) - Personal day-to-day tasks. Every task is actionable.
 - [Ship](https://www.realartists.com/index.html) - GitHub issues. All issues I want to work on soon are put into __Up Next__ queue and I work through each one, one by one.
 - [Trello](../macOS/apps/trello.md) - Public and personal boards. It's really nice because I can share pragmatically things I want to do publically and have the workflow actually be seamless so it doesn't distract or detach from the experience in any way.
 

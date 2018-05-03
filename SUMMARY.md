@@ -160,6 +160,7 @@
 - [Biology](biology/biology.md)
 - [Automation](automation/automation.md)
 - [Economy](economy/economy.md)
+	- [Investing](economy/investing.md)
 	- [Basic Income](economy/basic-income.md)
 - [Consciousness](consciousness/consciousness.md)
 	- [Ego](consciousness/ego.md)

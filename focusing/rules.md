@@ -321,7 +321,7 @@ Some simple rules to follow for myself doing things.
 - Index knowledge that is actionable in case I might need to reference it later.
 
 ## macOS
-- Only run apps I am actually using. Quit everything else.
+- Only run apps I am actually need. Quit everything else.
 - Delete apps I am not using and have no need over. Only use what I need or may need.
 - Have full control over what is going on my system to a reasonable degree. Don't use/install things I do not actually need.
 
@@ -372,7 +372,7 @@ Some simple rules to follow for myself doing things.
 
 ## Newsletters
 - All newsletters should never reach inbox and be automated to appropriate mailboxes.
-- Use iCloud over Gmail for newsletters.
+- Use iCloud for newsletters.
 
 ## Other
 - Check everything once I leave a room. In case I forget anything.
