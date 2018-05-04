@@ -27,3 +27,4 @@ I am not a great programmer by any means but the few programs I did write solved
 - [What's code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 - [Portability matters](http://sircmpwn.github.io/2017/11/13/Portability-matters.html)
 - [On being an effective developer](https://carlosbecker.com/posts/on-being-an-effective-developer/)
+- [Advice to the newish programmer](https://macwright.org/2018/02/08/advice-to-the-newish-programmer.html)
