@@ -8,8 +8,9 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 - [Dockerfile Syntax Highlighting](https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting)
 - [Marked](https://github.com/icio/sublime-text-marked) - Preview markdown files quickly with [Marked](http://marked2app.com) app.
 - [SendCode](https://github.com/randy3k/SendCode) - Send code and text to macOS and Linux Terminals, iTerm, ConEmu, Cmder, Tmux, TerminalView; R (RStudio), Julia, IPython.
-- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Code linting framework.
 - [WakaTime](https://wakatime.com/sublime-text) - Automatic time tracking and metrics generated from your programming activity.
+- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Code linting framework.
+- [SublimeLinter Annotations](https://github.com/SublimeLinter/SublimeLinter-annotations) - Marks annotations such as TODO, FIXME, etc.
 
 ## Looks
 - [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons for Improved Visual Grepping.

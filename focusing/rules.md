@@ -126,12 +126,11 @@ Some simple rules to follow for myself doing things.
 - Don't say `I need to`, but say `I will ..` or `I try to ..`. Be proactive. Intention counts.
 
 ## Git
-- Version control any document. Initialise all projects with Git first.
+- Version control all projects.
 - Do atomic commits and write [proper appropriate commit messages](https://chris.beams.io/posts/git-commit/).
 - Commit often. Commits are cheap. I can always reverse changes.
-- Start commits uppercased and prefix them with an action (Add/Remove/Fix/Update). Use [imperative tense](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg).
-	- On larger projects, prefix commits by scope for easier search and index.
-- Don't use emojis in commit messages.
+- Prefix commits with an action (add/remove/fix/update). Use [imperative tense](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg).
+- On larger projects, prefix commits by scope for easier search and index.
 - Commit changes and push before making a release. This way the commits come bundled together with release as change log.
 - When making changes to other projects, respect their Git workflow and commit style.
 

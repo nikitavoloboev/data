@@ -16,6 +16,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Colin Raffel](http://colinraffel.com/cv.html) - Web.
 - [Evy Kassirer](http://www.evykassirer.com/resume)
 - [Jerry Ma](https://docs.google.com/document/d/1F16GPu8A0TV1esJHrl9gA5o21OPRLG58kSxdi6dG_48/edit) - Google Docs.
+- [Ben Hoyt](https://benhoyt.com/cv/) - Web.
 
 ## Notes
 - Experience > Education
