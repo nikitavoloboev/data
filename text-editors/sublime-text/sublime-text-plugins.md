@@ -5,15 +5,13 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 - [Six](https://github.com/guillermooo/Six) - Vim emulation.
 - [Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile) - File creation plugin.
 - [DashDoc](https://github.com/farcaller/DashDoc) - Dash integration.
-- [Dockerfile Syntax Highlighting](https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting)
 - [Marked](https://github.com/icio/sublime-text-marked) - Preview markdown files quickly with [Marked](http://marked2app.com) app.
-- [SendCode](https://github.com/randy3k/SendCode) - Send code and text to macOS and Linux Terminals, iTerm, ConEmu, Cmder, Tmux, TerminalView; R (RStudio), Julia, IPython.
 - [WakaTime](https://wakatime.com/sublime-text) - Automatic time tracking and metrics generated from your programming activity.
 - [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Code linting framework.
-- [SublimeLinter Annotations](https://github.com/SublimeLinter/SublimeLinter-annotations) - Marks annotations such as TODO, FIXME, etc.
+- [SublimeTodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - Review todo (and other) comments within your code.
 
 ## Looks
-- [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons for Improved Visual Grepping.
+- [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons.
 
 ## Javascript
 - [JSPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - Plugin for Prettier, the opinionated code formatter.
@@ -25,6 +23,11 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 - [Ayu](https://github.com/dempfi/ayu)
 
 # Interesting (not using)
+## Utility
+- [SendCode](https://github.com/randy3k/SendCode) - Send code and text to macOS and Linux Terminals, iTerm, ConEmu, Cmder, Tmux, TerminalView; R (RStudio), Julia, IPython.
+- [SublimeLinter Annotations](https://github.com/SublimeLinter/SublimeLinter-annotations) - Marks annotations such as TODO, FIXME, etc.
+- [Dockerfile Syntax Highlighting](https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting)
+
 ## Looks
 - [DistractionFreeWindow](https://github.com/aziz/DistractionFreeWindow) - Sublime Text's "Distraction free mode" but not full-screen.
 
