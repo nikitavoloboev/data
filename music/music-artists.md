@@ -146,3 +146,4 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Os Tincoãs](https://www.discogs.com/artist/2371690-Os-Tincoãs) - [Deixa A Gira Girar (j g b edit)](https://www.youtube.com/watch?v=3xt8Mp8oWzc)
 - [Drake](http://www.drakeofficial.com/music.html) - [Nice For What](https://www.youtube.com/watch?v=U9BwWKXjVaI)
 - [Fantasy Guys](https://soundcloud.com/fantasy-guys) - [Jazzy Kisses](https://www.youtube.com/watch?v=EaEBp2800eo)
+- [Queens Of The Stone Age](https://soundcloud.com/qotsa) - [Make It Wit Chu (Virgin Magnetic Material Remix)](https://www.youtube.com/watch?v=hg14Ocs03xA)

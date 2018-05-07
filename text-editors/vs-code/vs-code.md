@@ -5,7 +5,7 @@ My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/
 
 I love using [Ayu One Dark](https://marketplace.visualstudio.com/items?itemName=faceair.ayu-one-dark) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
-<img src="https://i.imgur.com/GdZePdh.png" width="500" alt="img">
+![](https://i.imgur.com/GdZePdh.png)
 
 ## Notes
 - [VS Code is architected in a way where extensions are not eagerly activated by default. Each extension can declare a list of activation events, such as e.g. opening a file of a certain language, invoking a specific command, starting debugging, etc.](https://news.ycombinator.com/item?id=16940419)
