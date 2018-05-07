@@ -8,6 +8,7 @@ Also it's really useful to use [SpellCheck](https://www.shellcheck.net).
 
 ## Links
 - [Parameter expansion](http://wiki.bash-hackers.org/syntax/pe)
+- [Defensive BASH Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/)
 
 ## Snippets
 - [Removes some string from a string](https://gist.github.com/187a7971fd28de1eeaeabe0bd3a6d457)
