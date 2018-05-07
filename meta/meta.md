@@ -3,12 +3,6 @@ Below you will find all the notes I have made. I continuously update them and I 
 
 Each folder is a topic that can include other topics under it related to the parent topic.
 
-[GitBook](https://www.gitbook.com/) provides a pretty awesome search feature that lets you search across this entire knowledge base, so feel free to use it.
-
-I also love using night mode. You can switch to it from here if you haven't:
-
-![](https://i.imgur.com/k6EDR4K.png)
-
 If this is your first time visiting this wiki, you can just start reading from the top entry down and see what sparks your interest.
 
 I will be updating this wiki quite often as I use it myself daily both to keep an account of things I know as well as things I want to know and everything in-between.

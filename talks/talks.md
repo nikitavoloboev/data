@@ -10,6 +10,7 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Malte Ubl - Designing very large JavaScript applications (2018)](https://www.youtube.com/watch?v=ZZmUwXEiPm4) - [Transcript](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3).
 - [John Sundell - Sharing (2018)](https://www.youtube.com/watch?v=_mQNwL8HkS0)
 - [Bret Victor - Inventing on Principle (2012)](https://vimeo.com/36579366)
+- [Drupal and the secret of my success | Steve Francia](https://www.youtube.com/watch?v=EJo9tPXGPo8&feature=youtu.be&t=13m4s)
 
 ## Notes
 - Giving a talk, it is often best to start with a `Why?`

@@ -4,6 +4,7 @@ Use Zsh as my shell together with [Antibody](https://github.com/getantibody/anti
 Assigned w + j with [Karabiner](karabiner/karabiner.md) to open the app from Keyboard Maestro in seconds.
 
 I made my own [Ayu theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it that looks like this:
+
 ![](https://i.imgur.com/wUrhEDa.png)
 
 It goes well with [Pure zsh theme](https://github.com/sindresorhus/pure) and [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
