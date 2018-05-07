@@ -1,10 +1,14 @@
 # [iTerm](https://www.iterm2.com/)
-Moved completely to using the command line for all my development needs. Assigned [w + j](karabiner/karabiner.md) with Karabiner to open the app from Keyboard Maestro in seconds.
+Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) shell plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.
 
-I also made my own [Ayu theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it that looks like this:
-![](https://i.imgur.com/KZYHoa9.png)
+Assigned w + j with [Karabiner](karabiner/karabiner.md) to open the app from Keyboard Maestro in seconds.
 
-[Here](https://gist.github.com/nikitavoloboev/3fbe13ce427132d0297f411b62f49034) are all the [Homebrew](http://brew.sh/index.html) packages I like and use.
+I made my own [Ayu theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it that looks like this:
+![](https://i.imgur.com/wUrhEDa.png)
+
+It goes well with [Pure zsh theme](https://github.com/sindresorhus/pure) and [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
+
+![](https://i.imgur.com/yGO1mEw.png)
 
 ## My workflow
 I always have 5 tabs (sessions) always open in iTerm. I open other tabs as the need arises and I start working on other projects.
