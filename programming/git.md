@@ -1,5 +1,5 @@
 # Git
-I love git and version control. And I use version control over any project I do.
+I love Git and version control. And I use version control over any project I do.
 
 ## Notes
 - Commit as often as you can. Ideally after each micro-iteration, when something new is working.

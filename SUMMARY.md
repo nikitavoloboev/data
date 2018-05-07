@@ -126,6 +126,7 @@
 	- [Bash](programming-languages/bash.md)
 	- [Clojure](programming-languages/clojure/clojure.md)
 	- [Lisp](programming-languages/lisp.md)
+	- [OCaml](programming-languages/ocaml/ocaml.md)
 	- [C](programming-languages/c/c.md)
 	- [Lua](programming-languages/lua.md)
 	- [C++](programming-languages/cpp/cpp.md)
