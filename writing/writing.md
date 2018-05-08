@@ -65,7 +65,6 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 - Examine every word: a surprising number don’t serve any purpose.
 
 ## Links
-- [How I write](https://medium.com/@NikitaVoloboev/how-i-write-cdc2cebdc70c) - What my writing setup looks like on my mac. However now I use Ulysses full screened with a few alfred workflows to quickly navigate through my writing library.
 - [A blog post about blog posts](https://medium.com/@naomi_pen/a-blog-post-about-blog-posts-4bb6a6ce0772)
 - [Learnup](https://leanpub.com/) - Service to publish books.
 - [TLDR of MailChimp's writing style guide](https://styleguide.mailchimp.com/tldr/)

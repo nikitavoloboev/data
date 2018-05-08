@@ -26,7 +26,6 @@ The number between brackets shows the year I wrote the article in. Articles with
 
 ## Writing
 - [Why medium? (2016)](https://medium.com/@NikitaVoloboev/why-medium-ff9b13fefe61#.guictx69p) - Why host my writing on medium and not on my own site.
-- [How I write (2017)](https://medium.com/@NikitaVoloboev/how-i-write-cdc2cebdc70c) - How I plan to write a lot more in the coming days and what my writing workflow looks like.
 
 ## Privacy
 - [Like a dog on a leash (2017) 🌟](https://medium.com/@NikitaVoloboev/like-a-dog-on-a-leash-c0cdb8839079) - My thoughts on privacy and why one should care about it.

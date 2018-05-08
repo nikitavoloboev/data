@@ -37,7 +37,7 @@ Some simple rules to follow for myself doing things.
 - Be mindful of my habits and temptations. Don't succumb to them and focus on the task at hand.
 - Change location. Work from different places.
 - Look at where I spend my time in Timing and cut those out with Focus and scripts.
-- Less than 1 hr _Distracted_ time every day.
+- Less than 1 hr _News_ time every day.
 - Use one screen when coding. Much easier to context switch.
 - Don't listen to music when coding and focusing. Use [Noizio](http://noiz.io) and listen to rain, train or other pieces.
 - Sit up right always. Never slouch.
@@ -301,9 +301,8 @@ Some simple rules to follow for myself doing things.
 - No macbook in bed. No phone in the morning before waking up.
 
 ## Timing
-- Minimise _Distracting_ time and aim at __< 1 hour Distracted time__ a day. Ideally less. Block everything that is _Distracting_ when working.
+- Minimise _News_ time and aim at __< 1 hour News time__ a day. Ideally less. Block everything that is _Distracting_ when working.
 - Mark all time past in Timing. Adjust filters and projects to what kind of things I am working on.
-- Only mark non distracting blocks with tasks. Those blocks are ones that matter.
 
 ## Day One
 - Mark all memorable moments and experiences in Day One.
