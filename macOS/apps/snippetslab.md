@@ -5,7 +5,7 @@ This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/
 
 <img src="https://i.imgur.com/gzoH1Dh.png" width="500" alt="img">
 
-Here is how my library looks like:
+Here is how my library looks:
 
 <img src="https://i.imgur.com/cDmCSyE.png" width="500" alt="img">
 
