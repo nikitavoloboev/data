@@ -15,4 +15,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Peek](https://github.com/shaps80/Peek) - Inspect your iOS application at runtime.
 - [Unix / CLI / shell-like tools for iOS](http://maverick.inria.fr/Members/Nicolas.Holzschuch/ios_shell.html)
 - [iOS interview tips](http://martiancraft.com/blog/2016/10/interview-tips/)
-- [Interviewing, applying and getting your first job in iOS](http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews)
+- [iOS Developer and Designer Interview Questions](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions#readme)
