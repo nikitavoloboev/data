@@ -6,3 +6,4 @@
 
 ## Links
 - [Developing Leaders: What To Do When Your Team Grows Too Big](https://getlighthouse.com/blog/developing-leaders-team-grows-big/)
+- [Christoph Nakazawa's experience being FB manager](https://twitter.com/cpojer/status/993982733285298177)

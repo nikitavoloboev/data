@@ -11,6 +11,6 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 
 - [January](2018/2018-january.md) - LA got nominated for Golden Kitty award but didn't win. LA was blocked by FB. Stopped using FB & transferred stuff from it to wiki.
 - [February](2018/2018-february.md) - LA unblocked by FB. Started adding days to wiki entries. Made Telegram macOS/iOS group.
-- [March](2018/2018-march.md) - Moved LA from Slack to Discord. Made my first crypto purchase.
-- [April](2018/2018-april.md) - Finding happiness. Stopped listening to music when working. Started playing tennis and growing my healthy recipe collection.
+- [March](2018/2018-march.md) - Made my first crypto purchase. Stopped listening to music when working.
+- [April](2018/2018-april.md) - Finding happiness. Started playing tennis and growing my healthy recipe collection.
 - [May](2018/2018-may.md)

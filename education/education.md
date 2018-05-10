@@ -23,4 +23,4 @@ In essence, though, I just wish every person on this planet could get the same l
 ## Links
 - [Do schools kill creativity](https://www.youtube.com/watch?v=iG9CE55wbtY)
 - [University of Reddit](http://ureddit.com/)
-- [Abstraction, intuition, and the “monad tutorial fallacy"](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/)
+- [Abstraction, intuition, and the “monad tutorial fallacy"](https://byorgey.wordpress.com/2009/01/12/abstraction-intuition-and-the-monad-tutorial-fallacy/) ([HN comments](https://news.ycombinator.com/item?id=17015661))
