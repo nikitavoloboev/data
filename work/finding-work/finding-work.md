@@ -1,7 +1,7 @@
 # Finding work
-This articly on [Interviewing, applying and getting your first job in iOS](http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews) is superb.
+This article on [Interviewing, applying and getting your first job in iOS](http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews) is superb.
 
-I made a curated list of ways to prepare and places to look to [find work](https://github.com/nikitavoloboev/find-work#readme) programming.
+I made a curated list of ways to prepare and places to look to [find work programming](https://github.com/nikitavoloboev/find-work#readme).
 
 Often the most effective way to apply is to apply directly. Go to the website of the company you want to apply to and see if there is a `Jobs` section present somewhere and apply through it. You can also send a direct email to the company's hiring management or if it's a startup, you can send an email to the Founder directly.
 

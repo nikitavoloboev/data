@@ -27,7 +27,7 @@ I try to be methodical in working and doing things. And I use the best tools and
 ## Bookmarks
 - [Curated lists](https://github.com/learn-anything/curated-lists#readme) - I open any of the lists readmes in seconds and any edit I make is automatically commited with Hazel. The lists are open to contribution too this way they get better and scale with time.
 - [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) -  All my public facing bookmarks. Searching this wiki here. Searching my articles, my GitHub repos and more.
-- [Safari](../web/browsers/safari.md) and [Chrome](../web/browsers/google-chrome.md) bookmarks - Only contain personal bookmarks. The rest is publically available and queriable by anyone.
+- [Safari](../web/browsers/safari.md) and [Chrome](../web/browsers/google-chrome/google-chrome.md) bookmarks - Only contain personal bookmarks. The rest is publically available and queriable by anyone.
 
 ## Photographs
 - [Pixave](../macOS/apps/pixave.md) - My entire media library of images and GIFs neatly sorted into collections. I post some images from there to my [Instagram page](https://instagram.com/prettiways).
