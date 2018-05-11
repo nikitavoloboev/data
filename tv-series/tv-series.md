@@ -6,8 +6,3 @@ I keep a [list of my favourite series](https://trakt.tv/users/nikitavoloboev/lis
 
 ## Watched Series
 I track [all the series I have watched](https://trakt.tv/users/nikitavoloboev/history).
-
-Below are the series I've seen sorted by years I've seen them in.
-- [2018](https://trakt.tv/users/nikitavoloboev/lists/watched-in-2018)
-- [2017](https://trakt.tv/users/nikitavoloboev/lists/watched-in-2017)
-

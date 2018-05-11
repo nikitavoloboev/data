@@ -9,7 +9,7 @@ Some simple rules to follow for myself doing things.
 - Don't compare myself to other people. Don't care what other people think of me. Surround myself with people that inspire me.
 - Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals too much.
 - Don't judge anyone. Attempt to see another person's point of view.
-- If an item/thing doesn't provide me any value, get rid of it.
+- Use only what I need. If an item/thing doesn't provide me any value, get rid of it.
 - Be honest. Don't lie to myself nor anyone else.
 - Embrace change. Never complain about anything. Be proactive.
 - Adjust these rules and [my workflow](../sharing/my-workflow.md) to match what I have learned.
