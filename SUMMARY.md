@@ -193,7 +193,7 @@
 	- [Browsers](web/browsers/browsers.md)
 		- [Safari](web/browsers/safari.md)
 		- [Google Chrome](web/browsers/google-chrome/google-chrome.md)
-			- [Chrome Dev Tools](web/browsers/google-chrome/chrome-dev-tools.md)
+			- [Chrome DevTools](web/browsers/google-chrome/chrome-dev-tools.md)
 		- [Firefox](web/browsers/firefox.md)
 		- [Bookmarklets](web/browsers/bookmarklets.md)
 	- [Static sites](web/static-sites/static-sites.md)

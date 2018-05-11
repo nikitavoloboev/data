@@ -12,6 +12,7 @@ I love software and non software tools that help me in some way.
 
 ## Other
 - [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage.
+- [Tiny Letter](https://tinyletter.com)
 
 ## Links
 - [The Developer's Toolbox 2018](https://medium.com/mobile-quality/the-developers-toolbox-daaaa875081e)

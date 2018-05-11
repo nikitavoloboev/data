@@ -8,7 +8,7 @@ I keep a [Trello board](https://trello.com/b/jFaHJFow) and [Watchlist](https://l
 And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [films](https://letterboxd.com/nikitavoloboev/likes/films/) and [reviews](https://letterboxd.com/nikitavoloboev/likes/reviews/) I liked.
 
 ## Movies seen
-I track the movies I have seen on [LetterBoxd](https://letterboxd.com/nikitavoloboev/) and I [review nearly all movies](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/) I've seen.
+I track the movies I have seen on [Letterboxd](https://letterboxd.com/nikitavoloboev/) and I [review nearly all movies](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/) I've seen.
 
 Below are the movies I've seen sorted by years I've seen them in.
 - [2018](https://letterboxd.com/nikitavoloboev/films/diary/for/2018/)

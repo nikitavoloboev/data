@@ -1,5 +1,4 @@
 # Coding practice
-
 ## Links
 - [Hackerrank](https://www.hackerrank.com/)
 - [Hackerearth](https://www.hackerearth.com/)
@@ -9,5 +8,5 @@
 - [Kattis](https://open.kattis.com/)
 - [Sphere Online Judge](http://www.spoj.com/)
 - [Exercism](http://exercism.io/)
-- [Leetcode](https://leetcode.com)
+- [LeetCode](https://leetcode.com)
 - [Project Euler](https://projecteuler.net/archives)

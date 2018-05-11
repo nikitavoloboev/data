@@ -1,4 +1,4 @@
-# [Chrome Dev Tools](https://developer.chrome.com/devtools)
+# [Chrome DevTools](https://developer.chrome.com/devtools)
 ## Notes
 - `$_` holds the previous result in the console. So you can do `$_.something(..)` to access the returned object items.
 

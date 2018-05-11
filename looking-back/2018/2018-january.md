@@ -19,7 +19,7 @@ I will try practicing meditation and mindfulness a lot more in the coming months
 - Learn Anything was nomitated for [2017 Golden Kitty Awards](https://www.producthunt.com/golden-kitty-awards-2017).
 	- We [didn't win](https://blog.producthunt.com/golden-kitty-awards-winners-7c2628e5f429) in the end but it was an amazing feeling to actually be selected to participate in the event.
 - Added all the [Keyboard Maestro macros I use and love](https://github.com/nikitavoloboev/my-mac-os/tree/master/km-macros#readme) to my macOS repo.
-- Started working through [Leetcode](https://github.com/nikitavoloboev/leetcode) problems and preparing for interviews.
+- Started working through [LeetCode](https://github.com/nikitavoloboev/leetcode) problems and preparing for interviews.
 - Stopped using FB. Deactivated the account.
 
 ### FB blocked Learn Anything
