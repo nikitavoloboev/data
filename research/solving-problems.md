@@ -14,16 +14,16 @@ I use one [MindNode](../macOS/apps/mindnode.md) mind map called __thinking__.
 
 I outline the problem I want to solve and then I outline the steps I think I need to do to solve the problem.
 
-For example I wanted to modernise and improve my [Hammerspoon config](https://github.com/nikitavoloboev/dotfiles/tree/master/hammerspoon).
+For example I wanted to update [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) to parse [curated lists](https://github.com/learn-anything/curated-lists#readme).
 
 So I create a new branch saying what it is I want to do.
-![](https://i.imgur.com/fxJG2Cb.png)
+![](https://i.imgur.com/cgMkD6M.png)
 
 ## 2. Breaking the problem down to smaller parts
 I then try to break down the problem into small steps (things) I need to do, to make this task complete. In the case of this problem, my breakdown of the task looked like this:
-![](https://i.imgur.com/uYr28eZ.png)
+![](https://i.imgur.com/4OC7tNX.png)
 
-I could then simply try to go through each of the steps outlined and hopefully reach a working solution.
+I then simply try to go through each of the steps outlined and hopefully reach a working solution.
 
 Of course, things can and often change in the process as I find things I have missed or found better ways to do a thing. I can freely change the structure in light of newly found insights and knowledge. However the main idea and structure usually still stays.
 
