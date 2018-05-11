@@ -3,9 +3,9 @@ I use Timing app to fully automate tracking my time on my computer.
 
 The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
 
-My projects look like this now:
+My projects look like this:
 
-![](https://i.imgur.com/Q5Bgw4u.png)
+![](https://i.imgur.com/cvWvwYT.png)
 
 And my preferred `Report` view is:
 
