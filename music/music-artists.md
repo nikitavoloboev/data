@@ -91,6 +91,8 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Mount Kimbie](https://soundcloud.com/mountkimbie) - [Before I Move Off](https://www.youtube.com/watch?v=-x1TFxao0oI)
 - ExT - [Output](https://www.youtube.com/watch?v=fhwbsu6Gfo0)
 - [Shakey Graves](https://www.shakeygraves.com) - [Dearly Departed](https://www.youtube.com/watch?v=F3jk3pflofk)
+- [Helios](https://soundcloud.com/keithkenniff) - [Halving The Compass (Rhian Sheehan Remix)](https://www.youtube.com/watch?v=3INUXq1suaA)
+
 ## Interesting artists
 - [Emapea](https://soundcloud.com/emapea)
 - [Only emily](https://soundcloud.com/onlyemilymusic) - [Evenings](https://soundcloud.com/onlyemilymusic/evenings)

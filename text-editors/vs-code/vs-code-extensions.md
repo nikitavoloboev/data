@@ -64,7 +64,7 @@ Below is a list of extensions I use.
 - [Lua](https://github.com/trixnz/vscode-lua) - Provides Intellisense and Linting for Lua.
 
 ## Theme
-- [Ayu](https://github.com/teabyii/vscode-ayu)
+- [Alabaster](https://github.com/tonsky/vscode-theme-alabaster)
 
 # Interesting (not using)
 ## Utility
@@ -83,9 +83,11 @@ Below is a list of extensions I use.
 - [Regex Previewer](https://github.com/chrmarti/vscode-regex) - Shows the current regular expression's matches in a side-by-side document.
 - [Import cost](https://github.com/wix/import-cost) - Displays the import size of the package you are importing inside the code editor.
 - [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - Makes indentation easier to read.
 
 ## Themes
 - [Subliminal](https://github.com/gaearon/subliminal)
+- [Ayu](https://github.com/teabyii/vscode-ayu)
 
 ## Notes
 - In [Go plugin](https://github.com/Microsoft/vscode-go) `ife` snippet will create an error catching block.
