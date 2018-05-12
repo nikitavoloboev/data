@@ -13,7 +13,7 @@ Aside from this wiki, you can also explore [Learn Anything](https://learn-anythi
 ## Other things I wrote and shared
 I share my knowledge in a longer form by [writing articles](sharing/my-articles.md) and making [YouTube videos](sharing/my-youtube.md).
 
-I also love writing code that solves various problems I have and I share it all on [GitHub](https://github.com/nikitavoloboev).
+I also love [writing code](sharing/my-github.md) that solves various problems I have and I share it all on [GitHub](https://github.com/nikitavoloboev).
 
 [Here](http://nikitavoloboev.xyz/projects) you can find all the things I have made and shared thus far.
 
