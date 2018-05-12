@@ -336,6 +336,7 @@
 - [Philanthropy](philanthropy/philanthropy.md)
 - [Animals](animals/animals.md)
 - [Podcasts](podcasts/podcasts.md)
+	- [Podcast recording](podcasts/podcast-recording.md)
 - [Documentaries](documentaries/documentaries.md)
 - [Movies](movies/movies.md)
 	- [Directors](movies/directors.md)

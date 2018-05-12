@@ -21,7 +21,7 @@ I mostly make videos about macOS automation. [Here](my-youtube.md) are all the v
 I stream some of the things I am building there. I explain things as I do them.
 
 ## macOS/iOS group on [Telegram](https://t.me/macOSautomation)
-I love macOS and automation and made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS with focus on productivity.
+I love macOS and automation so I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS with focus on productivity.
 
 ## Ideas in [Trello](https://trello.com/b/alB1ryRP)
 My time is limited and I can't often do everything I wish. But I have many ideas so I put all of them [in the open](https://trello.com/b/alB1ryRP).

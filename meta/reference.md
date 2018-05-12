@@ -18,4 +18,4 @@ I may say things like `binded with v + r` which means that I created an action t
 ## KM macros
 I sometimes will link to KM macro group/palette from this wiki. The link will lead to the macro group/palette in my [GitHub repository](https://github.com/nikitavoloboev/my-mac-os/tree/master/km-macros#readme).
 
-[Here](https://github.com/nikitavoloboev/my-mac-os/tree/master/km-macros#downloading-macros-individually) are instructions for how you can save these macros. This assumes you have [Keyboard Maestro](https://www.keyboardmaestro.com/main/) installed.
+[Here](https://github.com/nikitavoloboev/my-mac-os/tree/master/km-macros#downloading-macros-individually) are instructions for how you can save these macros. This assumes you have [Keyboard Maestro](../macOS/apps/keyboard-maestro/keyboard-maestro.md) installed.
