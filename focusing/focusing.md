@@ -10,11 +10,11 @@ For example, one of these _rules_ can be that I need to be proactive with my ema
 
 ## Focusing on what's important
 I keep a private Trello board where I outline things that I want to focus on in life and achieve. I try to not work on long periods of time and predict things in advance for over three months and instead work in very short time frames whilst having some end goal(s) in mind of what I ultimately want to achieve. Here is how my __Focus__ Trello board looks:
-![](https://i.imgur.com/A0IaHUs.jpg)
+![](https://i.imgur.com/WDBEgCL.jpg)
 
 I mark the cards I want to focus on right now in my life and then only see the cards I want to focus on right now on the board.
 
-![](https://i.imgur.com/TAj4QqH.jpg)
+![](https://i.imgur.com/E3gNonH.png)
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
 
@@ -28,15 +28,16 @@ I use [Focus app](https://heyfocus.com) to block many non work related websites 
 I also have Focus trigger Do Not Disturb mode by calling [this CLI tool](https://github.com/sindresorhus/do-not-disturb-cli). This way I get no notifications when I am working and I get 0 distractions.
 
 The things I work on during this 90 min focus session is specified by an event in [Fantastical](../macOS/apps/fantastical.md). The events are simply names of projects on which I want to work on in that time. Here are the most common events I use and what I do during them:
-- GitHub - I use [Ship](https://www.realartists.com/index.html) app and work through GitHub issues in `Up Next` list.
+- Code - I use [Ship](https://www.realartists.com/index.html) app and work through GitHub issues in `Up Next` list.
 - Inbox - I open [2Do](../macOS/apps/2do.md) and work through the most prioritised tasks for `Today`.
 - Books - I open [PDF Expert](https://pdfexpert.com/) and read through the [book I set out to read](https://trello.com/b/MOrnm2aN).
 - Research papers - I open [PDF Expert](https://pdfexpert.com/) and read through the [research paper I set out to read](https://trello.com/b/EKl1Ie3q).
 - Learn - I choose a topic I want to learn from [Trello](https://trello.com/b/cu32qF3q) and learn it. Usually I start with wiki and resources from [LA](../projects/learn-anything.md).
+- Ideas - I pick an idea I want to work on from [Trello](https://trello.com/b/alB1ryRP) and make it.
 
 At the end of the 90 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 90 min period. The projects in Timing are a reflection of projects in my Focus Trello board.
 
-![](https://i.imgur.com/cvWvwYT.png)
+![](https://i.imgur.com/9SjfaUZ.png)
 
 I focus fully on [solving problems](../research/solving-problems.md) I need to solve and spend 0 energy thinking about what I should be doing or whether I am spending my time wisely in the moment. Full focus on the task at hand. No multitasking. No distractions.
 

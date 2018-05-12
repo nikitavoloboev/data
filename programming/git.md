@@ -9,6 +9,7 @@ I love Git and version control. And I use version control over any project I do.
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 - [GIT Conventions](https://medium.com/@tjholowaychuk/git-conventions-a940ee20862d)
 - [Learn Git branching](https://learngitbranching.js.org/)
+- [Gitbase](https://github.com/src-d/gitbase) - SQL interface to Git repositories.
 
 ## Snippets
 - [Remove dir from git](https://gist.github.com/17a9bc95ce5da0db7f85d076b45d07cd)
@@ -25,4 +26,3 @@ I love Git and version control. And I use version control over any project I do.
 - [checkout previous commit](https://gist.github.com/8da63bc3a6801337356119647fb27e52)
 - [Show where configs get defined](https://gist.github.com/8e4fe9f16e8141778eabdb030276263a)
 - [Undo last commit but don't throw away changes](https://gist.github.com/9d4621d9813ed28aaebaaef7100bcaec)
-
