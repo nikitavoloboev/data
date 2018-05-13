@@ -150,3 +150,4 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Fantasy Guys](https://soundcloud.com/fantasy-guys) - [Jazzy Kisses](https://www.youtube.com/watch?v=EaEBp2800eo)
 - [Queens Of The Stone Age](https://soundcloud.com/qotsa) - [Make It Wit Chu (Virgin Magnetic Material Remix)](https://www.youtube.com/watch?v=hg14Ocs03xA)
 - [Corbin](https://soundcloud.com/spookycorbin) - [Ice Boy](https://www.youtube.com/watch?v=GTFoHva8Sbo&feature=youtu.be)
+- [Khruangbin](https://soundcloud.com/khruangbin) - [Cómo Me Quieres](https://www.youtube.com/watch?v=AZ4smc076yo) | [Pitchfork Live](https://www.youtube.com/watch?v=q4xKvHANqjk)
