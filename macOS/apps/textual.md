@@ -7,6 +7,7 @@ I created my own [Night Blue theme](https://github.com/nikitavoloboev/my-mac-os/
 
 ## Notes
 - I can inspect HTML of the window by going to `HELP -> Advanced -> Enter Developer Mode` and then right clicking on what I want to inspect.
+- Right click on chat background and `Force Reload Style` will reapply the styles you made in the active theme (as well as the JS code).
 
 ## Links
 - [Adding scripts](https://help.codeux.com/textual/Writing-Scripts.kb)
