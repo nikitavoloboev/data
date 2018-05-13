@@ -64,7 +64,7 @@ Below is a list of extensions I use.
 - [Lua](https://github.com/trixnz/vscode-lua) - Provides Intellisense and Linting for Lua.
 
 ## Theme
-- [Alabaster](https://github.com/tonsky/vscode-theme-alabaster)
+- [Ayu](https://github.com/teabyii/vscode-ayu)
 
 # Interesting (not using)
 ## Utility
@@ -87,7 +87,7 @@ Below is a list of extensions I use.
 
 ## Themes
 - [Subliminal](https://github.com/gaearon/subliminal)
-- [Ayu](https://github.com/teabyii/vscode-ayu)
+- [Alabaster](https://github.com/tonsky/vscode-theme-alabaster)
 
 ## Notes
 - In [Go plugin](https://github.com/Microsoft/vscode-go) `ife` snippet will create an error catching block.

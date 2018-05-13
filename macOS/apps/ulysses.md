@@ -7,16 +7,16 @@ All your writing in one place is the motto and the underlying design of the app.
 
 It also has pretty awesome export functions that let you export the text you write to PDF, ePub and HTML. I mostly use it's ability to export text to Medium.
 
-I use [Outback](https://styles.ulyssesapp.com/bundle/Outback/535eb7c401255de72d57da6c) theme when I write. Here is how it looks:
+I use [Ayu](https://styles.ulyssesapp.com/bundle/Ayu/5ae3545d5075368b0270daa9) theme when I write. Here is how it looks:
 
-![](https://i.imgur.com/7BmrvSe.png)
+![](https://i.imgur.com/6e3C1Ic.png)
 
 I describe my thoughts and approach to writing [here](../../writing/writing.md).
 
 ## Content structure
 I group my writing into appropriate categories. Here are how my categories look like.
 
-![](https://i.imgur.com/7QS5OzA.png)
+![](https://i.imgur.com/yl1RD89.png)
 
 I use two [Alfred file filters](https://github.com/nikitavoloboev/small-workflows/tree/master/search-files) to search through both Ulysses sheets and Ulysses groups.
 
