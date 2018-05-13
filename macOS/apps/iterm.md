@@ -5,11 +5,11 @@ Assigned w + j with [Karabiner](karabiner/karabiner.md) to open the app from Key
 
 I made my own [Ayu theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it that looks like this:
 
-![](https://i.imgur.com/wUrhEDa.png)
+![](https://i.imgur.com/zHUb7nT.png)
 
 It goes well with [Pure zsh theme](https://github.com/sindresorhus/pure) and [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
 
-![](https://i.imgur.com/yGO1mEw.png)
+![](https://i.imgur.com/m6CK29L.png)
 
 ## My workflow
 I always have 5 tabs (sessions) always open in iTerm. I open other tabs as the need arises and I start working on other projects.

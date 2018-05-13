@@ -7,6 +7,6 @@ This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/
 
 Here is how my library looks:
 
-<img src="https://i.imgur.com/cDmCSyE.png" width="500" alt="img">
+![](https://i.imgur.com/LBQVFPo.png)
 
 I share my entire library of snippets you can import yourself [here](https://github.com/nikitavoloboev/my-mac-os/tree/master/snippetslab#readme).
