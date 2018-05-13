@@ -1,9 +1,10 @@
 # Git
-I love Git and version control. And I use version control over any project I do.
+I love Git and version control. And I use version control over any project I do. I follow a [series of rules](../focusing/rules.md#git) when dealing with Git.
 
 ## Notes
 - Commit as often as you can. Ideally after each micro-iteration, when something new is working.
 	- This way, at the end of the day you can just rebase the whole branch and squash all of the micro-commits in a whole commit implementing the whole new features.
+- Good git workflow to make changes to new projects: clone, fork (`hub fork`), 'git checkout -b my-feature', work, commit, 'git push -u nikitavoloboev my-feature', work, commit, 'git push'.
 
 ## Links
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)

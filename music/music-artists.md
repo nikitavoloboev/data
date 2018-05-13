@@ -92,6 +92,7 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - ExT - [Output](https://www.youtube.com/watch?v=fhwbsu6Gfo0)
 - [Shakey Graves](https://www.shakeygraves.com) - [Dearly Departed](https://www.youtube.com/watch?v=F3jk3pflofk)
 - [Helios](https://soundcloud.com/keithkenniff) - [Halving The Compass (Rhian Sheehan Remix)](https://www.youtube.com/watch?v=3INUXq1suaA)
+- [Khruangbin](https://soundcloud.com/khruangbin) - [Cómo Me Quieres](https://www.youtube.com/watch?v=AZ4smc076yo) | [Pitchfork Live](https://www.youtube.com/watch?v=q4xKvHANqjk)
 
 ## Interesting artists
 - [Emapea](https://soundcloud.com/emapea)
@@ -150,4 +151,3 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Fantasy Guys](https://soundcloud.com/fantasy-guys) - [Jazzy Kisses](https://www.youtube.com/watch?v=EaEBp2800eo)
 - [Queens Of The Stone Age](https://soundcloud.com/qotsa) - [Make It Wit Chu (Virgin Magnetic Material Remix)](https://www.youtube.com/watch?v=hg14Ocs03xA)
 - [Corbin](https://soundcloud.com/spookycorbin) - [Ice Boy](https://www.youtube.com/watch?v=GTFoHva8Sbo&feature=youtu.be)
-- [Khruangbin](https://soundcloud.com/khruangbin) - [Cómo Me Quieres](https://www.youtube.com/watch?v=AZ4smc076yo) | [Pitchfork Live](https://www.youtube.com/watch?v=q4xKvHANqjk)
