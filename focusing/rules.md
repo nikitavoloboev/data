@@ -69,6 +69,7 @@ Some simple rules to follow for myself doing things.
 - Focus on [whole food, pescetarian diet](../health/nutrition/foods.md).
 - Eat a salad every morning.
 - Take [Vitamin D & Vitamin B12](../health/nutrition/supplements.md) every morning.
+- Everything in moderation. Avoid alcohol and hard drugs (like opiates).
 
 ## Compassion
 - Value each animal’s life as equal to that of my own. Don't eat anyone.
