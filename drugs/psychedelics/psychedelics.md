@@ -35,3 +35,4 @@ But as will all things, _moderation is key_. Or as in the case of psychedelics, 
 - [Psychoactive substance index](https://psychonautwiki.org/wiki/Psychoactive_substance_index)
 - [Psychedelic Society](http://psychedelicsociety.org.uk/)
 - [Roland Griffiths, Ph.D. on Psilocybin, Psychedelic Therapies & Mystical Experiences](https://www.youtube.com/watch?v=rkBq33KWFmY)
+- [The Third Wave](https://thethirdwave.co/) - Resources for safe, structured, and responsible psychedelic use.

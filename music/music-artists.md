@@ -68,7 +68,7 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Ólafur Arnalds](https://soundcloud.com/olafur-arnalds)
 - [SOHN](https://soundcloud.com/sohn)
 - [Kyson](https://soundcloud.com/kyson)
-- [Tipper](https://soundcloud.com/tippermusic)
+- [Tipper](https://soundcloud.com/tippermusic) - [Gulch](https://www.youtube.com/watch?v=weHWUUEtssM) | [Chrome Splat](https://www.youtube.com/watch?v=A54oOJAnojY)
 - [Pink Floyd](https://soundcloud.com/officialpinkfloyd)
 - [Henry Green](https://soundcloud.com/henrygreenmusic)
 - [Soosh](https://soundcloud.com/soosh)
@@ -151,3 +151,4 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Fantasy Guys](https://soundcloud.com/fantasy-guys) - [Jazzy Kisses](https://www.youtube.com/watch?v=EaEBp2800eo)
 - [Queens Of The Stone Age](https://soundcloud.com/qotsa) - [Make It Wit Chu (Virgin Magnetic Material Remix)](https://www.youtube.com/watch?v=hg14Ocs03xA)
 - [Corbin](https://soundcloud.com/spookycorbin) - [Ice Boy](https://www.youtube.com/watch?v=GTFoHva8Sbo&feature=youtu.be)
+- [Magnolian](https://soundcloud.com/magnolianmusic) - [The Dream of Ridiculous Man](https://www.youtube.com/watch?v=GPvl-rO5CXo)

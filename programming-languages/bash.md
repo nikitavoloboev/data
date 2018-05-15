@@ -9,6 +9,7 @@ Also it's really useful to use [SpellCheck](https://www.shellcheck.net).
 ## Links
 - [Parameter expansion](http://wiki.bash-hackers.org/syntax/pe)
 - [Defensive BASH Programming](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/)
+- [Safe ways to do things in Bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md#readme) ([HN comments](https://news.ycombinator.com/item?id=17057596))
 
 ## Snippets
 - [Removes some string from a string](https://gist.github.com/187a7971fd28de1eeaeabe0bd3a6d457)

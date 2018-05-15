@@ -7,8 +7,10 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 - [DashDoc](https://github.com/farcaller/DashDoc) - Dash integration.
 - [Marked](https://github.com/icio/sublime-text-marked) - Preview markdown files quickly with [Marked](http://marked2app.com) app.
 - [WakaTime](https://wakatime.com/sublime-text) - Automatic time tracking and metrics generated from your programming activity.
-- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Code linting framework.
 - [SublimeTodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - Review TODO (and other) comments within your code.
+
+## Lint
+- [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) - Code linting framework.
 
 ## Looks
 - [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons.
@@ -30,6 +32,9 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 
 ## Looks
 - [DistractionFreeWindow](https://github.com/aziz/DistractionFreeWindow) - Sublime Text's "Distraction free mode" but not full-screen.
+
+## Lint
+- [SublimeLinter Shellcheck](https://github.com/SublimeLinter/SublimeLinter-shellcheck) - Linter plugin for SublimeLinter provides an interface to shellcheck.
 
 ## Git
 - [Git](https://github.com/kemayo/sublime-text-git) - Git integration.

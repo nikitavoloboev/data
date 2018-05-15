@@ -1,6 +1,10 @@
 # Math
 Math is fascinating. And frankly I am not that good at it yet. But I can get better.
 
+## Notes
+- Math can be learned, it's just a bit silly to dive into a homotopy type theory book and expect to get a firm grasp of things. It's like picking up a chinese news paper and expecting to get an idea of what its content is about.
+- Without understanding the domain, you cant read a text well. Without understanding the grammar you cant read a text. Without understanding the symbols you cant even figure out the grammar.
+
 ## Links
 - [What does it feel like to invent math?](https://www.youtube.com/watch?v=XFDM1ip5HdU)
 - [How to read Mathematics](https://news.ycombinator.com/item?id=15905048)

@@ -2,6 +2,7 @@
 ## Notes
 - A value is some concrete thing, and a type is a collection of concrete things (but is itself not a concrete thing. For example any individual integer is a value, but the collection of all integers is a type. Much like elements and sets in set theory.
 - A type is a collection of values which inhabit that type. A type is a value which is a member of the type of types.
+- Type theory goes much much further than just tagging data.
 
 ## Links
 - [Learn TT](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
