@@ -1,5 +1,6 @@
 # [Unix Shell](http://www.wikiwand.com/en/Unix_shell)
 ## Variables
+All active variables can be seen by running `env`.
 - `$HOME` - Expands to the path of my home folder.
 - `$PS1` - Variable that represents my command prompt line.
 - `$PATH` - Special environment variable that contains the command path (list of system directories that the shell searches when trying to locate a command).

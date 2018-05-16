@@ -26,6 +26,7 @@ Here are few more things I liked, design wise.
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
 - [Sasha Greif](http://sachagreif.com/)
 - [Adam Pritchard](https://crypti.cc/)
+- [Mike Solomon](https://msol.io/)
 - [I am Stevedao](https://iamstevendao.github.io/portfolio/)
 - [Tonsky](http://tonsky.me/about/)
 - [Isobit](https://www.isobit.io)
@@ -92,6 +93,7 @@ Here are few more things I liked, design wise.
 - [Matthew Conlen](https://mathisonian.com/) - Clean.
 - [Zdziarski's Blog of Things](https://www.zdziarski.com/blog/)
 - [Fuzzy Notepad](https://eev.ee/blog/)
+- [npf by Nate Finch](https://npf.io/)
 
 ## Other
 - [Monzo docs](https://monzo.com/docs/#authentication) - Love the look of it.

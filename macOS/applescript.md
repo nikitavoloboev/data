@@ -4,6 +4,7 @@ Pretty useful to know scripting language for macOS.
 ## Links
 - [Advanced Applescript techniques](https://computers.tutsplus.com/tutorials/advanced-applescript-techniques--mac-4603)
 - [Best practices for GUI scripting](http://forum.latenightsw.com/t/best-practices-for-gui-scripting/561/26?u=ccstone)
+- [Applescript snippets](https://github.com/unforswearing/applescript#readme)
 
 ## Snippets
 - [Get path of open document in an app](https://gist.github.com/b7c8b94717134d98f5580c7945b592ad)
