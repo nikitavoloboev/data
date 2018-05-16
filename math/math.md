@@ -21,3 +21,4 @@ Math is fascinating. And frankly I am not that good at it yet. But I can get bet
 - [How Grothendieck Simplified Algebraic Geometry](http://www.ams.org/publications/journals/notices/201603/rnoti-p256.pdf)
 - [A new “Mathematician’s Apology”](https://ldtopology.wordpress.com/2017/03/18/a-new-mathematicians-apology/)
 - [Interesting theorems](https://www.reddit.com/r/math/comments/6p9qic/if_every_field_had_to_have_a_fundamental_theorem/dknqbb2/)
+- [Ask HN: How do I learn math/physics in my thirties?](https://news.ycombinator.com/item?id=17075261)

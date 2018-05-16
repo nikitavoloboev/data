@@ -1,7 +1,7 @@
 # Life
 I live an interesting life. I think. It is fascinating to think what I would be doing if I was born a decade earlier or few decades later. How different would my life be? But I may probably never know that.
 
-In any way, you probably live only one life. So best make it count.
+In any way, you probably live only one life. So best [make it count](http://paulgraham.com/vb.html).
 
 ## Notes
 - [We live infinitely; the soul is the energy that cannot be destroyed and the physical body is merely a vesicle.](https://www.reddit.com/r/DMT/comments/7mnp7f/your_number_one_most_profound_realisation_after/)
@@ -10,6 +10,5 @@ In any way, you probably live only one life. So best make it count.
 - [Life isn't meant to be easy. Everyone suffers in different ways. You don't deserve to be happy since the nature of reality is slow degradation of your life. Don't over estimate other people's happiness compared to your own. Life is hard for all of us. And let me tell you my friend, solitude is a blessing. It is an opportunity to discover more of yourself and your soul. And ultimately, you will always be alone whether you're in a crowded dance club or in the middle of the desert. Stop worrying about being alone. Fill your time with your passions and life will build itself around you so that you are at least slightly less miserable.](https://www.reddit.com/r/Psychonaut/comments/8exb53/seems_i_am_destined_for_a_life_of_lonely/)
 
 ## Links
-- [Life is short](http://paulgraham.com/vb.html)
 - [13 Lessons Learned](https://brightthemag.com/13-lessons-learned-e4f8ceb21e60)
 - [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)
