@@ -24,7 +24,7 @@ The number between brackets shows the year I wrote the article in. Articles with
 - [Insta cloning (2017) 🌟](https://medium.com/@NikitaVoloboev/insta-cloning-ff5f38eb1d32) - How to quickly clone and open the repository in your favourite editor.
 
 ## Writing
-- [Why medium? (2016)](https://medium.com/@NikitaVoloboev/why-medium-ff9b13fefe61#.guictx69p) - Why host my writing on medium and not on my own site.
+- [Why Medium? (2016)](https://medium.com/@NikitaVoloboev/why-medium-ff9b13fefe61#.guictx69p) - Why host my writing on medium and not on my own site.
 
 ## Privacy
 - [Like a dog on a leash (2017) 🌟](https://medium.com/@NikitaVoloboev/like-a-dog-on-a-leash-c0cdb8839079) - My thoughts on privacy and why one should care about it.

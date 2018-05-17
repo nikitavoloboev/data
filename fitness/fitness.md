@@ -5,3 +5,6 @@ I am also trying to limit my time being stationary by exercising either at home 
 
 ## Notes
 - Exercise helps make better use of the foods you are eating and produces the hormones you need to think clearly.
+
+## Links
+- [Workout Prep](https://www.julian.com/guide/muscle/prep)
