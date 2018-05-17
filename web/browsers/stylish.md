@@ -27,8 +27,7 @@ Here are themes I love using with it.
 ![](https://i.imgur.com/hjCCD1E.png)
 
 ## [Lobsters Dark](https://userstyles.org/styles/136068/neo-dark-lobsters)
-
-![]()
+![](https://i.imgur.com/nCjge7A.png)
 
 I also use [Wikiwand](http://www.wikiwand.com) as my wiki with dark mode:
 

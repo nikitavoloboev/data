@@ -71,7 +71,7 @@ One other thing I absorved is just how much the kind of links I shared changed w
 ![](https://i.imgur.com/GMa59IK.png)
 
 ![](https://i.imgur.com/xd6zjTV.png)
-> The actual short article
+> My first super short article
 
 Since then I genuinely try to live by that motto of trying to express myself, who I am and what I want to see or create. It's a really liberating thought and outlook on life that no matter what you do, there is no one that can judge you for being **you**. I am still trying to integrate this idea more into my life. It's crazy to think what would happen if I didn't actually sit down and write that article that day. I wouldn't have started a blog then and probably wouldn't have started it in a long time since then either. I wouldn't have created this wiki as result as it came as a somewhat of direct evolution of my blog and the things I have learned about Open Source and development. Will see how my workflow changes in time, I am curious to see what I will learn next and if I will regret having this wiki and these public journal logs. Although I doubt that.
 
