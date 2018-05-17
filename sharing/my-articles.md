@@ -2,7 +2,6 @@
 The number between brackets shows the year I wrote the article in. Articles with 🌟 are my __favourite__.
 
 ## Life
-- [Just keep expressing yourself (2015)](https://medium.com/@NikitaVoloboev/just-keep-expressing-yourself-306870791ae4#.3ilcote4m) - The first article I have ever wrote and published on how to not be afraid to express yourself and be you.
 - [Day Evaluations (2016) 🌟](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32) - How I started my journey with journalling and living a more conscious life.
 - [News (2016)](https://medium.com/@NikitaVoloboev/news-d6bcaaf40121#.mtj9gqvyu) - My approach to news and overflow of information.
 - [What it means to live a conscious life (2016) 🌟](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) - My journey with discovering and bringing compassion to my life.

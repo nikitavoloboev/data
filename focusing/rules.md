@@ -105,6 +105,9 @@ Some simple rules to follow for myself doing things.
 - Minimise using word _here_.
 	- When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
 
+## Medium
+- Use headings to separate sections of the article.
+
 ## Markdown
 - Don't leave unnecessary whitespace between headings and text.
 - Don't need to add `:` to the end of text when adding image below as it is implicit.

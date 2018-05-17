@@ -66,9 +66,12 @@ One thing I did find that was actually interesting was the first post I made abo
 
 I actually have a lot more things written in my private journal which I am really greatful I was doing back then. Nowadays I am more relaxed and less consistent about my journalling. Mostly because I am experimenting with having a kind of a public log/journal here. Although I still will keep my Day One journal for most everything else.
 
-One other thing I absorved is just how much the kind of links I shared changed with time. I started posting a lot more personal links with links to the mind maps + the articles I started writing on Medium. It mostly started after I publihed my [first ever article on Medium](https://medium.com/@NikitaVoloboev/just-keep-expressing-yourself-306870791ae4#.3ilcote4m) which has a rather symbolic title to it too:
+One other thing I absorved is just how much the kind of links I shared changed with time. I started posting a lot more personal links with links to the mind maps + the articles I started writing on Medium. It mostly started after I publihed my first ever article on Medium which has a rather symbolic title to it too:
 
 ![](https://i.imgur.com/GMa59IK.png)
+
+![](https://i.imgur.com/xd6zjTV.png)
+> The actual short article
 
 Since then I genuinely try to live by that motto of trying to express myself, who I am and what I want to see or create. It's a really liberating thought and outlook on life that no matter what you do, there is no one that can judge you for being **you**. I am still trying to integrate this idea more into my life. It's crazy to think what would happen if I didn't actually sit down and write that article that day. I wouldn't have started a blog then and probably wouldn't have started it in a long time since then either. I wouldn't have created this wiki as result as it came as a somewhat of direct evolution of my blog and the things I have learned about Open Source and development. Will see how my workflow changes in time, I am curious to see what I will learn next and if I will regret having this wiki and these public journal logs. Although I doubt that.
 

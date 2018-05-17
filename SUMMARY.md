@@ -199,6 +199,7 @@
 			- [Chrome DevTools](web/browsers/google-chrome/chrome-dev-tools.md)
 		- [Firefox](web/browsers/firefox.md)
 		- [Bookmarklets](web/browsers/bookmarklets.md)
+		- [Stylish](web/browsers/stylish.md)
 	- [Static sites](web/static-sites/static-sites.md)
 		- [Hugo](web/static-sites/hugo.md)
 	- [IPFS](web/ipfs.md)
