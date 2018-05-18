@@ -36,6 +36,7 @@ Go promotes composition over inheritance.
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [Go proverbs](https://go-proverbs.github.io/)
 - [Go internals](https://github.com/teh-cmc/go-internals#readme)
+- [Go 101](https://go101.org/article/101.html) - Great book.
 - [Notes on Go](https://brandur.org/go)
 - [Avoiding complexity in Go](https://bradgignac.com/2014/09/24/avoiding-complexity-with-go.html)
 - [Gopher reading list](https://github.com/enocom/gopher-reading-list#readme)
