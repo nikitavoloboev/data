@@ -262,7 +262,6 @@
 - [Computer vision](computer-vision/computer-vision.md)
 - [Package managers](package-managers/package-managers.md)
 	- [Nix](package-managers/nix.md)
-	- [Homebrew](package-managers/homebrew.md)
 - [Tools](tools/tools.md)
 	- [CodeSandbox](tools/codesandbox.md)
 	- [GitBook](tools/gitbook.md)

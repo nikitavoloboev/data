@@ -1,6 +1,4 @@
 # [Nix](https://github.com/NixOS/nix)
-Nix package manager is really interesting. I am in the process of transitioning to using it over homebrew.
-
 ## Notes
 - Nix lets you roll back changes atomically.
 - nix-shell lets you make build environments that are totally reproducible across machines, and don’t interfere with each other. You can freely mix any number of libraries of versions or software on the same machine and they don’t conflict.
@@ -11,6 +9,7 @@ labour, results will vary, and undoing a change can be really difficult.
 - Nix is Turing complete language used for configuration and building packages.
 - Can use nox, nix search, nix-repl, [nixOS packages](https://nixos.org/nixos/packages.html#) to search for packages.
 - Think of Nix (the language) as an expression-based programming language where every program evaluates to a single (possibly complex) value; that resulting value is what is used as eg. the configuration of your system or a package, but it means that you can generate that value based on arbitrary logic and abstractions like you would with a regular programming language
+- As for domain-specific package managers, It Depends; it's possible with varying degrees of hackiness (and I definitely use eg. npm for development), but for a 'real' deployment - whether as a service on a server or as a local application - you'd want to convert your project's metadata to a Nix expression and let Nix handle the dependency management.
 
 ## Links
 - [Nix manual](https://nixos.org/nix/manual/)
