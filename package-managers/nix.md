@@ -8,7 +8,9 @@ Nix package manager is really interesting. I am in the process of transitioning 
 labour, results will vary, and undoing a change can be really difficult.
 	- With NixOS, it's like 3D printing a new car every time. You'll design a model, press a button, and the car gets built from scratch. If you don't like it, tweak the design a bit, and print a new car. If the new car breaks, just go back to the previous known-good one, which is already in your garage. You can even take the design documents to your friend and generate an exactly identical model.
 - `sudo` command sets the wrong `$HOME`, have to use `sudo -i` for nix commands that need sudo.
-- Nix is Turing complete configuration.
+- Nix is Turing complete language used for configuration and building packages.
+- Can use nox, nix search, nix-repl, [nixOS packages](https://nixos.org/nixos/packages.html#) to search for packages.
+- Think of Nix (the language) as an expression-based programming language where every program evaluates to a single (possibly complex) value; that resulting value is what is used as eg. the configuration of your system or a package, but it means that you can generate that value based on arbitrary logic and abstractions like you would with a regular programming language
 
 ## Links
 - [Nix manual](https://nixos.org/nix/manual/)
