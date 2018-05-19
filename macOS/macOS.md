@@ -10,6 +10,7 @@ In any way, I like to think my journey with macOS, operating systems, programmin
 	- `Return` or `⌘ + S` = Save
 	- `ESC` = Cancel
 - I can also press `/` or `~` to quickly go to some directory from a save dialogue. And I can press `⌘ + ↑` to go to `parent directory`.
+- Recovery mode: Power off the machine, press the power button and immediately hold Cmd-R.
 
 ## Links
 - [macOS developer tutorials](https://www.raywenderlich.com/category/macos)
