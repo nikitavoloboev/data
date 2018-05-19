@@ -17,7 +17,7 @@ My most used workflows at current time are:
 - [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything)
 - [GitHub Jump](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations)
 
-Coupled with many [small workflows](https://github.com/nikitavoloboev/small-workflows) I made. I hope to add more workflows of my own to the mix with time.
+Coupled with many [small workflows](https://github.com/nikitavoloboev/small-workflows) I made. I hope to add more workflows of my own [to the mix](https://github.com/learn-anything/alfred-workflows#readme) with time.
 
 ### Symlink workflows
 It is a great idea to symlink workflows you are working on so you can work on them in the comfort of your file system and not inside Alfred UUID named directories.

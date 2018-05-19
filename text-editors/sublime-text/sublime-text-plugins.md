@@ -21,6 +21,9 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 ## Git
 - [GitGutter](https://github.com/jisaacks/GitGutter) - See git diff in gutter.
 
+## Nix
+- [SublimeNix](https://github.com/wmertens/sublime-nix) - Nix syntax highlighting.
+
 ## Theme
 - [Ayu](https://github.com/dempfi/ayu)
 

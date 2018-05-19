@@ -8,8 +8,9 @@ labour, results will vary, and undoing a change can be really difficult.
 - `sudo` command sets the wrong `$HOME`, have to use `sudo -i` for nix commands that need sudo.
 - Nix is Turing complete language used for configuration and building packages.
 - Can use nox, nix search, nix-repl, [nixOS packages](https://nixos.org/nixos/packages.html#) to search for packages.
-- Think of Nix (the language) as an expression-based programming language where every program evaluates to a single (possibly complex) value; that resulting value is what is used as eg. the configuration of your system or a package, but it means that you can generate that value based on arbitrary logic and abstractions like you would with a regular programming language
+- Think of Nix (the language) as an expression-based programming language where every program evaluates to a single (possibly complex) value; that resulting value is what is used as eg. the configuration of your system or a package, but it means that you can generate that value based on arbitrary logic and abstractions like you would with a regular programming language.
 - As for domain-specific package managers, It Depends; it's possible with varying degrees of hackiness (and I definitely use eg. npm for development), but for a 'real' deployment - whether as a service on a server or as a local application - you'd want to convert your project's metadata to a Nix expression and let Nix handle the dependency management.
+- Overlay adds/overrides something in the global package set.
 
 ## Links
 - [Nix manual](https://nixos.org/nix/manual/)
@@ -22,3 +23,4 @@ labour, results will vary, and undoing a change can be really difficult.
 - [Nix: A Reproducible Setup for Linux and macOS](http://nmattia.com/posts/2018-03-21-nix-reproducible-setup-linux-macos.html)
 - [hnix](https://github.com/jwiegley/hnix) - Haskell re-implementation of the Nix expression language.
 - [Haskell & Nix](https://github.com/Gabriel439/haskell-nix)
+- [neat macOS nix darwin config.nix](https://github.com/LnL7/nix-darwin/blob/master/modules/examples/lnl.nix)

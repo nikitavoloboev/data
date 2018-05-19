@@ -104,6 +104,7 @@
 	- [Reverse engineering](programming/reverse-engineering.md)
 	- [Protocol Buffers](programming/protocol-buffers.md)
 	- [Coding practice](programming/coding-practice.md)
+	- [Serialization](programming/serialization.md)
 	- [Competitive Programming](programming/competitive-programming.md)
 - [Programming languages](programming-languages/programming-languages.md)
 	- [Go](programming-languages/go/go.md)
