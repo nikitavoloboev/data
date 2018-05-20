@@ -1,7 +1,7 @@
 # macOS apps
-I maintain a big list of apps I use on my system [here](https://github.com/nikitavoloboev/my-mac-os#readme) where each app is ranked from my favourite and most used to less favourite.
+I maintain a big list of apps I use on my system [here](https://github.com/nikitavoloboev/my-mac-os#readme) together with why and how I use them.
 
-Of course ranking apps like that is a bit hard as each is often a tool that accomplishes some task really well. I still find the list quite accurate with respect to my own workflow.
+And [here](https://gist.github.com/nikitavoloboev/f8535907961e7445ceb7d6415f9663d9) is a full list of the apps I have inside my `/Applications` folder.
 
 ## Links
 - [Interesting macOS apps](https://github.com/learn-anything/macos-apps#readme)

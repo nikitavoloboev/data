@@ -39,10 +39,7 @@ I try to be methodical in working and doing things. And I use the best tools and
 - [Looking back](../looking-back/looking-back.md) - My public log of things I've done and worked on throughout the months with highglights and comments on each month/year.
 
 ## Writing
-- [Ulysses](../macOS/apps/ulysses.md) - All my writing. Medium posts, stories, wiki, small pieces and ideas.
-
-## Contacts
-- Apple Contacts - All people I meet and I am interested in are added as contacts in my contacts book. All contacts are prefixed with a category (i.e. __f.__ for __friend__ or __i.__ for __internet__) and most contacts have tags attached so it's easier to remember the person. I use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/search-for-content#readme) to search all contacts, names, tags and notes I wrote for the contact.
+- [Ulysses](../macOS/apps/ulysses.md) - Write my Medium articles there and edit my wiki from the phone there.
 
 ## [Mac](https://github.com/nikitavoloboev/my-mac-os#readme)
 

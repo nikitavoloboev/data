@@ -1,5 +1,5 @@
-# Countries
-Countries I visited thus far in my life with some comments on them.
+# Visited
+Countries and cities I visited thus far with some comments on them.
 
 ## [Netherlands](http://www.wikiwand.com/en/Netherlands)
 ### [Eindhoven](http://www.wikiwand.com/en/Eindhoven)
