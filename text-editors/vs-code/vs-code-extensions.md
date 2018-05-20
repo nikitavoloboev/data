@@ -2,95 +2,101 @@
 Below is a list of extensions I use.
 
 ## Utility
-- [Vim](https://github.com/VSCodeVim/Vim) - Vim emulation.
-- [Advanced New File](https://github.com/dkundel/vscode-new-file) - Create new files quickly.
-- [Bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Mark lines in the editor and easily jump to them.
-- [Change case](https://github.com/wmaurer/vscode-change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
-- [Code runner](https://github.com/formulahendry/vscode-code-runner) - Run code snippet or code file for multiple languages.
-- [Dash](https://github.com/deerawan/vscode-dash) - Dash documentation integration.
-- [Docker](https://github.com/microsoft/vscode-docker) - Easilly build and deploy containerized applications from VS Code.
-- [File Icons](https://github.com/file-icons/vscode) - File specific icons for improved visual grepping.
-- [Path Intellisense](https://github.com/ChristianKohler/PathIntellisense) - Autocomplete filenames.
-- [RelativePath](https://github.com/jakob101/RelativePath) - Get the relative path to any file in the workspace.
-- [Settings Sync](https://github.com/shanalikhan/code-settings-sync) - Synchronize VS Code settings across multiple machines using Github Gist.
-- [Terminal tabs](https://github.com/Tyriar/vscode-terminal-tabs) - Adds tabs for each terminal process to the status bar.
-- [TODO Highlight](https://github.com/wayou/vscode-todo-highlight) - Highlight TODO, FIXME and other annotations within your code.
-- [WakaTime](https://github.com/wakatime/vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
+- [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation.
+- [Advanced New File](https://marketplace.visualstudio.com/items?itemName=dkundel.vscode-new-file) - Create new files quickly.
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
+- [Change case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
+- [Code runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
+- [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
+- [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easilly build and deploy containerized applications from VS Code.
+- [File Icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) - File specific icons for improved visual grepping.
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.
+- [RelativePath](https://marketplace.visualstudio.com/items?itemName=john681611.relativepath) - Get the relative path to any file in the workspace.
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize VS Code settings across multiple machines using Github Gist.
+- [Terminal tabs](https://marketplace.visualstudio.com/items?itemName=Tyriar.terminal-tabs) - Adds tabs for each terminal process to the status bar.
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - Highlight TODO, FIXME and other annotations within your code.
+- [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
 
 ## Go
-- [Go](https://github.com/Microsoft/vscode-go) - Rich language support for the Go language.
+- [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language.
 
-## Javascript
-- [ESLint](https://github.com/Microsoft/vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code.
-- [Prettier](https://github.com/prettier/prettier-vscode) - Format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
-- [NPM Intellisense](https://github.com/ChristianKohler/NpmIntellisense) - Autocomplete npm modules in import statements.
-- [Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug) - Debug your JavaScript code running in Google Chrome from VS Code.
-- [Yarn](https://github.com/gamunu/vscode-yarn) - Manage yarn commands.
+## JavaScript
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code.
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
+- [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Autocomplete npm modules in import statements.
+- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code running in Google Chrome from VS Code.
+- [Yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn) - Manage yarn commands.
 
-## Typescript
-- [TSLint](https://github.com/Microsoft/vscode-tslint) - Supports [TSLint](https://palantir.github.io/tslint/).
+## TypeScript
+- [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - Supports [TSLint](https://palantir.github.io/tslint/).
 
 ## HTML
-- [Auto Close Tag](https://github.com/formulahendry/vscode-auto-close-tag) - Automatically add HTML/XML close tag.
-- [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag) - Automatically rename paired HTML/XML tag.
-
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag.
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tag.
 ## CSS
-- [Color Info](https://github.com/mattbierner/vscode-color-info) - Provides quick information CSS colors.
-- [Stylelint](https://github.com/shinnn/vscode-stylelint) - Lint CSS/SCSS/Less with [stylelint](https://stylelint.io/).
+- [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information CSS colors.
+- [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [stylelint](https://stylelint.io/).
 
 ## Haskell
-- [Haskell Language](https://github.com/JustusAdam/language-haskell) - Adds highlighting support for Haskell.
+- [Haskell Language](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) - Adds highlighting support for Haskell.
 
 ## Rust
-- [Rust](https://github.com/rust-lang-nursery/rls-vscode) - Adds language support for Rust.
+- [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Adds language support for Rust.
 
 ## Python
-- [Python](https://github.com/Microsoft/vscode-python) - Rich support for the Python language.
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Rich support for the Python language.
 
 ## C/C++
-- [CPP tools](https://github.com/Microsoft/vscode-cpptools) - C/C++ IntelliSense, debugging, and code browsing.
+- [CPP tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - C/C++ IntelliSense, debugging, and code browsing.
 
 ## Git
-- [GitLens](https://github.com/eamodio/vscode-gitlens) - Visualize code authorship at a glance via Git blame annotations and code lens.
-- [Open in GitHub](https://github.com/ziyasal/vscode-open-in-github) - Jump to a source code line in Github, Bitbucket, GitLab.
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Visualize code authorship at a glance via Git blame annotations and code lens.
+- [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github) - Jump to a source code line in Github, Bitbucket, GitLab.
 
 ## Markdown
-- [Markdown](https://github.com/neilsustc/vscode-markdown) - Keyboard shortcuts, table of contents, auto preview and more.
+- [Markdown](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Keyboard shortcuts, table of contents, auto preview and more.
 
 ## LaTeX
-- [LaTeX Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Provide all-in-one features and utilities for LaTeX typesetting.
+- [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - Provide all-in-one features and utilities for LaTeX typesetting.
 
 ## Lua
-- [Lua](https://github.com/trixnz/vscode-lua) - Provides Intellisense and Linting for Lua.
+- [Lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua.
+
+## Java
+- [Language Support for Java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+- [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 
 ## Theme
-- [Ayu](https://github.com/teabyii/vscode-ayu)
+- [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 
 # Interesting (not using)
 ## Utility
-- [Polacode](https://github.com/octref/polacode) - Polaroid for your code.
-- [Calculate](https://github.com/andrewcarreiro/vscode-calculate) - Evaluate math expressions.
-- [Code Outline](https://github.com/patrys/vscode-code-outline) - Display code outline tree in the explorer pane.
-- [Empty indent](https://github.com/DmitryDorofeev/vscode-empty-indent) - Remove indent of empty lines on save.
-- [Endwise](https://github.com/kaiwood/vscode-endwise) - Wisely add "end" in Ruby.
-- [Git History](https://github.com/DonJayamanne/gitHistoryVSCode) - Git History, Search and More.
-- [Javascript Snippet pack](https://github.com/akamud/vscode-javascript-snippet-pack)
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Polaroid for your code.
+- [Calculate](https://marketplace.visualstudio.com/items?itemName=acarreiro.calculate) - Evaluate math expressions.
+- [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline) - Display code outline tree in the explorer pane.
+- [Empty indent](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent) - Remove indent of empty lines on save.
+- [Endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise) - Wisely add "end" in Ruby.
 - [NPM scripts](https://github.com/Microsoft/vscode-npm-scripts) - Run npm-scripts and validate package.json files.
-- [React Component](https://github.com/remicass/vscode-exts/tree/master/react-component) - Creates a react component code according to file name.
-- [Shell](https://github.com/bbenoist/vscode-shell) - Execute shell commands from VS Code.
-- [SVG Viewer](https://github.com/cssho/vscode-svgviewer)
-- [FTP Simple](https://github.com/humy2833/FTP-Simple) - Simple FTP/SFTP.
-- [Regex Previewer](https://github.com/chrmarti/vscode-regex) - Shows the current regular expression's matches in a side-by-side document.
-- [Import cost](https://github.com/wix/import-cost) - Displays the import size of the package you are importing inside the code editor.
+- [Shell](https://marketplace.visualstudio.com/items?itemName=bbenoist.Shell) - Execute shell commands from VS Code.
+- [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
+- [FTP Simple](https://marketplace.visualstudio.com/items?itemName=humy2833.ftp-simple) - Simple FTP/SFTP.
+- [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - Shows the current regular expression's matches in a side-by-side document.
+- [Import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Displays the import size of the package you are importing inside the code editor.
 - [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - Makes indentation easier to read.
 
+## Git
+- [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - Git History, Search and More.
+
+## JavaScirpt
+- [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack)
+
 ## Themes
-- [Subliminal](https://github.com/gaearon/subliminal)
-- [Alabaster](https://github.com/tonsky/vscode-theme-alabaster)
+- [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
+- [Alabaster](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster)
 
 ## Notes
-- In [Go plugin](https://github.com/Microsoft/vscode-go) `ife` snippet will create an error catching block.
+- In [Go plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) `ife` snippet will create an error catching block.
 
 ## Links
 - [VS Code API](https://code.visualstudio.com/Docs/extensionAPI/vscode-api)
