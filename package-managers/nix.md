@@ -11,6 +11,7 @@ labour, results will vary, and undoing a change can be really difficult.
 - Think of Nix (the language) as an expression-based programming language where every program evaluates to a single (possibly complex) value; that resulting value is what is used as eg. the configuration of your system or a package, but it means that you can generate that value based on arbitrary logic and abstractions like you would with a regular programming language.
 - As for domain-specific package managers, It Depends; it's possible with varying degrees of hackiness (and I definitely use eg. npm for development), but for a 'real' deployment - whether as a service on a server or as a local application - you'd want to convert your project's metadata to a Nix expression and let Nix handle the dependency management.
 - Overlay adds/overrides something in the global package set.
+- In general, you should only install things with nix, and not use any other package managers.
 
 ## Links
 - [Nix manual](https://nixos.org/nix/manual/)

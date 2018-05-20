@@ -236,7 +236,7 @@ Some simple rules to follow for myself doing things.
 
 ## Ideas
 - If the idea is not private. Share it in [Trello](https://trello.com/b/alB1ryRP). Add relevant description and links to describe the idea clearly.
-- Let the ideas evolve. Work on it and it might change into something else over time.
+- Let the ideas evolve. Work on it and it might change into something far greater over time.
 
 ## Capitalising things
 - Capitalise everything where appropriate (Sentences / Headings / Alfred workflows / GitHub descriptions / GitHub issues and PRs / Comments in SnippetsLab / Main dashed points / Tweets / ..).
