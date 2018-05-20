@@ -45,7 +45,7 @@
 	- [Markdown](writing/markdown.md)
 - [Education](education/education.md)
 - [macOS](macOS/macOS.md)
-	- [Apps](macOS/apps/macOS-apps.md)
+	- [macOS Apps](macOS/apps/macOS-apps.md)
 		- [Alfred](macOS/apps/alfred/alfred.md)
 			- [Making Workflows](macOS/apps/alfred/making-workflows.md)
 			- [AwGo](macOS/apps/alfred/awgo.md)

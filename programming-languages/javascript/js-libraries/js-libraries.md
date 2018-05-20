@@ -3,6 +3,7 @@
 - [Neutrino dev](https://github.com/mozilla-neutrino/neutrino-dev)
 - [Next.js](https://github.com/zeit/next.js/) - Framework for server-rendered or statically-exported React apps.
 - [San](https://github.com/baidu/san) - Flexible JavaScript component framework.
+- [hapi](https://hapijs.com/) - Rich framework for building applications and services.
 
 ## Animation
 - [popmotion](https://github.com/Popmotion/popmotion) - Functional, reactive animation library.

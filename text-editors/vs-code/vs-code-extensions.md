@@ -33,6 +33,7 @@ Below is a list of extensions I use.
 ## HTML
 - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) - Automatically add HTML/XML close tag.
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tag.
+
 ## CSS
 - [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information CSS colors.
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [stylelint](https://stylelint.io/).
