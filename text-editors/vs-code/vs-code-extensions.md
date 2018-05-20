@@ -62,10 +62,6 @@ Below is a list of extensions I use.
 ## Lua
 - [Lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua.
 
-## Java
-- [Language Support for Java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
-- [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
-
 ## Theme
 - [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 
@@ -90,6 +86,9 @@ Below is a list of extensions I use.
 
 ## JavaScirpt
 - [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack)
+
+## Java
+- [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 
 ## Themes
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
