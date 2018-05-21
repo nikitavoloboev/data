@@ -30,7 +30,7 @@ The number between brackets shows the year I wrote the article in. Articles with
 
 ## Alfred
 - [Opening up my mind (2017) 🌟](https://medium.com/@NikitaVoloboev/opening-up-my-mind-%EF%B8%8F-575c8ece8a24) - Sharing my most personal alfred workflow about myself, my entire workflow and setup, one download away for anyone who cares.
-- [Writing alfred workflows in go (2017) 🌟](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) - How to write Alfred Workflows in Go language.
+- [Writing alfred workflows in Go (2017) 🌟](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) - How to write Alfred Workflows in Go language.
 
 ## Tooling
 - [Pretty and fast shell (2017) 🌟](https://medium.com/@NikitaVoloboev/pretty-and-fast-shell-97ea870f2805) - How to setup a very awesome and modern shell experience from the ground up and have full control over it.

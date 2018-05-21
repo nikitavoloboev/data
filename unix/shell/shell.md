@@ -10,6 +10,7 @@ All active variables can be seen by running `env`.
 - In shell everything is a string.
 - Children never touch parent enviroment. It can only if it runs as part of the current process (source, function, alias).
 - Pipes are used to connect one process's output with another process’s input.
+- `/etc/paths.d` define paths to add to `$PATH` globally to all users.
 
 ## Links
 - [Explain Shell](https://www.explainshell.com/)

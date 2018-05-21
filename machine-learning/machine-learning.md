@@ -26,3 +26,4 @@ Making computers learn using algorithms and math.
 - [Summaries of ML papers](https://github.com/aleju/papers)
 - [Code and data for paper "Deep Painterly Harmonization"](https://github.com/luanfujun/deep-painterly-harmonization)
 - [FB AI Tools](https://facebook.ai/developers/tools)
+- [Best Practices for ML Engineering](https://developers.google.com/machine-learning/rules-of-ml/)
