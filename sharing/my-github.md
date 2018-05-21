@@ -40,8 +40,8 @@ The number between brackets shows the year I created the repo in. Repos with �
 - [Find work (2018) 🌟](https://github.com/nikitavoloboev/find-work#readme) - Curated list of websites and resources to find work programming.
 
 ## Practice
-- [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions to LeetCode in Go.
-- [Euler (2017)](https://github.com/nikitavoloboev/euler) - Solutions to Project Euler in Go.
+- [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions to LeetCode in Go/Python.
+- [Euler (2017)](https://github.com/nikitavoloboev/euler) - Solutions to Project Euler in Go/Python.
 
 ## Web
 - [Crafting Ideas (2017) 💡](https://github.com/nikitavoloboev/crafting-ideas) - Platform to share and grow your ideas.

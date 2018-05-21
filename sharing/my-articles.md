@@ -20,7 +20,6 @@ The number between brackets shows the year I wrote the article in. Articles with
 - [The best kind of web (2017)](https://t.co/FTtusd4336) - How you can personalise and improve your browsing experience.
 
 ## Code
-- [Little trick i use to navigate source code better (2017)](https://medium.com/@NikitaVoloboev/little-trick-i-use-to-navigate-source-code-better-bc958ccd821#.7y4y3jhqz) - I like to leave small traces in a code base to quickly jump to different points in code.
 - [Insta cloning (2017) 🌟](https://medium.com/@NikitaVoloboev/insta-cloning-ff5f38eb1d32) - How to quickly clone and open the repository in your favourite editor.
 
 ## Writing
