@@ -16,7 +16,7 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 ## Looks
 - [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons.
 
-## Javascript
+## JavaScript
 - [JSPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - Plugin for Prettier, the opinionated code formatter.
 
 ## Git

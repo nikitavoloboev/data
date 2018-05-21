@@ -9,3 +9,4 @@ As for me, I don't really know any programming language like I know English and 
 - [Interesting programming languages](https://github.com/learn-anything/programming-languages#readme)
 - [Tour de Babel](https://sites.google.com/site/steveyegge2/tour-de-babel) - Funny de tour of programming languages.
 - [Progamming Language Theory](http://steshaw.org/plt/)
+- [Conal Elliott - Teaching New Tricks to Old Programs (2017)](https://www.youtube.com/watch?v=vzLK_xE9Zy8)

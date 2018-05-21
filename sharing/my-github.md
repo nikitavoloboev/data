@@ -17,7 +17,7 @@ The number between brackets shows the year I created the repo in. Repos with �
 - [Trello (2018) 💡](https://github.com/nikitavoloboev/alfred-trello) - Communicate with Trello.
 
 ## Personal
-- [Dotfiles (2016) 🌟](https://github.com/nikitavoloboev/dotfiles) - Zsh, Neovim, Karabiner, Hammerspoon, VS Code.
+- [Dotfiles (2016) 🌟](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix, Hammerspoon.
 - [My macOS (2016) 🌟](https://github.com/nikitavoloboev/my-mac-os#readme) - List of applications and various tools that make my macOS experience even more amazing.
 - [My iOS (2016) 🌟](https://github.com/nikitavoloboev/my-ios#readme) - List of applications and tools that make my iOS experience even more amazing.
 - [AMA (2017) 🌟](https://github.com/nikitavoloboev/ama#readme) - Ask me anything.
@@ -40,8 +40,8 @@ The number between brackets shows the year I created the repo in. Repos with �
 - [Find work (2018) 🌟](https://github.com/nikitavoloboev/find-work#readme) - Curated list of websites and resources to find work programming.
 
 ## Practice
-- [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions to LeetCode in Python and Go.
-- [Euler (2017)](https://github.com/nikitavoloboev/euler) - Solutions to Project Euler in Python and Go.
+- [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions to LeetCode in Go.
+- [Euler (2017)](https://github.com/nikitavoloboev/euler) - Solutions to Project Euler in Go.
 
 ## Web
 - [Crafting Ideas (2017) 💡](https://github.com/nikitavoloboev/crafting-ideas) - Platform to share and grow your ideas.
