@@ -20,7 +20,7 @@ git commit -m "update readme"
 git push
 ```
 
-The reason for the if statement there is that I use [Nix](../../package-managers/nix.md) package manager and my `git` command is installed with Nix so I want Hazel to use it. At least that was the case on my system.
+The reason for the if statement there is that I use [Nix](../../package-managers/nix.md) package manager and my `git` command is installed with Nix so I want Hazel to use it. Otherwise it failed on my system.
 
 ## Notes
 - If you want to have your rules to be applied onto subfolders as well as the directory chosen, add this rule.

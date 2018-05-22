@@ -1,5 +1,5 @@
 # My file system
-I have a very intricate system where I put files according to their purpose and context thus I always know where to find them. And I access everything from Alfred.
+I have an intricate system where I put files according to their purpose and context thus I always know where to find them. And I access everything from Alfred.
 
 ## ~/Desktop
 My Desktop is nearly always empty. It acts as a kind of `temp` folder where every file that is put there needs to be acted upon and either moved to some other place in my system or deleted.
@@ -17,25 +17,28 @@ Everything that is code is put into this folder.
 ```Bash
 ~/dev
 ❯ ls
-alfred  applescript  bots  clones  curated  forks  github  ideas  learn  ml  personal  practice  python  rust  safari  test  uni  web  Xcode
+alfred  applescript  bots  clones  curated  forks  orgs  ideas  learn  ml  personal  practice  python  rust  safari  test  uni  web  Xcode
 ```
 
 ## ~/dev/clones
-I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I use km macro that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/dev/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime.
+I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I [use km macro](https://medium.com/@NikitaVoloboev/insta-cloning-ff5f38eb1d32) that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/dev/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime.
 
-I can also filter contents of the folder with [this workfow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true).
+I then filter contents of the folder with [this workfow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true).
 
-## ~/dev/github
+## ~/dev/forks
+If I forked something and I want to keep working on, I keep it inside `forks` folder.
+
+## ~/dev/orgs
 Inside this folder I keep all the things that are open source on GitHub sorted by organisation. In my case it's only [learn-anything](https://github.com/learn-anything/):
 
 ```Bash
-~/dev/github
+~/dev/orgs
 ❯ ls
 learn-anything
 ```
 
 ## ~/go/src/github.com/nikitavoloboev
-I keep all my Go projects inside my GOPATH.
+I keep all my Go libraries inside my GOPATH.
 
 ## ~/dev/test
 Inside this folder I have a bunch of language specific folders that usually just have one file inside them with the extension of that language. Here is how that folder looks for me:
@@ -51,9 +54,6 @@ I then have KM macros to quickly open these files:
 
 ## ~/dev/ideas
 Most of my projects I start, start out in this folder. If something works out and I like the idea and want to develop it further, I move the project away from `ideas`.
-
-## ~/dev/forks
-If I forked something and I want to keep working on the repo later, I keep it inside `forks` folder.
 
 ## ~/dev/Xcode
 Contains all my Swift iOS and macOS projects. It is further divided into macOS, iOS and playgrounds folders.
@@ -79,12 +79,12 @@ alfred-awgo-practice     alfred-github-users  alfred-learn-anything   alfred-tre
 ```
 
 ## ~/app
-I put various app configuration and app specific files in there. For example my `Alfred preferences` is synced to `~/app/alfred/Alfred.alfredpreferences`. Here is how the folder looks for me:
+I put various app configuration and app specific files in there. Here is how the folder looks for me:
 
 ```Bash
 ~/app
 ❯ ls
-alfred  dash  focus  hammerspoon  iterm  km  paw  safari
+dash  focus  hammerspoon  iterm  km  paw  safari
 ```
 
 ## ~/Documents
@@ -93,9 +93,5 @@ I use Documents to store things like books, research papers, uni work, various a
 ```Bash
 ~/Documents
 ❯ ls
-audio-books  backup  books  design  latex  papers  pdfs  personal  pixave  uni  voice-memos  watch
+Audio Books  Books  Design  History  LaTeX  Personal docs  Pixave  Podcasts  Uni  Watch
 ```
-
-I use a custom icon for Documents folder just so it's easy to distinguish them from the rest using my [folder search workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/folder-search).
-
-And since I use Karabiner and it gives me such a freedom of infinite binding of keys. I dedicate my `4` key for quickly opening various folders in Alfred file viewer.

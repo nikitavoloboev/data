@@ -13,7 +13,7 @@ The number between brackets shows the year I created the repo in. Repos with �
 - [Small Workflows (2017) 🌟](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
 - [Awesome Lists (2017) 🌟](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds.
 - [GitHub (2018) 💡](https://github.com/nikitavoloboev/alfred-github-users) - Search GitHub.
-- [last.fm (2018) 💡](https://github.com/nikitavoloboev/alfred-lastfm) - Communicate with [last.fm](https://www.last.fm/home) website.
+- [last.fm (2018) 💡](https://github.com/nikitavoloboev/alfred-lastfm) - Communicate with [last.fm](https://www.last.fm/home).
 - [Trello (2018) 💡](https://github.com/nikitavoloboev/alfred-trello) - Communicate with Trello.
 
 ## Personal
