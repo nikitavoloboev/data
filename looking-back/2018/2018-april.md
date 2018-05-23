@@ -1,6 +1,6 @@
 # 2018 April
 ## Summary
-I changed a lot this month. Starting to pay a __lot__ of attention to both my physical and mental health. I stopped completely to eat _bad_ food and I feel incredible. Started to play tennis but will be playing it a lot more the next months. Refined quite a few things in my workflow and started to love simple Zen mode interfaces for writing code.
+I changed a lot this month. Starting to pay a __lot__ of attention to both my physical and mental health. I stopped completely to eat _bad_ food and I feel incredible. Started to play tennis but will be playing it a lot more the next months. Refined a few things in my workflow and started to love simple Zen mode interfaces for writing code.
 
 These monthly looking back pieces will be a bit different going forward. Mostly because although I enjoy occasionally writing in this `Diary`, I think at times it is a bit out of place. So I will be changing it up a bit for the future but will see what works best.
 

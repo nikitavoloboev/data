@@ -38,7 +38,6 @@ I curate many [Imgur albums](https://nikivi.imgur.com) of various things.
 I share [everything I know](everything-I-know.md) in form of this wiki here. Can be easily queried with the search in top left corner and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
 
 ## Answering questions on [Reddit](https://www.reddit.com/user/nikivi/), [Quora](https://www.quora.com/profile/Nikita-Voloboev) and [Stack Overflow](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile)
-I also share a multireddit of my [favourite subreddits](https://reddit.com/user/nikivi/m/top/).
 
 ## Sharing things on [Product Hunt](https://www.producthunt.com/@nikitavoloboev), [Hacker News](https://news.ycombinator.com/user?id=nikivi), [Lobsters](https://lobste.rs/u/nikivi) and [Indie Hackers](https://www.indiehackers.com/user/nikivi)
 

@@ -39,7 +39,7 @@ Aside from that I like visiting and at times contributing to these forums:
 - [Keyboard Maestro Forum](https://forum.keyboardmaestro.com/latest)
 - [Indie Hackers](https://www.indiehackers.com/)
 
-As well as quite a few other Slack communities like:
+As well as a few other Slack communities like:
 - [Gophers](https://invite.slack.golangbridge.org/)
 - [ZEIT chat](https://zeit.chat)
 - [VS Code Vim](https://vscodevim-slackin.azurewebsites.net/)

@@ -1,11 +1,11 @@
 # [NixOS](https://nixos.org)
 NixOS is a Linux distro built around the Nix package system. Nix is built around the idea of immutability. It makes all packages immutable by giving them their own directory identified by a hash that is derived from ALL of that package's dependencies. This has a number of desirable properties:
 - It makes it trivial to have multiple versions of the same package installed at the same time and allows you to switch between them at will.
--  It is trivial to roll back your system after a failed upgrade. Difficult system recovers after you upgrade to a new unstable version are a thing of the past.
--  Non-privileged users can install software completely securely.
+- It is trivial to roll back your system after a failed upgrade. Difficult system recovers after you upgrade to a new unstable version are a thing of the past.
+- Non-privileged users can install software completely securely.
 - Projects packaged with nix have the best possible build reproducibility because nix accounts for ALL of your dependencies all the way down to the lowest level system libraries, compilers, etc.
 
-Whilst I don't use NixOS as my primary OS. I am trying to use its [nix package manager](../package-managers/nix.md) on macOS where possible.
+Whilst I don't use NixOS as my primary OS. I use [nix package manager](../package-managers/nix.md) on macOS. And exploring using NixOS for servers I use.
 
 ## Notes
 - Nix never uses host dependencies, it always builds with exactly precise dependencies every time, and will always refer to them from then on.

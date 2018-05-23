@@ -3,3 +3,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 
 ## Links
 - [Lynis](https://github.com/CISOfy/lynis) - Security auditing and hardening tool, for UNIX-based systems.
+- [Theo de Raadt presented "Pledge: A new security technology in openbsd"](https://www.youtube.com/watch?v=F_7S1eqKsFk) - Great talk.
