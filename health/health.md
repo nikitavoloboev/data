@@ -20,3 +20,6 @@ Brushing my teeth every morning and evening as well as flossing it few times thr
 
 ## Notes
 - [Great comment on staying heathy](https://www.reddit.com/r/longevity/comments/7hwgo7/for_people_in_their_young_or_middle_ages_now_who/).
+
+## Links
+- [Second Life: Rethinking Myself Through Exercise, Mindfulness, and Gratitude](https://www.macstories.net/stories/second-life/)

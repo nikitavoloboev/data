@@ -29,3 +29,4 @@ I am not a great programmer by any means but the few programs I did write solved
 - [On being an effective developer](https://carlosbecker.com/posts/on-being-an-effective-developer/)
 - [Advice to the newish programmer](https://macwright.org/2018/02/08/advice-to-the-newish-programmer.html)
 - [Comment Your Code](https://npf.io/2017/11/comments/)
+- [Никита Прокопов — Обретение навыков](https://www.youtube.com/watch?v=f6LsU1zotPI) - Great talk about levels of mastering skills but in Russian.

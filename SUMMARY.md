@@ -153,7 +153,7 @@
 	- [IntelliJ](text-editors/intellij.md)
 - [Operating systems](operating-systems/operating-systems.md)
 	- [Linux](operating-systems/linux/linux.md)
-		- [nixOS](operating-systems/linux/nixos.md)
+		- [NixOS](operating-systems/linux/nixos.md)
 	- [Containers](operating-systems/containers/containers.md)
 		- [Kubernetes](operating-systems/containers/kubernetes.md)
 	- [BSD](operating-systems/bsd/bsd.md)
