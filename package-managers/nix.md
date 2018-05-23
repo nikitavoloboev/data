@@ -1,5 +1,6 @@
 # [Nix](https://github.com/NixOS/nix)
 ## Notes
+- Nix never uses host dependencies, it always builds with exactly precise dependencies every time, and will always refer to them from then on.
 - Nix lets you roll back changes atomically.
 - nix-shell lets you make build environments that are totally reproducible across machines, and don’t interfere with each other. You can freely mix any number of libraries of versions or software on the same machine and they don’t conflict.
 - With Ubuntu, every time you want to fix something with your car, you roll it into the garage, pop open the hood and get to work. It's intensive

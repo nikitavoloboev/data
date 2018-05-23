@@ -11,6 +11,11 @@ In any way, I like to think my journey with macOS, operating systems, programmin
 	- `ESC` = Cancel
 - I can also press `/` or `~` to quickly go to some directory from a save dialogue. And I can press `⌘ + ↑` to go to `parent directory`.
 - Recovery mode: Power off the machine, press the power button and immediately hold Cmd-R.
+- Fresh install new mac:
+	- Go to recovery partition. Reinstall macOS from scratch, don’t select the option to reinstall from Time Machine. Go through install process, setup a new account, then log in. When logged in, open Time Machine Migration Assistant and chose what you want to transfer from it. You can select specific things like Applications, Documents, etc.
+	- Use Disk Utility in recovery partition to erase the hard drive to replace system files too.
+	- `~/Library/Application Support/` is where apps store auxiliary files.
+	- `~/Library/Preferences/` is where apps store preferences.
 
 ## Links
 - [macOS developer tutorials](https://www.raywenderlich.com/category/macos)

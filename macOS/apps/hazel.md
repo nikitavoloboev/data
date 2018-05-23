@@ -7,20 +7,23 @@ The rule for this is really simple and looks like this:
 ![](https://i.imgur.com/EF3elcv.png)
 
 With this as the schell script:
-![](https://i.imgur.com/eip64YV.png)
+![](https://i.imgur.com/9FgVmxm.png)
 
 Here it is in code:
 ```bash
-export USER=nikitavoloboev
-if [ -e '/nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh' ]; then
-   . '/nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh'
-fi
 git add README.md
 git commit -m "update readme"
 git push
 ```
 
-The reason for the if statement there is that I use [Nix](../../package-managers/nix.md) package manager and my `git` command is installed with Nix so I want Hazel to use it. Otherwise it failed on my system.
+To have Hazel know about commands I installed with Nix. I need to run this code first in the shell script:
+```bash
+export USER=nikitavoloboev
+if [ -e '/nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh' ]; then
+   . '/nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh'
+fi
+
+```
 
 ## Notes
 - If you want to have your rules to be applied onto subfolders as well as the directory chosen, add this rule.
