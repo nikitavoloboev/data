@@ -1,12 +1,14 @@
 # [Hazel](https://www.noodlesoft.com)
-I currently use Hazel to instantly commit any changes I make to CSV files of [web searches](https://github.com/nikitavoloboev/alfred-web-searches), [ask-create-share](https://github.com/nikitavoloboev/alfred-ask-create-share) as well as all of [LA's curated lists](https://github.com/learn-anything/curated-lists#readme). And essentially any kind of curated lists. I even automate commiting the README of [my macOS](https://github.com/nikitavoloboev/my-mac-os) repo as I want to instantly push any changes I make to the repo.
+I currently use Hazel to instantly commit any changes I make to all the [curated lists](https://github.com/learn-anything/curated-lists#readme) I maintain. As well as CSV files of [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) and [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share).
+
+I also automate commiting the README of [my macOS](https://github.com/nikitavoloboev/my-mac-os#readme) & [iOS](https://github.com/nikitavoloboev/my-ios#readme) repo as I want to instantly push any changes I make to the repo.
 
 Since I want to keep my macOS repo always updated, I made a macro to open the README file in Sublime Text so I can quickly make a change, save and the change will instantly be commited with `update readme` message.
 
-The rule for this is really simple and looks like this:
+The Hazel rule for this is really simple and looks like this:
 ![](https://i.imgur.com/EF3elcv.png)
 
-With this as the schell script:
+With this as the shell script:
 ![](https://i.imgur.com/9FgVmxm.png)
 
 Here it is in code:
