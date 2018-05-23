@@ -18,7 +18,7 @@ The number between brackets shows the year I created the repo in. Repos with �
 
 ## Personal
 - [Dotfiles (2016) 🌟](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix, Hammerspoon.
-- [My macOS (2016) 🌟](https://github.com/nikitavoloboev/my-mac-os#readme) - List of applications and various tools that make my macOS experience even more amazing.
+- [My macOS (2016) 🌟](https://github.com/nikitavoloboev/my-mac-os#readme) - List of applications and tools that make my macOS experience even more amazing.
 - [My iOS (2016) 🌟](https://github.com/nikitavoloboev/my-ios#readme) - List of applications and tools that make my iOS experience even more amazing.
 - [AMA (2017) 🌟](https://github.com/nikitavoloboev/ama#readme) - Ask me anything.
 - [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.xyz) - My personal home on the internet.
