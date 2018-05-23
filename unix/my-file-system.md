@@ -50,7 +50,7 @@ bash-test	c-test		clojure-test	go-test		haskell-test	js-test		lisp-test	python-t
 ```
 
 I then have KM macros to quickly open these files:
-![](https://i.imgur.com/Ygqwukd.png)
+![](https://i.imgur.com/IhIBpXC.png)
 
 ## ~/dev/ideas
 Most of my projects I start, start out in this folder. If something works out and I like the idea and want to develop it further, I move the project away from `ideas`.
@@ -78,8 +78,22 @@ alfred-awesome-lists     alfred-breathe       alfred-lastfm           alfred-pix
 alfred-awgo-practice     alfred-github-users  alfred-learn-anything   alfred-trello   small-workflows
 ```
 
+## ~/dev/curated
+Keep all the GitHub curated lists there where all edits to the `readme.md` files is automatically commited with [Hazel](../macOS/apps/hazel.md).
+
+```bash
+~/dev/curated
+❯ ls
+alfred-workflows	courses			games			movies			quotes			slack-groups		websites
+blogs			curated-lists		humans			newsletters		reddit			spectrum		youtube
+books			documentaries		images			podcasts		reddit-multi		stack-exchange
+cheat-sheets		find-work		ios-apps		privacy-respecting	research-papers		talks
+chrome-extensions	firefox-extensions	macos-apps		programming-languages	safari-extensions	telegram
+command-line-tools	forums			mindmaps		quora			series			tv-series
+```
+
 ## ~/app
-I put various app configuration and app specific files in there. Here is how the folder looks for me:
+I put various app configuration and app specific files in there.
 
 ```Bash
 ~/app
