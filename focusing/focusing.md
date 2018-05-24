@@ -6,15 +6,15 @@ Getting in the _flow_ state is one of the most important things I try to focus o
 
 I try to define a certain set of [rules](rules.md) and [processes](processes.md) that I like myself to follow for doing certain things.
 
-For example, one of these _rules_ can be that I need to be proactive with my email. And strive to reach inbox zero until the end of the day. But there are [many other ones](rules.md) out there.
+For example, one of these _rules_ is that I need to be proactive with my email. And strive to reach inbox zero at all times. But there are [many other ones](rules.md) out there.
 
 ## Focusing on what's important
 I keep a private Trello board where I outline things that I want to focus on in life and achieve. I try to not work on long periods of time and predict things in advance for over three months and instead work in very short time frames whilst having some end goal(s) in mind of what I ultimately want to achieve. Here is how my __Focus__ Trello board looks:
-![](https://i.imgur.com/vRHtQYZ.jpg)
+![](https://i.imgur.com/ctOSVQe.jpg)
 
 I mark the cards I want to focus on right now in my life and then only see the cards I want to focus on right now on the board.
 
-![](https://i.imgur.com/t1Jlrgv.jpg)
+![](https://i.imgur.com/xmVFTCe.jpg)
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
 
