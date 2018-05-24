@@ -1,7 +1,7 @@
 # Movies
 I really love watching interesting movies and I have seen [a few of them](https://letterboxd.com/nikitavoloboev/films/) thus far.
 
-I love [making lists](https://letterboxd.com/nikitavoloboev/lists/) of movies I've seen and liked. Like a list of my [favourite movies](https://letterboxd.com/nikitavoloboev/list/favourite) or list of my [favourite movie directors](https://letterboxd.com/nikitavoloboev/list/favourite-directors/) alongside my favourite movies from them.
+I love [making lists](https://letterboxd.com/nikitavoloboev/lists/) of movies I've seen and liked. Like a list of my [favourite movies](https://letterboxd.com/nikitavoloboev/list/favourite) or a list of my [favourite movie directors](https://letterboxd.com/nikitavoloboev/list/favourite-directors/) alongside my favourite movies from them.
 
 I keep a [Trello board](https://trello.com/b/jFaHJFow) and [Watchlist](https://letterboxd.com/nikitavoloboev/watchlist/) of movies I want to watch.
 

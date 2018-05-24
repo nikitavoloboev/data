@@ -5,6 +5,8 @@ I use some kind of vim bindings in any app I use and if there is a vim plugin fo
 
 I use [neovim](https://github.com/neovim/neovim) instead of vim and my vimrc can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). And [here](vim-plugins.md) are all the plugins I use with it.
 
+I also use a little trick where I change the cursor from thin block in insert mode to underline when in normal mode. This lets me really quickly know which mode I am in.
+
 ## Notes
 - I can profile vim startup time with [this](https://github.com/tweekmonster/startuptime.vim).
 - I can run `:CheckHealth` to see if there is anything wrong with my installation (only Neovim).
