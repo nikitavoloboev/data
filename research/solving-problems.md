@@ -17,11 +17,11 @@ I outline the problem I want to solve and then I outline the steps I think I nee
 For example I wanted to update [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) to parse [curated lists](https://github.com/learn-anything/curated-lists#readme).
 
 So I create a new branch saying what it is I want to do.
-![](https://i.imgur.com/zvCuTlb.png)
+![](https://i.imgur.com/U3XUfJ0.png)
 
 ## 2. Breaking the problem down to smaller parts
 I then try to break down the problem into small steps (things) I need to do, to make this task complete. In the case of this problem, my breakdown of the task looked like this:
-![](https://i.imgur.com/3SZobob.png)
+![](https://i.imgur.com/uU2lMrH.png)
 
 I then simply try to go through each of the steps outlined and hopefully reach a working solution.
 

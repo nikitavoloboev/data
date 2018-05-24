@@ -26,3 +26,4 @@ labour, results will vary, and undoing a change can be really difficult.
 - [hnix](https://github.com/jwiegley/hnix) - Haskell re-implementation of the Nix expression language.
 - [Haskell & Nix](https://github.com/Gabriel439/haskell-nix)
 - [neat macOS nix darwin config.nix](https://github.com/LnL7/nix-darwin/blob/master/modules/examples/lnl.nix)
+- [Brian McKenna - Nix for Functional Systems](https://www.youtube.com/watch?v=mIxtBVKo7JE)
