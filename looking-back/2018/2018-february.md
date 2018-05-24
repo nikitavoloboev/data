@@ -120,7 +120,7 @@ Here is a little collage of my favourite posts I made on FB since my first artic
 
 ![](https://i.imgur.com/FhPnsgw.png)
 
-> Pretty crazy for a random thought of making a post and going through with it. Lesson learned though. Share things I have made, perhaps something awesome will come out of it.
+> Pretty crazy for a random thought of making a post and going through with it. Lesson learned though. Share things I made, perhaps something awesome will come out of it.
 
 ![](https://i.imgur.com/bMkyxSG.png)
 

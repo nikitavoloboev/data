@@ -67,6 +67,7 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 - clearly
 - just
 - everyone knows
+- have made (use made)
 
 ## Notes
 - Most adverbs are superfluous. Most cases where you say "generally" or "usually" you're undermining your point and the use of "very", "extremely", etc. are hyperbolic and breathless and make it easier to regard what you're writing as unserious.

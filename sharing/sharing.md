@@ -15,7 +15,7 @@ I share photos and stories from my life there. I also curate a [small page of be
 I share many of the songs I like in [form of playlists](../music/music-playlists.md). I also share music I am [listening to now](https://www.last.fm/user/playfullyExist) and [artists I love](../music/music-artists.md).
 
 ## Videos on [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
-I mostly make videos about macOS automation. [Here](my-youtube.md) are all the videos I have made. I also share [many YouTube playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view_as=subscriber) I made.
+I mostly make videos about macOS automation. [Here](my-youtube.md) are all the videos I made. I also share [many YouTube playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view_as=subscriber) I made.
 
 ## Streaming on [Twitch](https://www.twitch.tv/nikitavoloboev)
 I stream some of the things I am building there. I explain things as I do them.

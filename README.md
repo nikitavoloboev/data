@@ -15,7 +15,7 @@ I share my knowledge in a longer form by [writing articles](sharing/my-articles.
 
 I also love [writing code](sharing/my-github.md) that solves various problems I have and I share it all on [GitHub](https://github.com/nikitavoloboev).
 
-[Here](http://nikitavoloboev.xyz/projects) you can find all the things I have made and shared thus far.
+[Here](http://nikitavoloboev.xyz/projects) you can find all the things I made and shared thus far.
 
 ## Make your own wiki
 You can view other similar to this, continuously updated wikis, [here](https://github.com/RichardLitt/meta-knowledge#readme).

@@ -1,5 +1,5 @@
 # Wiki Structure
-Below you will find all the notes I have made. I continuously update them and I use them myself for my own reference. I try to write things and structure them so everyone can benefit from reading them or even reference what I know easily and quickly.
+Below you will find all the notes I made. I continuously update them and I use them myself for my own reference. I try to write things and structure them so everyone can benefit from reading them or even reference what I know easily and quickly.
 
 Each folder is a topic that can include other topics under it related to the parent topic.
 

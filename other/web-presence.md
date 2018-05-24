@@ -43,7 +43,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Reddit](https://www.reddit.com/user/nikivi/) - Frequently visiting and contributing to various subreddits I like.
 - [Lobsters](https://lobste.rs/u/nikivi) - Frequently visit and contribute to this Hacker News like community.
 - [Hacker News](https://news.ycombinator.com/user?id=nikivi) - Often share things I built there.
-- [Product Hunt](https://www.producthunt.com/@nikitavoloboev) - Share all my bigger and smaller projects I have made there.
+- [Product Hunt](https://www.producthunt.com/@nikitavoloboev) - Share all my bigger and smaller projects I made there.
 - [Mastodon](https://mastodon.xyz/@nikivi) - Pretty awesome federated network. Looking for interesting communities there.
 - [Google+](https://plus.google.com/u/0/+NikitaVoloboev) - Don't use it.
 - [Meetup](https://www.meetup.com/members/185347053/) - Attending various groups and meeting new interesting people and communities.

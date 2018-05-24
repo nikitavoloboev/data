@@ -7,7 +7,7 @@ Here is a list of various things I track for my own use and reference.
 - [Books (Trello)](https://trello.com/b/MOrnm2aN) - Books I am reading now and planning to read.
 
 ## Movies
-- [Letterboxd](https://letterboxd.com/NikitaVoloboev/) - Movies [I want to watch](https://letterboxd.com/nikitavoloboev/watchlist/) as well [movies I have seen](https://letterboxd.com/nikitavoloboev/films/) together with [reviews I have written](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/) and various [movie lists](https://letterboxd.com/nikitavoloboev/lists/) I have made and shared.
+- [Letterboxd](https://letterboxd.com/NikitaVoloboev/) - Movies [I want to watch](https://letterboxd.com/nikitavoloboev/watchlist/) as well [movies I have seen](https://letterboxd.com/nikitavoloboev/films/) together with [reviews I have written](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/) and various [movie lists](https://letterboxd.com/nikitavoloboev/lists/) I made and shared.
 - [Movies (Trello)](https://trello.com/b/jFaHJFow) - Movies I plan on watching soon.
 
 ## TV series
