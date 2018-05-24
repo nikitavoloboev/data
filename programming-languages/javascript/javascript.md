@@ -13,6 +13,7 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [The Definitive Guide to Object-Oriented JavaScript](https://www.youtube.com/watch?v=PMfcsYzj-9M) - Amazing video to understand JS inheritance & objects.
 - [JavaScript: The Core](http:J//dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
 - [JavaScript is Good, Actually](https://ashfurrow.com/blog/javascript-is-good-actually/) ([HN comments](https://news.ycombinator.com/item?id=17079952))
+- [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms#readme) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
 ## Snippets
-- [Go to a specific url](https://gist.github.com/44d2f4c818a85a2cab6eff381ad43c6a)
+- [Go to a specific url](https://gist.github.com/44d2f4c818a85a2cab6eff381ad43c6a

@@ -3,10 +3,6 @@ I use the app to [fully automate writing repetitive text](https://medium.com/@Ni
 
 I share all the Typinator sets I made with the app [here](typinator#readme).
 
-I use the same trick as in KM to indicate what information should I have in a snippet before activating with by enclosing the info I need to have in the clipboard with {}.
-
-![](https://i.imgur.com/HT2C7qD.png)
-
 ## Notes
 - You can press ⌥ + ⌫ to delete snippet without dialogue box.
 
