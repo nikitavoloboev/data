@@ -18,6 +18,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Jerry Ma](https://docs.google.com/document/d/1F16GPu8A0TV1esJHrl9gA5o21OPRLG58kSxdi6dG_48/edit) - Google Docs.
 - [Ben Hoyt](https://benhoyt.com/cv/) - Web.
 - [KC Sivaramakrishnan](http://kcsrk.info/cv/cv.pdf)
+- [Jeaye Wilkerson](https://jeaye.com/resume.pdf) - Amazing.
 
 ## Notes
 - Experience > Education

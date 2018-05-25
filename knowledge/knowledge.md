@@ -1,9 +1,11 @@
 # Knowledge
 I don't know many things. And as the saying goes: _"The more you know the more you don't know."_
 
-Still, I would like to know in some ways things I do __know__. In my opinion of course. Everything can be mastered further and improved upon.
-
 I list things I am learning and want to learn in a [Trello board](https://trello.com/b/cu32qF3q).
+
+I also visualise some topics and their relations as an [interactive mind map](https://my.mindnode.com/uQPgJs5DnVaAqyR9yrqxySQB6sCDRy2bmb7yxqKg#1653.2,-925.0,2).
+
+![](https://i.imgur.com/mQWt0vx.jpg)
 
 ## Notes
 - Take wherever you’re at and just try to push your understanding deeper.

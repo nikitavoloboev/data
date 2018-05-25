@@ -141,12 +141,11 @@ Some simple rules to follow for myself doing things.
 ## GitHub
 - Add appropriate topics to each repo. Add the languages used in the repo as topics.
 - Make many experiments and share them.
-- Add credits to repos and acknowledge work of people I am using at end of repos. Under __# Credits__.
 - Use relative links instead of hard wired links. For example in GitHub you can use `../issues/` to reference issues of current repo from readme.
 
 ## README
-- Use HTML for rendering images if I need control on their size and position.
-- Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links). Don't repeat what is said in the quote in the description underneath the quote.
+- Use HTML for rendering images if I need control of their size or position.
+- Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links).
 - If the README is long enough, add a __Contents__ reference table.
 - Don't add anything that is not needed and focus on the content.
 - Add a way to visually show the workflow/library in action where appropriate.
