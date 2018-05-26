@@ -1,5 +1,5 @@
 # Knowledge
-I don't know many things. And as the saying goes: _"The more you know the more you don't know."_
+I don't know many things. And as the saying goes: _"The more you know, the more you don't know."_
 
 I list things I am learning and want to learn in a [Trello board](https://trello.com/b/cu32qF3q).
 

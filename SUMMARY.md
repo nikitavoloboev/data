@@ -33,7 +33,6 @@
 		- [Ableton](music/music-production/ableton.md)
 - [Life](life/life.md)
 	- [Happiness](life/happiness.md)
-	- [Self expression](life/self-expression.md)
 	- [Time](life/time.md)
 	- [Memories](life/memories.md)
 	- [Journalling](life/journalling.md)
