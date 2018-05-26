@@ -27,3 +27,4 @@ labour, results will vary, and undoing a change can be really difficult.
 - [Haskell & Nix](https://github.com/Gabriel439/haskell-nix)
 - [neat macOS nix darwin config.nix](https://github.com/LnL7/nix-darwin/blob/master/modules/examples/lnl.nix)
 - [Brian McKenna - Nix for Functional Systems](https://www.youtube.com/watch?v=mIxtBVKo7JE)
+- [Learning Nix by Example: Building FFmpeg 4.0](https://blog.kiloreux.me/2018/05/24/learning-nix-by-example-building-ffmpeg-4-dot-0/)
