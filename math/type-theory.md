@@ -13,3 +13,4 @@ A type is a proof of something.
 - [Homotopy Type Theory lecture materials](https://github.com/RobertHarper/hott-materials)
 - [A textbook on informal homotopy type theory](https://github.com/HoTT/book)
 - [Homotopy type theory book](https://github.com/HoTT/HoTT)
+- [GHOTL Project scope and outline plan](https://sphalerite.org/ghotl/posts/2017-10-16-project-scope-outline.html) - Good read.

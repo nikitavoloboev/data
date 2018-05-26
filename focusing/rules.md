@@ -133,9 +133,8 @@ Some simple rules to follow for myself doing things.
 - Version control all projects.
 - Do atomic commits and write [proper appropriate commit messages](https://chris.beams.io/posts/git-commit/).
 - Commit often. Commits are cheap. I can always reverse changes.
-- Prefix commits with an action (add/remove/fix/update). Use [imperative tense](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg).
-- On larger projects, prefix commits by scope for easier search and index.
-- Commit changes and push before making a release. This way the commits come bundled together with release as change log.
+- Write commits in form of: `scope: subject`. Prefix subject with an action (add/remove/fix/update). Use [imperative tense](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg).
+- Commit changes and push before making a release.
 - When making changes to other projects, respect their Git workflow and commit style.
 
 ## GitHub
