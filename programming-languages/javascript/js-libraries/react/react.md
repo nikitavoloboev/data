@@ -17,3 +17,4 @@ The core premise for React is that UIs are simply a projection of data into a di
 - [Tom Occhino and Jordan Walke first presenting React](https://www.youtube.com/watch?v=GW0rj4sNH2w)
 - [My struggle to learn react](http://bradfrost.com/blog/post/my-struggle-to-learn-react/) ([HN comments](https://news.ycombinator.com/item?id=17030865))
 - [Stop writing code - Sunil Pai (2018)](https://www.youtube.com/watch?v=WYWVGQKnz5M) - Great talk.
+- [The Present Future of User Interface Development](https://hackernoon.com/the-present-future-of-user-interface-development-ebd371255175)
