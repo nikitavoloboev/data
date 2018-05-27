@@ -5,7 +5,7 @@ My entire life's experiences lives encrypted in the journal. Adding photographs 
 
 I document and review [my life](../../looking-back/looking-back.md) publicly too.
 
-The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all [my tweets](https://twitter.com/nikitavoloboev) and [Insgragram posts](https://www.instagram.com/nikitavoloboev/).
+The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all [my tweets](https://twitter.com/nikitavoloboev) and [Instagram posts](https://www.instagram.com/nikitavoloboev/).
 
 If you don't journal, I suggest you to start, it is a very powerful mind cleanser and acts as a wonderful history record of your life.
 
@@ -42,4 +42,4 @@ I use [IFTTT](../../tools/ifttt.md) to [automatically post all my tweets](https:
 Similar to Twitter, [this IFTTT recipe](https://ifttt.com/applets/61918118d-save-your-instagram-photos-to-day-one) will do the same but for my [Instagram](https://www.instagram.com/nikitavoloboev/) photographs.
 
 ## Looking back
-Besides Day One, I lead a more open diary and monthly overviews in [Looking Back](../../looking-back/looking-back.md).
+Besides Day One, I lead a more open diary and monthly overviews in [Looking back](../../looking-back/looking-back.md).
