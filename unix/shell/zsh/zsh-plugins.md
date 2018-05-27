@@ -28,3 +28,6 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage my plugins. 
 - [Git sync](https://github.com/caarlos0/zsh-git-sync) - Sync git repositories and clean them up.
 - [Open PR](https://github.com/caarlos0/zsh-open-pr) - Open pull requests from command line.
 - [Git add remote](https://github.com/caarlos0/git-add-remote) - Easily add remotes to git repositories.
+
+## Nix
+- [Zsh Nix Shell](https://github.com/chisui/zsh-nix-shell) - Use zsh in as the default nix-shell shell.

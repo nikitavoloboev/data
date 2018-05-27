@@ -13,6 +13,8 @@ labour, results will vary, and undoing a change can be really difficult.
 - As for domain-specific package managers, It Depends; it's possible with varying degrees of hackiness (and I definitely use eg. npm for development), but for a 'real' deployment - whether as a service on a server or as a local application - you'd want to convert your project's metadata to a Nix expression and let Nix handle the dependency management.
 - Overlay adds/overrides something in the global package set.
 - In general, you should only install things with nix, and not use any other package managers.
+- The main idea of the Nix approach is to store software components in isolation from each other in a central component store, under path names that contain cryptographic hashes of all inputs involved in building the component, such as `/nix/store/rwmfbhb2znwp...-ﬁrefox1.0.4`.
+- Don't install libraries with Nix.
 
 ## Links
 - [Nix manual](https://nixos.org/nix/manual/)
@@ -28,3 +30,4 @@ labour, results will vary, and undoing a change can be really difficult.
 - [neat macOS nix darwin config.nix](https://github.com/LnL7/nix-darwin/blob/master/modules/examples/lnl.nix)
 - [Brian McKenna - Nix for Functional Systems](https://www.youtube.com/watch?v=mIxtBVKo7JE)
 - [Learning Nix by Example: Building FFmpeg 4.0](https://blog.kiloreux.me/2018/05/24/learning-nix-by-example-building-ffmpeg-4-dot-0/)
+- [nix-shell and Shebang Lines](http://iam.travishartwell.net/2015/06/17/nix-shell-shebang/)
