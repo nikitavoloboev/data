@@ -33,8 +33,8 @@ As mentioned in [research](research.md), I mostly use Google for searching mixed
 I often remind myself of [how to effectively ask questions](asking-questions.md) so as to respect other people's time and maximise chances of getting a good answer.
 
 # 4. Solving the problem
-Sometimes I already know the answer given my past experience without conducting help outside and the only thing left is to apply the solution I have or have found.
+Sometimes I already know the answer given my past experience without conducting help outside and the only thing left is to apply the solution I have.
 
-In some cases, a problem may be complex enough that it needs time thinking more about it. Researching various possible solutions and things you could use. And playing with possible solutions and ideas in your head until you reach something worthwhile you can spend time implementing. [This](https://www.youtube.com/watch?v=f84n5oFoZBc) talk by Rich Hickey covers this point quite well.
+In some cases, a problem may be complex enough that it needs time thinking more about it. Researching various possible solutions and things you could use. And playing with possible solutions and ideas in your head until you reach something worthwhile you can spend time implementing. [This talk](https://www.youtube.com/watch?v=f84n5oFoZBc) by Rich Hickey covers this point quite well.
 
 In most other cases, the problem I have is simple enough that it doesn't need to go into a __thinking__ map to be broken down to be solved and I can just start working on the task immediately and see if I can make it happen.
