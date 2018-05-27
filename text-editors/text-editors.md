@@ -6,3 +6,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 ## Interesting editors
 - [Xi Editor](https://github.com/google/xi-mac) - macOS client for Xi text editing backend.
 - [Oni](htOtps://github.com/onivim/oni) - Modern Modal Editing - powered by Neovim.
+- [CodeMirror](http://codemirror.net/) - In-browser code editor.

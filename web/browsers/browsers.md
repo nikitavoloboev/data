@@ -1,2 +1,3 @@
 # Browsers
-Browsers nowadays are pretty complex. I am still learning how they work internally.
+## Links
+- [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)

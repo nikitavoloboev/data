@@ -14,3 +14,5 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [JavaScript: The Core](http:J//dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
 - [JavaScript is Good, Actually](https://ashfurrow.com/blog/javascript-is-good-actually/) ([HN comments](https://news.ycombinator.com/item?id=17079952))
 - [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms#readme) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+- [EC6 Features](http://es6-features.org/)
+- [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript#readme)
