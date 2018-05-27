@@ -1,5 +1,7 @@
 # Backups
-Currently use a hard drive to backup all my data. I want to automate this process and keep an off site backup in the future.
+Using [Arq](https://www.arqbackup.com) to make encrypted backups to [Backblaze](https://www.backblaze.com/).
+
+I love the idea that I can set up any new machine or phone to use my `exact` and perfect setup without any cruft in seconds.
 
 ## Notes
 - Even the smallest file can take days to recreate.

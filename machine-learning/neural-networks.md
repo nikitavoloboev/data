@@ -12,3 +12,4 @@
 - [Chris Olah explains neural nets](https://www.youtube.com/watch?v=vdqu6fvjc5c)
 - [How I Shipped a Neural Network on iOS with CoreML, PyTorch, and React Native](https://attardi.org/pytorch-and-coreml) - Really detailed and awesome article.
 - [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
+- [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)

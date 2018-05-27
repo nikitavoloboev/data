@@ -27,3 +27,7 @@ Making computers learn using algorithms and math.
 - [Code and data for paper "Deep Painterly Harmonization"](https://github.com/luanfujun/deep-painterly-harmonization)
 - [FB AI Tools](https://facebook.ai/developers/tools)
 - [Best Practices for ML Engineering](https://developers.google.com/machine-learning/rules-of-ml/)
+- [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch#readme)
+- [Dive Into ML](http://hangtwenty.github.io/dive-into-machine-learning/)
+- [Fermat's Library NIPS comments](http://fermatslibrary.com/nips)
+- [Heroes of Deep Learning: Andrew Ng interviews Ian Goodfellow](https://www.youtube.com/watch?v=pWAc9B2zJS4)
