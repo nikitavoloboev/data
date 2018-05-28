@@ -196,6 +196,7 @@ Some simple rules to follow for myself doing things.
 - Release all my workflows (that have no sensitive information) either in [small workflows](https://github.com/nikitavoloboev/small-workflows) or standalone if they contain quite a bit of code.
 - Name all modifier triggers (uppercased).
 - Colour Alfred objects that have errors in them and need to be fixed in red colour. Acts as a `TODO`.
+- Alfred workflow description should be the same as GitHub description.
 
 ## MindNode
 - Use one tree structure for organisation especially when sharing maps (makes the map much easier to follow).

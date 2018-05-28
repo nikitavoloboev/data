@@ -4,9 +4,6 @@ Prefixes I use for various apps and tools and their meanings.
 ## SnippetsLab
 - <> - User input
 
-## Alfred Preferences
-- a. - Workflows that I have not published and are personal.
-
 ## 1Password
 - w: - Websites
 - a: - Apps
@@ -38,6 +35,9 @@ Prefixes I use for various apps and tools and their meanings.
 - @ - Actions. i.e. `@todo` = things to add/fix. `@fin` = macros to finish.
 - [] - What state the macro should be in
 - <> - What link should be in my browser
+
+## Alfred
+- r. - Private workflows
 
 ## Safari
 - w: - Websites

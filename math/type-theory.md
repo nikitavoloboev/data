@@ -1,5 +1,5 @@
 # [Type Theory](http://www.wikiwand.com/en/Type_theory)
-Roughly speaking, a [type is a specification of their possible values](https://github.com/skaslev/why-types/blob/master/why-types.pdf) .
+Roughly speaking, a [type is a specification of its possible values](https://github.com/skaslev/why-types/blob/master/why-types.pdf) .
 
 ## Notes
 - A value is some concrete thing, and a type is a collection of concrete things (but is itself not a concrete thing. For example any individual integer is a value, but the collection of all integers is a type. Much like elements and sets in set theory.
