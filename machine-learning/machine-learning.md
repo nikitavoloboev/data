@@ -1,6 +1,4 @@
 # Machine learning
-Making computers learn using algorithms and math.
-
 ## Notes
 - A big part of the utility of math (especially in ML) is having breadth rather than depth. The strategy of picking out specific things you don't know from papers and looking them up is only effective if you have the breadth in your background to understand the answers you find.
 	- Broad knowledge is also what helps you manage the exponential tree of complexity you're encountering.
@@ -31,3 +29,6 @@ Making computers learn using algorithms and math.
 - [Dive Into ML](http://hangtwenty.github.io/dive-into-machine-learning/)
 - [Fermat's Library NIPS comments](http://fermatslibrary.com/nips)
 - [Heroes of Deep Learning: Andrew Ng interviews Ian Goodfellow](https://www.youtube.com/watch?v=pWAc9B2zJS4)
+- [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) - Great article.
+- [Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis](https://machinelearning.apple.com/2017/08/06/siri-voices.html)
+- [The Google Brain Team — Looking Back on 2017](https://ai.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html?m=1)
