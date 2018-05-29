@@ -13,7 +13,7 @@ The number between brackets shows the year I created the repo in. Repos with �
 - [Small Workflows (2017) 🌟](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
 - [Awesome Lists (2017) 🌟](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds.
 - [GitHub (2018) 💡](https://github.com/nikitavoloboev/alfred-github-users) - Search GitHub.
-- [Trello (2018) 💡](https://github.com/nikitavoloboev/alfred-trello) - Communicate with Trello.
+- [Trello (2018) 💡](https://github.com/nikitavoloboev/alfred-trello) - Search Trello.
 
 ## Personal
 - [Dotfiles (2016) 🌟](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix, Hammerspoon.

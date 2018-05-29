@@ -1,5 +1,5 @@
 # Backups
-Using [Arq](https://www.arqbackup.com) to make encrypted backups to [Backblaze](https://www.backblaze.com/).
+Using [Arq](https://www.arqbackup.com) to make encrypted backups to [Backblaze](https://www.backblaze.com/). I also keep encrypted Time Machine backup at home.
 
 I love the fact that I can set up any new machine or phone to use my `exact` and perfect setup without any cruft in seconds.
 

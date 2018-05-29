@@ -11,6 +11,7 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [John Sundell - Sharing (2018)](https://www.youtube.com/watch?v=_mQNwL8HkS0)
 - [Bret Victor - Inventing on Principle (2012)](https://vimeo.com/36579366)
 - [Drupal and the secret of my success | Steve Francia](https://www.youtube.com/watch?v=EJo9tPXGPo8&feature=youtu.be&t=13m4s)
+- [Apple WWDC 1997 Closing Keynote - Steve Jobs Fireside Chat](https://www.youtube.com/watch?v=KWJ6rGiopvo)
 
 ## Notes
 - Giving a talk, it is often best to start with a `Why?`
