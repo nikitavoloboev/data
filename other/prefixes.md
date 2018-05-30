@@ -35,6 +35,7 @@ Prefixes I use for various apps and tools and their meanings.
 - @ - Actions. i.e. `@todo` = things to add/fix. `@fin` = macros to finish.
 - [] - What state the macro should be in
 - <> - What link should be in my browser
+- e: - Examples
 
 ## Alfred
 - r. - Private workflows

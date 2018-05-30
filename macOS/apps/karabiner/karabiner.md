@@ -31,3 +31,6 @@ I share my Karabiner private.xml [here](https://github.com/nikitavoloboev/dotfil
 - [shell command JSON](https://pqrs.org/osx/karabiner/json.html#typical-complex_modifications-examples-open-alfred-when-escape-is-held-down)
 - [Karaconv](https://github.com/durka/karaconv) - Converter from Karabiner to Karabiner-Elements text configuration format.
 - [Cursor keys belong at the center of your keyboard](http://tonsky.me/blog/cursor-keys/)
+
+## Interesting setups
+- [A. King](https://github.com/akork/karabiner/blob/master/karabiner.json)

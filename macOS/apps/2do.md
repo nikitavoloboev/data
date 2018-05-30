@@ -16,9 +16,9 @@ I create many smart lists of most common tags I want to jump to. I use `J` key a
 
 I also add time estimates to tasks like so:
 
-![](https://i.imgur.com/y4o36Yr.png)
+![](https://i.imgur.com/9jh9RST.png)
 
-This is useful because sometimes I can simply open a tag __10m__ and see all tasks with this short time frame so I can quickly complete them and build on the momentum. I don't add time estimates to all tasks but I try to add it where possible.
+This is useful because sometimes I can simply open a tag __30m__ and see all tasks with this short time frame so I can quickly complete them and build on the momentum. I don't add time estimates to all tasks but I try to add it where possible.
 
 I share the same philosophy of `Always` and `Temporary` projects as I have in my [Focus Trello board](../../focusing/focusing.md).
 

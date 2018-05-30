@@ -17,7 +17,8 @@ Everything that is code is put into this folder.
 ```Bash
 ~/src
 ❯ ls
-alfred  applescript  bots  clones  curated  forks  orgs  ideas  learn  ml  personal  practice  python  rust  safari  test  uni  web  Xcode
+Xcode		bots		curated		games		languages	ml		personal	test
+alfred		clones		forks		ideas		learn		orgs		practice	web
 ```
 
 ## ~/src/clones
@@ -64,7 +65,7 @@ I use the folder to learn new technologies, languages and things. Perhaps I am c
 ```Bash
 ~/src/learn
 ❯ ls
-go-learn  graphics-learn  ml-learn  react-learn
+go-learn	graphics-learn	ml-learn	react-learn	stats-learn
 ```
 
 ## ~/src/alfred
@@ -73,9 +74,8 @@ All my Alfred workflows are placed there. And each one is symlinked either with 
 ```Bash
 ~/src/alfred
 ❯ ls
-alfred-ask-create-share  alfred-birthday      alfred-inline-searches  alfred-my-mind  alfred-twitter
-alfred-awesome-lists     alfred-breathe       alfred-lastfm           alfred-pixave   alfred-web-searches
-alfred-awgo-practice     alfred-github-users  alfred-learn-anything   alfred-trello   small-workflows
+alfred-ask-create-share	alfred-awgo-test	alfred-inline-searches	alfred-my-mind		alfred-web-searches
+alfred-awesome-lists	alfred-github		alfred-learn-anything	alfred-trello		small-workflows
 ```
 
 ## ~/src/curated
@@ -93,12 +93,12 @@ command-line-tools	forums			mindmaps		quora			series			tv-series
 ```
 
 ## ~/app
-I put various app configuration and app specific files in there.
+I put app specific files in there.
 
 ```Bash
 ~/app
 ❯ ls
-dash  focus  hammerspoon  iterm  km  paw  safari
+focus		hammerspoon	km		paw		sublime		textual
 ```
 
 ## ~/Documents

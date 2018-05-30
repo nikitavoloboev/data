@@ -71,6 +71,7 @@
 		- [Timing](macOS/apps/timing.md)
 		- [Sketch](macOS/apps/sketch.md)
 		- [Contacts](macOS/apps/contacts.md)
+		- [Keychain](macOS/apps/keychain.md)
 		- [Little Snitch](macOS/apps/little-snitch.md)
 	- [JXA](macOS/jxa.md)
 	- [Applescript](macOS/applescript.md)
