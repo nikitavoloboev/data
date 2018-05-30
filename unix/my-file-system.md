@@ -51,7 +51,7 @@ bash-test	c-test		clojure-test	go-test		haskell-test	js-test		lisp-test	python-t
 ```
 
 I then have KM macros to quickly open these files:
-![](https://i.imgur.com/IhIBpXC.png)
+![](https://i.imgur.com/5pH2fzR.png)
 
 ## ~/src/ideas
 Most of my projects I start, start out in this folder. If something works out and I like the idea and want to develop it further, I move the project away from `ideas`.
@@ -69,7 +69,7 @@ go-learn	graphics-learn	ml-learn	react-learn	stats-learn
 ```
 
 ## ~/src/alfred
-All my Alfred workflows are placed there. And each one is symlinked either with [worklow install](https://gist.github.com/deanishe/35faae3e7f89f629a94e) or [alfred CLI tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred) for Go workflows.
+All my Alfred workflows are placed there. And each one is symlinked either with [worklow install](https://gist.github.com/deanishe/35faae3e7f89f629a94e) or [Alfred CLI tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred) for Go workflows.
 
 ```Bash
 ~/src/alfred
@@ -79,7 +79,7 @@ alfred-awesome-lists	alfred-github		alfred-learn-anything	alfred-trello		small-w
 ```
 
 ## ~/src/curated
-Keep all the GitHub curated lists there where all edits to the `readme.md` files is automatically commited with [Hazel](../macOS/apps/hazel.md).
+Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-lists#readme) there where all edits to the `readme.md` files is automatically commited with [Hazel](../macOS/apps/hazel.md).
 
 ```bash
 ~/src/curated
