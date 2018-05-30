@@ -1,7 +1,5 @@
 # Writing
-I love writing. Human language, of which I currently know two so far: Russian and English.
-
-Is incredibly empowering. The sheer fact that I can actually put my thoughts onto paper in a way that other people can read and understand is amazing.
+I love writing. It is incredibly empowering. The sheer fact that I can actually put my thoughts onto paper in a way that other people can read and understand is amazing.
 
 Paul Graham wrote a wonderful article titled [_Write like you talk_](http://www.paulgraham.com/talk.html) and I agree with it wholeheartedly. In my opinion these are the main pillars on which I try to build my writing skills upon.
 

@@ -28,7 +28,7 @@ I have [many more Trello boards](my-trello.md) I use and share.
 ## Snippets on [GitHub Gists](my-gists.md)
 I share snippets of code I made with various languages for quick reference.
 
-## Curated Images on [Imgur](https://nikivi.imgur.com)
+## Images on [Imgur](https://nikivi.imgur.com)
 I curate many Imgur albums of various things.
 
 ## Knowledge in [this wiki](../README.md)
@@ -51,4 +51,5 @@ I share most everything else here:
 - [Stack Overflow](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile)
 - [Product Hunt](https://www.producthunt.com/@nikitavoloboev)
 - [Indie Hackers](https://www.indiehackers.com/user/nikivi)
+- [LetterBoxd](https://letterboxd.com/NikitaVoloboev/)
 - [Quora](https://www.quora.com/profile/Nikita-Voloboev)
