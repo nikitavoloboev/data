@@ -9,19 +9,19 @@ With that said, if you are reading this and want to know more about _my workflow
 
 Parts of this guide assume you use macOS. I put some time estimates on how long I think some of the points might take to complete.
 
-## 1. Read my articles (~ 50 min)
+## 1. Read my articles (~ 1 hour)
 I would read through some of the [articles I wrote](my-articles.md). Just pick the ones that have 🌟 on them as those are ones that I consider better than others.
 
 Some articles I wrote are more actionable and focused on a specific topic, others I am sharing some thoughts I have and how they relate to my life.
 
-## 2. Explore my GitHub repositories (~ 1 hour)
+## 2. Explore my GitHub repositories (~ 40 min)
 I try make this step super easy to do too as you can simply [explore all the repositories I made and shared](my-github.md).
 
 ## 3. Explore macOS tools and workflows I use (~ 1 hour)
 I made a [repo](https://github.com/nikitavoloboev/my-mac-os) where I cover everything I use on my macOS system in great detail. I share everything I use including [hundreds of Keyboard Maestro macros](https://github.com/nikitavoloboev/my-mac-os/tree/master/km-macros#readme) and the various [amazing Alfred workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can simply explore and see what you find interesting.
 
 ## 4. Read or Search through this wiki (~ 3 hours)
-Aside from my Blog, I heavily share nearly everything I know about this world in this wiki here so you can explore and see what you like. If you did get the [Powerpack for Alfred](https://www.alfredapp.com/powerpack/), you can even install [my own workflow](https://github.com/nikitavoloboev/alfred-my-mind) and easily search through entirety of both this wiki and everything I made or did. The big idea behind this workflow and my other creations is to do things in a way that anyone else can use these same things I am using.
+Aside from my blog, I heavily share nearly everything I know about this world in this wiki here so you can explore and see what you like. If you did get the [Powerpack for Alfred](https://www.alfredapp.com/powerpack/), you can even install [my own workflow](https://github.com/nikitavoloboev/alfred-my-mind) and easily search through entirety of both this wiki and everything I made or did. The big idea behind this workflow and my other creations is to do things in a way that anyone else can use these same things I am using.
 
 ## [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
 I also wrote an Alfred workflow that as the name suggests, acts as my second brain that I use to quickly access anything I [have indexed for myself](../knowledge/knowledge-indexing.md). I share it because I wish other people took this idea and made their own _Alfred My Mind_ or a _Knowledge wiki_ but for their own use. Sharing knowledge and tools like that is very powerful and makes a big difference. As I use and reuse other people's work and knowledge many times a day. It never hurts to add to the mix.

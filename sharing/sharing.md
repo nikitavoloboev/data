@@ -34,10 +34,6 @@ I curate many Imgur albums of various things.
 ## Knowledge in [this wiki](../README.md)
 I share [everything I know](everything-I-know.md) in form of this wiki here. Can be easily queried with the search at the top and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
 
-## Answering questions on [Reddit](https://www.reddit.com/user/nikivi/), [Quora](https://www.quora.com/profile/Nikita-Voloboev) and [Stack Overflow](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile)
-
-## Sharing things on [Product Hunt](https://www.producthunt.com/@nikitavoloboev), [Hacker News](https://news.ycombinator.com/user?id=nikivi), [Lobsters](https://lobste.rs/u/nikivi) and [Indie Hackers](https://www.indiehackers.com/user/nikivi)
-
 ## [My workflow](my-workflow.md)
 I try to make my own workflow in doing things be as _transparent_ as possible.
 
@@ -46,3 +42,13 @@ I love tracking various things for my own reference.
 
 ## [My life](../looking-back/looking-back.md)
 I share and review my life in this wiki here. Acts as a little personal journal I love to look back on with time.
+
+## Everything else
+I share most everything else here:
+- [Reddit](https://www.reddit.com/user/nikivi/)
+- [Lobsters](https://lobste.rs/u/nikivi)
+- [Hacker News](https://news.ycombinator.com/user?id=nikivi)
+- [Stack Overflow](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile)
+- [Product Hunt](https://www.producthunt.com/@nikitavoloboev)
+- [Indie Hackers](https://www.indiehackers.com/user/nikivi)
+- [Quora](https://www.quora.com/profile/Nikita-Voloboev)
