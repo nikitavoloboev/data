@@ -18,3 +18,4 @@ I share [all the macros I use](https://github.com/nikitavoloboev/my-mac-os/tree/
 - [Best Macro List](https://forum.keyboardmaestro.com/t/best-macro-list/4118)
 - [Automating KM editor](https://forum.keyboardmaestro.com/t/automating-the-keyboard-maestro-editor/4184/31)
 - [6 months in, what I wish I knew on day 1 with KM](https://forum.keyboardmaestro.com/t/6-months-in-what-i-wish-i-knew-on-day-1-with-keyboard-maestro/4949)
+- [Exporting KM Macros with KM Macro](http://chauncey.io/projects/keyboard-maestro-export-macros/)

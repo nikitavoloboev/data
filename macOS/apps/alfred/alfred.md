@@ -10,12 +10,12 @@ I wrote [an article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows
 ### Workflows I use
 My most used workflows at current time are:
 - [Searchio](https://github.com/deanishe/alfred-searchio)
-- [My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
+- [GitHub Jump](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations)
 - [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches)
+- [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything)
 - [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant)
 - [Ask, Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share)
-- [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything)
-- [GitHub Jump](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations)
+- [My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
 
 Coupled with many [small workflows](https://github.com/nikitavoloboev/small-workflows) I made. I hope to add more workflows of my own [to the mix](https://github.com/learn-anything/alfred-workflows#readme) with time.
 

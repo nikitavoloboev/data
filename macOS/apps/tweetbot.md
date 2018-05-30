@@ -13,3 +13,6 @@ The app is always full screen for me. And is split into four columns.
 
 Here is how that all looks together for me:
 ![](https://i.imgur.com/cy67ddm.png)
+
+## Links
+- [Tweetbot 3 URL Schemes](https://tapbots.net/tweetbot3/support/url-schemes/)
