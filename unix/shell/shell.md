@@ -17,7 +17,3 @@ All active variables can be seen by running `env`.
 - [Introduction to POSIX Shell](http://sircmpwn.github.io/2018/02/05/Introduction-to-POSIX-shell.html)
 - [Yoshua's notes](https://yoshuawuyts.gitbooks.io/knowledge/content/unix/shell.html)
 - [Shell Auto-completion Systems](http://dundalek.com/entropic/shell-auto-completion/)
-
-## Snippets
-- [Standard input & output](https://gist.github.com/a1346899be8f2e186e161f1a03efd52b)
-- [Globbing](https://gist.github.com/7d9564e24242cda9c0a6717021971830)

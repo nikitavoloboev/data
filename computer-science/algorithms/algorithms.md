@@ -12,12 +12,5 @@ Will be going through [this](https://edisciplinas.usp.br/pluginfile.php/1995283/
 - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [Top algos/DS to learn](https://www.reddit.com/r/compsci/comments/5uz9lb/top_algorithmsdata_structuresconcepts_every/ddy8azz/)
 
-## Sorting
-- [Merge sort](https://gist.github.com/9d34c4095ef3ef62db19f3599ebcfb17)
-- [Heap sort](https://gist.github.com/7b0706982721077d1e59b772ef88d4d5)
-
-## Snippets
-- [Master theorem](https://gist.github.com/adf0743e1899d8cf1207e216ab1915b7)
-
 ## Images
 ![](http://i0.wp.com/www.jessicayung.com/wp-content/uploads/2016/08/screenshot-5.png?fit=1618%2C1130)

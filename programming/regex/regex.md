@@ -11,9 +11,3 @@ Small tip, [regex101](https://regex101.com) has night mode.
 ## Links
 - [Learn regex](https://github.com/zeeshanu/learn-regex) - Great reference.
 - [DebuggexBeta](https://debuggex.com/)
-
-## Snippets
-- [match certain words](https://gist.github.com/aa533b8ca3833e15fb6f1ef47b5b7c72)
-
-## Useful regexes
-- [Get everything after last /](https://regex101.com/r/66NqQ9/8)

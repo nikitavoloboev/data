@@ -57,7 +57,7 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Video
 - [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) - Sharing videos I make on variety of subjects (mostly programming).
-- [Twitch](https://www.twitch.tv/nikitavoloboev) - Streaming myself coding, making Go libraries, Alfred Workflows and tools.
+- [Twitch](https://www.twitch.tv/nikitavoloboev) - Don't use it.
 
 ## Forums
 - [Alfred Forum](https://www.alfredforum.com/profile/10242-nikivi/) - Asking and answering questions about the amazing [Alfred](https://www.alfredapp.com/) launcher.
