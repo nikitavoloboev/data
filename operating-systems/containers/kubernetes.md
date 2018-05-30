@@ -4,3 +4,4 @@
 - [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice)
 - [kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes.
 - [Draft](https://github.com/azure/draft) - Streamlined Kubernetes Development.
+- [Nix Kubernetes](https://github.com/xtruder/nix-kubernetes) - Kubernetes deployment manager written in Nix.
