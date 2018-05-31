@@ -5,7 +5,7 @@ Assigned w + j with [Karabiner](karabiner/karabiner.md) to open the app from Key
 
 I made my own [Ayu theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it that looks like this:
 
-![](https://i.imgur.com/zHUb7nT.png)
+![](https://i.imgur.com/MFmvp4F.png)
 
 It goes well with [Pure zsh theme](https://github.com/sindresorhus/pure) and [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
 
