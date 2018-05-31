@@ -51,5 +51,5 @@ I share most everything else here:
 - [Stack Overflow](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile)
 - [Product Hunt](https://www.producthunt.com/@nikitavoloboev)
 - [Indie Hackers](https://www.indiehackers.com/user/nikivi)
-- [LetterBoxd](https://letterboxd.com/NikitaVoloboev/)
+- [Letterboxd](https://letterboxd.com/NikitaVoloboev/)
 - [Quora](https://www.quora.com/profile/Nikita-Voloboev)

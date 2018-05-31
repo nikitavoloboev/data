@@ -65,5 +65,8 @@ Also avocados and salads are amazing.
 - (24) I don't regret writing this diary in public like that though. It taught me how to actually, genuinely, don't give a single care in the world what other people think of me. I just want live a life and do something good in the world.
 - (26) Finally wrote [my thoughts on what happiness means to me](../../life/happiness.md).
 
+## Timing
+![](https://i.imgur.com/WwhcXd4.png)
+
 ## Links
 - [Movies seen](https://letterboxd.com/nikitavoloboev/films/diary/for/2018/04/)
