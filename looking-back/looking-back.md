@@ -13,4 +13,4 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 - [February](2018/2018-february.md) - LA unblocked by FB. Started adding days to wiki entries. Made Telegram macOS/iOS group.
 - [March](2018/2018-march.md) - Made my first crypto purchase. Stopped listening to music when working.
 - [April](2018/2018-april.md) - Finding happiness. Started playing tennis and growing a healthy recipe collection.
-- [May](2018/2018-may.md)
+- [May](2018/2018-may.md) - Started using Nix. Minimised more things.
