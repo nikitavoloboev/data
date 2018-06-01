@@ -66,7 +66,7 @@ These are my personal profiles on various websites sorted by categories.
 ## Tracking
 - [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev) - Tracking books I have read as well as the reviews I have written.
 - [Letterboxd](https://letterboxd.com/NikitaVoloboev/) - Tracking movies I've seen and my reviews on the movies I've liked or disliked.
-- [Trakt](https://trakt.tv/users/nikitavoloboev) - Tracking TV series I have seen or want to watch.
+- [Trakt](https://trakt.tv/users/nikitavoloboev) - Tracking TV series I saw or want to watch.
 - [Grouevee](https://www.grouvee.com/user/nikivi/) - Tracking all the different games I have played or want to play.
 
 ## Gaming

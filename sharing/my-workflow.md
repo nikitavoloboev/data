@@ -17,7 +17,7 @@ I try to be methodical in working and doing things. And I use the best tools and
 - [Trello](../macOS/apps/trello.md) - Public and personal boards used for different projects centered around my one [Focus](../focusing/focusing.md) board.
 
 ## Time management
-- [Fantastical](../macOS/apps/fantastical.md) - I plan work for the entire day ahead and my day is primarily guided by the events I create. I use __Week__ view for __5 days__ from current day in the app. This gives me a perspective on what deadlines I have soon to complete and I can adjust my events as necessary and plan accordingly.
+- [Fantastical](../macOS/apps/fantastical.md) - I plan work for the entire day ahead and my day is primarily guided by the events I create. I use __Week__ view with __5 days__ from current day shown in the app. This gives me a perspective on what deadlines I have soon to complete and I can adjust my events as necessary and plan accordingly.
 - [Timing](../macOS/apps/timing.md) - Track all time I spend there. I automate as much of the tracking as possible so Timing learns from what I do and it's easy to fill out the sections after.
 
 ## Knowledge Indexing
@@ -28,7 +28,7 @@ I try to be methodical in working and doing things. And I use the best tools and
 ## Bookmarks
 - [Curated lists](https://github.com/learn-anything/curated-lists#readme) - Extension to [Awesome lists](https://github.com/sindresorhus/awesome#readme), serves as a way to publically curate valuable links on different topics and [search them](https://github.com/nikitavoloboev/alfred-learn-anything). Any change I make to the lists are automatially comitted with [Hazel](../macOS/apps/hazel.md).
 - [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) -  All my public facing bookmarks. Searching this wiki here. Searching my articles, my GitHub repos and more.
-- [Safari](../web/browsers/safari.md) bookmarks - Only contain personal bookmarks search with [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant). The rest is publically available and queriable by anyone.
+- [Safari](../web/browsers/safari.md) - Only contains personal bookmarks I search with [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant). The rest is publically available and queriable by anyone.
 
 ## Photographs
 - [Pixave](../macOS/apps/pixave.md) - My entire media library of images and GIFs neatly sorted into collections. I post some images from there to my [Instagram page](https://instagram.com/prettiways).
