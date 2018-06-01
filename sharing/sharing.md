@@ -32,7 +32,7 @@ I share snippets of code I made with various languages for quick reference.
 I curate many Imgur albums of various things.
 
 ## Knowledge in [this wiki](../README.md)
-I share [everything I know](everything-I-know.md) in form of this wiki here. Can be easily queried with the search at the top and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
+I share [everything I know](everything-I-know.md) in form of this wiki here. Can be easily queried with the search at the top and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 
 ## [My workflow](my-workflow.md)
 I try to make my own workflow in doing things be as _transparent_ as possible.
