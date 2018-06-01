@@ -9,6 +9,7 @@ I use [Reeder](../macOS/apps/reeder.md) to stay on top of my favourite blogs I f
 - [Danny Gratzer](https://jozefg.bitbucket.io/about.html)
 - [Apple ML Journal](https://machinelearning.apple.com/)
 - [Tom MacWright](https://macwright.org/archive/)
+- [Evan Wallace](https://blog.figma.com/@evanwallace)
 
 ## Links
 - [Interesting Blogs](https://github.com/learn-anything/blogs#readme)
