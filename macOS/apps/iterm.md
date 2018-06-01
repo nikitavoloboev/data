@@ -21,7 +21,7 @@ My always open tabs are:
 4. `vim` - Contains my [Vim config](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). Bound to `v+a`.
 
 All other tabs are added on top of this `default` configuration. Usually it looks something like this:
-![](https://i.imgur.com/fM9yCCX.png)
+![](https://i.imgur.com/JDXKo3e.png)
 
 Where `la` is some project I am working on.
 
