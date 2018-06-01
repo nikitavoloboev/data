@@ -15,3 +15,4 @@ Don't have a lot of experience with interviews sadly. But I hope to change that 
 - [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
 - [The Coding Interview by Palantir](https://www.palantir.com/the-coding-interview/) - Great tips.
 - [How to ace a phone interview](https://www.palantir.com/2012/09/how-to-ace-a-phone-interview/)
+- [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews#readme)
