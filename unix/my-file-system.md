@@ -39,7 +39,7 @@ learn-anything
 ```
 
 ## ~/go/src/github.com/nikitavoloboev
-I keep all my Go libraries inside my GOPATH.
+I keep all my Go projects inside my GOPATH.
 
 ## ~/src/test
 Inside this folder I have a bunch of language specific folders that usually just have one file inside them with the extension of that language. Here is how that folder looks for me:
