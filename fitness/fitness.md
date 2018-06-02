@@ -1,7 +1,9 @@
 # Fitness
-Currently I play tennis every morning.
+I try to start every morning by either going to the gym or playing tennis.
 
-I am also trying to limit my time being stationary by exercising either at home and occasionally at the gym.
+![](https://i.imgur.com/vFPu8gJ.png)
+
+I am also trying to limit my time being stationary and never sit in one place for too long.
 
 ## Notes
 - Exercise helps make better use of the foods you are eating and produces the hormones you need to think clearly.

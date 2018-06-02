@@ -16,6 +16,12 @@ Some simple rules to follow for myself doing things.
 - Adjust these rules and [my workflow](../sharing/my-workflow.md) to match what I have learned.
 - Follow these rules. [Take it easy](../life/happiness.md). You only live now.
 
+## Health
+- [Exercise](../fitness/fitness.md) daily.
+- [Sleep](../sleep/sleep.md) at least 7 hours every day.
+- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
+- Don't purposefully hurt myself in any way.
+
 ## Work
 - Do deep work. Minimise distractions. Say __no__ to things. Set constraints.
 - Prioritise. Do important things first. Be clear on what I want to achieve. Think long term.
@@ -55,12 +61,6 @@ Some simple rules to follow for myself doing things.
 ## Share
 - Share everything I know and made.
 - Share the link on the appropriate website/forum/subreddit. Tweet it.
-
-## Health
-- Exercise daily.
-- [Sleep](../sleep/sleep.md) at least 7 hours every day.
-- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
-- Don't purposefully hurt myself in any way.
 
 ## Nutrition
 - No processed sugar. No food with extra sugar in it.
