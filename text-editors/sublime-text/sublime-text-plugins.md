@@ -8,7 +8,7 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 - [Marked](https://github.com/icio/sublime-text-marked) - Preview markdown files quickly with [Marked](http://marked2app.com) app.
 - [WakaTime](https://wakatime.com/sublime-text) - Automatic time tracking and metrics generated from your programming activity.
 - [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - Review TODO (and other) comments within your code.
-- [Pretty Json](https://github.com/dzhibas/SublimePrettyJson) - Prettify/Minify/Query/Goto/Validate/Lint JSON.
+- [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson) - Prettify/Minify/Query/Goto/Validate/Lint JSON.
 
 ## Lint
 - [Linter](https://github.com/SublimeLinter/SublimeLinter) - Code linting framework.
