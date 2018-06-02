@@ -8,7 +8,7 @@ Often the most effective way to apply is to apply directly. Go to the website of
 I use a similar message for all my direct emails:
 
 ```
-Hey ..,
+Hi ..,
 
 I saw you're looking for a .. at .. and I'm interested in joining your team.
 

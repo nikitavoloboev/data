@@ -28,10 +28,10 @@ I love using IRC with [Textual client](../macOS/apps/textual.md) and hanging out
 ### [Pinboard (popular)](https://pinboard.in/popular/)
 I sometimes check it out as it does contain some interesting links.
 
-## Medium
+### Medium
 I follow few publications and writers on Medium. I then view new articles from my feed [here](https://medium.com/stream/network).
 
-## Communities and forums I frequent
+### Communities and forums I frequent
 I spend a lot of my time on [Discord](https://discord.gg/KKYdWjt) server to discuss LA development. As well as [macOS/iOS automation Telegram group](https://t.me/macOSautomation).
 
 Aside from that I like visiting and at times contributing to these forums:
