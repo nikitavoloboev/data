@@ -11,9 +11,9 @@ Here is a list of various things I track for my own use and reference.
 - [Movies (Trello)](https://trello.com/b/jFaHJFow) - Movies I plan on watching soon.
 
 ## TV series
-- [Trakt](https://trakt.tv/users/nikitavoloboev) - [TV series I saw](https://trakt.tv/users/nikitavoloboev/history) and [ratings I made](https://trakt.tv/users/nikitavoloboev/ratings) for different episodes/seasons.
 - [Series (Wiki)](../tv-series/tv-series.md) - TV series I saw already with my thoughts and a small reviews on each one.
 - [Series (Trello)](https://trello.com/b/iUtT6wmu) - TV series I am planning to watch.
+- [Trakt](https://trakt.tv/users/nikitavoloboev) - [TV series I saw](https://trakt.tv/users/nikitavoloboev/history) and [ratings I made](https://trakt.tv/users/nikitavoloboev/ratings) for different episodes/seasons.
 
 ## Music
 - [Music playlists](../music/music-playlists.md) - Different playlists I made of music I like.
@@ -26,9 +26,9 @@ Here is a list of various things I track for my own use and reference.
 - [Codepen collections](https://codepen.io/nikitavoloboev/collections/popular/)
 
 ## Games
-- [Grouevee](https://www.grouvee.com/user/nikivi/) - [Games I played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) and [games I want to play](https://www.grouvee.com/user/nikivi/shelves/12652-wish-list/?num=25).
 - [Games (Wiki)](../games/games.md) - Games I played and my thoughts on them together with my favourite games of all time.
 - [Games (Trello)](https://trello.com/b/EekGabpj) - Games I am playing now and want to play.
+- [Grouevee](https://www.grouvee.com/user/nikivi/) - [Games I played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) and [games I want to play](https://www.grouvee.com/user/nikivi/shelves/12652-wish-list/?num=25).
 
 ## Videos
 - [YouTube playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists) - Various YouTube playlists I made.
