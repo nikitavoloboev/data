@@ -30,6 +30,6 @@ I want to visualise knowledge and thoughts and ideas I have and share most of th
 
 With all that said. The best way to know about me as a person, what I like and what I am into and what I am working on is to read through this wiki. With time, it will contain essentially everything that I know _in my own words_.
 
-This wiki acts as a first class citizen and anything that I ultimately want to share or have shared will be written down here, somewhere.
+This wiki acts as a first class citizen and anything that I ultimately want to share or shared will be written down here, somewhere.
 
 If you are interested in keeping in touch with things I am working on or learning, I am very active on [Twitter](https://twitter.com/nikitavoloboev).

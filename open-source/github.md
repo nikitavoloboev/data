@@ -3,7 +3,7 @@ I 💚 GitHub. It is really one of the best communities out there that exists wi
 
 I publish most of my work and make it open source for other people to use and reuse.
 
-[Here](../sharing/my-github.md) you can find all the repositories I have shared.
+[Here](../sharing/my-github.md) you can find all the repositories I shared.
 
 ## Issues
 For managing my GitHub issues, I use [Ship macOS app](https://www.realartists.com).

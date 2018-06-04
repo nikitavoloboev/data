@@ -33,7 +33,7 @@ My dream journal. I want to lucid dream and to do that you need to remember your
 I track my physical progress there. As I try to be more conscious about my physical health and always trying to become a stronger version of myself every day. I post my progress pictures and my own commentary and thoughts there.
 
 ### Family
-I have a dedicated journal where I put all the memories I have shared with my family.
+I have a dedicated journal where I put all the memories I shared with my family.
 
 ### Twitter
 I use [IFTTT](../../tools/ifttt.md) to [automatically post all my tweets](https://ifttt.com/applets/56660889d-save-your-tweets-to-day-one) from [Twitter](https://twitter.com/nikitavoloboev) here. Since I do want to lead a more open life, I very often post in the public outlets and share my experiences there so I want to have those experiences in Day One together with my more private memories.
