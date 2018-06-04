@@ -3,14 +3,14 @@ Some simple rules to follow for myself doing things.
 
 ## Life
 - [Simplify](../minimalism/minimalism.md) as much as possible. Never repeat myself.
-- Learn from my mistakes. If things fail. Learn from it and move on.
+- Use only what I need. If something doesn't provide me any value, get rid of it.
+- Learn from my mistakes. If things fail, learn from it and move on.
 - Build [ideas](https://trello.com/b/alB1ryRP). Experiment. Take risks.
 - Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts.
 - Don’t eat animals, don’t hurt any person. Don't waste anything.
 - Don't compare myself to other people. Don't care what other people think of me. Surround myself with people that inspire me.
 - Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals.
 - Don't judge anyone. Attempt to see another person's point of view.
-- Use only what I need. If an item/thing doesn't provide me any value, get rid of it.
 - Be honest. Don't lie to myself nor anyone else.
 - Embrace change. Never complain about anything. Be proactive.
 - Adjust these rules and [my workflow](../sharing/my-workflow.md) to match what I have learned.
@@ -20,7 +20,6 @@ Some simple rules to follow for myself doing things.
 - [Exercise](../fitness/fitness.md) daily.
 - [Sleep](../sleep/sleep.md) at least 7 hours every day.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
-- Don't purposefully hurt myself in any way.
 
 ## Work
 - Do deep work. Minimise distractions. Say __no__ to things. Set constraints.
@@ -383,6 +382,7 @@ Some simple rules to follow for myself doing things.
 - Avoid confusion. Don't use anything only I can understand.
 - Be aware of my own quirks and ask myself why I do what I do.
 - Don't overthink things to the point of not doing anything.
+- Don't purposefully hurt myself in any way.
 
 ## Remember
 - Everything evolves with time. Projects, articles, ideas will evolve with time and will never be what I first envisioned them to be.

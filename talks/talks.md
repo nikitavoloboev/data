@@ -22,3 +22,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Ask HN: What is your favourite tech talk? (2018)](https://news.ycombinator.com/item?id=16838460)
 - [Awesome conference practices](https://github.com/kitze/awesome-conference-practices#readme)
 - [Awesome speaking](https://github.com/matteofigus/awesome-speaking#readme)
+- [Your IDE as a presentation tool](https://staltz.com/your-ide-as-a-presentation-tool.html)
