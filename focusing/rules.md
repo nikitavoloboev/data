@@ -187,7 +187,7 @@ Some simple rules to follow for myself doing things.
 - Minimise inputs and preconditions to macros. Sometimes it's possible that the input I need to a macro, I can get from another place within the macro itself.
 
 ## Karabiner
-- Prefer to make semantic mappings and chunk mappings by theme or context.
+- Prefer making semantic mappings and chunk mappings by theme or context.
 - Prefix variable names by action (i.e. EDIT/OPEN/ALFRED). Each variable name should be descriptive.
 
 ## Alfred
@@ -342,7 +342,7 @@ Some simple rules to follow for myself doing things.
 
 ## Finance
 - Track every purchase made with Actual. Put every purchase in its respective category.
-- Adhere to my budget that I have set for each of the categories. If there is no budget left for eating out. Don't eat out.
+- Adhere to my budget that I set for each of the categories. If there is no budget left for eating out. Don't eat out.
 - Keep receipts of expensive purchases for warranty.
 
 ## Shell

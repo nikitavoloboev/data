@@ -13,6 +13,7 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Drupal and the secret of my success | Steve Francia](https://www.youtube.com/watch?v=EJo9tPXGPo8&feature=youtu.be&t=13m4s)
 - [Apple WWDC 1997 Closing Keynote - Steve Jobs Fireside Chat](https://www.youtube.com/watch?v=KWJ6rGiopvo)
 - [Simplicity Matters - Rich Hickey (2012)](https://www.youtube.com/watch?v=rI8tNMsozo0)
+- [MVC is Not Your Problem - Joachim Kurz (2018)](https://www.youtube.com/watch?v=A1vzcxR-Ss0)
 
 ## Notes
 - Giving a talk, it is often best to start with a `Why?`
