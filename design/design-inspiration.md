@@ -6,7 +6,7 @@ Here are few more things I liked, design wise.
 ## Websites
 - [Draftsend](https://draftsend.com/)
 - [taotajima ](http://taotajima.jp/works/waxing-moon/) - Amazing transitions.
-- [TANMU LABS](https://tanmulabs.com/) - Pretty awesome colour palette.
+- [TANMU LABS](https://tanmulabs.com/) - Pretty awesome color palette.
 - [The Disconnect](https://thedisconnect.co/)
 - [John Otander](http://johnotander.com/) - Simple.
 - [Stripe](https://stripe.com) - Incredible design. I really love their docs format too.
@@ -32,7 +32,7 @@ Here are few more things I liked, design wise.
 - [Isobit](https://www.isobit.io)
 - [Connor Sears](http://connor.town/) - Clean.
 - [Adam Morse](http://mrmrs.cc)
-- [Nienke](https://nienkedekker.com/) - Like the background and colours.
+- [Nienke](https://nienkedekker.com/) - Like the background and colors.
 - [Justin Windle](https://soulwire.co.uk/)
 - [Yoshua Wuyts](https://www.yoshuawuyts.com/) - Really clean dark design.
 - [xxiivv](http://xxiivv.com/)

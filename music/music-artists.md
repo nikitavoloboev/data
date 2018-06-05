@@ -20,7 +20,7 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [AtYyA](https://soundcloud.com/atyya) - [Altar Form](https://www.youtube.com/watch?v=Y8JlvrV-jCw)
 - [Neroche](https://soundcloud.com/nerocheproductions) - [The departure](https://www.youtube.com/watch?v=B2DrqS6Rxhw)
 - [Auditive Escape](https://auditiveescape.bandcamp.com) - [Collective Monad](https://www.youtube.com/watch?v=U1mcD-IfAas)
-- [Crooked Colours](https://soundcloud.com/crookedcolours) - [All Eyes](https://www.youtube.com/watch?v=5ne08M5fr30)
+- [Crooked Colors](https://soundcloud.com/crookedcolours) - [All Eyes](https://www.youtube.com/watch?v=5ne08M5fr30)
 - [Mecca:83](https://soundcloud.com/solar-sound-system) - [So fine](https://www.youtube.com/watch?v=2dlVqNTGad0)
 - [Solar Fields](https://soundcloud.com/solarfields) - [Vive Le Resistance](https://www.youtube.com/watch?v=J-9CUuPA4FU)
 - [The Toxic Avenger](https://soundcloud.com/thetoxicavenger) - [Over Me](https://www.youtube.com/watch?v=5fx1-SbkWtY)

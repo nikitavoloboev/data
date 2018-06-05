@@ -195,7 +195,7 @@ Some simple rules to follow for myself doing things.
 - Name external triggers with spaces between words (lowercased).
 - Release all my workflows (that have no sensitive information) either in [small workflows](https://github.com/nikitavoloboev/small-workflows) or standalone if they contain quite a bit of code.
 - Name all modifier triggers (uppercased).
-- Colour Alfred objects that have errors in them and need to be fixed in red colour. Acts as a `TODO`.
+- Color Alfred objects that have errors in them and need to be fixed in red color. Acts as a `TODO`.
 - Alfred workflow description should be the same as GitHub description.
 
 ## MindNode

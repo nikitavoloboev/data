@@ -13,8 +13,5 @@ Aside from it, I use [many Safari extensions](https://github.com/learn-anything/
 
 I also use [this amazing workflow](https://github.com/deanishe/alfred-safari-assistant) to quickly jump between my currently active Safari tabs as well as search through my history and my bookmarks.
 
-If I get too many tabs open filled with things to read and do, I sometimes save a session of all these tabs in [Sessions safari extension](https://sessions-extension.github.io/Sessions/) and then have a clean Safari window to focus on.
-
-I then schedule times where I go and review these saved sessions.
-
-![](https://i.imgur.com/BX2PeJc.png)
+## Links
+- [Safari Extensions JS](https://developer.apple.com/documentation/safariextensions)

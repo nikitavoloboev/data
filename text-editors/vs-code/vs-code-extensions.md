@@ -5,15 +5,13 @@ Below is a list of extensions I use.
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation.
 - [Advanced New File](https://marketplace.visualstudio.com/items?itemName=dkundel.vscode-new-file) - Create new files quickly.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
-- [Change case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
 - [Code runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easilly build and deploy containerized applications from VS Code.
 - [File Icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) - File specific icons for improved visual grepping.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.
-- [RelativePath](https://marketplace.visualstudio.com/items?itemName=john681611.relativepath) - Get the relative path to any file in the workspace.
+- [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative url paths from files in the current workspace.
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize VS Code settings across multiple machines using Github Gist.
-- [Terminal tabs](https://marketplace.visualstudio.com/items?itemName=Tyriar.terminal-tabs) - Adds tabs for each terminal process to the status bar.
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - Highlight TODO, FIXME and other annotations within your code.
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
 
@@ -36,7 +34,6 @@ Below is a list of extensions I use.
 
 ## CSS
 - [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information CSS colors.
-- [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [stylelint](https://stylelint.io/).
 
 ## Haskell
 - [Haskell Language](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) - Adds highlighting support for Haskell.
@@ -81,6 +78,8 @@ Below is a list of extensions I use.
 - [Import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Displays the import size of the package you are importing inside the code editor.
 - [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - Makes indentation easier to read.
+- [Change case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
+- [Terminal tabs](https://marketplace.visualstudio.com/items?itemName=Tyriar.terminal-tabs) - Adds tabs for each terminal process to the status bar.
 
 ## Git
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - Git History, Search and More.
@@ -90,6 +89,9 @@ Below is a list of extensions I use.
 
 ## Java
 - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+
+## CSS
+- [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [stylelint](https://stylelint.io/).
 
 ## Themes
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
