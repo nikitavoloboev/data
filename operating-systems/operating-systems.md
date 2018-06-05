@@ -1,5 +1,5 @@
 # Operating systems
-Still learning more about them. [nixOS](linux/nixos.md) and [Plan 9](http://www.wikiwand.com/en/Plan_9_from_Bell_Labs) are quite interesting.
+Still learning. [NixOS](linux/nixos.md) and [Plan 9](http://www.wikiwand.com/en/Plan_9_from_Bell_Labs) are quite interesting.
 
 I use and love [macOS](../macOS/macOS.md) as my personal OS.
 
