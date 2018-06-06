@@ -18,6 +18,7 @@ Some simple rules to follow for myself doing things.
 
 ## Health
 - [Exercise](../fitness/fitness.md) daily.
+- Eat a [whole food, pescetarian diet](../health/nutrition/foods.md).
 - [Sleep](../sleep/sleep.md) at least 7 hours every day.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
 
@@ -43,7 +44,7 @@ Some simple rules to follow for myself doing things.
 - Be mindful of my habits and temptations. Don't succumb to them and focus on the task at hand.
 - Change location. Work from different places.
 - Look at where I spend my time in Timing and cut those out with Focus and scripts.
-- Less than 1 hr _News_ time every day.
+- Less than 30 min _News_ time every day.
 - Use one screen when coding. Much easier to context switch.
 - Don't listen to music when coding and focusing. Use [Noizio](http://noiz.io) and listen to rain, train or other pieces.
 - Sit up right always. Never slouch.
@@ -66,7 +67,6 @@ Some simple rules to follow for myself doing things.
 - Drink water, coffee and tea. No added sugar in the drinks.
 - Always have water/tea next to me. Fill up the water/tea if it empties.
 - No meat or dairy products. Health and [ethical reasons](../life/compassion.md).
-- Focus on [whole food, pescetarian diet](../health/nutrition/foods.md).
 - Eat a salad every morning.
 - Take [Vitamin D & Vitamin B12](../health/nutrition/supplements.md) every morning.
 - Everything in moderation. Avoid alcohol and hard drugs (like opiates).

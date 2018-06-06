@@ -23,7 +23,7 @@ I share my Karabiner private.xml [here](https://github.com/nikitavoloboev/dotfil
 - [My detailed post on Alfred forum mentioning how I use Karabiner](https://www.alfredforum.com/topic/10673-how-to-make-the-alfred-search-window-a-frontmost-app/?do=findComment&comment=57212)
 - [Interesting setup](https://github.com/dunkarooftop/thought/blob/master/keymaps.org)
 - [Karabiner Elements documentation](https://qiita.com/s-show/items/a1fd228b04801477729c) (in Japanese)
-- [Tekezo's launcher mode](https://github.com/pqrs-org/KE-complex_modifications/pull/206/files)
+- [Tekezo's launcher mode](https://github.com/pqrs-org/KE-complex_modifications/blob/2348fb5ae3f0b04cea16b6b07ff6cf18e58885fb/docs/json/personal_tekezo_launcher_mode_v4.json)
 - [Karabiner.json reference manual](https://pqrs.org/osx/karabiner/json.html)
 - [Karabiner JSON spec](https://pqrs.org/osx/karabiner/json.html)
 - [Write Karabiner config in YAML and then convert to JSON](https://github.com/15cm/dotfiles/tree/master/.config/karabiner)

@@ -1,5 +1,5 @@
 # [Clojure](https://clojure.org)
-Don't use it but [Luminus framework](http://www.luminusweb.net/), [clojurescript](https://github.com/clojure/clojurescript) and [clojerl](https://github.com/clojerl/clojerl) look interesting.
+Don't use it but [Luminus](http://www.luminusweb.net/), [clojurescript](https://github.com/clojure/clojurescript) and [clojerl](https://github.com/clojerl/clojerl) look interesting.
 
 ## Links
 - [HN: Clojure learning journey](https://news.ycombinator.com/item?id=16412050)
