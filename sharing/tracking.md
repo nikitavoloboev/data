@@ -22,7 +22,7 @@ Here is a list of various things I track for my own use and reference.
 - [Last.fm](https://www.last.fm/user/playfullyExist) - Music I am listening to now and listened to in the past.
 
 ## Code
-- [WakaTime activity](https://wakatime.com/@nikivi) - The ratio of different programming languages I used this week together with the editors I used.
+- [WakaTime](https://wakatime.com/@nikivi) - Ratio of different programming languages I used this week together with the editors I used.
 - [Codepen collections](https://codepen.io/nikitavoloboev/collections/popular/)
 
 ## Games

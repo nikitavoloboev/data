@@ -14,6 +14,7 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Apple WWDC 1997 Closing Keynote - Steve Jobs Fireside Chat](https://www.youtube.com/watch?v=KWJ6rGiopvo)
 - [Simplicity Matters - Rich Hickey (2012)](https://www.youtube.com/watch?v=rI8tNMsozo0)
 - [MVC is Not Your Problem - Joachim Kurz (2018)](https://www.youtube.com/watch?v=A1vzcxR-Ss0)
+- [10 Things I Regret About Node.js - Ryan Dahl (2018)](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 
 ## Notes
 - Giving a talk, it is often best to start with a `Why?`

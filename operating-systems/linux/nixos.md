@@ -17,3 +17,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Why nixOS?](https://www.reddit.com/r/NixOS/comments/8bxdyu/why_nixos/)
 - [Not OS](https://github.com/cleverca22/not-os) - Operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.
 - [NixOS 💜 Chromebook?](https://sphalerite.org/ghotl/posts/2017-11-10-chromebook.html)
+- [NixOS Wiki](https://nixos.wiki/wiki/Main_Page)
