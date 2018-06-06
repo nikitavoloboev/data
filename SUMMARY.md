@@ -237,6 +237,7 @@
 		- [LoRaWAN](networking/iot/lorawan.md)
 	- [Microservices](networking/microservices.md)
 	- [Decentralization](networking/decentralization.md)
+	- [Nginx](networking/nginx.md)
 	- [VPN](networking/vpn.md)
 - [Health](health/health.md)
 	- [Nutrition](health/nutrition/nutrition.md)

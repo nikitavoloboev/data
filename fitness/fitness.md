@@ -10,3 +10,4 @@ I am also trying to limit my time being stationary and never sitting in one plac
 
 ## Links
 - [Workout Prep](https://www.julian.com/guide/muscle/prep)
+- [Strength Training](http://macournoyer.com/blog/2013/08/22/strength/)

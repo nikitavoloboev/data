@@ -6,7 +6,7 @@ I once made TEDx talk on mindfulness. I only have a transcript of it [here](http
 I mark talks that I found interesting [here](https://github.com/learn-anything/talks#readme).
 
 ## Favourite
-- [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0) - [Paper version](http://www.cs.virginia.edu/%7Eevans/cs655/readings/steele.pdf) of talk.
+- [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0) - [Transcript](http://www.cs.virginia.edu/%7Eevans/cs655/readings/steele.pdf).
 - [Malte Ubl - Designing very large JavaScript applications (2018)](https://www.youtube.com/watch?v=ZZmUwXEiPm4) - [Transcript](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3).
 - [John Sundell - Sharing (2018)](https://www.youtube.com/watch?v=_mQNwL8HkS0)
 - [Bret Victor - Inventing on Principle (2012)](https://vimeo.com/36579366)
