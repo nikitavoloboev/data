@@ -18,3 +18,4 @@
 - [The Machine vaporizer](https://wiki.dmt-nexus.me/The_Machine)
 - [Guidelines for 5-MeO-DMT use](https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=75496)
 - [Hyperspace lexicon](https://wiki.dmt-nexus.me/Hyperspace_lexicon)
+- [Norman Tek](https://psychonautwiki.org/wiki/Norman_Tek)
