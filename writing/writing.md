@@ -45,17 +45,12 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 	- Topics are everywhere - just look at the problems you're solving every day.
 	- Share learnings & experiences instead of "selling" things. (Don't say `I hope I convinced you to use ..`. Just share what you want to share and let the readers decide for themselves.)
 
-## Don't use these words
+## Don't use
 - really
 - though
-- very
-- a bit
-- a little
 - sort of
 - kind of
 - rather
-- quite
-- too
 - pretty much
 - quite a few
 - obviously
@@ -66,6 +61,13 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 - just
 - everyone knows
 - have made (use made)
+
+## Avoid using
+- very
+- a bit
+- a little
+- quite
+- too
 
 ## Notes
 - Most adverbs are superfluous. Most cases where you say "generally" or "usually" you're undermining your point and the use of "very", "extremely", etc. are hyperbolic and breathless and make it easier to regard what you're writing as unserious.

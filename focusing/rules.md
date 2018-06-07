@@ -97,13 +97,10 @@ Some simple rules to follow for myself doing things.
 
 ## Write
 - Use proper punctuation and capitalise things appropriately.
-- When adding `:`, don't add space beforehand.
 - When making tasks (2Do, Trello, GitHub issues), use imperative tense.
 - Remove unnecessary and _filler_ words. Use adverbs sparingly, they often undermine your point.
 - If something can be said in less words, say it in less words. Be clear and to the point.
-- Both in code and prose. Say more with less and never repeat myself.
-- Minimise using word _here_.
-	- When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
+- Minimise using word _here_. When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
 
 ## Medium
 - Use headings to separate sections of the article.
