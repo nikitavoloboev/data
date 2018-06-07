@@ -1,5 +1,5 @@
 # Art
-At current time I am mostly a consumer of art rather than creator. I am working on changing that though.
+At current time I am mostly a consumer of art rather than creator. I am working on changing that.
 
 I like to collect various beautiful art pieces as an imgur album you can view [here](http://imgur.com/a/3m5wf). I also like various [psychedelic art](http://imgur.com/a/9yOpt) and specifically I love [art by James R. Eads](http://imgur.com/a/Aao8R).
 
@@ -35,5 +35,5 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting/top/).
 ## Links
 - [Intricate Paper Installations By Daniele Papuli](https://www.ignant.com/2016/02/23/intricate-paper-installations-by-daniele-papuli/)
 - [Order from Chaos](https://vimeo.com/196269431)
-- [My Instagram likes](http://nikitavoloboev.tumblr.com/) - I once had a Tumblr blog I cross posted my Instagram likes to. Until Instragram closed the API in 2016. The blog still stayed though.
+- [My Instagram likes](http://nikitavoloboev.tumblr.com/) - I once had a Tumblr blog I cross posted my Instagram likes to. Until Instragram closed the API in 2016.
 - [Dreamscope App](https://dreamscopeapp.com/) - Some cool art.

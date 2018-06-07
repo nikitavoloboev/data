@@ -47,10 +47,6 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 
 ## Don't use
 - really
-- though
-- sort of
-- kind of
-- rather
 - pretty much
 - quite a few
 - obviously
@@ -68,6 +64,10 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 - a little
 - quite
 - too
+- though
+- sort of
+- kind of
+- rather
 
 ## Notes
 - Most adverbs are superfluous. Most cases where you say "generally" or "usually" you're undermining your point and the use of "very", "extremely", etc. are hyperbolic and breathless and make it easier to regard what you're writing as unserious.
