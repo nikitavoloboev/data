@@ -25,7 +25,7 @@ Go promotes composition over inheritance.
 - I don't need to comment all functions as some are self describing. I do need to comment exported functions however.
 - I [can put my Go projects not in my GOPATH if I am not planning to release them publically as library or cli tool](https://golang.org/doc/code.html#GOPATH). i.e. My Alfred workflows live in `~/src/alfred` and not in my GOPATH and are still writen in Go.
 - `go run` looks at the paths you specify.  `go build` takes the package(s) you specify and uses GOPATH to find their location.
-- [What works really well is to use Go to create an HTTP API and leave the rest (html templates etc) to a client-side frontend (e.g. React). That gives you the best of both worlds: a fast and lightweight backend in Go with a rich frontend in JS.](https://www.reddit.com/r/golang/comments/8eeolx/recommended_web_framework_for_go/)
+- [What works well is to use Go to create an HTTP API and leave the rest (html templates etc) to a client-side frontend (e.g. React). That gives you the best of both worlds: a fast and lightweight backend in Go with a rich frontend in JS.](https://www.reddit.com/r/golang/comments/8eeolx/recommended_web_framework_for_go/)
 - This is a core concept in Go’s type system; instead of designing our abstractions in terms of what kind of data our types can hold, we design our abstractions in terms of what actions our types can execute.
 
 ## Links

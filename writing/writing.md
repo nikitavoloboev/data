@@ -45,7 +45,7 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 	- Topics are everywhere - just look at the problems you're solving every day.
 	- Share learnings & experiences instead of "selling" things. (Don't say `I hope I convinced you to use ..`. Just share what you want to share and let the readers decide for themselves.)
 
-## Avoid using these words
+## Don't use these words
 - really
 - though
 - very

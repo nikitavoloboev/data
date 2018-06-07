@@ -7,7 +7,7 @@ Perhaps we can replicate a universe like ours in the future. One of the more int
 
 ## Notes
 - What is energy?
-	- There's really no satisfying definition beyond "the quantity that is conserved over time." This may sound arbitrary and ad hoc but it emerges from this deep mathematical principal called Noether's theorem that states that for each symmetry (in this case, staying the same while moving forward or backwards in time), there is something that is conserved. In this context, momentum is the thing that is conserved over distance, and angular momentum is the thing that is conserved through rotations.
+	- There's no satisfying definition beyond "the quantity that is conserved over time." This may sound arbitrary and ad hoc but it emerges from this deep mathematical principal called Noether's theorem that states that for each symmetry (in this case, staying the same while moving forward or backwards in time), there is something that is conserved. In this context, momentum is the thing that is conserved over distance, and angular momentum is the thing that is conserved through rotations.
 	- The less rigorous explanation is that it's essentially the currency used by physical systems to undergo change.
 
 ## Links

@@ -137,6 +137,7 @@
 	- [C++](programming-languages/cpp/cpp.md)
 	- [Idris](programming-languages/idris/idris.md)
 	- [Agda](programming-languages/agda.md)
+	- [Coq](programming-languages/coq/coq.md)
 - [Open Source](open-source/open-source.md)
 	- [GitHub](open-source/github.md)
 	- [GSOC](open-source/gsoc.md)

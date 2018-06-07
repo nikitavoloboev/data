@@ -1,6 +1,6 @@
 # Negotiating
 ## Notes
-- [Start off with a strong position, then negotiate back to the place where you really wants to be.](https://www.reddit.com/r/startups/comments/5qtyh1/as_a_british_citizen_that_was_born_in_iraq_is/dd29nmy/)
+- [Start off with a strong position, then negotiate back to the place where you want it to be.](https://www.reddit.com/r/startups/comments/5qtyh1/as_a_british_citizen_that_was_born_in_iraq_is/dd29nmy/)
 - In short:
 	1. Know what result you want.
 	2. Propose your result + a ton of wild unreasonable additions.

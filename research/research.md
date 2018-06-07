@@ -13,16 +13,16 @@ For searching, I use:
 
 And of course I love specialising my search to any website I wish. My [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) workflow lets me do that with ease and anyone can download it too to get all these search super powers.
 
-There is also absolutely amazing workflow to [search various websites with autosuggestions](https://github.com/deanishe/alfred-searchio). I highly recommend it. It essentially lets you have powerful search like Google, DuckDuckGo, YouTube and more from wherever you are in your operating system. It is really fast.
+There is also absolutely amazing workflow to [search various websites with autosuggestions](https://github.com/deanishe/alfred-searchio). I highly recommend it. It essentially lets you have powerful search like Google, DuckDuckGo, YouTube and more from wherever you are in your operating system.
 
 ## Super fast access to all knowledge of the world
-It's really insane, the world we live in.
+It's insane, the world we live in.
 
 We have all the knowledge of every human who has ever lived or lives now at our disposal. Not many people do share all their knowledge in a continuous way like I do here but most people share it through their blogs. Their code, videos, tweets and other mediums.
 
 Google, DuckDuckGo and other search engines are phenomenal in how they solve this problem of trying to access and query all this collective sum of knowledge.
 
-Together with [Learn Anything](https://learn-anything.xyz/), you really do have all the superpowers of this world to create anything and everything. Things that didn't exist before. Ideas and thoughts that weren't thought of before.
+Together with [Learn Anything](https://learn-anything.xyz/), you have all the superpowers of this world to create anything and everything. Things that didn't exist before. Ideas and thoughts that weren't thought of before.
 
 In addition to Learn Anything, I also help curate [many curated lists of resources and links](https://github.com/learn-anything/curated-lists#readme). I then parse these lists and access them from [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) worlflow. These lists include:
 - [Books](https://github.com/learn-anything/books#interesting-books-) - Both free and paid.

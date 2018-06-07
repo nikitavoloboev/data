@@ -5,11 +5,11 @@ If you are having fun, time _feels_ to move faster. If you forget about time and
 
 All that is to say, that time is something that is dependent on your perception of it.
 
-However what's more interesting to me is how memories are formed. And how memory works generally. Why do I remember certain events more vividly and others I forget easily. How can memories spontaneously occur and can you really force yourself to forget things?
+However what's more interesting to me is how memories are formed. And how memory works generally. Why do I remember certain events more vividly and others I forget easily. How can memories spontaneously occur and can you force yourself to forget things?
 
 These are all questions I wish there was some definitive answer to.
 
-But based on my experience thus far in life. Making these unforgettable memories is really one of the most amazing traits this life has to give. Being able to remember past events and happy or even sad moments is a bliss. The only thing left is to maximise how many of these awesome and unique moments you get in life.
+But based on my experience thus far in life. Making these unforgettable memories is one of the most amazing traits this life has to give. Being able to remember past events and happy or even sad moments is a bliss. The only thing left is to maximise how many of these awesome and unique moments you get in life.
 
 It's interesting to think, what would I do if I knew that at the end of every day my memory would be gone. How would I choose to lead my days. What would I do? There's a pretty [awesome movie](https://letterboxd.com/film/memento/) that is quite similar to this idea that I like.
 

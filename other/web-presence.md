@@ -28,7 +28,7 @@ These are my personal profiles on various websites sorted by categories.
 - [SoundCloud](https://soundcloud.com/nikitavoloboev) - Sharing music I like and the tunes I make.
 - [Spotify](https://open.spotify.com/user/nikitavoloboev) - Sharing music I like in form of a variety of playlists.
 - [Last.fm](https://www.last.fm/user/playfullyExist) - Tracking music I listen to on Spotify.
-- [Mixcloud](https://www.mixcloud.com/nikitavoloboev/) - Don't really use it.
+- [Mixcloud](https://www.mixcloud.com/nikitavoloboev/) - Don't use it.
 
 ## Design
 - [Dribble](https://dribbble.com/nikitavoloboev) - Sharing my design creations and design things I like.
@@ -85,10 +85,10 @@ These are my personal profiles on various websites sorted by categories.
 - [Angel List](https://angel.co/nikitavoloboev) - Sometimes use it to find interesting startups to apply to.
 - [Indie Hackers](https://www.indiehackers.com/user/nikivi) - Awesome community of hackers and entrepreneurs.
 - [Home](https://nikitavoloboev.xyz) - My personal home page on the internet.
-- [Vimeo](https://vimeo.com/user18010447) - Don't really use it but it has many creative videos.
+- [Vimeo](https://vimeo.com/user18010447) - Don't use it but it has many creative videos.
 - [Kickstarter](https://www.kickstarter.com/profile/2082672852) - Don't use it.
-- [Airbnb](https://www.airbnb.com/users/show/48269245) - Don't really use it.
-- [DevianArt](https://nikivi.deviantart.com/) - Don't really use it.
+- [Airbnb](https://www.airbnb.com/users/show/48269245) - Don't use it.
+- [DevianArt](https://nikivi.deviantart.com/) - Don't use it.
 - [Eventbrite](https://www.eventbrite.com/u/146147331884/#) - Various events I have attended or planning to attend.
 - [Stack Overflow CV](https://stackoverflow.com/cv/nikitavoloboev) - Not updating it. Prefer Linkedin.
 - [Gfycat](https://gfycat.com/@nikivi) - Sharing Gifs.

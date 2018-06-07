@@ -29,7 +29,7 @@ https://hookrace.net/blog/a-taste-of-haskell/
 http://blog.themarfa.name/
 - (!!!) give this blog a read
 http://typeocaml.com/2015/01/02/immutable/
-- (!!!) really look into it - want to make something similar
+- (!!!) look into it - want to make something similar
 https://yoshuawuyts.gitbooks.io/knowledge/content/work.html
 - (!!!) haskell blo
 http://www.stephendiehl.com/posts.html
@@ -955,7 +955,7 @@ https://github.com/satwikkansal/wtfpython
 - anesthesia
 - Calculus Learning Guide (want to go over it fully to get understanding on the subject)
 http://crowhoho.weebly.com/
-- a really interesting russian website going over math and logic
+- interesting russian website going over math and logic
 http://synset.com/wiki/index.php/Заглавная_страница
 - do this
 https://github.com/k88hudson/git-flight-rules

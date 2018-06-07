@@ -2,7 +2,7 @@
 ## Interesting pages
 - [Nuzzle app](https://muzzleapp.com/) - One of the funnier ones.
 - [Sentry](https://sentry.io/welcome/)
-- [Onroadmap](https://onroadmap.com/) - Really clean.
+- [Onroadmap](https://onroadmap.com/) - Clean.
 
 ## Notes
 - [When you're looking at landing pages, what makes them great has a lot less to do with the visual design, and a lot more to do with the story and message they tell.](https://news.ycombinator.com/item?id=16710952)

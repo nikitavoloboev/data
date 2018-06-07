@@ -1,5 +1,5 @@
 # Movies
-I really love watching interesting movies and I saw [a few of them](https://letterboxd.com/nikitavoloboev/films/) thus far.
+I love watching interesting movies and I saw [a few of them](https://letterboxd.com/nikitavoloboev/films/) thus far.
 
 I love [making lists](https://letterboxd.com/nikitavoloboev/lists/) of movies I've seen and liked. Like a list of my [favourite movies](https://letterboxd.com/nikitavoloboev/list/favourite) or a list of my [favourite movie directors](https://letterboxd.com/nikitavoloboev/list/favourite-directors/) alongside my favourite movies from them.
 

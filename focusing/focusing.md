@@ -45,7 +45,7 @@ I focus fully on [solving problems](../research/solving-problems.md) I need to s
 - I don't listen to any music when working and instead use [Noizio](http://noiz.io/) and listen to sounds of wind, rain, train or fire.
 - I always have water or tea nearby and keep myself hydrated. If I can't solve some problem or feel like I can't keep my focus, I take a walk outside or do some exercise.
 - I try to work outside of home and move often. When that is not possible I emulate a working enviroment in some part of my home so my brain knows that if I am in this place, it is time to work and not do anything else.
-- I don't use any external monitors. I found multiple monitors distracting as I can do everything really fast from my computer already.
+- I don't use any external monitors. I found multiple monitors distracting as I can do everything fast from my computer already.
 - I strive to support my [happiness](../life/happiness.md) by working on projects that I care about and looking after my [health](../health/health.md).
 - I constantly refine [my workflow](../sharing/my-workflow.md) to be more efficient and better every day. I also maintain a set of [my own rules in life](rules.md) that I follow.
 

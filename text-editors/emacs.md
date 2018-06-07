@@ -1,5 +1,5 @@
 # [Emacs](https://www.gnu.org/software/emacs/)
-Emacs is an interesting editor that I haven't really checked out still.
+Emacs is an interesting editor that I haven't checked out still.
 
 [This](https://www.reddit.com/r/emacs/comments/74hetz/emacs_everywhere/) paints a pretty interesting picture of what Emacs really is. It is a programmable user interface with which you can do many things. One of these things is editing text.
 

@@ -5,7 +5,7 @@ I also automate commiting the README of [my macOS](https://github.com/nikitavolo
 
 Since I want to keep my macOS repo always updated, I made a macro to open the README file in Sublime Text so I can quickly make a change, save and the change will instantly be commited with `update readme` message.
 
-The Hazel rule for this is really simple and looks like this:
+The Hazel rule for this is simple and looks like this:
 ![](https://i.imgur.com/EF3elcv.png)
 
 With this as the shell script:

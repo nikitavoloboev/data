@@ -1,5 +1,5 @@
 # Math
-Math is fascinating.
+[Univalent foundations](http://www.wikiwand.com/en/Univalent_foundations) and [Type Theory](type-theory.md) are interesting.
 
 ## Notes
 - Math can be learned, it's just a bit silly to dive into a homotopy type theory book and expect to get a firm grasp of things. It's like picking up a chinese news paper and expecting to get an idea of what its content is about.
@@ -10,7 +10,7 @@ Math is fascinating.
 - [How to read Mathematics](https://news.ycombinator.com/item?id=15905048)
 - [The Banach–Tarski Paradox](https://www.youtube.com/watch?v=s86-Z-CbaHA)
 - [John Conway: Genius Behind The Numbers](https://www.52-insights.com/john-conway-genius-behind-the-numbers/)
-- [Moiré pattern in Javascript](http://run.plnkr.co/preview/cjdkx244o0005fillh320qndp/) - Really beautiful.
+- [Moiré pattern in Javascript](http://run.plnkr.co/preview/cjdkx244o0005fillh320qndp/) - Beautiful.
 - [Tools for thought](https://acko.net/files/gltalks/toolsforthought/#0)
 - [Making things with maths](https://www.youtube.com/watch?v=Zkx1aKv2z8o)
 - [The Map of Mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y&)

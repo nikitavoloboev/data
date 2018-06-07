@@ -3,7 +3,7 @@
 - [Two points of space are considered the same point when the distance between them is zero.](https://www.reddit.com/r/askscience/comments/5sdyes/by_guessing_the_rate_of_the_expansion_of_the/ddedjcw/)
 - The universe doesn't expand into anything. No additional points of space are added -- whether finite or infinite, the universe is best modelled as a continuum (attempts to model space as discrete all seem to have problems) which means it has an uncountably infinite number of points. The expansion of space simply means that distances between any two given points increase over time.
 	- Its like having an infinite Cartesian coordinate plane, then scaling it up by a factor of 2 and asking "what did it expand into?" It didn't expand into anything, it just scaled up by a factor of 2, that's all.
-- It hasn't really been established that the universe came from the single point. That is still speculative, and there are numerous ideas, but not enough data to choose which (if any) are correct.
+- It hasn't been established that the universe came from the single point. That is still speculative, and there are numerous ideas, but not enough data to choose which (if any) are correct.
 	- We know that the universe was originally very very hot and very very dense.
 	- We don't know if it came from a point, or from another universe that collapsed, or if it just gets asymptotically smaller forever back in time.
 - Imagine the universe as an infinite grid. Now, if we reduce the space between each line to 0, the universe becomes a point. But it still has an infinite number of divisions, it's just that it's infinite * 0.

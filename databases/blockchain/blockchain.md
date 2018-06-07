@@ -1,5 +1,5 @@
 # [Blockchain](http://www.wikiwand.com/en/Blockchain)
-[This](https://www.youtube.com/watch?v=3aJI1ABdjQk) was a really great video intro to the blockchain.
+[This](https://www.youtube.com/watch?v=3aJI1ABdjQk) was a great video intro to the blockchain.
 
 In short, blockchain is a [immutable linked list of hashes](https://www.quora.com/Is-a-blockchain-essentially-a-linked-list?share=1). Which can be used to solve the double spending problem in cryptocurrencies using proof of work and a persistent chain of records (blocks mined).
 

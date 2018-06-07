@@ -17,7 +17,7 @@ Some simple rules to follow for myself doing things.
 - Follow these rules. [Take it easy](../life/happiness.md). You only live now.
 
 ## Health
-- [Exercise](../fitness/fitness.md) daily. Run/Gym/Tennis every morning.
+- [Exercise](../fitness/fitness.md). Run/Gym/Tennis every morning.
 - Eat a [whole food, pescetarian diet](../health/nutrition/foods.md).
 - [Sleep](../sleep/sleep.md) at least 7 hours every day.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
@@ -39,14 +39,14 @@ Some simple rules to follow for myself doing things.
 
 ## Focus
 - Be very aggressive in cutting any kind of distractions when working.
-- Don't visit blocked sites and apps during __focus__ time. Don't touch the phone unless necessary during __focus__ time.
-- During __focus__ time, do the activity specified in the calendar, and nothing else.
+- Don't visit blocked sites and apps when __focusing__. Don't touch the phone unless necessary.
+- When __focusing__, do the task at hand and nothing else.
 - Be mindful of my habits and temptations. Don't succumb to them and focus on the task at hand.
 - Change location. Work from different places.
 - Look at where I spend my time in Timing and cut those out with Focus and scripts.
 - Less than 30 min _News_ time every day.
 - Use one screen when coding. Much easier to context switch.
-- Don't listen to music when coding and focusing. Use [Noizio](http://noiz.io) and listen to rain, train or other pieces.
+- Don't listen to music when focusing. Use [Noizio](http://noiz.io) and listen to rain, thunder or wind.
 - Sit up right always. Never slouch.
 
 ## Learn
@@ -125,7 +125,7 @@ Some simple rules to follow for myself doing things.
 - If I am watching a talk, it is best not to jot down notes from the talk itself but capture ideas and note down these ideas in the wiki, sometimes referencing the talk where the idea or insight was taken from for context.
 - Think about structuring the content and entries as I add new entries. Should a new category be added for the topic (thing) and under what category should the entry be placed.
 - If I move a file anywhere in the wiki, make sure to search for the path to the file in the entire wiki and change the references to the previous file with new one.
-- Don't abbreviate folders and files. Unless it is really clear what abbreviation means.
+- Don't abbreviate folders and files. Unless it is clear what abbreviation means.
 - Add links to headings that link to the description of what the wiki file is about.
 - Don't say `I need to`, but say `I will ..` or `I try to ..`. Be proactive. Intention counts.
 
@@ -227,7 +227,7 @@ Some simple rules to follow for myself doing things.
 - Plan the next day fully in advance in the calendar. Follow through with the plan but adapt where necessary.
 
 ## 2Do
-- Only contain things I really need to get done in _Today_.
+- Only contain things I need to get done in _Today_.
 - All 2Do tasks need to be actionable.
 - Work on tasks based on priority (starred completed first).
 - Don't include context in the task title. Add it as a tag instead.
@@ -287,7 +287,7 @@ Some simple rules to follow for myself doing things.
 
 ## Spotify
 - Add all songs I like to my [Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=s7begtjFTM-vaAp0ZplMaQ) playlist.
-	- Add all songs I _really_ like to [Bliss](https://open.spotify.com/user/nikitavoloboev/playlist/0epiRzQHjdJieYr0y3TdST?) playlist.
+	- Add all songs I love to [Bliss](https://open.spotify.com/user/nikitavoloboev/playlist/0epiRzQHjdJieYr0y3TdST?) playlist.
 	- Add songs to other playlists accordingly.
 
 ## Licensing

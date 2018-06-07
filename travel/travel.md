@@ -1,5 +1,5 @@
 # Travel
-I didn't have a chance to really travel the world yet but I hope I will in the future.
+I didn't have a chance to travel the world yet but I hope I will in the future.
 
 I keep a list of places and countries I want to visit [here](https://trello.com/b/i8c0hBVu).
 

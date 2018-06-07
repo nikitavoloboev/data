@@ -9,7 +9,7 @@ Here are few more things I liked, design wise.
 - [TANMU LABS](https://tanmulabs.com/) - Pretty awesome color palette.
 - [The Disconnect](https://thedisconnect.co/)
 - [John Otander](http://johnotander.com/) - Simple.
-- [Stripe](https://stripe.com) - Incredible design. I really love their docs format too.
+- [Stripe](https://stripe.com) - Incredible design. I love their docs format too.
 
 ## Designers
 - [Marc Edwards](https://dribbble.com/bjango) - Developer of iStats Menu for mac.
@@ -34,7 +34,7 @@ Here are few more things I liked, design wise.
 - [Adam Morse](http://mrmrs.cc)
 - [Nienke](https://nienkedekker.com/) - Like the background and colors.
 - [Justin Windle](https://soulwire.co.uk/)
-- [Yoshua Wuyts](https://www.yoshuawuyts.com/) - Really clean dark design.
+- [Yoshua Wuyts](https://www.yoshuawuyts.com/) -Clean dark design.
 - [xxiivv](http://xxiivv.com/)
 - [Kokorobot](http://kokorobot.ca/#home)
 - [Code Kitchen](http://codekitchen.net/) - Small animation.
