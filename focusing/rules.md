@@ -17,7 +17,7 @@ Some simple rules to follow for myself doing things.
 - Follow these rules. [Take it easy](../life/happiness.md). You only live now.
 
 ## Health
-- [Exercise](../fitness/fitness.md) daily.
+- [Exercise](../fitness/fitness.md) daily. Run/Gym/Tennis every morning.
 - Eat a [whole food, pescetarian diet](../health/nutrition/foods.md).
 - [Sleep](../sleep/sleep.md) at least 7 hours every day.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.

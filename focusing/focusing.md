@@ -6,7 +6,7 @@ Getting in the _flow_ state is one of the most important things I try to focus o
 
 I try to define a certain set of [rules](rules.md) and [processes](processes.md) that I like myself to follow for doing certain things.
 
-For example, one of these _rules_ is that I need to be proactive with my email. And strive to reach inbox zero at all times. But there are [many other ones](rules.md) out there.
+For example, one of these _rules_ is that I need to be proactive with my email and action on every email I read. But there are [many other ones](rules.md) out there.
 
 ## Focusing on what's important
 I keep a private Trello board where I outline things that I want to focus on in life and achieve. I try to not work on long periods of time and predict things in advance for over three months and instead work in very short time frames whilst having some end goal(s) in mind of what I ultimately want to achieve. Here is how my __Focus__ Trello board looks:

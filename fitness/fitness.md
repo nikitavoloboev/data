@@ -1,7 +1,7 @@
 # Fitness
-I try to start every morning by either going to the gym or playing tennis.
+I start every morning by either going to the gym, playing tennis or running for 90 minutes.
 
-![](https://i.imgur.com/vFPu8gJ.png)
+![](https://i.imgur.com/apPvnvi.png)
 
 I am also trying to limit my time being stationary and never sitting in one place for too long.
 
