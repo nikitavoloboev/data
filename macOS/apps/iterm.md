@@ -1,15 +1,15 @@
 # [iTerm](https://www.iterm2.com/)
-Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) shell plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.
+Use Zsh as my shell together with [Antibody](https://github.com/getantibody/antibody) plugin manager and [Pure](https://github.com/sindresorhus/pure) theme.
 
 Assigned w + j with [Karabiner](karabiner/karabiner.md) to open the app from Keyboard Maestro in seconds.
 
-I made my own [Ayu theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it that looks like this:
+I made my own [Monokai theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it that looks like this:
 
-![](https://i.imgur.com/MFmvp4F.png)
+![](https://i.imgur.com/xATjY1S.png)
 
 It goes well with [Pure zsh theme](https://github.com/sindresorhus/pure) and [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
 
-![](https://i.imgur.com/m6CK29L.png)
+![](https://i.imgur.com/WQNfyfO.png)
 
 ## My workflow
 I always have 4 tabs (sessions) always open in iTerm. I open other tabs as the need arises and I start working on other projects.

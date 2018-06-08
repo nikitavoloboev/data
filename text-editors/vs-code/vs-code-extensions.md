@@ -3,17 +3,15 @@ Below is a list of extensions I use.
 
 ## Utility
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation.
-- [Advanced New File](https://marketplace.visualstudio.com/items?itemName=dkundel.vscode-new-file) - Create new files quickly.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
 - [Code runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easilly build and deploy containerized applications from VS Code.
-- [File Icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) - File specific icons for improved visual grepping.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.
 - [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative url paths from files in the current workspace.
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize VS Code settings across multiple machines using Github Gist.
-- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - Highlight TODO, FIXME and other annotations within your code.
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
+- [Advanced New File](https://marketplace.visualstudio.com/items?itemName=dkundel.vscode-new-file) - Create new files quickly.
 
 ## Go
 - [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language.
@@ -61,7 +59,7 @@ Below is a list of extensions I use.
 - [Lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua.
 
 ## Theme
-- [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+- [Monokai Pro](https://www.monokai.pro/vscode/)
 
 # Interesting (not using)
 ## Utility
@@ -80,6 +78,8 @@ Below is a list of extensions I use.
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - Makes indentation easier to read.
 - [Change case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word.
 - [Terminal tabs](https://marketplace.visualstudio.com/items?itemName=Tyriar.terminal-tabs) - Adds tabs for each terminal process to the status bar.
+- [File Icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) - File specific icons for improved visual grepping.
+- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - Highlight TODO, FIXME and other annotations within your code.
 
 ## Git
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - Git History, Search and More.
@@ -96,6 +96,7 @@ Below is a list of extensions I use.
 ## Themes
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
 - [Alabaster](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster)
+- [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 
 ## Notes
 - In [Go plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) `ife` snippet will create an error catching block.

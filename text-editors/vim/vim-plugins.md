@@ -13,7 +13,6 @@ Below is a list of plugins I use.
 - [Quick scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement.
 - [vimproc](https://github.com/Shougo/vimproc.vim) - Interactive command execution.
 - [Repeat](https://github.com/tpope/vim-repeat) - Enable repeating supported plugin maps with ".".
-- [Titlecase](https://github.com/christoomey/vim-titlecase) - Titlecase text.
 - [Surround](https://github.com/tpope/vim-surround) - Quoting/parenthesizing made simple.
 - [Easy align](https://github.com/junegunn/vim-easy-align) - Simple, easy-to-use alignment.
 - [fzf](https://github.com/junegunn/fzf.vim) - Fzf search.
@@ -50,6 +49,7 @@ Below is a list of plugins I use.
 # Interesting (not using)
 ## Utility
 - [Autoformat](https://github.com/Chiel92/vim-autoformat) - Easy code formatting.
+- [Titlecase](https://github.com/christoomey/vim-titlecase) - Titlecase text.
 - [neoinclude.vim](https://github.com/Shougo/neoinclude.vim) - Include completion framework for neocomplete/deoplete.
 - [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - Adds snippet support.
 - [Polyglot](https://github.com/sheerun/vim-polyglot) - Solid language pack.

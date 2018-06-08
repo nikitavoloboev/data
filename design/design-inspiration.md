@@ -25,6 +25,7 @@ Here are few more things I liked, design wise.
 - [Tyler Gaw](https://tylergaw.com/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
 - [Sasha Greif](http://sachagreif.com/)
+- [Wimer Hazenberg](https://www.monokai.nl/)
 - [Adam Pritchard](https://crypti.cc/)
 - [Mike Solomon](https://msol.io/)
 - [I am Stevedao](https://iamstevendao.github.io/portfolio/)

@@ -13,6 +13,7 @@ I made a [repository](https://github.com/nikitavoloboev/privacy-respecting#readm
 - [We are building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-8834)
 - [Monologue of the Algorithm: how Facebook turns users data into its profit](https://vimeo.com/249633335)
 - [hosts](https://github.com/StevenBlack/hosts#readme) - Extending and consolidating hosts files from several well-curated sources.
+- [blocklists](https://github.com/jmdugan/blocklists#readme) - Shared lists of problem domains people may want to block with hosts files.
 - [Beyond The Clouds](https://ind.ie/beyond-the-clouds/)
 - [A Picture Is Worth a Thousand Cookies](https://blog.halide.cam/a-picture-is-worth-a-thousand-cookies-8400efa3d650)
 - [Why Zuckerberg’s 14-year apology tour hasn’t fixed Facebook](https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/)
