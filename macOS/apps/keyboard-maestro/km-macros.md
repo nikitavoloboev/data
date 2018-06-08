@@ -2,7 +2,7 @@
 ## Install
 You can install all the macros I use by downloading them [from here](https://www.dropbox.com/sh/2a0xfdxtpwcuh2c/AABUXORrpbApdV6Ubj-NxjGva?dl=1). The folder is always updated with the latest macros I use.
 
-Then unzipping it. Inside unzipped `km-macros` dir, you can double click in Finder on any of the macros that you want to install to KM.
+Inside unzipped `km-macros` dir, you can double click in Finder on any of the macros that you want to install to KM.
 
 ## Explanation
 One of my favourite applications that I use to significantly ease my time using my mac is [Keyboard Maestro](https://www.keyboardmaestro.com/main/). This app is essentially an IDE for automation.
