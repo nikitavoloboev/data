@@ -4,7 +4,7 @@ Below is a list of extensions I use.
 ## Utility
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
-- [Code runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easilly build and deploy containerized applications from VS Code.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.

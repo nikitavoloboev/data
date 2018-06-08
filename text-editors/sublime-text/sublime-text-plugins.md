@@ -14,6 +14,7 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 - [Linter](https://github.com/SublimeLinter/SublimeLinter) - Code linting framework.
 
 ## Looks
+- [Ayu theme](https://github.com/dempfi/ayu)
 - [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons.
 
 ## JavaScript
@@ -24,9 +25,6 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 
 ## Nix
 - [SublimeNix](https://github.com/wmertens/sublime-nix) - Nix syntax highlighting.
-
-## Theme
-- [Ayu](https://github.com/dempfi/ayu)
 
 # Interesting (not using)
 ## Utility
