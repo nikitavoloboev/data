@@ -18,7 +18,7 @@ Some articles I wrote are more actionable and focused on a specific topic, other
 I try make this step super easy to do too as you can simply [explore all the repositories I made and shared](my-github.md).
 
 ## 3. Explore macOS tools and workflows I use (~ 1 hour)
-I made a [repo](https://github.com/nikitavoloboev/my-mac-os) where I cover everything I use on my macOS system in great detail. I share everything I use including [hundreds of Keyboard Maestro macros](https://github.com/nikitavoloboev/my-mac-os/tree/master/km-macros#readme) and the various [amazing Alfred workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can simply explore and see what you find interesting.
+I made a [repo](https://github.com/nikitavoloboev/my-mac-os) where I cover everything I use on my macOS system in great detail. I share everything I use including [hundreds of Keyboard Maestro macros](../macOS/apps/keyboard-maestro/km-macros.md) and the various [amazing Alfred workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can simply explore and see what you find interesting.
 
 ## 4. Read or Search through this wiki (~ 3 hours)
 Aside from my blog, I heavily share nearly everything I know about this world in this wiki here so you can explore and see what you like. If you did get the [Powerpack for Alfred](https://www.alfredapp.com/powerpack/), you can even install [my own workflow](https://github.com/nikitavoloboev/alfred-my-mind) and easily search through entirety of both this wiki and everything I made or did. The big idea behind this workflow and my other creations is to do things in a way that anyone else can use these same things I am using.

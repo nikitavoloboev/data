@@ -3,7 +3,7 @@ Keyboard Maestro is essentially an IDE for automation. You create macros of acti
 
 It has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy to help with whatever you are trying to achieve.
 
-I share [all the macros I use](https://github.com/nikitavoloboev/my-mac-os/tree/master/km-macros#readme) with the app.
+I share [all the macros I use](km-macros.md) with the app.
 
 ### KM actions
 - [Assert action](https://forum.keyboardmaestro.com/t/assert-action/8374) - "If not condition, then fail". Useful for checking if you got right kind of data.
