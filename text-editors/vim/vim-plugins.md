@@ -1,5 +1,5 @@
 # Vim plugins
-Below is a list of plugins I use.
+Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim#L6).
 
 ## Utility
 - [Ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine.
