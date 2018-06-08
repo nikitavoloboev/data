@@ -10,7 +10,7 @@ For me solving a problem usually involves going through these four steps:
 4. Solving the problem.
 
 ## 1. Finding what the problem is
-I use one [MindNode](../macOS/apps/mindnode.md) mind map called __thinking__.
+I use one [MindNode](../macOS/apps/mindnode.md) mind map called __Thinking__.
 
 I outline the problem I want to solve and then I outline the steps I think I need to do to solve the problem.
 

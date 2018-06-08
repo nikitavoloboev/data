@@ -49,6 +49,7 @@
 			- [AwGo](macOS/apps/alfred/awgo.md)
 		- [Karabiner](macOS/apps/karabiner/karabiner.md)
 		- [Keyboard Maestro](macOS/apps/keyboard-maestro/keyboard-maestro.md)
+			- [KM Macros](macOS/apps/keyboard-maestro/km-macros.md)
 		- [Typinator](macOS/apps/typinator.md)
 		- [MindNode](macOS/apps/mindnode.md)
 		- [Ulysses](macOS/apps/ulysses.md)
