@@ -9,4 +9,7 @@ Here is how my library looks:
 
 ![](https://i.imgur.com/LBQVFPo.png)
 
-I share my entire library of snippets you can import yourself [here](https://github.com/nikitavoloboev/my-mac-os/tree/master/snippetslab#readme).
+## My snippets
+You can [download and import my library](https://www.dropbox.com/sh/cohf1bnv3vfd150/AACNifF_79R5roLTPBKSgtGka?dl=1) if you wish to use my snippets.
+
+I also share [all my snippets as Gists](../../sharing/my-gists.md).
