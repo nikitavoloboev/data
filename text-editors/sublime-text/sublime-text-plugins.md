@@ -1,5 +1,5 @@
 # [Sublime Text](https://www.sublimetext.com) plugins
-I use [Package Control](https://packagecontrol.io/installation) to manage my plugins. Below is a list of plugins I use.
+Below is a list of plugins I use.
 
 ## Utility
 - [Six](https://github.com/guillermooo/Six) - Vim emulation.
@@ -17,9 +17,6 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 - [Ayu theme](https://github.com/dempfi/ayu)
 - [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons.
 
-## JavaScript
-- [JSPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - Plugin for Prettier, the opinionated code formatter.
-
 ## Git
 - [GitGutter](https://github.com/jisaacks/GitGutter) - See git diff in gutter.
 
@@ -31,6 +28,9 @@ I use [Package Control](https://packagecontrol.io/installation) to manage my plu
 - [SendCode](https://github.com/randy3k/SendCode) - Send code and text to macOS and Linux Terminals, iTerm, ConEmu, Cmder, Tmux, TerminalView; R (RStudio), Julia, IPython.
 - [SublimeLinter Annotations](https://github.com/SublimeLinter/SublimeLinter-annotations) - Marks annotations such as TODO, FIXME, etc.
 - [Dockerfile Syntax Highlighting](https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting)
+
+## JavaScript
+- [JSPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - Plugin for Prettier, the opinionated code formatter.
 
 ## Looks
 - [DistractionFreeWindow](https://github.com/aziz/DistractionFreeWindow) - Sublime Text's "Distraction free mode" but not full-screen.
