@@ -21,7 +21,8 @@ The number between brackets shows the year I created the repo in. Repos with �
 - [My iOS (2016) 🌟](https://github.com/nikitavoloboev/my-ios#readme) - List of applications and tools that make my iOS experience even more amazing.
 - [AMA (2017) 🌟](https://github.com/nikitavoloboev/ama#readme) - Ask me anything.
 - [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.xyz) - My personal home on the internet.
-- [Knowledge (2017) 🌟](https://github.com/nikitavoloboev/my-knowledge) - Everything I know.
+- [Knowledge (2017) 🌟](https://github.com/nikitavoloboev/knowledge) - Everything I know.
+- [Recipes (2018)](https://github.com/nikitavoloboev/recipes#readme) - Recipes I made in Paprika.
 
 ## Go Libraries
 - [Markdown Parser (2017)](https://github.com/nikitavoloboev/markdown-parser) - Go library to parse markdown to grab various things.

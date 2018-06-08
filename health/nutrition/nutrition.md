@@ -1,7 +1,7 @@
 # Nutrition
 [This book](https://www.goodreads.com/book/show/25663961-how-not-to-die?from_search=true) contains pretty much all you need to know to get you going with a proper nutrition plan as well why proper nutrition is important. The author also has a [website](https://nutritionfacts.org) where he blogs about various things nutrition and health.
 
-As for myself, I like to [follow these simple rules](../../focusing/rules.md#nutrition) in regards to my nutrition. I try to always cook my own food and I love exploring [new and interesting recipes](cooking/recipes.md) to cook which I add to [Paprika](https://www.paprikaapp.com).
+As for myself, I like to [follow these simple rules](../../focusing/rules.md#nutrition) in regards to my nutrition. I try to always cook my own food and I love exploring [new and interesting recipes](https://github.com/nikitavoloboev/recipes#readme) to cook which I add to [Paprika](https://www.paprikaapp.com).
 
 I eat at least two salads every day and take [few supplements](supplements.md). I track all the food I eat with [MyFitnessPal](https://www.myfitnesspal.com/).
 
