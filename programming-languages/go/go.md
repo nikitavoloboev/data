@@ -53,3 +53,4 @@ Go promotes composition over inheritance.
 - [Share memory by communicating](https://blog.golang.org/share-memory-by-communicating)
 - [Go Build Template](https://github.com/thockin/go-build-template)
 - [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/) - Great insights.
+- [Sum Types in Go](http://www.jerf.org/iri/post/2917)
