@@ -8,7 +8,6 @@ Here is a list of various things I track for my own use and reference.
 
 ## Movies
 - [Letterboxd](https://letterboxd.com/NikitaVoloboev/) - Movies [I want to watch](https://letterboxd.com/nikitavoloboev/watchlist/) as well [movies I saw](https://letterboxd.com/nikitavoloboev/films/) together with [reviews I wrote](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/) and various [movie lists](https://letterboxd.com/nikitavoloboev/lists/) I made and shared.
-- [Movies (Trello)](https://trello.com/b/jFaHJFow) - Movies I plan on watching soon.
 
 ## TV series
 - [Series (Wiki)](../tv-series/tv-series.md) - TV series I saw already with my thoughts and a small reviews on each one.

@@ -3,7 +3,7 @@ I love watching interesting movies and I saw [a few of them](https://letterboxd.
 
 I love [making lists](https://letterboxd.com/nikitavoloboev/lists/) of movies I've seen and liked. Like a list of my [favourite movies](https://letterboxd.com/nikitavoloboev/list/favourite) or a list of my [favourite movie directors](https://letterboxd.com/nikitavoloboev/list/favourite-directors/) alongside my favourite movies from them.
 
-I keep a [Trello board](https://trello.com/b/jFaHJFow) and [Watchlist](https://letterboxd.com/nikitavoloboev/watchlist/) of movies I want to watch.
+I have a [Watchlist](https://letterboxd.com/nikitavoloboev/watchlist/) of movies I want to watch.
 
 And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [films](https://letterboxd.com/nikitavoloboev/likes/films/) and [reviews](https://letterboxd.com/nikitavoloboev/likes/reviews/) I liked.
 
