@@ -21,3 +21,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Macros](http://vim.wikia.com/wiki/Macros)
 - [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
 - [Go client for neovim](https://github.com/neovim/go-client)
+- [Vim Golf](http://www.vimgolf.com/)

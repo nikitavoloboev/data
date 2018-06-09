@@ -84,6 +84,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Last place](https://github.com/farmergreg/vim-lastplace) - Intelligently reopen files at your last edit position.
 - [Sleuth](https://github.com/tpope/vim-sleuth) - Heuristically set buffer options.
 - [Obsession](https://github.com/tpope/vim-obsession) - Continuously updated session files.
+- [Wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager.
 
 ## Looks
 - [Dev icons](https://github.com/ryanoasis/vim-devicons) - Adds file type glyphs/icons to popular Vim plugins.

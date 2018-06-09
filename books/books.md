@@ -86,3 +86,8 @@ Below are books I read or started reading. The books with links attached will le
 - [How long to read?](http://www.howlongtoreadthis.com)
 - [Ask HN: Recommendations on books and documentaries on tech companies/people?](https://news.ycombinator.com/item?id=17204467)
 - [Ask HN: What's one book that changed your life? (2018)](https://news.ycombinator.com/item?id=17168136)
+- [Looking for a dark scifi novel](https://www.reddit.com/r/printSF/comments/7mu8de/looking_for_a_dark_scifi_novel/)
+- [Three books every beginner to scifi should read](https://www.reddit.com/r/printSF/comments/5mrj3a/pick_three_books_you_think_every_beginner_to/)
+
+## Links
+- [Ask HN: How do you read programming books?](https://news.ycombinator.com/item?id=15733745)

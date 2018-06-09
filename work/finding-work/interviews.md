@@ -1,6 +1,4 @@
 # Interviews
-Don't have a lot of experience with interviews sadly. But I hope to change that soon.
-
 ## Notes
 - [Never think that a job interview is a one-way interview. At least, personally, I always am interviewing the potential team as well. No, you don't have all the control as the interviewer.](https://twitter.com/jessfraz/status/989878115710263297)
 
@@ -16,3 +14,4 @@ Don't have a lot of experience with interviews sadly. But I hope to change that 
 - [The Coding Interview by Palantir](https://www.palantir.com/the-coding-interview/) - Great tips.
 - [How to ace a phone interview](https://www.palantir.com/2012/09/how-to-ace-a-phone-interview/)
 - [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews#readme)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook#readme)

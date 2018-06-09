@@ -20,3 +20,4 @@ Perhaps we can replicate a universe like ours in the future. One of the more int
 - [Conceptual illustration of time and space distortion near a mass](https://gfycat.com/AliveIndelibleElkhound)
 - [Amazing Sand Pendulum](https://www.youtube.com/watch?v=kesRiQbm9V0)
 - [Small physics lectures](https://www.youtube.com/playlist?list=PLF71B362214423F9D)
+- [What in physics is fundamental?](https://www.reddit.com/r/askscience/comments/7cnx2u/what_in_physics_is_fundamental/)

@@ -14,3 +14,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
 - [Front End Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist#readme)
 - [Color Hunt](http://colorhunt.co/)
+- [Lona](https://github.com/airbnb/Lona) - Tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.

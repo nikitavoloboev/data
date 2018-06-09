@@ -13,6 +13,7 @@ I love software and non software tools that help me in some way.
 ## Other
 - [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage.
 - [Tiny Letter](https://tinyletter.com)
+- [Loom](https://www.useloom.com/) - New kind of work communication tool that helps you get your message across through instantly shareable videos.
 
 ## Links
 - [The Developer's Toolbox 2018](https://medium.com/mobile-quality/the-developers-toolbox-daaaa875081e)

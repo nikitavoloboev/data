@@ -54,3 +54,6 @@ Go promotes composition over inheritance.
 - [Go Build Template](https://github.com/thockin/go-build-template)
 - [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/) - Great insights.
 - [Sum Types in Go](http://www.jerf.org/iri/post/2917)
+- [Gophercises](https://gophercises.com/) - Free coding exercises for budding gophers.
+- [Joy Compiler](https://mat.tm/joy/) - Translate idiomatic Go into concise Javascript that works in every browser.
+- [The Go Type System for newcomers](https://rakyll.org/typesystem/)

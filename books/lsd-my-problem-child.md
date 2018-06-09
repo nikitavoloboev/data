@@ -1,2 +1,0 @@
-# LSD my problem child
-- 

@@ -15,3 +15,4 @@ Roughly speaking, a [type is a specification of its possible values](https://git
 - [Homotopy type theory book](https://github.com/HoTT/HoTT)
 - [GHOTL Project scope and outline plan](https://sphalerite.org/ghotl/posts/2017-10-16-project-scope-outline.html) - Good read.
 - [What I wish I knew when learning HoTT](https://abooij.github.io/wiwikwlhott/)
+- [Collected works of Per Martin-Löf](https://github.com/michaelt/martin-lof)
