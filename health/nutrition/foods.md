@@ -1,5 +1,5 @@
 # Foods
-I exclude all foods that are not healthy to me and experiment with [recipes](https://github.com/nikitavoloboev/recipes/#readme) from the many foods that are healthy. I follow a mostly whole foods pesceterian diet.
+I exclude all foods that are not healthy and experiment with [recipes](https://github.com/nikitavoloboev/recipes/#readme) from the many foods that are healthy. I follow a mostly whole foods pesceterian diet.
 
 ## Vegetables
 - Broccoli

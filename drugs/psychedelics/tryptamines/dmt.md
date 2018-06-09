@@ -19,3 +19,5 @@
 - [Guidelines for 5-MeO-DMT use](https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=75496)
 - [Hyperspace lexicon](https://wiki.dmt-nexus.me/Hyperspace_lexicon)
 - [Norman Tek](https://psychonautwiki.org/wiki/Norman_Tek)
+- [Cybs' Hybrid ATB 'Salt' Tek](https://wiki.dmt-nexus.me/Cybs'_Hybrid_ATB_'Salt'_Tek#Required_Equipment)
+- [A/B Extraction Tek](https://www.reddit.com/r/DMT/comments/7kcuuh/ab_dmt_extraction_tek/)

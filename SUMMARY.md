@@ -241,6 +241,7 @@
 	- [Decentralization](networking/decentralization.md)
 	- [Nginx](networking/nginx.md)
 	- [VPN](networking/vpn.md)
+	- [GraphQL](networking/graphql.md)
 - [Health](health/health.md)
 	- [Nutrition](health/nutrition/nutrition.md)
 		- [Foods](health/nutrition/foods.md)

@@ -33,7 +33,6 @@ Prefixes and notations I use for various apps and tools and their meanings.
 - open: - Open applications
 - e: - Examples
 - {} - What should be in my clipboard
-- @ - Actions. i.e. `@todo` = things to add/fix. `@fin` = macros to finish.
 - [] - What state the macro should be in
 - <> - What link should be in my browser
 
