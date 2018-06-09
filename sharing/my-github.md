@@ -8,8 +8,8 @@ The number between brackets shows the year I created the repo in. Repos with �
 
 ## Alfred
 - [Ask Create Share (2017) 🌟](https://github.com/nikitavoloboev/alfred-ask-create-share) - Create various Web Submissions (Stack exchange, Reddit and more).
-- [Web Searches (2017) 🌟](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website on the web (easily extendable list).
-- [My Mind (2017) 🌟](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my notes and bookmarks on the web.
+- [Web Searches (2017) 🌟](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website (easily extendable list).
+- [My Mind (2017) 🌟](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my notes and bookmarks.
 - [Small Workflows (2017) 🌟](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
 - [Awesome Lists (2017) 🌟](https://github.com/nikitavoloboev/alfred-awesome-lists) - Browse all awesome lists in seconds.
 - [GitHub (2018) 💡](https://github.com/nikitavoloboev/alfred-github-users) - Search GitHub.
