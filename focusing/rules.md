@@ -8,7 +8,7 @@ Some simple rules to follow for myself doing things.
 - Build [ideas](https://trello.com/b/alB1ryRP). Experiment. Take risks.
 - Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts.
 - Don’t eat animals, don’t hurt any person. Don't waste anything.
-- Don't compare myself to other people. Don't care what other people think of me. Surround myself with people that inspire me.
+- Don't compare myself to other people. Surround myself with people that inspire me.
 - Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals.
 - Don't judge anyone. Attempt to see another person's point of view.
 - Be honest. Don't lie to myself nor anyone else.
@@ -23,19 +23,19 @@ Some simple rules to follow for myself doing things.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
 
 ## Work
+- Center work around [Focus Trello Board](focusing.md). Make calendar events based on it.
 - Do deep work. Minimise distractions. Say __no__ to things. Set constraints.
 - Prioritise. Do important things first. Be clear on what I want to achieve. Think long term.
-- [Do one thing at a time](focusing.md). Resist temptations. Remove friction.
+- [Do one thing at a time](../research/solving-problems.md). Resist temptations. Remove friction.
 - Think about the problem I want to solve. Don't give up. Don't rush things.
 - Always breathe fresh air. Don't stay indoors for long. Open windows or go outside on breaks.
 - If my mind wanders and avoids doing the task, take a walk and do some exercice.
-- Do things that scale. Try to find solutions that scale with time.
+- Do things that scale with time.
 - Reuse other people's work.
 - Use the right tool for the job. Only when you master a tool, do you learn when not to use it. Learn new tools.
 - Start. Don't be afraid to solve the problem no matter how complex or intimidating it may be.
 - Ship early. Get feedback and iterate on it. Rinse and repeat.
-- Track all time in Timing. Reflect on it at the end of the day & week.
-- Make calendar events based on my [Focus Trello board](focusing.md).
+- Track all time in [Timing](../macOS/apps/timing.md). Reflect on it at the end of the day & week.
 
 ## Focus
 - Be very aggressive in cutting any kind of distractions when working.
@@ -60,7 +60,6 @@ Some simple rules to follow for myself doing things.
 
 ## Share
 - Share everything I know and made.
-- Share the link on the appropriate website/forum/subreddit. Tweet it.
 
 ## Nutrition
 - No processed sugar. No food with extra sugar in it.

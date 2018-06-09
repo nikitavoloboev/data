@@ -7,5 +7,5 @@ Turing machines however are not the only theoretical model that can be used to d
 
 ## Links
 - [The Church-Turing Thesis: Story and Recent Progress](https://www.youtube.com/watch?v=QlYJz1B5XLU)
-- [Seems interesting](https://functionalcs.github.io/curriculum/#org71f231a)
+- [Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/#org71f231a)
 - [Learn CS in 5 months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months#readme)
