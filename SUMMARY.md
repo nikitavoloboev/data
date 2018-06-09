@@ -382,7 +382,7 @@
 - [Other](other/other.md)
 	- [Wiki workflow](other/wiki-workflow.md)
 	- [Prefixes](other/prefixes.md)
-	- [Recent](other/recent.md)
+	- [Queries](other/queries.md)
 	- [Funny](other/funny.md)
 	- [Puzzles](other/puzzles.md)
 	- [2Do tasks](other/2do-tasks.md)
