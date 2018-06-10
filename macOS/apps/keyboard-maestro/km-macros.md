@@ -13,7 +13,7 @@ I wrote about how I manage my huge macro library [here](https://forum.keyboardma
 
 All the macros/palettes are attached to this GitHub repository sorted into appropriate folders and I describe some of these macros/palettes below.
 
-All global macros will have no trigger as they are called with Applescript from [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html).
+All global macros will have no trigger as they are called with Applescript from [Karabiner](../karabiner/karabiner.md).
 
 A lot of these macros were made with great help from the [Keyboard Maestro forum community](https://forum.keyboardmaestro.com/latest).
 
@@ -40,7 +40,7 @@ Where `g: Kill All Macros` is a macro name. Where `g:` is a prefix that stands f
 
 Non global macros that are binded to an app will have a hotkey however. One thing to note is that the hotkey triggers are chosen with respect to my custom keyboard layout.
 
-I have binded my control key to A key with [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html). My command key is E key and Command + Shift modifier is Q key. So pressing `E` key, holding it and after pressig `F` will trigger `⌘ + F` hotkey. Therefore some bindings will only make sense in context of my own layout. For example `⌃ + W` is easier to reach for me then `⌘ + D`. Because `a + w` is nicer to press then `e + d` on my keyboard. [Karabiner](https://wiki.nikitavoloboev.xyz/macOS/apps/karabiner/karabiner.html) is one powerful abstraction that makes managing 1000+ macros easy.
+I have binded my control key to A key with [Karabiner](../karabiner/karabiner.md). My command key is E key and Command + Shift modifier is Q key. So pressing `E` key, holding it and after pressig `F` will trigger `⌘ + F` hotkey. Therefore some bindings will only make sense in context of my own layout. For example `⌃ + W` is easier to reach for me then `⌘ + D`. Because `a + w` is nicer to press then `e + d` on my keyboard. [Karabiner](../karabiner/karabiner.md) is one powerful abstraction that makes managing 1000+ macros easy.
 
 ### Global Macro groups
 Global macro groups can be found inside `macros/global`.

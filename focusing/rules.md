@@ -50,13 +50,13 @@ Some simple rules to follow for myself doing things.
 - Sit up right always. Never slouch.
 
 ## Learn
-- Always learn new things. Investigate. Why? How?
+- Always learn new things.
+- Document everything. Don't repeat things. Link instead.
 - Ask questions. Don't be afraid of not knowing something and [ask for help](../research/asking-questions.md).
 - There are no dumb questions. Do your own research first though.
-- Ask myself what is it that I am trying to solve or understand.
+- Ask myself what is it that I am trying to solve or understand. Why?
 - Go deep. Specialise. Be great at some thing and then branch out.
-- Document everything. Don't repeat things. Link instead.
-- Draw. Don't be full digital and use paper and imagination to distill complex ideas.
+- Draw. Use drawings and imagination to distill complex ideas.
 
 ## Share
 - Share everything I know and made.
@@ -66,7 +66,7 @@ Some simple rules to follow for myself doing things.
 - Drink water, coffee and tea. No added sugar in the drinks.
 - Always have water/tea next to me. Fill up the water/tea if it empties.
 - No meat or dairy products. Health and [ethical reasons](../life/compassion.md).
-- Eat a salad every morning.
+- Eat two salads every day.
 - Take [Vitamin D & Vitamin B12](../health/nutrition/supplements.md) every morning.
 - Everything in moderation. Avoid alcohol and hard drugs (like opiates).
 
@@ -79,7 +79,7 @@ Some simple rules to follow for myself doing things.
 
 ## Share files
 - Temporary shares with [Transfer](https://transfer.sh).
-- More permanent shares are shared with Dropbox (wiki & articles). Don't delete items from _shares_ folder unless the reference to it from either wiki or articles is gone.
+- More permanent shares with Dropbox (wiki & articles). Don't delete items from _shares_ folder unless the reference to it from either wiki or articles is gone.
 - If the files are stored on GitHub somewhere, I can use [Rawgit](http://rawgit.com/) to get a downloadable link of the raw file.
 
 ## Shipping a product
@@ -100,9 +100,7 @@ Some simple rules to follow for myself doing things.
 - Remove unnecessary and _filler_ words. Use adverbs sparingly, they often undermine your point.
 - If something can be said in less words, say it in less words. Be clear and to the point.
 - Minimise using word _here_. When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
-
-## Medium
-- Use headings to separate sections of the article.
+- Use headings to separate sections of articles.
 
 ## Markdown
 - Don't leave unnecessary whitespace between headings and text.
@@ -302,12 +300,8 @@ Some simple rules to follow for myself doing things.
 - No macbook in bed. No phone in the morning before waking up.
 
 ## Timing
-- Minimise _News_ time and aim at __< 1 hour News time__ a day. Ideally less. Block everything that is _Distracting_ when working.
+- Minimise _News_ time and aim at __< 1 hour News time__ a day. Ideally less. Block everything that is distracting when working.
 - Mark all time past in Timing. Adjust filters and projects to what kind of things I am working on.
-
-## Day One
-- Mark all memorable moments and experiences in Day One.
-- Mark memorable moments throughout the day and put them in __Photo a Day__ and __Travel__ journals.
 
 ## Tools
 - Only use what is necessary. Experiment with things but never keep things you are not actually using. That mostly includes plugins and modifications.
@@ -315,9 +309,6 @@ Some simple rules to follow for myself doing things.
 
 ## Images
 - Keep screenshots and interesting images saved in Pixave.
-
-## Knowledge indexing
-- Index knowledge that is actionable in case I might need to reference it later.
 
 ## macOS
 - Only run apps I actually need. Quit everything else.
@@ -371,7 +362,6 @@ Some simple rules to follow for myself doing things.
 
 ## Newsletters
 - All newsletters should never reach inbox and be automated to appropriate mailboxes.
-- Use iCloud for newsletters.
 
 ## Other
 - Check everything once I leave a room. In case I forget anything.
