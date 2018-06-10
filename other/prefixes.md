@@ -16,7 +16,7 @@ Prefixes and notations I use for various apps and tools and their meanings.
 
 ## Contacts
 - () - Nickname
-- # - Tags
+- \# - Tags
 
 ## PDFs
 - r. - Research papers

@@ -107,6 +107,7 @@
 	- [Coding practice](programming/coding-practice.md)
 	- [Serialization](programming/serialization.md)
 	- [Competitive Programming](programming/competitive-programming.md)
+	- [Design patterns](programming/design-patterns.md)
 - [Programming languages](programming-languages/programming-languages.md)
 	- [Go](programming-languages/go/go.md)
 		- [Go libraries](programming-languages/go/go-libraries/go-libraries.md)

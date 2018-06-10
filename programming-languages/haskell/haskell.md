@@ -27,3 +27,4 @@ A language I want to learn.
 - [Please Don't Learn Category Theory to Learn Haskell](https://jozefg.bitbucket.io/posts/2013-10-14-please-dont-learn-cat-theory.html)
 - [How do you guys get anything done?](https://www.reddit.com/r/haskell/comments/5wb5qw/how_do_you_guys_get_anything_done/)
 - [If Haskell is so great, why hasn't it taken over the world? And the curious case of Go.](https://pchiusano.github.io/2017-01-20/why-not-haskell.html)
+- [Haskell IDE Engine](https://github.com/haskell/haskell-ide-engine) - Engine for haskell ide-integration.
