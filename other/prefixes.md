@@ -5,8 +5,6 @@ Prefixes and notations I use for various apps and tools and their meanings.
 - <> - User input
 
 ## 1Password
-- w: - Websites
-- a: - Apps
 - f: - Family
 - ssh: - SSH
 
@@ -17,12 +15,12 @@ Prefixes and notations I use for various apps and tools and their meanings.
 - rg. - Reaction GIFs
 
 ## Contacts
-- () - the nickname
-- # - tags
+- () - Nickname
+- # - Tags
 
 ## PDFs
 - r. - Research papers
-- d. - Documents / Cheat sheets
+- d. - Documents
 - b. - Books
 - s. - Personal
 
@@ -42,7 +40,6 @@ Prefixes and notations I use for various apps and tools and their meanings.
 ## Safari
 - w: - Websites
 - s: - Personal
+- g: - GitHub
 - c: - Chat
-- e: - Events
-- t: - Track
 - a: - Analytics

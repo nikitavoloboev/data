@@ -1,5 +1,5 @@
 # [BetterTouchTool](https://www.boastr.net)
-I use this app for mapping various trackpad gestures to hotkeys and actions both globally and per specific application.
+I use this app for mapping various trackpad gestures to hotkeys and actions both globally and per specific applications.
 
 Here are my stats from using the app:
 ![](https://i.imgur.com/llRfTJt.png)

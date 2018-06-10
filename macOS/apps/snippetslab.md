@@ -10,6 +10,6 @@ Here is how my library looks:
 ![](https://i.imgur.com/LBQVFPo.png)
 
 ## My snippets
-You can [download and import my library](https://www.dropbox.com/sh/cohf1bnv3vfd150/AACNifF_79R5roLTPBKSgtGka?dl=1) if you wish to use my snippets.
+I share my entire library of snippets as [GitHub Gists](../../sharing/my-gists.md).
 
-I also share [all my snippets as Gists](../../sharing/my-gists.md).
+And I share my local library too that you can download [here](https://www.dropbox.com/sh/cohf1bnv3vfd150/AACNifF_79R5roLTPBKSgtGka?dl=1).
