@@ -28,6 +28,7 @@ Below is a list of plugins I use.
 - [SendCode](https://github.com/randy3k/SendCode) - Send code and text to macOS and Linux Terminals, iTerm, ConEmu, Cmder, Tmux, TerminalView; R (RStudio), Julia, IPython.
 - [SublimeLinter Annotations](https://github.com/SublimeLinter/SublimeLinter-annotations) - Marks annotations such as TODO, FIXME, etc.
 - [Dockerfile Syntax Highlighting](https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting)
+- [ChromeREPL](https://github.com/acarabott/ChromeREPL) - Execute JavaScript in Google Chrome.
 
 ## JavaScript
 - [JSPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - Plugin for Prettier, the opinionated code formatter.

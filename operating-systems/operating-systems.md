@@ -11,3 +11,4 @@ I use and love [macOS](../macOS/macOS.md) as my personal OS.
 - [OS: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [mirageOS](https://mirage.io/) - A programming framework for building type-safe, modular systems.
 - [OS Dev](https://wiki.osdev.org/Main_Page)
+- [Raspberry Pi OS](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi.
