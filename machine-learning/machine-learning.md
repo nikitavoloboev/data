@@ -32,3 +32,4 @@
 - [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) - Great article.
 - [Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis](https://machinelearning.apple.com/2017/08/06/siri-voices.html)
 - [The Google Brain Team — Looking Back on 2017](https://ai.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html?m=1)
+- [Building the Software 2.0 Stack by Andrej Karpathy from Tesla (2018)](https://www.figure-eight.com/building-the-software-2-0-stack-by-andrej-karpathy-from-tesla/)
