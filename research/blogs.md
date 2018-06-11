@@ -13,4 +13,4 @@ I use [Reeder](../macOS/apps/reeder.md) to stay on top of my favourite blogs I f
 - [Diaries of a Madman](https://asylum.madhouse-project.org/blog/archives/)
 
 ## Links
-- [Interesting Blogs](https://github.com/learn-anything/blogs#readme)
+- [Awesome Blogs](https://github.com/learn-anything/blogs#readme)

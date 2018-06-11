@@ -2,7 +2,7 @@
 There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-math-to-machine.html) that goes over how one program can be written in different languages from the most abstract level of Math to Haskell to C to Assembly to actual machine code.
 
 ## Links
-- [Interesting programming languages](https://github.com/learn-anything/programming-languages#readme)
+- [Awesome programming languages](https://github.com/learn-anything/programming-languages#readme)
 - [Tour de Babel](https://sites.google.com/site/steveyegge2/tour-de-babel) - Funny de tour of programming languages.
 - [Progamming Language Theory](http://steshaw.org/plt/)
 - [Conal Elliott - Teaching New Tricks to Old Programs (2017)](https://www.youtube.com/watch?v=vzLK_xE9Zy8)

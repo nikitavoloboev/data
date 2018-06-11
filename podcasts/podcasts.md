@@ -25,6 +25,6 @@ I keep a [Trello board](https://trello.com/b/Wtr04eGQ) of podcasts I am listenin
 - Podcasts are not necessarily live. You can edit out the parts that go off topic.
 
 ## Links
-- [Interesting Podcasts](https://github.com/learn-anything/podcasts#readme)
+- [Awesome Podcasts](https://github.com/learn-anything/podcasts#readme)
 - [Cast](https://tryca.st/) - Record, edit, publish, and host your podcast.
 - [Best Podcasts Search](https://bestpodcasts.com)
