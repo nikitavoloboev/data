@@ -3,10 +3,10 @@ The number between brackets shows the year I created the repo in. Repos with �
 
 ## Learn Anything
 - [Learn Anything (2017) 🌟](https://github.com/learn-anything/learn-anything) - Search Interactive Maps to Learn Anything.
+- [Alfred Learn Anything (2017) 🌟](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search Learn Anything.
 - [Curated lists (2018) 🌟](https://github.com/learn-anything/curated-lists#readme) - Curated lists on various topics.
 
 ## Alfred
-- [Alfred Learn Anything (2017) 🌟](https://github.com/nikitavoloboev/alfred-learn-anything) - Search Learn Anything.
 - [Ask Create Share (2017) 🌟](https://github.com/nikitavoloboev/alfred-ask-create-share) - Create web submissions (Stack exchange, Reddit and more).
 - [Web Searches (2017) 🌟](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website (easily extendable list).
 - [My Mind (2017) 🌟](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my notes and bookmarks.
