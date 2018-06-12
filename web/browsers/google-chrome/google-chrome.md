@@ -1,5 +1,5 @@
 # [Google Chrome](https://www.google.com/chrome/)
-I use this browser only for web development. Still learning it's dev tools.
+I use this browser only for web development.
 
 I use [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad) theme.
 

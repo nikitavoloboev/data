@@ -1,6 +1,4 @@
 # [Haskell](https://www.haskell.org)
-A language I want to learn.
-
 ## Notes
 - [Kinds are the types of types. Typeclasses are more like predicates or relations between types.](https://www.reddit.com/r/haskell/comments/8cdiql/isnt_a_typeclass_just_a_type_of_a_type/)
 - The fewer type parameters in a class, the better. Can you turn any into associated types? Can you split the class into two classes? Can you hive off some of the parameters into a superclass?
@@ -18,6 +16,7 @@ A language I want to learn.
 	- When people talk about strong type system, they usually just mean expressivity, not safety.
 
 ## Links
+- [How I Learned to Stop Worrying and Love the Type System](http://reasonablypolymorphic.com/blog/love-types/)
 - [Simon Peyton Jones - Closer to Nirvana](https://www.youtube.com/watch?v=xmjvOLlCdFU)
 - [Curry-Howard-Lambek correspondence](https://wiki.haskell.org/Curry-Howard-Lambek_correspondence)
 - [Theoretical foundations](https://wiki.haskell.org/Category:Theoretical_foundations)
@@ -28,3 +27,4 @@ A language I want to learn.
 - [How do you guys get anything done?](https://www.reddit.com/r/haskell/comments/5wb5qw/how_do_you_guys_get_anything_done/)
 - [If Haskell is so great, why hasn't it taken over the world? And the curious case of Go.](https://pchiusano.github.io/2017-01-20/why-not-haskell.html)
 - [Haskell IDE Engine](https://github.com/haskell/haskell-ide-engine) - Engine for haskell ide-integration.
+- [Of Ideas and men](http://reasonablypolymorphic.com/blog/ideas-and-men/)
