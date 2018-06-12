@@ -58,9 +58,6 @@ Some simple rules to follow for myself doing things.
 - Go deep. Specialise. Be great at some thing and then branch out.
 - Draw. Use drawings and imagination to distill complex ideas.
 
-## Share
-- Share everything I know and made.
-
 ## Nutrition
 - No processed sugar. No food with extra sugar in it.
 - Drink water, coffee and tea. No added sugar in the drinks.
@@ -73,6 +70,17 @@ Some simple rules to follow for myself doing things.
 ## Compassion
 - Value each animal’s life as equal to that of my own. Don't eat anyone.
 - Minimise suffering caused to other people. Be conscious of other people's feelings.
+
+## Code
+- Write code to be read by other people. Prefer to be explicit over implicit. [Readability Matters More Than Correctness](https://xph.us/2017/04/23/readability.html)
+- Make the code run first. Then make it fast (if necessary).
+- Read documentation.
+- Delimit files that have spaces with `-` instead of `_`.
+- Use switch cases over long ifs.
+- Function name should describe what it does, not when it's run. Good function names summarize what happens inside.
+
+## Share
+- Share everything I know and made.
 
 ## Communication
 - Say things that [contribute to the conversation](https://discourse.elm-lang.org/t/how-we-talk-about-other-languages/972/7). Be honest.
@@ -155,14 +163,6 @@ Some simple rules to follow for myself doing things.
 
 ## Dotfiles
 - Comment all my aliases briefly saying what they do. Comment all zsh functions. Be mindful that I can then search through these functions and aliases later.
-
-## Code
-- Write code to be read by other people. Prefer to be explicit over implicit. [Readability Matters More Than Correctness](https://xph.us/2017/04/23/readability.html)
-- Make the code run first. Then make it fast (if necessary).
-- Read documentation.
-- Delimit files that have spaces with `-` instead of `_`.
-- Use switch cases over long ifs.
-- Function name should describe what it does, not when it's run. Good function names summarize what happens inside.
 
 ## Documentation
 - Practice self documentation. Where possible, document things inline in the code base or app itself in some way. Don't duplicate things.
