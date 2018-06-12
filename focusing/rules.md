@@ -85,20 +85,6 @@ Some simple rules to follow for myself doing things.
 ## Communication
 - Say things that [contribute to the conversation](https://discourse.elm-lang.org/t/how-we-talk-about-other-languages/972/7). Be honest.
 
-## Share files
-- Temporary shares with [Transfer](https://transfer.sh).
-- More permanent shares with Dropbox (wiki & articles). Don't delete items from _shares_ folder unless the reference to it from either wiki or articles is gone.
-- If the files are stored on GitHub somewhere, I can use [Rawgit](http://rawgit.com/) to get a downloadable link of the raw file.
-
-## Shipping a product
-- Have a nice looking website. The first look matters.
-
-## Social media
-- Don't lock myself into using a service. Have my own system in place and give the social media a purpose. If there is no purpose to it, don't use it.
-
-## Privacy
-- Be mindful of the data fingerprint I leave from using a service. If the service disregards my privacy and brings me no value. Don't use it.
-
 ## Design
 - Giving users too many options is often a bad idea. Give very few options but make each one of them count and stand out.
 
@@ -156,6 +142,20 @@ Some simple rules to follow for myself doing things.
 - Add __Related__ section to most repos linking to similar projects either of my own or of other. Not all projects need this.
 - Don't add Thank You clause in _idea_ stage projects.
 - Don't add _Say Thanks_ badge on curated lists.
+
+## Share files
+- Temporary shares with [Transfer](https://transfer.sh).
+- More permanent shares with Dropbox (wiki & articles). Don't delete items from _shares_ folder unless the reference to it from either wiki or articles is gone.
+- If the files are stored on GitHub somewhere, I can use [Rawgit](http://rawgit.com/) to get a downloadable link of the raw file.
+
+## Shipping a product
+- Have a nice looking website. The first look matters.
+
+## Social media
+- Don't lock myself into using a service. Have my own system in place and give the social media a purpose. If there is no purpose to it, don't use it.
+
+## Privacy
+- Be mindful of the data fingerprint I leave from using a service. If the service disregards my privacy and brings me no value. Don't use it.
 
 ## Adding resources (links)
 - When adding resources and bookmarks. Priorotise adding them to LA curated lists first and LA itself (not Trello). The goal of the wiki is to mostly contain my own notes and references.
@@ -268,9 +268,6 @@ Some simple rules to follow for myself doing things.
 
 ## Tests
 - Check my work and go through my calculations again. It's easy to miss something.
-
-## Product Hunt
-- Add products I like to an appropriate collection.
 
 ## Relationships
 - Meet new people. Go to seminars, talks, conferences.. even if you won't understand much of it. Big chance you'll find something interesting or meet someone.

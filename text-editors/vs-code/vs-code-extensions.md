@@ -93,6 +93,9 @@ Below is a list of extensions I use.
 ## CSS
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [stylelint](https://stylelint.io/).
 
+## Elixir
+- [ElixirLS](https://github.com/JakeBecker/vscode-elixir-ls) - Elixir support and debugger.
+
 ## Themes
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
 - [Alabaster](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster)

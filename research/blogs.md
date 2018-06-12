@@ -12,6 +12,7 @@ I use [Reeder](../macOS/apps/reeder.md) to stay on top of my favourite blogs I f
 - [Evan Wallace](https://blog.figma.com/@evanwallace)
 - [Diaries of a Madman](https://asylum.madhouse-project.org/blog/archives/)
 - [Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/archives/)
+- [Sandy Maguire](http://sandymaguire.me/blog/archives/)
 
 ## Links
 - [Awesome Blogs](https://github.com/learn-anything/blogs#readme)

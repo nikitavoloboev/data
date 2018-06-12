@@ -22,3 +22,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Seven habits of effective text editing](http://www.moolenaar.net/habits.html)
 - [Go client for neovim](https://github.com/neovim/go-client)
 - [Vim Golf](http://www.vimgolf.com/)
+- [Vim Is Not About hjkl](http://sandymaguire.me/blog/vim-is-not-about-hjkl/)
