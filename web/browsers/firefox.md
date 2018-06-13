@@ -1,7 +1,7 @@
 # [Firefox](https://www.mozilla.org/en-US/firefox/)
 I use this browser only for web development.
 
-Here are the firefox extensions I use:
+Here are firefox extensions I use:
 
 ![](https://i.imgur.com/Qh2tYwF.png)
 

@@ -3,7 +3,7 @@ I use this browser only for web development.
 
 I use [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad) theme.
 
-Here are the chrome extenions I use:
+Here are chrome extenions I use:
 
 ![](https://i.imgur.com/vGcn9Ih.png)
 

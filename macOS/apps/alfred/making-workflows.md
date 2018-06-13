@@ -48,3 +48,6 @@ Using the workflow I search the `alfred-..` workflow I want to release an update
 I use [Workflow Directory](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Workflow%20directory.alfredworkflow?raw=true) workflow to search the workflow I want to export and with a modifier press, export that workflow to `~/Desktop`.
 
 I delete the original workflow sitting in the directory of the workflow and then with Alfred's `Move to..` transfer the workflow to the directory of the workflow. Commit and push.
+
+## Links
+- [How I share Alfred workflows](https://www.alfredforum.com/topic/11571-share-workflows-from-within-the-app/?do=findComment&comment=60542)

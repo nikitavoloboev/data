@@ -5,6 +5,7 @@ Success comes from not giving up and doing what you love.
 - Figure out what you are uniquely the best in the world at because you just love it. And then just find out who or what needs that the most.
 - Doing what everybody else is doing feels like the safest thing to do. But it’s also the most competitive, which makes it the riskiest.
 - If you’re good at course correcting, being wrong may be less costly than you think, whereas being slow is going to be expensive for sure.
+- The trick with being confident, is accepting the results of an action or situation before it even happens.
 
 ## Links
 - [I quit](http://dariusforoux.com/i-quit/)
