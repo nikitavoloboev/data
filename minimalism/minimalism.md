@@ -11,6 +11,8 @@ I have a private Trello board where I list things I own in my life. I mark items
 Here is how that board looks for me:
 ![](https://i.imgur.com/7Cqoqn7.png)
 
+I [budget all my money](../finance/finance.md) into categories each month. This allows me to spend my money mindfully and not buy things I don't need.
+
 ## Notes
 - [Will this item provide value? If not, get rid of it.](https://www.reddit.com/r/minimalism/comments/846drx/extreme_minimalism_a_trend/)
 - I've found the easiest stuff to organize is the stuff I no longer have.

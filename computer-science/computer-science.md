@@ -1,9 +1,8 @@
 # Computer Science
-Studies computation.
+[How These Things Work](http://reasonablypolymorphic.com/book/preface) and [Code](https://www.goodreads.com/book/show/44882.Code) books are incredible introductions to CS.
 
-What is computation and what is computable is actually quite fascinating. Apparently not all things are computable as was proved by Alan Turing with the Halting problem.
-
-Turing machines however are not the only theoretical model that can be used to define computation.
+## Notes
+- Turing machines however are not the only theoretical model that can be used to define computation.
 
 ## Links
 - [The Church-Turing Thesis: Story and Recent Progress](https://www.youtube.com/watch?v=QlYJz1B5XLU)
