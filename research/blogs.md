@@ -13,6 +13,7 @@ I use [Reeder](../macOS/apps/reeder.md) to stay on top of my favourite blogs I f
 - [Diaries of a Madman](https://asylum.madhouse-project.org/blog/archives/)
 - [Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/archives/)
 - [Sandy Maguire](http://sandymaguire.me/blog/archives/)
+- [Guillermo Rauch](https://rauchg.com/essays)
 
 ## Links
 - [Awesome Blogs](https://github.com/learn-anything/blogs#readme)
