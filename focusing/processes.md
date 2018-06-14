@@ -20,7 +20,7 @@ Some simple processes to follow when doing things.
 
 ## Morning routine
 1. Wake up before 6 AM. Brush teeth and moisturise face.
-2. Exercise (Tennis/Gym).
+2. Exercise (Tennis/Gym/Run).
 3. Start working through events on my calendar. Focus.
 
 ## Evening routine
