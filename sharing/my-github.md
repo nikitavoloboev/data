@@ -26,10 +26,9 @@ The number between brackets shows the year I created the repo in. Repos with �
 
 ## Go Libraries
 - [Markdown Parser (2017)](https://github.com/nikitavoloboev/markdown-parser) - Go library to parse markdown to grab various things.
-- [MindNode Parser (2017) 💡](https://github.com/nikitavoloboev/mindnode-parser) - Go library to parse mind maps from MindNode.
 
 ## CLI
-- [License Up (2017) 🌟](https://github.com/nikitavoloboev/license-up) - Create a license quickly.
+- [License Up (2017)](https://github.com/nikitavoloboev/license-up) - Create a license quickly.
 - [Alias search (2017) 💡](https://github.com/nikitavoloboev/alias-search) - Find your aliases and shell functions.
 
 ## Tools
