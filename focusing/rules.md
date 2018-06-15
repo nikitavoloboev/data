@@ -151,6 +151,9 @@ Some simple rules to follow for myself doing things.
 ## Shipping a product
 - Have a nice looking website. The first look matters.
 
+## News
+- Reduce noise. Don't follow any person or content I have no interest in.
+
 ## Social media
 - Don't lock myself into using a service. Have my own system in place and give the social media a purpose. If there is no purpose to it, don't use it.
 

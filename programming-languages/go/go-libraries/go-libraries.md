@@ -18,6 +18,9 @@
 ## ORM
 - [Gorm](https://github.com/jinzhu/gorm) - Fantastic ORM library for Golang, aims to be developer friendly.
 
+## Database
+- [zoom](https://github.com/albrow/zoom) - Blazing-fast datastore and querying engine for Go built on Redis.
+
 ## Other
 - [Argum](https://github.com/sg3des/argum) - Parse incoming arguments in to structure.
 - [Go prompt](https://github.com/c-bata/go-prompt)
