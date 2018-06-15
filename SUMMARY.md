@@ -315,6 +315,7 @@
 		- [Ethereum](databases/blockchain/ethereum.md)
 - [Art](art/art.md)
 	- [Photography](art/photography.md)
+	- [Dancing](art/dancing.md)
 - [API](api/api.md)
 - [Encoding](encoding/encoding.md)
 - [Distributed systems](distributed-systems/distributed-systems.md)

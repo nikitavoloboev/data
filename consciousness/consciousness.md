@@ -21,6 +21,7 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - Our sense of meaning is a subjective experience (like emotions or thoughts). There isn't anything (at least not that I have found) that is objectively meaningful. Even if your gut instinct is telling you that X is the most important thing there is, that's just a subjective experience.
 - Without hope, the human being simply ceases to function. And there is nothing that robs of us of hope quicker than the realization that one day everything will end. So I see religion/spirituality as being an adaptive mechanism to our development of self-awareness. We've become 'too aware' for our own good, so to speak, and as a result we've invented stories which ease that anxiety.
 - There are two ways of looking at things: from the outside, and from the inside. But these are two sides of the same coin.
+- [I think human consciousness, is a tragic misstep in evolution. We became too self-aware, nature created an aspect of nature separate from itself, we are creatures that should not exist by natural law](https://www.youtube.com/watch?v=O93EtnBD3ng).
 
 ## Links
 - [What it means to live a conscious life?](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077) - My thoughts on compassion and living a conscious life.
