@@ -61,6 +61,7 @@ I exclude all foods that are not healthy and experiment with [recipes](https://g
 ## Don't eat
 - Sugar
 - Bread. Grains.
+- Meat
 
 ## Links
 - [Serotonin Foods and Mood Disorders](https://bebrainfit.com/serotonin-foods-mood-brain/)

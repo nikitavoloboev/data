@@ -1,9 +1,29 @@
 # Processes
 Some simple processes to follow when doing things.
 
+## Morning routine
+1. Wake up ~ 6 AM. Brush teeth and [moisturise face](../health/skin-care.md).
+2. [Exercise](../fitness/fitness.md). (Tennis/Gym/Run) for 1 hour.
+3. Start working through events on my calendar. Focus.
+
+## Evening routine
+1. Brush teeth, moisturise face, take shower.
+2. Review day (Timing).
+3. Plan the day ahead in context of my [Focus board](focusing.md).
+4. Go to sleep before 11 pm, ideally.
+
+## Week review (Sunday)
+1. Review Timing. Evaluate. See what can be improved.
+2. Write summary of what happened.
+3. Adjust Focus board. Make plan for next week.
+
+## Month summary in [looking back](../looking-back/looking-back.md) (End of month)
+1. Review Timing. Evaluate. See what can be improved.
+2. Write summary of what happened.
+
 ## Learn
 1. Find what I want/need to learn. Ideally in context of a problem I want to solve.
-2. Read about it on wiki. Find the topic on Learn Anything and learn from best resources for deeper knowledge.
+2. Read about it on wiki. Find the topic on [Learn Anything](../projects/learn-anything.md) and learn from best resources for deeper knowledge.
 3. Ask myself why it is the way it is.  Ask myself what am I missing and what I don't understand (tackle each dependency one by one).
 
 ## Make Alfred workflow
@@ -17,25 +37,6 @@ Some simple processes to follow when doing things.
 1. Write down main ideas I want to cover as bullet points.
 2. Write the article touching on all the main points.
 3. Refactor. Remove useless words and irrelevant pieces. Publish.
-
-## Morning routine
-1. Wake up before 6 AM. Brush teeth and moisturise face.
-2. Exercise (Tennis/Gym/Run).
-3. Start working through events on my calendar. Focus.
-
-## Evening routine
-1. Brush teeth, moisturise face, take shower.
-2. Review day (Timing).
-3. Plan the day ahead in context of my Focus board estimates.
-4. Go to sleep before 11 pm. Ideally.
-
-## Week review (Sunday)
-1. Review Timing. Evaluate. See what can be improved.
-2. Make plan for next week.
-
-## Month summary in [looking back](../looking-back/looking-back.md) (End of month)
-1. Write summary of what happened.
-2. Review Timing. Evaluate. See what can be improved.
 
 ## Write a book
 1. Know what I want to write about. Write an outline.

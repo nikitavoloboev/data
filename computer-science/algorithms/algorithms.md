@@ -1,5 +1,8 @@
 # Algorithms
-Will be going through [this](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf).
+[Algorithm Design Manual](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf) is great.
+
+## Interesting algorithms
+- [PageRank](http://www.wikiwand.com/en/PageRank) - [How it works?](http://qr.ae/TUpCVB)
 
 ## Notes
 - Mocking up the problem on paper or white board is crucial.
