@@ -11,6 +11,7 @@
 - [Category Theory for Programmers PDF](https://github.com/hmemcpy/milewski-ctfp-pdf)
 - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - [Learn You Some Category Theory](https://jozefg.bitbucket.io/posts/2013-10-22-category-theory-in-haskell.html)
+- [The Catsters YouTube channel](https://www.youtube.com/user/TheCatsters) - Has great videos on cat theory.
 
 ## Images
 ![](https://i.imgur.com/4Qcz4tc.png)

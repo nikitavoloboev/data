@@ -160,6 +160,7 @@
 		- [NixOS](operating-systems/linux/nixos.md)
 	- [Containers](operating-systems/containers/containers.md)
 		- [Kubernetes](operating-systems/containers/kubernetes.md)
+		- [Docker](operating-systems/containers/docker.md)
 	- [BSD](operating-systems/bsd/bsd.md)
 - [Package managers](package-managers/package-managers.md)
 	- [Nix](package-managers/nix.md)

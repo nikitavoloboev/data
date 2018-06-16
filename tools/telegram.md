@@ -1,5 +1,6 @@
 # [Telegram](https://telegram.org)
 ## Bot libraries
+- [Integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow.
 - [Telebot](https://github.com/tucnak/telebot) - Looks awesome.
 
 ## Links
