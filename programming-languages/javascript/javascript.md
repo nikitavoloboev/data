@@ -16,3 +16,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms#readme) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 - [EC6 Features](http://es6-features.org/)
 - [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript#readme)
+- [Ask HN: “Expert Level” JavaScript questions?](https://news.ycombinator.com/item?id=17324538)

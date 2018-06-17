@@ -14,8 +14,7 @@ Some simple processes to follow when doing things.
 
 ## Week review (Sunday)
 1. Review Timing. Evaluate. See what can be improved.
-2. Write summary of what happened.
-3. Adjust Focus board. Make plan for next week.
+2. Adjust Focus board. Make plan for next week.
 
 ## Month summary in [looking back](../looking-back/looking-back.md) (End of month)
 1. Review Timing. Evaluate. See what can be improved.
