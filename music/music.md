@@ -1,5 +1,5 @@
 # Music
-I love listening to different music. My favourite genres are ambient, electronic and instrumental.
+I love listening to different music. My favourite genres are ambient, electronic, instrumental and psybient.
 
 You can listen through a lot of the songs I liked on [YouTube](https://www.youtube.com/playlist?list=PL0nGxteCFLXYA1fsLmlWzY0Tyoo3c7tF-) and [SoundCloud](https://soundcloud.com/you/likes). And I share a lot of [playlists](music-playlists.md) and [music artists](music-artists.md) I love.
 

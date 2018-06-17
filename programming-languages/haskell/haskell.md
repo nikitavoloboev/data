@@ -29,3 +29,4 @@
 - [Haskell IDE Engine](https://github.com/haskell/haskell-ide-engine) - Engine for haskell ide-integration.
 - [Of Ideas and men](http://reasonablypolymorphic.com/blog/ideas-and-men/)
 - [What is the track to mastering Haskell and where would it lead me professionally?](https://www.quora.com/profile/Edward-Kmett)
+- [Nix and Haskell in production](https://github.com/Gabriel439/haskell-nix)

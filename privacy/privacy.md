@@ -3,6 +3,8 @@ I try to be aware of my digital fingerprint on the Internet. Who owns the data I
 
 I made a [repository](https://github.com/nikitavoloboev/privacy-respecting#readme) to share all the various alternatives to popular often centralised and _free_ services that are available. And I wrote an [article](https://medium.com/@NikitaVoloboev/like-a-dog-on-a-leash-c0cdb8839079) with some of my thoughts on the matter.
 
+I also have deep interest in [Differential privacy](http://www.wikiwand.com/en/Differential_privacy) and [Homomorphic encryption](http://www.wikiwand.com/en/Homomorphic_encryption).
+
 ## Notes
 - [Facebook is not a private nor a secure platform for sharing sensitive information. Every character that you type into their text boxes is immediately parsed and sent to their servers, regardless of whether you actually complete a post and submit it.](https://www.reddit.com/r/privacy/comments/79x7u3/facebook_employees_just_opened_a_privately_shared/)
 - Marketing most importantly is about establishing wants that you didn't have.
