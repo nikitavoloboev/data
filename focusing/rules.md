@@ -201,9 +201,6 @@ Some simple rules to follow for myself doing things.
 ## Ulysses
 - If I publish the article, private note or anything that is not worth keeping. Delete it from Ulysses. Only keep `in progress` things in the library.
 
-## Releasing workflows with OneUpdater
-- Don't forget to update version number and then also commit the workflow so info.plist on GitHub has the latest version.
-
 ## Interviews
 - When preparing for interviews, code up solutions myself instead of looking at solutions. Be able to express solution in my own words.
 
