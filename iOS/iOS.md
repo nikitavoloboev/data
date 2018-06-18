@@ -16,3 +16,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Unix / CLI / shell-like tools for iOS](http://maverick.inria.fr/Members/Nicolas.Holzschuch/ios_shell.html)
 - [iOS interview tips](http://martiancraft.com/blog/2016/10/interview-tips/)
 - [iOS Developer and Designer Interview Questions](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions#readme)
+- [Writing good bug reports](https://pspdfkit.com/blog/2016/writing-good-bug-reports/)

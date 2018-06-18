@@ -94,6 +94,7 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Helios](https://soundcloud.com/keithkenniff) - [Halving The Compass (Rhian Sheehan Remix)](https://www.youtube.com/watch?v=3INUXq1suaA)
 - [Khruangbin](https://soundcloud.com/khruangbin) - [Cómo Me Quieres](https://www.youtube.com/watch?v=AZ4smc076yo) | [Pitchfork Live](https://www.youtube.com/watch?v=q4xKvHANqjk)
 - [Tom Day](https://soundcloud.com/tomday) - [Echoes](https://www.youtube.com/watch?v=e-_SCZZlrNs)
+- [Hinkstep](https://soundcloud.com/hinkstep) - [Blend In With The Crowd](https://www.youtube.com/watch?v=7jkEFyv5OOE)
 
 ## Interesting artists
 - [Emapea](https://soundcloud.com/emapea)
