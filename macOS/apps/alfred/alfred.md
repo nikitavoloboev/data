@@ -16,6 +16,8 @@ My most used workflows at current time are:
 - [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant)
 - [Ask, Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share)
 - [My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
+- [Maestro](https://github.com/iansinnott/alfred-maestro)
+- [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow)
 
 Coupled with many [small workflows](https://github.com/nikitavoloboev/small-workflows) I made. I hope to add more workflows of my own [to the mix](https://github.com/learn-anything/alfred-workflows#readme) with time.
 
