@@ -6,7 +6,6 @@ Prefixes and notations I use for various apps and tools and their meanings.
 
 ## 1Password
 - f: - Family
-- ssh: - SSH
 
 ## Pixave
 - w. - Wallpapers
