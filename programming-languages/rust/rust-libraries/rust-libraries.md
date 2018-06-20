@@ -9,6 +9,9 @@
 ## ORM
 - [Diesel](https://github.com/diesel-rs/diesel) - Safe, extensible ORM and Query Builder for Rust.
 
+## Graphics
+- [gfx](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API for Rust.
+
 ## Other
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser.
 - [pyo3](https://github.com/PyO3/pyo3)

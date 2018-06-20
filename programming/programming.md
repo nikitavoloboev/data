@@ -32,3 +32,4 @@ I am not a great programmer by any means but the few programs I did write solved
 - [Никита Прокопов — Обретение навыков](https://www.youtube.com/watch?v=f6LsU1zotPI) - Great talk about levels of mastering skills but in Russian.
 - [Things You Should Never Do](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 - [Writing good bug reports](https://pspdfkit.com/blog/2016/writing-good-bug-reports/)
+- [Tips for reading new codebases](https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases)
