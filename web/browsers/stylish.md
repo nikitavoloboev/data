@@ -1,7 +1,7 @@
 # [Stylish](https://userstyles.org)
 I prefer to use darker interfaces on most websites I use so I change the looks of many websites with Stylish.
 
-Here are themes I love using with it. You can download and import all these themes into both [Safari](https://www.dropbox.com/s/s07fprfjfwrmuqn/stylish-safari.dms.txt?dl=1) and [Chrome](https://www.dropbox.com/s/qgj43qc66yo2rhy/stylish-chrome.dms?dl=1).
+Below are themes I love using with it. You can download and import all these themes into both [Safari](https://www.dropbox.com/s/s07fprfjfwrmuqn/stylish-safari.dms.txt?dl=1) and [Chrome](https://www.dropbox.com/s/qgj43qc66yo2rhy/stylish-chrome.dms?dl=1).
 
 Download and import them into [Safari Stylish](http://sobolev.us/stylish/) and [Chrome Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en) extensions respectively.
 
