@@ -1,7 +1,6 @@
 # Game development
-I want to learn how to make games with [Godot engine](https://github.com/godotengine/godot).
-
 ## Engines
+- [Godot](https://github.com/godotengine/godot)
 - [Love](https://love2d.org)
 - [ggez](https://github.com/ggez/ggez)
 - [Amethyst](https://github.com/amethyst/amethyst)

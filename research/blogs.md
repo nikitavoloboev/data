@@ -14,6 +14,7 @@ I use [Reeder](../macOS/apps/reeder.md) to stay on top of my favourite blogs I f
 - [Reasonably Polymorphic](http://reasonablypolymorphic.com/blog/archives/)
 - [Sandy Maguire](http://sandymaguire.me/blog/archives/)
 - [Guillermo Rauch](https://rauchg.com/essays)
+- [Andre Weissflog](http://floooh.github.io/archive/)
 
 ## Links
 - [Awesome Blogs](https://github.com/learn-anything/blogs#readme)

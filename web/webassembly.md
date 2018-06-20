@@ -6,3 +6,4 @@
 - [Dan Callahan: Practical WebAssembly](https://www.youtube.com/watch?v=bac0dGQbUto)
 - [WebAssembly Spec](https://github.com/WebAssembly/spec/)
 - [WAVM](https://github.com/AndrewScheidecker/WAVM) - WebAssembly Virtual Machine.
+- [WebAssembly Demystified](http://floooh.github.io/2017/06/09/webassembly-demystified.html)
