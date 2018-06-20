@@ -90,6 +90,9 @@ Below is a list of extensions I use.
 ## Java
 - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 
+## R
+- [R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) - Support for R language(run,snippet, lint,R documantation,R Markdown).
+
 ## CSS
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [stylelint](https://stylelint.io/).
 
