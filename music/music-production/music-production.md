@@ -4,6 +4,8 @@ Learning to write music. Live coding music sounds pretty awesome. I used [Sonic 
 ## Tools
 - [Klangmeister](http://ctford.github.io/klangmeister/about)
 - [Ableton](ableton.md)
+- [Helio Workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, both desktop and mobile.
+- [Sonic Pi](https://github.com/samaaron/sonic-pi)
 
 ## Inspiration
 - [Nils Frahm at Funkhaus Berlin](https://www.youtube.com/watch?v=kv2nmefHc9Y) - Amazing artist.
