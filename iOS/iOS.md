@@ -7,6 +7,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Giving location, camera, photo permissions to apps matters](https://krausefx.com/blog/ios-privacy-watchuser-access-both-iphone-cameras-any-time-your-app-is-running)
 - To unlock watch with iOS: Watch.app > Passcode > Unlock with iPhone.
 - [You can change what the double tap does on each AirPod in Bluetooth settings.](https://www.reddit.com/r/apple/comments/8bjy9v/just_got_a_set_of_airpods/dx7mocd/?context=1)
+- If you want to find text on a page in Safari, you can click the url bar, type the word that you want, and select the last option “On this page”.
 
 ## Links
 - [iOS Security paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
@@ -17,3 +18,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS interview tips](http://martiancraft.com/blog/2016/10/interview-tips/)
 - [iOS Developer and Designer Interview Questions](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions#readme)
 - [Writing good bug reports](https://pspdfkit.com/blog/2016/writing-good-bug-reports/)
+- [iOS tips and tricks (2018)](https://www.reddit.com/r/apple/comments/8stuj6/ios_tips_and_tricks/)
