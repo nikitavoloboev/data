@@ -37,7 +37,8 @@ Below is a list of plugins I use.
 - [DistractionFreeWindow](https://github.com/aziz/DistractionFreeWindow) - Sublime Text's "Distraction free mode" but not full-screen.
 
 ## Lint
-- [SublimeLinter Shellcheck](https://github.com/SublimeLinter/SublimeLinter-shellcheck) - Linter plugin for SublimeLinter provides an interface to shellcheck.
+- [Linter Shellcheck](https://github.com/SublimeLinter/SublimeLinter-shellcheck) - Linter plugin for SublimeLinter provides an interface to shellcheck.
+- [Linter flake8](https://github.com/SublimeLinter/SublimeLinter-flake8) - Provides an interface to [flake8](http://flake8.readthedocs.org/en/latest/).
 
 ## Git
 - [Git](https://github.com/kemayo/sublime-text-git) - Git integration.
