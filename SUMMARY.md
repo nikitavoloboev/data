@@ -128,6 +128,8 @@
 			- [Vue.js](programming-languages/javascript/js-libraries/vue.md)
 	- [TypeScript](programming-languages/typescript/typescript.md)
 		- [TypeScript libraries](programming-languages/typescript/typescript-libraries/typescript-libraries.md)
+	- [Scala](programming-languages/scala/scala.md)
+		- [Scala libraries](programming-languages/scala/scala-libraries.md)
 	- [ReasonML](programming-languages/reasonml.md)
 	- [Bash](programming-languages/bash.md)
 	- [Clojure](programming-languages/clojure/clojure.md)
