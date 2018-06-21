@@ -1,5 +1,5 @@
 # Math
-[Univalent foundations](http://www.wikiwand.com/en/Univalent_foundations) and [Type Theory](type-theory.md) are interesting.
+[Univalent foundations](http://www.wikiwand.com/en/Univalent_foundations) and [Type Theory](type-theory.md) are interesting. And [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has incredible explanations for various math topics.
 
 ## Notes
 - Math can be learned, it's just a bit silly to dive into a homotopy type theory book and expect to get a firm grasp of things. It's like picking up a chinese news paper and expecting to get an idea of what its content is about.
