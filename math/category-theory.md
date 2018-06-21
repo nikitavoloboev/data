@@ -17,7 +17,7 @@ Anything that can be represented by the above list can be analyzed as a category
 ## Notes
 - The Curry Howard isomorphism. The idea that logic and programming are just two sides of the same coin: types are propositions and programs are proofs.
 - [Originally, category theory traces it roots to algebraic topology. What you find is that you can associate to topological spaces (often simplicial complexes or other triangulated spaces) an algebraic object (often a group, abelian group, ring, vectorspace, or module). And the continuous maps then "lift" to the corresponding algebraic homomorphism.](https://www.reddit.com/r/math/comments/5z5tqg/what_are_you_working_on/dew677u/)
-- [Look at the relationships between things, rather than the components of a thing](Look at the relationships between things, rather than the components of a thing).
+- [Look at the relationships between things, rather than the components of a thing](https://www.reddit.com/r/explainlikeimfive/comments/8rsvqw/eli5_what_is_category_theory/).
 
 ## Links
 - [Category Theory nLab](https://ncatlab.org/nlab/show/category+theory)
