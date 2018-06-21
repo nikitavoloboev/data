@@ -36,7 +36,7 @@ Another cool thing is that my project I hope to make soon will improve these _lo
 ## Photos
 Not sure if these photos will actually stay here as they are links from Instagram and there is a chance Instagram will change them in the future but why not try. Will rally images I posted on Instagram here too.
 
-![](https://scontent-ams3-1.cdninstagram.com/vp/ae9451cd953ef3be3dcde1266e08bf97/5B116052/t51.2885-15/e35/27894445_164536137532199_7303673985147863040_n.jpg)
+![](https://scontent-ams3-1.cdninstagram.com/vp/3ae69e595cc08df8864d3571541f5df3/5BC93033/t51.2885-15/s640x640/sh0.08/e35/27894445_164536137532199_7303673985147863040_n.jpg)
 > [(27) ☁️](https://www.instagram.com/p/BftXeq_j6xf/)
 
 ## Thoughts
