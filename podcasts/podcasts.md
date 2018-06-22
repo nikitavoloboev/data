@@ -8,6 +8,7 @@ I keep a [Trello board](https://trello.com/b/Wtr04eGQ) of podcasts I am listenin
 ## Favourite episodes
 - [Incremental Correctness (feat. Guillermo Rauch)](https://spectrum.chat/thread/e3e27c4b-2a80-4a44-a5d8-c23ab07a7b06)
 - [Type Driven Development and Idris With Edwin Brady](https://corecursive.com/006-type-driven-development-and-idris-with-edwin-brady)
+- [Following Your Passion to Build an Impactful Business with Quincy Larson of FreeCodeCamp](https://www.indiehackers.com/podcast/056-quincy-larson-of-freecodecamp)
 
 ## Interesting episodes
 - [James Long - Seeking Deep Knowledge](http://developeronfire.com/podcast/episode-329-james-long-seeking-deep-knowledge)

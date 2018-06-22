@@ -13,3 +13,4 @@ And my preferred `Report` view is:
 
 ## Notes
 - Can press ⌥ + → in `Review` tab to expand all items fully (assuming I selected the items I want to expand).
+- Running `defaults write info.eurocomp.Timing2 letTaskSuggestionsOverrideExistingProjects -bool true` would make task suggestions independent of current project.
