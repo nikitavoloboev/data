@@ -9,7 +9,7 @@ I practice this art of minimising and focusing on what's important to me & remov
 I have a private Trello board where I list things I own in my life. I mark items that I no longer need with `Sell` tag as well as items I need to upgrade with `Upgrade`. I try to make sure that the items I do own fit into one backpack so I can move to any place in the world with no effort.
 
 Here is how that board looks for me:
-![](https://i.imgur.com/7Cqoqn7.png)
+![](https://i.imgur.com/QmQy5tU.jpg)
 
 I [budget all my money](../finance/finance.md) into categories each month. This allows me to spend my money mindfully and not buy things I don't need.
 

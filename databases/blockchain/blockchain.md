@@ -19,3 +19,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [18 Blockchain Predictions for 2018](https://media.consensys.net/18-predictions-for-2018-7a376ea7bd4b)
 - [Learn Blockchain in 2 months](https://github.com/llSourcell/Learn_Blockchain_in_2_months#readme)
 - [Emerging New Trends in Blockchain Technologies](https://blog.coinfabrik.com/emerging-new-trends-blockchain-technologies/)
+- [Mechanism design challenges in cryptocurrency and blockchains by Buterin Slides](https://docs.google.com/presentation/d/1MLwN2-pBufDmUNprf-r8LXFCm1Ua8skphzDTNPTaiUQ/edit#slide=id.p)
