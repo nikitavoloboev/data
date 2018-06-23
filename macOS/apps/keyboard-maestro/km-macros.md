@@ -5,7 +5,7 @@ You can install all the macros I use by downloading them [from here](https://www
 Inside unzipped `km-macros` dir, you can double click in Finder on any of the macros that you want to install to KM.
 
 ## Explanation
-One of my favourite applications that I use to significantly ease my time using my mac is [Keyboard Maestro](https://www.keyboardmaestro.com/main/). This app is essentially an IDE for automation.
+One of my favorite applications that I use to significantly ease my time using my mac is [Keyboard Maestro](https://www.keyboardmaestro.com/main/). This app is essentially an IDE for automation.
 
 It's a wonderful tool that allows you to create very powerful macros that can range from simply pasting some text, to moving the mouse pointer to some location, to doing various calculations with the input you provide and lot lot more.
 
@@ -23,7 +23,7 @@ I also love using [Alfred Maestro](https://github.com/iansinnott/alfred-maestro)
 
 ## KM Plugins
 It is advised you install these KM plugins as they make using KM editor more pleasant.
-- [KMFAM - Favourite actions and macros](https://forum.keyboardmaestro.com/t/macro-kmfam-favorite-actions-and-macros/4854) - This plugin lets you save complex and non complex actions and macros. You can then search over these actions and macros to quickly add them.
+- [KMFAM - Favorite actions and macros](https://forum.keyboardmaestro.com/t/macro-kmfam-favorite-actions-and-macros/4854) - This plugin lets you save complex and non complex actions and macros. You can then search over these actions and macros to quickly add them.
 
 ## Macros
 Macros are little _KM scripts_ that contain a series of actions. The macros can then be executed from a trigger, usually a hotkey.

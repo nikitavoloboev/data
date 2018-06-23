@@ -26,7 +26,7 @@ Aside from my blog, I heavily share nearly everything I know about this world in
 ## [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
 I also wrote an Alfred workflow that as the name suggests, acts as my second brain that I use to quickly access anything I have [indexed for myself](../knowledge/knowledge-indexing.md). I share it because I wish other people took this idea and made their own _Alfred My Mind_ or a _Knowledge wiki_ but for their own use. Sharing knowledge and tools like that is very powerful and makes a big difference. As I use and reuse other people's work and knowledge many times a day. It never hurts to add to the mix.
 
-I want to visualise knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](../sharing/my-articles.md), the [YouTube videos I make](../sharing/my-youtube.md)  and of course finally through the [code I write](../sharing/my-github.md) to make useful tools, apps and interactive visualisations that all can use and enjoy.
+I want to visualize knowledge and thoughts and ideas I have and share most of these things with other people through this wiki, [the longer articles I write](../sharing/my-articles.md), the [YouTube videos I make](../sharing/my-youtube.md)  and of course finally through the [code I write](../sharing/my-github.md) to make useful tools, apps and interactive visualizations that all can use and enjoy.
 
 With all that said. The best way to know about me as a person, what I like and what I am into and what I am working on is to read through this wiki. With time, it will contain essentially everything that I know _in my own words_.
 

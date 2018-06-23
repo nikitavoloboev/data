@@ -1,5 +1,5 @@
 # [Safari](https://www.apple.com/lae/safari/)
-My favourite browser. It is incredibly fast, doesn't have the baggage of all the Google Chrome tracking and is native to macOS so it is extremely optimised.
+My favorite browser. It is incredibly fast, doesn't have the baggage of all the Google Chrome tracking and is native to macOS so it is extremely optimised.
 
 Here are the websites I have in my `Favourites` which are usually sites I want super fast access to from iOS Safari:
 ![](https://i.imgur.com/nw971Uj.png)

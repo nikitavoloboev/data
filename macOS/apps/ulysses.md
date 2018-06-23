@@ -1,5 +1,5 @@
 # [Ulysses](https://ulyssesapp.com/)
-The app I use to write all my [Medium](https://medium.com/@NikitaVoloboev) articles in. As well as writing notes for different [books I read](../../books/books.md).
+The app I use to write all my [Medium](https://medium.com/@NikitaVoloboev) articles in.
 
 All your writing in one place is the motto and the underlying design of the app. I hook up my [wiki](https://github.com/nikitavoloboev/knowledge) as an external folder and I love how it creates an index of everything that I can search over:
 

@@ -3,7 +3,7 @@ I love reading new books and making notes on things I've read and learned.
 
 I keep a [Trello board](https://trello.com/b/MOrnm2aN) of books I am reading and want to read. And I keep a few bookshelves of books I liked on [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev)
 
-Below are books I read or started reading. The books with links attached will lead to notes I made when reading the book. Books with 🌟 are my favourite.
+Below are books I read or started reading. The books with links attached will lead to notes I made when reading the book. Books with 🌟 are my favorite.
 
 ### 2016
 - [Mind for Numbers](mind-for-numbers.md) - [Review](https://www.goodreads.com/review/show/1223423349)
@@ -67,7 +67,7 @@ Below are books I read or started reading. The books with links attached will le
 - [Most mentioned programming books on Reddit](http://booksreddit.com/product-category/best-programming-books/)
 - [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
 - [Some more recommends](https://github.com/sapegin/ama/issues/5)
-- [Bret Victor’s favourite books](http://worrydream.com/#!/Links)
+- [Bret Victor’s favorite books](http://worrydream.com/#!/Links)
 - [AI books](http://www.allitebooks.com/?s=artificial)
 - [Lobsters - what are you reading](https://lobste.rs/s/xwr0lp/what_are_you_reading)
 - [Ask HN - what are you reading](https://news.ycombinator.com/item?id=14859274)

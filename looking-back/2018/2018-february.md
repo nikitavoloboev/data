@@ -79,7 +79,7 @@ This act of transferring my posts from a closed and controlled silo that FB is o
 
 In any way, no one is forcing me to use FB yet and that feels amazing. I have learned my lesson and I am now always trying to stay in the control of the data I create. Having a private encrypted journal is an amazing feeling, I can't thank [Day One](../../macOS/apps/day-one.md) enough for making such an awesome digital journal that I can use.
 
-Here is a little collage of my favourite posts I made on FB since my first article on _expressing myself_.
+Here is a little collage of my favorite posts I made on FB since my first article on _expressing myself_.
 
 ![](https://i.imgur.com/rhon4mH.png)
 
@@ -95,12 +95,12 @@ Here is a little collage of my favourite posts I made on FB since my first artic
 
 ![](https://i.imgur.com/PE1UjkR.png)
 
-> Probably [my favourite article](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.udmp9eotg) I wrote on Medium. The true essence of the article is very close and dear to my heart. And the entire idea of boostrapping knowledge and sharing experiences and everything a person knows continuously with the entire world clicked something in my brain and it made me approach and do things differently. Both with my blog, the GitHub repositories I made since then and finally this wiki itself together with Learn Anything which acts as my ultimate answer of trying to solve `boostrapping knowledge` problem as best as I can. My ultimate goal though is something akin to [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) which will let anyone query what I know about any topic. As well as of course sharing my entire workflow and ways of doing things as well as ideas and, well everything. It's pretty amazing how far you can take this idea if you want to.
+> Probably [my favorite article](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.udmp9eotg) I wrote on Medium. The true essence of the article is very close and dear to my heart. And the entire idea of boostrapping knowledge and sharing experiences and everything a person knows continuously with the entire world clicked something in my brain and it made me approach and do things differently. Both with my blog, the GitHub repositories I made since then and finally this wiki itself together with Learn Anything which acts as my ultimate answer of trying to solve `boostrapping knowledge` problem as best as I can. My ultimate goal though is something akin to [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) which will let anyone query what I know about any topic. As well as of course sharing my entire workflow and ways of doing things as well as ideas and, well everything. It's pretty amazing how far you can take this idea if you want to.
 
 
 ![](https://i.imgur.com/Q4ks3EL.png)
 
-> This was an interesting post too as I for the first time shared some Imgur albums I started curating. I shared my [Art](https://imgur.com/a/3m5wf) album in that post as it was my favourite of all. And still is. It's interesting to think how everything evolves if you just start doing a thing. I have since then made an [Instagram account](https://instagram.com/prettiways) where I share some of these photos. I think it would be awesome to see the collage of all the beautiful photos as one big stream in time.
+> This was an interesting post too as I for the first time shared some Imgur albums I started curating. I shared my [Art](https://imgur.com/a/3m5wf) album in that post as it was my favorite of all. And still is. It's interesting to think how everything evolves if you just start doing a thing. I have since then made an [Instagram account](https://instagram.com/prettiways) where I share some of these photos. I think it would be awesome to see the collage of all the beautiful photos as one big stream in time.
 
 ![](https://i.imgur.com/bmxiORp.png)
 

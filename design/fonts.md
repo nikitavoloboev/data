@@ -1,5 +1,5 @@
 # Fonts
-My current favourite font for programming is [Fira Code](https://github.com/tonsky/FiraCode). I use it in VS Code, Sublime and iTerm.
+My current favorite font for programming is [Fira Code](https://github.com/tonsky/FiraCode). I use it in VS Code, Sublime and iTerm.
 
 I also love using Lucida Sans font. I use it for my IRC client. I find it much more pleasing to read than Fira Code.
 

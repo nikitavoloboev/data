@@ -25,7 +25,7 @@ Here is a list of various things I track for my own use and reference.
 - [Codepen collections](https://codepen.io/nikitavoloboev/collections/popular/)
 
 ## Games
-- [Games (Wiki)](../games/games.md) - Games I played and my thoughts on them together with my favourite games of all time.
+- [Games (Wiki)](../games/games.md) - Games I played and my thoughts on them together with my favorite games of all time.
 - [Games (Trello)](https://trello.com/b/EekGabpj) - Games I am playing now and want to play.
 - [Grouevee](https://www.grouvee.com/user/nikivi/) - [Games I played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) and [games I want to play](https://www.grouvee.com/user/nikivi/shelves/12652-wish-list/?num=25).
 

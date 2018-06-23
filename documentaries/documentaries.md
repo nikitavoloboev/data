@@ -1,2 +1,2 @@
 # Documentaries
-I have a list of all [documentaries I've seen](https://letterboxd.com/nikitavoloboev/list/documentaries-watched/) as well as [my favourite documentaries](https://letterboxd.com/nikitavoloboev/list/favourite-documentaries/).
+I have a list of all [documentaries I've seen](https://letterboxd.com/nikitavoloboev/list/documentaries-watched/) as well as [my favorite documentaries](https://letterboxd.com/nikitavoloboev/list/favorite-documentaries/).

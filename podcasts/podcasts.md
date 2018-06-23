@@ -1,11 +1,11 @@
 # Podcasts
 I love listening to podcasts with [Overcast](https://overcast.fm) especially when commuting or travelling somewhere.
 
-My favourite podcasts currently are [Hello Internet](http://www.hellointernet.fm), [StackTrace](https://stacktracepodcast.fm/) and [Tim Ferris Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show).
+My favorite podcasts currently are [Hello Internet](http://www.hellointernet.fm), [StackTrace](https://stacktracepodcast.fm/) and [Tim Ferris Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show).
 
 I keep a [Trello board](https://trello.com/b/Wtr04eGQ) of podcasts I am listening and want to listen to.
 
-## Favourite episodes
+## Favorite episodes
 - [Incremental Correctness (feat. Guillermo Rauch)](https://spectrum.chat/thread/e3e27c4b-2a80-4a44-a5d8-c23ab07a7b06)
 - [Type Driven Development and Idris With Edwin Brady](https://corecursive.com/006-type-driven-development-and-idris-with-edwin-brady)
 - [Following Your Passion to Build an Impactful Business with Quincy Larson of FreeCodeCamp](https://www.indiehackers.com/podcast/056-quincy-larson-of-freecodecamp)

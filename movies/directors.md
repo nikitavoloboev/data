@@ -1,5 +1,5 @@
 # Film directors
-I made a list of my [favourite movie directors](https://letterboxd.com/nikitavoloboev/list/favourite-directors/) alongside my favourite movies from them.
+I made a list of my [favorite movie directors](https://letterboxd.com/nikitavoloboev/list/favorite-directors/) alongside my favorite movies from them.
 
 ## Interesting
 - Wong Kar-wai

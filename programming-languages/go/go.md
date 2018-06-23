@@ -1,5 +1,5 @@
 # [Go](https://golang.org)
-Go is currently my favourite programming language.
+Go is currently my favorite programming language.
 
 I mostly love the tooling around it like [VS Code](../../text-editors/vs-code/vs-code.md) and its [Go plugin](https://github.com/Microsoft/vscode-go). The powerful  `go` command line tool and the rich ecosystem of libraries and tools that people have built.
 
@@ -23,7 +23,7 @@ Go promotes composition over inheritance.
 - `go get` = download the source code to your PC.
 - `go install` = download, build, and put it in the path so you can use it.
 - I don't need to comment all functions as some are self describing. I do need to comment exported functions however.
-- I [can put my Go projects not in my GOPATH if I am not planning to release them publically as library or cli tool](https://golang.org/doc/code.html#GOPATH). i.e. My Alfred workflows live in `~/src/alfred` and not in my GOPATH and are still writen in Go.
+- I [can put my Go projects not in my GOPATH if I am not planning to release them publically as library or cli tool](https://golang.org/doc/code.html#GOPATH). i.e. My Alfred workflows live in `~/src/alfred` and not in my GOPATH and are still written in Go.
 - `go run` looks at the paths you specify.  `go build` takes the package(s) you specify and uses GOPATH to find their location.
 - [What works well is to use Go to create an HTTP API and leave the rest (html templates etc) to a client-side frontend (e.g. React). That gives you the best of both worlds: a fast and lightweight backend in Go with a rich frontend in JS.](https://www.reddit.com/r/golang/comments/8eeolx/recommended_web_framework_for_go/)
 - This is a core concept in Go’s type system; instead of designing our abstractions in terms of what kind of data our types can hold, we design our abstractions in terms of what actions our types can execute.
@@ -55,5 +55,5 @@ Go promotes composition over inheritance.
 - [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/) - Great insights.
 - [Sum Types in Go](http://www.jerf.org/iri/post/2917)
 - [Gophercises](https://gophercises.com/) - Free coding exercises for budding gophers.
-- [Joy Compiler](https://mat.tm/joy/) - Translate idiomatic Go into concise Javascript that works in every browser.
+- [Joy Compiler](https://mat.tm/joy/) - Translate idiomatic Go into concise JavaScript that works in every browser.
 - [The Go Type System for newcomers](https://rakyll.org/typesystem/)

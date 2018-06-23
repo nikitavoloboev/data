@@ -1,5 +1,5 @@
 # [VS Code](https://github.com/Microsoft/vscode)
-My favourite editor that I use to write code in. I use [many extensions](vs-code-extensions.md) for it.
+My favorite editor that I use to write code in. I use [many extensions](vs-code-extensions.md) for it.
 
 My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
 

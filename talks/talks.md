@@ -5,7 +5,7 @@ I once made TEDx talk on mindfulness. I only have a transcript of it [here](http
 
 I mark talks that I found interesting [here](https://github.com/learn-anything/talks#readme).
 
-## Favourite
+## Favorite
 - [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0) - [Transcript](http://www.cs.virginia.edu/%7Eevans/cs655/readings/steele.pdf).
 - [Malte Ubl - Designing very large JavaScript applications (2018)](https://www.youtube.com/watch?v=ZZmUwXEiPm4) - [Transcript](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3).
 - [John Sundell - Sharing (2018)](https://www.youtube.com/watch?v=_mQNwL8HkS0)
@@ -21,7 +21,7 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 
 ## Links
 - [How to prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
-- [Ask HN: What is your favourite tech talk? (2018)](https://news.ycombinator.com/item?id=16838460)
+- [Ask HN: What is your favorite tech talk? (2018)](https://news.ycombinator.com/item?id=16838460)
 - [Awesome conference practices](https://github.com/kitze/awesome-conference-practices#readme)
 - [Awesome speaking](https://github.com/matteofigus/awesome-speaking#readme)
 - [Your IDE as a presentation tool](https://staltz.com/your-ide-as-a-presentation-tool.html)

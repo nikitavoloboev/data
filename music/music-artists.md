@@ -1,7 +1,7 @@
 # Music artists
-Below is a list of music artists I like. I attach my favourite songs from these artists.
+Below is a list of music artists I like. I attach my favorite songs from these artists.
 
-## Favourite artists
+## Favorite artists
 - [Mounika](https://soundcloud.com/mounika-beat) - [I Feel love](https://www.youtube.com/watch?v=OM97kdCa99s) | [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) | [Stay Here](https://www.youtube.com/watch?v=-RTOrm50Q8w) | [Love You Sweet It's What I Do](https://www.youtube.com/watch?v=55EANOPFunw)
 - [Kamandi](https://soundcloud.com/kamandi-1) - [Habits](https://www.youtube.com/watch?v=crWSwBhKz-o) | [Martyrs](https://www.youtube.com/watch?v=v6gdhUY1phY)
 - [Maribou State](https://soundcloud.com/mariboustate) - [Midas](https://www.youtube.com/watch?v=-UM76mULg7M) | [Manila](https://www.youtube.com/watch?v=BNs8pnOgtEw) | [Bricks](https://www.youtube.com/watch?v=0Z7PUEHb3e8)
