@@ -75,7 +75,7 @@
 		- [Keychain](macOS/apps/keychain.md)
 		- [Little Snitch](macOS/apps/little-snitch.md)
 	- [JXA](macOS/jxa.md)
-	- [Applescript](macOS/applescript.md)
+	- [AppleScript](macOS/applescript.md)
 - [iOS](iOS/iOS.md)
 - [Hardware](hardware/hardware.md)
 - [Ideas](ideas/ideas.md)

@@ -8,7 +8,7 @@ I like to write all my workflows in Go language unless the workflow can be done 
 
 ### Using Go and [AwGo](https://github.com/deanishe/awgo)
 1. Create a folder in `~/src/alfred`. Prefix the folder name with `alfred-`. i.e. `alfred-web-searches`.
-2. Initialise the folder with git as any project.
+2. Initialize the folder with git as any project.
 3. Inside the `alfred-..` folder I create a `workflow` directory. This is where the actual workflow will live in as well as the binary file compiled from my Go code.
 4. Create the workflow I want to make in Alfred Preferences. Add the icon, name and unique bundle ID. And add the workflow to my custom `Mine` category so I can quickly filter out all the workflows I've ever made inside Alfred.
 5. Carry the info.plist and .png file of the logo to this workflow directory I created. I use Alfred's _Move To..._ file action for quickly transferring files. You can find these files by going here.

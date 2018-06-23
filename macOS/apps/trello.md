@@ -1,7 +1,7 @@
 # [Trello](https://trello.com)
 I use the app a lot to track various ongoing things I have in my life.
 
-I share many boards I have [publically](../../sharing/my-trello.md).
+I share many boards I have [publicly](../../sharing/my-trello.md).
 
 I nearly always use two labels: __Important__ and __Next__. And I mark the cards I am working on and set deadlines on most cards. I can only work on the cards I am assigned to. And a card can't have multiple priority labels. It's either __Important__, __Next__ or Assigned (with space).
 

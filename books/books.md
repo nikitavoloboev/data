@@ -82,7 +82,7 @@ Below are books I read or started reading. The books with links attached will le
 - [Pick three books you think every beginner to sci-fi should read, three for "veterans", and three for "experts".](https://www.reddit.com/r/printSF/comments/5mrj3a/pick_three_books_you_think_every_beginner_to/)
 - [Any book recommendations for building your own indie business?](https://www.indiehackers.com/forum/any-book-recommendations-for-building-your-own-indie-business-22a3f89d27)
 - [Books read by Radek](http://radex.io/books/)
-- [Bookicious](https://www.bookicious.com/collections/) - Favourite books of various founders.
+- [Bookicious](https://www.bookicious.com/collections/) - Favorite books of various founders.
 - [How long to read?](http://www.howlongtoreadthis.com)
 - [Ask HN: Recommendations on books and documentaries on tech companies/people?](https://news.ycombinator.com/item?id=17204467)
 - [Ask HN: What's one book that changed your life? (2018)](https://news.ycombinator.com/item?id=17168136)

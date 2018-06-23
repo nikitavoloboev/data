@@ -5,7 +5,7 @@ I have many interests and I find studying and looking into people who have spent
 
 I maintain a list of [awesome humans](https://github.com/learn-anything/humans#readme) across different disciplines.
 
-## Favourite
+## Favorite
 Here are some humans whose work I found great interest in:
 - [Stanislav Grof](http://www.wikiwand.com/en/Stanislav_Grof)
 - [Alan Watts](alan-watts.md)

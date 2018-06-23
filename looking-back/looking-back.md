@@ -8,7 +8,7 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 - [February](2018/2018-february.md) - Made Telegram macOS/iOS group.
 - [March](2018/2018-march.md) - Stopped listening to music when working.
 - [April](2018/2018-april.md) - Finding happiness. Started playing tennis and growing a healthy recipe collection.
-- [May](2018/2018-may.md) - Started using Nix. Minimised more things.
+- [May](2018/2018-may.md) - Started using Nix. Minimized more things.
 
 ## [2017](2017/2017.md)
 > Interesting year. Learn Anything was born. Started doing this wiki.

@@ -1,13 +1,13 @@
 # Art
 At current time I am mostly a consumer of art rather than creator. I am working on changing that.
 
-I like to collect various beautiful art pieces as an imgur album you can view [here](http://imgur.com/a/3m5wf). I also like various [psychedelic art](http://imgur.com/a/9yOpt) and specifically I love [art by James R. Eads](http://imgur.com/a/Aao8R).
+I like to collect various beautiful art pieces as an Imgur album you can view [here](http://imgur.com/a/3m5wf). I also like various [psychedelic art](http://imgur.com/a/9yOpt) and specifically I love [art by James R. Eads](http://imgur.com/a/Aao8R).
 
 I share different photographs and art pieces I like on [my Instagram page](https://instagram.com/prettiways).
 
 I also love [Pour Painting](https://www.reddit.com/r/PourPainting/top/).
 
-## Favourite artists
+## Favorite artists
 - [Leland K Foster](http://www.lelandkfoster.com/)
 - [Android Jones](https://imgur.com/a/Xdeye)
 - [Ilya Kuvshinov](https://www.artstation.com/kuvshinov_ilya)

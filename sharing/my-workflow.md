@@ -26,9 +26,9 @@ I try to be methodical in working and doing things. And I use the best tools and
 - [SnippetsLab](../macOS/apps/snippetslab.md) - Snippets of code shared with [GitHub Gists](my-gists.md).
 
 ## Bookmarks
-- [Curated lists](https://github.com/learn-anything/curated-lists#readme) - Extension to [Awesome lists](https://github.com/sindresorhus/awesome#readme), serves as a way to publically curate valuable links on different topics and [search them](https://github.com/nikitavoloboev/alfred-learn-anything). Any change I make to the lists are automatially comitted with [Hazel](../macOS/apps/hazel.md).
+- [Curated lists](https://github.com/learn-anything/curated-lists#readme) - Extension to [Awesome lists](https://github.com/sindresorhus/awesome#readme), serves as a way to publicly curate valuable links on different topics and [search them](https://github.com/nikitavoloboev/alfred-learn-anything). Any change I make to the lists are automatically committed with [Hazel](../macOS/apps/hazel.md).
 - [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) -  All my public facing bookmarks. Searching this wiki here. Searching my articles, my GitHub repos and more.
-- [Safari](../web/browsers/safari.md) - Only contains personal bookmarks I search with [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant). The rest is publically available and queriable by anyone.
+- [Safari](../web/browsers/safari.md) - Only contains personal bookmarks I search with [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant). The rest is publicly available and queryable by anyone.
 
 ## Photographs
 - [Pixave](../macOS/apps/pixave.md) - My entire media library of images and GIFs neatly sorted into collections. I post some images from there to my [Instagram page](https://instagram.com/prettiways).
@@ -36,7 +36,7 @@ I try to be methodical in working and doing things. And I use the best tools and
 
 ## Journalling
 - [Day One](../macOS/apps/day-one.md) - All my private memories lie there. It also gets information from my Instagram/Twitter pages so I have nearly everything stored in one place which makes `On This Day` feature awesome.
-- [Looking back](../looking-back/looking-back.md) - My public log of things I've done and worked on throughout the months with highglights from each month/year.
+- [Looking back](../looking-back/looking-back.md) - My public log of things I've done and worked on throughout the months with highlights from each month/year.
 
 ## Writing
 - [Ulysses](../macOS/apps/ulysses.md) - Write my Medium articles and edit my wiki from the phone there.

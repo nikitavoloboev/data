@@ -18,7 +18,7 @@ Some simple rules to follow for myself doing things.
 
 ## Health
 - [Exercise](../fitness/fitness.md). Run/Gym/Tennis every morning.
-- Eat a [whole food, pescetarian diet](../health/nutrition/foods.md).
+- Eat a [whole food, pescatarian diet](../health/nutrition/foods.md).
 - [Sleep](../sleep/sleep.md) at least 7 hours every day.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
 
@@ -353,7 +353,7 @@ Some simple rules to follow for myself doing things.
 - Data that is not backed up is lost data. Automate backups.
 
 ## Trello
-- Share boards publically that contain no sensitive or private information.
+- Share boards publicly that contain no sensitive or private information.
 - Order of importance for cards: __Watching__ -> __Next__ -> __Important__ -> No label.
 - Add links to wiki or [curated lists](https://github.com/learn-anything/curated-lists#readme) over adding them to Trello where appropriate.
 

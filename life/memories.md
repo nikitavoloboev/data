@@ -9,7 +9,7 @@ However what's more interesting to me is how memories are formed. And how memory
 
 These are all questions I wish there was some definitive answer to.
 
-But based on my experience thus far in life. Making these unforgettable memories is one of the most amazing traits this life has to give. Being able to remember past events and happy or even sad moments is a bliss. The only thing left is to maximise how many of these awesome and unique moments you get in life.
+But based on my experience thus far in life. Making these unforgettable memories is one of the most amazing traits this life has to give. Being able to remember past events and happy or even sad moments is a bliss. The only thing left is to maximize how many of these awesome and unique moments you get in life.
 
 It's interesting to think, what would I do if I knew that at the end of every day my memory would be gone. How would I choose to lead my days. What would I do? There's a pretty [awesome movie](https://letterboxd.com/film/memento/) that is quite similar to this idea that I like.
 

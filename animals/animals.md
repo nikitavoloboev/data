@@ -1,7 +1,7 @@
 # Animals
 I love all animals.
 
-## Favourite
+## Favorite
 - Dogs
 - Cats
 

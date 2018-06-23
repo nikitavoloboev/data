@@ -30,7 +30,7 @@ Of course, things can and often change in the process as I find things I have mi
 # 3. Finding the answer
 As mentioned in [research](research.md), I mostly use Google for searching mixed in with DuckDuckGo. I heavily use Dash for documentation and Dictionary for searching the wiki. I also use IRC and various forums specific to the problem I am solving.
 
-I often remind myself of [how to effectively ask questions](asking-questions.md) so as to respect other people's time and maximise chances of getting a good answer.
+I often remind myself of [how to effectively ask questions](asking-questions.md) so as to respect other people's time and maximize chances of getting a good answer.
 
 # 4. Solving the problem
 Sometimes I already know the answer given my past experience without conducting help outside and the only thing left is to apply the solution I have.

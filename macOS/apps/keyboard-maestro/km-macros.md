@@ -13,7 +13,7 @@ I wrote about how I manage my huge macro library [here](https://forum.keyboardma
 
 All the macros/palettes are attached to this GitHub repository sorted into appropriate folders and I describe some of these macros/palettes below.
 
-All global macros will have no trigger as they are called with Applescript from [Karabiner](../karabiner/karabiner.md).
+All global macros will have no trigger as they are called with AppleScript from [Karabiner](../karabiner/karabiner.md).
 
 A lot of these macros were made with great help from the [Keyboard Maestro forum community](https://forum.keyboardmaestro.com/latest).
 
@@ -28,7 +28,7 @@ It is advised you install these KM plugins as they make using KM editor more ple
 ## Macros
 Macros are little _KM scripts_ that contain a series of actions. The macros can then be executed from a trigger, usually a hotkey.
 
-In my case all the global macros I share (macros that can run no matter what application is currently active) have no trigger. This is because I can call these macros from Karabiner using this Applescript code:
+In my case all the global macros I share (macros that can run no matter what application is currently active) have no trigger. This is because I can call these macros from Karabiner using this AppleScript code:
 
 ```applescript
 tell application "Keyboard Maestro Engine"
@@ -60,7 +60,7 @@ There are many macro groups inside the folder. These macros will only run in the
 ### Programming language macro groups
 Programming language macro groups can be found `macros/programming`.
 
-This folder only contains one macro group `Go: Insert`. Because currently I mostly program in this language. The macro group contains some macros that insert some code I often tend to type in Go that I decided to automate. In my Karabiner, I have binded my `.` key to be a programming language specfic modifier. When in `Go` Karabiner mode, `. + ..` will run various macros from this group. An example macro may type `log.println()` when I press `. + g` and move my caret between the ().
+This folder only contains one macro group `Go: Insert`. Because currently I mostly program in this language. The macro group contains some macros that insert some code I often tend to type in Go that I decided to automate. In my Karabiner, I have binded my `.` key to be a programming language specific modifier. When in `Go` Karabiner mode, `. + ..` will run various macros from this group. An example macro may type `log.println()` when I press `. + g` and move my caret between the ().
 
 ## Palettes
 I love using [KM Palettes](https://wiki.keyboardmaestro.com/manual/Palettes). A KM palette is a macro group that contains some actions inside. You give the palette a hotkey trigger and when you press the hotkey, a palette will show up, like this one:

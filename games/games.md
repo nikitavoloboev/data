@@ -3,11 +3,11 @@ I kind of stopped playing games after I got my Mac.
 
 Although I loved spending my time playing Warcraft 3 and its multitude of awesome mods, WOW, Diablo II, Heroes of Might and Magic III, League of Legends and many other ones.
 
-I don't regret the time I spent playing these games and I have learned a lot from them. In some way, my love for optimising and streamlining my workflow has come from these games where you can get immediate reward for things you do and where the rules you have to follow and the end goals you have are more obvious.
+I don't regret the time I spent playing these games and I have learned a lot from them. In some way, my love for optimizing and streamlining my workflow has come from these games where you can get immediate reward for things you do and where the rules you have to follow and the end goals you have are more obvious.
 
 I keep a [Trello board](https://trello.com/b/EekGabpj) of games I am playing now or want to play. And I made a list of [awesome games](https://github.com/learn-anything/games#readme) you can play.
 
-## Favourite games
+## Favorite games
 - [Dune 2000](http://www.wikiwand.com/en/Dune_2000) - Loved this game. Probably the first strategy game I fell in love with.
 - Stronghold 2001 - The campaign was super hard and interesting. I loved building little worlds with superficial economies. Was super fun.
 - [The Curse of Monkey Island](http://www.wikiwand.com/en/The_Curse_of_Monkey_Island) - Was fun exploring the game and solving puzzles.

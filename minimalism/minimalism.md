@@ -3,7 +3,7 @@ I love to live minimally and only use what I need. Think about things that matte
 
 I try to focus on one task a time. Finished the task? Do the next one in the queue. Task too difficult? [Slice it and break it down to smaller tasks I can work on](../research/solving-problems.md). One by one. No extra thinking of whether I am doing the right thing right now or whether I should be focusing my time on something else. Full focus on the task at hand until it is done.
 
-I practice this art of minimising and focusing on what's important to me & removing everything that is not every single day.
+I practice this art of minimizing and focusing on what's important to me & removing everything that is not every single day.
 
 ## Possessions
 I have a private Trello board where I list things I own in my life. I mark items that I no longer need with `Sell` tag as well as items I need to upgrade with `Upgrade`. I try to make sure that the items I do own fit into one backpack so I can move to any place in the world with no effort.

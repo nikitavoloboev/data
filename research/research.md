@@ -11,7 +11,7 @@ For searching, I use:
 - DuckDuckGo - Private searches / instant answers / cheat sheets.
 - GitHub - Software / repos / code search
 
-And of course I love specialising my search to any website I wish. My [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) workflow lets me do that with ease and anyone can download it too to get all these search super powers.
+And of course I love specializing my search to any website I wish. My [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) workflow lets me do that with ease and anyone can download it too to get all these search super powers.
 
 There is also absolutely amazing workflow to [search various websites with autosuggestions](https://github.com/deanishe/alfred-searchio). I highly recommend it. It essentially lets you have powerful search like Google, DuckDuckGo, YouTube and more from wherever you are in your operating system.
 

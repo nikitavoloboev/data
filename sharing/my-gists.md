@@ -3,9 +3,9 @@
 ## Code
 - [Go](https://gist.github.com/search?l=Go&q=user%3Anikitavoloboev)
 - [Python](https://gist.github.com/search?l=Python&q=user%3Anikitavoloboev)
-- [Javascript](https://gist.github.com/search?l=JavaScript&q=user%3Anikitavoloboev+)
+- [JavaScript](https://gist.github.com/search?l=JavaScript&q=user%3Anikitavoloboev+)
 - [JXA](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+jxa&ref=searchresults)
-- [Applescript](https://gist.github.com/search?l=AppleScript&q=user%3Anikitavoloboev)
+- [AppleScript](https://gist.github.com/search?l=AppleScript&q=user%3Anikitavoloboev)
 - [Bash](https://gist.github.com/search?l=Shell&q=user%3Anikitavoloboev+bash)
 - [HTML](https://gist.github.com/search?l=HTML&q=user%3Anikitavoloboev)
 

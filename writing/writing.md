@@ -15,10 +15,10 @@ I try to have my writing be as transparent as possible for the person reading it
 Read other people's work. Read books. Both fiction and non fiction, and get a taste to how different styles of writing can exist and how they can be used effectively.
 
 ## Don't use filler words
-Always be consious when I am writing something and try to focus on the message and remove as much fluff as possible. Words like 'really' have no place in writing as they only undermine what you said before.
+Always be conscious when I am writing something and try to focus on the message and remove as much fluff as possible. Words like 'really' have no place in writing as they only undermine what you said before.
 
 ## Be aware of pacing
-Be aware of pacing between words and sentences. The sententes ideally should flow into one another. Breaks in form of commas and full steps are important. As they allow for the reader to take a break and absorb the point that you tried to deliver.
+Be aware of pacing between words and sentences. The sentences ideally should flow into one another. Breaks in form of commas and full steps are important. As they allow for the reader to take a break and absorb the point that you tried to deliver.
 
 Replace words like `really like` with `love` or other more appropriate words that save space writing and are more relevant to what I am trying to say.
 
@@ -28,7 +28,7 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 ![](https://i.imgur.com/U8JjGl7.png)
 
 ## My process in writing
-I start writing all my artciles by jotting down notes as dashed points below the title. Here is how that looks:
+I start writing all my articles by jotting down notes as dashed points below the title. Here is how that looks:
 
 ![](https://i.imgur.com/wo23lCN.png)
 

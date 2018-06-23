@@ -2,12 +2,12 @@
 Some simple processes to follow when doing things.
 
 ## Morning routine
-1. Wake up ~ 6 AM. Brush teeth and [moisturise face](../health/skin-care.md).
+1. Wake up ~ 6 AM. Brush teeth and [moisturize face](../health/skin-care.md).
 2. [Exercise](../fitness/fitness.md). (Tennis/Gym/Run) for 1 hour.
 3. Start working through events on my calendar. Focus.
 
 ## Evening routine
-1. Brush teeth, moisturise face, take shower.
+1. Brush teeth, moisturize face, take shower.
 2. Review day (Timing).
 3. Plan the day ahead in context of my [Focus board](focusing.md).
 4. Go to sleep before 11 pm, ideally.

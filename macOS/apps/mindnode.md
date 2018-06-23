@@ -7,12 +7,12 @@ I have a __Thinking__ map that I open with Karabiner by pressing `f + :`. And I 
 
 ![](https://i.imgur.com/6OEQGND.png)
 
-I also use MindNode to visualise topics and their relations as an [interactive mind map](https://my.mindnode.com/uQPgJs5DnVaAqyR9yrqxySQB6sCDRy2bmb7yxqKg#1653.2,-925.0,2).
+I also use MindNode to visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/uQPgJs5DnVaAqyR9yrqxySQB6sCDRy2bmb7yxqKg#1653.2,-925.0,2).
 
 ![](https://i.imgur.com/mQWt0vx.jpg)
 
 ## Links
-- [Mind map everything](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739) - How I use mind maps to effectively transcribe knowledge digitally and visualise thoughts and knowledge I have for both myself and for other people interested.
+- [Mind map everything](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739) - How I use mind maps to effectively transcribe knowledge digitally and visualize thoughts and knowledge I have for both myself and for other people interested.
 
 ## Notes
 - ⌥ + delete will delete currently selected node only unlike delete which will delete the entire branch.

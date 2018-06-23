@@ -1,3 +1,3 @@
 # Poems
-## Favourite
+## Favorite
 - [Guest House](https://mrsmindfulness.com/guest-house-poem/)

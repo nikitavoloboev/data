@@ -6,7 +6,7 @@ It has a [wonderful community](https://forum.keyboardmaestro.com/) that is happy
 I share [all the macros I use](km-macros.md) with the app.
 
 ## Notes
-- It is always better to run compiled Applescripts.
+- It is always better to run compiled AppleScripts.
 - [Assert action](https://forum.keyboardmaestro.com/t/assert-action/8374). "If not condition, then fail". Useful for checking if you got right kind of data.
 
 ## Links
