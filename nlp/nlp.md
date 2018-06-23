@@ -5,3 +5,4 @@
 - [Adding voice control to your projects](https://medium.com/hackers-at-cambridge/adding-voice-control-to-your-projects-7096fdee7c45)
 - [Increasing data science productivity; founders of spaCy & Prodigy](https://www.youtube.com/watch?v=jB1-NukGZm0)
 - [Course materials for "Natural Language" course](https://github.com/jacobeisenstein/gt-nlp-class#readme)
+- [NLP progress](https://github.com/sebastianruder/NLP-progress#readme) - Track the progress in Natural Language Processing (NLP) and give an overview of the state-of-the-art across the most common NLP tasks and their corresponding datasets.

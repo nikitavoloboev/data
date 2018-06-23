@@ -155,3 +155,5 @@ Below is a list of music artists I like. I attach my favourite songs from these 
 - [Corbin](https://soundcloud.com/spookycorbin) - [Ice Boy](https://www.youtube.com/watch?v=GTFoHva8Sbo)
 - [Magnolian](https://soundcloud.com/magnolianmusic) - [The Dream of Ridiculous Man](https://www.youtube.com/watch?v=GPvl-rO5CXo)
 - DRAMA - [Hopes up](https://www.youtube.com/watch?v=B_qrF5usW8A)
+- [The Comet Is Coming](https://soundcloud.com/thecometiscoming) - [Start Running](https://www.youtube.com/watch?v=g7Px2wK10jg)
+- [Kokoroko](https://weouthere.bandcamp.com/track/abusey-junction) -  [Abusey Junction](https://www.youtube.com/watch?v=tSv04ylc6To)
