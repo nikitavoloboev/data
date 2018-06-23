@@ -5,3 +5,4 @@
 ## Links
 - [Data Structures and Algorithms implementation in Go](https://github.com/floyernick/Data-Structures-and-Algorithms)
 - [Which algorithms/data structures should I “recognize” and know by name?](https://softwareengineering.stackexchange.com/questions/155639/which-algorithms-data-structures-should-i-recognize-and-know-by-name)
+- [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)

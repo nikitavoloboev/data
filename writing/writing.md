@@ -27,6 +27,16 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 
 ![](https://i.imgur.com/U8JjGl7.png)
 
+## My process in writing
+I start writing all my artciles by jotting down notes as dashed points below the title. Here is how that looks:
+
+![](https://i.imgur.com/1FuHbfH.png)
+
+I then start writing the article and try to touch on one or all of these points as I write the article. I add/remove points as I write the article.
+
+## Publishing the article
+Once I wrote the article that I am quite happy with. I export the article straight to Medium with [Ulysses](../macOS/apps/ulysses.md) export function. I then reread the article again in Medium's editor and fix any styling issues/mistakes that happened. After that I publish the article and share it on Twitter and other internet places.
+
 ## [Focus. Format. Framing.](https://www.youtube.com/watch?v=_mQNwL8HkS0)
 - Focus
 	- Short focused post is easier to both read & write.
@@ -45,7 +55,7 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 	- Topics are everywhere - just look at the problems you're solving every day.
 	- Share learnings & experiences instead of "selling" things. (Don't say `I hope I convinced you to use ..`. Just share what you want to share and let the readers decide for themselves.)
 
-## Don't use
+## Don't use these words
 - really
 - pretty much
 - quite a few
@@ -58,7 +68,7 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 - everyone knows
 - have made (use made)
 
-## Avoid using
+## Avoid using these words
 - very
 - a bit
 - a little

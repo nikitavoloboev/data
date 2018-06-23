@@ -5,7 +5,7 @@ It is however sometimes helpful to see analytics in aggregate, for example Mediu
 
 That said, I am a firm follower of quantified self movement and I [track and aggregate](../sharing/tracking.md) a lot of valuable data about myself and what I do. Specifically I heavily use [Timing](../macOS/apps/timing.md) and [WakaTime](https://wakatime.com) to track how I use my time. And I always try to be [mindful](../mindfulness/mindfulness.md) of the time I spend.
 
-For user facing products, well implemented analytics will let you see how to optimize your system to serve some end goals better and for that you need data.
+For user facing products, well implemented analytics will let you see how to optimise your system to serve some end goals better and for that you need data.
 
 ## Links
 - [Matamo](https://matomo.org/) - Open source alternatve to Google Analytics.
