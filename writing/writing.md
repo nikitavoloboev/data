@@ -30,9 +30,11 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 ## My process in writing
 I start writing all my artciles by jotting down notes as dashed points below the title. Here is how that looks:
 
-![](https://i.imgur.com/1FuHbfH.png)
+![](https://i.imgur.com/wo23lCN.png)
 
 I then start writing the article and try to touch on one or all of these points as I write the article. I add/remove points as I write the article.
+
+I write all my articles in [Ulysses](../macOS/apps/ulysses.md) app.
 
 ## Publishing the article
 Once I wrote the article that I am quite happy with. I export the article straight to Medium with [Ulysses](../macOS/apps/ulysses.md) export function. I then reread the article again in Medium's editor and fix any styling issues/mistakes that happened. After that I publish the article and share it on Twitter and other internet places.
@@ -55,7 +57,7 @@ Once I wrote the article that I am quite happy with. I export the article straig
 	- Topics are everywhere - just look at the problems you're solving every day.
 	- Share learnings & experiences instead of "selling" things. (Don't say `I hope I convinced you to use ..`. Just share what you want to share and let the readers decide for themselves.)
 
-## Don't use these words
+## Don't use
 - really
 - pretty much
 - quite a few
@@ -68,7 +70,7 @@ Once I wrote the article that I am quite happy with. I export the article straig
 - everyone knows
 - have made (use made)
 
-## Avoid using these words
+## Avoid using
 - very
 - a bit
 - a little

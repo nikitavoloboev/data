@@ -24,12 +24,12 @@ Some simple rules to follow for myself doing things.
 
 ## Work
 - Center work around [Focus Trello Board](focusing.md). Make calendar events based on it.
-- Do deep work. Minimise distractions. Say __no__ to things. Set constraints.
-- Prioritise. Do important things first. Be clear on what I want to achieve. Think long term.
+- Do deep work. Minimize distractions. Say __no__ to things. Set constraints.
+- Prioritize. Do important things first. Be clear on what I want to achieve. Think long term.
 - [Do one thing at a time](../research/solving-problems.md). Resist temptations. Remove friction.
 - Think about the problem I want to solve. Don't give up. Don't rush things.
 - Always breathe fresh air. Don't stay indoors for long. Open windows or go outside on breaks.
-- If my mind wanders and avoids doing the task, take a walk and do some exercice.
+- If my mind wanders and avoids doing the task, take a walk and do some exercise.
 - Do things that scale with time.
 - Reuse other people's work.
 - Use the right tool for the job. Only when you master a tool, do you learn when not to use it. Learn new tools.
@@ -55,7 +55,7 @@ Some simple rules to follow for myself doing things.
 - Ask questions. Don't be afraid of not knowing something and [ask for help](../research/asking-questions.md).
 - There are no dumb questions. Do your own research first though.
 - Ask myself what is it that I am trying to solve or understand. Why?
-- Go deep. Specialise. Be great at some thing and then branch out.
+- Go deep. Specialize. Be great at some thing and then branch out.
 - Draw. Use drawings and imagination to distill complex ideas.
 
 ## Nutrition
@@ -69,7 +69,7 @@ Some simple rules to follow for myself doing things.
 
 ## Compassion
 - Value each animal’s life as equal to that of my own. Don't eat anyone.
-- Minimise suffering caused to other people. Be conscious of other people's feelings.
+- Minimize suffering caused to other people. Be conscious of other people's feelings.
 
 ## Code
 - Write code to be read by other people. Prefer to be explicit over implicit. [Readability Matters More Than Correctness](https://xph.us/2017/04/23/readability.html)
@@ -89,11 +89,11 @@ Some simple rules to follow for myself doing things.
 - Giving users too many options is often a bad idea. Give very few options but make each one of them count and stand out.
 
 ## Write
-- Use proper punctuation and capitalise things appropriately.
+- Use proper punctuation and capitalize things appropriately.
 - When making tasks (2Do, Trello, GitHub issues), use imperative tense.
 - Remove unnecessary and _filler_ words. Use adverbs sparingly, they often undermine your point.
 - If something can be said in less words, say it in less words. Be clear and to the point.
-- Minimise using word _here_. When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
+- Minimize using word _here_. When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
 - Use headings to separate sections of articles.
 
 ## Markdown
@@ -101,7 +101,7 @@ Some simple rules to follow for myself doing things.
 - Don't need to add `:` to the end of text when adding image below as it is implicit.
 - Only use HTML to adjust the image if the original size is not what I need. Don't adjust images blindly and check how the final image looks rendered compared to the text.
 - Use __Bold__ for strong emphasis. Use _Italic_ for soft emphasis. And `code quotes` for actual code, variables, path names and quoting inline (in same sentence).
-- Leave one space afer text for image embed.
+- Leave one space after text for image embed.
 
 ## Wiki
 - Share everything I know and need to reference in the wiki. Document my life and reflect.
@@ -161,7 +161,7 @@ Some simple rules to follow for myself doing things.
 - Be mindful of the data fingerprint I leave from using a service. If the service disregards my privacy and brings me no value. Don't use it.
 
 ## Adding resources (links)
-- When adding resources and bookmarks. Priorotise adding them to LA curated lists first and LA itself (not Trello). The goal of the wiki is to mostly contain my own notes and references.
+- When adding resources and bookmarks. Priorotize adding them to LA curated lists first and LA itself (not Trello). The goal of the wiki is to mostly contain my own notes and references.
 	- The resources should be moderated and extended by the community through clear guidelines.
 
 ## Dotfiles
@@ -181,7 +181,7 @@ Some simple rules to follow for myself doing things.
 ## Keyboard Maestro
 - All macro names are lowercased. Unless it is necessary.
 - When doing macros to _focus_ on something, name the macro like _sidebar focus_ rather than _focus on sidebar_.
-- Minimise inputs and preconditions to macros. Sometimes it's possible that the input I need to a macro, I can get from another place within the macro itself.
+- Minimize inputs and preconditions to macros. Sometimes it's possible that the input I need to a macro, I can get from another place within the macro itself.
 
 ## Karabiner
 - Prefer making semantic mappings and chunk mappings by theme or context.
@@ -196,7 +196,7 @@ Some simple rules to follow for myself doing things.
 - Alfred workflow description should be the same as GitHub description.
 
 ## MindNode
-- Use one tree structure for organisation especially when sharing maps (makes the map much easier to follow).
+- Use one tree structure for organization especially when sharing maps (makes the map much easier to follow).
 
 ## Ulysses
 - If I publish the article, private note or anything that is not worth keeping. Delete it from Ulysses. Only keep `in progress` things in the library.
@@ -231,8 +231,8 @@ Some simple rules to follow for myself doing things.
 - If the idea is not private. Share it in [Trello](https://trello.com/b/alB1ryRP). Add relevant description and links to describe the idea clearly.
 - Let the ideas evolve. Work on it and it might change into something far greater over time.
 
-## Capitalising things
-- Capitalise everything where appropriate (Sentences / Headings / Alfred workflows / GitHub descriptions / GitHub issues and PRs / Comments in SnippetsLab / Main dashed points / Tweets / ..).
+## Capitalizing things
+- Capitalize everything where appropriate (Sentences / Headings / Alfred workflows / GitHub descriptions / GitHub issues and PRs / Comments in SnippetsLab / Main dashed points / Tweets / ..).
 
 ## Asking questions
 - When posting an error or an issue, give as much relevant information as I can to help debug it.
@@ -243,7 +243,7 @@ Some simple rules to follow for myself doing things.
 - Welcome any feedback. The more critical feedback, the better. Iterate on it.
 
 ## Ship app
-- Prioritise repos in the sidebar based on priority/urgency.
+- Prioritize repos in the sidebar based on priority/urgency.
 
 ## [Thinking](../research/solving-problems.md) map
 - Only have actual things I am struggling to work through there that need slicing (breaking down of smaller tasks).
@@ -297,12 +297,12 @@ Some simple rules to follow for myself doing things.
 - No macbook in bed. No phone in the morning before waking up.
 
 ## Timing
-- Minimise _News_ time and aim at __< 1 hour News time__ a day. Ideally less. Block everything that is distracting when working.
+- Minimize _News_ time and aim at __< 1 hour News time__ a day. Ideally less. Block everything that is distracting when working.
 - Mark all time past in Timing. Adjust filters and projects to what kind of things I am working on.
 
 ## Tools
 - Only use what is necessary. Experiment with things but never keep things you are not actually using. That mostly includes plugins and modifications.
-	 - Try to establish a good mental model of what you need and what you use as you apprach modifying your workflow and tools.
+	 - Try to establish a good mental model of what you need and what you use as you approach modifying your workflow and tools.
 
 ## Images
 - Keep screenshots and interesting images saved in Pixave.
@@ -347,7 +347,7 @@ Some simple rules to follow for myself doing things.
 ## Information
 - Don't save unnecessary information. This mostly concerns tracking data and the like. More data is not always better. Quality and purposeful data is.
 - Make the data actionable in some way. Either as a way that you can query it later and read or look back upon in the future (as is case with Day One) or as a way you can immediately take action on in form of analysis of it.
-	- Knowing what goals you have and the reasons why you are collecting or using certain kind of data is important and saves a lot of time in the future when you want to _minimise_ and _simplify_ things in life.
+	- Knowing what goals you have and the reasons why you are collecting or using certain kind of data is important and saves a lot of time in the future when you want to _minimize_ and _simplify_ things in life.
 
 ## Backups
 - Data that is not backed up is lost data. Automate backups.
