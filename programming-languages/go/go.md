@@ -57,3 +57,4 @@ Go promotes composition over inheritance.
 - [Gophercises](https://gophercises.com/) - Free coding exercises for budding gophers.
 - [Joy Compiler](https://mat.tm/joy/) - Translate idiomatic Go into concise JavaScript that works in every browser.
 - [The Go Type System for newcomers](https://rakyll.org/typesystem/)
+- [Web Assembly and Go: A look to the future (2018)](https://brianketelsen.com/web-assembly-and-go-a-look-to-the-future/)

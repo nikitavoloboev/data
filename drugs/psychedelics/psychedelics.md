@@ -37,3 +37,4 @@ But as will all things, _moderation is key_. Or as in the case of psychedelics, 
 - [Roland Griffiths, Ph.D. on Psilocybin, Psychedelic Therapies & Mystical Experiences](https://www.youtube.com/watch?v=rkBq33KWFmY)
 - [The Third Wave](https://thethirdwave.co/) - Resources for safe, structured, and responsible psychedelic use.
 - [Joe Rogan Experience #1121 - Michael Pollan](https://www.youtube.com/watch?v=tz4CrWE_P0g) - Great episode.
+- [Separating Fact From Myth - Dr. David E. Nichols](https://www.youtube.com/watch?v=actb5xZU9nQ)

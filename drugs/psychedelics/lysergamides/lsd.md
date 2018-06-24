@@ -4,6 +4,8 @@
 - [LSD reduces activity in the amygdala, the region of the brain related to the handling of negative emotions like fear, compared to placebo.](http://www.nature.com/tp/journal/v7/n4/full/tp201754a.html)
 
 ## Links
+- [LSD Neuroscience - David E. Nichols](https://www.youtube.com/watch?v=LbUGRcuA16E)
+- [LSD Gives Up a Secret - David Nichols](https://www.youtube.com/watch?v=TxjCSKMbZBA)
 - [LSD - Unlocking The Door](https://psychonautwiki.org/wiki/Experience:First_105μg_LSD_-_Unlocking_The_Door) - One of the best trip reports I read.
 - [Shulgin's entry](https://erowid.org/library/books_online/tihkal/tihkal26.shtml)
 - [Experiences on acid](https://knowingless.com/2017/02/11/experiences-on-acid/)
