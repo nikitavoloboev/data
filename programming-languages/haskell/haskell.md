@@ -2,8 +2,8 @@
 ## Notes
 - [Kinds are the types of types. Typeclasses are more like predicates or relations between types.](https://www.reddit.com/r/haskell/comments/8cdiql/isnt_a_typeclass_just_a_type_of_a_type/)
 - The fewer type parameters in a class, the better. Can you turn any into associated types? Can you split the class into two classes? Can you hive off some of the parameters into a superclass?
-- Don't worry about strictness until it's time to optimise.
-- Intuition about optimisation tends to be bad. Before profiling, limit yourself to reasoning about complexity classes.
+- Don't worry about strictness until it's time to optimize.
+- Intuition about optimization tends to be bad. Before profiling, limit yourself to reasoning about complexity classes.
 - Don't judge haskell based on these definitions. They appear strange and crazy, but when you actually do stuff most of them turn out to be quite intuitive.
 	- Advice is to ignore these things. Don't read a million monad tutorials. Just play around and code something, you don't have to understand the monad-definition before you can use the do-notation. Try to ignore them. After a while you get an intuition and then the definitions will make sense.
 - Objects are a way to generalize reusability and composability (Interheritance, Encapsulation, Polymorphism) Haskell goes down a different route of reusability and composability that draws more from math than from object models. The real benefit to learning haskell is learning to think in that way rather than an object oriented or imperative way.
@@ -30,3 +30,4 @@
 - [Of Ideas and men](http://reasonablypolymorphic.com/blog/ideas-and-men/)
 - [What is the track to mastering Haskell and where would it lead me professionally?](https://www.quora.com/profile/Edward-Kmett)
 - [Nix and Haskell in production](https://github.com/Gabriel439/haskell-nix)
+- [Revisiting Combinators by Edward Kmett](https://www.youtube.com/watch?v=PA1Fc7DNKtA)

@@ -2,6 +2,7 @@
 ## Bot libraries
 - [Integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow.
 - [Telebot](https://github.com/tucnak/telebot) - Looks awesome.
+- [Telegrammer](https://github.com/givip/Telegrammer) - Swift 4.1 with Apple/SwiftNIO.
 
 ## Links
 - [Collection of Telegram Bots for Geeks](https://medium.com/@ipestov/collection-of-telegram-bots-for-geeks-52fd821740c1)
