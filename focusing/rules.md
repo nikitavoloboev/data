@@ -95,6 +95,7 @@ Some simple rules to follow for myself doing things.
 - If something can be said in less words, say it in less words. Be clear and to the point.
 - Minimize using word _here_. When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
 - Use headings to separate sections of articles.
+- Use a spellchecker and lint mistakes.
 
 ## Markdown
 - Don't leave unnecessary whitespace between headings and text.

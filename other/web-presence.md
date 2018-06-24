@@ -90,6 +90,6 @@ These are my personal profiles on various websites sorted by categories.
 - [Airbnb](https://www.airbnb.com/users/show/48269245) - Don't use it.
 - [DevianArt](https://nikivi.deviantart.com/) - Don't use it.
 - [Eventbrite](https://www.eventbrite.com/u/146147331884/#) - Various events I have attended or planning to attend.
-- [Stack Overflow CV](https://stackoverflow.com/cv/nikitavoloboev) - Not updating it. Prefer Linkedin.
+- [Stack Overflow CV](https://stackoverflow.com/cv/nikitavoloboev) - Not updating it. Prefer LinkedIn.
 - [Gfycat](https://gfycat.com/@nikivi) - Sharing Gifs.
 - [AMA](https://github.com/nikitavoloboev/ama) - Ask Me Anything.

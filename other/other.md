@@ -16,7 +16,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 
 ## Music instruments
 - [Theremin](http://www.wikiwand.com/en/Theremin)
-	- [Carolina Eyck - Painting for theremin and voice ](https://www.youtube.com/watch?v=hGo2ZQuBJKQ)
+	- [Carolina Eyck - Painting for theremin and voice](https://www.youtube.com/watch?v=hGo2ZQuBJKQ)
 
 ## Products
 - [Future of AMAs](https://hackernoon.com/how-chris-messina-works-and-whats-the-future-of-amas-319046d1f12f)

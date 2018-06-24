@@ -43,7 +43,7 @@ Below are books I read or started reading. The books with links attached will le
 - [Code: hidden language of software](code-the-hidden-language.md)
 - [Eloquent ruby](eloquent-ruby.md)
 - [Confident ruby](confident-ruby.md)
-- [University physics with modern physics](university-physics-with-modern-physics.md)
+- University physics with modern physics
 - The Yellow Wallpaper
 
 ## Interesting authors

@@ -6,7 +6,7 @@
 	- Invented his own symbols for himself.
 - “But the whole problem of discovering what was the matter, and figuring out what you have to do to fix it—that was interesting to me, like a puzzle.”
 
-## Part1 - who stole the door?
+## Part 1 - Who stole the door?
 - “Just before I came to the fraternity they had had a big meeting and had made an important compromise. They were going to get together and help each other out. Everyone had to have a grade level of at least such-and-such. If they were sliding behind, the guys who studied all the time would teach them and help them do their work. On the other side, everybody had to go to every dance. If a guy didn’t know how to get a date, the other guys would get him a date. If the guy didn’t know how to dance, they’d teach him to dance. One group was teaching the other how to think, while the other guys were teaching them how to be social.”
 - “They were all excited by this “discovery”—even though they had already gone through a certain amount of calculus and had already “learned” that the derivative (tangent) of the minimum (lowest point) of any curve is zero (horizontal). They didn’t put two and two together. They didn’t even know what they “knew.”
 - “I don’t know what’s the matter with people: they don’t learn by understanding; they learn by some other way by rote, or something. Their knowledge is so fragile!”
