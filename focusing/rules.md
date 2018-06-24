@@ -13,6 +13,7 @@ Some simple rules to follow for myself doing things.
 - Don't judge anyone. Attempt to see another person's point of view.
 - Be honest. Don't lie to myself nor anyone else.
 - Embrace change. Never complain about anything. Be proactive.
+- Build [good habits](habits.md).
 - Adjust these rules and [my workflow](../sharing/my-workflow.md) to match what I learned.
 - Follow these rules. [Take it easy](../life/happiness.md). You only live now.
 
