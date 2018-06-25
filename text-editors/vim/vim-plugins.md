@@ -57,6 +57,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Ag](https://github.com/rking/ag.vim) - Plugin for the_silver_searcher, 'ag'.
 - [Undotree](https://github.com/mbbill/undotree) - Undo history visualizer.
 - [Tabular](https://github.com/godlygeek/tabular) - Text filtering and alignment.
+- [Easyclip](https://github.com/svermeulen/vim-easyclip) - Simplified clipboard functionality.
 - [Yank stack](https://github.com/maxbrunsfeld/vim-yankstack) - Lightweight implementation of emacs's kill-ring for Vim.
 - [Better whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting.
 - [Rename](https://github.com/danro/rename.vim) - Rename the current file in the vim buffer + retain relative path.

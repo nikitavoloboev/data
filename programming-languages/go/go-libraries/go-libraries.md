@@ -28,4 +28,5 @@
 - [Graphql](https://github.com/machinebox/graphql)
 - [ws](https://github.com/gobwas/ws) - Websocket.
 - [GraphQL](https://github.com/graphql-go/graphql) - Implementation of GraphQL for Go.
+- [GraphQL](https://github.com/machinebox/graphql) - Simple low-level GraphQL HTTP client for Go.
 - [Mock](https://github.com/golang/mock) - Mocking framework for the Go language.
