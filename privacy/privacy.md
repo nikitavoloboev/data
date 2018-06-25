@@ -10,6 +10,7 @@ I also have deep interest in [Differential privacy](http://www.wikiwand.com/en/D
 - Marketing most importantly is about establishing wants that you didn't have.
 
 ## Links
+- [Digital Privacy Tips](https://bluz71.github.io/2018/06/20/digital-privacy-tips.html)
 - [PI-HOLE](https://pi-hole.net/) - Network-wide ad blocking via your own Linux hardware. It doesn’t only hide ads, it blocks the connection between your network and the domains you blacklist completely. You set the IP of your Raspberry Pi running Pihole as your DNS server and that’s it. It comes preconfigured with a lot of blacklisted domains, but there are tons of lists you can add to block even more.
 - [Privacy Lab: Jay Freeman on "How to Get a Dystopia"](https://air.mozilla.org/privacy-lab-orchid/)
 - [We are building a dystopia just to make people click on ads](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads#t-8834)

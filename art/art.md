@@ -20,6 +20,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting/top/).
 - [Daniel Liang](https://www.artstation.com/danielliang)
 - [Ben Ridgway](https://www.instagram.com/benridgwayart/) - DMT like images.
 - [Anderson Debernardi](https://imgur.com/gallery/dKx5S)
+- [Evgeny Lushpin](https://lushpin.com/)
 
 ## Interesting artists
 - [Petur Orn](https://www.instagram.com/orn.design/)
