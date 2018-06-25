@@ -25,3 +25,4 @@
 - [Ask HN: How do I learn math/physics in my thirties?](https://news.ycombinator.com/item?id=17075261)
 - [Napkin Project](http://web.evanchen.cc/napkin.html)
 - [Learn Math Fast](https://github.com/llSourcell/learn_math_fast#readme) - Curated list of awesome mathematics resources.
+- [Russian wiki on math & finance](http://synset.com/wiki/index.php/Заглавная_страница)
