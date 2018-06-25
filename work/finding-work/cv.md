@@ -10,6 +10,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Patrick Balestra](https://patrickbalestra.com/CV.pdf) - Minimal. Made in Pages.
 - [Fujun Luan](http://www.cs.cornell.edu/~fujun/files/Fujun_cv.pdf)
 - [Hugh Kennedy](http://hughsk.io/resume/) - HTML.
+- [Jon Gjengset](https://thesquareplanet.com/cv/) - Clean/HTML.
 - [Bryn Hanby-Roberts](http://bryn.co.uk/cv.pdf)
 - [Harlan Haskins](https://www.harlanhaskins.com/files/Resume.pdf)
 - [Ben Hoyt](http://benhoyt.com/cv/)
