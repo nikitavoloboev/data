@@ -181,6 +181,7 @@
 - [Biology](biology/biology.md)
 - [Automation](automation/automation.md)
 - [Education](education/education.md)
+	- [University](education/university.md)
 - [Economy](economy/economy.md)
 	- [Investing](economy/investing.md)
 	- [Basic Income](economy/basic-income.md)
