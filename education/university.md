@@ -50,7 +50,7 @@ And finally. Sleep. University is stressful. Deadlines are stressful. Exams are 
 
 Ideally learning the habit of going to sleep and waking up at the same time will pay huge dividends as you progress in both university and life.
 
-## 6. Apply for Google Summer of Code for the Summer
+## 6. Apply for Google Summer of Code
 If you are a CS student and want to spend the Summer wisely, it would be best to get some kind of internship or work experience. Google provides an amazing opportunity to work on any of the many awesome open source projects through its [GSOC program](https://summerofcode.withgoogle.com). If you do apply, which all CS students really should try, you will get an opportunity to work on some open source project and actually put the knowledge you got in university into practice AND get paid while you do it. If you do put in the effort and work through it and not give up.
 
 Familiarize yourself with [GSOC's timeline](https://developers.google.com/open-source/gsoc/timeline) to know when projects get announced. What the deadline for your student application stating what you plan to work on during the Summer is. And start early. Look into [previous organizations that were chosen](https://summerofcode.withgoogle.com/organizations/). Very often same organizations pop up again and again. If you find any of them interesting, hop into their communication channels, often it maybe IRC or Slack and let them know that you want to help. Clone their project, try to build, look into some issues and try your hand at fixing some of them. Ask for help.
