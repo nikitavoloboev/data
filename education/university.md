@@ -30,7 +30,7 @@ If the lecturer teaching the subject primarily does research in the subject and 
 
 To make your learning experience the best however, never ever be afraid to ask questions to either other students or asking the professor or student assistants directly during office hours.
 
-## 4. Keep track of assignments and deadlines.
+## 4. Keep track of assignments and deadlines
 I found [Trello](https://trello.com) to work really great for this. I had a Trello board I made where each column was a subject and I put what I had to do for each of the courses there with appropriate deadlines. Here is how that looked in one of my exam periods:
 
 ![](https://i.imgur.com/LArCADG.png)
@@ -71,4 +71,4 @@ This applies more to life than university. But it really is the most powerful ad
 
 I personally fell in love with open source software and specifically optimizing everything in my life. macOS/iOS/life/time/productivity/.. Many of the projects I try to work on I do out of passion for solving my own itches I feel in life. I loved tinkering with macOS so much that I decided to [share my setup](https://github.com/nikitavoloboev/my-mac-os) with the world. Little did I know then that is something that many people actually appreciate and liked. It felt great knowing that and finding it out for myself. If I didn't share it, this would literally simply not happen. If I didn't write my own 'Hello World' article on Medium, my blog wouldn't happen. If I didn't decide to start a wiki, [my wiki](../README.md) of now over 400 files would simply not happen.
 
-There is many more things that simply would not happen if I didn't try new things. Fear is the worst reason to not do a thing.
+There are many more things that simply would not happen if I didn't try new things. Fear is the worst reason to not do a thing.
