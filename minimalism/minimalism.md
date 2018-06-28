@@ -6,12 +6,14 @@ I try to focus on one task a time. Finished the task? Do the next one in the que
 What I find important in life changes as I gain more experience but I always try to be mindful of how I spend my time and what do I actually need to live a [fulfilling and happy life](../life/happiness.md).
 
 ## Possessions
-I have a private Trello board where I list things I own in my life. I mark items that I no longer need with `Sell` tag as well as items I need to upgrade with `Upgrade`. I try to make sure that the items I do own fit into one backpack so I can move to any place in the world with no effort.
+I keep a [Trello board](https://trello.com/b/HotsLGsc) where I list things I own in my life. I mark items that I no longer need with `Sell` tag as well as items I need to upgrade with `Upgrade`. I try to make sure that the items I do own fit into one backpack so I can move to any place in the world with no effort.
 
 Here is how that board looks for me:
 ![](https://i.imgur.com/QmQy5tU.jpg)
 
 I [budget all my money](../finance/finance.md) into categories each month. This allows me to spend my money mindfully and not buy things I don't need.
+
+I usually use [FB Market Place](https://facebook.com/marketplace) to sell off the things I don't need.
 
 ## Notes
 - [Will this item provide value? If not, get rid of it.](https://www.reddit.com/r/minimalism/comments/846drx/extreme_minimalism_a_trend/)
