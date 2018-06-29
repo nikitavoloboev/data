@@ -33,3 +33,4 @@ I am not a great programmer by any means but the few programs I did write solved
 - [Things You Should Never Do](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 - [Writing good bug reports](https://pspdfkit.com/blog/2016/writing-good-bug-reports/)
 - [Tips for reading new codebases](https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases)
+- [Engineering Principles at Monzo](https://monzo.com/blog/2018/06/29/engineering-principles/)
