@@ -1,4 +1,4 @@
-# Wiki reference
+# Wiki Reference
 Since I am both releasing this wiki for other people to read and explore as well as for my own use. I have a small number of _rules_ of things I follow.
 
 If you stumble upon anything confusing in the wiki, this place should ideally clear up any question you had.
