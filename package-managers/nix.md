@@ -31,3 +31,4 @@
 - [Learning Nix by Example: Building FFmpeg 4.0](https://blog.kiloreux.me/2018/05/24/learning-nix-by-example-building-ffmpeg-4-dot-0/)
 - [nix-shell and Shebang Lines](http://iam.travishartwell.net/2015/06/17/nix-shell-shebang/)
 - [Domen Kožar, Lead DevOps, Nix workshop](https://www.youtube.com/watch?v=BjRGlKNHeEc)
+- [Cheap Docker images with Nix](http://lethalman.blogspot.com/2016/04/cheap-docker-images-with-nix_15.html)

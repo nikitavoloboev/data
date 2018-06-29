@@ -49,6 +49,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 # Interesting (not using)
 ## Utility
 - [Autoformat](https://github.com/Chiel92/vim-autoformat) - Easy code formatting.
+- [Sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
 - [Titlecase](https://github.com/christoomey/vim-titlecase) - Titlecase text.
 - [neoinclude.vim](https://github.com/Shougo/neoinclude.vim) - Include completion framework for neocomplete/deoplete.
 - [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - Adds snippet support.
@@ -115,3 +116,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Links
 - [Begin with init.vim](https://github.com/raviqqe/begin-with-init.vim) - Minimal neovim distribution as init.vim.
+- [What is the most underrate vim plugin you use? (2018)](https://www.reddit.com/r/vim/comments/8ukr9j/what_is_the_most_underrate_vim_plugin_you_use/)

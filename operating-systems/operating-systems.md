@@ -1,10 +1,11 @@
 # Operating systems
-[NixOS](linux/nixos.md) and [Plan 9](http://www.wikiwand.com/en/Plan_9_from_Bell_Labs) are quite interesting.
-
 I use and love [macOS](../macOS/macOS.md) as my personal OS.
+
+And I find [NixOS](linux/nixos.md) the most interesting Linux distribution.
 
 ## Interesting
 - [QubesOS](https://www.qubes-os.org/)
+- [Plan 9](https://9p.io/plan9/)
 
 ## Links
 - [Introduction to Operating Systems](http://pages.cs.wisc.edu/~bart/537/lecturenotes/titlepage.html)
