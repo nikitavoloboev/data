@@ -338,7 +338,7 @@ Some simple rules to follow for myself doing things.
 - Always plan the next day ahead of me with events. Adjust the schedule on the day only where necessary. Stay true to the schedule.
 
 ## Safari
-- Only bookmark personal information and links. The rest should be available via [curated lists](https://github.com/learn-anything/curated-lists#readme) or [awesome lists](https://github.com/sindresorhus/awesome#readme).
+- Only bookmark personal information and links. The rest should be available via [curated lists](https://github.com/learn-anything/curated-lists#readme).
 
 ## Paprika recipes
 - Add any new recipe I discover or make to Paprika. Add correct ingredients, instructions and a photo to each recipe.

@@ -2,11 +2,10 @@
 Below is a list of music artists I like. I attach my favorite songs from these artists.
 
 ## Favorite artists
-- [Mounika](https://soundcloud.com/mounika-beat) - [I Feel love](https://www.youtube.com/watch?v=OM97kdCa99s) | [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) | [Stay Here](https://www.youtube.com/watch?v=-RTOrm50Q8w) | [Love You Sweet It's What I Do](https://www.youtube.com/watch?v=55EANOPFunw)
-- [Kamandi](https://soundcloud.com/kamandi-1) - [Habits](https://www.youtube.com/watch?v=crWSwBhKz-o) | [Martyrs](https://www.youtube.com/watch?v=v6gdhUY1phY)
+- [Mounika](https://soundcloud.com/mounika-beat) - [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) | [Stay Here](https://www.youtube.com/watch?v=-RTOrm50Q8w) | [Love You Sweet It's What I Do](https://www.youtube.com/watch?v=55EANOPFunw) | [I Feel love](https://www.youtube.com/watch?v=OM97kdCa99s)
+- [Boogie Belgique](https://soundcloud.com/boogiebelgique) - [Once have I](https://www.youtube.com/watch?v=a0ukwowW2Z0) | [Need somebody](https://www.youtube.com/watch?v=9jKfexL3TNc) | [Every Time](https://www.youtube.com/watch?v=-svrq8P3RYo) | [Ms. Yutani](https://www.youtube.com/watch?v=QNmhiTFeyiY) | [Forever and Ever](https://www.youtube.com/watch?v=2tA1rVKv4EE)
 - [Maribou State](https://soundcloud.com/mariboustate) - [Midas](https://www.youtube.com/watch?v=-UM76mULg7M) | [Manila](https://www.youtube.com/watch?v=BNs8pnOgtEw) | [Bricks](https://www.youtube.com/watch?v=0Z7PUEHb3e8)
 - [Jon Hopkins](https://soundcloud.com/jonhopkins) - [Immunity](https://www.youtube.com/watch?v=Y8eQR5DMous) | [Emerald Rush](https://www.youtube.com/watch?v=4sk0uDbM5lc) | [Afterlife](https://www.youtube.com/watch?v=jh3nZGGLUMM)
-- [Boogie Belgique](https://soundcloud.com/boogiebelgique) - [Once have I](https://www.youtube.com/watch?v=a0ukwowW2Z0) | [Need somebody](https://www.youtube.com/watch?v=9jKfexL3TNc) | [Every Time](https://www.youtube.com/watch?v=-svrq8P3RYo)
 - [Recondite](https://soundcloud.com/recondite_music) - [Tie In](https://www.youtube.com/watch?v=KKYYAbGpw6A)
 - [Nils Frahm](https://soundcloud.com/nils_frahm) - [My Friend the Forest](https://www.youtube.com/watch?v=d99p-SPn5Tc) | [Evening with Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po)
 - [Shigeto](https://soundcloud.com/shigeto) - [Ann Arbor Part 3 & 4](https://www.youtube.com/watch?v=0ZRM3hrn0hM) | [Detroit Part 1](https://www.youtube.com/watch?v=aG6Z_-iE4lI)
@@ -16,6 +15,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Otto Totland](https://ottoatotland.bandcamp.com) - [Pinô](https://www.youtube.com/watch?v=9s3DS-Dslps) | [Âust](https://www.youtube.com/watch?v=TUs8BUVye9s)
 - [Emancipator](https://soundcloud.com/emancipator) - [Valhalla](https://www.youtube.com/watch?v=JkFYkMYAXzw) | [Black Lake](https://www.youtube.com/watch?v=Dz4aVM8fug0)
 - [Little People](https://soundcloud.com/littlepeoplemusic) - [Enola](https://www.youtube.com/watch?v=SH2w1nXNbrM) | [Offal Waffle](https://soundcloud.com/littlepeoplemusic/offal-waffle-emancipator-remix)
+- [Kamandi](https://soundcloud.com/kamandi-1) - [Habits](https://www.youtube.com/watch?v=crWSwBhKz-o) | [Martyrs](https://www.youtube.com/watch?v=v6gdhUY1phY)
 - [Giyo](https://soundcloud.com/gi-yo) - [Downward Spiral](https://www.youtube.com/watch?v=M6beaMfKmjw)
 - [AtYyA](https://soundcloud.com/atyya) - [Altar Form](https://www.youtube.com/watch?v=Y8JlvrV-jCw)
 - [Neroche](https://soundcloud.com/nerocheproductions) - [The departure](https://www.youtube.com/watch?v=B2DrqS6Rxhw)
