@@ -1,7 +1,7 @@
 # Operating systems
-I use and love [macOS](../macOS/macOS.md) as my personal OS.
+I love using [macOS](../macOS/macOS.md) as my personal OS.
 
-And I find [NixOS](linux/nixos.md) the most interesting Linux distribution.
+And I really like [NixOS](linux/nixos.md) and it's [nix package manager](../package-managers/nix.md).
 
 ## Interesting
 - [QubesOS](https://www.qubes-os.org/)
