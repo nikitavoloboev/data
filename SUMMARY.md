@@ -269,6 +269,7 @@
 	- [Startups](business/startups/startups.md)
 	- [Landing pages](business/landing-pages.md)
 	- [Pricing](business/pricing.md)
+- [3D Printing](3d-printing/3d-printing.md)
 - [Anki](anki/anki.md)
 - [Philosophy](philosophy/philosophy.md)
 	- [Simulated reality](philosophy/simulated-reality.md)
