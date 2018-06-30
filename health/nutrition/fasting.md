@@ -1,5 +1,10 @@
 # Fasting
-Want to try it.
+I am trying to incorporate fasting into my lifestyle. It goes really well with a low carb diet.
 
 ## Notes
 - [Only eating between noon and 8pm helped me eliminate brain fog.](https://news.ycombinator.com/item?id=16491083)
+- [Fasting activates autophagy which is the body's process of cleansing at cell level. This is the major reason for health improvements related to it.](https://www.reddit.com/r/longevity/comments/8e3eov/is_there_actually_anything_out_on_the_market_that/)
+
+## Links
+- [Dr. Jason Fung - 'Therapeutic Fasting - Solving the Two-Compartment Problem'](https://www.youtube.com/watch?v=tIuj-oMN-Fk&feature=youtu.be&t=1018) - Amazing talk.
+- [Benefits of Fasting](https://www.reddit.com/r/fasting/comments/8uuryw/is_there_any_scientific_evidence_for_detoxing/e1ihaxd/)

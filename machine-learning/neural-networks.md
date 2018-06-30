@@ -15,3 +15,4 @@
 - [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
 - [Recurrent Neural Networks lecture by Yoshua Bengio](http://videolectures.net/deeplearning2016_bengio_neural_networks/)
 - [Practical Advice for Building Deep Neural Networks](https://pcc.cs.byu.edu/2017/10/02/practical-advice-for-building-deep-neural-networks/)
+- [Differentiable Architecture Search](https://github.com/quark0/darts) - Code for [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055) paper.

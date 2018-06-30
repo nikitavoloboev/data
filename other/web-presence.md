@@ -3,12 +3,12 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Code
 - [GitHub](https://github.com/nikitavoloboev) - Share all my code there.
-- [Codepen](https://codepen.io/nikitavoloboev/) - Hope to use it more often to experiment with web things.
+- [CodePen](https://codepen.io/nikitavoloboev/) - Hope to use it more often to experiment with web things.
 - [GitHub Gists](https://gist.github.com/nikitavoloboev) - Sharing all my Code Snippets. Created with [SnippetsLab](../macOS/apps/snippetslab.md).
 - [Stack Overflow](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile) - Asking and answering questions.
 - [LeetCode](https://leetcode.com/nikivi) - Preparing for technical interviews.
 - [NPM](https://www.npmjs.com/~nikitavoloboev) - All the node modules I released.
-- [Freecodecamp](https://www.freecodecamp.com/nikitavoloboev) - Haven't completed it fully.
+- [FreeCodeCamp](https://www.freecodecamp.com/nikitavoloboev) - Haven't completed it fully.
 - [Codementor](https://www.codementor.io/nikitavoloboev) - Never used it.
 - [Asciinema](https://asciinema.org/~nikivi) - Sharing terminal sessions for showcasing CLI tools and other things.
 - [WakaTime](https://wakatime.com/@nikivi) - Tracking the time I spend coding.
