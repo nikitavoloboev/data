@@ -7,6 +7,7 @@ Roughly speaking, a [type is a specification of its possible values](https://git
 - Type theory goes much much further than just tagging data.
 - The type determines which data structure you use.
 - Dependent types is basically about being able to express arbitrary things in your type system, meaning that you can construct arbitrary proofs. That's how Coq, Agda and Idris work.
+- Types are types and propositions are propositions; types come from programming languages, and propositions from logic, and they seem to have no relation to each other.
 
 ## Links
 - [Learn TT](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.

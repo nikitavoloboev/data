@@ -374,7 +374,7 @@
 	- [A view of mathematics](research-papers/a-view-of-mathematics.md)
 - [Books](books/books.md)
 	- [Go in action](books/go-in-action.md)
-	- [AI - Modern Approach](books/ai-modern-approach.md)
+	- [AI: Modern Approach](books/ai-modern-approach.md)
 	- [Mind for Numbers](books/mind-for-numbers.md)
 	- [Mindstorms](books/mindstorms.md)
 	- [Cracking the coding interview](books/cracking-the-coding-interview.md)

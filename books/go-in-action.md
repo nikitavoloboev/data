@@ -7,5 +7,3 @@
 
 # Chapter 3 - packages
 - The convention for naming your package is to use the name of the directory containing it.
-
-

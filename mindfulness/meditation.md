@@ -14,6 +14,7 @@ I use [Breathing Zone](https://itunes.apple.com/us/app/breathing-zone/id36983863
 ## Notes
 - I don't know any meditator or teacher worth their weight in salt who advocates stopping thinking. Not only is it practically impossible, it implies a deeply maladaptive relationship to thought, i.e., that thought itself is undesirable. Rather, we need to transform our relationship to thoughts; not identify with them but dispassionately observe them as self-arising objects of perception, rather than facts of existence that define who and what we are. Not only that, but question their origins and the underlying beliefs that motivate them. Mindfulness is a very different thing from "stop thinking." "Stop thinking" implies an act of violence to the self, rather than gentle self-compassion.
 - [There are no secrets. There are no shortcuts. You literally just practice for years and years and years and years.](https://www.reddit.com/r/Buddhism/comments/6v5dg5/how_do_i_enter_all_the_four_jhanas/dlxpy6w/)
+- If the mind is concentrated, we do not hear sounds, we do not see anything all our senses are in abeyance. External sounds, external vision, all external sense perceptions, therefore, can be overcome by concentration; and intensity of concentration leads to meditation.
 
 ## Links
 - [Breathing techniques](https://www.reddit.com/r/Psychonaut/comments/6y21cf/does_anyone_know_any_effective_breathing/)
