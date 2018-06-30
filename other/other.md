@@ -32,3 +32,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Minimums](http://minimums.com/) - Interesting possessions of interesting people.
 - [The Atlas](https://www.theatlas.com/) - Search charts.
 - [SV Dictionary](http://svdictionary.com/)
+- [Ask HN: What's the best documentation you've ever read?](https://news.ycombinator.com/item?id=17399340)

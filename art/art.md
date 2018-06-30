@@ -25,6 +25,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting/top/).
 ## Interesting artists
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
+- [Ben Ridgway](https://www.samwoolfe.com/2018/06/the-visionary-art-of-ben-ridgway.html) - DMT inspired.
 
 ## Interesting art
 - [Alycia Rainaud](https://ello.co/maalavidaa)
