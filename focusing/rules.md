@@ -30,7 +30,7 @@ Some simple rules to follow for myself doing things.
 - Prioritize. Do important things first. Be clear on what I want to achieve. Think long term.
 - [Do one thing at a time](../research/solving-problems.md). Resist temptations. Remove friction.
 - Think about the problem I want to solve. Don't give up. Don't rush things.
-- Always breathe fresh air. Don't stay indoors for long. Open windows or go outside on breaks.
+- Always breathe fresh air. Don't stay indoors for long. Open windows and go outside on breaks.
 - If my mind wanders and avoids doing the task, take a walk and do some exercise.
 - Do things that scale with time.
 - Reuse other people's work.
@@ -38,6 +38,7 @@ Some simple rules to follow for myself doing things.
 - Start. Don't be afraid to solve the problem no matter how complex or intimidating it may be.
 - Ship early. Get feedback and iterate on it. Rinse and repeat.
 - Track all time in [Timing](../macOS/apps/timing.md). Reflect on it at the end of the day & week.
+- Wear comfortable clothes when working from home and outside.
 
 ## Focus
 - Be very aggressive in cutting any kind of distractions when working.
