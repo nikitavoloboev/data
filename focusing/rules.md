@@ -19,9 +19,9 @@ Some simple rules to follow for myself doing things.
 
 ## Health
 - [Exercise](../fitness/fitness.md). Gym/Tennis/Run every morning.
-- Eat a [whole food, pescatarian diet](../health/nutrition/foods.md).
+- Eat a [whole food, pescatarian diet](../health/nutrition/foods.md). [Fast](../health/nutrition/fasting.md) for 16 hours daily.
 - Drink water and tea. No added sugar in drinks/food.
-- [Sleep](../sleep/sleep.md) at least 7 hours every day.
+- [Sleep](../sleep/sleep.md) at least 7 hours every day. Wake up & go to sleep at same time.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
 
 ## Work
