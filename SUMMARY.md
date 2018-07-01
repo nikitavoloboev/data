@@ -24,6 +24,7 @@
 	- [Staying on top of things](research/staying-on-top-of-things.md)
 	- [Blogs](research/blogs.md)
 - [Minimalism](minimalism/minimalism.md)
+	- [Zero waste](minimalism/zero-waste.md)
 - [Music](music/music.md)
 	- [Music playlists](music/music-playlists.md)
 	- [Music artists](music/music-artists.md)
