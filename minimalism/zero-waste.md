@@ -10,4 +10,4 @@ Currently my zero waste practices involve:
 - No longer eating meat and supporting the horrible animal slaughterhouses and instead eating a whole food, pescatarian diet where I only eat fish occasionally.
 - Minimizing my use of plastics.
 - Drinking water/tea from my metal water cup.
-- Letting my close friends know that this wonderful lifestyle of minimalism and zero waste exists and how great it actually is to adhere it.
+- Letting other people know that this wonderful lifestyle of minimalism and zero waste exists and how great it actually is to adhere it.

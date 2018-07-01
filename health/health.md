@@ -16,3 +16,4 @@ Here are some things I am trying to improve with my health right now.
 
 ## Links
 - [Second Life: Rethinking Myself Through Exercise, Mindfulness, and Gratitude](https://www.macstories.net/stories/second-life/)
+- [Dr Rhonda Patrick How Your Diet, Exercise, and Even Hyperthermic Conditioning Can Change the Expression of Genes](https://www.youtube.com/watch?v=VjgMzS5b_QM)

@@ -25,6 +25,7 @@ But as will all things, _moderation is key_. Or as in the case of psychedelics, 
 - Bad trips happen because your brain is uncomfortable with something in your surroundings, your life, or yourself. Normally it is easier to not think of this but on a trip your brain turns the mirror in on itself and you're often forced to confront that unpleasantness.
 	- This can be a purely bad thing, but only if you let it. What should you do to keep it from being purely bad? Accept what your brain is showing you, rather than fight it. Consider the problems and their source. Figure out how to improve the situation or else make it a non-issue in your life, and take action when you have sobered up toward making those changes a reality.
 - The feeling that I got is that there is a certain type of knowledge that exists there, but it cannot come back with you. It's like trying to save a banana to a memory stick. Our brains simply cannot store that type of data. The heart of the experience(if you go deep enough) is something which is beyond mind. It can be experienced but not remembered.
+- [Psychedelics deactivate what's called your Default Mode Network (DMN) and therefore enhance creativity and novel perspectives.](https://www.wsj.com/articles/the-new-science-of-psychedelics-1525360091)
 
 ## Links
 - [Trip Safe](https://tripsafe.org/) - Education for psychedelics like LSD and Shrooms.
@@ -38,3 +39,4 @@ But as will all things, _moderation is key_. Or as in the case of psychedelics, 
 - [The Third Wave](https://thethirdwave.co/) - Resources for safe, structured, and responsible psychedelic use.
 - [Joe Rogan Experience #1121 - Michael Pollan](https://www.youtube.com/watch?v=tz4CrWE_P0g) - Great episode.
 - [Separating Fact From Myth - Dr. David E. Nichols](https://www.youtube.com/watch?v=actb5xZU9nQ)
+- [Michael Pollan: "How to Change Your Mind" | Talks at Google](https://www.youtube.com/watch?v=KuhmZSFvhL0&ab_channel=TalksatGoogle)
