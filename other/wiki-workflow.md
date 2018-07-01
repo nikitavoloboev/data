@@ -28,4 +28,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Devine Lu Linvega](https://wiki.xxiivv.com)
 - [Yoshua Wuyts](https://yoshuawuyts.gitbooks.io/knowledge/content/)
 - [Richard Litt](https://github.com/RichardLitt/knowledge)
-- [Meta knowledge](https://github.com/RichardLitt/knowledge) - More wikis.
+- [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.

@@ -12,4 +12,4 @@ I also visualize some topics and their relations as an [interactive mind map](ht
 - [Don’t assume it’s difficult until it is](https://news.ycombinator.com/item?id=10872970).
 
 ## Links
-- [Great insights](https://wiki.xxiivv.com/#knowledge) - Has also great [learning](https://wiki.xxiivv.com/#glossary) page.
+- [Great insights](https://wiki.xxiivv.com/#knowledge) - Also has great [learning](https://wiki.xxiivv.com/#glossary) page.
