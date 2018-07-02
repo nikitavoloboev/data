@@ -174,6 +174,7 @@
 	- [Meditation](mindfulness/meditation.md)
 	- [Buddhism](mindfulness/buddhism.md)
 - [Compilers](compilers/compilers.md)
+	- [LLVM](compilers/llvm.md)
 - [Physics](physics/physics.md)
 	- [Quantum physics](physics/quantum-physics/quantum-physics.md)
 	- [String theory](physics/string-theory.md)
