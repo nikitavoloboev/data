@@ -28,7 +28,7 @@ I use [Focus app](https://heyfocus.com) to block many non work related websites 
 I also have Focus trigger Do Not Disturb mode on Focusing. This way I get no notifications when I am working and I get 0 distractions.
 
 The things I work on during this 100 min focus session is specified by an event in [Fantastical](../macOS/apps/fantastical.md). The events are simply names of projects on which I want to work on in that time. Here are the most common events I use and what I do during them:
-- Code - I use [Ship](https://www.realartists.com/index.html) app and work through GitHub issues in `Up Next` list.
+- Code - I open GitHub issues for repos I want to work on and work through tasks one by one.
 - Inbox - I open [2Do](../macOS/apps/2do.md) and work through the most prioritized tasks for `Today`.
 - Books - I open [PDF Expert](https://pdfexpert.com/) and read through the [book I set out to read](https://trello.com/b/MOrnm2aN).
 - Research papers - I open [PDF Expert](https://pdfexpert.com/) and read through the [research paper I set out to read](https://trello.com/b/EKl1Ie3q).

@@ -1,5 +1,5 @@
 # Fasting
-Currently I fast for 16 hours daily. With an 8 hour eating window in the morning. I often break my fast in the morning after morning exercise (Gym/Tennis/Running).
+Currently I fast for 16 hours daily. With an 8 hour eating window in the morning. I often break my fast after my morning exercise (Gym/Tennis/Running).
 
 ## Notes
 - [Only eating between noon and 8pm helped me eliminate brain fog.](https://news.ycombinator.com/item?id=16491083)

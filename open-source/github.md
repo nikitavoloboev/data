@@ -5,14 +5,6 @@ I publish most of my work and make it open source for other people to use and re
 
 [Here](../sharing/my-github.md) you can find all the repositories I shared.
 
-## Issues
-For managing my GitHub issues, I use [Ship macOS app](https://www.realartists.com).
-
-It allows me to put certain issues into Up Next group as can be seen below:
-![](https://i.imgur.com/swfhFxL.png)
-
-And then I can go through these issues one by one.
-
 ## Notes
 - You can append `#readme` to GitHub repo URL to jump to the README of the repo. I use it all the time for curated lists of any kind and where README is the most important thing in the repo.
 - Selecting some text in a github comment and pressing `r` will make a reply of that text.
