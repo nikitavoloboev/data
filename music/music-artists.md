@@ -159,3 +159,4 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - DRAMA - [Hopes up](https://www.youtube.com/watch?v=B_qrF5usW8A)
 - [The Comet Is Coming](https://soundcloud.com/thecometiscoming) - [Start Running](https://www.youtube.com/watch?v=g7Px2wK10jg)
 - [Koresma](https://soundcloud.com/koresma) - [Bridges](https://www.youtube.com/watch?v=6t8ySMAtW5w)
+- [Lil Gatsby](https://soundcloud.com/lil-gatsby) - [You're so cool](https://www.youtube.com/watch?v=7YdPw_gcejQ)

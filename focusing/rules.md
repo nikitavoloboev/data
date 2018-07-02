@@ -25,10 +25,10 @@ Some simple rules to follow for myself doing things.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
 
 ## Work
+- [Do one thing at a time](../research/solving-problems.md). Resist temptations. Remove friction.
 - Center work around [Focus Trello Board](focusing.md). Make calendar events based on it.
 - Do deep work. Minimize distractions. Say __no__ to things. Set constraints.
 - Prioritize. Do important things first. Be clear on what I want to achieve. Think long term.
-- [Do one thing at a time](../research/solving-problems.md). Resist temptations. Remove friction.
 - Think about the problem I want to solve. Don't give up. Don't rush things.
 - Always breathe fresh air. Don't stay indoors for long. Open windows and go outside on breaks.
 - If my mind wanders and avoids doing the task, take a walk and do some exercise.

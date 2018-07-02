@@ -38,3 +38,6 @@ Sometimes I already know the answer given my past experience without conducting 
 In some cases, a problem may be complex enough that it needs time thinking more about it. Researching various possible solutions and things you could use. And playing with possible solutions and ideas in your head until you reach something worthwhile you can spend time implementing. [This talk](https://www.youtube.com/watch?v=f84n5oFoZBc) by Rich Hickey covers this point quite well.
 
 In most other cases, the problem I have is simple enough that it doesn't need to go into a __thinking__ map to be broken down to be solved and I can just start working on the task immediately and see if I can make it happen.
+
+## Do one task at a time
+In order to make sure I do one task at a time and not get distracted I use [this Alfred workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/todo-task#readme) I made. It lets me put any selected text or a task from [2Do](../macOS/apps/2do.md), [MindNode](../macOS/apps/mindnode.md) or [Trello](../sharing/my-trello.md) as my **active TODO**. And then display it in the middle of the screen whenever I get distracted and want to bring my focus to what it is I should actually be doing.
