@@ -11,8 +11,6 @@ It goes well with [Pure zsh theme](https://github.com/sindresorhus/pure) and [Ay
 
 ![](https://i.imgur.com/WQNfyfO.png)
 
-My preferences for iTerm can be found [here](https://github.com/nikitavoloboev/dotfiles/tree/master/iterm).
-
 ## My workflow
 I always have 4 tabs (sessions) always open in iTerm. I open other tabs as the need arises and I start working on other projects.
 
