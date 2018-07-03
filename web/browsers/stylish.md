@@ -3,7 +3,7 @@ I prefer to use darker interfaces on most websites I use so I change the looks o
 
 Below are themes I love using with it. You can also install either all my [Safari themes](https://www.dropbox.com/s/s07fprfjfwrmuqn/stylish-safari.dms.txt?dl=1) or [Chrome themes](https://www.dropbox.com/s/qgj43qc66yo2rhy/stylish-chrome.dms?dl=1) I use.
 
-Download and import them into [Safari Stylish](http://sobolev.us/stylish/) and [Chrome Stylish](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en) extensions respectively.
+Download and import them into [Safari Stylish](http://sobolev.us/stylish/) and [Chrome Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extensions respectively.
 
 ## [GitHub Dark](https://userstyles.org/styles/37035/github-dark)
 ![](https://i.imgur.com/ValUboK.png)
@@ -31,7 +31,7 @@ Download and import them into [Safari Stylish](http://sobolev.us/stylish/) and [
 ## [Lobsters Dark](https://userstyles.org/styles/136068/neo-dark-lobsters)
 ![](https://i.imgur.com/nCjge7A.png)
 
-I also use [Wikiwand](http://www.wikiwand.com) as my wiki with dark mode:
+I also use [WikiWand](http://www.wikiwand.com) as my wiki with dark mode:
 
 ![](https://i.imgur.com/LdmPoF7.png)
 

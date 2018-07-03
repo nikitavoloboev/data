@@ -1,5 +1,5 @@
 # Depression
-Depression is a natural emotion that is caused by your body's response to the unpleasant enviroment you are in.
+Depression is a natural emotion that is caused by your body's response to the unpleasant environment you are in.
 
 I try my best to mindfully be aware of emotions, thoughts and feelings I have and focus on improving my [happiness](../life/happiness.md) in life.
 

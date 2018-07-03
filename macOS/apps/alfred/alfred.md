@@ -45,3 +45,4 @@ I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3
 - [How to: workflow / environment variables](https://www.alfredforum.com/topic/9070-how-to-workflowenvironment-variables/?tab=comments#comment-45177)
 - [fuzzy-list](https://github.com/derickfay/fuzzylist) - Self-updating list filter workflow template.
 - [fuzzy-search](https://github.com/deanishe/alfred-fuzzy) - Fuzzy search helper.
+- [Deanishe's approach in building Go workflows](https://github.com/deanishe/awgo/commit/5f0051950af39371385f2dfda96483eb1423e565)
