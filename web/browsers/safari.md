@@ -13,7 +13,7 @@ I also open any of my most used websites using [KM macros](../../macOS/apps/keyb
 ## Extensions I use
 - [sVim](https://github.com/flipxfx/sVim) -  Adds a custom layer of keybinds you can customize to personalize your browsing experience. [My config](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c).
 - [AdGuard](https://adguard.com/en/adblock-adguard-safari.html) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
-- [Wikiwand](http://www.wikiwand.com) - Wiki UI refinement (less noise and focus on content + night mode).
+- [WikiWand](http://www.wikiwand.com) - Wiki UI refinement (less noise and focus on content + night mode).
 - [Stylish](http://sobolev.us/stylish/) - Allows for local customizations of various websites. [Themes I use](../../web/browsers/stylish.md) with it.
 - [Nightlight](https://github.com/Gofake1/Nightlight) - In the case where there is no Stylish theme available, you can turn on a permanenet night theme mode with this extension. It attempts to bring night theme mode to websites that don't natively support it.
 - [Octotree](https://github.com/buunguyen/octotree) - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.

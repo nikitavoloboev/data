@@ -3,9 +3,9 @@ I use this browser only for web development.
 
 I use [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad) theme.
 
-Here are chrome extenions I use:
+Here are chrome extensions I use:
 
-![](https://i.imgur.com/vGcn9Ih.png)
+![](https://i.imgur.com/ZguzfHm.png)
 
 ## Links
 - [Awesome Chrome Extensions](https://github.com/learn-anything/chrome-extensions#readme)

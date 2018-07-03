@@ -1,9 +1,11 @@
 # [Stylish](https://userstyles.org)
-I prefer to use darker interfaces on most websites I use so I change the looks of many websites with Stylish.
+I prefer to use darker interfaces on most websites I use so I change the looks of many websites with Stylus.
 
-Below are themes I love using with it. You can also install either all my [Safari themes](https://www.dropbox.com/s/s07fprfjfwrmuqn/stylish-safari.dms.txt?dl=1) or [Chrome themes](https://www.dropbox.com/s/qgj43qc66yo2rhy/stylish-chrome.dms?dl=1) I use.
+I use [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) on Chrome instead of Stylish as it latter [collects websites you visit](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/).
 
-Download and import them into [Safari Stylish](http://sobolev.us/stylish/) and [Chrome Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) extensions respectively.
+On Safari I use [Safari Stylish](http://sobolev.us/stylish/).
+
+Below are themes I love using with it.
 
 ## [GitHub Dark](https://userstyles.org/styles/37035/github-dark)
 ![](https://i.imgur.com/ValUboK.png)
