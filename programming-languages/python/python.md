@@ -6,3 +6,5 @@
 - [WTF Python](https://github.com/satwikkansal/wtfpython#readme)
 - [My Python development environment (2018)](https://jacobian.org/writing/python-environment-2018/)
 - [Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure#readme)
+- [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+- [Structuring Your Python Project](http://docs.python-guide.org/en/latest/writing/structure/)
