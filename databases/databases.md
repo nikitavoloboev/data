@@ -5,3 +5,4 @@
 
 ## Links
 - [Stanford DB course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+- [Algebraic Query Language](http://categoricaldata.net/aql.html) - Schemas as categories, DB instances as functors, provable data migration as functor composition.
