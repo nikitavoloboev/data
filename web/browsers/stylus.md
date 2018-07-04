@@ -1,7 +1,7 @@
-# [Stylish](https://userstyles.org)
+# [Stylus](https://userstyles.org)
 I prefer to use darker interfaces on most websites I use so I change the looks of many websites with Stylus.
 
-I use [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) on Chrome instead of Stylish as it latter [collects websites you visit](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/).
+I use [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) on Chrome instead of Stylish as the latter [collects websites you visit](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/).
 
 On Safari I use [Safari Stylish](http://sobolev.us/stylish/).
 

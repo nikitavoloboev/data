@@ -13,8 +13,8 @@ I try to be methodical in working and doing things. And I use the best tools and
 
 ## Task tracking
 - [2Do](../macOS/apps/2do.md) - Personal day-to-day tasks. Every task is actionable.
-- [Bee](https://www.neat.io/bee/) - GitHub issues. All issues I want to work on soon are put into __Next__ queue and I work through each one, one by one.
 - [Trello](../macOS/apps/trello.md) - Public and personal boards used for different projects centered around my one [Focus](../focusing/focusing.md) board.
+- [Bee](https://www.neat.io/bee/) - GitHub issues. All issues I want to work on soon are put into __Next__ queue and I work through each one, one by one.
 
 ## Time management
 - [Fantastical](../macOS/apps/fantastical.md) - I plan work for the entire day ahead and my day is primarily guided by the events I create. I use __Week__ view with __5 days__ from current day shown in the app. This gives me a perspective on what deadlines I have soon to complete and I can adjust my events as necessary and plan accordingly.

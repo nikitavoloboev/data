@@ -11,3 +11,6 @@ In short, it can be summed down to this:
 - It can be all too easy to forget your audience has no idea what you’re talking about beyond what you tell them.
 - When proposing feature requests, _"for me"_ is never a good argument for a feature request.
 	- If I want someone to add a feature to their software, show how it would be useful to lots of users.
+
+## Links
+- [StackOverflow First, GitHub Issues Second, and Emails Last](https://yihui.name/en/2017/08/so-gh-email/)
