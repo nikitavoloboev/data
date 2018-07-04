@@ -33,7 +33,7 @@ Started focusing on mindfulness and minimalism and using only things that bring 
 - (28) For now I am focusing on beating my biggest bad habit. Getting distracted. I am channeling my focus for 90 min at a time. With small breaks in-between and I do feel I am getting better and better at separating news & fun from focused work.
 
 ## Photos
-![](https://scontent-ams3-1.cdninstagram.com/vp/f31a8d90a3b19d084b8df84ccf718c37/5B35DA2F/t51.2885-15/e35/28428181_175665736388402_1209533580204572672_n.jpg)
+![](https://scontent-ams3-1.cdninstagram.com/vp/2b1f8a119d2bbdf25bd3419ac43b4a44/5BD40E2F/t51.2885-15/e35/28428181_175665736388402_1209533580204572672_n.jpg?efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV9pZyJ9)
 > [(2)](https://www.instagram.com/p/Bf0_7fIjhds/)
 
 ![](https://scontent-ams3-1.cdninstagram.com/vp/0a6652613ef41a45c763815abb5f5a2f/5B3D053E/t51.2885-15/e35/28753104_368914760244266_5769848224948944896_n.jpg)

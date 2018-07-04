@@ -16,9 +16,6 @@ The number between brackets shows the year I wrote the article in. Articles with
 - [Mind map everything (2016) 🌟](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44) - My approach to indexing my own knowledge in a mind map format for fast retrieval and understanding.
 - [Write once, never write again (2017) 🌟](https://medium.com/@NikitaVoloboev/write-once-never-write-again-c2fa1f6c4e8) - How to save time writing with Typinator and Keyboard Maestro.
 
-## Web
-- [The best kind of web (2017)](https://t.co/FTtusd4336) - How you can personalize and improve your browsing experience.
-
 ## Code
 - [Insta cloning (2017) 🌟](https://medium.com/@NikitaVoloboev/insta-cloning-ff5f38eb1d32) - How to quickly clone and open the repository in your favorite editor.
 
