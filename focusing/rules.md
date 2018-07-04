@@ -164,11 +164,11 @@ Some simple rules to follow for myself doing things.
 - Be mindful of the data fingerprint I leave from using a service. If the service disregards my privacy and brings me no value. Don't use it.
 
 ## Adding resources (links)
-- When adding resources and bookmarks. Priorotize adding them to LA curated lists first and LA itself (not Trello). The goal of the wiki is to mostly contain my own notes and references.
+- When adding resources and bookmarks. Prioritize adding them to LA curated lists first and LA itself (not Trello). The goal of the wiki is to mostly contain my own notes and references.
 	- The resources should be moderated and extended by the community through clear guidelines.
 
 ## Dotfiles
-- Comment all my aliases briefly saying what they do. Comment all zsh functions. Be mindful that I can then search through these functions and aliases later.
+- Comment all my aliases briefly saying what they do. Comment all Zsh functions. Be mindful that I can then search through these functions and aliases later.
 
 ## Documentation
 - Practice self documentation. Where possible, document things inline in the code base or app itself in some way. Don't duplicate things.
@@ -191,7 +191,7 @@ Some simple rules to follow for myself doing things.
 - Prefix variable names by action (i.e. EDIT/OPEN/ALFRED). Each variable name should be descriptive.
 
 ## Alfred
-- Keyword triggers should be one string (no spaces). Try to make keyword be semantically appropriate to workflow and easy to memorise and type.
+- Keyword triggers should be one string (no spaces). Try to make keyword be semantically appropriate to workflow and easy to memorize and type.
 - Name external triggers with spaces between words (lowercased).
 - Release all my workflows (that have no sensitive information) either in [small workflows](https://github.com/nikitavoloboev/small-workflows) or standalone if they contain quite a bit of code.
 - Name all modifier triggers (uppercased).
@@ -297,7 +297,7 @@ Some simple rules to follow for myself doing things.
 	- 5:30AM - Wake up.
 	- 10:00PM - Sleep.
 - Sleep for ~ 7 hours each day.
-- No macbook in bed. No phone in the morning before waking up.
+- No Mac/phone in bed in the the morning.
 
 ## Timing
 - Minimize _News_ time and aim at __< 1 hour News time__ a day. Ideally less. Block everything that is distracting when working.

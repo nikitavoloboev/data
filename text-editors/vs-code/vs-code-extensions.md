@@ -8,7 +8,7 @@ Below is a list of extensions I use.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easilly build and deploy containerized applications from VS Code.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.
-- [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative url paths from files in the current workspace.
+- [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative URL paths from files in the current workspace.
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize VS Code settings across multiple machines using Github Gist.
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
 - [Advanced New File](https://marketplace.visualstudio.com/items?itemName=dkundel.vscode-new-file) - Create new files quickly.
@@ -91,10 +91,10 @@ Below is a list of extensions I use.
 - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 
 ## R
-- [R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) - Support for R language(run,snippet, lint,R documantation,R Markdown).
+- [R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) - Support for R language(run,snippet, lint,R documentation,R Markdown).
 
 ## CSS
-- [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [stylelint](https://stylelint.io/).
+- [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [Stylelint](https://stylelint.io/).
 
 ## Elixir
 - [ElixirLS](https://github.com/JakeBecker/vscode-elixir-ls) - Elixir support and debugger.

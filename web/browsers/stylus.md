@@ -33,7 +33,7 @@ Below are themes I love using with it.
 ## [Lobsters Dark](https://userstyles.org/styles/136068/neo-dark-lobsters)
 ![](https://i.imgur.com/nCjge7A.png)
 
-I also use [WikiWand](http://www.wikiwand.com) as my wiki with dark mode:
+I also use [WikiWand](http://www.wikiwand.com) as my wiki dark mode:
 
 ![](https://i.imgur.com/LdmPoF7.png)
 

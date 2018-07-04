@@ -24,7 +24,7 @@ Google, DuckDuckGo and other search engines are phenomenal in how they solve thi
 
 Together with [Learn Anything](https://learn-anything.xyz/), you have all the superpowers of this world to create anything and everything. Things that didn't exist before. Ideas and thoughts that weren't thought of before.
 
-In addition to Learn Anything, I also help curate [many curated lists of resources and links](https://github.com/learn-anything/curated-lists#readme). I then parse these lists and access them from [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) worlflow. These lists include:
+In addition to Learn Anything, I also help curate [many curated lists of resources and links](https://github.com/learn-anything/curated-lists#readme). I then parse these lists and access them from [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) workflow. These lists include:
 - [Books](https://github.com/learn-anything/books#interesting-books-) - Both free and paid.
 - [Courses](https://github.com/learn-anything/courses#interesting-courses-)
 - [Blogs](https://github.com/learn-anything/blogs#interesting-blogs-)

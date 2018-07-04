@@ -15,7 +15,7 @@ I also open any of my most used websites using [KM macros](../../macOS/apps/keyb
 - [AdGuard](https://adguard.com/en/adblock-adguard-safari.html) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
 - [WikiWand](http://www.wikiwand.com) - Wiki UI refinement (less noise and focus on content + night mode).
 - [Stylish](http://sobolev.us/stylish/) - Allows for local customizations of various websites. [Themes I use](../../web/browsers/stylish.md) with it.
-- [Nightlight](https://github.com/Gofake1/Nightlight) - In the case where there is no Stylish theme available, you can turn on a permanenet night theme mode with this extension. It attempts to bring night theme mode to websites that don't natively support it.
+- [Nightlight](https://github.com/Gofake1/Nightlight) - In the case where there is no Stylish theme available, you can turn on a permanent night theme mode with this extension. It attempts to bring night theme mode to websites that don't natively support it.
 - [Octotree](https://github.com/buunguyen/octotree) - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 - [Reddit Enhancement Suite ](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - A ton of amazing additions to the [Reddit](http://www.reddit.com/) website.
 - [Hckr News](https://hckrnews.com/about.html#extensions) - An interface change to [hacker news](https://news.ycombinator.com/) focusing on content and reducing visual noise.
@@ -24,7 +24,7 @@ I also open any of my most used websites using [KM macros](../../macOS/apps/keyb
 - [1Password](https://agilebits.com/onepassword/extensions) - [1Password](https://1password.com) is a phenomenal password manager, this extension just gives a seamless interaction of it with the browser.
 - [GitHub Highlight Selected](https://github.com/Nuclides/github-highlight-selected) - Highlights selected word in GitHub source view like Sublime Text.
 - [Select](https://github.com/makoni/select-like-a-boss-for-safari) - Allows you to select text inside links.
-- [Translate](http://sidetree.com/extensions.html#Translate) - Automatically translate entire webpages into your prefered language as you browse.
+- [Translate](http://sidetree.com/extensions.html#Translate) - Automatically translate entire webpages into your preferred language as you browse.
 - [Pixave](http://www.littlehj.com/Pixave.safariextz) - Extension for [Pixave](http://www.littlehj.com/mac/) app.
 - [JSON Formatter](https://github.com/rfletcher/safari-json-formatter) - Makes JSON documents that you open with the browser 'human readable' by formatting them nicely.
 

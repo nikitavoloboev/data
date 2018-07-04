@@ -7,7 +7,7 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage my plugins. 
 - [Wakatime](https://github.com/sobolevn/wakatime-zsh-plugin)
 - [Bd](https://github.com/Tarrasch/zsh-bd) - Jump back to a specific directory, without doing `cd ../../..`.
 - [Zsh completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
-- [Zsh autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh.
+- [Zsh autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for Zsh.
 - [FZF](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
 - [Zsh history substring search](https://github.com/zsh-users/zsh-history-substring-search) - ZSH port of Fish history search.
 - [Zsh syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
@@ -17,7 +17,7 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage my plugins. 
 
 ## Nix
 - [ZSH Completions for Nix and NixOS](https://github.com/spwhitt/nix-zsh-completions) - ZSH Completions for Nix.
-- [Zsh Nix Shell](https://github.com/chisui/zsh-nix-shell) - Use zsh as the default nix-shell shell.
+- [Zsh Nix Shell](https://github.com/chisui/zsh-nix-shell) - Use Zsh as the default nix-shell shell.
 
 # Interesting (not using)
 ## Utility

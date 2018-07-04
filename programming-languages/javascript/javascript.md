@@ -5,7 +5,7 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 
 ## Notes
 - [You can define and run the function straight away by enclosing it in parenthesis and adding empty () after](https://forum.keyboardmaestro.com/t/javascript-assistance/8331/2)
-- In Javascript, a type is a runtime tag describing the actual kind of data you have at runtime.
+- In JavaScript, a type is a runtime tag describing the actual kind of data you have at runtime.
 
 ## Links
 - [2017 JavaScript Rising Stars](https://risingstars.js.org/2017/en/)

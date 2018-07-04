@@ -40,7 +40,7 @@ Some simple processes to follow when doing things.
 ## Write a book
 1. Know what I want to write about. Write an outline.
 2. Write the book. Refactor continuously.
-2. Publish on [Leanpub](https://leanpub.com/).
+2. Publish on [LeanPub](https://leanpub.com/).
 
 ## Read books
 1. Read the book. Highlight important parts.

@@ -7,7 +7,7 @@ I made my own [Monokai theme](https://github.com/nikitavoloboev/my-mac-os/tree/m
 
 ![](https://i.imgur.com/xATjY1S.png)
 
-It goes well with [Pure zsh theme](https://github.com/sindresorhus/pure) and [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
+It goes well with [Pure Zsh theme](https://github.com/sindresorhus/pure) and [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
 
 ![](https://i.imgur.com/WQNfyfO.png)
 

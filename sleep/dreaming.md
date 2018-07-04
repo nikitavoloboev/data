@@ -13,7 +13,7 @@ In order to have lucid dreams you need two do three things consistently:
 	- Throughout the day, ask yourself whether you are currently dreaming and do a *reality check*. One of the most effective checks is to block your nose and try to breathe through it. In a dream you should be able to feel air coming in and out through the nose even if it is physically blocked.
 	- Another effective check is to try to jump very high with an intention to fly. In a dream you should be at least be able to levitate a bit if not fly all together. Do that very often throughout the day so its ingrained in your memory as a kind of habit. This way you will repeat this reality check unconsciously when you will dream.
 3. Practice staying lucid when dreaming.
-	- First time you will realise you are indeed in a dream, you will most likely wake up straight away because you will be excited that you are indeed lucid and in a dream.
+	- First time you will realize you are indeed in a dream, you will most likely wake up straight away because you will be excited that you are indeed lucid and in a dream.
 	- You can prevent this by trying to focus on something inside the dream like rubbing your hands together very fast or spinning. This often makes you gain more control of the lucid dream. You will also be able to stay in a lucid dream longer by simply having more lucid dreams and more practice.
 
 ## Personal workflow

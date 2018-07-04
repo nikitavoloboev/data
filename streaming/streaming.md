@@ -1,7 +1,7 @@
 # Streaming
 I am thinking of starting streaming some of the things I am doing like programming but maybe some other things in the future too.
 
-Both [Twitch](https://go.twitch.tv) and [YouTube](https://www.youtube.com/) are great platorfoms for that.
+Both [Twitch](https://go.twitch.tv) and [YouTube](https://www.youtube.com/) are great platforms for that.
 
 Here are tools I use for streaming:
 1. [OBS](https://obsproject.com) for recording my laptop, audio and sometimes the camera.

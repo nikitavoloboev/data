@@ -7,15 +7,15 @@ I publish most of my work and make it open source for other people to use and re
 
 ## Notes
 - You can append `#readme` to GitHub repo URL to jump to the README of the repo. I use it all the time for curated lists of any kind and where README is the most important thing in the repo.
-- Selecting some text in a github comment and pressing `r` will make a reply of that text.
+- Selecting some text in a GitHub comment and pressing `r` will make a reply of that text.
 - [GitHub jump](https://github.com/lox/alfred-github-jump) workflow is one of the best things you can install to navigate GitHub like a God.
 	- I [slightly modified it](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to jump to different parts of the repo with modifiers like going to issues, releases, opening new issue or even cloning the repo instantly.
 - I can include media files like GIFs in the repository itself and then just reference them from readme to embed them.
-- I can include and mix in HTML in GitHub readme's. This is super useful for embedding images because you can customise `width` and `height` values to make the READMEs look a lot nice.
+- I can include and mix in HTML in GitHub readme's. This is super useful for embedding images because you can customize `width` and `height` values to make the READMEs look a lot nice.
 - I can tack in various GitHub related templates like `issue_template.md` and `pull_request_template.md` as well as `code_of_conduct.md` and even `contributing.md` under `.github` folder at the root of my project.
 
 ## Links
-- [This is my work-flow for contributing on Github](https://zimbatm.com/journal/2015/08/16/this-is-how-i-contribute-on-github/) - Shell centric workflow.
+- [This is my work-flow for contributing on GitHub](https://zimbatm.com/journal/2015/08/16/this-is-how-i-contribute-on-github/) - Shell centric workflow.
 - [ghb0t](https://github.com/jessfraz/ghb0t)
 - [Hub](https://github.com/github/hub) - Awesome wrapper over `git` command.
 - [GitHub release stats](http://www.somsubhra.com/github-release-stats/) - Find how many people have downloaded various GitHub releases of people.

@@ -2,7 +2,7 @@
 Currently I fast for 16 hours daily. With an 8 hour eating window in the morning. I often break my fast after my morning exercise (Gym/Tennis/Running).
 
 ## Notes
-- [Only eating between noon and 8pm helped me eliminate brain fog.](https://news.ycombinator.com/item?id=16491083)
+- [Only eating between noon and 8 PM helped me eliminate brain fog.](https://news.ycombinator.com/item?id=16491083)
 - [Fasting activates autophagy which is the body's process of cleansing at cell level. This is the major reason for health improvements related to it.](https://www.reddit.com/r/longevity/comments/8e3eov/is_there_actually_anything_out_on_the_market_that/)
 
 ## Links

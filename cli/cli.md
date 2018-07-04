@@ -4,5 +4,5 @@ I use [many CLI tools](https://gist.github.com/nikitavoloboev/3fbe13ce427132d029
 ## Links
 - [Awesome command line tools](https://github.com/learn-anything/command-line-tools#readme)
 - [Ask HN: What are your favorite terminal programs?](https://news.ycombinator.com/item?id=17011227)
-- [What's an awesome Linux/unix command that you wish someone had told you about earlier?](https://twitter.com/b0rk/status/993165679833567233)
+- [What's an awesome Linux/Unix command that you wish someone had told you about earlier?](https://twitter.com/b0rk/status/993165679833567233)
 - [Awesome Console Services](https://github.com/chubin/awesome-console-services#readme)

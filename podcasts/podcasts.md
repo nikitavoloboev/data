@@ -1,5 +1,5 @@
 # Podcasts
-I love listening to podcasts with [Overcast](https://overcast.fm) especially when commuting or travelling somewhere.
+I love listening to podcasts with [Overcast](https://overcast.fm) especially when commuting or traveling somewhere.
 
 My favorite podcasts currently are [Hello Internet](http://www.hellointernet.fm), [StackTrace](https://stacktracepodcast.fm/) and [Tim Ferris Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show).
 

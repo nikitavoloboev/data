@@ -10,7 +10,7 @@ I take this idea further and define these kind of hyper keys but for __every sin
 ## Sticky keys
 [This snippet](https://gist.github.com/b591b290c6a55ac47b19158c721415a4) makes `p` key into a modifier key. This only works for old Karabiner on El Captain. I am still not certain how it will look like in Sierra.
 
-You can probably use [this](https://github.com/tekezo/Karabiner-Elements/issues/926) to achieve this behaviour on Sierra but I have not tested it.
+You can probably use [this](https://github.com/tekezo/Karabiner-Elements/issues/926) to achieve this behavior on Sierra but I have not tested it.
 
 ## My personal Karabiner setup
 I share my Karabiner private.xml [here](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/private.xml). It is approximately 14,000 lines long so might take a bit of time to load. However I edit it in vim and vim handles this big file very easily. I comment out the necessary sections and jump to them with searches like `km def` for defining KM actions to map, `alfred def` for mapping Alfred triggers to run and `sticky ..` to jump between sticky key definitions.

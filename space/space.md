@@ -1,15 +1,15 @@
 # Space
 ## Notes
 - [Two points of space are considered the same point when the distance between them is zero.](https://www.reddit.com/r/askscience/comments/5sdyes/by_guessing_the_rate_of_the_expansion_of_the/ddedjcw/)
-- The universe doesn't expand into anything. No additional points of space are added -- whether finite or infinite, the universe is best modelled as a continuum (attempts to model space as discrete all seem to have problems) which means it has an uncountably infinite number of points. The expansion of space simply means that distances between any two given points increase over time.
+- The universe doesn't expand into anything. No additional points of space are added -- whether finite or infinite, the universe is best modeled as a continuum (attempts to model space as discrete all seem to have problems) which means it has an uncountably infinite number of points. The expansion of space simply means that distances between any two given points increase over time.
 	- Its like having an infinite Cartesian coordinate plane, then scaling it up by a factor of 2 and asking "what did it expand into?" It didn't expand into anything, it just scaled up by a factor of 2, that's all.
 - It hasn't been established that the universe came from the single point. That is still speculative, and there are numerous ideas, but not enough data to choose which (if any) are correct.
 	- We know that the universe was originally very very hot and very very dense.
 	- We don't know if it came from a point, or from another universe that collapsed, or if it just gets asymptotically smaller forever back in time.
 - Imagine the universe as an infinite grid. Now, if we reduce the space between each line to 0, the universe becomes a point. But it still has an infinite number of divisions, it's just that it's infinite * 0.
 	- No matter how small an increase you make, adding anything to that zero instantly gives you infinite, so yeah.
-	- Also thinking of it as an infinite grid might also help you conceptualise what it means for the universe to "expand". It's not expanding into anything, it's already infinite, it's just that the space between the demarcations are getting bigger.
-- Also thinking of it as an infinite grid might also help you conceptualise what it means for the universe to "expand". It's not expanding into anything, it's already infinite, it's just that the space between the demarcations are getting bigger. If the Universe is infinite then is always has and always will be.
+	- Also thinking of it as an infinite grid might also help you conceptualize what it means for the universe to "expand". It's not expanding into anything, it's already infinite, it's just that the space between the demarcations are getting bigger.
+- Also thinking of it as an infinite grid might also help you conceptualize what it means for the universe to "expand". It's not expanding into anything, it's already infinite, it's just that the space between the demarcations are getting bigger. If the Universe is infinite then is always has and always will be.
 
 ## Links
 - [Ultimate SpaceX Compilation 2003-2018](https://www.youtube.com/watch?v=ypzXOug3uPg&feature=youtu.be)

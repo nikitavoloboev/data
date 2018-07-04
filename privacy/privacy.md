@@ -1,7 +1,7 @@
 # Privacy
 I try to be aware of my digital fingerprint on the Internet. Who owns the data I create and the data traces I leave.
 
-I made a [repository](https://github.com/nikitavoloboev/privacy-respecting#readme) to share all the various alternatives to popular often centralised and _free_ services that are available. And I wrote an [article](https://medium.com/@NikitaVoloboev/like-a-dog-on-a-leash-c0cdb8839079) with some of my thoughts on the matter.
+I made a [repository](https://github.com/nikitavoloboev/privacy-respecting#readme) to share all the various alternatives to popular often centralized and _free_ services that are available. And I wrote an [article](https://medium.com/@NikitaVoloboev/like-a-dog-on-a-leash-c0cdb8839079) with some of my thoughts on the matter.
 
 I also have deep interest in [Differential privacy](http://www.wikiwand.com/en/Differential_privacy) and [Homomorphic encryption](http://www.wikiwand.com/en/Homomorphic_encryption).
 

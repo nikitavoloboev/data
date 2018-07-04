@@ -22,7 +22,7 @@ Here is a list of various things I track for my own use and reference.
 
 ## Code
 - [WakaTime](https://wakatime.com/@nikivi) - Ratio of different programming languages I used this week together with the editors I used.
-- [Codepen collections](https://codepen.io/nikitavoloboev/collections/popular/)
+- [CodePen collections](https://codepen.io/nikitavoloboev/collections/popular/)
 
 ## Games
 - [Games (Wiki)](../games/games.md) - Games I played and my thoughts on them together with my favorite games of all time.

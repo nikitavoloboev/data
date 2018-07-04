@@ -2,9 +2,9 @@
 I love software and non software tools that help me in some way.
 
 ## Useful
-- [Gravatar](https://en.gravatar.com/) - Attach an image to an email and websites supporting gravatar will simply pick up the image you specified.
+- [Gravatar](https://en.gravatar.com/) - Attach an image to an email and websites supporting Gravatar will simply pick up the image you specified.
 - [Calendly](https://calendly.com/) - Schedule meetings.
-- [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining styleguides easy.
+- [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining style guides easy.
 - [UFree](http://ufr.ee/) - Sort out what day to meet.
 - [Updwn](http://updwn.co/) - See what everybody thinks.
 - [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.

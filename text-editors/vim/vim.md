@@ -3,7 +3,7 @@ The best text editing experience you will ever get. It is worth learning it as y
 
 I use some kind of vim bindings in any app I use and if there is a vim plugin for the app, I often use it. I use vim editor often when connecting to remote sessions and when I need a console editor.
 
-I use [neovim](https://github.com/neovim/neovim) instead of vim and my vimrc can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). And [here](vim-plugins.md) are all the plugins I use with it.
+I use [Neovim](https://github.com/neovim/neovim) instead of vim and my vimrc can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). And [here](vim-plugins.md) are all the plugins I use with it.
 
 I also use a little trick where I change the cursor from thin block in insert mode to underline when in normal mode. This lets me quickly know which mode I am in.
 

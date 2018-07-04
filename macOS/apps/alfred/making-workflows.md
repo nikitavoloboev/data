@@ -19,7 +19,7 @@ I like to write all my workflows in Go language unless the workflow can be done 
 7. Inside my `alfred-..` directory I run `alfred link`. That creates a symlink between the workflow directory and where the actual workflow lies. This uses [alfred](https://godoc.org/github.com/jason0x43/go-alfred/alfred) CLI tool.
 8. Write my Go code inside `alfred-..` folder and when I want to compile it to run from Alfred, I run `alfred build`.
 9. Write the code and make a MVP. Not forgetting to add/change version number of my workflow.
-10. If I want to share the workflow with the world (which is usually always), I create a GitHub repository and push my workflow there, making sure that AwGo updating works so all the users can receieve future updates.
+10. If I want to share the workflow with the world (which is usually always), I create a GitHub repository and push my workflow there, making sure that AwGo updating works so all the users can receive future updates.
 
 ### Using Alfred builtin objects + some code
 1. Create a folder in `~/src/alfred/small-workflows`. Name the folder by workflow name, lowercased and separated by dashes without `alfred` prefix.

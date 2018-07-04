@@ -22,15 +22,15 @@ alfred		clones		forks		ideas		learn		orgs		practice	web
 ```
 
 ## ~/src/clones
-I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I [use km macro](https://medium.com/@NikitaVoloboev/insta-cloning-ff5f38eb1d32) that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/src/clones` and then open it in VS Code. I aexao have similar macros that will only clone the repo or clone the repo and open it in Sublime.
+I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I [use km macro](https://medium.com/@NikitaVoloboev/insta-cloning-ff5f38eb1d32) that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/src/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime Text.
 
-I then filter contents of the folder with [this workfow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true).
+I then filter contents of the folder with [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true).
 
 ## ~/src/forks
-If I forked something and I want to keep working on, I keep it inside `forks` folder.
+Forked by me repos that I want to keep working on, are kept inside `forks` folder.
 
 ## ~/src/orgs
-Inside this folder I keep all the things that are open source on GitHub sorted by organisation. In my case it's only [learn-anything](https://github.com/learn-anything/):
+Inside this folder I keep all the things that are open source on GitHub sorted by organization. In my case it's only [learn-anything](https://github.com/learn-anything/):
 
 ```Bash
 ~/src/orgs
@@ -69,7 +69,7 @@ go-learn	graphics-learn	ml-learn	react-learn	stats-learn
 ```
 
 ## ~/src/alfred
-All my Alfred workflows are placed there. And each one is symlinked either with [worklow install](https://gist.github.com/deanishe/35faae3e7f89f629a94e) or [Alfred CLI tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred) for Go workflows.
+All my Alfred workflows are placed there. And each one is symlinked either with [workflow install](https://gist.github.com/deanishe/35faae3e7f89f629a94e) or [Alfred CLI tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred) for Go workflows.
 
 ```Bash
 ~/src/alfred
@@ -79,7 +79,7 @@ alfred-awesome-lists	alfred-github		alfred-learn-anything	alfred-trello		small-w
 ```
 
 ## ~/src/curated
-Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-lists#readme) there where all edits to the `readme.md` files is automatically commited with [Hazel](../macOS/apps/hazel.md).
+Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-lists#readme) there where all edits to the `readme.md` files is automatically committed with [Hazel](../macOS/apps/hazel.md).
 
 ```bash
 ~/src/curated

@@ -26,7 +26,7 @@
 - [Nix: A Reproducible Setup for Linux and macOS](http://nmattia.com/posts/2018-03-21-nix-reproducible-setup-linux-macos.html)
 - [hnix](https://github.com/jwiegley/hnix) - Haskell re-implementation of the Nix expression language.
 - [Haskell & Nix](https://github.com/Gabriel439/haskell-nix)
-- [neat macOS nix darwin config.nix](https://github.com/LnL7/nix-darwin/blob/master/modules/examples/lnl.nix)
+- [neat macOS nix Darwin config.nix](https://github.com/LnL7/nix-darwin/blob/master/modules/examples/lnl.nix)
 - [Brian McKenna - Nix for Functional Systems](https://www.youtube.com/watch?v=mIxtBVKo7JE)
 - [Learning Nix by Example: Building FFmpeg 4.0](https://blog.kiloreux.me/2018/05/24/learning-nix-by-example-building-ffmpeg-4-dot-0/)
 - [nix-shell and Shebang Lines](http://iam.travishartwell.net/2015/06/17/nix-shell-shebang/)

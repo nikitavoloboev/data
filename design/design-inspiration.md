@@ -17,7 +17,7 @@ Here are few more things I liked, design wise.
 - [Alexander Käßner](http://www.alexkaessner.de/) - Amazing logos.
 
 ## Blogs
-- [Actual budget](https://dev.actualbudget.com/) - The deisgn is so clean.
+- [Actual budget](https://dev.actualbudget.com/) - The design is so clean.
 - [Seph](https://josephg.com/blog/)
 
 ## Personal pages
