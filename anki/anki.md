@@ -15,6 +15,7 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Anki works due to the exponential decay of memory](https://www.reddit.com/r/Anki/comments/75bzzc/anki_overwhelms_me/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=Anki) - The better you know a card, the less often that it'll be shown to you.
 
 ## Links
+- [Augmenting Long-term Memory (2018)](http://augmentingcognition.com/ltm.html)
 - [What are your personal Anki Tips?](https://www.reddit.com/r/Anki/comments/6npee3/what_are_your_personal_anki_tips/)
 - [Leitner method](https://drive.google.com/file/d/0BzlHy07nfEjOQ2hXWjU3LWpDdmc/view)
 - [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/articles/20rules)
