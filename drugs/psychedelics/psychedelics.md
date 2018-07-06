@@ -40,3 +40,4 @@ But as will all things, _moderation is key_. Or as in the case of psychedelics, 
 - [Joe Rogan Experience #1121 - Michael Pollan](https://www.youtube.com/watch?v=tz4CrWE_P0g) - Great episode.
 - [Separating Fact From Myth - Dr. David E. Nichols](https://www.youtube.com/watch?v=actb5xZU9nQ)
 - [Michael Pollan: "How to Change Your Mind" | Talks at Google](https://www.youtube.com/watch?v=KuhmZSFvhL0&ab_channel=TalksatGoogle)
+- [Sasha Shulgin - Plant Origins of the Phenethylamine and Tryptamine Psychedelics](https://www.youtube.com/watch?v=OxlhPnjdh4I)
