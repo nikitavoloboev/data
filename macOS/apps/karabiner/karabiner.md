@@ -7,13 +7,8 @@ For example you can make caps lock into an escape key when pressed once but if y
 
 I take this idea further and define these kind of hyper keys but for __every single key on my keyboard__. I like to call them _sticky keys_.
 
-## Sticky keys
-[This snippet](https://gist.github.com/b591b290c6a55ac47b19158c721415a4) makes `p` key into a modifier key. This only works for old Karabiner on El Captain. I am still not certain how it will look like in Sierra.
-
-You can probably use [this](https://github.com/tekezo/Karabiner-Elements/issues/926) to achieve this behavior on Sierra but I have not tested it.
-
 ## My personal Karabiner setup
-I share my Karabiner private.xml [here](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/private.xml). It is approximately 14,000 lines long so might take a bit of time to load. However I edit it in vim and vim handles this big file very easily. I comment out the necessary sections and jump to them with searches like `km def` for defining KM actions to map, `alfred def` for mapping Alfred triggers to run and `sticky ..` to jump between sticky key definitions.
+I share my Karabiner config [here](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.json). It is approximately 14,000 lines long so might take a bit of time to load. However I edit it in vim and vim handles this big file very easily. I comment out the necessary sections and jump to them with searches like `km def` for defining KM actions to map, `alfred def` for mapping Alfred triggers to run and `sticky ..` to jump between sticky key definitions.
 
 ## Notes
 - I can embed simultaneous key mappings inside sticky key definitions.
@@ -32,6 +27,7 @@ I share my Karabiner private.xml [here](https://github.com/nikitavoloboev/dotfil
 - [Karaconv](https://github.com/durka/karaconv) - Converter from Karabiner to Karabiner-Elements text configuration format.
 - [Cursor keys belong at the center of your keyboard](http://tonsky.me/blog/cursor-keys/)
 - [Sticky shift key example](https://github.com/rcmdnk/KE-complex_modifications/blob/master/docs/json/sticky.json)
+- [Karabiner KeyCodes and Modifiers](https://github.com/tekezo/Karabiner-Elements/issues/925)
 
 ## Interesting setups
 - [A. King](https://github.com/akork/karabiner/blob/master/karabiner.json)
