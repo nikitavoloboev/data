@@ -20,6 +20,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Incsearch](https://github.com/haya14busa/incsearch.vim) - Improved incremental searching.
 - [Easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed.
 - [Quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
+- [Prettier](https://github.com/prettier/vim-prettier) - Prettier support.
 
 ## Git
 - [Fugitive](https://github.com/tpope/vim-fugitive) - Git wrapper.

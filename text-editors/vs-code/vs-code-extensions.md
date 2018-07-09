@@ -6,7 +6,7 @@ Below is a list of extensions I use.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
-- [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easilly build and deploy containerized applications from VS Code.
+- [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easily build and deploy containerized applications from VS Code.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.
 - [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative URL paths from files in the current workspace.
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize VS Code settings across multiple machines using Github Gist.
@@ -39,6 +39,9 @@ Below is a list of extensions I use.
 ## Rust
 - [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Adds language support for Rust.
 
+## Ruby
+- [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) - Provides Ruby language and debugging support.
+
 ## Python
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Rich support for the Python language.
 
@@ -47,7 +50,7 @@ Below is a list of extensions I use.
 
 ## Git
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Visualize code authorship at a glance via Git blame annotations and code lens.
-- [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github) - Jump to a source code line in Github, Bitbucket, GitLab.
+- [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github) - Jump to a source code line in GitHub, Bitbucket, GitLab.
 
 ## Markdown
 - [Markdown](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Keyboard shortcuts, table of contents, auto preview and more.
