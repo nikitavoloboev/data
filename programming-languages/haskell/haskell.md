@@ -1,4 +1,6 @@
 # [Haskell](https://www.haskell.org)
+[The book of types](http://reasonablypolymorphic.com/types.pdf) is a pretty great intro to type systems and Type-Level Programming in Haskell.
+
 ## Notes
 - [Kinds are the types of types. Typeclasses are more like predicates or relations between types.](https://www.reddit.com/r/haskell/comments/8cdiql/isnt_a_typeclass_just_a_type_of_a_type/)
 - The fewer type parameters in a class, the better. Can you turn any into associated types? Can you split the class into two classes? Can you hive off some of the parameters into a superclass?

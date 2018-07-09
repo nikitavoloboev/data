@@ -5,6 +5,7 @@
 - [gjson](https://github.com/tidwall/gjson)
 - [ishell](https://github.com/abiosoft/ishell)
 - [progressbar](https://github.com/schollz/progressbar) - Basic thread-safe progressbar for Go apps.
+- [flagga](https://github.com/erizocosmico/flagga) - Extensible Go library for handling program configuration using flags.
 
 ## Web
 - [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
