@@ -1,12 +1,15 @@
 # Photography
 Still [learning](https://www.instagram.com/nikitavoloboev/).
 
-## Photographers I like
+## Photographers I love
 - [Brandon Woelfel](http://www.brandonwoelfel.com/photography-1/)
-- [Michael Kenna](http://www.michaelkenna.net/gallery.php?id=22)
-- [Kenneth Reitz](https://500px.com/kennethreitz)
+- [Michael Kenna](https://www.artsy.net/artist/michael-kenna)
 - [Simen Johan](http://www.simenjohan.com/x/index.html)
 - [Samuel Zeller](https://archive.samuelzeller.ch/) - His [Botanical](https://www.samuelzeller.ch/botanical) project is awesome.
+
+## Interesting
+- [Kenneth Reitz](https://500px.com/kennethreitz)
+- [Daniel Zeller](https://www.artsy.net/artist/daniel-zeller)
 
 ## Links
 - [Top 25 Landscape Photographers of 2017](https://www.capturelandscapes.com/top-25-landscape-photographers-of-2017/)
