@@ -248,10 +248,6 @@ Some simple rules to follow for myself doing things.
 ## Ship app
 - Prioritize repos in the sidebar based on priority/urgency.
 
-## [Thinking](../research/solving-problems.md) map
-- Only have actual things I am struggling to work through there that need slicing (breaking down of smaller tasks).
-- Keep the list to maximum of 5 main nodes in there. If there is more, break them down and move them to either 2Do or GitHub issues and only keep things I am working on.
-
 ## Reading books
 - Make notes as I read books.
 - Review each book I read on Goodreads and add it to an appropriate category. Add the review to [books](../books/books.md) after.
