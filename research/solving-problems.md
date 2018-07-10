@@ -10,7 +10,7 @@ For me solving a problem usually involves going through these four steps:
 4. Solve the problem.
 
 ## 1. Find what the problem is
-Most often the problem of solving some task is simply due to you not clearly expressing the task and what it tries to do/solve. I get the majority the tasks I work on from my task manager [2Do](../macOS/apps/2do.md), GitHub issues and `TODO:`'s in the code. And I make sure that I understand fully well what it is the problem actually is before solving it.
+Most often the difficulty of solving some task is simply due to it not being clearly expressed for you. I get the majority the tasks I work on from my task manager [2Do](../macOS/apps/2do.md), GitHub issues and `TODO:`'s in the code. And I make sure that I understand fully well what it is the problem actually is before solving it.
 
 ## 2. Break the problem down to smaller parts
 Once I found and understand what it is I want to solve. I look into it more and see if I can try to break down the problem into smaller parts I can work on. Often times this might not be necessary and I can start working on the task immediately but in times when the task I need to solve is either hard or stated too vaguely, I break it down into further into parts I can pick up and work on individually.

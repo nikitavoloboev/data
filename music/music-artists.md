@@ -64,7 +64,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Jimi Hendrix](https://soundcloud.com/jimihendrix)
 - [Fakear](https://soundcloud.com/fakear)
 - [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ)
-- [Hot Sugar](https://soundcloud.com/hotsugar)
+- [Hot Sugar](https://soundcloud.com/hotsugar) - [Coffin the clouds](https://www.youtube.com/watch?v=0C5d7Bkaepc)
 - [Ólafur Arnalds](https://soundcloud.com/olafur-arnalds)
 - [SOHN](https://soundcloud.com/sohn)
 - [Kyson](https://soundcloud.com/kyson)
