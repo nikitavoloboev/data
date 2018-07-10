@@ -8,7 +8,7 @@ For example you can make caps lock into an escape key when pressed once but if y
 I take this idea further and define these kind of hyper keys but for __every single key on my keyboard__. I like to call them _sticky keys_.
 
 ## My personal Karabiner setup
-I share my Karabiner config [here](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.json). It is approximately 14,000 lines long so might take a bit of time to load. However I edit it in vim and vim handles this big file very easily. I comment out the necessary sections and jump to them with searches like `km def` for defining KM actions to map, `alfred def` for mapping Alfred triggers to run and `sticky ..` to jump between sticky key definitions.
+I generate my Karabiner config with a ruby script [here](https://github.com/nikitavoloboev/karabiner-generator). It contains all the necessary functions needed to make sticky key and simultaneous key definitions work.
 
 ## Notes
 - I can embed simultaneous key mappings inside sticky key definitions.

@@ -1,13 +1,13 @@
 # Photography
 Still [learning](https://www.instagram.com/nikitavoloboev/).
 
-## Photographers I love
+## Favorite photographers
 - [Brandon Woelfel](http://www.brandonwoelfel.com/photography-1/)
 - [Michael Kenna](https://www.artsy.net/artist/michael-kenna)
 - [Simen Johan](http://www.simenjohan.com/x/index.html)
 - [Samuel Zeller](https://archive.samuelzeller.ch/) - His [Botanical](https://www.samuelzeller.ch/botanical) project is awesome.
 
-## Interesting
+## Interesting photographers
 - [Kenneth Reitz](https://500px.com/kennethreitz)
 - [Daniel Zeller](https://www.artsy.net/artist/daniel-zeller)
 

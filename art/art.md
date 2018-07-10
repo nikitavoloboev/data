@@ -11,7 +11,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting/top/).
 - [Leland K Foster](http://www.lelandkfoster.com/)
 - [Android Jones](https://imgur.com/a/Xdeye)
 - [Ilya Kuvshinov](https://www.artstation.com/kuvshinov_ilya)
-- [Miles Johnston](https://www.instagram.com/miles_art/) - His [top art](https://www.reddit.com/user/Miles___?sort=top).
+- [Miles Johnston](https://www.artsy.net/artist/miles-johnston) - His [Instagram](https://www.instagram.com/miles_art/) and [top art](https://www.reddit.com/user/Miles___?sort=top).
 - [James Jean](https://www.instagram.com/jamesjeanart/?hl=en)
 - [Dániel Taylor](https://www.instagram.com/mrtaylordani/)
 - [Yanjun Cheng](https://www.artstation.com/yjc)

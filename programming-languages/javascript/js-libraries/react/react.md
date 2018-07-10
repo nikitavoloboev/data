@@ -21,3 +21,4 @@ The core premise for React is that UIs are simply a projection of data into a di
 - [React from Zero](https://github.com/kay-is/react-from-zero#readme) - Simple (99% ES2015 less) tutorial for React.
 - [React is just JavaScript (2018)](https://medium.com/yld-engineering-blog/react-is-just-javascript-88600553269c)
 - [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap#readme)
+- [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/)
