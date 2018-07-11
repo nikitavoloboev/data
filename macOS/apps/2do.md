@@ -1,7 +1,7 @@
 # [2Do](https://www.2doapp.com/)
 I love GTD methodology. This app is phenomenal with helping me organize my tasks. Here is how my sidebar looks:
 
-![](https://i.imgur.com/URuzerx.png)
+![](https://i.imgur.com/ZrFh5QF.png)
 
 It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 
@@ -10,9 +10,7 @@ It also has global quick add with a hotkey. Together with lists, priorities, pow
 ## Managing tasks with tags
 My main way of managing tasks is with __tags__. This lets me give scope to the task I want to complete and lets me filter through the many thousands of tasks I have in my __Inbox__.
 
-I create many smart lists of most common tags I want to jump to. I use `J` key and macros that activate the URL scheme to jump between the lists. Here is how my sidebar of these smart lists looks in full:
-
-![](https://i.imgur.com/xEhx5Xj.png)
+I create many smart lists of most common tags I want to jump to. I use `J` key and macros that activate the URL scheme to jump between the lists.
 
 I also add time estimates to tasks like so:
 
@@ -23,6 +21,11 @@ I don't add time estimates to all tasks but I try to add it where possible.
 I share the same philosophy of `Always` and `Temporary` projects as I have in my [Focus Trello board](../../focusing/focusing.md).
 
 Given my growing collection of tasks I am yet to do. Some 3,000 pending tasks. I decided to share [some tasks I keep in 2Do publicly](../../other/2do-tasks.md).
+
+And here are the other tags I use:
+![](https://i.imgur.com/pH5spNb.png)
+
+![](https://i.imgur.com/2GEskG2.png)
 
 ## URL Scheme
 [2Do URL schemes documentation](https://www.2doapp.com/kb/article/url-schemes.html) has everything. I use these URL schemes currently:
