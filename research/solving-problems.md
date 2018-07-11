@@ -10,12 +10,12 @@ For me solving a problem usually involves going through these four steps:
 4. Solve the problem.
 
 ## 1. Find what the problem is
-Most often the difficulty of solving some task is simply due to it not being clearly expressed for you. I get the majority the tasks I work on from my task manager [2Do](../macOS/apps/2do.md), GitHub issues and `TODO:`'s in the code. And I make sure that I understand fully well what it is the problem actually is before solving it.
+Most often the difficulty of solving some task is simply due to it not being clearly expressed for me. I get the majority the tasks I work on from my task manager [2Do](../macOS/apps/2do.md), GitHub issues and `TODO:`'s in the code. And I make sure that I understand fully well what the problem actually is before solving it.
 
 ## 2. Break the problem down to smaller parts
-Once I found and understand what it is I want to solve. I look into it more and see if I can try to break down the problem into smaller parts I can work on. Often times this might not be necessary and I can start working on the task immediately but in times when the task I need to solve is either hard or stated too vaguely, I break it down into further into parts I can pick up and work on individually.
+Once I found and understand what it is I want to solve. I look into it more and see if I can try to break down the problem into smaller parts I can work on. Often times this might not be necessary and I can start working on the task immediately but in times when the task I need to solve is either hard or stated too vaguely, I break it down further into parts that I can pick up and work on individually.
 
-Often times I do the decoupling of the task inside the app itself be it a code editor, [2Do](../macOS/apps/2do.md) or [Bee app](https://www.neat.io/bee/). Other times I can use simple pen and paper or a white board or a [MindNode](../macOS/apps/mindnode.md) mind map I made called __Think__. Which I use to brainstorm things and break down the connections between different things in a visual way.
+Often times I do the decoupling of the task inside the app itself, be it a code editor, [2Do](../macOS/apps/2do.md) or [Bee app](https://www.neat.io/bee/). Other times I can use simple pen and paper or a white board or a [MindNode](../macOS/apps/mindnode.md) mind map I made called __Think__. Which I use to brainstorm things and break down the connections between different things in a visual way.
 
 I also sometimes use it as a way of breaking down further complex tasks. Like so:
 ![](https://i.imgur.com/2QyiMZN.png)

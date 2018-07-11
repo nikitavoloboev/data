@@ -312,10 +312,10 @@ Some simple rules to follow for myself doing things.
 - Have full control over what is going on my system to a reasonable degree. Don't use/install things I do not actually need.
 
 ## Email
-- Do emails in burst. Bring my inbox to 0 every day. Action on each email.
+- Do emails in burst. Bring my Inbox to 0 every day. Action on each email.
 - Archive emails if I want them to be searchable later. Delete emails otherwise.
-- Star emails that are important and I may need to reference late.
-- Sort newsletters automatically into groups for later viewings.
+- Star emails that are important and I may need to reference later.
+- Sort newsletters automatically into groups for later viewing.
 - Only show relevant emails to me in Inbox.
 - Label all emails accordingly (if it is appropriate).
 
