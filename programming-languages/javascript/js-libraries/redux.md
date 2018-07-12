@@ -9,3 +9,4 @@ So:
 
 ## Links
 - [Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38)
+- [React Redux Style guide](https://github.com/iraycd/React-Redux-Styleguide#readme)

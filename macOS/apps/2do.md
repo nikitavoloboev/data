@@ -23,6 +23,7 @@ I share the same philosophy of `Always` and `Temporary` projects as I have in my
 Given my growing collection of tasks I am yet to do. Some 3,000 pending tasks. I decided to share [some tasks I keep in 2Do publicly](../../other/2do-tasks.md).
 
 And here are the other tags I use:
+
 ![](https://i.imgur.com/pH5spNb.png)
 
 ![](https://i.imgur.com/2GEskG2.png)
