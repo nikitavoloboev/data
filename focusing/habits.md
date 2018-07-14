@@ -5,6 +5,7 @@ I use [Streaks](https://streaksapp.com) iOS app to track any new habits I want t
 - No sugary drinks. (2017)
 - Track all time in [Timing](../macOS/apps/timing.md). (2018)
 - Take Vitamin B12 & D3 in morning. (2018 June)
+- Brush teeth (2018 July)
 
 ## Current habits
 ![](https://i.imgur.com/ZbIjPxp.jpg)

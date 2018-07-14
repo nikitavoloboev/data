@@ -43,3 +43,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 
 ## Links
 - [On learning to enjoy things](https://ryn.works/2018/03/12/on-learning-to-enjoy-things/)
+- [Self Care Tech](http://selfcare.tech/) - Repository of self-care resources for developers & others.

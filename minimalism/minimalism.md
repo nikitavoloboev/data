@@ -18,3 +18,7 @@ I usually use [FB Market Place](https://facebook.com/marketplace) to sell off th
 ## Notes
 - [Will this item provide value? If not, get rid of it.](https://www.reddit.com/r/minimalism/comments/846drx/extreme_minimalism_a_trend/)
 - I've found the easiest stuff to organize is the stuff I no longer have.
+- [The core of minimalism is having more by owning less (have more value while having less things).](https://www.reddit.com/r/minimalism/comments/8xnssq/have_you_ever_tried_to_incorporate_minimalism/)
+- [Minimalism, at it's core, should not be defined by the number of items you own but by our relationship with material goods. In our society, our identity is linked to the things that we own. We are the books on the shelf and the pictures in a box. Just throwing away those items, does not break that dependance.](https://www.reddit.com/r/MacOS/)
+	- When we break our dependance on material objects, we naturally find no use for the things that we do not need. Only when we extinguish that need to own things can we call ourselves minimalists. Otherwise, we are just trying to impress. If there is struggle, then there is dysfunction.
+- So many people are just replacing their attachment and dependency with tangible objects into attachment and dependency with the "idea" of minimalism. It morphs into someone's entire identity. It's just trading one addiction with another.

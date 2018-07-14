@@ -1,7 +1,7 @@
 # Backups
 Currently only use encrypted Time Machine backups.
 
-But in future, I hope to start using [Arq](https://www.arqbackup.com) to make encrypted backups to [Backblaze](https://www.backblaze.com/).
+But in future, I hope to start using [Arq](https://www.arqbackup.com) to make encrypted backups to [Amazon Glacier](https://www.backblaze.com/) in addition to Time Machine.
 
 I love the fact that I can set up any new machine or phone to use my `exact` and perfect setup without any cruft in seconds.
 

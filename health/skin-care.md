@@ -6,5 +6,8 @@ I wear sunblock when going out into sunny areas. And I never touch my face with 
 Frowning is also quite bad for your skin. So best thing you can do is be happy and smile.
 
 ## Notes
-- [Some tips on skin care](https://www.reddit.com/r/NoStupidQuestions/comments/73pimh/im_currently_22_what_should_i_start_doingstop/dns7hnb/)
 - [Tanning is not good for your skin](https://www.youtube.com/watch?v=o9BqrSAHbTc).
+
+## Links
+- [Some tips on skin care](https://www.reddit.com/r/NoStupidQuestions/comments/73pimh/im_currently_22_what_should_i_start_doingstop/dns7hnb/)
+- [Minimal skin care routines](https://www.reddit.com/r/minimalism/comments/8y94c8/minimalist_beauty/)
