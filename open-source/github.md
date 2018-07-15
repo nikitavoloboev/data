@@ -22,3 +22,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub contributions chart](https://github-contributions.now.sh/) - Show user's contribution charts across the years.
 - [Fork cleaner](https://github.com/caarlos0/fork-cleaner) - Cleans up old and inactive forks on your GitHub account.
 - [gitsome](https://github.com/donnemartin/gitsome) - Supercharged Git/GitHub command line interface.
+- [GitHub Trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily.
