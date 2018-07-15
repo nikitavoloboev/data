@@ -24,7 +24,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Git
 - [Fugitive](https://github.com/tpope/vim-fugitive) - Git wrapper.
-- [Gitgutter](https://github.com/airblade/vim-gitgutter) - Shows git diff in the gutter (sign column) and stages/undoes hunks.
+- [Signify](https://github.com/mhinz/vim-signify) - Show a diff using Vim its sign column.
 
 ## Deoplete
 - [Deoplete](https://github.com/Shougo/deoplete.nvim) - Asynchronous completion framework.
@@ -110,7 +110,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Git
 - [Gitv](https://github.com/gregsexton/gitv) - See Git branching history.
-- [Signify](https://github.com/mhinz/vim-signify) - Show a diff using Vim its sign column.
+- [Gitgutter](https://github.com/airblade/vim-gitgutter) - Shows git diff in the gutter (sign column) and stages/undoes hunks.
 
 ## Ruby
 - [Endwise](https://github.com/tpope/vim-endwise) - Wisely add "end" in ruby, endfunction/endif/more in vim script, etc.
