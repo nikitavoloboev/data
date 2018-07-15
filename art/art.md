@@ -5,7 +5,7 @@ I like to collect various beautiful art pieces as an Imgur album you can view [h
 
 I share different photographs and art pieces I like on [my Instagram page](https://instagram.com/prettiways).
 
-I also love [Pour Painting](https://www.reddit.com/r/PourPainting/top/).
+I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](https://www.reddit.com/r/glitch_art).
 
 ## Favorite artists
 - [Leland K Foster](http://www.lelandkfoster.com/)
