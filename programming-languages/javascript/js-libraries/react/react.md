@@ -21,3 +21,4 @@
 - [React is just JavaScript (2018)](https://medium.com/yld-engineering-blog/react-is-just-javascript-88600553269c)
 - [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap#readme)
 - [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/)
+- [Rogue.js](https://github.com/alidcastano/rogue.js) - Nearly invisible framework for creating server-rendered React applications.

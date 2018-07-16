@@ -15,3 +15,4 @@
 - [How to ace a phone interview](https://www.palantir.com/2012/09/how-to-ace-a-phone-interview/)
 - [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews#readme)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook#readme)
+- [Interview Map](https://github.com/KieSun/InterviewMap#readme) - A map that can help you make a better preparation for the next interview.
