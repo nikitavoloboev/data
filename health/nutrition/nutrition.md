@@ -3,7 +3,7 @@
 
 As for myself, I like to [follow these simple rules](../../focusing/rules.md#nutrition) in regards to my nutrition. I try to always cook my own food and I love exploring [new and interesting recipes](https://github.com/nikitavoloboev/recipes#readme) to cook which I add to [Paprika](https://www.paprikaapp.com).
 
-I eat at least two salads every day and take [few supplements](supplements.md). I track all the food I eat with [MyFitnessPal](https://www.myfitnesspal.com/).
+I eat at least one salad every day and take [few supplements](supplements.md). I track all the [food I eat](foods.md) with [MyFitnessPal](https://www.myfitnesspal.com/).
 
 ## Notes
 - Minimize high GI (glycemic index). It spikes blood sugar and insulin.
