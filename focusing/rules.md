@@ -351,6 +351,9 @@ Some simple rules to follow for myself doing things.
 ## Backups
 - Data that is not backed up is lost data. Automate backups.
 
+## macOS
+- Don't force empty trash. Have items in trash automatically be erased after a week.
+
 ## Trello
 - Share boards publicly that contain no sensitive or private information.
 - Order of importance for cards: __Watching__ -> __Next__ -> __Important__ -> No label.
