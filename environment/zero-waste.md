@@ -1,5 +1,5 @@
 # Zero waste
-Part of my [minimal living](minimalism.md) lifestyle requires that I use only what I need and nothing else.
+Part of my [minimal living](../minimalism/minimalism.md) lifestyle requires that I use only what I need and nothing else.
 
 It is one of the reasons why I stopped eating meat 5 years ago when I realized [how absurd it is for some animals to be born in some factory with every second of their life preplanned for them in advance](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl). Becoming more aware of the consequences my actions have on other living things and the planet itself changes you. It makes you question the things you do and why you do them.
 

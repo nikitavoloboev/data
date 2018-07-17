@@ -5,6 +5,8 @@ As for myself, I like to [follow these simple rules](../../focusing/rules.md#nut
 
 I eat at least one salad every day and take [few supplements](supplements.md). I track all the [food I eat](foods.md) with [MyFitnessPal](https://www.myfitnesspal.com/).
 
+I only drink water, tea or coffee. No sugar in food/drinks.
+
 ## Notes
 - Minimize high GI (glycemic index). It spikes blood sugar and insulin.
 - Eat many healthy fats. Avocados, Flax seed oil, etc.

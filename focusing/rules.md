@@ -19,7 +19,7 @@ Some simple rules to follow for myself doing things.
 
 ## Health
 - [Exercise](../fitness/fitness.md). Gym/Tennis/Run every morning.
-- Eat a [whole food, pescatarian diet](../health/nutrition/foods.md). [Fast](../health/nutrition/fasting.md) for 16 hours daily.
+- Eat a [whole food, pescatarian diet](../health/nutrition/nutrition.md). [Fast](../health/nutrition/fasting.md) for 16 hours daily.
 - Drink water and tea. No added sugar in drinks/food.
 - [Sleep](../sleep/sleep.md) at least 7 hours every day. Wake up & go to sleep at same time.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
@@ -80,6 +80,18 @@ Some simple rules to follow for myself doing things.
 - Delimit files that have spaces with `-` instead of `_`.
 - Use switch cases over long ifs.
 - Function name should describe what it does, not when it's run. Good function names summarize what happens inside.
+
+## Commenting
+- Comment over my code. Be mindful of not repeating things. Don't comment obvious things.
+- In comments, don't write __Will ..__. Just write what it will do. Remove unnecessary (filler) words.
+- Use imperative tense. Instead of _# Outputs_, use _# Output_.
+- Only add one space after the code for inline comments. Don't space them out.
+- Where appropriate, write a small comment on top of the file to describe the purpose of the file.
+
+## Finance
+- Track every purchase made with Actual. Put every purchase in its respective category.
+- Adhere to my budget that I set for each of the categories. If there is no budget left for eating out. Don't eat out.
+- Keep digital receipts of expensive purchases for warranty (scan it, if it's in paper).
 
 ## Share
 - Share everything I know and made.
@@ -172,14 +184,6 @@ Some simple rules to follow for myself doing things.
 
 ## Documentation
 - Practice self documentation. Where possible, document things inline in the code base or app itself in some way. Don't duplicate things.
-
-## Commenting
-- Comment over my code. Be mindful of not repeating things. Don't comment obvious things.
-- In comments, don't write __Will ..__. Just write what it will do. Remove unnecessary (filler) words.
-- Uppercase comments for consistency.
-- Use imperative tense. Instead of _# Outputs_, use _# Output_.
-- Only add one space after the code for inline comments. Don't space them out.
-- Write a small comment on top of the file to describe the purpose of the file. Where appropriate.
 
 ## Keyboard Maestro
 - All macro names are lowercased. Unless it is necessary.
@@ -323,11 +327,6 @@ Some simple rules to follow for myself doing things.
 ## Looking back
 - Don't say _Want to_. Instead say _Will_ in _Changes_. This applies more generally too, try be more proactive with anything I do. Intention counts.
 - Include all my Instagram posts in Photos. Link Twitter tweets, last.fm, movies seen.
-
-## Finance
-- Track every purchase made with Actual. Put every purchase in its respective category.
-- Adhere to my budget that I set for each of the categories. If there is no budget left for eating out. Don't eat out.
-- Keep receipts of expensive purchases for warranty.
 
 ## Shell
 - Install packages with [nix](../package-managers/nix.md) always. If package not available, then use brew or make a derivation myself.
