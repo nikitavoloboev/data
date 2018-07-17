@@ -299,6 +299,7 @@
 	- [DuckDuckGo](tools/duckduckgo.md)
 	- [IFTTT](tools/ifttt.md)
 	- [Dat](tools/dat.md)
+	- [Email](tools/email.md)
 - [Design](design/design.md)
 	- [Icons](design/icons.md)
 	- [Fonts](design/fonts.md)

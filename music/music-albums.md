@@ -10,3 +10,5 @@ A list of albums I like.
 - [Marcus D - Ryujin no Yume (2018)](https://www.youtube.com/watch?v=vd3geghSeJo)
 - [Fleetwood Mac - Rumors (1977)](https://www.youtube.com/watch?v=p6Fdm3-dnr0&list=PLcX_QGLREpvm_Y3WcoAeDXM9Igf-dlW7L)
 - [Substantial - The Garden (2018)](https://www.youtube.com/watch?v=6QWxDzXbKHA)
+- [Carbon Based Lifeforms - World Of Sleepers (2006)](https://www.youtube.com/watch?v=KQE29az48gM)
+- [Carbon Based Lifeforms - Derelicts (2017)](https://www.youtube.com/watch?v=5o_uF1L5l6o)
