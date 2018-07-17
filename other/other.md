@@ -33,3 +33,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The Atlas](https://www.theatlas.com/) - Search charts.
 - [SV Dictionary](http://svdictionary.com/)
 - [Ask HN: What's the best documentation you've ever read?](https://news.ycombinator.com/item?id=17399340)
+- [1Password for Open Source Projects](https://github.com/1Password/1password-teams-open-source#readme) - Get a free 1Password Teams membership for your open source project.

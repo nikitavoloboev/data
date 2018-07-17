@@ -147,6 +147,7 @@
 	- [Idris](programming-languages/idris/idris.md)
 	- [Agda](programming-languages/agda.md)
 	- [Coq](programming-languages/coq/coq.md)
+	- [Assembly](programming-languages/assembly.md)
 - [Data Science](data-science/data-science.md)
 - [Open Source](open-source/open-source.md)
 	- [GitHub](open-source/github.md)
