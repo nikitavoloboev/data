@@ -141,6 +141,7 @@
 		- [OCaml libraries](programming-languages/ocaml/ocaml-libraries.md)
 	- [C](programming-languages/c/c.md)
 	- [Lua](programming-languages/lua.md)
+	- [Ruby](programming-languages/ruby.md)
 	- [C++](programming-languages/cpp/cpp.md)
 	- [Idris](programming-languages/idris/idris.md)
 	- [Agda](programming-languages/agda.md)
