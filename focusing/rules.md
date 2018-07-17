@@ -318,6 +318,7 @@ Some simple rules to follow for myself doing things.
 - Sort newsletters automatically into groups for later viewing.
 - Only show relevant emails to me in Inbox.
 - Label all emails accordingly (if it is appropriate).
+- Don't erase trashed email manually. Erase trashed emails of over a month automatically.
 
 ## Looking back
 - Don't say _Want to_. Instead say _Will_ in _Changes_. This applies more generally too, try be more proactive with anything I do. Intention counts.
@@ -352,7 +353,7 @@ Some simple rules to follow for myself doing things.
 - Data that is not backed up is lost data. Automate backups.
 
 ## macOS
-- Don't force empty trash. Have items in trash automatically be erased after a week.
+- Don't force empty trash. Erase trashed items automatically after a week.
 
 ## Trello
 - Share boards publicly that contain no sensitive or private information.

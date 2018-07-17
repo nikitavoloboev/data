@@ -23,3 +23,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Fork cleaner](https://github.com/caarlos0/fork-cleaner) - Cleans up old and inactive forks on your GitHub account.
 - [gitsome](https://github.com/donnemartin/gitsome) - Supercharged Git/GitHub command line interface.
 - [GitHub Trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily.
+- [How to collaborate on GitHub](https://github.com/eonist/How-to-collaborate-on-github#readme) - Mini book about collaborating on GitHub.
