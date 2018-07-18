@@ -26,8 +26,8 @@ Some simple rules to follow for myself doing things.
 
 ## Work
 - [Do one thing at a time](../research/solving-problems.md). Resist temptations. Remove friction.
+- Deep focus. Minimize distractions. Say __no__ to things. Set constraints.
 - Center work around [Focus Trello Board](focusing.md). Make calendar events based on it.
-- Do deep work. Minimize distractions. Say __no__ to things. Set constraints.
 - Prioritize. Do important things first. Be clear on what I want to achieve. Think long term.
 - Think about the problem I want to solve. Don't give up. Don't rush things.
 - Always breathe fresh air. Don't stay indoors for long. Open windows and go outside on breaks.
@@ -50,7 +50,7 @@ Some simple rules to follow for myself doing things.
 - Look at where I spend my time in Timing and cut those out with Focus and scripts.
 - Less than 1 hour _News_ time every day.
 - Use one screen when coding. Much easier to context switch.
-- Don't listen to distracting music. Use [Noizio](http://noiz.io), [Oak](https://www.oakmeditation.com) or [Pure Focus](https://open.spotify.com/user/nikitavoloboev/playlist/2mriYMEK60P7T7XtQz9pDe) playlist.
+- Don't listen to distracting music. Use [Noizio](http://noiz.io), [Oak](https://www.oakmeditation.com) or [Focus](https://open.spotify.com/user/nikitavoloboev/playlist/2mriYMEK60P7T7XtQz9pDe) playlist.
 - Sit up right always. Never slouch.
 
 ## Learn

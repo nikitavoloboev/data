@@ -5,6 +5,9 @@ I am currently using Apple wireless keyboard and love it. I love the low key tra
 
 I am interested in other keyboards though. And might try some in the future.
 
+## Notes
+- Gateron Browns low key travel mech switches seem nice.
+
 ## Interesting keyboards
 - [Keyboardio](https://shop.keyboard.io)
 - [42](https://github.com/nglgzz/42) - Custom keyboard built by [Angelo](https://github.com/nglgzz).
