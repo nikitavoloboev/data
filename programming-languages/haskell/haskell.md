@@ -34,3 +34,4 @@
 - [Nix and Haskell in production](https://github.com/Gabriel439/haskell-nix)
 - [Revisiting Combinators by Edward Kmett](https://www.youtube.com/watch?v=PA1Fc7DNKtA)
 - [Haskell Programming From First Principles - Follow-up Resources](https://github.com/pushcx/hpffp-resources)
+- [Quchen's articles](https://github.com/quchen/articles)

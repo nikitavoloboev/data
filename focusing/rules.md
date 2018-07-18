@@ -19,15 +19,17 @@ Some simple rules to follow for myself doing things.
 
 ## Health
 - [Exercise](../fitness/fitness.md). Gym/Tennis/Run every morning.
-- Eat a [whole food, pescatarian diet](../health/nutrition/nutrition.md). [Fast](../health/nutrition/fasting.md) for 16 hours daily.
-- Drink water and tea. No added sugar in drinks/food.
+- Eat a [whole food, pescatarian diet](../health/nutrition/nutrition.md). One salad every day.
+- Drink water, tea and occasional coffee. No added sugar in drinks/food.
+- [Fast](../health/nutrition/fasting.md) for 16 hours daily.
 - [Sleep](../sleep/sleep.md) at least 7 hours every day. Wake up & go to sleep at same time.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
 
 ## Work
 - [Do one thing at a time](../research/solving-problems.md). Resist temptations. Remove friction.
 - Deep focus. Minimize distractions. Say __no__ to things. Set constraints.
-- Center work around [Focus Trello Board](focusing.md). Make calendar events based on it.
+- No news/distractions during Focus time. Can only view 'news' sites on breaks.
+- Plan my time based on [Focus Board](focusing.md). Make calendar events based on it
 - Prioritize. Do important things first. Be clear on what I want to achieve. Think long term.
 - Think about the problem I want to solve. Don't give up. Don't rush things.
 - Always breathe fresh air. Don't stay indoors for long. Open windows and go outside on breaks.

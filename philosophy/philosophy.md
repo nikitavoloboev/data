@@ -11,3 +11,4 @@ In any way, it is an interesting subject I don't know much about.
 ## Links
 - [The Philosophy of Rick and Morty](https://www.youtube.com/watch?v=hWFDHynfl1E)
 - [Nietzsche uses Perl comic](https://existentialcomics.com/comic/86)
+- [Existential comics](http://existentialcomics.com/)

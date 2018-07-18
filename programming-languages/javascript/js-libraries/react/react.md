@@ -22,3 +22,4 @@
 - [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap#readme)
 - [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/)
 - [Rogue.js](https://github.com/alidcastano/rogue.js) - Nearly invisible framework for creating server-rendered React applications.
+- [Diagram of modern React lifecycle methods (2018)](https://twitter.com/dan_abramov/status/981712092611989509?s=09)

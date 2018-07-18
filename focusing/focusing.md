@@ -34,7 +34,7 @@ The things I work on during this 100 min focus session is specified by an event 
 - Research papers - I open [PDF Expert](https://pdfexpert.com/) and read through the [research paper I set out to read](https://trello.com/b/EKl1Ie3q).
 - Learn - I choose a topic I want to learn from [Trello](https://trello.com/b/cu32qF3q) and learn it. Usually I start with wiki and resources from [LA](../projects/learn-anything.md).
 - Ideas - I pick an idea I want to work on from [Trello](https://trello.com/b/alB1ryRP) and make it.
-- Work - I see tasks I need to complete for the company/startup I am working for or freelancing and work through it.
+- Work - I work through most urgent tasks I need to complete for the company/startup I am working for or freelancing.
 
 At the end of the 100 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 100 min period. The projects in Timing are a reflection of projects in my Focus Trello board.
 

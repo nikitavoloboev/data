@@ -7,6 +7,8 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 ## CMD + CTRL
 - 8 - look up in dictionary
+- j - quick run key for Alfred
+- l - create hastebin from clipboard
 
 ## CMD + OPT + CTRL
 - 0 - iStat
