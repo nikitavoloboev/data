@@ -17,3 +17,4 @@ I am interested in other keyboards though. And might try some in the future.
 - [Multi-purpose keys, and a case for small keyboards](https://asylum.madhouse-project.org/blog/2016/10/15/multi-purpose-keys/)
 - [clojure.core/typing - Matt Adereth](https://www.youtube.com/watch?v=uk3A41U0iO4) - Modeling and 3D printing a keyboard.
 - [Building Keyboards](https://alastairreid.github.io/building-keyboards/)
+- [What keyboards do you use? Do you program them?](https://lobste.rs/s/nl96zm/what_keyboards_do_you_use_do_you_program)

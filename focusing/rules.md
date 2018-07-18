@@ -39,6 +39,7 @@ Some simple rules to follow for myself doing things.
 - Ship early. Get feedback and iterate on it. Rinse and repeat.
 - Track all time in [Timing](../macOS/apps/timing.md). Reflect on it at the end of the day & week.
 - Wear comfortable clothes when working from home and outside.
+- Sit properly, don't bend my back.
 
 ## Focus
 - Be very aggressive in cutting any kind of distractions when working.

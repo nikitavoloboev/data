@@ -37,7 +37,7 @@ The things I work on during this 100 min focus session is specified by an event 
 
 At the end of the 100 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 100 min period. The projects in Timing are a reflection of projects in my Focus Trello board.
 
-![](https://i.imgur.com/Q87A4cp.png)
+![](https://i.imgur.com/9zfSPFg.png)
 
 I focus fully on [solving problems](../research/solving-problems.md) I need to solve and spend 0 energy thinking about what I should be doing or whether I am spending my time wisely in the moment. Full focus on the task at hand. No multitasking. No distractions.
 
