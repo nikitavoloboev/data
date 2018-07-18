@@ -2,6 +2,7 @@
 Below is a list of music artists I like. I attach my favorite songs from these artists.
 
 ## Favorite artists
+- [Carbon Based Lifeforms](https://soundcloud.com/carbonbasedlifeforms) - [Nattväsen](https://www.youtube.com/watch?v=nRnEMnaBFxE) | [Derelicts](https://www.youtube.com/watch?v=jmrl3DTw2PE) | [Equilibrium](https://www.youtube.com/watch?v=Rdcx8-oTMvc)
 - [Mounika](https://soundcloud.com/mounika-beat) - [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) | [Stay Here](https://www.youtube.com/watch?v=-RTOrm50Q8w) | [Love You Sweet It's What I Do](https://www.youtube.com/watch?v=55EANOPFunw) | [I Feel love](https://www.youtube.com/watch?v=OM97kdCa99s)
 - [Boogie Belgique](https://soundcloud.com/boogiebelgique) - [Once have I](https://www.youtube.com/watch?v=a0ukwowW2Z0) | [Need somebody](https://www.youtube.com/watch?v=9jKfexL3TNc) | [Every Time](https://www.youtube.com/watch?v=-svrq8P3RYo) | [Ms. Yutani](https://www.youtube.com/watch?v=QNmhiTFeyiY) | [Forever and Ever](https://www.youtube.com/watch?v=2tA1rVKv4EE)
 - [Maribou State](https://soundcloud.com/mariboustate) - [Midas](https://www.youtube.com/watch?v=-UM76mULg7M) | [Manila](https://www.youtube.com/watch?v=BNs8pnOgtEw) | [Bricks](https://www.youtube.com/watch?v=0Z7PUEHb3e8)
@@ -97,7 +98,6 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Hinkstep](https://soundcloud.com/hinkstep) - [Blend In With The Crowd](https://www.youtube.com/watch?v=7jkEFyv5OOE)
 - [Kokoroko](https://weouthere.bandcamp.com/track/abusey-junction) -  [Abusey Junction](https://www.youtube.com/watch?v=tSv04ylc6To)
 - [Uppermost](https://soundcloud.com/uppermost) - [Beautiful Light](https://www.youtube.com/watch?v=Q1DvVzKXktY)
-- [Carbon Based Lifeforms](https://soundcloud.com/carbonbasedlifeforms) - [Nattväsen](https://www.youtube.com/watch?v=nRnEMnaBFxE) | [Derelicts](https://www.youtube.com/watch?v=jmrl3DTw2PE&feature=youtu.be)
 
 ## Interesting artists
 - [Emapea](https://soundcloud.com/emapea)
