@@ -8,7 +8,7 @@ I also visualize some topics and their relations as an [interactive mind map](ht
 ![](https://i.imgur.com/mQWt0vx.jpg)
 
 ## Notes
-- Take wherever you’re at and just try to push your understanding deeper.
+- Take wherever you’re good at and just try to push your understanding deeper.
 - [Don’t assume it’s difficult until it is](https://news.ycombinator.com/item?id=10872970).
 
 ## Links

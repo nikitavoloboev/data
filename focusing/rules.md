@@ -68,7 +68,7 @@ Some simple rules to follow for myself doing things.
 - No processed sugar. No food with extra sugar in it.
 - Always have water/tea next to me. Fill up the water/tea if it empties.
 - No meat or dairy products. Health and [ethical reasons](../life/compassion.md).
-- Eat two salads every day.
+- Eat one salad every day.
 - Take [Vitamin D & Vitamin B12](../health/nutrition/supplements.md) every morning.
 - Everything in moderation. Avoid alcohol and hard drugs (like opiates).
 

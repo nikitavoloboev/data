@@ -32,3 +32,4 @@
 - [GraphQL](https://github.com/machinebox/graphql) - Simple low-level GraphQL HTTP client.
 - [Mock](https://github.com/golang/mock) - Mocking framework.
 - [jstream](https://github.com/bcicen/jstream) - Streaming JSON parser.
+- [cmux](https://github.com/soheilhy/cmux) - Connection multiplexer for GoLang: serve different services on the same port.

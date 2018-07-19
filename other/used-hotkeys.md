@@ -6,6 +6,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - space - Trello quick task
 
 ## CMD + CTRL
+- 3 - start/stop focusing
 - 8 - look up in dictionary
 - j - quick run key for Alfred
 - l - create hastebin from clipboard

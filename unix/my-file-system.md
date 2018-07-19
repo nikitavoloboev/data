@@ -30,12 +30,12 @@ I then filter contents of the folder with [this workflow](https://github.com/nik
 Forked by me repos that I want to keep working on, are kept inside `forks` folder.
 
 ## ~/src/orgs
-Inside this folder I keep all the things that are open source on GitHub sorted by organization. In my case it's only [learn-anything](https://github.com/learn-anything/):
+Inside this folder I keep all the open source orgs I am working on.
 
 ```Bash
 ~/src/orgs
 ❯ exa
-learn-anything
+learn-anything deedmob
 ```
 
 ## ~/go/src/github.com/nikitavoloboev
