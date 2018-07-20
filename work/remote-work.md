@@ -6,3 +6,4 @@
 - [Remote Jobs Spreadsheet](https://docs.google.com/spreadsheets/d/1JfNAbUX_lN9K3MCNHO15GJtJ5qpk7H9Cl3xTBwv2FR8/edit#gid=366809548)
 - [Teleport App](https://sundial.teleport.org/) - Get an overview of your group's locations, timezones and working hours.
 - [Ask HN: What are the biggest challenges preventing startups from hiring remote?](https://news.ycombinator.com/item?id=17021655) - [Mitchell Hashimoto's comment was great](https://news.ycombinator.com/item?id=17022563)
+- [Thoughts on Remote Communication](https://blog.danlew.net/2018/07/19/hear-me-talkin-to-ya-thoughts-on-remote-communication/)

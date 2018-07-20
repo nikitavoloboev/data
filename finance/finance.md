@@ -9,9 +9,9 @@ Below are the categories I use in YNAB:
 
 ![](https://i.imgur.com/Fe8BPyc.png)
 
-I assign the budgets for the categories at the beginning of each month and am strict with adhering the budgets. If there is no budget for eating out, don't eat out.
+I assign the budgets for the categories at the beginning of each month and am strict with adhering to the budgets. If there is no budget for eating out, don't eat out.
 
-Saving is just another category and I budget the money I have left after my budget towards saving for emergencies and bigger purchases.
+Saving is just another category and I budget the money I have left after my budgeting towards saving for emergencies and bigger purchases.
 
 For recurring expenses such as my `Monthly` and `Annually` category groups, I put the recurring cost as part of the category name. This lets met easily evaluate the costs of my recurring payments and analyze it at a glance and makes budgeting for future easier too.
 

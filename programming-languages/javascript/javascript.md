@@ -19,3 +19,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript#readme)
 - [Ask HN: “Expert Level” JavaScript questions?](https://news.ycombinator.com/item?id=17324538)
 - [Benefits of prototypal inheritance over classical?](https://stackoverflow.com/questions/2800964/benefits-of-prototypal-inheritance-over-classical/16872315#16872315)
+- [Pax](https://github.com/nathan/pax) - Fastest JavaScript bundler in the galaxy.
