@@ -6,3 +6,4 @@ Some things I found funny.
 - [I have an interview for a dev position soon](https://www.reddit.com/r/computerscience/comments/818fzf/i_have_an_interview_for_a_developer_position_on/)
 - [Volkswagen](https://github.com/auchenberg/volkswagen#readme)
 - [String theory for Dummies](http://abstrusegoose.com/272)
+- [Kitze'z tweets](http://kitze-tweets.surge.sh/)
