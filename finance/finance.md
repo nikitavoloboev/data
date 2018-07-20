@@ -1,7 +1,7 @@
 # Finance
 For my own personal finance, I budget all my money with [YNAB](https://www.youneedabudget.com).
 
-[YNAB ideology](https://www.youneedabudget.com/method/) methodology for managing money is extremely effective as it allows one to be be more proactive with budgeting and spending. It lets me know how much money I have and how much money I can spend on any given category. I find this proactive approach in dealing with money very freeing and powerful.
+[YNAB methodology](https://www.youneedabudget.com/method/) for managing money is extremely effective as it allows one to be be more proactive with budgeting and spending. It lets me know how much money I have and how much money I can spend on any given category. I find this proactive approach in dealing with money very freeing and powerful.
 
 Below are the categories I use in YNAB:
 
