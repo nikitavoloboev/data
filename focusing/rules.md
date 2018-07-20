@@ -76,6 +76,11 @@ Some simple rules to follow for myself doing things.
 - Value each animal’s life as equal to that of my own. Don't eat anyone.
 - Minimize suffering caused to other people. Be conscious of other people's feelings.
 
+## Finance
+- Track every purchase made with YNAB. Put every purchase in its respective category.
+- Adhere to [my budget](../finance/finance.md) that I set for each of the categories. If there is no budget left for eating out. Don't eat out.
+- Keep digital receipts of expensive purchases for warranty (scan it, if it's in paper).
+
 ## Code
 - Write code to be read by other people. Prefer to be explicit over implicit. [Readability Matters More Than Correctness](https://xph.us/2017/04/23/readability.html)
 - Make the code run first. Then make it fast (if necessary).
@@ -90,11 +95,6 @@ Some simple rules to follow for myself doing things.
 - Use imperative tense. Instead of _# Outputs_, use _# Output_.
 - Only add one space after the code for inline comments. Don't space them out.
 - Where appropriate, write a small comment on top of the file to describe the purpose of the file.
-
-## Finance
-- Track every purchase made with Actual. Put every purchase in its respective category.
-- Adhere to my budget that I set for each of the categories. If there is no budget left for eating out. Don't eat out.
-- Keep digital receipts of expensive purchases for warranty (scan it, if it's in paper).
 
 ## Share
 - Share everything I know and made.

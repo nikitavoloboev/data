@@ -1,13 +1,17 @@
 # Finance
-For my own personal finance, I use [Actual](https://actualbudget.com/beta/) budget app which I use to track, budget and overview all of my finances.
+For my own personal finance, I budget all my money with [YNAB](https://www.youneedabudget.com).
 
-I use [YNAB ideology](https://www.youneedabudget.com/method/) for managing my money with the goal of being proactive with budgeting and spending. Knowing how much money I have and how much money I can spend on any given category. I find this proactive approach in dealing with money very freeing and powerful.
+[YNAB ideology](https://www.youneedabudget.com/method/) methodology for managing money is extremely effective as it allows one to be be more proactive with budgeting and spending. It lets me know how much money I have and how much money I can spend on any given category. I find this proactive approach in dealing with money very freeing and powerful.
 
-Below are the categories I currently use in Actual:
+Below are the categories I use in YNAB:
 
-![](https://i.imgur.com/EmzOfZz.png)
+![](https://i.imgur.com/4wppdbk.png)
 
-![](https://i.imgur.com/wmjtsDj.png)
+![](https://i.imgur.com/AY2ttNp.png)
+
+I assign the budgets for the categories at the beginning of each month and am strict with adhering the budgets. If there is no budget for eating out, don't eat out.
+
+Saving is just another category and I budget the money I have left after my budget towards saving for emergencies and bigger purchases.
 
 ## Notes
 - FI is possible everywhere. The idea stays the same, save more than you spend, try generate passive income through stocks, dividends and property.
