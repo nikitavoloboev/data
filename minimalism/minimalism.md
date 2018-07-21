@@ -13,7 +13,7 @@ Here is how that board looks for me:
 
 I [budget all my money](../finance/finance.md) into categories each month. This allows me to spend my money mindfully and not buy things I don't need.
 
-I usually use [FB Market Place](https://facebook.com/marketplace) to sell off the things I don't need.
+I often use [Swappa](https://swappa.com), [Ebay](https://www.ebay.com) or [FB Market Place](https://facebook.com/marketplace) to sell off the things I don't need.
 
 ## Notes
 - [Will this item provide value? If not, get rid of it.](https://www.reddit.com/r/minimalism/comments/846drx/extreme_minimalism_a_trend/)

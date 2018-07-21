@@ -34,3 +34,4 @@ I am not a great programmer by any means but the few programs I did write solved
 - [Writing good bug reports](https://pspdfkit.com/blog/2016/writing-good-bug-reports/)
 - [Tips for reading new codebases](https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases)
 - [Engineering Principles at Monzo](https://monzo.com/blog/2018/06/29/engineering-principles/)
+- [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers#readme) - For when people get too hyped up about things.
