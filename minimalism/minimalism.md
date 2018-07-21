@@ -13,7 +13,7 @@ Here is how that board looks for me:
 
 I [budget all my money](../finance/finance.md) into categories each month. This allows me to spend my money mindfully and not buy things I don't need.
 
-I often use [Swappa](https://swappa.com), [Ebay](https://www.ebay.com) or [FB Market Place](https://facebook.com/marketplace) to sell off the things I don't need.
+I often use [FB Market Place](https://facebook.com/marketplace) to sell off the things I don't need.
 
 ## Notes
 - [Will this item provide value? If not, get rid of it.](https://www.reddit.com/r/minimalism/comments/846drx/extreme_minimalism_a_trend/)
@@ -22,3 +22,4 @@ I often use [Swappa](https://swappa.com), [Ebay](https://www.ebay.com) or [FB Ma
 - [Minimalism, at it's core, should not be defined by the number of items you own but by our relationship with material goods. In our society, our identity is linked to the things that we own. We are the books on the shelf and the pictures in a box. Just throwing away those items, does not break that dependance.](https://www.reddit.com/r/minimalism/comments/8x8su3/at_what_point_is_minimalism_an_unhealthy_obsession/)
 	- When we break our dependance on material objects, we naturally find no use for the things that we do not need. Only when we extinguish that need to own things can we call ourselves minimalists. Otherwise, we are just trying to impress. If there is struggle, then there is dysfunction.
 - So many people are just replacing their attachment and dependency with tangible objects into attachment and dependency with the "idea" of minimalism. It morphs into someone's entire identity. It's just trading one addiction with another.
+- [Ebay](https://www.ebay.com), [Swappa (US only)](https://swappa.com) can also be used to sell things.
