@@ -33,6 +33,11 @@ Below is a list of plugins I use.
 ## JavaScript
 - [JSPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - Plugin for Prettier, the opinionated code formatter.
 
+## Markdown
+- [MarkdownTOC](https://github.com/naokazuterada/MarkdownTOC) - Plugin for generating a Table of Contents (TOC) in a Markdown document.
+- [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
+- [Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended) - Extends Soda's Monokai and the default markdown styles with additional syntax highlighting.
+
 ## Looks
 - [DistractionFreeWindow](https://github.com/aziz/DistractionFreeWindow) - Sublime Text's "Distraction free mode" but not full-screen.
 
