@@ -40,7 +40,7 @@ Always use a calendar and plan your days ahead of you given the deadlines that a
 ## 5. Take care of your health. Exercise. Eat proper food. Sleep more than 7 hours every day.
 Health is very very important. Some students find their newly gained freedom to do things intoxicating. There is no one really there to say 'No' to you. You can buy chips and drink cola every evening of every day if you so wanted to. You can go out with friends every weekend and drink some. No one can stop you doing that except for you.
 
-Only you can say no to that. You can decide to eat healthy and actually spend some time researching what does healthy eating even mean. I myself spend a good portion of my time in life asking this question. What it means to be healthy? Later I settled on a [whole food pescatarian diet](../health/nutrition/foods.md) with no foods with added sugar and no sugary drinks. Drinking only water and tea.
+Only you can say no to that. You can decide to eat healthy and actually spend some time researching what does healthy eating even mean. I myself spend a good portion of my time in life asking this question. What it means to be healthy? Later I settled on a [whole food plant based diet](../health/nutrition/foods.md) with no foods with added sugar and no sugary drinks. Drinking only water and tea.
 
 My vice of choice in university was [psychedelics](../drugs/psychedelics/psychedelics.md) as I found no other substance to entice me more than psychedelics. Leaving me with more questions after taking the drug than before. But even that is a slippery slope and you should control your intake of any substance you put into your body, be it a physically harmless psychedelic or alcohol or weed or some hard drug.
 

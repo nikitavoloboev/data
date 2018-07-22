@@ -15,7 +15,7 @@ Saving is just another category and I budget the money I have left after my budg
 
 For recurring expenses such as my `Monthly` and `Annually` category groups, I put the recurring cost as part of the category name. This lets met easily evaluate the costs of my recurring payments and analyze it at a glance and makes budgeting for future easier too.
 
-I will be moving to using [Actual app](https://actualbudget.com/beta/) instead of YNAB once Actual for mobile gets released. YNAB is way to expensive for what it does.
+I will be moving to using [Actual app](https://actualbudget.com/beta/) instead of YNAB once Actual for mobile gets released. YNAB is way too expensive for what it does.
 
 ## Notes
 - FI is possible everywhere. The idea stays the same, save more than you spend, try generate passive income through stocks, dividends and property.

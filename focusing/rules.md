@@ -19,7 +19,7 @@ Some simple rules to follow for myself doing things.
 
 ## Health
 - [Exercise](../fitness/fitness.md). Gym/Tennis/Run every morning.
-- Eat a [whole food, pescatarian diet](../health/nutrition/nutrition.md). One salad every day.
+- Eat a [whole food, plant based diet](../health/nutrition/nutrition.md). One salad every day.
 - Drink water, tea and occasional coffee. No added sugar in drinks/food.
 - [Fast](../health/nutrition/fasting.md) for 16 hours daily.
 - [Sleep](../sleep/sleep.md) at least 7 hours every day. Wake up & go to sleep at same time.

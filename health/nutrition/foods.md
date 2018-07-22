@@ -1,5 +1,5 @@
 # Foods
-I exclude all foods that are not healthy and experiment with [recipes](https://github.com/nikitavoloboev/recipes/#readme) from the many foods that are healthy. I follow a mostly whole foods pescatarian diet.
+I exclude all foods that are not healthy and experiment with [recipes](https://github.com/nikitavoloboev/recipes/#readme) from the many foods that are healthy. I follow a whole foods plant based diet.
 
 ## Vegetables
 - Broccoli
@@ -31,10 +31,6 @@ I exclude all foods that are not healthy and experiment with [recipes](https://g
 - Chickpeas
 - Pinto beans
 
-## Fish
-- Salmon
-- Harring
-
 ## Spices
 - Parsley
 - Oregano
@@ -46,6 +42,10 @@ I exclude all foods that are not healthy and experiment with [recipes](https://g
 - Salt
 - Pepper
 - Sage
+
+## Fish
+- Salmon
+- Harring
 
 ## Other
 - Eggs
