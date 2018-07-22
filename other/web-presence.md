@@ -15,7 +15,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Devpost](https://devpost.com/NikitaVoloboev) - Tracking all the hackathons and hackathon projects I have done.
 - [Code Wars](https://www.codewars.com/users/nikitavoloboev) - Practicing various coding challenges.
 - [Docker Hub](https://hub.docker.com/u/nikivi/) - Docker images.
-- [GitLab](https://gitlab.com/nikitavoloboev) - Don't use it.
+- [GitLab](https://gitlab.com/nikitavoloboev)
 
 ## Learning
 - [Quora](https://www.quora.com/profile/Nikita-Voloboev) - Asking and answering questions.
@@ -28,7 +28,7 @@ These are my personal profiles on various websites sorted by categories.
 - [SoundCloud](https://soundcloud.com/nikitavoloboev) - Sharing music I like and the tunes I make.
 - [Spotify](https://open.spotify.com/user/nikitavoloboev) - Sharing music I like in form of a variety of playlists.
 - [Last.fm](https://www.last.fm/user/playfullyExist) - Tracking music I listen to on Spotify.
-- [Mixcloud](https://www.mixcloud.com/nikitavoloboev/) - Don't use it.
+- [Mixcloud](https://www.mixcloud.com/nikitavoloboev/)
 
 ## Design
 - [Dribble](https://dribbble.com/nikitavoloboev) - Sharing my design creations and design things I like.
@@ -45,7 +45,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Hacker News](https://news.ycombinator.com/user?id=nikivi) - Often share things I built there.
 - [Product Hunt](https://www.producthunt.com/@nikitavoloboev) - Share all my bigger and smaller projects I made there.
 - [Mastodon](https://mastodon.xyz/@nikivi) - Pretty awesome federated network. Looking for interesting communities there.
-- [Google+](https://plus.google.com/u/0/+NikitaVoloboev) - Don't use it.
+- [Google+](https://plus.google.com/u/0/+NikitaVoloboev)
 - [Meetup](https://www.meetup.com/members/185347053/) - Attending various groups and meeting new interesting people and communities.
 
 ## Photos
@@ -57,7 +57,7 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Video
 - [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) - Sharing videos I make on variety of subjects (mostly programming).
-- [Twitch](https://www.twitch.tv/nikitavoloboev) - Don't use it.
+- [Twitch](https://www.twitch.tv/nikitavoloboev)
 
 ## Forums
 - [Alfred Forum](https://www.alfredforum.com/profile/10242-nikivi/) - Asking and answering questions about the amazing [Alfred](https://www.alfredapp.com/) launcher.
@@ -85,10 +85,10 @@ These are my personal profiles on various websites sorted by categories.
 - [Angel List](https://angel.co/nikitavoloboev) - Sometimes use it to find interesting startups to apply to.
 - [Indie Hackers](https://www.indiehackers.com/user/nikivi) - Awesome community of hackers and entrepreneurs.
 - [Home](https://nikitavoloboev.xyz) - My personal home page on the internet.
-- [Vimeo](https://vimeo.com/user18010447) - Don't use it but it has many creative videos.
-- [Kickstarter](https://www.kickstarter.com/profile/2082672852) - Don't use it.
-- [Airbnb](https://www.airbnb.com/users/show/48269245) - Don't use it.
-- [DevianArt](https://nikivi.deviantart.com/) - Don't use it.
+- [Vimeo](https://vimeo.com/user18010447)
+- [Kickstarter](https://www.kickstarter.com/profile/2082672852)
+- [Airbnb](https://www.airbnb.com/users/show/48269245)
+- [DevianArt](https://nikivi.deviantart.com/)
 - [Eventbrite](https://www.eventbrite.com/u/146147331884/#) - Various events I have attended or planning to attend.
 - [Stack Overflow CV](https://stackoverflow.com/cv/nikitavoloboev) - Not updating it. Prefer LinkedIn.
 - [Gfycat](https://gfycat.com/@nikivi) - Sharing Gifs.
