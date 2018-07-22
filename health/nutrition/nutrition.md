@@ -1,11 +1,9 @@
 # Nutrition
-[This book](https://www.goodreads.com/book/show/25663961-how-not-to-die?from_search=true) contains pretty much all you need to know to get you going with a proper nutrition plan as well why proper nutrition is important. The author also has a [website](https://nutritionfacts.org) where he blogs about various things nutrition and health.
+[This book](https://www.goodreads.com/book/show/25663961-how-not-to-die?from_search=true) contains all the evidence needed to prove that a whole food, plant based diet is the best thing you can do to mitigate diseases and living a healthy life. The author also has a [website](https://nutritionfacts.org) where he blogs about various things nutrition and health.
 
-As for myself, I like to [follow these simple rules](../../focusing/rules.md#nutrition) in regards to my nutrition. I try to always cook my own food and I love exploring [new and interesting vegan recipes](https://github.com/nikitavoloboev/vegan-recipes#readme) to cook which I add to [Paprika](https://www.paprikaapp.com).
+Knowing this, I eat whole food, plant based diet with at least one salad every day. I take [few supplements](supplements.md) and I track all the [food I eat](foods.md) with [MyFitnessPal](https://www.myfitnesspal.com/).
 
-I eat whole food, plant based diet with at least one salad every day. I take [few supplements](supplements.md) and I track all the [food I eat](foods.md) with [MyFitnessPal](https://www.myfitnesspal.com/).
-
-I only drink water, tea or coffee. No sugar in food/drinks.
+I only drink water, tea or coffee. No sugar in food/drinks. And I love exploring [new and interesting vegan recipes](https://github.com/nikitavoloboev/vegan-recipes#readme).
 
 ## Notes
 - Minimize high GI (glycemic index). It spikes blood sugar and insulin.

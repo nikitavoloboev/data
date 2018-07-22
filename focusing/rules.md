@@ -7,7 +7,7 @@ Some simple rules to follow for myself doing things.
 - Learn from my mistakes. If things fail, learn from it and move on.
 - Build [ideas](https://trello.com/b/alB1ryRP). Experiment. Take risks.
 - Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts.
-- Don’t eat animals, don’t hurt any person. Don't waste anything.
+- [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.
 - Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals.
 - Don't judge anyone. Attempt to see another person's point of view.
@@ -23,6 +23,8 @@ Some simple rules to follow for myself doing things.
 - Drink water, tea and occasional coffee. No added sugar in drinks/food.
 - [Fast](../health/nutrition/fasting.md) for 16 hours daily.
 - [Sleep](../sleep/sleep.md) at least 7 hours every day. Wake up & go to sleep at same time.
+- Take [Vitamin D & Vitamin B12](../health/nutrition/supplements.md) every morning.
+- Everything in moderation. Avoid alcohol and hard drugs (like opiates).
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
 
 ## Work
@@ -63,14 +65,6 @@ Some simple rules to follow for myself doing things.
 - Ask myself what is it that I am trying to solve or understand. Why?
 - Go deep. Specialize. Be great at some thing and then branch out.
 - Draw. Use drawings and imagination to distill complex ideas.
-
-## Nutrition
-- No processed sugar. No food with extra sugar in it.
-- Always have water/tea next to me. Fill up the water/tea if it empties.
-- No meat or dairy products. Health and [ethical reasons](../life/compassion.md).
-- Eat one salad every day.
-- Take [Vitamin D & Vitamin B12](../health/nutrition/supplements.md) every morning.
-- Everything in moderation. Avoid alcohol and hard drugs (like opiates).
 
 ## Compassion
 - Value each animal’s life as equal to that of my own. Don't eat anyone.

@@ -26,6 +26,7 @@
 - [Minimalism](minimalism/minimalism.md)
 - [Environment](environment/environment.md)
 	- [Zero waste](environment/zero-waste.md)
+	- [Veganism](environment/veganism.md)
 - [Music](music/music.md)
 	- [Music playlists](music/music-playlists.md)
 	- [Music artists](music/music-artists.md)
