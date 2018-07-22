@@ -11,6 +11,7 @@ Below is a list of all public Trello boards I share. I don't attach links to mos
 - [Research Papers](https://trello.com/b/EKl1Ie3q) - [Research papers](../research-papers/research-papers.md) I am reading and want to read.
 - [Courses](https://trello.com/b/KXiTLwSA) - [Courses](../courses/courses.md) I am taking and want to take.
 - [YouTube](https://trello.com/b/Qoa5pkrQ) - Ideas for [YouTube videos](my-youtube.md) I want to make.
+- [Try](https://trello.com/b/tkaqFKYa) - Things I want to try in life.
 - [Visit](https://trello.com/b/i8c0hBVu) - Places I want to [visit](../travel/visited.md).
 - [Possessions](https://trello.com/b/HotsLGsc) - Things [I own](../minimalism/minimalism.md).
 - [Podcasts](https://trello.com/b/Wtr04eGQ) - [Podcasts](../podcasts/podcasts.md) I am listening and want to listen.
