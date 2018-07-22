@@ -16,3 +16,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Color Hunt](http://colorhunt.co/)
 - [Lona](https://github.com/airbnb/Lona) - Tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
 - [Free Logos](https://github.com/arasatasaygin/openlogos#readme) - Has some nice logos.
+- [Design Languages](https://design-languages.com/) - Curated library for design languages, design systems and front-end frameworks.
