@@ -115,6 +115,36 @@ Some simple rules to follow for myself doing things.
 - Use headings to separate sections of articles.
 - Use a spellchecker and lint mistakes.
 
+## Git
+- Version control all projects.
+- Do atomic commits and write [proper appropriate commit messages](https://chris.beams.io/posts/git-commit/).
+- Commit often. Commits are cheap. I can always reverse changes.
+- Review all changes before committing.
+- Write commits in form of: `scope: subject`. Prefix subject with an action (add/remove/fix/update). Use [imperative tense](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg).
+- Commit changes and push before making a release.
+- When making changes to other projects, respect their Git workflow and commit style.
+
+## GitHub
+- Add appropriate topics to each repo. Add the languages used in the repo as topics.
+- Make many experiments and share them.
+- Use relative links instead of hard wired links. For example in GitHub you can use `../issues/` to reference issues of current repo from readme.
+
+## GitHub Gists
+- Create & update all gists from SnippetsLab.
+
+## README
+- Use HTML for rendering images if I need control of their size or position.
+- Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links).
+- If the README is long enough, add a __Contents__ reference table.
+- Don't add anything that is not needed and focus on the content.
+- Add a way to visually show the workflow/library in action where appropriate.
+- Don't link to Imgur images as links, render them in the README itself.
+- Add image fully itself to the repository and reference it iff the image is big enough and requires high quality.
+- In screenshots of Alfred prompts and other prompts, show the cursor.
+- Add __Related__ section to most repos linking to similar projects either of my own or of other. Not all projects need this.
+- Don't add Thank You clause in _idea_ stage projects.
+- Don't add _Say Thanks_ badge on curated lists.
+
 ## Markdown
 - Don't leave unnecessary whitespace between headings and text.
 - Don't need to add `:` to the end of text when adding image below as it is implicit.
@@ -135,32 +165,6 @@ Some simple rules to follow for myself doing things.
 - Don't abbreviate folders and files. Unless it is clear what abbreviation means.
 - Add links to headings that link to the description of what the wiki file is about.
 - Don't say `I need to`, but say `I will ..` or `I try to ..`. Be proactive. Intention counts.
-
-## Git
-- Version control all projects.
-- Do atomic commits and write [proper appropriate commit messages](https://chris.beams.io/posts/git-commit/).
-- Commit often. Commits are cheap. I can always reverse changes.
-- Write commits in form of: `scope: subject`. Prefix subject with an action (add/remove/fix/update). Use [imperative tense](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg).
-- Commit changes and push before making a release.
-- When making changes to other projects, respect their Git workflow and commit style.
-
-## GitHub
-- Add appropriate topics to each repo. Add the languages used in the repo as topics.
-- Make many experiments and share them.
-- Use relative links instead of hard wired links. For example in GitHub you can use `../issues/` to reference issues of current repo from readme.
-
-## README
-- Use HTML for rendering images if I need control of their size or position.
-- Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links).
-- If the README is long enough, add a __Contents__ reference table.
-- Don't add anything that is not needed and focus on the content.
-- Add a way to visually show the workflow/library in action where appropriate.
-- Don't link to Imgur images as links, render them in the README itself.
-- Add image fully itself to the repository and reference it iff the image is big enough and requires high quality.
-- In screenshots of Alfred prompts and other prompts, show the cursor.
-- Add __Related__ section to most repos linking to similar projects either of my own or of other. Not all projects need this.
-- Don't add Thank You clause in _idea_ stage projects.
-- Don't add _Say Thanks_ badge on curated lists.
 
 ## Share files
 - Temporary shares with [Transfer](https://transfer.sh).
