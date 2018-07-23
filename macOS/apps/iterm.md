@@ -7,7 +7,7 @@ I made my own [Monokai theme](https://github.com/nikitavoloboev/my-mac-os/tree/m
 
 ![](https://i.imgur.com/2qWaqbx.png)
 
-It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure).
+It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure) and [Ayu Vim theme](https://github.com/ayu-theme/ayu-vim).
 
 ## My workflow
 I always have 4 tabs (sessions) always open in iTerm. I open other tabs as the need arises and I start working on other projects.
@@ -24,7 +24,7 @@ All other tabs are added on top of this `default` configuration. Usually it look
 Where `learnanything` and `deedmob` are two projects I am working on.
 
 I then use [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions:
-![](https://i.imgur.com/HAacdL0.png)
+![](https://i.imgur.com/OGEWLpt.png)
 
 ## Links
 - [Make macOS hotkeys work with iTerm](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line/29403520#29403520)
