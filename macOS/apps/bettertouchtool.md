@@ -11,3 +11,4 @@ You can view a printed version of all the bindings I made [here](https://github.
 ## Links
 - [Making the Touch Bar finally useful](http://vas3k.com/blog/touchbar/)
 - [BetterTouchTool Touch Bar Presets](https://github.com/vas3k/btt-touchbar-presets)
+- [BetterTouchTool management in JavaScript](https://github.com/Worie/btt)

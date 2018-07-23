@@ -1,5 +1,5 @@
 # Email
-I use [Gmail](https://gmail.com) as my email and follow [some rules](../focusing/rules.md#email) when dealing with email.
+I use [Gmail](https://gmail.com) as my email and follow [some rules](../focusing/rules.md#email) when dealing with email. I heavily use labels for indexing important emails and approach emails in GTD way, actioning on every email and keeping my Inbox as close to 0 as possible.
 
 ## Notes
 - [All archive does is remove the Inbox label (in Gmail).](https://productforums.google.com/forum/#!msg/gmail/2xUYO5ifCCY/95_y02y2IgAJ)

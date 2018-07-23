@@ -99,6 +99,13 @@ Some simple rules to follow for myself doing things.
 ## Design
 - Giving users too many options is often a bad idea. Give very few options but make each one of them count and stand out.
 
+## Email
+- Do emails in burst. Bring my Inbox to 0 every day. Action on each email.
+- Label and archive important emails. Delete emails otherwise.
+- Star emails that need my attention and I need to reference.
+- Only show relevant emails to me in Inbox.
+- Don't erase trashed email manually. Erase trashed emails of over a month automatically.
+
 ## Write
 - Use proper punctuation and capitalize things appropriately.
 - When making tasks (2Do, Trello, GitHub issues), use imperative tense.
@@ -311,15 +318,6 @@ Some simple rules to follow for myself doing things.
 - Only run apps I actually need. Quit everything else.
 - Delete apps I am not using and have no need over. Only use what I need or may need.
 - Have full control over what is going on my system to a reasonable degree. Don't use/install things I do not actually need.
-
-## Email
-- Do emails in burst. Bring my Inbox to 0 every day. Action on each email.
-- Archive emails if I want them to be searchable later. Delete emails otherwise.
-- Star emails that are important and I may need to reference later.
-- Sort newsletters automatically into groups for later viewing.
-- Only show relevant emails to me in Inbox.
-- Label all emails accordingly (if it is appropriate).
-- Don't erase trashed email manually. Erase trashed emails of over a month automatically.
 
 ## Looking back
 - Don't say _Want to_. Instead say _Will_ in _Changes_. This applies more generally too, try be more proactive with anything I do. Intention counts.

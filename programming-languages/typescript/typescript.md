@@ -1,4 +1,9 @@
 # [TypeScript](https://github.com/Microsoft/TypeScript)
+[TS Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html) is great.
+
+## Notes
+- TypeScript can figure the return type out by looking at the return statements, so we can also optionally leave this off in many cases
+
 ## Links
 - [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide#readme)
 - [Opening Remarks by Anders Hejlsberg (2018)](https://www.youtube.com/watch?v=wpgKd-rwnMw)
