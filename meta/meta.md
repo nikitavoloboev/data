@@ -27,7 +27,7 @@ If you are interested in how I maintain and write this wiki, I wrote about it in
 There are many, many things I am yet to add to this little system I am planning to make. I am still trying to find the perfect balance of how my knowledge, projects, thoughts and ideas and programs and code should be structured but my goals with this wiki are:
 
 1. Fast access to all this knowledge base. Achieved through:
-	1. [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
+	1. [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme)
 	2. This knowledge wiki itself and the search it has.
 2. Transcribing knowledge in terms that make sense to me and other people.
 	- I wish to make my knowledge and expertise as _reusable_ by as many other interested people as possible.

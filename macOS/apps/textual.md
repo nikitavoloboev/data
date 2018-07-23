@@ -1,7 +1,7 @@
 # [Textual](https://www.codeux.com/textual/)
 I love IRC and this is the best macOS client for it.
 
-I created my own [Night Blue theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/textual) for it that I love.
+I created my own [Night Blue theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/textual#readme) for it that I love.
 
 ![](https://i.imgur.com/YgNVUMH.png)
 

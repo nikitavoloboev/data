@@ -1,5 +1,5 @@
 # [Hazel](https://www.noodlesoft.com)
-I currently use Hazel to instantly commit any changes I make to all the [curated lists](https://github.com/learn-anything/curated-lists#readme) I maintain. As well as CSV files of [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) and [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share).
+I currently use Hazel to instantly commit any changes I make to all the [curated lists](https://github.com/learn-anything/curated-lists#readme) I maintain. As well as CSV files of [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches#readme) and [Ask Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share#readme).
 
 I also automate committing the README of [my macOS](https://github.com/nikitavoloboev/my-mac-os#readme) & [iOS](https://github.com/nikitavoloboev/my-ios#readme) repo as I want to instantly push any changes I make to the repo.
 

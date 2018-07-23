@@ -93,4 +93,4 @@ These are my personal profiles on various websites sorted by categories.
 - [Stack Overflow CV](https://stackoverflow.com/cv/nikitavoloboev) - Not updating it. Prefer LinkedIn.
 - [Gfycat](https://gfycat.com/@nikivi) - Sharing Gifs.
 - [TED](https://www.ted.com/profiles/10360419)
-- [AMA](https://github.com/nikitavoloboev/ama) - Ask Me Anything.
+- [AMA](https://github.com/nikitavoloboev/ama#readme) - Ask Me Anything.
