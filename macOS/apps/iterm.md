@@ -5,11 +5,9 @@ Assigned w + j with [Karabiner](karabiner/karabiner.md) to open the app from Key
 
 I made my own [Monokai theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it that looks like this:
 
-![](https://i.imgur.com/xATjY1S.png)
+![](https://i.imgur.com/2qWaqbx.png)
 
-It goes well with [Pure Zsh theme](https://github.com/sindresorhus/pure) and [Ayu theme for Vim](https://github.com/ayu-theme/ayu-vim).
-
-![](https://i.imgur.com/WQNfyfO.png)
+It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure).
 
 ## My workflow
 I always have 4 tabs (sessions) always open in iTerm. I open other tabs as the need arises and I start working on other projects.
@@ -21,12 +19,12 @@ My always open tabs are:
 4. `vim` - Contains my [Vim config](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). Bound to `v+a`.
 
 All other tabs are added on top of this `default` configuration. Usually it looks something like this:
-![](https://i.imgur.com/JDXKo3e.png)
+![](https://i.imgur.com/k5b5Yko.png)
 
-Where `la` is some project I am working on.
+Where `learnanything` and `deedmob` are two projects I am working on.
 
 I then use [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions:
-![](https://i.imgur.com/UUDBHcq.png)
+![](https://i.imgur.com/HAacdL0.png)
 
 ## Links
 - [Make macOS hotkeys work with iTerm](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line/29403520#29403520)
