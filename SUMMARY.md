@@ -273,6 +273,8 @@
 - [Travel](travel/travel.md)
 	- [Visited](travel/visited.md)
 	- [Nomad](travel/nomad.md)
+	- [Backpacks](travel/backpacks.md)
+	- [Finding home](travel/finding-home.md)
 - [Business](business/business.md)
 	- [Startups](business/startups/startups.md)
 	- [Landing pages](business/landing-pages.md)
