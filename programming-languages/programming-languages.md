@@ -8,3 +8,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Conal Elliott - Teaching New Tricks to Old Programs (2017)](https://www.youtube.com/watch?v=vzLK_xE9Zy8)
 - [Awesome static analysis](https://github.com/mre/awesome-static-analysis#readme) - Curated list of static analysis tools, linters and code quality checkers for various programming languages.
 - [Lists of most popular repositories for most favored programming languages](https://github.com/kaxap/arl#readme)
+- [](https://github.com/trending)
+- [Rockstar](https://github.com/dylanbeattie/rockstar#readme) - Idiomatic Rockstar [FizzBuzz implementation](https://github.com/dylanbeattie/rockstar#examples) is the best thing ever.
