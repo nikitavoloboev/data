@@ -19,3 +19,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS 💜 Chromebook?](https://sphalerite.org/ghotl/posts/2017-11-10-chromebook.html)
 - [NixOS Wiki](https://nixos.wiki/wiki/Main_Page)
 - [NixOps](https://github.com/NixOS/nixops) - NixOS-based cloud deployment tool.
+- [NixOS Discourse forum](https://discourse.nixos.org/)

@@ -1,5 +1,5 @@
 # Finding homes
-For most traveling I use [AirBnb](https://www.airbnb.com) to find places to stay.
+I use [AirBnb](https://www.airbnb.com) and FB groups for finding places to stay in when traveling.
 
 ## Other
 ### NL
