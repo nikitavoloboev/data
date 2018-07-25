@@ -16,3 +16,4 @@
 - [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews#readme)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook#readme)
 - [Interview Map](https://github.com/KieSun/InterviewMap#readme) - A map that can help you make a better preparation for the next interview.
+- [Full stack Developer Interview Questions & Answers](https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers#readme)

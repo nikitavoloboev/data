@@ -119,3 +119,4 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Begin with init.vim](https://github.com/raviqqe/begin-with-init.vim) - Minimal neovim distribution as init.vim.
 - [What is the most underrate vim plugin you use? (2018)](https://www.reddit.com/r/vim/comments/8ukr9j/what_is_the_most_underrate_vim_plugin_you_use/)
 - [Vim plugins I use (2018)](https://news.ycombinator.com/item?id=17430546)
+- [Overview of what belongs in each directory of a Vim plugin](https://gist.github.com/nelstrom/1056049/784e252c3de653e204e9e128653010e19fbd493f)

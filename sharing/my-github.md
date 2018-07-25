@@ -38,10 +38,13 @@ The number between brackets shows the year I created the repo in. Repos with �
 - [Privacy Respecting (2017) 🌟](https://github.com/nikitavoloboev/privacy-respecting#readme) - Curated List of Privacy Respecting Services and Software.
 - [Find work (2018) 🌟](https://github.com/nikitavoloboev/find-work#readme) - Curated list of websites and resources to find work programming.
 
-## Practice
-- [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode#readme) - Solutions to LeetCode in Go/Python.
-- [Euler (2017)](https://github.com/nikitavoloboev/euler#readme) - Solutions to Project Euler in Go/Python.
+## Vim
+- [Monokai Vim](https://github.com/nikitavoloboev/monokai-vim#readme) - Monokai theme for Vim.
 
 ## Web
 - [Crafting Ideas (2017) 💡](https://github.com/nikitavoloboev/crafting-ideas#readme) - Platform to share and grow your ideas.
 - [Boxes (2017) 💡](https://github.com/nikitavoloboev/boxes#readme) - Your life as little boxes.
+
+## Practice
+- [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode#readme) - Solutions to LeetCode in Go/Python.
+- [Euler (2017)](https://github.com/nikitavoloboev/euler#readme) - Solutions to Project Euler in Go/Python.
