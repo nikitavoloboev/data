@@ -22,7 +22,7 @@ I try to be methodical in working and doing things. And I use the best tools and
 
 ## Knowledge Indexing
 - [This wiki](../readme.md) - A bunch of markdown files rendered by [GitBook](https://www.gitbook.com) and edited with Sublime Text.
-- Articles on [Medium](https://medium.com/@NikitaVoloboev) - Share longer articles on some one topic there. This wiki is a more living and ever changing document.
+- Articles on [Medium](https://medium.com/@nikitavoloboev) - Share longer articles on some one topic there. This wiki is a more living and ever changing document.
 - [SnippetsLab](../macOS/apps/snippetslab.md) - Snippets of code shared with [GitHub Gists](my-gists.md).
 
 ## Bookmarks

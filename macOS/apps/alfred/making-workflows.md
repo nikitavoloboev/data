@@ -1,5 +1,5 @@
 # Making Workflows
-There is a [detailed article](https://medium.com/@NikitaVoloboev/writing-alfred-workflows-in-go-2a44f62dc432) available on how you can write workflows in Go language.
+There is a [detailed article](https://medium.com/@nikitavoloboev/writing-alfred-workflows-in-go-2a44f62dc432) available on how you can write workflows in Go language.
 
 You can also take a look through [Alfred's help](https://www.alfredapp.com/help/) and get help from the [forum](https://www.alfredforum.com/).
 

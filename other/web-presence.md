@@ -12,7 +12,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Codementor](https://www.codementor.io/nikitavoloboev) - Never used it.
 - [Asciinema](https://asciinema.org/~nikivi) - Sharing terminal sessions for showcasing CLI tools and other things.
 - [WakaTime](https://wakatime.com/@nikivi) - Tracking the time I spend coding.
-- [Devpost](https://devpost.com/NikitaVoloboev) - Tracking all the hackathons and hackathon projects I have done.
+- [Devpost](https://devpost.com/nikitavoloboev) - Tracking all the hackathons and hackathon projects I have done.
 - [Code Wars](https://www.codewars.com/users/nikitavoloboev) - Practicing various coding challenges.
 - [Docker Hub](https://hub.docker.com/u/nikivi/) - Docker images.
 - [GitLab](https://gitlab.com/nikitavoloboev)
@@ -35,7 +35,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Art Station](https://www.artstation.com/nikitavoloboev) - Not posting there.
 
 ## Writing
-- [Medium](https://medium.com/@NikitaVoloboev) - My personal blog.
+- [Medium](https://medium.com/@nikitavoloboev) - My personal blog.
 - [GitBook](https://www.gitbook.com/@nikitavoloboev) - Share my [wiki](https://wiki.nikitavoloboev.xyz) there.
 
 ## Social
@@ -45,7 +45,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Hacker News](https://news.ycombinator.com/user?id=nikivi) - Often share things I built there.
 - [Product Hunt](https://www.producthunt.com/@nikitavoloboev) - Share all my bigger and smaller projects I made there.
 - [Mastodon](https://mastodon.xyz/@nikivi) - Pretty awesome federated network. Looking for interesting communities there.
-- [Google+](https://plus.google.com/u/0/+NikitaVoloboev)
+- [Google+](https://plus.google.com/u/0/+nikitavoloboev)
 - [Meetup](https://www.meetup.com/members/185347053/) - Attending various groups and meeting new interesting people and communities.
 
 ## Photos
@@ -65,7 +65,7 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Tracking
 - [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev) - Tracking books I have read as well as the reviews I have written.
-- [Letterboxd](https://letterboxd.com/NikitaVoloboev/) - Tracking movies I've seen and my reviews on the movies I've liked or disliked.
+- [Letterboxd](https://letterboxd.com/nikitavoloboev/) - Tracking movies I've seen and my reviews on the movies I've liked or disliked.
 - [Trakt](https://trakt.tv/users/nikitavoloboev) - Tracking TV series I saw or want to watch.
 - [Grouevee](https://www.grouvee.com/user/nikivi/) - Tracking all the different games I have played or want to play.
 

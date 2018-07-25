@@ -7,7 +7,7 @@ Here is a list of various things I track for my own use and reference.
 - [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev) - List of [books I finished reading](https://www.goodreads.com/review/list/15768482?shelf=read) and reviews on all of the books I read.
 
 ## Movies
-- [Letterboxd](https://letterboxd.com/NikitaVoloboev/) - Movies [I want to watch](https://letterboxd.com/nikitavoloboev/watchlist/) as well [movies I saw](https://letterboxd.com/nikitavoloboev/films/) together with [reviews I wrote](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/) and various [movie lists](https://letterboxd.com/nikitavoloboev/lists/) I made and shared.
+- [Letterboxd](https://letterboxd.com/nikitavoloboev) - Movies [I want to watch](https://letterboxd.com/nikitavoloboev/watchlist/) as well [movies I saw](https://letterboxd.com/nikitavoloboev/films/) together with [reviews I wrote](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/) and various [movie lists](https://letterboxd.com/nikitavoloboev/lists/) I made and shared.
 
 ## TV series
 - [Series (Wiki)](../tv-series/tv-series.md) - TV series I saw already with my thoughts and a small reviews on each one.

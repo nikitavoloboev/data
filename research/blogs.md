@@ -1,7 +1,7 @@
 # Blogs
 I use [Reeder](../macOS/apps/reeder.md) to stay on top of my favorite blogs I follow which I sync with [Inoreader](https://www.inoreader.com) between phone and mac.
 
-[Here](https://gist.github.com/nikitavoloboev/f67d6d37a8c32fa6f86a23bd77107fbd) is my XML subscription feed of blogs I follow. And [here](https://medium.com/@NikitaVoloboev/following) is the list of people I follow on Medium.
+[Here](https://gist.github.com/nikitavoloboev/f67d6d37a8c32fa6f86a23bd77107fbd) is my XML subscription feed of blogs I follow. And [here](https://medium.com/@nikitavoloboev/following) is the list of people I follow on Medium.
 
 ## Favorite blogs
 - [Brandur](https://brandur.org/articles)

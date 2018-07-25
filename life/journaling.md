@@ -1,7 +1,7 @@
 # Journaling
 Journalling my thoughts and experiences has seriously been my most impactful and healthy habit I started doing in my life.
 
-I started to take journaling fulfill when I decided to write my [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e) throughout every day. I have since changed my approach to a more free style where I share and journal things as they come in my life.
+I started to take journaling fulfill when I decided to write my [Day Evaluations](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e) throughout every day. I have since changed my approach to a more free style where I share and journal things as they come in my life.
 
 I also started to write more openly, [looking back at my time](../looking-back/looking-back.md) in this wiki.
 

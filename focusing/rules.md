@@ -157,7 +157,7 @@ Some simple rules to follow for myself doing things.
 - Describe links on the same line with `-` separator (if needs more description, then sub dash).
 - Interlink entries between each other within wiki where necessary. Don't over do it.
 - Don't repeat myself or anyone else. If something has already been said either by me or someone else, link to it (especially in this wiki).
-- Try to use other services for logging and other things where possible. Like in the case of [Letterboxd](https://letterboxd.com/NikitaVoloboev/) and its Lists feature. It's better to make lists there and link to the lists from wiki. Find the right tool for the job. The wiki should act as a glue between things.
+- Try to use other services for logging and other things where possible. Like in the case of [Letterboxd](https://letterboxd.com/nikitavoloboev/) and its Lists feature. It's better to make lists there and link to the lists from wiki. Find the right tool for the job. The wiki should act as a glue between things.
 - Keep all files lowercased.
 - If I am watching a talk, it is best not to jot down notes from the talk itself but capture ideas and note down these ideas in the wiki, sometimes referencing the talk where the idea or insight was taken from for context.
 - Think about structuring the content and entries as I add new entries. Should a new category be added for the topic (thing) and under what category should the entry be placed.

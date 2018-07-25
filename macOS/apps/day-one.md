@@ -9,7 +9,7 @@ The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to a
 
 If you don't journal, I suggest you to start, it is a very powerful mind cleanser and acts as a wonderful history record of your life.
 
-I started with journaling by writing [Day Evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32), evaluating my day and noting interesting and memorable things that have happened to me during the day.
+I started with journaling by writing [Day Evaluations](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32), evaluating my day and noting interesting and memorable things that have happened to me during the day.
 
 Since then however, I adopted a more open approach to documenting my memories and life in a way that doesn't stop me from being in the moment and just enjoying things and experiences.
 

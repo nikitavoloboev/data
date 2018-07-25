@@ -5,7 +5,7 @@ I love solving problems with code. [Here](my-github.md) are all the repositories
 ## Thoughts on [Twitter](https://twitter.com/nikitavoloboev)
 I share all the things I am up to right now there. And I curate a [few Twitter lists](https://twitter.com/nikitavoloboev/lists) where I get most of my news from.
 
-## Blog on [Medium](https://medium.com/@NikitaVoloboev)
+## Blog on [Medium](https://medium.com/@nikitavoloboev)
 I write mostly about programming, tools and macOS. [Here](my-articles.md) are all the articles I wrote.
 
 ## Experiences on [Instagram](https://www.instagram.com/nikitavoloboev/)
@@ -49,7 +49,7 @@ I share most everything else here:
 - [Lobsters](https://lobste.rs/u/nikivi)
 - [Hacker News](https://news.ycombinator.com/user?id=nikivi)
 - [Stack Overflow](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile)
-- [Letterboxd](https://letterboxd.com/NikitaVoloboev/)
+- [Letterboxd](https://letterboxd.com/nikitavoloboev/)
 - [Quora](https://www.quora.com/profile/Nikita-Voloboev)
 - [Product Hunt](https://www.producthunt.com/@nikitavoloboev)
 - [Indie Hackers](https://www.indiehackers.com/user/nikivi)

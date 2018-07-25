@@ -10,7 +10,7 @@ I also use MindNode to visualize topics and their relations as an [interactive m
 ![](https://i.imgur.com/mQWt0vx.jpg)
 
 ## Links
-- [Mind map everything](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739) - How I use mind maps to effectively transcribe knowledge digitally and visualize thoughts and knowledge I have for both myself and for other people interested.
+- [Mind map everything](https://medium.com/@nikitavoloboev/mind-map-everything-d27670f70739) - How I use mind maps to effectively transcribe knowledge digitally and visualize thoughts and knowledge I have for both myself and for other people interested.
 
 ## Notes
 - ⌥ + delete will delete currently selected node only unlike delete which will delete the entire branch.

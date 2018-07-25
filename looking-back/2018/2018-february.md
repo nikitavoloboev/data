@@ -87,15 +87,15 @@ Here is a little collage of my favorite posts I made on FB since my first articl
 
 ![](https://i.imgur.com/3oAdAMN.png)
 
-> An [article I wrote](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) about my experience of trying to become more compassionate and conscious in my life. Starting with my decision of stopping eating meat. Long story short, I watched [Earthlings](https://letterboxd.com/film/earthlings/) and realized my absurd and ignorant behaviors towards other living creatures. So I stopped supporting this horrible industry. I just wish more other people started to think about consequences of their actions and how they affect other living beings with them.
+> An [article I wrote](https://medium.com/@nikitavoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) about my experience of trying to become more compassionate and conscious in my life. Starting with my decision of stopping eating meat. Long story short, I watched [Earthlings](https://letterboxd.com/film/earthlings/) and realized my absurd and ignorant behaviors towards other living creatures. So I stopped supporting this horrible industry. I just wish more other people started to think about consequences of their actions and how they affect other living beings with them.
 
 ![](https://i.imgur.com/KYxcizh.png)
 
-> The [next article I wrote](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.nn8gvwavn) about my not so original idea that everything is connected in this world. Mostly it was about how I tried to embrace this fact to try and approach learning in a new way. The article was also a part showcase of my growing love for mind maps.
+> The [next article I wrote](https://medium.com/@nikitavoloboev/everything-connects-to-everything-else-c6a2d96a809d#.nn8gvwavn) about my not so original idea that everything is connected in this world. Mostly it was about how I tried to embrace this fact to try and approach learning in a new way. The article was also a part showcase of my growing love for mind maps.
 
 ![](https://i.imgur.com/PE1UjkR.png)
 
-> Probably [my favorite article](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.udmp9eotg) I wrote on Medium. The true essence of the article is very close and dear to my heart. And the entire idea of bootstrapping knowledge and sharing experiences and everything a person knows continuously with the entire world clicked something in my brain and it made me approach and do things differently. Both with my blog, the GitHub repositories I made since then and finally this wiki itself together with Learn Anything which acts as my ultimate answer of trying to solve `bootstrapping knowledge` problem as best as I can. My ultimate goal though is something akin to [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) which will let anyone query what I know about any topic. As well as of course sharing my entire workflow and ways of doing things as well as ideas and, well everything. It's pretty amazing how far you can take this idea if you want to.
+> Probably [my favorite article](https://medium.com/@nikitavoloboev/knowledge-bootstrapping-36c97e0dee19#.udmp9eotg) I wrote on Medium. The true essence of the article is very close and dear to my heart. And the entire idea of bootstrapping knowledge and sharing experiences and everything a person knows continuously with the entire world clicked something in my brain and it made me approach and do things differently. Both with my blog, the GitHub repositories I made since then and finally this wiki itself together with Learn Anything which acts as my ultimate answer of trying to solve `bootstrapping knowledge` problem as best as I can. My ultimate goal though is something akin to [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) which will let anyone query what I know about any topic. As well as of course sharing my entire workflow and ways of doing things as well as ideas and, well everything. It's pretty amazing how far you can take this idea if you want to.
 
 
 ![](https://i.imgur.com/Q4ks3EL.png)
@@ -136,7 +136,7 @@ Here is a little collage of my favorite posts I made on FB since my first articl
 
 ![](https://i.imgur.com/09oEzJq.png)
 
-> Things were moving fast since then and I wrote [an article](https://medium.com/@NikitaVoloboev/an-incredible-future-9f18bb0f3a7c) on the changes that happened since that Reddit post and things I've learned on the way.
+> Things were moving fast since then and I wrote [an article](https://medium.com/@nikitavoloboev/an-incredible-future-9f18bb0f3a7c) on the changes that happened since that Reddit post and things I've learned on the way.
 
 ![](https://i.imgur.com/HhbXezb.png)
 

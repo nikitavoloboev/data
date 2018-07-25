@@ -24,6 +24,6 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - [I think human consciousness, is a tragic misstep in evolution. We became too self-aware, nature created an aspect of nature separate from itself, we are creatures that should not exist by natural law](https://www.youtube.com/watch?v=O93EtnBD3ng).
 
 ## Links
-- [What it means to live a conscious life?](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077) - My thoughts on compassion and living a conscious life.
+- [What it means to live a conscious life?](https://medium.com/@nikitavoloboev/what-it-means-to-live-a-conscious-life-c96f6517077) - My thoughts on compassion and living a conscious life.
 - [The Evolution of Consciousness](https://www.youtube.com/watch?v=XbOP0IKpsZ0)
 - [Where is our consciousness, and is it a thing that has mass/matter?](https://www.quora.com/Where-is-our-consciousness-and-is-it-a-thing-that-has-mass-matter/answer/Paul-King-2)

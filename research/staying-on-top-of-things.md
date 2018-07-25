@@ -45,5 +45,5 @@ As well as a few other Slack communities like:
 - [VS Code Vim](https://vscodevim-slackin.azurewebsites.net/)
 
 ## Links
-- [News](https://medium.com/@NikitaVoloboev) - I wrote briefly my opinion about consuming news and media. Although my opinion as stated in the article is still the same. My approach as indicated above has changed and hopefully became a bit more refined to meet my own goals.
+- [News](https://medium.com/@nikitavoloboev) - I wrote briefly my opinion about consuming news and media. Although my opinion as stated in the article is still the same. My approach as indicated above has changed and hopefully became a bit more refined to meet my own goals.
 - [List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
