@@ -9,7 +9,7 @@ I made my own [Monokai theme](https://github.com/nikitavoloboev/my-mac-os/tree/m
 
 It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure) and [Monokai theme for Vim](https://github.com/nikitavoloboev/monokai-vim#readme).
 
-![](https://i.imgur.com/jjNZJdn.png)
+![](https://i.imgur.com/ljvCUoS.png)
 
 ## My workflow
 I always have 4 tabs (sessions) always open in iTerm. I open other tabs as the need arises and I start working on other projects.
