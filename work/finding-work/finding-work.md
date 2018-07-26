@@ -26,3 +26,6 @@ My favorite way to find interesting work is searching through [AngelList](https:
 
 ## Notes
 - Sort by newest jobs in websites and check regularly and apply then.
+
+## Links
+- [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)

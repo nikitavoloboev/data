@@ -21,7 +21,7 @@ Writing it all down is helpful. But what matters is going through and being mind
 
 One other thing I found helped me the most in life. Is expressing myself. Expressing my thoughts, feelings and frustrations. Be it through music, writing, drawing or code. I never want to hold back what I feel. I embrace it. I also find great joy in self improvement and honing [my workflow](../sharing/my-workflow.md). It is an endless pursuit with no end goal in sight and that brings me happiness. Because no matter what happens in life. I can strive to improve myself. Be a better person than I was before.
 
-I love to live minimally and only use what I need. Think about things that matter to me. Cutting out the noise and focusing on what's important to me. I love cutting out any kind of distractions from my life. I love not keeping everything in my head and letting software and tools do the things they are good at. Storing and retrieving information. Events, todos, tasks and projects.
+I love to [live minimally](../minimalism/minimalism.md) and only use what I need. Think about things that matter to me. Cutting out the noise and focusing on what's important to me. I love cutting out any kind of distractions from my life. I love not keeping everything in my head and letting software and tools do the things they are good at. Storing and retrieving information. Events, todos, tasks and projects.
 
 I practice this art of minimizing and focusing on what's important to me & removing everything that is not every single day.
 
