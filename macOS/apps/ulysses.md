@@ -9,7 +9,7 @@ It also has pretty awesome export functions that let you export the text you wri
 
 I use [Ayu](https://styles.ulyssesapp.com/bundle/Ayu/5ae3545d5075368b0270daa9) theme when I write. Here is how it looks:
 
-![](https://i.imgur.com/fp5CY5h.png)
+![](https://i.imgur.com/zxAl5vO.png)
 
 I describe my thoughts and approach to writing [here](../../writing/writing.md).
 
