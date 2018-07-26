@@ -6,3 +6,4 @@
 - [Code my UI](https://codemyui.com) - Web Design Inspiration with Code Snippets.
 - [Front End Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire#readme)
 - [Great front end guidelines](https://github.com/rvolosatovs/turtlitto/blob/master/DEVELOPMENT.md#frontend-guidelines)
+- [Thoughts About Front-End Development (2018)](https://reading.supply/@jim/thoughts-about-front-end-development-2WwhaP)
