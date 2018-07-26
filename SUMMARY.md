@@ -71,7 +71,6 @@
 		- [Reeder](macOS/apps/reeder.md)
 		- [Day One](macOS/apps/day-one.md)
 		- [Alarcitty](macOS/apps/alarcitty.md)
-		- [Airmail](macOS/apps/airmail.md)
 		- [Timing](macOS/apps/timing.md)
 		- [Sketch](macOS/apps/sketch.md)
 		- [Contacts](macOS/apps/contacts.md)

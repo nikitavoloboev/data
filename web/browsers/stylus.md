@@ -16,11 +16,6 @@ Below are themes I love using with it.
 ## [Google Dark](https://userstyles.org/styles/118959/darksearch-for-google)
 ![](https://i.imgur.com/tTKd4kG.png)
 
-## [Reddit Revamped](https://userstyles.org/styles/90951/reddit-revamped)
-> Use it together with [RES](https://chrome.google.com/webstore/detail/reddit-enhancement-suite/kbmfpngjjgdllneeigpgjifpgocmfgmb) night mode
-
-![](https://i.imgur.com/JpKFIZL.png)
-
 ## [Quora Dark](https://userstyles.org/styles/104706/quora-dark)
 ![](https://i.imgur.com/VFAXqU1.png)
 

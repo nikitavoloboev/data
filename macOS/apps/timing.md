@@ -12,5 +12,5 @@ And my preferred `Report` view is:
 ![](https://i.imgur.com/RJ4vz3U.png)
 
 ## Notes
-- Can press ⌥ + → in `Review` tab to expand all items fully (assuming I selected the items I want to expand).
+- Can press ⌥ + → in `Review` tab to expand all items fully (assuming I selected the items I want to expand). Can `CMD+A` to select all projects beforehand.
 - Running `defaults write info.eurocomp.Timing2 letTaskSuggestionsOverrideExistingProjects -bool true` would make task suggestions independent of current project.
