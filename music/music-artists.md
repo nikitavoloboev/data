@@ -3,6 +3,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 
 ## Favorite artists
 - [Carbon Based Lifeforms](https://soundcloud.com/carbonbasedlifeforms) - [MOS 6581](https://www.youtube.com/watch?v=UtPTvyjtx3g) | [Nattväsen](https://www.youtube.com/watch?v=nRnEMnaBFxE) | [Derelicts](https://www.youtube.com/watch?v=jmrl3DTw2PE) | [Equilibrium](https://www.youtube.com/watch?v=Rdcx8-oTMvc)
+- [Nicolas Jaar](https://soundcloud.com/nicolas-jaar) - [Why Didn't You Save Me](https://www.youtube.com/watch?v=1L-dlEQgR7E) | [A time for us](https://www.youtube.com/watch?v=6znRhR5mL5A)
 - [Mounika](https://soundcloud.com/mounika-beat) - [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) | [Stay Here](https://www.youtube.com/watch?v=-RTOrm50Q8w) | [Love You Sweet It's What I Do](https://www.youtube.com/watch?v=55EANOPFunw) | [I Feel love](https://www.youtube.com/watch?v=OM97kdCa99s)
 - [Boogie Belgique](https://soundcloud.com/boogiebelgique) - [Once have I](https://www.youtube.com/watch?v=a0ukwowW2Z0) | [Need somebody](https://www.youtube.com/watch?v=9jKfexL3TNc) | [Every Time](https://www.youtube.com/watch?v=-svrq8P3RYo) | [Ms. Yutani](https://www.youtube.com/watch?v=QNmhiTFeyiY) | [Forever and Ever](https://www.youtube.com/watch?v=2tA1rVKv4EE)
 - [Maribou State](https://soundcloud.com/mariboustate) - [Midas](https://www.youtube.com/watch?v=-UM76mULg7M) | [Manila](https://www.youtube.com/watch?v=BNs8pnOgtEw) | [Bricks](https://www.youtube.com/watch?v=0Z7PUEHb3e8)
@@ -31,7 +32,6 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Telefon Tel Aviv](https://soundcloud.com/telefon-tel-aviv) - [Lengthening Shadows](https://www.youtube.com/watch?v=PomcdVPfNFY)
 - [TOKiMONSTA](https://soundcloud.com/tokimonsta) - [Put it down](https://www.youtube.com/watch?v=7_7Yi7cCHx4)
 - [Mura Masa](https://soundcloud.com/muramasamusic) - [Are U there?](https://www.youtube.com/watch?v=NJ4pslRSG0c)
-- [Nicolas Jaar](https://soundcloud.com/nicolas-jaar) - [A time for us](https://www.youtube.com/watch?v=6znRhR5mL5A)
 - [toe](https://toe-music.bandcamp.com) -[The World According To](https://www.youtube.com/watch?v=-el5_Go5yvo)
 - [Bonobo](https://soundcloud.com/bonobo) - [Ketto](https://www.youtube.com/watch?v=4tXFA6jTulk) | [Silver](https://www.youtube.com/watch?v=uczQRNRGTi4)
 - [40 Winks](https://soundcloud.com/40winks) - [Melancholia](https://www.youtube.com/watch?v=ZzdD7Ueb38g)
