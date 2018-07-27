@@ -6,6 +6,7 @@
 - [actix web](https://github.com/actix/actix-web) - Small, pragmatic, and extremely fast rust web framework
 - [yew](https://github.com/DenisKolodin/yew) - Framework to make client web apps.
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
+- [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 
 ## ORM
 - [Diesel](https://github.com/diesel-rs/diesel) - Safe, extensible ORM and Query Builder.

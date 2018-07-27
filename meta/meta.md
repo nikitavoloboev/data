@@ -7,7 +7,7 @@ If this is your first time visiting this wiki, you can just start reading from t
 
 I will be updating this wiki quite often as I use it myself daily both to keep an account of things I know as well as things I want to know and everything in-between.
 
-For super fast access of this wiki, I advise you to try out [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
+For super fast access of this wiki, I advise you to try out [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme).
 
 If you find some mistake, especially if something that I say is plain wrong, please fork [this repository](https://github.com/nikitavoloboev/knowledge) and make a PR with correct changes. Or [open an issue](https://github.com/nikitavoloboev/knowledge/issues/new) saying what you think is wrong.
 

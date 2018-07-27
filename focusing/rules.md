@@ -18,7 +18,7 @@ Some simple rules to follow for myself doing things.
 - Follow these rules. [Take it easy](../life/happiness.md). You only live now.
 
 ## Health
-- [Exercise](../fitness/fitness.md). Gym/Tennis/Run every morning.
+- [Exercise](../fitness/fitness.md). 1 hour of exercise every morning.
 - Eat a [whole food, plant based diet](../health/nutrition/nutrition.md). One salad every day.
 - Drink water, tea and occasional coffee. No added sugar in drinks/food.
 - [Fast](../health/nutrition/fasting.md) for 16 hours daily.

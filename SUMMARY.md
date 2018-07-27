@@ -172,6 +172,7 @@
 		- [Kubernetes](operating-systems/containers/kubernetes.md)
 		- [Docker](operating-systems/containers/docker.md)
 	- [BSD](operating-systems/bsd/bsd.md)
+	- [Windows](operating-systems/windows.md)
 - [Package managers](package-managers/package-managers.md)
 	- [Nix](package-managers/nix.md)
 	- [Brew](package-managers/brew.md)

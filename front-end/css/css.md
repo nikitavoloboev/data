@@ -17,3 +17,4 @@
 - [CSS Puns](https://saijogeorge.com/css-puns/)
 - [Magic of CSS](https://adamschwartz.co/magic-of-css/)
 - [Min](https://github.com/owenversteeg/min) - World's smallest (995 bytes) CSS framework.
+- [Emotion](https://emotion.sh/) - Performant and flexible CSS-in-JS library.

@@ -22,3 +22,4 @@
 - [Norman Tek](https://psychonautwiki.org/wiki/Norman_Tek)
 - [Cybs' Hybrid ATB 'Salt' Tek](https://wiki.dmt-nexus.me/Cybs'_Hybrid_ATB_'Salt'_Tek#Required_Equipment)
 - [A/B Extraction Tek](https://www.reddit.com/r/DMT/comments/7kcuuh/ab_dmt_extraction_tek/)
+- [What do you think about the DMT experience?](https://www.reddit.com/r/RationalPsychonaut/comments/919nrn/what_do_you_think_about_the_dmt_experience/)

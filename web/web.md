@@ -13,3 +13,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [devd](https://github.com/cortesi/devd) - Local webserver for developers.
 - [Lwan Web Server](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server.
 - [NetData](http://my-netdata.io/) - System for distributed real-time performance and health monitoring.
+- [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration.
+- [Ask HN: Where can one learn about the history of the internet and the protocols?](https://news.ycombinator.com/item?id=17607095)

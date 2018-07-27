@@ -30,10 +30,10 @@ I also have Focus trigger Do Not Disturb mode on Focusing. This way I get no not
 The things I work on during this 100 min focus session is specified by an event in [Fantastical](../macOS/apps/fantastical.md). The events are simply names of projects on which I want to work on in that time. Here are the most common events I use and what I do during them:
 - Code - I use [Bee](https://www.neat.io/bee/) app and work through GitHub issues in `Next` list.
 - Inbox - I open [2Do](../macOS/apps/2do.md) and work through the most prioritized tasks for `Today`.
+- Ideas - I pick an idea I want to work on from [Trello](https://trello.com/b/alB1ryRP) and make it.
 - Books - I open [PDF Expert](https://pdfexpert.com/) and read through the [book I set out to read](https://trello.com/b/MOrnm2aN).
 - Research papers - I open [PDF Expert](https://pdfexpert.com/) and read through the [research paper I set out to read](https://trello.com/b/EKl1Ie3q).
 - Learn - I choose a topic I want to learn from [Trello](https://trello.com/b/cu32qF3q) and learn it. Usually I start with wiki and resources from [LA](../projects/learn-anything.md).
-- Ideas - I pick an idea I want to work on from [Trello](https://trello.com/b/alB1ryRP) and make it.
 - Work - I work through most urgent tasks I need to complete for the company/startup/freelancing-project I am working on.
 
 At the end of the 100 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 100 min period. The projects in Timing are a reflection of projects in my Focus Trello board.

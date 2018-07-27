@@ -1,5 +1,5 @@
 # Queries
-Some web queries I use to keep on top of things. This page is parsed with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
+Some web queries I use to keep on top of things. This page is parsed with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme).
 
 ## GitHub
 - [Alfred](https://github.com/search?utf8=%E2%9C%93&q=alfred&type=Repositories&ref=searchresults&o=desc&s=updated)
