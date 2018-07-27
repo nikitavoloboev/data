@@ -8,3 +8,4 @@ I use [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/ma
 ## Links
 - [Awesome Chrome Extensions](https://github.com/learn-anything/chrome-extensions#readme)
 - [Some chrome extensions to use](https://news.ycombinator.com/item?id=15696056)
+- [Rendertron](https://github.com/GoogleChrome/rendertron) - Headless Chrome rendering solution.

@@ -49,7 +49,6 @@ I exclude all foods that are not healthy and experiment with many [vegan recipes
 - Mushrooms
 - Ginger
 - Garlic
-- Feta cheese
 - Mozzarella
 - Tofu
 - Olive oil

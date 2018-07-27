@@ -34,13 +34,6 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Monokai theme](https://github.com/nikitavoloboev/monokai-vim)
 - [Lightline](https://github.com/itchyny/lightline.vim) - Light and configurable statusline/tabline.
 
-## Go
-- [Vim Go](https://github.com/fatih/vim-go) - Go development.
-- [Deoplete Go](https://github.com/zchee/deoplete-go) - Asynchronous Go completion.
-
-## C
-- [Deoplete clang](https://github.com/zchee/deoplete-clang) - Deoplete source for C/C++/Obj-C/Obj-C++.
-
 ## Vim
 - [Neco](https://github.com/Shougo/neco-vim) - Vim source for neocomplete/deoplete.
 
@@ -107,6 +100,13 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Rust
 - [Rust](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
+
+## Go
+- [Vim Go](https://github.com/fatih/vim-go) - Go development.
+- [Deoplete Go](https://github.com/zchee/deoplete-go) - Asynchronous Go completion.
+
+## C
+- [Deoplete clang](https://github.com/zchee/deoplete-clang) - Deoplete source for C/C++/Obj-C/Obj-C++.
 
 ## Git
 - [Gitv](https://github.com/gregsexton/gitv) - See Git branching history.

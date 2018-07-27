@@ -18,7 +18,7 @@ Some simple rules to follow for myself doing things.
 - Follow these rules. [Take it easy](../life/happiness.md). You only live now.
 
 ## Health
-- [Exercise](../fitness/fitness.md). 1 hour of exercise every morning.
+- [Exercise](../fitness/fitness.md). 1 hour of exercise every day.
 - Eat a [whole food, plant based diet](../health/nutrition/nutrition.md). One salad every day.
 - Drink water, tea and occasional coffee. No added sugar in drinks/food.
 - [Fast](../health/nutrition/fasting.md) for 16 hours daily.
@@ -65,6 +65,7 @@ Some simple rules to follow for myself doing things.
 - Ask myself what is it that I am trying to solve or understand. Why?
 - Go deep. Specialize. Be great at some thing and then branch out.
 - Draw. Use drawings and imagination to distill complex ideas.
+- Watch talks & tutorials in at least 1.5x speed, unless it hurts comprehension.
 
 ## Compassion
 - Value each animal’s life as equal to that of my own. Don't eat anyone.
@@ -338,9 +339,6 @@ Some simple rules to follow for myself doing things.
 
 ## Paprika recipes
 - Add any new recipe I discover or make to Paprika. Add correct ingredients, instructions and a photo to each recipe.
-
-## Watching talks
-- Watch talks and tutorials at 1.5+ speed. Unless it hurts comprehension than watch it at slower speeds.
 
 ## Information
 - Don't save unnecessary information. This mostly concerns tracking data and the like. More data is not always better. Quality and purposeful data is.

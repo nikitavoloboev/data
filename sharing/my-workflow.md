@@ -9,7 +9,7 @@ I try to be methodical in working and doing things. And I use the best tools and
 ## Code
 - [VS Code](../text-editors/vs-code/vs-code.md) - Main editor. Write mostly Go and TypeScript.
 - [Sublime Text](../text-editors/sublime-text/sublime-text.md) - GitHub readmes, editing this wiki and quick edits.
-- [Neovim](../text-editors/vim/vim.md) - Edit my [Karabiner](../macOS/apps/karabiner/karabiner.md) config file there.
+- [Neovim](../text-editors/vim/vim.md) - Edit my [Karabiner](../macOS/apps/karabiner/karabiner.md) config with it and quick edits.
 
 ## Task tracking
 - [2Do](../macOS/apps/2do.md) - Personal day-to-day tasks. Every task is actionable.
