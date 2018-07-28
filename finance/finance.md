@@ -1,21 +1,19 @@
 # Finance
-For my own personal finance, I budget all my money with [YNAB](https://www.youneedabudget.com).
+For my own personal finance, I budget all my money with [Actual](https://actualbudget.com/beta/) using [YNAB methodology](https://www.youneedabudget.com/method/).
 
-[YNAB methodology](https://www.youneedabudget.com/method/) for managing money is extremely effective as it allows me to be be more proactive with budgeting and spending. It lets me know how much money I have and how much money I can spend on any given category. I find this proactive approach in dealing with money very freeing and powerful.
+YNAB methodology for managing money is extremely effective as it allows me to be be more proactive with budgeting and spending. It lets me know how much money I have and how much money I can spend on any given category. I find this proactive approach in dealing with money very freeing and powerful.
 
-Below are the categories I use in YNAB:
+Below are the categories I use in Actual:
 
-![](https://i.imgur.com/9Erp4Rs.png)
+![](https://i.imgur.com/KglgdwB.png)
 
-![](https://i.imgur.com/Fe8BPyc.png)
+![](https://i.imgur.com/APmXJnQ.png)
 
 I assign the budgets for the categories at the beginning of each month and am strict with adhering to the budgets. If there is no budget for eating out, don't eat out.
 
 Saving is just another category and I budget the money I have left after my budgeting towards saving for emergencies and bigger purchases.
 
-For recurring expenses such as my `Monthly` and `Annually` category groups, I put the recurring cost as part of the category name. This lets met easily evaluate the costs of my recurring payments and analyze it at a glance and makes budgeting for future easier too.
-
-I will be moving to using [Actual app](https://actualbudget.com/beta/) instead of YNAB once Actual for mobile gets released. YNAB is way too expensive for what it does.
+For recurring expenses such as my `Monthly` and `Annually` category groups, I put the recurring cost as part of the category name in brackets. This lets met easily evaluate the costs of my recurring payments and analyze it at a glance and makes budgeting for future easier too.
 
 ## Notes
 - FI is possible everywhere. The idea stays the same, save more than you spend, try generate passive income through stocks, dividends and property.

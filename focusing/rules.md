@@ -72,7 +72,7 @@ Some simple rules to follow for myself doing things.
 - Minimize suffering caused to other people. Be conscious of other people's feelings.
 
 ## Finance
-- Track every purchase made with YNAB. Put every purchase in its respective category.
+- Track every purchase made with Actual. Put every purchase in its respective category.
 - Adhere to [my budget](../finance/finance.md) that I set for each of the categories. If there is no budget left for eating out. Don't eat out.
 - Keep digital receipts of expensive purchases for warranty (scan it, if it's in paper).
 
