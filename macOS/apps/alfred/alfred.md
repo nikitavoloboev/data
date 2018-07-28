@@ -7,7 +7,7 @@ It has a great [community](http://www.alfredforum.com/) and [amazing workflows](
 
 I wrote [an article](https://medium.com/@nikitavoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
-### Workflows I use
+## Workflows I use
 My most used workflows at current time are:
 - [Searchio](https://github.com/deanishe/alfred-searchio#readme)
 - [GitHub Jump](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations)
@@ -20,6 +20,10 @@ My most used workflows at current time are:
 - [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow)
 
 Coupled with many [small workflows](https://github.com/nikitavoloboev/small-workflows) I made. I hope to add more workflows of my own [to the mix](https://github.com/learn-anything/alfred-workflows#readme) with time.
+
+## Alfred theme
+I use [Monokai theme](https://www.alfredapp.com/extras/theme/2eFqeKVw04/). Here is how it looks:
+![](https://i.imgur.com/nbpUM5r.png)
 
 ### Symlink workflows
 It is a great idea to symlink workflows you are working on so you can work on them in the comfort of your file system and not inside Alfred UUID named directories.
