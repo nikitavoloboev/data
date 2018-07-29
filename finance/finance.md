@@ -5,9 +5,9 @@ YNAB methodology for managing money is extremely effective as it allows me to be
 
 Below are the categories I use in Actual:
 
-![](https://i.imgur.com/KglgdwB.png)
+![](https://i.imgur.com/GuaCXvU.png)
 
-![](https://i.imgur.com/APmXJnQ.png)
+![](https://i.imgur.com/dmvYIEV.png)
 
 I assign the budgets for the categories at the beginning of each month and am strict with adhering to the budgets. If there is no budget for eating out, don't eat out.
 

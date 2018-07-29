@@ -17,13 +17,13 @@ I share songs I like in [form of playlists](../music/music-playlists.md). I also
 ## Videos on [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
 I mostly make videos about macOS. [Here](my-youtube.md) are all the videos I made. I also share [many YouTube playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view_as=subscriber) I made.
 
-## macOS/iOS group on [Telegram](https://t.me/macOSautomation)
-I love macOS and automation so I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
-
 ## Ideas in [Trello](https://trello.com/b/alB1ryRP)
 My time is limited and I can't often do everything I wish. But I have many ideas so I put all of them [in the open](https://trello.com/b/alB1ryRP).
 
 I have [many more Trello boards](my-trello.md) I use and share.
+
+## macOS/iOS group on [Telegram](https://t.me/macOSautomation)
+I love macOS and automation so I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
 ## Snippets on [GitHub Gists](my-gists.md)
 I share snippets of code I made with various languages for quick reference.

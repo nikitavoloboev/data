@@ -3,3 +3,4 @@
 
 ## Links
 - [Periodic Table](https://ptable.com/)
+- [A crash course in organic chemistry | Jakob Magolan](https://www.youtube.com/watch?v=4INdeZ5HYpw)

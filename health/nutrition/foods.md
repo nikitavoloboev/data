@@ -1,5 +1,5 @@
 # Foods
-I exclude all foods that are not healthy and experiment with many [vegan recipes](https://github.com/nikitavoloboev/vegan-recipes/#readme) from the many foods that are healthy. I follow a whole foods plant based diet.
+I exclude all foods that are not healthy and experiment with many [vegan recipes](https://github.com/nikitavoloboev/vegan-recipes/#readme) from the many foods that are healthy. I follow a whole food, plant based diet.
 
 ## Vegetables
 - Broccoli
