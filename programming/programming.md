@@ -36,3 +36,4 @@ I am not a great programmer by any means but the few programs I did write solved
 - [Engineering Principles at Monzo](https://monzo.com/blog/2018/06/29/engineering-principles/)
 - [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers#readme) - For when people get too hyped up about things.
 - [Fish Design Principles](https://fishshell.com/docs/current/design.html)
+- [List of resources about programming practices for writing safety-critical software](https://github.com/stanislaw/awesome-safety-critical#readme)

@@ -26,6 +26,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
 - [Ben Ridgway](https://www.samwoolfe.com/2018/06/the-visionary-art-of-ben-ridgway.html) - DMT inspired.
+- [Oleksij Luchnikov](https://www.artstation.com/luchnikov)
 
 ## Interesting art
 - [Alycia Rainaud](https://ello.co/maalavidaa)

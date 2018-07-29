@@ -9,9 +9,9 @@ I use [Streaks](https://streaksapp.com) iOS app to track any new habits I want t
 - No complaining (2018 July)
 
 ## Current habits
-![](https://i.imgur.com/ZbIjPxp.jpg)
+![](https://i.imgur.com/wYnu5ns.jpg)
 
-![](https://i.imgur.com/YKrp5DX.jpg)
+![](https://i.imgur.com/mZlduvG.jpg)
 
 ## Links
 - [Ask HN: Is there a new habit you cultivated recently that is really paying off? (2018)](https://news.ycombinator.com/item?id=17291127)

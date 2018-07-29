@@ -22,7 +22,6 @@ Below is a list of extensions I use.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
 - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Autocomplete npm modules in import statements.
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code running in Google Chrome from VS Code.
-- [Yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn) - Manage yarn commands.
 
 ## TypeScript
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - Supports [TSLint](https://palantir.github.io/tslint/).
@@ -90,6 +89,7 @@ Below is a list of extensions I use.
 
 ## JavaScirpt
 - [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack)
+- [Yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn) - Manage yarn commands.
 
 ## Java
 - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)

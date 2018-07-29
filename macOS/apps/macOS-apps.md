@@ -10,3 +10,4 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Awesome macOS apps](https://github.com/learn-anything/macos-apps#readme)
 - [Open Source macOS apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 - [Hyperlink and Deep Linking URLs](https://www.evernote.com/shard/s107/sh/c1c6cfa0-7558-4b17-84a0-6c7f6dce2a85/285e49afa8b122d9)
+- [Ship app open source code](https://www.realartists.com/blog/ship-is-open-source.html) - Amazing GitHub native client that was closed down.
