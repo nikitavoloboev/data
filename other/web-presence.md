@@ -44,6 +44,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Lobsters](https://lobste.rs/u/nikivi) - Frequently visit and contribute to this Hacker News like community.
 - [Hacker News](https://news.ycombinator.com/user?id=nikivi) - Often share things I built there.
 - [Product Hunt](https://www.producthunt.com/@nikitavoloboev) - Share all my bigger and smaller projects I made there.
+- [Indie Hackers](https://www.indiehackers.com/user/nikivi) - Awesome community of hackers and entrepreneurs.
 - [Mastodon](https://mastodon.xyz/@nikivi) - Pretty awesome federated network. Looking for interesting communities there.
 - [Google+](https://plus.google.com/u/0/+nikitavoloboev)
 - [Meetup](https://www.meetup.com/members/185347053/) - Attending various groups and meeting new interesting people and communities.
@@ -74,7 +75,7 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Support
 - [Patreon](https://patreon.com/nikitavoloboev) - Since I do nearly everything Open Source and Free by default, I don't get any money for these things. Thus anyone who likes my work can show it in form of small or bigger donations.
-- [Buy me a coffee](https://www.buymeacoffee.com/nikitavoloboev) - One time donations.
+- [Buy me a Coffee](https://www.buymeacoffee.com/nikitavoloboev) - One time donations.
 - [My public crypto addresses](https://www.vaulty.io/v/a0c360d0-2196-11e8-a119-494749abff15)
 
 ## Other
@@ -83,7 +84,6 @@ These are my personal profiles on various websites sorted by categories.
 - [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - My online CV.
 - [Leanpub](https://leanpub.com/u/nikitavoloboev) - Will publish my books there. Once I write them.
 - [Angel List](https://angel.co/nikitavoloboev) - Sometimes use it to find interesting startups to apply to.
-- [Indie Hackers](https://www.indiehackers.com/user/nikivi) - Awesome community of hackers and entrepreneurs.
 - [Home](https://nikitavoloboev.xyz) - My personal home page on the internet.
 - [Vimeo](https://vimeo.com/user18010447)
 - [Kickstarter](https://www.kickstarter.com/profile/2082672852)

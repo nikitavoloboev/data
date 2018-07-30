@@ -23,6 +23,7 @@ The number between brackets shows the year I created the repo in. Repos with ðŸŒ
 - [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.xyz#readme) - My personal home on the internet.
 - [Knowledge (2017) ðŸŒŸ](https://github.com/nikitavoloboev/knowledge#readme) - Everything I know.
 - [Vegan Recipes (2018)](https://github.com/nikitavoloboev/vegan-recipes#readme) - Vegan recipes I like.
+- [CV (2018)](https://github.com/nikitavoloboev/cv#readme) - My CV.
 
 ## Go Libraries
 - [Markdown Parser (2017)](https://github.com/nikitavoloboev/markdown-parser#readme) - Go library to parse markdown to grab various things.

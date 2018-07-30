@@ -5,7 +5,7 @@ I list things I am learning and want to learn in a [Trello board](https://trello
 
 I also visualize some topics and their relations as an [interactive mind map](https://my.mindnode.com/uQPgJs5DnVaAqyR9yrqxySQB6sCDRy2bmb7yxqKg#1653.2,-925.0,2).
 
-![](https://i.imgur.com/mQWt0vx.jpg)
+![](https://i.imgur.com/jfjbuzO.jpg)
 
 ## Notes
 - Take wherever you’re good at and just try to push your understanding deeper.
