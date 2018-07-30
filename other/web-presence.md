@@ -90,7 +90,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Airbnb](https://www.airbnb.com/users/show/48269245)
 - [DevianArt](https://nikivi.deviantart.com/)
 - [Eventbrite](https://www.eventbrite.com/u/146147331884/#) - Various events I have attended or planning to attend.
-- [Stack Overflow CV](https://stackoverflow.com/cv/nikitavoloboev) - Not updating it. Prefer LinkedIn.
+- [Stack Overflow CV](https://stackoverflow.com/cv/nikitavoloboev) - Not using it. Using LinkedIn.
 - [Gfycat](https://gfycat.com/@nikivi) - Sharing Gifs.
 - [TED](https://www.ted.com/profiles/10360419)
 - [AMA](https://github.com/nikitavoloboev/ama#readme) - Ask Me Anything.

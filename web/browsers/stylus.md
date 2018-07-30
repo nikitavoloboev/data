@@ -1,11 +1,11 @@
 # [Stylus](https://userstyles.org)
-I prefer to use darker interfaces on most websites I use so I change the looks of many websites with Stylus.
+I prefer to use darker interfaces on websites during evenings. So I change the looks of many websites with Stylus.
 
-I plan to rewrite [Safari Stylish](http://sobolev.us/stylish/) so it works on Safari 12.0
+I plan to rewrite [Safari Stylish](http://sobolev.us/stylish/) so it works on Safari 12.0 if no one else does it.
 
-And I use [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) on Chrome instead of Stylish as the latter [collects websites you visit](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/).
+I don't use Chrome/Firefox much but I use [Stylus](https://github.com/openstyles/stylus#readme) there instead of Stylish as the latter [collects websites you visit](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/).
 
-Below are themes I love using with it.
+Below are themes I like using with it.
 
 ## [GitHub Dark](https://userstyles.org/styles/37035/github-dark)
 ![](https://i.imgur.com/ValUboK.png)
@@ -28,8 +28,8 @@ Below are themes I love using with it.
 ## [Lobsters Dark](https://userstyles.org/styles/136068/neo-dark-lobsters)
 ![](https://i.imgur.com/nCjge7A.png)
 
-I also use [WikiWand](http://www.wikiwand.com) as my wiki dark mode:
+Even though I prefer using [Dictionary app](https://wokabulary.com/blog/the-built-in-dictionary-on-mac-and-iphone.html) I also use [WikiWand](http://www.wikiwand.com) extension for the web which has dark mode:
 
 ![](https://i.imgur.com/LdmPoF7.png)
 
-In the cases where there doesn’t exist a Stylish theme for a website, I sometimes use [Nightlight Safari extension](https://gofake1.net/projects/nightlight.html) to have all websites have night mode with a toggle on/off switch. It works surprisingly well and helps when using the internet at night.
+In the cases where there doesn’t exist a Stylus theme for a website, I sometimes use [Nightlight Safari extension](https://gofake1.net/projects/nightlight.html) to have all websites have night mode with a toggle on/off switch. It works surprisingly well and helps when using the internet at night.
