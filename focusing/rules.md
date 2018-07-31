@@ -195,7 +195,6 @@ Some simple rules to follow for myself doing things.
 - Practice self documentation. Where possible, document things inline in the code base or app itself in some way. Don't duplicate things.
 
 ## Keyboard Maestro
-- All macro names are lowercased. Unless it is necessary.
 - When doing macros to _focus_ on something, name the macro like _sidebar focus_ rather than _focus on sidebar_.
 - Minimize inputs and preconditions to macros. Sometimes it's possible that the input I need to a macro, I can get from another place within the macro itself.
 
@@ -225,7 +224,6 @@ Some simple rules to follow for myself doing things.
 - Spend time on phone mindfully. Read & be proactive.
 
 ## SnippetsLab
-- Lowercase and prefix all snippets. Notes uppercased.
 - Upload all non personal snippets as Gists.
 - Create smart group for each new prefix I add.
 - Add correct language syntax to every snippet.
