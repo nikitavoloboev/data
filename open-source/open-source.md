@@ -8,3 +8,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [After 5 years and $3M, here's everything we've learned from building Ghost](https://blog.ghost.org/5/)
 - [How I maintain FOSS projects](https://drewdevault.com/2018/06/01/How-I-maintain-FOSS-projects.html)
 - [Drive-by Haskell Contributions by Neil Mitchell](https://www.youtube.com/watch?v=6kGLHXsUQD4) - Great talk on how to start contributing to projects.
+- [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#readme)
