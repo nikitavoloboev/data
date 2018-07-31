@@ -25,7 +25,6 @@ All the snippets are created and managed by [SnippetsLab](../macOS/apps/snippets
 
 ## Other
 - [Regex](https://gist.github.com/search?l=Shell&q=user%3Anikitavoloboev+regex)
-- [Algorithms](https://gist.github.com/search?l=Markdown&q=user%3Anikitavoloboev+algo)
 - [Bookmarklets](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+bookmarklet&ref=searchresults)
 - [Definitions](https://gist.github.com/search?l=Markdown&q=user%3Anikitavoloboev)
 - [ASCII](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+ascii&ref=searchresults)

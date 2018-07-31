@@ -3,8 +3,8 @@ I use the app to manage my own [personal library of snippets](../../sharing/my-g
 
 This lets me then use the [Alfred workflow](https://www.renfei.org/snippets-lab/press-release/whats-new/osx-1.6.html) that the app's author provides to search for these snippets insanely fast.
 
-<img src="https://i.imgur.com/gzoH1Dh.png" width="500" alt="img">
+![](https://i.imgur.com/LBgw1BA.png)
 
 Here is how my library looks:
 
-![](https://i.imgur.com/LBQVFPo.png)
+![](https://i.imgur.com/h9mcBzJ.png)
