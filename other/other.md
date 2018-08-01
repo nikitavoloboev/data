@@ -24,6 +24,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Buffer](https://buffer.com/video) - Upload, schedule and share all your video content from one place.
 - [Nebia](https://nebia.com/) - Water saving showers.
 - [Density](https://www.density.io/) - People count.
+- [Ada](https://ada.support/) - Out-of-the-box AI chatbots for customer support.
 
 ## Other
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)

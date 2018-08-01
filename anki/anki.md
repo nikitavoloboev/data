@@ -11,6 +11,9 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - Use Lapses: if you fail a card n times, then let it be suspended and work on rewording it.
 - Reduce the amount of time spend on cards. If you do not have near-instant recall, mark it as "Again" and spend more time learning.
 
+## Interesting plugins
+- [Image Occlusion Enhanced](https://ankiweb.net/shared/info/1111933094) - Lets you create cards that hide parts of an image to test your knowledge of that hidden information.
+
 ## Notes
 - [Anki works due to the exponential decay of memory](https://www.reddit.com/r/Anki/comments/75bzzc/anki_overwhelms_me/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=Anki) - The better you know a card, the less often that it'll be shown to you.
 

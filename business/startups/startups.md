@@ -17,3 +17,4 @@
 - [Autopsy](http://autopsy.io) - Lessons Learned from Failed Tech Startups.
 - [Let's Crunch It](https://www.letscrunchit.com/) - Powerful, interactive calculators and planners.
 - [Startup Tracker](https://startuptracker.io/)
+- [Places to post your startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)

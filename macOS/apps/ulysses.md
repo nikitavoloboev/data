@@ -22,3 +22,6 @@ I use two [Alfred file filters](https://github.com/nikitavoloboev/small-workflow
 
 ## Notes
 - `ulysses://x-callback-url/new-sheet?text=New` - Will create a sheet in `Inbox` with `New` text.
+
+## Links
+- [Ulysses X-Callback-URL Support](https://ulysses.app/kb/x-callback-url/)
