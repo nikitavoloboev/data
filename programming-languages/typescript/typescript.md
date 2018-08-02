@@ -3,6 +3,7 @@
 
 ## Notes
 - TypeScript can figure the return type out by looking at the return statements, so we can also optionally leave this off in many cases
+- You really shouldn’t use arrow function as class members. Arrow functions are duplicated in memory for each class instance, while proper method members are written once in your class’s prototype and shared between all instances.
 
 ## Links
 - [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide#readme)

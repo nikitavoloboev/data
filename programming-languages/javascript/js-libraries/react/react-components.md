@@ -10,3 +10,4 @@
 
 ## Links
 - [Awesome React Components](https://github.com/brillout/awesome-react-components#readme)
+- [create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for easily publishing modern React libraries with Rollup and example usage via create-react-app.

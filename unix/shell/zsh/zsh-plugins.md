@@ -11,6 +11,7 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 - [FZF](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
 - [Zsh history substring search](https://github.com/zsh-users/zsh-history-substring-search) - ZSH port of Fish history search.
 - [Zsh syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [Zsh better npm completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for npm.
 
 ## Prompt
 - [Pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
