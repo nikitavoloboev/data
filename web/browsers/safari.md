@@ -13,7 +13,6 @@ I also open any of my most used websites using [KM macros](../../macOS/apps/keyb
 ## Extensions I use
 - [sVim](https://github.com/flipxfx/sVim) -  Adds a custom layer of keybinds you can customize to personalize your browsing experience. [My config](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c).
 - [AdGuard](https://adguard.com/en/adblock-adguard-safari.html) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
-- [WikiWand](http://www.wikiwand.com) - Wiki UI refinement (less noise and focus on content + night mode).
 - [Hckr News](https://hckrnews.com/about.html#extensions) - An interface change to [hacker news](https://news.ycombinator.com/) focusing on content and reducing visual noise.
 - [1Password](https://agilebits.com/onepassword/extensions) - [1Password](https://1password.com) is a phenomenal password manager, this extension just gives a seamless interaction of it with the browser.
 - [Translate](http://sidetree.com/extensions.html#Translate) - Automatically translate entire webpages into your preferred language as you browse.
