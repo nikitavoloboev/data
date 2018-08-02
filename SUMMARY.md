@@ -418,3 +418,4 @@
 		- [May](looking-back/2018/2018-may.md)
 		- [June](looking-back/2018/2018-june.md)
 		- [July](looking-back/2018/2018-july.md)
+		- [August](looking-back/2018/2018-august.md)
