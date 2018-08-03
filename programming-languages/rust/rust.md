@@ -6,3 +6,4 @@
 - [Building Reliable Infrastructure in Rust by Tyler Neely](https://www.youtube.com/watch?v=hMJEPWcSD8w)
 - [Rust in production at Figma](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)
 - [Category Theory in Rust Notes](https://github.com/damienstanton/ctrs)
+- [Cargo generate](https://github.com/ashleygwilliams/cargo-generate) - Developer tool to help you get up and running quickly with a new Rust project by leveraging a pre-existing git repository as a template.
