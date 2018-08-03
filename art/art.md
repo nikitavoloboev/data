@@ -1,11 +1,9 @@
 # Art
-At current time I am mostly a consumer of art rather than creator. I am working on changing that.
-
-I like to collect various beautiful art pieces as an Imgur album you can view [here](http://imgur.com/a/3m5wf). I also like various [psychedelic art](http://imgur.com/a/9yOpt) and specifically I love [art by James R. Eads](http://imgur.com/a/Aao8R).
+I like to collect beautiful art pieces as an Imgur album you can view [here](http://imgur.com/a/3m5wf). I also like various [psychedelic art](http://imgur.com/a/9yOpt) and specifically I love [art by James R. Eads](http://imgur.com/a/Aao8R).
 
 I share different photographs and art pieces I like on [my Instagram page](https://instagram.com/prettiways).
 
-I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](https://www.reddit.com/r/glitch_art).
+I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](https://www.reddit.com/r/glitch_art). And I love exploring [Artsy](https://www.artsy.net/) for various art people have made.
 
 ## Favorite artists
 - [Leland K Foster](http://www.lelandkfoster.com/)
@@ -27,6 +25,9 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Soreine](http://soreine.github.io/art/)
 - [Ben Ridgway](https://www.samwoolfe.com/2018/06/the-visionary-art-of-ben-ridgway.html) - DMT inspired.
 - [Oleksij Luchnikov](https://www.artstation.com/luchnikov)
+- [James Jean](https://www.artsy.net/artist/james-jean)
+- [Simen Johan](https://www.artsy.net/artist/simen-johan)
+- [Daniel Zeller](https://www.artsy.net/artist/daniel-zeller)
 
 ## Interesting art
 - [Alycia Rainaud](https://ello.co/maalavidaa)
@@ -40,3 +41,5 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Order from Chaos](https://vimeo.com/196269431)
 - [My Instagram likes](http://nikitavoloboev.tumblr.com/) - I once had a Tumblr blog I cross posted my Instagram likes to. Until Instragram closed the API in 2016.
 - [Dreamscope App](https://dreamscopeapp.com/) - Some cool art.
+- [Artsy: Digital Art](https://www.artsy.net/gene/digital-art)
+- [Artsy: Digital Art and Drawing](https://www.artsy.net/gene/digital-painting-and-drawing)

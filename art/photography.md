@@ -17,3 +17,8 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 - [Unsplash](https://unsplash.com) - Beautiful, free photos.
 - [Skuawk](http://skuawk.com) - Public domain photos.
 - [Beautiful images of Mars](https://www.uahirise.org/catalog/index.php?page=1)
+- [Artsy: Photography](https://www.artsy.net/gene/photography)
+- [Artsy: Landscapes](https://www.artsy.net/gene/landscapes)
+- [Artsy: Atmospheric Landscapes](https://www.artsy.net/gene/atmospheric-landscapes)
+- [Artsy: Landscape and Nature Photography](https://www.artsy.net/gene/landscape-and-nature-photography)
+- [Artsy: Color Photography](https://www.artsy.net/gene/color-photography)
