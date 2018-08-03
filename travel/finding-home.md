@@ -3,6 +3,7 @@ I use [AirBnb](https://www.airbnb.com) and FB groups for finding places to stay 
 
 ## Other
 ### NL
+- [I am expat](https://www.iamexpat.nl) - Personal favorite
 - [Only Expats](https://www.onlyexpats.nl/) - Personal favorite.
 - [Funda](https://www.funda.nl)
 - [Pararius](https://www.pararius.com)

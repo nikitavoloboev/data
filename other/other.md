@@ -18,14 +18,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Theremin](http://www.wikiwand.com/en/Theremin)
 	- [Carolina Eyck - Painting for theremin and voice](https://www.youtube.com/watch?v=hGo2ZQuBJKQ)
 
-## Products
-- [Future of AMAs](https://hackernoon.com/how-chris-messina-works-and-whats-the-future-of-amas-319046d1f12f)
-- [Typing](https://typing.io) - Typing Practice for Programmers.
-- [Buffer](https://buffer.com/video) - Upload, schedule and share all your video content from one place.
-- [Nebia](https://nebia.com/) - Water saving showers.
-- [Density](https://www.density.io/) - People count.
-- [Ada](https://ada.support/) - Out-of-the-box AI chatbots for customer support.
-
 ## Other
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
 - [Hashicorp principles](https://www.hashicorp.com/our-principles)

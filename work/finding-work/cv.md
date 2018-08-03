@@ -21,6 +21,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [KC Sivaramakrishnan](http://kcsrk.info/cv/cv.pdf)
 - [Jeaye Wilkerson](https://jeaye.com/resume.pdf) - Amazing.
 - [Benjamin Herzog](https://blog.benchr.de/cv.pdf)
+- [Ryan Holben](https://ryan-holben.github.io/assets/pdf/Resume.pdf)
 
 ## Notes
 - Experience > Education

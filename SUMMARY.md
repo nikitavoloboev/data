@@ -278,6 +278,7 @@
 - [Business](business/business.md)
 	- [Startups](business/startups/startups.md)
 	- [Landing pages](business/landing-pages.md)
+	- [Products](business/products.md)
 	- [Pricing](business/pricing.md)
 - [3D Printing](3d-printing/3d-printing.md)
 - [Anki](anki/anki.md)

@@ -37,3 +37,4 @@ I am not a great programmer by any means but the few programs I did write solved
 - [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers#readme) - For when people get too hyped up about things.
 - [Fish Design Principles](https://fishshell.com/docs/current/design.html)
 - [List of resources about programming practices for writing safety-critical software](https://github.com/stanislaw/awesome-safety-critical#readme)
+- [In Pursuit of Production Minimalism](https://brandur.org/minimalism)
