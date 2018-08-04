@@ -5,11 +5,7 @@ The fact that I can combine active and passive tracking together is very powerfu
 
 My projects look like this:
 
-![](https://i.imgur.com/9zfSPFg.png)
-
-And my preferred `Report` view is:
-
-![](https://i.imgur.com/RJ4vz3U.png)
+![](https://i.imgur.com/F8YVDbi.png)
 
 ## Notes
 - Can press ⌥ + → in `Review` tab to expand all items fully (assuming I selected the items I want to expand). Can `CMD+A` to select all projects beforehand.

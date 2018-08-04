@@ -10,11 +10,11 @@ For example, one of these _rules_ is that I need to be proactive with my email a
 
 ## Focusing on what's important
 I keep a private Trello board where I outline things that I want to focus on in life and achieve. I try to not work on long periods of time and predict things in advance for over three months and instead work in very short time frames whilst having some end goal(s) in mind of what I ultimately want to achieve. Here is how my __Focus__ Trello board looks:
-![](https://i.imgur.com/cjWcVxZ.jpg)
+![](https://i.imgur.com/ljXP7fr.jpg)
 
 I mark the cards I want to focus on right now in my life and by pressing `Q` in Trello I will only see these cards on the board.
 
-![](https://i.imgur.com/uCvXQzz.jpg)
+![](https://i.imgur.com/j0riBa0.jpg)
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
 
@@ -38,7 +38,7 @@ The things I work on during this 100 min focus session is specified by an event 
 
 At the end of the 100 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 100 min period. The projects in Timing are a reflection of projects in my Focus Trello board.
 
-![](https://i.imgur.com/9zfSPFg.png)
+![](https://i.imgur.com/F8YVDbi.png)
 
 I also use [modified EggTimer workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to quickly set time estimates for tasks I am working on.
 

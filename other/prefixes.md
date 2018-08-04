@@ -4,9 +4,6 @@ Prefixes and notations I use for various apps and tools and their meanings.
 ## SnippetsLab
 - <> - User input
 
-## 1Password
-- f: - Family
-
 ## Pixave
 - w. - Wallpapers
 - r. - Reactions
@@ -24,17 +21,9 @@ Prefixes and notations I use for various apps and tools and their meanings.
 - s. - Personal
 
 ## Keyboard Maestro
-- w: - Safari websites open
-- g: - Global macros
-- c: - Chrome websites open
-- open: - Open applications
-- e: - Examples
 - {} - What should be in my clipboard
 - [] - What state the macro should be in
 - <> - What link should be in my browser
-
-## Alfred
-- r. - Private workflows
 
 ## Safari
 - w: - Websites
