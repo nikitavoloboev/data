@@ -36,7 +36,6 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Writing
 - [Medium](https://medium.com/@nikitavoloboev) - My personal blog.
-- [GitBook](https://www.gitbook.com/@nikitavoloboev) - Share my [wiki](https://wiki.nikitavoloboev.xyz) there.
 
 ## Social
 - [Twitter](https://twitter.com/nikitavoloboev) - Sharing all the different things I am up to right now.

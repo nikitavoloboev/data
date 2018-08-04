@@ -3,7 +3,7 @@ If I ever want to master one thing in life, mindfulness would be it.
 
 I [wrote briefly](https://medium.com/@nikitavoloboev/the-root-of-it-all-9b6ab6a77e1d) about how I think of learning and gaining new skills in life as climbing a tree. And how each skill or thing you learn has a tree of dependencies leading up to it. Well, I found that if you think about this, then mindfulness is really the culprit of all the optimizations you want to do in your life. You may have good intentions and perhaps have a pretty good plan, but if you don't follow through, all of that is lost. And mindfulness and being aware of what it is you are doing is needed to make that happen.
 
-![](https://i.redd.it/5ke1r9et38601.jpg)
+![](https://www.waterfordcounselingservices.com/wp-content/uploads/2015/10/mindfull.jpg)
 
 I wrote more of my thoughts on mindfulness [here](meditation.md).
 
