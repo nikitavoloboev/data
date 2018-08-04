@@ -8,7 +8,7 @@ In the left corner you can make searches for what content I already indexed or y
 
 You can access any entry from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme) workflow.
 
-Aside from this wiki, you can also explore [Learn Anything](projects/learn-anything.md) for things that you can learn about.
+Aside from this wiki, you can also explore [Learn Anything](ideas/learn-anything.md) for things that you can learn about.
 
 ## Other things I wrote and shared
 I share my knowledge in longer form by [writing articles](sharing/my-articles.md) and making [YouTube videos](sharing/my-youtube.md).

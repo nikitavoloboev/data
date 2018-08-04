@@ -22,7 +22,7 @@ Some simple processes to follow when doing things.
 
 ## Learn
 1. Find what I want/need to learn. Ideally in context of a problem I want to solve.
-2. Read about it on wiki. Find the topic on [Learn Anything](../projects/learn-anything.md) and learn from best resources for deeper knowledge.
+2. Read about it on wiki. Find the topic on [Learn Anything](../ideas/learn-anything.md) and learn from best resources for deeper knowledge.
 3. Ask myself why it is the way it is.  Ask myself what am I missing and what I don't understand (tackle each dependency one by one).
 
 ## Make Alfred workflow

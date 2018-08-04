@@ -98,6 +98,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Hinkstep](https://soundcloud.com/hinkstep) - [Blend In With The Crowd](https://www.youtube.com/watch?v=7jkEFyv5OOE)
 - [Kokoroko](https://weouthere.bandcamp.com/track/abusey-junction) -  [Abusey Junction](https://www.youtube.com/watch?v=tSv04ylc6To)
 - [Uppermost](https://soundcloud.com/uppermost) - [Beautiful Light](https://www.youtube.com/watch?v=Q1DvVzKXktY)
+- [Baltra](https://soundcloud.com/baltra) - [fuck all y'all haters](https://www.youtube.com/watch?v=9Rz6L4D8xJU)
 
 ## Interesting artists
 - [Emapea](https://soundcloud.com/emapea)
