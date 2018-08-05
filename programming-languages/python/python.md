@@ -8,3 +8,4 @@
 - [Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure#readme)
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 - [Structuring Your Python Project](http://docs.python-guide.org/en/latest/writing/structure/)
+- [Awesome Python Features Explained Using Harry Potter](https://github.com/zotroneneis/harry_potter_universe#readme)

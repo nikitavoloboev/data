@@ -11,3 +11,4 @@
 - [Fish Are Sentient and Emotional Beings and Clearly Feel Pain](https://www.psychologytoday.com/us/blog/animal-emotions/201406/fish-are-sentient-and-emotional-beings-and-clearly-feel-pain)
 - [Jack Norris RD Blog](http://jacknorrisrd.com/)
 - [Why I'm A Vegan](https://www.youtube.com/watch?v=6DgUb9w8mOY)
+- [Why doctors don't recommend veganism: Dr Michael Greger](https://www.youtube.com/watch?v=ajhX5jWmlL0)

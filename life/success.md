@@ -14,3 +14,4 @@ Success comes from not giving up and doing what you love.
 - [How To Be More Productive](https://www.youtube.com/watch?v=qP1AmDRhoas)
 - [Death to Bullshit](http://deathtobullshit.com/)
 - [Cities - Paul Graham](http://www.paulgraham.com/cities.html)
+- [9 Minutes of Content That Allow for a Shift in Your Life](https://www.youtube.com/watch?v=CWUsnUgWzHg)
