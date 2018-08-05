@@ -19,4 +19,5 @@ In any way, I like to think my journey with macOS, operating systems, programmin
 - [A Pro’s Guide to the Best Secret Mac Features](https://matthewpalmer.net/blog/2018/04/14/ultimate-pro-guide-best-secret-mac-features/index.html)
 - [macOS open source](https://opensource.apple.com/)
 - [Create bootable USB macOS installer](https://macdaddy.io/create-bootable-usb-macos-installer/)
+- [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide#readme)
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins#readme)

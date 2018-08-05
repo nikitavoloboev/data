@@ -10,3 +10,4 @@ I try to give my full attention to any ideas I am working on.
 ## Links
 - [Project based learning](https://github.com/tuvtran/project-based-learning#readme) - Curated list of project-based tutorials.
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x#readme)
+- [Projects list](https://github.com/karan/Projects#readme)

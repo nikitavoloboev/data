@@ -1,4 +1,6 @@
 # [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+[MDN](https://developer.mozilla.org/bm/docs/Web/JavaScript) and [You don't know JS](https://github.com/getify/You-Dont-Know-JS#reame) are great intros.
+
 I love using [Prettier](https://github.com/prettier/prettier) for never having to think about styling code again. [AirBnb](https://github.com/airbnb/javascript) style guide is pretty awesome.
 
 ## Notes
@@ -8,6 +10,7 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - ‘this’, always references the owner of the function it is in, for this case — since it is now out of scope — the window/global object.
 
 ## Links
+- [JS in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
 - [2017 JavaScript Rising Stars](https://risingstars.js.org/2017/en/)
 - [ES6 features](https://github.com/lukehoban/es6features#readme)
 - [The Definitive Guide to Object-Oriented JavaScript](https://www.youtube.com/watch?v=PMfcsYzj-9M) - Amazing video to understand JS inheritance & objects.

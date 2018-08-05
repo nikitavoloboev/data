@@ -35,3 +35,4 @@
 - [Revisiting Combinators by Edward Kmett](https://www.youtube.com/watch?v=PA1Fc7DNKtA)
 - [Haskell Programming From First Principles - Follow-up Resources](https://github.com/pushcx/hpffp-resources)
 - [Quchen's articles](https://github.com/quchen/articles)
+- [Haskell Design Patterns?](https://www.reddit.com/r/haskell/comments/5r271m/haskell_design_patterns/)

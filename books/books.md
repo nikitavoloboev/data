@@ -89,6 +89,8 @@ Below are books I read or started reading. The books with links attached will le
 - [Looking for a dark scifi novel](https://www.reddit.com/r/printSF/comments/7mu8de/looking_for_a_dark_scifi_novel/)
 - [Three books every beginner to scifi should read](https://www.reddit.com/r/printSF/comments/5mrj3a/pick_three_books_you_think_every_beginner_to/)
 - [Good novels featuring mathematics and mathematical philosophy?](https://www.reddit.com/r/math/comments/5pgkpm/good_novels_featuring_mathematics_and/)
+- [Math-related pleasure reading books?](https://www.reddit.com/r/math/comments/569bxq/mathrelated_pleasure_reading_books/d8hgly1/)
+- [Ask HN: Non-tech books that have helped you grow professionally?](https://news.ycombinator.com/item?id=12415621)
 
 ## Links
 - [Ask HN: How do you read programming books?](https://news.ycombinator.com/item?id=15733745)

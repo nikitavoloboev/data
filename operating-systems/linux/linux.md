@@ -23,5 +23,7 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [Tilix](https://github.com/gnunn1/tilix) - Tiling terminal emulator.
 
 ## Links
+- [Linux insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 - [Linux Kernel Newbies](https://kernelnewbies.org/Documents)
 - [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
+- [Ricing Resources](https://rizonrice.github.io/resources)

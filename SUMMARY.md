@@ -265,6 +265,7 @@
 	- [Skin care](health/skin-care.md)
 	- [Depression](health/depression.md)
 - [Fitness](fitness/fitness.md)
+	- [Strength training](fitness/strength-training.md)
 - [Medicine](medicine/medicine.md)
 - [History](history/history.md)
 - [Travel](travel/travel.md)

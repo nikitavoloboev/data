@@ -27,3 +27,4 @@ I am interested in getting [Preonic Light](https://www.massdrop.com/buy/massdrop
 - [What keyboards do you use? Do you program them?](https://lobste.rs/s/nl96zm/what_keyboards_do_you_use_do_you_program)
 - [Quick and dirty guide to flashing your Planck Light bootloader](https://www.reddit.com/r/olkb/comments/8tk9jj/quick_and_dirty_guide_to_flashing_your_planck/)
 - [Planck Light review](https://www.reddit.com/r/MechanicalKeyboards/comments/8vd7ht/planck_light_review/)
+- [A Modern Space Cadet](http://stevelosh.com/blog/2012/10/a-modern-space-cadet)

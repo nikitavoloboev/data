@@ -28,6 +28,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [James Jean](https://www.artsy.net/artist/james-jean)
 - [Simen Johan](https://www.artsy.net/artist/simen-johan)
 - [Daniel Zeller](https://www.artsy.net/artist/daniel-zeller)
+- [Michał Klimczak](https://500px.com/shume)
 
 ## Interesting art
 - [Alycia Rainaud](https://ello.co/maalavidaa)
