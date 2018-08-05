@@ -18,7 +18,6 @@ Prefixes and notations I use for various apps and tools and their meanings.
 - r. - Research papers
 - d. - Documents
 - b. - Books
-- s. - Personal
 
 ## Keyboard Maestro
 - {} - What should be in my clipboard

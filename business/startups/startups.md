@@ -18,3 +18,4 @@
 - [Let's Crunch It](https://www.letscrunchit.com/) - Powerful, interactive calculators and planners.
 - [Startup Tracker](https://startuptracker.io/)
 - [Places to post your startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
+- [Guy Kawasaki: The Top 10 Mistakes of Entrepreneurs](https://www.youtube.com/watch?v=HHjgK6p4nrw)

@@ -88,6 +88,7 @@ Below are books I read or started reading. The books with links attached will le
 - [Ask HN: What's one book that changed your life? (2018)](https://news.ycombinator.com/item?id=17168136)
 - [Looking for a dark scifi novel](https://www.reddit.com/r/printSF/comments/7mu8de/looking_for_a_dark_scifi_novel/)
 - [Three books every beginner to scifi should read](https://www.reddit.com/r/printSF/comments/5mrj3a/pick_three_books_you_think_every_beginner_to/)
+- [Good novels featuring mathematics and mathematical philosophy?](https://www.reddit.com/r/math/comments/5pgkpm/good_novels_featuring_mathematics_and/)
 
 ## Links
 - [Ask HN: How do you read programming books?](https://news.ycombinator.com/item?id=15733745)

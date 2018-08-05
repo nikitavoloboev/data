@@ -14,6 +14,7 @@ I love software and non software tools that help me in some way.
 - [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage.
 - [Tiny Letter](https://tinyletter.com)
 - [Loom](https://www.useloom.com/) - New kind of work communication tool that helps you get your message across through instantly shareable videos.
+- [Habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation.
 
 ## Links
 - [The Developer's Toolbox 2018](https://medium.com/mobile-quality/the-developers-toolbox-daaaa875081e)

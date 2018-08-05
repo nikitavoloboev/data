@@ -10,7 +10,7 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 - [April](2018/2018-april.md) - Finding happiness. Started playing tennis and growing a healthy recipe collection.
 - [May](2018/2018-may.md) - Started using Nix. Minimized more things.
 - [June](2018/2018-june.md) - University exams. Working on LA's design and more minimizing.
-- [July](2018/2018-july.md) - Joined DeedMob. Happiest month in a long while.
+- [July](2018/2018-july.md) - Joined Deedmob. Happiest month in a long while.
 - [August](2018/2018-august.md)
 
 ## [2017](2017/2017.md)

@@ -24,3 +24,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Vim Golf](http://www.vimgolf.com/)
 - [Vim Is Not About hjkl](http://sandymaguire.me/blog/vim-is-not-about-hjkl/)
 - [Ask HN: What is one Vim trick most people don't know? (2018)](https://news.ycombinator.com/item?id=17422516)
+- [Vim Proverbs](https://www.vi-improved.org/vim-proverbs/)
