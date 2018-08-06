@@ -25,12 +25,12 @@ Replace words like `really like` with `love` or other more appropriate words tha
 ## Know what to write next
 I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have of what I want to write next. I set due dates for articles I want to write and start working on them. Most often it is the simple act of starting to write something that makes something I can actually publish that I like. Here is how my Trello board looks:
 
-![](https://i.imgur.com/U8JjGl7.png)
+![](https://i.imgur.com/tLEyagB.png)
 
 ## My process in writing
 I start writing all my articles by jotting down notes as dashed points below the title. Here is how that looks:
 
-![](https://i.imgur.com/zxAl5vO.png)
+![](https://i.imgur.com/zamdnUf.png)
 
 I then start writing the article and try to touch on one or all of these points as I write the article. I add/remove points as I write the article.
 

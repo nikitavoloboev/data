@@ -106,7 +106,6 @@ Below is a list of extensions I use.
 ## Themes
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
 - [Alabaster](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster)
-- [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
 
 ## Notes
 - In [Go plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) `ife` snippet will create an error catching block.

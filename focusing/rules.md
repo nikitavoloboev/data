@@ -65,7 +65,7 @@ Some simple rules to follow for myself doing things.
 - Ask myself what is it that I am trying to solve or understand. Why?
 - Go deep. Specialize. Be great at some thing and then branch out.
 - Draw. Use drawings and imagination to distill complex ideas.
-- Watch talks & tutorials in at least 1.5x speed, unless it hurts comprehension.
+- Watch talks & tutorials in 1.5 or 2x speed, unless it hurts comprehension.
 
 ## Compassion
 - Value each animal’s life as equal to that of my own. Don't eat anyone.
