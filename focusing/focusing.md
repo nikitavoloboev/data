@@ -9,14 +9,17 @@ I try to define a certain set of [rules](rules.md) and [processes](processes.md)
 For example, one of these _rules_ is that I need to be proactive with my email and action on every email I read. But there are [many other ones](rules.md) out there.
 
 ## Focusing on what's important
-I keep a private Trello board where I outline things that I want to focus on in life and achieve. I try to not work on long periods of time and predict things in advance for over three months and instead work in very short time frames whilst having some end goal(s) in mind of what I ultimately want to achieve. Here is how my __Focus__ Trello board looks:
+I keep a private Trello board where I outline things that I want to focus on in life and achieve.
+
 ![](https://i.imgur.com/ljXP7fr.jpg)
 
-I mark the cards I want to focus on right now in my life and by pressing `Q` in Trello I will only see these cards on the board.
+I mark the projects and goals I want to focus on right now in my life and by pressing `Q` in Trello I will only see these cards on the board.
 
 ![](https://i.imgur.com/j0riBa0.jpg)
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
+
+I found this goal centric approach to be incredibly useful as it lets me focus on making sure I do everything I need to achieve the goals I have set for myself. Making sure I limit the number of projects I am working on at any given time lets me actually deeply focus on them instead of being scattered around wondering if I am working on the right thing in the moment.
 
 ## Focus sessions
 I use [Focus app](https://heyfocus.com) to block many non work related websites for 100 minutes (front pages of Hacker News, Reddit, ..) every 2 hours.
