@@ -25,3 +25,4 @@ And I have deep interest in [Differential privacy](http://www.wikiwand.com/en/Di
 - [Why Zuckerberg’s 14-year apology tour hasn’t fixed Facebook](https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/)
 - [Against Facebook](https://0xadada.pub/2018/05/01/against-facebook/)
 - [Google embraces, extends, and extinguishes](http://sircmpwn.github.io/2018/05/03/Google-embraces-extends-extinguishes.html)
+- [Inside China’s Dystopian Dreams: A.I., Shame and Lots of Cameras](https://www.nytimes.com/2018/07/08/business/china-surveillance-technology.html)

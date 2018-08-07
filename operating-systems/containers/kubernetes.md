@@ -4,7 +4,7 @@
 - [Portainer](https://portainer.io) - Lighter than Rancher (for Docker).
 
 ## Notes
-- Kubernetes can do everything Docker Swarm can do.
+- Kubernetes runs pods that contain 1 to n docker containers. So if you have your apps in the form of docker images you are ready to go.
 
 ## Links
 - [What happens when I type kubectl run](https://github.com/jamiehannaford/what-happens-when-k8s)

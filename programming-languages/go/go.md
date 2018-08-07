@@ -58,3 +58,4 @@ Go promotes composition over inheritance.
 - [Web Assembly and Go: A look to the future (2018)](https://brianketelsen.com/web-assembly-and-go-a-look-to-the-future/)
 - [How I Learned to Stop Worrying and Love Golang](https://corte.si/posts/code/go/golang-practicaly-beats-purity/index.html)
 - [List of advices and tricks in the Go's world](https://github.com/cristaloleg/go-advices#readme)
+- [Golang challenge](http://golang-challenge.org/)
