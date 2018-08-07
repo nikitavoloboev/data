@@ -13,7 +13,7 @@ I keep a private Trello board where I outline things that I want to focus on in 
 
 ![](https://i.imgur.com/ljXP7fr.jpg)
 
-I mark the projects and goals I want to focus on right now in my life and by pressing `Q` in Trello I will only see these cards on the board.
+I mark the projects and goals I want to focus on right now, and by pressing `Q` in Trello I will only see these cards on the board.
 
 ![](https://i.imgur.com/j0riBa0.jpg)
 
@@ -26,7 +26,7 @@ I use [Focus app](https://heyfocus.com) to block many non work related websites 
 
 ![](https://i.imgur.com/B9Tsaxf.png)
 
-![](https://i.imgur.com/rZkauBr.png)
+![](https://i.imgur.com/Cl8Iqzb.png)
 
 I also have Focus trigger Do Not Disturb mode on Focusing. This way I get no notifications when I am working and I get 0 distractions.
 
