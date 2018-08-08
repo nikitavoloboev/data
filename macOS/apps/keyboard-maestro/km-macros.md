@@ -84,8 +84,3 @@ It lists the global palettes I have made. When I activate any of the options, it
 Application specific palettes can be found inside `palettes/app`.
 
 These palettes all start with either `tf: ` or `ta: `. The reason is that I have binded `Space + a` and `Space + f` to activate application specific palettes. I thus name the palettes appropriately to distinguish them from my `Global` palettes.
-
-## Downloading macros individually
-If you don't wish to clone the entire repository and load the macros this way. You can also individually load macros by going to the macro group/palette on GitHub itself.
-
-For example if you want to download only `w: Open websites (Safari)` macro group found [here](https://github.com/nikitavoloboev/my-mac-os/blob/master/km/macros/global/w:%20Open%20websites%20(Safari).kmmacros). You would press `View Raw` button and then save it locally. When asked to save, mac will ask you if you want to append `.txt` extension to it. Say no. You can then open that specific macro group/palette from KM by simply double clicking the file.

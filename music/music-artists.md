@@ -99,6 +99,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Kokoroko](https://weouthere.bandcamp.com/track/abusey-junction) -  [Abusey Junction](https://www.youtube.com/watch?v=tSv04ylc6To)
 - [Uppermost](https://soundcloud.com/uppermost) - [Beautiful Light](https://www.youtube.com/watch?v=Q1DvVzKXktY)
 - [Baltra](https://soundcloud.com/baltra) - [fuck all y'all haters](https://www.youtube.com/watch?v=9Rz6L4D8xJU)
+- [Susumu Yokota](https://susumuyokota.bandcamp.com) - [Kodomotachi](https://www.youtube.com/watch?v=p5ZbGLzyqcQ)
 
 ## Interesting artists
 - [Emapea](https://soundcloud.com/emapea)
