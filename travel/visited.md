@@ -1,9 +1,11 @@
 # Visited
-Countries and cities I visited thus far with some comments on them.
+I keep various lists of places I liked on [Foursquare](https://foursquare.com/user/458393289).
+
+Below are countries and cities I visited thus far with some comments on them.
 
 ## Netherlands
-- Eindhoven - Doing my CS BSc here. Not the most exciting city.
-- Amsterdam - Visited it a few times and loved it.
+- Eindhoven - Did my CS degree there. Not the most exciting city.
+- Amsterdam - Love it.
 
 ## Cyprus
-- Limassol - Has been my home for a long time. Loved the weather there and the sea.
+- Limassol - Has been my home for a long time. Loved the non summer weather there and the sea.
