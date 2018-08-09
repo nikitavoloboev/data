@@ -13,3 +13,4 @@ A list of albums I like.
 - [Carbon Based Lifeforms - World Of Sleepers (2006)](https://www.youtube.com/watch?v=KQE29az48gM)
 - [Carbon Based Lifeforms - Derelicts (2017)](https://www.youtube.com/watch?v=5o_uF1L5l6o)
 - [SHEOGORATH - ZOOM (2018)](https://www.youtube.com/watch?v=RPxvTd_jCPQ)
+- [Electronic System - Skylab (1974)](https://www.youtube.com/watch?v=cIwDLN2X6Rs)

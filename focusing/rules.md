@@ -223,6 +223,9 @@ Some simple rules to follow for myself doing things.
 - Only have notifications from real people and 2Do. The rest should be blocked. No badges.
 - Spend time on phone mindfully. Read & be proactive.
 
+## Web
+- Using Single Sign On where possible.
+
 ## SnippetsLab
 - Upload all non personal snippets as Gists.
 - Create smart group for each new prefix I add.

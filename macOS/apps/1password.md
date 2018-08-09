@@ -7,4 +7,4 @@ As I use [SSO](https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/)
 
 ![](https://i.imgur.com/VfbwIhq.png)
 
-Where `(G)` stands for Google. Alternatively it could be `(G)` for GitHub and `(F)` for Facebook. Facebook is good for times when a service does need to hook into my friend circle (Spotify is good example of it).
+Where `(G)` stands for Google. Alternatively it could be `(H)` for GitHub and `(F)` for Facebook. Facebook is good for times when a service does need to hook into my friend circle (Spotify is good example of it).
