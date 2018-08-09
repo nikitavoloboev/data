@@ -74,6 +74,7 @@
 		- [Sketch](macOS/apps/sketch.md)
 		- [Contacts](macOS/apps/contacts.md)
 		- [Keychain](macOS/apps/keychain.md)
+		- [1Password](macOS/apps/1password.md)
 		- [Little Snitch](macOS/apps/little-snitch.md)
 	- [JXA](macOS/jxa.md)
 	- [AppleScript](macOS/applescript.md)

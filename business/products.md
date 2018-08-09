@@ -7,3 +7,4 @@
 - [Density](https://www.density.io/) - People count.
 - [Ada](https://ada.support/) - Out-of-the-box AI chatbots for customer support.
 - [Zeplin](https://zeplin.io/) - Connected space for product teams.
+- [Katacoda](https://www.katacoda.com/) - Interactive Learning and Training Platform for Software Engineers.
