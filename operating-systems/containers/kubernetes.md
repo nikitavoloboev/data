@@ -18,3 +18,4 @@
 - [Portainer](https://portainer.io) - Lighter than Rancher (for Docker).
 - [Kubernetes 101 (2018)](https://www.stavros.io/posts/kubernetes-101/)
 - [node-problem-detector](https://github.com/kubernetes/node-problem-detector) - Aims to make various node problems visible to the upstream layers in cluster management stack.
+- [kubectx](https://github.com/ahmetb/kubectx) - Fast way to switch between clusters and namespaces in kubectl.
