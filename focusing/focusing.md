@@ -45,7 +45,7 @@ I also use [modified EggTimer workflow](https://github.com/nikitavoloboev/small-
 I focus fully on [solving problems](../research/solving-problems.md) I need to solve and spend 0 energy thinking about what I should be doing or whether I am spending my time wisely in the moment. Full focus on the task at hand. No multitasking. No distractions.
 
 ## Other things
-- I don't listen to distracting music when focusing and instead use [Noizio](http://noiz.io/), [Oak](https://www.oakmeditation.com) or listen to my [Focus](https://open.spotify.com/user/nikitavoloboev/playlist/2mriYMEK60P7T7XtQz9pDe) playlist.
+- I Don't listen to distracting music. And instead use [Noizio](http://noiz.io), [Oak](https://www.oakmeditation.com), [my Focus playlist](https://open.spotify.com/user/nikitavoloboev/playlist/2mriYMEK60P7T7XtQz9pDe) or have nothing playing at all.
 - I always have water or tea nearby and keep myself hydrated. If I can't solve some problem or feel like I can't keep my focus, I take a walk outside or do some exercise.
 - I try to work outside of home and move often. When that is not possible I emulate a working environment in some part of my home so my brain knows that if I am in this place, it is time to work and not do anything else.
 - I don't use any external monitors. I found multiple monitors distracting as I can do everything fast from my computer already.

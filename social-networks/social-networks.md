@@ -24,3 +24,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [A plan to rescue the web](https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html)
 - [How to Fix Facebook—Before It Fixes Us](https://washingtonmonthly.com/magazine/january-february-march-2018/how-to-fix-facebook-before-it-fixes-us/)
 - [Growing apart and losing touch is human and healthy](https://m.signalvnoise.com/growing-apart-and-losing-touch-is-human-and-healthy-52b5a678fbf5)
+- [Sex, Beer, and Coding: Inside Facebook’s Wild Early Days in Palo Alto](https://medium.com/@WIRED/sex-beer-and-coding-inside-facebooks-wild-early-days-in-palo-alto-7b447c143d52)

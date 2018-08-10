@@ -54,7 +54,7 @@ Some simple rules to follow for myself doing things.
 - Look at where I spend my time in Timing and cut those out with Focus and scripts.
 - Less than 1 hour _News_ time every day.
 - Use one screen when coding. Much easier to context switch.
-- Don't listen to distracting music. Use [Noizio](http://noiz.io), [Oak](https://www.oakmeditation.com) or [Focus](https://open.spotify.com/user/nikitavoloboev/playlist/2mriYMEK60P7T7XtQz9pDe) playlist.
+- Don't listen to distracting music. Use [Noizio](http://noiz.io), [Oak](https://www.oakmeditation.com), [Focus playlist](https://open.spotify.com/user/nikitavoloboev/playlist/2mriYMEK60P7T7XtQz9pDe) or have nothing playing at all.
 - Sit up right always. Never slouch.
 
 ## Learn
@@ -224,7 +224,7 @@ Some simple rules to follow for myself doing things.
 - Spend time on phone mindfully. Read & be proactive.
 
 ## Web
-- Using Single Sign On where possible.
+- Use Single Sign On where possible.
 
 ## SnippetsLab
 - Upload all non personal snippets as Gists.
