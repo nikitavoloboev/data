@@ -17,10 +17,10 @@ The number between brackets shows the year I wrote the article in. Articles with
 - [Write once, never write again (2017) 🌟](https://medium.com/@nikitavoloboev/write-once-never-write-again-c2fa1f6c4e8) - How to save time writing with Typinator and Keyboard Maestro.
 
 ## Code
-- [Insta cloning (2017) 🌟](https://medium.com/@nikitavoloboev/insta-cloning-ff5f38eb1d32) - How to quickly clone and open the repository in your favorite editor.
+- [Insta cloning (2017) 🌟](https://medium.com/@nikitavoloboev/insta-cloning-ff5f38eb1d32) - How to quickly clone and open any repository in your favorite editor.
 
 ## Writing
-- [Why Medium? (2016)](https://medium.com/@nikitavoloboev/why-medium-ff9b13fefe61#.guictx69p) - Why host my writing on Medium and not on my own site.
+- [Why Medium? (2016)](https://medium.com/@nikitavoloboev/why-medium-ff9b13fefe61#.guictx69p) - Why host my writing on Medium and not my own site.
 
 ## Privacy
 - [Like a dog on a leash (2017) 🌟](https://medium.com/@nikitavoloboev/like-a-dog-on-a-leash-c0cdb8839079) - My thoughts on privacy and why one should care about it.

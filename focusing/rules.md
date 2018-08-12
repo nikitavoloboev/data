@@ -310,7 +310,7 @@ Some simple rules to follow for myself doing things.
 - No Mac/phone in bed in the the morning.
 
 ## Timing
-- Minimize _News_ time and aim at __< 1 hour News time__ a day. Ideally less. Block everything that is distracting when working.
+- Minimize _News_ time and aim at __< 40 hour News time__ a day. Ideally less. Block everything that is distracting when working.
 - Mark all time past in Timing. Adjust filters and projects to what kind of things I am working on.
 
 ## Tools

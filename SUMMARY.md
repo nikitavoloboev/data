@@ -279,6 +279,8 @@
 	- [Landing pages](business/landing-pages.md)
 	- [Products](business/products.md)
 	- [Pricing](business/pricing.md)
+- [Relationships](relationships/relationships.md)
+	- [Dating](relationships/dating.md)
 - [3D Printing](3d-printing/3d-printing.md)
 - [Anki](anki/anki.md)
 - [Philosophy](philosophy/philosophy.md)

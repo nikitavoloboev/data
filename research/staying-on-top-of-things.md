@@ -41,7 +41,6 @@ Aside from that I like visiting and at times contributing to these forums:
 
 As well as a few other Slack communities like:
 - [Gophers](https://invite.slack.golangbridge.org/)
-- [ZEIT chat](https://zeit.chat)
 - [VS Code Vim](https://vscodevim-slackin.azurewebsites.net/)
 
 ## Links
