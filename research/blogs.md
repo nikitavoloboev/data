@@ -16,6 +16,7 @@ I use [Reeder](../macOS/apps/reeder.md) to stay on top of my favorite blogs I fo
 - [Guillermo Rauch](https://rauchg.com/essays)
 - [Andre Weissflog](http://floooh.github.io/archive/)
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/)
+- [Cindy Sridharan](https://medium.com/@copyconstruct)
 
 ## Links
 - [Awesome Blogs](https://github.com/learn-anything/blogs#readme)
