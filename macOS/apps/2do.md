@@ -14,7 +14,7 @@ I create many smart lists of most common tags I want to jump to. I use `J` key a
 
 I also add time estimates to tasks like so:
 
-![](https://i.imgur.com/9jh9RST.png)
+![](https://i.imgur.com/pEixbt3.png)
 
 I don't add time estimates to all tasks but I try to add it where possible.
 
@@ -24,9 +24,9 @@ Given my growing collection of tasks I am yet to do. Some 3,000 pending tasks. I
 
 And here are the other tags I use:
 
-![](https://i.imgur.com/pH5spNb.png)
+![](https://i.imgur.com/5jKIWna.png)
 
-![](https://i.imgur.com/2GEskG2.png)
+![](https://i.imgur.com/YNe6FxA.png)
 
 I made my `All` list sorted by `Modified date`. This lets me cleanly delete or act on all tasks that have been sitting in my 2Do for too long with no activity.
 
