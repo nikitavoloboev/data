@@ -5,7 +5,7 @@ My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/
 
 I use [Monokai Pro](https://www.monokai.pro/vscode/) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
-![](https://i.imgur.com/aBTMkTk.png)
+![](https://i.imgur.com/wBvAIHR.png)
 
 ## Notes
 - [VS Code is architected in a way where extensions are not eagerly activated by default. Each extension can declare a list of activation events, such as e.g. opening a file of a certain language, invoking a specific command, starting debugging, etc.](https://news.ycombinator.com/item?id=16940419)

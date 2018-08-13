@@ -5,7 +5,7 @@ I love GTD methodology. This app is phenomenal with helping me organize my tasks
 
 It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 
-<img src="https://i.imgur.com/UPdjh6N.png" width="400" alt="img">
+![](https://i.imgur.com/lJHn8NK.png)
 
 ## Managing tasks with tags
 My main way of managing tasks is with __tags__. This lets me give scope to the task I want to complete and lets me filter through the many thousands of tasks I have in my __Inbox__.
