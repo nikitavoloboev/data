@@ -27,3 +27,4 @@
 - [Learn Math Fast](https://github.com/llSourcell/learn_math_fast#readme) - Curated list of awesome mathematics resources.
 - [Russian wiki on math & finance](http://synset.com/wiki/index.php/Заглавная_страница)
 - [Math for CS MIT Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
+- [MSC2010](https://mathscinet.ams.org/msc/pdfs/classifications2010.pdf) - Huge catalog of math topics.
