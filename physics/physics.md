@@ -3,7 +3,7 @@ Studies how our universe behaves.
 
 Many great things came from trying to understand how this world is put together and what laws govern it.
 
-Perhaps we can replicate a universe like ours in the future. One of the more interesting thoughts to ponder on is how complexity can emerge from rather simple rules. One example of that is [cellular automata](https://learn-anything.xyz/mathematics/computability-theory/cellular-automata) and the infamous [Conway's game of life](http://www.wikiwand.com/en/Conway's_Game_of_Life).
+Perhaps we can replicate a universe like ours in the future. One of the more interesting thoughts to ponder on is how complexity can emerge from rather simple rules. One example of that is [cellular automata](https://natureofcode.com/book/chapter-7-cellular-automata/) and the infamous [Conway's game of life](http://www.wikiwand.com/en/Conway's_Game_of_Life).
 
 ## Notes
 - What is energy?

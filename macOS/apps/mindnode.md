@@ -5,7 +5,7 @@ An application which allowed me to originally create all of the maps for [Learn 
 
 I have a __Think__ map where I [brainstorm things](../../research/solving-problems.md) I am doing __now__ there.
 
-I also use MindNode to visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/uQPgJs5DnVaAqyR9yrqxySQB6sCDRy2bmb7yxqKg#1653.2,-925.0,2).
+I also use MindNode to visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/16ppjh7Vs2ABJkgs7yyHo75KHymhoosayvDUyeRs#268.5,-734.1,1).
 
 ![](https://i.imgur.com/jfjbuzO.jpg)
 

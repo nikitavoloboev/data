@@ -60,7 +60,7 @@ Not sure if these photos will actually stay here as they are links from Instagra
 ### (13) Went through all my old FB posts
 Went through all my FB posts on my account and transferred the links + photos to my Photos app locally. I posted a lot of songs and links there as it turns out. Was fun going through most of them but I am super happy to never ever post to FB again. Life is so much simpler without it. I have a pretty awesome mental outlook on how I want to approach using technology and tools going forward and I want to cut out anything that brings me no use to my life.
 
-One thing I did find that was actually interesting was the first post I made about the mind map I was making that back then was called `research` and you can still explore it live [here](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J#-18.1,-200.3,2). It's a _lot_ smaller than what it once was. Before I started cleaning and going through it all moving all the links to another map I started to make which I named `learn anything` and you can see that map [here](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#171.5,-731.2,0). History is fun to look back on.
+One thing I did find that was actually interesting was the first post I made about the mind map I was making that back then was called `research`. It was huge and with time I started cleaning and going through it all moving all the links to another map I started to make which I named `learn anything` and you can see that map [here](https://my.mindnode.com/16ppjh7Vs2ABJkgs7yyHo75KHymhoosayvDUyeRs#268.5,-734.1,1). History is fun to look back on.
 
 ![](https://i.imgur.com/uVXL6XO.png)
 
@@ -104,7 +104,7 @@ Here is a little collage of my favorite posts I made on FB since my first articl
 
 ![](https://i.imgur.com/bmxiORp.png)
 
-> I didn't think much of the mind map back then. Aside from the fact that I loved mind maps and I thought that making mind maps was awesome. This [learn anything](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#319.2,-697.8,0) map was born from me trying to break down the huge _research_ map into smaller maps connected to each other. I also only focused on links rather than notes + links that _research_ map had. I automated adding of links as well as opening any of the maps so extending it was quite easy and fun even. In many ways I became obsessed with that map as I wanted to connect every topic that you can learn about in there. It was named _learn anything_ after all.
+> I didn't think much of the mind map back then. Aside from the fact that I loved mind maps and I thought that making mind maps was awesome. This [learn anything](https://my.mindnode.com/16ppjh7Vs2ABJkgs7yyHo75KHymhoosayvDUyeRs#268.5,-734.1,1) map was born from me trying to break down the huge _research_ map into smaller maps connected to each other. I also only focused on links rather than notes + links that _research_ map had. I automated adding of links as well as opening any of the maps so extending it was quite easy and fun even. In many ways I became obsessed with that map as I wanted to connect every topic that you can learn about in there. It was named _learn anything_ after all.
 
 ![](https://i.imgur.com/wopQjne.png)
 
@@ -112,7 +112,7 @@ Here is a little collage of my favorite posts I made on FB since my first articl
 
 ![](https://i.imgur.com/6NARh9L.png)
 
-> One [Reddit post](https://www.reddit.com/r/InternetIsBeautiful/comments/6a861a/interactive_mind_map_for_learning_anything/) that literally changed my life. On a random thought, I posted the link of [the mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#319.2,-697.8,0) to [Internet is Beautiful](https://www.reddit.com/r/InternetIsBeautiful/) subreddit. I also had this profile picture on my GitHub:
+> One [Reddit post](https://www.reddit.com/r/InternetIsBeautiful/comments/6a861a/interactive_mind_map_for_learning_anything/) that literally changed my life. On a random thought, I posted the link of [the mind map](https://my.mindnode.com/16ppjh7Vs2ABJkgs7yyHo75KHymhoosayvDUyeRs#268.5,-734.1,1) to [Internet is Beautiful](https://www.reddit.com/r/InternetIsBeautiful/) subreddit. I also had this profile picture on my GitHub:
 
 ![](https://i.imgur.com/30l5P0d.jpg)
 

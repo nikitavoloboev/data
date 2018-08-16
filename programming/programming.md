@@ -18,6 +18,7 @@
 - Persevere in getting an abstraction just right. When you find it, everything will magically fall into place.
 - The implementation is the design.
 - Hide whatever the caller shouldn't care about. In particular, you can remove type parameters with appropriate quantification.
+- Declarative configuration means that you write down the desired state of the world in a configuration and then submit that configuration to a service that takes actions to ensure the desired state becomes the actual state.
 
 ## Links
 - [One Bite At A Time: Partitioning Complexity](https://www.facebook.com/notes/kent-beck/one-bite-at-a-time-partitioning-complexity/1716882961677894/)
@@ -35,3 +36,4 @@
 - [Fish Design Principles](https://fishshell.com/docs/current/design.html)
 - [List of resources about programming practices for writing safety-critical software](https://github.com/stanislaw/awesome-safety-critical#readme)
 - [In Pursuit of Production Minimalism](https://brandur.org/minimalism)
+- [The 12 Factor App](https://12factor.net)

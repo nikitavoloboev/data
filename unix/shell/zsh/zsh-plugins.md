@@ -4,7 +4,6 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 ## Utility
 - [Zsh Async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools.
 - [z](https://github.com/rupa/z) - Jump around.
-- [Wakatime](https://github.com/sobolevn/wakatime-zsh-plugin) - Track Zsh usage with [WakaTime](https://wakatime.com).
 - [Bd](https://github.com/Tarrasch/zsh-bd) - Jump back to a specific directory, without doing `cd ../../..`.
 - [Zsh completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [Zsh autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for Zsh.

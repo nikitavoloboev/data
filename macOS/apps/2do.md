@@ -1,7 +1,7 @@
 # [2Do](https://www.2doapp.com/)
 I love GTD methodology. This app is phenomenal with helping me organize my tasks. Here is how my sidebar looks:
 
-![](https://i.imgur.com/lJHn8NK.png)
+![](https://i.imgur.com/DUY4OyO.png)
 
 It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 

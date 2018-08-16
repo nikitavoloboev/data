@@ -18,3 +18,4 @@ I share [all the macros I use](km-macros.md) with the app.
 - [6 months in, what I wish I knew on day 1 with KM](https://forum.keyboardmaestro.com/t/6-months-in-what-i-wish-i-knew-on-day-1-with-keyboard-maestro/4949)
 - [Exporting KM Macros with KM Macro](http://chauncey.io/projects/keyboard-maestro-export-macros/)
 - [Little Approach I use to quickly prototype new macros](https://forum.keyboardmaestro.com/t/little-approach-i-use-to-quickly-prototype-new-macros/8091)
+- [Simplicity vs Complexity](https://forum.keyboardmaestro.com/t/simplicity-vs-complexity/11259)
