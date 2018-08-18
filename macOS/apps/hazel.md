@@ -18,14 +18,7 @@ git commit -m "update readme"
 git push
 ```
 
-To have Hazel know about commands I installed with Nix. I need to run this code first in the shell script:
-```bash
-export USER=nikitavoloboev
-if [ -e '/nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh' ]; then
-   . '/nix/var/nix/profiles/default/etc/profile.d/nix-daemon.sh'
-fi
-
-```
+I [sync](https://www.noodlesoft.com/manual/hazel/work-with-folders-rules/manage-rules/sync-rules/) all my Hazel rules with Dropbox.
 
 ## Notes
 - If you want to have your rules to be applied onto subfolders as well as the directory chosen, add this rule.

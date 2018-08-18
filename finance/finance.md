@@ -5,15 +5,15 @@ YNAB methodology for managing money is extremely effective as it allows me to be
 
 Below are the categories I use in Actual:
 
-![](https://i.imgur.com/GuaCXvU.png)
+![](https://i.imgur.com/GGmDk0w.png)
 
-![](https://i.imgur.com/dmvYIEV.png)
+![](https://i.imgur.com/V4McpLa.png)
 
 I assign the budgets for the categories at the beginning of each month and am strict with adhering to the budgets. If there is no budget for eating out, don't eat out.
 
-Saving is just another category and I budget the money I have left after my budgeting towards saving for emergencies and bigger purchases.
+I only have two accounts: Checking and Saving. Where Saving account is off budget and where I put money for future use and in case some unforeseen emergency occurs.
 
-For recurring expenses such as my `Monthly` and `Annually` category groups, I put the recurring cost as part of the category name in brackets. This lets met easily evaluate the costs of my recurring payments and analyze it at a glance and makes budgeting for future easier too.
+For recurring expenses such as my `Bills` and `Annually` category groups, I put the recurring cost as part of the category name in brackets. This lets met easily evaluate the costs of my recurring payments and analyze it at a glance and makes budgeting for future easier too.
 
 ## Notes
 - FI is possible everywhere. The idea stays the same, save more than you spend, try generate passive income through stocks, dividends and property.

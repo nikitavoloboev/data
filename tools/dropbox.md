@@ -7,3 +7,7 @@ I have a folder `shares` and inside it is where I put various files that I want 
 It's pretty amazing as I can very easily query all the links I shared with anyone.
 
 For sharing files temporarily I use [transfer.sh](https://transfer.sh) and [Vitor's awesome Alfred workflow](https://www.alfredforum.com/topic/5233-uploadfile-%E2%80%94-upload-files-and-directories-for-easy-sharing/) for it.
+
+I also use Dropbox for sharing configuration of various apps.
+
+![](https://i.imgur.com/QCMIDSO.png)
