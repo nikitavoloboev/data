@@ -5,6 +5,9 @@ I do wish to expand my horizons and try out Linux more. I doubt I will ever be a
 
 In any way, I like to think my journey with macOS, operating systems, programming and the like has only begun, I am still yet to make something substantial, something akin to [Karabiner](apps/karabiner/karabiner.md). But I am getting there.
 
+## Clean install
+You can clean install by going to Recovery mode (restart with `cmd+r` pressed). Then Disk Utility > Select disk > Erase (Format it) > Close Disk Utility > Select option Reinstall MacOS (Choose macOS ver. to install).
+
 ## Notes
 - In save dialogues I can press these keys:
 	- `Return` or `⌘ + S` = Save

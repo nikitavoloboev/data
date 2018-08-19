@@ -25,3 +25,4 @@
 - [Diagram of modern React lifecycle methods (2018)](https://twitter.com/dan_abramov/status/981712092611989509?s=09)
 - [React Fundamentals](https://github.com/ryanflorence/react-fundamentals#readme)
 	- [Advanced React](https://github.com/ryanflorence/advanced-react-workshop#readme)
+- [Algebraic Effects, Fibers, Coroutines . . . Oh My! - Brandon Dail (2018)](https://www.youtube.com/watch?v=cWY1QzyFhfk&feature=youtu.be)

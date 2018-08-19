@@ -59,3 +59,4 @@ Go promotes composition over inheritance.
 - [How I Learned to Stop Worrying and Love Golang](https://corte.si/posts/code/go/golang-practicaly-beats-purity/index.html)
 - [List of advices and tricks in the Go's world](https://github.com/cristaloleg/go-advices#readme)
 - [Golang challenge](http://golang-challenge.org/)
+- [dep2nix](https://github.com/nixcloud/dep2nix) - Using golang/dep to create a deps.nix file for go projects to package them for nixpkgs.
