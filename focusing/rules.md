@@ -204,7 +204,7 @@ Some simple rules to follow for myself doing things.
 
 ## Alfred
 - Keyword triggers should be one string (no spaces). Try to make keyword be semantically appropriate to workflow and easy to memorize and type.
-- Name external triggers with spaces between words (lowercased).
+- Have descriptives external triggers with spaces between words (lowercased) for Karabiner.
 - Release all my workflows (that have no sensitive information) either in [small workflows](https://github.com/nikitavoloboev/small-workflows#readme) or standalone if they contain quite a bit of code.
 - Name all modifier triggers (uppercased).
 - Color Alfred objects that have errors in them and need to be fixed in red color. Acts as a `TODO`.

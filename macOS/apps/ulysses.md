@@ -9,7 +9,7 @@ It also has pretty awesome export functions that let you export the text you wri
 
 I use [Monokai](https://styles.ulyssesapp.com/bundle/Monokai/5b68263e69ecfa3d1c5fdeee) theme when I write. Here is how it looks:
 
-![](https://i.imgur.com/zamdnUf.png)
+![](https://i.imgur.com/8Wwf5Mh.png)
 
 I describe my thoughts and approach to writing [here](../../writing/writing.md).
 

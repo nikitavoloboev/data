@@ -8,6 +8,16 @@ I wrote about how I use the app to heavily customize my gestures in detail in an
 
 You can view a printed version of all the bindings I made [here](https://github.com/nikitavoloboev/my-mac-os/blob/master/btt/gestures.pdf) and you can download the preset I use to try some of the bindings I made for myself by importing [my preset](https://github.com/nikitavoloboev/my-mac-os/tree/master/btt) to BetterTouchTool.
 
+I also use BTT to modify my TouchBar. Here is how it looks:
+
+![](https://i.imgur.com/5vqZA9R.png)
+
+It includes, from left to right:
+1. My [current active TODO](https://github.com/nikitavoloboev/small-workflows/tree/master/todo-task#readme)
+2. Battery percentage
+3. Time until my break from a [Focus session](https://wiki.nikitavoloboev.xyz/focusing/focusing.html)
+4. Current time and day
+
 ## Links
 - [Making the Touch Bar finally useful](http://vas3k.com/blog/touchbar/)
 - [BetterTouchTool Touch Bar Presets](https://github.com/vas3k/btt-touchbar-presets)
