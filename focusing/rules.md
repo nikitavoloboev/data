@@ -224,7 +224,7 @@ Some simple rules to follow for myself doing things.
 - Spend time on phone mindfully. Read & be proactive.
 
 ## Web
-- Use Single Sign On where possible.
+- Use Single Sign On where possible. Mark it accordingly in 1Password. FB preferred for social circle.
 
 ## SnippetsLab
 - Upload all non personal snippets as Gists.
