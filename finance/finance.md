@@ -7,7 +7,7 @@ I assign the budgets for the categories at the beginning of each month and am st
 
 I have one Income category named 'Income' and this is where all the money I 'receive' goes:
 
-![](https://i.imgur.com/DSJJoAi.png)
+![](https://i.imgur.com/ZtVXHfk.png)
 
 I only have one account named 'Checking' as I found the hassle of multiple accounts unbearable. All the money in my 'Income' I have to budget. Which I do as follows:
 
