@@ -3,7 +3,7 @@ For my own personal finance, I budget all my money with [Actual](https://actualb
 
 YNAB methodology for managing money is extremely effective as it allows me to be be more proactive with budgeting and spending. It lets me know how much money I have and how much money I can spend on any given category. I find this proactive approach in dealing with money very freeing and powerful.
 
-I assign the budgets for the categories at the beginning of each month and am strict with adhering to the budgets. If there is no budget for eating out, don't eat out.
+I assign the budgets for the categories at the beginning of each month and am strict with adhering to the budgets. If there is no budget for eating out, I don't eat out.
 
 I have one Income category named 'Income' and this is where all the money I 'receive' goes:
 
@@ -19,7 +19,7 @@ I then spread the remaining money I have into categories and am taking money fro
 
 Actual will also soon let you automate setting of budgets in the future so that my categories for Food/Rent/iCloud/Phone/.. will have a fixed budget every month. With a planned transaction that will automatically subtract money from my budget on 1st of each month under the specific category (i.e. Phone).
 
-However food, only has an planned budget but no planned transactions as its a variable target and I can either go below or above it. I do however want to have a fixed target I don't have to recreate all the time.
+However food, only has an planned budget but no planned transactions as its a variable target and I can either go below or above it. I do this as I want to have a fixed target I don't have to recreate all the time.
 
 Below are all the categories I use in Actual:
 
