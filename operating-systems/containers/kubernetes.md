@@ -22,3 +22,4 @@
 - [kubectx](https://github.com/ahmetb/kubectx) - Fast way to switch between clusters and namespaces in kubectl.
 - [Kubernetes for Sysadmins – Kelsey Hightower (2016)](https://www.youtube.com/watch?v=HlAXp0-M6SY)
 - [Kubernetes API conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/api-conventions.md#readme)
+- [Kubeval](https://github.com/garethr/kubeval#readme) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions.

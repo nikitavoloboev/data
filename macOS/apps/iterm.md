@@ -12,20 +12,20 @@ It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure) and [M
 ![](https://i.imgur.com/ljvCUoS.png)
 
 ## My workflow
-I always have 4 tabs (sessions) always open in iTerm. I open other tabs as the need arises and I start working on other projects.
+I always have at least 3 tabs (sessions) always open in iTerm. I open other tabs as the need arises and I start working on other projects.
 
 My always open tabs are:
 1. `dev` - This tab is where the majority of my work is done or when I need to quickly jump around my file system. I use it to work through projects I cloned in [~/src/clones](../../unix/my-file-system.md). Access it with [Directory Watches workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true). Bound to `f+j`.
-2. `kar` - Contains my [Karabiner configuration](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/private.xml) I edit. Bound to `v+:`.
+2. `kar` - Contains my [Karabiner configuration](karabiner/karabiner.md) I edit. Bound to `v+:`.
 3. `vim` - Contains my [Vim config](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). Bound to `v+a`.
 
 All other tabs are added on top of this `default` configuration. Usually it looks something like this:
-![](https://i.imgur.com/v0QBOuL.png)
+![](https://i.imgur.com/3JvddNy.png)
 
-Where `deedmob` and `la` and are two projects I am working on.
+Where `learn-anynthing` in 4th tab is another project I am working on.
 
 I then use [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions:
-![](https://i.imgur.com/66enJCz.png)
+![](https://i.imgur.com/qO8wAaN.png)
 
 ## Links
 - [Make macOS hotkeys work with iTerm](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line/29403520#29403520)

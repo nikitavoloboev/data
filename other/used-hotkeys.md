@@ -23,6 +23,8 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 9 - Typinator quick search
 
 ## CTRL+SHIFT
+- 8 - Focus on menu bar
+- 9 - Noizio show menu
 - 0 - Noizio on/off
 
 ## CMD+OPT+SHIFT

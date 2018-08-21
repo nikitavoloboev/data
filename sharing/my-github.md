@@ -31,9 +31,7 @@ The number between brackets shows the year I created the repo in. Repos with �
 ## CLI
 - [License Up (2017)](https://github.com/nikitavoloboev/license-up#readme) - Create a license quickly.
 - [Alias search (2017) 💡](https://github.com/nikitavoloboev/alias-search#readme) - Find your aliases and shell functions.
-
-## Tools
-- [Karabiner Generator (2018) 💡](https://github.com/nikitavoloboev/karabiner-dsl#readme) - Small DSL to easily modify [Karabiner](https://github.com/tekezo/Karabiner-Elements) configuration.
+- [Karabiner Generator (2018)](https://github.com/nikitavoloboev/karabiner-dsl#readme) - Small DSL to easily modify [Karabiner](https://github.com/tekezo/Karabiner-Elements) configuration.
 
 ## Curated
 - [Privacy Respecting (2017) 🌟](https://github.com/nikitavoloboev/privacy-respecting#readme) - Curated List of Privacy Respecting Services and Software.
