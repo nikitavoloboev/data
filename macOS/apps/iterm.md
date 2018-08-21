@@ -5,11 +5,11 @@ Assigned w + j with [Karabiner](karabiner/karabiner.md) to open the app from Key
 
 I made my own [Monokai theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it that looks like this:
 
-![](https://i.imgur.com/3G9QffJ.png)
+![](https://i.imgur.com/RLVyH6N.png)
 
 It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure) and [Monokai theme for Vim](https://github.com/nikitavoloboev/monokai-vim#readme).
 
-![](https://i.imgur.com/ljvCUoS.png)
+![](https://i.imgur.com/ra1KIww.png)
 
 ## My workflow
 I always have at least 3 tabs (sessions) always open in iTerm. I open other tabs as the need arises and I start working on other projects.

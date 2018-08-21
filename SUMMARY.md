@@ -173,7 +173,6 @@
 	- [Windows](operating-systems/windows.md)
 - [Package managers](package-managers/package-managers.md)
 	- [Nix](package-managers/nix.md)
-	- [Brew](package-managers/brew.md)
 - [Mindfulness](mindfulness/mindfulness.md)
 	- [Meditation](mindfulness/meditation.md)
 	- [Buddhism](mindfulness/buddhism.md)
