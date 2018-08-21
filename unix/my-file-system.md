@@ -17,8 +17,7 @@ Everything that is code is put into this folder.
 ```Bash
 ~/src
 ❯ exa
-Xcode		bots		curated		games		languages	ml		personal	test
-alfred		clones		forks		ideas		learn		orgs		practice	web
+alfred  bots  clones  curated  games  languages  learn  libs  ml  orgs  other  personal  practice  scripts  test  vim-plugins  web  Xcode
 ```
 
 ## ~/src/clones
@@ -26,11 +25,8 @@ I often love checking out various GitHub repos. Everything that I clone, I clone
 
 I then filter contents of the folder with [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true).
 
-## ~/src/forks
-Forked by me repos that I want to keep working on, are kept inside `forks` folder.
-
 ## ~/src/orgs
-Inside this folder I keep all the open source orgs I am working on.
+Inside this folder I keep all the organizations I am working on.
 
 ```Bash
 ~/src/orgs
@@ -44,14 +40,11 @@ Inside this folder I have a bunch of language specific folders that usually just
 ```Bash
 ~/src/test
 ❯ exa
-bash-test	c-test		clojure-test	go-test		haskell-test	js-test		lisp-test	python-test	web-test
+bash-test  c-test  clojure-test  go-test  haskell-test  js-test  lisp-test  python-test  ruby-test  ts-test
 ```
 
 I then have KM macros to quickly open these files:
 ![](https://i.imgur.com/5pH2fzR.png)
-
-## ~/src/ideas
-Most of my projects I start, start out in this folder. If something works out and I like the idea and want to develop it further, I move the project away from `ideas`.
 
 ## ~/src/Xcode
 Contains all my Swift iOS and macOS projects. It is further divided into macOS, iOS and playgrounds folders.
@@ -62,17 +55,16 @@ I use the folder to learn new technologies, languages and things. Perhaps I am c
 ```Bash
 ~/src/learn
 ❯ exa
-go-learn	graphics-learn	ml-learn	react-learn	stats-learn
+algo-learn  go-learn  graphics-learn  kuber-learn  ml-learn  react-learn  stats-learn  ts-intro  ts-learn  tsc-react-learn
 ```
 
 ## ~/src/alfred
-All my Alfred workflows are placed there. And each one is symlinked either with [workflow install](https://gist.github.com/deanishe/35faae3e7f89f629a94e) or [Alfred CLI tool](https://godoc.org/github.com/jason0x43/go-alfred/alfred) for Go workflows.
+All my Alfred workflows are placed there. And each one is symlinked with [workflow install](https://gist.github.com/deanishe/35faae3e7f89f629a94e).
 
 ```Bash
 ~/src/alfred
 ❯ exa
-alfred-ask-create-share	alfred-awgo-test	alfred-inline-searches	alfred-my-mind		alfred-web-searches
-alfred-awesome-lists	alfred-github		alfred-learn-anything	alfred-trello		small-workflows
+alfred-ask-create-share  alfred-awesome-lists  alfred-github  alfred-learn-anything  alfred-my-mind  alfred-npm  alfred-trello  alfred-web-searches  small-workflows
 ```
 
 ## ~/src/curated
@@ -81,28 +73,16 @@ Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-li
 ```bash
 ~/src/curated
 ❯ exa
-alfred-workflows	courses			games			movies			quotes			slack-groups		websites
-blogs			curated-lists		humans			newsletters		reddit			spectrum		youtube
-books			documentaries		images			podcasts		reddit-multi		stack-exchange
-cheat-sheets		find-work		ios-apps		privacy-respecting	research-papers		talks
-chrome-extensions	firefox-extensions	macos-apps		programming-languages	safari-extensions	telegram
-command-line-tooexa	forums			mindmaps		quora			series			tv-series
-```
-
-## ~/app
-I put app specific files in there.
-
-```Bash
-~/app
-❯ exa
-focus		hammerspoon	km		paw		sublime		textual
+alfred-workflows  cheat-sheets        courses        find-work           games   ios-apps    movies       privacy-respecting     quotes        research-papers    slack-groups    talks      websites
+blogs             chrome-extensions   curated-lists  firefox-extensions  humans  macos-apps  newsletters  programming-languages  reddit        safari-extensions  spectrum        telegram   youtube
+books             command-line-tools  documentaries  forums              images  mindmaps    podcasts     quora                  reddit-multi  series             stack-exchange  tv-series
 ```
 
 ## ~/Documents
-I use Documents to store things like books, research papers, uni work, various app related things and files, audio books and more. Here is how my Documents folder looks like:
+I use Documents to store things like books, research papers, audio books and more. Here is how my Documents folder looks like:
 
 ```Bash
 ~/Documents
 ❯ exa
-Audio Books  Books  Design  History  LaTeX  Personal docs  Pixave  Podcasts  Uni  Watch
+Audiobooks  Books  History  PDFs  Pixave  Research papers
 ```

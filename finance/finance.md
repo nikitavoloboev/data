@@ -19,7 +19,7 @@ I then spread the remaining money I have into categories and am taking money fro
 
 Actual will also soon let you automate setting of budgets in the future so that my categories for Food/Rent/iCloud/Phone/.. will have a fixed budget every month. With a planned transaction that will automatically subtract money from my budget on 1st of each month under the specific category (i.e. Phone).
 
-However food, only has an planned budget but no planned transactions as its a variable target and I can either go below or above it. I do this as I want to have a fixed target I don't have to recreate all the time.
+However food, only has a planned budget but no planned transactions as its a variable target and I can either go below or above it. I do this as I want to have a fixed target I don't have to recreate all the time.
 
 Below are all the categories I use in Actual:
 
