@@ -8,6 +8,8 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 4 - Open Annotate screenshot
 
 ## CMD+CTRL
+- 7 - Little Snitch Network Monitor
+- 8 - Search selection in Dictionary
 - 9 - Google selected text
 - 0 - Screenshot entire screen
 
