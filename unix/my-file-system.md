@@ -46,8 +46,10 @@ bash-test  c-test  clojure-test  go-test  haskell-test  js-test  lisp-test  pyth
 I then have KM macros to quickly open these files:
 ![](https://i.imgur.com/5pH2fzR.png)
 
+And I use [VS Code CodeRunner](https://github.com/formulahendry/vscode-code-runner) extension to quickly run code in those specific files. Makes prototyping ideas and libraries a breeze.
+
 ## ~/src/Xcode
-Contains all my Swift iOS and macOS projects. It is further divided into macOS, iOS and playgrounds folders.
+Contains all my Swift iOS and macOS projects.
 
 ## ~/src/learn
 I use the folder to learn new technologies, languages and things. Perhaps I am completing some course or going through some book that has exercises. I put it there.

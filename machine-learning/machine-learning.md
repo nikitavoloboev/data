@@ -34,3 +34,4 @@
 - [The Google Brain Team — Looking Back on 2017](https://ai.googleblog.com/2018/01/the-google-brain-team-looking-back-on.html?m=1)
 - [Building the Software 2.0 Stack by Andrej Karpathy from Tesla (2018)](https://www.figure-eight.com/building-the-software-2-0-stack-by-andrej-karpathy-from-tesla/)
 - [Deep Learning World](https://github.com/astorfi/Deep-Learning-World#readme)
+- [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning#readme)
