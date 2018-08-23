@@ -1,5 +1,5 @@
 # Art
-I like to collect beautiful art pieces as an Imgur album you can view [here](http://imgur.com/a/3m5wf). I also like various [psychedelic art](http://imgur.com/a/9yOpt) and specifically I love [art by James R. Eads](http://imgur.com/a/Aao8R).
+I like to collect beautiful art pieces as an Imgur album you can view [here](http://imgur.com/a/3m5wf). I also like various [psychedelic art](http://imgur.com/a/9yOpt) and specifically I love [art by James R. Eads](http://www.jamesreads.com/).
 
 I share different photographs and art pieces I like on [my Instagram page](https://instagram.com/prettiways).
 
