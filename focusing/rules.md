@@ -54,7 +54,7 @@ Some simple rules to follow for myself doing things.
 - Look at where I spend my time in Timing and cut those out with Focus and scripts.
 - Less than 1 hour _News_ time every day.
 - Use one screen when coding. Much easier to context switch.
-- Don't listen to distracting music when trying to focus. Instead I use [Noizio](http://noiz.io), [Oak](https://www.oakmeditation.com) or have nothing playing at all.
+- Don't listen to distracting music when trying to focus. Instead use [Noizio](http://noiz.io), [Oak](https://www.oakmeditation.com) or have nothing playing at all.
 - Sit up right always. Never slouch.
 
 ## Learn
@@ -140,7 +140,7 @@ Some simple rules to follow for myself doing things.
 - Don't add anything that is not needed and focus on the content.
 - Add a way to visually show the workflow/library in action where appropriate.
 - Don't link to Imgur images as links, render them in the README itself.
-- Add image fully itself to the repository and reference it iff the image is big enough and requires high quality.
+- Add image fully itself to the repository and reference it if the image is big enough and requires high quality.
 - In screenshots of Alfred prompts and other prompts, show the cursor.
 - Add __Related__ section to most repos linking to similar projects either of my own or of other. Not all projects need this.
 - Don't add Thank You clause in _idea_ stage projects.
@@ -200,7 +200,6 @@ Some simple rules to follow for myself doing things.
 
 ## Karabiner
 - Prefer making semantic mappings and chunk mappings by theme or context.
-- Prefix variable names by action (i.e. EDIT/OPEN/ALFRED). Each variable name should be descriptive.
 
 ## Alfred
 - Keyword triggers should be one string (no spaces). Try to make keyword be semantically appropriate to workflow and easy to memorize and type.
@@ -208,7 +207,6 @@ Some simple rules to follow for myself doing things.
 - Release all my workflows (that have no sensitive information) either in [small workflows](https://github.com/nikitavoloboev/small-workflows#readme) or standalone if they contain quite a bit of code.
 - Name all modifier triggers (uppercased).
 - Color Alfred objects that have errors in them and need to be fixed in red color. Acts as a `TODO`.
-- Alfred workflow description should be the same as GitHub description.
 
 ## MindNode
 - Use one tree structure for organization especially when sharing maps (makes the map much easier to follow).
@@ -259,9 +257,6 @@ Some simple rules to follow for myself doing things.
 - When asking for feedback, never ask people if they like the product I built. Ask them whether they don't like anything instead.
 - Welcome any feedback. The more critical feedback, the better. Iterate on it.
 
-## Ship app
-- Prioritize repos in the sidebar based on priority/urgency.
-
 ## Reading books
 - Make notes as I read books.
 - Review each book I read on Goodreads and add it to an appropriate category. Add the review to [books](../books/books.md) after.
@@ -304,8 +299,8 @@ Some simple rules to follow for myself doing things.
 
 ## Sleep
 - Prefer to sleep and wake up at the same time.
-	- 5:30AM - Wake up.
-	- 10:00PM - Sleep.
+	- 6:30AM - Wake up.
+	- 11:00PM - Sleep.
 - Sleep for ~ 7 hours each day.
 - No Mac/phone in bed in the the morning.
 
@@ -356,9 +351,6 @@ Some simple rules to follow for myself doing things.
 - Share boards publicly that contain no sensitive or private information.
 - Order of importance for cards: __Watching__ -> __Next__ -> __Important__ -> No label.
 - Add links to wiki or [curated lists](https://github.com/learn-anything/curated-lists#readme) over adding them to Trello where appropriate.
-
-## Newsletters
-- All newsletters should never reach inbox and be automated to appropriate mailboxes.
 
 ## Other
 - Check everything once I leave a room. In case I forget anything.
