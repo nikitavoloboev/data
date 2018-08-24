@@ -23,10 +23,9 @@ I also sometimes use it as a way of breaking down further complex tasks. Like so
 I then simply try to go through each of the steps outlined and hopefully reach a working solution. Modifying and adjusting things in light of newly found insights.
 
 ## 3. Work on solving the task and nothing else
-In order to make sure I do one task at a time and not get distracted I use [this Alfred workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/todo-task#readme) I made. It lets me put any selected text or a task from [2Do](../macOS/apps/2do.md), [MindNode](../macOS/apps/mindnode.md) or [Trello](../sharing/my-trello.md) as my **active TODO**. And then display it in the middle of the screen whenever I get distracted and want to bring my focus to what it is I should actually be doing.
+In order to make sure I do one task at a time and not get distracted I use [this Alfred workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/todo-task#readme) I made. It lets me put any selected text or a task from [2Do](../macOS/apps/2do.md), [MindNode](../macOS/apps/mindnode.md) or [Trello](../sharing/my-trello.md) as my **active TODO**. I then [display it on my mac TouchBar](https://github.com/nikitavoloboev/my-mac-os/tree/master/btt#readme) to always keep in my mind what it is I should actually be doing if I ever do get distracted. It looks like this:
 
-It shows up like so:
-![](https://i.imgur.com/wUWzq7l.png)
+![](https://i.imgur.com/X8O8QN9.png)
 
 # 4. Solve the problem
 As mentioned in [research](research.md), I mostly use Google for searching mixed in with DuckDuckGo. I heavily use Dash for documentation and Dictionary for searching the wiki. I also use IRC and various forums specific to the problem I am solving.

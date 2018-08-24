@@ -10,6 +10,12 @@ Here are the IRC channels I very often frequent:
 ## IRC commands
 Textual keeps a command reference [here](https://help.codeux.com/textual/Command-Reference.kb).
 - `/list` - Open channel list.
+- `/msg *nickserv set <yourNSpassword>` - Lets Nickserv autologin you. Can then run `/nick <your-nick>` to login.
+
+## Notes
+- If I ever get issues with logging in and me being Guest. I can:
+	- `/msg NickServ RELEASE <nickname> <password>`
+	- `/nick nikivi` my nick
 
 ## Links
 - [IRC Gitter](https://irc.gitter.im/) - Connect to Gitter with Textual.
