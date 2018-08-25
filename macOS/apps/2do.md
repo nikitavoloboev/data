@@ -20,7 +20,7 @@ I don't add time estimates to all tasks but I try to add it where possible.
 
 I share the same philosophy of `Always` and `Temporary` projects as I have in my [Focus Trello board](../../focusing/focusing.md).
 
-Given my growing collection of tasks I am yet to do. Some 3,000 pending tasks. I decided to share [some tasks I keep in 2Do publicly](../../other/2do-tasks.md).
+Given my growing collection of tasks I am yet to do. Some 2,000 pending tasks. I decided to share [some tasks I keep in 2Do publicly](../../other/2do-tasks.md).
 
 And here are the other tags I use:
 

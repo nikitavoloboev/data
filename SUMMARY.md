@@ -80,6 +80,7 @@
 	- [AppleScript](macOS/applescript.md)
 - [iOS](iOS/iOS.md)
 - [Hardware](hardware/hardware.md)
+	- [Arduino](hardware/arduino.md)
 - [Math](math/math.md)
 	- [Logic](math/logic/logic.md)
 		- [Combinatory logic](math/logic/combinatory-logic.md)

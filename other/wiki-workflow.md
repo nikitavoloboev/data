@@ -20,7 +20,7 @@ When reading books, I annotate over the PDF with [PDF Expert](https://pdfexpert.
 
 ## Using this wiki
 Now that I can edit this wiki and extend it at the speed of a thought. I can open any of the wiki entries in seconds by searching for the file I need with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme).
-![](https://i.imgur.com/nrsr1cK.png)
+![](https://i.imgur.com/7yVITcw.png)
 
 And anyone who owns Alfred can download the workflow and search through the wiki too. Outside of that, GitBook also provides a pretty neat search in the wiki itself. In there you can make textual queries too and files where the queried text is will be shown.
 

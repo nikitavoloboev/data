@@ -19,7 +19,7 @@ I mark the projects and goals I want to focus on right now, and by pressing `Q` 
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
 
-I assign due dates for all my goals I am striving to achieve and I find this goal centric approach to be incredibly useful as it lets me focus on making sure I do everything I need to achieve the goals I have set for myself. Making sure I limit the number of projects I am working on at any given time lets me actually deeply focus on them instead of being scattered around wondering if I am working on the right thing in the moment.
+I assign due dates for all my goals I am striving to achieve. I find this goal centric approach to be incredibly useful as it lets me focus on making sure I do everything I need to achieve the goals I have set for myself. Making sure I limit the number of projects I am working on at any given time lets me actually deeply focus on them instead of being scattered around wondering if I am working on the right thing in the moment.
 
 ## Focus sessions
 I use [Focus app](https://heyfocus.com) to block many non work related websites for 100 minutes (front pages of Hacker News, Reddit, ..) every 2 hours.
