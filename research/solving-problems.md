@@ -18,7 +18,7 @@ Once I found and understand what it is I want to solve. I look into it more and 
 Often times I do the decoupling of the task inside the app itself, be it a code editor, [2Do](../macOS/apps/2do.md) or [Bee app](https://www.neat.io/bee/). Other times I can use simple pen and paper or a white board or a [MindNode](../macOS/apps/mindnode.md) mind map I made called __Think__. Which I use to brainstorm things and break down the connections between different things in a visual way.
 
 I also sometimes use it as a way of breaking down further complex tasks. Like so:
-![](https://imgur.com/5yWEqMk)
+![](https://i.imgur.com/5yWEqMk.png)
 
 I then simply try to go through each of the steps outlined and hopefully reach a working solution. Modifying and adjusting things in light of newly found insights.
 
