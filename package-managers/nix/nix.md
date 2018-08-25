@@ -18,7 +18,6 @@
 ## Links
 - [Nix manual](https://nixos.org/nix/manual/)
 - [Nix pills](https://nixos.org/nixos/nix-pills/index.html)
-- [Nix on Darwin – History, challenges, and where it's going by Dan Peebles](https://www.youtube.com/watch?v=73mnPBLL_20)
 - [Interesting nix config](https://github.com/jwiegley/nix-config) - macOS based.
 - [Benefits of using nix](https://www.reddit.com/r/haskell/comments/7wmhyi/an_opinionated_guide_to_haskell_in_2018/du2506q/)
 - [Nix, the purely functional build system](http://www.boronine.com/2018/02/02/Nix/) - Great intro article.
@@ -26,7 +25,6 @@
 - [Nix: A Reproducible Setup for Linux and macOS](http://nmattia.com/posts/2018-03-21-nix-reproducible-setup-linux-macos.html)
 - [hnix](https://github.com/jwiegley/hnix) - Haskell re-implementation of the Nix expression language.
 - [Haskell & Nix](https://github.com/Gabriel439/haskell-nix)
-- [neat macOS nix Darwin config.nix](https://github.com/LnL7/nix-darwin/blob/master/modules/examples/lnl.nix)
 - [Brian McKenna - Nix for Functional Systems](https://www.youtube.com/watch?v=mIxtBVKo7JE)
 - [Learning Nix by Example: Building FFmpeg 4.0](https://blog.kiloreux.me/2018/05/24/learning-nix-by-example-building-ffmpeg-4-dot-0/)
 - [nix-shell and Shebang Lines](http://iam.travishartwell.net/2015/06/17/nix-shell-shebang/)

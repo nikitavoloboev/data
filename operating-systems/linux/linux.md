@@ -16,7 +16,7 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [Lutris](https://lutris.net/) - Open gaming platform for Linux.
 
 ## Other
-- [Nix](../package-managers/nix.md) - Purely functional package manager.
+- [Nix](../package-managers/nix/nix.md) - Purely functional package manager.
 - [Thunar](https://wiki.archlinux.org/index.php/thunar) - Modern file manager.
 - [Mopidy](https://www.mopidy.com/) - Extensible music server.
 - [MPV](https://mpv.io/) - Free, open source, and cross-platform media player.

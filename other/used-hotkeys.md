@@ -2,7 +2,6 @@
 A way to keep track of hotkeys that are taken by my macOS. Every key is mapped to some action and is activated from [Karabiner](../macOS/apps/karabiner/karabiner.md).
 
 ## CMD+OPT
-1 - Dropzone activate
 2 - Open KM forum # TODO: why? what triggers it?
 3 - New Annotate screenshot
 4 - Open Annotate screenshot

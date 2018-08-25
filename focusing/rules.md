@@ -325,7 +325,7 @@ Some simple rules to follow for myself doing things.
 - Include all my Instagram posts in Photos. Link Twitter tweets, last.fm, movies seen.
 
 ## Shell
-- Install packages with [nix](../package-managers/nix.md) always. If package not available, make a derivation myself.
+- Install packages with [nix](../package-managers/nix/nix.md) always. If package not available, make a derivation myself.
 
 ## Calendar
 - Always plan the next day ahead of me with events. Adjust the schedule on the day only where necessary. Stay true to the schedule.

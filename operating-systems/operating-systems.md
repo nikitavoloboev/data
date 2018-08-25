@@ -1,7 +1,7 @@
 # Operating systems
 I love using [macOS](../macOS/macOS.md) as my personal OS.
 
-And I really like [NixOS](linux/nixos.md) and it's [nix package manager](../package-managers/nix.md).
+And I really like [NixOS](linux/nixos.md) and it's [nix package manager](../package-managers/nix/nix.md).
 
 ## Interesting
 - [QubesOS](https://www.qubes-os.org/)
