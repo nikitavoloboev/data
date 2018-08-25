@@ -1,5 +1,9 @@
 # Nix on Darwin (macOS)
-There is [nix-darwin](https://github.com/LnL7/nix-darwin) project that brings Nix configuration to describing many of macOS services.
+There is [nix-darwin](https://github.com/LnL7/nix-darwin#readme) project that brings Nix configuration to describing many of macOS services.
+
+## Nix configs
+- [LnL7](https://github.com/LnL7/dotfiles)
+- [cmacrae](https://github.com/cmacrae/.nixpkgs/blob/master/darwin-configuration.nix)
 
 ## Notes
 - To not enter password on every `darwin-rebuild switch` with [nix-darwin](https://github.com/LnL7/nix-darwin), you can create `/etc/sudoers.d/nix-darwin` file with this content:
