@@ -2,9 +2,9 @@
 A way to keep track of hotkeys that are taken by my macOS. Every key is mapped to some action and is activated from [Karabiner](../macOS/apps/karabiner/karabiner.md).
 
 ## CMD+OPT
-2 - Open KM forum # TODO: why? what triggers it?
-3 - New Annotate screenshot
-4 - Open Annotate screenshot
+- 2 - Open KM forum # TODO: why? what triggers it?
+- 3 - New Annotate screenshot
+- 4 - Open Annotate screenshot
 
 ## CMD+CTRL
 - 8 - Search selection in Dictionary
@@ -22,6 +22,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 8 - New 2Do quick task
 - 9 - Typinator quick search
 - x - Little Snitch Network Monitor
+- c - Sleep
 
 ## CTRL+SHIFT
 - 8 - Focus on menu bar

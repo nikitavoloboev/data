@@ -9,3 +9,4 @@ I always view my events from `Week` view. And show 5 days only with all 24h show
 
 ## Notes
 - To mass delete events, make empty search query (single space) on events I want to remove and delete them. Can also use stock Calendar app and search for `""` and cmd+shift+arrows events I want to delete.
+- [Google calendar sync select page](https://calendar.google.com/calendar/syncselect) allows you to select which calendars you want to sync to external apps like Fantastical. Useful for letting Fantastical know about `Other calendars` which by default don't sync.
