@@ -61,3 +61,4 @@ I exclude all foods that are not healthy and experiment with many [vegan recipes
 ## Links
 - [Cheap healthy food](https://www.nomeatathlete.com/cheap-healthy-food/)
 - [Serotonin Foods and Mood Disorders](https://bebrainfit.com/serotonin-foods-mood-brain/)
+- [Some good oatmeal and avocado recipes](https://www.reddit.com/r/HealthyFood/comments/8ytyqi/food_for_the_brain_with_a_budget/)
