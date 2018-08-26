@@ -19,3 +19,4 @@ Learning to write music. Live coding music sounds pretty awesome. I used [Sonic 
 - [Music concepts explained](https://www.youtube.com/playlist?list=PL-NzMNM2cyt-RYr-8YmF0yFVDwhdklaiT)
 - [Flat](https://flat.io) - Write music scores online.
 - [Interactive Music Theory Lessons](https://www.lightnote.co/) - ([HN Comments](https://news.ycombinator.com/item?id=12792063))
+- [Synesthesia & creating your own score | Devonté Hynes | TED](https://www.youtube.com/watch?v=Dc60ldmTrIg)
