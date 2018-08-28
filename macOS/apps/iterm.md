@@ -7,7 +7,7 @@ I made my own [Night Blue theme](https://github.com/nikitavoloboev/my-mac-os/tre
 
 ![](https://i.imgur.com/Emw7NAj.png)
 
-It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure) and [Night Blue theme for Vim](https://github.com/nikitavoloboev/night-blue-vim#readme).
+It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure) and [Night Blue theme for Vim](https://github.com/nikitavoloboev/vim-night-blue#readme).
 
 ![](https://i.imgur.com/DR2E94n.png)
 
