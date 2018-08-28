@@ -12,3 +12,4 @@ datascience/comments/8ljwo8/what_is_surprisingly_useful_to_know_as_a_data/)
 - [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) - Logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [Best way to organize research code? (2018)](https://www.reddit.com/r/MachineLearning/comments/8v1g6c/d_best_way_to_organise_research_code/)
 - [Data Science Cheat Sheet](https://github.com/ml874/Data-Science-Cheatsheet#readme)
+- [Our world in data](https://ourworldindata.org/science-and-research)
