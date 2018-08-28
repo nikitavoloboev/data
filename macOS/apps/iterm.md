@@ -3,13 +3,13 @@ Use Zsh as my shell together with [Antibody](https://github.com/getantibody/anti
 
 Assigned w + j with [Karabiner](karabiner/karabiner.md) to open the app from Keyboard Maestro in seconds.
 
-I made my own [Monokai theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it that looks like this:
+I made my own [Night Blue theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it that looks like this:
 
-![](https://i.imgur.com/RLVyH6N.png)
+![](https://i.imgur.com/Emw7NAj.png)
 
-It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure) and [Monokai theme for Vim](https://github.com/nikitavoloboev/monokai-vim#readme).
+It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure) and [Night Blue theme for Vim](https://github.com/nikitavoloboev/night-blue-vim#readme).
 
-![](https://i.imgur.com/ra1KIww.png)
+![](https://i.imgur.com/DR2E94n.png)
 
 ## My workflow
 I always have at least 3 tabs (sessions) always open in iTerm. I open other tabs as the need arises and I start working on other projects.

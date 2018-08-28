@@ -1,5 +1,5 @@
 # My [GitHub Gists](https://gist.github.com/nikitavoloboev)
-All the snippets are created and managed by [SnippetsLab](../macOS/apps/snippetslab.md).
+All the snippets are created and managed by [SnippetsLab](https://www.renfei.org/snippets-lab/).
 
 ## Code
 - [Go](https://gist.github.com/search?l=Go&q=user%3Anikitavoloboev)

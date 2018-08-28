@@ -23,7 +23,7 @@ I try to be methodical in working and doing things. And I use the best tools and
 ## Knowledge Indexing
 - [This wiki](../readme.md) - A bunch of markdown files rendered by [GitBook](https://www.gitbook.com) and edited with Sublime Text.
 - Articles on [Medium](https://medium.com/@nikitavoloboev) - Share longer articles on some one topic there. This wiki is a more living and ever changing document.
-- [SnippetsLab](../macOS/apps/snippetslab.md) - Snippets of code shared with [GitHub Gists](my-gists.md).
+- [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippets of code shared with [GitHub Gists](my-gists.md).
 
 ## Bookmarks
 - [Curated lists](https://github.com/learn-anything/curated-lists#readme) - Extension to [Awesome lists](https://github.com/sindresorhus/awesome#readme), serves as a way to publicly curate valuable links on different topics and [search them](https://github.com/nikitavoloboev/alfred-learn-anything). Any change I make to the lists are automatically committed with [Hazel](../macOS/apps/hazel.md).

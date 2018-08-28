@@ -30,7 +30,7 @@ I keep a [Trello board](https://trello.com/b/MHs03Zai) where I drop ideas I have
 ## My process in writing
 I start writing all my articles by jotting down notes as dashed points below the title. Here is how that looks:
 
-![](https://i.imgur.com/8Wwf5Mh.png)
+![](https://i.imgur.com/fs7OwNj.png)
 
 I then start writing the article and try to touch on one or all of these points as I write the article. I add/remove points as I write the article.
 

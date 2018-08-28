@@ -31,7 +31,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Deoplete Jedi](https://github.com/zchee/deoplete-jedi) - Deoplete source for [jedi](https://github.com/davidhalter/jedi).
 
 ## Looks
-- [Monokai theme](https://github.com/nikitavoloboev/monokai-vim)
+- [Night Blue theme](https://github.com/nikitavoloboev/night-blue-vim)
 - [Lightline](https://github.com/itchyny/lightline.vim) - Light and configurable statusline/tabline.
 
 ## Vim

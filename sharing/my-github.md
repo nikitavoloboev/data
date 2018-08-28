@@ -38,7 +38,7 @@ The number between brackets shows the year I created the repo in. Repos with �
 - [Find work (2018) 🌟](https://github.com/nikitavoloboev/find-work#readme) - Curated list of websites and resources to find work programming.
 
 ## Vim
-- [Monokai Vim (2018)](https://github.com/nikitavoloboev/monokai-vim#readme) - Monokai theme for Vim.
+- [Night Blue Vim (2018)](https://github.com/nikitavoloboev/night-blue-vim#readme) - Night blue theme for Vim.
 
 ## Web
 - [Crafting Ideas (2017) 💡](https://github.com/nikitavoloboev/crafting-ideas#readme) - Platform to share and grow your ideas.

@@ -21,8 +21,8 @@ Some simple rules to follow for myself doing things.
 - [Exercise](../fitness/fitness.md). 1 hour of exercise every day.
 - Eat a [whole food, plant based diet](../health/nutrition/nutrition.md). One salad every day.
 - Drink water, tea and occasional coffee. No added sugar in drinks/food.
-- [Fast](../health/nutrition/fasting.md) for 16 hours daily.
 - [Sleep](../sleep/sleep.md) at least 7 hours every day. Wake up & go to sleep at same time.
+- Always have good posture. Sit properly and upright, don't bend my back/spine.
 - Take [Vitamin D & Vitamin B12](../health/nutrition/supplements.md) every morning.
 - Everything in moderation. Avoid alcohol and hard drugs (like opiates).
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
@@ -43,7 +43,6 @@ Some simple rules to follow for myself doing things.
 - Ship early. Get feedback and iterate on it. Rinse and repeat.
 - Track all time in [Timing](../macOS/apps/timing.md). Reflect on it at the end of the day & week.
 - Wear comfortable clothes when working from home and outside.
-- Sit properly and upright, don't bend my back/spine.
 
 ## Focus
 - Be very aggressive in cutting any kind of distractions when working.

@@ -8,6 +8,6 @@ But more than that, it forces you to be more conscious of your life and the role
 Currently my zero waste practices involve:
 - Eating portions of food that I can actually finish and not throwing food away.
 - No longer eating meat and supporting the horrible animal slaughterhouses and instead eating a whole food, plant based diet.
-- Minimizing my use of plastics.
-- Drinking water/tea from my metal water cup.
+- Minimizing my use of plastics and recycling everything.
+- Drinking water/tea from my metal cup.
 - Letting other people know that this wonderful lifestyle of minimalism and zero waste exists and how great it actually is to adhere it.

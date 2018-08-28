@@ -14,6 +14,7 @@ The one book I read by him and loved is [Wisdom of Insecurity](https://antilogic
 - [Undifferentiated Toy Gardens](https://soundcloud.com/spacekittyisyou/undifferentiated-toy-gardens?in=spacekittyisyou/sets/ambient-watts)
 - [It all goes together](https://www.youtube.com/watch?v=qml1-xzPpxY)
 - [The Freedom To Make Mistakes](https://www.youtube.com/watch?v=AnLZBdB9uWU&t=5s)
+- [Story of the Chinese Farmer](https://www.youtube.com/watch?v=b_onYOLnELI)
 
 ## Interesting talks
 - [How Your Beliefs Create Reality](https://www.youtube.com/watch?v=u4Qp_q-PqAc)

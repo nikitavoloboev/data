@@ -68,9 +68,6 @@ Below is a list of extensions I use.
 ## Lua
 - [Lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua.
 
-## Theme
-- [Monokai Pro](https://www.monokai.pro/vscode/)
-
 # Interesting (not using)
 ## Utility
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Polaroid for your code.
@@ -113,6 +110,7 @@ Below is a list of extensions I use.
 ## Themes
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
 - [Alabaster](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster)
+- [Monokai Pro](https://www.monokai.pro/vscode/)
 
 ## Notes
 - In [Go plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) `ife` snippet will create an error catching block.

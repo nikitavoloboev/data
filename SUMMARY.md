@@ -60,7 +60,6 @@
 		- [2Do](macOS/apps/2do.md)
 		- [Pixave](macOS/apps/pixave.md)
 		- [iTerm](macOS/apps/iterm.md)
-		- [SnippetsLab](macOS/apps/snippetslab.md)
 		- [Tweetbot](macOS/apps/tweetbot.md)
 		- [Textual](macOS/apps/textual.md)
 		- [Xcode](macOS/apps/xcode.md)

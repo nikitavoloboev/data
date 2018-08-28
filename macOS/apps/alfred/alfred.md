@@ -22,8 +22,8 @@ My most used workflows at current time are:
 Coupled with many [small workflows](https://github.com/nikitavoloboev/small-workflows) I made. I hope to add more workflows of my own [to the mix](https://github.com/learn-anything/alfred-workflows#readme) with time.
 
 ## Alfred theme
-I use [Monokai theme](https://www.alfredapp.com/extras/theme/2eFqeKVw04/). Here is how it looks:
-![](https://i.imgur.com/nbpUM5r.png)
+I use [Night Blue theme](https://www.alfredapp.com/extras/theme/24fhXfBld7/). Here is how it looks:
+![](https://i.imgur.com/OPd7GGA.png)
 
 ### Symlink workflows
 It is a great idea to symlink workflows you are working on so you can work on them in the comfort of your file system and not inside Alfred UUID named directories.
