@@ -68,6 +68,9 @@ Below is a list of extensions I use.
 ## Lua
 - [Lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua.
 
+## Theme
+- [Night Blue](https://github.com/nikitavoloboev/night-blue-vscode#readme)
+
 # Interesting (not using)
 ## Utility
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Polaroid for your code.
