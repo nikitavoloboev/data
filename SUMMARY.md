@@ -311,6 +311,7 @@
 	- [Icons](design/icons.md)
 	- [Fonts](design/fonts.md)
 	- [Design inspiration](design/design-inspiration.md)
+	- [Night blue theme](design/night-blue-theme.md)
 - [Keyboards](keyboards/keyboards.md)
 	- [QMK](keyboards/qmk.md)
 - [Future](future/future.md)
