@@ -1,6 +1,9 @@
 # Night Blue themes
 As I have fallen in love with having `#18222D` color as my background on Telegram. I slowly started added it to every app that supported theming. Having a unified color scheme across all the editors and even some apps I use is amazing.
 
+## How it looks
+![](https://i.imgur.com/iMgxn5p.png)
+
 So far this theme exists for these apps:
 - [iTerm](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme)
 - [Vim](https://github.com/nikitavoloboev/night-blue-vim#readme)

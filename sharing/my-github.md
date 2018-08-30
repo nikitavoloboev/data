@@ -37,7 +37,7 @@ The number between brackets shows the year I created the repo in. Repos with �
 - [Privacy Respecting (2017) 🌟](https://github.com/nikitavoloboev/privacy-respecting#readme) - Curated List of Privacy Respecting Services and Software.
 - [Find work (2018) 🌟](https://github.com/nikitavoloboev/find-work#readme) - Curated list of websites and resources to find work programming.
 
-## Night Blue Themes
+## Themes
 - [Night Blue Vim (2018)](https://github.com/nikitavoloboev/vim-night-blue#readme)
 - [Night Blue VS Code (2018)](https://github.com/nikitavoloboev/vscode-night-blue#readme)
 

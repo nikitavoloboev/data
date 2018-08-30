@@ -11,3 +11,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Stream editing](https://yoshuawuyts.gitbooks.io/knowledge/content/unix/streams.html)
 - [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0&feature=youtu.be&t=4m8s) - Awesome lookback on history of UNIX.
 - [cicada](https://github.com/mitnk/cicada) - Simple Unix shell written in Rust.
+- [Test your sysadmin skills](https://github.com/trimstray/test-your-sysadmin-skills#readme)
