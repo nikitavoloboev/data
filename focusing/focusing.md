@@ -38,7 +38,7 @@ The things I work on during this 100 min focus session is specified by an event 
 
 At the end of the 100 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 100 min period. The projects in Timing are a reflection of projects in my Focus Trello board.
 
-![](https://i.imgur.com/SJJcBES.png)
+![](https://i.imgur.com/UZ8rmtM.png)
 
 I also use [modified EggTimer workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to quickly set time estimates for tasks I am working on.
 
