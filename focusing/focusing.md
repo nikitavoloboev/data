@@ -24,9 +24,9 @@ I assign due dates for all my goals I am striving to achieve. I find this goal c
 ## Focus sessions
 I use [Focus app](https://heyfocus.com) to block many non work related websites for 100 minutes (front pages of Hacker News, Reddit, ..) every 2 hours.
 
-![](https://i.imgur.com/B9Tsaxf.png)
+![](https://i.imgur.com/RLwEyST.jpg)
 
-![](https://i.imgur.com/Cl8Iqzb.png)
+![](https://i.imgur.com/XWK3jRp.jpg)
 
 I also have Focus trigger Do Not Disturb mode on Focusing. This way I get no notifications when I am working and I get 0 distractions.
 
@@ -38,7 +38,7 @@ The things I work on during this 100 min focus session is specified by an event 
 
 At the end of the 100 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 100 min period. The projects are a reflection of my my Focus Trello board.
 
-![](https://i.imgur.com/qTZYGsG.png)
+![](https://i.imgur.com/FbT55dm.png)
 
 I also use [modified EggTimer workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to quickly set time estimates for tasks I am working on.
 
