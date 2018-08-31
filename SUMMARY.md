@@ -75,6 +75,7 @@
 		- [Keychain](macOS/apps/keychain.md)
 		- [1Password](macOS/apps/1password.md)
 		- [Little Snitch](macOS/apps/little-snitch.md)
+		- [Affinity Designer](macOS/apps/affinity-designer.md)
 	- [JXA](macOS/jxa.md)
 	- [AppleScript](macOS/applescript.md)
 - [iOS](iOS/iOS.md)

@@ -68,6 +68,9 @@ Below is a list of extensions I use.
 ## Lua
 - [Lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua.
 
+## Nix
+- [Nix language support](https://marketplace.visualstudio.com/items?itemName=bbenoist.Nix)
+
 ## Theme
 - [Night Blue](https://github.com/nikitavoloboev/vscode-night-blue#readme)
 
