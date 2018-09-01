@@ -7,7 +7,7 @@ The fact that I can combine active and passive tracking together is very powerfu
 
 My projects look like this:
 
-![](https://i.imgur.com/FbT55dm.png)
+![](https://i.imgur.com/Xf1QAru.png)
 
 One thing I realized after using Timing for over 2 years is that for a long time, I was tracking actions rather than actual projects and the actual value comes from knowing how much time I spent on particular project that matters to me. In this way, Timing also has perfect synergy with my [Focus Trello board](../../focusing/focusing.md).
 
