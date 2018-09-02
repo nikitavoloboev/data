@@ -81,6 +81,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Sleuth](https://github.com/tpope/vim-sleuth) - Heuristically set buffer options.
 - [Obsession](https://github.com/tpope/vim-obsession) - Continuously updated session files.
 - [Wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager.
+- [Rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
 
 ## Looks
 - [Dev icons](https://github.com/ryanoasis/vim-devicons) - Adds file type glyphs/icons to popular Vim plugins.

@@ -36,11 +36,9 @@ The things I work on during this 100 min focus session is specified by an event 
 - Ideas - I pick an idea I want to work on from [Trello](https://trello.com/b/alB1ryRP) and make it.
 - Learn - I choose a topic I want to learn from [Trello](https://trello.com/b/cu32qF3q) and learn it. Either by reading [books](https://trello.com/b/MOrnm2aN), [research papers](https://trello.com/b/EKl1Ie3q) or exploring [LA](../ideas/learn-anything.md).
 
-At the end of the 100 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 100 min period. The projects are a reflection of my my Focus Trello board.
+At the end of the 100 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 100 min period. The projects are a reflection of my Focus Trello board.
 
 ![](https://i.imgur.com/Xf1QAru.png)
-
-I also use [modified EggTimer workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to quickly set time estimates for tasks I am working on.
 
 I focus fully on [solving problems](../research/solving-problems.md) I need to solve and spend 0 energy thinking about what I should be doing or whether I am spending my time wisely in the moment. Full focus on the task at hand. No multitasking. No distractions.
 
