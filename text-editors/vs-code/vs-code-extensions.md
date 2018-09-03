@@ -100,6 +100,7 @@ Below is a list of extensions I use.
 ## JavaScirpt
 - [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack)
 - [Yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn) - Manage yarn commands.
+- [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live Scratchpad for JavaScript.
 
 ## Java
 - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)

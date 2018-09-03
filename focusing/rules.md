@@ -19,7 +19,7 @@ Some simple rules to follow for myself doing things.
 
 ## Health
 - [Exercise](../fitness/fitness.md). 1 hour of exercise every day.
-- Eat a [whole food, plant based diet](../health/nutrition/nutrition.md). One salad every day.
+- Eat a [whole food, plant based diet](../health/nutrition/nutrition.md).
 - Drink water, tea and occasional coffee. No added sugar in drinks/food.
 - [Sleep](../sleep/sleep.md) at least 7 hours every day. Wake up & go to sleep at same time.
 - Always have good posture. Sit properly and upright, don't bend my back/spine.

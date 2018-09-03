@@ -14,3 +14,4 @@ In any way, you probably live only one life. So best [make it count](http://paul
 - [13 Lessons Learned](https://brightthemag.com/13-lessons-learned-e4f8ceb21e60)
 - [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html)
 - [Steve Jobs's philosophy](https://www.youtube.com/watch?v=uwf38MVMbc8)
+- [Alan Watts Explains What Awakening Means](https://www.youtube.com/watch?v=7SfZZlpfaN0)

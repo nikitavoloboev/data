@@ -11,11 +11,11 @@ For example, one of these _rules_ is that I need to be proactive with my email a
 ## Focusing on what's important
 I keep a private Trello board where I outline things that I want to focus on in life and achieve.
 
-![](https://i.imgur.com/vMs1XwZ.jpg)
+![](https://i.imgur.com/ceJkc1W.jpg)
 
 I mark the projects and goals I want to focus on right now, and by pressing `Q` in Trello I will only see these cards on the board.
 
-![](https://i.imgur.com/pSGqgxW.jpg)
+![](https://i.imgur.com/Is3dFiV.jpg)
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
 
@@ -32,7 +32,7 @@ I also have Focus trigger Do Not Disturb mode on Focusing. This way I get no not
 
 The things I work on during this 100 min focus session is specified by an event in [Fantastical](../macOS/apps/fantastical.md). The events are simply names of projects on which I want to work on in that time. Here are the most common events I use and what I do during them:
 - Inbox - I open [2Do](../macOS/apps/2do.md) and work through the most prioritized tasks for `Today`.
-- Code - I use [Bee](https://www.neat.io/bee/) app and work through GitHub issues in `Next` list.
+- Open Source - I use [Bee](https://www.neat.io/bee/) app and work through GitHub issues in `Next` list.
 - Ideas - I pick an idea I want to work on from [Trello](https://trello.com/b/alB1ryRP) and make it.
 - Learn - I choose a topic I want to learn from [Trello](https://trello.com/b/cu32qF3q) and learn it. Either by reading [books](https://trello.com/b/MOrnm2aN), [research papers](https://trello.com/b/EKl1Ie3q) or exploring [LA](../ideas/learn-anything.md).
 
