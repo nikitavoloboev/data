@@ -25,3 +25,4 @@ I keep a [list of all my favorite games](https://www.grouvee.com/user/nikivi/she
 - [Patient gamers subreddit](https://www.reddit.com/r/patientgamers/)
 - [Awesome games](https://github.com/leereilly/games#readme)
 - [Awesome educational games](https://github.com/yrgo/awesome-eg#readme)
+- [If you had to recommend someone play 5 games to really get a feel for you/your tastes, what five would you pick?](https://twitter.com/jasonthinks/status/1036687671043579905)

@@ -60,3 +60,4 @@ Go promotes composition over inheritance.
 - [List of advices and tricks in the Go's world](https://github.com/cristaloleg/go-advices#readme)
 - [Golang challenge](http://golang-challenge.org/)
 - [dep2nix](https://github.com/nixcloud/dep2nix) - Using golang/dep to create a deps.nix file for go projects to package them for nixpkgs.
+- [GopherCon 2018 - Rethinking Classical Concurrency Patterns](https://about.sourcegraph.com/go/gophercon-2018-rethinking-classical-concurrency-patterns/) - [Slides](https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view)
