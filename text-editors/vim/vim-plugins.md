@@ -43,6 +43,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 # Interesting (not using)
 ## Utility
 - [Autoformat](https://github.com/Chiel92/vim-autoformat) - Easy code formatting.
+- [Which key](https://github.com/liuchengxu/vim-which-key) - Show keybindings in popup.
 - [Sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
 - [Titlecase](https://github.com/christoomey/vim-titlecase) - Titlecase text.
 - [neoinclude.vim](https://github.com/Shougo/neoinclude.vim) - Include completion framework for neocomplete/deoplete.

@@ -28,8 +28,6 @@ I use [Focus app](https://heyfocus.com) to block many non work related websites 
 
 ![](https://i.imgur.com/Cl8Iqzb.png)
 
-I also have Focus trigger Do Not Disturb mode on Focusing. This way I get no notifications when I am working and I get 0 distractions.
-
 The things I work on during this 100 min focus session is specified by an event in [Fantastical](../macOS/apps/fantastical.md). The events are simply names of projects on which I want to work on in that time. Here are the most common events I use and what I do during them:
 - Inbox - I open [2Do](../macOS/apps/2do.md) and work through the most prioritized tasks for `Today`.
 - Open Source - I use [Bee](https://www.neat.io/bee/) app and work through GitHub issues in `Next` list.
@@ -39,6 +37,8 @@ The things I work on during this 100 min focus session is specified by an event 
 At the end of the 100 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 100 min period. The projects are a reflection of my Focus Trello board.
 
 ![](https://i.imgur.com/Xf1QAru.png)
+
+I limit apps that can send me notifications to only essential things and turn off all sounds on notifications I get.
 
 I focus fully on [solving problems](../research/solving-problems.md) I need to solve and spend 0 energy thinking about what I should be doing or whether I am spending my time wisely in the moment. Full focus on the task at hand. No multitasking. No distractions.
 

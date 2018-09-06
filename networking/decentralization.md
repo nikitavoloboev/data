@@ -5,3 +5,4 @@
 - [Ask HN: Recommendations for Peer to Peer Frameworks (2018)](https://news.ycombinator.com/item?id=16785878)
 - [Blockstack](https://blockstack.org/) - New Internet for Decentralized Apps.
 - [Cleargraph](https://github.com/dsys/cleargraph) - Multi-purpose GraphQL runtime for decentralized applications (dApps) and wallets.
+- [Why We Need Web 3.0](https://breakermag.com/why-we-need-web-3-0/)

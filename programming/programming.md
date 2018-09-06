@@ -19,6 +19,7 @@
 - The implementation is the design.
 - Hide whatever the caller shouldn't care about. In particular, you can remove type parameters with appropriate quantification.
 - Declarative configuration means that you write down the desired state of the world in a configuration and then submit that configuration to a service that takes actions to ensure the desired state becomes the actual state.
+- Every single feature makes product more complex, makes testing more complex, puts constraints on UI design etc. Controlling feature creep (also by revisiting old features) is very important to keep project healthy. Larger the project, more important it is.
 
 ## Links
 - [One Bite At A Time: Partitioning Complexity](https://www.facebook.com/notes/kent-beck/one-bite-at-a-time-partitioning-complexity/1716882961677894/)
