@@ -10,3 +10,4 @@
 - [Structuring Your Python Project](http://docs.python-guide.org/en/latest/writing/structure/)
 - [Awesome Python Features Explained Using Harry Potter](https://github.com/zotroneneis/harry_potter_universe#readme)
 - [Learn python](https://github.com/trekhleb/learn-python#readme) - Playground and cheatsheet for learning Python.
+- [Py-Spy](https://github.com/benfred/py-spy#readme) - Sampling profiler for Python programs.

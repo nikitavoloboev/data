@@ -7,7 +7,7 @@ You can also take a look through [Alfred's help](https://www.alfredapp.com/help/
 I like to write all my workflows in Go language unless the workflow can be done using only Alfred builtin objects and some python/bash code. Here are steps I follow to create my workflows, both Go workflows and non Go.
 
 ### Using Go and [AwGo](https://github.com/deanishe/awgo)
-1. Create a folder in `~/src/alfred`. Prefix the folder name with `alfred-`. i.e. `alfred-web-searches`.
+1. Create a folder in `~/Documents/src/alfred`. Prefix the folder name with `alfred-`. i.e. `alfred-web-searches`.
 2. Initialize the folder with git as any project.
 3. Inside the `alfred-..` folder I create a `workflow` directory. This is where the actual workflow will live in as well as the binary file compiled from my Go code.
 4. Create the workflow I want to make in Alfred Preferences. Add the icon, name and unique bundle ID. And add the workflow to my custom `Mine` category so I can quickly filter out all the workflows I've ever made inside Alfred.
@@ -22,7 +22,7 @@ I like to write all my workflows in Go language unless the workflow can be done 
 10. If I want to share the workflow with the world (which is usually always), I create a GitHub repository and push my workflow there, making sure that AwGo updating works so all the users can receive future updates.
 
 ### Using Alfred builtin objects + some code
-1. Create a folder in `~/src/alfred/small-workflows`. Name the folder by workflow name, lowercased and separated by dashes without `alfred` prefix.
+1. Create a folder in `~/Documents/src/alfred/small-workflows`. Name the folder by workflow name, lowercased and separated by dashes without `alfred` prefix.
 2. Inside the folder I create a `workflow` directory.
 3. Create the workflow I want to make in Alfred Preferences. Add the icon, name and unique bundle ID. Add the workflow to `Mine` category.
 4. Carry the info.plist and .png file of the logo to `workflow` directory I just made.
