@@ -44,6 +44,8 @@ I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3
 
 ![](https://i.imgur.com/D0NP2s3.png)
 
+- Adding `alfred:ignore` tag to files/folders will have Alfred ignore the file/folder in its searches.
+
 ## Links
 - [Reporting Problems with Workflows](https://www.alfredforum.com/topic/10224-reporting-problems-with-workflows/)
 - [How to: workflow / environment variables](https://www.alfredforum.com/topic/9070-how-to-workflowenvironment-variables/?tab=comments#comment-45177)
