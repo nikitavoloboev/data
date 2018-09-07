@@ -42,7 +42,8 @@ Some simple rules to follow for myself doing things.
 - Start. Don't be afraid to solve the problem no matter how complex or intimidating it may be.
 - Ship early. Get feedback and iterate on it. Rinse and repeat.
 - Track all time in [Timing](../macOS/apps/timing.md). Reflect on it at the end of the day & week.
-- Wear comfortable clothes when working from home and outside.
+- Wear comfortable clothes.
+- Share everything I know and made.
 
 ## Focus
 - Be very aggressive in cutting any kind of distractions when working.
@@ -89,9 +90,6 @@ Some simple rules to follow for myself doing things.
 - Use imperative tense. Instead of _# Outputs_, use _# Output_.
 - Only add one space after the code for inline comments. Don't space them out.
 - Where appropriate, write a small comment on top of the file to describe the purpose of the file.
-
-## Share
-- Share everything I know and made.
 
 ## Communication
 - Say things that [contribute to the conversation](https://discourse.elm-lang.org/t/how-we-talk-about-other-languages/972/7). Be honest.

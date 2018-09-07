@@ -36,3 +36,4 @@
 - [Haskell Programming From First Principles - Follow-up Resources](https://github.com/pushcx/hpffp-resources)
 - [Quchen's articles](https://github.com/quchen/articles)
 - [Haskell Design Patterns?](https://www.reddit.com/r/haskell/comments/5r271m/haskell_design_patterns/)
+- [Haskell companies](https://github.com/erkmos/haskell-companies#readme) - Curated list of companies using Haskell in industry.

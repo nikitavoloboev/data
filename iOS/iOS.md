@@ -20,3 +20,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Writing good bug reports](https://pspdfkit.com/blog/2016/writing-good-bug-reports/)
 - [iOS tips and tricks (2018)](https://www.reddit.com/r/apple/comments/8stuj6/ios_tips_and_tricks/)
 - [iOS Factor](https://ios-factor.com/) - Develop high quality iOS apps.
+- [New stuff from 2018 WWDC](https://mackuba.eu/2018/09/07/new-stuff-from-wwdc-2018/)
