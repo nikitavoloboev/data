@@ -24,3 +24,4 @@ I publish most of my work and make it open source for other people to use and re
 - [gitsome](https://github.com/donnemartin/gitsome) - Supercharged Git/GitHub command line interface.
 - [GitHub Trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular Github repos, updated daily.
 - [How to collaborate on GitHub](https://github.com/eonist/How-to-collaborate-on-github#readme) - Mini book about collaborating on GitHub.
+- [Gitrob](https://github.com/michenriksen/gitrob#readme) - Tool to help find potentially sensitive files pushed to public repositories on GitHub.
