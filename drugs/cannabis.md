@@ -4,4 +4,4 @@
 	- The thing so many people don’t realize about astral projection or deep states of consciousness is that it requires subtlety, immense subtlety. Cannabis helps that by amplifying the feedback so you can navigate your own consciousness easier.
 
 ## Links
-- [Best Temperature to Vape Weed](https://www.herbonaut.com/best-temperature-to-vape-weed/)
+- [Best Temperature to Vape Weed](https://www.dankvapes.co.uk/blogs/talk-to-dank/what-is-the-best-temperature-to-set-my-weed-vaporizer)

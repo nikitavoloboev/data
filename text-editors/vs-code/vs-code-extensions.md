@@ -44,6 +44,9 @@ Below is a list of extensions I use.
 ## Haskell
 - [Haskell Language](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) - Adds highlighting support for Haskell.
 
+## Clojure
+- [Calva](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode) - Integrated REPL, linting, inline eval and more for VSCode. Powered by Cider & nRepl.
+
 ## Rust
 - [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Adds language support for Rust.
 

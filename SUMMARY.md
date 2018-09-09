@@ -137,6 +137,7 @@
 	- [ReasonML](programming-languages/reasonml.md)
 	- [Bash](programming-languages/bash.md)
 	- [Clojure](programming-languages/clojure/clojure.md)
+		- [ClojureScript](programming-languages/clojure/clojurescript.md)
 	- [Lisp](programming-languages/lisp.md)
 	- [OCaml](programming-languages/ocaml/ocaml.md)
 		- [OCaml libraries](programming-languages/ocaml/ocaml-libraries.md)

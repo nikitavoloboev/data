@@ -22,13 +22,15 @@ I use the same `Focus on cards` approach for all my [other Trello boards](../sha
 I assign due dates for all my goals I am striving to achieve. I find this goal centric approach to be incredibly useful as it lets me focus on making sure I do everything I need to achieve the goals I have set for myself. Making sure I limit the number of projects I am working on at any given time lets me actually deeply focus on them instead of being scattered around wondering if I am working on the right thing in the moment.
 
 ## Focus sessions
-I use [Focus app](https://heyfocus.com) to block many non work related websites for 100 minutes (front pages of Hacker News, Reddit, ..) every 2 hours.
+I use [Focus app](https://heyfocus.com) as a recurring [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) which lets me work in sessions of 80 minutes with 10 min breaks by blocking distracting websites and apps.
 
 ![](https://i.imgur.com/B9Tsaxf.png)
 
-![](https://i.imgur.com/Cl8Iqzb.png)
+![](https://i.imgur.com/XM0xoHE.png)
 
-The things I work on during this 100 min focus session is specified by an event in [Fantastical](../macOS/apps/fantastical.md). The events are simply names of projects on which I want to work on in that time. Here are the most common events I use and what I do during them:
+Only on breaks can I visit these websites.
+
+The things I work on during this 80 min focus session is specified by an event in [Fantastical](../macOS/apps/fantastical.md). The events are simply names of projects on which I want to work on in that time. Here are the most common events I use and what I do during them:
 - Inbox - I open [2Do](../macOS/apps/2do.md) and work through the most prioritized tasks for `Today`.
 - Open Source - I use [Bee](https://www.neat.io/bee/) app and work through GitHub issues in `Next` list.
 - Ideas - I pick an idea I want to work on from [Trello](https://trello.com/b/alB1ryRP) and make it.
