@@ -7,3 +7,4 @@
 ## Links
 - [Racket documentation](file:///Users/nikivi/Library/Racket/6.10/doc/index.html)
 - [Lisp-like DSL for Rust language](https://github.com/JunSuzukiJapan/macro-lisp#readme)
+- [Carp](https://github.com/carp-lang/Carp#readme) - Statically typed lisp, without a GC, for real-time applications.

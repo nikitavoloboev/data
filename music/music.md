@@ -5,8 +5,6 @@ You can listen through a lot of the songs I liked on [YouTube](https://www.youtu
 
 You can also see my most listened to [artists](https://www.last.fm/user/playfullyExist/library/artists), [songs](https://www.last.fm/user/playfullyExist/library/tracks) and [albums](https://www.last.fm/user/playfullyExist/library/albums).
 
-And I created a [Telegram group](https://t.me/finestmusic) for sharing interesting songs across different genres.
-
 ## Links
 - [Coding music](https://gist.github.com/staltz/99d70c8ae57bdc71a53b83e74a51d096)
 - [Leaf Music](https://www.leafmusic.com/)

@@ -23,7 +23,7 @@ My time is limited and I can't often do everything I wish. But I have many ideas
 I have [many more Trello boards](my-trello.md) I use and share.
 
 ## macOS/iOS group on [Telegram](https://t.me/macOSautomation)
-I love macOS and automation so I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS. I made some [other Telegram groups](../tools/telegram.md) too.
+I love macOS and automation so I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
 
 ## Snippets on [GitHub Gists](my-gists.md)
 I share snippets of code I made with various languages for quick reference.

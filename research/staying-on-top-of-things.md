@@ -32,7 +32,7 @@ I sometimes check it out as it does contain some interesting links.
 I follow few publications and writers on Medium. I then view new articles from my feed [here](https://medium.com/stream/network).
 
 ### Communities and forums I frequent
-I spend a lot of my time on [LA Telegram group](https://t.me/learnanything) to discuss LA development. As well as [macOS/iOS automation Telegram group](https://t.me/macOSautomation).
+I spend a lot of my time on [LA Discord server](https://discord.gg/KKYdWjt) to discuss LA development. As well as [macOS/iOS automation Telegram group](https://t.me/macOSautomation).
 
 Aside from that I like visiting and at times contributing to these forums:
 - [Alfred Forum](https://www.alfredforum.com)
