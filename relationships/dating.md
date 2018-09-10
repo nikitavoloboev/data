@@ -1,9 +1,11 @@
 # Dating
+
 One of the most valuable books I read on the topic of dating and relationships is [Models](https://www.goodreads.com/book/show/12633800-models). It states that the most important thing in any kind of relationship is honesty. In regards to seduction it is being honest with your intentions. The other important thing is being independent. It is usually the case that the person who feels most insecure in the relationship is at a disadvantage. In this position, it is thus much harder to be yourself as you will always be reliant on someone's thoughts or feelings. It is much better to simply be yourself and understand that whatever thoughts or feelings the person has are of their own making. And it is their opinion only which in no way reflects who you are and what you think of yourself.
 
 Being honest with your intentions and being independent of anything brings confidence. The hardest part in doing anything in life including approaching new people on the street to simply say hi is the feeling of being rejected. This fear however is irrational. The worst thing that can happen is that you will indeed get rejected. And getting rejected is nothing to be afraid of because no one cares about you being rejected except you. And even in the case of rejection, you will learn something. I think the book really demonstrates the point that the most important thing to succeed in anything you want to do is being yourself and not being afraid of anything.
 
 ## Notes
+
 - It is better to exchange Instagram accounts with girls you've approached than trying to share phone numbers.
 - The best dates you can go to are ones where you can easily share a conversation together.
 - [“Nice” is subjective. Typically, the guys who consider themselves the “nice guy” are the ones who do what they think is nice with an added contingency, as if buying a meal or being a normal human being means they deserve affection and adoration from a girl. Nice guys don’t finish last, disingenuous guys do. The douche bags get girls because they do what they want, not what they think the girl wants. Moral of the story: be genuine and be your own human being, not what you think people want or expect you to be.](https://www.reddit.com/r/dating_advice/comments/99uixo/nice_guys_finish_last/)

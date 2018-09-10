@@ -1,5 +1,7 @@
 # [Swift](https://developer.apple.com/swift/)
+
 ## Links
+
 - [Swift Tips by Sundell](https://github.com/JohnSundell/SwiftTips)
 - [Swift Tips by Luur](https://github.com/Luur/SwiftTips)
 - [WWDC videos](https://developer.apple.com/videos/)

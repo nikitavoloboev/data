@@ -1,15 +1,18 @@
 # [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
+
 [MDN](https://developer.mozilla.org/bm/docs/Web/JavaScript) and [You don't know JS](https://github.com/getify/You-Dont-Know-JS#reame) are great intros.
 
 I love using [Prettier](https://github.com/prettier/prettier) for never having to think about styling code again. [AirBnb](https://github.com/airbnb/javascript) style guide is pretty awesome.
 
 ## Notes
+
 - [You can define and run the function straight away by enclosing it in parenthesis and adding empty () after](https://forum.keyboardmaestro.com/t/javascript-assistance/8331/2)
 - In JavaScript, a type is a runtime tag describing the actual kind of data you have at runtime.
 - A property is any value attached to an object. A method is a property that is a function.
 - ‘this’, always references the owner of the function it is in, for this case — since it is now out of scope — the window/global object.
 
 ## Links
+
 - [JS in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
 - [2017 JavaScript Rising Stars](https://risingstars.js.org/2017/en/)
 - [ES6 features](https://github.com/lukehoban/es6features#readme)

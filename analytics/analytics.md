@@ -1,4 +1,5 @@
 # Analytics
+
 I find analytics that is not actionable in any way a waste of time. For example, checking the Insights Traffic pane on GitHub on your own repos to see how many people viewed your repo or cloned it. Or seeing how many people visited your own personal site with Google analytics. It serves 0 purpose and is only addicting due to its ego boosting nature. I block these pages with [Focus app](https://heyfocus.com) or not use analytics all together on sites that don't need it.
 
 It is however sometimes helpful to see analytics in aggregate, for example Medium stats where you can see which articles you wrote resonated more with people.
@@ -8,6 +9,7 @@ That said, I am a firm follower of quantified self movement and I [track and agg
 For user facing products, well implemented analytics will let you see how to optimize your system to serve some end goals better and for that you need data.
 
 ## Links
+
 - [Matamo](https://matomo.org/) - Open source alternative to Google Analytics.
 - [Fathom](https://github.com/usefathom/fathom) - Simple, trustworthy website analytics. Built with Golang & Preact.
 - [LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.

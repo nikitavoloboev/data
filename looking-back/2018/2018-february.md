@@ -1,5 +1,7 @@
 # 2018 February
+
 ## Summary
+
 This month went by fast. 'Started' working on a side project that I am quite excited about. Hope to learn more more things and hopefully apply the things I've learned in action to make something I want to exist from scratch.
 
 Aside from that I refined my workflow, as always and am still looking to do some kind of meaningful work. I hope the next months will go better. Another thing to note is that I hope to make the upcoming months _Changes_ to be a bit more lively with updates. Hopefully an update each day of something I've done or made. I like to think of this as just the beginning of this.
@@ -7,23 +9,24 @@ Aside from that I refined my workflow, as always and am still looking to do some
 Another cool thing is that my project I hope to make soon will improve these _looking back_ entries by quite a bit. Can't wait to release it.
 
 ## Changes
+
 - Completely updated my wiki and now everything is quite clean and tidy.
 - Started using [Fira Code](https://github.com/tonsky/FiraCode) font. And generally started to pay attention to fonts more. Fira Code is amazing.
 - Automated [dotfiles](https://github.com/nikitavoloboev/dotfiles) with [dotbot](https://github.com/anishathalye/dotbot).
-- Started discussing and working on new version of Learn Anything. Will have two modes: __Explore__ and __Learn__. Made some mockup for both of the modes.
+- Started discussing and working on new version of Learn Anything. Will have two modes: **Explore** and **Learn**. Made some mockup for both of the modes.
 - FB actually unblocked Learn Anything and now people can share links of the website with other people.
 - Started using Ship app more often for GitHub issues.
-	- Will try to triage as many open issues I have across all my repos.
-	- Have a pretty sweet setup going with 2Do, Trello, Fantastical and Ship.
+  - Will try to triage as many open issues I have across all my repos.
+  - Have a pretty sweet setup going with 2Do, Trello, Fantastical and Ship.
 - Will try not use mind map for documenting my Karabiner config but try a method of self documenting.
 - Will try to be a lot more active on Twitter. It's a pretty amazing platform.
 - Taking Git and Git workflow a lot more seriously. Atomic commits. And coding. Lots more coding. Also started to use Tower app for for my Git workflow. It's working pretty great so far.
-	- I also automated quite a lot of my Git activity. Specifically I learned that most commits if not all start with an _action_ so I automated inserting _Update_ words in Tower as well as many more things. Plus I automated a lot of same _Update_ commits that I do for my [knowledge](https://github.com/nikitavoloboev/knowledge) repo. It genuinely saves a ton of time.
+  - I also automated quite a lot of my Git activity. Specifically I learned that most commits if not all start with an _action_ so I automated inserting _Update_ words in Tower as well as many more things. Plus I automated a lot of same _Update_ commits that I do for my [knowledge](https://github.com/nikitavoloboev/knowledge) repo. It genuinely saves a ton of time.
 - Moved all my Go workflows to use Kingpin. Makes updating and extending workflows a lot easier which I should do in the coming time.
-- Started to use Spotify's __make song radio__ of the song a lot more aggressively. My current Spotify workflow is pretty awesome. I find a song I like, I quickly add the song to [Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?) with _m + g_. If I love the song, then I add it to my [Bliss](https://open.spotify.com/user/nikitavoloboev/playlist/0epiRzQHjdJieYr0y3TdST?) playlist. And then I can start a song radio of the song to see what other cool things Spotify throws my way. I should start making my own music too although my knowledge of music and music theory is 0.
+- Started to use Spotify's **make song radio** of the song a lot more aggressively. My current Spotify workflow is pretty awesome. I find a song I like, I quickly add the song to [Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?) with _m + g_. If I love the song, then I add it to my [Bliss](https://open.spotify.com/user/nikitavoloboev/playlist/0epiRzQHjdJieYr0y3TdST?) playlist. And then I can start a song radio of the song to see what other cool things Spotify throws my way. I should start making my own music too although my knowledge of music and music theory is 0.
 - (21) Going to use my diary a bit more often. I realized just how valuable it is to express my thoughts and feelings either on paper or through music. Ideally through music but I need to learn how I can do that.
 - (21) Writing in my personal diary feels like sitting by a fire place sipping warm tea. It feels nice to let my thoughts and my frustrations be expressed on paper. Knowing well that what I write is not going to be read by anyone but me.
-- (21) Will try to write more in my digital private journal. I wrote a small letter to myself in there. To remind myself of what it is that I want to do and what I want to __stop doing__. I am not following [my own rules](../../focusing/rules.md)!
+- (21) Will try to write more in my digital private journal. I wrote a small letter to myself in there. To remind myself of what it is that I want to do and what I want to **stop doing**. I am not following [my own rules](../../focusing/rules.md)!
 - (21) Removed my Karabiner mind map as I it is stupid to keep it in track with my actual config. It's better to optimize searching and self documenting the config itself in the code with comments.
 - (21) Going to start doing this kind of changelog more often. I love it. With the date on the side. Software has change logs. Why not life?
 - (22) [Wrote about my workflow in making workflows](https://www.alfredforum.com/topic/11274-my-workflow-in-making-workflows).
@@ -34,22 +37,25 @@ Another cool thing is that my project I hope to make soon will improve these _lo
 ![](https://i.imgur.com/McMiW7W.png)
 
 ## Photos
+
 Not sure if these photos will actually stay here as they are links from Instagram and there is a chance Instagram will change them in the future but why not try. Will rally images I posted on Instagram here too.
 
 ![](https://scontent-ams3-1.cdninstagram.com/vp/3ae69e595cc08df8864d3571541f5df3/5BC93033/t51.2885-15/s640x640/sh0.08/e35/27894445_164536137532199_7303673985147863040_n.jpg)
+
 > [(27) ☁️](https://www.instagram.com/p/BftXeq_j6xf/)
 
 ## Thoughts
-- I am thinking how I can experiment with this monthly overview more. Aside from __Changes__ and the __Summary__ paragraph at the end of each month, I want to drop down some __thoughts__ I have too in some form. Just for posterity. Plus I do want to write more often, I think it's better to focus on that more rather than just dropping some random thoughts here.
+
+- I am thinking how I can experiment with this monthly overview more. Aside from **Changes** and the **Summary** paragraph at the end of each month, I want to drop down some **thoughts** I have too in some form. Just for posterity. Plus I do want to write more often, I think it's better to focus on that more rather than just dropping some random thoughts here.
 - In other news though, I think this month, I am starting to realize more just how absurd my past behaviors were in regards to my life and education. I want to make cool stuff and I deeply felt that everything around me was limiting me in some way but I should treat it differently. I should embrace everything as a learning opportunity and take the best from the cards I have been dealt with. But above all I should just take small steps every day to achieve my goals and not live in some fantasy or fantasies. Just make things I want to make and see what comes out of it.
 - (21) It's pretty amazing how freeing having this kind of _change log_ is. It's so awesome that I can quickly open it in a mere second and add a little thing I made or done and have a way to to quickly reference the things I've made in each of the months. I think this will make for a pretty interesting _2018 in review_ post.
-- (21) Only thing I am not sure about is how to balance Twitter posts and this change/thoughts log here. Do I make the tweet and reference it from here? I kind of hate how Twitter is a black hole where you post things, only to never find the tweets, posts again. I link to the tweets I made in that month at the end of each of the month reviews but I am not happy how Twitter shows __all__ the tweets I made, even my tweets to some person asking for some feature request or finding a bug. I just want a way to see the actual tweets __I__ made in some period of time. Will try to experiment and see what works best for me. I don't want to duplicate things and want something that fits the way I work and do things as easily as possible. I also made a pretty neat KM macro to quickly add a dashed point with the number of the day prefilled. Automation 💜.
-- (21) I wrote the [rules](../../focusing/rules.md) that I don't even follow. It's not that they are hard, it's just my mind is a mess and I want to do/make so many things I can't focus on something specific. These rules should ground me and let me focus on doing what I want. I wasted so much time in my life already and it sickens me that I am still wasting it despite knowing full well what I am doing. But one thing to remind myself again is that working away from home is a __must__. I can't focus to do anything at home. I need to move around.
+- (21) Only thing I am not sure about is how to balance Twitter posts and this change/thoughts log here. Do I make the tweet and reference it from here? I kind of hate how Twitter is a black hole where you post things, only to never find the tweets, posts again. I link to the tweets I made in that month at the end of each of the month reviews but I am not happy how Twitter shows **all** the tweets I made, even my tweets to some person asking for some feature request or finding a bug. I just want a way to see the actual tweets **I** made in some period of time. Will try to experiment and see what works best for me. I don't want to duplicate things and want something that fits the way I work and do things as easily as possible. I also made a pretty neat KM macro to quickly add a dashed point with the number of the day prefilled. Automation 💜.
+- (21) I wrote the [rules](../../focusing/rules.md) that I don't even follow. It's not that they are hard, it's just my mind is a mess and I want to do/make so many things I can't focus on something specific. These rules should ground me and let me focus on doing what I want. I wasted so much time in my life already and it sickens me that I am still wasting it despite knowing full well what I am doing. But one thing to remind myself again is that working away from home is a **must**. I can't focus to do anything at home. I need to move around.
 - (21) Another cool thing about having this _life change log_ is that it is super motivating to keep it. It feels good adding something to _Changes_ and seeing that list grow. It shows that I am doing something and it gives it some concrete meaning. Also having a more detailed log makes for shorter and to the point summaries which I want to try to focus on. Never repeat myself.
 - (21) Cryptography is interesting. Makes you wonder how stupid you have to be to use something like FB messenger when there are much better messenger clients available where each message is encrypted and no one logs your metadata.
-- (22) Trying to make my writing more consistent. Specifically when to __bold__ out text. When to _italicize_ it and when to make a `code quote` of it. Made a rule of it in [rules](../../focusing/rules.md) but it irks me that I never had a consistent rule that I followed, I mostly made a `code quote` of everything.
+- (22) Trying to make my writing more consistent. Specifically when to **bold** out text. When to _italicize_ it and when to make a `code quote` of it. Made a rule of it in [rules](../../focusing/rules.md) but it irks me that I never had a consistent rule that I followed, I mostly made a `code quote` of everything.
 - (22) I decided I will use this looking back month reviews as the first class citizen. That is most tweets I will make will have a place here somewhere, most probably in _changes_. And then I will make a tweet of that. Reason is that I do actually want to keep a kind of log of things I have been doing and thinking about. I am certain that I won't regret this decision because I have full control over the content here which I can't say about Twitter. Only thing I don't have much control over is my Imgur images which I use to embed images both here in this wiki and all my GitHub repos. They do promise they won't ever take them down so let's hope. 🙏
-	- I did start to keep a local copy of the images that do matter to me. So I can quickly make an Imgur link of the image to share but also have a local copy of the image that I can keep safely in my Pixave library.
+  - I did start to keep a local copy of the images that do matter to me. So I can quickly make an Imgur link of the image to share but also have a local copy of the image that I can keep safely in my Pixave library.
 - (22) Another thing I am trying to come to terms with is imperfection. For example currently it irks me hard that my wiki is a bit inconsistent with regards to my styling of text throughout this wiki. I might go and review the past entries some time in the future. I currently still don't have a clear idea what is actually the best choice to go about styling text.
 - (23) It feels so strange and I have no idea what I am doing. Sometimes have a feeling that you can do anything. And other times you feel normal. I wish I could feel or remember that I can do anything all the time.
 - (23) My life would be so much more simpler and nicer if only I followed my own [rules](../../focusing/rules.md) and remembered my own lessons. I've been thinking how awesome it would be to have a kind of life linter. That is enforced by my own rules I set. That reminds me when I am doing something that I promised myself not to do. How awesome would that be? Is that even possible?
@@ -58,6 +64,7 @@ Not sure if these photos will actually stay here as they are links from Instagra
 - (25) Should also learn some design patterns for building software and read other people's code. My ability to create abstractions from code sucks.
 
 ### (13) Went through all my old FB posts
+
 Went through all my FB posts on my account and transferred the links + photos to my Photos app locally. I posted a lot of songs and links there as it turns out. Was fun going through most of them but I am super happy to never ever post to FB again. Life is so much simpler without it. I have a pretty awesome mental outlook on how I want to approach using technology and tools going forward and I want to cut out anything that brings me no use to my life.
 
 One thing I did find that was actually interesting was the first post I made about the mind map I was making that back then was called `research`. It was huge and with time I started cleaning and going through it all moving all the links to another map I started to make which I named `learn anything` and you can see that map [here](https://my.mindnode.com/16ppjh7Vs2ABJkgs7yyHo75KHymhoosayvDUyeRs#268.5,-734.1,1). History is fun to look back on.
@@ -71,11 +78,12 @@ One other thing I observed is just how much the kind of links I shared changed w
 ![](https://i.imgur.com/GMa59IK.png)
 
 ![](https://i.imgur.com/xd6zjTV.png)
+
 > My first super short article
 
 Since then I genuinely try to live by that motto of trying to express myself, who I am and what I want to see or create. It's a liberating thought and outlook on life that no matter what you do, there is no one that can judge you for being **you**. I am still trying to integrate this idea more into my life. It's crazy to think what would happen if I didn't actually sit down and write that article that day. I wouldn't have started a blog then and probably wouldn't have started it in a long time since then either. I wouldn't have created this wiki as result as it came as a somewhat of direct evolution of my blog and the things I have learned about Open Source and development. Will see how my workflow changes in time, I am curious to see what I will learn next and if I will regret having this wiki and these public journal logs. Although I doubt that.
 
-This act of transferring my posts from a closed and controlled silo that FB is opened my eyes to just how hard it is for some people to move away from FB. If you have invested quite some time in posting photographs, sharing links and sharing experiences with other people, there is quite a lot of friction as you can't just close down the account and leave. You have all those photos and comments and posts you made at different points in your life. And in many ways you are kind of forced to visit this horrible place where everything you do is monitored and recorded. Where every action you make is used as data to some neural network optimized for extracting as much value from every single user as possible by trying to show the most relevant ads and content that you *should* like. It's sad that people realize these things so late into using the service that they accumulated and *gave away* so much of their data and memories that it *will take time* to move all of that away from it.
+This act of transferring my posts from a closed and controlled silo that FB is opened my eyes to just how hard it is for some people to move away from FB. If you have invested quite some time in posting photographs, sharing links and sharing experiences with other people, there is quite a lot of friction as you can't just close down the account and leave. You have all those photos and comments and posts you made at different points in your life. And in many ways you are kind of forced to visit this horrible place where everything you do is monitored and recorded. Where every action you make is used as data to some neural network optimized for extracting as much value from every single user as possible by trying to show the most relevant ads and content that you _should_ like. It's sad that people realize these things so late into using the service that they accumulated and _gave away_ so much of their data and memories that it _will take time_ to move all of that away from it.
 
 In any way, no one is forcing me to use FB yet and that feels amazing. I have learned my lesson and I am now always trying to stay in the control of the data I create. Having a private encrypted journal is an amazing feeling, I can't thank [Day One](../../macOS/apps/day-one.md) enough for making such an awesome digital journal that I can use.
 
@@ -96,7 +104,6 @@ Here is a little collage of my favorite posts I made on FB since my first articl
 ![](https://i.imgur.com/PE1UjkR.png)
 
 > Probably [my favorite article](https://medium.com/@nikitavoloboev/knowledge-bootstrapping-36c97e0dee19#.udmp9eotg) I wrote on Medium. The true essence of the article is very close and dear to my heart. And the entire idea of bootstrapping knowledge and sharing experiences and everything a person knows continuously with the entire world clicked something in my brain and it made me approach and do things differently. Both with my blog, the GitHub repositories I made since then and finally this wiki itself together with Learn Anything which acts as my ultimate answer of trying to solve `bootstrapping knowledge` problem as best as I can. My ultimate goal though is something akin to [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) which will let anyone query what I know about any topic. As well as of course sharing my entire workflow and ways of doing things as well as ideas and, well everything. It's pretty amazing how far you can take this idea if you want to.
-
 
 ![](https://i.imgur.com/Q4ks3EL.png)
 
@@ -163,20 +170,26 @@ Here is a little collage of my favorite posts I made on FB since my first articl
 > The last post I'll add here. But on that day we released our first version which allowed for users to actually contribute and add resources to maps much more easily than before. We still have a long way to go and improve but I think its pretty awesome how some idea can turn into something quite cool if only you open it up and share with the world.
 
 ## Timing
+
 ![](https://i.imgur.com/tnDk6kl.png)
 
 Going to take Timing a lot more serious next month. I revamped by projects and Trello according to my goals but disregarded Timing for this month. I also was not productive this month. At all. Mostly due to my health condition that I wish would go away already.
 
 ## Music
+
 ![](https://i.imgur.com/ONfuZsA.png)
+
 > [Artists](https://www.last.fm/user/playfullyExist/library/artists?from=2018-02-01&to=2018-02-28)
 
 ![](https://i.imgur.com/HpsGfIL.png)
+
 > [Tracks](https://www.last.fm/user/playfullyExist/library/tracks?from=2018-02-01&to=2018-02-28)
 
 ![](https://i.imgur.com/WFkjfse.png)
+
 > [Albums](https://www.last.fm/user/playfullyExist/library/albums?from=2018-02-01&to=2018-02-28)
 
 ## Links
+
 - [February tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-02-01%20until%3A2018-02-28&src=typd)
 - [Movies seen](https://letterboxd.com/nikitavoloboev/films/diary/for/2018/02/)

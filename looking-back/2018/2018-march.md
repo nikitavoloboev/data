@@ -1,14 +1,18 @@
 # 2018 March
+
 ## Summary
+
 Started focusing on mindfulness and minimalism and using only things that bring me value. Still learning what the best way to conduct this diary together with Day One and other things is. Will be experimenting a lot more in the future. Want to visualize things a bit more in the coming time.
 
 ![](https://i.imgur.com/KhhYWfv.png)
 
 ## Shared
+
 - (25) [Posted my first rice ever on /r/unixporn](https://www.reddit.com/r/unixporn/comments/8709c4/macos_clean_functional_my_first_rice_many_apps/).
 
 ## Diary
-- (1) Going to take Timing a __lot__ more seriously this month. And get some work done!
+
+- (1) Going to take Timing a **lot** more seriously this month. And get some work done!
 - (2) Going to use Trello exclusively for managing projects.
 - (4) Adding this change from iOS. Moved the wiki to Dropbox and hooked up Ulysses to edit the folder on iOS. Pretty amazing.
 - (4) Cryptocurrencies are the future of money. No fees. Instant pay across the globe. Peer to peer with no intermediaries. It's exciting.
@@ -16,16 +20,16 @@ Started focusing on mindfulness and minimalism and using only things that bring 
 - (7) Removed lessons learned from wiki. Only have [rules](../../focusing/rules.md) and [processes](../../focusing/processes.md) now. Each of the files is binded to a key so I can open in a second. Should iterate on all of it with time and find what works the best for me.
 - (7) Still wonder what it's like to work at a company or even a startup. Being a one person team for all my life aside from Learn Anything project and Angelo is quite tiring and brings you down with time. I think being surrounded by a team of people who inspire and empower you is amazing. Maybe one day I can find myself to be in that team.
 - (7) 10,000 ⭐ on [Learn Anything](https://github.com/learn-anything/learn-anything). 🎊
-![](https://pbs.twimg.com/media/DXt-sVyWAAI0FIo.jpg:large)
+  ![](https://pbs.twimg.com/media/DXt-sVyWAAI0FIo.jpg:large)
 - (7) Going to use and abuse IFTTT a bit more and rally various online info I create like Tweets I made into Google spreadsheets. I want to make some meaningful analysis on this data later + it's nice to save for posterity as I can save it as PDF for later viewing.
 - (8) Will review all movies I watch from now on.
-- (10) New format to monthly reviews. There are now `Weekly reviews` as well as `Shipped` category to track things I actually make and publish. Articles, code, projects. `Changes` then is more as a way of tracking _other_ things. Changes to workflow and whatnot. And `Thoughts` still stay as I find it quite a useful outlet for things. The ending 'credits' will include music I tracked on [Last.fm](https://www.last.fm/user/playfullyExist) & my tweets for that month. Would love to add some more things in time, my own new project I am working on will help in that regard quite a bit. Cleaned up my [books](../../books/books.md) entry and it's clean list of books I read and started with my reviews attached. Will also be adding books I read in this month here though. Trying to optimize my [processes](../../focusing/processes.md) to account for all these things and simplify and 'automate' my life in this way. There is a lot of merit in keeping things simple but actually doing this kind of looking back thing. It keeps me accountable and motivates me to __do more__. I hope to refine my process with time and ship things perhaps not daily but at least weekly. Something new. Something I made.
-- (12) Going to __finally__ learn vim.
-- (15) Going to change a bit how I will conduct these logs. Want to focus more on __doing__ rather than logging and I dislike the replication factor of keeping this log alongside Twitter that I post to, Instagram, GitHub and so on. Wish I could automate it in some way. For now, I will focus on my weekly reviews as well as `Shipped` category for things I actually ship. And of course the monthly review in the end that I will try to keep as brief and to the point as possible. I no longer will have any `Thoughts` or `Changes` category and will just have `Notes` which will include thoughts and other things that I want to note down. For other things I am just going to use Twitter more. I am tired of not being productive and only making plans.
+- (10) New format to monthly reviews. There are now `Weekly reviews` as well as `Shipped` category to track things I actually make and publish. Articles, code, projects. `Changes` then is more as a way of tracking _other_ things. Changes to workflow and whatnot. And `Thoughts` still stay as I find it quite a useful outlet for things. The ending 'credits' will include music I tracked on [Last.fm](https://www.last.fm/user/playfullyExist) & my tweets for that month. Would love to add some more things in time, my own new project I am working on will help in that regard quite a bit. Cleaned up my [books](../../books/books.md) entry and it's clean list of books I read and started with my reviews attached. Will also be adding books I read in this month here though. Trying to optimize my [processes](../../focusing/processes.md) to account for all these things and simplify and 'automate' my life in this way. There is a lot of merit in keeping things simple but actually doing this kind of looking back thing. It keeps me accountable and motivates me to **do more**. I hope to refine my process with time and ship things perhaps not daily but at least weekly. Something new. Something I made.
+- (12) Going to **finally** learn vim.
+- (15) Going to change a bit how I will conduct these logs. Want to focus more on **doing** rather than logging and I dislike the replication factor of keeping this log alongside Twitter that I post to, Instagram, GitHub and so on. Wish I could automate it in some way. For now, I will focus on my weekly reviews as well as `Shipped` category for things I actually ship. And of course the monthly review in the end that I will try to keep as brief and to the point as possible. I no longer will have any `Thoughts` or `Changes` category and will just have `Notes` which will include thoughts and other things that I want to note down. For other things I am just going to use Twitter more. I am tired of not being productive and only making plans.
 - (23) It's nice to be reminded how simple life can actually be. It is my choice to be happy. And I can choose to be happy every day. Just take care of my health, build awesome things and try new things all the time. I don't want to ever feel sad or frustrated because life is amazing.
 - (23) This month I have been like all my past month, not productive. Some marginal changes, there and there and that's it. I am not 'happy' with my situation in life. It's not stable. I have no idea what I am doing or what I should be doing. No one wants to hire me and I kind of came to terms with it. I think it's their loss. I have refined my personal productivity and workflow to the point where I reached a kind of zen. Everything is in its place. I know where things are. I know how to get things done. I have the entire internet and all of humans knowledge available to solve any problem I have. I know what good nutrition is. What foods to eat and what recipes I can cook. I am proactive with my finances. And even though I earn no money still, I know where I spend the money I have and how much I am willing to spend and how much I can't spend because my budget does not allow it. I let algorithms and code do a lot of the thinking for me. Granted I trust my system and the system works for me. But it's incredibly satisfying to finally have something that genuinely makes me happy. All I want in life now is something that I have built. Fully. That I love and can sell. So other people can enjoy it. I want independence. But enough money does greatly decrease one's anxiety and outlook in life. I dislike my city and want to move somewhere else but never had the chance. I can't stand staying in one place for so long. And I hope to do greater things in life one day. And meet and talk with awesome people in the future, ideally now.
 - (23) It's good to say these things though. I could say these things in the comfort of my encrypted journal that no one but me can read. But I find it valuable to be honest with myself. I don't care what other people think of me and what I do. I'd much rather they care and liked what I did. Hopefully even contribute and improve on the things I've made since I have until now released everything open source. Free for all. Another cool thing with expressing my frustrations and thoughts like that is that I say it once. It feels great to say out loud. And I don't have to repeat myself next week. Or next month. I've already said what I wanted to say, no need to say it again. It's there. I just have to act on it and fix it if I am not happy with how I feel. Nothing will change if I don't act on it. In any way, I hope to build Last Time soon. I am excited about the app and how far I can take this idea forward.
-- (27) Going to start learning to __focus__ my mind. Pure mindfulness. I know what I need to do. I know how I can do anything. I just need to learn to focus my mind. Resist temptations and habits.
+- (27) Going to start learning to **focus** my mind. Pure mindfulness. I know what I need to do. I know how I can do anything. I just need to learn to focus my mind. Resist temptations and habits.
 - (28) Added `Shared` block on top of my monthly reviews. I think I will just keep that and `Notes` and that should be enough. I kind of wish Twitter improved their monthly tweets of user view. I may make something [like this](https://brandur.org/twitter) in the future and use Twitter a lot more. These notes are mostly for self documentation purposes only. And a kind of publig log I can search over later.
 - (28) Have been a lot more productive lately. The trick with completely stopping listening to music and listening [Noizio](http://noiz.io/) helps. I also try to mindfully force myself to remember and respect the [rules](../../focusing/rules.md) I wrote for myself. Makes things so much more infinitely simpler. I literally have to only think about using my brain to solve the problem I have at hand. Everything else is already thought of and taken care. One thing at a time. One by one.
 - (28) I should also try real focused meditation practice. Yoga can be quite good for that. I'm also thinking of only using Day One for real personal memories. And keeping most other things here or on the web.
@@ -33,18 +37,24 @@ Started focusing on mindfulness and minimalism and using only things that bring 
 - (28) For now I am focusing on beating my biggest bad habit. Getting distracted. I am channeling my focus for 90 min at a time. With small breaks in-between and I do feel I am getting better and better at separating news & fun from focused work.
 
 ## Photos
+
 ![](https://scontent-ams3-1.cdninstagram.com/vp/2b1f8a119d2bbdf25bd3419ac43b4a44/5BD40E2F/t51.2885-15/e35/28428181_175665736388402_1209533580204572672_n.jpg?efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV9pZyJ9)
+
 > [(2)](https://www.instagram.com/p/Bf0_7fIjhds/)
 
 ![](https://scontent-ams3-1.cdninstagram.com/vp/0a6652613ef41a45c763815abb5f5a2f/5B3D053E/t51.2885-15/e35/28753104_368914760244266_5769848224948944896_n.jpg)
+
 > [(5)](https://www.instagram.com/p/Bf8ybHTDhfh/)
 
 ![](https://scontent-ams3-1.cdninstagram.com/vp/ad6b4e71783887ab28e9fa6c4e8c78d8/5B54DF8A/t51.2885-15/e35/28753564_349101512251241_5494211294204526592_n.jpg)
+
 > [(12) Going on adventure 🐕](https://www.instagram.com/p/BgO5dAxHUJz/)
 
 ## Music
+
 - [Tracks](https://www.last.fm/user/playfullyExist/library/tracks?to=2018-03-31&from=2018-03-01) | [Artists](https://www.last.fm/user/playfullyExist/library/artists?to=2018-03-31&from=2018-03-01) | [Albums](https://www.last.fm/user/playfullyExist/library/albums?to=2018-03-31&from=2018-03-01)
 
 ## Links
+
 - [March tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-03-01%20until%3A2018-03-31&src=typd)
 - [Movies seen](https://letterboxd.com/nikitavoloboev/films/diary/for/2018/03/)

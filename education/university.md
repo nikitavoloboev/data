@@ -1,4 +1,5 @@
 # University
+
 I have my gripes with official education and how much unnecessary pressure it puts on a student.
 
 Being confident that you chose the right degree and the next 3/4 years of your life will be contributing well into your future. Being okay with your parents 'investing' so much money into your university (if you study in US). In some countries like Germany going into university doesn't put you into thousands of dollars into debt. University in many ways can be a very stressful times due to those reasons but it can also be a wonderful experience where you meet new friends and get inspired together and start doing awesome things.
@@ -14,11 +15,13 @@ Something akin of [Khan Academy](https://www.khanacademy.org) or soon [Learn Any
 Until that future happens though, people still go to university. And to those people, maybe some of these tips will be helpful as I have learned most of it the hard way.
 
 ## 1. Have a student wiki for courses & university life
+
 My university didn't have a wiki. But we did create a shared Google Drive with many folders per course. Where students dropped the solutions to assignments. For example St Andrews university has a [Student CS Handbook](https://info.cs.st-andrews.ac.uk/student-handbook/) that contains information relevant to all students studying in CS department of the university.
 
 Such handbook would save incredible amount of time to newcomer students. I would list activities that are available in there. Any student societies and how to join them. Anything that may be of interest and help to students should be in one central place that all the students can go to if they have any question. The great thing about something like this is that the main efforts will be done by the first people that will create the wiki but the maintaining of it can be done by the next students who will study the courses and will lead a student life. Only now they will actually have a place to share their student insights and help and not keep it all to themselves. The infrastructure to sharing everything will already be there and will already have useful content. You can just use it.
 
 ## 2. Have proper and clear communication channels
+
 This was the biggest pain point when I went to university and what made university partly hell for me. As TU/e is a dutch university, the students from my year were mostly dutch so they made a WhatsApp group where they primarily spoke dutch in. This was the group where most things were shared to, in dutch of course. Not knowing dutch I and most other international students were left out. I assume this is not a problem in UK/US universities as people should ideally speak one language there, English and that language should be respected.
 
 If I went to university again, I would either do it all through Telegram groups (as Telegram is simply superior WhatsApp with proper desktop client). Where there would be one main group for the year (say all CS students of 2018). And then each subject will have its own dedicated group created for it with strong emphasis on no spam and no off topic discussions.
@@ -26,11 +29,13 @@ If I went to university again, I would either do it all through Telegram groups 
 Another way would be to create a community on something like Slack or Discord and use channels feature there instead. Have a couple of rules in the group and an `Announcements` to inform students of interesting things happening around the uni like a student hackathon or some events.
 
 ## 3. Use office hours when in doubt
+
 If the lecturer teaching the subject primarily does research in the subject and cannot teach to save his life. It may be best to study the material yourself and use the lectures as a supplementary material. It nearly always is a good idea to learn about the topic being taught in some way by either studying the lecture notes for the subject before attending the lecture.
 
 To make your learning experience the best however, never ever be afraid to ask questions to either other students or asking the professor or student assistants directly during office hours.
 
 ## 4. Keep track of assignments and deadlines
+
 I found [Trello](https://trello.com) to work really great for this. I had a Trello board I made where each column was a subject and I put what I had to do for each of the courses there with appropriate deadlines. Here is how that looked in one of my exam periods:
 
 ![](https://i.imgur.com/LArCADG.png)
@@ -38,6 +43,7 @@ I found [Trello](https://trello.com) to work really great for this. I had a Trel
 Always use a calendar and plan your days ahead of you given the deadlines that are approaching. This is not helpful for just university but for life in general. The time you spend working and the things you work on during that time should ideally be predetermined already for you. You should just trust your schedule and do your part of the deal and study. I found creating [another Trello board named Focus](../focusing/focusing.md) helped me greatly in setting my inner compass and knowing what I should be doing in my life at all times.
 
 ## 5. Take care of your health. Exercise. Eat proper food. Sleep more than 7 hours every day.
+
 Health is very very important. Some students find their newly gained freedom to do things intoxicating. There is no one really there to say 'No' to you. You can buy chips and drink cola every evening of every day if you so wanted to. You can go out with friends every weekend and drink some. No one can stop you doing that except for you.
 
 Only you can say no to that. You can decide to eat healthy and actually spend some time researching what does healthy eating even mean. I myself spend a good portion of my time in life asking this question. What it means to be healthy? Later I settled on a [whole food plant based diet](../health/nutrition/foods.md) with no foods with added sugar and no sugary drinks. Drinking only water and tea.
@@ -51,11 +57,13 @@ And finally. Sleep. University is stressful. Deadlines are stressful. Exams are 
 Ideally learning the habit of going to sleep and waking up at the same time will pay huge dividends as you progress in both university and life.
 
 ## 6. Apply for Google Summer of Code
+
 If you are a CS student and want to spend the Summer wisely, it would be best to get some kind of internship or work experience. Google provides an amazing opportunity to work on any of the many awesome open source projects through its [GSOC program](https://summerofcode.withgoogle.com). If you do apply, which all CS students really should try, you will get an opportunity to work on some open source project and actually put the knowledge you got in university into practice AND get paid while you do it. If you do put in the effort and work through it and not give up.
 
 Familiarize yourself with [GSOC's timeline](https://developers.google.com/open-source/gsoc/timeline) to know when projects get announced. What the deadline for your student application stating what you plan to work on during the Summer is. And start early. Look into [previous organizations that were chosen](https://summerofcode.withgoogle.com/organizations/). Very often same organizations pop up again and again. If you find any of them interesting, hop into their communication channels, often it maybe IRC or Slack and let them know that you want to help. Clone their project, try to build, look into some issues and try your hand at fixing some of them. Ask for help.
 
 ## 7. Blog and share your learnings and what you know
+
 This is a big one. I met many people who never shared what they knew in public form because they thought that what they knew has already been shared before. What's the point?
 
 There is some truth to this. Especially once you start something new. Any 'Hello world' first blog post mostly looks the same. Introduce yourself to the world. Get yourself a public page on the internet and say hello. Say what you are interested in and why and you're done. You now have a blog.
@@ -67,6 +75,7 @@ I also found that, it is in the process of writing that you really understand wh
 Starting a blog is super easy now. If you don't like Medium, you can [create your own blog on your own website](https://opensource.com/article/18/3/start-blog-30-minutes-hugo) with a static generator in just a few minutes. Oh and you will learn a lot in the process. Like what the hell is a static generator?
 
 ## 8. Try new things
+
 This applies more to life than university. But it really is the most powerful advice I can give to anyone. Just try new things. Don't be afraid. Start things. Solve your own problems.
 
 I personally fell in love with open source software and specifically optimizing everything in my life. macOS/iOS/life/time/productivity/.. Many of the projects I try to work on I do out of passion for solving my own itches I feel in life. I loved tinkering with macOS so much that I decided to [share my setup](https://github.com/nikitavoloboev/my-mac-os#readme) with the world. Little did I know then that is something that many people actually appreciate and liked. It felt great knowing that and finding it out for myself. If I didn't share it, this would literally simply not happen. If I didn't write my own 'Hello World' article on Medium, my blog wouldn't happen. If I didn't decide to start a wiki, [my wiki](../README.md) of now over 400 files would simply not happen.

@@ -1,7 +1,9 @@
 # [Tryptamines](https://psychonautwiki.org/w/index.php?title=Tryptamine)
+
 This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/05/psychedelic-tryptamine-chemistry/) is a great read.
 
 ## Interesting
+
 - [N,N-DMT](dmt.md)
 - [4-AcO-DMT](https://psychonautwiki.org/wiki/4-AcO-DMT) - Synthetic mushrooms. Prodrug to Psilocin.
 - [4-HO-MET](https://psychonautwiki.org/wiki/4-HO-MET) - Light headspace. Interesting visuals.
@@ -17,4 +19,5 @@ This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/
 - [ΑMT](https://psychonautwiki.org/w/index.php?title=%CE%91MT)
 
 ## Links
+
 - [Tryptamines I Have Known And Loved: The Chemistry Continues](https://erowid.org/library/books_online/tihkal/tihkal.shtml)

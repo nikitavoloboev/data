@@ -1,4 +1,5 @@
 # Sleep
+
 Sleeping is a way for our brains to flash out all the toxins that accumulated in the brain throughout the day. A kind of human garbage collector.
 
 I don't limit my sleep and I try to sleep as much as my body needs. Usually that is about 7-8 hours.

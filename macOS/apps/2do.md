@@ -1,4 +1,5 @@
 # [2Do](https://www.2doapp.com/)
+
 I love GTD methodology. This app is phenomenal with helping me organize my tasks. Here is how my sidebar looks:
 
 ![](https://i.imgur.com/DUY4OyO.png)
@@ -8,7 +9,8 @@ It also has global quick add with a hotkey. Together with lists, priorities, pow
 ![](https://i.imgur.com/b9lGFs0.png)
 
 ## Managing tasks with tags
-My main way of managing tasks is with __tags__. This lets me give scope to the task I want to complete and lets me filter through the many thousands of tasks I have in my __Inbox__.
+
+My main way of managing tasks is with **tags**. This lets me give scope to the task I want to complete and lets me filter through the many thousands of tasks I have in my **Inbox**.
 
 I create many smart lists of most common tags I want to jump to. I use `J` key and macros that activate the URL scheme to jump between the lists.
 
@@ -31,9 +33,12 @@ And here are the other tags I use:
 I made my `All` list sorted by `Modified date`. This lets me cleanly delete or act on all tasks that have been sitting in my 2Do for too long with no activity.
 
 ## URL Scheme
+
 [2Do URL schemes documentation](https://www.2doapp.com/kb/article/url-schemes.html) has everything. I use these URL schemes currently:
-- Go to 2Do list from URL scheme: `twodo://x-callback-url/showList?name=Read` (would go to to __Read__ list).
-- Filter 2Do tag from URL scheme: `twodo://x-callback-url/search?text=tags:github` (would show all tasks with __github__ tag)
+
+- Go to 2Do list from URL scheme: `twodo://x-callback-url/showList?name=Read` (would go to to **Read** list).
+- Filter 2Do tag from URL scheme: `twodo://x-callback-url/search?text=tags:github` (would show all tasks with **github** tag)
 
 ## Links
+
 - [Getting things done: 5 steps](http://gettingthingsdone.com/fivesteps/)

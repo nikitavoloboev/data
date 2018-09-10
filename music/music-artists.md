@@ -1,7 +1,9 @@
 # Music artists
+
 Below is a list of music artists I like. I attach my favorite songs from these artists.
 
 ## Favorite artists
+
 - [Carbon Based Lifeforms](https://soundcloud.com/carbonbasedlifeforms) - [MOS 6581](https://www.youtube.com/watch?v=UtPTvyjtx3g) | [Nattväsen](https://www.youtube.com/watch?v=nRnEMnaBFxE) | [Derelicts](https://www.youtube.com/watch?v=jmrl3DTw2PE) | [Equilibrium](https://www.youtube.com/watch?v=Rdcx8-oTMvc)
 - [Nicolas Jaar](https://soundcloud.com/nicolas-jaar) - [Why Didn't You Save Me](https://www.youtube.com/watch?v=1L-dlEQgR7E) | [A time for us](https://www.youtube.com/watch?v=6znRhR5mL5A)
 - [Mounika](https://soundcloud.com/mounika-beat) - [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) | [Stay Here](https://www.youtube.com/watch?v=-RTOrm50Q8w) | [Love You Sweet It's What I Do](https://www.youtube.com/watch?v=55EANOPFunw) | [I Feel love](https://www.youtube.com/watch?v=OM97kdCa99s)
@@ -97,12 +99,13 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Khruangbin](https://soundcloud.com/khruangbin) - [Cómo Me Quieres](https://www.youtube.com/watch?v=AZ4smc076yo) | [Pitchfork Live](https://www.youtube.com/watch?v=q4xKvHANqjk)
 - [Tom Day](https://soundcloud.com/tomday) - [Echoes](https://www.youtube.com/watch?v=e-_SCZZlrNs)
 - [Hinkstep](https://soundcloud.com/hinkstep) - [Blend In With The Crowd](https://www.youtube.com/watch?v=7jkEFyv5OOE)
-- [Kokoroko](https://weouthere.bandcamp.com/track/abusey-junction) -  [Abusey Junction](https://www.youtube.com/watch?v=tSv04ylc6To)
+- [Kokoroko](https://weouthere.bandcamp.com/track/abusey-junction) - [Abusey Junction](https://www.youtube.com/watch?v=tSv04ylc6To)
 - [Uppermost](https://soundcloud.com/uppermost) - [Beautiful Light](https://www.youtube.com/watch?v=Q1DvVzKXktY)
 - [Baltra](https://soundcloud.com/baltra) - [fuck all y'all haters](https://www.youtube.com/watch?v=9Rz6L4D8xJU)
 - [Susumu Yokota](https://susumuyokota.bandcamp.com) - [Kodomotachi](https://www.youtube.com/watch?v=p5ZbGLzyqcQ)
 
 ## Interesting artists
+
 - [Emapea](https://soundcloud.com/emapea)
 - [Only emily](https://soundcloud.com/onlyemilymusic) - [Evenings](https://soundcloud.com/onlyemilymusic/evenings)
 - [Ifan Dafydd](https://soundcloud.com/ifandafydd)

@@ -1,4 +1,5 @@
 # [Mind for numbers](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers) - [Review](https://www.goodreads.com/review/show/1223423349)
+
 - The diffuse mode could be thought of as a flashlight set so that it casts its light very broadly, but not very strongly in any area. (As opposed to the Focused mode, which would have its light cast very strongly in a single area but very weakly everywhere else.
 - You are in focused mode when you are deliberately thinking about something. This might be when you are focused on solving a familiar type of problem, driving on a busy road - i.e. doing something that requires your concentration.
 - You are in diffuse mode when your mind is wandering freely. Some examples of situations when you are probably in this mode of thinking are when you're drifting off to sleep, taking a shower, brushing your teeth, relaxing with quiet music, or going for a walk.

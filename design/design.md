@@ -1,4 +1,5 @@
 # Design
+
 > Design is not just what it looks like and feels like. Design is how it works.
 
 I can't call myself a designer yet but I am learning.
@@ -8,6 +9,7 @@ I do think design applies to everything I am doing. Even this wiki has some _des
 Thus I try to be conscious of how my design decisions affect what I do. I like to use [Sketch](https://www.sketchapp.com) and [Figma](https://www.figma.com) when designing things.
 
 ## Links
+
 - [Findguidelin](http://www.findguidelin.es/) - The fastest way to brand assets.
 - [Brand Style Guide Examples](https://saijogeorge.com/brand-style-guide-examples/)
 - [Intenion - ad by Apple](https://www.youtube.com/watch?v=LcGPI2tV2yY)

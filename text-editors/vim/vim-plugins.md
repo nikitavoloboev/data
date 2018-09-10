@@ -1,7 +1,9 @@
 # Vim plugins
+
 Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim#L6).
 
 ## Utility
+
 - [Ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine.
 - [Cool](https://github.com/romainl/vim-cool) - Stop matching after search is done.
 - [Auto Pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
@@ -23,25 +25,32 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Prettier](https://github.com/prettier/vim-prettier) - Prettier support.
 
 ## Git
+
 - [Fugitive](https://github.com/tpope/vim-fugitive) - Git wrapper.
 - [Signify](https://github.com/mhinz/vim-signify) - Show a diff using Vim its sign column.
 
 ## Deoplete
+
 - [Deoplete](https://github.com/Shougo/deoplete.nvim) - Asynchronous completion framework.
 - [Deoplete Jedi](https://github.com/zchee/deoplete-jedi) - Deoplete source for [jedi](https://github.com/davidhalter/jedi).
 
 ## Looks
+
 - [Night Blue theme](https://github.com/nikitavoloboev/vim-night-blue)
 - [Lightline](https://github.com/itchyny/lightline.vim) - Light and configurable statusline/tabline.
 
 ## Vim
+
 - [Neco](https://github.com/Shougo/neco-vim) - Vim source for neocomplete/deoplete.
 
 ## Nix
+
 - [Nix](https://github.com/LnL7/vim-nix) - Vim configuration files for Nix.
 
 # Interesting (not using)
+
 ## Utility
+
 - [Autoformat](https://github.com/Chiel92/vim-autoformat) - Easy code formatting.
 - [Which key](https://github.com/liuchengxu/vim-which-key) - Show keybindings in popup.
 - [Sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
@@ -85,39 +94,49 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
 
 ## Looks
+
 - [Dev icons](https://github.com/ryanoasis/vim-devicons) - Adds file type glyphs/icons to popular Vim plugins.
 - [Bufferline](https://github.com/bling/vim-bufferline) - Show the list of buffers in the command bar.
 - [Airline](https://github.com/vim-airline/vim-airline) - Lean & mean status/tabline.
 - [Airline themes](https://github.com/vim-airline/vim-airline-themes) - Collection of themes for Airline.
 
 ## Syntax
+
 - [Vim caddyfile](https://github.com/isobit/vim-caddyfile) - Caddyfile syntax support.
 
 ## Javascript
+
 - [Tern](https://github.com/ternjs/tern_for_vim) - Provides [Tern](http://ternjs.net/)-based JavaScript editing support.
 - [Deoplete Tern.js](https://github.com/carlitux/deoplete-ternjs)
 
 ## Typescript
+
 - [Tsuquyomi](https://github.com/Quramy/tsuquyomi) - Make your Vim a TypeScript IDE.
 
 ## Rust
+
 - [Rust](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
 
 ## Go
+
 - [Vim Go](https://github.com/fatih/vim-go) - Go development.
 - [Deoplete Go](https://github.com/zchee/deoplete-go) - Asynchronous Go completion.
 
 ## C
+
 - [Deoplete clang](https://github.com/zchee/deoplete-clang) - Deoplete source for C/C++/Obj-C/Obj-C++.
 
 ## Git
+
 - [Gitv](https://github.com/gregsexton/gitv) - See Git branching history.
 - [Gitgutter](https://github.com/airblade/vim-gitgutter) - Shows git diff in the gutter (sign column) and stages/undoes hunks.
 
 ## Ruby
+
 - [Endwise](https://github.com/tpope/vim-endwise) - Wisely add "end" in ruby, endfunction/endif/more in vim script, etc.
 
 ## Links
+
 - [Begin with init.vim](https://github.com/raviqqe/begin-with-init.vim) - Minimal neovim distribution as init.vim.
 - [What is the most underrate vim plugin you use? (2018)](https://www.reddit.com/r/vim/comments/8ukr9j/what_is_the_most_underrate_vim_plugin_you_use/)
 - [Vim plugins I use (2018)](https://news.ycombinator.com/item?id=17430546)

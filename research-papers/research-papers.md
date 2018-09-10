@@ -1,12 +1,15 @@
 # Research papers
+
 I keep a [Trello board](https://trello.com/b/EKl1Ie3q) of research papers I am reading and want to read.
 
 Below is a list of research papers I read with a link to my own notes of the paper.
 
 ## 2017
+
 - [A view of mathematics](a-view-of-mathematics.md)
 
 # Recommendations
+
 - [Papers we love](https://github.com/papers-we-love/papers-we-love)
 - [Ask HN: What are some interesting papers in CS for a beginner?](https://news.ycombinator.com/item?id=15695326)
 - [HN best papers 2017](https://news.ycombinator.com/item?id=16035402)

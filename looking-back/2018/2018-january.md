@@ -1,5 +1,7 @@
 # 2018 January
+
 ## Summary
+
 Wouldn't call this month the best start to the year. LA was blocked by FB and all of FB products. This although quite bad, how a company can block an educational website, opened me up to the horrible prospects that the future will bring if we allow these centralized companies to get control over our daily lives. I will be exploring alternatives to centralized solutions that bring power to the users and the people instead of the few handful of individuals and shareholders who get to decide what to do with all the user's data they collect.
 
 On the other brighter side, I found a certain sense of peace with where I am in my life. Yes, I never had a job and no one wants to hire me to write code for them. There are upsides to it in that I can just focus and do my own things. Build the projects I want to build and not build someone else's dream and ideas. In this day and age, you can do anything.
@@ -13,16 +15,18 @@ I still don't know what I want to do in life. And I think I read too much about 
 I will try practicing meditation and mindfulness a lot more in the coming months. And will focus on building things that matter to me. I am happy in how computers and software can solve so many of my problems and do it so beautifully. I still have some frustrations and problems I feel and I want to solve them too in the coming time. I also want to be a lot more brutally honest with myself. I think trying to hide or ignore things away from myself is literally the worst thing I can do.
 
 ## Changes
+
 - Started using Trello a lot more.
 - Moved to using Sublime Text more for editing wiki. And generally optimized a lot of my wiki editing so I can edit any wiki entry in seconds.
-	- This wiki as it stands now is only the beginning. I think I laid a good foundation for it going forward. I do need to write full articles more often too though.
+  - This wiki as it stands now is only the beginning. I think I laid a good foundation for it going forward. I do need to write full articles more often too though.
 - Learn Anything was nominated for [2017 Golden Kitty Awards](https://www.producthunt.com/golden-kitty-awards-2017).
-	- We [didn't win](https://blog.producthunt.com/golden-kitty-awards-winners-7c2628e5f429) in the end but it was an amazing feeling to actually be selected to participate in the event.
+  - We [didn't win](https://blog.producthunt.com/golden-kitty-awards-winners-7c2628e5f429) in the end but it was an amazing feeling to actually be selected to participate in the event.
 - Added all the [Keyboard Maestro macros I use and love](../../macOS/apps/keyboard-maestro/km-macros.md) to my macOS repo.
 - Started working through [LeetCode](https://github.com/nikitavoloboev/leetcode) problems and preparing for interviews.
 - Stopped using FB. Deactivated the account.
 
 ### FB blocked Learn Anything
+
 Learn Anything was banned from both Facebook and Instagram platforms.
 
 No one can share or send messages of the website to anyone. Facebook won't allow it.
@@ -40,6 +44,7 @@ My last post on FB. Have no idea why I didn't delete my account already given th
 Will be exploring [Scuttlebutt](https://www.scuttlebutt.nz) and other decentralized solutions for sharing news and communicating. It makes no sense to live in a world where a company can choose what its users should see, do or talk about.
 
 ## Timing
+
 ![](https://i.imgur.com/esZ8xq0.png)
 
 I had some problems and uncertainties about how I should approach doing things. I also have a health issue I am still yet to fix. I also heavily refined my workflow and I think I have a nice workflow and mental model in how I will approach doing things going forward.
@@ -47,6 +52,7 @@ I had some problems and uncertainties about how I should approach doing things. 
 Will be interesting to see how this will change in the coming time. I hope it will.
 
 ## Code
+
 ![](https://i.imgur.com/WZl7m9s.png)
 
 137 hours is bad. Spent a lot of the time on non code activities like this wiki.
@@ -56,14 +62,18 @@ Will be interesting to see how this will change in the coming time. I hope it wi
 Will be changing all of this in the next month. Step by step. Not everything at once.
 
 ## Music
+
 ![](https://i.imgur.com/jsh1UzR.jpg)
+
 > [Artists](https://www.last.fm/user/playfullyExist/library/artists?from=2018-01-01&to=2018-01-31) & [Albums](https://www.last.fm/user/playfullyExist/library/albums?from=2018-01-01&to=2018-01-31)
 
 ![](https://i.imgur.com/V4IvQaT.png)
+
 > [Tracks](https://www.last.fm/user/playfullyExist/library/tracks?to=2018-01-31&from=2018-01-01)
 
 I loved listening to downtempo and instrumental music. Also Nils Frahm and his All Melody album is phenomenal.
 
 ## Links
+
 - [January tweets](https://twitter.com/search?l=&q=from%3Anikitavoloboev%20since%3A2018-01-01%20until%3A2018-01-30&src=typd)
 - [Movies seen](https://letterboxd.com/nikitavoloboev/films/diary/for/2018/01)

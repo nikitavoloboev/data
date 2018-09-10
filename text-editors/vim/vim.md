@@ -1,4 +1,5 @@
 # [Vim](https://www.vim.org/)
+
 The best text editing experience you will ever get. It is worth learning it as you will start thinking about text editing differently.
 
 I use some kind of vim bindings in any app I use and if there is a vim plugin for the app, I often use it. I use vim editor often when connecting to remote sessions and when I need a console editor.
@@ -8,6 +9,7 @@ I use [Neovim](https://github.com/neovim/neovim) instead of vim and my vimrc can
 I also use a little trick where I change the cursor from thin block in insert mode to underline when in normal mode. This lets me quickly know which mode I am in.
 
 ## Notes
+
 - I can profile vim startup time with [this](https://github.com/tweekmonster/startuptime.vim).
 - I can run `:CheckHealth` to see if there is anything wrong with my installation (only Neovim).
 - Get plugins that meet your needs.
@@ -15,6 +17,7 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - If something doesn't work in vimrc, put the binding in the bottom of vimrc (perhaps something overrides it).
 
 ## Links
+
 - [You don't grok vim](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
 - [How to start learning Vim](https://www.reddit.com/r/vim/comments/8fqsju/learning_vim_and_switching_to_it/dy5qkpe/?context=1)
 - [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/) - Quite funny.

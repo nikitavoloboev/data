@@ -1,12 +1,15 @@
 # Math
+
 [Univalent foundations](http://www.wikiwand.com/en/Univalent_foundations) and [Type Theory](type-theory/type-theory.md) are interesting. And [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has incredible explanations for various math topics.
 
 ## Notes
+
 - Math can be learned, it's just a bit silly to dive into a homotopy type theory book and expect to get a firm grasp of things. It's like picking up a Chinese news paper and expecting to get an idea of what its content is about.
 - Without understanding the domain, you cant read a text well. Without understanding the grammar you cant read a text. Without understanding the symbols you cant even figure out the grammar.
 - The prevailing view in modern mathematics is that structure is all that matters. i.e. isomorphic objects are really the same, they don't just look the same or act the same, they really are the same thing.
 
 ## Links
+
 - [What does it feel like to invent math?](https://www.youtube.com/watch?v=XFDM1ip5HdU)
 - [How to read Mathematics](https://news.ycombinator.com/item?id=15905048)
 - [The Banach–Tarski Paradox](https://www.youtube.com/watch?v=s86-Z-CbaHA)

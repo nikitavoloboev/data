@@ -1,4 +1,5 @@
 # Physics
+
 Studies how our universe behaves.
 
 Many great things came from trying to understand how this world is put together and what laws govern it.
@@ -6,11 +7,13 @@ Many great things came from trying to understand how this world is put together 
 Perhaps we can replicate a universe like ours in the future. One of the more interesting thoughts to ponder on is how complexity can emerge from rather simple rules. One example of that is [cellular automata](https://natureofcode.com/book/chapter-7-cellular-automata/) and the infamous [Conway's game of life](http://www.wikiwand.com/en/Conway's_Game_of_Life).
 
 ## Notes
+
 - What is energy?
-	- There's no satisfying definition beyond "the quantity that is conserved over time." This may sound arbitrary and ad hoc but it emerges from this deep mathematical principal called Noether's theorem that states that for each symmetry (in this case, staying the same while moving forward or backwards in time), there is something that is conserved. In this context, momentum is the thing that is conserved over distance, and angular momentum is the thing that is conserved through rotations.
-	- The less rigorous explanation is that it's essentially the currency used by physical systems to undergo change.
+  - There's no satisfying definition beyond "the quantity that is conserved over time." This may sound arbitrary and ad hoc but it emerges from this deep mathematical principal called Noether's theorem that states that for each symmetry (in this case, staying the same while moving forward or backwards in time), there is something that is conserved. In this context, momentum is the thing that is conserved over distance, and angular momentum is the thing that is conserved through rotations.
+  - The less rigorous explanation is that it's essentially the currency used by physical systems to undergo change.
 
 ## Links
+
 - [So You Want To Learn Physics...](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
 - [The Astonishing Simplicity of Everything](https://www.youtube.com/watch?v=f1x9lgX8GaE)
 - [The Map of Physics](https://www.youtube.com/watch?v=ZihywtixUYo)

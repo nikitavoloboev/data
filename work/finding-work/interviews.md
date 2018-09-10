@@ -1,12 +1,16 @@
 # Interviews
+
 ## Favorite interviews
+
 - [Leaving Google and Going Indie — An interview with Daniel Alm](https://medium.com/mailbutlerhq/leaving-google-and-going-indie-an-interview-with-daniel-alm-91078268a48b)
 - [DevOps Chat with HashiCorp's CTO](https://www.youtube.com/watch?v=iV5doaYReyU)
 
 ## Notes
+
 - [Never think that a job interview is a one-way interview. At least, personally, I always am interviewing the potential team as well. No, you don't have all the control as the interviewer.](https://twitter.com/jessfraz/status/989878115710263297)
 
 ## Links
+
 - [My Tech Interviews Experience: Failures, Successes and Tips for you](https://patrickbalestra.com/blog/2018/08/06/my-tech-interviews-experience.html)
 - [How I landed offers from Microsoft, Amazon, and Twitter without an Ivy League degree](https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8)
 - [Data structures cheat sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b#file-the-technical-interview-cheat-sheet-md)

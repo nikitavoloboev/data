@@ -1,4 +1,5 @@
 # Finding work
+
 This article on [Interviewing, applying and getting your first job in iOS](http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews) is superb.
 
 I made a curated list of ways to prepare and places to look to [find work programming](https://github.com/nikitavoloboev/find-work#readme).
@@ -25,7 +26,9 @@ Never let impostor syndrome or anything else stop you from applying to your drea
 My favorite way to find interesting work is searching through [AngelList](https://angel.co/jobs) and the monthly [HN: Who Is Hiring](https://kennytilton.github.io/whoishiring/) thread. As well as meeting and interacting with people personally through various events.
 
 ## Notes
+
 - Sort by newest jobs in websites and check regularly and apply then.
 
 ## Links
+
 - [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)

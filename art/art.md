@@ -1,4 +1,5 @@
 # Art
+
 I like to collect beautiful art pieces as an Imgur album you can view [here](http://imgur.com/a/3m5wf). I also like various [psychedelic art](http://imgur.com/a/9yOpt) and specifically I love [art by James R. Eads](http://www.jamesreads.com/art).
 
 I share different photographs and art pieces I like on [my Instagram page](https://instagram.com/prettiways).
@@ -6,6 +7,7 @@ I share different photographs and art pieces I like on [my Instagram page](https
 I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](https://www.reddit.com/r/glitch_art). And I love exploring [Artsy](https://www.artsy.net/) for various art people have made.
 
 ## Favorite artists
+
 - [Leland K Foster](http://www.lelandkfoster.com/)
 - [Android Jones](https://imgur.com/a/Xdeye)
 - [Ilya Kuvshinov](https://www.artstation.com/kuvshinov_ilya)
@@ -21,6 +23,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Evgeny Lushpin](https://lushpin.com/)
 
 ## Interesting artists
+
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
 - [Ben Ridgway](https://www.samwoolfe.com/2018/06/the-visionary-art-of-ben-ridgway.html) - DMT inspired.
@@ -31,13 +34,16 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Michał Klimczak](https://500px.com/shume)
 
 ## Interesting art
+
 - [Alycia Rainaud](https://ello.co/maalavidaa)
 - [Incedigris](https://www.incedigris.com/) - DMT/Salvia like images.
 
 ## Notes
+
 - [Hitofude Ryuu = the art of painting a dragon with a single stroke](https://www.youtube.com/watch?v=2z8n1UiWQ6c)
 
 ## Links
+
 - [Intricate Paper Installations By Daniele Papuli](https://www.ignant.com/2016/02/23/intricate-paper-installations-by-daniele-papuli/)
 - [Order from Chaos](https://vimeo.com/196269431)
 - [My Instagram likes](http://nikitavoloboev.tumblr.com/) - I once had a Tumblr blog I cross posted my Instagram likes to. Until Instragram closed the API in 2016.

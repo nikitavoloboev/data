@@ -1,19 +1,23 @@
 # [Go](https://golang.org)
+
 Go is currently my favorite programming language.
 
-I mostly love the tooling around it like [VS Code](../../text-editors/vs-code/vs-code.md) and its [Go plugin](https://github.com/Microsoft/vscode-go). The powerful  `go` command line tool and the rich ecosystem of libraries and tools that people have built.
+I mostly love the tooling around it like [VS Code](../../text-editors/vs-code/vs-code.md) and its [Go plugin](https://github.com/Microsoft/vscode-go). The powerful `go` command line tool and the rich ecosystem of libraries and tools that people have built.
 
 Go promotes composition over inheritance.
 
 ## Commenting Go code
+
 - Comments documenting declarations should be full sentences.
 - Comments should begin with the name of the thing being described and end in a period.
 
 ## Error checking
+
 - You can `log.Fatal(err)` when playing with code.
-	- In actual applications you need to decide what you need to do with each error response - bail immediately, pass it to the caller, show it to the user, log it and continue, etc ...
+  - In actual applications you need to decide what you need to do with each error response - bail immediately, pass it to the caller, show it to the user, log it and continue, etc ...
 
 ## Notes
+
 - I can call functions from anywhere if they are in the same package.
 - The package “main” tells the Go compiler that the package should compile as an executable program instead of a shared library.
 - Note that any type implements the empty interface interface{} because it doesn't have any methods and all types have zero methods by default.
@@ -27,6 +31,7 @@ Go promotes composition over inheritance.
 - This is a core concept in Go’s type system; instead of designing our abstractions in terms of what kind of data our types can hold, we design our abstractions in terms of what actions our types can execute.
 
 ## Links
+
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [How to Write Go Code](https://golang.org/doc/code.html)
 - [Go proverbs](https://go-proverbs.github.io/)

@@ -1,9 +1,11 @@
 # Design inspiration
+
 I follow a [few designers on Dribble](https://dribbble.com/nikitavoloboev/following) whose work I like.
 
 Here are few more things I liked, design wise.
 
 ## Websites
+
 - [Draftsend](https://draftsend.com/)
 - [taotajima ](http://taotajima.jp/works/waxing-moon/) - Amazing transitions.
 - [TANMU LABS](https://tanmulabs.com/) - Pretty awesome color palette.
@@ -12,15 +14,18 @@ Here are few more things I liked, design wise.
 - [Stripe](https://stripe.com) - Incredible design. I love their docs format too.
 
 ## Designers
+
 - [Marc Edwards](https://dribbble.com/bjango) - Developer of iStats Menu for mac.
 - [Malik Thomas](http://malikthomas.co.uk/)
 - [Alexander Käßner](http://www.alexkaessner.de/) - Amazing logos.
 
 ## Blogs
+
 - [Actual budget](https://dev.actualbudget.com/) - The design is clean.
 - [Seph](https://josephg.com/blog/)
 
 ## Personal pages
+
 - [Brandur](https://brandur.org) - Amazingly clean website with an even more [awesome blog](https://brandur.org/interfaces#themware). The TOC and the persistent options on the left are incredible. ([Open Source](https://github.com/brandur/sorg))
 - [Tyler Gaw](https://tylergaw.com/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
@@ -98,9 +103,11 @@ Here are few more things I liked, design wise.
 - [npf by Nate Finch](https://npf.io/)
 
 ## Other
+
 - [Monzo docs](https://monzo.com/docs/#authentication) - Love the look of it.
 - [Pretty awesome fluid animation](https://iohk.io/)
 - [Book of Bad Arguments](https://bookofbadarguments.com/)
 
 ## Links
+
 - [Awesome Creative Portfolios](https://github.com/iRaul/awesome-portfolios#readme)

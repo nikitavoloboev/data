@@ -1,10 +1,13 @@
 # [Matrix](https://matrix.org)
+
 Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) is a web and mobile interface to the Matrix system.
 
 ## Bridges
+
 - [Matrix IRCd](https://github.com/matrix-org/matrix-ircd) - Bridge to IRC.
 
 ## Links
+
 - [What is Matrix?](https://matrix.org/docs/guides/faq.html#what-is-matrix)
 - [Matrix doc](https://github.com/matrix-org/matrix-doc)
 - [sytest](https://github.com/matrix-org/sytest) - Black-box integration testing for Matrix homeservers.

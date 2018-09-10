@@ -1,4 +1,5 @@
 # Writing prompts
+
 There is a cool thing on the internet called writing prompts where you are given some words that you can then make a story out of. There is even a [subreddit](https://www.reddit.com/r/WritingPrompts/) where people share these writing prompts and you can see what other people wrote as a response to them.
 
 I never answered any of these prompts but I hope to try flex my creative writing muscles one day. Here is a neat writing prompt I did like from it though:

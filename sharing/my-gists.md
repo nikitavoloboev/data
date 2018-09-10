@@ -1,7 +1,9 @@
 # My [GitHub Gists](https://gist.github.com/nikitavoloboev)
+
 All the snippets are created and managed by [SnippetsLab](https://www.renfei.org/snippets-lab/).
 
 ## Code
+
 - [Go](https://gist.github.com/search?l=Go&q=user%3Anikitavoloboev)
 - [Python](https://gist.github.com/search?l=Python&q=user%3Anikitavoloboev)
 - [JavaScript](https://gist.github.com/search?l=JavaScript&q=user%3Anikitavoloboev+)
@@ -11,6 +13,7 @@ All the snippets are created and managed by [SnippetsLab](https://www.renfei.org
 - [HTML](https://gist.github.com/search?l=HTML&q=user%3Anikitavoloboev)
 
 ## Tools
+
 - [Vim](https://gist.github.com/search?l=Vim+script&q=user%3Anikitavoloboev)
 - [Git](https://gist.github.com/search?l=Shell&q=user%3Anikitavoloboev+git)
 - [Karabiner](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+karabiner&ref=searchresults)
@@ -21,9 +24,11 @@ All the snippets are created and managed by [SnippetsLab](https://www.renfei.org
 - [Alfred](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+alfred&ref=searchresults)
 
 ## Personal
+
 - [Configs](https://gist.github.com/search?l=Text&q=user%3Anikitavoloboev+config)
 
 ## Other
+
 - [Regex](https://gist.github.com/search?l=Shell&q=user%3Anikitavoloboev+regex)
 - [Bookmarklets](https://gist.github.com/search?utf8=%E2%9C%93&q=user%3Anikitavoloboev+bookmarklet&ref=searchresults)
 - [Definitions](https://gist.github.com/search?l=Markdown&q=user%3Anikitavoloboev)

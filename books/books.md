@@ -1,4 +1,5 @@
 # Books
+
 I love reading new books and making notes on things I've read and learned.
 
 I keep a [Trello board](https://trello.com/b/MOrnm2aN) of books I am reading and want to read. And I keep a few bookshelves of books I liked on [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev)
@@ -6,29 +7,35 @@ I keep a [Trello board](https://trello.com/b/MOrnm2aN) of books I am reading and
 Below are books I read or started reading. The books with links attached will lead to notes I made when reading the book. Books with 🌟 are my favorite.
 
 ### 2016
+
 - [Mind for Numbers](mind-for-numbers.md) - [Review](https://www.goodreads.com/review/show/1223423349)
 - Flowers of Algernon 🌟 - [Review](https://www.goodreads.com/review/show/782624446)
 - Heart of a Dog - [Review](https://www.goodreads.com/review/show/589165109)
 - You Don't Know JS: Up & Going - [Review](https://www.goodreads.com/review/show/1587216818).
 
 ### 2015
+
 - Logical Reasoning: A First Course - [Review](https://www.goodreads.com/review/show/1389050373)
 - The Fable of the Dragon-Tyrant
 - The Little Prince 🌟 - [Review](https://www.goodreads.com/review/show/1206274538)
 - Understand 🌟
 
 ### 2014
+
 - Roadside Picnic - [Review](https://www.goodreads.com/review/show/589176848)
 - A Thousand Tiny Failures: Memoirs of a Pickup Artist - [Review](https://www.goodreads.com/review/show/919954441)
 - The Last Question 🌟 - [Review](https://www.goodreads.com/review/show/935666315)
 
 ### 2013
+
 - The Master and Margarita 🌟 - [Review](https://www.goodreads.com/review/show/583056473)
 
 ### 2012
+
 - The Picture of Dorian Gray 🌟 - [Review](https://www.goodreads.com/review/show/485035652)
 
 ## Unfinished
+
 - [Thinking fast and slow](thinking-fast-and-slow.md)
 - [Go in action](go-in-action.md)
 - [Artificial Intelligence: A Modern Approach](ai-modern-approach.md)
@@ -47,6 +54,7 @@ Below are books I read or started reading. The books with links attached will le
 - The Yellow Wallpaper
 
 ## Interesting authors
+
 - [Douglas Adams](https://www.goodreads.com/author/show/4.Douglas_Adams)
 - [Ted Chiang](https://www.goodreads.com/author/show/130698.Ted_Chiang)
 - [Alan Watts](https://www.goodreads.com/author/show/1501668.Alan_W_Watts)
@@ -57,6 +65,7 @@ Below are books I read or started reading. The books with links attached will le
 - [David Sedaris](https://www.goodreads.com/author/show/2849.David_Sedaris)
 
 ## Recommendations
+
 - [Side Project books](https://books.makesideproject.com/)
 - [Derek Sivers's books read](https://sivers.org/book)
 - [Rahim's books read](https://rakh.im/bookshelf/)
@@ -93,5 +102,6 @@ Below are books I read or started reading. The books with links attached will le
 - [Ask HN: Non-tech books that have helped you grow professionally?](https://news.ycombinator.com/item?id=12415621)
 
 ## Links
+
 - [Ask HN: How do you read programming books?](https://news.ycombinator.com/item?id=15733745)
 - [Ask HN: 2018 Summer Reading List?](https://news.ycombinator.com/item?id=17513576)

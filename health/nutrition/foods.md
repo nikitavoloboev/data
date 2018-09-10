@@ -1,7 +1,9 @@
 # Foods
+
 I exclude all foods that are not healthy and experiment with many [vegan recipes](https://github.com/nikitavoloboev/vegan-recipes/#readme) from the many foods that are healthy. I follow a whole food, plant based diet.
 
 ## Vegetables
+
 - Broccoli
 - Kale
 - Carrots
@@ -9,6 +11,7 @@ I exclude all foods that are not healthy and experiment with many [vegan recipes
 - Arugula
 
 ## Fruits
+
 - Avocados
 - Bananas
 - Blueberries
@@ -17,6 +20,7 @@ I exclude all foods that are not healthy and experiment with many [vegan recipes
 - Grapes
 
 ## Nuts
+
 - Walnuts
 - Pistachios
 - Almonds
@@ -25,6 +29,7 @@ I exclude all foods that are not healthy and experiment with many [vegan recipes
 - Brazil nuts
 
 ## Legumes
+
 - Beans
 - Griffonia Seeds - Lots of 5-HTP.
 - Lentils
@@ -32,6 +37,7 @@ I exclude all foods that are not healthy and experiment with many [vegan recipes
 - Pinto beans
 
 ## Spices
+
 - Parsley
 - Oregano
 - Rosemary
@@ -44,6 +50,7 @@ I exclude all foods that are not healthy and experiment with many [vegan recipes
 - Sage
 
 ## Other
+
 - Eggs
 - Dark chocolate
 - Mushrooms
@@ -54,11 +61,13 @@ I exclude all foods that are not healthy and experiment with many [vegan recipes
 - Olive oil
 
 ## Don't eat
+
 - Sugar
 - Bread. Grains.
 - Meat
 
 ## Links
+
 - [Cheap healthy food](https://www.nomeatathlete.com/cheap-healthy-food/)
 - [Serotonin Foods and Mood Disorders](https://bebrainfit.com/serotonin-foods-mood-brain/)
 - [Some good oatmeal and avocado recipes](https://www.reddit.com/r/HealthyFood/comments/8ytyqi/food_for_the_brain_with_a_budget/)

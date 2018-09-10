@@ -1,7 +1,9 @@
 # [Sublime Text](https://www.sublimetext.com) plugins
+
 Below is a list of plugins I use.
 
 ## Utility
+
 - [Six](https://github.com/guillermooo/Six) - Vim emulation.
 - [Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile) - File creation plugin.
 - [DashDoc](https://github.com/farcaller/DashDoc) - Dash integration.
@@ -10,17 +12,22 @@ Below is a list of plugins I use.
 - [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - Review TODO (and other) comments within your code.
 
 ## Lint
+
 - [Linter](https://github.com/SublimeLinter/SublimeLinter) - Code linting framework.
 
 ## Looks
+
 - [Ayu theme](https://github.com/dempfi/ayu)
 - [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons.
 
 ## Git
+
 - [GitGutter](https://github.com/jisaacks/GitGutter) - See git diff in gutter.
 
 # Interesting (not using)
+
 ## Utility
+
 - [SendCode](https://github.com/randy3k/SendCode) - Send code and text to macOS and Linux Terminals, iTerm, ConEmu, Cmder, Tmux, TerminalView; R (RStudio), Julia, IPython.
 - [SublimeLinter Annotations](https://github.com/SublimeLinter/SublimeLinter-annotations) - Marks annotations such as TODO, FIXME, etc.
 - [Dockerfile Syntax Highlighting](https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting)
@@ -28,22 +35,28 @@ Below is a list of plugins I use.
 - [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson) - Prettify/Minify/Query/Goto/Validate/Lint JSON.
 
 ## JavaScript
+
 - [JSPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - Plugin for Prettier, the opinionated code formatter.
 
 ## Markdown
+
 - [MarkdownTOC](https://github.com/naokazuterada/MarkdownTOC) - Plugin for generating a Table of Contents (TOC) in a Markdown document.
 - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 - [Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended) - Extends Soda's Monokai and the default markdown styles with additional syntax highlighting.
 
 ## Looks
+
 - [DistractionFreeWindow](https://github.com/aziz/DistractionFreeWindow) - Sublime Text's "Distraction free mode" but not full-screen.
 
 ## Lint
+
 - [Linter Shellcheck](https://github.com/SublimeLinter/SublimeLinter-shellcheck) - Linter plugin for SublimeLinter provides an interface to shellcheck.
 - [Linter flake8](https://github.com/SublimeLinter/SublimeLinter-flake8) - Provides an interface to [flake8](http://flake8.readthedocs.org/en/latest/).
 
 ## Git
+
 - [Git](https://github.com/kemayo/sublime-text-git) - Git integration.
 
 ## Nix
+
 - [SublimeNix](https://github.com/wmertens/sublime-nix) - Nix syntax highlighting.

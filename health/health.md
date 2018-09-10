@@ -1,4 +1,5 @@
 # Health
+
 I try to maximize my [happiness](../life/happiness.md) and quality of life through proper [nutrition](nutrition/nutrition.md), [exercise](../fitness/fitness.md) and stress free outlook on life with [mindfulness](../mindfulness/mindfulness.md).
 
 Here are some things I am trying to improve with my health right now.
@@ -12,8 +13,10 @@ Here are some things I am trying to improve with my health right now.
 - [Skin care](skin-care.md) - Moisturize my skin every morning and evening.
 
 ## Notes
+
 - [Great comment on staying healthy](https://www.reddit.com/r/longevity/comments/7hwgo7/for_people_in_their_young_or_middle_ages_now_who/).
 
 ## Links
+
 - [Second Life: Rethinking Myself Through Exercise, Mindfulness, and Gratitude](https://www.macstories.net/stories/second-life/)
 - [Dr Rhonda Patrick How Your Diet, Exercise, and Even Hyperthermic Conditioning Can Change the Expression of Genes](https://www.youtube.com/watch?v=VjgMzS5b_QM)

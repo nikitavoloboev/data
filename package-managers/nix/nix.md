@@ -1,10 +1,12 @@
 # [Nix](https://github.com/NixOS/nix)
+
 ## Notes
+
 - Nix never uses host dependencies, it always builds with exactly precise dependencies every time, and will always refer to them from then on.
 - Nix lets you roll back changes atomically.
 - nix-shell lets you make build environments that are totally reproducible across machines, and don’t interfere with each other. You can freely mix any number of libraries of versions or software on the same machine and they don’t conflict.
 - With Ubuntu, every time you want to fix something with your car, you roll it into the garage, pop open the hood and get to work. It's intensive labour, results will vary, and undoing a change can be difficult.
-	- With NixOS, it's like 3D printing a new car every time. You'll design a model, press a button, and the car gets built from scratch. If you don't like it, tweak the design a bit, and print a new car. If the new car breaks, just go back to the previous known-good one, which is already in your garage. You can even take the design documents to your friend and generate an exactly identical model.
+  - With NixOS, it's like 3D printing a new car every time. You'll design a model, press a button, and the car gets built from scratch. If you don't like it, tweak the design a bit, and print a new car. If the new car breaks, just go back to the previous known-good one, which is already in your garage. You can even take the design documents to your friend and generate an exactly identical model.
 - `sudo` command sets the wrong `$HOME`, have to use `sudo -i` for nix commands that need sudo.
 - Nix is Turing complete language used for configuration and building packages.
 - Can use nox, nix search, nix-repl, [nixOS packages](https://nixos.org/nixos/packages.html#) to search for packages.
@@ -16,6 +18,7 @@
 - Don't install libraries with Nix.
 
 ## Links
+
 - [Nix manual](https://nixos.org/nix/manual/)
 - [Nix pills](https://nixos.org/nixos/nix-pills/index.html)
 - [Interesting nix config](https://github.com/jwiegley/nix-config) - macOS based.

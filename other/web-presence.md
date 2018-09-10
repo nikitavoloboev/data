@@ -1,7 +1,9 @@
 # Web presence
+
 These are my personal profiles on various websites sorted by categories.
 
 ## Code
+
 - [GitHub](https://github.com/nikitavoloboev) - Share all my code there.
 - [CodePen](https://codepen.io/nikitavoloboev/) - Hope to use it more often to experiment with web things.
 - [GitHub Gists](https://gist.github.com/nikitavoloboev) - Sharing all my Code Snippets. Created with [SnippetsLab](https://www.renfei.org/snippets-lab/).
@@ -19,6 +21,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Katacoda](https://www.katacoda.com/nikivi)
 
 ## Learning
+
 - [Quora](https://www.quora.com/profile/Nikita-Voloboev) - Asking and answering questions.
 - [Kaggle](https://www.kaggle.com/nikitavoloboev) - Practicing machine learning.
 - [Coursera](https://www.coursera.org/user/7d650aebf46b82dcd83832d8358301c6) - Doing various courses.
@@ -26,19 +29,23 @@ These are my personal profiles on various websites sorted by categories.
 - [Khan Academy](https://khanacademy.org/profile/nikivi) - Getting up to speed with things quickly.
 
 ## Music
+
 - [SoundCloud](https://soundcloud.com/nikitavoloboev) - Sharing music I like and the tunes I make.
 - [Spotify](https://open.spotify.com/user/nikitavoloboev) - Sharing music I like in form of a variety of playlists.
 - [Last.fm](https://www.last.fm/user/playfullyExist) - Tracking music I listen to on Spotify.
 - [Mixcloud](https://www.mixcloud.com/nikitavoloboev/)
 
 ## Design
+
 - [Dribble](https://dribbble.com/nikitavoloboev) - Sharing my design creations and design things I like.
 - [Art Station](https://www.artstation.com/nikitavoloboev) - Not posting there.
 
 ## Writing
+
 - [Medium](https://medium.com/@nikitavoloboev) - My personal blog.
 
 ## Social
+
 - [Twitter](https://twitter.com/nikitavoloboev) - Sharing all the different things I am up to right now.
 - [Reddit](https://www.reddit.com/user/nikivi/) - Frequently visiting and contributing to various subreddits I like.
 - [Lobsters](https://lobste.rs/u/nikivi) - Frequently visit and contribute to this Hacker News like community.
@@ -50,6 +57,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Meetup](https://www.meetup.com/members/185347053/) - Attending various groups and meeting new interesting people and communities.
 
 ## Photos
+
 - [Instagram](https://www.instagram.com/nikitavoloboev/) - Sharing my experiences in life with photographs and stories.
 - [VSCO](http://vsco.co/nikitavoloboev) - Edit my iPhone images there.
 - [Curated images](https://instagram.com/prettiways) - Curating all the beautiful photographs/images I like.
@@ -57,28 +65,34 @@ These are my personal profiles on various websites sorted by categories.
 - [Unsplash](https://unsplash.com/@nikitavoloboev/collections) - Sharing some of my better photographs I made.
 
 ## Video
+
 - [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) - Sharing videos I make on variety of subjects (mostly programming).
 - [Twitch](https://www.twitch.tv/nikitavoloboev)
 
 ## Forums
+
 - [Alfred Forum](https://www.alfredforum.com/profile/10242-nikivi/) - Asking and answering questions about the amazing [Alfred](https://www.alfredapp.com/) launcher.
 - [Keyboard Maestro](https://forum.keyboardmaestro.com/u/nikivi/activity) - Asking and answering questions about Keyboard Maestro.
 
 ## Tracking
+
 - [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev) - Tracking books I have read as well as the reviews I have written.
 - [Letterboxd](https://letterboxd.com/nikitavoloboev/) - Tracking movies I've seen and my reviews on the movies I've liked or disliked.
 - [Trakt](https://trakt.tv/users/nikitavoloboev) - Tracking TV series I saw or want to watch.
 - [Grouevee](https://www.grouvee.com/user/nikivi/) - Tracking all the different games I have played or want to play.
 
 ## Gaming
+
 - [Steam](https://steamcommunity.com/id/nikivi) - All the games I played on Steam.
 
 ## Support
+
 - [Patreon](https://patreon.com/nikitavoloboev) - Since I do nearly everything Open Source and Free by default, I don't get any money for these things. Thus anyone who likes my work can show it in form of small or bigger donations.
 - [Buy me a Coffee](https://www.buymeacoffee.com/nikitavoloboev) - One time donations.
 - [My public crypto addresses](https://www.vaulty.io/v/a0c360d0-2196-11e8-a119-494749abff15)
 
 ## Other
+
 - [Keybase](https://keybase.io/nikitavoloboev) - Holds my public PGP key. I also prove my identity on various websites there.
 - [Etsy](https://www.etsy.com/people/nikitavoloboev) - If I ever make something with my hands, I will probably share it there.
 - [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - My online CV.

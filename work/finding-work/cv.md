@@ -1,7 +1,9 @@
 # CV
+
 I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://github.com/posquit0/Awesome-CV) in [LaTeX](https://github.com/nikitavoloboev/cv#readme).
 
 ## Interesting CVs
+
 - [Joshua Cockrell](http://joshcockrell.com/joshua_cockrell_resume.pdf) - Minimal and to the point.
 - [Safia Abdalla](https://cloudup.com/cqozUYp889k)
 - [Joseph Combs](https://www.josephecombs.com/resume/)
@@ -25,9 +27,11 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Jiahao Li](http://ljh.me/resume/) - Impressive.
 
 ## Notes
+
 - Experience > Education
 
 ## Links
+
 - [Ask HN: How does a great resume look like? What are the best tools to make one?](https://news.ycombinator.com/item?id=16659255)
 - [Ask HN: What do you consider resume red flags?](https://news.ycombinator.com/item?id=16982575)
 - [iOS Resume Examples](https://www.raywenderlich.com/54029/ios-developer-resume-examples)
