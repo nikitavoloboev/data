@@ -15,3 +15,4 @@
 - [Very opinionated front end boilerplate](https://ts-react-boilerplate.js.org/)
 - [Babel 7 + TypeScript](http://artsy.github.io/blog/2017/11/27/Babel-7-and-TypeScript/)
 - [Classes vs interfaces in TS](https://toddmotto.com/classes-vs-interfaces-in-typescript)
+- [StREST](https://github.com/eykhagen/strest#readme) - Set up tests for REST in seconds with YAML.
