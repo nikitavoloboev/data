@@ -1,4 +1,5 @@
 # Knowledge
+
 I don't know many things. And as the saying goes: _"The more you know, the more you don't know."_
 
 I list things I am learning and want to learn in a [Trello board](https://trello.com/b/cu32qF3q).
@@ -8,6 +9,7 @@ I also visualize some topics and their relations as an [interactive mind map](ht
 ![](https://i.imgur.com/jfjbuzO.jpg)
 
 ## Knowledge indexing
+
 I index knowledge for fast retrieval as I cannot rely on my memory and I want to focus on solving problems rather than try keep all and everything in head. What I need to do, what my plans are for the future, what projects am I working on, what I know or want to know and this list goes on.
 
 I solve this problem in multiple ways and I change my approach as I find better ways of doing things.
@@ -23,8 +25,10 @@ For all the other things, I use a search engine of my liking. I still prefer to 
 And of course this system of knowledge indexing is really flexible and I am experimenting with these things as I go. I want to focus on writing code and writing solutions with code to real problems that exist in this world and this above system of knowledge indexing helps me greatly with that and I build and augment it with software where possible.
 
 ## Notes
+
 - Take wherever you’re good at and just try to push your understanding deeper.
 - [Don’t assume it’s difficult until it is](https://news.ycombinator.com/item?id=10872970).
 
 ## Links
+
 - [Great insights](https://wiki.xxiivv.com/#knowledge) - Also has great [learning](https://wiki.xxiivv.com/#glossary) page.
