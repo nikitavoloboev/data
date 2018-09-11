@@ -32,7 +32,7 @@ I have [many more Trello boards](my-trello.md) I use and share.
 
 ## macOS/iOS group on [Telegram](https://t.me/macOSautomation)
 
-I love macOS and automation so I made a [Telegram group](https://t.me/macOSautomation) to discuss all things macOS/iOS.
+I [love macOS](https://github.com/nikitavoloboev/my-mac-os#readme) and automation so I made a Telegram group to discuss all things macOS/iOS.
 
 ## Snippets on [GitHub Gists](my-gists.md)
 
