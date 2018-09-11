@@ -55,6 +55,14 @@ As well as a few other Slack communities like:
 - [Gophers](https://invite.slack.golangbridge.org/)
 - [VS Code Vim](https://vscodevim-slackin.azurewebsites.net/)
 
+And these Discord servers:
+
+- [Reactiflux](https://discord.gg/9pZJYR9)
+- [Functional programming](https://discord.gg/xQwR7P7)
+- [ReasonML](https://discord.gg/Agv7fMN)
+- [Godot Engine](https://discord.gg/ZXJERxu)
+- [QMK](https://discord.gg/mthbPUc)
+
 ## Links
 
 - [News](https://medium.com/@nikitavoloboev) - I wrote briefly my opinion about consuming news and media. Although my opinion as stated in the article is still the same. My approach as indicated above has changed and hopefully became a bit more refined to meet my own goals.
