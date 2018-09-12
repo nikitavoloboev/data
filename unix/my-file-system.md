@@ -29,7 +29,7 @@ Actual App AudioBooks Books Config Design History PDFs Pixave Research papers sr
 Everything that is code is put into this folder.
 
 ```Bash
-~/src
+~/Documents/src
 ❯ exa
 alfred  bots  clones  curated  games  languages  learn  libs  ml  orgs  other  personal  practice  scripts  test  vim-plugins  web  Xcode
 ```

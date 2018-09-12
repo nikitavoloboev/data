@@ -6,7 +6,7 @@ I use [Textual](https://www.codeux.com/textual/ "Textual") IRC client and I use 
 
 Here are the IRC channels I very often frequent:
 
-![](https://i.imgur.com/mRizII9.png)
+![](https://i.imgur.com/6STwHFX.png)
 
 ## IRC commands
 

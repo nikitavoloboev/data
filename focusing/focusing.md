@@ -14,7 +14,7 @@ For example, one of these _rules_ is that I need to be proactive with my email a
 
 I keep a private Trello board where I outline things that I want to focus on in life and achieve.
 
-![](https://i.imgur.com/EuNRDYG.jpg)
+![](https://i.imgur.com/ux3cnPi.jpg)
 
 I mark the projects and goals I want to focus on right now, and by pressing `Q` in Trello I will only see these cards on the board.
 
@@ -30,7 +30,7 @@ I use [Focus app](https://heyfocus.com) as a recurring [pomodoro timer](https://
 
 ![](https://i.imgur.com/B9Tsaxf.png)
 
-![](https://i.imgur.com/XM0xoHE.png)
+![](https://i.imgur.com/r6ff6Cr.png)
 
 Only on breaks can I visit these websites.
 

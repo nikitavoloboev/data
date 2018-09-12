@@ -14,3 +14,4 @@ So:
 - [Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38)
 - [React Redux Style guide](https://github.com/iraycd/React-Redux-Styleguide#readme)
 - [Mark Erikson - The Fundamentals of Redux](https://www.youtube.com/watch?v=ewelU8WHXQ4&index=7&list=PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP)
+- [Redux Persist](https://github.com/rt2zz/redux-persist#readme) - Persist and rehydrate a Redux store.
