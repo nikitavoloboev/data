@@ -4,7 +4,7 @@ I spend quite a lot of my time on [Freenode](https://freenode.net/) as it has so
 
 I use [Textual](https://www.codeux.com/textual/ "Textual") IRC client and I use [ZNC](http://www.wikiwand.com/en/ZNC) network bouncer to always keep me logged in to the servers as well as it keeping history logs when I am away.
 
-Here are the IRC channels I very often frequent:
+Here are the IRC channels I often frequent:
 
 ![](https://i.imgur.com/6STwHFX.png)
 
