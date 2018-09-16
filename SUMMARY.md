@@ -234,6 +234,7 @@
   - [WebAssembly](web/webassembly.md)
   - [SEO](web/seo.md)
   - [Electron](web/electron.md)
+  - [Webpack](web/webpack.md)
   - [Progressive Web Apps](web/progressive-web-apps.md)
 - [Cloud computing](cloud-computing/cloud-computing.md)
   - [Cloud hosting](cloud-computing/cloud-hosting.md)

@@ -26,3 +26,7 @@ I often use [FB Market Place](https://facebook.com/marketplace) to sell off the 
   - When we break our dependance on material objects, we naturally find no use for the things that we do not need. Only when we extinguish that need to own things can we call ourselves minimalists. Otherwise, we are just trying to impress. If there is struggle, then there is dysfunction.
 - So many people are just replacing their attachment and dependency with tangible objects into attachment and dependency with the "idea" of minimalism. It morphs into someone's entire identity. It's just trading one addiction with another.
 - [FB Market Place](https://facebook.com/marketplace), [Ebay](https://www.ebay.com), [Gumtree](https://www.gumtree.com/), [Swappa (US only)](https://swappa.com) can be used to sell things.
+
+## Links
+
+- [Living with less. Everything i own now fits into a single carry-on bag.](http://www.wernervanrooyen.com/living-with-less-one-bag/)

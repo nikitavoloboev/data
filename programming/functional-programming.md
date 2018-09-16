@@ -14,6 +14,7 @@
 - [FP Resources](https://github.com/allenleein/brains/projects/9?fullscreen=true)
 - [OOS is dead only if FP is dead](https://speakerdeck.com/staltz/oop-is-dead-only-if-fp-is-dead?slide=1)
 - [Total functional programming (ESFP) literature](https://github.com/mietek/total-functional-programming#readme)
+- [Having an Effect by Oleg Kiselyov](https://www.youtube.com/watch?v=GhERMBT7u4w)
 
 ## Images
 

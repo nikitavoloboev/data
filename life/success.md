@@ -19,3 +19,4 @@ Success comes from not giving up and doing what you love.
 - [Cities - Paul Graham](http://www.paulgraham.com/cities.html)
 - [9 Minutes of Content That Allow for a Shift in Your Life](https://www.youtube.com/watch?v=CWUsnUgWzHg)
 - [Elon Musk: How To Achieve 10x More Than Your Peers](https://www.youtube.com/watch?v=liJbB_0eCTo)
+- [Farnam Street Principles](https://fs.blog/principles/)

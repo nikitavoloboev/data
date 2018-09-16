@@ -16,3 +16,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Some more papers to read](https://lobste.rs/s/npo38i/what_are_some_good_interesting_papers_cs)
 - [Favorite Haskell papers](https://www.reddit.com/r/haskell/comments/6fj21f/favorite_haskell_papers/)
 - [Collection of various research papers](https://github.com/dterei/Research-Papers)
+
+## Links
+
+- [Arxiv Vanity](https://www.arxiv-vanity.com/) - Renders academic papers from Arxiv as responsive web pages.

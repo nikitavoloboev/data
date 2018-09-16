@@ -7,7 +7,7 @@ Here are few more things I liked, design wise.
 ## Websites
 
 - [Draftsend](https://draftsend.com/)
-- [taotajima ](http://taotajima.jp/works/waxing-moon/) - Amazing transitions.
+- [taotajima](http://taotajima.jp/works/waxing-moon/) - Amazing transitions.
 - [TANMU LABS](https://tanmulabs.com/) - Pretty awesome color palette.
 - [The Disconnect](https://thedisconnect.co/)
 - [John Otander](http://johnotander.com/) - Simple.
