@@ -2,6 +2,8 @@
 
 I wrote my thoughts about my time in university [here](university.md).
 
+Charles Hoskinson mentions why he believe in transforming education in [this interview](https://youtu.be/6hgKMCSloM4?t=50m4s) which I strongly believe in and am trying to change with [Learn Anything](../ideas/learn-anything.md).
+
 ## Notes
 
 - Try to use multiple aspects of your brain at once when learning. One of the best "learn about learning" lessons I ever had was studying jazz theory. My teacher used a four-way method of learning chords - say the name of the chord, visualize it on the keyboard, feel the shape your hands make to play the chord, and listen to the sound of the chord. I've applied this sort of approach to all sorts of skills since then.

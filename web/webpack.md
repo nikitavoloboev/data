@@ -1,4 +1,4 @@
-# [Webpack](https://webpack.js.org/)]
+# [Webpack](https://webpack.js.org/)
 
 ## Links
 

@@ -2,8 +2,12 @@
 
 ## Favorite interviews
 
-- [Leaving Google and Going Indie — An interview with Daniel Alm](https://medium.com/mailbutlerhq/leaving-google-and-going-indie-an-interview-with-daniel-alm-91078268a48b)
+- [Conversation With Charles Hoskinson](https://www.youtube.com/watch?v=6hgKMCSloM4)
 - [DevOps Chat with HashiCorp's CTO](https://www.youtube.com/watch?v=iV5doaYReyU)
+
+## Interesting interviews
+
+- [Leaving Google and Going Indie — An interview with Daniel Alm](https://medium.com/mailbutlerhq/leaving-google-and-going-indie-an-interview-with-daniel-alm-91078268a48b)
 
 ## Notes
 

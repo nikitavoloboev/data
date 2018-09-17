@@ -101,6 +101,7 @@ Here are few more things I liked, design wise.
 - [Zdziarski's Blog of Things](https://www.zdziarski.com/blog/)
 - [Fuzzy Notepad](https://eev.ee/blog/)
 - [npf by Nate Finch](https://npf.io/)
+- [Tom Bonnike](https://tom-bonnike.com/)
 
 ## Other
 

@@ -11,7 +11,7 @@ What I find important in life changes as I gain more experience but I always try
 I keep a [Trello board](https://trello.com/b/HotsLGsc) where I list things I own in my life. I mark items that I no longer need with `Sell` tag as well as items I need to upgrade with `Upgrade`. I try to make sure that the items I do own fit into one backpack so I can move to any place in the world with no effort.
 
 Here is how that board looks for me:
-![](https://i.imgur.com/QmQy5tU.jpg)
+![](https://i.imgur.com/xzyxiap.png)
 
 I [budget all my money](../finance/finance.md) into categories each month. This allows me to spend my money mindfully and not buy things I don't need.
 
