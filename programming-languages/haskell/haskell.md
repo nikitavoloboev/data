@@ -40,3 +40,4 @@
 - [Quchen's articles](https://github.com/quchen/articles)
 - [Haskell Design Patterns?](https://www.reddit.com/r/haskell/comments/5r271m/haskell_design_patterns/)
 - [Haskell companies](https://github.com/erkmos/haskell-companies#readme) - Curated list of companies using Haskell in industry.
+- [Snack](https://github.com/nmattia/snack#readme) - Nix-based incremental build tool for Haskell projects.
