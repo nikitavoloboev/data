@@ -6,3 +6,4 @@
 - [Speaker Deck](https://speakerdeck.com/) - Share Presentations.
 - [Big](https://github.com/tmcw/big) - Presentations for busy messy hackers.
 - [mdx-deck](https://github.com/jxnblk/mdx-deck#readme) - [MDX](https://github.com/mdx-js/mdx#readme)-based presentation decks.
+- [spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide#readme) - Present code with style.

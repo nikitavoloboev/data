@@ -4,7 +4,7 @@ There is so much out there in the world. It's often hard to stay on top of thing
 
 Of course, it is all in my head and [mindfulness](../mindfulness/mindfulness.md) is the answer. But I still want to do my best and try and understand as many things as I can because knowing a broad range of things helps me connect the dots and pieces together faster.
 
-I use [Focus](https://heyfocus.com) macOS app to completely block many websites with constantly updated feeds like front page of Hacker News, GitHub, Reddit and more. I automatically run Focus every 2 hours for 90 minutes and work throughout this period fully focused. After that time, I review what I have done in [Timing](../macOS/apps/timing.md) and I have 30 minutes to check the news and view usually blocked websites and after that, the timer starts again.
+I use [Focus](https://heyfocus.com) macOS app to completely block many websites with constantly updated feeds like front page of Hacker News, GitHub, Reddit and more. I automatically run Focus every 90 minutes for 80 minutes and work throughout this period fully focused. After that time, I review what I have done in [Timing](../macOS/apps/timing.md) and I have 10 minutes to check the news and view usually blocked websites and after that, the timer starts again.
 
 ## What I use
 
@@ -24,7 +24,7 @@ Twitter is my favorite social media network and it is where I share everything [
 
 ### Reddit
 
-My Reddit is heavily tailored to my own likes and I very often just look into some subreddits I like to see what is new. I list subreddits I like [here](https://github.com/learn-anything/reddit#readme). I also love using and creating [multi reddits](https://github.com/learn-anything/reddit-multi) I often check out.
+My Reddit is heavily tailored to my own likes and I very often just look into some subreddits I like to see what is new. I list subreddits I like [here](https://github.com/learn-anything/reddit#readme). I also love using and creating [multi reddits](https://github.com/learn-anything/reddit-multi#readme) I often check out.
 
 I access all these subreddits from [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything#readme) and [Deanishe's Reddit worklfow](https://github.com/deanishe/alfred-reddit#readme) workflows.
 
@@ -65,5 +65,5 @@ And these Discord servers:
 
 ## Links
 
-- [News](https://medium.com/@nikitavoloboev) - I wrote briefly my opinion about consuming news and media. Although my opinion as stated in the article is still the same. My approach as indicated above has changed and hopefully became a bit more refined to meet my own goals.
+- [News](https://medium.com/@nikitavoloboev/news-d6bcaaf40121) - I wrote briefly my opinion about consuming news and media. Although my opinion as stated in the article is still the same. My approach as indicated above has changed and hopefully became a bit more refined to meet my own goals.
 - [List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)

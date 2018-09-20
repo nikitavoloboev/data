@@ -42,3 +42,4 @@
 - [In Pursuit of Production Minimalism](https://brandur.org/minimalism)
 - [The 12 Factor App](https://12factor.net)
 - [Mostly avoid unit tests](https://lobste.rs/s/trrold/mostly_avoid_unit_tests)
+- [Software disenchantment](http://tonsky.me/blog/disenchantment/)
