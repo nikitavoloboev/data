@@ -103,6 +103,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Uppermost](https://soundcloud.com/uppermost) - [Beautiful Light](https://www.youtube.com/watch?v=Q1DvVzKXktY)
 - [Baltra](https://soundcloud.com/baltra) - [fuck all y'all haters](https://www.youtube.com/watch?v=9Rz6L4D8xJU)
 - [Susumu Yokota](https://susumuyokota.bandcamp.com) - [Kodomotachi](https://www.youtube.com/watch?v=p5ZbGLzyqcQ)
+- [МЫ](https://soundcloud.com/user-613634972) - [Возможно](https://www.youtube.com/watch?v=B1yIJ706i78)
 
 ## Interesting artists
 
@@ -167,3 +168,4 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [The Comet Is Coming](https://soundcloud.com/thecometiscoming) - [Start Running](https://www.youtube.com/watch?v=g7Px2wK10jg)
 - [Koresma](https://soundcloud.com/koresma) - [Bridges](https://www.youtube.com/watch?v=6t8ySMAtW5w)
 - [Lil Gatsby](https://soundcloud.com/lil-gatsby) - [You're so cool](https://www.youtube.com/watch?v=7YdPw_gcejQ)
+- [RSAC](https://soundcloud.com/felixbondarev) - [Поезда (feat. ELLA)](https://www.youtube.com/watch?v=IK_G6kQIJWo)

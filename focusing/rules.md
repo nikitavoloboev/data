@@ -253,9 +253,10 @@ Some simple rules to follow for myself doing things.
 - Only have notifications from real people and 2Do. The rest should be blocked. No badges.
 - Spend time on phone mindfully. Read & be proactive.
 
-## Web
+## Login
 
-- Use Single Sign On where possible. Mark it accordingly in 1Password. FB preferred for social circle.
+- Use Single Sign On where available. Mark it accordingly in 1Password (F (FB), G (Google), H (GitHub)). FB preferred for social circle.
+- Use 2FA where available. Saved to 1Password.
 
 ## SnippetsLab
 

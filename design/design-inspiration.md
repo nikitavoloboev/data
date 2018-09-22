@@ -102,12 +102,14 @@ Here are few more things I liked, design wise.
 - [Fuzzy Notepad](https://eev.ee/blog/)
 - [npf by Nate Finch](https://npf.io/)
 - [Tom Bonnike](https://tom-bonnike.com/)
+- [Alexey Sekachov](https://work.asekachov.com/) - Clean.
 
 ## Other
 
 - [Monzo docs](https://monzo.com/docs/#authentication) - Love the look of it.
 - [Pretty awesome fluid animation](https://iohk.io/)
 - [Book of Bad Arguments](https://bookofbadarguments.com/)
+- [Some nice wallpapers](https://gumroad.com/jmdenis)
 
 ## Links
 

@@ -4,7 +4,7 @@ I try to be aware of my digital fingerprint on the Internet. Who owns the data I
 
 I made a [repository](https://github.com/nikitavoloboev/privacy-respecting#readme) to share all the various alternatives to popular often centralized and _free_ services that are available. And I wrote an [article](https://medium.com/@nikitavoloboev/like-a-dog-on-a-leash-c0cdb8839079) with some of my thoughts on the matter.
 
-I use [Hosts](https://github.com/StevenBlack/hosts#readme) and [AdGuard](https://adguard.com/en/welcome.html) for both mac & iOS to limit tracking.
+I use [Hosts](https://github.com/StevenBlack/hosts#readme) and [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) for both mac & iOS to limit tracking.
 
 And I have deep interest in [Differential privacy](http://www.wikiwand.com/en/Differential_privacy) and [Homomorphic encryption](http://www.wikiwand.com/en/Homomorphic_encryption).
 
