@@ -10,6 +10,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - To unlock watch with iOS: Watch.app > Passcode > Unlock with iPhone.
 - [You can change what the double tap does on each AirPod in Bluetooth settings.](https://www.reddit.com/r/apple/comments/8bjy9v/just_got_a_set_of_airpods/dx7mocd/?context=1)
 - If you want to find text on a page in Safari, you can click the URL bar, type the word that you want, and select the last option “On this page”.
+- [Can edit Scriptable snippets on mac with VS Code with instant syncing to iOS](https://talk.automators.fm/t/code-editing-on-the-mac/2005)
 
 ## Links
 
