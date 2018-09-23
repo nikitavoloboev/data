@@ -19,6 +19,10 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [10 Things I Regret About Node.js - Ryan Dahl (2018)](https://www.youtube.com/watch?v=M3BM9TB-8yA)
 - [Make Data Structures" by Richard Feldman (2018)](https://www.youtube.com/watch?v=x1FU3e0sT1I)
 
+## Interesting
+
+- [How Your Systems Keep Running Day After Day - John Allspaw](https://www.youtube.com/watch?v=xA5U85LSk0M)
+
 ## Notes
 
 - Giving a talk, it is often best to start with a `Why?`

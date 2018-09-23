@@ -27,3 +27,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [Pax](https://github.com/nathan/pax) - Fastest JavaScript bundler in the galaxy.
 - [Philip Roberts: What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 - [BundlePhobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
+- [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)

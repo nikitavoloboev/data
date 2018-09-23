@@ -13,9 +13,9 @@ I keep a [Trello board](https://trello.com/b/HotsLGsc) where I list things I own
 Here is how that board looks for me:
 ![](https://i.imgur.com/xzyxiap.png)
 
-I [budget all my money](../finance/finance.md) into categories each month. This allows me to spend my money mindfully and not buy things I don't need.
+I put the prices of the items I buy as descriptions. And use [FB Market Place](https://facebook.com/marketplace) to sell off the things I don't need.
 
-I often use [FB Market Place](https://facebook.com/marketplace) to sell off the things I don't need.
+I [budget all my money](../finance/finance.md) into categories each month. This allows me to spend my money mindfully and not buy things I don't need.
 
 ## Notes
 
