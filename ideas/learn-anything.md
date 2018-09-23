@@ -11,3 +11,11 @@ Aside from providing links and connected topics to learn from. The end goal is t
 A kind of Netflix for learning. And as its open source too, anyone who knows how to code can literally add a feature themselves. And if they don't like the direction in which the website is going, they can fork it away.
 
 ![](https://raw.githubusercontent.com/learn-anything/learn-anything/dev/media/header.png)
+
+## New design
+
+Some mockups for next version of Learn Anything.
+
+![](https://cdn.discordapp.com/attachments/428579844046192643/493481463686365194/03-topic-learn-plans-1.png)
+
+If you want to help out, we have a [Discord server](https://discord.gg/KKYdWjt). ❤️
