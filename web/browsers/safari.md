@@ -17,6 +17,7 @@ I also open any of my most used websites using [KM macros](../../macOS/apps/keyb
 - [sVim](https://github.com/flipxfx/sVim) - Adds a custom layer of keybinds you can customize to personalize your browsing experience. [My config](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c).
 - [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) - Ad content blocker that uses [Safari native content blocking API's](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
 - [1Password](https://agilebits.com/onepassword/extensions) - [1Password](https://1password.com) is a phenomenal password manager, this extension just gives a seamless interaction of it with the browser.
+- [Nightlight](https://itunes.apple.com/nl/app/nightlight-for-safari/id1429386865?l=en&mt=12) - Turn white websites in Safari to dark mode automatically.
 
 For more extensions you can see [this list](https://github.com/learn-anything/safari-extensions#readme).
 
