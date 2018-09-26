@@ -8,7 +8,7 @@ I have a **Think** map where I [brainstorm things](../../research/solving-proble
 
 I also use MindNode to visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/16ppjh7Vs2ABJkgs7yyHo75KHymhoosayvDUyeRs#268.5,-734.1,1).
 
-![](https://i.imgur.com/jfjbuzO.jpg)
+![](https://i.imgur.com/uzNNYiz.png)
 
 ## Links
 
