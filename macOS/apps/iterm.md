@@ -18,7 +18,7 @@ I always have at least 3 tabs (sessions) always open in iTerm. I open other tabs
 
 My always open tabs are:
 
-1. `jumper` - This tab is where the majority of my work is done or when I need to quickly jump around my file system. Bound to `f+j`.
+1. `jump` - This tab is where the majority of my work is done or when I need to quickly jump around my file system. Bound to `f+j`.
 2. `kar` - Contains my [Karabiner configuration](karabiner/karabiner.md) I edit. Bound to `v+:`.
 3. `vim` - Contains my [Vim config](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). Bound to `v+a`.
 

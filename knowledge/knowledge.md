@@ -6,7 +6,7 @@ I list things I am learning and want to learn in a [Trello board](https://trello
 
 I also visualize some topics and their relations as an [interactive mind map](https://my.mindnode.com/dPmKpWZgTpZsaG4Rf1yaz7rXbYhnuqPDDpdss4w2#1594.8,-1084.6,1).
 
-![](https://i.imgur.com/jfjbuzO.jpg)
+![](https://i.imgur.com/uzNNYiz.png)
 
 ## Knowledge indexing
 
