@@ -14,11 +14,11 @@ For example, one of these _rules_ is that I need to be proactive with my email a
 
 I keep a private Trello board where I outline things that I want to focus on in life and achieve.
 
-![](https://i.imgur.com/hb0QqtF.jpg)
+![](https://i.imgur.com/gbeuuII.jpg)
 
 I mark the projects and goals I want to focus on right now, and by pressing `Q` in Trello I will only see these cards on the board.
 
-![](https://i.imgur.com/1NAdrm4.jpg)
+![](https://i.imgur.com/Tt0bzlY.jpg)
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
 
@@ -43,7 +43,7 @@ The things I work on during this 80 min focus session is specified by an event i
 
 At the end of the 100 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 100 min period. The projects are a reflection of my Focus Trello board.
 
-![](https://i.imgur.com/Xf1QAru.png)
+![](https://i.imgur.com/lTSgHvg.png)
 
 I limit apps that can send me notifications to only essential things and turn off all sounds on notifications I get.
 

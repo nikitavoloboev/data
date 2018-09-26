@@ -1,6 +1,6 @@
 # Night Blue themes
 
-As I have fallen in love with having `#18222D` color as my background on Telegram. I slowly started added it to every app that supported theming. Having a unified color scheme across all the editors and even some apps I use is amazing.
+As I have fallen in love with having `#18222D` color as my background on Telegram. I slowly started adding it to every app that supported theming. Having a unified color scheme across all the editors and even some apps I use is amazing.
 
 ## How it looks
 
