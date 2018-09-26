@@ -6,6 +6,6 @@ No longer need to remember passwords and I now have a unique password for every 
 
 As I use [SSO](https://auth0.com/blog/what-is-and-how-does-single-sign-on-work/) with either Google, GitHub or Facebook where possible I add it to the names of logins as such:
 
-![](https://i.imgur.com/VfbwIhq.png)
+![](https://i.imgur.com/o6YgOTG.png)
 
 Where `(G)` stands for Google. Alternatively it could be `(H)` for GitHub and `(F)` for Facebook. Facebook is good for times when a service does need to hook into my friend circle (Spotify is good example of it).

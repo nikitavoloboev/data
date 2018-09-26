@@ -18,7 +18,7 @@ I am very open to the public sharing both the things I know and like and also th
 
 ## My Journals
 
-![](https://i.imgur.com/zdFLdEP.png)
+![](https://i.imgur.com/1QFidAU.png)
 
 ### Life
 

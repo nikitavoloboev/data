@@ -4,4 +4,4 @@ I use Contacts app as a contact book of people I both know and people I am inter
 
 I use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/search-for-content#readme) to quickly search through all my contacts and the notes I added to them with Alfred.
 
-![](https://i.imgur.com/hcQul7c.png)
+![](https://i.imgur.com/32A4oqa.png)
