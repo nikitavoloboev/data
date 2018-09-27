@@ -1,5 +1,9 @@
 # Future
 
+## Interesting
+
+- [Charles Hoskinson - The Road Ahead](https://www.youtube.com/watch?v=Hu9-j2H9qQY)
+
 ## Promising
 
 - [IOT + Sensors (with security)](https://www.youtube.com/watch?v=MM2AxeACt9Q)

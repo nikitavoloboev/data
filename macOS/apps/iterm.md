@@ -25,6 +25,8 @@ My always open tabs are:
 All other tabs are added on top of this `default` configuration. I use [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions:
 ![](https://i.imgur.com/Yz1PVpi.png)
 
+I use VS Code's integrated terminal when working on various code projects.
+
 ## Links
 
 - [Make macOS hotkeys work with iTerm](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line/29403520#29403520)
