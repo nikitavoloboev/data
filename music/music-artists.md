@@ -169,3 +169,4 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Koresma](https://soundcloud.com/koresma) - [Bridges](https://www.youtube.com/watch?v=6t8ySMAtW5w)
 - [Lil Gatsby](https://soundcloud.com/lil-gatsby) - [You're so cool](https://www.youtube.com/watch?v=7YdPw_gcejQ)
 - [RSAC](https://soundcloud.com/felixbondarev) - [Поезда (feat. ELLA)](https://www.youtube.com/watch?v=IK_G6kQIJWo)
+- [David West](https://soundcloud.com/davidwest) - [Alberto Balsam](https://open.spotify.com/track/18a4YelwwkDXV9y2oPlusJ)
