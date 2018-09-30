@@ -30,4 +30,6 @@
   - [Advanced React](https://github.com/ryanflorence/advanced-react-workshop#readme)
 - [Algebraic Effects, Fibers, Coroutines . . . Oh My! - Brandon Dail (2018)](https://www.youtube.com/watch?v=cWY1QzyFhfk&feature=youtu.be)
 - [Understanding React and reimplementing it from scratch Part 1: Views](https://gcanti.github.io/2014/10/29/understanding-react-and-reimplementing-it-from-scratch-part-1.html)
+- [React (without the buzzwords) course](https://frontarm.com/courses/learn-raw-react)
 - [Conditional Rendering with React: The Complete Guide](https://frontarm.com/articles/react-conditional-rendering/)
+- [React Events Live Cheatsheet](https://frontarm.com/toolbox/react-events-cheatsheet/)
