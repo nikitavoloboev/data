@@ -8,3 +8,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Dapp](https://github.com/dapphub/dapp) - Simple tool for creating Ethereum-based dapps.
 - [Ethereum FAQ](http://www.ethdocs.org/en/latest/frequently-asked-questions/frequently-asked-questions.html#what-is-ethereum)
 - [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
+- [Around the Block | Episode 2 | Scars of Consensus](https://www.youtube.com/watch?v=yMbOxJQ1Hlo&)

@@ -19,12 +19,13 @@ Most often the difficulty of solving some task is simply due to it not being cle
 
 Once I found and understand what it is I want to solve. I look into it more and see if I can try to break down the problem into smaller parts I can work on. Often times this might not be necessary and I can start working on the task immediately but in times when the task I need to solve is either hard or stated too vaguely, I break it down further into parts that I can pick up and work on individually.
 
-Often times I do the decoupling of the task inside the app itself, be it a code editor, [2Do](../macOS/apps/2do.md) or [Bee app](https://www.neat.io/bee/). Other times I can use simple pen and paper or a white board or a [MindNode](../macOS/apps/mindnode.md) mind map I made called **Think**. Which I use to brainstorm things and break down the connections between different things in a visual way.
+Usually I break things down using [TaskPaper](https://www.taskpaper.com). I break down a problem into series of steps I can approach solving and then go through each of the steps to solve what I originally wanted to solve, modifying and adjusting things in light of newly found insights.
 
-I also sometimes use it as a way of breaking down further complex tasks. Like so:
-![](https://i.imgur.com/17tvkzF.png)
+![](https://i.imgur.com/HccybA7.png)
 
-I then simply try to go through each of the steps outlined and hopefully reach a working solution. Modifying and adjusting things in light of newly found insights.
+> It often looks like this
+
+Often times I can do the decoupling of the task inside the app I am working in itself, be it a code editor, [2Do](../macOS/apps/2do.md) or [Bee app](https://www.neat.io/bee/). If the problem is complex enough, I also use simple pen and paper, a white board or make visual mind maps with [MindNode](../macOS/apps/mindnode.md).
 
 ## 3. Work on solving the task and nothing else
 

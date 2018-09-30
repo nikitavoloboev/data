@@ -1,6 +1,6 @@
 # [Alfred](https://www.alfredapp.com)
 
-Alfred is a very powerful launcher that you can program to show anything you want. It saved me a lot of time in my life.
+Alfred is a powerful launcher that you can program to show anything you want. It saved me a lot of time in my life.
 
 ![](https://i.imgur.com/uzq1w5g.png)
 

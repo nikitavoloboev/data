@@ -158,8 +158,7 @@ Some simple rules to follow for myself doing things.
 - Add image fully itself to the repository and reference it if the image is big enough and requires high quality.
 - In screenshots of Alfred prompts and other prompts, show the cursor.
 - Add **Related** section to most repos linking to similar projects either of my own or of other. Not all projects need this.
-- Don't add Thank You clause in _idea_ stage projects.
-- Don't add _Say Thanks_ badge on curated lists.
+- Don't add _say thanks_ badge on curated lists.
 
 ## Markdown
 
@@ -339,8 +338,8 @@ Some simple rules to follow for myself doing things.
 
 ## Licensing
 
-- License my own code under MIT.
-- License curated lists and other things under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+- License my own code under [MIT](https://tldrlegal.com/license/mit-license).
+- License curated lists and other things under [CC0](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal).
 
 ## Prefixing
 

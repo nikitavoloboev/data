@@ -32,6 +32,8 @@ If you found a mistake anywhere in this wiki, I would appreciate your help. You 
 
 I also appreciate any [ideas you have](https://github.com/nikitavoloboev/knowledge/issues/new) on how I can improve this wiki.
 
-## Thank you 💜
+## Thank you
 
 You can support me on [Patreon](https://www.patreon.com/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
+
+[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal) [![Twitter](http://bit.ly/nikitweet)](https://twitter.com/nikitavoloboev)
