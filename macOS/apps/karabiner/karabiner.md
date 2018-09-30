@@ -10,7 +10,7 @@ I take this idea further and define these kind of hyper keys but for **every sin
 
 ## My personal Karabiner setup
 
-I generate my Karabiner config with a ruby script [here](https://github.com/nikitavoloboev/karabiner-generator#readme). It contains all the necessary functions needed to make sticky key and simultaneous key definitions work.
+I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.edn) with [Goku](https://github.com/yqrashawn/GokuRakuJoudo#readme).
 
 ## Notes
 

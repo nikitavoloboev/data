@@ -36,3 +36,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Richard Litt](https://github.com/RichardLitt/knowledge)
 - [Darshan Chaudhary](https://github.com/darshanime/notes#readme)
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
+
+## Links
+
+- [Does anyone else keep their own knowledge wiki?](https://lobste.rs/s/ord0rg/does_anyone_else_keep_their_own_knowledge)
