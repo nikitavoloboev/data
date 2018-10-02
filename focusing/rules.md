@@ -57,7 +57,6 @@ Some simple rules to follow for myself doing things.
 - Be mindful of my habits and temptations. Don't succumb to them and focus on the task at hand.
 - Change location. Work from different places.
 - Look at where I spend my time in Timing and cut those out with Focus and scripts.
-- Less than 1 hour _News_ time every day.
 - Use one screen when coding. Much easier to context switch.
 - Don't listen to distracting music when trying to focus. Instead use [Noizio](http://noiz.io), [Oak](https://www.oakmeditation.com) or have nothing playing at all.
 - Sit up right always. Never slouch.

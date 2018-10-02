@@ -10,7 +10,7 @@
 - Classes are NOT unique.
   - You can use the same class on multiple elements.
   - You can use multiple classes on the same element.
-- [The Dom is just a tree of objects. Css selects parts of that tree and applies attributes to those objects. It's all just code, it's just a shorthand for adding a bunch of attributes to a bunch of objects.](https://www.reddit.com/r/javascript/comments/9jpvon/do_you_even_need_a_css_framework/)
+- [The DOM is just a tree of objects. CSS selects parts of that tree and applies attributes to those objects. It's all just code, it's just a shorthand for adding a bunch of attributes to a bunch of objects.](https://www.reddit.com/r/javascript/comments/9jpvon/do_you_even_need_a_css_framework/)
 
 ## Links
 

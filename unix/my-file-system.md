@@ -14,6 +14,12 @@ I try to keep this folder like `Desktop` always empty. This is the folder where 
 
 I use [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Recent%20Downloads.alfredworkflow?raw=true) to scan through contents of it from Alfred.
 
+## ~/clones
+
+I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I [use km macro](https://medium.com/@nikitavoloboev/insta-cloning-ff5f38eb1d32) that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime Text.
+
+I then filter contents of the folder with [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true).
+
 ## ~/Documents
 
 Most of the files are put into `~/Documents` which is synced with iCloud. Here is how my Documents folder looks like:
@@ -31,14 +37,8 @@ Everything that is code is put into this folder.
 ```Bash
 ~/Documents/src
 ❯ exa
-alfred  bots  clones  curated  games  languages  learn  libs  ml  orgs  other  personal  practice  scripts  test  vim-plugins  web  Xcode
+alfred  bots  curated  games  languages  learn  libs  ml  orgs  other  personal  practice  scripts  test  vim-plugins  web  Xcode
 ```
-
-## ~/Documents/src/clones
-
-I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I [use km macro](https://medium.com/@nikitavoloboev/insta-cloning-ff5f38eb1d32) that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/Documents/src/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime Text.
-
-I then filter contents of the folder with [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true).
 
 ## ~/Documents/src/orgs
 
@@ -91,7 +91,7 @@ alfred-ask-create-share  alfred-awesome-lists  alfred-github  alfred-learn-anyth
 
 ## ~/Documents/src/curated
 
-Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-lists#readme) there where all edits to the `readme.md` files is automatically committed with [Hazel](../macOS/apps/hazel.md).
+Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-lists#readme) there where all edits to the `README.md` files is automatically committed with [Hazel](../macOS/apps/hazel.md).
 
 ```bash
 ~/Documents/src/curated
