@@ -21,7 +21,7 @@ Once I found and understand what it is I want to solve. I look into it more and 
 
 Usually I break things down using [TaskPaper](https://www.taskpaper.com). I break down a problem into series of steps I can approach solving and then go through each of the steps to solve what I originally wanted to solve, modifying and adjusting things in light of newly found insights.
 
-![](https://i.imgur.com/HccybA7.png)
+![](https://i.imgur.com/qng2Qw6.png)
 
 > It often looks like this
 

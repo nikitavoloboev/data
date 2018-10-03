@@ -12,6 +12,7 @@ I love software and non software tools that help me in some way.
 - [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.
 - [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together.
 - [Git.io](https://git.io/) - URL shortener by GitHub.
+- [Sourcegraph](https://github.com/sourcegraph/sourcegraph#readme) - Code search and intelligence, self-hosted and scalable.
 
 ## Other
 
