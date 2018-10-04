@@ -2,7 +2,7 @@
 
 I share many Trello boards publicly as I try have my workflow, ideas and experiences be fully transparent.
 
-![](https://i.imgur.com/4c14OlY.png)
+![](https://i.imgur.com/SWXkMA4.png)
 
 Below is a list of all public Trello boards I share. I don't attach links to most cards as links can be found in [curated lists](https://github.com/learn-anything/curated-lists#readme).
 

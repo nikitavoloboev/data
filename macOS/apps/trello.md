@@ -4,9 +4,9 @@ I use the app a lot to track various ongoing things I have in my life.
 
 I share many boards I have [publicly](../../sharing/my-trello.md).
 
-I nearly always use two labels: **Important** and **Next**. And I mark the cards I am working on and set deadlines on most cards. I can only work on the cards I am assigned to. And a card can't have multiple priority labels. It's either **Important**, **Next** or Assigned (with space).
+I assign myself to the cards I am working on now and filter to see only them by [pressing Q key](https://trello.com/shortcuts). I mark cards I want to work on next with `Next` tag.
 
-Nearly all of my own boards are filtered to show only the cards I am assigned to. ([Press Q on the board](https://trello.com/shortcuts)).
+All of my boards are filtered to show only the cards I am assigned to.
 
 ## Notes
 

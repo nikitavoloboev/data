@@ -4,7 +4,7 @@ As I have fallen in love with having `#18222D` color as my background on Telegra
 
 ## How it looks
 
-![](https://i.imgur.com/iMgxn5p.png)
+![](https://i.imgur.com/520F11f.png)
 
 So far this theme exists for these apps:
 

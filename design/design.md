@@ -19,4 +19,3 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Lona](https://github.com/airbnb/Lona) - Tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
 - [Free Logos](https://github.com/arasatasaygin/openlogos#readme) - Has some nice logos.
 - [Design Languages](https://design-languages.com/) - Curated library for design languages, design systems and front-end frameworks.
-- [Ant Design Pro](https://github.com/ant-design/ant-design-pro#readme) - Out-of-box UI solution for enterprise applications as a React boilerplate.

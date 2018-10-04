@@ -135,6 +135,7 @@ Some simple rules to follow for myself doing things.
 - Write commits in form of: `scope: subject`. Prefix subject with an action (add/remove/fix/update). Use [imperative tense](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg).
 - Commit changes and push before making a release.
 - When making changes to other projects, respect their Git workflow and commit style.
+- Prefix branch names with `fix/` or `feat/` appropriately.
 
 ## GitHub
 
