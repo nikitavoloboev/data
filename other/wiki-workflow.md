@@ -7,7 +7,7 @@ The order with which GitBook renders the files in the sidebar to your left is de
 I write and edit all the markdown files in this wiki from [Sublime Text](../text-editors/sublime-text/sublime-text.md) with [Vim mode](https://github.com/guillermooo/Six).
 
 I use [this Alfred workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/personal/Manage%20wiki.alfredworkflow?raw=true) to quickly search through all the `.md` files that are found in this wiki.
-![](https://i.imgur.com/cMRiq59.png)
+![](https://i.imgur.com/0J2W5cL.png)
 
 This workflow also searches through all folders in this wiki and lets me create new folders inside those folders or create new entries (md files) inside the folders.
 

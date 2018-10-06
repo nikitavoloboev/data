@@ -28,3 +28,5 @@
 - [Kubernetes API conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/api-conventions.md#readme)
 - [Kubeval](https://github.com/garethr/kubeval#readme) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions.
 - [Let's encrypt with GKE instructions](https://github.com/ahmetb/gke-letsencrypt#readme)
+- [Kubernetes for personal projects? No thanks! (2018)](http://carlosrdrz.es/kubernetes-for-small-projects/)
+- [Kubespy](https://github.com/pulumi/kubespy#readme) - Tools for observing Kubernetes resources in real time, powered by Pulumi.

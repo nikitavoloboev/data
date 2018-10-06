@@ -20,3 +20,4 @@ Success comes from not giving up and doing what you love.
 - [9 Minutes of Content That Allow for a Shift in Your Life](https://www.youtube.com/watch?v=CWUsnUgWzHg)
 - [Elon Musk: How To Achieve 10x More Than Your Peers](https://www.youtube.com/watch?v=liJbB_0eCTo)
 - [Farnam Street Principles](https://fs.blog/principles/)
+- [Ask HN: What is your best advice for a junior software developer?](https://news.ycombinator.com/item?id=18128477)

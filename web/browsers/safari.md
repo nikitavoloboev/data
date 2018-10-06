@@ -14,7 +14,7 @@ I also open any of my most used websites using [KM macros](../../macOS/apps/keyb
 
 ## Notes
 
-- It's very useful to turn on `Show full website address` option in settings.
+- It's useful to turn on `Show full website address` option in settings.
 
 ![](https://i.imgur.com/po7kXGS.png)
 

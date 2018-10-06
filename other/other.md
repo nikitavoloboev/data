@@ -16,6 +16,10 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Theremin](http://www.wikiwand.com/en/Theremin)
   - [Carolina Eyck - Painting for theremin and voice](https://www.youtube.com/watch?v=hGo2ZQuBJKQ)
 
+## Notes
+
+- Specify a pick point for delivery if I won't be home during the delivery time.
+
 ## Other
 
 - [Ask HN: “Write your own” or “Build your own” software projects](https://news.ycombinator.com/item?id=16591918)
@@ -33,3 +37,5 @@ Here are some _other_ things that I find interesting that don't have a category 
   - [Rob Pike's talk on it](https://www.youtube.com/watch?v=H74R1eNsAHY)
 - [Beaker browser](https://beakerbrowser.com/)
 - [Casper](https://casper.com/) - Seems like a good mattress.
+- [What are your hobbies?](https://lobste.rs/s/fx3enz/what_are_your_hobbies)
+- [Ask HN: What did you learn the hard way?](https://news.ycombinator.com/item?id=18132736)

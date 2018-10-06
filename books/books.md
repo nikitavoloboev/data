@@ -100,6 +100,7 @@ Below are books I read or started reading. The books with links attached will le
 - [Good novels featuring mathematics and mathematical philosophy?](https://www.reddit.com/r/math/comments/5pgkpm/good_novels_featuring_mathematics_and/)
 - [Math-related pleasure reading books?](https://www.reddit.com/r/math/comments/569bxq/mathrelated_pleasure_reading_books/d8hgly1/)
 - [Ask HN: Non-tech books that have helped you grow professionally?](https://news.ycombinator.com/item?id=12415621)
+- [Ask HN: What are the best textbooks in your field of expertise? (2018)](https://news.ycombinator.com/item?id=18104814)
 
 ## Links
 

@@ -9,3 +9,4 @@
 - [Cleargraph](https://github.com/dsys/cleargraph) - Multi-purpose GraphQL runtime for decentralized applications (dApps) and wallets.
 - [Why We Need Web 3.0](https://breakermag.com/why-we-need-web-3-0/)
 - [Early days in the Manyverse](https://staltz.com/early-days-in-the-manyverse.html)
+- [Why I'm excited about decentralized social networks](https://tinysubversions.com/notes/decentralized-social-networks/)
