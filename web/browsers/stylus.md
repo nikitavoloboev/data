@@ -2,11 +2,11 @@
 
 I prefer to use darker interfaces on websites during evenings. So I change the looks of many websites with Stylus.
 
-I plan to rewrite [Safari Stylish](http://sobolev.us/stylish/) so it works on Safari 12.0 if no one else does it.
+I use [Cascadea](https://cascadea.app) Safari Extension to change the looks of the sites I use to have darker colors in cases where sites don't have them as default. The extension also lets you import any of [Stylish themes](https://userstyles.org) to it.
 
-I don't use Chrome/Firefox much but I use [Stylus](https://github.com/openstyles/stylus#readme) there instead of Stylish as the latter [collects websites you visit](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/).
+I use Chrome only for webdev and I use [Stylus](https://github.com/openstyles/stylus#readme) there instead of Stylish as the latter [collects websites you visit](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/).
 
-Below are themes I like using with it.
+Below are themes I like using:
 
 ## [GitHub Dark](https://userstyles.org/styles/37035/github-dark)
 
@@ -28,7 +28,7 @@ Below are themes I like using with it.
 
 ![](https://i.imgur.com/NKI5yj2.png)
 
-## [SoundCloud Dark](https://i.imgur.com/hjCCD1E.png)
+## [SoundCloud Dark](https://userstyles.org/styles/90894/soundcloud-pitch-black)
 
 ![](https://i.imgur.com/hjCCD1E.png)
 

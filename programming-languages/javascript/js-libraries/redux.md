@@ -15,3 +15,4 @@ So:
 - [React Redux Style guide](https://github.com/iraycd/React-Redux-Styleguide#readme)
 - [Mark Erikson - The Fundamentals of Redux](https://www.youtube.com/watch?v=ewelU8WHXQ4&index=7&list=PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP)
 - [Redux Persist](https://github.com/rt2zz/redux-persist#readme) - Persist and rehydrate a Redux store.
+- [The Suspense is Killing Redux](https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430)
