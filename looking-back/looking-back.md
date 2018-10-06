@@ -14,7 +14,8 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 - [June](2018/2018-june.md) - University exams. Working on LA's design and more minimizing.
 - [July](2018/2018-july.md) - Joined Deedmob. Happiest month in a long while.
 - [August](2018/2018-august.md) - Moved to Amsterdam.
-- [September](../looking-back/2018/2018-september.md) - Learning JavaScript.
+- [September](../looking-back/2018/2018-september.md) - Learning JavaScript. Moved Karabiner to Goku.
+- [October](../looking-back/2018/2018-october.md)
 
 ## [2017](2017/2017.md)
 

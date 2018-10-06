@@ -228,7 +228,7 @@
       - [Chrome DevTools](web/browsers/google-chrome/chrome-dev-tools.md)
     - [Firefox](web/browsers/firefox.md)
     - [Bookmarklets](web/browsers/bookmarklets.md)
-    - [Stylus](web/browsers/stylus.md)
+    - [Stylish themes](web/browsers/stylish-themes.md)
   - [Static sites](web/static-sites/static-sites.md)
     - [Hugo](web/static-sites/hugo.md)
   - [Node.js](web/nodejs/nodejs.md)
