@@ -1,5 +1,9 @@
 # Swift libraries
 
+## Animation
+
+- [Anim](https://github.com/onurersel/anim#readme) - Swift animation library for iOS, tvOS and macOS.
+
 ## Web
 
 - [Alomofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking.

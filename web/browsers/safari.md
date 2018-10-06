@@ -12,6 +12,8 @@ I use [this amazing workflow](https://github.com/deanishe/alfred-safari-assistan
 
 I also open any of my most used websites using [KM macros](../../macOS/apps/keyboard-maestro/km-macros.md). The macro opens the website I specify or if the website is open anywhere in Safari and will jump between the tabs of the website. I use this macro for my most used websites and I can open any website I wish with a single keypress. Both open and switch between various websites.
 
+I mention Safari Extensions I use [here](https://github.com/nikitavoloboev/my-mac-os#safari-extensions).
+
 ## Notes
 
 - It's useful to turn on `Show full website address` option in settings.
