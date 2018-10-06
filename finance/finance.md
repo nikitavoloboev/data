@@ -24,7 +24,7 @@ I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id105915
 
 ![](https://i.imgur.com/aq0qRW1.jpg)
 
-Actual will also soon let you automate setting of budgets in the future so that my categories for Food will have a fixed budget every month.
+Actual will also soon let you automate setting of budgets in the future so that some of my categories like Food will have a fixed budget every month.
 
 I also use [N26](https://n26.com/en-eu/) as my online bank which I love.
 

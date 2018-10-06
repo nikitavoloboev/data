@@ -109,7 +109,6 @@ Here are few more things I liked, design wise.
 - [Monzo docs](https://monzo.com/docs/#authentication) - Love the look of it.
 - [Pretty awesome fluid animation](https://iohk.io/)
 - [Book of Bad Arguments](https://bookofbadarguments.com/)
-- [Some nice wallpapers](https://gumroad.com/jmdenis)
 - [Webfont of the typeface used in Edward Tufte’s books](https://edwardtufte.github.io/et-book/)
 
 ## Links
