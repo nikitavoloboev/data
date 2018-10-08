@@ -45,8 +45,7 @@ The number between brackets shows the year I created the repo in. Repos with ðŸŒ
 
 ## Themes
 
-- [Night Blue Vim (2018)](https://github.com/nikitavoloboev/vim-night-blue#readme)
-- [Night Blue VS Code (2018)](https://github.com/nikitavoloboev/vscode-night-blue#readme)
+- [Monokai Night Vim (2018)](https://github.com/nikitavoloboev/vim-monokai-night#readme)
 
 ## Web
 

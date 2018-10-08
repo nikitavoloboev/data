@@ -26,8 +26,9 @@ Coupled with many [small workflows](https://github.com/nikitavoloboev/small-work
 
 ## Alfred theme
 
-I use [Night Blue theme](https://www.alfredapp.com/extras/theme/24fhXfBld7/). Here is how it looks:
-![](https://i.imgur.com/OPd7GGA.png)
+I use [Monokai Night theme](https://www.alfredapp.com/extras/theme/PQVZpeg4Zi/). Here is how it looks:
+
+![](https://i.imgur.com/lNpfhQM.png)
 
 ### Symlink workflows
 
