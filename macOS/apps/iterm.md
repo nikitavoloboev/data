@@ -4,13 +4,7 @@ Use Zsh as my shell together with [Antibody](https://github.com/getantibody/anti
 
 Assigned w + j with [Karabiner](karabiner/karabiner.md) to open the app from Keyboard Maestro in seconds.
 
-I made my own [Night Blue theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it that looks like this:
-
-![](https://i.imgur.com/Emw7NAj.png)
-
-It goes well with [Pure Zsh plugin](https://github.com/sindresorhus/pure) and [Night Blue theme for Vim](https://github.com/nikitavoloboev/vim-night-blue#readme).
-
-![](https://i.imgur.com/DR2E94n.png)
+I made my own [Monokai Night theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it.
 
 ## My workflow
 

@@ -36,7 +36,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Looks
 
-- [Night Blue theme](https://github.com/nikitavoloboev/vim-night-blue)
+- [Monokai Night theme](https://github.com/nikitavoloboev/vim-monokai-night#readme)
 - [Lightline](https://github.com/itchyny/lightline.vim) - Light and configurable statusline/tabline.
 
 ## Vim
