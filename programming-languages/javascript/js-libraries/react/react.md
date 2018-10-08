@@ -8,6 +8,7 @@
   - Retained-mode caches by default (often in opaque ways), which was the whole point (only re-render parts of the scene that have changed). You can roll your own caching for immediate mode, usually via some kind of invalidation scheme (use image for a node if nothing changed for this component, otherwise call that node's re-render method). On the other side, projects like React takes the retained-mode DOM and make it look more like an immediate-mode abstraction without sacrificing so much performance.
 - The core premise for React is that UIs are simply a projection of data into a different form of data.
 - [A React component is simply a JavaScript function that takes an object of arbitrary inputs known as props and returns React elements describing what should be rendered on the UI.](https://blog.logrocket.com/a-complete-guide-to-default-props-in-react-984ea8e6972d)
+- Stateless components don't have `this`, just have props.
 
 ## Links
 
