@@ -16,6 +16,8 @@ Below is a list of extensions I use.
 - [Subtle Match Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets) - Underlined matching brackets and more.
 - [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable..
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Convenient way of creating, duplicating, moving, renaming and deleting files and directories.
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
+- [Bump](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-bump) - Bump your project's version and update the changelog. Opinionated but configurable.
 
 ## Deploy
 
@@ -119,6 +121,14 @@ Below is a list of extensions I use.
 - [Terminal tabs](https://marketplace.visualstudio.com/items?itemName=Tyriar.terminal-tabs) - Adds tabs for each terminal process to the status bar.
 - [File Icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons) - File specific icons for improved visual grepping.
 - [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - Highlight TODO, FIXME and other annotations within your code.
+- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support.
+- [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines) - Sorts lines of text.
+- [map-replace.js](https://marketplace.visualstudio.com/items?itemName=Yukai.map-replace-js) - Replace multi-selection text with custom JavaScript function.
+- [Unique Lines](https://marketplace.visualstudio.com/items?itemName=bibhasdn.unique-lines) - Keep unique lines of text and remove duplicates from current selection.
+- [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
+- [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) - Language support for .gitignore files.
+- [vscode-cli](https://marketplace.visualstudio.com/items?itemName=pkosta2006.vscode-cli) - Execute vscode command from vscode command prompt.
+- [Graphviz Preview](https://marketplace.visualstudio.com/items?itemName=EFanZh.graphviz-preview) - Preview Graphviz (DOT) files.
 
 ## Git
 
@@ -145,6 +155,10 @@ Below is a list of extensions I use.
 ## Elixir
 
 - [ElixirLS](https://github.com/JakeBecker/vscode-elixir-ls) - Elixir support and debugger.
+
+## Markdown
+
+- [Markdown Preview GitHub Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) - Changes VS Code's built-in markdown preview to match GitHub's style.
 
 ## Themes
 

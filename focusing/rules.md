@@ -172,7 +172,7 @@ Some simple rules to follow for myself doing things.
 ## Wiki
 
 - Share everything I know and need to reference in the wiki. Document my life and reflect.
-- Describe links on the same line with `-` separator (if needs more description, then sub dash).
+- Describe links on the same line with `-` separator.
 - Interlink entries between each other within wiki where necessary. Don't over do it.
 - Don't repeat myself or anyone else. If something has already been said either by me or someone else, link to it (especially in this wiki).
 - Try to use other services for logging and other things where possible. Like in the case of [Letterboxd](https://letterboxd.com/nikitavoloboev/) and its Lists feature. It's better to make lists there and link to the lists from wiki. Find the right tool for the job. The wiki should act as a glue between things.
@@ -411,7 +411,7 @@ Some simple rules to follow for myself doing things.
 ## Trello
 
 - Share boards publicly that contain no sensitive or private information.
-- Order of importance for cards: **Watching** -> **Next** -> **Important** -> No label.
+- Order of importance for cards: **Watching** -> **Next** -> No label.
 - Add links to wiki or [curated lists](https://github.com/learn-anything/curated-lists#readme) over adding them to Trello where appropriate.
 
 ## Other
