@@ -2,9 +2,9 @@
 
 I love IRC and this is the best macOS client for it.
 
-I created my own [Night Blue theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/textual#readme) for it that I love.
+I created my own [Monokai Night theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/textual#readme) for it that I love.
 
-![](https://i.imgur.com/YgNVUMH.png)
+![](https://i.imgur.com/Lpozk8X.png)
 
 ## Notes
 

@@ -6,7 +6,7 @@ Having a unified color scheme across all the editors and even some apps I use is
 
 ## How it looks
 
-![](https://i.imgur.com/520F11f.png)
+![](https://i.imgur.com/PsZMur5.jpg)
 
 So far this theme exists for these apps:
 

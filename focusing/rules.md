@@ -59,6 +59,7 @@ Some simple rules to follow for myself doing things.
 - Look at where I spend my time in Timing and cut those out with Focus and scripts.
 - Use one screen when coding. Much easier to context switch.
 - Don't listen to distracting music when trying to focus. Instead use [Noizio](http://noiz.io), [Oak](https://www.oakmeditation.com) or have nothing playing at all.
+- Use noise canceling headphones if surroundings are too noisy.
 - Sit up right always. Never slouch.
 
 ## Learn
@@ -373,6 +374,8 @@ Some simple rules to follow for myself doing things.
 - Only run apps I actually need. Quit everything else.
 - Delete apps I am not using and have no need over. Only use what I need or may need.
 - Have full control over what is going on my system to a reasonable degree. Don't use/install things I do not actually need.
+- Don't force empty trash. Erase trashed items automatically after a week.
+- Yellow arrows & text is much nicer than red when annotating on screenshots with Annotate.
 
 ## Looking back
 
@@ -404,10 +407,6 @@ Some simple rules to follow for myself doing things.
 ## Backups
 
 - Data that is not backed up is lost data. Automate backups.
-
-## macOS
-
-- Don't force empty trash. Erase trashed items automatically after a week.
 
 ## Trello
 

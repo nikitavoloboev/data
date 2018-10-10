@@ -4,7 +4,7 @@ Being aware of time is something I always strive to do. Planning my time in adva
 
 I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/birthday#readme) for fun to remind myself how long I have lived on this planet.
 
-![](https://i.imgur.com/VzONPAT.png)
+![](https://i.imgur.com/R8A6OUr.png)
 
 ## Links
 

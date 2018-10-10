@@ -280,6 +280,7 @@
   - [Nomad](travel/nomad.md)
   - [Backpacks](travel/backpacks.md)
   - [Finding home](travel/finding-home.md)
+  - [Transportation](travel/transportation.md)
 - [Business](business/business.md)
   - [Startups](business/startups/startups.md)
   - [Landing pages](business/landing-pages.md)

@@ -17,7 +17,8 @@ My always open tabs are:
 3. `vim` - Contains my [Vim config](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). Bound to `v+a`.
 
 All other tabs are added on top of this `default` configuration. I use [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions:
-![](https://i.imgur.com/Yz1PVpi.png)
+
+![](https://i.imgur.com/1fXYpNL.png)
 
 I use VS Code's integrated terminal when working on various code projects.
 
