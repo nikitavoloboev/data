@@ -27,3 +27,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [New stuff from 2018 WWDC](https://mackuba.eu/2018/09/07/new-stuff-from-wwdc-2018/)
 - [The Evolution of the App Store and the App Business](https://denzhadanov.com/the-evolution-of-the-app-store-and-the-app-business-b16b3eddfa57)
 - [Some beautiful paid wallpapers for iPhones](https://gumroad.com/jmdenis)
+- [Building Fluid Interfaces](https://medium.com/@nathangitter/building-fluid-interfaces-ios-swift-9732bb934bf5)

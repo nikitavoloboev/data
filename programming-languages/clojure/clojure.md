@@ -9,3 +9,5 @@ Don't use it but [Luminus](http://www.luminusweb.net/), [ClojureScript](clojures
 - [Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
 - [Полный стэк на "одном" языке](https://www.youtube.com/watch?v=b-Eq4YV4uwc&feature=youtu.be)
 - [cljfmt](https://github.com/weavejester/cljfmt#readme) - Tool for formatting Clojure code.
+- [HN: A year in clojure](https://news.ycombinator.com/item?id=18160390)
+- [Clojure vs. The Static Typing World](https://lispcast.com/clojure-and-types/)

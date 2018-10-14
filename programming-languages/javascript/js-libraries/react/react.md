@@ -37,3 +37,4 @@
 - [React Events Live Cheatsheet](https://frontarm.com/toolbox/react-events-cheatsheet/)
 - [Complete guide to default props in React](https://blog.logrocket.com/a-complete-guide-to-default-props-in-react-984ea8e6972d)
 - [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
+- [Introduction to React Book](https://survivejs.com/react/introduction/)

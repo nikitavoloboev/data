@@ -12,3 +12,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Drive-by Haskell Contributions by Neil Mitchell](https://www.youtube.com/watch?v=6kGLHXsUQD4) - Great talk on how to start contributing to projects.
 - [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#readme)
 - [Taking an indefinite sabbatical from my projects](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/)
+- [The Hard Parts of Open Source by Evan Czaplicki (2018)](https://www.youtube.com/watch?feature=youtu.be&v=o_4EX4dPppA&app=desktop)

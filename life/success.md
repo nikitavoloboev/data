@@ -22,3 +22,5 @@ Success comes from not giving up and doing what you love.
 - [Farnam Street Principles](https://fs.blog/principles/)
 - [Ask HN: What is your best advice for a junior software developer?](https://news.ycombinator.com/item?id=18128477)
 - [It Doesn't Have to Be Crazy at Work](https://basecamp.com/books/calm)
+- [What was one thing that made you a faster/better developer?](https://lobste.rs/s/evjmpy/what_was_one_thing_made_you_faster_better)
+- [Ask HN: 40+ Career Advice?](https://news.ycombinator.com/item?id=18208076)
