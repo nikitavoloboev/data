@@ -8,3 +8,4 @@ Don't use it but [Luminus](http://www.luminusweb.net/), [ClojureScript](clojures
 - [REPL](https://tonsky.livejournal.com/316868.html) - Is in Russian but describes why REPL development is so amazing.
 - [Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
 - [Полный стэк на "одном" языке](https://www.youtube.com/watch?v=b-Eq4YV4uwc&feature=youtu.be)
+- [cljfmt](https://github.com/weavejester/cljfmt#readme) - Tool for formatting Clojure code.

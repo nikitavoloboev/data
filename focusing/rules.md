@@ -113,7 +113,7 @@ Some simple rules to follow for myself doing things.
 
 - Do emails in burst. Bring my Inbox to 0 every day. Action on each email.
 - Label and archive important emails. Delete emails otherwise.
-- Star emails that need my attention and I need to reference.
+- Pin emails that need my attention and I need to reference.
 - Only show relevant emails to me in Inbox.
 - Don't erase trashed email manually. Erase trashed emails of over a month automatically.
 

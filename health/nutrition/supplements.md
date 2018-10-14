@@ -2,8 +2,8 @@
 
 ## Taking now
 
-- [Vitamin D](https://www.amazon.de/dp/B01BOWVK2O/ref=pe_3044161_185740101_TE_item) 4000 ug (Morning)
-- [Vitamin B12](https://www.amazon.de/dp/B01AG3V4Q4/ref=pe_3044161_185740101_TE_item) 1000 ug (Morning)
+- [Vitamin D](https://www.bol.com/nl/p/now-foods-vitamin-d-3-2-000-iu-240-softgels/9200000076792968/) 4000 ug (Morning)
+- [Vitamin B12](https://www.bol.com/nl/p/body-fit-vitamine-b12-1000-mcg-per-tablet-60-zuigtabletten/9200000084936727/) 1000 ug (Morning)
 
 Everything else I try to get from [food](foods.md).
 

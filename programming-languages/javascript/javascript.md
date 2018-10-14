@@ -31,3 +31,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [Introduction to ES6 Promises – The Four Functions You Need To Avoid Callback Hell](http://jamesknelson.com/grokking-es6-promises-the-four-functions-you-need-to-avoid-callback-hell/)
 - [Nice ES6/Promises/React cheat sheets](http://jamesknelson.com/thank-you-for-subscribing/)
 - [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - Tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript.
+- [WallabyJS](https://wallabyjs.com/docs/) - Integrated continuous testing tool for JavaScript.
