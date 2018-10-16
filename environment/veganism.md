@@ -20,3 +20,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Why I'm A Vegan](https://www.youtube.com/watch?v=6DgUb9w8mOY)
 - [Why doctors don't recommend veganism: Dr Michael Greger](https://www.youtube.com/watch?v=ajhX5jWmlL0)
 - [Why Meat is the Best Worst Thing in the World](https://www.youtube.com/watch?v=NxvQPzrg2Wg)
+- [Should we go vegan?](https://en.wikiversity.org/wiki/Should_we_go_vegan%3F)

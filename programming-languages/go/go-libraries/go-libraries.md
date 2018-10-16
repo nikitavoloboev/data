@@ -41,3 +41,4 @@
 - [jstream](https://github.com/bcicen/jstream) - Streaming JSON parser.
 - [cmux](https://github.com/soheilhy/cmux) - Connection multiplexer for GoLang: serve different services on the same port.
 - [go-cloud](https://github.com/google/go-cloud) - Library and tools for open cloud development in Go.
+- [go-jsonschema](https://github.com/atombender/go-jsonschema) - Tool to generate Go data types from JSON Schema definitions.

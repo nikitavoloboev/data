@@ -32,3 +32,5 @@
 - [Math for CS MIT Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
 - [MSC2010](https://mathscinet.ams.org/msc/pdfs/classifications2010.pdf) - Huge catalog of math topics.
 - [Cambridge math notes](https://dec41.user.srcf.net/notes/)
+- [Mathematics as thought](https://aeon.co/essays/the-secret-intellectual-history-of-mathematics)
+- [Penrose](https://github.com/penrose/penrose#readme) - Language-based platform for creating beautiful mathematical diagrams.

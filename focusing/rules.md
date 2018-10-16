@@ -143,6 +143,7 @@ Some simple rules to follow for myself doing things.
 - Add appropriate topics to each repo. Add the languages used in the repo as topics.
 - Make many experiments and share them.
 - Use relative links instead of hard wired links. For example in GitHub you can use `../issues/` to reference issues of current repo from readme.
+- Decouple the issue/pr in the GitHub issue/PR itself. Using Bee app. Update it as I am working.
 
 ## GitHub Gists
 
@@ -376,6 +377,7 @@ Some simple rules to follow for myself doing things.
 - Have full control over what is going on my system to a reasonable degree. Don't use/install things I do not actually need.
 - Don't force empty trash. Erase trashed items automatically after a week.
 - Yellow arrows & text is much nicer than red when annotating on screenshots with Annotate.
+- Don't play games on mac. Use more suitable platforms for it like Windows/PS4.
 
 ## Looking back
 
