@@ -18,7 +18,7 @@ My always open tabs are:
 
 All other tabs are added on top of this `default` configuration. I use [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions:
 
-![](https://i.imgur.com/1fXYpNL.png)
+![](https://i.imgur.com/kdo0x8Y.png)
 
 I use VS Code's integrated terminal when working on various code projects.
 

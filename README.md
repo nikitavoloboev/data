@@ -6,7 +6,7 @@ If this is your first time visiting this wiki, take a look [here](meta/meta.md) 
 
 ## Using the wiki well
 
-In the left corner you can make searches for what content I already indexed or you can simply explore the tree view to the left.
+You can quickly search the contents of this entire wiki above and or you can simply explore the tree view to the left.
 
 You can access any entry from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme) workflow.
 

@@ -17,3 +17,4 @@ And I really like [NixOS](linux/nixos.md) and it's [nix package manager](../pack
 - [OS Dev](https://wiki.osdev.org/Main_Page)
 - [Raspberry Pi OS](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi.
 - [Create OS from scratch](https://github.com/cfenollosa/os-tutorial#readme)
+- [How to Make a Computer Operating System](https://samypesse.gitbooks.io/how-to-create-an-operating-system/content/)
