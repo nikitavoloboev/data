@@ -32,3 +32,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [Nice ES6/Promises/React cheat sheets](http://jamesknelson.com/thank-you-for-subscribing/)
 - [JavaScript Visualizer](https://tylermcginnis.com/javascript-visualizer/) - Tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript.
 - [WallabyJS](https://wallabyjs.com/docs/) - Integrated continuous testing tool for JavaScript.
+- [ES6 features](http://es6-features.org/)
