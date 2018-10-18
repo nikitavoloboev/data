@@ -11,6 +11,7 @@ What I find important in life changes as I gain more experience but I always try
 I keep a [Trello board](https://trello.com/b/HotsLGsc) where I list things I own in my life. I mark items that I no longer need with `Sell` tag as well as items I need to upgrade with `Upgrade`. I try to make sure that the items I do own fit into one backpack so I can move to any place in the world with no effort.
 
 Here is how that board looks for me:
+
 ![](https://i.imgur.com/xzyxiap.png)
 
 I put the prices of the items I buy as descriptions as well how I use each of them & the link where I bought the item from. I then use [FB Market Place](https://facebook.com/marketplace) to sell off the things I don't need.

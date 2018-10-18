@@ -16,6 +16,7 @@ I keep a [Trello board](https://trello.com/b/Wtr04eGQ) of podcasts I am listenin
 ## Interesting episodes
 
 - [James Long - Seeking Deep Knowledge](http://developeronfire.com/podcast/episode-329-james-long-seeking-deep-knowledge)
+- [defn - #40 - Nikita Prokopov aka @tonsky](https://soundcloud.com/defn-771544745/40-nikita-prokopov-aka-tonsky)
 
 ## Recommendations
 

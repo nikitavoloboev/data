@@ -23,3 +23,6 @@
 - [Min](https://github.com/owenversteeg/min) - World's smallest (995 bytes) CSS framework.
 - [Emotion](https://emotion.sh/) - Performant and flexible CSS-in-JS library.
 - [Linaria](https://github.com/callstack/linaria#readme) - Zero-runtime CSS in JS library.
+- [Why We Use Styled Components at Decisiv](https://medium.com/@_alanbsmith/why-we-use-styled-components-at-decisiv-a8ac6e1507ac)
+- [The case for CSS modules - Mark Dalgleish](https://www.youtube.com/watch?v=zR1lOuyQEt8)
+- [Michael Chan - Inline Styles: themes, media queries, contexts, & when it's best to use CSS (2015)](https://www.youtube.com/watch?v=ERB1TJBn32c)

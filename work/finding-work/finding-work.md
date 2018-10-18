@@ -28,6 +28,7 @@ My favorite way to find interesting work is searching through [AngelList](https:
 ## Notes
 
 - Sort by newest jobs in websites and check regularly and apply then.
+- [If asked previous salary, you can answer `As per contract, I'm not at liberty to disclose my current salary`.](https://www.reddit.com/r/cscareerquestionsEU/comments/9ohap7/uk_company_asking_about_current_salary_up_front/)
 
 ## Links
 
