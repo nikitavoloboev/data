@@ -34,6 +34,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [The Catsters YouTube channel](https://www.youtube.com/user/TheCatsters) - Videos on category theory.
 - [ELI 5: Category Theory](https://www.reddit.com/r/explainlikeimfive/comments/8rsvqw/eli5_what_is_category_theory/)
 - [A Perspective on Higher Category Theory](https://golem.ph.utexas.edu/category/2010/03/a_perspective_on_higher_catego.html)
+- [Category theory foundations 1.0 course](https://www.youtube.com/watch?v=BF6kHD1DAeU&list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb)
 
 ## Images
 

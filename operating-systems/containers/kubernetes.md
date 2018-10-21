@@ -30,3 +30,4 @@
 - [Let's encrypt with GKE instructions](https://github.com/ahmetb/gke-letsencrypt#readme)
 - [Kubernetes for personal projects? No thanks! (2018)](http://carlosrdrz.es/kubernetes-for-small-projects/)
 - [Kubespy](https://github.com/pulumi/kubespy#readme) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
+- [Terraform Kubernetes provider](https://github.com/terraform-providers/terraform-provider-kubernetes)

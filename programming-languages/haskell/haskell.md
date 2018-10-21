@@ -43,3 +43,4 @@
 - [Snack](https://github.com/nmattia/snack#readme) - Nix-based incremental build tool for Haskell projects.
 - [What exactly makes the Haskell type system so revered (vs say, Java)?](https://softwareengineering.stackexchange.com/questions/279316/what-exactly-makes-the-haskell-type-system-so-revered-vs-say-java)
 - [HN: Introducing Haskell to a Company](https://news.ycombinator.com/item?id=18118874)
+- [Haskell's kind system - a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)

@@ -26,3 +26,5 @@
 - [Why We Use Styled Components at Decisiv](https://medium.com/@_alanbsmith/why-we-use-styled-components-at-decisiv-a8ac6e1507ac)
 - [The case for CSS modules - Mark Dalgleish](https://www.youtube.com/watch?v=zR1lOuyQEt8)
 - [Michael Chan - Inline Styles: themes, media queries, contexts, & when it's best to use CSS (2015)](https://www.youtube.com/watch?v=ERB1TJBn32c)
+- [Understanding the CSS box model for inline elements](https://hacks.mozilla.org/2015/03/understanding-inline-box-model/)
+- [astroturf](https://github.com/4Catalyzer/astroturf) - An "artificial" css-in-js for those that want it all.

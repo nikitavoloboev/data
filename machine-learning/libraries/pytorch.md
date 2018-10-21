@@ -8,3 +8,4 @@
 - [PyTorch GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
 - [PyTorch examples](https://github.com/pytorch/examples#readme)
 - [Grokking PyTorch](https://github.com/Kaixhin/grokking-pytorch#readme)
+- [Awesome PyTorch list](https://github.com/bharathgs/Awesome-pytorch-list#readme)

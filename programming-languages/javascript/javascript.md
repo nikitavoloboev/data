@@ -34,3 +34,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [WallabyJS](https://wallabyjs.com/docs/) - Integrated continuous testing tool for JavaScript.
 - [ES6 features](http://es6-features.org/)
 - [The State of JavaScript - The State of the Web (2018)](https://www.youtube.com/watch?v=i5R7giitymk)
+- [A Quick Tour Of ES6 (Or, The Bits You’ll Actually Use)](http://jamesknelson.com/es6-the-bits-youll-actually-use/)
