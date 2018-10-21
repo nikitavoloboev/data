@@ -5,6 +5,7 @@ The app I use to keep up with my RSS feeds. I use RSS to follow my favorite blog
 I use [Inoreader](https://www.inoreader.com) to sync [blogs I follow](../../research/blogs.md) between phone and mac.
 
 Here is how Reeder looks like for me:
+
 ![](https://i.imgur.com/UBVuAIC.png)
 
 ## Links

@@ -1,6 +1,6 @@
 # [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
 
-[MDN](https://developer.mozilla.org/bm/docs/Web/JavaScript) and [You don't know JS](https://github.com/getify/You-Dont-Know-JS#reame) are great intros.
+[JavaScript. The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/), [MDN](https://developer.mozilla.org/bm/docs/Web/JavaScript) and [You don't know JS](https://github.com/getify/You-Dont-Know-JS#reame) are great intros.
 
 I love using [Prettier](https://github.com/prettier/prettier) for never having to think about styling code again. [AirBnb](https://github.com/airbnb/javascript) style guide is pretty awesome.
 

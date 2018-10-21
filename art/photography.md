@@ -26,3 +26,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 - [Artsy: Atmospheric Landscapes](https://www.artsy.net/gene/atmospheric-landscapes)
 - [Artsy: Landscape and Nature Photography](https://www.artsy.net/gene/landscape-and-nature-photography)
 - [Artsy: Color Photography](https://www.artsy.net/gene/color-photography)
+- [What is parallelism and how to use it to improve your photography](https://medium.com/@zellersamuel/what-is-parallelism-and-how-to-use-it-to-improve-your-photography-652240f9408f?sk=75b2840481296e121617627ba8f98e55)

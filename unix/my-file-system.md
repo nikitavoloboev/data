@@ -63,6 +63,7 @@ bash-test  c-test  clojure-test  go-test  haskell-test  js-test  lisp-test  pyth
 ```
 
 I then have KM macros to quickly open these files:
+
 ![](https://i.imgur.com/s2RJt5y.png)
 
 And I use [VS Code CodeRunner](https://github.com/formulahendry/vscode-code-runner) extension to quickly run code in those specific files. Makes prototyping ideas and libraries a breeze.

@@ -40,3 +40,4 @@
 - [Machine Learning cheatsheets for Stanford's CS 229](https://github.com/afshinea/stanford-cs-229-machine-learning#readme)
 - [RAAIS 2018 - François Chollet (Creator of Keras)](https://www.youtube.com/watch?v=2L2u303FAs8)
 - [KubeFlow](https://github.com/kubeflow/kubeflow#readme) - Machine Learning Toolkit for Kubernetes.
+- [MIT AGI: Deep Learning (Yoshua Bengio) (2018)](https://www.youtube.com/watch?v=azOmzumh0vQ)

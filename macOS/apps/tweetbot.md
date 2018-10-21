@@ -14,6 +14,7 @@ The app is always full screen for me. And is split into four columns.
 - Fourth column: [Other](https://twitter.com/nikitavoloboev/lists/other1) list. Tweets with least priority to me.
 
 Here is how that all looks together for me:
+
 ![](https://i.imgur.com/n60bl8w.jpg)
 
 ## Links

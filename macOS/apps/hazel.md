@@ -5,7 +5,8 @@ I share all my Hazel rules and how I use them [here](https://github.com/nikitavo
 ## Notes
 
 - If you want to have your rules to be applied onto subfolders as well as the directory chosen, add this rule.
-  ![](https://i.imgur.com/QnLk3MT.png)
+
+![](https://i.imgur.com/QnLk3MT.png)
 
 - If extensions are hidden, don't add extensions in the rule editor too.
 
