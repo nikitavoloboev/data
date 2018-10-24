@@ -1,6 +1,6 @@
 # [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Bulma](https://bulma.io) framework seems nice. [Understanding static and relative positioning](https://webplatform.github.io/docs/tutorials/static_and_relative_positioning/) and [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS) are great intros.
+[Bulma](https://bulma.io) framework seems nice.
 
 ## Notes
 
@@ -20,6 +20,7 @@
 
 ## Links
 
+- [Understanding static and relative positioning](https://webplatform.github.io/docs/tutorials/static_and_relative_positioning/)
 - [Code guide by @mdo](http://codeguide.co/)
 - [CSS reference](https://cssreference.io/)
 - [CSS Blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
