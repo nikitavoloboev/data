@@ -11,3 +11,4 @@
 - [Cargo generate](https://github.com/ashleygwilliams/cargo-generate) - Developer tool to help you get up and running quickly with a new Rust project by leveraging a pre-existing git repository as a template.
 - [Rust Won't Save You From All Bugs](https://www.yoshuawuyts.com/rust-bugs/)
 - [Desktop and editor setup for Rust development (2018)](https://www.youtube.com/watch?v=ycMiMDHopNc)
+- [Rust can be difficult to learn and frustrating, but it’s also the most exciting thing in software development in a long time (2018)](https://lobste.rs/s/hv4mio/rust_can_be_difficult_learn_frustrating)
