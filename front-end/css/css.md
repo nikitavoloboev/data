@@ -1,6 +1,6 @@
 # [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Bulma](https://bulma.io) framework seems nice.
+[Bulma](https://bulma.io) framework seems nice. [Understanding static and relative positioning](https://webplatform.github.io/docs/tutorials/static_and_relative_positioning/) and [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS) are great intros.
 
 ## Notes
 
@@ -11,6 +11,12 @@
   - You can use the same class on multiple elements.
   - You can use multiple classes on the same element.
 - [The DOM is just a tree of objects. CSS selects parts of that tree and applies attributes to those objects. It's all just code, it's just a shorthand for adding a bunch of attributes to a bunch of objects.](https://www.reddit.com/r/javascript/comments/9jpvon/do_you_even_need_a_css_framework/)
+- [Always design your CSS format from the inside out](https://www.quora.com/What-is-the-best-way-to-prevent-divs-from-overlapping-I-have-3-divs-The-First-div-changes-its-size-and-overlaps-the-second-one-which-is-a-set-of-images)
+  - format the elements within their container so that they look correct regardless of the size of the container.
+  - similarly format those containers within their own containers
+  - repeat until `<body>` is the containers
+  - never use absolute widths (px, in, cm, etc.) for anything
+- body tag takes up the whole width and height of the browser screen.
 
 ## Links
 

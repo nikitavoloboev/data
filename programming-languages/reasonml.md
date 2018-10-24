@@ -5,3 +5,4 @@
 ## Links
 
 - [Exploring ReasonML](http://reasonmlhub.com/exploring-reasonml/toc.html)
+- [genType](https://github.com/cristianoc/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.

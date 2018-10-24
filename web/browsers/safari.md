@@ -10,7 +10,7 @@ As it is my most used app, I like to script and automate as much of my use of it
 
 I use [this amazing workflow](https://github.com/deanishe/alfred-safari-assistant) to quickly jump between my currently active Safari tabs as well as search through my history and bookmarks.
 
-I also open any of my most used websites using [KM macros](../../macOS/apps/keyboard-maestro/km-macros.md). The macro opens the website I specify or if the website is open anywhere in Safari and will jump between the tabs of the website. I use this macro for my most used websites and I can open any website I wish with a single keypress. Both open and switch between various websites.
+I also open any of my most used websites using [KM macros](../../macOS/apps/keyboard-maestro/km-macros.md). The macro opens the website I specify or if the website is open anywhere in Safari and will jump between the tabs of the website. I use this macro for my most used websites and I can open any website I wish with a single keypress. Both open and switch between various websites. That includes jumping between `localhost` sites as I like using Safari for web development debugging.
 
 I mention Safari Extensions I use [here](https://github.com/nikitavoloboev/my-mac-os#safari-extensions).
 

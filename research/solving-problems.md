@@ -33,7 +33,7 @@ In order to make sure I do one task at a time and not get distracted I use [this
 
 ![](https://i.imgur.com/kE0NkxH.png)
 
-# 4. Solve the problem
+## 4. Solve the problem
 
 As mentioned in [research](research.md), I mostly use Google for searching mixed in with DuckDuckGo. I heavily use Dash for documentation and Dictionary for searching the wiki. I also use IRC and various forums specific to the problem I am solving.
 

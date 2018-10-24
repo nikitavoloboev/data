@@ -1,6 +1,6 @@
 # [Google Chrome](https://www.google.com/chrome/)
 
-I use this browser only for web development.
+I use [Google Chrome Canary](https://www.google.com/chrome/canary/) browser only for web development.
 
 I use [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad) theme and [Empty New Black Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp?hl=en).
 

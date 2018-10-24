@@ -8,3 +8,5 @@
 - [Introduction to LoRa](https://www.youtube.com/watch?v=8Oxcp9wQQnk)
 - [LoRa crash course by Thomas Telkamp](https://www.youtube.com/watch?v=T3dGLqZrjIQ)
 - [11 Myths About LoRaWAN](https://www.electronicdesign.com/industrial-automation/11-myths-about-lorawan)
+- [LoRaWAN Encryption 101](https://lorawanacademyblog.semtech.com/lorawan-encryption-101?utm_campaign=LoRaWAN%20Academy&utm_content=78683441&utm_medium=social&utm_source=twitter)
+- [LoRaWAN Academy](https://lorawanacademy.semtech.com/)

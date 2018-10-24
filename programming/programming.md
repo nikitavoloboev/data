@@ -43,3 +43,4 @@
 - [The 12 Factor App](https://12factor.net)
 - [Mostly avoid unit tests](https://lobste.rs/s/trrold/mostly_avoid_unit_tests)
 - [Software disenchantment](http://tonsky.me/blog/disenchantment/)
+- [In search of software perfection - Xavier Leroy (2016)](https://www.youtube.com/watch?v=lAU5hx_3xRc)

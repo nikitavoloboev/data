@@ -1,6 +1,6 @@
 # [Firefox](https://www.mozilla.org/en-US/firefox/)
 
-I use this browser only for web development.
+Use it only for web development.
 
 Here are Firefox extensions I use:
 
