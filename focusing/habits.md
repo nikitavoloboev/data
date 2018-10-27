@@ -17,7 +17,19 @@ I use [Streaks](https://streaksapp.com) iOS app to track any new habits I want t
 
 ## Morning routine
 
+I use Siri Shortcuts for my morning and Night routines.
+
+![](https://i.imgur.com/4yrGQMy.jpg)
+
+![](https://i.imgur.com/8rZGGUS.jpg)
+
+[Download](https://www.icloud.com/shortcuts/4a84037a54e94f5490e5b760c3c66f3e).
+
 ## Night routine
+
+![](https://i.imgur.com/6sXTsbN.jpg)
+
+[Download](https://www.icloud.com/shortcuts/a187d360099847a3a7bcafeb6550cc81).
 
 ## Links
 
