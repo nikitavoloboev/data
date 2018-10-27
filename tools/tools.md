@@ -20,6 +20,7 @@ I love software and non software tools that help me in some way.
 - [Tiny Letter](https://tinyletter.com)
 - [Loom](https://www.useloom.com/) - New kind of work communication tool that helps you get your message across through instantly shareable videos.
 - [Habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation.
+- [Toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODO's in your codebase.
 
 ## Links
 

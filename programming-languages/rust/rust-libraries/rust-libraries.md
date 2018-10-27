@@ -33,3 +33,4 @@
 - [rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures.
 - [Futures await](https://github.com/alexcrichton/futures-await) - Async/await syntax and the [futures](https://crates.io/crates/futures) crate.
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to \*nix APIs.
+- [wasmi](https://github.com/paritytech/wasmi) - Wasm interpreter in Rust.

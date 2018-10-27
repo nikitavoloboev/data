@@ -11,9 +11,13 @@ I use [Streaks](https://streaksapp.com) iOS app to track any new habits I want t
 
 ## Current habits
 
-![](https://i.imgur.com/2ioPCki.jpg)
+![](https://i.imgur.com/yZaUkML.jpg)
 
-![](https://i.imgur.com/HjAIkxB.jpg)
+![](https://i.imgur.com/1vCIaCj.jpg)
+
+## Morning routine
+
+## Night routine
 
 ## Links
 
