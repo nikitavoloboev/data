@@ -39,3 +39,4 @@
 - [A deep dive into children in React](https://mxstbr.blog/2017/02/react-children-deepdive/)
 - [Introduction to React Book](https://survivejs.com/react/introduction/)
 - [React Today and Tomorrow and 90% Cleaner React (2018)](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+- [Concurrent Rendering in React - Andrew Clark and Brian Vaughn (2018)](https://www.youtube.com/watch?v=ByBPyMBTzM0)

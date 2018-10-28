@@ -8,6 +8,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 
 ## Favorite artists
 
+- [Z.W. Gu](https://www.artstation.com/guweiz)
 - [Leland K Foster](http://www.lelandkfoster.com/)
 - [Android Jones](https://imgur.com/a/Xdeye)
 - [Ilya Kuvshinov](https://www.artstation.com/kuvshinov_ilya)

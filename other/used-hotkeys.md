@@ -10,6 +10,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 ## CMD+CTRL
 
+- 5 - New Fantastical event
 - 6 - Smart zoom
 - 7 - Search selection with Google Searchio
 - 8 - Search selection in Dictionary
