@@ -2,6 +2,10 @@
 
 I keep a list of places and countries I want to visit [here](https://trello.com/b/i8c0hBVu) and I keep various lists of places I liked on [Foursquare](https://foursquare.com/user/458393289).
 
+I made a small Siri shortcut to help me pack things for traveling to make sure I don't forgot anything. You can download it here and for me it looks like this:
+
+![](https://i.imgur.com/mj9JH6v.jpg)
+
 ## Links
 
 - [These photos are why I’m trapped in Tokyo forever now](https://medium.com/@damjancvetkovdimitrov/these-photos-are-why-i-m-trapped-in-tokyo-forever-now-1a0ea980bcc5)
