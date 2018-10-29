@@ -11,3 +11,4 @@ Don't use it but [Luminus](http://www.luminusweb.net/), [ClojureScript](clojures
 - [cljfmt](https://github.com/weavejester/cljfmt#readme) - Tool for formatting Clojure code.
 - [HN: A year in clojure](https://news.ycombinator.com/item?id=18160390)
 - [Clojure vs. The Static Typing World](https://lispcast.com/clojure-and-types/)
+- [clojure-lsp](https://github.com/snoe/clojure-lsp) - Language Server (LSP) for Clojure.

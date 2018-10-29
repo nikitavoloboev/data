@@ -12,6 +12,7 @@ I share [all the macros I use](km-macros.md) with the app.
 - [Assert action](https://forum.keyboardmaestro.com/t/assert-action/8374). "If not condition, then fail". Useful for checking if you got right kind of data.
 - You need to [set ENV_PATH variable](https://forum.keyboardmaestro.com/t/create-a-path-environment-variable-for-keyboard-maestro-and-add-usr-local-bin-to-the-default-path/10064) to make sure all your shell tools work in KM.
 - You can read the full text of any error message in the Engine.log file (Help ➤ Open Logs Folder), and make sure (at least when testing or having problems) that the Execute Shell Script is configured to display the result in a window so you can see any error message.
+- [Keyboard Maestro converts any variables that start with ENV_ into environment variables when it launches sub-processes.](https://forum.keyboardmaestro.com/t/how-to-sent-env-in-keyboard-maestro/11947/2)
 
 ## Links
 

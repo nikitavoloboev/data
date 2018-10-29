@@ -26,7 +26,7 @@ I assign due dates for all my goals I am striving to achieve. I find this goal c
 
 ## Focus sessions
 
-I use [Focus app](https://heyfocus.com) as a recurring [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) which lets me work in sessions of 80 minutes with 10 min breaks by blocking distracting websites and apps.
+I use [Focus app](https://heyfocus.com) as a recurring [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) which lets me work in sessions of 80 minutes with 10 min breaks by blocking [distracting websites](https://gist.github.com/nikitavoloboev/57340528a6dfb3eb498dce647ed6841f) and apps.
 
 ![](https://i.imgur.com/B9Tsaxf.png)
 
@@ -44,6 +44,10 @@ The things I work on during this 80 min focus session is specified by an event i
 At the end of the 100 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 100 min period. The projects are a reflection of my Focus Trello board.
 
 ![](https://i.imgur.com/lTSgHvg.png)
+
+I also use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week/monthly reviews which I often do in the evenings of particular days.
+
+![](https://i.imgur.com/jNeNTod.png)
 
 I limit apps that can send me notifications to only essential things and turn off all sounds on notifications I get.
 

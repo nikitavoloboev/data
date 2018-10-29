@@ -32,6 +32,12 @@ And here are the other tags I use:
 
 I made my `All` list sorted by `Modified date`. This lets me cleanly delete or act on all tasks that have been sitting in my 2Do for too long with no activity.
 
+## Recurring tasks
+
+I use recurring scheduled tasks in 2Do as a way to remember to complete my day/week/monthly reviews which I often do in the evenings of particular days.
+
+![](https://i.imgur.com/jNeNTod.png)
+
 ## URL Scheme
 
 [2Do URL schemes documentation](https://www.2doapp.com/kb/article/url-schemes.html) has everything. I use these URL schemes currently:
