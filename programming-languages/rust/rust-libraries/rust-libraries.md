@@ -23,6 +23,9 @@
 
 - [Mio](https://github.com/carllerche/mio) - Metal IO library.
 
+## GUI
+- [Azul](https://github.com/maps4print/azul) - Desktop GUI Framework.
+
 ## Other
 
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser.
@@ -35,3 +38,4 @@
 - [nix](https://github.com/nix-rust/nix) - Rust friendly bindings to \*nix APIs.
 - [wasmi](https://github.com/paritytech/wasmi) - Wasm interpreter in Rust.
 - [rayon](https://github.com/rayon-rs/rayon) - Data parallelism library for Rust.
+- [libfringe](https://github.com/edef1c/libfringe) - Rust library implementing safe, lightweight context switches, without relying on kernel services.

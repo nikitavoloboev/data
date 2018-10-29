@@ -43,3 +43,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Casper](https://casper.com/) - Seems like a good mattress.
 - [What are your hobbies?](https://lobste.rs/s/fx3enz/what_are_your_hobbies)
 - [Ask HN: What did you learn the hard way?](https://news.ycombinator.com/item?id=18132736)
+- [Svelte](https://hn.svelte.technology/top/1) - Neat HN implementation in Svelte tech.

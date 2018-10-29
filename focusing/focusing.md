@@ -45,7 +45,7 @@ At the end of the 100 min focus session, [Timing](../macOS/apps/timing.md) shows
 
 ![](https://i.imgur.com/lTSgHvg.png)
 
-I also use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week/monthly reviews which I often do in the evenings of particular days.
+I also use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week/monthly reviews/plans which I often do in the evenings of particular days.
 
 ![](https://i.imgur.com/jNeNTod.png)
 

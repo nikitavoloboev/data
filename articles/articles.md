@@ -10,3 +10,4 @@ Some articles I read and liked.
 - [The Stack Overflow Age](https://www.joelonsoftware.com/2018/04/06/the-stack-overflow-age/)
 - [~2015 in review](https://medium.com/@sebmck/2015-in-review-51ac7035e272) - Inspiring.
 - [My AirBnb story](https://medium.com/non-fiction/my-airbnb-story-cafb5cd7fcbe) - Share your work.
+- [What does Stack Overflow want to be when it grows up?](https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/)

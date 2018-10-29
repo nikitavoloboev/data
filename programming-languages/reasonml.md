@@ -7,3 +7,4 @@
 - [Exploring ReasonML](http://reasonmlhub.com/exploring-reasonml/toc.html)
 - [genType](https://github.com/cristianoc/genType) - Auto generation of idiomatic bindings between Reason and JavaScript: either vanilla or typed with TypeScript/FlowType.
 - [Here’s why ReasonReact is the best way to write React](https://medium.freecodecamp.org/psst-heres-why-reasonreact-is-the-best-way-to-write-react-5088d434d035)
+- [Formality](https://github.com/alexfedoseev/re-formality) - Reasonable form validation tool for reason-react.

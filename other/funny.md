@@ -9,3 +9,4 @@ Some things I found funny.
 - [Volkswagen](https://github.com/auchenberg/volkswagen#readme)
 - [String theory for Dummies](http://abstrusegoose.com/272)
 - [Kitze'z tweets](http://kitze-tweets.surge.sh/)
+- [Show HN: Websites in 2018](https://news.ycombinator.com/item?id=18284910)

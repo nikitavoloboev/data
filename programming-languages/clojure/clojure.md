@@ -12,3 +12,4 @@ Don't use it but [Luminus](http://www.luminusweb.net/), [ClojureScript](clojures
 - [HN: A year in clojure](https://news.ycombinator.com/item?id=18160390)
 - [Clojure vs. The Static Typing World](https://lispcast.com/clojure-and-types/)
 - [clojure-lsp](https://github.com/snoe/clojure-lsp) - Language Server (LSP) for Clojure.
+- [Clojure is a product design tool (2018)](https://lobste.rs/s/vyehjy/clojure_is_product_design_tool)

@@ -12,6 +12,7 @@ I keep a [Trello board](https://trello.com/b/Wtr04eGQ) of podcasts I am listenin
 - [Type Driven Development and Idris With Edwin Brady](https://corecursive.com/006-type-driven-development-and-idris-with-edwin-brady)
 - [Following Your Passion to Build an Impactful Business with Quincy Larson of FreeCodeCamp](https://www.indiehackers.com/podcast/056-quincy-larson-of-freecodecamp)
 - [Lisa Feldman Barrett: Emotion](https://overcast.fm/+OcVeMXzyI)
+- [Ep. #2, The Early Days of GitHub with Tom Preston-Werner](https://www.heavybit.com/library/podcasts/enterpriseready/ep-2-the-early-days-of-github-with-tom-preston-werner/) - [HN thread](https://news.ycombinator.com/item?id=18258148)
 
 ## Interesting episodes
 
