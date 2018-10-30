@@ -4,13 +4,13 @@ I try to maximize my [happiness](../life/happiness.md) and quality of life throu
 
 Here are some things I am trying to improve with my health right now.
 
-- [Nutrition](nutrition/nutrition.md) - I eat at least two salads every day and take [few supplements](supplements.md). I track all the food I eat with [MyFitnessPal](https://www.myfitnesspal.com/).
+- [Nutrition](nutrition/nutrition.md) - I drink a [smoothie every morning](https://github.com/nikitavoloboev/vegan-recipes/tree/master/smoothies#regular-breakfast-smoothie) and take [few supplements](supplements.md). I track all the food I eat with [MyFitnessPal](https://www.myfitnesspal.com/).
 - [Mindfulness](../mindfulness/mindfulness.md) - Stress [shortens telomeres](https://www.ncbi.nlm.nih.gov/pubmed/12114022). Practicing [mindfulness](../mindfulness/mindfulness.md) helps greatly in maintaining a healthy and stress free outlook on life.
-- [Proper sleep](../sleep/sleep.md) - I go to sleep and wake up at the same time getting a minimum of 7 hours of sleep each day.
-- [Exercise](../fitness/fitness.md) - I try to start every morning by either going to the gym or playing tennis.
+- [Proper sleep](../sleep/sleep.md) - I go to sleep and wake up at the same time (22:00 -> 6:00) getting a minimum of 7 hours of sleep each day.
+- [Exercise](../fitness/fitness.md) - I start every morning with some exercise. Either going to the gym or playing tennis.
 - Good posture - I try to be conscious of my posture at all times. Never slouching my back and sitting at one spot for too long.
 - Dental care - Brushing my teeth every morning and evening as well as flossing it few times throughout the day.
-- [Skin care](skin-care.md) - Moisturize my skin every morning and evening.
+- [Skin care](skin-care.md) - Moisturize my skin every morning and evening & applying occasional face masks.
 
 ## Notes
 

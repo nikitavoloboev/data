@@ -85,6 +85,11 @@ Some simple rules to follow for myself doing things.
 - Adhere to [my budget](../finance/finance.md) that I set for each of the categories. If there is no budget left for eating out. Don't eat out.
 - Keep digital receipts of expensive purchases for warranty (scan it, if it's in paper).
 
+## Solving problems
+
+- Aggressively research whatever it is I don't understand. Google/dictionary/.. . Read, build a model of things in my head/software. Translate it to a workable solution.
+- Use my [solving problems outline](../research/solving-problems.md). Be flexible but persistent if the problem is worth solving.
+
 ## Code
 
 - Write code to be read by other people. Prefer to be explicit over implicit. [Readability Matters More Than Correctness](https://xph.us/2017/04/23/readability.html)
@@ -275,9 +280,9 @@ Some simple rules to follow for myself doing things.
 
 ## 2Do
 
-- Only contain things I need to get done Today in _Today_. Important tasks are stored in Starred sorted by priority. Keep _Today_ list manageable (< 20 tasks).
+- Only contain things I need to get done Today in _Today_. Important tasks are stored in Starred sorted by priority. Keep _Today_ list manageable (< 15 tasks).
 - All 2Do tasks need to be actionable.
-- Work on tasks based on priority (starred completed first).
+- Work on tasks based on priority (starred completed first). Starred tasks have no priority.
 - Don't include context in the task title. Add it as a tag instead.
 - Add time estimates to tasks that might take 1 hour or more, where appropriate.
 

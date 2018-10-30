@@ -32,3 +32,4 @@
 - [Interview Map](https://github.com/KieSun/InterviewMap#readme) - A map that can help you make a better preparation for the next interview.
 - [Full stack Developer Interview Questions & Answers](https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers#readme)
 - [Prepare for interview in 1 week advice](https://news.ycombinator.com/item?id=17755688)
+- [Everything you need to prepare for your technical interview](https://github.com/andreis/interview#readme)

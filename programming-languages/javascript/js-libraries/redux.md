@@ -17,3 +17,4 @@ So:
 - [Redux Persist](https://github.com/rt2zz/redux-persist#readme) - Persist and rehydrate a Redux store.
 - [The Suspense is Killing Redux](https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430)
 - [Getting started with Redux course](https://egghead.io/courses/getting-started-with-redux)
+- [Erik Rasmussen | Abstracting Form State with Redux Form (2016)](https://www.youtube.com/watch?v=eDTi7lYR1VU)
