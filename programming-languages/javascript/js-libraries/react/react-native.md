@@ -8,3 +8,5 @@
 - [Emission](https://github.com/artsy/emission) - React Native Components.
 - [Detox](https://github.com/wix/detox#readme) - Gray Box End-to-End Testing and Automation Framework for Mobile Apps.
 - [Awesome React Native Components](https://github.com/madhavanmalolan/awesome-reactnative-ui#readme)
+- [Declarative future of gestures and animations in React Native - Krzysztof Magiera (2018)](https://www.youtube.com/watch?v=kdq4z2708VM)
+- [Simple physics with Reanimated — Part 1](https://blog.swmansion.com/simple-physics-with-reanimated-part-1-9d55d36f73cd)

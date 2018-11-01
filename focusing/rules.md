@@ -282,7 +282,7 @@ Some simple rules to follow for myself doing things.
 
 - Only contain things I need to get done Today in _Today_. Important tasks are stored in Starred sorted by priority. Keep _Today_ list manageable (< 15 tasks).
 - All 2Do tasks need to be actionable.
-- Work on tasks based on priority (starred completed first). Starred tasks have no priority.
+- Work on tasks based on priority (starred completed first).
 - Don't include context in the task title. Add it as a tag instead.
 - Add time estimates to tasks that might take 1 hour or more, where appropriate.
 

@@ -40,3 +40,4 @@
 - [Introduction to React Book](https://survivejs.com/react/introduction/)
 - [React Today and Tomorrow and 90% Cleaner React (2018)](https://www.youtube.com/watch?v=dpw9EHDh2bM)
 - [Concurrent Rendering in React - Andrew Clark and Brian Vaughn (2018)](https://www.youtube.com/watch?v=ByBPyMBTzM0)
+- [Intro to debugging ReactJS applications](https://medium.com/@baphemot/intro-to-debugging-reactjs-applications-67cf7a50b3dd)

@@ -6,3 +6,4 @@
 
 - [Dune](https://github.com/ocaml/dune) - Composable build system for OCaml.
 - [Unix system programming in OCaml](https://ocaml.github.io/ocamlunix/)
+- [Esy](https://github.com/esy/esy) - Package.json workflow for native development with Reason/OCaml.

@@ -39,3 +39,4 @@
 - [Dysnomia](https://github.com/svanderburg/dysnomia) - Tool and plug-in system that can be used to automatically deploy mutable components.
 - [Disnix](https://github.com/svanderburg/disnix) - Nix-based distributed service deployment tool.
 - [NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages.
+- [Eris](https://github.com/thoughtpolice/eris) - Binary cache for Nix.
