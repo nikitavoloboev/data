@@ -14,8 +14,6 @@ It's a wonderful tool that allows you to create very powerful macros that can ra
 
 I wrote about how I manage my huge macro library [here](https://forum.keyboardmaestro.com/t/notation-i-use-to-manage-my-macros/8907).
 
-All the macros/palettes are attached to this GitHub repository sorted into appropriate folders and I describe some of these macros/palettes below.
-
 All global macros will have no trigger as they are called with AppleScript from [Karabiner](../karabiner/karabiner.md).
 
 A lot of these macros were made with great help from the [Keyboard Maestro forum community](https://forum.keyboardmaestro.com/latest).

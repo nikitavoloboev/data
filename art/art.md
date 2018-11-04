@@ -33,6 +33,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Simen Johan](https://www.artsy.net/artist/simen-johan)
 - [Daniel Zeller](https://www.artsy.net/artist/daniel-zeller)
 - [Michał Klimczak](https://500px.com/shume)
+- [ariduka55](http://ariduka55.tumblr.com/)
 
 ## Interesting art
 

@@ -44,3 +44,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [What are your hobbies?](https://lobste.rs/s/fx3enz/what_are_your_hobbies)
 - [Ask HN: What did you learn the hard way?](https://news.ycombinator.com/item?id=18132736)
 - [Svelte](https://hn.svelte.technology/top/1) - Neat HN implementation in Svelte tech.
+- [console.love](https://www.console.love/) - Collection of funny, quirky and lovely console messages from around the web.

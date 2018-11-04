@@ -60,12 +60,6 @@ I exclude all foods that are not healthy and experiment with many [vegan recipes
 - Tofu
 - Olive oil
 
-## Don't eat
-
-- Sugar
-- Bread. Grains.
-- Meat
-
 ## Links
 
 - [Cheap healthy food](https://www.nomeatathlete.com/cheap-healthy-food/)

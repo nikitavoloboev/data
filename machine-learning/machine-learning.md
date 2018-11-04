@@ -42,3 +42,4 @@
 - [KubeFlow](https://github.com/kubeflow/kubeflow#readme) - Machine Learning Toolkit for Kubernetes.
 - [MIT AGI: Deep Learning (Yoshua Bengio) (2018)](https://www.youtube.com/watch?v=azOmzumh0vQ)
 - [TL-GAN: transparent latent-space GAN](https://github.com/SummitKwan/transparent_latent_gan) - Use supervised learning to illuminate the latent space of GAN for controlled generation and edit.
+- [Grokking Deep Learning](https://github.com/iamtrask/Grokking-Deep-Learning#readme) - Repository accompanying "Grokking Deep Learning" book.

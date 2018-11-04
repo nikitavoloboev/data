@@ -33,3 +33,5 @@ My favorite way to find interesting work is searching through [AngelList](https:
 ## Links
 
 - [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
+- [HN: My somewhat complete salary history as a software engineer (2018)](https://news.ycombinator.com/item?id=18342996)
+- [HN: Compare career levels across companies (2018)](https://news.ycombinator.com/item?id=18349421)

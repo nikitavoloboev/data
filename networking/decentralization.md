@@ -10,3 +10,4 @@
 - [Why We Need Web 3.0](https://breakermag.com/why-we-need-web-3-0/)
 - [Early days in the Manyverse](https://staltz.com/early-days-in-the-manyverse.html)
 - [Why I'm excited about decentralized social networks](https://tinysubversions.com/notes/decentralized-social-networks/)
+- [Ask HN: Is it worth getting into distributed systems after 12 years full stack? (2018)](https://news.ycombinator.com/item?id=18370749)

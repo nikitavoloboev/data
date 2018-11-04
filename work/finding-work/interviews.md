@@ -5,6 +5,7 @@
 - [Conversation With Charles Hoskinson](https://www.youtube.com/watch?v=6hgKMCSloM4)
 - [DevOps Chat with HashiCorp's CTO](https://www.youtube.com/watch?v=iV5doaYReyU)
 - [Jeff Bezos At The Economic Club Of Washington (2018)](https://www.youtube.com/watch?v=xv_vkA0jsyo)
+- [Linus Torvalds (2018)](https://www.youtube.com/watch?v=pQWj2Fgxdrc&t=927s)
 
 ## Interesting interviews
 

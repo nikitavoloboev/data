@@ -14,7 +14,7 @@ Here is how that board looks for me:
 
 ![](https://i.imgur.com/xzyxiap.png)
 
-I put the prices of the items I buy as descriptions as well how I use each of them & the link where I bought the item from. I then use [FB Market Place](https://facebook.com/marketplace) to sell off the things I don't need.
+I attach the prices of the items I buy inbetween the brackets (in Euro). And I describe how I use each of them & the link where I bought the item from in the description. I then use [FB Market Place](https://facebook.com/marketplace) to sell off the things I don't need.
 
 I [budget all my money](../finance/finance.md) into categories each month. This allows me to spend my money mindfully and not buy things I don't need.
 
@@ -31,3 +31,4 @@ I [budget all my money](../finance/finance.md) into categories each month. This 
 ## Links
 
 - [Living with less. Everything i own now fits into a single carry-on bag.](http://www.wernervanrooyen.com/living-with-less-one-bag/)
+- [How a Month without Computers Changed Me](https://dev.to/iskin/how-a-month-without-computers-changed-me-1ho4)
