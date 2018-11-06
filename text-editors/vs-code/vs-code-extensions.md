@@ -41,7 +41,7 @@ Below is a list of extensions I use.
 
 ## ReasonML
 
-- [OCaml and Reason IDE](https://marketplace.visualstudio.com/items?itemName=freebroccolo.reasonml) - OCaml and Reason language support.
+- [Reason Language Server](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - IDE & Syntax support for Reason/OCaml.
 
 ## HTML
 
@@ -83,6 +83,7 @@ Below is a list of extensions I use.
 ## Markdown
 
 - [Markdown](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Keyboard shortcuts, table of contents, auto preview and more.
+-
 
 ## LaTeX
 
@@ -156,6 +157,10 @@ Below is a list of extensions I use.
 
 - [ElixirLS](https://github.com/JakeBecker/vscode-elixir-ls) - Elixir support and debugger.
 
+## ReasonML
+
+- [OCaml and Reason IDE](https://marketplace.visualstudio.com/items?itemName=freebroccolo.reasonml) - OCaml and Reason language support.
+
 ## Markdown
 
 - [Markdown Preview GitHub Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) - Changes VS Code's built-in markdown preview to match GitHub's style.
@@ -176,3 +181,4 @@ Below is a list of extensions I use.
 - [Extensibility Reference](https://code.visualstudio.com/docs/extensionAPI/overview)
 - [VS Code can do that?](https://vscodecandothat.com/)
 - [Awesome VS Code](https://github.com/viatsko/awesome-vscode#readme)
+- [Why I wrote 33 VSCode extensions and how I manage them](https://medium.com/@fabiospampinato/why-i-wrote-33-vscode-extensions-and-how-i-manage-them-cb61df05e154)

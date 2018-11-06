@@ -31,3 +31,5 @@
 - [Kubernetes for personal projects? No thanks! (2018)](http://carlosrdrz.es/kubernetes-for-small-projects/)
 - [Kubespy](https://github.com/pulumi/kubespy#readme) - Tools for observing Kubernetes resources in real time, powered by Pulumi.
 - [Terraform Kubernetes provider](https://github.com/terraform-providers/terraform-provider-kubernetes)
+- [KubeContext](https://github.com/turkenh/KubeContext) - Menu Bar App for Managing Kubernetes Contexts on Mac.
+- [Kubeapps](https://github.com/kubeapps/kubeapps) - Web-based UI for deploying and managing applications in Kubernetes clusters.

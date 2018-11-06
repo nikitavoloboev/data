@@ -14,3 +14,4 @@
 - [MerchantKit](https://github.com/benjaminmayo/merchantkit) - Modern In-App Purchases management framework for iOS.
 - [Swift tagged](https://github.com/pointfreeco/swift-tagged) - Library for safer types.
 - [Login Critter](https://github.com/cgoldsby/LoginCritter) - Animated avatar that responds to text field interactions.
+- [Pixel](https://github.com/muukii/Pixel) - Image editor and engine using CoreImage.

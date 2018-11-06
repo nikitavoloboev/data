@@ -6,8 +6,8 @@ Below are countries and cities I visited thus far with some comments on them. Th
 
 ## Netherlands
 
-- [Amsterdam](https://foursquare.com/user/458393289/list/amsterdam) 🌟 - Lovely city.
-- Eindhoven - Did my CS degree there. Didn't like it.
+- Amsterdam 🌟 - Lovely city.
+- Eindhoven - Did my CS degree there. Didn't like the city.
 
 ## Cyprus
 

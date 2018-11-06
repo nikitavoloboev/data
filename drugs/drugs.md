@@ -7,3 +7,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 ## Links
 
 - [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Amazing resource.
+- [Reagent test instructions](https://www.reagent-tests.uk/reagent-test-colours/)
