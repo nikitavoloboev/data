@@ -27,6 +27,7 @@ I exclude all foods that are not healthy and experiment with many [vegan recipes
 - Cashews
 - Hazelnuts
 - Brazil nuts
+- Peanuts
 
 ## Legumes
 
@@ -51,14 +52,13 @@ I exclude all foods that are not healthy and experiment with many [vegan recipes
 
 ## Other
 
-- Eggs
 - Dark chocolate
 - Mushrooms
 - Ginger
 - Garlic
-- Mozzarella
 - Tofu
 - Olive oil
+- Coconut oil
 
 ## Links
 

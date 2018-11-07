@@ -8,3 +8,4 @@
 - [Supercharge your debugging experience for Node.js](https://medium.com/@wesharehoodies/supercharge-your-debugging-experience-for-node-js-3f0ddfaffbb2)
 - [ndb](https://github.com/trending) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
 - [What is the Node way?](http://thenodeway.io/introduction)
+- [Redbird](https://github.com/OptimalBits/redbird) - Modern reverse proxy for node.
