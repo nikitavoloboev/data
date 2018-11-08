@@ -34,4 +34,8 @@ Below are themes I like using:
 
 ![](https://i.imgur.com/nCjge7A.png)
 
-For reading wiki I use [Dictionary app](https://wokabulary.com/blog/the-built-in-dictionary-on-mac-and-iphone.html) which has dark mode with Mojawe.
+## [Wikipedia](https://userstyles.org/styles/122072/wikipedia-dark-material-design)
+
+![](https://i.imgur.com/rcMQfXY.png)
+
+Although I prefer reading wiki with [Dictionary app](https://wokabulary.com/blog/the-built-in-dictionary-on-mac-and-iphone.html) with its dark mode.
