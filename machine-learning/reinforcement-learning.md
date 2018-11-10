@@ -9,3 +9,4 @@
 - [Dissecting Reinforcement Learning: Part 1](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
 - [Learning Dexterity (2018)](https://blog.openai.com/learning-dexterity/)
 - [Dopamine](https://github.com/google/dopamine#readme) - Research framework for fast prototyping of reinforcement learning algorithms.
+- [Spinning Up in Deep RL](https://github.com/openai/spinningup#readme) - Educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).

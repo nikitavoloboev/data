@@ -1,6 +1,6 @@
 # [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Bulma](https://bulma.io) framework seems nice.
+[Bulma](https://bulma.io) framework seems nice. [Pesticide Chrome Extension](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) is invaluable for debugging CSS.
 
 ## Notes
 

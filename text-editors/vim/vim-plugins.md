@@ -120,6 +120,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 ## Go
 
 - [Vim Go](https://github.com/fatih/vim-go) - Go development.
+- [Nvim Go](https://github.com/zchee/nvim-go) - Go development plugin written in pure Go.
 - [Deoplete Go](https://github.com/zchee/deoplete-go) - Asynchronous Go completion.
 
 ## C

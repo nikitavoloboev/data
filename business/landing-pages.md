@@ -2,6 +2,7 @@
 
 ## Interesting pages
 
+- [Conference Badge](https://www.conferencebadge.com/) - [HN likes it](https://news.ycombinator.com/item?id=18410628) too.
 - [Nuzzle app](https://muzzleapp.com/) - One of the funnier ones.
 - [Sentry](https://sentry.io/welcome/)
 - [Onroadmap](https://onroadmap.com/) - Clean.
