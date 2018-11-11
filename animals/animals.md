@@ -9,12 +9,8 @@ I love all animals.
 
 ## Interesting
 
-- [Capybaras][1] - Super awesome.
-- [Qokkas][2]
+- [Capybaras](https://www.youtube.com/watch?v=SCwcJsBYL3o) - Super awesome.
+- [Qokkas](https://en.wikipedia.org/wiki/Quokka)
 
 ## Links
-- [BrushyBrushy subreddit][3]
-
-[1]:	https://www.youtube.com/watch?v=SCwcJsBYL3o
-[2]:	https://en.wikipedia.org/wiki/Quokka
-[3]:	https://www.reddit.com/r/brushybrushy
+- [BrushyBrushy subreddit](https://www.reddit.com/r/brushybrushy)
