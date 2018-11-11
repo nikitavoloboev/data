@@ -31,3 +31,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - Clean and easy-to-use floating panel UI component for iOS.
 - [Sharecuts](https://sharecuts.app/) - Public repository of shortcuts for the Shortcuts app.
 - [ShortcutShortcut Launcher Siri Shortcut](https://www.reddit.com/r/shortcuts/comments/9jok3b/shortcut_launcher_streamline_the_shortcuts_app/)
+- [Linux shell for iOS](https://github.com/tbodt/ish)

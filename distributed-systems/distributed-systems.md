@@ -10,3 +10,4 @@
 - [Ask HN: Any recommended resources to develop system thinking? (2018)](https://news.ycombinator.com/item?id=16704850)
 - [Distributed Systems in One Lesson by Tim Berglund (2017)](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 - [Træfik](https://github.com/containous/traefik#readme) - Modern HTTP reverse proxy and load balancer that makes deploying microservices easy.
+- [Kit](https://github.com/go-kit/kit) - Standard library for microservices written in Go.

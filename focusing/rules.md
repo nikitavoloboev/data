@@ -47,6 +47,7 @@ Some simple rules to follow for myself doing things.
 - Ship early. Get feedback and iterate on it. Rinse and repeat.
 - Track all time in [Timing](../macOS/apps/timing.md). Reflect on it at the end of the day & week.
 - Wear comfortable clothes.
+- Sit up right always. Never slouch.
 - Share everything I know and made.
 
 ## Focus
@@ -60,7 +61,6 @@ Some simple rules to follow for myself doing things.
 - Use one screen when coding. Much easier to context switch.
 - Don't listen to distracting music when trying to focus. Instead use [Noizio](http://noiz.io), [Oak](https://www.oakmeditation.com) or have nothing playing at all.
 - Use noise canceling headphones if surroundings are too noisy.
-- Sit up right always. Never slouch.
 
 ## Learn
 

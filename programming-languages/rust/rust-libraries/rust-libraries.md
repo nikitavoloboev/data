@@ -40,3 +40,4 @@
 - [rayon](https://github.com/rayon-rs/rayon) - Data parallelism library for Rust.
 - [libfringe](https://github.com/edef1c/libfringe) - Rust library implementing safe, lightweight context switches, without relying on kernel services.
 - [rust-url](https://github.com/servo/rust-url) - URL parser for Rust.
+- [Mundane](https://github.com/google/mundane/) - Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).

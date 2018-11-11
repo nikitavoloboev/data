@@ -35,6 +35,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Yoshua Wuyts](https://yoshuawuyts.gitbooks.io/knowledge/content/)
 - [Richard Litt](https://github.com/RichardLitt/knowledge)
 - [Darshan Chaudhary](https://github.com/darshanime/notes#readme)
+- [Josh Avanier](https://joshavanier.github.io/#josh)
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
 
 ## Links

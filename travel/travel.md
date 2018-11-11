@@ -14,3 +14,4 @@ I made a small Siri shortcut to help me pack things for traveling to make sure I
 - [Awesome Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots#readme)
 - [Some travel notes by a nomad](https://github.com/mrtnzlml/meta/blob/master/travel.md#readme)
 - [Ask HN: Cheap places to live with a good intellectual atmosphere?](https://news.ycombinator.com/item?id=18164189)
+- [Pod Room](https://www.podroom.com/) - Bite-sized Luxury Hotel (SF only) but pretty awesome.

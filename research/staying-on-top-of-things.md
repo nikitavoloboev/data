@@ -71,3 +71,4 @@ And these Discord servers:
 
 - [News](https://medium.com/@nikitavoloboev/news-d6bcaaf40121) - I wrote briefly my opinion about consuming news and media. Although my opinion as stated in the article is still the same. My approach as indicated above has changed and hopefully became a bit more refined to meet my own goals.
 - [List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
+- [Ask HN: Other online communities like HN? (2018)](https://news.ycombinator.com/item?id=18384680)

@@ -6,3 +6,4 @@
 - [Agda Standard Library](https://github.com/agda/agda-stdlib)
 - [Introductions to Agda](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=Main.Othertutorials)
 - [Category Theory in Agda](https://github.com/JLimperg/cats) - Learning exercise.
+- [Categories](https://github.com/copumpkin/categories) - Categories parametrized by morphism equality, in Agda.

@@ -13,6 +13,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 
 - [Kenneth Reitz](https://500px.com/kennethreitz)
 - [Daniel Zeller](https://www.artsy.net/artist/daniel-zeller)
+- [Matt Perry](https://mattperry.photography/)
 
 ## Links
 
@@ -27,3 +28,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 - [Artsy: Landscape and Nature Photography](https://www.artsy.net/gene/landscape-and-nature-photography)
 - [Artsy: Color Photography](https://www.artsy.net/gene/color-photography)
 - [What is parallelism and how to use it to improve your photography](https://medium.com/@zellersamuel/what-is-parallelism-and-how-to-use-it-to-improve-your-photography-652240f9408f?sk=75b2840481296e121617627ba8f98e55)
+- [Photographer Captures the Most Amazing Night Time Aerials I Have Ever Seen](http://themindcircle.com/night-time-aerial-photographs/)

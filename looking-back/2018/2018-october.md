@@ -7,4 +7,4 @@
 
 ## Timing
 
-[](https://i.imgur.com/TQe9UpY.png)
+![](https://i.imgur.com/TQe9UpY.png)
