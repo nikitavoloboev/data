@@ -9,7 +9,7 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [You can define and run the function straight away by enclosing it in parenthesis and adding empty () after](https://forum.keyboardmaestro.com/t/javascript-assistance/8331/2)
 - In JavaScript, a type is a runtime tag describing the actual kind of data you have at runtime.
 - A property is any value attached to an object. A method is a property that is a function.
-- ‘this’, always references the owner of the function it is in, for this case — since it is now out of scope — the window/global object.
+- `this`, always references the owner of the function it is in, for this case — since it is now out of scope — the window/global object.
 
 ## Links
 

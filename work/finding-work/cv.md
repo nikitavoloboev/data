@@ -26,6 +26,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Ryan Holben](https://ryan-holben.github.io/assets/pdf/Resume.pdf)
 - [Jiahao Li](http://ljh.me/resume/) - Impressive.
 - [Shawn Allen](http://secularproducts.com/cv/)
+- [Alexander Matyushentsev](https://alexmt.github.io/resume/) - Web & simple.
 
 ## Notes
 

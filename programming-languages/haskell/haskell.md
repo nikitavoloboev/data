@@ -46,3 +46,4 @@
 - [Haskell's kind system - a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
 - [Fused effects](https://github.com/robrix/fused-effects) - Fast, flexible, fused effect system for Haskell.
 - [Examples of Dependently-typed programs in Haskell](https://github.com/sweirich/dth)
+- [haskell-lsp](https://github.com/alanz/haskell-lsp) - Haskell library for the Microsoft Language Server Protocol.

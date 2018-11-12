@@ -36,3 +36,4 @@
 - [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [You might not need Kubernetes (2018)](https://blog.jessfraz.com/post/you-might-not-need-k8s/)
 - [Kubespray](https://github.com/kubernetes-incubator/kubespray) - Deploy a Production Ready Kubernetes Cluster.
+- [Argo](https://github.com/argoproj/argo) - Container-native workflows for Kubernetes.

@@ -9,8 +9,13 @@ So:
 1. You just gained undo/redo, if you track alterations on your object.
 2. You know the state of your application at all times, just looking at the object. You can also keep it and save it for later use.
 
+## Notes
+
+- OwnPops is something your component receives from the parent. StateProps is something your component receives from the Redux store.
+
 ## Links
 
+- [React Redux — Concept, Workflow & Cheatsheet (2017)](https://medium.com/@javascript_7596/react-redux-concept-workflow-cheatsheet-be00e3ffa853)
 - [Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38)
 - [React Redux Style guide](https://github.com/iraycd/React-Redux-Styleguide#readme)
 - [Mark Erikson - The Fundamentals of Redux](https://www.youtube.com/watch?v=ewelU8WHXQ4&index=7&list=PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP)

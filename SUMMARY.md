@@ -154,6 +154,7 @@
   - [Julia](programming-languages/julia/julia.md)
   - [Assembly](programming-languages/assembly.md)
 - [Data Science](data-science/data-science.md)
+  - [Visualization](data-science/visualization.md)
 - [Open Source](open-source/open-source.md)
   - [GitHub](open-source/github.md)
   - [GSOC](open-source/gsoc.md)
