@@ -16,13 +16,19 @@ I keep a private Trello board where I outline things that I want to focus on in 
 
 ![](https://i.imgur.com/OVKvNkG.jpg)
 
-I mark the projects and goals I want to focus on right now, and by pressing `Q` in Trello I will only see these cards on the board.
+I mark the projects and goals I want to focus on right now, and by pressing `Q` in Trello I only see these cards on the board.
 
 ![](https://i.imgur.com/KJmnOj5.jpg)
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
 
-I assign due dates for all my goals I am striving to achieve. I find this goal centric approach to be incredibly useful as it lets me focus on making sure I do everything I need to achieve the goals I have set for myself. Making sure I limit the number of projects I am working on at any given time lets me actually deeply focus on them instead of being scattered around wondering if I am working on the right thing in the moment.
+I try to have a completely event driven workflow as I schedule events in my calendar and plan the next day or days ahead of me in the context of my bigger and smaller goals.
+
+I use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week/monthly reviews/plans which I often do in the evenings of particular days.
+
+![](https://i.imgur.com/jNeNTod.png)
+
+I find this goal centric approach to be incredibly useful as it lets me focus on making sure I do everything I need to achieve the goals I have set for myself. Making sure I limit the number of projects I am working on at any given time lets me actually deeply focus on them instead of being scattered around wondering if I am working on the right thing in the moment.
 
 ## Focus sessions
 
@@ -44,10 +50,6 @@ The things I work on during this 80 min focus session is specified by an event i
 At the end of the 100 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 100 min period. The projects are a reflection of my Focus Trello board.
 
 ![](https://i.imgur.com/lTSgHvg.png)
-
-I also use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week/monthly reviews/plans which I often do in the evenings of particular days.
-
-![](https://i.imgur.com/jNeNTod.png)
 
 I limit apps that can send me notifications to only essential things and turn off all sounds on notifications I get.
 
