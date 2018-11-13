@@ -35,3 +35,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [ES6 features](http://es6-features.org/)
 - [The State of JavaScript - The State of the Web (2018)](https://www.youtube.com/watch?v=i5R7giitymk)
 - [A Quick Tour Of ES6 (Or, The Bits You’ll Actually Use)](http://jamesknelson.com/es6-the-bits-youll-actually-use/)
+- [JavaScript on the Desktop, Fast and Slow (2018)](https://medium.com/@felixrieseberg/javascript-on-the-desktop-fast-and-slow-2b744dfb8b55)

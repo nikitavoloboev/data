@@ -1,6 +1,6 @@
 # Processes
 
-Some simple processes to follow when doing things.
+Some simple processes to follow when doing things. Some processes are activated from iOS Shortcuts.
 
 ## Learn
 

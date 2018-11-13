@@ -30,6 +30,18 @@ Some simple rules to follow for myself doing things.
 - Everything in moderation. Avoid alcohol and hard drugs (like opiates).
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
 
+## Focus
+
+- Be very aggressive in cutting any kind of distractions when working.
+- Don't visit blocked sites and apps when **focusing**. Don't touch the phone unless necessary.
+- When **focusing**, do the task at hand and nothing else.
+- Be mindful of my habits and temptations. Don't succumb to them and focus on the task at hand.
+- Change location. Work from different places.
+- Look at where I spend my time in Timing and cut those out with Focus and scripts.
+- Use one screen when coding. Much easier to context switch.
+- Don't listen to distracting music when trying to focus. Instead use [Noizio](http://noiz.io), [Oak](https://www.oakmeditation.com) or my [Focus](https://open.spotify.com/user/nikitavoloboev/playlist/2mriYMEK60P7T7XtQz9pDe?si=kI9marqaQ4667mS34jhpww) and [Code](https://open.spotify.com/user/nikitavoloboev/playlist/4x67A1MPvZSrBt5yRUm8bm?si=Z8srvtTYSQ2TJQk9NGs2_w) playlists. Or have nothing playing at all.
+- Use noise canceling headphones if surroundings are too noisy.
+
 ## Work
 
 - [Do one thing at a time](../research/solving-problems.md). Resist temptations. Remove friction.
@@ -49,18 +61,6 @@ Some simple rules to follow for myself doing things.
 - Wear comfortable clothes.
 - Sit up right always. Never slouch.
 - Share everything I know and made.
-
-## Focus
-
-- Be very aggressive in cutting any kind of distractions when working.
-- Don't visit blocked sites and apps when **focusing**. Don't touch the phone unless necessary.
-- When **focusing**, do the task at hand and nothing else.
-- Be mindful of my habits and temptations. Don't succumb to them and focus on the task at hand.
-- Change location. Work from different places.
-- Look at where I spend my time in Timing and cut those out with Focus and scripts.
-- Use one screen when coding. Much easier to context switch.
-- Don't listen to distracting music when trying to focus. Instead use [Noizio](http://noiz.io), [Oak](https://www.oakmeditation.com) or have nothing playing at all.
-- Use noise canceling headphones if surroundings are too noisy.
 
 ## Learn
 
