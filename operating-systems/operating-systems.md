@@ -18,3 +18,4 @@ And I really like [NixOS](linux/nixos.md) and it's [nix package manager](../pack
 - [Raspberry Pi OS](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi.
 - [Create OS from scratch](https://github.com/cfenollosa/os-tutorial#readme)
 - [How to Make a Computer Operating System](https://samypesse.gitbooks.io/how-to-create-an-operating-system/content/)
+- [Plan 9 from User Space](https://github.com/9fans/plan9port) - Port of many Plan 9 libraries and programs to Unix.

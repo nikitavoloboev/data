@@ -13,3 +13,4 @@
 - [Desktop and editor setup for Rust development (2018)](https://www.youtube.com/watch?v=ycMiMDHopNc)
 - [Rust can be difficult to learn and frustrating, but it’s also the most exciting thing in software development in a long time (2018)](https://lobste.rs/s/hv4mio/rust_can_be_difficult_learn_frustrating)
 - [Parsing logs 230x faster with Rust (2018)](https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/)
+- [Cross](https://github.com/rust-embedded/cross) - "Zero setup" cross compilation and "cross testing" of Rust crates.

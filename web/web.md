@@ -18,4 +18,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [NetData](http://my-netdata.io/) - System for distributed real-time performance and health monitoring.
 - [Razzle](https://github.com/jaredpalmer/razzle) - Create server-rendered universal JavaScript applications with no configuration.
 - [Ask HN: Where can one learn about the history of the internet and the protocols?](https://news.ycombinator.com/item?id=17607095)
-
+- [Squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
