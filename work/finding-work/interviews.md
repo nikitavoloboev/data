@@ -1,15 +1,6 @@
 # Interviews
 
-## Favorite interviews
-
-- [Conversation With Charles Hoskinson](https://www.youtube.com/watch?v=6hgKMCSloM4)
-- [DevOps Chat with HashiCorp's CTO](https://www.youtube.com/watch?v=iV5doaYReyU)
-- [Jeff Bezos At The Economic Club Of Washington (2018)](https://www.youtube.com/watch?v=xv_vkA0jsyo)
-- [Linus Torvalds (2018)](https://www.youtube.com/watch?v=pQWj2Fgxdrc&t=927s)
-
-## Interesting interviews
-
-- [Leaving Google and Going Indie — An interview with Daniel Alm](https://medium.com/mailbutlerhq/leaving-google-and-going-indie-an-interview-with-daniel-alm-91078268a48b)
+[Your ultimate guide to interview preparation](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/) is an amazing guide that covers pretty much everything you need to know to prepare & pass a technical interview.
 
 ## Notes
 
@@ -17,7 +8,6 @@
 
 ## Links
 
-- [Your ultimate guide to interview preparation (2018)](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/) - Amazing guide.
 - [My Tech Interviews Experience: Failures, Successes and Tips for you](https://patrickbalestra.com/blog/2018/08/06/my-tech-interviews-experience.html)
 - [How I landed offers from Microsoft, Amazon, and Twitter without an Ivy League degree](https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8)
 - [Data structures cheat sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b#file-the-technical-interview-cheat-sheet-md)
