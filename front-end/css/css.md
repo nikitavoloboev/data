@@ -17,7 +17,6 @@
   - repeat until `<body>` is the containers
   - never use absolute widths (px, in, cm, etc.) for anything
 - body tag takes up the whole width and height of the browser screen.
-- Adding `* { border: 1px solid black; }` is helpful for debugging CSS to visualize all HTML elements.
 
 ## Links
 
