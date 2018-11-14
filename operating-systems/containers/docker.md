@@ -8,3 +8,4 @@
 - [Intro to Docker slides (2014)](http://jdlm.info/ds-docker-demo)
 - [Dokku](https://github.com/dokku/dokku#readme) - Docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - [dive](https://github.com/wagoodman/dive) - Tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
+- [Scratch Node.js Docker Images](https://github.com/astefanutti/scratch-node)
