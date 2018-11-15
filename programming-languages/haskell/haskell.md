@@ -47,3 +47,4 @@
 - [Fused effects](https://github.com/robrix/fused-effects) - Fast, flexible, fused effect system for Haskell.
 - [Examples of Dependently-typed programs in Haskell](https://github.com/sweirich/dth)
 - [haskell-lsp](https://github.com/alanz/haskell-lsp) - Haskell library for the Microsoft Language Server Protocol.
+- [Lambda World 2018 - Opening Keynote by Edward Kmett](https://www.youtube.com/watch?v=HGi5AxmQUwU)

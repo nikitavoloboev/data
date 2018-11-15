@@ -47,3 +47,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Svelte](https://hn.svelte.technology/top/1) - Neat HN implementation in Svelte tech.
 - [console.love](https://www.console.love/) - Collection of funny, quirky and lovely console messages from around the web.
 - [Open MCT](https://github.com/nasa/openmct) - Web based mission control framework.
+- [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - Wysiwyg editor built using ReactJS and DraftJS libraries.

@@ -85,6 +85,10 @@ Some simple rules to follow for myself doing things.
 - Adhere to [my budget](../finance/finance.md) that I set for each of the categories. If there is no budget left for eating out. Don't eat out.
 - Keep digital receipts of expensive purchases for warranty (scan it, if it's in paper).
 
+## Home
+
+- Always have natural light present at home. Open windows, breathe fresh air.
+
 ## Solving problems
 
 - Aggressively research whatever it is I don't understand. Google/dictionary/.. . Read, build a model of things in my head/software. Translate it to a workable solution.
