@@ -4,7 +4,7 @@
 
 Knowing this, I eat whole food, plant based diet. I take [few supplements](supplements.md) and I track all the [food I eat](foods.md) with [MyFitnessPal](https://www.myfitnesspal.com/).
 
-I only drink water, tea or coffee. No sugar in food/drinks. And I love exploring [new and interesting vegan recipes](https://github.com/nikitavoloboev/vegan-recipes#readme).
+I only drink water and tea and sometimes coffee. No sugar in food/drinks. And I love exploring [new and interesting vegan recipes](https://github.com/nikitavoloboev/vegan-recipes#readme).
 
 ## Notes
 
