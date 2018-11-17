@@ -13,7 +13,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 
 ## Music instruments
 
-- [Theremin](http://www.wikiwand.com/en/Theremin)
+- [Theremin](http://en.wikipedia.org/wiki/Theremin)
   - [Carolina Eyck - Painting for theremin and voice](https://www.youtube.com/watch?v=hGo2ZQuBJKQ)
 
 ## Torrent sites

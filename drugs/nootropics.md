@@ -1,4 +1,4 @@
-# [Nootropics](http://www.wikiwand.com/en/Nootropic)
+# [Nootropics](http://en.wikipedia.org/wiki/Nootropic)
 
 Sleep, exercise & and proper nutrition are the most important things you can do for ultimate mental performance combined with focused mindfulness.
 

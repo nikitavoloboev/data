@@ -1,4 +1,4 @@
-# [VPN](http://www.wikiwand.com/en/Virtual_private_network)
+# [VPN](http://en.wikipedia.org/wiki/Virtual_private_network)
 
 ## Options
 

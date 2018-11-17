@@ -1,4 +1,4 @@
-# [Reinforcement learning](http://www.wikiwand.com/en/Reinforcement_learning)
+# [Reinforcement learning](http://en.wikipedia.org/wiki/Reinforcement_learning)
 
 ## Links
 

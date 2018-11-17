@@ -1,4 +1,4 @@
-# [DNS](http://www.wikiwand.com/en/Domain_Name_System)
+# [DNS](http://en.wikipedia.org/wiki/Domain_Name_System)
 
 ## Links
 

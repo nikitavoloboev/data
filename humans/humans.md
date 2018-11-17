@@ -10,12 +10,12 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans#r
 
 Here are some humans whose work I found great interest in:
 
-- [Stanislav Grof](http://www.wikiwand.com/en/Stanislav_Grof)
+- [Stanislav Grof](http://en.wikipedia.org/wiki/Stanislav_Grof)
 - [Alan Watts](alan-watts.md)
 
 ## Interesting
 
-- [Ajahn Chah](http://www.wikiwand.com/en/Ajahn_Chah)
+- [Ajahn Chah](http://en.wikipedia.org/wiki/Ajahn_Chah)
 - Rupert Spira
 
 ## Favorite interviews

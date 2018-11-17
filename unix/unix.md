@@ -1,4 +1,4 @@
-# [Unix](http://www.wikiwand.com/en/Unix)
+# [Unix](http://en.wikipedia.org/wiki/Unix)
 
 Unix is pretty amazing for many things.
 

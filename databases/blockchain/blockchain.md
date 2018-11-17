@@ -1,4 +1,4 @@
-# [Blockchain](http://www.wikiwand.com/en/Blockchain)
+# [Blockchain](http://en.wikipedia.org/wiki/Blockchain)
 
 [This](https://www.youtube.com/watch?v=3aJI1ABdjQk) was a great video intro to the blockchain.
 

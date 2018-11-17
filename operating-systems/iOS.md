@@ -33,3 +33,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [ShortcutShortcut Launcher Siri Shortcut](https://www.reddit.com/r/shortcuts/comments/9jok3b/shortcut_launcher_streamline_the_shortcuts_app/)
 - [Linux shell for iOS](https://github.com/tbodt/ish)
 - [Flipper](https://github.com/facebook/flipper) - Desktop debugging platform for mobile developers.
+- [Shortcuts JS](https://github.com/joshfarrant/shortcuts-js) - JavaScript iOS 12 Shortcuts creator.

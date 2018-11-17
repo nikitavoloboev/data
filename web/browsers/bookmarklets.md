@@ -1,4 +1,4 @@
-# [Bookmarklets](http://www.wikiwand.com/en/Bookmarklet)
+# [Bookmarklets](http://en.wikipedia.org/wiki/Bookmarklet)
 
 I run my bookmarklets from KM like so:
 

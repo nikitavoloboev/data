@@ -1,4 +1,4 @@
-# [Assembly](http://www.wikiwand.com/en/Assembly_language)
+# [Assembly](http://en.wikipedia.org/wiki/Assembly_language)
 
 ## Links
 

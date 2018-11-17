@@ -1,4 +1,4 @@
-# [Tmux](http://www.wikiwand.com/en/Tmux)
+# [Tmux](http://en.wikipedia.org/wiki/Tmux)
 
 ## Links
 

@@ -1,4 +1,4 @@
-# [System Design](http://www.wikiwand.com/en/Systems_design)
+# [System Design](http://en.wikipedia.org/wiki/Systems_design)
 
 ## Links
 

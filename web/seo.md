@@ -1,4 +1,4 @@
-# [Search Engine Optimization](http://www.wikiwand.com/en/Search_engine_optimization)
+# [Search Engine Optimization](http://en.wikipedia.org/wiki/Search_engine_optimization)
 
 ## Notes
 

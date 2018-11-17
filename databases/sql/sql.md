@@ -1,4 +1,4 @@
-# [SQL](http://www.wikiwand.com/en/SQL)
+# [SQL](http://en.wikipedia.org/wiki/SQL)
 
 ## Notes
 

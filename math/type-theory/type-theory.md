@@ -1,4 +1,4 @@
-# [Type Theory](http://www.wikiwand.com/en/Type_theory)
+# [Type Theory](http://en.wikipedia.org/wiki/Type_theory)
 
 Roughly speaking, a [type is a specification of its possible values](https://github.com/skaslev/why-types/blob/master/why-types.pdf).
 

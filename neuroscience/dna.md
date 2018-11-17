@@ -1,4 +1,4 @@
-# [DNA](http://www.wikiwand.com/en/DNA)
+# [DNA](http://en.wikipedia.org/wiki/DNA)
 
 ## Notes
 

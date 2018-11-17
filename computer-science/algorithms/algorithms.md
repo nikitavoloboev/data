@@ -4,7 +4,7 @@
 
 ## Interesting algorithms
 
-- [PageRank](http://www.wikiwand.com/en/PageRank) - [How it works?](http://qr.ae/TUpCVB)
+- [PageRank](http://en.wikipedia.org/wiki/PageRank) - [How it works?](http://qr.ae/TUpCVB)
 
 ## Notes
 

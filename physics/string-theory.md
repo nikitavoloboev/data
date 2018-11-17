@@ -1,4 +1,4 @@
-# [String theory](http://www.wikiwand.com/en/String_theory)
+# [String theory](http://en.wikipedia.org/wiki/String_theory)
 
 ## Notes
 

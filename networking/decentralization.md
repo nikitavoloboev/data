@@ -1,4 +1,4 @@
-# [Decentralization](http://www.wikiwand.com/en/Decentralization)
+# [Decentralization](http://en.wikipedia.org/wiki/Decentralization)
 
 ## Links
 

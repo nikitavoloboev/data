@@ -1,6 +1,6 @@
 # Math
 
-[Univalent foundations](http://www.wikiwand.com/en/Univalent_foundations) and [Type Theory](type-theory/type-theory.md) are interesting. And [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has incredible explanations for various math topics.
+[Univalent foundations](http://en.wikipedia.org/wiki/Univalent_foundations) and [Type Theory](type-theory/type-theory.md) are interesting. And [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has incredible explanations for various math topics.
 
 ## Notes
 

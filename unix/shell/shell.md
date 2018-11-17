@@ -1,4 +1,4 @@
-# [Unix Shell](http://www.wikiwand.com/en/Unix_shell)
+# [Unix Shell](http://en.wikipedia.org/wiki/Unix_shell)
 
 ## Variables
 

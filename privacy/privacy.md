@@ -6,7 +6,7 @@ I made a [repository](https://github.com/nikitavoloboev/privacy-respecting#readm
 
 I use [Hosts](https://github.com/StevenBlack/hosts#readme) and [Wipr](https://itunes.apple.com/nl/app/wipr/id1320666476?l=en&mt=12) for both mac & iOS to limit tracking.
 
-And I have deep interest in [Differential privacy](http://www.wikiwand.com/en/Differential_privacy) and [Homomorphic encryption](http://www.wikiwand.com/en/Homomorphic_encryption).
+And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/Differential_privacy) and [Homomorphic encryption](http://en.wikipedia.org/wiki/Homomorphic_encryption).
 
 ## Notes
 

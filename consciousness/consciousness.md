@@ -2,7 +2,7 @@
 
 Consciousness is an interesting thing. The only way to study it is through self reflection, meditation and awareness.
 
-[Stanislav Grof](http://www.wikiwand.com/en/Stanislav_Grof) does interesting work on this subject.
+[Stanislav Grof](http://en.wikipedia.org/wiki/Stanislav_Grof) does interesting work on this subject.
 
 ## Notes
 

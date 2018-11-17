@@ -1,10 +1,10 @@
 # Aging
 
-Aging is a disease and thus can potentially be cured. For example, [Turritopsis dohrnii](http://www.wikiwand.com/en/Turritopsis_dohrnii) jelly fish ages backwards.
+Aging is a disease and thus can potentially be cured. For example, [Turritopsis dohrnii](http://en.wikipedia.org/wiki/Turritopsis_dohrnii) jelly fish ages backwards.
 
 ## Notes
 
-- [Curcumin](http://www.wikiwand.com/en/Curcumin), [Pterostilbene](http://www.wikiwand.com/en/Pterostilbene) and [Nicotinamide riboside](http://www.wikiwand.com/en/Nicotinamide_riboside) supposedly have anti aging properties.
+- [Curcumin](http://en.wikipedia.org/wiki/Curcumin), [Pterostilbene](http://en.wikipedia.org/wiki/Pterostilbene) and [Nicotinamide riboside](http://en.wikipedia.org/wiki/Nicotinamide_riboside) supposedly have anti aging properties.
 
 ## Links
 

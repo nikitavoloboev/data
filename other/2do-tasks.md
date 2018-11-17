@@ -316,7 +316,7 @@ Here are the lists I share so far.
 - (!!) read
   https://speakerdeck.com/emfree/queueing-theory
 - (!!) history of television
-  http://www.wikiwand.com/en/History_of_television
+  http://en.wikipedia.org/wiki/History_of_television
 - (!!) blog
   https://owenou.com/
 - (!!) read more information on spaced repetition and take notes
@@ -343,7 +343,7 @@ https://www.supermemo.com/en/articles/20rules
 - (!!) check it out
   http://research.swtch.com/
 - (!!) read about
-  http://www.wikiwand.com/en/Epistemology
+  http://en.wikipedia.org/wiki/Epistemology
 - (!!) give it a read
   https://eviltrout.com/
 - (!!) read
@@ -530,7 +530,7 @@ https://www.supermemo.com/en/articles/20rules
   https://www.washingtonpost.com/graphics/2017/lifestyle/the-slow-secret-death-of-the-electric-guitar/?utm_term=.5548db810676
 - things to read about compilers
 - give it a read
-  http://www.wikiwand.com/en/David_Sarnoff
+  http://en.wikipedia.org/wiki/David_Sarnoff
 - a good blog to read
   http://ctshryock.com/archive.html
 - read
@@ -946,7 +946,7 @@ https://www.supermemo.com/en/articles/20rules
 - (!!) research
   https://github.com/TomasTomecek/sen
 - (!!) research
-  http://www.wikiwand.com/en/Carl_Jung
+  http://en.wikipedia.org/wiki/Carl_Jung
 - (!!) his projects
   https://yakczar.com/projects/
 - (!!) research
@@ -993,7 +993,7 @@ https://www.supermemo.com/en/articles/20rules
 - research
   https://github.com/englehardt/cookies-that-give-you-away
 - learn about him
-  http://www.wikiwand.com/en/Mikhail_Leonidovich_Gromov
+  http://en.wikipedia.org/wiki/Mikhail_Leonidovich_Gromov
 - research
   https://mat.tm/joy/#faq
 - research
@@ -1040,7 +1040,7 @@ https://www.supermemo.com/en/articles/20rules
 - research
   https://github.com/wies/grasshopper
 - research
-  http://www.wikiwand.com/en/Benzodiazepine
+  http://en.wikipedia.org/wiki/Benzodiazepine
 - research
   https://github.com/Jeiwan/blockchain_go
 - research
