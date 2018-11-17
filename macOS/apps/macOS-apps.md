@@ -4,10 +4,6 @@ I maintain a big list of apps I use on my system [here](https://github.com/nikit
 
 And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full list of the apps I have inside my `/Applications` folder.
 
-## Notes
-
-- Dash app renders faster with light mode.
-
 ## Links
 
 - [Awesome macOS apps](https://github.com/learn-anything/macos-apps#readme)
