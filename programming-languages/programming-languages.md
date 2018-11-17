@@ -11,3 +11,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Awesome static analysis](https://github.com/mre/awesome-static-analysis#readme) - Curated list of static analysis tools, linters and code quality checkers for various programming languages.
 - [Lists of most popular repositories for most favored programming languages](https://github.com/kaxap/arl#readme)
 - [Rockstar](https://github.com/dylanbeattie/rockstar#readme) - Idiomatic Rockstar [FizzBuzz implementation](https://github.com/dylanbeattie/rockstar#examples) is the best thing ever.
+- [Twelf](http://twelf.org/wiki/Main_Page) - Language used to specify, implement, and prove properties of deductive systems such as programming languages and logics.
