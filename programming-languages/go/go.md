@@ -69,3 +69,4 @@ Go promotes composition over inheritance.
 - [Standard Go Project Layout](https://github.com/golang-standards/project-layout#readme)
 - [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 - [Golang Monorepo](https://github.com/flowerinthenight/golang-monorepo#readme) - Example of a golang-based monorepo.
+- [Lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5.

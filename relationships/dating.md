@@ -14,3 +14,8 @@ For first dates specifically, I find it best to arrange to meet as soon as possi
 - [Enjoy yourself while talking, don’t make it your goal to please her, but to enjoy yourself.](https://www.reddit.com/r/dating_advice/comments/99yal5/guys_any_tips_on_how_to_flirt_with_a_girl/)
 - [Some women will spend hours getting ready before they go out. If you compliment their style and how they've put themselves together it validates all of that work and goes a lot further than just saying some variation of "you're beautiful".](https://www.reddit.com/r/dating_advice/comments/99yal5/guys_any_tips_on_how_to_flirt_with_a_girl/)
 - [Consuming information but NOT approaching women?](https://www.youtube.com/watch?v=aqDFncK-hJE)
+- [It’s hard because you have to get comfortable with being vulnerable. You have to be open to the chance of getting hurt. Be okay with putting your all out there and getting nothing in return. You have to love who you really are enough to know that regardless of whether the person you’re trying to open up to accepts you or not, you’re still the same complete you either way.](https://www.reddit.com/r/datingoverthirty/comments/9wv6v5/how_modern_dating_feels/e9nlnmt/?utm_content=permalink)
+
+## Links
+
+- [Kino Escalation: How To Attract Women With Physical Touch](https://www.reddit.com/r/seduction/comments/9xs54q/kino_escalation_how_to_attract_women_with/?utm_content=comments)
