@@ -27,3 +27,4 @@ Perhaps we can replicate a universe like ours in the future. One of the more int
 - [What in physics is fundamental?](https://www.reddit.com/r/askscience/comments/7cnx2u/what_in_physics_is_fundamental/)
 - [The World in UV](https://www.youtube.com/watch?v=V9K6gjR07Po)
 - [Why does it take a million years for a photon moving at the speed of light to reach the sun's surface from its core?](https://www.reddit.com/r/askscience/comments/5q79dy/why_does_it_take_a_million_years_for_a_photon/dcwyis0/)
+- [Why do I study Physics? (2013)](https://www.youtube.com/watch?v=pom8S7qF5Gk)
