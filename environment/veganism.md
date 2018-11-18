@@ -21,3 +21,5 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Why doctors don't recommend veganism: Dr Michael Greger](https://www.youtube.com/watch?v=ajhX5jWmlL0)
 - [Why Meat is the Best Worst Thing in the World](https://www.youtube.com/watch?v=NxvQPzrg2Wg)
 - [Should we go vegan?](https://en.wikiversity.org/wiki/Should_we_go_vegan%3F)
+- [Ending Heart Disease: Cardiologist Kim Williams, M.D.](https://www.youtube.com/watch?v=X4TMsRKOe8Q)
+- [Great Reddit thread about benefits of going vegan](https://www.reddit.com/r/PlantBasedDiet/comments/9xwyls/posted_this_in_rvegan_and_they_sent_me_here/)

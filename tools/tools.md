@@ -23,6 +23,7 @@ I love software and non software tools that help me in some way.
 - [Habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation.
 - [Toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODO's in your codebase.
 - [Speedscope](https://github.com/jlfwong/speedscope) - Fast, interactive web-based viewer for performance profiles.
+- [Dependabot](https://dependabot.com/) - Creates pull requests to keep your dependencies secure and up-to-date.
 
 ## Links
 

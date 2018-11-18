@@ -11,3 +11,4 @@
 - [Physically Based Rendering Book](https://www.pbrt.org/)
 - [Shader Toy](https://www.shadertoy.com/) - Build and Share your best shaders with the world and get inspired.
 - [NVIDIA GeForce RTX - Official Launch Event (2018)](https://www.youtube.com/watch?v=Mrixi27G9yM)
+- [Thread on Bezier Curves](https://twitter.com/FreyaHolmer/status/1063633408411295744)
