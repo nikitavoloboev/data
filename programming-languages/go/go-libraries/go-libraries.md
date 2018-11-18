@@ -44,3 +44,4 @@
 - [go-jsonschema](https://github.com/atombender/go-jsonschema) - Tool to generate Go data types from JSON Schema definitions.
 - [go-write](https://github.com/google/go-write) - Package write provides a way to atomically create or replace a file or symbolic link.
 - [go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library.
+- [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5.

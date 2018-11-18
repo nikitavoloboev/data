@@ -24,3 +24,4 @@
 - [Guy Kawasaki: The Top 10 Mistakes of Entrepreneurs](https://www.youtube.com/watch?v=HHjgK6p4nrw)
 - [Ines Montani - How to Ignore Most Startup Advice and Build a Decent Software Business (2018)](https://www.youtube.com/watch?v=74AsJ7RET20)
 - [Run less software](https://www.intercom.com/blog/run-less-software/)
+- [Equity Compensation Guide](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference, including hundreds of resources, explained from the ground up and made to be improved over time.

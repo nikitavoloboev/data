@@ -13,4 +13,3 @@ I use a standing desk riser to turn any table into a temporary standing desk if 
 
 - [Workout Prep](https://www.julian.com/guide/muscle/prep)
 - [Strength Training](http://macournoyer.com/blog/2013/08/22/strength/)
-- [What Happens to Your Body If You Use A Standing Desk Everyday for 6 Months](https://www.youtube.com/watch?v=zvaPuT_1qYQ)

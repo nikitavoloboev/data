@@ -11,3 +11,5 @@
 - [Distributed Systems in One Lesson by Tim Berglund (2017)](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 - [Træfik](https://github.com/containous/traefik#readme) - Modern HTTP reverse proxy and load balancer that makes deploying microservices easy.
 - [Kit](https://github.com/go-kit/kit) - Standard library for microservices written in Go.
+- [Fear and Loathing in Lock-Free Programming (2017)](https://medium.com/@tylerneely/fear-and-loathing-in-lock-free-programming-7158b1cdd50c)
+- [Reliable Systems Series: Model-Based Testing (2018)](https://medium.com/@tylerneely/reliable-systems-series-model-based-property-testing-e89a433b360)

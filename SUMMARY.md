@@ -278,6 +278,7 @@
     - [Cooking](health/nutrition/cooking/cooking.md)
     - [Fasting](health/nutrition/fasting.md)
     - [Supplements](health/nutrition/supplements.md)
+  - [Ergonomics](health/ergonomics.md)
   - [Aging](health/aging.md)
   - [Skin care](health/skin-care.md)
   - [Depression](health/depression.md)

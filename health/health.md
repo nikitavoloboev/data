@@ -11,6 +11,7 @@ Here are some things I am trying to improve with my health right now.
 - Good posture - I try to be conscious of my posture at all times. Never slouching my back and sitting at one spot for too long.
 - Dental care - Brushing my teeth every morning and evening as well as flossing it few times throughout the day.
 - [Skin care](skin-care.md) - Clean & moisturize my skin every morning and evening & applying occasional face masks.
+- [Ergonomics](ergonomics.md) - Properly sitting, standing and keeping good posture throughout the day.
 
 ## Notes
 
