@@ -8,3 +8,4 @@
 - [Unix system programming in OCaml](https://ocaml.github.io/ocamlunix/)
 - [Esy](https://github.com/esy/esy) - Package.json workflow for native development with Reason/OCaml.
 - [mlsub](https://github.com/stedolan/mlsub) - Prototype type inference engine.
+- [OCaml for Haskellers](http://blog.ezyang.com/2010/10/ocaml-for-haskellers/)
