@@ -19,5 +19,6 @@ Roughly speaking, a [type is a specification of its possible values](https://git
 - [Homotopy type theory book](https://github.com/HoTT/HoTT)
 - [GHOTL Project scope and outline plan](https://sphalerite.org/ghotl/posts/2017-10-16-project-scope-outline.html) - Good read.
 - [What I wish I knew when learning HoTT](https://abooij.github.io/wiwikwlhott/)
-- [Collected works of Per Martin-Löf](https://github.com/michaelt/martin-lof)
+- [Collected works of Per Martin-Löf](https://github.com/michaelt/martin-lof) - [Web version](http://archive-pml.github.io/).
 - [Type Theory: Does understanding of the Curry-Howard correspondence make you a better programmer?](http://qr.ae/TUpF3Z)
+- [Hazel](https://github.com/hazelgrove/hazel) - Live functional programming environment with typed holes.

@@ -24,6 +24,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 
 - Specify a pick point for delivery if I won't be home during the delivery time.
 - [The profile picture is the logo for your Twitter brand. Pick a unique picture that's recognizable from a distance, and don't change it. It'll stand out in a pile of mentions and allow busy accounts to notice and remember you.](https://twitter.com/naval/status/1062020468725571584)
+- Wrap Google queries with complex chars in `""`. i.e. google for `"set -x" zsh` instead of `set -x zsh`.
 
 ## Other
 

@@ -33,6 +33,7 @@ Here are few more things I liked, design wise.
 - [Wimer Hazenberg](https://www.monokai.nl/)
 - [Adam Pritchard](https://crypti.cc/)
 - [Mike Solomon](https://msol.io/)
+- [Seena Burns](http://seenaburns.com/) - Love the color scheme & look. Awesome blog.
 - [I am Stevedao](https://iamstevendao.github.io/portfolio/)
 - [Tonsky](http://tonsky.me/about/)
 - [Isobit](https://www.isobit.io)
