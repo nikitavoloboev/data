@@ -29,8 +29,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Some beautiful paid wallpapers for iPhones](https://gumroad.com/jmdenis)
 - [Building Fluid Interfaces](https://medium.com/@nathangitter/building-fluid-interfaces-ios-swift-9732bb934bf5)
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - Clean and easy-to-use floating panel UI component for iOS.
-- [Sharecuts](https://sharecuts.app/) - Public repository of shortcuts for the Shortcuts app.
-- [ShortcutShortcut Launcher Siri Shortcut](https://www.reddit.com/r/shortcuts/comments/9jok3b/shortcut_launcher_streamline_the_shortcuts_app/)
 - [Linux shell for iOS](https://github.com/tbodt/ish)
 - [Flipper](https://github.com/facebook/flipper) - Desktop debugging platform for mobile developers.
-- [Shortcuts JS](https://github.com/joshfarrant/shortcuts-js) - JavaScript iOS 12 Shortcuts creator.
