@@ -306,6 +306,7 @@
 - [Anki](anki/anki.md)
 - [Philosophy](philosophy/philosophy.md)
   - [Simulated reality](philosophy/simulated-reality.md)
+  - [Effective altruism](philosophy/effective-altruism.md)
 - [Video](video/video.md)
 - [Machine learning](machine-learning/machine-learning.md)
   - [Neural networks](machine-learning/neural-networks.md)
