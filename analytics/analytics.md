@@ -13,3 +13,4 @@ For user facing products, well implemented analytics will let you see how to opt
 - [Matamo](https://matomo.org/) - Open source alternative to Google Analytics.
 - [Fathom](https://github.com/usefathom/fathom) - Simple, trustworthy website analytics. Built with Golang & Preact.
 - [LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
+- [Grafana](https://github.com/grafana/grafana) - Tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.

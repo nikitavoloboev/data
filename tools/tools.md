@@ -14,6 +14,7 @@ I love software and non software tools that help me in some way.
 - [Git.io](https://git.io/) - URL shortener by GitHub.
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph#readme) - Code search and intelligence, self-hosted and scalable.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
+- [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
 
 ## Other
 

@@ -20,6 +20,7 @@ I use [Reeder](../macOS/apps/reeder.md) to stay on top of my favorite blogs I fo
 - [Shtetl-Optimized](https://www.scottaaronson.com/blog/)
 - [Cindy Sridharan](https://medium.com/@copyconstruct)
 - [Nassim Nicholas Taleb](https://medium.com/@nntaleb)
+- [Seana Burns](http://seenaburns.com/)
 
 ## Links
 

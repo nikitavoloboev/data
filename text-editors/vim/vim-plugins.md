@@ -127,6 +127,10 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 - [Deoplete clang](https://github.com/zchee/deoplete-clang) - Deoplete source for C/C++/Obj-C/Obj-C++.
 
+## Rust
+
+- [Vim Racer](https://github.com/racer-rust/vim-racer) - Allows vim to use [Racer](https://github.com/racer-rust/racer) for Rust code completion and navigation.
+
 ## Git
 
 - [Gitv](https://github.com/gregsexton/gitv) - See Git branching history.
