@@ -16,3 +16,4 @@
 - [Cross](https://github.com/rust-embedded/cross) - "Zero setup" cross compilation and "cross testing" of Rust crates.
 - [Vim setup for Rust](http://seenaburns.com/vim-setup-for-rust/)
 - [Cargo Watch](https://github.com/passcod/cargo-watch) - Watches over your Cargo project's source.
+- [List of Rust bloggers](https://users.rust-lang.org/t/fearless-rust-bloggers/16770)

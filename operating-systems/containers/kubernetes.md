@@ -37,3 +37,4 @@
 - [You might not need Kubernetes (2018)](https://blog.jessfraz.com/post/you-might-not-need-k8s/)
 - [Kubespray](https://github.com/kubernetes-incubator/kubespray) - Deploy a Production Ready Kubernetes Cluster.
 - [Argo](https://github.com/argoproj/argo) - Container-native workflows for Kubernetes.
+- [Kazan](https://github.com/obmarg/kazan) - Kubernetes API client for Elixir.

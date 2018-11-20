@@ -42,3 +42,4 @@
 - [rust-url](https://github.com/servo/rust-url) - URL parser for Rust.
 - [Mundane](https://github.com/google/mundane/) - Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
 - [Rust-Postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for Rust.
+- [im-rs](https://github.com/bodil/im-rs) - Assorted immutable collection datatypes for Rust.

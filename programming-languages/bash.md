@@ -15,3 +15,4 @@ Also it's useful to use [SpellCheck](https://www.shellcheck.net).
 - [Safe ways to do things in Bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md#readme) ([HN comments](https://news.ycombinator.com/item?id=17057596))
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible#readme) - Collection of pure bash alternatives to external processes.
 - [Bash Infinity](https://github.com/niieani/bash-oo-framework) - Modern boilerplate / framework / standard library for Bash.
+- [Funky](https://github.com/bbugyi200/funky) - Takes shell functions to the next level by making them easier to define, more flexible, and more interactive.

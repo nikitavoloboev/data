@@ -45,3 +45,4 @@
 - [go-write](https://github.com/google/go-write) - Package write provides a way to atomically create or replace a file or symbolic link.
 - [go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library.
 - [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5.
+- [gocc](https://github.com/goccmack/gocc) - Parser / Scanner Generator.

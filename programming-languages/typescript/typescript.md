@@ -19,3 +19,4 @@
 - [Babel 7 + TypeScript](http://artsy.github.io/blog/2017/11/27/Babel-7-and-TypeScript/)
 - [Classes vs interfaces in TS](https://toddmotto.com/classes-vs-interfaces-in-typescript)
 - [StREST](https://github.com/eykhagen/strest#readme) - Set up tests for REST in seconds with YAML.
+- [Fork TS Checker Webpack Plugin](https://github.com/Realytics/fork-ts-checker-webpack-plugin) - Webpack plugin that runs typescript type checker on a separate process.

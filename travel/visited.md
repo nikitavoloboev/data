@@ -2,7 +2,7 @@
 
 I keep various lists of places I liked on [Foursquare](https://foursquare.com/user/458393289).
 
-Below are countries and cities I visited thus far with some comments on them. The links on the cities link to a Foursquare list of places I liked from it. Cities with 🌟 are my **favorite**.
+Below are countries and cities I visited thus far with some comments on them. Cities with 🌟 are my **favorite**.
 
 ## Netherlands
 
