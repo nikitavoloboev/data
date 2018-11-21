@@ -17,3 +17,4 @@
 - [Vim setup for Rust](http://seenaburns.com/vim-setup-for-rust/)
 - [Cargo Watch](https://github.com/passcod/cargo-watch) - Watches over your Cargo project's source.
 - [List of Rust bloggers](https://users.rust-lang.org/t/fearless-rust-bloggers/16770)
+- [Jon Gjengset YouTube channel](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ) - Does many awesome Rust streams.
