@@ -27,6 +27,7 @@ Here are some humans whose work I found great interest in:
 
 ## Interesting interviews
 
+- [Interview with Charles Hoskinson Founder of IOHK and Cardano (2018)](https://www.youtube.com/watch?v=8-TlaXP0c1s)
 - [Leaving Google and Going Indie — An interview with Daniel Alm](https://medium.com/mailbutlerhq/leaving-google-and-going-indie-an-interview-with-daniel-alm-91078268a48b)
 
 ## Links

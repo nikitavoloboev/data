@@ -105,6 +105,7 @@ Here are few more things I liked, design wise.
 - [Tom Bonnike](https://tom-bonnike.com/)
 - [Alexey Sekachov](https://work.asekachov.com/) - Clean.
 - [Aaron Covrett](http://aaroncovrett.com/play/)
+- [Rekka Bellum](https://kokorobot.ca/#about)
 
 ## Other
 
