@@ -360,6 +360,7 @@
 - [Art](art/art.md)
   - [Photography](art/photography.md)
   - [Drawing](art/drawing.md)
+  - [Comics](art/comics.md)
   - [Dancing](art/dancing.md)
 - [API](api/api.md)
 - [Encoding](encoding/encoding.md)

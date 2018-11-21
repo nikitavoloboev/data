@@ -20,3 +20,4 @@ Here is how that all looks together for me:
 ## Links
 
 - [Tweetbot 3 URL Schemes](https://tapbots.net/tweetbot3/support/url-schemes/)
+- [How I use Twitter (2018)](https://krausefx.com/blog/how-i-use-twitter)

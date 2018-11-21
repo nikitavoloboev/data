@@ -25,3 +25,4 @@ Learning to write music. Live coding music sounds pretty awesome. I used [Sonic 
 - [Interactive Music Theory Lessons](https://www.lightnote.co/) - ([HN Comments](https://news.ycombinator.com/item?id=12792063))
 - [Synesthesia & creating your own score | Devonté Hynes | TED](https://www.youtube.com/watch?v=Dc60ldmTrIg)
 - [Stimming Interview: How I Play](https://www.youtube.com/watch?v=fuKYq_n4Ops)
+- [Functional music theory library for JavaScript](https://github.com/danigb/tonal)
