@@ -49,3 +49,4 @@
 - [haskell-lsp](https://github.com/alanz/haskell-lsp) - Haskell library for the Microsoft Language Server Protocol.
 - [Lambda World 2018 - Opening Keynote by Edward Kmett](https://www.youtube.com/watch?v=HGi5AxmQUwU)
 - [Haskell Source Extensions](https://github.com/haskell-suite/haskell-src-exts) - Package for handling and manipulating Haskell source code.
+- [Hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Modern property-based testing system, in the spirit of QuickCheck.

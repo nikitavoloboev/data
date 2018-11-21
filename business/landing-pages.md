@@ -6,6 +6,7 @@
 - [Nuzzle app](https://muzzleapp.com/) - One of the funnier ones.
 - [Sentry](https://sentry.io/welcome/)
 - [Onroadmap](https://onroadmap.com/) - Clean.
+- [Twizzy](https://twizzy.app/) - Beautiful & clean landing page.
 
 ## Notes
 
@@ -23,3 +24,4 @@
 - [Pages.xyz](https://www.pages.xyz/)
 - [Ask HN: Examples of great landing pages?](https://news.ycombinator.com/item?id=16710952)
 - [Mockup World](https://www.mockupworld.co/) - Free photo-realistic Mockups.
+- ["Just ship it" is not always the right mindset](https://www.indiehackers.com/forum/just-ship-it-is-not-always-the-right-mindset-b71eda7696)

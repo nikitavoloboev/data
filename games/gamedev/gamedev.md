@@ -19,3 +19,4 @@
 
 - [Raylib](http://www.raylib.com) - Simple and easy-to-use library to learn video games programming.
 - [Diablo: A Classic Game Postmortem (2016)](https://www.youtube.com/watch?v=VscdPA6sUkc)
+- [Game Engine Architecture Book](https://www.gameenginebook.com/)

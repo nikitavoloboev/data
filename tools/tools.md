@@ -25,6 +25,7 @@ I love software and non software tools that help me in some way.
 - [Toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODO's in your codebase.
 - [Speedscope](https://github.com/jlfwong/speedscope) - Fast, interactive web-based viewer for performance profiles.
 - [Dependabot](https://dependabot.com/) - Creates pull requests to keep your dependencies secure and up-to-date.
+- [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images.
 
 ## Links
 

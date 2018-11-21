@@ -11,3 +11,4 @@
 - [WebAssembly Demystified](http://floooh.github.io/2017/06/09/webassembly-demystified.html)
 - [Life](https://github.com/perlin-network/life#readme) - Secure WebAssembly VM catered for decentralized applications.
 - [Calls between JavaScript and WebAssembly are finally fast](https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/)
+- [Wasmer](https://github.com/WAFoundation/wasmer) - High-Performance WebAssembly JIT interpreter.

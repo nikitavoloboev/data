@@ -15,3 +15,4 @@ Don't use it but [Luminus](http://www.luminusweb.net/), [ClojureScript](clojures
 - [Clojure is a product design tool (2018)](https://lobste.rs/s/vyehjy/clojure_is_product_design_tool)
 - [HN: Clojure at Netflix (2013)](https://news.ycombinator.com/item?id=18345243)
 - [kaocha](https://github.com/lambdaisland/kaocha) - Full featured next gen Clojure test runner.
+- [Manifold](https://github.com/ztellman/manifold) - Compatibility layer for event-driven abstractions.

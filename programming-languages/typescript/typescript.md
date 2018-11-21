@@ -20,3 +20,4 @@
 - [Classes vs interfaces in TS](https://toddmotto.com/classes-vs-interfaces-in-typescript)
 - [StREST](https://github.com/eykhagen/strest#readme) - Set up tests for REST in seconds with YAML.
 - [Fork TS Checker Webpack Plugin](https://github.com/Realytics/fork-ts-checker-webpack-plugin) - Webpack plugin that runs typescript type checker on a separate process.
+- [Tsickle](https://github.com/angular/tsickle) - TypeScript to Closure Translator.
