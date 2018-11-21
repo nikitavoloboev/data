@@ -16,7 +16,7 @@ I like to write all my workflows in Go language unless the workflow can be done 
 4. Create the workflow I want to make in Alfred Preferences. Add the icon, name and unique bundle ID. And add the workflow to my custom `Mine` category so I can quickly filter out all the workflows I've ever made inside Alfred.
 5. Carry the info.plist and .png file of the logo to this workflow directory I created. I use Alfred's _Move To..._ file action for quickly transferring files. You can find these files by going here.
 
-   ![](https://i.imgur.com/5UBCGbc.png)
+![](https://i.imgur.com/5UBCGbc.png)
 
 6. Delete the workflow I made from Alfred preferences.
 7. Inside my `alfred-..` directory I run `alfred link`. That creates a symlink between the workflow directory and where the actual workflow lies. This uses [alfred](https://godoc.org/github.com/jason0x43/go-alfred/alfred) CLI tool.
