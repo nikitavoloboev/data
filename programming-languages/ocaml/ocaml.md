@@ -9,3 +9,4 @@
 - [Esy](https://github.com/esy/esy) - Package.json workflow for native development with Reason/OCaml.
 - [mlsub](https://github.com/stedolan/mlsub) - Prototype type inference engine.
 - [OCaml for Haskellers](http://blog.ezyang.com/2010/10/ocaml-for-haskellers/)
+- [WebAssembly backend for OCaml (2018)](https://medium.com/@sanderspies/a-webassembly-backend-for-ocaml-b78e7eeea9d5)

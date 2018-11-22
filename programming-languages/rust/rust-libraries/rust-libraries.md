@@ -44,3 +44,4 @@
 - [Rust-Postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for Rust.
 - [im-rs](https://github.com/bodil/im-rs) - Assorted immutable collection datatypes for Rust.
 - [Juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust.
+- [Logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers.

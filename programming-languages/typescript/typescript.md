@@ -21,3 +21,4 @@
 - [StREST](https://github.com/eykhagen/strest#readme) - Set up tests for REST in seconds with YAML.
 - [Fork TS Checker Webpack Plugin](https://github.com/Realytics/fork-ts-checker-webpack-plugin) - Webpack plugin that runs typescript type checker on a separate process.
 - [Tsickle](https://github.com/angular/tsickle) - TypeScript to Closure Translator.
+- [Set of TSLint rules used on some Microsoft projects](https://github.com/Microsoft/tslint-microsoft-contrib)
