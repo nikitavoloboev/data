@@ -40,3 +40,4 @@
 - [Disnix](https://github.com/svanderburg/disnix) - Nix-based distributed service deployment tool.
 - [NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages.
 - [Eris](https://github.com/thoughtpolice/eris) - Binary cache for Nix.
+- [pypi2nix](https://github.com/garbas/pypi2nix) - Generate Nix expressions for Python packages.

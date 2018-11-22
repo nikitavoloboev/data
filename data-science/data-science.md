@@ -15,3 +15,4 @@
 - [Best way to organize research code? (2018)](https://www.reddit.com/r/MachineLearning/comments/8v1g6c/d_best_way_to_organise_research_code/)
 - [Data Science Cheat Sheet](https://github.com/ml874/Data-Science-Cheatsheet#readme)
 - [Our world in data](https://ourworldindata.org/science-and-research)
+- [Free data science books](https://github.com/chaconnewu/free-data-science-books#readme)

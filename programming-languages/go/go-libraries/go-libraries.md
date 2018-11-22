@@ -46,3 +46,4 @@
 - [go-metrics](https://github.com/rcrowley/go-metrics) - Go port of Coda Hale's Metrics library.
 - [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5.
 - [gocc](https://github.com/goccmack/gocc) - Parser / Scanner Generator.
+- [k8s](https://github.com/ericchiang/k8s) - Simple Kubernetes Go client.
