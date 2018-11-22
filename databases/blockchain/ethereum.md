@@ -10,3 +10,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Proof of Stake FAQ](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ)
 - [Around the Block | Episode 2 | Scars of Consensus](https://www.youtube.com/watch?v=yMbOxJQ1Hlo&)
 - ["People don't realize how close the tech is to being ready" - Vitalik & Balaji Srinivasan at ETHSF (2018)](https://www.youtube.com/watch?v=E35poTWzWZA)
+- [ethereum-haskell](https://github.com/bkirwi/ethereum-haskell) - Independent reimplementation of Ethereum in Haskell.

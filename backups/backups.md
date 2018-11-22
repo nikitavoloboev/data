@@ -19,3 +19,4 @@ I love the fact that I can set up any new machine or phone to use my `exact` and
 ## Links
 
 - [Tao backup](http://taobackup.com/) - Pretty funny take on backups.
+- [Rsync time backup](https://github.com/laurent22/rsync-time-backup)
