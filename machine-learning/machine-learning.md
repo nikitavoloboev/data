@@ -46,3 +46,4 @@
 - [HN: Can we rule out near-term AGI? (2018)](https://news.ycombinator.com/item?id=18405025)
 - [Introduction to Grenade (Haskell library for Deep Learning)](https://www.huwcampbell.com/posts/2017-02-17-introduction-to-grenade.html)
 - [Grenade](https://github.com/HuwCampbell/grenade) - Deep Learning in Haskell.
+- [Deep Learning 1: Introduction to Machine Learning Based AI](https://www.youtube.com/watch?v=iOh7QUZGyiU)
