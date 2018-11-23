@@ -71,3 +71,4 @@ Go promotes composition over inheritance.
 - [Golang Monorepo](https://github.com/flowerinthenight/golang-monorepo#readme) - Example of a golang-based monorepo.
 - [Lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5.
 - [Data Structures with Go Language](https://github.com/Dentrax/Data-Structures-with-Go)
+- [go-hardware](https://github.com/rakyll/go-hardware) - Directory of hardware related libs, tools, and tutorials for Go.
