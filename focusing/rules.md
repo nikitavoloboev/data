@@ -60,7 +60,6 @@ Some simple rules to follow for myself doing things.
 - Track all time in [Timing](../macOS/apps/timing.md). Reflect on it at the end of the day & week.
 - Wear comfortable clothes.
 - Sit up right always. Never slouch. Keep shoulders at good width.
-- Share everything I know and made.
 
 ## Learn
 
@@ -73,6 +72,10 @@ Some simple rules to follow for myself doing things.
 - Learn [fundamentals first](https://medium.com/@nikitavoloboev/the-root-of-it-all-9b6ab6a77e1d).
 - Draw. Use drawings and imagination to distill complex ideas.
 - Watch talks & tutorials in 1.5 or 2x speed, unless it hurts comprehension.
+
+## Share
+
+- Share everything I know and made.
 
 ## Compassion
 
@@ -151,7 +154,6 @@ Some simple rules to follow for myself doing things.
 ## GitHub
 
 - Add appropriate topics to each repo. Add the languages used in the repo as topics.
-- Make many experiments and share them.
 - Use relative links instead of hard wired links. For example in GitHub you can use `../issues/` to reference issues of current repo from readme.
 - Decouple the issue/pr in the GitHub issue/PR itself. Using Bee app. Update it as I am working.
 
@@ -359,9 +361,9 @@ Some simple rules to follow for myself doing things.
 ## Sleep
 
 - Prefer to sleep and wake up at the same time.
-  - 6:30AM - Wake up.
-  - 11:00PM - Sleep.
-- Sleep for ~ 7 hours each day.
+  - 6:00AM - Wake up.
+  - 10:00PM - Sleep.
+- Sleep for ~ 8 hours each day.
 - No Mac/phone in bed in the the morning.
 
 ## Timing
