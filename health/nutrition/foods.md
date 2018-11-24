@@ -4,63 +4,75 @@ I exclude all foods that are not healthy and experiment with many [vegan recipes
 
 Most of my diet consists of eating almonds, walnuts, blueberries, bananas and avocados.
 
-## Vegetables
+I use [Paprika app](https://www.paprikaapp.com/) to both store all my recipes & the foods I can eat sorted into categories (with top first). Here is how it looks:
 
-- Broccoli
-- Kale
-- Carrots
-- Spinach
-- Arugula
-
-## Fruits
-
-- Avocados
-- Bananas
-- Blueberries
-- Peaches
-- Lemons
-- Grapes
+![](https://i.imgur.com/a9lMUh7.png)
 
 ## Nuts
 
-- Walnuts
-- Pistachios
-- Almonds
-- Cashews
-- Hazelnuts
-- Brazil nuts
-- Peanuts
+- almonds
+- hazelnuts
+- walnuts
 
-## Legumes
+## Vegetables
 
-- Beans
-- Griffonia Seeds - Lots of 5-HTP.
-- Lentils
-- Chickpeas
-- Pinto beans
+- broccoli
+- carrots
+- chickpeas
+- kale
+- spinach
 
-## Spices
+## Fruits
 
-- Parsley
-- Oregano
-- Rosemary
-- Turmeric
-- Paprika
-- Curry
-- Chilly
-- Salt
-- Pepper
-- Sage
+- avocados
+- bananas
+- blueberries
 
-## Other
+## Nuts (other)
 
-- Dark chocolate
-- Mushrooms
-- Ginger
-- Garlic
-- Tofu
-- Olive oil
-- Coconut oil
+- brazil nuts
+- cashews
+- peanuts
+- pistachio nuts
+
+## Vegetables (other)
+
+- arugula
+
+## Fruits (other)
+
+- grapes
+- lemons
+- peaches
+
+## Beans (other)
+
+- griffonia seeds
+- pinto beans
+
+## Spices (other)
+
+- chilli's
+- curry powder
+- garlic
+- ginger
+- lentils
+- oregano
+- paprika
+- parsley
+- peppers
+- rosemary
+- sage
+- turmeric
+
+## Oils (other)
+
+- coconut oil
+- olive oil
+
+## Mushrooms (other)
+
+- mushrooms
 
 ## Links
 
