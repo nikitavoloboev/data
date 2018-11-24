@@ -20,3 +20,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Ask HN: Where can one learn about the history of the internet and the protocols?](https://news.ycombinator.com/item?id=17607095)
 - [Squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [Making dev.to Incredibly fast](https://dev.to/ben/making-devto-insanely-fast)
+- [The Most Annoying Website - Feross Aboukhadijeh (2018)](https://www.youtube.com/watch?v=QFZ-pwErSl4)

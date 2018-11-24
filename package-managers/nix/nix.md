@@ -41,3 +41,4 @@
 - [NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages.
 - [Eris](https://github.com/thoughtpolice/eris) - Binary cache for Nix.
 - [pypi2nix](https://github.com/garbas/pypi2nix) - Generate Nix expressions for Python packages.
+- [hnix-store](https://github.com/haskell-nix/hnix-store) - Haskell implementation of the nix store API.
