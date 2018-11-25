@@ -24,3 +24,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Learn Blockchain in 2 months](https://github.com/llSourcell/Learn_Blockchain_in_2_months#readme)
 - [Emerging New Trends in Blockchain Technologies](https://blog.coinfabrik.com/emerging-new-trends-blockchain-technologies/)
 - [Mechanism design challenges in cryptocurrency and blockchains by Buterin Slides](https://docs.google.com/presentation/d/1MLwN2-pBufDmUNprf-r8LXFCm1Ua8skphzDTNPTaiUQ/edit#slide=id.p)
+- [Edward Snowden Explains Blockchain to His Lawyer — and the Rest of Us](https://www.aclu.org/blog/privacy-technology/internet-privacy/edward-snowden-explains-blockchain-his-lawyer-and-rest-us)
