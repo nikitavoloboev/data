@@ -450,3 +450,4 @@
     - [August](looking-back/2018/2018-august.md)
     - [September](looking-back/2018/2018-september.md)
     - [October](looking-back/2018/2018-october.md)
+    - [November](looking-back/2018/2018-november.md)

@@ -1,6 +1,6 @@
 # [Haskell](https://www.haskell.org)
 
-[The book of types](http://reasonablypolymorphic.com/types.pdf) is a pretty great intro to type systems and Type-Level Programming in Haskell.
+[Haskell book](http://haskellbook.com/) & [Thinking with types](https://leanpub.com/thinking-with-types) are great intros to Haskell, type systems and Type-Level Programming in Haskell.
 
 ## Notes
 
