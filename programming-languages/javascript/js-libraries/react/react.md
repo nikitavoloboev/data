@@ -43,3 +43,4 @@
 - [Intro to debugging ReactJS applications](https://medium.com/@baphemot/intro-to-debugging-reactjs-applications-67cf7a50b3dd)
 - [Evergreen](https://github.com/segmentio/evergreen) - React UI Framework by Segment.
 - [RFC: React Hooks](https://github.com/reactjs/rfcs/pull/68#issuecomment-439314884) - Great discussion on React Hooks proposal.
+- [React Demystified (2014)](http://blog.reverberate.org/2014/02/react-demystified.html)
