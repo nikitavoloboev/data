@@ -10,3 +10,5 @@
 - [Objc](https://www.objc.io/)
 - [Top App Developers](https://github.com/app-developers/top)
 - [Proposal: Universal dynamic dispatch for method calls (2015)](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20151207/001948.html)
+- [SwiftSyntax](https://github.com/apple/swift-syntax) - Set of Swift bindings for the libSyntax library. It allows for Swift tools to parse, inspect, generate, and transform Swift source code..
+- [Komondor](https://github.com/orta/Komondor) - Git Hooks for Swift projects.

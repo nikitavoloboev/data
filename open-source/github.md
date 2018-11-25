@@ -29,3 +29,4 @@ I publish most of my work and make it open source for other people to use and re
 - [How to collaborate on GitHub](https://github.com/eonist/How-to-collaborate-on-github#readme) - Mini book about collaborating on GitHub.
 - [Gitrob](https://github.com/michenriksen/gitrob#readme) - Tool to help find potentially sensitive files pushed to public repositories on GitHub.
 - [Octoverse](https://octoverse.github.com/projects.html)
+- [utterances](https://github.com/utterance/utterances) - Lightweight comments widget built on GitHub issues.
