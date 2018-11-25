@@ -11,3 +11,4 @@ Some articles I read and liked.
 - [~2015 in review](https://medium.com/@sebmck/2015-in-review-51ac7035e272) - Inspiring.
 - [My AirBnb story](https://medium.com/non-fiction/my-airbnb-story-cafb5cd7fcbe) - Share your work.
 - [What does Stack Overflow want to be when it grows up?](https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/)
+- [Be Careful About What You Dislike (2016)](http://lucumr.pocoo.org/2016/11/5/be-careful-about-what-you-dislike/)

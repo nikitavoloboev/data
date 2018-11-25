@@ -104,7 +104,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 - [Vim caddyfile](https://github.com/isobit/vim-caddyfile) - Caddyfile syntax support.
 
-## Javascript
+## JavaScript
 
 - [Tern](https://github.com/ternjs/tern_for_vim) - Provides [Tern](http://ternjs.net/)-based JavaScript editing support.
 - [Deoplete Tern.js](https://github.com/carlitux/deoplete-ternjs)
@@ -135,6 +135,10 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 - [Gitv](https://github.com/gregsexton/gitv) - See Git branching history.
 - [Gitgutter](https://github.com/airblade/vim-gitgutter) - Shows git diff in the gutter (sign column) and stages/undoes hunks.
+
+## Markdown
+
+- [Markdown Preview for Neovim](https://github.com/iamcco/markdown-preview.nvim)
 
 ## Ruby
 
