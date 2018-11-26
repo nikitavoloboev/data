@@ -16,3 +16,5 @@
 - [Login Critter](https://github.com/cgoldsby/LoginCritter) - Animated avatar that responds to text field interactions.
 - [Pixel](https://github.com/muukii/Pixel) - Image editor and engine using CoreImage.
 - [FlexibleImage](https://github.com/kawoou/FlexibleImage) - Simple way to play with the image.
+- [Reqres](https://github.com/AckeeCZ/Reqres) - Simple network activity logger for iOS.
+- [ObjectBox Swift](https://github.com/objectbox/objectbox-swift) - Persisting your Swift objects superfast and simple.

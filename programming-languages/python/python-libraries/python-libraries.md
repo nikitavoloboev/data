@@ -7,3 +7,4 @@
 - [Flit](http://flit.readthedocs.io/en/latest/) - Simple way to put Python packages and modules on PyPI.
 - [Photon](https://github.com/s0md3v/Photon) - Lightning fast web crawler which extracts URLs, files, intel & endpoints from a target.
 - [Snowy](https://github.com/prideout/snowy) - Tiny Python 3 module for manipulating and generating images.
+- [Trio](https://github.com/python-trio/trio) - Pythonic async I/O for humans and snake people.

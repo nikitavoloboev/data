@@ -3,3 +3,4 @@
 ## Links
 
 - [Idris koans](https://github.com/idris-hackers/idris-koans)
+- [Awesome Idris](https://github.com/joaomilho/awesome-idris#readme)

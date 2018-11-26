@@ -17,13 +17,13 @@ The one book I read by him and loved is [Wisdom of Insecurity](https://antilogic
 - [It all goes together](https://www.youtube.com/watch?v=qml1-xzPpxY)
 - [The Freedom To Make Mistakes](https://www.youtube.com/watch?v=AnLZBdB9uWU&t=5s)
 - [Story of the Chinese Farmer](https://www.youtube.com/watch?v=b_onYOLnELI)
-- [The Real Purpose of Doing Anything](https://www.youtube.com/watch?v=QMpJm_dYbx0)
 
 ## Interesting talks
 
 - [How Your Beliefs Create Reality](https://www.youtube.com/watch?v=u4Qp_q-PqAc)
 - [Analytical Thinking (Act Without Thinking)](https://www.youtube.com/watch?v=S18KUmPjRdg)
 - [The Ways In Which The Material World Is An Illusion](https://www.youtube.com/watch?v=_l0ZqjhQzks)
+- [The Real Purpose of Doing Anything](https://www.youtube.com/watch?v=QMpJm_dYbx0)
 
 ## Mixed in music
 

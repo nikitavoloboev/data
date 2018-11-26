@@ -47,3 +47,4 @@
 - [lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5.
 - [gocc](https://github.com/goccmack/gocc) - Parser / Scanner Generator.
 - [k8s](https://github.com/ericchiang/k8s) - Simple Kubernetes Go client.
+- [go-plist](https://github.com/DHowett/go-plist) - Pure Go Apple Property List transcoder.
