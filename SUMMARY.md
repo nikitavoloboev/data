@@ -192,6 +192,7 @@
 - [Mindfulness](mindfulness/mindfulness.md)
   - [Meditation](mindfulness/meditation.md)
   - [Buddhism](mindfulness/buddhism.md)
+  - [Tao](mindfulness/tao.md)
 - [Compilers](compilers/compilers.md)
   - [LLVM](compilers/llvm.md)
 - [Physics](physics/physics.md)

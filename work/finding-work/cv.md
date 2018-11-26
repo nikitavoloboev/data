@@ -27,6 +27,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Jiahao Li](http://ljh.me/resume/) - Impressive.
 - [Shawn Allen](http://secularproducts.com/cv/)
 - [Alexander Matyushentsev](https://alexmt.github.io/resume/) - Web & simple.
+- [Emina Torlak](https://homes.cs.washington.edu/~emina/cv.html) - HTML.
 
 ## Notes
 

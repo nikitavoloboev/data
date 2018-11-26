@@ -17,6 +17,7 @@ The one book I read by him and loved is [Wisdom of Insecurity](https://antilogic
 - [It all goes together](https://www.youtube.com/watch?v=qml1-xzPpxY)
 - [The Freedom To Make Mistakes](https://www.youtube.com/watch?v=AnLZBdB9uWU&t=5s)
 - [Story of the Chinese Farmer](https://www.youtube.com/watch?v=b_onYOLnELI)
+- [The Real Purpose of Doing Anything](https://www.youtube.com/watch?v=QMpJm_dYbx0)
 
 ## Interesting talks
 

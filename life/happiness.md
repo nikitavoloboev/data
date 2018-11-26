@@ -45,6 +45,7 @@ I practice this art of minimizing and focusing on what's important to me & remov
 
 - [I agree with you that happiness is peace. And it is a state of mind irregardless of what you experience, you can be in this peaceful state detached from emotions and feelings, only attaching yourself to things that matter to you. Mindfully observing your experience.](https://www.reddit.com/r/Psychonaut/comments/8f52lr/my_thoughts_on_happiness/)
   - As for its relation to neurochemistry, I most certainly agree that it plays a major role. That's why things like exercise, proper nutrition and plentiful sleep plays such a huge role in achieving and maintaining this state of happiness. Without those three things, or in other words, without you taking care of your body, reaching these states of being is simply much harder if not impossible.
+- Happiness is the absence of the striving for happiness.
 
 ## Links
 
