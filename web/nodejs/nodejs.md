@@ -9,3 +9,4 @@
 - [ndb](https://github.com/trending) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
 - [What is the Node way?](http://thenodeway.io/introduction)
 - [Redbird](https://github.com/OptimalBits/redbird) - Modern reverse proxy for node.
+- [ncc](https://github.com/zeit/ncc) - Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.

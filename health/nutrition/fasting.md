@@ -1,6 +1,6 @@
 # Fasting
 
-I fast for 13 hours during some days of a week. I often break my fast after my morning exercise (Gym/Tennis/Running).
+I fast for 13 hours every day. I usually break my fast in the morning after some exercise (Gym/Tennis/Running).
 
 ## Notes
 
