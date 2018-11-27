@@ -1,6 +1,6 @@
 # Fasting
 
-I fast for 16 hours during some days of a week. I often break my fast after my morning exercise (Gym/Tennis/Running).
+I fast for 13 hours during some days of a week. I often break my fast after my morning exercise (Gym/Tennis/Running).
 
 ## Notes
 
@@ -12,3 +12,5 @@ I fast for 16 hours during some days of a week. I often break my fast after my m
 - [Dr. Jason Fung - 'Therapeutic Fasting - Solving the Two-Compartment Problem'](https://www.youtube.com/watch?v=tIuj-oMN-Fk&feature=youtu.be&t=1018) - Amazing talk.
 - [Benefits of Fasting](https://www.reddit.com/r/fasting/comments/8uuryw/is_there_any_scientific_evidence_for_detoxing/e1ihaxd/)
 - [Great discussions around health benefits of fasting](https://www.reddit.com/r/fasting/comments/8bqdoe/for_anyone_that_is_interested_in_learning_more/dx9p5gu/)
+- [Health lies in healthy circadian habits | Satchin Panda (2017)](https://www.youtube.com/watch?v=erBJuxVR7IE)
+- [Dr. Satchin Panda on Practical Implementation of Time-Restricted Eating & Shift Work Strategies](https://www.youtube.com/watch?v=iywhaz5z0qs)

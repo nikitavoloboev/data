@@ -14,3 +14,4 @@ Might give it a go sometime.
 - [Getting started with emacs](http://www.howardism.org/Technical/Emacs/emacs-getting-started.html)
 - [Emacs Evil Guide](https://github.com/noctuid/evil-guide) - Addresses questions vim users might have when first using emacs with evil.
 - [Ohai emacs](https://github.com/bodil/ohai-emacs) - Finest hand crafted artisanal emacs.d for your editing pleasure.
+- [Emacs Everywhere (2017)](https://ambrevar.xyz/emacs-everywhere/)

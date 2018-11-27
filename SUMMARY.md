@@ -253,6 +253,7 @@
   - [Progressive Web Apps](web/progressive-web-apps.md)
 - [Cloud computing](cloud-computing/cloud-computing.md)
   - [Cloud hosting](cloud-computing/cloud-hosting.md)
+  - [Serverless computing](cloud-computing/serverless-computing.md)
   - [AWS](cloud-computing/aws/aws.md)
 - [Front End](front-end/front-end.md)
   - [HTML](front-end/html.md)
