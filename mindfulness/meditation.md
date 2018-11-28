@@ -10,7 +10,7 @@ I like to practice mindfulness through journaling my thoughts in my diary. I wro
 
 I do want to start more focused mindfulness and trying to practice _channeling_ my focus. I do build my personal system of productivity and happiness around this idea of _less thinking, more happiness_. I try to cultivate good thoughts and let bad thoughts pass by. I focus on the present moment and try to take the best from the cards I have been dealt. And more importantly I try to be _proactive_ with life. Great things won't happen if you sit idly waiting for things to happen. You either have to go out and find these great things or make your own.
 
-I use my Apple Watch to quickly start small 1/3/5 min timers where I focus on my breath and bring my mind into place whenever I find myself getting distracted and not doing the task I need to do. I also use [Oak](https://itunes.apple.com/us/app/oak-meditation-breathing/id1210209691?mt=8) iOS app for longer and sometimes guided sessions of focused mindfulness. In all the cases I focus on my breath and distill my mind by silently observing my breath and thoughts and not attaching to anything in the process.
+I use my Apple Watch to quickly start small 1/3/5 min timers where I focus on my breath and bring my mind into place whenever I find myself getting distracted and not doing the task I need to do. I also use [Oak](https://itunes.apple.com/us/app/oak-meditation-breathing/id1210209691?mt=8) iOS app for longer and sometimes guided sessions of focused mindfulness. In all cases I focus on my breath and distill my mind by silently observing my breath and thoughts and not attaching to anything in the process.
 
 ## Notes
 
