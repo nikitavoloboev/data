@@ -2,14 +2,14 @@
 
 Currently only use encrypted Time Machine backups.
 
-But in future, I plan to start using [Arq](https://www.arqbackup.com) to make encrypted backups to [Amazon Glacier](https://www.backblaze.com/) in addition to Time Machine.
+But in future, I plan to start using [Arq](https://www.arqbackup.com) to make encrypted cloud backups in addition to Time Machine backups.
 
 I love the fact that I can set up any new machine or phone to use my `exact` and perfect setup without any cruft in seconds.
 
 ## Backup tools
 
-- [Restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
 - [Arq](https://www.arqbackup.com/) - Automatically backs up Macs and Windows PCs.
+- [Restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
 
 ## Notes
 
