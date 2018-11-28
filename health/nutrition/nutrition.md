@@ -18,3 +18,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. And 
 - [The Last Conversation You’ll Ever Need to Have About Eating Right](http://www.grubstreet.com/2018/03/ultimate-conversation-on-healthy-eating-and-nutrition.html)
 - [Nutrition Facts](https://nutritionfacts.org/) - Has bias towards vegan foods. But whole food plant based diet is really the way to go.
 - [Examine](https://examine.com/) - Unbiased source on nutrition and supplements.
+- [Joel Fuhrman - How Processed Food is Killing Us and What We Can Do About It (2018)](https://www.youtube.com/watch?v=gBGnX8aLc6A)

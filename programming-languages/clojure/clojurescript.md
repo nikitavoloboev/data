@@ -8,3 +8,4 @@
 - [chestnut](https://github.com/plexus/chestnut) - Application template for Clojure + ClojureScript web apps.
 - [Lumo](https://github.com/anmonteiro/lumo) - Fast, cross-platform, standalone ClojureScript environment.
 - [React without JavaScript: ClojureScript, Reagent, Figwheel (2018)](https://www.youtube.com/watch?v=R07s6JpJICo)
+- [Planck](https://github.com/planck-repl/planck) - Stand-alone ClojureScript REPL.
