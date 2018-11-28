@@ -22,3 +22,4 @@ Roughly speaking, a [type is a specification of its possible values](https://git
 - [Collected works of Per Martin-Löf](https://github.com/michaelt/martin-lof) - [Web version](http://archive-pml.github.io/).
 - [Type Theory: Does understanding of the Curry-Howard correspondence make you a better programmer?](http://qr.ae/TUpF3Z)
 - [Hazel](https://github.com/hazelgrove/hazel) - Live functional programming environment with typed holes.
+- [LaTTe](https://github.com/latte-central/LaTTe) - Laboratory for Type Theory experiments (in clojure).

@@ -20,3 +20,4 @@
 - [Jon Gjengset YouTube channel](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ) - Does many awesome Rust streams.
 - [The What and How of Futures and async/await in Rust](https://www.youtube.com/watch?v=9_3krAQtD2k)
 - [Introducing Rust crash course (2018)](https://www.snoyman.com/blog/2018/10/introducing-rust-crash-course)
+- [Rust Language Cheat Sheet](https://cheats.rs/)
