@@ -26,3 +26,4 @@
 - [Run less software](https://www.intercom.com/blog/run-less-software/)
 - [Equity Compensation Guide](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference, including hundreds of resources, explained from the ground up and made to be improved over time.
 - [Robert Vis (MessageBird): Bootstrapped & Profitable (2017)](https://www.youtube.com/watch?v=dxArUeYVaJQ)
+- [The Greatest Sales Deck I’ve Ever Seen (2016)](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
