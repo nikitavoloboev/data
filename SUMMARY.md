@@ -281,7 +281,7 @@
   - [Nutrition](health/nutrition/nutrition.md)
     - [Foods](health/nutrition/foods.md)
     - [Drinks](health/nutrition/drinks.md)
-    - [Cooking](health/nutrition/cooking/cooking.md)
+    - [Cooking](health/nutrition/cooking.md)
     - [Fasting](health/nutrition/fasting.md)
     - [Supplements](health/nutrition/supplements.md)
   - [Ergonomics](health/ergonomics.md)
