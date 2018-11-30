@@ -11,3 +11,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [CodeMirror](http://codemirror.net/) - In-browser code editor.
 - [Awesome Online IDE](https://github.com/styfle/awesome-online-ide#readme)
 - [Iota](https://github.com/gchp/iota) - Terminal-based text editor written in Rust.
+- [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.

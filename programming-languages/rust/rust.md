@@ -22,3 +22,4 @@
 - [Introducing Rust crash course (2018)](https://www.snoyman.com/blog/2018/10/introducing-rust-crash-course)
 - [Rust Language Cheat Sheet](https://cheats.rs/)
 - [Rerast](https://github.com/google/rerast) - Tool for transforming Rust code using rules.
+- [Rust Runtime for AWS Lambda](https://github.com/awslabs/aws-lambda-rust-runtime) - Makes it easy to run AWS Lambda Functions written in Rust.

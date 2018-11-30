@@ -38,3 +38,4 @@
 - [Pesticide](https://github.com/mrmrs/pesticide) - Kill your CSS layout bugs.
 - [Spectre](https://github.com/picturepan2/spectre) - Lightweight, Responsive and Modern CSS Framework.
 - [Tachyons](https://github.com/tachyons-css/tachyons) - Functional CSS for humans.
+- [CSS Animation 101](https://github.com/cssanimation/css-animation-101#readme)
