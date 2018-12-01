@@ -13,6 +13,10 @@
 - [popmotion](https://github.com/Popmotion/popmotion) - Functional, reactive animation library.
 - [impress.js](https://github.com/impress/impress.js) - Presentation framework based on the power of CSS3 transforms and transitions.
 
+## TypeScript
+
+- [ts-mockito](https://github.com/NagRock/ts-mockito) - Mocking library for TypeScript.
+
 ## Other
 
 - [micro github](https://github.com/mxstbr/micro-github) - Tiny microservice that makes adding authentication with GitHub to your application easy.

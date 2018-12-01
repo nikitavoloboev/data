@@ -4,7 +4,7 @@ The number between brackets shows the year I created the repo in. Repos with �
 
 ## Learn Anything
 
-- [Learn Anything (2017) 🌟](https://github.com/learn-anything/learn-anything#readme) - Search Interactive Maps to Learn Anything.
+- [Learn Anything (2017) 🌟](https://github.com/learn-anything/learn-anything#readme) - Organize world's knowledge, explore connections and curate learning paths.
 - [Alfred Learn Anything (2017) 🌟](https://github.com/nikitavoloboev/alfred-learn-anything#readme) - Alfred workflow to search Learn Anything.
 - [Curated lists (2018) 🌟](https://github.com/learn-anything/curated-lists#readme) - Curated lists on various topics.
 
