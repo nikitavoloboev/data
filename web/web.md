@@ -21,3 +21,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [Making dev.to Incredibly fast](https://dev.to/ben/making-devto-insanely-fast)
 - [The Most Annoying Website - Feross Aboukhadijeh (2018)](https://www.youtube.com/watch?v=QFZ-pwErSl4)
+- [What, exactly, is the DOM? (2018)](https://bitsofco.de/what-exactly-is-the-dom/)
