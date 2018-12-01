@@ -49,3 +49,4 @@
 - [k8s](https://github.com/ericchiang/k8s) - Simple Kubernetes Go client.
 - [go-plist](https://github.com/DHowett/go-plist) - Pure Go Apple Property List transcoder.
 - [gomail](https://github.com/go-gomail/gomail) - Best way to send emails in Go.
+- [validator](https://github.com/go-validator/validator) - Implements variable validations.

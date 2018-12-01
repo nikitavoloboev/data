@@ -30,4 +30,3 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Google embraces, extends, and extinguishes](http://sircmpwn.github.io/2018/05/03/Google-embraces-extends-extinguishes.html)
 - [Inside China’s Dystopian Dreams: A.I., Shame and Lots of Cameras](https://www.nytimes.com/2018/07/08/business/china-surveillance-technology.html)
 - [Keynote address from Tim Cook, CEO, Apple Inc (2018)](https://www.youtube.com/watch?v=kVhOLkIs20A)
-- [What is the hottest general torrent site right now? (2018)](https://www.reddit.com/r/Piracy/comments/9vy0oe/what_is_the_hottest_general_torrent_site_right_now/)

@@ -19,6 +19,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 ## Torrent sites
 
 - [DIGBT](https://www.digbt.org/)
+- [What is the hottest general torrent site right now? (2018)](https://www.reddit.com/r/Piracy/comments/9vy0oe/what_is_the_hottest_general_torrent_site_right_now/)
 
 ## Notes
 

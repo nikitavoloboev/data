@@ -23,3 +23,4 @@
 - [Rust Language Cheat Sheet](https://cheats.rs/)
 - [Rerast](https://github.com/google/rerast) - Tool for transforming Rust code using rules.
 - [Rust Runtime for AWS Lambda](https://github.com/awslabs/aws-lambda-rust-runtime) - Makes it easy to run AWS Lambda Functions written in Rust.
+- [cargo-inspect](https://github.com/mre/cargo-inspect/) - What is Rust doing behind the scenes?
