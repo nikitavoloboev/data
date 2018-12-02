@@ -38,20 +38,6 @@ Started focusing on mindfulness and minimalism and using only things that bring 
 - (28) Only now starting to appreciate the tools I have around me. And use each one with a purpose. My [ideas](https://trello.com/b/alB1ryRP) board is also filled with tools and stuff I need to build to further move me to an ever more perfect setup. I want to build a public service to better visualize user's tweets. Twitter does an appalling job at that. Something like [this](https://brandur.org/twitter) but anyone can plug in their name and get a similar looking visualization. This way I may drop off writing most of these `Notes` and just tweet instead. As that seems more natural. Will see. I still love having these `Notes` in a chronological order displayed here. It will be a fun read in 3 or even 5 or so years in the future. Things are changing so fast nowadays.
 - (28) For now I am focusing on beating my biggest bad habit. Getting distracted. I am channeling my focus for 90 min at a time. With small breaks in-between and I do feel I am getting better and better at separating news & fun from focused work.
 
-## Photos
-
-![](https://scontent-ams3-1.cdninstagram.com/vp/2b1f8a119d2bbdf25bd3419ac43b4a44/5BD40E2F/t51.2885-15/e35/28428181_175665736388402_1209533580204572672_n.jpg?efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV9pZyJ9)
-
-> [(2)](https://www.instagram.com/p/Bf0_7fIjhds/)
-
-![](https://scontent-ams3-1.cdninstagram.com/vp/0a6652613ef41a45c763815abb5f5a2f/5B3D053E/t51.2885-15/e35/28753104_368914760244266_5769848224948944896_n.jpg)
-
-> [(5)](https://www.instagram.com/p/Bf8ybHTDhfh/)
-
-![](https://scontent-ams3-1.cdninstagram.com/vp/ad6b4e71783887ab28e9fa6c4e8c78d8/5B54DF8A/t51.2885-15/e35/28753564_349101512251241_5494211294204526592_n.jpg)
-
-> [(12) Going on adventure 🐕](https://www.instagram.com/p/BgO5dAxHUJz/)
-
 ## Music
 
 - [Tracks](https://www.last.fm/user/playfullyExist/library/tracks?to=2018-03-31&from=2018-03-01) | [Artists](https://www.last.fm/user/playfullyExist/library/artists?to=2018-03-31&from=2018-03-01) | [Albums](https://www.last.fm/user/playfullyExist/library/albums?to=2018-03-31&from=2018-03-01)
