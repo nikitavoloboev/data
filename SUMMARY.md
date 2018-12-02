@@ -340,6 +340,7 @@
   - [Icons](design/icons.md)
   - [Fonts](design/fonts.md)
   - [Design inspiration](design/design-inspiration.md)
+  - [3D Modeling](design/3d-modeling.md)
   - [Monokai Night themes](design/monokai-night-themes.md)
 - [Keyboards](keyboards/keyboards.md)
   - [QMK](keyboards/qmk.md)
