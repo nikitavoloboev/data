@@ -50,3 +50,4 @@
 - [go-plist](https://github.com/DHowett/go-plist) - Pure Go Apple Property List transcoder.
 - [gomail](https://github.com/go-gomail/gomail) - Best way to send emails in Go.
 - [validator](https://github.com/go-validator/validator) - Implements variable validations.
+- [go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian JIRA.

@@ -82,6 +82,7 @@
   - [AppleScript](macOS/applescript.md)
 - [Hardware](hardware/hardware.md)
   - [Arduino](hardware/arduino.md)
+  - [Neuromorphic Computing](hardware/neuromorphic-computing.md)
 - [Math](math/math.md)
   - [Logic](math/logic/logic.md)
     - [Combinatory logic](math/logic/combinatory-logic.md)
