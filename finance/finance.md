@@ -22,6 +22,8 @@ I try to be very strict with my budgeting and make sure that when there is no mo
 
 I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews (on last Sunday of every month) and make sure I don't subscribe to any subscription that I find brings no value to my life or subscriptions that my budget doesn't allow to continue.
 
+![](https://i.imgur.com/hP31BZk.jpg)
+
 ## Notes
 
 - FI is possible everywhere. The idea stays the same, save more than you spend, try generate passive income through stocks, dividends and property.
