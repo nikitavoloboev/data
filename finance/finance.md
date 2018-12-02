@@ -14,7 +14,7 @@ I use [YNAB methodology](https://www.youneedabudget.com/method/) and [Actual app
 
 YNAB methodology for managing money is extremely effective as it allows me to be be more proactive with budgeting and spending. It lets me know how much money I have and how much money I can spend on any given category. I find this proactive approach in dealing with money very freeing and powerful.
 
-Each transaction made with N26 is automatically sorted into a category by an app. If that category is wrong, I correct it in N26 app. On Sundays of each week, I review all the purchases made, the money I have and my goals and based on set out the budget for next week. In my case that means moving the money I plan to spend this week into `Week` space with remaining money going into `Saving` or some big purchase goal I have (usually it being its own space).
+Each transaction made with N26 is automatically sorted into a category by the app. If that category is wrong, I correct it in N26 app. On Sundays of each week, I review all the purchases made, the money I have and my goals and based on that, set out the budget for next week. In my case that means moving the money I plan to spend next week into `Week` space with remaining money going into `Saving` or some big purchase goal I have (usually it being its own space).
 
 I try to be very strict with my budgeting and make sure that when there is no money left for `eating out`, I don't eat out. This approach to finance also makes me stop and review any non food related purchase I make in life and judge it accordingly before going through with it.
 
@@ -23,6 +23,12 @@ I try to be very strict with my budgeting and make sure that when there is no mo
 I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews (on last Sunday of every month) and make sure I don't subscribe to any subscription that I find brings no value to my life or subscriptions that my budget doesn't allow to continue.
 
 ![](https://i.imgur.com/hP31BZk.jpg)
+
+## Tracking what to buy next
+
+I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These are just tasks with `buy` tag in 2Do sorted by priority. Here is how it looks:
+
+![](https://i.imgur.com/DO716hS.png)
 
 ## Notes
 
