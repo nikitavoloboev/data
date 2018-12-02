@@ -1,32 +1,26 @@
 # Finance
 
-For my own personal finance, I budget all my money with [Actual](https://actualbudget.com/beta/) using [YNAB methodology](https://www.youneedabudget.com/method/).
+For my own personal finance, I budget all my money with my online bank app, [N26](https://n26.com/en-eu/) and its [spaces feature](https://n26.com/en-eu/spaces).
+
+
+On my [scheduled Sunday weekly reviews](../focusing/focusing.md), I budget out the money I plan myself to spend next week into a `Week` space in N26. The remaining money goes into `Save` space or any of my planned big purchases spaces. Here is how it looks in N26:
+
+![](https://i.imgur.com/cLd8G0J.jpg)
+
+> Macbook here is the planned purchase with goal of 2500 €
+
+
+I use [YNAB methodology](https://www.youneedabudget.com/method/) and [Actual app](https://actualbudget.com/beta/) to proactively budget my finances.
 
 YNAB methodology for managing money is extremely effective as it allows me to be be more proactive with budgeting and spending. It lets me know how much money I have and how much money I can spend on any given category. I find this proactive approach in dealing with money very freeing and powerful.
 
-I assign the budgets for the categories at the beginning of each month and am strict with adhering to the budgets. If there is no budget left for eating out, I don't eat out.
+Each transaction made with N26 is automatically sorted into a category by an app. If that category is wrong, I correct it in N26 app. On Sundays of each week, I review all the purchases made, the money I have and my goals and based on set out the budget for next week. In my case that means moving the money I plan to spend this week into `Week` space with remaining money going into `Saving` or some big purchase goal I have (usually it being its own space).
 
-I have few Income categories where all the money I 'receive' come from:
+I try to be very strict with my budgeting and make sure that when there is no money left for `eating out`, I don't eat out. This approach to finance also makes me stop and review any non food related purchase I make in life and judge it accordingly before going through with it.
 
-![](https://i.imgur.com/RTYhMv6.png)
+## Ongoing subscriptions
 
-All the money in my 'Income' I have to budget. Which I do as follows:
-
-![](https://i.imgur.com/CWo4O7N.png)
-
-There is a `Save` category group above and in there, there is `Save` category itself which basically acts as my savings account.
-
-I then spread the remaining money I have into categories and am taking money from `Save` as necessary. `Save` category group can also include new categories for big purchases I want to save up to (i.e. Tesla). I strive to always have at least 600 inside my `Save` category in case of emergencies.
-
-The `Bills` category gets updated at the start of every month and it includes my recurring subscription costs. Such as Rent, my phone provider or some software services.
-
-I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it at the start of every month and update the `Bills` category of my budget and reassess the subscription costs I have so I can cut down on unnecessary expenses. Here is how it looks for me:
-
-![](https://i.imgur.com/aq0qRW1.jpg)
-
-Actual will also soon let you automate setting of budgets in the future so that some of my categories like Food will have a fixed budget every month.
-
-I also use [N26](https://n26.com/en-eu/) as my online bank which I love.
+I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews (on last Sunday of every month) and make sure I don't subscribe to any subscription that I find brings no value to my life or subscriptions that my budget doesn't allow to continue.
 
 ## Notes
 

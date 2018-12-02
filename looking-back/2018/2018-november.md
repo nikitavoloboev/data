@@ -2,7 +2,7 @@
 
 ## Summary
 
-Nothing remarkable happened this month. A bit burned out by how much things exist in the world.
+Nothing remarkable happened this month. A bit burned out by how many things exist in the world.
 
 ## Timing
 
