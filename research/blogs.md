@@ -27,3 +27,4 @@ I use [Reeder](../macOS/apps/reeder.md) to stay on top of my favorite blogs I fo
 
 - [Awesome Blogs](https://github.com/learn-anything/blogs#readme)
 - [Many awesome blogs](https://lobste.rs/s/hrxdoq/what_s_url_your_technical_blog)
+- [overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov. Open source & built with Gastby.js

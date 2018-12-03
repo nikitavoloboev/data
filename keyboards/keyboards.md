@@ -34,3 +34,4 @@ I am interested in getting [Preonic Light](https://www.massdrop.com/buy/massdrop
 - [Planck Light review](https://www.reddit.com/r/MechanicalKeyboards/comments/8vd7ht/planck_light_review/)
 - [A Modern Space Cadet](http://stevelosh.com/blog/2012/10/a-modern-space-cadet)
 - [Keebio](https://keeb.io/) - Mechanical Keyboard Parts and Other Goodies.
+- [kbd-audio](https://github.com/ggerganov/kbd-audio) - Tools for capturing and analysing keyboard input paired with microphone capture.

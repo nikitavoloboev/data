@@ -6,6 +6,7 @@
 - [Love](https://love2d.org)
 - [ggez](https://github.com/ggez/ggez)
 - [Amethyst](https://github.com/amethyst/amethyst)
+- [Open Source Game Engine for Turn-Based Games](https://github.com/nicolodavis/boardgame.io)
 
 ## OSS Games
 

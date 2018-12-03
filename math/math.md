@@ -34,3 +34,4 @@
 - [Cambridge math notes](https://dec41.user.srcf.net/notes/)
 - [Mathematics as thought](https://aeon.co/essays/the-secret-intellectual-history-of-mathematics)
 - [Penrose](https://github.com/penrose/penrose#readme) - Language-based platform for creating beautiful mathematical diagrams.
+- [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)

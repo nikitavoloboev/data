@@ -47,3 +47,4 @@
 - [Introduction to Grenade (Haskell library for Deep Learning)](https://www.huwcampbell.com/posts/2017-02-17-introduction-to-grenade.html)
 - [Grenade](https://github.com/HuwCampbell/grenade) - Deep Learning in Haskell.
 - [Deep Learning 1: Introduction to Machine Learning Based AI](https://www.youtube.com/watch?v=iOh7QUZGyiU)
+- [Deep Learning cheatsheets for Stanford's CS 230 (2018)](https://github.com/afshinea/stanford-cs-230-deep-learning)
