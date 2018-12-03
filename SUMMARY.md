@@ -146,6 +146,8 @@
   - [Bash](programming-languages/bash.md)
   - [Clojure](programming-languages/clojure/clojure.md)
     - [ClojureScript](programming-languages/clojure/clojurescript.md)
+  - [Elixir](programming-languages/elixir/elixir.md)
+    - [Elixir libraries](programming-languages/elixir/elixir-libraries.md)
   - [Java](programming-languages/java/java.md)
   - [Lisp](programming-languages/lisp.md)
   - [C](programming-languages/c/c.md)

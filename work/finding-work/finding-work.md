@@ -4,7 +4,11 @@ This article on [Interviewing, applying and getting your first job in iOS](http:
 
 I made a curated list of ways to prepare and places to look to [find work programming](https://github.com/nikitavoloboev/find-work#readme).
 
-Often the most effective way to apply is to apply directly. Go to the website of the company you want to apply to and see if there is a `Jobs` section present somewhere and apply through it. You can also send a direct email to the company's hiring management or if it's a startup, you can send an email to the Founder directly.
+I use [LinkedIn](https://www.linkedin.com) & [Angellist](https://angel.co) and the [monthly HN: Who is hiring? threads](https://kennytilton.github.io/whoishiring/) for finding interesting work opportunities to apply to.
+
+I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTeX](https://github.com/nikitavoloboev/cv#readme).
+
+Sometimes the most effective way to apply is to apply directly. Go to the website of the company you want to apply to and see if there is a `Jobs` section present somewhere and apply through it. You can also send a direct email to the company's hiring management or if it's a startup, you can send an email to the Founder directly.
 
 I use a similar message for all my direct emails:
 
@@ -23,7 +27,7 @@ Nikita
 
 Never let impostor syndrome or anything else stop you from applying to your dream jobs. Most requirements placed on the job boards are not set in stone. If you know how to learn fast and know things already that are related, apply! Don't let rejections discourage you, ever. It's a numbers game and the first jobs are always the hardest to get.
 
-My favorite way to find interesting work is searching through [AngelList](https://angel.co/jobs) and the monthly [HN: Who Is Hiring](https://kennytilton.github.io/whoishiring/) thread. As well as meeting and interacting with people personally through various events.
+My other favorite way of finding interesting work opportunities is meeting and interacting with people personally through various events and getting to know what they're building.
 
 ## Notes
 
