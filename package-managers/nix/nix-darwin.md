@@ -8,10 +8,11 @@ There is [nix-darwin](https://github.com/LnL7/nix-darwin#readme) project that br
 - [cmacrae](https://github.com/cmacrae/.nixpkgs/blob/master/darwin-configuration.nix)
 - [Tom's nix-configs](https://github.com/nocoolnametom/nix-configs)
 
-## Nix configs (linux)
+## Nix configs (Linux)
 
 - [Infrastructure](https://github.com/rvolosatovs/infrastructure#readme)
 - [Bob nix-home](https://github.com/bobvanderlinden/nix-home)
+- [Brian McKenna Nix Files](https://github.com/puffnfresh/nix-files) - NixOS configuration and custom Nix derivations.
 
 ## Notes
 

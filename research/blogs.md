@@ -21,6 +21,7 @@ I use [Reeder](../macOS/apps/reeder.md) to stay on top of my favorite blogs I fo
 - [Cindy Sridharan](https://medium.com/@copyconstruct)
 - [Nassim Nicholas Taleb](https://medium.com/@nntaleb)
 - [Seana Burns](http://seenaburns.com/)
+- [Hundred Rabbits](https://100r.co/pages/blog.html)
 
 ## Links
 

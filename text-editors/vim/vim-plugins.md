@@ -51,6 +51,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Utility
 
+- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [Autoformat](https://github.com/Chiel92/vim-autoformat) - Easy code formatting.
 - [Which key](https://github.com/liuchengxu/vim-which-key) - Show keybindings in popup.
 - [Sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
