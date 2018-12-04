@@ -16,6 +16,10 @@
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance.
 
+## GraphQL
+
+- [gq](https://github.com/housecanary/gq) - Library to help build GraphQL server in Go.
+
 ## Flag parsing
 
 - [go-flags](https://github.com/jessevdk/go-flags) - Provides an extensive command line option parser.

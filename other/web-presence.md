@@ -67,7 +67,7 @@ These are my personal profiles on various websites sorted by categories.
 ## Video
 
 - [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) - Sharing videos I make on variety of subjects (mostly programming).
-- [Twitch](https://www.twitch.tv/nikitavoloboev)
+- [Twitch](https://www.twitch.tv/niikivi)
 
 ## Forums
 
@@ -89,7 +89,7 @@ These are my personal profiles on various websites sorted by categories.
 
 - [Patreon](https://patreon.com/nikitavoloboev) - Since I do nearly everything Open Source and Free by default, I don't get any money for these things. Thus anyone who likes my work can show it in form of small or bigger donations.
 - [Buy me a Coffee](https://www.buymeacoffee.com/nikitavoloboev) - One time donations.
-- [My public crypto addresses](https://www.vaulty.io/v/a0c360d0-2196-11e8-a119-494749abff15)
+- [My public Crypto addresses](https://www.vaulty.io/v/a0c360d0-2196-11e8-a119-494749abff15)
 
 ## Other
 
@@ -105,6 +105,6 @@ These are my personal profiles on various websites sorted by categories.
 - [DevianArt](https://nikivi.deviantart.com/)
 - [Eventbrite](https://www.eventbrite.com/u/146147331884/#) - Various events I have attended or planning to attend.
 - [Stack Overflow CV](https://stackoverflow.com/cv/nikitavoloboev) - Not using it. Using LinkedIn.
-- [Gfycat](https://gfycat.com/@nikivi) - Sharing Gifs.
+- [Gfycat](https://gfycat.com/@nikivi) - Sharing GIFs.
 - [TED](https://www.ted.com/profiles/10360419)
 - [AMA](https://github.com/nikitavoloboev/ama#readme) - Ask Me Anything.

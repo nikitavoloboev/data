@@ -9,7 +9,6 @@ On my [scheduled Sunday weekly reviews](../focusing/focusing.md), I budget out t
 
 > Macbook here is the planned purchase with goal of 2500 €
 
-
 I use [YNAB methodology](https://www.youneedabudget.com/method/) and [Actual app](https://actualbudget.com/beta/) to proactively budget my finances.
 
 YNAB methodology for managing money is extremely effective as it allows me to be be more proactive with budgeting and spending. It lets me know how much money I have and how much money I can spend on any given category. I find this proactive approach in dealing with money very freeing and powerful.

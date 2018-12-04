@@ -57,7 +57,7 @@ Some simple rules to follow for myself doing things.
 - Use the right tool for the job. Only when you master a tool, do you learn when not to use it. Learn new tools.
 - Start. Don't be afraid to solve the problem no matter how complex or intimidating it may be.
 - Ship early. Get feedback and iterate on it. Rinse and repeat.
-- Track all time in [Timing](../macOS/apps/timing.md). Reflect on it at the end of the day & week.
+- Track all time in [Timing](../macOS/apps/timing.md). Reflect on it at the end of the week.
 - Wear comfortable clothes.
 - Sit up right always. Never slouch. Keep shoulders at good width.
 

@@ -46,3 +46,4 @@
 - [React Demystified (2014)](http://blog.reverberate.org/2014/02/react-demystified.html)
 - [Inside Fiber: in-depth overview of the new reconciliation algorithm in React (2018)](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
 - [Why Do We Write super(props)? (2018)](https://overreacted.io/why-do-we-write-super-props/)
+- [How Does React Tell a Class from a Function? (2018)](https://overreacted.io/how-does-react-tell-a-class-from-a-function/)
