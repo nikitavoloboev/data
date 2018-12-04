@@ -15,3 +15,5 @@ Might give it a go sometime.
 - [Emacs Evil Guide](https://github.com/noctuid/evil-guide) - Addresses questions vim users might have when first using emacs with evil.
 - [Ohai emacs](https://github.com/bodil/ohai-emacs) - Finest hand crafted artisanal emacs.d for your editing pleasure.
 - [Emacs Everywhere (2017)](https://ambrevar.xyz/emacs-everywhere/)
+- [doom-emacs](https://github.com/hlissner/doom-emacs) - Emacs configuration for the stubborn martian vimmer.
+- [HN: Absolute Beginner's Guide to Emacs (2012)](https://news.ycombinator.com/item?id=18598544)
