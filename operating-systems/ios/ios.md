@@ -31,3 +31,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - Clean and easy-to-use floating panel UI component for iOS.
 - [Linux shell for iOS](https://github.com/tbodt/ish)
 - [Flipper](https://github.com/facebook/flipper) - Desktop debugging platform for mobile developers.
+- [How I'd learn iOS Development](https://sandofskvy.com/blog/how-to-learn-ios-development.html)

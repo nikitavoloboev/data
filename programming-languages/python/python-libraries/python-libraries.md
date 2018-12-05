@@ -1,5 +1,9 @@
 # Python libraries
 
+## Web
+
+- [Pyramid](https://github.com/Pylons/pyramid) - Small, fast, down-to-earth, open source Python web framework.
+
 ## Other
 
 - [Click](http://click.pocoo.org/5/) - Create beautiful command line interfaces in a composable way with as little code as necessary.

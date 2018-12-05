@@ -117,6 +117,7 @@
   - [Design patterns](programming/design-patterns.md)
   - [System Design](programming/system-design.md)
   - [Continuous Integration](programming/continuous-integration.md)
+  - [Documentation](programming/documentation.md)
 - [Programming languages](programming-languages/programming-languages.md)
   - [Go](programming-languages/go/go.md)
     - [Go libraries](programming-languages/go/go-libraries/go-libraries.md)

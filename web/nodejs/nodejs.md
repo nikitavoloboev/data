@@ -12,3 +12,4 @@
 - [ncc](https://github.com/zeit/ncc) - Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Node.js tool to automate end-to-end web testing.
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
+- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js.

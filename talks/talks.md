@@ -35,3 +35,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Awesome speaking](https://github.com/matteofigus/awesome-speaking#readme)
 - [Your IDE as a presentation tool](https://staltz.com/your-ide-as-a-presentation-tool.html)
 - [Really like this way of using a textual overview to present the talk](https://www.youtube.com/watch?v=thpzXjmYyGk)
+- [List of talks that are worth watching](https://github.com/PharkMillups/killer-talks#readme)
