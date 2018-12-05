@@ -12,3 +12,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - ["People don't realize how close the tech is to being ready" - Vitalik & Balaji Srinivasan at ETHSF (2018)](https://www.youtube.com/watch?v=E35poTWzWZA)
 - [ethereum-haskell](https://github.com/bkirwi/ethereum-haskell) - Independent reimplementation of Ethereum in Haskell.
 - [Ask HN: Any ICO that actually delivers what it promises? (2018)](https://news.ycombinator.com/item?id=18459664)
+- [Week in Ethereum News](http://www.weekinethereum.com/)

@@ -45,3 +45,4 @@
 - [im-rs](https://github.com/bodil/im-rs) - Assorted immutable collection datatypes for Rust.
 - [Juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust.
 - [Logos](https://github.com/maciejhirsz/logos) - Create ridiculously fast Lexers.
+- [Librsvg](https://github.com/GNOME/librsvg) - SVG rendering library.

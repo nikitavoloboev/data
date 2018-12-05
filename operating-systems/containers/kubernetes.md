@@ -8,6 +8,8 @@
   - It's just a radically new way of dealing with 'the cloud'. And the thing that makes it especially threatening to aws is that it doesn't matter where it runs. Developing an app for kubernetes on aws or google cloud or azure or anything else is almost an identical experience. People are going to become very price sensitive because that's the only thing that distinguishes one kubernetes host from another (aside from the ease of installing a kubernetes cluster -- something which aws is fairly far behind on)
 - In general, the right question to ask yourself when designing Pods is, “Will these containers work correctly if they land on different machines?” If the answer is “no,” a Pod is the correct grouping for the containers. If the answer is “yes,” multiple Pods is probably the correct solution.
 - Ingress controller watches for `Ingress` resources in your cluster.
+- [Kubernetes (or whatever other container scheduler) might feel like overkill, but if all they do is force you to adopt a container-centric / 12-factor way of building your applications it was worth trying them. And once you've adopted that workflow it's a no-brainer to go from a single node to a cluster which will dynamically allocate the workloads it runs.](https://news.ycombinator.com/item?id=18495697)
+  - Running a small container cluster at work has even changed how I setup single-host projects in my spare time: I will build everything into a container, bind-mount whatever it might need, create a simple systemd unit that just runs / rms the docker container on start and stop. Bliss.
 
 ## Links
 
@@ -34,7 +36,7 @@
 - [KubeContext](https://github.com/turkenh/KubeContext) - Menu Bar App for Managing Kubernetes Contexts on Mac.
 - [Kubeapps](https://github.com/kubeapps/kubeapps) - Web-based UI for deploying and managing applications in Kubernetes clusters.
 - [kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
-- [You might not need Kubernetes (2018)](https://blog.jessfraz.com/post/you-might-not-need-k8s/)
+- [You might not need Kubernetes (2018)](https://blog.jessfraz.com/post/you-might-not-need-k8s/) - [HN](https://news.ycombinator.com/item?id=18495697)
 - [Kubespray](https://github.com/kubernetes-incubator/kubespray) - Deploy a Production Ready Kubernetes Cluster.
 - [Argo](https://github.com/argoproj/argo) - Container-native workflows for Kubernetes.
 - [Kazan](https://github.com/obmarg/kazan) - Kubernetes API client for Elixir.

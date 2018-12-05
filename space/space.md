@@ -22,3 +22,4 @@
 - [How will the universe end? When will that happen?](https://www.quora.com/How-will-the-universe-end-When-will-that-happen/answer/Ethan-Oh-1)
 - [What Is a Nebula?](https://spaceplace.nasa.gov/nebula/en/)
 - [Celestia](https://github.com/CelestiaProject/Celestia) - Real-time space simulation that lets you experience our universe in three dimensions.
+- [Insight Mission Comic (2018)](https://theoatmeal.com/comics/insight)

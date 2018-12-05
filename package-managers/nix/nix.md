@@ -43,3 +43,4 @@
 - [pypi2nix](https://github.com/garbas/pypi2nix) - Generate Nix expressions for Python packages.
 - [hnix-store](https://github.com/haskell-nix/hnix-store) - Haskell implementation of the nix store API.
 - [nix-cheatsheet](https://github.com/knedlsepp/nix-cheatsheet)
+- [Nix RFCs](https://github.com/NixOS/rfcs#readme)
