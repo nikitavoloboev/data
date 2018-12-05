@@ -9,3 +9,4 @@ It also has a [generous free tier](https://aws.amazon.com/free/).
 - [AWS in plain English](https://www.expeditedssl.com/aws-in-plain-english) - Great reference.
 - [AWS practical guide](https://github.com/open-guides/og-aws#readme)
 - [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk#readme) - Framework for defining cloud infrastructure in code.
+- [AWS Fargate Action](https://github.com/jessfraz/aws-fargate-action) - GitHub action to deploy to AWS Fargate on push to the master branch.

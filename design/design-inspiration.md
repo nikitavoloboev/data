@@ -114,6 +114,7 @@ Here are few more things I liked, design wise.
 - [Book of Bad Arguments](https://bookofbadarguments.com/)
 - [Webfont of the typeface used in Edward Tufte’s books](https://edwardtufte.github.io/et-book/)
 - [Diamond Ring designed by Jony Ive & Marc Newson](http://www.sothebys.com/en/auctions/ecatalogue/2018/red-n10000/lot.pr.9YPHM.html)
+- [Fabrizio Rinaldi](https://dribbble.com/linuz90)
 
 ## Links
 

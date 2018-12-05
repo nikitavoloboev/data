@@ -20,3 +20,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#readme)
 - [Taking an indefinite sabbatical from my projects](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/)
 - [The Hard Parts of Open Source by Evan Czaplicki (2018)](https://www.youtube.com/watch?feature=youtu.be&v=o_4EX4dPppA&app=desktop)
+- [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9) - [HN](https://news.ycombinator.com/item?id=18538123)
