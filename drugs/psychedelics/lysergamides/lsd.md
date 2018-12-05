@@ -12,6 +12,7 @@
 - [LSD - Unlocking The Door](https://psychonautwiki.org/wiki/Experience:First_105μg_LSD_-_Unlocking_The_Door) - One of the best trip reports I read.
 - [Shulgin's entry](https://erowid.org/library/books_online/tihkal/tihkal26.shtml)
 - [Experiences on acid](https://knowingless.com/2017/02/11/experiences-on-acid/)
+- [Microdosing with LSD and its Research Potential (2017)](https://heffter.org/microdosing-lsd-research-potential/)
 
 ## Replications
 

@@ -13,7 +13,7 @@ I use [YNAB methodology](https://www.youneedabudget.com/method/) and [Actual app
 
 YNAB methodology for managing money is extremely effective as it allows me to be be more proactive with budgeting and spending. It lets me know how much money I have and how much money I can spend on any given category. I find this proactive approach in dealing with money very freeing and powerful.
 
-Each transaction made with N26 is automatically sorted into a category by the app. If that category is wrong, I correct it in N26 app. On Sundays of each week, I review all the purchases made, the money I have and my goals and based on that, set out the budget for next week. In my case that means moving the money I plan to spend next week into `Week` space with remaining money going into `Saving` or some big purchase goal I have (usually it being its own space).
+Each transaction made with N26 is automatically sorted into a category by the app. If that category is wrong, I correct it in N26 app. On Sundays of each week, I review all the purchases made, the money I have and my goals and based on that, set out the budget for next week. In my case that means moving the money I plan to spend next week into `Week` space with remaining money going into `Save` or some big purchase goal I have (with it being its own space).
 
 I try to be very strict with my budgeting and make sure that when there is no money left for `eating out`, I don't eat out. This approach to finance also makes me stop and review any non food related purchase I make in life and judge it accordingly before going through with it.
 

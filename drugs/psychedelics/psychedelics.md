@@ -46,3 +46,4 @@ But as will all things, _moderation is key_. Or as in the case of psychedelics, 
 - [Sasha Shulgin - Plant Origins of the Phenethylamine and Tryptamine Psychedelics](https://www.youtube.com/watch?v=OxlhPnjdh4I)
 - [A Math Theory for Why People Hallucinate](https://www.quantamagazine.org/a-math-theory-for-why-people-hallucinate-20180730/)
 - [Search 1000s of published psychedelic studies](https://www.magsdb.com/)
+- [Keynote David E. Nichols: Psychedelics as Medicines (2018)](https://www.youtube.com/watch?v=Yp9k7jvVE5E)

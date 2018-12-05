@@ -19,3 +19,4 @@
 - [Reqres](https://github.com/AckeeCZ/Reqres) - Simple network activity logger for iOS.
 - [ObjectBox Swift](https://github.com/objectbox/objectbox-swift) - Persisting your Swift objects superfast and simple.
 - [set-simulator-location](https://github.com/lyft/set-sinmulator-location) - CLI for setting location in the iOS simulator.
+- [OrederedSet](https://github.com/Weebly/OrderedSet) - Swift collection of unique, ordered objects.
