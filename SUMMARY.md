@@ -102,6 +102,7 @@
   - [Data Structures](computer-science/data-structures/data-structures.md)
   - [Algorithms](computer-science/algorithms/algorithms.md)
     - [Compression](computer-science/algorithms/compression.md)
+  - [Parsing](computer-science/parsing.md)
 - [Programming](programming/programming.md)
   - [Git](programming/git.md)
   - [Concurrency](programming/concurrency.md)

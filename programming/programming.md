@@ -45,3 +45,4 @@
 - [Software disenchantment](http://tonsky.me/blog/disenchantment/)
 - [In search of software perfection - Xavier Leroy (2016)](https://www.youtube.com/watch?v=lAU5hx_3xRc)
 - [Communicating Sequential Processes (CSP)](http://usingcsp.com/)
+- [Ask HN: What's the largest amount of bad code you have ever seen work? (2018)](https://news.ycombinator.com/item?id=18442637)
