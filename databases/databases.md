@@ -4,6 +4,7 @@
 
 - [Mentat](https://github.com/mozilla/mentat) - Persistent, relational store inspired by Datomic and DataScript.
 - [RocksDB](https://github.com/facebook/rocksdb) - Persistent Key-Value Store for Flash and RAM Storage.
+- [goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
 
 ## Links
 

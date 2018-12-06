@@ -48,3 +48,4 @@
 - [Grenade](https://github.com/HuwCampbell/grenade) - Deep Learning in Haskell.
 - [Deep Learning 1: Introduction to Machine Learning Based AI](https://www.youtube.com/watch?v=iOh7QUZGyiU)
 - [Deep Learning cheatsheets for Stanford's CS 230 (2018)](https://github.com/afshinea/stanford-cs-230-deep-learning)
+- [Deep Learning Book Chapter Summaries](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) - Attempting to make the Deep Learning Book easier to understand.

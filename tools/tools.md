@@ -16,6 +16,7 @@ I love software and non software tools that help me in some way.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
 - [Carbon](https://carbon.now.sh/about/) - Create and share beautiful images of your source code.
+- [livegrep](https://github.com/livegrep/livegrep) - Tool, partially inspired by Google Code Search, for interactive regex search of ~gigabyte-scale source repositories.
 
 ## Other
 

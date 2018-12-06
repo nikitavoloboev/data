@@ -13,3 +13,4 @@
 - [TestCafe](https://github.com/DevExpress/testcafe) - Node.js tool to automate end-to-end web testing.
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
 - [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js.
+- [Nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js

@@ -10,3 +10,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 
 - [Coding music](https://gist.github.com/staltz/99d70c8ae57bdc71a53b83e74a51d096)
 - [Leaf Music](https://www.leafmusic.com/)
+- [Platlist Detective](https://www.playlistdetective.com/) - Search Spotify playlists.
