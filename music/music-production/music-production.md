@@ -15,6 +15,7 @@ Learning to write music. Live coding music sounds pretty awesome. I used [Sonic 
 - [Nils Frahm at Funkhaus Berlin](https://www.youtube.com/watch?v=kv2nmefHc9Y) - Amazing artist.
 - [Knowledge Arena: In conversation with: Khruangbin](https://www.youtube.com/watch?v=JasR8lqTS6Y)
 - [Techno's Jon Hopkins Drops Science - Supersonic](https://www.youtube.com/watch?v=gzquxwYnDvk)
+- [Nils Frahm at Sydney Opera House - In Conversation with Peter Hollo](https://www.youtube.com/watch?v=dQ97DoQarbk)
 
 ## Links
 

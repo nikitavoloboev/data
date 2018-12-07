@@ -55,3 +55,4 @@
 - [gomail](https://github.com/go-gomail/gomail) - Best way to send emails in Go.
 - [validator](https://github.com/go-validator/validator) - Implements variable validations.
 - [go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian JIRA.
+- [go-redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang.

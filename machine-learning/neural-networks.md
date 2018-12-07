@@ -22,3 +22,4 @@
 - [TensorSpace.js](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
 - [UIS-RNN](https://github.com/google/uis-rnn) - Library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization.
 - [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange.
+- [DyNet](https://github.com/clab/dynet) - Dynamic Neural Network Toolkit.

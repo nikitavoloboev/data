@@ -15,3 +15,4 @@
 - [Tuist](https://github.com/tuist/tuist) - Create, maintain, and interact with Xcode projects at scale.
 - [John Sundell: The Lost Art of System Design (2018)](https://www.youtube.com/watch?v=ujOc3a7Hav0)
 - [Code samples from the Swift by Sundell blog & podcast](https://github.com/JohnSundell/SwiftBySundell)
+- [Ether](https://github.com/Ether-CLI/Ether) - Command-Line Interface for the Swift Package Manager.
