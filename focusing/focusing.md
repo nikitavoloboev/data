@@ -14,11 +14,11 @@ For example, one of these _rules_ is that I need to be proactive with my email a
 
 I keep a private Trello board where I outline things that I want to focus on in life and achieve.
 
-![](https://i.imgur.com/OVKvNkG.jpg)
+![](https://i.imgur.com/DdqT6fn.png)
 
 I mark the projects and goals I want to focus on right now, and by pressing `Q` in Trello I only see these cards on the board.
 
-![](https://i.imgur.com/KJmnOj5.jpg)
+![](https://i.imgur.com/xUsqN6i.png)
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
 
@@ -34,9 +34,9 @@ I find this goal centric approach to be incredibly useful as it lets me focus on
 
 I use [Focus app](https://heyfocus.com) as a recurring [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) which lets me work in sessions of 80 minutes with 10 min breaks by blocking [distracting websites](https://gist.github.com/nikitavoloboev/57340528a6dfb3eb498dce647ed6841f) and apps.
 
-![](https://i.imgur.com/B9Tsaxf.png)
+![](https://i.imgur.com/H7TMqgS.png)
 
-![](https://i.imgur.com/r6ff6Cr.png)
+![](https://i.imgur.com/MZGyqQe.png)
 
 Only on breaks can I visit these websites.
 

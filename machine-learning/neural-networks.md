@@ -23,3 +23,4 @@
 - [UIS-RNN](https://github.com/google/uis-rnn) - Library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization.
 - [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange.
 - [DyNet](https://github.com/clab/dynet) - Dynamic Neural Network Toolkit.
+- [gonn](https://github.com/sausheong/gonn) - Building a simple neural network in Go.
