@@ -49,7 +49,7 @@ The things I work on during this 80 min focus session is specified by an event i
 
 At the end of the 80 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 80 min period. The projects are a reflection of my Focus Trello board.
 
-![](https://i.imgur.com/cGUNvtP.png)
+![](https://i.imgur.com/AZvXllC.png)
 
 I limit apps that can send me notifications to only essential things and turn off all sounds on notifications I get.
 

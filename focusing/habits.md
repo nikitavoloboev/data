@@ -11,25 +11,24 @@ I use [Streaks](https://streaksapp.com) iOS app to track any new habits I want t
 
 ## Current habits
 
-![](https://i.imgur.com/BgeJIKT.jpg)
+![](https://i.imgur.com/9i8O5iw.jpg)
 
-![](https://i.imgur.com/uy1GTIi.jpg)
+![](https://i.imgur.com/FmXgPHW.jpg)
+
 
 ## Morning routine
 
-I use Siri Shortcuts for my Morning and Night routines.
+I use [Siri Shortcuts](https://github.com/nikitavoloboev/my-ios#shortcuts) for my Morning and Night routines.
 
-![](https://i.imgur.com/4yrGQMy.jpg)
+My morning routine starts off by playing a song I love from my favorite artist Nils Frahm. [La](https://open.spotify.com/track/29p8XJUPeeS3t9XwJt69g0).
 
-![](https://i.imgur.com/8rZGGUS.jpg)
+![](https://i.imgur.com/eVcHNJX.jpg)
 
-[Download](https://www.icloud.com/shortcuts/4a84037a54e94f5490e5b760c3c66f3e).
+![](https://i.imgur.com/eOl8JLN.jpg)
 
 ## Night routine
 
-![](https://i.imgur.com/6sXTsbN.jpg)
-
-[Download](https://www.icloud.com/shortcuts/a187d360099847a3a7bcafeb6550cc81).
+![](https://i.imgur.com/utiQhb7.jpg)
 
 ## Links
 
