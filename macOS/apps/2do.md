@@ -14,7 +14,7 @@ My main way of managing tasks is with **tags**. This lets me give scope to the t
 
 I create many smart lists of most common tags I want to jump to. I use `J` key and macros that activate the URL scheme to jump between the lists.
 
-I also add time estimate tags to tasks that I think might take me 1 hour or more time:
+I also add time estimate tags to tasks that I think might take me 1 hour or longer:
 
 ![](https://i.imgur.com/Zhuqn1a.png)
 

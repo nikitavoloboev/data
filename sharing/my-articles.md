@@ -7,10 +7,10 @@ The number between brackets shows the year I wrote the article in. Articles with
 - [Day Evaluations (2016) 🌟](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32) - How I started my journey with journaling and living a more conscious life.
 - [News (2016)](https://medium.com/@nikitavoloboev/news-d6bcaaf40121#.mtj9gqvyu) - My approach to news and overflow of information.
 - [What it means to live a conscious life (2016) 🌟](https://medium.com/@nikitavoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) - My journey with discovering and bringing compassion to my life.
-- [Everything connects to everything else (2017)](https://medium.com/@nikitavoloboev/everything-connects-to-everything-else-c6a2d96a809d#.nn8gvwavn) - Why i decided to share all of my knowledge in a free and easily discoverable way as a big mind map of connections.
+- [Everything connects to everything else (2017)](https://medium.com/@nikitavoloboev/everything-connects-to-everything-else-c6a2d96a809d#.nn8gvwavn) - Why I decided to share all of my knowledge in a free and easily discoverable way as a big mind map of connections.
 - [Knowledge bootstrapping (2017) 🌟](https://medium.com/@nikitavoloboev/knowledge-bootstrapping-36c97e0dee19#.udmp9eotg) - How can you share your entire thought process with the world. My idea of open knowledge and how it can benefit all.
 - [The root of it all (2017)](https://medium.com/@nikitavoloboev/the-root-of-it-all-9b6ab6a77e1d#.yt6ici5rf) - What is efficiency and how it relates to my life. How I practice efficiency and what is my approach to learning and solving learning dependencies of life.
-- [Project based learning (2017) 🌟](https://medium.com/@nikitavoloboev/project-based-learning-e511641869ca#.z6wr7ncu5) - How i changed my approach to learning by focusing on projects and not on learning for the sake of learning.
+- [Project based learning (2017) 🌟](https://medium.com/@nikitavoloboev/project-based-learning-e511641869ca#.z6wr7ncu5) - How I changed my approach to learning by focusing on projects and not on learning for the sake of learning.
 
 ## Productivity
 

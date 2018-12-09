@@ -27,7 +27,7 @@ Usually I break things down using [TaskPaper](https://www.taskpaper.com). I brea
 
 ![](https://i.imgur.com/KpSMZpB.png)
 
-Often times I can do the decoupling of the task inside the app I am working in itself, be it a code editor, [2Do](../macOS/apps/2do.md) or [Bee app](https://www.neat.io/bee/). If the problem is complex enough, I also use my iPad pro and Notablity or Procreate to sketch ideas or make visual mind maps with [MindNode](../macOS/apps/mindnode.md).
+Often times I can do the decoupling of the task inside the app I am working in itself, be it a code editor, [2Do](../macOS/apps/2do.md) or [Bee app](https://www.neat.io/bee/). If the problem is complex enough, I also use my iPad and Notablity or Procreate to sketch ideas or make visual mind maps with [MindNode](../macOS/apps/mindnode.md).
 
 ## 3. Work on solving the task and nothing else
 
