@@ -4,7 +4,7 @@ I use Timing app to fully automate tracking my time on my computer.
 
 The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
 
-![](https://i.imgur.com/CS5boja.png)
+![](https://i.imgur.com/KE7Fk35.png)
 
 My projects look like this:
 

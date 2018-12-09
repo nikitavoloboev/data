@@ -8,14 +8,11 @@ Twitter is my primary way to stay up to date on things and is my favorite social
 
 The app is always full screen for me. And is split into four columns.
 
-- First column: Mentions / Messages / [Software](https://twitter.com/nikitavoloboev/lists/software)
+- First column: Mentions / Messages / [ML](https://twitter.com/nikitavoloboev/lists/ml)
 - Second column: [Top](https://twitter.com/nikitavoloboev/lists/top). Tweets with highest value to me.
-- Third column: [ML](https://twitter.com/nikitavoloboev/lists/ml). Machine learning news.
-- Fourth column: [Other](https://twitter.com/nikitavoloboev/lists/other1) list. Tweets with least priority to me.
+- Third column: [Software](https://twitter.com/nikitavoloboev/lists/Software). Updates on software I use/like.
 
-Here is how that all looks together for me:
-
-![](https://i.imgur.com/n60bl8w.jpg)
+![](https://i.imgur.com/OO7hz6i.png)
 
 ## Links
 

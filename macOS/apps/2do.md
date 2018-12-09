@@ -2,7 +2,7 @@
 
 I love GTD methodology. This app is phenomenal with helping me organize my tasks. Here is how my sidebar looks:
 
-![](https://i.imgur.com/DUY4OyO.png)
+![](https://i.imgur.com/Rnxd5ti.png)
 
 It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 
@@ -14,11 +14,9 @@ My main way of managing tasks is with **tags**. This lets me give scope to the t
 
 I create many smart lists of most common tags I want to jump to. I use `J` key and macros that activate the URL scheme to jump between the lists.
 
-I also add time estimates to tasks like so:
+I also add time estimate tags to tasks that I think might take me 1 hour or more time:
 
-![](https://i.imgur.com/pEixbt3.png)
-
-I don't add time estimates to all tasks but I try to add it where possible.
+![](https://i.imgur.com/Zhuqn1a.png)
 
 I share the same philosophy of `Always` and `Temporary` projects as I have in my [Focus Trello board](../../focusing/focusing.md).
 
@@ -26,9 +24,9 @@ Given my growing collection of tasks I am yet to do. Some 2,000 pending tasks. I
 
 And here are the other tags I use:
 
-![](https://i.imgur.com/5jKIWna.png)
+![](https://i.imgur.com/Vr3IY83.png)
 
-![](https://i.imgur.com/YNe6FxA.png)
+![](https://i.imgur.com/IZAkk6r.png)
 
 I made my `All` list sorted by `Modified date`. This lets me cleanly delete or act on all tasks that have been sitting in my 2Do for too long with no activity.
 
@@ -36,7 +34,7 @@ I made my `All` list sorted by `Modified date`. This lets me cleanly delete or a
 
 I use recurring scheduled tasks in 2Do as a way to remember to complete my day/week/monthly reviews which I often do in the evenings of particular days.
 
-![](https://i.imgur.com/jNeNTod.png)
+![](https://i.imgur.com/ZnCnIXa.png)
 
 ## URL Scheme
 

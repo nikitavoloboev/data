@@ -24,6 +24,7 @@ Here are some humans whose work I found great interest in:
 - [DevOps Chat with HashiCorp's CTO](https://www.youtube.com/watch?v=iV5doaYReyU)
 - [Jeff Bezos At The Economic Club Of Washington (2018)](https://www.youtube.com/watch?v=xv_vkA0jsyo)
 - [Linus Torvalds (2018)](https://www.youtube.com/watch?v=pQWj2Fgxdrc&t=927s)
+- [Interview with Nils Frahm](http://www.tokafi.com/15questions/interview-nils-frahm/)
 
 ## Interesting interviews
 
