@@ -11,6 +11,8 @@ I use [Streaks](https://streaksapp.com) iOS app to track any new habits I want t
 
 ## Current habits
 
+Which I will probably keep for life.
+
 ![](https://i.imgur.com/xoxiudZ.jpg)
 
 ![](https://i.imgur.com/WEyW04o.jpg)
