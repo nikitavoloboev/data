@@ -163,6 +163,7 @@
   - [Julia](programming-languages/julia/julia.md)
   - [Elm](programming-languages/elm/elm.md)
   - [Dart](programming-languages/dart/dart.md)
+  - [R](programming-languages/r/r.md)
   - [Assembly](programming-languages/assembly.md)
 - [Data Science](data-science/data-science.md)
   - [Visualization](data-science/visualization.md)

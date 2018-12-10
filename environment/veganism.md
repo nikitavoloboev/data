@@ -1,6 +1,6 @@
 # Veganism
 
-I think it's mind numbing how animals can be treated by people. And how oblivious most people are to it all either mindfully or simply due to not being aware of the consequences of their decisions (like buying some dead animal's meat) have. Watching a documentary like [Dominion](https://www.youtube.com/watch?v=ny6aqdFy9SI) should be enough to make you at least consider rethinking what food you eat. Thankfully plant based diet is genuinely a healthier diet too and there's so many fruits, vegetables and beans that you can choose to eat. I personally love avocados and eat at least 1 avocado day with [my morning smoothie](https://github.com/nikitavoloboev/vegan-recipes/tree/master/smoothies#readme).
+I think it's mind numbing how animals can be treated by people. And how oblivious most people are to it all either mindfully or simply due to not being aware of the consequences of their decisions (like buying some dead animal's meat) have. Watching a documentary like [Dominion](https://www.youtube.com/watch?v=ny6aqdFy9SI) should be enough to make you at least consider rethinking what food you eat. Thankfully plant based diet is genuinely a healthier diet too and there's so many fruits, vegetables and beans that you can choose to eat. I personally love eating blueberries & almonds and making [delicious vegan smoothies](https://github.com/nikitavoloboev/vegan-recipes/tree/master/smoothies#readme).
 
 I hope more people wake up to this issue and it changes soon. Because animals should not be treated like that and especially at such scales. It's sad.
 
