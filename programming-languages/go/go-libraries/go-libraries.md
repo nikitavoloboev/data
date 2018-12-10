@@ -56,3 +56,4 @@
 - [validator](https://github.com/go-validator/validator) - Implements variable validations.
 - [go-jira](https://github.com/andygrunwald/go-jira) - Go client library for Atlassian JIRA.
 - [go-redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang.
+- [esc](https://github.com/mjibson/esc) - Simple file embedder for Go.

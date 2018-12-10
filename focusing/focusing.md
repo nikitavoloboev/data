@@ -26,7 +26,7 @@ I try to have a completely event driven workflow as I schedule events in my cale
 
 I use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week/monthly reviews/plans which I often do in the evenings of particular days.
 
-![](https://i.imgur.com/ZnCnIXa.png)
+![](https://i.imgur.com/aGffg1d.png)
 
 I find this goal centric approach to be incredibly useful as it lets me focus on making sure I do everything I need to achieve the goals I have set for myself. Making sure I limit the number of projects I am working on at any given time lets me actually deeply focus on them instead of being scattered around wondering if I am working on the right thing in the moment.
 
@@ -38,7 +38,7 @@ I use [Focus app](https://heyfocus.com) as a recurring [pomodoro timer](https://
 
 ![](https://i.imgur.com/MZGyqQe.png)
 
-Only on breaks can I visit these websites.
+Only on breaks can I visit these websites. I also get 20 minutes of optional break time every 3 hours. And I can start 5 min breaks during my Focus sessions with a macro.
 
 The things I work on during this 80 min focus session is specified by an event in [Fantastical](../macOS/apps/fantastical.md). The events are simply names of projects on which I want to work on in that time. Here are the most common events I use and what I do during them:
 
@@ -47,7 +47,11 @@ The things I work on during this 80 min focus session is specified by an event i
 - Ideas - I pick an idea I want to work on from [Trello](https://trello.com/b/alB1ryRP) and make it.
 - Learn - I choose a topic I want to learn from [Trello](https://trello.com/b/cu32qF3q) and learn it. Either by reading [books](https://trello.com/b/MOrnm2aN), [research papers](https://trello.com/b/EKl1Ie3q) or exploring [LA](../ideas/learn-anything.md).
 
-At the end of the 80 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 80 min period. The projects are a reflection of my Focus Trello board.
+At the end of the 80 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 80 min period.
+
+![](https://i.imgur.com/iNHErT3.jpg)
+
+The projects are a reflection of my Focus Trello board.
 
 ![](https://i.imgur.com/AZvXllC.png)
 
