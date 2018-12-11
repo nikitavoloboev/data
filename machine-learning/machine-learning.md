@@ -50,3 +50,4 @@
 - [Deep Learning cheatsheets for Stanford's CS 230 (2018)](https://github.com/afshinea/stanford-cs-230-deep-learning)
 - [Deep Learning Book Chapter Summaries](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) - Attempting to make the Deep Learning Book easier to understand.
 - [PracticalAI](https://github.com/GokuMohandas/practicalAI) - Practical approach to learning machine learning.
+- [Ask HN: How to incorporate machine learning into day job? (2018)](https://news.ycombinator.com/item?id=18650646)
