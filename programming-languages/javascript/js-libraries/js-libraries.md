@@ -27,4 +27,6 @@
 - [Hammer.js](https://github.com/hammerjs/hammer.js) - Multi-touch gestures.
 - [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
 - [Xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
-- [<virtual-scroller>](https://github.com/valdrinkoshi/virtual-scroller) - Maps a provided set of JavaScript objects onto DOM nodes, and renders only the DOM nodes that are currently visible, leaving the rest "virtualized".
+- [virtual-scroller](https://github.com/valdrinkoshi/virtual-scroller) - Maps a provided set of JavaScript objects onto DOM nodes, and renders only the DOM nodes that are currently visible, leaving the rest "virtualized".
+- [jSPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
+- [ForgJS](https://github.com/oussamahamdaoui/forgJs) - Javascript lightweight object validator.
