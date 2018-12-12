@@ -29,3 +29,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins#readme)
 - [Connect to AirPods from mac instantly](https://medium.com/@igloude/using-applescript-and-btt-to-make-the-airpods-experience-a-little-bit-better-6e78b12d33bd)
 - [cron is dead, long live launchd! (2017)](http://blog.jan-ahrens.eu/2017/01/13/cron-is-dead-long-live-launchd.html)
+- [Control Mac Keyboard Brightness](https://github.com/pirate/mac-keyboard-brightness) - Programmatically flash the keyboard lights and control display brightness on Macs.

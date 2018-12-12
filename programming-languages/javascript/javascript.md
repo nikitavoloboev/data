@@ -38,3 +38,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [JavaScript on the Desktop, Fast and Slow (2018)](https://medium.com/@felixrieseberg/javascript-on-the-desktop-fast-and-slow-2b744dfb8b55)
 - [ES6 for humans](https://github.com/metagrover/ES6-for-humans#readme)
 - [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts#readme)
+- [Design Patterns JS](https://github.com/fbeline/Design-Patterns-JS) - All the 23 (GoF) design patterns implemented in JavaScript.

@@ -28,6 +28,7 @@ I love software and non software tools that help me in some way.
 - [Speedscope](https://github.com/jlfwong/speedscope) - Fast, interactive web-based viewer for performance profiles.
 - [Dependabot](https://dependabot.com/) - Creates pull requests to keep your dependencies secure and up-to-date.
 - [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images.
+- [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 
 ## Links
 

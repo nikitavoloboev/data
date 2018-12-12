@@ -25,3 +25,4 @@
 - [Rust Runtime for AWS Lambda](https://github.com/awslabs/aws-lambda-rust-runtime) - Makes it easy to run AWS Lambda Functions written in Rust.
 - [cargo-inspect](https://github.com/mre/cargo-inspect/) - What is Rust doing behind the scenes?
 - [Scale By The Bay 2018: Bryan Cantrill, Rust and Other Interesting Things](https://www.youtube.com/watch?v=2wZ1pCpJUIM) - Good talk on importance of values in programming languages.
+- [cargo-call-stack](https://github.com/japaric/cargo-call-stack) - Whole program static stack analysis.
