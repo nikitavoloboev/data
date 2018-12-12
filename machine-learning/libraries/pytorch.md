@@ -10,3 +10,4 @@
 - [Grokking PyTorch](https://github.com/Kaixhin/grokking-pytorch#readme)
 - [Awesome PyTorch list](https://github.com/bharathgs/Awesome-pytorch-list#readme)
 - [OCaml PyTorch](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
+- [Apex](https://github.com/NVIDIA/apex) - PyTorch Extension: Tools for easy mixed precision and distributed training in PyTorch.

@@ -29,3 +29,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Ask HN: What is one Vim trick most people don't know? (2018)](https://news.ycombinator.com/item?id=17422516)
 - [Vim Proverbs](https://www.vi-improved.org/vim-proverbs/)
 - [tpope's Vim Config and Plugins (2014)](https://www.youtube.com/watch?v=MGmIJyTf8pg)
+- [veonim](https://github.com/veonim/veonim) - Simple modal IDE built on neovim.

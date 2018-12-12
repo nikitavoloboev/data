@@ -17,3 +17,4 @@ Don't use it but [Luminus](http://www.luminusweb.net/), [ClojureScript](clojures
 - [kaocha](https://github.com/lambdaisland/kaocha) - Full featured next gen Clojure test runner.
 - [Manifold](https://github.com/ztellman/manifold) - Compatibility layer for event-driven abstractions.
 - [REBL](https://github.com/cognitect-labs/REBL-distro) - Graphical, interactive tool for browsing Clojure data.
+- [Clojure's slow start — what's inside? (2018)](http://clojure-goes-fast.com/blog/clojures-slow-start/)
