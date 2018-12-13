@@ -26,3 +26,5 @@
 - [cargo-inspect](https://github.com/mre/cargo-inspect/) - What is Rust doing behind the scenes?
 - [Scale By The Bay 2018: Bryan Cantrill, Rust and Other Interesting Things](https://www.youtube.com/watch?v=2wZ1pCpJUIM) - Good talk on importance of values in programming languages.
 - [cargo-call-stack](https://github.com/japaric/cargo-call-stack) - Whole program static stack analysis.
+- [Rust in 2022 (2018)](https://www.ncameron.org/blog/rust-in-2022/)
+- [Rust 2019: Think Bigger (2018)](http://fitzgeraldnick.com/2018/12/11/rust-2019-think-bigger.html)

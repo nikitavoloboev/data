@@ -12,6 +12,8 @@ I use [KM macro](keyboard-maestro/km-macros.md) that when going to `Month` view,
 
 ![](https://i.imgur.com/XTy5p8r.png)
 
+And I often use all day events as a way to set deadlines for myself. I then plan events for the day(s) in accordance to my [Focus board](../../focusing/focusing.md) & deadlines I have.
+
 ## Notes
 
 - To mass delete events, make empty search query (single space) on events I want to remove and delete them. Can also use stock Calendar app and search for `""` and cmd+shift+arrows events I want to delete.
