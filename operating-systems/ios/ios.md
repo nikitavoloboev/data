@@ -32,3 +32,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Linux shell for iOS](https://github.com/tbodt/ish)
 - [Flipper](https://github.com/facebook/flipper) - Desktop debugging platform for mobile developers.
 - [How I'd learn iOS Development](https://sandofskvy.com/blog/how-to-learn-ios-development.html)
+- [iOS resources](https://github.com/Ramshandilya/iOSRepo#readme) - List of resources & libraries for iOS and Swift.

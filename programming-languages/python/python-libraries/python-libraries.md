@@ -4,6 +4,10 @@
 
 - [Pyramid](https://github.com/Pylons/pyramid) - Small, fast, down-to-earth, open source Python web framework.
 
+## ML
+
+- [JAX](https://github.com/google/jax) - GPU- and TPU-backed NumPy with differentiation and JIT compilation.
+
 ## Other
 
 - [Click](http://click.pocoo.org/5/) - Create beautiful command line interfaces in a composable way with as little code as necessary.

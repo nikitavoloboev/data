@@ -20,3 +20,4 @@ And I really like [NixOS](linux/nixos.md) and it's [nix package manager](../pack
 - [How to Make a Computer Operating System](https://samypesse.gitbooks.io/how-to-create-an-operating-system/content/)
 - [Plan 9 from User Space](https://github.com/9fans/plan9port) - Port of many Plan 9 libraries and programs to Unix.
 - [Jehanne](https://github.com/JehanneOS/jehanne) - Simple operating system.
+- [Unik](https://github.com/solo-io/unik) - Unikernel & MicroVM Compilation and Deployment Platform.

@@ -15,3 +15,4 @@
 - [Py-Spy](https://github.com/benfred/py-spy#readme) - Sampling profiler for Python programs.
 - [Profiling](https://github.com/what-studio/profiling) - Interactive continuous Python profiler.
 - [Pytype](https://github.com/google/pytype) - Static analyzer for Python code.
+- [gpython](https://github.com/go-python/gpython) - Python interpreter written in Go "batteries not included".

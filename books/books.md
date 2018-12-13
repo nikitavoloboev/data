@@ -106,3 +106,4 @@ Below are books I read or started reading. The books with links attached will le
 
 - [Ask HN: How do you read programming books?](https://news.ycombinator.com/item?id=15733745)
 - [Ask HN: 2018 Summer Reading List?](https://news.ycombinator.com/item?id=17513576)
+- [Thinking with Types LaTeX source](https://github.com/isovector/thinking-with-types) - Original source material for Thinking with Types: Type-Level Programming in Haskell book.
