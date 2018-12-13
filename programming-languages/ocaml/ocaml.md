@@ -13,3 +13,4 @@
 - [Jane and the Compiler (2018)](https://www.youtube.com/watch?v=vIt5yJ8B8xo)
 - [Jane Street OCaml Workshop](https://github.com/janestreet/learn-ocaml-workshop) - Exercises and projects for Jane Street's OCaml Workshop.
 - [HN: OCaml for the masses (2011)](https://news.ycombinator.com/item?id=18532352)
+- [Solutions to Functional Programming in OCaml MOOC course](https://github.com/smeruelo/mooc-ocaml)

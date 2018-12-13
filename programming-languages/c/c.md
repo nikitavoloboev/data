@@ -11,3 +11,4 @@ Lingua franca of programming world. I write Go which is similar to it.
 - [One year of C](http://floooh.github.io/2018/06/02/one-year-of-c.html)
 - [Building C programs](http://seenaburns.com/building-c-programs/)
 - [Tiny Garbage Collector](https://github.com/orangeduck/tgc) - Tiny Garbage Collector for C.
+- [Awesome C](https://github.com/kozross/awesome-c#readme) - Curated list of awesome C frameworks, libraries, resources and other shiny things.
