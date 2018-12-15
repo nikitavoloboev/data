@@ -110,7 +110,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Tern](https://github.com/ternjs/tern_for_vim) - Provides [Tern](http://ternjs.net/)-based JavaScript editing support.
 - [Deoplete Tern.js](https://github.com/carlitux/deoplete-ternjs)
 
-## Typescript
+## TypeScript
 
 - [Tsuquyomi](https://github.com/Quramy/tsuquyomi) - Make your Vim a TypeScript IDE.
 

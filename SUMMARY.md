@@ -107,6 +107,7 @@
   - [Git](programming/git.md)
   - [Concurrency](programming/concurrency.md)
   - [Regex](programming/regex/regex.md)
+  - [Hashing](programming/hashing.md)
   - [Functional programming](programming/functional-programming.md)
   - [Semantic versioning](programming/semantic-versioning.md)
   - [Reverse engineering](programming/reverse-engineering.md)

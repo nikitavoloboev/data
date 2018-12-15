@@ -12,6 +12,7 @@
 - [React Spring](https://github.com/drcmda/react-spring) - Set of simple, spring-physics based primitives (as in building blocks) that should cover most of your UI related animation needs.
 - [SVGR](https://github.com/smooth-code/svgr) - Transform SVGs into React components.
 - [Shopify](https://github.com/Shopify/polaris-react) - Shopify’s product component library.
+- [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - React component for building Web forms from JSON Schema.
 
 ## Links
 

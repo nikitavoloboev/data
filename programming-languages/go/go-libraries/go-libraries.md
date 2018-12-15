@@ -26,11 +26,16 @@
 
 ## ORM
 
+- [db](https://github.com/upper/db) - Productive data access layer for Go.
 - [Gorm](https://github.com/jinzhu/gorm) - Fantastic ORM library for Golang, aims to be developer friendly.
 
 ## Database
 
 - [zoom](https://github.com/albrow/zoom) - Blazing-fast datastore and querying engine for Go built on Redis.
+
+## API bindings
+
+- [Discord Go](https://github.com/bwmarrin/discordgo) - Go bindings for Discord.
 
 ## Other
 
@@ -58,3 +63,4 @@
 - [go-redis](https://github.com/go-redis/redis) - Type-safe Redis client for Golang.
 - [esc](https://github.com/mjibson/esc) - Simple file embedder for Go.
 - [certmagic](https://github.com/mholt/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal.
+- [gogrep](https://github.com/mvdan/gogrep) - Search for Go code using syntax trees.
