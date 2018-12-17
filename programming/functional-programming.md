@@ -17,6 +17,7 @@
 - [Total functional programming (ESFP) literature](https://github.com/mietek/total-functional-programming#readme)
 - [Having an Effect by Oleg Kiselyov](https://www.youtube.com/watch?v=GhERMBT7u4w)
 - [Monads Demystified (2015)](http://blog.reverberate.org/2015/08/monads-demystified.html)
+- [Can functional programming be liberated from the von Neumann paradigm?](http://conal.net/blog/posts/can-functional-programming-be-liberated-from-the-von-neumann-paradigm) ([HN](https://news.ycombinator.com/item?id=18692470))
 
 ## Images
 

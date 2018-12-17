@@ -17,3 +17,4 @@
 - [Code samples from the Swift by Sundell blog & podcast](https://github.com/JohnSundell/SwiftBySundell)
 - [Ether](https://github.com/Ether-CLI/Ether) - Command-Line Interface for the Swift Package Manager.
 - [SwiftRewriter](https://github.com/inamiy/SwiftRewriter) - Swift code formatter using SwiftSyntax.
+- [SwiftHub](https://github.com/khoren93/SwiftHub) - Github iOS client written in RxSwift and MVVM clean architecture.

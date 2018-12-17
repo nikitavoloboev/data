@@ -29,4 +29,5 @@
 - [Xstate](https://github.com/davidkpiano/xstate) - State machines and statecharts for the modern web.
 - [virtual-scroller](https://github.com/valdrinkoshi/virtual-scroller) - Maps a provided set of JavaScript objects onto DOM nodes, and renders only the DOM nodes that are currently visible, leaving the rest "virtualized".
 - [jSPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
-- [ForgJS](https://github.com/oussamahamdaoui/forgJs) - Javascript lightweight object validator.
+- [ForgJS](https://github.com/oussamahamdaoui/forgJs) - JavaScript lightweight object validator.
+- [faker.js](https://github.com/Marak/faker.js) - Generate massive amounts of realistic fake data in Node.js and the browser.

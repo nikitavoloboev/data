@@ -51,3 +51,4 @@
 - [Deep Learning Book Chapter Summaries](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) - Attempting to make the Deep Learning Book easier to understand.
 - [PracticalAI](https://github.com/GokuMohandas/practicalAI) - Practical approach to learning machine learning.
 - [Ask HN: How to incorporate machine learning into day job? (2018)](https://news.ycombinator.com/item?id=18650646)
+- [RLgraph](https://github.com/rlgraph/rlgraph) - Flexible computation graphs for deep reinforcement learning.

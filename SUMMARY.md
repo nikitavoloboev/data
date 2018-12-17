@@ -211,6 +211,7 @@
   - [Electronics](physics/electronics.md)
   - [Antimatter](physics/antimatter.md)
 - [Biology](biology/biology.md)
+  - [Viruses](biology/viruses.md)
 - [Automation](automation/automation.md)
 - [Education](education/education.md)
   - [University](education/university.md)

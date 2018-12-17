@@ -8,3 +8,7 @@
 ## Links
 
 - [Best Temperature to Vape Weed](https://www.dankvapes.co.uk/blogs/talk-to-dank/what-is-the-best-temperature-to-set-my-weed-vaporizer)
+
+![](https://vapestore.co.za/image/data/Blog/vaporizing-temperatures.jpg)
+
+> Cannabinoid Temperature Guide

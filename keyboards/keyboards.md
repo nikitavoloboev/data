@@ -35,3 +35,4 @@ I am interested in getting [Preonic Light](https://www.massdrop.com/buy/massdrop
 - [A Modern Space Cadet](http://stevelosh.com/blog/2012/10/a-modern-space-cadet)
 - [Keebio](https://keeb.io/) - Mechanical Keyboard Parts and Other Goodies.
 - [kbd-audio](https://github.com/ggerganov/kbd-audio) - Tools for capturing and analysing keyboard input paired with microphone capture.
+- [Keymap & EN/RU layouts for Levinson 40% split ortholinear keyboard](https://github.com/tonsky/Levinson-Layout)

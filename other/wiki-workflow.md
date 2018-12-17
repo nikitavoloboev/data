@@ -37,6 +37,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Richard Litt](https://github.com/RichardLitt/knowledge)
 - [Darshan Chaudhary](https://github.com/darshanime/notes#readme)
 - [Josh Avanier](https://joshavanier.github.io/#josh)
+- [Brennan Letkeman](https://ltkmn.gitbook.io/brendex/)
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
 
 ## Links

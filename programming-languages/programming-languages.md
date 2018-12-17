@@ -15,3 +15,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [GitHut](https://githut.info/) - Place to discover languages on GitHub.
 - [Type inference (2018)](https://eli.twhegreenplace.net/2018/type-inference/)
 - [Little Languages](https://maxhallinan.com/posts/2018/12/07/little-languages/) - [(Lobsters)](https://lobste.rs/s/5vvvzj/little_languages)
+- [Course page Types and Semantics for Programming Languages (2018)](https://github.com/plfa/tspl)
