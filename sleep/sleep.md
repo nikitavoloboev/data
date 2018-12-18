@@ -9,3 +9,4 @@ I try to go to bed and wake up at the same time each day to maintain the Circadi
 ## Links
 
 - [What is the best sleeping position?](https://www.youtube.com/watch?v=or03pT-D8cQ)
+- [Good sleep, good learning, good life (2012)](https://www.supermemo.com/en/articles/sleep)

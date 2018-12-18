@@ -39,3 +39,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [ES6 for humans](https://github.com/metagrover/ES6-for-humans#readme)
 - [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts#readme)
 - [Design Patterns JS](https://github.com/fbeline/Design-Patterns-JS) - All the 23 (GoF) design patterns implemented in JavaScript.
+- [Standard Library Proposal](https://github.com/tc39/proposal-javascript-standard-library#readme)

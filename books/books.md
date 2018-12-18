@@ -101,6 +101,7 @@ Below are books I read or started reading. The books with links attached will le
 - [Math-related pleasure reading books?](https://www.reddit.com/r/math/comments/569bxq/mathrelated_pleasure_reading_books/d8hgly1/)
 - [Ask HN: Non-tech books that have helped you grow professionally?](https://news.ycombinator.com/item?id=12415621)
 - [Ask HN: What are the best textbooks in your field of expertise? (2018)](https://news.ycombinator.com/item?id=18104814)
+- [What’s the best book you read in 2018?](https://twitter.com/farnamstreet/status/1074496799786713088)
 
 ## Links
 

@@ -13,6 +13,7 @@
 - [SVGR](https://github.com/smooth-code/svgr) - Transform SVGs into React components.
 - [Shopify](https://github.com/Shopify/polaris-react) - Shopify’s product component library.
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - React component for building Web forms from JSON Schema.
+- [react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js
 
 ## Links
 
