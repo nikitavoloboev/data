@@ -28,3 +28,4 @@
 - [cargo-call-stack](https://github.com/japaric/cargo-call-stack) - Whole program static stack analysis.
 - [Rust in 2022 (2018)](https://www.ncameron.org/blog/rust-in-2022/)
 - [Rust 2019: Think Bigger (2018)](http://fitzgeraldnick.com/2018/12/11/rust-2019-think-bigger.html)
+- [Rust Analyzer](https://github.com/rust-analyzer/rust-analyzer) - Experimental Rust compiler front-end for IDEs.

@@ -31,3 +31,4 @@
 - [jSPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
 - [ForgJS](https://github.com/oussamahamdaoui/forgJs) - JavaScript lightweight object validator.
 - [faker.js](https://github.com/Marak/faker.js) - Generate massive amounts of realistic fake data in Node.js and the browser.
+- [arg](https://github.com/zeit/arg) - Simple argument parsing.

@@ -14,3 +14,5 @@
 - [Revery](https://github.com/bryphe/revery) - Native, high-performance, cross-platform desktop apps - built with Reason.
 - [Esy](https://esy.sh/) - Simple workflow for native Reason and OCaml.
 - [Reason Native](https://github.com/facebookexperimental/reason-native) - Testing, printing, coloring, and other tools to effectively write native Reason code.
+- [Odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml and Reason.
+- [odoc2docset](https://github.com/jfeser/odoc2docset) - Create Dash docsets from Odoc generated documentation.
