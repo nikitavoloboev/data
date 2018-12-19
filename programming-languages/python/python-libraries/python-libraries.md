@@ -18,3 +18,4 @@
 - [Trio](https://github.com/python-trio/trio) - Pythonic async I/O for humans and snake people.
 - [Responder](https://github.com/kennethreitz/responder) - Familiar HTTP Service Framework for Python.
 - [Loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple.
+- [Blaze](https://github.com/blaze/blaze) - Translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems.

@@ -7,6 +7,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 2 - Open KM forum # TODO: why? what triggers it?
 - 3 - New Annotate screenshot
 - 4 - Open Annotate screenshot
+- 5 - Start/stop ScreenFlow recording
 
 ## CMD+CTRL
 
