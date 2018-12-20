@@ -13,3 +13,4 @@
 - [Kit](https://github.com/go-kit/kit) - Standard library for microservices written in Go.
 - [Fear and Loathing in Lock-Free Programming (2017)](https://medium.com/@tylerneely/fear-and-loathing-in-lock-free-programming-7158b1cdd50c)
 - [Reliable Systems Series: Model-Based Testing (2018)](https://medium.com/@tylerneely/reliable-systems-series-model-based-property-testing-e89a433b360)
+- [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems#readme)
