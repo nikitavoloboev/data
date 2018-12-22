@@ -11,3 +11,4 @@
 - [Dopamine](https://github.com/google/dopamine#readme) - Research framework for fast prototyping of reinforcement learning algorithms.
 - [Spinning Up in Deep RL](https://github.com/openai/spinningup#readme) - Educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
 - [Advanced Deep Learning & Reinforcement Learning Course (2018)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+- [OpenAI Gym](https://github.com/openai/gym) - Toolkit for developing and comparing reinforcement learning algorithms.

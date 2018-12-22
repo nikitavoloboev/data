@@ -74,3 +74,4 @@ Go promotes composition over inheritance.
 - [go-hardware](https://github.com/rakyll/go-hardware) - Directory of hardware related libs, tools, and tutorials for Go.
 - [HN: Go 2, here we go (2018)](https://news.ycombinator.com/item?id=18561587)
 - [gotestsum](https://github.com/gotestyourself/gotestsum) - Runs tests, prints friendly test output and a summary of the test run.
+- [Nice example of a small Go CLI tool](https://github.com/htdvisser/did)
