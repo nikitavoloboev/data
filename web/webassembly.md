@@ -13,3 +13,4 @@
 - [Calls between JavaScript and WebAssembly are finally fast](https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/)
 - [Wasmer](https://github.com/WAFoundation/wasmer) - High-Performance WebAssembly JIT interpreter.
 - [wac](https://github.com/kanaka/wac) - WebAssembly in C.
+- [Wasmjit](https://github.com/rianhunter/wasmjit) - Kernel Mode WebAssembly Runtime for Linux.
