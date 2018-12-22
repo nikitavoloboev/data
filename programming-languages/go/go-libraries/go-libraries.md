@@ -8,6 +8,7 @@
 - [ishell](https://github.com/abiosoft/ishell)
 - [progressbar](https://github.com/schollz/progressbar) - Basic thread-safe progressbar for Go apps.
 - [flagga](https://github.com/erizocosmico/flagga) - Extensible Go library for handling program configuration using flags.
+- [ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration.
 
 ## Web
 

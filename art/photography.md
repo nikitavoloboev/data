@@ -14,6 +14,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 - [Kenneth Reitz](https://500px.com/kennethreitz)
 - [Daniel Zeller](https://www.artsy.net/artist/daniel-zeller)
 - [Matt Perry](https://mattperry.photography/)
+- [Ian Battaglia](https://unsplash.com/@ianjbattaglia)
 
 ## Links
 

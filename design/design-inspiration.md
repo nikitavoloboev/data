@@ -106,6 +106,7 @@ Here are few more things I liked, design wise.
 - [Alexey Sekachov](https://work.asekachov.com/) - Clean.
 - [Aaron Covrett](http://aaroncovrett.com/play/)
 - [Rekka Bellum](https://kokorobot.ca/#about)
+- [Juliette Pretot](https://juliette.sh/)
 
 ## Other
 

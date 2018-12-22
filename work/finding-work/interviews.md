@@ -28,3 +28,4 @@
 - [HN: Google's interview system: it's not about solving the problem (2018)](https://news.ycombinator.com/item?id=18374938)
 - [Interviewing At Jane Street (2014)](https://blog.janestreet.com/interviewing-at-jane-street/)
 - [Ask HN: What should an ideal developer interview process look like? (2018)](https://news.ycombinator.com/item?id=18585677)
+- [Salary Negotiation: Make More Money, Be More Valued (2012)](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)

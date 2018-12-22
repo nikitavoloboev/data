@@ -35,6 +35,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Michał Klimczak](https://500px.com/shume)
 - [ariduka55](http://ariduka55.tumblr.com/)
 - [Leonardo Santamaria](http://www.leonardosantamaria.com/)
+- [Michal Kváč](https://www.artstation.com/kvacm)
 
 ## Interesting art
 
