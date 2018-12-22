@@ -27,3 +27,5 @@
 - [Equity Compensation Guide](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference, including hundreds of resources, explained from the ground up and made to be improved over time.
 - [Robert Vis (MessageBird): Bootstrapped & Profitable (2017)](https://www.youtube.com/watch?v=dxArUeYVaJQ)
 - [The Greatest Sales Deck I’ve Ever Seen (2016)](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
+- [Reflections from the last 2 years as a founder (2018)](https://canny.io/blog/reflections-two-year-founder/)
+- [Building our startup as digital nomads (2017)](https://canny.io/blog/building-startup-digital-nomads/)

@@ -28,7 +28,7 @@ Coupled with many [small workflows](https://github.com/nikitavoloboev/small-work
 
 I use [Monokai Night theme](https://www.alfredapp.com/extras/theme/PQVZpeg4Zi/). Here is how it looks:
 
-![](https://i.imgur.com/7JosJLP.png)
+![](https://i.imgur.com/v0eFFHM.png)
 
 ### Symlink workflows
 

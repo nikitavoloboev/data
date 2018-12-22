@@ -6,6 +6,8 @@ Being honest with your intentions and being independent of anything brings confi
 
 For first dates specifically, I find it best to arrange to meet as soon as possible over chatting in text. You will know a lot more about each other in a brief 10 min conversation together over coffee than anything else. For services like Tinder where you get to chat when both of you 'swiped on each other', it can be as simple as saying 'Let's grab a ☕️ together'
 
+Personally I found dating apps like Tinder to be a waste of time. And I like to approach girls I find attractive in real life (where appropriate) by saying hey and asking for their name.
+
 ## Notes
 
 - It is better to exchange Instagram accounts with girls you've approached than trying to share phone numbers.
@@ -29,3 +31,4 @@ For first dates specifically, I find it best to arrange to meet as soon as possi
 ## Links
 
 - [Kino Escalation: How To Attract Women With Physical Touch](https://www.reddit.com/r/seduction/comments/9xs54q/kino_escalation_how_to_attract_women_with/?utm_content=comments)
+- [Why She Didn’t Text Back (2018)](https://www.youtube.com/watch?v=B8xBpgFLA84) - Principles of seduction & importance of principles.

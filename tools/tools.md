@@ -19,6 +19,7 @@ I love software and non software tools that help me in some way.
 - [livegrep](https://github.com/livegrep/livegrep) - Tool, partially inspired by Google Code Search, for interactive regex search of ~gigabyte-scale source repositories.
 - [webhook](https://github.com/adnanh/webhook) - Lightweight incoming webhook server to run shell commands.
 - [Remove Image Background](https://www.remove.bg/)
+- [Canny](https://canny.io) - Track feedback to build better products.
 
 ## Other
 
