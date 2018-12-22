@@ -10,7 +10,7 @@ I am happy with the piece I wrote on [happiness](../../life/happiness.md). I had
 
 I have been feeling frustrated a lot by university. But I learned over this time that frustration is not effective stance as it solves none of the problems. And being frustrated all the time and complaining about things achieves nothing. I've read a lot over the years on the things [most people consider important in life](https://news.ycombinator.com/item?id=16950507). But it is one thing to read it. And another to actually follow it. The approach that I follow now and love is pretty simple. Start small. Don't be so harsh on myself. And be mindful. Change doesn't come instantly and if you have a vision of what you want to do and make in life. Just keep at it.
 
-One another thing this month taught me. Or rather strengthened in me. Is my resilience to failures. Some failures happen for a reason. Some just happen because life. There is no reason to make it worse for yourself and dwell on it. Investigate why you failed. And do your best to avoid getting yourself in the same situation in the future.
+One other thing this month taught me. Or rather strengthened in me. Is my resilience to failures. Some failures happen for a reason. Some just happen because life. There is no reason to make it worse for yourself and dwell on it. Investigate why you failed. And do your best to avoid getting yourself in the same situation in the future.
 
 Also avocados and salads are amazing.
 
