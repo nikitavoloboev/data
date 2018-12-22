@@ -49,3 +49,4 @@
 - [Librsvg](https://github.com/GNOME/librsvg) - SVG rendering library.
 - [rust-openssl](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
 - [rustls](https://github.com/ctz/rustls) - Modern TLS library in Rust.
+- [Rusoto](https://www.rusoto.org/) - AWS SDK for Rust.

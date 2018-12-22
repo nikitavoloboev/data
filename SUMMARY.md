@@ -289,6 +289,7 @@
   - [VPN](networking/vpn.md)
   - [GraphQL](networking/graphql.md)
   - [SSH](networking/ssh.md)
+  - [Domains](networking/domains.md)
 - [Health](health/health.md)
   - [Nutrition](health/nutrition/nutrition.md)
     - [Foods](health/nutrition/foods.md)

@@ -41,3 +41,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [Design Patterns JS](https://github.com/fbeline/Design-Patterns-JS) - All the 23 (GoF) design patterns implemented in JavaScript.
 - [Standard Library Proposal](https://github.com/tc39/proposal-javascript-standard-library#readme)
 - [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+- [puppet-run](https://github.com/andywer/puppet-run) - Run anything JavaScript in a headless Chrome from your command line.

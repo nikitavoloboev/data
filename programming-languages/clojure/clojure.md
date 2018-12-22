@@ -18,3 +18,4 @@ Don't use it but [Luminus](http://www.luminusweb.net/), [ClojureScript](clojures
 - [Manifold](https://github.com/ztellman/manifold) - Compatibility layer for event-driven abstractions.
 - [REBL](https://github.com/cognitect-labs/REBL-distro) - Graphical, interactive tool for browsing Clojure data.
 - [Clojure's slow start — what's inside? (2018)](http://clojure-goes-fast.com/blog/clojures-slow-start/)
+- [Maybe Not - Rich Hickey (2018)](https://www.youtube.com/watch?v=YR5WdGrpoug)

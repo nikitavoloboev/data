@@ -2,6 +2,8 @@
 
 Some things I found funny.
 
+- [Our architecture: load balancer -> memcached -> memcached -> frontend server -> backend server](https://www.youtube.com/watch?v=jlPaby7suOc)
+
 ## Links
 
 - [ed is the standard text editor](https://www.gnu.org/fun/jokes/ed-msg.html)
