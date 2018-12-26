@@ -3,6 +3,7 @@
 ## Web
 
 - [Pyramid](https://github.com/Pylons/pyramid) - Small, fast, down-to-earth, open source Python web framework.
+- [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 
 ## ML
 
@@ -19,3 +20,4 @@
 - [Responder](https://github.com/kennethreitz/responder) - Familiar HTTP Service Framework for Python.
 - [Loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple.
 - [Blaze](https://github.com/blaze/blaze) - Translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems.
+- [Dash Table](https://github.com/plotly/dash-table) - First-Class Interactive DataTable for Dash.

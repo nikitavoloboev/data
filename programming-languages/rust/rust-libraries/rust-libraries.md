@@ -50,3 +50,5 @@
 - [rust-openssl](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
 - [rustls](https://github.com/ctz/rustls) - Modern TLS library in Rust.
 - [Rusoto](https://www.rusoto.org/) - AWS SDK for Rust.
+- [Rand](https://github.com/rust-random/rand) - Rust library for random number generation.
+- [noise-rs](https://github.com/Razaekel/noise-rs) - Procedural noise generation library for Rust.

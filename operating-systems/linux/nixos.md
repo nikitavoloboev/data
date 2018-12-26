@@ -24,3 +24,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS Wiki](https://nixos.wiki/wiki/Main_Page)
 - [NixOps](https://github.com/NixOS/nixops) - NixOS-based cloud deployment tool.
 - [NixOS Discourse forum](https://discourse.nixos.org/)
+- [Getting started with NixOS on Raspberry Pi 3 Model B+](https://github.com/zupo/nix#readme)
