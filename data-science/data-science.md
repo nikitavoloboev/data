@@ -17,3 +17,4 @@
 - [Our world in data](https://ourworldindata.org/science-and-research)
 - [Free data science books](https://github.com/chaconnewu/free-data-science-books#readme)
 - [Pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale.
+- [Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets#readme)

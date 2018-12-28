@@ -49,7 +49,9 @@
 - [Deep Learning 1: Introduction to Machine Learning Based AI](https://www.youtube.com/watch?v=iOh7QUZGyiU)
 - [Deep Learning cheatsheets for Stanford's CS 230 (2018)](https://github.com/afshinea/stanford-cs-230-deep-learning)
 - [Deep Learning Book Chapter Summaries](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) - Attempting to make the Deep Learning Book easier to understand.
-- [PracticalAI](https://github.com/GokuMohandas/practicalAI) - Practical approach to learning machine learning.
+- [PracticalAI](https://github.com/GokuMohandas/practicalAI#readme) - Practical approach to learning machine learning.
 - [Ask HN: How to incorporate machine learning into day job? (2018)](https://news.ycombinator.com/item?id=18650646)
 - [RLgraph](https://github.com/rlgraph/rlgraph) - Flexible computation graphs for deep reinforcement learning.
 - [Nevergrad](https://github.com/facebookresearch/nevergrad) - Gradient-free optimization platform.
+- [Machine Learning Cheat Sheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
+- [GANs and Divergence Minimization (2018)](https://colinraffel.com/blog/gans-and-divergence-minimization.html)

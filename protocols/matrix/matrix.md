@@ -19,3 +19,4 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [Nheko](https://github.com/mujx/nheko) - Native desktop client for Matrix.
 - [Client-Server API](https://matrix.org/docs/spec/client_server/r0.3.0.html)
 - [Matrix Blog](https://matrix.org/blog/posts/)
+- [The 2018 Matrix Holiday Special](https://matrix.org/blog/2018/12/25/the-2018-matrix-holiday-special/)
