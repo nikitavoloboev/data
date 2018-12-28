@@ -8,3 +8,4 @@ For writing LaTeX I use [VS Code](../text-editors/vs-code/vs-code.md) and [LaTeX
 
 - [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
 - [Neat typesetting](http://tullo.ch/static/cambridge/TimeSeriesMonteCarlo-LectureNotes.pdf)
+- [Mathpix](https://mathpix.com/) - Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
