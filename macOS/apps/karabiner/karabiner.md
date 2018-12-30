@@ -1,6 +1,6 @@
 # [Karabiner](https://github.com/tekezo/Karabiner-Elements)
 
-Karabiner is an absolutely amazing app that lets you remap keys at a very low level on macOS.
+Karabiner is an absolutely amazing app that [lets you remap keys at a very low level on macOS](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6).
 
 I have completely remapped my keyboard with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
 

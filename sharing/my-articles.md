@@ -36,9 +36,10 @@ The number between brackets shows the year I wrote the article in. Articles with
 - [Opening up my mind (2017) 🌟](https://medium.com/@nikitavoloboev/opening-up-my-mind-%EF%B8%8F-575c8ece8a24) - Sharing my most personal Alfred workflow about myself, my entire workflow and setup, one download away for anyone who cares.
 - [Writing Alfred workflows in Go (2017) 🌟](https://medium.com/@nikitavoloboev/writing-alfred-workflows-in-go-2a44f62dc432) - How to write Alfred workflows in Go language.
 
-## Tooling
+## Tools
 
 - [Pretty and fast shell (2017) 🌟](https://medium.com/@nikitavoloboev/pretty-and-fast-shell-97ea870f2805) - How to setup a very awesome and modern shell experience from the ground up and have full control over it.
+- [Karabiner God Mode (2018) 🌟](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6) - How to use Karabiner to take your use of mac to the next level.
 
 ## Learn Anything
 
