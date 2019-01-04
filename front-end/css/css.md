@@ -39,3 +39,4 @@
 - [Spectre](https://github.com/picturepan2/spectre) - Lightweight, Responsive and Modern CSS Framework.
 - [Tachyons](https://github.com/tachyons-css/tachyons) - Functional CSS for humans.
 - [CSS Animation 101](https://github.com/cssanimation/css-animation-101#readme)
+- [Tailwind utility-first CSS framework](https://tailwindcss.com/docs/what-is-tailwind/)
