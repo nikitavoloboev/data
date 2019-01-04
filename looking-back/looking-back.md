@@ -6,7 +6,7 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 
 ## [2018](2018/2018.md)
 
-> Matured a lot as a person. Gained my first work experience.
+> Matured a lot as a person. Gained my first work experience. Listened to Nils Frahm.
 
 - [January](2018/2018-january.md) - LA nominated for Golden Kitty award. Stopped using FB.
 - [February](2018/2018-february.md) - Made Telegram macOS/iOS group.
