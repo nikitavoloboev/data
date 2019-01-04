@@ -324,7 +324,7 @@
   - [Products](business/products.md)
   - [Pricing](business/pricing.md)
 - [Relationships](relationships/relationships.md)
-  - [Dating](relationships/dating.md)
+  - [Seduction](relationships/seduction.md)
 - [3D Printing](3d-printing/3d-printing.md)
 - [Anki](anki/anki.md)
 - [Philosophy](philosophy/philosophy.md)
@@ -466,7 +466,7 @@
   - [Web presence](other/web-presence.md)
 - [Looking back](looking-back/looking-back.md)
   - [2017](looking-back/2017/2017.md)
-  - 2018
+  - [2018](looking-back/2018/2018.md)
     - [January](looking-back/2018/2018-january.md)
     - [February](looking-back/2018/2018-february.md)
     - [March](looking-back/2018/2018-march.md)

@@ -5,6 +5,11 @@
 ## Notes
 
 - [Never think that a job interview is a one-way interview. At least, personally, I always am interviewing the potential team as well. No, you don't have all the control as the interviewer.](https://twitter.com/jessfraz/status/989878115710263297)
+- [Under Satya Nadella, Microsoft has developed an "Alternative Interview Framework" that involves:](https://twitter.com/mjackson/status/1079502682807664640)
+  - 2 interviewers at a time
+  - sharing questions with candidates ahead of time
+  - working on actual problems the team is facing
+  - blind feedback
 
 ## Links
 

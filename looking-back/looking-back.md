@@ -4,7 +4,9 @@ I want to share my journey in life both for myself and other people who might fi
 
 I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) and [Instagram](https://instagram.com/nikitavoloboev).
 
-## 2018
+## [2018](2018/2018.md)
+
+> Matured a lot as a person. Gained my first work experience.
 
 - [January](2018/2018-january.md) - LA nominated for Golden Kitty award. Stopped using FB.
 - [February](2018/2018-february.md) - Made Telegram macOS/iOS group.

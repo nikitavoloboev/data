@@ -1,4 +1,4 @@
-# Dating
+# Seduction
 
 One of the most valuable books I read on the topic of dating and relationships is [Models](https://www.goodreads.com/book/show/12633800-models). It states that the most important thing in any kind of relationship is honesty. In regards to seduction it is being honest with your intentions. The other important thing is being independent. It is usually the case that the person who feels most insecure in the relationship is at a disadvantage. In this position, it is thus much harder to be yourself as you will always be reliant on someone's thoughts or feelings. It is much better to simply be yourself and understand that whatever thoughts or feelings the person has are of their own making. And it is their opinion only which in no way reflects who you are and what you think of yourself.
 
@@ -27,6 +27,7 @@ Personally I found dating apps like Tinder to be a waste of time. And I like to 
   - If she's not looking, its a good chance she's not interested. Don't stare at her. Move on.
 - Eye-contact is fundamental. When you look a woman in the eye, don't hide the fact that you want her. Maintain eye-contact. This is a very clear signal you are interested in a woman sexually.
   - Just for clarity. When you make eye contact you need to choose an eye. You can't oscillate back and forth between them. And when he says "maintain eye contact" it doesn't mean blankly stare into her eyes uninterrupted. It means when you do look at her, look into her eyes. Not just at her face. And hold that eye contact slightly longer than you would regularly with other people.
+- [You are enough - Women are a by-product](https://www.youtube.com/watch?v=AFqwULzGXCk)
 
 ## Links
 
