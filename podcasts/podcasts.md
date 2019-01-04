@@ -14,6 +14,7 @@ I keep a [Trello board](https://trello.com/b/Wtr04eGQ) of podcasts I am listenin
 - [Lisa Feldman Barrett: Emotion](https://overcast.fm/+OcVeMXzyI)
 - [Ep. #2, The Early Days of GitHub with Tom Preston-Werner](https://www.heavybit.com/library/podcasts/enterpriseready/ep-2-the-early-days-of-github-with-tom-preston-werner/) - [HN thread](https://news.ycombinator.com/item?id=18258148)
 - [Jeff Atwood: Stack Overflow and Coding Horror (2018)](https://overcast.fm/+OcVcU40LY)
+- [Professor Philip Wadler on Plutus (2018)](https://overcast.fm/+PkjerUhVU)
 
 ## Interesting episodes
 

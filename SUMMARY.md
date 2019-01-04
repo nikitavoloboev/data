@@ -382,6 +382,7 @@
   - [SQL](databases/sql/sql.md)
   - [Blockchain](databases/blockchain/blockchain.md)
     - [Ethereum](databases/blockchain/ethereum.md)
+    - [Cardano](databases/blockchain/cardano.md)
 - [Art](art/art.md)
   - [Photography](art/photography.md)
   - [Drawing](art/drawing.md)
