@@ -19,7 +19,7 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 - [September](../looking-back/2018/2018-september.md) - Learning JavaScript. Moved Karabiner to Goku.
 - [October](../looking-back/2018/2018-october.md) - Web Summit. Learning.
 - [November](../looking-back/2018/2018-november.md) - Learning.
-- [December](../looking-back/2018/2018-december.md) - Spent new years in Spain with family.
+- [December](../looking-back/2018/2018-december.md) - Celebrated new year in Spain with family.
 
 ## [2017](2017/2017.md)
 

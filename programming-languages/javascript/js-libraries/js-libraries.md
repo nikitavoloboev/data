@@ -32,3 +32,4 @@
 - [ForgJS](https://github.com/oussamahamdaoui/forgJs) - JavaScript lightweight object validator.
 - [faker.js](https://github.com/Marak/faker.js) - Generate massive amounts of realistic fake data in Node.js and the browser.
 - [arg](https://github.com/zeit/arg) - Simple argument parsing.
+- [fbt](https://github.com/facebookincubator/fbt) - JavaScript Internationalization Framework.

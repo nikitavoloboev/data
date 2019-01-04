@@ -27,9 +27,9 @@ Personally I found dating apps like Tinder to be a waste of time. And I like to 
   - If she's not looking, its a good chance she's not interested. Don't stare at her. Move on.
 - Eye-contact is fundamental. When you look a woman in the eye, don't hide the fact that you want her. Maintain eye-contact. This is a very clear signal you are interested in a woman sexually.
   - Just for clarity. When you make eye contact you need to choose an eye. You can't oscillate back and forth between them. And when he says "maintain eye contact" it doesn't mean blankly stare into her eyes uninterrupted. It means when you do look at her, look into her eyes. Not just at her face. And hold that eye contact slightly longer than you would regularly with other people.
-- [You are enough - Women are a by-product](https://www.youtube.com/watch?v=AFqwULzGXCk)
 
 ## Links
 
 - [Kino Escalation: How To Attract Women With Physical Touch](https://www.reddit.com/r/seduction/comments/9xs54q/kino_escalation_how_to_attract_women_with/?utm_content=comments)
 - [Why She Didn’t Text Back (2018)](https://www.youtube.com/watch?v=B8xBpgFLA84) - Principles of seduction & importance of principles.
+- [You are enough - Women are a by-product](https://www.youtube.com/watch?v=AFqwULzGXCk)
