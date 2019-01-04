@@ -10,3 +10,4 @@ Everything else I try to get from [food](foods.md).
 ## Links
 
 - [Optimum Nutrition Recommendations](https://nutritionfacts.org/2011/09/12/dr-gregers-2011-optimum-nutrition-recommendations/)
+- [WFPB supplements (2019)](https://www.reddit.com/r/PlantBasedDiet/comments/ac6w9v/vitamins/)

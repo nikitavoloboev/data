@@ -4,7 +4,7 @@ I like to collect beautiful art pieces as an Imgur album you can view [here](htt
 
 I share different photographs and art pieces I like on [my Instagram page](https://instagram.com/prettiways).
 
-I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](https://www.reddit.com/r/glitch_art). And I love exploring [Artsy](https://www.artsy.net/) for various art people have made.
+I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](https://www.reddit.com/r/glitch_art). And I like exploring [Artsy](https://www.artsy.net/) for various art people have made.
 
 ## Favorite artists
 
