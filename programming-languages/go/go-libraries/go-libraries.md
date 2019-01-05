@@ -65,3 +65,4 @@
 - [esc](https://github.com/mjibson/esc) - Simple file embedder for Go.
 - [certmagic](https://github.com/mholt/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal.
 - [gogrep](https://github.com/mvdan/gogrep) - Search for Go code using syntax trees.
+- [llvm](https://github.com/llir/llvm) - Library for interacting with LLVM IR in pure Go.
