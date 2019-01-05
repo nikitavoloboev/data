@@ -30,3 +30,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Google embraces, extends, and extinguishes](http://sircmpwn.github.io/2018/05/03/Google-embraces-extends-extinguishes.html)
 - [Inside China’s Dystopian Dreams: A.I., Shame and Lots of Cameras](https://www.nytimes.com/2018/07/08/business/china-surveillance-technology.html)
 - [Keynote address from Tim Cook, CEO, Apple Inc (2018)](https://www.youtube.com/watch?v=kVhOLkIs20A)
+- [HN: How Facebook tracks you on Android (2018)](https://news.ycombinator.com/item?id=18788658)

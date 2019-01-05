@@ -35,3 +35,4 @@
 - [Mathematics as thought](https://aeon.co/essays/the-secret-intellectual-history-of-mathematics)
 - [Penrose](https://github.com/penrose/penrose#readme) - Language-based platform for creating beautiful mathematical diagrams.
 - [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
+- [A Programmer's Introduction to Mathematics book](https://pimbook.org/)

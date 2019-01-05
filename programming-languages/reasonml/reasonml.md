@@ -17,3 +17,4 @@
 - [Odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml and Reason.
 - [odoc2docset](https://github.com/jfeser/odoc2docset) - Create Dash docsets from Odoc generated documentation.
 - [BsReact](https://github.com/eldh/bs-react) - Fork of ReasonReact adapted to work with Hooks and Context.
+- [Reason OCaml Language Reference](https://github.com/jordwalke/reasonml-manual)

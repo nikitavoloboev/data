@@ -33,3 +33,5 @@
 - [faker.js](https://github.com/Marak/faker.js) - Generate massive amounts of realistic fake data in Node.js and the browser.
 - [arg](https://github.com/zeit/arg) - Simple argument parsing.
 - [fbt](https://github.com/facebookincubator/fbt) - JavaScript Internationalization Framework.
+- [fuzzysearch](https://github.com/bevacqua/fuzzysearch) - Tiny and blazing-fast fuzzy search in JavaScript.
+- [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema.

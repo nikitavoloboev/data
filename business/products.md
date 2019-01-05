@@ -11,3 +11,7 @@
 - [Zeplin](https://zeplin.io/) - Connected space for product teams.
 - [Katacoda](https://www.katacoda.com/) - Interactive Learning and Training Platform for Software Engineers.
 - [SurveyMonkey](https://www.surveymonkey.com/) - Make online surveys and share them.
+
+## Links
+
+- [HN: Start with a Website, Not a Mobile App (2019)](https://news.ycombinator.com/item?id=18824993)

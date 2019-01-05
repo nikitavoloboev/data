@@ -40,3 +40,5 @@
 - [Tachyons](https://github.com/tachyons-css/tachyons) - Functional CSS for humans.
 - [CSS Animation 101](https://github.com/cssanimation/css-animation-101#readme)
 - [Tailwind utility-first CSS framework](https://tailwindcss.com/docs/what-is-tailwind/)
+- [CSStype](https://github.com/frenic/csstype) - Strict TypeScript and Flow types for style based on MDN data.
+- [normalize.css](https://github.com/necolas/normalize.css) - Modern alternative to CSS resets.

@@ -66,3 +66,5 @@
 - [certmagic](https://github.com/mholt/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal.
 - [gogrep](https://github.com/mvdan/gogrep) - Search for Go code using syntax trees.
 - [llvm](https://github.com/llir/llvm) - Library for interacting with LLVM IR in pure Go.
+- [ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang.
+- [retry](https://github.com/kamilsk/retry) - Functional mechanism based on channels to perform actions repetitively until successful.

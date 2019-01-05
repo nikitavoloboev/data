@@ -33,3 +33,4 @@ Personally I found dating apps like Tinder to be a waste of time. And I like to 
 - [Kino Escalation: How To Attract Women With Physical Touch](https://www.reddit.com/r/seduction/comments/9xs54q/kino_escalation_how_to_attract_women_with/?utm_content=comments)
 - [Why She Didn’t Text Back (2018)](https://www.youtube.com/watch?v=B8xBpgFLA84) - Principles of seduction & importance of principles.
 - [You are enough - Women are a by-product](https://www.youtube.com/watch?v=AFqwULzGXCk)
+- [Your Friends Are Holding You Back (2019)](https://www.youtube.com/watch?v=vWz1vuBpUnI)

@@ -145,6 +145,10 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 - [Endwise](https://github.com/tpope/vim-endwise) - Wisely add "end" in ruby, endfunction/endif/more in vim script, etc.
 
+## Reason
+
+- [vim-reasonml](https://github.com/jordwalke/vim-reasonml) - Esy + vim + reason +the latest Merlin.
+
 ## Links
 
 - [Begin with init.vim](https://github.com/raviqqe/begin-with-init.vim) - Minimal neovim distribution as init.vim.

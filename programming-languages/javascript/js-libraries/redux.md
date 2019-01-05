@@ -25,3 +25,5 @@ So:
 - [Getting started with Redux course](https://egghead.io/courses/getting-started-with-redux)
 - [Erik Rasmussen | Abstracting Form State with Redux Form (2016)](https://www.youtube.com/watch?v=eDTi7lYR1VU)
 - [A Dummy’s Guide to Redux and Thunk in React](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3)
+- [redux-actions](https://github.com/redux-utilities/redux-actions) - Flux Standard Action utilities for Redux.
+- [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links#readme) - Categorized list of Redux-related addons, libraries, and utilities.

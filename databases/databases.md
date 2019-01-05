@@ -5,6 +5,8 @@
 - [Mentat](https://github.com/mozilla/mentat) - Persistent, relational store inspired by Datomic and DataScript.
 - [RocksDB](https://github.com/facebook/rocksdb) - Persistent Key-Value Store for Flash and RAM Storage.
 - [goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
+- [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB.
+  - [pd](https://github.com/pingcap/pd) - Placement driver for TiKV.
 
 ## Links
 

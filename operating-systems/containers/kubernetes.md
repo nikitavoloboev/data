@@ -42,3 +42,4 @@
 - [Kazan](https://github.com/obmarg/kazan) - Kubernetes API client for Elixir.
 - [Tilt](https://github.com/windmilleng/tilt) - Local Kubernetes development with no stress.
 - [Maestro](https://github.com/maestrosdk/maestro) - Provides a declarative approach to building production-grade Kubernetes Operators covering the entire application lifecycle.
+- [kail](https://github.com/boz/kail) - Kubernetes log viewer.

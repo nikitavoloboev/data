@@ -106,3 +106,4 @@ Once I wrote the article that I am quite happy with. I export the article straig
 - [You Should Write Blogs](https://sites.google.com/site/steveyegge2/you-should-write-blogs)
 - [Awesome book authoring](https://github.com/TalAter/awesome-book-authoring#readme) - Collection of awesome resources for technical book authors.
 - [HN: What Is The Morning Writing Effect? (2018)](https://news.ycombinator.com/item?id=18369337)
+- [On self-publishing “A Programmer’s Introduction to Mathematics” (2018)](https://medium.com/@jeremyjkun/on-self-publishing-a-programmers-introduction-to-mathematics-1472b7511c99)

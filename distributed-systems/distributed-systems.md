@@ -15,3 +15,4 @@
 - [Reliable Systems Series: Model-Based Testing (2018)](https://medium.com/@tylerneely/reliable-systems-series-model-based-property-testing-e89a433b360)
 - [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems#readme)
 - [Kong](https://github.com/Kong/kong) - Cloud-Native API Gateway & Service Mesh.
+- [Disque](https://github.com/antirez/disque) - Distributed message broker.

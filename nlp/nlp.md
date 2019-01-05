@@ -12,3 +12,4 @@
 - [YSDA Natural Language Processing course (2018)](https://github.com/yandexdataschool/nlp_course)
 - [PyText](https://github.com/facebookresearch/pytext) - Natural language modeling framework based on PyTorch.
 - [HN: Facebook open-sources a speech-recognition system and a machine learning library (2018)](https://news.ycombinator.com/item?id=18736116)
+- [FlashText](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.

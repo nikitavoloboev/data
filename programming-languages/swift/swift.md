@@ -19,3 +19,4 @@
 - [SwiftRewriter](https://github.com/inamiy/SwiftRewriter) - Swift code formatter using SwiftSyntax.
 - [SwiftHub](https://github.com/khoren93/SwiftHub) - Github iOS client written in RxSwift and MVVM clean architecture.
 - [Swift Debugger and REPL](https://github.com/apple/swift-lldb) - Version of LLDB that supports the Swift programming language & REPL.
+- [danger-swift](https://github.com/danger/swift) - Stop saying "you forgot to …" in code review in Swift.

@@ -43,3 +43,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [puppet-run](https://github.com/andywer/puppet-run) - Run anything JavaScript in a headless Chrome from your command line.
 - [Yalc](https://github.com/whitecolor/yalc) - Better workflow than npm | yarn link for package authors.
+- [ECMAScript proposals](https://github.com/tc39/proposals#readme)
