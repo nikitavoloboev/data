@@ -309,6 +309,7 @@
   - [Exercises](fitness/exercises.md)
 - [Medicine](medicine/medicine.md)
   - [Immunology](medicine/immunology.md)
+  - [Immunotherapy](medicine/immunotherapy.md)
 - [History](history/history.md)
   - [Anthropology](history/anthropology.md)
 - [Travel](travel/travel.md)

@@ -253,7 +253,7 @@ Here are the lists I share so far.
 - (!!!) read
   https://medium.com/tezos/a-quick-tour-of-the-tezos-code-base-and-the-state-of-its-development-c4e5fcb34b8a
 - (!!!) read
-  http://sircmpwn.github.io/2015/07/20/A-practical-understanding-of-Flux.html
+  http://drewdevault.com/2015/07/20/A-practical-understanding-of-Flux.html
 - (!!!) read
   http://v6.robweychert.com/blog/2018/02/v6-color/
 - (!!!) read

@@ -28,7 +28,7 @@
 - [One Bite At A Time: Partitioning Complexity](https://www.facebook.com/notes/kent-beck/one-bite-at-a-time-partitioning-complexity/1716882961677894/)
 - [Being A Developer After 40](https://medium.freecodecamp.org/being-a-developer-after-40-3c5dd112210c)
 - [What's code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
-- [Portability matters](http://sircmpwn.github.io/2017/11/13/Portability-matters.html)
+- [Portability matters](http://drewdevault.com/2017/11/13/Portability-matters.html)
 - [On being an effective developer](https://carlosbecker.com/posts/on-being-an-effective-developer/)
 - [Advice to the newish programmer](https://macwright.org/2018/02/08/advice-to-the-newish-programmer.html)
 - [Comment Your Code](https://npf.io/2017/11/comments/)

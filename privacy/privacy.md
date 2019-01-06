@@ -27,7 +27,7 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [A Picture Is Worth a Thousand Cookies](https://blog.halide.cam/a-picture-is-worth-a-thousand-cookies-8400efa3d650)
 - [Why Zuckerberg’s 14-year apology tour hasn’t fixed Facebook](https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/)
 - [Against Facebook](https://0xadada.pub/2018/05/01/against-facebook/)
-- [Google embraces, extends, and extinguishes](http://sircmpwn.github.io/2018/05/03/Google-embraces-extends-extinguishes.html)
+- [Google embraces, extends, and extinguishes](http://drewdevault.com/2018/05/03/Google-embraces-extends-extinguishes.html)
 - [Inside China’s Dystopian Dreams: A.I., Shame and Lots of Cameras](https://www.nytimes.com/2018/07/08/business/china-surveillance-technology.html)
 - [Keynote address from Tim Cook, CEO, Apple Inc (2018)](https://www.youtube.com/watch?v=kVhOLkIs20A)
 - [HN: How Facebook tracks you on Android (2018)](https://news.ycombinator.com/item?id=18788658)

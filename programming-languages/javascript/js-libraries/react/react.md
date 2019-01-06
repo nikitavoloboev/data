@@ -12,7 +12,7 @@
 
 ## Links
 
-- [A practical understanding of Flux](http://sircmpwn.github.io/2015/07/20/A-practical-understanding-of-Flux.html)
+- [A practical understanding of Flux](http://drewdevault.com/2015/07/20/A-practical-understanding-of-Flux.html)
 - [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
 - [Introduction to The Beginner's Guide to ReactJS](https://egghead.io/lessons/react-introduction-to-the-beginner-s-guide-to-reactjs)
 - [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic#readme)
