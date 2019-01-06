@@ -112,3 +112,7 @@ Use Dropbox to sync configuration files. I also keep this wiki in `Write` dir in
 ❯ exa
 Alfred  Apps  Config  History  IFTTT  Pixave  Shared  Shares  TaskPaper  upload.sh  Write
 ```
+
+## Links
+
+- [Ask HN: How do you organise your hard drive? (2018)](https://news.ycombinator.com/item?id=18836472)
