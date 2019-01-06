@@ -2,9 +2,9 @@
 
 ## Install
 
-You can install all the macros I use by downloading them [from here](https://www.dropbox.com/sh/2a0xfdxtpwcuh2c/AABUXORrpbApdV6Ubj-NxjGva?dl=1). The folder is always updated with the latest macros I use.
+You can install all the macros I use by downloading them [from here](https://gumroad.com/l/rKLzW) for a small price. The folder is always updated with the latest macros I use.
 
-Inside unzipped `km-macros` dir, you can double click in Finder on any of the macros that you want to install to KM.
+Inside the downloaded `KM` folder, you can double click in Finder on any of the macros that you want to install to KM.
 
 ## Explanation
 
