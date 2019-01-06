@@ -14,3 +14,4 @@
 - [Jane Street OCaml Workshop](https://github.com/janestreet/learn-ocaml-workshop) - Exercises and projects for Jane Street's OCaml Workshop.
 - [HN: OCaml for the masses (2011)](https://news.ycombinator.com/item?id=18532352)
 - [Solutions to Functional Programming in OCaml MOOC course](https://github.com/smeruelo/mooc-ocaml)
+- [The OCaml Platform 1.0 - Reason ML (2018)](https://www.youtube.com/watch?v=oyeKLAYPmQQ)
