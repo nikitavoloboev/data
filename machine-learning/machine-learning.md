@@ -56,3 +56,4 @@
 - [Machine Learning Cheat Sheet](https://ml-cheatsheet.readthedocs.io/en/latest/)
 - [GANs and Divergence Minimization (2018)](https://colinraffel.com/blog/gans-and-divergence-minimization.html)
 - [Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic) - Technical report on convolution arithmetic in the context of deep learning.
+- [FloydHub](https://www.floydhub.com/) - Managed cloud platform for data scientists.

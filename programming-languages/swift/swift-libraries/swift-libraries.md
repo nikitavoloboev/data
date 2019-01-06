@@ -22,3 +22,4 @@
 - [OrederedSet](https://github.com/Weebly/OrderedSet) - Swift collection of unique, ordered objects.
 - [Apollo iOS](https://github.com/apollographql/apollo-ios) - Strongly-typed, caching GraphQL client for iOS, written in Swift.
 - [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
+- [Connectivity](https://github.com/rwbutler/Connectivity) - Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access.

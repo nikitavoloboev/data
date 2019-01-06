@@ -53,3 +53,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [React Draft Wysiwyg](https://github.com/jpuri/react-draft-wysiwyg) - Wysiwyg editor built using ReactJS and DraftJS libraries.
 - [Aminal](https://github.com/liamg/aminal) - Golang terminal emulator from scratch.
 - [Ask HN: What are your “brain hacks” that help you manage every day situations? (2018)](https://news.ycombinator.com/item?id=18588727)
+- [Kialo](https://www.kialo.com/) - Easy to use, yet powerful tool to engage in thoughtful discussion, understand different points of view, and help with collaborative decision-making.

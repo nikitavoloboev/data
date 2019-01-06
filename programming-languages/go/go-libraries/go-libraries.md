@@ -34,6 +34,10 @@
 
 - [zoom](https://github.com/albrow/zoom) - Blazing-fast datastore and querying engine for Go built on Redis.
 
+## ML
+
+- [gobrain](https://github.com/goml/gobrain) - Neural Networks written in go.
+
 ## API bindings
 
 - [Discord Go](https://github.com/bwmarrin/discordgo) - Go bindings for Discord.

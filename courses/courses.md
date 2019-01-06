@@ -10,3 +10,4 @@ I keep a [Trello board](https://trello.com/b/KXiTLwSA) of courses I am taking an
 
 - [Awesome courses](https://github.com/learn-anything/courses#readme)
 - [Has some great courses](http://computing.dcu.ie/~humphrys/)
+- [hn.academy](https://hn.academy/) - Collects, ranks, and showcases the online courses recommended by Hacker News users.

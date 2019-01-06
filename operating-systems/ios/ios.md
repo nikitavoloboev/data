@@ -36,3 +36,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side.
 - [HN: The iOS Menu (2019)](https://news.ycombinator.com/item?id=18830267)
 - [Secure iOS application development](https://github.com/felixgr/secure-ios-app-dev#readme)
+- [My Must-Have iOS Apps, 2018 Edition](https://www.macstories.net/stories/my-must-have-ios-apps-2018-edition/)

@@ -36,3 +36,4 @@
 - [Penrose](https://github.com/penrose/penrose#readme) - Language-based platform for creating beautiful mathematical diagrams.
 - [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
 - [A Programmer's Introduction to Mathematics book](https://pimbook.org/)
+- [How to learn Math and Physics (2018)](http://math.ucr.edu/home/baez/books.html)

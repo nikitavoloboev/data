@@ -43,3 +43,4 @@
 - [Tilt](https://github.com/windmilleng/tilt) - Local Kubernetes development with no stress.
 - [Maestro](https://github.com/maestrosdk/maestro) - Provides a declarative approach to building production-grade Kubernetes Operators covering the entire application lifecycle.
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
+- [Kubernetes clusters for the hobbyist](https://github.com/hobby-kube/guide#readme)

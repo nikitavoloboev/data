@@ -22,3 +22,4 @@
 - [Fork TS Checker Webpack Plugin](https://github.com/Realytics/fork-ts-checker-webpack-plugin) - Webpack plugin that runs typescript type checker on a separate process.
 - [Tsickle](https://github.com/angular/tsickle) - TypeScript to Closure Translator.
 - [Set of TSLint rules used on some Microsoft projects](https://github.com/Microsoft/tslint-microsoft-contrib)
+- [TypeSearch](https://microsoft.github.io/TypeSearch/) - Search for TS types.

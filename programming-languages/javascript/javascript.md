@@ -44,3 +44,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [puppet-run](https://github.com/andywer/puppet-run) - Run anything JavaScript in a headless Chrome from your command line.
 - [Yalc](https://github.com/whitecolor/yalc) - Better workflow than npm | yarn link for package authors.
 - [ECMAScript proposals](https://github.com/tc39/proposals#readme)
+- [FromJS](https://github.com/mattzeunert/fromjs) - See where each character on the screen came from in code.

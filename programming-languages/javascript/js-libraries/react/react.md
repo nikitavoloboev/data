@@ -49,3 +49,4 @@
 - [How Does React Tell a Class from a Function? (2018)](https://overreacted.io/how-does-react-tell-a-class-from-a-function/)
 - [How Does setState Know What to Do? (2018)](https://overreacted.io/how-does-setstate-know-what-to-do/)
 - [My Wishlist for Hot Reloading (2018)](https://overreacted.io/my-wishlist-for-hot-reloading/)
+- [Navi](https://github.com/frontarm/navi) - Batteries-included router for React.

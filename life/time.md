@@ -9,3 +9,5 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 ## Links
 
 - [How well are you investing your time?](https://www.youtube.com/watch?v=nH5K0yo-o1A)
+- [List of artists and hackers using homegrown time-tracking tools](https://github.com/merveilles/Time-Travelers#readme)
+- [Devine's Calendar Journal](https://wiki.xxiivv.com/#calendar)
