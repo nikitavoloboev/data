@@ -42,3 +42,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Some notes on doing research](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/dnrsmh9/ "permalink")
 - [Awesome research](https://github.com/emptymalei/awesome-research#readme)
 - [Academic Torrents](http://academictorrents.com/) - Distributed system for sharing enormous datasets - for researchers, by researchers.
+- [So You Want to Be a Research Scientist (2018)](https://medium.com/s/story/so-you-want-to-be-a-research-scientist-363c075d3d4c?fbclid=IwAR0tcvEpi4DojA3xmFMsuvXg8eqjZ_kHS_0HhBbzvBZ-WK-X-FrwjOe5MbA)
