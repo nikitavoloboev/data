@@ -2,7 +2,7 @@
 
 ## Install
 
-You can install all the macros I use by downloading them [from here](https://gumroad.com/l/rKLzW) for a small price. The folder is always updated with the latest macros I use.
+You can install all the macros I use by downloading them [from here](https://gumroad.com/l/kmmacros) for a small price. The folder is always updated with the latest macros I use.
 
 Inside the downloaded `KM` folder, you can double click in Finder on any of the macros that you want to install to KM.
 
