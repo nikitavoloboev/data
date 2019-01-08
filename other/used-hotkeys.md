@@ -8,6 +8,8 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 3 - New Annotate screenshot
 - 4 - Open Annotate screenshot
 - 5 - Start/stop ScreenFlow recording
+- 6 - Maximize window to next screen
+- / - Show/hide notification centre
 
 ## CMD+CTRL
 

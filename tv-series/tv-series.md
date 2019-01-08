@@ -9,3 +9,7 @@ I keep a [list of my favorite series](https://trakt.tv/users/nikitavoloboev/list
 ## Watched Series
 
 I track [all the series I watched](https://trakt.tv/users/nikitavoloboev/history).
+
+## Links
+
+- [SickChill](https://github.com/SickChill/SickChill) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
