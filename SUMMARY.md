@@ -459,7 +459,7 @@
   - [Thinking, fast and slow](books/thinking-fast-and-slow.md)
 - [Other](other/other.md)
   - [Wiki workflow](other/wiki-workflow.md)
-  - [Prefixes](other/prefixes.md)
+  - [My workflow notation](other/my-workflow-notation.md)
   - [Queries](other/queries.md)
   - [Funny](other/funny.md)
   - [Puzzles](other/puzzles.md)

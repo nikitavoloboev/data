@@ -1,4 +1,4 @@
-# Prefixes & notations
+# My workflow notation
 
 Prefixes and notations I use for various apps and tools and their meanings.
 
@@ -29,6 +29,7 @@ Prefixes and notations I use for various apps and tools and their meanings.
 - {} - What should be in my clipboard
 - [] - What state the macro should be in
 - <> - What link should be in my browser
+- @todo - Unfinished macros
 
 ## Safari
 
