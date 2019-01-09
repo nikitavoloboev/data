@@ -11,3 +11,4 @@ I especially like the distinction of distributing content over distributing link
 ## Links
 
 - [Go IPFS](https://github.com/ipfs/go-ipfs)
+- [JS IPFS](https://github.com/ipfs/js-ipfs)

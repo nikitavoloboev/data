@@ -15,7 +15,7 @@ Below is a list of all public Trello boards I share. I don't attach links to mos
 - [Videos](https://trello.com/b/Qoa5pkrQ) - Ideas for [YouTube videos](my-youtube.md) I want to make.
 - [Possessions](https://trello.com/b/HotsLGsc) - Things [I own](../minimalism/minimalism.md).
 - [Draw](https://trello.com/b/O07Rjd7H) - Things I want to draw.
-- [Visit](https://trello.com/b/i8c0hBVu) - Places I want to [visit](../travel/visited.md).
+- [Visit](https://trello.com/b/i8c0hBVu) - Places I want to [visit](../travel/visited/visited.md).
 - [Recipes](https://trello.com/b/UA5pW5BL) - [Recipes](https://github.com/nikitavoloboev/vegan-recipes#readme) I want to make.
 - [Podcasts](https://trello.com/b/Wtr04eGQ) - [Podcasts](../podcasts/podcasts.md) I am listening and want to listen.
 - [TV Series](https://trello.com/b/iUtT6wmu) - [TV Series](../tv-series/tv-series.md) I am watching and want to watch.
