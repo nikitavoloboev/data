@@ -84,6 +84,7 @@ These are my personal profiles on various websites sorted by categories.
 ## Gaming
 
 - [Steam](https://steamcommunity.com/id/nikivi) - All the games I played on Steam.
+- [PSN](https://my.playstation.com/profile/niikivi)
 
 ## Support
 

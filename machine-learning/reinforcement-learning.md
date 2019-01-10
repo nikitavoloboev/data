@@ -12,3 +12,4 @@
 - [Spinning Up in Deep RL](https://github.com/openai/spinningup#readme) - Educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
 - [Advanced Deep Learning & Reinforcement Learning Course (2018)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 - [OpenAI Gym](https://github.com/openai/gym) - Toolkit for developing and comparing reinforcement learning algorithms.
+- [Hands-On Reinforcement Learning With Python book](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)
