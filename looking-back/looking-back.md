@@ -23,4 +23,4 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 
 ## [2017](2017/2017.md)
 
-> Interesting year. Learn Anything was born. Started doing this wiki.
+> Interesting year. Learn Anything was born. Started writing this wiki.

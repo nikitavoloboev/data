@@ -4,7 +4,7 @@ I keep various lists of places I liked on [Foursquare](https://foursquare.com/us
 
 Below are countries and cities I visited thus far with some comments on them. Cities with 🌟 are my **favorite**.
 
-## Netherlands
+## [Netherlands](netherlands.md)
 
 - Amsterdam 🌟 - Lovely city.
 - Eindhoven - Did my CS degree there. Didn't like the city.

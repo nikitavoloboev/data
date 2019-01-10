@@ -30,3 +30,7 @@ The one book I read by him and loved is [Wisdom of Insecurity](https://antilogic
 - [Will Cady - What Fills The Gap](https://www.youtube.com/watch?v=cmT3t2Kdr3I)
 - [n u a g e s - Dreams](https://www.youtube.com/watch?v=9RMHHwJ9Eqk)
 - [Out of Your Mind lecture series mixed with ambient music](https://soundcloud.com/spacekittyisyou/sets/ambient-watts)
+
+## Links
+
+- [The Wisdom of Alan Watts in Four Thought-Provoking Animations](http://www.openculture.com/2014/11/the-wisdom-of-alan-watts-in-four-thought-provoking-animations.html)
