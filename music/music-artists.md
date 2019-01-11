@@ -4,6 +4,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 
 ## Favorite artists
 
+- [Nils Frahm](https://soundcloud.com/nils_frahm) - [My Friend the Forest](https://www.youtube.com/watch?v=d99p-SPn5Tc) | [La](https://www.youtube.com/watch?v=spwx9-6OfTU) | [Ólafur Arnalds & Nils Frahm improvisation in Berlin (2011)](https://www.youtube.com/watch?v=_2Usi28hk7U) | [Evening with Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po) | [Says (Live on KEXP)](https://www.youtube.com/watch?v=xLNeZogTsK8)
 - [Carbon Based Lifeforms](https://soundcloud.com/carbonbasedlifeforms) - [MOS 6581](https://www.youtube.com/watch?v=UtPTvyjtx3g) | [Nattväsen](https://www.youtube.com/watch?v=nRnEMnaBFxE) | [Derelicts](https://www.youtube.com/watch?v=jmrl3DTw2PE) | [Equilibrium](https://www.youtube.com/watch?v=Rdcx8-oTMvc)
 - [Nicolas Jaar](https://soundcloud.com/nicolas-jaar) - [Why Didn't You Save Me](https://www.youtube.com/watch?v=1L-dlEQgR7E) | [A time for us](https://www.youtube.com/watch?v=6znRhR5mL5A)
 - [Mounika](https://soundcloud.com/mounika-beat) - [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) | [Stay Here](https://www.youtube.com/watch?v=-RTOrm50Q8w) | [Love You Sweet It's What I Do](https://www.youtube.com/watch?v=55EANOPFunw) | [I Feel love](https://www.youtube.com/watch?v=OM97kdCa99s)
@@ -12,7 +13,6 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Maribou State](https://soundcloud.com/mariboustate) - [Colours In Sea](https://www.youtube.com/watch?v=ozv6afdThHE) | [Midas](https://www.youtube.com/watch?v=-UM76mULg7M) | [Manila](https://www.youtube.com/watch?v=BNs8pnOgtEw) | [Bricks](https://www.youtube.com/watch?v=0Z7PUEHb3e8)
 - [Jon Hopkins](https://soundcloud.com/jonhopkins) - [Immunity](https://www.youtube.com/watch?v=Y8eQR5DMous) | [Emerald Rush](https://www.youtube.com/watch?v=4sk0uDbM5lc) | [Afterlife](https://www.youtube.com/watch?v=jh3nZGGLUMM)
 - [Recondite](https://soundcloud.com/recondite_music) - [Tie In](https://www.youtube.com/watch?v=KKYYAbGpw6A)
-- [Nils Frahm](https://soundcloud.com/nils_frahm) - [My Friend the Forest](https://www.youtube.com/watch?v=d99p-SPn5Tc) | [Evening with Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po) | [Improvisation in Berlin 2011](https://www.youtube.com/watch?v=_2Usi28hk7U) | [Says (Live on KEXP)](https://www.youtube.com/watch?v=xLNeZogTsK8)
 - [Shigeto](https://soundcloud.com/shigeto) - [Ann Arbor Part 3 & 4](https://www.youtube.com/watch?v=0ZRM3hrn0hM) | [Detroit Part 1](https://www.youtube.com/watch?v=aG6Z_-iE4lI)
 - [Rival Consoles](https://soundcloud.com/rivalconsoles) - [Soul](https://www.youtube.com/watch?v=r5VflAxDCGw) | [Untravel](https://www.youtube.com/watch?v=cxxIN6fyj58)
 - [Tor](https://soundcloud.com/torsmusic) - [Days Gone](https://www.youtube.com/watch?v=NyBFuj0BBh8)

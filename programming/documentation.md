@@ -1,5 +1,11 @@
 # Documentation
 
+## Notes
+
+- [Top two mistakes in documentation:](https://twitter.com/dan_abramov/status/1083472984252260352)
+  1. Assuming people know everything
+  2. Assuming people are stupid
+
 ## Links
 
 - [Beautiful Docs](https://github.com/PharkMillups/beautiful-docs#readme) - Pointers to useful, well-written, and otherwise beautiful documentation.

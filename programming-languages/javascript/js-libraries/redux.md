@@ -1,7 +1,6 @@
 # [Redux](https://redux.js.org)
 
-It is common to use React with a Flux pattern to manage the state of the application. Redux is one of the most used and
-well supported state managers to be used (but not exclusively) with React. The Gist of Redux is a follows:
+It is common to use React with a Flux pattern to manage the state of the application. Redux is one of the most used and well supported state managers to be used (but not exclusively) with React. The Gist of Redux is a follows:
 
 - The whole state of your app is stored in an object tree inside a single store.
 - The only way to change the state tree is to emit an action, an object describing what happened.
