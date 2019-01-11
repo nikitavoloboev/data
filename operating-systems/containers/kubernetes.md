@@ -44,3 +44,4 @@
 - [Maestro](https://github.com/maestrosdk/maestro) - Provides a declarative approach to building production-grade Kubernetes Operators covering the entire application lifecycle.
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
 - [Kubernetes clusters for the hobbyist](https://github.com/hobby-kube/guide#readme)
+- [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Open source Kubernetes kubelet implementation.

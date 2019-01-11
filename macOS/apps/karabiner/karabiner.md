@@ -18,6 +18,7 @@ I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob
 
 ## Links
 
+- [Karabiner God Mode (2018)](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6)
 - [KE complex modifications](https://github.com/pqrs-org/KE-complex_modifications) - Has [website](https://pqrs.org/osx/karabiner/complex_modifications/) too.
 - [My detailed post on Alfred forum mentioning how I use Karabiner](https://www.alfredforum.com/topic/10673-how-to-make-the-alfred-search-window-a-frontmost-app/?do=findComment&comment=57212)
 - [Interesting setup](https://github.com/dunkarooftop/thought/blob/master/keymaps.org)
