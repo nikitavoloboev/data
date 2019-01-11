@@ -1,18 +1,19 @@
 # [Redux](https://redux.js.org)
 
-Redux holds the state of your web app. It is one big JavaScript object that contains all the necessary information to render your app at some point in time.
+It is common to use React with a Flux pattern to manage the state of the application. Redux is one of the most used and
+well supported state managers to be used (but not exclusively) with React. The Gist of Redux is a follows:
 
-You bind all the transformations on your UI to a single object. All stuff that happens on the UI is a consequence of a transformation on that object.
-
-So:
-
-1. You just gained undo/redo, if you track alterations on your object.
-2. You know the state of your application at all times, just looking at the object. You can also keep it and save it for later use.
+- The whole state of your app is stored in an object tree inside a single store.
+- The only way to change the state tree is to emit an action, an object describing what happened.
+- To specify how the actions transform the state tree, you write pure reducers.
 
 ## Notes
 
 - OwnPops is something your component receives from the parent. StateProps is something your component receives from the Redux store.
 - [In the app a user activity generates an event. The event handler calls the dispatch() function that is sending the current state and an action (object) to the rootReducer(). The action object contains the relevant data for the requested change of state slice. The rootReducer() will interpret the action.type, process the data and generate a new state. After the store has received the new state, it triggers the re-render of the React Redux app. It also triggers the execution of all listener functions that are registered with the subscribe() method to the store. Furthermore, all components that are subscribed with connect(mapStateToProps) to the store now receive the new state data as defined in mapStateToProps().](https://medium.com/@javascript_7596/react-redux-concept-workflow-cheatsheet-be00e3ffa853)
+- You bind all the transformations on your UI to a single object. All stuff that happens on the UI is a consequence of a transformation on that object. So:
+  1. You just gained undo/redo, if you track alterations on your object.
+  2. You know the state of your application at all times, just looking at the object. You can also keep it and save it for later use.
 
 ## Links
 
