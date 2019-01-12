@@ -66,7 +66,7 @@ And these Discord servers:
 
 ## Notes
 
-- [Best time to post links (HN especially) is somewhere around 16:30 CEST so it falls nicely in both EU & NA timezones
+- Best time to post links (HN especially) is somewhere around 16:30 CEST so it falls nicely in both EU & NA timezones
 
 ## Links
 

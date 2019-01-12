@@ -30,3 +30,4 @@
 - [Rust 2019: Think Bigger (2018)](http://fitzgeraldnick.com/2018/12/11/rust-2019-think-bigger.html)
 - [Rust Analyzer](https://github.com/rust-analyzer/rust-analyzer) - Experimental Rust compiler front-end for IDEs.
 - [Rust at speed — building a fast concurrent database (2018)](https://www.youtube.com/watch?v=s19G6n0UjsM&t=0s)
+- [You can't Rust that (2018)](http://lucumr.pocoo.org/2018/3/31/you-cant-rust-that/)
