@@ -4,6 +4,7 @@
 
 - [Vitamin D](https://www.bol.com/nl/p/now-foods-vitamin-d-3-2-000-iu-240-softgels/9200000076792968/) 4000 ug (Morning)
 - [Vitamin B12](https://www.bol.com/nl/p/body-fit-vitamine-b12-1000-mcg-per-tablet-60-zuigtabletten/9200000084936727/) 1000 ug (Morning)
+- [Turmeric](https://www.bol.com/nl/p/taka-turmeric-kurkuma-turmeric-zwarte-peper-extract-capsules-biologisch-120-vcaps/9200000095207340) - 500 mg (Morning).
 
 Everything else I try to get from [food](foods.md).
 
