@@ -22,3 +22,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [The Hard Parts of Open Source by Evan Czaplicki (2018)](https://www.youtube.com/watch?feature=youtu.be&v=o_4EX4dPppA&app=desktop)
 - [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9) - [HN](https://news.ycombinator.com/item?id=18538123)
 - [Ask HN: How do you make a profitable business out of an open-source project? (2018)](https://news.ycombinator.com/item?id=18808788)
+- [Faces of Open Source](http://facesofopensource.com/)

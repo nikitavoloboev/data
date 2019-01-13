@@ -266,6 +266,7 @@
   - [SEO](web/seo.md)
   - [Electron](web/electron.md)
   - [Webpack](web/webpack.md)
+  - [Search engines](web/search-engines.md)
   - [Progressive Web Apps](web/progressive-web-apps.md)
 - [Cloud computing](cloud-computing/cloud-computing.md)
   - [Serverless computing](cloud-computing/serverless-computing.md)

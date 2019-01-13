@@ -72,3 +72,4 @@
 - [llvm](https://github.com/llir/llvm) - Library for interacting with LLVM IR in pure Go.
 - [ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang.
 - [retry](https://github.com/kamilsk/retry) - Functional mechanism based on channels to perform actions repetitively until successful.
+- [ytdl](https://github.com/rylio/ytdl) - YouTube download library and CLI written in Go.

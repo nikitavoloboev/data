@@ -42,3 +42,4 @@
 - [Tailwind utility-first CSS framework](https://tailwindcss.com/docs/what-is-tailwind/)
 - [CSStype](https://github.com/frenic/csstype) - Strict TypeScript and Flow types for style based on MDN data.
 - [normalize.css](https://github.com/necolas/normalize.css) - Modern alternative to CSS resets.
+- [Julia Muzafarova CSS Pens](https://codepen.io/miocene/)

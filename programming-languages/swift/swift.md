@@ -20,3 +20,4 @@
 - [SwiftHub](https://github.com/khoren93/SwiftHub) - Github iOS client written in RxSwift and MVVM clean architecture.
 - [Swift Debugger and REPL](https://github.com/apple/swift-lldb) - Version of LLDB that supports the Swift programming language & REPL.
 - [danger-swift](https://github.com/danger/swift) - Stop saying "you forgot to …" in code review in Swift.
+- [swift-sh](https://github.com/mxcl/swift-sh) - Swift scripting with easy, zero-conf dependency imports.
