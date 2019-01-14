@@ -12,3 +12,4 @@
 - [LoRaWAN Academy](https://lorawanacademy.semtech.com/)
 - [Building LPWAN Solutions that last for Years (2018)](https://www.youtube.com/watch?v=mEmpbIlo8XQ&feature=youtu.be&list=PLEx5khR4g7PJW7u0GKxRPIQddtu69boT3)
 - [Firmware-updates enabled LoRaWAN example application](https://github.com/ARMmbed/mbed-os-example-lorawan-fuota)
+- [Things Network Stack for LoRaWAN Frequency Plans](https://github.com/TheThingsNetwork/lorawan-frequency-plans)
