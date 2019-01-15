@@ -4,7 +4,8 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 
 ## Bridges
 
-- [Matrix IRCd](https://github.com/matrix-org/matrix-ircd) - Bridge to IRC.
+- [IRC](https://github.com/matrix-org/matrix-ircd)
+- [WhatsApp](https://github.com/tulir/mautrix-whatsapp)
 
 ## Links
 

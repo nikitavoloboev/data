@@ -25,3 +25,4 @@
 - [DyNet](https://github.com/clab/dynet) - Dynamic Neural Network Toolkit.
 - [gonn](https://github.com/sausheong/gonn) - Building a simple neural network in Go.
 - [Neural Ordinary Differential Equations (2018)](https://arxiv.org/abs/1806.07366) - [Video explanation](https://www.youtube.com/watch?v=AD3K8j12EIE) | [Notes](https://github.com/llSourcell/Neural_Differential_Equations/blob/master/Neural_Ordinary_Differential_Equations.ipynb)
+- [MindsDB](https://github.com/mindsdb/mindsdb) - Framework to streamline use of neural networks.

@@ -31,3 +31,4 @@
 - [Rust Analyzer](https://github.com/rust-analyzer/rust-analyzer) - Experimental Rust compiler front-end for IDEs.
 - [Rust at speed — building a fast concurrent database (2018)](https://www.youtube.com/watch?v=s19G6n0UjsM&t=0s)
 - [You can't Rust that (2018)](http://lucumr.pocoo.org/2018/3/31/you-cant-rust-that/)
+- [Rust Playground](https://play.rust-lang.org/) - Run Rust code online. [OSS](https://github.com/integer32llc/rust-playground).
