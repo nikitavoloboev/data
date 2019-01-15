@@ -83,7 +83,6 @@ Below is a list of extensions I use.
 ## Markdown
 
 - [Markdown](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Keyboard shortcuts, table of contents, auto preview and more.
--
 
 ## LaTeX
 
