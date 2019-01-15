@@ -5,6 +5,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 ## Favorite artists
 
 - [Nils Frahm](https://soundcloud.com/nils_frahm) - [My Friend the Forest](https://www.youtube.com/watch?v=d99p-SPn5Tc) | [La](https://www.youtube.com/watch?v=spwx9-6OfTU) | [Ólafur Arnalds & Nils Frahm improvisation in Berlin (2011)](https://www.youtube.com/watch?v=_2Usi28hk7U) | [Evening with Ólafur Arnalds and Nils Frahm](https://www.youtube.com/watch?v=iwS9YmF22Po) | [Says (Live on KEXP)](https://www.youtube.com/watch?v=xLNeZogTsK8)
+- [Vermont](https://open.spotify.com/artist/4g1pqB36gtNg1XBQ5iGFIV) - [Rückzug](https://open.spotify.com/track/7hbDg7brpECQeFwtrNiy8z)
 - [Carbon Based Lifeforms](https://soundcloud.com/carbonbasedlifeforms) - [MOS 6581](https://www.youtube.com/watch?v=UtPTvyjtx3g) | [Nattväsen](https://www.youtube.com/watch?v=nRnEMnaBFxE) | [Derelicts](https://www.youtube.com/watch?v=jmrl3DTw2PE) | [Equilibrium](https://www.youtube.com/watch?v=Rdcx8-oTMvc)
 - [Nicolas Jaar](https://soundcloud.com/nicolas-jaar) - [Why Didn't You Save Me](https://www.youtube.com/watch?v=1L-dlEQgR7E) | [A time for us](https://www.youtube.com/watch?v=6znRhR5mL5A)
 - [Mounika](https://soundcloud.com/mounika-beat) - [I'm away](https://www.youtube.com/watch?v=Yn9L1wBEDRg) | [Stay Here](https://www.youtube.com/watch?v=-RTOrm50Q8w) | [Love You Sweet It's What I Do](https://www.youtube.com/watch?v=55EANOPFunw) | [I Feel love](https://www.youtube.com/watch?v=OM97kdCa99s)

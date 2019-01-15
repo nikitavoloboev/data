@@ -73,3 +73,4 @@
 - [ssh](https://github.com/gliderlabs/ssh) - Easy SSH servers in Golang.
 - [retry](https://github.com/kamilsk/retry) - Functional mechanism based on channels to perform actions repetitively until successful.
 - [ytdl](https://github.com/rylio/ytdl) - YouTube download library and CLI written in Go.
+- [go-cty](https://github.com/zclconf/go-cty) - Type system for dynamic values in Go applications.

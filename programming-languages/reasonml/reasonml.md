@@ -18,3 +18,4 @@
 - [odoc2docset](https://github.com/jfeser/odoc2docset) - Create Dash docsets from Odoc generated documentation.
 - [BsReact](https://github.com/eldh/bs-react) - Fork of ReasonReact adapted to work with Hooks and Context.
 - [Reason OCaml Language Reference](https://github.com/jordwalke/reasonml-manual)
+- [Reason Design Patterns](https://github.com/ostera/reason-design-patterns) - Unofficial collection of "design patterns" for Reason and OCaml.

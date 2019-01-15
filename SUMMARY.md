@@ -162,6 +162,7 @@
   - [Lua](programming-languages/lua.md)
   - [Ruby](programming-languages/ruby.md)
   - [C++](programming-languages/cpp/cpp.md)
+    - [C++ libraries](programming-languages/cpp/cpp-libraries.md)
   - [Idris](programming-languages/idris/idris.md)
   - [Agda](programming-languages/agda.md)
   - [Coq](programming-languages/coq/coq.md)
