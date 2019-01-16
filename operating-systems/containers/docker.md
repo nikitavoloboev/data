@@ -12,3 +12,4 @@
 - [Testing Databases with Docker (2015)](https://ericchiang.github.io/post/testing-dbs-with-docker/)
 - [Jess Frazelle's dockerfiles](https://github.com/jessfraz/dockerfiles)
 - [Docker Containers on the Desktop (2015)](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/)
+- [Minimal Ubuntu base image modified for Docker-friendliness](https://github.com/phusion/baseimage-docker)

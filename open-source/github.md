@@ -32,3 +32,4 @@ I publish most of my work and make it open source for other people to use and re
 - [utterances](https://github.com/utterance/utterances) - Lightweight comments widget built on GitHub issues.
 - [github-drama](https://github.com/nikolas/github-drama) - Curated collection of "dramatic" GitHub interactions.
 - [DevHub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Android, iOS and Web.
+- [Act](https://github.com/nektos/act) - Run your GitHub Actions locally.

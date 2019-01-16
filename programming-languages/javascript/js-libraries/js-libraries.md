@@ -12,6 +12,7 @@
 
 ## Animation
 
+- [Anime.js](https://github.com/juliangarnier/anime) - JavaScript animation engine.
 - [popmotion](https://github.com/Popmotion/popmotion) - Functional, reactive animation library.
 - [impress.js](https://github.com/impress/impress.js) - Presentation framework based on the power of CSS3 transforms and transitions.
 
@@ -37,3 +38,4 @@
 - [fbt](https://github.com/facebookincubator/fbt) - JavaScript Internationalization Framework.
 - [fuzzysearch](https://github.com/bevacqua/fuzzysearch) - Tiny and blazing-fast fuzzy search in JavaScript.
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema.
+- [FBJS](https://github.com/facebook/fbjs) - Collection of utility libraries used by other Facebook JS projects.

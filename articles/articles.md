@@ -13,3 +13,5 @@ Some articles I read and liked.
 - [What does Stack Overflow want to be when it grows up?](https://blog.codinghorror.com/what-does-stack-overflow-want-to-be-when-it-grows-up/)
 - [Be Careful About What You Dislike (2016)](http://lucumr.pocoo.org/2016/11/5/be-careful-about-what-you-dislike/)
 - [2017, The summary](https://turiphro.nl/writings/2017-summary/)
+- [On moving on (2014)](https://ostera.io/essays/LOV-000-on-moving-on.html)
+- [So I stopped programming (2014)](https://ostera.io/essays/LOV-001-so-i-stopped-programming.html)
