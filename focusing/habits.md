@@ -13,9 +13,9 @@ I use [Streaks](https://streaksapp.com) iOS app to track any new habits I want t
 
 Which I will probably keep for life.
 
-![](https://i.imgur.com/rI5yUxu.jpg)
+![](https://i.imgur.com/LYc8kIb.jpg)
 
-![](https://i.imgur.com/ybXy2Nq.jpg)
+![](https://i.imgur.com/acU2bRj.jpg)
 
 
 ## Morning routine
