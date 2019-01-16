@@ -11,3 +11,4 @@
 - [Declarative future of gestures and animations in React Native - Krzysztof Magiera (2018)](https://www.youtube.com/watch?v=kdq4z2708VM)
 - [Simple physics with Reanimated — Part 1](https://blog.swmansion.com/simple-physics-with-reanimated-part-1-9d55d36f73cd)
 - [Why Discord is Sticking with React Native (2018)](https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427)
+- [React Native Web](https://github.com/necolas/react-native-web) - Makes it possible to run React Native components and APIs on the web using React DOM.

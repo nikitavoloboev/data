@@ -8,6 +8,7 @@
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB.
   - [pd](https://github.com/pingcap/pd) - Placement driver for TiKV.
 - [Noria](https://github.com/mit-pdos/noria) - Dynamically changing, partially-stateful data-flow for web application backends.
+- [RethinkDB](https://www.rethinkdb.com/) - Pushes JSON to your apps in realtime.
 
 ## Links
 

@@ -34,6 +34,7 @@ I love software and non software tools that help me in some way.
 - [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images.
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [HCL](https://github.com/hashicorp/hcl) - HashiCorp configuration language.
+- [Buttondown](https://buttondown.email/) - Easiest way to run your newsletter in markdown.
 
 ## Links
 

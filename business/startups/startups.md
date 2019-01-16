@@ -29,3 +29,4 @@
 - [The Greatest Sales Deck I’ve Ever Seen (2016)](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
 - [Reflections from the last 2 years as a founder (2018)](https://canny.io/blog/reflections-two-year-founder/)
 - [Building our startup as digital nomads (2017)](https://canny.io/blog/building-startup-digital-nomads/)
+- [Tech Choices I Regret at Spectrum (2019)](https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/)
