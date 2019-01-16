@@ -58,3 +58,4 @@
 - [Convolution arithmetic](https://github.com/vdumoulin/conv_arithmetic) - Technical report on convolution arithmetic in the context of deep learning.
 - [FloydHub](https://www.floydhub.com/) - Managed cloud platform for data scientists.
 - [Style Transfer as Optimal Transport](https://github.com/VinceMarron/style_transfer) - Algorithm that transfers the distribution of visual characteristics, or style, of a reference image onto a subject image via an Optimal Transport plan.
+- [Looking Back at Google’s Research Efforts in 2018](https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html)

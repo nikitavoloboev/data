@@ -45,3 +45,4 @@
 - [kail](https://github.com/boz/kail) - Kubernetes log viewer.
 - [Kubernetes clusters for the hobbyist](https://github.com/hobby-kube/guide#readme)
 - [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Open source Kubernetes kubelet implementation.
+- [Compose on Kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters.

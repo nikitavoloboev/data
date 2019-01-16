@@ -15,3 +15,4 @@
 - [wac](https://github.com/kanaka/wac) - WebAssembly in C.
 - [Wasmjit](https://github.com/rianhunter/wasmjit) - Kernel Mode WebAssembly Runtime for Linux.
 - [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) - TypeScript to WebAssembly compiler.
+- [Twiggy](https://github.com/rustwasm/twiggy) - Code size profiler.
