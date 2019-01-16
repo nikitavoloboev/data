@@ -9,6 +9,10 @@
 
 - [JAX](https://github.com/google/jax) - GPU- and TPU-backed NumPy with differentiation and JIT compilation.
 
+## Biology
+
+- [Biopython](https://github.com/biopython/biopython) - International association of developers of freely available Python tools for computational molecular biology.
+
 ## Other
 
 - [Click](http://click.pocoo.org/5/) - Create beautiful command line interfaces in a composable way with as little code as necessary.
