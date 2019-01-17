@@ -8,6 +8,7 @@
 ## ML
 
 - [JAX](https://github.com/google/jax) - GPU- and TPU-backed NumPy with differentiation and JIT compilation.
+- [Autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 
 ## Biology
 

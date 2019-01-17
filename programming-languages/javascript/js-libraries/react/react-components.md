@@ -16,6 +16,7 @@
 - [react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js
 - [React Kawaii](https://github.com/miukimiu/react-kawaii) - Cute React UI Components.
 - [React Select](https://github.com/react-component/select)
+- [Primer Components](https://github.com/primer/components) - Primer React components.
 
 ## Links
 

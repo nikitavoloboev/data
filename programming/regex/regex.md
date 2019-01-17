@@ -16,3 +16,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [Learn regex](https://github.com/zeeshanu/learn-regex) - Great reference.
 - [DebuggexBeta](https://debuggex.com/)
 - [RegexOne](https://regexone.com/) - Learn Regular Expressions with simple, interactive exercises.
+- [Regular Expression in Python HOWTO](https://docs.python.org/3.8/howto/regex.html#regex-howto) - Good intro.
