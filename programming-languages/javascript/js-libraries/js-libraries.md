@@ -39,3 +39,4 @@
 - [fuzzysearch](https://github.com/bevacqua/fuzzysearch) - Tiny and blazing-fast fuzzy search in JavaScript.
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema.
 - [FBJS](https://github.com/facebook/fbjs) - Collection of utility libraries used by other Facebook JS projects.
+- [Uppy](https://github.com/transloadit/uppy) - Next open source file uploader for web browsers.

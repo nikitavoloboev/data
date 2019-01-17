@@ -15,3 +15,4 @@
 - [Writing to framebuffer](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
 - [GUI Development is broken (2018)](http://www.charlesetc.com/gui-development-is-broken/)
 - [Writing to the framebuffer (2018)](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
+- [Spectrum](https://github.com/facebookincubator/spectrum) - Client-side image transcoding library.

@@ -13,6 +13,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 ## CMD+CTRL
 
+- 3 - Search menu bar items (with Bartender)
 - 4 - Fantastical mini window
 - 5 - Sleep display
 - 6 - Smart zoom

@@ -43,3 +43,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 ## Links
 
 - [Does anyone else keep their own knowledge wiki?](https://lobste.rs/s/ord0rg/does_anyone_else_keep_their_own_knowledge)
+- [Oscean](https://github.com/XXIIVV/Oscean) - Flow-based serverless wiki.
