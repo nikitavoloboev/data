@@ -37,3 +37,4 @@
 - [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
 - [A Programmer's Introduction to Mathematics book](https://pimbook.org/)
 - [How to learn Math and Physics (2018)](http://math.ucr.edu/home/baez/books.html)
+- [Ask HN: How to self-study mathematics from the undergrad through graduate level? (2019)](https://news.ycombinator.com/item?id=18939913)

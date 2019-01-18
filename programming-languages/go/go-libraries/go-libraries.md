@@ -77,3 +77,4 @@
 - [go-mutetesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code.
 - [avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go.
 - [govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang.
+- [Stats](https://github.com/montanaflynn/stats) - Well tested and comprehensive Golang statistics library package with no dependencies.

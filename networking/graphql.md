@@ -10,3 +10,4 @@
 - [Eve Porcello Everything You Need to Know About GraphQL in 3 Components (2018)](https://www.youtube.com/watch?v=F_M8v6MK0Sc)
 - [GraphQL Editor](https://github.com/slothking-online/graphql-editor#readme) - Visual node editor for GraphQL.
 - [Join Monster](https://github.com/acarl005/join-monster) - GraphQL to SQL query execution layer for query planning and batch data fetching.
+- [GraphQL Shield](https://github.com/maticzav/graphql-shield) - GraphQL tool to ease the creation of permission layer.
