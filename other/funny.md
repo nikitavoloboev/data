@@ -3,6 +3,7 @@
 Some things I found funny.
 
 - [Our architecture: load balancer -> memcached -> memcached -> frontend server -> backend server](https://www.youtube.com/watch?v=jlPaby7suOc)
+- [Dog Wick](https://www.youtube.com/watch?v=iGpZ9xaQLYQ)
 
 ## Links
 

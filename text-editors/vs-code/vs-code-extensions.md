@@ -12,21 +12,18 @@ Below is a list of extensions I use.
 - [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative URL paths from files in the current workspace.
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize VS Code settings across multiple machines using Github Gist.
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
-- [Advanced New File](https://marketplace.visualstudio.com/items?itemName=dkundel.vscode-new-file) - Create new files quickly.
 - [Subtle Match Brackets](https://marketplace.visualstudio.com/items?itemName=rafamel.subtle-brackets) - Underlined matching brackets and more.
 - [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable..
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Convenient way of creating, duplicating, moving, renaming and deleting files and directories.
-- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
-- [Bump](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-bump) - Bump your project's version and update the changelog. Opinionated but configurable.
+
+## Go
+
+- [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language.
 
 ## Deploy
 
 - [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) - Develop, deploy and debug Kubernetes applications.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easily build and deploy containerized applications from VS Code.
-
-## Go
-
-- [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language.
 
 ## JavaScript
 
@@ -43,29 +40,13 @@ Below is a list of extensions I use.
 
 - [Reason Language Server](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - IDE & Syntax support for Reason/OCaml.
 
-## HTML
-
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tag.
-
-## CSS
-
-- [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information CSS colors.
-
-## Haskell
-
-- [Haskell Language](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) - Adds highlighting support for Haskell.
-
-## Clojure
-
-- [Calva](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode) - Integrated REPL, linting, inline eval and more for VSCode. Powered by Cider & nRepl.
-
 ## Rust
 
 - [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Adds language support for Rust.
 
-## Ruby
+## Haskell
 
-- [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) - Provides Ruby language and debugging support.
+- [Haskell Language](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) - Adds highlighting support for Haskell.
 
 ## Python
 
@@ -78,7 +59,6 @@ Below is a list of extensions I use.
 ## Git
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Visualize code authorship at a glance via Git blame annotations and code lens.
-- [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github) - Jump to a source code line in GitHub, Bitbucket, GitLab.
 
 ## Markdown
 
@@ -96,6 +76,10 @@ Below is a list of extensions I use.
 
 - [Nix language support](https://marketplace.visualstudio.com/items?itemName=bbenoist.Nix)
 
+## CSS
+
+- [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information CSS colors.
+
 ## Theme
 
 - [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-night#readme)
@@ -104,7 +88,10 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [Bump](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-bump) - Bump your project's version and update the changelog. Opinionated but configurable.
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Polaroid for your code.
+- [Advanced New File](https://marketplace.visualstudio.com/items?itemName=dkundel.vscode-new-file) - Create new files quickly.
 - [Calculate](https://marketplace.visualstudio.com/items?itemName=acarreiro.calculate) - Evaluate math expressions.
 - [Code Outline](https://marketplace.visualstudio.com/items?itemName=patrys.vscode-code-outline) - Display code outline tree in the explorer pane.
 - [Empty indent](https://marketplace.visualstudio.com/items?itemName=DmitryDorofeev.empty-indent) - Remove indent of empty lines on save.
@@ -133,6 +120,7 @@ Below is a list of extensions I use.
 ## Git
 
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - Git History, Search and More.
+- [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github) - Jump to a source code line in GitHub, Bitbucket, GitLab.
 
 ## JavaScirpt
 
@@ -163,6 +151,18 @@ Below is a list of extensions I use.
 ## Markdown
 
 - [Markdown Preview GitHub Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) - Changes VS Code's built-in markdown preview to match GitHub's style.
+
+## HTML
+
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tag.
+
+## Clojure
+
+- [Calva](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode) - Integrated REPL, linting, inline eval and more for VSCode. Powered by Cider & nRepl.
+
+## Ruby
+
+- [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) - Provides Ruby language and debugging support.
 
 ## Themes
 

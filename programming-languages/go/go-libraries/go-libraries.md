@@ -76,3 +76,4 @@
 - [go-cty](https://github.com/zclconf/go-cty) - Type system for dynamic values in Go applications.
 - [go-mutetesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code.
 - [avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go.
+- [govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang.
