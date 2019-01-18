@@ -16,3 +16,4 @@
 - [Solutions to Functional Programming in OCaml MOOC course](https://github.com/smeruelo/mooc-ocaml)
 - [The OCaml Platform 1.0 - Reason ML (2018)](https://www.youtube.com/watch?v=oyeKLAYPmQQ)
 - [OCamlFormat](https://github.com/ocaml-ppx/ocamlformat) - Auto-formatter for OCaml code.
+- [utop](https://github.com/ocaml-community/utop) - Universal toplevel for OCaml.

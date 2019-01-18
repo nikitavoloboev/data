@@ -169,6 +169,7 @@
   - [Julia](programming-languages/julia/julia.md)
   - [Elm](programming-languages/elm/elm.md)
   - [Dart](programming-languages/dart/dart.md)
+    - [Flutter](programming-languages/dart/flutter.md)
   - [R](programming-languages/r/r.md)
   - [Assembly](programming-languages/assembly.md)
   - [Nim](programming-languages/nim/nim.md)

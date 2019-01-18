@@ -13,6 +13,7 @@
 
 ## Links
 
+- [Neural Networks and Deep Learning book](http://neuralnetworksanddeeplearning.com/)
 - [What worries me about AI](https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [Ask HN: Best way to get started with AI?](https://news.ycombinator.com/item?id=15689399)
@@ -59,3 +60,4 @@
 - [FloydHub](https://www.floydhub.com/) - Managed cloud platform for data scientists.
 - [Style Transfer as Optimal Transport](https://github.com/VinceMarron/style_transfer) - Algorithm that transfers the distribution of visual characteristics, or style, of a reference image onto a subject image via an Optimal Transport plan.
 - [Looking Back at Google’s Research Efforts in 2018](https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html)
+- [Recommenders](https://github.com/Microsoft/Recommenders) - Examples and best practices for building recommendation systems, provided as Jupyter notebooks.
