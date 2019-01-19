@@ -19,4 +19,5 @@ In short, it can be summed down to this:
 
 ## Links
 
-- [StackOverflow First, GitHub Issues Second, and Emails Last](https://yihui.name/en/2017/08/so-gh-email/)
+- [Getting Answers (2019)](https://www.mikeash.com/getting_answers.html)
+- [StackOverflow First, GitHub Issues Second, and Emails Last](https://yihui.name/en/2017/08/so-gh-email/) ([HN](https://news.ycombinator.com/item?id=18939281))
