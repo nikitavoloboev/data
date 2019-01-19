@@ -2,7 +2,7 @@
 
 I like to collect beautiful art pieces as an Imgur album you can view [here](http://imgur.com/a/3m5wf). I also like various [psychedelic art](http://imgur.com/a/9yOpt) and specifically I love [art by James R. Eads](http://www.jamesreads.com/art).
 
-I share different photographs and art pieces I like on [my Instagram page](https://instagram.com/prettiways).
+I share different photographs and art pieces I like on [my Instagram page](https://www.instagram.com/prettiways/).
 
 I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](https://www.reddit.com/r/glitch_art). And I like exploring [Artsy](https://www.artsy.net/) for various art people have made.
 

@@ -14,7 +14,7 @@ I write mostly about programming, tools and macOS. [Here](my-articles.md) are al
 
 ## Experiences on [Instagram](https://www.instagram.com/nikitavoloboev/)
 
-I share photos and stories from my life there. I also curate a small page of [beautiful pictures](https://instagram.com/prettiways).
+I share photos and stories from my life there. I also curate a small page of [beautiful pictures](https://www.instagram.com/prettiways/).
 
 ## Music on [Spotify](https://open.spotify.com/user/nikitavoloboev) and [SoundCloud](https://soundcloud.com/nikitavoloboev)
 
@@ -37,10 +37,6 @@ I [love macOS](https://github.com/nikitavoloboev/my-mac-os#readme) and automatio
 ## Snippets on [GitHub Gists](my-gists.md)
 
 I share snippets of code I made with various languages for quick reference.
-
-## Images on [Imgur](https://nikivi.imgur.com)
-
-I curate many Imgur albums of various things.
 
 ## Knowledge in [this wiki](../README.md)
 

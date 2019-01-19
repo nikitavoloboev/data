@@ -39,7 +39,7 @@ I try to be methodical in working and doing things. And I use the best tools and
 
 ## Photographs
 
-- [Pixave](../macOS/apps/pixave.md) - My entire media library of images and GIFs neatly sorted into collections. I post some images from there to my [Instagram page](https://instagram.com/prettiways).
+- [Pixave](../macOS/apps/pixave.md) - My entire media library of images and GIFs neatly sorted into collections. I post some images from there to my [Instagram page](https://www.instagram.com/prettiways/).
 - Apple Photos - All my personal photographs and images I made.
 
 ## Journaling
