@@ -346,6 +346,7 @@
     - [Keras](machine-learning/libraries/keras.md)
     - [TensorFlow](machine-learning/libraries/tensorflow.md)
   - [Datasets](machine-learning/datasets.md)
+  - [Autonomous driving](machine-learning/autonomous-driving.md)
 - [Computer graphics](computer-graphics/computer-graphics.md)
   - [Vulkan](computer-graphics/vulkan.md)
   - [Computer vision](computer-graphics/computer-vision/computer-vision.md)
