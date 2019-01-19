@@ -36,6 +36,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [ariduka55](http://ariduka55.tumblr.com/)
 - [Leonardo Santamaria](http://www.leonardosantamaria.com/)
 - [Michal Kváč](https://www.artstation.com/kvacm)
+- [Nicola Samori](https://www.artsy.net/artist/nicola-samori)
 
 ## Interesting art
 

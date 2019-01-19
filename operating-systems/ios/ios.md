@@ -43,3 +43,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Secure iOS application development](https://github.com/felixgr/secure-ios-app-dev#readme)
 - [My Must-Have iOS Apps, 2018 Edition](https://www.macstories.net/stories/my-must-have-ios-apps-2018-edition/)
 - [Bagel](https://github.com/yagiz/Bagel) - Little native network debugging tool for iOS.
+- [Nailing Your iOS Interview in Silicon Valley (2019)](https://medium.com/@bayareabelletrist/how-to-prepare-for-an-ios-interview-in-silicon-valley-85a009cf8a4)
