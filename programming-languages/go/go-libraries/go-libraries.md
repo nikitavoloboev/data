@@ -82,3 +82,4 @@
 - [avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go.
 - [govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang.
 - [Stats](https://github.com/montanaflynn/stats) - Well tested and comprehensive Golang statistics library package with no dependencies.
+- [go-travis](https://github.com/shuheiktgw/go-travis) - Go library for accessing the Travis CI API V3.

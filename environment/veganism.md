@@ -13,6 +13,7 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 
 ## Links
 
+- [Tips for New Vegans](https://veganhealth.org/tips-for-new-vegans/)
 - [Is 100% vegan the way to go?](https://www.reddit.com/r/PlantBasedDiet/comments/8x3tfm/is_100_vegan_the_way_to_go/)
 - [What's the difference between a plant-based and a vegan diet?](https://www.reddit.com/r/PlantBasedDiet/comments/82lw2d/whats_the_difference_between_a_plantbased_and_a/)
 - [Fish Are Sentient and Emotional Beings and Clearly Feel Pain](https://www.psychologytoday.com/us/blog/animal-emotions/201406/fish-are-sentient-and-emotional-beings-and-clearly-feel-pain)

@@ -2,7 +2,7 @@
 
 I love listening to podcasts with [Overcast](https://overcast.fm) especially when commuting or traveling somewhere.
 
-My favorite podcasts currently are [Hello Internet](http://www.hellointernet.fm), [StackTrace](https://stacktracepodcast.fm/) and [Tim Ferris Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show). And [here](https://www.dropbox.com/s/rje42db9yj4d59w/overcast.opml?dl=1) is a list of all the podcasts I am subscribed to (can be imported to Overcast).
+My favorite podcasts currently are [Hello Internet](http://www.hellointernet.fm), [Kevin Rose Show](https://www.kevinrose.com/), [Tim Ferris Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show)[Tim Ferris Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show) and [StackTrace](https://stacktracepodcast.fm/). And [here](https://www.dropbox.com/s/rje42db9yj4d59w/overcast.opml?dl=1) is a list of all the podcasts I am subscribed to (can be imported to Overcast).
 
 I keep a [Trello board](https://trello.com/b/Wtr04eGQ) of podcasts I am listening and want to listen to.
 
