@@ -12,3 +12,4 @@
 - [OCaml PyTorch](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
 - [Apex](https://github.com/NVIDIA/apex) - PyTorch Extension: Tools for easy mixed precision and distributed training in PyTorch.
 - [Translate](https://github.com/pytorch/translate) - PyTorch Language Library.
+- [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)

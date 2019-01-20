@@ -14,3 +14,4 @@
 - [ndb](https://github.com/GoogleChromeLabs/ndb) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
 - [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js.
 - [Nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
+- [Node.js Fundamentals: Web Server Without Dependencies (2018)](https://blog.bloomca.me/2018/12/22/writing-a-web-server-node.html)

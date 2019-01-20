@@ -51,6 +51,12 @@ I try to be methodical in working and doing things. And I use the best tools and
 
 - [Ulysses](../macOS/apps/ulysses.md) - Write my Medium articles and edit my wiki from the phone there.
 
+## Devices
+
+- Macbook - Everything productive. Code, learn, create.
+- iPhone - Communication, podcasts, read, pure consumption.
+- iPad - Draw. Read.
+
 ## More
 
 - [Mac](https://github.com/nikitavoloboev/my-mac-os#readme) - macOS apps/tools I use.
