@@ -16,3 +16,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Preventing and Reversing Alzheimer's Disease. (2018)](https://www.youtube.com/watch?v=Sq7uVZ_0D3U)
 - [Can We Get Older Without Aging? (2018)](https://www.youtube.com/watch?v=HxY6H5vU8G4)
 - [HN: The Hallmarks of Aging (2019)](https://news.ycombinator.com/item?id=18826833)
+- [Dr. Peter Attia - longevity compounds, fasting, supplements and more (2019)](https://overcast.fm/+GJeif6tM4)

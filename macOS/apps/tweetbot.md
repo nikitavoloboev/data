@@ -14,6 +14,10 @@ The app is always full screen for me. And is split into four columns.
 
 ![](https://i.imgur.com/OO7hz6i.png)
 
+## Notes
+
+- There is a limit of 1600 tweets that can be shown in one list. More than that will not be shown and tweets will be lost from the feed. 😞
+
 ## Links
 
 - [Tweetbot 3 URL Schemes](https://tapbots.net/tweetbot3/support/url-schemes/)
