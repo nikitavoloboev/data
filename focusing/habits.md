@@ -17,7 +17,6 @@ Which I will probably keep for life.
 
 ![](https://i.imgur.com/acU2bRj.jpg)
 
-
 ## Morning routine
 
 I use [Siri Shortcuts](https://github.com/nikitavoloboev/my-ios#shortcuts) for my Morning and Night routines.
@@ -31,6 +30,10 @@ My morning routine starts off by playing a song I love from my favorite artist N
 ## Night routine
 
 ![](https://i.imgur.com/utiQhb7.jpg)
+
+## Notes
+
+- I think learning how to break habits is actually a very important meta skill and can serve you in life almost better than anything else.
 
 ## Links
 

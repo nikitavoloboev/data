@@ -11,3 +11,4 @@ It also has a [generous free tier](https://aws.amazon.com/free/).
 - [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk#readme) - Framework for defining cloud infrastructure in code.
 - [AWS Fargate Action](https://github.com/jessfraz/aws-fargate-action) - GitHub action to deploy to AWS Fargate on push to the master branch.
 - [AWS Serverless Application Model](https://github.com/awslabs/serverless-application-model) - Contains the SAM specification, the code that translates SAM templates into AWS CloudFormation stacks, general information about the model, and examples of common applications.
+- [Kubernetes on AWS with Terraform](https://github.com/xuwang/kube-aws-terraform) - Kubernetes implementation using CoreOS on AWS platform.

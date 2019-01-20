@@ -7,6 +7,27 @@
 - Math can be learned, it's just a bit silly to dive into a homotopy type theory book and expect to get a firm grasp of things. It's like picking up a Chinese news paper and expecting to get an idea of what its content is about.
 - Without understanding the domain, you cant read a text well. Without understanding the grammar you cant read a text. Without understanding the symbols you cant even figure out the grammar.
 - The prevailing view in modern mathematics is that structure is all that matters. i.e. isomorphic objects are really the same, they don't just look the same or act the same, they really are the same thing.
+- There's a set of basics that you will want no matter which direction you go: calculus/real analysis, linear algebra, differential equations/dynamical systems, and sets, groups, rings, and lattices.
+  - Calculus: learn to extract qualitative information about a function (it goes up here, has a maximum there, goes down there, oscillates with an increasing period, goes to this value at infinity...) and to numerically compute quantitative information about it (its value at 3 is blah, its integral over this interval is blah, its maximum value is blah).
+  - Linear algebra: vector spaces and linear operators, and their representation as vectors and matrices. Functions as forming infinite dimensional spaces, and Banach and inner product spaces.
+  - Differential equations and dynamical systems: extending what we did for calculus to differential equations. Phase space, orbits, Fourier and Laplace transforms, sets of linear differential equations, numerical integration, some partial differential equations. You do not need all the little tricks for special kinds of equations that you will find in, say, Boyce and dePrima. They're not helpful.
+  - Sets, groups, rings, and lattices. Mathematics today is written in terms of set theory. You need to understand the basics of manipulating sets and functions between them. Then you should know something about groups, rings, and lattices, which are the most ubiquitously useful algebraic structures besides vector spaces.
+  - After that, where you go is going to vary enormously. Based on what you're aiming to do.
+- [Some topics and books to learn from](https://news.ycombinator.com/item?id=18939913):
+  1. Topology (book by Munkres)
+  2. Real Analysis and Measure Theory (book series by Stein Shakarchi)
+  3. Algebra (book by Aluffi)
+  4. Linear Algebra (book by Friedberg Insel)
+  5. Measure Theoretic Probability (book by Cinlar)
+  6. Differential Geometry (book Smooth Manifolds by Lee)
+  7. Numerical Analysis (book by Quarteroni)
+  8. Set Theory and Propositional Logic (books by Goldrei)
+- Or these books for more fundamental basic knowledge:
+  1. Higher algebra - Hall and Knight
+  2. Trigonometry I - Loney
+  3. Coordinate geometry - Loney
+  4. Calculus of one variable - Maron
+- [If you can, find someone else to work with, and someone else who already knows some math to ask occasional questions would probably help you a lot.](https://news.ycombinator.com/item?id=18939913)
 
 ## Links
 
@@ -39,3 +60,5 @@
 - [How to learn Math and Physics (2018)](http://math.ucr.edu/home/baez/books.html)
 - [Ask HN: How to self-study mathematics from the undergrad through graduate level? (2019)](https://news.ycombinator.com/item?id=18939913)
 - [How to Science [Part 2: Our Universe = Math?]](https://www.youtube.com/watch?v=I7rlzkU7zbk) - Amazing series.
+- [University of Oxford notes and exercises for math undergraduate courses](https://courses.maths.ox.ac.uk/overview/undergraduate)
+- [MacTutor History of Mathematics archive](http://www-history.mcs.st-and.ac.uk/)

@@ -63,3 +63,4 @@
 - [Recommenders](https://github.com/Microsoft/Recommenders) - Examples and best practices for building recommendation systems, provided as Jupyter notebooks.
 - [Deep Learning State of the Art (2019) - MIT](https://www.youtube.com/watch?v=53YvP6gdD7U)
 - [AdaNet](https://github.com/tensorflow/adanet) - Lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention.
+- [DAWNBench](https://dawn.cs.stanford.edu/benchmark/) - Benchmark suite for end-to-end deep learning training and inference.

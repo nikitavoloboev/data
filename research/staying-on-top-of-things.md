@@ -6,6 +6,8 @@ Of course, it is all in my head and [mindfulness](../mindfulness/mindfulness.md)
 
 I use [Focus](https://heyfocus.com) macOS app to completely block many websites with constantly updated feeds like front page of Hacker News, GitHub, Reddit and more. I automatically run Focus every 90 minutes for 80 minutes and work throughout this period fully focused. After that time, I review what I have done in [Timing](../macOS/apps/timing.md) and I have 10 minutes to check the news and view usually blocked websites and after that, the timer starts again.
 
+On the phone I use [Telegram](https://telegram.org)'s saved messages feature as a way to send myself messages/links to view later on my mac or just for memory sake. I treat it as an Inbox of things similar to 2Do that I often try to go and clear through.
+
 ## What I use
 
 I try to stay in touch using these few things:
