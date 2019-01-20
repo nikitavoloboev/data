@@ -117,6 +117,10 @@ Below is a list of extensions I use.
 - [vscode-cli](https://marketplace.visualstudio.com/items?itemName=pkosta2006.vscode-cli) - Execute vscode command from vscode command prompt.
 - [Graphviz Preview](https://marketplace.visualstudio.com/items?itemName=EFanZh.graphviz-preview) - Preview Graphviz (DOT) files.
 
+## Python
+
+- [Neuron](https://marketplace.visualstudio.com/items?itemName=neuron.neuron-IPE) - Interactive Programming Experience for Data Scientists.
+
 ## Git
 
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - Git History, Search and More.

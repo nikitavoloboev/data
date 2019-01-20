@@ -12,6 +12,8 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. And 
 - Eat many healthy fats. Avocados, Flax seed oil, etc.
 - Eat lots of high quality protein.
 - [The “best” diet is a theme: an emphasis on vegetables, fruits, whole grains, beans, lentils, nuts, seeds, and plain water for thirst.](http://www.grubstreet.com/2018/03/ultimate-conversation-on-healthy-eating-and-nutrition.html)
+- [All proteins stimulate IGF-1, as does carbohydrate](https://twitter.com/GeorgiaEdeMD/status/1086995523477884929)
+- Everyone should avoid dairy
 
 ## Links
 
@@ -20,3 +22,6 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. And 
 - [Examine](https://examine.com/) - Unbiased source on nutrition and supplements.
 - [Joel Fuhrman - How Processed Food is Killing Us and What We Can Do About It (2018)](https://www.youtube.com/watch?v=gBGnX8aLc6A)
 - [Lighter](https://www.lighter.world/welcome) - Shows you what food to buy and how to throw great meals together, based on the recommendations of food leaders.
+- [Latest Low-Carb Study: All Politics, No Science (2018)](https://www.psychologytoday.com/us/blog/diagnosis-diet/201809/latest-low-carb-study-all-politics-no-science)
+- [EAT-Lancet's Plant-based Planet: 10 Things You Need to Know (2019)](https://www.psychologytoday.com/us/blog/diagnosis-diet/201901/eat-lancets-plant-based-planet-10-things-you-need-know) - Argues that animal foods is indeed necessary for healthy life.
+- [Your Brain on Plants: Micronutrients and Mental Health (2018)](http://www.diagnosisdiet.com/micronutrients-mental-health/)

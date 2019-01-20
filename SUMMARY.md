@@ -229,6 +229,7 @@
 - [Economy](economy/economy.md)
   - [Investing](economy/investing.md)
   - [Basic Income](economy/basic-income.md)
+- [Governance](governance/governance.md)
 - [Consciousness](consciousness/consciousness.md)
   - [Ego](consciousness/ego.md)
 - [Drugs](drugs/drugs.md)
