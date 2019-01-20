@@ -7,3 +7,4 @@
 ## Other
 
 - [OCamlbuild](https://github.com/ocaml/ocamlbuild) - Generic build tool, that has built-in rules for building OCaml library and programs.
+- [ocaml-vdom](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml.
