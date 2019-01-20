@@ -10,3 +10,4 @@ For writing LaTeX I use [VS Code](../text-editors/vs-code/vs-code.md) and [LaTeX
 - [Neat typesetting](http://tullo.ch/static/cambridge/TimeSeriesMonteCarlo-LectureNotes.pdf)
 - [Mathpix](https://mathpix.com/) - Take a screenshot of math and paste the LaTeX into your editor, all with a single keyboard shortcut.
 - [My LaTeX Workflow: latexmk, ShareLaTeX, and StackEdit (2015)](https://jeremykun.com/2015/01/10/my-latex-workflow-latexmk-sharelatex-and-stackedit/)
+- [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - LaTeX code for making neural networks diagrams.
