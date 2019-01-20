@@ -61,3 +61,5 @@
 - [Style Transfer as Optimal Transport](https://github.com/VinceMarron/style_transfer) - Algorithm that transfers the distribution of visual characteristics, or style, of a reference image onto a subject image via an Optimal Transport plan.
 - [Looking Back at Google’s Research Efforts in 2018](https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html)
 - [Recommenders](https://github.com/Microsoft/Recommenders) - Examples and best practices for building recommendation systems, provided as Jupyter notebooks.
+- [Deep Learning State of the Art (2019) - MIT](https://www.youtube.com/watch?v=53YvP6gdD7U)
+- [AdaNet](https://github.com/tensorflow/adanet) - Lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention.
