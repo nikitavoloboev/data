@@ -42,6 +42,10 @@
 
 - [Discord Go](https://github.com/bwmarrin/discordgo) - Go bindings for Discord.
 
+## Graphics
+
+- [pbr](https://github.com/hunterloftis/pbr) - Implements Physically-Based Rendering via a unidirectional CPU-only Monte Carlo path tracer.
+
 ## Other
 
 - [Argum](https://github.com/sg3des/argum) - Parse incoming arguments in to structure.
