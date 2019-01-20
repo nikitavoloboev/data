@@ -1,6 +1,6 @@
 # Finding homes
 
-I use [AirBnb](https://www.airbnb.com) and FB groups / [Marketplace](https://www.facebook.com/marketplace) for finding places to stay in when traveling.
+I use [AirBnb](https://www.airbnb.com), [Booking](https://www.booking.com) and FB groups / [Marketplace](https://www.facebook.com/marketplace) for finding places to stay in when traveling.
 
 ## Other
 

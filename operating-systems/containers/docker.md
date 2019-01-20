@@ -13,3 +13,4 @@
 - [Jess Frazelle's dockerfiles](https://github.com/jessfraz/dockerfiles)
 - [Docker Containers on the Desktop (2015)](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/)
 - [Minimal Ubuntu base image modified for Docker-friendliness](https://github.com/phusion/baseimage-docker)
+- [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.

@@ -20,13 +20,14 @@ These are my personal profiles on various websites sorted by categories.
 - [GitLab](https://gitlab.com/nikitavoloboev)
 - [Katacoda](https://www.katacoda.com/nikivi)
 
-## Learning
+## Learn
 
 - [Quora](https://www.quora.com/profile/Nikita-Voloboev) - Asking and answering questions.
 - [Kaggle](https://www.kaggle.com/nikitavoloboev) - Practicing machine learning.
 - [Coursera](https://www.coursera.org/user/7d650aebf46b82dcd83832d8358301c6) - Doing various courses.
 - [Wiki](https://wiki.nikitavoloboev.xyz) - Everything I know.
 - [Khan Academy](https://khanacademy.org/profile/nikivi) - Getting up to speed with things quickly.
+- [Quizlet](https://quizlet.com/nvoloboev) - Flash cards.
 
 ## Music
 

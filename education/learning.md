@@ -1,5 +1,9 @@
 # Learning
 
+## Notes
+
+- [The internet provides access to an education that the aristocracy of old couldn't have imagined. It also provides the perfect attack vector for marketers to exploit cognitive vulnerabilities and dominate your attention. A world-class education is free for the undistractable.](https://twitter.com/TheStoicEmperor/status/1086118829661376512)
+
 ## Links
 
 - [Holloway](https://www.holloway.com/) - Guides for navigating life’s complexities.
