@@ -25,5 +25,5 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOps](https://github.com/NixOS/nixops) - NixOS-based cloud deployment tool.
 - [NixOS Discourse forum](https://discourse.nixos.org/)
 - [Getting started with NixOS on Raspberry Pi 3 Model B+](https://github.com/zupo/nix#readme)
-- [Collection of NixOS image builders](https://github.com/nix-community/nixos-generators)
+- [Collection of NixOS image builders](https://github.com/nix-community/nixos-generators) - Allows to take the same NixOS configuration, and generate outputs for different target formats.
 - [HN: Guix An advanced operating system (2019)](https://news.ycombinator.com/item?id=18902823)

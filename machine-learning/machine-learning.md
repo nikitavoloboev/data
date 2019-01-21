@@ -14,7 +14,6 @@
 ## Links
 
 - [Neural Networks and Deep Learning book](http://neuralnetworksanddeeplearning.com/)
-- [What worries me about AI](https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [Ask HN: Best way to get started with AI?](https://news.ycombinator.com/item?id=15689399)
 - [Ask HN: What maths are critical to pursuing ML/AI?](https://news.ycombinator.com/item?id=15116379)

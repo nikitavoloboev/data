@@ -76,3 +76,4 @@ Go promotes composition over inheritance.
 - [gotestsum](https://github.com/gotestyourself/gotestsum) - Runs tests, prints friendly test output and a summary of the test run.
 - [Nice example of a small Go CLI tool](https://github.com/htdvisser/did)
 - [GolangCI-Lint](https://github.com/golangci/golangci-lint) - Linters Runner for Go. 5x faster than gometalinter. Nice colored output. Can report only new issues. Fewer false-positives. Yaml/toml config.
+- [Nice VS Code Go snippets](https://github.com/tj/vscode-snippets)
