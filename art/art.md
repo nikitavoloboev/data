@@ -22,6 +22,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Ben Ridgway](https://www.instagram.com/benridgwayart/) - DMT like images.
 - [Anderson Debernardi](https://imgur.com/gallery/dKx5S)
 - [Evgeny Lushpin](https://lushpin.com/)
+- [Qi Sheng Luo](https://www.artstation.com/luoqisheng)
 
 ## Interesting artists
 
@@ -47,6 +48,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Incedigris](https://www.incedigris.com/) - DMT/Salvia like images.
 - [Four Chambers (nudity)](https://afourchamberedheart.com/)
 - [Loop code](http://loop-code.surge.sh/)
+- [Girl Statue](https://www.artstation.com/artwork/w8rYB5)
 
 ## Notes
 

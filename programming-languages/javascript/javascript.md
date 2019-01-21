@@ -45,3 +45,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [Yalc](https://github.com/whitecolor/yalc) - Better workflow than npm | yarn link for package authors.
 - [ECMAScript proposals](https://github.com/tc39/proposals#readme)
 - [FromJS](https://github.com/mattzeunert/fromjs) - See where each character on the screen came from in code.
+- [RunJS](https://projects.lukehaas.me/runjs/) - Scratchpad for your thoughts, a playground for your creativity.

@@ -14,6 +14,8 @@ I also open any of my most used websites using [KM macros](../../macOS/apps/keyb
 
 I mention Safari Extensions I use [here](https://github.com/nikitavoloboev/my-mac-os#safari-extensions).
 
+![](https://i.imgur.com/dEdo1O7.png)
+
 ## Notes
 
 - It's useful to turn on `Show full website address` option in settings.

@@ -4,11 +4,11 @@ I use [Google Chrome Canary](https://www.google.com/chrome/canary/) as my main b
 
 I use [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad) theme and [Empty New Black Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp?hl=en).
 
-![](https://i.imgur.com/UmAYqgd.png)
+![](https://i.imgur.com/nBFeeML.png)
 
 And here are other Chrome extensions I use:
 
-![](https://i.imgur.com/I9vQJEb.png)
+![](https://i.imgur.com/srmD4EX.png)
 
 ## Links
 
