@@ -334,6 +334,7 @@
 - [Business](business/business.md)
   - [Startups](business/startups/startups.md)
     - [Startup funding](business/startups/startup-funding.md)
+    - [Venture capital](business/startups/venture-capital.md)
   - [Landing pages](business/landing-pages.md)
   - [Products](business/products.md)
   - [Pricing](business/pricing.md)

@@ -24,3 +24,5 @@ I love Git and version control. And I use version control over any project I do.
 - [clog-cli](https://github.com/clog-tool/clog-cli#readme) - Generate beautiful changelogs from your Git commit history.
 - [git rebase for fame and power](http://www.charlesetc.com/rebase-for-fame/)
 - [gitbatch](https://github.com/isacikgoz/gitbatch) - Manage your git repositories in one place.
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) - Specification for adding human and machine readable meaning to commit messages
+Read.
