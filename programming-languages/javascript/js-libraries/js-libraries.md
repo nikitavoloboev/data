@@ -40,3 +40,4 @@
 - [normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema.
 - [FBJS](https://github.com/facebook/fbjs) - Collection of utility libraries used by other Facebook JS projects.
 - [Uppy](https://github.com/transloadit/uppy) - Next open source file uploader for web browsers.
+- [ScrollReveal](https://github.com/scrollreveal/scrollreveal) - Animate elements as they scroll into view.
