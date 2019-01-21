@@ -38,12 +38,15 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Michal Kváč](https://www.artstation.com/kvacm)
 - [Nicola Samori](https://www.artsy.net/artist/nicola-samori)
 - [u29dc](https://www.instagram.com/u29dc/)
+- [Zach Lieberman](https://zachlieberman.tictail.com/)
+- [Mari K](https://www.artstation.com/madmaraca)
 
 ## Interesting art
 
 - [Alycia Rainaud](https://ello.co/maalavidaa)
 - [Incedigris](https://www.incedigris.com/) - DMT/Salvia like images.
 - [Four Chambers (nudity)](https://afourchamberedheart.com/)
+- [Loop code](http://loop-code.surge.sh/)
 
 ## Notes
 

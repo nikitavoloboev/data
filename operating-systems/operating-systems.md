@@ -25,3 +25,4 @@ And I really like [NixOS](linux/nixos.md) and it's [nix package manager](../pack
 - [Jehanne](https://github.com/JehanneOS/jehanne) - Simple operating system.
 - [Unik](https://github.com/solo-io/unik) - Unikernel & MicroVM Compilation and Deployment Platform.
 - [SPDK](https://spdk.io/) - Storage Performance Development Kit Provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.
+- [Writing an OS in Rust (2018)](https://os.phil-opp.com/)
