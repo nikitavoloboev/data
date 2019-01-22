@@ -21,6 +21,7 @@ I love software and non software tools that help me in some way.
 - [Remove Image Background](https://www.remove.bg/)
 - [Canny](https://canny.io) - Track feedback to build better products.
 - [Metabase](https://github.com/metabase/metabase) - Simplest, fastest way to get business intelligence and analytics to everyone in your company. ([Binary deployment](https://github.com/metabase/metabase-deploy))
+- [EditorConfig](https://editorconfig.org/) - Helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
 
 ## Other
 
