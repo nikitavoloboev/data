@@ -64,3 +64,4 @@
 - [AdaNet](https://github.com/tensorflow/adanet) - Lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention.
 - [DAWNBench](https://dawn.cs.stanford.edu/benchmark/) - Benchmark suite for end-to-end deep learning training and inference.
 - [Interpretable machine learning book (2018)](https://github.com/christophM/interpretable-ml-book) - Explaining the decisions and behavior of machine learning models.
+- [All You Need to Know About Deep Learning - A kick-starter (2019)](https://github.com/osforscience/deep-learning-ocean#readme)

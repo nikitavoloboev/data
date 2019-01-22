@@ -41,3 +41,4 @@
 - [FBJS](https://github.com/facebook/fbjs) - Collection of utility libraries used by other Facebook JS projects.
 - [Uppy](https://github.com/transloadit/uppy) - Next open source file uploader for web browsers.
 - [ScrollReveal](https://github.com/scrollreveal/scrollreveal) - Animate elements as they scroll into view.
+- [Shiny](https://github.com/rikschennink/shiny) - Add shiny reflections to text, backgrounds, and borders on devices that support the DeviceMotion event.

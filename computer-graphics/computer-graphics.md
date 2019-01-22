@@ -17,3 +17,4 @@
 - [Writing to the framebuffer (2018)](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
 - [Spectrum](https://github.com/facebookincubator/spectrum) - Client-side image transcoding library.
 - [Computer Graphics Topics](https://github.com/melling/ComputerGraphics#readme)
+- [Tiny Renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer) - Brief computer graphics / rendering course.
