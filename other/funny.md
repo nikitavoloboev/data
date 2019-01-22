@@ -2,12 +2,13 @@
 
 Some things I found funny.
 
-- [Our architecture: load balancer -> memcached -> memcached -> frontend server -> backend server](https://www.youtube.com/watch?v=jlPaby7suOc)
-- [Dog Wick](https://www.youtube.com/watch?v=iGpZ9xaQLYQ)
-- [What We Do In The Shadows - "The Procession Of Shame"](https://www.youtube.com/watch?v=yy4CN9DVPII)
 
 ## Links
 
+- [Our architecture: load balancer -> memcached -> memcached -> frontend server -> backend server](https://www.youtube.com/watch?v=jlPaby7suOc)
+- [Dog Wick](https://www.youtube.com/watch?v=iGpZ9xaQLYQ)
+- [What We Do In The Shadows - "The Procession Of Shame"](https://www.youtube.com/watch?v=yy4CN9DVPII)
+- [Kazakhstani language is the sound of a diesel engine trying to start up in -40 degrees](https://www.reddit.com/r/funny/comments/ai31gt/kazakhstani_language_is_the_sound_of_a_diesel/)
 - [ed is the standard text editor](https://www.gnu.org/fun/jokes/ed-msg.html)
 - [I have an interview for a dev position soon](https://www.reddit.com/r/computerscience/comments/818fzf/i_have_an_interview_for_a_developer_position_on/)
 - [Volkswagen](https://github.com/auchenberg/volkswagen#readme)

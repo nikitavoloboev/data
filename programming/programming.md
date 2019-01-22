@@ -1,4 +1,4 @@
-# Programming
+#https://wiki.nikitavoloboev.xyz/macos/macos-apps/karabiner Programming
 
 ## Notes
 
@@ -49,3 +49,4 @@
 - [HN: Please do not attempt to simplify this code (2018)](https://news.ycombinator.com/item?id=18772873)
 - [HN: Minimalism: Practical Guide to Writing Less Code (2018)](https://news.ycombinator.com/item?id=18830732)
 - [HN: Software Engineering at Google (2018)](https://news.ycombinator.com/item?id=18818412)
+- [Professional Programming](https://github.com/charlax/professional-programming#readme) - Collection of full-stack resources for programmers.

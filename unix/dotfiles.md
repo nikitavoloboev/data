@@ -22,3 +22,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles#r
 - [Managing your dotfiles](http://www.anishathalye.com/2014/08/03/managing-your-dotfiles/)
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
 - [Immutable Dev Environment (2019)](https://random.qmx.me/posts/2019/01/18/immutable-dev-environment/)
+- [Nice setup of new mac instructions](https://github.com/caarlos0/macOS)
