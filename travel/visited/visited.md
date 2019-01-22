@@ -8,6 +8,8 @@ Below are countries and cities I visited thus far with some comments on them. Ci
 
 - Amsterdam 🌟 - Lovely city.
 - Eindhoven - Did my CS degree there. Didn't like the city.
+- Den Bosch
+- Maastricht
 
 ## Cyprus
 
