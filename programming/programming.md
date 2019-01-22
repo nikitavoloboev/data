@@ -1,4 +1,4 @@
-#https://wiki.nikitavoloboev.xyz/macos/macos-apps/karabiner Programming
+# Programming
 
 ## Notes
 
