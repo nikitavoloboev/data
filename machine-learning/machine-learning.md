@@ -63,3 +63,4 @@
 - [Deep Learning State of the Art (2019) - MIT](https://www.youtube.com/watch?v=53YvP6gdD7U)
 - [AdaNet](https://github.com/tensorflow/adanet) - Lightweight TensorFlow-based framework for automatically learning high-quality models with minimal expert intervention.
 - [DAWNBench](https://dawn.cs.stanford.edu/benchmark/) - Benchmark suite for end-to-end deep learning training and inference.
+- [Interpretable machine learning book (2018)](https://github.com/christophM/interpretable-ml-book) - Explaining the decisions and behavior of machine learning models.
