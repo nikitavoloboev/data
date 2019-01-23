@@ -19,6 +19,7 @@
 ## TypeScript
 
 - [ts-mockito](https://github.com/NagRock/ts-mockito) - Mocking library for TypeScript.
+- [class-validator](https://github.com/typestack/class-validator) - Validation made easy using TypeScript decorators.
 
 ## Other
 

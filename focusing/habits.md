@@ -17,6 +17,8 @@ Which I will probably keep for life.
 
 ![](https://i.imgur.com/acU2bRj.jpg)
 
+I also keep core habits I try to follow through in life on display on my [Focus board](focusing.md).
+
 ## Morning routine
 
 I use [Siri Shortcuts](https://github.com/nikitavoloboev/my-ios#shortcuts) for my Morning and Night routines.

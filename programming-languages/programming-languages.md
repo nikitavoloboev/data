@@ -18,3 +18,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Course page Types and Semantics for Programming Languages (2018)](https://github.com/plfa/tspl)
 - [Smallest possible syntactically valid files of different types](https://github.com/mathiasbynens/small)
 - [History of Programming Languages course](http://www.ccs.neu.edu/home/matthias/7480-s17/) ([GitHub repo](https://github.com/nuprl/hopl-s2017))
+- [The Programming Language I’m Looking For (2018)](https://hackernoon.com/the-programming-language-im-looking-for-948d93f7a396)
