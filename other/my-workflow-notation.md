@@ -4,7 +4,7 @@ Prefixes and notations I use for various apps and tools and their meanings.
 
 ## SnippetsLab
 
-- <> - User input
+- <> - User input, substitution
 
 ## Pixave
 

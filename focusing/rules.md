@@ -85,8 +85,7 @@ Some simple rules to follow for myself doing things.
 
 ## Finance
 
-- Track every purchase made with Actual. Put every purchase in its respective category.
-- Adhere to [my budget](../finance/finance.md) that I set for each of the categories. If there is no budget left for eating out. Don't eat out.
+- Adhere to [my budget](../finance/finance.md) that I set for each of N26 spaces.
 - Keep digital receipts of expensive purchases for warranty (scan it, if it's in paper).
 
 ## Home
@@ -343,6 +342,10 @@ Don't say _Want to_. Instead say _Will_ in _Changes_. This applies more generall
 
 - Comment over all mappings in vimrc itself.
 - Only add things that are essential to me and what I actually use.
+
+## Twitter
+
+- [Top](https://twitter.com/nikitavoloboev/lists/top) should include posts with **highest** value to me. Put other profiles into other lists appropriately. Don't keep `top` too big. Top & [Software](https://twitter.com/nikitavoloboev/lists/software) are the two of my most used lists.
 
 ## Spotify
 
