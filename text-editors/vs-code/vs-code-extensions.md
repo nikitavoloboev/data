@@ -40,14 +40,6 @@ Below is a list of extensions I use.
 
 - [Reason Language Server](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - IDE & Syntax support for Reason/OCaml.
 
-## Rust
-
-- [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Adds language support for Rust.
-
-## Haskell
-
-- [Haskell Language](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) - Adds highlighting support for Haskell.
-
 ## Python
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Rich support for the Python language.
@@ -67,14 +59,6 @@ Below is a list of extensions I use.
 ## LaTeX
 
 - [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - Provide all-in-one features and utilities for LaTeX typesetting.
-
-## Lua
-
-- [Lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua.
-
-## Nix
-
-- [Nix language support](https://marketplace.visualstudio.com/items?itemName=bbenoist.Nix)
 
 ## CSS
 
@@ -161,6 +145,10 @@ Below is a list of extensions I use.
 
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tag.
 
+## Haskell
+
+- [Haskell Language](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) - Adds highlighting support for Haskell.
+
 ## Clojure
 
 - [Calva](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode) - Integrated REPL, linting, inline eval and more for VSCode. Powered by Cider & nRepl.
@@ -168,6 +156,18 @@ Below is a list of extensions I use.
 ## Ruby
 
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby) - Provides Ruby language and debugging support.
+
+## Rust
+
+- [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Adds language support for Rust.
+
+## Lua
+
+- [Lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua.
+
+## Nix
+
+- [Nix language support](https://marketplace.visualstudio.com/items?itemName=bbenoist.Nix)
 
 ## Themes
 

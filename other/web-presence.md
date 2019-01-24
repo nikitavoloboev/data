@@ -68,7 +68,7 @@ These are my personal profiles on various websites sorted by categories.
 ## Video
 
 - [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) - Sharing videos I make on variety of subjects (mostly programming).
-- [Twitch](https://www.twitch.tv/niikivi)
+- [Twitch](https://www.twitch.tv/niikivi) - I stream some projects I'm building.
 
 ## Forums
 
