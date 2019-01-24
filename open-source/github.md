@@ -33,3 +33,4 @@ I publish most of my work and make it open source for other people to use and re
 - [github-drama](https://github.com/nikolas/github-drama) - Curated collection of "dramatic" GitHub interactions.
 - [DevHub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Android, iOS and Web.
 - [Act](https://github.com/nektos/act) - Run your GitHub Actions locally.
+- [Probot](https://github.com/probot/probot) - Framework for building GitHub Apps to automate and improve your workflow.
