@@ -85,3 +85,4 @@
 - [Stats](https://github.com/montanaflynn/stats) - Well tested and comprehensive Golang statistics library package with no dependencies.
 - [go-travis](https://github.com/shuheiktgw/go-travis) - Go library for accessing the Travis CI API V3.
 - [Konfig](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era.
+- [gotest](https://github.com/rakyll/gotest) - Go test with colors.
