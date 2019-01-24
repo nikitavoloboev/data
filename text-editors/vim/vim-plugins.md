@@ -7,8 +7,6 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine.
 - [Cool](https://github.com/romainl/vim-cool) - Stop matching after search is done.
 - [Auto Pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
-- [Snippets](https://github.com/honza/vim-snippets) - Snippet files for various programming languages.
-- [Neoformat](https://github.com/sbdchd/neoformat) - Format code.
 - [Dash](https://github.com/rizzatti/dash.vim) - Search Dash app.
 - [Nerdcommenter](https://github.com/scrooloose/nerdcommenter) - Quick comments.
 - [RipGrep](https://github.com/jremmen/vim-ripgrep) - Use RipGrep in Vim and display results in a quickfix list.
@@ -17,7 +15,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Repeat](https://github.com/tpope/vim-repeat) - Enable repeating supported plugin maps with ".".
 - [Surround](https://github.com/tpope/vim-surround) - Quoting/parenthesizing made simple.
 - [Easy align](https://github.com/junegunn/vim-easy-align) - Simple, easy-to-use alignment.
-- [fzf](https://github.com/junegunn/fzf.vim) - Fzf search.
+- [fzf](https://github.com/junegunn/fzf.vim) - FZF search.
 - [WakaTime](https://github.com/wakatime/vim-wakatime) - Automatic time tracking.
 - [Incsearch](https://github.com/haya14busa/incsearch.vim) - Improved incremental searching.
 - [Easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed.
@@ -29,19 +27,10 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Fugitive](https://github.com/tpope/vim-fugitive) - Git wrapper.
 - [Signify](https://github.com/mhinz/vim-signify) - Show a diff using Vim its sign column.
 
-## Deoplete
-
-- [Deoplete](https://github.com/Shougo/deoplete.nvim) - Asynchronous completion framework.
-- [Deoplete Jedi](https://github.com/zchee/deoplete-jedi) - Deoplete source for [jedi](https://github.com/davidhalter/jedi).
-
 ## Looks
 
 - [Monokai Night theme](https://github.com/nikitavoloboev/vim-monokai-night#readme)
 - [Lightline](https://github.com/itchyny/lightline.vim) - Light and configurable statusline/tabline.
-
-## Vim
-
-- [Neco](https://github.com/Shougo/neco-vim) - Vim source for neocomplete/deoplete.
 
 ## Nix
 
@@ -51,6 +40,9 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Utility
 
+- [Neoformat](https://github.com/sbdchd/neoformat) - Format code.
+- [Snippets](https://github.com/honza/vim-snippets) - Snippet files for various programming languages.
+- [Deoplete](https://github.com/Shougo/deoplete.nvim) - Asynchronous completion framework.
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [Autoformat](https://github.com/Chiel92/vim-autoformat) - Easy code formatting.
 - [Which key](https://github.com/liuchengxu/vim-which-key) - Show keybindings in popup.
@@ -118,6 +110,10 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 - [Rust](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
 
+## Python
+
+- [Deoplete Jedi](https://github.com/zchee/deoplete-jedi) - Deoplete source for [jedi](https://github.com/davidhalter/jedi).
+
 ## Go
 
 - [Vim Go](https://github.com/fatih/vim-go) - Go development.
@@ -140,6 +136,10 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 ## Markdown
 
 - [Markdown Preview for Neovim](https://github.com/iamcco/markdown-preview.nvim)
+
+## Vim
+
+- [Neco](https://github.com/Shougo/neco-vim) - Vim source for neocomplete/deoplete.
 
 ## Ruby
 
