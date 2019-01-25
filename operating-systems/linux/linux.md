@@ -35,3 +35,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
 - [Ricing Resources](https://rizonrice.github.io/resources)
 - [HN: Linux: IO without entering the kernel (2018)](https://news.ycombinator.com/item?id=18692376)
+- [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide#readme)

@@ -17,6 +17,7 @@ I am interested in getting [Preonic Light](https://www.massdrop.com/buy/massdrop
 - [Preonic](https://olkb.com/preonic/hi-pro-wooden-milled-bottom) - Beautiful keyboard.
 - [Preonic Light](https://www.massdrop.com/buy/massdrop-x-olkb-planck-light-mechanical-keyboard) - Better than Preonic.
 - [Dactyl Keyboard](https://github.com/adereth/dactyl-keyboard) - Parameterized ergonomic keyboard.
+- [Corne keyboard](https://github.com/foostan/crkbd) - Split keyboard with 3x6 column staggered keys and 3 thumb keys.
 
 ## Interesting keycaps
 

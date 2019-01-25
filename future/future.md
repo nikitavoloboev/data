@@ -3,10 +3,19 @@
 ## Interesting
 
 - [Charles Hoskinson - The Road Ahead](https://www.youtube.com/watch?v=Hu9-j2H9qQY)
-
-## Promising
-
 - [IOT + Sensors (with security)](https://www.youtube.com/watch?v=MM2AxeACt9Q)
+
+## ~ 2030
+
+- People wake up and animal get actual rights and are no longer forced to endure life in slaughterhouses. Being vegan is normal. Caring is normal.
+- Learn Anything is top 5 most visited websites on the internet. AI is able to craft personal optimized learning paths for learning any topic on Earth.
+- No use of fossil fuels. Only sustainable & environmentally safe sources used.
+- Every device that needs to connect to the internet, is connected. Abundant connectivity for all devices.
+
+## ~ 2040
+
+- AGI?
+- Cure for all cancers & diseases (immunotherapy & cheap?)
 
 ## Links
 
