@@ -72,6 +72,7 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [REST Client Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - Allows you to send HTTP request and view the response in VS Code directly.
 - [Browser Preview](https://github.com/auchenberg/vscode-browser-preview) - Real browser preview inside your editor that you can debug.
 - [Bump](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-bump) - Bump your project's version and update the changelog. Opinionated but configurable.
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.

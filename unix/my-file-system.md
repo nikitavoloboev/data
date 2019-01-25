@@ -15,7 +15,7 @@ All my actual documents (books, papers..) are put there. The folder synced with 
 ```Bash
 ~/Documents
 ❯ exa
-Actual AudioBooks Books PDFs Research papers
+App  AudioBooks  Books  Design  Gumroad  Papers  PDFs  Pixave  Research
 ```
 
 ## ~/Downloads
@@ -31,8 +31,7 @@ Everything that is code is put into this folder.
 ```Bash
 ~/src
 ❯ exa
-alfred  bots  clones  curated  games  ideas  languages  learn  libs  ml  nix  orgs  other  personal  practice  scripts  test  vim-plugins  vscode-extensions  web  Xcode
-
+alfred  bots  build-to-learn  clones  curated  games  ideas  languages  libs  models  nix  orgs  personal  puzzles  scripts  test  vim-plugins  vscode-extensions  web  Xcode
 ```
 
 ## ~/src/clones
@@ -49,7 +48,7 @@ Inside this folder I keep all code from orgs I am working on.
 ```Bash
 ~/src/orgs
 ❯ exa
-learn-anything deedmob
+deedmob  enpicom  learn-anything
 ```
 
 ## ~/src/test
@@ -59,7 +58,7 @@ Inside this folder I have a bunch of language specific folders that usually just
 ```Bash
 ~/src/test
 ❯ exa
-bash-test  c-test  clojure-test  go-test  haskell-test  js-test  lisp-test  python-test  react-test  ruby-test  ts-test
+bash-test  c-test  clojure-test  docker-test  go-test  haskell-test  js-test  lisp-test  nix-test  python-test  react-test  ruby-test  ts-test
 ```
 
 I then have KM macros to quickly open these files:
@@ -72,14 +71,20 @@ And I use [VS Code CodeRunner](https://github.com/formulahendry/vscode-code-runn
 
 Contains all my Swift iOS and macOS projects.
 
-## ~/src/learn
+```Bash
+~/src/Xcode
+❯ a
+iOS  macOS  playgrounds  safari-extensions
+```
 
-I use the folder to learn new technologies, languages and things. Perhaps I am completing some course or going through some book that has exercises. I put it there.
+## ~/src/build-to-learn
+
+I use the folder to build things and learn new stuff by implementing it. Perhaps I am completing some course or going through some book that has exercises. I put it there.
 
 ```Bash
-~/src/learn
+~/src/build-to-learn
 ❯ exa
-algo-learn  go-learn  graphics-learn  kuber-learn  ml-learn  react-learn  stats-learn  ts-intro  ts-learn  tsc-react-learn
+README.md go tsc
 ```
 
 ## ~/src/alfred
@@ -89,7 +94,7 @@ All my Alfred workflows are placed there. And each one is symlinked with [workfl
 ```Bash
 ~/src/alfred
 ❯ exa
-alfred-ask-create-share  alfred-awesome-lists  alfred-github  alfred-learn-anything  alfred-my-mind  alfred-npm  alfred-trello  alfred-web-searches  small-workflows
+alfred-ask-create-share  alfred-awesome-lists  alfred-github  alfred-learn-anything  alfred-my-mind  alfred-npm  alfred-timer  alfred-trello  alfred-web-searches  small-workflows
 ```
 
 ## ~/src/curated

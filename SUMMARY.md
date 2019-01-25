@@ -313,6 +313,7 @@
   - [Nutrition](health/nutrition/nutrition.md)
     - [Foods](health/nutrition/foods.md)
     - [Drinks](health/nutrition/drinks/drinks.md)
+      - [Tea](health/nutrition/drinks/tea.md)
       - [Coffee](health/nutrition/drinks/coffee.md)
     - [Cooking](health/nutrition/cooking.md)
     - [Fasting](health/nutrition/fasting.md)
