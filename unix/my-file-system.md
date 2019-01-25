@@ -79,7 +79,7 @@ iOS  macOS  playgrounds  safari-extensions
 
 ## ~/src/build-to-learn
 
-I use the folder to build things and learn new stuff by implementing it. Perhaps I am completing some course or going through some book that has exercises. I put it there.
+I use the folder to build and learn new things by implementing it. Perhaps I am completing some course or going through some book that has exercises. I put it there.
 
 ```Bash
 ~/src/build-to-learn
