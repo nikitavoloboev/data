@@ -14,8 +14,8 @@
 
 ## ~ 2040
 
-- AGI?
-- Cure for all cancers & diseases (immunotherapy & cheap?)
+- AGI
+- Cure for all cancers & diseases (immunotherapy & cheap)
 
 ## Links
 
