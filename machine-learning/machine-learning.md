@@ -66,3 +66,4 @@
 - [Interpretable machine learning book (2018)](https://github.com/christophM/interpretable-ml-book) - Explaining the decisions and behavior of machine learning models.
 - [All You Need to Know About Deep Learning - A kick-starter (2019)](https://github.com/osforscience/deep-learning-ocean#readme)
 - [Kubeflow](https://github.com/kubeflow/pipelines) - Machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable.
+- [Summary of some ML papers](https://github.com/kweonwooj/papers)

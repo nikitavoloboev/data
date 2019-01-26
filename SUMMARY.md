@@ -283,6 +283,7 @@
   - [Webpack](web/webpack.md)
   - [Search engines](web/search-engines.md)
   - [Progressive Web Apps](web/progressive-web-apps.md)
+  - [RSS](web/rss.md)
 - [Cloud computing](cloud-computing/cloud-computing.md)
   - [Serverless computing](cloud-computing/serverless-computing.md)
   - [AWS](cloud-computing/aws/aws.md)

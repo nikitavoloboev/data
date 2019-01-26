@@ -4,6 +4,10 @@
 
 - [Owl](https://github.com/owlbarn/owl) - OCaml library for scientific and engineering computing.
 
+## Bindings
+
+- [Python 3.5+ bindings for OCaml](https://github.com/zshipko/ocaml-py)
+
 ## Other
 
 - [OCamlbuild](https://github.com/ocaml/ocamlbuild) - Generic build tool, that has built-in rules for building OCaml library and programs.

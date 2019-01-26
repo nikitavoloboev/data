@@ -50,3 +50,4 @@
 - [How Does setState Know What to Do? (2018)](https://overreacted.io/how-does-setstate-know-what-to-do/)
 - [My Wishlist for Hot Reloading (2018)](https://overreacted.io/my-wishlist-for-hot-reloading/)
 - [Navi](https://github.com/frontarm/navi) - Batteries-included router for React.
+- [Re-implement react fiber (2019)](https://github.com/tranbathanhtung/react-fiber-implement) - Self-study project help understand how react work.
