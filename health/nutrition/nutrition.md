@@ -40,3 +40,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. And 
 - [The Growth Of Mental Illness Cause By These Foods (2018)](https://www.youtube.com/watch?v=D98KeBAuxzc)
 - [Plant Positive](http://plantpositive.com/) - Making the Case for Plant-Based Nutrition.
 - [I am conflicted on who is correct regarding a healthy diet. Need help (2019)](https://www.reddit.com/r/PlantBasedDiet/comments/ahyhaf/i_am_conflicted_on_who_is_correct_regarding_a/)
+- [Dr. Rhonda Patrick - Why Eating Fish, But Not Omega-3 Supplements, Can Help Prevent Alzheimer’s (2018)](https://overcast.fm/+GMuFZBqY0)

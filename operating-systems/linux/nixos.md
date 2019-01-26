@@ -9,6 +9,19 @@ NixOS is a Linux distro built around the Nix package system. Nix is built around
 
 Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../package-managers/nix/nix.md) on macOS. And I am exploring using NixOS for servers I use.
 
+## Nix configs (macOS)
+
+- [LnL7](https://github.com/LnL7/dotfiles#readme)
+- [cmacrae](https://github.com/cmacrae/.nixpkgs/blob/master/darwin-configuration.nix)
+- [Tom's nix-configs](https://github.com/nocoolnametom/nix-configs)
+
+## Nix configs (Linux)
+
+- [Infrastructure](https://github.com/rvolosatovs/infrastructure#readme)
+- [Bob nix-home](https://github.com/bobvanderlinden/nix-home)
+- [Brian McKenna Nix Files](https://github.com/puffnfresh/nix-files) - NixOS configuration and custom Nix derivations.
+- [William A. Kennington III](https://github.com/wkennington/nixos) - NixOS configurations for my local cluster of machines.
+
 ## Notes
 
 - [Even if you curate your system, it gathers dust: configuration files left to rot, manually installed packages that didn't get uninstalled properly, orphaned packages difficult to track down... You could argue that it shouldn't happen in the first place, but that actually takes discipline. In NixOS, this is managed for you. Once you do nixos collect-garbage -d, you know that your system is only left with what it needs. Nothing more, nothing less.](https://www.reddit.com/r/NixOS/comments/441ymh/nixos_users_tell_me_what_are_the_cons/czmu9lo/)

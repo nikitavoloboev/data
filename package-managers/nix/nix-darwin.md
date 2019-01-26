@@ -2,18 +2,6 @@
 
 There is [nix-darwin](https://github.com/LnL7/nix-darwin#readme) project that brings Nix configuration to describing many of macOS services.
 
-## Nix configs (macOS)
-
-- [LnL7](https://github.com/LnL7/dotfiles#readme)
-- [cmacrae](https://github.com/cmacrae/.nixpkgs/blob/master/darwin-configuration.nix)
-- [Tom's nix-configs](https://github.com/nocoolnametom/nix-configs)
-
-## Nix configs (Linux)
-
-- [Infrastructure](https://github.com/rvolosatovs/infrastructure#readme)
-- [Bob nix-home](https://github.com/bobvanderlinden/nix-home)
-- [Brian McKenna Nix Files](https://github.com/puffnfresh/nix-files) - NixOS configuration and custom Nix derivations.
-
 ## Notes
 
 - To not enter password on every `darwin-rebuild switch` with [nix-darwin](https://github.com/LnL7/nix-darwin), you can create `/etc/sudoers.d/nix-darwin` file with this content:
