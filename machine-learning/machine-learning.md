@@ -67,3 +67,5 @@
 - [All You Need to Know About Deep Learning - A kick-starter (2019)](https://github.com/osforscience/deep-learning-ocean#readme)
 - [Kubeflow](https://github.com/kubeflow/pipelines) - Machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable.
 - [Summary of some ML papers](https://github.com/kweonwooj/papers)
+- [Practical Deep Learning for Coders 2019](https://www.fast.ai/2019/01/24/course-v3/) - ([HN](https://news.ycombinator.com/item?id=19000027))
+- [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
