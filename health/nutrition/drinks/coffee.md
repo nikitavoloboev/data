@@ -1,5 +1,9 @@
 # Coffee
 
+## Notes
+
+- I like ordering vanilla latte with blonde roast in Starbucks.
+
 ## Links
 
 - [Coffee On Pino](http://grimgrains.com/#coffee)

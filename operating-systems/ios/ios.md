@@ -45,3 +45,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Bagel](https://github.com/yagiz/Bagel) - Little native network debugging tool for iOS.
 - [Nailing Your iOS Interview in Silicon Valley (2019)](https://medium.com/@bayareabelletrist/how-to-prepare-for-an-ios-interview-in-silicon-valley-85a009cf8a4)
 - [KIF iOS Integration Testing Framework](https://github.com/kif-framework/KIF) - iOS integration test framework.
+- [Collection of tools that an iOS developer should know](https://github.com/LeoMobileDeveloper/ios-developer-tools#readme)

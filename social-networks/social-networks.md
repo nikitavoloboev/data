@@ -31,3 +31,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Reinvent the social web - André Staltz (2018)](https://www.youtube.com/watch?v=8GE5C9-RUpg&feature=youtu.be)
 - [Anti Social Media (2018)](https://www.youtube.com/watch?v=KAo2nmVlfOA)
 - [Timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally.
+- [Regret-stergram (2018)](https://medium.com/@dhh/regret-stergram-ea4073a64911)

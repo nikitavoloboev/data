@@ -11,6 +11,13 @@
 - I wake up every morning and think about how I can put myself out of business. By that, I mean I think about every way another business can disrupt my profit margins and my current successes. By thinking about what they could do, I can do it myself and innovate my own business.
 - I need a higher level of certainty than investors do because my time is more valuable to me than their money is to them. Investors place bets in a portfolio of companies, but I only have one life.
 - The most important thing you can do is to get into an iteration cycle where you can measure the impact of your work, have a hypothesis about how making changes will affect those variables, and ship changes regularly. It doesn't even matter that much what the content is - it's the iteration of hypothesis, changes, and measurement that will make you better at a faster rate than anything else we have seen.
+- [Ask your users how they’d feel if they could no longer use your product. The group that answers ‘very disappointed’ will unlock product/market fit.](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+- [When a startup launches, there have to be at least some users who really need what they're making — not just people who could see themselves using it one day, but who want it urgently. Usually this initial group of users is small, for the simple reason that if there were something that large numbers of people urgently needed and that could be built with the amount of effort a startup usually puts into a version one, it would probably already exist. Which means you have to compromise on one dimension: you can either build something a large number of people want a small amount, or something a small number of people want a large amount. Choose the latter. Not all ideas of that type are good startup ideas, but nearly all good startup ideas are of that type.](http://paulgraham.com/startupideas.html)
+- [In theory this sort of hill-climbing could get a startup into trouble. They could end up on a local maximum. But in practice that never happens. … The maxima in the space of startup ideas are not spiky and isolated. Most fairly good ideas are adjacent to even better ones.](http://www.paulgraham.com/growth.html)
+- [This batch of not disappointed users should not impact your product strategy in any way. They’ll request distracting features, present ill-fitting use cases and probably be very vocal, all before they churn out and leave you with a mangled, muddled roadmap. As surprising or painful as it may seem, don’t act on their feedback — it will lead you astray on your quest for product/market fit.](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+  - Politely disregard those who would not be disappointed without your product. They are so far from loving you that they are essentially a lost cause.
+- [If you only double down on what users love, your product/market fit score won’t increase. If you only address what holds users back, your competition will likely overtake you.](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+- To increase your product/market fit score, spend half your time doubling down on what users already love and the other half on addressing what’s holding others back.
 
 ## Links
 
@@ -30,3 +37,8 @@
 - [Reflections from the last 2 years as a founder (2018)](https://canny.io/blog/reflections-two-year-founder/)
 - [Building our startup as digital nomads (2017)](https://canny.io/blog/building-startup-digital-nomads/)
 - [Tech Choices I Regret at Spectrum (2019)](https://mxstbr.com/thoughts/tech-choice-regrets-at-spectrum/) ([HN](https://news.ycombinator.com/item?id=18924724))
+- [How Superhuman Built an Engine to Find Product/Market Fit (2018)](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
+  1. Segment to find your supporters and paint a picture of your high-expectation customers.
+  2. Analyze feedback to convert on-the-fence users into fanatics.
+  3. Build your roadmap by doubling down on what users love and addressing what holds others back.
+  4. Repeat the process and make the product/market fit score the most important metric.

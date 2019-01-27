@@ -87,3 +87,4 @@
 - [Konfig](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era.
 - [gotest](https://github.com/rakyll/gotest) - Go test with colors.
 - [gRPC-Go](https://github.com/grpc/grpc-go) - Go language implementation of gRPC. HTTP/2 based RPC.
+- [gocontracts](https://github.com/Parquery/gocontracts) - Tool for design-by-contract in Go.
