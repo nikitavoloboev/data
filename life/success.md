@@ -27,3 +27,4 @@ Success comes from not giving up and doing what you love.
 - [Ask HN: 40+ Career Advice?](https://news.ycombinator.com/item?id=18208076)
 - [Wentworth Miller | Full Q&A (2016)](https://www.youtube.com/watch?v=TfWqONqTao4)
 - [Ask HN: How did you decide what problems to solve in your lifetime? (2019)](https://news.ycombinator.com/item?id=18837334)
+- [Arnold Schwarzenegger Inspiring Speech (2018)](https://www.youtube.com/watch?v=mNDA-o9yJNw)

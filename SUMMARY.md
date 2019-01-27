@@ -27,6 +27,7 @@
 - [Environment](environment/environment.md)
   - [Zero waste](environment/zero-waste.md)
   - [Veganism](environment/veganism.md)
+  - [Renewable energy](environment/renewable-energy.md)
 - [Music](music/music.md)
   - [Music playlists](music/music-playlists.md)
   - [Music artists](music/music-artists.md)
