@@ -13,3 +13,7 @@ One thing I've come to realize working at Enpicom, is just how much having an am
 One thing that started occurring more & more often is just how much stuff I am following (Twitter/HN/Lobsters/GitHub/Instagram) that is hard to stay on top of unless I plan to dedicate some 1+ hour a day to not only add it to 2Do for later view but actually go through the content and gain meaningful ideas. I plan to build some tools to help with this soon as well as get more aggressive in what content does get through my filters.
 
 I have some interesting plans for next month and I can't wait to execute on them.
+
+## Timing
+
+![](https://i.imgur.com/QzLUh3z.png)

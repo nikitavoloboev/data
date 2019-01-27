@@ -6,7 +6,7 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 
 ## 2019
 
-- [January](2019/2019-january.md) - First month at Enpicom.
+- [January](2019/2019-january.md) - First month at Enpicom working on building a platform for personalized immunotherapies.
 
 ## [2018](2018/2018.md)
 
