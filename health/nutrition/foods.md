@@ -2,9 +2,13 @@
 
 I exclude all foods that are not healthy and experiment with many [vegan recipes](https://github.com/nikitavoloboev/vegan-recipes/#readme) from the many foods that are healthy. I follow a whole food, plant based diet.
 
-Most of my diet consists of eating almonds, walnuts, blueberries, bananas and avocados.
+Most of my diet consists of eating almonds, walnuts, blueberries, bananas and avocados. I try to eat this set of foods (300g blueberries, 2 avocados, 1 broccoli, 50g walnuts) every day. Having it as a ready made recipe in [Cronometer](https://cronometer.com) makes it easy to track too.
 
-I use [Paprika app](https://www.paprikaapp.com/) to both store all my recipes & the foods I can eat sorted into categories (with top first). Here is how it looks:
+![](https://i.imgur.com/DGk1RP4.jpg)
+
+![](https://i.imgur.com/NvgyiIE.jpg)
+
+Aside from using Cronometer for food tracking, I use [Paprika app](https://www.paprikaapp.com/) to both store all my recipes & the foods I can eat sorted into categories (with top first). Here is how it looks:
 
 ![](https://i.imgur.com/a9lMUh7.png)
 

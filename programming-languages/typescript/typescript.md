@@ -24,3 +24,4 @@
 - [Set of TSLint rules used on some Microsoft projects](https://github.com/Microsoft/tslint-microsoft-contrib)
 - [TypeSearch](https://microsoft.github.io/TypeSearch/) - Search for TS types.
 - [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint) - Monorepo for all the tooling which enables ESLint to support TypeScript.
+- [TypeScript With Babel: A Beautiful Marriage (2018)](https://iamturns.com/typescript-babel/)
