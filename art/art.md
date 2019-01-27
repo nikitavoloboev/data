@@ -41,6 +41,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [u29dc](https://www.instagram.com/u29dc/)
 - [Zach Lieberman](https://zachlieberman.tictail.com/)
 - [Mari K](https://www.artstation.com/madmaraca)
+- [Cody Leigh Bond](https://www.etsy.com/shop/CodyLeighBond)
 
 ## Interesting art
 

@@ -18,6 +18,7 @@
   - Politely disregard those who would not be disappointed without your product. They are so far from loving you that they are essentially a lost cause.
 - [If you only double down on what users love, your product/market fit score won’t increase. If you only address what holds users back, your competition will likely overtake you.](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
 - To increase your product/market fit score, spend half your time doubling down on what users already love and the other half on addressing what’s holding others back.
+- [It is easier to ask for forgiveness than for permission.](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
 
 ## Links
 

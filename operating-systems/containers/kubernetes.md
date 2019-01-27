@@ -49,3 +49,4 @@
 - [kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes.
 - [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories#readme) - Compilation of public failure/horror stories related to Kubernetes.
 - [Garden](https://github.com/garden-io/garden) - Development engine for Kubernetes, containers and serverless functions.
+- [Kubinception: using Kubernetes to run Kubernetes (2019)](https://www.ovh.com/fr/blog/kubinception-using-kubernetes-to-run-kubernetes/)

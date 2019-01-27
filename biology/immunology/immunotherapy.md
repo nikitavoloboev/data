@@ -2,7 +2,7 @@
 
 ## Notes
 
-- [T-cells are an important type of killer white blood cell. They specialize in hunting down and killing cancer cells or cells infected by viruses. That sounds great! But you can imagine situations where if your T-cells are too active, they might start to hurt, rather than help - for example, lots of autoimmunity is caused by T-cells that misrecognize normal cells as cells that need to be killed; also, think about when you get the flu - your temperature starts to rise, if it got too high it could kill you.](https://www.reddit.com/r/sciences/comments/9kfkmw/two_scientists_james_allison_and_tasuku_honjo_who/)
+- [T-cells are an important type of killer white blood cell. They specialize in hunting down and killing cancer cells or cells infected by viruses. That sounds great! But you can imagine situations where if your T-cells are too active, they might start to hurt, rather than help - for example, lots of autoimmunity is caused by T-cells that misrecognize normal cells as cells that need to be killed; also, think about when you get the flu - your temperature starts to rise, if it got too high it could kill you.](https://www.reddit.com/r/sciences/comments/9kfkmw/two_scientists_james_allison_and_tasuku_honjo_who/e6zolvk)
   - So the immune system evolved a series of breaks (or checkpoint proteins) to help keep T-cells in check. If these checkpoint proteins become engaged, T-cells 'turn-off' and become less likely to attack a target cell.
   - In cancer, several things happen:
     1. T-cells naturally get turned-off. A cell can only kill so many tumor cells before it becomes exhausted.
