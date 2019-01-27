@@ -374,6 +374,7 @@
   - [Procedural generation](computer-graphics/procedural-generation.md)
   - [Rendering](computer-graphics/rendering.md)
   - [Ray Tracing](computer-graphics/ray-tracing.md)
+  - [Bezier curves](computer-graphics/bezier-curves.md)
 - [Tools](tools/tools.md)
   - [CodeSandbox](tools/codesandbox.md)
   - [GitBook](tools/gitbook.md)
@@ -513,3 +514,5 @@
     - [October](looking-back/2018/2018-october.md)
     - [November](looking-back/2018/2018-november.md)
     - [December](looking-back/2018/2018-december.md)
+  - 2019
+    - [January](looking-back/2019/2019-january.md)

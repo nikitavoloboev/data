@@ -9,18 +9,18 @@ NixOS is a Linux distro built around the Nix package system. Nix is built around
 
 Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../package-managers/nix/nix.md) on macOS. And I am exploring using NixOS for servers I use.
 
-## Nix configs (macOS)
-
-- [LnL7](https://github.com/LnL7/dotfiles#readme)
-- [cmacrae](https://github.com/cmacrae/.nixpkgs/blob/master/darwin-configuration.nix)
-- [Tom's nix-configs](https://github.com/nocoolnametom/nix-configs)
-
 ## Nix configs (Linux)
 
 - [Infrastructure](https://github.com/rvolosatovs/infrastructure#readme)
 - [Bob nix-home](https://github.com/bobvanderlinden/nix-home)
 - [Brian McKenna Nix Files](https://github.com/puffnfresh/nix-files) - NixOS configuration and custom Nix derivations.
 - [William A. Kennington III](https://github.com/wkennington/nixos) - NixOS configurations for my local cluster of machines.
+
+## Nix configs (macOS)
+
+- [LnL7](https://github.com/LnL7/dotfiles#readme)
+- [cmacrae](https://github.com/cmacrae/.nixpkgs/blob/master/darwin-configuration.nix)
+- [Tom's nix-configs](https://github.com/nocoolnametom/nix-configs)
 
 ## Notes
 

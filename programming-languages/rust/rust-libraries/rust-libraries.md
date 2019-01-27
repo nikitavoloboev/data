@@ -53,3 +53,4 @@
 - [Rand](https://github.com/rust-random/rand) - Rust library for random number generation.
 - [noise-rs](https://github.com/Razaekel/noise-rs) - Procedural noise generation library for Rust.
 - [Rust-AV](https://github.com/rust-av/rust-av) - Multimedia Toolkit written in pure rust.
+- [cookie-rs](https://github.com/alexcrichton/cookie-rs) - HTTP cookie parsing and cookie jar management for rust.

@@ -4,6 +4,10 @@ I want to share my journey in life both for myself and other people who might fi
 
 I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) and [Instagram](https://instagram.com/nikitavoloboev).
 
+## 2019
+
+- [January](2019/2019-january.md) - First month at Enpicom.
+
 ## [2018](2018/2018.md)
 
 > Matured as a person. Gained my first work experience. Listened to Nils Frahm.

@@ -24,6 +24,7 @@ The one book I read by him and loved is [Wisdom of Insecurity](https://antilogic
 - [Analytical Thinking (Act Without Thinking)](https://www.youtube.com/watch?v=S18KUmPjRdg)
 - [The Ways In Which The Material World Is An Illusion](https://www.youtube.com/watch?v=_l0ZqjhQzks)
 - [The Real Purpose of Doing Anything](https://www.youtube.com/watch?v=QMpJm_dYbx0)
+- [Alan Watts full TV series](https://www.youtube.com/playlist?list=PL02D3110151849463)
 
 ## Mixed in music
 
