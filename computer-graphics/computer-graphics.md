@@ -17,3 +17,4 @@
 - [Spectrum](https://github.com/facebookincubator/spectrum) - Client-side image transcoding library.
 - [Computer Graphics Topics](https://github.com/melling/ComputerGraphics#readme)
 - [Tiny Renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer) - Brief computer graphics / rendering course.
+- [Looperepool](https://github.com/spite/looper) - Tool to create looperinos.

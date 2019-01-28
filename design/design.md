@@ -21,3 +21,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Design Languages](https://design-languages.com/) - Curated library for design languages, design systems and front-end frameworks.
 - [Designing Fluid Interfaces (2018)](https://developer.apple.com/videos/play/wwdc2018/803/)
 - [Refactoring UI](https://refactoringui.com/) - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.
+- [Cloudflare Design](https://cloudflare.design/color/) - Preview palettes against UI elements.

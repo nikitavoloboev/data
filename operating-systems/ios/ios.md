@@ -14,7 +14,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Use debugger and breakpoints for debugging. There are also some button in the debugger that are helpful. The one with the rectangles button suspends your app and allows you to visually see the layers of the current screen.](https://www.reddit.com/r/iOSProgramming/comments/ae2h6e/what_ios_development_habits_do_you_wish_you/)
   - You can also use Accessibility Inspector for detecting elements and their values.
   - You can also hit the play/pause button in the debugger to pause the app. You can also use commands in the debugger while paused. For example, if you wanted to know a value of a variable, you can type “po varName” and it will print it. Or if it’s a class, you can access properties.
-  - You can also create exception breakpoints to print out “po $arg1” and it will print the reason it crashed at the bottom of the stack trace so you don’t have to scroll up.
+  - You can also create exception breakpoints to print out “po \$arg1” and it will print the reason it crashed at the bottom of the stack trace so you don’t have to scroll up.
 - It’s useful to setup apps to open links in Safari and not in-browser where possible (i.e. Tweetbot)
 
 ## Links
@@ -46,3 +46,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Nailing Your iOS Interview in Silicon Valley (2019)](https://medium.com/@bayareabelletrist/how-to-prepare-for-an-ios-interview-in-silicon-valley-85a009cf8a4)
 - [KIF iOS Integration Testing Framework](https://github.com/kif-framework/KIF) - iOS integration test framework.
 - [Collection of tools that an iOS developer should know](https://github.com/LeoMobileDeveloper/ios-developer-tools#readme)
+- [isign](https://github.com/saucelabs/isign) - Code sign iOS applications, without proprietary Apple software or hardware.
