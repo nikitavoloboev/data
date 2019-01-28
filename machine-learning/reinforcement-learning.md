@@ -13,3 +13,4 @@
 - [Advanced Deep Learning & Reinforcement Learning Course (2018)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 - [OpenAI Gym](https://github.com/openai/gym) - Toolkit for developing and comparing reinforcement learning algorithms.
 - [Hands-On Reinforcement Learning With Python book](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)
+- [David Silver Reinforcement learning](https://github.com/dalmia/David-Silver-Reinforcement-learning) - Notes for the Reinforcement Learning course by David Silver along with implementation of various algorithms.

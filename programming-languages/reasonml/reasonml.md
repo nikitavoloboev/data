@@ -12,7 +12,7 @@
 - [Migrating Isolate to ReasonML + React (2018)](http://seenaburns.com/2018/07/02/migrating-isolate-to-reason-react/)
 - [Relit](https://github.com/cyrus-/relit) - Hygienic typed literal macros (TLMs) for Reason.
 - [Revery](https://github.com/bryphe/revery) - Native, high-performance, cross-platform desktop apps - built with Reason.
-- [Esy](https://esy.sh/) - Simple workflow for native Reason and OCaml.
+- [Esy](https://esy.sh/) - Simple workflow for native Reason and OCaml. ([HN](https://news.ycombinator.com/item?id=18967693))
 - [pesy](https://github.com/esy/pesy) - Project configuration for esy.
 - [Reason Native](https://github.com/facebookexperimental/reason-native) - Testing, printing, coloring, and other tools to effectively write native Reason code.
 - [Odoc](https://github.com/ocaml/odoc) - Documentation compiler for OCaml and Reason.

@@ -16,3 +16,4 @@ Also it's useful to use [SpellCheck](https://www.shellcheck.net).
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible#readme) - Collection of pure bash alternatives to external processes.
 - [Bash Infinity](https://github.com/niieani/bash-oo-framework) - Modern boilerplate / framework / standard library for Bash.
 - [Funky](https://github.com/bbugyi200/funky) - Takes shell functions to the next level by making them easier to define, more flexible, and more interactive.
+- [create-bash-script](https://github.com/nikita-skobov/create-bash-script) - Bash script designed to create other bash scripts with argument parsing.
