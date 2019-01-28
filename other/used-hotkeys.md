@@ -4,7 +4,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 ## CMD+OPT
 
-- 2 - Open KM forum # TODO: why? what triggers it?
+- 2 - New Imgur screenshot
 - 3 - New Annotate screenshot
 - 4 - Open Annotate screenshot
 - 5 - Start/stop ScreenFlow recording

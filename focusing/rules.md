@@ -101,7 +101,7 @@ Some simple rules to follow for myself doing things.
 
 - Write code to be read by other people. Prefer to be explicit over implicit. [Readability Matters More Than Correctness](https://xph.us/2017/04/23/readability.html)
 - Make the code run first. Then make it fast (if necessary).
-- Read documentation.
+- Read documentation. Update docs where necessary.
 - Delimit files that have spaces with `-` instead of `_`.
 - Use switch cases over long ifs.
 - Function name should describe what it does, not when it's run. Good function names summarize what happens inside.

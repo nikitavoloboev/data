@@ -22,3 +22,4 @@
 - [danger-swift](https://github.com/danger/swift) - Stop saying "you forgot to …" in code review in Swift.
 - [swift-sh](https://github.com/mxcl/swift-sh) - Swift scripting with easy, zero-conf dependency imports.
 - [SwiftTube](https://github.com/ahmetws/swifttube) - iOS conference videos in one place.
+- [Collection useful tips for the Swift language](https://github.com/vincent-pradeilles/swift-tips#readme)

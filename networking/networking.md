@@ -5,8 +5,10 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 ## Notes
 
 - `127.0.0.1` is localhost.
+- Can go to `Network` tab to see details about requests and why they failed if they did fail. Can view headers etc
 
 ## Links
+
 - [gRPC for Web Clients](https://github.com/grpc/grpc-web#readme)
 - [Clash](https://github.com/Dreamacro/clash) - Rule based tunnel in Go.
 - [WebTTY](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC.
