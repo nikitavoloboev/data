@@ -137,6 +137,10 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 - [Markdown Preview for Neovim](https://github.com/iamcco/markdown-preview.nvim)
 
+## Lightline
+
+- [lightline-ale](https://github.com/maximbaz/lightline-ale) - Provides ALE indicator for the lightline vim plugin.
+
 ## Vim
 
 - [Neco](https://github.com/Shougo/neco-vim) - Vim source for neocomplete/deoplete.

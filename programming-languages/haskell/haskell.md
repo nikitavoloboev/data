@@ -52,3 +52,4 @@
 - [Hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Modern property-based testing system, in the spirit of QuickCheck.
 - [Haskeleton: a Haskell project skeleton](http://taylor.fausak.me/2014/03/04/haskeleton-a-haskell-project-skeleton/)
 - [Haskell ITMO course at CTDHaskell ITMO course at CTD](https://github.com/jagajaga/FP-Course-ITMO#readme)
+- [Google's Haskell training: 101 and 102](https://github.com/google/haskell-trainings)

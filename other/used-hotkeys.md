@@ -43,3 +43,6 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 0 - Noizio on/off
 
 ## CMD+OPT+SHIFT
+
+- r - Google Translate selected text
+

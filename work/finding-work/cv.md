@@ -30,6 +30,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Emina Torlak](https://homes.cs.washington.edu/~emina/cv.html) - HTML.
 - [Slava Pestov](https://docs.google.com/document/d/17IddUbocCQhmx_mCcycij6Dmmn-c0ReZqLWzY-idt-Q/edit)
 - [Jongwook Choi](https://wook.kr/cv.html) - Clean. HTML.
+- [Lev Walkin](http://lionet.info/CV)
 
 ## Notes
 

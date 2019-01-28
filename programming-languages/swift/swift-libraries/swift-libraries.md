@@ -26,3 +26,4 @@
 - [Sublimate](https://github.com/gabrielepalma/sublimate) - Ridiculously fast full stack Swift prototyping with Vapor and Sourcery.
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
 - [Aiolos](https://github.com/IdeasOnCanvas/Aiolos) - Floating panel for your iOS Apps.
+- [ShellOut](https://github.com/JohnSundell/ShellOut) - Easily run shell commands from a Swift script or command line tool.

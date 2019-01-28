@@ -31,3 +31,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [cron is dead, long live launchd! (2017)](http://blog.jan-ahrens.eu/2017/01/13/cron-is-dead-long-live-launchd.html)
 - [Control Mac Keyboard Brightness](https://github.com/pirate/mac-keyboard-brightness) - Programmatically flash the keyboard lights and control display brightness on Macs.
 - [maclaunchmaclaunch](https://github.com/HazCod/maclaunch) - Manage your macOS startup items.
+- [Objective-See](https://www.objective-see.com/) - Simple, yet effective macOS security tools.
