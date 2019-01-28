@@ -54,3 +54,4 @@
 - [noise-rs](https://github.com/Razaekel/noise-rs) - Procedural noise generation library for Rust.
 - [Rust-AV](https://github.com/rust-av/rust-av) - Multimedia Toolkit written in pure rust.
 - [cookie-rs](https://github.com/alexcrichton/cookie-rs) - HTTP cookie parsing and cookie jar management for rust.
+- [yoga-rs](https://github.com/bschwind/yoga-rs) - Rust Wrapper of Facebook's Yoga, a Flexbox layout engine.

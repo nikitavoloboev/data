@@ -44,3 +44,4 @@
 - [normalize.css](https://github.com/necolas/normalize.css) - Modern alternative to CSS resets.
 - [Julia Muzafarova CSS Pens](https://codepen.io/miocene/)
 - [CSS Modules](https://github.com/css-modules/css-modules) - Documentation about css-modules.
+- [Yoga](https://github.com/facebook/yoga) - Cross-platform layout engine which implements Flexbox.
