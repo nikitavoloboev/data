@@ -8,7 +8,7 @@ I am interested in getting [Preonic Light](https://www.massdrop.com/buy/massdrop
 
 ## Notes
 
-- Gateron Browns low key travel mech switches seem nice.
+- Gateron Browns low key travel mech switches maybe are nice. Need something low key travel ala macbook.
 
 ## Interesting keyboards
 
@@ -17,7 +17,7 @@ I am interested in getting [Preonic Light](https://www.massdrop.com/buy/massdrop
 - [Preonic](https://olkb.com/preonic/hi-pro-wooden-milled-bottom) - Beautiful keyboard.
 - [Preonic Light](https://www.massdrop.com/buy/massdrop-x-olkb-planck-light-mechanical-keyboard) - Better than Preonic.
 - [Dactyl Keyboard](https://github.com/adereth/dactyl-keyboard) - Parameterized ergonomic keyboard.
-- [Corne keyboard](https://github.com/foostan/crkbd) - Split keyboard with 3x6 column staggered keys and 3 thumb keys.
+- [Corne keyboard](https://github.com/foostan/crkbd) - Split keyboard with 3x6 column staggered keys and 3 thumb keys. ([Reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/a4hp9e/corne_chocolatehotswappable_crkbd_for_chocolate/))
 
 ## Interesting keycaps
 
@@ -37,3 +37,5 @@ I am interested in getting [Preonic Light](https://www.massdrop.com/buy/massdrop
 - [Keebio](https://keeb.io/) - Mechanical Keyboard Parts and Other Goodies.
 - [kbd-audio](https://github.com/ggerganov/kbd-audio) - Tools for capturing and analysing keyboard input paired with microphone capture.
 - [Keymap & EN/RU layouts for Levinson 40% split ortholinear keyboard](https://github.com/tonsky/Levinson-Layout)
+- [KeyHive](https://keyhive.xyz/) - Personalize Your Keyboard.
+- [My Corne keyboard (crkbd-classic) - Split, column staggered with 3-thumb keys](https://www.reddit.com/r/MechanicalKeyboards/comments/9i5uo3/my_corne_keyboard_crkbdclassic_split_column/)
