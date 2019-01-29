@@ -166,6 +166,10 @@ Below is a list of extensions I use.
 
 - [Lua](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - Provides Intellisense and Linting for Lua.
 
+## Elm
+
+- [Elm](https://github.com/Krzysztof-Cieslak/vscode-elm) - Elm Language Support.
+
 ## Nix
 
 - [Nix language support](https://marketplace.visualstudio.com/items?itemName=bbenoist.Nix)

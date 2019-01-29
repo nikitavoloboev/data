@@ -17,3 +17,5 @@
 - [The OCaml Platform 1.0 - Reason ML (2018)](https://www.youtube.com/watch?v=oyeKLAYPmQQ)
 - [OCamlFormat](https://github.com/ocaml-ppx/ocamlformat) - Auto-formatter for OCaml code.
 - [utop](https://github.com/ocaml-community/utop) - Universal toplevel for OCaml.
+- [How come Ocaml isn't more popular? (2019)](https://www.reddit.com/r/ocaml/comments/ah9usf/how_come_ocaml_isnt_more_popular/)
+- [Multicore OCaml](http://ocamllabs.io/doc/multicore.html) - Goal of Multicore OCaml is to add shared memory parallelism to OCaml. ([GitHub](https://github.com/ocamllabs/ocaml-multicore))

@@ -11,11 +11,12 @@
 - Learn Anything is top 5 most visited websites on the internet. AI is able to craft personal optimized learning paths for learning any topic on Earth.
 - No use of fossil fuels. Only sustainable & environmentally safe sources used.
 - Every device that needs to connect to the internet, is connected. Abundant connectivity for all devices.
+- Autonomous driving fully integrated into society.
 
 ## ~ 2040
 
 - AGI
-- Cure for all cancers & diseases (immunotherapy & cheap)
+- Cure for all cancers & diseases (cheap immunotherapies, drugs)
 
 ## Links
 
