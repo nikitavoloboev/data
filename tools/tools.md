@@ -23,6 +23,7 @@ I love software and non software tools that help me in some way.
 - [Metabase](https://github.com/metabase/metabase) - Simplest, fastest way to get business intelligence and analytics to everyone in your company. ([Binary deployment](https://github.com/metabase/metabase-deploy))
 - [EditorConfig](https://editorconfig.org/) - Helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
 - [Apprise](https://github.com/caronc/apprise) - Push Notifications that work with just about every platform.
+- [Bloaty](https://github.com/google/bloaty) - Size profiler for binaries.
 
 ## Other
 

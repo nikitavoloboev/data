@@ -50,3 +50,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Aminal](https://github.com/liamg/aminal) - Golang terminal emulator from scratch.
 - [Ask HN: What are your “brain hacks” that help you manage every day situations? (2018)](https://news.ycombinator.com/item?id=18588727)
 - [Kialo](https://www.kialo.com/) - Easy to use, yet powerful tool to engage in thoughtful discussion, understand different points of view, and help with collaborative decision-making.
+- [WikiExtractor](https://github.com/attardi/wikiextractor) - Tool for extracting plain text from Wikipedia dumps.

@@ -56,15 +56,19 @@ Aside from that I like visiting and at times contributing to these forums:
 As well as a few other Slack communities like:
 
 - [Gophers](https://invite.slack.golangbridge.org/)
+- [Kubernetes](http://slack.k8s.io)
 - [VS Code Vim](https://vscodevim-slackin.azurewebsites.net/)
 
 And these Discord servers:
 
 - [Reactiflux](https://discord.gg/9pZJYR9)
-- [Functional programming](https://discord.gg/xQwR7P7)
 - [ReasonML](https://discord.gg/Agv7fMN)
-- [Godot Engine](https://discord.gg/ZXJERxu)
+- [Python](https://pythondiscord.com/)
+- [Functional programming](https://discord.gg/xQwR7P7)
+- [Cardano Community](https://discordapp.com/invite/kwY6rj8)
 - [QMK](https://discord.gg/mthbPUc)
+- [Godot Engine](https://discord.gg/ZXJERxu)
+- [r/ Apple](https://discordapp.com/invite/apple)
 
 ## Notes
 
@@ -75,3 +79,4 @@ And these Discord servers:
 - [News](https://medium.com/@nikitavoloboev/news-d6bcaaf40121) - I wrote briefly my opinion about consuming news and media. Although my opinion as stated in the article is still the same. My approach as indicated above has changed and hopefully became a bit more refined to meet my own goals.
 - [List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
 - [Ask HN: Other online communities like HN? (2018)](https://news.ycombinator.com/item?id=18384680)
+- [Curated list of awesome programming subreddits](https://github.com/iCHAIT/awesome-subreddits#readme)
