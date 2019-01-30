@@ -51,3 +51,4 @@
 - [HN: Software Engineering at Google (2018)](https://news.ycombinator.com/item?id=18818412)
 - [Professional Programming](https://github.com/charlax/professional-programming#readme) - Collection of full-stack resources for programmers.
 - [Ask HN: What are must-know concepts for back end development? (2019)](https://news.ycombinator.com/item?id=18961793)
+- [HN: Advice to new programmers (2019)](https://news.ycombinator.com/item?id=19029206)

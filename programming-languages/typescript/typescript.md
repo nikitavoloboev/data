@@ -26,3 +26,4 @@
 - [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint) - Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [TypeScript With Babel: A Beautiful Marriage (2018)](https://iamturns.com/typescript-babel/)
 - [ts-node-dev](https://github.com/whitecolor/ts-node-dev) - Restarts target node process when any of required files changes (as standard node-dev) but shares Typescript compilation process between restarts.
+- [When to use `never` and `unknown` in Typescript (2019)](https://blog.logrocket.com/when-to-use-never-and-unknown-in-typescript-5e4d6c5799ad)

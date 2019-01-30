@@ -39,5 +39,6 @@ I keep a [Trello board](https://trello.com/b/Wtr04eGQ) of podcasts I am listenin
 ## Links
 
 - [Awesome Podcasts](https://github.com/learn-anything/podcasts#readme)
+- [Podcasts which are helpful for software engineers/programmers](https://github.com/rShetty/awesome-podcasts#readme)
 - [Cast](https://tryca.st/) - Record, edit, publish, and host your podcast.
 - [Best Podcasts Search](https://bestpodcasts.com)
