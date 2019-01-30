@@ -107,7 +107,7 @@
   - [Parsing](computer-science/parsing.md)
   - [Formal verification](computer-science/formal-verification/formal-verification.md)
     - [TLA+](computer-science/formal-verification/tla.md)
-  - [Automata theory](computer-graphics/automata-theory.md)
+  - [Automata theory](computer-science/automata-theory.md)
 - [Programming](programming/programming.md)
   - [Git](programming/git.md)
   - [Concurrency](programming/concurrency.md)
