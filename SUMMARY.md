@@ -175,6 +175,7 @@
   - [Agda](programming-languages/agda.md)
   - [Coq](programming-languages/coq/coq.md)
   - [Julia](programming-languages/julia/julia.md)
+    - [Julia libraries](programming-languages/julia/julia-libraries.md)
   - [Elm](programming-languages/elm/elm.md)
   - [Dart](programming-languages/dart/dart.md)
     - [Flutter](programming-languages/dart/flutter.md)
