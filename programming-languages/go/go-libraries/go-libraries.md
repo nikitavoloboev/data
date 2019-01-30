@@ -88,3 +88,5 @@
 - [gotest](https://github.com/rakyll/gotest) - Go test with colors.
 - [gRPC-Go](https://github.com/grpc/grpc-go) - Go language implementation of gRPC. HTTP/2 based RPC.
 - [gocontracts](https://github.com/Parquery/gocontracts) - Tool for design-by-contract in Go.
+- [apex-go](https://github.com/apex/apex-go) - Golang runtime for Apex/Lambda.
+- [go-colorful](https://github.com/lucasb-eyer/go-colorful) - Library for playing with colors in go.

@@ -50,3 +50,6 @@
 - [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories#readme) - Compilation of public failure/horror stories related to Kubernetes.
 - [Garden](https://github.com/garden-io/garden) - Development engine for Kubernetes, containers and serverless functions.
 - [Kubinception: using Kubernetes to run Kubernetes (2019)](https://www.ovh.com/fr/blog/kubinception-using-kubernetes-to-run-kubernetes/)
+- [Kubernetes Authentication Example](https://github.com/pusher/k8s-auth-example) - Code is provided verbatim as an example of how to connect to an OIDC provider and authenticate users before configuring their kubeconfig.
+- [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - Adds chaos to your Kubernetes clusters, so that you can detect problems in your systems as early as possible.
+- [Goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.

@@ -17,6 +17,10 @@ I keep a [list of all my favorite games](https://www.grouvee.com/user/nikivi/she
 - [Cossacks: European Wars](http://en.wikipedia.org/wiki/Cossacks:_European_Wars) - An awesome real time strategy game.
 - [League of Legends](http://en.wikipedia.org/wiki/League_of_Legends) - Speaking of DOTA, whilst I haven't played original DOTA much, I did love League. Have many fond memories of playing with my friends. Many people take the game too seriously and ruin the fun both for themselves and other people but if you play with friends and just have fun, the game is quite amazing.
 
+## Awesome Online games
+
+- [WikiBattle](https://wikibattle.me/) - 1v1 race who first reaches a randomly selected article.
+
 ## Recommendations
 
 - [What game would you describe as a masterpiece?](https://www.reddit.com/r/patientgamers/comments/7629r3/what_game_would_you_describe_as_a_masterpiece/)

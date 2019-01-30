@@ -77,3 +77,4 @@ I focus fully on [solving problems](../research/solving-problems.md) I need to s
 - [Maker's schedule](http://www.paulgraham.com/makersschedule.html)
 - [Productivity](https://blog.samaltman.com/productivity) - Amazing post by Sam Altman. ([HN comments](https://news.ycombinator.com/item?id=16802530))
 - [Shipping vs. Fiddling](https://medium.com/@okonetchnikov/shipping-vs-fiddling-74e27e61e0c1) - Sometimes it's best to focus on getting things done and not fighting the tools/software.
+- [It or Nothing (2019)](http://tynan.com/ornothing)

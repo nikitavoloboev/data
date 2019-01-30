@@ -11,3 +11,4 @@
 ## Other
 
 - [generic-lens](https://github.com/kcsongor/generic-lens) - Generically derive traversals, lenses, and prisms.
+- [freer-simple](https://github.com/lexi-lambda/freer-simple) - Friendly effect system for Haskell.

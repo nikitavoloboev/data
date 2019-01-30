@@ -8,3 +8,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Theo De Raadt presented "Pledge: A new security technology in OpenBSD"](https://www.youtube.com/watch?v=F_7S1eqKsFk) - Great talk.
 - [SeKey](https://github.com/ntrippar/sekey) - Use Touch ID / Secure Enclave for SSH Authentication.
 - [DEF CON 26 - Christopher Domas - GOD MODE UNLOCKED Hardware Backdoors in redacted x86 (2018)](https://www.youtube.com/watch?v=jmTwlEh8L7g)
+- [SOPS](https://github.com/mozilla/sops) - Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
