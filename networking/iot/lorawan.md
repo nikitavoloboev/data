@@ -20,3 +20,4 @@
 - [Things Network Stack for LoRaWAN Frequency Plans](https://github.com/TheThingsNetwork/lorawan-frequency-plans)
 - [The Problem with LoRa (2018)](https://hackernoon.com/the-problem-with-lora-af4f5263d378)
 - [The Things Network Stack for LoRaWAN](https://github.com/TheThingsNetwork/lorawan-stack) - Open-source LoRaWAN network stack suitable for large, global and geo-distributed public and private networks as well as smaller networks.
+- [TTN LoRaWAN v3 stack explanation](https://www.youtube.com/watch?v=CeSvqkxg25c)

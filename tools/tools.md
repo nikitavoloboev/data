@@ -40,6 +40,7 @@ I love software and non software tools that help me in some way.
 - [Buttondown](https://buttondown.email/) - Easiest way to run your newsletter in markdown.
 - [How many people are around](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
+- [JournalBook](https://github.com/trys/JournalBook) - Private, offline-first personal journal.
 
 ## Links
 

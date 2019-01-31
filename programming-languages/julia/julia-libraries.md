@@ -15,6 +15,10 @@
 
 - [TimeSeries](https://github.com/JuliaStats/TimeSeries.jl) - Aims to provide a lightweight framework for working with time series data in Julia.
 - [Plots](https://github.com/JuliaPlots/Plots.jl) - Powerful convenience for Julia visualizations and data analysis.
+- [Makie](https://github.com/JuliaPlots/Makie.jl) - High level plotting on the GPU.
+- [FileIO](https://github.com/JuliaIO/FileIO.jl) - Main Package for IO, loading all different kind of files.
+- [GPUArrays](https://github.com/JuliaGPU/GPUArrays.jl) - Array operations defined for all kind of GPU backends.
+- [PackageCompiler](https://github.com/JuliaLang/PackageCompiler.jl) - Remove just-in-time compilation overhead from your package and compile it into a system image.
 
 ## Links
 
