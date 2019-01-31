@@ -32,3 +32,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Control Mac Keyboard Brightness](https://github.com/pirate/mac-keyboard-brightness) - Programmatically flash the keyboard lights and control display brightness on Macs.
 - [maclaunchmaclaunch](https://github.com/HazCod/maclaunch) - Manage your macOS startup items.
 - [Objective-See](https://www.objective-see.com/) - Simple, yet effective macOS security tools.
+- [Caliguvara - another approach to Touch Bar Presets (2019)](https://community.folivora.ai/t/caliguvara-another-approach-to-touch-bar-presets/6561)
