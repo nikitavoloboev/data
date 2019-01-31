@@ -32,3 +32,4 @@ I [budget all my money](../finance/finance.md) into categories each month. This 
 
 - [Living with less. Everything i own now fits into a single carry-on bag.](http://www.wernervanrooyen.com/living-with-less-one-bag/)
 - [How a Month without Computers Changed Me](https://dev.to/iskin/how-a-month-without-computers-changed-me-1ho4)
+- [Going minimal (2012)](http://wy.io/going-minimal/)

@@ -43,3 +43,7 @@ Here is a list of various things I track for my own use and reference.
 ## Design
 
 - [Dribble buckets](https://dribbble.com/nikitavoloboev/buckets) - Various buckets of designs I liked. There is also a [big list of designs I liked](https://dribbble.com/nikitavoloboev/likes).
+
+## Links
+
+- [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self#readme)

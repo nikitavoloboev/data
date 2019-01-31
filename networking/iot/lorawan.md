@@ -1,5 +1,10 @@
 # [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/)
 
+## Notes
+
+- [LoraWAN uses Lora radios (all made or licensed by Semtech,) which only implement the physical layer. LoraWAN is a MAC + network software layer. It's similar to 802.15.4 and Zigbee. Thus, if the hardware integrates Lora devices (such as the SX1276), then it can be used to implement LoraWAN or custom protocols using Lora.](https://www.reddit.com/r/raspberry_pi/comments/9mfrym/iot_lora_boards_launch_with_raspberry_pi_microbit/)
+- [LoRa is the RF modulation, LoRaWAN is the protocol on top, that is defined and adopted by the LoRa alliance.](https://www.reddit.com/r/IOT/comments/a339h3/im_using_lora_and_not_lorawan_what_am_i_missing/)
+
 ## Links
 
 - [TTN wiki](https://www.thethingsnetwork.org/docs/)
@@ -13,3 +18,4 @@
 - [Building LPWAN Solutions that last for Years (2018)](https://www.youtube.com/watch?v=mEmpbIlo8XQ&feature=youtu.be&list=PLEx5khR4g7PJW7u0GKxRPIQddtu69boT3)
 - [Firmware-updates enabled LoRaWAN example application](https://github.com/ARMmbed/mbed-os-example-lorawan-fuota)
 - [Things Network Stack for LoRaWAN Frequency Plans](https://github.com/TheThingsNetwork/lorawan-frequency-plans)
+- [The Problem with LoRa (2018)](https://hackernoon.com/the-problem-with-lora-af4f5263d378)
