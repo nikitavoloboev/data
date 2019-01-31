@@ -62,3 +62,5 @@
 - [How to Science [Part 2: Our Universe = Math?]](https://www.youtube.com/watch?v=I7rlzkU7zbk) - Amazing series.
 - [University of Oxford notes and exercises for math undergraduate courses](https://courses.maths.ox.ac.uk/overview/undergraduate)
 - [MacTutor History of Mathematics archive](http://www-history.mcs.st-and.ac.uk/)
+- [Formalizing 100 Theorems](http://www.cs.ru.nl/~freek/100/)
+- [Some Fundamental Theorems in Mathematics (2018)](https://arxiv.org/abs/1807.08416) ([HN](https://news.ycombinator.com/item?id=19039525))
