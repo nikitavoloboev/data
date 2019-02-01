@@ -4,7 +4,7 @@ I try to maximize my [happiness](../life/happiness.md) and quality of life throu
 
 Here are some things I am trying to improve with my health right now.
 
-- [Nutrition](nutrition/nutrition.md) - I drink a [smoothie every morning](https://github.com/nikitavoloboev/vegan-recipes/tree/master/smoothies#regular-breakfast-smoothie), eat a whole food plant based diet and take [few supplements](supplements.md). I track all the food I eat with [Cronometer](https://cronometer.com).
+- [Nutrition](nutrition/nutrition.md) - I drink a [smoothie every morning](https://github.com/nikitavoloboev/vegan-recipes/tree/master/smoothies#regular-breakfast-smoothie), eat a whole food plant based diet and take [few supplements](nutrition/supplements.md). I track all the food I eat with [Cronometer](https://cronometer.com).
 - [Mindfulness](../mindfulness/mindfulness.md) - Stress [shortens telomeres](https://www.ncbi.nlm.nih.gov/pubmed/12114022). Practicing [mindfulness](../mindfulness/mindfulness.md) helps greatly in maintaining a healthy and stress free outlook on life.
 - [Proper sleep](../sleep/sleep.md) - I go to sleep and wake up at the same time (22:00 -> 6:00) getting a minimum of 7 hours of sleep each day.
 - [Exercise](../fitness/fitness.md) - I start every morning with some exercise. Either going to the gym or playing tennis.

@@ -1,8 +1,8 @@
 # [Sublime Text](https://www.sublimetext.com)
 
-Use this editor in addition to [VS Code](vs-code/vs-code.md) and [Neovim](vim/vim.md) for its blazing fast speed of opening files.
+Use this editor in addition to [VS Code](../vs-code/vs-code.md) and [Neovim](../vim/vim.md) for its blazing fast speed of opening files.
 
-I use it primarily to edit markdown files like [this wiki](../other/wiki-workflow.md). I also edit config files and open large and small files for quick edits.
+I use it primarily to edit markdown files like [this wiki](../../other/wiki-workflow.md). I also edit config files and open large and small files for quick edits.
 
 I use [many plugins](sublime-text-plugins.md) together with [Ayu theme](https://github.com/dempfi/ayu).
 
