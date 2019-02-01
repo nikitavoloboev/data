@@ -10,7 +10,7 @@ I use [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/mas
 
 ## ~/Documents
 
-All my actual documents (books, papers..) are put there. The folder synced with iCloud and I often access it from my phone with Files app.
+All my actual documents (books, papers..) are put there. The folder synced with iCloud and I often access it from my phone via Spotlight search.
 
 ```Bash
 ~/Documents
@@ -39,7 +39,6 @@ alfred  bots  build-to-learn  clones  curated  games  ideas  languages  libs  mo
 I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I [use km macro](https://medium.com/@nikitavoloboev/insta-cloning-ff5f38eb1d32) that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/src/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime Text.
 
 I then filter contents of the folder with [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true).
-
 
 ## ~/src/orgs
 
@@ -111,11 +110,12 @@ books             command-line-tools  documentaries  forums              images 
 
 ## ~/Dropbox
 
-Use Dropbox to sync configuration files. I also keep this wiki in `Write` dir in Dropbox so I can edit it on the phone from Ulysses.
+Use Dropbox to sync configuration files. I also keep this wiki in `Write` dir in Dropbox so I can edit it on the phone with [Ulysses](../macOS/apps/ulysses.md).
 
 ```bash
+~/Dropbox
 ❯ exa
-Alfred  Apps  Config  History  IFTTT  Pixave  Shared  Shares  TaskPaper  upload.sh  Write
+Alfred  Apps  Config  History  IFTTT  Shared  Shares  TaskPaper  Temp Shares  upload.sh  Write
 ```
 
 ## Links

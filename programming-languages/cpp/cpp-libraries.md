@@ -7,3 +7,11 @@
 ## Concurrency
 
 - [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Fast C++ header-only library to help you quickly write parallel programs with complex task dependencies.
+
+## UI
+
+- [GuiLite](https://github.com/idea4good/GuiLite) - Smallest UI framework for all platform -- 5K lines code.
+
+## Other
+
+- [{fmt}](https://github.com/fmtlib/fmt) - Modern formatting library.

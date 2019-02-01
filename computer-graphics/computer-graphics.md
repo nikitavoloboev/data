@@ -19,3 +19,4 @@
 - [Tiny Renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer) - Brief computer graphics / rendering course.
 - [Looperepool](https://github.com/spite/looper) - Tool to create looperinos.
 - [KABOOM! in 180 lines of bare C++](https://github.com/ssloy/tinykaboom) - Brief computer graphics / rendering course.
+- [imutils](https://github.com/jrosebr1/imutils) - Series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.

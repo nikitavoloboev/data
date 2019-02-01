@@ -35,3 +35,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Act](https://github.com/nektos/act) - Run your GitHub Actions locally.
 - [Probot](https://github.com/probot/probot) - Framework for building GitHub Apps to automate and improve your workflow.
 - [OSS list of GitHub actions](https://github-actions.netlify.com/)
+- [Collection of useful GitHub Actions](https://github.com/maddox/actions#readme)
