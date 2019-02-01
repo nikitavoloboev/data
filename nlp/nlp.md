@@ -16,3 +16,4 @@
 - [BERT PyTorch implementation](https://github.com/codertimo/BERT-pytorch)
 - [LASER Language-Agnostic SEntence Representations](https://github.com/facebookresearch/LASER) - Library to calculate and use multilingual sentence embeddings.
 - [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - Open source Speech-To-Text engine, using a model trained by machine learning techniques, based on Baidu's Deep Speech research paper.
+- [StanfordNLP](https://github.com/stanfordnlp/stanfordnlp) - Python NLP Library for Many Human Languages.

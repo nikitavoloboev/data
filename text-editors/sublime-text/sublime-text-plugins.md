@@ -45,6 +45,10 @@ Below is a list of plugins I use.
 
 - [DistractionFreeWindow](https://github.com/aziz/DistractionFreeWindow) - Sublime Text's "Distraction free mode" but not full-screen.
 
+## TypeScript
+
+- [TypeScript Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) - IO wrapper around TS language services.
+
 ## Lint
 
 - [Linter Shellcheck](https://github.com/SublimeLinter/SublimeLinter-shellcheck) - Linter plugin for SublimeLinter provides an interface to shellcheck.
