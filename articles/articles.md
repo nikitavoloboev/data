@@ -15,3 +15,4 @@ Some articles I read and liked.
 - [2017, The summary](https://turiphro.nl/writings/2017-summary/)
 - [On moving on (2014)](https://ostera.io/essays/LOV-000-on-moving-on.html)
 - [So I stopped programming (2014)](https://ostera.io/essays/LOV-001-so-i-stopped-programming.html)
+- [Stepping back (2018)](https://write.as/matt/stepping-back)

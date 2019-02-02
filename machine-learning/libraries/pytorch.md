@@ -13,3 +13,4 @@
 - [Apex](https://github.com/NVIDIA/apex) - PyTorch Extension: Tools for easy mixed precision and distributed training in PyTorch.
 - [Translate](https://github.com/pytorch/translate) - PyTorch Language Library.
 - [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
+- [Introduction to PyTorch Workshop at the AMLD 2019](https://github.com/ahug/amld-pytorch-workshop)

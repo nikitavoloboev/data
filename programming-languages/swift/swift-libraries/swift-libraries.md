@@ -8,6 +8,11 @@
 
 - [Alomofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking.
 
+## iOS
+
+- [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Modal controller as in mail or Apple music application.
+- [SPPermission](https://github.com/IvanVorobei/SPPermission) - Simple request permission with native UI and interactive animation.
+
 ## Other
 
 - [Runtime](https://github.com/wickwirew/Runtime) - Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.
