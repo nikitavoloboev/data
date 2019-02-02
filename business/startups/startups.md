@@ -22,6 +22,7 @@
 
 ## Links
 
+- [Stripe Atlas](https://stripe.com/atlas) - Everything you need to start an internet business.
 - [Think about Equity](http://foundersatwork.posthaven.com/think-about-equity)
 - [Index](https://index.co/) - Connecting startups, corporate brands, and investors.
 - [Startup Resources](http://startupresources.io) - Tightly curated lists of the best startup tools.

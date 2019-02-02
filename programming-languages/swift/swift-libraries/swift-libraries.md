@@ -27,3 +27,4 @@
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - Meta-programming for Swift, stop writing boilerplate code.
 - [Aiolos](https://github.com/IdeasOnCanvas/Aiolos) - Floating panel for your iOS Apps.
 - [ShellOut](https://github.com/JohnSundell/ShellOut) - Easily run shell commands from a Swift script or command line tool.
+- [BlueSocket](https://github.com/IBM-Swift/BlueSocket) - Socket framework for Swift using the Swift Package Manager.

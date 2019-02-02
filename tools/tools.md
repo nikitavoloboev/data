@@ -1,6 +1,6 @@
 # Tools
 
-I love software and non software tools that help me in some way.
+I love software and non software tools that help me in some way. Most tools I use & like are mentioned appropriately in other parts of the wiki.
 
 ## Useful
 
@@ -24,9 +24,8 @@ I love software and non software tools that help me in some way.
 - [EditorConfig](https://editorconfig.org/) - Helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
 - [Apprise](https://github.com/caronc/apprise) - Push Notifications that work with just about every platform.
 - [Bloaty](https://github.com/google/bloaty) - Size profiler for binaries.
-
-## Other
-
+- [mdck](https://github.com/ctm/mdck) - Reports broken links found within md files.
+- [Docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage.
 - [Tiny Letter](https://tinyletter.com)
 - [Loom](https://www.useloom.com/) - New kind of work communication tool that helps you get your message across through instantly shareable videos.
@@ -41,7 +40,7 @@ I love software and non software tools that help me in some way.
 - [How many people are around](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
 - [JournalBook](https://github.com/trys/JournalBook) - Private, offline-first personal journal.
-- [Docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [AfterClass](https://afterclass.co/) - New kind of document for futuristic teams.
 
 ## Links
 
