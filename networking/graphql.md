@@ -11,3 +11,4 @@
 - [GraphQL Editor](https://github.com/slothking-online/graphql-editor#readme) - Visual node editor for GraphQL.
 - [Join Monster](https://github.com/acarl005/join-monster) - GraphQL to SQL query execution layer for query planning and batch data fetching.
 - [GraphQL Shield](https://github.com/maticzav/graphql-shield) - GraphQL tool to ease the creation of permission layer.
+- [modelizr](https://github.com/julienvincent/modelizr) - Generate GraphQL queries from models that can be mocked and normalized.

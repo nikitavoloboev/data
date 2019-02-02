@@ -41,6 +41,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
 - [JournalBook](https://github.com/trys/JournalBook) - Private, offline-first personal journal.
 - [AfterClass](https://afterclass.co/) - New kind of document for futuristic teams.
+- [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
 
 ## Links
 
