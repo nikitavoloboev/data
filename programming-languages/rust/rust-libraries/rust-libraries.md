@@ -25,6 +25,7 @@
 - [Mio](https://github.com/carllerche/mio) - Metal IO library.
 
 ## GUI
+
 - [Azul](https://github.com/maps4print/azul) - Desktop GUI Framework.
 
 ## Other
@@ -55,3 +56,5 @@
 - [Rust-AV](https://github.com/rust-av/rust-av) - Multimedia Toolkit written in pure rust.
 - [cookie-rs](https://github.com/alexcrichton/cookie-rs) - HTTP cookie parsing and cookie jar management for rust.
 - [yoga-rs](https://github.com/bschwind/yoga-rs) - Rust Wrapper of Facebook's Yoga, a Flexbox layout engine.
+- [ureq](https://github.com/algesten/ureq) - Minimal request library in rust.
+- [redux-rs](https://github.com/redux-rs/redux-rs) - Rust implementation of Redux.

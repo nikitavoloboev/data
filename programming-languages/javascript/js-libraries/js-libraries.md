@@ -46,3 +46,4 @@
 - [Hotkey Behavior](https://github.com/github/hotkey) - Trigger a action on element when keyboard hotkey is pressed.
 - [Bili](https://github.com/egoist/bili) - Makes it easier to bundle JavaScript libraries.
 - [Memoizee](https://github.com/medikoo/memoizee) - Complete memoize/cache solution for JavaScript.
+- [Immer](https://github.com/mweststrate/immer/#async-producers) - Create the next immutable state by mutating the current one.

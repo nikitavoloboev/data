@@ -18,6 +18,8 @@
 - [React Select](https://github.com/react-component/select)
 - [Primer Components](https://github.com/primer/components) - Primer React components.
 - [react-movable](https://github.com/tajo/react-movable) - Drag and drop for your React lists and tables. Accessible. Tiny.
+- [Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React) - Official Semantic-UI-React integration.
+- [React Sidebar](https://github.com/balloob/react-sidebar) - Sidebar component for React.
 
 ## Links
 

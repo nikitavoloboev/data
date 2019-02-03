@@ -2,7 +2,7 @@
 
 I love keyboards. Specifically I love remapping them with [Karabiner](../macOS/apps/karabiner/karabiner.md) to extend them to do more awesome things for me.
 
-I am currently using Apple wireless keyboard and love it. I love the low key travel as I get tired typing on most mechanical keyboards. The only thing I would change from that keyboard would be split space key into two keys for more remapping awesomeness.
+I am currently using builtin 2018 MacBook keyboard and love it. I love the low key travel as I get tired typing on most mechanical keyboards. The only thing I would change from that keyboard would be split space key into two keys for more remapping awesomeness.
 
 I am interested in getting [Preonic Light](https://www.massdrop.com/buy/massdrop-x-olkb-planck-light-mechanical-keyboard) keyboard with low profile Kailh switches. And I want to make it wireless too.
 
