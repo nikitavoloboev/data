@@ -32,7 +32,7 @@ I find this goal centric approach to be incredibly useful as it lets me focus on
 
 ## Focus sessions
 
-I use [Focus app](https://heyfocus.com) as a recurring [pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) which lets me work in sessions of 80 minutes with 10 min breaks by blocking [distracting websites](https://gist.github.com/nikitavoloboev/57340528a6dfb3eb498dce647ed6841f) and apps.
+I use [Focus app](https://heyfocus.com) as a recurring [Pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) which lets me work in sessions of 80 minutes with 10 min breaks by blocking [distracting websites](https://gist.github.com/nikitavoloboev/57340528a6dfb3eb498dce647ed6841f) and apps.
 
 ![](https://i.imgur.com/H7TMqgS.png)
 
@@ -61,7 +61,7 @@ I focus fully on [solving problems](../research/solving-problems.md) I need to s
 
 ## Other things
 
-- I don't listen to distracting music when trying to focus. Instead I use [Noizio](http://noiz.io), [Oak](https://www.oakmeditation.com) or my [Focus](https://open.spotify.com/user/nikitavoloboev/playlist/2mriYMEK60P7T7XtQz9pDe?si=kI9marqaQ4667mS34jhpww) playlist. Or have nothing playing at all.
+- I don't listen to distracting music or sounds when trying to focus. Instead I use [Noizio](http://noiz.io) or [Oak](https://www.oakmeditation.com) and listen to Pink Noise or similar sounds. Or have nothing playing at all.
 - I always have water or tea nearby and keep myself hydrated. If I can't solve some problem or feel like I can't keep my focus, I take a walk outside or do some exercise.
 - I try to work outside of home and move often. When that is not possible I emulate a working environment in some part of my home so my brain knows that if I am in this place, it is time to work and not do anything else.
 - I don't use any external monitors. I found multiple monitors distracting as I can do everything fast with my macbook already.

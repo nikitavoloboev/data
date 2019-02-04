@@ -44,6 +44,14 @@ I love software and non software tools that help me in some way. Most tools I us
 - [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
 - [Snap.as](https://snap.as/) - Permanent home for your photos.
 
+## Notes
+
+- [Tips for success in building libraries/tools](https://youtu.be/oiNtnehlaTo?t=2861):
+  1. Scratch your own itch.
+  2. Stand on the shoulders of giants.
+  3. Solve for the 80 % use case.
+  4. Make it easy to adopt/delete.
+
 ## Links
 
 - [The Developer's Toolbox 2018](https://medium.com/mobile-quality/the-developers-toolbox-daaaa875081e)

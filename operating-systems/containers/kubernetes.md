@@ -55,3 +55,4 @@
 - [Goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [k3s](https://github.com/ibuildthecloud/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb.
 - [Kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - SDK for building Kubernetes APIs using CRDs.
+- [k9s](https://github.com/derailed/k9s) - Provides a curses based terminal UI to interact with your Kubernetes clusters.

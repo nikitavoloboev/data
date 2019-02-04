@@ -39,7 +39,7 @@ Some simple rules to follow for myself doing things.
 - Change location. Work from different places.
 - Look at where I spend my time in Timing and cut those out with Focus and scripts.
 - Use one screen when coding. Much easier to context switch.
-- Don't listen to distracting music when trying to focus. Instead I use [Noizio](http://noiz.io), [Oak](https://www.oakmeditation.com) or my [Focus](https://open.spotify.com/user/nikitavoloboev/playlist/2mriYMEK60P7T7XtQz9pDe?si=kI9marqaQ4667mS34jhpww) playlist. Or have nothing playing at all.
+- Don't listen to distracting music or sounds when trying to focus. Instead use [Noizio](http://noiz.io) or [Oak](https://www.oakmeditation.com) and listen to Pink Noise or similar sounds. Or have nothing playing at all.
 - Use noise canceling headphones if surroundings are too noisy.
 
 ## Work
