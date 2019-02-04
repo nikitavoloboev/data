@@ -91,3 +91,4 @@
 - [apex-go](https://github.com/apex/apex-go) - Golang runtime for Apex/Lambda.
 - [go-colorful](https://github.com/lucasb-eyer/go-colorful) - Library for playing with colors in go.
 - [go-jira](https://github.com/Netflix-Skunkworks/go-jira) - Simple command line client for Atlassian's Jira service written in Go.
+- [envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go.

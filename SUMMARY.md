@@ -1,4 +1,4 @@
-# Summary
+t# Summary
 
 - [Meta](meta/meta.md)
   - [Reference](meta/reference.md)
@@ -127,6 +127,7 @@
   - [Embedded systems](programming/embedded-systems.md)
   - [Encoding](programming/encoding.md)
   - [Interactive computing](programming/interactive-computing.md)
+  - [Quantum programming](programming/quantum-programming.md)
 - [Programming languages](programming-languages/programming-languages.md)
   - [Go](programming-languages/go/go.md)
     - [Go libraries](programming-languages/go/go-libraries/go-libraries.md)
