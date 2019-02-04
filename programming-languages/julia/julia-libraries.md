@@ -19,6 +19,8 @@
 - [FileIO](https://github.com/JuliaIO/FileIO.jl) - Main Package for IO, loading all different kind of files.
 - [GPUArrays](https://github.com/JuliaGPU/GPUArrays.jl) - Array operations defined for all kind of GPU backends.
 - [PackageCompiler](https://github.com/JuliaLang/PackageCompiler.jl) - Remove just-in-time compilation overhead from your package and compile it into a system image.
+- [CUDAdrv](https://github.com/JuliaGPU/CUDAdrv.jl) - Julia wrapper for the CUDA driver API.
+- [Devectorize](https://github.com/lindahua/Devectorize.jl) - Provides macros and functions to de-vectorize a vector expression.
 
 ## Links
 

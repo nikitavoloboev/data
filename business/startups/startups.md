@@ -44,3 +44,9 @@
   2. Analyze feedback to convert on-the-fence users into fanatics.
   3. Build your roadmap by doubling down on what users love and addressing what holds others back.
   4. Repeat the process and make the product/market fit score the most important metric.
+
+## Images
+
+![](https://i.imgur.com/KxbRBEn.png)
+
+> [Source](https://www.youtube.com/watch?v=jTM7ZCKEUGM)

@@ -8,3 +8,4 @@
 ## Links
 
 - [Collection of Gatsby themes](https://github.com/johno/gatsby-themes#readme)
+- [egghead.io creator MDX Blog Starter Project](https://github.com/eggheadio/gatsby-starter-egghead-blog)
