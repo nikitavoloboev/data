@@ -15,6 +15,7 @@
 - [Anime.js](https://github.com/juliangarnier/anime) - JavaScript animation engine.
 - [popmotion](https://github.com/Popmotion/popmotion) - Functional, reactive animation library.
 - [impress.js](https://github.com/impress/impress.js) - Presentation framework based on the power of CSS3 transforms and transitions.
+- [Pts](https://github.com/williamngan/pts) - Library for visualization and creative-coding.
 
 ## TypeScript
 
