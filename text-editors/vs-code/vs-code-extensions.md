@@ -5,12 +5,11 @@ Below is a list of extensions I use.
 ## Utility
 
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation.
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
-- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.
-- [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative URL paths from files in the current workspace.
-- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) - Synchronize VS Code settings across multiple machines using Github Gist.
+- [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - Synchronize all of your VSCode settings across multiple devices.
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
 - [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Convenient way of creating, duplicating, moving, renaming and deleting files and directories.
@@ -23,13 +22,6 @@ Below is a list of extensions I use.
 
 - [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) - Develop, deploy and debug Kubernetes applications.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easily build and deploy containerized applications from VS Code.
-
-## JavaScript
-
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code.
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
-- [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Autocomplete npm modules in import statements.
-- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code running in Google Chrome from VS Code.
 
 ## TypeScript
 
@@ -51,10 +43,6 @@ Below is a list of extensions I use.
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Visualize code authorship at a glance via Git blame annotations and code lens.
 
-## Markdown
-
-- [Markdown](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Keyboard shortcuts, table of contents, auto preview and more.
-
 ## LaTeX
 
 - [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - Provide all-in-one features and utilities for LaTeX typesetting.
@@ -71,6 +59,8 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative URL paths from files in the current workspace.
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.
 - [REST Client Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - Allows you to send HTTP request and view the response in VS Code directly.
 - [Browser Preview](https://github.com/auchenberg/vscode-browser-preview) - Real browser preview inside your editor that you can debug.
 - [Bump](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-bump) - Bump your project's version and update the changelog. Opinionated but configurable.
@@ -113,9 +103,12 @@ Below is a list of extensions I use.
 
 ## JavaScirpt
 
+- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code running in Google Chrome from VS Code.
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code.
 - [JavaScript Snippet Pack](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-javascript-snippet-pack)
 - [Yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn) - Manage yarn commands.
 - [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live Scratchpad for JavaScript.
+- [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Autocomplete npm modules in import statements.
 
 ## Java
 
@@ -140,6 +133,7 @@ Below is a list of extensions I use.
 ## Markdown
 
 - [Markdown Preview GitHub Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) - Changes VS Code's built-in markdown preview to match GitHub's style.
+- [Markdown](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Keyboard shortcuts, table of contents, auto preview and more.
 
 ## HTML
 
