@@ -29,3 +29,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links#readme) - Categorized list of Redux-related addons, libraries, and utilities.
 - [typesafe-actions](https://github.com/piotrwitek/typesafe-actions) - Typesafe Action Creators for Redux / Flux Architectures (in TypeScript).
 - [TypeScript FSA](https://github.com/aikoven/typescript-fsa) - Type-safe action creator utilities.
+- [Robodux](https://github.com/neurosnap/robodux) - Remove repetitive tasks from Redux.

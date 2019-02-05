@@ -48,3 +48,4 @@
 - [Memoizee](https://github.com/medikoo/memoizee) - Complete memoize/cache solution for JavaScript.
 - [Immer](https://github.com/mweststrate/immer/#async-producers) - Create the next immutable state by mutating the current one.
 - [FlexSearch](https://github.com/nextapps-de/flexsearch) - Web's fastest and most memory-flexible full-text search library with zero dependencies.
+- [cofx](https://github.com/neurosnap/cofx) - Node and javascript library that helps developers describe side-effects as data in a declarative, flexible API.
