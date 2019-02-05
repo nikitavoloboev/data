@@ -16,3 +16,4 @@
 - [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems#readme)
 - [Kong](https://github.com/Kong/kong) - Cloud-Native API Gateway & Service Mesh.
 - [Disque](https://github.com/antirez/disque) - Distributed message broker.
+- [Mesh](https://github.com/weaveworks/mesh) - Tool for building distributed applications.

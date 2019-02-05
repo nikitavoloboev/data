@@ -13,6 +13,7 @@ I love Git and version control. And I use version control over any project I do.
 
 ## Links
 
+- [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules#readme)
 - [Great Git workflow instructions](https://github.com/rvolosatovs/turtlitto/blob/master/CONTRIBUTING.md#readme)
 - [GIT Conventions](https://medium.com/@tjholowaychuk/git-conventions-a940ee20862d)

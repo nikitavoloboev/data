@@ -51,3 +51,4 @@
 - [My Wishlist for Hot Reloading (2018)](https://overreacted.io/my-wishlist-for-hot-reloading/)
 - [Navi](https://github.com/frontarm/navi) - Batteries-included router for React.
 - [Re-implement react fiber (2019)](https://github.com/tranbathanhtung/react-fiber-implement) - Self-study project help understand how react work.
+- [Michael Jackson - Never Write Another HoC (2017)](https://www.youtube.com/watch?v=BcVAq3YFiuc)
