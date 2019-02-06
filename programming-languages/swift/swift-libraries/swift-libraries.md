@@ -13,6 +13,10 @@
 - [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Modal controller as in mail or Apple music application.
 - [SPPermission](https://github.com/IvanVorobei/SPPermission) - Simple request permission with native UI and interactive animation.
 
+## API
+
+- [SwiftTwitch](https://github.com/Chris-Perkins/SwiftTwitch) - Library intended for client-facing applications interaction with the New Twitch API, Helix.
+
 ## Other
 
 - [Runtime](https://github.com/wickwirew/Runtime) - Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.

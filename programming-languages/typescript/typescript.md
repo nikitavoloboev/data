@@ -29,3 +29,4 @@
 - [When to use `never` and `unknown` in Typescript (2019)](https://blog.logrocket.com/when-to-use-never-and-unknown-in-typescript-5e4d6c5799ad)
 - [bibliography on Gradual Typing](https://github.com/samth/gradual-typing-bib#readme)
 - [dtslint](https://github.com/Microsoft/dtslint) - Tests a TypeScript declaration file for style and correctness.
+- [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
