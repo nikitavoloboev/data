@@ -54,4 +54,5 @@ I love software and non software tools that help me in some way. Most tools I us
 
 ## Links
 
+- [Hacker Tools](https://hacker-tools.github.io/) - Make the most of the tools that hackers have been using for decades.
 - [The Developer's Toolbox 2018](https://medium.com/mobile-quality/the-developers-toolbox-daaaa875081e)

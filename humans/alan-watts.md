@@ -15,8 +15,9 @@ The one book I read by him and loved is [Wisdom of Insecurity](https://antilogic
 - [We Don't See All There Is](https://www.youtube.com/watch?v=M30ChDvwBLQ)
 - [Undifferentiated Toy Gardens](https://soundcloud.com/spacekittyisyou/undifferentiated-toy-gardens?in=spacekittyisyou/sets/ambient-watts)
 - [It all goes together](https://www.youtube.com/watch?v=qml1-xzPpxY)
-- [The Freedom To Make Mistakes](https://www.youtube.com/watch?v=AnLZBdB9uWU&t=5s)
+- [The Freedom To Make Mistakes](https://www.youtube.com/watch?v=AnLZBdB9uWU)
 - [Story of the Chinese Farmer](https://www.youtube.com/watch?v=b_onYOLnELI)
+- [Alan Watts - "Music and Life"](https://www.youtube.com/watch?v=WGoTmNU_5A0)
 
 ## Interesting talks
 
