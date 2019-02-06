@@ -21,4 +21,4 @@ One advantage that this view of the world brings. The view that everything that 
 - [Ralph Metzner: Death](https://www.youtube.com/watch?v=gtNvWJM7nhE)
 - [Practicing Death (with 5-MeO-DMT)](https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=75716)
 - [What do people die from?](https://ourworldindata.org/what-does-the-world-die-from)
-- [Living is Dying – How to Prepare for Dying, Death and Beyond book](https://www.siddharthasintent.org/resources/publications/living-is-dying-how-to-prepare-for-dying-death-and-beyond/)
+- [Living is Dying – How to Prepare for Dying, Death and Beyond](https://www.siddharthasintent.org/resources/publications/living-is-dying-how-to-prepare-for-dying-death-and-beyond/)
