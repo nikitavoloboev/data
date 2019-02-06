@@ -207,6 +207,7 @@
   - [iOS](operating-systems/ios/ios.md)
     - [iOS Shortcuts](operating-systems/ios/ios-shortcuts.md)
     - [iPad](operating-systems/ios/ipad.md)
+    - [tvOS](operating-systems/ios/tvos.md)
   - [Android](operating-systems/android.md)
   - [Containers](operating-systems/containers/containers.md)
     - [Kubernetes](operating-systems/containers/kubernetes.md)

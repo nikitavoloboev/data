@@ -1,8 +1,6 @@
 # Coffee
 
-## Notes
-
-- I like ordering vanilla latte with blonde roast in Starbucks.
+I like drinking an occasional coffee with [oat milk](https://www.oatly.com/).
 
 ## Links
 

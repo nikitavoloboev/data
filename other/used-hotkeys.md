@@ -21,6 +21,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 8 - Search selection in Dictionary
 - 9 - Google selected text
 - 0 - Screenshot entire screen
+- . - Contexts search active windows
 
 ## CMD+OPT+CTRL
 
@@ -46,3 +47,6 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 - r - Google Translate selected text
 
+## CMD+OPT+SHIFT+CTRL
+
+- Space - Alfred
