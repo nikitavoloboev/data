@@ -14,3 +14,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [WebTTY](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC.
 - [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O.
 - [Python implementation of the IPv8 layer](https://github.com/Tribler/py-ipv8)
+- [mitmproxy](https://mitmproxy.org/) - Free and open source interactive HTTPS proxy.

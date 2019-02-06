@@ -20,3 +20,4 @@ One advantage that this view of the world brings. The view that everything that 
 
 - [Ralph Metzner: Death](https://www.youtube.com/watch?v=gtNvWJM7nhE)
 - [Practicing Death (with 5-MeO-DMT)](https://www.dmt-nexus.me/forum/default.aspx?g=posts&t=75716)
+- [What do people die from?](https://ourworldindata.org/what-does-the-world-die-from)
