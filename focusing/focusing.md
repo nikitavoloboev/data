@@ -22,7 +22,7 @@ I mark the projects and goals I want to focus on right now, and by pressing `Q` 
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
 
-I try to have a completely event driven workflow as I schedule events in my calendar and plan the next day or days ahead of me in the context of my bigger and smaller goals.
+I try to have a completely event driven workflow as I schedule events in my calendar and plan the next day or days ahead of me in context of my bigger and smaller goals.
 
 I use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week/monthly reviews/plans which I often do in the evenings of particular days.
 
