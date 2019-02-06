@@ -41,3 +41,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [HN: Compare career levels across companies (2018)](https://news.ycombinator.com/item?id=18349421)
 - [They rejected Us](https://rejected.us/) ([HN](https://news.ycombinator.com/item?id=18628140))
 - [Top Paying Tech Companies of 2018](https://www.levels.fyi/2018/)
+- [Ask HN: Ex-FAANG developers, where are you now and why? (2018)](https://news.ycombinator.com/item?id=18192534)

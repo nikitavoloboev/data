@@ -1,11 +1,8 @@
 # React components
 
-## Interesting
-
-- [Belle](https://github.com/nikgraf/belle/) - Configurable React Components with great UX.
-
 ## Other
 
+- [Belle](https://github.com/nikgraf/belle/) - Configurable React Components with great UX.
 - [Blueprint](https://github.com/palantir/blueprint) - React-based UI toolkit for the web.
 - [Ant Design](http://ant.design/docs/react/introduce) - UI Design Language.
 - [kit](https://github.com/c8r/kit) - Tools for developing, documenting, and testing React component libraries.
@@ -20,6 +17,7 @@
 - [react-movable](https://github.com/tajo/react-movable) - Drag and drop for your React lists and tables. Accessible. Tiny.
 - [Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React) - Official Semantic-UI-React integration.
 - [React Sidebar](https://github.com/balloob/react-sidebar) - Sidebar component for React.
+- [The Platform](https://github.com/palmerhq/the-platform) - Web API's turned into React Hooks and Suspense-friendly React components.
 
 ## Links
 

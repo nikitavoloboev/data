@@ -58,3 +58,4 @@
 - [yoga-rs](https://github.com/bschwind/yoga-rs) - Rust Wrapper of Facebook's Yoga, a Flexbox layout engine.
 - [ureq](https://github.com/algesten/ureq) - Minimal request library in rust.
 - [redux-rs](https://github.com/redux-rs/redux-rs) - Rust implementation of Redux.
+- [Datafrog](https://github.com/rust-lang-nursery/datafrog) - Lightweight Datalog engine intended to be embedded in other Rust programs.

@@ -17,3 +17,4 @@
 - [Kong](https://github.com/Kong/kong) - Cloud-Native API Gateway & Service Mesh.
 - [Disque](https://github.com/antirez/disque) - Distributed message broker.
 - [Mesh](https://github.com/weaveworks/mesh) - Tool for building distributed applications.
+- [Go Micro](https://github.com/micro/go-micro) - Framework for micro service development.
