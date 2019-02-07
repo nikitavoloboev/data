@@ -52,3 +52,4 @@
 - [Navi](https://github.com/frontarm/navi) - Batteries-included router for React.
 - [Re-implement react fiber (2019)](https://github.com/tranbathanhtung/react-fiber-implement) - Self-study project help understand how react work.
 - [Michael Jackson - Never Write Another HoC (2017)](https://www.youtube.com/watch?v=BcVAq3YFiuc)
+- [Constate](https://github.com/diegohaz/constate) - Scalable state manager using React Hooks & Context.

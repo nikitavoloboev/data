@@ -18,6 +18,7 @@
 - [Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React) - Official Semantic-UI-React integration.
 - [React Sidebar](https://github.com/balloob/react-sidebar) - Sidebar component for React.
 - [The Platform](https://github.com/palmerhq/the-platform) - Web API's turned into React Hooks and Suspense-friendly React components.
+- [Reakit](https://github.com/reakit/reakit) - Toolkit for building really interactive UIs with React.
 
 ## Links
 
