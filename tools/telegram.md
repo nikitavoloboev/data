@@ -23,3 +23,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Telegram Master Bot List](https://docs.google.com/spreadsheets/d/1uQP3f2bWuPapTn_1FUcL67jW9MwLzSjysji39pmyUxY/edit#gid=2104461983)
 - [Teleprompter](https://github.com/r-darwish/Teleprompter) - Ask for user prompt using Telegram.
 - [Telegram iOS](https://github.com/peter-iakovlev/Telegram-iOS)
+- [mtg](https://github.com/9seconds/mtg) - Bullshit-free MTPROTO proxy for Telegram.

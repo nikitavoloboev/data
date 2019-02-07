@@ -24,3 +24,4 @@
 - [SwiftTube](https://github.com/ahmetws/swifttube) - iOS conference videos in one place.
 - [Collection useful tips for the Swift language](https://github.com/vincent-pradeilles/swift-tips#readme)
 - [What’s new in Swift 5.0?](https://github.com/twostraws/whats-new-in-swift-5-0) - Xcode playground that demonstrates the new features introduced in Swift 5.0
+- [Airbnb Swift Style Guide](https://github.com/airbnb/swift#readme)
