@@ -58,3 +58,4 @@
 - [k9s](https://github.com/derailed/k9s) - Provides a curses based terminal UI to interact with your Kubernetes clusters.
 - [Knative build](https://github.com/knative/build) - Kubernetes-native Build resource.
 - [Kubernetes as an API standard (2019)](https://www.cloudatomiclab.com/rustyk8s/)
+- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme)

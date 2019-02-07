@@ -30,3 +30,4 @@
 - [bibliography on Gradual Typing](https://github.com/samth/gradual-typing-bib#readme)
 - [dtslint](https://github.com/Microsoft/dtslint) - Tests a TypeScript declaration file for style and correctness.
 - [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
+- [SonarTS](https://github.com/SonarSource/SonarTS) - Static code analyzer for TypeScript.
