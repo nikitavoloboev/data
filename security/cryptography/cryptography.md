@@ -8,3 +8,4 @@
 - [trezor-crypto](https://github.com/trezor/trezor-crypto) - Heavily optimized cryptography algorithms for embedded devices.
 - [emmy](https://github.com/xlab-si/emmy) - Library for zero-knowledge proof based applications (like anonymous credentials).
 - [s2n](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
+- [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
