@@ -28,3 +28,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) - Specification for adding human and machine readable meaning to commit messages.
 - [git absorb](https://github.com/tummychow/git-absorb) - Git commit --fixup, but automatic.
 - [ghq](https://github.com/motemen/ghq) - Manage remote repository clones.
+- [git-flow](https://github.com/nvie/gitflow) - Collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).

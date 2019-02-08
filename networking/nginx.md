@@ -7,4 +7,5 @@
 ## Links
 
 - [HTTPS-PORTAL](https://github.com/SteveLTN/https-portal#readme) - Fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
-- [NGiИX configuration generator](https://github.com/valentinxxx/nginxconfig.io)
+- [Nginx configuration generator](https://github.com/valentinxxx/nginxconfig.io)
+- [Nginx Quick Reference](https://github.com/trimstray/nginx-quick-reference) ([HN](https://news.ycombinator.com/item?id=19112090)) - Notes describes how to improve Nginx performance, security and other important things.

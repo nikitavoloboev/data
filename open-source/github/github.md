@@ -32,7 +32,5 @@ I publish most of my work and make it open source for other people to use and re
 - [utterances](https://github.com/utterance/utterances) - Lightweight comments widget built on GitHub issues.
 - [github-drama](https://github.com/nikolas/github-drama) - Curated collection of "dramatic" GitHub interactions.
 - [DevHub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Android, iOS and Web.
-- [Act](https://github.com/nektos/act) - Run your GitHub Actions locally.
 - [Probot](https://github.com/probot/probot) - Framework for building GitHub Apps to automate and improve your workflow.
-- [OSS list of GitHub actions](https://github-actions.netlify.com/)
-- [Collection of useful GitHub Actions](https://github.com/maddox/actions#readme)
+- [Git History](https://github.com/pomber/git-history) - Quickly browse the history of any GitHub file.

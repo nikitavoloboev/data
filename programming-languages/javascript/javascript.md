@@ -47,3 +47,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [FromJS](https://github.com/mattzeunert/fromjs) - See where each character on the screen came from in code.
 - [RunJS](https://projects.lukehaas.me/runjs/) - Scratchpad for your thoughts, a playground for your creativity.
 - [Pragmatic, balanced FP in JavaScript book](https://github.com/getify/Functional-Light-JS#readme)
+- [Pack](https://github.com/pikapkg/pack) - Helps you build amazing packages without the hassle.
