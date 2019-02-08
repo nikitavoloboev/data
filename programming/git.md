@@ -29,3 +29,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git absorb](https://github.com/tummychow/git-absorb) - Git commit --fixup, but automatic.
 - [ghq](https://github.com/motemen/ghq) - Manage remote repository clones.
 - [git-flow](https://github.com/nvie/gitflow) - Collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).
+- [gitin](https://github.com/isacikgoz/gitin) - Commit/branch/status explorer for git.

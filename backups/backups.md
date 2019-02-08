@@ -1,10 +1,8 @@
 # Backups
 
-Currently only use encrypted Time Machine backups.
+Currently I use [Arq](https://www.arqbackup.com) to make encrypted cloud backups of macOS to [BackBlaze](https://www.backblaze.com/). iOS as well as `~/Documents`, `~/Desktop` on macOS are automatically backed up to iCloud. Other documents are backed up with [Dropbox](https://www.dropbox.com/).
 
-But in future, I plan to start using [Arq](https://www.arqbackup.com) to make encrypted cloud backups in addition to Time Machine backups.
-
-I love the fact that I can set up any new machine or phone to use my `exact` and perfect setup without any cruft in seconds.
+I love the fact that I can set up any new machine or phone to use my `exact` and perfect setup without any cruft in seconds. All my [dotfiles](https://github.com/nikitavoloboev/dotfiles) are online and can be setup on any new mac via few commands, thanks to [Nix](../package-managers/nix/nix.md).
 
 ## Backup tools
 
