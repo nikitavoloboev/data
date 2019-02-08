@@ -12,6 +12,7 @@
 
 ## Links
 
+- [React as a UI Runtime (2019)](https://overreacted.io/react-as-a-ui-runtime/)
 - [A practical understanding of Flux](http://drewdevault.com/2015/07/20/A-practical-understanding-of-Flux.html)
 - [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
 - [Introduction to The Beginner's Guide to ReactJS](https://egghead.io/lessons/react-introduction-to-the-beginner-s-guide-to-reactjs)

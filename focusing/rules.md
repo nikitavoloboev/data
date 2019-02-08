@@ -139,7 +139,7 @@ Some simple rules to follow for myself doing things.
 - Minimize using word _here_. When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
 - Use headings to separate sections of articles.
 - Use a spellchecker and lint mistakes.
-Don't say _Want to_. Instead say _Will_ in _Changes_. This applies more generally too, try be more proactive with anything I do. Intention counts.
+  Don't say _Want to_. Instead say _Will_ in _Changes_. This applies more generally too, try be more proactive with anything I do. Intention counts.
 
 ## Git
 
@@ -151,6 +151,7 @@ Don't say _Want to_. Instead say _Will_ in _Changes_. This applies more generall
 - Commit changes and push before making a release.
 - When making changes to other projects, respect their Git workflow and commit style.
 - Prefix branch names with `fix/` or `feat/` appropriately.
+- Squash commits before merging.
 
 ## GitHub
 
