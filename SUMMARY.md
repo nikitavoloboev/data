@@ -387,6 +387,7 @@
   - [Rendering](computer-graphics/rendering.md)
   - [Ray Tracing](computer-graphics/ray-tracing.md)
   - [Bezier curves](computer-graphics/bezier-curves.md)
+  - [CUDA](computer-graphics/cuda.md)
 - [Tools](tools/tools.md)
   - [CodeSandbox](tools/codesandbox.md)
   - [GitBook](tools/gitbook.md)

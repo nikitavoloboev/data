@@ -2,7 +2,6 @@
 
 Some things I found funny.
 
-
 ## Links
 
 - [Our architecture: load balancer -> memcached -> memcached -> frontend server -> backend server](https://www.youtube.com/watch?v=jlPaby7suOc)
@@ -16,3 +15,4 @@ Some things I found funny.
 - [Kitze'z tweets](http://kitze-tweets.surge.sh/)
 - [Show HN: Websites in 2018](https://news.ycombinator.com/item?id=18284910)
 - [Every Clojure Talk Ever - Alex Engelberg and Derek Slager (2018)](https://www.youtube.com/watch?v=jlPaby7suOc)
+- [Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away](https://github.com/kleampa/not-paid)
