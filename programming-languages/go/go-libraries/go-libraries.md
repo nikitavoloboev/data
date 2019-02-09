@@ -95,3 +95,5 @@
 - [envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go.
 - [gocraft/work](https://github.com/gocraft/work) - Lets you enqueue and processes background jobs in Go. Jobs are durable and backed by Redis.
 - [easyjson](https://github.com/mailru/easyjson) - Provides a fast and easy way to marshal/unmarshal Go structs to/from JSON without the use of reflection.
+- [go-elasticsearch](https://github.com/elastic/go-elasticsearch) - Official Go client for Elasticsearch.
+- [DiffParser](https://github.com/waigani/diffparser) - Golang package which parse's a git diff.

@@ -4,9 +4,10 @@
 
 - [Anim](https://github.com/onurersel/anim#readme) - Swift animation library for iOS, tvOS and macOS.
 
-## Web
+## Networking
 
 - [Alomofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking.
+- [APIKit](https://github.com/ishkawa/APIKit) - Type-safe networking abstraction layer that associates request type with response type.
 
 ## iOS
 
