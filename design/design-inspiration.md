@@ -108,6 +108,7 @@ Here are few more things I liked, design wise.
 - [Rekka Bellum](https://kokorobot.ca/#about)
 - [Juliette Pretot](https://juliette.sh/)
 - [Max Stoiber](https://mxstbr.com/) - [OSS](https://github.com/mxstbr/mxstbr.com)
+- [Aprile](https://aprileelcich.com/)
 
 ## Other
 

@@ -21,3 +21,5 @@
 - [Accelerating Immunotherapy target discovery using immune repertoire sequencing (2018)](https://www.youtube.com/watch?v=1ZHeoVqw4cQ)
 - [B-T.cr forum](https://b-t.cr/) - Community discussion site about immune repertoire analysis.
 - [B-T.CR Wiki Home](https://b-t.cr/t/b-t-cr-wiki-home/321)
+- [Eliminating Pediatric Cancer Using T-Cell Immunotherapy (2014)](https://www.youtube.com/watch?v=YSuwhjBGNKA)
+- [Genetically modified T-cells hunting down and killing cancer cells. Represents one of the next major frontiers in clinical oncology (2019)](https://www.reddit.com/r/Futurology/comments/aohegg/genetically_modified_tcells_hunting_down_and/)
