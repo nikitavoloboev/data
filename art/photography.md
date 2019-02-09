@@ -15,6 +15,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 - [Daniel Zeller](https://www.artsy.net/artist/daniel-zeller)
 - [Matt Perry](https://mattperry.photography/)
 - [Ian Battaglia](https://unsplash.com/@ianjbattaglia)
+- [Devine Lu Linvega](https://wiki.xxiivv.com/#photography)
 
 ## Links
 

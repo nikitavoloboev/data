@@ -18,33 +18,27 @@ I am very open to the public sharing both the things I know and like and also th
 
 ## My Journals
 
-![](https://i.imgur.com/1QFidAU.png)
+![](https://i.imgur.com/ReT4lQy.png)
 
 ### Life
 
-Writing about my life in a more open and free way. If something memorable happened to my life or I've been through something or want to say something, I write it there.
-
-I also try and make a photograph of me every day. Often doing it a new and different places. I want to do a collage of these pictures in the future. Often I put more than one photo there. The idea is that I can replicate what happened to me from that day just from the photos.
+Private observations & memorable experiences.
 
 ### Travel
 
-I document my travel experiences there. For travel checkins I use [Swarm](https://www.swarmapp.com). And I make lists of places I liked on Foursquare.
+Private travel notes. I post most everything on [Instagram](https://www.instagram.com/nikitavoloboev/).
 
 ### Dreams
 
-My dream journal. I want to lucid dream and to do that you need to remember your dreams. You also need to get into the habit of making reality checks. I write about my dreams briefly in this journal and note down common themes about them, if any.
-
-### Fitness
-
-I track my physical progress there. As I try to be more conscious about my physical health and always trying to become a stronger version of myself every day. I post my progress pictures and my own commentary and thoughts there.
+My dream journal. I want to lucid dream and to do that you need to remember your dreams. You also need to get into the habit of making reality checks. I note down memorable dreams I had briefly in this journal paying attention to common themes across all my dreams, if any.
 
 ### Family
 
-I have a dedicated journal where I put all the memories I shared with my family.
+Contains all the memories I shared with my family.
 
 ### Twitter
 
-I use [IFTTT](../../tools/ifttt.md) to [automatically post all my tweets](https://ifttt.com/applets/56660889d-save-your-tweets-to-day-one) from [Twitter](https://twitter.com/nikitavoloboev) here. Since I do want to lead a more open life, I very often post in the public outlets and share my experiences there so I want to have those experiences in Day One together with my more private memories.
+I use [IFTTT](../../tools/ifttt.md) to [automatically post all my tweets](https://ifttt.com/applets/56660889d-save-your-tweets-to-day-one) from [Twitter](https://twitter.com/nikitavoloboev) here. As I try lead a more open life, I often post in public outlets and share my experiences there so I want to have those experiences in Day One together with my more private memories.
 
 ### Instagram
 
