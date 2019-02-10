@@ -15,3 +15,4 @@
 ## Links
 
 - [HN: Start with a Website, Not a Mobile App (2019)](https://news.ycombinator.com/item?id=18824993)
+- [Reverse indie, Agenda app - Alexander Griekspoor - Do iOS 2018](https://www.youtube.com/watch?v=NI8yYmqHahE)

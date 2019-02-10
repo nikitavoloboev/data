@@ -18,3 +18,4 @@ Might give it a go sometime.
 - [doom-emacs](https://github.com/hlissner/doom-emacs) - Emacs configuration for the stubborn martian vimmer.
 - [HN: Absolute Beginner's Guide to Emacs (2012)](https://news.ycombinator.com/item?id=18598544)
 - [Proof General](https://github.com/ProofGeneral/PG) - Generic Emacs interface for proof assistants.
+- [Emacs X Window Manager](https://github.com/ch11ng/exwm)

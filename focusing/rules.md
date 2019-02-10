@@ -72,7 +72,7 @@ Some simple rules to follow for myself doing things.
 - Go deep. Specialize. Be great at some thing and then branch out.
 - Learn [fundamentals first](https://medium.com/@nikitavoloboev/the-root-of-it-all-9b6ab6a77e1d).
 - Draw. Use drawings and imagination to distill complex ideas.
-- Watch talks & tutorials in 1.5 or 2x speed, unless it hurts comprehension.
+- Watch talks & tutorials in 1.75 or 2x speed, unless it hurts comprehension.
 
 ## Share
 

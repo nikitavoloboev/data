@@ -7,7 +7,7 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [xmonad](http://xmonad.org/) - Tiling WM.
 - [i3](https://github.com/i3/i3) - Tiling WM.
 - [Sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor.
-- [StumpWM](http://stumpwm.github.io/) - Tiling, keyboard driven X11 Window Manager written entirely in Common Lisp.
+- [StumpWM](https://stumpwm.github.io/) - Tiling, keyboard driven X11 Window Manager written entirely in Common Lisp.
 
 ## Launchers
 
