@@ -101,3 +101,7 @@
 - [parse](https://github.com/tdewolff/parse) - Contains several lexers and parsers written in Go.
 - [filetype](https://github.com/h2non/filetype) - Small and dependency free Go package to infer file and MIME type checking the magic numbers signature.
 - [pudge](https://github.com/recoilme/pudge) - Fast and simple key/value store written using Go's standard library.
+
+## Links
+
+- [Awesome Go](https://github.com/avelino/awesome-go#readme)
