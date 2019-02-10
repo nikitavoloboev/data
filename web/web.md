@@ -24,3 +24,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [What, exactly, is the DOM? (2018)](https://bitsofco.de/what-exactly-is-the-dom/)
 - [web.dev](https://web.dev/) - Explore structured curriculums that include both guides and hands-on codelabs.
 - [Ask HN: Go-to web stack today? (2019)](https://news.ycombinator.com/item?id=18829557)
+- [Google's Long March (2019)](https://doriantaylor.com/googles-long-march)
