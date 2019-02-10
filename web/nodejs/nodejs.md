@@ -16,3 +16,5 @@
 - [Nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
 - [Node.js Fundamentals: Web Server Without Dependencies (2018)](https://blog.bloomca.me/2018/12/22/writing-a-web-server-node.html)
 - [node-sqlite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
+- [Pragmatic Modularity (2016)](https://mafinto.sh/blog/pragmatic-modularity.html)
+- [Stability first (2016)](https://mafinto.sh/blog/stability-first.html)

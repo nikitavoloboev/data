@@ -143,6 +143,7 @@
     - [JS libraries](programming-languages/javascript/js-libraries/js-libraries.md)
       - [React](programming-languages/javascript/js-libraries/react/react.md)
         - [React components](programming-languages/javascript/js-libraries/react/react-components.md)
+        - [React Hooks](programming-languages/javascript/js-libraries/react/react-hooks.md)
         - [React Native](programming-languages/javascript/js-libraries/react/react-native.md)
         - [Gatsby JS](programming-languages/javascript/js-libraries/react/gatsby-js.md)
       - [Redux](programming-languages/javascript/js-libraries/redux.md)

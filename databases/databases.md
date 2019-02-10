@@ -11,6 +11,7 @@
 - [RethinkDB](https://www.rethinkdb.com/) - Pushes JSON to your apps in realtime.
 - [RedixDB](https://github.com/alash3al/redix) - Persistent real-time key-value store, with the same redis protocol with powerful features.
 - [AresDB](https://github.com/uber/aresdb) - GPU-powered real-time analytics storage and query engine.
+- [Sophia](https://github.com/pmwkaa/sophia) - Modern transactional key-value/row storage library.
 
 ## Links
 
