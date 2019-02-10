@@ -34,3 +34,4 @@ I publish most of my work and make it open source for other people to use and re
 - [DevHub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Android, iOS and Web.
 - [Probot](https://github.com/probot/probot) - Framework for building GitHub Apps to automate and improve your workflow.
 - [Git History](https://github.com/pomber/git-history) - Quickly browse the history of any GitHub file.
+- [GitStalk](https://gitstalk.netlify.com/) - Discover who's upto what on Github.
