@@ -12,12 +12,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Theremin](http://en.wikipedia.org/wiki/Theremin)
   - [Carolina Eyck - Painting for theremin and voice](https://www.youtube.com/watch?v=hGo2ZQuBJKQ)
 
-## Torrent sites
-
-- [iDope](https://idope.top/)
-- [DIGBT](https://www.digbt.org/)
-- [What is the hottest general torrent site right now? (2018)](https://www.reddit.com/r/Piracy/comments/9vy0oe/what_is_the_hottest_general_torrent_site_right_now/)
-
 ## Notes
 
 - Specify a pick point for delivery if I won't be home during the delivery time.

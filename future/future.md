@@ -1,10 +1,5 @@
 # Future
 
-## Interesting
-
-- [Charles Hoskinson - The Road Ahead](https://www.youtube.com/watch?v=Hu9-j2H9qQY)
-- [IOT + Sensors (with security)](https://www.youtube.com/watch?v=MM2AxeACt9Q)
-
 ## ~ 2030
 
 - People wake up and animals get actual rights and are no longer forced to endure life in slaughterhouses. Being vegan is normal. Caring is normal.

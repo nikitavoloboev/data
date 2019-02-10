@@ -311,6 +311,7 @@
   - [DNS](networking/dns.md)
   - [Peer to peer](networking/peer-to-peer/peer-to-peer.md)
     - [IPFS](networking/peer-to-peer/ipfs.md)
+    - [BitTorrent](networking/peer-to-peer/bittorrent.md)
   - [Internet of things](networking/iot/iot.md)
     - [LoRaWAN](networking/iot/lorawan.md)
   - [Microservices](networking/microservices.md)
