@@ -46,3 +46,4 @@
 - [Nix RFCs](https://github.com/NixOS/rfcs#readme)
 - [nix-linter](https://github.com/Synthetica9/nix-linter) - Linter for the Nix expression language.
 - [Install Nix docs by Mozilla](https://docs.mozilla-releng.net/develop/install-nix.html) - Pretty good.
+- [Nix scripts shared across IOHK projects](https://github.com/input-output-hk/iohk-nix)

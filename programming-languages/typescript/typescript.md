@@ -31,3 +31,4 @@
 - [dtslint](https://github.com/Microsoft/dtslint) - Tests a TypeScript declaration file for style and correctness.
 - [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
 - [SonarTS](https://github.com/SonarSource/SonarTS) - Static code analyzer for TypeScript.
+- [TypeScript TSLint Language Service Plugin](https://github.com/Microsoft/typescript-tslint-plugin)

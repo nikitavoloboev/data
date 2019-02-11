@@ -26,6 +26,10 @@
 
 - [qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts.
 
+## State management
+
+- [Overmind](https://github.com/cerebral/overmind) - Frictionless state management.
+
 ## Other
 
 - [micro github](https://github.com/mxstbr/micro-github) - Tiny microservice that makes adding authentication with GitHub to your application easy.
