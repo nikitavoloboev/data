@@ -55,6 +55,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Indie Hackers](https://www.indiehackers.com/user/nikivi) - Awesome community of hackers and entrepreneurs.
 - [Mastodon](https://merveilles.town/@nikivi) - Awesome federated network. Part of [Merveilles.town](https://merveilles.town/).
 - [Meetup](https://www.meetup.com/members/185347053/) - Attending various groups and meeting new interesting people and communities.
+- [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - My online CV.
 - [Facebook](https://facebook.com/nikitavoloboev) - Not used much.
 
 ## Photos
@@ -97,7 +98,6 @@ These are my personal profiles on various websites sorted by categories.
 
 - [Keybase](https://keybase.io/nikitavoloboev) - Holds my public PGP key. I also prove my identity on various websites there.
 - [Etsy](https://www.etsy.com/people/nikitavoloboev) - If I ever make something with my hands, I will probably share it there.
-- [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - My online CV.
 - [Leanpub](https://leanpub.com/u/nikitavoloboev) - Will publish my books there. Once I write them.
 - [Angel List](https://angel.co/nikitavoloboev) - Sometimes use it to find interesting startups to apply to.
 - [Home](https://nikitavoloboev.xyz) - My personal home page on the internet.
