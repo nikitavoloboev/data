@@ -54,8 +54,8 @@ These are my personal profiles on various websites sorted by categories.
 - [Product Hunt](https://www.producthunt.com/@nikitavoloboev) - Share all my bigger and smaller projects I made there.
 - [Indie Hackers](https://www.indiehackers.com/user/nikivi) - Awesome community of hackers and entrepreneurs.
 - [Mastodon](https://mastodon.xyz/@nikivi) - Pretty awesome federated network. Looking for interesting communities there.
-- [Google+](https://plus.google.com/u/0/+nikitavoloboev)
 - [Meetup](https://www.meetup.com/members/185347053/) - Attending various groups and meeting new interesting people and communities.
+- [Facebook](https://facebook.com/nikitavoloboev) - Not used much.
 
 ## Photos
 

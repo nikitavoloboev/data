@@ -27,6 +27,7 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [MPV](https://mpv.io/) - Free, open source, and cross-platform media player.
 - [Tilix](https://github.com/gnunn1/tilix) - Tiling terminal emulator.
 - [fwupd](https://github.com/hughsie/fwupd) - Simple daemon to allow session software to update firmware.
+- [linux-inject](https://github.com/gaffe23/linux-inject) - Tool for injecting a shared object into a Linux process.
 
 ## Links
 
