@@ -39,3 +39,4 @@ I am interested in getting [Preonic Light](https://www.massdrop.com/buy/massdrop
 - [Keymap & EN/RU layouts for Levinson 40% split ortholinear keyboard](https://github.com/tonsky/Levinson-Layout)
 - [KeyHive](https://keyhive.xyz/) - Personalize Your Keyboard.
 - [My Corne keyboard (crkbd-classic) - Split, column staggered with 3-thumb keys](https://www.reddit.com/r/MechanicalKeyboards/comments/9i5uo3/my_corne_keyboard_crkbdclassic_split_column/)
+- [Awesome Split Keyboards](https://github.com/diimdeep/awesome-split-keyboards#readme)
