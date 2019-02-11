@@ -5,11 +5,11 @@ These are my personal profiles on various websites sorted by categories.
 ## Code
 
 - [GitHub](https://github.com/nikitavoloboev) - Share all my code there.
-- [CodePen](https://codepen.io/nikitavoloboev/) - Hope to use it more often to experiment with web things.
-- [GitHub Gists](https://gist.github.com/nikitavoloboev) - Sharing all my Code Snippets. Created with [SnippetsLab](https://www.renfei.org/snippets-lab/).
+- [GitHub Gists](https://gist.github.com/nikitavoloboev) - Sharing all my code snippets. Created with [SnippetsLab](https://www.renfei.org/snippets-lab/).
 - [Stack Overflow](https://stackoverflow.com/users/3067664/nikita-voloboev?tab=profile) - Asking and answering questions.
-- [LeetCode](https://leetcode.com/nikivi) - Preparing for technical interviews.
 - [NPM](https://www.npmjs.com/~nikitavoloboev) - All the node modules I released.
+- [CodePen](https://codepen.io/nikitavoloboev/) - Hope to use it more often to experiment with web things.
+- [LeetCode](https://leetcode.com/nikivi) - Preparing for technical interviews.
 - [FreeCodeCamp](https://www.freecodecamp.com/nikitavoloboev) - Haven't completed it fully.
 - [Codementor](https://www.codementor.io/nikitavoloboev) - Never used it.
 - [Asciinema](https://asciinema.org/~nikivi) - Sharing terminal sessions for showcasing CLI tools and other things.
@@ -47,13 +47,13 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Social
 
-- [Twitter](https://twitter.com/nikitavoloboev) - Sharing all the different things I am up to right now.
+- [Twitter](https://twitter.com/nikitavoloboev) - Sharing all the things I am up to right now.
 - [Reddit](https://www.reddit.com/user/nikivi/) - Frequently visiting and contributing to various subreddits I like.
 - [Lobsters](https://lobste.rs/u/nikivi) - Frequently visit and contribute to this Hacker News like community.
 - [Hacker News](https://news.ycombinator.com/user?id=nikivi) - Often share things I built there.
 - [Product Hunt](https://www.producthunt.com/@nikitavoloboev) - Share all my bigger and smaller projects I made there.
 - [Indie Hackers](https://www.indiehackers.com/user/nikivi) - Awesome community of hackers and entrepreneurs.
-- [Mastodon](https://mastodon.xyz/@nikivi) - Pretty awesome federated network. Looking for interesting communities there.
+- [Mastodon](https://merveilles.town/@nikivi) - Awesome federated network. Part of [Merveilles.town](https://merveilles.town/).
 - [Meetup](https://www.meetup.com/members/185347053/) - Attending various groups and meeting new interesting people and communities.
 - [Facebook](https://facebook.com/nikitavoloboev) - Not used much.
 
