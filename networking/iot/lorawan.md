@@ -21,4 +21,4 @@
 - [The Problem with LoRa (2018)](https://hackernoon.com/the-problem-with-lora-af4f5263d378)
 - [The Things Network Stack for LoRaWAN](https://github.com/TheThingsNetwork/lorawan-stack) - Open-source LoRaWAN network stack suitable for large, global and geo-distributed public and private networks as well as smaller networks.
 - [TTN LoRaWAN v3 stack explanation](https://www.youtube.com/watch?v=CeSvqkxg25c)
-- [Driving down the total cost of ownership of LoRaWAN deployments (2019)](https://www.youtube.com/watch?v=HJFkV8qqhr4&feature=youtu.be&t=927)
+- [Driving down the total cost of ownership of LoRaWAN deployments (2019)](https://www.youtube.com/watch?v=HJFkV8qqhr4)
