@@ -2,7 +2,7 @@
 
 I exclude all foods that are not healthy and experiment with many [vegan recipes](https://github.com/nikitavoloboev/vegan-recipes/#readme) from the many foods that are healthy. I follow a whole food, plant based diet.
 
-Most of my diet consists of eating almonds, walnuts, blueberries, bananas and avocados. I try to eat a set of foods daily (300g blueberries, 2 avocados, 1 broccoli, 50g walnuts). Having it as a ready made recipe in [Cronometer](https://cronometer.com) makes it easy to track too.
+Most of my diet consists of eating almonds, walnuts, blueberries, bananas and avocados. I try to eat a set of foods daily (300g blueberries, 2 avocados, 1 broccoli, 50g walnuts) at minimum (Daily Mix). Having it as a ready made recipe in [Cronometer](https://cronometer.com) makes it easy to track too.
 
 ![](https://i.imgur.com/DGk1RP4.jpg)
 

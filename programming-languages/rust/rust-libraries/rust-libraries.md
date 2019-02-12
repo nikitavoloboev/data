@@ -60,3 +60,5 @@
 - [redux-rs](https://github.com/redux-rs/redux-rs) - Rust implementation of Redux.
 - [Datafrog](https://github.com/rust-lang-nursery/datafrog) - Lightweight Datalog engine intended to be embedded in other Rust programs.
 - [kubernetes-rs](https://github.com/anguslees/kubernetes-rs) - Kubernetes API client library for Rust.
+- [jemallocator](https://github.com/gnzlbg/jemallocator) - Rust allocator using jemalloc as a backend.
+- [cargo-asm](https://github.com/gnzlbg/cargo-asm) - Cargo subcommand showing the assembly or llvm-ir generated for Rust code.
