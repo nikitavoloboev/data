@@ -62,6 +62,7 @@ As well as a few other Slack communities like:
 And these Discord servers:
 
 - [Reactiflux](https://discord.gg/9pZJYR9)
+- [Rust Programming Language](https://discordapp.com/invite/rust-lang)
 - [ReasonML](https://discord.gg/Agv7fMN)
 - [Python](https://pythondiscord.com/)
 - [Functional programming](https://discord.gg/xQwR7P7)

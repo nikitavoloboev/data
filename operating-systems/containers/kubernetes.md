@@ -59,3 +59,4 @@
 - [Knative build](https://github.com/knative/build) - Kubernetes-native Build resource.
 - [Kubernetes as an API standard (2019)](https://www.cloudatomiclab.com/rustyk8s/)
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme)
+- [Cerebral](https://github.com/containership/cerebral) - Kubernetes cluster autoscaler with pluggable metrics backends and scaling engines.

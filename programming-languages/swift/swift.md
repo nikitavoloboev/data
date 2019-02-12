@@ -1,5 +1,7 @@
 # [Swift](https://developer.apple.com/swift/)
 
+Plan to spend more time with it as [SourceKit-LSP](https://github.com/apple/sourcekit-lsp#readme) matures. Xcode is garbage compared to VS Code.
+
 ## Links
 
 - [Swift Tips by Sundell](https://github.com/JohnSundell/SwiftTips)
@@ -26,3 +28,4 @@
 - [What’s new in Swift 5.0?](https://github.com/twostraws/whats-new-in-swift-5-0) - Xcode playground that demonstrates the new features introduced in Swift 5.0
 - [Airbnb Swift Style Guide](https://github.com/airbnb/swift#readme)
 - [Swift Community Podcast](https://github.com/SwiftCommunityPodcast/podcast#readme)
+- [Periphery](https://github.com/peripheryapp/periphery) - Eliminate unused Swift code.
