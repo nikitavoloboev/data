@@ -102,6 +102,7 @@
 - [filetype](https://github.com/h2non/filetype) - Small and dependency free Go package to infer file and MIME type checking the magic numbers signature.
 - [pudge](https://github.com/recoilme/pudge) - Fast and simple key/value store written using Go's standard library.
 - [Wire](https://github.com/google/wire) - Code generation tool that automates connecting components using dependency injection.
+- [go-consistent](https://github.com/Quasilyte/go-consistent) - Source code analyzer that helps you to make your Go programs more consistent.
 
 ## Links
 

@@ -23,3 +23,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Refactoring UI](https://refactoringui.com/) - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.
 - [Cloudflare Design](https://cloudflare.design/color/) - Preview palettes against UI elements.
 - [Curated list of UI styleguides](https://github.com/streamich/awesome-styleguides#readme)
+- [The ineffectiveness of lonely icons (2019)](https://mattwilcox.net/musing/the-ineffectiveness-of-icons)
