@@ -1,6 +1,6 @@
 # My 2Do tasks
 
-This is just contents of my never ending lists of tasks I tagged in [2Do](../macOS/apps/2do.md) with varying tags like `read`, `learn` and `watch`.
+This is just contents of my never ending lists of tasks I tagged in [2Do](../macOS/apps/2do.md) with varying tags like `read`, `watch` and `check`.
 
 All lists are sorted by priority. I hope to bring all these lists closer to 0 when I get time. But until then, perhaps you will find something interesting in them.
 
