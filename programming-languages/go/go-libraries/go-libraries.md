@@ -103,6 +103,7 @@
 - [pudge](https://github.com/recoilme/pudge) - Fast and simple key/value store written using Go's standard library.
 - [Wire](https://github.com/google/wire) - Code generation tool that automates connecting components using dependency injection.
 - [go-consistent](https://github.com/Quasilyte/go-consistent) - Source code analyzer that helps you to make your Go programs more consistent.
+- [Webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows).
 
 ## Links
 
