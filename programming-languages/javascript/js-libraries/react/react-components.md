@@ -20,6 +20,7 @@
 - [The Platform](https://github.com/palmerhq/the-platform) - Web API's turned into React Hooks and Suspense-friendly React components.
 - [Reakit](https://github.com/reakit/reakit) - Toolkit for building really interactive UIs with React.
 - [libreact](https://github.com/streamich/libreact) - Collection of useful React components.
+- [React Circular Progressbar](https://github.com/iqnivek/react-circular-progressbar) - Circular progress indicator.
 
 ## Links
 

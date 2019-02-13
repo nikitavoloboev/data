@@ -18,6 +18,10 @@
 
 - [SwiftTwitch](https://github.com/Chris-Perkins/SwiftTwitch) - Library intended for client-facing applications interaction with the New Twitch API, Helix.
 
+## ML
+
+- [Swift for TensorFlow APIs](https://github.com/tensorflow/swift-apis)
+
 ## Other
 
 - [Runtime](https://github.com/wickwirew/Runtime) - Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.

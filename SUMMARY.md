@@ -342,6 +342,7 @@
   - [Exercises](fitness/exercises.md)
 - [Medicine](medicine/medicine.md)
   - [Diseases](medicine/diseases/diseases.md)
+    - [Cancer](medicine/diseases/cancer.md)
 - [History](history/history.md)
   - [Anthropology](history/anthropology.md)
 - [Travel](travel/travel.md)

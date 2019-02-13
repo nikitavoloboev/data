@@ -13,3 +13,4 @@
 - [GraphQL Shield](https://github.com/maticzav/graphql-shield) - GraphQL tool to ease the creation of permission layer.
 - [modelizr](https://github.com/julienvincent/modelizr) - Generate GraphQL queries from models that can be mocked and normalized.
 - [GraphQL Nexus](https://github.com/prisma/nexus) - Declarative, code-first and strongly typed GraphQL schema construction for TypeScript & JavaScript.
+- [Thunder](https://github.com/samsarahq/thunder) - Go framework for rapidly building powerful graphql services.

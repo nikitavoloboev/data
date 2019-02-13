@@ -168,6 +168,14 @@ Below is a list of extensions I use.
 
 - [Nix language support](https://marketplace.visualstudio.com/items?itemName=bbenoist.Nix)
 
+## Julia
+
+- [Julia](https://marketplace.visualstudio.com/items?itemName=julialang.language-julia) - Julia Language Support.
+
+## Deno
+
+- [Deno](https://marketplace.visualstudio.com/items?itemName=ameerthehacker.deno-vscode) - Enhance development experience for Deno.
+
 ## Themes
 
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
