@@ -7,8 +7,8 @@ All lists are sorted by priority. I hope to bring all these lists closer to 0 wh
 Here are the lists I share so far.
 
 - [Read](#read)
-- [Learn](#learn)
 - [Watch](#watch)
+- [Check](#check)
 
 ## Read
 
