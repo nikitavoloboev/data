@@ -8,6 +8,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 - [Michael Kenna](https://www.artsy.net/artist/michael-kenna)
 - [Simen Johan](http://www.simenjohan.com/x/index.html)
 - [Samuel Zeller](https://archive.samuelzeller.ch/) - His [Botanical](https://www.samuelzeller.ch/botanical) project is awesome.
+- [Thomas Heaton](https://www.instagram.com/heatonthomas/)
 
 ## Interesting photographers
 
