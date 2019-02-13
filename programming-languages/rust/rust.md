@@ -35,3 +35,4 @@
 - [crates.io](https://github.com/rust-lang/crates.io) - Source code for [crates.io](https://crates.io/)
 - [Read Rust](https://readrust.net/) - Collects interesting posts related to the Rust programming language.
 - [A Quick Look at Trait Objects in Rust (2019)](https://tratt.net/laurie/blog/entries/a_quick_look_at_trait_objects_in_rust.html)
+- [Teach Rust (2019)](https://github.com/ferrous-systems/rust-three-days-course) - Free workshop material to use to give a course introducing the Rust programming language.

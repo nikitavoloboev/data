@@ -4,6 +4,7 @@
 
 - [Constate](https://github.com/diegohaz/constate) - Scalable state manager using React Hooks & Context.
 - [Collection of essential React Hooks](https://github.com/streamich/react-use)
+- [useHooks](https://usehooks.com/) - Easy to understand React Hook recipes by Gabe Ragland.
 
 ## Links
 
