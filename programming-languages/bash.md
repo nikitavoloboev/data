@@ -1,8 +1,6 @@
 # Bash
 
-Not too experienced with Bash. But I do know that you have to **quote your variables**!
-
-Also it's useful to use [SpellCheck](https://www.shellcheck.net).
+It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any shell code you write.
 
 ## Notes
 

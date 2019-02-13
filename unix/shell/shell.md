@@ -23,3 +23,4 @@ All active variables can be seen by running `env`.
 - [Yoshua's notes](https://yoshuawuyts.gitbooks.io/knowledge/content/unix/shell.html)
 - [Shell Auto-completion Systems](http://dundalek.com/entropic/shell-auto-completion/)
 - [Shell and Scripting (2019)](https://hacker-tools.github.io/shell/)
+- [ShellCheck](https://www.shellcheck.net) - Finds bugs in your shell scripts.
