@@ -44,6 +44,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
 - [Snap.as](https://snap.as/) - Permanent home for your photos.
 - [Jsonnet](https://github.com/google/jsonnet) - Data templating language.
+- [fastmod](https://github.com/facebookincubator/fastmod) - Fast partial replacement for the codemod tool.
 
 ## Notes
 

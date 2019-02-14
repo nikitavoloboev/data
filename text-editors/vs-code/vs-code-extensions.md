@@ -47,10 +47,6 @@ Below is a list of extensions I use.
 
 - [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - Provide all-in-one features and utilities for LaTeX typesetting.
 
-## CSS
-
-- [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information CSS colors.
-
 ## Theme
 
 - [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-night#readme)
@@ -122,6 +118,7 @@ Below is a list of extensions I use.
 ## CSS
 
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [Stylelint](https://stylelint.io/).
+- [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information CSS colors.
 
 ## Elixir
 

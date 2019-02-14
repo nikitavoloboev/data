@@ -42,3 +42,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [They rejected Us](https://rejected.us/) ([HN](https://news.ycombinator.com/item?id=18628140))
 - [Top Paying Tech Companies of 2018](https://www.levels.fyi/2018/)
 - [Ask HN: Ex-FAANG developers, where are you now and why? (2018)](https://news.ycombinator.com/item?id=18192534)
+- [Don't Call Yourself A Programmer, And Other Career Advice (2011)](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
