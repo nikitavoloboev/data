@@ -1,7 +1,5 @@
 # [ReasonML](https://reasonml.github.io)
 
-[This]() is a great intro.
-
 ## Links
 
 - [Exploring ReasonML](http://reasonmlhub.com/exploring-reasonml/toc.html)
