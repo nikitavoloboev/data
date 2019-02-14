@@ -284,6 +284,7 @@
     - [Google Chrome](web/browsers/google-chrome/google-chrome.md)
       - [Chrome DevTools](web/browsers/google-chrome/chrome-dev-tools.md)
     - [Firefox](web/browsers/firefox.md)
+    - [WebRTC](web/webrtc.md)
     - [Bookmarklets](web/browsers/bookmarklets.md)
     - [Stylish themes](web/browsers/stylish-themes.md)
   - [Static sites](web/static-sites/static-sites.md)

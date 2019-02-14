@@ -4,9 +4,10 @@ I maintain a big list of apps I use on my system [here](https://github.com/nikit
 
 And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full list of the apps I have inside my `/Applications` folder.
 
-## Nice OSS macOS Swift apps
+## Nice OSS macOS Swift/ObjC apps
 
 - [Twig](https://github.com/lukakerr/twig/) - Modern macOS markdown editor.
+- [Sloth](https://github.com/sveinbjornt/Sloth) - Displays all open files and sockets in use by all running processes on your system.
 
 ## Links
 

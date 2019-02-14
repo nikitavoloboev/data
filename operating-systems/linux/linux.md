@@ -38,3 +38,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [HN: Linux: IO without entering the kernel (2018)](https://news.ycombinator.com/item?id=18692376)
 - [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide#readme)
 - [libfuse](https://github.com/libfuse/libfuse) - Reference implementation of the Linux FUSE (Filesystem in Userspace) interface.
+- [Darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux.
