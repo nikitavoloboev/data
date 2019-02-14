@@ -45,6 +45,7 @@
   3. Build your roadmap by doubling down on what users love and addressing what holds others back.
   4. Repeat the process and make the product/market fit score the most important metric.
 - [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7) ([HN](https://news.ycombinator.com/item?id=19105733))
+- [Startup CEO Reading List](https://github.com/AndySparks/captains-log/blob/master/resources/reading-lists/startup-ceo-reading-list.md)
 
 ## Images
 
