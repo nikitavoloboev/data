@@ -24,3 +24,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Cloudflare Design](https://cloudflare.design/color/) - Preview palettes against UI elements.
 - [Curated list of UI styleguides](https://github.com/streamich/awesome-styleguides#readme)
 - [The ineffectiveness of lonely icons (2019)](https://mattwilcox.net/musing/the-ineffectiveness-of-icons)
+- [Awesome Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#readme)

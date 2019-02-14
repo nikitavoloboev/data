@@ -1,6 +1,6 @@
 # [ReasonML](https://reasonml.github.io)
 
-[This](https://www.imaginarycloud.com/blog/reasonml-react-as-first-intended/) is a great intro.
+[This]() is a great intro.
 
 ## Links
 
@@ -21,3 +21,5 @@
 - [Reason OCaml Language Reference](https://github.com/jordwalke/reasonml-manual)
 - [Reason Design Patterns](https://github.com/ostera/reason-design-patterns) - Unofficial collection of "design patterns" for Reason and OCaml.
 - [Revery](https://github.com/revery-ui/revery) - Native, high-performance, cross-platform desktop apps - built with Reason! ([HN](https://news.ycombinator.com/item?id=18994837))
+- [ReasonML - React as first intended (2018)](https://www.imaginarycloud.com/blog/reasonml-react-as-first-intended/)
+- [Creating a CLI with Reason native (2019)](https://rolflekang.com/creating-a-cli-with-reason-native)

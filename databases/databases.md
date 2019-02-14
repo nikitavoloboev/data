@@ -13,6 +13,10 @@
 - [AresDB](https://github.com/uber/aresdb) - GPU-powered real-time analytics storage and query engine.
 - [Sophia](https://github.com/pmwkaa/sophia) - Modern transactional key-value/row storage library.
 
+## Tools
+
+- [TablePlus](https://tableplus.io/)
+
 ## Links
 
 - [Stanford DB course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
