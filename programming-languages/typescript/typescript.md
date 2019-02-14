@@ -34,3 +34,4 @@
 - [TypeScript TSLint Language Service Plugin](https://github.com/Microsoft/typescript-tslint-plugin)
 - [TypeScript Guidelines](https://github.com/unional/typescript-guidelines#readme) - Guideline to focus on how to write effective TypeScript with minimal effort.
 - [Practical Advanced TypeScript](https://egghead.io/courses/practical-advanced-typescript)
+- [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) - Generate json-schemas from your Typescript sources.
