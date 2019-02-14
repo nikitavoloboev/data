@@ -8,6 +8,12 @@ It also has global quick add with a hotkey. Together with lists, priorities, pow
 
 ![](https://i.imgur.com/b9lGFs0.png)
 
+## My 2Do tasks shared
+
+I share [contents of some of my never ending lists of tasks I tagged in 2Do](https://gist.github.com/nikitavoloboev/c8b71bfb06634877bbcf94ef2fc0c95f) with `read`, `watch` and `check` tags.
+
+All lists are sorted by priority. I hope to bring all these lists closer to 0 when I get time. But until then, perhaps you will find something interesting in them.
+
 ## Managing tasks with tags
 
 My main way of managing tasks is with **tags**. This lets me give scope to the task I want to complete and lets me filter through the many thousands of tasks I have in my **Inbox**.
@@ -19,8 +25,6 @@ I also add time estimate tags to tasks that I think might take me 1 hour or long
 ![](https://i.imgur.com/Zhuqn1a.png)
 
 I share the same philosophy of `Always` and `Temporary` projects as I have in my [Focus Trello board](../../focusing/focusing.md).
-
-Given my growing collection of tasks I am yet to do. Some 2,000 pending tasks. I decided to share [some tasks I keep in 2Do publicly](../../other/2do-tasks.md).
 
 And here are the other tags I use:
 

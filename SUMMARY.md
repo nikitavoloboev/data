@@ -515,7 +515,6 @@
   - [Funny](other/funny.md)
   - [Puzzles](other/puzzles.md)
   - [Used hotkeys](other/used-hotkeys.md)
-  - [2Do tasks](other/2do-tasks.md)
   - [Web presence](other/web-presence.md)
 - [Looking back](looking-back/looking-back.md)
   - [2017](looking-back/2017/2017.md)
