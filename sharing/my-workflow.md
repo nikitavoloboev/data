@@ -18,11 +18,10 @@ I try to be methodical in working and doing things. And I use the best tools and
 
 - [2Do](../macOS/apps/2do.md) - Personal day-to-day tasks. Every task is actionable.
 - [Trello](../macOS/apps/trello.md) - Public and personal boards used for different projects centered around my one [Focus](../focusing/focusing.md) board.
-- [Bee](https://www.neat.io/bee/) - GitHub issues. All issues I want to work on soon are put into **Next** queue and I work through each one, one by one.
 
 ## Time management
 
-- [Fantastical](../macOS/apps/fantastical.md) - I plan work for the entire day ahead and my day is primarily guided by the events I create. I use **Week** view with **5 days** from current day shown in the app. This gives me a perspective on what deadlines I have soon to complete and I can adjust my events as necessary and plan accordingly.
+- [Fantastical](../macOS/apps/fantastical.md) - I plan events in advance for entire day ahead and my day is primarily guided by these events. I use **Week** view with **5 days** from current day shown in the app. This gives me a perspective on what deadlines I have soon to complete and I can adjust my events as necessary and plan accordingly.
 - [Timing](../macOS/apps/timing.md) - Track all time I spend there. I automate as much of the tracking as possible so Timing learns from what I do and it's easy to fill out the sections after.
 
 ## Knowledge Indexing

@@ -2,7 +2,7 @@
 
 ## Other
 
-- [primer/deploy](https://github.com/primer/deploy) - Deploy to Now from GitHub Actions with useful aliases.
+- [Deploy Now](https://github.com/primer/deploy) - Deploy to Now from GitHub Actions with useful aliases.
 
 ## Links
 
