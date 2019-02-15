@@ -1,5 +1,9 @@
 # [GitHub actions](https://github.com/features/actions)
 
+## Other
+
+- [primer/deploy](https://github.com/primer/deploy) - Deploy to Now from GitHub Actions with useful aliases.
+
 ## Links
 
 - [OSS list of GitHub actions](https://github-actions.netlify.com/)

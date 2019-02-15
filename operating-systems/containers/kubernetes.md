@@ -60,3 +60,4 @@
 - [Kubernetes as an API standard (2019)](https://www.cloudatomiclab.com/rustyk8s/)
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme)
 - [Cerebral](https://github.com/containership/cerebral) - Kubernetes cluster autoscaler with pluggable metrics backends and scaling engines.
+- [Skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development.

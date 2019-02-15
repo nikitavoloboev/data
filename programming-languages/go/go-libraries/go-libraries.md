@@ -54,7 +54,7 @@
 - [Go prompt](https://github.com/c-bata/go-prompt)
 - [The Joy compiler](https://mat.tm/joy/#faq)
 - [Graphql](https://github.com/machinebox/graphql)
-- [ws](https://github.com/gobwas/ws) - Websocket.
+- [ws](https://github.com/gobwas/ws) - WebSocket implementation in Go.
 - [GraphQL](https://github.com/graphql-go/graphql) - Implementation of GraphQL.
 - [GraphQL](https://github.com/machinebox/graphql) - Simple low-level GraphQL HTTP client.
 - [Mock](https://github.com/golang/mock) - Mocking framework.
@@ -104,6 +104,7 @@
 - [Wire](https://github.com/google/wire) - Code generation tool that automates connecting components using dependency injection.
 - [go-consistent](https://github.com/Quasilyte/go-consistent) - Source code analyzer that helps you to make your Go programs more consistent.
 - [Webview](https://github.com/zserge/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and MSHTML (Windows).
+- [sse](https://github.com/manucorporat/sse) - Server-Sent Events implementation in Go. Used by the Gin Framework.
 
 ## Links
 
