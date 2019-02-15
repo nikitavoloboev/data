@@ -14,3 +14,4 @@
 - [Translate](https://github.com/pytorch/translate) - PyTorch Language Library.
 - [What is torch.nn really?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
 - [Introduction to PyTorch Workshop at the AMLD 2019](https://github.com/ahug/amld-pytorch-workshop)
+- [Neural Pipeline](https://github.com/toodef/neural-pipeline) - Neural networks training pipeline based on PyTorch. Designed to standardize training process and accelerate experiments.
