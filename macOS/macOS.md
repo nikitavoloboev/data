@@ -33,3 +33,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [maclaunchmaclaunch](https://github.com/HazCod/maclaunch) - Manage your macOS startup items.
 - [Objective-See](https://www.objective-see.com/) - Simple, yet effective macOS security tools.
 - [Caliguvara - another approach to Touch Bar Presets (2019)](https://community.folivora.ai/t/caliguvara-another-approach-to-touch-bar-presets/6561)
+- [AppUpdater](https://github.com/mxcl/AppUpdater) - Simple app-updater for macOS, checks your GitHub releases for a binary asset once a day and silently updates your app.

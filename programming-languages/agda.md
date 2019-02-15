@@ -9,3 +9,4 @@
 - [Categories](https://github.com/copumpkin/categories) - Categories parametrized by morphism equality, in Agda.
 - [Programming Language Foundations in Agda (2018)](https://plfa.github.io/)
 - [(n,r)-categories in agda](https://github.com/freebroccolo/agda-nr-cats)
+- [Higher-Order Pattern Unification in Agda](https://github.com/Saizan/miller)
