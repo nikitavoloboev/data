@@ -470,6 +470,7 @@
 - [LaTeX](latex/latex.md)
 - [Robots](robots/robots.md)
 - [NLP](nlp/nlp.md)
+  - [Virtual assistant](nlp/virtual-assistant.md)
 - [Virtual Reality](virtual-reality/virtual-reality.md)
 - [Augmented Reality](augmented-reality/augmented-reality.md)
 - [Neuroscience](neuroscience/neuroscience.md)

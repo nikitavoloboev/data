@@ -12,3 +12,4 @@ I especially like the distinction of distributing content over distributing link
 
 - [Go IPFS](https://github.com/ipfs/go-ipfs)
 - [JS IPFS](https://github.com/ipfs/js-ipfs)
+- [Share files via IPFS](https://github.com/ipfs-shipyard/ipfs-share-files)

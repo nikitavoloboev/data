@@ -3,6 +3,7 @@
 ## Testing
 
 - [Catch2](https://github.com/catchorg/Catch2) - Modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later.
+- [Google Test](https://github.com/google/googletest) - Google Testing and Mocking Framework.
 
 ## Concurrency
 

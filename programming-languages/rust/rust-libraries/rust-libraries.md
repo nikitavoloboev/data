@@ -66,3 +66,4 @@
 - [evmap](https://github.com/jonhoo/rust-evmap) - Lock-free, eventually consistent, concurrent multi-value map.
 - [Headless Chrome](https://github.com/atroche/rust-headless-chrome) - Puppeteer for Rust.
 - [rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack.
+- [Ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs.

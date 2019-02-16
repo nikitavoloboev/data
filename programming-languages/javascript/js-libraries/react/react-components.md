@@ -21,6 +21,7 @@
 - [Reakit](https://github.com/reakit/reakit) - Toolkit for building really interactive UIs with React.
 - [libreact](https://github.com/streamich/libreact) - Collection of useful React components.
 - [React Circular Progressbar](https://github.com/iqnivek/react-circular-progressbar) - Circular progress indicator.
+- [React Window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data.
 
 ## Links
 
