@@ -163,6 +163,7 @@
   - [Elixir](programming-languages/elixir/elixir.md)
     - [Elixir libraries](programming-languages/elixir/elixir-libraries.md)
   - [Java](programming-languages/java/java.md)
+    - [Java libraries](programming-languages/java/java-libraries.md)
   - [Lisp](programming-languages/lisp/lisp.md)
     - [Common Lisp](programming-languages/lisp/common-lisp.md)
     - [Scheme](programming-languages/lisp/scheme.md)

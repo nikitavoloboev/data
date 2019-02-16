@@ -18,3 +18,4 @@
 - [Disque](https://github.com/antirez/disque) - Distributed message broker.
 - [Mesh](https://github.com/weaveworks/mesh) - Tool for building distributed applications.
 - [Go Micro](https://github.com/micro/go-micro) - Framework for micro service development.
+- [Raft](https://github.com/pingcap/raft-rs) - Raft distributed consensus algorithm implemented in Rust.

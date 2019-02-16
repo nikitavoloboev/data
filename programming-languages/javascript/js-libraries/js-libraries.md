@@ -60,3 +60,4 @@
 - [cofx](https://github.com/neurosnap/cofx) - Node and javascript library that helps developers describe side-effects as data in a declarative, flexible API.
 - [Mercury Parser](https://github.com/postlight/mercury-parser) - Extracts the bits that humans care about from any URL you give it.
 - [Refract](https://github.com/fanduel-oss/refract) - Harness the power of reactive programming to supercharge your components.
+- [MemJS](https://github.com/memcachier/memjs) - Memcache client for node using the binary protocol and SASL authentication.

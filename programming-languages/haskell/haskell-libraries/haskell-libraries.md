@@ -4,6 +4,10 @@
 
 - [scotty](https://github.com/scotty-web/scotty)
 
+## DB
+
+- [PostgreSQL ORM](https://github.com/alevy/postgresql-orm) - Haskell ORM (Object Relational Mapping) and migrations DSL for PostgreSQL.
+
 ## SDKs
 
 - [Amazonka](https://github.com/brendanhay/amazonka) - Comprehensive Amazon Web Services SDK.
