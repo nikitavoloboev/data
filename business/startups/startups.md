@@ -46,6 +46,9 @@
   4. Repeat the process and make the product/market fit score the most important metric.
 - [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7) ([HN](https://news.ycombinator.com/item?id=19105733))
 - [Startup CEO Reading List](https://github.com/AndySparks/captains-log/blob/master/resources/reading-lists/startup-ceo-reading-list.md)
+- [Steve Jobs on Apple Customer Experience and Innovation](https://www.youtube.com/watch?v=1SIeTmORl0E)
+- [Own the Demand (2018)](https://florentcrivello.com/index.php/2018/10/22/own-the-demand/)
+- [Blitzscaling with Microsoft CEO Satya Nadella and Greylock Partner Reid Hoffman (2018)](https://www.youtube.com/watch?v=HvO9G4h5vsc)
 
 ## Images
 
