@@ -21,3 +21,4 @@
 - [KABOOM! in 180 lines of bare C++](https://github.com/ssloy/tinykaboom) - Brief computer graphics / rendering course.
 - [imutils](https://github.com/jrosebr1/imutils) - Series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 - [Cross-platform GPU fluid simulation](https://github.com/haxiomic/GPU-Fluid-Experiments)
+- [Interactive Cube](http://sketches.vlucendo.com/cube/)

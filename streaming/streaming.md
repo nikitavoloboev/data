@@ -11,7 +11,7 @@ Here are tools I use for streaming:
 
 ## Notes
 
-- If connecting to Twitch with IRC, you have to join the channel from IRC after. i.e. `/join #nikitavoloboev`.
+- Connecting to Twitch with IRC, you have to [connect to Twitch via IRC](https://help.twitch.tv/customer/portal/articles/1302780-twitch-irc), then join the channel of stream you want (i.e. `/join #nikitav`).
 
 ## Links
 

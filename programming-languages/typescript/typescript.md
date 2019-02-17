@@ -29,10 +29,11 @@
 - [When to use `never` and `unknown` in Typescript (2019)](https://blog.logrocket.com/when-to-use-never-and-unknown-in-typescript-5e4d6c5799ad)
 - [bibliography on Gradual Typing](https://github.com/samth/gradual-typing-bib#readme)
 - [dtslint](https://github.com/Microsoft/dtslint) - Tests a TypeScript declaration file for style and correctness.
-- [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript)
+- [Clean Code concepts adapted for TypeScript](https://github.com/labs42io/clean-code-typescript#readme)
 - [SonarTS](https://github.com/SonarSource/SonarTS) - Static code analyzer for TypeScript.
 - [TypeScript TSLint Language Service Plugin](https://github.com/Microsoft/typescript-tslint-plugin)
 - [TypeScript Guidelines](https://github.com/unional/typescript-guidelines#readme) - Guideline to focus on how to write effective TypeScript with minimal effort.
 - [Practical Advanced TypeScript](https://egghead.io/courses/practical-advanced-typescript)
 - [typescript-json-schema](https://github.com/YousefED/typescript-json-schema) - Generate json-schemas from your Typescript sources.
 - [tslint-config-security](https://github.com/webschik/tslint-config-security) - TSLint security rules.
+- [TypeScript Definition Style Guide](https://github.com/sindresorhus/typescript-definition-style-guide#readme)
