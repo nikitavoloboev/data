@@ -1,6 +1,6 @@
 # Habits
 
-I use [Streaks](https://streaksapp.com) iOS app to track any new habits I want to add to my life. If any of the habits get 60 consecutive repetitions, I mark the habit as `learned` and focus on new habits I want to add to my life.
+I use [Streaks](https://streaksapp.com) iOS app to track any new habits I want to add to my life. If any of the habits get 80 consecutive repetitions, I mark the habit as `learned` and focus on new habits I want to add to my life.
 
 ## Learned habits
 
@@ -13,11 +13,11 @@ I use [Streaks](https://streaksapp.com) iOS app to track any new habits I want t
 
 Which I will probably keep for life.
 
-![](https://i.imgur.com/YAHgOG6.jpg)
+![](https://i.imgur.com/y2gB0IJ.jpg)
 
-![](https://i.imgur.com/NrfFFm8.jpg)
+![](https://i.imgur.com/3H5Fm3E.jpg)
 
-I also keep core habits I try to follow through in life on display on my [Focus board](focusing.md).
+I also keep core habits I try to follow through in life on display in my [Focus board](focusing.md).
 
 ## Morning routine
 

@@ -367,8 +367,8 @@ Some simple rules to follow for myself doing things.
 ## Sleep
 
 - Prefer to sleep and wake up at the same time.
-  - 6:00AM - Wake up.
-  - 10:00PM - Sleep.
+  - 6:30AM - Wake up.
+  - 10:30PM - Sleep.
 - Sleep for ~ 8 hours each day.
 - No Mac/phone in bed in the the morning.
 
