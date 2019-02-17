@@ -51,6 +51,7 @@ Aside from that I like visiting and at times contributing to these forums:
 - [Alfred Forum](https://www.alfredforum.com)
 - [Keyboard Maestro Forum](https://forum.keyboardmaestro.com/latest)
 - [Indie Hackers](https://www.indiehackers.com/)
+- [laarc](https://www.laarc.io/)
 - [Merveilles Mastodon Instance](https://merveilles.town) - Amazing community of makers & artists.
 
 As well as a few other Slack communities like:
