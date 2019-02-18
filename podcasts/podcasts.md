@@ -4,8 +4,6 @@ I love listening to podcasts with [Overcast](https://overcast.fm) especially whe
 
 My favorite podcasts currently are [Hello Internet](http://www.hellointernet.fm), [MIT Artificial Intelligence](https://overcast.fm/itunes1434243584/artificial-intelligence-ai-agi-lex-mit), [Kevin Rose Show](https://www.kevinrose.com/), [Tim Ferris Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show)[Tim Ferris Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show) and [StackTrace](https://stacktracepodcast.fm/). And [here](https://www.dropbox.com/s/rje42db9yj4d59w/overcast.opml?dl=1) is a list of all the podcasts I am subscribed to (can be imported to Overcast).
 
-I keep a [Trello board](https://trello.com/b/Wtr04eGQ) of podcasts I am listening and want to listen to.
-
 ## Favorite episodes
 
 - [Incremental Correctness (feat. Guillermo Rauch)](https://spectrum.chat/thread/e3e27c4b-2a80-4a44-a5d8-c23ab07a7b06)

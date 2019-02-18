@@ -14,14 +14,6 @@ I use [Monokai Night](https://styles.ulyssesapp.com/bundle/Monokai+Night/5bbcb61
 
 I describe my thoughts and approach to writing [here](../../writing/writing.md).
 
-## Content structure
-
-I group my writing into appropriate categories. Here are how my categories look like.
-
-![](https://i.imgur.com/2jJj2uz.png)
-
-I use two [Alfred file filters](https://github.com/nikitavoloboev/small-workflows/tree/master/search-files#readme) to search through both Ulysses sheets and Ulysses groups.
-
 ## Notes
 
 - `ulysses://x-callback-url/new-sheet?text=New` - Will create a sheet in `Inbox` with `New` text.
