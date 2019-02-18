@@ -14,7 +14,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [A Bitter Guide To Open Source](https://medium.com/@ken_wheeler/a-bitter-guide-to-open-source-a8e3b6a3c1c4)
 - [You CAN do it](http://drewdevault.com/2017/01/06/Actually-you-CAN-do-it.html)
 - [Open Source Maintainers Owe You Nothing](https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/)
-- [After 5 years and $3M, here's everything we've learned from building Ghost](https://blog.ghost.org/5/)
+- [After 5 years and \$3M, here's everything we've learned from building Ghost](https://blog.ghost.org/5/)
 - [How I maintain FOSS projects](https://drewdevault.com/2018/06/01/How-I-maintain-FOSS-projects.html)
 - [Drive-by Haskell Contributions by Neil Mitchell](https://www.youtube.com/watch?v=6kGLHXsUQD4) - Great talk on how to start contributing to projects.
 - [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#readme)
@@ -24,3 +24,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Ask HN: How do you make a profitable business out of an open-source project? (2018)](https://news.ycombinator.com/item?id=18808788)
 - [Faces of Open Source](http://facesofopensource.com/)
 - [HN: AWS, MongoDB, and the Economic Realities of Open Source (2019)](https://news.ycombinator.com/item?id=18902578)
+- [You Should Open Source Your Product (2019)](https://blog.tommoor.com/2019/01/01/you-should-open-source-your-product/)

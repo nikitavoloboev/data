@@ -22,6 +22,7 @@
 - [libreact](https://github.com/streamich/libreact) - Collection of useful React components.
 - [React Circular Progressbar](https://github.com/iqnivek/react-circular-progressbar) - Circular progress indicator.
 - [React Window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data.
+- [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit) - Utility library for highly configurable layout transitions.
 
 ## Links
 

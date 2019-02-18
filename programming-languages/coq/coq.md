@@ -10,3 +10,4 @@
 - [Tricks in Coq](https://github.com/tchajed/coq-tricks) - Some tips, tricks, and features in Coq that are hard to discover.
 - [MetaCoq](https://github.com/MetaCoq/metacoq) - Metaprogramming in Coq.
 - [Convert Haskell source code to Coq source code](https://github.com/antalsz/hs-to-coq)
+- [Fiat](https://github.com/mit-plv/fiat) - Deductive Synthesis of Abstract Data Types in a Proof Assistant.

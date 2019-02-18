@@ -93,6 +93,7 @@
   - [Real Analysis](math/real-analysis.md)
   - [Type Theory](math/type-theory/type-theory.md)
     - [Dependent types](math/type-theory/dependent-types.md)
+    - [Cubical type theory](math/type-theory/cubical-type-theory.md)
   - [Category theory](math/category-theory/category-theory.md)
   - [Statistics](math/statistics/statistics.md)
   - [Geometry](math/geometry.md)
