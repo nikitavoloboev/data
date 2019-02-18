@@ -12,3 +12,4 @@ Is logical theory of computable functions.
 
 - [Dependently Typed Lambda Calculus in Haskell](https://github.com/ilya-klyuchnikov/lambdapi)
 - [Caramel](https://github.com/MaiaVictor/Caramel) - Set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms.
+- [LICK](https://github.com/i-am-tom/LICK) - Correct-by-construction implementation of the simply-typed lamba calculus' expressions, beta-reduction, and evaluation.

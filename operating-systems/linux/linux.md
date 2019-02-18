@@ -40,3 +40,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [libfuse](https://github.com/libfuse/libfuse) - Reference implementation of the Linux FUSE (Filesystem in Userspace) interface.
 - [Darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux.
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#readme)
+- [State of Linux on the MacBook Pro](https://github.com/Dunedan/mbp-2016-linux)

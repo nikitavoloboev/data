@@ -19,3 +19,4 @@ Might give it a go sometime.
 - [HN: Absolute Beginner's Guide to Emacs (2012)](https://news.ycombinator.com/item?id=18598544)
 - [Proof General](https://github.com/ProofGeneral/PG) - Generic Emacs interface for proof assistants.
 - [Emacs X Window Manager](https://github.com/ch11ng/exwm)
+- [Modalka](https://github.com/mrkkrp/modalka) - Easily introduce native modal editing of your own design.

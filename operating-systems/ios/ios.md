@@ -16,6 +16,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
   - You can also hit the play/pause button in the debugger to pause the app. You can also use commands in the debugger while paused. For example, if you wanted to know a value of a variable, you can type “po varName” and it will print it. Or if it’s a class, you can access properties.
   - You can also create exception breakpoints to print out “po \$arg1” and it will print the reason it crashed at the bottom of the stack trace so you don’t have to scroll up.
 - It’s useful to setup apps to open links in Safari and not in-browser where possible (i.e. Tweetbot)
+- [To share purchased content, all family members must be on the same country or region.](https://support.apple.com/en-us/HT201454)
 
 ## Links
 
