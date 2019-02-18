@@ -9,3 +9,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Ask HN: What can be done to prevent a climate catastrophe? (2018)](https://news.ycombinator.com/item?id=18181503)
 - [Humanity has wiped out 60% of animal populations since 1970, report finds (2018)](https://www.theguardian.com/environment/2018/oct/30/humanity-wiped-out-animals-since-1970-major-report-finds)
 - [Dream](https://vimeo.com/187372244) - Beautiful animation video for the Wildlife Conservation Film Festival, four animals facing extinction tell their stories through the words of "I Dreamed a Dream".
+- [AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth?activetab=pivot1%3aprimaryr6) - Awards grants to projects that address four critical areas that are vital for building a sustainable future.

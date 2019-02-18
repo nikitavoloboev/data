@@ -30,7 +30,7 @@ Replace words like `really like` with `love` or other more appropriate words tha
 
 ## Know what to write next
 
-I mark articles I am working on now or plan to work on next with tags like `#now` or `#next`. This then makes searching and opening the article I am currently working a breeze.
+I mark articles I am working on now or plan to work on next with tags like `#now` or `#next`. This then makes searching and opening the article I am currently working on a breeze.
 
 ![](https://i.imgur.com/1S8lUVX.png)
 

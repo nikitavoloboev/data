@@ -148,6 +148,7 @@
         - [React Native](programming-languages/javascript/js-libraries/react/react-native.md)
         - [Gatsby JS](programming-languages/javascript/js-libraries/react/gatsby-js.md)
       - [Redux](programming-languages/javascript/js-libraries/redux.md)
+      - [MobX](programming-languages/javascript/js-libraries/mobx.md)
       - [Vue.js](programming-languages/javascript/js-libraries/vue/vue.md)
       - [Next.js](programming-languages/javascript/js-libraries/react/nextjs.md)
       - [D3.js](programming-languages/javascript/js-libraries/d3js.md)
