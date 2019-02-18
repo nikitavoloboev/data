@@ -64,3 +64,4 @@
 - [MacTutor History of Mathematics archive](http://www-history.mcs.st-and.ac.uk/)
 - [Formalizing 100 Theorems](http://www.cs.ru.nl/~freek/100/)
 - [Some Fundamental Theorems in Mathematics (2018)](https://arxiv.org/abs/1807.08416) ([HN](https://news.ycombinator.com/item?id=19039525))
+- [Some quotes from Robert Harper](https://www.youtube.com/watch?v=RcTaweZMEzo)

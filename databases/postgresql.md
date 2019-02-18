@@ -14,3 +14,5 @@
 - [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html) ([HN](https://news.ycombinator.com/item?id=18950460))
 - [Slonik](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detail logging and assertions for node.js
 - [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for the Mac.
+- [prettier-plugin-pg](https://github.com/benjie/prettier-plugin-pg) - Work-in-progress plugin for prettier to support formatting of PostgreSQL-flavour SQL.
+- [PostGraphile](https://github.com/graphile/postgraphile) - Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database.
