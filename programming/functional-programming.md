@@ -18,6 +18,7 @@
 - [Having an Effect by Oleg Kiselyov](https://www.youtube.com/watch?v=GhERMBT7u4w)
 - [Monads Demystified (2015)](http://blog.reverberate.org/2015/08/monads-demystified.html)
 - [Can functional programming be liberated from the von Neumann paradigm?](http://conal.net/blog/posts/can-functional-programming-be-liberated-from-the-von-neumann-paradigm) ([HN](https://news.ycombinator.com/item?id=18692470))
+- [COMP 212: Functional Programming Course](http://dlicata.web.wesleyan.edu/teaching/fp-s19/) - Purpose of this course is to introduce the theory and practice of functional programming (FP).
 
 ## Images
 

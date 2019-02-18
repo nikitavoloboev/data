@@ -25,3 +25,4 @@ Roughly speaking, a [type is a specification of its possible values](https://git
 - [LaTTe](https://github.com/latte-central/LaTTe) - Laboratory for Type Theory experiments (in clojure).
 - [TT Lite](https://github.com/ilya-klyuchnikov/ttlite) - SuperCompiler for Martin-Löf's Type Theory.
 - [Implementation of spartan type theory](https://github.com/andrejbauer/spartan-type-theory)
+- [Cartesian Cubical Type Theory](https://github.com/dlicata335/cart-cube)
