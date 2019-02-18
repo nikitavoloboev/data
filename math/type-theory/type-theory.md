@@ -1,7 +1,5 @@
 # [Type Theory](http://en.wikipedia.org/wiki/Type_theory)
 
-Roughly speaking, a [type is a specification of its possible values](https://github.com/skaslev/why-types/blob/master/why-types.pdf).
-
 ## Notes
 
 - A value is some concrete thing, and a type is a collection of concrete things (but is itself not a concrete thing. For example any individual integer is a value, but the collection of all integers is a type. Much like elements and sets in set theory.
@@ -10,6 +8,8 @@ Roughly speaking, a [type is a specification of its possible values](https://git
 - The type determines which data structure you use.
 - Dependent types is basically about being able to express arbitrary things in your type system, meaning that you can construct arbitrary proofs. That's how Coq, Agda and Idris work.
 - Types are types and propositions are propositions; types come from programming languages, and propositions from logic, and they seem to have no relation to each other.
+- [Types are specifications of behavior.](https://www.youtube.com/watch?v=LE0SSLizYUI)
+- Roughly speaking, a [type is a specification of its possible values](https://github.com/skaslev/why-types/blob/master/why-types.pdf).
 
 ## Links
 
@@ -26,3 +26,4 @@ Roughly speaking, a [type is a specification of its possible values](https://git
 - [TT Lite](https://github.com/ilya-klyuchnikov/ttlite) - SuperCompiler for Martin-Löf's Type Theory.
 - [Implementation of spartan type theory](https://github.com/andrejbauer/spartan-type-theory)
 - [Computational Type Theory by Robert Harper (2018)](https://www.youtube.com/watch?v=LE0SSLizYUI)
+- [Why Types Matter](https://github.com/skaslev/why-types/blob/master/why-types.pdf)
