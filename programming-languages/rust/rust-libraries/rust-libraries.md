@@ -28,6 +28,10 @@
 
 - [Azul](https://github.com/maps4print/azul) - Desktop GUI Framework.
 
+## API
+
+- [Rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust.
+
 ## Other
 
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser.

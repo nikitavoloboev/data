@@ -21,3 +21,4 @@
 - [Revery](https://github.com/revery-ui/revery) - Native, high-performance, cross-platform desktop apps - built with Reason! ([HN](https://news.ycombinator.com/item?id=18994837))
 - [ReasonML - React as first intended (2018)](https://www.imaginarycloud.com/blog/reasonml-react-as-first-intended/)
 - [Creating a CLI with Reason native (2019)](https://rolflekang.com/creating-a-cli-with-reason-native)
+- [RED](https://github.com/reasonml/red) - Better UX for OCamlDebug. Works with Ocaml and Reason code..
