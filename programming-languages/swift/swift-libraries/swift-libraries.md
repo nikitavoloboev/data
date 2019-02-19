@@ -44,3 +44,4 @@
 - [BlueSocket](https://github.com/IBM-Swift/BlueSocket) - Socket framework for Swift using the Swift Package Manager.
 - [GraphQL](https://github.com/GraphQLSwift/GraphQL) - Swift GraphQL implementation for macOS and Linux.
 - [Regular Expression Decoder](https://github.com/Flight-School/RegularExpressionDecoder)
+- [CLISpinner](https://github.com/kiliankoe/CLISpinner) - 60+ spinners for use in the terminal.

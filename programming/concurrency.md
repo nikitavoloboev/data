@@ -11,3 +11,4 @@ Concurrency is the composition of independently executing computations.
 
 - [The Deadlock Empire](https://deadlockempire.github.io/) - Interactive exercises.
 - [Structured Concurrency](http://250bpm.com/blog:137)
+- [A Separation Logic for Concurrent Randomized Programs](http://www.cs.cmu.edu/~rwh/papers/prob-conc/paper.pdf)

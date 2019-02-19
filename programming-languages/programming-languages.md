@@ -22,3 +22,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Go, Tooling, and New Languages (2016)](http://parellagram.com/posts/tools)
 - [Programming paradigms for dummies: what every programmer should know (2019)](https://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know/)
 - [What, if anything, is a programming paradigm? (2017)](http://www.cs.cmu.edu/~rwh/papers/paradigms/paradigm.pdf)
+- [Programming Languages Zoo](https://github.com/andrejbauer/plzoo#readme) - Collection of implementations of miniature programming languages.

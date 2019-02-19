@@ -9,6 +9,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 4 - Open Annotate screenshot
 - 5 - Start/stop ScreenFlow recording
 - 6 - Maximize window to next screen
+- 7 - Open Typinator
 - 8 - Search Clipboard History with Alfred
 - 9 - Connect/disconnect AirPods
 - / - Show/hide notification center
