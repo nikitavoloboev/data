@@ -4,3 +4,4 @@
 
 - [Idris koans](https://github.com/idris-hackers/idris-koans)
 - [Awesome Idris](https://github.com/joaomilho/awesome-idris#readme)
+- [Blodwen](https://github.com/edwinb/Blodwen) - Prototype implementation of Idris 2.

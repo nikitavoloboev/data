@@ -62,3 +62,4 @@
 - [Cerebral](https://github.com/containership/cerebral) - Kubernetes cluster autoscaler with pluggable metrics backends and scaling engines.
 - [Skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development.
 - [Talos](https://github.com/autonomy/talos) - Modern Linux distribution for Kubernetes.
+- [Kubernetes cleanup operator](https://github.com/lwolf/kube-cleanup-operator) - Kubernetes Operator to automatically delete completed Jobs and their Pods.

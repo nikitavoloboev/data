@@ -53,3 +53,4 @@
 - [Re-implement react fiber (2019)](https://github.com/tranbathanhtung/react-fiber-implement) - Self-study project help understand how react work.
 - [Michael Jackson - Never Write Another HoC (2017)](https://www.youtube.com/watch?v=BcVAq3YFiuc)
 - [React-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React.js applications.
+- [Awesome React](https://github.com/enaqx/awesome-react#readme) - Collection of awesome things regarding React ecosystem.
