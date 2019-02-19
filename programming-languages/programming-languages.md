@@ -21,3 +21,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [The Programming Language I’m Looking For (2018)](https://hackernoon.com/the-programming-language-im-looking-for-948d93f7a396)
 - [Go, Tooling, and New Languages (2016)](http://parellagram.com/posts/tools)
 - [Programming paradigms for dummies: what every programmer should know (2019)](https://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know/)
+- [What, if anything, is a programming paradigm? (2017)](http://www.cs.cmu.edu/~rwh/papers/paradigms/paradigm.pdf)

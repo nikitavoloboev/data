@@ -21,12 +21,12 @@ Some simple rules to follow for myself doing things.
 
 ## Health
 
-- [Exercise](../fitness/fitness.md). 1 hour of exercise every day.
+- [Exercise](../fitness/fitness.md). 25 min high intensity workout & 100 squats daily.
 - Eat a [whole food, plant based diet](../health/nutrition/nutrition.md).
 - Drink water, tea and occasional coffee. No added sugar in drinks/food.
-- [Sleep](../sleep/sleep.md) at least 7 hours every day. Wake up & go to sleep at same time.
+- [Sleep](../sleep/sleep.md) at least 8 hours every day. Wake up & go to sleep at same time.
 - Always have good posture. Sit properly and upright, don't bend my back/spine.
-- Take [Vitamin D & Vitamin B12](../health/nutrition/supplements.md) every morning.
+- Take [Vit D & B12, Omega 3 DHA+EPA supplements](../health/nutrition/supplements.md) every morning.
 - Everything in moderation. Avoid alcohol and hard drugs (like opiates).
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
 
@@ -151,7 +151,7 @@ Some simple rules to follow for myself doing things.
 - Commit changes and push before making a release.
 - When making changes to other projects, respect their Git workflow and commit style.
 - Prefix branch names with `fix/` or `feat/` appropriately.
-- Squash commits before merging.
+- Squash commits into 1 before merging. (GitHub lets you easily do it from PR).
 
 ## GitHub
 
