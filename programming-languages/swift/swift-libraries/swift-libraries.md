@@ -43,3 +43,4 @@
 - [ShellOut](https://github.com/JohnSundell/ShellOut) - Easily run shell commands from a Swift script or command line tool.
 - [BlueSocket](https://github.com/IBM-Swift/BlueSocket) - Socket framework for Swift using the Swift Package Manager.
 - [GraphQL](https://github.com/GraphQLSwift/GraphQL) - Swift GraphQL implementation for macOS and Linux.
+- [Regular Expression Decoder](https://github.com/Flight-School/RegularExpressionDecoder)

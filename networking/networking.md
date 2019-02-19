@@ -17,4 +17,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [mitmproxy](https://mitmproxy.org/) - Free and open source interactive HTTPS proxy.
 - [CFSSL](https://github.com/cloudflare/cfssl) - CloudFlare's PKI/TLS swiss army knife.
 - [Every Linux networking tool I know](https://wizardzines.com/networking-tools-poster/)
-- [inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet.
+- [inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet. ([HN](https://news.ycombinator.com/item?id=19189455))

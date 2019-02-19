@@ -49,3 +49,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Collection of tools that an iOS developer should know](https://github.com/LeoMobileDeveloper/ios-developer-tools#readme)
 - [isign](https://github.com/saucelabs/isign) - Code sign iOS applications, without proprietary Apple software or hardware.
 - [Rome](https://github.com/blender/Rome) - Cache tool for Carthage.
+- [iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case) - Snapshot view unit tests for iOS.

@@ -9,7 +9,9 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 4 - Open Annotate screenshot
 - 5 - Start/stop ScreenFlow recording
 - 6 - Maximize window to next screen
-- / - Show/hide notification centre
+- 8 - Search Clipboard History with Alfred
+- 9 - Connect/disconnect AirPods
+- / - Show/hide notification center
 
 ## CMD+CTRL
 
@@ -22,6 +24,16 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 9 - Google selected text
 - 0 - Screenshot entire screen
 - . - Contexts search active windows
+
+## CTRL+OPTION
+
+- space - Add New Trello card
+
+## CTRL+SHIFT
+
+- 8 - Focus on menu bar
+- 9 - Noizio show menu
+- 0 - Noizio on/off
 
 ## CMD+OPT+CTRL
 
@@ -36,12 +48,6 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 9 - Typinator quick search
 - x - Little Snitch Network Monitor
 - c - Sleep
-
-## CTRL+SHIFT
-
-- 8 - Focus on menu bar
-- 9 - Noizio show menu
-- 0 - Noizio on/off
 
 ## CMD+OPT+SHIFT
 
