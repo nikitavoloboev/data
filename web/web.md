@@ -25,5 +25,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [web.dev](https://web.dev/) - Explore structured curriculums that include both guides and hands-on codelabs.
 - [Ask HN: Go-to web stack today? (2019)](https://news.ycombinator.com/item?id=18829557)
 - [Google's Long March (2019)](https://doriantaylor.com/googles-long-march)
-- [Rendering on the Web (2019)](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
 - [instant.page](https://github.com/instantpage/instant.page) - Uses just-in-time preloading — it preloads a page right before a user clicks on it.
