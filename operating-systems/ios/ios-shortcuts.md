@@ -2,6 +2,7 @@
 
 ## Links
 
+- [RoutineHub](https://routinehub.co/) - Growing community around Siri Shortcuts.
 - [Sharecuts](https://sharecuts.app/) - Public repository of shortcuts for the Shortcuts app.
 - [ShortcutShortcut Launcher Siri Shortcut](https://www.reddit.com/r/shortcuts/comments/9jok3b/shortcut_launcher_streamline_the_shortcuts_app/)
 - [Shortcuts JS](https://github.com/joshfarrant/shortcuts-js) - JavaScript iOS 12 Shortcuts creator.
