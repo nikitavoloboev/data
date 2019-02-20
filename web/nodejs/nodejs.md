@@ -18,3 +18,4 @@
 - [node-sqlite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
 - [Pragmatic Modularity (2016)](https://mafinto.sh/blog/pragmatic-modularity.html)
 - [Stability first (2016)](https://mafinto.sh/blog/stability-first.html)
+- [David](https://github.com/alanshaw/david) - Node.js module that tells you when your package npm dependencies are out of date.
