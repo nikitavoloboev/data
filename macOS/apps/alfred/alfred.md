@@ -60,3 +60,4 @@ I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3
 - [fuzzy-list](https://github.com/derickfay/fuzzylist) - Self-updating list filter workflow template.
 - [fuzzy-search](https://github.com/deanishe/alfred-fuzzy) - Fuzzy search helper.
 - [Deanishe's approach in building Go workflows](https://github.com/deanishe/awgo/commit/5f0051950af39371385f2dfda96483eb1423e565#r29572675)
+- [Pacmax](https://pacmax.org/) - Explore & Share Great Packages for Alfred.
