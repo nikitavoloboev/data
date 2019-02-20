@@ -29,3 +29,4 @@ Plan to spend more time with it as [SourceKit-LSP](https://github.com/apple/sour
 - [Airbnb Swift Style Guide](https://github.com/airbnb/swift#readme)
 - [Swift Community Podcast](https://github.com/SwiftCommunityPodcast/podcast#readme)
 - [Periphery](https://github.com/peripheryapp/periphery) - Eliminate unused Swift code.
+- [Chris Lattner on the origins of Swift (2019)](https://oleb.net/2019/chris-lattner-swift-origins/)

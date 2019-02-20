@@ -1,7 +1,5 @@
 # [Clojure](https://clojure.org)
 
-Don't use it but , and ) look interesting.
-
 ## Links
 
 - [HN: Clojure learning journey](https://news.ycombinator.com/item?id=16412050)

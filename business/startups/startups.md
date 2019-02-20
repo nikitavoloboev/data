@@ -49,6 +49,7 @@
 - [Steve Jobs on Apple Customer Experience and Innovation](https://www.youtube.com/watch?v=1SIeTmORl0E)
 - [Own the Demand (2018)](https://florentcrivello.com/index.php/2018/10/22/own-the-demand/)
 - [Blitzscaling with Microsoft CEO Satya Nadella and Greylock Partner Reid Hoffman (2018)](https://www.youtube.com/watch?v=HvO9G4h5vsc)
+- [Y Combinator Resources for Developers](http://ycombinator.dev/)
 
 ## Images
 
