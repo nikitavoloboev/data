@@ -46,6 +46,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Jsonnet](https://github.com/google/jsonnet) - Data templating language.
 - [fastmod](https://github.com/facebookincubator/fastmod) - Fast partial replacement for the codemod tool.
 - [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.
+- [hack.chat](https://hack.chat/) - Minimal, distraction-free chat application.
 
 ## Notes
 
