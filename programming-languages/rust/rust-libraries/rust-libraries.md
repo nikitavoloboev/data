@@ -11,6 +11,7 @@
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
 - [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 - [Seed](https://github.com/David-OConnor/seed) - Frontend framework for Rust, via WebAssembly.
+- [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
 
 ## ORM
 
@@ -71,3 +72,4 @@
 - [Headless Chrome](https://github.com/atroche/rust-headless-chrome) - Puppeteer for Rust.
 - [rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack.
 - [Ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs.
+- [MAY](https://github.com/Xudong-Huang/may) - Rust stackful coroutine library.

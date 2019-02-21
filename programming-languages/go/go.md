@@ -80,3 +80,4 @@ Go promotes composition over inheritance.
 - [revive](https://github.com/mgechev/revive) - Fast, configurable, extensible, flexible, and beautiful linter for Go.
 - [Going Infinite, handling 1M websockets connections in Go (2019)](https://github.com/eranyanay/1m-go-websockets)
 - [Awesome Go Linters](https://github.com/golangci/awesome-go-linters#readme)
+- [Leaktest](https://github.com/fortytw2/leaktest) - Goroutine Leak Detector.

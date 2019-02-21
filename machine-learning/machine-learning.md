@@ -73,3 +73,4 @@
 - [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [Deep learning drizzle](https://github.com/kmario23/deep-learning-drizzle) - Various ML, reinforcement learning video lectures.
 - [Xfer](https://github.com/amzn/xfer) - Transfer Learning library for Deep Neural Networks.
+- [List of summer schools in machine learning + related fields](https://github.com/sshkhr/awesome-mlss#readme)
