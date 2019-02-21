@@ -29,3 +29,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [EOS](https://github.com/EOSIO/eos) - Open source smart contract platform.
 - [The Graph](https://thegraph.com/) - Discover subgraphs by the leading projects in the Web3 ecosystem. All this data is immediately available for querying using GraphQL.
 - [IELE Semantics](https://github.com/runtimeverification/iele-semantics) - Semantics of Virtual Machine for IELE prototype blockchain.
+- [Why Blockchain Could (One Day) Topple Google (2017)](http://rbharath.github.io/why-blockchain-could-one-day-topple-google/)
