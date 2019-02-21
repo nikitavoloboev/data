@@ -15,3 +15,4 @@
 - [GraphQL Nexus](https://github.com/prisma/nexus) - Declarative, code-first and strongly typed GraphQL schema construction for TypeScript & JavaScript.
 - [Thunder](https://github.com/samsarahq/thunder) - Go framework for rapidly building powerful graphql services.
 - [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators.
+- [GQL2TS](https://github.com/avantcredit/gql2ts) - Generate TypeScript type interfaces from GraphQL types and query definitions.
