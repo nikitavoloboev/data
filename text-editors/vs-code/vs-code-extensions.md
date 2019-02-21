@@ -174,6 +174,10 @@ Below is a list of extensions I use.
 
 - [Deno](https://marketplace.visualstudio.com/items?itemName=ameerthehacker.deno-vscode) - Enhance development experience for Deno.
 
+## Bash
+
+- [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode) - Language server for Bash.
+
 ## Themes
 
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
