@@ -346,7 +346,7 @@ Some simple rules to follow for myself doing things.
 
 ## Twitter
 
-- [Top](https://twitter.com/nikitavoloboev/lists/top) should include posts with **highest** value to me. Put other profiles into other lists appropriately. Don't keep `top` too big. Top & [Software](https://twitter.com/nikitavoloboev/lists/software) are the two of my most used lists.
+- [Top](https://twitter.com/nikitavoloboev/lists/top) should include posts with **highest** value to me. Put other profiles into other lists appropriately. Don't keep `top` too big.
 
 ## Spotify
 
