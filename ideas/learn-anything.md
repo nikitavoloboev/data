@@ -2,7 +2,7 @@
 
 Learn Anything is currently the main project I am working on.
 
-There is a lot of interesting things that still have to be done and since the project is fully [Open Source](https://github.com/learn-anything/learn-anything), all the communication and discussions about this project are done in the open so anyone interested can join in and help.
+There is a lot of interesting things that still have to be done and since the project is fully [open source](https://github.com/learn-anything/learn-anything), all the communication and discussions about this project are done in the open so anyone interested can join in and help.
 
 There is a lot of information included in the [readme](https://github.com/learn-anything/learn-anything#readme). And there are lots of [curated lists](https://github.com/learn-anything/curated-lists#readme) available that are open to contribution.
 

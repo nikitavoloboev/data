@@ -25,3 +25,4 @@ I mention Safari Extensions I use [here](https://github.com/nikitavoloboev/my-ma
 ## Links
 
 - [Safari Extensions JS](https://developer.apple.com/documentation/safariextensions)
+- [Topee](https://github.com/avast/topee) - Framework that runs Chrome extension code on Safari.
