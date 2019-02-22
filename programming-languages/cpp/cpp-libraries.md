@@ -16,3 +16,4 @@
 ## Other
 
 - [{fmt}](https://github.com/fmtlib/fmt) - Modern formatting library.
+- [simdjson](https://github.com/lemire/simdjson) - Parsing gigabytes of JSON per second.

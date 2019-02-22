@@ -11,3 +11,4 @@
 - [The Embedded Rust Book](https://docs.rust-embedded.org/book/) - Introductory book about using the Rust Programming Language on "Bare Metal" embedded systems, such as Microcontrollers.
 - [Arm Mbed DAPLink](https://github.com/ARMmbed/DAPLink) - Open-source software project that enables programming and debugging application software running on Arm Cortex CPUs.
 - [Mbed TLS](https://github.com/ARMmbed/mbedtls) - Open source, portable, easy to use, readable and flexible SSL library.
+- [Modern Microprocessors](http://www.lighterra.com/papers/modernmicroprocessors/) - Brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture.
