@@ -32,3 +32,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Anti Social Media (2018)](https://www.youtube.com/watch?v=KAo2nmVlfOA)
 - [Timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally.
 - [Regret-stergram (2018)](https://medium.com/@dhh/regret-stergram-ea4073a64911)
+- [Sherlock](https://github.com/TheYahya/sherlock) - Find usernames across social networks.

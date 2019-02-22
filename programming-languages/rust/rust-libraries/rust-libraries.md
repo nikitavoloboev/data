@@ -28,6 +28,7 @@
 ## GUI
 
 - [Azul](https://github.com/maps4print/azul) - Desktop GUI Framework.
+- [Druid](https://github.com/xi-editor/druid) - Data-oriented Rust User Interface Design toolkit.
 
 ## API
 
@@ -73,3 +74,4 @@
 - [rust-smallvec](https://github.com/servo/rust-smallvec) - "Small vector" optimization for Rust: store up to a small number of items on the stack.
 - [Ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs.
 - [MAY](https://github.com/Xudong-Huang/may) - Rust stackful coroutine library.
+- [Ditto](https://github.com/alex-shapiro/ditto) - CRDTs for common data structures like maps, vecs, sets, text, and JSON.
