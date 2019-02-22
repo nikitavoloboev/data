@@ -13,7 +13,7 @@
 
 ## Links
 
-- [What happens when I type kubectl run](https://github.com/jamiehannaford/what-happens-when-k8s)
+- [What happens when I type kubectl run](https://github.com/jamiehannaford/what-happens-when-k8s#readme)
 - [Helm](https://helm.sh/) - Kubernetes package manager.
 - [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice)
 - [kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes.
@@ -64,3 +64,4 @@
 - [Talos](https://github.com/autonomy/talos) - Modern Linux distribution for Kubernetes.
 - [Kubernetes cleanup operator](https://github.com/lwolf/kube-cleanup-operator) - Kubernetes Operator to automatically delete completed Jobs and their Pods.
 - [Click](https://github.com/databricks/click) - Command Line Interactive Controller for Kubernetes. Its purpose is to manage a large number of Kubernetes clusters/objects quickly and efficiently.
+- [Kubectl Dashboard](https://github.com/bouk/kubectl-dashboard) - Sub-command for kubectl that will instantly make a Kubernetes dashboard available for you, without having to run anything in your cluster.
