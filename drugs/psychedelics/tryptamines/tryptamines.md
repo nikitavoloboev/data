@@ -40,3 +40,4 @@ This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/
   - That being said, I am a huge fan of these substances and work in drug abuse research. One of my main reasons for pursuing this career was to study these drugs and I hope to be able to soon.
 - [Martin Ball describing his 5-meo-dmt practices](https://www.youtube.com/watch?v=PQctOMSmBuk) - Amazing talk.
 - [5-MeO-DMT Reports](https://erowid.org/experiences/subs/exp_5MeODMT.shtml)
+- [Elevate Symposium Zurich June 10th 2018 Panel Discussion](https://www.youtube.com/watch?v=HkywHPPyHUQ)

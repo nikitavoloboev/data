@@ -4,7 +4,7 @@ An application which allowed me to originally create all of the maps for [Learn 
 
 ![](https://raw.githubusercontent.com/learn-anything/learn-anything/2017/media/header.png)
 
-I also use MindNode to visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/16ppjh7Vs2ABJkgs7yyHo75KHymhoosayvDUyeRs#268.5,-734.1,1).
+I also use MindNode to visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/dPmKpWZgTpZsaG4Rf1yaz7rXbYhnuqPDDpdss4w2#1594.8,-1084.6,1).
 
 ![](https://i.imgur.com/uzNNYiz.png)
 
