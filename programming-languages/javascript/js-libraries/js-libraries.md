@@ -62,3 +62,4 @@
 - [Refract](https://github.com/fanduel-oss/refract) - Harness the power of reactive programming to supercharge your components.
 - [MemJS](https://github.com/memcachier/memjs) - Memcache client for node using the binary protocol and SASL authentication.
 - [memfs](https://github.com/streamich/memfs) - In-memory filesystem with Node's API.
+- [Accounts](https://github.com/accounts-js/accounts) - Fullstack authentication and accounts-management for GraphQL and REST.
