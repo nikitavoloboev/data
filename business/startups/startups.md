@@ -50,6 +50,7 @@
 - [Own the Demand (2018)](https://florentcrivello.com/index.php/2018/10/22/own-the-demand/)
 - [Blitzscaling with Microsoft CEO Satya Nadella and Greylock Partner Reid Hoffman (2018)](https://www.youtube.com/watch?v=HvO9G4h5vsc)
 - [Y Combinator Resources for Developers](http://ycombinator.dev/)
+- [Inside Apple's Factory: Software Design in the Age of Steve Jobs (2019)](https://www.youtube.com/watch?v=kl2Flp4oK-g)
 
 ## Images
 

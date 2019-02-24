@@ -8,3 +8,4 @@
 ## Links
 
 - [mosdepth](https://github.com/brentp/mosdepth) - Fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing.
+- [Four new DNA letters double life’s alphabet (2019)](https://www.nature.com/articles/d41586-019-00650-8)

@@ -172,6 +172,7 @@
   - [Lisp](programming-languages/lisp/lisp.md)
     - [Common Lisp](programming-languages/lisp/common-lisp.md)
     - [Scheme](programming-languages/lisp/scheme.md)
+    - [Racket](programming-languages/lisp/racket.md)
   - [C](programming-languages/c/c.md)
     - [C libraries](programming-languages/c/c-libraries.md)
   - [Objective C](programming-languages/objc/objc.md)

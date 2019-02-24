@@ -31,3 +31,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [TypeScript FSA](https://github.com/aikoven/typescript-fsa) - Type-safe action creator utilities.
 - [Robodux](https://github.com/neurosnap/robodux) - Remove repetitive tasks from Redux.
 - [redux-react-hook](https://github.com/facebookincubator/redux-react-hook) - React hook for accessing mapped state and dispatch from a Redux store.
+- [Connected React Router](https://github.com/supasate/connected-react-router) - Redux binding for React Router.
