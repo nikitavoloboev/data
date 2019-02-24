@@ -13,9 +13,9 @@ I use [Streaks](https://streaksapp.com) iOS app to track any new habits I want t
 
 Which I will probably keep for life.
 
-![](https://i.imgur.com/y2gB0IJ.jpg)
+![](https://i.imgur.com/cdnlKxx.jpg)
 
-![](https://i.imgur.com/3H5Fm3E.jpg)
+![](https://i.imgur.com/WyWSbdQ.jpg)
 
 I also keep core habits I try to follow through in life on display in my [Focus board](focusing.md).
 
