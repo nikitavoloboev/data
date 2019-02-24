@@ -23,7 +23,7 @@ Some simple rules to follow for myself doing things.
 
 - [Exercise](../fitness/fitness.md). 25 min high intensity workout & 100 squats daily.
 - Eat a [whole food, plant based diet](../health/nutrition/nutrition.md).
-- Drink water, tea and occasional coffee. No added sugar in drinks/food.
+- Drink water & tea. No added sugar in drinks/food.
 - [Sleep](../sleep/sleep.md) at least 8 hours every day. Wake up & go to sleep at same time.
 - Always have good posture. Sit properly and upright, don't bend my back/spine.
 - Take [Vit D & B12, Omega 3 DHA+EPA supplements](../health/nutrition/supplements.md) every morning.
