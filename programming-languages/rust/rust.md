@@ -37,3 +37,4 @@
 - [A Quick Look at Trait Objects in Rust (2019)](https://tratt.net/laurie/blog/entries/a_quick_look_at_trait_objects_in_rust.html)
 - [Teach Rust (2019)](https://github.com/ferrous-systems/rust-three-days-course) - Free workshop material to use to give a course introducing the Rust programming language.
 - [Moving from Ruby to Rust (2019)](https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html) ([HN](https://news.ycombinator.com/item?id=19166020))
+- [miniserve](https://github.com/svenstaro/miniserve) - Nice & small CLI tool in Rust (can use for inspiration in building Rust CLI tools).

@@ -63,3 +63,4 @@
 - [MemJS](https://github.com/memcachier/memjs) - Memcache client for node using the binary protocol and SASL authentication.
 - [memfs](https://github.com/streamich/memfs) - In-memory filesystem with Node's API.
 - [Accounts](https://github.com/accounts-js/accounts) - Fullstack authentication and accounts-management for GraphQL and REST.
+- [Cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
