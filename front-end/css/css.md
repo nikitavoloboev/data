@@ -47,3 +47,5 @@
 - [Yoga](https://github.com/facebook/yoga) - Cross-platform layout engine which implements Flexbox.
 - [nano-css](https://github.com/streamich/nano-css) - CSS-in-JS library that you can actually use in production. Motto of nano-css is simple: create the smallest possible CSS-in-JS library and provide all features of any other library through addons.
 - [Why I Write CSS in JavaScript (2019)](https://mxstbr.com/thoughts/css-in-js/)
+- [Styled System](https://github.com/jxnblk/styled-system) - Responsive, theme-based style props for building design systems with React.
+- [Rebass](https://github.com/rebassjs/rebass) - React primitive UI components built with styled-system..
