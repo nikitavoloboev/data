@@ -1,6 +1,6 @@
 # My [GitHub](https://github.com/nikitavoloboev) repositories
 
-The number between brackets shows the year I created the repo in. Repos with 🌟 are my **favorite**. Repos with 💡 are in an idea stage.
+The number between brackets shows the year I created the repo in. Repos with 🌟 are my **favorite**. Repos with 💡 are in an idea stage. Repos with 🚧 are under development.
 
 ## Learn Anything
 
@@ -36,7 +36,7 @@ The number between brackets shows the year I created the repo in. Repos with �
 ## CLI
 
 - [License Up (2017)](https://github.com/nikitavoloboev/license-up#readme) - Create a license quickly.
-- [Alias search (2017) 💡](https://github.com/nikitavoloboev/alias-search#readme) - Find your aliases and shell functions.
+- [Alias search (2017) 🚧](https://github.com/nikitavoloboev/alias-search#readme) - Find your aliases and shell functions.
 
 ## Curated
 
