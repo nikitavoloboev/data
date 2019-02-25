@@ -43,6 +43,7 @@
 
 - [Discord Go](https://github.com/bwmarrin/discordgo) - Go bindings for Discord.
 - [Digital Ocean](https://github.com/digitalocean/godo) - Go client library for accessing the DigitalOcean V2 API.
+- [Slacker](https://github.com/shomali11/slacker) - Slack Bot Framework.
 
 ## Graphics
 
