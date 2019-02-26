@@ -18,3 +18,4 @@
 - [Twiggy](https://github.com/rustwasm/twiggy) - Code size profiler.
 - [Olin](https://github.com/Xe/olin) - Environment to run and operate functions as a service projects using event sourcing and webassembly under the hood.
 - [Wasmtime](https://github.com/CraneStation/wasmtime) - Standalone wasm-only runtime for WebAssembly, using the Cranelift JIT.
+- [Cranelift Code Generator](https://github.com/CraneStation/cranelift) - Low-level retargetable code generator. It translates a target-independent intermediate representation into executable machine code..
