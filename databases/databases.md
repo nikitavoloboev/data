@@ -24,3 +24,4 @@
 - [Algebraic Query Language](http://categoricaldata.net/aql.html) - Schemas as categories, DB instances as functors, provable data migration as functor composition.
 - [David Nolen: Out of the Tarpit, Revisited (2017)](https://www.youtube.com/watch?v=7y1phdZkLw4)
 - [syncing-thesis](https://github.com/mirkokiefer/syncing-thesis) - Syncing strategies for mobile apps.
+- [Storage Performance Development Kit](https://spdk.io/) - Provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.

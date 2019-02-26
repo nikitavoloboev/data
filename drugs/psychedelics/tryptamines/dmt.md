@@ -43,3 +43,4 @@
 - [A/B Extraction Tek](https://www.reddit.com/r/DMT/comments/7kcuuh/ab_dmt_extraction_tek/)
 - [What do you think about the DMT experience?](https://www.reddit.com/r/RationalPsychonaut/comments/919nrn/what_do_you_think_about_the_dmt_experience/)
 - [GordoTEK DMT Extraction Technique (2018)](https://www.dailymotion.com/video/x6era19)
+- [Stan Grof about his first 5meo-DMT Experience](https://www.youtube.com/watch?v=xFXQIQp-O2Q)
