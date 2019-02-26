@@ -31,3 +31,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-flow](https://github.com/nvie/gitflow) - Collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).
 - [gitin](https://github.com/isacikgoz/gitin) - Commit/branch/status explorer for git.
 - [Lab](https://github.com/zaquestion/lab) - Wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab.
+- [Tips for a disciplined git workflow (2019)](https://drewdevault.com/2019/02/25/Using-git-with-discipline.html)

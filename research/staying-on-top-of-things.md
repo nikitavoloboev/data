@@ -26,7 +26,7 @@ Twitter is my favorite social media network and it is where I share everything [
 
 ### Reddit
 
-My Reddit is heavily tailored to my own likes and I very often just look into some subreddits I like to see what is new. I list subreddits I like [here](https://github.com/learn-anything/reddit#readme). I also love using and creating [multi reddits](https://github.com/learn-anything/reddit-multi#readme) I often check out.
+My Reddit is heavily tailored to my own likes and I very often just look into some subreddits I like to see what is new. I list subreddits I like [here](https://github.com/learn-anything/reddit#readme).
 
 I access all these subreddits from [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything#readme) and [Deanishe's Reddit worklfow](https://github.com/deanishe/alfred-reddit#readme) workflows.
 

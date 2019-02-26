@@ -19,3 +19,4 @@
 - [StanfordNLP](https://github.com/stanfordnlp/stanfordnlp) - Python NLP Library for Many Human Languages.
 - [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Tutorial for who is studying NLP(Natural Language Processing) using TensorFlow and PyTorch.
 - [gpt-2](https://github.com/openai/gpt-2) - Code for the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
+- [Lingvo](https://github.com/tensorflow/lingvo) - Framework for building neural networks in Tensorflow, particularly sequence models.
