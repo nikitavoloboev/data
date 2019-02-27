@@ -2,7 +2,7 @@
 
 For my own personal finance, I budget all my money with my online bank app, [N26](https://n26.com/en-eu/) and its [spaces feature](https://n26.com/en-eu/spaces).
 
-On my [scheduled monthly reviews](../focusing/focusing.md) (last Sunday of every month), I budget out the money I plan myself to spend next month into a `Month` space in N26. The remaining money goes into `Save` space or my optional planned big purchase space (i.e. Tesla). Here is how it looks in N26:
+On my [scheduled monthly reviews](../focusing/focusing.md) (last Sunday of every month), I budget out the money I plan myself to spend next month into a `Month` space. The remaining money goes into `Save` space or my optional planned big purchase space (i.e. Tesla). Here is how it looks:
 
 ![](https://i.imgur.com/SOryWKs.jpg)
 
