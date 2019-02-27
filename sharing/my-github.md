@@ -36,7 +36,7 @@ The number between brackets shows the year I created the repo in. Repos with �
 ## CLI
 
 - [License Up (2017)](https://github.com/nikitavoloboev/license-up#readme) - Create a license quickly.
-- [Alias search (2017) 💡](https://github.com/nikitavoloboev/alias-search#readme) - Find your aliases and shell functions.
+- [Shell search (2017) 💡](https://github.com/nikitavoloboev/shell-search#readme) - Find your aliases and shell functions.
 
 ## Curated
 

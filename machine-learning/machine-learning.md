@@ -74,3 +74,4 @@
 - [Deep learning drizzle](https://github.com/kmario23/deep-learning-drizzle) - Various ML, reinforcement learning video lectures.
 - [Xfer](https://github.com/amzn/xfer) - Transfer Learning library for Deep Neural Networks.
 - [List of summer schools in machine learning + related fields](https://github.com/sshkhr/awesome-mlss#readme)
+- [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers#readme)
