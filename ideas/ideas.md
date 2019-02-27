@@ -16,3 +16,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: How do you keep track of your creative thoughts? (2019)](https://news.ycombinator.com/item?id=18837345)
 - [Ideas by Paul Graham (2005)](http://www.paulgraham.com/ideas.html)
 - [Ask HN: How to find profitable side project idea? (2019)](https://news.ycombinator.com/item?id=19164037)
+- [What are some good tiny projects for learning a language or technique? (2019)](https://lobste.rs/s/twzcc6/what_are_some_good_tiny_projects_for)

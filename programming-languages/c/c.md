@@ -13,3 +13,4 @@ Lingua franca of programming world. I write Go which is similar to it.
 - [Tiny Garbage Collector](https://github.com/orangeduck/tgc) - Tiny Garbage Collector for C.
 - [Awesome C](https://github.com/kozross/awesome-c#readme) - Curated list of awesome C frameworks, libraries, resources and other shiny things.
 - [9cc small C compiler](https://github.com/rui314/9cc)
+- [picol, a Tcl interpreter in 550 lines of C code (2007)](http://oldblog.antirez.com/post/picol.html)

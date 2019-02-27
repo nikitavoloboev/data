@@ -21,7 +21,6 @@
 
 - [Nix manual](https://nixos.org/nix/manual/)
 - [Nix pills](https://nixos.org/nixos/nix-pills/index.html)
-- [Interesting nix config](https://github.com/jwiegley/nix-config) - macOS based.
 - [Benefits of using nix](https://www.reddit.com/r/haskell/comments/7wmhyi/an_opinionated_guide_to_haskell_in_2018/du2506q/)
 - [Nix, the purely functional build system](http://www.boronine.com/2018/02/02/Nix/) - Great intro article.
 - [A Gentle Introduction to the Nix Family](https://ebzzry.io/en/nix/)

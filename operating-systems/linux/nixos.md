@@ -19,6 +19,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 
 ## Nix configs (macOS)
 
+- [John Wiegley](https://github.com/jwiegley/nix-config)
 - [LnL7](https://github.com/LnL7/dotfiles#readme)
 - [cmacrae](https://github.com/cmacrae/.nixpkgs/blob/master/darwin-configuration.nix)
 - [Tom's nix-configs](https://github.com/nocoolnametom/nix-configs)
