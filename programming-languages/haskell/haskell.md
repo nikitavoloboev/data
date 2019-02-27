@@ -54,3 +54,4 @@
 - [Haskell ITMO course at CTDHaskell ITMO course at CTD](https://github.com/jagajaga/FP-Course-ITMO#readme)
 - [Google's Haskell training: 101 and 102](https://github.com/google/haskell-trainings)
 - [brittany](https://github.com/lspitzner/brittany) - Haskell source code formatter.
+- [Stack](https://github.com/commercialhaskell/stack) - Cross-platform program for developing Haskell projects.

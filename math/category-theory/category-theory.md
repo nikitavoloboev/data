@@ -24,6 +24,7 @@ Anything that can be represented by the above list can be analyzed as a category
 
 ## Links
 
+- [An invitation to category theory (2018)](http://chalkdustmagazine.com/features/an-invitation-to-category-theory/) - Just what is category theory? Tai-Danae Bradley explains.
 - [What is Applied Category Theory? (2018)](https://arxiv.org/abs/1809.05923)
 - [Category Theory nLab](https://ncatlab.org/nlab/show/category+theory)
 - [Applied Category Theory – Online Course](https://johncarlosbaez.wordpress.com/2018/03/26/seven-sketches-in-compositionality/)
@@ -37,6 +38,8 @@ Anything that can be represented by the above list can be analyzed as a category
 - [A Perspective on Higher Category Theory](https://golem.ph.utexas.edu/category/2010/03/a_perspective_on_higher_catego.html)
 - [Category theory foundations 1.0 course](https://www.youtube.com/watch?v=BF6kHD1DAeU&list=PLGCr8P_YncjVjwAxrifKgcQYtbZ3zuPlb)
 - [Why category theory matters: a functional programmer’s perspective](https://www.researchgate.net/publication/282868977_Why_category_theory_matters_a_functional_programmer's_perspective)
+- [Category Theory in Coq](https://github.com/jwiegley/category-theory) - Encodes category theory in Coq, with the primary aim being to allow representation and manipulation of categorical terms, as well realization of those terms in various target categories.
+- [Formalization of category theory in cubical Agda](https://github.com/fredefox/cat)
 
 ## Images
 
