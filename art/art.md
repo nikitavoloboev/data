@@ -23,6 +23,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Anderson Debernardi](https://imgur.com/gallery/dKx5S)
 - [Evgeny Lushpin](https://lushpin.com/)
 - [Qi Sheng Luo](https://www.artstation.com/luoqisheng)
+- [Leland Foster](https://www.instagram.com/leland.foster/)
 
 ## Interesting artists
 
@@ -42,6 +43,8 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Zach Lieberman](https://zachlieberman.tictail.com/)
 - [Mari K](https://www.artstation.com/madmaraca)
 - [Cody Leigh Bond](https://www.etsy.com/shop/CodyLeighBond)
+- [Android Jones](http://androidjones.com/)
+- [Eugene Golovanchuk](https://www.theskeeva.com/)
 
 ## Interesting art
 

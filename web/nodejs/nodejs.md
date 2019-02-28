@@ -20,3 +20,4 @@
 - [Pragmatic Modularity (2016)](https://mafinto.sh/blog/pragmatic-modularity.html)
 - [Stability first (2016)](https://mafinto.sh/blog/stability-first.html)
 - [David](https://github.com/alanshaw/david) - Node.js module that tells you when your package npm dependencies are out of date.
+- [httpie](https://github.com/lukeed/httpie) - Node.js HTTP client as easy as pie.

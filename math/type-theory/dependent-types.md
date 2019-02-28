@@ -4,3 +4,4 @@
 
 - [Cubical Adventures](https://www.youtube.com/watch?v=W5-ulP_JzNc)
 - [Resources for "The Little Typer" study group](https://github.com/paulcadman/the-little-typer)
+- [Compiling with Dependent Types](https://www.williamjbowman.com/resources/wjb-defense.pdf)

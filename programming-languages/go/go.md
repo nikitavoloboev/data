@@ -82,3 +82,4 @@ Go promotes composition over inheritance.
 - [Awesome Go Linters](https://github.com/golangci/awesome-go-linters#readme)
 - [Leaktest](https://github.com/fortytw2/leaktest) - Goroutine Leak Detector.
 - [Practical Go: Real world advice for writing maintainable Go programs (2018)](https://dave.cheney.net/practical-go/presentations/qcon-china.html) ([HN](https://news.ycombinator.com/item?id=19218097))
+- [The State of Go: Feb 2019](https://speakerdeck.com/campoy/the-state-of-go-feb-2019?slide=38)

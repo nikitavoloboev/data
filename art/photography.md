@@ -32,3 +32,5 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 - [Artsy: Color Photography](https://www.artsy.net/gene/color-photography)
 - [What is parallelism and how to use it to improve your photography](https://medium.com/@zellersamuel/what-is-parallelism-and-how-to-use-it-to-improve-your-photography-652240f9408f?sk=75b2840481296e121617627ba8f98e55)
 - [Photographer Captures the Most Amazing Night Time Aerials I Have Ever Seen](http://themindcircle.com/night-time-aerial-photographs/)
+- [British Photography Awards 2018: Check out award-winning pictures](https://www.bbc.co.uk/newsround/47060311)
+- [Apple highlights best photos shot on iPhone around the world (2019)](https://www.apple.com/newsroom/2019/02/apple-highlights-best-photos-shot-on-iphone-around-the-world/)

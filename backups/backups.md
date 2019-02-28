@@ -26,3 +26,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 
 - [Tao backup](http://taobackup.com/) - Pretty funny take on backups.
 - [Rsync time backup](https://github.com/laurent22/rsync-time-backup)
+- [Cloud Backup Comparison. Which one is the fastest? (2019)](https://www.arqbackup.com/cloud-backup-comparison.html)

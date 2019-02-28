@@ -10,3 +10,4 @@
 - [Bogleheads Wiki](https://www.bogleheads.org/wiki/Main_Page) - Great resource.
 - [Lazy portfolios](https://www.bogleheads.org/wiki/Lazy_portfolios)
 - [Keith Rabois' investment criteria](https://twitter.com/rabois/status/934099022603747329)
+- [Seeking Alpha](https://seekingalpha.com/) - Crowd-sourced content service for financial markets.

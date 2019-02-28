@@ -75,3 +75,4 @@
 - [Ketos](https://github.com/murarth/ketos) - Lisp dialect scripting and extension language for Rust programs.
 - [MAY](https://github.com/Xudong-Huang/may) - Rust stackful coroutine library.
 - [Ditto](https://github.com/alex-shapiro/ditto) - CRDTs for common data structures like maps, vecs, sets, text, and JSON.
+- [self_update](https://github.com/jaemk/self_update) - Provides updaters for updating rust executables in-place from various release distribution backends.

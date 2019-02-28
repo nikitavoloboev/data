@@ -42,3 +42,4 @@ I am interested in getting [Preonic Light](https://www.massdrop.com/buy/massdrop
 - [KeyHive](https://keyhive.xyz/) - Personalize Your Keyboard.
 - [My Corne keyboard (crkbd-classic) - Split, column staggered with 3-thumb keys](https://www.reddit.com/r/MechanicalKeyboards/comments/9i5uo3/my_corne_keyboard_crkbdclassic_split_column/)
 - [Awesome Split Keyboards](https://github.com/diimdeep/awesome-split-keyboards#readme)
+- [Making My Own USB Keyboard From Scratch (2019)](http://blakesmith.me/2019/01/16/making-my-own-usb-keyboard-from-scratch.html) ([HN](https://news.ycombinator.com/item?id=19181473))

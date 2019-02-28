@@ -109,6 +109,9 @@ Here are few more things I liked, design wise.
 - [Juliette Pretot](https://juliette.sh/)
 - [Max Stoiber](https://mxstbr.com/) - [OSS](https://github.com/mxstbr/mxstbr.com)
 - [Aprile](https://aprileelcich.com/)
+- [Maarten Corpel](http://maartencorpel.com/)
+- [Stephanie Nemeth](https://stephanie.lol/#about)
+- [Dave Whyte](http://beesandbombs.com/)
 
 ## Other
 

@@ -22,3 +22,4 @@
 - [Diablo: A Classic Game Postmortem (2016)](https://www.youtube.com/watch?v=VscdPA6sUkc)
 - [Game Engine Architecture Book](https://www.gameenginebook.com/)
 - [Curated List of Game Network Programming Resources](https://github.com/MFatihMAR/Awesome-Game-Networking#readme)
+- [Kit](https://github.com/kitlang/kit) - Programming language designed for creating concise, high performance cross-platform applications.

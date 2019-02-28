@@ -12,3 +12,4 @@
 - [Phil’s Data Structure Zoo](https://g1thubhub.github.io/data-structure-zoo.html)
 - [The Periodic Table of Data Structures](https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf) ([HN](https://news.ycombinator.com/item?id=18314555))
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) ([HN](https://news.ycombinator.com/item?id=19082943))
+- [Data structures to name-drop when you want to sound smart in an interview](http://blog.amynguyen.net/?p=853)

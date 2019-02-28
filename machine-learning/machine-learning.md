@@ -75,3 +75,4 @@
 - [Xfer](https://github.com/amzn/xfer) - Transfer Learning library for Deep Neural Networks.
 - [List of summer schools in machine learning + related fields](https://github.com/sshkhr/awesome-mlss#readme)
 - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers#readme)
+- [Machine Learning CS Columbia Course (2019)](http://www.cs.columbia.edu/%7Everma/classes/ml/index.html)

@@ -48,6 +48,8 @@ I love software and non software tools that help me in some way. Most tools I us
 - [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.
 - [hack.chat](https://hack.chat/) - Minimal, distraction-free chat application.
 - [Seafile](https://www.seafile.com/en/home/) - Enterprise file hosting platform with high reliability and performance.
+- [Outline](https://outline.com/) - Read & annotate without distractions.
+- [HelloSign](https://www.hellosign.com/) - Most Powerful Platform for Business Agreements.
 
 ## Notes
 

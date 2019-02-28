@@ -14,3 +14,4 @@ I fast for 13 hours every day. I usually break my fast in the morning after some
 - [Great discussions around health benefits of fasting](https://www.reddit.com/r/fasting/comments/8bqdoe/for_anyone_that_is_interested_in_learning_more/dx9p5gu/)
 - [Health lies in healthy circadian habits | Satchin Panda (2017)](https://www.youtube.com/watch?v=erBJuxVR7IE)
 - [Dr. Satchin Panda on Practical Implementation of Time-Restricted Eating & Shift Work Strategies](https://www.youtube.com/watch?v=iywhaz5z0qs)
+- [Exercise, fasting shown to help cells shed defective proteins](https://news.harvard.edu/gazette/story/2019/02/exercise-fasting-shown-to-help-cells-shed-defective-proteins/) ([HN](https://news.ycombinator.com/item?id=19247265))

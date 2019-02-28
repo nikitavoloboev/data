@@ -13,3 +13,4 @@ It also has a [generous free tier](https://aws.amazon.com/free/).
 - [AWS Serverless Application Model](https://github.com/awslabs/serverless-application-model) - Contains the SAM specification, the code that translates SAM templates into AWS CloudFormation stacks, general information about the model, and examples of common applications.
 - [Kubernetes on AWS with Terraform](https://github.com/xuwang/kube-aws-terraform) - Kubernetes implementation using CoreOS on AWS platform.
 - [Cloud Reports](https://github.com/tensult/cloud-reports) - Scans your AWS cloud resources and generates reports.
+- [CloudMapper](https://github.com/duo-labs/cloudmapper) - Helps you analyze your Amazon Web Services (AWS) environments.

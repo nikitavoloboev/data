@@ -14,3 +14,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ask HN: Any ICO that actually delivers what it promises? (2018)](https://news.ycombinator.com/item?id=18459664)
 - [Week in Ethereum News](http://www.weekinethereum.com/)
 - [evm-tools](https://github.com/CoinCulture/evm-tools) - Collection of tools for working with the evm.
+- [Augur](https://www.augur.net/) - Prediction market protocol owned and operated by the people that use it.
+  - [Augur Today](http://www.augur.today/)

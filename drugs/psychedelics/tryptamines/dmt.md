@@ -28,6 +28,13 @@
   - You do not need to worry about breathing, your body will automatically regulate that for you in most cases. Unless you have a medical condition. So just don't even worry about it, just hold it as long as you possibly can cuz your body will force you to breathe when it gets too hard
 - [Yocan Evolve works. The key is to preheat the pen a bit before loading it with DMT.](https://www.reddit.com/r/DMT/comments/apmc92/dmt_with_yocan_evolve/)
 - [If you have a yocan you don't need vape juice. Yocans are for dabs but you can sprinkle dmt (or 5meodmt or crack or meth or several drugs really) straight into the coil. All you need to do is put 50 mg onto the coil and press the button for a second or two until the dmt becomes waxy and stuck to the coil. Then you put the top on and inhale slow and deep for 10 seconds and hold the vapor in for 10 more seconds. That should work. I prepare my lungs and calm my anxiety by breathing in for 10 seconds and holding breathes 10 seconds a few times before I do it. I use a yocan evolve and it's very efficient. If you inhale and hold 50 mg in for the full time you should have a guaranteed breakthrough. The vapor is harsh tho. I always recommend people breakthrough their first time because people generally have the least anxiety and they can get the full experience and because when you ego death you let go and pretty much cannot freak out.](https://www.reddit.com/r/DMT/comments/9lz7ym/could_i_get_a_comprehensive_smoking_guide_im/)
+- [Hold for 20 secs. When you breath out nothing should come out.](https://www.reddit.com/r/DMT/comments/aofek1/whats_the_most_fool_proof_method_for_a/)
+- For smoking changa with pipe: [Pack the pipe loosely, exhale completely, lightly inhale while gently getting the top completely lit then take the biggest inhale you can and hold as long as you can, repeat.](https://www.reddit.com/r/DMT/comments/a0d9tn/how_to_smoke_changa_with_a_pipe/)
+- [I highly suggest using a water bong. It's almost impossible to burn the spice (dunno why, but I haven't been able to), VERY easy on the lungs, and almost every try is a breakthough (with the right dosage).](https://www.dmt-nexus.me/forum/default.aspx?g=posts&m=76437)
+  - I double up the screen in the bowl, add leaf (usually blue lotus, but anything will work) put my 40-60mgs of spice on top and then add another thin layer of leaf so that no spice is exposed. Light the top layer and the spice partially vaporizes and the rest melts into the lower bed of leaf. This works wonderful for me.
+  - I've made a lot of enhance leaf over the years, but really find that I prefer the leaf bed method.
+- For bong with changa: [I'd honestly recommend keeping it at a distance for a second or two to help the DMT melt into the herb a little, and then let it touch to allow the herbs to combust and release their intended MAOI effect](https://www.reddit.com/r/DMT/comments/97iinn/best_way_to_smoke_changa/)
+- [Once the changa is lit, you should take the lighter away and keep sucking. This will help prevent it from burning.](https://www.reddit.com/r/DMT/comments/5oz389/how_to_smoke_change_with_a_pipe/)
 
 ## Links
 
@@ -44,3 +51,5 @@
 - [What do you think about the DMT experience?](https://www.reddit.com/r/RationalPsychonaut/comments/919nrn/what_do_you_think_about_the_dmt_experience/)
 - [GordoTEK DMT Extraction Technique (2018)](https://www.dailymotion.com/video/x6era19)
 - [Stan Grof about his first 5meo-DMT Experience](https://www.youtube.com/watch?v=xFXQIQp-O2Q)
+- [How to Have the Best DMT Experience: 5 Necessary Steps To Prepare Yourself](https://highexistence.com/5-steps-preparing-spiritual-dmt-ceremony/)
+- [Changa: Smoking DMT infused into Ayahuasca and other Herbs](http://julianpalmerism.com/changa/)

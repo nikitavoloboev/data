@@ -9,6 +9,7 @@
 - [Koa](https://koajs.com/#introduction) - Smaller, more expressive, and more robust foundation for web applications and APIs.
 - [Umi](https://github.com/umijs/umi) - Pluggable enterprise-level react application framework.
 - [Vue.js](https://vuejs.org/) - Progressive JavaScript Framework.
+- [Mithril](https://mithril.js.org/) - Modern client-side Javascript framework for building Single Page Applications.
 
 ## Animation
 

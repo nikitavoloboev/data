@@ -29,3 +29,4 @@ Learning to write music. Live coding music sounds pretty awesome. I used [Sonic 
 - [Synesthesia & creating your own score | Devonté Hynes | TED](https://www.youtube.com/watch?v=Dc60ldmTrIg)
 - [Stimming Interview: How I Play](https://www.youtube.com/watch?v=fuKYq_n4Ops)
 - [Functional music theory library for JavaScript](https://github.com/danigb/tonal)
+- [LFO](https://lfo1.sharetribe.com/) - Rent gear from musicians around the world, and make money from the instruments you have sitting around your studio.

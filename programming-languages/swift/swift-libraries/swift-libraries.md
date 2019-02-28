@@ -51,3 +51,4 @@
 - [LayoutKit](https://github.com/linkedin/LayoutKit) - Fast view layout library for iOS, macOS, and tvOS.
 - [SwiftCheck](https://github.com/typelift/SwiftCheck) - QuickCheck for Swift.
 - [Highlightr](https://github.com/raspu/Highlightr) - iOS & OSX Syntax Highlighter.
+- [Loaf](https://github.com/schmidyy/Loaf) - Swifty Framework for Easy iOS Toasts.

@@ -17,8 +17,10 @@ It includes:
 - [Hello Internet](http://www.hellointernet.fm) - CGP Grey and Brady Haran in Conversation.
 - [Kevin Rose Show](https://overcast.fm/itunes1088864895/the-kevin-rose-show) - Kevin Rose interviews and explores new ways to reach peak personal and professional performance.
 - [The Knowledge Project with Shane Parrish](https://overcast.fm/itunes990149481/the-knowledge-project-with-shane-parrish) - Mastering the Best of What Other People Have Figured Out.
+- [Kubernetes Podcast from Google](https://overcast.fm/itunes1370049232/kubernetes-podcast-from-google) - Weekly podcast focused on what’s happening in the Kubernetes community.
 - [Making Sense with Sam Harris](https://overcast.fm/itunes733163012/making-sense-with-sam-harris) - Neuroscientist, philosopher and best selling author.
 - [Rationally Speaking](https://overcast.fm/itunes351953012/rationally-speaking) - Exploring the borderlands between reason and nonsense.
+- [React Podcast](https://reactpodcast.simplecast.fm/) - Conversations about React with your favorite developers.
 - [Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas](https://overcast.fm/itunes1406534739/sean-carrolls-mindscape-science-society-philosophy-culture-arts-and-ideas) - Sean Carroll hosts conversations with the world’s most interesting thinkers.
 - [StackTrace](https://stacktracepodcast.fm/) - Apple news & rumors from a developer's perspective.
 - [Swift by Sundell](https://overcast.fm/itunes1267161825/swift-by-sundell) - Answering your questions about Swift development.

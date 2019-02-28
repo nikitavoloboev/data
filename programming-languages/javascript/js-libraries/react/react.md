@@ -12,7 +12,8 @@
 
 ## Links
 
-- [React as a UI Runtime (2019)](https://overreacted.io/react-as-a-ui-runtime/)
+- [React as a UI Runtime (2019)](https://overreacted.io/react-as-a-ui-runtime/) ([HN](https://news.ycombinator.com/item?id=19067302))
+- [React is Changing How We Think, Again (2019)](https://rjzaworski.com/2019/02/react-is-changing-how-we-think-again)
 - [A practical understanding of Flux](http://drewdevault.com/2015/07/20/A-practical-understanding-of-Flux.html)
 - [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
 - [Introduction to The Beginner's Guide to ReactJS](https://egghead.io/lessons/react-introduction-to-the-beginner-s-guide-to-reactjs)
@@ -55,3 +56,6 @@
 - [React-axe](https://github.com/dequelabs/react-axe) - Accessibility auditing for React.js applications.
 - [Awesome React](https://github.com/enaqx/awesome-react#readme) - Collection of awesome things regarding React ecosystem.
 - [Grommet](https://github.com/grommet/grommet) - React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package.
+- [Application that will help you learn React fundamentals](https://github.com/tyroprogrammer/learn-react-app) ([HN](https://news.ycombinator.com/item?id=19050509))
+- [Progressive react](https://houssein.me/progressive-react) - Want to make your React site more performant? Here's a quick checklist.
+- [Relay](https://github.com/facebook/relay) - JavaScript framework for building data-driven React applications.

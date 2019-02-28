@@ -50,3 +50,4 @@
 - [Why I Write CSS in JavaScript (2019)](https://mxstbr.com/thoughts/css-in-js/)
 - [Styled System](https://github.com/jxnblk/styled-system) - Responsive, theme-based style props for building design systems with React.
 - [Rebass](https://github.com/rebassjs/rebass) - React primitive UI components built with styled-system..
+- [TypeStyle](https://github.com/typestyle/typestyle) - Making CSS type safe.
