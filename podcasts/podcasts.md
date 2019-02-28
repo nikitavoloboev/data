@@ -2,7 +2,32 @@
 
 I love listening to podcasts with [Overcast](https://overcast.fm) especially when commuting or traveling somewhere.
 
-My favorite podcasts currently are [Hello Internet](http://www.hellointernet.fm), [MIT Artificial Intelligence](https://overcast.fm/itunes1434243584/artificial-intelligence-ai-agi-lex-mit), [Kevin Rose Show](https://www.kevinrose.com/), [Tim Ferris Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show)[Tim Ferris Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show) and [StackTrace](https://stacktracepodcast.fm/). And [here](https://www.dropbox.com/s/rje42db9yj4d59w/overcast.opml?dl=1) is a list of all the podcasts I am subscribed to (can be imported to Overcast).
+I have `Top` and `Other` smart playlists in Overcast. Here is how the `Top` playlist looks for me:
+
+![](https://i.imgur.com/Z7qFmaE.jpg)
+
+It includes:
+
+- [MIT Artificial Intelligence](https://overcast.fm/itunes1434243584/artificial-intelligence) - Conversations at MIT and beyond about the nature of intelligence and AI.
+- [Corecursive](https://corecursive.com/) - Learn from software development experts. Hosted by Adam Gordon Bell.
+- [Cortex](https://overcast.fm/itunes1001591696/cortex) - CGP Grey and Myke Hurley discuss their working lives.
+- [Design Details](https://overcast.fm/itunes947191070/design-details) - Weekly conversation about design process and culture.
+- [EconTalk](https://overcast.fm/itunes135066958/econtalk) - Economics Brought to Life, Library of Economics and Liberty.
+- [FoundMyFitness](https://overcast.fm/itunes818198322/foundmyfitness) - Podcast about health, science, nutrition, aging, and fitness.
+- [Hello Internet](http://www.hellointernet.fm) - CGP Grey and Brady Haran in Conversation.
+- [Kevin Rose Show](https://overcast.fm/itunes1088864895/the-kevin-rose-show) - Kevin Rose interviews and explores new ways to reach peak personal and professional performance.
+- [The Knowledge Project with Shane Parrish](https://overcast.fm/itunes990149481/the-knowledge-project-with-shane-parrish) - Mastering the Best of What Other People Have Figured Out.
+- [Making Sense with Sam Harris](https://overcast.fm/itunes733163012/making-sense-with-sam-harris) - Neuroscientist, philosopher and best selling author.
+- [Rationally Speaking](https://overcast.fm/itunes351953012/rationally-speaking) - Exploring the borderlands between reason and nonsense.
+- [Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas](https://overcast.fm/itunes1406534739/sean-carrolls-mindscape-science-society-philosophy-culture-arts-and-ideas) - Sean Carroll hosts conversations with the world’s most interesting thinkers.
+- [StackTrace](https://stacktracepodcast.fm/) - Apple news & rumors from a developer's perspective.
+- [Swift by Sundell](https://overcast.fm/itunes1267161825/swift-by-sundell) - Answering your questions about Swift development.
+- [The Swift Community Podcast](https://overcast.fm/itunes1449664346/the-swift-community-podcast) - Podcast for the Swift Community, by the Swift Community.
+- [Talking machines](https://overcast.fm/itunes955198749/talking-machines) - Human conversation about machine learning.
+- [The Tim Ferriss Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show) - Interesting interviews focused on life improvement.
+- [The Undefined Podcast](https://overcast.fm/itunes1451541555/the-undefined-podcast) - The only engineering podcast with a 2 drink minimum.
+
+For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts#readme). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/rje42db9yj4d59w/overcast.opml?dl=1) (can be imported to Overcast).
 
 ## Favorite episodes
 

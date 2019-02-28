@@ -1,6 +1,6 @@
 # [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Bulma](https://bulma.io) framework seems nice. [Pesticide Chrome Extension](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) is invaluable for debugging CSS.
+[Pesticide Chrome Extension](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) is invaluable for debugging CSS.
 
 ## Notes
 
@@ -22,6 +22,7 @@
 
 - [Understanding static and relative positioning](https://webplatform.github.io/docs/tutorials/static_and_relative_positioning/)
 - [Code guide by @mdo](http://codeguide.co/)
+- [Bulma](https://bulma.io) - Free, open source CSS framework based on Flexbox.
 - [CSS reference](https://cssreference.io/)
 - [CSS Blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [Opticss](https://github.com/linkedin/opticss) - CSS Optimizer.
