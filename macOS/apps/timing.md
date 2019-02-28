@@ -4,11 +4,13 @@ I use Timing app to fully automate tracking my time on my computer.
 
 The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
 
-![](https://i.imgur.com/KE7Fk35.png)
+![](https://i.imgur.com/lPloyw0.png)
 
 My projects look like this:
 
-![](https://i.imgur.com/g9tJ9VJ.png)
+![](https://i.imgur.com/Yoe40nK.png)
+
+> The numbers after the projects are my weekly set goals in hours
 
 One thing I realized after using Timing for over 2 years is that for a long time, I was tracking actions rather than actual projects and the actual value comes from knowing how much time I spent on particular project that matters to me. In this way, Timing also has perfect synergy with my [Focus Trello board](../../focusing/focusing.md).
 

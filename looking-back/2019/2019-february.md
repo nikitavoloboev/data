@@ -18,7 +18,7 @@ I also realized that coffee withdrawal is a real thing and it sucks. So no more 
 
 Lots of time spent on `News` which I mostly use as a catch all for any time that I've not spent not of my real projects. I also started setting Timing weekly project goals that looks like this:
 
-![](https://i.imgur.com/jW9Xekb.png)
+![](https://i.imgur.com/Yoe40nK.png)
 
 As can be seen, my goal of less than 3 hours of `News` time a week was not met in Feburary. Not even close. 😞
 

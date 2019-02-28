@@ -40,3 +40,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Important saving goals people should have](https://www.reddit.com/r/ynab/comments/8d4ab4/what_is_the_best_approach_for_budgeting_savings/)
 - [The Shockingly Simple Math Behind Early Retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
 - [Ask HN: What to do after \$8M (all cash, post tax) exit? (2018)](https://news.ycombinator.com/item?id=18600220)
+- [Liberapay](https://liberapay.com/) - Recurrent donations platform. ([HN](https://news.ycombinator.com/item?id=19270786))

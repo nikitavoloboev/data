@@ -7,6 +7,7 @@
 ## DB
 
 - [PostgreSQL ORM](https://github.com/alevy/postgresql-orm) - Haskell ORM (Object Relational Mapping) and migrations DSL for PostgreSQL.
+- [Squeal](https://github.com/morphismtech/squeal) - Deep embedding of SQL in Haskell.
 
 ## SDKs
 
