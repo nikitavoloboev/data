@@ -109,6 +109,7 @@
 - [sse](https://github.com/manucorporat/sse) - Server-Sent Events implementation in Go. Used by the Gin Framework.
 - [Go Daemon](https://github.com/takama/daemon) - Daemon package for use with Go (golang) services with no dependencies.
 - [Go JSON Schema Reflection](https://github.com/alecthomas/jsonschema) - Can be used to generate JSON Schemas from Go types through reflection.
+- [simpletable](https://github.com/alexeyco/simpletable) - Simple tables in terminal with Go.
 
 ## Links
 

@@ -38,3 +38,4 @@
 - [tslint-config-security](https://github.com/webschik/tslint-config-security) - TSLint security rules.
 - [TypeScript Definition Style Guide](https://github.com/sindresorhus/typescript-definition-style-guide#readme)
 - [Conditional Type Checks](https://github.com/dsherret/conditional-type-checks) - Types for testing TypeScript types.
+- [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
