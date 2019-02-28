@@ -54,3 +54,4 @@
 - [HN: Advice to new programmers (2019)](https://news.ycombinator.com/item?id=19029206)
 - [Shipping code at N26 (2019)](https://hugogiraudel.com/2019/01/28/shipping-code-at-n26/)
 - [Junior and senior engineers (2015)](https://luca3m.me/2015/07/04/junior-vs-senior-engineers.html)
+- [Ask HN: How to be productive with big existing code base (2019)](https://news.ycombinator.com/item?id=19254008)
