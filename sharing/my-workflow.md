@@ -46,10 +46,6 @@ I try to be methodical in working and doing things. And I use the best tools and
 - [Day One](../macOS/apps/day-one.md) - All my private memories lie there. It also gets information from my Instagram/Twitter pages so I have nearly everything stored in one place which makes `On This Day` feature awesome.
 - [Looking back](../looking-back/looking-back.md) - My public log of things I've done and worked on throughout the months with highlights from each month/year.
 
-## Writing
-
-- [Ulysses](../macOS/apps/ulysses.md) - Write my Medium articles and edit my wiki from the phone there.
-
 ## Devices
 
 - Macbook - Everything productive. Code, learn, create.

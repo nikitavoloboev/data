@@ -28,25 +28,21 @@ Be aware of pacing between words and sentences. The sentences ideally should flo
 
 Replace words like `really like` with `love` or other more appropriate words that save space writing and are more relevant to what I am trying to say.
 
-## Know what to write next
-
-I mark articles I am working on now or plan to work on next with `#now` tag. This then makes searching and opening the article I am currently working on a breeze.
-
-![](https://i.imgur.com/1S8lUVX.png)
-
 ## My process in writing
 
 I start writing all my articles by jotting down notes as dashed points below the title. Here is how that looks:
 
-![](https://i.imgur.com/5yfxluP.png)
+![](https://i.imgur.com/Tl92zCL.png)
 
 I then start writing the article and try to touch on one or all of these points as I write the article. I add/remove points as I write the article.
 
-I write all my articles in [Ulysses](../macOS/apps/ulysses.md) app.
+I write all my articles in [Sublime Text](../text-editors/sublime-text/sublime-text.md) app and use a small [Alfred workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to search through articles I am pending on finishing.
+
+![](https://i.imgur.com/J7vMVjA.png)
 
 ## Publishing the article
 
-Once I wrote the article that I am quite happy with. I export the article straight to Medium with [Ulysses](../macOS/apps/ulysses.md) export function. I then reread the article again in Medium's editor and fix any styling issues/mistakes that happened. After that I publish the article and share it on Twitter and other internet places.
+Once I wrote the article that I am quite happy with. I export the article straight to Medium with [MarkdownToMedium](https://markdowntomedium.com/). I then reread the article again in Medium's editor and fix any styling issues/mistakes that happened. After that I publish the article and share it on Twitter and other internet places.
 
 ## [Focus. Format. Framing.](https://www.youtube.com/watch?v=_mQNwL8HkS0)
 

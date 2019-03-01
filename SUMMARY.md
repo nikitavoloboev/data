@@ -57,7 +57,6 @@
       - [KM Macros](macOS/apps/keyboard-maestro/km-macros.md)
     - [Typinator](macOS/apps/typinator.md)
     - [MindNode](macOS/apps/mindnode.md)
-    - [Ulysses](macOS/apps/ulysses.md)
     - [Hammerspoon](macOS/apps/hammerspoon.md)
     - [Hazel](macOS/apps/hazel.md)
     - [2Do](macOS/apps/2do.md)
