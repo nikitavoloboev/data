@@ -193,6 +193,7 @@
   - [Nim](programming-languages/nim/nim.md)
   - [Dhall](programming-languages/dhall.md)
   - [Processing](programming-languages/processing/processing.md)
+  - [Prolog](programming-languages/prolog/prolog.md)
 - [Data Science](data-science/data-science.md)
   - [Visualization](data-science/visualization.md)
 - [Open Source](open-source/open-source.md)
