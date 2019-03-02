@@ -65,3 +65,4 @@
 - [Formalizing 100 Theorems](http://www.cs.ru.nl/~freek/100/)
 - [Some Fundamental Theorems in Mathematics (2018)](https://arxiv.org/abs/1807.08416) ([HN](https://news.ycombinator.com/item?id=19039525))
 - [Some quotes from Robert Harper](https://www.youtube.com/watch?v=RcTaweZMEzo)
+- [Hessix](https://hessix.com/) - HN-like math research discussion for Ph.D.s ([HN](https://news.ycombinator.com/item?id=19278848))

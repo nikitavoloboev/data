@@ -39,3 +39,4 @@
 - [Moving from Ruby to Rust (2019)](https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html) ([HN](https://news.ycombinator.com/item?id=19166020))
 - [miniserve](https://github.com/svenstaro/miniserve) - Nice & small CLI tool in Rust (can use for inspiration in building Rust CLI tools).
 - [Rust: A unique perspective (2019)](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html)
+- [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust#readme)
