@@ -11,3 +11,4 @@
 - [(n,r)-categories in agda](https://github.com/freebroccolo/agda-nr-cats)
 - [Higher-Order Pattern Unification in Agda](https://github.com/Saizan/miller)
 - [Experimental library for Cubical Agda](https://github.com/agda/cubical)
+- [Functional Reactive Programming with Agda](https://github.com/divipp/frp_agda)

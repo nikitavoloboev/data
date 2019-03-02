@@ -27,3 +27,4 @@ And I really like [NixOS](linux/nixos.md) and it's [nix package manager](../pack
 - [SPDK](https://spdk.io/) - Storage Performance Development Kit Provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.
 - [Writing an OS in Rust (2018)](https://os.phil-opp.com/)
 - [intermezzOS kernel](https://github.com/intermezzOS/kernel) - Hobby operating system, in Rust.
+- [The intermezzOS book](http://intermezzos.github.io/book/) ([Code](https://github.com/intermezzOS/book))

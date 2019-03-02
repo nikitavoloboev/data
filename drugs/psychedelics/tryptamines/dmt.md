@@ -38,7 +38,7 @@
 
 ## Links
 
-- [Your number ONE most profound realisation after taking DMT...](https://www.reddit.com/r/DMT/comments/7mnp7f/your_number_one_most_profound_realisation_after/)
+- [Your number ONE most profound realization after taking DMT...](https://www.reddit.com/r/DMT/comments/7mnp7f/your_number_one_most_profound_realisation_after/)
 - [Stillpoint](https://vimeo.com/171672516)
 - [Mario in hyperspace](https://www.youtube.com/watch?v=uFqE0uyD2H4&feature=youtu.be)
 - [The Hyperbolic Geometry of DMT Experiences: Symmetries, Sheets, and Saddled Scenes](https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/)
@@ -53,3 +53,4 @@
 - [Stan Grof about his first 5meo-DMT Experience](https://www.youtube.com/watch?v=xFXQIQp-O2Q)
 - [How to Have the Best DMT Experience: 5 Necessary Steps To Prepare Yourself](https://highexistence.com/5-steps-preparing-spiritual-dmt-ceremony/)
 - [Changa: Smoking DMT infused into Ayahuasca and other Herbs](http://julianpalmerism.com/changa/)
+- [GordoTEK Organic Chemistry Extraction with FAQ (2019)](https://www.youtube.com/watch?v=pLcC94Qbzz8)

@@ -14,3 +14,4 @@
 - [Modern Microprocessors](http://www.lighterra.com/papers/modernmicroprocessors/) - Brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture.
 - [MicroPython](https://github.com/micropython/micropython) - Lean and efficient Python implementation for microcontrollers and constrained systems.
 - [What's your preferred embedded/application scripting language? (2019)](https://lobste.rs/s/jtrbrj/what_s_your_preferred_embedded)
+- [Bare-metal and Operating System development tutorials in Rust on the Raspberry Pi 3](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
