@@ -14,3 +14,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
 - [Kakoune](https://github.com/mawww/kakoune) - Code editor that implements Vi’s "keystrokes as a text editing language" model.
   - [kak-lsp](https://github.com/ul/kak-lsp) - Kakoune Language Server Protocol Client.
+
+## Links
+
+- [ycmd](https://github.com/Valloric/ycmd) - Code-completion & comprehension server.

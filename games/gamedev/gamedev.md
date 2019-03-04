@@ -23,3 +23,4 @@
 - [Game Engine Architecture Book](https://www.gameenginebook.com/)
 - [Curated List of Game Network Programming Resources](https://github.com/MFatihMAR/Awesome-Game-Networking#readme)
 - [Kit](https://github.com/kitlang/kit) - Programming language designed for creating concise, high performance cross-platform applications.
+- [raylib](https://github.com/raysan5/raylib) - Simple and easy-to-use library to enjoy videogames programming.
