@@ -2,4 +2,4 @@
 
 ## Notes
 
-- They have amazing ciders. Rekorderlig being my favorite one.
+- They have amazing ciders. Rekorderlig & Old Moud Cider being my favorite one.

@@ -21,3 +21,4 @@
 - [Stability first (2016)](https://mafinto.sh/blog/stability-first.html)
 - [David](https://github.com/alanshaw/david) - Node.js module that tells you when your package npm dependencies are out of date.
 - [httpie](https://github.com/lukeed/httpie) - Node.js HTTP client as easy as pie.
+- [Bull](https://github.com/optimalbits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
