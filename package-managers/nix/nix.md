@@ -47,3 +47,4 @@
 - [Install Nix docs by Mozilla](https://docs.mozilla-releng.net/develop/install-nix.html) - Pretty good.
 - [Nix scripts shared across IOHK projects](https://github.com/input-output-hk/iohk-nix)
 - [niv](https://github.com/nmattia/niv) - Painless dependencies for Nix projects.
+- [Cachix](https://cachix.org/) - Build Nix packages once and share them for good.

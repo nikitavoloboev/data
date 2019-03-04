@@ -4,7 +4,7 @@ The number between brackets shows the year I wrote the article in. Articles with
 
 ## Life
 
-- [Day Evaluations (2016) 🌟](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32) - How I started my journey with journaling and living a more conscious life.
+- [Day Evaluations (2016) 🌟](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32) - Starting my journey with journaling and living a more conscious life.
 - [News (2016)](https://medium.com/@nikitavoloboev/news-d6bcaaf40121#.mtj9gqvyu) - My approach to news and overflow of information.
 - [What it means to live a conscious life (2016) 🌟](https://medium.com/@nikitavoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl) - My journey with discovering and bringing compassion to my life.
 - [Everything connects to everything else (2017)](https://medium.com/@nikitavoloboev/everything-connects-to-everything-else-c6a2d96a809d#.nn8gvwavn) - Why I decided to share all of my knowledge in a free and easily discoverable way as a big mind map of connections.

@@ -9,6 +9,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Twig](https://github.com/lukakerr/twig/) - Modern macOS markdown editor.
 - [Sloth](https://github.com/sveinbjornt/Sloth) - Displays all open files and sockets in use by all running processes on your system.
 - [Workbench](https://github.com/mxcl/Workbench) - Seamless, automatic, “dotfile” sync to iCloud.
+- [LuLu](https://github.com/objective-see/LuLu) - Free macOS firewall.
 
 ## Links
 
