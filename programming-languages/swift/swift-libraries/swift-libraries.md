@@ -52,3 +52,4 @@
 - [SwiftCheck](https://github.com/typelift/SwiftCheck) - QuickCheck for Swift.
 - [Highlightr](https://github.com/raspu/Highlightr) - iOS & OSX Syntax Highlighter.
 - [Loaf](https://github.com/schmidyy/Loaf) - Swifty Framework for Easy iOS Toasts.
+- [ImageTransition](https://github.com/shtnkgm/ImageTransition) - Library for smooth animation of images during transitions.

@@ -28,6 +28,7 @@ It includes:
 - [Talking machines](https://overcast.fm/itunes955198749/talking-machines) - Human conversation about machine learning.
 - [The Tim Ferriss Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show) - Interesting interviews focused on life improvement.
 - [The Undefined Podcast](https://overcast.fm/itunes1451541555/the-undefined-podcast) - The only engineering podcast with a 2 drink minimum.
+- [Venture Stories](https://overcast.fm/itunes1316769266/venture-stories) - Partner and co-founder Erik Torenberg takes you inside the world of venture capital and technology.
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts#readme). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/rje42db9yj4d59w/overcast.opml?dl=1) (can be imported to Overcast).
 

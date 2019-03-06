@@ -11,3 +11,4 @@
 - [StyleGAN](https://github.com/NVlabs/stylegan) - Official TensorFlow Implementation.
 - [Ludwig](https://github.com/uber/ludwig) - Toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
 - [Pre-trained TensorFlow.js models](https://github.com/tensorflow/tfjs-models)
+- [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
