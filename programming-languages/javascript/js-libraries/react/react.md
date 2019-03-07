@@ -59,3 +59,4 @@
 - [Application that will help you learn React fundamentals](https://github.com/tyroprogrammer/learn-react-app) ([HN](https://news.ycombinator.com/item?id=19050509))
 - [Progressive react](https://houssein.me/progressive-react) - Want to make your React site more performant? Here's a quick checklist.
 - [Relay](https://github.com/facebook/relay) - JavaScript framework for building data-driven React applications.
+- [Scheduling in React (2019)](https://philippspiess.com/scheduling-in-react/)

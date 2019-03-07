@@ -34,6 +34,7 @@
 ## Database
 
 - [zoom](https://github.com/albrow/zoom) - Blazing-fast datastore and querying engine for Go built on Redis.
+- [bolter](https://github.com/hasit/bolter) - View BoltDB file in your terminal.
 
 ## ML
 
@@ -111,6 +112,7 @@
 - [Go JSON Schema Reflection](https://github.com/alecthomas/jsonschema) - Can be used to generate JSON Schemas from Go types through reflection.
 - [simpletable](https://github.com/alexeyco/simpletable) - Simple tables in terminal with Go.
 - [Immutable](https://github.com/benbjohnson/immutable) - Immutable collections for Go.
+- [conjungo](https://github.com/InVisionApp/conjungo) - Merge utility designed for flexibility and customizability.
 
 ## Links
 

@@ -20,3 +20,4 @@ I use VS Code [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-
 - [VS Code Docs](https://code.visualstudio.com/docs)
 - [Introductory Videos](https://code.visualstudio.com/docs/getstarted/introvideos)
 - [Visual Studio Live Share Docs & Feedback](https://github.com/MicrosoftDocs/live-share#readme)
+- [code-server](https://github.com/codercom/code-server) - Run VS Code on a remote server.
