@@ -13,3 +13,4 @@
 - [OCamlbuild](https://github.com/ocaml/ocamlbuild) - Generic build tool, that has built-in rules for building OCaml library and programs.
 - [ocaml-vdom](https://github.com/LexiFi/ocaml-vdom) - Elm architecture and (V)DOM for OCaml.
 - [Lwt](https://github.com/ocsigen/lwt) - OCaml promises and concurrent I/O.
+- [higher](https://github.com/ocamllabs/higher) - Higher-kinded programming in OCaml.

@@ -20,6 +20,7 @@
 - [Can functional programming be liberated from the von Neumann paradigm?](http://conal.net/blog/posts/can-functional-programming-be-liberated-from-the-von-neumann-paradigm) ([HN](https://news.ycombinator.com/item?id=18692470))
 - [COMP 212: Functional Programming Course (2019)](http://dlicata.web.wesleyan.edu/teaching/fp-s19/) - Purpose of this course is to introduce the theory and practice of functional programming (FP).
 - [Research papers / Functional pearls](https://wiki.haskell.org/Research_papers/Functional_pearls) - Functional pearls are elegant, instructive examples of functional programming.
+- [Effects bibliography](https://github.com/yallop/effects-bibliography#readme) - Collaborative bibliography of work related to the theory and practice of computational effects.
 
 ## Images
 

@@ -30,3 +30,4 @@ Plan to spend more time with it as [SourceKit-LSP](https://github.com/apple/sour
 - [Swift Community Podcast](https://github.com/SwiftCommunityPodcast/podcast#readme)
 - [Periphery](https://github.com/peripheryapp/periphery) - Eliminate unused Swift code.
 - [Chris Lattner on the origins of Swift (2019)](https://oleb.net/2019/chris-lattner-swift-origins/)
+- [Swift Rust-like ownership model RFC](https://github.com/apple/swift/blob/master/docs/OwnershipManifesto.md)

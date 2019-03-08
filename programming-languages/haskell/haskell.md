@@ -55,3 +55,4 @@
 - [Google's Haskell training: 101 and 102](https://github.com/google/haskell-trainings)
 - [brittany](https://github.com/lspitzner/brittany) - Haskell source code formatter.
 - [Stack](https://github.com/commercialhaskell/stack) - Cross-platform program for developing Haskell projects.
+- [List of Foundational Haskell Papers](https://github.com/cohomolo-gy/haskell-resources#readme)

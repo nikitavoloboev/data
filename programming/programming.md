@@ -22,6 +22,7 @@
 - Hide whatever the caller shouldn't care about. In particular, you can remove type parameters with appropriate quantification.
 - Declarative configuration means that you write down the desired state of the world in a configuration and then submit that configuration to a service that takes actions to ensure the desired state becomes the actual state.
 - Every single feature makes product more complex, makes testing more complex, puts constraints on UI design etc. Controlling feature creep (also by revisiting old features) is very important to keep project healthy. Larger the project, more important it is.
+- [“Simplicity” often just means that a concept fits cleanly in the maker’s head at a particular point in time. How many times have I returned to a project I thought was simple only to find I had burdened it with spooky magic because I didn’t benefit from critical distance at the time? When was the last time I deemed another person’s work “too complex” because I couldn’t understand it in one sitting and wasn’t aware of the constraints they were operating under? Answers: too often and too recently.](https://lobste.rs/s/qgbkwm/on_simplicity)
 
 ## Links
 
@@ -55,3 +56,4 @@
 - [Shipping code at N26 (2019)](https://hugogiraudel.com/2019/01/28/shipping-code-at-n26/)
 - [Junior and senior engineers (2015)](https://luca3m.me/2015/07/04/junior-vs-senior-engineers.html)
 - [Ask HN: How to be productive with big existing code base (2019)](https://news.ycombinator.com/item?id=19254008)
+- [On Simplicity (2019)](https://lobste.rs/s/qgbkwm/on_simplicity)
