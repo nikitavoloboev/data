@@ -48,3 +48,4 @@
 - [Nix scripts shared across IOHK projects](https://github.com/input-output-hk/iohk-nix)
 - [niv](https://github.com/nmattia/niv) - Painless dependencies for Nix projects.
 - [Cachix](https://cachix.org/) - Build Nix packages once and share them for good.
+- [Alternative Haskell Infrastructure for Nixpkgs](https://github.com/input-output-hk/haskell.nix) - Works by automatically translating your Cabal or Stack project and its dependencies into Nix code.

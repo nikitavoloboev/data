@@ -14,13 +14,11 @@ I also keep top habits/[rules](rules.md) I try to follow through in life on disp
 
 I use [Siri Shortcuts](https://github.com/nikitavoloboev/my-ios#shortcuts) for my Morning and Night routines.
 
-![](https://i.imgur.com/eVcHNJX.jpg)
-
-![](https://i.imgur.com/eOl8JLN.jpg)
+![](https://i.imgur.com/oG09oxf.jpg)
 
 ## Night routine
 
-![](https://i.imgur.com/utiQhb7.jpg)
+![](https://i.imgur.com/XSTgUAt.jpg)
 
 ## Notes
 

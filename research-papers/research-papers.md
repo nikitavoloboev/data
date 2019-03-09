@@ -20,3 +20,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 ## Links
 
 - [Arxiv Vanity](https://www.arxiv-vanity.com/) - Renders academic papers from Arxiv as responsive web pages.
+- [Fermat’s Library](https://fermatslibrary.com/) - Software to help illuminate academic papers.
