@@ -21,7 +21,7 @@ Some simple rules to follow for myself doing things.
 
 ## Health
 
-- [Exercise](../fitness/fitness.md). 25 min high intensity workout & 100 squats daily.
+- [Exercise](../fitness/fitness.md). 30 min cardio & 3 bodyweight workouts daily.
 - Eat a [whole food, plant based diet](../health/nutrition/nutrition.md).
 - Drink water & tea. No added sugar in drinks/food.
 - [Sleep](../sleep/sleep.md) at least 8 hours every day. Wake up & go to sleep at same time.

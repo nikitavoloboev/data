@@ -2,28 +2,17 @@
 
 I use [Streaks](https://streaksapp.com) iOS app to track any new habits I want to add to my life. If any of the habits get 80 consecutive repetitions, I mark the habit as `learned` and focus on new habits I want to add to my life.
 
-## Learned habits
+## Life habits
 
-- No sugary drinks. (2017)
-- Track all time in [Timing](../macOS/apps/timing.md). (2018)
-- Take Vitamin B12 & D3 in morning. (2018 June)
-- No complaining (2018 July)
+![](https://i.imgur.com/eeQghur.jpg)
 
-## Current habits
+![](https://i.imgur.com/bqILaqF.jpg)
 
-Which I will probably keep for life.
-
-![](https://i.imgur.com/cdnlKxx.jpg)
-
-![](https://i.imgur.com/WyWSbdQ.jpg)
-
-I also keep core habits I try to follow through in life on display in my [Focus board](focusing.md).
+I also keep top habits/[rules](rules.md) I try to follow through in life on display in my [Focus board](focusing.md).
 
 ## Morning routine
 
 I use [Siri Shortcuts](https://github.com/nikitavoloboev/my-ios#shortcuts) for my Morning and Night routines.
-
-My morning routine starts off by playing a song I love from my favorite artist Nils Frahm. [La](https://open.spotify.com/track/29p8XJUPeeS3t9XwJt69g0).
 
 ![](https://i.imgur.com/eVcHNJX.jpg)
 

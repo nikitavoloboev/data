@@ -52,3 +52,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case) - Snapshot view unit tests for iOS.
 - [iOS Project Template](https://github.com/pgorzelany/iOS-project-template) - Template to jumpstart your next iOS project integrating best practices and tools.
 - [Comprehensive open-source iOS guides](https://guides.codepath.com/ios)
+- [Automatic App Landing Page](https://github.com/emilbaehr/automatic-app-landing-page) - Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
