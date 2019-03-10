@@ -18,3 +18,4 @@
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker Written in Go.
 - [Watchtower](https://github.com/v2tec/watchtower) - Automatically update running Docker containers.
 - [Kraken](https://github.com/uber/kraken) - P2P docker registry capable of distributing TBs of data in seconds.
+- [HN: Goodbye Docker and Thanks for All the Fish (2019)](https://news.ycombinator.com/item?id=19351236)
