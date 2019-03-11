@@ -50,3 +50,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [Pack](https://github.com/pikapkg/pack) - Helps you build amazing packages without the hassle.
 - [Learning JavaScript (2016)](https://mafinto.sh/blog/learning-javascript.html)
 - [@pika/web](https://github.com/pikapkg/web) - Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
+- [Sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes.
