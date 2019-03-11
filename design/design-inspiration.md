@@ -30,7 +30,7 @@ Here are few more things I liked, design wise.
 - [Tyler Gaw](https://tylergaw.com/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
 - [Sasha Greif](http://sachagreif.com/)
-- [Wimer Hazenberg](https://www.monokai.nl/)
+- [Wimer Hazenberg](https://www.monokai.nl/) - Nice scrolling effect.
 - [Adam Pritchard](https://crypti.cc/)
 - [Mike Solomon](https://msol.io/)
 - [Seena Burns](http://seenaburns.com/) - Love the color scheme & look. Awesome blog.
@@ -112,6 +112,7 @@ Here are few more things I liked, design wise.
 - [Maarten Corpel](http://maartencorpel.com/)
 - [Stephanie Nemeth](https://stephanie.lol/#about)
 - [Dave Whyte](http://beesandbombs.com/)
+- [John Morris](http://johnmorris.io/) - Simple. [OSS](https://github.com/johnpmorris/johnpmorris.github.io).
 
 ## Other
 

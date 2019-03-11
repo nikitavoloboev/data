@@ -113,6 +113,7 @@
 - [simpletable](https://github.com/alexeyco/simpletable) - Simple tables in terminal with Go.
 - [Immutable](https://github.com/benbjohnson/immutable) - Immutable collections for Go.
 - [conjungo](https://github.com/InVisionApp/conjungo) - Merge utility designed for flexibility and customizability.
+- [go-misc](https://github.com/aclements/go-misc) - Miscellaneous Go hacks.
 
 ## Links
 

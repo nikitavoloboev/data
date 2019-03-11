@@ -2,6 +2,12 @@
 
 The number between brackets shows the year I wrote the article in. Articles with 🌟 are my **favorite**.
 
+## Tools
+
+- [Pretty and fast shell (2017) 🌟](https://medium.com/@nikitavoloboev/pretty-and-fast-shell-97ea870f2805) - Make your shell experience fast, pretty and powerful.
+- [Insta cloning (2017) 🌟](https://medium.com/@nikitavoloboev/insta-cloning-ff5f38eb1d32) - Instantly clone and open repository in your editor.
+- [Karabiner God Mode (2018) 🌟](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6) - Use Karabiner to take your use of mac to the next level.
+
 ## Life
 
 - [Day Evaluations (2016) 🌟](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32) - Starting my journey with journaling and living a more conscious life.
@@ -19,10 +25,6 @@ The number between brackets shows the year I wrote the article in. Articles with
 - [Mind map everything (2016) 🌟](https://medium.com/@nikitavoloboev/mind-map-everything-d27670f70739#.p7w44kr44) - Indexing my knowledge visually.
 - [Write once, never write again (2017) 🌟](https://medium.com/@nikitavoloboev/write-once-never-write-again-c2fa1f6c4e8) - Save time writing with Typinator and Keyboard Maestro.
 
-## Code
-
-- [Insta cloning (2017) 🌟](https://medium.com/@nikitavoloboev/insta-cloning-ff5f38eb1d32) - Instantly clone and open repository in your editor.
-
 ## Writing
 
 - [Why Medium? (2016)](https://medium.com/@nikitavoloboev/why-medium-ff9b13fefe61#.guictx69p) - Why host my writing on Medium and not my own website.
@@ -35,11 +37,6 @@ The number between brackets shows the year I wrote the article in. Articles with
 
 - [Opening up my mind (2017) 🌟](https://medium.com/@nikitavoloboev/opening-up-my-mind-%EF%B8%8F-575c8ece8a24) - One day I will die.
 - [Writing Alfred workflows in Go (2017) 🌟](https://medium.com/@nikitavoloboev/writing-alfred-workflows-in-go-2a44f62dc432) - How to write Alfred workflows in Go language.
-
-## Tools
-
-- [Pretty and fast shell (2017) 🌟](https://medium.com/@nikitavoloboev/pretty-and-fast-shell-97ea870f2805) - Make your shell experience fast, pretty and powerful.
-- [Karabiner God Mode (2018) 🌟](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6) - Use Karabiner to take your use of mac to the next level.
 
 ## Learn Anything
 

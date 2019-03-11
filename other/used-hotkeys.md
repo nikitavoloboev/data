@@ -25,6 +25,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 9 - Google selected text
 - 0 - Screenshot entire screen
 - . - Contexts search active windows
+- ] - Search SnippetsLab library with assistant
 
 ## CTRL+OPTION
 

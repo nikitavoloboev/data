@@ -1,10 +1,9 @@
 # [Node.js](https://nodejs.org/en/)
 
-[Original presentation by Ryan Dahl on node.js](https://www.youtube.com/watch?v=ztspvPYybIY) is great.
-
 ## Links
 
 - [Introduction to Node.js](https://nodejs.dev/)
+- [Original presentation by Ryan Dahl on node.js](https://www.youtube.com/watch?v=ztspvPYybIY)
 - [Node best practices](https://github.com/i0natan/nodebestpractices#readme)
 - [Supercharge your debugging experience for Node.js](https://medium.com/@wesharehoodies/supercharge-your-debugging-experience-for-node-js-3f0ddfaffbb2)
 - [ndb](https://github.com/trending) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
@@ -22,3 +21,4 @@
 - [David](https://github.com/alanshaw/david) - Node.js module that tells you when your package npm dependencies are out of date.
 - [httpie](https://github.com/lukeed/httpie) - Node.js HTTP client as easy as pie.
 - [Bull](https://github.com/optimalbits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
+- [depcheck](https://github.com/depcheck/depcheck) - Check your npm module for unused dependencies.
