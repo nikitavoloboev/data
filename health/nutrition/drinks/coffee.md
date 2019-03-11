@@ -1,6 +1,6 @@
 # Coffee
 
-I like drinking an occasional coffee with oat milk.
+I like drinking an occasional coffee with oat/almond milk.
 
 ## Links
 

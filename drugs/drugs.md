@@ -9,3 +9,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page) - Amazing resource.
 - [Reagent test instructions](https://www.reagent-tests.uk/reagent-test-colours/)
 - [DeepChem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology.
+- [Molecular Sets](https://github.com/molecularsets/moses) - Benchmarking Platform for Molecular Generation Models.

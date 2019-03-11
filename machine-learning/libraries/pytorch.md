@@ -17,3 +17,4 @@
 - [Neural Pipeline](https://github.com/toodef/neural-pipeline) - Neural networks training pipeline based on PyTorch. Designed to standardize training process and accelerate experiments.
 - [Faster R-CNN and Mask R-CNN in PyTorch](https://github.com/facebookresearch/maskrcnn-benchmark)
 - [tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for PyTorch.
+- [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric deep learning extension library for PyTorch.
