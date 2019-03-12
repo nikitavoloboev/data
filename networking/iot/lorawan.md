@@ -27,3 +27,4 @@
 - [Interview with Johan Stokking (The Things Network) - The Things Conference 2019](https://www.youtube.com/watch?v=hGf93zY8X1c)
 - [Interview with Alistair Fulton (Semtech) - The Things Conference 2019](https://www.youtube.com/watch?v=-tzKMHTdoe8)
 - [Extending LoRaWAN's reach - Nicolas Sornin (Semtech) - The Things Conference 2019](https://www.youtube.com/watch?v=pHq7_rgDyFA)
+- [From zero to LoRaWAN in a weekend (2018)](https://github.com/ttn-zh/ic880a-gateway/wiki)

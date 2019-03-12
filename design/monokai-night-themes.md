@@ -14,5 +14,6 @@ So far this theme exists for these apps:
 - [iTerm](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme)
 - [Vim](https://github.com/nikitavoloboev/vim-monokai-night#readme)
 - [Alfred](https://www.alfredapp.com/extras/theme/PQVZpeg4Zi/)
-- [Ulysses](https://styles.ulyssesapp.com/bundle/Monokai+Night/5bbcb619b3dafa6b4e6d6bd4)
 - [Textual](https://github.com/nikitavoloboev/my-mac-os/tree/master/textual#readme)
+- [MindNode](https://github.com/nikitavoloboev/my-mac-os/tree/master/mindnode#readme)
+- [Ulysses](https://styles.ulyssesapp.com/bundle/Monokai+Night/5bbcb619b3dafa6b4e6d6bd4)

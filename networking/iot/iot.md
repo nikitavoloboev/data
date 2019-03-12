@@ -13,3 +13,4 @@
 - [Lacuna](http://lacuna.space/) - Low-cost, simple and reliable global connections to sensors and mobile equipment.
 - [Tock](https://github.com/tock/tock) - Secure embedded operating system for Cortex-M based microcontrollers.
 - [Arm Mbed Command Line Interface](https://github.com/ARMmbed/mbed-cli)
+- [IoT Standards and Protocols](https://www.postscapes.com/internet-of-things-protocols/)

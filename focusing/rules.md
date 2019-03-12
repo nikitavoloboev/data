@@ -201,7 +201,7 @@ Some simple rules to follow for myself doing things.
 
 - Temporary shares with [Transfer](https://transfer.sh).
 - More permanent shares with Dropbox (wiki & articles). Don't delete items from _shares_ folder unless the reference to it from either wiki or articles is gone.
-- If the files are stored on GitHub somewhere, I can use [Rawgit](http://rawgit.com/) to get a downloadable link of the raw file.
+- If the files are stored on GitHub somewhere, I can use [jsDelivr](https://www.jsdelivr.com/) to get a downloadable link of the raw file.
 
 ## Shipping a product
 
