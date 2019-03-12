@@ -13,3 +13,4 @@ Still learning them. [This](https://www.goodreads.com/book/show/703102.Compilers
 - [Introduction to Compilers](https://github.com/ahoppen/introduction-to-compilers) - Swift Playground giving an overview over the inner workings of modern compilers.
 - [ccache](https://github.com/ccache/ccache) - Fast compiler cache.
 - [Starlark in Go](https://github.com/google/starlark-go) - The Starlark configuration language, implemented in Go.
+- [Modern CMake Examples](https://github.com/pr0g/cmake-examples#readme)

@@ -78,3 +78,4 @@
 - [Machine Learning CS Columbia Course (2019)](http://www.cs.columbia.edu/%7Everma/classes/ml/index.html)
 - [Learning to Discover Efficient Mathematical Identities](https://github.com/kkurach/math_learning) - Exploring how machine learning techniques can be applied to the discovery of efficient mathematical identities.
 - [CleverHans](https://github.com/tensorflow/cleverhans) - Adversarial example library for constructing attacks, building defenses, and benchmarking both.
+- [Google AI Research](https://github.com/google-research/google-research) - Contains code released by Google AI Research.

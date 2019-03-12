@@ -9,9 +9,11 @@
 - [progressbar](https://github.com/schollz/progressbar) - Basic thread-safe progressbar for Go apps.
 - [flagga](https://github.com/erizocosmico/flagga) - Extensible Go library for handling program configuration using flags.
 - [ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration.
+- [go-sh](https://github.com/codeskyblue/go-sh) - Like python-sh, for easy call shell with golang.
 
 ## Web
 
+- [Macaron](https://github.com/go-macaron/macaron) - High productive and modular web framework in Go.
 - [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
 - [Buffalo](https://gobuffalo.io/docs/overview)
 - [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
@@ -114,6 +116,7 @@
 - [Immutable](https://github.com/benbjohnson/immutable) - Immutable collections for Go.
 - [conjungo](https://github.com/InVisionApp/conjungo) - Merge utility designed for flexibility and customizability.
 - [go-misc](https://github.com/aclements/go-misc) - Miscellaneous Go hacks.
+- [Slim](https://github.com/openacid/slim) - Surprisingly space efficient data types in Golang.
 
 ## Links
 
