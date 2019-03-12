@@ -52,6 +52,7 @@
 - [Y Combinator Resources for Developers](http://ycombinator.dev/)
 - [Inside Apple's Factory: Software Design in the Age of Steve Jobs (2019)](https://www.youtube.com/watch?v=kl2Flp4oK-g)
 - [Ask HN: Pros and cons of working at a startup in 2019?](https://news.ycombinator.com/item?id=19236487)
+- [Cup & Leaf Cafe pt. 1: Why Would I Open a Cafe?](https://www.nateliason.com/blog/cup-leaf-cafe-1)
 
 ## Images
 
