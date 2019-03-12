@@ -12,3 +12,4 @@
 - [Higher-Order Pattern Unification in Agda](https://github.com/Saizan/miller)
 - [Experimental library for Cubical Agda](https://github.com/agda/cubical)
 - [Functional Reactive Programming with Agda](https://github.com/divipp/frp_agda)
+- [Agda standard library](https://github.com/agda/agda-stdlib)

@@ -20,3 +20,5 @@ Might give it a go sometime.
 - [Proof General](https://github.com/ProofGeneral/PG) - Generic Emacs interface for proof assistants.
 - [Emacs X Window Manager](https://github.com/ch11ng/exwm)
 - [Modalka](https://github.com/mrkkrp/modalka) - Easily introduce native modal editing of your own design.
+- [Elsa](https://github.com/emacs-elsa/Elsa) - Emacs Lisp Static Analyser.
+- [Reasonable Emacs config](https://github.com/purcell/emacs.d)
