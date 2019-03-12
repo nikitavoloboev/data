@@ -6,3 +6,4 @@
 - [Fundamentals of Data Visualization book (2019)](https://serialmentor.com/dataviz/)
 - [Most cited scientific papers within data visualization (2019)](https://www.reddit.com/r/dataisbeautiful/comments/am2xk4/most_cited_scientific_papers_within_data/)
 - [Visualization of related subreddits](https://github.com/anvaka/sayit)
+- [Vega](http://vega.github.io/) - Declarative format for creating, saving, and sharing visualization designs.
