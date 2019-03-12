@@ -21,6 +21,8 @@
 - [COMP 212: Functional Programming Course (2019)](http://dlicata.web.wesleyan.edu/teaching/fp-s19/) - Purpose of this course is to introduce the theory and practice of functional programming (FP).
 - [Research papers / Functional pearls](https://wiki.haskell.org/Research_papers/Functional_pearls) - Functional pearls are elegant, instructive examples of functional programming.
 - [Effects bibliography](https://github.com/yallop/effects-bibliography#readme) - Collaborative bibliography of work related to the theory and practice of computational effects.
+- [Flerp’s Guide to Functional Programming](https://github.com/jeppes/flerps-functional#readme) - Collection of the resources I've found most useful when exploring the world of functional programming.
+- [George Wilson - The Extended Functor Family (2016)](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
 
 ## Images
 

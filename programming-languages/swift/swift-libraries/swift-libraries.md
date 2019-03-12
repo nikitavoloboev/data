@@ -54,3 +54,4 @@
 - [Loaf](https://github.com/schmidyy/Loaf) - Swifty Framework for Easy iOS Toasts.
 - [ImageTransition](https://github.com/shtnkgm/ImageTransition) - Library for smooth animation of images during transitions.
 - [Mockingjay](https://github.com/kylef/Mockingjay) - Elegant library for stubbing HTTP requests with ease in Swift.
+- [Mobius](https://github.com/spotify/Mobius.swift) - Functional reactive framework for managing state evolution and side-effects.
