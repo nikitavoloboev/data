@@ -3,6 +3,7 @@
 ## Web
 
 - [scotty](https://github.com/scotty-web/scotty)
+- [WAI](https://github.com/yesodweb/wai) - Interface between Haskell web frameworks and web servers.
 
 ## DB
 
@@ -20,3 +21,4 @@
 - [Capability](https://github.com/tweag/capability) - Extensional capabilities and deriving combinators.
 - [Req](https://github.com/mrkkrp/req) - Easy-to-use, type-safe, expandable, high-level HTTP client library.
 - [silica](https://github.com/mrkgnao/silica) - Haskell optics with type errors useful enough to teach people.
+- [aeson](https://github.com/bos/aeson) - Fast Haskell JSON library.

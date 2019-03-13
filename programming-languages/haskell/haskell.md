@@ -56,3 +56,4 @@
 - [brittany](https://github.com/lspitzner/brittany) - Haskell source code formatter.
 - [Stack](https://github.com/commercialhaskell/stack) - Cross-platform program for developing Haskell projects.
 - [List of Foundational Haskell Papers](https://github.com/cohomolo-gy/haskell-resources#readme)
+- [hpack](https://github.com/sol/hpack) - Modern format for Haskell packages.

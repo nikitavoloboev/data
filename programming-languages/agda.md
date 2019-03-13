@@ -13,3 +13,4 @@
 - [Experimental library for Cubical Agda](https://github.com/agda/cubical)
 - [Functional Reactive Programming with Agda](https://github.com/divipp/frp_agda)
 - [Agda standard library](https://github.com/agda/agda-stdlib)
+- [Introduction to Agda (2011)](https://www.youtube.com/watch?v=shXKb2MTkUc&list=PLB7F836675DCE009C) - Daniel Peebles' Introduction to Agda, presented at Boston Haskell.
