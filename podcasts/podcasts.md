@@ -12,15 +12,19 @@ It includes:
 - [Corecursive](https://corecursive.com/) - Learn from software development experts. Hosted by Adam Gordon Bell.
 - [Cortex](https://overcast.fm/itunes1001591696/cortex) - CGP Grey and Myke Hurley discuss their working lives.
 - [Design Details](https://overcast.fm/itunes947191070/design-details) - Weekly conversation about design process and culture.
+- [The Diff: A Podcast from Facebook Open Source](https://overcast.fm/itunes1454407488/the-diff-a-podcast-from-facebook-open-source) - Showcases the program, the projects and the people that drives the team’s mission of building community through open source technology.
 - [EconTalk](https://overcast.fm/itunes135066958/econtalk) - Economics Brought to Life, Library of Economics and Liberty.
+- [Foodist with Darya Rose, Ph.D](https://overcast.fm/itunes1090954776/foodist-with-darya-rose-ph-d)
 - [FoundMyFitness](https://overcast.fm/itunes818198322/foundmyfitness) - Podcast about health, science, nutrition, aging, and fitness.
 - [Hello Internet](http://www.hellointernet.fm) - CGP Grey and Brady Haran in Conversation.
 - [Kevin Rose Show](https://overcast.fm/itunes1088864895/the-kevin-rose-show) - Kevin Rose interviews and explores new ways to reach peak personal and professional performance.
 - [The Knowledge Project with Shane Parrish](https://overcast.fm/itunes990149481/the-knowledge-project-with-shane-parrish) - Mastering the Best of What Other People Have Figured Out.
 - [Kubernetes Podcast from Google](https://overcast.fm/itunes1370049232/kubernetes-podcast-from-google) - Weekly podcast focused on what’s happening in the Kubernetes community.
+- [Made You Think](https://overcast.fm/itunes1281256991/made-you-think) - Conversations that Stretch Your Brain Muscles.
 - [Making Sense with Sam Harris](https://overcast.fm/itunes733163012/making-sense-with-sam-harris) - Neuroscientist, philosopher and best selling author.
 - [Rationally Speaking](https://overcast.fm/itunes351953012/rationally-speaking) - Exploring the borderlands between reason and nonsense.
 - [React Podcast](https://reactpodcast.simplecast.fm/) - Conversations about React with your favorite developers.
+- [Reply All](https://www.gimletmedia.com/reply-all) - Podcast about the internet’ that is actually an unfailingly original exploration of modern life and how to survive it.
 - [Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas](https://overcast.fm/itunes1406534739/sean-carrolls-mindscape-science-society-philosophy-culture-arts-and-ideas) - Sean Carroll hosts conversations with the world’s most interesting thinkers.
 - [StackTrace](https://stacktracepodcast.fm/) - Apple news & rumors from a developer's perspective.
 - [Swift by Sundell](https://overcast.fm/itunes1267161825/swift-by-sundell) - Answering your questions about Swift development.

@@ -336,6 +336,7 @@
   - [Domains](networking/domains.md)
   - [QUIC](networking/quic.md)
   - [WebSocket](networking/websocket.md)
+  - [File sharing](networking/file-sharing.md)
 - [Health](health/health.md)
   - [Nutrition](health/nutrition/nutrition.md)
     - [Foods](health/nutrition/foods.md)
