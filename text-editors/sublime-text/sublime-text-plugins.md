@@ -7,16 +7,12 @@ Below is a list of plugins I use.
 - [Six](https://github.com/guillermooo/Six) - Vim emulation.
 - [Marked](https://github.com/icio/sublime-text-marked) - Preview markdown files quickly with [Marked](http://marked2app.com) app.
 - [WakaTime](https://wakatime.com/sublime-text) - Automatic time tracking and metrics generated from your programming activity.
-- [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - Review TODO (and other) comments within your code.
 - [JSPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - Plugin for Prettier, the opinionated code formatter.
+- [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - Review TODO (and other) comments within your code.
 
 ## Lint
 
 - [Linter](https://github.com/SublimeLinter/SublimeLinter) - Code linting framework.
-
-## Git
-
-- [GitGutter](https://github.com/jisaacks/GitGutter) - See git diff in gutter.
 
 ## Looks
 
@@ -57,6 +53,7 @@ Below is a list of plugins I use.
 ## Git
 
 - [Git](https://github.com/kemayo/sublime-text-git) - Git integration.
+- [GitGutter](https://github.com/jisaacks/GitGutter) - See git diff in gutter.
 
 ## Nix
 

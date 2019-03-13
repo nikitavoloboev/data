@@ -23,6 +23,7 @@
 - [Effects bibliography](https://github.com/yallop/effects-bibliography#readme) - Collaborative bibliography of work related to the theory and practice of computational effects.
 - [Flerp’s Guide to Functional Programming](https://github.com/jeppes/flerps-functional#readme) - Collection of the resources I've found most useful when exploring the world of functional programming.
 - [George Wilson - The Extended Functor Family (2016)](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
+- [Functional Programming for the Long Haul by Michael Snoyman (2019)](https://www.youtube.com/watch?v=DdR9q69se-I)
 
 ## Images
 
