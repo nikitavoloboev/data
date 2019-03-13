@@ -18,3 +18,4 @@
 - [gpython](https://github.com/go-python/gpython) - Python interpreter written in Go "batteries not included".
 - [RustPython](https://github.com/RustPython/RustPython) - Python Interpreter written in Rust.
 - [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet#readme)
+- [Awesome Python Security resources](https://github.com/guardrailsio/awesome-python-security#readme)

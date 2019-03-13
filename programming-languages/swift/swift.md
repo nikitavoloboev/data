@@ -31,3 +31,4 @@ Plan to spend more time with it as [SourceKit-LSP](https://github.com/apple/sour
 - [Periphery](https://github.com/peripheryapp/periphery) - Eliminate unused Swift code.
 - [Chris Lattner on the origins of Swift (2019)](https://oleb.net/2019/chris-lattner-swift-origins/)
 - [Swift Rust-like ownership model RFC](https://github.com/apple/swift/blob/master/docs/OwnershipManifesto.md)
+- [swift-docker](https://github.com/apple/swift-docker) - Docker Official Image packaging for Swift.

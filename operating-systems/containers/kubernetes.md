@@ -67,3 +67,4 @@
 - [Kubectl Dashboard](https://github.com/bouk/kubectl-dashboard) - Sub-command for kubectl that will instantly make a Kubernetes dashboard available for you, without having to run anything in your cluster.
 - [krew](https://github.com/GoogleContainerTools/krew) - Package manager for "kubectl plugins".
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations.
+- [Kubewebhook](https://github.com/slok/kubewebhook) - Small Go framework to create external admission webhooks for Kubernetes.

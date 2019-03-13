@@ -117,6 +117,7 @@
 - [conjungo](https://github.com/InVisionApp/conjungo) - Merge utility designed for flexibility and customizability.
 - [go-misc](https://github.com/aclements/go-misc) - Miscellaneous Go hacks.
 - [Slim](https://github.com/openacid/slim) - Surprisingly space efficient data types in Golang.
+- [go-multierror](https://github.com/hashicorp/go-multierror) - Represent a list of errors as a single error.
 
 ## Links
 
