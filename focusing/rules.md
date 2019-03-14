@@ -351,7 +351,7 @@ Some simple rules to follow for myself doing things.
 ## Spotify
 
 - Add all songs I like to my [Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=s7begtjFTM-vaAp0ZplMaQ) playlist.
-  - Add all songs I love to [Bliss](https://open.spotify.com/user/nikitavoloboev/playlist/0epiRzQHjdJieYr0y3TdST?) playlist.
+  - Add all songs I love to [Bliss](https://open.spotify.com/user/nikitavoloboev/playlist/2N82DnDsPGMnpJhN8sVFJu?si=JfYPAzAcT0qyvJI08KEg2g) playlist.
   - Add songs to other playlists accordingly.
 
 ## Licensing
