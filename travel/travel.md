@@ -1,11 +1,5 @@
 # Travel
 
-I keep a list of [places I visited](visited/visited.md) and [want to visit](https://trello.com/b/i8c0hBVu).
-
-I made a small Siri shortcut to help me pack things for traveling to make sure I don't forgot anything. You can download it [here](https://www.icloud.com/shortcuts/9076dfce7d2f4a809d5bc798ff45ae7b) and for me it looks like this:
-
-![](https://i.imgur.com/mj9JH6v.jpg)
-
 ## Links
 
 - [These photos are why I’m trapped in Tokyo forever now](https://medium.com/@damjancvetkovdimitrov/these-photos-are-why-i-m-trapped-in-tokyo-forever-now-1a0ea980bcc5)

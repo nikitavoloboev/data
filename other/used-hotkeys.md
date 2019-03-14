@@ -2,7 +2,7 @@
 
 A way to keep track of hotkeys that are taken by my macOS. Every key is mapped to some action and is activated from [Karabiner](../macOS/apps/karabiner/karabiner.md).
 
-## CMD+OPT
+## OPT+CMD
 
 - 2 - New Imgur screenshot
 - 3 - New Annotate screenshot
@@ -15,8 +15,9 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - / - Show/hide notification center
 - p - Make HasteBin link from selection
 - l - Make HasteBin link from clipboard
+- 0 - Open Dropzone
 
-## CMD+CTRL
+## CTRL+CMD
 
 - 3 - Search menu bar items (with Bartender)
 - 4 - Fantastical mini window
@@ -29,7 +30,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - . - Contexts search active windows
 - ] - Search SnippetsLab library with assistant
 
-## CTRL+OPTION
+## CTRL+OPT
 
 - space - Add New Trello card
 
@@ -39,7 +40,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 9 - Noizio show menu
 - 0 - Noizio on/off
 
-## CMD+OPT+CTRL
+## CTRL+OPT+CMD
 
 - 1 - New tweet
 - 2 - Full screen
@@ -50,13 +51,14 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 7 - Search selection on /r/askcience
 - 8 - New 2Do quick task
 - 9 - Typinator quick search
+- u - Open URL
 - x - Little Snitch Network Monitor
 - c - Sleep
 
-## CMD+OPT+SHIFT
+## OPT+SHIFT+CMD
 
 - r - Google Translate selected text
 
-## CMD+OPT+SHIFT+CTRL
+## CTRL+OPT+SHIFT+CMD
 
 - Space - Alfred

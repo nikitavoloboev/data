@@ -1,22 +1,46 @@
 # Visited
 
-I keep a list of places and countries I want to visit [here](https://trello.com/b/i8c0hBVu) and a list of places I liked on [Foursquare](https://foursquare.com/user/458393289).
+I keep a list of places I liked visiting on [Foursquare](https://foursquare.com/user/458393289).
 
-Below are countries and cities I visited thus far with some comments on them. Cities with 🌟 are my **favorite**.
+Below are countries and cities I visited thus far. The number between brackets shows the year I first visited the place in. Cities with 🌟 are my **favorite**.
 
 ## [Netherlands](netherlands.md)
 
-- Amsterdam 🌟 - Lovely city.
-- Eindhoven - Did my CS degree there. Quite a boring city.
-- Den Bosch
-- Maastricht
+- Den Bosch (2019)
+- Groningen (2017)
+- Amsterdam (2015) 🌟
+- Maastricht (2015)
+- Utrecht (2015)
+- Rotterdam (2015)
+- Tilburg (2015)
+- The Hague (2015)
+- Eindhoven (2014)
 
 ## [United Kingdom](united-kingdom.md)
 
-- London
-- Cambridge
-- Oxford
+- London 🌟 (2019)
+- Cambridge (2019)
+- Oxford (2016)
+
+## Belgium
+
+- Brussels (2017)
+- Antwerpen (2015)
+
+## Spain
+
+- Bilbao (2018)
+- Santander (2017)
+- Barcelona (2017)
+
+## Switzerland
+
+- Zurich (2016)
+
+## Finland
+
+- Helsinki (2016)
 
 ## Cyprus
 
-- Limassol - Has been my home for a long time. Loved the non summer weather there and the sea.
+- Limassol (2005)
