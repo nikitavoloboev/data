@@ -13,6 +13,8 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 8 - Search Clipboard History with Alfred
 - 9 - Connect/disconnect AirPods
 - / - Show/hide notification center
+- p - Make HasteBin link from selection
+- l - Make HasteBin link from clipboard
 
 ## CMD+CTRL
 

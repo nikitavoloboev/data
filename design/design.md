@@ -28,3 +28,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Closing the loop with Design Intelligence (2018)](https://airbnb.design/the-evolution-of-tools/)
 - [Abstract](https://www.goabstract.com) - Modern Design Workflow. Sketch version control management tool.
 - [10 Year Challenge: How Popular Websites Have Changed (2019)](https://www.arun.is/blog/10-year-challenge/)
+- [Design Systems Repo](https://designsystemsrepo.com/) - Frequently updated collection of Design System examples, articles, tools and talks.
