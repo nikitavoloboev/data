@@ -9,3 +9,4 @@
 - [Vega](http://vega.github.io/) - Declarative format for creating, saving, and sharing visualization designs.
 - [Vega-Lite](https://vega.github.io/vega-lite/) - High-level grammar of interactive graphics.
 - [Draco](https://github.com/uwdata/draco) - Formal framework for representing design knowledge about effective visualization design as a collection of constraints.
+- [Observable](https://observablehq.com/) - Magic notebook for visualization.
