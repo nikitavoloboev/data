@@ -18,7 +18,7 @@ Below are countries and cities I visited thus far. The number between brackets s
 
 ## [United Kingdom](united-kingdom.md)
 
-- London 🌟 (2019)
+- London (2019) 🌟
 - Cambridge (2019)
 - Oxford (2016)
 
