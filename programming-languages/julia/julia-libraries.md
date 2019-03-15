@@ -21,6 +21,7 @@
 - [PackageCompiler](https://github.com/JuliaLang/PackageCompiler.jl) - Remove just-in-time compilation overhead from your package and compile it into a system image.
 - [CUDAdrv](https://github.com/JuliaGPU/CUDAdrv.jl) - Julia wrapper for the CUDA driver API.
 - [Devectorize](https://github.com/lindahua/Devectorize.jl) - Provides macros and functions to de-vectorize a vector expression.
+- [CUDAnative.jl](https://github.com/JuliaGPU/CUDAnative.jl) - Julia support for native CUDA programming.
 
 ## Links
 

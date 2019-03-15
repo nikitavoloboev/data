@@ -19,3 +19,4 @@
 - [GraphQL Batch Resolver](https://github.com/calebmer/graphql-resolve-batch) - Method for batching the resolution of GraphQL fields as an alternative to dataloader that works with both GraphQL.js and graphql-tools.
 - [subscriptions-transport-ws](https://github.com/apollographql/subscriptions-transport-ws) - WebSocket client + server for GraphQL subscriptions.
 - [Visual GraphQL editor](https://graphqleditor.com/)
+- [Prime](https://github.com/birkir/prime) - Standalone, self-hosted, headless CMS with a GraphQL interface powered by TypeScript.
