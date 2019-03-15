@@ -12,6 +12,7 @@
 - [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 - [Seed](https://github.com/David-OConnor/seed) - Frontend framework for Rust, via WebAssembly.
 - [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
+- [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
 
 ## ORM
 

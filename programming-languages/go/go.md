@@ -85,3 +85,4 @@ Go promotes composition over inheritance.
 - [The State of Go: Feb 2019](https://speakerdeck.com/campoy/the-state-of-go-feb-2019?slide=38)
 - [gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with generics and macros.
 - [go2ll-talk](https://github.com/pwaller/go2ll-talk) - Live coding a basic Go compiler with LLVM in 20 minutes.
+- [Thoughts on Go performance optimization](https://github.com/dgryski/go-perfbook#readme)

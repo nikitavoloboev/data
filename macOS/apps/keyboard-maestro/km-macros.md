@@ -1,4 +1,4 @@
-# Keyboard Maestro Macros I use
+# Keyboard Maestro macros I use
 
 ## Install
 

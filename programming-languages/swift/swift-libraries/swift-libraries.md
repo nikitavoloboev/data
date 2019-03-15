@@ -14,6 +14,7 @@
 - [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Modal controller as in mail or Apple music application.
 - [SPPermission](https://github.com/IvanVorobei/SPPermission) - Simple request permission with native UI and interactive animation.
 - [PanModal](https://github.com/slackhq/PanModal) - Elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
+- [SwiftCharts](https://github.com/i-schuetz/SwiftCharts) - Easy to use and highly customizable charts library for iOS.
 
 ## API
 

@@ -1,4 +1,4 @@
-# Making Workflows
+# Making workflows
 
 There is a [detailed article](https://medium.com/@nikitavoloboev/writing-alfred-workflows-in-go-2a44f62dc432) available on how you can write workflows in Go language.
 
@@ -31,7 +31,7 @@ I like to write all my workflows in Go language unless the workflow can be done 
 3. Create the workflow I want to make in Alfred Preferences. Add the icon, name and unique bundle ID. Add the workflow to `Mine` category.
 4. Carry the info.plist and .png file of the logo to `workflow` directory I just made.
 5. Delete the workflow I made from Alfred preferences.
-6. Inside my workflow's folder in _small workflows_, I run `workflow-install -s workflow`. `workflow-install` command is placed inside my [~/.dotfiles/bin](https://github.com/nikitavoloboev/dotfiles/tree/master/bin) which is added to my $PATH. The [script](https://gist.github.com/deanishe/35faae3e7f89f629a94e) symlinks the `workflow` directory to Alfred.
+6. Inside my workflow's folder in _small workflows_, I run `workflow-install -s workflow`. `workflow-install` command is placed inside my [~/.dotfiles/bin](https://github.com/nikitavoloboev/dotfiles/tree/master/bin) which is added to my \$PATH. The [script](https://gist.github.com/deanishe/35faae3e7f89f629a94e) symlinks the `workflow` directory to Alfred.
 7. If the workflow is private to me, I prefix it's name with `a.` before the workflow name to indicate that I have not released the workflow yet or it contains sensitive information.
 8. Create the Alfred objects I need to make the workflow does what I want. If the workflow needs something more complex, I sometimes create Python files inside the workflow dir to do what I want and call them from the Script Filters.
 9. In cases where I want to release the workflow, I strip the `a.` prefix from the name. Then go to to my [Objects library](https://github.com/nikitavoloboev/small-workflows/tree/master/objects-library) workflow and transfer a [OneUpdater](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) object to my workflow.
