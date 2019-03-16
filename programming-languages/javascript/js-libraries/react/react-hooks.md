@@ -7,6 +7,7 @@
 - [useHooks](https://usehooks.com/) - Easy to understand React Hook recipes by Gabe Ragland.
 - [Use Hotkeys](https://github.com/sandiiarov/use-hotkeys) - React wrapper around Hotkeys.js.
 - [Use Events](https://github.com/sandiiarov/use-events) - Events turned into React Hooks.
+- [useQueryParams](https://github.com/pbeshai/use-query-params) - React Hook for managing state in URL query parameters with easy serialization.
 
 ## Links
 

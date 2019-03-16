@@ -337,6 +337,7 @@
   - [QUIC](networking/quic.md)
   - [WebSocket](networking/websocket.md)
   - [File sharing](networking/file-sharing.md)
+  - [RabbitMQ](networking/rabbitmq.md)
 - [Health](health/health.md)
   - [Nutrition](health/nutrition/nutrition.md)
     - [Foods](health/nutrition/foods.md)

@@ -79,3 +79,4 @@
 - [self_update](https://github.com/jaemk/self_update) - Provides updaters for updating rust executables in-place from various release distribution backends.
 - [libc](https://github.com/rust-lang/libc) - Raw FFI bindings to platforms' system libraries.
 - [Svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG.
+- [cbindgen](https://github.com/eqrion/cbindgen) - Project for generating C bindings from Rust code.

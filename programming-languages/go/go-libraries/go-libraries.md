@@ -118,6 +118,8 @@
 - [go-misc](https://github.com/aclements/go-misc) - Miscellaneous Go hacks.
 - [Slim](https://github.com/openacid/slim) - Surprisingly space efficient data types in Golang.
 - [go-multierror](https://github.com/hashicorp/go-multierror) - Represent a list of errors as a single error.
+- [jobs](https://github.com/albrow/jobs) - Persistent and flexible background jobs library for go.
+- [tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
 
 ## Links
 
