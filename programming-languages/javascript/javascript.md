@@ -1,9 +1,5 @@
 # [JavaScript](https://developer.mozilla.org/bm/docs/Web/JavaScript)
 
-[JavaScript. The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/), [MDN](https://developer.mozilla.org/bm/docs/Web/JavaScript) and [You don't know JS](https://github.com/getify/You-Dont-Know-JS#reame) are great intros.
-
-I love using [Prettier](https://github.com/prettier/prettier) for never having to think about styling code again. [AirBnb](https://github.com/airbnb/javascript) style guide is pretty awesome.
-
 ## Notes
 
 - [You can define and run the function straight away by enclosing it in parenthesis and adding empty () after](https://forum.keyboardmaestro.com/t/javascript-assistance/8331/2)
@@ -13,6 +9,9 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 
 ## Links
 
+- [JavaScript. The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
+- [Modern Javascript Tutorial](https://javascript.info/)
+- [You don't know JS books](https://github.com/getify/You-Dont-Know-JS#readme)
 - [JS in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
 - [2017 JavaScript Rising Stars](https://risingstars.js.org/2017/en/)
 - [ES6 features](https://github.com/lukehoban/es6features#readme)
@@ -51,3 +50,4 @@ I love using [Prettier](https://github.com/prettier/prettier) for never having t
 - [Learning JavaScript (2016)](https://mafinto.sh/blog/learning-javascript.html)
 - [@pika/web](https://github.com/pikapkg/web) - Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
 - [Sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes.
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)

@@ -4,6 +4,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 ## OPT+CMD
 
+- 1 - Show Launchpad
 - 2 - New Imgur screenshot
 - 3 - New Annotate screenshot
 - 4 - Open Annotate screenshot
@@ -12,10 +13,10 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 7 - Open Typinator
 - 8 - Search Clipboard History with Alfred
 - 9 - Connect/disconnect AirPods
+- 0 - Open Dropzone
 - / - Show/hide notification center
 - p - Make HasteBin link from selection
 - l - Make HasteBin link from clipboard
-- 0 - Open Dropzone
 
 ## CTRL+CMD
 
