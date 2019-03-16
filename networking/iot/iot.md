@@ -14,3 +14,6 @@
 - [Tock](https://github.com/tock/tock) - Secure embedded operating system for Cortex-M based microcontrollers.
 - [Arm Mbed Command Line Interface](https://github.com/ARMmbed/mbed-cli)
 - [IoT Standards and Protocols](https://www.postscapes.com/internet-of-things-protocols/)
+- [Shodan](https://www.shodan.io/) - Search engine for Internet-connected devices.
+- [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Alternative firmware for ESP8266 based devices like iTead Sonoff with web UI, rules and timers, OTA updates, custome device templates and sensors support.
+- [Dumbass Home 2.0. (2019)](https://vas3k.com/blog/dumbass_home/?ref=sn) - Internet of Things. How to Automate Your Rented Box Today.
