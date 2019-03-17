@@ -41,3 +41,4 @@
 - [Rust: A unique perspective (2019)](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html)
 - [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust#readme)
 - [Rust Programming Tipz](https://github.com/spacejam/elements-of-rust#readme)
+- [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code.

@@ -11,5 +11,6 @@
 
 ## Links
 
+- [Awesome React Hooks Resources](https://github.com/rehooks/awesome-react-hooks#readme)
 - [RFC: React Hooks](https://github.com/reactjs/rfcs/pull/68#issuecomment-439314884) - Great discussion on React Hooks proposal.
 - [Flowchart that explains the new lifecycle of a Hooks component](https://github.com/donavon/hook-flow#readme)
