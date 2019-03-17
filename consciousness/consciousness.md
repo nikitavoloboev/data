@@ -30,3 +30,4 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - [What it means to live a conscious life?](https://medium.com/@nikitavoloboev/what-it-means-to-live-a-conscious-life-c96f6517077) - My thoughts on compassion and living a conscious life.
 - [The Evolution of Consciousness](https://www.youtube.com/watch?v=XbOP0IKpsZ0)
 - [Where is our consciousness, and is it a thing that has mass/matter?](https://www.quora.com/Where-is-our-consciousness-and-is-it-a-thing-that-has-mass-matter/answer/Paul-King-2)
+- [The Origin of Consciousness – How Unaware Things Became Aware (2019)](https://www.youtube.com/watch?v=H6u0VBqNBQ8)

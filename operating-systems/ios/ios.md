@@ -20,6 +20,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 
 ## Links
 
+- [iOS Dev Directory](https://iosdevdirectory.com/) - Comprehensive list of blogs & sites covering iOS development.
 - [iOS Security paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
 - [iOS landing page](https://github.com/sindresorhus/ios-landing-page)
 - [iOS Developer roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap#readme)
