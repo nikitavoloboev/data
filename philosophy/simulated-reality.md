@@ -14,3 +14,4 @@ In any way, these are just hypothesis and are quite hard to test and see if they
 ## Links
 
 - [The Dream Of Life](https://www.youtube.com/watch?v=wU0PYcCsL6o)
+- [Jailbreaking the Simulation with George Hotz (2019)](https://www.youtube.com/watch?v=ESXOAJRdcwQ)
