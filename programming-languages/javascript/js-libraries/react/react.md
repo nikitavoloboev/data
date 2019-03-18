@@ -60,3 +60,4 @@
 - [Progressive react](https://houssein.me/progressive-react) - Want to make your React site more performant? Here's a quick checklist.
 - [Relay](https://github.com/facebook/relay) - JavaScript framework for building data-driven React applications.
 - [Scheduling in React (2019)](https://philippspiess.com/scheduling-in-react/)
+- [Writing Resilient Components (2019)](https://overreacted.io/writing-resilient-components/)

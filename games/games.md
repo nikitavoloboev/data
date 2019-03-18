@@ -2,7 +2,7 @@
 
 I keep a [Trello board](https://trello.com/b/EekGabpj) of games I am playing now or want to play. And I made a list of [awesome games](https://github.com/learn-anything/games#readme) you can play.
 
-I track all the games I have played [here](https://www.grouvee.com/user/nikivi).
+I track [all the games I have played[https://www.grouvee.com/user/nikivi].
 
 ## Favorite games
 
