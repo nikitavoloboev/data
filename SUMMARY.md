@@ -424,6 +424,7 @@
   - [Icons](design/icons.md)
   - [Fonts](design/fonts.md)
   - [Design inspiration](design/design-inspiration.md)
+  - [Interior Design](design/interior-design.md)
   - [User Experience](design/user-experience.md)
   - [3D Modeling](design/3d-modeling.md)
   - [Animation](design/animation.md)

@@ -34,6 +34,7 @@
 ## API
 
 - [Rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust.
+- [librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library.
 
 ## Other
 

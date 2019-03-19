@@ -120,6 +120,7 @@
 - [go-multierror](https://github.com/hashicorp/go-multierror) - Represent a list of errors as a single error.
 - [jobs](https://github.com/albrow/jobs) - Persistent and flexible background jobs library for go.
 - [tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
+- [go-guerrilla](https://github.com/flashmob/go-guerrilla) - Mini SMTP server written in golang.
 
 ## Links
 

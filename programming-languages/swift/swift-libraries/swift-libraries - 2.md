@@ -15,7 +15,6 @@
 - [SPPermission](https://github.com/IvanVorobei/SPPermission) - Simple request permission with native UI and interactive animation.
 - [PanModal](https://github.com/slackhq/PanModal) - Elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
 - [SwiftCharts](https://github.com/i-schuetz/SwiftCharts) - Easy to use and highly customizable charts library for iOS.
-- [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - Banner presenter library for iOS.
 
 ## API
 
