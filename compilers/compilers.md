@@ -1,7 +1,5 @@
 # Compilers
 
-Still learning them. [This](https://www.goodreads.com/book/show/703102.Compilers) seems like a great book for that.
-
 ## Links
 
 - [Haskell to WebAssembly](https://github.com/tweag/asterius)
@@ -15,3 +13,6 @@ Still learning them. [This](https://www.goodreads.com/book/show/703102.Compilers
 - [Starlark in Go](https://github.com/google/starlark-go) - The Starlark configuration language, implemented in Go.
 - [Modern CMake Examples](https://github.com/pr0g/cmake-examples#readme)
 - [sccache](https://github.com/mozilla/sccache) - Shared Compilation Cache.
+- [Compilers: Principles, Techniques, and Tools book (1986)](https://www.goodreads.com/book/show/703102.Compilers)
+- [Short overview of "C--"](https://www.cs.tufts.edu/~nr/c--/index.html)
+- [The C-- Language Specification](https://www.cs.tufts.edu/~nr/c--/extern/man2.pdf)

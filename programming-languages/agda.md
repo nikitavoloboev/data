@@ -14,3 +14,5 @@
 - [Functional Reactive Programming with Agda](https://github.com/divipp/frp_agda)
 - [Agda standard library](https://github.com/agda/agda-stdlib)
 - [Introduction to Agda (2011)](https://www.youtube.com/watch?v=shXKb2MTkUc&list=PLB7F836675DCE009C) - Daniel Peebles' Introduction to Agda, presented at Boston Haskell.
+- [Programming with Dependent Types Summer School](https://github.com/UlfNorell/agda-summer-school)
+- [Agda Prelude](https://github.com/UlfNorell/agda-prelude) - Alternative to the Agda standard library that focuses more on programming and type checking time performance.

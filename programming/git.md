@@ -34,3 +34,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Tips for a disciplined git workflow (2019)](https://drewdevault.com/2019/02/25/Using-git-with-discipline.html)
 - [Git Town](https://github.com/Originate/git-town) - Generic, high-level Git workflow support.
 - [libgit2](https://libgit2.org/) - Portable, pure C implementation of the Git core methods provided as a re-entrant linkable library.
+- [git-delete-squashed](https://github.com/not-an-aardvark/git-delete-squashed) - Delete branches that have been squashed and merged into master.

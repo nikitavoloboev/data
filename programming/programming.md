@@ -58,3 +58,4 @@
 - [Ask HN: How to be productive with big existing code base (2019)](https://news.ycombinator.com/item?id=19254008)
 - [On Simplicity (2019)](https://lobste.rs/s/qgbkwm/on_simplicity)
 - [Programming Dictionary (Russian)](https://github.com/HowProgrammingWorks/Dictionary#readme)
+- [Keep a changelog](https://keepachangelog.com/en/1.0.0/)
