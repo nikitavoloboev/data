@@ -66,3 +66,4 @@
 - [Accounts](https://github.com/accounts-js/accounts) - Fullstack authentication and accounts-management for GraphQL and REST.
 - [Cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
 - [Unistore](https://github.com/developit/unistore) - Tiny 350b centralized state container with component bindings for Preact & React.
+- [Ramda](https://github.com/ramda/ramda) - Practical functional library for JavaScript programmers.

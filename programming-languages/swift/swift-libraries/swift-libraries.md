@@ -58,3 +58,4 @@
 - [Mockingjay](https://github.com/kylef/Mockingjay) - Elegant library for stubbing HTTP requests with ease in Swift.
 - [Mobius](https://github.com/spotify/Mobius.swift) - Functional reactive framework for managing state evolution and side-effects.
 - [Table and Collection view data sources](https://github.com/RxSwiftCommunity/RxDataSources)
+- [swift-log](https://github.com/apple/swift-log) - Logging API package for Swift 5.

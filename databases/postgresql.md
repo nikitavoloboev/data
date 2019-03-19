@@ -19,3 +19,4 @@
 - [WAL-G](https://github.com/wal-g/wal-g) - Archival restoration tool for Postgres.
 - [migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas.
 - [PGHoard](https://github.com/aiven/pghoard) - PostgreSQL backup and restore service.
+- [postgresqltuner.pl](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
