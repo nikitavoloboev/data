@@ -1,7 +1,5 @@
 # [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[Pesticide Chrome Extension](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) is invaluable for debugging CSS.
-
 ## Notes
 
 - ID's are unique.
@@ -20,9 +18,9 @@
 
 ## Links
 
+- [Pesticide Chrome Extension](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) - Invaluable for debugging CSS.
 - [Understanding static and relative positioning](https://webplatform.github.io/docs/tutorials/static_and_relative_positioning/)
 - [Code guide by @mdo](http://codeguide.co/)
-- [Bulma](https://bulma.io) - Free, open source CSS framework based on Flexbox.
 - [CSS reference](https://cssreference.io/)
 - [CSS Blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [Opticss](https://github.com/linkedin/opticss) - CSS Optimizer.
@@ -45,9 +43,9 @@
 - [normalize.css](https://github.com/necolas/normalize.css) - Modern alternative to CSS resets.
 - [Julia Muzafarova CSS Pens](https://codepen.io/miocene/)
 - [CSS Modules](https://github.com/css-modules/css-modules) - Documentation about css-modules.
-- [Yoga](https://github.com/facebook/yoga) - Cross-platform layout engine which implements Flexbox.
 - [nano-css](https://github.com/streamich/nano-css) - CSS-in-JS library that you can actually use in production. Motto of nano-css is simple: create the smallest possible CSS-in-JS library and provide all features of any other library through addons.
 - [Why I Write CSS in JavaScript (2019)](https://mxstbr.com/thoughts/css-in-js/)
 - [Styled System](https://github.com/jxnblk/styled-system) - Responsive, theme-based style props for building design systems with React.
 - [Rebass](https://github.com/rebassjs/rebass) - React primitive UI components built with styled-system..
 - [TypeStyle](https://github.com/typestyle/typestyle) - Making CSS type safe.
+- [The Three Tenets of Styled System (2019)](https://jxnblk.com/blog/the-three-tenets-of-styled-system/)

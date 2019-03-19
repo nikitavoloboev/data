@@ -315,6 +315,7 @@
   - [HTML](front-end/html.md)
   - [CSS](front-end/css/css.md)
     - [CSS Grid](front-end/css/css-grid.md)
+    - [CSS Flexbox](front-end/css/css-flexbox.md)
 - [Security](security/security.md)
   - [Cryptography](security/cryptography/cryptography.md)
     - [Zero knowledge proofs](security/cryptography/zero-knowledge-proofs.md)
