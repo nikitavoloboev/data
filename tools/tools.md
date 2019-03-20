@@ -50,6 +50,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Seafile](https://www.seafile.com/en/home/) - Enterprise file hosting platform with high reliability and performance.
 - [Outline](https://outline.com/) - Read & annotate without distractions.
 - [HelloSign](https://www.hellosign.com/) - Most Powerful Platform for Business Agreements.
+- [Liberapay](https://liberapay.com/) - Recurrent donations platform. [OSS](https://github.com/liberapay/liberapay.com).
 
 ## Notes
 
