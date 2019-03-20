@@ -51,6 +51,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Outline](https://outline.com/) - Read & annotate without distractions.
 - [HelloSign](https://www.hellosign.com/) - Most Powerful Platform for Business Agreements.
 - [Liberapay](https://liberapay.com/) - Recurrent donations platform. [OSS](https://github.com/liberapay/liberapay.com).
+- [Catch](https://www.catch.co/) - Taxes, retirement, health insurance and more — built to work together like they always should have.
 
 ## Notes
 

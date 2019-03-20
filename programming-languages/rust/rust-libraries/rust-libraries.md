@@ -13,6 +13,7 @@
 - [Seed](https://github.com/David-OConnor/seed) - Frontend framework for Rust, via WebAssembly.
 - [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
 - [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
+- [Gloo](https://github.com/rustwasm/gloo) - Toolkit for building fast, reliable Web applications and libraries with Rust and Wasm.
 
 ## ORM
 
