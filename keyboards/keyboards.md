@@ -4,8 +4,6 @@ I love keyboards. Specifically I love remapping them with [Karabiner](../macOS/a
 
 I am currently using builtin 2018 MacBook keyboard and love it. I love the low key travel as I get tired typing on most mechanical keyboards. The only thing I would change from that keyboard would be split space key into two keys for more remapping awesomeness.
 
-I am interested in getting [Preonic Light](https://www.massdrop.com/buy/massdrop-x-olkb-planck-light-mechanical-keyboard) keyboard with low profile Kailh switches. And I want to make it wireless too.
-
 ## Notes
 
 - Gateron Browns low key travel mech switches maybe are nice. Need something low key travel ala macbook.
@@ -15,7 +13,7 @@ I am interested in getting [Preonic Light](https://www.massdrop.com/buy/massdrop
 - [Keyboardio](https://shop.keyboard.io)
 - [42](https://github.com/nglgzz/42) - Custom keyboard built by [Angelo](https://github.com/nglgzz).
 - [Preonic](https://olkb.com/preonic/hi-pro-wooden-milled-bottom) - Beautiful keyboard.
-- [Preonic Light](https://www.massdrop.com/buy/massdrop-x-olkb-planck-light-mechanical-keyboard) - Better than Preonic.
+- [Preonic Light](https://www.massdrop.com/buy/massdrop-x-olkb-planck-light-mechanical-keyboard) - Better than Preonic. Would be nice I think with Kailh switches & wireless.
 - [Dactyl Keyboard](https://github.com/adereth/dactyl-keyboard) - Parameterized ergonomic keyboard.
 - [Corne keyboard](https://github.com/foostan/crkbd) - Split keyboard with 3x6 column staggered keys and 3 thumb keys. ([Reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/a4hp9e/corne_chocolatehotswappable_crkbd_for_chocolate/))
 - [Redox: Ergonomic split mechanical keyboard](https://github.com/mattdibi/redox-keyboard)

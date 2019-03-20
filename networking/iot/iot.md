@@ -17,3 +17,4 @@
 - [Shodan](https://www.shodan.io/) - Search engine for Internet-connected devices.
 - [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Alternative firmware for ESP8266 based devices like iTead Sonoff with web UI, rules and timers, OTA updates, custome device templates and sensors support.
 - [Dumbass Home 2.0. (2019)](https://vas3k.com/blog/dumbass_home/?ref=sn) - Internet of Things. How to Automate Your Rented Box Today.
+- [Amazon FreeRTOS](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers.
