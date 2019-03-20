@@ -113,6 +113,7 @@ Here are few more things I liked, design wise.
 - [Stephanie Nemeth](https://stephanie.lol/#about)
 - [Dave Whyte](http://beesandbombs.com/)
 - [John Morris](http://johnmorris.io/) - Simple. [OSS](https://github.com/johnpmorris/johnpmorris.github.io).
+- [Alex Carpenter](https://alexcarpenter.me/)
 
 ## Other
 
@@ -126,3 +127,4 @@ Here are few more things I liked, design wise.
 ## Links
 
 - [Awesome Creative Portfolios](https://github.com/iRaul/awesome-portfolios#readme)
+- [siteInspire](https://www.siteinspire.com/) - Web Design Inspiration.

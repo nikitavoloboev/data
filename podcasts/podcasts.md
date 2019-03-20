@@ -17,6 +17,7 @@ It includes:
 - [Foodist with Darya Rose, Ph.D](https://overcast.fm/itunes1090954776/foodist-with-darya-rose-ph-d)
 - [FoundMyFitness](https://overcast.fm/itunes818198322/foundmyfitness) - Podcast about health, science, nutrition, aging, and fitness.
 - [Hello Internet](http://www.hellointernet.fm) - CGP Grey and Brady Haran in Conversation.
+- [Hidden Forces](https://overcast.fm/itunes1205359334/hidden-forces) - Exploring the hidden forces responsible for driving the most powerful changes we see in the world.
 - [Kevin Rose Show](https://overcast.fm/itunes1088864895/the-kevin-rose-show) - Kevin Rose interviews and explores new ways to reach peak personal and professional performance.
 - [The Knowledge Project with Shane Parrish](https://overcast.fm/itunes990149481/the-knowledge-project-with-shane-parrish) - Mastering the Best of What Other People Have Figured Out.
 - [Kubernetes Podcast from Google](https://overcast.fm/itunes1370049232/kubernetes-podcast-from-google) - Weekly podcast focused on what’s happening in the Kubernetes community.
@@ -73,3 +74,5 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podcasts which are helpful for software engineers/programmers](https://github.com/rShetty/awesome-podcasts#readme)
 - [Cast](https://tryca.st/) - Record, edit, publish, and host your podcast.
 - [Best Podcasts Search](https://bestpodcasts.com)
+- [Forecast](https://overcast.fm/forecast) - Podcast MP3 post-production tool designed, developed, and used by professional podcasters.
+- [How to Add Chapter Markers to Podcasts (2019)](https://www.lemonproductions.ca/how-to-add-chapter-markers-to-podcasts/)

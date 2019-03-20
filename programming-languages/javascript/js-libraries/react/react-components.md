@@ -24,6 +24,7 @@
 - [React Window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data.
 - [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit) - Utility library for highly configurable layout transitions.
 - [React Calendar](https://github.com/react-component/calendar)
+- [Recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
 
 ## Links
 

@@ -497,6 +497,7 @@
 - [Augmented Reality](augmented-reality/augmented-reality.md)
 - [Neuroscience](neuroscience/neuroscience.md)
   - [Brain](neuroscience/brain.md)
+  - [Brain Computer Interfaces](neuroscience/brain-computer-interfaces.md)
   - [Cognition](neuroscience/cognition.md)
 - [CLI](cli/cli.md)
   - [sed](cli/sed.md)
