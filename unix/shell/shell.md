@@ -25,3 +25,4 @@ All active variables can be seen by running `env`.
 - [Shell and Scripting (2019)](https://hacker-tools.github.io/shell/)
 - [ShellCheck](https://www.shellcheck.net) - Finds bugs in your shell scripts.
 - [Rash](https://github.com/willghatch/racket-rash) - The Reckless Racket Shell.
+- [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - Remote shell that automatically reconnects without interrupting the session.

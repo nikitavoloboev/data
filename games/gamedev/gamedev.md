@@ -1,13 +1,5 @@
 # Game development
 
-## Engines
-
-- [Godot](https://github.com/godotengine/godot)
-- [Love](https://love2d.org)
-- [ggez](https://github.com/ggez/ggez)
-- [Amethyst](https://github.com/amethyst/amethyst)
-- [Open Source Game Engine for Turn-Based Games](https://github.com/nicolodavis/boardgame.io)
-
 ## OSS Games
 
 - [Dino Jump](https://github.com/dj/dinojump)

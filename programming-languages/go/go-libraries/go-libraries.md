@@ -10,6 +10,7 @@
 - [flagga](https://github.com/erizocosmico/flagga) - Extensible Go library for handling program configuration using flags.
 - [ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration.
 - [go-sh](https://github.com/codeskyblue/go-sh) - Like python-sh, for easy call shell with golang.
+- [Docli](https://github.com/celicoo/docli) - Declarative language for describing command-line interfaces.
 
 ## Web
 

@@ -4,10 +4,6 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 ## OPT+CMD
 
-- 1 - Show Launchpad
-- 2 - New Imgur screenshot
-- 3 - New Annotate screenshot
-- 4 - Open Annotate screenshot
 - 5 - Start/stop ScreenFlow recording
 - 6 - Maximize window to next screen
 - 7 - Open Typinator
@@ -33,12 +29,14 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 ## CTRL+OPT
 
+- 2 - New Imgur screenshot
+- 3 - New Annotate screenshot
+- 4 - Open Annotate screenshot
+- 9 - Show Launchpad
 - space - Add New Trello card
 
 ## CTRL+SHIFT
 
-- 8 - Focus on menu bar
-- 9 - Noizio show menu
 - 0 - Noizio on/off
 
 ## CTRL+OPT+CMD
