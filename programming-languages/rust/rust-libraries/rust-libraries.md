@@ -10,7 +10,7 @@
 - [yew](https://github.com/DenisKolodin/yew) - Framework to make client web apps.
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
 - [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
-- [Seed](https://github.com/David-OConnor/seed) - Frontend framework for Rust, via WebAssembly.
+- [Seed](https://github.com/David-OConnor/seed) - Rust framework for creating web apps.
 - [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
 - [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
 - [Gloo](https://github.com/rustwasm/gloo) - Toolkit for building fast, reliable Web applications and libraries with Rust and Wasm.

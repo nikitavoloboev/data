@@ -2,6 +2,10 @@
 
 Pretty useful to know scripting language for macOS.
 
+## Notes
+
+- You can drop an application on Apple's Script Editor.app to find out if it is scriptable.
+
 ## Links
 
 - [Advanced AppleScript techniques](https://computers.tutsplus.com/tutorials/advanced-applescript-techniques--mac-4603)
