@@ -11,3 +11,4 @@
 - [Vega-Lite](https://vega.github.io/vega-lite/) - High-level grammar of interactive graphics. [OSS](https://github.com/vega/vega-lite).
 - [Draco](https://github.com/uwdata/draco) - Formal framework for representing design knowledge about effective visualization design as a collection of constraints.
 - [Observable](https://observablehq.com/) - Magic notebook for visualization.
+- [Bl.ocks](https://bl.ocks.org/) - Simple viewer for sharing code examples hosted on GitHub Gist.
