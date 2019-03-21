@@ -51,3 +51,4 @@
 - [@pika/web](https://github.com/pikapkg/web) - Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
 - [Sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes.
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)
+- [JavaScript Developer's Reading List](https://github.com/twhite96/js-dev-reads#readme) - List of hand-picked books and articles for JavaScript developers.

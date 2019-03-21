@@ -10,9 +10,9 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 8 - Search Clipboard History with Alfred
 - 9 - Connect/disconnect AirPods
 - 0 - Open Dropzone
-- / - Show/hide notification center
 - p - Make HasteBin link from selection
 - l - Make HasteBin link from clipboard
+- / - Show/hide notification center
 
 ## CTRL+CMD
 
@@ -23,7 +23,6 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 7 - Search selection with Google Searchio
 - 8 - Search selection in Dictionary
 - 9 - Google selected text
-- 0 - Screenshot entire screen
 - . - Contexts search active windows
 - ] - Search SnippetsLab library with assistant
 
@@ -32,6 +31,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 2 - New Imgur screenshot
 - 3 - New Annotate screenshot
 - 4 - Open Annotate screenshot
+- 5 - Screenshot entire screen
 - 9 - Show Launchpad
 - space - Add New Trello card
 
