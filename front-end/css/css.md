@@ -49,3 +49,4 @@
 - [Rebass](https://github.com/rebassjs/rebass) - React primitive UI components built with styled-system..
 - [TypeStyle](https://github.com/typestyle/typestyle) - Making CSS type safe.
 - [The Three Tenets of Styled System (2019)](https://jxnblk.com/blog/the-three-tenets-of-styled-system/)
+- [CSS Scan Chrome Extension](https://getcssscan.com/) - Instantly inspect and copy computed CSS.
