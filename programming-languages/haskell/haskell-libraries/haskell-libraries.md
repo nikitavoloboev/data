@@ -23,3 +23,4 @@
 - [Req](https://github.com/mrkkrp/req) - Easy-to-use, type-safe, expandable, high-level HTTP client library.
 - [silica](https://github.com/mrkgnao/silica) - Haskell optics with type errors useful enough to teach people.
 - [aeson](https://github.com/bos/aeson) - Fast Haskell JSON library.
+- [proto-lens](https://github.com/google/proto-lens) - API for protocol buffers using modern Haskell language and library patterns.
