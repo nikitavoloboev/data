@@ -82,7 +82,7 @@ Here are few more things I liked, design wise.
 - [To Overcome](http://www.parsonsmatt.org/)
 - [Artist Developer](http://www.artist-developer.com/)
 - [Patrick Stadler](https://pstadler.sh/)
-- [Frank Rausch](http://frankrausch.com/)
+- [Frank Rausch](https://frankrausch.com/)
 - [Joa Evert](https://www.joa-ebert.com/)
 - [Auris](http://auris.neeeat.com/)
 - [Frankensim](https://frankensim.animade.tv/)

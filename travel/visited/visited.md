@@ -41,6 +41,10 @@ Below are countries and cities I visited thus far. The number between brackets s
 
 - Helsinki (2016)
 
+## France
+
+- Paris (2019)
+
 ## Cyprus
 
 - Limassol (2005)
