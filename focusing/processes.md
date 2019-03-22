@@ -8,11 +8,6 @@ Some simple processes to follow when doing things.
 2. Read about it on wiki. Find the topic on [Learn Anything](../ideas/learn-anything.md) and learn from best resources for deeper knowledge.
 3. Ask myself why it is the way it is. Ask myself what am I missing and what I don't understand (tackle each dependency one by one).
 
-## Make Alfred workflow
-
-1. Follow [making workflows outline](../macOS/apps/alfred/making-workflows.md).
-2. Share it. Post the workflow on [Alfred Forum](https://www.alfredforum.com/). Heading (36 pt), `Code | Download` (22 pt) on the bottom. [Example](https://www.alfredforum.com/topic/10486-ask-create-share).
-
 ## Write an article
 
 1. Write down main ideas I want to cover as bullet points.
@@ -30,3 +25,9 @@ Some simple processes to follow when doing things.
 
 1. Read the book. Highlight important parts and/or translate them to wiki as notes.
 2. When finished reading, transfer highlights to wiki. Make review of book on Goodreads.
+
+## Make Alfred workflow
+
+1. Follow [making workflows outline](../macOS/apps/alfred/making-workflows.md).
+2. Share it. Post the workflow on [Alfred Forum](https://www.alfredforum.com/). Heading (36 pt), `Code | Download` (22 pt) on the bottom. [Example](https://www.alfredforum.com/topic/10486-ask-create-share).
+
