@@ -1,6 +1,6 @@
 # Rules
 
-Some simple rules to follow for myself doing things.
+Some simple rules to follow when doing things.
 
 ## Life
 

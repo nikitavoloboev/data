@@ -6,6 +6,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 
 - `127.0.0.1` is localhost.
 - Can go to `Network` tab to see details about requests and why they failed if they did fail. Can view headers etc
+- Web browsers will try to connect over port 80 by default.
 
 ## Links
 
