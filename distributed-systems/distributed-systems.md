@@ -22,3 +22,4 @@
 - [libp2p specification](https://github.com/libp2p/specs#readme) - Technical specifications for the libp2p networking stack.
 - [Class materials for a distributed systems lecture series](https://github.com/aphyr/distsys-class#readme)
 - [Raft Consensus Algorithm](https://raft.github.io/)
+- [Qri](https://github.com/qri-io/qri) - Global dataset version control system (GDVCS) built on the distributed web.

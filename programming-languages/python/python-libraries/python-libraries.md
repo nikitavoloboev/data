@@ -27,3 +27,4 @@
 - [Blaze](https://github.com/blaze/blaze) - Translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems.
 - [Dash Table](https://github.com/plotly/dash-table) - First-Class Interactive DataTable for Dash.
 - [Kombu](https://github.com/celery/kombu) - Messaging library for Python.
+- [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.

@@ -40,9 +40,11 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Josh Avanier](https://joshavanier.github.io/#josh)
 - [Brennan Letkeman](https://ltkmn.gitbook.io/brendex/)
 - [Andy Sparks](https://github.com/AndySparks/captains-log)
+- [Krzysztof Kowalczyk](https://blog.kowalczyk.info/)
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
 
 ## Links
 
 - [Does anyone else keep their own knowledge wiki?](https://lobste.rs/s/ord0rg/does_anyone_else_keep_their_own_knowledge)
 - [Oscean](https://github.com/XXIIVV/Oscean) - Flow-based serverless wiki.
+- [Show HN: Everything I Know Wiki (2019)](https://news.ycombinator.com/item?id=19468993)

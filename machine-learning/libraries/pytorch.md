@@ -18,3 +18,4 @@
 - [Faster R-CNN and Mask R-CNN in PyTorch](https://github.com/facebookresearch/maskrcnn-benchmark)
 - [tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for PyTorch.
 - [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric deep learning extension library for PyTorch.
+- [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch) - Contains code for 4-8 GPU training of BigGANs from Large Scale GAN Training for High Fidelity Natural Image Synthesis.
