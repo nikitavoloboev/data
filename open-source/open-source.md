@@ -26,3 +26,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [HN: AWS, MongoDB, and the Economic Realities of Open Source (2019)](https://news.ycombinator.com/item?id=18902578)
 - [You Should Open Source Your Product (2019)](https://blog.tommoor.com/2019/01/01/you-should-open-source-your-product/)
 - [Code Shelter](https://www.codeshelter.co/) - Maintainer Community for Abandoned FOSS Projects.
+- [IssueHunt](https://issuehunt.io/) - Reward project owners and developers who maintain important open-source software in the internet stack.
