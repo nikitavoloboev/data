@@ -4,4 +4,5 @@ I have a list of all [documentaries I've seen](https://letterboxd.com/nikitavolo
 
 ## Links
 
+- [Awesome Documentaries](https://github.com/learn-anything/documentaries#readme)
 - [Ask HN: What are some of the best documentaries you've seen? (2018)](https://news.ycombinator.com/item?id=18085765)

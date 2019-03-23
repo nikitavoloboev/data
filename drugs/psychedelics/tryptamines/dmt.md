@@ -35,6 +35,8 @@
   - I've made a lot of enhance leaf over the years, but really find that I prefer the leaf bed method.
 - For bong with changa: [I'd honestly recommend keeping it at a distance for a second or two to help the DMT melt into the herb a little, and then let it touch to allow the herbs to combust and release their intended MAOI effect](https://www.reddit.com/r/DMT/comments/97iinn/best_way_to_smoke_changa/)
 - [Once the changa is lit, you should take the lighter away and keep sucking. This will help prevent it from burning.](https://www.reddit.com/r/DMT/comments/5oz389/how_to_smoke_change_with_a_pipe/)
+- [DMT's existence in people, animals, plants, and so on, really isn't that surprising at all. Lots of molecules exist in biological creatures that serve no necessary purpose, but are there merely because they are the unintentional enzymatic products of other essential compounds in the body. DMT is directly derived from Tryptophan, which exists in pretty much all biological life, and is just a few enzymatic transformations away from DMT.](https://www.reddit.com/r/RationalPsychonaut/comments/b3v4fc/why_are_many_dmt_users_fixated_on_the_possibility/)
+  - Amazing comment with more info that follows
 
 ## Links
 

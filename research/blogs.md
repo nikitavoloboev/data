@@ -1,10 +1,16 @@
 # Blogs
 
-I use [Reeder](../macOS/apps/reeder.md) to stay on top of my favorite blogs I follow which I sync with [Inoreader](https://www.inoreader.com) between phone and mac.
+I use [Reeder](http://reederapp.com/mac/) to stay on top of my favorite blogs I follow which I sync with [Inoreader](https://www.inoreader.com) between phone and mac.
 
-[Here](https://gist.github.com/nikitavoloboev/f67d6d37a8c32fa6f86a23bd77107fbd) is my XML subscription feed of blogs I follow. And [here](https://medium.com/@nikitavoloboev/following) is the list of people I follow on Medium.
+![](https://i.imgur.com/XrURYlC.png)
+
+I separate blogs I follow by quality into `1.`, `2.` & `3.` folders accordingly.
+
+I share my [XML subscription feed of blogs I follow](https://gist.github.com/nikitavoloboev/f67d6d37a8c32fa6f86a23bd77107fbd). I also follow some people on [Medium](https://medium.com/@nikitavoloboev/following).
 
 ## Favorite blogs
+
+Full list can be seen in [XML feed of subscriptions under 1. folder](https://gist.github.com/nikitavoloboev/f67d6d37a8c32fa6f86a23bd77107fbd#file-my-inoreader-subscriptions-xml-L7).
 
 - [Brandur](https://brandur.org/articles)
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html)

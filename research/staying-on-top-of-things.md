@@ -12,9 +12,9 @@ On the phone I use [Telegram](https://telegram.org)'s saved messages feature as 
 
 I try to stay in touch using these few things:
 
-### RSS with [Reeder](../macOS/apps/reeder.md)
+### RSS with [Reeder](http://reederapp.com/mac/)
 
-I follow [blogs I like](blogs.md) and read them through them with [Reeder](../macOS/apps/reeder.md).
+I follow [blogs I like](blogs.md) and read them through them with Reeder.
 
 ### [Hacker News](https://hckrnews.com/) and [Lobsters](https://lobste.rs/)
 
