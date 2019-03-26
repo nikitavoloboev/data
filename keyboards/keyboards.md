@@ -16,7 +16,7 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Preonic Light](https://www.massdrop.com/buy/massdrop-x-olkb-planck-light-mechanical-keyboard) - IMO better than Preonic. Would be even nicer with Kailh switches & it being wireless.
 - [Dactyl Keyboard](https://github.com/adereth/dactyl-keyboard) - Parameterized ergonomic keyboard.
 - [Corne keyboard](https://github.com/foostan/crkbd) - Split keyboard with 3x6 column staggered keys and 3 thumb keys. ([Reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/a4hp9e/corne_chocolatehotswappable_crkbd_for_chocolate/))
-- [Redox: Ergonomic split mechanical keyboard](https://github.com/mattdibi/redox-keyboard)
+- [Redox](https://github.com/mattdibi/redox-keyboard) - Ergonomic split mechanical keyboard.
 - [Helix](https://github.com/MakotoKurauchi/helix) - Compact split ortholinear keyboard.
 
 ## Interesting keycaps

@@ -86,6 +86,7 @@
 - [Math](math/math.md)
   - [Logic](math/logic/logic.md)
     - [Combinatory logic](math/logic/combinatory-logic.md)
+    - [Satisfiability modulo theories](math/logic/satisfiability-modulo-theories.md)
   - [Linear algebra](math/linear-algebra/linear-algebra.md)
     - [Vectors](math/linear-algebra/vectors.md)
   - [Lambda calculus](math/lambda-calculus.md)

@@ -4,3 +4,4 @@
 
 - [Awesome Erlang](https://github.com/drobakowski/awesome-erlang#readme)
 - [Syn](https://github.com/ostinelli/syn) - Global Process Registry and Process Group manager for Erlang.
+- [ErlPort](https://github.com/hdima/erlport) - Connect Erlang to other languages.

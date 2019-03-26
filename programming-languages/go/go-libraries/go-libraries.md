@@ -54,6 +54,10 @@
 
 - [pbr](https://github.com/hunterloftis/pbr) - Implements Physically-Based Rendering via a unidirectional CPU-only Monte Carlo path tracer.
 
+## Docker
+
+- [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries.
+
 ## Other
 
 - [Argum](https://github.com/sg3des/argum) - Parse incoming arguments in to structure.
@@ -123,6 +127,7 @@
 - [tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
 - [go-guerrilla](https://github.com/flashmob/go-guerrilla) - Mini SMTP server written in golang.
 - [Fyne](https://github.com/fyne-io/fyne) - Easy to use UI toolkit and app API written in Go.
+- [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go.
 
 ## Links
 
