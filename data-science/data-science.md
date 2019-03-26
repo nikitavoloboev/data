@@ -20,3 +20,4 @@
 - [Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets#readme)
 - [Data Science in Visual Studio Code using Neuron, a new VS Code extension (2018)](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/10/29/data-science-in-visual-studio-code-using-neuron-a-new-vs-code-extension/)
 - [Reflow](https://github.com/grailbio/reflow) - Language and runtime for distributed, incremental data processing in the cloud.
+- [Virgilio](https://github.com/clone95/Virgilio#readme) - Mentor for Data Science E-Learning.

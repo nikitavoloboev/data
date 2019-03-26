@@ -50,3 +50,4 @@
 - [Cachix](https://cachix.org/) - Build Nix packages once and share them for good.
 - [Alternative Haskell Infrastructure for Nixpkgs](https://github.com/input-output-hk/haskell.nix) - Works by automatically translating your Cabal or Stack project and its dependencies into Nix code.
 - [nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere.
+- [crate2nix](https://github.com/kolloch/crate2nix) - Nix build file generator for rust crates.

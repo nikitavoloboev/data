@@ -146,6 +146,7 @@
         - [React Hooks](programming-languages/javascript/js-libraries/react/react-hooks.md)
         - [React Native](programming-languages/javascript/js-libraries/react/react-native.md)
         - [Gatsby JS](programming-languages/javascript/js-libraries/react/gatsby-js.md)
+      - [Jest](programming-languages/javascript/js-libraries/jest.md)
       - [Redux](programming-languages/javascript/js-libraries/redux.md)
       - [MobX](programming-languages/javascript/js-libraries/mobx.md)
       - [Vue.js](programming-languages/javascript/js-libraries/vue/vue.md)
