@@ -464,6 +464,7 @@
   - [Architecture](art/architecture.md)
 - [API](api/api.md)
 - [Distributed systems](distributed-systems/distributed-systems.md)
+  - [RPCs](distributed-systems/rpcs.md)
 - [Backups](backups/backups.md)
 - [Space](space/space.md)
   - [Black holes](space/black-holes.md)

@@ -23,3 +23,4 @@
 - [Class materials for a distributed systems lecture series](https://github.com/aphyr/distsys-class#readme)
 - [Raft Consensus Algorithm](https://raft.github.io/)
 - [Qri](https://github.com/qri-io/qri) - Global dataset version control system (GDVCS) built on the distributed web.
+- [Project Oak](https://github.com/project-oak/oak) - Meaningful control of data in distributed systems.

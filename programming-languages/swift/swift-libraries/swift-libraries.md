@@ -61,3 +61,5 @@
 - [Mobius](https://github.com/spotify/Mobius.swift) - Functional reactive framework for managing state evolution and side-effects.
 - [Table and Collection view data sources](https://github.com/RxSwiftCommunity/RxDataSources)
 - [swift-log](https://github.com/apple/swift-log) - Logging API package for Swift 5.
+- [FeedKit](https://github.com/nmdias/FeedKit) - RSS, Atom and JSON Feed parser written in Swift.
+- [DefaultsKit](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS.
