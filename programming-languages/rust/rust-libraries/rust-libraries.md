@@ -84,6 +84,7 @@
 - [Svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG.
 - [cbindgen](https://github.com/eqrion/cbindgen) - Project for generating C bindings from Rust code.
 - [Bincode](https://github.com/TyOverby/bincode) - Binary encoder / decoder implementation in Rust.
+- [hypercore](https://github.com/datrs/hypercore) - Secure, distributed, append-only log.
 
 ## Cargo Plugins
 

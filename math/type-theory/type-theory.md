@@ -25,7 +25,5 @@
 - [LaTTe](https://github.com/latte-central/LaTTe) - Laboratory for Type Theory experiments (in clojure).
 - [TT Lite](https://github.com/ilya-klyuchnikov/ttlite) - SuperCompiler for Martin-Löf's Type Theory.
 - [Implementation of spartan type theory](https://github.com/andrejbauer/spartan-type-theory)
-- [Computational Type Theory by Robert Harper (2018)](https://www.youtube.com/watch?v=LE0SSLizYUI)
 - [Why Types Matter](https://github.com/skaslev/why-types/blob/master/why-types.pdf)
 - [Introduction to type theory based on meaning explanations](https://github.com/jonsterling/type-theory-and-its-meaning-explanations)
-- [Higher Inductive Types in Cubical Computational Type Theory (2019)](https://www.youtube.com/watch?v=cmYzJAsjYSo)
