@@ -72,6 +72,11 @@ And these Discord servers:
 - [Godot Engine](https://discord.gg/ZXJERxu)
 - [r/ Apple](https://discordapp.com/invite/apple)
 
+### Other
+
+- [Awesome websites](https://github.com/learn-anything/websites#readme)
+- [Atlas Obscura](https://www.atlasobscura.com/)
+
 ## Notes
 
 - Best time to post links (HN especially) is somewhere around 16:30 CEST so it falls nicely in both EU & NA timezones

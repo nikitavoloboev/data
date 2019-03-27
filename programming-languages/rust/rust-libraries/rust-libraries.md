@@ -83,6 +83,7 @@
 - [libc](https://github.com/rust-lang/libc) - Raw FFI bindings to platforms' system libraries.
 - [Svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG.
 - [cbindgen](https://github.com/eqrion/cbindgen) - Project for generating C bindings from Rust code.
+- [Bincode](https://github.com/TyOverby/bincode) - Binary encoder / decoder implementation in Rust.
 
 ## Cargo Plugins
 

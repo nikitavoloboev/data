@@ -34,3 +34,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Connected React Router](https://github.com/supasate/connected-react-router) - Redux binding for React Router.
 - [SoundCloud Redux](https://github.com/r-park/soundcloud-redux) - Basic SoundCloud API client built with React, Redux, and Redux Saga.
 - [Logux](https://github.com/logux/logux) - Instead of sending HTTP requests (e.g., AJAX, REST, and GraphQL) it synchronizes log of operations between client, server, and other clients through WebSocket.
+- [React Hooks implementation for Redux](https://github.com/epeli/redux-hooks)
