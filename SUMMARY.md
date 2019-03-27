@@ -155,6 +155,7 @@
       - [Vue.js](programming-languages/javascript/js-libraries/vue/vue.md)
       - [Next.js](programming-languages/javascript/js-libraries/react/nextjs.md)
       - [D3.js](programming-languages/javascript/js-libraries/d3js.md)
+      - [ESLint](programming-languages/javascript/eslint.md)
   - [TypeScript](programming-languages/typescript/typescript.md)
     - [TypeScript libraries](programming-languages/typescript/typescript-libraries/typescript-libraries.md)
   - [Scala](programming-languages/scala/scala.md)

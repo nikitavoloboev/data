@@ -1,6 +1,6 @@
 # Neural networks
 
-[This](https://www.youtube.com/watch?v=aircAruvnKk&feature=youtu.be) is a great introduction.
+[This](https://www.youtube.com/watch?v=aircAruvnKk) is a great introduction.
 
 ## Notes
 
@@ -28,3 +28,6 @@
 - [MindsDB](https://github.com/mindsdb/mindsdb) - Framework to streamline use of neural networks.
 - [Neural Network framework in 25 LOC](https://gist.github.com/macournoyer/620a8ba4a2ecd6d6feaf)
 - [Learning and Processing over Networks (2019)](https://github.com/rodrigo-pena/amld2019-graph-workshop) - Workshop presented by Michaël Defferrard and Rodrigo Pena at the Applied Machine Learning Days in January 2019.
+- [The Next Generation of Neural Networks by Geoffrey Hinton (2007)](https://www.youtube.com/watch?v=AyzOUbkUf3M)
+- [Who Invented Backpropagation? (2014)](http://people.idsia.ch/~juergen/who-invented-backpropagation.html)
+- [Deep Learning in Neural Networks: An Overview (2015)](http://people.idsia.ch/~juergen/deep-learning-overview.html)
