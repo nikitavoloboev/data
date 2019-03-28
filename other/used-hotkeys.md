@@ -56,6 +56,8 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 ## OPT+SHIFT+CMD
 
+- 9 - Make Typinator snippet from clipboard
+- 0 - Make Typinator snippet from selection
 - r - Google Translate selected text
 
 ## CTRL+OPT+SHIFT+CMD
