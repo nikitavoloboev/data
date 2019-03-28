@@ -28,10 +28,12 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 ## CTRL+OPT
 
+- 1 - New Kap recording
 - 2 - New Imgur screenshot
 - 3 - New Annotate screenshot
 - 4 - Open Annotate screenshot
 - 5 - Screenshot entire screen
+- 6 - Screenshot & recording options
 - 9 - Show Launchpad
 - space - Add New Trello card
 
@@ -62,4 +64,5 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 ## CTRL+OPT+SHIFT+CMD
 
+- t - Open Trello
 - Space - Alfred

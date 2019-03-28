@@ -6,3 +6,4 @@
 - [Code Generation with llvm-hs by Stephen Diehl (2018)](https://www.youtube.com/watch?v=wn-xW3g8jXY)
 - [Souper](https://github.com/google/souper) - Superoptimizer for LLVM IR.
 - [Mull](https://github.com/mull-project/mull) - Mutation testing system built on top of LLVM.
+- [LLVM Tutorial: Table of Contents](https://llvm.org/docs/tutorial/)

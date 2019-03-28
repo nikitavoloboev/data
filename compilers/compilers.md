@@ -17,3 +17,4 @@
 - [Short overview of "C--"](https://www.cs.tufts.edu/~nr/c--/index.html)
 - [The C-- Language Specification](https://www.cs.tufts.edu/~nr/c--/extern/man2.pdf)
 - [How to become an expert in compilers the long way? (2019)](https://forums.swift.org/t/how-to-become-an-expert-in-compilers-the-long-way/22175)
+- [So You Want to Be a (Compiler) Wizard (2016)](http://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/)
