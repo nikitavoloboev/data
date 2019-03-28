@@ -42,3 +42,4 @@
 - [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust#readme)
 - [Rust Programming Tipz](https://github.com/spacejam/elements-of-rust#readme)
 - [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code.
+- [Learn Rust With Entirely Too Many Linked Lists](https://knowledge.rachelbrindle.com/rust/index.html)

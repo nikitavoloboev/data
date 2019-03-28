@@ -19,4 +19,5 @@
 - [Olin](https://github.com/Xe/olin) - Environment to run and operate functions as a service projects using event sourcing and webassembly under the hood.
 - [Wasmtime](https://github.com/CraneStation/wasmtime) - Standalone wasm-only runtime for WebAssembly, using the Cranelift JIT.
 - [Cranelift Code Generator](https://github.com/CraneStation/cranelift) - Low-level retargetable code generator. It translates a target-independent intermediate representation into executable machine code..
+- [Standardizing WASI: A system interface to run WebAssembly outside the web (2019)](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 - [WASI](https://wasi.dev/) - WebAssembly System Interface.

@@ -33,3 +33,4 @@ Plan to spend more time with it as [SourceKit-LSP](https://github.com/apple/sour
 - [Swift Rust-like ownership model RFC](https://github.com/apple/swift/blob/master/docs/OwnershipManifesto.md)
 - [swift-docker](https://github.com/apple/swift-docker) - Docker Official Image packaging for Swift.
 - [Awesome Server Side Swift](https://github.com/cak/awesome-server-side-swift#readme)
+- [Awesome System Swift](https://github.com/felix91gr/awesome-system-swift#readme)

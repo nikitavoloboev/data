@@ -72,3 +72,4 @@
 - [Tekton Pipelines](https://github.com/tektoncd/pipeline) - Provides k8s-style resources for declaring CI/CD-style pipelines.
 - [ko](https://github.com/google/ko) - Tool for building and deploying Golang applications to Kubernetes.
 - [Maybe You Don't Need Kubernetes (2019)](https://matthias-endler.de/2019/maybe-you-dont-need-kubernetes/) ([HN](https://news.ycombinator.com/item?id=19467067))
+- [CLI for Amazon EKS](https://github.com/weaveworks/eksctl) - Simple CLI tool for creating clusters on EKS - Amazon's new managed Kubernetes service for EC2.
