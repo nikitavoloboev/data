@@ -105,3 +105,4 @@ Once I wrote the article that I am quite happy with. I export the article straig
 - [On self-publishing “A Programmer’s Introduction to Mathematics” (2018)](https://medium.com/@jeremyjkun/on-self-publishing-a-programmers-introduction-to-mathematics-1472b7511c99)
 - [Write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
 - [Typegram](https://en.tgr.am/@recoilme/1) - [Open source](https://github.com/recoilme/tgram) publishing platform.
+- [Notes on writing well](https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md#readme)

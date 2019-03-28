@@ -21,3 +21,4 @@
 - [Cranelift Code Generator](https://github.com/CraneStation/cranelift) - Low-level retargetable code generator. It translates a target-independent intermediate representation into executable machine code..
 - [Standardizing WASI: A system interface to run WebAssembly outside the web (2019)](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 - [WASI](https://wasi.dev/) - WebAssembly System Interface.
+- [Lucet](https://github.com/fastly/lucet) - Sandboxing WebAssembly Compiler.

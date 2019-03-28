@@ -40,3 +40,4 @@
 - [Conditional Type Checks](https://github.com/dsherret/conditional-type-checks) - Types for testing TypeScript types.
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
 - [Collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
+- [Be Super with TypeScript and Jared Palmer episode (2019)](https://overcast.fm/+N_6KEDwFo)

@@ -34,4 +34,4 @@ Personally I found dating apps like Tinder to be a [waste of time](https://twitt
 - [Why She Didn’t Text Back (2018)](https://www.youtube.com/watch?v=B8xBpgFLA84) - Principles of seduction & importance of principles.
 - [You are enough - Women are a by-product](https://www.youtube.com/watch?v=AFqwULzGXCk)
 - [Your Friends Are Holding You Back (2019)](https://www.youtube.com/watch?v=vWz1vuBpUnI)
-- [Why Tinder doesn't work in 2019](https://www.youtube.com/watch?v=80B1ncyqtV0)
+- [The origins of seduction (with James Marshall, Sasha Daygame, John Keegan) (2019)](https://www.youtube.com/watch?v=Yx9rpr4XQMM)
