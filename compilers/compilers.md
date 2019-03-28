@@ -16,3 +16,4 @@
 - [Compilers: Principles, Techniques, and Tools book (1986)](https://www.goodreads.com/book/show/703102.Compilers)
 - [Short overview of "C--"](https://www.cs.tufts.edu/~nr/c--/index.html)
 - [The C-- Language Specification](https://www.cs.tufts.edu/~nr/c--/extern/man2.pdf)
+- [How to become an expert in compilers the long way? (2019)](https://forums.swift.org/t/how-to-become-an-expert-in-compilers-the-long-way/22175)

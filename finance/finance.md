@@ -16,7 +16,7 @@ This approach to finance makes me stop and review any non food related purchase 
 
 ## Ongoing subscriptions
 
-I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews (last Sunday of every month) and make sure I don't subscribe to any subscription that I find brings no value to my life or subscriptions that my budget doesn't allow to continue.
+I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews (last Sunday of every month) and make sure I don't subscribe to any subscriptions that I find bring no value to my life or subscriptions that my budget doesn't allow to continue.
 
 ![](https://i.imgur.com/jkvG26N.jpg)
 

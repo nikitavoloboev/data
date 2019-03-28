@@ -52,3 +52,4 @@
 - [Sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes.
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)
 - [JavaScript Developer's Reading List](https://github.com/twhite96/js-dev-reads#readme) - List of hand-picked books and articles for JavaScript developers.
+- [Promisees](https://github.com/bevacqua/promisees) - Promise visualization playground for the adventurous.
