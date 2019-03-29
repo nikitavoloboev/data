@@ -63,3 +63,5 @@
 - [swift-log](https://github.com/apple/swift-log) - Logging API package for Swift 5.
 - [FeedKit](https://github.com/nmdias/FeedKit) - RSS, Atom and JSON Feed parser written in Swift.
 - [DefaultsKit](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS.
+- [Nimble](https://github.com/Quick/Nimble) - Express the expected outcomes of Swift or Objective-C expressions.
+- [Schedule](https://github.com/jianstm/Schedule) - Lightweight timed task scheduler for Swift. (A modern alternative to Timer).

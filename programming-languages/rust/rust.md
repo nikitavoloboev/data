@@ -43,3 +43,4 @@
 - [Rust Programming Tipz](https://github.com/spacejam/elements-of-rust#readme)
 - [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code.
 - [Learn Rust With Entirely Too Many Linked Lists](https://knowledge.rachelbrindle.com/rust/index.html)
+- [cargo audit](https://github.com/RustSec/cargo-audit) - Audit Cargo.lock files for crates with security vulnerabilities.
