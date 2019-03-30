@@ -20,3 +20,4 @@
 - [Kraken](https://github.com/uber/kraken) - P2P docker registry capable of distributing TBs of data in seconds.
 - [HN: Goodbye Docker and Thanks for All the Fish (2019)](https://news.ycombinator.com/item?id=19351236)
 - [Tini](https://github.com/krallin/tini) - Tiny but valid `init` for containers.
+- [browserless](https://github.com/joelgriffith/browserless) - Chrome as a service in docker. Bring your own cloud or hardware..

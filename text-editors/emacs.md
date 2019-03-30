@@ -22,3 +22,4 @@ Might give it a go sometime.
 - [Modalka](https://github.com/mrkkrp/modalka) - Easily introduce native modal editing of your own design.
 - [Elsa](https://github.com/emacs-elsa/Elsa) - Emacs Lisp Static Analyser.
 - [Reasonable Emacs config](https://github.com/purcell/emacs.d)
+- [List of people with nice emacs config files](https://github.com/caisah/emacs.dz#readme)
