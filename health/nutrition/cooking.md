@@ -7,7 +7,7 @@
 ## Links
 
 - [Time to make food](https://timetomakefood.com/) - Interesting website with recipes that lets you expand on the recipes themselves to see how to make them.
-- [Grim Grains](http://grimgrains.com/#home)
+- [Grim Grains](https://grimgrains.com/#home)
 - [Rouxbe Online Cooking School](https://rouxbe.com/cooking-courses)
 - [Cooking Classes](https://www.craftsy.com/cooking/shop/cooking-classes)
 - [Salted](http://www.saltedtv.com/) - Learn cooking from experts.

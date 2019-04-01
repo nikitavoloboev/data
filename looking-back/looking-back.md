@@ -8,6 +8,7 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 
 - [January](2019/2019-january.md) - First month at Enpicom, building a platform for personalized immunotherapies.
 - [February](2019/2019-february.md) - Moved to Den Bosch. Writing code.
+- [March](2019/2019-march.md) - Visited London/Paris. First Go conference.
 
 ## [2018](2018/2018.md)
 

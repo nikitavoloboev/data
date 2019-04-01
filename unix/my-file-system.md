@@ -15,7 +15,7 @@ All my actual documents (books, papers..) are put there. The folder synced with 
 ```Bash
 ~/Documents
 ❯ exa
-App  AudioBooks  Books  Design  Gumroad  Papers  PDFs  Pixave  Research
+Actual  App  AudioBooks  Books  Design  Gumroad  Papers  PDFs  Pixave  Private  Research
 ```
 
 ## ~/Downloads
@@ -31,12 +31,12 @@ Everything that is code is put into this folder.
 ```Bash
 ~/src
 ❯ exa
-alfred  bots  build-to-learn  clones  curated  games  ideas  languages  libs  models  nix  orgs  personal  puzzles  scripts  test  vim-plugins  vscode-extensions  web  Xcode
+alfred  apps  bots  build-to-learn  clones  curated  games  ideas  languages  libs  models  nix  orgs  personal  puzzles  scripts  vim-plugins  vscode-extensions  web  Xcode
 ```
 
 ## ~/src/clones
 
-I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I [use km macro](https://medium.com/@nikitavoloboev/insta-cloning-ff5f38eb1d32) that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/src/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime Text.
+I often love checking out various GitHub repos. Everything that I clone, I clone into this folder. I use [km macro](https://medium.com/@nikitavoloboev/insta-cloning-ff5f38eb1d32) that will clone the repo that is currently open in my Safari tab. It will put the repo in `~/src/clones` and then open it in VS Code. I also have similar macros that will only clone the repo or clone the repo and open it in Sublime Text.
 
 I then filter contents of the folder with [this workflow](https://github.com/nikitavoloboev/small-workflows/blob/master/augmentations/Directory%20watches.alfredworkflow?raw=true).
 
@@ -50,21 +50,9 @@ Inside this folder I keep all code from orgs I am working on.
 deedmob  enpicom  learn-anything
 ```
 
-## ~/src/test
+## ~/src/build-to-learn
 
-Inside this folder I have a bunch of language specific folders that usually just have one file inside them with the extension of that language. Here is how that folder looks for me:
-
-```Bash
-~/src/test
-❯ exa
-bash-test  c-test  clojure-test  docker-test  go-test  haskell-test  js-test  lisp-test  nix-test  python-test  react-test  ruby-test  ts-test
-```
-
-I then have KM macros to quickly open these files:
-
-![](https://i.imgur.com/s2RJt5y.png)
-
-And I use [VS Code CodeRunner](https://github.com/formulahendry/vscode-code-runner) extension to quickly run code in those specific files. Makes prototyping ideas and libraries a breeze.
+The folder is OSS on [GitHub](https://github.com/nikitavoloboev/build-to-learn). Inside this folder I have a bunch of language/framework specific folders. I use it to test out new tools/ideas in there.
 
 ## ~/src/Xcode
 
@@ -74,16 +62,6 @@ Contains all my Swift iOS and macOS projects.
 ~/src/Xcode
 ❯ a
 iOS  macOS  playgrounds  safari-extensions
-```
-
-## ~/src/build-to-learn
-
-I use the folder to build and learn new things by implementing it. Perhaps I am completing some course or going through some book that has exercises. I put it there.
-
-```Bash
-~/src/build-to-learn
-❯ exa
-README.md go tsc
 ```
 
 ## ~/src/alfred

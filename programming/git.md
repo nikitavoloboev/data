@@ -37,3 +37,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-delete-squashed](https://github.com/not-an-aardvark/git-delete-squashed) - Delete branches that have been squashed and merged into master.
 - [rebase-editor](https://github.com/sjurba/rebase-editor) - Simple terminal based sequence editor for git interactive rebase.
 - [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did.
+- [git-rs](https://github.com/chrisdickinson/git-rs) - Implementing git in rust for fun and education.

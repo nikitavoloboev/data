@@ -13,3 +13,7 @@ Currently my zero waste practices involve:
 - Minimizing my use of plastics and recycling everything.
 - Drinking water/tea from my metal cup.
 - Letting other people know that this wonderful lifestyle of minimalism and zero waste exists and how great it actually is to adhere it.
+
+## Notes
+
+- [The zero waste lifestyle encourages individuals to reduce waste by avoiding throwing away materials that can't be composed or recycled.](https://joshavanier.github.io/wiki/zero_waste.html)

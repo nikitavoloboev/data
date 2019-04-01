@@ -20,6 +20,7 @@ The number between brackets shows the year I created the repo in. Repos with ðŸŒ
 
 ## Personal
 
+- [Article drafts (2019)](https://github.com/nikitavoloboev/article-drafts) - Unpublished articles.
 - [CV (2018)](https://github.com/nikitavoloboev/cv#readme) - My CV.
 - [Vegan Recipes (2018)](https://github.com/nikitavoloboev/vegan-recipes#readme) - Vegan recipes I like.
 - [Knowledge (2017) ðŸŒŸ](https://github.com/nikitavoloboev/knowledge#readme) - Everything I know.
@@ -54,5 +55,6 @@ The number between brackets shows the year I created the repo in. Repos with ðŸŒ
 
 ## Practice
 
+- [Build to learn (2019)](https://github.com/nikitavoloboev/build-to-learn) - Attempts at building things for deeper understanding/practice.
 - [Euler (2017)](https://github.com/nikitavoloboev/euler#readme) - Solutions to Project Euler in Go/Python.
 - [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode#readme) - Solutions to LeetCode in Go/Python.

@@ -37,7 +37,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Oleg Kiselyov](http://okmij.org/ftp/) - Lots of stuff on FP.
 - [Richard Litt](https://github.com/RichardLitt/knowledge)
 - [Darshan Chaudhary](https://github.com/darshanime/notes#readme)
-- [Josh Avanier](https://joshavanier.github.io/#josh)
+- [Josh Avanier](https://joshavanier.github.io/wiki/notes.html)
 - [Brennan Letkeman](https://ltkmn.gitbook.io/brendex/)
 - [Andy Sparks](https://github.com/AndySparks/captains-log)
 - [Krzysztof Kowalczyk](https://blog.kowalczyk.info/)

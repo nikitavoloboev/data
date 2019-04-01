@@ -2,7 +2,7 @@
 
 For my own personal finance, I budget all my money with my online bank app, [N26](https://n26.com/en-eu/) and its [spaces feature](https://n26.com/en-eu/spaces).
 
-On my [scheduled monthly reviews](../focusing/focusing.md) (last Sunday of every month), I budget out the money I plan myself to spend next month into a `Month` space. The remaining money goes into `Save` space or my optional planned big purchase space (i.e. Tesla). Here is how it looks:
+On my [scheduled monthly reviews](../focusing/focusing.md) (first Sunday of every month), I budget out the money I plan myself to spend next month into a `Month` space. The remaining money goes into `Save` space or my optional planned big purchase space (i.e. Tesla). Here is how it looks:
 
 ![](https://i.imgur.com/SOryWKs.jpg)
 
@@ -10,13 +10,13 @@ I use [YNAB methodology](https://www.youneedabudget.com/method/) to proactively 
 
 This methodology for managing money is extremely effective as it allows me to be more proactive with budgeting and spending. It lets me know how much money I have and how much money I can spend on any given category.
 
-Each transaction made with N26 is automatically sorted into a category by the app. If that category is wrong, I correct it in N26 app. On last Sunday of each month, I review all the purchases made, the money I have and my goals and based on that, set out the budget for next month. In my case that means moving the money I plan to spend next month into `Month` space with remaining money going into `Save` or some big purchase goal I have (with it being its own space).
+Each transaction made with N26 is automatically sorted into a category by the app. If that category is wrong, I correct it in N26 app. On first Sunday of each month, I review all the purchases made, the money I have and my goals and based on that, set out the budget for next month. In my case that means moving the money I plan to spend next month into `Month` space with remaining money going into `Save` or some big purchase goal I have (with it being its own space).
 
 This approach to finance makes me stop and review any non food related purchase I make in life and judge it accordingly before going through with it.
 
 ## Ongoing subscriptions
 
-I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews (last Sunday of every month) and make sure I don't subscribe to any subscriptions that I find bring no value to my life or subscriptions that my budget doesn't allow to continue.
+I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews (first Sunday of every month) and make sure I don't subscribe to any subscriptions that I find bring no value to my life or subscriptions that my budget doesn't allow to continue.
 
 ![](https://i.imgur.com/jkvG26N.jpg)
 
