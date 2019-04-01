@@ -24,6 +24,8 @@ My favorite of which is [sVim](https://github.com/flipxfx/sVim) which adds a cus
 
 ![](https://i.imgur.com/po7kXGS.png)
 
+- There's 500 open tabs limit on Safari iOS.
+
 ## Links
 
 - [Safari Extensions JS](https://developer.apple.com/documentation/safariextensions)

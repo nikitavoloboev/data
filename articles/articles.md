@@ -1,6 +1,6 @@
 # Articles
 
-Some articles I read and liked.
+Some articles I read and liked that don't fit under any other topic inside this wiki.
 
 - [Postmortem: Every Frame a Painting](https://medium.com/@tonyszhou/postmortem-1b338537fabc)
 - [Good books for deep hacks](https://begriffs.com/posts/2017-04-13-longterm-computing-reading.html)
@@ -16,3 +16,4 @@ Some articles I read and liked.
 - [On moving on (2014)](https://ostera.io/essays/LOV-000-on-moving-on.html)
 - [So I stopped programming (2014)](https://ostera.io/essays/LOV-001-so-i-stopped-programming.html)
 - [Stepping back (2018)](https://write.as/matt/stepping-back)
+- [Coping with Feedback (2019)](https://overreacted.io/coping-with-feedback/)
