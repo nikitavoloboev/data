@@ -8,7 +8,7 @@ Visited London with [Valeriya](https://www.instagram.com/valeriyaprokopova/) for
 
 We got to see the place [where Harry Potter movies were filmed](https://www.wbstudiotour.co.uk). Lots of cool little props and stories from the set were there on display.
 
-One thing I didn't like about London coming from NL is that biking in the city seems like signing a death sentence. Sometimes bicyclists are on the same line as the bus and other cars and that can't be good. In NL, bicyclists are a first class citizens of the city. Having said that public transportation in London does make up for this deficiency.
+One thing I didn't like about London coming from NL is that biking in the city seems like signing a death sentence. Sometimes cyclists are on the same line as the bus and other cars and that can't be good. In NL, cyclists are a first class citizens of the city. Having said that, public transportation (Metro) in London does make up for this deficiency.
 
 ## Paris trip
 
