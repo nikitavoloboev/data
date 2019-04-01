@@ -54,3 +54,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS Project Template](https://github.com/pgorzelany/iOS-project-template) - Template to jumpstart your next iOS project integrating best practices and tools.
 - [Comprehensive open-source iOS guides](https://guides.codepath.com/ios)
 - [Automatic App Landing Page](https://github.com/emilbaehr/automatic-app-landing-page) - Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
+- [Reverse Engineering iOS Applications](https://github.com/ivRodriguezCA/RE-iOS-Apps) - Free, open source and online course about Reverse Engineering iOS Applications.

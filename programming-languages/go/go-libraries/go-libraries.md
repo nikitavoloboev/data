@@ -131,6 +131,7 @@
 - [go-guerrilla](https://github.com/flashmob/go-guerrilla) - Mini SMTP server written in golang.
 - [Fyne](https://github.com/fyne-io/fyne) - Easy to use UI toolkit and app API written in Go.
 - [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go.
+- [Logrus](https://github.com/Sirupsen/logrus) - Structured, pluggable logging for Go.
 
 ## Links
 

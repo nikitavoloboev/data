@@ -11,6 +11,7 @@ And I really like [NixOS](linux/nixos.md) and it's [nix package manager](../pack
 - [Plan 9](https://9p.io/plan9/)
 - [Toddler](https://github.com/zhengruohuang/toddler) - Well-designed usable and portable microkernel OS.
 - [OS67](https://github.com/SilverRainZ/OS67) - Unix-like toy kernel.
+- [Serenity](https://github.com/awesomekling/serenity) - X86 Unix-like operating system for IBM PC-compatibles.
 
 ## Links
 
