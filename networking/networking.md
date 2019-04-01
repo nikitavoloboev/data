@@ -21,3 +21,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet. ([HN](https://news.ycombinator.com/item?id=19189455))
 - [miniserve](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP.
 - [Recommended books on Computer Networks? (2019)](https://lobste.rs/s/jwlh6s/recommended_books_on_computer_networks)
+- [SwiftNIO](https://github.com/apple/swift-nio) - Cross-platform asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
