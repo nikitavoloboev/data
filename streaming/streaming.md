@@ -19,3 +19,4 @@ Here are tools I use for streaming:
 - [How I stream myself coding](http://bitemyapp.com/posts/2018-03-14-how-i-stream-coding.html)
 - [Restream](https://restream.io/) - Stream live video to 30+ platforms simultaneously for free.
 - [My Twitch Live Coding Setup by Suz Hinton (2019)](https://medium.com/@suzhinton/my-twitch-live-coding-setup-b2516672fb21) ([HN](https://news.ycombinator.com/item?id=19241570))
+- [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams#readme)

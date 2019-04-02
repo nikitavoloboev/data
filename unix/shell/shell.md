@@ -23,6 +23,6 @@ All active variables can be seen by running `env`.
 - [Yoshua's notes](https://yoshuawuyts.gitbooks.io/knowledge/content/unix/shell.html)
 - [Shell Auto-completion Systems](http://dundalek.com/entropic/shell-auto-completion/)
 - [Shell and Scripting (2019)](https://hacker-tools.github.io/shell/)
-- [ShellCheck](https://www.shellcheck.net) - Finds bugs in your shell scripts.
+- [ShellCheck](https://www.shellcheck.net) - Finds bugs in your shell scripts. [OSS](https://github.com/koalaman/shellcheck).
 - [Rash](https://github.com/willghatch/racket-rash) - The Reckless Racket Shell.
 - [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - Remote shell that automatically reconnects without interrupting the session.

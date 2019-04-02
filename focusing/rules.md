@@ -427,6 +427,11 @@ Some simple rules to follow when doing things.
 - Order of importance for cards: **Watching** -> **Next** -> No label.
 - Add links to wiki or [curated lists](https://github.com/learn-anything/curated-lists#readme) over adding them to Trello where appropriate.
 
+## Travel
+
+- Buy travel/train/accommodation arrangements for future events/conferences as soon as possible (if I know I will be attending the event).
+- Plan travels in advance in order to save on travel expenses.
+
 ## Other
 
 - Check everything once I leave a room. In case I forget anything.
