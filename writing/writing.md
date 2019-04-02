@@ -36,7 +36,7 @@ I start writing all my articles by jotting down notes as dashed points below the
 
 I then start writing the article and try to touch on one or all of these points as I write the article. I add/remove points as I write the article.
 
-I write all my articles in [Sublime Text](../text-editors/sublime-text/sublime-text.md) app and use a small [Alfred workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to search through articles I am pending on finishing.
+I write all my articles in [Sublime Text](../text-editors/sublime-text/sublime-text.md) app and use a small [Alfred workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to search through articles I am [pending on finishing](https://github.com/nikitavoloboev/article-drafts).
 
 ![](https://i.imgur.com/J7vMVjA.png)
 
