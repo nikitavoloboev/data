@@ -86,6 +86,7 @@
 - [Bincode](https://github.com/TyOverby/bincode) - Binary encoder / decoder implementation in Rust.
 - [hypercore](https://github.com/datrs/hypercore) - Secure, distributed, append-only log.
 - [rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb) - Rust wrapper for rocksdb.
+- [futures-rs](https://github.com/rust-lang-nursery/futures-rs) - Zero-cost asynchronous programming in Rust.
 
 ## Cargo Plugins
 
