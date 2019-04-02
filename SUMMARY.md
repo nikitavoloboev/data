@@ -104,6 +104,7 @@
   - [Homotopy theory](math/homotopy-theory.md)
   - [Queueing theory](math/queueing-theory.md)
   - [Topology](math/topology.md)
+  - [Differential equations](math/differential-equations.md)
 - [Computer Science](computer-science/computer-science.md)
   - [Data Structures](computer-science/data-structures/data-structures.md)
   - [Algorithms](computer-science/algorithms/algorithms.md)

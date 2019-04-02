@@ -4,7 +4,7 @@ LaTeX is an amazing typesetting language that I mostly use to markup various mat
 
 For writing LaTeX I use [VS Code](../text-editors/vs-code/vs-code.md) and [LaTeX workshop](https://github.com/James-Yu/LaTeX-Workshop) plugin.
 
-## Notes
+## Links
 
 - [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf)
 - [Neat typesetting](http://tullo.ch/static/cambridge/TimeSeriesMonteCarlo-LectureNotes.pdf)
@@ -14,3 +14,4 @@ For writing LaTeX I use [VS Code](../text-editors/vs-code/vs-code.md) and [LaTeX
 - [Tips and Tricks for Writing Scientific Papers](https://github.com/Wookai/paper-tips-and-tricks#readme) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
 - [How I'm able to take notes in mathematics lectures using LaTeX and Vim (2019)](https://castel.dev/post/lecture-notes-1/) ([HN](https://news.ycombinator.com/item?id=19448678))
 - [Engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
+- [LaTeX3 Development Repository](https://github.com/latex3/latex3) - Contains development material for LaTeX3.
