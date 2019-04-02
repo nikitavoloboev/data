@@ -16,7 +16,7 @@ Here is how that board looks for me:
 
 I attach the prices of the items I buy inbetween the brackets (in Euro). And I describe how I use each of them & the link where I bought the item from in the description. I then use [FB Market Place](https://facebook.com/marketplace) to sell off the things I don't need.
 
-I [budget all my money](../finance/finance.md) into categories each month. This allows me to spend my money mindfully and not buy things I don't need.
+I [budget all my money](../economy/finance.md) into categories each month. This allows me to spend my money mindfully and not buy things I don't need.
 
 ## Notes
 

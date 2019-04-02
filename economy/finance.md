@@ -42,3 +42,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Ask HN: What to do after \$8M (all cash, post tax) exit? (2018)](https://news.ycombinator.com/item?id=18600220)
 - [Liberapay](https://liberapay.com/) - Recurrent donations platform. ([HN](https://news.ycombinator.com/item?id=19270786))
 - [Resources for those who want to better understand personal finance](https://github.com/kmt901/goodbye-money-confusion#readme)
+- [How to earn your Macroeconomics and Finance white belt (as a software developer) (2019)](https://notamonadtutorial.com/how-to-earn-your-macroeconomics-and-finance-white-belt-as-a-software-developer-136e7454866f)

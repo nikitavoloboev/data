@@ -85,7 +85,7 @@ Some simple rules to follow when doing things.
 
 ## Finance
 
-- Adhere to [my budget](../finance/finance.md) that I set for each of N26 spaces.
+- Adhere to [my budget](../economy/finance.md) that I set for each of N26 spaces.
 - Keep digital receipts of expensive purchases for warranty (scan it, if it's in paper).
 
 ## Home

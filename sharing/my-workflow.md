@@ -58,4 +58,4 @@ I try to be methodical in working and doing things. And I use the best tools and
 - [iOS](https://github.com/nikitavoloboev/my-ios#readme) - iOS apps/tools I use.
 - [Staying on top of things](../research/staying-on-top-of-things.md) - My approach to getting news and staying on top of things.
 - [Tracking](tracking.md) - Things I track for my own reference.
-- [Finance](../finance/finance.md) - My approach to finance.
+- [Finance](../economy/finance.md) - My approach to finance.
