@@ -239,7 +239,11 @@ Some simple rules to follow when doing things.
 
 ## Karabiner
 
-- Prefer making semantic mappings and chunk mappings by theme or context.
+- Prefer making semantic mappings and chunk mappings by theme or context. Make it mnemonic.
+
+## Naming
+
+- Use mnemonic names for aliases/functions.
 
 ## Alfred
 
