@@ -14,3 +14,4 @@ I especially like the distinction of distributing content over distributing link
 - [JS IPFS](https://github.com/ipfs/js-ipfs)
 - [Share files via IPFS](https://github.com/ipfs-shipyard/ipfs-share-files)
 - [IPFS Collaborative Notebook for Research](https://github.com/ipfs/notes)
+- [gx](https://github.com/whyrusleeping/gx) - Packaging tool built around the distributed, content addressed filesystem IPFS.
