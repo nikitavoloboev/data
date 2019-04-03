@@ -44,3 +44,4 @@
 - [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code.
 - [Learn Rust With Entirely Too Many Linked Lists](https://knowledge.rachelbrindle.com/rust/index.html)
 - [cargo audit](https://github.com/RustSec/cargo-audit) - Audit Cargo.lock files for crates with security vulnerabilities.
+- [Rust. Are we web yet?](https://www.arewewebyet.org/)
