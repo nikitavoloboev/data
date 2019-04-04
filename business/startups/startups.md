@@ -54,6 +54,7 @@
 - [Ask HN: Pros and cons of working at a startup in 2019?](https://news.ycombinator.com/item?id=19236487)
 - [Cup & Leaf Cafe pt. 1: Why Would I Open a Cafe?](https://www.nateliason.com/blog/cup-leaf-cafe-1)
 - [Bell Curve](https://www.bellcurve.com/#what-we-offer) - Growth marketing agency.
+- [Awesome Indie](https://github.com/mezod/awesome-indie#readme) - Resources for independent developers to make money.
 
 ## Images
 

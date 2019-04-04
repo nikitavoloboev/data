@@ -66,3 +66,4 @@
 - [Nimble](https://github.com/Quick/Nimble) - Express the expected outcomes of Swift or Objective-C expressions.
 - [Schedule](https://github.com/jianstm/Schedule) - Lightweight timed task scheduler for Swift. (A modern alternative to Timer).
 - [HandySwift](https://github.com/Flinesoft/HandySwift) - Goal of this library is to provide handy features that didn't make it to the Swift standard library (yet) due to many different reasons.
+- [Ease](https://github.com/roberthein/Ease) - Event driven animation system that combines the observer pattern with custom spring animations as observers.
