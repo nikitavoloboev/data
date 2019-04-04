@@ -88,3 +88,4 @@ Go promotes composition over inheritance.
 - [Thoughts on Go performance optimization](https://github.com/dgryski/go-perfbook#readme)
 - [Go Package Store](https://github.com/shurcooL/Go-Package-Store) - App that displays updates for the Go packages in your GOPATH.
 - [Why are my Go executable files so large? Size visualization of Go executables using D3 (2019)](https://science.raphael.poss.name/go-executable-size-visualization-with-d3.html)
+- [goweight](https://github.com/jondot/goweight) - Tool to analyze and troubleshoot a Go binary size.

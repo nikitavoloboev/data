@@ -53,6 +53,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Liberapay](https://liberapay.com/) - Recurrent donations platform. [OSS](https://github.com/liberapay/liberapay.com).
 - [Catch](https://www.catch.co/) - Taxes, retirement, health insurance and more — built to work together like they always should have.
 - [Etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec.
 
 ## Notes
 
