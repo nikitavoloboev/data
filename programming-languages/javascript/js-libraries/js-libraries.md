@@ -70,3 +70,4 @@
 - [Unistore](https://github.com/developit/unistore) - Tiny 350b centralized state container with component bindings for Preact & React.
 - [Ramda](https://github.com/ramda/ramda) - Practical functional library for JavaScript programmers.
 - [fromfrom](https://github.com/tomi/fromfrom) - JS library written in TS to transform sequences of data from format to another.
+- [Editor.js](https://github.com/codex-team/editor.js) - Block-styled editor with clean JSON output.
