@@ -28,3 +28,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [instant.page](https://github.com/instantpage/instant.page) - Uses just-in-time preloading — it preloads a page right before a user clicks on it.
 - [UI Elements](https://github.com/GoogleChromeLabs/ui-element-samples) - Collection of UI element samples written with vanilla web platform features.
 - [gotify/server](https://github.com/gotify/server) - Simple server for sending and receiving messages in real-time per web socket.
+- [Sizzy](https://github.com/kitze/sizzy) - Tool for testing responsive websites crazy-fast.

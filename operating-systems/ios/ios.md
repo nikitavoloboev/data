@@ -55,3 +55,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Comprehensive open-source iOS guides](https://guides.codepath.com/ios)
 - [Automatic App Landing Page](https://github.com/emilbaehr/automatic-app-landing-page) - Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [Reverse Engineering iOS Applications](https://github.com/ivRodriguezCA/RE-iOS-Apps) - Free, open source and online course about Reverse Engineering iOS Applications.
+- [Awesome iOS](https://github.com/vsouza/awesome-ios#readme)
+- [xctool](https://github.com/facebook/xctool) - Extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
