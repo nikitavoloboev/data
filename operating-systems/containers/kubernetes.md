@@ -74,3 +74,4 @@
 - [Maybe You Don't Need Kubernetes (2019)](https://matthias-endler.de/2019/maybe-you-dont-need-kubernetes/) ([HN](https://news.ycombinator.com/item?id=19467067))
 - [CLI for Amazon EKS](https://github.com/weaveworks/eksctl) - Simple CLI tool for creating clusters on EKS - Amazon's new managed Kubernetes service for EC2.
 - [Kubernetes controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Set of go libraries for building Controllers.
+- [k3d](https://github.com/zeerorg/k3s-in-docker) - Lightweight alternative to KinD for local development.

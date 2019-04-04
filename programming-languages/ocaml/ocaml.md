@@ -20,3 +20,4 @@
 - [How come Ocaml isn't more popular? (2019)](https://www.reddit.com/r/ocaml/comments/ah9usf/how_come_ocaml_isnt_more_popular/)
 - [Multicore OCaml](http://ocamllabs.io/doc/multicore.html) - Goal of Multicore OCaml is to add shared memory parallelism to OCaml. ([GitHub](https://github.com/ocamllabs/ocaml-multicore))
 - [Dune starter kit](https://github.com/mjambon/dune-starter) - Provides templates to help you start an OCaml project. It can be used to create multiple libraries, multiple executables, and test suites.
+- [Functional Programming in OCaml (2019)](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/) ([HN](https://news.ycombinator.com/item?id=19292067))
