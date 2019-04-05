@@ -26,5 +26,4 @@
 - [Beyond Checkpoint Blockade for Cancer Immunotherapy (2018)](https://www.youtube.com/watch?v=5fgjcbPgSvA)
 - [Enpicom](https://www.enpicom.com/) - Platform for personalizing immunotherapies.
 - [Parker Institute](https://www.parkerici.org/) - Brings together the field’s top scientists & clinicians to accelerate the development of breakthrough immunotherapies to turn cancer into a curable disease.
-
-
+- [Type 1-programmed dendritic cells drive antigen-specific latency reversal and immune elimination of persistent HIV-1 (2019)](<https://www.ebiomedicine.com/article/S2352-3964(19)30222-1/fulltext>)

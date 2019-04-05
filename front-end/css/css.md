@@ -51,3 +51,4 @@
 - [The Three Tenets of Styled System (2019)](https://jxnblk.com/blog/the-three-tenets-of-styled-system/)
 - [CSS Scan Chrome Extension](https://getcssscan.com/) - Instantly inspect and copy computed CSS.
 - [DropCSS](https://github.com/leeoniya/dropcss) - Simple, thorough and fast unused-CSS cleaner.
+- [CSS Standardization - The State of the Web with Jen Simmons (2019)](https://www.youtube.com/watch?v=TQ7NqpFMbFs)
