@@ -8,3 +8,4 @@
 - [How a long-forgotten virus could help us solve the antibiotics crisis | Alexander Belcredi (2018)](https://www.youtube.com/watch?v=tFfYh9THuGo)
 - [Programming Medicine (2018)](https://www.youtube.com/watch?v=KjhXFLA_OlQ)
 - [Jacob Stegenga on Medical Nihilism (2019)](https://overcast.fm/+JA5NqHM)
+- [OpenAPS](https://openaps.org/) - Open Artificial Pancreas System project (OpenAPS) is an open and transparent effort to make safe and effective basic Artificial Pancreas System (APS) technology widely available to more quickly improve and save as many lives as possible and reduce the burden of Type 1 diabetes.
