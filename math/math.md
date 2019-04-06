@@ -67,3 +67,4 @@
 - [Some quotes from Robert Harper](https://www.youtube.com/watch?v=RcTaweZMEzo)
 - [Hessix](https://hessix.com/) - HN-like math research discussion for Ph.D.s ([HN](https://news.ycombinator.com/item?id=19278848))
 - [Curv](https://github.com/curv3d/curv) - Language for making art using mathematics.
+- [Mathematics For Machine Learning book (2019)](https://mml-book.github.io/)
