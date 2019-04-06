@@ -27,10 +27,6 @@ Below is a list of extensions I use.
 
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - Supports [TSLint](https://palantir.github.io/tslint/).
 
-## ReasonML
-
-- [Reason Language Server](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - IDE & Syntax support for Reason/OCaml.
-
 ## Python
 
 - [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Rich support for the Python language.
@@ -128,6 +124,7 @@ Below is a list of extensions I use.
 
 ## ReasonML
 
+- [Reason Language Server](https://marketplace.visualstudio.com/items?itemName=jaredly.reason-vscode) - IDE & Syntax support for Reason/OCaml.
 - [OCaml and Reason IDE](https://marketplace.visualstudio.com/items?itemName=freebroccolo.reasonml) - OCaml and Reason language support.
 
 ## Markdown
