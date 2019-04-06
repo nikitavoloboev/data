@@ -315,6 +315,7 @@
   - [Webpack](web/webpack.md)
   - [WebRTC](web/webrtc.md)
   - [Search engines](web/search-engines.md)
+  - [Web engines](web/web-engines.md)
   - [Progressive Web Apps](web/progressive-web-apps.md)
   - [RSS](web/rss.md)
 - [Cloud computing](cloud-computing/cloud-computing.md)
