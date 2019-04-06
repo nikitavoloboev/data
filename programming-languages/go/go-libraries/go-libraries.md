@@ -63,6 +63,7 @@
 
 ## Other
 
+- [go-funk](https://github.com/thoas/go-funk) - Modern Go utility library which provides helpers (map, find, contains, filter, ...).
 - [Argum](https://github.com/sg3des/argum) - Parse incoming arguments in to structure.
 - [Go prompt](https://github.com/c-bata/go-prompt)
 - [The Joy compiler](https://mat.tm/joy/#faq)

@@ -180,6 +180,10 @@ Below is a list of extensions I use.
 
 - [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode) - Language server for Bash.
 
+## Deno
+
+- [Deno](https://marketplace.visualstudio.com/items?itemName=justjavac.vscode-deno) - Adds Deno support for VS Code using the TypeScript Deno language service plugin.
+
 ## Themes
 
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)

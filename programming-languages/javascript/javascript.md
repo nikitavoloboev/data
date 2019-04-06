@@ -54,3 +54,4 @@
 - [JavaScript Developer's Reading List](https://github.com/twhite96/js-dev-reads#readme) - List of hand-picked books and articles for JavaScript developers.
 - [Promisees](https://github.com/bevacqua/promisees) - Promise visualization playground for the adventurous.
 - [promise-fun](https://github.com/sindresorhus/promise-fun#readme) - Promise packages, patterns, chat, and tutorials.
+- [Perflink](https://github.com/lukejacksonn/perflink) - JavaScript performance benchmarks that you can share via URL.

@@ -71,3 +71,4 @@
 - [Ramda](https://github.com/ramda/ramda) - Practical functional library for JavaScript programmers.
 - [fromfrom](https://github.com/tomi/fromfrom) - JS library written in TS to transform sequences of data from format to another.
 - [Editor.js](https://github.com/codex-team/editor.js) - Block-styled editor with clean JSON output.
+- [ijk](https://github.com/lukejacksonn/ijk) - Transforms arrays into virtual DOM trees.
