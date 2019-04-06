@@ -2,9 +2,9 @@
 
 For my own personal finance, I budget all my money with my online bank app, [N26](https://n26.com/en-eu/) and its [spaces feature](https://n26.com/en-eu/spaces).
 
-On my [scheduled monthly reviews](../focusing/focusing.md) (first Sunday of every month), I budget out the money I plan myself to spend next month into a `Month` space. The remaining money goes into `Save` space or my optional planned big purchase space (i.e. Tesla). Here is how it looks:
+On my [scheduled monthly reviews](../focusing/focusing.md) (first Sunday of every month), I budget out the money I plan myself to spend next month into a `Month` space. The remaining money goes into `Save` space or my optional planned big purchase space (i.e. Leica Q2). Here is how it looks:
 
-![](https://i.imgur.com/SOryWKs.jpg)
+![](https://i.imgur.com/sW6BkId.jpg)
 
 I use [YNAB methodology](https://www.youneedabudget.com/method/) to proactively budget my finances.
 
@@ -18,13 +18,13 @@ This approach to finance makes me stop and review any non food related purchase 
 
 I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews (first Sunday of every month) and make sure I don't subscribe to any subscriptions that I find bring no value to my life or subscriptions that my budget doesn't allow to continue.
 
-![](https://i.imgur.com/jkvG26N.jpg)
+![](https://i.imgur.com/N73Dx3S.jpg)
 
 ## Tracking what to buy next
 
 I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These are just tasks with `buy` tag in 2Do sorted by priority. Here is how it looks:
 
-![](https://i.imgur.com/e6e3E75.png)
+![](https://i.imgur.com/CmR8PXf.png)
 
 ## Notes
 
