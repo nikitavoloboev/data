@@ -80,3 +80,4 @@
 - [CleverHans](https://github.com/tensorflow/cleverhans) - Adversarial example library for constructing attacks, building defenses, and benchmarking both.
 - [Google AI Research](https://github.com/google-research/google-research) - Contains code released by Google AI Research.
 - [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap#readme)
+- [Curated list of network embedding techniques](https://github.com/chihming/awesome-network-embedding#readme)
