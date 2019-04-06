@@ -75,3 +75,4 @@
 - [CLI for Amazon EKS](https://github.com/weaveworks/eksctl) - Simple CLI tool for creating clusters on EKS - Amazon's new managed Kubernetes service for EC2.
 - [Kubernetes controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Set of go libraries for building Controllers.
 - [k3d](https://github.com/zeerorg/k3s-in-docker) - Lightweight alternative to KinD for local development.
+- [Popeye](https://github.com/derailed/popeye) - Kubernetes cluster resource sanitizer.
