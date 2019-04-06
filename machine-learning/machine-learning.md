@@ -81,3 +81,4 @@
 - [Google AI Research](https://github.com/google-research/google-research) - Contains code released by Google AI Research.
 - [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap#readme)
 - [Curated list of network embedding techniques](https://github.com/chihming/awesome-network-embedding#readme)
+- [Deploying Deep Learning](https://github.com/dusty-nv/jetson-inference#readme) - Training guide for inference and deep vision runtime library for NVIDIA DIGITS and Jetson Xavier/TX1/TX2.

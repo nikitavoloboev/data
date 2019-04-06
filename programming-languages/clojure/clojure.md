@@ -21,3 +21,4 @@
 - [Luminus](http://www.luminusweb.net/) - Clojure micro-framework based on a set of lightweight libraries.
 - [clojerl](https://github.com/clojerl/clojerl) - Clojure for the Erlang VM.
 - [Data > Functions > Macros. But why? (2018)](https://lispcast.com/data-functions-macros-why/)
+- [edn](https://github.com/edn-format/edn) - Extensible Data Notation. Superset of edn is used by Clojure to represent programs.

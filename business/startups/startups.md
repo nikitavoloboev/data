@@ -55,6 +55,7 @@
 - [Cup & Leaf Cafe pt. 1: Why Would I Open a Cafe?](https://www.nateliason.com/blog/cup-leaf-cafe-1)
 - [Bell Curve](https://www.bellcurve.com/#what-we-offer) - Growth marketing agency.
 - [Awesome Indie](https://github.com/mezod/awesome-indie#readme) - Resources for independent developers to make money.
+- [How to start a startup: Lecture 10 - Culture (Brian Chesky, Alfred Lin)](https://www.youtube.com/watch?v=RfWgVWGEuGE)
 
 ## Images
 
