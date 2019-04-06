@@ -15,3 +15,5 @@ Is logical theory of computable functions.
 - [LICK](https://github.com/i-am-tom/LICK) - Correct-by-construction implementation of the simply-typed lamba calculus' expressions, beta-reduction, and evaluation.
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) - Rust implementation of Mini-TT, a simple dependently-typed lambda calculus.
 - [A Gentle Introduction to Lambda Calculus - Part 1: Syntax (2018)](https://lucasfcosta.com/2018/07/29/An-Introduction-to-Lambda-Calculus-Part-1.html)
+- [Mikrokosmosai](https://github.com/mroman42/mikrokosmos) - Educational λ-calculus interpreter.
+- [Category Theory and Lambda Calculus (2018)](https://github.com/mroman42/ctlc) ([OSS](https://github.com/mroman42/ctlc))

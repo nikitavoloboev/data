@@ -21,6 +21,10 @@ I keep a [list of all my favorite games](https://www.grouvee.com/user/nikivi/she
 
 - [WikiBattle](https://wikibattle.me/) - 1v1 race who first reaches a randomly selected article.
 
+## Awesome OSS games
+
+- [Citybound](https://github.com/citybound/citybound) - City building game with a focus on realism, collaborative planning and simulation of microscopic details
+
 ## Recommendations
 
 - [What game would you describe as a masterpiece?](https://www.reddit.com/r/patientgamers/comments/7629r3/what_game_would_you_describe_as_a_masterpiece/)
