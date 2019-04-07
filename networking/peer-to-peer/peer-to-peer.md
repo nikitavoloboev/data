@@ -8,3 +8,4 @@
 - [Aether](https://github.com/nehbit/aether) - Peer-to-peer network of independent, self-moderated communities.
 - [Radicle](https://github.com/radicle-dev/radicle) - Peer-to-peer stack for code collaboration.
 - [Metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
+- [Moonad](https://github.com/moonad/Whitepaper) - Peer-to-Peer Operating System.

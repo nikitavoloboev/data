@@ -133,6 +133,7 @@
 - [Fyne](https://github.com/fyne-io/fyne) - Easy to use UI toolkit and app API written in Go.
 - [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go.
 - [Logrus](https://github.com/Sirupsen/logrus) - Structured, pluggable logging for Go.
+- [AwGo](https://github.com/deanishe/awgo) - Go library for Alfred workflows.
 
 ## Links
 
