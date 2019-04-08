@@ -25,3 +25,4 @@
 - [aeson](https://github.com/bos/aeson) - Fast Haskell JSON library.
 - [proto-lens](https://github.com/google/proto-lens) - API for protocol buffers using modern Haskell language and library patterns.
 - [dynamic](https://github.com/chrisdone/dynamic) - Dynamic typing in Haskell.
+- [free](https://github.com/ekmett/free) - Provides a common definitions for working with free monads, free applicatives, and cofree comonads in Haskell.

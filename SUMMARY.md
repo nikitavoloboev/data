@@ -120,6 +120,7 @@
   - [Hashing](programming/hashing.md)
   - [Functional programming](programming/functional-programming.md)
   - [Logic programming](programming/logic-programming.md)
+  - [Relational programming](programming/relational-programming.md)
   - [Semantic versioning](programming/semantic-versioning.md)
   - [Reverse engineering](programming/reverse-engineering.md)
   - [Protocol Buffers](programming/protocol-buffers.md)
