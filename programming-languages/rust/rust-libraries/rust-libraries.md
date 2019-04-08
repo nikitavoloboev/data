@@ -90,6 +90,7 @@
 - [hashbrown](https://github.com/Amanieu/hashbrown) - Rust port of Google's high-performance SwissTable hash map, adapted to make it a drop-in replacement for Rust's standard HashMap and HashSet types.
 - [Rust-WebSocket](https://github.com/websockets-rs/rust-websocket) - Provides a framework for dealing with WebSocket connections (both clients and servers).
 - [Ramhorns](https://github.com/maciejhirsz/ramhorns) - Experimental Mustache template engine implementation in pure Rust.
+- [rust-notifica](https://github.com/frewsxcv/rust-notifica) - Small, cross-platform Rust crate for sending system notifications.
 
 ## Cargo Plugins
 

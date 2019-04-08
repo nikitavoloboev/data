@@ -27,3 +27,4 @@
 - [Implementation of spartan type theory](https://github.com/andrejbauer/spartan-type-theory)
 - [Why Types Matter](https://github.com/skaslev/why-types/blob/master/why-types.pdf)
 - [Introduction to type theory based on meaning explanations](https://github.com/jonsterling/type-theory-and-its-meaning-explanations)
+- [SymmetryBook](https://github.com/UniMath/SymmetryBook) - Undergraduate textbook written in the univalent style, taking advantage of the presence of symmetry in the logic at an early stage.
