@@ -10,3 +10,4 @@
 
 - [Decidim](https://github.com/decidim/decidim) - Participatory democracy framework, written in Ruby on Rails, originally developed for the Barcelona City government online and offline participation website.
 - ['The goal is to automate us': welcome to the age of surveillance capitalism (2019)](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
+- [Federalist](https://federalist.18f.gov/) - Publishing platform for modern, compliant government websites.

@@ -46,3 +46,4 @@
 - [cargo audit](https://github.com/RustSec/cargo-audit) - Audit Cargo.lock files for crates with security vulnerabilities.
 - [Rust. Are we web yet?](https://www.arewewebyet.org/)
 - [Changelog generator for Rust projects](https://github.com/yoshuawuyts/changelog)
+- [Rust: Frequently Asked Questions](https://github.com/dtolnay/rust-faq#readme)

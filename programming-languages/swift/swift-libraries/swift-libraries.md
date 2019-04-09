@@ -67,3 +67,4 @@
 - [Schedule](https://github.com/jianstm/Schedule) - Lightweight timed task scheduler for Swift. (A modern alternative to Timer).
 - [HandySwift](https://github.com/Flinesoft/HandySwift) - Goal of this library is to provide handy features that didn't make it to the Swift standard library (yet) due to many different reasons.
 - [Ease](https://github.com/roberthein/Ease) - Event driven animation system that combines the observer pattern with custom spring animations as observers.
+- [Proposer](https://github.com/nixzhu/Proposer) - Provides a single API to request permission for access Camera, Photos, Microphone, Contacts, Reminders, Calendar, Location or Notifications.

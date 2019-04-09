@@ -26,3 +26,4 @@
 - [Nest](https://github.com/nestjs/nest) - Progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular.
 - [Asynchronous Programming Library](https://github.com/metarhia/metasync) - Library of Asynchronous Programming Abstractions.
 - [Curated list of awesome developer tools for writing cross-platform Node.js code](https://github.com/bcoe/awesome-cross-platform-nodejs#readme)
+- [Simple Git](https://github.com/steveukx/git-js) - Light weight interface for running git commands in any node.js application.

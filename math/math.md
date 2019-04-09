@@ -68,3 +68,4 @@
 - [Hessix](https://hessix.com/) - HN-like math research discussion for Ph.D.s ([HN](https://news.ycombinator.com/item?id=19278848))
 - [Curv](https://github.com/curv3d/curv) - Language for making art using mathematics.
 - [Mathematics For Machine Learning book (2019)](https://mml-book.github.io/)
+- [Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)

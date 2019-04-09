@@ -134,6 +134,7 @@
 - [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go.
 - [Logrus](https://github.com/Sirupsen/logrus) - Structured, pluggable logging for Go.
 - [AwGo](https://github.com/deanishe/awgo) - Go library for Alfred workflows.
+- [Go Keychain](https://github.com/keybase/go-keychain) - Library for accessing the Keychain for macOS, iOS, and Linux in Go (golang).
 
 ## Links
 
