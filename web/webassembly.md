@@ -22,3 +22,4 @@
 - [Standardizing WASI: A system interface to run WebAssembly outside the web (2019)](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
 - [WASI](https://wasi.dev/) - WebAssembly System Interface.
 - [Lucet](https://github.com/fastly/lucet) - Sandboxing WebAssembly Compiler.
+- [Wasmer](https://github.com/wasmerio/wasmer) - Standalone JIT WebAssembly runtime, aiming to be fully compatible with WASI and Emscripten.

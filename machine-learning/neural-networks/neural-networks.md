@@ -31,3 +31,4 @@
 - [The Next Generation of Neural Networks by Geoffrey Hinton (2007)](https://www.youtube.com/watch?v=AyzOUbkUf3M)
 - [Who Invented Backpropagation? (2014)](http://people.idsia.ch/~juergen/who-invented-backpropagation.html)
 - [Deep Learning in Neural Networks: An Overview (2015)](http://people.idsia.ch/~juergen/deep-learning-overview.html)
+- [Neural Networks (E01: introduction) (2018)](https://www.youtube.com/watch?v=bVQUSndDllU) - This series is intended as a light introduction to neural networks, with a focus on the task of classifying handwritten digits.

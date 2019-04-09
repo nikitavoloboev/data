@@ -53,3 +53,4 @@
 - [DropCSS](https://github.com/leeoniya/dropcss) - Simple, thorough and fast unused-CSS cleaner.
 - [CSS Standardization - The State of the Web with Jen Simmons (2019)](https://www.youtube.com/watch?v=TQ7NqpFMbFs)
 - [Water.css](https://github.com/kognise/water.css) - Just-add-css collection of styles to make simple websites just a little nicer.
+- [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful and performance-focused pure css loading animations.
