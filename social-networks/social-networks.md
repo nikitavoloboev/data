@@ -28,7 +28,7 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [How to Fix Facebook—Before It Fixes Us](https://washingtonmonthly.com/magazine/january-february-march-2018/how-to-fix-facebook-before-it-fixes-us/)
 - [Growing apart and losing touch is human and healthy](https://m.signalvnoise.com/growing-apart-and-losing-touch-is-human-and-healthy-52b5a678fbf5)
 - [Sex, Beer, and Coding: Inside Facebook’s Wild Early Days in Palo Alto](https://medium.com/@WIRED/sex-beer-and-coding-inside-facebooks-wild-early-days-in-palo-alto-7b447c143d52)
-- [Reinvent the social web - André Staltz (2018)](https://www.youtube.com/watch?v=8GE5C9-RUpg&feature=youtu.be)
+- [Reinvent the social web - André Staltz (2018)](https://www.youtube.com/watch?v=8GE5C9-RUpg)
 - [Anti Social Media (2018)](https://www.youtube.com/watch?v=KAo2nmVlfOA)
 - [Timeliner](https://github.com/mholt/timeliner) - All your digital life on a single timeline, stored locally.
 - [Regret-stergram (2018)](https://medium.com/@dhh/regret-stergram-ea4073a64911)

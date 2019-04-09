@@ -12,7 +12,7 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Malte Ubl - Designing very large JavaScript applications (2018)](https://www.youtube.com/watch?v=ZZmUwXEiPm4) - [Transcript](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3).
 - [John Sundell - Sharing (2018)](https://www.youtube.com/watch?v=_mQNwL8HkS0)
 - [Bret Victor - Inventing on Principle (2012)](https://vimeo.com/36579366)
-- [Drupal and the secret of my success | Steve Francia](https://www.youtube.com/watch?v=EJo9tPXGPo8&feature=youtu.be&t=13m4s)
+- [Drupal and the secret of my success | Steve Francia](https://www.youtube.com/watch?v=EJo9tPXGPo8&t=13m4s)
 - [Apple WWDC 1997 Closing Keynote - Steve Jobs Fireside Chat](https://www.youtube.com/watch?v=KWJ6rGiopvo)
 - [Simplicity Matters - Rich Hickey (2012)](https://www.youtube.com/watch?v=rI8tNMsozo0)
 - [MVC is Not Your Problem - Joachim Kurz (2018)](https://www.youtube.com/watch?v=A1vzcxR-Ss0)
@@ -22,6 +22,7 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 ## Interesting
 
 - [How Your Systems Keep Running Day After Day - John Allspaw](https://www.youtube.com/watch?v=xA5U85LSk0M)
+- [A (Not So Gentle) Introduction To Systems Programming In ATS - Aditya Siram (2017)](https://www.youtube.com/watch?v=zt0OQb1DBko)
 
 ## Notes
 

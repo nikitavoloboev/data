@@ -15,7 +15,7 @@
 
 ## Links
 
-- [Ultimate SpaceX Compilation 2003-2018](https://www.youtube.com/watch?v=ypzXOug3uPg&feature=youtu.be)
+- [Ultimate SpaceX Compilation 2003-2018](https://www.youtube.com/watch?v=ypzXOug3uPg)
 - [Near the core of the Milky Way](https://roundme.com/tour/85245/view/214717/)
 - [Amazing Carl Sagan video](https://www.youtube.com/watch?v=MrZ4197C1I0)
 - [How do we measure the size of the universe?](https://www.reddit.com/r/askscience/comments/5sdyes/by_guessing_the_rate_of_the_expansion_of_the/ddecb4j/)

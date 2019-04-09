@@ -5,5 +5,5 @@ CodeSandbox is genuinely amazing. It brings the power of the text editor and dev
 ## Links
 
 - [Announcing CodeSandbox 2.5](https://hackernoon.com/announcing-codesandbox-2-5-be767d15ffd) - Many features added.
-- [Ives van Hoorne - Vue Development in CodeSandbox](https://www.youtube.com/watch?v=TOFVFxI2dvU&feature=youtu.be)
+- [Ives van Hoorne - Vue Development in CodeSandbox](https://www.youtube.com/watch?v=TOFVFxI2dvU)
 - [What’s Unique About CodeSandbox](https://medium.com/@compuives/whats-unique-about-codesandbox-f1791d867e48)

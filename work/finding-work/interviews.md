@@ -34,6 +34,6 @@
 - [Interviewing At Jane Street (2014)](https://blog.janestreet.com/interviewing-at-jane-street/)
 - [Ask HN: What should an ideal developer interview process look like? (2018)](https://news.ycombinator.com/item?id=18585677)
 - [Salary Negotiation: Make More Money, Be More Valued (2012)](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
-- [Interview tips from Google Software Engineers (2019)](https://www.youtube.com/watch?v=XOtrOSatBoY&feature=youtu.be)
+- [Interview tips from Google Software Engineers (2019)](https://www.youtube.com/watch?v=XOtrOSatBoY)
 - [I interviewed at six top companies in Silicon Valley in six days, and stumbled into six job offers (2019)](https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996) ([HN](https://news.ycombinator.com/item?id=18942572))
 - [How NOT to hire a software engineer (2019)](http://tonsky.me/blog/hiring/) ([HN](https://news.ycombinator.com/item?id=19541617))

@@ -1,6 +1,6 @@
 # Addiction
 
-[This video](https://www.youtube.com/watch?v=HUngLgGRJpo&feature=youtu.be) I feel summarizes addiction quite well.
+[This video](https://www.youtube.com/watch?v=HUngLgGRJpo) I feel summarizes addiction quite well.
 
 ## Notes
 

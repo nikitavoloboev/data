@@ -28,3 +28,4 @@
 - [Curated list of awesome developer tools for writing cross-platform Node.js code](https://github.com/bcoe/awesome-cross-platform-nodejs#readme)
 - [Simple Git](https://github.com/steveukx/git-js) - Light weight interface for running git commands in any node.js application.
 - [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly.
+- [Debugging in 2017 with Node.js](https://www.youtube.com/watch?v=Xb_0awoShR8)
