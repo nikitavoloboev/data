@@ -32,6 +32,8 @@ You can double click the downloaded macro sync file to upload all the 1400+ macr
 
 Which macros I call the most can be gleaned from by looking at my [Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.edn).
 
+Previously I shared these KM macros on [Gumroad as separate exported folders](https://gumroad.com/l/kmmacros).
+
 ## KM Plugins
 
 It is advised you install these KM plugins as they make using KM editor more pleasant.
