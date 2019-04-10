@@ -47,3 +47,4 @@
 - [Rust. Are we web yet?](https://www.arewewebyet.org/)
 - [Changelog generator for Rust projects](https://github.com/yoshuawuyts/changelog)
 - [Rust: Frequently Asked Questions](https://github.com/dtolnay/rust-faq#readme)
+- [Building fast interpreters in Rust (2019)](https://blog.cloudflare.com/building-fast-interpreters-in-rust/)
