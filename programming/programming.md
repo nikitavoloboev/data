@@ -59,3 +59,4 @@
 - [On Simplicity (2019)](https://lobste.rs/s/qgbkwm/on_simplicity)
 - [Programming Dictionary (Russian)](https://github.com/HowProgrammingWorks/Dictionary#readme)
 - [Keep a changelog](https://keepachangelog.com/en/1.0.0/)
+- [Teach Yourself Programming in Ten Years (2014)](http://norvig.com/21-days.html)

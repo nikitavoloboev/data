@@ -36,3 +36,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Git History](https://github.com/pomber/git-history) - Quickly browse the history of any GitHub file.
 - [GitStalk](https://gitstalk.netlify.com/) - Discover who's upto what on Github.
 - [ghr](https://github.com/tcnksm/ghr) - Creates GitHub Release and uploads artifacts in parallel.
+- [GitMemory](https://www.gitmemory.com/) - Pretty nice stats on GitHub data like [profiles](https://www.gitmemory.com/nikitavoloboev).
