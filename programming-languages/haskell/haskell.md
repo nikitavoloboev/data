@@ -59,3 +59,4 @@
 - [hpack](https://github.com/sol/hpack) - Modern format for Haskell packages.
 - [Haskell Code Explorer](https://github.com/alexwl/haskell-code-explorer) - Web application for exploring and understanding Haskell codebases.
 - [static-haskell-nix](https://github.com/nh2/static-haskell-nix) - Easily build most Haskell programs into fully static Linux executables.
+- [Real World Haskell by Bryan O’Sullivan updated to 2019](https://github.com/tssm/up-to-date-real-world-haskell#readme)

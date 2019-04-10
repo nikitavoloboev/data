@@ -19,3 +19,4 @@
 - [How to become an expert in compilers the long way? (2019)](https://forums.swift.org/t/how-to-become-an-expert-in-compilers-the-long-way/22175)
 - [So You Want to Be a (Compiler) Wizard (2016)](http://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/)
 - [I Built a Lisp Compiler (2019)](https://mpov.timmorgan.org/i-built-a-lisp-compiler/)
+- [tal](https://github.com/sweirich/tal) - Implementation of Typed Assembly Language (Morrisett, Walker, Crary, Glew).

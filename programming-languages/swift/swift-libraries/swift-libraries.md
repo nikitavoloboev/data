@@ -17,6 +17,7 @@
 - [SwiftCharts](https://github.com/i-schuetz/SwiftCharts) - Easy to use and highly customizable charts library for iOS.
 - [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - Banner presenter library for iOS.
 - [Sizes](https://github.com/marcosgriselli/Sizes) - View your app on different device and font sizes.
+- [MagazineLayout](https://github.com/airbnb/MagazineLayout) - Collection view layout capable of laying out views in vertically scrolling grids and lists.
 
 ## API
 
