@@ -69,3 +69,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [The Developer's Toolbox 2018](https://medium.com/mobile-quality/the-developers-toolbox-daaaa875081e)
 - [Seeking the Productive Life: Some Details of My Personal Infrastructure (2019)](https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) ([HN](https://news.ycombinator.com/item?id=19220889))
 - [Awesome Uses Page](https://github.com/wesbos/awesome-uses#readme) - List of /uses pages that detail apps and gear used by professional web developers.
+- [Handy lookup table of similar technology and services to help ex-googlers survive the real world](https://github.com/jhuangtw-dev/xg2xg#readme)

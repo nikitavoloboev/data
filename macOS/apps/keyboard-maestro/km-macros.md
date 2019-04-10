@@ -30,7 +30,7 @@ App specific macros are called with a hotkey bound to the app the macro is runni
 
 You can double click the downloaded macro sync file to upload all the 1400+ macros into KM. Be aware that it will overwrite your existing macros so back those up beforehand!
 
-Which macros I call the most can be gleaned from by looking at my [Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.edn).
+Which macros I call the most can be seen by looking at my [Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.edn).
 
 Previously I shared these KM macros on [Gumroad as separate exported folders](https://gumroad.com/l/kmmacros).
 
