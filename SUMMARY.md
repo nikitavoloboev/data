@@ -83,6 +83,7 @@
 - [Hardware](hardware/hardware.md)
   - [Arduino](hardware/arduino.md)
   - [CPU](hardware/cpu/cpu.md)
+  - [GPU](hardware/gpu/gpu.md)
   - [Neuromorphic Computing](hardware/neuromorphic-computing.md)
 - [Math](math/math.md)
   - [Logic](math/logic/logic.md)
