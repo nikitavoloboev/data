@@ -73,3 +73,4 @@
 - [HandySwift](https://github.com/Flinesoft/HandySwift) - Goal of this library is to provide handy features that didn't make it to the Swift standard library (yet) due to many different reasons.
 - [Ease](https://github.com/roberthein/Ease) - Event driven animation system that combines the observer pattern with custom spring animations as observers.
 - [Proposer](https://github.com/nixzhu/Proposer) - Provides a single API to request permission for access Camera, Photos, Microphone, Contacts, Reminders, Calendar, Location or Notifications.
+- []Codextended(https://github.com/JohnSundell/Codextended) - Suite of extensions that aims to make Swift’s Codable API easier to use by giving it type inference-powered capabilities and conveniences.
