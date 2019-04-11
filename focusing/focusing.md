@@ -71,6 +71,7 @@ I focus fully on [solving problems](../research/solving-problems.md) I need to s
 ## Notes
 
 - You can't manage projects. You can only manage actions related to projects.
+- [Brains aren’t for holding info, they’re for thinking. So if you can empty your brain out by writing stuff onto a todo list, onto your calendar, etc, your brain will have more space for the high level stuff that’s a bit harder to get on paper. And if you wrote down “do thing” on the todo-list… well you just have to do the thing afterwards. There’s nothing to think about or redigest if you write out the things in more detail](https://lobste.rs/s/0qlkm7/how_do_i_keep_multiple_projects_my_head)
 
 ## Links
 

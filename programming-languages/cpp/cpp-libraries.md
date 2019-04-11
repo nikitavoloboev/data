@@ -18,3 +18,4 @@
 - [{fmt}](https://github.com/fmtlib/fmt) - Modern formatting library.
 - [simdjson](https://github.com/lemire/simdjson) - Parsing gigabytes of JSON per second.
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++.
+- [Folly](https://github.com/facebook/folly) - Library of C++14 components designed with practicality and efficiency in mind.

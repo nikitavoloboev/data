@@ -313,6 +313,7 @@
   - [Static sites](web/static-sites/static-sites.md)
     - [Hugo](web/static-sites/hugo.md)
   - [Node.js](web/nodejs/nodejs.md)
+  - [Deno](web/deno.md)
   - [WebAssembly](web/webassembly.md)
   - [SEO](web/seo.md)
   - [Electron](web/electron.md)
