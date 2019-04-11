@@ -11,6 +11,10 @@
 - [IterativeSolvers](https://github.com/JuliaMath/IterativeSolvers.jl) - Iterative algorithms for solving linear systems, eigensystems, and singular value problems.
 - [JuMP](https://github.com/JuliaOpt/JuMP.jl) - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear).
 
+## Biology
+
+- [GeneticVariation](https://github.com/BioJulia/GeneticVariation.jl) - Data structures and algorithms for working with genetic variation.
+
 ## Other
 
 - [TimeSeries](https://github.com/JuliaStats/TimeSeries.jl) - Aims to provide a lightweight framework for working with time series data in Julia.
@@ -23,6 +27,7 @@
 - [Devectorize](https://github.com/lindahua/Devectorize.jl) - Provides macros and functions to de-vectorize a vector expression.
 - [CUDAnative.jl](https://github.com/JuliaGPU/CUDAnative.jl) - Julia support for native CUDA programming.
 - [Julia debugger](https://github.com/JuliaDebug/Debugger.jl)
+- [Automa.jl](https://github.com/BioJulia/Automa.jl) - Julia code generator for regular expressions.
 
 ## Links
 

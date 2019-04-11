@@ -9,3 +9,7 @@ Here are Firefox extensions I use:
 ## Firefox internal links
 
 - `about:performance` = Memory usage of Subprocesses.
+
+## Links
+
+- [user.js](https://github.com/pyllyukko/user.js) - Firefox configuration hardening.
