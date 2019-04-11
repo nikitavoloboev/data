@@ -99,6 +99,7 @@
     - [Computational type theory](math/type-theory/computational-type-theory.md)
   - [Category theory](math/category-theory/category-theory.md)
   - [Statistics](math/statistics/statistics.md)
+    - [Markov chains](math/statistics/markov-chains.md)
   - [Geometry](math/geometry.md)
   - [Fractals](math/fractals.md)
   - [Number theory](math/number-theory.md)
