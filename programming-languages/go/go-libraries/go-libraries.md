@@ -135,6 +135,7 @@
 - [Logrus](https://github.com/Sirupsen/logrus) - Structured, pluggable logging for Go.
 - [AwGo](https://github.com/deanishe/awgo) - Go library for Alfred workflows.
 - [Go Keychain](https://github.com/keybase/go-keychain) - Library for accessing the Keychain for macOS, iOS, and Linux in Go (golang).
+- [Oto](https://github.com/hajimehoshi/oto) - Low-level library to play sound. This package offers io.WriteCloser to play PCM sound.
 
 ## Links
 

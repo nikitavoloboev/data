@@ -19,6 +19,10 @@
 - [Sizes](https://github.com/marcosgriselli/Sizes) - View your app on different device and font sizes.
 - [MagazineLayout](https://github.com/airbnb/MagazineLayout) - Collection view layout capable of laying out views in vertically scrolling grids and lists.
 
+## macOS
+
+- [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add "Launch at Login" functionality to your macOS app in seconds.
+
 ## API
 
 - [SwiftTwitch](https://github.com/Chris-Perkins/SwiftTwitch) - Library intended for client-facing applications interaction with the New Twitch API, Helix.
