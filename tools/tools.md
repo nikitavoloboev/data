@@ -55,6 +55,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec.
 - [parinfer-rust](https://github.com/eraserhd/parinfer-rust) - Infer parentheses for Clojure, Lisp and Scheme.
+- [Gistlink](https://github.com/lukejacksonn/gistlink) - JavaScript sandbox environments that you can share via URL.
 
 ## Notes
 

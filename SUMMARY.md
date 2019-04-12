@@ -250,6 +250,7 @@
   - [Tao](mindfulness/tao.md)
 - [Compilers](compilers/compilers.md)
   - [LLVM](compilers/llvm.md)
+  - [Build systems](compilers/build-systems.md)
 - [Physics](physics/physics.md)
   - [Quantum physics](physics/quantum-physics/quantum-physics.md)
     - [Quantum computing](physics/quantum-physics/quantum-computing.md)
