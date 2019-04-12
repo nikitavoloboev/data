@@ -6,4 +6,4 @@
 
 ## Links
 
-[Ask HN: How do I ask for a raise? (2019)](https://news.ycombinator.com/item?id=19541937)
+- [Ask HN: How do I ask for a raise? (2019)](https://news.ycombinator.com/item?id=19541937)

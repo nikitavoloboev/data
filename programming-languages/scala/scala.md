@@ -8,3 +8,5 @@
 - [Scala Native](https://github.com/scala-native/scala-native) - Scala compiled to LLVM.
 - [Ask HN: Should I be learning Scala in 2019?](https://news.ycombinator.com/item?id=19011777)
 - [almond](https://github.com/almond-sh/almond) - Scala kernel for Jupyter.
+- [Fury](https://github.com/propensive/fury) - Experimental dependency manager and build tool for Scala.
+- [Scala Best Practices](https://github.com/alexandru/scala-best-practices#readme) - Collection of Scala best practices.
