@@ -8,3 +8,4 @@
 ## Other
 
 - [sup](https://github.com/kubukoz/sup) - Composable, purely functional healthchecks in Scala.
+- [Monocle](https://github.com/julien-truffaut/Monocle) - Optics library for Scala.

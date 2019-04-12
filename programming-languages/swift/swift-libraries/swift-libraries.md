@@ -74,3 +74,4 @@
 - [Ease](https://github.com/roberthein/Ease) - Event driven animation system that combines the observer pattern with custom spring animations as observers.
 - [Proposer](https://github.com/nixzhu/Proposer) - Provides a single API to request permission for access Camera, Photos, Microphone, Contacts, Reminders, Calendar, Location or Notifications.
 - [Codextended](https://github.com/JohnSundell/Codextended) - Suite of extensions that aims to make Swift’s Codable API easier to use by giving it type inference-powered capabilities and conveniences.
+- [Valet](https://github.com/square/Valet) - Lets you securely store data in the iOS, tvOS, watchOS, or macOS Keychain without knowing a thing about how the Keychain works.

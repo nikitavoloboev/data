@@ -230,6 +230,7 @@
   - [iOS](operating-systems/ios/ios.md)
     - [iOS Shortcuts](operating-systems/ios/ios-shortcuts.md)
     - [iPad](operating-systems/ios/ipad.md)
+    - [WatchOS](operating-systems/ios/watchos.md)
     - [tvOS](operating-systems/ios/tvos.md)
   - [Android](operating-systems/android.md)
   - [Containers](operating-systems/containers/containers.md)

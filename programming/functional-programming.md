@@ -26,6 +26,7 @@
 - [Functional Programming for the Long Haul by Michael Snoyman (2019)](https://www.youtube.com/watch?v=DdR9q69se-I)
 - [Selective Applicative Functors](https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors.pdf) - Declare Your Effects Statically, Select Which to Execute Dynamically.
 - [What makes a function pure? (2018)](https://blog.kubukoz.com/what-makes-a-function-pure)
+- [Foundation of Functional Programming Course (2019)](https://github.com/julien-truffaut/fp-foundation#readme)
 
 ## Images
 
