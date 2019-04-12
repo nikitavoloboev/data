@@ -35,3 +35,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Caliguvara - another approach to Touch Bar Presets (2019)](https://community.folivora.ai/t/caliguvara-c2-my-first-update-great-new-calendar-widgets-a-totally-new-way-to-share-your-music-design-fixes-and-more/6996)
 - [AppUpdater](https://github.com/mxcl/AppUpdater) - Simple app-updater for macOS, checks your GitHub releases for a binary asset once a day and silently updates your app.
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - Screensaver inspired by Apple's Event on October 30, 2018.
+- [How macOS versions evolved and changed over the time](https://www.reddit.com/r/MacOS/comments/bc1lvk/how_macos_versions_evolved_and_changed_over_the/)

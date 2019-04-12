@@ -12,3 +12,4 @@
 - [How to Understand the Image of a Black Hole (2019)](https://www.youtube.com/watch?v=zUyH3XhpLTo)
 - [Breakthrough discovery in astronomy: press conference (2019)](https://www.youtube.com/watch?v=Dr20f19czeE) ([HN](https://news.ycombinator.com/item?id=19624226))
 - [Astronomers Capture First Image of a Black Hole (2019)](https://www.reddit.com/r/space/comments/bblt4f/astronomers_capture_first_image_of_a_black_hole/)
+- [THAT Black Hole picture ⚫ - Sixty Symbols (2019)](https://www.youtube.com/watch?v=rflupY5Aa-Q)
