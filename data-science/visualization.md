@@ -12,3 +12,4 @@
 - [Draco](https://github.com/uwdata/draco) - Formal framework for representing design knowledge about effective visualization design as a collection of constraints.
 - [Observable](https://observablehq.com/) - Magic notebook for visualization.
 - [Bl.ocks](https://bl.ocks.org/) - Simple viewer for sharing code examples hosted on GitHub Gist.
+- [react-vis](https://github.com/uber/react-vis) - Data Visualization Components.

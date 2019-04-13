@@ -8,7 +8,7 @@ Below are books I read sorted by year I read them in. The books with links attac
 
 ### 2019
 
-- [A Brief History of Time] - [Review](https://www.goodreads.com/review/show/713887770)
+- A Brief History of Time - [Review](https://www.goodreads.com/review/show/713887770)
 
 ### 2016
 
