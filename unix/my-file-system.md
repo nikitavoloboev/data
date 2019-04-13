@@ -15,7 +15,7 @@ All my actual documents (books, papers..) are put there. The folder synced with 
 ```Bash
 ~/Documents
 ❯ exa
-Actual  App  AudioBooks  Books  Design  Gumroad  Papers  PDFs  Pixave  Private  Research
+Actual  Backup  Books  Design  PDFs  Pixave  Research
 ```
 
 ## ~/Downloads
@@ -93,7 +93,7 @@ Use Dropbox to sync configuration files. I also keep this wiki in `Write` dir in
 ```bash
 ~/Dropbox
 ❯ exa
-Alfred  Apps  Config  History  IFTTT  Shared  Shares  TaskPaper  Temp Shares  upload.sh  Write
+Alfred  Apps  Config  IFTTT  Shared  Shares  TaskPaper  Temp  upload.sh  Write
 ```
 
 ## Links

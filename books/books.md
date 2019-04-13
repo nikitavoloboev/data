@@ -2,15 +2,19 @@
 
 I love reading new books and making notes on things I've read and learned.
 
-I keep a [Trello board](https://trello.com/b/MOrnm2aN) of books I am reading and want to read. And I keep a few bookshelves of books I liked on [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev)
+I keep a [Trello board](https://trello.com/b/MOrnm2aN) of books I am reading and want to read. And I keep a few bookshelves of books I [liked](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=favorite) & [read](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=read) on [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev)
 
 Below are books I read sorted by year I read them in. The books with links attached will lead to notes I made when reading the book. Books with 🌟 are my favorite.
 
+### 2019
+
+- [A Brief History of Time] - [Review](https://www.goodreads.com/review/show/713887770)
+
 ### 2016
 
-- [Mind for Numbers](mind-for-numbers.md) - [Review](https://www.goodreads.com/review/show/1223423349)
+- [Mind for Numbers 🌟](mind-for-numbers.md) - [Review](https://www.goodreads.com/review/show/1223423349)
 - Flowers of Algernon 🌟 - [Review](https://www.goodreads.com/review/show/782624446)
-- Heart of a Dog - [Review](https://www.goodreads.com/review/show/589165109)
+- Heart of a Dog 🌟 - [Review](https://www.goodreads.com/review/show/589165109)
 - You Don't Know JS: Up & Going - [Review](https://www.goodreads.com/review/show/1587216818).
 
 ### 2015
