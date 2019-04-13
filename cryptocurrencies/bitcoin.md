@@ -1,9 +1,8 @@
 # [Bitcoin](https://bitcoin.org/en/)
 
-Will be going through [this book](https://github.com/bitcoinbook/bitcoinbook) when I get time.
-
 ## Links
 
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook#readme) - Book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers.
 - [Bitcoin for laypeople (2018)](https://mafinto.sh/blog/bitcoin-for-laypeople.html)
 - [The Stories We Tell About Money](https://www.youtube.com/watch?v=ONvg9SbauMg)
 - [Bitcoin: "Failing to Scale" - Prague 2016](https://www.youtube.com/watch?v=bFOFqNKKns0)
