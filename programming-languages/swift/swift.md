@@ -35,3 +35,4 @@ Plan to spend more time with it as [SourceKit-LSP](https://github.com/apple/sour
 - [Awesome Server Side Swift](https://github.com/cak/awesome-server-side-swift#readme)
 - [Awesome System Swift](https://github.com/felix91gr/awesome-system-swift#readme)
 - [Code Examples Repository](https://github.com/kharrison/CodeExamples) - Examples of code in objc/swift.
+- [Swift Rules for Bazel](https://github.com/bazelbuild/rules_swift) - Bazel rules to build Swift on Apple and Linux platforms.
