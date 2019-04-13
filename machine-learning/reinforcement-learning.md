@@ -15,3 +15,6 @@
 - [Hands-On Reinforcement Learning With Python book](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)
 - [David Silver Reinforcement learning](https://github.com/dalmia/David-Silver-Reinforcement-learning) - Notes for the Reinforcement Learning course by David Silver along with implementation of various algorithms.
 - [Paper Collection of Multi-Agent Reinforcement Learning (MARL)](https://github.com/LantaoYu/MARL-Papers#readme)
+- [RLlib](https://ray.readthedocs.io/en/latest/rllib.html) - Open-source library for reinforcement learning that offers both high scalability and a unified API for a variety of applications.
+- [Stable Baselines](https://github.com/hill-a/stable-baselines) - Set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
+- [pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c) - PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for Deep Reinforcement Learning".

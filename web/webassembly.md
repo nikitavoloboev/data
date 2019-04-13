@@ -23,3 +23,4 @@
 - [WASI](https://wasi.dev/) - WebAssembly System Interface.
 - [Lucet](https://github.com/fastly/lucet) - Sandboxing WebAssembly Compiler.
 - [Wasmer](https://github.com/wasmerio/wasmer) - Standalone JIT WebAssembly runtime, aiming to be fully compatible with WASI and Emscripten.
+- [WebAssembly Playground](http://ast.run/)

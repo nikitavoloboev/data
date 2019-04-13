@@ -46,6 +46,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Cody Leigh Bond](https://www.etsy.com/shop/CodyLeighBond)
 - [Android Jones](http://androidjones.com/)
 - [Eugene Golovanchuk](https://www.theskeeva.com/)
+- [Andrew Williamson](https://andrewwilliamson.net/)
 
 ## Interesting art
 
