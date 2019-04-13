@@ -29,6 +29,7 @@
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 - [Reuse](https://github.com/diegohaz/reuse) - Reuse different React components to create new ones.
 - [React Geosuggest](https://github.com/ubilabs/react-geosuggest) - React autosuggest for the Google Maps Places API.
+- [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy. Reduce your bundle size without stress.
 
 ## Links
 
