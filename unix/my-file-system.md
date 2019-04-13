@@ -15,7 +15,7 @@ All my actual documents (books, papers..) are put there. The folder synced with 
 ```Bash
 ~/Documents
 ❯ exa
-Actual  Backup  Books  Design  PDFs  Pixave  Research
+Backup  Books  Design  PDFs  Pixave  Research
 ```
 
 ## ~/Downloads
