@@ -341,6 +341,7 @@
   - [Scuttlebutt](social-networks/scuttlebutt.md)
 - [Networking](networking/networking.md)
   - [HTTP](networking/http.md)
+  - [REST](networking/rest.md)
   - [DNS](networking/dns.md)
   - [Peer to peer](networking/peer-to-peer/peer-to-peer.md)
     - [IPFS](networking/peer-to-peer/ipfs.md)
