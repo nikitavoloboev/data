@@ -8,7 +8,7 @@ The fact that I can combine active and passive tracking together is very powerfu
 
 My projects look like this:
 
-![](https://i.imgur.com/Yoe40nK.png)
+![](https://i.imgur.com/pQtHTCE.png)
 
 > The numbers after the projects are my weekly set goals in hours
 
