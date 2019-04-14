@@ -36,3 +36,5 @@ Plan to spend more time with it as [SourceKit-LSP](https://github.com/apple/sour
 - [Awesome System Swift](https://github.com/felix91gr/awesome-system-swift#readme)
 - [Code Examples Repository](https://github.com/kharrison/CodeExamples) - Examples of code in objc/swift.
 - [Swift Rules for Bazel](https://github.com/bazelbuild/rules_swift) - Bazel rules to build Swift on Apple and Linux platforms.
+- [Leaf](https://github.com/vapor/leaf) - Expressive, performant, and extensible templating language built for Swift.
+- [Markdown Playgrounds for Swift](https://github.com/objcio/markdown-playgrounds) - Markdown Editor that can execute Swift code. With building of it documented with videos.

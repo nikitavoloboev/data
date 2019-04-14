@@ -1,21 +1,14 @@
 # Games
 
-I keep a [Trello board](https://trello.com/b/EekGabpj) of games I am playing now or want to play. And I made a list of [awesome games](https://github.com/learn-anything/games#readme) you can play.
-
-I track [all the games I have played](https://www.grouvee.com/user/nikivi).
+I keep a [Wishlist](https://www.grouvee.com/user/nikivi/shelves/12652-wish-list/?num=25) of games I want to play as well as games I am [playing now](https://www.grouvee.com/user/nikivi/shelves/12651-playing/?num=25) or [plan to play next](https://www.grouvee.com/user/nikivi/shelves/513443-next/?num=25).
 
 ## Favorite games
 
-I keep a [list of all my favorite games](https://www.grouvee.com/user/nikivi/shelves/53363-favorite/). Below are some games that really left an impression on me and why.
+I keep a [list of my favorite games](https://www.grouvee.com/user/nikivi/shelves/53363-favorite/?num=25) I've played. And I write [reviews](https://www.grouvee.com/user/nikivi/reviews/) on games I've played.
 
-- [Dune 2000](http://en.wikipedia.org/wiki/Dune_2000) - Loved this game. Probably the first strategy game I fell in love with.
-- Stronghold 2001 - The campaign was super hard and interesting. I loved building little worlds with superficial economies. Was super fun.
-- [The Curse of Monkey Island](http://en.wikipedia.org/wiki/The_Curse_of_Monkey_Island) - Was fun exploring the game and solving puzzles.
-- [Diablo II](http://en.wikipedia.org/wiki/Diablo_II) - The first RPG I fell in love with. Many great memories from the game.
-- [Warcraft III](http://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos) - Probably the best multiplayer game I ever played. The amount of amazing and creative modes that came out of the game's world builder is immense. DOTA came from Warcraft III initially.
-- [Command & Conquer: Generals](http://en.wikipedia.org/wiki/Command_%26_Conquer:_Generals) - An awesome real time strategy game.
-- [Cossacks: European Wars](http://en.wikipedia.org/wiki/Cossacks:_European_Wars) - An awesome real time strategy game.
-- [League of Legends](http://en.wikipedia.org/wiki/League_of_Legends) - Speaking of DOTA, whilst I haven't played original DOTA much, I did love League. Have many fond memories of playing with my friends. Many people take the game too seriously and ruin the fun both for themselves and other people but if you play with friends and just have fun, the game is quite amazing.
+## Watched Series
+
+I track [all the games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25).
 
 ## Awesome Online games
 
@@ -34,7 +27,8 @@ I keep a [list of all my favorite games](https://www.grouvee.com/user/nikivi/she
 
 ## Links
 
+- [Awesome games](https://github.com/learn-anything/games#readme)
+- [Games on GitHub](https://github.com/leereilly/games#readme) - List of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [Patient gamers subreddit](https://www.reddit.com/r/patientgamers/)
-- [Awesome games](https://github.com/leereilly/games#readme)
 - [Awesome educational games](https://github.com/yrgo/awesome-eg#readme)
 - [If you had to recommend someone play 5 games to really get a feel for you/your tastes, what five would you pick?](https://twitter.com/jasonthinks/status/1036687671043579905)
