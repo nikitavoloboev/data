@@ -32,6 +32,7 @@
 
 - [Overmind](https://github.com/cerebral/overmind) - Frictionless state management.
 - [Storeon](https://github.com/ai/storeon) - Tiny event-based Redux-like state manager for React and Preact.
+- [Overstated](https://github.com/fabiospampinato/overstated) - React state management library that's delightful to use, without sacrificing performance or scalability.
 
 ## Other
 

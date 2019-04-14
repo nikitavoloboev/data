@@ -6,6 +6,7 @@ I share many Trello boards publicly as I try have my workflow, ideas and experie
 
 Below is a list of all public Trello boards I share. I don't attach links to most cards as links can be found in [curated lists](https://github.com/learn-anything/curated-lists#readme).
 
+- [Focus](../focusing/focusing.md) - My week/month/quarter/year goals.
 - [Ideas](https://trello.com/b/alB1ryRP) - Ideas I want to bring to existence.
 - [Learn](https://trello.com/b/cu32qF3q) - Things I am learning and want to learn.
 - [Books](https://trello.com/b/MOrnm2aN) - [Books](../books/books.md) I am reading and want to read.

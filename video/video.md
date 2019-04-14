@@ -1,5 +1,7 @@
 # Video
 
+I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?list=LLEKqrUfr_FMKIO9XSJS4vDw) as well as [many playlists I made](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view=1&sort=lad&flow=grid).
+
 ## Inspiring editing
 
 - [Watchtower of Turkey](https://www.youtube.com/watch?v=z7yqtW4Isec) - Incredible. By Leonardo Dalessandri.
