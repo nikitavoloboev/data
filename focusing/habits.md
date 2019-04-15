@@ -24,7 +24,7 @@ I use [Siri Shortcuts](https://github.com/nikitavoloboev/my-ios#shortcuts) for m
 
 Activity rings & Training are autofilled for me from Apple health data. My current calorie goal is 750 calories with fixed 30 min workout & 12H standing goals. Training minutes are set to amount of minutes I worked out with [Streaks Workout](https://streaksworkout.com) which includes some bodyweight exercises I like doing.
 
-`Focus | One task at a time` is pretty self explanatory. This is marked as done if I feel like I haven't derailed my focus throughout the day and did what I was supposed to do at ideally all points in time throughout the day. For `One task at a time`, [solving problems](../research/solving-problems.md) goes over strategies I use to achieve it.
+`Focus | One task at a time` is pretty self explanatory. This is marked as done if I feel like I haven't derailed my focus throughout the day and did what I was supposed to do at ideally all points in time throughout the day. For `One task at a time`, [solving problems](../research/solving-problems.md) goes over strategies I use to achieve this.
 
 `Event driven | Plan ahead` is mostly about setting events to achieve my goals (set in [Focus board](../focusing/focusing.md)) & going through with them. Event driven also means being open to change of plans in light of new insights.
 
