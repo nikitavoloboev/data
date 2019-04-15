@@ -49,3 +49,4 @@
 - [Rust: Frequently Asked Questions](https://github.com/dtolnay/rust-faq#readme)
 - [Building fast interpreters in Rust (2019)](https://blog.cloudflare.com/building-fast-interpreters-in-rust/)
 - [Rust RFCs](https://github.com/rust-lang/rfcs#readme)
+- [2019 Roadmap for Rust](https://github.com/rust-lang/rfcs/blob/master/text/2657-roadmap-2019.md)

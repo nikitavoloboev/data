@@ -29,3 +29,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [UI Elements](https://github.com/GoogleChromeLabs/ui-element-samples) - Collection of UI element samples written with vanilla web platform features.
 - [gotify/server](https://github.com/gotify/server) - Simple server for sending and receiving messages in real-time per web socket.
 - [Sizzy](https://github.com/kitze/sizzy) - Tool for testing responsive websites crazy-fast.
+- [Awesome Stacks](https://github.com/stackshareio/awesome-stacks) - Curated list of tech stacks for building different applications & features.

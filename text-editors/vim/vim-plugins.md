@@ -140,6 +140,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 ## Markdown
 
 - [Markdown Preview for Neovim](https://github.com/iamcco/markdown-preview.nvim)
+- [mkdx.vim](https://github.com/SidOfc/mkdx) - Vim plugin that adds some nice extra's for working with markdown documents.
 
 ## Lightline
 

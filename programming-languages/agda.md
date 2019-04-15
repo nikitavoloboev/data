@@ -16,3 +16,6 @@
 - [Introduction to Agda (2011)](https://www.youtube.com/watch?v=shXKb2MTkUc&list=PLB7F836675DCE009C) - Daniel Peebles' Introduction to Agda, presented at Boston Haskell.
 - [Programming with Dependent Types Summer School](https://github.com/UlfNorell/agda-summer-school)
 - [Agda Prelude](https://github.com/UlfNorell/agda-prelude) - Alternative to the Agda standard library that focuses more on programming and type checking time performance.
+- [Introduction to Univalent Foundations of Mathematics with Agda (2019)](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html)
+- [Agda from Nothing](https://github.com/scott-fleischman/agda-from-nothing) - Workshop on learning Agda with minimal prerequisites.
+- [Various new theorems in constructive univalent mathematics written in Agda](https://github.com/martinescardo/TypeTopology)

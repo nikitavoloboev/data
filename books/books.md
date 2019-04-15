@@ -111,9 +111,11 @@ Below are books I read sorted by year I read them in. The books with links attac
 
 ## Links
 
+- [Awesome books](https://github.com/learn-anything/books#readme)
 - [Ask HN: How do you read programming books?](https://news.ycombinator.com/item?id=15733745)
 - [Ask HN: 2018 Summer Reading List?](https://news.ycombinator.com/item?id=17513576)
 - [Thinking with Types LaTeX source](https://github.com/isovector/thinking-with-types) - Original source material for Thinking with Types: Type-Level Programming in Haskell book.
 - [Scribd](https://www.scribd.com/) - Books, audiobooks, and more for a fixed fee / month.
 - [Science Fiction, Fantasy & Horror Sub-Genres](http://www.worldswithoutend.com/resources_sub-genres.asp)
 - [Ask HN: What books changed the way you think about almost everything? (2019)](https://news.ycombinator.com/item?id=19087418)
+- [Awesome Programming Books](https://github.com/majikarp/awesome-programming-books#readme)
