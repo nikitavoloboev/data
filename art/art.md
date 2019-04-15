@@ -25,6 +25,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Qi Sheng Luo](https://www.artstation.com/luoqisheng)
 - [Leland Foster](https://www.instagram.com/leland.foster/)
 - [Banksy](http://banksy.co.uk/out.asp)
+- [Nicola Samorì](http://www.nicolasamori.com/)
 
 ## Interesting artists
 

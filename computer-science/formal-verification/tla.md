@@ -2,5 +2,5 @@
 
 ## Links
 
-- [TLA+ guide](https://www.learntla.com/introduction/)
+- [TLA+ guide](https://learntla.com/introduction/) ([HN](https://news.ycombinator.com/item?id=19661329))
 - [tla+rust](https://github.com/spacejam/tla-rust) - Writing correct lock-free and distributed stateful systems in Rust, assisted by TLA+.
