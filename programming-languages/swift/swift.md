@@ -38,3 +38,4 @@ Plan to spend more time with it as [SourceKit-LSP](https://github.com/apple/sour
 - [Swift Rules for Bazel](https://github.com/bazelbuild/rules_swift) - Bazel rules to build Swift on Apple and Linux platforms.
 - [Leaf](https://github.com/vapor/leaf) - Expressive, performant, and extensible templating language built for Swift.
 - [Markdown Playgrounds for Swift](https://github.com/objcio/markdown-playgrounds) - Markdown Editor that can execute Swift code. With building of it documented with videos.
+- [Improving the UI of generics (2019)](https://forums.swift.org/t/improving-the-ui-of-generics/22814)
