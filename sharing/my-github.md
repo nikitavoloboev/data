@@ -16,7 +16,7 @@ The number between brackets shows the year I created the repo in. Repos with �
 - [Small Workflows (2017) 🌟](https://github.com/nikitavoloboev/small-workflows#readme) - Small Alfred workflows I use.
 - [My Mind (2017) 🌟](https://github.com/nikitavoloboev/alfred-my-mind#readme) - Search through my notes and bookmarks.
 - [Web Searches (2017) 🌟](https://github.com/nikitavoloboev/alfred-web-searches#readme) - Search through any website (easily extendable list).
-- [Ask Create Share (2017) 🌟](https://github.com/nikitavoloboev/alfred-ask-create-share#readme) - Create web submissions (Stack exchange, Reddit and more).
+- [Ask Create Share (2017) 🌟](https://github.com/nikitavoloboev/alfred-ask-create-share#readme) - Create web submissions (Stack Exchange, Forums and more).
 
 ## Personal
 

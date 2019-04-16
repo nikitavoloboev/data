@@ -407,6 +407,7 @@
   - [Effective altruism](philosophy/effective-altruism.md)
   - [Simulated reality](philosophy/simulated-reality.md)
 - [Video](video/video.md)
+  - [Cinematography](video/cinematography.md)
 - [Machine learning](machine-learning/machine-learning.md)
   - [Neural networks](machine-learning/neural-networks/neural-networks.md)
     - [Generative adversarial networks](machine-learning/neural-networks/generative-adversarial-networks.md)
