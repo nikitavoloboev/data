@@ -23,3 +23,4 @@ Might give it a go sometime.
 - [Elsa](https://github.com/emacs-elsa/Elsa) - Emacs Lisp Static Analyser.
 - [Reasonable Emacs config](https://github.com/purcell/emacs.d)
 - [List of people with nice emacs config files](https://github.com/caisah/emacs.dz#readme)
+- [.emacs.el file and other personal Emacs goodies by John Wiegley](https://github.com/jwiegley/dot-emacs)

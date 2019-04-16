@@ -58,6 +58,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Gistlink](https://github.com/lukejacksonn/gistlink) - JavaScript sandbox environments that you can share via URL.
 - [Glide](https://www.glideapps.com/) - Create a mobile app from a Google Sheet in 5 minutes, for free.
 - [Changemap](https://changemap.co/) - Involve users and manage features from suggestion to changelog.
+- [wallabag](https://github.com/wallabag/wallabag) - Self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 
 ## Notes
 

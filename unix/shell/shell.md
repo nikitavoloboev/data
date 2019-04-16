@@ -26,3 +26,4 @@ All active variables can be seen by running `env`.
 - [ShellCheck](https://www.shellcheck.net) - Finds bugs in your shell scripts. [OSS](https://github.com/koalaman/shellcheck).
 - [Rash](https://github.com/willghatch/racket-rash) - The Reckless Racket Shell.
 - [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - Remote shell that automatically reconnects without interrupting the session.
+- [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc.

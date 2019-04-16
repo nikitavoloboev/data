@@ -92,6 +92,7 @@
 - [Ramhorns](https://github.com/maciejhirsz/ramhorns) - Experimental Mustache template engine implementation in pure Rust.
 - [rust-notifica](https://github.com/frewsxcv/rust-notifica) - Small, cross-platform Rust crate for sending system notifications.
 - [pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - Pull parser for CommonMark, written in Rust. It comes with a simple command-line tool, useful for rendering to HTML, and is also designed to be easy to use from as a library.
+- [Image](https://github.com/image-rs/image) - Encoding and decoding images in Rust.
 
 ## Cargo Plugins
 
