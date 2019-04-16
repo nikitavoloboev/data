@@ -9,3 +9,4 @@
 ## Links
 
 - [Playroom](https://github.com/seek-oss/playroom) - Design with JSX, powered by your own component library.
+- [Awesome React Design Systems](https://github.com/jbranchaud/awesome-react-design-systems#readme) - Curated list of design systems made up of reusable React components.

@@ -25,3 +25,4 @@
 - [Wasmer](https://github.com/wasmerio/wasmer) - Standalone JIT WebAssembly runtime, aiming to be fully compatible with WASI and Emscripten.
 - [WebAssembly Playground](http://ast.run/)
 - [Wasmer is taking WebAssembly beyond the browser (2019)](https://overcast.fm/+HZUfSYn4E)
+- [Wasmer](https://github.com/wasmerio/python-ext-wasm) - Python extension to run WebAssembly binaries.

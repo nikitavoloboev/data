@@ -10,3 +10,4 @@
 - [s2n](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
 - [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
 - [LibHydrogen](https://github.com/jedisct1/libhydrogen) - Lightweight, secure, easy-to-use crypto library suitable for constrained environments.
+- [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)

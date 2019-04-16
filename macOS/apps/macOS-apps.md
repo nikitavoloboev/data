@@ -12,6 +12,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [LuLu](https://github.com/objective-see/LuLu) - Free macOS firewall.
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Watch the latest and greatest conference videos on your Mac.
 - [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac.
+- [Sourceful](https://github.com/twostraws/Sourceful) - Native source editor for iOS and macOS.
 
 ## Links
 
