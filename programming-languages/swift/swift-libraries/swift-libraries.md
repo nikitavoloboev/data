@@ -81,3 +81,4 @@
 - [Valet](https://github.com/square/Valet) - Lets you securely store data in the iOS, tvOS, watchOS, or macOS Keychain without knowing a thing about how the Keychain works.
 - [FillableLoaders](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom CGPaths.
 - [SwiftMetrics](https://github.com/apple/swift-metrics) - Metrics API package for Swift.
+- [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize UserDefaults over iCloud.
