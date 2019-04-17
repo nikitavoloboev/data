@@ -36,3 +36,5 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Logux](https://github.com/logux/logux) - Instead of sending HTTP requests (e.g., AJAX, REST, and GraphQL) it synchronizes log of operations between client, server, and other clients through WebSocket.
 - [React Hooks implementation for Redux](https://github.com/epeli/redux-hooks)
 - [Scaling a react/redux codebase for multiple platforms (2019)](https://erock.io/scaling-js-codebase-multiple-platforms/)
+- [Redux Loop](https://github.com/redux-loop/redux-loop) - Library that ports Elm's effect system to Redux.
+- [Redux side effects and me (2017)](https://medium.com/magnetis-backstage/redux-side-effects-and-me-89c104a4b149)
