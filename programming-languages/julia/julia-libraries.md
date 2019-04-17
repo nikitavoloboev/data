@@ -28,6 +28,7 @@
 - [CUDAnative.jl](https://github.com/JuliaGPU/CUDAnative.jl) - Julia support for native CUDA programming.
 - [Julia debugger](https://github.com/JuliaDebug/Debugger.jl)
 - [Automa.jl](https://github.com/BioJulia/Automa.jl) - Julia code generator for regular expressions.
+- [Gadfly](https://github.com/GiovineItalia/Gadfly.jl) - Plotting and data visualization system written in Julia.
 
 ## Links
 

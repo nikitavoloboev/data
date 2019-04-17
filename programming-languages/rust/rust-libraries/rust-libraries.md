@@ -94,6 +94,7 @@
 - [pulldown-cmark](https://github.com/raphlinus/pulldown-cmark) - Pull parser for CommonMark, written in Rust. It comes with a simple command-line tool, useful for rendering to HTML, and is also designed to be easy to use from as a library.
 - [Image](https://github.com/image-rs/image) - Encoding and decoding images in Rust.
 - [fern](https://github.com/daboross/fern) - Simple, efficient logging for Rust.
+- [Runtime](https://github.com/rustasync/runtime) - Empowering everyone to build asynchronous software.
 
 ## Cargo Plugins
 

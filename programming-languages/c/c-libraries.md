@@ -10,3 +10,4 @@
 - [jemalloc](https://github.com/jemalloc/jemalloc) - General purpose malloc implementation that emphasizes fragmentation avoidance and scalable concurrency support.
 - [Libtask](https://swtch.com/libtask/) - Coroutine Library for C and Unix.
 - [Simple Dynamic Strings](https://github.com/antirez/sds)
+- [Cello](https://github.com/orangeduck/Cello) - Higher level programming in C.

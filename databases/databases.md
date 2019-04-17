@@ -14,6 +14,7 @@
 - [Sophia](https://github.com/pmwkaa/sophia) - Modern transactional key-value/row storage library.
 - [TiDB](https://github.com/pingcap/tidb) - Distributed HTAP database compatible with the MySQL protocol.
 - [Bolt](https://github.com/boltdb/bolt) - Pure Go key/value store inspired by Howard Chu's LMDB project.
+- [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 
 ## Tools
 
