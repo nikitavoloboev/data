@@ -30,6 +30,7 @@
 - [Reuse](https://github.com/diegohaz/reuse) - Reuse different React components to create new ones.
 - [React Geosuggest](https://github.com/ubilabs/react-geosuggest) - React autosuggest for the Google Maps Places API.
 - [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy. Reduce your bundle size without stress.
+- [react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - Tiny but mighty list virtualization library, with zero dependencies.
 
 ## Links
 
