@@ -214,6 +214,7 @@ Some simple rules to follow when doing things.
 ## Social media
 
 - Don't lock myself into using a service. Have my own system in place and give the social media a purpose. If there is no purpose to it, don't use it.
+- Don't change profile pictures often.
 
 ## Privacy
 
