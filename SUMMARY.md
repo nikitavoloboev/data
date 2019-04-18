@@ -339,6 +339,7 @@
     - [Zero knowledge proofs](security/cryptography/zero-knowledge-proofs.md)
 - [Social networks](social-networks/social-networks.md)
   - [Scuttlebutt](social-networks/scuttlebutt.md)
+  - [Mastodon](social-networks/mastodon.md)
 - [Networking](networking/networking.md)
   - [HTTP](networking/http.md)
   - [REST](networking/rest.md)
