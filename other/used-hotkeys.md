@@ -58,6 +58,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 ## OPT+SHIFT+CMD
 
+- 6 - Toggle Night Shift on/off.
 - 9 - Make Typinator snippet from clipboard
 - 0 - Make Typinator snippet from selection
 - r - Google Translate selected text

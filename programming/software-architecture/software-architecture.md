@@ -5,3 +5,7 @@
 ### React
 
 - [Spectrum](https://github.com/withspectrum/spectrum) - Like the component separation + styles.
+
+### Other
+
+- [Keybase](https://github.com/keybase/client) - Go Library, Client, Service, OS X, iOS, Android, Electron.

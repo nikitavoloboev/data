@@ -29,6 +29,7 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [Seana Burns](http://seenaburns.com/)
 - [Hundred Rabbits](https://100r.co/pages/blog.html)
 - [Joe Armstrong](https://joearms.github.io/oldindex.html)
+- [Eric Bower](https://erock.io/)
 
 ## Links
 

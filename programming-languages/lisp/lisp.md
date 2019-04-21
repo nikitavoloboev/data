@@ -16,3 +16,4 @@
 - [Parinfer](https://github.com/shaunlebron/parinfer) - Let's simplify the way we write Lisp.
 - [Build me a LISP](https://kirit.com/Build%20me%20a%20LISP) ([HN](https://news.ycombinator.com/item?id=19121828))
 - [Wasp](https://github.com/wasplang/wasp) - Lisp programming language for extremely performant and concise web assembly modules.
+- [Lisp Koans](https://github.com/google/lisp-koans) - Language learning exercise in the same vein as the ruby koans, python koans and others. ([HN](https://news.ycombinator.com/item?id=19313850))
