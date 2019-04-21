@@ -9,3 +9,4 @@
 - [Xgen](https://github.com/JohnSundell/Xgen) - Swift package for generating Xcode workspaces & playgrounds.
 - [NoMoreTypo](https://github.com/shiba1014/NoMoreTypo) - Typo checker for Xcode.
 - [Struct](https://github.com/lyptt/struct) - Tool for iOS and Mac developers to automate the creation and management of Xcode projects.
+- [XcodeProj](https://github.com/tuist/xcodeproj) - Read, update and write your Xcode projects.

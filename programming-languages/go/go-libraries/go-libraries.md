@@ -57,6 +57,10 @@
 
 - [pbr](https://github.com/hunterloftis/pbr) - Implements Physically-Based Rendering via a unidirectional CPU-only Monte Carlo path tracer.
 
+## macOS
+
+- [apfs](https://github.com/go-darwin/apfs) - Package apfs implements an Apple File System(apfs) bindings for Go.
+
 ## Docker
 
 - [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries.

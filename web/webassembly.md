@@ -20,7 +20,7 @@
 - [Wasmtime](https://github.com/CraneStation/wasmtime) - Standalone wasm-only runtime for WebAssembly, using the Cranelift JIT.
 - [Cranelift Code Generator](https://github.com/CraneStation/cranelift) - Low-level retargetable code generator. It translates a target-independent intermediate representation into executable machine code..
 - [Standardizing WASI: A system interface to run WebAssembly outside the web (2019)](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/)
-- [WASI](https://wasi.dev/) - WebAssembly System Interface.
+- [WASI](https://wasi.dev/) - WebAssembly System Interface. ([OSS](https://github.com/WebAssembly/WASI)).
 - [Lucet](https://github.com/fastly/lucet) - Sandboxing WebAssembly Compiler.
 - [Wasmer](https://github.com/wasmerio/wasmer) - Standalone JIT WebAssembly runtime, aiming to be fully compatible with WASI and Emscripten.
 - [WebAssembly Playground](http://ast.run/)

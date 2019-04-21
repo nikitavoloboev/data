@@ -15,6 +15,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles#r
 - [bresilla](https://github.com/bresilla/dotfiles) - Neat Linux look.
 - [Jess Frazelle](https://github.com/jessfraz/dotfiles) - Docker/Linux.
 - [Roma Volosatovs](https://github.com/rvolosatovs/infrastructure) - Private NixOps network infrastructure.
+- [yqrashawn](https://github.com/yqrashawn/yqdotfiles) - Made Goku.
 - [Gleb Skibitsky](https://github.com/skibitsky/dotfiles) - Uses Goku/Karabiner.
 
 ## Links

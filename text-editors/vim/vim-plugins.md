@@ -40,6 +40,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Utility
 
+- [vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors project for vim/neovim.
 - [move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down.
 - [Coc](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode.
 - [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing.

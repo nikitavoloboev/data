@@ -109,6 +109,7 @@ Below are books I read sorted by year I read them in. The books with links attac
 - [What’s the best book you read in 2018?](https://twitter.com/farnamstreet/status/1074496799786713088)
 - [Some fiction books](https://paper.dropbox.com/doc/2019-02-19-Books-AX3Tl_vBkHsM6Fh9mn9pM0wOAg-Apo3mY7r8i0Bfsyt3lW7r)
 - [Books I Recommend (2019)](https://blog.jessfraz.com/post/books/)
+- [Miikka Koskinen's reading list](https://miikka.me/reading-list/)
 
 ## Links
 
