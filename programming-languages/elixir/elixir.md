@@ -6,3 +6,4 @@
 - [edeliver](https://github.com/edeliver/edeliver) - Deployment for Elixir and Erlang.
 - [Elixir’s biggest gotchas?](https://elixirforum.com/t/elixirs-biggest-gotchas/796)
 - [Learn Elixir](https://github.com/dwyl/learn-elixir#readme)
+- [A week with Elixir](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)

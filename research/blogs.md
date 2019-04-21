@@ -28,6 +28,7 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [Nassim Nicholas Taleb](https://medium.com/@nntaleb)
 - [Seana Burns](http://seenaburns.com/)
 - [Hundred Rabbits](https://100r.co/pages/blog.html)
+- [Joe Armstrong](https://joearms.github.io/oldindex.html)
 
 ## Links
 
