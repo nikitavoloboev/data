@@ -99,3 +99,4 @@ Alfred  Apps  Config  IFTTT  Shared  Shares  TaskPaper  Temp  upload.sh  Write
 ## Links
 
 - [Ask HN: How do you organise your hard drive? (2018)](https://news.ycombinator.com/item?id=18836472)
+- [Ask HN: How do you keep your files organized on macOS? (2019)](https://news.ycombinator.com/item?id=19327264)
