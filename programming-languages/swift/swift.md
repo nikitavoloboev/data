@@ -40,3 +40,4 @@ Plan to spend more time with it as [SourceKit-LSP](https://github.com/apple/sour
 - [Markdown Playgrounds for Swift](https://github.com/objcio/markdown-playgrounds) - Markdown Editor that can execute Swift code. With building of it documented with videos.
 - [Improving the UI of generics (2019)](https://forums.swift.org/t/improving-the-ui-of-generics/22814)
 - [Swift on Sundays](https://github.com/twostraws/SwiftOnSundays) - Completed projects for the Swift on Sundays livestream series.
+- [Swift Style Guide](https://github.com/linkedin/swift-style-guide#readme) - LinkedIn's Official Swift Style Guide.
