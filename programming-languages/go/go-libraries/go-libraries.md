@@ -52,6 +52,7 @@
 - [Slacker](https://github.com/shomali11/slacker) - Slack Bot Framework.
 - [go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API.
 - [Slash](https://github.com/htdvisser/slash) - Router for Slack's slash commands.
+- [Airtable Go Client Library](https://github.com/fabioberger/airtable-go)
 
 ## Graphics
 
