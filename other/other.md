@@ -7,6 +7,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Todd Davies's uni notes](https://todddavies.co.uk/#Notes)
 - [Various things to learn](https://github.com/gyuho/learn)
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge#readme) - Collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more.
+- [ChALkeR's notes](https://github.com/ChALkeR/notes)
 
 ## Music instruments
 
