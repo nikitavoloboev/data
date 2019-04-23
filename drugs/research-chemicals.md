@@ -2,6 +2,7 @@
 
 ## Interesting
 
+- [4-HO-MiPT](https://psychonautwiki.org/wiki/4-HO-MiPT) - Personal favorite.
 - [3-HO-PCP](https://psychonautwiki.org/wiki/3-HO-PCP)
 - [Arylcyclohexylamine](https://psychonautwiki.org/wiki/Arylcyclohexylamine)
 - [Deschloroketamine](https://psychonautwiki.org/w/index.php?title=Deschloroketamine)

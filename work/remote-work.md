@@ -9,3 +9,4 @@
 - [Teleport App](https://sundial.teleport.org/) - Get an overview of your group's locations, timezones and working hours.
 - [Ask HN: What are the biggest challenges preventing startups from hiring remote?](https://news.ycombinator.com/item?id=17021655) - [Mitchell Hashimoto's comment was great](https://news.ycombinator.com/item?id=17022563)
 - [Thoughts on Remote Communication](https://blog.danlew.net/2018/07/19/hear-me-talkin-to-ya-thoughts-on-remote-communication/)
+- [How to travel and work as a remote software developer (2019)](https://www.youtube.com/watch?v=Mt16aoEzSsU)

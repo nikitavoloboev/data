@@ -53,7 +53,7 @@ At the end of the 80 min focus session, [Timing](../macOS/apps/timing.md) shows 
 
 The projects are a reflection of my Focus Trello board.
 
-![](https://i.imgur.com/N0DY52b.png)
+![](https://i.imgur.com/BS3hzIj.png)
 
 I limit apps that can send me notifications to only essential things and turn off all sounds on notifications I get.
 
