@@ -77,3 +77,4 @@
 - [k3d](https://github.com/zeerorg/k3s-in-docker) - Lightweight alternative to KinD for local development.
 - [Popeye](https://github.com/derailed/popeye) - Kubernetes cluster resource sanitizer.
 - [Kubernetes Test Infrastructure](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
+- [Katib](https://github.com/kubeflow/katib) - Hyperparameter Tuning on Kubernetes.

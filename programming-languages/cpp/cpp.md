@@ -10,3 +10,4 @@
 - [Is C++ fast? (2019)](https://zeuxcg.org/2019/01/17/is-c-fast/)
 - [In-depth: Functional programming in C++ (2012)](http://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php) ([HN](https://news.ycombinator.com/item?id=18968101))
 - [Buckaroo](https://github.com/LoopPerfect/buckaroo) - Decentralized C++ package manager.
+- [Modern C++ Won't Save Us (2019)](https://alexgaynor.net/2019/apr/21/modern-c++-wont-save-us/) ([HN](https://news.ycombinator.com/item?id=19723066))

@@ -90,3 +90,4 @@ Go promotes composition over inheritance.
 - [Why are my Go executable files so large? Size visualization of Go executables using D3 (2019)](https://science.raphael.poss.name/go-executable-size-visualization-with-d3.html)
 - [goweight](https://github.com/jondot/goweight) - Tool to analyze and troubleshoot a Go binary size.
 - [Go Patterns](https://github.com/tmrts/go-patterns#readme) - Curated list of Go design patterns, recipes and idioms.
+- [Go Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap#readme) - Roadmap to becoming a Go developer in 2019.

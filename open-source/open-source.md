@@ -27,3 +27,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [You Should Open Source Your Product (2019)](https://blog.tommoor.com/2019/01/01/you-should-open-source-your-product/)
 - [Code Shelter](https://www.codeshelter.co/) - Maintainer Community for Abandoned FOSS Projects.
 - [IssueHunt](https://issuehunt.io/) - Reward project owners and developers who maintain important open-source software in the internet stack.
+- [Gitcoin](https://gitcoin.co/) - Lets you get paid for working on open source software.
