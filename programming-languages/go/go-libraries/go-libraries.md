@@ -143,6 +143,7 @@
 - [Oto](https://github.com/hajimehoshi/oto) - Low-level library to play sound. This package offers io.WriteCloser to play PCM sound.
 - [afero](https://github.com/spf13/afero) - FileSystem Abstraction System for Go.
 - [Filet](https://github.com/Flaque/filet) - Small temporary file utility for Go testing.
+- [Jingo](https://github.com/bet365/jingo) - Provides the ability to encode golang structs to a buffer as JSON very quickly.
 
 ## Links
 

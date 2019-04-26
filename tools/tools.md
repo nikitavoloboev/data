@@ -60,6 +60,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Changemap](https://changemap.co/) - Involve users and manage features from suggestion to changelog.
 - [wallabag](https://github.com/wallabag/wallabag) - Self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [Project Iris](http://iris.karalabe.com/) - Completely decentralized cloud messaging.
+- [yq](https://github.com/mikefarah/yq) - Lightweight and portable command-line YAML processor.
 
 ## Notes
 

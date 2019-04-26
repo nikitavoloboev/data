@@ -38,3 +38,4 @@ I publish most of my work and make it open source for other people to use and re
 - [ghr](https://github.com/tcnksm/ghr) - Creates GitHub Release and uploads artifacts in parallel.
 - [GitMemory](https://www.gitmemory.com/) - Pretty nice stats on GitHub data like [profiles](https://www.gitmemory.com/nikitavoloboev).
 - [all-contributors](https://github.com/all-contributors/all-contributors) - Recognize all contributors, not just the ones who push code.
+- [release-notes](https://github.com/TheThingsIndustries/release-notes) - Generate release notes from pull request description.
