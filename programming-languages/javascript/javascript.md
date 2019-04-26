@@ -55,3 +55,4 @@
 - [Promisees](https://github.com/bevacqua/promisees) - Promise visualization playground for the adventurous.
 - [promise-fun](https://github.com/sindresorhus/promise-fun#readme) - Promise packages, patterns, chat, and tutorials.
 - [Perflink](https://github.com/lukejacksonn/perflink) - JavaScript performance benchmarks that you can share via URL.
+- [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)

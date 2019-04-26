@@ -45,7 +45,7 @@ The things I work on during this 80 min focus session is specified by an event i
 - 2Do - I open [2Do](../macOS/apps/2do.md) and work through the most prioritized tasks for `Today`.
 - Code - I work through 2Do tasks with `pr` tag. Or I use [Bee](https://www.neat.io/bee/) app and work through GitHub issues in `Next` list.
 - Ideas - I pick an idea I want to work on from [Trello](https://trello.com/b/alB1ryRP) and make it.
-- Learn - I choose a topic I want to learn from [Trello](https://trello.com/b/cu32qF3q) and learn it. Either by reading [books](https://trello.com/b/MOrnm2aN), [research papers](https://trello.com/b/EKl1Ie3q) or exploring [LA](../ideas/learn-anything.md).
+- Learn - I choose a topic I want to learn from [Trello](https://trello.com/b/cu32qF3q) and learn it. Either by reading [books](../books/books.md), [research papers](../research-papers/research-papers.md) or exploring [LA](../ideas/learn-anything.md).
 
 At the end of the 80 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 80 min period.
 

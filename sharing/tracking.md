@@ -5,7 +5,6 @@ Here is a list of various things I track for my own use and reference.
 ## Books
 
 - [Books (Wiki)](../books/books.md) - Books I read and finished reading together with a link to the notes I made on each of the books and my reviews.
-- [Books (Trello)](https://trello.com/b/MOrnm2aN) - Books I am reading now and planning to read.
 - [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev) - List of [books I finished reading](https://www.goodreads.com/review/list/15768482?shelf=read) and reviews on all of the books I read.
 
 ## Movies

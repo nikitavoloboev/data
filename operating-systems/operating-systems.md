@@ -30,3 +30,4 @@ And I really like [NixOS](linux/nixos.md) and it's [nix package manager](../pack
 - [intermezzOS kernel](https://github.com/intermezzOS/kernel) - Hobby operating system, in Rust.
 - [The intermezzOS book](http://intermezzos.github.io/book/) ([Code](https://github.com/intermezzOS/book))
 - [Write your own Operating System (2017)](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
+- [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
