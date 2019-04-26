@@ -37,3 +37,4 @@
 - [Interview tips from Google Software Engineers (2019)](https://www.youtube.com/watch?v=XOtrOSatBoY)
 - [I interviewed at six top companies in Silicon Valley in six days, and stumbled into six job offers (2019)](https://blog.usejournal.com/i-interviewed-at-six-top-companies-in-silicon-valley-in-six-days-and-stumbled-into-six-job-offers-fe9cc7bbc996) ([HN](https://news.ycombinator.com/item?id=18942572))
 - [How NOT to hire a software engineer (2019)](http://tonsky.me/blog/hiring/) ([HN](https://news.ycombinator.com/item?id=19541617))
+- [30 seconds of interviews](https://30secondsofinterviews.org/) - Curated collection of common interview questions to help you prepare for your next interview. [OSS](https://github.com/30-seconds/30-seconds-of-interviews).
