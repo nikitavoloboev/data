@@ -514,6 +514,7 @@
   - [Consultancies](work/consultancies.md)
 - [Management](management/management.md)
   - [Product Management](management/product-management.md)
+  - [Leadership](management/leadership.md)
 - [LaTeX](latex/latex.md)
 - [Robots](robots/robots.md)
 - [NLP](nlp/nlp.md)
