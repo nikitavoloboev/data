@@ -24,3 +24,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Should we go vegan?](https://en.wikiversity.org/wiki/Should_we_go_vegan%3F)
 - [Ending Heart Disease: Cardiologist Kim Williams, M.D.](https://www.youtube.com/watch?v=X4TMsRKOe8Q)
 - [Great Reddit thread about benefits of going vegan](https://www.reddit.com/r/PlantBasedDiet/comments/9xwyls/posted_this_in_rvegan_and_they_sent_me_here/)
+- [HN: Animals are no less emotional than we are (2019)](https://news.ycombinator.com/item?id=19342135)

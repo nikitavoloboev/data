@@ -33,3 +33,4 @@
 - [Neural Networks (E01: introduction) (2018)](https://www.youtube.com/watch?v=bVQUSndDllU) - This series is intended as a light introduction to neural networks, with a focus on the task of classifying handwritten digits.
 - [Machine Learning for Beginners: An Introduction to Neural Networks (2019)](https://victorzhou.com/blog/intro-to-neural-networks/)
 - [A Recipe for Training Neural Networks (2019)](https://karpathy.github.io/2019/04/25/recipe/)
+- [Exploring Neural Networks with Activation Atlases (2019)](https://distill.pub/2019/activation-atlas/)
