@@ -33,3 +33,4 @@
 - [Deep Learning in Neural Networks: An Overview (2015)](http://people.idsia.ch/~juergen/deep-learning-overview.html)
 - [Neural Networks (E01: introduction) (2018)](https://www.youtube.com/watch?v=bVQUSndDllU) - This series is intended as a light introduction to neural networks, with a focus on the task of classifying handwritten digits.
 - [Machine Learning for Beginners: An Introduction to Neural Networks (2019)](https://victorzhou.com/blog/intro-to-neural-networks/)
+- [A Recipe for Training Neural Networks (2019)](https://karpathy.github.io/2019/04/25/recipe/)

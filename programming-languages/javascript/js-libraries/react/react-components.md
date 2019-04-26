@@ -31,6 +31,7 @@
 - [React Geosuggest](https://github.com/ubilabs/react-geosuggest) - React autosuggest for the Google Maps Places API.
 - [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy. Reduce your bundle size without stress.
 - [react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - Tiny but mighty list virtualization library, with zero dependencies.
+- [React Morph](https://github.com/brunnolou/react-morph) - Morphing UI transitions made simple.
 
 ## Links
 

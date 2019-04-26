@@ -56,6 +56,7 @@
 - [Bell Curve](https://www.bellcurve.com/#what-we-offer) - Growth marketing agency.
 - [Awesome Indie](https://github.com/mezod/awesome-indie#readme) - Resources for independent developers to make money.
 - [How to start a startup: Lecture 10 - Culture (Brian Chesky, Alfred Lin)](https://www.youtube.com/watch?v=RfWgVWGEuGE)
+- [A Brief History Of Spotify: Gustav Söderström (2019)](https://www.youtube.com/watch?v=jTM7ZCKEUGM)
 
 ## Images
 
