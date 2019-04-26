@@ -1,8 +1,6 @@
 # [Blockchain](http://en.wikipedia.org/wiki/Blockchain)
 
-[This](https://www.youtube.com/watch?v=3aJI1ABdjQk) was a great video intro to the blockchain.
-
-In short, blockchain is a [immutable linked list of hashes](https://www.quora.com/Is-a-blockchain-essentially-a-linked-list?share=1). Which can be used to solve the double spending problem in cryptocurrencies using proof of work and a persistent chain of records (blocks mined).
+In short, blockchain is a [immutable linked list of hashes](https://www.quora.com/Is-a-blockchain-essentially-a-linked-list?share=1). Which can be used to solve the double spending problem in cryptocurrencies using proof of work (or other methods) and a persistent chain of records (blocks mined).
 
 ## Consensus algorithms
 
@@ -20,6 +18,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 
 ## Links
 
+- [Let's build a blockchain! — A mini-cryptocurrency in Ruby (Haseeb Qureshi) (2017)](https://www.youtube.com/watch?v=3aJI1ABdjQk) - Great intro to blockchain.
 - [What is blockchain](https://oleganza.com/all/what-is-blockchain/)
 - [18 Blockchain Predictions for 2018](https://media.consensys.net/18-predictions-for-2018-7a376ea7bd4b)
 - [Learn Blockchain in 2 months](https://github.com/llSourcell/Learn_Blockchain_in_2_months#readme)

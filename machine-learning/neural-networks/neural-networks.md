@@ -1,7 +1,5 @@
 # Neural networks
 
-[This](https://www.youtube.com/watch?v=aircAruvnKk) is a great introduction.
-
 ## Notes
 
 - Neural Networks are great identifying patterns in data. As a classic example, if you wanted to predict housing prices, you could build a data set that maps features about houses (square feet, location, proximity to Caltrain, etc) onto their actual price, and then train a network to recognize the complex relationship between features and pricing. Training happens by feeding the network features, letting it make a guess about the price, and then correcting the guess (backpropagation).
@@ -9,6 +7,7 @@
 
 ## Links
 
+- [But what is a Neural Network? | Deep learning, chapter 1 (2017)](https://www.youtube.com/watch?v=aircAruvnKk)
 - [A Neural Network Playground](https://playground.tensorflow.org)
 - [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
 - [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900)

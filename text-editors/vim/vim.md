@@ -10,7 +10,7 @@ I also use a little trick where I change the cursor from thin block in insert mo
 
 ## Notes
 
-- I can profile vim startup time with [this](https://github.com/tweekmonster/startuptime.vim).
+- I can profile vim startup time with [startuptime](https://github.com/tweekmonster/startuptime.vim).
 - I can run `:CheckHealth` to see if there is anything wrong with my installation (only Neovim).
 - Get plugins that meet your needs.
 - You're more likely to find useful plugins if you approach it the other way around: I want to do X, vim can't do it nicely by itself, which plugin can help me do it.
