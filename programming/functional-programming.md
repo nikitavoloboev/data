@@ -27,6 +27,7 @@
 - [Selective Applicative Functors](https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors.pdf) - Declare Your Effects Statically, Select Which to Execute Dynamically.
 - [What makes a function pure? (2018)](https://blog.kubukoz.com/what-makes-a-function-pure)
 - [Foundation of Functional Programming Course (2019)](https://github.com/julien-truffaut/fp-foundation#readme)
+- [Theory of functional programming with Eric Normand (2019)](https://lispcast.com/theory-functional-programming-0003/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com)
 
 ## Images
 

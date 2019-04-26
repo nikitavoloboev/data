@@ -394,6 +394,7 @@
     - [Netherlands](travel/visited/netherlands.md)
     - [Japan](travel/visited/japan.md)
     - [United Kingdom](travel/visited/united-kingdom.md)
+    - [Germany](travel/visited/germany.md)
 - [Business](business/business.md)
   - [Startups](business/startups/startups.md)
     - [Startup funding](business/startups/startup-funding.md)

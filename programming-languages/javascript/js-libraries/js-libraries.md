@@ -35,6 +35,10 @@
 - [Storeon](https://github.com/ai/storeon) - Tiny event-based Redux-like state manager for React and Preact.
 - [Overstated](https://github.com/fabiospampinato/overstated) - React state management library that's delightful to use, without sacrificing performance or scalability.
 
+## API bindings
+
+- [NodeJS Instagram private API client](https://github.com/dilame/instagram-private-api)
+
 ## Other
 
 - [micro github](https://github.com/mxstbr/micro-github) - Tiny microservice that makes adding authentication with GitHub to your application easy.

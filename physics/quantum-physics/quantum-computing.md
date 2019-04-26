@@ -6,3 +6,4 @@
 - [Curry](https://github.com/LSaldyt/curry) - Prototype for a quantum probabilistic programming language.
 - [How the quantum search algorithm works (2019)](https://quantum.country/search) ([HN](https://news.ycombinator.com/item?id=19684141))
 - [learn-quantum](https://github.com/unixpickle/learn-quantum) - Learning about quantum computing.
+- [Arrow of Time and its Reversal on IBM Quantum Computer](https://arxiv.org/pdf/1712.10057.pdf)

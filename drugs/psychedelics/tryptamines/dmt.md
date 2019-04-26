@@ -41,3 +41,4 @@
 - [How to Have the Best DMT Experience: 5 Necessary Steps To Prepare Yourself](https://highexistence.com/5-steps-preparing-spiritual-dmt-ceremony/)
 - [Changa: Smoking DMT infused into Ayahuasca and other Herbs](http://julianpalmerism.com/changa/)
 - [GordoTEK Organic Chemistry Extraction with FAQ (2019)](https://www.youtube.com/watch?v=pLcC94Qbzz8)
+- [The Tao of Rue Extraction](https://wiki.dmt-nexus.me/The_Tao_of_Rue_Extraction)
