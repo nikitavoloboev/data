@@ -10,3 +10,8 @@ I use [many CLI tools](https://github.com/nikitavoloboev/dotfiles/blob/master/ni
 - [Awesome Console Services](https://github.com/chubin/awesome-console-services#readme)
 - [tldr](https://github.com/tldr-pages/tldr) - Collection of simplified and community-driven man pages.
 - [Awesome jq](https://github.com/fiatjaf/awesome-jq#readme) - Curated list of awesome things built with the JSON processor and turing-complete functional language jq.
+- [cli.fan blog](https://cli.fan/posts/introduction/) - [Introduction](https://cli.fan/posts/introduction/).
+- [One Things Well blog](https://onethingwell.org/) - Weblog about simple, useful software.
+- [Terminals Are Sexy](https://terminalsare.sexy/) - Curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [Inconsolation](https://inconsolation.wordpress.com/) - Adventures with lightweight and minimalist software for Linux.
+- [Arabesque](https://sanctum.geek.nz/arabesque/) - Systems, Tools, and Terminal Science.

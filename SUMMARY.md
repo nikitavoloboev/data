@@ -491,6 +491,7 @@
 - [API](api/api.md)
 - [Distributed systems](distributed-systems/distributed-systems.md)
   - [RPCs](distributed-systems/rpcs.md)
+  - [CRDTs](distributed-systems/crdt.md)
   - [ZeroMQ](distributed-systems/zeromq.md)
 - [Backups](backups/backups.md)
 - [Space](space/space.md)

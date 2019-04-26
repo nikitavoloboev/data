@@ -38,3 +38,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Scaling a react/redux codebase for multiple platforms (2019)](https://erock.io/scaling-js-codebase-multiple-platforms/)
 - [Redux Loop](https://github.com/redux-loop/redux-loop) - Library that ports Elm's effect system to Redux.
 - [Redux side effects and me (2017)](https://medium.com/magnetis-backstage/redux-side-effects-and-me-89c104a4b149)
+- [Redux without the sanity checks in a single file. Don't use this, use normal Redux. :-)](https://gist.github.com/gaearon/ffd88b0e4f00b22c3159)
