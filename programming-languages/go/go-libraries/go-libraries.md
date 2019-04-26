@@ -21,6 +21,7 @@
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance.
 - [Gramework](https://github.com/gramework/gramework) - Fast and Reliable Golang Web Framework.
 - [Vugu](https://github.com/vugu/vugu) - Modern UI library for Go+WebAssembly (experimental).
+- [Coco](https://github.com/mrmiguu/coco) - Golang WebAssembly Framework.
 
 ## GraphQL
 

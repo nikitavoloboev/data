@@ -61,6 +61,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [wallabag](https://github.com/wallabag/wallabag) - Self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [Project Iris](http://iris.karalabe.com/) - Completely decentralized cloud messaging.
 - [yq](https://github.com/mikefarah/yq) - Lightweight and portable command-line YAML processor.
+- [Replies](https://replies.io/index.html) - Helps to reduce the effort required to process customer enquiries to a minimum. Numerous functions optimize the entire process - from receiving to resolving the request.
 
 ## Notes
 

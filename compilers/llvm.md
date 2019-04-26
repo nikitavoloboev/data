@@ -7,3 +7,4 @@
 - [Souper](https://github.com/google/souper) - Superoptimizer for LLVM IR.
 - [Mull](https://github.com/mull-project/mull) - Mutation testing system built on top of LLVM.
 - [LLVM Tutorial: Table of Contents](https://llvm.org/docs/tutorial/)
+- [Compiler basics (3): LLVM (2019)](http://notes.eatonphil.com/compiler-basics-llvm.html)

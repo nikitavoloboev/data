@@ -15,3 +15,4 @@ I especially like the distinction of distributing content over distributing link
 - [Share files via IPFS](https://github.com/ipfs-shipyard/ipfs-share-files)
 - [IPFS Collaborative Notebook for Research](https://github.com/ipfs/notes)
 - [gx](https://github.com/whyrusleeping/gx) - Packaging tool built around the distributed, content addressed filesystem IPFS.
+- [Radicle](http://www.radicle.xyz/) - Peer-to-peer stack for code collaboration.
