@@ -10,3 +10,4 @@
 - [React without JavaScript: ClojureScript, Reagent, Figwheel (2018)](https://www.youtube.com/watch?v=R07s6JpJICo)
 - [Planck](https://github.com/planck-repl/planck) - Stand-alone ClojureScript REPL.
 - [Code-Splitting ClojureScript (2019)](https://code.thheller.com/blog/shadow-cljs/2019/03/03/code-splitting-clojurescript.html)
+- [learn re-frame](https://www.learnreframe.com/) - Paid course.

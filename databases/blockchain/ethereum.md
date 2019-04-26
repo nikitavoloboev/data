@@ -18,3 +18,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
   - [Augur Today](http://www.augur.today/)
 - [Drizzle](https://github.com/trufflesuite/drizzle) - Reactive Ethereum datastore for dapp UIs.
 - [Status](https://github.com/status-im/status-react) - Mobile Ethereum Operating System.
+- [EthHub](https://ethhub.io/) - The goal of EthHub is to provide a single source for essential Ethereum information.
