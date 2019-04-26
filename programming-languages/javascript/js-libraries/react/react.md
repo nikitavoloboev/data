@@ -62,3 +62,4 @@
 - [Scheduling in React (2019)](https://philippspiess.com/scheduling-in-react/)
 - [Writing Resilient Components (2019)](https://overreacted.io/writing-resilient-components/)
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture#readme) - Description of React's new core algorithm, React Fiber.
+- [Router5](https://github.com/router5/router5) - Flexible and powerful universal routing solution.

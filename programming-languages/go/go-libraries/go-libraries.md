@@ -144,6 +144,7 @@
 - [afero](https://github.com/spf13/afero) - FileSystem Abstraction System for Go.
 - [Filet](https://github.com/Flaque/filet) - Small temporary file utility for Go testing.
 - [Jingo](https://github.com/bet365/jingo) - Provides the ability to encode golang structs to a buffer as JSON very quickly.
+- [goldmark](https://github.com/yuin/goldmark) - Markdown parser written in Go. Easy to extend, standard compliant, well structured.
 
 ## Links
 
