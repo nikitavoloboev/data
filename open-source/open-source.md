@@ -28,3 +28,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Code Shelter](https://www.codeshelter.co/) - Maintainer Community for Abandoned FOSS Projects.
 - [IssueHunt](https://issuehunt.io/) - Reward project owners and developers who maintain important open-source software in the internet stack.
 - [Gitcoin](https://gitcoin.co/) - Lets you get paid for working on open source software.
+- [How to maintain a bunch of open source projects (2019)](https://macwright.org/2019/03/28/oss-at-scale.html)

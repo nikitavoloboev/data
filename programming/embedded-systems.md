@@ -15,3 +15,4 @@
 - [MicroPython](https://github.com/micropython/micropython) - Lean and efficient Python implementation for microcontrollers and constrained systems.
 - [What's your preferred embedded/application scripting language? (2019)](https://lobste.rs/s/jtrbrj/what_s_your_preferred_embedded)
 - [Bare-metal and Operating System development tutorials in Rust on the Raspberry Pi 3](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
+- [Embedded Rust Book](https://rust-embedded.github.io/book/intro/index.html) - Introductory book about using the Rust Programming Language on "Bare Metal" embedded systems, such as Microcontrollers.

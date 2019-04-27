@@ -255,6 +255,7 @@
   - [LLVM](compilers/llvm.md)
   - [Build systems](compilers/build-systems.md)
 - [Physics](physics/physics.md)
+  - [Classical mechanics](physics/classical-mechanics.md)
   - [Quantum physics](physics/quantum-physics/quantum-physics.md)
     - [Quantum computing](physics/quantum-physics/quantum-computing.md)
   - [String theory](physics/string-theory.md)
