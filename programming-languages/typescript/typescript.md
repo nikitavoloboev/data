@@ -42,3 +42,4 @@
 - [Collection of essential TypeScript types](https://github.com/sindresorhus/type-fest)
 - [Be Super with TypeScript and Jared Palmer episode (2019)](https://overcast.fm/+N_6KEDwFo)
 - [typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
+- [TSdx](https://github.com/palmerhq/tsdx) - Zero-config CLI for TypeScript package development.

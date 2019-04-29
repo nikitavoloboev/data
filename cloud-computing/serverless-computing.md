@@ -8,3 +8,4 @@
 - [serverless-chrome](https://github.com/adieuadieu/serverless-chrome) - Run headless Chrome/Chromium on AWS Lambda (maybe Azure, & GCP later).
 - [Space Cloud](https://github.com/spaceuptech/space-cloud) - Open source, web server that provides instant Realtime APIs on any database of your choice.
 - [ƒun](https://github.com/zeit/fun) - Local serverless function λ development runtime.
+- [faast.js](https://faastjs.org/) - Serverless batch computing made simple.

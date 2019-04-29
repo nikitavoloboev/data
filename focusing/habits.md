@@ -26,7 +26,7 @@ I use [Siri Shortcuts](https://github.com/nikitavoloboev/my-ios#shortcuts) for m
 
 `Walk / Run / Cycle` is marked as done when I spent at least 50 minutes on a workout of either walking, running or cycling. I start my workouts from my watch and usually listen to audiobooks or podcasts in the process.
 
-`Workout / Yoga` is marked as done when I spent this amount of minutes on workouts via [Streaks Workout](https://streaksworkout.com) which includes some bodyweight exercises I like doing or the time I spent doing yoga with [Down Dog](https://www.downdogapp.com).
+`Workout / Yoga` is marked as done when I spent at least 15 minutes on workouts via [Streaks Workout](https://streaksworkout.com) (bodyweight exercises) or the time I spent doing yoga with [Down Dog](https://www.downdogapp.com).
 
 `12H Ideas/Learn` is marked as done when I spent at least 12 hours of my day on activities I find most useful to my life, ideas & learning. Ideas is a rather broad term and includes all projects I care about completing. I track all time in [Timing](../macOS/apps/timing.md) which lets me see where I really spend my time & adjust accordingly.
 

@@ -22,3 +22,4 @@
 - [Table of Disruptive Technologies](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/enterprise-office/public/Table-of-Disruptive-Technologies.pdf)
 - [The Humane Representation of Thought (2014)](https://vimeo.com/115154289)
 - [Rutger Bregman - “Utopia for Realists” and Big Ideas for an Equitable Economy (2019)](https://www.youtube.com/watch?v=QbTWxFwuQtM)
+- [Mark Zuckerberg & Yuval Noah Harari in Conversation (2019)](https://www.youtube.com/watch?v=Boj9eD0Wug8)

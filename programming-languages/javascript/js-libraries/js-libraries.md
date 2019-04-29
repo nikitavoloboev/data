@@ -81,3 +81,4 @@
 - [Cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing.
 - [Oboe.js](https://github.com/jimhigson/oboe.js) - Streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
 - [Choices.js](https://github.com/jshjohnson/Choices) - Vanilla JS customisable select box/text input plugin.
+- [Shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app.

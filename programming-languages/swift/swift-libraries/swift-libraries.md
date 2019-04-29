@@ -18,6 +18,7 @@
 - [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit) - Banner presenter library for iOS.
 - [Sizes](https://github.com/marcosgriselli/Sizes) - View your app on different device and font sizes.
 - [MagazineLayout](https://github.com/airbnb/MagazineLayout) - Collection view layout capable of laying out views in vertically scrolling grids and lists.
+- [Stevia](https://github.com/freshOS/Stevia) - View Layout library for iOS.
 
 ## Web
 
@@ -84,3 +85,4 @@
 - [SwiftMetrics](https://github.com/apple/swift-metrics) - Metrics API package for Swift.
 - [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize UserDefaults over iCloud.
 - [Sweep](https://github.com/JohnSundell/Sweep) - Fast and powerful Swift string scanning made simple.
+- [KeyboardLayoutGuide](https://github.com/freshOS/KeyboardLayoutGuide) - Apple's missing KeyboardLayoutGuide.

@@ -13,6 +13,7 @@ I track [all the games I have played](https://www.grouvee.com/user/nikivi/shelve
 ## Awesome Online games
 
 - [WikiBattle](https://wikibattle.me/) - 1v1 race who first reaches a randomly selected article.
+- [A Dark Room](http://adarkroom.doublespeakgames.com/)
 
 ## Awesome OSS games
 
