@@ -22,7 +22,11 @@ I use [Siri Shortcuts](https://github.com/nikitavoloboev/my-ios#shortcuts) for m
 
 ## Other habits
 
-Activity rings & Training are autofilled for me from Apple health data. My current calorie goal is 750 calories with fixed 30 min workout & 12H standing goals. Workout / Yoga Training minutes are set to amount of minutes I worked out with [Streaks Workout](https://streaksworkout.com) which includes some bodyweight exercises I like doing or the time I spent doing yoga with [Down Dog](https://www.downdogapp.com).
+`Activity rings` are autofilled for me from Apple health data and is marked as done when all the ring goals are complete. My current calorie goal is 750 calories with fixed 30 min workout & 12H standing goals.
+
+`Walk / Run / Cycle` is marked as done when I spent at least 50 minutes on a workout of either walking, running or cycling. I start my workouts from my watch and usually listen to audiobooks or podcasts in the process.
+
+`Workout / Yoga` is marked as done when I spent this amount of minutes on workouts via [Streaks Workout](https://streaksworkout.com) which includes some bodyweight exercises I like doing or the time I spent doing yoga with [Down Dog](https://www.downdogapp.com).
 
 `12H Ideas/Learn` is marked as done when I spent at least 12 hours of my day on activities I find most useful to my life, ideas & learning. Ideas is a rather broad term and includes all projects I care about completing. I track all time in [Timing](../macOS/apps/timing.md) which lets me see where I really spend my time & adjust accordingly.
 
