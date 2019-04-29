@@ -19,3 +19,4 @@ I try to give my full attention to any ideas I am working on.
 - [What are some good tiny projects for learning a language or technique? (2019)](https://lobste.rs/s/twzcc6/what_are_some_good_tiny_projects_for)
 - [List of future of programming projects](https://github.com/pel-daniel/mind-bicyles#readme)
 - [App Ideas Collection](https://github.com/florinpop17/app-ideas#readme)
+- [Ask HN: Are you put off building something because it already exists? (2019)](https://news.ycombinator.com/item?id=19774997)
