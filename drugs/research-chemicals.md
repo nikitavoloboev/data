@@ -17,6 +17,7 @@
 - 2-ce (most introspective)
 - 4-FMA
 - 6-APB
+- 4-HO-DET (seems interesting at [higher doses](https://www.reddit.com/r/researchchemicals/comments/bippwv/4sub_tryptamine_intensity_ranking/))
 
 ## Links
 

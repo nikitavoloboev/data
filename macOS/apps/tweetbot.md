@@ -8,7 +8,7 @@ Twitter is my primary way to stay up to date on things and is my favorite social
 
 I split the app into 3 columns on mac. On iOS, I only read through my [Top list](https://twitter.com/nikitavoloboev/lists/top).
 
-- First column: Mentions / Messages / [Top 3](https://twitter.com/nikitavoloboev/lists/top-3)
+- First column: Mentions / Messages
 - Second column: [Top](https://twitter.com/nikitavoloboev/lists/top). Tweets with highest value to me.
 - Third column: [Top 2](https://twitter.com/nikitavoloboev/lists/top-2)
 

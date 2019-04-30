@@ -210,6 +210,7 @@ Some simple rules to follow when doing things.
 ## News
 
 - Reduce noise. Don't follow any person or content I have no interest in.
+- Don't have more than 2 level of separation for filtering. (i.e. Top 1 / Top 2 lists on Twitter but no Top 3). Filter aggressively. Optimize for actionable/useful signal.
 
 ## Social media
 
