@@ -16,3 +16,4 @@ One thing I realized after using Timing for over 2 years is that for a long time
 
 - Can press ⌥ + → in `Review` tab to expand all items fully (assuming I selected the items I want to expand). Can `CMD+A` to select all projects beforehand.
 - Running `defaults write info.eurocomp.Timing2 letTaskSuggestionsOverrideExistingProjects -bool true` would make task suggestions independent of current project.
+- `defaults write info.eurocomp.Timing2 TaskActivitySuggestionsTableViewController.selectFirstSuggestionByDefault -bool true` makes the first suggestion on by default.
