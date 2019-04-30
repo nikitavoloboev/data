@@ -18,3 +18,4 @@
 - [RLlib](https://ray.readthedocs.io/en/latest/rllib.html) - Open-source library for reinforcement learning that offers both high scalability and a unified API for a variety of applications.
 - [Stable Baselines](https://github.com/hill-a/stable-baselines) - Set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
 - [pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c) - PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for Deep Reinforcement Learning".
+- [The Power of Self-Learning Systems (2019)](https://www.youtube.com/watch?v=3N9phq_yZP0)
