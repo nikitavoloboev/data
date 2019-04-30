@@ -86,3 +86,4 @@
 - [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize UserDefaults over iCloud.
 - [Sweep](https://github.com/JohnSundell/Sweep) - Fast and powerful Swift string scanning made simple.
 - [KeyboardLayoutGuide](https://github.com/freshOS/KeyboardLayoutGuide) - Apple's missing KeyboardLayoutGuide.
+- [IkigaJSON](https://github.com/Ikiga/IkigaJSON) - High performance JSON library in Swift.

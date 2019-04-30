@@ -391,6 +391,7 @@
   - [Backpacks](travel/backpacks.md)
   - [Finding home](travel/finding-home.md)
   - [Transportation](travel/transportation.md)
+    - [Bikes](travel/bikes.md)
   - [Meeting people](travel/meeting-people.md)
   - [Visited](travel/visited/visited.md)
     - [Netherlands](travel/visited/netherlands.md)

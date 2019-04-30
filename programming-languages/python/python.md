@@ -22,3 +22,4 @@
 - [Pyright](https://github.com/Microsoft/pyright) - Static type checker for the Python language.
 - [cpython](https://github.com/python/cpython) - Python programming language source code.
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again.
+- [Python at Netflix (2019)](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e)
