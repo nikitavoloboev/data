@@ -33,6 +33,7 @@ Below is a list of extensions I use.
 ## Git
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Visualize code authorship at a glance via Git blame annotations and code lens.
+- [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Review and manage your GitHub pull requests directly in VS Code.
 
 ## LaTeX
 
@@ -51,6 +52,7 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [Protobuf 3 support](https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3)
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
 - [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative URL paths from files in the current workspace.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.
