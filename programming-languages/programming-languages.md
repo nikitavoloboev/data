@@ -25,3 +25,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Programming Languages Zoo](https://github.com/andrejbauer/plzoo#readme) - Collection of implementations of miniature programming languages.
 - [Thinking in a Language (2019)](https://maxhallinan.com/posts/2019/02/15/thinking-in-a-language/)
 - [What are some niche features you'd like to see in more languages? (2019)](https://lobste.rs/s/mcwvhn/what_are_some_niche_features_you_d_like_see)
+- [Ask HN: What programming language should I learn next? (2019)](https://news.ycombinator.com/item?id=19504453)
