@@ -28,6 +28,7 @@
 - [What makes a function pure? (2018)](https://blog.kubukoz.com/what-makes-a-function-pure)
 - [Foundation of Functional Programming Course (2019)](https://github.com/julien-truffaut/fp-foundation#readme)
 - [Theory of functional programming with Eric Normand (2019)](https://lispcast.com/theory-functional-programming-0003/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com)
+- [Applied Functional Programming Course](https://github.com/qfpl/applied-fp-course)
 
 ## Images
 

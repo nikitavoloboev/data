@@ -13,6 +13,14 @@ Below is a list of plugins I use.
 
 - [Linter](https://github.com/SublimeLinter/SublimeLinter) - Code linting framework.
 
+## Nix
+
+- [SublimeNix](https://github.com/wmertens/sublime-nix) - Nix syntax highlighting.
+
+## LaTeX
+
+- [LateXTools](https://github.com/SublimeText/LaTeXTools) - Provides several features that simplify working with LaTeX files.
+
 ## Looks
 
 - [Ayu theme](https://github.com/dempfi/ayu)
@@ -54,7 +62,3 @@ Below is a list of plugins I use.
 
 - [Git](https://github.com/kemayo/sublime-text-git) - Git integration.
 - [GitGutter](https://github.com/jisaacks/GitGutter) - See git diff in gutter.
-
-## Nix
-
-- [SublimeNix](https://github.com/wmertens/sublime-nix) - Nix syntax highlighting.

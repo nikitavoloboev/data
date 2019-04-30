@@ -35,10 +35,6 @@ Below is a list of extensions I use.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Visualize code authorship at a glance via Git blame annotations and code lens.
 - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Review and manage your GitHub pull requests directly in VS Code.
 
-## LaTeX
-
-- [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - Provide all-in-one features and utilities for LaTeX typesetting.
-
 ## Deploy
 
 - [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) - Develop, deploy and debug Kubernetes applications.
@@ -182,6 +178,10 @@ Below is a list of extensions I use.
 ## Deno
 
 - [Deno](https://marketplace.visualstudio.com/items?itemName=justjavac.vscode-deno) - Adds Deno support for VS Code using the TypeScript Deno language service plugin.
+
+## LaTeX
+
+- [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - Provide all-in-one features and utilities for LaTeX typesetting.
 
 ## Themes
 
