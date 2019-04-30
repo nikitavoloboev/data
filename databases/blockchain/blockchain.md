@@ -16,6 +16,10 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Cardano](https://github.com/input-output-hk/cardano-sl/) - Cryptographic currency implementing Ouroboros PoS protocol.
 - [Iden3](https://iden3.io/) - Decentralized identity management solution.
 
+## Notes
+
+- [As blockchain scalability gets better and better, and UX improves and fees drop as a result, this will become a bigger and bigger part of the story.](https://twitter.com/vitalikbuterin/status/1072158957999771648)
+
 ## Links
 
 - [Let's build a blockchain! — A mini-cryptocurrency in Ruby (Haseeb Qureshi) (2017)](https://www.youtube.com/watch?v=3aJI1ABdjQk) - Great intro to blockchain.
