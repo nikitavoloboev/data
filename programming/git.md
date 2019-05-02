@@ -39,3 +39,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did.
 - [git-rs](https://github.com/chrisdickinson/git-rs) - Implementing git in rust for fun and education.
 - [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide#readme)
+- [The Many Benefits of Using a Monorepo (2019)](https://pspdfkit.com/blog/2019/benefits-of-a-monorepo/) ([HN](https://news.ycombinator.com/item?id=19795482))
