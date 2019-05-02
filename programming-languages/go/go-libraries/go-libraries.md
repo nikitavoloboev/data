@@ -146,6 +146,7 @@
 - [Filet](https://github.com/Flaque/filet) - Small temporary file utility for Go testing.
 - [Jingo](https://github.com/bet365/jingo) - Provides the ability to encode golang structs to a buffer as JSON very quickly.
 - [goldmark](https://github.com/yuin/goldmark) - Markdown parser written in Go. Easy to extend, standard compliant, well structured.
+- [wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
 
 ## Links
 

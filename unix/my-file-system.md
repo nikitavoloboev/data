@@ -42,7 +42,7 @@ I then filter contents of the folder with [this workflow](https://github.com/nik
 
 ## ~/src/orgs
 
-Inside this folder I keep all code from orgs I am working on.
+Inside this folder I keep all code from orgs I am working or worked on.
 
 ```Bash
 ~/src/orgs

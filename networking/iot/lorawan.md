@@ -29,3 +29,4 @@
 - [Extending LoRaWAN's reach - Nicolas Sornin (Semtech) - The Things Conference 2019](https://www.youtube.com/watch?v=pHq7_rgDyFA)
 - [From zero to LoRaWAN in a weekend (2018)](https://github.com/ttn-zh/ic880a-gateway/wiki)
 - [LoRa Server](https://github.com/brocaar/loraserver) - Open-source LoRaWAN network-server.
+- [LoRaWAN and the Ocean Cleanup - Jasper den Hartog (MCS) (2019)](https://www.youtube.com/watch?v=E5huiCbVR5A)

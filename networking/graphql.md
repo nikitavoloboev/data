@@ -22,3 +22,4 @@
 - [Prime](https://github.com/birkir/prime) - Standalone, self-hosted, headless CMS with a GraphQL interface powered by TypeScript.
 - [graphql-yoga](https://github.com/prisma/graphql-yoga) - Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.
 - [graphql-hooks](https://github.com/nearform/graphql-hooks) - Minimal hooks-first GraphQL client.
+- [Building the New facebook.com with React, GraphQL and Relay (2019)](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/)
