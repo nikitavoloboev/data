@@ -21,3 +21,4 @@
 - [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch) - Contains code for 4-8 GPU training of BigGANs from Large Scale GAN Training for High Fidelity Natural Image Synthesis.
 - [Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch#readme) - Curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 - [NimTorch](https://github.com/fragcolor-xyz/nimtorch) - Nim frontend for pytorch, aiming to be mostly auto-generated and internally using ATen.
+- [PyTorch adds new dev tools as it hits production scale (2019)](https://ai.facebook.com/blog/pytorch-adds-new-dev-tools-as-it-hits-production-scale/)
