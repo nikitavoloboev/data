@@ -241,6 +241,7 @@
     - [Docker](operating-systems/containers/docker.md)
   - [BSD](operating-systems/bsd/bsd.md)
   - [Windows](operating-systems/windows.md)
+  - [Fuchsia OS](operating-systems/fuchsia-os.md)
 - [Package managers](package-managers/package-managers.md)
   - [Nix](package-managers/nix/nix.md)
     - [Nix Darwin](package-managers/nix/nix-darwin.md)

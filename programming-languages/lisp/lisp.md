@@ -17,3 +17,4 @@
 - [Build me a LISP](https://kirit.com/Build%20me%20a%20LISP) ([HN](https://news.ycombinator.com/item?id=19121828))
 - [Wasp](https://github.com/wasplang/wasp) - Lisp programming language for extremely performant and concise web assembly modules.
 - [Lisp Koans](https://github.com/google/lisp-koans) - Language learning exercise in the same vein as the ruby koans, python koans and others. ([HN](https://news.ycombinator.com/item?id=19313850))
+- [I Built a Lisp Compiler](https://mpov.timmorgan.org/i-built-a-lisp-compiler/) ([Lobsters](https://lobste.rs/s/rp0xy0/i_built_lisp_compiler))

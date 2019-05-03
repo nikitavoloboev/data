@@ -25,7 +25,6 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Apprise](https://github.com/caronc/apprise) - Push Notifications that work with just about every platform.
 - [Bloaty](https://github.com/google/bloaty) - Size profiler for binaries.
 - [mdck](https://github.com/ctm/mdck) - Reports broken links found within md files.
-- [Docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage.
 - [Tiny Letter](https://tinyletter.com)
 - [Loom](https://www.useloom.com/) - New kind of work communication tool that helps you get your message across through instantly shareable videos.
@@ -63,6 +62,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [yq](https://github.com/mikefarah/yq) - Lightweight and portable command-line YAML processor.
 - [Replies](https://replies.io/index.html) - Helps to reduce the effort required to process customer enquiries to a minimum. Numerous functions optimize the entire process - from receiving to resolving the request.
 - [Beehive](https://github.com/muesli/beehive) - Flexible event/agent & automation system with lots of bees.
+- [mrm](https://github.com/sapegin/mrm) - Command line tool to help you keep configuration (package.json, .gitignore, .eslintrc, etc.) of your open source projects in sync.
 
 ## Notes
 

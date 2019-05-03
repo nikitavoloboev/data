@@ -43,3 +43,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Top Paying Tech Companies of 2018](https://www.levels.fyi/2018/)
 - [Ask HN: Ex-FAANG developers, where are you now and why? (2018)](https://news.ycombinator.com/item?id=18192534)
 - [Don't Call Yourself A Programmer, And Other Career Advice (2011)](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+- [Your First 60 Days at an Engineering Job (2015)](https://code.dblock.org/2015/04/23/your-first-60-days-at-an-engineering-job.html)
