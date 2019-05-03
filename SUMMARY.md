@@ -340,6 +340,7 @@
     - [CSS Flexbox](front-end/css/css-flexbox.md)
 - [Security](security/security.md)
   - [Cryptography](security/cryptography/cryptography.md)
+    - [Encryption](security/cryptography/encryption.md)
     - [Zero knowledge proofs](security/cryptography/zero-knowledge-proofs.md)
 - [Social networks](social-networks/social-networks.md)
   - [Scuttlebutt](social-networks/scuttlebutt.md)

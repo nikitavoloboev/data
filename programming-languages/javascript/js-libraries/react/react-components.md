@@ -32,6 +32,7 @@
 - [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy. Reduce your bundle size without stress.
 - [react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - Tiny but mighty list virtualization library, with zero dependencies.
 - [React Morph](https://github.com/brunnolou/react-morph) - Morphing UI transitions made simple.
+- [React InstantSearch](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia.
 
 ## Links
 
