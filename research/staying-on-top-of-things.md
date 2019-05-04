@@ -76,6 +76,7 @@ And these Discord servers:
 
 - [Awesome websites](https://github.com/learn-anything/websites#readme)
 - [Atlas Obscura](https://www.atlasobscura.com/)
+- [Hackaday](https://hackaday.com/)
 
 ## Notes
 
