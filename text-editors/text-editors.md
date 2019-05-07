@@ -19,3 +19,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 ## Links
 
 - [ycmd](https://github.com/Valloric/ycmd) - Code-completion & comprehension server.
+- [Open source collaborative text editors (2019)](https://juretriglav.si/open-source-collaborative-text-editors/) ([HN](https://news.ycombinator.com/item?id=19845776))

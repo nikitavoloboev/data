@@ -362,6 +362,7 @@
     - [WireGuard](networking/vpn/wireguard.md)
   - [GraphQL](networking/graphql.md)
   - [SSH](networking/ssh.md)
+  - [TLS](networking/tls.md)
   - [Domains](networking/domains.md)
   - [QUIC](networking/quic.md)
   - [WebSocket](networking/websocket.md)
