@@ -9,3 +9,7 @@
 ### Other
 
 - [Keybase](https://github.com/keybase/client) - Go Library, Client, Service, OS X, iOS, Android, Electron.
+
+## Links
+
+- [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture#readme)

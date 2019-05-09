@@ -11,6 +11,7 @@
 - [ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration.
 - [go-sh](https://github.com/codeskyblue/go-sh) - Like python-sh, for easy call shell with golang.
 - [Docli](https://github.com/celicoo/docli) - Declarative language for describing command-line interfaces.
+- [uilive](https://github.com/gosuri/uilive) - Go library for updating terminal output in realtime.
 
 ## Web
 
