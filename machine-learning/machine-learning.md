@@ -84,3 +84,4 @@
 - [Deploying Deep Learning](https://github.com/dusty-nv/jetson-inference#readme) - Training guide for inference and deep vision runtime library for NVIDIA DIGITS and Jetson Xavier/TX1/TX2.
 - ["Adversarial Machine Learning" with Ian Goodfellow (2018)](https://www.youtube.com/watch?v=3-qazNQS2JU)
 - [HN: Yann LeCun, Geoffrey Hinton and Yoshua Bengio win Turing Award (2019)](https://news.ycombinator.com/item?id=19499515)
+- [Large scale K-means and K-nn implementation on NVIDIA GPU / CUDA](https://github.com/src-d/kmcuda)
