@@ -13,3 +13,4 @@
 - [Pre-trained TensorFlow.js models](https://github.com/tensorflow/tfjs-models)
 - [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 - [Easy-TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow#readme) - Simple and comprehensive tutorials in TensorFlow.
+- [TensorFlow Graphics](https://github.com/tensorflow/graphics)

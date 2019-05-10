@@ -15,6 +15,7 @@
 - [TiDB](https://github.com/pingcap/tidb) - Distributed HTAP database compatible with the MySQL protocol.
 - [Bolt](https://github.com/boltdb/bolt) - Pure Go key/value store inspired by Howard Chu's LMDB project.
 - [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
+- [EdgeDB](https://github.com/edgedb/edgedb) - Open-source object-relational database built on top of PostgreSQL.
 
 ## Tools
 

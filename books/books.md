@@ -70,6 +70,7 @@ Below are books I read sorted by year I read them in. The books with links attac
 - [HP Lovecraft](https://www.goodreads.com/author/show/9494.H_P_Lovecraft)
 - [Aleksandr Solzhenitisyn](https://www.goodreads.com/author/show/10420.Aleksandr_Solzhenitsyn)
 - [David Sedaris](https://www.goodreads.com/author/show/2849.David_Sedaris)
+- [Jorge Luis Borges](https://www.goodreads.com/author/show/500.Jorge_Luis_Borges)
 
 ## Recommendations
 

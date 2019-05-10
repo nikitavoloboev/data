@@ -26,3 +26,4 @@
 - [WebAssembly Playground](http://ast.run/)
 - [Wasmer is taking WebAssembly beyond the browser (2019)](https://overcast.fm/+HZUfSYn4E)
 - [Wasmer](https://github.com/wasmerio/python-ext-wasm) - Python extension to run WebAssembly binaries.
+- [WebAssembly Micro Runtime](https://github.com/intel/wasm-micro-runtime) - Standalone WebAssembly (WASM) runtime with a small footprint.
