@@ -1,6 +1,6 @@
 # 2019 April
 
-The last month I was working at Enpicom. It's incredible to see a complex web app (platform) be created in front of your eyes and be a part of building it.
+My last month working at Enpicom. It's incredible to see a complex web app (platform) be created in front of your eyes and be a part of building it.
 
 Aside from that, this will be the month I genuinely start working on LA 1.0
 

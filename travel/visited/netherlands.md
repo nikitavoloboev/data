@@ -10,3 +10,4 @@
 ## Links
 
 - [Private limited company (BV) setup in NL](https://business.gov.nl/starting-your-business/choosing-a-business-structure/private-limited-company/)
+- [The ultimate guide to visiting Amsterdam](https://www.notion.so/chargedtech/The-ultimate-guide-to-visiting-Amsterdam-2002074140be4a12b9e79f75708be171)
