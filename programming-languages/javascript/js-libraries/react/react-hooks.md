@@ -16,3 +16,4 @@
 - [RFC: React Hooks](https://github.com/reactjs/rfcs/pull/68#issuecomment-439314884) - Great discussion on React Hooks proposal.
 - [Flowchart that explains the new lifecycle of a Hooks component](https://github.com/donavon/hook-flow#readme)
 - [React Loops](https://github.com/leebyron/react-loops) - Work alongside React Hooks as part of the novel React Velcro architecture for building sticky, secure user interfaces that don't come apart under pressure.
+- [Fun with React Hooks - Michael Jackson and Ryan Florence (2019)](https://www.youtube.com/watch?v=1jWS7cCuUXw)

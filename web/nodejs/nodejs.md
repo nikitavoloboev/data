@@ -31,3 +31,4 @@
 - [Debugging in 2017 with Node.js](https://www.youtube.com/watch?v=Xb_0awoShR8)
 - [np](https://github.com/sindresorhus/np) - Better npm publish.
 - [Using npm's `ls` command for Fun and Insight (2019)](https://dev.to/bnb/using-npms-ls-command-for-fun-and-insight-5he7)
+- [TSBB](https://github.com/jaywcjlove/tsbb) - Zero-config CLI for TypeScript node.js application development.
