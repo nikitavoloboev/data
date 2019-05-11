@@ -496,7 +496,7 @@
   - [Comics](art/comics.md)
   - [Dancing](art/dancing.md)
   - [Generative art](art/generative-art.md)
-  - [Architecture](art/architecture.md)
+  - [Architecture](art/architecture.md) -[Tattoos](art/tattoos.md)
 - [API](api/api.md)
 - [Distributed systems](distributed-systems/distributed-systems.md)
   - [RPCs](distributed-systems/rpcs.md)
