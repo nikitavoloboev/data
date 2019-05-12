@@ -211,6 +211,7 @@
   - [Processing](programming-languages/processing/processing.md)
   - [Prolog](programming-languages/prolog/prolog.md)
   - [PureScript](programming-languages/purescript/purescript.md)
+  - [Zig](programming-languages/zig/zig.md)
   - [Language Server Protocol](programming-languages/language-server-protocol.md)
 - [Data Science](data-science/data-science.md)
   - [Visualization](data-science/visualization.md)
