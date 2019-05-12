@@ -16,3 +16,4 @@ For writing LaTeX I use [VS Code](../text-editors/vs-code/vs-code.md) and [LaTeX
 - [Engrafo](https://github.com/arxiv-vanity/engrafo) - Convert LaTeX documents into beautiful responsive web pages using LaTeXML.
 - [LaTeX3 Development Repository](https://github.com/latex3/latex3) - Contains development material for LaTeX3.
 - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - Clean pandoc LaTeX template to convert your markdown files to PDF or LaTeX.
+- [KaTeX](https://katex.org/) - Fastest math typesetting library for the web.

@@ -18,6 +18,7 @@
   - [Processes](focusing/processes.md)
   - [Habits](focusing/habits.md)
 - [Knowledge](knowledge/knowledge.md)
+  - [Knowledge graphs](knowledge/knowledge-graphs.md)
 - [Research](research/research.md)
   - [Solving problems](research/solving-problems.md)
   - [Asking questions](research/asking-questions.md)

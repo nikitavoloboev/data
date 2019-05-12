@@ -63,6 +63,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Replies](https://replies.io/index.html) - Helps to reduce the effort required to process customer enquiries to a minimum. Numerous functions optimize the entire process - from receiving to resolving the request.
 - [Beehive](https://github.com/muesli/beehive) - Flexible event/agent & automation system with lots of bees.
 - [mrm](https://github.com/sapegin/mrm) - Command line tool to help you keep configuration (package.json, .gitignore, .eslintrc, etc.) of your open source projects in sync.
+- [Dark](https://darklang.com/) - Holistic programming language, structured editor, and infrastructure, for building backend web services.
 
 ## Notes
 

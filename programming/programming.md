@@ -62,3 +62,4 @@
 - [Teach Yourself Programming in Ten Years (2014)](http://norvig.com/21-days.html)
 - [Rich Hickey on becoming a better developer](https://gist.github.com/prakhar1989/1b0a2c9849b2e1e912fb)
 - [Why programming is difficult](https://joearms.github.io/published/2014-02-07-why-programming-is-difficult.html)
+- [Abstractions (2019)](https://giuseppegurgone.com/abstractions/)

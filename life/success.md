@@ -30,3 +30,4 @@ Success comes from not giving up and doing what you love.
 - [Ask HN: How did you decide what problems to solve in your lifetime? (2019)](https://news.ycombinator.com/item?id=18837334)
 - [Arnold Schwarzenegger Inspiring Speech (2018)](https://www.youtube.com/watch?v=mNDA-o9yJNw)
 - [How To Be Successful (2019)](http://blog.samaltman.com/how-to-be-successful) ([HN](https://news.ycombinator.com/item?id=18992914))
+- [Play Long-term Games With Long-term People](https://startupboy.com/2019/03/19/long-term/)

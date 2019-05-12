@@ -20,3 +20,4 @@ Everything else I try to get from [food](foods.md).
 - [Optimum Nutrition Recommendations](https://nutritionfacts.org/2011/09/12/dr-gregers-2011-optimum-nutrition-recommendations/)
 - [WFPB supplements (2019)](https://www.reddit.com/r/PlantBasedDiet/comments/ac6w9v/vitamins/)
 - [Health benefits of lion's mane mushroom (2018)](https://www.youtube.com/watch?v=p02umCRoFas)
+- [Beginner's Guide to Nootropics](https://www.reddit.com/r/Nootropics/wiki/beginners)
