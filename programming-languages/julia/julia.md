@@ -8,3 +8,4 @@
 - [JuliaInterpreter](https://github.com/JuliaDebug/JuliaInterpreter.jl) - Interpreter for Julia code.
 - [IJulia](https://github.com/JuliaLang/IJulia.jl) - Julia kernel for Jupyter.
 - [A Julia interpreter and debugger (2019)](https://julialang.org/blog/2019/03/debuggers) ([HN](https://news.ycombinator.com/item?id=19455688))
+- [The Julia Express](https://github.com/bkamins/The-Julia-Express) - Concise Julia language introductory manual for programmers.
