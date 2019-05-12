@@ -335,6 +335,7 @@
   - [Progressive Web Apps](web/progressive-web-apps.md)
   - [RSS](web/rss.md)
   - [Web accessibility](web/web-accessibility.md)
+  - [Content management systems](web/cms.md)
 - [Cloud computing](cloud-computing/cloud-computing.md)
   - [Serverless computing](cloud-computing/serverless-computing.md)
   - [AWS](cloud-computing/aws/aws.md)

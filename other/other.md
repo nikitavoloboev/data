@@ -50,3 +50,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ternimal](https://github.com/p-e-w/ternimal) - Simulate a lifeform in the terminal.
 - [Ask HN: Where should I start as a 34-year-old switching to software as a career? (2019)](https://news.ycombinator.com/item?id=19343521)
 - [Documentation for being an Artsy Engineer](https://github.com/artsy/README#readme)
+- [Cai & Jo](https://caiandjo.com/) - Premium paper goods brand.

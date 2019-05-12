@@ -8,3 +8,4 @@
 - [Learn Elixir](https://github.com/dwyl/learn-elixir#readme)
 - [A week with Elixir](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
 - [Achieving 100k connections per second with Elixir (2019)](https://stressgrid.com/blog/100k_cps_with_elixir/)
+- [Binary pattern matching in Elixir with PNG parsing example](https://zohaib.me/binary-pattern-matching-in-elixir/)

@@ -52,3 +52,4 @@
 - [2019 Roadmap for Rust](https://github.com/rust-lang/rfcs/blob/master/text/2657-roadmap-2019.md)
 - [Learning Rust](https://learning-rust.github.io/) - Materials for learning Rust. ([OSS](https://github.com/learning-rust/site))
 - [Rust types cheat sheet](https://upsuper.github.io/rust-cheatsheet/)
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - Collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
