@@ -34,3 +34,5 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [IELE Semantics](https://github.com/runtimeverification/iele-semantics) - Semantics of Virtual Machine for IELE prototype blockchain.
 - [Why Blockchain Could (One Day) Topple Google (2017)](http://rbharath.github.io/why-blockchain-could-one-day-topple-google/)
 - [Squeezer Framework](https://github.com/SqueezerIO/squeezer) - Build serverless dApps.
+- [Castle Island Ventures](http://www.castleisland.vc/) - Venture capital firm focused exclusively on public blockchains.
+- [Zero knowledge podcast](https://www.zeroknowledge.fm/)

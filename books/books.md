@@ -113,6 +113,8 @@ Below are books I read sorted by year I read them in. The books with links attac
 - [Some fiction books](https://paper.dropbox.com/doc/2019-02-19-Books-AX3Tl_vBkHsM6Fh9mn9pM0wOAg-Apo3mY7r8i0Bfsyt3lW7r)
 - [Books I Recommend (2019)](https://blog.jessfraz.com/post/books/)
 - [Miikka Koskinen's reading list](https://miikka.me/reading-list/)
+- [My Favourite Book Recommendations by catonmat](https://catonmat.net/archive?q=books)
+- [Hacker News Books](https://hackernewsbooks.com/) - Dozens of book recommendations delivered straight to your inbox.
 
 ## Links
 

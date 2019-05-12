@@ -9,3 +9,4 @@
 - [Crypto Code Watch](https://cryptocodewatch.com/#stars)
 - [Crypto readings](https://a16z.com/2018/02/10/crypto-readings-resources/)
 - [The Future of Crypto, Capitalism and Governance with Mike Maples and Alok Vasudev (2019)](https://overcast.fm/+LDKcZDbWI)
+- [Bitwise](https://www.bitwiseinvestments.com/) - Leading provider of index and beta cryptoasset funds.

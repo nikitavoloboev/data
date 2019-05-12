@@ -95,6 +95,7 @@
 - [Image](https://github.com/image-rs/image) - Encoding and decoding images in Rust.
 - [fern](https://github.com/daboross/fern) - Simple, efficient logging for Rust.
 - [Runtime](https://github.com/rustasync/runtime) - Empowering everyone to build asynchronous software.
+- [miri](https://github.com/rust-lang/miri) - Interpreter for Rust's mid-level intermediate representation.
 
 ## Cargo Plugins
 

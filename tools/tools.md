@@ -64,6 +64,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Beehive](https://github.com/muesli/beehive) - Flexible event/agent & automation system with lots of bees.
 - [mrm](https://github.com/sapegin/mrm) - Command line tool to help you keep configuration (package.json, .gitignore, .eslintrc, etc.) of your open source projects in sync.
 - [Dark](https://darklang.com/) - Holistic programming language, structured editor, and infrastructure, for building backend web services.
+- [Checkly](https://checklyhq.com/) - Monitor the performance and correctness of your API endpoints & vital site transactions from a single, simple dashboard.
 
 ## Notes
 
