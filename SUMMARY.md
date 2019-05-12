@@ -399,7 +399,7 @@
   - [Backpacks](travel/backpacks.md)
   - [Finding home](travel/finding-home.md)
   - [Transportation](travel/transportation.md)
-    - [Bikes](travel/cycling.md)
+    - [Cycling](travel/cycling.md)
   - [Meeting people](travel/meeting-people.md)
   - [Visited](travel/visited/visited.md)
     - [Netherlands](travel/visited/netherlands.md)
