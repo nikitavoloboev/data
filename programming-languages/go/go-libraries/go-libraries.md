@@ -150,6 +150,7 @@
 - [Jingo](https://github.com/bet365/jingo) - Provides the ability to encode golang structs to a buffer as JSON very quickly.
 - [goldmark](https://github.com/yuin/goldmark) - Markdown parser written in Go. Easy to extend, standard compliant, well structured.
 - [wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
+- [hashmap](https://github.com/cornelk/hashmap) - Golang lock-free thread-safe HashMap optimized for fastest read access.
 
 ## Links
 

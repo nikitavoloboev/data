@@ -86,6 +86,7 @@
   - [CPU](hardware/cpu/cpu.md)
   - [GPU](hardware/gpu/gpu.md)
   - [Neuromorphic Computing](hardware/neuromorphic-computing.md)
+  - [Circuit design](hardware/circuit-design.md)
 - [Math](math/math.md)
   - [Logic](math/logic/logic.md)
     - [Combinatory logic](math/logic/combinatory-logic.md)

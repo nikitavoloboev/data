@@ -14,3 +14,4 @@
 - [FrontendArmory](https://frontarm.com/) - Some great React/JS courses.
 - [The Elements of UI Engineering (2018)](https://overreacted.io/the-elements-of-ui-engineering/)
 - [UI as an afterthought (2019)](https://michel.codes/blogs/ui-as-an-afterthought)
+- [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
