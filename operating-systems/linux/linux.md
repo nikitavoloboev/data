@@ -44,3 +44,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [Sampling CPU profiler for Linux similar to perf](https://github.com/nokia/not-perf)
 - [If you wanted to go from zero to Linux kernel hacker, what route would you take? (2019)](https://lobste.rs/s/b5clu3/if_you_wanted_go_from_zero_linux_kernel)
 - [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
+- [Simple KVM firmware](https://github.com/intel/rust-hypervisor-firmware) - Contains a simple KVM firmware that is designed to be launched from anything that supports loading ELF binaries and running them with the Linux kernel loading standard.

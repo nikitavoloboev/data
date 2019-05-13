@@ -24,3 +24,4 @@ Might give it a go sometime.
 - [Reasonable Emacs config](https://github.com/purcell/emacs.d)
 - [List of people with nice emacs config files](https://github.com/caisah/emacs.dz#readme)
 - [.emacs.el file and other personal Emacs goodies by John Wiegley](https://github.com/jwiegley/dot-emacs)
+- [Emacs Prelude](https://github.com/bbatsov/prelude) - Emacs distribution that aims to enhance the default Emacs experience.
