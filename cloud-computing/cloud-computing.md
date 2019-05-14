@@ -14,6 +14,7 @@
 
 - [Prgmr](https://prgmr.com/xen/) - Linux & BSD virtual private servers.
 - [Digital Ocean](https://www.digitalocean.com/)
+- [Scaleway](https://www.scaleway.com/en/) - Cloud instances delivered in seconds with backup, network and security options.
 
 ## Other
 

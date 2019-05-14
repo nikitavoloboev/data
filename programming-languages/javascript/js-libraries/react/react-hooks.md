@@ -10,6 +10,8 @@
 - [useQueryParams](https://github.com/pbeshai/use-query-params) - React Hook for managing state in URL query parameters with easy serialization.
 - [react-apollo-hooks](https://github.com/trojanowski/react-apollo-hooks) - Use Apollo Client as React hooks.
 - [wouter](https://github.com/molefrog/wouter) - Minimalistic ~1KB routing for React. Nothing else but HOOKS.
+- [useFetch](https://github.com/alex-cory/use-http) - React hook for making isomorphic http requests.
+- [Unform](https://github.com/Rocketseat/unform) - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more.
 
 ## Links
 
