@@ -1,6 +1,6 @@
 # Habits
 
-I use [Streaks](https://streaksapp.com) iOS app to track any new habits I want to add to my life. If any of the habits get 100 consecutive repetitions, I mark the habit as `learned` and focus on new habits I want to add to my life.
+I use [Streaks](https://streaksapp.com) iOS app to track my essential life habits. There are 12 of them & I want to complete them all for a perfect day.
 
 ## Life habits
 

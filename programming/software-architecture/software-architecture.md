@@ -9,6 +9,7 @@
 ### Other
 
 - [Keybase](https://github.com/keybase/client) - Go Library, Client, Service, OS X, iOS, Android, Electron.
+- [Things Network Stack for LoRaWAN V3](https://github.com/TheThingsNetwork/lorawan-stack) - Lovely contribution + github & git flow + good docs.
 
 ## Links
 
