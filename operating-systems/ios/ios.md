@@ -60,3 +60,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [ios-architecture](https://github.com/tailec/ios-architecture) - Collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others.
 - [Bugsnag exception reporter for iOS and macOS](https://github.com/bugsnag/bugsnag-cocoa) - Cocoa library automatically detects crashes and fatal signals in your iOS 8.0+, macOS 10.8+ and tvOS applications.
 - [Mirror of Apple's iOS samples](https://github.com/robovm/apple-ios-samples)
+- [iOS Hacking Resources](https://github.com/Siguza/ios-resources#readme)

@@ -14,11 +14,11 @@ For example, one of these _rules_ is that I need to be proactive with my email a
 
 I keep a private Trello board where I outline things that I want to focus on in life and achieve.
 
-![](https://i.imgur.com/RJHhBhK.jpg)
+![](https://i.imgur.com/g5j7CcK.jpg)
 
 I mark the projects and goals I want to focus on right now, and by pressing `Q` in Trello I only see these cards on the board.
 
-![](https://i.imgur.com/EsXpp1j.jpg)
+![](https://i.imgur.com/EJUrD5m.jpg)
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
 
