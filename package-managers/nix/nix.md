@@ -52,3 +52,4 @@
 - [nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere.
 - [crate2nix](https://github.com/kolloch/crate2nix) - Nix build file generator for rust crates. ([Lobsters](https://lobste.rs/s/26xnzy/crate2nix_nix_build_file_generator_for))
 - [lorri](https://github.com/target/lorri) - nix-shell replacement for project development.
+- [Awesome Nix](https://github.com/nix-community/awesome-nix#readme)

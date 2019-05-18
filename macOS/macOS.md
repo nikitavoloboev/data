@@ -36,3 +36,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [AppUpdater](https://github.com/mxcl/AppUpdater) - Simple app-updater for macOS, checks your GitHub releases for a binary asset once a day and silently updates your app.
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - Screensaver inspired by Apple's Event on October 30, 2018.
 - [How macOS versions evolved and changed over the time](https://www.reddit.com/r/MacOS/comments/bc1lvk/how_macos_versions_evolved_and_changed_over_the/)
+- [PureDarwin](https://github.com/PureDarwin/PureDarwin) - Community project to make Darwin more usable.
