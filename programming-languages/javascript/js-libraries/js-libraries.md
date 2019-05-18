@@ -19,6 +19,7 @@
 - [Pts](https://github.com/williamngan/pts) - Library for visualization and creative-coding.
 - [lax.js](https://github.com/alexfoxy/laxxx) - Simple & light weight (<2kb gzipped) vanilla JS plugin to create smooth & beautiful animations when you scroll.
 - [Flipping](https://github.com/davidkpiano/flipping) - Library (and collection of adapters) for implementing FLIP transitions.
+- [Ola](https://github.com/franciscop/ola) - Smooth animation library for interpolating numbers.
 
 ## TypeScript
 

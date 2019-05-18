@@ -9,6 +9,7 @@
 - [Open Source Game Engine for Turn-Based Games](https://github.com/nicolodavis/boardgame.io)
 - [Xash3D FWGS Engine](https://github.com/FWGS/xash3d) - Custom Gold Source engine rewritten from scratch.
 - [Newton](https://github.com/hunterloftis/newton) - Playful, particle-based physics engine designed from the ground up for JavaScript.
+- [Noa](https://github.com/andyhall/noa) - Experimental voxel game engine.
 
 ## Links
 

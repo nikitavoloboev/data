@@ -81,3 +81,4 @@
 - [Kapitan](https://github.com/deepmind/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things.
 - [How Airbnb Simplified the Kubernetes Workflow for 1000+ Engineers (2019)](https://www.infoq.com/news/2019/03/airbnb-kubernetes-workflow)
 - [Boosting your kubectl productivity (2019)](https://learnk8s.io/blog/kubectl-productivity/)
+- [Polaris](https://github.com/reactiveops/polaris) - Validation of best practices in your Kubernetes clusters.

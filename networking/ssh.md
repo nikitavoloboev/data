@@ -7,3 +7,4 @@
 - [SeKey](https://github.com/sekey/sekey) - Use Touch ID / Secure Enclave for SSH Authentication.
 - [BLESS](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as an AWS Lambda function and is used to sign SSH public keys.
 - [sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port).
+- [Guide to using YubiKey for GPG and SSH](https://github.com/drduh/YubiKey-Guide)

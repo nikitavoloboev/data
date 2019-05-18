@@ -9,3 +9,4 @@
 - [Radicle](https://github.com/radicle-dev/radicle) - Peer-to-peer stack for code collaboration.
 - [Metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
 - [Moonad](https://github.com/moonad/Whitepaper#readme) - Peer-to-Peer Operating System.
+- [libp2p implementation in Go](https://github.com/libp2p/go-libp2p)

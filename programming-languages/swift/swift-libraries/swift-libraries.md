@@ -88,3 +88,4 @@
 - [Sweep](https://github.com/JohnSundell/Sweep) - Fast and powerful Swift string scanning made simple.
 - [KeyboardLayoutGuide](https://github.com/freshOS/KeyboardLayoutGuide) - Apple's missing KeyboardLayoutGuide.
 - [IkigaJSON](https://github.com/Ikiga/IkigaJSON) - High performance JSON library in Swift.
+- [ReSwift](https://github.com/ReSwift/ReSwift) - Unidirectional Data Flow in Swift - Inspired by Redux.
