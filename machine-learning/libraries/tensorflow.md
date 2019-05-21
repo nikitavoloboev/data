@@ -14,3 +14,4 @@
 - [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
 - [Easy-TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow#readme) - Simple and comprehensive tutorials in TensorFlow.
 - [TensorFlow Graphics](https://github.com/tensorflow/graphics)
+- [Blocksparse](https://github.com/openai/blocksparse) - Efficient GPU kernels for block-sparse matrix multiplication and convolution.
