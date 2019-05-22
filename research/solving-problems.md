@@ -19,15 +19,17 @@ Most often the difficulty of solving some task is simply due to it not being cle
 
 Once I found and understand what it is I want to solve. I look into it more and see if I can try to break down the problem into smaller parts I can work on. Often times this might not be necessary and I can start working on the task immediately but in times when the task I need to solve is either hard or stated too vaguely, I break it down further into parts that I can pick up and work on individually.
 
-Usually I break things down using [TaskPaper](https://www.taskpaper.com). I break down a problem into series of steps I can approach solving and then go through each of the steps to solve what I originally wanted to solve, modifying and adjusting things in light of newly found insights.
+Usually I break things down using [MindNode](../macOS/apps/mindnode.md). I break down a problem into series of steps I can approach solving and then go through each of the steps to solve what I originally wanted to solve, modifying and adjusting things in light of newly found insights.
 
-![](https://i.imgur.com/2pGHIOu.png)
+![](https://i.imgur.com/qHAJdYk.png)
 
-> It often looks like this. Where @project is reference to another project sliced up further
+> It often looks like this
 
-![](https://i.imgur.com/KpSMZpB.png)
+![](https://i.imgur.com/L5ueCNB.png)
 
-Often times I can do the decoupling of the task inside the app I am working in itself, be it a code editor, [2Do](../macOS/apps/2do.md) or [Bee app](https://www.neat.io/bee/). If the problem is complex enough, I also use my iPad and Notablity or Procreate to sketch ideas or make visual mind maps with [MindNode](../macOS/apps/mindnode.md).
+> But can also look like this. Example of a [brainstorming session](https://youtu.be/sB0DWq3PTDk).
+
+Often times I can do the decoupling of the task inside the app I am working in itself, be it a code editor or [2Do](../macOS/apps/2do.md). I also like sketching things on my iPad with [Notability](https://www.gingerlabs.com) if the problem is complex enough.
 
 ## 3. Work on solving the task and nothing else
 
