@@ -13,7 +13,7 @@ These are my personal profiles on various websites sorted by categories.
 - [FreeCodeCamp](https://www.freecodecamp.com/nikitavoloboev) - Haven't completed it fully.
 - [Codementor](https://www.codementor.io/nikitavoloboev) - Never used it.
 - [Asciinema](https://asciinema.org/~nikivi) - Sharing terminal sessions for showcasing CLI tools and other things.
-- [WakaTime](https://wakatime.com/@nikivi) - Tracking the time I spend coding.
+- [WakaTime](https://wakatime.com/@nikitavoloboev) - Tracking the time I spend coding.
 - [Devpost](https://devpost.com/nikitavoloboev) - Tracking all the hackathons and hackathon projects I have done.
 - [Code Wars](https://www.codewars.com/users/nikitavoloboev) - Practicing various coding challenges.
 - [Docker Hub](https://hub.docker.com/u/nikivi/) - Docker images.

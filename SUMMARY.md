@@ -462,6 +462,7 @@
   - [IFTTT](tools/ifttt.md)
   - [Dat](tools/dat.md)
   - [Email](tools/email.md)
+  - [Personal setups](tools/personal-setups.md)
 - [Design](design/design.md)
   - [Icons](design/icons.md)
   - [Fonts](design/fonts.md)
