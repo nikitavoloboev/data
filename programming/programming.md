@@ -64,3 +64,4 @@
 - [Why programming is difficult](https://joearms.github.io/published/2014-02-07-why-programming-is-difficult.html)
 - [Abstractions (2019)](https://giuseppegurgone.com/abstractions/)
 - [Categorized overview of Programming Principles & Patterns](https://github.com/webpro/programming-principles#readme)
+- [Too DRY - The Grep Test (2013)](http://jamie-wong.com/2013/07/12/grep-test/)

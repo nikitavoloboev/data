@@ -54,3 +54,4 @@
 - [lorri](https://github.com/target/lorri) - nix-shell replacement for project development.
 - [Awesome Nix](https://github.com/nix-community/awesome-nix#readme)
 - [nixfmt](https://github.com/serokell/nixfmt) - Formatter for Nix code.
+- [Nix for devs](https://github.com/uniphil/nix-for-devs) - Collection of recipes focused on nix-shell to make setting up project environments easy.
