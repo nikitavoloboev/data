@@ -451,6 +451,7 @@
   - [Bezier curves](computer-graphics/bezier-curves.md)
   - [CUDA](computer-graphics/cuda.md)
   - [WebGPU](computer-graphics/webgpu.md)
+  - [WebGL](computer-graphics/webgl.md)
 - [Tools](tools/tools.md)
   - [CodeSandbox](tools/codesandbox.md)
   - [GitBook](tools/gitbook.md)
