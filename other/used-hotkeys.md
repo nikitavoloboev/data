@@ -28,13 +28,13 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 ## CTRL+OPT
 
-- 1 - Screenshot entire screen (save to ~/Desktop)
 - 2 - New Imgur screenshot
 - 3 - New Annotate screenshot
 - 4 - Open Annotate screenshot
 - 6 - Screenshot & recording options
 - 7 - New Kap recording
 - 9 - Show Launchpad
+- 0 - Screenshot entire screen (save to ~/Desktop)
 - space - Add New Trello card
 
 ## CTRL+SHIFT

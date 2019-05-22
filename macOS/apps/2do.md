@@ -2,7 +2,7 @@
 
 I love GTD methodology. This app is phenomenal with helping me organize my tasks. Here is how my sidebar looks:
 
-![](https://i.imgur.com/Q4EC6Qa.png)
+![](https://i.imgur.com/0mfAKLK.png)
 
 It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 
@@ -22,9 +22,9 @@ I create many smart lists of most common tags I want to jump to. I use `j` key a
 
 And here are the other tags I use:
 
-![](https://i.imgur.com/L7YBUJt.png)
+![](https://i.imgur.com/dVeqOsG.png)
 
-![](https://i.imgur.com/CX8Hh9U.png)
+![](https://i.imgur.com/QxLX9Ye.png)
 
 I made my `All` list sorted by `Modified date`. This lets me cleanly delete or act on all tasks that have been sitting in my 2Do for too long with no activity.
 

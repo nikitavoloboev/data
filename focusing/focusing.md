@@ -36,7 +36,7 @@ I use [Focus app](https://heyfocus.com) as a recurring [Pomodoro timer](https://
 
 ![](https://i.imgur.com/H7TMqgS.png)
 
-![](https://i.imgur.com/MZGyqQe.png)
+![](https://i.imgur.com/5lLgPaU.png)
 
 Only on breaks can I visit these websites. I also get 20 minutes of optional break time every 3 hours. And I can start 5 min breaks during my Focus sessions with a macro.
 
