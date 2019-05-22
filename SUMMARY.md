@@ -143,6 +143,7 @@
   - [Interactive computing](programming/interactive-computing.md)
   - [Software architecture](programming/software-architecture/software-architecture.md)
   - [Probabilistic programming](programming/probabilistic-programming.md)
+  - [Recursion](programming/recursion.md)
 - [Programming languages](programming-languages/programming-languages.md)
   - [Go](programming-languages/go/go.md)
     - [Go libraries](programming-languages/go/go-libraries/go-libraries.md)
