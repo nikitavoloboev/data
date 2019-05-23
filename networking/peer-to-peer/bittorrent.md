@@ -9,3 +9,4 @@
 ## Links
 
 - [Tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery.
+- [transmission-telegram](https://github.com/pyed/transmission-telegram) - Control your Transmission through a Telegram bot.
