@@ -64,3 +64,4 @@
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture#readme) - Description of React's new core algorithm, React Fiber.
 - [Router5](https://github.com/router5/router5) - Flexible and powerful universal routing solution.
 - [Unstated Next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again.
+- [React Europe (2019)](https://www.youtube.com/watch?v=ERS0DO2xlAk)
