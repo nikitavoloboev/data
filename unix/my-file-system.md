@@ -93,7 +93,7 @@ Use Dropbox to sync configuration files. I also keep this wiki in `Write` dir in
 ```bash
 ~/Dropbox
 ❯ exa
-Alfred  Apps  Config  IFTTT  Shared  Shares  TaskPaper  Temp  upload.sh  Write
+Alfred  Apps  Config  IFTTT  Shared  Shares  Temp  upload.sh  Write
 ```
 
 ## Links
