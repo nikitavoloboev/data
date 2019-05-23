@@ -503,6 +503,7 @@
 - [Art](art/art.md)
   - [Photography](art/photography.md)
   - [Drawing](art/drawing.md)
+  - [Sketching](art/sketching.md)
   - [Comics](art/comics.md)
   - [Dancing](art/dancing.md)
   - [Generative art](art/generative-art.md)
