@@ -32,3 +32,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Mike Bostock - Design is a Search Problem (2014)](https://www.youtube.com/watch?v=fThhbt23SGM)
 - [Little Big Details](http://littlebigdetails.com/)
 - [Handpicked list of 18181 unique color names from various sources and thousands of user submissions](https://github.com/meodai/color-names)
+- [Whimsical](https://whimsical.com/) - Visual Workspace. Collaborate visually. Fast and delightful.
