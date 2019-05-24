@@ -262,6 +262,7 @@
 - [Compilers](compilers/compilers.md)
   - [LLVM](compilers/llvm.md)
   - [Build systems](compilers/build-systems.md)
+  - [Linters](compilers/linters.md)
 - [Physics](physics/physics.md)
   - [Classical mechanics](physics/classical-mechanics.md)
   - [Quantum physics](physics/quantum-physics/quantum-physics.md)
