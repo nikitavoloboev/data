@@ -17,3 +17,7 @@ Currently my zero waste practices involve:
 ## Notes
 
 - [The zero waste lifestyle encourages individuals to reduce waste by avoiding throwing away materials that can't be composed or recycled.](https://joshavanier.github.io/wiki/zero_waste.html)
+
+## Links
+
+- [Living a Zero Waste Lifestyle in an RV](https://www.your-rv-lifestyle.com/zero-waste-lifestyle-rv/)
