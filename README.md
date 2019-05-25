@@ -1,6 +1,6 @@
 # [My Knowledge Wiki 📚](https://wiki.nikitavoloboev.xyz)
 
-This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world in form of an [online GitBook](https://wiki.nikitavoloboev.xyz).
+This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world in form of an [online GitBook](https://wiki.nikitavoloboev.xyz) hosted on [GitHub](https://github.com/nikitavoloboev/knowledge).
 
 If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals in a lot of detail.
 
@@ -28,7 +28,7 @@ Don't be afraid to create one of your own and share what you know with the world
 
 ## Contributing
 
-If you found a mistake anywhere in this wiki, I would appreciate your help. You can quickly find any entry you wish to edit by [searching for the topic](https://wiki.nikitavoloboev.xyz/?q=) and then making the changes.
+If you found a mistake anywhere in this wiki, I would appreciate your help. You can quickly find any entry you wish to edit by [searching for the topic](https://wiki.nikitavoloboev.xyz/?q=), pressing `Edit on GitHub` button and making the changes by sending PR on GitHub.
 
 I also appreciate any [ideas you have](https://github.com/nikitavoloboev/knowledge/issues/new) on how I can improve this wiki.
 
