@@ -10,3 +10,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Reagent test instructions](https://www.reagent-tests.uk/reagent-test-colours/)
 - [DeepChem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology.
 - [Molecular Sets](https://github.com/molecularsets/moses) - Benchmarking Platform for Molecular Generation Models.
+- [Decriminalization 2020](https://www.decriminalization.org/) - Drug abuse is a public health issue, not a crime.

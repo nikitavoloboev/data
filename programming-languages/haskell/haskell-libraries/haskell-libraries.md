@@ -27,3 +27,4 @@
 - [dynamic](https://github.com/chrisdone/dynamic) - Dynamic typing in Haskell.
 - [free](https://github.com/ekmett/free) - Provides a common definitions for working with free monads, free applicatives, and cofree comonads in Haskell.
 - [inline-js](https://github.com/tweag/inline-js) - Run JavaScript in Haskell.
+- [fused-effects](https://github.com/fused-effects/fused-effects) - Fast, flexible, fused effect system for Haskell.

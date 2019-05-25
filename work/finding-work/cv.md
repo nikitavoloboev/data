@@ -32,6 +32,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Jongwook Choi](https://wook.kr/cv.html) - Clean. HTML.
 - [Lev Walkin](http://lionet.info/CV)
 - [Dominik Moritz](https://www.domoritz.de/cv/)
+- [Gierad Laput](https://www.gierad.com/cv/GieradLaput-CVWeb.pdf)
 
 ## Notes
 
