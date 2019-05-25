@@ -51,3 +51,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: Where should I start as a 34-year-old switching to software as a career? (2019)](https://news.ycombinator.com/item?id=19343521)
 - [Documentation for being an Artsy Engineer](https://github.com/artsy/README#readme)
 - [Cai & Jo](https://caiandjo.com/) - Premium paper goods brand.
+- [Laws, Theories, Principles and Patterns that developers will find useful](https://github.com/dwmkerr/hacker-laws#readme)

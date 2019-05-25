@@ -8,3 +8,4 @@
 
 - [HTML reference](https://htmlreference.io/)
 - [DOM Enlightenment](http://domenlightenment.com/) - Exploring the relationship between JavaScript and the modern HTML DOM.
+- [Virtual DOM is pure overhead (2018)](https://svelte.dev/blog/virtual-dom-is-pure-overhead) ([HN](https://news.ycombinator.com/item?id=19950253))

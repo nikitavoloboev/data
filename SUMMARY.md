@@ -168,6 +168,7 @@
       - [MobX](programming-languages/javascript/js-libraries/mobx.md)
       - [Vue.js](programming-languages/javascript/js-libraries/vue/vue.md)
       - [Next.js](programming-languages/javascript/js-libraries/react/nextjs.md)
+      - [Svelte](programming-languages/javascript/js-libraries/svelte.md)
       - [D3.js](programming-languages/javascript/js-libraries/d3js.md)
       - [ESLint](programming-languages/javascript/eslint.md)
   - [TypeScript](programming-languages/typescript/typescript.md)
