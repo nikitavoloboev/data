@@ -2,7 +2,7 @@
 
 Telegram is by far the best messenger that exists right now.
 
-I created a few public Telegram groups that I often contribute to. [macOS/iOS Automation](https://t.me/macOSautomation) being the biggest one.
+I created a few public Telegram groups that I often contribute to. [macOS/iOS Automation](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw) being the biggest one.
 
 I mapped my most visited chats with KM macros that call URL schemes like so:
 
