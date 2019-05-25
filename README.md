@@ -28,7 +28,7 @@ Don't be afraid to create one of your own and share what you know with the world
 
 ## Contributing
 
-If you found a mistake anywhere in this wiki, I would appreciate your help. You can quickly find any entry you wish to edit by [searching for the topic](https://wiki.nikitavoloboev.xyz/?q=), pressing `Edit on GitHub` button and making the changes by sending PR on GitHub.
+If you found a mistake anywhere in this wiki, I would appreciate your help. You can quickly find any entry you wish to edit by [searching for the topic](https://github.com/nikitavoloboev/knowledge/find/master) and adding your changes with a PR. GitBook also provides ability to open a GitHub page for any entry in this wiki.
 
 I also appreciate any [ideas you have](https://github.com/nikitavoloboev/knowledge/issues/new) on how I can improve this wiki.
 

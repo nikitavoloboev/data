@@ -68,6 +68,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Lattice](https://lattice.com/) - Performance management and employee engagement.
 - [Memex](https://worldbrain.io/) - Privacy focused extension to annotate, search and organize what you've seen online.
 - [Narrative](https://github.com/narative/narative.co) - Builds brands, websites and products for growth-minded companies.
+- [Forethought](https://www.forethought.ai/) - Agatha, A.I. for Customer Support.
 
 ## Notes
 

@@ -43,3 +43,4 @@
 - [Be Super with TypeScript and Jared Palmer episode (2019)](https://overcast.fm/+N_6KEDwFo)
 - [typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 - [TSdx](https://github.com/palmerhq/tsdx) - Zero-config CLI for TypeScript package development.
+- [Programming TypeScript book Boris Cherny (2019)](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
