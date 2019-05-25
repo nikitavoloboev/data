@@ -26,3 +26,4 @@
   - [Safe Rust bindings to the Skia](https://github.com/rust-skia/rust-skia)
 - [Introduction to Raymarching](https://github.com/ajweeks/RaymarchingWorkshop#readme)
 - [2D Graphics on Modern GPU (2019)](https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html)
+- [Resources for Learning Graphics Programming](http://stephaniehurlburt.com/blog/2019/3/25/resources-for-learning-graphics-programming)
