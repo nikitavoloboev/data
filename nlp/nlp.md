@@ -24,3 +24,4 @@
 - [Fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [Stanford CS224N: NLP with Deep Learning (2019)](https://www.youtube.com/watch?v=8rXD5-xhemo) - [Course page](http://web.stanford.edu/class/cs224n/). ([HN](https://news.ycombinator.com/item?id=19569883))
 - [Advanced NLP with spaCy: A free online course](https://github.com/ines/spacy-course#readme)
+- [Code for Stanford Natural Language Understanding course, CS224u (2019)](https://github.com/cgpotts/cs224u)

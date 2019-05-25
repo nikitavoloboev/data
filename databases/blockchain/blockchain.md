@@ -36,3 +36,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Squeezer Framework](https://github.com/SqueezerIO/squeezer) - Build serverless dApps.
 - [Castle Island Ventures](http://www.castleisland.vc/) - Venture capital firm focused exclusively on public blockchains.
 - [Zero knowledge podcast](https://www.zeroknowledge.fm/)
+- [Ara](https://ara.one/) - Blockchain powered global rewards system.

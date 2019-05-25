@@ -11,3 +11,4 @@
 - [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
 - [LibHydrogen](https://github.com/jedisct1/libhydrogen) - Lightweight, secure, easy-to-use crypto library suitable for constrained environments.
 - [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
+- [Asymmetric Cryptography: Works Like Magic](https://dominictarr.com/post/106497926352/asymmetric-cryptography-works-like-magic)

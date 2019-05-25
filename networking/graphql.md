@@ -25,3 +25,4 @@
 - [Building the New facebook.com with React, GraphQL and Relay (2019)](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/)
 - [urql](https://github.com/FormidableLabs/urql) - Highly customisable and versatile GraphQL client for React.
 - [GraphQL + Suspense by Jared Palmer (2019)](https://www.youtube.com/watch?v=8mnaI8BpsmE)
+- [Tipple: Stealing Ideas From GraphQL And Putting Them To REST (2019)](https://formidable.com/blog/2019/tipple/)
