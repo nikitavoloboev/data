@@ -35,3 +35,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 - [British Photography Awards 2018: Check out award-winning pictures](https://www.bbc.co.uk/newsround/47060311)
 - [Apple highlights best photos shot on iPhone around the world (2019)](https://www.apple.com/newsroom/2019/02/apple-highlights-best-photos-shot-on-iphone-around-the-world/)
 - [Photo Critique subreddit](https://www.reddit.com/r/photocritique/) - Amazing sub.
+- [Поляроиды за год](http://sergeykorol.ru/blog/polaroids/)

@@ -84,6 +84,7 @@ Below is a list of extensions I use.
 - [vscode-cli](https://marketplace.visualstudio.com/items?itemName=pkosta2006.vscode-cli) - Execute vscode command from vscode command prompt.
 - [Graphviz Preview](https://marketplace.visualstudio.com/items?itemName=EFanZh.graphviz-preview) - Preview Graphviz (DOT) files.
 - [Twitch Highlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) - Twitch Line Highlighter.
+- [Clever VS Code](https://marketplace.visualstudio.com/items?itemName=davidbabel.Clever) - Add many productivity usefull commands to vscode.
 
 ## Python
 
