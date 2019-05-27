@@ -34,6 +34,7 @@
 - [React Morph](https://github.com/brunnolou/react-morph) - Morphing UI transitions made simple.
 - [React InstantSearch](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia.
 - [React Virtuoso](https://github.com/petyosi/react-virtuoso) - Simple, easy to use React component made to render huge data lists.
+- [Tipple](https://github.com/andyrichardson/tipple) - Lightweight dependency-free library for fetching data over REST with React.
 
 ## Links
 
