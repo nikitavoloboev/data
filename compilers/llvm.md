@@ -9,3 +9,4 @@
 - [LLVM Tutorial: Table of Contents](https://llvm.org/docs/tutorial/)
 - [Compiler basics (3): LLVM (2019)](http://notes.eatonphil.com/compiler-basics-llvm.html)
 - [CodeGen](https://github.com/pdziepak/codegen) - Experimental wrapper over LLVM for generating and compiling code at run-time.
+- [LLVM backend for the Accelerate Array Language](https://github.com/AccelerateHS/accelerate-llvm)
