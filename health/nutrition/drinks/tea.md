@@ -1,6 +1,18 @@
 # Tea
 
-I love tea of all kinds. My favorite being a well made matcha tea latte.
+I love tea of all kinds.
+
+## Favorite
+
+- Matcha tea latte
+
+## Interesting
+
+- [Purple Voodoo" Purple Black Tea Cake](https://yunnansourcing.com/products/purple-voodoo-purple-black-tea-cake-spring-2018)
+
+## Notes
+
+- You need a special tea knife to cut the tea cakes.
 
 ## Links
 
