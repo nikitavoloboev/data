@@ -17,6 +17,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [William A. Kennington III](https://github.com/wkennington/nixos) - NixOS configurations for my local cluster of machines.
 - [Arian van Putten](https://github.com/arianvp/nixos-stuff)
 - [Michael Peyton Jones](https://github.com/michaelpj/nixos-config)
+- [Grégoire Martinache's Infrastructure](https://github.com/M-Gregoire/infrastructure)
 
 ## Nix configs (macOS)
 
