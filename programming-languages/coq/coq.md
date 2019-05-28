@@ -13,3 +13,5 @@
 - [Fiat](https://github.com/mit-plv/fiat) - Deductive Synthesis of Abstract Data Types in a Proof Assistant.
 - [Advent of Code 2018 in Coq](https://news.ycombinator.com/item?id=19194497) ([HN](https://news.ycombinator.com/item?id=19194497))
 - [Equations](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
+- [Proofs](https://github.com/stepchowfun/proofs) - Selection of formal developments in Coq.
+- [My hobby: proof engineering (2017)](https://www.stephanboyer.com/post/134/my-hobby-proof-engineering)

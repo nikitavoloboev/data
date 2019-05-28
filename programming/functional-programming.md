@@ -29,6 +29,7 @@
 - [Foundation of Functional Programming Course (2019)](https://github.com/julien-truffaut/fp-foundation#readme)
 - [Theory of functional programming with Eric Normand (2019)](https://lispcast.com/theory-functional-programming-0003/?utm_campaign=meetedgar&utm_medium=social&utm_source=meetedgar.com)
 - [Applied Functional Programming Course](https://github.com/qfpl/applied-fp-course)
+- [Effects](https://github.com/stepchowfun/effects) - Brief exploration of the various approaches to modeling side effects in a purely functional programming language.
 
 ## Images
 

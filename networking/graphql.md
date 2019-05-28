@@ -27,3 +27,4 @@
 - [GraphQL + Suspense by Jared Palmer (2019)](https://www.youtube.com/watch?v=8mnaI8BpsmE)
 - [Tipple: Stealing Ideas From GraphQL And Putting Them To REST (2019)](https://formidable.com/blog/2019/tipple/)
 - [GraphQL Query Rewriter](https://github.com/ef-eng/graphql-query-rewriter) - Seamlessly turn breaking GraphQL changes into non-breaking changes.
+- [GraphQL Predictions 2019+](https://blog.graphqleditor.com/graphql-predictions-2019+/)
