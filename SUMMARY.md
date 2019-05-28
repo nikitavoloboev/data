@@ -449,6 +449,7 @@
   - [Datasets](machine-learning/datasets.md)
   - [Autonomous driving](machine-learning/autonomous-driving.md)
   - [Artificial intelligence](machine-learning/artificial-intelligence.md)
+  - [Transfer learning](machine-learning/transfer-learning.md)
 - [Computer graphics](computer-graphics/computer-graphics.md)
   - [Vulkan](computer-graphics/vulkan.md)
   - [Computer vision](computer-graphics/computer-vision/computer-vision.md)
