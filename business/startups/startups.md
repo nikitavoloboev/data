@@ -19,6 +19,7 @@
 - [If you only double down on what users love, your product/market fit score won’t increase. If you only address what holds users back, your competition will likely overtake you.](https://firstround.com/review/how-superhuman-built-an-engine-to-find-product-market-fit/)
 - To increase your product/market fit score, spend half your time doubling down on what users already love and the other half on addressing what’s holding others back.
 - [It is easier to ask for forgiveness than for permission.](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
+- [If you don’t have product-market fit, your startup is fucked. You probably don’t have it if: You aren’t growing. You have high churn. Your product is hard to sell. Customers don’t seem to care that much. Here are some simple steps to find product-market fit.](https://twitter.com/justinkan/status/1133822625090719744)
 
 ## Links
 
@@ -58,6 +59,7 @@
 - [How to start a startup: Lecture 10 - Culture (Brian Chesky, Alfred Lin)](https://www.youtube.com/watch?v=RfWgVWGEuGE)
 - [A Brief History Of Spotify: Gustav Söderström (2019)](https://www.youtube.com/watch?v=jTM7ZCKEUGM)
 - [Awesome Startup Resources](https://github.com/ahmadnassri/awesome-startup-resources#readme)
+- [Debugging Your Startup: What to Do When Things Aren’t Working (2019)](https://www.atrium.co/blog/debugging-your-startup/)
 
 ## Images
 
