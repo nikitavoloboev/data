@@ -28,7 +28,7 @@ The number between brackets shows the year I created the repo in. Repos with �
 - [AMA (2017) 🌟](https://github.com/nikitavoloboev/ama#readme) - Ask me anything.
 - [My iOS (2016) 🌟](https://github.com/nikitavoloboev/my-ios#readme) - List of applications and tools that make my iOS experience even more amazing.
 - [My macOS (2016) 🌟](https://github.com/nikitavoloboev/my-mac-os#readme) - List of applications and tools that make my macOS experience even more amazing.
-- [Dotfiles (2016) 🌟](https://github.com/nikitavoloboev/dotfiles#readme) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix, Hammerspoon.
+- [Dotfiles (2016) 🌟](https://github.com/nikitavoloboev/dotfiles#readme) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix.
 
 ## Go Libraries
 
