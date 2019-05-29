@@ -3,6 +3,7 @@
 ## Notes
 
 - The basic building block is a linked list and most structures are built using these. Depending on how the data structure is set up and used, it can be a queue, stack, tree, etc.
+- [Data structures are the basis of what you start off with for any program. The key is to understand the domain you want to model. It's hardly unique to FAANG.](https://news.ycombinator.com/item?id=20039164)
 
 ## Links
 

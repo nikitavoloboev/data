@@ -15,3 +15,4 @@ I use [AirBnb](https://www.airbnb.com), [Booking](https://www.booking.com) and F
 ## Links
 
 - [Dwellito](https://www.dwellito.com/) - Purchase a Modular Home For Your Backyard. ([HN](https://news.ycombinator.com/item?id=18664496))
+- [Renting vs buying a house](https://www.bluprince13.com/apps/renting-vs-buying/)
