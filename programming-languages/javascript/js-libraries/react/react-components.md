@@ -35,6 +35,7 @@
 - [React InstantSearch](https://github.com/algolia/react-instantsearch) - Lightning-fast search for React and React Native applications, by Algolia.
 - [React Virtuoso](https://github.com/petyosi/react-virtuoso) - Simple, easy to use React component made to render huge data lists.
 - [Tipple](https://github.com/andyrichardson/tipple) - Lightweight dependency-free library for fetching data over REST with React.
+- [react-component-benchmark](https://github.com/paularmstrong/react-component-benchmark) - Component to help benchmark React components and their trees.
 
 ## Links
 

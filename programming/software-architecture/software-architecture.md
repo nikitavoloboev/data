@@ -14,3 +14,4 @@
 ## Links
 
 - [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture#readme)
+- [Software architect roadmap](https://github.com/AlaaAttya/software-architect-roadmap#readme)

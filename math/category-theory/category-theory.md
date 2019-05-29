@@ -41,6 +41,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Category Theory in Coq](https://github.com/jwiegley/category-theory) - Encodes category theory in Coq, with the primary aim being to allow representation and manipulation of categorical terms, as well realization of those terms in various target categories.
 - [Formalization of category theory in cubical Agda](https://github.com/fredefox/cat)
 - [Applied Category Theory Course: Databases](https://johncarlosbaez.wordpress.com/2018/06/06/applied-category-theory-course-databases/)
+- [Category theory library for Agda](https://github.com/jmchapman/categories)
 
 ## Images
 

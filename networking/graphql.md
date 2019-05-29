@@ -28,3 +28,4 @@
 - [Tipple: Stealing Ideas From GraphQL And Putting Them To REST (2019)](https://formidable.com/blog/2019/tipple/)
 - [GraphQL Query Rewriter](https://github.com/ef-eng/graphql-query-rewriter) - Seamlessly turn breaking GraphQL changes into non-breaking changes.
 - [GraphQL Predictions 2019+](https://blog.graphqleditor.com/graphql-predictions-2019+/)
+- [parse-graphql](https://github.com/egoist/parse-graphql) - Given a GraphQL source, parses it into a Document.

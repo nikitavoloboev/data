@@ -97,6 +97,7 @@
 - [Runtime](https://github.com/rustasync/runtime) - Empowering everyone to build asynchronous software.
 - [miri](https://github.com/rust-lang/miri) - Interpreter for Rust's mid-level intermediate representation.
 - [Tide](https://github.com/rustasync/tide) - Empowering everyone to build HTTP Services.
+- [fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
 
 ## Cargo Plugins
 

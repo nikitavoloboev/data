@@ -10,3 +10,4 @@
 - [Compiler basics (3): LLVM (2019)](http://notes.eatonphil.com/compiler-basics-llvm.html)
 - [CodeGen](https://github.com/pdziepak/codegen) - Experimental wrapper over LLVM for generating and compiling code at run-time.
 - [LLVM backend for the Accelerate Array Language](https://github.com/AccelerateHS/accelerate-llvm)
+- [kaleidoscope-rs](https://github.com/beam2d/kaleidoscope-rs) - LLVM tutorial implementation in Rust with llvm-sys.

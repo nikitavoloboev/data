@@ -90,6 +90,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Obsession](https://github.com/tpope/vim-obsession) - Continuously updated session files.
 - [Wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager.
 - [Rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
+- [vimspector](https://github.com/puremourning/vimspector) - Multi-language debugging system for Vim.
 
 ## Looks
 

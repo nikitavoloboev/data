@@ -65,3 +65,5 @@
 - [Abstractions (2019)](https://giuseppegurgone.com/abstractions/)
 - [Categorized overview of Programming Principles & Patterns](https://github.com/webpro/programming-principles#readme)
 - [Too DRY - The Grep Test (2013)](http://jamie-wong.com/2013/07/12/grep-test/)
+- [Awesome Roadmaps](https://github.com/orsanawwad/awesome-roadmaps#readme) - Curated list of awesome software development roadmaps.
+- [Awesome EventStorming](https://github.com/mariuszgil/awesome-eventstorming#readme)

@@ -9,3 +9,4 @@
 - [Prodog](http://www.cs.tufts.edu/~couch/archives/prodog/) - System Administration in Prolog. ([Lobsters](https://lobste.rs/s/v6nomp/database_prolog_way))
 - [It's Elementary, Dear Watson: Applying Logic Programming To Convergent System Management Processes](https://www.usenix.org/legacy/publications/library/proceedings/lisa99/full_papers/couch/couch_html/index.html)
 - [Scryer Prolog](https://github.com/mthom/scryer-prolog) - Modern Prolog implementation written mostly in Rust.
+- [chalk](https://github.com/rust-lang/chalk) - PROLOG-ish interpreter written in Rust, intended eventually for use in the compiler.
