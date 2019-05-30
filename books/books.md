@@ -116,6 +116,10 @@ Below are books I read sorted by year I read them in. The books with links attac
 - [My Favourite Book Recommendations by catonmat](https://catonmat.net/archive?q=books)
 - [Hacker News Books](https://hackernewsbooks.com/) - Dozens of book recommendations delivered straight to your inbox.
 
+## Notes
+
+- With Audible plans, you can do easy exchanges. Don’t love a book? Swap it for free, anytime.
+
 ## Links
 
 - [Awesome books](https://github.com/learn-anything/books#readme)

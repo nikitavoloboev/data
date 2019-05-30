@@ -4,10 +4,11 @@ I love listening to podcasts with [Overcast](https://overcast.fm) especially whe
 
 I have `Top` and `Other` smart playlists in Overcast. Here is how the `Top` playlist looks for me:
 
-![](https://i.imgur.com/Z7qFmaE.jpg)
+![](https://i.imgur.com/SFZY48V.jpg)
 
 It includes:
 
+- [Accidental Tech Podcast](https://overcast.fm/itunes617416468/accidental-tech-podcast) - Three nerds discussing tech, Apple, programming, and loosely related matters.
 - [MIT Artificial Intelligence](https://overcast.fm/itunes1434243584/artificial-intelligence) - Conversations at MIT and beyond about the nature of intelligence and AI.
 - [Corecursive](https://corecursive.com/) - Learn from software development experts. Hosted by Adam Gordon Bell.
 - [Cortex](https://overcast.fm/itunes1001591696/cortex) - CGP Grey and Myke Hurley discuss their working lives.
@@ -31,9 +32,12 @@ It includes:
 - [Swift by Sundell](https://overcast.fm/itunes1267161825/swift-by-sundell) - Answering your questions about Swift development.
 - [The Swift Community Podcast](https://overcast.fm/itunes1449664346/the-swift-community-podcast) - Podcast for the Swift Community, by the Swift Community.
 - [Talking machines](https://overcast.fm/itunes955198749/talking-machines) - Human conversation about machine learning.
+- [This Week in Startups](https://overcast.fm/itunes315114957/this-week-in-startups-audio) - Jason Calacanis and a rotating group of guest experts bring you this weekly take on the best, worst, most outrageous and interesting stories from the world of Web companies.
 - [The Tim Ferriss Show](https://overcast.fm/itunes863897795/the-tim-ferriss-show) - Interesting interviews focused on life improvement.
 - [The Undefined Podcast](https://overcast.fm/itunes1451541555/the-undefined-podcast) - The only engineering podcast with a 2 drink minimum.
 - [Venture Stories](https://overcast.fm/itunes1316769266/venture-stories) - Partner and co-founder Erik Torenberg takes you inside the world of venture capital and technology.
+- [Weird Trick Mafia](https://overcast.fm/itunes1456548333/weirdtrickmafia-fm)
+- [Zero Knowledge](https://overcast.fm/itunes1326503043/zero-knowledge) - Where we talk about blockchain technology and development.
 
 For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts#readme). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/rje42db9yj4d59w/overcast.opml?dl=1) (can be imported to Overcast).
 
