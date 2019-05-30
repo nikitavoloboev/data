@@ -24,6 +24,7 @@
 - [Gramework](https://github.com/gramework/gramework) - Fast and Reliable Golang Web Framework.
 - [Vugu](https://github.com/vugu/vugu) - Modern UI library for Go+WebAssembly (experimental).
 - [Coco](https://github.com/mrmiguu/coco) - Golang WebAssembly Framework.
+- [Wasmer](https://github.com/wasmerio/go-ext-wasm) - Go library to run WebAssembly binaries at native speed.
 
 ## GraphQL
 

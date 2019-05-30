@@ -18,7 +18,6 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Both Windows and MacOS are at a point where clean installs are unnecessary.](https://www.reddit.com/r/MacOS/comments/90g4h9/is_it_worth_the_effort_to_do_a_clean_install_of/)
   - I can appreciate someone wanting to do a clean install if they've installed and removed many apps and just want to clear out everything spread around all the system and hidden folders, even if it doesn't really affect performance and won't save a ton of disk space. There is something cathartic about a clean install.
 - `/usr/local/bin` is a good place to put raw binaries available in the path, that are not installed with Nix.
-- [TIL: How to make "Paste and Match Style" the default on a Mac](https://twitter.com/jawache/status/1133716881595088902)
 
 ## Links
 

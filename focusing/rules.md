@@ -317,6 +317,10 @@ Some simple rules to follow when doing things.
 - When asking for feedback, never ask people if they like the product I built. Ask them whether they don't like anything instead.
 - Welcome any feedback. The more critical feedback, the better. Iterate on it.
 
+## Reading
+
+- When reading articles in Reeder, use stars on articles liked. Can have a process to later transfer these stars to wiki.
+
 ## Reading books
 
 - Make notes as I read books.
