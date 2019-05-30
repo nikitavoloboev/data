@@ -15,3 +15,5 @@
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) ([HN](https://news.ycombinator.com/item?id=19082943))
 - [Data structures to name-drop when you want to sound smart in an interview](http://blog.amynguyen.net/?p=853)
 - [On lists, cache, algorithms, and microarchitecture (2019)](https://pdziepak.github.io/2019/05/02/on-lists-cache-algorithms-and-microarchitecture/)
+- [Topics in Advanced Data Structures (2019)](http://web.stanford.edu/class/cs166/handouts/100%20Suggested%20Final%20Project%20Topics.pdf) ([HN](https://news.ycombinator.com/item?id=19780387))
+- [CS166 Advanced DS Course (2019)](http://web.stanford.edu/class/cs166/)

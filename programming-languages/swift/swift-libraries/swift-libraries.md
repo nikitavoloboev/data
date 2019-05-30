@@ -90,3 +90,4 @@
 - [IkigaJSON](https://github.com/Ikiga/IkigaJSON) - High performance JSON library in Swift.
 - [ReSwift](https://github.com/ReSwift/ReSwift) - Unidirectional Data Flow in Swift - Inspired by Redux.
 - [Kingfisher](https://github.com/onevcat/Kingfisher) - Lightweight, pure-Swift library for downloading and caching images from the web.
+- [Blueprints](https://github.com/zenangst/Blueprints) - Framework that is meant to make your life easier when working with collection view flow layouts.

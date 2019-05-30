@@ -36,6 +36,7 @@
 - [React Virtuoso](https://github.com/petyosi/react-virtuoso) - Simple, easy to use React component made to render huge data lists.
 - [Tipple](https://github.com/andyrichardson/tipple) - Lightweight dependency-free library for fetching data over REST with React.
 - [react-component-benchmark](https://github.com/paularmstrong/react-component-benchmark) - Component to help benchmark React components and their trees.
+- [react-async-component](https://github.com/ctrlplusb/react-async-component) - Resolve components asynchronously, with support for code splitting and advanced server side rendering use cases.
 
 ## Links
 

@@ -19,3 +19,4 @@
 - [Stable Baselines](https://github.com/hill-a/stable-baselines) - Set of improved implementations of reinforcement learning algorithms based on OpenAI Baselines.
 - [pytorch-a3c](https://github.com/ikostrikov/pytorch-a3c) - PyTorch implementation of Asynchronous Advantage Actor Critic (A3C) from "Asynchronous Methods for Deep Reinforcement Learning".
 - [The Power of Self-Learning Systems (2019)](https://www.youtube.com/watch?v=3N9phq_yZP0)
+- [Awesome Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning#readme)
