@@ -81,3 +81,4 @@ I focus fully on [solving problems](../research/solving-problems.md) I need to s
 - [It or Nothing (2019)](http://tynan.com/ornothing)
 - [Be Too Busy to “Do Coffee”](https://nav.al/2019/05/08/meetings/)
 - [Ask HN: What tools/methods do you use to focus your time well? (2019)](https://news.ycombinator.com/item?id=19996062) ([Lobsters](https://lobste.rs/s/1nhqml/what_tools_methods_do_you_use_focus_your))
+- [Ask HN: How do you stay disciplined in the long run? (2019)](https://news.ycombinator.com/item?id=19777976)

@@ -77,3 +77,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Awesome Podcasts](https://github.com/learn-anything/podcasts#readme)
 - [Podcasts which are helpful for software engineers/programmers](https://github.com/rShetty/awesome-podcasts#readme)
 - [Best Podcasts Search](https://bestpodcasts.com)
+- [spec.fm](https://spec.fm/) - Level up by listening to podcasts from the best in the industry.

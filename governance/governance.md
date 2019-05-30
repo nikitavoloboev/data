@@ -12,3 +12,4 @@
 - ['The goal is to automate us': welcome to the age of surveillance capitalism (2019)](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
 - [Federalist](https://federalist.18f.gov/) - Publishing platform for modern, compliant government websites.
 - [Open State Foundation](https://openstate.eu/en/) - Open data for digital transparency.
+- [FreeSociety](https://www.freesociety.com/) - We are purchasing sovereignty from a government to create the world’s first Free Society.
