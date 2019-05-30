@@ -463,6 +463,7 @@
   - [WebGPU](computer-graphics/webgpu.md)
   - [WebGL](computer-graphics/webgl.md)
   - [Metal](computer-graphics/metal.md)
+  - [SVG](computer-graphics/svg.md)
 - [Tools](tools/tools.md)
   - [CodeSandbox](tools/codesandbox.md)
   - [GitBook](tools/gitbook.md)
