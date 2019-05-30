@@ -26,6 +26,7 @@
 - [Knowledge](knowledge/knowledge.md)
   - [Knowledge graphs](knowledge/knowledge-graphs.md)
   - [Knowledge extraction](knowledge/knowledge-extraction.md)
+  - [Mental models](knowledge/mental-models.md)
 - [Environment](environment/environment.md)
   - [Zero waste](environment/zero-waste.md)
   - [Veganism](environment/veganism.md)
