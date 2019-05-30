@@ -53,3 +53,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Cai & Jo](https://caiandjo.com/) - Premium paper goods brand.
 - [Laws, Theories, Principles and Patterns that developers will find useful](https://github.com/dwmkerr/hacker-laws#readme)
 - [draw.io source](https://github.com/jgraph/drawio) - Online diagramming web site.
+- [Glitch](https://glitch.com/) - Friendly community where everyone can discover and create the best stuff on the web.

@@ -87,6 +87,7 @@ Some simple rules to follow when doing things.
 
 - Adhere to [my budget](../economy/finance.md) that I set for each of N26 spaces.
 - Keep digital receipts of expensive purchases for warranty (scan it, if it's in paper).
+- Make sure the payments go through for everything (flight tickets, etc). It can cause troubles down the road.
 
 ## Home
 

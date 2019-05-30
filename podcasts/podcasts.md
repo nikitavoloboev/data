@@ -76,7 +76,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 
 - [Awesome Podcasts](https://github.com/learn-anything/podcasts#readme)
 - [Podcasts which are helpful for software engineers/programmers](https://github.com/rShetty/awesome-podcasts#readme)
-- [Cast](https://tryca.st/) - Record, edit, publish, and host your podcast.
 - [Best Podcasts Search](https://bestpodcasts.com)
-- [Forecast](https://overcast.fm/forecast) - Podcast MP3 post-production tool designed, developed, and used by professional podcasters.
-- [How to Add Chapter Markers to Podcasts (2019)](https://www.lemonproductions.ca/how-to-add-chapter-markers-to-podcasts/)
