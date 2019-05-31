@@ -53,3 +53,4 @@
 - [Learning Rust](https://learning-rust.github.io/) - Materials for learning Rust. ([OSS](https://github.com/learning-rust/site))
 - [Rust types cheat sheet](https://upsuper.github.io/rust-cheatsheet/)
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - Collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
+- [hello-rust](https://github.com/jwiegley/hello-rust) - Simple hello world in Rust, with a Nix environment.

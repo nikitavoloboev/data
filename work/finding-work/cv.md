@@ -43,3 +43,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Ask HN: How does a great resume look like? What are the best tools to make one?](https://news.ycombinator.com/item?id=16659255)
 - [Ask HN: What do you consider resume red flags?](https://news.ycombinator.com/item?id=16982575)
 - [iOS Resume Examples](https://www.raywenderlich.com/54029/ios-developer-resume-examples)
+- [NatalieHub](https://github.com/nataliemarleny/nataliemarleny.github.io) - Githubbified Resume using Primer CSS, a d3.js customised heatmap and illustrated with Figma.
