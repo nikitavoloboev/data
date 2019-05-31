@@ -15,7 +15,12 @@
 - [Prgmr](https://prgmr.com/xen/) - Linux & BSD virtual private servers.
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Scaleway](https://www.scaleway.com/en/) - Cloud instances delivered in seconds with backup, network and security options.
+- [Feral Hosting](https://www.feralhosting.com/pricing)
 
 ## Other
 
 - [Nanobox](https://nanobox.io/) - Run any app on any cloud.
+
+## Links
+
+- [What does Unsplash cost in 2019?](https://medium.com/unsplash/what-does-unsplash-cost-in-2019-f499620a14d0) ([HN](https://news.ycombinator.com/item?id=19827521))

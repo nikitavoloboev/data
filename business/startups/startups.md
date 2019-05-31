@@ -20,6 +20,7 @@
 - To increase your product/market fit score, spend half your time doubling down on what users already love and the other half on addressing what’s holding others back.
 - [It is easier to ask for forgiveness than for permission.](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
 - [If you don’t have product-market fit, your startup is fucked. You probably don’t have it if: You aren’t growing. You have high churn. Your product is hard to sell. Customers don’t seem to care that much. Here are some simple steps to find product-market fit.](https://twitter.com/justinkan/status/1133822625090719744)
+- [Speed matters because frontier people like it and will go to the places where speed is possible. It maximizes their comparative advantage. If your field ceases to support speed, you’ll lose frontier people and stagnate.](https://marginalrevolution.com/marginalrevolution/2019/04/does-the-speed-of-production-matter.html)
 
 ## Links
 
@@ -60,6 +61,8 @@
 - [A Brief History Of Spotify: Gustav Söderström (2019)](https://www.youtube.com/watch?v=jTM7ZCKEUGM)
 - [Awesome Startup Resources](https://github.com/ahmadnassri/awesome-startup-resources#readme)
 - [Debugging Your Startup: What to Do When Things Aren’t Working (2019)](https://www.atrium.co/blog/debugging-your-startup/)
+- [Does the speed of production matter?](https://marginalrevolution.com/marginalrevolution/2019/04/does-the-speed-of-production-matter.html)
+- [Carta](https://carta.com/) - Helps private companies, public companies, and investors manage their cap tables, valuations, investments, and equity plans.
 
 ## Images
 

@@ -17,3 +17,4 @@ Is logical theory of computable functions.
 - [A Gentle Introduction to Lambda Calculus - Part 1: Syntax (2018)](https://lucasfcosta.com/2018/07/29/An-Introduction-to-Lambda-Calculus-Part-1.html)
 - [Mikrokosmosai](https://github.com/mroman42/mikrokosmos) - Educational λ-calculus interpreter.
 - [Category Theory and Lambda Calculus (2018)](https://github.com/mroman42/ctlc) ([OSS](https://github.com/mroman42/ctlc))
+- [The Impact of the Lambda Calculus (1997) [pdf]](http://www-users.mat.umk.pl/~adwid/materialy/doc/church.pdf) ([HN](https://news.ycombinator.com/item?id=19835615))

@@ -71,3 +71,4 @@
 - [Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html)
 - [All in One Mathematics Cheat Sheet](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf) ([HN](https://news.ycombinator.com/item?id=20048205))
 - [too simple to be simple](https://ncatlab.org/nlab/show/too+simple+to+be+simple)
+- [Self Studying the MIT Applied Math Curriculum (2019)](https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/) ([HN](https://news.ycombinator.com/item?id=19811715))

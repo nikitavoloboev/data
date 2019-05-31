@@ -58,3 +58,4 @@
 - [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/)
 - [Volta](https://github.com/volta-cli/volta) - JavaScript Launcher.
 - [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet#readme)
+- [Fastpack](https://fastpack.sh/) - Pack JavaScript fast & easy.

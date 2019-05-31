@@ -9,3 +9,4 @@
 - [Space Cloud](https://github.com/spaceuptech/space-cloud) - Open source, web server that provides instant Realtime APIs on any database of your choice.
 - [ƒun](https://github.com/zeit/fun) - Local serverless function λ development runtime.
 - [faast.js](https://faastjs.org/) - Serverless batch computing made simple.
+- [Introducing Serverless Pre-Rendering (SPR) (2019)](https://zeit.co/blog/serverless-pre-rendering)

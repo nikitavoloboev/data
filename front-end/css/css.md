@@ -58,3 +58,4 @@
 - [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
 - [CSSFX](https://cssfx.dev/) - Beautifully simple click-to-copy CSS effects.
 - [CSS Working Group Editor Drafts](https://drafts.csswg.org/)
+- [CSS Houdini Experiments](https://css-houdini.rocks/)

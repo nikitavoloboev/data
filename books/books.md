@@ -115,6 +115,7 @@ Below are books I read sorted by year I read them in. The books with links attac
 - [Miikka Koskinen's reading list](https://miikka.me/reading-list/)
 - [My Favourite Book Recommendations by catonmat](https://catonmat.net/archive?q=books)
 - [Hacker News Books](https://hackernewsbooks.com/) - Dozens of book recommendations delivered straight to your inbox.
+- [Ted Chiang's books + audiobooks](https://www.sffaudio.com/features/author-pages/ted-chiang/)
 
 ## Notes
 

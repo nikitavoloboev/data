@@ -91,3 +91,4 @@ Go promotes composition over inheritance.
 - [goweight](https://github.com/jondot/goweight) - Tool to analyze and troubleshoot a Go binary size.
 - [Go Patterns](https://github.com/tmrts/go-patterns#readme) - Curated list of Go design patterns, recipes and idioms.
 - [Go Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap#readme) - Roadmap to becoming a Go developer in 2019.
+- [Clear is better than clever (2019)](https://dave.cheney.net/paste/clear-is-better-than-clever.pdf) ([HN](https://news.ycombinator.com/item?id=19837981))
