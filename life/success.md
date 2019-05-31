@@ -32,3 +32,4 @@ Success comes from not giving up and doing what you love.
 - [How To Be Successful (2019)](http://blog.samaltman.com/how-to-be-successful) ([HN](https://news.ycombinator.com/item?id=18992914))
 - [Play Long-term Games With Long-term People](https://startupboy.com/2019/03/19/long-term/)
 - [How to do hard things](https://www.drmaciver.com/2019/05/how-to-do-hard-things/) ([HN](https://news.ycombinator.com/item?id=19955830))
+- [David Epstein on Mastery, Specialization, and Range (2019)](https://overcast.fm/+JCRwsi4)

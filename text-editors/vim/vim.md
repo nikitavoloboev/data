@@ -33,3 +33,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Oni2](https://github.com/onivim/oni2) - Aims to bring the speed of Sublime, the language integration of VSCode, and the modal editing experience of (neo)vim together, in a single package
 - [The Last Statusline For Vim (2018)](https://kadekillary.work/post/statusline-vim/)
 - [How I revamped my Vim setup (2019)](https://alex.dzyoba.com/blog/vim-revamp/)
+- [Intermediate vim](https://dn.ht/intermediate-vim/) ([Lobsters](https://lobste.rs/s/78yjp6/intermediate_vim)) ([HN](https://news.ycombinator.com/item?id=19794558))

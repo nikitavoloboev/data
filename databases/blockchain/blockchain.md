@@ -15,6 +15,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Blockstack](https://blockstack.org/) - Decentralized apps on Blockstack let you own your data so you can maintain your privacy, security and freedom.
 - [Cardano](https://github.com/input-output-hk/cardano-sl/) - Cryptographic currency implementing Ouroboros PoS protocol.
 - [Iden3](https://iden3.io/) - Decentralized identity management solution.
+- [Gnosis](https://gnosis.io/) - Through blockchain-based, decentralized platforms, we enable the redistribution of resources—from assets to incentives, and information to ideas.
 
 ## Notes
 

@@ -32,3 +32,4 @@ And of course this system of knowledge indexing is really flexible and I am expe
 ## Links
 
 - [Great insights](https://wiki.xxiivv.com/#knowledge) - Also has great [learning](https://wiki.xxiivv.com/#glossary) page.
+- [Introducing Golden: Mapping human knowledge](https://news.ycombinator.com/item?id=19790912) ([HN](https://news.ycombinator.com/item?id=19790912))
