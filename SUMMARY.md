@@ -488,6 +488,7 @@
   - [Animation](design/animation.md)
   - [Monokai Night themes](design/monokai-night-themes.md)
   - [Figma](design/figma.md)
+  - [Framer](design/framer.md)
   - [Design systems](design/design-systems.md)
 - [Keyboards](keyboards/keyboards.md)
   - [QMK](keyboards/qmk.md)

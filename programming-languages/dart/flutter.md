@@ -7,3 +7,4 @@
 - [Desktop Embedding for Flutter](https://github.com/google/flutter-desktop-embedding) - Purpose of this project is to support building applications that use Flutter on Windows, macOS, and Linux.
 - [Go Flutter desktop embedder](https://github.com/Drakirus/go-flutter-desktop-embedder) - Go (golang) Custom Flutter Engine Embedder for desktop.
 - [Fish Redux](https://github.com/alibaba/fish-redux) - Assembled flutter application framework based on Redux state management.
+- [Flutter: a Portable UI Framework for Mobile, Web, Embedded, and Desktop (2019)](https://developers.googleblog.com/2019/05/Flutter-io19.html) ([HN](https://news.ycombinator.com/item?id=19853247))

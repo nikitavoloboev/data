@@ -7,3 +7,4 @@
 - [Inconvergent's generative art](https://inconvergent.net/generative/)
 - [Generated Space](https://generated.space/) - Various generative art sketches ([GitHub](https://github.com/kgolid/p5ycho))
 - [generative.fm](https://github.com/generative-music/generative.fm) - Platform for playing generative music in the browser.
+- [Physarum polycephalum](https://sagejenson.com/physarum)

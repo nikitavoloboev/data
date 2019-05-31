@@ -52,6 +52,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Cornelius Dämmrich](https://corneliusdammrich.com/) - Creates CG environments with a combination of various 3d softwares and tools.
 - [Sylvia Ritter](https://www.sylvia-ritter.com/)
 - [Mark Rothko](https://www.artsy.net/artist/mark-rothko)
+- [Sage Jenson](https://sagejenson.com) - Generative art.
 
 ## Interesting art
 

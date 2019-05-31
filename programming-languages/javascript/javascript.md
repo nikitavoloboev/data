@@ -59,3 +59,4 @@
 - [Volta](https://github.com/volta-cli/volta) - JavaScript Launcher.
 - [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet#readme)
 - [Fastpack](https://fastpack.sh/) - Pack JavaScript fast & easy.
+- [Reference implementation for the JavaScript Binary AST format](https://github.com/binast/binjs-ref)
