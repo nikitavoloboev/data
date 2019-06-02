@@ -154,6 +154,7 @@
 - [hashmap](https://github.com/cornelk/hashmap) - Golang lock-free thread-safe HashMap optimized for fastest read access.
 - [go-fuzzyfinder](https://github.com/ktr0731/go-fuzzyfinder) - Go library that provides fuzzy-finding with an fzf-like terminal user interface.
 - [httpmock](https://github.com/jarcoal/httpmock) - HTTP mocking for Golang.
+- [websocket](https://github.com/nhooyr/websocket) - A minimal and idiomatic WebSocket library for Go.
 
 ## Links
 

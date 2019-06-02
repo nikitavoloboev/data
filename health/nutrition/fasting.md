@@ -16,3 +16,4 @@ I fast for 13-16 hours daily.
 - [Dr. Satchin Panda on Practical Implementation of Time-Restricted Eating & Shift Work Strategies](https://www.youtube.com/watch?v=iywhaz5z0qs)
 - [Exercise, fasting shown to help cells shed defective proteins](https://news.harvard.edu/gazette/story/2019/02/exercise-fasting-shown-to-help-cells-shed-defective-proteins/) ([HN](https://news.ycombinator.com/item?id=19247265))
 - [Fasting triggers stem cell regeneration of damaged, old immune system (2014)](https://news.usc.edu/63669/fasting-triggers-stem-cell-regeneration-of-damaged-old-immune-system/)
+- [How Does Fasting Affect the Brain?](http://www.brainfacts.org/thinking-sensing-and-behaving/diet-and-lifestyle/2018/how-does-fasting-affect-the-brain-071318) ([HN](https://news.ycombinator.com/item?id=19858732))

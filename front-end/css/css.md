@@ -59,3 +59,4 @@
 - [CSSFX](https://cssfx.dev/) - Beautifully simple click-to-copy CSS effects.
 - [CSS Working Group Editor Drafts](https://drafts.csswg.org/)
 - [CSS Houdini Experiments](https://css-houdini.rocks/)
+- [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) - Truly monstrous async web chat using no JS whatsoever on the frontend.

@@ -69,6 +69,9 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Memex](https://worldbrain.io/) - Privacy focused extension to annotate, search and organize what you've seen online.
 - [Narrative](https://github.com/narative/narative.co) - Builds brands, websites and products for growth-minded companies.
 - [Forethought](https://www.forethought.ai/) - Agatha, A.I. for Customer Support.
+- [Fixmie](https://fixmie.com/) - Automated code fixes.
+- [Fabric](https://get.fabric.io/) - Platform that helps your mobile team build better apps, understand your users, and grow your business.
+- [Squoosh](https://squoosh.app/) - Make images smaller using best-in-class codecs, right in the browser.
 
 ## Notes
 

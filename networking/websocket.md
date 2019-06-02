@@ -6,3 +6,4 @@
 - [µWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web I/O for the most demanding of applications.
 - [µSockets](https://github.com/uNetworking/uSockets) - Cross-platform async networking and eventing foundation library written in standard C.
 - [µWebSockets](https://github.com/uNetworking/uWebSockets.js) - JavaScript web server.
+- [Sockette](https://github.com/lukeed/sockette) - Cutest little WebSocket wrapper.

@@ -115,6 +115,7 @@ Here are few more things I liked, design wise.
 - [John Morris](http://johnmorris.io/) - Simple. [OSS](https://github.com/johnpmorris/johnpmorris.github.io).
 - [Alex Carpenter](https://alexcarpenter.me/)
 - [Alexey Taktarov](https://molefrog.com/) - Simple.
+- [Mathieu Dutour](https://mathieu.dutour.me/) - Minimal.
 
 ## Other
 

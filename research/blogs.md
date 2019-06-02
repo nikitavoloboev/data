@@ -39,3 +39,4 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov. Open source & built with Gastby.js
 - [Write on your own website (2019)](http://bradfrost.com/blog/post/write-on-your-own-website/)
 - [Overengineering a Blog](https://blog.andrewbran.ch/overengineering-a-blog/)
+- [Switch from Medium to your own blog in a few minutes](https://github.com/mathieudutour/medium-to-own-blog)

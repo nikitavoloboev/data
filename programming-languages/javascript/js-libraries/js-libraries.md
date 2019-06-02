@@ -86,3 +86,4 @@
 - [object-cull](https://github.com/Rich-Harris/object-cull) - Create a copy of an object with just the bits you actually need.
 - [Sigma](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 - [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers.
+- [flru](https://github.com/lukeed/flru) - Tiny (215B) and fast Least Recently Used (LRU) cache.
