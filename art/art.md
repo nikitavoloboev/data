@@ -1,6 +1,6 @@
 # Art
 
-I share different photographs and art pieces I like on [my Instagram page](https://www.instagram.com/prettiways/).
+I share different photographs and art pieces I like on [my Instagram page](https://www.instagram.com/prettiways/) and [Twitter list](https://twitter.com/nikitavoloboev/lists/art).
 
 I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](https://www.reddit.com/r/glitch_art). And I like exploring [Artsy](https://www.artsy.net/) for various art people have made.
 
