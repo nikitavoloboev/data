@@ -31,6 +31,7 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [Joe Armstrong](https://joearms.github.io/oldindex.html)
 - [Eric Bower](https://erock.io/)
 - [Jess Frazelle](https://blog.jessfraz.com)
+- [Dhruv Parthasarathy](https://www.dhruvonmath.com/)
 
 ## Links
 

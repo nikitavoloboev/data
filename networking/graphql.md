@@ -30,3 +30,4 @@
 - [GraphQL Predictions 2019+](https://blog.graphqleditor.com/graphql-predictions-2019+/)
 - [parse-graphql](https://github.com/egoist/parse-graphql) - Given a GraphQL source, parses it into a Document.
 - [GraphQL Code Generator](https://github.com/dotansimha/graphql-code-generator) - Tool that generates code out of your GraphQL schema.
+- [A Different Approach to GraphQL Caching (2019)](https://adamrackis.dev/graphql-caching-and-micro/)

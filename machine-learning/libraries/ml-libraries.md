@@ -15,3 +15,4 @@
 - [Sonnet](https://github.com/deepmind/sonnet) - Library built on top of TensorFlow for building complex neural networks.
 - [tvm](https://github.com/dmlc/tvm/) - Open deep learning compiler stack for cpu, gpu and specialized accelerators.
 - [dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
+- [PySyft](https://github.com/OpenMined/PySyft) - Library for encrypted, privacy preserving deep learning.

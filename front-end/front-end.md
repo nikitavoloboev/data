@@ -15,3 +15,4 @@
 - [The Elements of UI Engineering (2018)](https://overreacted.io/the-elements-of-ui-engineering/)
 - [UI as an afterthought (2019)](https://michel.codes/blogs/ui-as-an-afterthought)
 - [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+- [The Great Divide (2019)](https://css-tricks.com/the-great-divide/) - Two front-end developers are sitting at a bar. They have nothing to talk about.

@@ -19,3 +19,4 @@
 - [Lisp Koans](https://github.com/google/lisp-koans) - Language learning exercise in the same vein as the ruby koans, python koans and others. ([HN](https://news.ycombinator.com/item?id=19313850))
 - [I Built a Lisp Compiler](https://mpov.timmorgan.org/i-built-a-lisp-compiler/) ([Lobsters](https://lobste.rs/s/rp0xy0/i_built_lisp_compiler))
 - [g-fu](https://github.com/codr7/g-fu) - Pragmatic Lisp developed and embedded in Go.
+- [Land of Lisp](http://landoflisp.com/) ([HN](https://news.ycombinator.com/item?id=19677292))
