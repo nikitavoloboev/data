@@ -40,3 +40,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Redux side effects and me (2017)](https://medium.com/magnetis-backstage/redux-side-effects-and-me-89c104a4b149)
 - [Redux without the sanity checks in a single file. Don't use this, use normal Redux. :-)](https://gist.github.com/gaearon/ffd88b0e4f00b22c3159)
 - [redux-bundler](https://github.com/HenrikJoreteg/redux-bundler) - Compose a Redux store out of smaller bundles of functionality.
+- [Redux Starter Kit](https://github.com/reduxjs/redux-starter-kit) - Simple set of tools to make using Redux easier.
