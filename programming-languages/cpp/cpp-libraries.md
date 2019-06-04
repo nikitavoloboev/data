@@ -20,3 +20,4 @@
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++.
 - [Folly](https://github.com/facebook/folly) - Library of C++14 components designed with practicality and efficiency in mind.
 - [jet-live](https://github.com/ddovod/jet-live) - C++ hot code reload for linux and macos.
+- [cpr](https://github.com/whoshuu/cpr) - Simple wrapper around libcurl inspired by the excellent Python Requests projec.

@@ -15,3 +15,4 @@ For user facing products, well implemented analytics will let you see how to opt
 - [LocustDB](https://github.com/cswinter/LocustDB) - Massively parallel, high performance analytics database that will rapidly devour all of your data.
 - [Grafana](https://github.com/grafana/grafana) - Tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
 - [Cube.js](https://github.com/statsbotco/cube.js) - Open source modular framework to build analytical web applications.
+- [Analytics.js](https://github.com/segmentio/analytics.js) - Hassle-free way to integrate analytics into any web application.

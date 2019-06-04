@@ -21,6 +21,10 @@ Below is a list of plugins I use.
 
 - [LateXTools](https://github.com/SublimeText/LaTeXTools) - Provides several features that simplify working with LaTeX files.
 
+## Q
+
+- [q KDB](https://github.com/komsit37/sublime-q) - Connect to remote q session and execute q statements in Sublime Text.
+
 ## Looks
 
 - [Ayu theme](https://github.com/dempfi/ayu)
@@ -34,7 +38,7 @@ Below is a list of plugins I use.
 - [DashDoc](https://github.com/farcaller/DashDoc) - Dash integration.
 - [SendCode](https://github.com/randy3k/SendCode) - Send code and text to macOS and Linux Terminals, iTerm, ConEmu, Cmder, Tmux, TerminalView; R (RStudio), Julia, IPython.
 - [SublimeLinter Annotations](https://github.com/SublimeLinter/SublimeLinter-annotations) - Marks annotations such as TODO, FIXME, etc.
-- [Dockerfile Syntax Highlighting](https://packagecontrol.io/packages/Dockerfile%20Syntax%20Highlighting)
+- [Dockerfile Syntax Highlighting](https://github.com/asbjornenge/Docker.tmbundle)
 - [ChromeREPL](https://github.com/acarabott/ChromeREPL) - Execute JavaScript in Google Chrome.
 - [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson) - Prettify/Minify/Query/Goto/Validate/Lint JSON.
 - [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - Review TODO (and other) comments within your code.

@@ -46,3 +46,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
 - [Simple KVM firmware](https://github.com/intel/rust-hypervisor-firmware) - Contains a simple KVM firmware that is designed to be launched from anything that supports loading ELF binaries and running them with the Linux kernel loading standard.
 - [Linux distros without systemd (2019)](https://ungleich.ch/en-us/cms/blog/2019/05/20/linux-distros-without-systemd/) ([HN](https://news.ycombinator.com/item?id=19960165))
+- [Show HN: ZeroHTTPd: A web server to teach Linux performance, with benchmarks](https://unixism.net/2019/04/linux-applications-performance-introduction/) ([HN](https://news.ycombinator.com/item?id=20081488))

@@ -43,3 +43,4 @@ Plan to spend more time with it as [SourceKit-LSP](https://github.com/apple/sour
 - [Swift Style Guide](https://github.com/linkedin/swift-style-guide#readme) - LinkedIn's Official Swift Style Guide.
 - [SwiftKit](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework.
 - [Swiftenstein](https://github.com/nicklockwood/Swiftenstein) - Simple Wolfenstein 3D clone written in Swift.
+- [SwiftUI](https://developer.apple.com/xcode/swiftui/) - Innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift.

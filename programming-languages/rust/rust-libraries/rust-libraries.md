@@ -98,6 +98,7 @@
 - [miri](https://github.com/rust-lang/miri) - Interpreter for Rust's mid-level intermediate representation.
 - [Tide](https://github.com/rustasync/tide) - Empowering everyone to build HTTP Services.
 - [fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
+- [maud](https://github.com/lfairy/maud) - Compile-time HTML templates for Rust.
 
 ## Cargo Plugins
 

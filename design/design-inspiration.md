@@ -116,6 +116,7 @@ Here are few more things I liked, design wise.
 - [Alex Carpenter](https://alexcarpenter.me/)
 - [Alexey Taktarov](https://molefrog.com/) - Simple.
 - [Mathieu Dutour](https://mathieu.dutour.me/) - Minimal.
+- [Sarah Drasner](https://sarah.dev/)
 
 ## Other
 
