@@ -9,6 +9,7 @@
 - [Unlike classes, an interface is a virtual structure that only exists within the context of TypeScript. The TypeScript compiler uses interfaces solely for type-checking purposes.](https://toddmotto.com/classes-vs-interfaces-in-typescript)
 - `any` means “ignore the type”, `unknown` means “we don’t know the type”, which aren’t the same thing, and for better code you’d rather not know the type than ignore it.
 - You can’t use `unknown` as a simple replacement for `any`, that wouldn’t make sense. `unkwnown` carries the implication that you should not use this variable other than passing it around. Or testing its type to get rid of the “unknown” state.
+- Tuples are very useful for simulating multiple returns like React hooks, and other combined values that don't need string object keys
 
 ## Links
 

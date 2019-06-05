@@ -14,3 +14,4 @@
 ## Links
 
 - [The Google SEO Bible: Everything a Startup Needs to Know (2018)](https://salon.thefamily.co/the-google-seo-bible-everything-a-startup-needs-to-know-a60dbac2d060)
+- [3 Essential Tools to Boost your React App’s SEO (2019)](https://medium.com/@prestonwallace/3-ways-improve-react-seo-without-isomorphic-app-a6354595e400)
