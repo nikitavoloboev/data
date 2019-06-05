@@ -156,6 +156,7 @@
       - [NumPy](programming-languages/python/python-libraries/numpy.md)
   - [Swift](programming-languages/swift/swift.md)
     - [Swift libraries](programming-languages/swift/swift-libraries/swift-libraries.md)
+      - [SwiftUI](programming-languages/swift/swift-libraries/swiftui.md)
   - [Rust](programming-languages/rust/rust.md)
     - [Rust libraries](programming-languages/rust/rust-libraries/rust-libraries.md)
   - [Haskell](programming-languages/haskell/haskell.md)
