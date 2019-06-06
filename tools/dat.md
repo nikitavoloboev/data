@@ -8,3 +8,4 @@
 - [dcp](https://github.com/tom-james-watson/dat-cp) - Remote file copy, powered by the Dat protocol.
 - [Rustlang implementation of the Dat Project protocols](https://datrs.yoshuawuyts.com/)
 - [unwalled.garden](https://github.com/beakerbrowser/unwalled.garden) - Schemas for a p2p social-media network built on the Dat Web.
+- [Unwalled.Garden: souped-up RSS for P2P social apps (2019)](https://pfrazee.hashbase.io/blog/unwalled-garden)

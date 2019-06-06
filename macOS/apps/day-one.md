@@ -16,7 +16,7 @@ Since then however, I adopted a more open approach to documenting my memories an
 
 ## My Journals
 
-![](https://i.imgur.com/A7pMPq9.png)
+![](https://i.imgur.com/E3Vp0rl.png)
 
 ### Life
 

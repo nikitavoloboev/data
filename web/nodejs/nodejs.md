@@ -34,3 +34,4 @@
 - [TSBB](https://github.com/jaywcjlove/tsbb) - Zero-config CLI for TypeScript node.js application development.
 - [NodeSource](https://nodesource.com/) - Low-impact monitoring for mission-critical Node.js applications.
 - [qnm](https://github.com/ranyitz/qnm) - Simple cli utility for querying the node_modules directory.
+- [isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs.
