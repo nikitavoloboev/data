@@ -1,8 +1,15 @@
 # [AWS](https://aws.amazon.com/)
 
-AWS is genuinely pretty amazing for what it allows you to do.
+AWS is genuinely pretty amazing for what it allows you to do. It also has a [generous free tier](https://aws.amazon.com/free/).
 
-It also has a [generous free tier](https://aws.amazon.com/free/).
+## Interesting
+
+- [AWS Aurora](https://aws.amazon.com/rds/aurora/) - MySQL and PostgreSQL-compatible relational database built for the cloud.
+- [Amazon Lex](https://aws.amazon.com/lex/) - Conversational interfaces for your applications powered by the same deep learning technologies as Alexa.
+- [AWS Lambda Layers](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html)
+- [AWS AppSync](https://aws.amazon.com/appsync/) - Power your applications with the right data, from one or more data sources, at global scale.
+- [AWS Amplify](https://aws-amplify.github.io/) - Build on a flexible, scalable, and reliable serverless backend.
+- [Amazon Neptune](https://aws.amazon.com/neptune/) - Fast, reliable graph database built for the cloud.
 
 ## Links
 

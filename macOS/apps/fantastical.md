@@ -1,6 +1,6 @@
 # [Fantastical](https://flexibits.com/fantastical)
 
-I use the app to manage events in my life. I sync all events with Google Calendar and I sync many of [my Trello boards](../../sharing/my-trello.md) deadlines with iCal.
+I use the app to manage events in my life. I sync all events with Google Calendar and I sync my Focus/[Ideas](https://trello.com/b/alB1ryRP)/[Videos](https://trello.com/b/Qoa5pkrQ) [Trello boards](../../sharing/my-trello.md) deadlines with iCal.
 
 I use Fantastical's natural language input together with [many Typinator expansions](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to make new events in seconds.
 
@@ -12,7 +12,7 @@ I use [KM macro](keyboard-maestro/km-macros.md) that when going to `Month` view,
 
 ![](https://i.imgur.com/35aMZAR.png)
 
-And I often use all day events as a way to set deadlines for myself. I then plan events for the day(s) in accordance to my [Focus board](../../focusing/focusing.md) & deadlines I have.
+And I use all day events as a way to set [focus points for the day](https://twitter.com/nikitavoloboev/status/1136715942338224128) based on my [Focus board](../../focusing/focusing.md). I then plan events for the day(s) in accordance to these focus points & deadlines I have set. Makes the process much easier.
 
 ## Notes
 

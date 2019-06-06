@@ -6,7 +6,7 @@ My entire life's experiences lives encrypted in the journal. Adding photographs 
 
 I document and review [my life](../../looking-back/looking-back.md) publicly too.
 
-The app has integration with [IFTTT](https://ifttt.com/day_one) which I use to automatically log all [my tweets](https://twitter.com/nikitavoloboev) and [Instagram posts](https://www.instagram.com/nikitavoloboev/).
+The app has started integrating with different services. Currently only Instagram. Hopefully soon Twitter. I love Day One for it's ability to centralize all my life's experiences into one place. Powered by search and amazing `On this Day` feature.
 
 If you don't journal, I suggest you to start, it is a very powerful mind cleanser and acts as a wonderful history record of your life.
 
@@ -14,19 +14,13 @@ I started with journaling by writing [Day Evaluations](https://medium.com/@nikit
 
 Since then however, I adopted a more open approach to documenting my memories and life in a way that doesn't stop me from being in the moment and just enjoying things and experiences.
 
-I am very open to the public sharing both the things I know and like and also the different little things that happen to me, so I use [IFTTT](../../tools/ifttt.md) to log and archive my public activity from Instagram and Twitter into Day One.
-
 ## My Journals
 
-![](https://i.imgur.com/Bk2k58c.png)
+![](https://i.imgur.com/A7pMPq9.png)
 
 ### Life
 
-Private observations & memorable experiences.
-
-### Travel
-
-Private travel notes. I post most everything on [Instagram](https://www.instagram.com/nikitavoloboev/).
+Private observations & memorable experiences. I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) and [Instagram](https://instagram.com/nikitavoloboev).
 
 ### Dreams
 
@@ -36,13 +30,9 @@ My dream journal. I want to lucid dream and to do that you need to remember your
 
 Contains all the memories I shared with my family.
 
-### Twitter
-
-I use [IFTTT](../../tools/ifttt.md) to [automatically post all my tweets](https://ifttt.com/applets/56660889d-save-your-tweets-to-day-one) from [Twitter](https://twitter.com/nikitavoloboev) here. As I try lead a more open life, I often post in public outlets and share my experiences there so I want to have those experiences in Day One together with my more private memories.
-
 ### Instagram
 
-Similar to Twitter, [this IFTTT recipe](https://ifttt.com/applets/61918118d-save-your-instagram-photos-to-day-one) will do the same but for my [Instagram](https://www.instagram.com/nikitavoloboev/) photographs.
+Day One has native integration with Instagram with full upload of all posts + descriptions.
 
 ## Looking back
 
