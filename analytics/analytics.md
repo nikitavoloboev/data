@@ -16,3 +16,4 @@ For user facing products, well implemented analytics will let you see how to opt
 - [Grafana](https://github.com/grafana/grafana) - Tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
 - [Cube.js](https://github.com/statsbotco/cube.js) - Open source modular framework to build analytical web applications.
 - [Analytics.js](https://github.com/segmentio/analytics.js) - Hassle-free way to integrate analytics into any web application.
+- [Kedro](https://github.com/quantumblacklabs/kedro) - Python library for building robust production-ready data and analytics pipelines.

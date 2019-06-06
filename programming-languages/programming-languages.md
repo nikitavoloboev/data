@@ -27,3 +27,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [What are some niche features you'd like to see in more languages? (2019)](https://lobste.rs/s/mcwvhn/what_are_some_niche_features_you_d_like_see)
 - [Ask HN: What programming language should I learn next? (2019)](https://news.ycombinator.com/item?id=19504453)
 - [Next-Paradigm Programming Languages: What Will They Look Like and What Changes Will They Bring?](https://arxiv.org/abs/1905.00402) ([HN](https://news.ycombinator.com/item?id=19803379))
+- [Semantic](https://github.com/github/semantic) - Haskell library and command line tool for parsing, analyzing, and comparing source code.

@@ -25,3 +25,4 @@
 
 - [What does Unsplash cost in 2019?](https://medium.com/unsplash/what-does-unsplash-cost-in-2019-f499620a14d0) ([HN](https://news.ycombinator.com/item?id=19827521))
 - [pack](https://github.com/buildpack/pack) - Local CLI for building apps using Cloud Native Buildpacks.
+- [Common solutions and tools developed by Google Cloud's Professional Services team](https://github.com/GoogleCloudPlatform/professional-services#readme)

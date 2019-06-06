@@ -61,3 +61,4 @@
 - [static-haskell-nix](https://github.com/nh2/static-haskell-nix) - Easily build most Haskell programs into fully static Linux executables.
 - [Real World Haskell by Bryan O’Sullivan updated to 2019](https://github.com/tssm/up-to-date-real-world-haskell#readme)
 - [Higher-order Type-level Programming in Haskell (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/ho-haskell-5c8bb4918a4de.pdf) ([HN](https://news.ycombinator.com/item?id=19412667))
+- [Why Haskell?](https://github.com/github/semantic/blob/master/docs/why-haskell.md)

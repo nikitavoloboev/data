@@ -88,3 +88,4 @@
 - [Sigma](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 - [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers.
 - [flru](https://github.com/lukeed/flru) - Tiny (215B) and fast Least Recently Used (LRU) cache.
+- [Yup](https://github.com/jquense/yup) - Dead simple Object schema validation.
