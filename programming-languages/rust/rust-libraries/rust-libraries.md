@@ -99,6 +99,7 @@
 - [Tide](https://github.com/rustasync/tide) - Empowering everyone to build HTTP Services.
 - [fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
 - [maud](https://github.com/lfairy/maud) - Compile-time HTML templates for Rust.
+- [panic-never](https://github.com/japaric/panic-never) - This crate guarantees that your application is free of panicking branches.
 
 ## Cargo Plugins
 
