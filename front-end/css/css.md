@@ -60,3 +60,4 @@
 - [CSS Working Group Editor Drafts](https://drafts.csswg.org/)
 - [CSS Houdini Experiments](https://css-houdini.rocks/)
 - [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) - Truly monstrous async web chat using no JS whatsoever on the frontend.
+- [Theme UI](https://github.com/system-ui/theme-ui) - Build consistent, themeable React UIs based on design system constraints and design tokens.
