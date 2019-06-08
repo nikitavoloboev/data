@@ -55,3 +55,4 @@
 - [Awesome Nix](https://github.com/nix-community/awesome-nix#readme)
 - [nixfmt](https://github.com/serokell/nixfmt) - Formatter for Nix code.
 - [Nix for devs](https://github.com/uniphil/nix-for-devs) - Collection of recipes focused on nix-shell to make setting up project environments easy.
+- [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.

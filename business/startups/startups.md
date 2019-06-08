@@ -63,6 +63,8 @@
 - [Debugging Your Startup: What to Do When Things Aren’t Working (2019)](https://www.atrium.co/blog/debugging-your-startup/)
 - [Does the speed of production matter?](https://marginalrevolution.com/marginalrevolution/2019/04/does-the-speed-of-production-matter.html)
 - [Carta](https://carta.com/) - Helps private companies, public companies, and investors manage their cap tables, valuations, investments, and equity plans.
+- [Establishing a company in Estonia](https://investinestonia.com/business-in-estonia/establishing-company/)
+- [B-corporation](https://bcorporation.net/) - Certified B Corporations are a new kind of business that balances purpose and profit..
 
 ## Images
 
