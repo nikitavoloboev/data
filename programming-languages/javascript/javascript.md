@@ -60,3 +60,4 @@
 - [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet#readme)
 - [Fastpack](https://fastpack.sh/) - Pack JavaScript fast & easy.
 - [Reference implementation for the JavaScript Binary AST format](https://github.com/binast/binjs-ref)
+- [Babel Handbook](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/README.md)
