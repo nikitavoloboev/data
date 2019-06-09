@@ -1,6 +1,6 @@
 # Board games
 
-I keep a [list of all board games I played and](https://boardgamegeek.com/collection/user/nikivi?subtype=boardgame&ff=1).
+I keep a [list of all board games I played](https://boardgamegeek.com/collection/user/nikivi?subtype=boardgame&ff=1).
 
 ## Links
 
