@@ -25,3 +25,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Ending Heart Disease: Cardiologist Kim Williams, M.D.](https://www.youtube.com/watch?v=X4TMsRKOe8Q)
 - [Great Reddit thread about benefits of going vegan](https://www.reddit.com/r/PlantBasedDiet/comments/9xwyls/posted_this_in_rvegan_and_they_sent_me_here/)
 - [HN: Animals are no less emotional than we are (2019)](https://news.ycombinator.com/item?id=19342135)
+- [Is Meat Bad for You? Is Meat Unhealthy? (2019)](https://www.youtube.com/watch?v=ouAccsTzlGU)

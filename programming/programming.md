@@ -68,3 +68,4 @@
 - [Awesome Roadmaps](https://github.com/orsanawwad/awesome-roadmaps#readme) - Curated list of awesome software development roadmaps.
 - [Awesome EventStorming](https://github.com/mariuszgil/awesome-eventstorming#readme)
 - [7 absolute truths I unlearned as junior developer (2019)](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/) ([HN](https://news.ycombinator.com/item?id=20124018))
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know#readme)

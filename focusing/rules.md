@@ -443,6 +443,7 @@ Some simple rules to follow when doing things.
 
 - Buy travel/train/accommodation arrangements for future events/conferences as soon as possible (if I know I will be attending the event).
 - Plan travels in advance in order to save on travel expenses.
+- Proof check the dates you are getting the tickets for. Make sure they are ones you want/need (i.e. event).
 
 ## Other
 
