@@ -19,3 +19,4 @@
 - [Tutorials, tools, and more as related to reverse engineering video games](https://github.com/dsasmblr/game-hacking#readme)
 - [Lobster](http://strlen.com/lobster/) - General purpose stand-alone programming language that comes with a built-in library suitable for making games and other graphical things.
   - [Lobster Design Philosophy, History, and Future](https://htmlpreview.github.io/?https://raw.githubusercontent.com/aardappel/lobster/master/lobster/docs/philosophy.html)
+- [Open Source Game Clones](https://osgameclones.com/)

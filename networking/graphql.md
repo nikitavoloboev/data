@@ -32,3 +32,4 @@
 - [GraphQL Code Generator](https://github.com/dotansimha/graphql-code-generator) - Tool that generates code out of your GraphQL schema.
 - [A Different Approach to GraphQL Caching (2019)](https://adamrackis.dev/graphql-caching-and-micro/)
 - [Why I use GraphQL and avoid REST APIs](https://desiatov.com/why-graphql)
+- [GraphiQL](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
