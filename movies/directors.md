@@ -5,6 +5,7 @@ I made a list of my [favorite movie directors](https://letterboxd.com/nikitavolo
 ## Interesting
 
 - Wong Kar-wai
+- Sofia Coppola
 
 ## Links
 

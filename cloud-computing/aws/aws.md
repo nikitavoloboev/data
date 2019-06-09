@@ -21,3 +21,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Kubernetes on AWS with Terraform](https://github.com/xuwang/kube-aws-terraform) - Kubernetes implementation using CoreOS on AWS platform.
 - [Cloud Reports](https://github.com/tensult/cloud-reports) - Scans your AWS cloud resources and generates reports.
 - [CloudMapper](https://github.com/duo-labs/cloudmapper) - Helps you analyze your Amazon Web Services (AWS) environments.
+- [AWS costs every programmer should know (2019)](https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html) ([HN](https://news.ycombinator.com/item?id=20138409))

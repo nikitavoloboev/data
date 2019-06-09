@@ -41,6 +41,7 @@ Some simple rules to follow when doing things.
 - Use one screen when coding. Much easier to context switch.
 - Don't listen to distracting music or sounds when trying to focus. Instead use [Noizio](http://noiz.io) or [Oak](https://www.oakmeditation.com) and listen to Rain, Fire or similar sounds. Or have nothing playing at all.
 - Use noise canceling headphones if surroundings are too noisy.
+- Don't waste time. Step back and reflect on what I do.
 
 ## Work
 
