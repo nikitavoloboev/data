@@ -13,3 +13,4 @@
 - [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
 - [Asymmetric Cryptography: Works Like Magic](https://dominictarr.com/post/106497926352/asymmetric-cryptography-works-like-magic)
 - [saltpack](https://github.com/keybase/saltpack) - Modern crypto messaging format.
+- [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)

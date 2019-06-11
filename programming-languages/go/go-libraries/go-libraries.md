@@ -156,6 +156,7 @@
 - [httpmock](https://github.com/jarcoal/httpmock) - HTTP mocking for Golang.
 - [websocket](https://github.com/nhooyr/websocket) - A minimal and idiomatic WebSocket library for Go.
 - [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go.
+- [Sling](https://github.com/dghubble/sling) - Go HTTP client library for creating and sending API requests.
 
 ## Links
 
