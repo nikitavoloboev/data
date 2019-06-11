@@ -155,6 +155,7 @@
 - [go-fuzzyfinder](https://github.com/ktr0731/go-fuzzyfinder) - Go library that provides fuzzy-finding with an fzf-like terminal user interface.
 - [httpmock](https://github.com/jarcoal/httpmock) - HTTP mocking for Golang.
 - [websocket](https://github.com/nhooyr/websocket) - A minimal and idiomatic WebSocket library for Go.
+- [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go.
 
 ## Links
 
