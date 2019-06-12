@@ -1,6 +1,6 @@
 # Augmented Reality
 
-[Lightform](https://lightform.com/) looks awesome. I think augmented reality is really the future of integrating more computing into our lives.
+[Lightform](https://lightform.com/) looks awesome. I think augmented reality is the future of integrating more computing into our lives.
 
 ## Links
 

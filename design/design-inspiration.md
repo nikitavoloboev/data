@@ -12,6 +12,7 @@ Here are few more things I liked, design wise.
 - [The Disconnect](https://thedisconnect.co/)
 - [John Otander](http://johnotander.com/) - Simple.
 - [Stripe](https://stripe.com) - Incredible design. I love their docs format too.
+- [NSHipster](https://nshipster.com/) - Simple & clean blog.
 
 ## Designers
 
