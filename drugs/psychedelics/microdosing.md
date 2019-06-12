@@ -1,5 +1,5 @@
 # Microdosing
 
-My favorite psychedelics to microdose are [4-HO-MiPT](https://psychonautwiki.org/wiki/4-HO-MiPT) & [1P-LSD](https://psychonautwiki.org/wiki/1P-LSD).
+I don't currently microdose any psychedelics but [4-HO-MiPT](https://psychonautwiki.org/wiki/4-HO-MiPT) & [1P-LSD](https://psychonautwiki.org/wiki/1P-LSD) are ones I tried microdosing with some success.
 
-I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=en&mt=8) iOS app to track doses and space out both microdoses & heavier trips.
+I usually enjoy having a bigger trip once in a while rather than microdose.

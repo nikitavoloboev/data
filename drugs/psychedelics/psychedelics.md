@@ -12,6 +12,10 @@ But as will all things, _moderation is key_. Or as in the case of psychedelics, 
 
 > _"When you get the message, hang up the phone"_
 
+My favorite psychedelic currently is [4-HO-MiPT](https://psychonautwiki.org/wiki/4-HO-MiPT).
+
+I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=en&mt=8) iOS app to track doses and space out both microdoses & heavier trips.
+
 ## Notes
 
 - [I believe that everything is the creator. People and animals are the creator looking through different eyes.](https://www.reddit.com/r/Psychonaut/comments/7811jc/have_psychedelic_experiences_changed_your_view_of/doq5ia1/)

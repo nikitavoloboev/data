@@ -28,7 +28,6 @@
 - [Magic of CSS](https://adamschwartz.co/magic-of-css/)
 - [Min](https://github.com/owenversteeg/min) - World's smallest (995 bytes) CSS framework.
 - [Emotion](https://emotion.sh/) - Performant and flexible CSS-in-JS library.
-- [Linaria](https://github.com/callstack/linaria#readme) - Zero-runtime CSS in JS library.
 - [Why We Use Styled Components at Decisiv](https://medium.com/@_alanbsmith/why-we-use-styled-components-at-decisiv-a8ac6e1507ac)
 - [The case for CSS modules - Mark Dalgleish](https://www.youtube.com/watch?v=zR1lOuyQEt8)
 - [Michael Chan - Inline Styles: themes, media queries, contexts, & when it's best to use CSS (2015)](https://www.youtube.com/watch?v=ERB1TJBn32c)
@@ -61,3 +60,5 @@
 - [CSS Houdini Experiments](https://css-houdini.rocks/)
 - [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) - Truly monstrous async web chat using no JS whatsoever on the frontend.
 - [Theme UI](https://github.com/system-ui/theme-ui) - Build consistent, themeable React UIs based on design system constraints and design tokens.
+- [Nice comment on problems & solutions to writing CSS](https://github.com/tachyons-css/tachyons/issues/12#issuecomment-309565525)
+- [tachyons tldr](https://tachyons-tldr.now.sh/#/classes)
