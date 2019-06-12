@@ -48,3 +48,4 @@ But as will all things, _moderation is key_. Or as in the case of psychedelics, 
 - [Search 1000s of published psychedelic studies](https://www.magsdb.com/)
 - [Keynote David E. Nichols: Psychedelics as Medicines (2018)](https://www.youtube.com/watch?v=Yp9k7jvVE5E)
 - [5-MeO-DMT Associated with Improvements in Depression, Anxiety (2019)](https://news.ycombinator.com/item?id=19430971) ([HN](https://news.ycombinator.com/item?id=19430971))
+- [David Nichols - "From “There” to “Here”" (2018)](https://www.youtube.com/watch?v=urT3bg2dYGs)

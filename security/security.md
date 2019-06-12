@@ -11,3 +11,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [SOPS](https://github.com/mozilla/sops) - Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
 - [ClusterFuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure which finds security and stability issues in software.
 - [Some security related notes](https://github.com/jaybosamiya/security-notes#readme)
+- [RAMBleed](https://rambleed.com/) - Reading Bits in Memory Without Accessing Them.

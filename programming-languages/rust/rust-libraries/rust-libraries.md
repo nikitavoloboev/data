@@ -100,6 +100,7 @@
 - [fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
 - [maud](https://github.com/lfairy/maud) - Compile-time HTML templates for Rust.
 - [panic-never](https://github.com/japaric/panic-never) - This crate guarantees that your application is free of panicking branches.
+- [graphql_client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust.
 
 ## Cargo Plugins
 

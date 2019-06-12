@@ -34,3 +34,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Handpicked list of 18181 unique color names from various sources and thousands of user submissions](https://github.com/meodai/color-names)
 - [Whimsical](https://whimsical.com/) - Visual Workspace. Collaborate visually. Fast and delightful.
 - [Apply Pixels](https://applypixels.com/) - Industry Standard Design Resources.
+- [Firefox: The Evolution Of A Brand (2019)](https://blog.mozilla.org/opendesign/firefox-the-evolution-of-a-brand/)

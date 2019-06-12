@@ -79,6 +79,7 @@ Some simple rules to follow when doing things.
 ## Share
 
 - Share everything I know and made.
+- Submit bugs and feature requests (Twitter or email (most often) with feedback assistant (for Apple)).
 
 ## Compassion
 
