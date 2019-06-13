@@ -41,6 +41,7 @@
 - [Tipple](https://github.com/andyrichardson/tipple) - Lightweight dependency-free library for fetching data over REST with React.
 - [react-component-benchmark](https://github.com/paularmstrong/react-component-benchmark) - Component to help benchmark React components and their trees.
 - [react-async-component](https://github.com/ctrlplusb/react-async-component) - Resolve components asynchronously, with support for code splitting and advanced server side rendering use cases.
+- [react-teleporter](https://github.com/smooth-code/react-teleporter) - Teleport React components in the same React tree.
 
 ## Links
 

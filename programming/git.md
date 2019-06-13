@@ -40,3 +40,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-rs](https://github.com/chrisdickinson/git-rs) - Implementing git in rust for fun and education.
 - [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide#readme)
 - [The Many Benefits of Using a Monorepo (2019)](https://pspdfkit.com/blog/2019/benefits-of-a-monorepo/) ([HN](https://news.ycombinator.com/item?id=19795482))
+- [Lefthook](https://github.com/Arkweid/lefthook) - Git hooks manager.

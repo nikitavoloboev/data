@@ -35,6 +35,10 @@ Below is a list of extensions I use.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Visualize code authorship at a glance via Git blame annotations and code lens.
 - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Review and manage your GitHub pull requests directly in VS Code.
 
+## HTML
+
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
+
 ## Deploy
 
 - [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) - Develop, deploy and debug Kubernetes applications.
@@ -56,7 +60,6 @@ Below is a list of extensions I use.
 - [REST Client Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - Allows you to send HTTP request and view the response in VS Code directly.
 - [Browser Preview](https://github.com/auchenberg/vscode-browser-preview) - Real browser preview inside your editor that you can debug.
 - [Bump](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-bump) - Bump your project's version and update the changelog. Opinionated but configurable.
-- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Polaroid for your code.
 - [Advanced New File](https://marketplace.visualstudio.com/items?itemName=dkundel.vscode-new-file) - Create new files quickly.
 - [Calculate](https://marketplace.visualstudio.com/items?itemName=acarreiro.calculate) - Evaluate math expressions.

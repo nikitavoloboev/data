@@ -13,3 +13,4 @@
 - [Awesome React Design Systems](https://github.com/jbranchaud/awesome-react-design-systems#readme) - Curated list of design systems made up of reusable React components.
 - [Framer Session 6 — Framer Bridge](https://www.youtube.com/watch?v=WsKSDyxcK5Q)
 - [Introducing Base Web, Uber’s New Design System for Building Websites in React (2019)](https://eng.uber.com/introducing-base-web/)
+- [Stencil](https://github.com/ionic-team/stencil) - Compiler for Web Components and PWAs.

@@ -83,8 +83,14 @@ Some simple rules to follow when doing things.
 
 ## Compassion
 
-- Value each animal’s life as equal to that of my own. Don't eat anyone.
+- Value each animal’s life as equal to that of my own. Don't eat or hurt anyone.
 - Minimize suffering caused to other people. Be conscious of other people's feelings.
+
+## Tools
+
+- Only use what is necessary. Experiment with things but never keep things you are not actually using. That mostly includes plugins and modifications.
+- Establish a good mental model of what I need and what I use as I approach modifying my workflow and tools.
+- Use best tools available to complete tasks. If don't exist, create new tools.
 
 ## Finance
 
@@ -390,11 +396,6 @@ Some simple rules to follow when doing things.
 
 - Minimize _News_ time and aim at **< 40 hour News time** a day. Ideally less. Block everything that is distracting when working.
 - Mark all time past in Timing. Adjust filters and projects to what kind of things I am working on.
-
-## Tools
-
-- Only use what is necessary. Experiment with things but never keep things you are not actually using. That mostly includes plugins and modifications.
-  - Try to establish a good mental model of what you need and what you use as you approach modifying your workflow and tools.
 
 ## Images
 

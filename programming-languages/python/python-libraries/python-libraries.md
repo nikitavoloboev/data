@@ -14,6 +14,10 @@
 
 - [Biopython](https://github.com/biopython/biopython) - International association of developers of freely available Python tools for computational molecular biology.
 
+## API
+
+- [instagram-scaper](https://github.com/realsirjoe/instagram-scraper) - Scrapes medias, likes, followers, tags and all metadata.
+
 ## Other
 
 - [Click](http://click.pocoo.org/5/) - Create beautiful command line interfaces in a composable way with as little code as necessary.

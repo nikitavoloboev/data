@@ -26,3 +26,4 @@
 - [Project Oak](https://github.com/project-oak/oak) - Meaningful control of data in distributed systems.
 - [mudb](https://github.com/mikolalysenko/mudb) - Collection of modules for building realtime client-server networked applications.
 - [Verdi](https://github.com/uwplse/verdi) - Framework for formally verifying distributed systems implementations in Coq.
+- [PingCAP Talent Plan](https://github.com/pingcap/talent-plan) - Series of training courses about writing distributed systems in Go and Rust.
