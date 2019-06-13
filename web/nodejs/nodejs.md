@@ -35,3 +35,4 @@
 - [NodeSource](https://nodesource.com/) - Low-impact monitoring for mission-critical Node.js applications.
 - [qnm](https://github.com/ranyitz/qnm) - Simple cli utility for querying the node_modules directory.
 - [isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs.
+- [fnm](https://github.com/Schniz/fnm) - Fast and simple Node.js version manager, built in native ReasonML.

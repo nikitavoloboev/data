@@ -88,3 +88,5 @@
 - [fairseq](https://github.com/facebookresearch/fairseq) - Sequence-to-sequence learning toolkit for Torch from Facebook AI Research tailored to Neural Machine Translation (NMT).
 - [TinyFlow](https://github.com/tqchen/tinyflow) - Tutorial code on how to build your own Deep Learning System in 2k Lines.
 - [Deep Learning Models](https://github.com/rasbt/deeplearning-models) - Collection of various deep learning architectures, models, and tips.
+- [Multi-Level Intermediate Representation Overview](https://github.com/tensorflow/mlir) - MLIR project aims to define a common intermediate representation (IR) that will unify the infrastructure required to execute high performance machine learning models in TensorFlow and similar ML frameworks.
+- [PySparNN](https://github.com/facebookresearch/pysparnn) - Approximate Nearest Neighbor Search for Sparse Data in Python.
