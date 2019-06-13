@@ -7,3 +7,4 @@
 - [Evolution discussion of the new DSL feature behind SwiftUI (2019)](https://forums.swift.org/t/important-evolution-discussion-of-the-new-dsl-feature-behind-swiftui/25168/12)
 - [About SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering all info published, both by Apple and by others, about new framework SwiftUI.
 - [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet#readme)
+- [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI#readme)

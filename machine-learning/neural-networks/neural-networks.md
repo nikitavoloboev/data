@@ -35,3 +35,4 @@
 - [A Recipe for Training Neural Networks (2019)](https://karpathy.github.io/2019/04/25/recipe/)
 - [Exploring Neural Networks with Activation Atlases (2019)](https://distill.pub/2019/activation-atlas/)
 - [Curated list of neural architecture search and related resources](https://github.com/D-X-Y/Awesome-NAS#readme)
+- [Weight Agnostic Neural Networks (2019)](https://weightagnostic.github.io/) ([HN](https://news.ycombinator.com/item?id=20160693))
