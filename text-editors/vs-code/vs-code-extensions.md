@@ -85,6 +85,7 @@ Below is a list of extensions I use.
 - [Graphviz Preview](https://marketplace.visualstudio.com/items?itemName=EFanZh.graphviz-preview) - Preview Graphviz (DOT) files.
 - [Twitch Highlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) - Twitch Line Highlighter.
 - [Clever VS Code](https://marketplace.visualstudio.com/items?itemName=davidbabel.Clever) - Add many productivity usefull commands to vscode.
+- [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform.
 
 ## Python
 
