@@ -90,7 +90,7 @@ Some simple rules to follow when doing things.
 
 - Only use what is necessary. Experiment with things but never keep things you are not actually using. That mostly includes plugins and modifications.
 - Establish a good mental model of what I need and what I use as I approach modifying my workflow and tools.
-- Use best tools available to complete tasks. If don't exist, create new tools.
+- Use best tools available to complete tasks. If don't exist, create new tools or adjust existing ones.
 
 ## Finance
 

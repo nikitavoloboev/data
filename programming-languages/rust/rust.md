@@ -57,3 +57,4 @@
 - [A final proposal for await syntax (2019)](https://news.ycombinator.com/item?id=19840095) ([HN](https://news.ycombinator.com/item?id=19840095)) ([Lobsters](https://lobste.rs/s/4zy92m/final_proposal_for_await_syntax))
 - [Sealed Rust (2019)](https://ferrous-systems.com/blog/sealed-rust-the-pitch/)
 - [Async Rust Programming Book](https://rust-lang.github.io/async-book/getting_started/why_async.html#why-async)
+- [Best short-form writing about Rust, collected](https://github.com/brson/rust-anthology#readme)

@@ -5,6 +5,7 @@
 - [Mentat](https://github.com/mozilla/mentat) - Persistent, relational store inspired by Datomic and DataScript.
 - [RocksDB](https://github.com/facebook/rocksdb) - Persistent Key-Value Store for Flash and RAM Storage.
 - [goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
+- [TiDB](https://github.com/pingcap/tidb) - Distributed HTAP database compatible with the MySQL protocol.
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB.
   - [pd](https://github.com/pingcap/pd) - Placement driver for TiKV.
 - [Noria](https://github.com/mit-pdos/noria) - Dynamically changing, partially-stateful data-flow for web application backends.
@@ -12,7 +13,6 @@
 - [RedixDB](https://github.com/alash3al/redix) - Persistent real-time key-value store, with the same redis protocol with powerful features.
 - [AresDB](https://github.com/uber/aresdb) - GPU-powered real-time analytics storage and query engine.
 - [Sophia](https://github.com/pmwkaa/sophia) - Modern transactional key-value/row storage library.
-- [TiDB](https://github.com/pingcap/tidb) - Distributed HTAP database compatible with the MySQL protocol.
 - [Bolt](https://github.com/boltdb/bolt) - Pure Go key/value store inspired by Howard Chu's LMDB project.
 - [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 - [EdgeDB](https://github.com/edgedb/edgedb) - Open-source object-relational database built on top of PostgreSQL.
