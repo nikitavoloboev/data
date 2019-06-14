@@ -33,3 +33,4 @@
 - [A Different Approach to GraphQL Caching (2019)](https://adamrackis.dev/graphql-caching-and-micro/)
 - [Why I use GraphQL and avoid REST APIs](https://desiatov.com/why-graphql)
 - [GraphiQL](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
+- [GraphQL Weekly](https://www.graphqlweekly.com) - Weekly newsletter of the best news, articles and projects about GraphQL.
