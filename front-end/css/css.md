@@ -62,3 +62,4 @@
 - [Theme UI](https://github.com/system-ui/theme-ui) - Build consistent, themeable React UIs based on design system constraints and design tokens.
 - [Nice comment on problems & solutions to writing CSS](https://github.com/tachyons-css/tachyons/issues/12#issuecomment-309565525)
 - [tachyons tldr](https://tachyons-tldr.now.sh/#/classes)
+- [A real-life journey into the opinionated world of 'utility-first' CSS (2018)](https://www.youtube.com/watch?v=2-q4asoHUqU)

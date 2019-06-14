@@ -35,3 +35,5 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Whimsical](https://whimsical.com/) - Visual Workspace. Collaborate visually. Fast and delightful.
 - [Apply Pixels](https://applypixels.com/) - Industry Standard Design Resources.
 - [Firefox: The Evolution Of A Brand (2019)](https://blog.mozilla.org/opendesign/firefox-the-evolution-of-a-brand/)
+- [Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette/)
+- [Labels are a last resort](https://refactoringui.com/previews/labels-are-a-last-resort/)
