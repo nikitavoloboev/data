@@ -62,3 +62,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Mirror of Apple's iOS samples](https://github.com/robovm/apple-ios-samples)
 - [iOS Hacking Resources](https://github.com/Siguza/ios-resources#readme)
 - [iOS Dev Jobs](https://iosdevjobs.com/) - Has newsletter too.
+- [WWDC 2019 notes (2019)](https://nshipster.com/wwdc-2019/)

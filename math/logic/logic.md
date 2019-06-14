@@ -12,3 +12,5 @@
 - [The Haskell Road to Logic, Math and Programming](https://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 - [Hoare Logic: Introduction to separation logic](http://www.cl.cam.ac.uk/teaching/1718/HLog+ModC/slides/lecture5-4-updated.pdf)
 - [Great resources on learning logic](https://www.reddit.com/r/logic/comments/6vra1f/where_do_we_go_from_here/dm36deh/)
+- [Many-valued logic](https://en.wikipedia.org/wiki/Many-valued_logic) ([HN](https://news.ycombinator.com/item?id=20180599))
+- [An Introduction to Non-Classical Logic book](https://www.cambridge.org/ie/academic/subjects/philosophy/philosophy-science/introduction-non-classical-logic-if-2nd-edition?format=PB&isbn=9780521670265)
