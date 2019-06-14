@@ -4,9 +4,9 @@ I use [Streaks](https://streaksapp.com) iOS app to track my essential life habit
 
 ## Life habits
 
-![](https://i.imgur.com/tIsTo5x.jpg)
+![](https://i.imgur.com/8JBSaEr.jpg)
 
-![](https://i.imgur.com/JJvpzJ5.jpg)
+![](https://i.imgur.com/e4kyyL9.jpg)
 
 I also keep top habits/[rules](rules.md) I try to follow through in life on display in my [Focus board](focusing.md).
 
