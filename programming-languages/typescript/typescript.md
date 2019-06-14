@@ -47,3 +47,9 @@
 - [TSdx](https://github.com/palmerhq/tsdx) - Zero-config CLI for TypeScript package development.
 - [Programming TypeScript book Boris Cherny (2019)](https://www.oreilly.com/library/view/programming-typescript/9781492037644/)
 - [OneFraction](https://github.com/TrillCyborg/onefraction) - React/ApolloGraphQL/Node/Mongo demo written in Typescript.
+
+## Images
+
+![](https://i.imgur.com/APrrI2V.png)
+
+> TypeScript’s type hierarchy

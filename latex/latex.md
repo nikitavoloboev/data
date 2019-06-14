@@ -18,3 +18,4 @@ For writing LaTeX I use [VS Code](../text-editors/vs-code/vs-code.md) and [LaTeX
 - [Eisvogel](https://github.com/Wandmalfarbe/pandoc-latex-template) - Clean pandoc LaTeX template to convert your markdown files to PDF or LaTeX.
 - [KaTeX](https://katex.org/) - Fastest math typesetting library for the web.
 - [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) - Easily clean the LaTeX code of your paper to submit to arXiv.
+- [HN: LaTeX Workflow on iPad](https://news.ycombinator.com/item?id=20180015)

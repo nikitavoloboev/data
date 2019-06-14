@@ -21,3 +21,4 @@ Everything else I try to get from [food](foods.md).
 - [WFPB supplements (2019)](https://www.reddit.com/r/PlantBasedDiet/comments/ac6w9v/vitamins/)
 - [Health benefits of lion's mane mushroom (2018)](https://www.youtube.com/watch?v=p02umCRoFas)
 - [Beginner's Guide to Nootropics](https://www.reddit.com/r/Nootropics/wiki/beginners)
+- [Magnesium and major depression (2011)](https://www.ncbi.nlm.nih.gov/books/NBK507265/) ([HN](https://news.ycombinator.com/item?id=20181855))

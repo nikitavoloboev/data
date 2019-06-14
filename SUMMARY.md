@@ -105,6 +105,7 @@
   - [Statistics](math/statistics/statistics.md)
     - [Markov chains](math/statistics/markov-chains.md)
   - [Mathematical optimization](math/mathematical-optimization/mathematical-optimization.md)
+    - [Nearest neighbor search](math/mathematical-optimization/nearest-neighbor-search.md)
   - [Geometry](math/geometry.md)
   - [Fractals](math/fractals.md)
   - [Number theory](math/number-theory.md)

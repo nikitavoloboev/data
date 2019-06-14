@@ -18,3 +18,4 @@ Similar to how switching of channels in a radio works, perhaps we can tune into 
 ## Links
 
 - [Who experiences ego death if not your ego?](https://www.reddit.com/r/Psychonaut/comments/8an34k/who_experiences_ego_death_if_not_your_ego/)
+- [What REALLY is ego death? (2019)](https://www.reddit.com/r/RationalPsychonaut/comments/c043yw/what_really_is_ego_death/)
