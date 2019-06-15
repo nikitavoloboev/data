@@ -32,6 +32,7 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [Eric Bower](https://erock.io/)
 - [Jess Frazelle](https://blog.jessfraz.com)
 - [Dhruv Parthasarathy](https://www.dhruvonmath.com/)
+- [Maciej Cegłowski](https://idlewords.com/)
 
 ## Links
 
