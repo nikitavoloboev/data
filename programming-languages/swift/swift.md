@@ -44,3 +44,4 @@ Plan to spend more time with it as [SourceKit-LSP](https://github.com/apple/sour
 - [SwiftKit](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework.
 - [Swiftenstein](https://github.com/nicklockwood/Swiftenstein) - Simple Wolfenstein 3D clone written in Swift.
 - [How do closures and callbacks work? It's turtles all the way down (2018)](https://desiatov.com/closures/)
+- [SwiftWasm](https://swiftwasm.org/) - Compiles your Swift code to WebAssembly.

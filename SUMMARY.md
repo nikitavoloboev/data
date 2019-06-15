@@ -441,6 +441,7 @@
   - [Companies](business/companies.md)
 - [Relationships](relationships/relationships.md)
   - [Seduction](relationships/seduction.md)
+  - [Sex](relationships/sex.md)
 - [3D Printing](3d-printing/3d-printing.md)
 - [Anki](anki/anki.md)
 - [Philosophy](philosophy/philosophy.md)

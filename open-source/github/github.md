@@ -40,3 +40,4 @@ I publish most of my work and make it open source for other people to use and re
 - [all-contributors](https://github.com/all-contributors/all-contributors) - Recognize all contributors, not just the ones who push code.
 - [release-notes](https://github.com/TheThingsIndustries/release-notes) - Generate release notes from pull request description.
 - [gh-card](https://github.com/nwtgck/gh-card) - GitHub Repository Card for Every Web Site.
+- [GitHub Package Registry (2019)](https://github.com/features/package-registry) ([HN](https://news.ycombinator.com/item?id=19881709))

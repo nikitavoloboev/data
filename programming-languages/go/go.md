@@ -93,3 +93,4 @@ Go promotes composition over inheritance.
 - [Go Developer Roadmap](https://github.com/Alikhll/golang-developer-roadmap#readme) - Roadmap to becoming a Go developer in 2019.
 - [Clear is better than clever (2019)](https://dave.cheney.net/paste/clear-is-better-than-clever.pdf) ([HN](https://news.ycombinator.com/item?id=19837981))
 - [Retool](https://github.com/twitchtv/retool) - Vendoring for executables written in Go.
+- [Why Go? – Key advantages you may have overlooked](https://yourbasic.org/golang/advantages-over-java-python/)
