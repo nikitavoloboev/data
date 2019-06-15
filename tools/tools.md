@@ -72,6 +72,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Fixmie](https://fixmie.com/) - Automated code fixes.
 - [Fabric](https://get.fabric.io/) - Platform that helps your mobile team build better apps, understand your users, and grow your business.
 - [Squoosh](https://squoosh.app/) - Make images smaller using best-in-class codecs, right in the browser.
+- [Mathigon](https://mathigon.org/) - Smartest textbook in the world.
 
 ## Notes
 

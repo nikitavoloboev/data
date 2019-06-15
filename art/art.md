@@ -53,6 +53,8 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Sylvia Ritter](https://www.sylvia-ritter.com/)
 - [Mark Rothko](https://www.artsy.net/artist/mark-rothko)
 - [Sage Jenson](https://sagejenson.com) - Generative art.
+- [Wenyi Geng](http://www.wenyigeng.com/)
+- [Cristian Eres](https://www.cristianeres.com/) - Sci-Fi artist & Illustrator.
 
 ## Interesting art
 
