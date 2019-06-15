@@ -8,3 +8,4 @@
 - [About SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering all info published, both by Apple and by others, about new framework SwiftUI.
 - [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet#readme)
 - [SwiftUI Framework Learning and Usage Guide](https://github.com/Jinxiansen/SwiftUI#readme)
+- [SwiftUI Examples Projects](https://github.com/ivanvorobei/SwiftUI)

@@ -63,3 +63,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS Hacking Resources](https://github.com/Siguza/ios-resources#readme)
 - [iOS Dev Jobs](https://iosdevjobs.com/) - Has newsletter too.
 - [WWDC 2019 notes (2019)](https://nshipster.com/wwdc-2019/)
+- [Machine Learning for iOS](https://github.com/alexsosn/iOS_ML#readme)
