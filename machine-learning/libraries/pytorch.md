@@ -22,3 +22,4 @@
 - [Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch#readme) - Curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 - [NimTorch](https://github.com/fragcolor-xyz/nimtorch) - Nim frontend for pytorch, aiming to be mostly auto-generated and internally using ATen.
 - [PyTorch adds new dev tools as it hits production scale (2019)](https://ai.facebook.com/blog/pytorch-adds-new-dev-tools-as-it-hits-production-scale/)
+- [PyTorch tutorials demonstrating modern techniques with readable code](https://github.com/spro/practical-pytorch)

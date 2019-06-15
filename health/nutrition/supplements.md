@@ -2,16 +2,13 @@
 
 ## Taking now
 
-### Essential
-
-- [Vitamin D3 Vegan](https://www.vitaminstore.nl/health/voedingssupplement/vitaminen/viridian-vitamine-d3-2000-ie-vegan) 4000 ug (Daily, Morning) (2 capsules)
-- [Omega 3 DHA+EPA Vegan](https://www.bol.com/nl/p/testa-omega-3-algenolie-hoogste-concentratie-vegan-omega-3-dha-epa-60-capsules-plantaardig/9200000035570809/) (Daily, Morning) (1 capsule)
-- [Lions Mane Extract](https://shop.realmushrooms.com/products/organic-lions-mane-extract-capsules) 500 mg (Daily, Morning) (2 capsules)
-- [Vitamin B12](https://www.bol.com/nl/p/body-fit-vitamine-b12-1000-mcg-per-tablet-60-zuigtabletten/9200000084936727/) 1000 ug (3 Days, Morning) (1 tablet)
-
-### Nice to have
-
-- [Turmeric](https://www.bol.com/nl/p/taka-turmeric-kurkuma-turmeric-zwarte-peper-extract-capsules-biologisch-120-vcaps/9200000095207340) 500 mg (Daily, Morning) (1 capsule)
+- [Vitamin D3](https://www.amazon.co.uk/gp/product/B00X0ZCE2O/ref=ox_sc_act_title_5?smid=A3P5ROKL5A1OLE&psc=1) 4000 IU (Daily, Morning) (1 tablet)
+- [Magnesium Glycinate](https://www.amazon.co.uk/gp/product/B00ENF72TA/ref=ox_sc_act_title_3?smid=A3P5ROKL5A1OLE&psc=1) (Daily, Morning) (2 tablet)
+- [Omega 3 DHA+EPA from Algae oil](https://www.amazon.co.uk/gp/product/B015QB57FU/ref=ox_sc_act_title_4?smid=A3E1W8LX91Q6YX&psc=1) (Daily, Morning) (1 tablet)
+- [Vitamin B12](https://www.amazon.co.uk/gp/product/B01N5RGV8U/ref=ox_sc_act_title_2?smid=A3FUWIVN918VYA&psc=1) 1000 mcg (Daily, Morning) (1 tablet)
+- [Lions Mane Extract](https://shop.realmushrooms.com/products/organic-lions-mane-extract-capsules) 500 mg (Daily, Morning) (2 tablets)
+- [Activated Sulforaphane from Broccoli Sprout Extract + Matcha Green Tea](https://www.amazon.co.uk/gp/product/B00JGX9Q8E/ref=ox_sc_act_title_1?smid=A3IBZ7QCUHTXB6&psc=1) 15000 mg (Daily, Morning) (1 tablet)
+- [Organic Turmeric Curcumin with Organic Black Pepper & Organic Ginger](https://www.amazon.co.uk/Organic-Turmeric-Curcumin-Capsules-Certified/dp/B0772QQX76/ref=sr_1_4?keywords=turmeric&qid=1560618897&s=drugstore&sr=1-4) 1380 mg (Daily, Morning)
 
 Everything else I try to get from [food](foods.md).
 
@@ -22,3 +19,4 @@ Everything else I try to get from [food](foods.md).
 - [Health benefits of lion's mane mushroom (2018)](https://www.youtube.com/watch?v=p02umCRoFas)
 - [Beginner's Guide to Nootropics](https://www.reddit.com/r/Nootropics/wiki/beginners)
 - [Magnesium and major depression (2011)](https://www.ncbi.nlm.nih.gov/books/NBK507265/) ([HN](https://news.ycombinator.com/item?id=20181855))
+- [What are your essential supplements? Like if you could only take a few each day what would you pick? (2019)](https://www.reddit.com/r/Supplements/comments/bwhhro/what_are_your_essential_supplements_like_if_you/)
