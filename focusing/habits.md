@@ -36,7 +36,7 @@ I use [Siri Shortcuts](https://github.com/nikitavoloboev/my-ios#shortcuts) for m
 
 `Share | Write | Meet people` is marked as done when I have shared my thoughts/experiences freely and honestly. As well as sharing things I've learned by writing them down and sharing it. And finally broadening my life by meeting new people.
 
-`Focus | One task at a time` is marked as done when I haven't derailed my focus throughout the day and did what I was supposed to do at ideally all points in time throughout the day. For `One task at a time`, [solving problems](../research/solving-problems.md) & [focusing](../focusing/focusing.md) goes over strategies I use to achieve this.
+`Focus | One task at a time` is marked as done when I haven't derailed my focus throughout the day and did what I was supposed to do at ideally all points in time throughout the day. [Solving problems](../research/solving-problems.md) & [focusing](../focusing/focusing.md) goes over strategies I use to achieve this habit.
 
 `Mindful, calm & happy` is currently the easiest habit for me to complete and I hope to keep it this way. It simply means a day spent being mindful of my thoughts & feelings and approaching any new thing with calmness and clarity. Whilst being happy with the fortune that is life.
 

@@ -1,6 +1,6 @@
 # Fasting
 
-I fast for 13-16 hours daily.
+I fast one day a week. Usually on Friday.
 
 ## Notes
 

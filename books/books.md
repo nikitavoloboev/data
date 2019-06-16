@@ -1,12 +1,12 @@
 # Books
 
-I love reading new books and making notes on things I've read and learned.
+I love reading & listening to new books and making notes on things I've read and learned.
 
 I keep [Goodreads](https://www.goodreads.com/user/show/15768482-nikita-voloboev) lists of [books I am reading](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=currently-reading), [want to read in future](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=to-read) & ones I [want to read next](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=next).
 
 I also have bookshelves of books I [liked](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=favorite) & [read](https://www.goodreads.com/review/list/15768482-nikita-voloboev?shelf=read).
 
-Below are books I read sorted by year I read them in. The books with links attached will lead to notes I made when reading the book. Books with 🌟 are my favorite.
+Below are books I read (or listened) sorted by year I read them in. The books with links attached will lead to notes I made when reading the book. Books with 🌟 are my favorite.
 
 ### 2019
 
