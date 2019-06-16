@@ -18,3 +18,5 @@ Charles Hoskinson mentions why he believe in transforming education in [this int
 - [Solvio](http://solvio.org) - Decentralized education system. Our mission is to build a P2P education system that will be equivalent to a formal education.
 - [Solvio Regular Call #2 (2019)](https://www.youtube.com/watch?v=CxjE1kJ8sLE)
 - [Imagine K12 Startups](http://www.imaginek12.com/)
+- [Primer Labs White Paper](https://www.primerlabs.io/whitepaper.pdf) - Incremental approach for building an intelligent tutoring system using a dialog based agent.
+- [Danny Hillis, "The Learning Map" (2012)](https://www.youtube.com/watch?v=wKcZ8ozCah0)

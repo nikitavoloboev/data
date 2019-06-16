@@ -10,3 +10,4 @@
 - [Bitcore Node](https://github.com/bitpay/bitcore) - Full stack for bitcoin and blockchain-based applications.
 - [nix-bitcoin](https://github.com/jonasnick/nix-bitcoin) - Nix packages and nixos modules with profiles for easily installing Bitcoin nodes and higher layer protocols.
 - [The History and Future of Bitcoin with Dan Held (2019)](https://overcast.fm/+LDKfCTO4U)
+- [Introducing SOPR: spent outputs to predict bitcoin lows and tops (2019)](https://medium.com/unconfiscatable/introducing-sopr-spent-outputs-to-predict-bitcoin-lows-and-tops-ceb4536b3b9)

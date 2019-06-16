@@ -14,3 +14,4 @@
 - [Learning to Learn (2019)](https://css-tricks.com/learning-to-learn/)
 - [Ask HN: How to learn best practices when you have no one to teach you? (2019)](https://news.ycombinator.com/item?id=19423228)
 - [P2PU](https://www.p2pu.org/en/) - Learning circles are free study groups for people who want to take online classes together and in-person.
+- [LearnAwesome](https://learnawesome.org/) - Humanity's universal skills graph.

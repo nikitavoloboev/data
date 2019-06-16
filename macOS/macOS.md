@@ -38,3 +38,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [How macOS versions evolved and changed over the time](https://www.reddit.com/r/MacOS/comments/bc1lvk/how_macos_versions_evolved_and_changed_over_the/)
 - [PureDarwin](https://github.com/PureDarwin/PureDarwin) - Community project to make Darwin more usable.
 - [Curated list of shell commands and tools specific to macOS](https://github.com/herrbischoff/awesome-macos-command-line#readme)
+- [The new Mac Pro is a design remix (2019)](https://www.arun.is/blog/mac-pro/)

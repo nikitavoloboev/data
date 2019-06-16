@@ -69,6 +69,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [A silent room](https://www.booooooom.com/submissions/a-silent-room/)
 - [The Moleskine Project VIII](https://www.booooooom.com/2019/06/05/the-moleskine-project-viii/)
 - [Booooooom](https://www.booooooom.com/blog/art/)
+- [Eizin Suzuki – Light falls of board walk](http://www.graphicine.com/eizin-suzuki-light-falls-of-board-walk/)
 
 ## Notes
 
@@ -83,3 +84,4 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Artsy: Digital Art](https://www.artsy.net/gene/digital-art)
 - [Artsy: Digital Art and Drawing](https://www.artsy.net/gene/digital-painting-and-drawing)
 - [A dream within a dream](https://www.behance.net/gallery/60548107/A-dream-within-a-dream?)
+- [Graphicine](http://www.graphicine.com/) - Nice curated art pieces.
