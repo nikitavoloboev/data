@@ -92,3 +92,4 @@
 - [PySparNN](https://github.com/facebookresearch/pysparnn) - Approximate Nearest Neighbor Search for Sparse Data in Python.
 - [Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course#readme)
 - [ICML](https://icml.cc/) - International Conference on Machine Learning.
+- [Integrating Domain Knowledge into Deep Learning by Ruslan Salakhutdinov (2019)](https://www.youtube.com/watch?v=b8ABJZ7lfXU)
