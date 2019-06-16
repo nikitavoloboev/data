@@ -27,3 +27,6 @@
 - [mudb](https://github.com/mikolalysenko/mudb) - Collection of modules for building realtime client-server networked applications.
 - [Verdi](https://github.com/uwplse/verdi) - Framework for formally verifying distributed systems implementations in Coq.
 - [PingCAP Talent Plan](https://github.com/pingcap/talent-plan) - Series of training courses about writing distributed systems in Go and Rust.
+- [Protocol Labs](https://protocol.ai/) - Build protocols, systems, and tools to improve internet.
+- [Dark Crystal](https://darkcrystal.pw/about) - Open source R&D affinity. Exploring the potential of new and existing technologies in crypto-space to encourage horizontal group collaboration.
+- [Protozoa](http://protozoa.nz/) - Web developers, facilitators, crypto-engineers. Experts in Node.js & distributed systems.

@@ -17,3 +17,4 @@ Charles Hoskinson mentions why he believe in transforming education in [this int
 - [A Survival Guide to a PhD (2016)](http://karpathy.github.io/2016/09/07/phd/)
 - [Solvio](http://solvio.org) - Decentralized education system. Our mission is to build a P2P education system that will be equivalent to a formal education.
 - [Solvio Regular Call #2 (2019)](https://www.youtube.com/watch?v=CxjE1kJ8sLE)
+- [Imagine K12 Startups](http://www.imaginek12.com/)

@@ -34,3 +34,4 @@ Success comes from not giving up and doing what you love.
 - [How to do hard things](https://www.drmaciver.com/2019/05/how-to-do-hard-things/) ([HN](https://news.ycombinator.com/item?id=19955830))
 - [David Epstein on Mastery, Specialization, and Range (2019)](https://overcast.fm/+JCRwsi4)
 - [Joe Rogan Experience #1309 - Naval Ravikant (2019)](https://www.youtube.com/watch?v=3qHkcs3kG44)
+- [Keep Redefining What You Do](https://nav.al/redefining)

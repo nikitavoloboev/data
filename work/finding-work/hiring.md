@@ -9,3 +9,4 @@
 - [Gatsby Inc's Product & Engineering Hiring Philosophy (2019)](https://www.gatsbyjs.org/blog/2019-01-29-gatsby-eng-hiring-philosophy/)
 - [Playbook For Recruiting and Hiring with Elaine Wherry (2019)](https://overcast.fm/+LDKfwxS6s)
 - [Senior Developers are Getting Rejected for Jobs (2019)](https://news.ycombinator.com/item?id=19918902) ([HN](https://news.ycombinator.com/item?id=19918902))
+- [Hiring for Strengths (Not Weaknesses) with Charity Majors](https://www.woventeams.com/blog/charity-majors-1)

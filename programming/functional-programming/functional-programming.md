@@ -31,6 +31,7 @@
 - [Applied Functional Programming Course](https://github.com/qfpl/applied-fp-course)
 - [Effects](https://github.com/stepchowfun/effects) - Brief exploration of the various approaches to modeling side effects in a purely functional programming language.
 - [Code and materials for book "Functional Design and Architecture" (2019)](https://github.com/graninas/Functional-Design-and-Architecture)
+- [Practical Functional Programming: Prelude (2018)](https://www.gasi.ch/blog/practical-functional-programming)
 
 ## Images
 

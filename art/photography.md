@@ -9,6 +9,8 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 - [Simen Johan](http://www.simenjohan.com/x/index.html)
 - [Samuel Zeller](https://archive.samuelzeller.ch/) - His [Botanical](https://www.samuelzeller.ch/botanical) project is awesome.
 - [Thomas Heaton](https://www.instagram.com/heatonthomas/)
+- [Michal Pelka](https://www.instagram.com/michalpelka/) - Beautiful photos of waves.
+- [Tobias van Schneider](https://unsplash.com/@vanschneider/)
 
 ## Interesting photographers
 

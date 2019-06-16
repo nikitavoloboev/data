@@ -56,3 +56,5 @@
 - [nixfmt](https://github.com/serokell/nixfmt) - Formatter for Nix code.
 - [Nix for devs](https://github.com/uniphil/nix-for-devs) - Collection of recipes focused on nix-shell to make setting up project environments easy.
 - [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
+- [Nix builder for Kubernetes](https://gist.github.com/tazjin/08f3d37073b3590aacac424303e6f745)
+- [Nixery](https://nixery.appspot.com/) - Provides the ability to pull ad-hoc container images from a Docker-compatible registry server.

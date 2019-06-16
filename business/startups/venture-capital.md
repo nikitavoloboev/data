@@ -7,3 +7,4 @@
 - [How Do Venture Capitalists Make Decisions? (2017)](https://medium.com/vcdium/venture-capital-decision-making-c3258bc1b09c)
 - [Reflecting on My Failure to Build a Billion-Dollar Company (2019)](https://medium.com/s/story/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7)
 - [The Guide to Raising Venture Capital](https://www.holloway.com/s/rn-rvc-e0_5)
+- [Lux Capital](https://www.luxcapital.com/) - Invests in emerging science and technology ventures at the outermost edges of what is possible.

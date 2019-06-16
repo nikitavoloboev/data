@@ -6,3 +6,4 @@
 - [Go gRPC Middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Interceptor chaining, auth, logging, retries and more.
 - [gRPC-rs](https://github.com/pingcap/grpc-rs) - Rust wrapper of gRPC Core. gRPC is a high performance, open source universal RPC framework that puts mobile and HTTP/2 first.
 - [Twirp](https://github.com/twitchtv/twirp) - Simple RPC framework with protobuf service definitions.
+- [RPCValet: NI-driven tail-aware balancing of µs-scale RPCs (2019)](https://blog.acolyer.org/2019/05/20/rpcvalet/)

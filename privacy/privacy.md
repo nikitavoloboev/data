@@ -34,3 +34,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [HN: How Facebook tracks you on Android (2018)](https://news.ycombinator.com/item?id=18788658)
 - [Facebook’s Privacy Cake (2019)](https://stratechery.com/2019/facebooks-privacy-cake/)
 - [The New Wilderness (2019)](https://idlewords.com/2019/06/the_new_wilderness.htm)
+- [Getting my personal data out of Facebook](https://ruben.verborgh.org/facebook/) - I left Facebook, and all I got was this lousy legalese.

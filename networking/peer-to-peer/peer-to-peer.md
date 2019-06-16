@@ -11,3 +11,6 @@
 - [Moonad](https://github.com/moonad/Whitepaper#readme) - Peer-to-Peer Operating System.
 - [libp2p implementation in Go](https://github.com/libp2p/go-libp2p)
 - [DTN Conf sketch notes from 2019 event](https://twitter.com/_lrlna/status/1129361644134567936)
+- [Wireline](https://www.wireline.io/#about) - Peer-to-peer network for open source applications.
+- [Cabal](https://cabal.chat/) - Experimental p2p community chat platform.
+- [Radicle](http://radicle.xyz/) - Peer-to-peer stack for code collaboration.

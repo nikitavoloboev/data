@@ -62,3 +62,5 @@
 - [Reference implementation for the JavaScript Binary AST format](https://github.com/binast/binjs-ref)
 - [Babel Handbook](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/README.md)
 - [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme)
+- [Faster script loading with BinaryAST? (2019)](https://blog.cloudflare.com/binary-ast/)
+- [recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator.

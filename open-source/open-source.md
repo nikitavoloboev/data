@@ -31,3 +31,5 @@ The key to success in Open Source lies in understanding that it's not just about
 - [How to maintain a bunch of open source projects (2019)](https://macwright.org/2019/03/28/oss-at-scale.html)
 - [HN: GitHub Sponsors Launch (2019)](https://news.ycombinator.com/item?id=19989684)
 - [Open Source Guides](https://opensource.guide/)
+- [The struggles of an open source maintainer (2019)](http://antirez.com/news/129)
+- [Open source beyond the market (2019)](https://m.signalvnoise.com/open-source-beyond-the-market/)

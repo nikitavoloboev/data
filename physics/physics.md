@@ -32,3 +32,4 @@ Perhaps we can replicate a universe like ours in the future. One of the more int
 - [The Mystery at the Bottom of Physics (2019)](https://www.youtube.com/watch?v=EH-z9gE2uGY)
 - [Ask HN: Physicists of HN, what are you working on these days? (2019)](https://news.ycombinator.com/item?id=19500151)
 - [In conversation with Nima Arkani-Hamed (2014)](https://www.youtube.com/watch?v=pup3s86oJXU)
+- [A Peek into Einstein's Zurich Notebook](https://www.pitt.edu/%7Ejdnorton/Goodies/Zurich_Notebook/)

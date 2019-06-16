@@ -29,3 +29,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy.
 - [Open Screen Protocol](https://github.com/webscreens/openscreenprotocol) - Suite of network protocols that allow user agents to implement the Presentation API and the Remote Playback API in an interoperable fashion.
 - [The world in which IPv6 was a good design (2017)](https://apenwarr.ca/log/20170810)
+- [Yggdrasil](https://yggdrasil-network.github.io/) - Early-stage implementation of a fully end-to-end encrypted IPv6 network.

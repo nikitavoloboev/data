@@ -12,3 +12,8 @@
 - [Why I'm excited about decentralized social networks](https://tinysubversions.com/notes/decentralized-social-networks/)
 - [Ask HN: Is it worth getting into distributed systems after 12 years full stack? (2018)](https://news.ycombinator.com/item?id=18370749)
 - [Lux](https://github.com/LUX-Core/lux) - Hybrid PoW/PoS & Unique PHI2 Algorithm | Masternode | Parallel masternode | Segwit | Smartcontract | Luxgate | Proof of file storage (Decentralised distributed file storage).
+- [Decentralisation: the next big step for the world wide web](https://www.theguardian.com/technology/2018/sep/08/decentralisation-next-big-step-for-the-world-wide-web-dweb-data-internet-censorship-brewster-kahle)
+- [ProtoSchool](https://proto.school/#/) - Interactive tutorials on decentralized web protocols.
+- [Decentralized data structures tutorial](https://proto.school/#/data-structures/01)
+- [Decentraland Marketplace](https://decentraland.org/) - Fully decentralized and open market where you can discover, buy, sell, and manage your parcels of LAND.
+- [ditCraft](https://ditcraft.io/) - Dit is the decentralized git. Distributed and democratic governance for software projects.

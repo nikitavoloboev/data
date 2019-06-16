@@ -13,3 +13,4 @@
 - [Federalist](https://federalist.18f.gov/) - Publishing platform for modern, compliant government websites.
 - [Open State Foundation](https://openstate.eu/en/) - Open data for digital transparency.
 - [FreeSociety](https://www.freesociety.com/) - We are purchasing sovereignty from a government to create the world’s first Free Society.
+- [YC Request for Startups: Government 2.0](https://blog.ycombinator.com/request-for-startups-government-2-0/) ([HN](https://news.ycombinator.com/item?id=19993517))

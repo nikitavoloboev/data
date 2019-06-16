@@ -12,3 +12,4 @@
 - [How to prepare for competitive programming?](https://medium.com/@andreimargeloiu/how-to-prepare-for-competitive-programming-396d557e0c12)
 - [What is the best strategy to improve my skills in competitive programming in C++ in 2-3 months?](https://www.quora.com/What-is-the-best-strategy-to-improve-my-skills-in-competitive-programming-in-C++-in-2-3-months)
 - [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
+- [Collection of algorithms and data structures I use in programming contests](https://github.com/stjepang/snippets)

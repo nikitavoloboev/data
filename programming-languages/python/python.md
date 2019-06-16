@@ -23,3 +23,6 @@
 - [cpython](https://github.com/python/cpython) - Python programming language source code.
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again.
 - [Python at Netflix (2019)](https://medium.com/netflix-techblog/python-at-netflix-bba45dae649e)
+- [Things you’re probably not using in Python 3 – but should (2019)](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/) ([HN](https://news.ycombinator.com/item?id=19916089))
+- [Black](https://github.com/python/black) - Uncompromising Python code formatter. ([HN](https://news.ycombinator.com/item?id=19939806))
+- [Amber Brown: Batteries Included, But They're Leaking](http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html) ([HN](https://news.ycombinator.com/item?id=19948642))

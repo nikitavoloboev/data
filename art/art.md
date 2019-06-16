@@ -26,6 +26,8 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Banksy](http://banksy.co.uk/out.asp)
 - [Nicola Samorì](http://www.nicolasamori.com/)
 - [Malika Favre](https://www.malikafavre.com/)
+- [Khius Art](https://www.artstation.com/khius)
+- [Victor Vasarely](https://en.m.wikipedia.org/wiki/Victor_Vasarely)
 
 ## Interesting artists
 
@@ -55,6 +57,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Sage Jenson](https://sagejenson.com) - Generative art.
 - [Wenyi Geng](http://www.wenyigeng.com/)
 - [Cristian Eres](https://www.cristianeres.com/) - Sci-Fi artist & Illustrator.
+- [Roman Muradov](https://www.bluebed.net/)
 
 ## Interesting art
 
@@ -63,6 +66,9 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Four Chambers (nudity)](https://afourchamberedheart.com/)
 - [Loop code](http://loop-code.surge.sh/)
 - [Girl Statue](https://www.artstation.com/artwork/w8rYB5)
+- [A silent room](https://www.booooooom.com/submissions/a-silent-room/)
+- [The Moleskine Project VIII](https://www.booooooom.com/2019/06/05/the-moleskine-project-viii/)
+- [Booooooom](https://www.booooooom.com/blog/art/)
 
 ## Notes
 

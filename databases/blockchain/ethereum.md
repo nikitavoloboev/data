@@ -20,3 +20,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Status](https://github.com/status-im/status-react) - Mobile Ethereum Operating System.
 - [EthHub](https://ethhub.io/) - The goal of EthHub is to provide a single source for essential Ethereum information.
 - [Urbit](https://github.com/urbit/urbit) - Urbit virtual machine.
+- [A Journey Through Phase 2 of Ethereum 2.0 (2019)](https://medium.com/@william.j.villanueva/a-journey-through-phase-2-of-ethereum-2-0-c7a2397a36cb)

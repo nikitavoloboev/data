@@ -42,6 +42,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Formalization of category theory in cubical Agda](https://github.com/fredefox/cat)
 - [Applied Category Theory Course: Databases](https://johncarlosbaez.wordpress.com/2018/06/06/applied-category-theory-course-databases/)
 - [Category theory library for Agda](https://github.com/jmchapman/categories)
+- [Conexus Act](https://conexus.ai/ventures) - Looking for promising ventures that want to utilize category theory to pursue the latest breakthroughs in Logistics, Pharma, Aerospace, Manufacturing, Transportation and more.
 
 ## Images
 

@@ -91,3 +91,4 @@
 - [Multi-Level Intermediate Representation Overview](https://github.com/tensorflow/mlir) - MLIR project aims to define a common intermediate representation (IR) that will unify the infrastructure required to execute high performance machine learning models in TensorFlow and similar ML frameworks.
 - [PySparNN](https://github.com/facebookresearch/pysparnn) - Approximate Nearest Neighbor Search for Sparse Data in Python.
 - [Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course#readme)
+- [ICML](https://icml.cc/) - International Conference on Machine Learning.

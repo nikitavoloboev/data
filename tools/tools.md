@@ -73,6 +73,10 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Fabric](https://get.fabric.io/) - Platform that helps your mobile team build better apps, understand your users, and grow your business.
 - [Squoosh](https://squoosh.app/) - Make images smaller using best-in-class codecs, right in the browser.
 - [Mathigon](https://mathigon.org/) - Smartest textbook in the world.
+- [Versus](https://versus.com/en) - Discover more than 7 million comparisons. Smartphones, Cities, Apps, Universities and much more.
+- [envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting.
+- [Sheetson](https://sheetson.com/) - Instantly turn any Google Sheet into RESTful API.
+- [Are.na](https://www.are.na/) - Save content, create collections, and connect ideas with other people.
 
 ## Notes
 

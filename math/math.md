@@ -73,3 +73,5 @@
 - [too simple to be simple](https://ncatlab.org/nlab/show/too+simple+to+be+simple)
 - [Self Studying the MIT Applied Math Curriculum (2019)](https://www.harshsikka.me/self-studying-the-mit-applied-math-curriculum/) ([HN](https://news.ycombinator.com/item?id=19811715))
 - [Timeline of Mathematics](https://mathigon.org/timeline/)
+- [Ask HN: Where can I do a self-study math degree online? (2019)](https://news.ycombinator.com/item?id=19902746)
+- [Beautiful Math](https://www.scientificamerican.com/article/beautiful-math/) - New book shows off spectacular works of art inspired by mathematical principles.

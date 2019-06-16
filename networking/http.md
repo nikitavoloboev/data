@@ -10,3 +10,4 @@
 - [Apache HTTP Server](https://github.com/apache/httpd)
 - [llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse.
 - [Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and intuitive HTTP Debugging Proxy for macOS & iOS.
+- [see](https://github.com/wyhaya/see) - Static web server, developed using rust.

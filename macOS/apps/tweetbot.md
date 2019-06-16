@@ -22,3 +22,4 @@ I split the app into 3 columns on mac. On iOS, I only read through my [Top list]
 
 - [Tweetbot 3 URL Schemes](https://tapbots.net/tweetbot3/support/url-schemes/)
 - [How I use Twitter (2018)](https://krausefx.com/blog/how-i-use-twitter)
+- [Twitter Lists](https://github.com/AndySparks/captains-log/blob/master/resources/reading-lists/twitter-lists.md)
