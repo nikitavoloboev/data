@@ -116,6 +116,7 @@ Below are books I read sorted by year I read them in. The books with links attac
 - [My Favourite Book Recommendations by catonmat](https://catonmat.net/archive?q=books)
 - [Hacker News Books](https://hackernewsbooks.com/) - Dozens of book recommendations delivered straight to your inbox.
 - [Ted Chiang's books + audiobooks](https://www.sffaudio.com/features/author-pages/ted-chiang/)
+- [Some fiction audiobook recommendations](https://www.reddit.com/r/audiobooks/comments/bz14cx/i_just_finished_the_dark_tower_series_which_was/)
 
 ## Notes
 

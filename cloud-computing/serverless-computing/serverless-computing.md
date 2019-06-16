@@ -10,3 +10,4 @@
 - [ƒun](https://github.com/zeit/fun) - Local serverless function λ development runtime.
 - [faast.js](https://faastjs.org/) - Serverless batch computing made simple.
 - [Introducing Serverless Pre-Rendering (SPR) (2019)](https://zeit.co/blog/serverless-pre-rendering)
+- [Netlify Functions](https://www.netlify.com/products/functions/) - Modern, scalable backend built into every Netlify account. No setup, servers, or ops required.

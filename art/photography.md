@@ -11,6 +11,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 - [Thomas Heaton](https://www.instagram.com/heatonthomas/)
 - [Michal Pelka](https://www.instagram.com/michalpelka/) - Beautiful photos of waves.
 - [Tobias van Schneider](https://unsplash.com/@vanschneider/)
+- [Artem Sapegin](https://morning.photos/albums)
 
 ## Interesting photographers
 

@@ -35,3 +35,4 @@ Personally I found dating apps like Tinder to be a [waste of time](https://twitt
 - [You are enough - Women are a by-product](https://www.youtube.com/watch?v=AFqwULzGXCk)
 - [Your Friends Are Holding You Back (2019)](https://www.youtube.com/watch?v=vWz1vuBpUnI)
 - [The origins of seduction (with James Marshall, Sasha Daygame, John Keegan) (2019)](https://www.youtube.com/watch?v=Yx9rpr4XQMM)
+- [Fuck Yes or No (2013)](https://markmanson.net/fuck-yes)
