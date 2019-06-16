@@ -65,6 +65,7 @@
 - [Carta](https://carta.com/) - Helps private companies, public companies, and investors manage their cap tables, valuations, investments, and equity plans.
 - [Establishing a company in Estonia](https://investinestonia.com/business-in-estonia/establishing-company/)
 - [B-corporation](https://bcorporation.net/) - Certified B Corporations are a new kind of business that balances purpose and profit..
+- [Why startups are hard — the math of venture capital returns tells the story](https://andrewchen.co/venture-capital-returns/)
 
 ## Images
 

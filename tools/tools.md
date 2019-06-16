@@ -77,6 +77,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting.
 - [Sheetson](https://sheetson.com/) - Instantly turn any Google Sheet into RESTful API.
 - [Are.na](https://www.are.na/) - Save content, create collections, and connect ideas with other people.
+- [Otter](https://otter.ai/) - Generate rich notes for meetings, interviews, lectures, and other important voice conversations.
 
 ## Notes
 

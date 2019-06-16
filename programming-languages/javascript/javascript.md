@@ -65,3 +65,4 @@
 - [Faster script loading with BinaryAST? (2019)](https://blog.cloudflare.com/binary-ast/)
 - [recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator.
 - [Madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies.
+- [npmfs](https://npmfs.com/) - JavaScript Package Inspector.

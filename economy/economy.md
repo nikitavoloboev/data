@@ -12,3 +12,4 @@
 
 - [Global Capitalism: A Looming Economic Crisis](https://www.youtube.com/watch?v=5hYKgyUU024)
 - [Supply, Demand, and the Value of Markets (2019)](https://www.youtube.com/watch?v=PNtKXWNKGN8)
+- [The changing structure of American innovation: Some cautionary remarks for economic growth (2019)](https://www.nber.org/chapters/c14259.pdf)

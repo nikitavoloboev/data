@@ -39,3 +39,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 - [Apple highlights best photos shot on iPhone around the world (2019)](https://www.apple.com/newsroom/2019/02/apple-highlights-best-photos-shot-on-iphone-around-the-world/)
 - [Photo Critique subreddit](https://www.reddit.com/r/photocritique/) - Amazing sub.
 - [Поляроиды за год](http://sergeykorol.ru/blog/polaroids/)
+- [Two months with the Leica Q2 (2019)](https://photos.mrfrisby.com/two-months-with-the-leica-q2)

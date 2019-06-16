@@ -28,6 +28,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Malika Favre](https://www.malikafavre.com/)
 - [Khius Art](https://www.artstation.com/khius)
 - [Victor Vasarely](https://en.m.wikipedia.org/wiki/Victor_Vasarely)
+- [Tomer Hanuka](http://thanuka.com/) - Illustrator and a comics artist.
 
 ## Interesting artists
 
@@ -58,6 +59,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Wenyi Geng](http://www.wenyigeng.com/)
 - [Cristian Eres](https://www.cristianeres.com/) - Sci-Fi artist & Illustrator.
 - [Roman Muradov](https://www.bluebed.net/)
+- [Tales from the Inner City](http://www.shauntan.net/books/TFIC/TFIC%20main.html)
 
 ## Interesting art
 

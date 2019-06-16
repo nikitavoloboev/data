@@ -42,3 +42,4 @@ I love Git and version control. And I use version control over any project I do.
 - [The Many Benefits of Using a Monorepo (2019)](https://pspdfkit.com/blog/2019/benefits-of-a-monorepo/) ([HN](https://news.ycombinator.com/item?id=19795482))
 - [Lefthook](https://github.com/Arkweid/lefthook) - Git hooks manager.
 - [git rebase in depth](https://git-rebase.io/) ([HN](https://news.ycombinator.com/item?id=19877811))
+- [Highlights from Git 2.22 (2019)](https://github.blog/2019-06-07-highlights-from-git-2-22/)

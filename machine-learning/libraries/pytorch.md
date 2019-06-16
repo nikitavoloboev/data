@@ -24,3 +24,4 @@
 - [PyTorch adds new dev tools as it hits production scale (2019)](https://ai.facebook.com/blog/pytorch-adds-new-dev-tools-as-it-hits-production-scale/)
 - [PyTorch tutorials demonstrating modern techniques with readable code](https://github.com/spro/practical-pytorch)
 - [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
+- [Towards Reproducible Research with PyTorch Hub (2019)](https://pytorch.org/blog/towards-reproducible-research-with-pytorch-hub/)

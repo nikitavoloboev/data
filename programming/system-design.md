@@ -7,3 +7,4 @@
 - [Ask HN: What should a systems/low-level software engineer know? (2019)](https://news.ycombinator.com/item?id=18881649)
 - [Systems Thinking Speech by Dr. Russell Ackoff](https://www.youtube.com/watch?v=EbLh7rZ3rhU)
 - [Going Critical (2019)](https://www.meltingasphalt.com/interactive/going-critical/) ([HN](https://news.ycombinator.com/item?id=19905677))
+- [Thinking in Systems by Donella Meadows (2019)](http://beza1e1.tuxen.de/thinking_in_systems.html) ([Lobsters](https://lobste.rs/s/n7g3x5/thinking_systems_by_donella_meadows))

@@ -37,3 +37,4 @@
 - [Concise and powerful introduction to GraphQL for React developers](https://learn.hasura.io/graphql/react/)
 - [Prisma](https://www.prisma.io/) - Simplifies database access. It lets you read and write data to your database using your favorite programming language.
 - [GraphQL Playground](https://github.com/prisma/graphql-playground) - GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration).
+- [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph.

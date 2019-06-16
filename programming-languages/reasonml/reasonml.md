@@ -25,3 +25,4 @@
 - [The Birth of React and Reason with Jordarn Walke (2019)](https://overcast.fm/+Q5fSfHCDs)
 - [Reason Language Server](https://github.com/jaredly/reason-language-server) - Implements the Language Server Protocol for Reason.
 - [Js_of_ocaml and BuckleScript (2019)](https://www.javierchavarri.com/js_of_ocaml-and-bucklescript/)
+- [Journey to Trait-like behaviour in ReasonML/OCaml (2019)](https://gustavoaguiar.dev/journey-trait-like-behavior-reasonml/)
