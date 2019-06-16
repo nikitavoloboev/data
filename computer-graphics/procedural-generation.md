@@ -8,3 +8,4 @@
 - [Go port of the Wave Function Collapse algorithm](https://github.com/shawnridgeway/wfc)
 - [Rant](https://github.com/TheBerkin/rant) - All-purpose procedural text engine that is most simply described as the opposite of Regex.
 - [TinkerSynth](https://tinkersynth.com/) - Create and purchase unique generative art.
+- [Cartographer](https://v-os.ca/cartographer) - Procedurally generated persistent multiplayer exploration game.

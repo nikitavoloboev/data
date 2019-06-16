@@ -35,3 +35,4 @@ Success comes from not giving up and doing what you love.
 - [David Epstein on Mastery, Specialization, and Range (2019)](https://overcast.fm/+JCRwsi4)
 - [Joe Rogan Experience #1309 - Naval Ravikant (2019)](https://www.youtube.com/watch?v=3qHkcs3kG44)
 - [Keep Redefining What You Do](https://nav.al/redefining)
+- [Jeremy’s Strategies for Becoming Excellent](http://www.calnewport.com/blog/2011/12/23/flow-is-the-opiate-of-the-medicore-advice-on-getting-better-from-an-accomplished-piano-player/)

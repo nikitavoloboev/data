@@ -58,3 +58,4 @@
 - [Sealed Rust (2019)](https://ferrous-systems.com/blog/sealed-rust-the-pitch/)
 - [Async Rust Programming Book](https://rust-lang.github.io/async-book/getting_started/why_async.html#why-async)
 - [Best short-form writing about Rust, collected](https://github.com/brson/rust-anthology#readme)
+- [Update on await syntax](https://boats.gitlab.io/blog/post/await-decision-ii/) ([HN](https://news.ycombinator.com/item?id=20030486))

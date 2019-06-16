@@ -43,3 +43,5 @@ I love Git and version control. And I use version control over any project I do.
 - [Lefthook](https://github.com/Arkweid/lefthook) - Git hooks manager.
 - [git rebase in depth](https://git-rebase.io/) ([HN](https://news.ycombinator.com/item?id=19877811))
 - [Highlights from Git 2.22 (2019)](https://github.blog/2019-06-07-highlights-from-git-2-22/)
+- [What is a fork, really, and how GitHub changed its meaning (2019)](https://drewdevault.com/2019/05/24/What-is-a-fork.html) ([Lobsters](https://lobste.rs/s/txx8vu/what_is_fork_really_how_github_changed_its)) ([HN](https://news.ycombinator.com/item?id=20001570))
+- [More productive Git](https://increment.com/open-source/more-productive-git/) ([HN](https://news.ycombinator.com/item?id=20004224))

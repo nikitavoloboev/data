@@ -25,3 +25,5 @@
 - [Insight Mission Comic (2018)](https://theoatmeal.com/comics/insight)
 - [Aliens under the Ice – Life on Rogue Planets (2018)](https://www.youtube.com/watch?v=M7CkdB5z9PY)
 - [ehtim (eht-imaging)](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry.
+- [Starlink](https://www.starlink.com/) - SpaceX’s broadband internet system. ([HN](https://news.ycombinator.com/item?id=19998710))
+- [Apollo 11 in Real Time](https://apolloinrealtime.org/11/) ([HN](https://news.ycombinator.com/item?id=20193118))

@@ -18,3 +18,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 ## Links
 
 - [Videvo](https://www.videvo.net/) - Free Stock Video Footage.
+- [H.264 is Magic (2016)](https://sidbala.com/h-264-is-magic/) ([HN](https://news.ycombinator.com/item?id=19997813))

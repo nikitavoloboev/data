@@ -33,3 +33,4 @@ I [budget all my money](../economy/finance.md) into categories each month. This 
 - [Living with less. Everything i own now fits into a single carry-on bag.](http://www.wernervanrooyen.com/living-with-less-one-bag/)
 - [How a Month without Computers Changed Me](https://dev.to/iskin/how-a-month-without-computers-changed-me-1ho4)
 - [Going minimal (2012)](http://wy.io/going-minimal/)
+- [There Is Too Much Stuff (2019)](https://www.theatlantic.com/health/archive/2019/05/too-many-options/590185/) ([HN](https://news.ycombinator.com/item?id=20018756))

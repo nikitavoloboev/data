@@ -26,3 +26,4 @@
 - [Code for Stanford Natural Language Understanding course, CS224u (2019)](https://github.com/cgpotts/cs224u)
 - [Awesome Reinforcement Learning for Natural Language Processing](https://github.com/adityathakker/awesome-rl-nlp#readme)
 - [ParlAI](https://github.com/facebookresearch/ParlAI) - Framework for training and evaluating AI models on a variety of openly available dialogue datasets.
+- [Training language GANs from Scratch (2019)](https://arxiv.org/abs/1905.09922)

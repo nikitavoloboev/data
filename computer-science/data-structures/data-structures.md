@@ -17,3 +17,4 @@
 - [On lists, cache, algorithms, and microarchitecture (2019)](https://pdziepak.github.io/2019/05/02/on-lists-cache-algorithms-and-microarchitecture/)
 - [Topics in Advanced Data Structures (2019)](http://web.stanford.edu/class/cs166/handouts/100%20Suggested%20Final%20Project%20Topics.pdf) ([HN](https://news.ycombinator.com/item?id=19780387))
 - [CS166 Advanced DS Course (2019)](http://web.stanford.edu/class/cs166/)
+- [Advanced Data Structures (2017)](https://courses.csail.mit.edu/6.851/fall17/) ([HN](https://news.ycombinator.com/item?id=20044876))

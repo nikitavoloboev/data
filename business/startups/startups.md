@@ -21,6 +21,7 @@
 - [It is easier to ask for forgiveness than for permission.](https://www.theguardian.com/technology/2019/jan/20/shoshana-zuboff-age-of-surveillance-capitalism-google-facebook)
 - [If you don’t have product-market fit, your startup is fucked. You probably don’t have it if: You aren’t growing. You have high churn. Your product is hard to sell. Customers don’t seem to care that much. Here are some simple steps to find product-market fit.](https://twitter.com/justinkan/status/1133822625090719744)
 - [Speed matters because frontier people like it and will go to the places where speed is possible. It maximizes their comparative advantage. If your field ceases to support speed, you’ll lose frontier people and stagnate.](https://marginalrevolution.com/marginalrevolution/2019/04/does-the-speed-of-production-matter.html)
+- [Under-valued skills of good startup founders: 1. Ability to create process 2. Writing clearly 3. Delaying gratification 4. Knowing when not to talk 5. Saying no to almost everything, but yes when it truly matters](https://mobile.twitter.com/AndyGCook/status/1134828886821416960)
 
 ## Links
 
@@ -66,6 +67,7 @@
 - [Establishing a company in Estonia](https://investinestonia.com/business-in-estonia/establishing-company/)
 - [B-corporation](https://bcorporation.net/) - Certified B Corporations are a new kind of business that balances purpose and profit..
 - [Why startups are hard — the math of venture capital returns tells the story](https://andrewchen.co/venture-capital-returns/)
+- [Ask HN: Starting Your Own LLC? (2019)](https://news.ycombinator.com/item?id=20009534)
 
 ## Images
 

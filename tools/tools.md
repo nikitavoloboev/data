@@ -78,6 +78,8 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Sheetson](https://sheetson.com/) - Instantly turn any Google Sheet into RESTful API.
 - [Are.na](https://www.are.na/) - Save content, create collections, and connect ideas with other people.
 - [Otter](https://otter.ai/) - Generate rich notes for meetings, interviews, lectures, and other important voice conversations.
+- [Tettra](https://tettra.co/) - Knowledge management system for high-performance teams.
+- [UIBot](http://www.uibot.app/) - Experiment on how far one could automate the generation of visual designs, what kinds of advantages it would lead to and what issues one would face.
 
 ## Notes
 

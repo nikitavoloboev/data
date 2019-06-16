@@ -67,3 +67,4 @@
 - [Unstated Next](https://github.com/jamiebuilds/unstated-next) - 200 bytes to never think about React state management libraries ever again.
 - [React Europe (2019)](https://www.youtube.com/watch?v=ERS0DO2xlAk)
 - [Security and Data in React - Richard Threlkeld (2019)](amzn.to/314AnD6)
+- [Best practices for building a large scale react application (2019)](https://buttercms.com/blog/best-practices-for-building-a-large-scale-react-application)

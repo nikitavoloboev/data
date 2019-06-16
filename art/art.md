@@ -60,6 +60,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Cristian Eres](https://www.cristianeres.com/) - Sci-Fi artist & Illustrator.
 - [Roman Muradov](https://www.bluebed.net/)
 - [Tales from the Inner City](http://www.shauntan.net/books/TFIC/TFIC%20main.html)
+- [Jie Ma](https://www.behance.net/jiema37?)
 
 ## Interesting art
 

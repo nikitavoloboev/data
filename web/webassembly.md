@@ -29,3 +29,4 @@
 - [WebAssembly Micro Runtime](https://github.com/intel/wasm-micro-runtime) - Standalone WebAssembly (WASM) runtime with a small footprint.
 - [inNative](https://github.com/innative-sdk/innative) - Native non-web embedding of WebAssembly for Windows/Linux.
 - [Introducing inNative (2019)](https://innative.dev/news/introducing-innative/) - Run WebAssembly Outside The Sandbox at 95% Native Speed.
+- [Compiling C to WebAssembly without Emscripten (2019)](https://dassur.ma/things/c-to-webassembly/)

@@ -14,3 +14,5 @@
 - [Open State Foundation](https://openstate.eu/en/) - Open data for digital transparency.
 - [FreeSociety](https://www.freesociety.com/) - We are purchasing sovereignty from a government to create the world’s first Free Society.
 - [YC Request for Startups: Government 2.0](https://blog.ycombinator.com/request-for-startups-government-2-0/) ([HN](https://news.ycombinator.com/item?id=19993517))
+- [A Review of Contemporary E-voting: Requirements, Technology, Systems and Usability (2017)](https://pdfs.semanticscholar.org/e734/d63888d81075efa0402599ae4e43772cf2e7.pdf)
+- [Shuffling Public Keys (A Peer-to-peer Voting Algorithm)](http://vixra.org/pdf/1905.0239v1.pdf) ([HN](https://news.ycombinator.com/item?id=20067480))

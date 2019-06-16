@@ -75,3 +75,4 @@
 - [Timeline of Mathematics](https://mathigon.org/timeline/)
 - [Ask HN: Where can I do a self-study math degree online? (2019)](https://news.ycombinator.com/item?id=19902746)
 - [Beautiful Math](https://www.scientificamerican.com/article/beautiful-math/) - New book shows off spectacular works of art inspired by mathematical principles.
+- [Cardano's formula (2019)](https://benoncoffee.github.io/2019/05/20/cardanos-formula/) ([Lobsters](https://lobste.rs/s/vlzdnj/cardano_s_formula))

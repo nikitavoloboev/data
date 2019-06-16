@@ -28,3 +28,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Ask HN: What programming language should I learn next? (2019)](https://news.ycombinator.com/item?id=19504453)
 - [Next-Paradigm Programming Languages: What Will They Look Like and What Changes Will They Bring?](https://arxiv.org/abs/1905.00402) ([HN](https://news.ycombinator.com/item?id=19803379))
 - [Semantic](https://github.com/github/semantic) - Haskell library and command line tool for parsing, analyzing, and comparing source code.
+- [DSLs for non-programmers are a hoax (2019)](https://artur-martsinkovskyi.github.io//2019/dsls-are-hoax/) ([HN](https://news.ycombinator.com/item?id=20007813))
+- [Comparing the Same Project in Rust, Haskell, C++, Python, Scala and OCaml (2019)](http://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/) ([HN](https://news.ycombinator.com/item?id=20192645))
