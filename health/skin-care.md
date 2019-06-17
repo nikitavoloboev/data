@@ -4,7 +4,7 @@ My morning skin routine consists of applying [Facial Oil-Free Cleanser](https://
 
 Upon leaving my home and going outside, I always apply my [SPF 50 Mineral Sunscreen](https://www.clinique.com/product/1661/40650/sun/sun-protection/spf-50-mineral-sunscreen-fluid-for-face) sunscreen on my face.
 
-My evening skin routine is the same as the morning. Cleanser followed by a moisturizer. However once a week or two weeks, I apply [Facial Overnight Hydrating Mask](https://www.kiehls.com/skincare/dry-skin/ultra-facial-overnight-hydrating-mask/3601.html) instead of my moisturizer and leave it on as I go to sleep.
+My evening skin routine is using cleanser followed by a moisturizer. Once a week, I also apply [Facial Overnight Hydrating Mask](https://www.kiehls.com/skincare/dry-skin/ultra-facial-overnight-hydrating-mask/3601.html) instead of my moisturizer and leave it on as I go to sleep.
 
 I never touch my face with dirty hands and try to never frown and just smile.
 
