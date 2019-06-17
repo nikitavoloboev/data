@@ -66,3 +66,4 @@
 - [recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator.
 - [Madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies.
 - [npmfs](https://npmfs.com/) - JavaScript Package Inspector.
+- [Fantasy Land Specification](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript.

@@ -17,7 +17,6 @@
 - [Kong](https://github.com/Kong/kong) - Cloud-Native API Gateway & Service Mesh.
 - [Disque](https://github.com/antirez/disque) - Distributed message broker.
 - [Mesh](https://github.com/weaveworks/mesh) - Tool for building distributed applications.
-- [Go Micro](https://github.com/micro/go-micro) - Framework for micro service development.
 - [Raft](https://github.com/pingcap/raft-rs) - Raft distributed consensus algorithm implemented in Rust.
 - [libp2p specification](https://github.com/libp2p/specs#readme) - Technical specifications for the libp2p networking stack.
 - [Class materials for a distributed systems lecture series](https://github.com/aphyr/distsys-class#readme)

@@ -68,3 +68,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS 12.2 to 13.0 API Differences](http://codeworkshop.net/objc-diff/sdkdiffs/ios/13.0/)
 - [WWDC by Sundell](https://wwdcbysundell.com/) - Daily coverage of Apple’s WWDC 2019 conference, by John Sundell.
 - [iOS 13 Concept](https://www.behance.net/gallery/80675205/iOS-13-Concept-by-Alvaro-Pabesio?)
+- [WWDC 2019 Session Notes](https://github.com/Blackjacx/WWDC#readme)
