@@ -22,3 +22,4 @@
 - [postgresqltuner.pl](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
 - [Common mistakes in PostgreSQL](https://wiki.postgresql.org/wiki/Don%27t_Do_This) ([HN](https://news.ycombinator.com/item?id=19817531))
 - [pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go.
+- [postgres-operator](https://github.com/CrunchyData/postgres-operator) - Controller that runs within a Kubernetes cluster that provides a means to deploy and manage PostgreSQL clusters.

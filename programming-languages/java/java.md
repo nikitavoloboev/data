@@ -6,3 +6,4 @@
 - [HN: “No, we’re telling everyone we are using Java” (2019)](https://news.ycombinator.com/item?id=19346017)
 - [IT runs on Java 8 (2019)](https://news.ycombinator.com/item?id=19877916) ([HN](https://news.ycombinator.com/item?id=19877916))
 - [Java on iOS, for real (2019)](https://gluonhq.com/java-on-ios-for-real/)
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)

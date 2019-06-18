@@ -1,7 +1,5 @@
 # Cryptography
 
-[Keybase](https://keybase.io) and [Signal](https://signal.org) are pretty awesome.
-
 ## Links
 
 - [Making Private Communication Simple - Moxie Marlinspike](https://www.youtube.com/watch?v=kp-b8iTZqzM)
@@ -14,3 +12,6 @@
 - [Asymmetric Cryptography: Works Like Magic](https://dominictarr.com/post/106497926352/asymmetric-cryptography-works-like-magic)
 - [saltpack](https://github.com/keybase/saltpack) - Modern crypto messaging format.
 - [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
+- [Keybase](https://keybase.io) - Secure groups, files, and chat for everyone.
+- [Signal](https://signal.org) - Secure messenger.
+

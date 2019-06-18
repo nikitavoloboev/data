@@ -29,3 +29,4 @@
 - [Protocol Labs](https://protocol.ai/) - Build protocols, systems, and tools to improve internet.
 - [Dark Crystal](https://darkcrystal.pw/about) - Open source R&D affinity. Exploring the potential of new and existing technologies in crypto-space to encourage horizontal group collaboration.
 - [Protozoa](http://protozoa.nz/) - Web developers, facilitators, crypto-engineers. Experts in Node.js & distributed systems.
+- [Akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM.

@@ -1,14 +1,12 @@
 # Cryptocurrencies
 
-## Favorite
-
-- [Cardano SL](https://cardanodocs.com/introduction/)
-
 ## Interesting
 
+- [Cardano SL](https://cardanodocs.com/introduction/)
 - [Mobilecoin](https://www.mobilecoin.com)
 - [Nano](https://nano.org)
 - [Maker](https://makerdao.com/en/) - Comprised of a decentralized stablecoin, collateral loans, and community governance.
+- [Libra](libra.md)
 
 ## Links
 
