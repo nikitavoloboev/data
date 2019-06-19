@@ -3,6 +3,7 @@
 ## Other
 
 - [ow](https://github.com/sindresorhus/ow) - Argument type validation.
+- [ts-toolbelt](https://github.com/pirix-gh/ts-toolbelt) - Higher type safety for TypeScript.
 
 ## Links
 

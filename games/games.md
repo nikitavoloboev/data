@@ -35,3 +35,4 @@ I track [all the games I have played](https://www.grouvee.com/user/nikivi/shelve
 - [Awesome educational games](https://github.com/yrgo/awesome-eg#readme)
 - [If you had to recommend someone play 5 games to really get a feel for you/your tastes, what five would you pick?](https://twitter.com/jasonthinks/status/1036687671043579905)
 - [Gameboy.Live](https://github.com/HFO4/gameboy.live) - Basic gameboy emulator with terminal "Cloud Gaming" support.
+- [Awesome PICO-8](https://github.com/pico-8/awesome-PICO-8#readme)

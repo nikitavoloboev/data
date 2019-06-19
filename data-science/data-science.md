@@ -24,3 +24,4 @@
 - [Awesome Data Science with Python](https://github.com/r0f1/datascience#readme) - Curated list of Python resources for data science.
 - [Data Science (Cheat Sheets)](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 - [nteract](https://github.com/nteract/nteract) - Interactive computing suite for you.
+- [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
