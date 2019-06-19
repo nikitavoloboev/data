@@ -229,6 +229,7 @@
   - [Prolog](programming-languages/prolog/prolog.md)
   - [PureScript](programming-languages/purescript/purescript.md)
   - [Zig](programming-languages/zig/zig.md)
+  - [APL](programming-languages/apl/apl.md)
   - [Language Server Protocol](programming-languages/language-server-protocol.md)
 - [Data Science](data-science/data-science.md)
   - [Data Visualization](data-science/data-visualization.md)

@@ -12,3 +12,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [ClusterFuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure which finds security and stability issues in software.
 - [Some security related notes](https://github.com/jaybosamiya/security-notes#readme)
 - [RAMBleed](https://rambleed.com/) - Reading Bits in Memory Without Accessing Them.
+- [Sliver](https://github.com/BishopFox/sliver) - General purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS.

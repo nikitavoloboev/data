@@ -27,3 +27,4 @@
 - [Awesome Reinforcement Learning for Natural Language Processing](https://github.com/adityathakker/awesome-rl-nlp#readme)
 - [ParlAI](https://github.com/facebookresearch/ParlAI) - Framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [Training language GANs from Scratch (2019)](https://arxiv.org/abs/1905.09922)
+- [Olivia](https://github.com/olivia-ai/olivia) - Your new best friend built with an artificial neural network.
