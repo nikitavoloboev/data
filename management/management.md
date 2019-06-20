@@ -13,3 +13,4 @@
 - [Steve Jobs on managing people](https://twitter.com/ProductHunt/status/1066527144992522240)
 - [The Eng Team Handbook](https://github.com/raylene/eng-handbook#readme) - Developer's guide to management: an open-sourced handbook for leading engineering teams.
 - [Ask HN: As managers, how do you make sure your distributed team is aligned? (2019)](https://news.ycombinator.com/item?id=19761183)
+- [Ask HN: What are the signs that you have a great manager? (2019)](https://news.ycombinator.com/item?id=20230133)
