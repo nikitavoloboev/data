@@ -1,8 +1,8 @@
 # Fitness
 
-I try to do heavy exercise at least 3 times a week with bodyweight training or cardio.
+I currently do daily bodyweight exercises in form of situps & pushups. I also do cardio exercise daily either by running, cycling or walking & I like to play football weekly.
 
-I also never sit for prolonged times as it affects my posture and health in a negative way.
+I never sit for prolonged times & take breaks standing or walking around.
 
 ## Notes
 

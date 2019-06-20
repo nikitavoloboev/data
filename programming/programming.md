@@ -70,3 +70,4 @@
 - [7 absolute truths I unlearned as junior developer (2019)](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/) ([HN](https://news.ycombinator.com/item?id=20124018)) ([Lobsters](https://lobste.rs/s/zki5sf/7_absolute_truths_i_unlearned_as_junior))
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know#readme)
 - [Risk-First development book](https://riskfirst.org/)
+- [The Twelve-Factor App](https://www.12factor.net/)

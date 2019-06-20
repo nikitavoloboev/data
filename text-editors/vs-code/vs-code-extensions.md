@@ -192,6 +192,10 @@ Below is a list of extensions I use.
 
 - [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - Provide all-in-one features and utilities for LaTeX typesetting.
 
+## Coq
+
+- [Coq Support](https://github.com/siegebell/vscoq)
+
 ## Themes
 
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
