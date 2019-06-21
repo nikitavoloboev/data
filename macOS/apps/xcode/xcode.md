@@ -11,3 +11,4 @@
 - [Struct](https://github.com/lyptt/struct) - Tool for iOS and Mac developers to automate the creation and management of Xcode projects.
 - [XcodeProj](https://github.com/tuist/xcodeproj) - Read, update and write your Xcode projects.
 - [WWDC: Getting Started with Xcode (2019)](https://developer.apple.com/videos/play/wwdc2019/404/)
+- [index-import](https://github.com/lyft/index-import) - Tool to import swiftc and clang index-store files into Xcode.

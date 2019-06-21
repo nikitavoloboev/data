@@ -44,6 +44,7 @@
 - [react-teleporter](https://github.com/smooth-code/react-teleporter) - Teleport React components in the same React tree.
 - [re-resizable](https://github.com/bokuweb/re-resizable) - Resizable component for React.
 - [react-tiniest-router](https://github.com/kitze/react-tiniest-router) - Tiniest router for React, built with hooks.
+- [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook cards loading).
 
 ## Links
 

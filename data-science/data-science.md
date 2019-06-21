@@ -25,3 +25,4 @@
 - [Data Science (Cheat Sheets)](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 - [nteract](https://github.com/nteract/nteract) - Interactive computing suite for you.
 - [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
+- [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo#readme)
