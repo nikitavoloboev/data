@@ -93,3 +93,5 @@
 - [Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course#readme)
 - [ICML](https://icml.cc/) - International Conference on Machine Learning.
 - [Integrating Domain Knowledge into Deep Learning by Ruslan Salakhutdinov (2019)](https://www.youtube.com/watch?v=b8ABJZ7lfXU)
+- [Differentiation for Hackers](https://github.com/MikeInnes/diff-zoo) - The goal of this handbook is to demystify algorithmic differentiation, the tool that underlies modern machine learning.
+- [Automatic Differentiation in Machine Learning: a Survey](http://jmlr.org/papers/volume18/17-468/17-468.pdf)
