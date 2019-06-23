@@ -69,6 +69,8 @@
 - [Why startups are hard — the math of venture capital returns tells the story](https://andrewchen.co/venture-capital-returns/)
 - [Ask HN: Starting Your Own LLC? (2019)](https://news.ycombinator.com/item?id=20009534)
 - [Stack on a budget (Free Tier Driven Development FTDD)](https://github.com/255kb/stack-on-a-budget#readme)
+- [Startup idea checklist (2019)](https://www.defmacro.org/2019/03/26/startup-checklist.html) ([HN](https://news.ycombinator.com/item?id=20254057))
+- [We Don’t Sell Saddles Here (2014)](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 
 ## Images
 
