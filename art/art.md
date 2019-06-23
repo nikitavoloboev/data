@@ -61,6 +61,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Roman Muradov](https://www.bluebed.net/)
 - [Tales from the Inner City](http://www.shauntan.net/books/TFIC/TFIC%20main.html)
 - [Jie Ma](https://www.behance.net/jiema37?)
+- [Rui Tomono](https://www.pixiv.net/member.php?id=27526)
 
 ## Interesting art
 

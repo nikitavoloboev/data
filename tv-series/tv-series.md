@@ -14,3 +14,4 @@ I track [all the series I watched](https://trakt.tv/users/nikitavoloboev/history
 
 - [Awesome TV Series](https://github.com/learn-anything/tv-series#readme)
 - [SickChill](https://github.com/SickChill/SickChill) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
+- [TV Series recommendations](https://michael.stapelberg.ch/series/)
