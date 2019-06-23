@@ -27,3 +27,4 @@ All active variables can be seen by running `env`.
 - [Rash](https://github.com/willghatch/racket-rash) - The Reckless Racket Shell.
 - [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - Remote shell that automatically reconnects without interrupting the session.
 - [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc.
+- [What does your shell prompt look like? (2019)](https://lobste.rs/s/x5ioqm/what_does_your_shell_prompt_look_like)
