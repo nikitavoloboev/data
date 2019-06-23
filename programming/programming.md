@@ -23,6 +23,7 @@
 - Declarative configuration means that you write down the desired state of the world in a configuration and then submit that configuration to a service that takes actions to ensure the desired state becomes the actual state.
 - Every single feature makes product more complex, makes testing more complex, puts constraints on UI design etc. Controlling feature creep (also by revisiting old features) is very important to keep project healthy. Larger the project, more important it is.
 - [“Simplicity” often just means that a concept fits cleanly in the maker’s head at a particular point in time. How many times have I returned to a project I thought was simple only to find I had burdened it with spooky magic because I didn’t benefit from critical distance at the time? When was the last time I deemed another person’s work “too complex” because I couldn’t understand it in one sitting and wasn’t aware of the constraints they were operating under? Answers: too often and too recently.](https://lobste.rs/s/qgbkwm/on_simplicity)
+- If we take a look at any given line of code in a method, we can nearly always categorize it as serving one of the following roles: 1. Collecting input. 2. Performing work. 3. Delivering output. 4. Handling failures.
 
 ## Links
 

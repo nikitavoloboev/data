@@ -1,7 +1,5 @@
 # Music production
 
-Learning to write music. Live coding music sounds pretty awesome. I used [Sonic Pi](https://github.com/samaaron/sonic-pi) for a bit and it was fun.
-
 ## Tools
 
 - [Klangmeister](http://ctford.github.io/klangmeister/about)

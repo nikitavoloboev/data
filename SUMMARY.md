@@ -620,7 +620,6 @@
   - [Brave new world](books/brave-new-world.md)
   - [Code: hidden language of software](books/code-the-hidden-language.md)
   - [Eloquent ruby](books/eloquent-ruby.md)
-  - [Confident ruby](books/confident-ruby.md)
   - [Surely you are joking Mr Feynman](books/surely-you-are-joking-mr-feynman.md)
   - [Thinking, fast and slow](books/thinking-fast-and-slow.md)
 - [Other](other/other.md)

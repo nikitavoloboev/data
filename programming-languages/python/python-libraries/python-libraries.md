@@ -34,3 +34,4 @@
 - [FastAPI](https://github.com/tiangolo/fastapi) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 - [Starlette](https://github.com/encode/starlette) - Little ASGI framework that shines.
 - [Poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
+- [POT: Python Optimal Transport](https://github.com/rflamary/POT) - Provide several solvers for optimization problems related to Optimal Transport for signal, image processing and machine learning.
