@@ -92,7 +92,6 @@ These are my personal profiles on various websites sorted by categories.
 
 - [Patreon](https://patreon.com/nikitavoloboev) - Since I do nearly everything Open Source and Free by default, I don't get any money for these things. Thus anyone who likes my work can show it in form of small or bigger donations.
 - [Buy me a Coffee](https://www.buymeacoffee.com/nikitavoloboev) - One time donations.
-- [My public Crypto addresses](https://www.vaulty.io/v/a0c360d0-2196-11e8-a119-494749abff15)
 
 ## Other
 

@@ -64,3 +64,4 @@
 - [Why Haskell?](https://github.com/github/semantic/blob/master/docs/why-haskell.md)
 - [Property-Based Testing in a Screencast Editor: Introduction (2019)](https://wickstrom.tech/programming/2019/03/02/property-based-testing-in-a-screencast-editor-introduction.html)
 - [Haskell Fan Site](http://www-cs-students.stanford.edu/~blynn/haskell/) ([HN](https://news.ycombinator.com/item?id=20255694))
+- [An opinionated beginner's guide to Haskell in mid 2019](https://github.com/theindigamer/not-a-blog/blob/master/opinionated-haskell-guide-2019.md)
