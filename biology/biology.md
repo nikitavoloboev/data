@@ -13,3 +13,4 @@
 - [Kappa](https://kappalanguage.org/) - Rule-based language for modeling systems of interacting agents. While its current development is primarily motivated by molecular systems biology, its range of applications is quite broad.
 - [KaSim](https://github.com/Kappa-Dev/KaSim) - Stochastic simulator for rule-based models written in Kappa. KaSa is a static analyser for Kappa models.
 - [BioJulia](https://biojulia.net/) - Julialang community for biologists and bioinformaticians, working to create great modern software packages for computing with biological data.
+- [Rob Reid - the dark side of gene editing and synthetic biology (2019)](https://overcast.fm/+RxHEOdXhc)
