@@ -10,3 +10,4 @@
 - [Awesome Firmware Security](https://github.com/PreOS-Security/awesome-firmware-security#readme)
 - [FindChips](https://www.findchips.com/) ([HN](https://news.ycombinator.com/item?id=19110698)) - Get instant insight into any electronic component.
 - [Hackster](https://www.hackster.io/) - World's largest network for hardware & software developers.
+- [Raspberry Pi 4](https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/) ([HN](https://news.ycombinator.com/item?id=20260863))

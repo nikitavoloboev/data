@@ -21,3 +21,4 @@
 - [React Loops](https://github.com/leebyron/react-loops) - Work alongside React Hooks as part of the novel React Velcro architecture for building sticky, secure user interfaces that don't come apart under pressure.
 - [Fun with React Hooks - Michael Jackson and Ryan Florence (2019)](https://www.youtube.com/watch?v=1jWS7cCuUXw)
 - [Awesome React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme)
+- [Handling Large-Scale State-Management with Context and Hooks by Roy Derks (2019)](https://www.youtube.com/watch?v=GxjDRjpoMJg)

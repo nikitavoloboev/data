@@ -11,3 +11,4 @@
 - [SQLCheck](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries.
 - [SQL Fundamentals course](https://egghead.io/courses/sql-fundamentals)
 - [q](https://github.com/harelba/q) - Run SQL directly on CSV or TSV files.
+- [Learn Modern SQL with PostgreSQL](https://www.masterywithsql.com/) ([HN](https://news.ycombinator.com/item?id=20260292))
