@@ -85,3 +85,4 @@
 - [qlkube](https://github.com/qlkube/qlkube) - GraphQL api for Kubernetes.
 - [Typhoon](https://github.com/poseidon/typhoon) - Minimal and free Kubernetes distribution.
 - [k-vswitch](https://github.com/k-vswitch/k-vswitch) - Easy-to-operate, high performance and secure Kubernetes networking plugin based on Open vSwitch.
+- [Kontemplate](https://github.com/tazjin/kontemplate) - Extremely simple Kubernetes resource templates.

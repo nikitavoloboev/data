@@ -3,7 +3,7 @@
 ## Top
 
 - [TensorFlow](tensorflow.md)
-- [Pytorch](pytorch.md)
+- [PyTorch](pytorch.md)
 - [Keras](keras.md)
 
 ## Other

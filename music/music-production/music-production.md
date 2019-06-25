@@ -29,3 +29,6 @@
 - [Stimming Interview: How I Play](https://www.youtube.com/watch?v=fuKYq_n4Ops)
 - [Functional music theory library for JavaScript](https://github.com/danigb/tonal)
 - [LFO](https://lfo1.sharetribe.com/) - Rent gear from musicians around the world, and make money from the instruments you have sitting around your studio.
+- [Learning Synths](https://learningsynths.ableton.com/) ([HN](https://news.ycombinator.com/item?id=20272346))
+- [Syntorial](https://www.syntorial.com/) - Video game-like training software, that will teach you how to program synth patches by ear.
+- [Ear Training Practice](https://tonedear.com/)
