@@ -27,3 +27,4 @@
 - [ehtim (eht-imaging)](https://github.com/achael/eht-imaging) - Imaging, analysis, and simulation software for radio interferometry.
 - [Starlink](https://www.starlink.com/) - SpaceX’s broadband internet system. ([HN](https://news.ycombinator.com/item?id=19998710))
 - [Apollo 11 in Real Time](https://apolloinrealtime.org/11/) ([HN](https://news.ycombinator.com/item?id=20193118))
+- [KubOS](https://github.com/kubos/kubos) - Open source software stack for satellites.

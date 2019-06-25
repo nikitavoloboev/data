@@ -6,3 +6,4 @@
 - [Hipster Shop: Cloud-Native Microservices Demo Application](https://github.com/GoogleCloudPlatform/microservices-demo) - Contains a 10-tier microservices application.
 - [Micro](https://github.com/micro/micro) - Runtime for microservice development.
 - [Go Micro](https://github.com/micro/go-micro) - Framework for micro service development.
+- [Banking on Go - Matt Heath (2017)](https://www.youtube.com/watch?v=iRNwLjKeVRE)
