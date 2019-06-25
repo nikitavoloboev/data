@@ -67,3 +67,4 @@
 - [Madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies.
 - [npmfs](https://npmfs.com/) - JavaScript Package Inspector.
 - [Fantasy Land Specification](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript.
+- [Meriyah](https://github.com/meriyah/meriyah) - 100% compliant, self-hosted javascript parser with high focus on both performance and stability.

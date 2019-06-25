@@ -11,3 +11,4 @@
 - [faast.js](https://faastjs.org/) - Serverless batch computing made simple.
 - [Introducing Serverless Pre-Rendering (SPR) (2019)](https://zeit.co/blog/serverless-pre-rendering)
 - [Netlify Functions](https://www.netlify.com/products/functions/) - Modern, scalable backend built into every Netlify account. No setup, servers, or ops required.
+- [Begin](https://begin.com/) - Create AWS serverless apps, APIs, and sites with databases, sessions, and full CI/CD. In ten seconds.
