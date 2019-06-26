@@ -30,3 +30,5 @@
 - [inNative](https://github.com/innative-sdk/innative) - Native non-web embedding of WebAssembly for Windows/Linux.
 - [Introducing inNative (2019)](https://innative.dev/news/introducing-innative/) - Run WebAssembly Outside The Sandbox at 95% Native Speed.
 - [Compiling C to WebAssembly without Emscripten (2019)](https://dassur.ma/things/c-to-webassembly/)
+- [Wasm By Example](https://wasmbyexample.dev/)
+- [Lightbeam](https://github.com/CraneStation/lightbeam) - Optimising one-pass streaming compiler for WebAssembly, intended for use in Wasmtime.

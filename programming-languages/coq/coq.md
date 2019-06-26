@@ -15,3 +15,4 @@
 - [Equations](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
 - [Proofs](https://github.com/stepchowfun/proofs) - Selection of formal developments in Coq.
 - [My hobby: proof engineering (2017)](https://www.stephanboyer.com/post/134/my-hobby-proof-engineering)
+- [Programs and Proofs](https://github.com/ilyasergey/pnp) - Lecture notes for a short course on proving/programming in Coq via SSReflect.

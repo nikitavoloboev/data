@@ -24,3 +24,5 @@
 - [libffi](https://github.com/libffi/libffi) - Portable foreign-function interface library.
 - [go2ll](https://github.com/pwaller/go2ll) - Toy go compiler to LLVM.
 - [Where does YOUR compiler come from? - Vincent Ambo (2018)](https://www.youtube.com/watch?v=b3r6GvCBbw4)
+- [libFirm](https://github.com/libfirm/libfirm) - Graph based intermediate representation and backend for optimising compilers.
+- [mimalloc](https://github.com/microsoft/mimalloc) - Compact general purpose allocator with excellent performance.

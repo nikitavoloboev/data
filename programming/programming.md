@@ -72,3 +72,4 @@
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know#readme)
 - [Risk-First development book](https://riskfirst.org/)
 - [The Twelve-Factor App](https://www.12factor.net/)
+- [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex) - Resources and references for the past and future of visual programming.
