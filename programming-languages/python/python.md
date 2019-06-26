@@ -27,3 +27,4 @@
 - [Black](https://github.com/python/black) - Uncompromising Python code formatter. ([HN](https://news.ycombinator.com/item?id=19939806))
 - [Amber Brown: Batteries Included, But They're Leaking](http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html) ([HN](https://news.ycombinator.com/item?id=19948642))
 - [Pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet.
+- [PyOxidizer](https://github.com/indygreg/PyOxidizer) - Modern Python application packaging and distribution tool.

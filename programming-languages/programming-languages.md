@@ -30,3 +30,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Semantic](https://github.com/github/semantic) - Haskell library and command line tool for parsing, analyzing, and comparing source code.
 - [DSLs for non-programmers are a hoax (2019)](https://artur-martsinkovskyi.github.io//2019/dsls-are-hoax/) ([HN](https://news.ycombinator.com/item?id=20007813))
 - [Comparing the Same Project in Rust, Haskell, C++, Python, Scala and OCaml (2019)](http://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/) ([HN](https://news.ycombinator.com/item?id=20192645))
+- [Hello, World!](https://github.com/leachim6/hello-world#readme) - Hello world in every computer language.

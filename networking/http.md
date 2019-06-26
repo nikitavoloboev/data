@@ -12,3 +12,4 @@
 - [Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and intuitive HTTP Debugging Proxy for macOS & iOS.
 - [see](https://github.com/wyhaya/see) - Static web server, developed using rust.
 - [HTTP 203 podcast](https://developers.google.com/web/shows/http203/podcast/)
+- [HTTP Cats](https://http.cat/)

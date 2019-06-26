@@ -26,3 +26,4 @@
 - [Where does YOUR compiler come from? - Vincent Ambo (2018)](https://www.youtube.com/watch?v=b3r6GvCBbw4)
 - [libFirm](https://github.com/libfirm/libfirm) - Graph based intermediate representation and backend for optimising compilers.
 - [mimalloc](https://github.com/microsoft/mimalloc) - Compact general purpose allocator with excellent performance.
+- [BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries.
