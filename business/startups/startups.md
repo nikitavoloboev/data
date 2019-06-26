@@ -72,6 +72,7 @@
 - [Startup idea checklist (2019)](https://www.defmacro.org/2019/03/26/startup-checklist.html) ([HN](https://news.ycombinator.com/item?id=20254057))
 - [We Don’t Sell Saddles Here (2014)](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 - [Monzo Business Accounts](https://monzo.com/business/)
+- [Big companies v. startups](https://danluu.com/startup-tradeoffs/)
 
 ## Images
 
