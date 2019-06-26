@@ -4,7 +4,7 @@ My favorite browser. It is incredibly fast, doesn't have the baggage of all the 
 
 Here are the websites I have in my `Favorites` which are usually sites I want super fast access to from iOS Safari:
 
-![](https://i.imgur.com/TSVSugn.jpg)
+![](https://i.imgur.com/0KJBGhT.jpg)
 
 As it is my most used app, I like to script and automate as much of my use of it as possible.
 

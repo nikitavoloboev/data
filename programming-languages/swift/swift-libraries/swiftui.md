@@ -12,3 +12,4 @@
 - [Answers to the most common questions about SwiftUI (2019)](https://wwdcbysundell.com/2019/swiftui-common-questions/)
 - [Awesome SwiftUI](https://github.com/vlondon/awesome-swiftui#readme)
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
+- [Swift Playground explaining the concepts of the new Combine framework](https://github.com/AvdLee/CombineSwiftPlayground)

@@ -4,21 +4,27 @@ I use [Streaks](https://streaksapp.com) iOS app to track my essential life habit
 
 ## Life habits
 
-![](https://i.imgur.com/8JBSaEr.jpg)
+![](https://i.imgur.com/TjbbrPt.jpg)
 
-![](https://i.imgur.com/e4kyyL9.jpg)
+![](https://i.imgur.com/DhvT74M.jpg)
 
-I also keep top habits/[rules](rules.md) I try to follow through in life on display in my [Focus board](focusing.md).
+I also keep top habits I try to follow through in life on display in my [Focus board](focusing.md). I also try to follow some [rules](rules.md) I set for myself.
 
 ## Morning routine
 
 I use [Siri Shortcuts](https://github.com/nikitavoloboev/my-ios#shortcuts) for my Morning and Night routines. If I go through these routines, the two habits are automatically completed for me at the end of it.
 
-![](https://i.imgur.com/oG09oxf.jpg)
+![](https://i.imgur.com/0oUOByV.jpg)
 
 ## Night routine
 
-![](https://i.imgur.com/XSTgUAt.jpg)
+![](https://i.imgur.com/HD43Utd.jpg)
+
+![](https://i.imgur.com/HpFT0zp.jpg)
+
+Both habits are scheduled to run automatically at certain time. Meaning they will show up on my notification screen in morning/evening respectively so I can quickly trigger them.
+
+![](https://i.imgur.com/9p92r5q.jpg)
 
 ## Other habits
 
