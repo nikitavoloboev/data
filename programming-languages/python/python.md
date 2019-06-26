@@ -26,3 +26,4 @@
 - [Things you’re probably not using in Python 3 – but should (2019)](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/) ([HN](https://news.ycombinator.com/item?id=19916089))
 - [Black](https://github.com/python/black) - Uncompromising Python code formatter. ([HN](https://news.ycombinator.com/item?id=19939806))
 - [Amber Brown: Batteries Included, But They're Leaking](http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html) ([HN](https://news.ycombinator.com/item?id=19948642))
+- [Pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet.

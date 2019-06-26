@@ -97,3 +97,4 @@ Go promotes composition over inheritance.
 - [Why Go? – Key advantages you may have overlooked](https://yourbasic.org/golang/advantages-over-java-python/)
 - [Go Creeping In (2019)](https://www.tbray.org/ongoing/When/201x/2019/06/12/Go-Creeping-In) ([HN](https://news.ycombinator.com/item?id=20210850))
 - [Getting to Go: The Journey of Go's Garbage Collector (2018)](https://blog.golang.org/ismmkeynote)
+- [Clean Go Code](https://github.com/Pungyeon/clean-go-article#readme) - Reference for the Go community that aims to help developers write cleaner code.
