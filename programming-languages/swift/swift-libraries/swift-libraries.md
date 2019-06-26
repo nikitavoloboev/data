@@ -94,3 +94,4 @@
 - [SPAlert](https://github.com/IvanVorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
 - [Moya](https://github.com/moya/moya) - Network abstraction layer written in Swift.
 - [Pulley](https://github.com/52inc/Pulley) - Library to imitate the iOS 10 Maps UI.
+- [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache.

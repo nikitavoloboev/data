@@ -8,3 +8,4 @@
 
 - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - [Wexond](https://github.com/wexond/wexond) - Extensible and privacy-focused web browser with a totally different user experience.
+- [Web-ext](https://github.com/mozilla/web-ext) - Command line tool to help build, run, and test web extensions.
