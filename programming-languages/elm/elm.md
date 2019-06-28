@@ -7,3 +7,5 @@
 - [elm-beam](https://kofi.sexy/blog/elm-beam)
 - [The Elm Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial/)
 - [Elm DevTools](https://github.com/opvasger/elm-devtools) - Tools for developing Elm programs.
+- [elm-language-server](https://github.com/elm-tooling/elm-language-server) - Language server implementation for Elm.
+- [ElmLS](https://github.com/elm-tooling/elm-language-client-vscode) - Bringing lightning fast Elm code analysis to vscode.

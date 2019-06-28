@@ -14,3 +14,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [mailyak](https://github.com/domodwyer/mailyak) - Elegant MIME/SMTP email library with support for attachments.
 - [go-imap](https://github.com/emersion/go-imap) - IMAP library for clients and servers.
 - [Awesome Emails](https://github.com/jonathandion/awesome-emails#readme) - Awesome list of resources to build better emails.
+- [Composing better emails (2019)](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - Tips for composing effective emails avoiding misunderstandings. ([Lobsters](https://lobste.rs/s/3vfgoc/composing_better_emails))
