@@ -29,6 +29,7 @@
 - [Julia debugger](https://github.com/JuliaDebug/Debugger.jl)
 - [Automa.jl](https://github.com/BioJulia/Automa.jl) - Julia code generator for regular expressions.
 - [Gadfly](https://github.com/GiovineItalia/Gadfly.jl) - Plotting and data visualization system written in Julia.
+- [FastTransforms.jl](https://github.com/JuliaApproximation/FastTransforms.jl) - Julia package for fast orthogonal polynomial transforms.
 
 ## Links
 
