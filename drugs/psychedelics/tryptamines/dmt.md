@@ -43,3 +43,4 @@
 - [GordoTEK Organic Chemistry Extraction with FAQ (2019)](https://www.youtube.com/watch?v=pLcC94Qbzz8)
 - [The Tao of Rue Extraction](https://wiki.dmt-nexus.me/The_Tao_of_Rue_Extraction)
 - [Written Out Version of GordoTEK DMT extraction TEK (heptane variants included)](https://www.patreon.com/posts/written-out-of-21369133)
+- [First time doing 5-MeO-DMT sitter suggestions](https://old.reddit.com/r/5MeODMT/comments/a4ka61/first_time_doing_5meodmt_sitter_suggestions/ebjyo18/?context=3)

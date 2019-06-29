@@ -77,3 +77,4 @@
 - [Beautiful Math](https://www.scientificamerican.com/article/beautiful-math/) - New book shows off spectacular works of art inspired by mathematical principles.
 - [Cardano's formula (2019)](https://benoncoffee.github.io/2019/05/20/cardanos-formula/) ([Lobsters](https://lobste.rs/s/vlzdnj/cardano_s_formula))
 - [Collection of computational playthings](https://jlpaca.github.io/toybox/) ([OSS](https://github.com/jlpaca/toybox))
+- [Approach0](https://approach0.xyz/search/) - Math-aware search engine. ([OSS](https://github.com/approach0/search-engine))

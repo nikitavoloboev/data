@@ -56,3 +56,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Glitch](https://glitch.com/) - Friendly community where everyone can discover and create the best stuff on the web.
 - [YLD](https://www.yld.io/) - We help our clients move from a culture of delivery to a culture of learning through our expertise in software engineering, design, training and open-source.
 - [Internet of Humans Project](https://edgeryders.eu/c/ioh) - Quest to understand how we the people, who contribute towards building the evolution of the Internet and our digital technologies, actively build a better future against a backdrop of massive social, economic, ecological and political challenges.
+- [Calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework.

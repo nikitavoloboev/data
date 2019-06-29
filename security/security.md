@@ -13,3 +13,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Some security related notes](https://github.com/jaybosamiya/security-notes#readme)
 - [RAMBleed](https://rambleed.com/) - Reading Bits in Memory Without Accessing Them.
 - [Sliver](https://github.com/BishopFox/sliver) - General purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS.
+- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference#readme) - Information Security Reference That Doesn't Suck.
