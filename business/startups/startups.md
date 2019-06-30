@@ -73,6 +73,8 @@
 - [We Don’t Sell Saddles Here (2014)](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 - [Monzo Business Accounts](https://monzo.com/business/)
 - [Big companies v. startups](https://danluu.com/startup-tradeoffs/)
+- [Ask HN: Best free compute and other resources for startups? (2019)](https://news.ycombinator.com/item?id=20225118)
+- [Founder Dating Ritual](https://github.com/rickyyean/founder-dating-ritual#readme)
 
 ## Images
 

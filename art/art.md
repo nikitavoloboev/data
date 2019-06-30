@@ -62,6 +62,9 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Tales from the Inner City](http://www.shauntan.net/books/TFIC/TFIC%20main.html)
 - [Jie Ma](https://www.behance.net/jiema37?)
 - [Rui Tomono](https://www.pixiv.net/member.php?id=27526)
+- [Elora Pautrat](https://www.elorapautrat.com/)
+- [Nicholas Stathopoulos](http://www.nickstath.com/)
+- [Phil Dragash](https://www.phildragash.com/)
 
 ## Interesting art
 
@@ -74,6 +77,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [The Moleskine Project VIII](https://www.booooooom.com/2019/06/05/the-moleskine-project-viii/)
 - [Booooooom](https://www.booooooom.com/blog/art/)
 - [Eizin Suzuki – Light falls of board walk](http://www.graphicine.com/eizin-suzuki-light-falls-of-board-walk/)
+- [Generative Collages](https://www.behance.net/gallery/81688323/Generative-Collages)
 
 ## Notes
 

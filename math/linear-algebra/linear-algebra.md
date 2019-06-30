@@ -12,3 +12,4 @@
 - [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) ([HN](https://news.ycombinator.com/item?id=19264048))
 - [Relearning Matrices as Linear Functions](https://www.dhruvonmath.com/2018/12/31/matrices/) ([HN](https://news.ycombinator.com/item?id=19730799))
 - [Thirty-three Miniatures: Mathematical and Algorithmic Applications of Linear Algebra](https://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf) ([HN](https://news.ycombinator.com/item?id=20241148))
+- [A Brief Guide to A Few Algebraic Structures](https://argumatronic.com/posts/2019-06-21-algebra-cheatsheet.html)

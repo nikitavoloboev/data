@@ -37,3 +37,5 @@
 - [Curated list of neural architecture search and related resources](https://github.com/D-X-Y/Awesome-NAS#readme)
 - [Weight Agnostic Neural Networks (2019)](https://weightagnostic.github.io/) ([HN](https://news.ycombinator.com/item?id=20160693))
 - [Geoffrey Hinton explains the evolution of neural networks (2019)](https://www.wired.com/story/ai-pioneer-explains-evolution-neural-networks/)
+- [Evolved Turing neural networks](http://compucology.net/evolved)
+- [Intelligent Machinery paper by Alan Turing](https://weightagnostic.github.io/papers/turing1948.pdf)

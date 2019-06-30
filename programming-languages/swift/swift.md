@@ -1,7 +1,5 @@
 # [Swift](https://developer.apple.com/swift/)
 
-Plan to spend more time with it as [SourceKit-LSP](https://github.com/apple/sourcekit-lsp#readme) matures. Xcode is garbage compared to VS Code.
-
 ## Links
 
 - [Swift Tips by Sundell](https://github.com/JohnSundell/SwiftTips)
@@ -46,3 +44,5 @@ Plan to spend more time with it as [SourceKit-LSP](https://github.com/apple/sour
 - [How do closures and callbacks work? It's turtles all the way down (2018)](https://desiatov.com/closures/)
 - [SwiftWasm](https://swiftwasm.org/) - Compiles your Swift code to WebAssembly.
 - [NSScreencast](https://nsscreencast.com/episodes) - Video Training for iOS Developers.
+- [Swift for TensorFlow Newsletter](https://www.s4tfnews.com/issues)
+- [SourceKit-LSP](https://github.com/apple/sourcekit-lsp#readme) - Language Server Protocol implementation for Swift and C-based languages.

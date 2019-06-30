@@ -10,3 +10,4 @@
 - [mosdepth](https://github.com/brentp/mosdepth) - Fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing.
 - [Four new DNA letters double life’s alphabet (2019)](https://www.nature.com/articles/d41586-019-00650-8)
 - [Deep Genomics](https://www.deepgenomics.com/) - AI-Powered Discovery Platform.
+- [DNA Microscopy: Optics-free Spatio-genetic Imaging by a Stand-Alone Chemical Reaction (2019)](<https://www.cell.com/cell/fulltext/S0092-8674(19)30547-1>)

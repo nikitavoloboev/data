@@ -9,3 +9,4 @@
 - [The Guide to Raising Venture Capital](https://www.holloway.com/s/rn-rvc-e0_5)
 - [Lux Capital](https://www.luxcapital.com/) - Invests in emerging science and technology ventures at the outermost edges of what is possible.
 - [Root Ventures](https://www.root.vc/) - Seeding bold engineers.
+- [Fifty Years](https://www.fifty.vc/) - Entrepreneur-run early stage venture fund based in San Francisco. We invest in companies that inspire.

@@ -68,3 +68,4 @@
 - [npmfs](https://npmfs.com/) - JavaScript Package Inspector.
 - [Fantasy Land Specification](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript.
 - [Meriyah](https://github.com/meriyah/meriyah) - 100% compliant, self-hosted javascript parser with high focus on both performance and stability.
+- [The cost of JavaScript in 2019](https://news.ycombinator.com/item?id=20317736) ([HN](https://news.ycombinator.com/item?id=20317736))

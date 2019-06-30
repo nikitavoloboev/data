@@ -8,3 +8,4 @@
 - [learn-quantum](https://github.com/unixpickle/learn-quantum) - Learning about quantum computing.
 - [Arrow of Time and its Reversal on IBM Quantum Computer](https://arxiv.org/pdf/1712.10057.pdf)
 - [Finally, Proof That Quantum Computing Can Boost Machine Learning (2019)](https://singularityhub.com/2019/03/17/finally-proof-that-quantum-computing-can-boost-machine-learning/)
+- [Quantum Computing for English Majors (2019)](https://blogs.scientificamerican.com/cross-check/quantum-computing-for-english-majors/)
