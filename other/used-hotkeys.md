@@ -60,10 +60,21 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 ## OPT+SHIFT+CMD
 
 - 6 - Toggle Night Shift on/off.
+- 7 - Selection -> Google Lucky
 - 8 - Make SnippetsLab snippet from selection
 - 9 - Make Typinator snippet from clipboard
 - 0 - Make Typinator snippet from selection
-- r - Google Translate selected text
+- e - Selection -> YouTube
+- r - Selection -> Google Translate
+- y - Selection -> Stack Overflow
+- u - Selection -> HN
+- i - Safari URL -> HN
+- o - Safari URL -> Twitter
+- p - Safari URL -> Reddit
+- z - Selection - Twitter
+- x - Selection -> Reddit
+- b - Selection -> Medium
+- n - Selection -> GitHub
 
 ## CTRL+OPT+SHIFT+CMD
 
