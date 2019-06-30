@@ -22,3 +22,5 @@
 - [Tini](https://github.com/krallin/tini) - Tiny but valid `init` for containers.
 - [browserless](https://github.com/joelgriffith/browserless) - Chrome as a service in docker. Bring your own cloud or hardware..
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell.
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple terminal UI for docker and docker-compose, written in Go with the gocui library.
+- [docker-gen](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data.
