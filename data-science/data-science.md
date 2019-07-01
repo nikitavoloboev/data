@@ -26,3 +26,5 @@
 - [nteract](https://github.com/nteract/nteract) - Interactive computing suite for you.
 - [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
 - [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo#readme)
+- [Ingestion Data Mapping Language](http://idml.io/)
+- [The reference implementation of IDML for the JVM](https://github.com/IDML/idml)

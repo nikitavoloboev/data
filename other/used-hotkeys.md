@@ -10,8 +10,8 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 8 - Search Clipboard History with Alfred
 - 9 - Connect/disconnect AirPods
 - 0 - Open Dropzone
-- p - Make HasteBin link from selection
-- l - Make HasteBin link from clipboard
+- p - Selection -> HasteBin link
+- l - Clipboard -> Make HasteBin link
 - / - Show/hide notification center
 
 ## CTRL+CMD
@@ -61,9 +61,9 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 - 6 - Toggle Night Shift on/off.
 - 7 - Selection -> Google Lucky
-- 8 - Make SnippetsLab snippet from selection
-- 9 - Make Typinator snippet from clipboard
-- 0 - Make Typinator snippet from selection
+- 8 - Selection -> SnippetsLab snippet
+- 9 - Clipboard -> Typinator snippet
+- 0 - Selection -> Typinator snippet
 - e - Selection -> YouTube
 - r - Selection -> Google Translate
 - y - Selection -> Stack Overflow
