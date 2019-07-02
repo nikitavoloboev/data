@@ -30,3 +30,5 @@
 - [From zero to LoRaWAN in a weekend (2018)](https://github.com/ttn-zh/ic880a-gateway/wiki)
 - [LoRa Server](https://github.com/brocaar/loraserver) - Open-source LoRaWAN network-server.
 - [LoRaWAN and the Ocean Cleanup - Jasper den Hartog (MCS) (2019)](https://www.youtube.com/watch?v=E5huiCbVR5A)
+- [Lacuna Space](http://lacuna.space/) - Low-cost, simple and reliable global connections to sensors and mobile equipment.
+- [Can someone give me the rundown on LoRa? (2019)](https://www.reddit.com/r/IOT/comments/bzd2q0/can_someone_give_me_the_rundown_on_lora/)

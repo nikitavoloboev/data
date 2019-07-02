@@ -30,3 +30,4 @@
 - [SymmetryBook](https://github.com/UniMath/SymmetryBook) - Undergraduate textbook written in the univalent style, taking advantage of the presence of symmetry in the logic at an early stage.
 - [nbe-for-mltt](https://github.com/jozefg/nbe-for-mltt) - Normalization by Evaluation for Martin-Löf Type Theory.
 - [Martin Escardo's research](http://www.cs.bham.ac.uk/~mhe/)
+- [Lambdas are Codatatypes (2019)](http://blog.ielliott.io/lambdas-are-codatatypes/)

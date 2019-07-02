@@ -66,3 +66,4 @@
 - [Haskell Fan Site](http://www-cs-students.stanford.edu/~blynn/haskell/) ([HN](https://news.ycombinator.com/item?id=20255694))
 - [An opinionated beginner's guide to Haskell in mid 2019](https://github.com/theindigamer/not-a-blog/blob/master/opinionated-haskell-guide-2019.md)
 - [Why I (as of June 22 2019) think Haskell is the best general purpose language](http://www.philipzucker.com/why-i-as-of-june-22-2019-think-haskell-is-the-best-general-purpose-language-as-of-june-22-2019/)
+- [Ormolu](https://github.com/tweag/ormolu) - Formatter for Haskell source code.

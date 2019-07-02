@@ -120,6 +120,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Some fiction audiobook recommendations](https://www.reddit.com/r/audiobooks/comments/bz14cx/i_just_finished_the_dark_tower_series_which_was/)
 - [Alan Kay's Reading List](http://www.squeakland.org/resources/books/readingList.jsp)
 - [Ask HN: Recommend one book I need to read this summer? (2019)](https://news.ycombinator.com/item?id=20332455)
+- [Patrick Collison's bookshelf](https://patrickcollison.com/bookshelf)
 
 ## Notes
 
