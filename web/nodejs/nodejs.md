@@ -37,3 +37,4 @@
 - [isolated-vm](https://github.com/laverdet/isolated-vm) - Secure & isolated JS environments for nodejs.
 - [fnm](https://github.com/Schniz/fnm) - Fast and simple Node.js version manager, built in native ReasonML.
 - [pacote](https://github.com/zkat/pacote) - Node.js library for downloading npm-compatible packages.
+- [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a Node.js module.
