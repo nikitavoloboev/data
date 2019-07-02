@@ -14,3 +14,4 @@
 - [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp#readme)
 - [Awesome Lock-Free](https://github.com/rigtorp/awesome-lockfree#readme)
 - [Zero-overhead deterministic exceptions: Throwing values (2018)](http://open-std.org/JTC1/SC22/WG21/docs/papers/2018/p0709r0.pdf)
+- [Google Robots.txt Parser and Matcher Library](https://github.com/google/robotstxt)
