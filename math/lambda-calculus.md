@@ -18,3 +18,4 @@ Is logical theory of computable functions.
 - [Mikrokosmosai](https://github.com/mroman42/mikrokosmos) - Educational λ-calculus interpreter.
 - [Category Theory and Lambda Calculus (2018)](https://github.com/mroman42/ctlc) ([OSS](https://github.com/mroman42/ctlc))
 - [The Impact of the Lambda Calculus (1997) [pdf]](http://www-users.mat.umk.pl/~adwid/materialy/doc/church.pdf) ([HN](https://news.ycombinator.com/item?id=19835615))
+- [path](https://github.com/robrix/path) - Lambda calculus to explore type-directed program synthesis.

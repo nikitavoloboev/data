@@ -9,3 +9,4 @@
 - [Elm DevTools](https://github.com/opvasger/elm-devtools) - Tools for developing Elm programs.
 - [elm-language-server](https://github.com/elm-tooling/elm-language-server) - Language server implementation for Elm.
 - [ElmLS](https://github.com/elm-tooling/elm-language-client-vscode) - Bringing lightning fast Elm code analysis to vscode.
+- [elm-in-elm](https://github.com/elm-in-elm/compiler) - Elm compiler written in Elm.

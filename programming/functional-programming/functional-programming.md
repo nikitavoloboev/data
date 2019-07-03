@@ -32,6 +32,7 @@
 - [Effects](https://github.com/stepchowfun/effects) - Brief exploration of the various approaches to modeling side effects in a purely functional programming language.
 - [Code and materials for book "Functional Design and Architecture" (2019)](https://github.com/graninas/Functional-Design-and-Architecture)
 - [Practical Functional Programming: Prelude (2018)](https://www.gasi.ch/blog/practical-functional-programming)
+- [Postmodern Programming](https://github.com/robrix/Postmodern-Programming/blob/master/Postmodern%20Programming.md) - Talk about declarative programming in and around imperative code: what, why, and how.
 
 ## Images
 

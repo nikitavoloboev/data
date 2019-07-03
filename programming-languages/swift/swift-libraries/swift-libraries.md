@@ -95,3 +95,5 @@
 - [Moya](https://github.com/moya/moya) - Network abstraction layer written in Swift.
 - [Pulley](https://github.com/52inc/Pulley) - Library to imitate the iOS 10 Maps UI.
 - [Cache](https://github.com/hyperoslo/Cache) - Nothing but Cache.
+- [Stencil](https://github.com/stencilproject/Stencil) - Simple and powerful template language for Swift.
+- [Prelude](https://github.com/robrix/Prelude) - Swift µframework of simple functional programming tools.
