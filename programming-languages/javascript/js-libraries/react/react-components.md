@@ -45,6 +45,7 @@
 - [re-resizable](https://github.com/bokuweb/re-resizable) - Resizable component for React.
 - [react-tiniest-router](https://github.com/kitze/react-tiniest-router) - Tiniest router for React, built with hooks.
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook cards loading).
+- [react-hook-form](https://github.com/bluebill1049/react-hook-form) - React custom hook for form validation without the hassle.
 
 ## Links
 

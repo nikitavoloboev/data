@@ -75,6 +75,8 @@
 - [Big companies v. startups](https://danluu.com/startup-tradeoffs/)
 - [Ask HN: Best free compute and other resources for startups? (2019)](https://news.ycombinator.com/item?id=20225118)
 - [Founder Dating Ritual](https://github.com/rickyyean/founder-dating-ritual#readme)
+- [Basecamp Employee Handbook](https://github.com/basecamp/handbook#readme)
+- [So much of what is written about growth is noise. Here are ten of the concepts I find myself coming back to over and over again (2019)](https://twitter.com/danhockenmaier/status/1145416117667500032)
 
 ## Images
 
