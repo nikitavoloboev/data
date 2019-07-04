@@ -20,3 +20,4 @@ For writing LaTeX I use [VS Code](../text-editors/vs-code/vs-code.md) and [LaTeX
 - [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) - Easily clean the LaTeX code of your paper to submit to arXiv.
 - [HN: LaTeX Workflow on iPad](https://news.ycombinator.com/item?id=20180015)
 - [arxiv-style](https://github.com/kourgeorge/arxiv-style) - Latex style and template for paper preprints (based on NIPS style).
+- [Image to Latex (2019)](https://www.wandb.com/articles/image-to-latex)

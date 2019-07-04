@@ -98,3 +98,5 @@ Go promotes composition over inheritance.
 - [Go Creeping In (2019)](https://www.tbray.org/ongoing/When/201x/2019/06/12/Go-Creeping-In) ([HN](https://news.ycombinator.com/item?id=20210850))
 - [Getting to Go: The Journey of Go's Garbage Collector (2018)](https://blog.golang.org/ismmkeynote)
 - [Clean Go Code](https://github.com/Pungyeon/clean-go-article#readme) - Reference for the Go community that aims to help developers write cleaner code.
+- [Go Language Server](https://github.com/sourcegraph/go-langserver) - Adds Go support to editors and other tools that use the Language Server Protocol (LSP).
+- [Go talks](https://github.com/golang/talks)
