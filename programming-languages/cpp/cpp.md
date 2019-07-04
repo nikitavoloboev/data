@@ -17,3 +17,4 @@
 - [Google Robots.txt Parser and Matcher Library](https://github.com/google/robotstxt)
 - [Safe C++ Blog](https://blog.safecpp.com/)
 - [Modern C++ Lecture (Basics)](https://github.com/PeterSommerlad/CPlusPlusLecture)
+- [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.

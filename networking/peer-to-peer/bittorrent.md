@@ -11,3 +11,4 @@
 - [Tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery.
 - [transmission-telegram](https://github.com/pyed/transmission-telegram) - Control your Transmission through a Telegram bot.
 - [Updated list of public BitTorrent trackers (2019)](https://github.com/ngosang/trackerslist)
+- [magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
