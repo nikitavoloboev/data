@@ -42,3 +42,4 @@ I publish most of my work and make it open source for other people to use and re
 - [gh-card](https://github.com/nwtgck/gh-card) - GitHub Repository Card for Every Web Site.
 - [GitHub Package Registry (2019)](https://github.com/features/package-registry) ([HN](https://news.ycombinator.com/item?id=19881709))
 - [GitHub Sponsors](https://github.com/sponsors) ([HN](https://news.ycombinator.com/item?id=19989684))
+- [Nice Contribution Guidelines template](https://github.com/tazjin/crimp/blob/master/CONTRIBUTING.md)

@@ -138,3 +138,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Awesome Programming Books](https://github.com/majikarp/awesome-programming-books#readme)
 - [Libby](https://meet.libbyapp.com/) - Local library of thousands of ebooks and audiobooks.
 - [Why books don’t work (2019)](https://andymatuschak.org/books/)
+- [BookBrowser](https://github.com/geek1011/BookBrowser) - Easy-to-use tool to generate a web-based ePub and PDF ebook browser.
