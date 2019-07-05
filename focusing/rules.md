@@ -26,7 +26,7 @@ Some simple rules to follow when doing things.
 - Drink lots of water & tea. Limit coffee consumption. No added sugar in drinks/food.
 - [Sleep](../sleep/sleep.md) at least 8 hours every day. Wake up & go to sleep at same time.
 - Always have good posture. Sit properly and upright, don't bend my back/spine.
-- Take [Vit D & B12, Omega 3 DHA+EPA supplements](../health/nutrition/supplements.md) every morning.
+- Take [essentials daily supplements](../health/nutrition/supplements.md).
 - Everything in moderation. Avoid alcohol and hard drugs (like opiates).
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
 

@@ -82,6 +82,8 @@ I love software and non software tools that help me in some way. Most tools I us
 - [UIBot](http://www.uibot.app/) - Experiment on how far one could automate the generation of visual designs, what kinds of advantages it would lead to and what issues one would face.
 - [Response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool.
 - [rclone](https://github.com/ncw/rclone) - Command line program to sync files and directories to and from different cloud storage providers.
+- [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
+- [fswatch](https://github.com/emcrisostomo/fswatch) - File change monitor that receives notifications when the contents of the specified files or directories are modified.
 
 ## Notes
 
