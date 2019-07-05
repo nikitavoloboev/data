@@ -58,3 +58,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Internet of Humans Project](https://edgeryders.eu/c/ioh) - Quest to understand how we the people, who contribute towards building the evolution of the Internet and our digital technologies, actively build a better future against a backdrop of massive social, economic, ecological and political challenges.
 - [Calamares](https://github.com/calamares/calamares) - Distribution-independent installer framework.
 - [David Stainton's reading lists](https://github.com/david415/reading_lists)
+- [Notion Community](https://www.notion.so/Notion-Community-04f306fbf59a413fae15f42e2a1ab029)

@@ -1,7 +1,5 @@
 # C
 
-Lingua franca of programming world. I write Go which is similar to it.
-
 ## Links
 
 - [Principles for C programming](http://drewdevault.com/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html)
@@ -15,3 +13,4 @@ Lingua franca of programming world. I write Go which is similar to it.
 - [9cc small C compiler](https://github.com/rui314/9cc)
 - [picol, a Tcl interpreter in 550 lines of C code (2007)](http://oldblog.antirez.com/post/picol.html)
 - [Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc)](https://github.com/ivmai/bdwgc)
+- [Clang documentation](https://clang.llvm.org/docs/index.html)
