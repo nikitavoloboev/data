@@ -26,3 +26,4 @@
 - [Reason Language Server](https://github.com/jaredly/reason-language-server) - Implements the Language Server Protocol for Reason.
 - [Js_of_ocaml and BuckleScript (2019)](https://www.javierchavarri.com/js_of_ocaml-and-bucklescript/)
 - [Journey to Trait-like behaviour in ReasonML/OCaml (2019)](https://gustavoaguiar.dev/journey-trait-like-behavior-reasonml/)
+- [Reason bindings for React Native](https://github.com/reasonml-community/reason-react-native) - Write your React Native apps with Reason.

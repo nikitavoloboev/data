@@ -98,3 +98,4 @@
 - [Stencil](https://github.com/stencilproject/Stencil) - Simple and powerful template language for Swift.
 - [Prelude](https://github.com/robrix/Prelude) - Swift µframework of simple functional programming tools.
 - [Swift Protobuf](https://github.com/apple/swift-protobuf) - Plugin and runtime library for using protobuf with Swift.
+- [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - Micro-framework for observing file changes, both local and remote. Helpful in building developer tools.

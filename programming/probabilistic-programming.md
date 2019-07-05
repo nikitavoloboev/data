@@ -7,3 +7,4 @@
 - [Gen](https://github.com/probcomp/Gen) - General-purpose probabilistic programming system with programmable inference.
 - [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/)
 - [End-User Probabilistic Programming paper by Microsoft Research](https://www.cs.uoregon.edu/research/summerschool/summer19/lecture_notes/DRAFT___Probabilistic_Programming_for_End_Users.pdf)
+- [monad-bayes](https://github.com/adscib/monad-bayes) - Library for probabilistic programming in Haskell.
