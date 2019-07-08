@@ -13,3 +13,4 @@
 - [Updated list of public BitTorrent trackers (2019)](https://github.com/ngosang/trackerslist)
 - [magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
 - [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
+- [torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent-client package and utilities.

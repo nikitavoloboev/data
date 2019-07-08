@@ -16,3 +16,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/dotfiles/blob/master/ni
 - [Inconsolation](https://inconsolation.wordpress.com/) - Adventures with lightweight and minimalist software for Linux.
 - [Arabesque](https://sanctum.geek.nz/arabesque/) - Systems, Tools, and Terminal Science.
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line#readme)
+- [cheat](https://github.com/cheat/cheat) - Allows you to create and view interactive cheatsheets on the command-line.

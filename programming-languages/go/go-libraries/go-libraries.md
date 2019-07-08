@@ -160,6 +160,7 @@
 - [Sling](https://github.com/dghubble/sling) - Go HTTP client library for creating and sending API requests.
 - [Geziyor](https://github.com/geziyor/geziyor) - Fast web crawling & scraping framework for Go.
 - [demangle](https://github.com/ianlancetaylor/demangle) - C++ symbol name demangler written in Go.
+- [gamut](https://github.com/muesli/gamut) - Generate and manage color palettes & schemes.
 
 ## Links
 

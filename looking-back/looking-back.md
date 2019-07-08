@@ -11,7 +11,7 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 - [March](2019/2019-march.md) - Visited London/Paris. First Go conference.
 - [April](2019/2019-april.md) - Last month at Enpicom. Building LA 1.0
 - [May](2019/2019-may.md) - Moved to London. Joined Gyana.
-- [June](2019/2019-june.md)
+- [June](2019/2019-june.md) - Gyana.
 
 ## [2018](2018/2018.md)
 
