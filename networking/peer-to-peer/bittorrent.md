@@ -14,3 +14,5 @@
 - [magnetico](https://github.com/boramalper/magnetico) - Autonomous (self-hosted) BitTorrent DHT search engine suite.
 - [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Web application that indexes all popular torrent sites, and saves it to the local database.
 - [torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent-client package and utilities.
+- [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library.
+- [confluence](https://github.com/anacrolix/confluence) - Torrent client as a HTTP service.

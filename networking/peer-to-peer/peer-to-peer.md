@@ -14,3 +14,4 @@
 - [Wireline](https://www.wireline.io/#about) - Peer-to-peer network for open source applications.
 - [Cabal](https://cabal.chat/) - Experimental p2p community chat platform.
 - [Radicle](http://radicle.xyz/) - Peer-to-peer stack for code collaboration.
+- [List of peer-to-peer resources](https://github.com/kgryte/awesome-peer-to-peer#readme)
