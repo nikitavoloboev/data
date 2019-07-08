@@ -68,3 +68,4 @@
 - [Why I (as of June 22 2019) think Haskell is the best general purpose language](http://www.philipzucker.com/why-i-as-of-june-22-2019-think-haskell-is-the-best-general-purpose-language-as-of-june-22-2019/)
 - [Ormolu](https://github.com/tweag/ormolu) - Formatter for Haskell source code.
 - [Koka](https://github.com/koka-lang/koka) - Function-oriented language with effect inference.
+- [Write You a Haskell 2](https://github.com/JKTKops/Write-You-a-Haskell-2) - Continuation of Steven Diehl's Write You a Haskell.

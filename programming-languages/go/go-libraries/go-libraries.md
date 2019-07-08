@@ -159,6 +159,7 @@
 - [script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go.
 - [Sling](https://github.com/dghubble/sling) - Go HTTP client library for creating and sending API requests.
 - [Geziyor](https://github.com/geziyor/geziyor) - Fast web crawling & scraping framework for Go.
+- [demangle](https://github.com/ianlancetaylor/demangle) - C++ symbol name demangler written in Go.
 
 ## Links
 

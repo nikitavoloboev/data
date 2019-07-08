@@ -96,3 +96,5 @@
 - [Differentiation for Hackers](https://github.com/MikeInnes/diff-zoo) - The goal of this handbook is to demystify algorithmic differentiation, the tool that underlies modern machine learning.
 - [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning)
 - [Machine Learning Systems are Stuck in a Rut (2019)](https://dl.acm.org/citation.cfm?id=3321441) ([HN](https://news.ycombinator.com/item?id=20301619))
+- [Literature of Deep Learning for Graphs](https://github.com/DeepGraphLearning/LiteratureDL4Graph#readme)
+- [Supplementary Materials for "Unsupervised word embeddings capture latent knowledge from materials science literature", Nature](https://github.com/materialsintelligence/mat2vec)

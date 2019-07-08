@@ -16,3 +16,4 @@
 - [tvm](https://github.com/dmlc/tvm/) - Open deep learning compiler stack for cpu, gpu and specialized accelerators.
 - [dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 - [PySyft](https://github.com/OpenMined/PySyft) - Library for encrypted, privacy preserving deep learning.
+- [numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy.
