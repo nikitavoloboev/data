@@ -70,3 +70,4 @@
 - [Best practices for building a large scale react application (2019)](https://buttercms.com/blog/best-practices-for-building-a-large-scale-react-application)
 - [Easy peasy state for React](https://github.com/ctrlplusb/easy-peasy)
 - [SMOOSHCAST: React Fiber Deep Dive with Dan Abramov (2019)](https://www.youtube.com/watch?v=aS41Y_eyNrU)
+- [Fresh Concurrent React](https://github.com/sw-yx/fresh-concurrent-react) - Fresh links about the coming concurrent react revolution.

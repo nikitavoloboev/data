@@ -161,6 +161,7 @@
 - [Geziyor](https://github.com/geziyor/geziyor) - Fast web crawling & scraping framework for Go.
 - [demangle](https://github.com/ianlancetaylor/demangle) - C++ symbol name demangler written in Go.
 - [gamut](https://github.com/muesli/gamut) - Generate and manage color palettes & schemes.
+- [sqlx](https://github.com/jmoiron/sqlx) - General purpose extensions to golang's database/sql.
 
 ## Links
 
