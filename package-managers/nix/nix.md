@@ -58,3 +58,4 @@
 - [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
 - [Nix builder for Kubernetes](https://gist.github.com/tazjin/08f3d37073b3590aacac424303e6f745)
 - [Nixery](https://nixery.appspot.com/) - Provides the ability to pull ad-hoc container images from a Docker-compatible registry server.
+- [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix.

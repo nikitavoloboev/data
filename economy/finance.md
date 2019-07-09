@@ -44,3 +44,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Resources for those who want to better understand personal finance](https://github.com/kmt901/goodbye-money-confusion#readme)
 - [How to earn your Macroeconomics and Finance white belt (as a software developer) (2019)](https://notamonadtutorial.com/how-to-earn-your-macroeconomics-and-finance-white-belt-as-a-software-developer-136e7454866f)
 - [Ask HN: Best Passive Income Method? (2019)](https://news.ycombinator.com/item?id=20052668)
+- [What were the most influential learning resources you found while discovering FIRE? (2019)](https://www.reddit.com/r/financialindependence/comments/c9yan7/what_were_the_most_influential_learning_resources/)
