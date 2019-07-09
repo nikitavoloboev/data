@@ -36,3 +36,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#readme)
 - [My personal journey from MIT to GPL (2019)](https://drewdevault.com/2019/06/13/My-journey-from-MIT-to-GPL.html) ([HN](https://news.ycombinator.com/item?id=20183056))
 - [BOSS](https://www.boss.dev/) - Bounties for Open Source Software.
+- [Unlicense Yourself: Set Your Code Free](https://unlicense.org/)
