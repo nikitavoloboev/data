@@ -47,3 +47,4 @@ I love Git and version control. And I use version control over any project I do.
 - [More productive Git](https://increment.com/open-source/more-productive-git/) ([HN](https://news.ycombinator.com/item?id=20004224))
 - [List of commonly used Git commands](https://github.com/joshnh/Git-Commands#readme)
 - [Hercules](https://github.com/src-d/hercules) - Fast, insightful and highly customizable Git history analysis.
+- [Git Tower Guides](https://www.git-tower.com/learn/)
