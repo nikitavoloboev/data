@@ -42,3 +42,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [redux-bundler](https://github.com/HenrikJoreteg/redux-bundler) - Compose a Redux store out of smaller bundles of functionality.
 - [Redux Starter Kit](https://github.com/reduxjs/redux-starter-kit) - Simple set of tools to make using Redux easier.
 - [Redux DevTools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
+- [Redux-ORM](https://github.com/redux-orm/redux-orm) - Small, simple and immutable ORM to manage relational data in your Redux store.

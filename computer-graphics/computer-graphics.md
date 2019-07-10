@@ -28,3 +28,4 @@
 - [2D Graphics on Modern GPU (2019)](https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html)
 - [Resources for Learning Graphics Programming](http://stephaniehurlburt.com/blog/2019/3/25/resources-for-learning-graphics-programming)
 - [Cellular Forms](https://github.com/fogleman/CellularForms) - Implementation of Andy Lomas' Cellular Forms.
+- [Physically Based Rendering](https://github.com/Nadrin/PBR) - Implementation of physically based shading model & image based lighting in various graphics APIs.
