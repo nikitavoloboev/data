@@ -30,3 +30,4 @@
 - [The reference implementation of IDML for the JVM](https://github.com/IDML/idml)
 - [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python data analysis toolkit.
 - [Programming Language Support for Data-intensive Applications meeting (2019)](https://github.com/avsm/shonan-143#readme)
+- [Datasette](https://github.com/simonw/datasette) - Tool for exploring and publishing data.

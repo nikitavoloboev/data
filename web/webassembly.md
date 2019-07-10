@@ -32,3 +32,4 @@
 - [Compiling C to WebAssembly without Emscripten (2019)](https://dassur.ma/things/c-to-webassembly/)
 - [Wasm By Example](https://wasmbyexample.dev/)
 - [Lightbeam](https://github.com/CraneStation/lightbeam) - Optimising one-pass streaming compiler for WebAssembly, intended for use in Wasmtime.
+- [Pragmatic compiling of C++ to WebAssembly. A Guide. (2019)](https://medium.com/@tdeniffel/pragmatic-compiling-from-c-to-webassembly-a-guide-a496cc5954b8)
