@@ -34,3 +34,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Regret-stergram (2018)](https://medium.com/@dhh/regret-stergram-ea4073a64911)
 - [Sherlock](https://github.com/TheYahya/sherlock) - Find usernames across social networks.
 - [Mark Zuckerberg discussing future journalism platform with Mathias Döpfner (2019)](https://www.facebook.com/zuck/videos/10107028374517921/)
+- [Sherlock](https://github.com/sherlock-project/sherlock) - Find usernames across social networks.

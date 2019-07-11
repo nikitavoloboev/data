@@ -14,6 +14,7 @@
 - [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
 - [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
 - [Gloo](https://github.com/rustwasm/gloo) - Toolkit for building fast, reliable Web applications and libraries with Rust and Wasm.
+- [reqwest](https://github.com/seanmonstar/reqwest) - Easy and powerful Rust HTTP Client.
 
 ## ORM
 
@@ -106,6 +107,7 @@
 - [daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons.
 - [Rust Embed](https://github.com/pyros2097/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [self_update](https://github.com/jaemk/self_update) - Provides updaters for updating rust executables in-place from various release distribution backends.
+- [cc-rs](https://github.com/alexcrichton/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library.
 
 ## Cargo Plugins
 
