@@ -18,7 +18,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [mitmproxy](https://mitmproxy.org/) - Free and open source interactive HTTPS proxy.
 - [CFSSL](https://github.com/cloudflare/cfssl) - CloudFlare's PKI/TLS swiss army knife.
 - [Every Linux networking tool I know](https://wizardzines.com/networking-tools-poster/)
-- [inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet. ([HN](https://news.ycombinator.com/item?id=19189455))
+- [inlets](https://github.com/alexellis/inlets) - Expose your local endpoints to the Internet. ([HN](https://news.ycombinator.com/item?id=19189455)) [HN 2](https://news.ycombinator.com/item?id=20410552)
 - [miniserve](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP.
 - [Recommended books on Computer Networks? (2019)](https://lobste.rs/s/jwlh6s/recommended_books_on_computer_networks)
 - [SwiftNIO](https://github.com/apple/swift-nio) - Cross-platform asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.

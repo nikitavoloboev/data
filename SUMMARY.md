@@ -450,7 +450,6 @@
   - [Landing pages](business/landing-pages.md)
   - [Products](business/products.md)
   - [Pricing](business/pricing.md)
-  - [Companies](business/companies.md)
 - [Relationships](relationships/relationships.md)
   - [Seduction](relationships/seduction.md)
   - [Sex](relationships/sex.md)
