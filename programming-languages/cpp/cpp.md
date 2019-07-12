@@ -19,3 +19,4 @@
 - [Modern C++ Lecture (Basics)](https://github.com/PeterSommerlad/CPlusPlusLecture)
 - [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
 - [From scratch" implementations of many C++17 standard library features](https://github.com/Quuxplusone/from-scratch)
+- [dbg-macro](https://github.com/sharkdp/dbg-macro) - Macro for printf-style debugging fans.

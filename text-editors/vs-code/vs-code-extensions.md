@@ -6,12 +6,9 @@ Below is a list of extensions I use.
 
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
-- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
-- [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Convenient way of creating, duplicating, moving, renaming and deleting files and directories.
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
-- [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - Synchronize all of your VSCode settings across multiple devices.
 
 ## Go
 
@@ -53,6 +50,7 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - Synchronize all of your VSCode settings across multiple devices.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
 - [Protobuf 3 support](https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3)
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
@@ -90,6 +88,8 @@ Below is a list of extensions I use.
 - [Twitch Highlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) - Twitch Line Highlighter.
 - [Clever VS Code](https://marketplace.visualstudio.com/items?itemName=davidbabel.Clever) - Add many productivity usefull commands to vscode.
 - [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform.
+- [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
+- [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 
 ## Lisp
 
