@@ -47,6 +47,7 @@
 - [react-content-loader](https://github.com/danilowoz/react-content-loader) - SVG-Powered component to easily create placeholder loadings (like Facebook cards loading).
 - [react-hook-form](https://github.com/bluebill1049/react-hook-form) - React custom hook for form validation without the hassle.
 - [rest-hooks](https://github.com/coinbase/rest-hooks) - Delightful data fetching for React.
+- [Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React.
 
 ## Links
 
