@@ -10,7 +10,7 @@ I split the app into 3 columns on mac. On iOS, I only read through my [Top list]
 
 - First column: Mentions / Messages
 - Second column: [Top](https://twitter.com/nikitavoloboev/lists/top). Tweets with highest value to me.
-- Third column: [Top 2](https://twitter.com/nikitavoloboev/lists/top-2)
+- Third column: [Other](https://twitter.com/nikitavoloboev/lists/other)
 
 ![](https://i.imgur.com/gdQRoke.png)
 
