@@ -36,7 +36,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 8 - Show Launchpad
 - 9 - Picture of screen -> Clipboard
 - 0 - Picture of screen -> ~/Desktop
-- space - Add New Trello card
+- space - New Trello card
 
 ## CTRL+SHIFT
 
@@ -56,6 +56,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - u - Open URL
 - x - Little Snitch Network Monitor
 - c - Sleep
+- v - Selection -> HN
 
 ## OPT+SHIFT+CMD
 
@@ -67,7 +68,6 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - e - Selection -> YouTube
 - r - Selection -> Google Translate
 - y - Selection -> Stack Overflow
-- u - Selection -> HN
 - i - Safari URL -> HN
 - o - Safari URL -> Twitter
 - p - Safari URL -> Reddit
