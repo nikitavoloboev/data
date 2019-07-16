@@ -162,6 +162,7 @@
 - [demangle](https://github.com/ianlancetaylor/demangle) - C++ symbol name demangler written in Go.
 - [gamut](https://github.com/muesli/gamut) - Generate and manage color palettes & schemes.
 - [sqlx](https://github.com/jmoiron/sqlx) - General purpose extensions to golang's database/sql.
+- [bindata](https://github.com/go-bindata/go-bindata) - Turn data file into go code.
 
 ## Links
 

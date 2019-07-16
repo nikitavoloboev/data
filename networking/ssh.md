@@ -10,3 +10,4 @@
 - [Guide to using YubiKey for GPG and SSH](https://github.com/drduh/YubiKey-Guide)
 - [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell.
 - [ssh in https](https://flak.tedunangst.com/post/ssh-in-https) ([Lobsters](https://lobste.rs/s/xzztac/ssh_https))
+- [WebSSH](https://github.com/huashengdun/webssh) - Web based ssh client.

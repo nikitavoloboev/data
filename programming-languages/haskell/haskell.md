@@ -69,3 +69,4 @@
 - [Ormolu](https://github.com/tweag/ormolu) - Formatter for Haskell source code.
 - [Koka](https://github.com/koka-lang/koka) - Function-oriented language with effect inference.
 - [Write You a Haskell 2](https://github.com/JKTKops/Write-You-a-Haskell-2) - Continuation of Steven Diehl's Write You a Haskell.
+- [Verification with Refinement Types](https://ranjitjhala.github.io/CAV19-tutorial/00-outline.html)

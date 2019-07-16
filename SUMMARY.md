@@ -631,6 +631,7 @@
   - [Queries](other/queries.md)
   - [Funny](other/funny.md)
   - [Puzzles](other/puzzles.md)
+  - [Newsletters](other/newsletters.md)
   - [Used hotkeys](other/used-hotkeys.md)
   - [Mentions](other/mentions.md)
   - [Web presence](other/web-presence.md)
