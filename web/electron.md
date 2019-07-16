@@ -8,3 +8,4 @@
 - [electron-util](https://github.com/sindresorhus/electron-util) - Useful utilities for developing Electron apps and modules.
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron.
 - [electron-with-server-example](https://github.com/jlongster/electron-with-server-example) - Example Electron app with a backend server all wired up via IPC.
+- [template-electron](https://github.com/fabiospampinato/template-electron) - Template for starting a new electron app quickly.

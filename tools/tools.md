@@ -86,6 +86,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [fswatch](https://github.com/emcrisostomo/fswatch) - File change monitor that receives notifications when the contents of the specified files or directories are modified.
 - [UserMirror](https://usermirror.com/) - Reliable services to build privacy-first systems.
 - [Vector](https://github.com/timberio/vector) - High-Performance, Logs, Metrics, & Events Router.
+- [Happy Scribe](https://www.happyscribe.co/) - Video & Audio to Text in minutes.
 
 ## Notes
 
