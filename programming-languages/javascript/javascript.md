@@ -70,3 +70,4 @@
 - [Meriyah](https://github.com/meriyah/meriyah) - 100% compliant, self-hosted javascript parser with high focus on both performance and stability.
 - [The cost of JavaScript in 2019](https://news.ycombinator.com/item?id=20317736) ([HN](https://news.ycombinator.com/item?id=20317736))
 - [Poi](https://github.com/egoist/poi) - Zero-config bundler for JavaScript applications.
+- [Advanced JavaScript Course](https://tylermcginnis.com/courses/advanced-javascript)

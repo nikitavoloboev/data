@@ -2,7 +2,7 @@
 
 ## Science
 
-- [Owl](https://github.com/owlbarn/owl) - OCaml library for scientific and engineering computing.
+- [Owl](https://github.com/owlbarn/owl) - OCaml library for scientific and engineering computing. ([HN](https://news.ycombinator.com/item?id=20449595))
 
 ## Bindings
 
