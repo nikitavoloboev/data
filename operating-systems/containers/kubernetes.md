@@ -87,3 +87,4 @@
 - [k-vswitch](https://github.com/k-vswitch/k-vswitch) - Easy-to-operate, high performance and secure Kubernetes networking plugin based on Open vSwitch.
 - [Kontemplate](https://github.com/tazjin/kontemplate) - Extremely simple Kubernetes resource templates.
 - [OpenKruise/Kruise](https://github.com/openkruise/kruise) - Automate application workloads management on Kubernetes.
+- [Monday](https://github.com/eko/monday) - Dev tool for microservice developers that run local applications and/or forward some others from Kubernetes or over SSH.

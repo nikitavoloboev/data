@@ -29,7 +29,7 @@ Usually I break things down using [MindNode](../macOS/apps/mindnode.md). I break
 
 > But can also look like this. Example of a [brainstorming session](https://youtu.be/sB0DWq3PTDk).
 
-Often times I can do the decoupling of the task inside the app I am working in itself, be it a code editor or [2Do](../macOS/apps/2do.md). I also like sketching things on my iPad with [Notability](https://www.gingerlabs.com) if the problem is complex enough.
+Often times I can do the decoupling of the task inside the app I am working in itself, be it a code editor or [2Do](../macOS/apps/2do.md). I also like sketching things on my iPad with Notes if the problem is complex enough.
 
 ## 3. Work on solving the task and nothing else
 

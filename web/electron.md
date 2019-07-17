@@ -9,3 +9,4 @@
 - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) - Boilerplate to kickstart creating an app with Electron.
 - [electron-with-server-example](https://github.com/jlongster/electron-with-server-example) - Example Electron app with a backend server all wired up via IPC.
 - [template-electron](https://github.com/fabiospampinato/template-electron) - Template for starting a new electron app quickly.
+- [Electron Forge](https://github.com/electron-userland/electron-forge) - Complete tool for creating, publishing, and installing modern Electron applications.
