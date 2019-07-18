@@ -17,3 +17,4 @@
 - [Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
 - [The Great Divide (2019)](https://css-tricks.com/the-great-divide/) - Two front-end developers are sitting at a bar. They have nothing to talk about.
 - [Micro Frontends (2019)](https://martinfowler.com/articles/micro-frontends.html)
+- [The Modern Front-End Design System Stack (2019)](https://jxnblk.com/blog/the-modern-front-end-design-system/)

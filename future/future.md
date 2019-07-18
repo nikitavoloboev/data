@@ -23,4 +23,4 @@
 - [The Humane Representation of Thought (2014)](https://vimeo.com/115154289)
 - [Rutger Bregman - “Utopia for Realists” and Big Ideas for an Equitable Economy (2019)](https://www.youtube.com/watch?v=QbTWxFwuQtM)
 - [Mark Zuckerberg & Yuval Noah Harari in Conversation (2019)](https://www.youtube.com/watch?v=Boj9eD0Wug8)
-- [Bill Gates on Startups, Investing and Solving The World's Hardest Problems (2019)](https://www.youtube.com/watch?v=W5g4sPi1wd4&feature=youtu.be) ([HN](https://news.ycombinator.com/item?id=20251642))
+- [Bill Gates on Startups, Investing and Solving The World's Hardest Problems (2019)](https://www.youtube.com/watch?v=W5g4sPi1wd4) ([HN](https://news.ycombinator.com/item?id=20251642))

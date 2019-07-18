@@ -59,7 +59,7 @@
 - [Async Rust Programming Book](https://rust-lang.github.io/async-book/getting_started/why_async.html#why-async)
 - [Best short-form writing about Rust, collected](https://github.com/brson/rust-anthology#readme)
 - [Update on await syntax](https://boats.gitlab.io/blog/post/await-decision-ii/) ([HN](https://news.ycombinator.com/item?id=20030486))
-- [Sonny Scroggin - BEAM + Rust: A match made in heaven (2019)](https://www.youtube.com/watch?v=xe32ku9s14k&feature=youtu.be)
+- [Sonny Scroggin - BEAM + Rust: A match made in heaven (2019)](https://www.youtube.com/watch?v=xe32ku9s14k)
 - [Collection of software engineering techniques for effectively expressing intent with Rust](https://github.com/ferrous-systems/elements-of-rust#readme)
 - [What are the most important traits to learn in the rust stdlib? (2019)](https://www.reddit.com/r/rust/comments/c8fl30/what_are_the_most_important_traits_to_learn_in/)
 - [Rust API guidelines](https://github.com/rust-lang-nursery/api-guidelines#readme) - Set of recommendations on how to design and present APIs for the Rust programming language.
