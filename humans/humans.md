@@ -40,3 +40,4 @@ Here are some humans whose work I found great interest in:
 
 - [Important women in CS who aren't Grace Hopper](https://www.hillelwayne.com/post/important-women-in-cs/)
 - [Awesome programmers](https://github.com/rekihattori/awesome-programmers)
+- [Uses This](https://usesthis.com/) - Collection of nerdy interviews asking people from all walks of life what they use to get the job done.

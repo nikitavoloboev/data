@@ -13,3 +13,4 @@
 - [see](https://github.com/wyhaya/see) - Static web server, developed using rust.
 - [HTTP 203 podcast](https://developers.google.com/web/shows/http203/podcast/)
 - [HTTP Cats](https://http.cat/)
+- [HTTP Security Headers - A Complete Guide (2019)](https://nullsweep.com/http-security-headers-a-complete-guide/) ([HN](https://news.ycombinator.com/item?id=20468845))

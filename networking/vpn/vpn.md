@@ -15,3 +15,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [OpenVPN vs IPSec, WireGuard, L2TP, & IKEv2 (VPN Protocols 2019)](https://restoreprivacy.com/openvpn-ipsec-wireguard-l2tp-ikev2-protocols/)
 - [Ask HN: What VPN service are you currently using? (2019)](https://news.ycombinator.com/item?id=19242058)
 - [Brook](https://github.com/txthinking/brook) - Cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software.
+- [DSVPN](https://github.com/jedisct1/dsvpn) - Dead Simple VPN, designed to address the most common use case for using a VPN.
