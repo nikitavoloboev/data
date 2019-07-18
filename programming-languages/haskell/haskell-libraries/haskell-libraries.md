@@ -29,3 +29,4 @@
 - [inline-js](https://github.com/tweag/inline-js) - Run JavaScript in Haskell.
 - [fused-effects](https://github.com/fused-effects/fused-effects) - Fast, flexible, fused effect system for Haskell.
 - [concat](https://github.com/conal/concat) - Compiling to Categories.
+- [polysemy](https://github.com/polysemy-research/polysemy) - Higher-order, no-boilerplate, zero-cost monads.

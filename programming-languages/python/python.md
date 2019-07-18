@@ -29,3 +29,4 @@
 - [Pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet.
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - Modern Python application packaging and distribution tool.
 - [isort](https://github.com/timothycrosley/isort) - Python utility / library to sort imports.
+- [What's coming in Python 3.8](https://lwn.net/SubscriberLink/793818/0c6f9dd271021cd4/) ([HN](https://news.ycombinator.com/item?id=20463170))
