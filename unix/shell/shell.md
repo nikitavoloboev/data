@@ -30,3 +30,4 @@ All active variables can be seen by running `env`.
 - [What does your shell prompt look like? (2019)](https://lobste.rs/s/x5ioqm/what_does_your_shell_prompt_look_like)
 - [direnv](https://direnv.net/) - Unclutter your .profile.
 - [mask](https://github.com/jakedeichert/mask) - CLI task runner defined by a simple markdown file.
+- [Purs](https://github.com/xcambar/purs) - Pure-inspired prompt in Rust.

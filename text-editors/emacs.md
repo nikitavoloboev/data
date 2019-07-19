@@ -25,3 +25,4 @@ Might give it a go sometime.
 - [List of people with nice emacs config files](https://github.com/caisah/emacs.dz#readme)
 - [.emacs.el file and other personal Emacs goodies by John Wiegley](https://github.com/jwiegley/dot-emacs)
 - [Emacs Prelude](https://github.com/bbatsov/prelude) - Emacs distribution that aims to enhance the default Emacs experience.
+- [Language Server Protocol Support for Emacs](https://github.com/emacs-lsp/lsp-mode)

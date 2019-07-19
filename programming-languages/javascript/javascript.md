@@ -6,6 +6,7 @@
 - In JavaScript, a type is a runtime tag describing the actual kind of data you have at runtime.
 - A property is any value attached to an object. A method is a property that is a function.
 - `this`, always references the owner of the function it is in, for this case — since it is now out of scope — the window/global object.
+- [Can type `debugger` in JS/TS to activate debugger at that point](https://twitter.com/calebporzio/status/1151185995309690886).
 
 ## Links
 

@@ -13,3 +13,4 @@ Concurrency is the composition of independently executing computations.
 - [Structured Concurrency](http://250bpm.com/blog:137)
 - [A Separation Logic for Concurrent Randomized Programs](http://www.cs.cmu.edu/~rwh/papers/prob-conc/paper.pdf)
 - [Lock-free programming for the masses (2016)](http://kcsrk.info/ocaml/multicore/2016/06/11/lock-free/)
+- [CspExamples.jl](https://github.com/NHDaly/CspExamples.jl) - Julia implementations for the Example problems in Hoare's 1978 paper, "Communicating Sequential Processes".
