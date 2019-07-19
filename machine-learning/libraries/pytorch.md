@@ -26,3 +26,4 @@
 - [PyTorch internals](http://blog.ezyang.com/2019/05/pytorch-internals/)
 - [Towards Reproducible Research with PyTorch Hub (2019)](https://pytorch.org/blog/towards-reproducible-research-with-pytorch-hub/)
 - [XLM](https://github.com/facebookresearch/XLM) - PyTorch original implementation of Cross-lingual Language Model Pretraining.
+- [BoTorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch.

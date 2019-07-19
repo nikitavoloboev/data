@@ -88,6 +88,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Vector](https://github.com/timberio/vector) - High-Performance, Logs, Metrics, & Events Router.
 - [Happy Scribe](https://www.happyscribe.co/) - Video & Audio to Text in minutes.
 - [Fireworq](https://github.com/fireworq/fireworq) - Lightweight, high-performance, language-independent job queue system.
+- [Stripe CLI](https://github.com/stripe/stripe-cli) - Command-line tool for Stripe.
 
 ## Notes
 
