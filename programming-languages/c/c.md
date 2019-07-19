@@ -14,3 +14,4 @@
 - [picol, a Tcl interpreter in 550 lines of C code (2007)](http://oldblog.antirez.com/post/picol.html)
 - [Boehm-Demers-Weiser conservative C/C++ Garbage Collector (libgc, bdwgc, boehm-gc)](https://github.com/ivmai/bdwgc)
 - [Clang documentation](https://clang.llvm.org/docs/index.html)
+- [libaco](https://github.com/hnes/libaco) - Blazing fast and lightweight C asymmetric coroutine library.
