@@ -20,3 +20,4 @@
 
 - [A Beginner's Guide to RC Psychedelics](https://www.reddit.com/r/researchchemicals/comments/7qep7b/a_beginners_guide_to_rc_psychedelics/)
 - [Ban RC in Netherlands, what substances you are going to stock up? (2019)](https://www.reddit.com/r/researchchemicals/comments/bhxh6o/ban_rc_in_netherlands_what_substances_you_are/)
+- [What is your favorite RC and why? (2019)](https://www.reddit.com/r/researchchemicals/comments/cf4431/what_is_your_favorite_rc_and_why/)

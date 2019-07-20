@@ -4,7 +4,7 @@ One of the most valuable books I read on the topic of dating and relationships i
 
 Being honest with your intentions and being independent of anything brings confidence. The hardest part in doing anything in life including approaching new people on the street to simply say hi is the feeling of being rejected. This fear however is irrational. The worst thing that can happen is that you will indeed get rejected. And getting rejected is nothing to be afraid of because no one cares about you being rejected except you. And even in the case of rejection, you will learn something. I think the book really demonstrates the point that the most important thing to succeed in anything you want to do is being yourself and not being afraid of anything.
 
-For first dates specifically, I find it best to arrange to meet as soon as possible over chatting in text. You will know a lot more about each other in a brief 10 min conversation together over coffee than anything else. For services like Tinder where you get to chat when both of you 'swiped on each other', it can be as simple as asking 'Want to get ☕️ together?'
+For first dates specifically, I find it best to arrange to meet as soon as possible over chatting in text. You will know a lot more about each other in a brief 10 min conversation together over coffee than anything else. For services like Tinder where you get to chat when both of you 'swiped on each other', it can be as simple as asking `Want to get coffee together? 😊`
 
 Personally I found dating apps like Tinder to be a [waste of time](https://twitter.com/devonzuegel/status/1087575749949673472). And I like to approach girls I find attractive in real life (where appropriate) by saying hey and asking for their name.
 
