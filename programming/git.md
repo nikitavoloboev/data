@@ -48,3 +48,4 @@ I love Git and version control. And I use version control over any project I do.
 - [List of commonly used Git commands](https://github.com/joshnh/Git-Commands#readme)
 - [Hercules](https://github.com/src-d/hercules) - Fast, insightful and highly customizable Git history analysis.
 - [Git Tower Guides](https://www.git-tower.com/learn/)
+- [git-stashout](https://github.com/aviaviavi/git-stashout) - Custom git checkout command to automatically manage a per-branch stash.
