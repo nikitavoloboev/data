@@ -15,3 +15,4 @@
 - [Collection of Gatsby themes](https://github.com/johno/gatsby-themes#readme)
 - [egghead.io creator MDX Blog Starter Project](https://github.com/eggheadio/gatsby-starter-egghead-blog)
 - [Getting Started with Gatsby Themes](https://www.ianjones.us/getting-started-with-gatsby-themes)
+- [gatsby-theme-documentation](https://github.com/johno/gatsby-theme-documentation) - Minimalist Gatsby Theme for documentation sites built with MDX and Theme UI.

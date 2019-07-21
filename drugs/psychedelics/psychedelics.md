@@ -54,3 +54,4 @@ I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=e
 - [5-MeO-DMT Associated with Improvements in Depression, Anxiety (2019)](https://news.ycombinator.com/item?id=19430971) ([HN](https://news.ycombinator.com/item?id=19430971))
 - [David Nichols - "From “There” to “Here”" (2018)](https://www.youtube.com/watch?v=urT3bg2dYGs)
 - [Psychedelic Society UK](https://psychedelicsociety.org.uk/)
+- [Lysergi](https://lysergi.com/) - Canadian research chemicals vendor.

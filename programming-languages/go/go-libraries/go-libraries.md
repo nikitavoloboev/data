@@ -164,6 +164,7 @@
 - [sqlx](https://github.com/jmoiron/sqlx) - General purpose extensions to golang's database/sql.
 - [bindata](https://github.com/go-bindata/go-bindata) - Turn data file into go code.
 - [ObjectBox Go API](https://github.com/objectbox/objectbox-go) - Persisting your Go structs/objects superfast and simple.
+- [panicparse](https://github.com/maruel/panicparse) - Crash your app in style (Golang).
 
 ## Links
 

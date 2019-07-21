@@ -9,3 +9,4 @@ I usually add any person I found interesting to [my contacts](../macOS/apps/cont
 ## Links
 
 - [Awesome events](https://github.com/learn-anything/events#readme)
+- [Как правильно приглашать на встречи (2019)](http://sergeykorol.ru/blog/meeting-call/)

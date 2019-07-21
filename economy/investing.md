@@ -13,3 +13,5 @@
 - [Seeking Alpha](https://seekingalpha.com/) - Crowd-sourced content service for financial markets.
 - [Here’s everything I’ve learned about angel investing in the past 8 years since I made my first one. I’ve invested in Cruise, Ginkgo Bioworks, Razorpay, Bird, and 100 more companies.](https://twitter.com/justinkan/status/1136751115632988160)
 - [Jack Bogle on Index Funds, Vanguard, and Investing Advice (2019)](https://www.youtube.com/watch?v=MLgn_kVKjCE)
+- [The Position of Fuck You by JL Collins](https://www.youtube.com/watch?v=eikbQPldhPY)
+- [JL Collins: "The Simple Path to Wealth" | Talks at Google (2018)](https://www.youtube.com/watch?v=T71ibcZAX3I)
