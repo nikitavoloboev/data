@@ -12,6 +12,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 - [Michal Pelka](https://www.instagram.com/michalpelka/) - Beautiful photos of waves.
 - [Tobias van Schneider](https://unsplash.com/@vanschneider/)
 - [Artem Sapegin](https://morning.photos/albums)
+- [Annie Spratt](https://www.instagram.com/anniespratt/)
 
 ## Interesting photographers
 

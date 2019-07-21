@@ -33,6 +33,7 @@
 - [Code and materials for book "Functional Design and Architecture" (2019)](https://github.com/graninas/Functional-Design-and-Architecture)
 - [Practical Functional Programming: Prelude (2018)](https://www.gasi.ch/blog/practical-functional-programming)
 - [Postmodern Programming](https://github.com/robrix/Postmodern-Programming/blob/master/Postmodern%20Programming.md) - Talk about declarative programming in and around imperative code: what, why, and how.
+- [The Koka Book](https:/koka-lang.github.io/koka/doc/kokaspec.html) - Introduction and Specification of the Koka language.
 
 ## Images
 
