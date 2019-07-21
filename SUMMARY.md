@@ -134,6 +134,7 @@
   - [Hashing](programming/hashing.md)
   - [Functional programming](programming/functional-programming/functional-programming.md)
     - [GADTs](programming/functional-programming/gadts.md)
+    - [Algebraic effects](programming/functional-programming/algebraic-effects.md)
   - [Logic programming](programming/logic-programming.md)
   - [Relational programming](programming/relational-programming.md)
   - [Semantic versioning](programming/semantic-versioning.md)
