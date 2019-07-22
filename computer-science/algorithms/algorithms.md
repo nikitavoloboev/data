@@ -20,6 +20,7 @@
 - [Top algos/DS to learn](https://www.reddit.com/r/compsci/comments/5uz9lb/top_algorithmsdata_structuresconcepts_every/ddy8azz/)
 - [Some neat algorithms](https://www.nayuki.io/category/programming)
 - [All algorithms implemented in Python (for education)](https://github.com/TheAlgorithms/Python)
+- [Mathematical Proof of Algorithm Correctness and Efficiency (2019)](https://stackabuse.com/mathematical-proof-of-algorithm-correctness-and-efficiency/)
 
 ## Images
 
