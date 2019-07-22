@@ -7,3 +7,4 @@
 - [Amy Webb on Artificial Intelligence, Humanity, and the Big Nine (2019)](https://overcast.fm/+JCCrJC4)
 - [Ada Lovelace Institute](https://www.adalovelaceinstitute.org/) - Independent research and deliberative body with a mission to ensure data and AI work for people and society.
 - [OpenAI Charter](https://openai.com/charter/) - Describes the principles we use to execute on OpenAI’s mission.
+- [Google AI Education Resources](https://ai.google/education/) ([HN](https://news.ycombinator.com/item?id=20493947))

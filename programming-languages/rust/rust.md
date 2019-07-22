@@ -66,3 +66,4 @@
 - [Rust API guidelines](https://github.com/rust-lang-nursery/api-guidelines#readme) - Set of recommendations on how to design and present APIs for the Rust programming language.
 - [The Go Developer's Quickstart Guide to Rust (2018)](http://technosophos.com/2018/05/27/the-go-developers-quickstart-guide-to-rust.html)
 - [Notes on a smaller Rust (2019)](https://boats.gitlab.io/blog/post/notes-on-a-smaller-rust/) ([Lobsters](https://lobste.rs/s/u2oufb/notes_on_smaller_rust))
+- [Functional Programming Jargon in Rust](https://github.com/JasonShin/functional-programming-jargon.rs#readme)

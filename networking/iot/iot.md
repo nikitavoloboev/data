@@ -20,3 +20,4 @@
 - [Amazon FreeRTOS](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers.
 - [Senet](https://www.senetco.com/) - Cloud-based network connectivity platforms for the on demand build-out and management of the Internet of Things.
 - [AWS IoT Things Graph (2019)](https://aws.amazon.com/blogs/aws/now-available-aws-iot-things-graph/)
+- [TDengine](https://github.com/taosdata/TDengine) - Open-source big data platform designed and optimized for the Internet of Things (IoT).
