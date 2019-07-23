@@ -102,3 +102,4 @@
 - [Autocompletion with deep learning (2019)](https://tabnine.com/blog/deep)
 - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+- [ML and DS Applications in Industry](https://github.com/firmai/industry-machine-learning#readme) - Curated list of applied machine learning and data science notebooks and libraries across different industries.

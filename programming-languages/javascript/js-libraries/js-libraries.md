@@ -91,3 +91,4 @@
 - [flru](https://github.com/lukeed/flru) - Tiny (215B) and fast Least Recently Used (LRU) cache.
 - [Yup](https://github.com/jquense/yup) - Dead simple Object schema validation.
 - [Lerna](https://github.com/lerna/lerna) - Tool for managing JavaScript projects with multiple packages.
+- [WikiJs](https://github.com/dijs/wiki) - Wikipedia Interface for Node.js.

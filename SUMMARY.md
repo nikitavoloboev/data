@@ -527,6 +527,7 @@
   - [Gamedev](games/gamedev/gamedev.md)
   - [Game engines](games/gamedev/game-engines.md)
   - [Board games](games/board-games.md)
+  - [Chess](games/chess.md)
 - [Streaming](streaming/streaming.md)
 - [Talks](talks/talks.md)
   - [Presentations](talks/presentations.md)
