@@ -32,3 +32,4 @@
 - [Programming Language Support for Data-intensive Applications meeting (2019)](https://github.com/avsm/shonan-143#readme)
 - [Datasette](https://github.com/simonw/datasette) - Tool for exploring and publishing data.
 - [Vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second.
+- [Weld](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications.

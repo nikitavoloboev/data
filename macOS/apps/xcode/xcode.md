@@ -13,3 +13,4 @@
 - [WWDC: Getting Started with Xcode (2019)](https://developer.apple.com/videos/play/wwdc2019/404/)
 - [index-import](https://github.com/lyft/index-import) - Tool to import swiftc and clang index-store files into Xcode.
 - [Tuist](https://github.com/tuist/tuist) - Create, maintain, and interact with Xcode projects at scale.
+- [Unused images and resources clean up in Xcode (2019)](https://www.avanderlee.com/optimization/unused-images-clean-up/)
