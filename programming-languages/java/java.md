@@ -8,3 +8,4 @@
 - [Java on iOS, for real (2019)](https://gluonhq.com/java-on-ios-for-real/)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 - [Quarkus](https://quarkus.io/) - Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards.
+- [async-profiler](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events.
