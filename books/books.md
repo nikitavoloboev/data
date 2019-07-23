@@ -121,6 +121,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Alan Kay's Reading List](http://www.squeakland.org/resources/books/readingList.jsp)
 - [Ask HN: Recommend one book I need to read this summer? (2019)](https://news.ycombinator.com/item?id=20332455)
 - [Patrick Collison's bookshelf](https://patrickcollison.com/bookshelf)
+- [Recommendations from an audiobook addict](https://www.reddit.com/r/audible/comments/7znp6h/recommendations_from_an_addict/)
 
 ## Notes
 

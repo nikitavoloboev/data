@@ -101,3 +101,4 @@
 - [Solution of assignment in 2011 Stanford Machine Learning Class](https://github.com/everpeace/ml-class-assignments)
 - [Autocompletion with deep learning (2019)](https://tabnine.com/blog/deep)
 - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+- [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)

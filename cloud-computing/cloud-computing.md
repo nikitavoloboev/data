@@ -27,3 +27,4 @@
 - [pack](https://github.com/buildpack/pack) - Local CLI for building apps using Cloud Native Buildpacks.
 - [Common solutions and tools developed by Google Cloud's Professional Services team](https://github.com/GoogleCloudPlatform/professional-services#readme)
 - [Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words#readme)
+- [Awesome Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild#readme) - Curated list of resources about all things Google Cloud Build.

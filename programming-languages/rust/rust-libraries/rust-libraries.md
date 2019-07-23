@@ -109,6 +109,7 @@
 - [self_update](https://github.com/jaemk/self_update) - Provides updaters for updating rust executables in-place from various release distribution backends.
 - [cc-rs](https://github.com/alexcrichton/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library.
 - [nannou](https://github.com/nannou-org/nannou) - Creative Coding Framework for Rust.
+- [Bastion](https://github.com/vertexclique/bastion) - Fault-tolerant Runtime for Rust applications.
 
 ## Cargo Plugins
 

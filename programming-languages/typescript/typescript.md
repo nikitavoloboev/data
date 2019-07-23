@@ -51,6 +51,7 @@
 - [Lobsters: What have you learned from adopting Typescript into an existing JS codebase? (2019)](https://lobste.rs/s/3ucfhp/what_have_you_learned_from_adopting)
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet#readme)
 - [Using Typescript to make invalid states irrepresentable](http://www.javiercasas.com/articles/typescript-impossible-states-irrepresentable)
+- [High-level notes about TypeScript](https://github.com/orta/typescript-notes)
 
 ## Images
 

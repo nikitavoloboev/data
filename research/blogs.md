@@ -43,3 +43,4 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [Overengineering a Blog](https://blog.andrewbran.ch/overengineering-a-blog/)
 - [Switch from Medium to your own blog in a few minutes](https://github.com/mathieudutour/medium-to-own-blog)
 - [openring](https://git.sr.ht/~sircmpwn/openring) - Tool for generating a webring from RSS feeds, so you can link to other blogs you like on your own blog. ([HN](https://news.ycombinator.com/item?id=20191603))
+- [6 blog tips for busy academics](http://matt.might.net/articles/how-to-blog-as-an-academic/)
