@@ -14,3 +14,4 @@
 - [Sonder](https://www.sonder.com/) - Beautiful spaces built for travel and life.
 - [Common](https://www.common.com/) - Private rooms and beautiful shared spaces in friendly homes.
 - [Travel photos are underrated (2019)](https://devonzuegel.com/post/travel-photos-are-underrated)
+- [Hipcamp](https://www.hipcamp.com/) - Everywhere you want to camp.

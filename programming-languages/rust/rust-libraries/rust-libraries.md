@@ -110,6 +110,7 @@
 - [cc-rs](https://github.com/alexcrichton/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library.
 - [nannou](https://github.com/nannou-org/nannou) - Creative Coding Framework for Rust.
 - [Bastion](https://github.com/vertexclique/bastion) - Fault-tolerant Runtime for Rust applications.
+- [Criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust.
 
 ## Cargo Plugins
 
