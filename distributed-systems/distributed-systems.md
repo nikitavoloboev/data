@@ -31,3 +31,4 @@
 - [Protozoa](http://protozoa.nz/) - Web developers, facilitators, crypto-engineers. Experts in Node.js & distributed systems.
 - [Akka](https://github.com/akka/akka) - Build highly concurrent, distributed, and resilient message-driven applications on the JVM.
 - [Distributed Components](https://distributedcomponents.net/) - Provides reusable infrastructure for formally verifying distributed systems using the Coq proof assistant.
+- [Practical Networked Applications in Rust, Part 1: Non-Networked Key-Value Store](https://arveknudsen.com/posts/practical-networked-applications-in-rust/module-1/) ([HN](https://news.ycombinator.com/item?id=20511271))

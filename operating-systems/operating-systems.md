@@ -32,3 +32,4 @@ And I really like [NixOS](linux/nixos.md) and it's [nix package manager](../pack
 - [Write your own Operating System (2017)](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
 - [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 - [Introducing Mercury OS (2019)](https://medium.com/@jasonyuan/introducing-mercury-os-f4de45a04289)
+- [Nanos](https://github.com/nanovms/nanos) - New kernel designed to run one and only one application in a virtualized environment.

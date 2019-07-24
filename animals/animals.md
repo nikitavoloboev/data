@@ -20,3 +20,4 @@ I love all animals.
 - [The history of the world according to cats - Eva-Maria Geigl (2018)](https://www.youtube.com/watch?v=Jsj-hDW9bS8)
 - [Champion Pet Food](https://www.championpetfoods.com/) - World's best cat & dog food.
 - [Free to Use and Reuse: Cats](https://www.loc.gov/free-to-use/cats)
+- [Falsehoods programmers believe about dogs](https://www.hillelwayne.com/post/falsehoods-programmers-believe-about-dogs/)
