@@ -24,3 +24,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS costs every programmer should know (2019)](https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html) ([HN](https://news.ycombinator.com/item?id=20138409))
 - [AWS SDK for Go](https://github.com/aws/aws-sdk-go)
 - [awless](https://github.com/wallix/awless) - Mighty CLI for AWS.
+- [Easy Amazon EC2 Instance Comparison](https://ec2instances.info/)
