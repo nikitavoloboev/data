@@ -60,3 +60,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [David Stainton's reading lists](https://github.com/david415/reading_lists)
 - [Notion Community](https://www.notion.so/Notion-Community-04f306fbf59a413fae15f42e2a1ab029)
 - [Python wrapper for Wikipedia](https://github.com/martin-majlis/Wikipedia-API)
+- [Code samples from Eli Bendersky's blog](https://github.com/eliben/code-for-blog)
