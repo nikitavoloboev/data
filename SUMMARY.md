@@ -241,6 +241,7 @@
 - [Open Source](open-source/open-source.md)
   - [GitHub](open-source/github/github.md)
     - [GitHub actions](open-source/github/github-actions.md)
+    - [GitHub bots](open-source/github/github-bots.md)
   - [GSOC](open-source/gsoc.md)
 - [Languages](languages/languages.md)
   - [English](languages/english/english.md)
