@@ -32,3 +32,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Yggdrasil](https://yggdrasil-network.github.io/) - Early-stage implementation of a fully end-to-end encrypted IPv6 network.
 - [A free Argo Tunnel for your next project (2019)](https://blog.cloudflare.com/a-free-argo-tunnel-for-your-next-project/)
 - [HoneyBadger](https://github.com/david415/HoneyBadger) - Quantum Insert detector/recorder.
+- [SFTPGo](https://github.com/drakkan/sftpgo) - Full featured and highly configurable SFTP server software.
