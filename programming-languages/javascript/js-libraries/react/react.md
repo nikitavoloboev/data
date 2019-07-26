@@ -10,6 +10,7 @@
 - [A React component is simply a JavaScript function that takes an object of arbitrary inputs known as props and returns React elements describing what should be rendered on the UI.](https://blog.logrocket.com/a-complete-guide-to-default-props-in-react-984ea8e6972d)
 - Stateless components don't have `this`, just have props.
 - [Is Concurrent Mode just a workaround for “virtual DOM diffing” overhead? Some people got that impression. Let me clarify why we’re working on it.](https://mobile.twitter.com/dan_abramov/status/1120971795425832961)
+- [In order to write a very performant app there's only one golden rule: Make sure that your components are only re-rendered when necessary, and make sure that each render is fast](https://github.com/fabiospampinato/overstated#faq)
 
 ## Links
 
