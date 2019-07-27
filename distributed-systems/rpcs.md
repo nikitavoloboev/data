@@ -10,3 +10,4 @@
 - [gRPC Web](https://github.com/grpc/grpc-web) - JavaScript library that lets browser clients access a gRPC service.
 - [gRPC Web implementation for Golang and TypeScript](https://github.com/improbable-eng/grpc-web)
 - [tarpc](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
+- [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc#readme)

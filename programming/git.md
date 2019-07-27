@@ -49,3 +49,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Hercules](https://github.com/src-d/hercules) - Fast, insightful and highly customizable Git history analysis.
 - [Git Tower Guides](https://www.git-tower.com/learn/)
 - [git-stashout](https://github.com/aviaviavi/git-stashout) - Custom git checkout command to automatically manage a per-branch stash.
+- [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git.

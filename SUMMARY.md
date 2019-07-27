@@ -227,6 +227,7 @@
   - [Dart](programming-languages/dart/dart.md)
     - [Flutter](programming-languages/dart/flutter.md)
   - [R](programming-languages/r/r.md)
+    - [R packages](programming-languages/r/r-packages.md)
   - [Assembly](programming-languages/assembly.md)
   - [Nim](programming-languages/nim/nim.md)
   - [Dhall](programming-languages/dhall.md)
