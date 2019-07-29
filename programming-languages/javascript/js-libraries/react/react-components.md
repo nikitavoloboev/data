@@ -48,6 +48,7 @@
 - [react-hook-form](https://github.com/bluebill1049/react-hook-form) - React custom hook for form validation without the hassle.
 - [rest-hooks](https://github.com/coinbase/rest-hooks) - Delightful data fetching for React.
 - [Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React.
+- [react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text.
 
 ## Links
 

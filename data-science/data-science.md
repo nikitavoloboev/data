@@ -34,3 +34,4 @@
 - [Weld](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications.
 - [Vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second.
 - [Maarten Breddels & Jovan Veljanoski- A new approach to DataFrames and pipelines - PyData London 2019](https://www.youtube.com/watch?v=2Tt0i823-ec) ([GitHub](https://github.com/vaexio/vaex-talks/tree/master/2019-pydata-london))
+- [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
