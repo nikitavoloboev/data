@@ -20,3 +20,4 @@
 - [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python.
 - [From scratch" implementations of many C++17 standard library features](https://github.com/Quuxplusone/from-scratch)
 - [dbg-macro](https://github.com/sharkdp/dbg-macro) - Macro for printf-style debugging fans.
+- [C++ Crash Course](https://lospi.net/c/c++/programming/developing/software/2019/07/28/cpp-crash-course.html)

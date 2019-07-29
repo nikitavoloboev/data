@@ -166,6 +166,7 @@
 - [ObjectBox Go API](https://github.com/objectbox/objectbox-go) - Persisting your Go structs/objects superfast and simple.
 - [panicparse](https://github.com/maruel/panicparse) - Crash your app in style in Go.
 - [periph](https://github.com/google/periph) - Peripherals I/O in Go.
+- [draw2d](https://github.com/llgcode/draw2d) - 2D rendering for different output (raster, pdf, svg).
 
 ## Links
 
