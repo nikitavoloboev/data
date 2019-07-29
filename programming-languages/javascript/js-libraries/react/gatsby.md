@@ -4,7 +4,11 @@
 
 - [Juliette's personal website](https://github.com/juliettepretot/juliette.sh)
 - [Dan Abramov's blog](https://github.com/gaearon/overreacted.io)
-- [Digital Garden](https://github.com/johno/digital-garden) - content-first project meant to make it easier to write and curate content on the web.
+- [Digital Garden](https://github.com/johno/digital-garden) - Content-first project meant to make it easier to write and curate content on the web.
+
+## Themes
+
+- [Gatsby Theme Amsterdam](https://github.com/ryanwiemer/gatsby-theme-amsterdam)
 
 ## Plugins
 

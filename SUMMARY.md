@@ -264,6 +264,7 @@
     - [iPad](operating-systems/ios/ipad.md)
     - [WatchOS](operating-systems/ios/watchos.md)
     - [tvOS](operating-systems/ios/tvos.md)
+    - [CoreML](operating-systems/ios/coreml.md)
   - [Android](operating-systems/android.md)
   - [Containers](operating-systems/containers/containers.md)
     - [Kubernetes](operating-systems/containers/kubernetes.md)

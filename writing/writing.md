@@ -93,6 +93,7 @@ Once I wrote the article that I am quite happy with. I export the article straig
 
 - Most adverbs are superfluous. Most cases where you say "generally" or "usually" you're undermining your point and the use of "very", "extremely", etc. are hyperbolic and breathless and make it easier to regard what you're writing as unserious.
 - Examine every word: a surprising number don’t serve any purpose.
+- [One of the best things about starting your career at Amazon is grooming in some fantastic values in early years of life. One of those is writing pithy, powerful documents. ](https://twitter.com/nipunmehra/status/1154590521345490945)
 
 ## Links
 

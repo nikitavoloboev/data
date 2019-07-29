@@ -40,3 +40,4 @@
 - ["Transactions: myths, surprises and opportunities" by Martin Kleppmann (2015)](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 - [Thanos](https://github.com/improbable-eng/thanos) - Highly available Prometheus setup with long term storage capabilities.
 - [Using Apache Arrow, Calcite and Parquet to build a Relational Cache (2017)](https://www.youtube.com/watch?v=KMl9Py8o3pk)
+- [Apache Arrow](https://github.com/apache/arrow) - Development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast.

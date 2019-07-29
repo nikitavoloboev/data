@@ -11,3 +11,4 @@
 - [gRPC Web implementation for Golang and TypeScript](https://github.com/improbable-eng/grpc-web)
 - [tarpc](https://github.com/google/tarpc) - RPC framework for Rust with a focus on ease of use.
 - [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc#readme)
+- [Tower gRPC](https://github.com/tower-rs/tower-grpc) - gRPC client & server implementation.
