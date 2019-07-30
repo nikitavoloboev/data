@@ -19,6 +19,7 @@
 - [Scylla](https://www.scylladb.com/) - Drop-in Apache Cassandra alternative big data database that powers your applications with ultra-low latency and extremely high throughput, while reducing TCO to a fraction of most NoSQL databases. [OSS](https://github.com/scylladb/scylla).
 - [JanusGraph](https://github.com/JanusGraph/janusgraph) - Open-source, distributed graph database.
 - [LevelDB](https://github.com/google/leveldb) - Fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [DuckDB](https://github.com/cwida/duckdb) - Embeddable SQL OLAP Database Management System.
 
 ## Tools
 

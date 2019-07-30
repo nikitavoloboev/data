@@ -9,6 +9,7 @@ Below is a list of extensions I use.
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Convenient way of creating, duplicating, moving, renaming and deleting files and directories.
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
+- [Protobuf 3 support](https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3)
 
 ## Go
 
@@ -52,7 +53,6 @@ Below is a list of extensions I use.
 
 - [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - Synchronize all of your VSCode settings across multiple devices.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
-- [Protobuf 3 support](https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3)
 - [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative URL paths from files in the current workspace.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.
 - [REST Client Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - Allows you to send HTTP request and view the response in VS Code directly.
