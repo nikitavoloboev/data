@@ -11,3 +11,4 @@
 - [The IOHK Summit 2019 - Live Stream](https://www.youtube.com/watch?v=ZAJ5n_smUY4)
 - [New Shelley formal specifications complete (2019)](https://iohk.io/blog/new-shelley-formal-specifications-complete/)
 - [Cardano Roadmap](https://cardanoroadmap.com/)
+- [Plutus Platform](https://github.com/input-output-hk/plutus) - Plutus language implementation and tools.

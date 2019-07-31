@@ -22,13 +22,11 @@ I also love using [Alfred Maestro](https://github.com/iansinnott/alfred-maestro)
 
 I share all the macros I use as [macro sync](https://www.keyboardmaestro.com/documentation/6/macrosyncing.html) file [you can download](https://www.dropbox.com/s/mh62g5jrtu70161/Keyboard%20Maestro%20Macros.kmsync?dl=1).
 
-It includes over 1400 macros I use for various purposes to automate my workflow.
+It includes over 1400 macros I use for various purposes to automate my workflow. You can double click the downloaded macro sync file to upload all the 1400+ macros into KM. **Be aware that it will overwrite your existing macros so back those up beforehand!**
 
 ![](https://i.imgur.com/a3kUsxS.png)
 
 App specific macros are called with a hotkey bound to the app the macro is running in. And global macros are called with [Karabiner](../karabiner/karabiner.md) directly. Technically even app specific macros are called with Karabiner as my `control` key is `a` key and `command` key is my `e` key.
-
-You can double click the downloaded macro sync file to upload all the 1400+ macros into KM. Be aware that it will overwrite your existing macros so back those up beforehand!
 
 Which macros I call the most can be seen by looking at my [Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.edn).
 
