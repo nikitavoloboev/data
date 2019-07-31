@@ -9,3 +9,4 @@
 
 - [sup](https://github.com/kubukoz/sup) - Composable, purely functional healthchecks in Scala.
 - [Monocle](https://github.com/julien-truffaut/Monocle) - Optics library for Scala.
+- [Skunk](https://github.com/tpolecat/skunk) - Data access library for Scala + Postgres.

@@ -10,3 +10,4 @@
 - [Physarum polycephalum](https://sagejenson.com/physarum)
 - [A tangle of webs 3D](https://inconvergent.net/2019/a-tangle-of-webs-3d/)
 - [Depth of field](https://inconvergent.net/2019/depth-of-field/)
+- [Components AI](https://components.ai/) - Experimental platform for exploring generative design systems.

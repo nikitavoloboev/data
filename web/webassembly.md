@@ -34,3 +34,4 @@
 - [Lightbeam](https://github.com/CraneStation/lightbeam) - Optimising one-pass streaming compiler for WebAssembly, intended for use in Wasmtime.
 - [Pragmatic compiling of C++ to WebAssembly. A Guide. (2019)](https://medium.com/@tdeniffel/pragmatic-compiling-from-c-to-webassembly-a-guide-a496cc5954b8)
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - Your favorite rust -> wasm workflow tool.
+- [M3/Wasm](https://github.com/soundandform/m3) - High performance WebAssembly interpreter in C.
