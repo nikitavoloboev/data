@@ -22,3 +22,5 @@
 - [AWS IoT Things Graph (2019)](https://aws.amazon.com/blogs/aws/now-available-aws-iot-things-graph/)
 - [TDengine](https://github.com/taosdata/TDengine) - Open-source big data platform designed and optimized for the Internet of Things (IoT).
 - [WebThings Gateway](https://github.com/mozilla-iot/gateway) - Web of Things gateway.
+- [NATS](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
+- [Liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.

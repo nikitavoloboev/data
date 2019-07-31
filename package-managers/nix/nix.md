@@ -60,3 +60,4 @@
 - [Nixery](https://nixery.appspot.com/) - Provides the ability to pull ad-hoc container images from a Docker-compatible registry server.
 - [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix.
 - [Make Nix precisely emulate gitignore](https://github.com/hercules-ci/gitignore)
+- [Nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager.

@@ -33,3 +33,4 @@ And I really like [NixOS](linux/nixos.md) and it's [nix package manager](../pack
 - [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch. A book for self-learner.
 - [Introducing Mercury OS (2019)](https://medium.com/@jasonyuan/introducing-mercury-os-f4de45a04289)
 - [Nanos](https://github.com/nanovms/nanos) - New kernel designed to run one and only one application in a virtualized environment.
+- [BootOS](https://github.com/nanochess/bootOS) - Monolithic operating system in 512 bytes of x86 machine code. ([HN](https://news.ycombinator.com/item?id=20569438))

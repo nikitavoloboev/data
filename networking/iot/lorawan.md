@@ -32,3 +32,5 @@
 - [LoRaWAN and the Ocean Cleanup - Jasper den Hartog (MCS) (2019)](https://www.youtube.com/watch?v=E5huiCbVR5A)
 - [Lacuna Space](http://lacuna.space/) - Low-cost, simple and reliable global connections to sensors and mobile equipment.
 - [Can someone give me the rundown on LoRa? (2019)](https://www.reddit.com/r/IOT/comments/bzd2q0/can_someone_give_me_the_rundown_on_lora/)
+- [LoRaWAN Primer](https://docs.exploratory.engineering/lora/lorawan/)
+- [LoRaWAN® distance world record broken, twice. 766 km (476 miles) using 25mW transmission power (2019)](https://www.thethingsnetwork.org/article/lorawan-distance-world-record) ([HN](https://news.ycombinator.com/item?id=20562684))
