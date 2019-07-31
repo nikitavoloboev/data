@@ -51,3 +51,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-stashout](https://github.com/aviaviavi/git-stashout) - Custom git checkout command to automatically manage a per-branch stash.
 - [git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git.
 - [Git Standards (2018)](https://blog.carlmjohnson.net/post/2018/git-gud/)
+- [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.

@@ -47,3 +47,4 @@
 - [SourceKit-LSP](https://github.com/apple/sourcekit-lsp#readme) - Language Server Protocol implementation for Swift and C-based languages.
 - [Retro Rampage](https://github.com/nicklockwood/RetroRampage) - Tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift.
 - [llbuild](https://github.com/apple/swift-llbuild) - Low-level build system, used by Xcode and the Swift Package Manager.
+- [Accio](https://github.com/JamitLabs/Accio) - Dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
