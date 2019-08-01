@@ -44,3 +44,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Scilla](https://github.com/Zilliqa/scilla) - Smart Contract Intermediate Level Language.
 - [HotStuff: BFT Consensus in the Lens of Blockchain (2018)](https://arxiv.org/abs/1803.05069)
 - [Full Node](https://github.com/input-output-hk/jormungandr) - Aspiring blockchain node.
+- [Concordium](https://www.concordium.com/) - Improved smart contract platform and ecosystem for real-world businesses.

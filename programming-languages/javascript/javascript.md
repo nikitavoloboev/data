@@ -72,3 +72,4 @@
 - [The cost of JavaScript in 2019](https://news.ycombinator.com/item?id=20317736) ([HN](https://news.ycombinator.com/item?id=20317736))
 - [Poi](https://github.com/egoist/poi) - Zero-config bundler for JavaScript applications.
 - [Advanced JavaScript Course](https://tylermcginnis.com/courses/advanced-javascript)
+- [Jay](https://github.com/nikersify/jay) - Supercharged JavaScript REPL.
