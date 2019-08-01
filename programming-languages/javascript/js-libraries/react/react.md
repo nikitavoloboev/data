@@ -72,3 +72,4 @@
 - [Easy peasy state for React](https://github.com/ctrlplusb/easy-peasy)
 - [SMOOSHCAST: React Fiber Deep Dive with Dan Abramov (2019)](https://www.youtube.com/watch?v=aS41Y_eyNrU)
 - [Fresh Concurrent React](https://github.com/sw-yx/fresh-concurrent-react) - Fresh links about the coming concurrent react revolution.
+- [Fusion.js](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps.

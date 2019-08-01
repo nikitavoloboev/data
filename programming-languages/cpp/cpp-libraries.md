@@ -22,3 +22,4 @@
 - [jet-live](https://github.com/ddovod/jet-live) - C++ hot code reload for linux and macos.
 - [cpr](https://github.com/whoshuu/cpr) - Simple wrapper around libcurl inspired by the excellent Python Requests projec.
 - [argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++.
+- [lager](https://sinusoid.es/lager/) - C++ library to assist value-oriented design by implementing the unidirectional data-flow architecture.
