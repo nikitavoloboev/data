@@ -79,6 +79,7 @@
 - [So much of what is written about growth is noise. Here are ten of the concepts I find myself coming back to over and over again (2019)](https://twitter.com/danhockenmaier/status/1145416117667500032)
 - [Netlify's culture & values](https://github.com/netlify/culture-handbook)
 - [Atrium](https://www.atrium.co/) - Better law firm for startups.
+- ["Facilitating Technology Change Through Cultural Change" by Grant Maki (2018)](https://www.youtube.com/watch?v=5WVXCy1Q88o)
 
 ## Images
 

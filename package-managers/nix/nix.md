@@ -61,3 +61,4 @@
 - [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix.
 - [Make Nix precisely emulate gitignore](https://github.com/hercules-ci/gitignore)
 - [Nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager.
+- [Nix - A One Pager](https://github.com/tazjin/nix-1p#readme) - A (more or less) one page introduction to Nix, the language.

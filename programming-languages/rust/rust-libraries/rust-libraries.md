@@ -111,6 +111,7 @@
 - [nannou](https://github.com/nannou-org/nannou) - Creative Coding Framework for Rust.
 - [Bastion](https://github.com/vertexclique/bastion) - Fault-tolerant Runtime for Rust applications.
 - [Criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust.
+- [Cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command-line wrapper for using libFuzzer. Easy to use, no need to recompile LLVM.
 
 ## Cargo Plugins
 

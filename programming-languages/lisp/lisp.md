@@ -22,3 +22,4 @@
 - [Land of Lisp](http://landoflisp.com/) ([HN](https://news.ycombinator.com/item?id=19677292))
 - [Anarki](https://github.com/arclanguage/anarki) - Community-managed fork of the Arc dialect of Lisp.
 - [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
+- [Lisp Machine Manual](https://hanshuebner.github.io/lmman/frontpage.html)

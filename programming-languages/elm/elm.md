@@ -12,3 +12,4 @@
 - [elm-in-elm](https://github.com/elm-in-elm/compiler) - Elm compiler written in Elm.
 - [Single Page Application written in Elm](https://github.com/rtfeldman/elm-spa-example)
 - [Elm Puzzler](https://github.com/jwbrew/elm-puzzler) - Framework for creating puzzles & solutions written in Elm, to help newcomers learn the language and then move on to building their own puzzles.
+- [Awesome Elm](https://github.com/sporto/awesome-elm#readme)

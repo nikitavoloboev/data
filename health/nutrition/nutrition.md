@@ -42,3 +42,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. And 
 - [I am conflicted on who is correct regarding a healthy diet. Need help (2019)](https://www.reddit.com/r/PlantBasedDiet/comments/ahyhaf/i_am_conflicted_on_who_is_correct_regarding_a/)
 - [Dr. Rhonda Patrick - Why Eating Fish, But Not Omega-3 Supplements, Can Help Prevent Alzheimer’s (2018)](https://overcast.fm/+GMuFZBqY0)
 - [Blueberries for a Diabetic Diet and DNA Repair (2019)](https://www.youtube.com/watch?v=CDNyZeD87oc)
+- [Best foods to encourage healthy/good gut bacteria? (2019)](https://www.reddit.com/r/Nootropics/comments/chouz4/best_foods_to_encourage_healthygood_gut_bacteria/)
