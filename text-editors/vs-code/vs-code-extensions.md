@@ -19,7 +19,6 @@ Below is a list of extensions I use.
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code.
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
-- [Glean](https://github.com/wix/vscode-glean) - Extension provides refactoring tools for your React codebase.
 
 ## Python
 
@@ -112,6 +111,10 @@ Below is a list of extensions I use.
 - [Yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn) - Manage yarn commands.
 - [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live Scratchpad for JavaScript.
 - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Autocomplete npm modules in import statements.
+
+## React
+
+- [Glean](https://github.com/wix/vscode-glean) - Extension provides refactoring tools for your React codebase.
 
 ## Java
 
