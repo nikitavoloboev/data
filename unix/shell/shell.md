@@ -31,3 +31,4 @@ All active variables can be seen by running `env`.
 - [direnv](https://direnv.net/) - Unclutter your .profile.
 - [mask](https://github.com/jakedeichert/mask) - CLI task runner defined by a simple markdown file.
 - [Purs](https://github.com/xcambar/purs) - Pure-inspired prompt in Rust.
+- [Sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.

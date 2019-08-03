@@ -1,24 +1,22 @@
 # Finance
 
-For my own personal finance, I budget all my money with my online bank app, [N26](https://n26.com/en-eu/) and its [spaces feature](https://n26.com/en-eu/spaces).
+For my own personal finance, I budget all my money with my online bank app, [Monzo](https://monzo.com) and its Pots feature.
 
-On my [scheduled monthly reviews](../focusing/focusing.md) (first Sunday of every month), I budget out the money I plan myself to spend the following month into a `Month` space. The remaining money goes into `Save` space or my optional planned big purchase space (i.e. Leica Q2). Here is how it looks:
+I have a `Save` pot that has a goal of 3000 pounds. The 3000 pound is the minimum amount I need to hold in order to be safe from any emergency spending.
 
-![](https://i.imgur.com/sW6BkId.jpg)
+![](https://i.imgur.com/Alqu6xx.jpg)
 
-I use [YNAB methodology](https://www.youneedabudget.com/method/) to proactively budget my finances.
+I use [YNAB methodology](https://www.youneedabudget.com/method/) to proactively budget my finances. Monzo provides nice tools to budget money I want to spend by category.
 
-This methodology for managing money is extremely effective as it allows me to be more proactive with budgeting and spending. It lets me know how much money I have and how much money I can spend on any given category.
+Each transaction made with Monzo is automatically sorted into a category by the app. If that category is wrong, I correct it in the app.
 
-Each transaction made with N26 is automatically sorted into a category by the app. If that category is wrong, I correct it in N26 app. On first Sunday of each month, I review all the purchases made, the money I have and my goals and based on that, set out the budget for following month. In my case that means moving the money I plan to spend this month into `Month` space with remaining money going into `Save` or some big purchase goal I have (with it being its own space).
-
-This approach to finance makes me stop and review any non food related purchase I make in life and judge it accordingly before going through with it.
+I also use [N26](https://n26.com/en-gb/) bank as well as Monzo doesn't have Maestro cards.
 
 ## Ongoing subscriptions
 
 I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews and make sure I don't subscribe to any subscriptions that I find bring no value to my life or subscriptions that my budget doesn't allow to continue.
 
-![](https://i.imgur.com/N73Dx3S.jpg)
+![](https://i.imgur.com/7fGL1T5.jpg)
 
 ## Tracking what to buy next
 
