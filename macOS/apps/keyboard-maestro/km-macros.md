@@ -20,9 +20,9 @@ I also love using [Alfred Maestro](https://github.com/iansinnott/alfred-maestro)
 
 ## Install all the macros I use
 
-I share all the macros I use as [macro sync](https://www.keyboardmaestro.com/documentation/6/macrosyncing.html) file [you can download](https://www.dropbox.com/s/mh62g5jrtu70161/Keyboard%20Maestro%20Macros.kmsync?dl=1).
+I share all the macros I use as a file [you can download](https://www.dropbox.com/s/9dejycokrw55q8x/Global%20Macro%20Group%20and%20Other%20Macros.kmmacros?dl=1).
 
-It includes over 1400 macros I use for various purposes to automate my workflow. You can double click the downloaded macro sync file to upload all the 1400+ macros into KM. **Be aware that it will overwrite your existing macros so back those up beforehand!**
+It includes over 1400 macros I use for various purposes to automate my workflow. You can double click the downloaded macro file to upload all the 1400+ macros into KM.
 
 ![](https://i.imgur.com/a3kUsxS.png)
 
