@@ -39,3 +39,4 @@
 - [Geoffrey Hinton explains the evolution of neural networks (2019)](https://www.wired.com/story/ai-pioneer-explains-evolution-neural-networks/)
 - [Evolved Turing neural networks](http://compucology.net/evolved)
 - [Intelligent Machinery paper by Alan Turing](https://weightagnostic.github.io/papers/turing1948.pdf)
+- [SRU](https://github.com/taolei87/sru) - Training RNNs as Fast as CNNs.
