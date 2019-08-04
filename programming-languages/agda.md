@@ -20,3 +20,4 @@
 - [Agda from Nothing](https://github.com/scott-fleischman/agda-from-nothing) - Workshop on learning Agda with minimal prerequisites.
 - [Various new theorems in constructive univalent mathematics written in Agda](https://github.com/martinescardo/TypeTopology)
 - [gen-cart](https://github.com/mortberg/gen-cart) - Unifying Cartesian Cubical Set Model.
+- [Generic](https://github.com/effectfully/Generic) - Library for doing generic programming in Agda.

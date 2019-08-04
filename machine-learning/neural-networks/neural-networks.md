@@ -40,3 +40,4 @@
 - [Evolved Turing neural networks](http://compucology.net/evolved)
 - [Intelligent Machinery paper by Alan Turing](https://weightagnostic.github.io/papers/turing1948.pdf)
 - [SRU](https://github.com/taolei87/sru) - Training RNNs as Fast as CNNs.
+- [ODIN](https://github.com/facebookresearch/odin) - Out-of-Distribution Detector for Neural Networks.
