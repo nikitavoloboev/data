@@ -33,3 +33,4 @@
 - [Syntorial](https://www.syntorial.com/) - Video game-like training software, that will teach you how to program synth patches by ear.
 - [Ear Training Practice](https://tonedear.com/)
 - [Ask HN: Recommendations for AI generated music software? (2019)](https://news.ycombinator.com/item?id=20514446)
+- [Alda](https://github.com/alda-lang/alda) - Music programming language for musicians.

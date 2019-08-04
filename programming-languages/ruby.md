@@ -7,3 +7,4 @@
 - [Using Ruby in 2019](https://jasoncharnes.com/using-ruby-in-2019/)
 - [Sorbet](https://sorbet.org/) - Fast, powerful type checker designed for Ruby. ([OSS](https://github.com/sorbet/sorbet))
 - [Referral](https://github.com/testdouble/referral) - Scan for definitions and references in your Ruby code.
+- [Artichoke](https://github.com/artichoke/artichoke) - Ruby made with Rust.

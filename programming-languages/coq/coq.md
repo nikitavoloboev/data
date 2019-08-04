@@ -17,3 +17,4 @@
 - [My hobby: proof engineering (2017)](https://www.stephanboyer.com/post/134/my-hobby-proof-engineering)
 - [Programs and Proofs](https://github.com/ilyasergey/pnp) - Lecture notes for a short course on proving/programming in Coq via SSReflect.
 - [CoqGym](https://github.com/princeton-vl/CoqGym) - Learning Environment for Theorem Proving with the Coq proof assistant.
+- [Kami](https://github.com/sifive/Kami) - DSL for designing Hardware in Coq, and the associated semantics and theorems for proving its correctness.

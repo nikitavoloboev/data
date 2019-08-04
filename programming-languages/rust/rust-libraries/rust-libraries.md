@@ -117,6 +117,7 @@
 ## Cargo Plugins
 
 - [cargo-instruments](https://github.com/cmyr/cargo-instruments) - Cargo plugin to generate Xcode Instruments trace files.
+- [cargo-c](https://github.com/lu-zero/cargo-c) - Cargo C-ABI helpers.
 
 ## Links
 
