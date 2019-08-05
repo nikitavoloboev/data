@@ -20,7 +20,7 @@
 - [Jon Gjengset YouTube channel](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ) - Does many awesome Rust streams.
 - [The What and How of Futures and async/await in Rust](https://www.youtube.com/watch?v=9_3krAQtD2k)
 - [Introducing Rust crash course (2018)](https://www.snoyman.com/blog/2018/10/introducing-rust-crash-course)
-- [Rust Language Cheat Sheet](https://cheats.rs/)
+- [Rust Language Cheat Sheet](https://cheats.rs/) ([HN](https://news.ycombinator.com/item?id=20611390))
 - [Rerast](https://github.com/google/rerast) - Tool for transforming Rust code using rules.
 - [Rust Runtime for AWS Lambda](https://github.com/awslabs/aws-lambda-rust-runtime) - Makes it easy to run AWS Lambda Functions written in Rust.
 - [cargo-inspect](https://github.com/mre/cargo-inspect/) - What is Rust doing behind the scenes?

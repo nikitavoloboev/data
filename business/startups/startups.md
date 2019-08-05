@@ -80,6 +80,7 @@
 - [Netlify's culture & values](https://github.com/netlify/culture-handbook)
 - [Atrium](https://www.atrium.co/) - Better law firm for startups.
 - ["Facilitating Technology Change Through Cultural Change" by Grant Maki (2018)](https://www.youtube.com/watch?v=5WVXCy1Q88o)
+- [Kevin Systrom — Tactics, Books, and the Path to a Billion Users (2019)](https://www.youtube.com/watch?v=5x912QLs5uY)
 
 ## Images
 

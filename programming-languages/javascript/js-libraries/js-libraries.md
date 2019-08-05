@@ -94,3 +94,4 @@
 - [WikiJs](https://github.com/dijs/wiki) - Wikipedia Interface for Node.js.
 - [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
 - [deep-object-diff](https://github.com/mattphillips/deep-object-diff) - Deep diffs two objects, including nested structures of arrays and objects, and returns the difference.
+- [Snarkdown](https://github.com/developit/snarkdown) - Snarky 1kb Markdown parser written in JavaScript.

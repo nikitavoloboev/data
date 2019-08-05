@@ -104,3 +104,4 @@ Go promotes composition over inheritance.
 - [Yaegi](https://github.com/containous/yaegi) - Another Elegant Go Interpreter.
 - [Delve](https://github.com/go-delve/delve) - Debugger for the Go programming language.
 - [Experiment, Simplify, Ship (2019)](https://blog.golang.org/experiment)
+- [Go programming language secure coding practices guide](https://github.com/OWASP/Go-SCP)
