@@ -12,6 +12,7 @@
 ## UI
 
 - [GuiLite](https://github.com/idea4good/GuiLite) - Smallest UI framework for all platform -- 5K lines code.
+- [Yue](https://github.com/yue/yue) - Library for creating native cross-platform GUI apps.
 
 ## Other
 
