@@ -40,6 +40,7 @@
 
 - [db](https://github.com/upper/db) - Productive data access layer for Go.
 - [Gorm](https://github.com/jinzhu/gorm) - Fantastic ORM library for Golang, aims to be developer friendly.
+- [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance.
 
 ## Database
 

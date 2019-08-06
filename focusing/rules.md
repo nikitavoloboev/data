@@ -61,7 +61,7 @@ Some simple rules to follow when doing things.
 - Track all time in [Timing](../macOS/apps/timing.md). Reflect on it at the end of the week.
 - Wear comfortable clothes.
 - Use standing desk when working where possible. Never sit for too long.
-- When sitting, sit up right always. Never slouch. Keep shoulders at good width.
+- When sitting, sit up right always. Never slouch. Keep shoulders at good width. Be comfortable.
 
 ## Learn
 

@@ -10,7 +10,6 @@ These are my personal profiles on various websites sorted by categories.
 - [NPM](https://www.npmjs.com/~nikitavoloboev) - All the node modules I released.
 - [CodePen](https://codepen.io/nikitavoloboev/) - Hope to use it more often to experiment with web things.
 - [LeetCode](https://leetcode.com/nikivi) - Preparing for technical interviews.
-- [FreeCodeCamp](https://www.freecodecamp.com/nikitavoloboev) - Haven't completed it fully.
 - [Codementor](https://www.codementor.io/nikitavoloboev) - Never used it.
 - [Asciinema](https://asciinema.org/~nikivi) - Sharing terminal sessions for showcasing CLI tools and other things.
 - [WakaTime](https://wakatime.com/@nikitavoloboev) - Tracking the time I spend coding.
@@ -86,7 +85,6 @@ These are my personal profiles on various websites sorted by categories.
 ## Gaming
 
 - [Steam](https://steamcommunity.com/id/nikivi) - All the games I played on Steam.
-- [PSN](https://my.playstation.com/profile/niikivi)
 
 ## Support
 
@@ -97,14 +95,12 @@ These are my personal profiles on various websites sorted by categories.
 
 - [Keybase](https://keybase.io/nikitavoloboev) - Holds my public PGP key. I also prove my identity on various websites there.
 - [Etsy](https://www.etsy.com/people/nikitavoloboev) - If I ever make something with my hands, I will probably share it there.
-- [Leanpub](https://leanpub.com/u/nikitavoloboev) - Will publish my books there. Once I write them.
-- [Angel List](https://angel.co/nikitavoloboev) - Sometimes use it to find interesting startups to apply to.
+- [AngelList](https://angel.co/nikitavoloboev) - Sometimes use it to find interesting startups to apply to.
 - [Home](https://nikitavoloboev.xyz) - My personal home page on the internet.
 - [Vimeo](https://vimeo.com/user18010447)
 - [Kickstarter](https://www.kickstarter.com/profile/2082672852)
 - [Airbnb](https://www.airbnb.com/users/show/48269245)
 - [DevianArt](https://nikivi.deviantart.com/)
-- [Eventbrite](https://www.eventbrite.com/u/146147331884/#) - Various events I have attended or planning to attend.
 - [Stack Overflow CV](https://stackoverflow.com/cv/nikitavoloboev) - Not using it. Using LinkedIn.
 - [Gfycat](https://gfycat.com/@nikivi) - Sharing GIFs.
 - [TED](https://www.ted.com/profiles/10360419)
