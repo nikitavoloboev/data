@@ -21,6 +21,7 @@
 - [LevelDB](https://github.com/google/leveldb) - Fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [DuckDB](https://github.com/cwida/duckdb) - Embeddable SQL OLAP Database Management System.
 - [sled](https://github.com/spacejam/sled) - Modern embedded database.
+- [Genji](https://github.com/asdine/genji) - Multi engine embedded database.
 
 ## Tools
 
