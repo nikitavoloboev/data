@@ -91,6 +91,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Stripe CLI](https://github.com/stripe/stripe-cli) - Command-line tool for Stripe.
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
+- [silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 
 ## Notes
 

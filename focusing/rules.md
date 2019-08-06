@@ -23,7 +23,7 @@ Some simple rules to follow when doing things.
 
 - [Exercise](../fitness/fitness.md). 50+ min cardio (walking/running/cycling) & 15 min bodyweight exercises or yoga daily.
 - Eat a [whole food, plant based diet](../health/nutrition/nutrition.md).
-- Drink lots of water & tea. Limit coffee consumption. No added sugar in drinks/food.
+- Drink lots of water & tea. Limit coffee consumption (every other day minimum). No added sugar in drinks/food.
 - [Sleep](../sleep/sleep.md) at least 8 hours every day. Wake up & go to sleep at same time.
 - Always have good posture. Sit properly and upright, don't bend my back/spine.
 - Take [essentials daily supplements](../health/nutrition/supplements.md).

@@ -6,6 +6,10 @@ Emacs is an interesting editor that I haven't checked out still.
 
 Might give it a go sometime.
 
+## Interesting configs
+
+- [Radian](https://github.com/raxod502/radian) - Dotfiles that marry elegance and practicality.
+
 ## Links
 
 - [Introduction to EShell](https://www.youtube.com/watch?v=RhYNu6i_uY4)

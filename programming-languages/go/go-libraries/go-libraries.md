@@ -78,10 +78,9 @@
 - [Argum](https://github.com/sg3des/argum) - Parse incoming arguments in to structure.
 - [Go prompt](https://github.com/c-bata/go-prompt)
 - [The Joy compiler](https://mat.tm/joy/#faq)
-- [Graphql](https://github.com/machinebox/graphql)
+- [Graphql](https://github.com/machinebox/graphql) - Simple low-level GraphQL HTTP client.
 - [ws](https://github.com/gobwas/ws) - WebSocket implementation in Go.
-- [GraphQL](https://github.com/graphql-go/graphql) - Implementation of GraphQL.
-- [GraphQL](https://github.com/machinebox/graphql) - Simple low-level GraphQL HTTP client.
+- [GraphQL Go](https://github.com/graphql-go/graphql) - Implementation of GraphQL.
 - [Mock](https://github.com/golang/mock) - Mocking framework.
 - [jstream](https://github.com/bcicen/jstream) - Streaming JSON parser.
 - [cmux](https://github.com/soheilhy/cmux) - Connection multiplexer for GoLang: serve different services on the same port.
