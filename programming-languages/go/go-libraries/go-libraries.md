@@ -168,6 +168,7 @@
 - [periph](https://github.com/google/periph) - Peripherals I/O in Go.
 - [draw2d](https://github.com/llgcode/draw2d) - 2D rendering for different output (raster, pdf, svg).
 - [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files.
+- [sqlc](https://github.com/relops/sqlc) - Composable, type safe and fluent API to generate nested and complex SQL queries.
 
 ## Links
 

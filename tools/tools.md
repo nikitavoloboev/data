@@ -92,6 +92,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications.
 - [silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
+- [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 
 ## Notes
 
