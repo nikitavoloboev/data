@@ -5,6 +5,7 @@
 - [Juliette's personal website](https://github.com/juliettepretot/juliette.sh)
 - [Dan Abramov's blog](https://github.com/gaearon/overreacted.io)
 - [Digital Garden](https://github.com/johno/digital-garden) - Content-first project meant to make it easier to write and curate content on the web.
+- [kvlly](https://github.com/kellyvaughn/kvlly) - Personal site built with Gatsby and deployed on Netlify.
 
 ## Themes
 

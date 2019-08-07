@@ -196,6 +196,10 @@ Below is a list of extensions I use.
 
 - [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - Provide all-in-one features and utilities for LaTeX typesetting.
 
+## Lean
+
+- [Lean for VS Code](https://github.com/leanprover/vscode-lean) - Adds support for Lean.
+
 ## Coq
 
 - [Coq Support](https://github.com/microsoft/vscode-vsce)
