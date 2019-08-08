@@ -2,8 +2,9 @@
 
 ## Interesting values/principles
 
-- [Write.as](https://write.as/principles)
+- [Write.as principles](https://write.as/principles)
 - [Amazon's Leadership Principles](https://www.amazon.jobs/en/principles)
+- [Glitch Company values](https://handbook.glitch.me/#values)
 
 ## Team values
 

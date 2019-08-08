@@ -170,7 +170,7 @@ Below is a list of extensions I use.
 
 ## Elm
 
-- [Elm](https://github.com/Krzysztof-Cieslak/vscode-elm) - Elm Language Support.
+- [Elm](https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode) - Improving your Elm experience since 2019.
 
 ## Nix
 

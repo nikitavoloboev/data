@@ -22,6 +22,7 @@
 - [DuckDB](https://github.com/cwida/duckdb) - Embeddable SQL OLAP Database Management System.
 - [sled](https://github.com/spacejam/sled) - Modern embedded database.
 - [Genji](https://github.com/asdine/genji) - Multi engine embedded database.
+- [Atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.
 
 ## Tools
 
