@@ -105,3 +105,4 @@
 - [ML and DS Applications in Industry](https://github.com/firmai/industry-machine-learning#readme) - Curated list of applied machine learning and data science notebooks and libraries across different industries.
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning#readme)
 - [Awesome Gradient Boosting Research Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers#readme)
+- [HoloClean](https://github.com/HoloClean/holoclean) - Machine Learning System for Data Enrichment.

@@ -25,6 +25,7 @@
 - [gfx](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API.
 - [cgmath-rs](https://github.com/rustgd/cgmath) - Linear algebra and mathematics library for computer graphics.
 - [aljabar](https://github.com/maplant/aljabar) - Extremely generic linear algebra libary for Rust.
+- [raqote](https://github.com/jrmuizel/raqote) - Pure Rust 2D Graphics Library.
 
 ## IO
 

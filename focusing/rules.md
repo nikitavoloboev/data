@@ -266,14 +266,6 @@ Some simple rules to follow when doing things.
 - Name all modifier triggers (uppercased).
 - Color Alfred objects that have errors in them and need to be fixed in red color. Acts as a `TODO`.
 
-## MindNode
-
-- Use one tree structure for organization especially when sharing maps (makes the map much easier to follow).
-
-## Ulysses
-
-- If I publish the article, private note or anything that is not worth keeping. Delete it from Ulysses. Only keep `in progress` things in the library.
-
 ## Interviews
 
 - When preparing for interviews, code up solutions myself instead of looking at solutions. Be able to express solution in my own words.
