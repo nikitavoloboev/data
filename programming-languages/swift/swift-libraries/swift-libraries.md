@@ -99,3 +99,4 @@
 - [Prelude](https://github.com/robrix/Prelude) - Swift µframework of simple functional programming tools.
 - [Swift Protobuf](https://github.com/apple/swift-protobuf) - Plugin and runtime library for using protobuf with Swift.
 - [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - Micro-framework for observing file changes, both local and remote. Helpful in building developer tools.
+- [SkeletonView](https://github.com/Juanpe/SkeletonView) - Elegant way to show users that something is happening and also prepare them to which contents he is waiting.
