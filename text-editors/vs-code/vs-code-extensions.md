@@ -151,6 +151,7 @@ Below is a list of extensions I use.
 
 - [Haskell Language Server Client](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - Client interface to the Language Server Protocol server for Haskell, as provided by the Haskell IDE Engine.
 - [Haskell Language](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) - Adds highlighting support for Haskell.
+- [Simple Haskell support using only GHCi](https://github.com/dramforever/vscode-ghc-simple)
 
 ## Clojure
 

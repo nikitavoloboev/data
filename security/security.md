@@ -14,3 +14,5 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [RAMBleed](https://rambleed.com/) - Reading Bits in Memory Without Accessing Them.
 - [Sliver](https://github.com/BishopFox/sliver) - General purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS.
 - [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference#readme) - Information Security Reference That Doesn't Suck.
+- [Messaging Layer Security (MLS)](https://messaginglayersecurity.rocks/) - Security layer for encrypting messages in groups of size two to many.
+- [Molasses](https://github.com/trailofbits/molasses) - Rust implementation of the Message Layer Security group messaging protocol.

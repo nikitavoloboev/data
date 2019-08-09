@@ -13,6 +13,7 @@
 - [Docli](https://github.com/celicoo/docli) - Declarative language for describing command-line interfaces.
 - [uilive](https://github.com/gosuri/uilive) - Go library for updating terminal output in realtime.
 - [gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
+- [go-arg](https://github.com/alexflint/go-arg) - Structured argument parsing for Go.
 
 ## Web
 

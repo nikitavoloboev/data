@@ -10,7 +10,7 @@ I use [YNAB methodology](https://www.youneedabudget.com/method/) to proactively 
 
 Each transaction made with Monzo is automatically sorted into a category by the app. If that category is wrong, I correct it in the app.
 
-I also use [N26](https://n26.com/en-gb/) bank as well as Monzo doesn't have Maestro cards.
+I also use [N26](https://n26.com/en-gb/) bank in cases where I need Maestro card as Monzo only has MasterCard.
 
 ## Ongoing subscriptions
 

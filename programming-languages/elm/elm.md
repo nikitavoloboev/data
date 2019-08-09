@@ -13,3 +13,4 @@
 - [Single Page Application written in Elm](https://github.com/rtfeldman/elm-spa-example)
 - [Elm Puzzler](https://github.com/jwbrew/elm-puzzler) - Framework for creating puzzles & solutions written in Elm, to help newcomers learn the language and then move on to building their own puzzles.
 - [Awesome Elm](https://github.com/sporto/awesome-elm#readme)
+- [elm-format](https://github.com/avh4/elm-format) - Formats Elm source code according to a standard set of rules based on the official Elm Style Guide.
