@@ -171,6 +171,7 @@
 - [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files.
 - [sqlc](https://github.com/relops/sqlc) - Composable, type safe and fluent API to generate nested and complex SQL queries.
 - [cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API.
+- [quicktest](https://github.com/frankban/quicktest) - Collection of Go helpers for writing tests.
 
 ## Links
 

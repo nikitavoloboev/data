@@ -19,3 +19,7 @@ Some mockups for next version of Learn Anything.
 ![](https://cdn.discordapp.com/attachments/428579844046192643/493481463686365194/03-topic-learn-plans-1.png)
 
 If you want to help out, we have a [Discord server](https://discord.gg/KKYdWjt). ❤️
+
+## Links
+
+- [Old LA Whitepaper translated to Chinese](https://zhuanlan.zhihu.com/p/31906443)
