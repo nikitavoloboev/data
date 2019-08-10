@@ -26,3 +26,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Great Reddit thread about benefits of going vegan](https://www.reddit.com/r/PlantBasedDiet/comments/9xwyls/posted_this_in_rvegan_and_they_sent_me_here/)
 - [HN: Animals are no less emotional than we are (2019)](https://news.ycombinator.com/item?id=19342135)
 - [Is Meat Bad for You? Is Meat Unhealthy? (2019)](https://www.youtube.com/watch?v=ouAccsTzlGU)
+- [Eat less meat: UN climate change report calls for change to human diet (2019)](https://www.nature.com/articles/d41586-019-02409-7) ([HN](https://news.ycombinator.com/item?id=20652145))

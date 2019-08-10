@@ -69,3 +69,5 @@
 - [Functional Programming Jargon in Rust](https://github.com/JasonShin/functional-programming-jargon.rs#readme)
 - [MIRAI](https://github.com/facebookexperimental/MIRAI) - Rust mid-level IR Abstract Interpreter.
 - [Are we async yet?](https://areweasyncyet.rs/)
+- [A static web app in Rust (2018)](https://bluejekyll.github.io/blog/rust/2018/07/22/static-web-app-rust.html)
+- [Rust from a Java dev (2015)](https://bluejekyll.github.io/blog/java/rust/2015/05/14/rust-from-a-java-dev.html)
