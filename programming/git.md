@@ -54,3 +54,4 @@ I love Git and version control. And I use version control over any project I do.
 - [BFG Repo-Cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster.
 - [gitstatus](https://github.com/romkatv/gitstatus) - 10x faster implementation of `git status` command.
 - [git-revise](https://github.com/mystor/git-revise) - Handy tool for doing efficient in-memory commit rebases & fixups.
+- [git-secret](https://github.com/sobolevn/git-secret) - Bash-tool to store your private data inside a git repository.

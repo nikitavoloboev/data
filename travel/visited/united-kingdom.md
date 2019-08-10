@@ -1,5 +1,10 @@
 # United Kingdom
 
+## London
+
+- [Psychedelic Society London coworking space](https://psychedelicsociety.org.uk/coworking)
+- [Skills Matter Meetups](https://skillsmatter.com/meetups)
+
 ## Notes
 
 - They have amazing ciders. Rekorderlig & Old Moud Cider being my favorite ones.
@@ -8,4 +13,3 @@
 ## Links
 
 - [gov.uk](https://www.gov.uk/) - Best place to find government services and information.
-- [Psychedelic Society London coworking space](https://psychedelicsociety.org.uk/coworking)
