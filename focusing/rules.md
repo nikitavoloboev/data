@@ -168,6 +168,7 @@ Some simple rules to follow when doing things.
 - Add appropriate topics to each repo. Add the languages used in the repo as topics.
 - Use relative links instead of hard wired links. For example in GitHub you can use `../issues/` to reference issues of current repo from readme.
 - Decouple the issue/pr in the GitHub issue/PR itself. Using Bee app. Update it as I am working.
+- Only append `#readme` to repos that are curated lists with simple README.
 
 ## GitHub Gists
 
