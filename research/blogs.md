@@ -33,6 +33,7 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [Jess Frazelle](https://blog.jessfraz.com)
 - [Dhruv Parthasarathy](https://www.dhruvonmath.com/)
 - [Maciej Cegłowski](https://idlewords.com/)
+- [Brent Jackson](https://jxnblk.com/blog)
 
 ## Links
 

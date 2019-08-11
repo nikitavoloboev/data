@@ -66,3 +66,4 @@
 - [CSS and Scalability (2016)](https://mrmrs.cc/writing/scalable-css/)
 - [cssdb](https://cssdb.org/) - Comprehensive list of CSS features and their positions in the process of becoming implemented web standards.
 - [Relearn CSS layout](https://every-layout.dev/) - How to better harness the built-in algorithms that power browsers and CSS. ([HN](https://news.ycombinator.com/item?id=20196061))
+- [Basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit.
