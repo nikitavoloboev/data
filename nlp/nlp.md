@@ -29,3 +29,4 @@
 - [Training language GANs from Scratch (2019)](https://arxiv.org/abs/1905.09922)
 - [Olivia](https://github.com/olivia-ai/olivia) - Your new best friend built with an artificial neural network.
 - [Learn-Natural-Language-Processing-Curriculum](https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum#readme)
+- [This repository recorded my NLP journey](https://github.com/makcedward/nlp)
