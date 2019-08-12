@@ -172,6 +172,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Lil Gatsby](https://soundcloud.com/lil-gatsby) - [You're so cool](https://www.youtube.com/watch?v=7YdPw_gcejQ)
 - [RSAC](https://soundcloud.com/felixbondarev) - [Поезда (feat. ELLA)](https://www.youtube.com/watch?v=IK_G6kQIJWo)
 - [David West](https://soundcloud.com/davidwest) - [Alberto Balsam](https://open.spotify.com/track/18a4YelwwkDXV9y2oPlusJ)
+- [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) - [Little Numbers Live](https://www.youtube.com/watch?v=IEng60LouQo)
 
 ## Check out
 

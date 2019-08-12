@@ -65,6 +65,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Elora Pautrat](https://www.elorapautrat.com/)
 - [Nicholas Stathopoulos](http://www.nickstath.com/)
 - [Phil Dragash](https://www.phildragash.com/)
+- [Ivan Aivazovsky](https://www.wikiart.org/en/ivan-aivazovsky)
 
 ## Interesting art
 

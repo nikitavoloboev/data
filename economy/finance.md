@@ -44,3 +44,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Ask HN: Best Passive Income Method? (2019)](https://news.ycombinator.com/item?id=20052668)
 - [What were the most influential learning resources you found while discovering FIRE? (2019)](https://www.reddit.com/r/financialindependence/comments/c9yan7/what_were_the_most_influential_learning_resources/)
 - [Ask HN: What did you do when you suddenly got rich? (2019)](https://news.ycombinator.com/item?id=20521902)
+- [Prophet](https://github.com/Emsu/prophet) - Financial markets analysis framework for programmers.

@@ -41,3 +41,4 @@
 - [Intelligent Machinery paper by Alan Turing](https://weightagnostic.github.io/papers/turing1948.pdf)
 - [SRU](https://github.com/taolei87/sru) - Training RNNs as Fast as CNNs.
 - [ODIN](https://github.com/facebookresearch/odin) - Out-of-Distribution Detector for Neural Networks.
+- [Ask HN: What Neural Networks/Deep Learning Books Should I Read? (2019)](https://news.ycombinator.com/item?id=20674745)

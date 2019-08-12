@@ -115,6 +115,7 @@
 - [Cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command-line wrapper for using libFuzzer. Easy to use, no need to recompile LLVM.
 - [spade](https://github.com/Stoeoef/spade) - Spatial Data Structures for Rust.
 - [pg-extend-rs](https://github.com/bluejekyll/pg-extend-rs) - Rust based Postgres extension.
+- [Hiher](https://github.com/bodil/higher) - Higher kinded types and other bad ideas for Rust.
 
 ## Cargo Plugins
 
