@@ -38,3 +38,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [BOSS](https://www.boss.dev/) - Bounties for Open Source Software.
 - [Unlicense Yourself: Set Your Code Free](https://unlicense.org/)
 - [GitHub stars won’t pay your rent (2019)](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed) ([HN](https://news.ycombinator.com/item?id=20683735))
+- [Free Software Needs Free Tools (2010)](https://mako.cc/writing/hill-free_tools.html)
