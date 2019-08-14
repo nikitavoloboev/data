@@ -23,6 +23,7 @@
 - [sled](https://github.com/spacejam/sled) - Modern embedded database.
 - [Genji](https://github.com/asdine/genji) - Multi engine embedded database.
 - [Atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.
+- [Pebble](https://github.com/petermattis/pebble) - RocksDB/LevelDB inspired key-value database in Go.
 
 ## Tools
 

@@ -90,3 +90,5 @@
 - [Monday](https://github.com/eko/monday) - Dev tool for microservice developers that run local applications and/or forward some others from Kubernetes or over SSH.
 - [Ballista](https://github.com/andygrove/ballista) - PoC of distributed compute platform using Rust, Apache Arrow, and Kubernetes. [Article](https://andygrove.io/2019/07/announcing-ballista/)
 - [Octant](https://github.com/vmware/octant) - Web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+- [Pulumi](https://github.com/pulumi/pulumi) - Modern Infrastructure as Code - Create, deploy, and manage infrastructure on any cloud using your favorite language.
+- [shipcat](https://github.com/Babylonpartners/shipcat) - Standardisation tool and security layer on top of kubernetes to config manage microservices.

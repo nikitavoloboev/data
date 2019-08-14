@@ -33,6 +33,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Lev Walkin](http://lionet.info/CV)
 - [Dominik Moritz](https://www.domoritz.de/cv/)
 - [Gierad Laput](https://www.gierad.com/cv/GieradLaput-CVWeb.pdf)
+- [Dr. Lucas Clemente](https://clemente.io/)
 
 ## Notes
 

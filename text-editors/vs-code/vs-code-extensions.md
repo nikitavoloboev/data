@@ -205,6 +205,10 @@ Below is a list of extensions I use.
 
 - [Coq Support](https://github.com/microsoft/vscode-vsce)
 
+## Racket
+
+- [Magic Racket](https://marketplace.visualstudio.com/items?itemName=evzen-wybitul.magic-racket) - Top notch syntax highlighting for Racket.
+
 ## Themes
 
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)

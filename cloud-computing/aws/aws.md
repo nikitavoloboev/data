@@ -25,3 +25,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS SDK for Go](https://github.com/aws/aws-sdk-go)
 - [awless](https://github.com/wallix/awless) - Mighty CLI for AWS.
 - [Easy Amazon EC2 Instance Comparison](https://ec2instances.info/)
+- [Buildkite Elastic CI Stack](https://github.com/buildkite/elastic-ci-stack-for-aws) - Gives you a private, autoscaling Buildkite Agent cluster.
