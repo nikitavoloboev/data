@@ -37,3 +37,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [My personal journey from MIT to GPL (2019)](https://drewdevault.com/2019/06/13/My-journey-from-MIT-to-GPL.html) ([HN](https://news.ycombinator.com/item?id=20183056))
 - [BOSS](https://www.boss.dev/) - Bounties for Open Source Software.
 - [Unlicense Yourself: Set Your Code Free](https://unlicense.org/)
+- [GitHub stars won’t pay your rent (2019)](https://medium.com/@kitze/github-stars-wont-pay-your-rent-8b348e12baed) ([HN](https://news.ycombinator.com/item?id=20683735))

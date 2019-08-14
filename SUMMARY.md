@@ -169,6 +169,7 @@
   - [Swift](programming-languages/swift/swift.md)
     - [Swift libraries](programming-languages/swift/swift-libraries/swift-libraries.md)
       - [SwiftUI](programming-languages/swift/swift-libraries/swiftui.md)
+      - [Combine](programming-languages/swift/swift-libraries/combine.md)
   - [Rust](programming-languages/rust/rust.md)
     - [Rust libraries](programming-languages/rust/rust-libraries/rust-libraries.md)
   - [Haskell](programming-languages/haskell/haskell.md)
