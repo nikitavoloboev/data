@@ -10,3 +10,4 @@
 - [Playbook For Recruiting and Hiring with Elaine Wherry (2019)](https://overcast.fm/+LDKfwxS6s)
 - [Senior Developers are Getting Rejected for Jobs (2019)](https://news.ycombinator.com/item?id=19918902) ([HN](https://news.ycombinator.com/item?id=19918902))
 - [Hiring for Strengths (Not Weaknesses) with Charity Majors](https://www.woventeams.com/blog/charity-majors-1)
+- [Hiring is Broken: What Do Developers Say About Technical Interviews? (2019)](https://www.researchgate.net/publication/334448588_Hiring_is_Broken_What_Do_Developers_Say_About_Technical_Interviews) ([HN](https://news.ycombinator.com/item?id=20708026))
