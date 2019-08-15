@@ -17,3 +17,4 @@
 - [Cryptocoding](https://github.com/veorq/cryptocoding) - Guidelines for low-level cryptography software.
 - [Constant-Time Toolkit](https://github.com/pornin/CTTK)
 - [Tink](https://github.com/google/tink) - Multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+- [Ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust.

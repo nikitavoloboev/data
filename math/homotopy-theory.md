@@ -7,3 +7,4 @@
 - [Course on homotopy theory and type theory, taught jointly with Jaka Smrekar (2019)](https://github.com/andrejbauer/homotopy-type-theory-course#readme)
 - [Arend](https://arend-lang.github.io/) - Theorem prover based on Homotopy Type Theory. It natively supports higher inductive types and a version of cubical syntax. ([HN](https://news.ycombinator.com/item?id=20630319))
 - [HoTT and Dependent Types Group by JetBrains](https://research.jetbrains.org/groups/group-for-dependent-types-and-hott)
+- [Homotopy Type Theory 2019](https://hott.github.io/HoTT-2019//summer-school/) ([Notes](https://github.com/CodaFi/Hott-Summer))

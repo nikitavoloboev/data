@@ -26,3 +26,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [IRC Gitter](https://irc.gitter.im/) - Connect to Gitter with Textual.
 - [BotBot](https://botbot.me/) - IRC logs.
 - [WhatsApp web <-> IRC gateway](https://github.com/lieuwex/whapp-irc)
+- [picobounce](https://github.com/begriffs/picobounce) - IRC bouncer that does just what I want and no more.

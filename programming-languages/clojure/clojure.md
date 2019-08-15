@@ -22,3 +22,4 @@
 - [clojerl](https://github.com/clojerl/clojerl) - Clojure for the Erlang VM.
 - [Data > Functions > Macros. But why? (2018)](https://lispcast.com/data-functions-macros-why/)
 - [edn](https://github.com/edn-format/edn) - Extensible Data Notation. Superset of edn is used by Clojure to represent programs.
+- [spectrum](https://github.com/arohner/spectrum) - Library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time.

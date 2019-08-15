@@ -95,6 +95,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [Kythe](https://github.com/kythe/kythe) - Pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.
 - [StackSnippet](http://www.stacksnippet.com/#gsc.tab=0) - Aims to combine the preciseness of Google Search with Stack Overflow's vast reservoir of helpful code snippets.
+- [fio](https://github.com/axboe/fio) - Flexible I/O Tester.
 
 ## Notes
 
