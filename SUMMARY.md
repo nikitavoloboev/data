@@ -239,6 +239,7 @@
   - [PureScript](programming-languages/purescript/purescript.md)
   - [Zig](programming-languages/zig/zig.md)
   - [APL](programming-languages/apl/apl.md)
+  - [Tcl](programming-languages/tcl.md)
   - [Language Server Protocol](programming-languages/language-server-protocol.md)
 - [Data Science](data-science/data-science.md)
   - [Data Visualization](data-science/data-visualization.md)

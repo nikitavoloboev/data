@@ -11,3 +11,4 @@
 - [A tangle of webs 3D](https://inconvergent.net/2019/a-tangle-of-webs-3d/)
 - [Depth of field](https://inconvergent.net/2019/depth-of-field/)
 - [Components AI](https://components.ai/) - Experimental platform for exploring generative design systems.
+- [Solandra](https://github.com/jamesporter/solandra) - Framework for algorithmic art. TypeScript first. Make drawing concepts part of framework. Make APIs for humans.

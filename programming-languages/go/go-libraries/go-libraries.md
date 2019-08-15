@@ -173,6 +173,7 @@
 - [cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API.
 - [quicktest](https://github.com/frankban/quicktest) - Collection of Go helpers for writing tests.
 - [valkeyrie](https://github.com/abronan/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go.
+- [pstree](https://github.com/sbinet/pstree) - Simple minded package to retrieve the process tree from a given PID.
 
 ## Links
 

@@ -12,6 +12,7 @@
 - [wouter](https://github.com/molefrog/wouter) - Minimalistic ~1KB routing for React. Nothing else but HOOKS.
 - [useFetch](https://github.com/alex-cory/use-http) - React hook for making isomorphic http requests.
 - [Unform](https://github.com/Rocketseat/unform) - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more.
+- [use-inline-memo](https://github.com/andywer/use-inline-memo) - React hook for memoizing values inline anywhere in a component.
 
 ## Links
 

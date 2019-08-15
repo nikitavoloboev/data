@@ -96,3 +96,4 @@
 - [deep-object-diff](https://github.com/mattphillips/deep-object-diff) - Deep diffs two objects, including nested structures of arrays and objects, and returns the difference.
 - [Snarkdown](https://github.com/developit/snarkdown) - Snarky 1kb Markdown parser written in JavaScript.
 - [Terser](https://github.com/terser-js/terser) - JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+.
+- [AppAuthJS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
