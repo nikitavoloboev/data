@@ -50,6 +50,7 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [Control Snippets](https://marketplace.visualstudio.com/items?itemName=svipas.control-snippets) - Disable or enable VS Code's built-in snippets and manually installed snippets from extensions.
 - [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - Synchronize all of your VSCode settings across multiple devices.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
 - [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative URL paths from files in the current workspace.

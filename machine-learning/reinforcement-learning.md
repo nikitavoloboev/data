@@ -24,3 +24,4 @@
 - [Learning to Paint](https://github.com/hzwer/LearningToPaint) - Painting AI that can reproduce paintings stroke by stroke using deep reinforcement learning.
 - [Self-Supervised Learning](https://project.inria.fr/paiss/files/2018/07/zisserman-self-supervised.pdf) ([HN](https://news.ycombinator.com/item?id=20195575))
 - [RL Baselines Zoo](https://github.com/araffin/rl-baselines-zoo) - Collection of 100+ pre-trained RL agents using Stable Baselines, training and hyperparameter optimization included.
+- [bsuite](https://github.com/deepmind/bsuite) - Collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent.

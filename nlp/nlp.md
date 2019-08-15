@@ -30,3 +30,4 @@
 - [Olivia](https://github.com/olivia-ai/olivia) - Your new best friend built with an artificial neural network.
 - [Learn-Natural-Language-Processing-Curriculum](https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum#readme)
 - [This repository recorded my NLP journey](https://github.com/makcedward/nlp)
+- [Project Alias](https://github.com/bjoernkarmann/project_alias) - Open-source parasite to train custom wake-up names for smart home devices while disturbing their built-in microphone.

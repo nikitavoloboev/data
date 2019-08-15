@@ -105,3 +105,4 @@ Go promotes composition over inheritance.
 - [Delve](https://github.com/go-delve/delve) - Debugger for the Go programming language.
 - [Experiment, Simplify, Ship (2019)](https://blog.golang.org/experiment)
 - [Go programming language secure coding practices guide](https://github.com/OWASP/Go-SCP)
+- [Ultimate Go learning notes, commented directly on source code](https://github.com/hoanhan101/ultimate-go) ([HN](https://news.ycombinator.com/item?id=20701671))

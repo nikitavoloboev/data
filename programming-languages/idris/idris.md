@@ -10,3 +10,4 @@
 - [Blodwen](https://github.com/edwinb/Blodwen) - Prototype implementation of Idris 2.
 - [Idris 2](https://github.com/edwinb/Idris2) - Pre-alpha implementation of Idris 2, the successor to Idris.
 - [Edwin Brady - Idris 2 - Type-driven Development of Idris (2019)](https://www.youtube.com/watch?v=DRq2NgeFcO0)
+- [Software Foundations in Idris](https://github.com/idris-hackers/software-foundations)

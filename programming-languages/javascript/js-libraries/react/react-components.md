@@ -50,6 +50,7 @@
 - [Motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React.
 - [react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text.
 - [Hooked-Form](https://github.com/JoviDeCroock/hooked-form) - Form library implemented with Hooks.
+- [stated-bean](https://github.com/mjolnirjs/stated-bean) - Light but scalable state management library with react hooks, inspired by unstated-next.
 
 ## Links
 

@@ -116,6 +116,7 @@
 - [spade](https://github.com/Stoeoef/spade) - Spatial Data Structures for Rust.
 - [pg-extend-rs](https://github.com/bluejekyll/pg-extend-rs) - Rust based Postgres extension.
 - [Hiher](https://github.com/bodil/higher) - Higher kinded types and other bad ideas for Rust.
+- [cargo-geiger](https://github.com/anderejd/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
 
 ## Cargo Plugins
 
