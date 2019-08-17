@@ -73,3 +73,4 @@
 - [Hoogle](https://github.com/ndmitchell/hoogle) - Haskell API search engine.
 - [Haskell Papers](https://mitchellwrosen.github.io/haskell-papers/)
 - [Simon Peyton Jones how GHC type inference engine actually works (2019)](https://www.youtube.com/watch?v=x3evzO8O9e8)
+- [Chris Penner - Comonads by Example (2019)](https://www.youtube.com/watch?v=HOmOQnQGtPU&list=PLcAu_kKy-krxDD1WwRX_9rc0knAFK3nHs&index=7)
