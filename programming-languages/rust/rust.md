@@ -72,3 +72,4 @@
 - [A static web app in Rust (2018)](https://bluejekyll.github.io/blog/rust/2018/07/22/static-web-app-rust.html)
 - [Rust from a Java dev (2015)](https://bluejekyll.github.io/blog/java/rust/2015/05/14/rust-from-a-java-dev.html)
 - [Announcing Rust 1.37.0 (2019)](https://blog.rust-lang.org/2019/08/15/Rust-1.37.0.html) ([HN](https://news.ycombinator.com/item?id=20705471))
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust#readme)

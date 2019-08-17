@@ -16,3 +16,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference#readme) - Information Security Reference That Doesn't Suck.
 - [Messaging Layer Security (MLS)](https://messaginglayersecurity.rocks/) - Security layer for encrypting messages in groups of size two to many.
 - [Molasses](https://github.com/trailofbits/molasses) - Rust implementation of the Message Layer Security group messaging protocol.
+- [mkcert](https://github.com/FiloSottile/mkcert) - Simple zero-config tool to make locally trusted development certificates with any names you'd like.
