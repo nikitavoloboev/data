@@ -6,7 +6,7 @@ Being honest with your intentions and being independent of anything brings confi
 
 For first dates specifically, I find it best to arrange to meet as soon as possible over chatting in text. You will know a lot more about each other in a brief 10 min conversation together over coffee than anything else. For services like Tinder where you get to chat when both of you 'swiped on each other', it can be as simple as asking `Want to get coffee? ☺️`
 
-Personally I found dating apps like Tinder to be a [waste of time](https://twitter.com/devonzuegel/status/1087575749949673472). And I like to approach girls I find attractive in real life (where appropriate) by saying hey and asking for their name.
+Personally I found dating apps like Tinder to be a [waste of time](https://twitter.com/devonzuegel/status/1087575749949673472). And I like to approach girls I find attractive in real life (where appropriate) by saying hey and asking for their name or making an observation or assumption about them.
 
 ## Notes
 

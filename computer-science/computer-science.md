@@ -14,3 +14,4 @@
 - [Making a computer Turing complete](https://www.youtube.com/watch?v=AqNDk_UJW4k)
 - [What Is Abstraction in Computer Science](https://www.youtube.com/watch?v=_y-5nZAbgt4)
 - [Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs#readme)
+- [Most influential books for programmers](https://github.com/cs-books/influential-cs-books#readme)

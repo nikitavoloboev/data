@@ -352,6 +352,7 @@ Some simple rules to follow when doing things.
 ## Relationships
 
 - Meet new people. Go to seminars, talks, conferences.. even if you won't understand much of it. Big chance you'll find something interesting or meet someone.
+- Respect my time. If going on dates, make it worthwhile or not go at all.
 
 ## Vim
 
