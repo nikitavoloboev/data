@@ -17,3 +17,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Brook](https://github.com/txthinking/brook) - Cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software.
 - [DSVPN](https://github.com/jedisct1/dsvpn) - Dead Simple VPN, designed to address the most common use case for using a VPN.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin.
+- [Passepartout](https://github.com/passepartoutvpn/passepartout-ios) - User-friendly OpenVPN client app for iOS.

@@ -75,7 +75,7 @@ Some simple rules to follow when doing things.
 - Learn [fundamentals first](https://medium.com/@nikitavoloboev/the-root-of-it-all-9b6ab6a77e1d).
 - Draw. Use drawings and imagination to distill complex ideas.
 - Watch videos (talks & tutorials) in 1.75 or 2 speed, unless it hurts comprehension.
-- Listen to podcasts (1.5/1.7 + smart speed). Audiobooks (Books & Audible) (1.25/1.5).
+- Listen to podcasts (~ 1.4 + smart speed). Audiobooks (Books & Audible) (1.25/1.5). With 1 when falling asleep.
 
 ## Share
 

@@ -106,3 +106,4 @@
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning#readme)
 - [Awesome Gradient Boosting Research Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers#readme)
 - [HoloClean](https://github.com/HoloClean/holoclean) - Machine Learning System for Data Enrichment.
+- [Snorkel](https://github.com/snorkel-team/snorkel) - System for quickly generating training data with weak supervision.

@@ -459,6 +459,7 @@
   - [Startups](business/startups/startups.md)
     - [Startup funding](business/startups/startup-funding.md)
     - [Venture capital](business/startups/venture-capital.md)
+    - [Marketplaces](business/startups/marketplaces.md)
     - [Values](business/startups/values.md)
   - [Landing pages](business/landing-pages.md)
   - [Products](business/products.md)

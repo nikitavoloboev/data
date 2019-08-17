@@ -2,7 +2,13 @@
 
 I exclude all foods that are not healthy and experiment with many [vegan recipes](https://github.com/nikitavoloboev/vegan-recipes/#readme) from the many foods that are healthy. I follow a whole food, plant based diet.
 
-Most of my diet consists of eating almonds, walnuts, blueberries, bananas and avocados. I try to eat a set of foods daily (300g blueberries, 1 avocado, 100g walnuts) at minimum (Daily Mix).
+Most of my diet consists of eating almonds, walnuts, blueberries, bananas and avocados. I try to eat a set of essential foods daily:
+
+- Blueberries (200g+)
+- Avocado (1+)
+- Walnuts (50g+)
+- Broccoli/Kale (50g+)
+- Ginger (10g+) (add it to tea)
 
 I use [Paprika app](https://www.paprikaapp.com/) to store all my recipes & the foods I can eat sorted into categories (with top first). Here is how it looks:
 
