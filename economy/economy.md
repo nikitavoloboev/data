@@ -13,3 +13,6 @@
 - [Global Capitalism: A Looming Economic Crisis](https://www.youtube.com/watch?v=5hYKgyUU024)
 - [Supply, Demand, and the Value of Markets (2019)](https://www.youtube.com/watch?v=PNtKXWNKGN8)
 - [The changing structure of American innovation: Some cautionary remarks for economic growth (2019)](https://www.nber.org/chapters/c14259.pdf)
+- [Bridgewater’s Ray Dalio Discusses the Impact of China’s Growth on the World Economy (2019)](https://www.youtube.com/watch?v=Mh0vEaac78U)
+- [Economic principles](https://economicprinciples.org/) - How the economic machine works.
+- [Ray Dalio AMA (2019)](https://www.reddit.com/r/IAmA/comments/blv3r8/im_ray_dalio_founder_of_bridgewater_associates_im/)

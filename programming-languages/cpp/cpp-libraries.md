@@ -27,3 +27,4 @@
 - [Immutable++](https://github.com/rsms/immutable-cpp) - Persistent immutable data structures providing practically O(1) for appends, updates and lookups.
 - [cpp-httplib](https://github.com/yhirose/cpp-httplib) - C++ single-file header-only cross platform HTTP/HTTPS library.
 - [Proxygen](https://github.com/facebook/proxygen) - Collection of C++ HTTP libraries including an easy to use HTTP server.
+- [RESTinio](https://github.com/Stiffstream/restinio) - Header-only C++14 library that gives you an embedded HTTP/Websocket server.

@@ -123,6 +123,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Patrick Collison's bookshelf](https://patrickcollison.com/bookshelf)
 - [Recommendations from an audiobook addict](https://www.reddit.com/r/audible/comments/7znp6h/recommendations_from_an_addict/)
 - [HN: Alan Kay's answer to ‘what are some forgotten books programmers should read?’ (2019)](https://news.ycombinator.com/item?id=20653453)
+- [Ray Dalio’s Recommended Books: His Reading List](https://medium.com/@richardreeze/ray-dalios-recommended-books-his-reading-list-e839471ccc1d)
 
 ## Notes
 

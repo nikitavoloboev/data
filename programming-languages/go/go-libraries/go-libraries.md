@@ -27,6 +27,7 @@
 - [Coco](https://github.com/mrmiguu/coco) - Golang WebAssembly Framework.
 - [Wasmer](https://github.com/wasmerio/go-ext-wasm) - Go library to run WebAssembly binaries at native speed.
 - [Vecty](https://github.com/gopherjs/vecty#readme) - Library for building responsive and dynamic web frontends in Go instead of in JavaScript, HTML & CSS.
+- [Heimdall](https://github.com/gojek/heimdall) - Enhanced HTTP client for Go.
 
 ## GraphQL
 

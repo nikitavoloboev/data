@@ -28,3 +28,4 @@
 - [XLM](https://github.com/facebookresearch/XLM) - PyTorch original implementation of Cross-lingual Language Model Pretraining.
 - [BoTorch](https://github.com/pytorch/botorch) - Bayesian optimization in PyTorch.
 - [PyTorch Lightning](https://github.com/williamFalcon/pytorch-lightning) - Rapid research framework for PyTorch. The researcher's version of Keras.
+- [PointNet.pytorch](https://github.com/fxia22/pointnet.pytorch) - PyTorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation".

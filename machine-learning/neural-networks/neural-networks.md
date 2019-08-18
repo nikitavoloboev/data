@@ -42,3 +42,4 @@
 - [SRU](https://github.com/taolei87/sru) - Training RNNs as Fast as CNNs.
 - [ODIN](https://github.com/facebookresearch/odin) - Out-of-Distribution Detector for Neural Networks.
 - [Ask HN: What Neural Networks/Deep Learning Books Should I Read? (2019)](https://news.ycombinator.com/item?id=20674745)
+- [Python vs Rust for Neural Networks (2019)](https://ngoldbaum.github.io/posts/python-vs-rust-nn/) ([HN](https://news.ycombinator.com/item?id=20728288))
