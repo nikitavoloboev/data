@@ -17,3 +17,4 @@
 - [LearnAwesome](https://learnawesome.org/) - Humanity's universal skills graph.
 - [Ask HN: How do you personally learn? (2019)](https://news.ycombinator.com/item?id=20433926)
 - [Stop Treading Water: Learning to Learn by Edward Kmett (2014)](https://www.youtube.com/watch?v=j0XmixCsWjs)
+- [Michael E. Karpeles's mission](https://mek.fyi/mission)

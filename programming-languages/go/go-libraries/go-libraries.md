@@ -28,6 +28,7 @@
 - [Wasmer](https://github.com/wasmerio/go-ext-wasm) - Go library to run WebAssembly binaries at native speed.
 - [Vecty](https://github.com/gopherjs/vecty#readme) - Library for building responsive and dynamic web frontends in Go instead of in JavaScript, HTML & CSS.
 - [Heimdall](https://github.com/gojek/heimdall) - Enhanced HTTP client for Go.
+- [mux](https://github.com/gorilla/mux) - Powerful HTTP router and URL matcher for building Go web servers with.
 
 ## GraphQL
 
@@ -175,6 +176,7 @@
 - [quicktest](https://github.com/frankban/quicktest) - Collection of Go helpers for writing tests.
 - [valkeyrie](https://github.com/abronan/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go.
 - [pstree](https://github.com/sbinet/pstree) - Simple minded package to retrieve the process tree from a given PID.
+- [mysql](https://github.com/go-sql-driver/mysql) - MySQL driver for Go's (golang) database/sql package.
 
 ## Links
 

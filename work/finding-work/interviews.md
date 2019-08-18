@@ -25,7 +25,7 @@
 - [The Coding Interview by Palantir](https://www.palantir.com/the-coding-interview/) - Great tips.
 - [How to ace a phone interview](https://www.palantir.com/2012/09/how-to-ace-a-phone-interview/)
 - [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews#readme)
-- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook#readme)
+- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction) ([HN](https://news.ycombinator.com/item?id=20727126))
 - [Interview Map](https://github.com/KieSun/InterviewMap#readme) - A map that can help you make a better preparation for the next interview.
 - [Full stack Developer Interview Questions & Answers](https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers#readme)
 - [Prepare for interview in 1 week advice](https://news.ycombinator.com/item?id=17755688)
