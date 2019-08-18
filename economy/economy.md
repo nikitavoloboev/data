@@ -16,3 +16,4 @@
 - [Bridgewater’s Ray Dalio Discusses the Impact of China’s Growth on the World Economy (2019)](https://www.youtube.com/watch?v=Mh0vEaac78U)
 - [Economic principles](https://economicprinciples.org/) - How the economic machine works.
 - [Ray Dalio AMA (2019)](https://www.reddit.com/r/IAmA/comments/blv3r8/im_ray_dalio_founder_of_bridgewater_associates_im/)
+- [Some guidelines (not rules) for surviving a recession](https://www.reddit.com/r/smallbusiness/comments/crpqli/any_other_recently_started_businesses_worried/)

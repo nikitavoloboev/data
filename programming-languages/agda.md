@@ -21,3 +21,4 @@
 - [Various new theorems in constructive univalent mathematics written in Agda](https://github.com/martinescardo/TypeTopology)
 - [gen-cart](https://github.com/mortberg/gen-cart) - Unifying Cartesian Cubical Set Model.
 - [Generic](https://github.com/effectfully/Generic) - Library for doing generic programming in Agda.
+- [Learn the Agda basics in three 2-hour sessions](https://github.com/anuyts/agda-sessions)
