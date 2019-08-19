@@ -22,6 +22,7 @@
 - [Once the changa is lit, you should take the lighter away and keep sucking. This will help prevent it from burning.](https://www.reddit.com/r/DMT/comments/5oz389/how_to_smoke_change_with_a_pipe/)
 - [DMT's existence in people, animals, plants, and so on, really isn't that surprising at all. Lots of molecules exist in biological creatures that serve no necessary purpose, but are there merely because they are the unintentional enzymatic products of other essential compounds in the body. DMT is directly derived from Tryptophan, which exists in pretty much all biological life, and is just a few enzymatic transformations away from DMT.](https://www.reddit.com/r/RationalPsychonaut/comments/b3v4fc/why_are_many_dmt_users_fixated_on_the_possibility/)
   - Amazing comment with more info that follows
+- [You are a group of billons neurons riding a muscle powered skeleton.](https://www.reddit.com/r/DMT/comments/crhchg/holy_fucking_shit/ex7v7dt/?context=1) Great summary of DMT experience.
 
 ## Links
 

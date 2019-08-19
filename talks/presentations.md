@@ -9,3 +9,4 @@
 - [spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide#readme) - Present code with style.
 - [reveal.js](https://github.com/hakimel/reveal.js/) - HTML Presentation Framework.
 - [Fusuma](https://github.com/hiroppy/fusuma) - Make slides with Markdown easily.
+- [Spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library.

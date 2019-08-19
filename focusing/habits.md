@@ -4,47 +4,35 @@ I use [Streaks](https://streaksapp.com) iOS app to track my essential life habit
 
 ## Life habits
 
-![](https://i.imgur.com/GtjtPTd.jpg)
+![](https://i.imgur.com/zI3dtgO.jpg)
 
-![](https://i.imgur.com/VB8X6oC.jpg)
+![](https://i.imgur.com/dUxwGhz.jpg)
 
-I also keep top habits I try to follow through in life on display in my [Focus board](focusing.md). I also try to follow some [rules](rules.md) I set for myself.
+I also keep top habits I try to follow through in life on display in my [Focus board](focusing.md). And I try to follow some [rules](rules.md) I set for myself.
 
-## Morning routine
+## Habits described
 
-I use [Siri Shortcuts](https://github.com/nikitavoloboev/my-ios#shortcuts) for my Morning and Night routines. If I go through these routines, the two habits are automatically completed for me at the end of it.
+`Sleep 8 hours` is autofilled through my health data.
 
-![](https://i.imgur.com/0oUOByV.jpg)
+`In bed before 23:00` is autofilled through my health data.
 
-## Night routine
+`Activity rings` is autofilled through my health data and is marked as done when all the ring goals are complete. My current calorie goal is 750 calories with fixed 30 min workout & 12H standing goals.
 
-![](https://i.imgur.com/HD43Utd.jpg)
+`Workout / Cardio` is autofilled through my health data. It includes workout minutes from running/cycling & bodyweight/lifting workouts. Bodyweight/lifting is tracked with [Strong](https://strong.app) & [Streaks Workout](https://streaksworkout.com) apps. It also includes yoga (tracked with [Down Dog](https://www.downdogapp.com)).
 
-![](https://i.imgur.com/HpFT0zp.jpg)
+`No phone in bed | Exercise` is marked as done when I spent no time wasted in bed using my phone. I use my bed only for sleep. First thing in the morning, I try to go out and do some exercise (either going to gym, running or doing bodyweight exercises).
 
-Both habits are scheduled to run automatically at certain time. Meaning they will show up on my notification screen in morning/evening respectively so I can quickly trigger them.
+`Water | Food Mix | Wholefood` is marked as done when I drank only water/tea (no added sugar in anything). Occasional coffee is fine. And when I eat only wholefood foods (nuts/veggies/fruits). No foods that came from killing an animal.
 
-![](https://i.imgur.com/9p92r5q.jpg)
+`Mindful, calm & happy` is marked as done I spent a day being mindful of my thoughts & feelings and approaching any new thing with calmness and clarity. Whilst being happy with the fortune that is life.
 
-## Other habits
+`Share | Write | Meet people` is marked as done when I have shared my thoughts/experiences freely and honestly. Sharing things I've learned by writing them down and sharing it. And finally broadening my life by meeting new people.
 
-`Activity rings` are autofilled for me from Apple health data and is marked as done when all the ring goals are complete. My current calorie goal is 750 calories with fixed 30 min workout & 12H standing goals.
-
-`Walk / Run / Cycle` is marked as done when I spent at least 50 minutes on a workout of either walking, running or cycling. I start my workouts from my watch and usually listen to audiobooks or podcasts in the process.
-
-`Workout / Yoga` is marked as done when I spent at least 15 minutes on workouts via [Streaks Workout](https://streaksworkout.com) (bodyweight exercises) or doing yoga with [Down Dog](https://www.downdogapp.com).
-
-`Water | Daily Mix | Plants` is marked as done when I drank only water/tea (no drink with added sugar). I also occasionally drink coffee. Fresh smoothies are allowed too. And I do one day a week scheduled [fasting](../health/nutrition/fasting.md).
-
-`Plan | Adapt | Goal driven` is marked as done when I spent time moving towards the [goals I've set](../focusing/focusing.md). Adapting means reacting mindfully to new information. This also includes being open to change.
-
-`No wasted time | Build ideas` is marked as done when I haven't spent any time unmindfully on things that bring no value to my life. Essentially it means doing things proactively rather than reactively and thus no time should be wasted no matter the distractions. Filter input, maximize output. I can check where my time is really being spent using tools like [Timing](../macOS/apps/timing.md) or iOS Screen Time.
-
-`Share | Write | Meet people` is marked as done when I have shared my thoughts/experiences freely and honestly. As well as sharing things I've learned by writing them down and sharing it. And finally broadening my life by meeting new people.
+`No wasted time | Build ideas` is marked as done when I haven't spent any time unmindful on things that bring no value to my life. Essentially it means doing things proactively rather than reactively and thus no time should be wasted no matter the distractions. Filter input, maximize output. I can check where my time is really being spent using tools like [Timing](../macOS/apps/timing.md) & iOS Screen Time.
 
 `Focus | One task at a time` is marked as done when I haven't derailed my focus throughout the day and did what I was supposed to do at ideally all points in time throughout the day. [Solving problems](../research/solving-problems.md) & [focusing](../focusing/focusing.md) goes over strategies I use to achieve this habit.
 
-`Mindful, calm & happy` is currently the easiest habit for me to complete and I hope to keep it this way. It simply means a day spent being mindful of my thoughts & feelings and approaching any new thing with calmness and clarity. Whilst being happy with the fortune that is life.
+`Goal driven | Plan events` is marked as done when I spent time moving towards the [goals I've set](../focusing/focusing.md). Adapting means reacting mindfully to new information. This also includes being open to change.
 
 `Good day | Timing & habits` is marked only when all the other 11 habits are marked as complete & when I am happy with how I spent my day.
 
