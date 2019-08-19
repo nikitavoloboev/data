@@ -10,3 +10,4 @@
 - [Lux Capital](https://www.luxcapital.com/) - Invests in emerging science and technology ventures at the outermost edges of what is possible.
 - [Root Ventures](https://www.root.vc/) - Seeding bold engineers.
 - [Fifty Years](https://www.fifty.vc/) - Entrepreneur-run early stage venture fund based in San Francisco. We invest in companies that inspire.
+- [Resources for the Venture Capital Industry](https://www.arnaudbonzom.com/resources-for-the-venture-capital-industry/)

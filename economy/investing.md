@@ -15,3 +15,4 @@
 - [Jack Bogle on Index Funds, Vanguard, and Investing Advice (2019)](https://www.youtube.com/watch?v=MLgn_kVKjCE)
 - [The Position of Fuck You by JL Collins](https://www.youtube.com/watch?v=eikbQPldhPY)
 - [JL Collins: "The Simple Path to Wealth" | Talks at Google (2018)](https://www.youtube.com/watch?v=T71ibcZAX3I)
+- [Josh Wolfe Discusses Innovative Investments (2019)](https://overcast.fm/+JVs6Yyeqg)

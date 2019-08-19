@@ -118,6 +118,7 @@
 - [Hiher](https://github.com/bodil/higher) - Higher kinded types and other bad ideas for Rust.
 - [cargo-geiger](https://github.com/anderejd/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
 - [Surf](https://github.com/rustasync/surf) - Friendly HTTP client built for casual Rustaceans and veterans alike.
+- [async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library.
 
 ## Cargo Plugins
 

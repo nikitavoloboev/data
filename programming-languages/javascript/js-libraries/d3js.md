@@ -9,3 +9,4 @@
 - [Interactive Data Visualization for the Web book (2017)](https://alignedleft.com/work/d3-book-2e)
 - [Learn JS Data](http://learnjsdata.com/getting_started.html) - Teaches the basics of manipulating data using JavaScript in the browser, or in node.
 - [Simple D3 with React Hooks](https://medium.com/@jeffbutsch/using-d3-in-react-with-hooks-4a6c61f1d102)
+- [Victory](https://github.com/FormidableLabs/victory) - Collection of composable React components for building interactive data visualizations.

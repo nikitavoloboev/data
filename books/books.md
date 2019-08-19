@@ -19,7 +19,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Mind for Numbers 🌟](mind-for-numbers.md) - [Review](https://www.goodreads.com/review/show/1223423349)
 - Flowers of Algernon 🌟 - [Review](https://www.goodreads.com/review/show/782624446)
 - Heart of a Dog 🌟 - [Review](https://www.goodreads.com/review/show/589165109)
-- You Don't Know JS: Up & Going - [Review](https://www.goodreads.com/review/show/1587216818).
+- You Don't Know JS: Up & Going - [Review](https://www.goodreads.com/review/show/1587216818)
 
 ### 2015
 
@@ -124,6 +124,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Recommendations from an audiobook addict](https://www.reddit.com/r/audible/comments/7znp6h/recommendations_from_an_addict/)
 - [HN: Alan Kay's answer to ‘what are some forgotten books programmers should read?’ (2019)](https://news.ycombinator.com/item?id=20653453)
 - [Ray Dalio’s Recommended Books: His Reading List](https://medium.com/@richardreeze/ray-dalios-recommended-books-his-reading-list-e839471ccc1d)
+- [Josh Wolfe's favorite books](https://twitter.com/wolfejosh/status/1087926885345054720?lang=en)
 
 ## Notes
 
