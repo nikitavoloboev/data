@@ -7,7 +7,7 @@ Some simple rules to follow when doing things.
 - [Simplify](../minimalism/minimalism.md) as much as possible. Never repeat myself.
 - Use only what I need. If something doesn't provide me any value, get rid of it.
 - Learn from my mistakes. If things fail, learn from it and move on.
-- Build [ideas](https://trello.com/b/alB1ryRP). Experiment. Take risks.
+- Build [ideas](https://trello.com/b/alB1ryRP). Experiment. Take risks. Ask questions.
 - Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.

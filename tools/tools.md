@@ -113,3 +113,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Awesome Uses Page](https://github.com/wesbos/awesome-uses#readme) - List of /uses pages that detail apps and gear used by professional web developers.
 - [Handy lookup table of similar technology and services to help ex-googlers survive the real world](https://github.com/jhuangtw-dev/xg2xg#readme)
 - [Ask HN: What overlooked class of tools should a self-taught programmer look into (2019)](https://news.ycombinator.com/item?id=19900955)
+- [The Arc of Collaboration (2019)](https://kwokchain.com/2019/08/16/the-arc-of-collaboration/)

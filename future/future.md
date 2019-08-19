@@ -24,3 +24,4 @@
 - [Rutger Bregman - “Utopia for Realists” and Big Ideas for an Equitable Economy (2019)](https://www.youtube.com/watch?v=QbTWxFwuQtM)
 - [Mark Zuckerberg & Yuval Noah Harari in Conversation (2019)](https://www.youtube.com/watch?v=Boj9eD0Wug8)
 - [Bill Gates on Startups, Investing and Solving The World's Hardest Problems (2019)](https://www.youtube.com/watch?v=W5g4sPi1wd4) ([HN](https://news.ycombinator.com/item?id=20251642))
+- [Josh Wolfe Discusses Innovative Investments (2019)](https://overcast.fm/+JVs6Yyeqg)

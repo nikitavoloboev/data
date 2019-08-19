@@ -74,3 +74,4 @@
 - [Advanced JavaScript Course](https://tylermcginnis.com/courses/advanced-javascript)
 - [Jay](https://github.com/nikersify/jay) - Supercharged JavaScript REPL.
 - [Data Structures and Algorithms in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
+- [JavaScript & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices#readme)
