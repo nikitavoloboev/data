@@ -12,3 +12,5 @@
 - [Scala Best Practices](https://github.com/alexandru/scala-best-practices#readme) - Collection of Scala best practices.
 - [scala-steward](https://github.com/fthomas/scala-steward) - Robot that helps you keeping your Scala projects up-to-date.
 - [Mill](https://github.com/lihaoyi/mill) - Your shiny new Java/Scala build tool.
+- [Functional Programming for Mortals with Scala book](https://leanpub.com/fpmortals/read)
+- [Functional Programming in Scala book (paid)](https://www.manning.com/books/functional-programming-in-scala)

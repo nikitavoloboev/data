@@ -11,3 +11,4 @@
 - [rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers.
 - [Piqi](http://piqi.org/) - Universal schema language and a collection of tools built around it.
 - [Protocol Buffers implementation in C](https://github.com/protobuf-c/protobuf-c)
+- [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers.

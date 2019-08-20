@@ -85,3 +85,4 @@ I use [Paprika app](https://www.paprikaapp.com/) to store all my recipes & the f
 - [Cheap healthy food](https://www.nomeatathlete.com/cheap-healthy-food/)
 - [Serotonin Foods and Mood Disorders](https://bebrainfit.com/serotonin-foods-mood-brain/)
 - [Some good oatmeal and avocado recipes](https://www.reddit.com/r/HealthyFood/comments/8ytyqi/food_for_the_brain_with_a_budget/)
+- [Solar Foods](https://solarfoods.fi/) - Revolutionary natural protein source for the global food industry: suitable for varied consumer diets, and virtually for all food products and types.

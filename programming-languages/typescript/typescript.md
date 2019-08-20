@@ -52,6 +52,7 @@
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet#readme)
 - [Using Typescript to make invalid states irrepresentable](http://www.javiercasas.com/articles/typescript-impossible-states-irrepresentable)
 - [High-level notes about TypeScript](https://github.com/orta/typescript-notes)
+- [TypeCov](https://github.com/codechecks/typecov) - Track missing type coverage to ensure type safety.
 
 ## Images
 

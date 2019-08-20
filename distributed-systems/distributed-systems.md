@@ -34,3 +34,4 @@
 - [Practical Networked Applications in Rust, Part 1: Non-Networked Key-Value Store](https://arveknudsen.com/posts/practical-networked-applications-in-rust/module-1/) ([HN](https://news.ycombinator.com/item?id=20511271))
 - [LF](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store.
 - [Awesome Consensus](https://github.com/dgryski/awesome-consensus#readme) - Curated selection of artisanal consensus algorithms and hand-crafted distributed lock services.
+- [Rezolus](https://github.com/twitter/rezolus) - Tool for collecting detailed systems performance telemetry and exposing burst patterns through high-resolution telemetry.
