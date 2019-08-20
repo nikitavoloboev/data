@@ -13,3 +13,4 @@
 - [Docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [Write the Docs](http://www.writethedocs.org/) - Global community of people who care about documentation.
 - [Lobsters: What does your company use for documentation? (2019)](https://lobste.rs/s/6jc9qj/what_does_your_company_use_for)
+- [GitDocs](https://github.com/timberio/gitdocs) - Easy to use, SEO-friendly, beautiful documentation that lives in your git repo.

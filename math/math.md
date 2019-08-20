@@ -79,3 +79,4 @@
 - [Collection of computational playthings](https://jlpaca.github.io/toybox/) ([OSS](https://github.com/jlpaca/toybox))
 - [Approach0](https://approach0.xyz/search/) - Math-aware search engine. ([OSS](https://github.com/approach0/search-engine))
 - [Think in Math. Write in Code. (2019)](https://justinmeiners.github.io/think-in-math/) ([HN](https://news.ycombinator.com/item?id=20468057))
+- [Analysing Mathematical Reasoning Abilities of Neural Models (2019)](https://arxiv.org/abs/1904.01557)

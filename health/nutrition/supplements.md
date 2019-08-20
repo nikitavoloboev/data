@@ -23,3 +23,4 @@ Everything else I try to get from [food](foods.md).
 - [Magnesium and major depression (2011)](https://www.ncbi.nlm.nih.gov/books/NBK507265/) ([HN](https://news.ycombinator.com/item?id=20181855))
 - [What are your essential supplements? Like if you could only take a few each day what would you pick? (2019)](https://www.reddit.com/r/Supplements/comments/bwhhro/what_are_your_essential_supplements_like_if_you/)
 - [What are the nootropics that are currently believed to be the best at increasing neurogenesis/BDNF? (2019)](https://www.reddit.com/r/Nootropics/comments/c2kec5/what_are_the_nootropics_that_are_currently/)
+- [What are supplements/nootropics (almost) everyone should be taking? (2019)](https://www.reddit.com/r/Nootropics/comments/cskqi5/what_are_supplementsnootropics_almost_everyone/)

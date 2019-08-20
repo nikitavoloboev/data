@@ -44,3 +44,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Sponsors](https://github.com/sponsors) ([HN](https://news.ycombinator.com/item?id=19989684))
 - [Nice Contribution Guidelines template](https://github.com/tazjin/crimp/blob/master/CONTRIBUTING.md)
 - [Collection of GitHub issue and pull request templates](https://github.com/stevemao/github-issue-templates)
+- [Happy Git and GitHub for the useR](https://happygitwithr.com/)
