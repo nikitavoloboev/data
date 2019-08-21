@@ -94,3 +94,4 @@
 - [shipcat](https://github.com/Babylonpartners/shipcat) - Standardisation tool and security layer on top of kubernetes to config manage microservices.
 - [Okteto](https://github.com/okteto/okteto) - Rapidly iterate and test your applications by developing directly in your Kubernetes cluster.
 - [Fabrikate](https://github.com/microsoft/fabrikate) - Making GitOps with Kubernetes easier one component at a time.
+- [Seldon Core](https://github.com/SeldonIO/seldon-core) - Machine Learning Deployment for Kubernetes.

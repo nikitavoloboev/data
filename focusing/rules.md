@@ -119,11 +119,8 @@ Some simple rules to follow when doing things.
 
 ## Commenting
 
-- Comment over my code. Be mindful of not repeating things. Don't comment obvious things.
-- In comments, don't write **Will ..**. Just write what it will do. Remove unnecessary (filler) words.
+- Comment over code. Comment to ease comprehension of code. Don't comment obvious things.
 - Use imperative tense. Instead of _# Outputs_, use _# Output_.
-- Only add one space after the code for inline comments. Don't space them out.
-- Where appropriate, write a small comment on top of the file to describe the purpose of the file.
 
 ## Communication
 

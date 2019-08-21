@@ -30,6 +30,10 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 - [Ports](https://github.com/caarlos0/ports) - Easily see what's happening on your computer's ports.
 - [Fast Syntax Highlighting](https://github.com/zdharma/fast-syntax-highlighting) - Fine granularity, number of features, 40 work hours themes.
 
+## Prompt
+
+- [Starship](https://github.com/starship/starship) - Minimal, blazing fast, and extremely customizable prompt for any shell.
+
 ## Git
 
 - [Zsh git fetch merge](https://github.com/caarlos0/zsh-git-fetch-merge) - Runs `git fetch upstream` & `git merge upstream/master`.
