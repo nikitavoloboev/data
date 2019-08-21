@@ -37,3 +37,4 @@
 - [POT: Python Optimal Transport](https://github.com/rflamary/POT) - Provide several solvers for optimization problems related to Optimal Transport for signal, image processing and machine learning.
 - [Pampy](https://github.com/santinic/pampy) - Pattern Matching for Python you always dreamed of.
 - [StrictYAML](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
+- [coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.

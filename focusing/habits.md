@@ -2,8 +2,6 @@
 
 I use [Streaks](https://streaksapp.com) iOS app to track my essential life habits. There are 12 of them & I want to complete them all for a perfect day.
 
-## Life habits
-
 ![](https://i.imgur.com/zI3dtgO.jpg)
 
 ![](https://i.imgur.com/dUxwGhz.jpg)
