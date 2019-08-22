@@ -19,7 +19,7 @@ The reason I am not currently using it is because I find the philosophy of `Know
 
 ## Notes
 
-- [Anki works due to the exponential decay of memory](https://www.reddit.com/r/Anki/comments/75bzzc/anki_overwhelms_me/?utm_content=title&utm_medium=hot&utm_source=reddit&utm_name=Anki) - The better you know a card, the less often that it'll be shown to you.
+- [Anki works due to the exponential decay of memory](https://www.reddit.com/r/Anki/comments/75bzzc/anki_overwhelms_me/) - The better you know a card, the less often that it'll be shown to you.
 
 ## Links
 
