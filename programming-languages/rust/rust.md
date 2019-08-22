@@ -73,3 +73,4 @@
 - [Rust from a Java dev (2015)](https://bluejekyll.github.io/blog/java/rust/2015/05/14/rust-from-a-java-dev.html)
 - [Announcing Rust 1.37.0 (2019)](https://blog.rust-lang.org/2019/08/15/Rust-1.37.0.html) ([HN](https://news.ycombinator.com/item?id=20705471))
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust#readme)
+- [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable.

@@ -129,6 +129,7 @@ Below is a list of extensions I use.
 
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [Stylelint](https://stylelint.io/).
 - [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information CSS colors.
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
 ## Elixir
 

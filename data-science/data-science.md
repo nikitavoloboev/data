@@ -38,3 +38,4 @@
 - [Data science without borders - Wes McKinney (2017)](https://www.youtube.com/watch?v=wdmf1msbtVs)
 - [Curated list of awesome ETL frameworks, libraries, and software](https://github.com/pawl/awesome-etl#readme)
 - [Ibis](https://github.com/ibis-project/ibis) - Python data analysis framework for Hadoop and SQL engines.
+- [Kyso](https://kyso.io/) - Data analytics knowledge hub.
