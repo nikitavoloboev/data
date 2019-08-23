@@ -31,3 +31,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Sizzy](https://github.com/kitze/sizzy) - Tool for testing responsive websites crazy-fast.
 - [Awesome Stacks](https://github.com/stackshareio/awesome-stacks) - Curated list of tech stacks for building different applications & features.
 - [Build Tracker](https://github.com/paularmstrong/build-tracker) - Set of tools to track the size of your build artifacts over time.
+- [monolith](https://github.com/Y2Z/monolith) - Save HTML pages with ease. ([HN](https://news.ycombinator.com/item?id=20774322))

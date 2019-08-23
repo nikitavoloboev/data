@@ -32,3 +32,4 @@
 - [What's coming in Python 3.8](https://lwn.net/SubscriberLink/793818/0c6f9dd271021cd4/) ([HN](https://news.ycombinator.com/item?id=20463170))
 - [Python Handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures.
 - [HN: Python Is Eating the World (2019)](https://news.ycombinator.com/item?id=20672051)
+- [Your Guide to the CPython Source Code (2019)](https://realpython.com/cpython-source-code-guide/)
