@@ -32,3 +32,4 @@ All active variables can be seen by running `env`.
 - [mask](https://github.com/jakedeichert/mask) - CLI task runner defined by a simple markdown file.
 - [Purs](https://github.com/xcambar/purs) - Pure-inspired prompt in Rust.
 - [Sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- [Nu Shell](https://github.com/nushell/nushell) - Modern, GitHub-era shell written in Rust. ([HN](https://news.ycombinator.com/item?id=20783006))
