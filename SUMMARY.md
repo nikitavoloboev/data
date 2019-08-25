@@ -526,6 +526,7 @@
   - [Framer](design/framer.md)
   - [Design systems](design/design-systems.md)
   - [Logos](design/logos.md)
+  - [Color](design/color.md)
 - [Keyboards](keyboards/keyboards.md)
   - [QMK](keyboards/qmk.md)
 - [Future](future/future.md)

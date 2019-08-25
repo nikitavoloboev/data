@@ -22,3 +22,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Arxiv Vanity](https://www.arxiv-vanity.com/) - Renders academic papers from Arxiv as responsive web pages.
 - [Fermat’s Library](https://fermatslibrary.com/) - Software to help illuminate academic papers.
 - [Fatcat](https://fatcat.wiki/) - Versioned, user-editable catalog of research publications: journal articles, conference proceedings, pre-prints, etc. [OSS](https://github.com/internetarchive/fatcat).
+- [arxiv2remarkable.py](https://github.com/GjjvdBurg/arxiv2remarkable) - Fetch an arXiv/PubMed/ACM/OpenReview/Springer paper and send it to the reMarkable.

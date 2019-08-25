@@ -207,6 +207,10 @@ Below is a list of extensions I use.
 
 - [Coq Support](https://github.com/microsoft/vscode-vsce)
 
+## TLA
+
+- [TLA+ language support](https://github.com/alygin/vscode-tlaplus)
+
 ## Racket
 
 - [Magic Racket](https://marketplace.visualstudio.com/items?itemName=evzen-wybitul.magic-racket) - Top notch syntax highlighting for Racket.

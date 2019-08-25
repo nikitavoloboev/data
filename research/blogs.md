@@ -34,6 +34,7 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [Dhruv Parthasarathy](https://www.dhruvonmath.com/)
 - [Maciej Cegłowski](https://idlewords.com/)
 - [Brent Jackson](https://jxnblk.com/blog)
+- [Swift by Sundell](https://www.swiftbysundell.com/)
 
 ## Links
 
