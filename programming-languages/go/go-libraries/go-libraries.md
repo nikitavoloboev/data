@@ -179,6 +179,7 @@
 - [mysql](https://github.com/go-sql-driver/mysql) - MySQL driver for Go's (golang) database/sql package.
 - [fastcache](https://github.com/VictoriaMetrics/fastcache) - Fast thread-safe inmemory cache for big number of entries in Go. Minimzes GC overhead.
 - [expr](https://github.com/antonmedv/expr) - Evaluate expression in Go.
+- [compress](https://github.com/klauspost/compress) - Optimized compression packages.
 
 ## Links
 
