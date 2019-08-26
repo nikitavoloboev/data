@@ -80,3 +80,8 @@
 - [Approach0](https://approach0.xyz/search/) - Math-aware search engine. ([OSS](https://github.com/approach0/search-engine))
 - [Think in Math. Write in Code. (2019)](https://justinmeiners.github.io/think-in-math/) ([HN](https://news.ycombinator.com/item?id=20468057))
 - [Analysing Mathematical Reasoning Abilities of Neural Models (2019)](https://arxiv.org/abs/1904.01557)
+- [Cambridge Maths Outline (2019)](https://www-wp.maths.cam.ac.uk/documents/schedules.pdf/)
+- [Dexter Chua's math notes](http://dec41.user.srcf.net/)
+- [Math notes by Gareth Taylor](https://tartarus.org/gareth/maths/notes/)
+- [How to Become a Pure Mathematician (or Statistician)](http://hbpms.blogspot.com/)
+- [Chicago undergraduate mathematics bibliography](https://github.com/ystael/chicago-ug-math-bib)

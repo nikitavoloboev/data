@@ -16,3 +16,5 @@
 - [Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs#readme)
 - [Most influential books for programmers](https://github.com/cs-books/influential-cs-books#readme)
 - [Ask HN: What book to read to get a footing in CS theory? (2019)](https://news.ycombinator.com/item?id=20729252)
+- [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science#readme)
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)

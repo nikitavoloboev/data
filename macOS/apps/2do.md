@@ -38,8 +38,7 @@ I use recurring scheduled tasks in 2Do as a way to remember to complete my day/w
 
 [2Do URL schemes documentation](https://www.2doapp.com/kb/article/url-schemes.html) has everything. I use these URL schemes currently:
 
-- Go to 2Do list from URL scheme: `twodo://x-callback-url/showList?name=Read` (would go to to **Read** list).
-- Filter 2Do tag from URL scheme: `twodo://x-callback-url/search?text=tags:github` (would show all tasks with **github** tag)
+- Go to 2Do list from URL scheme: `twodo://x-callback-url/showList?name=PR` (would go to to **PR** list).
 
 ## Links
 
