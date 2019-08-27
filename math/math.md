@@ -85,3 +85,4 @@
 - [Math notes by Gareth Taylor](https://tartarus.org/gareth/maths/notes/)
 - [How to Become a Pure Mathematician (or Statistician)](http://hbpms.blogspot.com/)
 - [Chicago undergraduate mathematics bibliography](https://github.com/ystael/chicago-ug-math-bib)
+- [Ask HN: Best resources to gain math intuition? (2019)](https://news.ycombinator.com/item?id=20804582)
