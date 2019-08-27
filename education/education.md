@@ -21,3 +21,4 @@ Charles Hoskinson mentions why he believe in transforming education in [this int
 - [Primer Labs White Paper](https://www.primerlabs.io/whitepaper.pdf) - Incremental approach for building an intelligent tutoring system using a dialog based agent.
 - [Danny Hillis, "The Learning Map" (2012)](https://www.youtube.com/watch?v=wKcZ8ozCah0)
 - [LRMI specification](http://lrmi.dublincore.org/specifications/lrmi/lrmi_1/) - Collection of properties to describe educational resources.
+- [Coursedog](https://www.coursedog.com/) - All-in-One Schedule and Curriculum Planning.

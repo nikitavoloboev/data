@@ -60,6 +60,7 @@
 - [Discord Go](https://github.com/bwmarrin/discordgo) - Go bindings for Discord.
 - [Digital Ocean](https://github.com/digitalocean/godo) - Go client library for accessing the DigitalOcean V2 API.
 - [Slacker](https://github.com/shomali11/slacker) - Slack Bot Framework.
+- [Slack](https://github.com/lestrrat-go/slack) - Slack client for go.
 - [go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API.
 - [Slash](https://github.com/htdvisser/slash) - Router for Slack's slash commands.
 - [Airtable Go Client Library](https://github.com/fabioberger/airtable-go)

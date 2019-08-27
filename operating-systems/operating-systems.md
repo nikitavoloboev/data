@@ -34,3 +34,4 @@ And I really like [NixOS](linux/nixos.md) and it's [nix package manager](../pack
 - [Introducing Mercury OS (2019)](https://medium.com/@jasonyuan/introducing-mercury-os-f4de45a04289)
 - [Nanos](https://github.com/nanovms/nanos) - New kernel designed to run one and only one application in a virtualized environment.
 - [BootOS](https://github.com/nanochess/bootOS) - Monolithic operating system in 512 bytes of x86 machine code. ([HN](https://news.ycombinator.com/item?id=20569438))
+- [Ask HN: Recommended resources to learn the Linux kernel and OS theory? (2019)](https://news.ycombinator.com/item?id=20809666)
