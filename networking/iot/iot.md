@@ -24,3 +24,4 @@
 - [WebThings Gateway](https://github.com/mozilla-iot/gateway) - Web of Things gateway.
 - [NATS](https://github.com/nats-io/nats-server) - High-Performance server for NATS, the cloud native messaging system.
 - [Liftbridge](https://github.com/liftbridge-io/liftbridge) - Lightweight, fault-tolerant message streams.
+- [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora / mi jia compatibility, SMS & LORA.

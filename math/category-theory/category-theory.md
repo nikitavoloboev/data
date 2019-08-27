@@ -44,6 +44,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Category theory library for Agda](https://github.com/jmchapman/categories)
 - [Conexus Act](https://conexus.ai/ventures) - Looking for promising ventures that want to utilize category theory to pursue the latest breakthroughs in Logistics, Pharma, Aerospace, Manufacturing, Transportation and more.
 - [From design patterns to category theory (2017)](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/) ([HN](https://news.ycombinator.com/item?id=20151055))
+- [Fully formal ETCS](https://ncatlab.org/nlab/show/fully+formal+ETCS)
 
 ## Images
 

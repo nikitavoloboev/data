@@ -23,3 +23,4 @@
 - [Data > Functions > Macros. But why? (2018)](https://lispcast.com/data-functions-macros-why/)
 - [edn](https://github.com/edn-format/edn) - Extensible Data Notation. Superset of edn is used by Clojure to represent programs.
 - [spectrum](https://github.com/arohner/spectrum) - Library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time.
+- [Fast Tensors in Clojure - a Sneak Peek](https://dragan.rocks/articles/19/Fast-tensors-Clojure-sneak-peek?src=hn) ([HN](https://news.ycombinator.com/item?id=20798874))

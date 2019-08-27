@@ -32,3 +32,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Comparing the Same Project in Rust, Haskell, C++, Python, Scala and OCaml (2019)](http://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/) ([HN](https://news.ycombinator.com/item?id=20192645))
 - [Hello, World!](https://github.com/leachim6/hello-world#readme) - Hello world in every computer language.
 - [Exercism Language Tracks](https://exercism.io/my/tracks)
+- [Unison](https://github.com/unisonweb/unison) - Next generation programming language, currently in development.
