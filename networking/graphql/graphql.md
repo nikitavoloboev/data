@@ -39,3 +39,4 @@
 - [GraphQL Playground](https://github.com/prisma/graphql-playground) - GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration).
 - [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 - [GraphQL.js](https://github.com/graphql/graphql-js) - Reference implementation of GraphQL for JavaScript.
+- [Top GraphQL tutorials reviewed 2019](https://blog.graphqleditor.com/top-graphql-tutorials-reviewed-2019/)

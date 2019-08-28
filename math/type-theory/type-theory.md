@@ -31,3 +31,4 @@
 - [nbe-for-mltt](https://github.com/jozefg/nbe-for-mltt) - Normalization by Evaluation for Martin-Löf Type Theory.
 - [Martin Escardo's research](http://www.cs.bham.ac.uk/~mhe/)
 - [Lambdas are Codatatypes (2019)](http://blog.ielliott.io/lambdas-are-codatatypes/)
+- [On the Relationship Between Static Analysis and Type Theory (2019)](https://semantic-domain.blogspot.com/2019/08/on-relationship-between-static-analysis.html) ([Lobsters](https://lobste.rs/s/irow0u/on_relationship_between_static_analysis))
