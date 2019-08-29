@@ -181,6 +181,7 @@
 - [fastcache](https://github.com/VictoriaMetrics/fastcache) - Fast thread-safe inmemory cache for big number of entries in Go. Minimzes GC overhead.
 - [expr](https://github.com/antonmedv/expr) - Evaluate expression in Go.
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages.
+- [Casbin](https://github.com/casbin/casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
 
 ## Links
 

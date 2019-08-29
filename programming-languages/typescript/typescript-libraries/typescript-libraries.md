@@ -4,6 +4,7 @@
 
 - [ow](https://github.com/sindresorhus/ow) - Argument type validation.
 - [ts-toolbelt](https://github.com/pirix-gh/ts-toolbelt) - Higher type safety for TypeScript.
+- [ts-results](https://github.com/vultix/ts-results) - TypeScript implementation of Rust's Result object.
 
 ## Links
 

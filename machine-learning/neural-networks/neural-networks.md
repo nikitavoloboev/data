@@ -43,3 +43,4 @@
 - [ODIN](https://github.com/facebookresearch/odin) - Out-of-Distribution Detector for Neural Networks.
 - [Ask HN: What Neural Networks/Deep Learning Books Should I Read? (2019)](https://news.ycombinator.com/item?id=20674745)
 - [Python vs Rust for Neural Networks (2019)](https://ngoldbaum.github.io/posts/python-vs-rust-nn/) ([HN](https://news.ycombinator.com/item?id=20728288))
+- [Exploring Weight Agnostic Neural Networks (2019)](https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html) ([HN](https://news.ycombinator.com/item?id=20817083))

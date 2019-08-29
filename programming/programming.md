@@ -75,3 +75,4 @@
 - [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex) - Resources and references for the past and future of visual programming.
 - [Things I Learnt from a Senior Software Engineer (2019)](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html) ([HN](https://news.ycombinator.com/item?id=20794861))
 - [Writing system software: code comments](http://antirez.com/news/124)
+- [Ask HN: How do you handle logging? (2019)](https://news.ycombinator.com/item?id=20818106)
