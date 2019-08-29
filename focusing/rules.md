@@ -21,7 +21,7 @@ Some simple rules to follow when doing things.
 
 ## Health
 
-- [Exercise](../fitness/fitness.md). 50+ min cardio (walking/running/cycling) & 15 min bodyweight exercises or yoga daily.
+- [Exercise](../fitness/fitness.md). 40+ min (running/cycling/bodyweight/yoga).
 - Eat a [whole food, plant based diet](../health/nutrition/nutrition.md).
 - Drink lots of water & tea. Limit coffee consumption (1 cup / day max). No added sugar in drinks/food.
 - [Sleep](../sleep/sleep.md) at least 8 hours every day. Wake up & go to sleep at same time.

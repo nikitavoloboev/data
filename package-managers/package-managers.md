@@ -8,3 +8,4 @@ I use [nix](nix/nix.md) & [brew](https://brew.sh) as my package managers on macO
 - [Entropic](https://github.com/entropic-dev/entropic) - Federated package registry for anything.
 - [The economics of package management](https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md) ([Lobsters](https://lobste.rs/s/4pyvag/economics_package_management))
 - [Topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything.
+- [Repology](https://repology.org/) - Monitors a huge number of package repositories and other sources comparing packages versions across them and gathering other information.

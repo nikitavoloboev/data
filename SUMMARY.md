@@ -119,6 +119,7 @@
   - [Fourier transform](math/fourier-transform.md)
   - [Wolfram Alpha](math/wolfram-alpha.md)
   - [Automatic differentiation](math/automatic-differentiation.md)
+  - [Game theory](math/game-theory.md)
 - [Computer Science](computer-science/computer-science.md)
   - [Data Structures](computer-science/data-structures/data-structures.md)
   - [Algorithms](computer-science/algorithms/algorithms.md)

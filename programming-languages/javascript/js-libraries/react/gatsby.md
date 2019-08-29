@@ -16,6 +16,7 @@
 ## Plugins
 
 - [gatsby-remark-vscode](https://github.com/andrewbranch/gatsby-remark-vscode) - Gatsby plugin to provide VS Code’s syntax highlighting to Markdown code fences.
+- [gatsby-plugin-ebook](https://github.com/cowchimp/gatsby-plugin-ebook) - Creates an ebook from your Gatsby posts.
 
 ## Links
 

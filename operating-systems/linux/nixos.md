@@ -48,3 +48,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS on ARM](https://github.com/illegalprime/nixos-on-arm) - WIP to cross compile NixOS to run on ARM targets.
 - [Arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS.
 - [Morph](https://github.com/DBCDK/morph) - Tool for managing existing NixOS hosts.
+- [Mobile NixOS](https://github.com/samueldr/mobile-nixos) - Goal is to get a nix-built operating system, preferably NixOS running on mobile devices, e.g. Android phones.

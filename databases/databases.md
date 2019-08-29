@@ -25,6 +25,7 @@
 - [Atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.
 - [Pebble](https://github.com/petermattis/pebble) - RocksDB/LevelDB inspired key-value database in Go.
 - [LogDevice](https://github.com/facebookincubator/LogDevice) - Distributed storage for sequential data.
+- [SQLite](https://github.com/mackyle/sqlite) - C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
 
 ## Tools
 
