@@ -6,3 +6,4 @@
 - [Web Performance Mini Series: Animations (2019)](https://www.youtube.com/watch?v=ohc8ejzSn48)
 - [tachometer](https://github.com/Polymer/tachometer) - Statistically rigorous benchmark runner for the web.
 - [Idle Until Urgent (2018)](https://philipwalton.com/articles/idle-until-urgent/)
+- [bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.

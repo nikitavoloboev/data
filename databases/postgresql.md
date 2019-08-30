@@ -25,3 +25,4 @@
 - [postgres-operator](https://github.com/CrunchyData/postgres-operator) - Controller that runs within a Kubernetes cluster that provides a means to deploy and manage PostgreSQL clusters.
 - [Fastest Way to Load Data Into PostgreSQL Using Python (2019)](https://hakibenita.com/fast-load-data-python-postgresql)
 - [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way.
+- [The Art of PostgreSQL](https://theartofpostgresql.com/) - Book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries.

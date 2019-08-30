@@ -20,3 +20,4 @@
 - [Lobster](http://strlen.com/lobster/) - General purpose stand-alone programming language that comes with a built-in library suitable for making games and other graphical things.
   - [Lobster Design Philosophy, History, and Future](https://htmlpreview.github.io/?https://raw.githubusercontent.com/aardappel/lobster/master/lobster/docs/philosophy.html)
 - [Open Source Game Clones](https://osgameclones.com/)
+- [Flecs](https://github.com/SanderMertens/flecs) - Multithreaded Entity Component System written for C89 & C99.

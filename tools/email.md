@@ -17,3 +17,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Composing better emails (2019)](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - Tips for composing effective emails avoiding misunderstandings. ([Lobsters](https://lobste.rs/s/3vfgoc/composing_better_emails))
 - [gmailfilters](https://github.com/jessfraz/gmailfilters) - Tool to sync Gmail filters from a config file to your account.
 - [Rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
+- [JMAP](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification.
