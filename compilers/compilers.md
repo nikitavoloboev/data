@@ -29,3 +29,4 @@
 - [BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries.
 - [Intel(r) SPMD Program Compiler](https://github.com/ispc/ispc) - Compiler for a variant of the C programming language, with extensions for single program, multiple data programming.
 - [hobbes](https://github.com/Morgan-Stanley/hobbes) - Language and an embedded JIT compiler.
+- [Crafting Interpreters book](http://craftinginterpreters.com/)

@@ -20,3 +20,4 @@
 - [Ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust.
 - [dalek cryptography](https://github.com/dalek-cryptography) - Fast, safe, pure-rust elliptic curve cryptography.
 - [Trillian](https://github.com/google/trillian) - Transparent, highly scalable and cryptographically verifiable data store.
+- [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)

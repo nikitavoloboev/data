@@ -98,3 +98,4 @@
 - [Terser](https://github.com/terser-js/terser) - JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+.
 - [AppAuthJS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [tonal](https://github.com/tonaljs/tonal) - Functional music theory library for JavaScript.
+- [expr-eval](https://github.com/silentmatt/expr-eval) - Mathematical expression evaluator in JavaScript.

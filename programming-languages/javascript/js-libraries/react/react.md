@@ -75,3 +75,4 @@
 - [Fusion.js](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps.
 - [React Live](https://github.com/FormidableLabs/react-live) - Production-focused playground for live editing React code.
 - [React/Redux Links](https://github.com/markerikson/react-redux-links#readme)
+- [TypeScript React Cheat Sheet](https://www.saltycrane.com/typescript-react-cheat-sheet/latest/) - List of TypeScript types generated from the declaration files for react, react-dom, react-native and other libraries.
