@@ -28,3 +28,4 @@
 - [cpp-httplib](https://github.com/yhirose/cpp-httplib) - C++ single-file header-only cross platform HTTP/HTTPS library.
 - [Proxygen](https://github.com/facebook/proxygen) - Collection of C++ HTTP libraries including an easy to use HTTP server.
 - [RESTinio](https://github.com/Stiffstream/restinio) - Header-only C++14 library that gives you an embedded HTTP/Websocket server.
+- [Enoki](https://github.com/mitsuba-renderer/enoki) - Structured vectorization and differentiation on modern processor architectures.

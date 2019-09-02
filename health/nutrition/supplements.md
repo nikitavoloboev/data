@@ -8,11 +8,17 @@
 - [Magnesium Glycinate](https://www.amazon.co.uk/gp/product/B00ENF72TA/ref=ox_sc_act_title_3?smid=A3P5ROKL5A1OLE&psc=1) (2 tablet)
 - [Omega 3 DHA+EPA from Algae oil](https://www.amazon.co.uk/gp/product/B015QB57FU/ref=ox_sc_act_title_4?smid=A3E1W8LX91Q6YX&psc=1) (1 tablet)
 - [Vitamin B12](https://www.amazon.co.uk/gp/product/B01N5RGV8U/ref=ox_sc_act_title_2?smid=A3FUWIVN918VYA&psc=1) (1 tablet) (1000 mcg)
-- [Lions Mane Extract](https://shop.realmushrooms.com/products/organic-lions-mane-extract-capsules) (2 tablets) (500 mg)
-- [Activated Sulforaphane from Broccoli Sprout Extract + Matcha Green Tea](https://www.amazon.co.uk/gp/product/B00JGX9Q8E/ref=ox_sc_act_title_1?smid=A3IBZ7QCUHTXB6&psc=1) (1 tablet) (15000 mg)
-- [Organic Turmeric Curcumin with Organic Black Pepper & Organic Ginger](https://www.amazon.co.uk/Organic-Turmeric-Curcumin-Capsules-Certified/dp/B0772QQX76/ref=sr_1_4?keywords=turmeric&qid=1560618897&s=drugstore&sr=1-4) (1 tablet) (1380 mg)
 
 Everything else I try to get from [food](foods.md).
+
+### Taken daily in the evening
+
+- [Lions Mane Extract](https://shop.realmushrooms.com/products/organic-lions-mane-extract-capsules) (2 tablets) (500 mg)
+
+### Taken less frequently (in morning)
+
+- [Activated Sulforaphane from Broccoli Sprout Extract + Matcha Green Tea](https://www.amazon.co.uk/gp/product/B00JGX9Q8E/ref=ox_sc_act_title_1?smid=A3IBZ7QCUHTXB6&psc=1) (1 tablet) (15000 mg)
+- [Organic Turmeric Curcumin with Organic Black Pepper & Organic Ginger](https://www.amazon.co.uk/Organic-Turmeric-Curcumin-Capsules-Certified/dp/B0772QQX76/ref=sr_1_4?keywords=turmeric&qid=1560618897&s=drugstore&sr=1-4) (1 tablet) (1380 mg)
 
 ## Links
 
