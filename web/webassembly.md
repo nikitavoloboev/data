@@ -36,3 +36,4 @@
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - Your favorite rust -> wasm workflow tool.
 - [M3/Wasm](https://github.com/soundandform/m3) - High performance WebAssembly interpreter in C.
 - [WebAssembly Tool Conventions](https://github.com/WebAssembly/tool-conventions) - Conventions supporting interoperatibility between tools working with WebAssembly.
+- [go-web-app](https://github.com/talentlessguy/go-web-app) - CLI for setting up Go WebAssembly frontend app.

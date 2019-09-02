@@ -182,6 +182,7 @@
 - [expr](https://github.com/antonmedv/expr) - Evaluate expression in Go.
 - [compress](https://github.com/klauspost/compress) - Optimized compression packages.
 - [Casbin](https://github.com/casbin/casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
+- [JobRunner](https://github.com/bamzi/jobrunner) - Framework for performing work asynchronously, outside of the request flow.
 
 ## Links
 

@@ -39,3 +39,4 @@
 - [Curated list of awesome ETL frameworks, libraries, and software](https://github.com/pawl/awesome-etl#readme)
 - [Ibis](https://github.com/ibis-project/ibis) - Python data analysis framework for Hadoop and SQL engines.
 - [Kyso](https://kyso.io/) - Data analytics knowledge hub.
+- [Feather](https://github.com/wesm/feather) - Fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow.
