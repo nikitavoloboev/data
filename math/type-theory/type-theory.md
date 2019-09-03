@@ -32,3 +32,4 @@
 - [Martin Escardo's research](http://www.cs.bham.ac.uk/~mhe/)
 - [Lambdas are Codatatypes (2019)](http://blog.ielliott.io/lambdas-are-codatatypes/)
 - [On the Relationship Between Static Analysis and Type Theory (2019)](https://semantic-domain.blogspot.com/2019/08/on-relationship-between-static-analysis.html) ([Lobsters](https://lobste.rs/s/irow0u/on_relationship_between_static_analysis))
+- [Timeline for Logic, λ-Calculus, and Programming Language Theory (2012)(http://fm.csl.sri.com/SSFT15/Timeline.pages.pdf) ([HN](https://news.ycombinator.com/item?id=20860888))

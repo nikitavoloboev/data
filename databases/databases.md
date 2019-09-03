@@ -27,6 +27,7 @@
 - [LogDevice](https://github.com/facebookincubator/LogDevice) - Distributed storage for sequential data.
 - [SQLite](https://github.com/mackyle/sqlite) - C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
 - [rqlite](https://github.com/rqlite/rqlite) - Lightweight, distributed relational database built on SQLite.
+- [gStore](https://github.com/pkumod/gStore) - Graph database engine for managing large graph-structured data.
 
 ## Tools
 

@@ -75,3 +75,4 @@
 - [Awesome Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable.
 - [Rust CLI working group](https://github.com/rust-lang-nursery/cli-wg)
+- [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust.

@@ -11,3 +11,4 @@
 - [Binary pattern matching in Elixir with PNG parsing example](https://zohaib.me/binary-pattern-matching-in-elixir/)
 - [Using Rust to Scale Elixir for 11 Million Concurrent Users (2019)](https://blog.discordapp.com/using-rust-to-scale-elixir-for-11-million-concurrent-users-c6f19fc029d3)
 - [Cleaning up your Elixir Code (2019)](https://struggling.dev/clean-code/)
+- [Animating a Canvas with Phoenix LiveView (2019)](http://www.petecorey.com/blog/2019/09/02/animating-a-canvas-with-phoenix-liveview/)

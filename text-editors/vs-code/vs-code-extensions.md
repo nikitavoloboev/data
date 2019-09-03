@@ -9,6 +9,7 @@ Below is a list of extensions I use.
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Convenient way of creating, duplicating, moving, renaming and deleting files and directories.
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
 - [Protobuf 3 support](https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3)
 
 ## Go

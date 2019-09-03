@@ -54,6 +54,7 @@
 - [High-level notes about TypeScript](https://github.com/orta/typescript-notes)
 - [TypeCov](https://github.com/codechecks/typecov) - Track missing type coverage to ensure type safety.
 - [Typescript Generics Tutorial (2019)](https://www.youtube.com/watch?v=nViEqpgwxHE)
+- [ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper. Provides an easier way to navigate and manipulate TypeScript and JavaScript code.
 
 ## Images
 
