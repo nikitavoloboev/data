@@ -99,3 +99,4 @@
 - [AppAuthJS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [tonal](https://github.com/tonaljs/tonal) - Functional music theory library for JavaScript.
 - [expr-eval](https://github.com/silentmatt/expr-eval) - Mathematical expression evaluator in JavaScript.
+- [robust-predicates](https://github.com/mourner/robust-predicates) - Fast robust predicates for computational geometry in JavaScript.
