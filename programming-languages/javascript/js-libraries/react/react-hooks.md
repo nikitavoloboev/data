@@ -23,3 +23,4 @@
 - [Fun with React Hooks - Michael Jackson and Ryan Florence (2019)](https://www.youtube.com/watch?v=1jWS7cCuUXw)
 - [Awesome React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme)
 - [Handling Large-Scale State-Management with Context and Hooks by Roy Derks (2019)](https://www.youtube.com/watch?v=GxjDRjpoMJg)
+- [How to implement useState with useReducer (2019)](https://kentcdodds.com/blog/how-to-implement-usestate-with-usereducer)
