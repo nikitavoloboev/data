@@ -51,6 +51,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Jeff Atwood: Stack Overflow and Coding Horror (2018)](https://overcast.fm/+OcVcU40LY)
 - [Professor Philip Wadler on Plutus (2018)](https://overcast.fm/+PkjerUhVU)
 - [Inventing the Future](https://overcast.fm/+Ei1CsK-Jg) - Josh Wolfe, co-founder of Lux Capital discusses how to unearth the unexplored ideas that will reshape our future.
+- [Joe Rogan Experience - John Carmack (2019)](https://overcast.fm/+uREauU)
 
 ## Interesting episodes
 

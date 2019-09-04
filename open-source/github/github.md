@@ -45,3 +45,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Nice Contribution Guidelines template](https://github.com/tazjin/crimp/blob/master/CONTRIBUTING.md)
 - [Collection of GitHub issue and pull request templates](https://github.com/stevemao/github-issue-templates)
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+- [GitHub users with most contributors (worldwide)](https://github.com/lauripiispanen/github-top/blob/master/_data/locations/worldwide.yml) - Can also see by [location](https://github.com/lauripiispanen/github-top/tree/master/_data/locations).

@@ -33,3 +33,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Hello, World!](https://github.com/leachim6/hello-world#readme) - Hello world in every computer language.
 - [Exercism Language Tracks](https://exercism.io/my/tracks)
 - [Unison](https://github.com/unisonweb/unison) - Next generation programming language, currently in development.
+- [TabNine](https://github.com/zxqfl/TabNine/) - All-language ML autocompleter.

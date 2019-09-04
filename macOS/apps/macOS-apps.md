@@ -14,6 +14,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Gifski](https://github.com/sindresorhus/gifski-app) - Convert videos to high-quality GIFs on your Mac.
 - [Sourceful](https://github.com/twostraws/Sourceful) - Native source editor for iOS and macOS.
 - [Shifty](https://github.com/thompsonate/Shifty) - MacOS menu bar app that gives you more control over Night Shift.
+- [Seashore](https://github.com/robaho/seashore) - Easy to use mac osx image editing application, gimp light.
 
 ## Links
 
@@ -23,3 +24,4 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Ship app open source code](https://www.realartists.com/blog/ship-is-open-source.html) - Amazing GitHub native client that was closed down.
 - [Collection of open and indie Mac, iOS, and web apps that help promote the open web](https://macopenweb.com/)
 - [Dashing](https://github.com/technosophos/dashing) - Generate Dash documentation from HTML.
+- [yabai](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS based on binary space partitioning.

@@ -30,3 +30,4 @@
 - [Cellular Forms](https://github.com/fogleman/CellularForms) - Implementation of Andy Lomas' Cellular Forms.
 - [Physically Based Rendering](https://github.com/Nadrin/PBR) - Implementation of physically based shading model & image based lighting in various graphics APIs.
 - [Bild](https://github.com/anthonynsimon/bild) - Collection of parallel image processing algorithms in pure Go.
+- [Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization.
