@@ -43,6 +43,7 @@ Some simple rules to follow when doing things.
 - Use noise canceling headphones if surroundings are too noisy.
 - Don't waste time. Step back and reflect on what I do.
 - Build useful tools. Create art.
+- Think.
 
 ## Work
 

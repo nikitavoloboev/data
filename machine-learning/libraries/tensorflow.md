@@ -17,3 +17,4 @@
 - [Blocksparse](https://github.com/openai/blocksparse) - Efficient GPU kernels for block-sparse matrix multiplication and convolution.
 - [TensorFlow.js converter](https://github.com/tensorflow/tfjs-converter) - Convert TensorFlow SavedModel and Keras models to TensorFlow.js.
 - [tfjs-node](https://github.com/tensorflow/tfjs-node) - TensorFlow backend for TensorFlow.js via Node.js
+- [Neural Structured Learning in TensorFlow](https://github.com/tensorflow/neural-structured-learning)

@@ -15,3 +15,4 @@
 - [Awesome Elm](https://github.com/sporto/awesome-elm#readme)
 - [elm-format](https://github.com/avh4/elm-format) - Formats Elm source code according to a standard set of rules based on the official Elm Style Guide.
 - [Elm Projects](https://github.com/elm/projects) - Curated collection of projects for folks looking to collaborate within the Elm ecosystem.
+- [Elm Core Libraries](https://github.com/elm/core)

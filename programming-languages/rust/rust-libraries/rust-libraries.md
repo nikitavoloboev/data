@@ -120,6 +120,7 @@
 - [Surf](https://github.com/rustasync/surf) - Friendly HTTP client built for casual Rustaceans and veterans alike.
 - [async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library.
 - [petgraph](https://github.com/bluss/petgraph) - Graph data structure library for Rust.
+- [failure](https://github.com/rust-lang-nursery/failure) - Designed to make it easier to manage errors in Rust.
 
 ## Cargo Plugins
 

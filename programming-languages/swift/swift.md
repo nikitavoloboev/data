@@ -49,3 +49,4 @@
 - [llbuild](https://github.com/apple/swift-llbuild) - Low-level build system, used by Xcode and the Swift Package Manager.
 - [Accio](https://github.com/JamitLabs/Accio) - Dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
 - [TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0.
+- [Differentiable Programming Mega-Proposal (2019)](https://forums.swift.org/t/differentiable-programming-mega-proposal/28547)
