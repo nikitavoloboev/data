@@ -46,3 +46,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Full Node](https://github.com/input-output-hk/jormungandr) - Aspiring blockchain node.
 - [Concordium](https://www.concordium.com/) - Improved smart contract platform and ecosystem for real-world businesses.
 - [NEAR Protocol](https://github.com/nearprotocol/nearcore) - Scalable and usable blockchain.
+- [Harmony](https://github.com/harmony-one/harmony) - Core protocol of harmony.

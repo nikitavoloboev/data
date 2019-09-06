@@ -40,3 +40,4 @@
 - [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a Node.js module.
 - [stringio](https://github.com/rauschma/stringio) - Convert strings to Node.js streams and vice versa.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
+- [TaskBotJS](https://github.com/eropple/taskbotjs) - Best JavaScript/TypeScript job processing framework on the planet.
