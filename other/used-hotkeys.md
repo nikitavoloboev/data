@@ -59,6 +59,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 ## OPT+SHIFT+CMD
 
+- 5 - PixelSnap
 - 6 - Toggle Night Shift on/off.
 - 7 - Selection -> Google Lucky
 - 8 - Selection -> SnippetsLab snippet

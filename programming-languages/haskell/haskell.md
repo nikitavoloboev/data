@@ -75,3 +75,5 @@
 - [Simon Peyton Jones how GHC type inference engine actually works (2019)](https://www.youtube.com/watch?v=x3evzO8O9e8)
 - [Chris Penner - Comonads by Example (2019)](https://www.youtube.com/watch?v=HOmOQnQGtPU&list=PLcAu_kKy-krxDD1WwRX_9rc0knAFK3nHs&index=7)
 - [Haskell Disappointment (2019)](https://gist.github.com/nrinaudo/b02d0d17f62b6babea60cb0b52ded287) ([Reddit](https://www.reddit.com/r/haskell/comments/cyfs94/someones_haskell_disappointment_gist_i_came_across/))
+- [MuniHac 2019: Making a Haskell IDE (2019)](https://www.youtube.com/watch?v=cijsaeWNf2E&list=PLxxF72uPfQVRdAsvj7THoys-nVj-oc4Ss) ([Slides](https://ndmitchell.com/downloads/slides-making_a_haskell_ide-07_sep_2019.pdf))
+- [hie-core (Haskell IDE engine)](https://github.com/digital-asset/daml/tree/master/compiler/hie-core#readme)

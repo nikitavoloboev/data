@@ -222,9 +222,10 @@ Some simple rules to follow when doing things.
 - Reduce noise. Don't follow any person or content I have no interest in.
 - Don't have more than 2 level of separation for filtering. (i.e. Top 1 / Top 2 lists on Twitter but no Top 3). Filter aggressively. Optimize for actionable/useful signal.
 
-## Social media
+## Social networks
 
 - Have same profile picture across all social networks for consistency and profiles.
+- Use social networks with a purpose. Only add people that matter to me and are useful. Filter aggressively.
 
 ## Privacy
 

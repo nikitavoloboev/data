@@ -382,6 +382,7 @@
   - [RSS](web/rss.md)
   - [Web accessibility](web/web-accessibility.md)
   - [Content management systems](web/cms.md)
+  - [JAMstack](web/jamstack.md)
 - [Cloud computing](cloud-computing/cloud-computing.md)
   - [Serverless computing](cloud-computing/serverless-computing/serverless-computing.md)
     - [Cloudflare workers](cloud-computing/serverless-computing/cloudflare-workers.md)

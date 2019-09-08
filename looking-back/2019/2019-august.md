@@ -14,7 +14,7 @@ My current [habits](../../focusing/habits.md):
 
 ![](https://i.imgur.com/NJjPn8X.jpg)
 
-Don't see myself changing them any time soon. Super happy about these 12 essential to me daily habits. Listening to [Why we sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) book is eye opening as to how useful sleep is to our lives. If there is one thing you can't sacrifice in life, it is sleep. I love not waking up without alarms and having my body take all the time it needs to process my memories and heal.
+Don't see myself changing them any time soon. Super happy about these 12 essential to me daily habits. Listening to [Why we sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) book is eye opening as to how useful sleep is to our lives. If there is one thing you can't sacrifice in life, it is sleep. I love waking up without alarms and having my body take all the time it needs to process my memories and heal.
 
 A long summary of the month with many things happening to my personal life and development that on the surface seem small and non worthy to talk about. Just need to put myself into more environments that force me to grow as a person. Meet people. Build things. Share. And be open.
 
