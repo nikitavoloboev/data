@@ -76,3 +76,4 @@
 - [Data Structures and Algorithms in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 - [JavaScript & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices#readme)
 - [Just](https://github.com/microsoft/just) - Library that organizes build tasks for your JS projects.
+- [ECMAScript® 2019 Language Specification](https://www.ecma-international.org/ecma-262/10.0/index.html)

@@ -14,6 +14,8 @@
 - [Unform](https://github.com/Rocketseat/unform) - ReactJS form library to create uncontrolled form structures with nested fields, validations and much more.
 - [use-inline-memo](https://github.com/andywer/use-inline-memo) - React hook for memoizing values inline anywhere in a component.
 - [React Navigation Hooks](https://github.com/react-navigation/hooks) - React hooks for convenient react-navigation use.
+- [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
+- [Hooks.Guide](https://github.com/Raathigesh/hooks.guide) - Collection of React hooks curated by the community.
 
 ## Links
 

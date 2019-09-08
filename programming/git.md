@@ -57,3 +57,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-secret](https://github.com/sobolevn/git-secret) - Bash-tool to store your private data inside a git repository.
 - [pre-commit](https://github.com/pre-commit/pre-commit) - Framework for managing and maintaining multi-language pre-commit hooks.
 - [git-o-matic](https://github.com/muesli/gitomatic) - Tool to monitor git repositories and automatically pull & push changes.
+- [GitGraph.js](https://github.com/nicoespeon/gitgraph.js) - JavaScript library to draw pretty git graphs in the browser.

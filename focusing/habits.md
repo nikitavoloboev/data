@@ -2,9 +2,9 @@
 
 I use [Streaks](https://streaksapp.com) iOS app to track my essential life habits. There are 12 of them & I want to complete them all for a perfect day.
 
-![](https://i.imgur.com/zI3dtgO.jpg)
+![](https://i.imgur.com/Mx2Pd4F.jpg)
 
-![](https://i.imgur.com/dUxwGhz.jpg)
+![](https://i.imgur.com/NJjPn8X.jpg)
 
 I also keep top habits I try to follow through in life on display in my [Focus board](focusing.md). And I try to follow some [rules](rules.md) I set for myself.
 

@@ -4,20 +4,21 @@
 
 ### Taken daily in morning/afternoon
 
-- [Vitamin D3](https://www.amazon.co.uk/gp/product/B00X0ZCE2O/ref=ox_sc_act_title_5?smid=A3P5ROKL5A1OLE&psc=1) (1 tablet) (4000 IU)
-- [Magnesium Glycinate](https://www.amazon.co.uk/gp/product/B00ENF72TA/ref=ox_sc_act_title_3?smid=A3P5ROKL5A1OLE&psc=1) (2 tablets)
-- [Omega 3 DHA+EPA from Algae oil](https://www.amazon.co.uk/gp/product/B015QB57FU/ref=ox_sc_act_title_4?smid=A3E1W8LX91Q6YX&psc=1) (1 tablet)
-- [Vitamin B12](https://www.amazon.co.uk/gp/product/B01N5RGV8U/ref=ox_sc_act_title_2?smid=A3FUWIVN918VYA&psc=1) (1 tablet) (1000 mcg)
+- [Vitamin D3](https://www.amazon.co.uk/gp/product/B00X0ZCE2O) (1 tablet) (4000 IU)
+- [Magnesium Glycinate](https://www.amazon.co.uk/gp/product/B00ENF72TA) (2 tablets)
+- [Omega 3 DHA+EPA from Algae oil](https://www.amazon.co.uk/gp/product/B015QB57FU) (1 tablet)
+- [Vitamin B12](https://www.amazon.co.uk/gp/product/B01N5RGV8U) (1 tablet) (1000 mcg)
 
 ### Taken daily in evening
 
 - [Lions Mane Extract](https://shop.realmushrooms.com/products/organic-lions-mane-extract-capsules) (2 tablets) (500 mg)
-- [Magnesium Glycinate](https://www.amazon.co.uk/gp/product/B00ENF72TA/ref=ox_sc_act_title_3?smid=A3P5ROKL5A1OLE&psc=1) (2 tablets)
+- [Magnesium Glycinate](https://www.amazon.co.uk/gp/product/B00ENF72TA) (2 tablets)
 
 ### Taken less frequently in morning/afternoon
 
-- [Activated Sulforaphane from Broccoli Sprout Extract + Matcha Green Tea](https://www.amazon.co.uk/gp/product/B00JGX9Q8E/ref=ox_sc_act_title_1?smid=A3IBZ7QCUHTXB6&psc=1) (1 tablet) (15000 mg)
-- [Organic Turmeric Curcumin with Organic Black Pepper & Organic Ginger](https://www.amazon.co.uk/Organic-Turmeric-Curcumin-Capsules-Certified/dp/B0772QQX76/ref=sr_1_4?keywords=turmeric&qid=1560618897&s=drugstore&sr=1-4) (1 tablet) (1380 mg)
+- [Activated Sulforaphane from Broccoli Sprout Extract + Matcha Green Tea](https://www.amazon.co.uk/gp/product/B00JGX9Q8E) (1 tablet) (15000 mg)
+- [Organic Turmeric Curcumin with Organic Black Pepper & Organic Ginger](https://www.amazon.co.uk/Organic-Turmeric-Curcumin-Capsules-Certified/dp/B0772QQX76) (1 tablet) (1380 mg)
+- [Broccoli Sprout Extract + Matcha Green Tea](https://www.amazon.co.uk/Broccoli-Activated-Sulforaphane-Equivalent-Antioxidant/dp/B00JGX9Q8E/)
 
 Everything else I try to get from [food](foods.md).
 

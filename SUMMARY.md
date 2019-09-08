@@ -682,3 +682,4 @@
     - [2019 May](looking-back/2019/2019-may.md)
     - [2019 June](looking-back/2019/2019-june.md)
     - [2019 July](looking-back/2019/2019-july.md)
+    - [2019 August](looking-back/2019/2019-august.md)
