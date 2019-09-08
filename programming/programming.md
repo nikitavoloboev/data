@@ -78,3 +78,4 @@
 - [Ask HN: How do you handle logging? (2019)](https://news.ycombinator.com/item?id=20818106)
 - [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
 - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) ([HN](https://news.ycombinator.com/item?id=20890682))
+- [Ask HN: What Have You Learned at Google as a Software Engineer? (2019)](https://news.ycombinator.com/item?id=20911340)

@@ -86,3 +86,4 @@
 - [How to Become a Pure Mathematician (or Statistician)](http://hbpms.blogspot.com/)
 - [Chicago undergraduate mathematics bibliography](https://github.com/ystael/chicago-ug-math-bib)
 - [Ask HN: Best resources to gain math intuition? (2019)](https://news.ycombinator.com/item?id=20804582)
+- [The Riemann Hypothesis (2019)](https://golem.ph.utexas.edu/category/2019/09/the_riemann_hypothesis_part_1.html) ([HN](https://news.ycombinator.com/item?id=20912380))
