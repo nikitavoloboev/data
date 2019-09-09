@@ -117,6 +117,7 @@ Some simple rules to follow when doing things.
 - Delimit files that have spaces with `-` instead of `_`.
 - Use switch cases over long ifs.
 - Function name should describe what it does, not when it's run. Good function names summarize what happens inside.
+- Make sure to copy things correctly, when copying from docs/internet.
 
 ## Commenting
 

@@ -53,6 +53,7 @@
 - [stated-bean](https://github.com/mjolnirjs/stated-bean) - Light but scalable state management library with react hooks, inspired by unstated-next.
 - [react-diagrams](https://github.com/projectstorm/react-diagrams) - Super simple, no-nonsense diagramming library written in react that just works.
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
+- [react-day-picker](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
 
 ## Links
 

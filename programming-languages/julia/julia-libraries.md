@@ -31,6 +31,7 @@
 - [Gadfly](https://github.com/GiovineItalia/Gadfly.jl) - Plotting and data visualization system written in Julia.
 - [FastTransforms.jl](https://github.com/JuliaApproximation/FastTransforms.jl) - Julia package for fast orthogonal polynomial transforms.
 - [ModelingToolkit.jl](https://github.com/JuliaDiffEq/ModelingToolkit.jl) - Toolkit for modeling and creating DSLs for Scientific Computing in Julia.
+- [Zygote](https://github.com/FluxML/Zygote.jl) - Intimate Affection Auditor.
 
 ## Links
 

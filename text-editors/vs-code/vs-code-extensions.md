@@ -43,6 +43,14 @@ Below is a list of extensions I use.
 - [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) - Develop, deploy and debug Kubernetes applications.
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easily build and deploy containerized applications from VS Code.
 
+## Nix
+
+- [Nix language support](https://marketplace.visualstudio.com/items?itemName=bbenoist.Nix)
+
+## Haskell
+
+- [Simple Haskell support using only GHCi](https://marketplace.visualstudio.com/items?itemName=dramforever.vscode-ghc-simple)
+
 ## Theme
 
 - [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-night#readme)
@@ -152,7 +160,6 @@ Below is a list of extensions I use.
 
 ## Haskell
 
-- [Simple Haskell support using only GHCi](https://marketplace.visualstudio.com/items?itemName=dramforever.vscode-ghc-simple)
 - [Haskell Language Server Client](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - Client interface to the Language Server Protocol server for Haskell, as provided by the Haskell IDE Engine.
 - [Haskell Language](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) - Adds highlighting support for Haskell.
 
@@ -175,10 +182,6 @@ Below is a list of extensions I use.
 ## Elm
 
 - [Elm](https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode) - Improving your Elm experience since 2019.
-
-## Nix
-
-- [Nix language support](https://marketplace.visualstudio.com/items?itemName=bbenoist.Nix)
 
 ## Julia
 

@@ -184,6 +184,7 @@
 - [Casbin](https://github.com/casbin/casbin) - Authorization library that supports access control models like ACL, RBAC, ABAC in Golang.
 - [JobRunner](https://github.com/bamzi/jobrunner) - Framework for performing work asynchronously, outside of the request flow.
 - [v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go.
+- [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go.
 
 ## Links
 

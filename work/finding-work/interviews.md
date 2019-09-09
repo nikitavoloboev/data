@@ -39,3 +39,4 @@
 - [How NOT to hire a software engineer (2019)](http://tonsky.me/blog/hiring/) ([HN](https://news.ycombinator.com/item?id=19541617))
 - [30 seconds of interviews](https://30secondsofinterviews.org/) - Curated collection of common interview questions to help you prepare for your next interview. [OSS](https://github.com/30-seconds/30-seconds-of-interviews).
 - [You've probably seen a bunch of rants on why "do thing with linked list" is a terrible interview question. I'd like to explain why "do thing with linked list" is an interview question in the first place. Buckle up everyone, it's time for some history](https://mobile.twitter.com/hillelogram/status/962424365819277312)
+- [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
