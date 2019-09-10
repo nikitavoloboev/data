@@ -79,3 +79,4 @@
 - [hie-core (Haskell IDE engine)](https://github.com/digital-asset/daml/tree/master/compiler/hie-core#readme)
 - [llvm-hs](https://github.com/llvm-hs/llvm-hs) - Haskell bindings for LLVM.
 - [Releaser](https://github.com/domenkozar/releaser) - Automation of Haskell package release process.
+- [CodeWorld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell.

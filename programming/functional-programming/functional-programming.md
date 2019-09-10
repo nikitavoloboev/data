@@ -35,6 +35,7 @@
 - [Postmodern Programming](https://github.com/robrix/Postmodern-Programming/blob/master/Postmodern%20Programming.md) - Talk about declarative programming in and around imperative code: what, why, and how.
 - [The Science of Functional Programming book](https://github.com/winitzki/sofp)
 - [Foundation of functional programming course](https://github.com/fp-tower/foundation)
+- [Discrete Mathematics and Functional Programming book (2012)](http://cs.wheaton.edu/~tvandrun/dmfp/)
 
 ## Images
 
