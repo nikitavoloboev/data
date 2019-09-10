@@ -8,3 +8,5 @@
 - [Primer on statistical mechanics for biochemists](https://github.com/jchodera/statmech-for-biochemists)
 - [Kindred](https://github.com/jakelever/kindred) - Python biomedical relation extraction package that uses a supervised approach (i.e. needs training data).
 - [fastq-rs](https://github.com/aseyboldt/fastq-rs) - Can process fastq files at about the speed of the coreutils.
+- [nglview](https://github.com/arose/nglview) - Jupyter widget to interactively view molecular structures and trajectories.
+- [ngl](https://github.com/arose/ngl) - WebGL protein viewer.

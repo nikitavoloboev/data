@@ -405,14 +405,6 @@ Some simple rules to follow when doing things.
 - Yellow arrows & text is much nicer than red when annotating on screenshots with Annotate.
 - Don't play games on mac. Use more suitable platforms for it like Windows/PS4.
 
-## Shell
-
-- Install packages with [nix](../package-managers/nix/nix.md) always. If package not available, make a derivation myself.
-
-## Calendar
-
-- Always plan the next day ahead of me with events. Adjust the schedule on the day only where necessary. Stay true to the schedule.
-
 ## Safari
 
 - Only bookmark personal information and links. The rest should be available via [curated lists](https://github.com/learn-anything/curated-lists#readme).
