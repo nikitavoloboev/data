@@ -62,3 +62,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Python wrapper for Wikipedia](https://github.com/martin-majlis/Wikipedia-API)
 - [Code samples from Eli Bendersky's blog](https://github.com/eliben/code-for-blog)
 - [Awesome Developer Relations resources](https://github.com/devrelcollective/awesome-devrel#readme)
+- [VeoLuz](https://github.com/jaredly/veoluz) - Visualize the paths of millions of light rays through reflection, refraction and diffusion.

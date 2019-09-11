@@ -6,3 +6,4 @@
 - [Rich Harris - Rethinking reactivity (2019)](https://www.youtube.com/watch?v=AdNJ3fydeao)
 - [Sapper](https://sapper.svelte.dev/) - Framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing. [OSS](https://github.com/sveltejs/sapper).
 - [Awesome Svelte resources](https://github.com/ryanatkn/awesome-svelte-resources#readme)
+- [Svelte Language Server](https://github.com/UnwrittenFun/svelte-language-server)
