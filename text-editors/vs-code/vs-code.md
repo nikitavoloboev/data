@@ -22,3 +22,4 @@ I use VS Code [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-
 - [Visual Studio Live Share Docs & Feedback](https://github.com/MicrosoftDocs/live-share#readme)
 - [code-server](https://github.com/codercom/code-server) - Run VS Code on a remote server.
 - [sshcode](https://github.com/codercom/sshcode) - CLI to automatically install and run code-server over SSH.
+- [Vim to Code](https://github.com/asantos00/vim-to-code) - Comprehensive (almost) list of resources, tutorials, and inspiration for migrating to Visual Studio code from Vim.
