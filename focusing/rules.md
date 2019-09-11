@@ -118,6 +118,7 @@ Some simple rules to follow when doing things.
 - Use switch cases over long ifs.
 - Function name should describe what it does, not when it's run. Good function names summarize what happens inside.
 - Make sure to copy things correctly, when copying from docs/internet.
+- Open draft PRs for WIP changes, saying what else should be added or considered in `Notes for reviewers` or the related issue. This opens PR for preliminary feedback.
 
 ## Commenting
 

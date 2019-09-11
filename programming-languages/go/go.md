@@ -109,3 +109,4 @@ Go promotes composition over inheritance.
 - [Redress](https://github.com/goretk/redress) - Tool for analyzing stripped binaries.
 - [Ask HN: Is there a project based book or course on Go for writing web APIs? (2019)](https://news.ycombinator.com/item?id=20704993)
 - [Data Structure Libraries and Algorithms implementation in Go](https://github.com/x899/algorithms)
+- [GitHub Actions for Go](https://github.com/mvdan/github-actions-golang) - Using GitHub Actions as CI effectively for Go.

@@ -79,3 +79,4 @@
 - [ECMAScript® 2019 Language Specification](https://www.ecma-international.org/ecma-262/10.0/index.html)
 - [André Staltz: Two Fundamental Abstractions - Uphill Conf 2018](https://www.youtube.com/watch?v=fdol03pcvMA)
 - [JSMonday](http://www.jsmonday.dev/) - Weekly JS inspiration.
+- [Chevrotain](https://github.com/SAP/chevrotain) - Parser Building Toolkit for JavaScript.
