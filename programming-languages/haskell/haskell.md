@@ -80,3 +80,4 @@
 - [llvm-hs](https://github.com/llvm-hs/llvm-hs) - Haskell bindings for LLVM.
 - [Releaser](https://github.com/domenkozar/releaser) - Automation of Haskell package release process.
 - [CodeWorld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell.
+- [Summoner](https://github.com/kowainik/summoner) - Tool for scaffolding batteries-included production-level Haskell projects.

@@ -9,3 +9,4 @@
 - [HN: WireGuard for MacOS (2019)](https://news.ycombinator.com/item?id=19186795)
 - [Missing Wireguard Documentation](https://github.com/pirate/wireguard-docs#readme)
 - [Install and configure WireGuard on Raspberry Pi (and others)](https://github.com/adrianmihalko/raspberrypiwireguard)
+- [boringtun](https://github.com/cloudflare/boringtun) - Implementation of the WireGuard protocol designed for portability and speed.

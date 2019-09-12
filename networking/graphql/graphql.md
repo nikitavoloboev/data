@@ -43,3 +43,5 @@
 - [SOFA](https://github.com/Urigo/SOFA) - Best way to create REST APIs - Generate RESTful APIs from your GraphQL Server.
 - [Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
 - [Draqula](https://github.com/vadimdemedes/draqula) - GraphQL client for React apps that don't need it all.
+- [Merge Graphql Schemas](https://github.com/Urigo/merge-graphql-schemas) - Utility library to facilitate merging of modularized GraphQL schemas and resolver objects.
+- [Thinkmill GraphQL Style Guide](https://github.com/Thinkmill/graphql)

@@ -121,6 +121,7 @@
 - [async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library.
 - [petgraph](https://github.com/bluss/petgraph) - Graph data structure library for Rust.
 - [failure](https://github.com/rust-lang-nursery/failure) - Designed to make it easier to manage errors in Rust.
+- [Neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 
 ## Cargo Plugins
 

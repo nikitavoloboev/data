@@ -10,3 +10,4 @@
 - [Minimal implementations for dependent type checking and elaboration](https://github.com/AndrasKovacs/elaboration-zoo)
 - [Remora](https://github.com/jrslepak/Remora) - Dependently-typed language with Iverson-style implicit lifting.
 - [Juvix](https://github.com/cryptiumlabs/juvix) - More elegant language for a more civilized age.
+- [sixty](https://github.com/ollef/sixty) - Dependent type checker using normalisation by evaluation.
