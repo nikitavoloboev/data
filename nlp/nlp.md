@@ -34,3 +34,4 @@
 - [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time.
 - [Cornell Tech NLP Code](http://rush-nlp.com/code/)
 - [Cornell Tech NLP Publications](http://rush-nlp.com/papers/)
+- [Thinc](https://github.com/explosion/thinc/) - SpaCy's Machine Learning library for NLP in Python.

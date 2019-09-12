@@ -13,6 +13,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/).
 - [Tobias van Schneider](https://unsplash.com/@vanschneider/)
 - [Artem Sapegin](https://morning.photos/albums)
 - [Annie Spratt](https://www.instagram.com/anniespratt/)
+- [André Josselin](https://www.instagram.com/josselin/?hl=en)
 
 ## Interesting photographers
 

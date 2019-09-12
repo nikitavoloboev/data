@@ -36,3 +36,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [UI Design](https://github.com/tipoqueno/UI-Design#readme) - Curated list of useful resources related to User Interface Design.
 - [Rad Lines](https://github.com/msurguy/rad-lines) - Vector Generator Tool.
 - [The best design resources for new designers (2019)](https://www.uigoodies.com/blog/the-best-resources-for-new-designers.html)
+- [Awesome Design](https://github.com/gztchan/awesome-design#readme) - Focuses on collecting high quality resources and tools which can be used by UI/UX designers in daily work.

@@ -13,3 +13,4 @@ I never sit for prolonged times & take breaks standing or walking around.
 
 - [Workout Prep](https://www.julian.com/guide/muscle/prep)
 - [Strength Training](http://macournoyer.com/blog/2013/08/22/strength/)
+- [r/Fitness Basic Beginner Routine](https://thefitness.wiki/routines/r-fitness-basic-beginner-routine/)

@@ -40,3 +40,4 @@
 - [Ibis](https://github.com/ibis-project/ibis) - Python data analysis framework for Hadoop and SQL engines.
 - [Kyso](https://kyso.io/) - Data analytics knowledge hub.
 - [Feather](https://github.com/wesm/feather) - Fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow.
+- [ROOT system](https://github.com/root-project/root) - Provides a set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way.
