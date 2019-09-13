@@ -122,6 +122,7 @@
 - [petgraph](https://github.com/bluss/petgraph) - Graph data structure library for Rust.
 - [failure](https://github.com/rust-lang-nursery/failure) - Designed to make it easier to manage errors in Rust.
 - [Neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
+- [Tauri](https://github.com/tauri-apps/tauri) - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
 
 ## Cargo Plugins
 

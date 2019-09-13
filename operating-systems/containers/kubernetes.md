@@ -98,3 +98,4 @@
 - [Kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions.
 - [Conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language.
 - [Kuma](https://github.com/Kong/kuma) - Universal Control Plane for your Service Mesh.
+- [Knative Eventing](https://github.com/knative/eventing) - Contains a work-in-progress eventing system that is designed to address a common need for cloud native development.

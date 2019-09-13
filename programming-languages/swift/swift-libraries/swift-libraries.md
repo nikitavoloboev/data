@@ -102,3 +102,4 @@
 - [SkeletonView](https://github.com/Juanpe/SkeletonView) - Elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 - [DDMathParser](https://github.com/davedelong/DDMathParser) - String → Number.
 - [Chatto](https://github.com/badoo/Chatto) - Lightweight framework to build chat applications, made in Swift.
+- [Defaults](https://github.com/sindresorhus/Defaults) - Swifty and modern UserDefaults.

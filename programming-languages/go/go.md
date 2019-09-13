@@ -110,3 +110,4 @@ Go promotes composition over inheritance.
 - [Ask HN: Is there a project based book or course on Go for writing web APIs? (2019)](https://news.ycombinator.com/item?id=20704993)
 - [Data Structure Libraries and Algorithms implementation in Go](https://github.com/x899/algorithms)
 - [GitHub Actions for Go](https://github.com/mvdan/github-actions-golang) - Using GitHub Actions as CI effectively for Go.
+- [NFPM](https://github.com/goreleaser/nfpm) - Simple deb and rpm packager written in Go.

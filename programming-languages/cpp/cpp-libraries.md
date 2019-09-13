@@ -29,3 +29,4 @@
 - [Proxygen](https://github.com/facebook/proxygen) - Collection of C++ HTTP libraries including an easy to use HTTP server.
 - [RESTinio](https://github.com/Stiffstream/restinio) - Header-only C++14 library that gives you an embedded HTTP/Websocket server.
 - [Enoki](https://github.com/mitsuba-renderer/enoki) - Structured vectorization and differentiation on modern processor architectures.
+- [Marl](https://github.com/google/marl) - Hybrid thread / fiber task scheduler written in C++ 11.

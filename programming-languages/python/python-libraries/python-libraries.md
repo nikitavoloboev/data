@@ -4,6 +4,8 @@
 
 - [Pyramid](https://github.com/Pylons/pyramid) - Small, fast, down-to-earth, open source Python web framework.
 - [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
+- [web.py](https://github.com/webpy/webpy) - Web framework for python that is as simple as it is powerful.
+- [HTTPX](https://github.com/encode/httpx) - Next generation HTTP client for Python.
 
 ## ML
 
