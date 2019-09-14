@@ -106,6 +106,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Susumu Yokota](https://susumuyokota.bandcamp.com) - [Kodomotachi](https://www.youtube.com/watch?v=p5ZbGLzyqcQ)
 - [МЫ](https://soundcloud.com/user-613634972) - [Возможно](https://www.youtube.com/watch?v=B1yIJ706i78)
 - [Tristan de Liège](https://soundcloud.com/tristandeliege) - [Rêve De Nuages](https://www.youtube.com/watch?v=RmE8V9_81lo)
+- [Devine Lu Linvega](https://twitter.com/neauoire) - [Hundred Rabbits](https://aliceffekt.bandcamp.com/album/hundred-rabbits)
 
 ## Interesting artists
 
