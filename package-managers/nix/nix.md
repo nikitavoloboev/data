@@ -70,3 +70,4 @@
 - [yants](https://github.com/tazjin/yants) - Tiny type-checker for data in Nix, written in Nix.
 - [nix-shorts](https://github.com/justinwoo/nix-shorts) - Collection of short notes about Nix, down to what is immediately needed for users.
 - [rnix-parser](https://github.com/nix-community/rnix-parser) - Nix parser written in Rust.
+- [Naersk](https://github.com/nmattia/naersk) - Nix support for building cargo crates.
