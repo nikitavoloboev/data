@@ -99,6 +99,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Sentry](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
 - [Webflow](https://webflow.com/) - Gives you the power to design, build, and launch responsive websites visually, while writing clean, semantic code for you.
 - [Quip](https://quip.com/) - Real-time document collaboration.
+- [Percy](https://percy.io/) - All-in-one visual review platform.
 
 ## Notes
 
