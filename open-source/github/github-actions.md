@@ -16,3 +16,4 @@
 - [migrate-actions tool](https://github.com/actions/migrate) - Converts GitHub Actions main.workflow files into the new .yml syntax.
 - [GitHub Actions Toolkit](https://github.com/actions/toolkit) - GitHub ToolKit for developing GitHub Actions.
 - [GitHub action to automatically rebase PRs](https://github.com/cirrus-actions/rebase)
+- [GitHub Actions for Rust language](https://github.com/actions-rs/meta)

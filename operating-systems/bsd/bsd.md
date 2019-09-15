@@ -10,3 +10,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd#readme)
 - [FreeBSD Source](https://github.com/freebsd/freebsd)
 - [What are the differences between OpenBSD and Linux? (2019)](https://cfenollosa.com/blog/what-are-the-differences-between-openbsd-and-linux.html) ([HN](https://news.ycombinator.com/item?id=20028370))
+- [HardenedBSD](https://hardenedbsd.org/) - Security-focused and hardened FreeBSD derivative.
