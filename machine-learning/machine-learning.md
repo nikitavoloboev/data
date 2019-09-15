@@ -108,3 +108,4 @@
 - [HoloClean](https://github.com/HoloClean/holoclean) - Machine Learning System for Data Enrichment.
 - [Snorkel](https://github.com/snorkel-team/snorkel) - System for quickly generating training data with weak supervision.
 - [RAdam](https://github.com/LiyuanLucasLiu/RAdam) - On The Variance Of The Adaptive Learning Rate And Beyond.
+- [Google ML/AI Comic](https://cloud.google.com/products/ai/ml-comic-1/)
