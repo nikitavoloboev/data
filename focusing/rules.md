@@ -120,10 +120,10 @@ Some simple rules to follow when doing things.
 - Make sure to copy things correctly, when copying from docs/internet.
 - Open draft PRs for WIP changes, saying what else should be added or considered in `Notes for reviewers` or the related issue. This opens PR for preliminary feedback.
 
-## Commenting
+## Code comments
 
 - Comment over code. Comment to ease comprehension of code. Don't comment obvious things.
-- Use imperative tense. Instead of _# Outputs_, use _# Output_.
+- Use imperative tense.
 
 ## Communication
 

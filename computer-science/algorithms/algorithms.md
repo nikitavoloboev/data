@@ -21,6 +21,7 @@
 - [Some neat algorithms](https://www.nayuki.io/category/programming)
 - [All algorithms implemented in Python (for education)](https://github.com/TheAlgorithms/Python)
 - [Mathematical Proof of Algorithm Correctness and Efficiency (2019)](https://stackabuse.com/mathematical-proof-of-algorithm-correctness-and-efficiency/)
+- [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - Interactive online platform that visualizes algorithms from code.
 
 ## Images
 

@@ -35,3 +35,4 @@
 - [LF](https://github.com/zerotier/lf) - Fully Decentralized Fully Replicated Key/Value Store.
 - [Awesome Consensus](https://github.com/dgryski/awesome-consensus#readme) - Curated selection of artisanal consensus algorithms and hand-crafted distributed lock services.
 - [Rezolus](https://github.com/twitter/rezolus) - Tool for collecting detailed systems performance telemetry and exposing burst patterns through high-resolution telemetry.
+- [Cadence](https://github.com/uber/cadence) - Distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.

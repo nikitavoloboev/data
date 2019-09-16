@@ -111,3 +111,4 @@ Go promotes composition over inheritance.
 - [Data Structure Libraries and Algorithms implementation in Go](https://github.com/x899/algorithms)
 - [GitHub Actions for Go](https://github.com/mvdan/github-actions-golang) - Using GitHub Actions as CI effectively for Go.
 - [NFPM](https://github.com/goreleaser/nfpm) - Simple deb and rpm packager written in Go.
+- [Why Go and not Rust? (2019)](https://kristoff.it/blog/why-go-and-not-rust/) ([HN](https://news.ycombinator.com/item?id=20983922))
