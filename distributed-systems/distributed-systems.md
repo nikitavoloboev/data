@@ -36,3 +36,5 @@
 - [Awesome Consensus](https://github.com/dgryski/awesome-consensus#readme) - Curated selection of artisanal consensus algorithms and hand-crafted distributed lock services.
 - [Rezolus](https://github.com/twitter/rezolus) - Tool for collecting detailed systems performance telemetry and exposing burst patterns through high-resolution telemetry.
 - [Cadence](https://github.com/uber/cadence) - Distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [Pilosa](https://github.com/pilosa/pilosa) - Open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
+- [Finagle](https://github.com/twitter/finagle) - Fault tolerant, protocol-agnostic RPC system.

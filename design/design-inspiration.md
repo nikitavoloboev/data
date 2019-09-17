@@ -134,3 +134,4 @@ Here are few more things I liked, design wise.
 
 - [Awesome Creative Portfolios](https://github.com/iRaul/awesome-portfolios#readme)
 - [siteInspire](https://www.siteinspire.com/) - Web Design Inspiration.
+- [Developer Portfolios](https://github.com/emmawedekind/developer-portfolios#readme) - List of developer portfolios for your inspiration.

@@ -31,3 +31,5 @@
 - [PointNet.pytorch](https://github.com/fxia22/pointnet.pytorch) - PyTorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation".
 - [former](https://github.com/pbloem/former) - Simple transformer implementation from scratch in PyTorch.
 - [PyTorch Implementation of Differentiable ODE Solvers](https://github.com/rtqichen/torchdiffeq)
+- [PyTorch BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Software used for generating embeddings from large-scale graph-structured data.
+- [Deep Learning (PyTorch)](https://github.com/udacity/deep-learning-v2-pytorch) - Projects and exercises for the latest Deep Learning ND program.

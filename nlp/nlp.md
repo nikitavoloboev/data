@@ -36,3 +36,4 @@
 - [Cornell Tech NLP Publications](http://rush-nlp.com/papers/)
 - [Thinc](https://github.com/explosion/thinc/) - SpaCy's Machine Learning library for NLP in Python.
 - [Knowledge is embedded in language neural networks but can they reason? (2019)](https://www.youtube.com/watch?v=KybSRPC3e64)
+- [NLP Best Practices](https://github.com/microsoft/nlp#readme)

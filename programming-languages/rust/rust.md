@@ -77,3 +77,4 @@
 - [Rust CLI working group](https://github.com/rust-lang-nursery/cli-wg)
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust.
 - [cargo-play](https://github.com/fanzeyi/cargo-play) - Tool to help you running your Rust code file without manually setting up a Cargo project.
+- [[cargo-]flamegraph](https://github.com/ferrous-systems/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes.

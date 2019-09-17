@@ -31,3 +31,4 @@ Might give it a go sometime.
 - [Emacs Prelude](https://github.com/bbatsov/prelude) - Emacs distribution that aims to enhance the default Emacs experience.
 - [Language Server Protocol Support for Emacs](https://github.com/emacs-lsp/lsp-mode)
 - [Why Emacs (2019)](https://www.birkey.co/2019-08-04-why-emacs.html)
+- [straight.el](https://github.com/raxod502/straight.el) - Next-generation, purely functional package manager for the Emacs hacker.

@@ -33,3 +33,4 @@
 - [Python Handout](https://github.com/danijar/handout) - Turn Python scripts into handouts with Markdown and figures.
 - [HN: Python Is Eating the World (2019)](https://news.ycombinator.com/item?id=20672051)
 - [Your Guide to the CPython Source Code (2019)](https://realpython.com/cpython-source-code-guide/)
+- [30 seconds of python](https://github.com/30-seconds/30-seconds-of-python) - Curated collection of useful Python snippets that you can understand in 30 seconds or less.

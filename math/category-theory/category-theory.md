@@ -45,6 +45,8 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Conexus Act](https://conexus.ai/ventures) - Looking for promising ventures that want to utilize category theory to pursue the latest breakthroughs in Logistics, Pharma, Aerospace, Manufacturing, Transportation and more.
 - [From design patterns to category theory (2017)](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/) ([HN](https://news.ycombinator.com/item?id=20151055))
 - [Fully formal ETCS](https://ncatlab.org/nlab/show/fully+formal+ETCS)
+- [The Yoneda Perspective: an object is completely determined by its relationships to other objects (2017)](https://www.math3ma.com/blog/the-yoneda-lemma)
+- [Understanding Yoneda (2013)](https://bartoszmilewski.com/2013/05/15/understanding-yoneda/)
 
 ## Images
 

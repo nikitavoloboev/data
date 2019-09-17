@@ -109,6 +109,7 @@
     - [Nearest neighbor search](math/mathematical-optimization/nearest-neighbor-search.md)
     - [Combinatorial optimization](math/mathematical-optimization/combinatorial-optimization.md)
   - [Geometry](math/geometry.md)
+  - [Algebraic topology](math/algebraic-topology.md)
   - [Fractals](math/fractals.md)
   - [Number theory](math/number-theory.md)
   - [Homotopy theory](math/homotopy-theory.md)

@@ -7,3 +7,4 @@
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL.
 - [jupytext](https://github.com/mwouts/jupytext) - Jupyter notebooks as Markdown documents, Julia, Python or R scripts.
 - [Blogger-cli](https://github.com/hemanta212/blogger-cli) - CLI tool to convert and manage jupyter notebook blogs. Proudly host your notebooks even as a static site.
+- [bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter Notebooks.

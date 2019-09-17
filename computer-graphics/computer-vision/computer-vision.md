@@ -7,3 +7,4 @@
 - [Pythia](https://github.com/facebookresearch/pythia) - Modular framework for vision and language multimodal research. Built on top of PyTorch.
 - [video-object-removal](https://github.com/zllrunning/video-object-removal) - Just draw a bounding box and you can remove the object you want to remove.
 - [GoCV](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 4 and beyond.
+- [Sandbox for training convolutional networks for computer vision](https://github.com/osmr/imgclsmob)

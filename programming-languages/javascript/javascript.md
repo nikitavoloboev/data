@@ -80,3 +80,4 @@
 - [André Staltz: Two Fundamental Abstractions - Uphill Conf 2018](https://www.youtube.com/watch?v=fdol03pcvMA)
 - [JSMonday](http://www.jsmonday.dev/) - Weekly JS inspiration.
 - [Chevrotain](https://github.com/SAP/chevrotain) - Parser Building Toolkit for JavaScript.
+- [Comprehensive list of new ES features](https://github.com/daumann/ECMAScript-new-features-list)

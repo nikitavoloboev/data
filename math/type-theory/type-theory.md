@@ -33,3 +33,5 @@
 - [Lambdas are Codatatypes (2019)](http://blog.ielliott.io/lambdas-are-codatatypes/)
 - [On the Relationship Between Static Analysis and Type Theory (2019)](https://semantic-domain.blogspot.com/2019/08/on-relationship-between-static-analysis.html) ([Lobsters](https://lobste.rs/s/irow0u/on_relationship_between_static_analysis))
 - [Timeline for Logic, λ-Calculus, and Programming Language Theory (2012)(http://fm.csl.sri.com/SSFT15/Timeline.pages.pdf) ([HN](https://news.ycombinator.com/item?id=20860888))
+- [Types and Programming Languages book](https://www.cis.upenn.edu/~bcpierce/tapl/)
+- [Type Theory and Formal Proof book](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)

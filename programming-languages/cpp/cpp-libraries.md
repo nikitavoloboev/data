@@ -30,3 +30,6 @@
 - [RESTinio](https://github.com/Stiffstream/restinio) - Header-only C++14 library that gives you an embedded HTTP/Websocket server.
 - [Enoki](https://github.com/mitsuba-renderer/enoki) - Structured vectorization and differentiation on modern processor architectures.
 - [Marl](https://github.com/google/marl) - Hybrid thread / fiber task scheduler written in C++ 11.
+- [Collection of succinct data structures](https://github.com/ot/succinct)
+- [Microsoft's C++ Standard Library](https://github.com/microsoft/STL)
+- [Quantum Library](https://github.com/bloomberg/quantum) - Full-featured and powerful C++ framework build on top of the Boost coroutine library.
