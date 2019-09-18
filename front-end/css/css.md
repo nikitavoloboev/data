@@ -68,3 +68,4 @@
 - [Relearn CSS layout](https://every-layout.dev/) - How to better harness the built-in algorithms that power browsers and CSS. ([HN](https://news.ycombinator.com/item?id=20196061))
 - [Basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit.
 - [PurgeCSS](https://github.com/FullHuman/purgecss) - Remove unused css.
+- [CSS Remedy](https://github.com/mozdevs/cssremedy) - Start your project with a remedy for the technical debt of CSS.

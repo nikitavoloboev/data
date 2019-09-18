@@ -81,3 +81,4 @@
 - [Releaser](https://github.com/domenkozar/releaser) - Automation of Haskell package release process.
 - [CodeWorld](https://github.com/google/codeworld) - Educational computer programming environment using Haskell.
 - [Summoner](https://github.com/kowainik/summoner) - Tool for scaffolding batteries-included production-level Haskell projects.
+- ["Building Haskell Programs with Fused Effects" by Patrick Thomson (2019)](https://www.youtube.com/watch?v=vfDazZfxlNs)
