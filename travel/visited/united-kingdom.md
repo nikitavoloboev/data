@@ -5,6 +5,7 @@
 - [Psychedelic Society London coworking space](https://psychedelicsociety.org.uk/coworking)
 - [Skills Matter Meetups](https://skillsmatter.com/meetups)
 - [London On Board](https://www.meetup.com/LondonOnBoard/) - Board game meetup group.
+- [dorkbotlondon](https://dorkbotlondon.org/) - People doing strange things with electricity.
 
 ## Notes
 

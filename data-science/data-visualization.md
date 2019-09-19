@@ -16,3 +16,4 @@
 - [deck.gl](https://deck.gl/#/) - WebGL-powered framework for visual exploratory data analysis of large datasets.
 - [Flourish](https://flourish.studio/) - Quickly turn your spreadsheets into stunning online charts, maps and interactive stories.
 - [Dash App Gallery](https://dash-gallery.plotly.host/Portal/)
+- [Scientific Visualization – Python & Matplotlib book](https://github.com/rougier/scientific-visualization-book)

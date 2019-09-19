@@ -2,7 +2,9 @@
 
 A way to keep track of hotkeys that are taken by my macOS. Every key is mapped to some action and is activated from [Karabiner](../macOS/apps/karabiner/karabiner.md).
 
-## OPT+CMD
+Order: `CMD > OPT > CTRL > SHIFT`
+
+## CMD+OPT
 
 - 5 - Start/stop ScreenFlow recording
 - 6 - Maximize window to next screen
@@ -14,7 +16,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - l - Clipboard -> Make HasteBin link
 - / - Show/hide notification center
 
-## CTRL+CMD
+## CMD+CTRL
 
 - 3 - Search menu bar items (with Bartender)
 - 5 - Sleep display
@@ -24,8 +26,9 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - 9 - Google selected text
 - . - Contexts search active windows
 - ] - Search SnippetsLab library with assistant
+- k - Turn on/off BTT TouchBar
 
-## CTRL+OPT
+## OPT+CTRL
 
 - 2 - Screenshot -> Clipboard
 - 3 - Screenshot -> Annotate
@@ -41,7 +44,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 
 - 0 - Noizio on/off
 
-## CTRL+OPT+CMD
+## OPT+CTRL+CMD
 
 - 1 - New tweet
 - 2 - Full screen
@@ -57,7 +60,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - c - Sleep
 - v - Selection -> HN
 
-## OPT+SHIFT+CMD
+## CMD+OPT+SHIFT
 
 - 5 - PixelSnap
 - 6 - Toggle Night Shift on/off.
@@ -76,7 +79,7 @@ A way to keep track of hotkeys that are taken by my macOS. Every key is mapped t
 - b - Selection -> Medium
 - n - Selection -> GitHub
 
-## CTRL+OPT+SHIFT+CMD
+## CMD+OPT+CTRL+SHIFT
 
 - t - Open Trello
 - Space - Alfred

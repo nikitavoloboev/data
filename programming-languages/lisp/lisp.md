@@ -24,3 +24,4 @@
 - [A Road to Common Lisp](http://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 - [Lisp Machine Manual](https://hanshuebner.github.io/lmman/frontpage.html)
 - [C-Mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages.
+- [LISP Reference Manual](http://www.softwarepreservation.net/projects/LISP/starlisp/starlisp-reference-manual-version-5-0.pdf)

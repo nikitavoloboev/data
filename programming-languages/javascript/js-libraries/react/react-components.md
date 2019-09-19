@@ -30,7 +30,6 @@
 - [React Calendar](https://github.com/react-component/calendar)
 - [Recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
 - [Found](https://github.com/4Catalyzer/found) - Extensible route-based routing for React applications.
-- [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.
 - [Reuse](https://github.com/diegohaz/reuse) - Reuse different React components to create new ones.
 - [React Geosuggest](https://github.com/ubilabs/react-geosuggest) - React autosuggest for the Google Maps Places API.
 - [loadable-components](https://github.com/smooth-code/loadable-components) - React code splitting made easy. Reduce your bundle size without stress.

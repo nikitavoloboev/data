@@ -74,6 +74,7 @@ Some simple rules to follow when doing things.
 - Ask myself what is it that I am trying to solve or understand. Why?
 - Go deep. Specialize. Be great at some thing and then branch out.
 - Learn [fundamentals first](https://medium.com/@nikitavoloboev/the-root-of-it-all-9b6ab6a77e1d).
+- Build things from scratch to understand. Minimal version that works.
 - Draw. Use drawings and imagination to distill complex ideas.
 - Watch videos (talks & tutorials) in 1.75 or 2 speed, unless it hurts comprehension.
 - Listen to podcasts (~ 1.4 + smart speed). Audiobooks (Books & Audible) (1.25/1.5). With 1 when falling asleep.

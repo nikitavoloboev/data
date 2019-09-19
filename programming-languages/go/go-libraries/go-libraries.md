@@ -186,6 +186,7 @@
 - [v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go.
 - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go.
 - [Jennifer](https://github.com/dave/jennifer) - Code generator for Go.
+- [nosurf](https://github.com/justinas/nosurf) - HTTP package for Go that helps you prevent Cross-Site Request Forgery attacks.
 
 ## Links
 

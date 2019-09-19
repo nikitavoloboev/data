@@ -17,3 +17,4 @@
 - [Software architect roadmap](https://github.com/AlaaAttya/software-architect-roadmap#readme)
 - [Ask HN: Resources on how Google/Facebook etc. approach software design? (2019)](https://news.ycombinator.com/item?id=20039164)
 - [Unidirectional user interface architectures (2015)](https://staltz.com/unidirectional-user-interface-architectures.html)
+- [Software Architecture is Overrated, Clear and Simple Design is Underrated (2019)](https://blog.pragmaticengineer.com/software-architecture-is-overrated/) ([Lobsters](https://lobste.rs/s/n4vihh/software_architecture_is_overrated))
