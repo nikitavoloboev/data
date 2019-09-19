@@ -7,7 +7,7 @@
 - A property is any value attached to an object. A method is a property that is a function.
 - `this`, always references the owner of the function it is in, for this case — since it is now out of scope — the window/global object.
 - [Can type `debugger` in JS/TS to activate debugger at that point](https://twitter.com/calebporzio/status/1151185995309690886).
-- can `console.log({ myConst })` to log the variable with the value as an object so you see the variable name & the value. As opposed to doing `console.log(myConst, 'myConst')`.
+- Can `console.log({ myConst })` to log the variable with the value as an object so you see the variable name & the value. As opposed to doing `console.log(myConst, 'myConst')`.
 
 ## Links
 

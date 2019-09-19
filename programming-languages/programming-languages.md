@@ -36,3 +36,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [TabNine](https://github.com/zxqfl/TabNine/) - All-language ML autocompleter.
 - [Say something you dislike about a language you love (2019)](https://lobste.rs/s/2cw6ov/say_something_you_dislike_about_language)
 - [Say something nice about a programming language you dislike (2019)](https://lobste.rs/s/hib1ui/say_something_nice_about_programming)
+- [comby](https://github.com/comby-tools/comby) - Tool for changing code across many languages.
