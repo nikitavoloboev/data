@@ -45,3 +45,4 @@
 - [Draqula](https://github.com/vadimdemedes/draqula) - GraphQL client for React apps that don't need it all.
 - [Merge Graphql Schemas](https://github.com/Urigo/merge-graphql-schemas) - Utility library to facilitate merging of modularized GraphQL schemas and resolver objects.
 - [Thinkmill GraphQL Style Guide](https://github.com/Thinkmill/graphql)
+- [urql-exchange-schema](https://github.com/mxstbr/urql-exchange-schema) - Fetch data from a local GraphQL schema with urql. Useful for testing.

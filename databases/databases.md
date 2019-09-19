@@ -31,6 +31,7 @@
 - [MongoDB](https://github.com/mongodb/mongo) - General purpose, document-based, distributed database built for modern application developers.
 - [Ardb](https://github.com/yinqiwen/ardb) - High Performance Persistent NoSql, Full Redis-Protocol Compatibility.
 - [datahikeai](https://github.com/replikativ/datahike) - Durable datalog implementation adaptable for distribution.
+- [Yugabyte DB](https://github.com/yugabyte/yugabyte-db) - High-performance distributed SQL database for global, internet-scale apps.
 
 ## Tools
 

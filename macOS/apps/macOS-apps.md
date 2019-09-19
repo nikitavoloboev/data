@@ -16,6 +16,10 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Shifty](https://github.com/thompsonate/Shifty) - MacOS menu bar app that gives you more control over Night Shift.
 - [Seashore](https://github.com/robaho/seashore) - Easy to use mac osx image editing application, gimp light.
 
+## Other interesting apps
+
+- [Finicky](https://github.com/johnste/finicky) - MacOS app for customizing which browser to start.
+
 ## Links
 
 - [Awesome macOS apps](https://github.com/learn-anything/macos-apps#readme)

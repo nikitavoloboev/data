@@ -187,6 +187,7 @@
 - [tview](https://github.com/rivo/tview) - Rich interactive widgets for terminal-based UIs written in Go.
 - [Jennifer](https://github.com/dave/jennifer) - Code generator for Go.
 - [nosurf](https://github.com/justinas/nosurf) - HTTP package for Go that helps you prevent Cross-Site Request Forgery attacks.
+- [jit](https://github.com/xyproto/jit) - Go module for executing machine code directly.
 
 ## Links
 

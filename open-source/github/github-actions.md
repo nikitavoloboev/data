@@ -17,3 +17,4 @@
 - [GitHub Actions Toolkit](https://github.com/actions/toolkit) - GitHub ToolKit for developing GitHub Actions.
 - [GitHub action to automatically rebase PRs](https://github.com/cirrus-actions/rebase)
 - [GitHub Actions for Rust language](https://github.com/actions-rs/meta)
+- [Set up your GitHub Actions workflow with a specific version of node.js](https://github.com/actions/setup-node)
