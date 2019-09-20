@@ -45,3 +45,4 @@
 - [Python vs Rust for Neural Networks (2019)](https://ngoldbaum.github.io/posts/python-vs-rust-nn/) ([HN](https://news.ycombinator.com/item?id=20728288))
 - [Exploring Weight Agnostic Neural Networks (2019)](https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html) ([HN](https://news.ycombinator.com/item?id=20817083))
 - [Neural Networks, Types, and Functional Programming (2015)](https://colah.github.io/posts/2015-09-NN-Types-FP/)
+- [Glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators.

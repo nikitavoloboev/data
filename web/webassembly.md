@@ -38,3 +38,4 @@
 - [WebAssembly Tool Conventions](https://github.com/WebAssembly/tool-conventions) - Conventions supporting interoperatibility between tools working with WebAssembly.
 - [go-web-app](https://github.com/talentlessguy/go-web-app) - CLI for setting up Go WebAssembly frontend app.
 - [WABT](https://github.com/WebAssembly/wabt) - WebAssembly Binary Toolkit.
+- [RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak](https://www.youtube.com/watch?v=lLzFJenzBng)

@@ -12,4 +12,4 @@
 - [Folding the DOM (2019)](https://www.joshwcomeau.com/posts/folding-the-dom/)
 - [About HTML semantics and front-end architecture (2012)](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 - [Simple HTML form for your website](https://www.staticforms.xyz/)
-- [HEAD](https://github.com/joshbuchea/HEAD) - List of everything that _could_ go in the head of your document.
+- [HEAD](https://htmlhead.dev/) - List of everything that _could_ go in the head of your document.

@@ -50,3 +50,5 @@
 - [Accio](https://github.com/JamitLabs/Accio) - Dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
 - [TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0.
 - [Differentiable Programming Mega-Proposal (2019)](https://forums.swift.org/t/differentiable-programming-mega-proposal/28547)
+- [swift-bindgen](https://github.com/rustswift/swift-bindgen) - Bridging the gap between Swift and Rust.
+- [Swift Performance (2019)](https://forums.swift.org/t/swift-performance/28776/18)

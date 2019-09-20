@@ -28,3 +28,4 @@
 - [Parker Institute](https://www.parkerici.org/) - Brings together the field’s top scientists & clinicians to accelerate the development of breakthrough immunotherapies to turn cancer into a curable disease.
 - [Type 1-programmed dendritic cells drive antigen-specific latency reversal and immune elimination of persistent HIV-1 (2019)](<https://www.ebiomedicine.com/article/S2352-3964(19)30222-1/fulltext>)
 - [Athelas](https://athelas.com/) - Neutrophils, Lymphocytes, Platelets, WBCs, Morphology, and Cell Activation all within minutes from a fingerprick of blood.
+- ["Building a Unified Cancer Immunotherapy Data Library" by Lacey Kitch and Ben Kamphaus (2019)](https://www.youtube.com/watch?v=vwZxHVcfwuw)
