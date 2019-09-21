@@ -33,3 +33,4 @@
 - [optics](https://github.com/well-typed/optics) - Family of Haskell packages make it possible to define and use Lenses, Traversals, Prisms and other optics, using an abstract interface.
 - [Duckling](https://github.com/facebook/duckling) - Haskell library that parses text into structured data.
 - [Esqueleto](https://github.com/bitemyapp/esqueleto) - Bare bones, type-safe EDSL for SQL queries that works with unmodified persistent SQL backends.
+- [Selda](https://github.com/valderman/selda) - Type-safe, high-level SQL library for Haskell.

@@ -113,3 +113,4 @@ Go promotes composition over inheritance.
 - [NFPM](https://github.com/goreleaser/nfpm) - Simple deb and rpm packager written in Go.
 - [Why Go and not Rust? (2019)](https://kristoff.it/blog/why-go-and-not-rust/) ([HN](https://news.ycombinator.com/item?id=20983922))
 - [Algorithms implemented in Go (for education)](https://github.com/TheAlgorithms/Go)
+- [go-callvis](https://github.com/TrueFurby/go-callvis) - Visualize call graph of a Go program using dot (Graphviz).

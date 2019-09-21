@@ -100,6 +100,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Webflow](https://webflow.com/) - Gives you the power to design, build, and launch responsive websites visually, while writing clean, semantic code for you.
 - [Quip](https://quip.com/) - Real-time document collaboration.
 - [Percy](https://percy.io/) - All-in-one visual review platform.
+- [Shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go.
 
 ## Notes
 
