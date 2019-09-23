@@ -5,6 +5,7 @@
 - [TensorFlow](tensorflow.md)
 - [PyTorch](pytorch.md)
 - [Keras](keras.md)
+- [fastai](https://github.com/fastai/fastai)
 
 ## Other
 
@@ -17,3 +18,4 @@
 - [dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 - [PySyft](https://github.com/OpenMined/PySyft) - Library for encrypted, privacy preserving deep learning.
 - [numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy.
+- [cuML](https://github.com/rapidsai/cuml) - Suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.

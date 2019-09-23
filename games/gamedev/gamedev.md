@@ -21,3 +21,4 @@
   - [Lobster Design Philosophy, History, and Future](https://htmlpreview.github.io/?https://raw.githubusercontent.com/aardappel/lobster/master/lobster/docs/philosophy.html)
 - [Open Source Game Clones](https://osgameclones.com/)
 - [Flecs](https://github.com/SanderMertens/flecs) - Multithreaded Entity Component System written for C89 & C99.
+- [Marvel's Spider-Man: A Technical Postmortem (2019)](https://www.youtube.com/watch?v=KDhKyIZd3O8)

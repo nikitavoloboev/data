@@ -25,3 +25,4 @@
 - [Lisp Machine Manual](https://hanshuebner.github.io/lmman/frontpage.html)
 - [C-Mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages.
 - [LISP Reference Manual](http://www.softwarepreservation.net/projects/LISP/starlisp/starlisp-reference-manual-version-5-0.pdf)
+- [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation.

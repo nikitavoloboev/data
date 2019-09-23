@@ -35,3 +35,4 @@
 - [Your Guide to the CPython Source Code (2019)](https://realpython.com/cpython-source-code-guide/)
 - [30 seconds of python](https://github.com/30-seconds/30-seconds-of-python) - Curated collection of useful Python snippets that you can understand in 30 seconds or less.
 - [ptpython](https://github.com/prompt-toolkit/ptpython) - Better Python REPL.
+- [cython](https://cython.org/) - Optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex).

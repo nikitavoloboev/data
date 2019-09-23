@@ -32,6 +32,7 @@
 - [Ardb](https://github.com/yinqiwen/ardb) - High Performance Persistent NoSql, Full Redis-Protocol Compatibility.
 - [datahikeai](https://github.com/replikativ/datahike) - Durable datalog implementation adaptable for distribution.
 - [Yugabyte DB](https://github.com/yugabyte/yugabyte-db) - High-performance distributed SQL database for global, internet-scale apps.
+- [JuliaDB](https://github.com/JuliaComputing/JuliaDB.jl) - Parallel analytical database in pure Julia.
 
 ## Tools
 
