@@ -11,3 +11,4 @@
 - [Simple D3 with React Hooks](https://medium.com/@jeffbutsch/using-d3-in-react-with-hooks-4a6c61f1d102)
 - [Victory](https://github.com/FormidableLabs/victory) - Collection of composable React components for building interactive data visualizations.
 - [How to learn D3.js](https://wattenberger.com/blog/d3)
+- [Fullstack D3 book](https://www.newline.co/fullstack-d3) - Complete guide to D3.

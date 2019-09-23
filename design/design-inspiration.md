@@ -25,6 +25,10 @@ Here are few more things I liked, design wise.
 - [Actual budget](https://dev.actualbudget.com/) - The design is clean.
 - [Seph](https://josephg.com/blog/)
 
+## Products
+
+- [Notable](https://notable.md/) - Clean & great summary of features.
+
 ## Personal pages
 
 - [Brandur](https://brandur.org) - Amazingly clean website with an even more [awesome blog](https://brandur.org/interfaces#themware). The TOC and the persistent options on the left are incredible. ([Open Source](https://github.com/brandur/sorg))
