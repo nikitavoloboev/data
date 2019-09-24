@@ -19,3 +19,4 @@
 - [PySyft](https://github.com/OpenMined/PySyft) - Library for encrypted, privacy preserving deep learning.
 - [numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy.
 - [cuML](https://github.com/rapidsai/cuml) - Suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects.
+- [ONNX Runtime](https://github.com/microsoft/onnxruntime) - Cross-platform, high performance scoring engine for ML models.

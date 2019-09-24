@@ -12,3 +12,4 @@
 - [Quilc](https://github.com/rigetti/quilc) - Advanced optimizing compiler for the quantum instruction language Quil.
 - [Rigetti](https://www.rigetti.com/) - Bringing hardware and application development closer together can shorten the timeline to quantum advantage.
 - [HN: IBM will soon launch a 53-qubit quantum computer (2019)](https://news.ycombinator.com/item?id=21004615)
+- [Scott’s Supreme Quantum Supremacy FAQ! (2019)](https://www.scottaaronson.com/blog/?p=4317) ([HN](https://news.ycombinator.com/item?id=21053405))
