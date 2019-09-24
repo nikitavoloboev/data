@@ -19,3 +19,4 @@
 - [CoqGym](https://github.com/princeton-vl/CoqGym) - Learning Environment for Theorem Proving with the Coq proof assistant.
 - [Kami](https://github.com/sifive/Kami) - DSL for designing Hardware in Coq, and the associated semantics and theorems for proving its correctness.
 - [PeaCoq](https://github.com/Ptival/PeaCoq) - Web-based front-end to the Coq proof assistant.
+- [Kami](https://github.com/mit-plv/kami) - Platform for High-Level Parametric Hardware Specification and its Modular Verification.

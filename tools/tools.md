@@ -121,3 +121,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Ask HN: What overlooked class of tools should a self-taught programmer look into (2019)](https://news.ycombinator.com/item?id=19900955)
 - [The Arc of Collaboration (2019)](https://kwokchain.com/2019/08/16/the-arc-of-collaboration/)
 - [Dev.to tech/tools used](https://docs.dev.to/technical-overview/)
+- [Lobsters: What software do you use daily? (2019)](https://lobste.rs/s/j7tc67/what_software_do_you_use_daily)
