@@ -101,6 +101,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Quip](https://quip.com/) - Real-time document collaboration.
 - [Percy](https://percy.io/) - All-in-one visual review platform.
 - [Shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go.
+- [Segment](https://segment.com/) - Collect, standardize, and activate your customer data in the marketing and analytics tools you need to run your business, all with a single API.
 
 ## Notes
 

@@ -13,7 +13,7 @@
 - [RedixDB](https://github.com/alash3al/redix) - Persistent real-time key-value store, with the same redis protocol with powerful features.
 - [AresDB](https://github.com/uber/aresdb) - GPU-powered real-time analytics storage and query engine.
 - [Sophia](https://github.com/pmwkaa/sophia) - Modern transactional key-value/row storage library.
-- [Bolt](https://github.com/boltdb/bolt) - Pure Go key/value store inspired by Howard Chu's LMDB project.
+- [Bolt](https://github.com/etcd-io/bbolt) - Embedded key/value database for Go.
 - [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 - [EdgeDB](https://github.com/edgedb/edgedb) - Open-source object-relational database built on top of PostgreSQL.
 - [Scylla](https://www.scylladb.com/) - Drop-in Apache Cassandra alternative big data database that powers your applications with ultra-low latency and extremely high throughput, while reducing TCO to a fraction of most NoSQL databases. [OSS](https://github.com/scylladb/scylla).
@@ -33,6 +33,7 @@
 - [datahikeai](https://github.com/replikativ/datahike) - Durable datalog implementation adaptable for distribution.
 - [Yugabyte DB](https://github.com/yugabyte/yugabyte-db) - High-performance distributed SQL database for global, internet-scale apps.
 - [JuliaDB](https://github.com/JuliaComputing/JuliaDB.jl) - Parallel analytical database in pure Julia.
+- [Delta Lake](https://github.com/delta-io/delta) - Storage layer that brings scalable, ACID transactions to Apache Spark and other big-data engines.
 
 ## Tools
 
