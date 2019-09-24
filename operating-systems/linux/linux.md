@@ -49,3 +49,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [Show HN: ZeroHTTPd: A web server to teach Linux performance, with benchmarks](https://unixism.net/2019/04/linux-applications-performance-introduction/) ([HN](https://news.ycombinator.com/item?id=20081488))
 - [The Definitive Guide to Linux System Calls (2016)](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 - [The Linux Programming Interface book (2010)](http://man7.org/tlpi/)
+- [Karabinux](https://github.com/acheronfail/karabinux) - Attempt to port (as much as possible) the functionality of Karabiner Elements to Linux.

@@ -8,3 +8,4 @@
 - [JXA Prelude](https://github.com/RobTrew/prelude-jxa) - Generic functions for macOS scripting with JavaScript for Automation.
 - [Getting Started with JavaScript for Automation on Yosemite](https://www.macstories.net/tutorials/getting-started-with-javascript-for-automation-on-yosemite/)
 - [How To Use “VS Code” for JXA, with Keyboard Maestro (2019)](https://forum.keyboardmaestro.com/t/how-to-use-vs-code-for-jxa-with-keyboard-maestro/15281)
+- [How to find JXA actions for apps](https://forum.keyboardmaestro.com/t/how-to-use-vs-code-for-jxa-with-keyboard-maestro/15281/26)

@@ -45,6 +45,7 @@
   - [Memories](life/memories.md)
   - [Journaling](life/journaling.md)
   - [Compassion](life/compassion.md)
+  - [Parenting](life/parenting.md)
   - [Success](life/success.md)
   - [Death](life/death.md)
 - [Writing](writing/writing.md)

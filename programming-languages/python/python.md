@@ -36,3 +36,4 @@
 - [30 seconds of python](https://github.com/30-seconds/30-seconds-of-python) - Curated collection of useful Python snippets that you can understand in 30 seconds or less.
 - [ptpython](https://github.com/prompt-toolkit/ptpython) - Better Python REPL.
 - [cython](https://cython.org/) - Optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex).
+- [Ask HN: How do you handle/maintain local Python environments? (2019)](https://news.ycombinator.com/item?id=21054462)

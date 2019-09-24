@@ -63,6 +63,7 @@
 - [Slack](https://github.com/lestrrat-go/slack) - Slack client for go.
 - [go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API.
 - [Slash](https://github.com/htdvisser/slash) - Router for Slack's slash commands.
+- [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [Airtable Go Client Library](https://github.com/fabioberger/airtable-go)
 
 ## Graphics
