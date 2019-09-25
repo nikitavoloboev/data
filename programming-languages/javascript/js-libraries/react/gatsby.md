@@ -12,6 +12,7 @@
 - [Novela](https://github.com/narative/gatsby-theme-novela) - Makes it easy to start publishing beautiful articles and stories with Gatsby.
 - [Gatsby Theme Amsterdam](https://github.com/ryanwiemer/gatsby-theme-amsterdam)
 - [Collection of experimental Gatsby themes](https://github.com/jxnblk/gatsby-themes)
+- [gatsby-theme-austere](https://github.com/johno/gatsby-theme-austere) - Minimal blog theme built for those wanting to focus on their writing.
 
 ## Plugins
 

@@ -13,6 +13,7 @@ And I keep the default San Francisco Apple's font for all everything else.
 - [Inter](https://github.com/rsms/inter) - Typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens.
 - [Public Sans](https://github.com/uswds/public-sans) - Strong, neutral, principles-driven, open source typeface for text or display.
 - [Cascadia Code](https://github.com/microsoft/cascadia-code) - Fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+- [Leon Sans](https://github.com/cmiscm/leonsans) - Geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 
 ## Links
 

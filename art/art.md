@@ -29,6 +29,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Khius Art](https://www.artstation.com/khius)
 - [Victor Vasarely](https://en.m.wikipedia.org/wiki/Victor_Vasarely)
 - [Tomer Hanuka](http://thanuka.com/) - Illustrator and a comics artist.
+- [Tyler Hobbs](https://tylerxhobbs.com/)
 
 ## Interesting artists
 
@@ -79,6 +80,9 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Booooooom](https://www.booooooom.com/blog/art/)
 - [Eizin Suzuki – Light falls of board walk](http://www.graphicine.com/eizin-suzuki-light-falls-of-board-walk/)
 - [Generative Collages](https://www.behance.net/gallery/81688323/Generative-Collages)
+- [Sonar short music clip](https://www.youtube.com/watch?v=Zo2itpt8OEk)
+- [NONOTAK](https://www.nonotak.com/)
+- [Studio Joanie Lemercier](https://joanielemercier.com/)
 
 ## Notes
 
