@@ -242,6 +242,7 @@
   - [Nim](programming-languages/nim/nim.md)
   - [Dhall](programming-languages/dhall.md)
   - [Processing](programming-languages/processing/processing.md)
+    - [p5.js](programming-languages/processing/p5js.md)
   - [Prolog](programming-languages/prolog/prolog.md)
   - [PureScript](programming-languages/purescript/purescript.md)
   - [Zig](programming-languages/zig/zig.md)

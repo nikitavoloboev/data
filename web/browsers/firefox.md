@@ -15,3 +15,4 @@ Here are Firefox extensions I use:
 - [user.js](https://github.com/pyllyukko/user.js) - Firefox configuration hardening.
 - [Faster smarter JavaScript debugging in Firefox DevTools (2019)](https://hacks.mozilla.org/2019/05/faster-smarter-javascript-debugging-in-firefox/)
 - [Switch from Chrome to Firefox](https://www.mozilla.org/en-US/firefox/switch/) ([HN](https://news.ycombinator.com/item?id=20052623))
+- [webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API.
