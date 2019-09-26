@@ -35,3 +35,4 @@
 - [LoRaWAN Primer](https://docs.exploratory.engineering/lora/lorawan/)
 - [LoRaWAN® distance world record broken, twice. 766 km (476 miles) using 25mW transmission power (2019)](https://www.thethingsnetwork.org/article/lorawan-distance-world-record) ([HN](https://news.ycombinator.com/item?id=20562684))
 - [Feather TFT LoRa Sniffer](https://github.com/ImprobableStudios/Feather_TFT_LoRa_Sniffer) - Scans LoRa channels displaying any monitored packets on the TFT display.
+- [Compact server for private LoRaWAN networks](https://github.com/gotthardp/lorawan-server)
