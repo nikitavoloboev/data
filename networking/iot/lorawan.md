@@ -4,6 +4,7 @@
 
 - [LoraWAN uses Lora radios (all made or licensed by Semtech,) which only implement the physical layer. LoraWAN is a MAC + network software layer. It's similar to 802.15.4 and Zigbee. Thus, if the hardware integrates Lora devices (such as the SX1276), then it can be used to implement LoraWAN or custom protocols using Lora.](https://www.reddit.com/r/raspberry_pi/comments/9mfrym/iot_lora_boards_launch_with_raspberry_pi_microbit/)
 - [LoRa is the RF modulation, LoRaWAN is the protocol on top, that is defined and adopted by the LoRa alliance.](https://www.reddit.com/r/IOT/comments/a339h3/im_using_lora_and_not_lorawan_what_am_i_missing/)
+- [LoRa is a spread spectrum technology that also has a problem with collisions. Spread spectrum is where the signal bandwidth of your transmission is higher than the information bandwidth, meaning your transmission's spectral efficiency is terrible. But usually spread spectrum systems are designed such that multiple transmissions can occur at the same time without colliding, so the network spectral efficiency is just as good as a narrowband system. But LoRa is a spread spectrum technology that still suffers from collisions, so the network spectral efficiency is really bad.](https://news.ycombinator.com/item?id=21073841)
 
 ## Links
 

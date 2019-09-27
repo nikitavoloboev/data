@@ -566,6 +566,7 @@
   - [DynamoDB](databases/dynamodb.md)
   - [FoundationDB](databases/foundationdb.md)
   - [SQL](databases/sql/sql.md)
+  - [Prisma](databases/prisma.md)
   - [Memcached](databases/memcached.md)
   - [Kdb+](databases/kdb.md)
   - [Blockchain](databases/blockchain/blockchain.md)

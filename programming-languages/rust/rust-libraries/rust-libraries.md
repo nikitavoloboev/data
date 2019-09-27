@@ -125,6 +125,7 @@
 - [Tauri](https://github.com/tauri-apps/tauri) - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
 - [Plotters](https://github.com/38/plotters) - Rust Drawing Library for Plotting.
 - [rust-GSL](https://github.com/GuillaumeGomez/rust-GSL) - Rust binding for the GSL library (the GNU Scientific Library).
+- [Walrus](https://github.com/rustwasm/walrus) - WebAssembly transformation library.
 
 ## Cargo Plugins
 

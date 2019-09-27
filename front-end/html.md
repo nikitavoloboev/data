@@ -13,3 +13,4 @@
 - [About HTML semantics and front-end architecture (2012)](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 - [Simple HTML form for your website](https://www.staticforms.xyz/)
 - [HEAD](https://htmlhead.dev/) - List of everything that _could_ go in the head of your document.
+- [HTML Living Standard](https://html.spec.whatwg.org/multipage/)

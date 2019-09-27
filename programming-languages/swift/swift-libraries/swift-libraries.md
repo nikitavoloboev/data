@@ -33,6 +33,7 @@
 ## API
 
 - [SwiftTwitch](https://github.com/Chris-Perkins/SwiftTwitch) - Library intended for client-facing applications interaction with the New Twitch API, Helix.
+- [SlackKit](https://github.com/pvzig/SlackKit) - Build Slack apps, in Swift.
 
 ## ML
 

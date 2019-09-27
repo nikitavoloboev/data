@@ -40,3 +40,4 @@
 - [Transfer NLP library](https://github.com/feedly/transfer-nlp) - Framework built on top of PyTorch to promote reproducible experimentation and Transfer Learning in NLP.
 - [FARM](https://github.com/deepset-ai/FARM) - Fast & easy transfer learning for NLP. Harvesting language models for the industry.
 - [Transformers](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+- [NLP Roadmap 2019](https://github.com/graykode/nlp-roadmap#readme)

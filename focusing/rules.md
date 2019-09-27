@@ -42,8 +42,10 @@ Some simple rules to follow when doing things.
 - Don't listen to distracting music or sounds when trying to focus. Instead use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) and listen to Rain, Fire or similar sounds. Or have nothing playing at all.
 - Use noise canceling headphones if surroundings are too noisy.
 - Don't waste time. Step back and reflect on what I do. No wasting time viewing analytics or likes/retweets. Cut it out. Pure focus on creation/learning.
+- Only have essential notifications setup. Be in Do Not Disturb mode by default.
 - Build useful tools. Create art.
 - Think.
+- Take mindfulness breaks and breathe if I see myself being distracted.
 
 ## Work
 
@@ -67,7 +69,7 @@ Some simple rules to follow when doing things.
 
 ## Learn
 
-- Always learn new things.
+- Always learn new things. Understand fundamentals before approaching solving any problem.
 - Document everything. Don't repeat things. Link instead.
 - Ask questions. Don't be afraid of not knowing something and [ask for help](../research/asking-questions.md).
 - There are no dumb questions. Do your own research first though.
@@ -77,7 +79,7 @@ Some simple rules to follow when doing things.
 - Build things from scratch to understand. Minimal version that works.
 - Draw. Use drawings and imagination to distill complex ideas.
 - Watch videos (talks & tutorials) in 1.75 or 2 speed, unless it hurts comprehension.
-- Listen to podcasts (~ 1.4 + smart speed). Audiobooks (Books & Audible) (1.25/1.5). With 1 when falling asleep.
+- Listen to podcasts/books at fast enough speed to comprehend. (Overcast: ~ 1.4 + smart speed, Books: 1.25/1.5).
 
 ## Share
 

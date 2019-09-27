@@ -190,6 +190,7 @@
 - [nosurf](https://github.com/justinas/nosurf) - HTTP package for Go that helps you prevent Cross-Site Request Forgery attacks.
 - [jit](https://github.com/xyproto/jit) - Go module for executing machine code directly.
 - [Ristretto](https://github.com/dgraph-io/ristretto) - High performance memory-bound Go cache.
+- [Watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications easy way in Go.
 
 ## Links
 

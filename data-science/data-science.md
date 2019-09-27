@@ -41,3 +41,4 @@
 - [Kyso](https://kyso.io/) - Data analytics knowledge hub.
 - [Feather](https://github.com/wesm/feather) - Fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow.
 - [ROOT system](https://github.com/root-project/root) - Provides a set of OO frameworks with all the functionality needed to handle and analyze large amounts of data in a very efficient way.
+- [Redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.

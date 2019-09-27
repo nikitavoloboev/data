@@ -14,3 +14,4 @@
 - [Solandra](https://github.com/jamesporter/solandra) - Framework for algorithmic art. TypeScript first. Make drawing concepts part of framework. Make APIs for humans.
 - [Escher-like Spiral Tilings (2019)](http://isohedral.ca/escher-like-spiral-tilings/) ([HN](https://news.ycombinator.com/item?id=20854644))
 - [Creative Coding & Generative Art with JavaScript](https://github.com/mattdesl/workshop-generative-art)
+- [Collection of my generative artwork, mostly with Processing in Python mode](https://github.com/aaronpenne/generative_art)

@@ -82,3 +82,5 @@
 - [JSMonday](http://www.jsmonday.dev/) - Weekly JS inspiration.
 - [Chevrotain](https://github.com/SAP/chevrotain) - Parser Building Toolkit for JavaScript.
 - [Comprehensive list of new ES features](https://github.com/daumann/ECMAScript-new-features-list)
+- [JavaScript for impatient programmers book](https://exploringjs.com/impatient-js/toc.html)
+- [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
