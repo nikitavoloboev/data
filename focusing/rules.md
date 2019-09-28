@@ -41,11 +41,11 @@ Some simple rules to follow when doing things.
 - Use one screen when coding. Much easier to context switch.
 - Don't listen to distracting music or sounds when trying to focus. Instead use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) and listen to Rain, Fire or similar sounds. Or have nothing playing at all.
 - Use noise canceling headphones if surroundings are too noisy.
-- Don't waste time. Step back and reflect on what I do. No wasting time viewing analytics or likes/retweets. Cut it out. Pure focus on creation/learning.
+- Don't waste time. Step back and reflect on what I do. No wasting time viewing analytics or likes/retweets. No useless apps/tools. Pure focus on creation/learning.
 - Only have essential notifications setup. Be in Do Not Disturb mode by default.
+- Take mindfulness breaks and breathe if I see myself being distracted.
 - Build useful tools. Create art.
 - Think.
-- Take mindfulness breaks and breathe if I see myself being distracted.
 
 ## Work
 
@@ -81,6 +81,12 @@ Some simple rules to follow when doing things.
 - Watch videos (talks & tutorials) in 1.75 or 2 speed, unless it hurts comprehension.
 - Listen to podcasts/books at fast enough speed to comprehend. (Overcast: ~ 1.4 + smart speed, Books: 1.25/1.5).
 
+## Tools
+
+- Only use what is necessary. Experiment with things but never keep things you are not actually using. That mostly includes plugins and modifications.
+- Establish a good mental model of what I need and what I use as I approach modifying my workflow and tools.
+- Use best tools available to complete tasks. If don't exist, create new tools or adjust existing ones.
+
 ## Share
 
 - Share everything I know and made.
@@ -90,12 +96,6 @@ Some simple rules to follow when doing things.
 
 - Value each animal’s life as equal to that of my own. Don't eat or hurt anyone.
 - Minimize suffering caused to other people. Be conscious of other people's feelings.
-
-## Tools
-
-- Only use what is necessary. Experiment with things but never keep things you are not actually using. That mostly includes plugins and modifications.
-- Establish a good mental model of what I need and what I use as I approach modifying my workflow and tools.
-- Use best tools available to complete tasks. If don't exist, create new tools or adjust existing ones.
 
 ## Finance
 

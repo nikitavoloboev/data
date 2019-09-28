@@ -17,3 +17,4 @@
 - [Flourish](https://flourish.studio/) - Quickly turn your spreadsheets into stunning online charts, maps and interactive stories.
 - [Dash App Gallery](https://dash-gallery.plotly.host/Portal/)
 - [Scientific Visualization – Python & Matplotlib book](https://github.com/rougier/scientific-visualization-book)
+- [Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism)
