@@ -6,13 +6,12 @@ Tweetbot is also blocked for me during my `Focus` time. I can only post tweets b
 
 Twitter is my primary way to stay up to date on things and is my favorite social network after GitHub. I curate and publicly share all [Twitter lists](https://twitter.com/nikitavoloboev/lists) I personally use.
 
-I split the app into 3 columns on mac. On iOS, I only read through my [Top list](https://twitter.com/nikitavoloboev/lists/top).
+I split the app into 2 columns on mac. On iOS, I only read through my [Top list](https://twitter.com/nikitavoloboev/lists/top).
 
 - First column: Mentions / Messages
 - Second column: [Top](https://twitter.com/nikitavoloboev/lists/top). Tweets with highest value to me.
-- Third column: [Other](https://twitter.com/nikitavoloboev/lists/other)
 
-![](https://i.imgur.com/gdQRoke.png)
+![](https://i.imgur.com/7vLi5Po.png)
 
 ## Notes
 

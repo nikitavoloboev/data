@@ -16,6 +16,7 @@ The reason I am not currently using it is because I find the philosophy of `Know
 ## Interesting plugins
 
 - [Image Occlusion Enhanced](https://ankiweb.net/shared/info/1111933094) - Lets you create cards that hide parts of an image to test your knowledge of that hidden information.
+- [Night Mode](https://github.com/krassowski/Anki-Night-Mode)
 
 ## Notes
 
