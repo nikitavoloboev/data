@@ -191,6 +191,7 @@
 - [jit](https://github.com/xyproto/jit) - Go module for executing machine code directly.
 - [Ristretto](https://github.com/dgraph-io/ristretto) - High performance memory-bound Go cache.
 - [Watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications easy way in Go.
+- [Aero](https://github.com/aerogo/aero) - High-performance web server for Go.
 
 ## Links
 

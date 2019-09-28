@@ -123,6 +123,7 @@ Here are few more things I liked, design wise.
 - [Mathieu Dutour](https://mathieu.dutour.me/) - Minimal.
 - [Sarah Drasner](https://sarah.dev/)
 - [Brandon Weiss](https://brandonweiss.me/)
+- [Henry's Zoo](https://www.henryzoo.com/) - Simple.
 
 ## Other
 
