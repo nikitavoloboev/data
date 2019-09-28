@@ -29,3 +29,4 @@
 - [How to implement useState with useReducer (2019)](https://kentcdodds.com/blog/how-to-implement-usestate-with-usereducer)
 - [React's useEffect and useRef Explained for Mortals (2019)](https://leewarrick.com/blog/react-use-effect-explained/)
 - [Thinking in React Hooks (2019)](https://wattenberger.com/blog/react-hooks)
+- [Advanced React Hooks workshop](https://github.com/kentcdodds/advanced-react-hooks)

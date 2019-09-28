@@ -14,3 +14,4 @@
 - [Simple HTML form for your website](https://www.staticforms.xyz/)
 - [HEAD](https://htmlhead.dev/) - List of everything that _could_ go in the head of your document.
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
+- [Learn to Code HTML & CSS book](https://learn.shayhowe.com/html-css/)

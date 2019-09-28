@@ -7,3 +7,4 @@
 - [I forgot how to manage a server (2019)](https://ma.ttias.be/i-forgot-how-to-manage-a-server/) ([HN](https://news.ycombinator.com/item?id=19796127))
 - [Applikatoni](https://github.com/applikatoni/applikatoni) - Self-hosted deployment server for your team.
 - [Lobsters: What’s your container-less deployment process? (2019)](https://lobste.rs/s/xov7nz/what_s_your_container_less_deployment)
+- [A developer goes to a DevOps conference (2019)](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/) ([HN](https://news.ycombinator.com/item?id=21100970))

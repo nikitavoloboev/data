@@ -33,7 +33,7 @@
 - [Code and materials for book "Functional Design and Architecture" (2019)](https://github.com/graninas/Functional-Design-and-Architecture)
 - [Practical Functional Programming: Prelude (2018)](https://www.gasi.ch/blog/practical-functional-programming)
 - [Postmodern Programming](https://github.com/robrix/Postmodern-Programming/blob/master/Postmodern%20Programming.md) - Talk about declarative programming in and around imperative code: what, why, and how.
-- [The Science of Functional Programming book](https://github.com/winitzki/sofp)
+- [The Science of Functional Programming book](https://github.com/winitzki/sofp/blob/master/sofp-src/sofp.pdf) ([HN](https://news.ycombinator.com/item?id=21093129))
 - [Foundation of functional programming course](https://github.com/fp-tower/foundation)
 - [Discrete Mathematics and Functional Programming book (2012)](http://cs.wheaton.edu/~tvandrun/dmfp/)
 

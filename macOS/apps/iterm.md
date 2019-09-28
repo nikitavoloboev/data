@@ -12,15 +12,15 @@ I always have at least 3 tabs (sessions) always open in iTerm. I open other tabs
 
 My always open tabs are:
 
-1. `jump` - This tab is where the majority of my work is done or when I need to quickly jump around my file system. Bound to `f+j`.
-2. `kar` - Contains my [Karabiner configuration](karabiner/karabiner.md) I edit. Bound to `f+.`.
-3. `vim` - Contains my [Vim config](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim).
+1. `jump around` - This tab is where the majority of my work is done or when I need to quickly jump around my file system. Bound to `f+j`.
+2. `clones` - I use Alfred workflow to search through my [~/src/clones](../../unix/my-file-system.md) dir. On modifier press, it will jump to that dir in this tab. Bound to `f+s`.
+3. `karabiner` - Contains my [Karabiner configuration](karabiner/karabiner.md) I edit. Bound to `f+.`.
 
 All other tabs are added on top of this `default` configuration. I use [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions:
 
-![](https://i.imgur.com/kdo0x8Y.png)
+![](https://i.imgur.com/doQVVDx.png)
 
-I use VS Code's integrated terminal when working on various code projects.
+I also use VS Code's integrated terminal when working on various code projects.
 
 ## Links
 
