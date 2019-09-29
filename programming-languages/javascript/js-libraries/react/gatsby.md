@@ -25,3 +25,5 @@
 - [egghead.io creator MDX Blog Starter Project](https://github.com/eggheadio/gatsby-starter-egghead-blog)
 - [Getting Started with Gatsby Themes](https://www.ianjones.us/getting-started-with-gatsby-themes)
 - [gatsby-theme-documentation](https://github.com/johno/gatsby-theme-documentation) - Minimalist Gatsby Theme for documentation sites built with MDX and Theme UI.
+- [Kyle Mathews - What's Next for Gatsby? (2019)](https://www.youtube.com/watch?v=-bHkPPL1Tz4)
+- [HN: Gatsby raises \$15M Series A for its modern web development platform (2019)](https://news.ycombinator.com/item?id=21085651)

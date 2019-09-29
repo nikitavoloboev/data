@@ -71,3 +71,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [WWDC 2019 Session Notes](https://github.com/Blackjacx/WWDC#readme)
 - [OSStatus](https://www.osstatus.com/) - Look up Apple API errors quickly.
 - [Babylon iOS Playbook](https://github.com/Babylonpartners/ios-playbook#readme)
+- [Open-source jailbreaking tool for many iOS devices](https://github.com/axi0mX/ipwndfu)

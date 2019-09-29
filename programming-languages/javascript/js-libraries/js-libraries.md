@@ -103,3 +103,4 @@
 - [Sanctuary](https://github.com/sanctuary-js/sanctuary) - JavaScript functional programming library inspired by Haskell and PureScript.
 - [modali](https://github.com/upmostly/modali) - Delightful modal dialog component for React, built from the ground up to support React Hooks.
 - [Tweakpane](https://github.com/cocopon/tweakpane) - Compact GUI for fine-tuning parameters and monitoring value changes.
+- [crocks](https://github.com/evilsoft/crocks) - Collection of well known Algebraic Data Types for your utter enjoyment.
