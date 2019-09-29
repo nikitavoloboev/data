@@ -18,6 +18,7 @@
 
 - [gatsby-remark-vscode](https://github.com/andrewbranch/gatsby-remark-vscode) - Gatsby plugin to provide VS Code’s syntax highlighting to Markdown code fences.
 - [gatsby-plugin-ebook](https://github.com/cowchimp/gatsby-plugin-ebook) - Creates an ebook from your Gatsby posts.
+- [gatsby-source-figma](https://github.com/fabe/gatsby-source-figma) - Gatsby plugin for using Figma documents as a data source.
 
 ## Links
 

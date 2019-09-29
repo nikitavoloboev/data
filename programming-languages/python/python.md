@@ -38,3 +38,4 @@
 - [cython](https://cython.org/) - Optimising static compiler for both the Python programming language and the extended Cython programming language (based on Pyrex).
 - [Ask HN: How do you handle/maintain local Python environments? (2019)](https://news.ycombinator.com/item?id=21054462)
 - [CVXPY](https://github.com/cvxgrp/cvxpy) - Python-embedded modeling language for convex optimization problems.
+- [Pythran](https://github.com/serge-sans-paille/pythran) - Ahead of time compiler for a subset of the Python language, with a focus on scientific computing.

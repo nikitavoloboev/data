@@ -59,3 +59,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-o-matic](https://github.com/muesli/gitomatic) - Tool to monitor git repositories and automatically pull & push changes.
 - [GitGraph.js](https://github.com/nicoespeon/gitgraph.js) - JavaScript library to draw pretty git graphs in the browser.
 - [Git First-Parent-- Have your messy history and eat it too (2018)](http://www.davidchudzicki.com/posts/first-parent/)
+- [Git Alias](https://github.com/GitAlias/gitalias) - Git alias commands for faster easier version control.
