@@ -29,3 +29,4 @@
 - [Kyle Mathews - What's Next for Gatsby? (2019)](https://www.youtube.com/watch?v=-bHkPPL1Tz4)
 - [HN: Gatsby raises \$15M Series A for its modern web development platform (2019)](https://news.ycombinator.com/item?id=21085651)
 - [Gatsby and GraphQL: Today and the Future — Kyle Matthews @ GraphQL Conf 2019](https://www.youtube.com/watch?v=hXGziTHNTKY)
+- [Gatsby ThemeJam Showcase](https://themejam.gatsbyjs.org/showcase)

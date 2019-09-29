@@ -8,3 +8,4 @@
 - [Optimize your libraries with webpack](https://github.com/GoogleChromeLabs/webpack-libs-optimizations#readme) - Using a library in your webpack project? Use these tips to make your bundle smaller.
 - [How to set up an advanced Webpack application (2019)](https://www.robinwieruch.de/webpack-advanced-setup-tutorial/)
 - [inspectpack](https://github.com/FormidableLabs/inspectpack) - Inspection tool for Webpack frontend JavaScript bundles.
+- [webpack autoconf](https://createapp.dev/) - Tool to create personalized and optimized webpack.config.js

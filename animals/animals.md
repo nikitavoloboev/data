@@ -2,14 +2,11 @@
 
 I love all animals.
 
-## Favorite
+## Lovely animals
 
 - Dogs
 - Cats
   - Ragamuffin
-
-## Interesting
-
 - [Capybaras](https://www.youtube.com/watch?v=SCwcJsBYL3o) - Super awesome.
 - [Qokkas](https://en.wikipedia.org/wiki/Quokka)
 
@@ -22,3 +19,4 @@ I love all animals.
 - [Free to Use and Reuse: Cats](https://www.loc.gov/free-to-use/cats)
 - [Falsehoods programmers believe about dogs](https://www.hillelwayne.com/post/falsehoods-programmers-believe-about-dogs/)
 - [Our Planet | Birds Of Paradise](https://www.youtube.com/watch?v=rX40mBb8bkU)
+- [These Pics Are Composed Of As Many Pixels As There Are Animals Still Alive In These Species](https://designyoutrust.com/2019/09/these-pics-are-composed-of-as-many-pixels-as-there-are-animals-still-alive-in-these-species/)

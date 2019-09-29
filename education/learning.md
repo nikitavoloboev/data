@@ -19,3 +19,4 @@
 - [Stop Treading Water: Learning to Learn by Edward Kmett (2014)](https://www.youtube.com/watch?v=j0XmixCsWjs)
 - [Michael E. Karpeles's mission](https://mek.fyi/mission)
 - [Ask HN: What are you learning in 2019?](https://news.ycombinator.com/item?id=20793590#20794475)
+- [Learn X in Y minutes](https://learnxinyminutes.com/)

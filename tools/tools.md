@@ -104,6 +104,8 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Segment](https://segment.com/) - Collect, standardize, and activate your customer data in the marketing and analytics tools you need to run your business, all with a single API.
 - [Adblock Radio](https://github.com/adblockradio/adblockradio) - Library to block ads on live radio streams and podcasts. Machine learning meets Shazam.
 - [Mutagen](https://github.com/mutagen-io/mutagen) - Make remote development work with your local tools.
+- [Draftbit](https://draftbit.com/) - Visually build native mobile apps—all from your browser.
+- [Betterer](https://github.com/phenomnomnominal/betterer) - Makes it easier to make incremental improvements to your codebase.
 
 ## Notes
 

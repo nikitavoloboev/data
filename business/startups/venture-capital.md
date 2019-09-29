@@ -11,3 +11,4 @@
 - [Root Ventures](https://www.root.vc/) - Seeding bold engineers.
 - [Fifty Years](https://www.fifty.vc/) - Entrepreneur-run early stage venture fund based in San Francisco. We invest in companies that inspire.
 - [Resources for the Venture Capital Industry](https://www.arnaudbonzom.com/resources-for-the-venture-capital-industry/)
+- [GV](https://www.gv.com/) - Backs founders who transform industries and create new ones.
