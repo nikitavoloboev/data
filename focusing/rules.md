@@ -79,7 +79,7 @@ Some simple rules to follow when doing things.
 - Build things from scratch to understand. Minimal version that works.
 - Draw. Use drawings and imagination to distill complex ideas.
 - Watch videos (talks & tutorials) in 1.75 or 2 speed, unless it hurts comprehension.
-- Listen to podcasts/books at fast enough speed to comprehend. (Overcast: ~ 1.4 + smart speed, Books: 1.25/1.5).
+- Listen to podcasts/books at fast enough speed to comprehend. (Overcast: ~ 1.7 + smart speed, Books: 1.25/1.5).
 
 ## Tools
 
