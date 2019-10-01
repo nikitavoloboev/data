@@ -8,5 +8,4 @@
 - [xstream](https://github.com/staltz/xstream) - Extremely intuitive, small, and fast functional reactive stream library for JavaScript.
 - [CONNECTIVE](https://connective.dev/) - Agent-based reactive programming library for typescript.
 - [Rx Visualizer](https://github.com/moroshko/rxviz) - Animated playground for Rx Observables.
-- [André Staltz (@andrestaltz): You will learn RxJS (2016)](https://www.youtube.com/watch?v=uQ1zhJHclvs)
 - [Explaining Streams to Rich Harris (2019)](https://johnlindquist.com/explaining-streams-to-rich-harris)

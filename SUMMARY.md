@@ -199,6 +199,7 @@
       - [D3.js](programming-languages/javascript/js-libraries/d3js.md)
       - [Three.js](programming-languages/javascript/js-libraries/threejs.md)
       - [Babel](programming-languages/javascript/babel.md)
+      - [RxJS](programming-languages/javascript/js-libraries/rxjs.md)
   - [TypeScript](programming-languages/typescript/typescript.md)
     - [TypeScript libraries](programming-languages/typescript/typescript-libraries/typescript-libraries.md)
   - [Scala](programming-languages/scala/scala.md)
