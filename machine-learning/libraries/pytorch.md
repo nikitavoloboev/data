@@ -33,3 +33,4 @@
 - [PyTorch Implementation of Differentiable ODE Solvers](https://github.com/rtqichen/torchdiffeq)
 - [PyTorch BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) - Software used for generating embeddings from large-scale graph-structured data.
 - [Deep Learning (PyTorch)](https://github.com/udacity/deep-learning-v2-pytorch) - Projects and exercises for the latest Deep Learning ND program.
+- [PyWarm](https://github.com/blue-season/pywarm) - Cleaner way to build neural networks for PyTorch.

@@ -85,3 +85,4 @@
 - [JavaScript for impatient programmers book](https://exploringjs.com/impatient-js/toc.html)
 - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
 - [TC39 Meeting Notes](https://tc39.es/tc39-notes/)
+- [Mesh Spreadsheet](https://github.com/chrispsn/mesh/) - Visualise data and edit JavaScript code using a spreadsheet interface.

@@ -25,3 +25,4 @@
 - [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://changkun.de/modern-cpp/en-us/00-preface/)
 - [Cling](https://github.com/root-project/cling) - Interactive C++ Interpreter.
 - [Mesh](https://github.com/plasma-umass/Mesh) - Memory allocator that automatically reduces the memory footprint of C/C++ applications.
+- [Circle](https://github.com/seanbaxter/circle) - C++ Automation Language.

@@ -34,3 +34,4 @@
 - [Microsoft's C++ Standard Library](https://github.com/microsoft/STL)
 - [Quantum Library](https://github.com/bloomberg/quantum) - Full-featured and powerful C++ framework build on top of the Boost coroutine library.
 - [Wangle](https://github.com/facebook/wangle) - Framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
+- [Typeclasses in C++](https://github.com/TartanLlama/typeclasses) - Future C++ implementation of Rust-like trait objects with no boilerplate.

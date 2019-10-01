@@ -1,0 +1,10 @@
+# 2019 September
+
+Visited Prague. Went to Gastby Days & found out how great Gastby is. Will rebuild my personal site and make a blog with it. And maybe build LA with it although not sure about that. I think [next.js](https://github.com/zeit/next.js) makes more sense for LA.
+
+[Mindhunter](https://trakt.tv/shows/mindhunter) is a great show. Need to be more smart with how I spend my time.
+
+## Timing
+
+![](https://i.imgur.com/tj0nmih.png)
+

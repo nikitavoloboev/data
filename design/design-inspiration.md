@@ -27,7 +27,8 @@ Here are few more things I liked, design wise.
 
 ## Products
 
-- [Notable](https://notable.md/) - Clean & great summary of features.
+- [Actual Budget](https://actualbudget.com/)
+- [Notable](https://notable.md/)
 
 ## Personal pages
 
@@ -124,6 +125,7 @@ Here are few more things I liked, design wise.
 - [Sarah Drasner](https://sarah.dev/)
 - [Brandon Weiss](https://brandonweiss.me/)
 - [Henry's Zoo](https://www.henryzoo.com/) - Simple.
+- [Karolina](https://thefox.is/)
 
 ## Other
 
@@ -140,3 +142,4 @@ Here are few more things I liked, design wise.
 - [Awesome Creative Portfolios](https://github.com/iRaul/awesome-portfolios#readme)
 - [siteInspire](https://www.siteinspire.com/) - Web Design Inspiration.
 - [Developer Portfolios](https://github.com/emmawedekind/developer-portfolios#readme) - List of developer portfolios for your inspiration.
+- [Tips on building personal portfolio](https://twitter.com/alexmuench/status/1067042440207626240)

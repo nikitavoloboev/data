@@ -16,6 +16,11 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
   - [kak-lsp](https://github.com/ul/kak-lsp) - Kakoune Language Server Protocol Client.
 - [Lamdu](https://github.com/lamdu/lamdu) - Aims to create a next-generation, live programming environment that radically improves the programming experience.
 
+## Web
+
+- [ProseMirror](https://prosemirror.net/) - Toolkit for building rich-text editors on the web.
+- [draft.js](https://github.com/facebook/draft-js) - React framework for building text editors.
+
 ## Links
 
 - [ycmd](https://github.com/Valloric/ycmd) - Code-completion & comprehension server.
