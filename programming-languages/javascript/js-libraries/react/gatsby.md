@@ -13,6 +13,7 @@
 - [Gatsby Theme Amsterdam](https://github.com/ryanwiemer/gatsby-theme-amsterdam)
 - [Collection of experimental Gatsby themes](https://github.com/jxnblk/gatsby-themes)
 - [gatsby-theme-austere](https://github.com/johno/gatsby-theme-austere) - Minimal blog theme built for those wanting to focus on their writing.
+- [Gatsby Theme FAQs Prismic](https://github.com/littleplusbig/gatsby-theme-faqs-prismic) - Pretty FAQ page for Gatsby projects, out of the box.
 
 ## Plugins
 

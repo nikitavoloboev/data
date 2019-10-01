@@ -19,3 +19,4 @@
 - [tfjs-node](https://github.com/tensorflow/tfjs-node) - TensorFlow backend for TensorFlow.js via Node.js
 - [Neural Structured Learning in TensorFlow](https://github.com/tensorflow/neural-structured-learning)
 - [TensorFlow Transform](https://github.com/tensorflow/transform) - Library for preprocessing data with TensorFlow.
+- [HN: Tensorflow 2.0 (2019)](https://news.ycombinator.com/item?id=21118018)
