@@ -10,6 +10,7 @@
 - [DifferentialEquations](https://github.com/JuliaDiffEq/DifferentialEquations.jl) - Julia suite for high-performance solvers of differential equations.
 - [IterativeSolvers](https://github.com/JuliaMath/IterativeSolvers.jl) - Iterative algorithms for solving linear systems, eigensystems, and singular value problems.
 - [JuMP](https://github.com/JuliaOpt/JuMP.jl) - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear).
+- [Multivariate Statistics](https://github.com/JuliaStats/MultivariateStats.jl) - Julia package for multivariate statistics and data analysis (e.g. dimension reduction).
 
 ## Biology
 

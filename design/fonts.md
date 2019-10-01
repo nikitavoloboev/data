@@ -22,3 +22,4 @@ And I keep the default San Francisco Apple's font for all everything else.
 - [Programming Fonts](http://app.programmingfonts.org/) - Test drive over 50 free programming fonts.
 - [Guide to Only the Best Open-Source Typefaces](https://beautifulwebtype.com/)
 - [Inter typeface family](https://rsms.me/inter/)
+- [Google Noto Fonts](https://www.google.com/get/noto/)
