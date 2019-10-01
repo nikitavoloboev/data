@@ -18,3 +18,4 @@
 - [Crust](https://github.com/maidsafe/crust) - Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects.
 - [Yjs](https://github.com/yjs/yjs) - CRDT framework with a powerful abstraction of shared data.
 - [PeerLinks](https://github.com/peerlinks/peerlinks) - Protocol for building "Distributed Secure IRC" (or distributed Slack if you wish).
+- [Ambients](https://github.com/aphelionz/ambients) - Peer-to-Peer Programs and Data.

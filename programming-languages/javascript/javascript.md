@@ -84,3 +84,4 @@
 - [Comprehensive list of new ES features](https://github.com/daumann/ECMAScript-new-features-list)
 - [JavaScript for impatient programmers book](https://exploringjs.com/impatient-js/toc.html)
 - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
+- [TC39 Meeting Notes](https://tc39.es/tc39-notes/)

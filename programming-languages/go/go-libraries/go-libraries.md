@@ -192,6 +192,8 @@
 - [Ristretto](https://github.com/dgraph-io/ristretto) - High performance memory-bound Go cache.
 - [Watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications easy way in Go.
 - [Aero](https://github.com/aerogo/aero) - High-performance web server for Go.
+- [rain](https://github.com/cenkalti/rain) - BitTorrent client and library in Go.
+- [go-sqlite-lite](https://github.com/bvinc/go-sqlite-lite) - SQLite driver for the Go programming language.
 
 ## Links
 

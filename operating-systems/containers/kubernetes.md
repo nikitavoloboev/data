@@ -99,3 +99,5 @@
 - [Conftest](https://github.com/instrumenta/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language.
 - [Kuma](https://github.com/Kong/kuma) - Universal Control Plane for your Service Mesh.
 - [Knative Eventing](https://github.com/knative/eventing) - Contains a work-in-progress eventing system that is designed to address a common need for cloud native development.
+- [Navigator](https://github.com/jetstack/navigator) - Kubernetes extension for managing common stateful services on Kubernetes.
+- [kube-aggregator](https://github.com/kubernetes/kube-aggregator) - Aggregator for Kubernetes-style API servers: dynamic registration, discovery summarization, secure proxy.
