@@ -9,3 +9,4 @@
 - [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc#readme)
 - [Tower gRPC](https://github.com/tower-rs/tower-grpc) - gRPC client & server implementation.
 - [BloomRPC](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services.
+- [tonic](https://github.com/hyperium/tonic) - Native gRPC client & server implementation with async/await support in Rust.

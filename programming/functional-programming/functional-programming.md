@@ -36,6 +36,7 @@
 - [The Science of Functional Programming book](https://github.com/winitzki/sofp/blob/master/sofp-src/sofp.pdf) ([HN](https://news.ycombinator.com/item?id=21093129))
 - [Foundation of functional programming course](https://github.com/fp-tower/foundation)
 - [Discrete Mathematics and Functional Programming book (2012)](http://cs.wheaton.edu/~tvandrun/dmfp/)
+- [TypeFunc](https://github.com/williamdemeo/TypeFunc#readme) - Resources for type theory, functional programming, etc.
 
 ## Images
 
