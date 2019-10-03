@@ -41,3 +41,4 @@
 - [stringio](https://github.com/rauschma/stringio) - Convert strings to Node.js streams and vice versa.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
 - [TaskBotJS](https://github.com/eropple/taskbotjs) - Best JavaScript/TypeScript job processing framework on the planet.
+- [Verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
