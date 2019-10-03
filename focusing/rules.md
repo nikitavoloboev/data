@@ -81,6 +81,18 @@ Some simple rules to follow when doing things.
 - Watch videos (talks & tutorials) in 1.75 or 2 speed, unless it hurts comprehension.
 - Listen to podcasts/books at fast enough speed to comprehend. (Overcast: ~ 1.8 + smart speed, Books: 1.25/1.5).
 
+## Write
+
+- Be clear in what I write about. Be concise.
+- Use proper punctuation and capitalize things appropriately.
+- When making tasks (2Do, Trello, GitHub issues), use imperative tense.
+- Remove unnecessary and _filler_ words. Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Be concise.
+- If something can be said in less words, say it in less words. Be clear and to the point.
+- Minimize using word _here_. When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
+- Use headings to separate sections of articles.
+- Use a spellchecker and lint mistakes.
+- Don't say _Want to_. Instead say _Will_ in _Changes_. This applies more generally too, try be more proactive with anything I do. Intention counts.
+
 ## Tools
 
 - Only use what is necessary. Experiment with things but never keep things you are not actually using. That mostly includes plugins and modifications.
@@ -114,14 +126,15 @@ Some simple rules to follow when doing things.
 
 ## Code
 
-- Write code to be read by other people. Prefer to be explicit over implicit. [Readability Matters More Than Correctness](https://xph.us/2017/04/23/readability.html)
+- Write code to be clearly understood by other people. Explicit over implicit. [Readability Matters More Than Correctness](https://xph.us/2017/04/23/readability.html)
 - Make the code run first. Then make it fast (if necessary).
-- Read documentation. Update docs where necessary.
-- Delimit files that have spaces with `-` instead of `_`.
+- Read docs. Update docs where needed.
+- Delimit files with spaces using `-` instead of `_`.
 - Use switch cases over long ifs.
 - Function name should describe what it does, not when it's run. Good function names summarize what happens inside.
 - Make sure to copy things correctly, when copying from docs/internet.
 - Open draft PRs for WIP changes, saying what else should be added or considered in `Notes for reviewers` or the related issue. This opens PR for preliminary feedback.
+- No multi monitors. Only one file open in editor, unless split is necessary.
 
 ## Code comments
 
@@ -143,17 +156,6 @@ Some simple rules to follow when doing things.
 - Pin emails that need my attention and I need to reference.
 - Only show relevant emails to me in Inbox.
 - Don't erase trashed email manually. Erase trashed emails of over a month automatically.
-
-## Write
-
-- Use proper punctuation and capitalize things appropriately.
-- When making tasks (2Do, Trello, GitHub issues), use imperative tense.
-- Remove unnecessary and _filler_ words. Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Be concise.
-- If something can be said in less words, say it in less words. Be clear and to the point.
-- Minimize using word _here_. When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
-- Use headings to separate sections of articles.
-- Use a spellchecker and lint mistakes.
-- Don't say _Want to_. Instead say _Will_ in _Changes_. This applies more generally too, try be more proactive with anything I do. Intention counts.
 
 ## Git
 
