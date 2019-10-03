@@ -16,3 +16,4 @@
 - [elm-format](https://github.com/avh4/elm-format) - Formats Elm source code according to a standard set of rules based on the official Elm Style Guide.
 - [Elm Projects](https://github.com/elm/projects) - Curated collection of projects for folks looking to collaborate within the Elm ecosystem.
 - [Elm Core Libraries](https://github.com/elm/core)
+- [Learning Elm by porting a medium-sized web frontend from React (2019)](https://benhoyt.com/writings/learning-elm/) ([Lobsters](https://lobste.rs/s/3tnrdv/learning_elm_by_porting_medium_sized_web))

@@ -109,6 +109,7 @@
   - [Mathematical optimization](math/mathematical-optimization/mathematical-optimization.md)
     - [Nearest neighbor search](math/mathematical-optimization/nearest-neighbor-search.md)
     - [Combinatorial optimization](math/mathematical-optimization/combinatorial-optimization.md)
+    - [Gradient descent](math/mathematical-optimization/gradient-descent.md)
   - [Geometry](math/geometry.md)
   - [Algebraic topology](math/algebraic-topology.md)
   - [Fractals](math/fractals.md)

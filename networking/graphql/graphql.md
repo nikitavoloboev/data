@@ -47,3 +47,4 @@
 - [Thinkmill GraphQL Style Guide](https://github.com/Thinkmill/graphql)
 - [urql-exchange-schema](https://github.com/mxstbr/urql-exchange-schema) - Fetch data from a local GraphQL schema with urql. Useful for testing.
 - [graphql-config](https://github.com/kamilkisiela/graphql-config) - Easiest way to configure your development environment with your GraphQL schema (supported by most tools, editors & IDEs).
+- [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - Mock or extend your GraphQL API with faked data. No coding required.

@@ -109,3 +109,4 @@
 - [Snorkel](https://github.com/snorkel-team/snorkel) - System for quickly generating training data with weak supervision.
 - [RAdam](https://github.com/LiyuanLucasLiu/RAdam) - On The Variance Of The Adaptive Learning Rate And Beyond.
 - [Google ML/AI Comic](https://cloud.google.com/products/ai/ml-comic-1/)
+- [Machine Learning Notebooks](https://github.com/ageron/handson-ml2) - Series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
