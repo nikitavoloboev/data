@@ -104,3 +104,4 @@
 - [DDMathParser](https://github.com/davedelong/DDMathParser) - String → Number.
 - [Chatto](https://github.com/badoo/Chatto) - Lightweight framework to build chat applications, made in Swift.
 - [Defaults](https://github.com/sindresorhus/Defaults) - Swifty and modern UserDefaults.
+- [Rocket](https://github.com/shibapm/Rocket) - Swift CLI release tool for Git repos and Swift Packages.

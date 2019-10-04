@@ -79,7 +79,7 @@ Some simple rules to follow when doing things.
 - Build things from scratch to understand. Minimal version that works.
 - Draw. Use drawings and imagination to distill complex ideas.
 - Watch videos (talks & tutorials) in 1.75 or 2 speed, unless it hurts comprehension.
-- Listen to podcasts/books at fast enough speed to comprehend. (Overcast: ~ 1.8 + smart speed, Books: 1.25/1.5).
+- Listen to podcasts/books at fast enough speed to comprehend. (Overcast: ~ 2x + smart speed, Books: 1.5x).
 
 ## Write
 
@@ -148,6 +148,10 @@ Some simple rules to follow when doing things.
 ## Design
 
 - Giving users too many options is often a bad idea. Give very few options but make each one of them count and stand out.
+
+## Photo
+
+- Only keep good & memorable photos. Clean up the rest. Sort into albums.
 
 ## Email
 

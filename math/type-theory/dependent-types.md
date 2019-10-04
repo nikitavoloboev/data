@@ -12,3 +12,4 @@
 - [Juvix](https://github.com/cryptiumlabs/juvix) - More elegant language for a more civilized age. ([Reddit](https://www.reddit.com/r/haskell/comments/czierr/juvix_dependentlinearlytyped_core_language_with/))
 - [sixty](https://github.com/ollef/sixty) - Dependent type checker using normalisation by evaluation.
 - [Formality](https://github.com/moonad/Formality) - Efficient dependently-typed systems programming language and proof assistant. ([HN](https://news.ycombinator.com/item?id=18230148))
+- [Certified Programming with Dependent types](http://adam.chlipala.net/cpdt/)
