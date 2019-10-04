@@ -2,9 +2,9 @@
 
 I love meeting new people whether it be through traveling, attending events or having conversations with people online.
 
-Best places to meet people are usually events of some kind.
+Best places to meet people are usually events of some kind. As well as asking them to meet for coffee.
 
-I usually add any person I found interesting to [my contacts](../macOS/apps/contacts.md).
+I add any person I found interesting to [my contacts](../macOS/apps/contacts.md).
 
 ## Links
 

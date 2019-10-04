@@ -13,7 +13,7 @@ Some simple rules to follow when doing things.
 - Don't compare myself to other people. Surround myself with people that inspire me.
 - Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals.
 - Don't judge anyone. Attempt to see another person's point of view.
-- Be honest. Don't lie to myself nor anyone else.
+- Be honest. Don't lie to myself nor anyone else. Be confident in my thoughts & actions.
 - Embrace change. Never complain about anything. Be proactive.
 - Build [good habits](habits.md). Be strict in following through with new habits.
 - Adjust these rules and [my workflow](../sharing/my-workflow.md) to match what I learned.
@@ -98,6 +98,7 @@ Some simple rules to follow when doing things.
 - Only use what is necessary. Experiment with things but never keep things you are not actually using. That mostly includes plugins and modifications.
 - Establish a good mental model of what I need and what I use as I approach modifying my workflow and tools.
 - Use best tools available to complete tasks. If don't exist, create new tools or adjust existing ones.
+- Run less software. Only run what I use and need. Keep all systems clean & purposeful.
 
 ## Share
 
@@ -361,8 +362,8 @@ Some simple rules to follow when doing things.
 
 ## Relationships
 
-- Meet new people. Go to seminars, talks, conferences.. even if you won't understand much of it. Big chance you'll find something interesting or meet someone.
-- Respect my time. If going on dates, make it worthwhile or not go at all.
+- Meet new people. Go to seminars, talks, conferences. Big chance you'll find something interesting or meet someone.
+- Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
 
 ## Vim
 

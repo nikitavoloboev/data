@@ -77,3 +77,4 @@
 - [React/Redux Links](https://github.com/markerikson/react-redux-links#readme)
 - [TypeScript React Cheat Sheet](https://www.saltycrane.com/typescript-react-cheat-sheet/latest/) - List of TypeScript types generated from the declaration files for react, react-dom, react-native and other libraries.
 - [Why is React doing this? by Sebastian Markbåge (2019)](https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919)
+- [React Patterns](https://reactpatterns.com/)
