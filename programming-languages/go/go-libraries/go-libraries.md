@@ -196,6 +196,7 @@
 - [go-sqlite-lite](https://github.com/bvinc/go-sqlite-lite) - SQLite driver for the Go programming language.
 - [Jet](https://github.com/go-jet/jet) - Type safe SQL Builder for Go with automatic scan to desired arbitrary object structure.
 - [ent](https://github.com/facebookincubator/ent) - An Entity Framework For Go. Simple, yet powerful ORM for modeling and querying data.
+- [Ebiten](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library in Go.
 
 ## Links
 
