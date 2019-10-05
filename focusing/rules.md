@@ -127,6 +127,7 @@ Some simple rules to follow when doing things.
 
 ## Code
 
+- Think about the data model & data structures first. Make a simple model, test it out, iterate.
 - Write code to be clearly understood by other people. Explicit over implicit. [Readability Matters More Than Correctness](https://xph.us/2017/04/23/readability.html)
 - Make the code run first. Then make it fast (if necessary).
 - Read docs. Update docs where needed.
