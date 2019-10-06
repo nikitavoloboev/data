@@ -44,3 +44,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Academic Torrents](http://academictorrents.com/) - Distributed system for sharing enormous datasets - for researchers, by researchers.
 - [So You Want to Be a Research Scientist (2018)](https://medium.com/s/story/so-you-want-to-be-a-research-scientist-363c075d3d4c?fbclid=IwAR0tcvEpi4DojA3xmFMsuvXg8eqjZ_kHS_0HhBbzvBZ-WK-X-FrwjOe5MbA)
 - [Ask HN: What can I do to accelerate scientific research? (2019)](https://news.ycombinator.com/item?id=20189664)
+- [Prophy](https://www.prophy.science/) - Search research documents.

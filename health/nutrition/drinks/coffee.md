@@ -8,3 +8,5 @@
 - [Coffee at home](https://www.katfukui.com/coffee/) - How I got into making pourovers at home and how you can, too! ☕
 - [Handbrewing coffee (2019)](https://quanttype.net/posts/2019-03-06-handbrewing-coffee.html) ([HN](https://news.ycombinator.com/item?id=19326663))
 - [Maps of specialty coffee shops around the world](https://thirdwavenearme.com/)
+- [The Birth of Espresso (2019)](https://www.youtube.com/watch?v=I8uStVXNf0M)
+- [Beginners Guide to Coffee Tasting (2019)](https://www.youtube.com/watch?v=kEZZCQTSSAg)
