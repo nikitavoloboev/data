@@ -5,10 +5,8 @@ I exclude all foods that are not healthy and experiment with many [vegan recipes
 Most of my diet consists of eating almonds, walnuts, blueberries, bananas and avocados. I try to eat a set of essential foods daily:
 
 - Blueberries (200g+)
-- Avocado (1+)
-- Walnuts (50g+)
-- Broccoli/Kale (50g+)
-- Ginger (10g+) (add it to tea)
+- Walnuts / Almonds (70g+)
+- Broccoli / Kale (50g+)
 
 I use [Paprika app](https://www.paprikaapp.com/) to store all my recipes & the foods I can eat sorted into categories (with top first). Here is how it looks:
 

@@ -20,3 +20,4 @@ Is logical theory of computable functions.
 - [The Impact of the Lambda Calculus (1997) [pdf]](http://www-users.mat.umk.pl/~adwid/materialy/doc/church.pdf) ([HN](https://news.ycombinator.com/item?id=19835615))
 - [path](https://github.com/robrix/path) - Lambda calculus to explore type-directed program synthesis.
 - [Fine-grain implementations of common lambda calculi in Haskell, tested with QuickCheck](https://github.com/lukeg101/lplzoo)
+- [Lambda Zero](https://github.com/clark800/lambda-zero) - Minimalist pure lazy functional programming language.
