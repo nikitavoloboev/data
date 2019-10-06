@@ -105,6 +105,11 @@ Some simple rules to follow when doing things.
 - Share everything I know and made.
 - Submit bugs and feature requests (Twitter or email (most often) with feedback assistant (for Apple)).
 
+## News
+
+- Reduce noise. Only follow high signal people & content I am interested in.
+- Have max 2 level of separation for filtering. (i.e. Follows / Other lists on Twitter). Filter aggressively for high signal.
+
 ## Compassion
 
 - Value each animal’s life as equal to that of my own. Don't eat or hurt anyone.
@@ -229,11 +234,6 @@ Some simple rules to follow when doing things.
 ## Shipping a product
 
 - Have a nice looking website. The first look matters.
-
-## News
-
-- Reduce noise. Don't follow any person or content I have no interest in.
-- Don't have more than 2 level of separation for filtering. (i.e. Top 1 / Top 2 lists on Twitter but no Top 3). Filter aggressively. Optimize for actionable/useful signal.
 
 ## Social networks
 

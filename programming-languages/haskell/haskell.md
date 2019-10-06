@@ -84,3 +84,4 @@
 - ["Building Haskell Programs with Fused Effects" by Patrick Thomson (2019)](https://www.youtube.com/watch?v=vfDazZfxlNs)
 - [Haste Compiler](https://github.com/valderman/haste-compiler) - GHC-based Haskell to JavaScript compiler.
 - [What is Good About Haskell? (2019)](https://doisinkidney.com/posts/2019-10-02-what-is-good-about-haskell.html) ([HN](https://news.ycombinator.com/item?id=21145014))
+- [Learning Haskell is no harder than learning any other programming language (2019)](https://williamyaoh.com/posts/2019-10-05-you-are-already-smart-enough.html) ([HN](https://news.ycombinator.com/item?id=21170547))

@@ -126,6 +126,7 @@
 - [Plotters](https://github.com/38/plotters) - Rust Drawing Library for Plotting.
 - [rust-GSL](https://github.com/GuillaumeGomez/rust-GSL) - Rust binding for the GSL library (the GNU Scientific Library).
 - [Walrus](https://github.com/rustwasm/walrus) - WebAssembly transformation library.
+- [combine](https://github.com/Marwes/combine) - Parser combinator library for Rust.
 
 ## Cargo Plugins
 

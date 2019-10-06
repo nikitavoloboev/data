@@ -37,6 +37,7 @@
 - [Storeon](https://github.com/ai/storeon) - Tiny event-based Redux-like state manager for React and Preact.
 - [Overstated](https://github.com/fabiospampinato/overstated) - React state management library that's delightful to use, without sacrificing performance or scalability.
 - [Effector](https://github.com/zerobias/effector) - Reactive state manager.
+- [Akita](https://github.com/datorama/akita) - State Management Tailored-Made for JS Applications.
 
 ## API bindings
 
