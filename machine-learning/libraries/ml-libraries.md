@@ -22,3 +22,4 @@
 - [ONNX Runtime](https://github.com/microsoft/onnxruntime) - Cross-platform, high performance scoring engine for ML models.
 - [MLflow](https://github.com/mlflow/mlflow) - Machine Learning Lifecycle Platform.
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
+- [TensorNetwork](https://github.com/google/TensorNetwork) - Library for easy and efficient manipulation of tensor networks.

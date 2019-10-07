@@ -106,6 +106,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Mutagen](https://github.com/mutagen-io/mutagen) - Make remote development work with your local tools.
 - [Draftbit](https://draftbit.com/) - Visually build native mobile apps—all from your browser.
 - [Betterer](https://github.com/phenomnomnominal/betterer) - Makes it easier to make incremental improvements to your codebase.
+- [Deepsource](https://deepsource.io/) - Detect bug risks, anti-patterns and security vulnerabilities before they end up in production. For Python and Go.
 
 ## Notes
 

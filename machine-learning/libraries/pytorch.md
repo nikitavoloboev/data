@@ -35,3 +35,4 @@
 - [Deep Learning (PyTorch)](https://github.com/udacity/deep-learning-v2-pytorch) - Projects and exercises for the latest Deep Learning ND program.
 - [PyWarm](https://github.com/blue-season/pywarm) - Cleaner way to build neural networks for PyTorch.
 - [PyTorch implementations of algorithms for density estimation](https://github.com/ikostrikov/pytorch-flows)
+- [Higher](https://github.com/facebookresearch/higher) - PyTorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
