@@ -36,3 +36,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [static.fun](https://github.com/zeit/static-fun) - Fun demo for wildcard domains.
 - [W3C on GitHub](https://github.com/w3c/) - Resources useful when working on W3C projects using GitHub.
 - [Deep Dive Into Modern Web Development (2019)](https://fullstackopen.com/en/)
+- [urlwatch](https://github.com/thp/urlwatch) - Monitors webpages for you.

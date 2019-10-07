@@ -110,3 +110,4 @@ Once I wrote the article that I am quite happy with. I export the article straig
 - [The Day You Became a Better Writer (2nd Look) (2015)](https://blog.dilbert.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/)
 - [Tips for Writing a Technical Book](https://performancejs.com/post/31b361c/13-Tips-for-Writing-a-Technical-Book) ([HN](https://news.ycombinator.com/item?id=20070558))
 - [Undervalued Software Engineering Skills: Writing Well (2019)](https://blog.pragmaticengineer.com/on-writing-well/) ([HN](https://news.ycombinator.com/item?id=20061078))
+- [Writing is Thinking: Learning to Write with Confidence (2019)](https://blog.stephsmith.io/learning-to-write-with-confidence/) ([HN](https://news.ycombinator.com/item?id=21172686))

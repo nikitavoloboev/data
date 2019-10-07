@@ -110,5 +110,5 @@
 - [RAdam](https://github.com/LiyuanLucasLiu/RAdam) - On The Variance Of The Adaptive Learning Rate And Beyond.
 - [Google ML/AI Comic](https://cloud.google.com/products/ai/ml-comic-1/)
 - [Machine Learning Notebooks](https://github.com/ageron/handson-ml2) - Series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
-- [Streamlit](https://github.com/streamlit/streamlit) - Fastest way to build custom ML tools.
+- [Streamlit](https://github.com/streamlit/streamlit) - Fastest way to build custom ML tools. ([Website](https://streamlit.io/))
 - [A Gentle Introduction to Bayes’ Theorem for Machine Learning (2019)](https://news.ycombinator.com/item?id=21151032) ([HN](https://news.ycombinator.com/item?id=21151032))
