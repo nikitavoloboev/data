@@ -7,3 +7,4 @@
 - [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) - Opinionated, transactional, MobX powered state container combining the best features of the immutable and mutable world for an optimal DX.
 - [mst-gql](https://github.com/mobxjs/mst-gql) - Bindings for mobx-state-tree and GraphQL.
 - [Awesome MobX](https://github.com/mobxjs/awesome-mobx#readme)
+- [Why MobX](https://github.com/infinitered/ignite-bowser#why-this-stack)
