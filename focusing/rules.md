@@ -449,6 +449,10 @@ Some simple rules to follow when doing things.
 - Make sure I don’t carry any liquids that are too big in size (> 100ml).
 - Check in online as early as possible. Otherwise you may pay a fine.
 
+## Talks
+
+- Link to a page where people can get the slide deck + recording of talk given after giving any talk/presentation as a final slide. Can reuse the final slide for all talks.
+
 ## Other
 
 - Check everything once I leave a room. In case I forget anything.

@@ -197,6 +197,7 @@
 - [Jet](https://github.com/go-jet/jet) - Type safe SQL Builder for Go with automatic scan to desired arbitrary object structure.
 - [ent](https://github.com/facebookincubator/ent) - An Entity Framework For Go. Simple, yet powerful ORM for modeling and querying data.
 - [Ebiten](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library in Go.
+- [Muon](https://github.com/ImVexed/muon) - Lightweight alternative to Electron written in Golang in about ~300 LoC, using Ultralight instead of Chromium.
 
 ## Links
 
