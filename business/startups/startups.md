@@ -82,6 +82,7 @@
 - ["Facilitating Technology Change Through Cultural Change" by Grant Maki (2018)](https://www.youtube.com/watch?v=5WVXCy1Q88o)
 - [Kevin Systrom — Tactics, Books, and the Path to a Billion Users (2019)](https://www.youtube.com/watch?v=5x912QLs5uY)
 - [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite (2019)](https://firstround.com/review/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite/)
+- [GitLab team handbook](https://about.gitlab.com/handbook/)
 
 ## Images
 

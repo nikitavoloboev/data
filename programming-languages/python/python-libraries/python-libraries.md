@@ -41,3 +41,4 @@
 - [StrictYAML](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
 - [coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.
 - [Hydra](https://github.com/facebookresearch/hydra) - Framework for elegantly configuring complex applications.
+- [Toolz](https://github.com/pytoolz/toolz) - Set of utility functions for iterators, functions, and dictionaries.
