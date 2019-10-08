@@ -16,3 +16,4 @@
 - [Why aren’t more companies remote-first?](https://upside.fm/the-future-of-work-is-here-so-why-arent-more-companies-remote-first/) ([HN](https://news.ycombinator.com/item?id=20103935))
 - [Why Everyone Loves Remote Work (2019)](https://usefyi.com/remote-work-report/) ([HN](https://news.ycombinator.com/item?id=20745808))
 - [Ask HN: Cons of Being on a Remote/Distributed Team? (2019)](https://news.ycombinator.com/item?id=21020168)
+- [Sid Sijbrandij: “People don’t want to commute; they just don’t want to miss out” (2019)](https://nohq.co/blog/sid-sijbrandij-people-dont-want-to-commute-they-ju/) ([HN](https://news.ycombinator.com/item?id=21123910))

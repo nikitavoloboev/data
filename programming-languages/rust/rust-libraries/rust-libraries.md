@@ -127,6 +127,7 @@
 - [rust-GSL](https://github.com/GuillaumeGomez/rust-GSL) - Rust binding for the GSL library (the GNU Scientific Library).
 - [Walrus](https://github.com/rustwasm/walrus) - WebAssembly transformation library.
 - [combine](https://github.com/Marwes/combine) - Parser combinator library for Rust.
+- [Syn](https://github.com/dtolnay/syn) - Parsing library for parsing a stream of Rust tokens into a syntax tree of Rust source code.
 
 ## Cargo Plugins
 
