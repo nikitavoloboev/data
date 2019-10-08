@@ -42,3 +42,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Free Software Needs Free Tools (2010)](https://mako.cc/writing/hill-free_tools.html)
 - [Recap of the `funding` experiment (2019)](https://feross.org/funding-experiment-recap/) ([HN](https://news.ycombinator.com/item?id=20826535))
 - [Contributor Covenant](https://www.contributor-covenant.org/) - Code of Conduct for Open Source Projects.
+- [SourceSort](https://www.sourcesort.com/) - Find the perfect open source projects to contribute to.
