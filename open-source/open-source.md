@@ -43,3 +43,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Recap of the `funding` experiment (2019)](https://feross.org/funding-experiment-recap/) ([HN](https://news.ycombinator.com/item?id=20826535))
 - [Contributor Covenant](https://www.contributor-covenant.org/) - Code of Conduct for Open Source Projects.
 - [SourceSort](https://www.sourcesort.com/) - Find the perfect open source projects to contribute to.
+- [TideLift](https://tidelift.com/) - Commercial support and maintenance for the open source dependencies you use to build your applications, backed by the project maintainers.
