@@ -48,3 +48,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub users with most contributors (worldwide)](https://github.com/lauripiispanen/github-top/blob/master/_data/locations/worldwide.yml) - Can also see by [location](https://github.com/lauripiispanen/github-top/tree/master/_data/locations).
 - [GitHub GraphQL API client for browsers and Node](https://github.com/octokit/graphql.js)
 - [shhgit](https://github.com/eth0izzle/shhgit) - Find GitHub secrets in real time.
+- [Octobox](https://github.com/octobox/octobox) - Helps you manage your GitHub notifications efficiently so you can spend less time managing and more time getting things done.

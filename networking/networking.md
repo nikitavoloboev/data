@@ -38,3 +38,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Netdata](https://github.com/netdata/netdata) - Distributed, real-time, performance and health monitoring for systems and applications.
 - [OpenDrop](https://github.com/seemoo-lab/opendrop) - Open Source AirDrop Implementation.
 - [Apache Traffic Server](https://github.com/apache/trafficserver)
+- [Mainframer](https://github.com/buildfoundation/mainframer) - Tool that executes a command on a remote machine while syncing files back and forth.
