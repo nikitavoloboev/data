@@ -24,3 +24,4 @@
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
 - [TensorNetwork](https://github.com/google/TensorNetwork) - Library for easy and efficient manipulation of tensor networks.
 - [dask-ml](https://github.com/dask/dask-ml) - Scalable Machine Learning with Dask.
+- [lambda-ml](https://github.com/cloudkj/lambda-ml) - Small machine learning library aimed at providing simple, concise implementations of machine learning techniques and utilities.

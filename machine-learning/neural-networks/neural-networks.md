@@ -47,3 +47,4 @@
 - [Neural Networks, Types, and Functional Programming (2015)](https://colah.github.io/posts/2015-09-NN-Types-FP/)
 - [Glow](https://github.com/pytorch/glow) - Compiler for Neural Network hardware accelerators.
 - [Go Neural Net Sandbox](https://github.com/lightvector/GoNN) - Sandbox for personal experimentation in Go neural net training and Go AI.
+- [layer](https://github.com/cloudkj/layer) - Neural network inference the Unix way.
