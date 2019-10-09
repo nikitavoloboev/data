@@ -19,3 +19,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [mkcert](https://github.com/FiloSottile/mkcert) - Simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [Boulder](https://github.com/letsencrypt/boulder) - ACME-based CA, written in Go.
 - [If you were tasked to conduct a security audit on a server/database-backed web app, where would you start? (2019)](https://dev.to/ben/if-you-were-tasked-to-conduct-a-security-audit-on-a-server-database-backed-web-app-where-would-you-start-573o)
+- [Resilience engineering papers](https://github.com/lorin/resilience-engineering#readme)
