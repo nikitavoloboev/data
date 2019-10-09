@@ -1,10 +1,10 @@
 # [Stylish](https://userstyles.org) themes
 
-I prefer to use dark interfaces on websites. I use [Cascadea](https://cascadea.app) Safari Extension to change the looks of the sites I use to have darker colors in cases where sites don't have them as default. The extension also lets you import any of [Stylish themes](https://userstyles.org) to it. Here is a [download of all the Cascadea styles I use](https://www.dropbox.com/s/dcnhujryt0ydft5/Cascadea%20Styles.sdb?dl=1). For sites that I don't modify with Cascadea, I also run [Dark Reader](https://darkreader.org/) extension which automatically turns all websites dark and does quite a good job at that.
+I prefer to use dark interfaces on websites where it's available. Previously I used [Cascadea](https://cascadea.app) Safari Extension to change the looks of sites to have darker colors. The extension lets you import any of [Stylish themes](https://userstyles.org). Here is a [download of all the Cascadea styles I used](https://www.dropbox.com/s/dcnhujryt0ydft5/Cascadea%20Styles.sdb?dl=1). For sites I didn't modify with Cascadea, I ran [Dark Reader](https://darkreader.org/) extension which automatically turns all websites dark and does quite a good job at that.
 
-I use Chrome only for webdev and I use [Stylus](https://github.com/openstyles/stylus#readme) there instead of Stylish as the latter [collects websites you visit](https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/).
+I don't use either of those extensions now am waiting for official releases of dark modes for those websites.
 
-Below are themes I like using:
+Below are some Stylish themes I used:
 
 ## [GitHub Dark](https://userstyles.org/styles/37035/github-dark)
 

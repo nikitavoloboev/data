@@ -12,3 +12,4 @@
 - [ScPL](https://editor.scpl.dev/) - Programming language for writing iOS Shortcuts in text. ([OSS](https://github.com/pfgithub/scpl))
 - [What's new in iOS 13 Shortcuts](https://www.reddit.com/r/shortcuts/comments/d62ovd/whats_new_in_ios_13_shortcuts/)
 - [JSBox demos](https://github.com/cyanzhong/xTeko)
+- [iOS Shortcuts: The Ultimate Guide for Resources, Examples, Libraries, Triggers, and More (2019)](https://thesweetsetup.com/ios-shortcuts-guide/)
