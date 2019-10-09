@@ -32,7 +32,7 @@ I made my `All` list sorted by `Modified date`. This lets me cleanly delete or a
 
 I use recurring scheduled tasks in 2Do as a way to remember to complete my day/week/monthly reviews which I often do in the evenings of particular days.
 
-![](https://i.imgur.com/vbESjIN.png)
+![](https://i.imgur.com/mRjUnjm.png)
 
 ## URL Scheme
 

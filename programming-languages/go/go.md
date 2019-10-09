@@ -116,3 +116,4 @@ Go promotes composition over inheritance.
 - [go-callvis](https://github.com/TrueFurby/go-callvis) - Visualize call graph of a Go program using dot (Graphviz).
 - [goo](https://github.com/benbjohnson/goo) - Simple wrapper around the Go toolchain.
 - [Go Cheat Sheet](https://github.com/a8m/golang-cheat-sheet#readme) - Overview of Go syntax and features.
+- [packr](https://github.com/gobuffalo/packr) - Simple and easy way to embed static files into Go binaries.

@@ -51,3 +51,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Show HN: Everything I Know Wiki (2019)](https://news.ycombinator.com/item?id=19468993)
 - [Ask HN: Do you keep a personal knowledge repository? (2019)](https://news.ycombinator.com/item?id=20007108)
 - [WeeWiki](https://github.com/PaulBatchelor/weewiki) - Wee little wiki engine used to generate personal wikis and mind maps.
+- [Dnote](https://github.com/dnote/dnote) - Simple personal knowledge base.
