@@ -40,3 +40,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Curated list of shell commands and tools specific to macOS](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 - [The new Mac Pro is a design remix (2019)](https://www.arun.is/blog/mac-pro/)
 - [BlockBlock](https://www.objective-see.com/products/blockblock.html) - Continually monitors common persistence locations and displays an alert whenever a persistent component is added to the OS.
+- [Impact](https://github.com/ChimeHQ/Impact) - Crash detection and recording library for Apple platforms.

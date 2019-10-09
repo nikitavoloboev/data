@@ -109,6 +109,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Deepsource](https://deepsource.io/) - Detect bug risks, anti-patterns and security vulnerabilities before they end up in production. For Python and Go.
 - [Spotify TUI](https://github.com/Rigellute/spotify-tui) - Spotify client for the terminal written in Rust.
 - [List of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev#readme)
+- [Open Policy Agent](https://github.com/open-policy-agent/opa) - Open source, general-purpose policy engine.
 
 ## Notes
 
