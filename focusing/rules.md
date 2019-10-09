@@ -24,7 +24,7 @@ Some simple rules to follow when doing things.
 - [Exercise](../fitness/fitness.md). 40+ min (running/cycling/bodyweight/yoga).
 - Eat a [whole food, plant based diet](../health/nutrition/nutrition.md).
 - Drink lots of water & tea. Limit coffee consumption (1 cup / day max). No added sugar in drinks/food.
-- [Sleep](../sleep/sleep.md) at least 8 hours every day. Wake up & go to sleep at same time.
+- [Sleep](../sleep/sleep.md) at least 8 hours every day. Don't limit sleep, ever. Try go to sleep at same time.
 - Always have good posture. Sit properly and upright, don't bend my back/spine.
 - Take [essentials daily supplements](../health/nutrition/supplements.md).
 - Everything in moderation. Avoid alcohol and hard drugs (like opiates).

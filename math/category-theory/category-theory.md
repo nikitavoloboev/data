@@ -48,6 +48,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [The Yoneda Perspective: an object is completely determined by its relationships to other objects (2017)](https://www.math3ma.com/blog/the-yoneda-lemma)
 - [Understanding Yoneda (2013)](https://bartoszmilewski.com/2013/05/15/understanding-yoneda/)
 - [Idris category theory](https://github.com/statebox/idris-ct) - Formally verified category theory library.
+- [Category Theory and Lambda Calculus Thesis (2018)](https://mroman42.github.io/ctlc/ctlc.pdf)
 
 ## Images
 
