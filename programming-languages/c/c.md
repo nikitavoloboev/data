@@ -20,3 +20,4 @@
 - [clang](https://github.com/llvm-mirror/clang) - Compiler front-end for the C family of languages (C, C++, Objective-C, and Objective-C++) which is built as part of the LLVM compiler infrastructure project.
 - [rcc](https://github.com/jyn514/rcc) - C compiler written in Rust, with a focus on good error messages.
 - [Post modern C tooling (2019)](http://renesd.blogspot.com/2019/09/post-modern-c-tooling.html)
+- [Small C Compilers](https://bootstrapping.miraheze.org/wiki/Main_Page#Small_C_Compilers) ([HN](https://news.ycombinator.com/item?id=21210087))

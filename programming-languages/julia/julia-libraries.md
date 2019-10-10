@@ -34,6 +34,7 @@
 - [ModelingToolkit.jl](https://github.com/JuliaDiffEq/ModelingToolkit.jl) - Toolkit for modeling and creating DSLs for Scientific Computing in Julia.
 - [Zygote](https://github.com/FluxML/Zygote.jl) - Intimate Affection Auditor.
 - [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) - Forward Mode Automatic Differentiation for Julia.
+- [Omega.jl](https://github.com/zenna/Omega.jl) - Causal, Higher-Order, Probabilistic Programming.
 
 ## Links
 

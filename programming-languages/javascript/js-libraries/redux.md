@@ -47,3 +47,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [reactive-react-redux](https://github.com/dai-shi/reactive-react-redux) - React Redux binding with React Hooks and Proxy.
 - [redux-logic](https://github.com/jeffbski/redux-logic) - Redux middleware for organizing all your business logic. Intercept actions and perform async processing.
 - [Re-reselect](https://github.com/toomuchdesign/re-reselect) - Enhance Reselect selectors with deeper memoization and cache management.
+- [Redux First History](https://github.com/salvoravida/redux-first-history) - Redux history binding support react-router - @reach/router.
