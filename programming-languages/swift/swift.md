@@ -53,3 +53,4 @@
 - [swift-bindgen](https://github.com/rustswift/swift-bindgen) - Bridging the gap between Swift and Rust.
 - [Swift Performance (2019)](https://forums.swift.org/t/swift-performance/28776)
 - [Swift Compiler Driver](https://github.com/apple/swift-driver) - Program that coordinates the compilation of Swift source code into various compiled results: executables, libraries, object files, Swift modules and interfaces, etc.
+- [dotSwift 2019 - Soroush Khanlou - From Problem to Solution](https://www.youtube.com/watch?v=3G_ffcgRLMw)

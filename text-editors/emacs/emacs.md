@@ -31,3 +31,4 @@ Might give it a go sometime.
 - [Emacs Prelude](https://github.com/bbatsov/prelude) - Emacs distribution that aims to enhance the default Emacs experience.
 - [Language Server Protocol Support for Emacs](https://github.com/emacs-lsp/lsp-mode)
 - [Why Emacs (2019)](https://www.birkey.co/2019-08-04-why-emacs.html)
+- [A Semi-literate Emacs Configuration](https://zge.us.to/emacs.d.html)

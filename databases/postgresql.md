@@ -28,3 +28,4 @@
 - [The Art of PostgreSQL](https://theartofpostgresql.com/) - Book that teaches SQL to developers: Learn to replace thousands of lines of code with simple queries.
 - [PLV8](https://github.com/plv8/plv8) - V8 Engine Javascript Procedural Language add-on for PostgreSQL.
 - [HN: PostgreSQL 12 release (2019)](https://news.ycombinator.com/item?id=21146356)
+- [ PostgreSQL: When it’s not your job (2017)](https://thebuild.com/presentations/not-your-job-pgconf-us-2017.pdf)
