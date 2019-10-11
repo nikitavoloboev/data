@@ -47,3 +47,6 @@
 - [Gyana](https://www.gyana.co.uk/) - Desktop app making data science approachable to all.
 - [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling. ([Website](https://dask.org/))
 - [Numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM.
+- [What's your typical data pipeline in a small company? (2019)](https://www.reddit.com/r/datascience/comments/dge7wh/whats_your_typical_data_pipeline_in_a_small/)
+- [dbt](https://www.getdbt.com/) - Data build tool. Analytics engineering workflow.
+- [Apache Airflow](https://github.com/apache/airflow) - Platform to programmatically author, schedule, and monitor workflows.

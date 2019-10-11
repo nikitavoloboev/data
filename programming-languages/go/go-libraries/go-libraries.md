@@ -202,6 +202,8 @@
 - [env](https://github.com/caarlos0/env) - Simple lib to parse envs to structs in Go.
 - [go-execute](https://github.com/alexellis/go-execute) - Wrapper for executing commands in Go.
 - [pie](https://github.com/elliotchance/pie) - Code generator for dealing with slices that focuses on type safety, performance and immutability.
+- [govalidator](https://github.com/asaskevich/govalidator) - Package of validators and sanitizers for strings, numerics, slices and structs.
+- [gocraft/dbr](https://github.com/gocraft/dbr) - Additions to Go's database/sql for super fast performance and convenience.
 
 ## Links
 
