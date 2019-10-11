@@ -20,3 +20,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Boulder](https://github.com/letsencrypt/boulder) - ACME-based CA, written in Go.
 - [If you were tasked to conduct a security audit on a server/database-backed web app, where would you start? (2019)](https://dev.to/ben/if-you-were-tasked-to-conduct-a-security-audit-on-a-server-database-backed-web-app-where-would-you-start-573o)
 - [Resilience engineering papers](https://github.com/lorin/resilience-engineering#readme)
+- [How Monzo security team handle secrets (2019)](https://monzo.com/blog/2019/10/11/how-our-security-team-handle-secrets)

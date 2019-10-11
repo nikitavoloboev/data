@@ -128,6 +128,10 @@ Here are few more things I liked, design wise.
 - [Karolina](https://thefox.is/)
 - [Melanie Richards](https://melanie-richards.com/)
 
+## Analog
+
+- [Braun Audio](https://www.braun-audio.com/)
+
 ## Other
 
 - [Monzo docs](https://monzo.com/docs/#authentication) - Love the look of it.
