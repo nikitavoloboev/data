@@ -37,3 +37,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Ask HN: Recommended resources to learn the Linux kernel and OS theory? (2019)](https://news.ycombinator.com/item?id=20809666)
 - [Soso](https://github.com/ozkl/soso) - Simple unix-like operating system written in Nasm assembly and mostly in C.
 - [swieros](https://github.com/rswier/swieros) - Tiny and fast Unix-ish kernel (based on xv6), compiler, and userland for fun, education, and research.
+- [A dream of an ultimate OS (1995)](http://okmij.org/ftp/papers/DreamOSPaper.html) ([HN](https://news.ycombinator.com/item?id=20754592))

@@ -52,3 +52,4 @@
 - [Differentiable Programming Mega-Proposal (2019)](https://forums.swift.org/t/differentiable-programming-mega-proposal/28547)
 - [swift-bindgen](https://github.com/rustswift/swift-bindgen) - Bridging the gap between Swift and Rust.
 - [Swift Performance (2019)](https://forums.swift.org/t/swift-performance/28776)
+- [Swift Compiler Driver](https://github.com/apple/swift-driver) - Program that coordinates the compilation of Swift source code into various compiled results: executables, libraries, object files, Swift modules and interfaces, etc.
