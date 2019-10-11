@@ -46,3 +46,4 @@
 - [Foundations of Data Science (2019)](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) ([HN](https://news.ycombinator.com/item?id=21179378))
 - [Gyana](https://www.gyana.co.uk/) - Desktop app making data science approachable to all.
 - [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling. ([Website](https://dask.org/))
+- [Numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM.

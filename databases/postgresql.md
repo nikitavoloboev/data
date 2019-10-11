@@ -30,3 +30,4 @@
 - [HN: PostgreSQL 12 release (2019)](https://news.ycombinator.com/item?id=21146356)
 - [PostgreSQL: When it’s not your job (2017)](https://thebuild.com/presentations/not-your-job-pgconf-us-2017.pdf)
 - [Postgres Is Underrated—It Handles More than You Think (2019)](https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3) ([Lobsters](https://lobste.rs/s/oqb6fu/postgres_is_underrated_it_handles_more))
+- [Postgres Schema Design](https://www.graphile.org/postgraphile/postgresql-schema-design/)

@@ -42,3 +42,4 @@
 - [coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.
 - [Hydra](https://github.com/facebookresearch/hydra) - Framework for elegantly configuring complex applications.
 - [Toolz](https://github.com/pytoolz/toolz) - Set of utility functions for iterators, functions, and dictionaries.
+- [PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python.
