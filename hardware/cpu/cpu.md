@@ -7,3 +7,4 @@
 - [SHAKTI](http://shakti.org.in/) - Open-source Processor Development Ecosystem.
 - [I don't know how CPUs work so I simulated one in code (2019)](https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/)
 - [Simple Computer](https://github.com/djhworld/simple-computer) - Whilst reading But How Do It Know? by J. Clark Scott I felt compelled to write something to simulate the computer the book describes.
+- [Awesome CPU and MCU documentation](https://github.com/larsbrinkhoff/awesome-cpus#readme)
