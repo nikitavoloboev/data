@@ -16,3 +16,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Funky](https://github.com/bbugyi200/funky) - Takes shell functions to the next level by making them easier to define, more flexible, and more interactive.
 - [create-bash-script](https://github.com/nikita-skobov/create-bash-script) - Bash script designed to create other bash scripts with argument parsing.
 - [Bash Language Server](https://github.com/mads-hartmann/bash-language-server) - Bash language server implementation based on Tree Sitter and its grammar for Bash with explainshell integration.
+- [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)

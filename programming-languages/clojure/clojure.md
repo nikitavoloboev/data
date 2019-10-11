@@ -26,3 +26,4 @@
 - [Fast Tensors in Clojure - a Sneak Peek](https://dragan.rocks/articles/19/Fast-tensors-Clojure-sneak-peek?src=hn) ([HN](https://news.ycombinator.com/item?id=20798874))
 - [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure (2013)](https://www.youtube.com/watch?v=wASCH_gPnDw)
 - [Small Clojure Interpreter](https://github.com/borkdude/sci) - Tiny implementation of Clojure in Clojure. ([HN](https://news.ycombinator.com/item?id=21179037))
+- [Elements of Clojure with Zach Tellman](https://www.therepl.net/episodes/23/) ([HN](https://news.ycombinator.com/item?id=21090288))
