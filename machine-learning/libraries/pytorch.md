@@ -36,3 +36,4 @@
 - [PyWarm](https://github.com/blue-season/pywarm) - Cleaner way to build neural networks for PyTorch.
 - [PyTorch implementations of algorithms for density estimation](https://github.com/ikostrikov/pytorch-flows)
 - [Higher](https://github.com/facebookresearch/higher) - PyTorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
+- [Detectron2](https://github.com/facebookresearch/detectron2) - FAIR's next-generation research platform for object detection and segmentation.

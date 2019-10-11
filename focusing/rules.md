@@ -45,7 +45,7 @@ Some simple rules to follow when doing things.
 - Only have essential notifications setup. Be in Do Not Disturb mode by default.
 - Take mindfulness breaks and breathe if I see myself being distracted.
 - Build useful tools. Create art.
-- Think. Think decisions through. Be decisive and bold.
+- Think. Think decisions through. Be decisive, bold & right.
 
 ## Work
 

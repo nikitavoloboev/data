@@ -82,7 +82,8 @@
 - [JSMonday](http://www.jsmonday.dev/) - Weekly JS inspiration.
 - [Chevrotain](https://github.com/SAP/chevrotain) - Parser Building Toolkit for JavaScript.
 - [Comprehensive list of new ES features](https://github.com/daumann/ECMAScript-new-features-list)
-- [JavaScript for impatient programmers book](https://exploringjs.com/impatient-js/toc.html)
 - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
+- [JavaScript for impatient programmers book](https://exploringjs.com/impatient-js/toc.html)
+- [Exploring ES2018 and ES2019](https://exploringjs.com/es2018-es2019/toc.html)
 - [TC39 Meeting Notes](https://tc39.es/tc39-notes/)
 - [Mesh Spreadsheet](https://github.com/chrispsn/mesh/) - Visualise data and edit JavaScript code using a spreadsheet interface.

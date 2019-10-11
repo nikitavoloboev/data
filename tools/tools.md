@@ -111,6 +111,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [List of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev#readme)
 - [Open Policy Agent](https://github.com/open-policy-agent/opa) - Open source, general-purpose policy engine.
 - [n8n](https://github.com/n8n-io/n8n) - Workflow Automation Tool.
+- [DevDash](https://github.com/Phantas0s/devdash) - Highly Configurable Terminal Dashboard for Developers.
 
 ## Notes
 
