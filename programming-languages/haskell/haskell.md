@@ -68,6 +68,7 @@
 - [Why I (as of June 22 2019) think Haskell is the best general purpose language](http://www.philipzucker.com/why-i-as-of-june-22-2019-think-haskell-is-the-best-general-purpose-language-as-of-june-22-2019/)
 - [Ormolu](https://github.com/tweag/ormolu) - Formatter for Haskell source code. ([Announcement article](https://www.tweag.io/posts/2019-10-11-ormolu-first-release.html))
 - [Koka](https://github.com/koka-lang/koka) - Function-oriented language with effect inference.
+- [Write You a Haskell](http://dev.stephendiehl.com/fun/) - Building a modern functional compiler from first principles.
 - [Write You a Haskell 2](https://github.com/JKTKops/Write-You-a-Haskell-2) - Continuation of Steven Diehl's Write You a Haskell.
 - [Verification with Refinement Types](https://ranjitjhala.github.io/CAV19-tutorial/00-outline.html)
 - [Hoogle](https://github.com/ndmitchell/hoogle) - Haskell API search engine.
