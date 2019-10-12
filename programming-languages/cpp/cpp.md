@@ -27,3 +27,4 @@
 - [Mesh](https://github.com/plasma-umass/Mesh) - Memory allocator that automatically reduces the memory footprint of C/C++ applications.
 - [Circle](https://github.com/seanbaxter/circle) - C++ Automation Language.
 - [CppCon 2019: Chandler Carruth “There Are No Zero-cost Abstractions” (2019)](https://www.youtube.com/watch?v=rHIkrotSwcc)
+- [Cppcheck](https://github.com/danmar/cppcheck) - Static analysis of C/C++ code.

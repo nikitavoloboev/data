@@ -10,3 +10,4 @@
 - [fastq-rs](https://github.com/aseyboldt/fastq-rs) - Can process fastq files at about the speed of the coreutils.
 - [nglview](https://github.com/arose/nglview) - Jupyter widget to interactively view molecular structures and trajectories.
 - [ngl](https://github.com/arose/ngl) - WebGL protein viewer.
+- [Mark Zuckerberg Live With Joe DeRisi & Steve Quake || The Future of Technology & Society (2019)](https://www.youtube.com/watch?v=vdUpF2dmnc8)
