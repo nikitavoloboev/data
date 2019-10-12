@@ -10,8 +10,6 @@ The number between brackets shows the year I created the repo in. Repos with �
 
 ## Alfred
 
-- [Trello (2018) 💡](https://github.com/nikitavoloboev/alfred-trello#readme) - Search Trello.
-- [GitHub (2018) 💡](https://github.com/nikitavoloboev/alfred-github-users#readme) - Search GitHub.
 - [Awesome Lists (2017) 🌟](https://github.com/nikitavoloboev/alfred-awesome-lists#readme) - Search awesome lists.
 - [Small Workflows (2017) 🌟](https://github.com/nikitavoloboev/small-workflows#readme) - Small Alfred workflows I use.
 - [My Mind (2017) 🌟](https://github.com/nikitavoloboev/alfred-my-mind#readme) - Search through my notes and bookmarks.
