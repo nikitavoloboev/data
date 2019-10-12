@@ -90,8 +90,9 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Support
 
-- [Patreon](https://patreon.com/nikitavoloboev) - Since I do nearly everything Open Source and Free by default, I don't get any money for these things. Thus anyone who likes my work can show it in form of small or bigger donations.
-- [Buy me a Coffee](https://www.buymeacoffee.com/nikitavoloboev) - One time donations.
+- [GitHub Sponsors](https://github.com/users/nikitavoloboev/sponsorship)
+- [Patreon](https://patreon.com/nikitavoloboev)
+- [Buy me a Coffee](https://www.buymeacoffee.com/nikitavoloboev)
 
 ## Other
 
