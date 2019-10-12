@@ -49,6 +49,8 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Understanding Yoneda (2013)](https://bartoszmilewski.com/2013/05/15/understanding-yoneda/)
 - [Idris category theory](https://github.com/statebox/idris-ct) - Formally verified category theory library.
 - [Category Theory and Lambda Calculus Thesis (2018)](https://mroman42.github.io/ctlc/ctlc.pdf)
+- [Computational Category Theory](https://pdfs.semanticscholar.org/3f99/553ca06ce451c5b76479c96e191ad69f3e04.pdf)
+- [A categorical semantics for causal structure (2019)](https://arxiv.org/pdf/1701.04732.pdf)
 
 ## Images
 
