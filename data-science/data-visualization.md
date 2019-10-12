@@ -18,3 +18,4 @@
 - [Dash App Gallery](https://dash-gallery.plotly.host/Portal/)
 - [Scientific Visualization – Python & Matplotlib book](https://github.com/rougier/scientific-visualization-book)
 - [Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism)
+- [SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.

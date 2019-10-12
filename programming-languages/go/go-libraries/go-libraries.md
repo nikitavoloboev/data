@@ -204,6 +204,7 @@
 - [pie](https://github.com/elliotchance/pie) - Code generator for dealing with slices that focuses on type safety, performance and immutability.
 - [govalidator](https://github.com/asaskevich/govalidator) - Package of validators and sanitizers for strings, numerics, slices and structs.
 - [gocraft/dbr](https://github.com/gocraft/dbr) - Additions to Go's database/sql for super fast performance and convenience.
+- [httpauth](https://github.com/apexskier/httpauth) - Go (lang) HTTP session authentication.
 
 ## Links
 

@@ -209,7 +209,7 @@ Below is a list of extensions I use.
 
 ## Coq
 
-- [Coq Support](https://github.com/microsoft/vscode-vsce)
+- [Coq Support](https://github.com/siegebell/vscoq)
 
 ## TLA
 
