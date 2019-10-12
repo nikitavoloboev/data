@@ -47,10 +47,6 @@ The number between brackets shows the year I created the repo in. Repos with ðŸŒ
 
 - [Monokai Night Vim (2018)](https://github.com/nikitavoloboev/vim-monokai-night#readme)
 
-## Web
-
-- [Boxes (2017) ðŸ’¡](https://github.com/nikitavoloboev/boxes#readme) - Your life as little boxes.
-
 ## Practice
 
 - [Build to learn (2019)](https://github.com/nikitavoloboev/build-to-learn) - Attempts at building things for deeper understanding/practice.
