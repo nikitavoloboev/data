@@ -41,6 +41,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Brennan Letkeman](https://ltkmn.gitbook.io/brendex/)
 - [Andy Sparks](https://github.com/AndySparks/captains-log)
 - [Krzysztof Kowalczyk](https://blog.kowalczyk.info/)
+- [Phil Eaton's notes](http://notes.eatonphil.com/)
 - [Full-stack web development notes](https://github.com/8483/notes#readme)
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
 

@@ -7,7 +7,6 @@
 - [wasm-pack](https://github.com/ashleygwilliams/wasm-pack) - Pack up the wasm and publish it to npm.
 - [Dan Callahan: Practical WebAssembly](https://www.youtube.com/watch?v=bac0dGQbUto)
 - [WebAssembly Spec](https://github.com/WebAssembly/spec/)
-- [WAVM](https://github.com/AndrewScheidecker/WAVM) - WebAssembly Virtual Machine.
 - [WebAssembly Demystified](http://floooh.github.io/2017/06/09/webassembly-demystified.html)
 - [Life](https://github.com/perlin-network/life#readme) - Secure WebAssembly VM catered for decentralized applications.
 - [Calls between JavaScript and WebAssembly are finally fast](https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/)
@@ -40,4 +39,4 @@
 - [WABT](https://github.com/WebAssembly/wabt) - WebAssembly Binary Toolkit.
 - [RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak](https://www.youtube.com/watch?v=lLzFJenzBng)
 - [WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes#readme)
-- [WAVM](https://github.com/WebAssembly/wasm-jit-prototype) - WebAssembly virtual machine, designed for use in non-web applications.
+- [WAVM](https://github.com/AndrewScheidecker/WAVM) - WebAssembly Virtual Machine. Uses LLVM to compile WebAssembly code to machine code with close to native performance.

@@ -118,3 +118,4 @@ Go promotes composition over inheritance.
 - [Go Cheat Sheet](https://github.com/a8m/golang-cheat-sheet#readme) - Overview of Go syntax and features.
 - [packr](https://github.com/gobuffalo/packr) - Simple and easy way to embed static files into Go binaries.
 - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md#readme) ([HN](https://news.ycombinator.com/item?id=21225401))
+- [Interpreting Go (2019)](http://notes.eatonphil.com/interpreting-go.html)
