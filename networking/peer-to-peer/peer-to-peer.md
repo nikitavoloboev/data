@@ -19,3 +19,4 @@
 - [Yjs](https://github.com/yjs/yjs) - CRDT framework with a powerful abstraction of shared data.
 - [PeerLinks](https://github.com/peerlinks/peerlinks) - Protocol for building "Distributed Secure IRC" (or distributed Slack if you wish).
 - [Ambients](https://github.com/aphelionz/ambients) - Peer-to-Peer Programs and Data.
+- [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Open source intelligent P2P based image and file distribution system.

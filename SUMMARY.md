@@ -362,6 +362,7 @@
   - [Shell](unix/shell/shell.md)
     - [Zsh](unix/shell/zsh/zsh.md)
       - [Zsh plugins](unix/shell/zsh/zsh-plugins.md)
+    - [Fish](unix/shell/fish.md)
   - [My file system](unix/my-file-system.md)
   - [Dotfiles](unix/dotfiles.md)
 - [Protocols](protocols/protocols.md)

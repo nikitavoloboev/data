@@ -391,14 +391,6 @@ Some simple rules to follow when doing things.
 - Prefer to have the prefix reference the meaning in some way for easier mental mapping of prefix to meaning.
 - Name and prefix things with focus on clarity. The semantics of prefixes should ideally be obvious. And naming should be appropriate.
 
-## Sleep
-
-- Prefer to sleep and wake up at the same time.
-  - 6:30AM - Wake up.
-  - 10:30PM - Sleep.
-- Sleep for ~ 8 hours each day.
-- No Mac/phone in bed in the the morning.
-
 ## Timing
 
 - Minimize _News_ time and aim at **< 40 hour News time** a day. Ideally less. Block everything that is distracting when working.
