@@ -80,3 +80,4 @@
 - [How to do a code review](https://google.github.io/eng-practices/review/reviewer/) ([HN](https://news.ycombinator.com/item?id=20890682))
 - [Ask HN: What Have You Learned at Google as a Software Engineer? (2019)](https://news.ycombinator.com/item?id=20911340)
 - [Software Foundations series](https://softwarefoundations.cis.upenn.edu/) - Broad introduction to the mathematical underpinnings of reliable software.
+- [Software optimization resources](https://www.agner.org/optimize/)
