@@ -119,3 +119,4 @@ Go promotes composition over inheritance.
 - [packr](https://github.com/gobuffalo/packr) - Simple and easy way to embed static files into Go binaries.
 - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md#readme) ([HN](https://news.ycombinator.com/item?id=21225401))
 - [Interpreting Go (2019)](http://notes.eatonphil.com/interpreting-go.html)
+- [gijit](https://github.com/gijit/gi) - Just-in-time trace-compiled golang REPL. Standing on the shoulders of giants (GopherJS and LuaJIT).

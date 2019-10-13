@@ -16,3 +16,4 @@
 - [Functional Programming in Scala book](https://www.manning.com/books/functional-programming-in-scala)
 - [Scala Almost Succeeded (2019)](https://medium.com/@fommil/scala-almost-succeeded-c3b1028b02c5) ([Lobsters](https://lobste.rs/s/ku13t3/scala_almost_succeeded))
 - [Scala Exercises](https://github.com/scala-exercises/scala-exercises) - Easy way to learn Scala.
+- [Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"](https://github.com/fpinscala/fpinscala)
