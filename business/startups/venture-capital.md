@@ -12,3 +12,4 @@
 - [Fifty Years](https://www.fifty.vc/) - Entrepreneur-run early stage venture fund based in San Francisco. We invest in companies that inspire.
 - [Resources for the Venture Capital Industry](https://www.arnaudbonzom.com/resources-for-the-venture-capital-industry/)
 - [GV](https://www.gv.com/) - Backs founders who transform industries and create new ones.
+- [Village Global](https://www.villageglobal.vc/) - Early-stage venture capital firm backed by some of the world’s most successful entrepreneurs.
