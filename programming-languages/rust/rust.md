@@ -79,3 +79,4 @@
 - [cargo-play](https://github.com/fanzeyi/cargo-play) - Tool to help you running your Rust code file without manually setting up a Cargo project.
 - [[cargo-]flamegraph](https://github.com/ferrous-systems/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes.
 - [Analysis of various tricky Rust code](https://github.com/dtolnay/case-studies)
+- [Falling in love with Rust (2018)](http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/)

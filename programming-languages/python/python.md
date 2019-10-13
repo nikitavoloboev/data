@@ -41,3 +41,4 @@
 - [Pythran](https://github.com/serge-sans-paille/pythran) - Ahead of time compiler for a subset of the Python language, with a focus on scientific computing.
 - [How to Python in VS Code](https://py-vscode.readthedocs.io/en/latest/)
 - [Airspeed Velocity](https://github.com/airspeed-velocity/asv) - Primarily designed to benchmark a single project over its lifetime using a given suite of benchmarks.
+- [New features planned for Python 4.0 satire](http://charlesleifer.com/blog/new-features-planned-for-python-4-0/)

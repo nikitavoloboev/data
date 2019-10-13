@@ -43,3 +43,4 @@
 - [Hydra](https://github.com/facebookresearch/hydra) - Framework for elegantly configuring complex applications.
 - [Toolz](https://github.com/pytoolz/toolz) - Set of utility functions for iterators, functions, and dictionaries.
 - [PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python.
+- [Peewee](https://github.com/coleifer/peewee) - Small, expressive orm -- supports postgresql, mysql and sqlite.
