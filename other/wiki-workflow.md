@@ -45,11 +45,16 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Full-stack web development notes](https://github.com/8483/notes#readme)
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
 
+## Wiki software
+
+- [GitBook](https://www.gitbook.com/)
+- [Oscean](https://github.com/XXIIVV/Oscean) - Flow-based serverless wiki.
+- [WeeWiki](https://github.com/PaulBatchelor/weewiki) - Wee little wiki engine used to generate personal wikis and mind maps.
+- [Dnote](https://github.com/dnote/dnote) - Simple personal knowledge base.
+- [Instiki](https://github.com/parasew/instiki) - Basic wiki clone so pretty and easy to set up, you’ll wonder if it’s really a wiki.
+
 ## Links
 
 - [Does anyone else keep their own knowledge wiki?](https://lobste.rs/s/ord0rg/does_anyone_else_keep_their_own_knowledge)
-- [Oscean](https://github.com/XXIIVV/Oscean) - Flow-based serverless wiki.
 - [Show HN: Everything I Know Wiki (2019)](https://news.ycombinator.com/item?id=19468993)
 - [Ask HN: Do you keep a personal knowledge repository? (2019)](https://news.ycombinator.com/item?id=20007108)
-- [WeeWiki](https://github.com/PaulBatchelor/weewiki) - Wee little wiki engine used to generate personal wikis and mind maps.
-- [Dnote](https://github.com/dnote/dnote) - Simple personal knowledge base.

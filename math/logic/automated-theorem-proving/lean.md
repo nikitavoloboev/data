@@ -12,3 +12,6 @@
 - [Using Lean with undergraduate mathematicians (2019)](https://lean-forward.github.io/lean-together/2019/slides/buzzard.pdf)
 - [Lean Source Code](https://github.com/leanprover/lean)
 - [What does Lean already know?](https://xenaproject.wordpress.com/what-does-lean-already-know/)
+- [lean-category-theory](https://github.com/semorrison/lean-category-theory) - Experimental category theory library for Lean.
+- [Lean explained by nLab](https://ncatlab.org/nlab/show/Lean)
+- [Maths in Lean : category theory](https://github.com/leanprover-community/mathlib/blob/master/docs/theories/category_theory.md)
