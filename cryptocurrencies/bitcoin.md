@@ -13,3 +13,4 @@
 - [Introducing SOPR: spent outputs to predict bitcoin lows and tops (2019)](https://medium.com/unconfiscatable/introducing-sopr-spent-outputs-to-predict-bitcoin-lows-and-tops-ceb4536b3b9)
 - [Tokenized](https://tokenized.com/) - Easiest and safest way to issue, manage and trade security and utility tokens on the Bitcoin SV network.
 - [Bitcoin Resources](https://dergigi.com/bitcoin/resources/)
+- [Mastering the Lightning Network book](https://github.com/lnbook/lnbook)
