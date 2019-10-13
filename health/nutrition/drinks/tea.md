@@ -2,10 +2,6 @@
 
 I love tea of all kinds.
 
-## Favorite
-
-- Matcha tea latte
-
 ## Interesting
 
 - [Purple Voodoo" Purple Black Tea Cake](https://yunnansourcing.com/products/purple-voodoo-purple-black-tea-cake-spring-2018)

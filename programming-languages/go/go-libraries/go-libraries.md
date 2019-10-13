@@ -205,6 +205,7 @@
 - [govalidator](https://github.com/asaskevich/govalidator) - Package of validators and sanitizers for strings, numerics, slices and structs.
 - [gocraft/dbr](https://github.com/gocraft/dbr) - Additions to Go's database/sql for super fast performance and convenience.
 - [httpauth](https://github.com/apexskier/httpauth) - Go (lang) HTTP session authentication.
+- [syncmap](https://github.com/a8m/syncmap) - Typed implementation of the Go sync.Map using code generation.
 
 ## Links
 

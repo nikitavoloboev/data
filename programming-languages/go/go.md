@@ -120,3 +120,4 @@ Go promotes composition over inheritance.
 - [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md#readme) ([HN](https://news.ycombinator.com/item?id=21225401))
 - [Interpreting Go (2019)](http://notes.eatonphil.com/interpreting-go.html)
 - [gijit](https://github.com/gijit/gi) - Just-in-time trace-compiled golang REPL. Standing on the shoulders of giants (GopherJS and LuaJIT).
+- [unconvert](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.

@@ -109,6 +109,7 @@ Some simple rules to follow when doing things.
 
 - Reduce noise. Only follow high signal people & content I am interested in.
 - Have max 2 level of separation for filtering. (i.e. Follows / Other lists on Twitter). Filter aggressively for high signal.
+- Prefer subscribing to Atom over RSS if given a choice.
 
 ## Compassion
 

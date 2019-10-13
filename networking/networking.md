@@ -39,3 +39,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [OpenDrop](https://github.com/seemoo-lab/opendrop) - Open Source AirDrop Implementation.
 - [Apache Traffic Server](https://github.com/apache/trafficserver)
 - [Mainframer](https://github.com/buildfoundation/mainframer) - Tool that executes a command on a remote machine while syncing files back and forth.
+- [Magma](https://github.com/facebookincubator/magma) - Platform for building access networks and modular network services.
+- [Awesome Networking](https://github.com/clowwindy/Awesome-Networking#readme)
