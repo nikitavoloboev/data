@@ -20,22 +20,6 @@ Some mockups for next version of Learn Anything.
 
 If you want to help out, we have a [Discord server](https://discord.gg/KKYdWjt). ❤️
 
-## Notes
-
-- Can use [Stripe connect](https://stripe.com/gb/connect) to create a marketplace for LA.
-- Can use [Aurora](https://aws.amazon.com/rds/aurora/) to host Postgres db.
-- Can give in multiple subjects & LA crafts a guide for you taking into account subjects you already know (& skipping them?)
-- Can use [LRMI specification](http://lrmi.dublincore.org/specifications/lrmi/lrmi_1/). It's collection of properties to describe educational resources.
-
-## Possible Collaborations
-
-- [ArtificialChat](https://artificial.chat) - Had a call with them (Paul Levy and main dev). Their stack is AWS heavy. LA can use its conversational bot
-
-## Possible Funding
-
-- [Syllabus 2.0 doc](https://docs.google.com/document/d/1Cc4sUSILFdjNC6AJvQai2XlA6c3UG0ccDfWcFPME7hc/edit)
-- [USV Thesis 3.0](http://www.usv.com/blog/usv-thesis-30) - USV backs trusted brands that broaden access to knowledge, capital, and well-being by leveraging networks, platforms, and protocols. [Dani Grant](https://twitter.com/thedanigrant) is contact.
-
 ## Links
 
-- [Old LA Whitepaper translated to Chinese](https://zhuanlan.zhihu.com/p/31906443)
+- [LA Docs](https://docs.learn-anything.org) - Includes roadmap, notes.
