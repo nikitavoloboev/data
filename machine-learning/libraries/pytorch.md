@@ -37,3 +37,4 @@
 - [PyTorch implementations of algorithms for density estimation](https://github.com/ikostrikov/pytorch-flows)
 - [Higher](https://github.com/facebookresearch/higher) - PyTorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
 - [Detectron2](https://github.com/facebookresearch/detectron2) - FAIR's next-generation research platform for object detection and segmentation.
+- [Deep learning with PyTorch: a 60 minute blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)

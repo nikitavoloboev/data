@@ -83,6 +83,7 @@
 - [Kevin Systrom — Tactics, Books, and the Path to a Billion Users (2019)](https://www.youtube.com/watch?v=5x912QLs5uY)
 - [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite (2019)](https://firstround.com/review/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite/)
 - [GitLab team handbook](https://about.gitlab.com/handbook/)
+- [Ask HN: How did your startup change after an exit? (2019)](https://news.ycombinator.com/item?id=21235776)
 
 ## Images
 

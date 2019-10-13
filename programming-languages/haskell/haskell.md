@@ -88,3 +88,4 @@
 - [Learning Haskell is no harder than learning any other programming language (2019)](https://williamyaoh.com/posts/2019-10-05-you-are-already-smart-enough.html) ([HN](https://news.ycombinator.com/item?id=21170547)) ([Reddit](https://www.reddit.com/r/haskell/comments/ddsvbk/you_are_already_smart_enough_to_write_haskell/))
 - [Haskell eXchange 2019 talks](https://skillsmatter.com/conferences/11741-haskell-exchange-2019#skillscasts)
 - [Implementation of the Elm Architecture in Haskell with parallel side effects](https://github.com/lazamar/elm-architecture-haskell)
+- [Haskell in Production (2019)](http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html)
