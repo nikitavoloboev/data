@@ -8,3 +8,4 @@
 - [Christian Catalini - How Libra Will Interact With the Reserve](https://libra.org/en-US/wp-content/uploads/sites/23/2019/06/TheLibraReserve_en_US.pdf)
 - [Libra, a Cyberpunk Nightmare in the Midst of Crypto Spring (2019)](https://hackernoon.com/libra-a-cyberpunk-nightmare-in-the-midst-of-crypto-spring-5543b6f6e34b)
 - [Libra Resources](https://hacklibra.io/resources)
+- [HN: Visa, Mastercard, Stripe, and eBay exit Facebook’s Libra project (2019)](https://news.ycombinator.com/item?id=21227961)
