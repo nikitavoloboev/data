@@ -8,3 +8,7 @@
 
 - [Visualizing the Infinite Beauty Of Pi And Other Numbers](https://creators.vice.com/en_uk/article/qkwdbp/visualising-the-infinite-data-of-pie)
 - [Why do prime numbers make these spirals? (2019)](https://www.youtube.com/watch?v=EK32jo7i5LQ)
+- [Johan Commelin](https://www.math.ru.nl/~jcommelin/) - Main interest lies in algebraic geometry and algebraic number theory.
+- [Number theory learning seminar (2015)](http://math.stanford.edu/~conrad/Perfseminar/)
+- [Algebra Number Theory book](https://github.com/williamstein/ant)
+- [Does anyone “know” a proof of Fermat’s Last Theorem? (2019)](https://xenaproject.wordpress.com/2019/09/27/does-anyone-know-a-proof-of-fermats-last-theorem/)

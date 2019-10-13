@@ -95,6 +95,7 @@
     - [Combinatory logic](math/logic/combinatory-logic.md)
     - [Satisfiability modulo theories](math/logic/satisfiability-modulo-theories.md)
     - [Automated theorem proving](math/logic/automated-theorem-proving/automated-theorem-proving.md)
+      - [Lean](math/logic/automated-theorem-proving/lean.md)
   - [Linear algebra](math/linear-algebra/linear-algebra.md)
     - [Vectors](math/linear-algebra/vectors.md)
   - [Lambda calculus](math/lambda-calculus.md)

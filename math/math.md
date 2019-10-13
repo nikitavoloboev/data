@@ -1,6 +1,6 @@
 # Math
 
-[Univalent foundations](http://en.wikipedia.org/wiki/Univalent_foundations) and [Type Theory](type-theory/type-theory.md) are interesting. And [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has incredible explanations for various math topics.
+[Lean](logic/automated-theorem-proving/lean.md), [Univalent foundations](http://en.wikipedia.org/wiki/Univalent_foundations) and [Type Theory](type-theory/type-theory.md) are interesting. And [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has incredible explanations for various math topics.
 
 ## Notes
 
@@ -88,3 +88,5 @@
 - [The Riemann Hypothesis (2019)](https://golem.ph.utexas.edu/category/2019/09/the_riemann_hypothesis_part_1.html) ([HN](https://news.ycombinator.com/item?id=20912380))
 - [Nonlinear Dynamics and Chaos lectures](https://www.youtube.com/watch?v=ycJEoqmQvwg)
 - [The Future of Mathematics? (2019)](https://www.youtube.com/watch?v=Dp-mQ3HxgDE)
+- [CoCalc](https://github.com/sagemathinc/cocalc) - Collaborative Calculation in the Cloud.
+- [Prime Numbers and the Riemann Hypothesis](https://github.com/williamstein/rh)

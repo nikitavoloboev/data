@@ -1,7 +1,7 @@
 # [Automated theorem proving](https://en.wikipedia.org/wiki/Automated_theorem_proving)
 
+[Lean](lean.md) is [great](https://www.youtube.com/watch?v=Dp-mQ3HxgDE).
+
 ## Links
 
-- [Lean](https://leanprover.github.io/) - Open source theorem prover and programming language being developed at Microsoft Research.
-- [Xena](https://github.com/kbuzzard/xena) - Lean Library currently studying for a degree at Imperial College.
-- [lean-perfectoid-spaces](https://github.com/leanprover-community/lean-perfectoid-spaces) - Perfectoid spaces in the Lean formal theorem prover.
+- [Architecture of proof assistants (2018)](https://jiggerwit.wordpress.com/2018/04/14/the-architecture-of-proof-assistants/)
