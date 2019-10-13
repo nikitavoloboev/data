@@ -58,6 +58,7 @@
 - [tsconfig-paths](https://github.com/dividab/tsconfig-paths) - Load node modules according to tsconfig paths, in run-time or via API.
 - [ts-json-schema-generator](https://github.com/vega/ts-json-schema-generator) - Generate JSON schema from your Typescript sources.
 - [TSQuery](https://github.com/phenomnomnominal/tsquery) - Allows you to query a TypeScript AST for patterns of syntax using a CSS style selector system.
+- [Interpreting TypeScript](https://www.meetup.com/TypeScriptNYC/events/260291994/) ([Article](http://notes.eatonphil.com/interpreting-typescript.html))
 
 ## Images
 
