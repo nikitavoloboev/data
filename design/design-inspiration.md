@@ -127,6 +127,7 @@ Here are few more things I liked, design wise.
 - [Henry's Zoo](https://www.henryzoo.com/) - Simple.
 - [Karolina](https://thefox.is/)
 - [Melanie Richards](https://melanie-richards.com/)
+- [Andy Grove](https://andygrove.io/)
 
 ## Analog
 

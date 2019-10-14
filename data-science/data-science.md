@@ -50,3 +50,4 @@
 - [What's your typical data pipeline in a small company? (2019)](https://www.reddit.com/r/datascience/comments/dge7wh/whats_your_typical_data_pipeline_in_a_small/)
 - [dbt](https://www.getdbt.com/) - Data build tool. Analytics engineering workflow.
 - [Apache Airflow](https://github.com/apache/airflow) - Platform to programmatically author, schedule, and monitor workflows.
+- [Overview of Popular Open Source Big Data Technologies (2018)](https://andygrove.io/overview_of_popular_open_source_big_data_technologies/)

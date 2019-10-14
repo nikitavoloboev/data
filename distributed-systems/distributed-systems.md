@@ -39,3 +39,4 @@
 - [Pilosa](https://github.com/pilosa/pilosa) - Open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
 - [Finagle](https://github.com/twitter/finagle) - Fault tolerant, protocol-agnostic RPC system.
 - [Distributed](https://github.com/dask/distributed) - Distributed task scheduler for Dask.
+- [How To Build A Modern Distributed Compute Platform (2018)](https://andygrove.io/how_to_build_a_modern_distributed_compute_platform/)
