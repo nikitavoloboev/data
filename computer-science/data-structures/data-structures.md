@@ -20,3 +20,4 @@
 - [Advanced Data Structures (2017)](https://courses.csail.mit.edu/6.851/fall17/) ([HN](https://news.ycombinator.com/item?id=20044876))
 - [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 - [Python Data Structures and Algorithms](https://github.com/prabhupant/python-ds)
+- [HAMTs from Scratch (2018)](https://vaibhavsagar.com/blog/2018/07/29/hamts-from-scratch/)

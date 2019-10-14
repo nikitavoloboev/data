@@ -9,3 +9,4 @@
 - [Blogger-cli](https://github.com/hemanta212/blogger-cli) - CLI tool to convert and manage jupyter notebook blogs. Proudly host your notebooks even as a static site.
 - [bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter Notebooks.
 - [Working with Jupyter Notebooks in Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)
+- [Some IHaskell notebooks, provisioned using Nix](https://github.com/vaibhavsagar/notebooks)
