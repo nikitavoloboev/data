@@ -8,3 +8,4 @@
 - [Does NextJS will be soon obsolete?](https://www.reddit.com/r/reactjs/comments/au5z1u/does_nextjs_will_be_soon_obsolete/) - Great answer by main dev of next.js
 - [Redux wrapper for Next.js](https://github.com/kirill-konshin/next-redux-wrapper)
 - [Performance analysis: Next.js SSR on Node.js](https://docs.google.com/document/d/1zen4pq-zvJsvYk4yPZ9x-JB__GmBQ1sqLoP32YCYwIk/edit#)
+- [Introducing Create Next App (2019)](https://nextjs.org/blog/create-next-app)

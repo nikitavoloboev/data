@@ -11,3 +11,4 @@
 - [Spatial Awareness](https://www.getrevue.co/profile/maps) - Regular editorial focused on the maps and the spatial community.
 - [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data.
 - [Tools I recommend for building Geospatial Web Applications (2019)](https://medium.com/swlh/tools-i-recommend-for-building-geospatial-web-applications-274d6939536c)
+- [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.

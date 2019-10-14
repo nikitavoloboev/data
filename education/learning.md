@@ -20,3 +20,4 @@
 - [Michael E. Karpeles's mission](https://mek.fyi/mission)
 - [Ask HN: What are you learning in 2019?](https://news.ycombinator.com/item?id=20793590#20794475)
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
+- [HandWiki](https://handwiki.org/wiki/Start) - Online wiki-style encyclopedia dedicated to applications of computers, software programs and programming in different areas of science, finance and engineering.
