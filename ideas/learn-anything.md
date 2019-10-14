@@ -10,7 +10,7 @@ Aside from providing links and connected topics to learn from. The end goal is t
 
 A kind of Netflix for learning. And as its open source too, anyone who knows how to code can literally add a feature themselves. And if they don't like the direction in which the website is going, they can fork it away.
 
-![](https://raw.githubusercontent.com/learn-anything/learn-anything/2017/media/header.png)
+![](https://raw.githubusercontent.com/learn-anything/2017-release/master/media/header.png)
 
 ## New design
 

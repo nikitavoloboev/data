@@ -207,6 +207,8 @@
 - [gocraft/dbr](https://github.com/gocraft/dbr) - Additions to Go's database/sql for super fast performance and convenience.
 - [httpauth](https://github.com/apexskier/httpauth) - Go (lang) HTTP session authentication.
 - [syncmap](https://github.com/a8m/syncmap) - Typed implementation of the Go sync.Map using code generation.
+- [BadgerHold](https://github.com/timshannon/badgerhold) - Embeddable NoSQL store for querying Go types built on Badger.
+- [jeff](https://github.com/abraithwaite/jeff) - Provides the simplest way manage web sessions in Go.
 
 ## Links
 

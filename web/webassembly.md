@@ -40,3 +40,4 @@
 - [RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak](https://www.youtube.com/watch?v=lLzFJenzBng)
 - [WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes#readme)
 - [WAVM](https://github.com/AndrewScheidecker/WAVM) - WebAssembly Virtual Machine. Uses LLVM to compile WebAssembly code to machine code with close to native performance.
+- [Lobsters: Why WebAssembly is not more mainstream? (2019)](https://lobste.rs/s/pmdcpu/why_webassembly_is_not_more_mainstream)

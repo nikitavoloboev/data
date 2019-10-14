@@ -16,3 +16,4 @@
 - [Unused images and resources clean up in Xcode (2019)](https://www.avanderlee.com/optimization/unused-images-clean-up/)
 - [HackMan](https://github.com/Cosmo/HackMan) - Stop writing boilerplate code yourself. Let hackman do it for you via the command line.
 - [xcbeautify](https://github.com/thii/xcbeautify) - Little beautifier tool for xcodebuild.
+- [Tulsi](https://github.com/bazelbuild/tulsi) - Xcode Project Generator For Bazel.

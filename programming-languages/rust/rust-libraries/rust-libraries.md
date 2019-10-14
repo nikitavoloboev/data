@@ -128,6 +128,7 @@
 - [Walrus](https://github.com/rustwasm/walrus) - WebAssembly transformation library.
 - [combine](https://github.com/Marwes/combine) - Parser combinator library for Rust.
 - [Syn](https://github.com/dtolnay/syn) - Parsing library for parsing a stream of Rust tokens into a syntax tree of Rust source code.
+- [Watt](https://github.com/dtolnay/watt) - Runtime for executing Rust procedural macros compiled as WebAssembly.
 
 ## Cargo Plugins
 
