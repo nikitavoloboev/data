@@ -42,3 +42,4 @@
 - [How to Python in VS Code](https://py-vscode.readthedocs.io/en/latest/)
 - [Airspeed Velocity](https://github.com/airspeed-velocity/asv) - Primarily designed to benchmark a single project over its lifetime using a given suite of benchmarks.
 - [New features planned for Python 4.0 satire](http://charlesleifer.com/blog/new-features-planned-for-python-4-0/)
+- [Instant-feedback, instant-debugging Python coding (2019)](https://2019.pycon-au.org/talks/instant-feedback-instant-debugging-python-coding)

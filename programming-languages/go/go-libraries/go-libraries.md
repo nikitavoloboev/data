@@ -49,6 +49,7 @@
 
 - [zoom](https://github.com/albrow/zoom) - Blazing-fast datastore and querying engine for Go built on Redis.
 - [bolter](https://github.com/hasit/bolter) - View BoltDB file in your terminal.
+- [pg_query_go](https://github.com/lfittl/pg_query_go) - Go library to parse and normalize SQL queries using the PostgreSQL query parser.
 
 ## ML
 
