@@ -72,3 +72,4 @@
 - [rnix-parser](https://github.com/nix-community/rnix-parser) - Nix parser written in Rust.
 - [Naersk](https://github.com/nmattia/naersk) - Nix support for building cargo crates.
 - [nix-diff](https://github.com/Gabriel439/nix-diff) - Explain why two Nix derivations differ.
+- [Optimising Docker Layers for Better Caching with Nix (2018)](https://grahamc.com/blog/nix-and-layered-docker-images)

@@ -14,6 +14,7 @@ And I keep the default San Francisco Apple's font for all everything else.
 - [Public Sans](https://github.com/uswds/public-sans) - Strong, neutral, principles-driven, open source typeface for text or display.
 - [Cascadia Code](https://github.com/microsoft/cascadia-code) - Fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [Leon Sans](https://github.com/cmiscm/leonsans) - Geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
+- [Codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification.
 
 ## Links
 

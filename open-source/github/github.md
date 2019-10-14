@@ -51,3 +51,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Octobox](https://github.com/octobox/octobox) - Helps you manage your GitHub notifications efficiently so you can spend less time managing and more time getting things done.
 - [Pull Review](https://github.com/imsky/pull-review) - Assign pull request reviewers intelligently.
 - [stargazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub Stars.
+- [Monorepo](https://github.com/codechecks/monorepo) - Framework for code review automation. It allows writing plugins (codechecks) in JavaScript.
