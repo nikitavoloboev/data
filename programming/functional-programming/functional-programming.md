@@ -37,6 +37,7 @@
 - [Foundation of functional programming course](https://github.com/fp-tower/foundation)
 - [Discrete Mathematics and Functional Programming book (2012)](http://cs.wheaton.edu/~tvandrun/dmfp/)
 - [TypeFunc](https://github.com/williamdemeo/TypeFunc#readme) - Resources for type theory, functional programming, etc.
+- [Functional Programming Course](https://github.com/tonymorris/fp-course) - Structured according to a linear progression and uses the Haskell programming language to learn programming concepts pertaining to functional programming.
 
 ## Images
 
