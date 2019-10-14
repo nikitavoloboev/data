@@ -4,7 +4,7 @@ An application which allowed me to originally create [all of the maps](https://w
 
 ![](https://raw.githubusercontent.com/learn-anything/learn-anything/2017/media/header.png)
 
-I also use MindNode to [visually break down problems I am trying to solve](../research/solving-problems.md).
+I also use MindNode to [visually break down problems I am trying to solve](../../research/solving-problems.md).
 
 ![](https://i.imgur.com/qHAJdYk.png)
 

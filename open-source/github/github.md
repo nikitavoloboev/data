@@ -4,7 +4,7 @@ I 💚 GitHub. It is one of the best communities out there that exists with so m
 
 I publish most of my work and make it open source for other people to use and reuse.
 
-[Here](../sharing/my-github.md) you can find all the repositories I shared.
+[Here](../../sharing/my-github.md) you can find all the repositories I shared.
 
 ## Notes
 

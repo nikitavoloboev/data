@@ -74,7 +74,6 @@
     - [Fantastical](macOS/apps/fantastical.md)
     - [BetterTouchTool](macOS/apps/bettertouchtool.md)
     - [Day One](macOS/apps/day-one.md)
-    - [Alarcitty](macOS/apps/alarcitty.md)
     - [Timing](macOS/apps/timing.md)
     - [Sketch](macOS/apps/sketch.md)
     - [Contacts](macOS/apps/contacts.md)

@@ -88,7 +88,7 @@ books             command-line-tools  documentaries  forums              images 
 
 ## ~/Dropbox
 
-Use Dropbox to sync configuration files. I also keep this wiki in `Write` dir in Dropbox so I can edit it on the phone with [Ulysses](../macOS/apps/ulysses.md).
+Use Dropbox to sync configuration files. I also keep this wiki in `Write` dir in Dropbox so I can edit it on the phone with [Ulysses](https://ulysses.app).
 
 ```bash
 ~/Dropbox
