@@ -17,3 +17,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/dotfiles/blob/master/ni
 - [Arabesque](https://sanctum.geek.nz/arabesque/) - Systems, Tools, and Terminal Science.
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line#readme)
 - [cheat](https://github.com/cheat/cheat) - Allows you to create and view interactive cheatsheets on the command-line.
+- [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.

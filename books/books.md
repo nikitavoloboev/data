@@ -126,6 +126,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ray Dalio’s Recommended Books: His Reading List](https://medium.com/@richardreeze/ray-dalios-recommended-books-his-reading-list-e839471ccc1d)
 - [Josh Wolfe's favorite books](https://twitter.com/wolfejosh/status/1087926885345054720?lang=en)
 - [What are the most indispensable books for indie hackers? (2019)](https://www.indiehackers.com/post/what-are-the-most-indispensable-books-for-indie-hackers-e2ec3a13e9) ([HN](https://news.ycombinator.com/item?id=21140052))
+- [Jared Palmer's favorite books](https://jaredpalmer.com/bookshelf/)
 
 ## Notes
 

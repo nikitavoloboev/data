@@ -39,3 +39,5 @@
 - [Detectron2](https://github.com/facebookresearch/detectron2) - FAIR's next-generation research platform for object detection and segmentation.
 - [Deep learning with PyTorch: a 60 minute blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) ([HN](https://news.ycombinator.com/item?id=21240057))
 - [Neural Network Programming - Deep Learning with PyTorch (2019)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) - Series is all about neural network programming and PyTorch.
+- [A quick tour of Torch internals (2015)](https://apaszke.github.io/torch-internals.html)
+- [How to Run PyTorch with TPUs](https://github.com/pytorch/xla)

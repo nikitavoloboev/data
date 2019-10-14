@@ -49,3 +49,4 @@
 - [Go Neural Net Sandbox](https://github.com/lightvector/GoNN) - Sandbox for personal experimentation in Go neural net training and Go AI.
 - [layer](https://github.com/cloudkj/layer) - Neural network inference the Unix way.
 - [XNNPACK](https://github.com/google/XNNPACK) - Highly optimized library of floating-point neural network inference operators for ARM, WebAssembly, and x86 (SSE2 level) platforms.
+- [LSTM implementation explained (2015)](http://apaszke.github.io/lstm-explained.html)

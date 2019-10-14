@@ -80,3 +80,4 @@
 - [[cargo-]flamegraph](https://github.com/ferrous-systems/flamegraph) - Easy flamegraphs for Rust projects and everything else, without Perl or pipes.
 - [Analysis of various tricky Rust code](https://github.com/dtolnay/case-studies)
 - [Falling in love with Rust (2018)](http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/)
+- [Rust for JavaScript peeps (2019)](https://github.com/yoshuawuyts/rust-for-js-people)

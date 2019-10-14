@@ -22,3 +22,4 @@
 - [HN: Tensorflow 2.0 (2019)](https://news.ycombinator.com/item?id=21118018)
 - [TensorFlow 2.0 + Keras Overview for Deep Learning Researchers (2019)](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO#scrollTo=PX6JvH4h0zyY)
 - [Swift for TensorFlow Models](https://github.com/tensorflow/swift-models)
+- [Tensors Fitting Perfectly](https://github.com/google-research/swift-tfp) - Invokes Swift compiler to lower your Swift code down to SIL (Swift intermediate representation), and use it to scan your code for assertions that pertain to shapes of tensors.
