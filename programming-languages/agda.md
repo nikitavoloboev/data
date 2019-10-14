@@ -25,3 +25,4 @@
 - [hilbert-gentzen](https://github.com/mietek/hilbert-gentzen) - Agda formalisation of IPC, IS4, ICML, and ILP.
 - [potpourri](https://github.com/gallais/potpourri) - Where everyday Agda research of G. Allais happens.
 - [categories-agda library](https://github.com/agda/agda-categories) - Standard Category Theory library for Agda.
+- [Formalize all the things in Agda (2019)](https://jesper.sikanda.be/posts/formalize-all-the-things.html)
