@@ -38,3 +38,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [The best design resources for new designers (2019)](https://www.uigoodies.com/blog/the-best-resources-for-new-designers.html)
 - [Awesome Design](https://github.com/gztchan/awesome-design#readme) - Focuses on collecting high quality resources and tools which can be used by UI/UX designers in daily work.
 - [Design Inspiration & Resources](https://github.com/emmawedekind/design-inspiration#readme)
+- [How to design delightful dark themes (2019)](https://blog.superhuman.com/how-to-design-delightful-dark-themes-7b3da644ff1f)

@@ -9,3 +9,4 @@
 - [How to set up an advanced Webpack application (2019)](https://www.robinwieruch.de/webpack-advanced-setup-tutorial/)
 - [inspectpack](https://github.com/FormidableLabs/inspectpack) - Inspection tool for Webpack frontend JavaScript bundles.
 - [webpack autoconf](https://createapp.dev/) - Tool to create personalized and optimized webpack.config.js
+- [Awesome Webpack Perf](https://github.com/iamakulov/awesome-webpack-perf#readme) - Curated list of webpack tools and plugins that help make the web faster.

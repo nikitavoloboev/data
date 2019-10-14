@@ -37,3 +37,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [W3C on GitHub](https://github.com/w3c/) - Resources useful when working on W3C projects using GitHub.
 - [Deep Dive Into Modern Web Development (2019)](https://fullstackopen.com/en/)
 - [urlwatch](https://github.com/thp/urlwatch) - Monitors webpages for you.
+- [Fly-through guide to web development best practices (2017)](https://slides.com/seldo/stuff-everybody-knows-2019-04/#/)
