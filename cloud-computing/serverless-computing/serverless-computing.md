@@ -14,3 +14,4 @@
 - [Begin](https://begin.com/) - Create AWS serverless apps, APIs, and sites with databases, sessions, and full CI/CD. In ten seconds.
 - [Serverless components](https://github.com/serverless/components) - Easier way to build and share serverless applications w/ the Serverless Framework. ([HN](https://news.ycombinator.com/item?id=20600519))
 - [Fly runtime](https://github.com/superfly/fly) - Open source Javascript environment built to run Edge Applications. It gives developers powerful caching, content modification, and routing tools.
+- [Security Overview of AWS Lambda (2019)](https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf)

@@ -6,3 +6,4 @@
 - [HN: Product-building articles by PMs at major tech companies (2019)](https://news.ycombinator.com/item?id=19047384)
 - [Roadmap](https://www.roadmap.com/) - Community of Product Managers.
 - [What seven years at Airbnb taught me about building a company (2019)](https://medium.com/@lennysan/what-seven-years-at-airbnb-taught-me-about-building-a-company-e1d035d49c56)
+- [Why “Standups” are Useless and How to Run Great Product Team Meetings (2019)](https://medium.com/unusual-ventures/why-standups-are-useless-and-how-to-run-great-product-team-meetings-278f000ea64f)

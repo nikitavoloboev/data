@@ -13,3 +13,6 @@
 - [Cleaning up your Elixir Code (2019)](https://struggling.dev/clean-code/)
 - [Animating a Canvas with Phoenix LiveView (2019)](http://www.petecorey.com/blog/2019/09/02/animating-a-canvas-with-phoenix-liveview/)
 - [Fast Elixir](https://github.com/devonestes/fast-elixir#readme) - Writing Fast Elixir 😍 -- Collect Common Elixir idioms.
+- [Elixir for Programmers course](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
+- [Talks and Conversations of Dave Thomas](https://pragdave.me/speak.html)
+- [Elixir Forum](https://elixirforum.com/)

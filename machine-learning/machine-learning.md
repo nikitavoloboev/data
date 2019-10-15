@@ -116,3 +116,4 @@
 - [Part 2: Deep Learning from the Foundations](https://course.fast.ai/part2)
 - [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
+- [Papers with Code](https://paperswithcode.com/) - The latest in machine learning.
