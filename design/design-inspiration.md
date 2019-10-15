@@ -128,6 +128,7 @@ Here are few more things I liked, design wise.
 - [Karolina](https://thefox.is/)
 - [Melanie Richards](https://melanie-richards.com/)
 - [Andy Grove](https://andygrove.io/)
+- [Chris Biscardi](https://www.christopherbiscardi.com/)
 
 ## Analog
 
