@@ -81,3 +81,4 @@
 - [Analysis of various tricky Rust code](https://github.com/dtolnay/case-studies)
 - [Falling in love with Rust (2018)](http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/)
 - [Rust for JavaScript peeps (2019)](https://github.com/yoshuawuyts/rust-for-js-people)
+- [Graphical depiction of ownership and borrowing in Rust (2017)](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)

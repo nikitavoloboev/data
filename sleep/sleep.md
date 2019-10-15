@@ -4,7 +4,7 @@ Sleeping is a way for our brains to flash out all the toxins that accumulated in
 
 I never limit my sleep and I try to sleep as much as my body needs thus I wake up with no alarm.
 
-I try to go to bed and wake up at the same time each day to maintain the Circadian rhythm. I try to go to sleep at ~ 22:30 and wake up at ~ 7:00 every morning.
+I try to go to bed and wake up at the same time each day to maintain the Circadian rhythm. I try to go to sleep at ~ 23:00 every day for consistency.
 
 ## Links
 
