@@ -175,6 +175,10 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [David West](https://soundcloud.com/davidwest) - [Alberto Balsam](https://open.spotify.com/track/18a4YelwwkDXV9y2oPlusJ)
 - [BOY](https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX) - [Little Numbers Live](https://www.youtube.com/watch?v=IEng60LouQo)
 
+## Live
+
+- [Apparat dans Passengers (Full Show HiRes) - ARTE Concert](https://www.youtube.com/watch?v=NOol5V4Tlk8)
+
 ## Check out
 
 - Patrick Watson
