@@ -337,11 +337,8 @@ Some simple rules to follow when doing things.
 ## Reading
 
 - When reading articles in Reeder, use stars on articles liked. Can have a process to later transfer these stars to wiki.
-
-## Reading books
-
-- Make notes as I read books.
-- Review each book I read on Goodreads and add it to an appropriate category. Add the review to [books](../books/books.md) after.
+- Make notes as I read books & papers.
+- Review read books on Goodreads & add it to [wiki](../books/books.md).
 
 ## Productivity
 
@@ -354,17 +351,13 @@ Some simple rules to follow when doing things.
 - Always have water next to me.
 - Work away from home ideally.
 
-## Anki
-
-- Don't make a card of a fact or something that you can easily look up.
-
-## Tests
+## Test
 
 - Check my work and go through my calculations again. It's easy to miss something.
 
-## Relationships
+## Meet people
 
-- Meet new people. Go to seminars, talks, conferences. Big chance you'll find something interesting or meet someone.
+- Meet new people. Go to seminars, talks, conferences. Approach many
 - Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
 
 ## Vim

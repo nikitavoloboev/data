@@ -37,3 +37,4 @@ Personally I found dating apps like Tinder to be a [waste of time](https://twitt
 - [The origins of seduction (with James Marshall, Sasha Daygame, John Keegan) (2019)](https://www.youtube.com/watch?v=Yx9rpr4XQMM)
 - [Fuck Yes or No (2013)](https://markmanson.net/fuck-yes)
 - [How To Touch Her the right way](https://www.youtube.com/watch?v=WCBJS6FRX1U)
+- [DiCarlo Escalation Ladder: Concise and Emphasized](https://www.reddit.com/r/seduction/comments/hlmra/dicarlo_escalation_ladder_concise_and_emphasized/)

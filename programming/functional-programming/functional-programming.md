@@ -39,6 +39,7 @@
 - [TypeFunc](https://github.com/williamdemeo/TypeFunc#readme) - Resources for type theory, functional programming, etc.
 - [Functional Programming Course](https://github.com/tonymorris/fp-course) - Structured according to a linear progression and uses the Haskell programming language to learn programming concepts pertaining to functional programming.
 - [Structure and Decomposition of Computer Programs book (2019)](https://github.com/isovector/structure-and-decomposition-of-computer-programs)
+- [Speaker Interview with Edward Kmett (2019)](https://confengine.com/functional-conf-2019/speaker/interview/edward-kmett)
 
 ## Images
 

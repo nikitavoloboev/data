@@ -30,3 +30,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Effective learning: Twenty rules of formulating knowledge](https://www.supermemo.com/en/articles/20rules)
 - [Anki Airtable](https://github.com/sirupsen/anki-airtable) - Anki plugin that can synchronize an Airtable to Anki when Anki starts up.
 - [Everything I Know: Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki)
+- [Spaced Repetition for Efficient Learning](https://www.gwern.net/Spaced-repetition)

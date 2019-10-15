@@ -32,6 +32,7 @@
 - [Datasette](https://github.com/simonw/datasette) - Tool for exploring and publishing data.
 - [Weld](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications.
 - [Vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second.
+- [PyParis 2018 - Vaex: Out of Core Dataframes for Python](https://www.youtube.com/watch?v=TlTcQJPUL3M)
 - [Maarten Breddels & Jovan Veljanoski- A new approach to DataFrames and pipelines - PyData London 2019](https://www.youtube.com/watch?v=2Tt0i823-ec) ([GitHub](https://github.com/vaexio/vaex-talks/tree/master/2019-pydata-london))
 - [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 - [Data science without borders - Wes McKinney (2017)](https://www.youtube.com/watch?v=wdmf1msbtVs)
@@ -51,3 +52,5 @@
 - [dbt](https://www.getdbt.com/) - Data build tool. Analytics engineering workflow.
 - [Apache Airflow](https://github.com/apache/airflow) - Platform to programmatically author, schedule, and monitor workflows.
 - [Overview of Popular Open Source Big Data Technologies (2018)](https://andygrove.io/overview_of_popular_open_source_big_data_technologies/)
+- [Introducing Apache Arrow Flight: A Framework for Fast Data Transport (2019)](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/)
+- [Understanding Apache Arrow Flight (2019)](https://www.dremio.com/understanding-apache-arrow-flight/)
