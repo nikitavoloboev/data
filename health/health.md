@@ -4,14 +4,13 @@ I try to maximize my [happiness](../life/happiness.md) and quality of life throu
 
 Here are some things I am trying to improve with my health right now.
 
-- [Nutrition](nutrition/nutrition.md) - I drink a [smoothie every morning](https://github.com/nikitavoloboev/vegan-recipes/tree/master/smoothies#regular-breakfast-smoothie), eat a whole food plant based diet and take [few supplements](nutrition/supplements.md). I track all the food I eat with [Cronometer](https://cronometer.com).
+- [Nutrition](nutrition/nutrition.md) - I drink a [smoothie every morning](https://github.com/nikitavoloboev/vegan-recipes/tree/master/smoothies#regular-breakfast-smoothie), eat a whole food plant based diet and take [few supplements](nutrition/supplements.md).
 - [Mindfulness](../mindfulness/mindfulness.md) - Stress [shortens telomeres](https://www.ncbi.nlm.nih.gov/pubmed/12114022). Practicing [mindfulness](../mindfulness/mindfulness.md) helps greatly in maintaining a healthy and stress free outlook on life.
-- [Proper sleep](../sleep/sleep.md) - I go to sleep and wake up at the same time (22:30 -> 6:30) getting a minimum of 7 hours of sleep each day.
-- [Exercise](../fitness/fitness.md) - I start every morning with some bodyweight exercises (part of Morning routine).
-- Good posture - I try to be conscious of my posture at all times. Never slouching my back and sitting at one spot for too long.
+- [Proper sleep](../sleep/sleep.md) - I try go to sleep at ~ 23:00 and wake up without alarm getting as much sleep as my body needs.
+- [Exercise](../fitness/fitness.md) - I start every morning with some exercise.
 - Dental care - Brushing my teeth every morning and evening as well as flossing it few times throughout the day.
 - [Skin care](skin-care.md) - Clean & moisturize my skin every morning and evening & applying occasional face masks.
-- [Ergonomics](ergonomics.md) - Properly sitting, standing and keeping good posture throughout the day.
+- [Ergonomics](ergonomics.md) - Properly sitting, standing and keeping good posture throughout the day. Never slouching my back and sitting at one spot for too long.
 
 ## Notes
 

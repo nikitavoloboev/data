@@ -6,7 +6,7 @@ I keep a [Wishlist](https://www.grouvee.com/user/nikivi/shelves/12652-wish-list/
 
 I keep a [list of my favorite games](https://www.grouvee.com/user/nikivi/shelves/53363-favorite/?num=25) I've played. And I write [reviews](https://www.grouvee.com/user/nikivi/reviews/) on games I've played.
 
-## Watched Series
+## Games played
 
 I track [all the games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25).
 
