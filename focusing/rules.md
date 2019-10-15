@@ -351,13 +351,9 @@ Some simple rules to follow when doing things.
 - Always have water next to me.
 - Work away from home ideally.
 
-## Test
-
-- Check my work and go through my calculations again. It's easy to miss something.
-
 ## Meet people
 
-- Meet new people. Go to seminars, talks, conferences. Approach many
+- Meet new people. Go to seminars, talks, conferences.
 - Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
 
 ## Vim
