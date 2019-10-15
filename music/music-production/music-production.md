@@ -35,3 +35,4 @@
 - [Ask HN: Recommendations for AI generated music software? (2019)](https://news.ycombinator.com/item?id=20514446)
 - [Alda](https://github.com/alda-lang/alda) - Music programming language for musicians.
 - [AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS.
+- [LMMS](https://github.com/LMMS/lmms) - Cross-platform music production software.

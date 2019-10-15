@@ -1,3 +1,7 @@
 # Relationships
 
-I think the most important trait to have in order to build and grow good relationships with people is honesty. It builds trust.
+Be honest.
+
+## Links
+
+- [Generalized One-Night Stands (2019)](http://sandymaguire.me/blog/one-night-stands/)

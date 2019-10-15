@@ -29,3 +29,4 @@
 - [CppCon 2019: Chandler Carruth “There Are No Zero-cost Abstractions” (2019)](https://www.youtube.com/watch?v=rHIkrotSwcc)
 - [Cppcheck](https://github.com/danmar/cppcheck) - Static analysis of C/C++ code.
 - [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf)
+- [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
