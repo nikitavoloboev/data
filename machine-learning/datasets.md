@@ -7,3 +7,4 @@
 - [Moving autonomous vehicles forward, together. Dataset by Lyft](https://level5.lyft.com/dataset/)
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
 - [Introducing the CodeSearchNet challenge (2019)](https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/) ([HN](https://news.ycombinator.com/item?id=21082757))
+- [Facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets.

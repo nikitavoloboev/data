@@ -1,17 +1,12 @@
 # Physics
 
-Studies how our universe behaves.
-
-Many great things came from trying to understand how this world is put together and what laws govern it.
-
-Perhaps we can replicate a universe like ours in the future. One of the more interesting thoughts to ponder on is how complexity can emerge from rather simple rules. One example of that is [cellular automata](https://natureofcode.com/book/chapter-7-cellular-automata/) and the infamous [Conway's game of life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
-
 ## Notes
 
 - What is energy?
   - There's no satisfying definition beyond "the quantity that is conserved over time." This may sound arbitrary and ad hoc but it emerges from this deep mathematical principal called Noether's theorem that states that for each symmetry (in this case, staying the same while moving forward or backwards in time), there is something that is conserved. In this context, momentum is the thing that is conserved over distance, and angular momentum is the thing that is conserved through rotations.
   - The less rigorous explanation is that it's essentially the currency used by physical systems to undergo change.
 - [One of the things you learn in Physics is that nothing is ever still or completely solid. All atoms vibrate and most(95+%) of their space is empty, where electrons spin. So everything you see is a vibrating mesh of molecules. Neutrinos are so small they can fly straight through everything, even planets! The only time anything stays completely still is at zero degrees Kelvin and it is theorized that time actually stands still at the this temperature.](https://www.reddit.com/r/shrooms/comments/c7i8ee/it_going_to_be_a_good_day/)
+- Emergent complexity: complexity arising from simple rules is interesting. One example of it is [cellular automata](https://natureofcode.com/book/chapter-7-cellular-automata/) and [Conway's game of life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life).
 
 ## Links
 
