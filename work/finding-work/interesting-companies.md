@@ -5,6 +5,7 @@
 - DeepMind
 - FB
 - OpenAI
+- Readdle
 
 ## Interesting positions
 
