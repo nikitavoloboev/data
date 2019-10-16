@@ -89,5 +89,5 @@
 - [Haskell eXchange 2019 talks](https://skillsmatter.com/conferences/11741-haskell-exchange-2019#skillscasts)
 - [Implementation of the Elm Architecture in Haskell with parallel side effects](https://github.com/lazamar/elm-architecture-haskell)
 - [Haskell in Production (2019)](http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html)
-- [Beating Decades Of Optimized C With 80 Lines Of Haskell (2019)](https://chrispenner.ca/posts/wc) ([HN](https://news.ycombinator.com/item?id=21266201))
+- [Beating Decades Of Optimized C With 80 Lines Of Haskell (2019)](https://chrispenner.ca/posts/wc) ([HN](https://news.ycombinator.com/item?id=21266201)) ([Lobsters](https://lobste.rs/s/l0lkyo/beating_decades_optimized_c_with_80_lines))
 - [Servant's type-level domain specific language (2019)](https://dev.to/bradparker/servant-s-type-level-domain-specific-language-52m8)

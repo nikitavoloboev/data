@@ -44,3 +44,4 @@
 - [Toolz](https://github.com/pytoolz/toolz) - Set of utility functions for iterators, functions, and dictionaries.
 - [PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python.
 - [Peewee](https://github.com/coleifer/peewee) - Small, expressive orm -- supports postgresql, mysql and sqlite.
+- [Curio](https://github.com/dabeaz/curio) - Library for Python systems programming involving concurrent I/O with network sockets, files, subprocesses, and similar constructs.

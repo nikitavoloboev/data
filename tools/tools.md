@@ -112,6 +112,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Open Policy Agent](https://github.com/open-policy-agent/opa) - Open source, general-purpose policy engine.
 - [n8n](https://github.com/n8n-io/n8n) - Workflow Automation Tool.
 - [DevDash](https://github.com/Phantas0s/devdash) - Highly Configurable Terminal Dashboard for Developers.
+- [Sanity](https://www.sanity.io/) - Fastest, most flexible platform for delivering content to digital devices and products.
 
 ## Notes
 

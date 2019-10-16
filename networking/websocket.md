@@ -7,3 +7,4 @@
 - [µSockets](https://github.com/uNetworking/uSockets) - Cross-platform async networking and eventing foundation library written in standard C.
 - [µWebSockets](https://github.com/uNetworking/uWebSockets.js) - JavaScript web server.
 - [Sockette](https://github.com/lukeed/sockette) - Cutest little WebSocket wrapper.
+- [Firefox’s New WebSocket Inspector (2019)](https://hacks.mozilla.org/2019/10/firefoxs-new-websocket-inspector/)
