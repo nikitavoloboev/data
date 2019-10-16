@@ -117,3 +117,4 @@
 - [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 - [Papers with Code](https://paperswithcode.com/) - The latest in machine learning.
+- [Gradient Descent Derivation (2014)](https://mccormickml.com/2014/03/04/gradient-descent-derivation/)

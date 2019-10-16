@@ -12,3 +12,4 @@
 - [Deep Genomics](https://www.deepgenomics.com/) - AI-Powered Discovery Platform.
 - [DNA Microscopy: Optics-free Spatio-genetic Imaging by a Stand-Alone Chemical Reaction (2019)](<https://www.cell.com/cell/fulltext/S0092-8674(19)30547-1>)
 - [Algorithms for DNA Sequencing course](https://www.coursera.org/learn/dna-sequencing)
+- [The structure of DNA (2019)](https://www.nature.com/articles/d41586-019-02554-z)
