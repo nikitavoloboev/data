@@ -36,7 +36,3 @@ I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob
 - [New Hyper Key](https://josh.blog/2017/07/new-hyper-key)
 - [Karabiner Elements profile switcher (Alfred Workflow)](https://github.com/awinecki/karabiner-elements-profile-switcher)
 - [All about macOS event observation (2019)](https://docs.google.com/presentation/d/1nEaiPUduh1vjks0rDVRTcJaEULbSWWh1tVdG2HF_XSU/edit#slide=id.g5b38b1767c_0_2)
-
-## Interesting setups
-
-- [A. King](https://github.com/akork/karabiner/blob/master/karabiner.json)

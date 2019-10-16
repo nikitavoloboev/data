@@ -18,3 +18,4 @@
 - [Ask HN: What book to read to get a footing in CS theory? (2019)](https://news.ycombinator.com/item?id=20729252)
 - [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science#readme)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [Programming and Computer Science Courses](https://www.dabeaz.com/courses.html)
