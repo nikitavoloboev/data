@@ -30,3 +30,4 @@
 - [Cellular Forms](https://github.com/fogleman/CellularForms) - Implementation of Andy Lomas' Cellular Forms.
 - [Physically Based Rendering](https://github.com/Nadrin/PBR) - Implementation of physically based shading model & image based lighting in various graphics APIs.
 - [graphics-resources](https://github.com/mattdesl/graphics-resources) - Few of my bookmarks related to game development and realtime graphics programming.
+- [Magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization.
