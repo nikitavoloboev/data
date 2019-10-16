@@ -14,6 +14,7 @@ I share [all the macros I use](km-macros.md) with the app.
 - You can read the full text of any error message in the Engine.log file (Help ➤ Open Logs Folder), and make sure (at least when testing or having problems) that the Execute Shell Script is configured to display the result in a window so you can see any error message.
 - [Keyboard Maestro converts any variables that start with ENV\_ into environment variables when it launches sub-processes.](https://forum.keyboardmaestro.com/t/how-to-sent-env-in-keyboard-maestro/11947/2)
 - `defaults write com.stairways.keyboardmaestro.editor MouseGetCountdown -int 3` will change the [timer for getting coordinates from 5 secs to 3](https://forum.keyboardmaestro.com/t/is-there-a-way-to-set-default-waiting-time-to-get-coordinates-from-5-seconds-to-3-seconds/14980).
+- Can dismiss palettes with `return` key.
 
 ## Links
 

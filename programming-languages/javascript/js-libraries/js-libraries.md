@@ -107,3 +107,4 @@
 - [crocks](https://github.com/evilsoft/crocks) - Collection of well known Algebraic Data Types for your utter enjoyment.
 - [Just](https://github.com/angus-c/just) - Library of zero-dependency npm modules that do just do one thing.
 - [nanoid](https://github.com/ai/nanoid) - Tiny (139 bytes), secure, URL-friendly, unique string ID generator for JavaScript.
+- [debug](https://github.com/visionmedia/debug) - Tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers.

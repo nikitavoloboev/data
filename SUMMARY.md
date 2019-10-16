@@ -311,6 +311,7 @@
   - [Classical mechanics](physics/classical-mechanics.md)
   - [Quantum physics](physics/quantum-physics/quantum-physics.md)
     - [Quantum computing](physics/quantum-physics/quantum-computing.md)
+    - [Quantum gravity](physics/quantum-physics/quantum-gravity.md)
   - [String theory](physics/string-theory.md)
   - [Electrical engineering](physics/electrical-engineering/electrical-engineering.md)
     - [Signal processing](physics/electrical-engineering/signal-processing.md)
