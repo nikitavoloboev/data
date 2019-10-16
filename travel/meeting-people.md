@@ -10,3 +10,4 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 
 - [Awesome events](https://github.com/learn-anything/events#readme)
 - [Как правильно приглашать на встречи (2019)](http://sergeykorol.ru/blog/meeting-call/)
+- [HN: Meetup.com alternatives (2019)](https://news.ycombinator.com/item?id=21257661)
