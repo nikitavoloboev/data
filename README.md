@@ -8,7 +8,7 @@ If this is your first time visiting this wiki, take a look [here](meta/meta.md) 
 
 You can quickly search the contents of this wiki above or you can explore the tree view to the left.
 
-You can access any entry from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme) workflow.
+You can access any entry from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
 
 Aside from this wiki, you can also explore [Learn Anything](ideas/learn-anything.md) for things that you can learn about.
 
@@ -22,7 +22,7 @@ I also love [writing code](sharing/my-github.md) that solves various problems I 
 
 ## Make your own wiki
 
-You can view other similar to this, continuously updated wikis, [here](https://github.com/RichardLitt/meta-knowledge#readme).
+You can view other similar to this, continuously updated wikis, [here](https://github.com/RichardLitt/meta-knowledge).
 
 Don't be afraid to create one of your own and share what you know with the world.
 

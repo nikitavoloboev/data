@@ -173,6 +173,7 @@ Some simple rules to follow when doing things.
 - Interlink pages to guide the reader.
 - Don't repeat myself. Link. Keep files lowercased.
 - Only keep links that are private in bookmarks. Everything else is shared either in wiki or [curated lists](https://github.com/learn-anything/curated-lists).
+- Don't append `#readme` to GitHub repos that are not curated lists, simple readmes.
 
 ## Share files
 
