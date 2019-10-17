@@ -2,7 +2,7 @@
 
 Finally getting how awesome code is and how powerful being able to write and reason about things is. Learning, building & learning.
 
-I stopped optimizing for every little second of my life in terms of content I get. I follow > 3000 people on Twitter via my [Top list](https://twitter.com/nikitavoloboev/lists/top). And often I get to the limit of 1600 tweets where any tweet beyond that will be lost and I will never get to see it again probably. And that's fine. It's liberating how powerful this feeling of focusing in on a thing is and having everything else fade into background. Just need time and focus.
+I stopped optimizing for every little second of my life in terms of content I get. I follow > 3000 people on Twitter. And often I get to the limit of 1600 tweets where any tweet beyond that will be lost and I will never get to see it again probably. And that's fine. It's liberating how powerful this feeling of focusing in on a thing is and having everything else fade into background. Just need time and focus.
 
 Every morning of weekday I start with latte with oat milk from my [favorite coffee place](https://www.nudeespresso.com) on the way to office. I get some blueberries and fill my water and start my day. I also listen to my podcast or book on the way there. It's so hard to focus on things that truly matter in the world of distractions. I am fortunate to have a partner in life I love and who I get to travel with and share experiences together. Fortunate to be given a chance to build [something that I genuinely am excited about](https://www.gyana.co.uk) with a great team. It all just takes time and patience.
 

@@ -29,6 +29,8 @@ Here are few more things I liked, design wise.
 
 - [Actual Budget](https://actualbudget.com/)
 - [Notable](https://notable.md/)
+- [Sizzy](https://sizzy.co/)
+- [Twizzy](https://twizzy.app/)
 
 ## Personal pages
 

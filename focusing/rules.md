@@ -4,445 +4,246 @@ Some simple rules to follow when doing things.
 
 ## Life
 
-- [Simplify](../minimalism/minimalism.md) as much as possible. Never repeat myself.
-- Use only what I need. If something doesn't provide me any value, get rid of it.
-- Learn from my mistakes. If things fail, learn from it and move on.
+- [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
+- Use only what's needed. If something doesn't provide any value, get rid of it.
+- Learn from mistakes. If things fail, learn from it and move on. Let past go.
 - Build [ideas](https://trello.com/b/alB1ryRP). Experiment. Take risks. Ask questions.
 - Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.
-- Be consistent. Make friends with imperfection. Enjoy the process and don't fixate on the goals.
+- Be consistent. Make friends with imperfection. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes) and don't fixate on the goals.
 - Don't judge anyone. Attempt to see another person's point of view.
-- Be honest. Don't lie to myself nor anyone else. Be confident in my thoughts & actions.
-- Embrace change. Never complain about anything. Be proactive.
+- Be honest. Don't lie to myself nor anyone else. Be confident in my thoughts & actions
+- Embrace change. Never complain about anything. Be proactive. Be bold.
 - Build [good habits](habits.md). Be strict in following through with new habits.
 - Adjust these rules and [my workflow](../sharing/my-workflow.md) to match what I learned.
 - Follow these rules. [Take it easy](../life/happiness.md). You only live now.
 
 ## Health
 
-- [Exercise](../fitness/fitness.md). 40+ min (running/cycling/bodyweight/yoga).
-- Eat a [whole food, plant based diet](../health/nutrition/nutrition.md).
+- [Exercise](../fitness/fitness.md). 50+ min cardio/weights daily.
+- Eat [whole food, plant based diet](../health/nutrition/nutrition.md).
 - Drink lots of water & tea. Limit coffee consumption (1 cup / day max). No added sugar in drinks/food.
 - [Sleep](../sleep/sleep.md) at least 8 hours every day. Don't limit sleep, ever. Try go to sleep at same time.
 - Always have good posture. Sit properly and upright, don't bend my back/spine.
-- Take [essentials daily supplements](../health/nutrition/supplements.md).
+- Take [essentials daily supplements](../health/nutrition/supplements.md) as well as [daily food mix](../health/nutrition/foods.md).
 - Everything in moderation. Avoid alcohol and hard drugs (like opiates).
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
 
 ## Focus
 
-- Be very aggressive in cutting any kind of distractions when working.
-- Don't visit blocked sites and apps when **focusing**. Don't touch the phone unless necessary.
-- When **focusing**, do the task at hand and nothing else.
-- Be mindful of my habits and temptations. Don't succumb to them and focus on the task at hand.
-- Change location. Work from different places.
-- Look at where I spend my time in Timing and cut those out with Focus and scripts.
-- Use one screen when coding. Much easier to context switch.
-- Don't listen to distracting music or sounds when trying to focus. Instead use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) and listen to Rain, Fire or similar sounds. Or have nothing playing at all.
-- Use noise canceling headphones if surroundings are too noisy.
-- Don't waste time. Step back and reflect on what I do. No wasting time viewing analytics or likes/retweets. No useless apps/tools. Pure focus on creation/learning.
+- Set [goals](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Execute.
+- Don't waste time. Build [ideas](../ideas/ideas.md). Learn. Cut out noise (analytics, likes..).
+- [Share](../sharing/sharing.md). [Write](../writing/writing.md). Be honest.
+- Be very aggressive in cutting any kind of distractions when working. Pure focus on task at hand. Have scheduled breaks.
+- Don't context switch unless it's necessary. Don't visit blocked sites and apps when **focusing**. Don't touch the phone unless necessary.
+- Spend mindful time on the phone. Listen to podcasts/books/chat. Don't waste time on things that can be done better on mac.
+- When **focusing**, do the task at hand and nothing else. [Break problems down](../research/solving-problems.md). Solve them.
+- Be mindful of my habits and temptations. Don't succumb to them and keep my focus. Do things with purpose.
+- Do quick exercise bursts during the day to regain focus. Move around & explore new environments for inspiration.
+- On weekly reviews, observe time I spent in in Timing and cut it out with [Focus](https://heyfocus.com).
+- Use one screen on mac. It's easier to context switch and keep focus.
+- Don't listen to distracting music or sounds when focusing. Use [Noizio](http://noiz.io) & [Dark Noise](https://darknoise.app) and listen to Rain, Fire or similar sounds. Or play a song from [Focus playlist](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5?si=KhAd2yhvRSGOADmRObkM7w). Or have nothing playing at all.
+- Use noise canceling headphones to minimize distractions.
+- Reflect on what I do. Journal. Learn from the past & let it go.
 - Only have essential notifications setup. Be in Do Not Disturb mode by default.
-- Take mindfulness breaks and breathe if I see myself being distracted.
-- Build useful tools. Create art.
-- Think decisions through. Be decisive, bold & right.
-
-## Work
-
-- [Do one thing at a time](../research/solving-problems.md). Resist temptations. Remove friction.
-- Deep focus. Minimize distractions. Say **no** to things. Set constraints.
-- No news/distractions during Focus time. Can only view 'news' sites on breaks.
-- Plan my time based on [Focus Board](focusing.md). Make calendar events based on it
-- Prioritize. Do important things first. Be clear on what I want to achieve. Think long term.
-- Think about the problem I want to solve. Don't give up. Don't rush things.
-- Always breathe fresh air. Don't stay indoors for long. Open windows and go outside on breaks.
-- If my mind wanders and avoids doing the task, take a walk and do some exercise.
-- Do things that scale with time.
-- Reuse other people's work.
-- Use the right tool for the job. Only when you master a tool, do you learn when not to use it. Learn new tools.
-- Start. Don't be afraid to solve the problem no matter how complex or intimidating it may be.
-- Ship early. Get feedback and iterate on it. Rinse and repeat.
-- Track all time in [Timing](../macOS/apps/timing.md). Reflect on it at the end of the week.
-- Wear comfortable clothes. Have the same clothes in wardrobe for different purposes. Remove decision making burden.
-- Use standing desk when working where possible. Never sit for too long.
-- When sitting, sit up right always. Never slouch. Keep shoulders at good width. Be comfortable.
+- Take mindfulness breaks and breathe when distracted. Or exercise.
+- Create and consume art. Meet people. Be inspired. Reuse work & ideas.
+- Make decisions based on data/experience. Be decisive, bold & right. Collect meaningful experiences & data points for problems I am solving.
+- Say **no** to things. Set constraints & limits.
+- Never give up if problem's worth solving. Optimize for long term growth over short term gains.
+- Always breathe fresh air. Have proper lighting.
+- Invest in learning/using/building new tools.
+- Start early. Validate ideas. Move fast. Ship often. Iterate.
+- Wear comfortable clothes. Limit choice in clothing. Wear same clean clothes.
+- Use standing desk. Never sit for long. Sit up right.
+- Don't overthink things to the point of not doing anything. Clear up any confusion.
 
 ## Learn
 
-- Always learn new things. Understand fundamentals before approaching solving any problem.
+- Always learn new things but be purposeful. Dig deep into fundamentals of whatever problem I want to solve.
 - Document everything. Don't repeat things. Link instead.
 - Ask questions. Don't be afraid of not knowing something and [ask for help](../research/asking-questions.md).
-- There are no dumb questions. Do your own research first though.
-- Ask myself what is it that I am trying to solve or understand. Why?
-- Go deep. Specialize. Be great at some thing and then branch out.
+- There are no dumb questions. Do some research first though.
+- Go deep. Specialize. Be great at some thing and branch out.
 - Learn [fundamentals first](https://medium.com/@nikitavoloboev/the-root-of-it-all-9b6ab6a77e1d).
-- Build things from scratch to understand. Minimal version that works.
-- Draw. Use drawings and imagination to distill complex ideas.
-- Watch videos (talks & tutorials) in 1.75 or 2 speed, unless it hurts comprehension.
-- Listen to podcasts/books at fast enough speed to comprehend. (Overcast: ~ 2x + smart speed, Books: 1.5x).
+- [Build things from scratch](https://github.com/nikitavoloboev/build-to-learn) to understand. Minimal version that works.
+- Draw or sketch to distill complex ideas. Think through problems together. Discuss.
+- Watch videos at 1.75 or 2 speed, unless it hurts comprehension or it's entertainment.
+- Listen to podcasts/books at fastest speed I can comprehend. (Podcasts: ~ 1.8x + smart speed, Books: 1.5x).
 
 ## Write
 
-- Be clear in what I write about. Be concise.
-- Use proper punctuation and capitalize things appropriately.
-- When making tasks (2Do, Trello, GitHub issues), use imperative tense.
-- Remove unnecessary and _filler_ words. Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Be concise.
-- If something can be said in less words, say it in less words. Be clear and to the point.
-- Minimize using word _here_. When wanting to reference a certain URL, I don't need to mention _and you can see it here_. I can most likely just change the thing I want to show and wrap that in URL. It looks cleaner this way and saves space.
-- Use headings to separate sections of articles.
-- Use a spellchecker and lint mistakes.
-- Don't say _Want to_. Instead say _Will_ in _Changes_. This applies more generally too, try be more proactive with anything I do. Intention counts.
+- Be clear in what I want to share. Be concise. [Cut out everything that’s not surprising.](https://sivers.org/d22)
+- Use proper punctuation and capitalize things appropriately. Use simple language.
+- Use imperative tense for briefness when making tasks (2Do, Trello, GitHub issues). Be clear.
+- Remove unnecessary and _filler_ words. Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Say more with less.
+- Can hyperlink words/phrases in sentences over say _here_.
+- Use headings to separate sections in articles/docs.
+- Fix mistakes with spell checker.
+- Format text to focus attention. **Bold** = strong emphasis. _Italic_ = soft emphasis. Syntax highlight `Code blocks`.
 
 ## Tools
 
-- Only use what is necessary. Experiment with things but never keep things you are not actually using. That mostly includes plugins and modifications.
-- Establish a good mental model of what I need and what I use as I approach modifying my workflow and tools.
-- Use best tools available to complete tasks. If don't exist, create new tools or adjust existing ones.
+- Only use what is necessary. Experiment with new tools/apps but never keep things I don't need. Applies to everything.
+- Establish good mental models of what I need and what I use as I approach modifying my workflow and tools.
 - Run less software. Only run what I use and need. Keep all systems clean & purposeful.
 
 ## Share
 
-- Share everything I know and made.
-- Submit bugs and feature requests (Twitter or email (most often) with feedback assistant (for Apple)).
+- Share [everything I know](../sharing/everything-I-know.md) and made.
+- Submit bugs and feature requests as soon as I encounter problems I can't solve. Twitter, email, in-app or feedback assistant.
+- Say things that [contribute to the conversation](https://discourse.elm-lang.org/t/how-we-talk-about-other-languages/972/7). Be honest.
 
 ## News
 
-- Reduce noise. Only follow high signal people & content I am interested in.
-- Have max 2 level of separation for filtering. (i.e. Follows / Other lists on Twitter). Filter aggressively for high signal.
-- Prefer subscribing to Atom over RSS if given a choice.
+- Filter consumed information. Reduce noise. Only follow high signal people & content I am interested in.
+- Separate information into two levels of quality if necessary (ie Twitter Follows/Other).
+- Subscribe to Atom over RSS feed if possible.
 
 ## Compassion
 
 - Value each animal’s life as equal to that of my own. Don't eat or hurt anyone.
 - Minimize suffering caused to other people. Be conscious of other people's feelings.
+- Strive to empower everyone around me to be better. Show compassion and care.
 
 ## Finance
 
-- Adhere to [my budget](../economy/finance.md) that I set in Monzo.
-- Keep digital receipts of expensive purchases for warranty (scan it, if it's in paper).
-- Make sure the payments go through for everything (flight tickets, etc). It can cause troubles down the road.
+- Mindfully spend money making sure not to support causes I don't support.
+- When paying online, make sure payments go through.
 
-## Home
+## Solve problems
 
-- Always have natural light present at home. Open windows, breathe fresh air.
-
-## Solving problems
-
-- Aggressively research whatever it is I don't understand. Google/dictionary/.. . Read, build a model of things in my head/software. Translate it to a workable solution.
-- Use my [solving problems outline](../research/solving-problems.md). Be flexible but persistent if the problem is worth solving.
+- Aggressively research everything I don't understand. In solving problems, think about it in terms of models I can validate.
+- For programming, think about the data model and operations. Always keep in mind the problem being solved.
 
 ## Code
 
-- Think about the data model & data structures first. Make a simple model, test it out, iterate.
-- Write code to be clearly understood by other people. Explicit over implicit. [Readability Matters More Than Correctness](https://xph.us/2017/04/23/readability.html)
-- Make the code run first. Then make it fast (if necessary).
+- Write clear code. Explicit over implicit. [Readability Matters More Than Correctness](https://xph.us/2017/04/23/readability.html)
+- Make code run first. Then make it fast (if necessary).
 - Read docs. Update docs where needed.
+- Function name should describe what it does. Good function names summarize what happens inside.
+- Make sure to copy things I understand. Copy correctly.
 - Delimit files with spaces using `-` instead of `_`.
 - Use switch cases over long ifs.
-- Function name should describe what it does, not when it's run. Good function names summarize what happens inside.
-- Make sure to copy things correctly, when copying from docs/internet.
-- Open draft PRs for WIP changes, saying what else should be added or considered in `Notes for reviewers` or the related issue. This opens PR for preliminary feedback.
-- No multi monitors. Only one file open in editor, unless split is necessary.
-
-## Code comments
-
-- Comment over code. Comment to ease comprehension of code. Don't comment obvious things.
-- Use imperative tense.
-
-## Communication
-
-- Say things that [contribute to the conversation](https://discourse.elm-lang.org/t/how-we-talk-about-other-languages/972/7). Be honest.
+- Open draft PRs for WIP changes, saying what should be added or considered in `Notes for reviewers` or the related issue. Ask for feedback.
+- Minimize distractions in text editor.
+- Comment over unclear code. Be as descriptive as necessary.
 
 ## Design
 
-- Giving users too many options is often a bad idea. Give very few options but make each one of them count and stand out.
+- Minimize decision making done by users. Good design leads.
+- Impress users with [great landing page](https://wiki.nikitavoloboev.xyz/design/design-inspiration#products).
 
-## Photo
+## Photos
 
 - Only keep good & memorable photos. Clean up the rest. Sort into albums.
+- Don't over edit photos & share freely.
 
 ## Email
 
-- Do emails in burst. Bring my Inbox to 0 every day. Action on each email.
-- Label and archive important emails. Delete emails otherwise.
-- Pin emails that need my attention and I need to reference.
-- Only show relevant emails to me in Inbox.
-- Don't erase trashed email manually. Erase trashed emails of over a month automatically.
+- Keep email inbox close to 0 at all times.
+- Pin emails that need attention.
+- Archive important emails accordingly. Delete the rest.
+- Filter incoming emails. Separate personal emails from the rest (newsletters/other).
 
 ## Git
 
-- Version control all projects.
-- Do atomic commits and write [proper appropriate commit messages](https://chris.beams.io/posts/git-commit/).
-- Commit often. Commits are cheap. I can always reverse changes.
-- Review all changes before committing.
-- Write commits in form of: `scope: subject`. Prefix subject with an action (add/remove/fix/update). Use [imperative tense](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg).
-- Commit changes and push before making a release.
-- When making changes to other projects, respect their Git workflow and commit style.
+- Version control all projects. Commit often. Squash branches into [one good commit](https://chris.beams.io/posts/git-commit/).
+- Respect existing git workflow of projects.
 - Prefix branch names with `fix/` or `feat/` appropriately.
-- Squash commits into 1 before merging. (GitHub lets you easily do it from PR).
 
 ## GitHub
 
-- Add appropriate topics to each repo. Add the languages used in the repo as topics.
-- Use relative links instead of hard wired links. For example in GitHub you can use `../issues/` to reference issues of current repo from readme.
-- Decouple the issue/pr in the GitHub issue/PR itself. Using Bee app. Update it as I am working.
-- Only append `#readme` to repos that are curated lists with simple README.
-
-## GitHub Gists
-
-- Create & update all gists from SnippetsLab.
+- Add appropriate topics to each repo (languages used, problem space, ..)
+- Use relative links instead of hard wired links (ie `../issues/` refers to issues of repo).
 
 ## README
 
-- Use HTML for rendering images if I need control of their size or position.
+- Use HTML for rendering images if control of size or position is needed.
 - Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links).
-- If the README is long enough, add a **Contents** reference table.
-- Don't add anything that is not needed and focus on the content.
-- Add a way to visually show the workflow/library in action where appropriate.
-- Don't link to Imgur images as links, render them in the README itself.
-- Add image fully itself to the repository and reference it if the image is big enough and requires high quality.
-- In screenshots of Alfred prompts and other prompts, show the cursor.
-- Add **Related** section to most repos linking to similar projects either of my own or of other. Not all projects need this.
-- Don't add _say thanks_ badge on curated lists.
-
-## Markdown
-
-- Don't need to add `:` to the end of text when adding image below as it is implicit.
-- Only use HTML to adjust the image if the original size is not what I need. Don't adjust images blindly and check how the final image looks rendered compared to the text.
-- Use **Bold** for strong emphasis. Use _Italic_ for soft emphasis. And `code quotes` for actual code, variables, path names and quoting inline (in same sentence).
+- If README is long enough, add a **Contents** reference table.
+- Add a way to visually show the project if possible.
+- Add **Related** section linking to similar projects if possible.
 
 ## Wiki
 
-- Share everything I know and need to reference in the wiki. Document my life and reflect.
-- Describe links on the same line with `-` separator.
-- Interlink entries between each other within wiki where necessary. Don't over do it.
-- Don't repeat myself or anyone else. If something has already been said either by me or someone else, link to it (especially in this wiki).
-- Try to use other services for logging and other things where possible. Like in the case of [Letterboxd](https://letterboxd.com/nikitavoloboev/) and its Lists feature. It's better to make lists there and link to the lists from wiki. Find the right tool for the job. The wiki should act as a glue between things.
-- Keep all files lowercased.
-- If I am watching a talk, it is best not to jot down notes from the talk itself but capture ideas and note down these ideas in the wiki, sometimes referencing the talk where the idea or insight was taken from for context.
-- Think about structuring the content and entries as I add new entries. Should a new category be added for the topic (thing) and under what category should the entry be placed.
-- If I move a file anywhere in the wiki, make sure to search for the path to the file in the entire wiki and change the references to the previous file with new one.
-- Don't abbreviate folders and files. Unless it is clear what abbreviation means.
-- Add links to headings that link to the description of what the wiki file is about.
-- Don't say `I need to`, but say `I will ..` or `I try to ..`. Be proactive. Intention counts.
+- Treat wiki as my digital brain. Share everything I know or need to reference. [Reflect on my life](../looking-back/looking-back.md).
+- Have [unified structure](../meta/reference.md) for all pages.
+- Interlink pages to guide the reader.
+- Don't repeat myself. Link. Keep files lowercased.
+- Only keep links that are private in bookmarks. Everything else is shared either in wiki or [curated lists](https://github.com/learn-anything/curated-lists).
 
 ## Share files
 
-- Temporary shares with [Transfer](https://transfer.sh).
-- More permanent shares with Dropbox (wiki & articles). Don't delete items from _shares_ folder unless the reference to it from either wiki or articles is gone.
-- If the files are stored on GitHub somewhere, I can use [jsDelivr](https://www.jsdelivr.com/) to get a downloadable link of the raw file.
+- Temporary shares with [Transfer](https://transfer.sh). Permanent with Dropbox. Can use [jsDelivr](https://www.jsdelivr.com/) to link to GitHub raw files.
 
-## Shipping a product
+## Social
 
-- Have a nice looking website. The first look matters.
-
-## Social networks
-
-- Have same profile picture across all social networks for consistency and profiles.
-- Use social networks with a purpose. Only add people that matter to me and are useful. Filter aggressively.
-
-## Privacy
-
-- Be mindful of the data fingerprint I leave from using a service. If the service disregards my privacy and brings me no value. Don't use it.
-
-## Adding resources (links)
-
-- When adding resources and bookmarks. Prioritize adding them to LA curated lists first and LA itself (not Trello). The goal of the wiki is to mostly contain my own notes and references.
-  - The resources should be moderated and extended by the community through clear guidelines.
-
-## Dotfiles
-
-- Comment all my aliases briefly saying what they do. Comment all Zsh functions. Be mindful that I can then search through these functions and aliases later.
-
-## Documentation
-
-- Practice self documentation. Where possible, document things inline in the code base or app itself in some way. Don't duplicate things.
-
-## Keyboard Maestro
-
-- When doing macros to _focus_ on something, name the macro like _sidebar focus_ rather than _focus on sidebar_.
-- Minimize inputs and preconditions to macros. Sometimes it's possible that the input I need to a macro, I can get from another place within the macro itself.
-
-## Karabiner
-
-- Prefer making semantic mappings and chunk mappings by theme or context. Make it mnemonic.
-- Organize mappings by keyboard layout. Q -> W -> ..
-
-## Naming
-
-- Use mnemonic names for aliases/functions.
+- Meet new people. Go to seminars, talks, conferences.
+- Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
+- Use same profile picture across all social networks & websites.
 
 ## Alfred
 
-- Keyword triggers should be one string (no spaces). Try to make keyword be semantically appropriate to workflow and easy to memorize and type.
-- Have descriptives external triggers with spaces between words (lowercased) for Karabiner.
-- Release all my workflows (that have no sensitive information) either in [small workflows](https://github.com/nikitavoloboev/small-workflows#readme) or standalone if they contain quite a bit of code.
-- Name all modifier triggers (uppercased).
-- Color Alfred objects that have errors in them and need to be fixed in red color. Acts as a `TODO`.
-
-## Interviews
-
-- When preparing for interviews, code up solutions myself instead of looking at solutions. Be able to express solution in my own words.
-
-## iOS
-
-- Only have notifications from real people and 2Do. The rest should be blocked. No badges.
-- Spend time on phone mindfully. Read & be proactive.
-
-## Login
-
-- Use Single Sign On where available. Mark it accordingly in 1Password (F (FB), G (Google), H (GitHub)). FB preferred for social circle.
-- Use 2FA where available. Saved to 1Password.
+- Use descriptives lowercased names for external triggers.
 
 ## SnippetsLab
 
 - Upload all non personal snippets as Gists.
-- Create smart group for each new prefix I add.
+- Create smart groups for new prefixes I add.
 - Add correct language syntax to every snippet.
-- Prefer to use comments in the code itself rather than notes (easier to follow).
-- Map command line tools in the curated list. Only add commands where I do want to add some optional commands as snippet to SnippetsLab.
-- Attach the URL to snippets as note as a first thing always if URL is needed. Add other notes underneath the URL.
-
-## Planning
-
-- Plan the next day fully in advance in the calendar. Follow through with the plan but adapt where necessary.
 
 ## 2Do
 
-- Only contain things I need to get done Today in _Today_. Important tasks are stored in Starred sorted by priority. Keep _Today_ list manageable (< 15 tasks).
-- All 2Do tasks need to be actionable.
-- Work on tasks based on priority (starred completed first).
-- Don't include context in the task title. Add it as a tag instead.
-- Add time estimates to tasks that might take 1 hour or more, where appropriate.
+- Only have tasks I need to get done Today in `Today`. Important tasks are stored in `Starred` sorted by priority. Keep `Today` list manageable (< 15 tasks).
+- All tasks need to be actionable.
+- Work on tasks based on priority. Strive to keep `Starred` list close to 0.
+- Add context of task as tags.
 
 ## Ideas
 
-- If the idea is not private. Share it in [Trello](https://trello.com/b/alB1ryRP). Add relevant description and links to describe the idea clearly.
-- Let the ideas evolve. Work on it and it might change into something far greater over time.
+- Share all ideas I have in [Trello](https://trello.com/b/alB1ryRP) & optionally Twitter. Add relevant description and links to describe the idea clearly.
+- Let ideas evolve.
 
-## Capitalizing things
+## Ask questions
 
-- Capitalize everything where appropriate (Sentences / Headings / Alfred workflows / GitHub descriptions / GitHub issues and PRs / Comments in SnippetsLab / Main dashed points / Tweets / ..).
-
-## Asking questions
-
-- When posting an error or an issue, give as much relevant information as I can to help debug it.
-- For asking questions about Alfred workflows, link to the workflow you are trying to edit in the comment. And paste the debugger output from when the issue occurs.
+- When posting an error or an issue, [give as much relevant information](../research/asking-questions.md) as I can to help debug it.
 
 ## Feedback
 
 - When asking for feedback, never ask people if they like the product I built. Ask them whether they don't like anything instead.
-- Welcome any feedback. The more critical feedback, the better. Iterate on it.
+- Welcome any feedback. The more critical feedback, the better. Internalize all useful feedback, make it actionable.
 
-## Reading
+## Read
 
-- When reading articles in Reeder, use stars on articles liked. Can have a process to later transfer these stars to wiki.
 - Make notes as I read books & papers.
 - Review read books on Goodreads & add it to [wiki](../books/books.md).
-
-## Productivity
-
-- Work to complete the task I have at hand.
-- Set deadlines for all things. Adjust plan according to the deadlines.
-- Deadlines set are of utmost importance. Do my best to complete the deadlines I have set for today before venturing in trying to do anything else. Learn how to deal and set appropriate deadlines with time.
-- Limit distractions. Strive to increase signal to noise ratio.
-- Always turn [Focus](https://heyfocus.com) when starting to work and make things and fully focus on the task/s at hand. Adjust the focus list to block even more distractions and tune my workflow to only do the task/s I have.
-- Live by my calendar. Assign tasks and blocks of time in advance and work through each of the blocks. Adjust when necessary.
-- Always have water next to me.
-- Work away from home ideally.
-
-## Meet people
-
-- Meet new people. Go to seminars, talks, conferences.
-- Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
-
-## Vim
-
-- Comment over all mappings in vimrc itself.
-- Only add things that are essential to me and what I actually use.
-
-## Twitter
-
-- [Top](https://twitter.com/nikitavoloboev/lists/top) should include posts with **highest** value to me. Put other profiles into other lists appropriately. Don't keep `top` too big.
-
-## Spotify
-
-- Add all songs I like to my [Likes](https://open.spotify.com/user/nikitavoloboev/playlist/0ERn0U4qZIKC8Dy7RrMMsn?si=s7begtjFTM-vaAp0ZplMaQ) playlist.
-  - Add all songs I love to [Bliss](https://open.spotify.com/user/nikitavoloboev/playlist/2N82DnDsPGMnpJhN8sVFJu?si=JfYPAzAcT0qyvJI08KEg2g) playlist.
-  - Add songs to other playlists accordingly.
+- Star articles I liked on Reeder. Transfer likes to wiki later.
 
 ## Licensing
 
-- License my own code under [MIT](https://tldrlegal.com/license/mit-license).
-- License curated lists and other things under [CC0](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal).
+- License OSS code under [MIT](https://tldrlegal.com/license/mit-license) or [Apache 2.0](<https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)>).
+- License curated lists and everything else under [CC0](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal).
 
-## Prefixing
+## macOS/iOS
 
-- Prefer to have the prefix reference the meaning in some way for easier mental mapping of prefix to meaning.
-- Name and prefix things with focus on clarity. The semantics of prefixes should ideally be obvious. And naming should be appropriate.
-
-## Timing
-
-- Minimize _News_ time and aim at **< 40 hour News time** a day. Ideally less. Block everything that is distracting when working.
-- Mark all time past in Timing. Adjust filters and projects to what kind of things I am working on.
-
-## Images
-
-- Keep screenshots and interesting images saved in Pixave.
-
-## macOS
-
-- Only run apps I actually need. Quit everything else.
-- Delete apps I am not using and have no need over. Only use what I need or may need.
-- Have full control over what is going on my system to a reasonable degree. Don't use/install things I do not actually need.
-- Don't force empty trash. Erase trashed items automatically after a week.
-- Yellow arrows & text is much nicer than red when annotating on screenshots with Annotate.
-- Don't play games on mac. Use more suitable platforms for it like Windows/PS4.
-
-## Safari
-
-- Only bookmark personal information and links. The rest should be available via [curated lists](https://github.com/learn-anything/curated-lists#readme).
-
-## Paprika recipes
-
-- Add any new recipe I discover or make to Paprika. Add correct ingredients, instructions and a photo to each recipe.
-
-## Information
-
-- Don't save unnecessary information. This mostly concerns tracking data and the like. More data is not always better. Quality and purposeful data is.
-- Make the data actionable in some way. Either as a way that you can query it later and read or look back upon in the future (as is case with Day One) or as a way you can immediately take action on in form of analysis of it.
-  - Knowing what goals you have and the reasons why you are collecting or using certain kind of data is important and saves a lot of time in the future when you want to _minimize_ and _simplify_ things in life.
-
-## Backups
-
-- Data that is not backed up is lost data. Automate backups.
+- Only run software I need. Quit everything else or delete entirely.
+- Have full control over what is going on my OS to reasonable degree.
+- Yellow arrows & text is nicer to read when annotating images.
+- Don't play games on mac. Use PlayStation instead.
+- [Automate backups](../backups/backups.md).
 
 ## Trello
 
-- Share boards publicly that contain no sensitive or private information.
 - Order of importance for cards: **Watching** -> **Next** -> No label.
-- Add links to wiki or [curated lists](https://github.com/learn-anything/curated-lists#readme) over adding them to Trello where appropriate.
 
 ## Travel
 
-- Buy travel/train/accommodation arrangements for future events/conferences as soon as possible (if I know I will be attending the event).
-- Plan travels in advance in order to save on travel expenses.
-- Proof check the dates you are getting the tickets for. Make sure they are ones you want/need (i.e. going to event).
-- Make sure I don’t carry any liquids that are too big in size (> 100ml).
-- Check in online as early as possible. Otherwise you may pay a fine.
+- Buy transport (plane/train) & accommodation for future events/conferences/travels as soon as possible (when I am sure I am attending event/place).
+- Proof check dates before buying tickets. Don't prepare large liquids (> 100ml) in planes.
+- Check in online as early as possible.
 
-## Talks
+## Giving talks
 
 - Link to a page where people can get the slide deck + recording of talk given after giving any talk/presentation as a final slide. Can reuse the final slide for all talks.
-
-## Other
-
-- Check everything once I leave a room. In case I forget anything.
-- Avoid confusion. Don't use anything only I can understand.
-- Be aware of my own quirks and ask myself why I do what I do.
-- Don't overthink things to the point of not doing anything.
-- Don't purposefully hurt myself in any way.
-
-## Remember
-
-- Everything evolves with time. Projects, articles, ideas will evolve with time and will never be what I first envisioned them to be.

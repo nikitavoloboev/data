@@ -30,3 +30,4 @@
 - [Cppcheck](https://github.com/danmar/cppcheck) - Static analysis of C/C++ code.
 - [Optimizing software in C++](https://www.agner.org/optimize/optimizing_cpp.pdf)
 - [C++ Core Guidelines](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- [CppCon 2019 talks](https://www.youtube.com/playlist?list=PLHTh1InhhwT6KhvViwRiTR7I5s09dLCSw)
