@@ -157,6 +157,7 @@ Some simple rules to follow when doing things.
 
 - Add appropriate topics to each repo (languages used, problem space, ..)
 - Use relative links instead of hard wired links (ie `../issues/` refers to issues of repo).
+- Don't append `#readme` to GitHub repos that are not curated lists or simple readmes.
 
 ## README
 
@@ -165,7 +166,6 @@ Some simple rules to follow when doing things.
 - If README is long enough, add a **Contents** reference table.
 - Add a way to visually show the project if possible.
 - Add **Related** section linking to similar projects if possible.
-- Don't append `#readme` to GitHub repos that are not curated lists, simple readmes.
 
 ## Wiki
 
