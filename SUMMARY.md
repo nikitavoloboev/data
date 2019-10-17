@@ -585,6 +585,7 @@
   - [Photography](art/photography.md)
   - [Models](art/models.md)
   - [Drawing](art/drawing.md)
+  - [Pen plotting](art/pen-plotting.md)
   - [Sketching](art/sketching.md)
   - [Comics](art/comics.md)
   - [Dancing](art/dancing.md)
