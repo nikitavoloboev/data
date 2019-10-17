@@ -9,9 +9,9 @@ Twitter is my primary way to stay up to date on things and is my favorite social
 I split the app into 2 columns on mac. On iOS, I read through my [Top list](https://twitter.com/nikitavoloboev/lists/top).
 
 - First column: Mentions / Messages / [Other](https://twitter.com/nikitavoloboev/lists/list)
-- Second column: [Top](https://twitter.com/nikitavoloboev/lists/top). Tweets with highest value to me.
+- Second column: [Timeline](https://twitter.com/nikitavoloboev/following). Tweets with highest value to me.
 
-![](https://i.imgur.com/7vLi5Po.png)
+![](https://i.imgur.com/uMoGfGx.png)
 
 ## Notes
 
