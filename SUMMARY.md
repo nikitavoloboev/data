@@ -618,7 +618,6 @@
     - [CV](work/finding-work/cv.md)
     - [Hiring](work/finding-work/hiring.md)
     - [Contracting](work/finding-work/contracting.md)
-    - [Interesting companies](work/finding-work/interesting-companies.md)
   - [Remote work](work/remote-work.md)
   - [Consultancies](work/consultancies.md)
 - [Management](management/management.md)
