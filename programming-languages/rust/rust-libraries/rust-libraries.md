@@ -15,6 +15,7 @@
 - [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
 - [Gloo](https://github.com/rustwasm/gloo) - Toolkit for building fast, reliable Web applications and libraries with Rust and Wasm.
 - [reqwest](https://github.com/seanmonstar/reqwest) - Easy and powerful Rust HTTP Client.
+- [gotham](https://github.com/gotham-rs/gotham) - Flexible web framework that promotes stability, safety, security and speed.
 
 ## ORM
 

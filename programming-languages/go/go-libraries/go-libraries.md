@@ -209,6 +209,7 @@
 - [syncmap](https://github.com/a8m/syncmap) - Typed implementation of the Go sync.Map using code generation.
 - [BadgerHold](https://github.com/timshannon/badgerhold) - Embeddable NoSQL store for querying Go types built on Badger.
 - [jeff](https://github.com/abraithwaite/jeff) - Provides the simplest way manage web sessions in Go.
+- [GoGi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework.
 
 ## Links
 

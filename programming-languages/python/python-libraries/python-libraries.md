@@ -45,3 +45,4 @@
 - [PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python.
 - [Peewee](https://github.com/coleifer/peewee) - Small, expressive orm -- supports postgresql, mysql and sqlite.
 - [Curio](https://github.com/dabeaz/curio) - Library for Python systems programming involving concurrent I/O with network sockets, files, subprocesses, and similar constructs.
+- [Hyperopt](https://github.com/hyperopt/hyperopt) - Python library for serial and parallel optimization over awkward search spaces, which may include real-valued, discrete, and conditional dimensions.
