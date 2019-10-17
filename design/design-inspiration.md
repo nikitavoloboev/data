@@ -132,6 +132,7 @@ Here are few more things I liked, design wise.
 - [Andy Grove](https://andygrove.io/)
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
 - [Frederique Matti](https://frederiquematti.com/)
+- [Blaž](https://mxxn.io/)
 
 ## Analog
 

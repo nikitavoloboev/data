@@ -21,3 +21,4 @@ Here are tools I use for streaming:
 - [My Twitch Live Coding Setup by Suz Hinton (2019)](https://medium.com/@suzhinton/my-twitch-live-coding-setup-b2516672fb21) ([HN](https://news.ycombinator.com/item?id=19241570))
 - [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams#readme)
 - [Streamlabs](https://streamlabs.com/)
+- [Streamlabs OBS](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.
