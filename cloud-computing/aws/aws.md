@@ -27,3 +27,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Easy Amazon EC2 Instance Comparison](https://ec2instances.info/)
 - [Buildkite Elastic CI Stack](https://github.com/buildkite/elastic-ci-stack-for-aws) - Gives you a private, autoscaling Buildkite Agent cluster.
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based applications without the boilerplate.
+- [The \$10m engineering problem (2019)](https://segment.com/blog/the-10m-engineering-problem/)

@@ -55,3 +55,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Don't Call Yourself A Programmer, And Other Career Advice (2011)](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 - [Your First 60 Days at an Engineering Job (2015)](https://code.dblock.org/2015/04/23/your-first-60-days-at-an-engineering-job.html)
 - [Many React Remote jobs](https://twitter.com/mxstbr/status/1180846287148785670)
+- [TripleByte](https://triplebyte.com/) - Do quiz & interview and skip first stages in applying for companies.

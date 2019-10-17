@@ -1,5 +1,5 @@
 # Languages
 
-I only know two languages right now: English and Russian.
+## Links
 
-But I do wish to learn German and Japanese sometime in the future.
+- [BabelNet](https://babelnet.org/) - Multilingual resource that covers hundreds of languages and, according to need, can be used as either an encyclopedic dictionary, or a semantic network, or a huge knowledge base.
