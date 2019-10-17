@@ -4,30 +4,16 @@ Some simple processes to follow when doing things.
 
 ## Learn
 
-1. Find what I want/need to learn. Ideally in context of a problem I want to solve.
-2. Read about it on wiki. Find the topic on [Learn Anything](../ideas/learn-anything.md) and learn from best resources for deeper knowledge.
-3. Ask myself why it is the way it is. Ask myself what am I missing and what I don't understand (tackle each dependency one by one).
+1. Read about topic in wiki or Google it & read. Have mental map of how it connects to other topics.
+2. Apply the knowledge.
 
-## Write an article
+## Write article/book
 
-1. Write down main ideas I want to cover as bullet points.
-2. Write the article touching on all the main points.
-3. Refactor. Remove useless words and irrelevant pieces.
-4. Publish.
+1. Write down main points I want to cover as bullet points.
+2. Write and address each of the points.
+3. Refactor. Remove useless words and irrelevant pieces. Make it concise.
+4. Publish. Share.
 
-## Write a book
+## Read books/articles
 
-1. Know what I want to write about. Write an outline.
-2. Write the book. Refactor continuously.
-3. Publish.
-
-## Read books
-
-1. Read the book. Highlight important parts and/or translate them to wiki as notes.
-2. When finished reading, transfer highlights to wiki. Make review of book on Goodreads.
-
-## Make Alfred workflow
-
-1. Follow [making workflows outline](../macOS/apps/alfred/making-workflows.md).
-2. Share it. Post the workflow on [Alfred Forum](https://www.alfredforum.com/). Heading (36 pt), `Code | Download` (22 pt) on the bottom. [Example](https://www.alfredforum.com/topic/10486-ask-create-share).
-
+1. Read. Note down interesting points and document them.

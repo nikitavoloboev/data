@@ -13,3 +13,5 @@
 - [Learn you some Erlang book](https://learnyousomeerlang.com/content)
 - [Relx](https://github.com/erlware/relx) - Sane, simple release creation for Erlang.
 - [Rebar3](https://github.com/erlang/rebar3) - Erlang build tool that makes it easy to compile and test Erlang applications and releases.
+- [Erlang/OTP](https://github.com/erlang/otp) - Programming language and runtime system for building massively scalable soft real-time systems with requirements on high availability.
+- [Enigma VM](https://github.com/archseer/enigma) - Simple Erlang VM implementation in Rust.

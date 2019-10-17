@@ -35,13 +35,13 @@ Some simple rules to follow when doing things.
 - Set [goals](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Execute.
 - Don't waste time. Build [ideas](../ideas/ideas.md). Learn. Cut out noise (analytics, likes..).
 - [Share](../sharing/sharing.md). [Write](../writing/writing.md). Be honest.
-- Be very aggressive in cutting any kind of distractions when working. Pure focus on task at hand. Have scheduled breaks.
+- Be very aggressive in cutting any kind of distractions when working. Pure focus on task at hand. Have timed breaks.
 - Don't context switch unless it's necessary. Don't visit blocked sites and apps when **focusing**. Don't touch the phone unless necessary.
 - Spend mindful time on the phone. Listen to podcasts/books/chat. Don't waste time on things that can be done better on mac.
 - When **focusing**, do the task at hand and nothing else. [Break problems down](../research/solving-problems.md). Solve them.
 - Be mindful of my habits and temptations. Don't succumb to them and keep my focus. Do things with purpose.
 - Do quick exercise bursts during the day to regain focus. Move around & explore new environments for inspiration.
-- On weekly reviews, observe time I spent in in Timing and cut it out with [Focus](https://heyfocus.com).
+- On weekly reviews, observe time I spent in Timing and cut it out with [Focus](https://heyfocus.com).
 - Use one screen on mac. It's easier to context switch and keep focus.
 - Don't listen to distracting music or sounds when focusing. Use [Noizio](http://noiz.io) & [Dark Noise](https://darknoise.app) and listen to Rain, Fire or similar sounds. Or play a song from [Focus playlist](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5?si=KhAd2yhvRSGOADmRObkM7w). Or have nothing playing at all.
 - Use noise canceling headphones to minimize distractions.
@@ -78,7 +78,7 @@ Some simple rules to follow when doing things.
 - Use proper punctuation and capitalize things appropriately. Use simple language.
 - Use imperative tense for briefness when making tasks (2Do, Trello, GitHub issues). Be clear.
 - Remove unnecessary and _filler_ words. Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Say more with less.
-- Can hyperlink words/phrases in sentences over say _here_.
+- Hyperlink words/phrases appropriately.
 - Use headings to separate sections in articles/docs.
 - Fix mistakes with spell checker.
 - Format text to focus attention. **Bold** = strong emphasis. _Italic_ = soft emphasis. Syntax highlight `Code blocks`.
@@ -109,7 +109,7 @@ Some simple rules to follow when doing things.
 
 ## Finance
 
-- Mindfully spend money making sure not to support causes I don't support.
+- Mindfully spend money. Make sure not to support practices I don't agree with.
 - When paying online, make sure payments go through.
 
 ## Solve problems
