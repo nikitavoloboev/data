@@ -8,3 +8,4 @@
 - [Go Micro](https://github.com/micro/go-micro) - Framework for micro service development.
 - [Banking on Go - Matt Heath (2017)](https://www.youtube.com/watch?v=iRNwLjKeVRE)
 - [Envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy.
+- [Dapr](https://github.com/dapr/dapr) - Portable, event-driven, serverless runtime for building distributed applications across cloud and edge.

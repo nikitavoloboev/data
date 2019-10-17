@@ -12,3 +12,4 @@
 - [Ten Years of Erlang (2019)](https://ferd.ca/ten-years-of-erlang.html) ([HN](https://news.ycombinator.com/item?id=20382126))
 - [Learn you some Erlang book](https://learnyousomeerlang.com/content)
 - [Relx](https://github.com/erlware/relx) - Sane, simple release creation for Erlang.
+- [Rebar3](https://github.com/erlang/rebar3) - Erlang build tool that makes it easy to compile and test Erlang applications and releases.

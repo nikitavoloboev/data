@@ -16,3 +16,4 @@
 - [Elixir for Programmers course](https://codestool.coding-gnome.com/courses/elixir-for-programmers)
 - [Talks and Conversations of Dave Thomas](https://pragdave.me/speak.html)
 - [Elixir Forum](https://elixirforum.com/)
+- [An Interview with Jose Valim, Creator of Elixir (2019)](https://www.welcometothejungle.co/en/articles/btc-elixir-jose-valim) ([HN](https://news.ycombinator.com/item?id=21280092))

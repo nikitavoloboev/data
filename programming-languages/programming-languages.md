@@ -38,3 +38,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Say something nice about a programming language you dislike (2019)](https://lobste.rs/s/hib1ui/say_something_nice_about_programming)
 - [comby](https://github.com/comby-tools/comby) - Tool for changing code across many languages.
 - [On the Expressive Power of Programming Languages by Shriram Krishnamurthi [PWLConf 2019]](https://www.youtube.com/watch?v=43XaZEn2aLc)
+- [The Rise of 'Worse is Better' by Richard Gabriel](https://www.jwz.org/doc/worse-is-better.html)
