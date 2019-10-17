@@ -37,6 +37,7 @@
 - [M3](https://github.com/m3db/m3) - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform.
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps.
 - [Neo4j](https://github.com/neo4j/neo4j) - High performance graph store with all the features expected of a mature and robust database, like a friendly query language and ACID transactions.
+- [Dgraph](https://github.com/dgraph-io/dgraph) - Horizontally scalable and distributed graph database, providing ACID transactions, consistent replication and linearizable reads.
 
 ## Tools
 
