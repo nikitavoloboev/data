@@ -82,3 +82,4 @@
 - [Software Foundations series](https://softwarefoundations.cis.upenn.edu/) - Broad introduction to the mathematical underpinnings of reliable software.
 - [Software optimization resources](https://www.agner.org/optimize/)
 - [Simple Made Easy by Rich Hickey (2011)](https://www.infoq.com/presentations/Simple-Made-Easy/)
+- ["Performance Matters" by Emery Berger (2019)](https://www.youtube.com/watch?v=r-TLSBdHe1A)
