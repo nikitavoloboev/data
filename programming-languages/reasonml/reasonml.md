@@ -29,3 +29,4 @@
 - [Reason bindings for React Native](https://github.com/reasonml-community/reason-react-native) - Write your React Native apps with Reason.
 - [ReasonReact Example App](https://github.com/ostera/my-reason-react-app)
 - [Reason Project Ideas](https://github.com/jordwalke/reason-project-ideas#readme)
+- [React Advanced Reason Workshop (2019)](https://github.com/nikgraf/2019-10-reason-workshop)

@@ -32,7 +32,7 @@ I have [many more Trello boards](my-trello.md) I use and share.
 
 ## macOS/iOS group on [Telegram](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw)
 
-I [love macOS](https://github.com/nikitavoloboev/my-mac-os#readme) and automation so I made a Telegram group to discuss all things macOS/iOS.
+I [love macOS](https://github.com/nikitavoloboev/my-mac-os) and automation so I made a Telegram group to discuss all things macOS/iOS.
 
 ## Snippets on [GitHub Gists](my-gists.md)
 
@@ -40,7 +40,7 @@ I share snippets of code I made with various languages for quick reference.
 
 ## Knowledge in [this wiki](../README.md)
 
-I share [everything I know](everything-I-know.md) in form of this wiki here. Can be easily queried with the search at the top and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme).
+I share [everything I know](everything-I-know.md) in form of this wiki here. Can be easily queried with the search at the top and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 
 ## [My workflow](my-workflow.md)
 
