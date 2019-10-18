@@ -61,3 +61,4 @@ I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3
 - [fuzzy-search](https://github.com/deanishe/alfred-fuzzy) - Fuzzy search helper.
 - [Deanishe's approach in building Go workflows](https://github.com/deanishe/awgo/commit/5f0051950af39371385f2dfda96483eb1423e565#r29572675)
 - [Pacmax](https://pacmax.org/) - Explore & Share Great Packages for Alfred.
+- [Fix for running compiled workflows in Catalina](https://github.com/deanishe/alfred-sublime-text/issues/20#issuecomment-539578934)

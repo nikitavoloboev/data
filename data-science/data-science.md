@@ -54,3 +54,4 @@
 - [Overview of Popular Open Source Big Data Technologies (2018)](https://andygrove.io/overview_of_popular_open_source_big_data_technologies/)
 - [Introducing Apache Arrow Flight: A Framework for Fast Data Transport (2019)](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/)
 - [Understanding Apache Arrow Flight (2019)](https://www.dremio.com/understanding-apache-arrow-flight/)
+- [New Developments in the Open Source Ecosystem: Apache Spark 3 0, Delta Lake, and Koalas (2019)](https://www.youtube.com/watch?v=scM_WQMhB3A)

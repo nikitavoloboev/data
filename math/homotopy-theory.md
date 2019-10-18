@@ -9,3 +9,4 @@
 - [HoTT and Dependent Types Group by JetBrains](https://research.jetbrains.org/groups/group-for-dependent-types-and-hott)
 - [Homotopy Type Theory 2019](https://hott.github.io/HoTT-2019//summer-school/) ([Notes](https://github.com/CodaFi/Hott-Summer))
 - [HoTT in Idris](https://github.com/associahedron/HoTT-Idris) - Small, incomplete, and inconsistent formalization of homotopy type theory in Idris.
+- [hoq](https://github.com/valis/hoq) - Language based on homotopy type theory with an interval.
