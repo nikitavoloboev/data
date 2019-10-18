@@ -39,14 +39,11 @@
 
 - [go-flags](https://github.com/jessevdk/go-flags) - Provides an extensive command line option parser.
 
-## ORM
+## Database
 
 - [db](https://github.com/upper/db) - Productive data access layer for Go.
 - [Gorm](https://github.com/jinzhu/gorm) - Fantastic ORM library for Golang, aims to be developer friendly.
 - [pg](https://github.com/go-pg/pg) - Golang ORM with focus on PostgreSQL features and performance.
-
-## Database
-
 - [zoom](https://github.com/albrow/zoom) - Blazing-fast datastore and querying engine for Go built on Redis.
 - [bolter](https://github.com/hasit/bolter) - View BoltDB file in your terminal.
 - [pg_query_go](https://github.com/lfittl/pg_query_go) - Go library to parse and normalize SQL queries using the PostgreSQL query parser.

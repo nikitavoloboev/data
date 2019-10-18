@@ -29,7 +29,7 @@ Some simple rules to follow when doing things.
 - [Sleep](../sleep/sleep.md) at least 8 hours every day. Don't limit sleep, ever. Try go to sleep at same time.
 - Always have good posture. Sit properly and upright, don't bend my back/spine.
 - Take [essentials daily supplements](../health/nutrition/supplements.md) as well as [daily food mix](../health/nutrition/foods.md).
-- Everything in moderation. Avoid alcohol and hard drugs (like opiates).
+- Everything in moderation. Avoid alcohol and any damaging drugs (like opiates). Health above all.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
 
 ## Focus

@@ -30,3 +30,4 @@
 - [Formula One](https://github.com/iwillspeak/formula-one) - Experiment in ways to ergonomically build syntax trees and transformations in Rust.
 - [Bel](http://paulgraham.com/bel.html) - Spec for a new dialect of Lisp, written in itself. ([HN](https://news.ycombinator.com/item?id=21231208))
 - [Let Over Lambda -- 50 Years of Lisp book](https://letoverlambda.com/)
+- [William Byrd on "The Most Beautiful Program Ever Written" (2017)](https://www.youtube.com/watch?v=OyfBQmvr2Hc)

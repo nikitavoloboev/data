@@ -14,3 +14,4 @@
 - [KaSim](https://github.com/Kappa-Dev/KaSim) - Stochastic simulator for rule-based models written in Kappa. KaSa is a static analyser for Kappa models.
 - [BioJulia](https://biojulia.net/) - Julialang community for biologists and bioinformaticians, working to create great modern software packages for computing with biological data.
 - [Rob Reid - the dark side of gene editing and synthetic biology (2019)](https://overcast.fm/+RxHEOdXhc)
+- [New universe of miniproteins is upending cell biology and genetics (2019)](https://www.sciencemag.org/news/2019/10/new-universe-miniproteins-upending-cell-biology-and-genetics?rss=1) ([HN](https://news.ycombinator.com/item?id=21284770))

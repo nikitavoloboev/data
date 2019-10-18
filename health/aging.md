@@ -18,3 +18,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [HN: The Hallmarks of Aging (2019)](https://news.ycombinator.com/item?id=18826833)
 - [Dr. Peter Attia - longevity compounds, fasting, supplements and more (2019)](https://overcast.fm/+GJeif6tM4)
 - [Prolonging healthy aging: Longevity vitamins and proteins](https://www.pnas.org/content/115/43/10836)
+- [Being Mortal: Medicine and What Matters in the End (2014)](https://www.goodreads.com/book/show/20696006-being-mortal)
