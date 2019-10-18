@@ -133,6 +133,7 @@ Here are few more things I liked, design wise.
 - [Chris Biscardi](https://www.christopherbiscardi.com/)
 - [Frederique Matti](https://frederiquematti.com/)
 - [Blaž](https://mxxn.io/)
+- [Jenny Wen](http://jennywen.ca/index.html)
 
 ## Analog
 
