@@ -58,3 +58,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Does anyone else keep their own knowledge wiki?](https://lobste.rs/s/ord0rg/does_anyone_else_keep_their_own_knowledge)
 - [Show HN: Everything I Know Wiki (2019)](https://news.ycombinator.com/item?id=19468993)
 - [Ask HN: Do you keep a personal knowledge repository? (2019)](https://news.ycombinator.com/item?id=20007108)
+- [Patterns of personal knowledge bases](https://github.com/zadam/trilium/wiki/Patterns-of-personal-knowledge-base)

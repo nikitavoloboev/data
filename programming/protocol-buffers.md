@@ -14,3 +14,4 @@
 - [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) - Documentation generator plugin for Google Protocol Buffers.
 - [pprof](https://github.com/google/pprof) - Tool for visualization and analysis of profiling data.
 - [Riegeli/records](https://github.com/google/riegeli) - File format for storing a sequence of string records, typically serialized protocol buffers.
+- [Buf](https://github.com/bufbuild/buf) - New way of working with Protocol Buffers.
