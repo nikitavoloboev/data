@@ -14,7 +14,7 @@ Some simple rules to follow when doing things.
 - Be consistent. Make friends with imperfection. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes) and don't fixate on the goals.
 - Don't judge anyone. Attempt to see another person's point of view.
 - Be honest. Don't lie to myself nor anyone else. Be confident in my thoughts & actions.
-- Embrace change. Never complain about anything. Be proactive. Be bold.
+- Embrace change. Never complain about anything. Be proactive. Be bold & fearless.
 - Build [good habits](habits.md). Be strict in following through with new habits.
 - Adjust these rules and [my workflow](../sharing/my-workflow.md) to match what I learned.
 - Follow these rules. [Take it easy](../life/happiness.md). You only live now.
