@@ -9,3 +9,5 @@
 - [Cloudflare Design](https://cloudflare.design/color/) - Preview palettes against UI elements.
 - [pastel](https://github.com/sharkdp/pastel) - Command-line tool to generate, analyze, convert and manipulate colors.
 - [Image Color Picker](https://image-color.com) - Image color picker and palette generator.
+- [Contrast](https://usecontrast.com/) - MacOS app for quick access to WCAG color contrast ratios.
+- [Sip](https://sipapp.io/) - Better way to collect, organize & share your colors.

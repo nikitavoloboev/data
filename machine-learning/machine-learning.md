@@ -118,3 +118,6 @@
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml)
 - [Papers with Code](https://paperswithcode.com/) - The latest in machine learning.
 - [Gradient Descent Derivation (2014)](https://mccormickml.com/2014/03/04/gradient-descent-derivation/)
+- [Best of Machine Learning Newsletter](https://bestofml.com/)
+- [TASO](https://github.com/jiazhihao/taso) - Tensor Algebra SuperOptimizer for Deep Learning.
+- [An Exponential Learning Rate Schedule for Deep Learning (2019)](https://arxiv.org/abs/1910.07454)
