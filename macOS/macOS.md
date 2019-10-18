@@ -1,6 +1,6 @@
 # macOS
 
-macOS is my [favorite desktop operating system](https://github.com/nikitavoloboev/my-mac-os).
+macOS is my [favorite desktop operating system](https://github.com/nikitavoloboev/my-mac-os#readme).
 
 I do wish to expand my horizons and try out Linux more. I doubt I will ever be able to move to another operating system as I have too much invested in optimizing and using macOS but I do want to take the best of all worlds. Linux is open source, has an increasingly large community of users and developers and one thing that I love about UNIX systems is that by using these systems you effectively become a developer. Because otherwise you are simply missing out on the _full experience_.
 

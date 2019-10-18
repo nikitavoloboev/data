@@ -60,6 +60,7 @@
 - [TSQuery](https://github.com/phenomnomnominal/tsquery) - Allows you to query a TypeScript AST for patterns of syntax using a CSS style selector system.
 - [Interpreting TypeScript](https://www.meetup.com/TypeScriptNYC/events/260291994/) ([Article](http://notes.eatonphil.com/interpreting-typescript.html))
 - [TSDX](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development.
+- [TypeScript Weekly](https://www.typescript-weekly.com/) - Best TypeScript links every week, right in your inbox.
 
 ## Images
 
