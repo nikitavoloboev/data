@@ -45,3 +45,4 @@
 - [Instant-feedback, instant-debugging Python coding (2019)](https://2019.pycon-au.org/talks/instant-feedback-instant-debugging-python-coding)
 - [HN: What’s New in Python 3.8 (2019)](https://news.ycombinator.com/item?id=21252784)
 - [A Talk Near the Future of Python (2019)](https://www.youtube.com/watch?v=r-A78RgMhZU)
+- [Pyinstrument](https://github.com/joerick/pyinstrument) - Call stack profiler for Python. Shows you why your code is slow.
