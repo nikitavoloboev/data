@@ -52,6 +52,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Computational Category Theory](https://pdfs.semanticscholar.org/3f99/553ca06ce451c5b76479c96e191ad69f3e04.pdf)
 - [A categorical semantics for causal structure (2019)](https://arxiv.org/pdf/1701.04732.pdf)
 - [A categorical view of computational effects (2019)](http://www.math.jhu.edu/~eriehl/lambda.pdf)
+- [Awesome Applied Category Theory](https://github.com/statebox/awesome-applied-ct#readme)
 
 ## Images
 

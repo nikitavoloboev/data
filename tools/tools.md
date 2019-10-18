@@ -115,6 +115,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Sanity](https://www.sanity.io/) - Fastest, most flexible platform for delivering content to digital devices and products.
 - [LiveDocs](https://livedocs.io/) - Programmable, self-updating document for futuristic companies.
 - [Lemmy](https://github.com/dessalines/lemmy) - Building a federated alternative to reddit in rust.
+- [Statebox](https://statebox.org/) - Building a formally verified process language using robust mathematical principles to prevent errors, allow compositionality and ensure termination.
 
 ## Notes
 

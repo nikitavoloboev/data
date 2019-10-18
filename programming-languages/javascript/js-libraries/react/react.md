@@ -80,3 +80,4 @@
 - [Why is React doing this? by Sebastian Markbåge (2019)](https://gist.github.com/sebmarkbage/a5ef436427437a98408672108df01919)
 - [React Patterns](https://reactpatterns.com/)
 - [Understanding React Components and State (2019)](https://www.framer.com/blog/posts/react-components-state/)
+- [Announcing Ionic React (2019)](https://ionicframework.com/blog/announcing-ionic-react/)
