@@ -4,16 +4,17 @@ Some simple rules to follow when doing things.
 
 ## Life
 
+- Set [goals](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Execute.
+- Don't waste time. Build [ideas](../ideas/ideas.md). Learn. Experiment. Take risks. Ask questions.
+- [Share](../sharing/sharing.md). [Write](../writing/writing.md). Be honest.
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
-- Use only what's needed. If something doesn't provide any value, get rid of it.
+- Use only what's needed. If something doesn't provide any value, get rid of it. Cut out noise (analytics, likes..).
 - Learn from mistakes. If things fail, learn from it and move on. Let past go.
-- Build [ideas](https://trello.com/b/alB1ryRP). Experiment. Take risks. Ask questions.
 - Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.
 - Be consistent. Make friends with imperfection. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes) and don't fixate on the goals.
 - Don't judge anyone. Attempt to see another person's point of view.
-- [Share](../sharing/sharing.md). [Write](../writing/writing.md). Be honest.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions.
 - Embrace change. Never complain about anything. Be proactive. Be bold & fearless.
 - Build [good habits](habits.md). Be strict in following through with new habits.
@@ -33,9 +34,7 @@ Some simple rules to follow when doing things.
 
 ## Focus
 
-- Set [goals](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Execute.
-- Don't waste time. Build [ideas](../ideas/ideas.md). Learn. Cut out noise (analytics, likes..).
-- Be very aggressive in cutting any kind of distractions when working. Pure focus on task at hand. Have timed breaks.
+- Aggressively cut out any kind of distractions when working. Pure focus on task at hand. Have timed breaks.
 - Don't context switch unless it's necessary. Don't visit blocked sites and apps when **focusing**. Don't touch the phone unless necessary.
 - Spend mindful time on the phone. Listen to podcasts/books/chat. Don't waste time on things that can be done better on mac.
 - When **focusing**, do the task at hand and nothing else. [Break problems down](../research/solving-problems.md). Solve them.
