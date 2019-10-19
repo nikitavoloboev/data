@@ -19,7 +19,6 @@ The number between brackets shows the year I created the repo in. Repos with ðŸŒ
 ## Personal
 
 - [CV (2018)](https://github.com/nikitavoloboev/cv) - My CV.
-- [Vegan Recipes (2018)](https://github.com/nikitavoloboev/vegan-recipes) - Vegan recipes I like.
 - [Knowledge (2017) ðŸŒŸ](https://github.com/nikitavoloboev/knowledge) - Everything I know.
 - [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.xyz) - My personal home on the internet.
 - [AMA (2017) ðŸŒŸ](https://github.com/nikitavoloboev/ama) - Ask me anything.
@@ -33,7 +32,6 @@ The number between brackets shows the year I created the repo in. Repos with ðŸŒ
 
 ## CLI
 
-- [Shell search (2017) ðŸ’¡](https://github.com/nikitavoloboev/shell-search) - Find your aliases and shell functions.
 - [License Up (2017)](https://github.com/nikitavoloboev/license-up) - Create a license quickly.
 
 ## Curated

@@ -4,7 +4,7 @@
 
 Knowing this, I eat [whole food, plant based diet](foods.md) with [few supplements](supplements.md).
 
-I only drink water and tea with occasional coffee. No sugar in food/drinks. And I love exploring [new and interesting vegan recipes](https://github.com/nikitavoloboev/vegan-recipes#readme).
+I only drink water and tea with occasional coffee. No sugar in food/drinks. And I love exploring [new and interesting vegan recipes](recipes.md).
 
 ## Notes
 
