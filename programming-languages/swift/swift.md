@@ -57,3 +57,4 @@
 - [Swift: Banning force unwrapping optionals (2017)](https://blog.timac.org/2017/0628-swift-banning-force-unwrapping-optionals/)
 - [Flight School](https://flight.school/) - Book series for advanced Swift developers that explores essential topics in iOS and macOS development through concise, focused guides.
 - [ObjC books](https://www.objc.io/books/) - Advanced guides on iOS and macOS development.
+- [XCTest](https://github.com/apple/swift-corelibs-xctest) - Swift core library for providing unit test support.
