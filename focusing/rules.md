@@ -10,7 +10,7 @@ Some simple rules to follow when doing things.
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
 - Use only what's needed. If something doesn't provide any value, get rid of it. Cut out noise (analytics, likes..).
 - Value time. Filter input. Maximize impact.
-- Learn from mistakes. If things fail, learn from it and move on. Let past go.
+- Learn from mistakes. If things fail, learn from it and move on. Let past go. Journal.
 - Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.
@@ -18,7 +18,7 @@ Some simple rules to follow when doing things.
 - Don't judge anyone. Attempt to see another person's point of view.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions.
 - Embrace change. Never complain about anything. Be proactive. Be bold & fearless.
-- Build [good habits](habits.md). Be strict in following through with new habits.
+- Build & enforce [good habits](habits.md).
 - Adjust these rules and [my workflow](../sharing/my-workflow.md) to match what I learned.
 - Follow these rules. [Take it easy](../life/happiness.md). You only live now.
 
@@ -31,7 +31,7 @@ Some simple rules to follow when doing things.
 - Always have good posture. Sit properly and upright, don't bend my back/spine.
 - Take [essentials daily supplements](../health/nutrition/supplements.md) as well as [daily food mix](../health/nutrition/foods.md).
 - Everything in moderation. Avoid alcohol and any damaging drugs (like opiates). Health above all.
-- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life.
+- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. Clean up.
 
 ## Focus
 
@@ -45,7 +45,6 @@ Some simple rules to follow when doing things.
 - Use one screen on mac. It's easier to context switch and keep focus.
 - Don't listen to distracting music or sounds when focusing. Use [Noizio](http://noiz.io) & [Dark Noise](https://darknoise.app) and listen to Rain, Fire or similar sounds. Or play a song from [Focus playlist](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5?si=KhAd2yhvRSGOADmRObkM7w). Or have nothing playing at all.
 - Use noise canceling headphones to minimize distractions.
-- Reflect on what I do. Journal. Learn from the past & let it go.
 - Only have essential notifications setup. Be in Do Not Disturb mode by default.
 - Take mindfulness breaks and breathe when distracted. Or exercise.
 - Create and consume art. Meet people. Be inspired. Reuse work & ideas.

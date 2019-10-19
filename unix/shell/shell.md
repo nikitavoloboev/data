@@ -36,3 +36,4 @@ All active variables can be seen by running `env`.
 - [Collection of pure POSIX sh alternatives to external processes](https://github.com/dylanaraps/pure-sh-bible#readme)
 - [Lobsters: What does your shell prompt look like? (2019)](https://lobste.rs/s/skoapt/what_does_your_shell_prompt_look_like)
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool for the command-line.
+- [Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)

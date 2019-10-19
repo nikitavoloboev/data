@@ -6,12 +6,12 @@ I try to be methodical in working and doing things. And I use the best tools and
 
 - [Rules](../focusing/rules.md) - Grounds me into focusing on what I find important in life and cutting out the waste.
 - [Processes](../focusing/processes.md) - Streamlines doing some tasks.
-- [Habits](../focusing/habits.md) - Habits I am working towards and habits I've learned already.
+- [Habits](../focusing/habits.md) - Essential habits in life.
 
 ## Code
 
-- [VS Code](../text-editors/vs-code/vs-code.md) - Main editor. Write mostly Go and TypeScript.
-- [Sublime Text](../text-editors/sublime-text/sublime-text.md) - GitHub readmes, editing this wiki and quick edits.
+- [VS Code](../text-editors/vs-code/vs-code.md) - Main editor. Write mostly Go & TypeScript.
+- [Sublime Text](../text-editors/sublime-text/sublime-text.md) - GitHub readmes, editing this wiki.
 - [Neovim](../text-editors/vim/vim.md) - Edit my [Karabiner](../macOS/apps/karabiner/karabiner.md) config with it and quick edits.
 
 ## Task tracking
@@ -43,7 +43,6 @@ I try to be methodical in working and doing things. And I use the best tools and
 
 ## Journaling
 
-- [Day One](../macOS/apps/day-one.md) - All my private memories lie there. It also gets information from my Instagram/Twitter pages so I have nearly everything stored in one place which makes `On This Day` feature awesome.
 - [Looking back](../looking-back/looking-back.md) - My public log of things I've done and worked on throughout the months with highlights from each month/year.
 
 ## Devices

@@ -1,6 +1,6 @@
 # [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 
-Hammerspoon is an amazing open source app that lets you write some Lua code to interact with macOS on a kernel level.
+Hammerspoon is a great open source tool that lets you write Lua code to interact with macOS to automate tasks.
 
 My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua).
 
