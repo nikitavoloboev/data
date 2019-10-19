@@ -133,6 +133,7 @@
 - [Emu](https://github.com/calebwin/emu) - Framework/compiler for GPU acceleration of Rust, GPU programming.
 - [Coroutine I/O](https://github.com/zonyitoo/coio-rs) - Coroutine scheduling with work-stealing algorithm.
 - [tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust.
+- [geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust.
 
 ## Cargo Plugins
 
