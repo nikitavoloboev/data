@@ -121,3 +121,4 @@
 - [Best of Machine Learning Newsletter](https://bestofml.com/)
 - [TASO](https://github.com/jiazhihao/taso) - Tensor Algebra SuperOptimizer for Deep Learning.
 - [An Exponential Learning Rate Schedule for Deep Learning (2019)](https://arxiv.org/abs/1910.07454)
+- [Billion-scale semi-supervised learning for state-of-the-art image and video classification (2019)](https://ai.facebook.com/blog/billion-scale-semi-supervised-learning)

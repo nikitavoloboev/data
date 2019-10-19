@@ -64,3 +64,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Apache Arrow Git Tips](https://andygrove.io/apache_arrow_git_tips/)
 - [GitSheet](https://gitsheet.wtf/) - Dead simple git cheatsheet.
 - [Git Commit naming](https://pbs.twimg.com/media/DBPQbTrXkAA4v-H.jpg)
+- [HN: My Favourite Git Commit (2019)](https://news.ycombinator.com/item?id=21289827)
