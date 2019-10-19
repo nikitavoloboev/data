@@ -10,7 +10,7 @@ Some simple rules to follow when doing things.
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
 - Use only what's needed. If something doesn't provide any value, get rid of it. Cut out noise (analytics, likes..).
 - Value time. Filter input. Maximize impact.
-- Learn from mistakes. If things fail, learn from it and move on. [Journal](../life/journaling.md). Let past go.
+- Learn from mistakes. If things fail, learn from it and move on. Let past go.
 - Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.

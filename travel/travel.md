@@ -17,3 +17,4 @@
 - [Hipcamp](https://www.hipcamp.com/) - Everywhere you want to camp.
 - [trippy](https://trippy.netlify.com/) - Tiny and fast travel planner.
 - [Rekka Bellum and Devine Lu Linvega, Hundred Rabbits - XOXO Festival (2019)](https://www.youtube.com/watch?v=BW32yUEymvU)
+- [Visalogy](https://visalogy.com/) - Visa Requirements and Passport Information.
