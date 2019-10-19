@@ -18,7 +18,6 @@ The number between brackets shows the year I created the repo in. Repos with ðŸŒ
 
 ## Personal
 
-- [Article drafts (2019)](https://github.com/nikitavoloboev/article-drafts) - Unpublished articles.
 - [CV (2018)](https://github.com/nikitavoloboev/cv) - My CV.
 - [Vegan Recipes (2018)](https://github.com/nikitavoloboev/vegan-recipes) - Vegan recipes I like.
 - [Knowledge (2017) ðŸŒŸ](https://github.com/nikitavoloboev/knowledge) - Everything I know.
