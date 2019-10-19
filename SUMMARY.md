@@ -668,6 +668,8 @@
   - [Eloquent ruby](books/eloquent-ruby.md)
   - [Surely you are joking Mr Feynman](books/surely-you-are-joking-mr-feynman.md)
   - [Thinking, fast and slow](books/thinking-fast-and-slow.md)
+- [Fragments](fragments/fragments.md)
+  - [Nix on macOS](fragments/nix-on-macos.md)
 - [Other](other/other.md)
   - [Wiki workflow](other/wiki-workflow.md)
   - [My workflow notation](other/my-workflow-notation.md)

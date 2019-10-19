@@ -10,3 +10,4 @@
 ## Links
 
 - [Cycling a Thousand Miles in New Zealand](https://blog.andrewbran.ch/one-does-not-simply-walk-into-mordor/)
+- [Bike Size Chart – How To Choose? 5 Easy Methods (2019)](https://www.bicycle-guider.com/bike-articles/bike-size-chart/)

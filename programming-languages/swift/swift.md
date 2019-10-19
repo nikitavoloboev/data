@@ -55,3 +55,5 @@
 - [Swift Compiler Driver](https://github.com/apple/swift-driver) - Program that coordinates the compilation of Swift source code into various compiled results: executables, libraries, object files, Swift modules and interfaces, etc.
 - [dotSwift 2019 - Soroush Khanlou - From Problem to Solution](https://www.youtube.com/watch?v=3G_ffcgRLMw)
 - [Swift: Banning force unwrapping optionals (2017)](https://blog.timac.org/2017/0628-swift-banning-force-unwrapping-optionals/)
+- [Flight School](https://flight.school/) - Book series for advanced Swift developers that explores essential topics in iOS and macOS development through concise, focused guides.
+- [ObjC books](https://www.objc.io/books/) - Advanced guides on iOS and macOS development.

@@ -103,3 +103,4 @@
 - [kube-aggregator](https://github.com/kubernetes/kube-aggregator) - Aggregator for Kubernetes-style API servers: dynamic registration, discovery summarization, secure proxy.
 - [Kubernetes Networking: Behind the scenes (2019)](https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb)
 - [Kubernetes Networking recommended reading list](https://github.com/nleiva/kubernetes-networking-links#readme)
+- [service-catalog](https://github.com/kubernetes-sigs/service-catalog) - Consume services in Kubernetes using the Open Service Broker API.
