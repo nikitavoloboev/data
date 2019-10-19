@@ -41,3 +41,4 @@
 - [Neural Network Programming - Deep Learning with PyTorch (2019)](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG) - Series is all about neural network programming and PyTorch.
 - [A quick tour of Torch internals (2015)](https://apaszke.github.io/torch-internals.html)
 - [How to Run PyTorch with TPUs](https://github.com/pytorch/xla)
+- [EfficientNet PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)

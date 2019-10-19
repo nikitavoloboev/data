@@ -447,6 +447,7 @@
       - [Tea](health/nutrition/drinks/tea.md)
       - [Coffee](health/nutrition/drinks/coffee.md)
     - [Cooking](health/nutrition/cooking.md)
+    - [Recipes](health/nutrition/recipes.md)
     - [Fasting](health/nutrition/fasting.md)
     - [Supplements](health/nutrition/supplements.md)
   - [Ergonomics](health/ergonomics.md)

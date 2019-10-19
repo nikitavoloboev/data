@@ -132,6 +132,7 @@
 - [Watt](https://github.com/dtolnay/watt) - Runtime for executing Rust procedural macros compiled as WebAssembly.
 - [Emu](https://github.com/calebwin/emu) - Framework/compiler for GPU acceleration of Rust, GPU programming.
 - [Coroutine I/O](https://github.com/zonyitoo/coio-rs) - Coroutine scheduling with work-stealing algorithm.
+- [tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust.
 
 ## Cargo Plugins
 

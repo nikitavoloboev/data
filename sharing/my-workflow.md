@@ -45,12 +45,6 @@ I try to be methodical in working and doing things. And I use the best tools and
 
 - [Looking back](../looking-back/looking-back.md) - My public log of things I've done and worked on throughout the months with highlights from each month/year.
 
-## Devices
-
-- Macbook - Everything productive. Code, learn, create.
-- iPhone - Communication, podcasts, read, pure consumption.
-- iPad - Draw. Read.
-
 ## More
 
 - [Mac](https://github.com/nikitavoloboev/my-mac-os#readme) - macOS apps/tools I use.
