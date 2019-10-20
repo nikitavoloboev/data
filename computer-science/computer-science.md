@@ -19,3 +19,4 @@
 - [Path to a free self-taught education in Computer Science](https://github.com/ossu/computer-science#readme)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Programming and Computer Science Courses](https://www.dabeaz.com/courses.html)
+- [Structure and Interpretation of Computer Programs](https://opendocs.github.io/sicp/sicp.pdf) ([HN](https://news.ycombinator.com/item?id=21299546))

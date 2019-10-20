@@ -17,3 +17,4 @@
 - [The Future of Crypto, Capitalism and Governance with Mike Maples and Alok Vasudev (2019)](https://overcast.fm/+LDKcZDbWI)
 - [Bitwise](https://www.bitwiseinvestments.com/) - Leading provider of index and beta cryptoasset funds.
 - [Gryphon](https://github.com/garethdmm/gryphon) - Open source software platform for building and running algorithmic trading strategies in cryptocurrency markets.
+- [The Quiet Master of Cryptocurrency - Nick Szabo (2017)](https://overcast.fm/+KebvPT3c8)
