@@ -123,3 +123,4 @@
 - [An Exponential Learning Rate Schedule for Deep Learning (2019)](https://arxiv.org/abs/1910.07454)
 - [Billion-scale semi-supervised learning for state-of-the-art image and video classification (2019)](https://ai.facebook.com/blog/billion-scale-semi-supervised-learning)
 - [TRAINS](https://github.com/allegroai/trains) - Auto-Magical Experiment Manager & Version Control for AI.
+- [Differentiable Optimization-Based Modeling for Machine Learning (2019)](https://github.com/bamos/thesis)
