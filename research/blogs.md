@@ -36,6 +36,7 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [Brent Jackson](https://jxnblk.com/blog)
 - [Swift by Sundell](https://www.swiftbysundell.com/)
 - [Pascal’s scribbles](https://deterministic.space/)
+- [We Can Solve This by Sandy Maguire](http://sandymaguire.me/)
 
 ## Links
 

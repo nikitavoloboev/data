@@ -43,6 +43,7 @@
 - [Why Isn't Functional Programming the Norm? – Richard Feldman (2019)](https://www.youtube.com/watch?v=QyJZzq0v7Z4) ([HN](https://news.ycombinator.com/item?id=21280429)) ([Lobsters](https://lobste.rs/s/dbsvr5/why_isn_t_functional_programming_norm))
 - [Purely Functional Data Structures by Chris Okasaki (1996)](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 - [Freer Monads, More Extensible Effects paper](http://okmij.org/ftp/Haskell/extensible/more.pdf) ([Code](https://github.com/jwiegley/refine-freer))
+- [A Type of Programming by Renzo Carbonara](https://atypeofprogramming.com/)
 
 ## Images
 
