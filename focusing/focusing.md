@@ -40,12 +40,12 @@ I use [Focus app](https://heyfocus.com) as a recurring [Pomodoro timer](https://
 
 Only on breaks can I visit these websites. I also get 20 minutes of optional break time every 3 hours. And I can start 5 min breaks during my Focus sessions with a macro.
 
-The things I work on during this 80 min focus session is specified by an event in [Fantastical](../macOS/apps/fantastical.md). The events are simply names of projects on which I want to work on in that time. Here are the most common events I use and what I do during them:
+The things I work on are events I have set in [Fantastical](../macOS/apps/fantastical.md). The events can be meetings or projects I have set. Some common events include:
 
-- 2Do - I open [2Do](../macOS/apps/2do.md) and work through the most prioritized tasks for `Today`.
-- Code - I work through 2Do tasks with `pr` tag.
-- Ideas - I pick an idea I want to work on from [Trello](https://trello.com/b/alB1ryRP) and make it.
-- Learn - I choose a topic I want to learn from [Trello](https://trello.com/b/cu32qF3q) and learn it. Either by reading [books](../books/books.md), [research papers](../research-papers/research-papers.md) or exploring [LA](../ideas/learn-anything.md).
+- 2Do (☑️) - I open [2Do](../macOS/apps/2do.md) and work through the most prioritized tasks for `Today` or `Starred`.
+- Ideas (💡) - I pick an idea from [Trello](https://trello.com/b/alB1ryRP) and make it.
+- OSS (💻) - I work through 2Do tasks with `pr` tag or work on open issues/prs I have on GitHub.
+- Learn (📖)- I learn a topic from one of the currently active topics on [Trello](https://trello.com/b/cu32qF3q).
 
 At the end of the 80 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 80 min period.
 
