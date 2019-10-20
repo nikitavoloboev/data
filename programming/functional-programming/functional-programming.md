@@ -44,6 +44,7 @@
 - [Purely Functional Data Structures by Chris Okasaki (1996)](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 - [Freer Monads, More Extensible Effects paper](http://okmij.org/ftp/Haskell/extensible/more.pdf) ([Code](https://github.com/jwiegley/refine-freer))
 - [A Type of Programming by Renzo Carbonara](https://atypeofprogramming.com/)
+- [3 examples of algebraic thinking (2019)](https://lispcast.com/3-examples-of-algebraic-thinking/)
 
 ## Images
 

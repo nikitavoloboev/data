@@ -29,3 +29,4 @@
 - [Elements of Clojure with Zach Tellman](https://www.therepl.net/episodes/23/) ([HN](https://news.ycombinator.com/item?id=21090288))
 - [Love Letter To Clojure (2019)](https://itrevolution.com/love-letter-to-clojure-part-1/)
 - [Transcripts of Clojure-related talks](https://github.com/matthiasn/talk-transcripts)
+- [core.typed](https://github.com/clojure/core.typed) - Optional type system for Clojure.
