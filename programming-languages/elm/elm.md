@@ -18,3 +18,4 @@
 - [Elm Core Libraries](https://github.com/elm/core)
 - [Learning Elm by porting a medium-sized web frontend from React (2019)](https://benhoyt.com/writings/learning-elm/) ([Lobsters](https://lobste.rs/s/3tnrdv/learning_elm_by_porting_medium_sized_web))
 - ["Writing Testable Elm" by Tessa Kelly (2019)](https://www.youtube.com/watch?v=rIxCwPPA-D8)
+- [The Elm Architecture (TEA) animation (2018)](https://medium.com/@l.mugnaini/the-elm-architecture-tea-animation-3efc555e8faf)

@@ -57,7 +57,7 @@ The projects are a reflection of my Focus Trello board.
 
 I limit apps that can send me notifications to only essential things and turn off all sounds on notifications I get.
 
-I focus fully on [solving problems](../research/solving-problems.md) I need to solve and spend 0 energy thinking about what I should be doing or whether I am spending my time wisely in the moment. Full focus on the task at hand. No multitasking. No distractions.
+I focus on [solving problems](../research/solving-problems.md) & limit any distractions.
 
 ## Other things
 
