@@ -17,6 +17,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles#r
 - [Roma Volosatovs](https://github.com/rvolosatovs/infrastructure) - Private NixOps network infrastructure.
 - [yqrashawn](https://github.com/yqrashawn/yqdotfiles) - Made Goku.
 - [Gleb Skibitsky](https://github.com/skibitsky/dotfiles) - Uses Goku/Karabiner.
+- [Sascha Grunert](https://github.com/saschagrunert/dotfiles)
 
 ## Links
 
