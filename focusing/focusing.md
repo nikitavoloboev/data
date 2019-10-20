@@ -26,7 +26,7 @@ I try to have a completely event driven workflow as I schedule events in my cale
 
 I use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week/monthly reviews & plans which I often do in the evenings of particular days.
 
-![](https://i.imgur.com/mRjUnjm.png)
+![](https://i.imgur.com/zKFALY3.png)
 
 I find this goal centric approach to be incredibly useful as it lets me focus on making sure I do everything I need to achieve the goals I have set for myself. Making sure I limit the number of projects I am working on at any given time lets me actually deeply focus on them instead of being scattered around wondering if I am working on the right thing in the moment.
 

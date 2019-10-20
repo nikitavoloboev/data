@@ -20,6 +20,7 @@ I track [all the games I have played](https://www.grouvee.com/user/nikivi/shelve
 
 - [Citybound](https://github.com/citybound/citybound) - City building game with a focus on realism, collaborative planning and simulation of microscopic details. ([HN](https://news.ycombinator.com/item?id=19583384))
 - [Diablo build for modern operating systems](https://github.com/diasurgical/devilutionX)
+- [OneLife](https://github.com/jasonrohrer/OneLife) - Multiplayer survival game of parenting and civilization building.
 
 ## Recommendations
 

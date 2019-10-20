@@ -35,6 +35,7 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [Maciej Cegłowski](https://idlewords.com/)
 - [Brent Jackson](https://jxnblk.com/blog)
 - [Swift by Sundell](https://www.swiftbysundell.com/)
+- [Pascal’s scribbles](https://deterministic.space/)
 
 ## Links
 
@@ -47,3 +48,4 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [openring](https://git.sr.ht/~sircmpwn/openring) - Tool for generating a webring from RSS feeds, so you can link to other blogs you like on your own blog. ([HN](https://news.ycombinator.com/item?id=20191603))
 - [6 blog tips for busy academics](http://matt.might.net/articles/how-to-blog-as-an-academic/)
 - [twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
+- [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
