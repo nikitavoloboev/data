@@ -37,7 +37,7 @@ Some simple rules to follow when doing things.
 
 - Aggressively cut out any kind of distractions when working. Pure focus on task at hand. Have timed breaks.
 - Don't context switch unless it's necessary. Don't visit blocked sites and apps when **focusing**. Don't touch the phone unless necessary.
-- Spend mindful time on the phone. Listen to podcasts/books/chat. Don't waste time on things that can be done better on mac.
+- Spend mindful time on the phone. Listen to podcasts/books. Read/chat. Don't waste time on things that can be done better/faster on mac.
 - When **focusing**, do the task at hand and nothing else. [Break problems down](../research/solving-problems.md). Solve them.
 - Be mindful of my habits and temptations. Don't succumb to them and keep my focus. Do things with purpose.
 - Do quick exercise bursts during the day to regain focus. Move around & explore new environments for inspiration.
@@ -53,10 +53,15 @@ Some simple rules to follow when doing things.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.
 - Always breathe fresh air. Have proper lighting.
 - Invest in learning/using/building new tools.
-- Start early. Validate ideas. Move fast. Ship often. Iterate.
 - Wear comfortable clothes. Limit choice in clothing. Wear same clean clothes.
 - Use standing desk. Never sit for long. Sit up right.
 - Don't overthink things to the point of not doing anything. Clear up any confusion.
+
+## Ideas
+
+- Share [all ideas I have](https://trello.com/b/alB1ryRP). Add relevant description and links to describe the idea clearly.
+- Start building early. Validate ideas. Move fast. Ship often. Iterate.
+- Let ideas evolve. Listen to feedback.
 
 ## Learn
 
@@ -201,11 +206,6 @@ Some simple rules to follow when doing things.
 - Work on tasks based on priority. Strive to keep `Starred` list close to 0.
 - Add context of task as tags.
 
-## Ideas
-
-- Share all ideas I have in [Trello](https://trello.com/b/alB1ryRP) & optionally Twitter. Add relevant description and links to describe the idea clearly.
-- Let ideas evolve.
-
 ## Ask questions
 
 - When posting an error or an issue, [give as much relevant information](../research/asking-questions.md) as I can to help debug it.
@@ -231,7 +231,7 @@ Some simple rules to follow when doing things.
 - Only run software I need. Quit everything else or delete entirely.
 - Have full control over what is going on my OS to reasonable degree.
 - Yellow arrows & text is nicer to read when annotating images.
-- Don't play games on mac. Use PlayStation instead.
+- Don't play games on mac/iOS.
 - [Automate backups](../backups/backups.md).
 
 ## Trello

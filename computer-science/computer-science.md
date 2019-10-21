@@ -1,7 +1,5 @@
 # Computer Science
 
-[How These Things Work](http://reasonablypolymorphic.com/book/preface) and [Code](https://www.goodreads.com/book/show/44882.Code) books are incredible introductions to CS.
-
 ## Notes
 
 - Turing machines however are not the only theoretical model that can be used to define computation.
@@ -20,3 +18,5 @@
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Programming and Computer Science Courses](https://www.dabeaz.com/courses.html)
 - [Structure and Interpretation of Computer Programs](https://opendocs.github.io/sicp/sicp.pdf) ([HN](https://news.ycombinator.com/item?id=21299546))
+- [Ask HN: What are the most fundamental books on computer science? (2019)](https://news.ycombinator.com/item?id=21311302)
+- [Code by Charles Petzold (1999)](https://www.goodreads.com/book/show/44882.Code)

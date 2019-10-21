@@ -125,3 +125,5 @@
 - [TRAINS](https://github.com/allegroai/trains) - Auto-Magical Experiment Manager & Version Control for AI.
 - [Differentiable Optimization-Based Modeling for Machine Learning (2019)](https://github.com/bamos/thesis)
 - [Notebooks and code for the book "Introduction to Machine Learning with Python"](https://github.com/amueller/introduction_to_ml_with_python)
+- [Awesome Deep Learning Project Ideas](https://github.com/NirantK/awesome-project-ideas#readme)
+- [Top-down, practical guide to learn AI, Deep learning and Machine Learning](https://github.com/emilwallner/How-to-learn-Deep-Learning#readme)
