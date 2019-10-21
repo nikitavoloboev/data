@@ -124,3 +124,4 @@
 - [Billion-scale semi-supervised learning for state-of-the-art image and video classification (2019)](https://ai.facebook.com/blog/billion-scale-semi-supervised-learning)
 - [TRAINS](https://github.com/allegroai/trains) - Auto-Magical Experiment Manager & Version Control for AI.
 - [Differentiable Optimization-Based Modeling for Machine Learning (2019)](https://github.com/bamos/thesis)
+- [Notebooks and code for the book "Introduction to Machine Learning with Python"](https://github.com/amueller/introduction_to_ml_with_python)
