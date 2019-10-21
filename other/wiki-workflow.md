@@ -43,6 +43,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Krzysztof Kowalczyk](https://blog.kowalczyk.info/)
 - [Phil Eaton's notes](http://notes.eatonphil.com/)
 - [Full-stack web development notes](https://github.com/8483/notes#readme)
+- [Max Masnick](https://maxmasnick.com/kb/)
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
 
 ## Wiki software

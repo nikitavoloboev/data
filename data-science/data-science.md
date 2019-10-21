@@ -56,3 +56,4 @@
 - [Understanding Apache Arrow Flight (2019)](https://www.dremio.com/understanding-apache-arrow-flight/)
 - [New Developments in the Open Source Ecosystem: Apache Spark 3 0, Delta Lake, and Koalas (2019)](https://www.youtube.com/watch?v=scM_WQMhB3A)
 - [Materials and IPython notebooks for Python for Data Analysis, 2nd Edition book](https://github.com/wesm/pydata-book)
+- [Technical Notes On Using Data Science & Artificial Intelligence](https://chrisalbon.com/)
