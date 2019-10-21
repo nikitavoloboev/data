@@ -111,6 +111,7 @@
 - [Defaults](https://github.com/sindresorhus/Defaults) - Swifty and modern UserDefaults.
 - [Rocket](https://github.com/shibapm/Rocket) - Swift CLI release tool for Git repos and Swift Packages.
 - [Carbon](https://github.com/ra1028/Carbon) - Declarative library for building component-based user interfaces in UITableView and UICollectionView.
+- [Surge](https://github.com/Jounce/Surge) - Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.
 
 ## Links
 

@@ -59,3 +59,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Show HN: Everything I Know Wiki (2019)](https://news.ycombinator.com/item?id=19468993)
 - [Ask HN: Do you keep a personal knowledge repository? (2019)](https://news.ycombinator.com/item?id=20007108)
 - [Patterns of personal knowledge bases](https://github.com/zadam/trilium/wiki/Patterns-of-personal-knowledge-base)
+- [Ask HN: How do you share/organize knowledge at work and life? (2019)](https://news.ycombinator.com/item?id=21310030)
