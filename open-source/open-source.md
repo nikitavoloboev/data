@@ -47,3 +47,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [The Role of a Maintainer (2018)](http://matthewrocklin.com/blog/2019/05/18/maintainer)
 - [Non-Technical roles in OSS (2019)](http://matthewrocklin.com/blog/work/2019/08/28/oss-roles)
 - [How the unified collective is governed](https://github.com/unifiedjs/collective)
+- [Make a README](https://www.makeareadme.com/) - Because no one can read your mind.

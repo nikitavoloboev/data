@@ -30,3 +30,4 @@
 - [Love Letter To Clojure (2019)](https://itrevolution.com/love-letter-to-clojure-part-1/)
 - [Transcripts of Clojure-related talks](https://github.com/matthiasn/talk-transcripts)
 - [core.typed](https://github.com/clojure/core.typed) - Optional type system for Clojure.
+- [Small Clojure Interpreter playground](https://borkdude.github.io/sci.web/)

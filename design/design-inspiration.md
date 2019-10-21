@@ -135,6 +135,7 @@ Here are few more things I liked, design wise.
 - [Blaž](https://mxxn.io/)
 - [Jenny Wen](http://jennywen.ca/index.html)
 - [Louis Merlin](https://louismerl.in/)
+- [Paige](https://www.paigewilliams.dev/)
 
 ## Analog
 

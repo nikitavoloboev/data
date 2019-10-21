@@ -46,3 +46,4 @@
 - [HN: What’s New in Python 3.8 (2019)](https://news.ycombinator.com/item?id=21252784)
 - [A Talk Near the Future of Python (2019)](https://www.youtube.com/watch?v=r-A78RgMhZU)
 - [Pyinstrument](https://github.com/joerick/pyinstrument) - Call stack profiler for Python. Shows you why your code is slow.
+- [reloading](https://github.com/julvo/reloading) - Python utility to reload a loop body from source on each iteration without losing state.
