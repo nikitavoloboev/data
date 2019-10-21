@@ -9,3 +9,4 @@
 - [Rant](https://github.com/TheBerkin/rant) - All-purpose procedural text engine that is most simply described as the opposite of Regex.
 - [TinkerSynth](https://tinkersynth.com/) - Create and purchase unique generative art.
 - [Cartographer](https://v-os.ca/cartographer) - Procedurally generated persistent multiplayer exploration game.
+- [Procedural World Generation of Ubisoft’s Far Cry 5 (2019)](https://www.youtube.com/watch?v=NfizT369g60)

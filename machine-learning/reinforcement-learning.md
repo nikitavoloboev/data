@@ -28,3 +28,4 @@
 - [OpenSpiel](https://github.com/deepmind/open_spiel) - Collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 - [Stochastic Lower Bound Optimization](https://github.com/facebookresearch/slbo) - Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees.
 - [KataGo](https://github.com/lightvector/KataGo) - Research and experimentation with self-play training in Go.
+- [Catalyst](https://github.com/catalyst-team/catalyst) - Reproducible and fast DL & RL.

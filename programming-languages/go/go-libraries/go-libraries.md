@@ -17,6 +17,7 @@
 
 ## Web
 
+- [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
 - [Macaron](https://github.com/go-macaron/macaron) - High productive and modular web framework in Go.
 - [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
 - [Buffalo](https://gobuffalo.io/docs/overview)
@@ -209,6 +210,7 @@
 - [jeff](https://github.com/abraithwaite/jeff) - Provides the simplest way manage web sessions in Go.
 - [GoGi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework.
 - [sklearn](https://github.com/pa-m/sklearn) - Partial port of scikit-learn to Go.
+- [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths.
 
 ## Links
 
