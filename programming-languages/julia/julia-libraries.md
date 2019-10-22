@@ -4,6 +4,7 @@
 
 - [Flux](https://github.com/FluxML/Flux.jl) - Elegant approach to machine learning. It's a 100% pure-Julia stack, and provides lightweight abstractions on top of Julia's native GPU and AD support.
   - [Flux Model Zoo](https://github.com/FluxML/model-zoo)
+- [MLJ](https://github.com/alan-turing-institute/MLJ.jl) - Julia machine learning framework.
 
 ## Math
 

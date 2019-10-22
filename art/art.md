@@ -39,7 +39,6 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Oleksij Luchnikov](https://www.artstation.com/luchnikov)
 - [James Jean](https://www.artsy.net/artist/james-jean)
 - [Simen Johan](https://www.artsy.net/artist/simen-johan)
-- [Daniel Zeller](https://www.artsy.net/artist/daniel-zeller)
 - [Michał Klimczak](https://500px.com/shume)
 - [ariduka55](http://ariduka55.tumblr.com/)
 - [Leonardo Santamaria](http://www.leonardosantamaria.com/)
@@ -84,6 +83,25 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [NONOTAK](https://www.nonotak.com/)
 - [Studio Joanie Lemercier](https://joanielemercier.com/)
 - [13 illustrations devoted to Ray Bradbury's "Fahrenheit 451" painted in 1950-s by Andrey Sokolov](https://www.maxuta.com/maxuta/collections/032_pn_space_collectibles/032262_andrey_sokolov_fahrenheit_451_illustration.htm)
+
+## Photography
+
+- [Brandon Woelfel](http://www.brandonwoelfel.com/photography-1/)
+- [Michael Kenna](https://www.artsy.net/artist/michael-kenna)
+- [Simen Johan](http://www.simenjohan.com/x/index.html)
+- [Samuel Zeller](https://archive.samuelzeller.ch/) - His [Botanical](https://www.samuelzeller.ch/botanical) project is awesome.
+- [Thomas Heaton](https://www.instagram.com/heatonthomas/)
+- [Michal Pelka](https://www.instagram.com/michalpelka/) - Beautiful photos of waves.
+- [Tobias van Schneider](https://unsplash.com/@vanschneider/)
+- [Artem Sapegin](https://morning.photos/albums)
+- [Annie Spratt](https://www.instagram.com/anniespratt/)
+- [André Josselin](https://www.instagram.com/josselin/?hl=en)
+- [Kenneth Reitz](https://500px.com/kennethreitz)
+- [Daniel Zeller](https://www.artsy.net/artist/daniel-zeller)
+- [Matt Perry](https://mattperry.photography/)
+- [Ian Battaglia](https://unsplash.com/@ianjbattaglia)
+- [Devine Lu Linvega](https://wiki.xxiivv.com/#photography)
+- [Henri Prestes](https://henriprestesp.com/)
 
 ## Notes
 

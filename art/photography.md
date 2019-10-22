@@ -1,27 +1,6 @@
 # Photography
 
-Still [learning](https://www.instagram.com/nikitavoloboev/).
-
-## Favorite photographers
-
-- [Brandon Woelfel](http://www.brandonwoelfel.com/photography-1/)
-- [Michael Kenna](https://www.artsy.net/artist/michael-kenna)
-- [Simen Johan](http://www.simenjohan.com/x/index.html)
-- [Samuel Zeller](https://archive.samuelzeller.ch/) - His [Botanical](https://www.samuelzeller.ch/botanical) project is awesome.
-- [Thomas Heaton](https://www.instagram.com/heatonthomas/)
-- [Michal Pelka](https://www.instagram.com/michalpelka/) - Beautiful photos of waves.
-- [Tobias van Schneider](https://unsplash.com/@vanschneider/)
-- [Artem Sapegin](https://morning.photos/albums)
-- [Annie Spratt](https://www.instagram.com/anniespratt/)
-- [André Josselin](https://www.instagram.com/josselin/?hl=en)
-
-## Interesting photographers
-
-- [Kenneth Reitz](https://500px.com/kennethreitz)
-- [Daniel Zeller](https://www.artsy.net/artist/daniel-zeller)
-- [Matt Perry](https://mattperry.photography/)
-- [Ian Battaglia](https://unsplash.com/@ianjbattaglia)
-- [Devine Lu Linvega](https://wiki.xxiivv.com/#photography)
+Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photographers I like](art.md#photography).
 
 ## Links
 
