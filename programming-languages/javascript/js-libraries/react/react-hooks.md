@@ -31,3 +31,4 @@
 - [Thinking in React Hooks (2019)](https://wattenberger.com/blog/react-hooks)
 - [Advanced React Hooks workshop](https://github.com/kentcdodds/advanced-react-hooks)
 - [react-wonka](https://github.com/kitten/react-wonka) - Several hooks to effectively use Wonka streams with React.
+- [Portals with Context](https://reacttraining.com/blog/portals-with-context/)

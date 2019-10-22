@@ -90,7 +90,7 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Support
 
-- [GitHub Sponsors](https://github.com/users/nikitavoloboev/sponsorship)
+- [GitHub Sponsors](https://github.com/sponsors/nikitavoloboev)
 - [Patreon](https://patreon.com/nikitavoloboev)
 - [Buy me a Coffee](https://www.buymeacoffee.com/nikitavoloboev)
 
