@@ -8,3 +8,4 @@
 - [Core Scenic Library](https://github.com/boydm/scenic) - Client application library written directly on the Elixir/Erlang/OTP stack. With it you can build applications that operate identically across all supported operating systems.
 - [Benchee](https://github.com/bencheeorg/benchee) - Easy and extensible benchmarking in Elixir providing you with lots of statistics.
 - [Opus](https://github.com/zorbash/opus) - Framework for pluggable business logic components.
+- [Pow](https://github.com/danschultzer/pow) - Robust, modular, and extendable user authentication system.

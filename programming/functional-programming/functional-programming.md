@@ -45,6 +45,7 @@
 - [Freer Monads, More Extensible Effects paper](http://okmij.org/ftp/Haskell/extensible/more.pdf) ([Code](https://github.com/jwiegley/refine-freer))
 - [A Type of Programming by Renzo Carbonara](https://atypeofprogramming.com/)
 - [3 examples of algebraic thinking (2019)](https://lispcast.com/3-examples-of-algebraic-thinking/)
+- [Functional Design and Architecture book draft (2019)](https://docs.google.com/document/d/1al1kW7X4ZncBP_RKR0DZMY84pUtcbbiPQTtkDsjafsw/edit)
 
 ## Images
 

@@ -31,3 +31,4 @@
 - [Transcripts of Clojure-related talks](https://github.com/matthiasn/talk-transcripts)
 - [core.typed](https://github.com/clojure/core.typed) - Optional type system for Clojure.
 - [Small Clojure Interpreter playground](https://borkdude.github.io/sci.web/)
+- [Naked Performance (with Clojure) – Tommi Reiman (2019)](https://www.youtube.com/watch?v=3SSHjKT3ZmA)

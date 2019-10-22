@@ -88,3 +88,4 @@
 - [Rust in Production at Figma (2018)](https://www.figma.com/blog/rust-in-production-at-figma/)
 - [Elegant Library APIs in Rust (2016)](https://deterministic.space/elegant-apis-in-rust.html)
 - [QuiCLI](https://github.com/killercup/quicli) - Quickly build cool CLI apps in Rust.
+- [Making the Tokio scheduler 10x faster (2019)](https://tokio.rs/blog/2019-10-scheduler/)

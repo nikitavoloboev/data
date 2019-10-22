@@ -83,6 +83,7 @@ I then read through my Pocket list on mac using Reeder.
 - [Awesome websites](https://github.com/learn-anything/websites#readme)
 - [Atlas Obscura](https://www.atlasobscura.com/)
 - [Hackaday](https://hackaday.com/)
+- [Stratechery](https://stratechery.com/)
 
 ## Notes
 
