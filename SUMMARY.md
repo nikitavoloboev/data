@@ -232,7 +232,6 @@
   - [Lua](programming-languages/lua.md)
   - [Ruby](programming-languages/ruby/ruby.md)
     - [Rails](programming-languages/ruby/rails.md)
-  - [Crystal](programming-languages/crystal/crystal.md)
   - [Idris](programming-languages/idris/idris.md)
   - [Agda](programming-languages/agda.md)
   - [Coq](programming-languages/coq/coq.md)
