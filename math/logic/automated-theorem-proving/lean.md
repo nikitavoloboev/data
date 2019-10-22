@@ -8,6 +8,7 @@
 - [Xena](https://github.com/kbuzzard/xena) - Lean Library currently studying for a degree at Imperial College.
 - [Xena Project](http://wwwf.imperial.ac.uk/~buzzard/xena/) - Building a library of undergraduate level pure maths.
 - [Lean mathlib](https://github.com/leanprover-community/mathlib) - Lean mathematical components library.
+- [The Lean mathematical library paper](https://leanprover-community.github.io/papers/mathlib-paper.pdf)
 - [lean-perfectoid-spaces](https://github.com/leanprover-community/lean-perfectoid-spaces) - Perfectoid spaces in the Lean formal theorem prover.
 - [Using Lean with undergraduate mathematicians (2019)](https://lean-forward.github.io/lean-together/2019/slides/buzzard.pdf)
 - [Lean Source Code](https://github.com/leanprover/lean)

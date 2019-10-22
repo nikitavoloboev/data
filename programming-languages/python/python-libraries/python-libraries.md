@@ -47,3 +47,5 @@
 - [Curio](https://github.com/dabeaz/curio) - Library for Python systems programming involving concurrent I/O with network sockets, files, subprocesses, and similar constructs.
 - [Hyperopt](https://github.com/hyperopt/hyperopt) - Python library for serial and parallel optimization over awkward search spaces, which may include real-valued, discrete, and conditional dimensions.
 - [pyfolio](https://github.com/quantopian/pyfolio) - Python library for performance and risk analysis of financial portfolios.
+- [heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
+- [sorcery](https://github.com/alexmojaki/sorcery) - Dark magic delights in Python.
