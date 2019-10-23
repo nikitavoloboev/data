@@ -81,3 +81,4 @@
 - [React Patterns](https://reactpatterns.com/)
 - [Understanding React Components and State (2019)](https://www.framer.com/blog/posts/react-components-state/)
 - [Announcing Ionic React (2019)](https://ionicframework.com/blog/announcing-ionic-react/)
+- [Divjoy](https://divjoy.com) - React codebase generator.

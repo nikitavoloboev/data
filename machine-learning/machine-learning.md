@@ -128,3 +128,4 @@
 - [Awesome Deep Learning Project Ideas](https://github.com/NirantK/awesome-project-ideas#readme)
 - [Top-down, practical guide to learn AI, Deep learning and Machine Learning](https://github.com/emilwallner/How-to-learn-Deep-Learning#readme)
 - [Most Aesthetically Pleasing ML Research Papers](https://www.reddit.com/r/MachineLearning/comments/bp6l9y/d_most_aesthetically_pleasing_ml_research_papers/)
+- [Polyaxon](https://polyaxon.com/) - Platform for reproducing and managing the whole life cycle of machine learning and deep learning applications.

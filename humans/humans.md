@@ -6,28 +6,14 @@ I have many interests and I find studying and looking into people who have spent
 
 I maintain a list of [awesome humans](https://github.com/learn-anything/humans#readme) across different disciplines.
 
-## Favorite
-
-Here are some humans whose work I found great interest in:
-
-- [Alan Watts](alan-watts.md)
-
-## Interesting
-
-- [Stanislav Grof](http://en.wikipedia.org/wiki/Stanislav_Grof)
-- [Ajahn Chah](http://en.wikipedia.org/wiki/Ajahn_Chah)
-- Rupert Spira
-
-## Favorite interviews
+## Interesting interviews
 
 - [Conversation With Charles Hoskinson](https://www.youtube.com/watch?v=6hgKMCSloM4)
 - [DevOps Chat with HashiCorp's CTO](https://www.youtube.com/watch?v=iV5doaYReyU)
 - [Jeff Bezos At The Economic Club Of Washington (2018)](https://www.youtube.com/watch?v=xv_vkA0jsyo)
 - [Linus Torvalds (2018)](https://www.youtube.com/watch?v=pQWj2Fgxdrc&t=927s)
 - [Interview with Nils Frahm](http://www.tokafi.com/15questions/interview-nils-frahm/)
-
-## Interesting interviews
-
+- [Joe Rogan Experience #1368 - Edward Snowden](https://www.youtube.com/watch?v=efs3QRr8LWw)
 - [Interview with Charles Hoskinson Founder of IOHK and Cardano (2018)](https://www.youtube.com/watch?v=8-TlaXP0c1s)
 - [Leaving Google and Going Indie — An interview with Daniel Alm](https://medium.com/mailbutlerhq/leaving-google-and-going-indie-an-interview-with-daniel-alm-91078268a48b)
 - [A letter from your future colleague, Alex](https://www.reaktor.com/blog/a-letter-from-your-future-colleague-alex/)

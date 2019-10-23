@@ -41,4 +41,4 @@
 - [You've probably seen a bunch of rants on why "do thing with linked list" is a terrible interview question. I'd like to explain why "do thing with linked list" is an interview question in the first place. Buckle up everyone, it's time for some history](https://mobile.twitter.com/hillelogram/status/962424365819277312)
 - [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
 - [How to get into FAANG tips (2019)](https://drive.google.com/file/d/1tbQ74E5noNGS3ZarqAUMoErPasosilj7/view)
-- [CS Interview study sheet](https://github.com/kimberli/interviews#readme)
+  [CS Interview study sheet](https://github.com/kimberli/interviews#readme)

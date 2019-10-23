@@ -55,6 +55,7 @@ Some simple rules to follow when doing things.
 - Invest in learning/using/building new tools.
 - Wear comfortable clothes. Limit choice in clothing. Wear same clean clothes.
 - Use standing desk. Never sit for long. Sit up right.
+- Only use the bed for sleep ideally. Be purposeful in any environment I am in. Start days quickly.
 - Don't overthink things to the point of not doing anything. Clear up any confusion.
 
 ## Ideas
