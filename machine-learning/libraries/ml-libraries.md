@@ -25,3 +25,4 @@
 - [TensorNetwork](https://github.com/google/TensorNetwork) - Library for easy and efficient manipulation of tensor networks.
 - [dask-ml](https://github.com/dask/dask-ml) - Scalable Machine Learning with Dask.
 - [lambda-ml](https://github.com/cloudkj/lambda-ml) - Small machine learning library aimed at providing simple, concise implementations of machine learning techniques and utilities.
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Python module for machine learning built on top of SciPy.

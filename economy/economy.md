@@ -19,3 +19,4 @@
 - [Some guidelines (not rules) for surviving a recession](https://www.reddit.com/r/smallbusiness/comments/crpqli/any_other_recently_started_businesses_worried/)
 - [The Economics of Kenneth J. Arrow: A Selective Review (2019)](https://www.annualreviews.org/doi/full/10.1146/annurev-economics-080218-030323) ([HN](https://news.ycombinator.com/item?id=20817362))
 - [Lectures in Quantitative Economics with Python (2019)](https://python.quantecon.org/_downloads/pdf/quantitative_economics_with_python.pdf)
+- [QuantEcon](https://quantecon.org/) - Open source code for economic modeling.

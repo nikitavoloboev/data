@@ -86,6 +86,7 @@
 - [GitLab team handbook](https://about.gitlab.com/handbook/)
 - [Ask HN: How did your startup change after an exit? (2019)](https://news.ycombinator.com/item?id=21235776)
 - [Notion: Breakout Jobs Memo #1 (2019)](https://medium.com/the-spectrum/notion-breakout-jobs-memo-1-8ca346f97242)
+- [Ask HN: Successful one-person online businesses? (2019)](https://news.ycombinator.com/item?id=21332072)
 
 ## Images
 

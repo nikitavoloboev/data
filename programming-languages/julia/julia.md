@@ -10,3 +10,8 @@
 - [A Julia interpreter and debugger (2019)](https://julialang.org/blog/2019/03/debuggers) ([HN](https://news.ycombinator.com/item?id=19455688))
 - [The Julia Express](https://github.com/bkamins/The-Julia-Express) - Concise Julia language introductory manual for programmers.
 - [Learn Julia the Hard Way](https://github.com/chrisvoncsefalvay/learn-julia-the-hard-way)
+- [Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+- [Julia Docs](https://docs.julialang.org/en/v1/)
+- [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia/)
+- [Quantitative Economics with Julia course (2019)](https://julia.quantecon.org/)
+- [JuliaDiff](https://www.juliadiff.org/) - Differentiation tools in Julia.

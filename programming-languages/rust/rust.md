@@ -89,3 +89,4 @@
 - [Elegant Library APIs in Rust (2016)](https://deterministic.space/elegant-apis-in-rust.html)
 - [QuiCLI](https://github.com/killercup/quicli) - Quickly build cool CLI apps in Rust.
 - [Making the Tokio scheduler 10x faster (2019)](https://tokio.rs/blog/2019-10-scheduler/)
+- [Why would a python programmer learn rust when there are no jobs in it (2019)](https://www.youtube.com/watch?v=IYLf8lUqR40)

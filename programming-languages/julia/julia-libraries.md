@@ -4,7 +4,8 @@
 
 - [Flux](https://github.com/FluxML/Flux.jl) - Elegant approach to machine learning. It's a 100% pure-Julia stack, and provides lightweight abstractions on top of Julia's native GPU and AD support.
   - [Flux Model Zoo](https://github.com/FluxML/model-zoo)
-- [MLJ](https://github.com/alan-turing-institute/MLJ.jl) - Julia machine learning framework.
+- [MLJ](https://github.com/alan-turing-institute/MLJ.jl) - Julia machine learning framework. ([Tutorial](https://alan-turing-institute.github.io/MLJTutorials/))
+- [Knet](https://github.com/denizyuret/Knet.jl) - Deep learning framework implemented in Julia by Deniz Yuret and collaborators.
 
 ## Math
 
@@ -36,6 +37,10 @@
 - [Zygote](https://github.com/FluxML/Zygote.jl) - Intimate Affection Auditor.
 - [ForwardDiff.jl](https://github.com/JuliaDiff/ForwardDiff.jl) - Forward Mode Automatic Differentiation for Julia.
 - [Omega.jl](https://github.com/zenna/Omega.jl) - Causal, Higher-Order, Probabilistic Programming.
+- [AutoGrad](https://github.com/denizyuret/AutoGrad.jl) - Automatic differentiation package for Julia.
+- [GLM](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia.
+- [Distributions.jl](https://github.com/JuliaStats/Distributions.jl) - Julia package for probability distributions and associated functions.
+- [Turing.jl](https://github.com/TuringLang/Turing.jl) - Turing language for probabilistic machine learning and Bayesian statistics.
 
 ## Links
 
