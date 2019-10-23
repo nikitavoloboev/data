@@ -15,7 +15,7 @@ I split the app into 2 columns on mac.
 
 ## Notes
 
-- There is a limit of 1600 tweets that can be shown in one list. More than that will not be shown and tweets will be lost from the feed. 😞
+- There is a limit of 1600 tweets that can be shown in Timeline or list. More than that will not be shown and tweets will be lost from the feed. 😞
 
 ## Links
 

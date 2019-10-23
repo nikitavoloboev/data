@@ -44,6 +44,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Phil Eaton's notes](http://notes.eatonphil.com/)
 - [Full-stack web development notes](https://github.com/8483/notes#readme)
 - [Max Masnick](https://maxmasnick.com/kb/)
+- [Leon Bambrick](https://til.secretgeek.net/)
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
 
 ## Wiki software
@@ -61,3 +62,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Ask HN: Do you keep a personal knowledge repository? (2019)](https://news.ycombinator.com/item?id=20007108)
 - [Patterns of personal knowledge bases](https://github.com/zadam/trilium/wiki/Patterns-of-personal-knowledge-base)
 - [Ask HN: How do you share/organize knowledge at work and life? (2019)](https://news.ycombinator.com/item?id=21310030)
+- [Ask HN: How did you build up your personal knowledge base? (2019)](https://news.ycombinator.com/item?id=21332957)

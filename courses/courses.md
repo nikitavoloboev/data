@@ -12,3 +12,4 @@ I keep a [Trello board](https://trello.com/b/KXiTLwSA) of courses I am taking an
 - [Has some great courses](http://computing.dcu.ie/~humphrys/)
 - [hn.academy](https://hn.academy/) - Collects, ranks, and showcases the online courses recommended by Hacker News users.
 - [Class Central](https://www.classcentral.com/) - Search online courses.
+- [Search engine for lectures](https://www.findlectures.com/) ([HN](https://news.ycombinator.com/item?id=14484549))
