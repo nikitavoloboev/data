@@ -1,18 +1,16 @@
 # [Fantastical](https://flexibits.com/fantastical)
 
-I use the app to manage events in my life. I sync all events with Google Calendar and I sync my Focus/[Ideas](https://trello.com/b/alB1ryRP)/[Videos](https://trello.com/b/Qoa5pkrQ) [Trello boards](../../sharing/my-trello.md) deadlines with iCal.
+I use the app to manage events in my life I sync with Google Calendar.
 
 I use Fantastical's natural language input together with [many Typinator expansions](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to make new events in seconds.
 
-I always view my events from `Week` view & have 5 days in view only. This lets me have a perspective over what I have to do now & what deadlines I have to complete soon as well as giving me the freedom to adjust my schedule in light of upcoming deadlines and events.
+I always view my events from `Week` view & have 5 days in view only with 16 hours shown only (7:00 -> 23:00). This gives me perspective over current and upcoming events/deadlines.
 
-I also use `All day events` as a way to [put a focus on a project for a particular day](https://twitter.com/nikitavoloboev/status/1136715942338224128) based on [my goals](../../focusing/focusing.md). With the focus in mind, arranging and planning events becomes easier.
+I use `All day events` as a way to [put a focus on a project for a particular day](https://twitter.com/nikitavoloboev/status/1136715942338224128) based on [my goals](../../focusing/focusing.md). With the focus in mind, planning events becomes easier.
 
-![](https://i.imgur.com/7FAXvRf.png)
+I often switch between `Week` view and `Month`. And I have [Meetup](https://www.meetup.com) calendar added to Fantastical too as separate account.
 
-I use [KM macro](keyboard-maestro/km-macros.md) that when going to `Month` view, will hide away my `Routine` calendar so I can only see events that matter to me and get a quick glimpse of what deadlines and events are going on in my life and when.
-
-![](https://i.imgur.com/NzlURwo.png)
+![](https://i.imgur.com/Aq5ABNP.png)
 
 ## Notes
 
