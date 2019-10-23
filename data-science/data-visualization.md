@@ -20,3 +20,4 @@
 - [Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism)
 - [SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [Bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python.
+- [In praise of scatter plots (2019)](https://johnwickerson.wordpress.com/2019/10/22/scatter-plots/)

@@ -14,3 +14,6 @@
 - [HN: IBM will soon launch a 53-qubit quantum computer (2019)](https://news.ycombinator.com/item?id=21004615)
 - [Scott’s Supreme Quantum Supremacy FAQ! (2019)](https://www.scottaaronson.com/blog/?p=4317) ([HN](https://news.ycombinator.com/item?id=21053405))
 - [Precise measurement of quantum observables with neural-network estimators (2019)](https://arxiv.org/abs/1910.07596)
+- [Quantum supremacy using a programmable superconducting processor (2019)](https://www.nature.com/articles/s41586-019-1666-5)
+- [Why I Called It ‘Quantum Supremacy’](https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/)
+- [Quantum attacks on Bitcoin, and how to protect against them (2017)](https://arxiv.org/abs/1710.10377)
