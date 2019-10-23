@@ -13,6 +13,7 @@ Here are few more things I liked, design wise.
 - [John Otander](http://johnotander.com/) - Simple.
 - [Stripe](https://stripe.com) - Incredible design. I love their docs format too.
 - [NSHipster](https://nshipster.com/) - Simple & clean blog.
+- [We Learn Code](https://welearncode.com/)
 
 ## Designers
 

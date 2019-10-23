@@ -16,6 +16,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Shifty](https://github.com/thompsonate/Shifty) - MacOS menu bar app that gives you more control over Night Shift.
 - [Seashore](https://github.com/robaho/seashore) - Easy to use mac osx image editing application, gimp light.
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - MacOS/iOS apps to treat ideas as links of concepts.
+- [HotKey](https://github.com/soffes/HotKey) - Simple global shortcuts in macOS.
 
 ## Other interesting apps
 
@@ -30,3 +31,4 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Collection of open and indie Mac, iOS, and web apps that help promote the open web](https://macopenweb.com/)
 - [Dashing](https://github.com/technosophos/dashing) - Generate Dash documentation from HTML.
 - [yabai](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS based on binary space partitioning.
+- [3 Advanced Workflows for "Things" Power User](https://fabriziorinaldi.io/blog/things-advanced-workflows)

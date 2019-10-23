@@ -50,3 +50,4 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [6 blog tips for busy academics](http://matt.might.net/articles/how-to-blog-as-an-academic/)
 - [twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
+- [Rust blog source](https://github.com/rust-lang/blog.rust-lang.org)

@@ -32,3 +32,4 @@ Might give it a go sometime.
 - [Language Server Protocol Support for Emacs](https://github.com/emacs-lsp/lsp-mode)
 - [Why Emacs (2019)](https://www.birkey.co/2019-08-04-why-emacs.html)
 - [A Semi-literate Emacs Configuration](https://zge.us.to/emacs.d.html)
+- [Modern Emacs](http://www.modernemacs.com/) - Details a journey learning and hacking on Emacs.

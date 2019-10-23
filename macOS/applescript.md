@@ -12,3 +12,4 @@ Pretty useful to know scripting language for macOS.
 - [Best practices for GUI scripting](http://forum.latenightsw.com/t/best-practices-for-gui-scripting/561/26?u=ccstone)
 - [AppleScript snippets](https://github.com/unforswearing/applescript#readme)
 - [CMD-D Conference 2017 Videos](http://cmddconf.com/2017/videos.html)
+- [Complete list of AppleScript key codes](https://eastmanreference.com/complete-list-of-applescript-key-codes)

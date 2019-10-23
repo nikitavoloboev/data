@@ -39,7 +39,7 @@
 - [Cheap Docker images with Nix](http://lethalman.blogspot.com/2016/04/cheap-docker-images-with-nix_15.html)
 - [When to use declarative approach and when not](https://www.reddit.com/r/NixOS/comments/95vczu/when_to_use_declarative_approach_and_when_not/)
 - [example-nix](https://github.com/shajra/example-nix#readme) - A way to develop software with Nix.
-- [Hercules](https://hercules-ci.com/) - Hosted CI for building Nix projects on your infrastructure.
+- [Hercules CI](https://hercules-ci.com/) - Hosted CI for building Nix projects on your infrastructure.
 - [Dysnomia](https://github.com/svanderburg/dysnomia) - Tool and plug-in system that can be used to automatically deploy mutable components.
 - [Disnix](https://github.com/svanderburg/disnix) - Nix-based distributed service deployment tool.
 - [NUR](https://github.com/nix-community/NUR) - Nix User Repository: User contributed nix packages.

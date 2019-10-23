@@ -57,3 +57,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Many React Remote jobs](https://twitter.com/mxstbr/status/1180846287148785670)
 - [TripleByte](https://triplebyte.com/) - Do quiz & interview and skip first stages in applying for companies.
 - [Twitter list of programming jobs](https://twitter.com/nikitavoloboev/lists/list3)
+- [The Career Advice I Wish I Had](https://welearncode.com/career-advice/)
