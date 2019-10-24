@@ -211,6 +211,7 @@
 - [GoGi](https://github.com/goki/gi) - Native Go (golang) Graphical Interface system (2D and 3D), built on GoKi tree framework.
 - [sklearn](https://github.com/pa-m/sklearn) - Partial port of scikit-learn to Go.
 - [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths.
+- [go-sx](https://github.com/travelaudience/go-sx) - Provides some extensions to the standard library database/sql package.
 
 ## Links
 

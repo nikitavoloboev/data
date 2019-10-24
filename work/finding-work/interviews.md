@@ -2,6 +2,17 @@
 
 [Your ultimate guide to interview preparation](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/) is an amazing guide that covers pretty much everything you need to know to prepare & pass a technical interview.
 
+## Interesting interviews
+
+- [Conversation With Charles Hoskinson](https://www.youtube.com/watch?v=6hgKMCSloM4)
+- [DevOps Chat with HashiCorp's CTO](https://www.youtube.com/watch?v=iV5doaYReyU)
+- [Jeff Bezos At The Economic Club Of Washington (2018)](https://www.youtube.com/watch?v=xv_vkA0jsyo)
+- [Linus Torvalds (2018)](https://www.youtube.com/watch?v=pQWj2Fgxdrc&t=927s)
+- [Interview with Nils Frahm](http://www.tokafi.com/15questions/interview-nils-frahm/)
+- [Interview with Charles Hoskinson Founder of IOHK and Cardano (2018)](https://www.youtube.com/watch?v=8-TlaXP0c1s)
+- [Leaving Google and Going Indie — An interview with Daniel Alm](https://medium.com/mailbutlerhq/leaving-google-and-going-indie-an-interview-with-daniel-alm-91078268a48b)
+- [Joe Rogan Experience #1368 - Edward Snowden (2019)](https://www.youtube.com/watch?v=efs3QRr8LWw) ([HN](https://news.ycombinator.com/item?id=21333063))
+
 ## Notes
 
 - [Never think that a job interview is a one-way interview. At least, personally, I always am interviewing the potential team as well. No, you don't have all the control as the interviewer.](https://twitter.com/jessfraz/status/989878115710263297)
@@ -41,4 +52,4 @@
 - [You've probably seen a bunch of rants on why "do thing with linked list" is a terrible interview question. I'd like to explain why "do thing with linked list" is an interview question in the first place. Buckle up everyone, it's time for some history](https://mobile.twitter.com/hillelogram/status/962424365819277312)
 - [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
 - [How to get into FAANG tips (2019)](https://drive.google.com/file/d/1tbQ74E5noNGS3ZarqAUMoErPasosilj7/view)
-  [CS Interview study sheet](https://github.com/kimberli/interviews#readme)
+- [CS Interview study sheet](https://github.com/kimberli/interviews#readme)

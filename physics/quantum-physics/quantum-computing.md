@@ -17,3 +17,6 @@
 - [Quantum supremacy using a programmable superconducting processor (2019)](https://www.nature.com/articles/s41586-019-1666-5)
 - [Why I Called It ‘Quantum Supremacy’](https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/)
 - [Quantum attacks on Bitcoin, and how to protect against them (2017)](https://arxiv.org/abs/1710.10377)
+- [Quantum supremacy: the gloves are off (2019)](https://www.scottaaronson.com/blog/?p=4372) ([HN](https://news.ycombinator.com/item?id=21335907))
+- [ELI 5 of quantum computing](https://news.ycombinator.com/item?id=21337938)
+- [Quantum Supremacy Using a Programmable Superconducting Processor (2019)](https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html) ([HN](https://news.ycombinator.com/item?id=21332768))

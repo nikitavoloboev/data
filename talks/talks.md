@@ -42,3 +42,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Preparing for a Tech Talk, Part 2: What, Why, and How (2019)](https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/)
 - [CodeTalks](https://codetalks.tv/) - Like Youtube, but for developers.
 - [Speaking at conferences 101](https://medium.com/@emmawedekind/speaking-at-conferences-6b7781024b69)
+- [Handy tip for trimming demo videos](https://gist.github.com/bvaughn/0da332982b650e188971b7955173a559)

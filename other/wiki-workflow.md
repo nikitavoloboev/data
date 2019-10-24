@@ -63,3 +63,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Patterns of personal knowledge bases](https://github.com/zadam/trilium/wiki/Patterns-of-personal-knowledge-base)
 - [Ask HN: How do you share/organize knowledge at work and life? (2019)](https://news.ycombinator.com/item?id=21310030)
 - [Ask HN: How did you build up your personal knowledge base? (2019)](https://news.ycombinator.com/item?id=21332957)
+- [Note-taking strategy 2019](https://cpbotha.net/2019/09/21/note-taking-strategy-2019/)

@@ -63,3 +63,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Code samples from Eli Bendersky's blog](https://github.com/eliben/code-for-blog)
 - [Awesome Developer Relations resources](https://github.com/devrelcollective/awesome-devrel#readme)
 - [VeoLuz](https://github.com/jaredly/veoluz) - Visualize the paths of millions of light rays through reflection, refraction and diffusion.
+- [Historical Memos](https://sriramk.com/memos)
+- [A letter from your future colleague, Alex](https://www.reaktor.com/blog/a-letter-from-your-future-colleague-alex/)
