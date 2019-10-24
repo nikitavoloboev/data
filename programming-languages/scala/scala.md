@@ -18,3 +18,4 @@
 - [Scala Exercises](https://github.com/scala-exercises/scala-exercises) - Easy way to learn Scala.
 - [Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"](https://github.com/fpinscala/fpinscala)
 - [Scala typeclassopedia](https://github.com/lemastero/scala_typeclassopedia) - Abstractions and constructions from math (Category theory, Abstract algebra) implementations in Scala.
+- [A Tour of Scala 3 - Martin Odersky (2019)](https://www.youtube.com/watch?v=_Rnrx2lo9cw)

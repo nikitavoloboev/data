@@ -1,6 +1,6 @@
 # Education
 
-I wrote my thoughts about [my time in university](university.md). I am building [Learn Anything](../ideas/learn-anything.md) to improve learning and using knowledge gained to build great things.
+I wrote about [my time in university](university.md). I am building [Learn Anything](../ideas/learn-anything.md) to improve learning and using knowledge gained to build great things.
 
 ## Notes
 
