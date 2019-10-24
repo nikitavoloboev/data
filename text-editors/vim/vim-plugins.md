@@ -7,10 +7,8 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Ale](https://github.com/w0rp/ale) - Asynchronous Lint Engine.
 - [Cool](https://github.com/romainl/vim-cool) - Stop matching after search is done.
 - [Auto Pairs](https://github.com/jiangmiao/auto-pairs) - Insert or delete brackets, parens, quotes in pair.
-- [Dash](https://github.com/rizzatti/dash.vim) - Search Dash app.
 - [Nerdcommenter](https://github.com/scrooloose/nerdcommenter) - Quick comments.
 - [RipGrep](https://github.com/jremmen/vim-ripgrep) - Use RipGrep in Vim and display results in a quickfix list.
-- [Quick scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement.
 - [vimproc](https://github.com/Shougo/vimproc.vim) - Interactive command execution.
 - [Repeat](https://github.com/tpope/vim-repeat) - Enable repeating supported plugin maps with ".".
 - [Surround](https://github.com/tpope/vim-surround) - Quoting/parenthesizing made simple.
@@ -40,6 +38,8 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Utility
 
+- [Dash](https://github.com/rizzatti/dash.vim) - Search Dash app.
+- [Quick scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement.
 - [vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors project for vim/neovim.
 - [move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down.
 - [Coc](https://github.com/neoclide/coc.nvim) - Intellisense engine for vim8 & neovim, full language server protocol support as VSCode.

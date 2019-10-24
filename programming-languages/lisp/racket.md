@@ -9,3 +9,4 @@
 - [Racket is an acceptable Python (2019)](https://dustycloud.org/blog/racket-is-an-acceptable-python/) ([Lobsters](https://lobste.rs/s/q2kci7/racket_is_acceptable_python))
 - [Racket Source Code](https://github.com/racket/racket)
 - [beautiful-racket](https://github.com/mbutterick/beautiful-racket) - Resources for the “Beautiful Racket” book.
+- [Hackett](https://github.com/lexi-lambda/hackett) - Attempt to implement a Haskell-like language with support for Racket’s macro system, built using the techniques described in the paper Type Systems as Macros.
