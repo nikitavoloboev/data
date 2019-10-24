@@ -20,3 +20,4 @@
 - ["Writing Testable Elm" by Tessa Kelly (2019)](https://www.youtube.com/watch?v=rIxCwPPA-D8)
 - [The Elm Architecture (TEA) animation (2018)](https://medium.com/@l.mugnaini/the-elm-architecture-tea-animation-3efc555e8faf)
 - [The Syntax Cliff: Teaching syntax with Elm 0.19.1](https://elm-lang.org/news/the-syntax-cliff) ([HN](https://news.ycombinator.com/item?id=21312109))
+- [Building an Elm app from scratch video series (2019)](https://www.youtube.com/watch?v=-1ZA3G9k0Rw&list=PLGDf0elkI13EJ55MbwZd98scG7BKl_n-j)
