@@ -49,3 +49,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [How the unified collective is governed](https://github.com/unifiedjs/collective)
 - [Make a README](https://www.makeareadme.com/) - Because no one can read your mind.
 - [Saasify](https://github.com/saasify-sh/saasify) - Transforms serverless functions into fully functional SaaS websites.
+- [What I learned from WebTorrent - Feross Aboukhadijeh (2019)](https://www.youtube.com/watch?v=E1RxSzbmMO0)
