@@ -1,8 +1,6 @@
 # Education
 
-I wrote my thoughts about my time in university [here](university.md).
-
-Charles Hoskinson mentions why he believe in transforming education in [this interview](https://youtu.be/6hgKMCSloM4?t=50m4s) which I strongly believe in and am trying to change with [Learn Anything](../ideas/learn-anything.md).
+I wrote my thoughts about my time in university [here](university.md). I am building [Learn Anything](../ideas/learn-anything.md) to improve learning and using knowledge gained to build great things.
 
 ## Notes
 
