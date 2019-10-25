@@ -35,3 +35,4 @@
 - [Timeline for Logic, λ-Calculus, and Programming Language Theory (2012)(http://fm.csl.sri.com/SSFT15/Timeline.pages.pdf) ([HN](https://news.ycombinator.com/item?id=20860888))
 - [Types and Programming Languages book](https://www.cis.upenn.edu/~bcpierce/tapl/)
 - [Type Theory and Formal Proof book](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
+- [qtt](https://github.com/LightAndLight/qtt) - Quantitative Type Theory implementation.

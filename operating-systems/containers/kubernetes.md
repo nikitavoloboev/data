@@ -105,3 +105,4 @@
 - [Kubernetes Networking recommended reading list](https://github.com/nleiva/kubernetes-networking-links#readme)
 - [service-catalog](https://github.com/kubernetes-sigs/service-catalog) - Consume services in Kubernetes using the Open Service Broker API.
 - [kuberNix](https://github.com/saschagrunert/kubernix) - Kubernetes development cluster bootstrapping with Nix packages.
+- [Autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes.

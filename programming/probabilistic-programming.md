@@ -8,3 +8,5 @@
 - [MIT Probabilistic Computing Project](http://probcomp.csail.mit.edu/)
 - [End-User Probabilistic Programming paper by Microsoft Research](https://www.cs.uoregon.edu/research/summerschool/summer19/lecture_notes/DRAFT___Probabilistic_Programming_for_End_Users.pdf)
 - [monad-bayes](https://github.com/adscib/monad-bayes) - Library for probabilistic programming in Haskell.
+- [Funsor](https://github.com/pyro-ppl/funsor) - Functional tensors for probabilistic programming.
+- [Pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch.

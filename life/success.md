@@ -37,3 +37,4 @@ Success comes from not giving up and doing what you love.
 - [Keep Redefining What You Do](https://nav.al/redefining)
 - [Jeremy’s Strategies for Becoming Excellent](http://www.calnewport.com/blog/2011/12/23/flow-is-the-opiate-of-the-medicore-advice-on-getting-better-from-an-accomplished-piano-player/)
 - [What advice would you give your 23 year old self?](https://twitter.com/TaelurAlexis/status/1159637380716027904)
+- [What you Believe Becomes Reality – Chris Do (2019)](https://www.youtube.com/watch?v=f7T1Zs28Deo)

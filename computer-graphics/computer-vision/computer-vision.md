@@ -11,3 +11,4 @@
 - [Get started with Computer Vision, Deep Learning, and OpenCV](https://www.pyimagesearch.com/start-here/)
 - [TorchCV](https://github.com/donnyyou/torchcv) - PyTorch-Based Framework for Deep Learning in Computer Vision.
 - [AI Habitat](https://github.com/facebookresearch/habitat-sim) - Flexible, high-performance 3D simulator for Embodied AI research.
+- [Kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library for PyTorch.
