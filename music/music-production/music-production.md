@@ -37,3 +37,4 @@
 - [AudioKit](https://github.com/AudioKit/AudioKit) - Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS.
 - [LMMS](https://github.com/LMMS/lmms) - Cross-platform music production software.
 - [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/index.html) ([HN](https://news.ycombinator.com/item?id=21297462))
+- [Faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis.

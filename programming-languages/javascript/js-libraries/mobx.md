@@ -8,3 +8,4 @@
 - [mst-gql](https://github.com/mobxjs/mst-gql) - Bindings for mobx-state-tree and GraphQL.
 - [Awesome MobX](https://github.com/mobxjs/awesome-mobx#readme)
 - [Why MobX](https://github.com/infinitered/ignite-bowser#why-this-stack)
+- [mobx-keystone](https://github.com/xaviergonz/mobx-keystone) - MobX powered state management solution based on data trees with first class support for Typescript, support for snapshots, patches and much more.

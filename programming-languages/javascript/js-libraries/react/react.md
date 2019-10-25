@@ -83,3 +83,4 @@
 - [Announcing Ionic React (2019)](https://ionicframework.com/blog/announcing-ionic-react/)
 - [Divjoy](https://divjoy.com) - React codebase generator.
 - [React Concurrent Mode](https://reactjs.org/docs/concurrent-mode-intro.html) ([HN](https://news.ycombinator.com/item?id=21346290))
+- [React Conf 2019](https://www.youtube.com/watch?v=RCiccdQObpo)
