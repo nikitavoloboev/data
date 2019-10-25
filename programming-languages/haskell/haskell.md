@@ -92,3 +92,4 @@
 - [Beating Decades Of Optimized C With 80 Lines Of Haskell (2019)](https://chrispenner.ca/posts/wc) ([HN](https://news.ycombinator.com/item?id=21266201)) ([Lobsters](https://lobste.rs/s/l0lkyo/beating_decades_optimized_c_with_80_lines))
 - [Servant's type-level domain specific language (2019)](https://dev.to/bradparker/servant-s-type-level-domain-specific-language-52m8)
 - [Solutions to the Haskell Book exercises](https://github.com/kutyel/haskell-book)
+- [Runtime Support for Multicore Haskell](https://simonmar.github.io/bib/papers/multicore-ghc.pdf)

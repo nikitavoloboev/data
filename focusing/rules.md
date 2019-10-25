@@ -74,8 +74,8 @@ Some simple rules to follow when doing things.
 - Learn [fundamentals first](https://medium.com/@nikitavoloboev/the-root-of-it-all-9b6ab6a77e1d).
 - [Build things from scratch](https://github.com/nikitavoloboev/build-to-learn) to understand. Minimal version that works.
 - Draw or sketch to distill complex ideas. Think through problems together. Discuss.
-- Watch videos at 1.75 or 2 speed, unless it hurts comprehension or it's entertainment.
-- Listen to podcasts/books at fastest speed I can comprehend. (Podcasts: ~ 1.8x + smart speed, Books: 1.5x).
+- Watch videos at 2x speed, unless it hurts comprehension or it's entertainment.
+- Listen to podcasts/books at fastest speed I can comprehend. (Podcasts: ~ 2x + smart speed, Books: 1.5x).
 
 ## Write
 

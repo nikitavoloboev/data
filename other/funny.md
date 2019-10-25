@@ -18,3 +18,4 @@ Some things I found funny.
 - [Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away](https://github.com/kleampa/not-paid)
 - [Thanos.js](https://thanosjs.org/) - Reduce the file size of your project down to 50%, by randomly deleting half of the files.
 - [Launching your product after months of research and development](https://twitter.com/PottsJustin/status/1186822288756396035)
+- [Every programming tutorial](https://www.youtube.com/watch?v=MAlSjtxy5ak)

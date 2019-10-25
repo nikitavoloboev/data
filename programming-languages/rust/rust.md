@@ -91,3 +91,4 @@
 - [Making the Tokio scheduler 10x faster (2019)](https://tokio.rs/blog/2019-10-scheduler/)
 - [Why would a python programmer learn rust when there are no jobs in it (2019)](https://www.youtube.com/watch?v=IYLf8lUqR40)
 - [How to not rewrite it in Rust (2019)](http://adventures.michaelfbryan.com/posts/how-not-to-riir/) ([HN](https://news.ycombinator.com/item?id=21334510))
+- [Guide to Rustc Development](https://rust-lang.github.io/rustc-guide/about-this-guide.html)
