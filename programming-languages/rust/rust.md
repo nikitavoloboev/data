@@ -92,3 +92,4 @@
 - [Why would a python programmer learn rust when there are no jobs in it (2019)](https://www.youtube.com/watch?v=IYLf8lUqR40)
 - [How to not rewrite it in Rust (2019)](http://adventures.michaelfbryan.com/posts/how-not-to-riir/) ([HN](https://news.ycombinator.com/item?id=21334510))
 - [Guide to Rustc Development](https://rust-lang.github.io/rustc-guide/about-this-guide.html)
+- [Corrode](https://github.com/jameysharp/corrode) - Automatic semantics-preserving translation from C to Rust.
