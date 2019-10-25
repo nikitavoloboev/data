@@ -15,3 +15,5 @@
 - [Rebar3](https://github.com/erlang/rebar3) - Erlang build tool that makes it easy to compile and test Erlang applications and releases.
 - [Erlang/OTP](https://github.com/erlang/otp) - Programming language and runtime system for building massively scalable soft real-time systems with requirements on high availability.
 - [Enigma VM](https://github.com/archseer/enigma) - Simple Erlang VM implementation in Rust.
+- [ErlangRT](https://github.com/kvakvs/ErlangRT) - Attempt to make Erlang runtime (BEAM emulator) in Rust.
+- [BEAM VM Wisdoms](http://beam-wisdoms.clau.se/en/latest/) - In-depth knowledge such as VM internals, memory layout, opcodes etc.

@@ -9,3 +9,4 @@
 - [Introducing the CodeSearchNet challenge (2019)](https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/) ([HN](https://news.ycombinator.com/item?id=21082757))
 - [Facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets.
 - [skdata](https://github.com/jaberg/skdata) - Data sets for machine learning in Python.
+- [TensorFlow Datasets](https://github.com/tensorflow/datasets) - Collection of datasets ready to use with TensorFlow.

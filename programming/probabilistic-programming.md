@@ -10,3 +10,4 @@
 - [monad-bayes](https://github.com/adscib/monad-bayes) - Library for probabilistic programming in Haskell.
 - [Funsor](https://github.com/pyro-ppl/funsor) - Functional tensors for probabilistic programming.
 - [Pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch.
+- [TensorFlow Probability](https://github.com/tensorflow/probability) - Library for probabilistic reasoning and statistical analysis in TensorFlow.
