@@ -122,3 +122,4 @@ Go promotes composition over inheritance.
 - [gijit](https://github.com/gijit/gi) - Just-in-time trace-compiled golang REPL. Standing on the shoulders of giants (GopherJS and LuaJIT).
 - [unconvert](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 - [Gox](https://github.com/mitchellh/gox) - Simple Go Cross Compilation.
+- [Learning Go: Lexing and Parsing (2016)](http://blog.leahhanson.us/post/recursecenter2016/recipeparser.html)

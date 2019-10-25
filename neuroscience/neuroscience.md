@@ -8,6 +8,7 @@
 - [Towards the neural population doctrine](https://www.sciencedirect.com/science/article/abs/pii/S0959438818300990)
 - [The Brain That Changes Itself book](https://www.goodreads.com/book/show/570172.The_Brain_That_Changes_Itself)
 - [Brain Map](https://portal.brain-map.org/) - Accelerating progress toward understanding the brain.
+- [Could a neuroscientist understand a microprocessor? (2017)](http://ericmjonas.github.io/neuroproc/)
 
 ## Images
 

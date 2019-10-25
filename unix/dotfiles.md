@@ -19,6 +19,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles#r
 - [Gleb Skibitsky](https://github.com/skibitsky/dotfiles) - Uses Goku/Karabiner.
 - [Sascha Grunert](https://github.com/saschagrunert/dotfiles)
 - [Brandon Amos](https://github.com/bamos/dotfiles)
+- [Tyler Neely](https://github.com/spacejam/dots)
 
 ## Links
 

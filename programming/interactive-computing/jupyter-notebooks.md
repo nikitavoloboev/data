@@ -10,3 +10,4 @@
 - [bqplot](https://github.com/bloomberg/bqplot) - Plotting library for IPython/Jupyter Notebooks.
 - [Working with Jupyter Notebooks in Visual Studio Code](https://code.visualstudio.com/docs/python/jupyter-support)
 - [Some IHaskell notebooks, provisioned using Nix](https://github.com/vaibhavsagar/notebooks)
+- [ipycanvas: A Python Canvas for Jupyter (2019)](https://blog.jupyter.org/ipycanvas-a-python-canvas-for-jupyter-bbb51e4777f7)
