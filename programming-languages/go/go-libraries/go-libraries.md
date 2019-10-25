@@ -213,6 +213,7 @@
 - [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths.
 - [go-sx](https://github.com/travelaudience/go-sx) - Provides some extensions to the standard library database/sql package.
 - [json-iterator/go](https://github.com/json-iterator/go) - High-performance 100% compatible drop-in replacement of "encoding/json".
+- [TamaGo](https://github.com/inversepath/tamago) - Bare metal Go for ARM SoCs.
 
 ## Links
 
