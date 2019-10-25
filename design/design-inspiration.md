@@ -138,6 +138,7 @@ Here are few more things I liked, design wise.
 - [Louis Merlin](https://louismerl.in/)
 - [Paige](https://www.paigewilliams.dev/)
 - [Corey](https://corey.ginnivan.net/)
+- [Brono Simon](https://bruno-simon.com/) - Interactive car driving around.
 
 ## Analog
 
