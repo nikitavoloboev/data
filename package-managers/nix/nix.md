@@ -74,3 +74,4 @@
 - [nix-diff](https://github.com/Gabriel439/nix-diff) - Explain why two Nix derivations differ.
 - [Optimising Docker Layers for Better Caching with Nix (2018)](https://grahamc.com/blog/nix-and-layered-docker-images)
 - [nix-du](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your nix store.
+- [NixCon 2019 - Main Track](https://www.youtube.com/watch?v=aUG9aGYYCY8)
