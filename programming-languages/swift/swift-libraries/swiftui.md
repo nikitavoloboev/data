@@ -2,6 +2,7 @@
 
 ## Links
 
+- [SwiftUI Essentials WWDC 2019](https://developer.apple.com/videos/play/wwdc2019/216/)
 - [SwiftUI Combine Example](https://github.com/ra1028/SwiftUI-Combine) - Example project of SwiftUI and Combine using GitHub API.
 - [SwiftUI by Example (2019)](https://www.hackingwithswift.com/quick-start/swiftui/)
 - [Evolution discussion of the new DSL feature behind SwiftUI (2019)](https://forums.swift.org/t/important-evolution-discussion-of-the-new-dsl-feature-behind-swiftui/25168/12)
@@ -18,3 +19,4 @@
 - [The missing ☑️: SwiftWebUI](http://www.alwaysrightinstitute.com/swiftwebui/)
 - [QGrid](https://github.com/Q-Mobile/QGrid) - The missing SwiftUI collection view.
 - [DesignCode SwiftUI](https://github.com/mythxn/DesignCode-SwiftUI) - App fully written in SwiftUI showcasing beautiful design and animations.
+- [Creating and Combining SwiftUI Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)

@@ -65,6 +65,7 @@
 - [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [Airtable Go Client Library](https://github.com/fabioberger/airtable-go)
 - [Facebook Graph API SDK](https://github.com/huandu/facebook)
+- [Trello](https://github.com/adlio/trello) - Trello API wrapper for Go.
 
 ## Graphics
 

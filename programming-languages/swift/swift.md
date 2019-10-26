@@ -59,3 +59,4 @@
 - [ObjC books](https://www.objc.io/books/) - Advanced guides on iOS and macOS development.
 - [XCTest](https://github.com/apple/swift-corelibs-xctest) - Swift core library for providing unit test support.
 - [Building the Server-side Swift ecosystem, Ian Partridge (2019)](https://www.youtube.com/watch?v=CzTikweGO3E)
+- [Learn Swift in Y minutes](https://learnxinyminutes.com/docs/swift/)

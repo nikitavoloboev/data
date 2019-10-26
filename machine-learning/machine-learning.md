@@ -131,3 +131,4 @@
 - [Polyaxon](https://polyaxon.com/) - Platform for reproducing and managing the whole life cycle of machine learning and deep learning applications.
 - [Different projects built using fast.ai](https://forums.fast.ai/t/share-you-work-here-highlights/57140)
 - [Spell](https://spell.run/) - Fastest and most powerful end-to-end platform for machine learning and deep learning.
+- [ML portfolio tips (2019)](https://twitter.com/EmilWallner/status/1184723538810413056)

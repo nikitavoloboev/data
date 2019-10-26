@@ -11,6 +11,7 @@
 - [Newton](https://github.com/hunterloftis/newton) - Playful, particle-based physics engine designed from the ground up for JavaScript.
 - [Noa](https://github.com/andyhall/noa) - Experimental voxel game engine.
 - [nphysics](https://github.com/rustsim/nphysics) - 2 and 3-dimensional rigid body physics engine for Rust.
+- [Piston](https://github.com/PistonDevelopers/piston) - Modular game engine written in Rust.
 
 ## Links
 
