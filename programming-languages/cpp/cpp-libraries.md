@@ -38,3 +38,4 @@
 - [Typeclasses in C++](https://github.com/TartanLlama/typeclasses) - Future C++ implementation of Rust-like trait objects with no boilerplate.
 - [Basic Development Environment](https://github.com/bloomberg/bde) - Set of foundational C++ libraries used at Bloomberg.
 - [BareMetalLib](https://github.com/kuanweeloong/BareMetalLib) - C++ support library for bare-metal programming.
+- [matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib.

@@ -2,4 +2,4 @@
 
 ## Links
 
-- [Dex](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family.
+- [Dex](https://github.com/google-research/dex-lang) - Research language for array processing in the Haskell/ML family. ([HN](https://news.ycombinator.com/item?id=21364413))
