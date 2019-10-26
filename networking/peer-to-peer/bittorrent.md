@@ -2,8 +2,9 @@
 
 ## Torrent sites
 
-- [iDope](https://idope.top/)
-- [DIGBT](https://www.digbt.org/)
+- [7torrents](https://www.7torrents.cc/)
+- [iDope](https://idope.xyz/)
+- [RuTracker](https://rutracker.org/forum/index.php)
 - [What is the hottest general torrent site right now? (2018)](https://www.reddit.com/r/Piracy/comments/9vy0oe/what_is_the_hottest_general_torrent_site_right_now/)
 
 ## Links
@@ -16,3 +17,4 @@
 - [torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent-client package and utilities.
 - [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library.
 - [confluence](https://github.com/anacrolix/confluence) - Torrent client as a HTTP service.
+- [/r/trackers](https://www.reddit.com/r/trackers/) - Great subreddit.
