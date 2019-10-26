@@ -36,3 +36,4 @@
 - [Wangle](https://github.com/facebook/wangle) - Framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
 - [Typeclasses in C++](https://github.com/TartanLlama/typeclasses) - Future C++ implementation of Rust-like trait objects with no boilerplate.
 - [Basic Development Environment](https://github.com/bloomberg/bde) - Set of foundational C++ libraries used at Bloomberg.
+- [BareMetalLib](https://github.com/kuanweeloong/BareMetalLib) - C++ support library for bare-metal programming.

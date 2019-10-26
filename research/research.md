@@ -30,10 +30,10 @@ Together with [Learn Anything](https://learn-anything.xyz/), you have all the su
 
 In addition to Learn Anything, I also help curate [many curated lists of resources and links](https://github.com/learn-anything/curated-lists#readme). I then parse these lists and access them from [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) workflow. These lists include:
 
-- [Books](https://github.com/learn-anything/books#interesting-books-) - Both free and paid.
-- [Courses](https://github.com/learn-anything/courses#interesting-courses-)
-- [Blogs](https://github.com/learn-anything/blogs#interesting-blogs-)
-- [Research papers](https://github.com/learn-anything/research-papers#interesting-research-papers-)
+- [Books](https://github.com/learn-anything/books#readme) - Both free and paid.
+- [Courses](https://github.com/learn-anything/courses#readme)
+- [Blogs](https://github.com/learn-anything/blogs#readme)
+- [Research papers](https://github.com/learn-anything/research-papers#readme)
 - And [lots more](https://github.com/learn-anything/curated-lists#readme).
 
 ## Links
