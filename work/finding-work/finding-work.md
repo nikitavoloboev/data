@@ -29,15 +29,7 @@ Never let impostor syndrome or anything else stop you from applying to your drea
 
 My other favorite way of finding interesting work opportunities is meeting and interacting with people personally through various events and getting to know what they're building.
 
-## Interesting companies
-
-- Apple
-- Google
-- DeepMind
-- FB
-- OpenAI
-- Readdle
-- Cloudflare
+I use a [Trello board](https://trello.com/b/w58QRfB0) to keep track of companies/positions I am applying to.
 
 ## Notes
 
