@@ -84,3 +84,4 @@
 - [Divjoy](https://divjoy.com) - React codebase generator.
 - [React Concurrent Mode](https://reactjs.org/docs/concurrent-mode-intro.html) ([HN](https://news.ycombinator.com/item?id=21346290))
 - [React Conf 2019](https://www.youtube.com/watch?v=RCiccdQObpo)
+- [zustand](https://github.com/react-spring/zustand) - Small, fast and scaleable bearbones state-management solution.

@@ -27,6 +27,8 @@
 - [cgmath-rs](https://github.com/rustgd/cgmath) - Linear algebra and mathematics library for computer graphics.
 - [aljabar](https://github.com/maplant/aljabar) - Extremely generic linear algebra libary for Rust.
 - [raqote](https://github.com/jrmuizel/raqote) - Pure Rust 2D Graphics Library.
+- [Kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
+- [ncollide](https://github.com/rustsim/ncollide) - 2 and 3-dimensional collision detection library in Rust.
 
 ## IO
 

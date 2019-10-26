@@ -84,3 +84,4 @@
 - [Simple Made Easy by Rich Hickey (2011)](https://www.infoq.com/presentations/Simple-Made-Easy/)
 - ["Performance Matters" by Emery Berger (2019)](https://www.youtube.com/watch?v=r-TLSBdHe1A)
 - [What Every Programmer Should Know About Memory (2007)](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- [Exercises in Programming Style](https://github.com/crista/exercises-in-programming-style) - Comprehensive collection of programming styles using a simple computational task, term frequency.
