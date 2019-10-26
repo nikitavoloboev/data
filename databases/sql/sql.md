@@ -17,3 +17,4 @@
 - [10 Ways to Tweak Slow SQL Queries](http://www.helenanderson.co.nz/sql-query-tweaks/) ([HN](https://news.ycombinator.com/item?id=20855441))
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [SQL queries don't start with SELECT (2019)](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
+- [OctoSQL](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.

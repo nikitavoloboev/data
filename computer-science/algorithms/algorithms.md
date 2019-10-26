@@ -23,6 +23,7 @@
 - [Mathematical Proof of Algorithm Correctness and Efficiency (2019)](https://stackabuse.com/mathematical-proof-of-algorithm-correctness-and-efficiency/)
 - [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - Interactive online platform that visualizes algorithms from code.
 - [Algorithms for Optimization book](https://mitpress.mit.edu/books/algorithms-optimization)
+- [Collaborative book on algorithms](https://www.algorithm-archive.org/) ([OSS](https://github.com/algorithm-archivists/algorithm-archive))
 
 ## Images
 
