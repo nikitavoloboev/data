@@ -136,6 +136,7 @@
 - [Coroutine I/O](https://github.com/zonyitoo/coio-rs) - Coroutine scheduling with work-stealing algorithm.
 - [tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust.
 - [geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust.
+- [hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map.
 
 ## Cargo Plugins
 

@@ -132,3 +132,4 @@
 - [Different projects built using fast.ai](https://forums.fast.ai/t/share-you-work-here-highlights/57140)
 - [Spell](https://spell.run/) - Fastest and most powerful end-to-end platform for machine learning and deep learning.
 - [ML portfolio tips (2019)](https://twitter.com/EmilWallner/status/1184723538810413056)
+- [DeepMind Research](https://github.com/deepmind/deepmind-research) - Contains implementations and illustrative code to accompany DeepMind publications.
