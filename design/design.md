@@ -41,3 +41,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [How to design delightful dark themes (2019)](https://blog.superhuman.com/how-to-design-delightful-dark-themes-7b3da644ff1f)
 - [5 design principles for building your first portfolio](https://dribbble.com/stories/2019/10/21/5-design-principles-for-building-your-first-portfolio)
 - [The Definition of Design](https://rsms.me/eames-design/)
+- [Implementing Dark Mode in iOS 13 (2019)](https://instagram-engineering.com/instagram-darkmode-58802b43c0f2)

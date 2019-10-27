@@ -32,3 +32,4 @@
 - [core.typed](https://github.com/clojure/core.typed) - Optional type system for Clojure.
 - [Small Clojure Interpreter playground](https://borkdude.github.io/sci.web/)
 - [Naked Performance (with Clojure) – Tommi Reiman (2019)](https://www.youtube.com/watch?v=3SSHjKT3ZmA)
+- [Building My Own Clojure Tools - Nikita Prokopov (2019)](https://www.youtube.com/watch?v=l1b7Da2DnPo)

@@ -40,3 +40,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [On the Expressive Power of Programming Languages by Shriram Krishnamurthi [PWLConf 2019]](https://www.youtube.com/watch?v=43XaZEn2aLc)
 - [The Rise of 'Worse is Better' by Richard Gabriel](https://www.jwz.org/doc/worse-is-better.html)
 - ["All the Languages Together" by Amal Ahmed (2018)](https://www.youtube.com/watch?v=3yVc5t-g-VU)
+- [Co](https://github.com/rsms/co) - Programming language and optimizing compiler written in TypeScript. ([Doc](https://rsms.me/co/doc/))
