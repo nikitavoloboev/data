@@ -5,7 +5,6 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 ## Utility
 
 - [Zsh Async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools.
-- [z](https://github.com/rupa/z) - Jump around.
 - [Bd](https://github.com/Tarrasch/zsh-bd) - Jump back to a specific directory, without doing `cd ../../..`.
 - [Zsh completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [Zsh autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for Zsh.
@@ -26,6 +25,7 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 
 ## Utility
 
+- [z](https://github.com/rupa/z) - Jump around.
 - [Enhancd](https://github.com/b4b4r07/enhancd) - Next-generation cd command with an interactive filter.
 - [Ports](https://github.com/caarlos0/ports) - Easily see what's happening on your computer's ports.
 - [Fast Syntax Highlighting](https://github.com/zdharma/fast-syntax-highlighting) - Fine granularity, number of features, 40 work hours themes.

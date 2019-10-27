@@ -43,7 +43,7 @@ Some simple rules to follow when doing things.
 - Do quick exercise bursts during the day to regain focus. Move around & explore new environments for inspiration.
 - On weekly reviews, observe time I spent in Timing and restrict wasted time with [Focus](https://heyfocus.com).
 - Use one screen on mac. It's easier to context switch and keep focus.
-- Don't listen to distracting music or sounds when focusing. Use [Noizio](http://noiz.io) & [Dark Noise](https://darknoise.app) and listen to Rain, Fire or similar sounds. Or play a song from [Focus playlist](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5?si=KhAd2yhvRSGOADmRObkM7w). Or have nothing playing at all.
+- Don't listen to distracting music or sounds when focusing. Use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) and listen to Rain, Fire or similar sounds. Or play a song from [Focus playlist](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5?si=KhAd2yhvRSGOADmRObkM7w). Or have nothing playing at all.
 - Use noise canceling headphones to minimize distractions.
 - Only have essential notifications setup. Be in Do Not Disturb mode by default.
 - Take mindfulness breaks and breathe when distracted. Or exercise.
