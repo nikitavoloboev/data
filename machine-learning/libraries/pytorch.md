@@ -42,3 +42,4 @@
 - [A quick tour of Torch internals (2015)](https://apaszke.github.io/torch-internals.html)
 - [How to Run PyTorch with TPUs](https://github.com/pytorch/xla)
 - [EfficientNet PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)
+- [Captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch.
