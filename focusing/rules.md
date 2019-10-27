@@ -98,7 +98,7 @@ Some simple rules to follow when doing things.
 
 - Share [everything I know](../sharing/everything-I-know.md) and made.
 - Submit bugs and feature requests as soon as I encounter problems I can't solve. Twitter, email, in-app or feedback assistant.
-- Say things that [contribute to the conversation](https://discourse.elm-lang.org/t/how-we-talk-about-other-languages/972/7). Be honest.
+- Say things that [contribute to the conversation](https://discourse.elm-lang.org/t/how-we-talk-about-other-languages/972/7). Be honest. Be nice.
 
 ## News
 
@@ -188,7 +188,7 @@ Some simple rules to follow when doing things.
 
 - Meet new people. Go to seminars, talks, conferences.
 - Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
-- Use same profile picture across all social networks & websites.
+- Use same profile picture across all social networks & websites. Don't change it.
 
 ## Alfred
 

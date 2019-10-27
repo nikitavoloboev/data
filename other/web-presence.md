@@ -13,7 +13,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Codementor](https://www.codementor.io/nikitavoloboev) - Never used it.
 - [Asciinema](https://asciinema.org/~nikivi) - Sharing terminal sessions for showcasing CLI tools and other things.
 - [WakaTime](https://wakatime.com/@nikitavoloboev) - Tracking the time I spend coding.
-- [Devpost](https://devpost.com/nikitavoloboev) - Tracking all the hackathons and hackathon projects I have done.
+- [Devpost](https://devpost.com/NikitaVoloboev) - Tracking hackathons I did.
 - [Code Wars](https://www.codewars.com/users/nikitavoloboev) - Practicing various coding challenges.
 - [Docker Hub](https://hub.docker.com/u/nikivi/) - Docker images.
 - [GitLab](https://gitlab.com/nikitavoloboev)
@@ -106,7 +106,6 @@ These are my personal profiles on various websites sorted by categories.
 - [DevianArt](https://nikivi.deviantart.com/)
 - [Stack Overflow CV](https://stackoverflow.com/cv/nikitavoloboev) - Not using it. Using LinkedIn.
 - [Gfycat](https://gfycat.com/@nikivi) - Sharing GIFs.
-- [TED](https://www.ted.com/profiles/10360419)
 - [AMA](https://github.com/nikitavoloboev/ama#readme) - Ask Me Anything.
 - [Merveilles Profile](https://merveilles.town/@nikivi) - My profile on Merveilles Mastodon instance.
 - [Gumroad](https://gumroad.com/nikitavoloboev)
