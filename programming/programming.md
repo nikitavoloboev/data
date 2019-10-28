@@ -85,3 +85,4 @@
 - ["Performance Matters" by Emery Berger (2019)](https://www.youtube.com/watch?v=r-TLSBdHe1A)
 - [What Every Programmer Should Know About Memory (2007)](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 - [Exercises in Programming Style](https://github.com/crista/exercises-in-programming-style) - Comprehensive collection of programming styles using a simple computational task, term frequency.
+- [Ask HN: What is the most beautiful piece of code you've ever read? (2019)](https://news.ycombinator.com/item?id=21373852)
