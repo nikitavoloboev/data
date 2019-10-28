@@ -188,7 +188,7 @@ Some simple rules to follow when doing things.
 
 - Meet new people. Go to seminars, talks, conferences.
 - Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
-- Use same profile picture across all social networks & websites. Don't change it.
+- Use same profile picture & cover photo across all social networks & websites. Don't change it.
 
 ## Alfred
 

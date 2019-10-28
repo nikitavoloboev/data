@@ -18,3 +18,4 @@
 - [Ask HN: Cons of Being on a Remote/Distributed Team? (2019)](https://news.ycombinator.com/item?id=21020168)
 - [Sid Sijbrandij: “People don’t want to commute; they just don’t want to miss out” (2019)](https://nohq.co/blog/sid-sijbrandij-people-dont-want-to-commute-they-ju/) ([HN](https://news.ycombinator.com/item?id=21123910))
 - [Asynchronous Communication: The Real Reason Remote Workers Are More Productive (2019)](https://doist.com/blog/asynchronous-communication/) ([HN](https://news.ycombinator.com/item?id=21268162))
+- [Lobsters: What Most Remote Companies Don’t Tell You About Remote Work (2019)](https://lobste.rs/s/falb03/what_most_remote_companies_don_t_tell_you)

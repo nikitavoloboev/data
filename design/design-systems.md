@@ -7,6 +7,7 @@
 - [Grommet](https://grommet.io) - React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package.
 - [smooth UI](https://github.com/smooth-code/smooth-ui) - Modern React UI library.
 - [Orbit](https://orbit.kiwi/) - Open source design system for your next travel project.
+- [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications.
 
 ## Links
 

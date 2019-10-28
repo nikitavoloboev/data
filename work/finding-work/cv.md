@@ -35,6 +35,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Gierad Laput](https://www.gierad.com/cv/GieradLaput-CVWeb.pdf)
 - [Dr. Lucas Clemente](https://clemente.io/)
 - [Brandon Amos](http://bamos.github.io/) ([PDF](http://bamos.github.io/data/cv.pdf))
+- [Caroline Lemieux](https://www.carolemieux.com/caroline-lemieux-resume.pdf)
 
 ## Notes
 
