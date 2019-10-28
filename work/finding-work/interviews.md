@@ -42,3 +42,4 @@
 - [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
 - [How to get into FAANG tips (2019)](https://drive.google.com/file/d/1tbQ74E5noNGS3ZarqAUMoErPasosilj7/view)
 - [CS Interview study sheet](https://github.com/kimberli/interviews#readme)
+- [What I Learned From Conducting 500 Technical Interviews, Pt. 1: The Interviewer Skills Ladder (2019)](https://www.holloway.com/s/trh-what-i-learned-from-conducting-500-technical-interviews-part-1)
