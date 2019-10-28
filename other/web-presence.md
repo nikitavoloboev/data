@@ -109,3 +109,4 @@ These are my personal profiles on various websites sorted by categories.
 - [AMA](https://github.com/nikitavoloboev/ama#readme) - Ask Me Anything.
 - [Merveilles Profile](https://merveilles.town/@nikivi) - My profile on Merveilles Mastodon instance.
 - [Gumroad](https://gumroad.com/nikitavoloboev)
+- [Leanpub](https://leanpub.com/u/nikitavoloboev)

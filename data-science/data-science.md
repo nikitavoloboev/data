@@ -58,3 +58,4 @@
 - [Materials and IPython notebooks for Python for Data Analysis, 2nd Edition book](https://github.com/wesm/pydata-book)
 - [Technical Notes On Using Data Science & Artificial Intelligence](https://chrisalbon.com/)
 - [Amazon Data Science Interview (2018)](https://medium.com/acing-ai/amazon-ai-interview-questions-acing-the-ai-interview-3ed4e671920f)
+- [Data Analysis and Prediction Algorithms with R (2019)](https://rafalab.github.io/dsbook/)
