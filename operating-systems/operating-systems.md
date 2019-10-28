@@ -39,3 +39,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [swieros](https://github.com/rswier/swieros) - Tiny and fast Unix-ish kernel (based on xv6), compiler, and userland for fun, education, and research.
 - [A dream of an ultimate OS (1995)](http://okmij.org/ftp/papers/DreamOSPaper.html) ([HN](https://news.ycombinator.com/item?id=20754592))
 - [Input/Output Subsystem in Singularity Operating System (2011)](http://students.mimuw.edu.pl/~md234040/master.pdf)
+- [Commute talk: How to start building an OS? (2019)](https://www.youtube.com/watch?v=fqllFKjEZAo)

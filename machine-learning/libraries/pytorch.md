@@ -43,3 +43,4 @@
 - [How to Run PyTorch with TPUs](https://github.com/pytorch/xla)
 - [EfficientNet PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)
 - [Captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch.
+- [Pytorch-Struct](https://github.com/harvardnlp/pytorch-struct) - Fast, general, and tested differentiable structured prediction in PyTorch.
