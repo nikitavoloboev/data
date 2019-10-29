@@ -17,3 +17,4 @@
 - [Enigma VM](https://github.com/archseer/enigma) - Simple Erlang VM implementation in Rust.
 - [ErlangRT](https://github.com/kvakvs/ErlangRT) - Attempt to make Erlang runtime (BEAM emulator) in Rust.
 - [BEAM VM Wisdoms](http://beam-wisdoms.clau.se/en/latest/) - In-depth knowledge such as VM internals, memory layout, opcodes etc.
+- [Adopting Erlang](https://adoptingerlang.org/) - Ongoing effort to gather all the resources that will help you use Erlang in a business.

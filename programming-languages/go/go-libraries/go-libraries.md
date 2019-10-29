@@ -215,6 +215,7 @@
 - [go-sx](https://github.com/travelaudience/go-sx) - Provides some extensions to the standard library database/sql package.
 - [json-iterator/go](https://github.com/json-iterator/go) - High-performance 100% compatible drop-in replacement of "encoding/json".
 - [TamaGo](https://github.com/inversepath/tamago) - Bare metal Go for ARM SoCs.
+- [go-pretty](https://github.com/jedib0t/go-pretty) - Utilities to prettify console output of tables, lists, text, etc.
 
 ## Links
 

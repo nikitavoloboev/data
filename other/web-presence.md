@@ -110,3 +110,4 @@ These are my personal profiles on various websites sorted by categories.
 - [Merveilles Profile](https://merveilles.town/@nikivi) - My profile on Merveilles Mastodon instance.
 - [Gumroad](https://gumroad.com/nikitavoloboev)
 - [Leanpub](https://leanpub.com/u/nikitavoloboev)
+- [Things Network](https://www.thethingsnetwork.org/u/nikitavoloboev)

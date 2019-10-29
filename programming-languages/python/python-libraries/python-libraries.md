@@ -50,3 +50,4 @@
 - [heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
 - [sorcery](https://github.com/alexmojaki/sorcery) - Dark magic delights in Python.
 - [sktime](https://github.com/alan-turing-institute/sktime) - scikit-learn compatible Python toolbox for learning with time series and panel data.
+- [Incremental](https://github.com/twisted/incremental) - Library for versioning your Python projects.
