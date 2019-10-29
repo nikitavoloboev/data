@@ -12,3 +12,4 @@
 - [Some IHaskell notebooks, provisioned using Nix](https://github.com/vaibhavsagar/notebooks)
 - [ipycanvas: A Python Canvas for Jupyter (2019)](https://blog.jupyter.org/ipycanvas-a-python-canvas-for-jupyter-bbb51e4777f7)
 - [nbviewer](https://nbviewer.jupyter.org/) - Simple way to share Jupyter Notebooks.
+- [JupyterLab](https://github.com/jupyterlab/jupyterlab) - Extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture.

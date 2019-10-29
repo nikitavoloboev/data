@@ -11,3 +11,4 @@
 - [webpack autoconf](https://createapp.dev/) - Tool to create personalized and optimized webpack.config.js
 - [Awesome Webpack Perf](https://github.com/iamakulov/awesome-webpack-perf#readme) - Curated list of webpack tools and plugins that help make the web faster.
 - [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/)
+- [Webpack Summary](https://github.com/fabiospampinato/webpack-summary) - Webpack plugin for displaying a short summary at the end of the build process.
