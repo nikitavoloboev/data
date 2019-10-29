@@ -5,6 +5,7 @@
 - [Google Drive](https://github.com/prasmussen/gdrive)
 - [GitHub](https://developer.github.com/v3/)
 - [tweetlord](https://github.com/snovvcrash/tweetlord) - Twitter profile dumper (downloader) with authorization swapping.
+- [Hacker News](https://github.com/HackerNews/API)
 
 ## Links
 

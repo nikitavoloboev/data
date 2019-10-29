@@ -16,6 +16,7 @@
 - [React Navigation Hooks](https://github.com/react-navigation/hooks) - React hooks for convenient react-navigation use.
 - [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [Hooks.Guide](https://github.com/Raathigesh/hooks.guide) - Collection of React hooks curated by the community.
+- [SWR](https://github.com/zeit/swr) - React Hooks library for remote data fetching.
 
 ## Links
 

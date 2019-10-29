@@ -5,8 +5,10 @@ Some simple rules to follow when doing things.
 ## Life
 
 - Set [goals](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Execute.
-- Don't waste time. Build [ideas](../ideas/ideas.md). Learn. Experiment. Take risks. Ask questions.
-- [Share](../sharing/sharing.md). [Write](../writing/writing.md). Be honest.
+- Don't waste time. Build [ideas](../ideas/ideas.md).
+- Focus. One task at a time.
+- Learn. Experiment. Take risks. Ask questions. Document.
+- [Share](../sharing/sharing.md). [Write](../writing/writing.md). Be honest & clear.
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
 - Use only what's needed. If something doesn't provide any value, get rid of it. Cut out noise (analytics, likes..).
 - Value time. Filter input. Maximize impact.
