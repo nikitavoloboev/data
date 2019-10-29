@@ -46,3 +46,5 @@
 - [Rasa](https://github.com/RasaHQ/rasa) - Open source machine learning framework to automate text-and voice-based conversations.
 - [T5](https://github.com/google-research/text-to-text-transfer-transformer) - Text-To-Text Transfer Transformer.
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers#readme)
+- [Awesome NLP](https://github.com/keon/awesome-nlp#readme)
+- [NLP Library](https://github.com/mihail911/nlp-library#readme) - Curated collection of papers for the NLP practitioner.

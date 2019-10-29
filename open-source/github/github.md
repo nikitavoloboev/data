@@ -1,6 +1,6 @@
 # [GitHub](https://github.com)
 
-I 💚 GitHub. It is one of the best communities out there that exists with so many different projects and ideas being worked on at any given time.
+I ♥️️ GitHub. It is one of the best communities out there that exists with so many different projects and ideas being worked on at any given time.
 
 I publish most of my work and make it open source for other people to use and reuse.
 

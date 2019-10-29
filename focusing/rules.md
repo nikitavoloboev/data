@@ -164,6 +164,7 @@
 - Add appropriate topics to each repo (languages used, problem space, ..)
 - Use relative links instead of hard wired links (ie `../issues/` refers to issues of repo).
 - Don't append `#readme` to GitHub repos that are not curated lists or simple readmes.
+- Have same README & CONTRIBUTING file structure across all my repos.
 
 ## README
 
