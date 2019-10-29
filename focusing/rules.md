@@ -46,7 +46,7 @@
 - Use one screen on mac. It's easier to context switch and keep focus.
 - Don't listen to distracting music or sounds when focusing. Use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) and listen to Rain, Fire or similar sounds. Or play a song from [Focus playlist](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5?si=KhAd2yhvRSGOADmRObkM7w). Or have nothing playing at all.
 - Use noise canceling headphones to minimize distractions.
-- Only have essential notifications setup. Be in Do Not Disturb mode by default.
+- Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Take mindfulness breaks and breathe when distracted. Or exercise.
 - Create and consume art. Meet people. Be inspired. Reuse work & ideas.
 - Make decisions based on data/experience. Be decisive, bold & right. Collect meaningful experiences & data points for problems I am solving.

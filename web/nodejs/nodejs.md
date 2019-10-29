@@ -42,3 +42,4 @@
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
 - [TaskBotJS](https://github.com/eropple/taskbotjs) - Best JavaScript/TypeScript job processing framework on the planet.
 - [Verdaccio](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
+- [Node Serialport](https://github.com/serialport/node-serialport) - Access serial ports with JavaScript. Linux, OSX and Windows.
