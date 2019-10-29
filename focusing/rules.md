@@ -42,7 +42,7 @@
 - When **focusing**, do the task at hand and nothing else. [Break problems down](../research/solving-problems.md). Solve them.
 - Be mindful of my habits and temptations. Don't succumb to them and keep my focus. Do things with purpose.
 - Do quick exercise bursts during the day to regain focus. Move around & explore new environments for inspiration.
-- On weekly reviews, observe time I spent in Timing and restrict wasted time with [Focus](https://heyfocus.com).
+- On monthly reviews, observe time I spent in Timing and restrict wasted time with [Focus](https://heyfocus.com).
 - Use one screen on mac. It's easier to context switch and keep focus.
 - Don't listen to distracting music or sounds when focusing. Use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) and listen to Rain, Fire or similar sounds. Or play a song from [Focus playlist](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5?si=KhAd2yhvRSGOADmRObkM7w). Or have nothing playing at all.
 - Use noise canceling headphones to minimize distractions.
@@ -164,7 +164,7 @@
 - Add appropriate topics to each repo (languages used, problem space, ..)
 - Use relative links instead of hard wired links (ie `../issues/` refers to issues of repo).
 - Don't append `#readme` to GitHub repos that are not curated lists or simple readmes.
-- Have same README & CONTRIBUTING file structure across all my repos.
+- Have same README & CONTRIBUTING content structure across all my repos.
 
 ## README
 
