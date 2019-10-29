@@ -1,12 +1,12 @@
 ---
-name: Feature request 💡
+name: Feature request ✨
 about: Suggest a new idea for the project
 
 ---
 
 <!-- Please search existing issues to avoid creating duplicates. -->
 
-## Feature Summary 💡
+## Feature Summary ✨
 <!-- A clear and concise description of the feature proposal. -->
 
 

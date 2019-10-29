@@ -1,7 +1,7 @@
 <!-- Thanks for submitting a pull request. Have any questions? Check out contributing docs. -->
 
 ## Summary
-<!-- Short summary, referencing related issues: Closes #00, References #00, etc. -->
+<!-- Short summary, referencing related issues: Closes #00, Ref #00, etc. -->
 
 
 
