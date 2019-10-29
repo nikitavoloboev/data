@@ -23,3 +23,4 @@
 - [Flecs](https://github.com/SanderMertens/flecs) - Multithreaded Entity Component System written for C89 & C99.
 - [Marvel's Spider-Man: A Technical Postmortem (2019)](https://www.youtube.com/watch?v=KDhKyIZd3O8)
 - [Phaser](https://github.com/photonstorm/phaser) - Fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+- [Making a 3D Game in Castle (2019)](https://medium.com/castle-archives/making-a-3d-game-in-castle-da628cb7e5e5)

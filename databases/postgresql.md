@@ -33,3 +33,4 @@
 - [Postgres Schema Design](https://www.graphile.org/postgraphile/postgresql-schema-design/)
 - [PostgreSQL for Beginners book](https://postgrespro.com/education/books/introbook) - Intended for those who only start getting acquainted with the world of PostgreSQL.
 - [PostgreSQL Notes](https://github.com/poudel/notes/blob/master/notes/postgresql.org)
+- [pg_flame](https://github.com/mgartner/pg_flame) - Flamegraph generator for Postgres EXPLAIN ANALYZE output.

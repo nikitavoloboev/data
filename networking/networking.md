@@ -44,3 +44,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli support.
 - [SCION Internet Architecture](https://github.com/scionproto/scion)
 - [Everything curl - the book](https://curl.haxx.se/book.html)
+- [Seastar](https://github.com/scylladb/seastar) - High performance server-side application framework.
