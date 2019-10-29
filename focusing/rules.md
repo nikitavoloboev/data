@@ -1,7 +1,5 @@
 # Rules
 
-Some simple rules to follow when doing things.
-
 ## Life
 
 - Set [goals](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Execute.
@@ -12,7 +10,7 @@ Some simple rules to follow when doing things.
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
 - Use only what's needed. If something doesn't provide any value, get rid of it. Cut out noise (analytics, likes..).
 - Value time. Filter input. Maximize impact.
-- Learn from mistakes. When things fail, learn from it and move on. Let past go.
+- Learn from mistakes. When things fail, learn from it and move forward.
 - Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.
@@ -20,6 +18,7 @@ Some simple rules to follow when doing things.
 - Don't judge anyone. Attempt to see another person's point of view.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions.
 - Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Move fast.
+- Don't stay in bed. Wake up fast and start the day. Keep good posture.
 - Build & enforce [good habits](habits.md).
 - Adjust these rules and [my workflow](../sharing/my-workflow.md) to match what I learned.
 - Follow these rules. [Take it easy](../life/happiness.md). You only live now.

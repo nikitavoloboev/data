@@ -37,3 +37,4 @@ I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob
 - [Karabiner Elements profile switcher (Alfred Workflow)](https://github.com/awinecki/karabiner-elements-profile-switcher)
 - [All about macOS event observation (2019)](https://docs.google.com/presentation/d/1nEaiPUduh1vjks0rDVRTcJaEULbSWWh1tVdG2HF_XSU/edit#slide=id.g5b38b1767c_0_2)
 - [Customize Karabiner With Goku (2019)](https://johnlindquist.com/customize-karabiner-with-goku)
+- [Karabiner Elements Keycodes](https://github.com/aerobounce/karabiner-elements-keycodes)

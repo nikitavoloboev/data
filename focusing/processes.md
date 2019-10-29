@@ -1,7 +1,5 @@
 # Processes
 
-Some simple processes to follow when doing things.
-
 ## Learn
 
 1. Read about topic in wiki or Google it & read. Have mental map of how it connects to other topics.
