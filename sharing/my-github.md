@@ -47,5 +47,5 @@ The number between brackets shows the year I created the repo in. Repos with ðŸŒ
 ## Practice
 
 - [Build to learn (2019)](https://github.com/nikitavoloboev/build-to-learn) - Attempts at building things for deeper understanding/practice.
-- [Euler (2017)](https://github.com/nikitavoloboev/euler) - Solutions to Project Euler in Go/Python.
-- [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions to LeetCode in Go/Python.
+- [Euler (2017)](https://github.com/nikitavoloboev/euler) - Solutions to Project Euler.
+- [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions to LeetCode.
