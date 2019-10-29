@@ -18,3 +18,4 @@
 - [xcbeautify](https://github.com/thii/xcbeautify) - Little beautifier tool for xcodebuild.
 - [Tulsi](https://github.com/bazelbuild/tulsi) - Xcode Project Generator For Bazel.
 - [xcdiff](https://github.com/bloomberg/xcdiff) - Tool which helps you diff xcodeproj files.
+- [LSUnusedResources](https://github.com/tinymind/LSUnusedResources) - Mac App to find unused images and resources in XCode project.

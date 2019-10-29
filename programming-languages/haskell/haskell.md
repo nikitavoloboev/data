@@ -93,3 +93,4 @@
 - [Servant's type-level domain specific language (2019)](https://dev.to/bradparker/servant-s-type-level-domain-specific-language-52m8)
 - [Solutions to the Haskell Book exercises](https://github.com/kutyel/haskell-book)
 - [Runtime Support for Multicore Haskell](https://simonmar.github.io/bib/papers/multicore-ghc.pdf)
+- [GHC exercises](https://github.com/i-am-tom/haskell-exercises) - Little course to learn about some of the more obscure GHC extensions.

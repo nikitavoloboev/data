@@ -8,7 +8,7 @@
 - Learn. Experiment. Take risks. Ask questions. Document.
 - [Share](../sharing/sharing.md). [Write](../writing/writing.md). Be honest & clear.
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
-- Use only what's needed. If something doesn't provide any value, get rid of it. Cut out noise (analytics, likes..).
+- Use only what's needed. If something doesn't provide any value, get rid of it. Cut out noise (no analytics, likes..).
 - Value time. Filter input. Maximize impact.
 - Learn from mistakes. When things fail, learn from it and move forward.
 - Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts.
@@ -18,7 +18,7 @@
 - Don't judge anyone. Attempt to see another person's point of view.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions.
 - Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Move fast.
-- Don't stay in bed. Wake up fast and start the day. Keep good posture.
+- Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Build & enforce [good habits](habits.md).
 - Adjust these rules and [my workflow](../sharing/my-workflow.md) to match what I learned.
 - Follow these rules. [Take it easy](../life/happiness.md). You only live now.
@@ -29,7 +29,7 @@
 - Eat [whole food, plant based diet](../health/nutrition/nutrition.md).
 - Drink lots of water & tea. Limit coffee consumption (1 cup / day max). No added sugar in drinks/food.
 - [Sleep](../sleep/sleep.md) at least 8 hours every day. Don't limit sleep, ever. Try go to sleep at same time.
-- Always have good posture. Sit properly and upright, don't bend my back/spine.
+- Always have straight posture. Sit properly and upright, don't bend my back/spine.
 - Take [essentials daily supplements](../health/nutrition/supplements.md) as well as [daily food mix](../health/nutrition/foods.md).
 - Everything in moderation. Avoid alcohol and any damaging drugs (like opiates). Health above all.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. Clean up.
