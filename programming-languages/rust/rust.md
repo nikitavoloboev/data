@@ -93,3 +93,4 @@
 - [How to not rewrite it in Rust (2019)](http://adventures.michaelfbryan.com/posts/how-not-to-riir/) ([HN](https://news.ycombinator.com/item?id=21334510))
 - [Guide to Rustc Development](https://rust-lang.github.io/rustc-guide/about-this-guide.html)
 - [Corrode](https://github.com/jameysharp/corrode) - Automatic semantics-preserving translation from C to Rust.
+- [Ferrous Systems](https://ferrous-systems.com/) - Provide consulting and made-to-measure solutions based on our expertise in Rust programming.

@@ -48,3 +48,4 @@
 - [Pyinstrument](https://github.com/joerick/pyinstrument) - Call stack profiler for Python. Shows you why your code is slow.
 - [reloading](https://github.com/julvo/reloading) - Python utility to reload a loop body from source on each iteration without losing state.
 - [Static Analysis at Scale: An Instagram Story (2019)](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
+- [Python Type Checking course](https://realpython.com/courses/python-type-checking/)

@@ -66,6 +66,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Nicholas Stathopoulos](http://www.nickstath.com/)
 - [Phil Dragash](https://www.phildragash.com/)
 - [Ivan Aivazovsky](https://www.wikiart.org/en/ivan-aivazovsky)
+- [Reuben Wu](https://www.instagram.com/itsreuben/)
 
 ## Interesting art
 
@@ -93,7 +94,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Thomas Heaton](https://www.instagram.com/heatonthomas/)
 - [Michal Pelka](https://www.instagram.com/michalpelka/) - Beautiful photos of waves.
 - [Tobias van Schneider](https://unsplash.com/@vanschneider/)
-- [Artem Sapegin](https://morning.photos/albums)
+- [Artem Sapegin](https://unsplash.com/@sapegin)
 - [Annie Spratt](https://www.instagram.com/anniespratt/)
 - [André Josselin](https://www.instagram.com/josselin/?hl=en)
 - [Kenneth Reitz](https://500px.com/kennethreitz)

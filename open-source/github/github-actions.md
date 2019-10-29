@@ -3,6 +3,13 @@
 ## Other
 
 - [Deploy Now](https://github.com/primer/deploy) - Deploy to Now from GitHub Actions with useful aliases.
+- [Upload to Release](https://github.com/JasonEtco/upload-to-release) - GitHub Action that uploads a file to a new release.
+
+## Rust
+
+- [Rust cargo Action](https://github.com/actions-rs/cargo) - Runs specified cargo command on a Rust language project.
+- [rust-toolchain Action](https://github.com/actions-rs/toolchain) - GitHub Action for `rustup toolchain` commands.
+- [GitHub Actions for Rust language](https://github.com/actions-rs/meta) - Recipes, discussions, questions and ideas.
 
 ## Links
 
