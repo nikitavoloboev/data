@@ -8,3 +8,7 @@
 ## React
 
 - [Component Driven](https://component-driven.io/)
+
+## Other
+
+- [feenk](https://feenk.com/) - Reshape the Development eXperience to make your systems explainable.

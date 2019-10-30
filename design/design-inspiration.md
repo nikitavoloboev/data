@@ -142,6 +142,7 @@ Here are few more things I liked, design wise.
 - [Jay W Petacat](https://jayschwa.net/)
 - [Lizzie](https://lizziesalita.com/)
 - [Rasmus Andersson](https://rsms.me/)
+- [Sean Stewart](https://spsillustration.com)
 
 ## Analog
 

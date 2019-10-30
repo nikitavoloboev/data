@@ -21,3 +21,4 @@
 - [A Tour of Scala 3 - Martin Odersky (2019)](https://www.youtube.com/watch?v=_Rnrx2lo9cw)
 - [How to become excellent Scala FP](https://twitter.com/jdegoes/status/1095416683571728384)
 - [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala)
+- [Extreme Cleverness: Functional Data Structures in Scala - Daniel Spiewak (2013)](https://www.youtube.com/watch?v=pNhBQJN44YQ)
