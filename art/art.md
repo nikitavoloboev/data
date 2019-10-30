@@ -103,6 +103,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Ian Battaglia](https://unsplash.com/@ianjbattaglia)
 - [Devine Lu Linvega](https://wiki.xxiivv.com/#photography)
 - [Henri Prestes](https://henriprestesp.com/)
+- [Oystein Aspelund](http://oysteinaspelund.com/)
 
 ## Notes
 
