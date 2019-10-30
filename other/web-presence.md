@@ -45,6 +45,7 @@ These are my personal profiles on various websites sorted by categories.
 ## Writing
 
 - [Medium](https://medium.com/@nikitavoloboev) - My personal blog.
+- [DEV](https://dev.to/nikitavoloboev)
 
 ## Social
 

@@ -21,3 +21,4 @@
 - [SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [Bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python.
 - [In praise of scatter plots (2019)](https://johnwickerson.wordpress.com/2019/10/22/scatter-plots/)
+- [Perspective](https://github.com/finos/perspective/) - Streaming pivot visualization via WebAssembly.

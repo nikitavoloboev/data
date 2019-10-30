@@ -14,3 +14,4 @@
 - [Fullstack D3 book](https://www.newline.co/fullstack-d3) - Complete guide to D3.
 - [Awesome D3](https://github.com/wbkd/awesome-d3#readme)
 - [REAVIZ](https://github.com/jask-oss/reaviz) - Data visualization library for React based on D3.
+- [d3fc](https://github.com/d3fc/d3fc) - Collection of components that make it easy to build interactive charts with D3.
