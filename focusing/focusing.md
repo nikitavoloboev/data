@@ -14,11 +14,11 @@ For example, one of these _rules_ is that I need to be proactive with my email a
 
 I keep a private Trello board where I outline things that I want to focus on in life and achieve.
 
-![](https://i.imgur.com/pZYKbUM.png)
+![](https://i.imgur.com/txIbwZY.png)
 
 I mark the projects and goals I want to focus on right now, and by pressing `Q` in Trello I only see these cards on the board.
 
-![](https://i.imgur.com/pmbGQpD.png)
+![](https://i.imgur.com/cvTdVal.png)
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
 
@@ -26,7 +26,7 @@ I try to have a completely event driven workflow as I schedule events in my cale
 
 I use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week/monthly reviews & plans which I often do in the evenings of particular days.
 
-![](https://i.imgur.com/zKFALY3.png)
+![](https://i.imgur.com/NmrCwqo.png)
 
 I find this goal centric approach to be incredibly useful as it lets me focus on making sure I do everything I need to achieve the goals I have set for myself. Making sure I limit the number of projects I am working on at any given time lets me actually deeply focus on them instead of being scattered around wondering if I am working on the right thing in the moment.
 
@@ -43,13 +43,13 @@ Only on breaks can I visit these websites. I also get 20 minutes of optional bre
 The things I work on are events I have set in [Fantastical](../macOS/apps/fantastical.md). The events can be meetings or projects I have set. Some common events include:
 
 - 2Do (☑️) - I open [2Do](../macOS/apps/2do.md) and work through the most prioritized tasks for `Today` or `Starred`.
-- Ideas (💡) - I pick an idea from [Trello](https://trello.com/b/alB1ryRP) and make it.
+- Ideas (✨) - I pick an idea from [Trello](https://trello.com/b/alB1ryRP) and make it.
 - OSS (💻) - I work through 2Do tasks with `pr` tag or work on open issues/prs I have on GitHub.
 - Learn (📖) - I learn a topic from one of the currently active topics on [Trello](https://trello.com/b/cu32qF3q).
 
 At the end of the 80 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 80 min period.
 
-![](https://i.imgur.com/iNHErT3.jpg)
+![](https://i.imgur.com/AXMBm3C.png)
 
 The projects are a reflection of my Focus Trello board.
 

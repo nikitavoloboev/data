@@ -25,14 +25,14 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Fugitive](https://github.com/tpope/vim-fugitive) - Git wrapper.
 - [Signify](https://github.com/mhinz/vim-signify) - Show a diff using Vim its sign column.
 
+## Nix
+
+- [Nix](https://github.com/LnL7/vim-nix) - Vim configuration files for Nix.
+
 ## Looks
 
 - [Monokai Night theme](https://github.com/nikitavoloboev/vim-monokai-night#readme)
 - [Lightline](https://github.com/itchyny/lightline.vim) - Light and configurable statusline/tabline.
-
-## Nix
-
-- [Nix](https://github.com/LnL7/vim-nix) - Vim configuration files for Nix.
 
 # Interesting (not using)
 

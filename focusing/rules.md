@@ -5,7 +5,7 @@
 - Set [goals](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Execute.
 - Don't waste time. Build [ideas](../ideas/ideas.md).
 - Focus. One task at a time.
-- Learn. Experiment. Take risks. Ask questions. Document.
+- Learn. Experiment. Take risks. [Ask questions](../research/asking-questions.md). Document.
 - [Share](../sharing/sharing.md). [Write](../writing/writing.md). Be honest & clear.
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
 - Use only what's needed. If something doesn't provide any value, get rid of it. Cut out noise (no analytics, likes..).
@@ -67,12 +67,9 @@
 
 ## Learn
 
-- Always learn new things but be purposeful. Dig deep into fundamentals of whatever problem I want to solve.
+- Always learn new things but be purposeful. Dig deep into [fundamentals](https://medium.com/@nikitavoloboev/the-root-of-it-all-9b6ab6a77e1d) of whatever problem I want to solve.
 - Document everything. Don't repeat things. Link instead.
-- Ask questions. Don't be afraid of not knowing something and [ask for help](../research/asking-questions.md).
 - There are no dumb questions. Do some research first though.
-- Go deep. Specialize. Be great at some thing and branch out.
-- Learn [fundamentals first](https://medium.com/@nikitavoloboev/the-root-of-it-all-9b6ab6a77e1d).
 - [Build things from scratch](https://github.com/nikitavoloboev/build-to-learn) to understand. Minimal version that works.
 - Draw or sketch to distill complex ideas. Think through problems together. Discuss.
 - Watch videos at 2x speed, unless it hurts comprehension or it's entertainment.
@@ -190,7 +187,8 @@
 
 - Meet new people. Go to seminars, talks, conferences.
 - Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
-- Use same profile picture & cover photo across all social networks & websites. Don't change it.
+- Use [same profile picture](https://avatars0.githubusercontent.com/u/6391776?v=4) & [cover photo](https://pbs.twimg.com/profile_banners/1469451499/1572262491/1500x500) across all profiles. Don't change it.
+- Same applies for sites that require a face photo to be used (Meetup/AirBnb). Use same [face photo](https://a0.muscache.com/im/pictures/user/52d8366f-9720-4307-851a-230d8e600203.jpg?aki_policy=profile_large). Don't change it.
 
 ## Alfred
 
