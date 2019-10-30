@@ -51,3 +51,4 @@
 - [sorcery](https://github.com/alexmojaki/sorcery) - Dark magic delights in Python.
 - [sktime](https://github.com/alan-turing-institute/sktime) - scikit-learn compatible Python toolbox for learning with time series and panel data.
 - [Incremental](https://github.com/twisted/incremental) - Library for versioning your Python projects.
+- [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python.

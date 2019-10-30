@@ -122,6 +122,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Firebase CLI](https://github.com/firebase/firebase-tools)
 - [Transform](https://transform.tools/) - Polyglot web converter.
 - [Simple Scraper](https://simplescraper.io/) - Extract data from any website in seconds.
+- [Zulip Chat](https://zulipchat.com/) - Combines the immediacy of real-time chat with an email threading model. ([OSS](https://github.com/zulip/zulip/))
 
 ## Notes
 

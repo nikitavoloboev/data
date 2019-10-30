@@ -110,3 +110,4 @@
 - [debug](https://github.com/visionmedia/debug) - Tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers.
 - [roughViz.js](https://github.com/jwilber/roughViz) - Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 - [Mitt](https://github.com/developit/mitt) - Tiny 200 byte functional event emitter / pubsub.
+- [RequireJS](https://github.com/requirejs/requirejs) - File and module loader for JavaScript.
