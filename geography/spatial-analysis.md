@@ -12,3 +12,4 @@
 - [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data.
 - [Tools I recommend for building Geospatial Web Applications (2019)](https://medium.com/swlh/tools-i-recommend-for-building-geospatial-web-applications-274d6939536c)
 - [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
+- [Awesome implementations of the Mapbox Vector Tile specification](https://github.com/mapbox/awesome-vector-tiles#readme)
