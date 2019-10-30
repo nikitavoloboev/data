@@ -25,3 +25,4 @@
 - [Mark Zuckerberg & Yuval Noah Harari in Conversation (2019)](https://www.youtube.com/watch?v=Boj9eD0Wug8)
 - [Bill Gates on Startups, Investing and Solving The World's Hardest Problems (2019)](https://www.youtube.com/watch?v=W5g4sPi1wd4) ([HN](https://news.ycombinator.com/item?id=20251642))
 - [Ask HN: What's a promising area to work on? (2019)](https://news.ycombinator.com/item?id=21324768)
+- [UCLA Internet50 (2019)](https://www.youtube.com/watch?v=oqZmQhhd27o&feature=youtu.be&t=24728)

@@ -13,3 +13,4 @@
 - [Resources for the Venture Capital Industry](https://www.arnaudbonzom.com/resources-for-the-venture-capital-industry/)
 - [GV](https://www.gv.com/) - Backs founders who transform industries and create new ones.
 - [Village Global](https://www.villageglobal.vc/) - Early-stage venture capital firm backed by some of the world’s most successful entrepreneurs.
+- [Founders Fund](https://foundersfund.com/)
