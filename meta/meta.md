@@ -2,7 +2,7 @@
 
 Below you will find all the notes I made. I continuously update them and I use them myself for my own reference. I try to write things and structure them so everyone can benefit from reading them or even reference what I know easily and quickly.
 
-Each folder is a topic that can include other topics under it related to the parent topic.
+Each folder is a [topic that can include other topics](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) under it related to the parent topic.
 
 If this is your first time visiting this wiki, you can just start reading from the top entry down and see what sparks your interest.
 

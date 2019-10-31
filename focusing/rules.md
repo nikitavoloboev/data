@@ -10,7 +10,7 @@
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
 - Use only what's needed. If something doesn't provide any value, get rid of it. Cut out noise (no analytics, likes..).
 - Value time. Filter input. Maximize impact.
-- Learn from mistakes. When things fail, learn from it and move forward.
+- Learn from mistakes. Reflect. Journal. Move forward.
 - Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.
