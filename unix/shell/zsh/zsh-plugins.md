@@ -21,7 +21,7 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 
 - [ZSH Completions for Nix and NixOS](https://github.com/spwhitt/nix-zsh-completions) - ZSH Completions for Nix.
 
-# Interesting (not using)
+## Interesting (not using)
 
 ## Utility
 

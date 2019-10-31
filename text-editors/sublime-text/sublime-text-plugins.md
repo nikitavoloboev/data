@@ -30,7 +30,7 @@ Below is a list of plugins I use.
 - [Ayu theme](https://github.com/dempfi/ayu)
 - [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons.
 
-# Interesting (not using)
+## Interesting (not using)
 
 ## Utility
 

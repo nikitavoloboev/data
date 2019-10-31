@@ -55,7 +55,7 @@ Below is a list of extensions I use.
 
 - [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-night#readme)
 
-# Interesting (not using)
+## Interesting (not using)
 
 ## Utility
 
