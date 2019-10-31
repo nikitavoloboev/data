@@ -113,3 +113,4 @@ These are my personal profiles on various websites sorted by categories.
 - [Things Network](https://www.thethingsnetwork.org/u/nikitavoloboev)
 - [Open Collective](https://opencollective.com/nikitavoloboev)
 - [TikTok](https://www.tiktok.com/@nikitavoloboev)
+- [KinoPoisk](https://www.kinopoisk.ru/user/6272121/)

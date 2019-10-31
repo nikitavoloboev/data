@@ -15,3 +15,4 @@
 - [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia/)
 - [Quantitative Economics with Julia course (2019)](https://julia.quantecon.org/)
 - [JuliaDiff](https://www.juliadiff.org/) - Differentiation tools in Julia.
+- [Simon Danisch - Julia - A Compiler for the Future (2019)](https://www.youtube.com/watch?v=DCs0_T9BRp0)
