@@ -13,3 +13,4 @@
 - [Hiring is Broken: What Do Developers Say About Technical Interviews? (2019)](https://www.researchgate.net/publication/334448588_Hiring_is_Broken_What_Do_Developers_Say_About_Technical_Interviews) ([HN](https://news.ycombinator.com/item?id=20708026))
 - [How to Hire Junior Developers (2019)](http://ryanbigg.com/2019/09/hiring-juniors-2019)
 - [Workable](https://www.workable.com/) - World’s leading hiring platform.
+- [Hiring for Conscientiousness (2019)](https://www.holloway.com/s/trh-hiring-for-conscientiousness)

@@ -32,6 +32,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Meetup](https://www.meetup.com/members/185347053/) - Attending various groups and meeting new interesting people and communities.
 - [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - My online CV.
 - [Facebook](https://facebook.com/nikitavoloboev) - Not used much.
+- [Spectrum](https://spectrum.chat/users/nikivi?tab=posts)
 
 ## Learn
 
