@@ -35,3 +35,7 @@
 - [Esqueleto](https://github.com/bitemyapp/esqueleto) - Bare bones, type-safe EDSL for SQL queries that works with unmodified persistent SQL backends.
 - [Selda](https://github.com/valderman/selda) - Type-safe, high-level SQL library for Haskell.
 - [Hasktorch](https://github.com/hasktorch/hasktorch) - Tensors and neural networks in Haskell.
+
+## Links
+
+- [Aelve Haskell packages search](https://codesearch.aelve.com/haskell) - Grep over package repositories.

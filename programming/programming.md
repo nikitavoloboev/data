@@ -88,3 +88,4 @@
 - [Ask HN: What is the most beautiful piece of code you've ever read? (2019)](https://news.ycombinator.com/item?id=21373852)
 - [Software Engineering for Industry](http://softengindustry.github.io/)
 - [Execute program](https://www.executeprogram.com/) - Programming lessons.
+- [Cheng Lou - Taming the Meta Language - React Conf 2017](https://www.youtube.com/watch?v=_0T5OSSzxms)
