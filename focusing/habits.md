@@ -2,7 +2,7 @@
 
 I use [Streaks](https://streaksapp.com) iOS app to track my essential life habits.
 
-![](https://i.imgur.com/kmpZl8V.jpg)
+![](https://i.imgur.com/JARxjis.jpg)
 
 The 6 habits are just a sample of more general [rules](rules.md) I want to follow in life. They are also displayed in my [Focus board](focusing.md).
 
@@ -16,9 +16,9 @@ The 6 habits are just a sample of more general [rules](rules.md) I want to follo
 
 `Cardio / Weights` is autofilled through my health data. It includes workout minutes from running/cycling & bodyweight/lifting workouts. Bodyweight/lifting is tracked with [Strong](https://strong.app) & [Streaks Workout](https://streaksworkout.com) apps. It also includes yoga (tracked with [Down Dog](https://www.downdogapp.com)).
 
-`No wasted time | Build ideas` is marked as done when I haven't spent any time unmindful & not focused on my goals & plans. Essentially it means doing things proactively rather than reactively and thus no time should be wasted no matter the distractions. Filter input, maximize output. I can check where my time was spent using tools like [Timing](../macOS/apps/timing.md).
+`No wasted time | Build/Learn` is marked as done when I spent the day mindfully working towards my goals. Building ideas, learning or writing. The time I spent is tracked with tools like [Timing](../macOS/apps/timing.md).
 
-`Focus | One task at a time` is marked as done when I haven't derailed my focus throughout the day and did what I was supposed to do at ideally all points in time throughout the day. [Solving problems](../research/solving-problems.md) & [focusing](../focusing/focusing.md) goes over strategies I use to achieve this habit.
+`Focus | One task at a time` is marked as done when I didn't get distracted from the tasks I have assigned myself to do. [No multi tasking](../research/solving-problems.md).
 
 ## Notes
 
