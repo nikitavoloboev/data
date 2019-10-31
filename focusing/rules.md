@@ -233,6 +233,7 @@
 - Yellow arrows & text is nicer to read when annotating images.
 - Don't play games on mac/iOS.
 - [Automate backups](../backups/backups.md).
+- Share images freely with [Imgur](https://imgur.com) where direct linking doesn't work.
 
 ## Trello
 
