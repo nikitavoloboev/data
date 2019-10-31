@@ -28,10 +28,10 @@
 - [Exercise](../fitness/fitness.md). 50+ min cardio/weights daily.
 - Eat [whole food, plant based diet](../health/nutrition/nutrition.md). Fast.
 - Drink lots of water & tea. Limit coffee consumption (1 cup / day max). No added sugar in drinks/food.
-- [Sleep](../sleep/sleep.md) at least 8 hours every day. Don't limit sleep, ever. Try go to sleep at same time.
+- [Sleep](../sleep/sleep.md) fully. Don't limit sleep, ever. If need to wake up early, go to sleep early. Sleep ~8 hours each day.
 - Always have straight posture. Sit properly and upright, don't bend my back/spine.
 - Take [essentials daily supplements](../health/nutrition/supplements.md) as well as [daily food mix](../health/nutrition/foods.md).
-- Everything in moderation. Avoid alcohol and any damaging drugs (like opiates). Health above all.
+- Everything in moderation. Avoid any damaging drugs (i.e. alcohol/opiates). Health above all.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. Clean up.
 
 ## Focus
@@ -101,7 +101,7 @@
 ## News
 
 - Filter consumed information. Reduce noise. Only follow high signal people & content I am interested in.
-- Separate information into two levels of quality if necessary (ie Twitter Follows/Other).
+- Separate information into two levels of quality if necessary (i.e. Twitter Follows/Other).
 - Subscribe to Atom over RSS feed if possible.
 
 ## Compassion
@@ -159,7 +159,7 @@
 ## GitHub
 
 - Add appropriate topics to each repo (languages used, problem space, ..)
-- Use relative links instead of hard wired links (ie `../issues/` refers to issues of repo).
+- Use relative links instead of hard wired links (i.e. `../issues/` refers to issues of repo).
 - Don't append `#readme` to GitHub repos that are not curated lists or simple readmes.
 - Have same README & CONTRIBUTING content structure across all my repos.
 

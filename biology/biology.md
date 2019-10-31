@@ -16,3 +16,4 @@
 - [Rob Reid - the dark side of gene editing and synthetic biology (2019)](https://overcast.fm/+RxHEOdXhc)
 - [New universe of miniproteins is upending cell biology and genetics (2019)](https://www.sciencemag.org/news/2019/10/new-universe-miniproteins-upending-cell-biology-and-genetics?rss=1) ([HN](https://news.ycombinator.com/item?id=21284770))
 - [Biology is Eating the World: A Manifesto (2019)](https://a16z.com/2019/10/28/biology-eating-world-a16z-manifesto/) ([HN](https://news.ycombinator.com/item?id=21385796))
+- [Ask HN: Getting started in biology with a software background (2019)](https://news.ycombinator.com/item?id=21408415)

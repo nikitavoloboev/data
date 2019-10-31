@@ -7,7 +7,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 ## Backup tools
 
 - [Arq](https://www.arqbackup.com/) - Automatically backs up Macs and Windows PCs.
-- [Restic](https://github.com/restic/restic) - Fast, secure, efficient backup program.
+- [Restic](https://github.com/restic/restic) - Fast, secure, efficient backup program. ([HN](https://news.ycombinator.com/item?id=21410833))
 - [BorgBackup](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
   - [Vorta Backup Client](https://github.com/borgbase/vorta) - Backup client for macOS and Linux desktops. It integrates the mighty BorgBackup with your desktop environment to protect your data from disk failure, ransomware and theft.
   - [BorgBase](https://www.borgbase.com/) - Specialized Hosting Service for BorgBackup.
