@@ -20,6 +20,19 @@ These are my personal profiles on various websites sorted by categories.
 - [Katacoda](https://www.katacoda.com/nikivi)
 - [Glitch](https://glitch.com/@nikitavoloboev)
 
+## Social
+
+- [Twitter](https://twitter.com/nikitavoloboev) - Sharing all the things I am up to right now.
+- [Reddit](https://www.reddit.com/user/nikivi/) - Frequently visiting and contributing to various subreddits I like.
+- [Lobsters](https://lobste.rs/u/nikivi) - Frequently visit and contribute to this Hacker News like community.
+- [Hacker News](https://news.ycombinator.com/user?id=nikivi) - Often share things I built there.
+- [Product Hunt](https://www.producthunt.com/@nikitavoloboev) - Share all my bigger and smaller projects I made there.
+- [Indie Hackers](https://www.indiehackers.com/user/nikivi) - Awesome community of hackers and entrepreneurs.
+- [Mastodon](https://merveilles.town/@nikivi) - Awesome federated network. Part of [Merveilles.town](https://merveilles.town/).
+- [Meetup](https://www.meetup.com/members/185347053/) - Attending various groups and meeting new interesting people and communities.
+- [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - My online CV.
+- [Facebook](https://facebook.com/nikitavoloboev) - Not used much.
+
 ## Learn
 
 - [Quora](https://www.quora.com/profile/Nikita-Voloboev) - Asking and answering questions.
@@ -47,19 +60,6 @@ These are my personal profiles on various websites sorted by categories.
 - [Medium](https://medium.com/@nikitavoloboev) - My personal blog.
 - [DEV](https://dev.to/nikitavoloboev)
 
-## Social
-
-- [Twitter](https://twitter.com/nikitavoloboev) - Sharing all the things I am up to right now.
-- [Reddit](https://www.reddit.com/user/nikivi/) - Frequently visiting and contributing to various subreddits I like.
-- [Lobsters](https://lobste.rs/u/nikivi) - Frequently visit and contribute to this Hacker News like community.
-- [Hacker News](https://news.ycombinator.com/user?id=nikivi) - Often share things I built there.
-- [Product Hunt](https://www.producthunt.com/@nikitavoloboev) - Share all my bigger and smaller projects I made there.
-- [Indie Hackers](https://www.indiehackers.com/user/nikivi) - Awesome community of hackers and entrepreneurs.
-- [Mastodon](https://merveilles.town/@nikivi) - Awesome federated network. Part of [Merveilles.town](https://merveilles.town/).
-- [Meetup](https://www.meetup.com/members/185347053/) - Attending various groups and meeting new interesting people and communities.
-- [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - My online CV.
-- [Facebook](https://facebook.com/nikitavoloboev) - Not used much.
-
 ## Photos
 
 - [Instagram](https://www.instagram.com/nikitavoloboev/) - Sharing my experiences in life with photographs and stories.
@@ -76,7 +76,8 @@ These are my personal profiles on various websites sorted by categories.
 ## Forums
 
 - [Alfred Forum](https://www.alfredforum.com/profile/10242-nikivi/) - Asking and answering questions about the amazing [Alfred](https://www.alfredapp.com/) launcher.
-- [Keyboard Maestro](https://forum.keyboardmaestro.com/u/nikivi/activity) - Asking and answering questions about Keyboard Maestro.
+- [Keyboard Maestro Forum](https://forum.keyboardmaestro.com/u/nikivi/activity) - Asking and answering questions about Keyboard Maestro.
+- [Swift Forum](https://forums.swift.org/u/nikivi/summary)
 
 ## Tracking
 
@@ -107,8 +108,6 @@ These are my personal profiles on various websites sorted by categories.
 - [DevianArt](https://nikivi.deviantart.com/)
 - [Stack Overflow CV](https://stackoverflow.com/cv/nikitavoloboev) - Not using it. Using LinkedIn.
 - [Gfycat](https://gfycat.com/@nikivi) - Sharing GIFs.
-- [AMA](https://github.com/nikitavoloboev/ama#readme) - Ask Me Anything.
-- [Merveilles Profile](https://merveilles.town/@nikivi) - My profile on Merveilles Mastodon instance.
 - [Gumroad](https://gumroad.com/nikitavoloboev)
 - [Leanpub](https://leanpub.com/u/nikitavoloboev)
 - [Things Network](https://www.thethingsnetwork.org/u/nikitavoloboev)

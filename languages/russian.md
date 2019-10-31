@@ -1,6 +1,6 @@
 # Russian language
 
-## Funny russian quotes
+## Funny quotes
 
 - Какие технологии вы будете использовать в вашем проекте?
   - На всякий случай мы решили использовать все технологии.
@@ -9,3 +9,7 @@
 ## Произношение
 
 - [Скороговорка «Лигурия»](http://mnemo.ua/blog/skorogovorka-liguriya-slozhno-zapomnit.html)
+
+## Funny
+
+- [YoptaScript](https://github.com/samgozman/YoptaScript) - Скриптовый язык программирования для гопников и реальных пацанов.

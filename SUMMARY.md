@@ -239,6 +239,7 @@
   - [Julia](programming-languages/julia/julia.md)
     - [Julia libraries](programming-languages/julia/julia-libraries.md)
   - [Elm](programming-languages/elm/elm.md)
+    - [Elm libraries](programming-languages/elm/elm-libraries.md)
   - [Dart](programming-languages/dart/dart.md)
     - [Flutter](programming-languages/dart/flutter.md)
   - [R](programming-languages/r/r.md)

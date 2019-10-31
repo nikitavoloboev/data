@@ -14,6 +14,7 @@ Here are few more things I liked, design wise.
 - [Stripe](https://stripe.com) - Incredible design. I love their docs format too.
 - [NSHipster](https://nshipster.com/) - Simple & clean blog.
 - [We Learn Code](https://welearncode.com/)
+- [Day of the dead](https://dayofthedead.holiday/)
 
 ## Designers
 
@@ -143,6 +144,7 @@ Here are few more things I liked, design wise.
 - [Lizzie](https://lizziesalita.com/)
 - [Rasmus Andersson](https://rsms.me/)
 - [Sean Stewart](https://spsillustration.com)
+- [Miuki Miu](https://www.miukimiu.com/)
 
 ## Analog
 

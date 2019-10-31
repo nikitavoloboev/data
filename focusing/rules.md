@@ -2,7 +2,7 @@
 
 ## Life
 
-- Set [goals](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Execute.
+- Set [goals](../focusing/focusing.md). [Plan events](../macOS/apps/fantastical.md). Work.
 - Don't waste time. Build [ideas](../ideas/ideas.md).
 - Focus. One task at a time.
 - Learn. Experiment. Take risks. [Ask questions](../research/asking-questions.md). Document.
@@ -17,16 +17,16 @@
 - Be consistent. Make friends with imperfection. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes) and don't fixate on the goals.
 - Don't judge anyone. Attempt to see another person's point of view.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions.
-- Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Move fast.
+- Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Move fast. Never give up.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Build & enforce [good habits](habits.md).
 - Adjust these rules and [my workflow](../sharing/my-workflow.md) to match what I learned.
-- Follow these rules. [Take it easy](../life/happiness.md). You only live now.
+- Follow these rules. Adapt. [Take it easy](../life/happiness.md). You only live now.
 
 ## Health
 
 - [Exercise](../fitness/fitness.md). 50+ min cardio/weights daily.
-- Eat [whole food, plant based diet](../health/nutrition/nutrition.md).
+- Eat [whole food, plant based diet](../health/nutrition/nutrition.md). Fast.
 - Drink lots of water & tea. Limit coffee consumption (1 cup / day max). No added sugar in drinks/food.
 - [Sleep](../sleep/sleep.md) at least 8 hours every day. Don't limit sleep, ever. Try go to sleep at same time.
 - Always have straight posture. Sit properly and upright, don't bend my back/spine.
@@ -188,7 +188,6 @@
 - Meet new people. Go to seminars, talks, conferences.
 - Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
 - Use [same profile picture](https://avatars0.githubusercontent.com/u/6391776?v=4) & [cover photo](https://pbs.twimg.com/profile_banners/1469451499/1572262491/1500x500) across all profiles. Don't change it.
-- Same applies for sites that require a face photo to be used (Meetup/AirBnb). Use same [face photo](https://a0.muscache.com/im/pictures/user/52d8366f-9720-4307-851a-230d8e600203.jpg?aki_policy=profile_large). Don't change it.
 
 ## Alfred
 
