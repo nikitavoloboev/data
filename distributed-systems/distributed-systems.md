@@ -42,3 +42,4 @@
 - [How To Build A Modern Distributed Compute Platform (2018)](https://andygrove.io/how_to_build_a_modern_distributed_compute_platform/)
 - [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
 - [Faust](https://github.com/robinhood/faust) - Python Stream Processing.
+- ["Consistency without consensus in production systems" by Peter Bourgon (2014)](https://www.youtube.com/watch?v=em9zLzM8O7c)
