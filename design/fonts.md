@@ -24,3 +24,4 @@ And I keep the default San Francisco Apple's font for all everything else.
 - [Guide to Only the Best Open-Source Typefaces](https://beautifulwebtype.com/)
 - [Inter typeface family](https://rsms.me/inter/)
 - [Google Noto Fonts](https://www.google.com/get/noto/)
+- [The sad state of font rendering on Linux (2018)](https://pandasauce.org/post/linux-fonts/)

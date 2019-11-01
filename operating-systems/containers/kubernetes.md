@@ -107,3 +107,4 @@
 - [kuberNix](https://github.com/saschagrunert/kubernix) - Kubernetes development cluster bootstrapping with Nix packages.
 - [Autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes.
 - [Appsody](https://appsody.dev/) - Provides everything you need to iteratively develop applications, ready for deployment to Kubernetes environments.
+- [Gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push.

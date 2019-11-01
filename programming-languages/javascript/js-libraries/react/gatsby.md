@@ -34,3 +34,4 @@
 - [Gatsby and GraphQL: Today and the Future — Kyle Matthews @ GraphQL Conf 2019](https://www.youtube.com/watch?v=hXGziTHNTKY)
 - [Gatsby ThemeJam Showcase](https://themejam.gatsbyjs.org/showcase)
 - [Gatsby RFCs](https://github.com/gatsbyjs/rfcs)
+- [Gatsby with GraphQL & Hasura](https://github.com/hasura/graphql-engine/wiki/Gatsby-with-GraphQL-&-Hasura)

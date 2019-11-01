@@ -115,3 +115,4 @@ These are my personal profiles on various websites sorted by categories.
 - [Open Collective](https://opencollective.com/nikitavoloboev)
 - [TikTok](https://www.tiktok.com/@nikitavoloboev)
 - [KinoPoisk](https://www.kinopoisk.ru/user/6272121/)
+- [Deedmob](https://www.deedmob.com/users/3046665)
