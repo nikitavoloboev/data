@@ -26,5 +26,6 @@ I also made two more macros to support my week & month reflections.
 
 The 7 day reflection also opens this journal entry. It's just nice to make data driven analysis rather than relying on pure memory. Need to be more actionable with data I do collect. And especially need to be more actionable in how I spend my time. I have found my existing workflow I have to work well. Just misses a few tools to fill the rough edges like ability to search through my Pocket list from Alfred.
 
+## Timing
 
-
+![](https://i.imgur.com/JUFhlaD.png)

@@ -62,3 +62,4 @@
 - [Elegant SciPy book](https://github.com/elegant-scipy/elegant-scipy)
 - [Data science blogs](https://github.com/rushter/data-science-blogs#readme)
 - [Awesome Data Science](https://github.com/academic/awesome-datascience#readme)
+- [Things About Real-World Data Science Not Discussed In MOOCs and Thought Pieces (2019)](https://minimaxir.com/2018/10/data-science-protips/)
