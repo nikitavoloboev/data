@@ -14,3 +14,4 @@
 - [GV](https://www.gv.com/) - Backs founders who transform industries and create new ones.
 - [Village Global](https://www.villageglobal.vc/) - Early-stage venture capital firm backed by some of the world’s most successful entrepreneurs.
 - [Founders Fund](https://foundersfund.com/)
+- [Tiny Capital](https://www.tinycapital.com/) - We start, buy, and invest in wonderful internet businesses.
