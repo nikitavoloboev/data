@@ -15,6 +15,10 @@
 - [gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
 - [go-arg](https://github.com/alexflint/go-arg) - Structured argument parsing for Go.
 
+## Testing
+
+- [go-cmp](https://github.com/google/go-cmp) - Package for equality of Go values.
+
 ## Web
 
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.

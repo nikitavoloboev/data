@@ -9,6 +9,10 @@
 
 - [Component Driven](https://component-driven.io/)
 
+## Rust
+
+- [Asquera](https://asquera.de/) - Specialise on the things below the covers: databases, queues, caches, APIs and the tiny details that make them all work together.
+
 ## Other
 
 - [Monadfix](https://monadfix.com/) - Work with Haskell, PureScript, and Agda.

@@ -134,3 +134,4 @@
 - [ML portfolio tips (2019)](https://twitter.com/EmilWallner/status/1184723538810413056)
 - [DeepMind Research](https://github.com/deepmind/deepmind-research) - Contains implementations and illustrative code to accompany DeepMind publications.
 - [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials)
+- [Prodify](https://prodi.gy/) - Radically efficient machine teaching. An annotation tool powered by active learning.
