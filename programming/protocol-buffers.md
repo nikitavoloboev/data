@@ -7,7 +7,6 @@
 - [Gunk](https://github.com/gunk/gunk) - Modern frontend and syntax for Protocol Buffers.
 - [protoc-gen-validate](https://github.com/lyft/protoc-gen-validate) - Protoc plugin to generate polyglot message validators.
 - [protoc-gen-star](https://github.com/lyft/protoc-gen-star) - Protoc plugin library for efficient proto-based code generation.
-- [Swift gRPC](https://github.com/grpc/grpc-swift) - Swift language implementation of gRPC.
 - [rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers.
 - [Piqi](http://piqi.org/) - Universal schema language and a collection of tools built around it.
 - [Protocol Buffers implementation in C](https://github.com/protobuf-c/protobuf-c)

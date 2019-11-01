@@ -133,6 +133,11 @@
 - Minimize distractions in text editor.
 - Comment over unclear code. Be as descriptive as necessary.
 
+## OSS
+
+- Only merge PRs that are of quality & within project scope. Includes code & [curated lists](https://github.com/learn-anything/curated-lists).
+- Give friendly explanation of why the change was rejected.
+
 ## Design
 
 - Minimize decision making done by users. Good design leads.

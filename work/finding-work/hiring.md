@@ -14,3 +14,4 @@
 - [How to Hire Junior Developers (2019)](http://ryanbigg.com/2019/09/hiring-juniors-2019)
 - [Workable](https://www.workable.com/) - World’s leading hiring platform.
 - [Hiring for Conscientiousness (2019)](https://www.holloway.com/s/trh-hiring-for-conscientiousness)
+- [Lever](https://www.lever.co/) - Recruiting Software Built for Hiring Success.
