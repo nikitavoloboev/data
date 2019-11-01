@@ -53,6 +53,7 @@
 - [react-diagrams](https://github.com/projectstorm/react-diagrams) - Super simple, no-nonsense diagramming library written in react that just works.
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
 - [react-day-picker](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
+- [react-a11y-dialog](https://github.com/HugoGiraudel/react-a11y-dialog) - React component for a11y-dialog relying on React portals to ease the use of accessible dialog windows in React applications.
 
 ## Links
 
