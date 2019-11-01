@@ -51,3 +51,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [The Linux Programming Interface book (2010)](http://man7.org/tlpi/)
 - [Karabinux](https://github.com/acheronfail/karabinux) - Attempt to port (as much as possible) the functionality of Karabiner Elements to Linux.
 - [syzkaller](https://github.com/google/syzkaller) - Unsupervised coverage-guided kernel fuzzer.
+- [What's the best approach to learn Linux and its internals? (2019)](https://lobste.rs/s/8qhpaa/what_s_best_approach_learn_linux_its)
