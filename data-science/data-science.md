@@ -60,3 +60,5 @@
 - [Amazon Data Science Interview (2018)](https://medium.com/acing-ai/amazon-ai-interview-questions-acing-the-ai-interview-3ed4e671920f)
 - [Data Analysis and Prediction Algorithms with R (2019)](https://rafalab.github.io/dsbook/)
 - [Elegant SciPy book](https://github.com/elegant-scipy/elegant-scipy)
+- [Data science blogs](https://github.com/rushter/data-science-blogs#readme)
+- [Awesome Data Science](https://github.com/academic/awesome-datascience#readme)

@@ -94,3 +94,4 @@
 - [Guide to Rustc Development](https://rust-lang.github.io/rustc-guide/about-this-guide.html)
 - [Corrode](https://github.com/jameysharp/corrode) - Automatic semantics-preserving translation from C to Rust.
 - [Ferrous Systems](https://ferrous-systems.com/) - Provide consulting and made-to-measure solutions based on our expertise in Rust programming.
+- [Rust for C++ developers - What you need to know to get rolling with crates - Pavel Yosifovich (2019)](https://www.youtube.com/watch?v=k7nAtrwPhR8)
