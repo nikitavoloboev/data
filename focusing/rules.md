@@ -44,7 +44,7 @@
 - Do quick exercise bursts during the day to regain focus. Move around & explore new environments for inspiration.
 - On monthly reviews, observe time I spent in Timing and restrict wasted time with [Focus](https://heyfocus.com).
 - Use one screen on mac. It's easier to context switch and keep focus.
-- Don't listen to distracting music or environment noise when focusing. Use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) and listen to wind or similar sounds. Or have nothing playing at all.
+- Don't listen to distracting music & block out environment noise when focusing. Use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) and listen to wind or similar sounds.
 - Use noise canceling headphones to minimize distractions.
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Take mindfulness breaks and breathe when distracted. Or exercise.
