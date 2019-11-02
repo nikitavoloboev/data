@@ -13,3 +13,4 @@
 - [Mark Zuckerberg Live With Joe DeRisi & Steve Quake || The Future of Technology & Society (2019)](https://www.youtube.com/watch?v=vdUpF2dmnc8)
 - [Seq](https://github.com/seq-lang/seq) - High-performance, Pythonic language for bioinformatics.
 - [The Biostar Handbook](https://www.biostarhandbook.com/) - Introduces readers to bioinformatics, the scientific discipline at the intersection of biology, computer science, and statistical data analytics dedicated to the digital processing of genomic information.
+- [Michael Levin | 2017 Allen Frontiers Symposium](https://www.youtube.com/watch?v=uAEJ0Q2uiNM)

@@ -96,3 +96,4 @@
 - [GHC exercises](https://github.com/i-am-tom/haskell-exercises) - Little course to learn about some of the more obscure GHC extensions.
 - [Typing the technical interview (2017)](https://aphyr.com/posts/342-typing-the-technical-interview)
 - [Aelve Guide | Haskell](https://guide.aelve.com/haskell) - Wiki-like guide to Haskell ecosystem and community.
+- [rien](https://github.com/mrkgnao/rien) - Predictable Haskell development environments with Cabal and Nix.
