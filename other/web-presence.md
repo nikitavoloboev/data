@@ -33,6 +33,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - My online CV.
 - [Facebook](https://facebook.com/nikitavoloboev) - Not used much.
 - [Spectrum](https://spectrum.chat/users/nikivi?tab=posts)
+- [VK](https://vk.com/nikitavoloboev)
 
 ## Learn
 

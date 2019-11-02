@@ -22,3 +22,4 @@
 - [Learn X in Y minutes](https://learnxinyminutes.com/)
 - [HandWiki](https://handwiki.org/wiki/Start) - Online wiki-style encyclopedia dedicated to applications of computers, software programs and programming in different areas of science, finance and engineering.
 - [Quanta Magazine](https://www.quantamagazine.org/)
+- [Collection of GitHub repos, blogs and websites to learn cool things](https://github.com/rsapkf/goodies#readme)

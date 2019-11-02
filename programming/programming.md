@@ -89,3 +89,4 @@
 - [Software Engineering for Industry](http://softengindustry.github.io/)
 - [Execute program](https://www.executeprogram.com/) - Programming lessons.
 - [Cheng Lou - Taming the Meta Language - React Conf 2017](https://www.youtube.com/watch?v=_0T5OSSzxms)
+- [Programming Across Paradigms • Anjana Vakil (2017)](https://www.youtube.com/watch?v=Pg3UeB-5FdA)

@@ -36,3 +36,4 @@
 - [CppCon 2019: JF Bastien “Deprecating volatile” (2019)](https://www.youtube.com/watch?v=KJW_DLaVXIY)
 - [Collaborative Collection of C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/)
 - [ChaiScript](https://github.com/ChaiScript/ChaiScript) - Embedded Scripting Language Designed for C++.
+- [Kevlin Henney - Functional C++ (2017)](https://www.youtube.com/watch?v=CIg6eyJv4dk&feature=youtu.be)
