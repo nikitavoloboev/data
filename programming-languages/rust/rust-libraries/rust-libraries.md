@@ -39,6 +39,7 @@
 - [Azul](https://github.com/maps4print/azul) - Desktop GUI Framework.
 - [Druid](https://github.com/xi-editor/druid) - Data-oriented Rust User Interface Design toolkit.
 - [flutter-rs](https://github.com/gliheng/flutter-rs) - Build flutter desktop app in dart & rust.
+- [Moxie](https://github.com/anp/moxie) - Lightweight platform-agnostic tools for declarative UI.
 
 ## API
 
