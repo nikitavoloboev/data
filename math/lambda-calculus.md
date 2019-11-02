@@ -23,3 +23,4 @@ Is logical theory of computable functions.
 - [Lambda Zero](https://github.com/clark800/lambda-zero) - Minimalist pure lazy functional programming language.
 - [Dedukti](https://github.com/Deducteam/Dedukti) - Implementation of the λΠ-calculus modulo rewriting.
 - [Lambda Calculus and Lambda Calculators](http://okmij.org/ftp/Computation/lambda-calc.html)
+- [pLam](https://github.com/slovnicki/pLam) - Interpreter for learning and exploring pure λ-calculus.
