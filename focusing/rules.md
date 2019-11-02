@@ -36,7 +36,6 @@
 
 ## Focus
 
-- Aggressively cut out any kind of distractions when working. Pure focus on task at hand. Have timed breaks.
 - Don't context switch unless it's necessary. Don't visit blocked sites and apps when **focusing**. Don't touch the phone unless necessary.
 - Spend mindful time on the phone. Listen to podcasts/books. Read/chat. Don't waste time on things that can be done better/faster on mac.
 - When **focusing**, do the task at hand and nothing else. [Break problems down](../research/solving-problems.md). Solve them.

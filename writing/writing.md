@@ -36,13 +36,15 @@ I start writing all my articles by jotting down notes as dashed points below the
 
 I then start writing the article and try to touch on one or all of these points as I write the article. I add/remove points as I write the article.
 
-I write all my articles, docs & notes in [Sublime Text](../text-editors/sublime-text/sublime-text.md) app and use a small [Alfred workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to search through both this wiki & my published articles.
+I write all my articles, docs & notes in [Sublime Text](../text-editors/sublime-text/sublime-text.md) app and use an [Alfred workflow](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to search through both this wiki & my [unpublished articles](../fragments/fragments.md).
 
 ![](https://i.imgur.com/J7vMVjA.png)
 
 ## Publishing the article
 
 Once I wrote the article that I am quite happy with. I export the article straight to Medium with [MarkdownToMedium](https://markdowntomedium.com/). I then reread the article again in Medium's editor and fix any styling issues/mistakes that happened. After that I publish the article and share it on Twitter and other internet places.
+
+In future I plan to move my writing off Medium as I prefer to keep the source of all articles in the open on GitHub so anyone can edit them. Plus it would let me be more creative in the kinds of things I can include in the articles.
 
 ## [Focus. Format. Framing.](https://www.youtube.com/watch?v=_mQNwL8HkS0)
 
