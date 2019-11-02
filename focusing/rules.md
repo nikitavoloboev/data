@@ -31,7 +31,7 @@
 - [Sleep](../sleep/sleep.md) fully. Don't limit sleep, ever. If need to wake up early, go to sleep early. Sleep ~8 hours each day.
 - Always have straight posture. Sit properly and upright, don't bend my back/spine.
 - Take [essentials daily supplements](../health/nutrition/supplements.md) as well as [daily food mix](../health/nutrition/foods.md).
-- Everything in moderation. Avoid any damaging drugs (i.e. alcohol/opiates). Health above all.
+- Everything in moderation. Avoid any damaging drugs (i.e. alcohol/opiates). Health above all. Limit [psychedelic](../drugs/psychedelics/psychedelics.md) use.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. Clean up.
 
 ## Focus

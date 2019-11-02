@@ -33,6 +33,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 
 ## Interesting artists
 
+- [Karolis Strautniekas](https://www.instagram.com/strautniekas/)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
 - [Ben Ridgway](https://www.samwoolfe.com/2018/06/the-visionary-art-of-ben-ridgway.html) - DMT inspired.
@@ -84,6 +85,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [NONOTAK](https://www.nonotak.com/)
 - [Studio Joanie Lemercier](https://joanielemercier.com/)
 - [13 illustrations devoted to Ray Bradbury's "Fahrenheit 451" painted in 1950-s by Andrey Sokolov](https://www.maxuta.com/maxuta/collections/032_pn_space_collectibles/032262_andrey_sokolov_fahrenheit_451_illustration.htm)
+- [(un)stable equilibrium 1:1](https://computervisionart.com/pieces2019/unstable-equilibrium/)
 
 ## Photography
 

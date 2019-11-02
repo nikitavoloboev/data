@@ -215,6 +215,10 @@ Below is a list of extensions I use.
 
 - [TLA+ language support](https://github.com/alygin/vscode-tlaplus)
 
+## SQL
+
+- [SQLite](https://github.com/AlexCovizzi/vscode-sqlite) - VSCode extension to explore and query SQLite databases.
+
 ## Racket
 
 - [Magic Racket](https://marketplace.visualstudio.com/items?itemName=evzen-wybitul.magic-racket) - Top notch syntax highlighting for Racket.

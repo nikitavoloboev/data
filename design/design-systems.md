@@ -21,3 +21,4 @@
 - [Modulz](https://www.modulz.app/) - Design, develop, document and deploy your design system—without writing code.
 - [Design System Playground](https://design-system-playground.netlify.com/) - Play with typography and colors to generate a design system theme you can use in your projects.
 - [Curated list of design systems](https://github.com/miukimiu/design-systems#readme)
+- [ReactiveConf 2019 - Mark Dalgleish: Rethinking Design Practices](https://www.youtube.com/watch?v=jnV1u67_yVg)

@@ -43,3 +43,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [The Definition of Design](https://rsms.me/eames-design/)
 - [Implementing Dark Mode in iOS 13 (2019)](https://instagram-engineering.com/instagram-darkmode-58802b43c0f2)
 - [Mind the gap, user centered design in large organizations with Luke Wroblewski (2019)](https://www.youtube.com/watch?v=mAiNdU1go1A)
+- [Space in Design Systems (2016)](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
