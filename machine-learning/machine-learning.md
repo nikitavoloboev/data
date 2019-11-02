@@ -136,3 +136,4 @@
 - [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials)
 - [Prodify](https://prodi.gy/) - Radically efficient machine teaching. An annotation tool powered by active learning.
 - [Runway ML](https://runwayml.com/) - Discover, create, and use artificial intelligence capabilities in your creative work.
+- [An Extended Version Of The Scikit-Learn Cheat Sheet (2014)](https://medium.com/@chris_bour/an-extended-version-of-the-scikit-learn-cheat-sheet-5f46efc6cbb)

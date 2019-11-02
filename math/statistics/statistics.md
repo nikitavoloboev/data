@@ -11,3 +11,4 @@
 - [Bayes’ Theorem Intuition (2019)](https://blog.demofox.org/2019/10/25/bayes-theorem-intuition/)
 - [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.htm)
 - [Notes and exercise attempts for "An Introduction to Statistical Learning"](https://github.com/asadoughi/stat-learning)
+- [BayesOpt](https://github.com/rmcantin/bayesopt) - Toolbox for bayesian optimization, experimental design and stochastic bandits.
