@@ -60,3 +60,4 @@
 - [XCTest](https://github.com/apple/swift-corelibs-xctest) - Swift core library for providing unit test support.
 - [Building the Server-side Swift ecosystem, Ian Partridge (2019)](https://www.youtube.com/watch?v=CzTikweGO3E)
 - [Learn Swift in Y minutes](https://learnxinyminutes.com/docs/swift/)
+- [Swift tricks (2019)](http://eon.codes/blog/2019/10/19/Swift-tricks/)
