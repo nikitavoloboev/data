@@ -63,3 +63,4 @@
 - [Data science blogs](https://github.com/rushter/data-science-blogs#readme)
 - [Awesome Data Science](https://github.com/academic/awesome-datascience#readme)
 - [Things About Real-World Data Science Not Discussed In MOOCs and Thought Pieces (2018)](https://minimaxir.com/2018/10/data-science-protips/)
+- [Apache Zeppelin](https://zeppelin.apache.org/) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.

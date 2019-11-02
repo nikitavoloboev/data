@@ -43,3 +43,5 @@
 - [How to get into FAANG tips (2019)](https://drive.google.com/file/d/1tbQ74E5noNGS3ZarqAUMoErPasosilj7/view)
 - [CS Interview study sheet](https://github.com/kimberli/interviews#readme)
 - [What I Learned From Conducting 500 Technical Interviews, Pt. 1: The Interviewer Skills Ladder (2019)](https://www.holloway.com/s/trh-what-i-learned-from-conducting-500-technical-interviews-part-1)
+- [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+- [Basic DS and algo question collection](https://www.reddit.com/r/cscareerquestions/comments/dqkr7o/basic_ds_and_algo_question_collection/)

@@ -14,3 +14,6 @@
 - [nbviewer](https://nbviewer.jupyter.org/) - Simple way to share Jupyter Notebooks.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - Extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture.
 - [Binder](https://mybinder.org/) - Turn a Git repo into a collection of interactive notebooks.
+- [Part 2: Scheduling Notebooks at Netflix (2018)](https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6)
+- [Jupyter metapackage for installation and docs](https://github.com/jupyter/jupyter)
+- [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
