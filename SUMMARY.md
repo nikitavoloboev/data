@@ -213,6 +213,7 @@
     - [ReasonML libraries](programming-languages/reasonml/reasonml-libraries.md)
   - [Bash](programming-languages/bash.md)
   - [Clojure](programming-languages/clojure/clojure.md)
+    - [Clojure libraries](programming-languages/clojure/clojure-libraries.md)
     - [ClojureScript](programming-languages/clojure/clojurescript.md)
   - [Erlang](programming-languages/erlang/erlang.md)
   - [Elixir](programming-languages/elixir/elixir.md)
