@@ -117,3 +117,4 @@ These are my personal profiles on various websites sorted by categories.
 - [TikTok](https://www.tiktok.com/@nikitavoloboev)
 - [KinoPoisk](https://www.kinopoisk.ru/user/6272121/)
 - [Deedmob](https://www.deedmob.com/users/3046665)
+- [Observable](https://observablehq.com/@nikitavoloboev)
