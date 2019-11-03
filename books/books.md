@@ -128,6 +128,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [What are the most indispensable books for indie hackers? (2019)](https://www.indiehackers.com/post/what-are-the-most-indispensable-books-for-indie-hackers-e2ec3a13e9) ([HN](https://news.ycombinator.com/item?id=21140052))
 - [Jared Palmer's favorite books](https://jaredpalmer.com/bookshelf/)
 - [Nice CS books/papers](https://news.ycombinator.com/item?id=21302131)
+- [Programming books that aren't boring](https://twitter.com/dan_abramov/status/1190762799338790913)
 
 ## Notes
 

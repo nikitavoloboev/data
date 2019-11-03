@@ -51,3 +51,4 @@
 - [XNNPACK](https://github.com/google/XNNPACK) - Highly optimized library of floating-point neural network inference operators for ARM, WebAssembly, and x86 (SSE2 level) platforms.
 - [LSTM implementation explained (2015)](http://apaszke.github.io/lstm-explained.html)
 - [The Neural Process Family](https://github.com/deepmind/neural-processes) - Contains notebook implementations of the following Neural Process variants: Conditional Neural Processes (CNPs), Neural Processes (NPs), Attentive Neural Processes (ANPs).
+- [Notes on Neural Nets](https://wiki.kourouklides.com/wiki/Artificial_Neural_Network)

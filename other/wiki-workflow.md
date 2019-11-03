@@ -45,6 +45,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Full-stack web development notes](https://github.com/8483/notes#readme)
 - [Max Masnick](https://maxmasnick.com/kb/)
 - [Leon Bambrick](https://til.secretgeek.net/)
+- [Ioannis Kourouklides](https://wiki.kourouklides.com/wiki/Main_Page)
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
 
 ## Wiki software
