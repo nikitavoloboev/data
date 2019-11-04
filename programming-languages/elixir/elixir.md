@@ -17,3 +17,5 @@
 - [Talks and Conversations of Dave Thomas](https://pragdave.me/speak.html)
 - [Elixir Forum](https://elixirforum.com/)
 - [An Interview with Jose Valim, Creator of Elixir (2019)](https://www.welcometothejungle.co/en/articles/btc-elixir-jose-valim) ([HN](https://news.ycombinator.com/item?id=21280092))
+- [GOTO 2019 • The Soul of Erlang and Elixir • Saša Jurić](https://www.youtube.com/watch?v=JvBT4XBdoUE)
+- [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition?a_aid=sjuric)
