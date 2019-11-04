@@ -4,19 +4,21 @@
 
 ### Taken daily in morning/afternoon
 
-- [Vitamin D3](https://www.amazon.co.uk/gp/product/B00X0ZCE2O) (1 tablet) (4000 IU)
 - [Magnesium Glycinate](https://www.amazon.co.uk/gp/product/B00ENF72TA) (2 tablets)
 - [Omega 3 DHA+EPA from Algae oil](https://www.amazon.co.uk/gp/product/B015QB57FU) (1 tablet)
 - [Vitamin B12](https://www.amazon.co.uk/gp/product/B01N5RGV8U) (1 tablet) (1000 mcg)
 
 ### Taken daily in evening
 
+- [Magnesium Glycinate](https://www.amazon.co.uk/gp/product/B00ENF72TA) (1 tablet)
+
+### Taken every few days
+
+- [Vitamin D3](https://www.amazon.co.uk/gp/product/B00X0ZCE2O) (1 tablet) (4000 IU)
+
+### Taken less frequently
+
 - [Lions Mane Extract](https://shop.realmushrooms.com/products/organic-lions-mane-extract-capsules) (2 tablets) (500 mg)
-- [Magnesium Glycinate](https://www.amazon.co.uk/gp/product/B00ENF72TA) (2 tablets)
-
-### Taken less frequently in morning/afternoon
-
-- [Activated Sulforaphane from Broccoli Sprout Extract + Matcha Green Tea](https://www.amazon.co.uk/gp/product/B00JGX9Q8E) (1 tablet) (15000 mg)
 - [Organic Turmeric Curcumin with Organic Black Pepper & Organic Ginger](https://www.amazon.co.uk/Organic-Turmeric-Curcumin-Capsules-Certified/dp/B0772QQX76) (1 tablet) (1380 mg)
 - [Broccoli Sprout Extract + Matcha Green Tea](https://www.amazon.co.uk/Broccoli-Activated-Sulforaphane-Equivalent-Antioxidant/dp/B00JGX9Q8E/)
 

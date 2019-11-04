@@ -35,3 +35,4 @@
 - [PostgreSQL Notes](https://github.com/poudel/notes/blob/master/notes/postgresql.org)
 - [pg_flame](https://github.com/mgartner/pg_flame) - Flamegraph generator for Postgres EXPLAIN ANALYZE output.
 - [PostgREST](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database. ([HN](https://news.ycombinator.com/item?id=21435195))
+- [Postgres Explain Visualizer (pev)](https://github.com/AlexTatiyants/pev)

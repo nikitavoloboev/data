@@ -47,6 +47,7 @@
 - [3 examples of algebraic thinking (2019)](https://lispcast.com/3-examples-of-algebraic-thinking/)
 - [Functional Design and Architecture book draft (2019)](https://docs.google.com/document/d/1al1kW7X4ZncBP_RKR0DZMY84pUtcbbiPQTtkDsjafsw/edit)
 - [Sara Fransson: Functional lenses through a practical lens (2019)](https://www.youtube.com/watch?v=sFzuu676pFs)
+- [Algebraic structures: things i wish someone had explained about functional programming (2019)](https://jrsinclair.com/articles/2019/algebraic-structures-what-i-wish-someone-had-explained-about-functional-programming/) ([HN](https://news.ycombinator.com/item?id=21440932))
 
 ## Images
 
