@@ -41,6 +41,7 @@
 - [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - High-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus.
 - [MeiliDB](https://github.com/meilisearch/MeiliDB) - Full-text search database based on the fast LMDB key-value store.
 - [CrateDB](https://github.com/crate/crate) - Distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.
+- [Riak](https://github.com/basho/riak) - Distributed, decentralized data storage system.
 
 ## Tools
 

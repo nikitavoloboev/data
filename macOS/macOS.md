@@ -43,3 +43,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Impact](https://github.com/ChimeHQ/Impact) - Crash detection and recording library for Apple platforms.
 - [Designing LookUp for macOS (2019)](https://medium.com/lookup-design/designing-lookup-for-macos-bf5b8fea1a01)
 - [macOS screenshot tips](https://twitter.com/CoreyGinnivan/status/1187209574303973376)
+- [gon](https://github.com/mitchellh/gon) - CLI and Go Library for macOS Notarization.
