@@ -45,3 +45,4 @@
 - [What I Learned From Conducting 500 Technical Interviews, Pt. 1: The Interviewer Skills Ladder (2019)](https://www.holloway.com/s/trh-what-i-learned-from-conducting-500-technical-interviews-part-1)
 - [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 - [Basic DS and algo question collection](https://www.reddit.com/r/cscareerquestions/comments/dqkr7o/basic_ds_and_algo_question_collection/)
+- [How to ask interviewers great questions (2019)](https://medium.com/otta-blog/how-to-ask-interviewers-great-questions-3a0add17ba42)

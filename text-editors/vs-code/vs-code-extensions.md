@@ -129,6 +129,7 @@ Below is a list of extensions I use.
 
 ## TS/JS
 
+- [Deoptigate](https://github.com/rbuckton/deoptigate-vscode) - Visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e. NodeJS, Chrome, etc.).
 - [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search the node_modules folder.
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - Supports [TSLint](https://palantir.github.io/tslint/).
 - [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code running in Google Chrome from VS Code.

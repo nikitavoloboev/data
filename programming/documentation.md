@@ -17,3 +17,4 @@
 - [A Rubric for Open Source Documentation (2019)](https://naildrivin5.com/blog/2019/08/23/a-rubric-for-open-source-documentation.html)
 - [Outline](https://github.com/outline/outline) - Open, extensible, wiki for your team built using React and Node.js
 - [Ask HN: What is key to good technical documentation? (2019)](https://news.ycombinator.com/item?id=20909783)
+- [Slab](https://slab.com/) - Simple, scalable wiki that knocks down silos.

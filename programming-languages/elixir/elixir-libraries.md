@@ -9,3 +9,4 @@
 - [Benchee](https://github.com/bencheeorg/benchee) - Easy and extensible benchmarking in Elixir providing you with lots of statistics.
 - [Opus](https://github.com/zorbash/opus) - Framework for pluggable business logic components.
 - [Pow](https://github.com/danschultzer/pow) - Robust, modular, and extendable user authentication system.
+- [Rihanna](https://github.com/samphilipd/rihanna) - High performance postgres-backed job queue for Elixir.
