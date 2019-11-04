@@ -53,6 +53,10 @@ Below is a list of extensions I use.
 
 - [Nix language support](https://marketplace.visualstudio.com/items?itemName=bbenoist.Nix)
 
+## Elixir
+
+- [ElixirLS](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) - Elixir support and debugger.
+
 ## Haskell
 
 - [Simple Haskell support using only GHCi](https://marketplace.visualstudio.com/items?itemName=dramforever.vscode-ghc-simple)
@@ -67,7 +71,7 @@ Below is a list of extensions I use.
 
 ## Theme
 
-- [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-night#readme)
+- [Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
 
 ## Interesting (not using)
 
@@ -155,10 +159,6 @@ Below is a list of extensions I use.
 - [Stylelint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint) - Lint CSS/SCSS/Less with [Stylelint](https://stylelint.io/).
 - [Color Info](https://marketplace.visualstudio.com/items?itemName=bierner.color-info) - Provides quick information CSS colors.
 - [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
-
-## Elixir
-
-- [ElixirLS](https://github.com/JakeBecker/vscode-elixir-ls) - Elixir support and debugger.
 
 ## ReasonML
 
