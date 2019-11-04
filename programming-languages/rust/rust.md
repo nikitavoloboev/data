@@ -97,3 +97,4 @@
 - [Rust for C++ developers - What you need to know to get rolling with crates - Pavel Yosifovich (2019)](https://www.youtube.com/watch?v=k7nAtrwPhR8)
 - [rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code.
 - [Rust API guidelines](https://github.com/rust-lang/api-guidelines) - Set of recommendations on how to design and present APIs for the Rust programming language.
+- [pprof](https://github.com/tikv/pprof-rs) - Rust cpu profiler implemented with the help of backtrace-rs.

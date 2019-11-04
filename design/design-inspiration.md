@@ -39,6 +39,7 @@ Here are few more things I liked, design wise.
 - [Brandur](https://brandur.org) - Amazingly clean website with an even more [awesome blog](https://brandur.org/interfaces#themware). The TOC and the persistent options on the left are incredible. ([Open Source](https://github.com/brandur/sorg))
 - [Tyler Gaw](https://tylergaw.com/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
+- [Erin](https://www.erinmcg.com/)
 - [Sasha Greif](http://sachagreif.com/)
 - [Wimer Hazenberg](https://www.monokai.nl/) - Nice scrolling effect.
 - [Adam Pritchard](https://crypti.cc/)
