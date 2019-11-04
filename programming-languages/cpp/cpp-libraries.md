@@ -40,3 +40,4 @@
 - [BareMetalLib](https://github.com/kuanweeloong/BareMetalLib) - C++ support library for bare-metal programming.
 - [matplotlib-cpp](https://github.com/lava/matplotlib-cpp) - Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib.
 - [re2](https://github.com/google/re2) - Fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python.
+- [Boost.Hana](https://github.com/boostorg/hana) - Your standard library for metaprogramming.

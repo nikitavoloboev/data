@@ -139,3 +139,4 @@
 - [An Extended Version Of The Scikit-Learn Cheat Sheet (2014)](https://medium.com/@chris_bour/an-extended-version-of-the-scikit-learn-cheat-sheet-5f46efc6cbb)
 - [Notes on Machine Learning](https://wiki.kourouklides.com/wiki/Machine_Learning)
 - [Notes on Deep Learning](https://wiki.kourouklides.com/wiki/Deep_Learning)
+- [Awesome free deep learning papers](https://github.com/HFTrader/awesome-free-deep-learning-papers#readme)
