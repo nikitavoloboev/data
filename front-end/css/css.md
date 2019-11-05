@@ -77,3 +77,4 @@
 - [Starter files, final projects and FAQ for Advanced CSS course](https://github.com/jonasschmedtmann/advanced-css-course)
 - [Pure CSS – Lace](https://diana-adrianne.com/purecss-lace/) ([HN](https://news.ycombinator.com/item?id=21440508))
 - [Pure CSS Drawing Essentials](https://diana-adrianne.com/how/) - Top 5 CSS properties I rely on to produce Pure CSS art.
+- [Artem Sapegin: Say Hello to Box, Flex and Stack: Layouts in the Component Era (2019)](https://www.youtube.com/watch?v=zvuKuFgp96o)

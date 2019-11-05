@@ -140,6 +140,7 @@
 - [hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map.
 - [nalgebra](https://github.com/rustsim/nalgebra) - Linear algebra library for Rust.
 - [envy](https://github.com/softprops/envy) - Deserialize env vars into typesafe structs with rust.
+- [tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust.
 
 ## Cargo Plugins
 

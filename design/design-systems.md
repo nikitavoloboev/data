@@ -22,3 +22,4 @@
 - [Design System Playground](https://design-system-playground.netlify.com/) - Play with typography and colors to generate a design system theme you can use in your projects.
 - [Curated list of design systems](https://github.com/miukimiu/design-systems#readme)
 - [ReactiveConf 2019 - Mark Dalgleish: Rethinking Design Practices](https://www.youtube.com/watch?v=jnV1u67_yVg)
+- [Emma Wedekind: Foundations of Design Systems (2019)](https://www.youtube.com/watch?v=pXb2jA43A6k)
