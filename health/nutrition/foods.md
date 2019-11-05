@@ -1,12 +1,18 @@
 # Foods
 
-I exclude all foods that are not healthy and experiment with many [vegan recipes](recipes.md) from the many foods that are healthy. I follow a whole food, plant based diet.
+I eat a whole food, place based diet and experiment by trying out new [vegan recipes](recipes.md). I exclude all unhealthy food.
 
-Most of my diet consists of eating almonds, walnuts, blueberries, bananas and avocados. I try to eat a set of essential foods daily:
+Most of my diet consists of eating raw foods like almonds, walnuts, blueberries, bananas and avocados.
+
+I try to cover my micro nutrient needs by consuming the same set of superfoods daily (NutriBoost). Usually in form of a small smoothie, otherwise eaten raw:
 
 - Blueberries (200g+)
-- Walnuts / Almonds (100g+)
 - Broccoli / Kale (50g+)
+- Walnuts / Almonds (100g+)
+
+Can be consumed in one go or throughout the day. This NutriBoost also includes consuming few [supplements](supplements.md).
+
+I try to fast and limit my food initake for prolonged periods of time. Either daily 16 hour fast or sometimes full day fasts.
 
 I use [Paprika app](https://www.paprikaapp.com/) to store all my recipes & the foods I can eat sorted into categories (with top first). Here is how it looks:
 

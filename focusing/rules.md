@@ -27,10 +27,10 @@
 
 - [Exercise](../fitness/fitness.md). 50+ min cardio/weights daily.
 - Eat [whole food, plant based diet](../health/nutrition/nutrition.md). Fast.
-- Drink lots of water & tea. Limit coffee consumption (1 cup / day max). No added sugar in drinks/food.
-- [Sleep](../sleep/sleep.md) fully. Don't limit sleep, ever. If need to wake up early, go to sleep early. Sleep ~8 hours each day.
+- Drink lots of water & tea. Limit coffee consumption. No added sugar in drinks/food.
+- Get daily NutriBoost of [superfoods](../health/nutrition/foods.md) & [supplements](../health/nutrition/supplements.md).
 - Always have straight posture. Sit properly and upright, don't bend my back/spine.
-- Take [essentials daily supplements](../health/nutrition/supplements.md) as well as [daily food mix](../health/nutrition/foods.md).
+- [Sleep](../sleep/sleep.md) fully. Don't limit sleep, ever. If need to wake up early, go to sleep early. Sleep ~8 hours each day.
 - Everything in moderation. Avoid any damaging drugs (i.e. alcohol/opiates). Health above all. Limit [psychedelic](../drugs/psychedelics/psychedelics.md) use.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. Clean up.
 
