@@ -6,7 +6,7 @@ The number between brackets shows the year I created the repo in. Repos with �
 
 - [Learn Anything (2017) 🌟](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths.
 - [Alfred Learn Anything (2017) 🌟](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search Learn Anything.
-- [Curated lists (2017) 🌟](https://github.com/learn-anything/curated-lists) - Curated lists on various topics.
+- [Curated lists (2017) 🌟](https://github.com/learn-anything/curated-lists#readme) - Curated lists on various topics.
 
 ## Alfred
 
@@ -22,8 +22,8 @@ The number between brackets shows the year I created the repo in. Repos with �
 - [Knowledge (2017) 🌟](https://github.com/nikitavoloboev/knowledge) - Everything I know.
 - [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.xyz) - My personal home on the internet.
 - [AMA (2017) 🌟](https://github.com/nikitavoloboev/ama) - Ask me anything.
-- [My iOS (2016) 🌟](https://github.com/nikitavoloboev/my-ios) - List of applications and tools that make my iOS experience even more amazing.
-- [My macOS (2016) 🌟](https://github.com/nikitavoloboev/my-mac-os) - List of applications and tools that make my macOS experience even more amazing.
+- [My iOS (2016) 🌟](https://github.com/nikitavoloboev/my-ios#readme) - List of applications and tools that make my iOS experience even more amazing.
+- [My macOS (2016) 🌟](https://github.com/nikitavoloboev/my-mac-os#readme) - List of applications and tools that make my macOS experience even more amazing.
 - [Dotfiles (2016) 🌟](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix.
 
 ## Go Libraries
