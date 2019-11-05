@@ -88,3 +88,4 @@
 - [Learn React Courses](https://learnreact.design/)
 - [Building a Custom React Renderer | Sophie Alpert (2019)](https://www.youtube.com/watch?v=CGpMlWVcHok) ([Code](https://github.com/sophiebits/react-dom-mini))
 - [Thoughts on Suspense for data fetching (2019)](https://sgt.hootr.club/molten-matter/thoughts-on-suspense/)
+- [Simplifying React component testing (2019)](https://medium.com/@andythedev/simplifying-react-component-testing-3958f8fa1a7)

@@ -19,3 +19,4 @@
 - [BEAM VM Wisdoms](http://beam-wisdoms.clau.se/en/latest/) - In-depth knowledge such as VM internals, memory layout, opcodes etc.
 - [Adopting Erlang](https://adoptingerlang.org/) - Ongoing effort to gather all the resources that will help you use Erlang in a business.
 - [Lumen](https://github.com/lumen/lumen) - New compiler and runtime for BEAM languages.
+- [Gleam](https://github.com/gleam-lang/gleam) - Statically typed language for the Erlang VM.
