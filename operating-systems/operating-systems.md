@@ -40,3 +40,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [A dream of an ultimate OS (1995)](http://okmij.org/ftp/papers/DreamOSPaper.html) ([HN](https://news.ycombinator.com/item?id=20754592))
 - [Input/Output Subsystem in Singularity Operating System (2011)](http://students.mimuw.edu.pl/~md234040/master.pdf)
 - [Commute talk: How to start building an OS? (2019)](https://www.youtube.com/watch?v=fqllFKjEZAo)
+- [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html) ([HN](https://news.ycombinator.com/item?id=21446079))
