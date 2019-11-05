@@ -27,7 +27,7 @@
 
 - [Exercise](../fitness/fitness.md). 50+ min cardio/weights daily.
 - Eat [whole food, plant based diet](../health/nutrition/nutrition.md). Fast.
-- Drink lots of water & tea. Limit coffee consumption. No added sugar in drinks/food.
+- Drink lots of water & tea. Limit coffee consumption. No sugar.
 - Get daily NutriBoost of [superfoods](../health/nutrition/foods.md) & [supplements](../health/nutrition/supplements.md).
 - Always have straight posture. Sit properly and upright, don't bend my back/spine.
 - [Sleep](../sleep/sleep.md) fully. Don't limit sleep, ever. If need to wake up early, go to sleep early. Sleep ~8 hours each day.
