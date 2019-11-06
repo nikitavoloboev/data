@@ -66,3 +66,4 @@
 - [Apache Arrow](https://github.com/apache/arrow) - Development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast.
 - [Blazer](https://github.com/ankane/blazer) - Explore your data with SQL. Easily create charts and dashboards, and share them with your team.
 - [Moving on from RocksDB to something FASTER - Matthew Brookes (2019)](https://www.youtube.com/watch?v=xWNbbkQMtfI)
+- [Prisma Framework](https://github.com/prisma/prisma2) - Database framework enabling type-safe data access, schema migrations and development workflows.
