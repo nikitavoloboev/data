@@ -66,3 +66,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Historical Memos](https://sriramk.com/memos)
 - [A letter from your future colleague, Alex](https://www.reaktor.com/blog/a-letter-from-your-future-colleague-alex/)
 - [Killed by Google](https://killedbygoogle.com/)
+- [Dominik's moving dots animation-generator](https://dominik.ws/art/movingdots/)

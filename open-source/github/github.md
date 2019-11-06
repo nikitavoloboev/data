@@ -28,7 +28,7 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular GitHub repos, updated daily.
 - [How to collaborate on GitHub](https://github.com/eonist/How-to-collaborate-on-github#readme) - Mini book about collaborating on GitHub.
 - [Gitrob](https://github.com/michenriksen/gitrob#readme) - Tool to help find potentially sensitive files pushed to public repositories on GitHub.
-- [Octoverse](https://octoverse.github.com/projects.html)
+- [Octoverse](https://octoverse.github.com/)
 - [utterances](https://github.com/utterance/utterances) - Lightweight comments widget built on GitHub issues.
 - [github-drama](https://github.com/nikolas/github-drama) - Curated collection of "dramatic" GitHub interactions.
 - [DevHub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Android, iOS and Web.
