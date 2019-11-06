@@ -97,3 +97,4 @@
 - [Typing the technical interview (2017)](https://aphyr.com/posts/342-typing-the-technical-interview)
 - [Aelve Guide | Haskell](https://guide.aelve.com/haskell) - Wiki-like guide to Haskell ecosystem and community.
 - [rien](https://github.com/mrkgnao/rien) - Predictable Haskell development environments with Cabal and Nix.
+- [Confessions of a Used Programming Language Salesman Getting the Masses Hooked on Haskell](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.868&rep=rep1&type=pdf)
