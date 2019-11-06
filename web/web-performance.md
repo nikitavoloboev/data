@@ -9,3 +9,4 @@
 - [bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
 - [Ask HN: How to performance test React webapps for rendering speed regressions? (2019)](https://news.ycombinator.com/item?id=19969308)
 - [Performance metrics for blazingly fast web apps (2019)](https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps-ec12efa26bcb)
+- [webhint](https://github.com/webhintio/hint) - Hinting engine for the web.

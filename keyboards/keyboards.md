@@ -42,3 +42,4 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Awesome Split Keyboards](https://github.com/diimdeep/awesome-split-keyboards#readme)
 - [Making My Own USB Keyboard From Scratch (2019)](http://blakesmith.me/2019/01/16/making-my-own-usb-keyboard-from-scratch.html) ([HN](https://news.ycombinator.com/item?id=19181473))
 - [KMonad](https://github.com/david-janssen/kmonad) - Advanced keyboard manager.
+- [How to make your C codebase rusty: rewriting keyboard firmware keymap in Rust (2019)](https://about.houqp.me/posts/rusty-c/)

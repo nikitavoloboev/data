@@ -36,3 +36,5 @@
 - [pg_flame](https://github.com/mgartner/pg_flame) - Flamegraph generator for Postgres EXPLAIN ANALYZE output.
 - [PostgREST](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database. ([HN](https://news.ycombinator.com/item?id=21435195))
 - [Postgres Explain Visualizer (pev)](https://github.com/AlexTatiyants/pev)
+- [Dexter](https://github.com/ankane/dexter) - Automatic indexer for Postgres.
+- [Hypothetical Indexes in PostgreSQL (2019)](https://www.percona.com/blog/2019/06/21/hypothetical-indexes-in-postgresql/)

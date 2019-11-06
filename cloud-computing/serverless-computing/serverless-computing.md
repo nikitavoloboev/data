@@ -16,3 +16,4 @@
 - [Fly runtime](https://github.com/superfly/fly) - Open source Javascript environment built to run Edge Applications. It gives developers powerful caching, content modification, and routing tools.
 - [Security Overview of AWS Lambda (2019)](https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf)
 - [Rust, WebAssembly, and the future of Serverless by Steve Klabnik (2019)](https://www.youtube.com/watch?v=CMB6AlE1QuI&list=PLe9psSNJBf74yYiVXDXz8UnRnWf3NHzS-&index=16)
+- [Awesome Zeit](https://github.com/zeit/awesome-zeit#readme)

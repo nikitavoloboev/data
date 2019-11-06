@@ -10,3 +10,4 @@
 - [Libra Resources](https://hacklibra.io/resources)
 - [HN: Visa, Mastercard, Stripe, and eBay exit Facebook’s Libra project (2019)](https://news.ycombinator.com/item?id=21227961)
 - [Facebook Libra is Architecturally Unsound (2019)](http://www.stephendiehl.com/posts/libra.html) ([HN](https://news.ycombinator.com/item?id=21451847))
+- [Factual inaccuracies of “Facebook Libra is Architecturally Unsound” (2019)](https://tonyarcieri.com/factual-inaccuracies-of-facebook-libra-is-architecturally-unsound)
