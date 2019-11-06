@@ -18,6 +18,7 @@
 - [Hooks.Guide](https://github.com/Raathigesh/hooks.guide) - Collection of React hooks curated by the community.
 - [SWR](https://github.com/zeit/swr) - React Hooks library for remote data fetching.
 - [react-zen](https://github.com/jamesknelson/react-zen) - React utilities for working with APIs.
+- [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
 
 ## Links
 
