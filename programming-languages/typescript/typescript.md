@@ -62,6 +62,7 @@
 - [TSDX](https://github.com/jaredpalmer/tsdx) - Zero-config CLI for TypeScript package development.
 - [TypeScript Weekly](https://www.typescript-weekly.com/) - Best TypeScript links every week, right in your inbox. ([Archive](https://us14.campaign-archive.com/home?u=809daf9442ece0a92a3d65f99&id=5693c0ed42))
 - [Rush Stack](https://github.com/microsoft/rushstack) - Reusable tooling for large scale TypeScript monorepos.
+- [Debugging the TypeScript Codebase (2019)](https://blog.andrewbran.ch/debugging-the-type-script-codebase/)
 
 ## Images
 
