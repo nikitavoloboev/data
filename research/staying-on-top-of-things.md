@@ -6,7 +6,7 @@ Of course, it is all in my head and [mindfulness](../mindfulness/mindfulness.md)
 
 I use [Focus](https://heyfocus.com) macOS app to completely block many websites with constantly updated feeds like front page of Hacker News, GitHub, Reddit and more. I automatically run Focus every 90 minutes for 80 minutes and work throughout this period fully focused. After that time, I review what I have done in [Timing](../macOS/apps/timing.md) and I have 10 minutes to check the news and view usually blocked websites and after that, the timer starts again.
 
-I use [Pocket](https://app.getpocket.com) to send links I can't read right now from my phone/mac. It's an inbox of links I want to read through with high priority items marked with `top` tag.
+I use [Pocket](https://app.getpocket.com) to send links I can't read right now from my phone/mac. It's an inbox of links I want to read through. High priority links/notes are sent as messages to myself on Telegram.
 
 ## What I use
 
