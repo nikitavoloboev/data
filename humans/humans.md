@@ -16,6 +16,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans#r
 - [Leaving Google and Going Indie — An interview with Daniel Alm](https://medium.com/mailbutlerhq/leaving-google-and-going-indie-an-interview-with-daniel-alm-91078268a48b)
 - [Joe Rogan Experience #1368 - Edward Snowden (2019)](https://www.youtube.com/watch?v=efs3QRr8LWw) ([HN](https://news.ycombinator.com/item?id=21333063))
 - [Devine Lu Linvega: I Have Been Living and Coding on a Sailboat Since 2016 (2019)](https://dev.to/gitnation/devine-lu-linvega-i-have-been-living-and-coding-on-a-sailboat-since-2016-54id)
+- [114 Тёплый выпуск с Дэном Абрамовым (2019)](https://www.youtube.com/watch?v=9aXRJ8Z-kxA)
 
 ## Personal workflows
 
