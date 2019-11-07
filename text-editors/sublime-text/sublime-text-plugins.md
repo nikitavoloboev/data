@@ -42,6 +42,7 @@ Below is a list of plugins I use.
 - [ChromeREPL](https://github.com/acarabott/ChromeREPL) - Execute JavaScript in Google Chrome.
 - [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson) - Prettify/Minify/Query/Goto/Validate/Lint JSON.
 - [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - Review TODO (and other) comments within your code.
+- [Language Server Protocol Support](https://github.com/tomv564/LSP) - Gives LSP IDE features.
 
 ## Markdown
 

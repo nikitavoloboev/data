@@ -5,6 +5,10 @@
 - [Cats](https://github.com/typelevel/cats) - Lightweight, modular, and extensible library for functional programming.
 - [shapeless](https://github.com/milessabin/shapeless) - Generic programming for Scala.
 
+## DB
+
+- [ScalikeJDBC](https://github.com/scalikejdbc/scalikejdbc) - Tidy SQL-based DB access library for Scala that naturally wraps JDBC and provides easy-to-use APIs.
+
 ## Other
 
 - [sup](https://github.com/kubukoz/sup) - Composable, purely functional healthchecks in Scala.
