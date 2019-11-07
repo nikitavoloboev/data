@@ -30,3 +30,4 @@
 - [Intel(r) SPMD Program Compiler](https://github.com/ispc/ispc) - Compiler for a variant of the C programming language, with extensions for single program, multiple data programming.
 - [hobbes](https://github.com/Morgan-Stanley/hobbes) - Language and an embedded JIT compiler.
 - [Crafting Interpreters book](http://craftinginterpreters.com/)
+- [Compiling a Functional Language Using C++, Part 0 - Intro (2019)](https://danilafe.com/blog/00_compiler_intro/)

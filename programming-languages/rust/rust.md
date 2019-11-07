@@ -99,3 +99,4 @@
 - [Rust API guidelines](https://github.com/rust-lang/api-guidelines) - Set of recommendations on how to design and present APIs for the Rust programming language.
 - [pprof](https://github.com/tikv/pprof-rs) - Rust cpu profiler implemented with the help of backtrace-rs.
 - [Using Rust (2019)](https://www.macournoyer.com/blog/2019/03/19/rust/)
+- [Cargo](https://github.com/rust-lang/cargo) - Rust package manager.

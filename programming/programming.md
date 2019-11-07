@@ -91,3 +91,4 @@
 - [Cheng Lou - Taming the Meta Language - React Conf 2017](https://www.youtube.com/watch?v=_0T5OSSzxms)
 - [Programming Across Paradigms • Anjana Vakil (2017)](https://www.youtube.com/watch?v=Pg3UeB-5FdA)
 - [TBA: Developer experience stuff? by Ashley Williams (2019)](https://www.youtube.com/watch?v=N6YwzpFYDoo&list=PLe9psSNJBf74yYiVXDXz8UnRnWf3NHzS-)
+- [Best Practices Checklist](https://github.com/palash25/best-practices-checklist#readme) - List of awesome idiomatic code resources. Rust, Go, Erlang, Ruby, Pony and more.
