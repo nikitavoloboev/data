@@ -37,3 +37,5 @@ All active variables can be seen by running `env`.
 - [Lobsters: What does your shell prompt look like? (2019)](https://lobste.rs/s/skoapt/what_does_your_shell_prompt_look_like)
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool for the command-line.
 - [Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
+- [What Is a Shell? (2019)](https://yunchi.dev/posts/what-is-a-shell/)
+- [Lobsters: What shell do you use? (2019)](https://lobste.rs/s/tjjfnz/what_shell_do_you_use)
