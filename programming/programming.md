@@ -93,3 +93,4 @@
 - [TBA: Developer experience stuff? by Ashley Williams (2019)](https://www.youtube.com/watch?v=N6YwzpFYDoo&list=PLe9psSNJBf74yYiVXDXz8UnRnWf3NHzS-)
 - [Best Practices Checklist](https://github.com/palash25/best-practices-checklist#readme) - List of awesome idiomatic code resources. Rust, Go, Erlang, Ruby, Pony and more.
 - [Programming book list](https://danluu.com/programming-books/)
+- [Programming Talks](https://github.com/hellerve/programming-talks#readme)
