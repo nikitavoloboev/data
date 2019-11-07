@@ -33,3 +33,4 @@ Might give it a go sometime.
 - [Why Emacs (2019)](https://www.birkey.co/2019-08-04-why-emacs.html)
 - [A Semi-literate Emacs Configuration](https://zge.us.to/emacs.d.html)
 - [Modern Emacs](http://www.modernemacs.com/) - Details a journey learning and hacking on Emacs.
+- [Lobsters: Whats your emacs setup like? (2019)](https://lobste.rs/s/754vk6/whats_your_emacs_setup_like)

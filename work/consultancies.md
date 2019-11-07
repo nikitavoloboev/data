@@ -18,3 +18,7 @@
 - [Monadfix](https://monadfix.com/) - Work with Haskell, PureScript, and Agda.
 - [feenk](https://feenk.com/) - Reshape the Development eXperience to make your systems explainable.
 - [Keming Labs](https://keminglabs.com/) - Build data-driven interfaces.
+
+## Links
+
+- [How to Find Consulting Clients (2019)](https://chrisachard.com/how-to-find-consulting-clients) ([HN](https://news.ycombinator.com/item?id=21473265))

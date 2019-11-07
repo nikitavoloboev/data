@@ -17,3 +17,4 @@
 - [Collection of my generative artwork, mostly with Processing in Python mode](https://github.com/aaronpenne/generative_art)
 - [Generative Art by Thomas Lin Pedersen](https://www.data-imaginist.com/art)
 - [pack-spheres](https://github.com/mattdesl/pack-spheres) - Brute force circle/sphere packing in 2D or 3D.
+- [Veit's Art](https://veitheller.de/art/)
