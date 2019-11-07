@@ -13,3 +13,4 @@
 - [Shulgin's entry](https://erowid.org/library/books_online/tihkal/tihkal26.shtml)
 - [Experiences on acid](https://knowingless.com/2017/02/11/experiences-on-acid/)
 - [Microdosing with LSD and its Research Potential (2017)](https://heffter.org/microdosing-lsd-research-potential/)
+- [Weirdest thing that has happened to you on acid? (2019)](https://www.reddit.com/r/RationalPsychonaut/comments/dqwqtm/weirdest_thing_that_has_happened_to_you_on_acid/)

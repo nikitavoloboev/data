@@ -23,3 +23,4 @@
 - [Études for Erlang book](http://www.r-5.org/files/books/computers/languages/erlang/erlang/David_Eisenberg-Etudes_for_Erlang-EN.pdf) - Companion exercises for introducing Erlang.
 - [Spawned Shelter](http://spawnedshelter.com/) - Collection of the best articles, videos and books for learning Erlang.
 - [Stuff Goes Bad: Erlang in Anger book](https://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war.
+- [AtomVM](https://github.com/bettio/AtomVM) - Tiny Erlang VM.

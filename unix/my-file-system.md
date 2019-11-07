@@ -60,7 +60,7 @@ Contains all my Swift iOS and macOS projects.
 
 ```Bash
 ~/src/Xcode
-❯ a
+❯ exa
 iOS  macOS  playgrounds  safari-extensions
 ```
 
