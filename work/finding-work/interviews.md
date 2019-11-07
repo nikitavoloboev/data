@@ -10,6 +10,7 @@
   - sharing questions with candidates ahead of time
   - working on actual problems the team is facing
   - blind feedback
+- When trying to solve problems for understanding, don't blindly copy other's solutions. Read their solutions and take notes. Then reimplement from the notes.
 
 ## Links
 

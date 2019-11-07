@@ -15,7 +15,7 @@ All my actual documents (books, papers..) are put there. The folder synced with 
 ```Bash
 ~/Documents
 ❯ exa
-Backup  Books  Design  PDFs  Pixave  Research
+Backup  Books  Design  Ideas  Learn  PDFs  Personal  Pixave  Research  Videos  Zoom
 ```
 
 ## ~/Downloads
@@ -31,7 +31,7 @@ Everything that is code is put into this folder.
 ```Bash
 ~/src
 ❯ exa
-alfred  apps  bots  build-to-learn  clones  curated  games  ideas  languages  libs  models  nix  orgs  personal  puzzles  scripts  vim-plugins  vscode-extensions  web  Xcode
+alfred  bots  build-to-learn  clones  curated  games  ideas  libs  nix  orgs  personal  practice  scripts  vim-plugins  vscode-extensions  Xcode
 ```
 
 ## ~/src/clones
@@ -47,7 +47,7 @@ Inside this folder I keep all code from orgs I am working or worked on.
 ```Bash
 ~/src/orgs
 ❯ exa
-deedmob  enpicom  learn-anything
+2do  learn-anything
 ```
 
 ## ~/src/build-to-learn
@@ -61,7 +61,7 @@ Contains all my Swift iOS and macOS projects.
 ```Bash
 ~/src/Xcode
 ❯ exa
-iOS  macOS  playgrounds  safari-extensions
+iOS  macOS  safari-extensions
 ```
 
 ## ~/src/alfred
@@ -71,7 +71,7 @@ All my Alfred workflows are placed there. And each one is symlinked with [workfl
 ```Bash
 ~/src/alfred
 ❯ exa
-alfred-ask-create-share  alfred-awesome-lists  alfred-github  alfred-learn-anything  alfred-my-mind  alfred-npm  alfred-timer  alfred-trello  alfred-web-searches  small-workflows
+alfred-ask-create-share  alfred-awesome-lists  alfred-github  alfred-learn-anything  alfred-my-mind  alfred-npm  alfred-pocket  alfred-timer  alfred-trello  alfred-web-searches  small-workflows
 ```
 
 ## ~/src/curated
@@ -81,9 +81,9 @@ Keep all the GitHub [curated lists](https://github.com/learn-anything/curated-li
 ```bash
 ~/src/curated
 ❯ exa
-alfred-workflows  cheat-sheets        courses        find-work           games   ios-apps    movies       privacy-respecting     quotes        research-papers    slack-groups    talks      websites
-blogs             chrome-extensions   curated-lists  firefox-extensions  humans  macos-apps  newsletters  programming-languages  reddit        safari-extensions  spectrum        telegram   youtube
-books             command-line-tools  documentaries  forums              images  mindmaps    podcasts     quora                  reddit-multi  series             stack-exchange  tv-series
+alfred-workflows  cheat-sheets        courses        events              forums        humans      movies       privacy-respecting     quotes           safari-extensions  stack-exchange  tv-series
+blogs             chrome-extensions   curated-lists  find-work           games         ios-apps    newsletters  programming-languages  reddit           slack-groups       talks           websites
+books             command-line-tools  documentaries  firefox-extensions  github-stars  macos-apps  podcasts     quora                  research-papers  spectrum           telegram        youtube
 ```
 
 ## ~/Dropbox
@@ -93,7 +93,7 @@ Use Dropbox to sync configuration files. I also keep this wiki in `Write` dir in
 ```bash
 ~/Dropbox
 ❯ exa
-Alfred  Apps  Config  IFTTT  Shared  Shares  Temp  upload.sh  Write
+Alfred  Apps  Config  IFTTT  Public  Shared  Temp  upload.sh  Write
 ```
 
 ## Links
