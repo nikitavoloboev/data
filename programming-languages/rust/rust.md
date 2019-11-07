@@ -100,3 +100,5 @@
 - [pprof](https://github.com/tikv/pprof-rs) - Rust cpu profiler implemented with the help of backtrace-rs.
 - [Using Rust (2019)](https://www.macournoyer.com/blog/2019/03/19/rust/)
 - [Cargo](https://github.com/rust-lang/cargo) - Rust package manager.
+- [Async-await on stable Rust! (2019)](https://blog.rust-lang.org/2019/11/07/Async-await-stable.html) ([HN](https://news.ycombinator.com/item?id=21473259))
+- [Comparing Parallel Rust and C++](https://parallel-rust-cpp.github.io/introduction.html) ([HN](https://news.ycombinator.com/item?id=21469295))

@@ -31,3 +31,4 @@
 - [Reason Project Ideas](https://github.com/jordwalke/reason-project-ideas#readme)
 - [React Advanced Reason Workshop (2019)](https://github.com/nikgraf/2019-10-reason-workshop)
 - [How to write a library for BuckleScript and Native (2019)](https://tech.ahrefs.com/how-to-write-a-library-for-bucklescript-and-native-22f45e5e946d)
+- [Nit](https://nit.sketch.sh/) - Better ReasonML playground.
