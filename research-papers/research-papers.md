@@ -18,6 +18,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Collection of various research papers](https://github.com/dterei/Research-Papers)
 - [Rasmus Andersson's favorite papers](https://www.dropbox.com/sh/is0sy5350lr4v9j/AADQlhVSQcRw6vCNKQgGWelqa)
 - [Veit Heller's reading list](https://github.com/hellerve/ptolemy)
+- [FP papers](https://github.com/sdiehl/papers)
 
 ## Links
 

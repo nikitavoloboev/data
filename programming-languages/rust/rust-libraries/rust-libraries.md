@@ -142,6 +142,7 @@
 - [envy](https://github.com/softprops/envy) - Deserialize env vars into typesafe structs with rust.
 - [tiny-http](https://github.com/tiny-http/tiny-http) - Low level HTTP server library in Rust.
 - [petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
+- [Dataloader](https://github.com/cksac/dataloader-rs) - Rust implementation of Facebook's DataLoader using futures.
 
 ## Cargo Plugins
 

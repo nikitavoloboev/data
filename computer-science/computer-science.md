@@ -21,3 +21,4 @@
 - [Ask HN: What are the most fundamental books on computer science? (2019)](https://news.ycombinator.com/item?id=21311302)
 - [Code by Charles Petzold (1999)](https://www.goodreads.com/book/show/44882.Code)
 - [CS/ML notes](https://tlienart.github.io/pub/csml.html)
+- [Computer Science Roadmap (AI Track)](https://github.com/yngz/cs-roadmap#readme)
