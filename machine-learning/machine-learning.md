@@ -141,3 +141,4 @@
 - [Notes on Deep Learning](https://wiki.kourouklides.com/wiki/Deep_Learning)
 - [Awesome free deep learning papers](https://github.com/HFTrader/awesome-free-deep-learning-papers#readme)
 - [Teachable Machine](https://teachablemachine.withgoogle.com/) - Fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.
+- [Deep Learning Interview Topics](https://github.com/vlgiitr/DL_Topics#readme)
