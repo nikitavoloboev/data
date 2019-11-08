@@ -44,3 +44,4 @@
 - [EfficientNet PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)
 - [Captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch.
 - [Pytorch-Struct](https://github.com/harvardnlp/pytorch-struct) - Fast, general, and tested differentiable structured prediction in PyTorch.
+- [Dive Into Deep Learning 2 PyTorch](https://github.com/dsgiitr/d2l-pytorch)
