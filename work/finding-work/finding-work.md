@@ -48,7 +48,6 @@ I use a [Trello board](https://trello.com/b/w58QRfB0) to keep track of companies
 - [Your First 60 Days at an Engineering Job (2015)](https://code.dblock.org/2015/04/23/your-first-60-days-at-an-engineering-job.html)
 - [Many React Remote jobs](https://twitter.com/mxstbr/status/1180846287148785670)
 - [TripleByte](https://triplebyte.com/) - Do quiz & interview and skip first stages in applying for companies.
-- [Twitter list of programming jobs](https://twitter.com/nikitavoloboev/lists/list3)
 - [The Career Advice I Wish I Had](https://welearncode.com/career-advice/)
 - [Otta](https://otta.co/) - Discover the most relevant roles for you at all of London's best startups.
 - [Rocket List 2019](https://rocketlist.uk/) - Curated list of the best fast-growing companies in London to work for. Built for job-seekers.

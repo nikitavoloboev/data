@@ -125,3 +125,4 @@ Go promotes composition over inheritance.
 - [Learning Go: Lexing and Parsing (2016)](http://blog.leahhanson.us/post/recursecenter2016/recipeparser.html)
 - [Running a serverless Go web application (2019)](https://bartfokker.com/posts/cloud-run/)
 - [Awesome Go Storage](https://github.com/gostor/awesome-go-storage#readme)
+- [Go Modules: v2 and Beyond (2019)](https://blog.golang.org/v2-go-modules)
