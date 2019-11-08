@@ -235,6 +235,10 @@ Below is a list of extensions I use.
 
 - [SQLite](https://github.com/AlexCovizzi/vscode-sqlite) - VSCode extension to explore and query SQLite databases.
 
+## Nix
+
+- [Nix Environment Selector](https://github.com/arrterian/nix-env-selector) - Allows you switch environment for Visual Studio Code and extensions based on .nix config files.
+
 ## Racket
 
 - [Magic Racket](https://marketplace.visualstudio.com/items?itemName=evzen-wybitul.magic-racket) - Top notch syntax highlighting for Racket.

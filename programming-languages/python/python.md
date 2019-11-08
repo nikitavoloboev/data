@@ -50,3 +50,4 @@
 - [Static Analysis at Scale: An Instagram Story (2019)](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
 - [Python Type Checking course](https://realpython.com/courses/python-type-checking/)
 - [Python Enhancement Proposals](https://github.com/python/peps)
+- [Cool Python features for machine learning that I used to be too afraid to use](https://github.com/chiphuyen/python-is-cool)
