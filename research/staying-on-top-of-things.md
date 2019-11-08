@@ -72,12 +72,6 @@ And these Discord servers:
 - [Godot Engine](https://discord.gg/ZXJERxu)
 - [r/ Apple](https://discordapp.com/invite/apple)
 
-### Links to read later with [Pocket](https://getpocket.com) & [Reeder](http://reederapp.com/mac/)
-
-I use Pocket app to quickly add links I want to read later. On iOS adding links is instant as I have Pocket as one of the top items in the share sheet.
-
-I then read through my Pocket list on mac using Reeder.
-
 ### Other
 
 - [Awesome websites](https://github.com/learn-anything/websites#readme)

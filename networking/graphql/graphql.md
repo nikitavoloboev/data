@@ -50,3 +50,4 @@
 - [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - Mock or extend your GraphQL API with faked data. No coding required.
 - [gqless](https://github.com/samdenty/gqless) - Auto-generates GraphQL queries based on the data your application consumes.
 - [Designing GraphQL Schemas - Nik Graf (2019)](https://www.youtube.com/watch?v=fBkmlFfwRu0)
+- [ReactiveConf 2019 - Nader Dabit: Curious Use Cases of GraphQL](https://www.youtube.com/watch?v=BLmoce4tjMc)

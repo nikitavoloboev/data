@@ -2,7 +2,7 @@
 
 I use [Streaks](https://streaksapp.com) iOS app to track my essential life habits.
 
-![](https://i.imgur.com/iTpeCSo.jpg)
+![](https://i.imgur.com/g1FuQGY.jpg)
 
 The 6 habits are an essential subset of more general [rules](rules.md) I want to follow in life. They are also displayed in my [Focus board](focusing.md).
 
@@ -18,7 +18,7 @@ The 6 habits are an essential subset of more general [rules](rules.md) I want to
 
 `No wasted time | Build/Learn` is marked as done when I spent the day mindfully working towards my goals. Building ideas, learning or writing. The time I spent is tracked with tools like [Timing](../macOS/apps/timing.md).
 
-`Focus | One task at a time` is marked as done when I didn't get distracted from the tasks I have assigned myself to do. [No multi tasking](../research/solving-problems.md).
+`Plan | Focus | One Task` is marked as done when I planned the day and followed through in working through the events. I also didn't get distracted from the tasks I have assigned myself to do & worked on [one task at a time](../research/solving-problems.md).
 
 ## Notes
 
