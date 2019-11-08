@@ -48,3 +48,4 @@
 - [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers#readme)
 - [Awesome NLP](https://github.com/keon/awesome-nlp#readme)
 - [NLP Library](https://github.com/mihail911/nlp-library#readme) - Curated collection of papers for the NLP practitioner.
+- [spacy-transformers](https://github.com/explosion/spacy-transformers) - spaCy pipelines for pre-trained BERT, XLNet and GPT-2.

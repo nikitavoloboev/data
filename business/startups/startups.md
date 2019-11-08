@@ -89,6 +89,7 @@
 - [Ask HN: Successful one-person online businesses? (2019)](https://news.ycombinator.com/item?id=21332072)
 - [Founder Rewind](https://founderrewind.com/) - “Early Days” Interviews from World-Class Leaders.
 - [Data-Driven Approach to Uncover the Secrets of Billion Dollar Startups (2018)](https://medium.com/@alitamaseb/land-of-the-super-founders-a-data-driven-approach-to-uncover-the-secrets-of-billion-dollar-a69ebe3f0f45)
+- [The Holloway Syllabus on Company Culture](https://www.holloway.com/s/syllabus-company-culture)
 
 ## Images
 
