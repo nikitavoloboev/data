@@ -124,3 +124,4 @@ Go promotes composition over inheritance.
 - [Gox](https://github.com/mitchellh/gox) - Simple Go Cross Compilation.
 - [Learning Go: Lexing and Parsing (2016)](http://blog.leahhanson.us/post/recursecenter2016/recipeparser.html)
 - [Running a serverless Go web application (2019)](https://bartfokker.com/posts/cloud-run/)
+- [Awesome Go Storage](https://github.com/gostor/awesome-go-storage#readme)

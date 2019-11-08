@@ -44,3 +44,4 @@
 - [2015 LLVM Developers’ Meeting: Jf Bastien & Dan Gohman “WebAssembly: Here Be Dragons"](https://www.youtube.com/watch?v=5W7NkofUtAw)
 - [TiDB in the Browser: Running a Golang Database on WebAssembly](https://pingcap.com/blog/tidb-in-the-browser-running-a-golang-database-on-webassembly/)
 - [Forest](https://github.com/forest-lang/forest-compiler) - Functional programming language that compiles to WebAssembly.
+- [WebAssembly.sh](https://webassembly.sh/) - WASM/WASI sandboxed terminal in the browser.

@@ -1,5 +1,10 @@
 # Hiring
 
+## Recruitment tests
+
+- [Skyscanner](https://github.com/Skyscanner/full-stack-recruitment-test)
+- [Otta](https://github.com/XavKearney/otta-engineering-interview-task)
+
 ## Links
 
 - [Hiring and the market for lemons](http://danluu.com/hiring-lemons/)

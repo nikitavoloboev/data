@@ -37,6 +37,7 @@ Here are few more things I liked, design wise.
 ## Personal pages
 
 - [Brandur](https://brandur.org) - Amazingly clean website with an even more [awesome blog](https://brandur.org/interfaces#themware). The TOC and the persistent options on the left are incredible. ([Open Source](https://github.com/brandur/sorg))
+- [Jon Gjengset](https://thesquareplanet.com/)
 - [Moe Amaya](https://moeamaya.com/)
 - [Sergio Xalambrí](https://sergiodxa.com/) ([OSS](https://github.com/sergiodxa/personal-site))
 - [Tyler Gaw](https://tylergaw.com/)

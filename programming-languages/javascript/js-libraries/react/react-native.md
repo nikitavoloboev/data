@@ -19,3 +19,4 @@
 - [react-native-tscodegen](https://github.com/microsoft/react-native-tscodegen) - Generate react-native turbo modules using TypeScript.
 - [Haul](https://github.com/callstack/haul) - Drop-in replacement for react-native CLI built on open tools like Webpack.
 - [zacs](https://github.com/Nozbe/zacs) - Zero Abstraction Cost Styling (for React DOM & React Native)
+- [How Discord achieves native iOS performance with React Native (2019)](https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502) ([HN](https://news.ycombinator.com/item?id=21480493))

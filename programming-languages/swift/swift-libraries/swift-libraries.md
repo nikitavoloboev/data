@@ -114,6 +114,7 @@
 - [Carbon](https://github.com/ra1028/Carbon) - Declarative library for building component-based user interfaces in UITableView and UICollectionView.
 - [Surge](https://github.com/Jounce/Surge) - Swift library that uses the Accelerate framework to provide high-performance functions for matrix math, digital signal processing, and image manipulation.
 - [PostgresNio](https://github.com/vapor/postgres-nio) - Non-blocking, event-driven Swift client for PostgreSQL.
+- [Swift Numerics](https://github.com/apple/swift-numerics) - Provides a set of modules that support numerical computing in Swift. ([Article](https://swift.org/blog/numerics/)) ([HN](https://news.ycombinator.com/item?id=21477490))
 
 ## Links
 
