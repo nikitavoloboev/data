@@ -61,7 +61,7 @@ I focus on [solving problems](../research/solving-problems.md) & limit any distr
 
 ## Other things
 
-- I don't listen to distracting music & block out environment noise when focusing. Instead I use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) and listen to wind or similar sounds.
+- I don't listen to distracting music & block out environment noise when focusing. Instead I use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) and listen to wind/rain or similar sounds.
 - I always have water or tea nearby and keep myself hydrated. If I can't solve some problem or feel like I can't keep my focus, I take a walk outside or do some exercise.
 - I try to work outside of home and move often. When that is not possible I emulate a working environment in some part of my home so my brain knows that if I am in this place, it is time to work and not do anything else.
 - I don't use any external monitors. I found multiple monitors distracting as I can do everything fast with my macbook already.
