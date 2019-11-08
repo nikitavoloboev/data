@@ -10,7 +10,7 @@
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
 - Cut out noise (no analytics, likes..). Maximize impact.
 - Learn from mistakes. Reflect. Journal. Move forward.
-- Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts.
+- Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts. No distractions (news, updates..) when focusing.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.
 - Be consistent. Make friends with imperfection. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes) and don't fixate on the goals.
