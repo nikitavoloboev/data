@@ -16,7 +16,7 @@ Here is how that board looks for me:
 
 I describe how I use each of them & the price + link of where I bought the item from in the description. I use [FB Market Place](https://facebook.com/marketplace) to sell off the things I don't need.
 
-I [budget my money](../economy/finance.md). This allows me to spend & invest my money mindfully and not buy things I don't need.
+I [budget all money](../economy/finance.md). This allows me to spend & invest mindfully and not buy things I don't need.
 
 ## Notes
 

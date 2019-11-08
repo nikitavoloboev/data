@@ -257,3 +257,4 @@ Below is a list of extensions I use.
 - [Awesome VS Code](https://github.com/viatsko/awesome-vscode#readme)
 - [Why I wrote 33 VSCode extensions and how I manage them](https://medium.com/@fabiospampinato/why-i-wrote-33-vscode-extensions-and-how-i-manage-them-cb61df05e154)
 - [vsce](https://github.com/microsoft/vscode-vsce) - VS Code Extension Manager.
+- [Lobsters: What's your VS Code setup like? (2019)](https://lobste.rs/s/devg9x/what_s_your_vs_code_setup_like)
