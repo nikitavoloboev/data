@@ -66,3 +66,4 @@
 - [Apache Zeppelin](https://zeppelin.apache.org/) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [Apache Nifi](https://nifi.apache.org/) - Easy to use, powerful, and reliable system to process and distribute data.
 - [Data Science: Principles and Practice Course materials (2018/19)](https://github.com/marekrei/cl-datasci-pnp)
+- [Modern Data Practice and the SQL Tradition (2019)](https://tselai.com/modern-data-practice-and-the-sql-tradition.html) ([HN](https://news.ycombinator.com/item?id=21482114))

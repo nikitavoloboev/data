@@ -16,6 +16,7 @@
 - [Techno's Jon Hopkins Drops Science - Supersonic](https://www.youtube.com/watch?v=gzquxwYnDvk)
 - [Nils Frahm at Sydney Opera House - In Conversation with Peter Hollo](https://www.youtube.com/watch?v=dQ97DoQarbk)
 - [Ishome Interview w/English Subs](https://www.youtube.com/watch?v=LX7RPfNhC64)
+- [Big Thief Interview - Adrianne Lenker (2019)](https://www.youtube.com/watch?v=7JimMROaBxQ)
 
 ## Links
 
