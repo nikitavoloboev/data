@@ -18,3 +18,4 @@
 - [Jupyter metapackage for installation and docs](https://github.com/jupyter/jupyter)
 - [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 - [nbcommands](https://github.com/vinayak-mehta/nbcommands) - Unix commands for Jupyter notebooks.
+- [jupyter-scribe](https://github.com/jupytercalpoly/jupyterlab-richtext-mode) - Extension that transforms Markdown cells into rich text-editing cells, powered by ProseMirror.

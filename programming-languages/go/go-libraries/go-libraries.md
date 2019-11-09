@@ -221,6 +221,7 @@
 - [TamaGo](https://github.com/inversepath/tamago) - Bare metal Go for ARM SoCs.
 - [go-pretty](https://github.com/jedib0t/go-pretty) - Utilities to prettify console output of tables, lists, text, etc.
 - [go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go.
+- [Go Terminput](https://github.com/tj/go-terminput) - Provides terminal keyboard input for interactive command-line tools.
 
 ## Links
 

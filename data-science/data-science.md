@@ -67,3 +67,4 @@
 - [Apache Nifi](https://nifi.apache.org/) - Easy to use, powerful, and reliable system to process and distribute data.
 - [Data Science: Principles and Practice Course materials (2018/19)](https://github.com/marekrei/cl-datasci-pnp)
 - [Modern Data Practice and the SQL Tradition (2019)](https://tselai.com/modern-data-practice-and-the-sql-tradition.html) ([HN](https://news.ycombinator.com/item?id=21482114))
+- [Koalas](https://github.com/databricks/koalas) - Pandas API on Apache Spark.
