@@ -46,6 +46,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Max Masnick](https://maxmasnick.com/kb/)
 - [Leon Bambrick](https://til.secretgeek.net/)
 - [Ioannis Kourouklides](https://wiki.kourouklides.com/wiki/Main_Page)
+- [Dmitrii Gerasimov](https://beepb00p.xyz/)
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
 
 ## Wiki software

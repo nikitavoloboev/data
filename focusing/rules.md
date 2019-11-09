@@ -13,6 +13,7 @@
 - Be [mindful](../mindfulness/mindfulness.md) of my actions and thoughts. No distractions (news, updates..) when focusing.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.
+- Create art. Meet people. See places. Be inspired. Reuse work & ideas.
 - Be consistent. Make friends with imperfection. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes) and don't fixate on the goals.
 - Don't judge anyone. Attempt to see another person's point of view.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions.
@@ -46,7 +47,6 @@
 - Use noise canceling headphones to minimize distractions.
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Take mindfulness breaks and breathe when distracted. Or exercise.
-- Create and consume art. Meet people. Be inspired. Reuse work & ideas.
 - Make decisions based on data/experience. Be decisive, bold & right. Collect meaningful experiences & data points for problems I am solving.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.
@@ -188,7 +188,6 @@
 
 ## Social
 
-- Meet new people. Go to seminars, talks, conferences.
 - Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
 - Use [same profile picture](https://avatars0.githubusercontent.com/u/6391776?v=4) & [cover photo](https://pbs.twimg.com/profile_banners/1469451499/1572262491/1500x500) across all profiles. Don't change it.
 
