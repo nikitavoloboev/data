@@ -10,3 +10,5 @@
 - [Homotopy Type Theory 2019](https://hott.github.io/HoTT-2019//summer-school/) ([Notes](https://github.com/CodaFi/Hott-Summer))
 - [HoTT in Idris](https://github.com/associahedron/HoTT-Idris) - Small, incomplete, and inconsistent formalization of homotopy type theory in Idris.
 - [hoq](https://github.com/valis/hoq) - Language based on homotopy type theory with an interval.
+- [Homotopy type theory: towards Grothendieck’s dream](https://home.sandiego.edu/~shulman/papers/hott-grothendieck.pdf)
+- [Homotopy type theory: A high-level language for invariant mathematics (2019)](https://home.sandiego.edu/~shulman/papers/highlevel.pdf)

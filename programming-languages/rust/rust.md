@@ -42,7 +42,7 @@
 - [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust#readme)
 - [Rust Programming Tipz](https://github.com/spacejam/elements-of-rust#readme)
 - [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code.
-- [Learn Rust With Entirely Too Many Linked Lists](https://knowledge.rachelbrindle.com/rust/index.html)
+- [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 - [cargo audit](https://github.com/RustSec/cargo-audit) - Audit Cargo.lock files for crates with security vulnerabilities.
 - [Rust. Are we web yet?](https://www.arewewebyet.org/)
 - [Changelog generator for Rust projects](https://github.com/yoshuawuyts/changelog)
