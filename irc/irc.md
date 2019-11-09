@@ -27,3 +27,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [BotBot](https://botbot.me/) - IRC logs.
 - [WhatsApp web <-> IRC gateway](https://github.com/lieuwex/whapp-irc)
 - [picobounce](https://github.com/begriffs/picobounce) - IRC bouncer that does just what I want and no more.
+- [Irssi](https://github.com/irssi/irssi) - Modular chat client that is most commonly known for its text mode user interface, but 80% of the code isn't text mode specific.

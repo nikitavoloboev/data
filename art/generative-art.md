@@ -18,3 +18,5 @@
 - [Generative Art by Thomas Lin Pedersen](https://www.data-imaginist.com/art)
 - [pack-spheres](https://github.com/mattdesl/pack-spheres) - Brute force circle/sphere packing in 2D or 3D.
 - [Veit's Art](https://veitheller.de/art/)
+- [alt-AI](http://alt-ai.net/) - Exploring the intersection of artificial intelligence and art.
+- [Machine Learning for Artists](https://ml4a.github.io/)
