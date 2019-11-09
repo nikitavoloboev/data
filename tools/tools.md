@@ -128,6 +128,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [SILE](https://github.com/sile-typesetter/sile) - Typesetting system; its job is to produce beautiful printed documents.
 - [CozyCal](https://www.cozycal.com) - Delightfully Simple Scheduling.
 - [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
+- [kache](https://github.com/kasvith/kache) - Simple in memory cache written using go.
 
 ## Notes
 

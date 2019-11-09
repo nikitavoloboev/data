@@ -2,6 +2,10 @@
 
 I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minimal theme](https://github.com/calintat/minimal).
 
+## Themes
+
+- [Even](https://github.com/olOwOlo/hugo-theme-even) - Super concise theme for Hugo.
+
 ## Examples
 
 - [The source for pimbook.org](https://github.com/pim-book/pim-book.github.io)
