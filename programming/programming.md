@@ -94,3 +94,4 @@
 - [Best Practices Checklist](https://github.com/palash25/best-practices-checklist#readme) - List of awesome idiomatic code resources. Rust, Go, Erlang, Ruby, Pony and more.
 - [Programming book list](https://danluu.com/programming-books/)
 - [Programming Talks](https://github.com/hellerve/programming-talks#readme)
+- [There's No Such Thing as Knowing Your Computer 'All the Way to the Bottom' (2019)](http://codefol.io/posts/no-such-thing-as-knowing-coding-all-the-way-to-the-bottom/) ([Lobsters](https://lobste.rs/s/jkuaaz/there_s_no_such_thing_as_knowing_your))

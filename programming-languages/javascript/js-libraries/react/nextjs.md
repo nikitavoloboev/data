@@ -10,3 +10,4 @@
 - [Performance analysis: Next.js SSR on Node.js](https://docs.google.com/document/d/1zen4pq-zvJsvYk4yPZ9x-JB__GmBQ1sqLoP32YCYwIk/edit#)
 - [Introducing Create Next App (2019)](https://nextjs.org/blog/create-next-app)
 - [Persistent Layout Patterns in Next.js (2019)](https://adamwathan.me/2019/10/17/persistent-layout-patterns-in-nextjs/)
+- [Universal Next.js Route](https://github.com/brajevicm/next-universal-route)
