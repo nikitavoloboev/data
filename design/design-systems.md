@@ -10,6 +10,8 @@
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications.
 - [Reach UI](https://github.com/reach/reach-ui) - Accessible Foundation for React Apps and Design Systems.
 - [Latitude](https://www.flexport.com/design) - Design guidelines, component documentation, styling instructions, and resources for building interfaces with Flexport’s design system. ([HN](https://news.ycombinator.com/item?id=21461579)) ([OSS](https://github.com/flexport/latitude))
+- [Zeit](https://zeit.co/design)
+- [Primer](https://primer.style/) - Design, build, and create with GitHub’s design system.
 
 ## Links
 

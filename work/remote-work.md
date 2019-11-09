@@ -21,3 +21,4 @@
 - [Lobsters: What Most Remote Companies Don’t Tell You About Remote Work (2019)](https://lobste.rs/s/falb03/what_most_remote_companies_don_t_tell_you)
 - [NoHQ](https://nohq.co/) - Learn how to build a great remote team.
 - [RemoteHub](https://remotehub.io/) - Remote Jobs and Companies.
+- [Remote only manifesto](https://remoteonly.org/)
