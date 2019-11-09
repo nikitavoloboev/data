@@ -33,3 +33,5 @@
 - [Compiling a Functional Language Using C++, Part 0 - Intro (2019)](https://danilafe.com/blog/00_compiler_intro/)
 - [Compiling at Compile Time (2019)](https://blog.veitheller.de/Compiling_at_Compile_Time.html)
 - [MLIR: Multi-Level Intermediate Representation for Compiler Infrastructure - Tatiana Shpeisman, Chris Lattner (2019)](https://www.youtube.com/watch?v=qzljG6DKgic)
+- [How an Optimizing Compiler Works (2019)](http://www.lihaoyi.com/post/HowanOptimizingCompilerWorks.html)
+- [Dive into Deep Learning Compiler](http://tvm.d2l.ai.s3-website-us-west-2.amazonaws.com/)

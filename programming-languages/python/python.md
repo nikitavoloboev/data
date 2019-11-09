@@ -51,3 +51,4 @@
 - [Python Type Checking course](https://realpython.com/courses/python-type-checking/)
 - [Python Enhancement Proposals](https://github.com/python/peps)
 - [Cool Python features for machine learning that I used to be too afraid to use](https://github.com/chiphuyen/python-is-cool)
+- [Python: better typed than you think (2019)](https://beepb00p.xyz/mypy-error-handling.html)
