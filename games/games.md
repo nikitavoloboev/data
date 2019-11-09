@@ -22,6 +22,7 @@ I track [all the games I have played](https://www.grouvee.com/user/nikivi/shelve
 - [Diablo build for modern operating systems](https://github.com/diasurgical/devilutionX)
 - [OneLife](https://github.com/jasonrohrer/OneLife) - Multiplayer survival game of parenting and civilization building.
 - [OpenMW](https://github.com/OpenMW/openmw) - Open-source open-world RPG game engine that supports playing Morrowind.
+- [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - Open source re-implementation of Diablo 2.
 
 ## Recommendations
 
