@@ -24,3 +24,5 @@
 - [Spawned Shelter](http://spawnedshelter.com/) - Collection of the best articles, videos and books for learning Erlang.
 - [Stuff Goes Bad: Erlang in Anger book](https://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war.
 - [AtomVM](https://github.com/bettio/AtomVM) - Tiny Erlang VM.
+- [Anton Lavrik - A Reflection on Building the WhatsApp Server - Code BEAM 2018](https://www.youtube.com/watch?v=LJx6mUEFAqQ)
+- [erlexec](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
