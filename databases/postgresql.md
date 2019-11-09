@@ -38,3 +38,4 @@
 - [Postgres Explain Visualizer (pev)](https://github.com/AlexTatiyants/pev)
 - [Dexter](https://github.com/ankane/dexter) - Automatic indexer for Postgres.
 - [Hypothetical Indexes in PostgreSQL (2019)](https://www.percona.com/blog/2019/06/21/hypothetical-indexes-in-postgresql/)
+- [System design hack: Postgres is a great pub/sub & job server (2019)](https://layerci.com/blog/postgres-is-the-answer/) ([HN](https://news.ycombinator.com/item?id=21484215))

@@ -53,3 +53,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [syzkaller](https://github.com/google/syzkaller) - Unsupervised coverage-guided kernel fuzzer.
 - [What's the best approach to learn Linux and its internals? (2019)](https://lobste.rs/s/8qhpaa/what_s_best_approach_learn_linux_its)
 - [htop explained](https://peteris.rocks/blog/htop/) - Explanation of everything you can see in htop/top on Linux.
+- [BPF Compiler Collection (BCC)](https://github.com/iovisor/bcc) - Tools for BPF-based Linux IO analysis, networking, monitoring, and more.
