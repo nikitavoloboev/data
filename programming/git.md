@@ -69,3 +69,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal.
 - [Delta](https://github.com/dandavison/delta) - Syntax-highlighting pager for git.
 - [Building Git](https://shop.jcoglan.com/building-git/) - Deep dive into the internals of the Git version control system.
+- [gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust.
