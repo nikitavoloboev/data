@@ -6,7 +6,7 @@
 - Don't waste time. Build [ideas](../ideas/ideas.md).
 - Focus. One task at a time. Think.
 - Learn. Experiment. Take risks. [Ask questions](../research/asking-questions.md). Document.
-- [Share](../sharing/sharing.md). [Write](../writing/writing.md). Be honest & clear.
+- [Share](../sharing/sharing.md). [Write](../writing/writing.md). Be honest, clear & concise.
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
 - Cut out noise (no analytics, likes..). Maximize impact.
 - Learn from mistakes. Reflect. Journal. Move forward.
@@ -24,8 +24,8 @@
 
 ## Health
 
-- [Exercise](../fitness/fitness.md). 50+ min cardio/weights daily.
-- Eat [whole food, plant based diet](../health/nutrition/nutrition.md). Fast.
+- [Exercise](../fitness/fitness.md). 30+ min cardio/weights daily.
+- Eat [whole food, plant based diet](../health/nutrition/nutrition.md). [Fast weekly](../health/nutrition/fasting.md).
 - Drink lots of water & tea. Limit coffee consumption. No sugar.
 - Get daily NutriFull of [superfoods](../health/nutrition/foods.md) & [supplements](../health/nutrition/supplements.md).
 - Always have straight posture. Sit properly and upright, don't bend my back/spine.
@@ -59,8 +59,7 @@
 ## Ideas
 
 - Share [all ideas I have](https://trello.com/b/alB1ryRP). Add relevant description and links to describe the idea clearly.
-- Start building early. Validate ideas. Move fast. Ship often. Iterate.
-- Let ideas evolve. Listen to feedback.
+- Start building early. Validate ideas. Iterate fast. Ship often. Listen to feedback.
 
 ## Learn
 

@@ -1,6 +1,6 @@
 # Fasting
 
-I try to fast daily by not eating food for 16 hours or more. I also fast for a full day at least once a week (often on Friday).
+I try to fast at least one day a week, usually that day is Monday. When fasting I allow myself to only eat my [NutriFull](foods.md) or not eat anything at all and drink water.
 
 ## Notes
 
