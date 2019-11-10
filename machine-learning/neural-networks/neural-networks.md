@@ -53,3 +53,4 @@
 - [The Neural Process Family](https://github.com/deepmind/neural-processes) - Contains notebook implementations of the following Neural Process variants: Conditional Neural Processes (CNPs), Neural Processes (NPs), Attentive Neural Processes (ANPs).
 - [Notes on Neural Nets](https://wiki.kourouklides.com/wiki/Artificial_Neural_Network)
 - [Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (2019)](https://github.com/KangchengHou/gntk)
+- [RNNoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction.

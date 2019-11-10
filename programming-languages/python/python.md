@@ -52,3 +52,4 @@
 - [Python Enhancement Proposals](https://github.com/python/peps)
 - [Cool Python features for machine learning that I used to be too afraid to use](https://github.com/chiphuyen/python-is-cool)
 - [Python: better typed than you think (2019)](https://beepb00p.xyz/mypy-error-handling.html)
+- [hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter. ([Article](http://callcc.io/hython-the-simplest-possible-language/))
