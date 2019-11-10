@@ -14,14 +14,12 @@
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas.
-- Be consistent. Start early. Strive for perfection. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
+- Be consistent. Start early. Make friends with imperfection. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Don't judge anyone. Attempt to see another person's point of view.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions.
 - Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Move fast. Never give up.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
-- Build & enforce [good habits](habits.md).
-- Adjust these rules and [my workflow](../sharing/my-workflow.md) to match what I learned.
-- Follow these rules. Adapt. [Take it easy](../life/happiness.md). You only live now.
+- Build & enforce these rules as [habits](habits.md) & follow them. Adapt. [Take it easy](../life/happiness.md). You only live now.
 
 ## Health
 
