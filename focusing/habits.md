@@ -2,7 +2,7 @@
 
 I use [Streaks](https://streaksapp.com) iOS app to track my essential life habits.
 
-![](https://i.imgur.com/g1FuQGY.jpg)
+![](https://i.imgur.com/fD2u37A.jpg)
 
 The 6 habits are an essential subset of more general [rules](rules.md) I want to follow in life. They are also displayed in my [Focus board](focusing.md).
 
@@ -10,7 +10,7 @@ The 6 habits are an essential subset of more general [rules](rules.md) I want to
 
 `Sleep 8 hours` is autofilled through my health data. I get notification at `22:20` to remind me it's time for sleep & checking in habits I completed today.
 
-`Wholefood | Nutri Boost` is marked as done when I drank only water/tea/coffee/smoothie (no sugar) & ate only wholefood foods (nuts/veggies/fruits). Nutri Boost is a [set of superfoods](../health/nutrition/foods.md) & [supplements](../health/nutrition/supplements.md) I try to eat daily.
+`Fast | Wholefood | NutriFull` is marked as done when I drank only water/tea/coffee/smoothie (no sugar) & ate only wholefood foods (nuts/veggies/fruits). NutriFull is a [set of superfoods](../health/nutrition/foods.md) & [supplements](../health/nutrition/supplements.md) I try to eat daily after my fasts.
 
 `Activity rings` is autofilled through my health data and is marked as done when all the ring goals are complete. My current calorie goal is 750 calories with fixed 30 min workout & 12H standing goals.
 

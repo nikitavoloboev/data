@@ -11,3 +11,4 @@
 - [beautiful-racket](https://github.com/mbutterick/beautiful-racket) - Resources for the “Beautiful Racket” book.
 - [Hackett](https://github.com/lexi-lambda/hackett) - Attempt to implement a Haskell-like language with support for Racket’s macro system, built using the techniques described in the paper Type Systems as Macros.
 - [Learning Racket #1: Introduction](https://artyom.me/learning-racket-1)
+- [Awesome Racket](https://github.com/avelino/awesome-racket#readme)

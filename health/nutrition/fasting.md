@@ -1,6 +1,6 @@
 # Fasting
 
-I fast one day a week. Usually on Friday.
+I try to fast daily by not eating food for 16 hours or more. I also fast for a full day at least once a week (often on Friday).
 
 ## Notes
 

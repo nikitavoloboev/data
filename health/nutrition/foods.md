@@ -4,15 +4,13 @@ I eat a whole food, place based diet and experiment by trying out new [vegan rec
 
 Most of my diet consists of eating raw foods like almonds, walnuts, blueberries, bananas and avocados.
 
-I try to cover my micro nutrient needs by consuming the same set of superfoods daily (NutriBoost). Usually in form of a small smoothie, otherwise eaten raw:
+I try to cover my micro nutrient needs by consuming the same set of superfoods daily (NutriFull). Usually in form of a small smoothie or eaten raw after my [fast](fasting.md).
 
 - Blueberries (200g+)
 - Broccoli / Kale (50g+)
 - Walnuts / Almonds (100g+)
 
-Can be consumed in one go or throughout the day. This NutriBoost also includes consuming few [supplements](supplements.md).
-
-I try to fast and limit my food initake for prolonged periods of time. Either daily 16 hour fast or sometimes full day fasts.
+Can be consumed in one go or throughout the day. This NutriFull also includes consuming few [supplements](supplements.md).
 
 I use [Paprika app](https://www.paprikaapp.com/) to store all my recipes & the foods I can eat sorted into categories (with top first). Here is how it looks:
 

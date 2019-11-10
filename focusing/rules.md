@@ -14,7 +14,7 @@
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas.
-- Be consistent. Start early. Make friends with imperfection. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
+- Be consistent. Start early. Strive for perfection. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Don't judge anyone. Attempt to see another person's point of view.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions.
 - Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Move fast. Never give up.
@@ -28,7 +28,7 @@
 - [Exercise](../fitness/fitness.md). 50+ min cardio/weights daily.
 - Eat [whole food, plant based diet](../health/nutrition/nutrition.md). Fast.
 - Drink lots of water & tea. Limit coffee consumption. No sugar.
-- Get daily NutriBoost of [superfoods](../health/nutrition/foods.md) & [supplements](../health/nutrition/supplements.md).
+- Get daily NutriFull of [superfoods](../health/nutrition/foods.md) & [supplements](../health/nutrition/supplements.md).
 - Always have straight posture. Sit properly and upright, don't bend my back/spine.
 - [Sleep](../sleep/sleep.md) fully. Don't limit sleep, ever. If need to wake up early, go to sleep early. Sleep ~8 hours each day.
 - Everything in moderation. Avoid any damaging drugs (i.e. alcohol/opiates). Health above all. Limit [psychedelic](../drugs/psychedelics/psychedelics.md) use.

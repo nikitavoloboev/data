@@ -126,4 +126,4 @@ Go promotes composition over inheritance.
 - [Running a serverless Go web application (2019)](https://bartfokker.com/posts/cloud-run/)
 - [Awesome Go Storage](https://github.com/gostor/awesome-go-storage#readme)
 - [Go Modules: v2 and Beyond (2019)](https://blog.golang.org/v2-go-modules)
-- [Let's Create a Simple Load Balancer With Go (2019)](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
+- [Let's Create a Simple Load Balancer With Go (2019)](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/) ([HN](https://news.ycombinator.com/item?id=21490731))
