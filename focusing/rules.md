@@ -69,7 +69,7 @@
 - [Build things from scratch](https://github.com/nikitavoloboev/build-to-learn) to understand. Minimal version that works.
 - Draw or sketch to distill complex ideas. Think through problems together. Discuss.
 - Watch videos at 2x speed, unless it hurts comprehension or it's entertainment.
-- Listen to podcasts/books at fastest speed I can comprehend. (Podcasts: ~ 2/2.5x + smart speed, Books: 1.5/1.75x).
+- Listen to podcasts/books at fastest speed I can comprehend. (Podcasts: ~2.5x + smart speed, Books: ~1.75x).
 
 ## Write
 
