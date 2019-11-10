@@ -45,3 +45,4 @@
 - [Captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch.
 - [Pytorch-Struct](https://github.com/harvardnlp/pytorch-struct) - Fast, general, and tested differentiable structured prediction in PyTorch.
 - [Dive Into Deep Learning 2 PyTorch](https://github.com/dsgiitr/d2l-pytorch)
+- [PyTorch at Tesla - Andrej Karpathy, Tesla (2019)](https://www.youtube.com/watch?v=oBklltKXtDE) ([HN](https://news.ycombinator.com/item?id=21495685))
