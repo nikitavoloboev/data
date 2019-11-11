@@ -51,9 +51,11 @@ At the end of the 80 min focus session, [Timing](../macOS/apps/timing.md) shows 
 
 ![](https://i.imgur.com/yNlFtjK.png)
 
-The projects are a reflection of my Focus Trello board.
+> Focus script ran on break/focus-end will switch to Timing and activate next block of time so I can annotate what I did
 
-![](https://i.imgur.com/AAifLtX.png)
+![](https://i.imgur.com/doW3obs.png)
+
+> Projects in Timing track activities I did. I add rules to each activity so Timing intelligently matches blocks of time to activities
 
 I limit apps that can send me notifications to only essential things and turn off all sounds on notifications I get.
 
