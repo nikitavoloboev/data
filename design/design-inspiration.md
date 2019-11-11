@@ -43,6 +43,7 @@ Here are few more things I liked, design wise.
 - [Tyler Gaw](https://tylergaw.com/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
 - [Erin](https://www.erinmcg.com/)
+- [Kohei Asai](https://axross.dev/)
 - [Sasha Greif](http://sachagreif.com/)
 - [Wimer Hazenberg](https://www.monokai.nl/) - Nice scrolling effect.
 - [Adam Pritchard](https://crypti.cc/)

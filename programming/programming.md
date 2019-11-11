@@ -95,4 +95,3 @@
 - [Programming book list](https://danluu.com/programming-books/)
 - [Programming Talks](https://github.com/hellerve/programming-talks#readme)
 - [There's No Such Thing as Knowing Your Computer 'All the Way to the Bottom' (2019)](http://codefol.io/posts/no-such-thing-as-knowing-coding-all-the-way-to-the-bottom/) ([Lobsters](https://lobste.rs/s/jkuaaz/there_s_no_such_thing_as_knowing_your))
-- [Parse, don’t validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) ([Lobsters](https://lobste.rs/s/uemphs/parse_don_t_validate)) ([HN](https://news.ycombinator.com/item?id=21476261))

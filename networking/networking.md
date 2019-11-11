@@ -46,3 +46,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Everything curl - the book](https://curl.haxx.se/book.html)
 - [Seastar](https://github.com/scylladb/seastar) - High performance server-side application framework.
 - [ServiceTalk](https://github.com/apple/servicetalk/) - Networking framework that evolves with your application.
+- [Beginner Network Pentesting course notes](https://github.com/hmaverickadams/Beginner-Network-Pentesting)

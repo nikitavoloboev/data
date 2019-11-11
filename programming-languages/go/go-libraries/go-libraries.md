@@ -222,6 +222,7 @@
 - [go-pretty](https://github.com/jedib0t/go-pretty) - Utilities to prettify console output of tables, lists, text, etc.
 - [go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go.
 - [Go Terminput](https://github.com/tj/go-terminput) - Provides terminal keyboard input for interactive command-line tools.
+- [Termd](https://github.com/tj/go-termd) - Provides terminal markdown rendering, with code block syntax highlighting support.
 
 ## Links
 

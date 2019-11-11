@@ -2,6 +2,7 @@
 
 ## Links
 
+- [Ray Tracing in One Weekend: The Book Series](https://raytracing.github.io/) ([OSS](https://github.com/raytracing/raytracing.github.io/))
 - [Ray Tracing in One Weekend implemented in Golang, chapter-by-chapter](https://github.com/hunterloftis/oneweekend)
 - [Understandable Ray Tracing in 256 lines of bare C++ course (2019)](https://github.com/ssloy/tinyraytracer)
 - [C++17 constexpr Compile-time Ray Tracer](https://github.com/tcbrindle/raytracer.hpp)
