@@ -45,3 +45,4 @@
 - [TiDB in the Browser: Running a Golang Database on WebAssembly](https://pingcap.com/blog/tidb-in-the-browser-running-a-golang-database-on-webassembly/)
 - [Forest](https://github.com/forest-lang/forest-compiler) - Functional programming language that compiles to WebAssembly.
 - [WebAssembly.sh](https://webassembly.sh/) - WASM/WASI sandboxed terminal in the browser.
+- [WebAssembly meetings (VC or in-person), agendas, and notes](https://github.com/WebAssembly/meetings)
