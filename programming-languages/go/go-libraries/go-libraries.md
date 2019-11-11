@@ -223,6 +223,7 @@
 - [go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go.
 - [Go Terminput](https://github.com/tj/go-terminput) - Provides terminal keyboard input for interactive command-line tools.
 - [Termd](https://github.com/tj/go-termd) - Provides terminal markdown rendering, with code block syntax highlighting support.
+- [Tea](https://github.com/tj/go-tea) - Provides an Elm inspired functional framework for interactive command-line programs.
 
 ## Links
 

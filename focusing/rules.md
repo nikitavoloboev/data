@@ -40,12 +40,12 @@
 - When **focusing**, do the task at hand and nothing else. [Break problems down](../research/solving-problems.md). Solve them.
 - Be mindful of my habits and temptations. Don't succumb to them and keep my focus. Do things with purpose.
 - Do quick exercise bursts during the day to regain focus. Move around & explore new environments for inspiration.
-- On monthly reviews, observe time I spent in Timing and restrict wasted time with [Focus](https://heyfocus.com).
 - Use one screen on mac. It's easier to context switch and keep focus.
 - Don't listen to distracting music & block out environment noise when focusing. Use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) and listen to rain or similar sounds.
 - Use noise canceling headphones to minimize distractions.
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Take mindfulness breaks and breathe when distracted. Or exercise.
+- Update [Timing](../macOS/apps/timing.md) after breaks and focus session ends. Refine activity rules for better activity predictions.
 - Make decisions based on data/experience. Be decisive, bold & right. Collect meaningful experiences & data points for problems I am solving.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.
