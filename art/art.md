@@ -106,6 +106,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Devine Lu Linvega](https://wiki.xxiivv.com/#photography)
 - [Henri Prestes](https://henriprestesp.com/)
 - [Oystein Aspelund](http://oysteinaspelund.com/)
+- [Rachael Talibart](https://www.instagram.com/rachaeltalibart/)
 
 ## Notes
 
