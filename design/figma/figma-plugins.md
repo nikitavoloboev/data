@@ -7,3 +7,4 @@
 - [react-figma](https://github.com/ilyalesik/react-figma) - Render React components to Figma.
 - [Awesome Design Plugins](https://flawlessapp.io/designplugins) - Best design plugins for Sketch, Adobe XD, and Figma.
 - [figplug](https://github.com/rsms/figplug) - Figma plugin builder.
+- [Remove.bg Plugin](https://github.com/aaroniker/figma-remove-bg) - Remove the background of images automatically.

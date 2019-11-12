@@ -42,9 +42,10 @@ Only on breaks can I visit these websites. I also get 20 minutes of optional bre
 
 The things I work on are events I have set in [Fantastical](../macOS/apps/fantastical.md). The events can be meetings or projects I have set. Some common events include:
 
-- 2Do (☑️) - I open [2Do](../macOS/apps/2do.md) and work through the most prioritized tasks for `Today` or `Starred`.
-- Code (💻) - I work through 2Do tasks with `pr` tag or work on open issues/prs I have on GitHub or build an idea from [Trello](https://trello.com/b/alB1ryRP).
-- Learn (📖) - I learn a topic from one of the currently active topics on [Trello](https://trello.com/b/cu32qF3q).
+- 2Do - I open [2Do](../macOS/apps/2do.md) and work through the most prioritized tasks for `Today` or `Starred`.
+- Code - I work through 2Do tasks with `pr` tag or work on open issues/prs I have on GitHub or build an idea from [Trello](https://trello.com/b/alB1ryRP).
+- Learn - I learn a topic from one of the currently active topics on [Trello](https://trello.com/b/cu32qF3q).
+- Write - I write and finish any of the [fragments](../fragments/fragments.md) I started or create new.
 
 At the end of the 80 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 80 min period.
 
