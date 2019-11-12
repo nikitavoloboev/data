@@ -27,3 +27,4 @@
 - [Anton Lavrik - A Reflection on Building the WhatsApp Server - Code BEAM 2018](https://www.youtube.com/watch?v=LJx6mUEFAqQ)
 - [erlexec](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 - [Hex](https://hex.pm/) - Package manager for the Erlang ecosystem.
+- [Blog from the Erlang/OTP team](http://blog.erlang.org/)
