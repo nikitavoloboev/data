@@ -4,7 +4,7 @@ This article on [Interviewing, applying and getting your first job in iOS](http:
 
 I made a curated list of ways to prepare and places to look to [find work programming](https://github.com/nikitavoloboev/find-work#readme).
 
-I use [LinkedIn](https://www.linkedin.com) & [Angellist](https://angel.co) and the [monthly HN: Who is hiring? threads](https://kennytilton.github.io/whoishiring/) for finding interesting work opportunities to apply to.
+I use [Otta](https://otta.co/), [LinkedIn](https://www.linkedin.com) & [Angellist](https://angel.co) and the [monthly HN: Who is hiring? threads](https://kennytilton.github.io/whoishiring/) for finding interesting work opportunities to apply to.
 
 I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTeX](https://github.com/nikitavoloboev/cv#readme).
 

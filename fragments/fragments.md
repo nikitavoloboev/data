@@ -1,3 +1,3 @@
 # Fragments
 
-Inspired by [Brandur](https://brandur.org/fragments), I share some general notes that can in future become [published articles](../sharing/my-articles.md).
+Inspired by [Brandur](https://brandur.org/fragments), I share small notes which in future can become [published articles](../sharing/my-articles.md).

@@ -91,3 +91,4 @@
 - [Simplifying React component testing (2019)](https://medium.com/@andythedev/simplifying-react-component-testing-3958f8fa1a7)
 - [Relay](https://github.com/facebook/relay) - JavaScript framework for building data-driven React applications.
 - [Reatom](https://github.com/artalar/reatom) - Declarative and reactive state manager, designed for both simple and complex applications.
+- [Tried & True Tips from 25 React Experts to Make You More Productive (2019)](https://www.telerik.com/kendo-react-ui/react-best-practices-and-productivity-tips/)
