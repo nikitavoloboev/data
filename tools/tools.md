@@ -4,6 +4,7 @@ I love software and non software tools that help me in some way. Most tools I us
 
 ## Other
 
+- [Instantish](https://www.itsinstantish.com/) - Chat-first issue tracker.
 - [Gravatar](https://en.gravatar.com/) - Attach an image to an email and websites supporting Gravatar will simply pick up the image you specified.
 - [Calendly](https://calendly.com/) - Schedule meetings.
 - [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining style guides easy.
@@ -129,6 +130,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [CozyCal](https://www.cozycal.com) - Delightfully Simple Scheduling.
 - [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
 - [kache](https://github.com/kasvith/kache) - Simple in memory cache written using go.
+- [Whimsical](https://whimsical.com/) - The Visual Workspace.
 
 ## Notes
 

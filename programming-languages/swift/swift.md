@@ -49,7 +49,7 @@
 - [llbuild](https://github.com/apple/swift-llbuild) - Low-level build system, used by Xcode and the Swift Package Manager.
 - [Accio](https://github.com/JamitLabs/Accio) - Dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
 - [TelegramSwift](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macos on Swift 5.0.
-- [Differentiable Programming Mega-Proposal (2019)](https://forums.swift.org/t/differentiable-programming-mega-proposal/28547)
+- [Differentiable Programming Mega-Proposal (2019)](https://forums.swift.org/t/differentiable-programming-mega-proposal/28547) ([Manifesto](https://github.com/apple/swift/blob/master/docs/DifferentiableProgramming.md)) ([HN](https://news.ycombinator.com/item?id=21521233))
 - [swift-bindgen](https://github.com/rustswift/swift-bindgen) - Bridging the gap between Swift and Rust.
 - [Swift Performance (2019)](https://forums.swift.org/t/swift-performance/28776)
 - [Swift Compiler Driver](https://github.com/apple/swift-driver) - Program that coordinates the compilation of Swift source code into various compiled results: executables, libraries, object files, Swift modules and interfaces, etc.
@@ -62,3 +62,4 @@
 - [Learn Swift in Y minutes](https://learnxinyminutes.com/docs/swift/)
 - [Swift tricks (2019)](http://eon.codes/blog/2019/10/19/Swift-tricks/)
 - [How Swift Achieved Dynamic Linking Where Rust Couldn't (2019)](https://gankra.github.io/blah/swift-abi/) ([HN](https://news.ycombinator.com/item?id=21488415))
+- [The Best Swift and iOS conferences in 2020](https://www.hackingwithswift.com/articles/206/the-best-swift-and-ios-conferences-in-2020)
