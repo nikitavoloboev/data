@@ -6,7 +6,7 @@
 - [Pyre Check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [Optional Static Typing for Python - Guido van Rossum (2018)](https://www.youtube.com/watch?v=GiZKuyLKvAA)
 - [WTF Python](https://github.com/satwikkansal/wtfpython#readme)
-- [My Python development environment (2018)](https://jacobian.org/writing/python-environment-2018/)
+- [My Python Development Environment, 2020 Edition (2019)](https://jacobian.org/2019/nov/11/python-environment-2020/) ([HN](https://news.ycombinator.com/item?id=21510262))
 - [Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure#readme)
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 - [Structuring Your Python Project](http://docs.python-guide.org/en/latest/writing/structure/)
