@@ -2,7 +2,7 @@
 
 An application which allowed me to originally create [all of the maps](https://www.dropbox.com/sh/df7lxpsizx0ukd7/AAAUZzX55vnfZMqTRuhzJbWwa?dl=0) for [Learn Anything](https://learn-anything.xyz).
 
-![](https://raw.githubusercontent.com/learn-anything/learn-anything/2017/media/header.png)
+![](https://raw.githubusercontent.com/learn-anything/2017-release/master/media/header.png)
 
 I also use MindNode to [visually break down problems I am trying to solve](../../research/solving-problems.md).
 

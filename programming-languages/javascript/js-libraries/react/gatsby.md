@@ -35,3 +35,4 @@
 - [Gatsby ThemeJam Showcase](https://themejam.gatsbyjs.org/showcase)
 - [Gatsby RFCs](https://github.com/gatsbyjs/rfcs)
 - [Gatsby with GraphQL & Hasura](https://github.com/hasura/graphql-engine/wiki/Gatsby-with-GraphQL-&-Hasura)
+- [Announcing Gatsby Cloud (2019)](https://www.gatsbyjs.org/blog/2019-11-14-announcing-gatsby-cloud/)

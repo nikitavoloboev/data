@@ -103,3 +103,4 @@
 - [Async-await on stable Rust! (2019)](https://blog.rust-lang.org/2019/11/07/Async-await-stable.html) ([HN](https://news.ycombinator.com/item?id=21473259))
 - [Comparing Parallel Rust and C++](https://parallel-rust-cpp.github.io/introduction.html) ([HN](https://news.ycombinator.com/item?id=21469295))
 - [Rust web framework comparison](https://github.com/flosse/rust-web-framework-comparison)
+- [Rust memory management explained from C perspective (2019)](https://www.reddit.com/r/rust/comments/dvqibf/someone_explain_rust_memory_management_from_c/)
