@@ -18,3 +18,4 @@ For user facing products, well implemented analytics will let you see how to opt
 - [Analytics.js](https://github.com/segmentio/analytics.js) - Hassle-free way to integrate analytics into any web application.
 - [Kedro](https://github.com/quantumblacklabs/kedro) - Python library for building robust production-ready data and analytics pipelines.
 - [Plausible Insights](https://github.com/plausible-insights/plausible) - Simple, lightweight analytics for your website.
+- [Metabase](https://www.metabase.com/) - Easy, open source way for everyone in your company to ask questions and learn from data. ([OSS](https://github.com/metabase/metabase)) ([Binary deployment](https://github.com/metabase/metabase-deploy))

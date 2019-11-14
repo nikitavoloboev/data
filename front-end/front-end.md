@@ -18,3 +18,4 @@
 - [The Great Divide (2019)](https://css-tricks.com/the-great-divide/) - Two front-end developers are sitting at a bar. They have nothing to talk about.
 - [Micro Frontends (2019)](https://martinfowler.com/articles/micro-frontends.html)
 - [The Modern Front-End Design System Stack (2019)](https://jxnblk.com/blog/the-modern-front-end-design-system/)
+- [Navigating the Hype-Driven Frontend Development World Without Going Insane - Kitze (2019)](https://www.youtube.com/watch?v=u2WtILkz0fI)
