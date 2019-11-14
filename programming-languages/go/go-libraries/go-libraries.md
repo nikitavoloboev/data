@@ -224,6 +224,7 @@
 - [Go Terminput](https://github.com/tj/go-terminput) - Provides terminal keyboard input for interactive command-line tools.
 - [Termd](https://github.com/tj/go-termd) - Provides terminal markdown rendering, with code block syntax highlighting support.
 - [Tea](https://github.com/tj/go-tea) - Provides an Elm inspired functional framework for interactive command-line programs.
+- [Lattigo](https://github.com/ldsec/lattigo) - Lattice-based cryptographic library in Go.
 
 ## Links
 

@@ -55,6 +55,7 @@
 - Use standing desk. Never sit for long. Sit up right.
 - Only use the bed for sleep ideally. Be purposeful in any environment I am in. Start days quickly.
 - Don't overthink things to the point of not doing anything. Clear up any confusion.
+- Use priority system for everything and don't go outside its bounds. (i.e. Trello [Learn board](https://trello.com/b/cu32qF3q) or [Goodreads currently reading list](https://www.goodreads.com/review/list/15768482?shelf=currently-reading))
 
 ## Ideas
 

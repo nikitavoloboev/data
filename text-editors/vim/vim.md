@@ -37,3 +37,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [vi Complete Key Binding List](https://hea-www.harvard.edu/~fine/Tech/vi.html)
 - [Effective VimScript (2019)](https://arp242.net/effective-vimscript.html) ([Reddit](https://www.reddit.com/r/vim/comments/dpmnd1/effective_vimscript/))
 - [Lobsters: Whats your vim setup like? (2019)](https://lobste.rs/s/ffhwse/whats_your_vim_setup_like)
+- [nvim-lsp](https://github.com/neovim/nvim-lsp) - Common configurations for Neovim Language Servers.
