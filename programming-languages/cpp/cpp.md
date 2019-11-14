@@ -37,3 +37,6 @@
 - [Collaborative Collection of C++ Best Practices](https://lefticus.gitbooks.io/cpp-best-practices/content/)
 - [ChaiScript](https://github.com/ChaiScript/ChaiScript) - Embedded Scripting Language Designed for C++.
 - [Kevlin Henney - Functional C++ (2017)](https://www.youtube.com/watch?v=CIg6eyJv4dk&feature=youtu.be)
+- [Object-Oriented Data Structures in C++ course](https://www.coursera.org/learn/cs-fundamentals-1/?authMode=login)
+- [C++ Reference](https://en.cppreference.com/w/)
+- [Accelerated C++: Practical Programming by Example book (2000)](http://libertar.io/lab/wp-content/uploads/2017/03/Andrew-Koening-and-Barbara-E.-Moo-Accelerated-C-.pdf)

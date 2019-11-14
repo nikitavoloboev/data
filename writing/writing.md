@@ -114,3 +114,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Undervalued Software Engineering Skills: Writing Well (2019)](https://blog.pragmaticengineer.com/on-writing-well/) ([HN](https://news.ycombinator.com/item?id=20061078))
 - [Writing is Thinking: Learning to Write with Confidence (2019)](https://blog.stephsmith.io/learning-to-write-with-confidence/) ([HN](https://news.ycombinator.com/item?id=21172686))
 - [Cut out everything that’s not surprising (2019)](https://sivers.org/d22)
+- [How to write a technical paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)
