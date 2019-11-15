@@ -225,6 +225,7 @@
 - [Termd](https://github.com/tj/go-termd) - Provides terminal markdown rendering, with code block syntax highlighting support.
 - [Tea](https://github.com/tj/go-tea) - Provides an Elm inspired functional framework for interactive command-line programs.
 - [Lattigo](https://github.com/ldsec/lattigo) - Lattice-based cryptographic library in Go.
+- [orderedmap](https://github.com/elliotchance/orderedmap) - Ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
 
 ## Links
 

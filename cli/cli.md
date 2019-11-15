@@ -19,3 +19,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/dotfiles/blob/master/ni
 - [cheat](https://github.com/cheat/cheat) - Allows you to create and view interactive cheatsheets on the command-line.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
 - [An Illustrated Guide to Useful Command Line Tools (2019)](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
+- [uutils coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils.
