@@ -18,3 +18,4 @@
 - [Yaws web server](https://github.com/klacke/yaws) - HTTP high perfomance 1.1 webserver particularly well suited for dynamic-content web applications.
 - [Vulcain](https://github.com/dunglas/vulcain) - Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs.
 - [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)
+- [nghttp2](https://github.com/nghttp2/nghttp2) - Implementation of the Hypertext Transfer Protocol version 2 in C.
