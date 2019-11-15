@@ -23,3 +23,4 @@
 - [Elixir in VS Code](https://thinkingelixir.com/elixir-in-vs-code/) ([Reddit](https://www.reddit.com/r/elixir/comments/dq3k7v/elixir_in_vs_code_extensions_and_recommendations/))
 - [Comparing Elixir and Go (2018)](https://blog.codeship.com/comparing-elixir-go/)
 - [New to Elixir. Where to start? (2019)](https://www.reddit.com/r/elixir/comments/du1hvp/new_to_elixir/)
+- [A More Type-Driven Elixir Workflow? Maybe (2019)](https://well-ironed.com/articles/a-more-type-driven-elixir-workflow-maybe/)

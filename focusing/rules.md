@@ -65,7 +65,7 @@
 
 ## Learn
 
-- Always learn new things but be purposeful. Dig deep into [fundamentals](https://medium.com/@nikitavoloboev/the-root-of-it-all-9b6ab6a77e1d) of whatever problem I want to solve.
+- Always learn new things but be purposeful & focused. Learn [fundamentals](https://medium.com/@nikitavoloboev/the-root-of-it-all-9b6ab6a77e1d) for clarity.
 - Document everything. Don't repeat things. Link instead.
 - There are no dumb questions. Do some research first though.
 - [Build things from scratch](https://github.com/nikitavoloboev/build-to-learn) to understand. Minimal version that works.
