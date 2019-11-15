@@ -20,3 +20,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Prolonging healthy aging: Longevity vitamins and proteins](https://www.pnas.org/content/115/43/10836)
 - [Being Mortal: Medicine and What Matters in the End (2014)](https://www.goodreads.com/book/show/20696006-being-mortal)
 - [David Sinclair, Ph.D., Why we age and why we don’t have to (2019)](https://overcast.fm/+RxHFj_HuQ)
+- [Some tips/notes about longevity (2019)](https://www.reddit.com/r/longevity/comments/dvoe62/some_questions_about_longevity/)

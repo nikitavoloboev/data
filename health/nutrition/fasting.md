@@ -1,6 +1,8 @@
 # Fasting
 
-I try to fast at least one day a week, usually that day is Monday. When fasting I allow myself to only eat my [NutriFull](foods.md) or not eat anything at all and drink water.
+I naturally do intermittent fasting whereby I fast for a majority of the day and only eat [highly nutritious whole food plant based food](foods.md).
+
+I sometimes do one day fasts but not routinely.
 
 ## Notes
 

@@ -1,16 +1,16 @@
 # Foods
 
-I eat a whole food, place based diet and experiment by trying out new [vegan recipes](recipes.md). I exclude all unhealthy food.
+I eat a whole food, plant based diet and experiment by trying out new [vegan recipes](recipes.md). I exclude all unhealthy food.
 
-Most of my diet consists of eating raw foods like almonds, walnuts, blueberries, bananas and avocados.
+Most of my diet consists of eating raw foods like various nuts (almonds, walnuts), blueberries, bananas and avocados.
 
-I try to cover my micro nutrient needs by consuming the same set of superfoods daily (NutriFull). Usually in form of a small smoothie or as raw food.
+I try to cover my micro & macro nutrient needs by consuming the most nutritious food I can. Sometimes I make a smoothie of different superfoods to kickstart my day.
 
 - Blueberries (200g+)
 - Broccoli / Kale (50g+)
 - Walnuts / Almonds (100g+)
 
-Often consumed in one go or throughout the day. This NutriFull also includes consuming few [supplements](supplements.md).
+I [supplement](supplements.md) nutrients I am missing out on.
 
 I use [Paprika app](https://www.paprikaapp.com/) to store all my recipes & the foods I can eat sorted into categories (with top first). Here is how it looks:
 
