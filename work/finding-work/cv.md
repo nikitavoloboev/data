@@ -40,7 +40,14 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 
 ## Notes
 
-- Experience > Education
+- Experience > Education. Add valuable detail to CV. Detail the role you played or the impact you had in the job.
+- Some questions hiring managers ask:
+  - How many people were on your team?
+  - Did you play a lead role?
+  - Was your focus on backend or frontend?
+  - What was the business impact?
+  - Is this experience relevant for my business?
+- Ideally keep the CV to one page, so cut out irrelevant or low signal information.
 
 ## Links
 
