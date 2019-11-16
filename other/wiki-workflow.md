@@ -67,3 +67,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Ask HN: How did you build up your personal knowledge base? (2019)](https://news.ycombinator.com/item?id=21332957)
 - [Note-taking strategy 2019](https://cpbotha.net/2019/09/21/note-taking-strategy-2019/)
 - [Smart Sync Workshop: David Perell + Tiago Forte (2019)](https://www.youtube.com/watch?v=lNJ33ImlZzs)
+- [Notion Office Hours: Tiago Forte (2019)](https://www.youtube.com/watch?v=sDNooHDj2Dk)

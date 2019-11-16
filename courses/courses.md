@@ -13,3 +13,4 @@ I keep a [Trello board](https://trello.com/b/KXiTLwSA) of courses I am taking an
 - [hn.academy](https://hn.academy/) - Collects, ranks, and showcases the online courses recommended by Hacker News users.
 - [Class Central](https://www.classcentral.com/) - Search online courses.
 - [Search engine for lectures](https://www.findlectures.com/) ([HN](https://news.ycombinator.com/item?id=14484549))
+- [The best online courses I invested in this year (2019)](https://mariepoulin.com/blog/the-best-investments-i-made-in-my-business-this-year/)

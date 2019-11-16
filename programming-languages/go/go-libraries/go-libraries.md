@@ -227,6 +227,7 @@
 - [Lattigo](https://github.com/ldsec/lattigo) - Lattice-based cryptographic library in Go.
 - [orderedmap](https://github.com/elliotchance/orderedmap) - Ordered map in Go with amortized O(1) for Set, Get, Delete and Len.
 - [validator](https://github.com/go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
+- [cast](https://github.com/spf13/cast) - Safe and easy casting from one type to another in Go.
 
 ## Links
 
