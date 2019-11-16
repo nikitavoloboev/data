@@ -49,3 +49,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [NEAR Protocol](https://github.com/nearprotocol/nearcore) - Scalable and usable blockchain.
 - [Harmony](https://github.com/harmony-one/harmony) - Core protocol of harmony.
 - [DAML smart contract language](https://github.com/digital-asset/daml)
+- [Solana](https://github.com/solana-labs/solana) - New blockchain architecture built from the ground up for scale. The architecture supports up to 710 thousand transactions per second on a gigabit network.

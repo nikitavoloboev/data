@@ -55,3 +55,4 @@
 - [hython](https://github.com/mattgreen/hython) - Haskell-powered Python 3 interpreter. ([Article](http://callcc.io/hython-the-simplest-possible-language/))
 - [Python -> Speed blog](https://pythonspeed.com/) - Learn tools and techniques to help you ship better Python software, faster.
 - [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments.
+- [pyperf](https://github.com/vstinner/pyperf) - Toolkit to run Python benchmarks.
