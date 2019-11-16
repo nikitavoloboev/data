@@ -14,3 +14,4 @@
 - [Kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library for PyTorch.
 - [Roboflow](https://roboflow.ai/) - Accelerates computer vision development.
 - [PySlowFast](https://github.com/facebookresearch/SlowFast) - Open source video understanding codebase from FAIR that provides state-of-the-art video classification models.
+- [How to Convert a Picture to Numbers](https://brohrer.github.io/images_to_numbers.html)

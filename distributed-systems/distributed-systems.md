@@ -43,3 +43,4 @@
 - [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
 - [Faust](https://github.com/robinhood/faust) - Python Stream Processing.
 - ["Consistency without consensus in production systems" by Peter Bourgon (2014)](https://www.youtube.com/watch?v=em9zLzM8O7c)
+- [Distributed consensus reading list](https://github.com/heidi-ann/distributed-consensus-reading-list#readme)

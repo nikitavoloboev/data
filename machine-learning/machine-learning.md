@@ -143,3 +143,5 @@
 - [Teachable Machine](https://teachablemachine.withgoogle.com/) - Fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.
 - [Deep Learning Interview Topics](https://github.com/vlgiitr/DL_Topics#readme)
 - [Ask HN: Why do so many startups claim machine learning is their long game? (2019)](https://news.ycombinator.com/item?id=21528246)
+- [End-to-End Machine Learning Courses](https://end-to-end-machine-learning.teachable.com/courses/)
+- [End-to-End Machine Learning Library](https://brohrer.github.io/blog.html)
