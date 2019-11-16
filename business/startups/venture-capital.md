@@ -15,3 +15,4 @@
 - [Village Global](https://www.villageglobal.vc/) - Early-stage venture capital firm backed by some of the world’s most successful entrepreneurs.
 - [Founders Fund](https://foundersfund.com/)
 - [Tiny Capital](https://www.tinycapital.com/) - We start, buy, and invest in wonderful internet businesses.
+- [Bloomberg Beta](https://github.com/Bloomberg-Beta/Manual) - Early-stage venture firm backed by Bloomberg L.P., investing out of a \$75M fund focused broadly on the future of work.
