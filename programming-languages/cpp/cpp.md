@@ -40,3 +40,4 @@
 - [Object-Oriented Data Structures in C++ course](https://www.coursera.org/learn/cs-fundamentals-1/?authMode=login)
 - [C++ Reference](https://en.cppreference.com/w/)
 - [Accelerated C++: Practical Programming by Example book (2000)](http://libertar.io/lab/wp-content/uploads/2017/03/Andrew-Koening-and-Barbara-E.-Moo-Accelerated-C-.pdf)
+- [2019 LLVM Developers’ Meeting: S. Haastregt & A. Stulova “An overview of Clang”](https://www.youtube.com/watch?v=5kkMpJpIGYU)

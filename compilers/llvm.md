@@ -14,3 +14,4 @@
 - [Compiler basics (3): LLVM (2019)](http://notes.eatonphil.com/compiler-basics-llvm.html)
 - [Let's Write an LLVM Specializer for Python (2019)](http://dev.stephendiehl.com/numpile/) ([HN](https://news.ycombinator.com/item?id=21268287))
 - [2019 LLVM Developers’ Meeting: E. Christopher & J. Doerfert “Introduction to LLVM”](https://www.youtube.com/watch?v=J5xExRGaIIY)
+- [LLVM Tutor](https://github.com/banach-space/llvm-tutor) - Collection of self-contained reference LLVM passes. It's a tutorial that targets novice and aspiring LLVM developers.
