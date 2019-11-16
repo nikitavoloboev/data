@@ -20,3 +20,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Danny Hillis, "The Learning Map" (2012)](https://www.youtube.com/watch?v=wKcZ8ozCah0)
 - [LRMI specification](http://lrmi.dublincore.org/specifications/lrmi/lrmi_1/) - Collection of properties to describe educational resources.
 - [Coursedog](https://www.coursedog.com/) - All-in-One Schedule and Curriculum Planning.
+- [On Graduating or: What to Optimize For (2019)](https://benjamincongdon.me/blog/2019/05/22/On-Graduating-or-What-to-Optimize-For/)

@@ -144,6 +144,7 @@
 - [petgraph](https://github.com/petgraph/petgraph) - Graph data structure library for Rust.
 - [Dataloader](https://github.com/cksac/dataloader-rs) - Rust implementation of Facebook's DataLoader using futures.
 - [Specs](https://github.com/amethyst/specs) - Entity-Component System written in Rust.
+- [euclid](https://github.com/servo/euclid) - Small library for geometric types with a focus on 2d graphics and layout.
 
 ## Cargo Plugins
 
