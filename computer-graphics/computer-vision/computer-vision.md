@@ -13,3 +13,4 @@
 - [AI Habitat](https://github.com/facebookresearch/habitat-sim) - Flexible, high-performance 3D simulator for Embodied AI research.
 - [Kornia](https://github.com/kornia/kornia) - Open Source Differentiable Computer Vision Library for PyTorch.
 - [Roboflow](https://roboflow.ai/) - Accelerates computer vision development.
+- [PySlowFast](https://github.com/facebookresearch/SlowFast) - Open source video understanding codebase from FAIR that provides state-of-the-art video classification models.

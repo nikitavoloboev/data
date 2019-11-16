@@ -13,3 +13,4 @@
 - [sixty](https://github.com/ollef/sixty) - Dependent type checker using normalisation by evaluation.
 - [Formality](https://github.com/moonad/Formality) - Efficient dependently-typed systems programming language and proof assistant. ([HN](https://news.ycombinator.com/item?id=18230148))
 - [Certified Programming with Dependent types](http://adam.chlipala.net/cpdt/)
+- [voile-rs](https://github.com/owo-lang/voile-rs) - Dependently-typed programming language with a non-dependent version of row-polymorphism, meta variable resolution and implicit parameter syntax.

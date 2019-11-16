@@ -13,3 +13,4 @@
 - [What's new in iOS 13 Shortcuts](https://www.reddit.com/r/shortcuts/comments/d62ovd/whats_new_in_ios_13_shortcuts/)
 - [JSBox demos](https://github.com/cyanzhong/xTeko)
 - [iOS Shortcuts: The Ultimate Guide for Resources, Examples, Libraries, Triggers, and More (2019)](https://thesweetsetup.com/ios-shortcuts-guide/)
+- [Toolbox Pro Review: A Must-Have Companion Utility for Shortcuts Power Users (2019)](https://www.macstories.net/reviews/toolbox-pro-review-a-must-have-companion-utility-for-shortcuts-power-users/)
