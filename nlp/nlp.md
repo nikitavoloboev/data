@@ -49,3 +49,4 @@
 - [Awesome NLP](https://github.com/keon/awesome-nlp#readme)
 - [NLP Library](https://github.com/mihail911/nlp-library#readme) - Curated collection of papers for the NLP practitioner.
 - [spacy-transformers](https://github.com/explosion/spacy-transformers) - spaCy pipelines for pre-trained BERT, XLNet and GPT-2.
+- [AllenNLP](https://github.com/allenai/allennlp) - Open-source NLP research library, built on PyTorch.

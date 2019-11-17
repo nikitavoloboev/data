@@ -9,3 +9,4 @@
 - [Verified Software Toolchain](https://github.com/PrincetonUniversity/VST) - Includes static analyzers to check assertions about your program; optimizing compilers to translate your program to machine language.
 - [MIT Programming Languages & Verification Group](http://plv.csail.mit.edu/)
 - [Encyclopedia of Proof Systems](https://github.com/ProofSystem/Encyclopedia/blob/master/main.pdf)
+- [A Domain-Specific Language for Verifying Software Requirement Constraints](https://arxiv.org/pdf/1911.02679.pdf)

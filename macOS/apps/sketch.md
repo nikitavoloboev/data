@@ -8,3 +8,4 @@
 ## Links
 
 - [Why you should care about keeping your design files clean (2018)](https://monzo.com/blog/2018/12/11/design-files-system)
+- [How to build your first Sketch plugin (2019)](https://medium.com/@kevingutowski/how-to-build-your-first-sketch-plugin-14c0e9e56bf0)
