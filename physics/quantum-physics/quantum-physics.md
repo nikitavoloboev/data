@@ -9,3 +9,4 @@
 - [Categorical quantum mechanics](https://wiki2.org/en/Categorical_quantum_mechanics) - Study of quantum foundations and quantum information using paradigms from mathematics and computer science, notably monoidal category theory.
 - [Sean Carroll's Mindscape: Finding Gravity Within Quantum Mechanics (2019)](https://overcast.fm/+S_7nkatBo)
 - [Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime (2019)](https://www.goodreads.com/book/show/44065062-something-deeply-hidden)
+- [How quantum teleportation works](https://quantum.country/teleportation) ([Twitter](https://twitter.com/michael_nielsen/status/1194368423116988416))
