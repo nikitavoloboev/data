@@ -8,3 +8,4 @@
 - [Awesome Svelte resources](https://github.com/ryanatkn/awesome-svelte-resources#readme)
 - [Svelte Language Server](https://github.com/UnwrittenFun/svelte-language-server)
 - [Deploy Svelte with ZEIT Now](https://zeit.co/guides/deploying-svelte-with-zeit-now)
+- [Sapper: Towards the ideal web app framework (2017)](https://svelte.dev/blog/sapper-towards-the-ideal-web-app-framework)

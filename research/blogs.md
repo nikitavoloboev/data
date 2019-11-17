@@ -38,6 +38,7 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [Pascal’s scribbles](https://deterministic.space/)
 - [We Can Solve This by Sandy Maguire](http://sandymaguire.me/)
 - [Adam Morse](http://mrmrs.cc/writing/)
+- [Benjamin Congdon](https://benjamincongdon.me/blog)
 
 ## Links
 
