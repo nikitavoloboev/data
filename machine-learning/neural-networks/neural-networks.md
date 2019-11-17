@@ -54,3 +54,4 @@
 - [Notes on Neural Nets](https://wiki.kourouklides.com/wiki/Artificial_Neural_Network)
 - [Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (2019)](https://github.com/KangchengHou/gntk)
 - [RNNoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction.
+- [Hacking Neural Networks](https://github.com/Kayzaks/HackingNeuralNetworks) - Short introduction on methods that use neural networks in an offensive manner.
