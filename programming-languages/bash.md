@@ -18,3 +18,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Bash Language Server](https://github.com/mads-hartmann/bash-language-server) - Bash language server implementation based on Tree Sitter and its grammar for Bash with explainshell integration.
 - [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
 - [Bash Guide](http://mywiki.wooledge.org/BashGuide)
+- [How To Automate Basic Development Tasks with Bash](https://jmulholland.com/how-to-automate-basic-development-tasks-with-bash)

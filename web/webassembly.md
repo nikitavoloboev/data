@@ -46,3 +46,4 @@
 - [Forest](https://github.com/forest-lang/forest-compiler) - Functional programming language that compiles to WebAssembly.
 - [WebAssembly.sh](https://webassembly.sh/) - WASM/WASI sandboxed terminal in the browser.
 - [WebAssembly meetings (VC or in-person), agendas, and notes](https://github.com/WebAssembly/meetings)
+- [WebAssembly proposals](https://github.com/WebAssembly/proposals)

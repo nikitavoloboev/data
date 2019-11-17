@@ -20,6 +20,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles#r
 - [Sascha Grunert](https://github.com/saschagrunert/dotfiles)
 - [Brandon Amos](https://github.com/bamos/dotfiles)
 - [Tyler Neely](https://github.com/spacejam/dots)
+- [Nega](https://github.com/neg-serg/dotfiles)
 
 ## Links
 
