@@ -56,3 +56,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [BPF Compiler Collection (BCC)](https://github.com/iovisor/bcc) - Tools for BPF-based Linux IO analysis, networking, monitoring, and more.
 - [Linux Kernel Defence Map](https://github.com/a13xp0p0v/linux-kernel-defence-map#readme)
 - [RustyBox](https://github.com/samuela/rustybox) - Free-range, non-GMO fork of busybox in 100% Rust. ([HN](https://news.ycombinator.com/item?id=21539815))
+- [Linux Systems Performance (2019)](https://www.usenix.org/conference/lisa19/presentation/gregg-linux) ([Lobsters](https://lobste.rs/s/udnu1m/linux_systems_performance))
