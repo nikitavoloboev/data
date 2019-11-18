@@ -244,6 +244,7 @@
 
 ## Travel
 
+- Mark [places I've liked](https://www.google.com/maps/placelists/list/1t_jW3zR93T4wMQCQPo1aBbcS61A?hl=en) in Google Maps with optional notes about them.
 - Buy transport (plane/train) & accommodation for future events/conferences/travels as soon as possible (when I am sure I am attending event/place).
 - Proof check dates before buying tickets. Don't prepare large liquids (> 100ml) in planes.
 - Check in online as early as possible.

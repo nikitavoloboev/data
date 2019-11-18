@@ -1,14 +1,14 @@
 # TV series
 
-I keep a [Watchlist](https://trakt.tv/users/nikitavoloboev/watchlist?sort=rank,asc) of TV series I want to watch as well as a list of series I am [watching now or plan to watch next](https://trakt.tv/users/nikitavoloboev/lists/next-now?sort=added,asc).
+I love [making lists](https://trakt.tv/users/nikitavoloboev/lists) of [series I've seen](https://trakt.tv/users/nikitavoloboev/history) and [liked](https://trakt.tv/users/nikitavoloboev/lists/favorite-series?sort=rank,asc) on [Trakt](https://trakt.tv/users/nikitavoloboev).
 
-## Favorite series
+I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavoloboev/watchlist?sort=added,asc) together with a list of [series I am watching now or am watching next](https://trakt.tv/users/nikitavoloboev/lists/next-now?sort=added,asc).
 
-I keep a [list of my favorite series](https://trakt.tv/users/nikitavoloboev/lists/favorite-series) I've seen. And I write [comments and review](https://trakt.tv/users/nikitavoloboev/comments) things.
+I [share thoughts on some series I saw](https://trakt.tv/users/nikitavoloboev/comments).
 
 ## Watched Series
 
-I track [all the series I watched](https://trakt.tv/users/nikitavoloboev/history).
+I track [all the series I watched]().
 
 ## Links
 

@@ -128,3 +128,4 @@ Go promotes composition over inheritance.
 - [Go Modules: v2 and Beyond (2019)](https://blog.golang.org/v2-go-modules)
 - [Let's Create a Simple Load Balancer With Go (2019)](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/) ([HN](https://news.ycombinator.com/item?id=21490731))
 - [The Value in Go's Simplicity (2019)](https://benjamincongdon.me/blog/2019/11/11/The-Value-in-Gos-Simplicity/) ([HN](https://news.ycombinator.com/item?id=21545425))
+- [Google OAuth Go Sample Project - Web application](https://github.com/Skarlso/google-oauth-go-sample)
