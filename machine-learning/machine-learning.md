@@ -146,3 +146,4 @@
 - [End-to-End Machine Learning Courses](https://end-to-end-machine-learning.teachable.com/courses/)
 - [End-to-End Machine Learning Library](https://brohrer.github.io/blog.html)
 - [Course material for STAT 479: Machine Learning (FS 2019) taught by Sebastian Raschka at University Wisconsin-Madison](https://github.com/rasbt/stat479-machine-learning-fs19)
+- [Clipper](https://github.com/ucbrise/clipper) - Prediction serving system that sits between user-facing applications and a wide range of commonly used machine learning models and frameworks.

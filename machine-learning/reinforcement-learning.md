@@ -30,3 +30,4 @@
 - [KataGo](https://github.com/lightvector/KataGo) - Research and experimentation with self-play training in Go.
 - [Catalyst](https://github.com/catalyst-team/catalyst) - Reproducible and fast DL & RL.
 - [The Mathematics of AlphaGo (2019)](https://www.youtube.com/watch?v=rOiaZ1hVb-A)
+- [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
