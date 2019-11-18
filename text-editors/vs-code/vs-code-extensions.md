@@ -146,6 +146,10 @@ Below is a list of extensions I use.
 
 - [Glean](https://github.com/wix/vscode-glean) - Extension provides refactoring tools for your React codebase.
 
+## Svelte
+
+- [Svelte](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode&ref=madewithsvelte.com)
+
 ## Java
 
 - [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)

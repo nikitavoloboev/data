@@ -2,7 +2,7 @@
 
 I keep a list of [games I want to play](https://www.grouvee.com/user/nikivi/shelves/12652-wish-list/?num=25) & [games I am playing now](https://www.grouvee.com/user/nikivi/shelves/12651-playing/?num=25) or [plan to play next](https://www.grouvee.com/user/nikivi/shelves/513443-next/?num=25) on [Grouvee](https://www.grouvee.com/user/nikivi/).
 
-I also keep a list of [all games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) with a [list of my favorite games](https://www.grouvee.com/user/nikivi/shelves/53363-favorite/?num=25) I've played. I write [reviews](https://www.grouvee.com/user/nikivi/reviews/) on some games I've played too.
+I also keep a list of [all games I have played](https://www.grouvee.com/user/nikivi/shelves/12649-played/?num=25) with a [list of my favorite games](https://www.grouvee.com/user/nikivi/shelves/53363-favorite/?num=25) I've played. I [share thoughts on some games I played](https://www.grouvee.com/user/nikivi/reviews/).
 
 ## Awesome Online games
 

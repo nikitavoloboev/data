@@ -99,3 +99,4 @@
 - [rien](https://github.com/mrkgnao/rien) - Predictable Haskell development environments with Cabal and Nix.
 - [Confessions of a Used Programming Language Salesman Getting the Masses Hooked on Haskell](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.868&rep=rep1&type=pdf)
 - [Lambda World 2019 - Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
+- [Stay Tuned: Best Haskell Sources to Follow (2019)](https://serokell.io/blog/haskell-sources)

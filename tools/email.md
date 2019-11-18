@@ -20,3 +20,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [JMAP](https://github.com/jmapio/jmap) - JSON Meta Application Protocol Specification.
 - [Postmark](https://postmarkapp.com/) - Delivers your transactional email to customers on time, every time.
 - [Generic Tips For Emailing Busy People](https://www.kalzumeus.com/standing-invitation/#generic-tips-for-emailing-busy-people)
+- [Hakara](https://github.com/haraka/Haraka) - Fast, highly extensible, and event driven SMTP server.

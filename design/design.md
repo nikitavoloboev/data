@@ -45,3 +45,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Mind the gap, user centered design in large organizations with Luke Wroblewski (2019)](https://www.youtube.com/watch?v=mAiNdU1go1A)
 - [Space in Design Systems (2016)](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 - [The power of good design: Dieter Rams’s ideology, engrained within Vitsœ](https://www.vitsoe.com/gb/about/good-design)
+- [Expect change in your design career. Choose growth.](https://www.abstract.com/blog/design-career-growth/)
