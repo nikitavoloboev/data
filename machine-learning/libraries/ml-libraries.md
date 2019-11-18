@@ -27,3 +27,4 @@
 - [lambda-ml](https://github.com/cloudkj/lambda-ml) - Small machine learning library aimed at providing simple, concise implementations of machine learning techniques and utilities.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Python module for machine learning built on top of SciPy.
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - Powerful Automated Machine Learning python library.
+- [Mlxtend (machine learning extensions)](https://github.com/rasbt/mlxtend) - Python library of useful tools for the day-to-day data science tasks.

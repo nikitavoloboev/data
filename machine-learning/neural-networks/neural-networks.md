@@ -56,3 +56,4 @@
 - [RNNoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction.
 - [Hacking Neural Networks](https://github.com/Kayzaks/HackingNeuralNetworks) - Short introduction on methods that use neural networks in an offensive manner.
 - [Distilling knowledge from Neural Networks to build smaller and faster models (2019)](https://blog.floydhub.com/knowledge-distillation/)
+- [Neural Network Processing Neural Networks: An efficient way to learn higher order functions (2019)](https://arxiv.org/abs/1911.05640)
