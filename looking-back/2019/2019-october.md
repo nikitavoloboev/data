@@ -18,7 +18,7 @@ Makes opening these journal entries nicely as it doesn't have a hardcoded month 
 
 I also made two more macros to support my week & month reflections.
 
-![](https://i.imgur.com/NmrCwqo.png)
+![](https://i.imgur.com/M9wtkv6.png)
 
 ![](https://i.imgur.com/Lc9SIxI.png)
 
