@@ -14,7 +14,7 @@
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas.
-- Be consistent. Start early. Make friends with imperfection. Strive for perfection. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
+- Be consistent. Start early. Done > Perfection. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes). Strive for perfection.
 - Don't judge anyone. Attempt to see another person's point of view.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions.
 - Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Move fast. Never give up.

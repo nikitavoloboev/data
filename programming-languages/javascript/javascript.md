@@ -90,3 +90,4 @@
 - [Immutable JavaScript Data Structures with Immer (2019)](https://egghead.io/courses/immutable-javascript-data-structures-with-immer)
 - [Immutability is Changing - From Immutable.js to Immer (2019)](https://www.youtube.com/watch?v=bFuRvcAEiHg)
 - [Tenko](https://github.com/pvdz/tenko) - 100% spec compliant ES2020 JavaScript parser written in JS.
+- [code-red](https://github.com/Rich-Harris/code-red) - Experimental toolkit for writing x-to-JavaScript compilers.

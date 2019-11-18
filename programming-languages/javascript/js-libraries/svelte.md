@@ -10,3 +10,5 @@
 - [Deploy Svelte with ZEIT Now](https://zeit.co/guides/deploying-svelte-with-zeit-now)
 - [Sapper: Towards the ideal web app framework (2017)](https://svelte.dev/blog/sapper-towards-the-ideal-web-app-framework)
 - [10-tweet Svelte crash course](https://twitter.com/hexrcs/status/1185186492982943744)
+- [react-svelte](https://github.com/Rich-Harris/react-svelte) - Use Svelte components inside a React app.
+- [Svelte RFCs](https://github.com/sveltejs/rfcs)
