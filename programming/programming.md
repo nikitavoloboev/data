@@ -96,3 +96,5 @@
 - [Programming Talks](https://github.com/hellerve/programming-talks#readme)
 - [There's No Such Thing as Knowing Your Computer 'All the Way to the Bottom' (2019)](http://codefol.io/posts/no-such-thing-as-knowing-coding-all-the-way-to-the-bottom/) ([Lobsters](https://lobste.rs/s/jkuaaz/there_s_no_such_thing_as_knowing_your))
 - [Building awesome developer tools - Ines Montani (2019)](https://www.youtube.com/watch?v=Ivb4AAuj5JY)
+- [Minimal Viable Programs](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html)
+- [Minimalism in Programming (2018)](https://pointersgonewild.com/2018/02/18/minimalism-in-programming/)
