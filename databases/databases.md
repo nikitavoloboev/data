@@ -43,6 +43,7 @@
 - [CrateDB](https://github.com/crate/crate) - Distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.
 - [Riak](https://github.com/basho/riak) - Distributed, decentralized data storage system.
 - [CockroachDB](https://github.com/cockroachdb/cockroach) - Open source, cloud-native SQL database.
+- [ActorDB](https://github.com/biokoda/actordb) - Distributed SQL database.
 
 ## Tools
 
