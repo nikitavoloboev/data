@@ -52,3 +52,4 @@
 - [sktime](https://github.com/alan-turing-institute/sktime) - scikit-learn compatible Python toolbox for learning with time series and panel data.
 - [Incremental](https://github.com/twisted/incremental) - Library for versioning your Python projects.
 - [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python.
+- [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) - Python SQL Toolkit and Object Relational Mapper.

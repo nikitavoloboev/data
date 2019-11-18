@@ -36,3 +36,4 @@
 - [How an Optimizing Compiler Works (2019)](http://www.lihaoyi.com/post/HowanOptimizingCompilerWorks.html)
 - [Dive into Deep Learning Compiler](http://tvm.d2l.ai.s3-website-us-west-2.amazonaws.com/)
 - [A Survey of Compiler Testing (2019)](http://software-lab.org/publications/csur2019_compiler_testing.pdf)
+- [Functional Language Research Compiler (FLRC)](https://github.com/IntelLabs/flrc) - Designed to be a general compiler framework for functional languages.

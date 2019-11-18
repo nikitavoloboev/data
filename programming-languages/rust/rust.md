@@ -104,3 +104,4 @@
 - [Comparing Parallel Rust and C++](https://parallel-rust-cpp.github.io/introduction.html) ([HN](https://news.ycombinator.com/item?id=21469295))
 - [Rust web framework comparison](https://github.com/flosse/rust-web-framework-comparison)
 - [Rust memory management explained from C perspective (2019)](https://www.reddit.com/r/rust/comments/dvqibf/someone_explain_rust_memory_management_from_c/)
+- [What makes rust so fast? (2019)](https://www.reddit.com/r/rust/comments/dxbjq2/what_makes_rust_so_fast/)

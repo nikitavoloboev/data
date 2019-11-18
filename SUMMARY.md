@@ -168,6 +168,7 @@
   - [Agile development](programming/agile-development.md)
   - [Stream processing](programming/stream-processing.md)
   - [Program analysis](programming/program-analysis.md)
+  - [Software testing](programming/software-testing.md)
   - [JSON](programming/json.md)
 - [Programming languages](programming-languages/programming-languages.md)
   - [Go](programming-languages/go/go.md)
