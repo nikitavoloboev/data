@@ -6,10 +6,6 @@ I have a [Watchlist of shows I want to watch](https://trakt.tv/users/nikitavolob
 
 I [share thoughts on some series I saw](https://trakt.tv/users/nikitavoloboev/comments).
 
-## Watched Series
-
-I track [all the series I watched]().
-
 ## Links
 
 - [Awesome TV Series](https://github.com/learn-anything/tv-series#readme)
