@@ -52,3 +52,4 @@
 - [Designing GraphQL Schemas - Nik Graf (2019)](https://www.youtube.com/watch?v=fBkmlFfwRu0)
 - [ReactiveConf 2019 - Nader Dabit: Curious Use Cases of GraphQL](https://www.youtube.com/watch?v=BLmoce4tjMc)
 - [10-tweet GraphQL crash course](https://twitter.com/hexrcs/status/1190332090149150720)
+- [Set up a Typescript GraphQL API by running one command](https://github.com/benawad/create-graphql-api)

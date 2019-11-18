@@ -29,3 +29,4 @@
 - [Apollo 11 in Real Time](https://apolloinrealtime.org/11/) ([HN](https://news.ycombinator.com/item?id=20193118))
 - [KubOS](https://github.com/kubos/kubos) - Open source software stack for satellites.
 - [Exoplanets and Cosmology - Nobel Prize in Physics 2019](https://www.youtube.com/watch?v=Gq-atYZFKPQ)
+- [Spin doctors: Astrophysicists find when galaxies rotate, size matters (2019)](https://www.scienceinpublic.com.au/other/spin-doctors-astrophysicists-find-when-galaxies-rotate-size-matters)
