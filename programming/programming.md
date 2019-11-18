@@ -98,3 +98,4 @@
 - [Building awesome developer tools - Ines Montani (2019)](https://www.youtube.com/watch?v=Ivb4AAuj5JY)
 - [Minimal Viable Programs](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html)
 - [Minimalism in Programming (2018)](https://pointersgonewild.com/2018/02/18/minimalism-in-programming/)
+- [ReactiveConf 2019 - David Nolen: Are we there yet? Remix](https://www.youtube.com/watch?v=ynhhuVQL3Y0)

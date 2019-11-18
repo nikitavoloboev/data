@@ -87,7 +87,7 @@
 
 - Only use what is necessary. Experiment with new tools/apps but never keep things I don't need. Applies to everything.
 - Establish good mental models of what I need and what I use as I approach modifying my workflow and tools.
-- Run less software. Only run what I use and need. Keep all systems clean & purposeful.
+- Run less software/code. Only run what I use and need. Keep all systems clean & purposeful.
 
 ## Share
 
