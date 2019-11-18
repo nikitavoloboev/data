@@ -2,9 +2,8 @@
 
 ## Life
 
-- Set [goals](../focusing/focusing.md). [Plan events](../macOS/apps/fantastical.md). Work.
-- Don't waste time. Build [ideas](../ideas/ideas.md).
-- Focus. One task at a time. Think.
+- Set [goals](../focusing/focusing.md). [Plan events](../macOS/apps/fantastical.md). Focus.
+- Don't waste time. Build [ideas](../ideas/ideas.md). One task at a time. Think.
 - Learn. Experiment. Take risks. [Ask questions](../research/asking-questions.md). Document.
 - [Share](../sharing/sharing.md). [Write](../writing/writing.md). Be honest, clear & concise.
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
