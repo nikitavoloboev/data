@@ -93,3 +93,4 @@
 - [nLab](https://ncatlab.org/nlab/show/HomePage) - Wiki-lab for collaborative work on Mathematics, Physics and Philosophy — especially from the n-point of view: in so far as these subjects are usefully treated with tools and notions of category theory or higher category theory.
 - [Understanding Mathematics](https://github.com/nbro/understanding-math#readme)
 - [Deep learning for symbolic mathematics (2019)](https://openreview.net/pdf?id=S1eZYeHFDS)
+- [Eigenvectors from eigenvalues (2019)](https://terrytao.wordpress.com/2019/08/13/eigenvectors-from-eigenvalues/)

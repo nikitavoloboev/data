@@ -14,15 +14,15 @@ For example, one of these _rules_ is that I need to be proactive with my email a
 
 I keep a private Trello board where I outline things that I want to focus on in life and achieve.
 
-![](https://i.imgur.com/S8Zf7LA.png)
+![](https://i.imgur.com/RvWFSvU.png)
 
 I mark the projects and goals I want to focus on right now, and by pressing `Q` in Trello I only see these cards on the board.
 
-![](https://i.imgur.com/7PZdnl9.png)
+![](https://i.imgur.com/SjZKPw8.png)
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
 
-I try to have a completely event driven workflow as I schedule events in my calendar and plan the next day or days ahead of me in context of my bigger and smaller goals.
+I try to have a completely event driven workflow as I schedule events in my calendar and plan the next day or days ahead of me in context of my goals.
 
 I use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week/monthly reviews & plans which I often do in the evenings of particular days.
 
