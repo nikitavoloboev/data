@@ -20,7 +20,7 @@
 - [Differentiable Architecture Search](https://github.com/quark0/darts) - Code for [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055) paper.
 - [TensorSpace.js](https://github.com/tensorspace-team/tensorspace) - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js
 - [UIS-RNN](https://github.com/google/uis-rnn) - Library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization.
-- [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange.
+- [ONNX](https://github.com/onnx/onnx) - Open Neural Network Exchange. ([Scoring ONNX ML Models with Scala](https://www.youtube.com/watch?v=HyYpMJNVoVk))
 - [DyNet](https://github.com/clab/dynet) - Dynamic Neural Network Toolkit.
 - [gonn](https://github.com/sausheong/gonn) - Building a simple neural network in Go.
 - [Neural Ordinary Differential Equations (2018)](https://arxiv.org/abs/1806.07366) - [Video explanation](https://www.youtube.com/watch?v=AD3K8j12EIE) | [Notes](https://github.com/llSourcell/Neural_Differential_Equations/blob/master/Neural_Ordinary_Differential_Equations.ipynb)

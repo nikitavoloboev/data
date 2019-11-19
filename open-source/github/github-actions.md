@@ -11,6 +11,10 @@
 - [rust-toolchain Action](https://github.com/actions-rs/toolchain) - GitHub Action for `rustup toolchain` commands.
 - [GitHub Actions for Rust language](https://github.com/actions-rs/meta) - Recipes, discussions, questions and ideas.
 
+## Python
+
+- [setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of python.
+
 ## Links
 
 - [OSS list of GitHub actions](https://github-actions.netlify.com/)

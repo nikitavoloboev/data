@@ -50,3 +50,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Harmony](https://github.com/harmony-one/harmony) - Core protocol of harmony.
 - [DAML smart contract language](https://github.com/digital-asset/daml)
 - [Solana](https://github.com/solana-labs/solana) - New blockchain architecture built from the ground up for scale. The architecture supports up to 710 thousand transactions per second on a gigabit network.
+- [go-algorand](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
