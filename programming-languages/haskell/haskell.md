@@ -100,3 +100,4 @@
 - [Confessions of a Used Programming Language Salesman Getting the Masses Hooked on Haskell](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.868&rep=rep1&type=pdf)
 - [Lambda World 2019 - Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
 - [Stay Tuned: Best Haskell Sources to Follow (2019)](https://serokell.io/blog/haskell-sources)
+- [A dead-simple web stack in Haskell (2019)](https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html) ([HN](https://news.ycombinator.com/item?id=21566546))
