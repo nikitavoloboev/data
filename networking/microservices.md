@@ -11,3 +11,4 @@
 - [Dapr](https://github.com/dapr/dapr) - Portable, event-driven, serverless runtime for building distributed applications across cloud and edge.
 - [Cilium](https://github.com/cilium/cilium) - Open source software for providing and transparently securing network connectivity and loadbalancing between application workloads such as application containers or processes.
 - [Istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
+- [3 common pitfalls in microservice integration and how to avoid them (2018)](https://www.youtube.com/watch?v=O2-NHptllKQ)
