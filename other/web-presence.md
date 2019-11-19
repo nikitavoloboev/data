@@ -119,3 +119,4 @@ These are my personal profiles on various websites sorted by categories.
 - [Deedmob](https://www.deedmob.com/users/3046665)
 - [Observable](https://observablehq.com/@nikitavoloboev)
 - [Udemy](https://www.udemy.com/user/nikitavoloboev/)
+- [Slant](https://www.slant.co/users/nikivi)

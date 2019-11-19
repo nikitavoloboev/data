@@ -18,3 +18,4 @@
 - [Rust, WebAssembly, and the future of Serverless by Steve Klabnik (2019)](https://www.youtube.com/watch?v=CMB6AlE1QuI&list=PLe9psSNJBf74yYiVXDXz8UnRnWf3NHzS-&index=16)
 - [Awesome Zeit](https://github.com/zeit/awesome-zeit#readme)
 - [Fastly's new serverless compute environment gives you more power at the edge (2019)](https://www.fastly.com/blog/join-the-beta-new-serverless-compute-environment-at-the-edge)
+- [Serverless handbook for front end engineers](https://serverlesshandbook.dev/)

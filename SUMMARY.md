@@ -175,6 +175,7 @@
     - [Go libraries](programming-languages/go/go-libraries/go-libraries.md)
   - [Python](programming-languages/python/python.md)
     - [Python libraries](programming-languages/python/python-libraries/python-libraries.md)
+      - [Django](programming-languages/python/python-libraries/django.md)
       - [NumPy](programming-languages/python/python-libraries/numpy.md)
   - [Swift](programming-languages/swift/swift.md)
     - [Swift libraries](programming-languages/swift/swift-libraries/swift-libraries.md)
