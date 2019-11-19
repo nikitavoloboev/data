@@ -2,6 +2,7 @@
 
 ## Links
 
+- [What are Microservices? (2019)](https://www.netlify.com/blog/2019/11/18/what-are-microservices/)
 - [StdLib](https://github.com/stdlib/lib) - Service Creation, Deployment, and Management Tools.
 - [Hipster Shop: Cloud-Native Microservices Demo Application](https://github.com/GoogleCloudPlatform/microservices-demo) - Contains a 10-tier microservices application.
 - [Micro](https://github.com/micro/micro) - Runtime for microservice development.

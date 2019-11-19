@@ -3,6 +3,7 @@
 ## CLI
 
 - [human-panic](https://github.com/yoshuawuyts/human-panic) - Panic messages for humans.
+- [Abscissa](https://github.com/iqlusioninc/abscissa) - Microframework for building Rust applications (either CLI tools or network/web services).
 
 ## Web
 
