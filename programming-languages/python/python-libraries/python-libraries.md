@@ -54,3 +54,4 @@
 - [scikit-image](https://github.com/scikit-image/scikit-image) - Image processing in Python.
 - [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) - Python SQL Toolkit and Object Relational Mapper.
 - [Modin](https://github.com/modin-project/modin) - Speed up your Pandas workflows by changing a single line of code.
+- [Thorn](https://github.com/robinhood/thorn) - Webhook framework for Python, focusing on flexibility and ease of use, both when getting started and when maintaining a production system.

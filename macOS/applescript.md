@@ -15,3 +15,4 @@ Pretty useful to know scripting language for macOS.
 - [Complete list of AppleScript key codes](https://eastmanreference.com/complete-list-of-applescript-key-codes)
 - [AppleScript JSON encoder](https://github.com/mgax/applescript-json) - Provides a basic JSON encoding capability, to serialize strings, integers, lists and dictionaries.
 - [Automating the User Interface](https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/AutomatetheUserInterface.html)
+- [Collection of AppleScripts created over the years for many purposes](https://github.com/kevin-funderburg/AppleScripts)
