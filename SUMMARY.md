@@ -606,6 +606,7 @@
     - [gRPC](distributed-systems/rpcs/grpc.md)
   - [CRDTs](distributed-systems/crdt.md)
   - [ZeroMQ](distributed-systems/zeromq.md)
+  - [Load balancing](distributed-systems/load-balancing.md)
 - [Backups](backups/backups.md)
 - [Space](space/space.md)
   - [Black holes](space/black-holes.md)

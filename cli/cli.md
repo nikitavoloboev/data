@@ -20,4 +20,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/dotfiles/blob/master/ni
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
 - [An Illustrated Guide to Useful Command Line Tools (2019)](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
 - [uutils coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils.
-- [The Language Agnostic, All-Purpose, Incredible, Makefile (2019)](https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html) ([Lobsters](https://lobste.rs/s/ots6gm/language_agnostic_all_purpose))
+- [The Language Agnostic, All-Purpose, Incredible, Makefile (2019)](https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html) ([Lobsters](https://lobste.rs/s/ots6gm/language_agnostic_all_purpose)) ([HN](https://news.ycombinator.com/item?id=21566530))
