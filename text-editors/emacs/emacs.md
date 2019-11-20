@@ -9,6 +9,7 @@ Might give it a go sometime.
 ## Interesting configs
 
 - [Radian](https://github.com/raxod502/radian) - Dotfiles that marry elegance and practicality.
+- [Rakhim](https://github.com/freetonik/emacs-dotfiles)
 
 ## Links
 

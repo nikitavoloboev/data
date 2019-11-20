@@ -53,3 +53,4 @@
 - [ReactiveConf 2019 - Nader Dabit: Curious Use Cases of GraphQL](https://www.youtube.com/watch?v=BLmoce4tjMc)
 - [10-tweet GraphQL crash course](https://twitter.com/hexrcs/status/1190332090149150720)
 - [Set up a Typescript GraphQL API by running one command](https://github.com/benawad/create-graphql-api)
+- [DataLoader](https://github.com/graphql/dataloader) - Generic utility to be used as part of your application's data fetching layer to provide a simplified and consistent API over various remote data sources such as databases or web services via batching and caching. ([Source code walkthrough](https://www.youtube.com/watch?v=OQTnXNCDywA)) ([Article](https://medium.com/@leeb/dataloader-v2-0-925b4dccf8d6))

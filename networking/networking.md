@@ -49,3 +49,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Beginner Network Pentesting course notes](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
 - [Warp speed Data Transfer (WDT)](https://github.com/facebook/wdt) - Embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
 - [Scale By The Bay 2019: Norman Maurer, Netty 5: Lessons Learned](https://www.youtube.com/watch?v=hvYqSz_BgUM&list=PLNESult6cnOlb1BAO4o2T3DdNbMnCpTjp&index=24&t=0s)
+- [Neebula](https://github.com/slackhq/nebula) - Scalable overlay networking tool with a focus on performance, simplicity and security. It lets you seamlessly connect computers anywhere in the world.

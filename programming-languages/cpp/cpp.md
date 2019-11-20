@@ -45,3 +45,4 @@
 - [Cheerp](https://github.com/leaningtech/cheerp-meta) - C/C++ compiler for Web applications - compiles to WebAssembly and JavaScript.
 - [CppML](https://github.com/ZigaSajovic/CppML) - Meta Language for C++.
 - [Awesome C++](https://github.com/fffaraz/awesome-cpp)
+- [CppCon 2019: Andrei Alexandrescu “Speed Is Found In The Minds of People"](https://www.youtube.com/watch?v=FJJTYQYB1JQ)

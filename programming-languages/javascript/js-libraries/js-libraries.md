@@ -114,3 +114,5 @@
 - [RequireJS](https://github.com/requirejs/requirejs) - File and module loader for JavaScript.
 - [Zero](https://github.com/sinclairzx81/zero) - 3D graphics rendering pipeline. Implemented in JavaScript. Run in a terminal.
 - [xstate-viz](https://github.com/statecharts/xstate-viz) - Visualize state charts.
+- [htmr](https://github.com/pveyes/htmr) - Simple and lightweight (< 2kB) HTML string to React element conversion library.
+- [react-jsx-parser](https://github.com/TroyAlford/react-jsx-parser) - React component which can parse JSX and output rendered React Components.
