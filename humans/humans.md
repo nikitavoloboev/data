@@ -28,3 +28,4 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans#r
 - [Awesome programmers](https://github.com/rekihattori/awesome-programmers)
 - [Uses This](https://usesthis.com/) - Collection of nerdy interviews asking people from all walks of life what they use to get the job done.
 - [Ask HN: What people skills do you wish you learned earlier in your career? (2019)](https://news.ycombinator.com/item?id=20503813)
+- [The Unparalleled Genius of John von Neumann (2019)](https://medium.com/cantors-paradise/the-unparalleled-genius-of-john-von-neumann-791bb9f42a2d) ([HN](https://news.ycombinator.com/item?id=21542753))
