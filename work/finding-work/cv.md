@@ -37,6 +37,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Brandon Amos](http://bamos.github.io/) ([PDF](http://bamos.github.io/data/cv.pdf))
 - [Caroline Lemieux](https://www.carolemieux.com/caroline-lemieux-resume.pdf)
 - [Emilien Dupont](https://emiliendupont.github.io/resume/)
+- [Chris Lattner](http://nondot.org/sabre/Resume.html)
 
 ## Notes
 
