@@ -17,7 +17,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 ### 2016
 
 - Mind for Numbers 🌟 - [Review](https://www.goodreads.com/review/show/1223423349) / [Notes](mind-for-numbers.md)
-- Flowers of Algernon 🌟 - [Review](https://www.goodreads.com/review/show/782624446)
+- Flowers for Algernon 🌟 - [Review](https://www.goodreads.com/review/show/782624446)
 - Heart of a Dog 🌟 - [Review](https://www.goodreads.com/review/show/589165109)
 - You Don't Know JS: Up & Going - [Review](https://www.goodreads.com/review/show/1587216818)
 

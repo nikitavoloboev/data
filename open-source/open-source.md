@@ -50,3 +50,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Make a README](https://www.makeareadme.com/) - Because no one can read your mind.
 - [Saasify](https://github.com/saasify-sh/saasify) - Transforms serverless functions into fully functional SaaS websites.
 - [What I learned from WebTorrent - Feross Aboukhadijeh (2019)](https://www.youtube.com/watch?v=E1RxSzbmMO0)
+- [What’s happening in Open Source. Every day.](https://github.com/mikeal/daily)

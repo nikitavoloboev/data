@@ -92,6 +92,7 @@
 - [The Holloway Syllabus on Company Culture](https://www.holloway.com/s/syllabus-company-culture)
 - [Sequencing Business Models: Can That SAAS Business Turn Into a Marketplace? (2019)](https://caseyaccidental.com/saas-marketplace/)
 - [Equity Compensation Guide](https://www.holloway.com/g/equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference. ([HN](https://news.ycombinator.com/item?id=10880726))
+- [Kevin Systrom and Mike Krieger – How to Build a Great Product (2019)](https://overcast.fm/+Lzu3n3SHk)
 
 ## Images
 

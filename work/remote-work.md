@@ -22,3 +22,4 @@
 - [NoHQ](https://nohq.co/) - Learn how to build a great remote team.
 - [RemoteHub](https://remotehub.io/) - Remote Jobs and Companies.
 - [Remote only manifesto](https://remoteonly.org/)
+- [Breather](https://breather.com/) - Modern workspace, all to yourself - for hours, days or months.

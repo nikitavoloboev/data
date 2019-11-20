@@ -15,6 +15,10 @@
 
 - [setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of python.
 
+## Nix
+
+- [install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
+
 ## Links
 
 - [OSS list of GitHub actions](https://github-actions.netlify.com/)
