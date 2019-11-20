@@ -70,3 +70,4 @@
 - [Moving on from RocksDB to something FASTER - Matthew Brookes (2019)](https://www.youtube.com/watch?v=xWNbbkQMtfI)
 - [Prisma Framework](https://github.com/prisma/prisma2) - Database framework enabling type-safe data access, schema migrations and development workflows.
 - [List of software that turns your database into a REST/GraphQL API](https://github.com/dbohdan/automatic-api)
+- [What Are Databases? (2019)](https://www.prisma.io/blog/introduction-to-databases-jmt9jwidtc2a)

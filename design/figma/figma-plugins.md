@@ -8,3 +8,4 @@
 - [Awesome Design Plugins](https://flawlessapp.io/designplugins) - Best design plugins for Sketch, Adobe XD, and Figma.
 - [figplug](https://github.com/rsms/figplug) - Figma plugin builder.
 - [Remove.bg Plugin](https://github.com/aaroniker/figma-remove-bg) - Remove the background of images automatically.
+- [Master](https://www.figma.com/c/plugin/767721682134156281/Master) - Never worry about creating, copying and fixing Components anymore.

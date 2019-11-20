@@ -29,3 +29,4 @@
 - [ReactiveConf 2019 - Mark Dalgleish: Rethinking Design Practices](https://www.youtube.com/watch?v=jnV1u67_yVg)
 - [Emma Wedekind: Foundations of Design Systems (2019)](https://www.youtube.com/watch?v=pXb2jA43A6k)
 - [Design Systems Slack](https://design.systems/slack/)
+- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems#readme)

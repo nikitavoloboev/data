@@ -10,6 +10,7 @@
 - [fp-ts-contrib](https://github.com/gcanti/fp-ts-contrib) - Community driven utility package for fp-ts.
 - [typescript-utilities-guide](https://github.com/typescript-cheatsheets/typescript-utilities-cheatsheet) - List of typescript helper libraries.
 - [tsdef](https://github.com/joonhocho/tsdef) - TypeScript common pattern shortcut definitions / utility gist library.
+- [ts-auto-guard](https://github.com/usabilityhub/ts-auto-guard) - Generate type guard functions from TypeScript interfaces.
 
 ## Links
 
