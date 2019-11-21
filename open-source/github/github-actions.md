@@ -2,8 +2,9 @@
 
 ## Other
 
-- [Deploy Now](https://github.com/primer/deploy) - Deploy to Now from GitHub Actions with useful aliases.
+- [Merge Conflict Finder](https://github.com/marketplace/actions/merge-conflict-finder) - Finds any merge conflicts in your repository.
 - [Upload to Release](https://github.com/JasonEtco/upload-to-release) - GitHub Action that uploads a file to a new release.
+- [Deploy Now](https://github.com/primer/deploy) - Deploy to Now from GitHub Actions with useful aliases.
 
 ## Rust
 

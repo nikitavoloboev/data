@@ -437,6 +437,7 @@
     - [WireGuard](networking/vpn/wireguard.md)
   - [GraphQL](networking/graphql/graphql.md)
     - [Apollo GraphQL](networking/graphql/apollo-graphql.md)
+    - [Hasura](networking/graphql/hasura.md)
   - [SSH](networking/ssh.md)
   - [TLS](networking/tls.md)
   - [Domains](networking/domains.md)

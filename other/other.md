@@ -69,3 +69,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Dominik's moving dots animation-generator](https://dominik.ws/art/movingdots/)
 - [My Personal Linklog (2019)](http://msaavedra.com/posts/my-personal-linklog/)
 - [Lobsters: What's your notebook setup like? (2019)](https://lobste.rs/s/rcaj6p/what_s_your_notebook_setup_like)
+- [All time most upvoted posts on HN](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=&sort=byPopularity&type=story)

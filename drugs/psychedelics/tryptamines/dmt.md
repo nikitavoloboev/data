@@ -58,4 +58,4 @@
 - [First time doing 5-MeO-DMT sitter suggestions](https://old.reddit.com/r/5MeODMT/comments/a4ka61/first_time_doing_5meodmt_sitter_suggestions/ebjyo18/?context=3)
 - [How has DMT affected your belief in God/the afterlife? (2019)](https://www.reddit.com/r/DMT/comments/ctwh0r/how_has_dmt_affected_your_belief_in_godthe/)
 - [5-methoxy-N,N-dimethyltryptamine: An ego-dissolving endogenous neurochemical catalyst of creativity](https://www.biorxiv.org/content/10.1101/578435v2.full)
-- [DMT changes brainwaves to vivid ‘waking-dream’ state (2019)](https://www.imperial.ac.uk/news/193993/ayahuasca-compound-changes-brainwaves-vivid-wakingdream/)
+- [Neural correlates of the DMT experience assessed with multivariate EEG](https://www.nature.com/articles/s41598-019-51974-4) ([HN](https://news.ycombinator.com/item?id=21588101))

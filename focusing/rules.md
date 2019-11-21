@@ -3,7 +3,7 @@
 ## Life
 
 - Set [goals](../focusing/focusing.md). [Plan events](../macOS/apps/fantastical.md). Focus.
-- Don't waste time. Build [ideas](../ideas/ideas.md). One task at a time. Think.
+- No wasted time. Build [ideas](../ideas/ideas.md). One task at a time. Think.
 - Learn. Experiment. Take risks. [Ask questions](../research/asking-questions.md). Document.
 - [Share](../sharing/sharing.md). [Write](../writing/writing.md). Be honest, clear & concise.
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
@@ -13,7 +13,7 @@
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas.
-- Be consistent. Start early. Done > Perfect. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes). Strive for perfection.
+- Be consistent. Start early. Done > Perfect. Do the simplest thing. Solve core problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Don't judge anyone. Attempt to see another person's point of view.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions.
 - Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Move fast. Never give up.
