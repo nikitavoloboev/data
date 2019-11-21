@@ -34,6 +34,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 ## Interesting artists
 
 - [Karolis Strautniekas](https://www.instagram.com/strautniekas/)
+- [Bastien Grivet](https://www.artstation.com/grivetart)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
 - [Ben Ridgway](https://www.samwoolfe.com/2018/06/the-visionary-art-of-ben-ridgway.html) - DMT inspired.

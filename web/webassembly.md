@@ -47,3 +47,4 @@
 - [WebAssembly.sh](https://webassembly.sh/) - WASM/WASI sandboxed terminal in the browser.
 - [WebAssembly meetings (VC or in-person), agendas, and notes](https://github.com/WebAssembly/meetings)
 - [WebAssembly proposals](https://github.com/WebAssembly/proposals)
+- [Bytecode Alliance](https://bytecodealliance.org/) - Open source community dedicated to creating secure new software foundations, building on standards such as WebAssembly and WebAssembly System Interface (WASI).

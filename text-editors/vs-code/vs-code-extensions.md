@@ -118,6 +118,10 @@ Below is a list of extensions I use.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
 - [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 
+## GraphQL
+
+- [GraphQuill](https://marketplace.visualstudio.com/items?itemName=sproutdeveloping.graphquill) - Performs GraphQL API endpoint testing within the VS Code environment.
+
 ## Lisp
 
 - [Parinfer](https://marketplace.visualstudio.com/items?itemName=shaunlebron.vscode-parinfer) - Simplify the way you write Lisp.

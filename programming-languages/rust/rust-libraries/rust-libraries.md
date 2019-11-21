@@ -148,6 +148,7 @@
 - [euclid](https://github.com/servo/euclid) - Small library for geometric types with a focus on 2d graphics and layout.
 - [rabbithole-rs](https://github.com/UkonnRa/rabbithole-rs) - Nearly well-typed, user-friendly JSON:API type system, with an easy-to-use Macro System to help you modelling the your data.
 - [Notify](https://github.com/notify-rs/notify) - Cross-platform filesystem notification library for Rust.
+- [color-backtrace](https://github.com/athre0z/color-backtrace) - Colorful panic backtraces for Rust.
 
 ## Cargo Plugins
 
