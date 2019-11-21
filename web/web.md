@@ -41,3 +41,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [My list of over 600 web development feeds](https://webplatform.news/issues/2018-10-31)
 - [Gumroad v1](https://github.com/gumroad/gumroad-v1) - MVP of Gumroad written in Python and runs on App Engine.
 - [Mint](https://github.com/mint-lang/mint) - Refreshing programming language for the front-end web.
+- [Various books on web tech](https://flaviocopes.com/page/ebooks-links/)

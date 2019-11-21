@@ -12,3 +12,4 @@
 - [Persistent Layout Patterns in Next.js (2019)](https://adamwathan.me/2019/10/17/persistent-layout-patterns-in-nextjs/)
 - [Universal Next.js Route](https://github.com/brajevicm/next-universal-route)
 - [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme)
+- [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/)

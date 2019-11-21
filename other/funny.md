@@ -19,3 +19,4 @@ Some things I found funny.
 - [Thanos.js](https://thanosjs.org/) - Reduce the file size of your project down to 50%, by randomly deleting half of the files.
 - [Launching your product after months of research and development](https://twitter.com/PottsJustin/status/1186822288756396035)
 - [Every programming tutorial](https://www.youtube.com/watch?v=MAlSjtxy5ak)
+- [Fibery - Yet another collaboration tool](https://fibery.io/anxiety)
