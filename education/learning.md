@@ -24,3 +24,4 @@
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Collection of GitHub repos, blogs and websites to learn cool things](https://github.com/rsapkf/goodies#readme)
 - [Imperial Exam Papers](https://xav.ai/exam_papers/)
+- [Ask HN: What's the most valuable thing you can learn in an hour? (2019)](https://news.ycombinator.com/item?id=21581361)
