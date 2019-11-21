@@ -16,3 +16,4 @@
 - [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
 - [Learn to Code HTML & CSS book](https://learn.shayhowe.com/html-css/)
 - [Native HTML Autocomplete with datalist](https://codepen.io/tejask/pen/OJJBLrq)
+- [HTML isn’t done! (Chrome Dev Summit 2019)](https://www.youtube.com/watch?v=ZFvPLrKZywA)

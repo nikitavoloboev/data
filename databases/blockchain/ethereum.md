@@ -23,3 +23,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [A Journey Through Phase 2 of Ethereum 2.0 (2019)](https://medium.com/@william.j.villanueva/a-journey-through-phase-2-of-ethereum-2-0-c7a2397a36cb)
 - [Ethereum 2.0 Specifications](https://github.com/ethereum/eth2.0-specs)
 - [Prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of the Ethereum Serenity protocol.
+- [Compound](https://compound.finance/) - Open-source, autonomous protocol built for developers, to unlock a universe of new financial applications. Interest and borrowing, for the open financial system.
