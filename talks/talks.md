@@ -43,3 +43,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [CodeTalks](https://codetalks.tv/) - Like Youtube, but for developers.
 - [Speaking at conferences 101](https://medium.com/@emmawedekind/speaking-at-conferences-6b7781024b69)
 - [Ask HN: What are some resources to improve speaking skills? (2019)](https://news.ycombinator.com/item?id=21410579)
+- [Tips for public speaking](https://speaking.io/)

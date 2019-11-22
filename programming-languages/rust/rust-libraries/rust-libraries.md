@@ -161,3 +161,4 @@
 - [Curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust)
 - [Crates that don't exist, but should](https://github.com/dtolnay/request-for-implementation#readme)
 - [Aelve Rust packages search](https://codesearch.aelve.com/rust) - Grep over package repositories.
+- [Overview of Rust error handling libraries (2019)](https://blog.yoshuawuyts.com/error-handling-survey/) ([HN](https://news.ycombinator.com/item?id=21606221))

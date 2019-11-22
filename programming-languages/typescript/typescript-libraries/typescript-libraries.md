@@ -11,6 +11,7 @@
 - [typescript-utilities-guide](https://github.com/typescript-cheatsheets/typescript-utilities-cheatsheet) - List of typescript helper libraries.
 - [tsdef](https://github.com/joonhocho/tsdef) - TypeScript common pattern shortcut definitions / utility gist library.
 - [ts-auto-guard](https://github.com/usabilityhub/ts-auto-guard) - Generate type guard functions from TypeScript interfaces.
+- [ts-adt](https://github.com/pfgray/ts-adt) - Generate Algebraic Data Types and pattern matchers.
 
 ## Links
 

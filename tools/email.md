@@ -21,3 +21,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Postmark](https://postmarkapp.com/) - Delivers your transactional email to customers on time, every time.
 - [Generic Tips For Emailing Busy People](https://www.kalzumeus.com/standing-invitation/#generic-tips-for-emailing-busy-people)
 - [Hakara](https://github.com/haraka/Haraka) - Fast, highly extensible, and event driven SMTP server.
+- [How To Run Your Own Mail Server (2017)](https://www.c0ffee.net/blog/mail-server-guide/)
