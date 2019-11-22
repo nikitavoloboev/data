@@ -56,3 +56,4 @@
 - [Python -> Speed blog](https://pythonspeed.com/) - Learn tools and techniques to help you ship better Python software, faster.
 - [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments.
 - [pyperf](https://github.com/vstinner/pyperf) - Toolkit to run Python benchmarks.
+- [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)

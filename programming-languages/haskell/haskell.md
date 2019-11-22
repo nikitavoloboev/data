@@ -103,3 +103,4 @@
 - [A dead-simple web stack in Haskell (2019)](https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html) ([HN](https://news.ycombinator.com/item?id=21566546))
 - [simple-twitter](https://github.com/Gabriel439/simple-twitter) - Bare-bones Twitter clone implemented in a single file of Haskell deployed with Nix. ([HN](https://news.ycombinator.com/item?id=21599546)) ([Slides](https://github.com/Gabriel439/slides/blob/master/simple-twitter/slides.md))
 - [Boring Haskell Manifesto (2019)](https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto)
+- [HaskellR](https://github.com/tweag/HaskellR) - Full power of R in Haskell.
