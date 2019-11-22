@@ -45,7 +45,7 @@
 - Use noise canceling headphones to minimize distractions.
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Take mindfulness breaks and breathe when distracted. Or exercise.
-- Update [Timing](../macOS/apps/timing.md) after breaks and focus session ends. Refine activity rules for better activity predictions.
+- Update [Timing](../macOS/apps/timing.md) quickly on break starts. Refine activity rules for better activity predictions.
 - Make decisions based on data/experience. Be decisive, bold & right. Collect meaningful experiences & data points for problems I am solving.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.

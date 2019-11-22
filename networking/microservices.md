@@ -14,3 +14,4 @@
 - [Istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [3 common pitfalls in microservice integration and how to avoid them (2018)](https://www.youtube.com/watch?v=O2-NHptllKQ)
 - [So you want to learn Microservices? (2019)](https://dev.to/kgoralski/deep-dive-into-microservices-architecture-h54) ([HN](https://news.ycombinator.com/item?id=21583072))
+- [SuperGloo](https://github.com/solo-io/supergloo) - Service Mesh Orchestration Platform.

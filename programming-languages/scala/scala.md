@@ -23,3 +23,4 @@
 - [Practical FP in Scala: A hands-on approach](https://leanpub.com/pfp-scala)
 - [Extreme Cleverness: Functional Data Structures in Scala - Daniel Spiewak (2013)](https://www.youtube.com/watch?v=pNhBQJN44YQ)
 - [Scale By The Bay 2019 videos](https://www.youtube.com/watch?v=1WVjkP_G2cA&list=PLNESult6cnOlb1BAO4o2T3DdNbMnCpTjp)
+- [Scalafix](https://github.com/scalacenter/scalafix) - Refactoring and linting tool for Scala.
