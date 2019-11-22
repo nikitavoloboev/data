@@ -47,3 +47,4 @@
 - [Dive Into Deep Learning 2 PyTorch](https://github.com/dsgiitr/d2l-pytorch)
 - [PyTorch at Tesla - Andrej Karpathy, Tesla (2019)](https://www.youtube.com/watch?v=oBklltKXtDE) ([HN](https://news.ycombinator.com/item?id=21495685))
 - [3D Ken Burns Effect](https://github.com/sniklaus/3d-ken-burns) - Implementation of 3D Ken Burns Effect from a Single Image using PyTorch.
+- [Fast LSTMs in PyTorch (2019)](https://lernapparat.de/fast-lstm-pytorch/)
