@@ -13,6 +13,7 @@
 - [Zeit](https://zeit.co/design)
 - [Primer](https://primer.style/) - Design, build, and create with GitHub’s design system.
 - [Fannypack](https://github.com/fannypackui/fannypack) - Friendly, themeable, accessible React UI Kit built with Reakit.
+- [Braid](https://github.com/seek-oss/braid-design-system) - Themeable design system for the SEEK Group.
 
 ## Links
 

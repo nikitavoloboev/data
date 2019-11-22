@@ -132,6 +132,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Carrd](https://carrd.co/) - Simple, free, fully responsive one-page sites for pretty much anything.
 - [kache](https://github.com/kasvith/kache) - Simple in memory cache written using go.
 - [Whimsical](https://whimsical.com/) - The Visual Workspace.
+- [linkinator](https://github.com/JustinBeckwith/linkinator) - Scurry around your site and find all those broken links.
 
 ## Notes
 
