@@ -91,3 +91,4 @@
 - [Immutability is Changing - From Immutable.js to Immer (2019)](https://www.youtube.com/watch?v=bFuRvcAEiHg)
 - [Tenko](https://github.com/pvdz/tenko) - 100% spec compliant ES2020 JavaScript parser written in JS.
 - [code-red](https://github.com/Rich-Harris/code-red) - Experimental toolkit for writing x-to-JavaScript compilers.
+- [Reduce in JavaScript (2019)](https://yuanchuan.dev/2019/03/04/the-reduce-function.html)

@@ -33,3 +33,4 @@
 - [Ray](https://github.com/ray-project/ray) - Fast and simple framework for building and running distributed applications.
 - [Value Prediction Network (2017)](https://arxiv.org/abs/1707.03497)
 - [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model (2019)](https://arxiv.org/abs/1911.08265) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/dzakrs/r_191108265_mastering_atari_go_chess_and_shogi_by/))
+- [BCQ](https://github.com/sfujim/BCQ) - PyTorch implementation of BCQ for "Off-Policy Deep Reinforcement Learning without Exploration".
