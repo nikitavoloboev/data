@@ -105,3 +105,4 @@
 - [Rust web framework comparison](https://github.com/flosse/rust-web-framework-comparison)
 - [Rust memory management explained from C perspective (2019)](https://www.reddit.com/r/rust/comments/dvqibf/someone_explain_rust_memory_management_from_c/)
 - [What makes rust so fast? (2019)](https://www.reddit.com/r/rust/comments/dxbjq2/what_makes_rust_so_fast/)
+- [Rust Playground for macOS](https://github.com/cmyr/RustPlayground) - Standalone native mac application that allows quickly editing and testing rust snippets.

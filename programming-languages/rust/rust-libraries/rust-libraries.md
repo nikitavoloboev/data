@@ -149,6 +149,8 @@
 - [rabbithole-rs](https://github.com/UkonnRa/rabbithole-rs) - Nearly well-typed, user-friendly JSON:API type system, with an easy-to-use Macro System to help you modelling the your data.
 - [Notify](https://github.com/notify-rs/notify) - Cross-platform filesystem notification library for Rust.
 - [color-backtrace](https://github.com/athre0z/color-backtrace) - Colorful panic backtraces for Rust.
+- [r2d2](https://github.com/sfackler/r2d2) - Generic connection pool for Rust.
+- [Rust-PHF](https://github.com/sfackler/rust-phf) - Compile time static maps for Rust.
 
 ## Cargo Plugins
 
@@ -162,3 +164,4 @@
 - [Crates that don't exist, but should](https://github.com/dtolnay/request-for-implementation#readme)
 - [Aelve Rust packages search](https://codesearch.aelve.com/rust) - Grep over package repositories.
 - [Overview of Rust error handling libraries (2019)](https://blog.yoshuawuyts.com/error-handling-survey/) ([HN](https://news.ycombinator.com/item?id=21606221))
+- [Quickly generate Dash docsets for third-party Rust crates](https://github.com/cmyr/rust-dash-docset-gen)
