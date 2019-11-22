@@ -22,3 +22,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Поляроиды за год](http://sergeykorol.ru/blog/polaroids/)
 - [Two months with the Leica Q2 (2019)](https://photos.mrfrisby.com/two-months-with-the-leica-q2)
 - [Inside the iPhone 11 Camera, Part 1: A Completely New Camera (2019)](https://blog.halide.cam/inside-the-iphone-11-camera-part-1-a-completely-new-camera-28ea5d091071)
+- [Leica Q2 Review](https://www.needoptic.com/leica-q2-review-2019)

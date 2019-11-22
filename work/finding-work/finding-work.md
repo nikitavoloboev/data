@@ -4,7 +4,7 @@ This article on [Interviewing, applying and getting your first job in iOS](http:
 
 I made a curated list of ways to prepare and places to look to [find work programming](https://github.com/nikitavoloboev/find-work#readme).
 
-I use [Otta](https://otta.co/), [LinkedIn](https://www.linkedin.com) & [AngelList](https://angel.co) and the [monthly HN: Who is hiring? threads](https://kennytilton.github.io/whoishiring/) for finding interesting work opportunities to apply to.
+I use [Otta](https://otta.com/), [LinkedIn](https://www.linkedin.com) & [AngelList](https://angel.co) and the [monthly HN: Who is hiring? threads](https://kennytilton.github.io/whoishiring/) for finding interesting work opportunities to apply to.
 
 I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTeX](https://github.com/nikitavoloboev/cv#readme).
 
@@ -49,7 +49,7 @@ I use a [Trello board](https://trello.com/b/w58QRfB0) to keep track of companies
 - [Many React Remote jobs](https://twitter.com/mxstbr/status/1180846287148785670)
 - [TripleByte](https://triplebyte.com/) - Do quiz & interview and skip first stages in applying for companies.
 - [The Career Advice I Wish I Had](https://welearncode.com/career-advice/)
-- [Otta](https://otta.co/) - Discover the most relevant roles for you at all of London's best startups.
+- [Otta](https://otta.com/) - Discover the most relevant roles for you at all of London's best startups.
 - [Rocket List 2019](https://rocketlist.uk/) - Curated list of the best fast-growing companies in London to work for. Built for job-seekers.
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards#readme) - List of companies (or teams) that don't do "whiteboard" interviews.
 - [Placement](https://placement.com/) - Get a great job in a new city.
