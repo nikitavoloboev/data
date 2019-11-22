@@ -87,6 +87,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Studio Joanie Lemercier](https://joanielemercier.com/)
 - [13 illustrations devoted to Ray Bradbury's "Fahrenheit 451" painted in 1950-s by Andrey Sokolov](https://www.maxuta.com/maxuta/collections/032_pn_space_collectibles/032262_andrey_sokolov_fahrenheit_451_illustration.htm)
 - [(un)stable equilibrium 1:1](https://computervisionart.com/pieces2019/unstable-equilibrium/)
+- [Simon Goindard's Dune](http://simongoinard.com/DUNE)
 
 ## Photography
 

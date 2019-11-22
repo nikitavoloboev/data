@@ -17,6 +17,10 @@
 
 - [Quansight](https://www.quansight.com/consulting)
 
+## Node
+
+- [Custom Node.js Module Development](http://cryto.net/~joepie91/custom-module-development.html)
+
 ## Other
 
 - [Monadfix](https://monadfix.com/) - Work with Haskell, PureScript, and Agda.

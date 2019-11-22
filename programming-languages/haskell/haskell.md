@@ -101,3 +101,5 @@
 - [Lambda World 2019 - Painless software development with Haskell - Paweł Szulc](https://www.youtube.com/watch?v=idU7GdlfP9Q)
 - [Stay Tuned: Best Haskell Sources to Follow (2019)](https://serokell.io/blog/haskell-sources)
 - [A dead-simple web stack in Haskell (2019)](https://williamyaoh.com/posts/2019-11-16-a-dead-simple-web-stack.html) ([HN](https://news.ycombinator.com/item?id=21566546))
+- [simple-twitter](https://github.com/Gabriel439/simple-twitter) - Bare-bones Twitter clone implemented in a single file of Haskell deployed with Nix. ([HN](https://news.ycombinator.com/item?id=21599546))
+- [Boring Haskell Manifesto (2019)](https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto)

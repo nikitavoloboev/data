@@ -230,6 +230,7 @@
 - [cast](https://github.com/spf13/cast) - Safe and easy casting from one type to another in Go.
 - [go-reuseport](https://github.com/libp2p/go-reuseport) - Reuse tcp/udp ports in golang.
 - [Genesis](https://github.com/life4/genesis) - Typesafe concurrent generic functions for Go.
+- [redis](https://github.com/pascaldekloe/redis) - Efficient Redis client.
 
 ## Links
 
