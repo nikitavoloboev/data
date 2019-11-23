@@ -15,7 +15,7 @@
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas.
 - Be consistent. Start early. Done > Perfect. Do the simplest thing. Solve core problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Don't judge anyone. Attempt to see another person's point of view.
-- Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive.
+- Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Give feedback.
 - Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Move fast. Never give up.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Build, enforce & **follow these rules**. Complete all [essential habits](habits.md).
