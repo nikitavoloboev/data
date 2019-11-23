@@ -5,6 +5,7 @@ I love software and non software tools that help me in some way. Most tools I us
 ## Other
 
 - [Instantish](https://www.itsinstantish.com/) - Chat-first issue tracker.
+- [Next Please](https://nextplease.io/) - Track features your users request and collaborate on your roadmap.
 - [Render](https://render.com/) - Unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.
 - [Avatars](https://www.avatars.io/) - Every app needs an avatar. We make it hassle free.
 - [Gravatar](https://en.gravatar.com/) - Attach an image to an email and websites supporting Gravatar will simply pick up the image you specified.

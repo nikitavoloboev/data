@@ -17,3 +17,4 @@
 - [Tiny Capital](https://www.tinycapital.com/) - We start, buy, and invest in wonderful internet businesses.
 - [Bloomberg Beta](https://github.com/Bloomberg-Beta/Manual) - Early-stage venture firm backed by Bloomberg L.P., investing out of a \$75M fund focused broadly on the future of work.
 - [Index Ventures](http://www.indexventures.com/)
+- [What I learnt from raising £1m](https://medium.com/swlh/what-i-learnt-from-raising-1m-8f70df34c874)
