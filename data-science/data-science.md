@@ -73,3 +73,4 @@
 - [Prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [Dagster](https://github.com/dagster-io/dagster) - Python library for building data applications: ETL, ML, Data Pipelines, and more.
 - [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
+- [An Introduction To Data Science On The Linux Command Line (2019)](https://blog.robertelder.org/data-science-linux-command-line/) ([HN](https://news.ycombinator.com/item?id=21605077))

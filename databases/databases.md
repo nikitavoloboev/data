@@ -44,6 +44,7 @@
 - [Riak](https://github.com/basho/riak) - Distributed, decentralized data storage system.
 - [CockroachDB](https://github.com/cockroachdb/cockroach) - Open source, cloud-native SQL database.
 - [ActorDB](https://github.com/biokoda/actordb) - Distributed SQL database.
+- [ksqlDB](https://ksqldb.io/) - Event streaming database purpose-built for stream processing applications. ([HN](https://news.ycombinator.com/item?id=21589670)) ([Code](https://github.com/confluentinc/ksql))
 
 ## Tools
 
