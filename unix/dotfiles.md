@@ -21,6 +21,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles#r
 - [Brandon Amos](https://github.com/bamos/dotfiles)
 - [Tyler Neely](https://github.com/spacejam/dots)
 - [Nega](https://github.com/neg-serg/dotfiles)
+- [fatih](https://github.com/fatih/dotfiles)
 
 ## Links
 

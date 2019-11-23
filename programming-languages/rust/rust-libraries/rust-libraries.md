@@ -156,6 +156,7 @@
 
 - [cargo-instruments](https://github.com/cmyr/cargo-instruments) - Cargo plugin to generate Xcode Instruments trace files.
 - [cargo-c](https://github.com/lu-zero/cargo-c) - Cargo C-ABI helpers.
+- [cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - Cargo plugin to help you manage large dependency graphs.
 
 ## Links
 

@@ -15,7 +15,7 @@
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas.
 - Be consistent. Start early. Done > Perfect. Do the simplest thing. Solve core problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Don't judge anyone. Attempt to see another person's point of view.
-- Don't lie to myself nor anyone else. Be confident in my thoughts & actions.
+- Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive.
 - Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Move fast. Never give up.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Build, enforce & follow these rules. Complete all [essential habits](habits.md).
@@ -35,26 +35,20 @@
 
 ## Focus
 
-- Don't context switch unless it's necessary. Don't visit blocked sites and apps when **focusing**. Don't touch the phone unless necessary.
-- Spend mindful time on the phone. Listen to podcasts/books. Read/chat. Don't waste time on things that can be done better/faster on mac.
-- When **focusing**, do the task at hand and nothing else. [Break problems down](../research/solving-problems.md). Solve them.
-- Be mindful of my habits and temptations. Don't succumb to them and keep my focus. Do things with purpose.
-- Do quick exercise bursts during the day to regain focus. Move around & explore new environments for inspiration.
-- Use one screen on mac. It's easier to context switch and keep focus.
-- Don't listen to distracting music & block out environment noise when focusing. Use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) and listen to rain or similar sounds.
-- Use noise canceling headphones to minimize distractions.
+- When [focusing](../focusing/focusing.md), do the active task. No news/distractions (sites are blocked). No context switching.
+- [Break problems down](../research/solving-problems.md). Solve each step one at a time. Know the end goal.
+- Spend mindful time on all devices. on iOS, listen to podcasts/books, read/text. Don't do things that can be done faster on mac.
+- Do bodyweight exercises during the day to regain focus. Change environments for inspiration.
+- Listen to rain sounds with [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) when focusing with environment noise blocked. No distracting music.
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
-- Take mindfulness breaks and breathe when distracted. Or exercise.
 - Update [Timing](../macOS/apps/timing.md) quickly on break starts. Refine activity rules for better activity predictions.
-- Make decisions based on data/experience. Be decisive, bold & right. Collect meaningful experiences & data points for problems I am solving.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.
 - Always breathe fresh air. Have proper lighting.
-- Invest in learning/using/building new tools.
-- Wear comfortable clothes. Limit choice in clothing. Wear same clean clothes.
-- Use standing desk. Never sit for long. Sit up right.
-- Only use the bed for sleep ideally. Be purposeful in any environment I am in. Start days quickly.
-- Don't overthink things to the point of not doing anything. Clear up any confusion.
+- Wear the same clean & comfortable clothes.
+- Never sit for long. Sit up right. Use standing desk.
+- Only use the bed for sleep. Start each quickly by waking up & standing up.
+- Don't overthink things. Clear up any confusions. Don't be stuck. Ask for help.
 - Use priority system for everything and don't go outside its bounds. (i.e. Trello [Learn board](https://trello.com/b/cu32qF3q) or [Goodreads currently reading list](https://www.goodreads.com/review/list/15768482?shelf=currently-reading))
 
 ## Ideas
@@ -88,6 +82,7 @@
 - Only use what is necessary. Experiment with new tools/apps but never keep things I don't need. Applies to everything.
 - Establish good mental models of what I need and what I use as I approach modifying my workflow and tools.
 - Run less software/code. Only run what I use and need. Keep all systems clean & purposeful.
+- Invest in learning/using/building new tools.
 
 ## Share
 

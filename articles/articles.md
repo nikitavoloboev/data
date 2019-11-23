@@ -18,3 +18,4 @@ Some articles I read and liked that don't fit under any other topic inside this 
 - [Stepping back (2018)](https://write.as/matt/stepping-back)
 - [Coping with Feedback (2019)](https://overreacted.io/coping-with-feedback/)
 - [The Sad State of Logging Bugs for Apple (2019)](https://www.corbinstreehouse.com/blog/2019/03/the-sad-state-of-logging-bugs-for-apple/)
+- [Readme Driven Development (2010)](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)

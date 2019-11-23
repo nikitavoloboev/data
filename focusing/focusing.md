@@ -53,22 +53,15 @@ At the end of the 80 min focus session, [Timing](../macOS/apps/timing.md) shows 
 
 > Focus script ran on break/focus-end will switch to Timing and activate next block of time so I can annotate what I did
 
-![](https://i.imgur.com/doW3obs.png)
+![](https://i.imgur.com/1i3NxXK.png)
 
 > Projects in Timing track activities I did. I add rules to each activity so Timing intelligently matches blocks of time to activities
 
 I limit apps that can send me notifications to only essential things and turn off all sounds on notifications I get.
 
-I focus on [solving problems](../research/solving-problems.md) & limit any distractions.
+I focus on [solving problems](../research/solving-problems.md) & limit any distractions. I follow [rules](rules.md#focus) to maintain my focus throughout the day.
 
-## Other things
-
-- I don't listen to distracting music & block out environment noise when focusing. Instead I use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) and listen to rain or similar sounds.
-- I always have water or tea nearby and keep myself hydrated. If I can't solve some problem or feel like I can't keep my focus, I take a walk outside or do some exercise.
-- I try to work outside of home and move often. When that is not possible I emulate a working environment in some part of my home so my brain knows that if I am in this place, it is time to work and not do anything else.
-- I don't use any external monitors. I found multiple monitors distracting as I can do everything fast with my macbook already.
-- I strive to support my [happiness](../life/happiness.md) by working on projects that I care about and looking after my [health](../health/health.md).
-- I constantly refine [my workflow](../sharing/my-workflow.md) to be more efficient and better every day. I also maintain a set of [my own rules in life](rules.md) that I follow.
+I support my [happiness](../life/happiness.md) by working on projects that I care about and looking after my [health](../health/health.md).
 
 ## Notes
 
