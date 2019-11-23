@@ -48,3 +48,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Financial Markets course](https://www.coursera.org/learn/financial-markets-global) - Overview of the ideas, methods, and institutions that permit human society to manage risks and foster enterprise.
 - [QuantStack](https://quantstack.net/) - Team of developers and contributors of major open-source projects for scientific computing, who are passionate about science and technology.
 - [Self-Study Plan for Becoming a Quantitative Developer](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer)
+- [QuantLib](https://github.com/lballabio/QuantLib) - Free/open-source C++ library for quantitative finance.

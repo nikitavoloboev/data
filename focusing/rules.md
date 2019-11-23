@@ -18,7 +18,7 @@
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive.
 - Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Move fast. Never give up.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
-- Build, enforce & follow these rules. Complete all [essential habits](habits.md).
+- Build, enforce & **follow these rules**. Complete all [essential habits](habits.md).
 - Create & adjust rules based on new insights. [Take it easy](../life/happiness.md). You only live now.
 
 ## Health
