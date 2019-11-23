@@ -64,3 +64,4 @@
 - [How Swift Achieved Dynamic Linking Where Rust Couldn't (2019)](https://gankra.github.io/blah/swift-abi/) ([HN](https://news.ycombinator.com/item?id=21488415))
 - [The Best Swift and iOS conferences in 2020](https://www.hackingwithswift.com/articles/206/the-best-swift-and-ios-conferences-in-2020)
 - [Swift 5.1 cheat sheet & quick reference](https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf)
+- [Design Patterns implemented in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)

@@ -42,3 +42,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Commute talk: How to start building an OS? (2019)](https://www.youtube.com/watch?v=fqllFKjEZAo)
 - [Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/index.html) ([HN](https://news.ycombinator.com/item?id=21446079))
 - [Mu: Sketching out a minimal system programming language (2019)](http://akkartik.name/post/mu-2019-2) ([Lobsters](https://lobste.rs/s/e39f2x/mu_sketching_out_minimal_system))
+- [ioping](https://github.com/koct9i/ioping) - Simple disk I/0 latency measuring tool.

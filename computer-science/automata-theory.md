@@ -8,3 +8,4 @@
 - [Lenia](https://github.com/Chakazul/Lenia) - 2D cellular automata with continuous space, time and states. It produces a huge variety of interesting life forms.
 - [Conway's game of life, in parallel](https://jlpaca.github.io/toybox/4-conway/index.html)
 - [Conway's Game of Life in Go](https://github.com/healeycodes/conways-game-of-life)
+- [Implementations of Game of Life in different languages](https://github.com/domoritz?tab=repositories&q=gameoflife)
