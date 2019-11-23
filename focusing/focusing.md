@@ -1,34 +1,30 @@
 # Focusing
 
-Focusing on the things I need to be doing is often hard and I am always trying to lure [my monkey brain](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) to actually listen to me and not live a life of its own.
+Focusing on things I need to be doing is often hard and I am always trying to lure [my monkey brain](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html) to actually listen to me and not live a life of its own.
 
-## Flow
-
-Getting in the _flow_ state is one of the most important things I try to focus on throughout the day.
-
-I try to define a certain set of [rules](rules.md) and [processes](processes.md) that I like myself to follow for doing certain things.
-
-For example, one of these _rules_ is that I need to be proactive with my email and action on every email I read. But there are [many other ones](rules.md) out there.
+I define a set of [rules](rules.md) and [processes](processes.md) I set for myself to follow. The rules act as a framework for how I lead my life.
 
 ## Focusing on what's important
 
-I keep a private Trello board where I outline things that I want to focus on in life and achieve.
+I keep a private Trello board where I outline goals & projects I want to focus on.
 
 ![](https://i.imgur.com/5gCEp6O.png)
 
-I mark the projects and goals I want to focus on right now, and by pressing `Q` in Trello I only see these cards on the board.
+I mark projects and goals I want to focus on **right now**, and by pressing `Q` in Trello I only see these cards on the board.
 
 ![](https://i.imgur.com/aooOLIO.png)
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
 
-I try to have a completely event driven workflow as I schedule events in my calendar and plan the next day or days ahead of me in context of my goals.
+I then [schedule events](../macOS/apps/fantastical.md) in my calendar and plan the day/week in context of my goals.
 
-I use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week/monthly reviews & plans which I often do in the evenings of particular days.
+I use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week/monthly reflections & plans which I do in the evenings of particular days.
 
 ![](https://i.imgur.com/M9wtkv6.png)
 
-I find this goal centric approach to be incredibly useful as it lets me focus on making sure I do everything I need to achieve the goals I have set for myself. Making sure I limit the number of projects I am working on at any given time lets me actually deeply focus on them instead of being scattered around wondering if I am working on the right thing in the moment.
+This goal centric approach is useful as it allows me to keep focused on what I want to achieve by limiting number of projects/goals I am working on at any given time.
+
+I then use & build tools to make the process of achieving the goals & tasks more streamlined.
 
 ## Focus sessions
 
@@ -38,9 +34,9 @@ I use [Focus app](https://heyfocus.com) as a recurring [Pomodoro timer](https://
 
 ![](https://i.imgur.com/5lLgPaU.png)
 
-Only on breaks can I visit these websites. I also get 20 minutes of optional break time every 3 hours. And I can start 5 min breaks during my Focus sessions with a macro.
+Only on breaks can I visit these websites. I also get 20 minutes of optional break time every 3 hours. And I can start 5 min breaks during my Focus sessions with a [macro](../macOS/apps/keyboard-maestro/km-macros.md).
 
-The things I work on are events I have set in [Fantastical](../macOS/apps/fantastical.md). The events can be meetings or projects I have set. Some common events include:
+The things I work on are defined by events I have set in [Fantastical](../macOS/apps/fantastical.md). The events can be meetings or projects I have set. Some common events include:
 
 - 2Do (☑️) - I open [2Do](../macOS/apps/2do.md) and work through the most prioritized tasks for `Today` or `Starred`.
 - Code (💻) - I work through 2Do tasks with `pr` tag or build an idea from [Trello](https://trello.com/b/alB1ryRP).

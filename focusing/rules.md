@@ -68,7 +68,7 @@
 
 ## Write
 
-- Be clear in what I want to share. Be concise. [Cut out everything that’s not surprising.](https://sivers.org/d22)
+- Be clear in what I want to share. Be concise. [Cut out everything that’s not surprising.](https://sivers.org/d22) Remove noise.
 - Use proper punctuation and capitalize things appropriately. Use simple language.
 - Use imperative tense for briefness when making tasks (2Do, Trello, GitHub issues). Be clear.
 - Remove unnecessary and _filler_ words. Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Say more with less.
