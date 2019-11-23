@@ -44,3 +44,4 @@
 - [Faust](https://github.com/robinhood/faust) - Python Stream Processing.
 - ["Consistency without consensus in production systems" by Peter Bourgon (2014)](https://www.youtube.com/watch?v=em9zLzM8O7c)
 - [Distributed consensus reading list](https://github.com/heidi-ann/distributed-consensus-reading-list#readme)
+- [Titanoboa](https://github.com/mikub/titanoboa) - Community version of fully distributed, highly scalable and fault tolerant workflow orchestration platform for JVM.
