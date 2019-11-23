@@ -130,6 +130,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Nice CS books/papers](https://news.ycombinator.com/item?id=21302131)
 - [Programming books that aren't boring](https://twitter.com/dan_abramov/status/1190762799338790913)
 - [Some Favorite Non-technical Books of Bjarne Stroustrup](http://www.stroustrup.com/literature.html) ([HN](https://news.ycombinator.com/item?id=21439192))
+- [The 50 Best Nonfiction Books of the Past 25 Years](https://slate.com/human-interest/2019/11/50-best-nonfiction-books.html)
 
 ## Notes
 

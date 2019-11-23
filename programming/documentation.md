@@ -18,3 +18,4 @@
 - [Outline](https://github.com/outline/outline) - Open, extensible, wiki for your team built using React and Node.js
 - [Ask HN: What is key to good technical documentation? (2019)](https://news.ycombinator.com/item?id=20909783)
 - [Slab](https://slab.com/) - Simple, scalable wiki that knocks down silos.
+- [How to remove condescending language from documentation (2019)](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)

@@ -100,3 +100,4 @@
 - [Minimalism in Programming (2018)](https://pointersgonewild.com/2018/02/18/minimalism-in-programming/)
 - [ReactiveConf 2019 - David Nolen: Are we there yet? Remix](https://www.youtube.com/watch?v=ynhhuVQL3Y0)
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Free and open-source cross-platform source explorer. ([HN](https://news.ycombinator.com/item?id=21567556))
+- [Developer Roadmaps](https://roadmap.sh/) - Community driven roadmaps, articles and resources for developers. ([HN](https://news.ycombinator.com/item?id=21591441)) ([Code](https://github.com/kamranahmedse/roadmap.sh))
