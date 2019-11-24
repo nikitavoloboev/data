@@ -45,3 +45,4 @@
 - [Node Serialport](https://github.com/serialport/node-serialport) - Access serial ports with JavaScript. Linux, OSX and Windows.
 - [RunKit](https://runkit.com/home) - Sandboxed JavaScript environment as notebooks.
 - [Velcro](https://github.com/ggoodman/velcro) - Suite of packages designed to bridge the runtime gap between browser development and the node package ecosystem.
+- [Autarky](https://github.com/pranshuchittora/autarky) - Liberating disk space from node_modules.
