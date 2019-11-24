@@ -113,3 +113,4 @@
 - [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Simple service that listens to the Kubernetes API server and generates metrics about the state of the objects.
 - [Cloudflow](https://cloudflow.io/) - Enables you to quickly develop, orchestrate, and operate distributed streaming applications on Kubernetes.
 - [Clusterlint](https://github.com/digitalocean/clusterlint) - Best practices checker for Kubernetes clusters.
+- [An illustrated guide to Kubernetes Networking (2017)](https://itnext.io/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727)

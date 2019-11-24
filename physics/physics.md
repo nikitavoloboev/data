@@ -29,3 +29,4 @@
 - [Ask HN: Physicists of HN, what are you working on these days? (2019)](https://news.ycombinator.com/item?id=19500151)
 - [In conversation with Nima Arkani-Hamed (2014)](https://www.youtube.com/watch?v=pup3s86oJXU)
 - [A Peek into Einstein's Zurich Notebook](https://www.pitt.edu/%7Ejdnorton/Goodies/Zurich_Notebook/)
+- [David Tong: Lectures on Theoretical Physics](http://www.damtp.cam.ac.uk/user/tong/teaching.html)
