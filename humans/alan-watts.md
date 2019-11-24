@@ -1,6 +1,6 @@
 # [Alan Watts](http://www.alanwatts.com)
 
-Alan Watts is most certainly my favorite person I wish I knew. Fortunately he wrote a [few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts?from_search=true) and did [many talks](https://www.youtube.com/results?search_query=alan+watts).
+Alan Watts is one of my favorite people I wish I knew. Fortunately he wrote a [few books](https://www.goodreads.com/author/show/1501668.Alan_W_Watts?from_search=true) and did [many talks](https://www.youtube.com/results?search_query=alan+watts).
 
 The one book I read by him and loved is [Wisdom of Insecurity](https://antilogicalism.files.wordpress.com/2017/07/wisdom-of-insecurity.pdf).
 

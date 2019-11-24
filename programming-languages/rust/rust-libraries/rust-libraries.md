@@ -151,6 +151,7 @@
 - [color-backtrace](https://github.com/athre0z/color-backtrace) - Colorful panic backtraces for Rust.
 - [r2d2](https://github.com/sfackler/r2d2) - Generic connection pool for Rust.
 - [Rust-PHF](https://github.com/sfackler/rust-phf) - Compile time static maps for Rust.
+- [Signal-hook](https://github.com/vorner/signal-hook) - Rust library allowing to register multiple handlers for the same signal.
 
 ## Cargo Plugins
 
