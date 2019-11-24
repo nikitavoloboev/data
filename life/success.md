@@ -39,3 +39,4 @@ Success comes from not giving up and doing what you love.
 - [What advice would you give your 23 year old self?](https://twitter.com/TaelurAlexis/status/1159637380716027904)
 - [What you Believe Becomes Reality – Chris Do (2019)](https://www.youtube.com/watch?v=f7T1Zs28Deo)
 - [Adam Neumann's 2017 Baruch College Commencement Address | WeWork](https://www.youtube.com/watch?v=wX5tREnC-FE)
+- [The Bus Ticket Theory of Genius (2019)](http://paulgraham.com/genius.html) ([HN](https://news.ycombinator.com/item?id=21613357))
