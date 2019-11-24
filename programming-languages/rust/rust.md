@@ -107,3 +107,7 @@
 - [What makes rust so fast? (2019)](https://www.reddit.com/r/rust/comments/dxbjq2/what_makes_rust_so_fast/)
 - [Rust Playground for macOS](https://github.com/cmyr/RustPlayground) - Standalone native mac application that allows quickly editing and testing rust snippets.
 - [Command line apps in Rust](https://rust-lang-nursery.github.io/cli-wg/) ([HN](https://news.ycombinator.com/item?id=21611379))
+- [Polonius (the future Rust borrow checker) talk at Rust-Belt-Rust 2019 - Nicholas Matsakis](https://nikomatsakis.github.io/rust-belt-rust-2019/) ([Reddit](https://www.reddit.com/r/rust/comments/e0aq6y/polonius_the_future_rust_borrow_checker_talk_at/))
+- [Rust Performance Pitfalls (2017)](https://llogiq.github.io/2017/06/01/perf-pitfalls.html)
+- [This Week in Rust Newsletter](https://this-week-in-rust.org/) ([Code](https://github.com/cmr/this-week-in-rust))
+- [Are we learning yet?](https://www.arewelearningyet.com/) - Work-in-progress to catalog the state of machine learning in Rust.

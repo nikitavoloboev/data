@@ -22,11 +22,6 @@
 - [Ola](https://github.com/franciscop/ola) - Smooth animation library for interpolating numbers.
 - [react-spring](https://github.com/react-spring/react-spring) - Spring physics based React animation library.
 
-## TypeScript
-
-- [ts-mockito](https://github.com/NagRock/ts-mockito) - Mocking library for TypeScript.
-- [class-validator](https://github.com/typestack/class-validator) - Validation made easy using TypeScript decorators.
-
 ## CLI
 
 - [qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts.
@@ -116,3 +111,4 @@
 - [xstate-viz](https://github.com/statecharts/xstate-viz) - Visualize state charts.
 - [htmr](https://github.com/pveyes/htmr) - Simple and lightweight (< 2kB) HTML string to React element conversion library.
 - [react-jsx-parser](https://github.com/TroyAlford/react-jsx-parser) - React component which can parse JSX and output rendered React Components.
+- [Static Land](https://github.com/fantasyland/static-land) - Specification for common algebraic structures in JavaScript based on Fantasy Land.
