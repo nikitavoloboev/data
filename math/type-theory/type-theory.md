@@ -36,3 +36,4 @@
 - [Types and Programming Languages book](https://www.cis.upenn.edu/~bcpierce/tapl/)
 - [Type Theory and Formal Proof book](https://www.goodreads.com/book/show/21442441-type-theory-and-formal-proof)
 - [qtt](https://github.com/LightAndLight/qtt) - Quantitative Type Theory implementation.
+- [Normalization by evaluation for Martin-Löf Type Theory with dependent records](https://github.com/brendanzab/rust-nbe-for-mltt)

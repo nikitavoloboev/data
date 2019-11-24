@@ -16,6 +16,7 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 - [August](2019/2019-august.md) - Gyana. Practicing focus.
 - [September](2019/2019-september.md) - Prague. Gyana. Gatsby is cool.
 - [October](2019/2019-october.md) - Left Gyana.
+- [November](2019/2019-november.md)
 
 ## [2018](2018/2018.md)
 

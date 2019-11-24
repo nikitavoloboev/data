@@ -23,3 +23,4 @@
 - [OCaPIC](http://www.algo-prog.info/ocapic/web/index.php?id=ocapic) - Programming PIC microcontrollers in OCaml.
 - [MetaOCaml -- an OCaml dialect for multi-stage programming](http://okmij.org/ftp/ML/MetaOCaml.html)
 - [OCaml RFCs](https://github.com/ocaml/RFCs)
+- [GoCaml](https://github.com/rhysd/gocaml) - Subset of OCaml in Go based on MinCaml using LLVM.

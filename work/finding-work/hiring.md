@@ -20,3 +20,4 @@
 - [Workable](https://www.workable.com/) - World’s leading hiring platform.
 - [Hiring for Conscientiousness (2019)](https://www.holloway.com/s/trh-hiring-for-conscientiousness)
 - [Lever](https://www.lever.co/) - Recruiting Software Built for Hiring Success.
+- [The Hiring Post (2015)](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
