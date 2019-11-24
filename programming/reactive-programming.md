@@ -9,3 +9,4 @@
 - [CONNECTIVE](https://connective.dev/) - Agent-based reactive programming library for typescript.
 - [Rx Visualizer](https://github.com/moroshko/rxviz) - Animated playground for Rx Observables.
 - [Explaining Streams to Rich Harris (2019)](https://johnlindquist.com/explaining-streams-to-rich-harris)
+- [Towards a unified theory of reactive UI (2019)](https://raphlinus.github.io/ui/druid/2019/11/22/reactive-ui.html) ([HN](https://news.ycombinator.com/item?id=21607818))
