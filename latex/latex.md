@@ -22,3 +22,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [arxiv-style](https://github.com/kourgeorge/arxiv-style) - Latex style and template for paper preprints (based on NIPS style).
 - [Image to Latex (2019)](https://www.wandb.com/articles/image-to-latex)
 - [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
+- [The Great, Big List of LATEX Symbols](https://www.rpi.edu/dept/arc/training/latex/LaTeX_symbols.pdf)

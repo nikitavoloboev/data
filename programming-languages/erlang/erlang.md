@@ -28,3 +28,4 @@
 - [erlexec](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 - [Hex](https://hex.pm/) - Package manager for the Erlang ecosystem.
 - [Blog from the Erlang/OTP team](http://blog.erlang.org/)
+- [Erlang Language Server Protocol Implementation](https://github.com/erlang-ls/erlang_ls)

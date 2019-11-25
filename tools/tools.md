@@ -5,6 +5,7 @@ I love software and non software tools that help me in some way. Most tools I us
 ## Other
 
 - [Instantish](https://www.itsinstantish.com/) - Chat-first issue tracker.
+- [Cocoon](https://cocoon.com/) - Dedicated space for the most important people in your life.
 - [Next Please](https://nextplease.io/) - Track features your users request and collaborate on your roadmap.
 - [Diagram generation tool](https://www.diagram.codes/) ([HN](https://news.ycombinator.com/item?id=21615978))
 - [Render](https://render.com/) - Unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.

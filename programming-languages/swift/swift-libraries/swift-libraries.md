@@ -117,6 +117,7 @@
 - [PostgresNio](https://github.com/vapor/postgres-nio) - Non-blocking, event-driven Swift client for PostgreSQL.
 - [Swift Numerics](https://github.com/apple/swift-numerics) - Provides a set of modules that support numerical computing in Swift. ([Article](https://swift.org/blog/numerics/)) ([HN](https://news.ycombinator.com/item?id=21477490))
 - [AtomicKit](https://github.com/macmade/AtomicKit) - Concurrency made simple in Swift.
+- [ConsoleKit](https://github.com/vapor/console-kit) - APIs for creating interactive CLI tools.
 
 ## Links
 

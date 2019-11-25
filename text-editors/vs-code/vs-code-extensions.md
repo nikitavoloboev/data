@@ -247,6 +247,10 @@ Below is a list of extensions I use.
 
 - [Nix Environment Selector](https://github.com/arrterian/nix-env-selector) - Allows you switch environment for Visual Studio Code and extensions based on .nix config files.
 
+## Erlang
+
+- [Erlang](https://github.com/erlang-ls/vscode) - Uses Erlang LSP.
+
 ## Racket
 
 - [Magic Racket](https://marketplace.visualstudio.com/items?itemName=evzen-wybitul.magic-racket) - Top notch syntax highlighting for Racket.

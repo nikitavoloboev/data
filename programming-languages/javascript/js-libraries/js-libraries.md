@@ -112,3 +112,4 @@
 - [htmr](https://github.com/pveyes/htmr) - Simple and lightweight (< 2kB) HTML string to React element conversion library.
 - [react-jsx-parser](https://github.com/TroyAlford/react-jsx-parser) - React component which can parse JSX and output rendered React Components.
 - [Static Land](https://github.com/fantasyland/static-land) - Specification for common algebraic structures in JavaScript based on Fantasy Land.
+- [sorted-queue](https://github.com/jviide/sorted-queue) - Sorted queue, based on an array-backed binary heap.
