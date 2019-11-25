@@ -3,6 +3,7 @@
 ## Other
 
 - [Belle](https://github.com/nikgraf/belle/) - Configurable React Components with great UX.
+- [React Table](https://github.com/tannerlinsley/react-table) - Hooks for building fast and extendable tables and datagrids for React. ([HN](https://news.ycombinator.com/item?id=21630459))
 - [Blueprint](https://github.com/palantir/blueprint) - React-based UI toolkit for the web.
 - [Ant Design](http://ant.design/docs/react/introduce) - UI Design Language.
 - [kit](https://github.com/c8r/kit) - Tools for developing, documenting, and testing React component libraries.

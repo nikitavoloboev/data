@@ -22,3 +22,4 @@
 - [Code by Charles Petzold (1999)](https://www.goodreads.com/book/show/44882.Code)
 - [CS/ML notes](https://tlienart.github.io/pub/csml.html)
 - [Computer Science Roadmap (AI Track)](https://github.com/yngz/cs-roadmap#readme)
+- [Computer Science for The Busy Developer](https://learn.codexpanse.com/courses/computer-science-for-the-busy-developer) - High speed overview of fundamental areas and concepts of computer science.

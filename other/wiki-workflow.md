@@ -47,6 +47,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Leon Bambrick](https://til.secretgeek.net/)
 - [Ioannis Kourouklides](https://wiki.kourouklides.com/wiki/Main_Page)
 - [Dmitrii Gerasimov](https://beepb00p.xyz/)
+- [Flavio Copes](https://flaviocopes.com/)
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
 

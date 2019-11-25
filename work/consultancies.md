@@ -7,6 +7,7 @@
 
 ## React
 
+- [Formidable](https://formidable.com/) - JavaScript consultancy built for the modern web.
 - [Component Driven](https://component-driven.io/)
 
 ## Rust
@@ -21,6 +22,10 @@
 
 - [Custom Node.js Module Development](http://cryto.net/~joepie91/custom-module-development.html)
 
+## Design
+
+- [Supercreative](https://supercreative.design/)
+
 ## Other
 
 - [Monadfix](https://monadfix.com/) - Work with Haskell, PureScript, and Agda.
@@ -30,3 +35,4 @@
 ## Links
 
 - [How to Find Consulting Clients (2019)](https://chrisachard.com/how-to-find-consulting-clients) ([HN](https://news.ycombinator.com/item?id=21473265))
+- [SaaS & Subscription Experts](https://baremetrics.com/experts) - Best consultants, agencies, and specialized services to help you grow.

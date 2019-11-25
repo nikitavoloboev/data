@@ -49,3 +49,4 @@
 - [3D Ken Burns Effect](https://github.com/sniklaus/3d-ken-burns) - Implementation of 3D Ken Burns Effect from a Single Image using PyTorch.
 - [Fast LSTMs in PyTorch (2019)](https://lernapparat.de/fast-lstm-pytorch/)
 - [F8 2019: Developing and Scaling AI Experiences at Facebook with PyTorch](https://www.youtube.com/watch?v=O8t9xbAajbY)
+- [Kaolin](https://github.com/NVIDIAGameWorks/kaolin) - PyTorch Library for Accelerating 3D Deep Learning Research.

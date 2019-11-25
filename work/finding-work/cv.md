@@ -58,3 +58,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [iOS Resume Examples](https://www.raywenderlich.com/54029/ios-developer-resume-examples)
 - [NatalieHub](https://github.com/nataliemarleny/nataliemarleny.github.io) - Githubbified Resume using Primer CSS, a d3.js customised heatmap and illustrated with Figma.
 - [Modern LaTeX CV template](https://github.com/fanzeyi/cv)
+- [Resume Review thread](https://dev.to/kaydacode/resume-review-1oei)

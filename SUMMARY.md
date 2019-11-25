@@ -132,6 +132,7 @@
   - [Formal verification](computer-science/formal-verification/formal-verification.md)
     - [TLA+](computer-science/formal-verification/tla.md)
   - [Automata theory](computer-science/automata-theory.md)
+  - [Computer Architecture](computer-science/computer-architecture.md)
 - [Programming](programming/programming.md)
   - [Git](programming/git.md)
   - [Concurrency](programming/concurrency.md)

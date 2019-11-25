@@ -231,6 +231,7 @@
 - [go-reuseport](https://github.com/libp2p/go-reuseport) - Reuse tcp/udp ports in golang.
 - [Genesis](https://github.com/life4/genesis) - Typesafe concurrent generic functions for Go.
 - [redis](https://github.com/pascaldekloe/redis) - Efficient Redis client.
+- [vfsgen](https://github.com/shurcooL/vfsgen) - Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it.
 
 ## Links
 

@@ -43,3 +43,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Mint](https://github.com/mint-lang/mint) - Refreshing programming language for the front-end web.
 - [Various books on web tech](https://flaviocopes.com/page/ebooks-links/)
 - [Lite YouTube Embed](https://github.com/paulirish/lite-youtube-embed) - Provide videos with a supercharged focus on visual performance.
+- [Hands-on with Portals: seamless navigation on the Web (2019)](https://web.dev/hands-on-portals/)

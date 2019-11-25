@@ -7,7 +7,7 @@
 - One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of actions & thoughts.
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document.
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
-- Cut out noise (no analytics, likes..). Maximize impact.
+- Cut out noise (no analytics, likes..). Maximize impact & growth.
 - Learn from mistakes. Reflect. Journal. Move forward.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.

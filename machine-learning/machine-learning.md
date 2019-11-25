@@ -149,3 +149,4 @@
 - [Clipper](https://github.com/ucbrise/clipper) - Prediction serving system that sits between user-facing applications and a wide range of commonly used machine learning models and frameworks.
 - [AI building blocks - from scratch with Python (2018)](https://datadan.io/ai-building-blocks-from-scratch-with-python)
 - [ARUBA: Learning-to-Learn with Less Regret (2019)](https://blog.ml.cmu.edu/2019/11/22/aruba/)
+- [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design)
