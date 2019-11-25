@@ -16,7 +16,7 @@ I also use [N26](https://n26.com/en-gb/) bank in cases where I need Maestro card
 
 I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews and make sure I don't subscribe to any subscriptions that I find bring no value to my life or subscriptions that my budget doesn't allow to continue.
 
-![](https://i.imgur.com/7fGL1T5.jpg)
+![](https://i.imgur.com/JiZtDlh.jpg)
 
 ## Tracking what to buy next
 

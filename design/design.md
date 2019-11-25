@@ -46,3 +46,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Space in Design Systems (2016)](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 - [The power of good design: Dieter Rams’s ideology, engrained within Vitsœ](https://www.vitsoe.com/gb/about/good-design)
 - [Expect change in your design career. Choose growth.](https://www.abstract.com/blog/design-career-growth/)
+- [Open Doodles](https://www.opendoodles.com/) - Free Set of Sketchy Illustrations.
