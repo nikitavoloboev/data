@@ -65,3 +65,4 @@
 - [The Best Swift and iOS conferences in 2020](https://www.hackingwithswift.com/articles/206/the-best-swift-and-ios-conferences-in-2020)
 - [Swift 5.1 cheat sheet & quick reference](https://koenig-media.raywenderlich.com/uploads/2020/12/RW-Swift-5.1-Cheatsheet-1.0.pdf)
 - [Design Patterns implemented in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+- [Modern Networking in Swift 5 with URLSession, Combine and Codable (2019)](https://www.vadimbulavin.com/modern-networking-in-swift-5-with-urlsession-combine-framework-and-codable/)
