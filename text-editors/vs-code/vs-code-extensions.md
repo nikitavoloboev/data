@@ -77,6 +77,7 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [CodeSandbox](https://marketplace.visualstudio.com/items?itemName=yesmeck.codesandbox) - Bring CodeSandbox into your favorite editor.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more.
 - [Control Snippets](https://marketplace.visualstudio.com/items?itemName=svipas.control-snippets) - Disable or enable VS Code's built-in snippets and manually installed snippets from extensions.
 - [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - Synchronize all of your VSCode settings across multiple devices.

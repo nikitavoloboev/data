@@ -3,9 +3,9 @@
 ## Life
 
 - Set [goals](../focusing/focusing.md). [Plan events](../macOS/apps/fantastical.md). Focus.
-- No wasted time. Build [ideas](../ideas/ideas.md). One task at a time. Think.
-- Learn. Experiment. Take risks. [Ask questions](../research/asking-questions.md). Document.
-- [Share](../sharing/sharing.md). [Write](../writing/writing.md). Be honest, clear & concise.
+- [Make](../ideas/ideas.md). [Learn](../sharing/everything-I-know.md). [Write](../sharing/my-articles.md). [Share](../sharing/sharing.md).
+- One task at a time. No distractions. No time wasted.
+- [Ask questions](../research/asking-questions.md). Document. Be honest, clear & concise.
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
 - Cut out noise (no analytics, likes..). Maximize impact.
 - Learn from mistakes. Reflect. Journal. Move forward.
