@@ -40,3 +40,4 @@
 - [Hypothetical Indexes in PostgreSQL (2019)](https://www.percona.com/blog/2019/06/21/hypothetical-indexes-in-postgresql/)
 - [System design hack: Postgres is a great pub/sub & job server (2019)](https://layerci.com/blog/postgres-is-the-answer/) ([HN](https://news.ycombinator.com/item?id=21484215))
 - [Turning PostgreSQL into a queue serving 10,000 jobs per second](https://gist.github.com/chanks/7585810) ([HN](https://news.ycombinator.com/item?id=21536698))
+- [PGLoader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command. ([HN](https://news.ycombinator.com/item?id=21628094))

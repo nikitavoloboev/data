@@ -56,6 +56,8 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Ecats](https://github.com/mbernat/ecats) - Editor for category theory.
 - [Lambda World 2019 - A categorical view of computational effects - Emily Riehl](https://www.youtube.com/watch?v=Ssx2_JKpB3U)
 - [Theoretical Computer Science for the Working Category Theorist](http://www.sci.brooklyn.cuny.edu/~noson/TCStext.html)
+- [Notes on Applied Category Theory (2018)](https://www.math3ma.com/blog/notes-on-act)
+- [Applied Category Theory MIT lectures (2019)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
 
 ## Images
 

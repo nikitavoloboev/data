@@ -49,3 +49,4 @@
 - [WebAssembly proposals](https://github.com/WebAssembly/proposals)
 - [Bytecode Alliance](https://bytecodealliance.org/) - Open source community dedicated to creating secure new software foundations, building on standards such as WebAssembly and WebAssembly System Interface (WASI).
 - [How to create polyglot HTML/JS/WebAssembly module](https://webassembly-security.com/polyglot-webassembly-module-html-js-wasm/)
+- [Patrick Hamann | WebAssembly – To the browser and beyond (2019)](https://www.youtube.com/watch?v=Z6ZhIA8i_8g) ([Slides](https://noti.st/patrickhamann/uEw4zt/webassembly-to-the-browser-and-beyond))
