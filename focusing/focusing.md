@@ -49,7 +49,7 @@ At the end of the 80 min focus session, [Timing](../macOS/apps/timing.md) shows 
 
 > Focus script ran on break/focus-end will switch to Timing and activate next block of time so I can annotate what I did
 
-![](https://i.imgur.com/1i3NxXK.png)
+![](https://i.imgur.com/IgpjWb8.png)
 
 > Projects in Timing track activities I did. I add rules to each activity so Timing intelligently matches blocks of time to activities
 
