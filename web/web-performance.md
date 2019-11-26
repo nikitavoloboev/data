@@ -11,3 +11,4 @@
 - [Performance metrics for blazingly fast web apps (2019)](https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps-ec12efa26bcb)
 - [webhint](https://github.com/webhintio/hint) - Hinting engine for the web.
 - [Latency](https://latency.apex.sh/) - Global latency testing tool.
+- [Ilya Grigorik | performance.now().reject(reasons) (2019)](https://www.youtube.com/watch?v=vtIfVPtN6io)
