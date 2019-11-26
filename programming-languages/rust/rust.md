@@ -111,4 +111,4 @@
 - [Rust Performance Pitfalls (2017)](https://llogiq.github.io/2017/06/01/perf-pitfalls.html)
 - [This Week in Rust Newsletter](https://this-week-in-rust.org/) ([Code](https://github.com/cmr/this-week-in-rust))
 - [Are we learning yet?](https://www.arewelearningyet.com/) - Work-in-progress to catalog the state of machine learning in Rust.
-- [Neat Rust Tricks: Passing Rust Closures to C (2019)](https://blog.seantheprogrammer.com/neat-rust-tricks-passing-rust-closures-to-c)
+- [Neat Rust Tricks: Passing Rust Closures to C (2019)](https://blog.seantheprogrammer.com/neat-rust-tricks-passing-rust-closures-to-c) ([HN](https://news.ycombinator.com/item?id=21631946))

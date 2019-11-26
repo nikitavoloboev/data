@@ -150,3 +150,4 @@
 - [AI building blocks - from scratch with Python (2018)](https://datadan.io/ai-building-blocks-from-scratch-with-python)
 - [ARUBA: Learning-to-Learn with Less Regret (2019)](https://blog.ml.cmu.edu/2019/11/22/aruba/)
 - [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design)
+- [Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
