@@ -51,3 +51,4 @@
 - [spacy-transformers](https://github.com/explosion/spacy-transformers) - spaCy pipelines for pre-trained BERT, XLNet and GPT-2.
 - [AllenNLP](https://github.com/allenai/allennlp) - Open-source NLP research library, built on PyTorch.
 - [GloVe](https://github.com/stanfordnlp/GloVe) - Global Vectors for Word Representation.
+- [Botpress](https://github.com/botpress/botpress) - Open-source Virtual Assistant platform.
