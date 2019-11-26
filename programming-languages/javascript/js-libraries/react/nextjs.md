@@ -13,3 +13,4 @@
 - [Universal Next.js Route](https://github.com/brajevicm/next-universal-route)
 - [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme)
 - [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/)
+- [Static Generation / SSG Improvements](https://github.com/zeit/next.js/issues/9524)

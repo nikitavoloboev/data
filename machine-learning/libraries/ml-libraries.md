@@ -28,3 +28,4 @@
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Python module for machine learning built on top of SciPy.
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - Powerful Automated Machine Learning python library.
 - [Mlxtend (machine learning extensions)](https://github.com/rasbt/mlxtend) - Python library of useful tools for the day-to-day data science tasks.
+- [Spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow.

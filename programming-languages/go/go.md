@@ -131,3 +131,4 @@ Go promotes composition over inheritance.
 - [Google OAuth Go Sample Project - Web application](https://github.com/Skarlso/google-oauth-go-sample)
 - [Go’s features of last resort (2019)](https://www.arp242.net/go-last-resort.html) ([Lobsters](https://lobste.rs/s/bq4nxd/go_s_features_last_resort)) ([HN](https://news.ycombinator.com/item?id=21603483))
 - [Minigo](https://github.com/DQNEO/minigo) - Small Go compiler made from scratch. It can compile itself. The goal is to be the most easy-to-understand Go compiler.
+- [Writing An Interpreter In Go](https://interpreterbook.com/) ([HN](https://news.ycombinator.com/item?id=21626972))
