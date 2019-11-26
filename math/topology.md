@@ -5,3 +5,4 @@
 - [Elementary applied topology](https://www.math.upenn.edu/~ghrist/notes.html) - Covers the mathematics behind the exciting new field of applied topology. ([HN](https://news.ycombinator.com/item?id=19494562))
 - [Coq library that develops some of the basic concepts and results of general topology](https://github.com/coq-community/topology)
 - [Homology](https://www.tungsteno.io/post/exp-homology/)
+- [Physics, Topology, Logic and Computation: A Rosetta Stone (2009)](http://math.ucr.edu/home/baez/rosetta.pdf)

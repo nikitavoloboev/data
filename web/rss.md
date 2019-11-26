@@ -1,5 +1,11 @@
 # [RSS](https://en.wikipedia.org/wiki/RSS)
 
+## Notes
+
+- Can subscribe to Pinboard via RSS.
+  - i.e. for user https://pinboard.in/u:jasdev/ it would be http://feeds.pinboard.in/rss/u:jasdev/
+  - More options: http://feeds.pinboard.in/rss/u:username/ | http://feeds.pinboard.in/rss/t:tag/ | http://feeds.pinboard.in/rss/recent/ | http://feeds.pinboard.in/rss/popular/
+
 ## Links
 
 - [Reeder](http://reederapp.com/) - macOS/iOS RSS Reeder with support for many providers.

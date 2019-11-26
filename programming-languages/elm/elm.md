@@ -23,3 +23,4 @@
 - [Elm Cheat Sheet](https://github.com/izdi/elm-cheat-sheet#readme)
 - [Elm Home Page source code](https://github.com/elm/elm-lang.org)
 - [The Biggest Problem with Elm (2019)](https://medium.com/@cscalfani/the-biggest-problem-with-elm-4faecaa58b77)
+- [A Farewell to FRP. Making signals unnecessary with The Elm Architecture (2016)](https://elm-lang.org/news/farewell-to-frp)
