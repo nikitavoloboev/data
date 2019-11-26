@@ -37,3 +37,4 @@ Might give it a go sometime.
 - [Lobsters: Whats your emacs setup like? (2019)](https://lobste.rs/s/754vk6/whats_your_emacs_setup_like)
 - [EmacsConf 2019 videos](https://lists.gnu.org/archive/html/emacsconf-discuss/2019-11/msg00002.html)
 - [Consistent Technical Documents Using Emacs and Org Mode (2019)](https://www.youtube.com/watch?v=0g9BcZvQbXU)
+- [Emacs: The Editor for the Next Forty Years](https://media.emacsconf.org/2019/26.html) ([HN](https://news.ycombinator.com/item?id=21638197))
