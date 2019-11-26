@@ -95,3 +95,4 @@
 - [Pika](https://www.pika.dev/registry) - New kind of package registry for the modern web.
 - [Brian Holt: Futurist Code Bases: Integrating JS of the Future Today (2019)](https://www.youtube.com/watch?v=lQOWTXanWwU)
 - [JS TLDR](https://js-tldr.info/) - Zen mode web-documentation. ([Code](https://github.com/RusinovAnton/js-tldr)) ([Article](https://medium.com/@rusinovantondev/js-tl-dr-zen-mode-web-docs-for-javascript-developers-cf45e0143a09))
+- [Currying Functions in ES6 (2016)](https://sunjay.dev/2016/08/13/es6-currying)

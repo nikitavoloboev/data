@@ -94,6 +94,7 @@
 - [Equity Compensation Guide](https://www.holloway.com/g/equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference. ([HN](https://news.ycombinator.com/item?id=10880726))
 - [Kevin Systrom and Mike Krieger – How to Build a Great Product (2019)](https://overcast.fm/+Lzu3n3SHk)
 - [What skills do founders find most crucial for running their businesses? (2019)](https://www.indiehackers.com/post/what-skills-do-founders-find-most-crucial-for-running-their-businesses-e95d99d9ff)
+- [Our Startup Handbook](https://versionone.vc/startup-handbook/) ([HN](https://news.ycombinator.com/item?id=21641114))
 
 ## Images
 
