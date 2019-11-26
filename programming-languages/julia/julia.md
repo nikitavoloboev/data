@@ -18,3 +18,4 @@
 - [Simon Danisch - Julia - A Compiler for the Future (2019)](https://www.youtube.com/watch?v=DCs0_T9BRp0)
 - [JuliaCon 2018 | Engineering Julia for Speed | Lionel Zoubritzky](https://www.youtube.com/watch?v=XWIZ_dCO6X8)
 - [JuliaCon 2019 | Cleaning Messy Data with Julia and Gen | Alex Lew](https://www.youtube.com/watch?v=vUxrtqY84AM)
+- [HN: Julia v1.3](https://news.ycombinator.com/item?id=21636661)
