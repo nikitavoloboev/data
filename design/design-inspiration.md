@@ -39,6 +39,7 @@ Here are few more things I liked, design wise.
 - [Brandur](https://brandur.org) - Amazingly clean website with an even more [awesome blog](https://brandur.org/interfaces#themware). The TOC and the persistent options on the left are incredible. ([Open Source](https://github.com/brandur/sorg))
 - [Mackenzie Child](https://www.mackenziechild.me/)
 - [Jon Gjengset](https://thesquareplanet.com/)
+- [Robert Squires](https://robertsquires.co.uk/)
 - [Kabir Shah](https://kabir.sh/)
 - [Moe Amaya](https://moeamaya.com/)
 - [Sergio Xalambrí](https://sergiodxa.com/) ([OSS](https://github.com/sergiodxa/personal-site))

@@ -93,3 +93,4 @@
 - [Reatom](https://github.com/artalar/reatom) - Declarative and reactive state manager, designed for both simple and complex applications.
 - [Tried & True Tips from 25 React Experts to Make You More Productive (2019)](https://www.telerik.com/kendo-react-ui/react-best-practices-and-productivity-tips/)
 - [Build your own React (2019)](https://pomb.us/build-your-own-react/) ([HN](https://news.ycombinator.com/item?id=21536789))
+- [What is the most impressive React-based site you've seen? (2019)](https://www.reddit.com/r/reactjs/comments/e1ac7p/what_is_the_most_impressive_reactbased_site_youve/)
