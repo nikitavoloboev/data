@@ -113,3 +113,4 @@
 - [react-jsx-parser](https://github.com/TroyAlford/react-jsx-parser) - React component which can parse JSX and output rendered React Components.
 - [Static Land](https://github.com/fantasyland/static-land) - Specification for common algebraic structures in JavaScript based on Fantasy Land.
 - [sorted-queue](https://github.com/jviide/sorted-queue) - Sorted queue, based on an array-backed binary heap.
+- [polendina](https://github.com/rvagg/polendina) - Non-UI browser testing for JavaScript libraries from the command-line.
