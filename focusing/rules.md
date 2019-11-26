@@ -27,7 +27,7 @@
 - Drink lots of water & tea. Limit coffee. No sugar.
 - Make sure to reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
 - Always have straight posture. Sit properly and upright, don't bend my back/spine.
-- Brush teeth & [clean face](../health/skin-care.md) every morning & evening.
+- Brush teeth, [clean face](../health/skin-care.md) & shower every morning & evening.
 - [Sleep](../sleep/sleep.md) fully. Don't limit sleep, ever. If need to wake up early, go to sleep early. Sleep ~8 hours each day.
 - Everything in moderation. Avoid any damaging drugs (i.e. alcohol/opiates). Health above all. Limit [psychedelic](../drugs/psychedelics/psychedelics.md) use.
 - Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. Clean up.

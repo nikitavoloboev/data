@@ -77,3 +77,4 @@
 - [NixCon 2019 - Main Track](https://www.youtube.com/watch?v=aUG9aGYYCY8)
 - [Nix flakes (2019)](https://www.youtube.com/watch?v=UeBX7Ide5a0)
 - [Nix: How and Why it Works (2019)](https://www.youtube.com/watch?v=lxtHH838yko)
+- [Nix recipes for Haskellers](https://www.srid.ca/haskell-nix.html)

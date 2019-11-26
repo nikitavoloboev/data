@@ -269,6 +269,7 @@
     - [GitHub actions](open-source/github/github-actions.md)
     - [GitHub bots](open-source/github/github-bots.md)
   - [GSOC](open-source/gsoc.md)
+  - [Funding](open-source/funding.md)
 - [Languages](languages/languages.md)
   - [English](languages/english/english.md)
   - [Russian](languages/russian.md)
