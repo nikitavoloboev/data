@@ -1,6 +1,6 @@
 # Design inspiration
 
-I follow a [few designers on Dribble](https://dribbble.com/nikitavoloboev/following) whose work I like.
+I follow a [few designers on Dribble](https://dribbble.com/nikitavoloboev/following) whose work I like. I also keep a [list of artists & art I liked](../art/art.md).
 
 Here are few more things I liked, design wise.
 
@@ -15,12 +15,6 @@ Here are few more things I liked, design wise.
 - [NSHipster](https://nshipster.com/) - Simple & clean blog.
 - [We Learn Code](https://welearncode.com/)
 - [Day of the dead](https://dayofthedead.holiday/)
-
-## Designers
-
-- [Marc Edwards](https://dribbble.com/bjango) - Developer of iStats Menu for mac.
-- [Malik Thomas](http://malikthomas.co.uk/)
-- [Alexander Käßner](http://www.alexkaessner.de/) - Amazing logos.
 
 ## Blogs
 

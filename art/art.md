@@ -30,10 +30,14 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Victor Vasarely](https://en.m.wikipedia.org/wiki/Victor_Vasarely)
 - [Tomer Hanuka](http://thanuka.com/) - Illustrator and a comics artist.
 - [Tyler Hobbs](https://tylerxhobbs.com/)
+- [Marc Edwards](https://dribbble.com/bjango) - Developer of iStats Menu for mac.
+- [Malik Thomas](http://malikthomas.co.uk/)
+- [Alexander Käßner](http://www.alexkaessner.de/) - Amazing logos.
 
 ## Interesting artists
 
 - [Karolis Strautniekas](https://www.instagram.com/strautniekas/)
+- [Harriet Lee-Merrion](https://www.harrietleemerrion.com/)
 - [Bastien Grivet](https://www.artstation.com/grivetart)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)

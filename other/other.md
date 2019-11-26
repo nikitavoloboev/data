@@ -71,3 +71,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Lobsters: What's your notebook setup like? (2019)](https://lobste.rs/s/rcaj6p/what_s_your_notebook_setup_like)
 - [All time most upvoted posts on HN](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=&sort=byPopularity&type=story)
 - [Curated list for when naming things is done right](https://github.com/gruhn/awesome-naming#readme)
+- [Effortless Customer Support (2019)](https://missiveapp.com/blog/effortless-customer-support)

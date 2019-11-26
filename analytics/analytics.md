@@ -19,3 +19,4 @@ For user facing products, well implemented analytics will let you see how to opt
 - [Kedro](https://github.com/quantumblacklabs/kedro) - Python library for building robust production-ready data and analytics pipelines.
 - [Plausible Insights](https://github.com/plausible-insights/plausible) - Simple, lightweight analytics for your website.
 - [Metabase](https://www.metabase.com/) - Easy, open source way for everyone in your company to ask questions and learn from data. ([OSS](https://github.com/metabase/metabase)) ([Binary deployment](https://github.com/metabase/metabase-deploy))
+- [OmniSci](https://www.omnisci.com/) - Interactively query, visualize, and power data science workflows over billions of records.

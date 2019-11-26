@@ -45,6 +45,7 @@
 - [CockroachDB](https://github.com/cockroachdb/cockroach) - Open source, cloud-native SQL database.
 - [ActorDB](https://github.com/biokoda/actordb) - Distributed SQL database.
 - [ksqlDB](https://ksqldb.io/) - Event streaming database purpose-built for stream processing applications. ([HN](https://news.ycombinator.com/item?id=21589670)) ([Code](https://github.com/confluentinc/ksql))
+- [OmniSciDB](https://github.com/omnisci/omniscidb) - Open source SQL-based, relational, columnar database engine that leverages the full performance and parallelism of modern hardware.
 
 ## Tools
 

@@ -5,6 +5,7 @@ I love software and non software tools that help me in some way. Most tools I us
 ## Other
 
 - [Instantish](https://www.itsinstantish.com/) - Chat-first issue tracker.
+- [Missive](https://missiveapp.com/) - Collaborative email app where you’ll feel right at home.
 - [cargo-crev](https://github.com/crev-dev/cargo-crev) - Cryptographically verifiable code review system for the cargo (Rust) package manager.
 - [Cocoon](https://cocoon.com/) - Dedicated space for the most important people in your life.
 - [Next Please](https://nextplease.io/) - Track features your users request and collaborate on your roadmap.
