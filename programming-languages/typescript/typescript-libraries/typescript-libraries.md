@@ -4,6 +4,7 @@
 
 - [ow](https://github.com/sindresorhus/ow) - Argument type validation.
 - [ts-toolbelt](https://github.com/pirix-gh/ts-toolbelt) - Higher type safety for TypeScript.
+- [morphic-ts](https://github.com/sledorze/morphic-ts) - Adresses the pain of writting and maintaining derived code for business logic.
 - [ts-results](https://github.com/vultix/ts-results) - TypeScript implementation of Rust's Result object.
 - [TSDataStructure](https://github.com/Slashmsu/TSDataStructure) - Collection of data structures(LinkedList, DoubleLinkedList, Stack, Queue, Dictionary and etc...) for TypeScript.
 - [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript.

@@ -65,6 +65,7 @@
 - [Debugging the TypeScript Codebase (2019)](https://blog.andrewbran.ch/debugging-the-type-script-codebase/)
 - [The ultimate explanation of TypeScript generics: functions (2019)](https://codewithstyle.info/TypeScript-generics-demystified/)
 - [TypeScript 3.7 Utility Types Cheat Sheet](https://www.elsewebdevelopment.com/typescript-3-7-utility-types-printable-pdf-cheat-sheet/)
+- [TypeScript Generics for People Who Gave Up on Understanding Generics (2019)](https://ts.chibicode.com/generics)
 
 ## Images
 
