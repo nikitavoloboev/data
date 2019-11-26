@@ -72,3 +72,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Babylon iOS Playbook](https://github.com/Babylonpartners/ios-playbook#readme)
 - [Open-source jailbreaking tool for many iOS devices](https://github.com/axi0mX/ipwndfu)
 - [Texture](https://github.com/TextureGroup/Texture) - Smooth asynchronous user interfaces for iOS apps.
+- [iOS Goodies weekly newsletter](https://ios-goodies.com/) ([Source](https://github.com/iOS-Goodies/iOS-Goodies))

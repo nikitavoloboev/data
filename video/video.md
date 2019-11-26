@@ -21,3 +21,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [H.264 is Magic (2016)](https://sidbala.com/h-264-is-magic/) ([HN](https://news.ycombinator.com/item?id=19997813))
 - [Handy tip for trimming demo videos](https://gist.github.com/bvaughn/0da332982b650e188971b7955173a559)
 - [Gentle introduction to video technology, although it's aimed at software developers / engineers](https://github.com/leandromoreira/digital_video_introduction#readme) ([HN](https://news.ycombinator.com/item?id=21593158))
+- [How To Make A \$300 Camera Look Pro (2019)](https://www.youtube.com/watch?v=0wqUWYx3UrY)

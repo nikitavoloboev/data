@@ -4,6 +4,7 @@ I love software and non software tools that help me in some way. Most tools I us
 
 ## Other
 
+- [Loom](https://www.loom.com/) - Most effective way to get your message across, no matter where you work.
 - [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))
 - [Polar Bookshelf](https://getpolarized.io/) - Personal knowledge repository for PDF and web content supporting incremental reading and document annotation. ([Code](https://github.com/burtonator/polar-bookshelf))
 - [Instantish](https://www.itsinstantish.com/) - Chat-first issue tracker.
@@ -29,6 +30,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [livegrep](https://github.com/livegrep/livegrep) - Tool, partially inspired by Google Code Search, for interactive regex search of ~gigabyte-scale source repositories.
 - [webhook](https://github.com/adnanh/webhook) - Lightweight incoming webhook server to run shell commands.
 - [Remove Image Background](https://www.remove.bg/)
+- [PerfectXL](https://www.perfectxl.com/) - Excel Risk Eliminator.
 - [Canny](https://canny.io) - Track feedback to build better products.
 - [EditorConfig](https://editorconfig.org/) - Helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
 - [Apprise](https://github.com/caronc/apprise) - Push Notifications that work with just about every platform.
