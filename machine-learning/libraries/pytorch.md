@@ -52,3 +52,4 @@
 - [Kaolin](https://github.com/NVIDIAGameWorks/kaolin) - PyTorch Library for Accelerating 3D Deep Learning Research.
 - [SpConv](https://github.com/traveller59/spconv) - PyTorch Spatially Sparse Convolution Library.
 - [Segmentation models](https://github.com/qubvel/segmentation_models.pytorch) - Python library with Neural Networks for Image Segmentation based on PyTorch.
+- [LSTM and QRNN Language Model Toolkit](https://github.com/salesforce/awd-lstm-lm)
