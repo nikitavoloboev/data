@@ -152,6 +152,7 @@
 - [r2d2](https://github.com/sfackler/r2d2) - Generic connection pool for Rust.
 - [Rust-PHF](https://github.com/sfackler/rust-phf) - Compile time static maps for Rust.
 - [Signal-hook](https://github.com/vorner/signal-hook) - Rust library allowing to register multiple handlers for the same signal.
+- [partial-io](https://github.com/facebookincubator/rust-partial-io) - Rust library that provides helpers for testing resilience of IO operations.
 
 ## Cargo Plugins
 

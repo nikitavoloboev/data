@@ -37,3 +37,4 @@
 - [react-wonka](https://github.com/kitten/react-wonka) - Several hooks to effectively use Wonka streams with React.
 - [Portals with Context](https://reacttraining.com/blog/portals-with-context/)
 - [Here Are 6 Awesome React Hooks (2019)](https://medium.com/@indreklasn/here-are-6-awesome-react-hooks-2ff0c0b35218)
+- [React Hooks: Compound Components](https://kentcdodds.com/blog/compound-components-with-react-hooks)
