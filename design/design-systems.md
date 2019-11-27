@@ -32,3 +32,4 @@
 - [Design Systems Slack](https://design.systems/slack/)
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems#readme)
 - [Zeroheight](https://zeroheight.com) - Create beautiful living styleguides and document all your design system resources in one place.
+- [Laying the Foundations](https://designsystemfoundations.com/) - Book about design systems.
