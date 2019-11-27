@@ -95,4 +95,3 @@
 - [Build your own React (2019)](https://pomb.us/build-your-own-react/) ([HN](https://news.ycombinator.com/item?id=21536789))
 - [What is the most impressive React-based site you've seen? (2019)](https://www.reddit.com/r/reactjs/comments/e1ac7p/what_is_the_most_impressive_reactbased_site_youve/)
 - [Blocks UI](https://blocks-ui.com/) - JSX-based page builder for creating beautiful websites without writing code. ([Code](https://github.com/blocks/blocks))
-- [Inversion of Control (2019)](https://kentcdodds.com/blog/inversion-of-control)
