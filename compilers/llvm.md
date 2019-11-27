@@ -17,3 +17,5 @@
 - [LLVM Tutor](https://github.com/banach-space/llvm-tutor) - Collection of self-contained reference LLVM passes. It's a tutorial that targets novice and aspiring LLVM developers.
 - [LLVM Discourse](https://llvm.discourse.group/)
 - [LLVM Discord](https://discordapp.com/invite/xS7Z362)
+- [LLVM for Grad Students (2015)](https://www.cs.cornell.edu/~asampson/blog/llvm.html)
+- [Quala](https://github.com/sampsyo/quala) - Type Qualifiers for LLVM/Clang.
