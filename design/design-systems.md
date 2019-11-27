@@ -33,3 +33,4 @@
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems#readme)
 - [Zeroheight](https://zeroheight.com) - Create beautiful living styleguides and document all your design system resources in one place.
 - [Laying the Foundations](https://designsystemfoundations.com/) - Book about design systems.
+- [Designing with React - Mark Dalgleish (2019)](https://www.youtube.com/watch?v=orPcyJMJh7Y)
