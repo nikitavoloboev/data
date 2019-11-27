@@ -7,8 +7,8 @@
 
 ## Web
 
+- [yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly.
 - [actix web](https://github.com/actix/actix-web) - Small, pragmatic, and extremely fast rust web framework
-- [yew](https://github.com/DenisKolodin/yew) - Framework to make client web apps.
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
 - [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 - [Seed](https://github.com/David-OConnor/seed) - Rust framework for creating web apps.
@@ -17,6 +17,7 @@
 - [Gloo](https://github.com/rustwasm/gloo) - Toolkit for building fast, reliable Web applications and libraries with Rust and Wasm.
 - [reqwest](https://github.com/seanmonstar/reqwest) - Easy and powerful Rust HTTP Client.
 - [gotham](https://github.com/gotham-rs/gotham) - Flexible web framework that promotes stability, safety, security and speed.
+- [warp](https://github.com/seanmonstar/warp) - Super-easy, composable, web server framework for warp speeds.
 
 ## ORM
 
@@ -160,6 +161,7 @@
 - [cargo-instruments](https://github.com/cmyr/cargo-instruments) - Cargo plugin to generate Xcode Instruments trace files.
 - [cargo-c](https://github.com/lu-zero/cargo-c) - Cargo C-ABI helpers.
 - [cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - Cargo plugin to help you manage large dependency graphs.
+- [cargo-edit](https://github.com/killercup/cargo-edit) - Utility for managing cargo dependencies from the command line.
 
 ## Links
 
