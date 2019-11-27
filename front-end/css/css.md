@@ -79,3 +79,4 @@
 - [Pure CSS Drawing Essentials](https://diana-adrianne.com/how/) - Top 5 CSS properties I rely on to produce Pure CSS art.
 - [Artem Sapegin: Say Hello to Box, Flex and Stack: Layouts in the Component Era (2019)](https://www.youtube.com/watch?v=zvuKuFgp96o)
 - [CSS Utility Classes and "Separation of Concerns" (2017)](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) ([HN](https://news.ycombinator.com/item?id=21553496))
+- [Роман Дворнов — CSS definition syntax (Russian)](https://www.youtube.com/watch?v=8kjE1n6mQ2s)

@@ -115,3 +115,4 @@
 - [sorted-queue](https://github.com/jviide/sorted-queue) - Sorted queue, based on an array-backed binary heap.
 - [polendina](https://github.com/rvagg/polendina) - Non-UI browser testing for JavaScript libraries from the command-line.
 - [agadoo](https://github.com/Rich-Harris/agadoo) - Check whether a package is tree-shakeable.
+- [Fielder](https://github.com/andyrichardson/fielder) - React form library which adapts to change.

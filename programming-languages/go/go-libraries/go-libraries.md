@@ -233,6 +233,7 @@
 - [redis](https://github.com/pascaldekloe/redis) - Efficient Redis client.
 - [vfsgen](https://github.com/shurcooL/vfsgen) - Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it.
 - [when](https://github.com/olebedev/when) - Natural language date/time parser with pluggable rules.
+- [hashstructure](https://github.com/mitchellh/hashstructure) - Get hash values for arbitrary values in Go.
 
 ## Links
 
