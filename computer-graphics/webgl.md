@@ -6,3 +6,4 @@
 - [Workshop on WebGL and GLSL](https://github.com/mattdesl/workshop-webgl-glsl/)
 - [Love Cube](https://avin.github.io/sketches/086_love_cube.html)
 - [Sketches by Avin Grape](https://avin.github.io/sketches/)
+- [OGL](https://github.com/oframe/ogl) - Minimal WebGL framework.
