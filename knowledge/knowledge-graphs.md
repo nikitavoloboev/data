@@ -9,3 +9,4 @@
 - [GraphSAGE](http://snap.stanford.edu/graphsage/) - Inductive Representation Learning on Large Graphs.
 - [Grakn KGLIB (Knowledge Graph Library)](https://github.com/graknlabs/kglib)
 - [Grakn Example Projects and Tutorials](https://github.com/graknlabs/examples)
+- [Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering (2019)](https://arxiv.org/abs/1911.10470)
