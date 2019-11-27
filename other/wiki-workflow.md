@@ -70,3 +70,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Note-taking strategy 2019](https://cpbotha.net/2019/09/21/note-taking-strategy-2019/)
 - [Smart Sync Workshop: David Perell + Tiago Forte (2019)](https://www.youtube.com/watch?v=lNJ33ImlZzs)
 - [Notion Office Hours: Tiago Forte (2019)](https://www.youtube.com/watch?v=sDNooHDj2Dk)
+- [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - Comprehensive overview of existing tools, strategies and thoughts on interacting with your data. ([HN](https://news.ycombinator.com/item?id=21635012))
