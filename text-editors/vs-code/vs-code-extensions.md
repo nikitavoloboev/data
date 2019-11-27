@@ -118,6 +118,7 @@ Below is a list of extensions I use.
 - [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
 - [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
+- [VS Code Neovim Integration](https://github.com/asvetliakov/vscode-neovim)
 
 ## GraphQL
 
