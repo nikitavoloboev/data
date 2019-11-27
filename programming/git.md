@@ -72,3 +72,4 @@ I love Git and version control. And I use version control over any project I do.
 - [gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust.
 - [Sourcehut's year in alpha (2019)](https://sourcehut.org/blog/2019-11-15-sourcehut-1-year-alpha/) ([HN](https://news.ycombinator.com/item?id=21545145))
 - [Awesome Monorepo](https://github.com/korfuri/awesome-monorepo#readme) - Curated list of awesome Monorepo tools, software and architectures.
+- [rug](https://github.com/samrat/rug) - Stripped-down version of Git, implemented in Rust.

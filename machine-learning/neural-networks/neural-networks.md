@@ -60,3 +60,4 @@
 - [Building a neural net from scratch in Go (2017)](https://datadan.io/neural-net-with-go)
 - [SparseConvNet](https://github.com/btgraham/SparseConvNet) - Spatially-sparse convolutional neural network.
 - [Norse](https://github.com/electronicvisions/norse) - Library to do deep learning with spiking neural networks.
+- [Tensor Programs I: Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes (2019)](https://arxiv.org/abs/1910.12478)
