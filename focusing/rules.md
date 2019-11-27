@@ -8,14 +8,14 @@
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document.
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
 - Cut out noise (no analytics, likes..). No time wasted. Maximize impact & growth.
-- Learn from mistakes. Reflect. [Journal](../looking-back/looking-back.md).
+- Learn from mistakes. Reflect. [Journal](../looking-back/looking-back.md). Move forward. Move fast.
+- Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Never give up.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas.
 - Be consistent. Start early. Done > Perfect. Do the simplest thing. Solve core problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Don't judge anyone. Attempt to see another person's point of view.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Give feedback.
-- Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Move fast. Never give up.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
 - Build, enforce & **follow these rules**. Complete all [essential habits](habits.md).
 - Create & adjust rules based on new insights. [Take it easy](../life/happiness.md). You only live now.
