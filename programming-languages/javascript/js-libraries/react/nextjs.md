@@ -15,3 +15,4 @@
 - [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/)
 - [Static Generation / SSG Improvements](https://github.com/zeit/next.js/issues/9524)
 - [Next.js course](https://nextjscourse.com/oEEGG76l22UE8B77ovWn/)
+- [Next.js website source](https://github.com/zeit/next-site)
