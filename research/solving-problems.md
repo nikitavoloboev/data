@@ -46,3 +46,7 @@ I often remind myself of [how to effectively ask questions](asking-questions.md)
 Sometimes I already know the answer given my past experience without conducting help outside and the only thing left is to apply the solution I have.
 
 In some cases, a problem may be complex enough that it needs time thinking more about it. Researching various possible solutions and things you could use. And playing with possible solutions and ideas in your head until you reach something worthwhile you can spend time implementing. [This talk](https://www.youtube.com/watch?v=f84n5oFoZBc) by Rich Hickey covers this point quite well.
+
+## Links
+
+- [Ask HN: What has made you a better problem solver in software engineering? (2019)](https://news.ycombinator.com/item?id=21659537)
