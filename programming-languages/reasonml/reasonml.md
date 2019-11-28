@@ -33,3 +33,4 @@
 - [How to write a library for BuckleScript and Native (2019)](https://tech.ahrefs.com/how-to-write-a-library-for-bucklescript-and-native-22f45e5e946d)
 - [Nit](https://nit.sketch.sh/) - Better ReasonML playground.
 - [ReasonML Forum](https://reasonml.chat/)
+- [Notes and samples for understanding the basics of ReasonML](https://github.com/parkerziegler/reason-basics)
