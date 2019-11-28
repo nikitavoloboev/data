@@ -48,3 +48,4 @@
 - [CppCon 2019: Andrei Alexandrescu “Speed Is Found In The Minds of People"](https://www.youtube.com/watch?v=FJJTYQYB1JQ)
 - [All Algorithms implemented in C++](https://github.com/TheAlgorithms/C-Plus-Plus)
 - [Introduction to C++ for Swift Developers (2019)](https://pspdfkit.com/blog/2019/intro-cpp-swift-developers/?utm_source=twitter&utm_medium=social&utm_medium=blog&utm_medium=cpp)
+- [rr](https://rr-project.org/) - C/C++ debugging tool for Linux, replacing — well, enhancing — gdb. ([Code](https://github.com/mozilla/rr))

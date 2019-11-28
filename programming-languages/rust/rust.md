@@ -112,3 +112,4 @@
 - [This Week in Rust Newsletter](https://this-week-in-rust.org/) ([Code](https://github.com/cmr/this-week-in-rust))
 - [Are we learning yet?](https://www.arewelearningyet.com/) - Work-in-progress to catalog the state of machine learning in Rust.
 - [Neat Rust Tricks: Passing Rust Closures to C (2019)](https://blog.seantheprogrammer.com/neat-rust-tricks-passing-rust-closures-to-c) ([HN](https://news.ycombinator.com/item?id=21631946))
+- [now-rust](https://github.com/mike-engel/now-rust) - Community based builder for using rust on the now/zeit platform.
