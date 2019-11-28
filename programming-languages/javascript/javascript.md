@@ -99,3 +99,5 @@
 - [Manipulating AST with JavaScript (2019)](https://lihautan.com/manipulating-ast-with-javascript/)
 - [Is JavaScript Statically or Dynamically Scoped? (2018)](https://www.cs.cornell.edu/~asampson/blog/scope.html)
 - [Fixed-point combinators in JavaScript: Memoizing recursive functions](http://matt.might.net/articles/implementation-of-recursive-fixed-point-y-combinator-in-javascript-for-memoization/)
+- [runpkg](https://github.com/FormidableLabs/runpkg) - Lets you navigate any JavaScript package on npm thanks to unpkg.com.
+- [What is this in JavaScript?](https://www.madebymike.com.au/writing/this-in-javascript/)

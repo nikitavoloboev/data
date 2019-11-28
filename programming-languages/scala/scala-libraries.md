@@ -18,3 +18,4 @@
 - [Scalaz](https://github.com/scalaz/scalaz) - Principled Functional Programming in Scala.
 - [ZIO](https://github.com/zio/zio) - Type-safe, composable library for asynchronous and concurrent programming in Scala.
 - [Matryoshka](https://github.com/slamdata/matryoshka) - Generalized recursion schemes and traversals for Scala.
+- [Scrimage](https://github.com/sksamuel/scrimage) - Scala image processing library.
