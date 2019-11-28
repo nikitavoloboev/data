@@ -17,6 +17,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [OneLife](https://github.com/jasonrohrer/OneLife) - Multiplayer survival game of parenting and civilization building.
 - [OpenMW](https://github.com/OpenMW/openmw) - Open-source open-world RPG game engine that supports playing Morrowind.
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - Open source re-implementation of Diablo 2.
+- [Pioneer](https://github.com/pioneerspacesim/pioneer) - Game of lonely space adventure.
 
 ## Recommendations
 
