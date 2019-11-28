@@ -19,3 +19,4 @@
 - [LLVM Discord](https://discordapp.com/invite/xS7Z362)
 - [LLVM for Grad Students (2015)](https://www.cs.cornell.edu/~asampson/blog/llvm.html)
 - [Quala](https://github.com/sampsyo/quala) - Type Qualifiers for LLVM/Clang.
+- [haybale](https://github.com/PLSysSec/haybale) - Symbolic execution of LLVM IR, written in Rust.
