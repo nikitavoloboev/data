@@ -234,6 +234,8 @@
 - [vfsgen](https://github.com/shurcooL/vfsgen) - Takes an input http.FileSystem (likely at go generate time) and generates Go code that statically implements it.
 - [when](https://github.com/olebedev/when) - Natural language date/time parser with pluggable rules.
 - [hashstructure](https://github.com/mitchellh/hashstructure) - Get hash values for arbitrary values in Go.
+- [Suture](https://github.com/thejerf/suture) - Provides Erlang-ish supervisor trees for Go.
+- [Reign](https://github.com/thejerf/reign) - Rewrite Erlang In Go Nicely - a library for mimicking Erlang's mailboxes and clustering.
 
 ## Links
 
