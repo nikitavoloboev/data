@@ -81,3 +81,4 @@
 - [CSS Utility Classes and "Separation of Concerns" (2017)](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/) ([HN](https://news.ycombinator.com/item?id=21553496))
 - [Роман Дворнов — CSS definition syntax (Russian)](https://www.youtube.com/watch?v=8kjE1n6mQ2s)
 - [The Power (and Fun) of Scope with CSS Custom Properties (2019)](https://css-tricks.com/the-power-and-fun-of-scope-with-css-custom-properties/)
+- [CSS Architecture for Modern JavaScript Applications (2019)](https://www.madebymike.com.au/writing/css-architecture-for-modern-web-applications/?utm_source=CSS-Weekly&utm_campaign=Issue-388&utm_medium=email)

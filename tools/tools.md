@@ -5,6 +5,7 @@ I love software and non software tools that help me in some way. Most tools I us
 ## Other
 
 - [Loom](https://www.loom.com/) - Most effective way to get your message across, no matter where you work.
+- [Flowkit](https://useflowkit.com/) - User flows right inside your favorite design tool.
 - [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))
 - [Polar Bookshelf](https://getpolarized.io/) - Personal knowledge repository for PDF and web content supporting incremental reading and document annotation. ([Code](https://github.com/burtonator/polar-bookshelf))
 - [Instantish](https://www.itsinstantish.com/) - Chat-first issue tracker.
