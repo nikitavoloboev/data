@@ -51,3 +51,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Scale By The Bay 2019: Norman Maurer, Netty 5: Lessons Learned](https://www.youtube.com/watch?v=hvYqSz_BgUM&list=PLNESult6cnOlb1BAO4o2T3DdNbMnCpTjp&index=24&t=0s)
 - [Neebula](https://github.com/slackhq/nebula) - Scalable overlay networking tool with a focus on performance, simplicity and security. It lets you seamlessly connect computers anywhere in the world.
 - [gost](https://github.com/ginuerzh/gost) - Simple tunnel written in golang.
+- [Braid](https://braid.news/) - Effort to incorporate new distributed technologies into the existing World-Wide Web.

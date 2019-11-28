@@ -52,3 +52,4 @@
 - [AllenNLP](https://github.com/allenai/allennlp) - Open-source NLP research library, built on PyTorch.
 - [GloVe](https://github.com/stanfordnlp/GloVe) - Global Vectors for Word Representation.
 - [Botpress](https://github.com/botpress/botpress) - Open-source Virtual Assistant platform.
+- [Mycroft](https://github.com/MycroftAI/mycroft-core) - Hackable open source voice assistant.

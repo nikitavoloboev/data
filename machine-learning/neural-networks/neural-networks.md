@@ -62,3 +62,4 @@
 - [Norse](https://github.com/electronicvisions/norse) - Library to do deep learning with spiking neural networks.
 - [Tensor Programs I: Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes (2019)](https://arxiv.org/abs/1910.12478)
 - [Single Headed Attention RNN: Stop Thinking With Your Head (2019)](https://arxiv.org/abs/1911.11423) ([HN](https://news.ycombinator.com/item?id=21647804))
+- [Visualizing the Loss Landscape of Neural Nets](https://github.com/tomgoldstein/loss-landscape)
