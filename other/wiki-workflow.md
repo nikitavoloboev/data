@@ -71,3 +71,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Smart Sync Workshop: David Perell + Tiago Forte (2019)](https://www.youtube.com/watch?v=lNJ33ImlZzs)
 - [Notion Office Hours: Tiago Forte (2019)](https://www.youtube.com/watch?v=sDNooHDj2Dk)
 - [How to annotate literally everything](https://beepb00p.xyz/annotating.html) - Comprehensive overview of existing tools, strategies and thoughts on interacting with your data. ([HN](https://news.ycombinator.com/item?id=21635012))
+- [Digital Tools I Wish Existed (2019)](https://jborichevskiy.com/posts/digital-tools/) ([HN](https://news.ycombinator.com/item?id=21659876))

@@ -152,3 +152,4 @@
 - [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design)
 - [Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
 - [Lessons learned building an ML trading system that turned $5k into $200k (2019)](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/) ([HN](https://news.ycombinator.com/item?id=21647038))
+- [Deep Learning for Programmers](https://aiprobook.com/deep-learning-for-programmers/)
