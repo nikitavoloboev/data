@@ -101,3 +101,4 @@
 - [Fixed-point combinators in JavaScript: Memoizing recursive functions](http://matt.might.net/articles/implementation-of-recursive-fixed-point-y-combinator-in-javascript-for-memoization/)
 - [runpkg](https://github.com/FormidableLabs/runpkg) - Lets you navigate any JavaScript package on npm thanks to unpkg.com.
 - [What is this in JavaScript?](https://www.madebymike.com.au/writing/this-in-javascript/)
+- [Beginner JavaScript course](https://beginnerjavascript.com/)

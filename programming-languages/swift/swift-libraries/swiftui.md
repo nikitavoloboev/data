@@ -24,3 +24,4 @@
 - [You have to change mindset to use SwiftUI (2019)](https://swiftwithmajid.com/2019/11/19/you-have-to-change-mindset-to-use-swiftui/)
 - [Recipes app written in SwiftUI using Single State Container](https://github.com/mecid/swiftui-recipes-app)
 - [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - Waterfall grid layout view for SwiftUI.
+- [SwiftUI NewsReader](https://github.com/basememara/SwiftUI-NewsReader) - Yet another SwiftUI example.

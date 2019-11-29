@@ -30,3 +30,4 @@
 - [In conversation with Nima Arkani-Hamed (2014)](https://www.youtube.com/watch?v=pup3s86oJXU)
 - [A Peek into Einstein's Zurich Notebook](https://www.pitt.edu/%7Ejdnorton/Goodies/Zurich_Notebook/)
 - [David Tong: Lectures on Theoretical Physics](http://www.damtp.cam.ac.uk/user/tong/teaching.html)
+- [Mathematics for Physics](https://sites.uci.edu/inertialobserver/mathematics-for-physics/)
