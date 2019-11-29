@@ -38,7 +38,7 @@ Only on breaks can I visit these websites. I also get 20 minutes of optional bre
 
 The things I work on are defined by events I have set in [Fantastical](../macOS/apps/fantastical.md). The events can be meetings or projects I have set.
 
-If no event is set, by default it means going through [2Do](../macOS/apps/2do.md) and working through most prioritized tasks for `Today` or `Starred`.
+If no event is set, by default it means I go through [2Do](../macOS/apps/2do.md) and work on most prioritized tasks for `Today` or `Starred`.
 
 Other events include:
 
