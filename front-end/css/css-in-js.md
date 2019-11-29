@@ -10,3 +10,4 @@
 - [Building the New Facebook with React and Relay | Frank Yan (2019)](https://www.youtube.com/watch?v=9JZHodNR184&list=PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh&index=3)
 - [Goober](https://github.com/cristianbote/goober) - Less than 1KB css-in-js solution.
 - [styled-jsx](https://github.com/zeit/styled-jsx) - Full CSS support for JSX without compromises.
+- [CSS-Zero](https://github.com/CraigCav/css-zero) - Zero-runtime CSS-in-JS.

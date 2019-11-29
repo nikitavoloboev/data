@@ -53,3 +53,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [What’s happening in Open Source. Every day.](https://github.com/mikeal/daily)
 - [Open Source, SaaS and Monetization (2019)](http://lucumr.pocoo.org/2019/11/4/open-source-and-saas/)
 - [CMTY](https://cmty.app/) - Community platform for open source projects.
+- [Awesome OSS Funding](https://github.com/sustainers/awesome-oss-funding#readme)
