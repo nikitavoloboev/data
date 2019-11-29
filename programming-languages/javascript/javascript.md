@@ -102,3 +102,4 @@
 - [runpkg](https://github.com/FormidableLabs/runpkg) - Lets you navigate any JavaScript package on npm thanks to unpkg.com.
 - [What is this in JavaScript?](https://www.madebymike.com.au/writing/this-in-javascript/)
 - [Beginner JavaScript course](https://beginnerjavascript.com/)
+- [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet#readme)

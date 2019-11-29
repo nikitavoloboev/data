@@ -16,3 +16,4 @@
 - [So you want to learn Microservices? (2019)](https://dev.to/kgoralski/deep-dive-into-microservices-architecture-h54) ([HN](https://news.ycombinator.com/item?id=21583072))
 - [SuperGloo](https://github.com/solo-io/supergloo) - Service Mesh Orchestration Platform.
 - [Kapow](https://github.com/BBVA/kapow) - Turn shell scripts into HTTP API endpoints.
+- [Ask HN: How do you deal with atomicity in microservice environments? (2019)](https://news.ycombinator.com/item?id=21656891)

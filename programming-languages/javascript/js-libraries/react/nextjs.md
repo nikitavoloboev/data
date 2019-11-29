@@ -17,3 +17,4 @@
 - [Next.js course](https://nextjscourse.com/oEEGG76l22UE8B77ovWn/)
 - [Next.js website source](https://github.com/zeit/next-site)
 - [Next.js Plugins](https://github.com/zeit/next-plugins)
+- [next-urql](https://github.com/FormidableLabs/next-urql) - Set of convenience utilities for using urql with NextJS.
