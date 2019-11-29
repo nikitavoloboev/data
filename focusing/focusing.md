@@ -36,9 +36,12 @@ I use [Focus app](https://heyfocus.com) as a recurring [Pomodoro timer](https://
 
 Only on breaks can I visit these websites. I also get 20 minutes of optional break time every 3 hours. And I can start 5 min breaks during my Focus sessions with a [macro](../macOS/apps/keyboard-maestro/km-macros.md).
 
-The things I work on are defined by events I have set in [Fantastical](../macOS/apps/fantastical.md). The events can be meetings or projects I have set. Some common events include:
+The things I work on are defined by events I have set in [Fantastical](../macOS/apps/fantastical.md). The events can be meetings or projects I have set.
 
-- 2Do (☑️) - I open [2Do](../macOS/apps/2do.md) and work through the most prioritized tasks for `Today` or `Starred`.
+If no event is set, by default it means going through [2Do](../macOS/apps/2do.md) and working through most prioritized tasks for `Today` or `Starred`.
+
+Other events include:
+
 - Code (💻) - I work through 2Do tasks with `pr` tag or build an idea from [Trello](https://trello.com/b/alB1ryRP).
 - Learn (📖) - I learn a topic from one of the currently active topics on [Trello](https://trello.com/b/cu32qF3q).
 - Write (🖊) - I write and finish any of the [fragments](../fragments/fragments.md) I started.
