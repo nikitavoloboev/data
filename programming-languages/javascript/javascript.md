@@ -103,3 +103,4 @@
 - [What is this in JavaScript?](https://www.madebymike.com.au/writing/this-in-javascript/)
 - [Beginner JavaScript course](https://beginnerjavascript.com/)
 - [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet#readme)
+- [JavaScript Visualized: Event Loop (2019)](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
