@@ -53,3 +53,4 @@
 - [SpConv](https://github.com/traveller59/spconv) - PyTorch Spatially Sparse Convolution Library.
 - [Segmentation models](https://github.com/qubvel/segmentation_models.pytorch) - Python library with Neural Networks for Image Segmentation based on PyTorch.
 - [LSTM and QRNN Language Model Toolkit](https://github.com/salesforce/awd-lstm-lm)
+- [cvxpylayers](https://github.com/cvxgrp/cvxpylayers) - Python library for constructing differentiable convex optimization layers in PyTorch and TensorFlow using CVXPY.

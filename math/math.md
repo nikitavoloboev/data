@@ -95,3 +95,4 @@
 - [Deep learning for symbolic mathematics (2019)](https://openreview.net/pdf?id=S1eZYeHFDS)
 - [Eigenvectors from eigenvalues (2019)](https://terrytao.wordpress.com/2019/08/13/eigenvectors-from-eigenvalues/)
 - [Cantor's Paradise Math Blog](https://medium.com/cantors-paradise)
+- [Better intuition for information theory (2019)](https://www.blackhc.net/blog/2019/better-intuition-for-information-theory/)

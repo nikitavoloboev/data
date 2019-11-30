@@ -6,3 +6,4 @@
 - [Active preparation for calculus](https://opencalculus.wordpress.com/2019/01/02/active-preparation-for-calculus/)
 - [Open Calculus](https://opencalculus.wordpress.com/) - Devoted to free calculus resources for students, free and open source materials for instructors, and active engagement for all.
 - [Calculus made easy by Silvanus P. Thompson](http://calculusmadeeasy.org/)
+- [Calculus Explained with pics and gifs (2014)](https://0a.io/chapter1/calculus-explained.html)

@@ -41,6 +41,7 @@ Here are few more things I liked, design wise.
 - [Sergio Xalambrí](https://sergiodxa.com/) ([OSS](https://github.com/sergiodxa/personal-site))
 - [Tyler Gaw](https://tylergaw.com/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
+- [Andreas Kirsch](https://www.blackhc.net/)
 - [Erin](https://www.erinmcg.com/)
 - [Kohei Asai](https://axross.dev/)
 - [Sasha Greif](http://sachagreif.com/)
