@@ -58,3 +58,4 @@
 - [pyperf](https://github.com/vstinner/pyperf) - Toolkit to run Python benchmarks.
 - [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 - [Flit](https://github.com/takluyver/flit) - Simplified packaging of Python modules.
+- [Python debugger package for use with Visual Studio and Visual Studio Code](https://github.com/microsoft/ptvsd)

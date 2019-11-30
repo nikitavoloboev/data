@@ -84,3 +84,4 @@
 - [CSS Architecture for Modern JavaScript Applications (2019)](https://www.madebymike.com.au/writing/css-architecture-for-modern-web-applications/?utm_source=CSS-Weekly&utm_campaign=Issue-388&utm_medium=email)
 - [Browser Default Styles](https://browserdefaultstyles.com/)
 - [The box model is not layout (2019)](https://kilianvalkhof.com/2019/design/the-box-model-is-not-layout/)
+- [MDN CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
