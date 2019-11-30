@@ -6,7 +6,7 @@ My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/
 
 I use VS Code [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-night#readme) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
 
-![](https://i.imgur.com/hOgSQ7F.png)
+![](https://i.imgur.com/2jPtdRE.png)
 
 ## Notes
 
