@@ -83,3 +83,4 @@
 - [The Power (and Fun) of Scope with CSS Custom Properties (2019)](https://css-tricks.com/the-power-and-fun-of-scope-with-css-custom-properties/)
 - [CSS Architecture for Modern JavaScript Applications (2019)](https://www.madebymike.com.au/writing/css-architecture-for-modern-web-applications/?utm_source=CSS-Weekly&utm_campaign=Issue-388&utm_medium=email)
 - [Browser Default Styles](https://browserdefaultstyles.com/)
+- [The box model is not layout (2019)](https://kilianvalkhof.com/2019/design/the-box-model-is-not-layout/)
