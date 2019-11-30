@@ -23,3 +23,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Some tips/notes about longevity (2019)](https://www.reddit.com/r/longevity/comments/dvoe62/some_questions_about_longevity/)
 - [The Longevity Fund](https://www.longevity.vc/) - Seed and Series A VC with \$37M under management, investing in breakthrough longevity companies.
 - [Celine Halioua's blog on longevity](https://medium.com/@celinehh)
+- [What is the cause of aging in your opinion? (2019)](https://www.reddit.com/r/longevity/comments/e3gh09/what_is_the_cause_of_aging_in_your_opinion/)
