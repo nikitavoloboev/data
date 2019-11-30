@@ -56,6 +56,7 @@
 ## ML
 
 - [gobrain](https://github.com/goml/gobrain) - Neural Networks written in go.
+- [wann](https://github.com/xyproto/wann) - Weight Agnostic Neural Networks in Go.
 
 ## API bindings
 

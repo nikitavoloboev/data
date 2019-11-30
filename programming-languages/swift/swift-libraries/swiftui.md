@@ -25,3 +25,4 @@
 - [Recipes app written in SwiftUI using Single State Container](https://github.com/mecid/swiftui-recipes-app)
 - [WaterfallGrid](https://github.com/paololeonardi/WaterfallGrid) - Waterfall grid layout view for SwiftUI.
 - [SwiftUI NewsReader](https://github.com/basememara/SwiftUI-NewsReader) - Yet another SwiftUI example.
+- [OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - OpenSource implementation of Apple's SwiftUI DSL.

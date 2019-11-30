@@ -74,3 +74,4 @@
 - [Prisma Framework](https://github.com/prisma/prisma2) - Database framework enabling type-safe data access, schema migrations and development workflows.
 - [List of software that turns your database into a REST/GraphQL API](https://github.com/dbohdan/automatic-api)
 - [What Are Databases? (2019)](https://www.prisma.io/blog/introduction-to-databases-jmt9jwidtc2a)
+- [Advanced Database Systems (2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U) ([Other courses](https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA/playlists))
