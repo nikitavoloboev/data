@@ -20,7 +20,7 @@
 - [Adopting Erlang](https://adoptingerlang.org/) - Ongoing effort to gather all the resources that will help you use Erlang in a business.
 - [Lumen](https://github.com/lumen/lumen) - New compiler and runtime for BEAM languages.
 - [Gleam](https://github.com/gleam-lang/gleam) - Statically typed language for the Erlang VM.
-- [Études for Erlang book](http://www.r-5.org/files/books/computers/languages/erlang/erlang/David_Eisenberg-Etudes_for_Erlang-EN.pdf) - Companion exercises for introducing Erlang.
+- [Études for Erlang book](http://www.r-5.org/files/books/computers/languages/erlang/erlang/David_Eisenberg-Etudes_for_Erlang-EN.pdf) - Companion exercises for introducing Erlang. ([Code](https://github.com/oreillymedia/etudes-for-erlang))
 - [Spawned Shelter](http://spawnedshelter.com/) - Collection of the best articles, videos and books for learning Erlang.
 - [Stuff Goes Bad: Erlang in Anger book](https://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war.
 - [AtomVM](https://github.com/bettio/AtomVM) - Tiny Erlang VM.

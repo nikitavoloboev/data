@@ -104,3 +104,5 @@
 - [Beginner JavaScript course](https://beginnerjavascript.com/)
 - [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet#readme)
 - [JavaScript Visualized: Event Loop (2019)](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+- [JavaScript Visualized: Scope (Chain) (2019)](https://dev.to/lydiahallie/javascript-visualized-scope-chain-13pd)
+- [JavaScript Visualized: Hoisting (2019)](https://dev.to/lydiahallie/javascript-visualized-hoisting-478h)
