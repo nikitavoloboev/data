@@ -237,6 +237,8 @@
 - [hashstructure](https://github.com/mitchellh/hashstructure) - Get hash values for arbitrary values in Go.
 - [Suture](https://github.com/thejerf/suture) - Provides Erlang-ish supervisor trees for Go.
 - [Reign](https://github.com/thejerf/reign) - Rewrite Erlang In Go Nicely - a library for mimicking Erlang's mailboxes and clustering.
+- [null](https://github.com/guregu/null) - Reasonable handling of nullable values.
+- [dynamo](https://github.com/guregu/dynamo) - Expressive DynamoDB library for Go.
 
 ## Links
 
