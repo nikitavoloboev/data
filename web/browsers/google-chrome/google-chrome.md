@@ -1,6 +1,8 @@
 # [Google Chrome](https://www.google.com/chrome/)
 
-I use Chrome's dark mode & [Empty New Black Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp?hl=en).
+I use it to develop websites with Dev Tools and [Pesticide](http://pesticide.io) extension.
+
+I use dark mode & [Empty New Black Tab Page](https://chrome.google.com/webstore/detail/empty-new-tab-page-black/fllomkdgoahjlgcblpldnpjcilipjelp?hl=en).
 
 ![](https://i.imgur.com/nsBY2MK.png)
 
