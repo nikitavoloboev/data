@@ -98,9 +98,9 @@
 - [Ask HN: Quitting Big Tech, what is it like? (2019)](https://news.ycombinator.com/item?id=21645117)
 - [Road to Scale](https://roadtoscale.com/) - Curated knowledge library for every stage of your startup journey. From idea to scaling up.
 - [Startups and Uncertainty (2019)](http://reactionwheel.net/2019/11/startups-and-uncertainty.html)
+- [Starter Story](https://www.starterstory.com/) - Learn how people are starting successful businesses.
+- [The 24 Hour Startup Challenge](https://24hrstartup.com/)
 
 ## Images
 
 ![](https://i.imgur.com/KxbRBEn.png)
-
-> [Source](https://www.youtube.com/watch?v=jTM7ZCKEUGM)

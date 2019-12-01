@@ -7,17 +7,24 @@
 
 ## Web
 
-- [yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly.
 - [actix web](https://github.com/actix/actix-web) - Small, pragmatic, and extremely fast rust web framework
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
-- [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
 - [Seed](https://github.com/David-OConnor/seed) - Rust framework for creating web apps.
 - [Tide](https://github.com/rust-net-web/tide) - Modular web framework.
-- [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
 - [Gloo](https://github.com/rustwasm/gloo) - Toolkit for building fast, reliable Web applications and libraries with Rust and Wasm.
 - [reqwest](https://github.com/seanmonstar/reqwest) - Easy and powerful Rust HTTP Client.
 - [gotham](https://github.com/gotham-rs/gotham) - Flexible web framework that promotes stability, safety, security and speed.
 - [warp](https://github.com/seanmonstar/warp) - Super-easy, composable, web server framework for warp speeds.
+
+## WASM
+
+- [Smithy](https://github.com/rbalicki2/smithy) - Framework for building WebAssembly apps in Rust.
+- [Walrus](https://github.com/rustwasm/walrus) - WebAssembly transformation library.
+- [yew](https://github.com/yewstack/yew) - Modern Rust framework inspired by Elm and React for creating multi-threaded frontend apps with WebAssembly.
+- [Percy](https://github.com/chinedufn/percy) - Modular toolkit for building isomorphic web apps with Rust + WebAssembly.
+- [Dodrio](https://github.com/fitzgen/dodrio) - Fast, bump-allocated virtual DOM library for Rust and WebAssembly.
+- [Watt](https://github.com/dtolnay/watt) - Runtime for executing Rust procedural macros compiled as WebAssembly.
+- [Draco](https://github.com/utkarshkukreti/draco) - Rust library to build client side web applications with Web Assembly.
 
 ## ORM
 
@@ -132,10 +139,8 @@
 - [Tauri](https://github.com/tauri-apps/tauri) - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
 - [Plotters](https://github.com/38/plotters) - Rust Drawing Library for Plotting.
 - [rust-GSL](https://github.com/GuillaumeGomez/rust-GSL) - Rust binding for the GSL library (the GNU Scientific Library).
-- [Walrus](https://github.com/rustwasm/walrus) - WebAssembly transformation library.
 - [combine](https://github.com/Marwes/combine) - Parser combinator library for Rust.
 - [Syn](https://github.com/dtolnay/syn) - Parsing library for parsing a stream of Rust tokens into a syntax tree of Rust source code.
-- [Watt](https://github.com/dtolnay/watt) - Runtime for executing Rust procedural macros compiled as WebAssembly.
 - [Emu](https://github.com/calebwin/emu) - Framework/compiler for GPU acceleration of Rust, GPU programming.
 - [Coroutine I/O](https://github.com/zonyitoo/coio-rs) - Coroutine scheduling with work-stealing algorithm.
 - [tempfile](https://github.com/Stebalien/tempfile) - Temporary file library for rust.
