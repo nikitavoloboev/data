@@ -2,7 +2,6 @@
 
 ## Web Dev frameworks
 
-- [Neutrino dev](https://github.com/mozilla-neutrino/neutrino-dev)
 - [Next.js](https://github.com/zeit/next.js/) - Framework for server-rendered or statically-exported React apps.
 - [San](https://github.com/baidu/san) - Flexible JavaScript component framework.
 - [hapi](https://hapijs.com/) - Rich framework for building applications and services.
@@ -10,6 +9,8 @@
 - [Umi](https://github.com/umijs/umi) - Pluggable enterprise-level react application framework.
 - [Vue.js](https://vuejs.org/) - Progressive JavaScript Framework.
 - [Mithril](https://mithril.js.org/) - Modern client-side Javascript framework for building Single Page Applications.
+- [Solid](https://github.com/ryansolid/solid) - Declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [Neutrino dev](https://github.com/mozilla-neutrino/neutrino-dev)
 
 ## Animation
 

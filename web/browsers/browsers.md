@@ -14,3 +14,4 @@
 - [WebKit](https://github.com/WebKit/webkit) - Open source cross-platform web browser engine.
 - [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [Browserless](https://www.browserless.io/) - Fast, scalable, and reliable browser automation built for businesses and developers.
+- [Polypane](https://polypane.app/) - Browser for developers and designers.
