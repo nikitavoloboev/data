@@ -720,3 +720,4 @@
     - [2019 September](looking-back/2019/2019-september.md)
     - [2019 October](looking-back/2019/2019-october.md)
     - [2019 November](looking-back/2019/2019-november.md)
+    - [2019 December](looking-back/2019/2019-december.md)
