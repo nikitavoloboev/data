@@ -23,3 +23,4 @@
 - [RemoteHub](https://remotehub.io/) - Remote Jobs and Companies.
 - [Remote only manifesto](https://remoteonly.org/)
 - [Breather](https://breather.com/) - Modern workspace, all to yourself - for hours, days or months.
+- [My experience as a remote worker (2019)](https://www.joshwcomeau.com/posts/remote-work/)

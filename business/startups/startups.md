@@ -100,6 +100,7 @@
 - [Startups and Uncertainty (2019)](http://reactionwheel.net/2019/11/startups-and-uncertainty.html)
 - [Starter Story](https://www.starterstory.com/) - Learn how people are starting successful businesses.
 - [The 24 Hour Startup Challenge](https://24hrstartup.com/)
+- [The Holloway Syllabus on Finding a Co-Founder](https://www.holloway.com/s/syllabus-finding-cofounder)
 
 ## Images
 
