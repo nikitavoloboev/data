@@ -18,6 +18,7 @@ The number between brackets shows the year I created the repo in. Repos with ðŸŒ
 
 ## Personal
 
+- [Build to learn (2019)](https://github.com/nikitavoloboev/build-to-learn) - Attempts at building things for deeper understanding/practice.
 - [CV (2018)](https://github.com/nikitavoloboev/cv) - My CV.
 - [Knowledge (2017) ðŸŒŸ](https://github.com/nikitavoloboev/knowledge) - Everything I know.
 - [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.xyz) - My personal home on the internet.
@@ -43,9 +44,3 @@ The number between brackets shows the year I created the repo in. Repos with ðŸŒ
 ## Themes
 
 - [Monokai Night Vim (2018)](https://github.com/nikitavoloboev/vim-monokai-night)
-
-## Practice
-
-- [Build to learn (2019)](https://github.com/nikitavoloboev/build-to-learn) - Attempts at building things for deeper understanding/practice.
-- [Euler (2017)](https://github.com/nikitavoloboev/euler) - Solutions to Project Euler.
-- [LeetCode (2017)](https://github.com/nikitavoloboev/leetcode) - Solutions to LeetCode.
