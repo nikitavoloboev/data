@@ -4,7 +4,7 @@
 
 - Set [goals](../focusing/focusing.md). [Plan events](../macOS/apps/fantastical.md). Focus.
 - [Make](../ideas/ideas.md). [Learn](../sharing/everything-I-know.md). [Write](../sharing/my-articles.md). [Design](../design/design.md). [Share](../sharing/sharing.md).
-- One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts.
+- One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. No time wasted.
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document.
 - [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
 - Cut out noise (no analytics, likes..). No time wasted. Maximize impact & growth.
@@ -92,7 +92,7 @@
 ## News
 
 - Filter consumed information. Reduce noise. Only follow high signal people & content I am interested in.
-- Separate information into two levels of quality if necessary (i.e. Twitter Follows/Other).
+- Separate information into two levels of quality if necessary (i.e. Twitter Follows / Other).
 - Subscribe to Atom over RSS feed if possible.
 
 ## Compassion

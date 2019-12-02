@@ -1,13 +1,13 @@
 # Animals
 
-I love all [animals](https://twitter.com/nikitavoloboev/lists/list2).
+I love all animals.
 
 ## Lovely animals
 
 - Dogs
 - Cats
   - Ragamuffin
-- [Capybaras](https://www.youtube.com/watch?v=SCwcJsBYL3o) - Super awesome.
+- [Capybaras](https://www.youtube.com/watch?v=SCwcJsBYL3o)
 - [Qokkas](https://en.wikipedia.org/wiki/Quokka)
 
 ## Links
