@@ -14,3 +14,4 @@
 - [Tokenized](https://tokenized.com/) - Easiest and safest way to issue, manage and trade security and utility tokens on the Bitcoin SV network.
 - [Bitcoin Resources](https://dergigi.com/bitcoin/resources/)
 - [Mastering the Lightning Network book](https://github.com/lnbook/lnbook)
+- [Bitcoin SV](https://bitcoinsvdevelopers.com/) - Bitcoin with the original protocol. It can be used for money, but also as a development platform..
