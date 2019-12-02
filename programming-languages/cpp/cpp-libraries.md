@@ -44,3 +44,4 @@
 - [xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing.
 - [Choreograph](https://github.com/sansumbrella/Choreograph) - Simple, modern C++ animation and timing library.
 - [cppast](https://github.com/foonathan/cppast) - Library to parse and work with the C++ AST.
+- [thread-pool-cpp](https://github.com/inkooboo/thread-pool-cpp) - High performance C++11 thread pool.

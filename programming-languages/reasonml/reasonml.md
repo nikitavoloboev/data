@@ -37,3 +37,4 @@
 - [Jordan Walke - React to the Future (2019)](https://www.youtube.com/watch?v=5fG_lyNuEAw)
 - [Reason Native](https://reason-native.com/) - Libraries for building and testing native Reason programs.
 - [Towards an Open, Reason(ML)able Web by Parker Ziegler (2019)](https://www.youtube.com/watch?v=ItASl4SdPO0)
+- [Ben Anderson - Investing in Testing with Reason (2019)](https://www.youtube.com/watch?v=Um-c6gDuLWw)
