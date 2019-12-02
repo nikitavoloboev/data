@@ -20,6 +20,10 @@
 
 - [instagram-scaper](https://github.com/realsirjoe/instagram-scraper) - Scrapes medias, likes, followers, tags and all metadata.
 
+## DB
+
+- [psycopg2](https://github.com/psycopg/psycopg2) - Python-PostgreSQL Database Adapter.
+
 ## Other
 
 - [Click](http://click.pocoo.org/5/) - Create beautiful command line interfaces in a composable way with as little code as necessary.
