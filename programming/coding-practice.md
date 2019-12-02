@@ -30,4 +30,7 @@
 - [Haskell](https://github.com/yfeldblum/haskell-euler)
 - [Python, Haskell](https://github.com/zacharydenton/euler)
 
+## Advent of Code solutions
 
+- [Rust](https://github.com/kitten/advent-of-code-2019)
+- [OCaml](https://github.com/narimiran/AdventOfCode2019)

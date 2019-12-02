@@ -1,5 +1,7 @@
 # Talk notes
 
+Notes from talks I visited, sometimes taken on my phone.
+
 ## [Web Summit](https://websummit.com) (2018)
 
 - infinidat
