@@ -154,3 +154,4 @@
 - [Lessons learned building an ML trading system that turned $5k into $200k (2019)](https://www.tradientblog.com/2019/11/lessons-learned-building-an-ml-trading-system-that-turned-5k-into-200k/) ([HN](https://news.ycombinator.com/item?id=21647038))
 - [Deep Learning for Programmers](https://aiprobook.com/deep-learning-for-programmers/)
 - [Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment) - Simple object-oriented framework that allows researchers and hobbyists to develop AI agents for Atari 2600 games.
+- [Space to discuss the future of the ML ecosystem in Rust](https://github.com/rust-ml/discussion#readme)

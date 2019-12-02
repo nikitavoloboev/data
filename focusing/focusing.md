@@ -6,11 +6,11 @@ I define a set of [rules](rules.md) and [processes](processes.md) I set for myse
 
 ## Focusing on what's important
 
-I keep a private Trello board where I outline goals & projects I want to focus on.
+I keep a private Trello board where I outline goals I want to focus on.
 
 ![](https://i.imgur.com/DoQnBr7.png)
 
-I mark projects and goals I want to focus on **right now**, and by pressing `Q` in Trello I only see these cards on the board.
+I mark goals I want to focus on **right now**, and by pressing `Q` in Trello I only see these cards on the board.
 
 ![](https://i.imgur.com/zjiuYOh.png)
 

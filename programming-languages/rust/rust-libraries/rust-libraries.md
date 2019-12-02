@@ -162,6 +162,7 @@
 - [partial-io](https://github.com/facebookincubator/rust-partial-io) - Rust library that provides helpers for testing resilience of IO operations.
 - [Amadeus](https://github.com/constellation-rs/amadeus) - Harmonious distributed data analysis in Rust.
 - [Constellation](https://github.com/constellation-rs/constellation) - Distributed programming for Rust.
+- [ndarray](https://github.com/rust-ndarray/ndarray) - N-dimensional array with array views, multidimensional slicing, and efficient operations.
 
 ## Cargo Plugins
 
