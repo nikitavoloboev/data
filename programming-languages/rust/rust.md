@@ -115,3 +115,4 @@
 - [now-rust](https://github.com/mike-engel/now-rust) - Community based builder for using rust on the now/zeit platform.
 - [Sean Grove: Rust in the Browser for JavaScripters:New Frontiers,New Possibilities (2019)](https://www.youtube.com/watch?v=teDOE7zcf_g)
 - [How to rewrite it in Rust](http://adventures.michaelfbryan.com/posts/how-to-riir/index.html)
+- [Taking ML to production with Rust: a 25x speedup (2019)](https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/)
