@@ -157,3 +157,4 @@
 - [Space to discuss the future of the ML ecosystem in Rust](https://github.com/rust-ml/discussion#readme)
 - [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning#readme)
 - [Collection of explainer tutorials on how machine learning and statistical concepts work](https://end-to-end-machine-learning.teachable.com/p/machine-learning-signal-processing-statistics-concepts)
+- [Tom Augspurger: Scalable Machine Learning with Dask (2019)](https://www.youtube.com/watch?v=we1m4-IsbL8)
