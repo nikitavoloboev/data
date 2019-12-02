@@ -50,3 +50,4 @@
 - [Introduction to C++ for Swift Developers (2019)](https://pspdfkit.com/blog/2019/intro-cpp-swift-developers/?utm_source=twitter&utm_medium=social&utm_medium=blog&utm_medium=cpp)
 - [rr](https://rr-project.org/) - C/C++ debugging tool for Linux, replacing — well, enhancing — gdb. ([Code](https://github.com/mozilla/rr))
 - [#include C++](https://www.includecpp.org/) - Global, inclusive, and diverse community for developers interested in C++.
+- [C++ papers (2019)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/#mailing2019-11)

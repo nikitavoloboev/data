@@ -10,3 +10,4 @@
 - [Why MobX](https://github.com/infinitered/ignite-bowser#why-this-stack)
 - [mobx-keystone](https://github.com/xaviergonz/mobx-keystone) - MobX powered state management solution based on data trees with first class support for Typescript, support for snapshots, patches and much more.
 - [Max Gallo - Reinventing MobX (2019)](https://www.youtube.com/watch?v=P_WqKZxpX8g)
+- [MobX crash course](https://twitter.com/hexrcs/status/1201593792417144833)
