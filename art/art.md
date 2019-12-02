@@ -36,6 +36,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 
 ## Interesting artists
 
+- [Ben Kovach](https://www.benkovach.art/)
 - [Karolis Strautniekas](https://www.instagram.com/strautniekas/)
 - [Harriet Lee-Merrion](https://www.harrietleemerrion.com/)
 - [Bastien Grivet](https://www.artstation.com/grivetart)

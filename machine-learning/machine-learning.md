@@ -155,3 +155,4 @@
 - [Deep Learning for Programmers](https://aiprobook.com/deep-learning-for-programmers/)
 - [Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment) - Simple object-oriented framework that allows researchers and hobbyists to develop AI agents for Atari 2600 games.
 - [Space to discuss the future of the ML ecosystem in Rust](https://github.com/rust-ml/discussion#readme)
+- [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning#readme)

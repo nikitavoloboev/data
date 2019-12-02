@@ -57,3 +57,4 @@
 - [Thorn](https://github.com/robinhood/thorn) - Webhook framework for Python, focusing on flexibility and ease of use, both when getting started and when maintaining a production system.
 - [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python.
 - [Meshio](https://github.com/nschloe/meshio) - I/O for mesh files.
+- [Streamz](https://github.com/python-streamz/streamz) - Real-time stream processing for python.

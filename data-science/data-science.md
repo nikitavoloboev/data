@@ -74,3 +74,4 @@
 - [Dagster](https://github.com/dagster-io/dagster) - Python library for building data applications: ETL, ML, Data Pipelines, and more.
 - [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
 - [An Introduction To Data Science On The Linux Command Line (2019)](https://blog.robertelder.org/data-science-linux-command-line/) ([HN](https://news.ycombinator.com/item?id=21605077))
+- [How to analyse 100 GB of data on your laptop with Python (2019)](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
