@@ -5,6 +5,7 @@ I love software and non software tools that help me in some way. Most tools I us
 ## Other
 
 - [Loom](https://www.loom.com/) - Most effective way to get your message across, no matter where you work.
+- [Bit.sv](https://bit.sv/) - New content network that lets anyone earn money from their interests.
 - [Drift](https://www.drift.com/) - Connect Your Sales Teams With Your Future Customers.
 - [Yac](https://www.yac.chat/) - Asynchronous voice collaboration for remote teams.
 - [Flowkit](https://useflowkit.com/) - User flows right inside your favorite design tool.

@@ -1,5 +1,9 @@
 # [Electron](https://electronjs.org/)
 
+## OSS apps
+
+- [Twizzle](https://github.com/kitze/twizzle) - Desktop app for Twitter DM & composing tweets from the menubar.
+
 ## Links
 
 - [Defeating Electron](https://medium.com/@felixrieseberg/defeating-electron-e1464d075528)
