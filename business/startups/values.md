@@ -19,3 +19,7 @@
 - Respect each other
 - Respect the product & the customers
 - Respect the decisions of the team
+
+## Links
+
+- [List of Questions to consider evaluating culture](https://twitter.com/jenistyping/status/1201560725379960832)

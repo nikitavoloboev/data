@@ -156,3 +156,4 @@
 - [Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment) - Simple object-oriented framework that allows researchers and hobbyists to develop AI agents for Atari 2600 games.
 - [Space to discuss the future of the ML ecosystem in Rust](https://github.com/rust-ml/discussion#readme)
 - [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning#readme)
+- [Collection of explainer tutorials on how machine learning and statistical concepts work](https://end-to-end-machine-learning.teachable.com/p/machine-learning-signal-processing-statistics-concepts)
