@@ -30,9 +30,9 @@ I made my `All` list sorted by `Modified date`. This lets me cleanly delete or a
 
 ## Recurring tasks
 
-I use recurring scheduled tasks in 2Do as a way to remember to complete my day/week/monthly reviews which I often do in the evenings of particular days.
+I use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week reflections & plans.
 
-![](https://i.imgur.com/M9wtkv6.png)
+![](https://i.imgur.com/bNAE7Mc.png)
 
 ## URL Scheme
 

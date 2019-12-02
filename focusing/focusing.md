@@ -8,7 +8,7 @@ I define a set of [rules](rules.md) and [processes](processes.md) I set for myse
 
 I keep a private Trello board where I outline goals & projects I want to focus on.
 
-![](https://i.imgur.com/Fa19dik.png)
+![](https://i.imgur.com/8CCxni1.png)
 
 I mark projects and goals I want to focus on **right now**, and by pressing `Q` in Trello I only see these cards on the board.
 
@@ -18,9 +18,9 @@ I use the same `Focus on cards` approach for all my [other Trello boards](../sha
 
 I then [schedule events](../macOS/apps/fantastical.md) in my calendar and plan the day/week in context of my goals.
 
-I use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week/monthly reflections & plans which I do in the evenings of particular days.
+I use [2Do](../macOS/apps/2do.md)'s recurring scheduled tasks as a way to remember to complete my day/week reflections & plans.
 
-![](https://i.imgur.com/M9wtkv6.png)
+![](https://i.imgur.com/bNAE7Mc.png)
 
 This goal centric approach is useful as it allows me to keep focused on what I want to achieve by limiting number of projects/goals I am working on at any given time.
 

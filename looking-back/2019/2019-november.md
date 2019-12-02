@@ -13,3 +13,7 @@ It's first time I do this weekly reflection. Want to have a more clearer & ongoi
 Preparing for interviews. Rebuilding my site. NextJS is seriously amazing technology. These weekly reviews are quite relaxing to write. Been quite productive lately but can certainly do much more. Just too overwhelmed with things.
 
 Now that I have these consistent reviews, there is no longer need for a `Month review`. Day plans. And week reflections. `reflect on progress & adjust goals & plan week & minimize` to be done every Sunday. Minimize is interesting one as it includes lots of things. Both minimize mentally by taking a deserved break. But also on a more deeper level. Review my workflow, tools. See what 'extra' stuff I have I don't need. And cleanse from it. Everything is so automated and so perfect. ✨
+
+![](https://i.imgur.com/fPUKnCt.png)
+
+![](https://i.imgur.com/hPvZJSy.png)
