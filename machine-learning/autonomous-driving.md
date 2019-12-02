@@ -6,3 +6,4 @@
 - [Elon Musk: Tesla Autopilot (2019)](https://overcast.fm/+OcVc-RrM8)
 - [Apollo](https://github.com/ApolloAuto/apollo) - Open autonomous driving platform.
 - [OpenPilot](https://github.com/commaai/openpilot) - Open source driving agent.
+- [CARLA Simulator](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.

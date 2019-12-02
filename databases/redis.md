@@ -10,3 +10,4 @@
 - [Redis 101: Foundation and Core Concepts (2019)](https://dev.to/mohammadhasham/redis-101-foundation-and-core-concepts-1cg6)
 - [KeyDB](https://github.com/JohnSully/KeyDB) - High performance fork of Redis with a focus on multithreading, memory efficiency, and high throughput.
 - [twemproxy](https://github.com/twitter/twemproxy) - Fast, light-weight proxy for memcached and redis.
+- [RediSQL](https://github.com/RedBeardLab/rediSQL) - Fast, in-memory, SQL engine with batteries included.
