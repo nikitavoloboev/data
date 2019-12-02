@@ -19,3 +19,4 @@
 - [Index Ventures](http://www.indexventures.com/)
 - [What I learnt from raising £1m](https://medium.com/swlh/what-i-learnt-from-raising-1m-8f70df34c874)
 - [Upfront Ventures](https://upfront.com/)
+- [TinySeed](https://tinyseed.com/) - Year-long, remote accelerator designed for early-stage SaaS founders.

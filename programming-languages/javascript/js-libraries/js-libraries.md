@@ -119,3 +119,4 @@
 - [Fielder](https://github.com/andyrichardson/fielder) - React form library which adapts to change.
 - [lemonad](https://github.com/fogus/lemonad) - Functional programming library for JavaScript. An experiment in elegant JS.
 - [Mockttp](https://github.com/httptoolkit/mockttp) - Lets you quickly & reliably test HTTP requests & responses in JavaScript, in both Node and browsers.
+- [Flowy](https://github.com/alyssaxuu/flowy) - Minimal javascript library to create flowcharts.
