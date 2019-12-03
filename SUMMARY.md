@@ -634,6 +634,7 @@
     - [Contracting](work/finding-work/contracting.md)
   - [Remote work](work/remote-work.md)
   - [Consultancies](work/consultancies.md)
+  - [Communication](work/communication.md)
 - [Management](management/management.md)
   - [Product Management](management/product-management.md)
   - [Leadership](management/leadership.md)

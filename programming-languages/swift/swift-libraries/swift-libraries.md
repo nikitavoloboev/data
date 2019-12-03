@@ -119,6 +119,7 @@
 - [AtomicKit](https://github.com/macmade/AtomicKit) - Concurrency made simple in Swift.
 - [ConsoleKit](https://github.com/vapor/console-kit) - APIs for creating interactive CLI tools.
 - [Ink](https://github.com/JohnSundell/Ink) - Fast and flexible Markdown parser written in Swift.
+- [SwiftPlot](https://github.com/KarthikRIyer/swiftplot) - Swift library for Data Visualization.
 
 ## Links
 

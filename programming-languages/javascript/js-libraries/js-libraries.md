@@ -120,3 +120,4 @@
 - [lemonad](https://github.com/fogus/lemonad) - Functional programming library for JavaScript. An experiment in elegant JS.
 - [Mockttp](https://github.com/httptoolkit/mockttp) - Lets you quickly & reliably test HTTP requests & responses in JavaScript, in both Node and browsers.
 - [Flowy](https://github.com/alyssaxuu/flowy) - Minimal javascript library to create flowcharts.
+- [d3-dag](https://github.com/erikbrinkman/d3-dag) - Layout algorithms for visualizing directed acyclic graphs.

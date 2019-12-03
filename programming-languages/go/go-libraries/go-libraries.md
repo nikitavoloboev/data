@@ -239,6 +239,7 @@
 - [Reign](https://github.com/thejerf/reign) - Rewrite Erlang In Go Nicely - a library for mimicking Erlang's mailboxes and clustering.
 - [null](https://github.com/guregu/null) - Reasonable handling of nullable values.
 - [dynamo](https://github.com/guregu/dynamo) - Expressive DynamoDB library for Go.
+- [Onelog](https://github.com/francoispqt/onelog) - Dead simple, super fast, zero allocation and modular logger for Golang.
 
 ## Links
 

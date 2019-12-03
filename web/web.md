@@ -46,3 +46,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Hands-on with Portals: seamless navigation on the Web (2019)](https://web.dev/hands-on-portals/)
 - [Nx](https://github.com/nrwl/nx) - Extensible Dev Tools for Monorepos.
 - [Web Platform Course](https://webplatformcourse.com/7XoqGASUulHqaQUWuqXR/)
+- [Principles for making things for the web](https://github.com/veltman/principles#readme)
