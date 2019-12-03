@@ -15,3 +15,6 @@
 - [Roboflow](https://roboflow.ai/) - Accelerates computer vision development.
 - [PySlowFast](https://github.com/facebookresearch/SlowFast) - Open source video understanding codebase from FAIR that provides state-of-the-art video classification models.
 - [How to Convert a Picture to Numbers](https://brohrer.github.io/images_to_numbers.html)
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+- [The Ancient Secrets of Computer Vision (2018)](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)
+- [Variational Methods for Computer Vision lectures (2013)](https://www.youtube.com/watch?v=fpw26tpHGr8&list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
