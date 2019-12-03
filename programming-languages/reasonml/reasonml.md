@@ -39,3 +39,4 @@
 - [Towards an Open, Reason(ML)able Web by Parker Ziegler (2019)](https://www.youtube.com/watch?v=ItASl4SdPO0)
 - [Ben Anderson - Investing in Testing with Reason (2019)](https://www.youtube.com/watch?v=Um-c6gDuLWw)
 - [Youxi Li - The Cyborg Future: Melding a Rust/Wasm Core with a ReasonReact UI (2019)](https://www.youtube.com/watch?v=nY_fslpJmdE)
+- [Navigating Reason](https://github.com/jordwalke/navigating-reason#readme) - Overview of Reason tooling options for the curious.
