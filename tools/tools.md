@@ -5,6 +5,7 @@ I love software and non software tools that help me in some way. Most tools I us
 ## Other
 
 - [Loom](https://www.loom.com/) - Most effective way to get your message across, no matter where you work.
+- [Exploding Topics](https://explodingtopics.com/) - We surface rapidly growing topics before they take off.
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.
 - [Bit.sv](https://bit.sv/) - New content network that lets anyone earn money from their interests.
 - [Drift](https://www.drift.com/) - Connect Your Sales Teams With Your Future Customers.
