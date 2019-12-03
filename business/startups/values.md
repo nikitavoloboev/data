@@ -2,6 +2,7 @@
 
 ## Interesting values/principles
 
+- [Oxide Principles of Operation](https://oxide.computer/principles/)
 - [Write.as principles](https://write.as/principles)
 - [Amazon's Leadership Principles](https://www.amazon.jobs/en/principles)
 - [Glitch Company values](https://handbook.glitch.me/#values)
