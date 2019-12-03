@@ -39,3 +39,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Lobsters: Whats your vim setup like? (2019)](https://lobste.rs/s/ffhwse/whats_your_vim_setup_like)
 - [nvim-lsp](https://github.com/neovim/nvim-lsp) - Common configurations for Neovim Language Servers.
 - [We can have nice things (2019)](https://www.youtube.com/watch?v=Bt-vmPC_-Ho) ([Slides](https://vimconf.org/2019/slides/justin.pdf))
+- [Vim like apps/plugins](https://vim.reversed.top/) ([HN](https://news.ycombinator.com/item?id=21692418#21693299))

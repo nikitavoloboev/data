@@ -23,3 +23,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [How Monzo security team handle secrets (2019)](https://monzo.com/blog/2019/10/11/how-our-security-team-handle-secrets)
 - [HoneyTrap](https://github.com/honeytrap/honeytrap) - Extensible and opensource system for running, monitoring and managing honeypots.
 - [Flan Scan](https://github.com/cloudflare/flan) - Lightweight network vulnerability scanner.
+- [SSL/TLS Deployment Best Practices - Ivan Ristic (2017)](https://www.youtube.com/watch?v=AYNtH7JMlAQ)

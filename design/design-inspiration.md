@@ -23,6 +23,7 @@ Here are few more things I liked, design wise.
 
 ## Products
 
+- [Mouseless](https://mouseless.app/)
 - [Actual Budget](https://actualbudget.com/)
 - [Notable](https://notable.md/)
 - [Sizzy](https://sizzy.co/)
