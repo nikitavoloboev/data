@@ -11,6 +11,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Charge](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator.
 - [elm-pages](https://github.com/dillonkearns/elm-pages) - Statically typed site generator for Elm.
 - [JuDoc](https://github.com/tlienart/JuDoc.jl) - Simple static site generator (SSG) oriented towards technical blogging (code, maths, ...) and light, fast-loading pages.
+- [Antwar](https://github.com/antwarjs/antwar) - Static site generator built with React and Webpack.
 
 ## Links
 

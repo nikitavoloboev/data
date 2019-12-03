@@ -101,6 +101,7 @@
 - [Starter Story](https://www.starterstory.com/) - Learn how people are starting successful businesses.
 - [The 24 Hour Startup Challenge](https://24hrstartup.com/)
 - [The Holloway Syllabus on Finding a Co-Founder](https://www.holloway.com/s/syllabus-finding-cofounder)
+- [How big companies got their first users](https://earlyusergrowth.com/startups/)
 
 ## Images
 

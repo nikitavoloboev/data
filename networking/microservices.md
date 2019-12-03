@@ -17,3 +17,4 @@
 - [SuperGloo](https://github.com/solo-io/supergloo) - Service Mesh Orchestration Platform.
 - [Kapow](https://github.com/BBVA/kapow) - Turn shell scripts into HTTP API endpoints.
 - [Ask HN: How do you deal with atomicity in microservice environments? (2019)](https://news.ycombinator.com/item?id=21656891)
+- [Go: Introduction to Protobuf: Services](https://scene-si.org/2019/12/02/introduction-to-protobuf-services/)
