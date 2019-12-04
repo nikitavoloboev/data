@@ -11,3 +11,4 @@
 - [Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime (2019)](https://www.goodreads.com/book/show/44065062-something-deeply-hidden)
 - [How quantum teleportation works](https://quantum.country/teleportation) ([Twitter](https://twitter.com/michael_nielsen/status/1194368423116988416))
 - [Can you explain me quantum decoherence in simple language?](https://www.reddit.com/r/askscience/comments/cetdgb/can_you_explain_me_quantum_decoherence_in_simple/)
+- [Knots and Quantum Theory (2011)](https://www.ias.edu/ideas/2011/witten-knots-quantum-theory)

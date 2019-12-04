@@ -44,3 +44,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [macOS screenshot tips](https://twitter.com/CoreyGinnivan/status/1187209574303973376)
 - [gon](https://github.com/mitchellh/gon) - CLI and Go Library for macOS Notarization.
 - [Shipping a Catalyst App - Peter Steinberger (2019)](https://www.youtube.com/watch?v=Xo3zGlyxXcI)
+- [Open-source components of macOS](https://github.com/apple-open-source/macos)

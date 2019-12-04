@@ -6,7 +6,7 @@
 - [Make](../ideas/ideas.md). [Learn](../sharing/everything-I-know.md). [Write](../sharing/my-articles.md). [Design](../design/design.md). [Share](../sharing/sharing.md).
 - One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. No time wasted.
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document.
-- [Simplify](../minimalism/minimalism.md). Never repeat myself. Remove friction.
+- [Simplify](../minimalism/minimalism.md) & minimize everything. Don't repeat myself. Remove friction. Focus on essentials.
 - Cut out noise (no analytics, likes..). No time wasted. Maximize impact & growth.
 - Learn from mistakes. Reflect. [Journal](../looking-back/looking-back.md). Move forward. Move fast.
 - Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Never give up.

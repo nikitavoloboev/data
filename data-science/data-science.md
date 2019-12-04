@@ -75,3 +75,4 @@
 - [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
 - [An Introduction To Data Science On The Linux Command Line (2019)](https://blog.robertelder.org/data-science-linux-command-line/) ([HN](https://news.ycombinator.com/item?id=21605077))
 - [How to analyse 100 GB of data on your laptop with Python (2019)](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
+- [Metaflow](https://metaflow.org/) - Framework for real-life data science. ([HN](https://news.ycombinator.com/item?id=21696779)) ([Code](https://github.com/Netflix/metaflow))
