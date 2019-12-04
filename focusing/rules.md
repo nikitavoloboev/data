@@ -40,7 +40,6 @@
 - Do bodyweight exercises during the day to regain focus. Change environments for inspiration.
 - Listen to rain sounds with [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) when focusing with environment noise blocked. No distracting music.
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
-- Update [Timing](../macOS/apps/timing.md) quickly on break starts. Refine activity rules for better activity predictions.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.
 - Always breathe fresh air. Have proper lighting.

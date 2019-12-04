@@ -5,6 +5,7 @@ I love software and non software tools that help me in some way. Most tools I us
 ## Other
 
 - [Loom](https://www.loom.com/) - Most effective way to get your message across, no matter where you work.
+- [Pulumi](https://www.pulumi.com/) - Declare cloud infrastructure using real languages.
 - [Exploding Topics](https://explodingtopics.com/) - We surface rapidly growing topics before they take off.
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.
 - [Bit.sv](https://bit.sv/) - New content network that lets anyone earn money from their interests.
@@ -77,7 +78,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [wallabag](https://github.com/wallabag/wallabag) - Self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [Project Iris](http://iris.karalabe.com/) - Completely decentralized cloud messaging.
 - [yq](https://github.com/mikefarah/yq) - Lightweight and portable command-line YAML processor.
-- [Replies](https://replies.io/index.html) - Helps to reduce the effort required to process customer enquiries to a minimum. Numerous functions optimize the entire process - from receiving to resolving the request.
+- [Replies](https://replies.io/) - Helps to reduce the effort required to process customer enquiries to a minimum. Numerous functions optimize the entire process - from receiving to resolving the request.
 - [Beehive](https://github.com/muesli/beehive) - Flexible event/agent & automation system with lots of bees.
 - [mrm](https://github.com/sapegin/mrm) - Command line tool to help you keep configuration (package.json, .gitignore, .eslintrc, etc.) of your open source projects in sync.
 - [Dark](https://darklang.com/) - Holistic programming language, structured editor, and infrastructure, for building backend web services.

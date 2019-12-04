@@ -1,16 +1,8 @@
 # [Timing](https://timingapp.com/?lang=en)
 
-I use Timing app to fully automate tracking my time on my computer.
-
-The fact that I can combine active and passive tracking together is very powerful and allows me to be more aware of where I spend my time.
+I use Timing app to fully automate tracking time I spend on my computer.
 
 ![](https://i.imgur.com/w4ERlN0.png)
-
-My projects look like this:
-
-![](https://i.imgur.com/IgpjWb8.png)
-
-One thing I realized after using Timing for over 2 years is that for a long time, I was tracking actions rather than actual projects and the actual value comes from knowing how much time I spent on particular project that matters to me. In this way, Timing also has perfect synergy with my [Focus Trello board](../../focusing/focusing.md).
 
 ## Notes
 

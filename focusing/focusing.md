@@ -46,16 +46,6 @@ Other events include:
 - Learn (📖) - I learn a topic from one of the currently active topics on [Trello](https://trello.com/b/cu32qF3q).
 - Write (🖊) - I write and finish any of the [fragments](../fragments/fragments.md) I started.
 
-At the end of the 80 min focus session, [Timing](../macOS/apps/timing.md) shows up automatically and I say which projects I worked on in this 80 min period.
-
-![](https://i.imgur.com/yNlFtjK.png)
-
-> Focus script ran on break/focus-end will switch to Timing and activate next block of time so I can annotate what I did
-
-![](https://i.imgur.com/IgpjWb8.png)
-
-> Projects in Timing track activities I did. I add rules to each activity so Timing intelligently matches blocks of time to activities
-
 I limit apps that can send me notifications to only essential things and turn off all sounds on notifications I get.
 
 I focus on [solving problems](../research/solving-problems.md) & limit any distractions. I follow [rules](rules.md#focus) to maintain my focus throughout the day.
