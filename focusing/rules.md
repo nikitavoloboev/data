@@ -6,7 +6,7 @@
 - [Make](../ideas/ideas.md). [Learn](../sharing/everything-I-know.md). [Write](../sharing/my-articles.md). [Design](../design/design.md). [Share](../sharing/sharing.md).
 - One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. No time wasted.
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document.
-- [Simplify](../minimalism/minimalism.md) & minimize everything. Don't repeat myself. Remove friction. Focus on essentials.
+- [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials.
 - Cut out noise (no analytics, likes..). No time wasted. Maximize impact & growth.
 - Learn from mistakes. Reflect. [Journal](../looking-back/looking-back.md). Move forward. Move fast.
 - Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Never give up.
@@ -63,7 +63,7 @@
 - [Build things from scratch](https://github.com/nikitavoloboev/build-to-learn) to understand. Minimal version that works.
 - Draw or sketch to distill complex ideas. Think through problems together. Discuss.
 - Watch videos at 2x speed, unless it hurts comprehension or it's entertainment.
-- Listen to podcasts/books at fastest speed I can comprehend. (Podcasts: ~2.5x + smart speed, Books: ~1.75x).
+- Listen to podcasts/books at fastest speed I can comprehend. (Podcasts: ~2x + smart speed, Books: ~1.75x). Use lower speed when falling asleep on a timer.
 
 ## Write
 

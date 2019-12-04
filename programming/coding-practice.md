@@ -33,6 +33,7 @@
 ## Advent of Code solutions
 
 - [Rust](https://github.com/kitten/advent-of-code-2019)
+- [Rust 2](https://github.com/m-rutter/advent-of-code)
 - [OCaml](https://github.com/narimiran/AdventOfCode2019)
 - [Haskell](https://github.com/merijn/AdventOfCode2019)
 - [Swift](https://github.com/evilmint/AdventOfCode)
