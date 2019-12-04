@@ -11,3 +11,5 @@ I will try to grow [build to learn](https://github.com/nikitavoloboev/build-to-l
 I honestly marvel at how much locked potential we have. I just want to do good. And I want to be independent. Because honestly I can be at this point. And all this wasted time with Timing and everything else I have done in life. All the silly games and micro optimizations. Don't matter. You are really no one. You are what you create.
 
 It's so freeing to have a journal and out of this world tools. No more silos.
+
+You grow. You mature. Honestly.
