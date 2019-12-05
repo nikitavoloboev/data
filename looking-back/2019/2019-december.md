@@ -13,3 +13,11 @@ I honestly marvel at how much locked potential we have. I just want to do good. 
 It's so freeing to have a journal and out of this world tools. No more silos.
 
 You grow. You mature. Honestly.
+
+I am going to build https://learn-anything.xyz
+
+A marketplace for ideas. With experience like [Otta](https://otta.com). Matching people to interesting ideas. It's amazing for everyone. If you have capital, you can invest in an idea. If you don't you get inspired to build it.
+
+And then learning. Imagine [Holloway](https://www.holloway.com) but for every topic. Or rather imagine Holloway and its reading experience but as a tool. Where anyone can create a rich guide for learning any topic.
+
+Tools like [Otta](https://otta.com) are such a breath of fresh air to me because it shows how much bad the UI is when its not misaligned to your incentives right. It's mind boggling how this is not a solved problem still.
