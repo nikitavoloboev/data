@@ -4,6 +4,10 @@ I use Timing app to fully automate tracking time I spend on my computer.
 
 ![](https://i.imgur.com/w4ERlN0.png)
 
+I setup projects in Timing with rules assigned for each project. I then have Timing to infer the blocks of time of work into each of the projects based on the rules.
+
+![](https://i.imgur.com/2osTCZ2.png)
+
 ## Notes
 
 - Can press ⌥ + → in `Review` tab to expand all items fully (assuming I selected the items I want to expand). Can `CMD+A` to select all projects beforehand.
