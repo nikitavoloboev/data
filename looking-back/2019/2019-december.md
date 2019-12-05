@@ -20,6 +20,6 @@ A marketplace for ideas. With experience like [Otta](https://otta.com). Matching
 
 And then learning. Imagine [Holloway](https://www.holloway.com) but for every topic. Or rather imagine Holloway and its reading experience but as a tool. Where anyone can create a rich guide for learning any topic.
 
-Tools like [Otta](https://otta.com) are such a breath of fresh air to me because it shows how much bad the UI is when its not misaligned to your incentives right. It's mind boggling how this is not a solved problem still.
+Tools like [Otta](https://otta.com) are such a breath of fresh air to me because it shows how much bad the UI is when its not aligned to your incentives right. It's mind boggling how this is not a solved problem still.
 
 I still don't know how equity works. How do people 'raise' money? And how much is distributed and based on what. I am sure I am not alone in thinking about this. But beyond larger 'ideas'. Even small ideas it would be amazing if someone could find an [idea I had](https://trello.com/b/alB1ryRP) and send me a coin so I can build it and know I am not alone in wanting this. I really want this to exist.
