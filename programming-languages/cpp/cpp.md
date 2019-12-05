@@ -51,3 +51,4 @@
 - [rr](https://rr-project.org/) - C/C++ debugging tool for Linux, replacing — well, enhancing — gdb. ([Code](https://github.com/mozilla/rr))
 - [#include C++](https://www.includecpp.org/) - Global, inclusive, and diverse community for developers interested in C++.
 - [C++ papers (2019)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/#mailing2019-11)
+- [How can you be so certain? (2019)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1962r0.pdf) ([Lobsters](https://lobste.rs/s/hvczkz/how_can_you_be_so_certain))
