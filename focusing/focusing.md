@@ -8,11 +8,11 @@ I define a set of [rules](rules.md) and [processes](processes.md) I set for myse
 
 I keep a private Trello board where I outline goals I want to focus on.
 
-![](https://i.imgur.com/DoQnBr7.png)
+![](https://i.imgur.com/GaMXk3k.png)
 
 I mark goals I want to focus on **right now**, and by pressing `Q` in Trello I only see these cards on the board.
 
-![](https://i.imgur.com/zjiuYOh.png)
+![](https://i.imgur.com/jyxrY8C.png)
 
 I use the same `Focus on cards` approach for all my [other Trello boards](../sharing/my-trello.md) too.
 
