@@ -2,7 +2,7 @@
 
 Journaling my thoughts and experiences has been my most impactful and healthy habit I started doing in life.
 
-I once used [Day One](http://dayoneapp.com) is my digital life journal. However recently I started to journal and share my experiences publicly in [looking back](../looking-back/looking-back.md).
+I once used [Day One](http://dayoneapp.com) as my digital life journal. However recently I started to journal and share my experiences publicly in [looking back](../looking-back/looking-back.md).
 
 I started with journaling by writing [Day Evaluations](https://medium.com/@nikitavoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32), evaluating my day and noting interesting and memorable things that have happened to me during the day.
 
@@ -12,5 +12,5 @@ If I ever feel down, I can just start writing and just release all these negativ
 
 ## Day One Journals
 
-![](https://i.imgur.com/6u2BVy1.png)
+![](https://imgur.com/ImQFPrY)
 

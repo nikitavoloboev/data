@@ -240,6 +240,7 @@
 - [null](https://github.com/guregu/null) - Reasonable handling of nullable values.
 - [dynamo](https://github.com/guregu/dynamo) - Expressive DynamoDB library for Go.
 - [Onelog](https://github.com/francoispqt/onelog) - Dead simple, super fast, zero allocation and modular logger for Golang.
+- [encoding](https://github.com/segmentio/encoding) - Go package containing implementations of efficient encoding, decoding, and validation APIs.
 
 ## Links
 

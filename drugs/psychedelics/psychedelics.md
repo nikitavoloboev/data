@@ -12,9 +12,9 @@ But as will all things, _moderation is key_. Or as in the case of psychedelics, 
 
 > _"When you get the message, hang up the phone"_
 
-My favorite psychedelic currently is [4-HO-MiPT](https://psychonautwiki.org/wiki/4-HO-MiPT).
+My favorite psychedelic currently is [4-HO-MiPT](https://psychonautwiki.org/wiki/4-HO-MiPT) & [2C-B](https://psychonautwiki.org/wiki/2C-B).
 
-I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=en&mt=8) iOS app to track doses and space out both microdoses & heavier trips.
+I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=en&mt=8) iOS app to track all my doses. This helps me make sure I don't abuse any substance.
 
 ## Notes
 

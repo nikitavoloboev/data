@@ -38,17 +38,13 @@ Only on breaks can I visit these websites. I also get 20 minutes of optional bre
 
 The things I work on are defined by events I have set in [Fantastical](../macOS/apps/fantastical.md). The events can be meetings or projects I have set.
 
-If no event is set, by default it means I go through [2Do](../macOS/apps/2do.md) and work on most prioritized tasks for `Today` or `Starred`.
+If no event is set, I work on most prioritized tasks for `Today` in [2Do](../macOS/apps/2do.md).
 
-Other events include:
+If there are no urgent tasks. I code and build [ideas](https://trello.com/b/alB1ryRP). [Learn](https://trello.com/b/cu32qF3q). And share my learnings.
 
-- Code (💻) - I work through 2Do tasks with `pr` tag or build an idea from [Trello](https://trello.com/b/alB1ryRP).
-- Learn (📖) - I learn a topic from one of the currently active topics on [Trello](https://trello.com/b/cu32qF3q).
-- Write (🖊) - I write and finish any of the [fragments](../fragments/fragments.md) I started.
+I limit apps that can send me notifications to only essential things and turn off sound for all of them.
 
-I limit apps that can send me notifications to only essential things and turn off all sounds on notifications I get.
-
-I focus on [solving problems](../research/solving-problems.md) & limit any distractions. I follow [rules](rules.md#focus) to maintain my focus throughout the day.
+I focus on [solving problems](../research/solving-problems.md) & limit distractions. I follow [rules](rules.md#focus) to maintain my focus throughout the day.
 
 I support my [happiness](../life/happiness.md) by working on projects that I care about and looking after my [health](../health/health.md).
 
