@@ -9,7 +9,6 @@ Below is a list of extensions I use.
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Convenient way of creating, duplicating, moving, renaming and deleting files and directories.
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
-- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
 - [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - Allows you to open any folder in a container, on a remote machine.
 
 ## Go
@@ -53,14 +52,6 @@ Below is a list of extensions I use.
 
 - [Nix language support](https://marketplace.visualstudio.com/items?itemName=bbenoist.Nix)
 
-## Elixir
-
-- [ElixirLS](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) - Elixir support and debugger.
-
-## Haskell
-
-- [Simple Haskell support using only GHCi](https://marketplace.visualstudio.com/items?itemName=dramforever.vscode-ghc-simple)
-
 ## Protocol buffers
 
 - [Protobuf 3 support](https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3)
@@ -77,6 +68,7 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
 - [CodeSandbox](https://marketplace.visualstudio.com/items?itemName=yesmeck.codesandbox) - Bring CodeSandbox into your favorite editor.
 - [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs) - Browse, edit and fork GitHub Gists, directly within Visual Studio Code.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more.
@@ -187,6 +179,7 @@ Below is a list of extensions I use.
 
 ## Haskell
 
+- [Simple Haskell support using only GHCi](https://marketplace.visualstudio.com/items?itemName=dramforever.vscode-ghc-simple)
 - [Haskell Language Server Client](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - Client interface to the Language Server Protocol server for Haskell, as provided by the Haskell IDE Engine.
 - [Haskell Language](https://marketplace.visualstudio.com/items?itemName=justusadam.language-haskell) - Adds highlighting support for Haskell.
 
@@ -209,6 +202,10 @@ Below is a list of extensions I use.
 ## Elm
 
 - [Elm](https://marketplace.visualstudio.com/items?itemName=Elmtooling.elm-ls-vscode) - Improving your Elm experience since 2019.
+
+## Elixir
+
+- [ElixirLS](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) - Elixir support and debugger.
 
 ## Julia
 
