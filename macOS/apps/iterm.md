@@ -8,19 +8,17 @@ I made my own [Monokai Night theme](https://github.com/nikitavoloboev/my-mac-os/
 
 ## My workflow
 
-I always have at least 3 tabs (sessions) always open in iTerm. I open other tabs as the need arises and I start working on other projects.
+I always have at least 3 tabs (sessions) always open in iTerm. I open other tabs as the need arise. I use VS Code's integrated terminal for when I need the shell on per project basis.
 
 My always open tabs are:
 
-1. `jump around` - This tab is where the majority of my work is done or when I need to quickly jump around my file system. Bound to `f+j`.
-2. `clones` - I use Alfred workflow to search through my [~/src/clones](../../unix/my-file-system.md) dir. On modifier press, it will jump to that dir in this tab. Bound to `f+s`.
-3. `karabiner` - Contains my [Karabiner configuration](karabiner/karabiner.md) I edit. Bound to `f+.`.
+1. `Jump` - Main tab I use to quickly jump around my file system. Bound to `f+j`.
+2. `Run/Workspace` - I use it as extra tab where I sometimes run a server or something where it makes sense. Bound to `f+s`.
+3. `Karabiner` - Contains my [Karabiner configuration](karabiner/karabiner.md) I edit in neovim. Bound to `f+.`.
 
-All other tabs are added on top of this `default` configuration. I use [this workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions:
+There is a workflow [workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions. Although I don't use it due to direct keybinds above.
 
-![](https://i.imgur.com/doQVVDx.png)
-
-I also use VS Code's integrated terminal when working on various code projects.
+![](https://i.imgur.com/a4Iuomp.png)
 
 ## Links
 
