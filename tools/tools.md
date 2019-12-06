@@ -6,6 +6,7 @@ I love software and non software tools that help me in some way. Most tools I us
 
 - [Loom](https://www.loom.com/) - Most effective way to get your message across, no matter where you work.
 - [Pulumi](https://www.pulumi.com/) - Declare cloud infrastructure using real languages.
+- [HASH](https://hash.ai/) - Open-source platform for general purpose simulation backed and built by the founders of Kaggle, Stack Overflow, Trello, and Glitch.
 - [Parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely. ([Article](https://www.tomosman.com/posts/what-is-parabola))
 - [Exploding Topics](https://explodingtopics.com/) - We surface rapidly growing topics before they take off.
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.

@@ -8,3 +8,4 @@
 - [HN thread on CRDT (2019)](https://news.ycombinator.com/item?id=21464189)
 - [An API for data that changes over time (2019)](https://josephg.com/blog/api-for-changes/)
 - [Statecraft](https://github.com/josephg/statecraft) - Protocol and set of tools for interacting with data that changes over time.
+- [Full implementation of CRDTs using hybrid logical apps and a demo app that uses it](https://github.com/jlongster/crdt-example-app)
