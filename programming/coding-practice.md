@@ -39,3 +39,4 @@
 - [Haskell](https://github.com/merijn/AdventOfCode2019)
 - [Swift](https://github.com/evilmint/AdventOfCode)
 - [Go](https://github.com/neutralinsomniac/advent2019)
+- [Python](https://github.com/benediktwerner/AdventOfCode)

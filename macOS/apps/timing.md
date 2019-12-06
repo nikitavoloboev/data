@@ -4,7 +4,7 @@ I use Timing app to fully automate tracking time I spend on my computer.
 
 ![](https://i.imgur.com/w4ERlN0.png)
 
-I setup projects in Timing with rules assigned for each project. I then have Timing to infer the blocks of time of work into each of the projects based on the rules.
+I setup projects in Timing with rules assigned for each project. I then have Timing infer time I spent on these projects automatically based on the rules.
 
 ![](https://i.imgur.com/2osTCZ2.png)
 

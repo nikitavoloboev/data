@@ -42,3 +42,4 @@
 - [Youxi Li - The Cyborg Future: Melding a Rust/Wasm Core with a ReasonReact UI (2019)](https://www.youtube.com/watch?v=nY_fslpJmdE)
 - [Navigating Reason](https://github.com/jordwalke/navigating-reason#readme) - Overview of Reason tooling options for the curious.
 - [Bryan Phelps - Making Windows Development Reasonable (2019)](https://www.youtube.com/watch?v=UDz-IqwAzIs)
+- [Sean Grove - Building Real Systems in Reason (Native) (2019)](https://www.youtube.com/watch?v=Lv2QCq6ZBPs)
