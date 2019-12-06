@@ -37,3 +37,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Getting my personal data out of Facebook](https://ruben.verborgh.org/facebook/) - I left Facebook, and all I got was this lousy legalese.
 - [Bitcoin 2019: A Conversation with Edward Snowden](https://www.youtube.com/watch?v=w7XpI0fRnIg)
 - [Differential Privacy by Google](https://github.com/google/differential-privacy) - Contains a C++ library of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information.
+- [Privatar](https://www.privitar.com/) - Unlock the advantage of data-driven insights while ensuring data privacy.
