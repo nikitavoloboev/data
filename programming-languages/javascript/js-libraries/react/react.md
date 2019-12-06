@@ -96,3 +96,4 @@
 - [What is the most impressive React-based site you've seen? (2019)](https://www.reddit.com/r/reactjs/comments/e1ac7p/what_is_the_most_impressive_reactbased_site_youve/)
 - [Blocks UI](https://blocks-ui.com/) - JSX-based page builder for creating beautiful websites without writing code. ([Code](https://github.com/blocks/blocks))
 - [WTF is Up with Refs? (2019)](http://naomiajacobs.com/wtf-is-up-with-refs/)
+- [Can you feel the Suspense?! (2019)](https://react.christmas/2019/5) ([HN](https://news.ycombinator.com/item?id=21710718))
