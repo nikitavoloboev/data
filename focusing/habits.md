@@ -2,7 +2,7 @@
 
 I use [Streaks](https://streaksapp.com) iOS app to track my essential life habits.
 
-![](https://i.imgur.com/FPjyURl.jpg)
+![](https://i.imgur.com/Ro3KulJ.jpg)
 
 The 6 habits are an essential subset of more general [rules](rules.md) I want to follow in life. They are also displayed in my [Focus board](focusing.md).
 
@@ -16,7 +16,7 @@ The 6 habits are an essential subset of more general [rules](rules.md) I want to
 
 `Cardio / Weights` is autofilled through my health data. It includes workout minutes from running/cycling & bodyweight/lifting workouts. Bodyweight/lifting is tracked with [Strong](https://strong.app) & [Streaks Workout](https://streaksworkout.com) apps. It also includes yoga (tracked with [Down Dog](https://www.downdogapp.com)).
 
-`Make/Learn Write/Share` is marked as done when I spent the day mindfully making ideas, learning, writing & sharing. I track time spent with [Timing](../macOS/apps/timing.md) & [WakaTime](https://wakatime.com).
+`Make/Learn Goals/Tasks` is marked as done when I spent the day mindfully and with purpose. Making ideas & learning. Completing tasks and moving closer to finishing my goals. I track time spent with [Timing](../macOS/apps/timing.md) & [WakaTime](https://wakatime.com).
 
 `Plan | Focus | One Task` is marked as done when I planned the day ahead and made sure the day went according to my plan. I didn't get distracted from tasks I assigned myself to do & worked on [one task at a time](../research/solving-problems.md).
 
