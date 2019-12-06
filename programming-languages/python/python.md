@@ -61,3 +61,4 @@
 - [Python debugger package for use with Visual Studio and Visual Studio Code](https://github.com/microsoft/ptvsd)
 - [Pyflame](https://github.com/uber/pyflame) - Ptracing Profiler For Python.
 - [Classic Computer Science Problems in Python book (2019)](https://www.manning.com/books/classic-computer-science-problems-in-python)
+- [PyInstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables.
