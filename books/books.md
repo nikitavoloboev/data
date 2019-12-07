@@ -75,6 +75,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 
 ## Recommendations
 
+- [Gergely Orosz's reading list](https://blog.pragmaticengineer.com/my-reading-list/)
 - [Side Project books](https://books.makesideproject.com/)
 - [Derek Sivers's books read](https://sivers.org/book)
 - [Rahim's books read](https://rakh.im/bookshelf/)
