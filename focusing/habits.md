@@ -4,7 +4,7 @@ I use [Streaks](https://streaksapp.com) iOS app to track my essential life habit
 
 ![](https://i.imgur.com/Ro3KulJ.jpg)
 
-The 6 habits are an essential subset of more general [rules](rules.md) I want to follow in life. They are also displayed in my [Focus board](focusing.md).
+The 6 habits are an essential subset of more general [rules](rules.md) I want to follow in life.
 
 ## Habits described
 

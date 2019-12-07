@@ -37,3 +37,4 @@
 
 - [How to Find Consulting Clients (2019)](https://chrisachard.com/how-to-find-consulting-clients) ([HN](https://news.ycombinator.com/item?id=21473265))
 - [SaaS & Subscription Experts](https://baremetrics.com/experts) - Best consultants, agencies, and specialized services to help you grow.
+- [Ask HN: What mistakes did you make when starting as a consultant/freelancer? (2019)](https://news.ycombinator.com/item?id=21728436)
