@@ -55,3 +55,4 @@
 - [LSTM and QRNN Language Model Toolkit](https://github.com/salesforce/awd-lstm-lm)
 - [cvxpylayers](https://github.com/cvxgrp/cvxpylayers) - Python library for constructing differentiable convex optimization layers in PyTorch and TensorFlow using CVXPY.
 - [Frustum ConvNet](https://github.com/zhixinwang/frustum-convnet) - Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection.
+- [PyTorch Elastic](https://github.com/pytorch/elastic) - Framework that enables distributed training jobs to be executed in a fault tolerant and elastic manner.
