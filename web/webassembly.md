@@ -51,3 +51,4 @@
 - [How to create polyglot HTML/JS/WebAssembly module](https://webassembly-security.com/polyglot-webassembly-module-html-js-wasm/)
 - [Patrick Hamann | WebAssembly – To the browser and beyond (2019)](https://www.youtube.com/watch?v=Z6ZhIA8i_8g) ([Slides](https://noti.st/patrickhamann/uEw4zt/webassembly-to-the-browser-and-beyond))
 - [wasmboy](https://github.com/torch2424/wasmboy) - Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript.
+- [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs#readme)
