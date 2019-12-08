@@ -25,3 +25,4 @@ And I keep the default San Francisco Apple's font for all everything else.
 - [Inter typeface family](https://rsms.me/inter/)
 - [Google Noto Fonts](https://www.google.com/get/noto/)
 - [The sad state of font rendering on Linux (2018)](https://pandasauce.org/post/linux-fonts/)
+- [Fabrizio Schiavi](https://www.fsd.it/) - Multidisciplinary designer with skill in typography.

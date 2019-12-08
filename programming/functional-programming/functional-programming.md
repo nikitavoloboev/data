@@ -49,6 +49,7 @@
 - [Sara Fransson: Functional lenses through a practical lens (2019)](https://www.youtube.com/watch?v=sFzuu676pFs)
 - [Algebraic structures: things i wish someone had explained about functional programming (2019)](https://jrsinclair.com/articles/2019/algebraic-structures-what-i-wish-someone-had-explained-about-functional-programming/) ([HN](https://news.ycombinator.com/item?id=21440932))
 - [MLKit](https://github.com/melsman/mlkit) - Standard ML Compiler and Toolkit.
+- [ICFP 2019 preprints/papers](https://github.com/llelf/icfp2019-papers)
 
 ## Images
 
