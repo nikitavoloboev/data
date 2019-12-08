@@ -62,3 +62,4 @@
 - [Pyflame](https://github.com/uber/pyflame) - Ptracing Profiler For Python.
 - [Classic Computer Science Problems in Python book (2019)](https://www.manning.com/books/classic-computer-science-problems-in-python)
 - [PyInstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables.
+- [Structuring Your Project](https://docs.python-guide.org/writing/structure/) ([HN](https://news.ycombinator.com/item?id=21732821))
