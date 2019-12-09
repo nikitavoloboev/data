@@ -164,6 +164,7 @@
 - [Constellation](https://github.com/constellation-rs/constellation) - Distributed programming for Rust.
 - [ndarray](https://github.com/rust-ndarray/ndarray) - N-dimensional array with array views, multidimensional slicing, and efficient operations.
 - [Evcxr](https://github.com/google/evcxr) - Evaluation context for Rust.
+- [Declarative Dataflow](https://github.com/comnik/declarative-dataflow) - Reactive query engine built on differential dataflow.
 
 ## Cargo Plugins
 

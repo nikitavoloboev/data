@@ -67,3 +67,4 @@
 - [Design Patterns implemented in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 - [Modern Networking in Swift 5 with URLSession, Combine and Codable (2019)](https://www.vadimbulavin.com/modern-networking-in-swift-5-with-urlsession-combine-framework-and-codable/)
 - [Swift Standard Library](https://github.com/apple/swift/tree/master/stdlib)
+- [Pecker](https://github.com/woshiccm/Pecker) - Tool to automatically detect unused code. It based on IndexStoreDB and SwiftSyntax.

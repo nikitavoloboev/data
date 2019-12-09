@@ -13,3 +13,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 
 - [micromark](https://github.com/micromark/micromark) - New, tiny, and fast, markdown parser written in TypeScript.
 - [Mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown IDE.
+- [markdown-wasm](https://github.com/rsms/markdown-wasm) - Markdown parser and HTML generator implemented in WebAssembly.

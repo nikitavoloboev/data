@@ -20,6 +20,8 @@
 - [SWR](https://github.com/zeit/swr) - React Hooks library for remote data fetching.
 - [react-zen](https://github.com/jamesknelson/react-zen) - React utilities for working with APIs.
 - [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
+- [react-hooks-fetch](https://github.com/dai-shi/react-hooks-fetch) - React custom hook for data fetching with Suspense. ([Article](https://blog.axlight.com/posts/developing-a-react-library-for-suspense-for-data-fetching-in-concurrent-mode/))
+- [react-suspense-fetch](https://github.com/dai-shi/react-suspense-fetch) - React Suspense Render-as-You-Fetch pattern for REST APIs.
 
 ## Links
 

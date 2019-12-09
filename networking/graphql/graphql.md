@@ -57,3 +57,4 @@
 - [How to effectively model “errors” in your GraphQL schema (2019)](https://medium.com/@sachee/200-ok-error-handling-in-graphql-7ec869aec9bc)
 - [Using Haskell to build a performant GraphQL to SQL compiler by Tanmai Gopal (2018)](https://www.youtube.com/watch?v=JOaeF-VKrS8)
 - [Статьи и презентации про GraphQL](https://github.com/nodkz/conf-talks)
+- [graphqurl](https://github.com/hasura/graphqurl) - Curl for GraphQL with autocomplete, subscriptions and GraphiQL.
