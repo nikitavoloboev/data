@@ -56,3 +56,4 @@
 - [DataLoader](https://github.com/graphql/dataloader) - Generic utility to be used as part of your application's data fetching layer to provide a simplified and consistent API over various remote data sources such as databases or web services via batching and caching. ([Source code walkthrough](https://www.youtube.com/watch?v=OQTnXNCDywA)) ([Article](https://medium.com/@leeb/dataloader-v2-0-925b4dccf8d6))
 - [How to effectively model “errors” in your GraphQL schema (2019)](https://medium.com/@sachee/200-ok-error-handling-in-graphql-7ec869aec9bc)
 - [Using Haskell to build a performant GraphQL to SQL compiler by Tanmai Gopal (2018)](https://www.youtube.com/watch?v=JOaeF-VKrS8)
+- [Статьи и презентации про GraphQL](https://github.com/nodkz/conf-talks)
