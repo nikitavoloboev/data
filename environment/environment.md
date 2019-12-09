@@ -13,3 +13,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Launch HN: Prometheus (YC W19) – Remove CO2 from Air and Turn It into Gasoline](https://news.ycombinator.com/item?id=19842240)
 - [HN: CO2 in the atmosphere just exceeded 415ppm for the first time in human history (2019)](https://news.ycombinator.com/item?id=19897250)
 - [Nature’s Dangerous Decline ‘Unprecedented’; Species Extinction Rates ‘Accelerating' (2019)](https://www.ipbes.net/news/Media-Release-Global-Assessment)
+- [The Deep Sea](https://neal.fun/deep-sea/)

@@ -115,3 +115,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Writing is Thinking: Learning to Write with Confidence (2019)](https://blog.stephsmith.io/learning-to-write-with-confidence/) ([HN](https://news.ycombinator.com/item?id=21172686))
 - [Cut out everything that’s not surprising (2019)](https://sivers.org/d22)
 - [How to write a technical paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)
+- [Production Guide](https://github.com/RacheltheEditor/ProductionGuide#readme) - Practical explanation of formatting and style conventions that should be consistent across Guides.
