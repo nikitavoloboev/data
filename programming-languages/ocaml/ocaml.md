@@ -24,3 +24,4 @@
 - [MetaOCaml -- an OCaml dialect for multi-stage programming](http://okmij.org/ftp/ML/MetaOCaml.html)
 - [OCaml RFCs](https://github.com/ocaml/RFCs)
 - [GoCaml](https://github.com/rhysd/gocaml) - Subset of OCaml in Go based on MinCaml using LLVM.
+- [Haskell vs OCaml (2019)](https://markkarpov.com/post/haskell-vs-ocaml.html) ([Reddit](https://www.reddit.com/r/ocaml/comments/e7g4nb/haskell_vs_ocaml/))

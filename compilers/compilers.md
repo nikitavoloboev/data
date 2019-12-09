@@ -41,3 +41,4 @@
 - [dino](https://github.com/sunjay/dino) - Compiler / PL Experimentation in Rust.
 - [Advanced Compilers course (2019)](https://www.cs.cornell.edu/courses/cs6120/2019fa/)
 - [GRIN](https://github.com/grin-compiler/grin) - Compiler back-end for lazy and strict functional languages with whole program optimization support. ([Website](https://grin-compiler.github.io/))
+- [Compiler Writing Journey](https://github.com/DoctorWkt/acwj#readme)
