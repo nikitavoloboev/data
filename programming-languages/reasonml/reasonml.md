@@ -43,3 +43,4 @@
 - [Navigating Reason](https://github.com/jordwalke/navigating-reason#readme) - Overview of Reason tooling options for the curious.
 - [Bryan Phelps - Making Windows Development Reasonable (2019)](https://www.youtube.com/watch?v=UDz-IqwAzIs)
 - [Sean Grove - Building Real Systems in Reason (Native) (2019)](https://www.youtube.com/watch?v=Lv2QCq6ZBPs)
+- [Ricky Vetter - Why React is just better in Reason (2019)](https://www.youtube.com/watch?v=i9Kr9wuz24g)

@@ -69,6 +69,7 @@
 - [Blogged Answers: Learning and Using TypeScript as an App Dev and a Library Maintainer (2019)](https://blog.isquaredsoftware.com/2019/11/blogged-answers-learning-and-using-typescript/)
 - [Runtypes](https://github.com/pelotom/runtypes) - Runtime validation for static types.
 - [Stringly and Strongly typed TypeScript (2019)](https://gal.hagever.com/posts/strongly-stringly-types-in-typescript/)
+- [Type Families in Typescript (2019)](https://www.javiercasas.com/articles/typescript-type-families)
 
 ## Images
 

@@ -133,3 +133,4 @@ Go promotes composition over inheritance.
 - [Minigo](https://github.com/DQNEO/minigo) - Small Go compiler made from scratch. It can compile itself. The goal is to be the most easy-to-understand Go compiler.
 - [Writing An Interpreter In Go](https://interpreterbook.com/) ([HN](https://news.ycombinator.com/item?id=21626972))
 - [Source Code for Go In Action](https://github.com/goinaction/code)
+- [garble](https://github.com/mvdan/garble) - Obfuscate Go builds.
