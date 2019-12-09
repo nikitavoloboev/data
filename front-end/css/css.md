@@ -86,3 +86,4 @@
 - [The box model is not layout (2019)](https://kilianvalkhof.com/2019/design/the-box-model-is-not-layout/)
 - [MDN CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 - [Smooth CSS shadows generator](https://brumm.af/shadows)
+- [CSS Layout](https://csslayout.io/) - Collection of popular layouts and patterns made with CSS.
