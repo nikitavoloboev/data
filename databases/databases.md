@@ -76,3 +76,4 @@
 - [What Are Databases? (2019)](https://www.prisma.io/blog/introduction-to-databases-jmt9jwidtc2a)
 - [Advanced Database Systems (2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U) ([Other courses](https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA/playlists))
 - [Facebook Scuba, MongoDB, CockroachDB (CMU Databases Systems lecture) (2019)](https://www.youtube.com/watch?v=XB53N2eIAig)
+- [DB](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line. ([HN](https://news.ycombinator.com/item?id=21742222))

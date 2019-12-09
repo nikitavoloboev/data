@@ -49,6 +49,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Dmitrii Gerasimov](https://beepb00p.xyz/)
 - [Flavio Copes](https://flaviocopes.com/)
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
+- [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
 
 ## Wiki software
