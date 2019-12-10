@@ -75,3 +75,4 @@ I love Git and version control. And I use version control over any project I do.
 - [rug](https://github.com/samrat/rug) - Stripped-down version of Git, implemented in Rust.
 - [Git from Beginner to Advanced](https://www.madebymike.com.au/writing/how-to-git/)
 - [GitUp](https://gitup.co/) - Git client with nice interface.
+- [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
