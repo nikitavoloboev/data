@@ -118,3 +118,4 @@
 - [Taking ML to production with Rust: a 25x speedup (2019)](https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/)
 - [Is It Time to Rewrite the Operating System in Rust?](https://www.infoq.com/presentations/os-rust/)
 - [PingCAP Style Guide](https://pingcap.github.io/style-guide/rust/) - Guide to writing idiomatic code at PingCAP and in the TiKV project.
+- [Declarative UI Patterns in Rust (2019)](https://www.youtube.com/watch?v=xH2x99FTY4k)
