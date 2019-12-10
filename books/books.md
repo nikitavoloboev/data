@@ -133,6 +133,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Some Favorite Non-technical Books of Bjarne Stroustrup](http://www.stroustrup.com/literature.html) ([HN](https://news.ycombinator.com/item?id=21439192))
 - [The 50 Best Nonfiction Books of the Past 25 Years](https://slate.com/human-interest/2019/11/50-best-nonfiction-books.html)
 - [Books Samrat Singh read](https://samrat.me/bookshelf/)
+- [Lobsters: New books worth reading in 2019 ](https://lobste.rs/s/fbdghl/new_books_worth_reading_2019)
+- [Lobsters: Old books worth reading (2019)](https://lobste.rs/s/ro5gef/old_books_worth_reading)
 
 ## Notes
 
