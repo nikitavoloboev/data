@@ -45,3 +45,4 @@
 - [pg-structure](https://github.com/ozum/pg-structure) - Get PostgreSQL database structure as a detailed JS Object.
 - [Odyssey](https://github.com/yandex/odyssey) - Advanced multi-threaded PostgreSQL connection pooler and request router.
 - [PostgreSQL at low level: stay curious! (2019)](https://erthalion.info/2019/12/06/postgresql-stay-curious/)
+- [pgAudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension.

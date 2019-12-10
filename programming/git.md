@@ -74,3 +74,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Awesome Monorepo](https://github.com/korfuri/awesome-monorepo#readme) - Curated list of awesome Monorepo tools, software and architectures.
 - [rug](https://github.com/samrat/rug) - Stripped-down version of Git, implemented in Rust.
 - [Git from Beginner to Advanced](https://www.madebymike.com.au/writing/how-to-git/)
+- [GitUp](https://gitup.co/) - Git client with nice interface.

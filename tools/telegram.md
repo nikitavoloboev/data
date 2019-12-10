@@ -26,3 +26,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [mtg](https://github.com/9seconds/mtg) - Bullshit-free MTPROTO proxy for Telegram.
 - [Minute Hack: Get SSH login notification on Telegram](https://8192.one/post/ssh_login_notification_withtelegram/)
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Complete source code and the build instructions for the alpha version of the official desktop client for the Telegram messenger.
+- [Informer](https://github.com/paulpierre/informer) - Telegram Mass Surveillance Bot in Python. ([HN](https://news.ycombinator.com/item?id=21750353))
