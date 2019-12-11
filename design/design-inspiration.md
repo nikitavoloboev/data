@@ -35,6 +35,7 @@ Here are few more things I liked, design wise.
 - [Joel Hooks](https://joelhooks.com/)
 - [Ryan McGrath](https://rymc.io/)
 - [Paul Stamatiou](https://paulstamatiou.com/)
+- [Evan Jones](https://www.evanjones.ca/)
 - [Lee Robinson](https://leerob.io/) ([Code](https://github.com/leerob/leerob.io))
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))
 - [Brent Jackson](https://jxnblk.com/)

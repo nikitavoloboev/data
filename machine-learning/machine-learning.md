@@ -160,3 +160,4 @@
 - [Tom Augspurger: Scalable Machine Learning with Dask (2019)](https://www.youtube.com/watch?v=we1m4-IsbL8)
 - [2019’s Top Machine and Deep Learning Research Papers](https://heartbeat.fritz.ai/2019s-Gtop-machine-and-deep-learning-research-papers-1ec363f29e85?gi=86d0e6c2ea9f) ([HN](https://news.ycombinator.com/item?id=21743950))
 - [NeurIPS 2019 Schedule](https://nips.cc/Conferences/2019/Schedule)
+- [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google's fast-paced, practical introduction to machine learning.
