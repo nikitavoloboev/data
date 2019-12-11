@@ -243,8 +243,8 @@
 - [encoding](https://github.com/segmentio/encoding) - Go package containing implementations of efficient encoding, decoding, and validation APIs.
 - [go-execute](https://github.com/alexellis/go-execute) - Automate commands with Go.
 - [go-netstat](https://github.com/cakturk/go-netstat) - Netstat implementation written in Go.
+- [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL. ([Article](https://conroy.org/introducing-sqlc))
 
 ## Links
 
 - [Awesome Go](https://github.com/avelino/awesome-go#readme)
-- [Introducing sqlc - Compile SQL queries to type-safe Go (2019)](https://conroy.org/introducing-sqlc)

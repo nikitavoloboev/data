@@ -16,7 +16,7 @@ My always open tabs are:
 2. `Run/Workspace` - I use it as extra tab where I sometimes run a server or something where it makes sense. Bound to `f+s`.
 3. `Karabiner` - Contains my [Karabiner configuration](karabiner/karabiner.md) I edit in neovim. Bound to `f+.`.
 
-There is a workflow [workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions. Although I don't use it due to direct keybinds above.
+There is a [workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions. Although I don't use it due to direct keybinds above.
 
 ![](https://i.imgur.com/a4Iuomp.png)
 
