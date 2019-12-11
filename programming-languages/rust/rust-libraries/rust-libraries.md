@@ -167,6 +167,7 @@
 - [Evcxr](https://github.com/google/evcxr) - Evaluation context for Rust.
 - [Declarative Dataflow](https://github.com/comnik/declarative-dataflow) - Reactive query engine built on differential dataflow.
 - [refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
+- [Juggernaut](https://github.com/afshinm/juggernaut) - Experimental Neural Network written in Rust.
 
 ## Cargo Plugins
 

@@ -14,3 +14,6 @@ If I ever feel down, I can just start writing and just release all these negativ
 
 ![](https://i.imgur.com/ImQFPrY.png)
 
+## Links
+
+- [Susan Fowler's Year In Review: 2019](https://www.susanjfowler.com/blog/2019/12/10/my-year-in-review-2019)

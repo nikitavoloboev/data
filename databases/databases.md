@@ -47,6 +47,7 @@
 - [ksqlDB](https://ksqldb.io/) - Event streaming database purpose-built for stream processing applications. ([HN](https://news.ycombinator.com/item?id=21589670)) ([Code](https://github.com/confluentinc/ksql))
 - [OmniSciDB](https://github.com/omnisci/omniscidb) - Open source SQL-based, relational, columnar database engine that leverages the full performance and parallelism of modern hardware.
 - [Sonnerie](https://github.com/njaard/sonnerie) - Simple timeseries database.
+- [SQLite compiled to JavaScript](https://github.com/kripken/sql.js)
 
 ## Tools
 
