@@ -19,3 +19,4 @@
 - [Next.js Plugins](https://github.com/zeit/next-plugins)
 - [next-urql](https://github.com/FormidableLabs/next-urql) - Set of convenience utilities for using urql with NextJS.
 - [Next.js Apollo TypeScript pre-configured starter with great DX](https://github.com/borisowsky/nextjs-apollo-ts-starter)
+- [Mastering NextJS](https://masteringnextjs.com/) - Premiere video course for building production, server-side rendered applications with Next.js and React.

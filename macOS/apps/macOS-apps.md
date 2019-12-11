@@ -24,6 +24,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 
 - [Finicky](https://github.com/johnste/finicky) - MacOS app for customizing which browser to start.
 - [OpenQuickly](https://github.com/lukakerr/OpenQuickly) - Custom 'open quickly' window that imitates macOS' Spotlight.
+- [Flotato](https://flotato.com/) - Turn any web page into a Mac app.
 
 ## Links
 

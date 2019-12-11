@@ -33,6 +33,9 @@ Here are few more things I liked, design wise.
 
 - [Brandur](https://brandur.org) - Amazingly clean website with an even more [awesome blog](https://brandur.org/interfaces#themware). The TOC and the persistent options on the left are incredible. ([Open Source](https://github.com/brandur/sorg))
 - [Joel Hooks](https://joelhooks.com/)
+- [Ryan McGrath](https://rymc.io/)
+- [Paul Stamatiou](https://paulstamatiou.com/)
+- [Lee Robinson](https://leerob.io/) ([Code](https://github.com/leerob/leerob.io))
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))
 - [Brent Jackson](https://jxnblk.com/)
 - [Mackenzie Child](https://www.mackenziechild.me/)
@@ -177,3 +180,4 @@ Here are few more things I liked, design wise.
 - [Developer Portfolios](https://github.com/emmawedekind/developer-portfolios#readme) - List of developer portfolios for your inspiration.
 - [Tips on building personal portfolio](https://twitter.com/alexmuench/status/1067042440207626240)
 - [Creative Portfolios](https://creative-portfolios.now.sh/) - Curation of the most creative portfolios made by designers & developers.
+- [Ask HN: What are some examples of well-designed personal sites? (2019)](https://news.ycombinator.com/item?id=21737529)

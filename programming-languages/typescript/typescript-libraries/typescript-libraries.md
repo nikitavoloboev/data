@@ -16,6 +16,7 @@
 - [ts-mockito](https://github.com/NagRock/ts-mockito) - Mocking library for TypeScript.
 - [class-validator](https://github.com/typestack/class-validator) - Validation made easy using TypeScript decorators.
 - [List](https://github.com/funkia/list) - Immutable list with unmatched performance and a comprehensive functional API.
+- [Photon](https://github.com/prisma/photonjs) - Type-safe database client for TypeScript & Node.js (ORM replacement).
 
 ## Links
 
