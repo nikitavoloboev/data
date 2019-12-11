@@ -57,3 +57,4 @@
 - [Frustum ConvNet](https://github.com/zhixinwang/frustum-convnet) - Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection.
 - [PyTorch Elastic](https://github.com/pytorch/elastic) - Framework that enables distributed training jobs to be executed in a fault tolerant and elastic manner.
 - [torchgpipe](https://github.com/kakaobrain/torchgpipe) - GPipe implementation in PyTorch.
+- [C++ Implementation of PyTorch Tutorial for Deep Learning Researchers](https://github.com/prabhuomkar/pytorch-cpp)
