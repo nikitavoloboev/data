@@ -120,6 +120,7 @@
 - [ConsoleKit](https://github.com/vapor/console-kit) - APIs for creating interactive CLI tools.
 - [Ink](https://github.com/JohnSundell/Ink) - Fast and flexible Markdown parser written in Swift.
 - [SwiftPlot](https://github.com/KarthikRIyer/swiftplot) - Swift library for Data Visualization.
+- [AsyncHTTPClient](https://github.com/swift-server/async-http-client) - HTTP client library built on SwiftNIO.
 
 ## Links
 

@@ -12,3 +12,4 @@
 - [webhint](https://github.com/webhintio/hint) - Hinting engine for the web.
 - [Latency](https://latency.apex.sh/) - Global latency testing tool.
 - [Ilya Grigorik | performance.now().reject(reasons) (2019)](https://www.youtube.com/watch?v=vtIfVPtN6io)
+- [You Don't Need](https://github.com/you-dont-need/You-Dont-Need.com) - People choose popular projects, often not because it applies to their problems.
