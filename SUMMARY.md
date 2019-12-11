@@ -645,6 +645,7 @@
   - [Virtual assistant](nlp/virtual-assistant.md)
 - [Virtual Reality](virtual-reality/virtual-reality.md)
 - [Augmented Reality](augmented-reality/augmented-reality.md)
+  - [ARKit](augmented-reality/arkit.md)
 - [Neuroscience](neuroscience/neuroscience.md)
   - [Brain Computer Interfaces](neuroscience/brain-computer-interfaces.md)
   - [Cognition](neuroscience/cognition.md)
