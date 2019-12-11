@@ -114,3 +114,4 @@
 - [Cloudflow](https://cloudflow.io/) - Enables you to quickly develop, orchestrate, and operate distributed streaming applications on Kubernetes.
 - [Clusterlint](https://github.com/digitalocean/clusterlint) - Best practices checker for Kubernetes clusters.
 - [An illustrated guide to Kubernetes Networking (2017)](https://itnext.io/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727)
+- [Bank Vaults](https://github.com/banzaicloud/bank-vaults) - Umbrella project which provides various tools for Vault to make using and operating Hashicorp Vault easier.

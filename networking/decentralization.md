@@ -18,3 +18,4 @@
 - [Decentraland Marketplace](https://decentraland.org/) - Fully decentralized and open market where you can discover, buy, sell, and manage your parcels of LAND.
 - [ditCraft](https://ditcraft.io/) - Dit is the decentralized git. Distributed and democratic governance for software projects.
 - [Local-first software: you own your data, in spite of the cloud](https://blog.acolyer.org/2019/11/20/local-first-software/)
+- [Protocols, Not Platforms: A Technological Approach to Free Speech (2019)](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)

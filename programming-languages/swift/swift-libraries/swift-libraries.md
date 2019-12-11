@@ -121,6 +121,8 @@
 - [Ink](https://github.com/JohnSundell/Ink) - Fast and flexible Markdown parser written in Swift.
 - [SwiftPlot](https://github.com/KarthikRIyer/swiftplot) - Swift library for Data Visualization.
 - [AsyncHTTPClient](https://github.com/swift-server/async-http-client) - HTTP client library built on SwiftNIO.
+- [Yaap](https://github.com/hartbit/Yaap) - Yet Another (Swift) Argument Parser.
+- [Puma](https://github.com/pumaswift/Puma) - Set of build utilities to automate mobile application development and deployment.
 
 ## Links
 

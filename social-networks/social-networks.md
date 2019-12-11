@@ -37,3 +37,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Sherlock](https://github.com/sherlock-project/sherlock) - Find usernames across social networks.
 - [Sacha Baron Cohen on what is wrong with social media & ways to fix it (2019)](https://www.youtube.com/watch?v=ymaWq5yZIYM)
 - [Killing my social media addiction (2019)](https://medium.com/@kitze/killing-my-social-media-addiction-df91122c2322)
+- [Jack Dorsey Wants to Decentralize Twitter](https://twitter.com/jack/status/1204766078468911106) ([HN](https://news.ycombinator.com/item?id=21762780))
