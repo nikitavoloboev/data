@@ -2,7 +2,7 @@
 
 ## Chairs
 
-- [Steelcase Gesture](https://www.steelcase.com/products/office-chairs/gesture/) ([Tweet](https://twitter.com/thorstenball/status/1201421308996866048))
+- [Aeron Chair](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/aeron-chairs/)
 
 ## Links
 
