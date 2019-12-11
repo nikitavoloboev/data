@@ -19,3 +19,4 @@
 - [Tulsi](https://github.com/bazelbuild/tulsi) - Xcode Project Generator For Bazel.
 - [xcdiff](https://github.com/bloomberg/xcdiff) - Tool which helps you diff xcodeproj files.
 - [LSUnusedResources](https://github.com/tinymind/LSUnusedResources) - Mac App to find unused images and resources in XCode project.
+- [xcbuildkit](https://github.com/jerrymarino/xcbuildkit) - Framework to extend or replace Xcode's build system. No plugins needed.
