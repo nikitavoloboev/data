@@ -1,5 +1,9 @@
 # [Rust](https://www.rust-lang.org/en-US/)
 
+## Notes
+
+- [Note that `cargo check` is faster than doing a full compile. Also I use the `rust-analyzer` language server for IDE integration to catch errors as I write them. Between the two, my workflow usually avoids the need for actually compiling a binary until I'm ready to run tests.](https://news.ycombinator.com/item?id=21759255)
+
 ## Links
 
 - [Idiomatic rust](https://github.com/mre/idiomatic-rust)

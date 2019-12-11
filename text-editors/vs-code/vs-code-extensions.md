@@ -26,6 +26,7 @@ Below is a list of extensions I use.
 
 ## Rust
 
+- [Rust Analyzer](https://github.com/rust-analyzer/rust-analyzer) - Experimental Rust compiler front-end for IDEs.
 - [Crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates) - Helps Rust developers managing dependencies with Cargo.toml. Only works with dependencies from crates.io.
 - [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) - Native debugger based on LLDB.
 
@@ -192,7 +193,6 @@ Below is a list of extensions I use.
 
 ## Rust
 
-- [Rust Analyzer](https://github.com/rust-analyzer/rust-analyzer) - Experimental Rust compiler front-end for IDEs.
 - [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Adds language support for Rust.
 
 ## Lua
