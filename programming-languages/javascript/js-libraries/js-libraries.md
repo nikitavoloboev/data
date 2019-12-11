@@ -124,3 +124,4 @@
 - [renature](https://github.com/FormidableLabs/renature) - Physics-based animation library for React focused on modeling natural world forces.
 - [Morphism](https://github.com/nobrainr/morphism) - Do not repeat anymore your objects transformations.
 - [Tonic](https://github.com/optoolco/tonic) - Stable, Minimal, Auditable, Build-Tool-Free, Low Profile Component Framework.
+- [Quiet.js](https://github.com/quiet/quiet-js) - Transmit data with sound using Web Audio -- Javascript binding for libquiet.

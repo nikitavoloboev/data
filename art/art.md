@@ -74,6 +74,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Phil Dragash](https://www.phildragash.com/)
 - [Ivan Aivazovsky](https://www.wikiart.org/en/ivan-aivazovsky)
 - [Reuben Wu](https://www.instagram.com/itsreuben/)
+- [6vcr](http://6vcr.com/portfolio)
 
 ## Interesting art
 

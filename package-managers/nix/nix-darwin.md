@@ -14,4 +14,4 @@ There is [nix-darwin](https://github.com/LnL7/nix-darwin#readme) project that br
 - [Neat macOS nix Darwin config.nix](https://github.com/LnL7/nix-darwin/blob/master/modules/examples/lnl.nix)
 - [Changing the configuration.nix location](https://github.com/LnL7/nix-darwin/wiki/Changing-the-configuration.nix-location)
 - [Moving from Homebrew to Nix Package Manager (2019)](https://www.softinio.com/post/moving-from-homebrew-to-nix-package-manager/)
-- [Nix on Catalina installer](https://static.domenkozar.com/install-catalina) ([GitHub PR](https://github.com/NixOS/nix/pull/3212))
+- [Nix on Catalina installer](https://static.domenkozar.com/install-catalina) ([GitHub PR](https://github.com/NixOS/nix/pull/3212)) ([Another Gist solution](https://gist.github.com/rabbitonweb/7a12d61294669f0958ebcf1eac347304))
