@@ -12,3 +12,4 @@
 - [Marginalia by Darran Anderson](https://www.patreon.com/oniropolis) - Notes from the edge of architecture.
 - [Monograph](https://monograph.io/) - Project Management Software. For Architects & Engineers.
 - [In Residence: Alex Michaelis (2016)](https://www.youtube.com/watch?v=ziZ_tTvtk1k)
+- [Interiors by Shanghai Hip-pop Architectural Decoration Design Co](http://www.hippop-sh.cn/)

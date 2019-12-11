@@ -20,3 +20,4 @@
 - [LLVM for Grad Students (2015)](https://www.cs.cornell.edu/~asampson/blog/llvm.html)
 - [Quala](https://github.com/sampsyo/quala) - Type Qualifiers for LLVM/Clang.
 - [haybale](https://github.com/PLSysSec/haybale) - Symbolic execution of LLVM IR, written in Rust.
+- [2019 EuroLLVM Developers’ Meeting: V. Bridgers & F. Piovezan “LLVM IR Tutorial - Phis, GEPs ...”](https://www.youtube.com/watch?v=m8G_S5LwlTo)
