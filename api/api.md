@@ -8,7 +8,7 @@
 - [Hacker News](https://github.com/HackerNews/API)
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
 - [Twython](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.
-- [](harxiv-graphqlttps://github.com/prabhuomkar/arxiv-graphql) - GraphQL API for arXiv: e-print service by Cornell University.
+- [arxiv-graphql](https://github.com/prabhuomkar/arxiv-graphql) - GraphQL API for arXiv: e-print service by Cornell University.
 
 ## Links
 
