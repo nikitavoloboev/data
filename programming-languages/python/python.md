@@ -63,3 +63,4 @@
 - [Classic Computer Science Problems in Python book (2019)](https://www.manning.com/books/classic-computer-science-problems-in-python)
 - [PyInstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables.
 - [Structuring Your Project](https://docs.python-guide.org/writing/structure/) ([HN](https://news.ycombinator.com/item?id=21732821))
+- [Pympler](https://github.com/pympler/pympler) - Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.

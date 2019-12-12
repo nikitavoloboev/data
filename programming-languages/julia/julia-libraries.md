@@ -42,6 +42,7 @@
 - [GLM](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia.
 - [Distributions.jl](https://github.com/JuliaStats/Distributions.jl) - Julia package for probability distributions and associated functions.
 - [Turing.jl](https://github.com/TuringLang/Turing.jl) - Turing language for probabilistic machine learning and Bayesian statistics.
+- [Pretty Tables](https://github.com/ronisbr/PrettyTables.jl) - Print data in matrices in a human-readable format.
 
 ## Links
 
