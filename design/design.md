@@ -50,3 +50,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Designing remotely at Doist](https://docs.google.com/presentation/d/1x-7E9sleXjyXzHxgjRn_q6LyalCUxTFsxIHcaiyv73s/edit#slide=id.p)
 - [SuperCreative](https://supercreative.design/) - Collaborate with super freelance designers.
 - [Motion Design course](https://www.learnsquared.com/courses/motion-design)
+- [Creating a brand to serve](https://medium.com/rekkiapp/creating-a-brand-to-serve-1b7fc84c55fa) - The story of REKKI and the design of our brand.

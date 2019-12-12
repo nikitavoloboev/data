@@ -26,3 +26,4 @@
 - [docker-gen](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data.
 - [Intro Guide to Dockerfile Best Practices (2019)](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/) ([HN](https://news.ycombinator.com/item?id=20381388))
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics.
+- [DockerSlim](https://github.com/docker-slim/docker-slim) - Minify and Secure Docker containers.
