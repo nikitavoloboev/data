@@ -2,7 +2,11 @@
 
 ## Chairs
 
-- [Aeron Chair](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/aeron-chairs/)
+- [Aeron](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/aeron-chairs/)
+
+## Standing desks
+
+- [Jarvis](https://www.fully.eu/products/jarvis-adjustable-standing-desk-bamboo)
 
 ## Links
 

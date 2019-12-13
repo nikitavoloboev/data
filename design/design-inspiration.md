@@ -37,6 +37,7 @@ Here are few more things I liked, design wise.
 - [Paul Stamatiou](https://paulstamatiou.com/)
 - [Evan Jones](https://www.evanjones.ca/)
 - [Lee Robinson](https://leerob.io/) ([Code](https://github.com/leerob/leerob.io))
+- [Rickard Laurin](https://willcodefor.beer)
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))
 - [Brent Jackson](https://jxnblk.com/)
 - [Mackenzie Child](https://www.mackenziechild.me/)

@@ -107,3 +107,4 @@
 - [JavaScript Visualized: Scope (Chain) (2019)](https://dev.to/lydiahallie/javascript-visualized-scope-chain-13pd)
 - [JavaScript Visualized: Hoisting (2019)](https://dev.to/lydiahallie/javascript-visualized-hoisting-478h)
 - [Fuzzilli](https://github.com/googleprojectzero/fuzzilli) - JavaScript Engine Fuzzer.
+- [Deep JavaScript: Theory and techniques (2019)](https://exploringjs.com/deep-js/)

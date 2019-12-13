@@ -168,6 +168,10 @@
 - [Declarative Dataflow](https://github.com/comnik/declarative-dataflow) - Reactive query engine built on differential dataflow.
 - [refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
 - [Juggernaut](https://github.com/afshinm/juggernaut) - Experimental Neural Network written in Rust.
+- [Riker](https://github.com/riker-rs/riker) - Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust.
+- [bitvec](https://github.com/myrrlyn/bitvec) - Crate for managing memory bit by bit.
+- [rust-cpython](https://github.com/dgrunwald/rust-cpython) - Rust <-> Python bindings.
+- [Vicuna](https://github.com/PocketDerm/vicuna) - AWS Lambdas in Rust made simple.
 
 ## Cargo Plugins
 

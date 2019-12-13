@@ -244,6 +244,9 @@
 - [go-execute](https://github.com/alexellis/go-execute) - Automate commands with Go.
 - [go-netstat](https://github.com/cakturk/go-netstat) - Netstat implementation written in Go.
 - [sqlc](https://github.com/kyleconroy/sqlc) - Generate type safe Go from SQL. ([Article](https://conroy.org/introducing-sqlc))
+- [Go-Readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability.
+- [netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
+- [desync](https://github.com/folbricht/desync) - Alternative casync implementation.
 
 ## Links
 
