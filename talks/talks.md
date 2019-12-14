@@ -45,3 +45,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Ask HN: What are some resources to improve speaking skills? (2019)](https://news.ycombinator.com/item?id=21410579)
 - [Tips for public speaking](https://speaking.io/)
 - [How to quickly create a talk from scratch](https://twitter.com/mxstbr/status/1201186612203466752)
+- [Speaking At Technical Conferences](https://dev.to/emmawedekind/speaking-at-technical-conferences-1kkk)
