@@ -247,6 +247,7 @@
 - [Go-Readability](https://github.com/go-shiori/go-readability) - Go package that cleans a HTML page for better readability.
 - [netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [desync](https://github.com/folbricht/desync) - Alternative casync implementation.
+- [errors](https://github.com/pkg/errors) - Simple error handling primitives.
 
 ## Links
 

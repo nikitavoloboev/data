@@ -37,3 +37,4 @@
 - [GitHub Actions for Rust language](https://github.com/actions-rs/meta)
 - [Set up your GitHub Actions workflow with a specific version of node.js](https://github.com/actions/setup-node)
 - [An Unintentionally Comprehensive Introduction to GitHub Actions CI (2019)](https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm)
+- [Hello, GitHub Actions!](https://lab.github.com/github/hello-github-actions!)

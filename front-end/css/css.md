@@ -87,3 +87,4 @@
 - [MDN CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 - [Smooth CSS shadows generator](https://brumm.af/shadows)
 - [CSS Layout](https://csslayout.io/) - Collection of popular layouts and patterns made with CSS.
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips#readme) - Collection of tips to help take your CSS skills pro.
