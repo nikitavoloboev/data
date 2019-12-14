@@ -52,6 +52,7 @@
 - [react-day-picker](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
 - [react-a11y-dialog](https://github.com/HugoGiraudel/react-a11y-dialog) - React component for a11y-dialog relying on React portals to ease the use of accessible dialog windows in React applications.
 - [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - Renders highlighted Prism output to React (+ theming & vendored Prism).
+- [Naph](https://github.com/williamluke4/Naph) - React Component for rendering Node Graphs.
 
 ## Links
 

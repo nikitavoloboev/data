@@ -23,3 +23,4 @@
 - [Kadi Kraman - Security And Authentication In React Native (2019)](https://www.youtube.com/watch?v=KqbiRuyi1ck)
 - [Kitten Tricks](https://github.com/akveo/kittenTricks) - Starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
 - [Nars](https://github.com/nars-dev/nars) - Server rendered React Native.
+- [react-native-dark-mode](https://github.com/codemotionapps/react-native-dark-mode) - Detect dark mode in React Native.
