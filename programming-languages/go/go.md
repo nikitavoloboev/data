@@ -135,3 +135,4 @@ Go promotes composition over inheritance.
 - [Source Code for Go In Action](https://github.com/goinaction/code)
 - [garble](https://github.com/mvdan/garble) - Obfuscate Go builds.
 - [Using Makefile(s) for Go (2019)](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
+- [The Go runtime scheduler's clever way of dealing with system calls (2019)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoSchedulerAndSyscalls) ([HN](https://news.ycombinator.com/item?id=21736342))

@@ -135,6 +135,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Books Samrat Singh read](https://samrat.me/bookshelf/)
 - [Lobsters: New books worth reading in 2019 ](https://lobste.rs/s/fbdghl/new_books_worth_reading_2019)
 - [Lobsters: Old books worth reading (2019)](https://lobste.rs/s/ro5gef/old_books_worth_reading)
+- [Ask HN: Books you plan to read in 2020?](https://news.ycombinator.com/item?id=21802452)
 
 ## Notes
 

@@ -103,6 +103,7 @@
 - [The Holloway Syllabus on Finding a Co-Founder](https://www.holloway.com/s/syllabus-finding-cofounder)
 - [How big companies got their first users](https://earlyusergrowth.com/startups/)
 - [Operations and Internal Communication Strategies For Effective CEOs (2019)](https://www.sametab.com/blog/operations-and-internal-communication-strategies-for-effective-ceos) ([HN](https://news.ycombinator.com/item?id=21742739))
+- [Knowing how to code is a trap (2019)](https://bramkanstein.com/codertrap/)
 
 ## Images
 
