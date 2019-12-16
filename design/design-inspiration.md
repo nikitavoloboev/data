@@ -34,6 +34,7 @@ Here are few more things I liked, design wise.
 - [Brandur](https://brandur.org) - Amazingly clean website with an even more [awesome blog](https://brandur.org/interfaces#themware). The TOC and the persistent options on the left are incredible. ([Open Source](https://github.com/brandur/sorg))
 - [Joel Hooks](https://joelhooks.com/)
 - [Brian Lovin](https://brianlovin.com/)
+- [Alain](https://alain.xyz/)
 - [Ryan McGrath](https://rymc.io/)
 - [Paul Stamatiou](https://paulstamatiou.com/)
 - [Evan Jones](https://www.evanjones.ca/)

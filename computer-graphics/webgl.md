@@ -8,3 +8,4 @@
 - [Sketches by Avin Grape](https://avin.github.io/sketches/)
 - [OGL](https://github.com/oframe/ogl) - Minimal WebGL framework.
 - [glas](https://github.com/infamous/glas) - WebGL in WebAssembly with AssemblyScript.
+- [Raw WebGL](https://alain.xyz/blog/raw-webgl) - Overview on how to write a WebGL application. Learn what key data structures and types are needed to draw in WebGL.
