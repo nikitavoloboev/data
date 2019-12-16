@@ -19,3 +19,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [For the Love of Pipes (2019)](https://blog.jessfraz.com/post/for-the-love-of-pipes/) ([HN](https://news.ycombinator.com/item?id=18967249))
 - [VCF East 2019 -- Brian Kernighan interviews Ken Thompson (2019)](https://www.youtube.com/watch?time_continue=3&v=EY6q5dv_B-o)
 - [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
+- [How Unix Works: Become a Better Software Engineer (2019)](https://neilkakkar.com/unix.html)
