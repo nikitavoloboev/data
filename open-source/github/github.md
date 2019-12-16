@@ -61,3 +61,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Contribution Chart Generator](https://github.com/sallar/github-contributions-chart)
 - [Awesome GitHub](https://github.com/phillipadsmith/awesome-github#readme)
 - [Repl from Repo](https://repl.it/site/blog/github) ([HN](https://news.ycombinator.com/item?id=21765872))
+- [github-cli](https://github.com/twpayne/github-cli) - Minimal CLI for making GitHub API calls.

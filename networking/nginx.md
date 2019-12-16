@@ -10,3 +10,4 @@
 - [Nginx configuration generator](https://github.com/valentinxxx/nginxconfig.io)
 - [Nginx Quick Reference](https://github.com/trimstray/nginx-quick-reference) ([HN](https://news.ycombinator.com/item?id=19112090)) - Notes describes how to improve Nginx performance, security and other important things.
 - [Alphabetical index of nginx directives](http://nginx.org/en/docs/dirindex.html)
+- [Nginx source code](https://github.com/nginx/nginx)

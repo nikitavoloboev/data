@@ -249,6 +249,9 @@
 - [desync](https://github.com/folbricht/desync) - Alternative casync implementation.
 - [errors](https://github.com/pkg/errors) - Simple error handling primitives.
 - [logr](https://github.com/go-logr/logr) - Simple logging interface for Go.
+- [Colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang.
+- [cron](https://github.com/robfig/cron) - Cron library for go.
+- [INI](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go.
 
 ## Links
 

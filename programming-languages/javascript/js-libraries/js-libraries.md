@@ -127,3 +127,5 @@
 - [Quiet.js](https://github.com/quiet/quiet-js) - Transmit data with sound using Web Audio -- Javascript binding for libquiet.
 - [Bindery](https://github.com/evnbr/bindery) - Library for designing printable books with HTML and CSS.
 - [Wretch](https://github.com/elbywan/wretch) - Tiny wrapper built around fetch with an intuitive syntax.
+- [Virt.js](https://github.com/arcanis/virtjs) - Free collection of useful standard devices, that can be used to power various engine that makes use of the exposed interfaces.
+- [Path-to-RegExp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as /user/:name into a regular expression.

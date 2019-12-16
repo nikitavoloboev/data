@@ -46,3 +46,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. And 
 - [Who can share strategies about how you optimize the positive impact of your diet on your microbiome (and thus your health)? (2019)](https://www.reddit.com/r/nutrition/comments/dhq295/who_can_share_strategies_about_how_you_optimize/)
 - [What makes a food "inflammatory" and what foods cause systemic inflammation?](https://www.reddit.com/r/nutrition/comments/diw5r9/what_makes_a_food_inflammatory_and_what_foods/)
 - [Grim Grains Nutrition guide](https://grimgrains.com/#nutrition)
+- [Ask HN: Which is the best book on nutrition? (2019)](https://news.ycombinator.com/item?id=21800737)

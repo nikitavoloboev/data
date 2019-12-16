@@ -19,3 +19,4 @@
 - [HTML isn’t done! (Chrome Dev Summit 2019)](https://www.youtube.com/watch?v=ZFvPLrKZywA)
 - [A History of HTML Parsing at Cloudflare (2019)](https://blog.cloudflare.com/html-parsing-1/)
 - [html-tags](https://github.com/sindresorhus/html-tags) - List of standard HTML tags.
+- [hast](https://github.com/syntax-tree/hast) - Hypertext Abstract Syntax Tree format.

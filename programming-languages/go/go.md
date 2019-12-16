@@ -134,3 +134,4 @@ Go promotes composition over inheritance.
 - [Writing An Interpreter In Go](https://interpreterbook.com/) ([HN](https://news.ycombinator.com/item?id=21626972))
 - [Source Code for Go In Action](https://github.com/goinaction/code)
 - [garble](https://github.com/mvdan/garble) - Obfuscate Go builds.
+- [Using Makefile(s) for Go (2019)](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)

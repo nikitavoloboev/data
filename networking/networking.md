@@ -52,3 +52,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Neebula](https://github.com/slackhq/nebula) - Scalable overlay networking tool with a focus on performance, simplicity and security. It lets you seamlessly connect computers anywhere in the world.
 - [gost](https://github.com/ginuerzh/gost) - Simple tunnel written in golang.
 - [Braid](https://braid.news/) - Effort to incorporate new distributed technologies into the existing World-Wide Web.
+- [Implementation of CoAP in go](https://github.com/dustin/go-coap)

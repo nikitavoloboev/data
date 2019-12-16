@@ -78,3 +78,5 @@
 - [Nix flakes (2019)](https://www.youtube.com/watch?v=UeBX7Ide5a0)
 - [Nix: How and Why it Works (2019)](https://www.youtube.com/watch?v=lxtHH838yko)
 - [Nix recipes for Haskellers](https://www.srid.ca/haskell-nix.html)
+- [format-nix](https://github.com/justinwoo/format-nix) - Simple formatter for Nix using tree-sitter-nix.
+- [go-nix](https://github.com/orivej/go-nix) - Nix language parser and Nix-compatible file hasher in Go.

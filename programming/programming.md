@@ -103,3 +103,4 @@
 - [Developer Roadmaps](https://roadmap.sh/) - Community driven roadmaps, articles and resources for developers. ([HN](https://news.ycombinator.com/item?id=21591441)) ([Code](https://github.com/kamranahmedse/roadmap.sh))
 - [Inversion of Control (2019)](https://kentcdodds.com/blog/inversion-of-control)
 - [On porting code (2019)](https://samrat.me/posts/2019-11-26-porting-code/)
+- [Challenging projects every programmer should try (2019)](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)

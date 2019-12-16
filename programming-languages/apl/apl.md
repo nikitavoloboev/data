@@ -8,3 +8,4 @@
 - [My Life with Array Languages (2005)](http://webdocs.cs.ualberta.ca/~smillie/Jpage/MyLife.pdf)
 - [Lessons from APL, a “lost” language (2014)](https://blog.benjojo.co.uk/post/2014-05-26-APL-the-lost-language.md)
 - [Beating C with Dyalog APL: wc](https://ummaycoc.github.io/wc.apl/)
+- [APL and J (2015)](https://crypto.stanford.edu/~blynn/c/apl.html) ([HN](https://news.ycombinator.com/item?id=21792763))
