@@ -25,3 +25,4 @@
 - [Tensors Fitting Perfectly](https://github.com/google-research/swift-tfp) - Invokes Swift compiler to lower your Swift code down to SIL (Swift intermediate representation), and use it to scan your code for assertions that pertain to shapes of tensors.
 - [Swift for TensorFlow](https://github.com/tensorflow/swift) - Next-generation platform for machine learning, incorporating the latest research across machine learning, compilers, differentiable programming, systems design, and beyond.
 - [Graph Nets](https://github.com/deepmind/graph_nets) - DeepMind's library for building graph networks in Tensorflow and Sonnet.
+- [tract](https://github.com/snipsco/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference.

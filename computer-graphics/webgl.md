@@ -7,3 +7,4 @@
 - [Love Cube](https://avin.github.io/sketches/086_love_cube.html)
 - [Sketches by Avin Grape](https://avin.github.io/sketches/)
 - [OGL](https://github.com/oframe/ogl) - Minimal WebGL framework.
+- [glas](https://github.com/infamous/glas) - WebGL in WebAssembly with AssemblyScript.

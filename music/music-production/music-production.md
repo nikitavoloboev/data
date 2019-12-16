@@ -8,6 +8,7 @@
 - [Sonic Pi](https://github.com/samaaron/sonic-pi)
 - [FlowKey](https://www.flowkey.com) - Learn Piano with songs you love.
 - [Orca](https://github.com/hundredrabbits/Orca) - Live Programming Environment. Each letter of the alphabet is an operation.
+- [Glitch](https://github.com/naivesound/glitch) - Minimal algorithmic music composer and synthesizer.
 
 ## Inspiration
 

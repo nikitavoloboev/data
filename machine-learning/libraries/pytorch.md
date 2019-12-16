@@ -58,3 +58,5 @@
 - [PyTorch Elastic](https://github.com/pytorch/elastic) - Framework that enables distributed training jobs to be executed in a fault tolerant and elastic manner.
 - [torchgpipe](https://github.com/kakaobrain/torchgpipe) - GPipe implementation in PyTorch.
 - [C++ Implementation of PyTorch Tutorial for Deep Learning Researchers](https://github.com/prabhuomkar/pytorch-cpp)
+- [Neural Painters: A learned differentiable constraint for generating brushstroke paintings](https://github.com/reiinakano/neural-painters-pytorch)
+- [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch.

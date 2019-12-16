@@ -18,6 +18,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [OpenMW](https://github.com/OpenMW/openmw) - Open-source open-world RPG game engine that supports playing Morrowind.
 - [OpenDiablo2](https://github.com/OpenDiablo2/OpenDiablo2) - Open source re-implementation of Diablo 2.
 - [Pioneer](https://github.com/pioneerspacesim/pioneer) - Game of lonely space adventure.
+- [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine.
 
 ## Recommendations
 

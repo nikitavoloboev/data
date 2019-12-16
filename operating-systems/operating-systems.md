@@ -12,6 +12,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Toddler](https://github.com/zhengruohuang/toddler) - Well-designed usable and portable microkernel OS.
 - [OS67](https://github.com/SilverRainZ/OS67) - Unix-like toy kernel.
 - [Serenity](https://github.com/awesomekling/serenity) - X86 Unix-like operating system for IBM PC-compatibles.
+- [Resea](https://github.com/seiyanuta/resea) - Pure microkernel-based hackable operating system written from scratch in C and Rust.
 
 ## Links
 

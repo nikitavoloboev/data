@@ -22,6 +22,7 @@
 - [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
 - [react-hooks-fetch](https://github.com/dai-shi/react-hooks-fetch) - React custom hook for data fetching with Suspense. ([Article](https://blog.axlight.com/posts/developing-a-react-library-for-suspense-for-data-fetching-in-concurrent-mode/))
 - [react-suspense-fetch](https://github.com/dai-shi/react-suspense-fetch) - React Suspense Render-as-You-Fetch pattern for REST APIs.
+- [useDebounce](https://github.com/xnimorz/use-debounce) - Debounce hook for react.
 
 ## Links
 

@@ -59,3 +59,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [Linux Systems Performance (2019)](https://www.usenix.org/conference/lisa19/presentation/gregg-linux) ([Lobsters](https://lobste.rs/s/udnu1m/linux_systems_performance))
 - [fscrypt](https://github.com/google/fscrypt) - Go tool for managing Linux filesystem encryption.
 - [Your Linux Toolbox: a box set of my free zines (2019)](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
+- [rustysd](https://github.com/KillingSpark/rustysd) - Minimal drop-in for (a subset of) the systemd init system in rust.

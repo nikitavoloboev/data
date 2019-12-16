@@ -248,6 +248,7 @@
 - [netlink](https://github.com/vishvananda/netlink) - Simple netlink library for go.
 - [desync](https://github.com/folbricht/desync) - Alternative casync implementation.
 - [errors](https://github.com/pkg/errors) - Simple error handling primitives.
+- [logr](https://github.com/go-logr/logr) - Simple logging interface for Go.
 
 ## Links
 

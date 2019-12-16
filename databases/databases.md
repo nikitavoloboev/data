@@ -48,6 +48,7 @@
 - [OmniSciDB](https://github.com/omnisci/omniscidb) - Open source SQL-based, relational, columnar database engine that leverages the full performance and parallelism of modern hardware.
 - [Sonnerie](https://github.com/njaard/sonnerie) - Simple timeseries database.
 - [SQLite compiled to JavaScript](https://github.com/kripken/sql.js)
+- [Dolt](https://github.com/liquidata-inc/dolt) - Relational database, i.e. it has tables, and you can execute SQL queries against those tables. It also has version control primitives that operate at the level of table cell.
 
 ## Tools
 

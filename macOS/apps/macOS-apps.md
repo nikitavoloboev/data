@@ -19,6 +19,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas) - MacOS/iOS apps to treat ideas as links of concepts.
 - [HotKey](https://github.com/soffes/HotKey) - Simple global shortcuts in macOS.
 - [Latest](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+- [Hidden Bar](https://github.com/dwarvesf/hidden) - Ultra-light MacOS utility that helps hide menu bar icons. ([HN](https://news.ycombinator.com/item?id=21794858))
 
 ## Other interesting apps
 

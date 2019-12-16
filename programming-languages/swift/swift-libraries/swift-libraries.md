@@ -124,6 +124,8 @@
 - [Yaap](https://github.com/hartbit/Yaap) - Yet Another (Swift) Argument Parser.
 - [Puma](https://github.com/pumaswift/Puma) - Set of build utilities to automate mobile application development and deployment.
 - [Disk](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
+- [VectorMath](https://github.com/nicklockwood/VectorMath) - Swift library for Mac and iOS that implements common 2D and 3D vector and matrix functions, useful for games or vector-based graphics.
+- [Alley](https://github.com/radianttap/Alley) - Essential `URLSessionDataTask` micro-wrapper for communication with HTTP(S) web services, with built-in automatic request retries.
 
 ## Links
 

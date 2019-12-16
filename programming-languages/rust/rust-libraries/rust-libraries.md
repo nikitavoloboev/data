@@ -57,6 +57,10 @@
 - [Rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust.
 - [librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library.
 
+## Crypto
+
+- [zksnark-rs](https://github.com/republicprotocol/zksnark-rs) - Zero knowledge succinct arguments of knowledge, written in Rust.
+
 ## Other
 
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser.
