@@ -10,3 +10,4 @@
 - [Grakn KGLIB (Knowledge Graph Library)](https://github.com/graknlabs/kglib)
 - [Grakn Example Projects and Tutorials](https://github.com/graknlabs/examples)
 - [Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering (2019)](https://arxiv.org/abs/1911.10470)
+- [Knowledge Graphs - How do you build your own? (2019)](https://www.reddit.com/r/MachineLearning/comments/bd4zrl/d_knowledge_graphs_how_do_you_build_your_own/)
