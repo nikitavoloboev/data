@@ -582,7 +582,6 @@
 - [Streaming](streaming/streaming.md)
 - [Talks](talks/talks.md)
   - [Presentations](talks/presentations.md)
-  - [Talk notes](talks/talk-notes.md)
 - [Analytics](analytics/analytics.md)
 - [Databases](databases/databases.md)
   - [PostgreSQL](databases/postgresql.md)
