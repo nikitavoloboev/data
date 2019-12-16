@@ -60,3 +60,4 @@
 - [graphqurl](https://github.com/hasura/graphqurl) - Curl for GraphQL with autocomplete, subscriptions and GraphiQL.
 - [Graphile Starter](https://github.com/graphile/starter) - Opinionated quick-start with pre-built user account system for full-stack application development in React, Node.js, GraphQL and PostgreSQL.
 - [Super Graph](https://github.com/dosco/super-graph) - Build web products faster. Secure high performance GraphQL.
+- [Designing GraphQL Schemas (2019)](https://egghead.io/courses/designing-graphql-schemas-99db)

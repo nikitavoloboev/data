@@ -50,3 +50,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Self-Study Plan for Becoming a Quantitative Developer](https://www.quantstart.com/articles/Self-Study-Plan-for-Becoming-a-Quantitative-Developer)
 - [QuantLib](https://github.com/lballabio/QuantLib) - Free/open-source C++ library for quantitative finance.
 - [Quadratic Payments: A Primer (2019)](https://vitalik.ca/general/2019/12/07/quadratic.html) ([HN](https://news.ycombinator.com/item?id=21737237))
+- [A Primer on Investing for Designers and Developers (2019)](https://brianlovin.com/overthought/investing-for-designers-and-developers)

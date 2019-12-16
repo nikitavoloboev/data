@@ -181,6 +181,10 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 
 - [Apparat dans Passengers (Full Show HiRes) - ARTE Concert](https://www.youtube.com/watch?v=NOol5V4Tlk8)
 
+## Mixes
+
+- [Nils Frahm xmas mix 2019](https://www.mixcloud.com/nilsoliver5/nils-frahm-xmas-mix-2019/)
+
 ## Check out
 
 - Patrick Watson
