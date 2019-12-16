@@ -105,3 +105,4 @@
 - [Boring Haskell Manifesto (2019)](https://www.snoyman.com/blog/2019/11/boring-haskell-manifesto)
 - [HaskellR](https://github.com/tweag/HaskellR) - Full power of R in Haskell.
 - [A List of Haskell Articles on good design, good testing](https://www.onikudaki.net/blog/wp-content/uploads/2019/12/HaskellArticles-1.pdf)
+- [Is Haskell the functional end station or are there heavier drugs? (2019)](https://www.reddit.com/r/haskell/comments/e021oe/is_haskell_the_functional_end_station_or_are/)

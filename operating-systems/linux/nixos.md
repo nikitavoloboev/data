@@ -51,3 +51,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Arion](https://github.com/hercules-ci/arion) - Run docker-compose with help from Nix/NixOS.
 - [Morph](https://github.com/DBCDK/morph) - Tool for managing existing NixOS hosts.
 - [Mobile NixOS](https://github.com/samueldr/mobile-nixos) - Goal is to get a nix-built operating system, preferably NixOS running on mobile devices, e.g. Android phones.
+- [Anyone using NixOS as main destkop (2019)](https://www.reddit.com/r/NixOS/comments/eb5nxv/anyone_using_nixos_as_main_destkop/)
