@@ -136,3 +136,4 @@ Go promotes composition over inheritance.
 - [garble](https://github.com/mvdan/garble) - Obfuscate Go builds.
 - [Using Makefile(s) for Go (2019)](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 - [The Go runtime scheduler's clever way of dealing with system calls (2019)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoSchedulerAndSyscalls) ([HN](https://news.ycombinator.com/item?id=21736342))
+- [Go Things I Love: Methods On Any Type (2019)](https://www.justindfuller.com/posts/2019-12-14_Go-Things-I-Love-Methods-On-Any-Type) ([Reddit](https://www.reddit.com/r/golang/comments/eaqnyh/go_things_i_love_methods_on_any_type/))
