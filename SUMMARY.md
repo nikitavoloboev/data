@@ -196,6 +196,7 @@
         - [React Native](programming-languages/javascript/js-libraries/react/react-native.md)
         - [React Server Side Rendering](programming-languages/javascript/js-libraries/react/react-ssr.md)
         - [Gatsby JS](programming-languages/javascript/js-libraries/react/gatsby.md)
+        - [Expo](programming-languages/javascript/js-libraries/react/expo.md)
         - [MDX](programming-languages/javascript/js-libraries/react/mdx.md)
       - [ESLint](programming-languages/javascript/eslint.md)
       - [Jest](programming-languages/javascript/js-libraries/jest.md)
