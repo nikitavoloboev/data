@@ -10,3 +10,4 @@
 - [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server.
 - [PowerDNS](https://github.com/PowerDNS/pdns) - Sources for the PowerDNS Recursor, the PowerDNS Authoritative Server, and dnsdist (a powerful DNS loadbalancer).
 - [Hello, and welcome to DNS!](https://github.com/ahupowerdns/hello-dns) - Attempts to provide a correct introduction to the Domain Name System as of 2018.
+- [A Cat Explains DNS (2017)](https://www.youtube.com/watch?v=4ZtFk2dtqv0)

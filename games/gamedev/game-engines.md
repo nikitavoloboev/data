@@ -13,6 +13,7 @@
 - [nphysics](https://github.com/rustsim/nphysics) - 2 and 3-dimensional rigid body physics engine for Rust.
 - [Piston](https://github.com/PistonDevelopers/piston) - Modular game engine written in Rust.
 - [GDevelop](https://github.com/4ian/GDevelop) - Open-source, cross-platform game engine designed to be used by everyone.
+- [Corona](https://github.com/coronalabs/corona) - Simple to learn and use 2D game engine developed by Corona Labs.
 
 ## Links
 

@@ -18,6 +18,7 @@
 - [List](https://github.com/funkia/list) - Immutable list with unmatched performance and a comprehensive functional API.
 - [Photon](https://github.com/prisma/photonjs) - Type-safe database client for TypeScript & Node.js (ORM replacement).
 - [ts-essentials](https://github.com/krzkaczor/ts-essentials) - All basic TypeScript types in one place.
+- [ts-transformer-keys](https://github.com/kimamula/ts-transformer-keys) - TypeScript custom transformer which enables to obtain keys of given type.
 
 ## Links
 

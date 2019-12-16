@@ -176,6 +176,7 @@
 - [bitvec](https://github.com/myrrlyn/bitvec) - Crate for managing memory bit by bit.
 - [rust-cpython](https://github.com/dgrunwald/rust-cpython) - Rust <-> Python bindings.
 - [Vicuna](https://github.com/PocketDerm/vicuna) - AWS Lambdas in Rust made simple.
+- [quicksilver](https://github.com/ryanisaacg/quicksilver) - Simple game framework for 2D games on desktop and web.
 
 ## Cargo Plugins
 
