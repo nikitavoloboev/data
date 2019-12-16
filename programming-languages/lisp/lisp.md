@@ -32,3 +32,4 @@
 - [Let Over Lambda -- 50 Years of Lisp book](https://letoverlambda.com/)
 - [William Byrd on "The Most Beautiful Program Ever Written" (2017)](https://www.youtube.com/watch?v=OyfBQmvr2Hc)
 - [Awesome Lisp Languages](https://github.com/dundalek/awesome-lisp-languages#readme)
+- [Programming Algorithms book: Dynamic Programming](http://lisp-univ-etc.blogspot.com/2019/12/programming-algorithms-dp.html)

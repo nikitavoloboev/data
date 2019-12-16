@@ -44,3 +44,4 @@
 - [Compiler Writing Journey](https://github.com/DoctorWkt/acwj#readme)
 - [Listing of compiler, language and runtime teams for people looking for jobs in this area](https://github.com/mgaudet/CompilerJobs#readme)
 - [Basics of Compiler Design](httwp://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf) ([HN](https://news.ycombinator.com/item?id=21778546))
+- [Computer Language Engineering course (2019)](https://github.com/6035/fa19)
