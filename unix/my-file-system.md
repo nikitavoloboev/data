@@ -31,7 +31,7 @@ Everything that is code is put into this folder.
 ```Bash
 ~/src
 ❯ exa
-alfred  bots  build-to-learn  clones  curated  games  ideas  libs  nix  orgs  personal  practice  scripts  vim-plugins  vscode-extensions  Xcode
+build-to-learn  clones  curated  extensions  games  ios  lib  macos  orgs  personal  web
 ```
 
 ## ~/src/clones
@@ -54,22 +54,22 @@ Inside this folder I keep all code from orgs I am working or worked on.
 
 The folder is OSS on [GitHub](https://github.com/nikitavoloboev/build-to-learn). Inside this folder I have a bunch of language/framework specific folders. I use it to test out new tools/ideas in there.
 
-## ~/src/Xcode
+## ~/src/extensions
 
-Contains all my Swift iOS and macOS projects.
+Contains different extensions to various apps in form of workflows/plugins.
 
 ```Bash
-~/src/Xcode
+~/src/extensions
 ❯ exa
-iOS  macOS  safari-extensions
+alfred  safari  vim  vscode
 ```
 
-## ~/src/alfred
+## ~/src/extensions/alfred
 
 All my Alfred workflows are placed there. And each one is symlinked with [workflow-install](https://gist.github.com/deanishe/35faae3e7f89f629a94e).
 
 ```Bash
-~/src/alfred
+~/src/extensions/alfred
 ❯ exa
 alfred-ask-create-share  alfred-awesome-lists  alfred-github  alfred-learn-anything  alfred-my-mind  alfred-npm  alfred-pocket  alfred-timer  alfred-trello  alfred-web-searches  small-workflows
 ```
