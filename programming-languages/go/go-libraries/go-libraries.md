@@ -254,6 +254,7 @@
 - [INI](https://github.com/go-ini/ini) - Package ini provides INI file read and write functionality in Go.
 - [reload](https://github.com/Teamwork/reload) - Lightweight automatic reloading of Go processes.
 - [go-jsonstruct](https://github.com/twpayne/go-jsonstruct) - Generate Go structs from multiple JSON objects.
+- [service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
 
 ## Links
 
