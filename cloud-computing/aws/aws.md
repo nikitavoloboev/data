@@ -30,3 +30,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [The \$10m engineering problem (2019)](https://segment.com/blog/the-10m-engineering-problem/)
 - [AWSume](https://github.com/trek10inc/awsume) - Utility for easily assuming AWS IAM roles from the command line.
 - [Modern applications at AWS (2019)](https://www.allthingsdistributed.com/2019/08/modern-applications-at-aws.html)
+- [cw](https://github.com/lucagrulla/cw) - Best way to tail AWS CloudWatch Logs from your terminal.

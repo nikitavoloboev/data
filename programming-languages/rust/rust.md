@@ -124,4 +124,4 @@
 - [PingCAP Style Guide](https://pingcap.github.io/style-guide/rust/) - Guide to writing idiomatic code at PingCAP and in the TiKV project.
 - [Declarative UI Patterns in Rust (2019)](https://www.youtube.com/watch?v=xH2x99FTY4k)
 - [Speeding Up the Rust Compiler (2019)](https://blog.mozilla.org/nnethercote/2019/12/11/how-to-speed-up-the-rust-compiler-one-last-time-in-2019/) ([HN](https://news.ycombinator.com/item?id=21759255))
-- [From zero to main(): Bare metal Rust (2019)](https://interrupt.memfault.com/blog/zero-to-main-rust-1)
+- [From zero to main(): Bare metal Rust (2019)](https://interrupt.memfault.com/blog/zero-to-main-rust-1) ([HN](https://news.ycombinator.com/item?id=21817034))

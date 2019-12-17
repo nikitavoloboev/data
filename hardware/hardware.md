@@ -12,5 +12,5 @@
 - [Hackster](https://www.hackster.io/) - World's largest network for hardware & software developers.
 - [Raspberry Pi 4](https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/) ([HN](https://news.ycombinator.com/item?id=20260863))
 - [Ask HN: What do you do with your Raspberry Pi? (2019)](https://news.ycombinator.com/item?id=20264911)
-- [The Essential Guide To Electronics in Shenzhen (2016)](https://bunniefoo.com/bunnie/essential/essential-guide-shenzhen-web.pdf)
+- [The Essential Guide To Electronics in Shenzhen (2016)](https://bunniefoo.com/bunnie/essential/essential-guide-shenzhen-web.pdf) ([HN](https://news.ycombinator.com/item?id=21817656))
 - [Adventures in reinventing interfaces / Suz Hinton (2019)](https://www.youtube.com/watch?v=AAFIJaxuHeg&list=PLXmT1r4krsTrR6khetJSVQqulyFbxmZNG)

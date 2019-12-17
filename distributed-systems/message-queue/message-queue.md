@@ -3,3 +3,4 @@
 ## Links
 
 - [patchbay](https://patchbay.pub/) - Message queue implemented over HTTP. ([Lobsters](https://lobste.rs/s/t8dsft/patchbay_poor_man_s_message_queue))
+- [ElasticMQ](https://github.com/softwaremill/elasticmq) - Message queue system, offering an actor-based Scala and an SQS-compatible REST (query) interface.

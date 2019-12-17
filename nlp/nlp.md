@@ -54,3 +54,4 @@
 - [Botpress](https://github.com/botpress/botpress) - Open-source Virtual Assistant platform.
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - Hackable open source voice assistant.
 - [VizSeq](https://github.com/facebookresearch/vizseq) - Visual Analysis Toolkit for Text Generation Tasks.
+- [Awesome Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme)
