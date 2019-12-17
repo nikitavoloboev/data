@@ -26,3 +26,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [SSL/TLS Deployment Best Practices - Ivan Ristic (2017)](https://www.youtube.com/watch?v=AYNtH7JMlAQ)
 - [Hardenize](https://www.hardenize.com/) - Meet the new standard for network and security configuration monitoring.
 - [american fuzzy lop](https://github.com/google/AFL) - Security-oriented fuzzer.
+- [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.

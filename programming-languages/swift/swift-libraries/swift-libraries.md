@@ -126,6 +126,8 @@
 - [Disk](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data.
 - [VectorMath](https://github.com/nicklockwood/VectorMath) - Swift library for Mac and iOS that implements common 2D and 3D vector and matrix functions, useful for games or vector-based graphics.
 - [Alley](https://github.com/radianttap/Alley) - Essential `URLSessionDataTask` micro-wrapper for communication with HTTP(S) web services, with built-in automatic request retries.
+- [Deferred](https://github.com/bignerdranch/Deferred) - Work with values that haven't been determined yet.
+- [FSEvents](https://github.com/eonil/FSEvents) - Unofficial wrapper around FSEvent tailored for Swift 5.
 
 ## Links
 

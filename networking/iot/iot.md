@@ -27,3 +27,4 @@
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora / mi jia compatibility, SMS & LORA.
 - [Arm Mbed OS](https://www.mbed.com/en/platform/mbed-os/) - Free, open-source embedded operating system designed specifically for the "things" in the Internet of Things.
 - [Edge Impulse](https://www.edgeimpulse.com/) - Enables developers to create the next generation of intelligent device solutions with embedded Machine Learning.
+- [ESP8266 series chips](http://esp8266.net/) - system-on-chip (SoC) which integrates a 32-bit Tensilica microcontroller, standard digital peripheral interfaces, antenna switches, RF balun & more.

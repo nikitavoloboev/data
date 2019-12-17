@@ -19,3 +19,4 @@
 - [Vulcain](https://github.com/dunglas/vulcain) - Use HTTP/2 Server Push to create fast and idiomatic client-driven REST APIs.
 - [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)
 - [nghttp2](https://github.com/nghttp2/nghttp2) - Implementation of the Hypertext Transfer Protocol version 2 in C.
+- [h2spec](https://github.com/summerwind/h2spec) - Conformance testing tool for HTTP/2 implementation.
