@@ -14,6 +14,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Antwar](https://github.com/antwarjs/antwar) - Static site generator built with React and Webpack.
 - [Plot](https://github.com/JohnSundell/Plot) - DSL for writing type-safe HTML, XML and RSS in Swift.
 - [Staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know.
+- [rib](https://github.com/srid/rib) - Haskell library for writing your own static site generator.
 
 ## Links
 
