@@ -55,3 +55,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [CMTY](https://cmty.app/) - Community platform for open source projects.
 - [Awesome OSS Funding](https://github.com/sustainers/awesome-oss-funding#readme)
 - [Licenses Cheat Sheet](https://kapeli.com/cheat_sheets/Licenses.docset/Contents/Resources/Documents/index)
+- [The city guide to open source - GitHub Universe 2019](https://www.youtube.com/watch?v=GCLgdOiPA6o)
