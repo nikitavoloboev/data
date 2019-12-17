@@ -18,3 +18,4 @@
 - [libutp](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library.
 - [confluence](https://github.com/anacrolix/confluence) - Torrent client as a HTTP service.
 - [/r/trackers](https://www.reddit.com/r/trackers/) - Great subreddit.
+- [BTFS](https://www.bittorrent.com/btfs/) - First Scalable Decentralized Storage System.
