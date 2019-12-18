@@ -24,3 +24,4 @@
 - [RareChems](https://rarechems.com/) - European-based supplier of research chemicals.
 - [Lysergi](https://lysergi.com/) - Canadian research chemicals vendor.
 - [RC FAQ & Resources](https://www.reddit.com/r/researchchemicals/comments/dchpr0/faq_resources/)
+- [What is your favorite RC and why? (2019)](https://www.reddit.com/r/researchchemicals/comments/ec7qwt/what_is_your_favorite_rc_and_why/)
