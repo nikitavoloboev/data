@@ -62,3 +62,4 @@
 - [gevent](https://github.com/gevent/gevent) - Coroutine-based concurrency library for Python.
 - [Meshio](https://github.com/nschloe/meshio) - I/O for mesh files.
 - [Streamz](https://github.com/python-streamz/streamz) - Real-time stream processing for python.
+- [Hypothesis](https://github.com/HypothesisWorks/hypothesis) - Powerful, flexible, and easy to use library for property-based testing.
