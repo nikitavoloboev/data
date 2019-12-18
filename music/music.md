@@ -14,3 +14,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Platlist Detective](https://www.playlistdetective.com/) - Search Spotify playlists.
 - [Every Noise at Once](http://everynoise.com/engenremap.html)
 - [How to shuffle songs? (2014)](https://labs.spotify.com/2014/02/28/how-to-shuffle-songs/)
+- [Ask HN: How Can I Learn Music Theory? (2019)](https://news.ycombinator.com/item?id=21822225)
