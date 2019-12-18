@@ -128,6 +128,7 @@
 - [Alley](https://github.com/radianttap/Alley) - Essential `URLSessionDataTask` micro-wrapper for communication with HTTP(S) web services, with built-in automatic request retries.
 - [Deferred](https://github.com/bignerdranch/Deferred) - Work with values that haven't been determined yet.
 - [FSEvents](https://github.com/eonil/FSEvents) - Unofficial wrapper around FSEvent tailored for Swift 5.
+- [Diagnostics](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
 
 ## Links
 
