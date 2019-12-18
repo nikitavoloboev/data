@@ -104,3 +104,5 @@
 - [Inversion of Control (2019)](https://kentcdodds.com/blog/inversion-of-control)
 - [On porting code (2019)](https://samrat.me/posts/2019-11-26-porting-code/)
 - [Challenging projects every programmer should try (2019)](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
+- [You don't need loops](https://github.com/you-dont-need/You-Dont-Need-Loops#readme) - Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
+- [Bret Victor - The Future of Programming (2013)](https://vimeo.com/71278954)

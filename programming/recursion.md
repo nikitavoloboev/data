@@ -7,3 +7,7 @@
 1. There is always an exit condition ( or it would run forever , we never want that)
 2. There is always a value that changes and it is passed to the next execution, or otherwise it wouldn't make sense it would be always the same execution and the exit condition would never trigger.
 3. Think like frames of a movie, in paper or whiteboard, write a table with a column for every variable and a row for every step, my first programming teacher taught me this, and 19 years later it save me in a white board interview, it helps to calm down and just go step by step seeing how values evolve.
+
+## Links
+
+- [That one time I thought I understood recursion (2019)](https://functional.christmas/2019/18) ([HN](https://news.ycombinator.com/item?id=21822977))

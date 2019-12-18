@@ -56,3 +56,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Awesome OSS Funding](https://github.com/sustainers/awesome-oss-funding#readme)
 - [Licenses Cheat Sheet](https://kapeli.com/cheat_sheets/Licenses.docset/Contents/Resources/Documents/index)
 - [The city guide to open source - GitHub Universe 2019](https://www.youtube.com/watch?v=GCLgdOiPA6o)
+- [Ask HN: How do you create a successful community from zero? (2019)](https://news.ycombinator.com/item?id=21812442)

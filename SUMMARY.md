@@ -267,6 +267,7 @@
 - [Data Science](data-science/data-science.md)
   - [Data Visualization](data-science/data-visualization.md)
   - [Data Processing](data-science/data-processing.md)
+  - [Kafka](data-science/kafka.md)
 - [Open Source](open-source/open-source.md)
   - [GitHub](open-source/github/github.md)
     - [GitHub actions](open-source/github/github-actions.md)
