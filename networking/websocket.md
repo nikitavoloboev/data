@@ -8,3 +8,4 @@
 - [µWebSockets](https://github.com/uNetworking/uWebSockets.js) - JavaScript web server.
 - [Sockette](https://github.com/lukeed/sockette) - Cutest little WebSocket wrapper.
 - [Firefox’s New WebSocket Inspector (2019)](https://hacks.mozilla.org/2019/10/firefoxs-new-websocket-inspector/)
+- [WebSockets for fun and profit (2019)](https://stackoverflow.blog/2019/12/18/websockets-for-fun-and-profit/)

@@ -405,6 +405,7 @@
     - [WebKit](web/web-engines/webkit.md)
   - [Progressive Web Apps](web/progressive-web-apps.md)
   - [Web workers](web/web-workers.md)
+  - [Web scraping](web/web-scraping.md)
   - [RSS](web/rss.md)
   - [Web accessibility](web/web-accessibility.md)
   - [Content management systems](web/cms.md)
