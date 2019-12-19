@@ -116,3 +116,4 @@
 - [An illustrated guide to Kubernetes Networking (2017)](https://itnext.io/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727)
 - [Bank Vaults](https://github.com/banzaicloud/bank-vaults) - Umbrella project which provides various tools for Vault to make using and operating Hashicorp Vault easier.
 - [kubectl trace](https://github.com/iovisor/kubectl-trace) - Kubectl plugin that allows you to schedule the execution of bpftrace programs in your Kubernetes cluster.
+- [RBAC Manager](https://github.com/FairwindsOps/rbac-manager) - Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.

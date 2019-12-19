@@ -18,6 +18,12 @@
 ## Testing
 
 - [go-cmp](https://github.com/google/go-cmp) - Package for equality of Go values.
+- [check](https://github.com/go-check/check) - Rich testing for the Go language.
+- [go-mutetesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code.
+- [gotest](https://github.com/rakyll/gotest) - Go test with colors.
+- [Filet](https://github.com/Flaque/filet) - Small temporary file utility for Go testing.
+- [quicktest](https://github.com/frankban/quicktest) - Collection of Go helpers for writing tests.
+- [go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go.
 
 ## Web
 
@@ -116,13 +122,11 @@
 - [retry](https://github.com/kamilsk/retry) - Functional mechanism based on channels to perform actions repetitively until successful.
 - [ytdl](https://github.com/rylio/ytdl) - YouTube download library and CLI written in Go.
 - [go-cty](https://github.com/zclconf/go-cty) - Type system for dynamic values in Go applications.
-- [go-mutetesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code.
 - [avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go.
 - [govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang.
 - [Stats](https://github.com/montanaflynn/stats) - Well tested and comprehensive Golang statistics library package with no dependencies.
 - [go-travis](https://github.com/shuheiktgw/go-travis) - Go library for accessing the Travis CI API V3.
 - [Konfig](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era.
-- [gotest](https://github.com/rakyll/gotest) - Go test with colors.
 - [gRPC-Go](https://github.com/grpc/grpc-go) - Go language implementation of gRPC. HTTP/2 based RPC.
 - [gocontracts](https://github.com/Parquery/gocontracts) - Tool for design-by-contract in Go.
 - [apex-go](https://github.com/apex/apex-go) - Golang runtime for Apex/Lambda.
@@ -159,7 +163,6 @@
 - [Go Keychain](https://github.com/keybase/go-keychain) - Library for accessing the Keychain for macOS, iOS, and Linux in Go (golang).
 - [Oto](https://github.com/hajimehoshi/oto) - Low-level library to play sound. This package offers io.WriteCloser to play PCM sound.
 - [afero](https://github.com/spf13/afero) - FileSystem Abstraction System for Go.
-- [Filet](https://github.com/Flaque/filet) - Small temporary file utility for Go testing.
 - [Jingo](https://github.com/bet365/jingo) - Provides the ability to encode golang structs to a buffer as JSON very quickly.
 - [goldmark](https://github.com/yuin/goldmark) - Markdown parser written in Go. Easy to extend, standard compliant, well structured.
 - [wails](https://github.com/wailsapp/wails) - Create desktop apps using Go and Web Technologies.
@@ -181,7 +184,6 @@
 - [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files.
 - [sqlc](https://github.com/relops/sqlc) - Composable, type safe and fluent API to generate nested and complex SQL queries.
 - [cloudflare-go](https://github.com/cloudflare/cloudflare-go) - Go library for the Cloudflare v4 API.
-- [quicktest](https://github.com/frankban/quicktest) - Collection of Go helpers for writing tests.
 - [valkeyrie](https://github.com/abronan/valkeyrie) - Distributed Key/Value Store Abstraction Library written in Go.
 - [pstree](https://github.com/sbinet/pstree) - Simple minded package to retrieve the process tree from a given PID.
 - [mysql](https://github.com/go-sql-driver/mysql) - MySQL driver for Go's (golang) database/sql package.
@@ -221,7 +223,6 @@
 - [json-iterator/go](https://github.com/json-iterator/go) - High-performance 100% compatible drop-in replacement of "encoding/json".
 - [TamaGo](https://github.com/inversepath/tamago) - Bare metal Go for ARM SoCs.
 - [go-pretty](https://github.com/jedib0t/go-pretty) - Utilities to prettify console output of tables, lists, text, etc.
-- [go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go.
 - [Go Terminput](https://github.com/tj/go-terminput) - Provides terminal keyboard input for interactive command-line tools.
 - [Termd](https://github.com/tj/go-termd) - Provides terminal markdown rendering, with code block syntax highlighting support.
 - [Tea](https://github.com/tj/go-tea) - Provides an Elm inspired functional framework for interactive command-line programs.
