@@ -96,6 +96,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Simon Goindard's Dune](http://simongoinard.com/DUNE)
 - [Paul Lehr's scifi art](https://70sscifiart.tumblr.com/post/189220242780/crossconnectmag-paul-lehr-1930-1998-is-one-of)
 - [70s Sci-Fi Art](https://70sscifiart.tumblr.com/)
+- [Ionel-Cosmonaut (1973)](http://dreamsofspace.blogspot.com/2019/11/ionel-cosmonaut-1973.html)
 
 ## Photography
 
