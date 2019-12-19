@@ -15,6 +15,7 @@
 - [Sphere Online Judge](http://www.spoj.com/)
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x#readme)
 - [CodeAbbey](https://www.codeabbey.com/)
+- [Coding Problems](https://github.com/MTrajK/coding-problems) - Solutions for various coding/algorithmic problems and many useful resources for learning algorithms and data structures.
 
 ## LeetCode solutions
 
