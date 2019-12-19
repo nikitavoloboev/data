@@ -129,7 +129,9 @@
 - [Deferred](https://github.com/bignerdranch/Deferred) - Work with values that haven't been determined yet.
 - [FSEvents](https://github.com/eonil/FSEvents) - Unofficial wrapper around FSEvent tailored for Swift 5.
 - [Diagnostics](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
+- [SwiftCLI](https://github.com/jakeheis/SwiftCLI) - Powerful framework for developing CLIs in Swift.
 
 ## Links
 
 - [SwiftPM Library](https://swiftpm.co/) - Place to find packages for Swift. ([Code](https://github.com/daveverwer/SwiftPMLibrary))
+- [Ice](https://github.com/jakeheis/Ice) - Developer friendly package manager for Swift; 100% compatible with Swift Package Manager.

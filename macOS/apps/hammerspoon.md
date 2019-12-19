@@ -2,7 +2,7 @@
 
 Hammerspoon is a great open source tool that lets you write Lua code to interact with macOS to automate tasks.
 
-My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon/init.lua).
+My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon).
 
 ## Links
 
