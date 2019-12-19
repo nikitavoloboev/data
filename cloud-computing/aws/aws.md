@@ -32,3 +32,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Modern applications at AWS (2019)](https://www.allthingsdistributed.com/2019/08/modern-applications-at-aws.html)
 - [cw](https://github.com/lucagrulla/cw) - Best way to tail AWS CloudWatch Logs from your terminal.
 - [The Good Parts of AWS book (2019)](https://gumroad.com/l/aws-good-parts)
+- [Last Week in AWS](https://www.lastweekinaws.com/) - News and newsletter about latest offerings of AWS.

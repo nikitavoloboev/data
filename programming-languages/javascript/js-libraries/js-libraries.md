@@ -130,3 +130,4 @@
 - [Virt.js](https://github.com/arcanis/virtjs) - Free collection of useful standard devices, that can be used to power various engine that makes use of the exposed interfaces.
 - [Path-to-RegExp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as /user/:name into a regular expression.
 - [Bacon.js](https://github.com/baconjs/bacon.js) - Functional reactive programming library for TypeScript and JavaScript.
+- [GGEditor](https://github.com/alibaba/GGEditor) - Visual graph editor based on G6 and React.

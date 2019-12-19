@@ -21,3 +21,4 @@
 - [html-tags](https://github.com/sindresorhus/html-tags) - List of standard HTML tags.
 - [hast](https://github.com/syntax-tree/hast) - Hypertext Abstract Syntax Tree format.
 - [Optimal Virtual DOM (2019)](https://blog.kabir.sh/posts/optimal-virtual-dom.html)
+- [tags-input](https://github.com/developit/tags-input) - Input element with tag input.
