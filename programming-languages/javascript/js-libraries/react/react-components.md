@@ -54,6 +54,7 @@
 - [prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - Renders highlighted Prism output to React (+ theming & vendored Prism).
 - [Naph](https://github.com/williamluke4/Naph) - React Component for rendering Node Graphs.
 - [React Spinners](https://github.com/davidhu2000/react-spinners) - Collection of loading spinner components for react.
+- [react-teleporter](https://github.com/gregberge/react-teleporter) - Teleport React components in the same React tree.
 
 ## Links
 
