@@ -39,3 +39,4 @@
 - [An Unintentionally Comprehensive Introduction to GitHub Actions CI (2019)](https://dev.to/bnb/an-unintentionally-comprehensive-introduction-to-github-actions-ci-blm)
 - [Hello, GitHub Actions!](https://lab.github.com/github/hello-github-actions!)
 - [Creating GitHub Actions in Python (2019)](https://www.jacobtomlinson.co.uk/posts/2019/creating-github-actions-in-python/)
+- [Exploring Actions (2019)](https://brandur.org/nanoglyphs/005-actions)
