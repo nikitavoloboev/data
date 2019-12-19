@@ -10,3 +10,4 @@
 - [The Thought Process Behind a Flexbox Layout (2019)](https://css-tricks.com/the-thought-process-behind-a-flexbox-layout/)
 - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) - Learn Flexbox by playing a game.
 - [Flex Cheat Sheet](https://yoksel.github.io/flex-cheatsheet/)
+- [Coping with flexbox (2019)](https://kgrz.io/coping-with-flexbox.html)

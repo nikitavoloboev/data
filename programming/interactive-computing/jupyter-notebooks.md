@@ -24,3 +24,4 @@
 - [Jupyter Notebook Manifesto: Best practices that can improve the life of any developer using Jupyter notebooks](https://cloudblog.withgoogle.com/products/ai-machine-learning/best-practices-that-can-improve-the-life-of-any-developer-using-jupyter-notebooks/amp/)
 - [Computational Publishing with Jupyter](https://github.com/odewahn/computational-publishing)
 - [papermill](https://github.com/nteract/papermill) - Parameterize, execute, and analyze notebooks.
+- [Juno](https://juno.sh/) - Complete Jupyter development environment for your iPad or iPhone.

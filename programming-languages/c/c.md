@@ -25,3 +25,4 @@
 - [Small C Compiler](https://github.com/rui314/8cc) - Intended to support all C11 language features while keeping the code as small and simple as possible.
 - [All Algorithms implemented in C](https://github.com/TheAlgorithms/C)
 - [CodeChecker](https://github.com/Ericsson/codechecker) - Analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang Tidy.
+- [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html) ([HN](https://news.ycombinator.com/item?id=21794327))

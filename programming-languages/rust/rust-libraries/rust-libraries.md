@@ -15,6 +15,7 @@
 - [reqwest](https://github.com/seanmonstar/reqwest) - Easy and powerful Rust HTTP Client.
 - [gotham](https://github.com/gotham-rs/gotham) - Flexible web framework that promotes stability, safety, security and speed.
 - [warp](https://github.com/seanmonstar/warp) - Super-easy, composable, web server framework for warp speeds.
+- [HTTP](https://github.com/hyperium/http) - Rust HTTP types.
 
 ## WASM
 

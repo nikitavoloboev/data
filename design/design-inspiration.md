@@ -37,6 +37,7 @@ Here are few more things I liked, design wise.
 - [Alain](https://alain.xyz/)
 - [Ryan McGrath](https://rymc.io/)
 - [Paul Stamatiou](https://paulstamatiou.com/)
+- [Tobias van Schneider](https://www.vanschneider.com) - Has nice [now page](https://www.vanschneider.com/now).
 - [Evan Jones](https://www.evanjones.ca/)
 - [Lee Robinson](https://leerob.io/) ([Code](https://github.com/leerob/leerob.io))
 - [Rickard Laurin](https://willcodefor.beer)

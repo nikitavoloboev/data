@@ -21,4 +21,4 @@
 - [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) - Designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime. ([HN](https://news.ycombinator.com/item?id=21799988))
 - [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases. ([HN](https://news.ycombinator.com/item?id=21509373))
 - [SQL Performance Explained book](https://sql-performance-explained.com/)
-- [How a SQL database works (2019)](http://calpaterson.com/how-a-sql-database-works.html)
+- [How a SQL database works (2019)](http://calpaterson.com/how-a-sql-database-works.html) ([HN](https://news.ycombinator.com/item?id=21838531))
