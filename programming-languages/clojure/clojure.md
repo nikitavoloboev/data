@@ -34,3 +34,4 @@
 - [Naked Performance (with Clojure) – Tommi Reiman (2019)](https://www.youtube.com/watch?v=3SSHjKT3ZmA)
 - [Building My Own Clojure Tools - Nikita Prokopov (2019)](https://www.youtube.com/watch?v=l1b7Da2DnPo)
 - [cljdoc](https://cljdoc.org/) - Central documentation hub for the Clojure community.
+- [SICP Distilled](http://www.sicpdistilled.com/) - Idiosyncratic tour of SICP in Clojure.

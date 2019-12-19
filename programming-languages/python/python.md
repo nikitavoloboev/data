@@ -65,3 +65,4 @@
 - [Structuring Your Project](https://docs.python-guide.org/writing/structure/) ([HN](https://news.ycombinator.com/item?id=21732821))
 - [Pympler](https://github.com/pympler/pympler) - Development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application.
 - [Poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html)
