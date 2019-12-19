@@ -180,6 +180,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 ## Live
 
 - [Apparat dans Passengers (Full Show HiRes) - ARTE Concert](https://www.youtube.com/watch?v=NOol5V4Tlk8)
+- [Ishome at Krasnaya Polyana @37tunes](https://www.youtube.com/watch?v=yo2zLZkWmhE)
 
 ## Mixes
 

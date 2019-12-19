@@ -74,3 +74,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Texture](https://github.com/TextureGroup/Texture) - Smooth asynchronous user interfaces for iOS apps.
 - [iOS Goodies weekly newsletter](https://ios-goodies.com/) ([Source](https://github.com/iOS-Goodies/iOS-Goodies))
 - [Who You Gonna Syscall? by Grant Douglas (2019)](https://www.youtube.com/watch?v=qFLJjByneA4)
+- [Every iOS security guide](https://github.com/0xmachos/iOS-Security-Guides)

@@ -47,3 +47,4 @@
 - [Velcro](https://github.com/ggoodman/velcro) - Suite of packages designed to bridge the runtime gap between browser development and the node package ecosystem.
 - [Autarky](https://github.com/pranshuchittora/autarky) - Liberating disk space from node_modules.
 - [pre-bundled](https://github.com/Raynos/pre-bundled) - Tool that pre bundles and re publishes npm dependencies.
+- [oclif](https://github.com/oclif/oclif) - Framework for building CLIs in Node.js

@@ -8,3 +8,4 @@
 - [Ryan Dahl — Deno, a new way to JavaScript (2019)](https://www.youtube.com/watch?v=HjdJzNoT_qg)
 - [dinatra](https://github.com/syumai/dinatra) - Sinatra like light weight web app framework for deno.
 - [DVM](https://github.com/imbsky/dvm) - Fast and simple Deno runtime version manager built with Native Reason.
+- [deno runtime for AWS Lambda](https://github.com/hayd/deno-lambda)
