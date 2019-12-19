@@ -30,3 +30,4 @@
 - [Blog from the Erlang/OTP team](http://blog.erlang.org/)
 - [Erlang Language Server Protocol Implementation](https://github.com/erlang-ls/erlang_ls)
 - [Advent of Code 2019 done in Erlang videos](https://www.youtube.com/watch?v=TqzBchjZw4Q)
+- [Erlang Programming Language - Computerphile (2019)](https://www.youtube.com/watch?v=SOqQVoVai6s)

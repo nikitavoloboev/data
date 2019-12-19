@@ -15,3 +15,4 @@
 - [Microdosing with LSD and its Research Potential (2017)](https://heffter.org/microdosing-lsd-research-potential/)
 - [Weirdest thing that has happened to you on acid? (2019)](https://www.reddit.com/r/RationalPsychonaut/comments/dqwqtm/weirdest_thing_that_has_happened_to_you_on_acid/)
 - [ELI5: LSD](https://www.reddit.com/r/explainlikeimfive/comments/dymtnq/eli5_lsd/)
+- [Selen Atasoy: Enhanced Improvisation in LSD Brain Processing (2017)](https://www.youtube.com/watch?v=jKAZCzATmnk)

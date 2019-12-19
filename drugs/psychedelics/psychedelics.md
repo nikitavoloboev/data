@@ -57,3 +57,4 @@ I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=e
 - [Biting the Bucket with Ayahuasca (2018)](https://medium.com/s/story/biting-the-bucket-with-ayahuasca-2940c5da3248)
 - [Some people who take psychedelics continue hallucinating indefinitely](https://slatestarcodex.com/2019/09/11/lots-of-people-going-around-with-mild-hallucinations-all-the-time/) ([HN](https://news.ycombinator.com/item?id=21340030))
 - [HN: Psilocybin for Major Depression Granted Breakthrough Therapy by FDA (2019)](https://news.ycombinator.com/item?id=21638290)
+- [Development of a Data-Driven Psychedelic Therapy Network (2018)](https://www.youtube.com/watch?v=mTGMArtFb2g)
