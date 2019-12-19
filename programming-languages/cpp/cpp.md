@@ -53,3 +53,4 @@
 - [C++ papers (2019)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/#mailing2019-11)
 - [How can you be so certain? (2019)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1962r0.pdf) ([Lobsters](https://lobste.rs/s/hvczkz/how_can_you_be_so_certain))
 - [CppCon 2019: Saar Raz “C++20 Concepts: A Day in the Life”](https://www.youtube.com/watch?v=qawSiMIXtE4)
+- [Chandler Carruth - Programming Language Design for Performance Critical Software (2019)](https://www.youtube.com/watch?v=_prA_EmoBe4)
