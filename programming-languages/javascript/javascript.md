@@ -108,5 +108,5 @@
 - [JavaScript Visualized: Hoisting (2019)](https://dev.to/lydiahallie/javascript-visualized-hoisting-478h)
 - [Fuzzilli](https://github.com/googleprojectzero/fuzzilli) - JavaScript Engine Fuzzer.
 - [Deep JavaScript: Theory and techniques (2019)](https://exploringjs.com/deep-js/)
-- [JavaScript Adaption of Structure and Interpretation of Computer Programs](https://sicp.comp.nus.edu.sg/) ([HN](https://news.ycombinator.com/item?id=21822903))
+- [JavaScript Adaption of Structure and Interpretation of Computer Programs](https://sicp.comp.nus.edu.sg/) ([HN](https://news.ycombinator.com/item?id=21822903)) ([Code](https://github.com/source-academy/sicp))
 - [State of JS 2019](https://2019.stateofjs.com/) ([HN](https://news.ycombinator.com/item?id=21831747))
