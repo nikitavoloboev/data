@@ -101,3 +101,4 @@
 - [Minimal Images from Unsplash](https://github.com/iRaul/minimal-unsplash-images) - Project was bootstrapped with Create React App.
 - [CodeLift](https://github.com/ericclemmons/codelift) - "No Code" GUI for your existing React code.
 - [My top React techtalks of 2019](https://www.reddit.com/r/reactjs/comments/eay5cg/my_top_react_techtalks_of_2019/)
+- [React Christmas](https://react.christmas/)
