@@ -391,6 +391,7 @@
     - [Bookmarklets](web/browsers/bookmarklets.md)
     - [Stylish themes](web/browsers/stylish-themes.md)
   - [Web performance](web/web-performance.md)
+  - [Service workers](web/service-workers.md)
   - [Static sites](web/static-sites/static-sites.md)
     - [Hugo](web/static-sites/hugo.md)
   - [Node.js](web/nodejs/nodejs.md)
