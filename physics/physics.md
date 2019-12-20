@@ -34,3 +34,4 @@
 - [What are some of the "cornerstone books" in physics? (2019)](https://www.reddit.com/r/Physics/comments/ebf5bn/what_are_some_of_the_cornerstone_books_in_physics/)
 - [The Feyman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
 - [Principles of Optics](https://cds.cern.ch/record/396122/files/0521642221_TOC.pdf) - Electromagnetic theory of propagation, interference and diffraction of light.
+- [What Makes the Hardest Equations in Physics So Difficult? (2019)](https://www.quantamagazine.org/what-makes-the-hardest-equations-in-physics-so-difficult-20180116/)

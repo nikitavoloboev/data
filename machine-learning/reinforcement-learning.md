@@ -36,3 +36,4 @@
 - [BCQ](https://github.com/sfujim/BCQ) - PyTorch implementation of BCQ for "Off-Policy Deep Reinforcement Learning without Exploration".
 - [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)
 - [TorchBeast](https://github.com/facebookresearch/torchbeast) - PyTorch Platform for Distributed RL.
+- [The Promise of Hierarchical Reinforcement Learning (2019)](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)

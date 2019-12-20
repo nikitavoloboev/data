@@ -256,6 +256,7 @@
 - [reload](https://github.com/Teamwork/reload) - Lightweight automatic reloading of Go processes.
 - [go-jsonstruct](https://github.com/twpayne/go-jsonstruct) - Generate Go structs from multiple JSON objects.
 - [service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
+- [Boom Filters](https://github.com/tylertreat/BoomFilters) - Probabilistic data structures for processing continuous, unbounded streams.
 
 ## Links
 
