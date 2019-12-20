@@ -1,7 +1,5 @@
 # Algorithms
 
-[Algorithm Design Manual](https://edisciplinas.usp.br/pluginfile.php/1995283/mod_resource/content/1/Skiena.-.TheAlgorithmDesignManual.pdf) is great.
-
 ## Interesting algorithms
 
 - [PageRank](http://en.wikipedia.org/wiki/PageRank) - [How it works?](http://qr.ae/TUpCVB)
@@ -24,6 +22,7 @@
 - [Algorithms for Optimization book](https://mitpress.mit.edu/books/algorithms-optimization)
 - [Collaborative book on algorithms](https://www.algorithm-archive.org/) ([OSS](https://github.com/algorithm-archivists/algorithm-archive))
 - [Algorithms in C by Robert Sedgewick](http://index-of.co.uk/Algorithms/Algorithms%20in%20C.pdf)
+- [Algorithm Design ManualAlgorithm Design Manual](http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
 
 ## Images
 
