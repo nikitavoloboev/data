@@ -20,3 +20,4 @@
 - [The Modern Front-End Design System Stack (2019)](https://jxnblk.com/blog/the-modern-front-end-design-system/)
 - [Navigating the Hype-Driven Frontend Development World Without Going Insane - Kitze (2019)](https://www.youtube.com/watch?v=u2WtILkz0fI)
 - [FAB Specification](https://fab.dev/) - Compile target for frontend applications. ([Code](https://github.com/fab-spec/fab))
+- [What should i learn as a front-end web dev in 2020?](https://www.reddit.com/r/webdev/comments/ed5aoj/what_should_i_learn_as_a_frontend_web_dev_in_2020/)
