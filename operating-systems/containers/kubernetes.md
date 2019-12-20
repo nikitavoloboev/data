@@ -117,3 +117,4 @@
 - [Bank Vaults](https://github.com/banzaicloud/bank-vaults) - Umbrella project which provides various tools for Vault to make using and operating Hashicorp Vault easier.
 - [kubectl trace](https://github.com/iovisor/kubectl-trace) - Kubectl plugin that allows you to schedule the execution of bpftrace programs in your Kubernetes cluster.
 - [RBAC Manager](https://github.com/FairwindsOps/rbac-manager) - Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
+- [inlets-operator](https://github.com/inlets/inlets-operator) - Your private Kubernetes Service, with a public endpoint.
