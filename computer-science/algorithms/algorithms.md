@@ -23,6 +23,7 @@
 - [Algorithm Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - Interactive online platform that visualizes algorithms from code.
 - [Algorithms for Optimization book](https://mitpress.mit.edu/books/algorithms-optimization)
 - [Collaborative book on algorithms](https://www.algorithm-archive.org/) ([OSS](https://github.com/algorithm-archivists/algorithm-archive))
+- [Algorithms in C by Robert Sedgewick](http://index-of.co.uk/Algorithms/Algorithms%20in%20C.pdf)
 
 ## Images
 
