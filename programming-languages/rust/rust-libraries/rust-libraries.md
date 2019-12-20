@@ -180,6 +180,7 @@
 - [quicksilver](https://github.com/ryanisaacg/quicksilver) - Simple game framework for 2D games on desktop and web.
 - [refpool](https://github.com/bodil/refpool) - Efficient memory pool mechanism for Rust.
 - [lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API.
+- [mitosis](https://github.com/Manishearth/mitosis) - Spawn processes with arbitrary closures in rust.
 
 ## Cargo Plugins
 
