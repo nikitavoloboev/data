@@ -60,3 +60,4 @@
 - [C++ Implementation of PyTorch Tutorial for Deep Learning Researchers](https://github.com/prabhuomkar/pytorch-cpp)
 - [Neural Painters: A learned differentiable constraint for generating brushstroke paintings](https://github.com/reiinakano/neural-painters-pytorch)
 - [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch.
+- [Easily Extendable Basic Deep Metric Learning Pipeline](https://github.com/Confusezius/Deep-Metric-Learning-Baselines)

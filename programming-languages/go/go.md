@@ -138,3 +138,4 @@ Go promotes composition over inheritance.
 - [The Go runtime scheduler's clever way of dealing with system calls (2019)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoSchedulerAndSyscalls) ([HN](https://news.ycombinator.com/item?id=21736342))
 - [Go Things I Love: Methods On Any Type (2019)](https://www.justindfuller.com/posts/2019-12-14_Go-Things-I-Love-Methods-On-Any-Type) ([Reddit](https://www.reddit.com/r/golang/comments/eaqnyh/go_things_i_love_methods_on_any_type/))
 - [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers#readme) - Examples of Golang examples compared to Node.js for learning.
+- [Testing in Go: Test Doubles by Example (2019)](https://ieftimov.com/post/testing-in-go-test-doubles-by-example/)
