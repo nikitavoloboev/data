@@ -32,3 +32,5 @@
 - [David Tong: Lectures on Theoretical Physics](http://www.damtp.cam.ac.uk/user/tong/teaching.html)
 - [Mathematics for Physics](https://sites.uci.edu/inertialobserver/mathematics-for-physics/)
 - [What are some of the "cornerstone books" in physics? (2019)](https://www.reddit.com/r/Physics/comments/ebf5bn/what_are_some_of_the_cornerstone_books_in_physics/)
+- [The Feyman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
+- [Principles of Optics](https://cds.cern.ch/record/396122/files/0521642221_TOC.pdf) - Electromagnetic theory of propagation, interference and diffraction of light.
