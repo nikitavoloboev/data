@@ -130,6 +130,7 @@
 - [FSEvents](https://github.com/eonil/FSEvents) - Unofficial wrapper around FSEvent tailored for Swift 5.
 - [Diagnostics](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
 - [SwiftCLI](https://github.com/jakeheis/SwiftCLI) - Powerful framework for developing CLIs in Swift.
+- [KeyboardKit](https://github.com/douglashill/KeyboardKit) - Framework to help iOS and Mac Catalyst apps support being controlled using a hardware keyboard.
 
 ## Links
 

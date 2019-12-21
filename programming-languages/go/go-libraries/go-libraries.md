@@ -257,6 +257,8 @@
 - [go-jsonstruct](https://github.com/twpayne/go-jsonstruct) - Generate Go structs from multiple JSON objects.
 - [service](https://github.com/kardianos/service) - Run go programs as a service on major platforms.
 - [Boom Filters](https://github.com/tylertreat/BoomFilters) - Probabilistic data structures for processing continuous, unbounded streams.
+- [xorfilter](https://github.com/FastFilter/xorfilter) - Go library implementing xor filters.
+- [fastjson](https://github.com/valyala/fastjson) - Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection.
 
 ## Links
 

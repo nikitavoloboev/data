@@ -11,3 +11,4 @@
 - [reveal.js](https://github.com/hakimel/reveal.js/) - HTML Presentation Framework.
 - [Fusuma](https://github.com/hiroppy/fusuma) - Make slides with Markdown easily.
 - [Spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library.
+- [mdx-deck-live-code](https://github.com/JReinhold/mdx-deck-live-code) - Component for mdx-deck for live coding directly in your slides.

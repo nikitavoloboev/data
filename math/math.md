@@ -96,3 +96,4 @@
 - [Eigenvectors from eigenvalues (2019)](https://terrytao.wordpress.com/2019/08/13/eigenvectors-from-eigenvalues/)
 - [Cantor's Paradise Math Blog](https://medium.com/cantors-paradise)
 - [Better intuition for information theory (2019)](https://www.blackhc.net/blog/2019/better-intuition-for-information-theory/)
+- [Mathematics Free and Open-Source Textbooks](http://danaernst.com/resources/free-and-open-source-textbooks/) ([HN](https://news.ycombinator.com/item?id=21851020))

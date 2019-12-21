@@ -27,3 +27,4 @@
 - [SwiftUI NewsReader](https://github.com/basememara/SwiftUI-NewsReader) - Yet another SwiftUI example.
 - [OpenSwiftUI](https://github.com/Cosmo/OpenSwiftUI) - OpenSource implementation of Apple's SwiftUI DSL.
 - [SwiftHIG](https://github.com/AustinConlon/SwiftHIG) - Links to the relevant Human Interface Guidelines for SwiftUI affordances.
+- [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui)

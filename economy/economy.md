@@ -20,3 +20,5 @@
 - [The Economics of Kenneth J. Arrow: A Selective Review (2019)](https://www.annualreviews.org/doi/full/10.1146/annurev-economics-080218-030323) ([HN](https://news.ycombinator.com/item?id=20817362))
 - [Lectures in Quantitative Economics with Python (2019)](https://python.quantecon.org/_downloads/pdf/quantitative_economics_with_python.pdf)
 - [QuantEcon](https://quantecon.org/) - Open source code for economic modeling.
+- [Against Economics (2019)](https://www.nybooks.com/articles/2019/12/05/against-economics/)
+- [Money creation in the modern economy (2014)](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en)
