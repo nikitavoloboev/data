@@ -77,6 +77,7 @@
 - [Airtable Go Client Library](https://github.com/fabioberger/airtable-go)
 - [Facebook Graph API SDK](https://github.com/huandu/facebook)
 - [Trello](https://github.com/adlio/trello) - Trello API wrapper for Go.
+- [Gophercloud](https://github.com/gophercloud/gophercloud) - OpenStack Go SDK.
 
 ## Graphics
 
@@ -89,6 +90,10 @@
 ## Docker
 
 - [go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries.
+
+## Linux
+
+- [go-criu](https://github.com/checkpoint-restore/go-criu) - Go Bindings for CRIU.
 
 ## Other
 

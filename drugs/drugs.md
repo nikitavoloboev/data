@@ -12,3 +12,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Molecular Sets](https://github.com/molecularsets/moses) - Benchmarking Platform for Molecular Generation Models.
 - [Decriminalization 2020](https://www.decriminalization.org/) - Drug abuse is a public health issue, not a crime.
 - [Resource for chemistry knowledge](https://www.reddit.com/r/researchchemicals/comments/dysrhi/resource_for_chemistry_knowledge/)
+- [TheeHive subreddit](https://www.reddit.com/r/TheeHive/) - Synthesizing chemicals/drugs.

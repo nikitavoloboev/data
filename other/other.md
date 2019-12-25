@@ -77,3 +77,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [A/B Street](https://github.com/dabreegster/abstreet) - Traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers. ([HN](https://news.ycombinator.com/item?id=21763636))
 - [ImTui](https://github.com/ggerganov/imtui) - Immediate Mode Text-based User Interface.
 - [Some examples of people quickly accomplishing ambitious things together](https://patrickcollison.com/fast)
+- [22120](https://github.com/dosyago/22120) - Archivist browser controller that caches everything you browse, a library server with full text search to serve your archive.

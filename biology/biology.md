@@ -18,3 +18,5 @@
 - [Biology is Eating the World: A Manifesto (2019)](https://a16z.com/2019/10/28/biology-eating-world-a16z-manifesto/) ([HN](https://news.ycombinator.com/item?id=21385796))
 - [Ask HN: Getting started in biology with a software background (2019)](https://news.ycombinator.com/item?id=21408415)
 - [A natural biomolecule has been measured acting like a quantum wave for the first time (2019)](https://www.technologyreview.com/s/614688/a-natural-biomolecule-has-been-measured-acting-in-a-quantum-wave-for-the-first-time/) ([Paper](https://arxiv.org/abs/1910.14538))
+- [KEGG PATHWAY](https://www.genome.jp/kegg/pathway.html) - Collection of manually drawn pathway maps representing our knowledge on the molecular interaction, reaction and relation networks.
+- [Hand drawn chart of all the metabolic pathways in the body](https://www.reddit.com/r/interestingasfuck/comments/cgitgc/hand_drawn_chart_of_all_the_metabolic_pathways_in/)

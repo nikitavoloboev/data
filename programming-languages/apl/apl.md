@@ -9,3 +9,4 @@
 - [Lessons from APL, a “lost” language (2014)](https://blog.benjojo.co.uk/post/2014-05-26-APL-the-lost-language.md)
 - [Beating C with Dyalog APL: wc](https://ummaycoc.github.io/wc.apl/)
 - [APL and J (2015)](https://crypto.stanford.edu/~blynn/c/apl.html) ([HN](https://news.ycombinator.com/item?id=21792763))
+- [Kenneth E. Iverson: An Autobiographical Essay (2004)](http://archive.vector.org.uk/trad/v234/iverson.pdf) ([HN](https://news.ycombinator.com/item?id=21855821))

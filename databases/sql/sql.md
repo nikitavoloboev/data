@@ -23,3 +23,4 @@
 - [SQL Performance Explained book](https://sql-performance-explained.com/)
 - [How a SQL database works (2019)](http://calpaterson.com/how-a-sql-database-works.html) ([HN](https://news.ycombinator.com/item?id=21838531))
 - [When an SQL database makes a great Pub/Sub (2019)](https://threedots.tech/post/when-sql-database-makes-great-pub-sub/) ([HN](https://news.ycombinator.com/item?id=21834152))
+- [Cosette](https://github.com/uwdb/Cosette) - Automated SQL solver.
