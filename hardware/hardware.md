@@ -14,3 +14,4 @@
 - [Ask HN: What do you do with your Raspberry Pi? (2019)](https://news.ycombinator.com/item?id=20264911)
 - [The Essential Guide To Electronics in Shenzhen (2016)](https://bunniefoo.com/bunnie/essential/essential-guide-shenzhen-web.pdf) ([HN](https://news.ycombinator.com/item?id=21817656))
 - [Adventures in reinventing interfaces / Suz Hinton (2019)](https://www.youtube.com/watch?v=AAFIJaxuHeg&list=PLXmT1r4krsTrR6khetJSVQqulyFbxmZNG)
+- [Learning hardware programming as a software engineer (2019)](https://blog.athrunen.dev/learning-hardware-programming-as-a-software-engineer/) ([HN](https://news.ycombinator.com/item?id=21878263))

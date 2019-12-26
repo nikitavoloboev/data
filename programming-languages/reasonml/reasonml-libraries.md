@@ -1,5 +1,10 @@
 # ReasonML libraries
 
+## Web
+
+- [ReWeb](https://github.com/yawaramin/re-web) - Experimental web framework for OCaml focusing on developer ergonomics.
+- [Morph](https://github.com/reason-native-web/morph) - Webframework for Reason and OCaml.
+
 ## Other
 
 - [bs-decode](https://github.com/mlms13/bs-decode) - Type-safe JSON decoding for ReasonML and OCaml.

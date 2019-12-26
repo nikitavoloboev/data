@@ -12,3 +12,4 @@
 - [Marble Marcher](https://github.com/HackerPoet/MarbleMarcher) - Video game demo that uses a fractal physics engine and fully procedural rendering to produce beautiful and unique gameplay unlike anything you've seen before. ([Video](https://www.youtube.com/watch?time_continue=1&v=9U0XVdvQwAI))
 - [Fractals and Monads](https://dkwise.wordpress.com/2019/01/18/fractals-and-monads/)
 - [Generating the Mandelbrot Set](https://scionofbytes.me/misc/generating-mandelbrot-fractals/)
+- [Recursion and Fractals](https://en.scratch-wiki.info/wiki/Recursion_and_Fractals)
