@@ -22,3 +22,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: Are you put off building something because it already exists? (2019)](https://news.ycombinator.com/item?id=19774997)
 - [Finding My Next Bootstrapped Business Idea (2019)](https://www.derrickreimer.com/essays/2019/05/28/finding-my-next-bootstrapped-business-idea.html) - My process for narrowing down what to build next.
 - [One Hundred Ideas for Computing](https://github.com/samsquire/ideas#readme)
+- [Ask HN: Haven't worked for a while, best guide/advice to start a hobby project? (2019)](https://news.ycombinator.com/item?id=21861412)

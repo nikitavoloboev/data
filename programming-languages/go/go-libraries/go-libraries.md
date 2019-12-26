@@ -264,6 +264,9 @@
 - [Boom Filters](https://github.com/tylertreat/BoomFilters) - Probabilistic data structures for processing continuous, unbounded streams.
 - [xorfilter](https://github.com/FastFilter/xorfilter) - Go library implementing xor filters.
 - [fastjson](https://github.com/valyala/fastjson) - Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection.
+- [eris](https://github.com/rotisserie/eris) - Provides a better way to handle, trace, and log errors in Go. ([HN](https://news.ycombinator.com/item?id=21879921))
+- [easypki](https://github.com/google/easypki) - Creating a certificate authority the easy way.
+- [BigCache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go. ([HN](https://news.ycombinator.com/item?id=21843284))
 
 ## Links
 

@@ -64,3 +64,4 @@
 - [Streamz](https://github.com/python-streamz/streamz) - Real-time stream processing for python.
 - [Hypothesis](https://github.com/HypothesisWorks/hypothesis) - Powerful, flexible, and easy to use library for property-based testing.
 - [kombu](https://github.com/celery/kombu) - Messaging library for Python.
+- [GPUtil](https://github.com/anderskm/gputil) - Python module for getting the GPU status from NVIDA GPUs using nvidia-smi programmically in Python.

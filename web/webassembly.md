@@ -53,3 +53,4 @@
 - [wasmboy](https://github.com/torch2424/wasmboy) - Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript.
 - [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs#readme)
 - [WASM as a Platform for Abstraction (2019)](http://adventures.michaelfbryan.com/posts/wasm-as-a-platform-for-abstraction/) ([HN](https://news.ycombinator.com/item?id=21794438))
+- [Making really tiny WebAssembly graphics demos (2019)](http://cliffle.com/blog/bare-metal-wasm/)

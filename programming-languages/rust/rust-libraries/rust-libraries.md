@@ -181,6 +181,7 @@
 - [refpool](https://github.com/bodil/refpool) - Efficient memory pool mechanism for Rust.
 - [lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API.
 - [mitosis](https://github.com/Manishearth/mitosis) - Spawn processes with arbitrary closures in rust.
+- [prettytable-rs](https://github.com/phsym/prettytable-rs) - Rust library to print aligned and formatted tables.
 
 ## Cargo Plugins
 

@@ -106,3 +106,4 @@
 - [Challenging projects every programmer should try (2019)](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html) ([HN](https://news.ycombinator.com/item?id=21790779))
 - [You don't need loops](https://github.com/you-dont-need/You-Dont-Need-Loops#readme) - Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
 - [Bret Victor - The Future of Programming (2013)](https://vimeo.com/71278954)
+- [Ask HN: What do top engineers you know do that others don't? (2019)](https://news.ycombinator.com/item?id=21870889)

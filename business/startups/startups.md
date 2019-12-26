@@ -105,6 +105,8 @@
 - [Operations and Internal Communication Strategies For Effective CEOs (2019)](https://www.sametab.com/blog/operations-and-internal-communication-strategies-for-effective-ceos) ([HN](https://news.ycombinator.com/item?id=21742739))
 - [Knowing how to code is a trap (2019)](https://bramkanstein.com/codertrap/)
 - [Half of what separates successful entrepreneurs from non-successful ones is pure perseverance - Steve Jobs](https://twitter.com/JonErlichman/status/1206239739063537666)
+- [Working for a startup makes less sense (2019)](https://zainamro.com/notes/working-for-a-startup-makes-less-sense) ([HN](https://news.ycombinator.com/item?id=21868022))
+- [HN: Downsides to working at a tech giant (2019)](https://news.ycombinator.com/item?id=21865065)
 
 ## Images
 

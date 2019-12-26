@@ -25,3 +25,4 @@
 - [Phaser](https://github.com/photonstorm/phaser) - Fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [Making a 3D Game in Castle (2019)](https://medium.com/castle-archives/making-a-3d-game-in-castle-da628cb7e5e5)
 - [GPU Optimization for Games](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d)
+- [How Do Bullets Work in Video Games?](https://www.gamasutra.com/blogs/TristanJung/20191206/355250/How_Do_Bullets_Work_in_Video_Games.php) ([HN](https://news.ycombinator.com/item?id=21859747))

@@ -4,6 +4,7 @@
 
 - [facil.io](https://github.com/boazsegev/facil.io) - C micro-framework for web applications.
 - [libart](https://github.com/armon/libart) - Adaptive Radix Trees implemented in C.
+- [httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C.
 
 ## Other
 

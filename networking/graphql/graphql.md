@@ -61,3 +61,4 @@
 - [Graphile Starter](https://github.com/graphile/starter) - Opinionated quick-start with pre-built user account system for full-stack application development in React, Node.js, GraphQL and PostgreSQL.
 - [Super Graph](https://github.com/dosco/super-graph) - Build web products faster. Secure high performance GraphQL.
 - [Designing GraphQL Schemas (2019)](https://egghead.io/courses/designing-graphql-schemas-99db)
+- [graphql-santa](https://github.com/prisma-labs/graphql-santa) - GraphQL API framework. It takes a code-first approach and brings together a set of tools that provide robust type safety so that if your app compiles, you have a high degree of confidence that it works.

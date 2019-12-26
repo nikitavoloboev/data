@@ -34,3 +34,4 @@ I [budget all my money](../economy/finance.md). This allows me to spend & invest
 - [How a Month without Computers Changed Me](https://dev.to/iskin/how-a-month-without-computers-changed-me-1ho4)
 - [Going minimal (2012)](http://wy.io/going-minimal/)
 - [There Is Too Much Stuff (2019)](https://www.theatlantic.com/health/archive/2019/05/too-many-options/590185/) ([HN](https://news.ycombinator.com/item?id=20018756))
+- [Minimalism — The most undervalued development skill (2019)](https://volument.com/blog/minimalism-the-most-undervalued-development-skill) ([HN](https://news.ycombinator.com/item?id=21871491))

@@ -35,3 +35,4 @@
 - [Building My Own Clojure Tools - Nikita Prokopov (2019)](https://www.youtube.com/watch?v=l1b7Da2DnPo)
 - [cljdoc](https://cljdoc.org/) - Central documentation hub for the Clojure community.
 - [SICP Distilled](http://www.sicpdistilled.com/) - Idiosyncratic tour of SICP in Clojure.
+- [The Clojure Mindshare (2019)](https://groundedsage.netlify.com/posts/the-clojure-mindshare/)

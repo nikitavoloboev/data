@@ -95,7 +95,7 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 
 - Most adverbs are superfluous. Most cases where you say "generally" or "usually" you're undermining your point and the use of "very", "extremely", etc. are hyperbolic and breathless and make it easier to regard what you're writing as unserious.
 - Examine every word: a surprising number don’t serve any purpose.
-- [One of the best things about starting your career at Amazon is grooming in some fantastic values in early years of life. One of those is writing pithy, powerful documents. ](https://twitter.com/nipunmehra/status/1154590521345490945)
+- [One of the best things about starting your career at Amazon is grooming in some fantastic values in early years of life. One of those is writing pithy, powerful documents.](https://twitter.com/nipunmehra/status/1154590521345490945)
 
 ## Links
 
@@ -116,3 +116,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Cut out everything that’s not surprising (2019)](https://sivers.org/d22)
 - [How to write a technical paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)
 - [Production Guide](https://github.com/RacheltheEditor/ProductionGuide#readme) - Practical explanation of formatting and style conventions that should be consistent across Guides.
+- [Amazon writing tips](https://pbs.twimg.com/media/EMb7mTRVAAELtUk?format=jpg&name=medium)

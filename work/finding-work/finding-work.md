@@ -53,3 +53,4 @@ I use a [Trello board](https://trello.com/b/w58QRfB0) to keep track of companies
 - [Rocket List 2019](https://rocketlist.uk/) - Curated list of the best fast-growing companies in London to work for. Built for job-seekers.
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards#readme) - List of companies (or teams) that don't do "whiteboard" interviews.
 - [Placement](https://placement.com/) - Get a great job in a new city.
+- [Tell HN: I used to be homeless and want to work as a software developer (2019)](https://news.ycombinator.com/item?id=21880179)

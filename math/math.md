@@ -97,3 +97,5 @@
 - [Cantor's Paradise Math Blog](https://medium.com/cantors-paradise)
 - [Better intuition for information theory (2019)](https://www.blackhc.net/blog/2019/better-intuition-for-information-theory/)
 - [Mathematics Free and Open-Source Textbooks](http://danaernst.com/resources/free-and-open-source-textbooks/) ([HN](https://news.ycombinator.com/item?id=21851020))
+- [Stuff I learnt in 2019](http://bollu.github.io/#stuff-i-learnt-in-2019) ([Reddit](https://www.reddit.com/r/math/comments/efm6tt/stuff_i_learnt_in_2019_papers_code_math/))
+- [T \* sin (t) ≈ Christmas tree (2013)](https://github.com/anvaka/atree#) ([HN](https://news.ycombinator.com/item?id=21879397))

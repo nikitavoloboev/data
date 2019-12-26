@@ -20,3 +20,4 @@
 - [Fastly's new serverless compute environment gives you more power at the edge (2019)](https://www.fastly.com/blog/join-the-beta-new-serverless-compute-environment-at-the-edge)
 - [Serverless handbook for front end engineers](https://serverlesshandbook.dev/)
 - [Coding on the Edge – John Graham Cumming (2018)](https://www.youtube.com/watch?v=Ydu9qVUjh4Q)
+- [Pulumi Examples](https://github.com/pulumi/examples) - Contains examples of using Pulumi to build and deploy cloud applications and infrastructure.

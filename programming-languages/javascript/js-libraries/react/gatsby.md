@@ -39,3 +39,4 @@
 - [Announcing Gatsby Cloud (2019)](https://www.gatsbyjs.org/blog/2019-11-14-announcing-gatsby-cloud/)
 - [What do you like and dislike about Gatsby JS? (2019)](https://twitter.com/mxstbr/status/1198915353809698817)
 - [Deploy Gatsby site with Zeit](https://zeit.co/solutions/gatsby)
+- []The End of an Era: Migrating from WordPress to Gatsby (2019)(https://www.taniarascia.com/migrating-from-wordpress-to-gatsby/)
