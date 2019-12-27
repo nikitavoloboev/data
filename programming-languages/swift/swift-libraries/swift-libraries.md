@@ -132,6 +132,7 @@
 - [SwiftCLI](https://github.com/jakeheis/SwiftCLI) - Powerful framework for developing CLIs in Swift.
 - [KeyboardKit](https://github.com/douglashill/KeyboardKit) - Framework to help iOS and Mac Catalyst apps support being controlled using a hardware keyboard.
 - [FastDiff](https://github.com/kandelvijaya/FastDiff) - General purpose diffing library with parent/children n-level diffing.
+- [Keychain Swift](https://github.com/evgenyneu/keychain-swift) - Helper functions for saving text in Keychain securely for iOS, OS X, tvOS and watchOS.
 
 ## Links
 
