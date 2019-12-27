@@ -9,3 +9,4 @@
 - [k crash course](https://github.com/kparc/kcc#readme)
 - [no stinking loops](http://nsl.com/)
 - [k origins history](https://kparc.io/)
+- [iKe: a browser-based sandbox for K](http://johnearnest.github.io/ok/ike/ike.html) ([HN](https://news.ycombinator.com/item?id=21886380))

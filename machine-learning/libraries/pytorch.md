@@ -61,3 +61,5 @@
 - [Neural Painters: A learned differentiable constraint for generating brushstroke paintings](https://github.com/reiinakano/neural-painters-pytorch)
 - [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) - Image-to-Image Translation in PyTorch.
 - [Easily Extendable Basic Deep Metric Learning Pipeline](https://github.com/Confusezius/Deep-Metric-Learning-Baselines)
+- [TTAch](https://github.com/qubvel/ttach) - Image Test Time Augmentation with PyTorch.
+- [Hyperspherical Variational Auto-Encoders in PyTorch](https://github.com/nicola-decao/s-vae-pytorch)

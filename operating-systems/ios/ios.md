@@ -4,6 +4,10 @@ My [favorite mobile operating system](https://github.com/nikitavoloboev/my-ios#r
 
 I hope to release Learn Anything on iOS soon too. That would be quite cool.
 
+## Nice OSS iOS Swift apps
+
+- [Spotify Daily](https://github.com/ThasianX/SpotifyDaily) - Open-Source Spotify App. ([HN](https://news.ycombinator.com/item?id=21867728))
+
 ## Notes
 
 - [Giving location, camera, photo permissions to apps matters](https://krausefx.com/blog/ios-privacy-watchuser-access-both-iphone-cameras-any-time-your-app-is-running)
