@@ -56,3 +56,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Stanford CS 144: Introduction to Computer Networking](https://cs144.github.io/) ([HN](https://news.ycombinator.com/item?id=21794270))
 - [inlets](https://github.com/inlets/inlets) - Expose your local endpoints to the Internet.
 - [inletsctl](https://github.com/inlets/inletsctl) - Fast HTTP (L7) and TCP (L4) tunnels written in Go.
+- [Awesome Computer Networking Resources](https://github.com/nyquist/awesome-networking#readme)
