@@ -14,6 +14,7 @@
 - [uilive](https://github.com/gosuri/uilive) - Go library for updating terminal output in realtime.
 - [gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
 - [go-arg](https://github.com/alexflint/go-arg) - Structured argument parsing for Go.
+- [Glamour](https://github.com/charmbracelet/glamour) - Write gorgeous command-line tools.
 
 ## Testing
 
