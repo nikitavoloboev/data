@@ -47,3 +47,4 @@
 - [thread-pool-cpp](https://github.com/inkooboo/thread-pool-cpp) - High performance C++11 thread pool.
 - [pytest-cpp](https://github.com/pytest-dev/pytest-cpp) - Use pytest's runner to discover and execute C++ tests.
 - [MFEM](https://github.com/mfem/mfem) - Lightweight, general, scalable C++ library for finite element methods.
+- [Backward-cpp](https://github.com/bombela/backward-cpp) - Beautiful stack trace pretty printer for C++.

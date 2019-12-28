@@ -38,6 +38,7 @@
 - [Rust 3](https://github.com/mitsuhiko/aoc19)
 - [OCaml](https://github.com/narimiran/AdventOfCode2019)
 - [Haskell](https://github.com/merijn/AdventOfCode2019)
+- [Haskell 2](https://github.com/dustin/aoc2019)
 - [Swift](https://github.com/evilmint/AdventOfCode)
 - [Go](https://github.com/neutralinsomniac/advent2019)
 - [Python](https://github.com/benediktwerner/AdventOfCode)

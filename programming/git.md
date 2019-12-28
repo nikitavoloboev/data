@@ -77,3 +77,4 @@ I love Git and version control. And I use version control over any project I do.
 - [GitUp](https://gitup.co/) - Git client with nice interface.
 - [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out) ([HN](https://news.ycombinator.com/item?id=21755090))
 - [Stacked Diffs Versus Pull Requests (2018)](https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/)
+- [Barebones git (2019)](https://artemix.org/blog/barebones-git.html)

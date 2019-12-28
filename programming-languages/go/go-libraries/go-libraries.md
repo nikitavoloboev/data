@@ -267,6 +267,7 @@
 - [eris](https://github.com/rotisserie/eris) - Provides a better way to handle, trace, and log errors in Go. ([HN](https://news.ycombinator.com/item?id=21879921))
 - [easypki](https://github.com/google/easypki) - Creating a certificate authority the easy way.
 - [BigCache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go. ([HN](https://news.ycombinator.com/item?id=21843284))
+- [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries.
 
 ## Links
 
