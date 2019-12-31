@@ -80,3 +80,4 @@
 - [Nix recipes for Haskellers](https://www.srid.ca/haskell-nix.html)
 - [format-nix](https://github.com/justinwoo/format-nix) - Simple formatter for Nix using tree-sitter-nix.
 - [go-nix](https://github.com/orivej/go-nix) - Nix language parser and Nix-compatible file hasher in Go.
+- [nix-dns](https://github.com/kirelagin/nix-dns) - Nix DSL for DNS zone files.

@@ -137,6 +137,8 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Lobsters: Old books worth reading (2019)](https://lobste.rs/s/ro5gef/old_books_worth_reading)
 - [Ask HN: Books you plan to read in 2020?](https://news.ycombinator.com/item?id=21802452)
 - [Ask HN: Favorite Nonfiction Books of 2019?](https://news.ycombinator.com/item?id=21792158)
+- [Ask HN: Best books you read in the past decade? (2019)](https://news.ycombinator.com/item?id=21900498)
+- [What and How I read in 2019 by Christopher Schroeder](https://www.linkedin.com/pulse/what-how-i-read-2020-christopher-m-schroeder/)
 
 ## Notes
 

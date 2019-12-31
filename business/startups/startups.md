@@ -107,6 +107,7 @@
 - [Half of what separates successful entrepreneurs from non-successful ones is pure perseverance - Steve Jobs](https://twitter.com/JonErlichman/status/1206239739063537666)
 - [Working for a startup makes less sense (2019)](https://zainamro.com/notes/working-for-a-startup-makes-less-sense) ([HN](https://news.ycombinator.com/item?id=21868022))
 - [HN: Downsides to working at a tech giant (2019)](https://news.ycombinator.com/item?id=21865065)
+- [Ask HN: Which is the most successful one-person business you heard of in 2019?](https://news.ycombinator.com/item?id=21908577)
 
 ## Images
 
