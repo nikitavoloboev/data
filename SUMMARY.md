@@ -414,6 +414,7 @@
 - [Cloud computing](cloud-computing/cloud-computing.md)
   - [Serverless computing](cloud-computing/serverless-computing/serverless-computing.md)
     - [Cloudflare workers](cloud-computing/serverless-computing/cloudflare-workers.md)
+    - [AWS Lambda](cloud-computing/serverless-computing/aws-lambda.md)
   - [AWS](cloud-computing/aws/aws.md)
 - [Front End](front-end/front-end.md)
   - [HTML](front-end/html.md)

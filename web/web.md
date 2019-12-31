@@ -51,3 +51,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Building and deploying modern websites and apps - GitHub Universe 2019](https://www.youtube.com/watch?v=KlO5Ksk7baQ)
 - [This Page is Designed to Last (2019)](https://jeffhuang.com/designed_to_last/) ([HN](https://news.ycombinator.com/item?id=21840140)) ([Lobsters](https://lobste.rs/s/xltmol/this_page_is_designed_last))
 - [Web development, illustrated](https://illustrated.dev/)
+- [HN: The Old Internet Died and We Watched and Did Nothing (2019)](https://news.ycombinator.com/item?id=21921323)
