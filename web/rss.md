@@ -17,3 +17,4 @@
 - [RSS-Anything](https://github.com/fabiospampinato/rssa) - Get updates about anything you can reach with an url. Like RSS, but for anything.
 - [How to add a Web Feed (RSS/Atom) to your Jekyll website](https://gist.github.com/alexandru/ccabd60d52ad53027a7deb2ef01f5137)
 - [Feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python.
+- [Ask HN: Do you still use RSS? (2019)](https://news.ycombinator.com/item?id=21913598)

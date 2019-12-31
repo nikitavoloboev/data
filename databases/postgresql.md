@@ -48,3 +48,4 @@
 - [pgAudit](https://github.com/pgaudit/pgaudit) - PostgreSQL Audit Extension.
 - [Message DB: Event Store and Message Store for PostgreSQL (2019)](https://blog.eventide-project.org/articles/announcing-message-db/) ([HN](https://news.ycombinator.com/item?id=21810272)) ([Code](https://github.com/message-db/message-db))
 - [Supabase Realtime](https://github.com/supabase/realtime) - Listens to changes in a PostgreSQL Database and broadcasts them over websockets.
+- [py-pgproto](https://github.com/MagicStack/py-pgproto) - Low-level IO utilities for PosgtreSQL drivers.

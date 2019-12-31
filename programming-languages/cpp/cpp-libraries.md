@@ -49,3 +49,4 @@
 - [MFEM](https://github.com/mfem/mfem) - Lightweight, general, scalable C++ library for finite element methods.
 - [Backward-cpp](https://github.com/bombela/backward-cpp) - Beautiful stack trace pretty printer for C++.
 - [sparsehash](https://github.com/sparsehash/sparsehash) - C++ associative containers.
+- [tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++.
