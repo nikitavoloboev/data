@@ -107,3 +107,4 @@
 - [You don't need loops](https://github.com/you-dont-need/You-Dont-Need-Loops#readme) - Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
 - [Bret Victor - The Future of Programming (2013)](https://vimeo.com/71278954)
 - [Ask HN: What do top engineers you know do that others don't? (2019)](https://news.ycombinator.com/item?id=21870889)
+- [If you're goal is to learn how to code in 2020, here's a thread of advice for you](https://twitter.com/ASpittel/status/1212372163442958338)
