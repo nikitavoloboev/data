@@ -40,6 +40,7 @@
 - [Kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [ncollide](https://github.com/rustsim/ncollide) - 2 and 3-dimensional collision detection library in Rust.
 - [imgui-rs](https://github.com/Gekkio/imgui-rs) - Rust bindings for dear imgui.
+- [luminance](https://github.com/phaazon/luminance-rs) - Type-safe, type-level and stateless Rust graphics framework.
 
 ## IO
 
@@ -189,6 +190,8 @@
 - [prettytable-rs](https://github.com/phsym/prettytable-rs) - Rust library to print aligned and formatted tables.
 - [unicode-width](https://github.com/unicode-rs/unicode-width) - Displayed width of Unicode characters and strings according to UAX#11 rules.
 - [Chrono](https://github.com/chronotope/chrono) - Date and time library for Rust.
+- [iqlusion crates](https://github.com/iqlusioninc/crates) - Collection of open source Rust crates from iqlusion.
+- [bnf](https://github.com/shnewto/bnf) - Parse BNF grammar definitions.
 
 ## Cargo Plugins
 

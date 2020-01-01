@@ -117,3 +117,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [How to write a technical paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)
 - [Production Guide](https://github.com/RacheltheEditor/ProductionGuide#readme) - Practical explanation of formatting and style conventions that should be consistent across Guides.
 - [Amazon writing tips](https://pbs.twimg.com/media/EMb7mTRVAAELtUk?format=jpg&name=medium)
+- [Left](https://github.com/hundredrabbits/Left) - Distractionless Writing Tool.

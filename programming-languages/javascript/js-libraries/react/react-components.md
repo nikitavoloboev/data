@@ -55,6 +55,7 @@
 - [Naph](https://github.com/williamluke4/Naph) - React Component for rendering Node Graphs.
 - [React Spinners](https://github.com/davidhu2000/react-spinners) - Collection of loading spinner components for react.
 - [react-teleporter](https://github.com/gregberge/react-teleporter) - Teleport React components in the same React tree.
+- [Stack Styled](https://github.com/sapegin/stack-styled) - Stacking layouts for React.
 
 ## Links
 

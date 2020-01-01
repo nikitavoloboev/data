@@ -158,6 +158,10 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Whimsical](https://whimsical.com/) - The Visual Workspace.
 - [linkinator](https://github.com/JustinBeckwith/linkinator) - Scurry around your site and find all those broken links.
 - [Better Twitter](https://bettertwitter.netlify.com/) - Better twitter search UI for power users. ([Code](https://github.com/sw-yx/bettertwitter))
+- [namae](https://github.com/uetchy/namae) - Saves your time searching around registries and checking if the desired name is ready for use.
+- [Sacred](https://github.com/IDSIA/sacred) - Tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
+- [Data Puller](https://github.com/austil/datapuller) - Easy" data dump of your activity on various web services.
+- [Short](https://github.com/byliuyang/short) - URL shortening service written in Go and React.
 
 ## Notes
 

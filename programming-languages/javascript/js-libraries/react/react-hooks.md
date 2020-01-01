@@ -5,7 +5,7 @@
 - [Rooks](https://github.com/imbhargav5/rooks) - Collection of regularly used custom hooks as utils for React.
 - [Constate](https://github.com/diegohaz/constate) - Scalable state manager using React Hooks & Context.
 - [Collection of essential React Hooks](https://github.com/streamich/react-use)
-- [useHooks](https://usehooks.com/) - Easy to understand React Hook recipes by Gabe Ragland.
+- [useHooks](https://usehooks.com/) - Easy to understand React Hook recipes by Gabe Ragland. ([Code](https://github.com/gragland/usehooks))
 - [Use Hotkeys](https://github.com/sandiiarov/use-hotkeys) - React wrapper around Hotkeys.js.
 - [Use Events](https://github.com/sandiiarov/use-events) - Events turned into React Hooks.
 - [useQueryParams](https://github.com/pbeshai/use-query-params) - React Hook for managing state in URL query parameters with easy serialization.

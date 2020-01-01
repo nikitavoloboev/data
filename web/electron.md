@@ -19,3 +19,4 @@
 - [Electron Notarize](https://github.com/electron/electron-notarize) - Notarize your macOS Electron Apps.
 - [Electron React Boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - Uses Electron, React, Redux, React Router, Webpack and React Hot Loader for rapid application development.
 - [Make Your Electron App Feel at Home Everywhere (2019)](https://kilianvalkhof.com/2019/electron/make-your-electron-app-feel-at-home-everywhere/)
+- [electron-builder-notarize](https://github.com/karaggeorge/electron-builder-notarize) - Notarize Electron applications using electron-builder.

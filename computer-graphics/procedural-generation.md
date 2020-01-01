@@ -11,3 +11,4 @@
 - [Cartographer](https://v-os.ca/cartographer) - Procedurally generated persistent multiplayer exploration game.
 - [Procedural World Generation of Ubisoft’s Far Cry 5 (2019)](https://www.youtube.com/watch?v=NfizT369g60)
 - [A two-dimensional maze generator in C++](https://joy.recurse.com/posts/465-a-two-dimensional-maze-generator-in-c)
+- [Procedural-Cities](https://github.com/magnificus/Procedural-Cities) - Aims to provide a framework and a solid implementation of different techniques for generating complete seamless procedural cities with interiors for all buildings.

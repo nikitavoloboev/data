@@ -135,3 +135,5 @@
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - Web-based JavaScript（canvas）spreadsheet.
 - [IsoCity](https://github.com/victorqribeiro/isocity) - Isometric city builder in JavaScript.
 - [car](https://github.com/pakastin/car) - Simple 2d car physics with JavaScript. ([HN](https://news.ycombinator.com/item?id=21927076))
+- [Picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written in JavaScript.
+- [react-isomorphic-data](https://github.com/jackyef/react-isomorphic-data) - Easily fetch data in your React components, with similar APIs to react-apollo.

@@ -14,3 +14,4 @@
 - [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 - [Awesome implementations of the Mapbox Vector Tile specification](https://github.com/mapbox/awesome-vector-tiles#readme)
 - [GeoMesa](https://github.com/locationtech/geomesa) - Suite of tools for working with big geo-spatial data in a distributed fashion.
+- [Maputnik](https://github.com/maputnik/editor) - Open source visual editor for the 'Mapbox Style Specification'.

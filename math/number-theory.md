@@ -12,3 +12,4 @@
 - [Number theory learning seminar (2015)](http://math.stanford.edu/~conrad/Perfseminar/)
 - [Algebra Number Theory book](https://github.com/williamstein/ant)
 - [Does anyone “know” a proof of Fermat’s Last Theorem? (2019)](https://xenaproject.wordpress.com/2019/09/27/does-anyone-know-a-proof-of-fermats-last-theorem/)
+- [ANTIC](https://github.com/wbhart/antic) - Algebraic Number Theory In C.
