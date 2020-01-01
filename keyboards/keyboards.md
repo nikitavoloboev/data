@@ -44,3 +44,4 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [KMonad](https://github.com/david-janssen/kmonad) - Advanced keyboard manager.
 - [How to make your C codebase rusty: rewriting keyboard firmware keymap in Rust (2019)](https://about.houqp.me/posts/rusty-c/) ([HN](https://news.ycombinator.com/item?id=21595948))
 - [HN: If You Can't Buy the Keyboard You Want, Build It Instead (2019)](https://news.ycombinator.com/item?id=21789476)
+- [KeyV2](https://github.com/rsheldiii/KeyV2) - Parametric Mechanical Keycap Library.

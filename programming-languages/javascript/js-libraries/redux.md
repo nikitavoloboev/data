@@ -49,3 +49,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Re-reselect](https://github.com/toomuchdesign/re-reselect) - Enhance Reselect selectors with deeper memoization and cache management.
 - [Redux First History](https://github.com/salvoravida/redux-first-history) - Redux history binding support react-router - @reach/router.
 - [Our Redux Anti Pattern](https://rangle.slides.com/yazanalaboudi/deck#/) - Guide to predictable scalability.
+- [Reasons to learn Redux as a JavaScript Developer (2019)](https://www.robinwieruch.de/redux-javascript) ([HN](https://news.ycombinator.com/item?id=21926659))

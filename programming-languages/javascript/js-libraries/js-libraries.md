@@ -134,3 +134,4 @@
 - [fsm-as-promised](https://github.com/vstirbu/fsm-as-promised) - Finite state machine library using ES6 promises.
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - Web-based JavaScript（canvas）spreadsheet.
 - [IsoCity](https://github.com/victorqribeiro/isocity) - Isometric city builder in JavaScript.
+- [car](https://github.com/pakastin/car) - Simple 2d car physics with JavaScript. ([HN](https://news.ycombinator.com/item?id=21927076))

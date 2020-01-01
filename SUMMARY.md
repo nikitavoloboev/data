@@ -143,6 +143,7 @@
   - [Functional programming](programming/functional-programming/functional-programming.md)
     - [GADTs](programming/functional-programming/gadts.md)
     - [Algebraic effects](programming/functional-programming/algebraic-effects.md)
+  - [Object-oriented programming](programming/object-oriented-programming.md)
   - [Logic programming](programming/logic-programming.md)
   - [Array programming](programming/array-programming.md)
   - [Constraint programming](programming/constraint-programming.md)
