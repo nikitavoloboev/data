@@ -273,3 +273,4 @@
 ## Links
 
 - [Awesome Go](https://github.com/avelino/awesome-go#readme)
+- [Golang Serializer Benchmark Comparison](https://github.com/smallnest/gosercomp)

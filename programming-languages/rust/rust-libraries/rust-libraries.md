@@ -63,6 +63,10 @@
 
 - [zksnark-rs](https://github.com/republicprotocol/zksnark-rs) - Zero knowledge succinct arguments of knowledge, written in Rust.
 
+## Linux
+
+- [procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem.
+
 ## Other
 
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser.
