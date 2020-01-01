@@ -92,3 +92,4 @@
 - [Six Questions to Understand the CSS Box Model (2017)](https://medium.com/launch-school/https-medium-com-dembasiby-understanding-the-css-box-model-b005a82593a6)
 - [High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/)
 - [CSS Circles (2019)](https://cloudfour.com/thinks/css-circles/)
+- [CSShake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM.

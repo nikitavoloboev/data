@@ -16,6 +16,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Staticgen](https://github.com/tj/staticgen) - Static website generator that lets you use HTTP servers and frameworks you already know.
 - [rib](https://github.com/srid/rib) - Haskell library for writing your own static site generator.
 - [Publish](https://github.com/JohnSundell/Publish) - Static site generator for Swift developers.
+- [Eleventy](https://www.11ty.dev/) - Simpler static site generator. ([Starter](https://eleventail.netlify.com/))
 
 ## Links
 

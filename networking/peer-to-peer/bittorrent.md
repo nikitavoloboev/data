@@ -2,10 +2,12 @@
 
 ## Torrent sites
 
+- [RuTracker](https://rutracker.org/forum/index.php)
+- [SkyTorrents](https://www.skytorrents.lol/)
 - [7torrents](https://www.7torrents.cc/)
 - [iDope](https://idope.xyz/)
-- [RuTracker](https://rutracker.org/forum/index.php)
 - [What is the hottest general torrent site right now? (2018)](https://www.reddit.com/r/Piracy/comments/9vy0oe/what_is_the_hottest_general_torrent_site_right_now/)
+- [What's the best current public index/crawler to find torrents? (2019)](https://www.reddit.com/r/trackers/comments/ebz8w9/whats_the_best_current_public_indexcrawler_to/)
 
 ## Links
 

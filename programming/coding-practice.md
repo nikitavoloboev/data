@@ -44,3 +44,4 @@
 - [Python](https://github.com/benediktwerner/AdventOfCode)
 - [Python 2](https://github.com/andreypopp/aoc2019)
 - [ReasonML](https://github.com/believer/advent-of-code)
+- [Zsh](https://github.com/romkatv/advent-of-code-2019/blob/master/README.md)
