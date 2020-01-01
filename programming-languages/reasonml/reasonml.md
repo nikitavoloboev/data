@@ -45,3 +45,4 @@
 - [Sean Grove - Building Real Systems in Reason (Native) (2019)](https://www.youtube.com/watch?v=Lv2QCq6ZBPs)
 - [Ricky Vetter - Why React is just better in Reason (2019)](https://www.youtube.com/watch?v=i9Kr9wuz24g)
 - [Hongbo Zhang - Building a High Performance JavaScript Compiler (2019)](https://www.youtube.com/watch?v=iWEQjvGGiTA)
+- [Spin](https://github.com/tmattio/spin) - Project scaffolding tool and set of templates for Reason and OCaml.
