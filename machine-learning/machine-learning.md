@@ -162,3 +162,4 @@
 - [NeurIPS 2019 Schedule](https://nips.cc/Conferences/2019/Schedule)
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google's fast-paced, practical introduction to machine learning.
 - [What was your favorite paper of 2019 and why? (2019)](https://www.reddit.com/r/MachineLearning/comments/e8the3/d_what_was_your_favorite_paper_of_2019_and_why/)
+- [Ask HN: Full-on machine learning for 2020, what are the best resources?](https://news.ycombinator.com/item?id=21924298)

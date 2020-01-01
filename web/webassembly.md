@@ -54,3 +54,4 @@
 - [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs#readme)
 - [WASM as a Platform for Abstraction (2019)](http://adventures.michaelfbryan.com/posts/wasm-as-a-platform-for-abstraction/) ([HN](https://news.ycombinator.com/item?id=21794438))
 - [Making really tiny WebAssembly graphics demos (2019)](http://cliffle.com/blog/bare-metal-wasm/)
+- [WASM Metal](https://github.com/lastmjs/wasm-metal) - Bare metal physical implementation of WebAssembly. That's right, a WebAssembly CPU.

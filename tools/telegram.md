@@ -14,7 +14,7 @@ This lets me jump between many groups in under 1 second time. For other groups I
 
 - [Integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow.
 - [Telebot](https://github.com/tucnak/telebot) - Looks awesome.
-- [Telegrammer](https://github.com/givip/Telegrammer) - Swift 4.1 with Apple/SwiftNIO.
+- [Telegrammer](https://github.com/givip/Telegrammer) - Written with Swift 5.0/NIO, supports Linux, macOS.
 
 ## Links
 

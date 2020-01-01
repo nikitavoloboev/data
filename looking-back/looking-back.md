@@ -4,7 +4,7 @@ I want to share my journey in life both for myself and other people who might fi
 
 I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) and [Instagram](https://instagram.com/nikitavoloboev).
 
-## 2019
+## [2019](2019/2019.md)
 
 - [January](2019/2019-january.md) - First month at Enpicom, building a platform for personalized immunotherapies.
 - [February](2019/2019-february.md) - Moved to Den Bosch. Writing code.
@@ -17,7 +17,7 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 - [September](2019/2019-september.md) - Prague. Gyana. Gatsby is cool.
 - [October](2019/2019-october.md) - Left Gyana.
 - [November](2019/2019-november.md) - Redoing personal site, learning.
-- [December](2019/2019-december.md)
+- [December](2019/2019-december.md) - New years with family.
 
 ## [2018](2018/2018.md)
 
