@@ -183,6 +183,7 @@
 - [lol-html](https://github.com/cloudflare/lol-html) - Low output latency streaming HTML parser/rewriter with CSS selector-based API.
 - [mitosis](https://github.com/Manishearth/mitosis) - Spawn processes with arbitrary closures in rust.
 - [prettytable-rs](https://github.com/phsym/prettytable-rs) - Rust library to print aligned and formatted tables.
+- [unicode-width](https://github.com/unicode-rs/unicode-width) - Displayed width of Unicode characters and strings according to UAX#11 rules.
 
 ## Cargo Plugins
 

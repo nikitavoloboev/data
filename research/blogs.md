@@ -53,3 +53,4 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
 - [Rust blog source](https://github.com/rust-lang/blog.rust-lang.org)
+- [Ask HN: What are the niche blogs (like gwern) that worthwhile to follow? (2020)](https://news.ycombinator.com/item?id=21928170)
