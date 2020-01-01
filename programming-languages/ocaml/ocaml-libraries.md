@@ -16,3 +16,4 @@
 - [higher](https://github.com/ocamllabs/higher) - Higher-kinded programming in OCaml.
 - [GraphQL Servers in OCaml](https://github.com/andreas/ocaml-graphql-server) - Create GraphQL servers in OCaml.
 - [piaf](https://github.com/anmonteiro/piaf) - Client library for HTTP/1.X / HTTP/2 written entirely in OCaml.
+- [OCamlgraph](https://github.com/backtracking/ocamlgraph) - OCaml graph library.

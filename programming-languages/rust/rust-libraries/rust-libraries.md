@@ -39,6 +39,7 @@
 - [raqote](https://github.com/jrmuizel/raqote) - Pure Rust 2D Graphics Library.
 - [Kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [ncollide](https://github.com/rustsim/ncollide) - 2 and 3-dimensional collision detection library in Rust.
+- [imgui-rs](https://github.com/Gekkio/imgui-rs) - Rust bindings for dear imgui.
 
 ## IO
 

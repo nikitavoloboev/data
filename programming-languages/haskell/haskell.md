@@ -107,3 +107,4 @@
 - [A List of Haskell Articles on good design, good testing](https://www.onikudaki.net/blog/wp-content/uploads/2019/12/HaskellArticles-1.pdf)
 - [Is Haskell the functional end station or are there heavier drugs? (2019)](https://www.reddit.com/r/haskell/comments/e021oe/is_haskell_the_functional_end_station_or_are/)
 - [Dependently Typed Haskell in Industry (Experience Report) (2019)](https://www.youtube.com/watch?v=Q6PKdRDKcKA)
+- [Write Junior Code - A plea to Haskellers everywhere (2019)](https://www.parsonsmatt.org/2019/12/26/write_junior_code.html) ([Lobsters](https://lobste.rs/s/gdwjpc/plea_haskellers_everywhere_write_junior))
