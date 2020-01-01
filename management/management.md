@@ -16,3 +16,4 @@
 - [Ask HN: What are the signs that you have a great manager? (2019)](https://news.ycombinator.com/item?id=20230133)
 - [The Power of Performance Reviews: Use This System to Become a Better Manager (2019)](https://firstround.com/review/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager/)
 - [Teamlead Roadmap (Russian)](https://github.com/tlbootcamp/tlroadmap#readme)
+- [Ask HN: Solo devs, how do you plan your development? (2019)](https://news.ycombinator.com/item?id=21905423)

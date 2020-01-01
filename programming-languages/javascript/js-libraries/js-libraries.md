@@ -133,3 +133,4 @@
 - [GGEditor](https://github.com/alibaba/GGEditor) - Visual graph editor based on G6 and React.
 - [fsm-as-promised](https://github.com/vstirbu/fsm-as-promised) - Finite state machine library using ES6 promises.
 - [x-spreadsheet](https://github.com/myliang/x-spreadsheet) - Web-based JavaScript（canvas）spreadsheet.
+- [IsoCity](https://github.com/victorqribeiro/isocity) - Isometric city builder in JavaScript.
