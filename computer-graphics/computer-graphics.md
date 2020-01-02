@@ -28,7 +28,7 @@
 - [2D Graphics on Modern GPU (2019)](https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html)
 - [Resources for Learning Graphics Programming](http://stephaniehurlburt.com/blog/2019/3/25/resources-for-learning-graphics-programming)
 - [Cellular Forms](https://github.com/fogleman/CellularForms) - Implementation of Andy Lomas' Cellular Forms.
-- [Physically Based Rendering](https://github.com/Nadrin/PBR) - Implementation of physically based shading model & image based lighting in various graphics APIs.
+- [Physically Based Rendering](https://github.com/Nadrin/PBR) - Implementation of physically based shading model & image based lighting in various graphics APIs. ([Web](http://www.pbr-book.org/))
 - [graphics-resources](https://github.com/mattdesl/graphics-resources) - Few of my bookmarks related to game development and realtime graphics programming.
 - [Magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization.
 - [Pathfinder](https://github.com/servo/pathfinder) - Fast, practical, GPU-based rasterizer for fonts and vector graphics using OpenGL 3.0+, OpenGL ES 3.0+, or Metal.

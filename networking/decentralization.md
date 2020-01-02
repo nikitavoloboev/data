@@ -20,3 +20,4 @@
 - [Local-first software: you own your data, in spite of the cloud](https://blog.acolyer.org/2019/11/20/local-first-software/)
 - [Protocols, Not Platforms: A Technological Approach to Free Speech (2019)](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
 - [The ecosystem is moving - Moxie (2019)](https://www.youtube.com/watch?v=Nj3YFprqAr8)
+- [Misskey](https://github.com/syuilo/misskey) - Federated blogging platform.

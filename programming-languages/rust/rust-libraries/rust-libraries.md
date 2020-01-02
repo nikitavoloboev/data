@@ -29,6 +29,7 @@
 
 ## ORM
 
+- [SQLx](https://github.com/launchbadge/sqlx) - Rust SQL Toolkit.
 - [Diesel](https://github.com/diesel-rs/diesel) - Safe, extensible ORM and Query Builder.
 
 ## Graphics
@@ -192,6 +193,9 @@
 - [Chrono](https://github.com/chronotope/chrono) - Date and time library for Rust.
 - [iqlusion crates](https://github.com/iqlusioninc/crates) - Collection of open source Rust crates from iqlusion.
 - [bnf](https://github.com/shnewto/bnf) - Parse BNF grammar definitions.
+- [quick-protobuf](https://github.com/tafia/quick-protobuf) - Rust implementation of protobuf parser.
+- [Deadpool](https://github.com/bikeshedder/deadpool) - Dead simple pool implementation for rust with async-await.
+- [cuneiform](https://github.com/vertexclique/cuneiform) - Cache optimizations for Rust, revived from the slabs of Sumer.
 
 ## Cargo Plugins
 

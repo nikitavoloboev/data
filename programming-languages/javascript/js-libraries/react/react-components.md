@@ -56,6 +56,7 @@
 - [React Spinners](https://github.com/davidhu2000/react-spinners) - Collection of loading spinner components for react.
 - [react-teleporter](https://github.com/gregberge/react-teleporter) - Teleport React components in the same React tree.
 - [Stack Styled](https://github.com/sapegin/stack-styled) - Stacking layouts for React.
+- [Rethinking Navigation](https://github.com/react-navigation/navigation-ex) - Exploration of a component-first API for React Navigation for building more dynamic navigation solutions.
 
 ## Links
 

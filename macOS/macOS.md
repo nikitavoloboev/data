@@ -47,3 +47,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Open-source components of macOS](https://github.com/apple-open-source/macos)
 - [macOS Headers](https://github.com/w0lfschild/macOS_headers) - Consistently maintained dump of most macOS Headers.
 - [Every macOS white paper](https://github.com/0xmachos/mac-white-papers)
+- [LetsMove](https://github.com/potionfactory/LetsMove) - Sample that shows how to move a running Mac application to the /Applications directory.
