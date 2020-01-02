@@ -9,7 +9,7 @@ I share some [recipes I like](recipes.md).
 ## Links
 
 - [Time to make food](https://timetomakefood.com/) - Interesting website with recipes that lets you expand on the recipes themselves to see how to make them.
-- [Grim Grains](https://grimgrains.com/#home)
+- [Grim Grains](https://grimgrains.com/#home) ([Code](https://github.com/hundredrabbits/Grimgrains))
 - [Rouxbe Online Cooking School](https://rouxbe.com/cooking-courses)
 - [Cooking Classes](https://www.craftsy.com/cooking/shop/cooking-classes)
 - [Salted](http://www.saltedtv.com/) - Learn cooking from experts.

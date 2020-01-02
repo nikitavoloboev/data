@@ -59,3 +59,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Awesome Computer Networking Resources](https://github.com/nyquist/awesome-networking#readme)
 - [Zwitterion](https://github.com/lastmjs/zwitterion) - Web dev server that lets you import anything.
 - [warmy](https://github.com/phaazon/warmy) - Hot-reloading loadable and reloadable resources.
+- [OpenLiteSpeed Web Server](https://github.com/litespeedtech/openlitespeed) - High-performance, lightweight, open source HTTP server.

@@ -16,3 +16,4 @@
 - [Michael Levin | 2017 Allen Frontiers Symposium](https://www.youtube.com/watch?v=uAEJ0Q2uiNM)
 - [Lattice](https://latticeautomation.com/) - Creates design-automation workflows that fundamentally change engineering biology.
 - [GuacaMol](https://github.com/BenevolentAI/guacamol) - Benchmarks for generative chemistry.
+- [Single-cell RNA-seq pseudotime estimation algorithms](https://github.com/agitter/single-cell-pseudotime)

@@ -10,3 +10,4 @@
 - [Neqo](https://github.com/mozilla/neqo) - Implementation of QUIC written in Rust.
 - [HTTP/3 - HTTP over QUIC is the next generation by Daniel Stenberg (2019)](https://www.youtube.com/watch?v=idViw4anA6E&list=PLe9psSNJBf74yYiVXDXz8UnRnWf3NHzS-)
 - [Internet-Drafts that make up the base QUIC specification](https://github.com/quicwg/base-drafts)
+- [LiteSpeed QUIC and HTTP/3 Library](https://github.com/litespeedtech/lsquic)
