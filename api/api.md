@@ -10,6 +10,7 @@
 - [Twython](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.
 - [arxiv-graphql](https://github.com/prabhuomkar/arxiv-graphql) - GraphQL API for arXiv: e-print service by Cornell University.
 - [Sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API.
+- [Cloudflare](https://github.com/cloudflare/cloudflare-rs) - Rust library for the Cloudflare v4 API.
 
 ## Links
 
