@@ -24,6 +24,7 @@
 - [react-suspense-fetch](https://github.com/dai-shi/react-suspense-fetch) - React Suspense Render-as-You-Fetch pattern for REST APIs.
 - [useDebounce](https://github.com/xnimorz/use-debounce) - Debounce hook for react.
 - [@umijs/hooks](https://github.com/umijs/hooks) - React Hooks Library.
+- [Collection of beautiful (and hopefully useful) React hooks to speed-up your components and hooks development](https://github.com/antonioru/beautiful-react-hooks)
 
 ## Links
 

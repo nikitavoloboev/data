@@ -118,3 +118,4 @@
 - [kubectl trace](https://github.com/iovisor/kubectl-trace) - Kubectl plugin that allows you to schedule the execution of bpftrace programs in your Kubernetes cluster.
 - [RBAC Manager](https://github.com/FairwindsOps/rbac-manager) - Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
 - [inlets-operator](https://github.com/inlets/inlets-operator) - Your private Kubernetes Service, with a public endpoint.
+- [kubectl tree](https://github.com/ahmetb/kubectl-tree) - Kubectl plugin to browse Kubernetes object hierarchies as a tree.
