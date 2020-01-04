@@ -19,3 +19,4 @@ If I ever feel down, I can just start writing and just release all these negativ
 - [Susan Fowler's Year In Review: 2019](https://www.susanjfowler.com/blog/2019/12/10/my-year-in-review-2019)
 - [2019 into 2020 by Tania Rascia](https://www.taniarascia.com/2019-into-2020/)
 - [My Decade in Review by Dan Abramov](https://overreacted.io/my-decade-in-review/)
+- [Making of: Best of 2019](https://johanronsse.be/2019/12/28/making-of-best-of-2019/)

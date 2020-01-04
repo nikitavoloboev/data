@@ -27,3 +27,4 @@
 - [Ask HN: What's the most valuable thing you can learn in an hour? (2019)](https://news.ycombinator.com/item?id=21581361)
 - [Learning at work is work, and we must make space for it](https://sloanreview.mit.edu/article/learning-for-a-living/) ([HN](https://news.ycombinator.com/item?id=21762640))
 - [The Ultimate Hack for Learning In Public. Pick Up What They Put Down. (2020)](https://www.swyx.io/writing/learn-in-public-hack/)
+- [Lobsters: What do you plan to learn in 2020?](https://lobste.rs/s/hbkh21/what_do_you_plan_learn_2020)
