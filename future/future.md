@@ -27,3 +27,4 @@
 - [Ask HN: What's a promising area to work on? (2019)](https://news.ycombinator.com/item?id=21324768)
 - [UCLA Internet50 (2019)](https://www.youtube.com/watch?v=oqZmQhhd27o&t=24728)
 - [Ask HN: What will become possible by 2025 in your field of expertise? (2019)](https://news.ycombinator.com/item?id=21559680)
+- [Ask HN: A New Decade. Any Predictions? (2020)](https://news.ycombinator.com/item?id=21941278)
