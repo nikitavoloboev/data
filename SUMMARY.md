@@ -522,6 +522,7 @@
     - [Keras](machine-learning/libraries/keras.md)
     - [TensorFlow](machine-learning/libraries/tensorflow.md)
   - [Datasets](machine-learning/datasets.md)
+  - [ML Models](machine-learning/ml-models.md)
   - [Autonomous driving](machine-learning/autonomous-driving.md)
   - [Artificial intelligence](machine-learning/artificial-intelligence.md)
   - [Transfer learning](machine-learning/transfer-learning.md)

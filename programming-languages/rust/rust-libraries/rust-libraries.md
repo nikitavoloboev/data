@@ -197,6 +197,8 @@
 - [Deadpool](https://github.com/bikeshedder/deadpool) - Dead simple pool implementation for rust with async-await.
 - [cuneiform](https://github.com/vertexclique/cuneiform) - Cache optimizations for Rust, revived from the slabs of Sumer.
 - [insta](https://github.com/mitsuhiko/insta) - Snapshot testing library for rust.
+- [pretty.rs](https://github.com/Marwes/pretty.rs) - Wadler-style pretty-printing combinators in Rust.
+- [Rusty V8](https://github.com/denoland/rusty_v8) - V8 javascript bindings for Rust.
 
 ## Cargo Plugins
 

@@ -29,3 +29,4 @@
 - [SwiftHIG](https://github.com/AustinConlon/SwiftHIG) - Links to the relevant Human Interface Guidelines for SwiftUI affordances.
 - [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui)
 - [You can use SwiftUI today (2020)](https://rambo.codes/swiftui/2020/01/03/you-can-use-swiftui-today.html)
+- [Answering the big question: should you learn SwiftUI, UIKit, or both? (2019)](https://www.hackingwithswift.com/quick-start/swiftui/answering-the-big-question-should-you-learn-swiftui-uikit-or-both)

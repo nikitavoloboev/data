@@ -21,3 +21,4 @@
 - [PeaCoq](https://github.com/Ptival/PeaCoq) - Web-based front-end to the Coq proof assistant.
 - [Kami](https://github.com/mit-plv/kami) - Platform for High-Level Parametric Hardware Specification and its Modular Verification.
 - [Lean versus Coq: The cultural chasm](https://artagnon.com/articles/leancoq#main)
+- [Awesome Coq](https://github.com/uhub/awesome-coq#readme)

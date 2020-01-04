@@ -270,6 +270,8 @@
 - [BigCache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go. ([HN](https://news.ycombinator.com/item?id=21843284))
 - [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries.
 - [endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe).
+- [Sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
+- [pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF processor written in Go.
 
 ## Links
 

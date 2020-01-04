@@ -15,3 +15,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Nature’s Dangerous Decline ‘Unprecedented’; Species Extinction Rates ‘Accelerating' (2019)](https://www.ipbes.net/news/Media-Release-Global-Assessment)
 - [The Deep Sea](https://neal.fun/deep-sea/)
 - [Measuring progress towards the Sustainable Development Goals](https://sdg-tracker.org/)
+- [The future is grim (2019)](https://medium.com/@cache_86525/the-future-is-grim-27ca6f7ab07b) ([HN](https://news.ycombinator.com/item?id=21957232))
