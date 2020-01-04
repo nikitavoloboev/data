@@ -22,3 +22,4 @@
 - [xcbuildkit](https://github.com/jerrymarino/xcbuildkit) - Framework to extend or replace Xcode's build system. No plugins needed.
 - [XCLogParser](https://github.com/spotify/XCLogParser) - Tool to parse the SLF serialization format used by Xcode and xcodebuild to store its Build and Test logs (xcactivitylog).
 - [xcode-open-on-github](https://github.com/wojteklu/xcode-open-on-github) - Quick Actions for Xcode to jump to a source code line on Github or copy GitHub link to clipboard.
+- [HappyCoding](https://happycoding.app/) - Make Xcode happy. Simplify your iOS & macOS development.

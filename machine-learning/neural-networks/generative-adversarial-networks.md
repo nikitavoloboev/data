@@ -9,3 +9,4 @@
 - [Compare GAN code](https://github.com/google/compare_gan) - Offers TensorFlow implementations for many components related to Generative Adversarial Networks.
 - [PyTorch pretrained BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN)
 - [StyleGAN2](https://github.com/NVlabs/stylegan2) - Official TensorFlow Implementation.
+- [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/tkarras/progressive_growing_of_gans)
