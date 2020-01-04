@@ -51,3 +51,4 @@
 - [Backward-cpp](https://github.com/bombela/backward-cpp) - Beautiful stack trace pretty printer for C++.
 - [sparsehash](https://github.com/sparsehash/sparsehash) - C++ associative containers.
 - [tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++.
+- [stb](https://github.com/nothings/stb) - Single-file public domain libraries for C/C++.

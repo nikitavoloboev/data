@@ -196,6 +196,7 @@
 - [quick-protobuf](https://github.com/tafia/quick-protobuf) - Rust implementation of protobuf parser.
 - [Deadpool](https://github.com/bikeshedder/deadpool) - Dead simple pool implementation for rust with async-await.
 - [cuneiform](https://github.com/vertexclique/cuneiform) - Cache optimizations for Rust, revived from the slabs of Sumer.
+- [insta](https://github.com/mitsuhiko/insta) - Snapshot testing library for rust.
 
 ## Cargo Plugins
 

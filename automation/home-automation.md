@@ -6,3 +6,4 @@
 - [Home Assistant Community Store](https://github.com/custom-components/hacs) - Manage (Install, track, upgrade) and discover custom elements for Home Assistant.
 - [TileBoard](https://github.com/resoai/TileBoard) - Simple yet highly configurable Dashboard for HomeAssistant.
 - [python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances.
+- [Home Assistant configuration](https://github.com/teich/homeassistant)

@@ -20,6 +20,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Veit Heller's reading list](https://github.com/hellerve/ptolemy)
 - [FP papers](https://github.com/sdiehl/papers)
 - [Pawel Szulc's liked papers](https://github.com/rabbitonweb/papers_i_love#readme)
+- [Computer science and computer-adjacent papers (and sometimes books) that have influenced me deeply](https://github.com/fogus/papers-i-love)
 
 ## Links
 

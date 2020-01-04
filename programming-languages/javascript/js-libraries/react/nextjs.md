@@ -16,7 +16,7 @@
 - [Persistent Layout Patterns in Next.js (2019)](https://adamwathan.me/2019/10/17/persistent-layout-patterns-in-nextjs/)
 - [Universal Next.js Route](https://github.com/brajevicm/next-universal-route)
 - [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme)
-- [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/)
+- [The Next.js Handbook](https://flaviocopeNext & Apollo Examples.com/page/nextjs-handbook/)
 - [Static Generation / SSG Improvements](https://github.com/zeit/next.js/issues/9524)
 - [Next.js course](https://nextjscourse.com/oEEGG76l22UE8B77ovWn/)
 - [Next.js website source](https://github.com/zeit/next-site)
@@ -26,3 +26,4 @@
 - [Mastering NextJS](https://masteringnextjs.com/) - Premiere video course for building production, server-side rendered applications with Next.js and React.
 - [NextJS/Reason/Tailwind Template](https://github.com/sgrove/nextjs-reason-urql)
 - [dotJS 2019 - Tim Neutkens - What to expect from a modern web framework?](https://www.dotconferences.com/2019/12/tim-neutkens-what-to-expect-from-a-modern-web-framework)
+- [Next & Apollo Example](https://github.com/adamsoffer/next-apollo-example)

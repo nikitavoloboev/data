@@ -93,3 +93,4 @@
 - [High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/)
 - [CSS Circles (2019)](https://cloudfour.com/thinks/css-circles/)
 - [CSShake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM.
+- [JSS](https://github.com/cssinjs/jss) - Authoring tool for CSS which uses JavaScript as a host language.

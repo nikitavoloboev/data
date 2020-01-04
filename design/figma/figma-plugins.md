@@ -10,3 +10,4 @@
 - [Remove.bg Plugin](https://github.com/aaroniker/figma-remove-bg) - Remove the background of images automatically.
 - [Master](https://www.figma.com/c/plugin/767721682134156281/Master) - Never worry about creating, copying and fixing Components anymore.
 - [Easing Gradient](https://github.com/matchai/figma-easing-gradient) - Make beautiful smooth gradients in Figma.
+- [Figma Icon Automation Plugin](https://github.com/leadream/figma-icon-automation)
