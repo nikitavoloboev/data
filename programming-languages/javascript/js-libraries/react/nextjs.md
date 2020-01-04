@@ -16,7 +16,7 @@
 - [Persistent Layout Patterns in Next.js (2019)](https://adamwathan.me/2019/10/17/persistent-layout-patterns-in-nextjs/)
 - [Universal Next.js Route](https://github.com/brajevicm/next-universal-route)
 - [Awesome Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme)
-- [The Next.js Handbook](https://flaviocopeNext & Apollo Examples.com/page/nextjs-handbook/)
+- [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/)
 - [Static Generation / SSG Improvements](https://github.com/zeit/next.js/issues/9524)
 - [Next.js course](https://nextjscourse.com/oEEGG76l22UE8B77ovWn/)
 - [Next.js website source](https://github.com/zeit/next-site)

@@ -20,3 +20,5 @@
 - [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)
 - [nghttp2](https://github.com/nghttp2/nghttp2) - Implementation of the Hypertext Transfer Protocol version 2 in C.
 - [h2spec](https://github.com/summerwind/h2spec) - Conformance testing tool for HTTP/2 implementation.
+- [HTTP Made Really Easy](https://www.jmarshall.com/easy/http/) - Practical Guide to Writing Clients and Servers.
+- [Mini HTTP guide for developers (2020)](https://charemza.name/blog/posts/abstractions/http/http-guide-for-developers/) - Glance behind the curtain: it can affect engineering decisions.

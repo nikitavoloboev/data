@@ -118,3 +118,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Production Guide](https://github.com/RacheltheEditor/ProductionGuide#readme) - Practical explanation of formatting and style conventions that should be consistent across Guides.
 - [Amazon writing tips](https://pbs.twimg.com/media/EMb7mTRVAAELtUk?format=jpg&name=medium)
 - [Left](https://github.com/hundredrabbits/Left) - Distractionless Writing Tool.
+- [Notes on Technical Writing (2020)](https://mkaz.blog/misc/notes-on-technical-writing/) ([HN](https://news.ycombinator.com/item?id=21955306))
