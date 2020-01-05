@@ -39,3 +39,4 @@ All active variables can be seen by running `env`.
 - [Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 - [What Is a Shell? (2019)](https://yunchi.dev/posts/what-is-a-shell/)
 - [Lobsters: What shell do you use? (2019)](https://lobste.rs/s/tjjfnz/what_shell_do_you_use)
+- [“Use Dumb Shell, don’t Reinvent the Wheel” (2020)](https://ilya-sher.org/2020/01/04/use-dumb-shell-dont-reinvent-the-wheel/) ([Lobsters](https://lobste.rs/s/b8xanw/use_dumb_shell_don_t_reinvent_wheel))

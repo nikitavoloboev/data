@@ -1,5 +1,9 @@
 # [Combine Framework](https://developer.apple.com/documentation/combine)
 
+## Notes
+
+- [Debugging asynchronous code? Let me introduce you to DispatchPredicate, a single line will check which queue are you on and stop in debug if condition is not met](https://twitter.com/icanzilb/status/1213403702226276352)
+
 ## Links
 
 - [Combine101](https://github.com/learncombine/Combine101) - Gentle but thorough introduction to Combine.
