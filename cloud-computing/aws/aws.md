@@ -35,3 +35,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Last Week in AWS](https://www.lastweekinaws.com/) - News and newsletter about latest offerings of AWS.
 - [The Amazon Premium (2019)](http://calpaterson.com/amazon-premium.html) ([HN](https://news.ycombinator.com/item?id=21835366))
 - [AWS Security Toolbox (AST) (2019)](https://zoph.me/posts/2019-12-16-aws-security-toolbox/)
+- [AWS Glossary](https://github.com/sw-yx/aws-glossary#readme)

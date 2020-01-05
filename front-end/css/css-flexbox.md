@@ -11,3 +11,6 @@
 - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) - Learn Flexbox by playing a game.
 - [Flex Cheat Sheet](https://yoksel.github.io/flex-cheatsheet/)
 - [Coping with flexbox (2019)](https://kgrz.io/coping-with-flexbox.html)
+- [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox Froggy](http://flexboxfroggy.com/)
+- [FLEX](http://flexbox.malven.co/) - Simple visual cheat sheet on Flexbox.

@@ -160,3 +160,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [BookBrowser](https://github.com/geek1011/BookBrowser) - Easy-to-use tool to generate a web-based ePub and PDF ebook browser.
 - [Now, what do I read?](https://nowwhatdoiread.com/) - Enter your favorite book and get a list of suggested books to read.
 - [How I Read (2018)](http://sirupsen.com/read/)
+- [The Most Abandoned Books on GoodReads (2019)](https://www.gwern.net/GoodReads) ([HN](https://news.ycombinator.com/item?id=21957798))
