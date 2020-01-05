@@ -24,3 +24,4 @@
 - [Computer Science Roadmap (AI Track)](https://github.com/yngz/cs-roadmap#readme)
 - [Computer Science for The Busy Developer](https://learn.codexpanse.com/courses/computer-science-for-the-busy-developer) - High speed overview of fundamental areas and concepts of computer science.
 - [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
+- [Computer Science Resources](https://github.com/the-akira/Computer-Science-Resources#readme)

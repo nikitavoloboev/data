@@ -61,3 +61,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [Your Linux Toolbox: a box set of my free zines (2019)](https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/)
 - [rustysd](https://github.com/KillingSpark/rustysd) - Minimal drop-in for (a subset of) the systemd init system in rust.
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go.
+- [Embedded Linux course (2019)](https://www.youtube.com/playlist?list=PLMB3ddm5Yvh1H_e4IqXyFH25efrNYEDnP)

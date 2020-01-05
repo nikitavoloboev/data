@@ -99,3 +99,4 @@
 - [Mathematics Free and Open-Source Textbooks](http://danaernst.com/resources/free-and-open-source-textbooks/) ([HN](https://news.ycombinator.com/item?id=21851020))
 - [Stuff I learnt in 2019](http://bollu.github.io/#stuff-i-learnt-in-2019) ([Reddit](https://www.reddit.com/r/math/comments/efm6tt/stuff_i_learnt_in_2019_papers_code_math/))
 - [T \* sin (t) ≈ Christmas tree (2013)](https://github.com/anvaka/atree#) ([HN](https://news.ycombinator.com/item?id=21879397))
+- [What was the hardest area of math for you? (2020)](https://www.reddit.com/r/math/comments/ej42ci/what_was_the_hardest_area_of_math_for_you/)
