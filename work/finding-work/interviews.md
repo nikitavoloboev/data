@@ -48,3 +48,4 @@
 - [Basic DS and algo question collection](https://www.reddit.com/r/cscareerquestions/comments/dqkr7o/basic_ds_and_algo_question_collection/)
 - [How to ask interviewers great questions (2019)](https://medium.com/otta-blog/how-to-ask-interviewers-great-questions-3a0add17ba42)
 - [Interview questions with Java solutions](https://github.com/mission-peace/interview/wiki)
+- [Algorithms interviews: theory vs. practice](https://danluu.com/algorithms-interviews/)

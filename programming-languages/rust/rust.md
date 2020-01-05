@@ -127,3 +127,4 @@
 - [From zero to main(): Bare metal Rust (2019)](https://interrupt.memfault.com/blog/zero-to-main-rust-1) ([HN](https://news.ycombinator.com/item?id=21817034))
 - [Learn Rust the Dangerous Way](http://cliffle.com/p/dangerust/) ([HN](https://news.ycombinator.com/item?id=21862069))
 - [Rewriting m4vgalib in Rust (2019)](http://cliffle.com/blog/m4vga-in-rust/)
+- [Papyrus](https://github.com/kurtlawrence/papyrus) - Rust REPL.
