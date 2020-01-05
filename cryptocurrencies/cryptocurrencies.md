@@ -19,3 +19,4 @@
 - [Gryphon](https://github.com/garethdmm/gryphon) - Open source software platform for building and running algorithmic trading strategies in cryptocurrency markets.
 - [The Quiet Master of Cryptocurrency - Nick Szabo (2017)](https://overcast.fm/+KebvPT3c8)
 - [Hard Problems in Cryptocurrency: Five Years Later (2019)](https://vitalik.ca/general/2019/11/22/progress.html) ([HN](https://news.ycombinator.com/item?id=21618079))
+- [Freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot.

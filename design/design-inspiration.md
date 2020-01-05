@@ -20,6 +20,7 @@ Here are few more things I liked, design wise.
 
 - [Actual budget](https://dev.actualbudget.com/) - The design is clean.
 - [Seph](https://josephg.com/blog/)
+- [defn.io](https://defn.io/)
 
 ## Products
 
@@ -126,6 +127,7 @@ Here are few more things I liked, design wise.
 - [Niels Lohmann](http://nlohmann.me/)
 - [Jared Reich](https://jaredreich.com/)
 - [Joe Coleman](http://getcoleman.com/) - Funny.
+- [Joe Previte](https://joeprevite.com/) ([Code](https://github.com/jsjoeio/joeprevite.com))
 - [Sarah Drasner](https://sarahdrasnerdesign.com/)
 - [Matthew Conlen](https://mathisonian.com/) - Clean.
 - [Zdziarski's Blog of Things](https://www.zdziarski.com/blog/)

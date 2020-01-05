@@ -14,6 +14,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Serenity](https://github.com/awesomekling/serenity) - X86 Unix-like operating system for IBM PC-compatibles.
 - [Resea](https://github.com/seiyanuta/resea) - Pure microkernel-based hackable operating system written from scratch in C and Rust.
 - [Rux](https://github.com/sorpaas/rux) - Hobbyist microkernel written in Rust, featuring a capability-based system similar to seL4.
+- [redshirt](https://github.com/tomaka/redshirt) - Experiment to build some kind of operating-system-like environment where executables are all in WASM and are loaded from an IPFS-like decentralized network.
 
 ## Links
 

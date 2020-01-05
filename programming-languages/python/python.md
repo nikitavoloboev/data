@@ -67,3 +67,4 @@
 - [Poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html)
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html) ([Code](https://github.com/quantifiedcode/python-anti-patterns))
+- [Creator of Python Programming Language, Guido van Rossum | Oxford Union (2019)](https://www.youtube.com/watch?v=7kn7NtlV6g0)
