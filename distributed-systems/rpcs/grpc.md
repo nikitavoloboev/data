@@ -12,3 +12,4 @@
 - [tonic](https://github.com/hyperium/tonic) - Native gRPC client & server implementation with async/await support in Rust.
 - [Swift & gRPC: Supercharging your Web APIs (2019)](https://docs.google.com/presentation/d/1mKygo8MK6tlG1R6NUV8LN8o8OGzPN1H7hUqjygHkank/edit#slide=id.gc6f73a04f_0_0)
 - [Swift gRPC](https://github.com/grpc/grpc-swift) - Swift language implementation of gRPC.
+- [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC.

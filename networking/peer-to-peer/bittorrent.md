@@ -21,3 +21,4 @@
 - [confluence](https://github.com/anacrolix/confluence) - Torrent client as a HTTP service.
 - [/r/trackers](https://www.reddit.com/r/trackers/) - Great subreddit.
 - [BTFS](https://www.bittorrent.com/btfs/) - First Scalable Decentralized Storage System.
+- [Building a BitTorrent client from the ground up in Go (2020)](https://blog.jse.li/posts/torrent/)

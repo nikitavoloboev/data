@@ -114,3 +114,4 @@
 - [Cancelation without Breaking a Promise (2016)](https://medium.com/hackernoon/considering-cancelation-a96e0f3c2298) - Reflecting on what was so tricky about cancelable Promises, embracing functional purity as a solution.
 - [ECMAScript Discussion Archives](https://esdiscuss.org/) ([Code](https://github.com/esdiscuss/esdiscuss.org))
 - [What Is JavaScript Made Of? (2019)](https://overreacted.io/what-is-javascript-made-of/)
+- [JavaScript Visualized: Prototypal Inheritance (2020)](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co)
