@@ -55,3 +55,4 @@
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - Hackable open source voice assistant.
 - [VizSeq](https://github.com/facebookresearch/vizseq) - Visual Analysis Toolkit for Text Generation Tasks.
 - [Awesome Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme)
+- [How I used NLP (Spacy) to screen Data Science Resume (2019)](https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d)

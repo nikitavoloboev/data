@@ -32,6 +32,7 @@ I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=e
   - This can be a purely bad thing, but only if you let it. What should you do to keep it from being purely bad? Accept what your brain is showing you, rather than fight it. Consider the problems and their source. Figure out how to improve the situation or else make it a non-issue in your life, and take action when you have sobered up toward making those changes a reality.
 - The feeling that I got is that there is a certain type of knowledge that exists there, but it cannot come back with you. It's like trying to save a banana to a memory stick. Our brains simply cannot store that type of data. The heart of the experience(if you go deep enough) is something which is beyond mind. It can be experienced but not remembered.
 - [Psychedelics deactivate what's called your Default Mode Network (DMN) and therefore enhance creativity and novel perspectives.](https://www.wsj.com/articles/the-new-science-of-psychedelics-1525360091)
+- [LSD helped me understand that time is just a human construct to describe the causality of the universe. Time is not another dimension, it is the result of things constantly shifting and changing. Nothing is still in this universe.](https://www.reddit.com/r/Psychonaut/comments/ekrrh5/what_are_the_weirder_lessons_that_psychedelics/)
 
 ## Links
 
@@ -58,3 +59,4 @@ I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=e
 - [Some people who take psychedelics continue hallucinating indefinitely](https://slatestarcodex.com/2019/09/11/lots-of-people-going-around-with-mild-hallucinations-all-the-time/) ([HN](https://news.ycombinator.com/item?id=21340030))
 - [HN: Psilocybin for Major Depression Granted Breakthrough Therapy by FDA (2019)](https://news.ycombinator.com/item?id=21638290)
 - [Development of a Data-Driven Psychedelic Therapy Network (2018)](https://www.youtube.com/watch?v=mTGMArtFb2g)
+- [What are the weirder lessons that psychedelics have taught you? (2020)](https://www.reddit.com/r/Psychonaut/comments/ekrrh5/what_are_the_weirder_lessons_that_psychedelics/)

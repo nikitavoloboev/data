@@ -19,3 +19,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
 - [Bash Guide](http://mywiki.wooledge.org/BashGuide)
 - [How To Automate Basic Development Tasks with Bash](https://jmulholland.com/how-to-automate-basic-development-tasks-with-bash)
+- [Mini Gitbook for a presentation about BASH](https://erkanerol.github.io/bash-lingua-non-grata/#/) ([Code](https://github.com/erkanerol/bash-lingua-non-grata))

@@ -16,7 +16,7 @@ For user facing products, well implemented analytics will let you see how to opt
 - [Grafana](https://github.com/grafana/grafana) - Tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
 - [Cube.js](https://github.com/statsbotco/cube.js) - Open source modular framework to build analytical web applications.
 - [Analytics.js](https://github.com/segmentio/analytics.js) - Hassle-free way to integrate analytics into any web application.
-- [Kedro](https://github.com/quantumblacklabs/kedro) - Python library for building robust production-ready data and analytics pipelines.
+- [Kedro](https://github.com/quantumblacklabs/kedro) - Python library for building robust production-ready data and analytics pipelines. ([Article](https://medium.com/@QuantumBlack/introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code-d1c6d26ce2cf))
 - [Plausible Insights](https://github.com/plausible-insights/plausible) - Simple, lightweight analytics for your website.
 - [Metabase](https://www.metabase.com/) - Easy, open source way for everyone in your company to ask questions and learn from data. ([OSS](https://github.com/metabase/metabase)) ([Binary deployment](https://github.com/metabase/metabase-deploy))
 - [OmniSci](https://www.omnisci.com/) - Interactively query, visualize, and power data science workflows over billions of records.
