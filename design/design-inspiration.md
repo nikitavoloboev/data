@@ -44,6 +44,7 @@ Here are few more things I liked, design wise.
 - [Evan Jones](https://www.evanjones.ca/)
 - [Lee Robinson](https://leerob.io/) ([Code](https://github.com/leerob/leerob.io))
 - [Rickard Laurin](https://willcodefor.beer)
+- [Max Böck](https://mxb.dev/)
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))
 - [Brent Jackson](https://jxnblk.com/)
 - [Mackenzie Child](https://www.mackenziechild.me/)

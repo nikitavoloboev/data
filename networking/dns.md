@@ -13,3 +13,4 @@
 - [A Cat Explains DNS (2017)](https://www.youtube.com/watch?v=4ZtFk2dtqv0)
 - [octoDNS](https://github.com/github/octodns) - Tools for managing DNS across multiple providers.
 - [Gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go.
+- [CoreDNS](https://github.com/coredns/coredns) - DNS server that chains plugins.
