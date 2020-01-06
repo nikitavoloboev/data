@@ -140,6 +140,7 @@ Below is a list of extensions I use.
 - [Yarn](https://marketplace.visualstudio.com/items?itemName=gamunu.vscode-yarn) - Manage yarn commands.
 - [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live Scratchpad for JavaScript.
 - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Autocomplete npm modules in import statements.
+- [js-debug](https://github.com/microsoft/vscode-js-debug) - Upcoming VS Code JavaScript debugger.
 
 ## React
 

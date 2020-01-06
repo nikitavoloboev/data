@@ -19,6 +19,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 ## Web
 
 - [ProseMirror](https://prosemirror.net/) - Toolkit for building rich-text editors on the web.
+- [Remirror](https://github.com/ifiokjr/remirror) - Universal react text editor built with prosemirror.
 - [draft.js](https://github.com/facebook/draft-js) - React framework for building text editors.
 
 ## Links

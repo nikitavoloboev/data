@@ -10,3 +10,4 @@
 - [dhall-to-cabal](https://github.com/dhall-lang/dhall-to-cabal) - Generate Cabal files from Dhall expression.
 - [Dhall, formalised in Agda](https://github.com/ocharles/dhall-agda)
 - [dhall-rust](https://github.com/Nadrieril/dhall-rust) - WIP implementation in Rust of the dhall configuration format/programming language.
+- [Dhall - Year in review (2019-2020)](http://www.haskellforall.com/2020/01/dhall-year-in-review-2019-2020.html)

@@ -21,4 +21,6 @@
 - [Serverless handbook for front end engineers](https://serverlesshandbook.dev/)
 - [Coding on the Edge – John Graham Cumming (2018)](https://www.youtube.com/watch?v=Ydu9qVUjh4Q)
 - [Pulumi Examples](https://github.com/pulumi/examples) - Contains examples of using Pulumi to build and deploy cloud applications and infrastructure.
-- [2019 in Review - rauchg](https://rauchg.com/2020/2019-in-review)
+- [2019 in Review - rauchg](https://rauchg.com/2020/2019-in-review) ([HN](https://news.ycombinator.com/item?id=21965551))
+- [Cloudstate](https://github.com/cloudstateio/cloudstate) - Distributed State Management for Serverless.
+- [AWS Amplify CLI](https://github.com/aws-amplify/amplify-cli) - CLI toolchain for simplifying serverless web and mobile development.
