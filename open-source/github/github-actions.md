@@ -7,6 +7,7 @@
 - [Upload to Release](https://github.com/JasonEtco/upload-to-release) - GitHub Action that uploads a file to a new release.
 - [Deploy Now](https://github.com/primer/deploy) - Deploy to Now from GitHub Actions with useful aliases.
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions.
+- [Lighthouse Auditing](https://github.com/jakejarvis/lighthouse-action) - Integrates Google's helpful Lighthouse audits for webpages — specifically testing for Performance, Accessibility, Best Practices, SEO, and Progressive Web Apps.
 
 ## Rust
 
