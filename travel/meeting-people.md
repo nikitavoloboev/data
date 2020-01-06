@@ -14,3 +14,4 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 - [DEV event listings](https://dev.to/listings/events)
 - [DEV](https://dev.to/events)
 - [IRL DEV](https://irl.dev/)
+- [Cete](https://cete.io/) - Place for speakers and event organisers to collaborate.

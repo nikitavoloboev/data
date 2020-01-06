@@ -128,3 +128,4 @@
 - [Learn Rust the Dangerous Way](http://cliffle.com/p/dangerust/) ([HN](https://news.ycombinator.com/item?id=21862069))
 - [Rewriting m4vgalib in Rust (2019)](http://cliffle.com/blog/m4vga-in-rust/)
 - [Papyrus](https://github.com/kurtlawrence/papyrus) - Rust REPL.
+- [Actix Web: Optimization Amongst Optimizations (2020)](https://brandur.org/nanoglyphs/008-actix)

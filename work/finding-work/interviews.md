@@ -49,3 +49,6 @@
 - [How to ask interviewers great questions (2019)](https://medium.com/otta-blog/how-to-ask-interviewers-great-questions-3a0add17ba42)
 - [Interview questions with Java solutions](https://github.com/mission-peace/interview/wiki)
 - [Algorithms interviews: theory vs. practice](https://danluu.com/algorithms-interviews/) ([HN](https://news.ycombinator.com/item?id=21961174))
+- [Software Engineering Interview Preparation](https://orrsella.gitbooks.io/soft-eng-interview-prep/content/)
+- [Preparing for a Facebook/Google Software Engineer Interview (2016)](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/)
+- [Preparing For a System Architecture Interview (2016)](https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/)

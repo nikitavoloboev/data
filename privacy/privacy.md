@@ -38,3 +38,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Bitcoin 2019: A Conversation with Edward Snowden](https://www.youtube.com/watch?v=w7XpI0fRnIg)
 - [Differential Privacy by Google](https://github.com/google/differential-privacy) - Contains a C++ library of ε-differentially private algorithms, which can be used to produce aggregate statistics over numeric data sets containing private or sensitive information.
 - [Privatar](https://www.privitar.com/) - Unlock the advantage of data-driven insights while ensuring data privacy.
+- [How China Tracks Everyone | VICE on HBO (2019)](https://www.youtube.com/watch?v=CLo3e1Pak-Y)

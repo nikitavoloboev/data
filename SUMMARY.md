@@ -148,6 +148,7 @@
   - [Array programming](programming/array-programming.md)
   - [Constraint programming](programming/constraint-programming.md)
   - [Relational programming](programming/relational-programming.md)
+  - [Dynamic programming](programming/dynamic-programming.md)
   - [Semantic versioning](programming/semantic-versioning.md)
   - [Reverse engineering](programming/reverse-engineering.md)
   - [Protocol Buffers](programming/protocol-buffers.md)
