@@ -18,3 +18,4 @@
 - [webpack autoconf](https://createapp.dev/) - Tool to create personalized and optimized webpack.config.js
 - [Web Performance Optimization with webpack](https://developers.google.com/web/fundamentals/performance/webpack/)
 - [Building a Great Developer Experience: The Road to Parcel Version 2 (2019)](https://www.youtube.com/watch?v=Osuwky6rRiA)
+- [Bundle Analyzer](https://github.com/smooth-code/bundle-analyzer) - Keep your webpack bundle optimized over time.
