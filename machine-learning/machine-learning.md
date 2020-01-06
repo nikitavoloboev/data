@@ -164,3 +164,4 @@
 - [What was your favorite paper of 2019 and why? (2019)](https://www.reddit.com/r/MachineLearning/comments/e8the3/d_what_was_your_favorite_paper_of_2019_and_why/)
 - [Ask HN: Full-on machine learning for 2020, what are the best resources?](https://news.ycombinator.com/item?id=21924298)
 - [Dive into Deep Learning](https://d2l.ai/) - Interactive deep learning book with code, math, and discussions, based on the NumPy interface. ([HN](https://news.ycombinator.com/item?id=21948698))
+- [Resources to learn more about Machine Learning and Artificial Intelligence](https://github.com/brylevkirill/notes)

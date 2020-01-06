@@ -673,6 +673,7 @@
 - [Documentaries](documentaries/documentaries.md)
 - [Movies](movies/movies.md)
   - [Directors](movies/directors.md)
+  - [Acting](movies/acting.md)
 - [TV series](tv-series/tv-series.md)
 - [Courses](courses/courses.md)
 - [Articles](articles/articles.md)

@@ -49,3 +49,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Collapse OS](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology. ([HN](https://news.ycombinator.com/item?id=21182628))
 - [Awesome eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - BPF, as in Berkeley Packet Filter, is an in-kernel virtual machine running programs passed from user space.
 - [What are required knowledge in order to build an OS? (2020)](https://www.reddit.com/r/osdev/comments/egzwa0/what_are_required_knowledge_in_order_to_build_an/)
+- [Krabs](https://github.com/ellbrid/krabs) - x86 bootloader written in Rust.

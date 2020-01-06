@@ -199,6 +199,7 @@
 - [insta](https://github.com/mitsuhiko/insta) - Snapshot testing library for rust.
 - [pretty.rs](https://github.com/Marwes/pretty.rs) - Wadler-style pretty-printing combinators in Rust.
 - [Rusty V8](https://github.com/denoland/rusty_v8) - V8 javascript bindings for Rust.
+- [WS-RS](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
 
 ## Cargo Plugins
 

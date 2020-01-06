@@ -30,6 +30,8 @@
 
 - [QGrid](https://github.com/Q-Mobile/QGrid) - Missing SwiftUI collection view.
 - [PullToRefresh](https://github.com/noppefoxwolf/PullToRefresh) - Can add refresh control and perform action your SwiftUI list.
+- [Swift Sunburst Diagram](https://github.com/lludo/SwiftSunburstDiagram) - Easily render diagrams given a tree of objects.
+- [ChartView](https://github.com/AppPear/ChartView) - Swift package for displaying charts effortlessly.
 
 ## macOS
 
