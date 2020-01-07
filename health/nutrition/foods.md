@@ -8,7 +8,7 @@ I try to cover my micro & macro nutrient needs by consuming nutritious food & [s
 
 I nearly always keep nuts & fruits at hand as they make for healthy quick snacks.
 
-I use [Paprika app](https://www.paprikaapp.com/) to store recipes of foods I love eating. I love finding new recipes and foods through traveling. I attach photos to all recipes (foods) even ones I don't know full instructions of how to make.
+I use [Paprika app](https://www.paprikaapp.com/) to store recipes of foods I love eating. I love finding new recipes and foods through traveling. I attach photos to all recipes, even ones I don't know full instructions of how to make.
 
 I also added a list of various plant based foods that I can use to experiment and cook with.
 
