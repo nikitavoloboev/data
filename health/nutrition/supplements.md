@@ -26,3 +26,4 @@ Everything else I get from eating [whole food plant based food](foods.md).
 - [Oriveda](https://oriveda.co.uk/) - Has great Lions Mane.
 - [Dr Rhonda Patrick Supplements List](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/)
 - [Paul Stamets: Psilocybin Mushrooms & The Mycology of Consciousness (2017)](https://www.youtube.com/watch?v=vFWxWq0Fv0U)
+- [Jed Fahey, Sc.D. on Isothiocyanates, the Nrf2 Pathway, Moringa & Sulforaphane Supplementation (2017)](https://www.youtube.com/watch?v=Q0lBVCpq8jc)
