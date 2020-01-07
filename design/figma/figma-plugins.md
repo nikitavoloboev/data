@@ -12,3 +12,4 @@
 - [Easing Gradient](https://github.com/matchai/figma-easing-gradient) - Make beautiful smooth gradients in Figma.
 - [Figma Icon Automation Plugin](https://github.com/leadream/figma-icon-automation)
 - [LaTeX Complete](https://github.com/maxkrieger/figma-latex-complete-plugin) - Put LaTeX into your figma documents.
+- [The 15 best Figma plugins for designers (so far) (2019)](https://uxdesign.cc/the-15-best-figma-plugins-for-designers-so-far-84332ab1a61)

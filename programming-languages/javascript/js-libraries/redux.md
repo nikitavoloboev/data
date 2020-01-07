@@ -13,6 +13,7 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - You bind all the transformations on your UI to a single object. All stuff that happens on the UI is a consequence of a transformation on that object. So:
   1. You just gained undo/redo, if you track alterations on your object.
   2. You know the state of your application at all times, just looking at the object. You can also keep it and save it for later use.
+- [Avoid using Immutable.js in Redux apps. Use Redux Toolkit & Immer instead.](https://twitter.com/acemarke/status/1213573285314809856)
 
 ## Links
 
