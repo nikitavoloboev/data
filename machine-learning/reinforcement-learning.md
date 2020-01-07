@@ -3,6 +3,7 @@
 ## Links
 
 - [Where to start learning Reinforcement Learning in 2018?](https://www.reddit.com/r/MachineLearning/comments/7ui8jv/d_where_to_start_learning_reinforcement_learning/)
+- [Reinforcement Learning, An Introduction book](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) - Significantly expanded and updated new edition of a widely used text on reinforcement learning, one of the most active research areas in artificial intelligence.
 - [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, TensorFlow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
 - [Learning to Learn for Robotic Control - Prof. Pieter Abbeel](https://www.youtube.com/watch?v=WFCzLZKVs44)
 - [MIT AGI: OpenAI Meta-Learning and Self-Play (Ilya Sutskever)](https://www.youtube.com/watch?v=9EN_HoEk3KY)

@@ -32,3 +32,4 @@
 - [Answering the big question: should you learn SwiftUI, UIKit, or both? (2019)](https://www.hackingwithswift.com/quick-start/swiftui/answering-the-big-question-should-you-learn-swiftui-uikit-or-both)
 - [ViewInspector for SwiftUI](https://github.com/nalexn/ViewInspector) - Framework for runtime inspection and unit testing of SwiftUI views.
 - [SwiftUI Online Playground](https://github.com/kishikawakatsumi/swiftui-playground)
+- [Learn SwiftUI for iOS 13 course](https://designcode.io/swiftui2) - Learn how to code custom UIs, animations, gestures and components in Xcode 11.

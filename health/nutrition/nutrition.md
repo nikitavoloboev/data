@@ -1,6 +1,6 @@
 # Nutrition
 
-[This book](https://www.goodreads.com/book/show/25663961-how-not-to-die?from_search=true) contains all the evidence needed to prove that a whole food, plant based diet is the best thing you can do to mitigate diseases and living a healthy life. The author also has a [website](https://nutritionfacts.org) where he blogs about various things nutrition and health.
+[This book](https://www.goodreads.com/book/show/25663961-how-not-to-die) contains all the evidence needed to prove that a whole food, plant based diet is the best thing you can do to mitigate diseases and living a healthy life. The author also has a [website](https://nutritionfacts.org) where he blogs about various things nutrition and health.
 
 Knowing this, I eat [whole food, plant based diet](foods.md) with [few supplements](supplements.md).
 

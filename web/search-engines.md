@@ -7,3 +7,4 @@
 - [CROKAGE: A New Way to Search Stack Overflow (2019)](https://stackoverflow.blog/2019/08/14/crokage-a-new-way-to-search-stack-overflow/)
 - [Bayard](https://github.com/mosuka/bayard) - Full-text search and indexing server written in Rust.
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Ultra relevant, instant and typo-tolerant full-text search API. ([Web](https://www.meilisearch.com/))
+- [The Joy of Search](https://mitpress.mit.edu/books/joy-search) - Google Insider's Guide to Going Beyond the Basics.

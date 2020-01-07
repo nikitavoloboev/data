@@ -101,7 +101,7 @@
 - [Solution of assignment in 2011 Stanford Machine Learning Class](https://github.com/everpeace/ml-class-assignments)
 - [Autocompletion with deep learning (2019)](https://tabnine.com/blog/deep)
 - [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-- [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+- [Python Machine Learning book](https://www.goodreads.com/book/show/25545994-python-machine-learning) ([Code](https://github.com/rasbt/python-machine-learning-book-2nd-edition))
 - [ML and DS Applications in Industry](https://github.com/firmai/industry-machine-learning#readme) - Curated list of applied machine learning and data science notebooks and libraries across different industries.
 - [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning#readme)
 - [Awesome Gradient Boosting Research Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers#readme)
@@ -165,3 +165,7 @@
 - [Ask HN: Full-on machine learning for 2020, what are the best resources?](https://news.ycombinator.com/item?id=21924298)
 - [Dive into Deep Learning](https://d2l.ai/) - Interactive deep learning book with code, math, and discussions, based on the NumPy interface. ([HN](https://news.ycombinator.com/item?id=21948698))
 - [Resources to learn more about Machine Learning and Artificial Intelligence](https://github.com/brylevkirill/notes)
+- [Foundations of Machine Learning book](https://mitpress.mit.edu/books/foundations-machine-learning-second-edition) - New edition of a graduate-level machine learning textbook that focuses on the analysis and theory of algorithms.
+- [Deep Learning book](http://www.deeplearningbook.org/) - Resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular.
+- [Introduction to Deep Learning - Eugene Charniak](https://mitpress.mit.edu/books/introduction-deep-learning) - Project-based guide to the basics of deep learning.
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.goodreads.com/book/show/40363665-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow)

@@ -56,3 +56,5 @@
 - [VizSeq](https://github.com/facebookresearch/vizseq) - Visual Analysis Toolkit for Text Generation Tasks.
 - [Awesome Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme)
 - [How I used NLP (Spacy) to screen Data Science Resume (2019)](https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d)
+- [Introduction to Natural Language Processing book](https://mitpress.mit.edu/books/introduction-natural-language-processing) - Survey of computational methods for understanding, generating, and manipulating human language, which offers a synthesis of classical representations and algorithms with contemporary machine learning techniques.
+- [Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning](https://www.goodreads.com/book/show/34691713-natural-language-processing-with-pytorch)
