@@ -17,3 +17,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Medium to Hugo](https://github.com/bgadrian/medium-to-hugo) - Medium stories exporter to markdown/hugo articles.
 - [Docsy](https://github.com/google/docsy) - Set of Hugo doc templates for launching open source content.
 - [GitHub Actions for Hugo](https://github.com/peaceiris/actions-hugo)
+- [How to start a blog using Hugo (2020)](https://flaviocopes.com/start-blog-with-hugo/) ([HN](https://news.ycombinator.com/item?id=21978306))

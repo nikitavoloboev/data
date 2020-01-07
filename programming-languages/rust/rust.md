@@ -129,3 +129,4 @@
 - [Rewriting m4vgalib in Rust (2019)](http://cliffle.com/blog/m4vga-in-rust/)
 - [Papyrus](https://github.com/kurtlawrence/papyrus) - Rust REPL.
 - [Actix Web: Optimization Amongst Optimizations (2020)](https://brandur.org/nanoglyphs/008-actix)
+- [Translating Quake 3 into Rust (2020)](https://immunant.com/blog/2020/01/quake3/)
