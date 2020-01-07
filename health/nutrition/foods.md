@@ -6,7 +6,7 @@ Most of my diet consists of eating raw foods like various nuts (almonds, walnuts
 
 I try to cover my micro & macro nutrient needs by consuming nutritious food & [supplementing](supplements.md). I sometimes make little smoothies to start off my day.
 
-I nearly always keep nuts & fruits at hand as they make for great quick snacks.
+I nearly always keep nuts & fruits at hand as they make for healthy quick snacks.
 
 I use [Paprika app](https://www.paprikaapp.com/) to store recipes together with foods I can eat sorted into categories (with top first). Here is how it looks:
 
