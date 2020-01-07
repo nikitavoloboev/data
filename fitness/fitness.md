@@ -1,8 +1,10 @@
 # Fitness
 
-I currently do daily bodyweight exercises in form of situps & pushups. I also do cardio exercise daily either by running, cycling or walking & I like to play football weekly.
+I currently do daily bodyweight exercises in form of situps & pushups. I also do cardio exercise daily either by running, cycling or walking.
 
 I never sit for prolonged times & take breaks standing or walking around.
+
+I also enjoy playing sports like football.
 
 ## Notes
 
