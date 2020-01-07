@@ -4,15 +4,11 @@ I eat a whole food, plant based diet and experiment by trying out new [vegan rec
 
 Most of my diet consists of eating raw foods like various nuts (almonds, walnuts), blueberries, bananas and avocados.
 
-I try to cover my micro & macro nutrient needs by consuming the most nutritious food I can. Sometimes I make a smoothie of different superfoods to kickstart my day.
+I try to cover my micro & macro nutrient needs by consuming nutritious food & [supplementing](supplements.md). I sometimes make little smoothies to start off my day.
 
-- Blueberries (200g+)
-- Broccoli / Kale (50g+)
-- Walnuts / Almonds (100g+)
+I nearly always keep nuts & fruits at hand as they make for great quick snacks.
 
-I [supplement](supplements.md) nutrients I am missing out on.
-
-I use [Paprika app](https://www.paprikaapp.com/) to store all my recipes & the foods I can eat sorted into categories (with top first). Here is how it looks:
+I use [Paprika app](https://www.paprikaapp.com/) to store recipes together with foods I can eat sorted into categories (with top first). Here is how it looks:
 
 ![](https://i.imgur.com/a9lMUh7.png)
 
