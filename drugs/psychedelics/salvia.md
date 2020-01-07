@@ -11,3 +11,4 @@
 ## Links
 
 - [Salvia compared to DMT? (2019)](https://www.reddit.com/r/Salvia/comments/c6osrj/salvia_compared_to_dmt/)
+- [Salvia, the secret you’re not supposed to see? (2020)](https://www.reddit.com/r/Salvia/comments/ekw0av/salvia_the_secret_youre_not_supposed_to_see/?sort=top)

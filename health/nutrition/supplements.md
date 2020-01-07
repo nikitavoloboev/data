@@ -1,28 +1,19 @@
 # Supplements
 
+Supplements I take are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/).
+
 ## Taking now
 
-### Taken daily in morning/afternoon
+### Taken daily
 
-- [Magnesium Glycinate](https://www.amazon.co.uk/gp/product/B00ENF72TA) (2 tablets)
-- [Omega 3 DHA+EPA from Algae oil](https://www.amazon.co.uk/gp/product/B015QB57FU) (1 tablet)
-- [Vitamin B12](https://www.amazon.co.uk/gp/product/B01N5RGV8U) (1 tablet) (1000 mcg)
+- [Omega 3 Fish Oil](https://www.amazon.co.uk/1000mg-Softgels-Supply-Balanced-Contaminant/dp/B01BFIHWDS) (3 capsules)
+- [Multivitamin](https://www.amazon.co.uk/Multivitamins-Multivitamin-Vegetarians-Nu-Nutrition/dp/B01IFGDNVS) (1 capsule)
+- [Vitamin D3](https://www.amazon.co.uk/Supplement-Absorption-Cholecalciferol-Nu-Nutrition/dp/B01NC3DJK7) (1 capsule)
+- [Magnesium](https://www.amazon.co.uk/Thorne-Research-Magnesium-Citramate-Vegetarian/dp/B0797SJ88Y) (2 capsules)
+- [Sulforaphane](https://www.amazon.co.uk/Jarrow-Formulas-Broccomax-Vcaps-Capsules/dp/B01D15LMCK) (1 capsule)
+- [Lions Mane](https://oriveda.co.uk/lions-mane.php) (1 capsule)
 
-### Taken daily in evening
-
-- [Magnesium Glycinate](https://www.amazon.co.uk/gp/product/B00ENF72TA) (1 tablet)
-
-### Taken every few days
-
-- [Vitamin D3](https://www.amazon.co.uk/gp/product/B00X0ZCE2O) (1 tablet) (4000 IU)
-
-### Taken less frequently
-
-- [Lions Mane Extract](https://shop.realmushrooms.com/products/organic-lions-mane-extract-capsules) (2 tablets) (500 mg)
-- [Organic Turmeric Curcumin with Organic Black Pepper & Organic Ginger](https://www.amazon.co.uk/Organic-Turmeric-Curcumin-Capsules-Certified/dp/B0772QQX76) (1 tablet) (1380 mg)
-- [Broccoli Sprout Extract + Matcha Green Tea](https://www.amazon.co.uk/Broccoli-Activated-Sulforaphane-Equivalent-Antioxidant/dp/B00JGX9Q8E/)
-
-Everything else I try to get from [food](foods.md).
+Everything else I get from eating whole food plant based [food](foods.md).
 
 ## Links
 
@@ -34,3 +25,6 @@ Everything else I try to get from [food](foods.md).
 - [What are your essential supplements? Like if you could only take a few each day what would you pick? (2019)](https://www.reddit.com/r/Supplements/comments/bwhhro/what_are_your_essential_supplements_like_if_you/)
 - [What are the nootropics that are currently believed to be the best at increasing neurogenesis/BDNF? (2019)](https://www.reddit.com/r/Nootropics/comments/c2kec5/what_are_the_nootropics_that_are_currently/)
 - [What are supplements/nootropics (almost) everyone should be taking? (2019)](https://www.reddit.com/r/Nootropics/comments/cskqi5/what_are_supplementsnootropics_almost_everyone/)
+- [Oriveda](https://oriveda.co.uk/) - Has great Lions Mane.
+- [Dr Rhonda Patrick Supplements List](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/)
+- [Paul Stamets: Psilocybin Mushrooms & The Mycology of Consciousness (2017)](https://www.youtube.com/watch?v=vFWxWq0Fv0U)

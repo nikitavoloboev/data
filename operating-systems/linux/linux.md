@@ -62,3 +62,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [rustysd](https://github.com/KillingSpark/rustysd) - Minimal drop-in for (a subset of) the systemd init system in rust.
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go.
 - [Embedded Linux course (2019)](https://www.youtube.com/playlist?list=PLMB3ddm5Yvh1H_e4IqXyFH25efrNYEDnP)
+- [heaptrack](https://github.com/KDE/heaptrack) - Heap memory profiler for Linux.
