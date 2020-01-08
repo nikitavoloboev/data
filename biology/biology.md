@@ -21,3 +21,4 @@
 - [KEGG PATHWAY](https://www.genome.jp/kegg/pathway.html) - Collection of manually drawn pathway maps representing our knowledge on the molecular interaction, reaction and relation networks.
 - [Hand drawn chart of all the metabolic pathways in the body](https://www.reddit.com/r/interestingasfuck/comments/cgitgc/hand_drawn_chart_of_all_the_metabolic_pathways_in/)
 - [2019 - The Year in Biology](https://www.quantamagazine.org/quantas-year-in-biology-2019-20191223/)
+- [Synthetic Biology One course](https://syntheticbiology1.com/)
