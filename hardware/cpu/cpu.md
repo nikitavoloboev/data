@@ -9,3 +9,4 @@
 - [Simple Computer](https://github.com/djhworld/simple-computer) - Whilst reading But How Do It Know? by J. Clark Scott I felt compelled to write something to simulate the computer the book describes.
 - [Awesome CPU and MCU documentation](https://github.com/larsbrinkhoff/awesome-cpus#readme)
 - [How do CPUs read machine code? (2019)](https://www.youtube.com/watch?v=yl8vPW5hydQ)
+- [CPU Microcodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA & Freescale CPU Microcode Repositories.
