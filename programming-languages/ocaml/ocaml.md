@@ -27,3 +27,4 @@
 - [Haskell vs OCaml (2019)](https://markkarpov.com/post/haskell-vs-ocaml.html) ([Reddit](https://www.reddit.com/r/ocaml/comments/e7g4nb/haskell_vs_ocaml/))
 - [OCaml Runtime for AWS Lambda](https://github.com/anmonteiro/aws-lambda-ocaml-runtime) ([Talk](https://www.youtube.com/watch?v=c10ZOftkeS8))
 - [Lightweight OCaml Webapp Tutorial](https://shonfeder.gitlab.io/ocaml_webapp/)
+- [oskel](https://github.com/CraigFe/oskel) - Skeleton generator for OCaml projects.
