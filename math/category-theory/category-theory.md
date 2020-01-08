@@ -59,6 +59,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Notes on Applied Category Theory (2018)](https://www.math3ma.com/blog/notes-on-act)
 - [Applied Category Theory MIT lectures (2019)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
 - [Categorical Logic Notes](https://github.com/awodey/CatLogNotes)
+- [Programming with Categories lectures (2020)](https://www.youtube.com/watch?v=NUBEB9QlNCM)
 
 ## Images
 

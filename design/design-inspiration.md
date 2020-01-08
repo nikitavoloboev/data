@@ -18,7 +18,8 @@ Here are few more things I liked, design wise.
 
 ## Blogs
 
-- [Actual budget](https://dev.actualbudget.com/) - The design is clean.
+- [Majid](https://swiftwithmajid.com/)
+- [Actual Budget](https://actualbudget.com/blog/)
 - [Seph](https://josephg.com/blog/)
 - [defn.io](https://defn.io/)
 

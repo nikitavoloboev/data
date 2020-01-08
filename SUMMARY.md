@@ -553,6 +553,7 @@
   - [Dat](tools/dat.md)
   - [Email](tools/email.md)
   - [Slack](tools/slack.md)
+  - [Firebase](tools/firebase.md)
   - [Personal setups](tools/personal-setups.md)
   - [Voice assistants](tools/voice-assistants/voice-assistants.md)
 - [Design](design/design.md)
