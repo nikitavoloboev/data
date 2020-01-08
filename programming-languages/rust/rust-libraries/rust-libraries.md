@@ -200,6 +200,7 @@
 - [pretty.rs](https://github.com/Marwes/pretty.rs) - Wadler-style pretty-printing combinators in Rust.
 - [Rusty V8](https://github.com/denoland/rusty_v8) - V8 javascript bindings for Rust.
 - [WS-RS](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
+- [CXX](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++.
 
 ## Cargo Plugins
 

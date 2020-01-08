@@ -140,6 +140,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: Best books you read in the past decade? (2019)](https://news.ycombinator.com/item?id=21900498)
 - [What and How I read in 2019 by Christopher Schroeder](https://www.linkedin.com/pulse/what-how-i-read-2020-christopher-m-schroeder/)
 - [Books read in 2019 by arshia](https://twitter.com/arshia__/status/1081676410123513858)
+- [85 Best Business Books in 2020 for Entrepreneurs, Creatives & Professionals to Read (and Grow) (2020)](https://www.ryrob.com/best-business-books/)
 
 ## Notes
 

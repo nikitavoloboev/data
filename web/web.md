@@ -5,6 +5,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 ## Notes
 
 - Amazing thing about the web is the fact that clients (browsers) and servers can interact in complex ways without the client knowing anything beforehand about the server and the resources it hosts.
+- [I often grab local versions of sites to experiment and learn from. You can get a site's html and all of the page's dependencies with a single wget command: `wget -H -E -k -p SOMEURL`](https://twitter.com/philhawksworth/status/1214942635300982785)
 
 ## Links
 

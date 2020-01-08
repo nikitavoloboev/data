@@ -58,3 +58,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [The city guide to open source - GitHub Universe 2019](https://www.youtube.com/watch?v=GCLgdOiPA6o)
 - [Ask HN: How do you create a successful community from zero? (2019)](https://news.ycombinator.com/item?id=21812442)
 - [Peter Wang: Values-based OSS Open Discussion (2019)](https://www.youtube.com/watch?v=GVyrI7sgFYE)
+- [Don't fund Software that doesn't exist (2020)](https://peekaboo-vision.blogspot.com/2020/01/dont-fund-software-that-doesnt-exist.html)
