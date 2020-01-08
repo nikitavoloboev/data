@@ -52,3 +52,4 @@
 - [Software Engineering Interview Preparation](https://orrsella.gitbooks.io/soft-eng-interview-prep/content/)
 - [Preparing for a Facebook/Google Software Engineer Interview (2016)](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/)
 - [Preparing For a System Architecture Interview (2016)](https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/)
+- [Interview advice for software engineers (2020)](https://twitter.com/ASpittel/status/1214979863683174400)
