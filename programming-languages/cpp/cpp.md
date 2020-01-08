@@ -55,3 +55,4 @@
 - [CppCon 2019: Saar Raz “C++20 Concepts: A Day in the Life”](https://www.youtube.com/watch?v=qawSiMIXtE4)
 - [Chandler Carruth - Programming Language Design for Performance Critical Software (2019)](https://www.youtube.com/watch?v=_prA_EmoBe4)
 - [C++ programming: From problem analysis to program design](http://index-of.co.uk/Programming/C++%20Programming%20From%20Problem%20Analysis%20to%20Program%20Design%20-%20D.%20S.%20Malik%20-%202011.pdf)
+- [C++ Insights](https://github.com/andreasfertig/cppinsights) - See your source code with the eyes of a compiler.

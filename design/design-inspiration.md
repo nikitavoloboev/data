@@ -56,6 +56,7 @@ Here are few more things I liked, design wise.
 - [Moe Amaya](https://moeamaya.com/)
 - [Sergio Xalambrí](https://sergiodxa.com/) ([OSS](https://github.com/sergiodxa/personal-site))
 - [Tyler Gaw](https://tylergaw.com/)
+- [Paul Scanlon](http://www.pauliescanlon.io/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
 - [Andreas Kirsch](https://www.blackhc.net/)
 - [Erin](https://www.erinmcg.com/)

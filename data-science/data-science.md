@@ -50,7 +50,7 @@
 - [Numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM. ([5 minute guide](https://numba.pydata.org/numba-doc/dev/user/5minguide.html))
 - [What's your typical data pipeline in a small company? (2019)](https://www.reddit.com/r/datascience/comments/dge7wh/whats_your_typical_data_pipeline_in_a_small/)
 - [dbt](https://www.getdbt.com/) - Data build tool. Analytics engineering workflow.
-- [Apache Airflow](https://github.com/apache/airflow) - Platform to programmatically author, schedule, and monitor workflows.
+- [Apache Airflow](https://github.com/apache/airflow) - Platform to programmatically author, schedule, and monitor workflows. ([Tutorial](https://github.com/tuanavu/airflow-tutorial))
 - [Overview of Popular Open Source Big Data Technologies (2018)](https://andygrove.io/overview_of_popular_open_source_big_data_technologies/)
 - [Introducing Apache Arrow Flight: A Framework for Fast Data Transport (2019)](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/)
 - [Understanding Apache Arrow Flight (2019)](https://www.dremio.com/understanding-apache-arrow-flight/)
