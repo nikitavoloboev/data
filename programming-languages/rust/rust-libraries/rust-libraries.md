@@ -16,6 +16,7 @@
 - [gotham](https://github.com/gotham-rs/gotham) - Flexible web framework that promotes stability, safety, security and speed.
 - [warp](https://github.com/seanmonstar/warp) - Super-easy, composable, web server framework for warp speeds.
 - [HTTP](https://github.com/hyperium/http) - Rust HTTP types.
+- [httparse](https://github.com/seanmonstar/httparse) - Push parser for the HTTP 1.x protocol in Rust.
 
 ## WASM
 

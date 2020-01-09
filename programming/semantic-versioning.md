@@ -3,6 +3,7 @@
 ## Links
 
 - [Semantic Versioning 2.0.0](https://semver.org/)
+- [Semver trick](https://github.com/dtolnay/semver-trick) - How to avoid complicated coordinated upgrades.
 
 ## Images
 

@@ -137,3 +137,4 @@
 - [car](https://github.com/pakastin/car) - Simple 2d car physics with JavaScript. ([HN](https://news.ycombinator.com/item?id=21927076))
 - [Picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written in JavaScript.
 - [react-isomorphic-data](https://github.com/jackyef/react-isomorphic-data) - Easily fetch data in your React components, with similar APIs to react-apollo.
+- [klona](https://github.com/lukeed/klona) - Tiny (228B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more.

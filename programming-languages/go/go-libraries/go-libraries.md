@@ -272,6 +272,7 @@
 - [endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe).
 - [Sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF processor written in Go.
+- [Sqlvet](https://github.com/houqp/sqlvet) - Performs static analysis on raw SQL queries in your Go code base.
 
 ## Links
 
