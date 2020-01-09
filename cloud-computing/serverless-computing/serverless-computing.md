@@ -25,3 +25,4 @@
 - [Cloudstate](https://github.com/cloudstateio/cloudstate) - Distributed State Management for Serverless.
 - [AWS Amplify CLI](https://github.com/aws-amplify/amplify-cli) - CLI toolchain for simplifying serverless web and mobile development.
 - [Deploy Your First Serverless Function Using JavaScript (2020)](https://dev.to/jlengstorf/deploy-your-first-serverless-function-using-javascript-1g4e)
+- [Cloud Run Button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click.

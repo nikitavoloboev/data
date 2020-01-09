@@ -275,6 +275,7 @@
 - [Sqlvet](https://github.com/houqp/sqlvet) - Performs static analysis on raw SQL queries in your Go code base.
 - [matchr](https://github.com/antzucaro/matchr) - Approximate string matching library for the Go programming language.
 - [oauth2](https://github.com/cristalhq/oauth2) - OAuth2 client in Go.
+- [deep](https://github.com/go-test/deep) - Golang deep variable equality test that returns human-readable differences.
 
 ## Links
 
