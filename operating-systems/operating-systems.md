@@ -50,3 +50,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Awesome eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - BPF, as in Berkeley Packet Filter, is an in-kernel virtual machine running programs passed from user space.
 - [What are required knowledge in order to build an OS? (2020)](https://www.reddit.com/r/osdev/comments/egzwa0/what_are_required_knowledge_in_order_to_build_an/)
 - [Krabs](https://github.com/ellbrid/krabs) - x86 bootloader written in Rust.
+- [oreboot](https://github.com/oreboot/oreboot) - Fork of coreboot, with C removed, written in Rust.

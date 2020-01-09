@@ -24,3 +24,4 @@ I use VS Code [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-
 - [sshcode](https://github.com/codercom/sshcode) - CLI to automatically install and run code-server over SSH.
 - [Vim to Code](https://github.com/asantos00/vim-to-code) - Comprehensive (almost) list of resources, tutorials, and inspiration for migrating to Visual Studio code from Vim.
 - [VSCode Keyboard Shortcuts For Productivity (2019)](https://www.youtube.com/watch?v=Xa5EU-qAv-I)
+- [VS Code Recipes](https://github.com/microsoft/vscode-recipes) - Collection of recipes for using VS Code with particular technologies.

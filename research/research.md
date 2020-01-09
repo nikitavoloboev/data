@@ -46,3 +46,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Ask HN: What can I do to accelerate scientific research? (2019)](https://news.ycombinator.com/item?id=20189664)
 - [Prophy](https://www.prophy.science/) - Search research documents.
 - [A network of science: 150 years of Nature papers (2019)](https://www.youtube.com/watch?v=GW4s58u8PZo)
+- [Is Your Research Software Correct?](https://mikecroucher.github.io/MLPM_talk/) ([Lobsters](https://lobste.rs/s/yvuwwe/is_your_research_software_correct))

@@ -43,6 +43,7 @@ Here are few more things I liked, design wise.
 - [Artem Sapegin](https://sapegin.me/)
 - [Tobias van Schneider](https://www.vanschneider.com) - Has nice [now page](https://www.vanschneider.com/now).
 - [Evan Jones](https://www.evanjones.ca/)
+- [John Otander](https://johno.com/) ([Code](https://github.com/johno/_))
 - [Maksim Stepanenko](http://maksim.ms/)
 - [Lee Robinson](https://leerob.io/) ([Code](https://github.com/leerob/leerob.io))
 - [Rickard Laurin](https://willcodefor.beer)

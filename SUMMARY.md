@@ -91,6 +91,7 @@
   - [Neuromorphic Computing](hardware/neuromorphic-computing.md)
   - [Circuit design](hardware/circuit-design.md)
   - [FPGA](hardware/fpga.md)
+  - [Firmware](hardware/firmware.md)
 - [Math](math/math.md)
   - [Logic](math/logic/logic.md)
     - [Combinatory logic](math/logic/combinatory-logic.md)

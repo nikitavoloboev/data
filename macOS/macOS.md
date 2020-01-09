@@ -48,3 +48,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [macOS Headers](https://github.com/w0lfschild/macOS_headers) - Consistently maintained dump of most macOS Headers.
 - [Every macOS white paper](https://github.com/0xmachos/mac-white-papers)
 - [AppMover](https://github.com/OskarGroth/AppMover) - Framework for moving your application bundle to Applications folder on launch.
+- [Lilu](https://github.com/acidanthera/Lilu) - Arbitrary kext and process patching on macOS.

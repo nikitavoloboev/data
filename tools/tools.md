@@ -168,6 +168,8 @@ I love software and non software tools that help me in some way. Most tools I us
 - [TravelTime Maps](https://app.traveltimeplatform.com/) - Put your work postcode in, then the max time you want to travel, and it will show you area's within that travel time.
 - [Tokens for Mac](http://usetokens.com/) - Makes it remarkably easy to generate, share, and track promo codes for your iOS and Mac apps.
 - [workspaces-run](https://github.com/jamiebuilds/workspaces-run) - Run tasks/scripts across Yarn/Lerna/Bolt/etc workspaces.
+- [MacPin](https://github.com/kfix/MacPin) - Creates pseudo-browsers managed with internal JavaScripts.
+- [notehub](https://github.com/chmllr/notehub) - Pastebin for markdown pages.
 
 ## Notes
 
