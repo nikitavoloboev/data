@@ -5,6 +5,7 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 ## Notes
 
 - [Curcumin](http://en.wikipedia.org/wiki/Curcumin), [Pterostilbene](http://en.wikipedia.org/wiki/Pterostilbene) and [Nicotinamide riboside](http://en.wikipedia.org/wiki/Nicotinamide_riboside) supposedly have anti aging properties.
+- [I'm 71 and find that the less I worry about aging, the younger I feel.](https://www.reddit.com/r/longevity/comments/e7e6wa/motivation_for_a_long_life/)
 
 ## Links
 
