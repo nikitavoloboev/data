@@ -61,3 +61,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [warmy](https://github.com/phaazon/warmy) - Hot-reloading loadable and reloadable resources.
 - [OpenLiteSpeed Web Server](https://github.com/litespeedtech/openlitespeed) - High-performance, lightweight, open source HTTP server.
 - [Inter-Networking (2019)](https://technicshistory.com/2019/12/30/inter-networking/)
+- [Network Programming Initiative](https://network-programming.org/) - Supports research on languages, algorithms, and tools for network programming.

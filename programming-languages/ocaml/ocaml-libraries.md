@@ -18,3 +18,4 @@
 - [piaf](https://github.com/anmonteiro/piaf) - Client library for HTTP/1.X / HTTP/2 written entirely in OCaml.
 - [OCamlgraph](https://github.com/backtracking/ocamlgraph) - OCaml graph library.
 - [luv](https://github.com/aantron/luv) - Minimalist binding to libuv from OCaml and Reason.
+- [Nice Parser](https://github.com/smolkaj/nice-parser) - Nice parsers in OCaml without the boilerplate.

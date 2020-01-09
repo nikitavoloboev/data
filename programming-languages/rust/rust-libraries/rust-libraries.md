@@ -202,6 +202,7 @@
 - [Rusty V8](https://github.com/denoland/rusty_v8) - V8 javascript bindings for Rust.
 - [WS-RS](https://github.com/housleyjk/ws-rs) - Lightweight, event-driven WebSockets for Rust.
 - [CXX](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++.
+- [Duct](https://github.com/oconnor663/duct.rs) - Rust library for shelling out and making pipelines.
 
 ## Cargo Plugins
 
