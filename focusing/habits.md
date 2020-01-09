@@ -16,7 +16,7 @@ The 6 habits are an essential subset of more general [rules](rules.md) I want to
 
 `Cardio / Weights` is autofilled through my health data. It includes workout minutes from running/cycling & bodyweight/lifting workouts. Bodyweight/lifting is tracked with [Strong](https://strong.app) & [Streaks Workout](https://streaksworkout.com) apps. It also includes yoga (tracked with [Down Dog](https://www.downdogapp.com)).
 
-`Impact | Simplify | Calm` is marked as done when I felt my work was impactful towards my goals. All of my values and rules were held. I further simplified things and cut out noise from my life to focus on bringing and capturing value. It also means I was calm and mindful throughout the day. No anxieties and no inhibitions.
+`Impact | Simplify | Calm` is marked as done when I felt my work was impactful towards my goals. All of my values and rules were held. I further simplified things and cut out noise from my life to focus on creating and capturing value. It also means I was calm and mindful throughout the day. No anxieties and no inhibitions.
 
 `Plan | Focus | Ideas/Learn` is marked as done when I planned the day ahead and the current day went according to the plan. I didn't get distracted from tasks I assigned myself to do & worked on [one task at a time](../research/solving-problems.md). I spent the time building ideas & learning. I track time spent with [Timing](../macOS/apps/timing.md) & [WakaTime](https://wakatime.com).
 
