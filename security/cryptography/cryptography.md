@@ -24,3 +24,4 @@
 - [Elliptic Curve Cryptography Explained (2019)](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/)
 - [The Latest Developments in Cryptography Webinar](https://www.youtube.com/watch?v=eQdkZRLD09M)
 - [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
+- [A Graduate Course in Applied Cryptography (2020)](https://toc.cryptobook.us/)
