@@ -81,3 +81,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Find yourself a hobby](http://findyourselfahobby.com/) ([HN](https://news.ycombinator.com/item?id=21877900))
 - [Avataaars generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars.
 - [Awesome CSV](https://github.com/secretGeek/AwesomeCSV#readme)
+- [Guide To Using Reverse Image Search For Investigations (2019)](https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/)

@@ -190,3 +190,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [The Arc of Collaboration (2019)](https://kwokchain.com/2019/08/16/the-arc-of-collaboration/)
 - [Dev.to tech/tools used](https://docs.dev.to/technical-overview/)
 - [Lobsters: What software do you use daily? (2019)](https://lobste.rs/s/j7tc67/what_software_do_you_use_daily)
+- [/uses](https://uses.tech/) - List of /uses pages detailing developer setups, gear, software and configs.

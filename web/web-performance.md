@@ -14,3 +14,4 @@
 - [Ilya Grigorik | performance.now().reject(reasons) (2019)](https://www.youtube.com/watch?v=vtIfVPtN6io)
 - [You Don't Need](https://github.com/you-dont-need/You-Dont-Need.com) - People choose popular projects, often not because it applies to their problems.
 - [Treo](https://treo.sh/sites) - Real user monitoring with zero-setup.
+- [Front-End Performance Checklist (2020)](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)

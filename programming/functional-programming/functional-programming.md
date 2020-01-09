@@ -53,6 +53,7 @@
 - [ICFP 2019 preprints/papers](https://github.com/llelf/icfp2019-papers)
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon#readme)
 - [A Glossary of Functional Programming](http://degoes.net/articles/fp-glossary)
+- [Functional programming design patterns by Scott Wlaschin (2008)](https://www.youtube.com/watch?v=E8I19uA-wGY)
 
 ## Images
 
