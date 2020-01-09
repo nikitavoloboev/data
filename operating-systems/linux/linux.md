@@ -63,3 +63,5 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go.
 - [Embedded Linux course (2019)](https://www.youtube.com/playlist?list=PLMB3ddm5Yvh1H_e4IqXyFH25efrNYEDnP)
 - [heaptrack](https://github.com/KDE/heaptrack) - Heap memory profiler for Linux.
+- [u-root](https://github.com/u-root/u-root) - Fully Go userland with Linux bootloaders! u-root can create a root file system (initramfs) containing a busybox-like set of tools written in Go.
+- [ZFS on Linux](https://github.com/zfsonlinux/zfs) - Advanced file system and volume manager which was originally developed for Solaris and is now maintained by the OpenZFS community.

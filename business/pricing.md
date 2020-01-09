@@ -5,3 +5,4 @@ For selling items, it's best to keep the item you want to sell in the best condi
 ## Links
 
 - [How to approach pricing and packaging a new SaaS app, by example](https://stripe.com/atlas/guides/saas-pricing) ([HN comments](https://news.ycombinator.com/item?id=16476454))
+- [Thinking about growth and profit (2020)](https://jlongster.com/thinking-growth-profit)

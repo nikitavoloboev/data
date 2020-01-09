@@ -12,3 +12,4 @@
 - [The Little Handbook of Statistical Practice](http://www.jerrydallal.com/LHSP/LHSP.htm)
 - [Notes and exercise attempts for "An Introduction to Statistical Learning"](https://github.com/asadoughi/stat-learning)
 - [BayesOpt](https://github.com/rmcantin/bayesopt) - Toolbox for bayesian optimization, experimental design and stochastic bandits.
+- [Introduction to Empirical Bayes: Examples from Baseball Statistics](http://varianceexplained.org/r/empirical-bayes-book/)

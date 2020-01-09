@@ -19,3 +19,4 @@
 - [Ask HN: How do you deal with atomicity in microservice environments? (2019)](https://news.ycombinator.com/item?id=21656891)
 - [Go: Introduction to Protobuf: Services](https://scene-si.org/2019/12/02/introduction-to-protobuf-services/)
 - [Go: Dependency injection with Wire (2019)](https://scene-si.org/2019/12/11/dependency-injection-with-wire/)
+- [Building Microservices with Go (2020)](https://www.youtube.com/watch?v=VzBGi_n65iU)

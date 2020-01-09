@@ -169,3 +169,4 @@
 - [Deep Learning book](http://www.deeplearningbook.org/) - Resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular.
 - [Introduction to Deep Learning - Eugene Charniak](https://mitpress.mit.edu/books/introduction-deep-learning) - Project-based guide to the basics of deep learning.
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.goodreads.com/book/show/40363665-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow)
+- [Topological Techniques for Unsupervised Learning (2019)](https://www.youtube.com/watch?v=7pAVPjwBppo)

@@ -7,3 +7,4 @@
 - [RStudio Cheat Sheets](https://github.com/rstudio/cheatsheets)
 - [mlr](https://github.com/mlr-org/mlr) - Machine learning in R.
 - [Why I use R (2019)](https://blog.shotwell.ca/posts/why_i_use_r/) ([HN](https://news.ycombinator.com/item?id=21965248))
+- [Text Mining with R (2019)](https://www.tidytextmining.com/)

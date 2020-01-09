@@ -11,6 +11,7 @@
   - working on actual problems the team is facing
   - blind feedback
 - When trying to solve problems for understanding, don't blindly copy other's solutions. Read their solutions and take notes. Then reimplement from the notes.
+- [In my experience the best candidates speculate rather than giving up, ask appropriate clarifying questions, and take end-to-end ownership of each answer by synthesising disparate discussion into a coherent final explanation.](https://twitter.com/kieranmch/status/1215385877112815617)
 
 ## Links
 

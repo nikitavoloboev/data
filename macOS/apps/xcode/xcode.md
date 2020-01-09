@@ -1,5 +1,9 @@
 # [Xcode](https://developer.apple.com/xcode/)
 
+## Notes
+
+- ["Run without building" has saved me so much time, it's ridiculous](https://twitter.com/DonnyWals/status/1215196512851984385)
+
 ## Links
 
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen) - Command line tool that generates your Xcode project from a spec file and your folder structure.
