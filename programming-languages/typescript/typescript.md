@@ -73,6 +73,7 @@
 - [TSConf 2019 Keynote - Anders Hejlsberg](https://www.youtube.com/watch?v=jmPZztKIFf4)
 - [Effective Typescript notes](https://github.com/jsjoeio/effective-typescript-notes#readme)
 - [TypeScript for Beginner Programmers](https://github.com/chibicode/TypeScript-for-Beginner-Programmers)
+- [TSConf Videos](https://tsconf.io/videos.html)
 
 ## Images
 

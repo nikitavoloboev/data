@@ -110,6 +110,7 @@
 - [Ask HN: Which is the most successful one-person business you heard of in 2019?](https://news.ycombinator.com/item?id=21908577)
 - [Worker-in-the-loop Retrospective](https://akilian.com/2019/12/30/worker-in-the-loop-retrospective)
 - [My top essays/tweetstorms in 2019 on product/market fit, investing, KPIs, YouTubers, and more](https://andrewchen.co/top-essays-tweets-2019/)
+- [My Startup Name](https://mystartupname.com/) - Free and simple framework to name your next project, startup or business.
 
 ## Images
 
