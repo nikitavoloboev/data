@@ -29,3 +29,4 @@
 - [The Ultimate Hack for Learning In Public. Pick Up What They Put Down. (2020)](https://www.swyx.io/writing/learn-in-public-hack/)
 - [Lobsters: What do you plan to learn in 2020?](https://lobste.rs/s/hbkh21/what_do_you_plan_learn_2020)
 - [Ask HN: What Technologies to Learn in 2020?](https://news.ycombinator.com/item?id=21961214)
+- [Ask HN: Your favourite tutorial for total beginners? (2020)](https://news.ycombinator.com/item?id=20583581)

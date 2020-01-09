@@ -59,3 +59,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Ask HN: How do you create a successful community from zero? (2019)](https://news.ycombinator.com/item?id=21812442)
 - [Peter Wang: Values-based OSS Open Discussion (2019)](https://www.youtube.com/watch?v=GVyrI7sgFYE)
 - [Don't fund Software that doesn't exist (2020)](https://peekaboo-vision.blogspot.com/2020/01/dont-fund-software-that-doesnt-exist.html)
+- [What I Don’t Like In Your Repo (2019)](https://itnext.io/what-i-dont-like-in-your-repo-a602577a526b)
