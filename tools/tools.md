@@ -26,6 +26,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Missive](https://missiveapp.com/) - Collaborative email app where you’ll feel right at home.
 - [cargo-crev](https://github.com/crev-dev/cargo-crev) - Cryptographically verifiable code review system for the cargo (Rust) package manager.
 - [Cocoon](https://cocoon.com/) - Dedicated space for the most important people in your life.
+- [GoLinks](https://www.golinks.io/) - Replace lengthy URLs with intuitive golinks to get your organization on the same page faster.
 - [Next Please](https://nextplease.io/) - Track features your users request and collaborate on your roadmap.
 - [Diagram generation tool](https://www.diagram.codes/) ([HN](https://news.ycombinator.com/item?id=21615978))
 - [Render](https://render.com/) - Unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.

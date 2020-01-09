@@ -60,3 +60,4 @@ I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=e
 - [HN: Psilocybin for Major Depression Granted Breakthrough Therapy by FDA (2019)](https://news.ycombinator.com/item?id=21638290)
 - [Development of a Data-Driven Psychedelic Therapy Network (2018)](https://www.youtube.com/watch?v=mTGMArtFb2g)
 - [What are the weirder lessons that psychedelics have taught you? (2020)](https://www.reddit.com/r/Psychonaut/comments/ekrrh5/what_are_the_weirder_lessons_that_psychedelics/)
+- [Mindbloom](https://www.mindbloom.co/) - Offer clinician-prescribed, evidence-based psychedelic medicine experiences, with the support of experienced guides.
