@@ -27,6 +27,7 @@ Personally I found dating apps like Tinder to be a [waste of time](https://twitt
   - If she's not looking, its a good chance she's not interested. Don't stare at her. Move on.
 - Eye-contact is fundamental. When you look a woman in the eye, don't hide the fact that you want her. Maintain eye-contact. This is a very clear signal you are interested in a woman sexually.
   - Just for clarity. When you make eye contact you need to choose an eye. You can't oscillate back and forth between them. And when he says "maintain eye contact" it doesn't mean blankly stare into her eyes uninterrupted. It means when you do look at her, look into her eyes. Not just at her face. And hold that eye contact slightly longer than you would regularly with other people.
+- [I think advanced game is loving yourself no matter what happens to you. Rejections, shit tests, break-ups, critics, emotions. These are all opportunities to learn, to improve, to love yourself more, to be authentic, to go forward. It's not about protecting yourself so you don't feel anything anymore, it's about being at peace with what goes inside of you and outside of you. It's about breaking down your limiting beliefs and your expectations, going with the flow and being in the moment.](https://www.reddit.com/r/seduction/comments/elut4g/advanced_game_is_just_not_giving_a_fuck/)
 
 ## Links
 
