@@ -20,3 +20,4 @@ Some things I found funny.
 - [Launching your product after months of research and development](https://twitter.com/PottsJustin/status/1186822288756396035)
 - [Every programming tutorial](https://www.youtube.com/watch?v=MAlSjtxy5ak)
 - [Fibery - Yet another collaboration tool](https://fibery.io/anxiety)
+- [How to exit vim](https://github.com/hakluke/how-to-exit-vim)

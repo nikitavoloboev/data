@@ -14,3 +14,4 @@
 - [Awesome Combine](https://github.com/CombineCommunity/awesome-combine#readme)
 - [OpenCombine](https://github.com/broadwaylamb/OpenCombine) - Open source implementation of Apple's Combine framework for processing values over time.
 - [Harvest](https://github.com/inamiy/Harvest) - Apple's Combine.framework + State Machine, inspired by Elm.
+- [Entwine](https://github.com/tcldr/Entwine) - Testing tools and utilities for Apple's Combine framework.

@@ -273,6 +273,7 @@
 - [Sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF processor written in Go.
 - [Sqlvet](https://github.com/houqp/sqlvet) - Performs static analysis on raw SQL queries in your Go code base.
+- [matchr](https://github.com/antzucaro/matchr) - Approximate string matching library for the Go programming language.
 
 ## Links
 
