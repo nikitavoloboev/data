@@ -17,3 +17,4 @@
 - [ELI5: LSD](https://www.reddit.com/r/explainlikeimfive/comments/dymtnq/eli5_lsd/)
 - [Selen Atasoy: Enhanced Improvisation in LSD Brain Processing (2017)](https://www.youtube.com/watch?v=jKAZCzATmnk)
 - [LSD — My Problem Child (1980)](https://maps.org/images/pdf/books/lsdmyproblemchild.pdf) ([HN](https://news.ycombinator.com/item?id=21878726))
+- [LSD, Childhood Memories, And The Science Of Nostalgia (2020)](https://medium.com/@psychedelicsaremedicine/lsd-childhood-memories-and-the-science-of-nostalgia-32bebb1fe1e9)
