@@ -14,3 +14,4 @@
 - [Cello](https://github.com/orangeduck/Cello) - Higher level programming in C.
 - [libdill](https://github.com/sustrik/libdill) - Structured concurrency in C.
 - [CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++).
+- [cr.h](https://github.com/fungos/cr) - Simple C Hot Reload Header-only Library.

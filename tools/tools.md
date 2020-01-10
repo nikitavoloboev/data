@@ -5,6 +5,7 @@ I love software and non software tools that help me in some way. Most tools I us
 ## Other
 
 - [Loom](https://www.loom.com/) - Most effective way to get your message across, no matter where you work.
+- [Astuto](https://github.com/riggraz/astuto) - Free, open source, self-hosted customer feedback tool.
 - [Pulumi](https://www.pulumi.com/) - Declare cloud infrastructure using real languages.
 - [HASH](https://hash.ai/) - Open-source platform for general purpose simulation backed and built by the founders of Kaggle, Stack Overflow, Trello, and Glitch.
 - [Espial](https://github.com/jonschoning/espial) - Open-source, web-based bookmarking server.
