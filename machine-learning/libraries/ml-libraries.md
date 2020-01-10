@@ -29,3 +29,4 @@
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - Powerful Automated Machine Learning python library.
 - [Mlxtend (machine learning extensions)](https://github.com/rasbt/mlxtend) - Python library of useful tools for the day-to-day data science tasks.
 - [Spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow.
+- [CrypTen](https://github.com/facebookresearch/CrypTen) - Framework for Privacy Preserving Machine Learning built on PyTorch.
