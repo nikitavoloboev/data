@@ -112,6 +112,8 @@
 - [My top essays/tweetstorms in 2019 on product/market fit, investing, KPIs, YouTubers, and more](https://andrewchen.co/top-essays-tweets-2019/)
 - [My Startup Name](https://mystartupname.com/) - Free and simple framework to name your next project, startup or business.
 - [Why Customer Network is the next big thing that every startup needs to master](https://alexiskold.net/2020/01/11/why-customer-network-is-the-next-big-thing-that-every-startup-needs-to-master/)
+- [Good businesses have margin (2020)](https://justinjackson.ca/margin)
+- [HN: Haters (2020)](https://news.ycombinator.com/item?id=22018599)
 
 ## Images
 

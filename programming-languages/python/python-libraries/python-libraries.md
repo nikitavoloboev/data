@@ -68,3 +68,4 @@
 - [anosql](https://github.com/honza/anosql) - Easy SQL in Python.
 - [Adaptive](https://github.com/python-adaptive/adaptive) - Parallel active learning of mathematical functions.
 - [Cachew](https://github.com/karlicoss/cachew) - Persistent cache/serialization powered by type hints.
+- [rq](https://github.com/rq/rq) - Simple job queues for Python.

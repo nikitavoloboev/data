@@ -10,3 +10,4 @@
 - [Google AI Education Resources](https://ai.google/education/) ([HN](https://news.ycombinator.com/item?id=20493947))
 - [AI DEBATE : Yoshua Bengio | Gary Marcus (2019)](https://www.youtube.com/watch?v=EeqwFjqFvJA) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/eezv6l/nai_debate_2019_yoshua_bengio_vs_gary_marcus/))
 - [Google Research: Looking Back at 2019, and Forward to 2020 and Beyond](https://ai.googleblog.com/2020/01/google-research-looking-back-at-2019.html)
+- [CS221: Artificial Intelligence: Principles and Techniques (2020)](https://stanford-cs221.github.io/autumn2019/)
