@@ -27,3 +27,4 @@ The 6 habits are an essential subset of more general [rules](rules.md) I want to
 ## Links
 
 - [Ask HN: Is there a new habit you cultivated recently that is really paying off? (2018)](https://news.ycombinator.com/item?id=17291127)
+- [Habits vs. Goals: A Look at the Benefits of a Systematic Approach to Life](https://fs.blog/2017/06/habits-vs-goals/)

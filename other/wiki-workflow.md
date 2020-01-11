@@ -77,3 +77,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Digital Tools I Wish Existed (2019)](https://jborichevskiy.com/posts/digital-tools/) ([HN](https://news.ycombinator.com/item?id=21659876))
 - [The sad state of personal data and infrastructure (2019)](https://beepb00p.xyz/sad-infra.html)
 - [What tools do you use to maintain a personal log/journal? (2020)](https://lobste.rs/s/peevtw/what_tools_do_you_use_maintain_personal)
+- [Managing my personal knowledge base (2020)](https://tkainrad.dev/posts/managing-my-personal-knowledge-base/)

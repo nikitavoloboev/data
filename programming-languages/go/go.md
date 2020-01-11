@@ -144,3 +144,4 @@ Go promotes composition over inheritance.
 - [go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules.
 - [Go by Example](https://gobyexample.com/) - Hands-on introduction to Go using annotated example programs.
 - [A Chapter in the Life of Go’s Compiler (2020)](https://medium.com/samsara-engineering/a-chapter-in-the-life-of-gos-compiler-c89b9db74617)
+- [JWT Authorization in Golang (2019)](https://www.cloudjourney.io/articles/security/jwt_in_golang-su/)

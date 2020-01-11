@@ -25,3 +25,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of the Ethereum Serenity protocol.
 - [Compound](https://compound.finance/) - Open-source, autonomous protocol built for developers, to unlock a universe of new financial applications. Interest and borrowing, for the open financial system.
 - [SputnikVM](https://github.com/sorpaas/rust-evm) - Pure Rust implementation of Ethereum Virtual Machine.
+- [Ethereum: The Money-Game Landscape (2020)](https://medium.com/@TrustlessState/ethereum-the-money-game-landscape-1b9fdb05f842)
