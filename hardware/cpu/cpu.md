@@ -10,3 +10,4 @@
 - [Awesome CPU and MCU documentation](https://github.com/larsbrinkhoff/awesome-cpus#readme)
 - [How do CPUs read machine code? (2019)](https://www.youtube.com/watch?v=yl8vPW5hydQ)
 - [CPU Microcodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA & Freescale CPU Microcode Repositories.
+- [CPU Scheduling](https://twitter.com/b0rk/status/1215753312324157441)

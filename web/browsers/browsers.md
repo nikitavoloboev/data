@@ -15,3 +15,4 @@
 - [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [Browserless](https://www.browserless.io/) - Fast, scalable, and reliable browser automation built for businesses and developers.
 - [Polypane](https://polypane.app/) - Browser for developers and designers.
+- [QA Wolf](https://github.com/qawolf/qawolf) - Create browser tests 10x faster.

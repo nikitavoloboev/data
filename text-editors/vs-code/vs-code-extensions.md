@@ -70,6 +70,7 @@ Below is a list of extensions I use.
 
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
 - [CodeSandbox](https://marketplace.visualstudio.com/items?itemName=yesmeck.codesandbox) - Bring CodeSandbox into your favorite editor.
+- [Rewrap](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap) - Re-wraps comments and other text to a given line length.
 - [GistPad](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.gistfs) - Browse, edit and fork GitHub Gists, directly within Visual Studio Code.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - Improve your code commenting by annotating with alert, informational, TODOs, and more.
 - [Control Snippets](https://marketplace.visualstudio.com/items?itemName=svipas.control-snippets) - Disable or enable VS Code's built-in snippets and manually installed snippets from extensions.

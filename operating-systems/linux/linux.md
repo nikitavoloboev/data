@@ -65,3 +65,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [heaptrack](https://github.com/KDE/heaptrack) - Heap memory profiler for Linux.
 - [u-root](https://github.com/u-root/u-root) - Fully Go userland with Linux bootloaders! u-root can create a root file system (initramfs) containing a busybox-like set of tools written in Go.
 - [ZFS on Linux](https://github.com/zfsonlinux/zfs) - Advanced file system and volume manager which was originally developed for Solaris and is now maintained by the OpenZFS community.
+- [Linux kernel scheduler (2015)](https://helix979.github.io/jkoo/post/os-scheduler/)

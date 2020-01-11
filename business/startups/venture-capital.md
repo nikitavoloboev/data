@@ -20,3 +20,4 @@
 - [What I learnt from raising £1m](https://medium.com/swlh/what-i-learnt-from-raising-1m-8f70df34c874)
 - [Upfront Ventures](https://upfront.com/)
 - [TinySeed](https://tinyseed.com/) - Year-long, remote accelerator designed for early-stage SaaS founders.
+- [2048 Ventures](https://www.2048.vc/) - Invest in exceptional founders building B2B and B2C companies differentiated through technology.
