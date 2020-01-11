@@ -16,3 +16,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [The Deep Sea](https://neal.fun/deep-sea/)
 - [Measuring progress towards the Sustainable Development Goals](https://sdg-tracker.org/)
 - [The future is grim (2019)](https://medium.com/@cache_86525/the-future-is-grim-27ca6f7ab07b) ([HN](https://news.ycombinator.com/item?id=21957232))
+- [How to Stop Freaking Out and Tackle Climate Change (2020)](https://www.nytimes.com/2020/01/10/opinion/how-to-help-climate-change.html) ([Tweet](https://twitter.com/ayanaeliza/status/1216021205049839618))

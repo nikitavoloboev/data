@@ -21,6 +21,7 @@
 - [ts-transformer-keys](https://github.com/kimamula/ts-transformer-keys) - TypeScript custom transformer which enables to obtain keys of given type.
 - [ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project.
 - [byots](https://github.com/basarat/byots) - Bring your own TypeScript with more internal definitions.
+- [is](https://github.com/sindresorhus/is) - Type check values.
 
 ## Links
 

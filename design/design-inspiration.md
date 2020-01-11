@@ -196,3 +196,4 @@ Here are few more things I liked, design wise.
 - [Creative Portfolios](https://creative-portfolios.now.sh/) - Curation of the most creative portfolios made by designers & developers.
 - [Ask HN: What are some examples of well-designed personal sites? (2019)](https://news.ycombinator.com/item?id=21737529)
 - [Ask HN: What Landing Page do you absolutely love? (2020)](https://news.ycombinator.com/item?id=21962712)
+- [Design Site Inspiration](https://twitter.com/steveschoger/status/1215673997725196288?s=20)

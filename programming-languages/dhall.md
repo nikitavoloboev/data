@@ -11,3 +11,4 @@
 - [Dhall, formalised in Agda](https://github.com/ocharles/dhall-agda)
 - [dhall-rust](https://github.com/Nadrieril/dhall-rust) - WIP implementation in Rust of the dhall configuration format/programming language.
 - [Dhall - Year in review (2019-2020)](http://www.haskellforall.com/2020/01/dhall-year-in-review-2019-2020.html)
+- [dhall-golang](https://github.com/philandstuff/dhall-golang) - Go bindings for dhall.

@@ -171,6 +171,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [workspaces-run](https://github.com/jamiebuilds/workspaces-run) - Run tasks/scripts across Yarn/Lerna/Bolt/etc workspaces.
 - [MacPin](https://github.com/kfix/MacPin) - Creates pseudo-browsers managed with internal JavaScripts.
 - [notehub](https://github.com/chmllr/notehub) - Pastebin for markdown pages.
+- [glog](https://github.com/google/glog) - C++ implementation of the Google logging module.
 
 ## Notes
 

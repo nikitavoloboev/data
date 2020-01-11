@@ -97,6 +97,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Paul Lehr's scifi art](https://70sscifiart.tumblr.com/post/189220242780/crossconnectmag-paul-lehr-1930-1998-is-one-of)
 - [70s Sci-Fi Art](https://70sscifiart.tumblr.com/)
 - [Ionel-Cosmonaut (1973)](http://dreamsofspace.blogspot.com/2019/11/ionel-cosmonaut-1973.html)
+- [Images of 100,000 Artworks From Paris Museum Collections Now Freely Available to the Public](https://hyperallergic.com/536360/images-of-100000-artworks-from-paris-museum-collections-now-freely-available-to-the-public/)
 
 ## Photography
 

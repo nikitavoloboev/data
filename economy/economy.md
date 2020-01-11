@@ -22,3 +22,4 @@
 - [QuantEcon](https://quantecon.org/) - Open source code for economic modeling.
 - [Against Economics (2019)](https://www.nybooks.com/articles/2019/12/05/against-economics/)
 - [Money creation in the modern economy (2014)](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en)
+- [NIRP is going to ruin everything (2020)](https://prestonbyrne.com/2020/01/10/nirp-is-going-to-ruin-everything/) ([Tweet](https://twitter.com/paulg/status/1216031124327141378))

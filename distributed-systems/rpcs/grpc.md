@@ -13,3 +13,4 @@
 - [Swift & gRPC: Supercharging your Web APIs (2019)](https://docs.google.com/presentation/d/1mKygo8MK6tlG1R6NUV8LN8o8OGzPN1H7hUqjygHkank/edit#slide=id.gc6f73a04f_0_0)
 - [Swift gRPC](https://github.com/grpc/grpc-swift) - Swift language implementation of gRPC.
 - [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC.
+- [Seamless Cloud-Native Apps with gRPC-Web and Istio (2018)](https://venilnoronha.io/seamless-cloud-native-apps-with-grpc-web-and-istio)
