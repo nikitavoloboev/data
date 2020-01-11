@@ -740,3 +740,5 @@
     - [2019 October](looking-back/2019/2019-october.md)
     - [2019 November](looking-back/2019/2019-november.md)
     - [2019 December](looking-back/2019/2019-december.md)
+  - 2020
+    - [2020 January](looking-back/2020/2020-january.md)
