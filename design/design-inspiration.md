@@ -60,6 +60,7 @@ Here are few more things I liked, design wise.
 - [Tyler Gaw](https://tylergaw.com/)
 - [Paul Scanlon](http://www.pauliescanlon.io/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
+- [Simon Sarris](https://simonsarris.com/)
 - [Andreas Kirsch](https://www.blackhc.net/)
 - [Erin](https://www.erinmcg.com/)
 - [Kohei Asai](https://axross.dev/)

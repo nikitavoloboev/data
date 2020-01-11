@@ -139,3 +139,4 @@
 - [react-isomorphic-data](https://github.com/jackyef/react-isomorphic-data) - Easily fetch data in your React components, with similar APIs to react-apollo.
 - [klona](https://github.com/lukeed/klona) - Tiny (228B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more.
 - [ScrollMagic](https://github.com/janpaepke/ScrollMagic) - JavaScript library for magical scroll interactions.
+- [GoJS](https://gojs.net/latest/index.html) - JavaScript and TypeScript library for building interactive diagrams and graphs.

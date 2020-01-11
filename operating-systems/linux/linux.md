@@ -67,3 +67,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [ZFS on Linux](https://github.com/zfsonlinux/zfs) - Advanced file system and volume manager which was originally developed for Solaris and is now maintained by the OpenZFS community.
 - [Linux kernel scheduler (2015)](https://helix979.github.io/jkoo/post/os-scheduler/)
 - [Setting up a Linux Workstation for Software Development (2019)](https://tkainrad.dev/posts/setting-up-linux-workstation/)
+- [Boot your custom Kernel: Quick and dirty way (2018)](https://kernel.wtf/boot-your-kernel-with-qemu/)
