@@ -109,4 +109,4 @@
 - [Ask HN: What do top engineers you know do that others don't? (2019)](https://news.ycombinator.com/item?id=21870889)
 - [If you're goal is to learn how to code in 2020, here's a thread of advice for you](https://twitter.com/ASpittel/status/1212372163442958338)
 - [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#readme)
-- [Goodbye, Clean Code (2020)](https://overreacted.io/goodbye-clean-code/)
+- [Goodbye, Clean Code (2020)](https://overreacted.io/goodbye-clean-code/) ([HN](https://news.ycombinator.com/item?id=22022466))

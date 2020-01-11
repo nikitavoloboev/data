@@ -139,6 +139,7 @@
 - [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - Customizable animated gradient loading bar.
 - [Verge](https://github.com/muukii/Verge) - Flux pattern for iOS + Swift (UIKit/SwiftUI).
 - [ExceptionCatcher](https://github.com/sindresorhus/ExceptionCatcher) - Catch Objective-C exceptions in Swift.
+- [Euclid](https://github.com/nicklockwood/Euclid) - Swift library for creating and manipulating 3D geometry.
 
 ## Links
 

@@ -21,3 +21,4 @@
 - [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 - [Python Data Structures and Algorithms](https://github.com/prabhupant/python-ds)
 - [HAMTs from Scratch (2018)](https://vaibhavsagar.com/blog/2018/07/29/hamts-from-scratch/)
+- [JavaScript Data Structures and Algorithms](https://github.com/JoeKarlsson/data-structures)

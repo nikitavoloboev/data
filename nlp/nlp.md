@@ -59,3 +59,4 @@
 - [Introduction to Natural Language Processing book](https://mitpress.mit.edu/books/introduction-natural-language-processing) - Survey of computational methods for understanding, generating, and manipulating human language, which offers a synthesis of classical representations and algorithms with contemporary machine learning techniques.
 - [Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning](https://www.goodreads.com/book/show/34691713-natural-language-processing-with-pytorch)
 - [Tokenizers](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production. ([Article](https://medium.com/dair-ai/hugging-face-introduces-tokenizers-d792482db360))
+- [Example Notebook using BERT for NLP with Keras (2020)](https://twitter.com/random_forests/status/1216125213760532480)

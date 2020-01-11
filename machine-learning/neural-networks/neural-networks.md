@@ -65,3 +65,4 @@
 - [Visualizing the Loss Landscape of Neural Nets](https://github.com/tomgoldstein/loss-landscape)
 - [primitiv](https://github.com/primitiv/primitiv) - Neural Network Toolkit.
 - [On the Relationship between Self-Attention and Convolutional Layers (2019)](https://openreview.net/forum?id=HJlnC1rKPB) ([Code](https://github.com/epfml/attention-cnn))
+- [Implementation of a deep learning library in Futhark](https://futhark-lang.org/student-projects/duc-bsc-thesis.pdf)

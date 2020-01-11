@@ -4,6 +4,10 @@
 
 - [Owl](https://github.com/owlbarn/owl) - OCaml library for scientific and engineering computing. ([HN](https://news.ycombinator.com/item?id=20449595))
 
+## ML
+
+- [zeta](https://github.com/liaopeiyuan/zeta) - Functional neural networks in ocaml. ([HN](https://news.ycombinator.com/item?id=22020287))
+
 ## Bindings
 
 - [Python 3.5+ bindings for OCaml](https://github.com/zshipko/ocaml-py)
