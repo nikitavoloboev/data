@@ -1,5 +1,14 @@
 # [System Design](http://en.wikipedia.org/wiki/Systems_design)
 
+## Notes
+
+- [Systems design interview tips](https://twitter.com/GergelyOrosz/status/1215714698278133761):
+  - 🧐 Verify assumptions (use case, # of users, data storage etc)
+  - 👌Start with a simple architecture
+  - ⏳Identify bottlenecks & verify which ones to address next
+  - 🔄Iterate on the design
+  - 🛠Go down the rabbithole, to specific technologies & how they work
+
 ## Links
 
 - [System Design Primer](https://github.com/donnemartin/system-design-primer#readme) - Learn how to design large-scale systems.

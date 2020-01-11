@@ -20,6 +20,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Pioneer](https://github.com/pioneerspacesim/pioneer) - Game of lonely space adventure.
 - [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine.
 - [AIDungeon2](https://github.com/AIDungeon/AIDungeon) - Infinite adventures await.
+- [VVVVVV](https://github.com/TerryCavanagh/vvvvvv)
 
 ## Recommendations
 
