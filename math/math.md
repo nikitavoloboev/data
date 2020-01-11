@@ -101,3 +101,4 @@
 - [T \* sin (t) ≈ Christmas tree (2013)](https://github.com/anvaka/atree#) ([HN](https://news.ycombinator.com/item?id=21879397))
 - [What was the hardest area of math for you? (2020)](https://www.reddit.com/r/math/comments/ej42ci/what_was_the_hardest_area_of_math_for_you/)
 - [Expository papers by K. Conrad](https://kconrad.math.uconn.edu/blurbs/)
+- [Math for the Layman](http://www.cs.trinity.edu/About/The_Courses/cs301/math-for-the-layman/)

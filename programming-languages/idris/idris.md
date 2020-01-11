@@ -12,3 +12,4 @@
 - [Edwin Brady - Idris 2 - Type-driven Development of Idris (2019)](https://www.youtube.com/watch?v=DRq2NgeFcO0)
 - [Software Foundations in Idris](https://github.com/idris-hackers/software-foundations)
 - [Typedefs](https://github.com/typedefs/typedefs) - Programming language-agnostic, algebraic data type definition language, written in Idris.
+- [Linearity and Erasure in Idris 2 (2020)](https://www.type-driven.org.uk/edwinb/linearity-and-erasure-in-idris-2.html)
