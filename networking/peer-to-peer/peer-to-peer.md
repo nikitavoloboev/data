@@ -21,3 +21,4 @@
 - [Ambients](https://github.com/aphelionz/ambients) - Peer-to-Peer Programs and Data.
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly) - Open source intelligent P2P based image and file distribution system.
 - [Javascript implementation of the Tor (or Tor like) anonymizer project (The Onion Router)](https://github.com/Ayms/node-Tor)
+- [Educating the next generation of the peer-to-peer community](https://accessp2p.xyz/)

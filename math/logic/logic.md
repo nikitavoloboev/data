@@ -14,3 +14,4 @@
 - [Great resources on learning logic](https://www.reddit.com/r/logic/comments/6vra1f/where_do_we_go_from_here/dm36deh/)
 - [Many-valued logic](https://en.wikipedia.org/wiki/Many-valued_logic) ([HN](https://news.ycombinator.com/item?id=20180599))
 - [An Introduction to Non-Classical Logic book](https://www.cambridge.org/ie/academic/subjects/philosophy/philosophy-science/introduction-non-classical-logic-if-2nd-edition?format=PB&isbn=9780521670265)
+- [Data Abstraction and Relational Program Logic (2020)](https://arxiv.org/pdf/1910.14560.pdf)

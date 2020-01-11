@@ -9,3 +9,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [The economics of package management](https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md) ([Lobsters](https://lobste.rs/s/4pyvag/economics_package_management))
 - [Topgrade](https://github.com/r-darwish/topgrade/) - Upgrade everything.
 - [Repology](https://repology.org/) - Monitors a huge number of package repositories and other sources comparing packages versions across them and gathering other information.
+- [Managing Developer Environments with Conda (2020)](https://interrupt.memfault.com/blog/conda-developer-environments)

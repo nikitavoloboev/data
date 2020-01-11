@@ -36,3 +36,4 @@
 - [cljdoc](https://cljdoc.org/) - Central documentation hub for the Clojure community.
 - [SICP Distilled](http://www.sicpdistilled.com/) - Idiosyncratic tour of SICP in Clojure.
 - [The Clojure Mindshare (2019)](https://groundedsage.netlify.com/posts/the-clojure-mindshare/)
+- [Clojure Katas](https://github.com/chefy-io/clojure-katas)

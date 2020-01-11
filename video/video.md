@@ -24,3 +24,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [How To Make A \$300 Camera Look Pro (2019)](https://www.youtube.com/watch?v=0wqUWYx3UrY)
 - [Puffer](https://github.com/StanfordSNR/puffer) - Stanford University research study about using machine learning to improve video-streaming algorithms.
 - [Alfalfa](https://github.com/excamera/alfalfa) - Purely functional video codec, used for ExCamera and Salsify. ([Web](https://snr.stanford.edu/salsify/))
+- [Facebook Open-Sources PySlowFast Codebase for Video Understanding (2020)](https://medium.com/syncedreview/facebook-open-sources-pyslowfast-codebase-for-video-understanding-89200ff35267)
