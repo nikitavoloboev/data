@@ -131,3 +131,4 @@
 - [Actix Web: Optimization Amongst Optimizations (2020)](https://brandur.org/nanoglyphs/008-actix)
 - [Translating Quake 3 into Rust (2020)](https://immunant.com/blog/2020/01/quake3/)
 - [Let The Compiler Do The Work (2020)](http://cliffle.com/p/dangerust/6/) ([HN](https://news.ycombinator.com/item?id=21968391)) ([Reddit](https://www.reddit.com/r/rust/comments/eksduv/let_the_compiler_do_the_work/))
+- [Why Rust? I have a GC! (2020)](https://llogiq.github.io/2020/01/10/rustvsgc.html) ([Reddit](https://www.reddit.com/r/rust/comments/emyill/blog_why_rust_i_have_a_gc/))
