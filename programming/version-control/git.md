@@ -1,6 +1,6 @@
 # Git
 
-I love Git and version control. And I use version control over any project I do. I follow a [series of rules](../focusing/rules.md#git) when dealing with Git.
+I love Git and version control. And I use version control over any project I do. I follow a [series of rules](../../focusing/rules.md#git) when dealing with Git.
 
 ## Notes
 
