@@ -91,7 +91,11 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 
 ## Recommendations
 
+- [Podnami](https://podnami.com/) - Best technology podcast episodes.
+- [Awesome Podcasts](https://github.com/learn-anything/podcasts#readme)
 - [What are your favorite podcasts?](https://www.indiehackers.com/forum/what-are-your-favorite-podcasts-8a45ac25ee)
+- [Ask HN: What were your most impactful podcast episodes from 2019?](https://news.ycombinator.com/item?id=22027315)
+- [Podcasts which are helpful for software engineers/programmers](https://github.com/rShetty/awesome-podcasts#readme)
 
 ## Notes
 
@@ -105,11 +109,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 
 ## Links
 
-- [Awesome Podcasts](https://github.com/learn-anything/podcasts#readme)
-- [Podcasts which are helpful for software engineers/programmers](https://github.com/rShetty/awesome-podcasts#readme)
 - [Best Podcasts Search](https://bestpodcasts.com)
 - [spec.fm](https://spec.fm/) - Level up by listening to podcasts from the best in the industry.
 - [Transistor](https://transistor.fm) - Professional podcast hosting and analytics.
 - [Breaker](https://www.breaker.audio/) - Social podcast app.
-- [Podnami](https://podnami.com/) - Best technology podcast episodes.
-- [Ask HN: What were your most impactful podcast episodes from 2019?](https://news.ycombinator.com/item?id=22027315)
