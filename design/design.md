@@ -54,3 +54,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [What breaking interfaces taught me about building better interfaces - Hakim El Hattab (2019)](https://www.dotconferences.com/2019/12/hakim-el-hattab-what-breaking-interfaces-taught-me-about-building-better-interfaces)
 - [spark-joy](https://github.com/sw-yx/spark-joy) - Easy ways to add design flair, user delight, and whimsy to your product.
 - [All Design Conferences](https://www.alldesignconferences.com/) - Simple list of all design and front-end conferences for the year.
+- [How to apply for a design internship (2018)](https://vanschneider.com/apply-design-internship)

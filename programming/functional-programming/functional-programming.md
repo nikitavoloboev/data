@@ -54,6 +54,7 @@
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon#readme)
 - [A Glossary of Functional Programming](http://degoes.net/articles/fp-glossary)
 - [Functional programming design patterns by Scott Wlaschin (2014)](https://www.youtube.com/watch?v=E8I19uA-wGY)
+- [PhD Abstracts for functional programming (2020)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F66CECFC31BDB7D2790F39DE25426EEA/S0956796819000200a.pdf/phd_abstracts.pdf)
 
 ## Images
 

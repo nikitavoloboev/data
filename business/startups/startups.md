@@ -115,6 +115,7 @@
 - [Good businesses have margin (2020)](https://justinjackson.ca/margin)
 - [Haters (2020)](http://paulgraham.com/fh.html) ([HN](https://news.ycombinator.com/item?id=22018599))
 - [How startups can grow through a combination of optimization and innovation (4 parts)](https://andyjohns.co/part-1-a-single-minded-perspective-on-growth/)
+- [Work Is Work (2020)](https://codahale.com//work-is-work/)
 
 ## Images
 
