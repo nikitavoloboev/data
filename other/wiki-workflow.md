@@ -78,3 +78,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [The sad state of personal data and infrastructure (2019)](https://beepb00p.xyz/sad-infra.html)
 - [What tools do you use to maintain a personal log/journal? (2020)](https://lobste.rs/s/peevtw/what_tools_do_you_use_maintain_personal)
 - [Managing my personal knowledge base (2020)](https://tkainrad.dev/posts/managing-my-personal-knowledge-base/) ([HN](https://news.ycombinator.com/item?id=22000791))
+- [my](https://github.com/karlicoss/my) - Python interface into my life.

@@ -42,3 +42,4 @@
 - [Deploy Gatsby site with Zeit](https://zeit.co/solutions/gatsby)
 - [The End of an Era: Migrating from WordPress to Gatsby (2019)](https://www.taniarascia.com/migrating-from-wordpress-to-gatsby/)
 - [Building your own blog with Gatsby and Novela (2020)](https://www.narative.co/articles/building-your-own-blog-with-gatsby-and-novela)
+- [Start creating your own Gatsby plugins (2020)](https://dev.to/notrab/start-creating-your-own-gatsby-plugins-jc0)
