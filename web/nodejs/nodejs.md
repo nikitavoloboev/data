@@ -49,3 +49,4 @@
 - [pre-bundled](https://github.com/Raynos/pre-bundled) - Tool that pre bundles and re publishes npm dependencies.
 - [oclif](https://github.com/oclif/oclif) - Framework for building CLIs in Node.js
 - [Postgres.js](https://github.com/porsager/postgres) - Fastest full featured PostgreSQL client for Node.js
+- [Snowpack](https://github.com/pikapkg/snowpack) - Run npm packages directly in the browser. No Webpack, Parcel, or bundlers required.
