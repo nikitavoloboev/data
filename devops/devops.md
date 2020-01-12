@@ -8,3 +8,4 @@
 - [Applikatoni](https://github.com/applikatoni/applikatoni) - Self-hosted deployment server for your team.
 - [Lobsters: What’s your container-less deployment process? (2019)](https://lobste.rs/s/xov7nz/what_s_your_container_less_deployment)
 - [A developer goes to a DevOps conference (2019)](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/) ([HN](https://news.ycombinator.com/item?id=21100970))
+- [Deploy your side-projects at scale for basically nothing - Google Cloud Run (2020)](https://alexolivier.me/posts/deploy-container-stateless-cheap-google-cloud-run-serverless) ([HN](https://news.ycombinator.com/item?id=22027459))
