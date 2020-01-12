@@ -60,3 +60,5 @@
 - [Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning](https://www.goodreads.com/book/show/34691713-natural-language-processing-with-pytorch)
 - [Tokenizers](https://github.com/huggingface/tokenizers) - Fast State-of-the-Art Tokenizers optimized for Research and Production. ([Article](https://medium.com/dair-ai/hugging-face-introduces-tokenizers-d792482db360))
 - [Example Notebook using BERT for NLP with Keras (2020)](https://twitter.com/random_forests/status/1216125213760532480)
+- [NLP 2019/2020 Highlights](https://github.com/omarsar/nlp_highlights)
+- [Overview of Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview)

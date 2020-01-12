@@ -27,3 +27,4 @@
 - [A Graduate Course in Applied Cryptography (2020)](https://toc.cryptobook.us/) ([HN](https://news.ycombinator.com/item?id=22013751))
 - [BLAKE3 (in Rust)](https://github.com/BLAKE3-team/BLAKE3) - Cryptographic hash function.
 - [BLAKE3 (rewrite in Go)](https://github.com/lukechampine/blake3)
+- [BLAKE3 reference specification](https://github.com/BLAKE3-team/BLAKE3-specs)

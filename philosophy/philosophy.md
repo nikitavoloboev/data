@@ -20,3 +20,4 @@ In any way, it is an interesting subject I don't know much about.
 - [The Philosophy of Rick and Morty](https://www.youtube.com/watch?v=hWFDHynfl1E)
 - [Nietzsche uses Perl comic](https://existentialcomics.com/comic/86)
 - [Existential comics](http://existentialcomics.com/)
+- [Who are some other philosophers/speakers I should look into if I admire Alan Watts? (2020)](https://www.reddit.com/r/AlanWatts/comments/ei9np5/who_are_some_other_philosophersspeakers_i_should/)

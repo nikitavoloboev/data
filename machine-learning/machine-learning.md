@@ -171,3 +171,4 @@
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.goodreads.com/book/show/40363665-hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow)
 - [Topological Techniques for Unsupervised Learning (2019)](https://www.youtube.com/watch?v=7pAVPjwBppo)
 - [Meet AdaMod: a new deep learning optimizer with memory (2020)](https://medium.com/@lessw/meet-adamod-a-new-deep-learning-optimizer-with-memory-f01e831b80bd)
+- [Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8)

@@ -6,3 +6,4 @@
 - [Orz](https://github.com/richox/orz) - General purpose data compressor written in rust.
 - [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - New Generation Entropy coders.
 - [Snappy](https://github.com/google/snappy) - Fast compressor/decompressor.
+- [UPX](https://github.com/upx/upx) - Advanced executable file compressor.
