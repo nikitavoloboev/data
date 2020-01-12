@@ -78,6 +78,7 @@ And these Discord servers:
 - [Atlas Obscura](https://www.atlasobscura.com/)
 - [Hackaday](https://hackaday.com/)
 - [Stratechery](https://stratechery.com/)
+- [Nature](https://www.nature.com/)
 
 ## Notes
 

@@ -9,6 +9,7 @@
 - [The Brain That Changes Itself book](https://www.goodreads.com/book/show/570172.The_Brain_That_Changes_Itself)
 - [Brain Map](https://portal.brain-map.org/) - Accelerating progress toward understanding the brain.
 - [Could a neuroscientist understand a microprocessor? (2017)](http://ericmjonas.github.io/neuroproc/)
+- [Leonardo Da Vinci and the Brain](http://www.davinciandthebrain.org/)
 
 ## Images
 
