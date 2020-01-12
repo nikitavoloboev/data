@@ -20,6 +20,10 @@
 
 - [instagram-scaper](https://github.com/realsirjoe/instagram-scraper) - Scrapes medias, likes, followers, tags and all metadata.
 
+## CLI
+
+- [Python Fire](https://github.com/google/python-fire) - Library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+
 ## DB
 
 - [psycopg2](https://github.com/psycopg/psycopg2) - Python-PostgreSQL Database Adapter.

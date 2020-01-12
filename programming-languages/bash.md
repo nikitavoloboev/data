@@ -20,3 +20,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Bash Guide](http://mywiki.wooledge.org/BashGuide)
 - [How To Automate Basic Development Tasks with Bash](https://jmulholland.com/how-to-automate-basic-development-tasks-with-bash)
 - [Mini Gitbook for a presentation about BASH](https://erkanerol.github.io/bash-lingua-non-grata/#/) ([Code](https://github.com/erkanerol/bash-lingua-non-grata))
+- [Bash $* and $@ (2017)](https://eklitzke.org/bash-$%2A-and-$@) ([HN](https://news.ycombinator.com/item?id=22027809))

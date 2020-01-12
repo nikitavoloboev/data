@@ -267,6 +267,7 @@
   - [Tcl](programming-languages/tcl.md)
   - [Smalltalk](programming-languages/smalltalk.md)
   - [Standard ML](programming-languages/standard-ml.md)
+  - [Unison](programming-languages/unison.md)
   - [Language Server Protocol](programming-languages/language-server-protocol.md)
 - [Data Science](data-science/data-science.md)
   - [Data Visualization](data-science/data-visualization.md)

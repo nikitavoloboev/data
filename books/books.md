@@ -142,6 +142,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Books read in 2019 by arshia](https://twitter.com/arshia__/status/1081676410123513858)
 - [85 Best Business Books in 2020 for Entrepreneurs, Creatives & Professionals to Read (and Grow) (2020)](https://www.ryrob.com/best-business-books/)
 - [Naval’s Recommended Reading](https://www.navalmanack.com/navals-recommended-reading)
+- [Toby Shorin's Library](https://www.are.na/toby-shorin/toby-s-library)
 
 ## Notes
 

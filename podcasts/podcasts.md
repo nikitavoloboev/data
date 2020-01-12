@@ -113,3 +113,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [spec.fm](https://spec.fm/) - Level up by listening to podcasts from the best in the industry.
 - [Transistor](https://transistor.fm) - Professional podcast hosting and analytics.
 - [Breaker](https://www.breaker.audio/) - Social podcast app.
+- [Podcast Notes](https://podcastnotes.org/)

@@ -75,6 +75,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Ivan Aivazovsky](https://www.wikiart.org/en/ivan-aivazovsky)
 - [Reuben Wu](https://www.instagram.com/itsreuben/)
 - [6vcr](http://6vcr.com/portfolio)
+- [Liam Cobb](https://liamcobb.tumblr.com/)
 
 ## Interesting art
 
@@ -98,6 +99,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [70s Sci-Fi Art](https://70sscifiart.tumblr.com/)
 - [Ionel-Cosmonaut (1973)](http://dreamsofspace.blogspot.com/2019/11/ionel-cosmonaut-1973.html)
 - [Images of 100,000 Artworks From Paris Museum Collections Now Freely Available to the Public](https://hyperallergic.com/536360/images-of-100000-artworks-from-paris-museum-collections-now-freely-available-to-the-public/)
+- [Death of Crow](https://liamcobb.tumblr.com/post/84128563168/death-of-a-crow)
 
 ## Photography
 

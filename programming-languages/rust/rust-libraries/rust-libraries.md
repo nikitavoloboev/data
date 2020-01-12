@@ -28,10 +28,11 @@
 - [Watt](https://github.com/dtolnay/watt) - Runtime for executing Rust procedural macros compiled as WebAssembly.
 - [Draco](https://github.com/utkarshkukreti/draco) - Rust library to build client side web applications with Web Assembly.
 
-## ORM
+## DB
 
 - [SQLx](https://github.com/launchbadge/sqlx) - Rust SQL Toolkit.
 - [Diesel](https://github.com/diesel-rs/diesel) - Safe, extensible ORM and Query Builder.
+- [postgres-query](https://github.com/nolanderc/rust-postgres-query) - Write and execute SQL queries with ease.
 
 ## Graphics
 
