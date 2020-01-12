@@ -22,3 +22,4 @@ Here are tools I use for streaming:
 - [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams#readme)
 - [Streamlabs](https://streamlabs.com/)
 - [Streamlabs OBS](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.
+- [Live Streaming Server Setup (2020)](https://christine.website/blog/rtmp-server-setup-2020-01-11)
