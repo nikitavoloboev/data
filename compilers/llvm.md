@@ -21,3 +21,4 @@
 - [Quala](https://github.com/sampsyo/quala) - Type Qualifiers for LLVM/Clang.
 - [haybale](https://github.com/PLSysSec/haybale) - Symbolic execution of LLVM IR, written in Rust.
 - [2019 EuroLLVM Developers’ Meeting: V. Bridgers & F. Piovezan “LLVM IR Tutorial - Phis, GEPs ...”](https://www.youtube.com/watch?v=m8G_S5LwlTo)
+- [Beyond debug information: Improving program reconstruction in LLDB using C++ modules (2019)](https://odr.chalmers.se/handle/20.500.12380/300037)

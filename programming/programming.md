@@ -24,6 +24,7 @@
 - Every single feature makes product more complex, makes testing more complex, puts constraints on UI design etc. Controlling feature creep (also by revisiting old features) is very important to keep project healthy. Larger the project, more important it is.
 - [“Simplicity” often just means that a concept fits cleanly in the maker’s head at a particular point in time. How many times have I returned to a project I thought was simple only to find I had burdened it with spooky magic because I didn’t benefit from critical distance at the time? When was the last time I deemed another person’s work “too complex” because I couldn’t understand it in one sitting and wasn’t aware of the constraints they were operating under? Answers: too often and too recently.](https://lobste.rs/s/qgbkwm/on_simplicity)
 - If we take a look at any given line of code in a method, we can nearly always categorize it as serving one of the following roles: 1. Collecting input. 2. Performing work. 3. Delivering output. 4. Handling failures.
+- [Code duplication is far cheaper than the wrong abstraction. When the abstraction is wrong, the fastest way forward is back.](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 
 ## Links
 
@@ -110,3 +111,4 @@
 - [If you're goal is to learn how to code in 2020, here's a thread of advice for you](https://twitter.com/ASpittel/status/1212372163442958338)
 - [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#readme)
 - [Goodbye, Clean Code (2020)](https://overreacted.io/goodbye-clean-code/) ([HN](https://news.ycombinator.com/item?id=22022466))
+- [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
