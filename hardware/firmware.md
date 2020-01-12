@@ -6,3 +6,4 @@
 - [flashrom](https://github.com/flashrom/flashrom) - Utility for detecting, reading, writing, verifying and erasing
   flash chips.
 - [UEFITool](https://github.com/LongSoft/UEFITool) - Cross-platform C++/Qt program for parsing, extracting and modifying UEFI firmware images.
+- [Open-source Firmware (2019)](https://queue.acm.org/detail.cfm?id=3349301)

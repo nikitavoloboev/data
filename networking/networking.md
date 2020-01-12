@@ -62,3 +62,6 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Inter-Networking (2019)](https://technicshistory.com/2019/12/30/inter-networking/)
 - [Network Programming Initiative](https://network-programming.org/) - Supports research on languages, algorithms, and tools for network programming.
 - [Lobsters: Optimizing home network performance (2020)](https://lobste.rs/s/fjkjum/optimizing_home_network_performance)
+- [fbtracert](https://github.com/facebook/fbtracert) - Identify the network components that drops packets by employing the traceroute logic which explores multiple parallel paths.
+- [Bandwidth Performance Monitoring with Iperf](https://github.com/nerdalert/cloud-bandwidth)
+- [ToDD](https://github.com/toddproject/todd) - Distributed Network-Service-Level Assertion Engine.

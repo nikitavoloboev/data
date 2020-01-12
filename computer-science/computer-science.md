@@ -25,3 +25,4 @@
 - [Computer Science for The Busy Developer](https://learn.codexpanse.com/courses/computer-science-for-the-busy-developer) - High speed overview of fundamental areas and concepts of computer science.
 - [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
 - [Computer Science Resources](https://github.com/the-akira/Computer-Science-Resources#readme)
+- [Our Thoughts on P=NP (2020)](https://rjlipton.wordpress.com/2020/01/12/our-thoughts-on-pnp/)
