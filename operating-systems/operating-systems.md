@@ -15,6 +15,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Resea](https://github.com/seiyanuta/resea) - Pure microkernel-based hackable operating system written from scratch in C and Rust.
 - [Rux](https://github.com/sorpaas/rux) - Hobbyist microkernel written in Rust, featuring a capability-based system similar to seL4.
 - [redshirt](https://github.com/tomaka/redshirt) - Experiment to build some kind of operating-system-like environment where executables are all in WASM and are loaded from an IPFS-like decentralized network.
+- [Spectrum](https://spectrum-os.org/) - Step towards usable secure computing.
 
 ## Links
 
