@@ -64,6 +64,6 @@
 - [Single Headed Attention RNN: Stop Thinking With Your Head (2019)](https://arxiv.org/abs/1911.11423) ([HN](https://news.ycombinator.com/item?id=21647804))
 - [Visualizing the Loss Landscape of Neural Nets](https://github.com/tomgoldstein/loss-landscape)
 - [primitiv](https://github.com/primitiv/primitiv) - Neural Network Toolkit.
-- [On the Relationship between Self-Attention and Convolutional Layers (2019)](https://openreview.net/forum?id=HJlnC1rKPB) ([Code](https://github.com/epfml/attention-cnn))
+- [On the Relationship between Self-Attention and Convolutional Layers (2019)](https://openreview.net/forum?id=HJlnC1rKPB) ([Code](https://github.com/epfml/attention-cnn)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/en2ywu/r_on_the_relationship_between_selfattention_and/))
 - [Implementation of a deep learning library in Futhark](https://futhark-lang.org/student-projects/duc-bsc-thesis.pdf)
 - [Single Headed Attention RNN: Stop Thinking With Your Head (2019)](https://arxiv.org/abs/1911.11423)

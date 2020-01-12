@@ -22,3 +22,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Coursedog](https://www.coursedog.com/) - All-in-One Schedule and Curriculum Planning.
 - [On Graduating or: What to Optimize For (2019)](https://benjamincongdon.me/blog/2019/05/22/On-Graduating-or-What-to-Optimize-For/)
 - [The Lesson to Unlearn (2019)](http://paulgraham.com/lesson.html) ([HN](https://news.ycombinator.com/item?id=21729619))
+- [Broken beyond bias: high-stakes tests are failing students and society (2020)](https://reading.supply/@nick/broken-beyond-bias-high-stakes-tests-are-failing-students-and-society-Q99wvf) ([Tweet](https://twitter.com/nsbarr/status/1214634480935174145))
