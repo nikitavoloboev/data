@@ -25,3 +25,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [How to write a forwardable introduction email](https://alexiskold.net/2015/06/24/how-to-write-a-forwardable-introduction-email/)
 - [BEE Free](https://beefree.io/) - Easiest, quickest way to design elegant, mobile responsive emails.
 - [S3 Email](https://github.com/0x4447/0x4447_product_s3_email) - Serverless email server on AWS using S3 and SES.
+- [ConvertKit](https://convertkit.com/) - Email marketing software for creators.
