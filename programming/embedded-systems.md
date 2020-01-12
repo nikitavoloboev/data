@@ -17,3 +17,4 @@
 - [Bare-metal and Operating System development tutorials in Rust on the Raspberry Pi 3](https://github.com/rust-embedded/rust-raspi3-OS-tutorials)
 - [Embedded Rust Book](https://rust-embedded.github.io/book/intro/index.html) - Introductory book about using the Rust Programming Language on "Bare Metal" embedded systems, such as Microcontrollers.
 - [mJS: Embedded JavaScript engine for C/C++](https://github.com/cesanta/mjs) - Designed for microcontrollers with limited resources.
+- [smoltcp](https://github.com/m-labs/smoltcp) - Standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems.

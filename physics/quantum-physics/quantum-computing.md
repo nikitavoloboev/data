@@ -24,3 +24,4 @@
 - [Quantum computing for the very curious](https://quantum.country/qcvc)
 - [Qiskit](https://qiskit.org/) - Open-source quantum computing software development framework for leveraging today's quantum processors in research, education, and business.
 - [Quantum Computation and Quantum Information by Nielsen and Chuang](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
+- [ARTIQ](https://github.com/m-labs/artiq) - Leading-edge control system for quantum information experiments.

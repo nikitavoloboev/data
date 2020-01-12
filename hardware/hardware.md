@@ -16,3 +16,5 @@
 - [Adventures in reinventing interfaces / Suz Hinton (2019)](https://www.youtube.com/watch?v=AAFIJaxuHeg&list=PLXmT1r4krsTrR6khetJSVQqulyFbxmZNG)
 - [Learning hardware programming as a software engineer (2019)](https://blog.athrunen.dev/learning-hardware-programming-as-a-software-engineer/) ([HN](https://news.ycombinator.com/item?id=21878263))
 - [My Business Card Runs Linux (2019)](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/) ([HN](https://news.ycombinator.com/item?id=21871026))
+- [nMigen](https://github.com/m-labs/nmigen) - Refreshed Python toolbox for building complex digital hardware.
+- [Glasgow Debug Tool](https://github.com/GlasgowEmbedded/glasgow) - Tool for exploring digital interfaces.
