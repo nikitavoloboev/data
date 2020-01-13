@@ -63,3 +63,4 @@
 - [Easily Extendable Basic Deep Metric Learning Pipeline](https://github.com/Confusezius/Deep-Metric-Learning-Baselines)
 - [TTAch](https://github.com/qubvel/ttach) - Image Test Time Augmentation with PyTorch.
 - [Hyperspherical Variational Auto-Encoders in PyTorch](https://github.com/nicola-decao/s-vae-pytorch)
+- [Hyperbolic Graph Convolutional Networks in PyTorch](https://github.com/HazyResearch/hgcn)
