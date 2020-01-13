@@ -74,6 +74,7 @@
 - [Effective Typescript notes](https://github.com/jsjoeio/effective-typescript-notes#readme)
 - [TypeScript for Beginner Programmers](https://github.com/chibicode/TypeScript-for-Beginner-Programmers)
 - [TSConf Videos](https://tsconf.io/videos.html)
+- [gts](https://github.com/google/gts) - TypeScript style guide, formatter, and linter by Google.
 
 ## Images
 

@@ -10,6 +10,11 @@
 - [Brain Map](https://portal.brain-map.org/) - Accelerating progress toward understanding the brain.
 - [Could a neuroscientist understand a microprocessor? (2017)](http://ericmjonas.github.io/neuroproc/)
 - [Leonardo Da Vinci and the Brain](http://www.davinciandthebrain.org/)
+- [Fundamentals of Neuroscience course by Harvard](https://www.mcb80x.org/)
+- [Synapses, Neurons and Brains course](https://www.coursera.org/learn/synapses)
+- [Computational Neuroscience course](https://www.coursera.org/learn/computational-neuroscience)
+- [Neuroscience: Exploring the Brain](https://www.goodreads.com/book/show/170011.Neuroscience)
+- [Where can I study neuroscience on my own? (2020)](https://www.reddit.com/r/neuroscience/comments/efi61j/where_can_i_study_neuroscience_on_my_own/)
 
 ## Images
 
