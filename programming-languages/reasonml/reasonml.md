@@ -46,3 +46,4 @@
 - [Ricky Vetter - Why React is just better in Reason (2019)](https://www.youtube.com/watch?v=i9Kr9wuz24g)
 - [Hongbo Zhang - Building a High Performance JavaScript Compiler (2019)](https://www.youtube.com/watch?v=iWEQjvGGiTA)
 - [Spin](https://github.com/tmattio/spin) - Project scaffolding tool and set of templates for Reason and OCaml.
+- [Fullstack Reason Demo](https://github.com/yawaramin/fullstack-reason) - Demo project that shows a fullstack ReasonML/OCaml app–native binary + webapp.
