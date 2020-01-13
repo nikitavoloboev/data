@@ -36,3 +36,4 @@
 - [Laying the Foundations](https://designsystemfoundations.com/) - Book about design systems.
 - [Designing with React - Mark Dalgleish (2019)](https://www.youtube.com/watch?v=orPcyJMJh7Y)
 - [Design Systems Design System - Siddharth Kshetrapal (2019)](https://www.youtube.com/watch?v=gLE6lQU_mEU)
+- [Karri Saarinen - Scaling design with systems (2017)](https://www.youtube.com/watch?v=TuLY1cYM57g)

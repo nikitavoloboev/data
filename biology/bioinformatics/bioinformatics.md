@@ -18,3 +18,4 @@
 - [GuacaMol](https://github.com/BenevolentAI/guacamol) - Benchmarks for generative chemistry.
 - [Single-cell RNA-seq pseudotime estimation algorithms](https://github.com/agitter/single-cell-pseudotime)
 - [Allen Institute for Brain Science Toolkit](https://portal.brain-map.org/explore/toolkit)
+- [Computer-Designed Organisms](https://cdorgs.github.io/) - Scalable pipeline for creating functional novel lifeforms.

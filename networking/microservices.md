@@ -22,3 +22,4 @@
 - [Building Microservices with Go (2020)](https://www.youtube.com/watch?v=VzBGi_n65iU)
 - [Micro-services (2020)](http://funcall.blogspot.com/2020/01/micro-services.html)
 - [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering#readme)
+- [Microservice background jobs in Go (2020)](https://scene-si.org/2020/01/13/microservice-background-jobs/)

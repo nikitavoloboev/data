@@ -6,6 +6,7 @@ I love software and non software tools that help me in some way. Most tools I us
 
 - [Loom](https://www.loom.com/) - Most effective way to get your message across, no matter where you work.
 - [Ryeboard](https://www.ryeboard.com/) - Ultimate visual workspace.
+- [Navigator](https://navigator.com/) - Makes meetings feel like the best part of work: focused, purposeful and energizing.
 - [Astuto](https://github.com/riggraz/astuto) - Free, open source, self-hosted customer feedback tool.
 - [Pulumi](https://www.pulumi.com/) - Declare cloud infrastructure using real languages.
 - [Shapecatcher](https://shapecatcher.com/) - Helps you find most similar unicode characters.
@@ -178,6 +179,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [glog](https://github.com/google/glog) - C++ implementation of the Google logging module.
 - [Sandy](https://github.com/hobochild/sandy) - Tiny sandbox to run untrusted code.
 - [NoCodeAPI](https://nocodeapi.com/) - Build Third Party Applications APIs with NoCode.
+- [Check Title Length](https://romashamin.github.io/check-title-length/) - Little app that shows how your message’s title and body look in web push and mobile mail list. ([Code](https://github.com/romashamin/check-title-length/))
 
 ## Notes
 

@@ -85,3 +85,4 @@
 - [Why databases use ordered indexes but programming uses hash tables (2019)](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
 - [Samuel Madden professor research page](http://db.csail.mit.edu/madden/)
 - [Curated list of resources for graph databases and graph computing tools](https://github.com/jbmusso/awesome-graph#readme)
+- [Graph Databases book](https://pdfs.semanticscholar.org/f511/7084ca43e888fb3e17ab0f0e684cced0f8fd.pdf)

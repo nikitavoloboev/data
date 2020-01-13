@@ -68,3 +68,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [Linux kernel scheduler (2015)](https://helix979.github.io/jkoo/post/os-scheduler/)
 - [Setting up a Linux Workstation for Software Development (2019)](https://tkainrad.dev/posts/setting-up-linux-workstation/)
 - [Boot your custom Kernel: Quick and dirty way (2018)](https://kernel.wtf/boot-your-kernel-with-qemu/)
+- [IBus](https://github.com/ibus/ibus) - Intelligent Input Bus for Linux/Unix.

@@ -53,3 +53,4 @@
 - [plow](https://github.com/andywer/plow) - Postgres migrations and seeding made easy.
 - [New Plan](https://explain.dalibo.com/) - Analyze, visualize and share Postgres Query Plans.
 - [New Explain](https://explain.depesz.com/) - PostgreSQL's explain analyze made readable.
+- [postgresql.conf](https://postgresqlco.nf/en/doc/param/) - Postgres configuration reference. Helps tune and optimize PostgreSQL configuration.

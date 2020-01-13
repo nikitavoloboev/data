@@ -62,3 +62,4 @@
 - [Example Notebook using BERT for NLP with Keras (2020)](https://twitter.com/random_forests/status/1216125213760532480)
 - [NLP 2019/2020 Highlights](https://github.com/omarsar/nlp_highlights)
 - [Overview of Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview)
+- [Online speech recognition with wav2letter@anywhere (2020)](https://ai.facebook.com/blog/online-speech-recognition-with-wav2letteranywhere/)

@@ -15,3 +15,4 @@
 - [You Don't Need](https://github.com/you-dont-need/You-Dont-Need.com) - People choose popular projects, often not because it applies to their problems.
 - [Treo](https://treo.sh/sites) - Real user monitoring with zero-setup.
 - [Front-End Performance Checklist (2020)](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
+- [Perf Tooling](https://github.com/stefanjudis/perf-tooling) - List of performance analysis, monitoring and optimization tools.

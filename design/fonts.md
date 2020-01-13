@@ -28,3 +28,5 @@ And I keep the default San Francisco Apple's font for all everything else.
 - [Fabrizio Schiavi](https://www.fsd.it/) - Multidisciplinary designer with skill in typography.
 - [Rubrication Design Examples](https://www.gwern.net/Red)
 - [Google Web Fonts Helper](https://google-webfonts-helper.herokuapp.com/fonts) - Hassle-Free Way to Self-Host Google Fonts. ([Code](https://github.com/majodev/google-webfonts-helper))
+- [50 free handwriting fonts (2020)](https://blog.usepastel.com/post/50-free-handwriting-fonts)
+- [Crafting the Airbnb Cereal Typeface (2018)](https://karrisaarinen.com/posts/developing-airbnb-cereal/)

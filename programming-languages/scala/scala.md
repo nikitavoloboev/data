@@ -27,3 +27,4 @@
 - [Slinky](https://slinky.dev/) - Write React apps in Scala just like you would in ES6.
 - [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala/)
 - [rsc](https://github.com/twitter/rsc) - Experimental Scala compiler focused on compilation speed.
+- [Functional Scala - Modern Data Driven Applications with ZIO Streams by Itamar Ravid (2019)](https://www.youtube.com/watch?v=bbss7elSfxs)

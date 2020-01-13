@@ -15,3 +15,4 @@
 - [Interiors by Shanghai Hip-pop Architectural Decoration Design Co](http://www.hippop-sh.cn/)
 - [Designing for people: How research and design can help us create smarter cities (2020)](https://marisamorby.com/designing-cities-for-people)
 - [Charter Cities Reading List](https://www.chartercitiesinstitute.org/reading)
+- [TWA hotel designed by Eero Saarinen](https://twitter.com/karrisaarinen/status/1216773664823300097)
