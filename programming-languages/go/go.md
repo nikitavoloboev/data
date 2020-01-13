@@ -150,3 +150,4 @@ Go promotes composition over inheritance.
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [A theory of modern Go (2017)](https://peter.bourgon.org/blog/2017/06/09/theory-of-modern-go.html)
 - [Golang IO Cookbook](https://github.com/jesseduffield/notes/wiki/Golang-IO-Cookbook)
+- [cob](https://github.com/knqyf263/cob) - Continuous Benchmark for Go Project.

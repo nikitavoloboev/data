@@ -4,6 +4,10 @@ I want to share my journey in life both for myself and other people who might fi
 
 I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) and [Instagram](https://instagram.com/nikitavoloboev).
 
+## 2020
+
+- [January](2020/2020-january.md)
+
 ## [2019](2019/2019.md)
 
 - [January](2019/2019-january.md) - First month at Enpicom, building a platform for personalized immunotherapies.

@@ -9,3 +9,4 @@
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Ultra relevant, instant and typo-tolerant full-text search API. ([Web](https://www.meilisearch.com/))
 - [The Joy of Search](https://mitpress.mit.edu/books/joy-search) - Google Insider's Guide to Going Beyond the Basics.
 - [searX](https://searx.me/) - Metasearch engine, aggregating the results of other search engines while not storing information about its users.
+- [DarkDarkGo](https://github.com/Bennington-Distributed-Systems-2017/DarkDarkGo) - Modeled Google and Bing to build a distributed search engine for the dark web.

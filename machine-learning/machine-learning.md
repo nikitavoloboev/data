@@ -174,3 +174,4 @@
 - [Deep Learning State of the Art (2020)](https://www.youtube.com/watch?v=0VH1Lim8gL8)
 - [The Case for Bayesian Deep Learning (2020)](https://cims.nyu.edu/~andrewgw/caseforbdl/) ([HN](https://news.ycombinator.com/item?id=22023490)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/eng1gl/the_case_for_bayesian_deep_learning/))
 - [Machine Learning Summer School videos (2009)](http://videolectures.net/mlss09uk_cambridge/)
+- [Turi Create](https://github.com/apple/turicreate) - Simplifies the development of custom machine learning models.

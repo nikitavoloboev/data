@@ -95,3 +95,4 @@
 - [CSShake](https://github.com/elrumordelaluz/csshake) - CSS classes to move your DOM.
 - [JSS](https://github.com/cssinjs/jss) - Authoring tool for CSS which uses JavaScript as a host language.
 - [List of 300+ CSS properties](https://www.web4college.com/css-play/index.php)
+- [Magical Rainbow Gradients with CSS Houdini and React Hooks (2020)](https://www.joshwcomeau.com/posts/rainbow-button/)

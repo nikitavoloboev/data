@@ -79,3 +79,5 @@ I love Git and version control. And I use version control over any project I do.
 - [Stacked Diffs Versus Pull Requests (2018)](https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/)
 - [Barebones git (2019)](https://artemix.org/blog/barebones-git.html) ([Lobsters](https://lobste.rs/s/7khgtp/barebones_git))
 - [git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time.
+- [Git power tools for daily use (2018)](https://nvie.com/posts/git-power-tools/)
+- [git-toolbelt](https://github.com/nvie/git-toolbelt) - Suite of useful Git commands that aid with scripting or every day command line usage.

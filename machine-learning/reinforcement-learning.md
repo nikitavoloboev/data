@@ -38,3 +38,5 @@
 - [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)
 - [TorchBeast](https://github.com/facebookresearch/torchbeast) - PyTorch Platform for Distributed RL.
 - [The Promise of Hierarchical Reinforcement Learning (2019)](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)
+- [rlpyt](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch.
+- [Accelerated Methods for Deep Reinforcement Learning](https://github.com/astooke/accel_rl)
