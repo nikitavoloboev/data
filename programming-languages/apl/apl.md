@@ -10,3 +10,4 @@
 - [Beating C with Dyalog APL: wc](https://ummaycoc.github.io/wc.apl/)
 - [APL and J (2015)](https://crypto.stanford.edu/~blynn/c/apl.html) ([HN](https://news.ycombinator.com/item?id=21792763))
 - [Kenneth E. Iverson: An Autobiographical Essay (2004)](http://archive.vector.org.uk/trad/v234/iverson.pdf) ([HN](https://news.ycombinator.com/item?id=21855821))
+- [Functional Programming in Joy and K (2005)](http://archive.vector.org.uk/art10000360)

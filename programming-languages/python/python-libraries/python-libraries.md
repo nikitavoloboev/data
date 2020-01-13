@@ -73,3 +73,5 @@
 - [Adaptive](https://github.com/python-adaptive/adaptive) - Parallel active learning of mathematical functions.
 - [Cachew](https://github.com/karlicoss/cachew) - Persistent cache/serialization powered by type hints.
 - [rq](https://github.com/rq/rq) - Simple job queues for Python.
+- [ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
+- [CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - Python package for handling messy CSV files.
