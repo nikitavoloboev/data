@@ -12,6 +12,7 @@
 - [Sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API.
 - [Cloudflare](https://github.com/cloudflare/cloudflare-rs) - Rust library for the Cloudflare v4 API.
 - [Notion](https://github.com/cstrnt/notion-api) - Unofficial Notion.so Wrapper.
+- [Google Cloud](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python.
 
 ## Links
 
