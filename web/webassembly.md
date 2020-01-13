@@ -57,3 +57,4 @@
 - [WASM Metal](https://github.com/lastmjs/wasm-metal) - Bare metal physical implementation of WebAssembly. That's right, a WebAssembly CPU.
 - [JSC.js](https://github.com/mbbill/JSC.js) - JavaScriptCore on WebAssembly.
 - [WebAssembly Beyond the Browser • Dan Callahan (2020)](https://www.youtube.com/watch?v=TGo3vJVTlyQ)
+- [Debugging Through WebAssembly Is Impossible (2020)](https://erikmcclure.com/blog/debugging-through-webassembly-is-impossible/) ([Lobsters](https://lobste.rs/s/lkftpa/debugging_through_webassembly_is))
