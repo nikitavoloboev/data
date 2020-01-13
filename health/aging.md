@@ -26,3 +26,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Celine Halioua's blog on longevity](https://medium.com/@celinehh)
 - [What is the cause of aging in your opinion? (2019)](https://www.reddit.com/r/longevity/comments/e3gh09/what_is_the_cause_of_aging_in_your_opinion/)
 - [Three New Longevity Startups (2020)](https://www.leafscience.org/three-groundbreaking-longevity-startups/) ([HN](https://news.ycombinator.com/item?id=22008159))
+- [Healthy habits add up to 10 disease-free years to your life, study reveals (2020)](https://www.nhs.uk/news/lifestyle-and-exercise/healthy-habits-add-10-disease-free-years-your-life-study-reveals/) ([HN](https://news.ycombinator.com/item?id=22037516))
