@@ -54,3 +54,4 @@ I use a [Trello board](https://trello.com/b/w58QRfB0) to keep track of companies
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards#readme) - List of companies (or teams) that don't do "whiteboard" interviews.
 - [Placement](https://placement.com/) - Get a great job in a new city.
 - [Tell HN: I used to be homeless and want to work as a software developer (2019)](https://news.ycombinator.com/item?id=21880179)
+- [Thoughts on Recruiting (2019)](https://markmcgranaghan.com/recruiting)

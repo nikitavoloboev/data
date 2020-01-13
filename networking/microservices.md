@@ -21,3 +21,4 @@
 - [Go: Dependency injection with Wire (2019)](https://scene-si.org/2019/12/11/dependency-injection-with-wire/)
 - [Building Microservices with Go (2020)](https://www.youtube.com/watch?v=VzBGi_n65iU)
 - [Micro-services (2020)](http://funcall.blogspot.com/2020/01/micro-services.html)
+- [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering#readme)

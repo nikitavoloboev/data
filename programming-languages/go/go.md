@@ -142,7 +142,7 @@ Go promotes composition over inheritance.
 - [Chime](https://www.chimehq.com/) - Go editor for macOS. ([HN](https://news.ycombinator.com/item?id=21963708))
 - [Go Things I Love: Channels and Goroutines (2020)](https://www.justindfuller.com/2020/01/go-things-i-love-channels-and-goroutines/) ([HN](https://news.ycombinator.com/item?id=21968939))
 - [go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules.
-- [Go by Example](https://gobyexample.com/) - Hands-on introduction to Go using annotated example programs.
+- [Go by Example](https://gobyexample.com/) - Hands-on introduction to Go using annotated example programs. ([Code](https://github.com/mmcgrana/gobyexample))
 - [A Chapter in the Life of Go’s Compiler (2020)](https://medium.com/samsara-engineering/a-chapter-in-the-life-of-gos-compiler-c89b9db74617)
 - [JWT Authorization in Golang (2019)](https://www.cloudjourney.io/articles/security/jwt_in_golang-su/)
 - [govalidate](https://github.com/rakyll/govalidate) - Validates your Go installation and dependencies.
