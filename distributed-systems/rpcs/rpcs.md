@@ -8,3 +8,4 @@
 - [Simple GoRpc](https://github.com/ankur-anand/simple-go-rpc) - RPC explained by writing simple RPC framework in 300 lines of pure Golang.
 - [Facebook Thrift](https://github.com/facebook/fbthrift) - Serialization and RPC framework for service communication.
 - [NNG: Lightweight Messaging Library](https://github.com/nanomsg/nng) - Lightweight, broker-less library, offering a simple API to solve common recurring messaging problems, such as publish/subscribe, RPC-style request/reply, or service discovery.
+- [Remotely like a procedure call (2020)](http://funcall.blogspot.com/2020/01/remotely-like-procedure-call.html)
