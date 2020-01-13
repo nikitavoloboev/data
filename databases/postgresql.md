@@ -51,3 +51,5 @@
 - [py-pgproto](https://github.com/MagicStack/py-pgproto) - Low-level IO utilities for PosgtreSQL drivers.
 - [pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases.
 - [plow](https://github.com/andywer/plow) - Postgres migrations and seeding made easy.
+- [New Plan](https://explain.dalibo.com/) - Analyze, visualize and share Postgres Query Plans.
+- [New Explain](https://explain.depesz.com/) - PostgreSQL's explain analyze made readable.
