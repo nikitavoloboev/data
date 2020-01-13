@@ -148,3 +148,4 @@ Go promotes composition over inheritance.
 - [govalidate](https://github.com/rakyll/govalidate) - Validates your Go installation and dependencies.
 - [Go: Best Practices for Production Environments](https://peter.bourgon.org/go-in-production/)
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+- [A theory of modern Go (2017)](https://peter.bourgon.org/blog/2017/06/09/theory-of-modern-go.html)

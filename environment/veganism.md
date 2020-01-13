@@ -27,3 +27,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [HN: Animals are no less emotional than we are (2019)](https://news.ycombinator.com/item?id=19342135)
 - [Is Meat Bad for You? Is Meat Unhealthy? (2019)](https://www.youtube.com/watch?v=ouAccsTzlGU)
 - [Eat less meat: UN climate change report calls for change to human diet (2019)](https://www.nature.com/articles/d41586-019-02409-7) ([HN](https://news.ycombinator.com/item?id=20652145))
+- [Mosa Meat](https://www.mosameat.com/) - Produce real meat for the world’s growing population that is delicious, healthier, better for the environment, and kind to animals.

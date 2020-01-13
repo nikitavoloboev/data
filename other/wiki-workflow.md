@@ -48,10 +48,11 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Ioannis Kourouklides](https://wiki.kourouklides.com/wiki/Main_Page)
 - [Dmitrii Gerasimov](https://beepb00p.xyz/)
 - [Flavio Copes](https://flaviocopes.com/)
-- [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
+- [The Commonplace Book](https://www.ralphrudd.com/)
 - [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)
 - [Hongyi Shen's notes](https://github.com/wilbeibi/NotesIndex)
+- [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
 
 ## Wiki software
