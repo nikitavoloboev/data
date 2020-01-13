@@ -273,7 +273,7 @@
 - [endless](https://github.com/fvbock/endless) - Zero downtime restarts for go servers (Drop in replacement for http.ListenAndServe).
 - [Sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
 - [pdfcpu](https://github.com/pdfcpu/pdfcpu) - PDF processor written in Go.
-- [Sqlvet](https://github.com/houqp/sqlvet) - Performs static analysis on raw SQL queries in your Go code base.
+- [Sqlvet](https://github.com/houqp/sqlvet) - Performs static analysis on raw SQL queries in your Go code base. ([HN](https://news.ycombinator.com/item?id=22027487))
 - [matchr](https://github.com/antzucaro/matchr) - Approximate string matching library for the Go programming language.
 - [oauth2](https://github.com/cristalhq/oauth2) - OAuth2 client in Go.
 - [deep](https://github.com/go-test/deep) - Golang deep variable equality test that returns human-readable differences.
