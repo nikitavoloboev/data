@@ -53,6 +53,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)
 - [Hongyi Shen's notes](https://github.com/wilbeibi/NotesIndex)
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
+- [Nat Eliason notes](https://www.nateliason.com/notes)
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
 
@@ -82,3 +83,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Managing my personal knowledge base (2020)](https://tkainrad.dev/posts/managing-my-personal-knowledge-base/) ([HN](https://news.ycombinator.com/item?id=22000791))
 - [my](https://github.com/karlicoss/my) - Python interface into my life.
 - [What data on myself I collect and why? (2020)](https://beepb00p.xyz/my-data.html)
+- [Roam: Why I Love It and How I Use It (2020)](https://www.nateliason.com/blog/roam)

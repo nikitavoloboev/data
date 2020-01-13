@@ -63,3 +63,4 @@
 - [NLP 2019/2020 Highlights](https://github.com/omarsar/nlp_highlights)
 - [Overview of Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview)
 - [Online speech recognition with wav2letter@anywhere (2020)](https://ai.facebook.com/blog/online-speech-recognition-with-wav2letteranywhere/)
+- [wav2letter++](https://github.com/facebookresearch/wav2letter) - Fast, open source speech processing toolkit from the Speech team at Facebook AI Research built to facilitate research in end-to-end models for speech recognition.

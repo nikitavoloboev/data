@@ -12,7 +12,8 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 
 Full list can be seen in [XML feed of subscriptions under 1. folder](https://gist.github.com/nikitavoloboev/f67d6d37a8c32fa6f86a23bd77107fbd#file-my-inoreader-subscriptions-xml-L7).
 
-- [Brandur](https://brandur.org/articles)
+- [Brandur](https://brandur.org/articles) ([Code](https://github.com/brandur/sorg))
+- [Overreacted by Dan Abramov](https://overreacted.io) ([Code](https://github.com/gaearon/overreacted.io))
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html)
 - [Danny Gratzer](https://jozefg.bitbucket.io/about.html)
 - [Apple ML Journal](https://machinelearning.apple.com/)
@@ -44,7 +45,6 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 
 - [Awesome Blogs](https://github.com/learn-anything/blogs#readme)
 - [Many awesome blogs](https://lobste.rs/s/hrxdoq/what_s_url_your_technical_blog)
-- [overreacted.io](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov. Open source & built with Gastby.js
 - [Write on your own website (2019)](http://bradfrost.com/blog/post/write-on-your-own-website/)
 - [Overengineering a Blog](https://blog.andrewbran.ch/overengineering-a-blog/)
 - [Switch from Medium to your own blog in a few minutes](https://github.com/mathieudutour/medium-to-own-blog)

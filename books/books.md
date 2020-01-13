@@ -144,6 +144,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Naval’s Recommended Reading](https://www.navalmanack.com/navals-recommended-reading)
 - [Toby Shorin's Library](https://www.are.na/toby-shorin/toby-s-library)
 - [Books read by Mark McGranaghan](https://markmcgranaghan.com/books)
+- [Books read by James Somers](http://jsomers.net/#books)
 
 ## Notes
 
