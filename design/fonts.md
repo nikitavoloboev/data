@@ -27,3 +27,4 @@ And I keep the default San Francisco Apple's font for all everything else.
 - [The sad state of font rendering on Linux (2018)](https://pandasauce.org/post/linux-fonts/)
 - [Fabrizio Schiavi](https://www.fsd.it/) - Multidisciplinary designer with skill in typography.
 - [Rubrication Design Examples](https://www.gwern.net/Red)
+- [Google Web Fonts Helper](https://google-webfonts-helper.herokuapp.com/fonts) - Hassle-Free Way to Self-Host Google Fonts. ([Code](https://github.com/majodev/google-webfonts-helper))

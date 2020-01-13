@@ -8,6 +8,8 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Ryeboard](https://www.ryeboard.com/) - Ultimate visual workspace.
 - [Astuto](https://github.com/riggraz/astuto) - Free, open source, self-hosted customer feedback tool.
 - [Pulumi](https://www.pulumi.com/) - Declare cloud infrastructure using real languages.
+- [Shapecatcher](https://shapecatcher.com/) - Helps you find most similar unicode characters.
+- [Tiny Helpers](https://tiny-helpers.dev/) - Collection of single-purpose online tools for web developers.
 - [HASH](https://hash.ai/) - Open-source platform for general purpose simulation backed and built by the founders of Kaggle, Stack Overflow, Trello, and Glitch.
 - [Espial](https://github.com/jonschoning/espial) - Open-source, web-based bookmarking server.
 - [Frame.io](https://frame.io/) - Video review and collaboration software.
@@ -31,6 +33,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [GoLinks](https://www.golinks.io/) - Replace lengthy URLs with intuitive golinks to get your organization on the same page faster.
 - [Next Please](https://nextplease.io/) - Track features your users request and collaborate on your roadmap.
 - [Diagram generation tool](https://www.diagram.codes/) ([HN](https://news.ycombinator.com/item?id=21615978))
+- [Circle](https://circle.so/) - Modern community platform for creators.
 - [Render](https://render.com/) - Unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.
 - [Avatars](https://www.avatars.io/) - Every app needs an avatar. We make it hassle free.
 - [Gravatar](https://en.gravatar.com/) - Attach an image to an email and websites supporting Gravatar will simply pick up the image you specified.

@@ -96,3 +96,8 @@
 - [JSS](https://github.com/cssinjs/jss) - Authoring tool for CSS which uses JavaScript as a host language.
 - [List of 300+ CSS properties](https://www.web4college.com/css-play/index.php)
 - [Magical Rainbow Gradients with CSS Houdini and React Hooks (2020)](https://www.joshwcomeau.com/posts/rainbow-button/)
+- [Shapy](https://shapy.app/) - Gradient shape editor that helps you discover and explore the power of CSS gradients. ([Code](https://github.com/vicbergquist/shapy))
+- [CSS clip-path maker](https://bennettfeely.com/clippy/)
+- [CSS Scroll Shadows](https://css-scroll-shadows.now.sh/) - Adjust the controls and see the CSS scroll shadows change. ([Code](https://github.com/stefanjudis/css-scroll-shadows/))
+- [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
+- [Tint & Shade Generator](https://maketintsandshades.com/) - Display tints and shades of a given hex color in 10% increments.

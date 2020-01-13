@@ -14,3 +14,4 @@
 - [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 - [FLEX](http://flexbox.malven.co/) - Simple visual cheat sheet on Flexbox.
+- [Flexy Boxes](https://the-echoplex.net/flexyboxes/) - Flexbox playground and code generator.

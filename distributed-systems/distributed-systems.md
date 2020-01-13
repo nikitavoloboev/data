@@ -51,3 +51,4 @@
 - [Correctness proofs of distributed systems with Isabelle/HOL (2019)](https://www.youtube.com/watch?v=Uav5jWHNghY)
 - [Apache Mesos](https://github.com/apache/mesos) - Cluster manager that provides efficient resource isolation and sharing across distributed applications, or frameworks.
 - [Gleam](https://github.com/chrislusf/gleam) - Fast, efficient, and scalable distributed map/reduce system, DAG execution, in memory or on disk, written in pure Go, runs standalone or distributedly.
+- [Learning Distributed Systems - Cloud Native Podcast](https://thepodlets.io/episodes/012-learning-distributed-systems/)

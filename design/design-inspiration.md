@@ -47,6 +47,7 @@ Here are few more things I liked, design wise.
 - [Maksim Stepanenko](http://maksim.ms/)
 - [Lee Robinson](https://leerob.io/) ([Code](https://github.com/leerob/leerob.io))
 - [Rickard Laurin](https://willcodefor.beer)
+- [Michael Edelstone](https://michaeledelstone.com/)
 - [Max Böck](https://mxb.dev/)
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))
 - [Brent Jackson](https://jxnblk.com/)

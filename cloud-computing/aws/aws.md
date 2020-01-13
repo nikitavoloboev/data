@@ -37,3 +37,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Security Toolbox (AST) (2019)](https://zoph.me/posts/2019-12-16-aws-security-toolbox/)
 - [AWS Glossary](https://github.com/sw-yx/aws-glossary#readme)
 - [AWS Cost Optimization 101 (2020)](https://cloudonaut.io/aws-cost-optimization-101)
+- [Building a Serverless Podcast Search Engine on AWS (2019)](https://medium.com/@budilov/building-a-serverless-podcast-search-engine-on-aws-part-1-f6e58fbc3c06)

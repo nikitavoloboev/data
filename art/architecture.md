@@ -14,3 +14,4 @@
 - [In Residence: Alex Michaelis (2016)](https://www.youtube.com/watch?v=ziZ_tTvtk1k)
 - [Interiors by Shanghai Hip-pop Architectural Decoration Design Co](http://www.hippop-sh.cn/)
 - [Designing for people: How research and design can help us create smarter cities (2020)](https://marisamorby.com/designing-cities-for-people)
+- [Charter Cities Reading List](https://www.chartercitiesinstitute.org/reading)
