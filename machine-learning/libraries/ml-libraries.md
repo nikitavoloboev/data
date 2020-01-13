@@ -32,3 +32,4 @@
 - [CrypTen](https://github.com/facebookresearch/CrypTen) - Framework for Privacy Preserving Machine Learning built on PyTorch.
 - [Faiss](https://github.com/facebookresearch/faiss) - Library for efficient similarity search and clustering of dense vectors.
 - [pyHSICLasso](https://github.com/riken-aip/pyHSICLasso) - Versatile Nonlinear Feature Selection Algorithm for High-dimensional Data.
+- [AutoGluon](https://github.com/awslabs/autogluon) - AutoML Toolkit for Deep Learning.

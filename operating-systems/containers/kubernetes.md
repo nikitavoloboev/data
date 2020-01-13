@@ -120,3 +120,4 @@
 - [inlets-operator](https://github.com/inlets/inlets-operator) - Your private Kubernetes Service, with a public endpoint.
 - [kubectl tree](https://github.com/ahmetb/kubectl-tree) - Kubectl plugin to browse Kubernetes object hierarchies as a tree.
 - [Chaos Mesh](https://github.com/pingcap/chaos-mesh) - Cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
+- [Grafana Tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes.
