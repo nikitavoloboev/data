@@ -134,3 +134,4 @@
 - [Why Rust? I have a GC! (2020)](https://llogiq.github.io/2020/01/10/rustvsgc.html) ([Reddit](https://www.reddit.com/r/rust/comments/emyill/blog_why_rust_i_have_a_gc/))
 - [Rust Database Connectivity (RDBC) (2020)](https://andygrove.io/2020/01/rust-database-connectivity-rdbc/) ([HN](https://news.ycombinator.com/item?id=22027134))
 - [Rust: Unlocking Systems Programming (2016)](https://www.infoq.com/presentations/rust-thread-safety/)
+- [Hello Rust](https://hello-rust.show/) - Lighthearted live-programming channel about my journey to become a fearless, more effective Rust programmer.

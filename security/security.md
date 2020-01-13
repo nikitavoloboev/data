@@ -28,3 +28,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [american fuzzy lop](https://github.com/google/AFL) - Security-oriented fuzzer.
 - [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - Finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
+- [camo](https://github.com/atmos/camo) - HTTP proxy to route images through SSL. Making insecure assets look secure.
