@@ -9,3 +9,4 @@
 - [CSS Grid subgrid lands in Firefox Nightly](https://rachelandrew.co.uk/archives/2019/05/23/css-grid-subgrid-lands-in-firefox-nightly/)
 - [GRID](http://grid.malven.co/) - Simple visual cheat sheet on CSS Grid.
 - [CSS Grid Generator](https://cssgrid-generator.netlify.com/) ([Code](https://github.com/sdras/cssgridgenerator))
+- [Understanding CSS Grid: Grid Lines (2020)](https://www.smashingmagazine.com/2020/01/understanding-css-grid-lines/)

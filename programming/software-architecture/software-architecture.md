@@ -20,3 +20,4 @@
 - [Software Architecture is Overrated, Clear and Simple Design is Underrated (2019)](https://blog.pragmaticengineer.com/software-architecture-is-overrated/) ([Lobsters](https://lobste.rs/s/n4vihh/software_architecture_is_overrated))
 - [Structurizr](https://structurizr.com/) - Software architecture documentation hub.
 - [Ask HN: Are there any openly available software architecture documents? (2020)](https://news.ycombinator.com/item?id=22011743)
+- [Depending Less on Structure (2019)](https://lmatteis.github.io/depending-less-on-structure/)

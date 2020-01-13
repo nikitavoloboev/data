@@ -110,3 +110,4 @@
 - [Write Junior Code - A plea to Haskellers everywhere (2019)](https://www.parsonsmatt.org/2019/12/26/write_junior_code.html) ([Lobsters](https://lobste.rs/s/gdwjpc/plea_haskellers_everywhere_write_junior))
 - [The road to proficient Haskell (2020)](https://williamyaoh.com/posts/2020-01-11-road-to-proficient.html)
 - [Try the advanced stuff (2020)](https://williamyaoh.com/posts/2020-01-05-try-the-advanced-stuff.html)
+- [Design Patterns in Haskell (2010)](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)

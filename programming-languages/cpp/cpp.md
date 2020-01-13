@@ -56,3 +56,4 @@
 - [Chandler Carruth - Programming Language Design for Performance Critical Software (2019)](https://www.youtube.com/watch?v=_prA_EmoBe4)
 - [C++ programming: From problem analysis to program design](http://index-of.co.uk/Programming/C++%20Programming%20From%20Problem%20Analysis%20to%20Program%20Design%20-%20D.%20S.%20Malik%20-%202011.pdf)
 - [C++ Insights](https://github.com/andreasfertig/cppinsights) - See your source code with the eyes of a compiler.
+- [ThreadPool](https://github.com/progschj/ThreadPool) - Simple C++11 Thread Pool implementation. ([HN](https://news.ycombinator.com/item?id=22001711))

@@ -7,3 +7,4 @@
 - [Mailbrew](https://mailbrew.com/) - Receive the best content from the sites and apps you love in beautiful, automated, newsletters.
 - [Unreadit](https://unreadit.com/) - Curated weekly newsletters.
 - [Substack](https://substack.com/)
+- [On Being a Good Newsletterer](https://craigmod.com/essays/on_writing_good_newsletters/) - Notes and tips on how not to be a newsletter.
