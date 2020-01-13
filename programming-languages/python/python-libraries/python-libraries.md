@@ -75,3 +75,4 @@
 - [rq](https://github.com/rq/rq) - Simple job queues for Python.
 - [ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - Python package for handling messy CSV files.
+- [Camelot](https://github.com/camelot-dev/camelot) - Python library to extract tabular data from PDFs.

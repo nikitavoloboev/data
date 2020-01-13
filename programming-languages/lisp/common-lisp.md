@@ -7,3 +7,4 @@
 - [SICL](https://github.com/robert-strandh/SICL) - Fresh implementation of Common Lisp.
 - [Common Lisp tips](https://github.com/lisp-tips/lisp-tips#readme)
 - [LISP/c (Lispy)](https://github.com/eratosthenesia/lispc) - Lisp(ish) to C Converter (designed for CLISP).
+- [Cons cells vs. Linked Lists (2020)](http://funcall.blogspot.com/2020/01/cons-cells-vs-linked-lists.html)

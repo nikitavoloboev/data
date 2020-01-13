@@ -253,6 +253,10 @@ Below is a list of extensions I use.
 
 - [Erlang](https://github.com/erlang-ls/vscode) - Uses Erlang LSP.
 
+## AppleScript
+
+- [AppleScript](https://marketplace.visualstudio.com/items?itemName=idleberg.applescript) - Language syntax, snippets and build system for AppleScript and JavaScript for Automation.
+
 ## Racket
 
 - [Magic Racket](https://marketplace.visualstudio.com/items?itemName=evzen-wybitul.magic-racket) - Top notch syntax highlighting for Racket.

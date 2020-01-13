@@ -123,3 +123,4 @@
 - [Grafana Tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes.
 - [Kubernetes Best Practices: Blueprints for Building Successfull Applications on Kubernetes (2019)](https://www.goodreads.com/book/show/50351477-kubernetes-best-practices)
 - [PoC to write integration tests in Go with Kubernetes by Gianluca Arbezzano (2019)](https://www.youtube.com/watch?v=Dt-pQSNfXlM)
+- [kubethanos](https://github.com/berkay-dincer/kubethanos) - Kills half of your randomly selected kubernetes pods.

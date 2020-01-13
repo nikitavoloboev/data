@@ -8,3 +8,4 @@
 - [The Chernobyl Story in pictures](https://imgur.com/a/TwY6q)
 - [Historical Edits of the USA Constitution in git](https://github.com/JesseKPhillips/USA-Constitution) ([HN](https://news.ycombinator.com/item?id=21338257))
 - [Computer Archeology](http://www.computerarcheology.com/) - Digging up old, forgotten computer systems and cracking open the code that ran on them.
+- [Russia costarted WW2](https://www.reddit.com/r/worldnews/comments/ei5h2w/vladimir_putin_tries_to_rewrite_history_in_speech/fcnzs71/)
