@@ -47,3 +47,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. And 
 - [What makes a food "inflammatory" and what foods cause systemic inflammation?](https://www.reddit.com/r/nutrition/comments/diw5r9/what_makes_a_food_inflammatory_and_what_foods/)
 - [Grim Grains Nutrition guide](https://grimgrains.com/#nutrition)
 - [Ask HN: Which is the best book on nutrition? (2019)](https://news.ycombinator.com/item?id=21800737)
+- [Ask HN: Most sustainable diet long term? (2019)](https://news.ycombinator.com/item?id=19660819)

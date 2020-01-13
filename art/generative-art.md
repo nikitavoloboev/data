@@ -20,3 +20,4 @@
 - [Veit's Art](https://veitheller.de/art/)
 - [alt-AI](http://alt-ai.net/) - Exploring the intersection of artificial intelligence and art.
 - [Machine Learning for Artists](https://ml4a.github.io/)
+- [Plask](https://github.com/deanm/plask) - Multimedia programming environment.
