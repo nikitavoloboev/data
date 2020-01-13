@@ -33,6 +33,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 ## Similar wikis I liked
 
 - [Devine Lu Linvega](https://wiki.xxiivv.com)
+- [Gwern](https://www.gwern.net/About)
 - [Yoshua Wuyts](https://yoshuawuyts.gitbooks.io/knowledge/content/)
 - [Oleg Kiselyov](http://okmij.org/ftp/) - Lots of stuff on FP.
 - [Richard Litt](https://github.com/RichardLitt/knowledge)
@@ -52,6 +53,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)
 - [Hongyi Shen's notes](https://github.com/wilbeibi/NotesIndex)
+- [Bayle Shanks](http://www.bayleshanks.com/)
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
 - [Nat Eliason notes](https://www.nateliason.com/notes)
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
