@@ -143,6 +143,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [85 Best Business Books in 2020 for Entrepreneurs, Creatives & Professionals to Read (and Grow) (2020)](https://www.ryrob.com/best-business-books/)
 - [Naval’s Recommended Reading](https://www.navalmanack.com/navals-recommended-reading)
 - [Toby Shorin's Library](https://www.are.na/toby-shorin/toby-s-library)
+- [Books read by Mark McGranaghan](https://markmcgranaghan.com/books)
 
 ## Notes
 
@@ -164,3 +165,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Now, what do I read?](https://nowwhatdoiread.com/) - Enter your favorite book and get a list of suggested books to read.
 - [How I Read (2018)](http://sirupsen.com/read/)
 - [The Most Abandoned Books on GoodReads (2019)](https://www.gwern.net/GoodReads) ([HN](https://news.ycombinator.com/item?id=21957798))
+- [What Should I Read Next?](https://www.whatshouldireadnext.com/)
