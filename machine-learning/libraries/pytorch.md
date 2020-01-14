@@ -64,3 +64,4 @@
 - [TTAch](https://github.com/qubvel/ttach) - Image Test Time Augmentation with PyTorch.
 - [Hyperspherical Variational Auto-Encoders in PyTorch](https://github.com/nicola-decao/s-vae-pytorch)
 - [Hyperbolic Graph Convolutional Networks in PyTorch](https://github.com/HazyResearch/hgcn)
+- [Deep Learning with PyTorch book](https://pytorch.org/deep-learning-with-pytorch) - Provides a detailed, hands-on introduction to building and training neural networks with PyTorch. ([HN](https://news.ycombinator.com/item?id=21601774))

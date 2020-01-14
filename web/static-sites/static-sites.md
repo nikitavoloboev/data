@@ -24,3 +24,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Going static](https://brandur.org/fragments/going-static)
 - [Blog Rewrite with Hakyll and Purescript (2016)](https://blog.jle.im/entry/blog-rewrite-with-hakyll-and-purescript.html)
 - [Awesome JAMStack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
+- [Ask HN: Best Static Site Builder? (2019)](https://news.ycombinator.com/item?id=21616149)
