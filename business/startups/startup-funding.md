@@ -15,3 +15,4 @@
 - [Tiny](https://www.tiny.website/) - We start, buy, and invest in wonderful internet businesses.
 - [AngelList accelerators](https://angel.co/accelerators/apply)
 - [Signal](https://signal.nfx.com/login) - The fundraising CRM for startup founders.
+- [Shopify Capital lends a hand to small businesses with starter loans (2020)](https://news.shopify.com/shopify-capital-lends-small-businesses-a-hand-with-starter-loans)

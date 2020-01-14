@@ -21,3 +21,4 @@ Some things I found funny.
 - [Every programming tutorial](https://www.youtube.com/watch?v=MAlSjtxy5ak)
 - [Fibery - Yet another collaboration tool](https://fibery.io/anxiety)
 - [How to exit vim](https://github.com/hakluke/how-to-exit-vim)
+- [The Evolution of a Software Engineer](https://medium.com/@webseanhickey/the-evolution-of-a-software-engineer-db854689243)

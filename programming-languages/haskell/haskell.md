@@ -111,3 +111,4 @@
 - [The road to proficient Haskell (2020)](https://williamyaoh.com/posts/2020-01-11-road-to-proficient.html)
 - [Try the advanced stuff (2020)](https://williamyaoh.com/posts/2020-01-05-try-the-advanced-stuff.html)
 - [Design Patterns in Haskell (2010)](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
+- [Courting Haskell (2020)](https://honzajavorek.cz/blog/courting-haskell)
