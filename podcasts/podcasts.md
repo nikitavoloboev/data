@@ -69,7 +69,7 @@ It includes:
 - [Weird Trick Mafia](https://overcast.fm/itunes1456548333/weirdtrickmafia-fm)
 - [Zero Knowledge](https://overcast.fm/itunes1326503043/zero-knowledge) - Where we talk about blockchain technology and development.
 
-For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts#readme). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/rje42db9yj4d59w/overcast.opml?dl=1) (can be imported to Overcast).
+For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts#readme). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 
 ## Favorite episodes
 
