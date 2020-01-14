@@ -32,6 +32,10 @@
 
 - [OnGres](https://www.ongres.com/) - Expert postgres help for startups and enterprise.
 
+## Scala
+
+- [Propensive](https://propensive.com/) - European technology company, specializing in supporting the Scala programming community.
+
 ## Other
 
 - [Monadfix](https://monadfix.com/) - Work with Haskell, PureScript, and Agda.

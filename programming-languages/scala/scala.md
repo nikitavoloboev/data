@@ -28,3 +28,4 @@
 - [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala/)
 - [rsc](https://github.com/twitter/rsc) - Experimental Scala compiler focused on compilation speed.
 - [Functional Scala - Modern Data Driven Applications with ZIO Streams by Itamar Ravid (2019)](https://www.youtube.com/watch?v=bbss7elSfxs)
+- [Functional Scala - Unleash Your Fury by Jon Pretty (2019)](https://www.youtube.com/watch?v=PHjAKgdUMWI&list=PLjtl9Y7VJMWtZz3g0LjMhO54_KBL8Tfwl&index=8&t=0s)
