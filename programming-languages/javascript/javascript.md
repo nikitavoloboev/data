@@ -119,3 +119,4 @@
 - [2019 JavaScript Rising Stars](https://risingstars.js.org/2019/en/) ([Code](https://github.com/bestofjs/javascript-risingstars))
 - [Best of JS](https://bestofjs.org/) - Best of JavaScript, HTML and CSS. ([Code](https://github.com/bestofjs/bestofjs-webui))
 - [omggif](https://github.com/deanm/omggif) - JavaScript implementation of a GIF 89a encoder and decoder.
+- [Sampling bias, FDR, and The State of JS (2020)](https://davidea.st/articles/sampling-bias-fdr-state-of-js)

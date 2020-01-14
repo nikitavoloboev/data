@@ -39,6 +39,7 @@
   - [Song covers](music/song-covers.md)
   - [Music production](music/music-production/music-production.md)
     - [Ableton](music/music-production/ableton.md)
+    - [Synthesizers](music/music-production/synthesizers.md)
     - [Guitar](music/music-production/guitar.md)
 - [Life](life/life.md)
   - [Happiness](life/happiness.md)

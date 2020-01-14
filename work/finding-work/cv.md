@@ -59,3 +59,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [NatalieHub](https://github.com/nataliemarleny/nataliemarleny.github.io) - Githubbified Resume using Primer CSS, a d3.js customised heatmap and illustrated with Figma.
 - [Modern LaTeX CV template](https://github.com/fanzeyi/cv)
 - [Resume Review thread](https://dev.to/kaydacode/resume-review-1oei)
+- [Let’s talk about your resume (2020)](https://hugogiraudel.com/2020/01/13/lets-talk-about-your-resume/)
