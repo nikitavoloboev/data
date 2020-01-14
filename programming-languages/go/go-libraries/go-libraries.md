@@ -278,6 +278,7 @@
 - [oauth2](https://github.com/cristalhq/oauth2) - OAuth2 client in Go.
 - [deep](https://github.com/go-test/deep) - Golang deep variable equality test that returns human-readable differences.
 - [goleak](https://github.com/uber-go/goleak) - Goroutine leak detector.
+- [dotsql](https://github.com/gchaincl/dotsql) - Golang library for using SQL.
 
 ## Links
 

@@ -16,3 +16,4 @@
 - [Treo](https://treo.sh/sites) - Real user monitoring with zero-setup.
 - [Front-End Performance Checklist (2020)](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
 - [Perf Tooling](https://github.com/stefanjudis/perf-tooling) - List of performance analysis, monitoring and optimization tools.
+- [Keeping 100% Lighthouse score around the world - Leonardo Zizzamia (2020)](https://www.youtube.com/watch?v=fg7N14Fq1gM)

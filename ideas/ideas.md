@@ -24,3 +24,4 @@ I try to give my full attention to any ideas I am working on.
 - [One Hundred Ideas for Computing](https://github.com/samsquire/ideas#readme)
 - [Ask HN: Haven't worked for a while, best guide/advice to start a hobby project? (2019)](https://news.ycombinator.com/item?id=21861412)
 - [An App Launch Guide](https://github.com/adamwulf/app-launch-guide#readme)
+- [John Carmack on Idea Generation (2016)](https://amasad.me/carmack)

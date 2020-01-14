@@ -70,3 +70,4 @@
 - [Creator of Python Programming Language, Guido van Rossum | Oxford Union (2019)](https://www.youtube.com/watch?v=7kn7NtlV6g0)
 - [scalene](https://github.com/emeryberger/scalene) - High-performance CPU and memory profiler for Python.
 - [Iterables vs. Iterators vs. Generators (2014)](https://nvie.com/posts/iterators-vs-generators/)
+- [Making Python Programs Blazingly Fast (2020)](https://martinheinz.dev/blog/13) ([HN](https://news.ycombinator.com/item?id=22040899))

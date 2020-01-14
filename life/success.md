@@ -44,3 +44,4 @@ Success comes from not giving up and doing what you love.
 - [How To Be Successful (At Your Career) (2020)](https://twitter.com/sama/status/1214274038933020672) ([HN](https://news.ycombinator.com/item?id=21974718))
 - [Almanac of Naval Ravikant](https://www.navalmanack.com/) - Guide to Wealth and Happiness.
 - [Some examples of people quickly accomplishing ambitious things together](https://patrickcollison.com/fast) ([HN](https://news.ycombinator.com/item?id=21848860))
+- [Ask HN: What has your work taught you that other people don't realize? (2020)](https://news.ycombinator.com/item?id=22018946)
