@@ -19,3 +19,5 @@
 - [ZIO](https://github.com/zio/zio) - Type-safe, composable library for asynchronous and concurrent programming in Scala.
 - [Matryoshka](https://github.com/slamdata/matryoshka) - Generalized recursion schemes and traversals for Scala.
 - [Scrimage](https://github.com/sksamuel/scrimage) - Scala image processing library.
+- [Fastring](https://github.com/Atry/fastring) - Extremely fast string formatting.
+- [Compute.scala](https://github.com/ThoughtWorksInc/Compute.scala) - Scientific computing with N-dimensional arrays.

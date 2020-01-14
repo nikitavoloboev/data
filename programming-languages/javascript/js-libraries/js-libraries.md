@@ -142,3 +142,5 @@
 - [GoJS](https://gojs.net/latest/index.html) - JavaScript and TypeScript library for building interactive diagrams and graphs.
 - [Rete](https://github.com/retejs/rete) - JavaScript framework for visual programming and creating node editor. ([HN](https://news.ycombinator.com/item?id=22024201))
 - [Pre3d](https://github.com/deanm/pre3d) - JavaScript 3d rendering engine.
+- [dancer.js](https://github.com/jsantell/dancer.js) - High-level audio API, designed to make sweet visualizations.
+- [model-viewer](https://github.com/GoogleWebComponents/model-viewer) - Easily display interactive 3D models on the web and in AR.

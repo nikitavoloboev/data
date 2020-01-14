@@ -38,3 +38,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Glossary](https://github.com/sw-yx/aws-glossary#readme)
 - [AWS Cost Optimization 101 (2020)](https://cloudonaut.io/aws-cost-optimization-101)
 - [Building a Serverless Podcast Search Engine on AWS (2019)](https://medium.com/@budilov/building-a-serverless-podcast-search-engine-on-aws-part-1-f6e58fbc3c06)
+- [Architecting for the Cloud - AWS Best Practices (2019)](https://tlakomy.com/architecting-for-the-cloud-aws-best-practices-part-1/)

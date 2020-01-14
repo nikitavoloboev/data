@@ -167,3 +167,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [How I Read (2018)](http://sirupsen.com/read/)
 - [The Most Abandoned Books on GoodReads (2019)](https://www.gwern.net/GoodReads) ([HN](https://news.ycombinator.com/item?id=21957798))
 - [What Should I Read Next?](https://www.whatshouldireadnext.com/)
+- [Reedsy](https://reedsy.com/) - Crafting beautiful books is at the heart of everything that Reedsy does.

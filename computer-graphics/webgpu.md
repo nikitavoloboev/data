@@ -7,3 +7,4 @@
 - [WebGPU Seed](https://github.com/alaingalvan/webgpu-seed) - WebGPU repo you can use to get started with your own renderer.
 - [WebGPU trial](https://github.com/takahirox/webgpu-trial)
 - [Raw WebGPU (2019)](https://alain.xyz/blog/raw-webgpu)
+- [Real-Time Ray-Tracing in WebGPU (2020)](https://maierfelix.github.io/2020-01-13-webgpu-ray-tracing/)

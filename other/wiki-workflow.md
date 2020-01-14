@@ -33,6 +33,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 ## Similar wikis I liked
 
 - [Devine Lu Linvega](https://wiki.xxiivv.com)
+- [100 Rabbits](https://100r.co/site/home.html)
 - [Gwern](https://www.gwern.net/About)
 - [Yoshua Wuyts](https://yoshuawuyts.gitbooks.io/knowledge/content/)
 - [Oleg Kiselyov](http://okmij.org/ftp/) - Lots of stuff on FP.
