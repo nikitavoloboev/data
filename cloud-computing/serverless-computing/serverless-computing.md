@@ -26,3 +26,4 @@
 - [AWS Amplify CLI](https://github.com/aws-amplify/amplify-cli) - CLI toolchain for simplifying serverless web and mobile development.
 - [Deploy Your First Serverless Function Using JavaScript (2020)](https://dev.to/jlengstorf/deploy-your-first-serverless-function-using-javascript-1g4e)
 - [Cloud Run Button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click.
+- [Build a serverless website from scratch using S3, API Gateway, AWS Lambda, Go and Terraform (2019)](https://rogerwelin.github.io/aws/serverless/terraform/lambda/2019/03/18/build-a-serverless-website-from-scratch-with-lambda-and-terraform.html)

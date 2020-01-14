@@ -208,6 +208,7 @@
 - [crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust.
 - [wgpu-rs](https://github.com/gfx-rs/wgpu-rs) - Rust bindings to wgpu native library. ([Awesome](https://github.com/rofrol/awesome-wgpu-rs#readme))
 - [rio](https://github.com/spacejam/rio) - Pure rust io_uring library, built on libc, thread & async friendly, misuse resistant.
+- [dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 
 ## Cargo Plugins
 

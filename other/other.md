@@ -83,3 +83,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Guide To Using Reverse Image Search For Investigations (2019)](https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/)
 - [The “No Code” Delusion (2020)](https://www.alexhudson.com/2020/01/13/the-no-code-delusion/) ([HN](https://news.ycombinator.com/item?id=22033827))
 - [The Hacker Classics](http://jsomers.net/hn/) ([HN](https://news.ycombinator.com/item?id=22004066))
+- [Products I Wish Existed, 2020 Edition](http://blog.eladgil.com/2020/01/products-i-wish-existed-2020-edition.html) ([HN](https://news.ycombinator.com/item?id=21969774))

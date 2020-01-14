@@ -25,3 +25,4 @@
 - [How HTTPS works in a comic](https://howhttps.works/)
 - [HTTP Caching (2018)](https://roadmap.sh/guides/http-caching) - Everything you need to know about web caching.
 - [The Status of HTTP/3 (2020)](https://www.infoq.com/news/2020/01/http-3-status/) ([HN](https://news.ycombinator.com/item?id=22037242))
+- [Cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load-testing tool written in Go.
