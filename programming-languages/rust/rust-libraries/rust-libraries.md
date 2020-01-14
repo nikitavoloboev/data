@@ -44,6 +44,7 @@
 - [ncollide](https://github.com/rustsim/ncollide) - 2 and 3-dimensional collision detection library in Rust.
 - [imgui-rs](https://github.com/Gekkio/imgui-rs) - Rust bindings for dear imgui.
 - [luminance](https://github.com/phaazon/luminance-rs) - Type-safe, type-level and stateless Rust graphics framework.
+- [Gate](https://github.com/SergiusIW/gate) - Specialized 2D game library.
 
 ## IO
 

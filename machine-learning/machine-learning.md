@@ -176,3 +176,4 @@
 - [Machine Learning Summer School videos (2009)](http://videolectures.net/mlss09uk_cambridge/)
 - [Turi Create](https://github.com/apple/turicreate) - Simplifies the development of custom machine learning models.
 - [Private machine learning progress](https://github.com/OpenMined/private-ai-resources#readme)
+- [Demucs](https://github.com/facebookresearch/demucs) - Code for the paper Music Source Separation in the Waveform Domain.

@@ -24,3 +24,4 @@ I use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) apps as ba
 ## Links
 
 - [Breathing techniques](https://www.reddit.com/r/Psychonaut/comments/6y21cf/does_anyone_know_any_effective_breathing/)
+- [What do you think of meditation? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/eo9nt2/what_do_you_think_of_meditation/)

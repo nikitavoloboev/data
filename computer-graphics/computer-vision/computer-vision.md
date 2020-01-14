@@ -19,3 +19,4 @@
 - [The Ancient Secrets of Computer Vision (2018)](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)
 - [Variational Methods for Computer Vision lectures (2013)](https://www.youtube.com/watch?v=fpw26tpHGr8&list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
 - [Classy Vision](https://github.com/facebookresearch/ClassyVision) - New end-to-end, PyTorch-based framework for large-scale training of state-of-the-art image and video classification models.
+- [Meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software.
