@@ -19,3 +19,4 @@
 - [Single-cell RNA-seq pseudotime estimation algorithms](https://github.com/agitter/single-cell-pseudotime)
 - [Allen Institute for Brain Science Toolkit](https://portal.brain-map.org/explore/toolkit)
 - [Computer-Designed Organisms](https://cdorgs.github.io/) - Scalable pipeline for creating functional novel lifeforms.
+- [BioGrakn](https://github.com/graknlabs/biograkn) - Provides an intuitive way to query interconnected and heterogeneous biomedical data in one single place. ([Article](https://blog.grakn.ai/biograkn-accelerating-biomedical-knowledge-discovery-with-a-grakn-knowledge-graph-84706768d7d4))
