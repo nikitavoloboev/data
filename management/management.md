@@ -18,3 +18,4 @@
 - [Teamlead Roadmap (Russian)](https://github.com/tlbootcamp/tlroadmap#readme)
 - [Ask HN: Solo devs, how do you plan your development? (2019)](https://news.ycombinator.com/item?id=21905423)
 - [100 Lessons and Spicy Takes on Being a Software Product Manager](https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/)
+- [Bryan Cantrill on Engineering Performance Management](https://twitter.com/bcantrill/status/1216491216356823040)
