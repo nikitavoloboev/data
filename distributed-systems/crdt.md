@@ -11,3 +11,4 @@
 - [Statecraft](https://github.com/josephg/statecraft) - Protocol and set of tools for interacting with data that changes over time.
 - [Full implementation of CRDTs using hybrid logical apps and a demo app that uses it](https://github.com/jlongster/crdt-example-app)
 - [Swarm.js](https://github.com/gritzko/swarm) - JavaScript replicated model (M of MVC) library.
+- [To OT or CRDT, that is the question (2020)](https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/) ([HN](https://news.ycombinator.com/item?id=22039950))
