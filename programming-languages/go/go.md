@@ -154,3 +154,4 @@ Go promotes composition over inheritance.
 - [Concurrency in Go - Fundamentals (2018)](https://rogerwelin.github.io/golang/go/concurrency/2018/09/04/golang-concurrency-fundamentals.html)
 - [Go + Services = One Goliath Project (2020)](https://engineering.khanacademy.org/posts/goliath.htm) ([HN](https://news.ycombinator.com/item?id=21853727))
 - [Pure reference counting garbage collector in Go](https://github.com/sendilkumarn/gopurerc) ([HN](https://news.ycombinator.com/item?id=22052119))
+- [JSON to Go](https://mholt.github.io/json-to-go/) - Convert JSON to Go struct. ([Code](https://github.com/mholt/json-to-go))

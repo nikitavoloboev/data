@@ -22,3 +22,4 @@
 - [Fastring](https://github.com/Atry/fastring) - Extremely fast string formatting.
 - [Compute.scala](https://github.com/ThoughtWorksInc/Compute.scala) - Scientific computing with N-dimensional arrays.
 - [Finatra](https://github.com/twitter/finatra) - Fast, testable, Scala services built on TwitterServer and Finagle.
+- [Freestyle](https://github.com/frees-io/freestyle) - Cohesive & pragmatic framework of FP centric Scala libraries.
