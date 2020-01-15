@@ -76,6 +76,7 @@
 - [TSConf Videos](https://tsconf.io/videos.html)
 - [gts](https://github.com/google/gts) - TypeScript style guide, formatter, and linter by Google.
 - [Typing correctly matters (2019)](https://www.dotconferences.com/2019/12/ziad-bizri-typing-correctly-matters)
+- [Is TypeScript worth it? (2020)](https://blog.logrocket.com/is-typescript-worth-it/) ([HN](https://news.ycombinator.com/item?id=22055341))
 
 ## Images
 
