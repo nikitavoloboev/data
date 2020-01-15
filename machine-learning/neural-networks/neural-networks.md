@@ -68,3 +68,4 @@
 - [Implementation of a deep learning library in Futhark](https://futhark-lang.org/student-projects/duc-bsc-thesis.pdf)
 - [Single Headed Attention RNN: Stop Thinking With Your Head (2019)](https://arxiv.org/abs/1911.11423)
 - [Using neural networks to solve advanced mathematics equations (2020)](https://ai.facebook.com/blog/using-neural-networks-to-solve-advanced-mathematics-equations/)
+- [AlphaFold](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13) - Provides an implementation of the contact prediction network, associated model weights and CASP13 dataset as published in Nature. ([Paper](https://www.nature.com/articles/s41586-019-1923-7))

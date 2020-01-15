@@ -22,6 +22,7 @@ Here are few more things I liked, design wise.
 - [Actual Budget](https://actualbudget.com/blog/)
 - [Seph](https://josephg.com/blog/)
 - [defn.io](https://defn.io/)
+- [Naval](https://nav.al/)
 
 ## Products
 
