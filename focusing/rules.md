@@ -82,7 +82,7 @@
 - Establish good mental models of what I need and what I use as I approach modifying my workflow and tools.
 - Run less software/code. Only run what I use and need. Keep all systems clean & purposeful.
 - Invest in learning/using/building new tools.
-- Refine rules in Timing making sure ideally all time is tracked automatically by Timing into projects.
+- Refine rules in Timing making sure all time is tracked automatically and correctly into projects.
 
 ## Share
 

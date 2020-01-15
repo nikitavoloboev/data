@@ -28,3 +28,4 @@
 - [Cloud Run Button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click.
 - [Build a serverless website from scratch using S3, API Gateway, AWS Lambda, Go and Terraform (2019)](https://rogerwelin.github.io/aws/serverless/terraform/lambda/2019/03/18/build-a-serverless-website-from-scratch-with-lambda-and-terraform.html)
 - [Stateful Programming Models in Serverless Functions (2019)](https://www.youtube.com/watch?v=YUJjhnYIj4M)
+- [Azure Functions’ Durable Entities (2019)](https://medium.com/@cgillum/azure-functions-durable-entities-67db648d2f74)
