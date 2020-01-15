@@ -103,3 +103,4 @@
 - [My top React techtalks of 2019](https://www.reddit.com/r/reactjs/comments/eay5cg/my_top_react_techtalks_of_2019/)
 - [React Christmas](https://react.christmas/)
 - [suspense-cache](https://github.com/SamyPesse/suspense-cache) - Cache utility to create resources for React suspense.
+- [Snowpack with React: An awesome way to build web applications (2020)](https://dev.to/ryanlanciaux/snowpack-with-react-ch3)
