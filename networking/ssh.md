@@ -12,3 +12,4 @@
 - [ssh in https](https://flak.tedunangst.com/post/ssh-in-https) ([Lobsters](https://lobste.rs/s/xzztac/ssh_https))
 - [WebSSH](https://github.com/huashengdun/webssh) - Web based ssh client.
 - [Building interactive SSH applications (2019)](https://drewdevault.com/2019/09/02/Interactive-SSH-programs.html) ([HN](https://news.ycombinator.com/item?id=20857362))
+- [Top 20 OpenSSH Server Best Security Practices (2020)](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)

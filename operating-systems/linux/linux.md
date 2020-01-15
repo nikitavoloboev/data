@@ -69,3 +69,5 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [Setting up a Linux Workstation for Software Development (2019)](https://tkainrad.dev/posts/setting-up-linux-workstation/)
 - [Boot your custom Kernel: Quick and dirty way (2018)](https://kernel.wtf/boot-your-kernel-with-qemu/)
 - [IBus](https://github.com/ibus/ibus) - Intelligent Input Bus for Linux/Unix.
+- [40 Linux Server Hardening Security Tips (2019)](https://www.cyberciti.biz/tips/linux-security.html)
+- [What Linux distro should I use for a hosted server (DO or AWS?) to run services from (go binaries and software)? (2020)](https://merveilles.town/@nikivi/103484869139753375)
