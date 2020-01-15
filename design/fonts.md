@@ -1,10 +1,10 @@
 # Fonts
 
-My current favorite font for programming is [Fira Code](https://github.com/tonsky/FiraCode). I use it in VS Code, Sublime and iTerm.
+My current favorite font for programming is [JetBrains Mono](https://www.jetbrains.com/lp/mono/). I use it for VS Code and iTerm.
 
-I also love using Lucida Sans font. I use it for my IRC client. I find it much more pleasing to read than Fira Code.
+I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I love the default San Francisco Apple font for use in everything else.
 
-And I keep the default San Francisco Apple's font for all everything else.
+Lucida Sans font is nice too (use it with Textual IRC client).
 
 ## Interesting fonts
 
@@ -16,6 +16,7 @@ And I keep the default San Francisco Apple's font for all everything else.
 - [Leon Sans](https://github.com/cmiscm/leonsans) - Geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [Codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification.
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - Typeface for Developers. ([HN](https://news.ycombinator.com/item?id=22053998)) ([Code](https://github.com/JetBrains/JetBrainsMono))
+- [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
 
 ## Links
 

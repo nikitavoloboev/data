@@ -4,9 +4,9 @@ My favorite editor that I use to write code in. I use [many extensions](vs-code-
 
 My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/vscode/settings.json).
 
-I use VS Code [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-night#readme) theme with [Fira Code](https://github.com/tonsky/FiraCode) font. Here is how it looks:
+I use VS Code [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-night#readme) theme with [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font. Here is how it looks:
 
-![](https://i.imgur.com/2jPtdRE.png)
+![](https://i.imgur.com/jSH3nbF.png)
 
 ## Notes
 
