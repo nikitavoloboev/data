@@ -141,6 +141,7 @@
 - [ExceptionCatcher](https://github.com/sindresorhus/ExceptionCatcher) - Catch Objective-C exceptions in Swift.
 - [Euclid](https://github.com/nicklockwood/Euclid) - Swift library for creating and manipulating 3D geometry.
 - [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - Ring progress view similar to Activity app on Apple Watch.
+- [Pusher Channels Swift Client](https://github.com/pusher/pusher-websocket-swift) - Pusher Channels websocket library for Swift.
 
 ## Links
 

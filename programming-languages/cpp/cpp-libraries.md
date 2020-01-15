@@ -52,3 +52,4 @@
 - [sparsehash](https://github.com/sparsehash/sparsehash) - C++ associative containers.
 - [tabulate](https://github.com/p-ranav/tabulate) - Table Maker for Modern C++.
 - [stb](https://github.com/nothings/stb) - Single-file public domain libraries for C/C++.
+- [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - Modern cross-platform low-level graphics library and rendering framework.

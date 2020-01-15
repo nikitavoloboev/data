@@ -28,3 +28,4 @@
 - [How Do Bullets Work in Video Games?](https://www.gamasutra.com/blogs/TristanJung/20191206/355250/How_Do_Bullets_Work_in_Video_Games.php) ([HN](https://news.ycombinator.com/item?id=21859747))
 - [How to make roguelike games in Rust](http://bfnightly.bracketproductions.com/rustbook/) ([HN](https://news.ycombinator.com/item?id=22020229)) ([Code](https://github.com/thebracket/rustrogueliketutorial))
 - [What Cats Can Teach You About Empathic Game Design (2019)](https://www.youtube.com/watch?v=seyH_fX0vr0)
+- [Open Match](https://github.com/googleforgames/open-match) - Open source game matchmaking framework that simplifies building a scalable and extensible Matchmaker.

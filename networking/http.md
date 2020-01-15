@@ -1,5 +1,9 @@
 # [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
+## Notes
+
+- 4XX status codes indicate an error with something the client is doing. 5XX indicates an error with something the server is doing. So if the client is not sending a specific body type, required fields, proper encoding, etc., that's a 4XX status code. If you get proper body, fields, encoding, etc., and something goes wrong unexpectedly, that would be a 5XX status code.
+
 ## Links
 
 - [Know your HTTP well](https://github.com/for-GET/know-your-http-well)
