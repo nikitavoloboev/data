@@ -8,3 +8,4 @@
 - [Syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization.
 - [OnionShare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites.
 - [Dropbox Transfer](https://www.dropbox.com/transfer)
+- [bita](https://github.com/oll3/bita) - Differential file synchronization over http.

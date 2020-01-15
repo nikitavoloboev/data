@@ -25,3 +25,4 @@
 - [When an SQL database makes a great Pub/Sub (2019)](https://threedots.tech/post/when-sql-database-makes-great-pub-sub/) ([HN](https://news.ycombinator.com/item?id=21834152))
 - [Cosette](https://github.com/uwdb/Cosette) - Automated SQL solver.
 - [BlazingSQL](https://github.com/BlazingDB/blazingsql) - GPU accelerated SQL engine built on top of the RAPIDS ecosystem.
+- [libinjection](https://github.com/client9/libinjection) - SQL / SQLI tokenizer parser analyzer.
