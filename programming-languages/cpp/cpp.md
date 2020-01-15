@@ -58,4 +58,3 @@
 - [C++ Insights](https://github.com/andreasfertig/cppinsights) - See your source code with the eyes of a compiler.
 - [ThreadPool](https://github.com/progschj/ThreadPool) - Simple C++11 Thread Pool implementation. ([HN](https://news.ycombinator.com/item?id=22001711))
 - [What do you mean by "cache friendly"? - Björn Fahller (2019)](https://www.youtube.com/watch?v=Fzbotzi1gYs)
-- [Parsing JSON Really Quickly: Lessons Learned (2019)](https://www.youtube.com/watch?v=wlvKAT7SZIQ)

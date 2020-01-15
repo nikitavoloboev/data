@@ -153,3 +153,4 @@ Go promotes composition over inheritance.
 - [cob](https://github.com/knqyf263/cob) - Continuous Benchmark for Go Project.
 - [Concurrency in Go - Fundamentals (2018)](https://rogerwelin.github.io/golang/go/concurrency/2018/09/04/golang-concurrency-fundamentals.html)
 - [Go + Services = One Goliath Project (2020)](https://engineering.khanacademy.org/posts/goliath.htm) ([HN](https://news.ycombinator.com/item?id=21853727))
+- [Pure reference counting garbage collector in Go](https://github.com/sendilkumarn/gopurerc) ([HN](https://news.ycombinator.com/item?id=22052119))
