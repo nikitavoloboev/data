@@ -70,3 +70,4 @@
 - [Pecker](https://github.com/woshiccm/Pecker) - Tool to automatically detect unused code. It based on IndexStoreDB and SwiftSyntax.
 - [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations.
 - [Building networking layer using functions (2020)](https://swiftwithmajid.com/2020/01/08/building-networking-layer-using-functions/)
+- [Swift for Good](https://www.swiftforgood.com/) - 20 well-known authors and speakers are coming together to write an all-new book for Swift developers.

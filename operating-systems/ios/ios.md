@@ -82,3 +82,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Every iOS security guide](https://github.com/0xmachos/iOS-Security-Guides)
 - [Behind the scenes of iOS and Mac Security (2019)](https://www.youtube.com/watch?v=3byNNUReyvE)
 - [UBKAccessibilityKit](https://github.com/NAB/UBKAccessibilityKit) - iOS framework to help with accessibility development and testing.
+- [native-run](https://github.com/ionic-team/native-run) - Cross-platform command-line utility for running native binaries on devices and simulators/emulators.
