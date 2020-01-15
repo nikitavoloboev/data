@@ -15,7 +15,7 @@ And I keep the default San Francisco Apple's font for all everything else.
 - [Cascadia Code](https://github.com/microsoft/cascadia-code) - Fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [Leon Sans](https://github.com/cmiscm/leonsans) - Geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [Codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification.
-- [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - Typeface for Developers. ([HN](https://news.ycombinator.com/item?id=22053998))
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - Typeface for Developers. ([HN](https://news.ycombinator.com/item?id=22053998)) ([Code](https://github.com/JetBrains/JetBrainsMono))
 
 ## Links
 

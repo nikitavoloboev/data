@@ -67,3 +67,4 @@
 - [On the Relationship between Self-Attention and Convolutional Layers (2019)](https://openreview.net/forum?id=HJlnC1rKPB) ([Code](https://github.com/epfml/attention-cnn)) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/en2ywu/r_on_the_relationship_between_selfattention_and/))
 - [Implementation of a deep learning library in Futhark](https://futhark-lang.org/student-projects/duc-bsc-thesis.pdf)
 - [Single Headed Attention RNN: Stop Thinking With Your Head (2019)](https://arxiv.org/abs/1911.11423)
+- [Using neural networks to solve advanced mathematics equations (2020)](https://ai.facebook.com/blog/using-neural-networks-to-solve-advanced-mathematics-equations/)

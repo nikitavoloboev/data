@@ -10,6 +10,7 @@
 - Ingress controller watches for `Ingress` resources in your cluster.
 - [Kubernetes (or whatever other container scheduler) might feel like overkill, but if all they do is force you to adopt a container-centric / 12-factor way of building your applications it was worth trying them. And once you've adopted that workflow it's a no-brainer to go from a single node to a cluster which will dynamically allocate the workloads it runs.](https://news.ycombinator.com/item?id=18495697)
   - Running a small container cluster at work has even changed how I setup single-host projects in my spare time: I will build everything into a container, bind-mount whatever it might need, create a simple systemd unit that just runs / rms the docker container on start and stop. Bliss.
+- [After a couple years on kubernetes, there is a simple joy to a deployment process that looks like "scp binary server: && ssh server systemctl restart service", and takes 5s to complete.](https://twitter.com/dave_universetf/status/1216791280505774080)
 
 ## Links
 
