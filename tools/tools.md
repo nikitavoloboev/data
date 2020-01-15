@@ -20,6 +20,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [golinks](https://github.com/prologic/golinks) - Web app that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance.
 - [Parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely. ([Article](https://www.tomosman.com/posts/what-is-parabola))
 - [Exploding Topics](https://explodingtopics.com/) - We surface rapidly growing topics before they take off.
+- [Nuclino](https://www.nuclino.com/) - Lightweight and collaborative wiki for all your team's knowledge, docs, and notes.
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.
 - [Bit.sv](https://bit.sv/) - New content network that lets anyone earn money from their interests.
 - [Drift](https://www.drift.com/) - Connect Your Sales Teams With Your Future Customers.
@@ -169,7 +170,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Data Puller](https://github.com/austil/datapuller) - Easy" data dump of your activity on various web services.
 - [Short](https://github.com/byliuyang/short) - URL shortening service written in Go and React.
 - [Twitter-Following-To-List-Migration](https://github.com/zackshapiro/Twitter-Following-To-List-Migration) - Creates a new list and adds all accounts you are following to that list, then unfollows them all.
-- [Excalidraw](https://github.com/excalidraw/excalidraw) - Sketch hand-drawn like diagrams.
+- [Excalidraw](https://www.excalidraw.com) - Sketch hand-drawn like diagrams. ([Code](https://github.com/excalidraw/excalidraw))
 - [OverAPI](http://overapi.com/) - Collecting All Cheat Sheets.
 - [TravelTime Maps](https://app.traveltimeplatform.com/) - Put your work postcode in, then the max time you want to travel, and it will show you area's within that travel time.
 - [Tokens for Mac](http://usetokens.com/) - Makes it remarkably easy to generate, share, and track promo codes for your iOS and Mac apps.

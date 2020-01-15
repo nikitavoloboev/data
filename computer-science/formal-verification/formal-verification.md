@@ -10,3 +10,4 @@
 - [MIT Programming Languages & Verification Group](http://plv.csail.mit.edu/)
 - [Encyclopedia of Proof Systems](https://github.com/ProofSystem/Encyclopedia/blob/master/main.pdf)
 - [A Domain-Specific Language for Verifying Software Requirement Constraints](https://arxiv.org/pdf/1911.02679.pdf)
+- [Provably Correct Peephole Optimizations with Alive (2019)](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/alive/)

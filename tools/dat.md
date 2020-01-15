@@ -10,3 +10,4 @@
 - [unwalled.garden](https://github.com/beakerbrowser/unwalled.garden) - Schemas for a p2p social-media network built on the Dat Web.
 - [Unwalled.Garden: souped-up RSS for P2P social apps (2019)](https://pfrazee.hashbase.io/blog/unwalled-garden)
 - [On Dat:// (2019)](https://www.kickscondor.com/on-dat/)
+- [A Collaboration Story: Building p2pcommons SDK (2020)](https://geutstudio.com/blog/building-p2pcommons-sdk/)

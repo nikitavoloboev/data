@@ -81,3 +81,5 @@ I love Git and version control. And I use version control over any project I do.
 - [git-of-theseus](https://github.com/erikbern/git-of-theseus) - Analyze how a Git repo grows over time.
 - [Git power tools for daily use (2018)](https://nvie.com/posts/git-power-tools/)
 - [git-toolbelt](https://github.com/nvie/git-toolbelt) - Suite of useful Git commands that aid with scripting or every day command line usage.
+- [git-series](https://github.com/git-series/git-series) - Track changes to a patch series over time.
+- [Moving a Git Repository into Its Submodule (2020)](https://pspdfkit.com/blog/2020/moving-a-git-repository-into-its-submodule/)

@@ -64,3 +64,4 @@
 - [Overview of Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview)
 - [Online speech recognition with wav2letter@anywhere (2020)](https://ai.facebook.com/blog/online-speech-recognition-with-wav2letteranywhere/)
 - [wav2letter++](https://github.com/facebookresearch/wav2letter) - Fast, open source speech processing toolkit from the Speech team at Facebook AI Research built to facilitate research in end-to-end models for speech recognition.
+- [Language Identification from Very Short Strings (2019)](https://machinelearning.apple.com/2019/07/24/language-identification-from-very-short-strings.html)

@@ -112,3 +112,4 @@
 - [Try the advanced stuff (2020)](https://williamyaoh.com/posts/2020-01-05-try-the-advanced-stuff.html)
 - [Design Patterns in Haskell (2010)](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
 - [Courting Haskell (2020)](https://honzajavorek.cz/blog/courting-haskell)
+- [Programming in Haskell book](http://www.cs.nott.ac.uk/~pszgmh/pih.html)

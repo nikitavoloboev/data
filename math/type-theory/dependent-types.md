@@ -15,3 +15,4 @@
 - [Certified Programming with Dependent types](http://adam.chlipala.net/cpdt/)
 - [voile-rs](https://github.com/owo-lang/voile-rs) - Dependently-typed programming language with a non-dependent version of row-polymorphism, meta variable resolution and implicit parameter syntax.
 - [Approximate Normalization for Gradual Dependent Types (2019)](https://www.youtube.com/watch?v=e4FeQCabuOQ)
+- [A Dependently Typed Language (2019)](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/dependently-typed-language/)

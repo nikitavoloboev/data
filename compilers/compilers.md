@@ -50,3 +50,4 @@
 - [Compiler Auto-Vectorization with Imitation Learning](http://papers.nips.cc/paper/9604-compiler-auto-vectorization-with-imitation-learning.pdf) ([HN](https://news.ycombinator.com/item?id=21968118))
 - [AST Explorer](https://astexplorer.net/)
 - [Clang Build Analyzer](https://github.com/aras-p/ClangBuildAnalyzer) - Can be useful to figure out what takes time during compilation of one source file.
+- [CS 6120: Advanced Compilers course](https://www.cs.cornell.edu/courses/cs6120/2019fa/) ([Code](https://github.com/sampsyo/cs6120))

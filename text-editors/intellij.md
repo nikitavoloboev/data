@@ -1,9 +1,12 @@
 # [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
-Don't write a lot of Java but the IDE is amazing.
+Don't use it any more as I don't write Java and love VS Code.
 
-I use [IdeaVim plugin](https://plugins.jetbrains.com/plugin/164-ideavim), [Monokai Theme](https://darekkay.com/blog/monokai-theme-intellij/) and [Fira Code](https://github.com/tonsky/FiraCode) as my font.
+## Nice plugins
+
+- [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim) - Vim mode.
+- [Monokai Theme](https://darekkay.com/blog/monokai-theme-intellij/) - Most similar to [Monokai Night](../design/monokai-night-themes.md). Although if I did use IntelliJ, I would port Monokai Night fully.
 
 ## Links
 
-- [Alabaster IDEA Color Scheme](https://github.com/tonsky/intellij-alabaster)
+- [Alabaster IDEA Color Scheme](https://github.com/tonsky/intellij-alabaster) - Simple white theme.

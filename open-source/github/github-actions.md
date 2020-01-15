@@ -41,3 +41,4 @@
 - [Hello, GitHub Actions!](https://lab.github.com/github/hello-github-actions!)
 - [Creating GitHub Actions in Python (2019)](https://www.jacobtomlinson.co.uk/posts/2019/creating-github-actions-in-python/)
 - [Exploring Actions (2019)](https://brandur.org/nanoglyphs/005-actions)
+- [GitHub Actions Runner](https://github.com/actions/runner) - Runner is the application that runs a job from a GitHub Actions workflow. The runner can run on the hosted machine pools or run on self-hosted environments.

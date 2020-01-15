@@ -26,3 +26,4 @@
 - [CSRankings: Computer Science Rankings](http://csrankings.org/#/index?all)
 - [Computer Science Resources](https://github.com/the-akira/Computer-Science-Resources#readme)
 - [Our Thoughts on P=NP (2020)](https://rjlipton.wordpress.com/2020/01/12/our-thoughts-on-pnp/)
+- [List of Cornell Computer Science Course Offerings](https://www.cs.cornell.edu/courseinfo/listofcscourses)
