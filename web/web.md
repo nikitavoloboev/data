@@ -53,3 +53,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [This Page is Designed to Last (2019)](https://jeffhuang.com/designed_to_last/) ([HN](https://news.ycombinator.com/item?id=21840140)) ([Lobsters](https://lobste.rs/s/xltmol/this_page_is_designed_last))
 - [Web development, illustrated](https://illustrated.dev/)
 - [HN: The Old Internet Died and We Watched and Did Nothing (2019)](https://news.ycombinator.com/item?id=21921323)
+- [Personal sites are awesome](https://personalsit.es/) - Little directory of people's personal sites. ([Code](https://github.com/xdesro/personalsit.es))

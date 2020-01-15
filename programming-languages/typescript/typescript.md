@@ -75,6 +75,7 @@
 - [TypeScript for Beginner Programmers](https://github.com/chibicode/TypeScript-for-Beginner-Programmers)
 - [TSConf Videos](https://tsconf.io/videos.html)
 - [gts](https://github.com/google/gts) - TypeScript style guide, formatter, and linter by Google.
+- [Typing correctly matters (2019)](https://www.dotconferences.com/2019/12/ziad-bizri-typing-correctly-matters)
 
 ## Images
 

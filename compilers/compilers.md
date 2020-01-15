@@ -49,3 +49,4 @@
 - [Dive into Deep Learning Compiler](http://tvm.d2l.ai/)
 - [Compiler Auto-Vectorization with Imitation Learning](http://papers.nips.cc/paper/9604-compiler-auto-vectorization-with-imitation-learning.pdf) ([HN](https://news.ycombinator.com/item?id=21968118))
 - [AST Explorer](https://astexplorer.net/)
+- [Clang Build Analyzer](https://github.com/aras-p/ClangBuildAnalyzer) - Can be useful to figure out what takes time during compilation of one source file.
