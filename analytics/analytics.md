@@ -21,4 +21,4 @@ For user facing products, well implemented analytics will let you see how to opt
 - [Metabase](https://www.metabase.com/) - Easy, open source way for everyone in your company to ask questions and learn from data. ([OSS](https://github.com/metabase/metabase)) ([Binary deployment](https://github.com/metabase/metabase-deploy))
 - [OmniSci](https://www.omnisci.com/) - Interactively query, visualize, and power data science workflows over billions of records.
 - [Freshlytics](https://github.com/sheshbabu/freshlytics) - Open source privacy-friendly analytics software. It aims to be reliable, friendly to use and easy to deploy.
-- [GoatCounter](https://github.com/zgoat/goatcounter) - Simple web statistics. No tracking of personal data.
+- [GoatCounter](https://www.goatcounter.com/) - Simple web statistics. No tracking of personal data. ([Code](https://github.com/zgoat/goatcounter))

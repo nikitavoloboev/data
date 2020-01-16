@@ -11,6 +11,7 @@
 - [Mithril](https://mithril.js.org/) - Modern client-side Javascript framework for building Single Page Applications.
 - [Solid](https://github.com/ryansolid/solid) - Declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Neutrino dev](https://github.com/mozilla-neutrino/neutrino-dev)
+- [Alpine.js](https://github.com/alpinejs/alpine) - Rugged, minimal framework for composing JavaScript behavior in your markup.
 
 ## Animation
 
