@@ -38,6 +38,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 
 - [Ben Kovach](https://www.benkovach.art/)
 - [Karolis Strautniekas](https://www.instagram.com/strautniekas/)
+- [Shusei Nagaoka](https://twitter.com/UrbanFoxxxx/status/1217915945882202112)
 - [Harriet Lee-Merrion](https://www.harrietleemerrion.com/)
 - [Bastien Grivet](https://www.artstation.com/grivetart)
 - [Petur Orn](https://www.instagram.com/orn.design/)

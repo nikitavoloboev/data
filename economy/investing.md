@@ -19,3 +19,5 @@
 - [Freetrade](https://freetrade.io/) - Commission free investing for UK/EU.
 - [How To Invest In Startups (2020)](https://blog.samaltman.com/how-to-invest-in-startups) ([HN](https://news.ycombinator.com/item?id=22035997))
 - [Fey](https://www.feyapp.com/) - Gives you the complete picture of your portfolio, with fast data entry, always-on risk analysis and more.
+- [Top companies by market cap](https://finviz.com/screener.ashx?o=-marketcap)
+- [FINVIZ](https://finviz.com/) - Financial visualizations.

@@ -185,6 +185,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Preconstruct](https://github.com/preconstruct/preconstruct) - Dev and build your code painlessly in monorepos.
 - [Okta](https://developer.okta.com/) - Adds authentication, authorization, and user management to your web or mobile app within minutes.
 - [Rekki](https://www.rekki.com/) - Free mobile app that lets you order and chat with any supplier.
+- [Tandem](https://tandem.chat/) - Virtual office for remote teams.
 
 ## Notes
 
