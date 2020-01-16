@@ -46,3 +46,5 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Panel: the Future of Languages (2019)](https://www.infoq.com/presentations/panel-future-languages/?utm_source=twitter&utm_medium=link&utm_campaign=qcon)
 - [Programming Language Tourism: Leave Python and see the world (2019)](https://www.youtube.com/watch?v=iO633Om2QmU)
 - [A programming language by Kenneth E. Iverson book (1962)](http://www.softwarepreservation.org/projects/apl/Books/APROGRAMMING%20LANGUAGE)
+- [Factor](https://factorcode.org/) - Practical stack language. ([HN](https://news.ycombinator.com/item?id=22053857))
+- [Factor: a dynamic stack-based programming language paper](https://factorcode.org/slava/dls.pdf)

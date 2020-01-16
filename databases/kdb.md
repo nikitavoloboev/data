@@ -10,3 +10,4 @@
 - [no stinking loops](http://nsl.com/)
 - [k origins history](https://kparc.io/)
 - [iKe: a browser-based sandbox for K](http://johnearnest.github.io/ok/ike/ike.html) ([HN](https://news.ycombinator.com/item?id=21886380))
+- [K by Arthur Whitney (2005)](http://archive.vector.org.uk/art10010830) ([HN](https://news.ycombinator.com/item?id=22060537))

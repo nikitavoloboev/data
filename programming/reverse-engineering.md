@@ -9,3 +9,6 @@
 - [Binary Analysis Next Generation (BANG)](https://github.com/armijnhemel/binaryanalysis-ng) - Framework for unpacking files (like firmware) recursively and running checks on the unpacked files.
 - [Cutter](https://github.com/radareorg/cutter) - Free and open-source reverse engineering framework powered by radare2.
 - [Reverse Engineering For Beginners (2019)](https://www.youtube.com/playlist?list=PLMB3ddm5Yvh3gf_iev78YP5EPzkA3nPdL)
+- [Reverse engineering course (Focuses on x64 Windows)](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) ([HN](https://news.ycombinator.com/item?id=22061842))
+- [Great reverse engineering courses list](https://news.ycombinator.com/item?id=22063610)
+- [Open Security Training Info](http://opensecuritytraining.info/)

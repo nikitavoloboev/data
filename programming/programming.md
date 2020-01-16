@@ -113,3 +113,4 @@
 - [Goodbye, Clean Code (2020)](https://overreacted.io/goodbye-clean-code/) ([HN](https://news.ycombinator.com/item?id=22022466)) ([Lobsters](https://lobste.rs/s/xwel4u/goodbye_clean_code))
 - [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 - [Returning to First Principles (2020)](https://oswalt.dev/2020/01/returning-to-first-principles/)
+- [On Composition (2019)](https://shalabh.com/programmable-systems/on-composition.html) - Our composition models are poor and don't scale well ([HN](https://news.ycombinator.com/item?id=22052863)).

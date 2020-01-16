@@ -2,6 +2,7 @@
 
 ## OSS Games
 
+- [LSD](https://github.com/franzenzenhofer/lsd) - Line-square-dot: an addicting game.
 - [Dino Jump](https://github.com/dj/dinojump)
 
 ## Notes
