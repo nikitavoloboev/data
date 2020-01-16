@@ -33,3 +33,4 @@
 - [William Byrd on "The Most Beautiful Program Ever Written" (2017)](https://www.youtube.com/watch?v=OyfBQmvr2Hc)
 - [Awesome Lisp Languages](https://github.com/dundalek/awesome-lisp-languages#readme)
 - [Programming Algorithms book: Dynamic Programming](http://lisp-univ-etc.blogspot.com/2019/12/programming-algorithms-dp.html)
+- [LISP programmer's manual (1960)](http://bitsavers.org/pdf/mit/rle_lisp/LISP_I_Programmers_Manual_Mar60.pdf)
