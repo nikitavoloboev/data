@@ -87,3 +87,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [my](https://github.com/karlicoss/my) - Python interface into my life.
 - [What data on myself I collect and why? (2020)](https://beepb00p.xyz/my-data.html)
 - [Roam: Why I Love It and How I Use It (2020)](https://www.nateliason.com/blog/roam)
+- [Roam Research MVP Review: Pages + Bullets = Cool New Product Category (2020)](https://medium.com/bloated-mvp/roam-research-mvp-review-pages-bullets-cool-new-product-category-28baf5dd0a3)

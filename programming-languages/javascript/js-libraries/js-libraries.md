@@ -144,3 +144,4 @@
 - [Pre3d](https://github.com/deanm/pre3d) - JavaScript 3d rendering engine.
 - [dancer.js](https://github.com/jsantell/dancer.js) - High-level audio API, designed to make sweet visualizations.
 - [model-viewer](https://github.com/GoogleWebComponents/model-viewer) - Easily display interactive 3D models on the web and in AR.
+- [Spars](https://github.com/TimvanScherpenzeel/spars) - General toolkit for creating interactive web experiences.

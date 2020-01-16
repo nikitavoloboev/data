@@ -6,3 +6,4 @@
 - [Kafka ecosystem ... but step by step](https://github.com/framiere/a-kafka-story)
 - [Playground for Kafka/Confluent Docker experimentations](https://github.com/vdesabou/kafka-docker-playground)
 - [Goka](https://github.com/lovoo/goka) - Compact yet powerful distributed stream processing library for Apache Kafka written in Go.
+- [Streams and Tables in Apache Kafka: A Primer (2020)](https://www.confluent.io/blog/kafka-streams-tables-part-1-event-streaming/)

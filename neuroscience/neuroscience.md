@@ -15,6 +15,7 @@
 - [Computational Neuroscience course](https://www.coursera.org/learn/computational-neuroscience)
 - [Neuroscience: Exploring the Brain](https://www.goodreads.com/book/show/170011.Neuroscience)
 - [Where can I study neuroscience on my own? (2020)](https://www.reddit.com/r/neuroscience/comments/efi61j/where_can_i_study_neuroscience_on_my_own/)
+- [Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI (2020)](https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI)
 
 ## Images
 
