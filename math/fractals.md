@@ -13,3 +13,4 @@
 - [Fractals and Monads](https://dkwise.wordpress.com/2019/01/18/fractals-and-monads/)
 - [Generating the Mandelbrot Set](https://scionofbytes.me/misc/generating-mandelbrot-fractals/)
 - [Recursion and Fractals](https://en.scratch-wiki.info/wiki/Recursion_and_Fractals)
+- [Fractals in Python](https://github.com/danilobellini/fractal)

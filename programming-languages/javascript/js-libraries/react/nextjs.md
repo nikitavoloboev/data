@@ -30,3 +30,4 @@
 - [dotJS 2019 - Tim Neutkens - What to expect from a modern web framework?](https://www.dotconferences.com/2019/12/tim-neutkens-what-to-expect-from-a-modern-web-framework)
 - [Next & Apollo Example](https://github.com/adamsoffer/next-apollo-example)
 - [next-learn-demo](https://github.com/zeit/next-learn-demo) - Meant to be used with the Next.js tutorial on https://nextjs.org/learn.
+- [Next.js Starter with User Authentication/Authorization](https://github.com/rwieruch/nextjs-firebase-authentication)

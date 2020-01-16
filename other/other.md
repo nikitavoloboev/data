@@ -84,3 +84,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The “No Code” Delusion (2020)](https://www.alexhudson.com/2020/01/13/the-no-code-delusion/) ([HN](https://news.ycombinator.com/item?id=22033827))
 - [The Hacker Classics](http://jsomers.net/hn/) ([HN](https://news.ycombinator.com/item?id=22004066))
 - [Products I Wish Existed, 2020 Edition](http://blog.eladgil.com/2020/01/products-i-wish-existed-2020-edition.html) ([HN](https://news.ycombinator.com/item?id=21969774))
+- [Amazing Developers On YouTube](https://github.com/ErikCH/DevYouTubeList#readme)
