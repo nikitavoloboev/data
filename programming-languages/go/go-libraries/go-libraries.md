@@ -282,6 +282,7 @@
 - [goleak](https://github.com/uber-go/goleak) - Goroutine leak detector.
 - [dotsql](https://github.com/gchaincl/dotsql) - Golang library for using SQL.
 - [Authboss](https://github.com/volatiletech/authboss) - Modular authentication system for the web.
+- [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go.
 
 ## Links
 

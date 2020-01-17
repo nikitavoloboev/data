@@ -63,3 +63,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Choose an open source license](https://choosealicense.com/)
 - [Building an open source community from the ground up (2019)](https://www.youtube.com/watch?v=D0p572DrNfI)
 - [Reflections on Excalidraw (2020)](https://blog.vjeux.com/2020/uncategorized/reflections-on-excalidraw.html)
+- [A sad day for Rust (2020)](https://news.ycombinator.com/item?id=22075076) ([HN](https://news.ycombinator.com/item?id=22075076))
