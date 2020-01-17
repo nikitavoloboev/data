@@ -182,6 +182,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Apparat dans Passengers (Full Show HiRes) - ARTE Concert](https://www.youtube.com/watch?v=NOol5V4Tlk8)
 - [Ishome at Krasnaya Polyana @37tunes](https://www.youtube.com/watch?v=yo2zLZkWmhE)
 - [Diane Cluck: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=SyETsd-rKP8&t=408)
+- [InWhite - Спокойных Снов | Sofar Moscow](https://www.youtube.com/watch?v=2ca-IH32MM8)
 
 ## Mixes
 

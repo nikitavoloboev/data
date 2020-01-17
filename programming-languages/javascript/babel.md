@@ -4,3 +4,4 @@
 
 - [Awesome Babel](https://github.com/babel/awesome-babel#readme)
 - [ts-babel](https://github.com/andy-hanson/ts-babel) - Example project showing how to use babel with TS with pipelines.
+- [Jason Miller on Modern JavaScript and the Future of preset-env (2020)](https://overcast.fm/+S2WFIV_5Y)

@@ -156,3 +156,4 @@ Go promotes composition over inheritance.
 - [Pure reference counting garbage collector in Go](https://github.com/sendilkumarn/gopurerc) ([HN](https://news.ycombinator.com/item?id=22052119))
 - [JSON to Go](https://mholt.github.io/json-to-go/) - Convert JSON to Go struct. ([Code](https://github.com/mholt/json-to-go))
 - [The await/async concurrency pattern in Golang (2020)](https://madeddu.xyz/posts/go-async-await/)
+- [Exposing interfaces in Go (2019)](https://www.efekarakus.com/golang/2019/12/29/working-with-interfaces-in-go.html)

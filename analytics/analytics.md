@@ -22,3 +22,4 @@ For user facing products, well implemented analytics will let you see how to opt
 - [OmniSci](https://www.omnisci.com/) - Interactively query, visualize, and power data science workflows over billions of records.
 - [Freshlytics](https://github.com/sheshbabu/freshlytics) - Open source privacy-friendly analytics software. It aims to be reliable, friendly to use and easy to deploy.
 - [GoatCounter](https://www.goatcounter.com/) - Simple web statistics. No tracking of personal data. ([Code](https://github.com/zgoat/goatcounter))
+- [MixPanel](https://mixpanel.com/) - Analyze user behavior across your sites and apps. Then send messages and run experiments from what you learned–all in Mixpanel.

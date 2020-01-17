@@ -187,6 +187,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Rekki](https://www.rekki.com/) - Free mobile app that lets you order and chat with any supplier.
 - [Tandem](https://tandem.chat/) - Virtual office for remote teams.
 - [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
+- [Doka](https://pqina.nl/doka/) - High-performance JavaScript Image Editing in the Browser.
 
 ## Notes
 

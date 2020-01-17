@@ -26,3 +26,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [BEE Free](https://beefree.io/) - Easiest, quickest way to design elegant, mobile responsive emails.
 - [S3 Email](https://github.com/0x4447/0x4447_product_s3_email) - Serverless email server on AWS using S3 and SES.
 - [ConvertKit](https://convertkit.com/) - Email marketing software for creators.
+- [Burner Mail](https://burnermail.io/) - Hide your personal email address, control who can send you emails, and generate new burners with one click.
