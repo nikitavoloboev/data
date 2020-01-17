@@ -33,6 +33,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Marc Edwards](https://dribbble.com/bjango) - Developer of iStats Menu for mac.
 - [Malik Thomas](http://malikthomas.co.uk/)
 - [Alexander Käßner](http://www.alexkaessner.de/) - Amazing logos.
+- [Darek Zabrocki](https://www.darekzabrocki.com/)
 
 ## Interesting artists
 
@@ -139,3 +140,4 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Graphicine](http://www.graphicine.com/) - Nice curated art pieces.
 - [In a digital world, analog brings something new (2019)](https://www.vanschneider.com/in-a-digital-world-analog-brings-something-new)
 - [Avant Arte](https://avantarte.com/) - Limited edition prints.
+- [Root System Drawings](https://images.wur.nl/digital/collection/coll13/search) ([Tweet](https://twitter.com/M_Elmazlouzi/status/1217559314631680000))

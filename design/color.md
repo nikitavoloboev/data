@@ -15,3 +15,4 @@
 - [SRCERY](https://srcery-colors.github.io/) - Dark color scheme.
 - [Who can use this color combination?](https://whocanuse.com/)
 - [Happy Hues](https://www.happyhues.co/) - Color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects.
+- [The Hitchhiker's Guide to Digital Color](https://hg2dc.com/) - Light-hearted introduction to understanding digital color reproduction.
