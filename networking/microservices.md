@@ -23,3 +23,4 @@
 - [Micro-services (2020)](http://funcall.blogspot.com/2020/01/micro-services.html)
 - [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering#readme)
 - [Microservice background jobs in Go (2020)](https://scene-si.org/2020/01/13/microservice-background-jobs/)
+- [Istio as an Example of When Not to Do Microservices](https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/)
