@@ -72,13 +72,17 @@ And these Discord servers:
 - [Godot Engine](https://discord.gg/ZXJERxu)
 - [r/ Apple](https://discordapp.com/invite/apple)
 
+## Publications
+
+- [Stratechery](https://stratechery.com/)
+- [Nature](https://www.nature.com/)
+- [Atlas Obscura](https://www.atlasobscura.com/)
+- [Logic Magazine](https://logicmag.io/)
+
 ### Other
 
 - [Awesome websites](https://github.com/learn-anything/websites#readme)
-- [Atlas Obscura](https://www.atlasobscura.com/)
 - [Hackaday](https://hackaday.com/)
-- [Stratechery](https://stratechery.com/)
-- [Nature](https://www.nature.com/)
 
 ## Notes
 

@@ -45,7 +45,7 @@
 - [Prefect](https://github.com/PrefectHQ/prefect) - New workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine.
 - [Turn Python Scripts into Beautiful ML Tools (2019)](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace) ([HN](https://news.ycombinator.com/item?id=21158487))
 - [Foundations of Data Science (2019)](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) ([HN](https://news.ycombinator.com/item?id=21179378))
-- [Gyana](https://www.gyana.co.uk/) - Desktop app making data science approachable to all.
+- [Gyana](https://www.gyana.co.uk/) - No code desktop data science tool. ([Article](https://www.gyana.co.uk/post/a-bicycle-for-data))
 - [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling. ([Website](https://dask.org/))
 - [Numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM. ([5 minute guide](https://numba.pydata.org/numba-doc/dev/user/5minguide.html))
 - [What's your typical data pipeline in a small company? (2019)](https://www.reddit.com/r/datascience/comments/dge7wh/whats_your_typical_data_pipeline_in_a_small/)

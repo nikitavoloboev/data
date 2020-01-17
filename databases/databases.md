@@ -87,3 +87,4 @@
 - [Samuel Madden professor research page](http://db.csail.mit.edu/madden/)
 - [Curated list of resources for graph databases and graph computing tools](https://github.com/jbmusso/awesome-graph#readme)
 - [Graph Databases book](https://pdfs.semanticscholar.org/f511/7084ca43e888fb3e17ab0f0e684cced0f8fd.pdf)
+- [Big News In Databases — Fall 2019](https://winand.at/newsletter/2019-12/partiql-microsoft-licenses-volcano-model)
