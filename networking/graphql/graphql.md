@@ -65,3 +65,4 @@
 - [Caliban](https://github.com/ghostdogpr/caliban) - Purely functional library for creating GraphQL backends in Scala.
 - [GraphQL JIT](https://github.com/zalando-incubator/graphql-jit) - GraphQL execution using a JIT compiler.
 - [Herm](https://www.herm.dev/) - Free online workshop on everything you need to build fullstack GraphQL apps with Hasura, Next.js, and Serverless.
+- [GraphQL Tooling, Today & Tomorrow, Sean Grove, Founder @ OneGraph (2019)](https://www.youtube.com/watch?v=gAjQ1mg614o)

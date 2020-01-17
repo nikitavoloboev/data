@@ -3,7 +3,7 @@
 ## Interesting Engines
 
 - [Godot](https://github.com/godotengine/godot)
-- [Love](https://love2d.org)
+- [Love](https://love2d.org) ([Code](https://github.com/love2d/love))
 - [ggez](https://github.com/ggez/ggez)
 - [Amethyst](https://github.com/amethyst/amethyst)
 - [Open Source Game Engine for Turn-Based Games](https://github.com/nicolodavis/boardgame.io)
