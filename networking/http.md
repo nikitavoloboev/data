@@ -31,3 +31,4 @@
 - [The Status of HTTP/3 (2020)](https://www.infoq.com/news/2020/01/http-3-status/) ([HN](https://news.ycombinator.com/item?id=22037242))
 - [Cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load-testing tool written in Go.
 - [TwitterServer](https://github.com/twitter/twitter-server) - Defines a template from which services at Twitter are built.
+- [curl HTTP cheat sheet](https://curl.github.io/curl-cheat-sheet/http-sheet.html)

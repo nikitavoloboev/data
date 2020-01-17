@@ -179,3 +179,4 @@
 - [Demucs](https://github.com/facebookresearch/demucs) - Code for the paper Music Source Separation in the Waveform Domain.
 - [Apple at NeurIPS 2019](https://machinelearning.apple.com/2019/12/02/apple-at-neurips-2019.html)
 - [Magenta](https://magenta.tensorflow.org/) - Make Music and Art Using Machine Learning.
+- [An overview of gradient descent optimization algorithms (2016)](https://ruder.io/optimizing-gradient-descent/)

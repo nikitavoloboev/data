@@ -10,3 +10,4 @@
 - [Tundra](https://github.com/deplinenoise/tundra) - Code build system that tries to be accurate and fast for incremental builds.
 - [gg](https://github.com/StanfordSNR/gg) - The Stanford Builder.
 - [Make local development (with Bazel) great again (2020)](https://www.youtube.com/watch?v=rQv1sjLU4cI)
+- [BazelCon 2019 videos](https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsf-7g43Z8LyXct9ax6egdSj)
