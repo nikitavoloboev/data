@@ -114,3 +114,4 @@
 - [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 - [Returning to First Principles (2020)](https://oswalt.dev/2020/01/returning-to-first-principles/)
 - [On Composition (2019)](https://shalabh.com/programmable-systems/on-composition.html) - Our composition models are poor and don't scale well ([HN](https://news.ycombinator.com/item?id=22052863)).
+- [Simplicity isn't simple (2015)](https://fishbowl.pastiche.org/2015/04/02/simplicity_isnt_simple) ([Lobsters](https://lobste.rs/s/sddw4g/simplicity_isn_t_simple))

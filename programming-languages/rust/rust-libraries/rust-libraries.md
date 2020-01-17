@@ -17,6 +17,7 @@
 - [warp](https://github.com/seanmonstar/warp) - Super-easy, composable, web server framework for warp speeds.
 - [HTTP](https://github.com/hyperium/http) - Rust HTTP types.
 - [httparse](https://github.com/seanmonstar/httparse) - Push parser for the HTTP 1.x protocol in Rust.
+- [ureq](https://github.com/algesten/ureq) - Minimal request library in rust.
 
 ## WASM
 

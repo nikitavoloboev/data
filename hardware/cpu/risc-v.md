@@ -8,3 +8,4 @@
 - [RISC-V Stumbling Blocks (2020)](https://x86.lol/generic/2020/01/01/riscv-intro.html)
 - [RISC-V Specification in Coq](https://github.com/mit-plv/riscv-coq)
 - [Formal Specification of RISC-V ISA in Kami](https://github.com/sifive/RiscvSpecFormal)
+- [RISC-V Software Ecosystem Overview](https://github.com/riscv/riscv-software-list#readme)

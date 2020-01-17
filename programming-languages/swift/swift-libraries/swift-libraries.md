@@ -142,6 +142,8 @@
 - [Euclid](https://github.com/nicklockwood/Euclid) - Swift library for creating and manipulating 3D geometry.
 - [MKRingProgressView](https://github.com/maxkonovalov/MKRingProgressView) - Ring progress view similar to Activity app on Apple Watch.
 - [Pusher Channels Swift Client](https://github.com/pusher/pusher-websocket-swift) - Pusher Channels websocket library for Swift.
+- [SwiftGraph](https://github.com/davecom/SwiftGraph) - Graph Data Structure in Pure Swift.
+- [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue) - Generic Priority Queue in Pure Swift.
 
 ## Links
 

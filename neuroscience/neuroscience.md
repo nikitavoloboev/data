@@ -17,6 +17,7 @@
 - [Where can I study neuroscience on my own? (2020)](https://www.reddit.com/r/neuroscience/comments/efi61j/where_can_i_study_neuroscience_on_my_own/)
 - [Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI (2020)](https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI)
 - [NeuroCyto Lab](http://www.neurocytolab.org/) - Want to understand how neurons are organized at the cellular level.
+- [Hidden Computational Power Found in the Arms of Neurons](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/)
 
 ## Images
 

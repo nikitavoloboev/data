@@ -10,3 +10,4 @@
 - [PyTorch pretrained BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN)
 - [StyleGAN2](https://github.com/NVlabs/stylegan2) - Official TensorFlow Implementation.
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/tkarras/progressive_growing_of_gans)
+- [CTGAN](https://github.com/sdv-dev/CTGAN) - Implementation of our NeurIPS paper Modeling Tabular data using Conditional GAN.

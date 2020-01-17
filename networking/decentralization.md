@@ -22,3 +22,4 @@
 - [The ecosystem is moving - Moxie (2019)](https://www.youtube.com/watch?v=Nj3YFprqAr8)
 - [Misskey](https://github.com/syuilo/misskey) - Federated blogging platform.
 - [GUN](https://github.com/amark/gun) - Realtime, decentralized, offline-first, graph protocol to sync the web.
+- [Towards decentralized code collaboration](https://radicle.xyz/towards-decentralized-code-collaboration.html)

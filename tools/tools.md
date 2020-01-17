@@ -188,6 +188,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Tandem](https://tandem.chat/) - Virtual office for remote teams.
 - [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
 - [Doka](https://pqina.nl/doka/) - High-performance JavaScript Image Editing in the Browser.
+- [Manifest](https://www.manifest.app/) - Instant grid-based pinboard for note taking in your browser ([Code](https://github.com/jonathontoon/manifest)).
 
 ## Notes
 

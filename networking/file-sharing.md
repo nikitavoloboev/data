@@ -9,3 +9,4 @@
 - [OnionShare](https://github.com/micahflee/onionshare) - Securely and anonymously send and receive files, and publish onion sites.
 - [Dropbox Transfer](https://www.dropbox.com/transfer)
 - [bita](https://github.com/oll3/bita) - Differential file synchronization over http.
+- [Filestash](https://github.com/mickael-kerjean/filestash) - Modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze.

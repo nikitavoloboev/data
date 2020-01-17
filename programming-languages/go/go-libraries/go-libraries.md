@@ -283,6 +283,7 @@
 - [dotsql](https://github.com/gchaincl/dotsql) - Golang library for using SQL.
 - [Authboss](https://github.com/volatiletech/authboss) - Modular authentication system for the web.
 - [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go.
+- [ClickHouse](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse.
 
 ## Links
 

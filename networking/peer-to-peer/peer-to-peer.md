@@ -24,3 +24,4 @@
 - [Educating the next generation of the peer-to-peer community](https://accessp2p.xyz/)
 - [P2P Peer Discovery (2020)](https://jsantell.com/p2p-peer-discovery)
 - [Ouroboros](https://ouroboros.rocks/) - Decentralized packet networking rebuilt from the ground up. ([HN](https://news.ycombinator.com/item?id=22052416))
+- [Radicle](https://radicle.xyz/) - Secure peer-to-peer code collaboration without intermediaries.
