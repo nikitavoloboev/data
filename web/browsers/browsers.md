@@ -21,3 +21,4 @@
 - [The whole web at maximum FPS: How WebRender gets rid of jank (2017)](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
 - [Things you can do with a browser in 2020](https://github.com/luruke/browser-2020#readme)
 - [Karmatic](https://github.com/developit/karmatic) - Easy automatic (headless) browser testing. Powered by Karma, Webpack & Jasmine.
+- [n.eko](https://github.com/nurdism/neko) - Self hosted virtual browser (rabb.it clone) that runs in docker.

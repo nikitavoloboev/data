@@ -23,3 +23,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [Regexes vs Combinatorial Parsing (2019)](http://khanlou.com/2019/12/regex-vs-combinatorial-parsing/)
 - [RegExr](https://regexr.com/) - Learn, Build & Test RegEx.
 - [regexgen](https://npm.runkit.com/regexgen) - Generate regular expressions that match a set of strings. ([Code](https://github.com/devongovett/regexgen))
+- [Regular Expressions - Computerphile (2020)](https://www.youtube.com/watch?v=528Jc3q86F8)

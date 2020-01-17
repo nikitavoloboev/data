@@ -283,6 +283,7 @@
 - [Languages](languages/languages.md)
   - [English](languages/english/english.md)
   - [Russian](languages/russian.md)
+  - [Chinese](languages/chinese.md)
   - [Internationalization](languages/internationalization.md)
 - [Text editors](text-editors/text-editors.md)
   - [VS Code](text-editors/vs-code/vs-code.md)

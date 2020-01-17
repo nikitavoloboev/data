@@ -48,3 +48,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [A programming language by Kenneth E. Iverson book (1962)](http://www.softwarepreservation.org/projects/apl/Books/APROGRAMMING%20LANGUAGE)
 - [Factor](https://factorcode.org/) - Practical stack language. ([HN](https://news.ycombinator.com/item?id=22053857))
 - [Factor: a dynamic stack-based programming language paper](https://factorcode.org/slava/dls.pdf)
+- [Quine](https://rosettacode.org/wiki/Quine) - Self-referential program that can, without any external access, output its own source.

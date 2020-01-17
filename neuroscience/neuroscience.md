@@ -18,6 +18,7 @@
 - [Dopamine and temporal difference learning: A fruitful relationship between neuroscience and AI (2020)](https://deepmind.com/blog/article/Dopamine-and-temporal-difference-learning-A-fruitful-relationship-between-neuroscience-and-AI)
 - [NeuroCyto Lab](http://www.neurocytolab.org/) - Want to understand how neurons are organized at the cellular level.
 - [Hidden Computational Power Found in the Arms of Neurons](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/)
+- [An algorithm that learns through rewards may show how our brain does too (2020)](https://www.technologyreview.com/s/615054/deepmind-ai-reiforcement-learning-reveals-dopamine-neurons-in-brain/) ([HN](https://news.ycombinator.com/item?id=22065761))
 
 ## Images
 

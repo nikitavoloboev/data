@@ -5,6 +5,7 @@ I love software and non software tools that help me in some way. Most tools I us
 ## Other
 
 - [Loom](https://www.loom.com/) - Most effective way to get your message across, no matter where you work.
+- [Lark](https://www.larksuite.com/) - Simplest way to create and collaborate.
 - [Ryeboard](https://www.ryeboard.com/) - Ultimate visual workspace.
 - [Navigator](https://navigator.com/) - Makes meetings feel like the best part of work: focused, purposeful and energizing.
 - [Astuto](https://github.com/riggraz/astuto) - Free, open source, self-hosted customer feedback tool.
@@ -189,6 +190,8 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
 - [Doka](https://pqina.nl/doka/) - High-performance JavaScript Image Editing in the Browser.
 - [Manifest](https://www.manifest.app/) - Instant grid-based pinboard for note taking in your browser ([Code](https://github.com/jonathontoon/manifest)).
+- [Klarity](https://www.klaritylaw.com/) - Automatic review and mark-up of third party contracts.
+- [AssemblyAI](https://www.assemblyai.com/) - Speech-to-Text you can count on.
 
 ## Notes
 
