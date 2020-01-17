@@ -6,6 +6,8 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 
 ## Favorite artists
 
+- [Darek Zabrocki](https://www.darekzabrocki.com/)
+- [Joanna Karpowicz](https://joannakarpowicz.pl/)
 - [James R. Eads](http://www.jamesreads.com/art)
 - [Z.W. Gu](https://www.artstation.com/guweiz)
 - [Leland K Foster](http://www.lelandkfoster.com/)
@@ -33,12 +35,12 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Marc Edwards](https://dribbble.com/bjango) - Developer of iStats Menu for mac.
 - [Malik Thomas](http://malikthomas.co.uk/)
 - [Alexander Käßner](http://www.alexkaessner.de/) - Amazing logos.
-- [Darek Zabrocki](https://www.darekzabrocki.com/)
 
 ## Interesting artists
 
 - [Ben Kovach](https://www.benkovach.art/)
 - [Karolis Strautniekas](https://www.instagram.com/strautniekas/)
+- [Owen D. Pomery](https://owenpomery.com/work)
 - [Shusei Nagaoka](https://twitter.com/UrbanFoxxxx/status/1217915945882202112)
 - [Harriet Lee-Merrion](https://www.harrietleemerrion.com/)
 - [Bastien Grivet](https://www.artstation.com/grivetart)
@@ -78,6 +80,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Reuben Wu](https://www.instagram.com/itsreuben/)
 - [6vcr](http://6vcr.com/portfolio)
 - [Liam Cobb](https://liamcobb.tumblr.com/)
+- [Deborah Lee](https://www.instagram.com/jdebbiel/)
 
 ## Interesting art
 

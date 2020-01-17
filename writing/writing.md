@@ -121,3 +121,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Notes on Technical Writing (2020)](https://mkaz.blog/misc/notes-on-technical-writing/) ([HN](https://news.ycombinator.com/item?id=21955306))
 - [Why I Keep a Research Blog (2020)](http://gregorygundersen.com/blog/2020/01/12/why-research-blog/) - Writing has made me a better thinker and researcher. I expand on my reasons why. ([HN](https://news.ycombinator.com/item?id=22033792))
 - [Epistemic statuses are lazy, and that is a good thing (2018)](https://devonzuegel.com/post/epistemic-statuses-are-lazy-and-that-is-a-good-thing)
+- [It's time to start writing](https://alexnixon.github.io/2019/12/10/writing.html) ([Lobsters](https://lobste.rs/s/frjnbb/it_s_time_start_writing))

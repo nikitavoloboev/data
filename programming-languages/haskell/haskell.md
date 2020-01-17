@@ -113,3 +113,4 @@
 - [Design Patterns in Haskell (2010)](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
 - [Courting Haskell (2020)](https://honzajavorek.cz/blog/courting-haskell)
 - [Programming in Haskell book](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
+- [Static types are dangerously interesting](https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html) ([Lobsters](https://lobste.rs/s/6gzmym/static_types_are_dangerously))

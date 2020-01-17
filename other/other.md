@@ -86,3 +86,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Products I Wish Existed, 2020 Edition](http://blog.eladgil.com/2020/01/products-i-wish-existed-2020-edition.html) ([HN](https://news.ycombinator.com/item?id=21969774))
 - [Amazing Developers On YouTube](https://github.com/ErikCH/DevYouTubeList#readme)
 - [Unofficial Apple Archive](https://www.applearchive.org/) ([HN](https://news.ycombinator.com/item?id=22066177))
+- [Stuff I learnt in 2019](http://bollu.github.io/#stuff-i-learnt-in-2019) ([HN](https://news.ycombinator.com/item?id=21884543))

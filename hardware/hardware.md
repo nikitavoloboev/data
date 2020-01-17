@@ -21,3 +21,4 @@
 - [Everything I know about SSDs (2019)](http://kcall.co.uk/ssd/index.html) - Solid State Devices using NAND Flash, how they differ from Hard Drives, and how they affect file deletion and recovery. ([HN](https://news.ycombinator.com/item?id=22054600))
 - [CRAY-1 Computer System: Hardware Reference Manual (1977)](http://www.ed-thelen.org/comp-hist/CRAY-1-HardRefMan/CRAY-1-HRM.html)
 - [Cerebras CS-1](https://www.cerebras.net/product/) - Built from the ground up to accelerate deep learning in the data center.
+- [MIT 6.004: Computation Structures course](https://6004.mit.edu/web/fall19/resources/lectures) ([HN](https://news.ycombinator.com/item?id=22056567))
