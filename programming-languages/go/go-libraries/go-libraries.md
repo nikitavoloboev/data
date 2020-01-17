@@ -52,7 +52,7 @@
 
 - [go-flags](https://github.com/jessevdk/go-flags) - Provides an extensive command line option parser.
 
-## Database
+## DB
 
 - [db](https://github.com/upper/db) - Productive data access layer for Go.
 - [Gorm](https://github.com/jinzhu/gorm) - Fantastic ORM library for Golang, aims to be developer friendly.
@@ -60,6 +60,7 @@
 - [zoom](https://github.com/albrow/zoom) - Blazing-fast datastore and querying engine for Go built on Redis.
 - [bolter](https://github.com/hasit/bolter) - View BoltDB file in your terminal.
 - [pg_query_go](https://github.com/lfittl/pg_query_go) - Go library to parse and normalize SQL queries using the PostgreSQL query parser.
+- [SQLBoiler](https://github.com/volatiletech/sqlboiler) - Tool to generate a Go ORM tailored to your database schema.
 
 ## ML
 
@@ -280,6 +281,7 @@
 - [deep](https://github.com/go-test/deep) - Golang deep variable equality test that returns human-readable differences.
 - [goleak](https://github.com/uber-go/goleak) - Goroutine leak detector.
 - [dotsql](https://github.com/gchaincl/dotsql) - Golang library for using SQL.
+- [Authboss](https://github.com/volatiletech/authboss) - Modular authentication system for the web.
 
 ## Links
 
