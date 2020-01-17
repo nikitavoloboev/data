@@ -135,3 +135,5 @@
 - [Rust Database Connectivity (RDBC) (2020)](https://andygrove.io/2020/01/rust-database-connectivity-rdbc/) ([HN](https://news.ycombinator.com/item?id=22027134))
 - [Rust: Unlocking Systems Programming (2016)](https://www.infoq.com/presentations/rust-thread-safety/)
 - [Hello Rust](https://hello-rust.show/) - Lighthearted live-programming channel about my journey to become a fearless, more effective Rust programmer.
+- [Introduction to Rust (for people who have never used a compiler)" - Tim McNamara (2020)](https://www.youtube.com/watch?v=jiBYfpf_M4c)
+- [Rust in Action book (2020)](https://www.manning.com/books/rust-in-action?a_aid=rust&a_bid=0367c58f&chan=www)

@@ -83,3 +83,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-toolbelt](https://github.com/nvie/git-toolbelt) - Suite of useful Git commands that aid with scripting or every day command line usage.
 - [git-series](https://github.com/git-series/git-series) - Track changes to a patch series over time.
 - [Moving a Git Repository into Its Submodule (2020)](https://pspdfkit.com/blog/2020/moving-a-git-repository-into-its-submodule/)
+- [Ignoring bulk change commits with git blame (2019)](https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame)

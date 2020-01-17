@@ -21,3 +21,4 @@
 - [Fey](https://www.feyapp.com/) - Gives you the complete picture of your portfolio, with fast data entry, always-on risk analysis and more.
 - [Top companies by market cap](https://finviz.com/screener.ashx?o=-marketcap)
 - [FINVIZ](https://finviz.com/) - Financial visualizations.
+- [How to start angel investing (2020)](https://medium.com/@juliadewahl/how-to-start-angel-investing-8f2eb779e96f)
