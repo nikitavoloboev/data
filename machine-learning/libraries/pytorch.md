@@ -68,3 +68,4 @@
 - [OpenProtein](https://github.com/biolib/openprotein) - PyTorch framework for tertiary protein structure prediction.
 - [GPyTorch](https://github.com/cornellius-gp/gpytorch) - Highly efficient and modular implementation of Gaussian Processes in PyTorch. ([Docs](https://gpytorch.readthedocs.io/en/latest/index.html))
 - [Memory-efficient implementation of DenseNets](https://github.com/gpleiss/efficient_densenet_pytorch)
+- [PyTorch Toolbelt](https://github.com/BloodAxe/pytorch-toolbelt) - PyTorch extensions for fast R&D prototyping and Kaggle farming.

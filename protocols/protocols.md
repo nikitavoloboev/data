@@ -1,3 +1,5 @@
 # Protocols
 
-Currently exploring [Matrix](matrix/matrix.md).
+## Links
+
+- [Open Standards](http://www.open-std.org/)

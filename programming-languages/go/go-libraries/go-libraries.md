@@ -61,6 +61,7 @@
 - [bolter](https://github.com/hasit/bolter) - View BoltDB file in your terminal.
 - [pg_query_go](https://github.com/lfittl/pg_query_go) - Go library to parse and normalize SQL queries using the PostgreSQL query parser.
 - [SQLBoiler](https://github.com/volatiletech/sqlboiler) - Tool to generate a Go ORM tailored to your database schema.
+- [sqlmw](https://github.com/ngrok/sqlmw) - Provides an absurdly simple API that allows a caller to wrap a database/sql driver with middleware.
 
 ## ML
 
@@ -291,6 +292,7 @@
 - [go-resiliency](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang.
 - [Event Horizon](https://github.com/looplab/eventhorizon) - CQRS/ES toolkit for Go.
 - [FSM](https://github.com/looplab/fsm) - Finite state machine for Go.
+- [Gonetics](https://github.com/pbenner/gonetics) - Go Bioinformatics Library.
 
 ## Links
 
