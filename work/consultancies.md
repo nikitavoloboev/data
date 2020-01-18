@@ -54,3 +54,4 @@
 - [Ask HN: What mistakes did you make when starting as a consultant/freelancer? (2019)](https://news.ycombinator.com/item?id=21728436)
 - [Hourly Billing Is OK (2018)](https://peterlyons.com/problog/2018/01/hourly-billing-is-ok/)
 - [Lessons from Six Years as a Solo Consultant (2019)](https://www.embeddeduse.com/2019/06/26/lessons-from-six-years-as-a-solo-consultant/) ([HN](https://news.ycombinator.com/item?id=21954581))
+- [Client](https://www.toclient.com/) - Simplified requirement collection for freelancers and agencies. Say goodbye to boring contact forms, emails and unproductive first calls.

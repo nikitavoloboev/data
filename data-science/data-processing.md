@@ -10,3 +10,4 @@
 - [Differential Dataflow](https://github.com/TimelyDataflow/differential-dataflow) - Implementation of differential dataflow using timely dataflow on Rust.
 - [The Log: What every software engineer should know about real-time data's unifying abstraction (2013)](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 - [Luna](https://luna-lang.org/index.html#Overview) - Data processing and visualization environment built on a principle that people need an immediate connection to what they are building.
+- [Guide To The Data Lake — Modern Batch Data Warehousing (2020)](https://towardsdatascience.com/a-guide-to-modern-batch-data-warehousing-extraction-f63bfa6ef878)
