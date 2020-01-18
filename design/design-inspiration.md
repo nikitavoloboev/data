@@ -19,6 +19,7 @@ Here are few more things I liked, design wise.
 ## Blogs
 
 - [Majid](https://swiftwithmajid.com/)
+- [Kyle Mathews](https://www.bricolage.io/blog/)
 - [Actual Budget](https://actualbudget.com/blog/)
 - [Seph](https://josephg.com/blog/)
 - [defn.io](https://defn.io/)
