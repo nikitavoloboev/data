@@ -157,3 +157,4 @@ Go promotes composition over inheritance.
 - [JSON to Go](https://mholt.github.io/json-to-go/) - Convert JSON to Go struct. ([Code](https://github.com/mholt/json-to-go))
 - [The await/async concurrency pattern in Golang (2020)](https://madeddu.xyz/posts/go-async-await/)
 - [Exposing interfaces in Go (2019)](https://www.efekarakus.com/golang/2019/12/29/working-with-interfaces-in-go.html)
+- [Go Error Handling — Best Practice in 2020](https://itnext.io/golang-error-handling-best-practice-a36f47b0b94c)
