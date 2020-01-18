@@ -21,3 +21,4 @@
 - [Structurizr](https://structurizr.com/) - Software architecture documentation hub.
 - [Ask HN: Are there any openly available software architecture documents? (2020)](https://news.ycombinator.com/item?id=22011743)
 - [Depending Less on Structure (2019)](https://lmatteis.github.io/depending-less-on-structure/)
+- [Zero trust architecture design principles](https://github.com/ukncsc/zero-trust-architecture#readme)
