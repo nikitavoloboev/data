@@ -27,3 +27,4 @@ I try to give my full attention to any ideas I am working on.
 - [John Carmack on Idea Generation (2016)](https://amasad.me/carmack)
 - [Mike’s System for Ideas (2020)](https://thesweetsetup.com/mikes-system-for-ideas-part-1/)
 - [Startup Ideas 2020](https://dcgross.com/2020-startup-themes/?src=t) ([HN](https://news.ycombinator.com/item?id=22076787))
+- [Muse: designing a studio for ideas (2019)](https://www.inkandswitch.com/muse-studio-for-ideas.html)

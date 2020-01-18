@@ -32,3 +32,4 @@
 - [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) - Free Jupyter notebook environment that requires no setup and runs entirely in the cloud.
 - [Variable Inspector extension for JupyterLab](https://github.com/lckr/jupyterlab-variableInspector)
 - [pyforest](https://github.com/8080labs/pyforest) - Lazy-imports all popular Python Data Science libraries so that they are always there when you need them.
+- [Livebook](https://github.com/inkandswitch/livebook) - IPython notebook-compatible live coding experiment. ([Demo](https://www.youtube.com/watch?v=hznPSDDF4Jk))

@@ -40,3 +40,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Privatar](https://www.privitar.com/) - Unlock the advantage of data-driven insights while ensuring data privacy.
 - [How China Tracks Everyone | VICE on HBO (2019)](https://www.youtube.com/watch?v=CLo3e1Pak-Y)
 - [Cutting Google out of your life](https://github.com/tycrek/degoogle#readme)
+- [Local-first software](https://www.inkandswitch.com/local-first.html) - You own your data, in spite of the cloud.

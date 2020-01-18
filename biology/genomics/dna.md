@@ -15,3 +15,4 @@
 - [The structure of DNA (2019)](https://www.nature.com/articles/d41586-019-02554-z)
 - [DIY Bacterial Gene Engineering CRISPR Kit](http://www.the-odin.com/diy-crispr-kit/)
 - [seqviz](https://github.com/Lattice-Automation/seqviz) - Framework agnostic DNA viewer for sequences or files (gb, fasta, etc) with auto-feature annotation.
+- [STRBase](https://strbase.nist.gov/) - Short Tandem Repeat DNA Internet DataBase.
