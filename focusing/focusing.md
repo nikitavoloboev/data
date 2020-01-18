@@ -18,11 +18,11 @@ I use 2Do's recurring scheduled tasks as a way to remember to complete my day/we
 
 I also use 2Do to keep track of my bigger goals in life.
 
-I [schedule events](../macOS/apps/fantastical.md) in my calendar and plan the day/week in context of my goals & priorities.
+I [schedule events](../macOS/apps/fantastical.md) in my calendar and plan the day/week in context of my tasks & priorities.
 
 I try to limit the scope and number of projects I am working on at any given time to a minimum and give all my mental energy into completing each project to the best of quality.
 
-I [use & build tools](../sharing/my-workflow.md) to make this process of achieving goals & tasks as smooth as it can be.
+I [use & build tools](../sharing/my-workflow.md) to make the process of completing my tasks as smooth as it can be.
 
 ## Focus sessions
 

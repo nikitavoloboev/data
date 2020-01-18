@@ -3,7 +3,7 @@
 ## Life
 
 - [Make](../ideas/ideas.md). [Learn](../sharing/everything-I-know.md). [Write](../sharing/my-articles.md). [Design](../design/design.md). [Share](../sharing/sharing.md).
-- Set [goals/tasks](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Focus.
+- Set [tasks](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Focus.
 - One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. Be calm.
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document.
 - [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials.

@@ -213,3 +213,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Dev.to tech/tools used](https://docs.dev.to/technical-overview/)
 - [Lobsters: What software do you use daily? (2019)](https://lobste.rs/s/j7tc67/what_software_do_you_use_daily)
 - [Product Hunt Golden Kitty Awards 2019](https://www.producthunt.com/golden-kitty-awards-2019)
+- [No Code List](https://nocodelist.co/)
