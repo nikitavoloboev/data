@@ -148,3 +148,4 @@
 - [Spars](https://github.com/TimvanScherpenzeel/spars) - General toolkit for creating interactive web experiences.
 - [NeuroJS](https://github.com/janhuenermann/neurojs) - JavaScript deep learning and reinforcement learning library.
 - [Hareactive](https://github.com/funkia/hareactive) - Purely functional reactive programming library.
+- [Mirage JS](https://github.com/miragejs/miragejs) - Client-side server to develop, test and prototype your JavaScript app.

@@ -28,3 +28,5 @@
 - [Arm Mbed OS](https://www.mbed.com/en/platform/mbed-os/) - Free, open-source embedded operating system designed specifically for the "things" in the Internet of Things.
 - [Edge Impulse](https://www.edgeimpulse.com/) - Enables developers to create the next generation of intelligent device solutions with embedded Machine Learning.
 - [ESP8266 series chips](http://esp8266.net/) - system-on-chip (SoC) which integrates a 32-bit Tensilica microcontroller, standard digital peripheral interfaces, antenna switches, RF balun & more.
+- [Packet Broker](https://www.packetbroker.org/) - Neutral and open Internet of Things packet broker allowing IoT operators to interoperate according to the open principles of the internet. ([Client](https://github.com/packetbroker/pb)) ([Go API](https://github.com/packetbroker/go-api)) ([API](https://github.com/packetbroker/api))
+- [IoT Device examples (2020)](https://www.reddit.com/r/IOT/comments/encwbz/cool_iot_devices/)
