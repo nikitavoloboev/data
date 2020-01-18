@@ -67,3 +67,7 @@
 - [Language Identification from Very Short Strings (2019)](https://machinelearning.apple.com/2019/07/24/language-identification-from-very-short-strings.html)
 - [SentenceRepresentation](https://github.com/fh295/SentenceRepresentation) - Code acompanies the paper 'Learning Sentence Representations from Unlabelled Data' Felix Hill, KyungHyun Cho and Anna Korhonen 2016.
 - [Deep Learning for Language Processing course](https://fh295.github.io/teaching.html)
+- [Megatron LM](https://github.com/NVIDIA/Megatron-LM) - Ongoing research training transformer language models at scale, including: BERT & GPT-2.
+- [XLNet](https://github.com/zihangdai/xlnet) - New unsupervised language representation learning method based on a novel generalized permutation language modeling objective.
+- [ALBERT](https://github.com/google-research/ALBERT) - Lite BERT for Self-supervised Learning of Language Representations.
+- [BERT](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT.
