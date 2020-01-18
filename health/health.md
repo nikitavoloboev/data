@@ -4,7 +4,7 @@ I try to maximize my [happiness](../life/happiness.md) and quality of life throu
 
 Here are some things I am trying to improve with my health right now.
 
-- [Nutrition](nutrition/nutrition.md) - I drink a [smoothie every morning](../health/nutrition/recipes.md), eat a whole food plant based diet and take [few supplements](nutrition/supplements.md).
+- [Nutrition](nutrition/nutrition.md) - I eat a whole food plant based diet and take [few supplements](nutrition/supplements.md).
 - [Mindfulness](../mindfulness/mindfulness.md) - Stress [shortens telomeres](https://www.ncbi.nlm.nih.gov/pubmed/12114022). Practicing [mindfulness](../mindfulness/mindfulness.md) helps greatly in maintaining a healthy and stress free outlook on life.
 - [Proper sleep](../sleep/sleep.md) - I try go to sleep at ~ 23:00 and wake up without alarm getting as much sleep as my body needs.
 - [Exercise](../fitness/fitness.md) - I start every morning with some exercise.
