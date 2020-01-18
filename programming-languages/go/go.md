@@ -160,3 +160,4 @@ Go promotes composition over inheritance.
 - [Go Error Handling — Best Practice in 2020](https://itnext.io/golang-error-handling-best-practice-a36f47b0b94c)
 - [An Introduction To Concurrency In Go (2020)](https://seancarpenter.io/posts/concurrency_in_go/)
 - [Concurrency in Go book (2017)](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
+- [PubSub using channels in Go (2020)](https://eli.thegreenplace.net/2020/pubsub-using-channels-in-go/)
