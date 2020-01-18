@@ -122,3 +122,5 @@
 - [Sampling bias, FDR, and The State of JS (2020)](https://davidea.st/articles/sampling-bias-fdr-state-of-js)
 - [JavaScript Visualized: Generators and Iterators (2020)](https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36)
 - [jsep](https://github.com/soney/jsep) - JavaScript Expression Parser.
+- [JS Tips & Tidbits](https://github.com/nas5w/javascript-tips-and-tidbits#readme)
+- [I have been underestimating JS (2020)](https://adlrocha.substack.com/p/adlrocha-i-have-been-underestimating) - Understanding V8 and NodeJS Steams.
