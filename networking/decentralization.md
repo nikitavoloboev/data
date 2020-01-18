@@ -23,3 +23,6 @@
 - [Misskey](https://github.com/syuilo/misskey) - Federated blogging platform.
 - [GUN](https://github.com/amark/gun) - Realtime, decentralized, offline-first, graph protocol to sync the web.
 - [Towards decentralized code collaboration](https://radicle.xyz/towards-decentralized-code-collaboration.html)
+- [SAFE Network Primer](https://primer.safenetwork.org/) - Introductory guide to the world's first fully autonomous data and communications network.
+- [cjdns](https://github.com/cjdelisle/cjdns) - Encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.
+- [Yggdrasil](https://yggdrasil-network.github.io/) - Early-stage implementation of a fully end-to-end encrypted IPv6 network.
