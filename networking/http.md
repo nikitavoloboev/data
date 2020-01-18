@@ -32,3 +32,5 @@
 - [Cassowary](https://github.com/rogerwelin/cassowary) - Modern cross-platform HTTP load-testing tool written in Go.
 - [TwitterServer](https://github.com/twitter/twitter-server) - Defines a template from which services at Twitter are built.
 - [curl HTTP cheat sheet](https://curl.github.io/curl-cheat-sheet/http-sheet.html)
+- [Big list of http static server one-liners](https://gist.github.com/willurd/5720255) ([HN](https://news.ycombinator.com/item?id=22082585))
+- [miniserve](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP.
