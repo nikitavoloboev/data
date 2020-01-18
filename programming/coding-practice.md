@@ -19,15 +19,17 @@
 
 ## LeetCode solutions
 
-- [In Go](https://github.com/halfrost/LeetCode-Go)
-- [In Python / C++ 11](https://github.com/kamyu104/LeetCode) - Many solutions.
-- [In C](https://github.com/begeekmyfriend/leetCode)
-- [In Swift](https://github.com/soapyigu/LeetCode-Swift)
+- [Go](https://github.com/halfrost/LeetCode-Go)
+- [Python / C++ 11](https://github.com/kamyu104/LeetCode) - Many solutions.
+- [Python](https://github.com/davidnsun/leetcode-py)
+- [C](https://github.com/begeekmyfriend/leetCode)
+- [Swift](https://github.com/soapyigu/LeetCode-Swift)
 - [Solve LeetCode problems in VS Code](https://github.com/jdneo/vscode-leetcode)
 
 ## Project Euler solutions
 
-- [Python 3](https://github.com/datamine/project-euler)
+- [Python](https://github.com/datamine/project-euler)
+- [Python](https://github.com/davidnsun/project-euler-py)
 - [Haskell](https://github.com/yfeldblum/haskell-euler)
 - [Python, Haskell](https://github.com/zacharydenton/euler)
 

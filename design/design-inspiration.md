@@ -23,6 +23,7 @@ Here are few more things I liked, design wise.
 - [Seph](https://josephg.com/blog/)
 - [defn.io](https://defn.io/)
 - [Naval](https://nav.al/)
+- [Joe Groff](http://duriansoftware.com/joe/)
 
 ## Products
 
