@@ -129,3 +129,4 @@
 - [KubeNix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using nix.
 - [Postgres Operator](https://github.com/zalando/postgres-operator) - Creates and manages PostgreSQL clusters running in Kubernetes.
 - [Cortex](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
+- [Contour](https://github.com/projectcontour/contour) - Kubernetes ingress controller using Lyft's Envoy proxy.

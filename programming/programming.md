@@ -117,3 +117,5 @@
 - [Simplicity isn't simple (2015)](https://fishbowl.pastiche.org/2015/04/02/simplicity_isnt_simple) ([Lobsters](https://lobste.rs/s/sddw4g/simplicity_isn_t_simple))
 - [End-user programming (2019)](https://www.inkandswitch.com/end-user-programming.html)
 - [Slow Software (2018)](https://www.inkandswitch.com/slow-software.html)
+- [Noweb](https://www.cs.tufts.edu/~nr/noweb/) - Simple, Extensible Tool for Literate Programming.
+- [verso](https://github.com/nickpascucci/verso) - New approach to literate programming.
