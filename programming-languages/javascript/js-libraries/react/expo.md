@@ -1,5 +1,9 @@
 # [Expo](https://expo.io/)
 
+## Example OSS apps
+
+- [Netflix Clone](https://github.com/calebnance/expo-netflix) - Expo / react native || web support.
+
 ## Links
 
 - [Build it Once with Expo for Web - Evan Bacon (2019)](https://www.youtube.com/watch?v=ykBxY01j_rA)
