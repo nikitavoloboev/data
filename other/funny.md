@@ -23,3 +23,4 @@ Some things I found funny.
 - [How to exit vim](https://github.com/hakluke/how-to-exit-vim)
 - [The Evolution of a Software Engineer](https://medium.com/@webseanhickey/the-evolution-of-a-software-engineer-db854689243)
 - [Typical LSD posts](https://www.reddit.com/r/LSD/comments/en1jw9/found_this_gem_on_tiktok_and_thought_i_would/)
+- [science diagrams that look like shitposts](https://twitter.com/FizzyKai_/status/1217550609160773633)
