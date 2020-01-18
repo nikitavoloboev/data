@@ -36,3 +36,4 @@
 - [SwiftUIEmbedded](https://github.com/Cosmo/SwiftUIEmbedded) - Implementation of SwiftUI (based on OpenSwiftUI) for embedded and Linux devices.
 - [Build A Networking Client in SwiftUI](https://github.com/gtokman/SwiftUI-Networking)
 - [WebView](https://github.com/kylehickinson/SwiftUI-WebView) - SwiftUI component to use WKWebView.
+- [DeLong ◇ SwiftUI ◇ presentation (2020)](https://www.youtube.com/watch?v=APxrtnxRzwI)
