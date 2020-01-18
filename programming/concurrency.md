@@ -15,3 +15,4 @@ Concurrency is the composition of independently executing computations.
 - [Lock-free programming for the masses (2016)](http://kcsrk.info/ocaml/multicore/2016/06/11/lock-free/)
 - [CspExamples.jl](https://github.com/NHDaly/CspExamples.jl) - Julia implementations for the Example problems in Hoare's 1978 paper, "Communicating Sequential Processes".
 - [I'm not feeling the async pressure (2020)](https://lucumr.pocoo.org/2020/1/1/async-pressure/) ([Lobsters](https://lobste.rs/s/xylmdn/i_m_not_feeling_async_pressure))
+- [A (brief) retrospective on transactional memory (2010)](http://joeduffyblog.com/2010/01/03/a-brief-retrospective-on-transactional-memory/)

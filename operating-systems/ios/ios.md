@@ -8,6 +8,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 
 - [Spotify Daily](https://github.com/ThasianX/SpotifyDaily) - Open-Source Spotify App. ([HN](https://news.ycombinator.com/item?id=21867728))
 - [EVOlution](https://github.com/Evolution-App/iOS) - Unofficial app for Swift Evolution.
+- [Telegram](https://github.com/TelegramMessenger/Telegram-iOS)
 
 ## Notes
 
