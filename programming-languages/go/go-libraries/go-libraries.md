@@ -207,7 +207,7 @@
 - [nosurf](https://github.com/justinas/nosurf) - HTTP package for Go that helps you prevent Cross-Site Request Forgery attacks.
 - [jit](https://github.com/xyproto/jit) - Go module for executing machine code directly.
 - [Ristretto](https://github.com/dgraph-io/ristretto) - High performance memory-bound Go cache.
-- [Watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications easy way in Go.
+- [Watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications easy way in Go. ([CQRS implementation in Watermill](https://watermill.io/docs/cqrs/))
 - [Aero](https://github.com/aerogo/aero) - High-performance web server for Go.
 - [rain](https://github.com/cenkalti/rain) - BitTorrent client and library in Go.
 - [go-sqlite-lite](https://github.com/bvinc/go-sqlite-lite) - SQLite driver for the Go programming language.
@@ -289,6 +289,8 @@
 - [go-zero-width](https://github.com/trubitsyn/go-zero-width) - Zero-width character detection and removal for Go.
 - [Automi](https://github.com/vladimirvivien/automi) - Stream processing API for Go.
 - [go-resiliency](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang.
+- [Event Horizon](https://github.com/looplab/eventhorizon) - CQRS/ES toolkit for Go.
+- [FSM](https://github.com/looplab/fsm) - Finite state machine for Go.
 
 ## Links
 
