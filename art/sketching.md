@@ -5,3 +5,4 @@ I'm learning to make sketches as notes similar to [this](https://twitter.com/_lr
 ## Links
 
 - [Irina Shestak's sketches](https://github.com/lrlna/sketchin#readme)
+- [Sketching and Logo Creation (with Maggie Appleton) (2019)](https://www.youtube.com/watch?v=4mrrNAjiTvk)

@@ -8,7 +8,7 @@ I have a `Save` pot that has a goal of 3000 pounds. The 3000 pound is the minimu
 
 I use [YNAB methodology](https://www.youneedabudget.com/method/) to proactively budget my finances. Monzo provides nice tools to budget money I want to spend by category.
 
-Each transaction made with Monzo is automatically sorted into a category by the app. If that category is wrong, I correct it in the app.
+Each transaction made with Monzo is automatically sorted into a category by the app.
 
 I also use [N26](https://n26.com/en-gb/) bank in cases where I need Maestro card as Monzo only has MasterCard.
 
