@@ -287,6 +287,8 @@
 - [concurrent-map](https://github.com/orcaman/concurrent-map) - Thread-safe concurrent map for go.
 - [GoJSONQ](https://github.com/thedevsaddam/gojsonq) - Simple Go package to Query over JSON/YAML/XML/CSV Data.
 - [go-zero-width](https://github.com/trubitsyn/go-zero-width) - Zero-width character detection and removal for Go.
+- [Automi](https://github.com/vladimirvivien/automi) - Stream processing API for Go.
+- [go-resiliency](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang.
 
 ## Links
 

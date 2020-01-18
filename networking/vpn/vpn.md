@@ -19,3 +19,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin.
 - [Passepartout](https://github.com/passepartoutvpn/passepartout-ios) - User-friendly OpenVPN client app for iOS.
 - [Algo VPN](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud.
+- [RadVPN](https://github.com/mehrdadrad/radvpn) - Decentralized VPN.
