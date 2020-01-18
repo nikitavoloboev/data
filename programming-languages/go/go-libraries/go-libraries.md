@@ -284,6 +284,7 @@
 - [Authboss](https://github.com/volatiletech/authboss) - Modular authentication system for the web.
 - [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go.
 - [ClickHouse](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse.
+- [concurrent-map](https://github.com/orcaman/concurrent-map) - Thread-safe concurrent map for go.
 
 ## Links
 

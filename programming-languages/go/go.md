@@ -158,3 +158,5 @@ Go promotes composition over inheritance.
 - [The await/async concurrency pattern in Golang (2020)](https://madeddu.xyz/posts/go-async-await/)
 - [Exposing interfaces in Go (2019)](https://www.efekarakus.com/golang/2019/12/29/working-with-interfaces-in-go.html)
 - [Go Error Handling — Best Practice in 2020](https://itnext.io/golang-error-handling-best-practice-a36f47b0b94c)
+- [An Introduction To Concurrency In Go (2020)](https://seancarpenter.io/posts/concurrency_in_go/)
+- [Concurrency in Go book (2017)](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/)
