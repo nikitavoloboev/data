@@ -41,6 +41,7 @@ Here are few more things I liked, design wise.
 - [Joel Hooks](https://joelhooks.com/)
 - [Brian Lovin](https://brianlovin.com/)
 - [Tania Rascia](https://www.taniarascia.com/) ([Code](https://github.com/taniarascia/taniarascia.com))
+- [Surma](https://dassur.ma/)
 - [Alain](https://alain.xyz/)
 - [Ryan McGrath](https://rymc.io/)
 - [Paul Stamatiou](https://paulstamatiou.com/)

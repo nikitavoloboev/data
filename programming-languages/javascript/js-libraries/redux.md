@@ -54,3 +54,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Idiomatic Redux](https://blog.isquaredsoftware.com/series/idiomatic-redux/)
 - [Is redux really a good idea? (2020)](https://www.reddit.com/r/reactjs/comments/epxavs/is_redux_really_a_good_idea/)
 - [How To Not Have A Mess with React Hooks & Redux (2020)](https://orizens.com/blog/how-to-not-have-a-mess-with-react-hooks-and-redux/)
+- [React + Redux + Comlink = Off-main-thread (2019)](https://dassur.ma/things/react-redux-comlink/)
