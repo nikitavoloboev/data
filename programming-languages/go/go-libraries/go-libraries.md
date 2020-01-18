@@ -294,6 +294,7 @@
 - [FSM](https://github.com/looplab/fsm) - Finite state machine for Go.
 - [Gonetics](https://github.com/pbenner/gonetics) - Go Bioinformatics Library.
 - [go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging.
+- [zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger.
 
 ## Links
 

@@ -211,6 +211,8 @@
 - [rio](https://github.com/spacejam/rio) - Pure rust io_uring library, built on libc, thread & async friendly, misuse resistant.
 - [dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 - [Interact](https://github.com/interact-rs/interact) - Framework for friendly online introspection of the running program state in an intuitive command-line interactive way.
+- [faster](https://github.com/AdamNiederer/faster) - SIMD for humans.
+- [rust-crdt](https://github.com/rust-crdt/rust-crdt) - Collection of well-tested, serializable CRDTs for Rust.
 
 ## Cargo Plugins
 

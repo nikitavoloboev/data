@@ -137,3 +137,5 @@
 - [Hello Rust](https://hello-rust.show/) - Lighthearted live-programming channel about my journey to become a fearless, more effective Rust programmer.
 - [Introduction to Rust (for people who have never used a compiler)" - Tim McNamara (2020)](https://www.youtube.com/watch?v=jiBYfpf_M4c)
 - [Rust in Action book (2020)](https://www.manning.com/books/rust-in-action?a_aid=rust&a_bid=0367c58f&chan=www)
+- [How To Write Fast Rust Code (2020)](http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html) ([Reddit](https://www.reddit.com/r/rust/comments/eq168d/how_to_write_fast_rust_code/))
+- [The Soundness Pledge (2020)](https://raphlinus.github.io/rust/2020/01/18/soundness-pledge.html) ([Reddit](https://www.reddit.com/r/rust/comments/eqcefv/the_soundness_pledge/))
