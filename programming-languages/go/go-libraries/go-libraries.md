@@ -285,6 +285,8 @@
 - [kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go.
 - [ClickHouse](https://github.com/ClickHouse/clickhouse-go) - Golang driver for ClickHouse.
 - [concurrent-map](https://github.com/orcaman/concurrent-map) - Thread-safe concurrent map for go.
+- [GoJSONQ](https://github.com/thedevsaddam/gojsonq) - Simple Go package to Query over JSON/YAML/XML/CSV Data.
+- [go-zero-width](https://github.com/trubitsyn/go-zero-width) - Zero-width character detection and removal for Go.
 
 ## Links
 

@@ -35,3 +35,4 @@
 - [Learn SwiftUI for iOS 13 course](https://designcode.io/swiftui2) - Learn how to code custom UIs, animations, gestures and components in Xcode 11.
 - [SwiftUIEmbedded](https://github.com/Cosmo/SwiftUIEmbedded) - Implementation of SwiftUI (based on OpenSwiftUI) for embedded and Linux devices.
 - [Build A Networking Client in SwiftUI](https://github.com/gtokman/SwiftUI-Networking)
+- [WebView](https://github.com/kylehickinson/SwiftUI-WebView) - SwiftUI component to use WKWebView.

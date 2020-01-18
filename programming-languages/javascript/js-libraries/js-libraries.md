@@ -147,3 +147,4 @@
 - [model-viewer](https://github.com/GoogleWebComponents/model-viewer) - Easily display interactive 3D models on the web and in AR.
 - [Spars](https://github.com/TimvanScherpenzeel/spars) - General toolkit for creating interactive web experiences.
 - [NeuroJS](https://github.com/janhuenermann/neurojs) - JavaScript deep learning and reinforcement learning library.
+- [Hareactive](https://github.com/funkia/hareactive) - Purely functional reactive programming library.
