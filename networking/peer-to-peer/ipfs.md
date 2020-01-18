@@ -19,3 +19,4 @@ I especially like the distinction of distributing content over distributing link
 - [go-textile](https://github.com/textileio/go-textile) - Textile implementation in Go.
 - [Textile Docs](https://docs.textile.io/)
 - [IPFS Project Roadmap](https://github.com/ipfs/roadmap#readme)
+- [WebFS](https://github.com/brendoncarroll/webfs) - File system Built On Top of the Web.
