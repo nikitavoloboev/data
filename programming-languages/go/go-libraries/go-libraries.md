@@ -293,6 +293,7 @@
 - [Event Horizon](https://github.com/looplab/eventhorizon) - CQRS/ES toolkit for Go.
 - [FSM](https://github.com/looplab/fsm) - Finite state machine for Go.
 - [Gonetics](https://github.com/pbenner/gonetics) - Go Bioinformatics Library.
+- [go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging.
 
 ## Links
 
