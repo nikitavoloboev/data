@@ -17,6 +17,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [redshirt](https://github.com/tomaka/redshirt) - Experiment to build some kind of operating-system-like environment where executables are all in WASM and are loaded from an IPFS-like decentralized network.
 - [Spectrum](https://spectrum-os.org/) - Step towards usable secure computing.
 - [mikado](https://github.com/cavedweller/mikado) - RISC-V Experimental OS.
+- [mkernel](https://github.com/arjun024/mkernel) - Minimalist kernel which prints "my first kernel" on the screen and then hangs.
 
 ## Links
 
@@ -53,3 +54,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [What are required knowledge in order to build an OS? (2020)](https://www.reddit.com/r/osdev/comments/egzwa0/what_are_required_knowledge_in_order_to_build_an/)
 - [Krabs](https://github.com/ellbrid/krabs) - x86 bootloader written in Rust.
 - [oreboot](https://github.com/oreboot/oreboot) - Fork of coreboot, with C removed, written in Rust.
+- [Xv6](https://pdos.csail.mit.edu/6.828/2019/xv6.html) - Simple Unix-like teaching operating system.
