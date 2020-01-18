@@ -27,3 +27,4 @@
 - [BlazingSQL](https://github.com/BlazingDB/blazingsql) - GPU accelerated SQL engine built on top of the RAPIDS ecosystem.
 - [libinjection](https://github.com/client9/libinjection) - SQL / SQLI tokenizer parser analyzer.
 - [SQL Tutorial for Beginners (2020)](https://www.youtube.com/watch?v=tp_5c6jaNQE)
+- [SQL Koans](https://sqlkoans.com/) - Set of koans to introduce you to SQL. ([Code](https://github.com/phillipjohnson/sql-koans))
