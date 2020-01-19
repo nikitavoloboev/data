@@ -163,3 +163,4 @@ Go promotes composition over inheritance.
 - [PubSub using channels in Go (2020)](https://eli.thegreenplace.net/2020/pubsub-using-channels-in-go/)
 - [Build Web Application with Golang book](https://astaxie.gitbooks.io/build-web-application-with-golang/en/)
 - [SOLID Go Design (2016)](https://dave.cheney.net/2016/08/20/solid-go-design)
+- [Better Go Playground](https://github.com/x1unix/go-playground) - Improved Go Playground powered by Monaco Editor and React.

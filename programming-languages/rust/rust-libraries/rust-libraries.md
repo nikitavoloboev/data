@@ -213,6 +213,9 @@
 - [Interact](https://github.com/interact-rs/interact) - Framework for friendly online introspection of the running program state in an intuitive command-line interactive way.
 - [faster](https://github.com/AdamNiederer/faster) - SIMD for humans.
 - [rust-crdt](https://github.com/rust-crdt/rust-crdt) - Collection of well-tested, serializable CRDTs for Rust.
+- [JSON-RPC](https://github.com/paritytech/jsonrpc) - Rust implementation of JSON-RPC 2.0 Specification. Transport-agnostic core and transport servers for http, ipc, websockets and tcp.
+- [yaml-rust](https://github.com/chyh1990/yaml-rust) - Pure rust YAML implementation.
+- [directories](https://github.com/soc/directories-rs) - Mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows.
 
 ## Cargo Plugins
 
