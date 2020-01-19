@@ -140,6 +140,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 - [Gitv](https://github.com/gregsexton/gitv) - See Git branching history.
 - [Gitgutter](https://github.com/airblade/vim-gitgutter) - Shows git diff in the gutter (sign column) and stages/undoes hunks.
+- [vimagit](https://github.com/jreybert/vimagit) - Ease your git workflow within vim.
 
 ## Markdown
 

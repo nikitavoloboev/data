@@ -462,6 +462,7 @@
   - [File sharing](networking/file-sharing.md)
   - [RabbitMQ](networking/rabbitmq.md)
   - [ActivityPub](networking/activitypub.md)
+  - [Authentication](networking/authentication.md)
   - [Mesh networking](networking/mesh-networking.md)
 - [Health](health/health.md)
   - [Nutrition](health/nutrition/nutrition.md)

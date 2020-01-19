@@ -32,7 +32,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 
 ## Similar wikis I liked
 
-- [Devine Lu Linvega](https://wiki.xxiivv.com)
+- [Devine Lu Linvega](https://wiki.xxiivv.com) ([Code](https://github.com/XXIIVV/Oscean))
 - [100 Rabbits](https://100r.co/site/home.html)
 - [Gwern](https://www.gwern.net/About)
 - [Yoshua Wuyts](https://yoshuawuyts.gitbooks.io/knowledge/content/)
@@ -44,6 +44,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Andy Sparks](https://github.com/AndySparks/captains-log)
 - [Krzysztof Kowalczyk](https://blog.kowalczyk.info/)
 - [Phil Eaton's notes](http://notes.eatonphil.com/)
+- [C2](http://wiki.c2.com/)
 - [Full-stack web development notes](https://github.com/8483/notes#readme)
 - [Max Masnick](https://maxmasnick.com/kb/)
 - [Leon Bambrick](https://til.secretgeek.net/)

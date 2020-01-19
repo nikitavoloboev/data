@@ -31,3 +31,4 @@
 - [What Cats Can Teach You About Empathic Game Design (2019)](https://www.youtube.com/watch?v=seyH_fX0vr0)
 - [Open Match](https://github.com/googleforgames/open-match) - Open source game matchmaking framework that simplifies building a scalable and extensible Matchmaker.
 - [My First 10 Years of Game Development (2020)](https://www.youtube.com/watch?v=egukLtEhyP0)
+- [rx](https://github.com/cloudhead/rx) - Modern and minimalist pixel editor.

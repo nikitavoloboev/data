@@ -105,3 +105,4 @@
 - [suspense-cache](https://github.com/SamyPesse/suspense-cache) - Cache utility to create resources for React suspense.
 - [Snowpack with React: An awesome way to build web applications (2020)](https://dev.to/ryanlanciaux/snowpack-with-react-ch3)
 - [What I've Learned About Testing React Apps (2020)](https://dev.to/tlakomy/what-i-ve-learned-about-testing-react-apps-part-1-55g7)
+- [Proton Native](https://github.com/kusti8/proton-native) - React environment for cross platform desktop apps.

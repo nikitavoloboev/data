@@ -31,3 +31,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [The Barrett Family are Converting Their Poultry Barns into a Mushroom Farm (2020)](https://www.youtube.com/watch?v=OW6AgWPWRP4)
 - [Eclipse Foods](https://www.eclipsefoods.com/) - Plant-based dairy products that require no sacrifice, ever.
 - [Impossible Foods](https://impossiblefoods.com/) - Cruelty free alternative to meat.
+- [Cheat sheet on various tropes against vegan discourse](https://wiki.xxiivv.com/site/vegan.html)

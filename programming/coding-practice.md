@@ -3,7 +3,7 @@
 ## Links
 
 - [LeetCode](https://leetcode.com)
-- [Exercism](http://exercism.io/)
+- [Exercism](http://exercism.io/) ([CLI in Go](https://github.com/exercism/cli))
 - [Project Euler](https://projecteuler.net/archives)
 - [Advent of Code](https://adventofcode.com/)
 - [Hackerrank](https://www.hackerrank.com/)

@@ -22,6 +22,10 @@
 - [Fabio Spampinato](https://fabiospampinato.com/thanks)
 - [Sindre Sorhus](https://sindresorhus.com/thanks)
 
+## Notes
+
+- [Preparing to raise capital? Do not start with the deck. Start with an FAQ. Write down the answers to ALL questions investors can possibly ask you.](https://twitter.com/alexiskold/status/1218987908545306624)
+
 ## Links
 
 - [Zebras Fix What Unicorns Break (2017)](https://medium.com/@sexandstartups/zebrasfix-c467e55f9d96)
@@ -31,3 +35,4 @@
 - [Shopify Capital lends a hand to small businesses with starter loans (2020)](https://news.shopify.com/shopify-capital-lends-small-businesses-a-hand-with-starter-loans)
 - [Pioneer](https://pioneer.app/) - Fully remote accelerator.
 - [YC Seed Deck Template (2018)](https://blog.ycombinator.com/intro-to-the-yc-seed-deck/)
+- [30 Questions Investors Ask During Fundraising (2016)](https://alexiskold.net/2016/09/13/30-questions-investors-ask-during-fundraising/)

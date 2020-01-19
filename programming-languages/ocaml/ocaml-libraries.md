@@ -25,3 +25,4 @@
 - [Nice Parser](https://github.com/smolkaj/nice-parser) - Nice parsers in OCaml without the boilerplate.
 - [QCSTM](https://github.com/jmid/qcstm) - simple state-machine framework for OCaml based on QCheck.
 - [deriving](https://github.com/ocaml-ppx/ppx_deriving) - Library simplifying type-driven code generation on OCaml.
+- [OCamline](https://github.com/chrisnevers/ocamline) - Command line interface for user input.

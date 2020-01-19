@@ -145,6 +145,9 @@
 - [SwiftGraph](https://github.com/davecom/SwiftGraph) - Graph Data Structure in Pure Swift.
 - [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue) - Generic Priority Queue in Pure Swift.
 - [BetterCodable](https://github.com/marksands/BetterCodable) - Better Codable through Property Wrappers.
+- [RouteComposer](https://github.com/ekazaev/route-composer) - Protocol oriented, Cocoa UI abstractions based library that helps to handle view controllers composition, navigation and deep linking tasks in the iOS application.
+- [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift.
+- [Version](https://github.com/mxcl/Version) - Semver (Semantic Version) Swift µFramework.
 
 ## Links
 
