@@ -7,7 +7,7 @@
 - [Helio Workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, both desktop and mobile.
 - [Sonic Pi](https://github.com/samaaron/sonic-pi)
 - [FlowKey](https://www.flowkey.com) - Learn Piano with songs you love.
-- [Orca](https://github.com/hundredrabbits/Orca) - Live Programming Environment. Each letter of the alphabet is an operation.
+- [Orca](https://github.com/hundredrabbits/Orca) - Live Programming Environment. Each letter of the alphabet is an operation. ([C rewrite](https://github.com/hundredrabbits/Orca-c))
 - [Glitch](https://github.com/naivesound/glitch) - Minimal algorithmic music composer and synthesizer.
 
 ## Inspiration

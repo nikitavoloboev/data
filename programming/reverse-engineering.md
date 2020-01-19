@@ -12,3 +12,4 @@
 - [Reverse engineering course (Focuses on x64 Windows)](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) ([HN](https://news.ycombinator.com/item?id=22061842))
 - [Great reverse engineering courses list](https://news.ycombinator.com/item?id=22063610)
 - [Open Security Training Info](http://opensecuritytraining.info/)
+- [RPISEC RE/VR Courses](https://github.com/JeremyBlackthorne/RPISEC-Courses#readme)
