@@ -31,3 +31,4 @@
 - [Azure Functions’ Durable Entities (2019)](https://medium.com/@cgillum/azure-functions-durable-entities-67db648d2f74)
 - [Jexia](https://www.jexia.com/en/) - Developer platform that helps you to build serverless API-driven applications in a fast and simple way.
 - [Running a serverless Go web application (2019)](https://bartfokker.com/posts/cloud-run)
+- [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS. ([Web](https://apex.sh/up/))
