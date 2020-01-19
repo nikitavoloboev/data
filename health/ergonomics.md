@@ -7,6 +7,7 @@
 ## Standing desks
 
 - [Jarvis](https://www.fully.eu/products/jarvis-adjustable-standing-desk-bamboo)
+- [Autonomous](https://www.autonomous.ai/) - Great standing desks & chairs.
 
 ## Links
 

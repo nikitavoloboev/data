@@ -46,6 +46,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Bastien Grivet](https://www.artstation.com/grivetart)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
+- [Lee Madgwick](https://leemadgwick.co.uk/portfolio/)
 - [Ben Ridgway](https://www.samwoolfe.com/2018/06/the-visionary-art-of-ben-ridgway.html) - DMT inspired.
 - [Oleksij Luchnikov](https://www.artstation.com/luchnikov)
 - [James Jean](https://www.artsy.net/artist/james-jean)
@@ -74,6 +75,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Jie Ma](https://www.behance.net/jiema37?)
 - [Rui Tomono](https://www.pixiv.net/member.php?id=27526)
 - [Elora Pautrat](https://www.elorapautrat.com/)
+- [Zi Xu](https://www.zixu.co/)
 - [Nicholas Stathopoulos](http://www.nickstath.com/)
 - [Phil Dragash](https://www.phildragash.com/)
 - [Ivan Aivazovsky](https://www.wikiart.org/en/ivan-aivazovsky)
