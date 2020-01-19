@@ -30,3 +30,4 @@
 - [Stateful Programming Models in Serverless Functions (2019)](https://www.youtube.com/watch?v=YUJjhnYIj4M)
 - [Azure Functions’ Durable Entities (2019)](https://medium.com/@cgillum/azure-functions-durable-entities-67db648d2f74)
 - [Jexia](https://www.jexia.com/en/) - Developer platform that helps you to build serverless API-driven applications in a fast and simple way.
+- [Running a serverless Go web application (2019)](https://bartfokker.com/posts/cloud-run)
