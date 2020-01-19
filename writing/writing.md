@@ -124,3 +124,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [It's time to start writing](https://alexnixon.github.io/2019/12/10/writing.html) ([Lobsters](https://lobste.rs/s/frjnbb/it_s_time_start_writing))
 - [Brandon Sanderson lecture on story telling](https://www.youtube.com/watch?v=N4ZDBOc2tX8)
 - [CFP Advice](https://www.swyx.io/writing/cfp-advice/) ([Tweet](https://twitter.com/swyx/status/1218650128585719813))
+- [Set of standard document templates](https://github.com/kbariotis/templates)

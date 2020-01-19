@@ -165,3 +165,4 @@ Go promotes composition over inheritance.
 - [SOLID Go Design (2016)](https://dave.cheney.net/2016/08/20/solid-go-design)
 - [Better Go Playground](https://github.com/x1unix/go-playground) - Improved Go Playground powered by Monaco Editor and React.
 - [Algorithms with Go course](https://algorithmswithgo.com/)
+- [Interfaces in Go (2018)](https://medium.com/rungo/interfaces-in-go-ab1601159b3a) - Interface is a great and only way to achieve Polymorphism in Go.
