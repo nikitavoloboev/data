@@ -1,4 +1,4 @@
-# Startup funding
+# Funding
 
 ## [VC](venture-capital.md)
 
@@ -8,6 +8,19 @@
 - [Entrepreneur First Berlin](https://www.joinef.com/)
 - [Plug & Play](https://www.plugandplaytechcenter.com/)
 - [500 startups](https://500.co/)
+
+## Nice rewards
+
+- [TheLatestKate](https://www.patreon.com/thelatestkate)
+- [Max Howell](https://www.patreon.com/mxcl)
+- [TJ Holowaychuk](https://github.com/sponsors/tj)
+- [Rakhim D.](https://www.patreon.com/rakhim)
+- [Kitze](https://github.com/sponsors/kitze)
+
+## Thanks pages
+
+- [Fabio Spampinato](https://fabiospampinato.com/thanks)
+- [Sindre Sorhus](https://sindresorhus.com/thanks)
 
 ## Links
 

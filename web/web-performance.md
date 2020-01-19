@@ -1,5 +1,9 @@
 # [Web performance](https://developer.mozilla.org/en-US/docs/Learn/Performance)
 
+## Notes
+
+- Don't ever underestimate the cost performance of cache misses.
+
 ## Links
 
 - [Rendering on the Web (2019)](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
