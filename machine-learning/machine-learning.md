@@ -185,3 +185,4 @@
 - [ATMSeer: Increasing Transparency and Controllability in Automated Machine Learning](https://dai.lids.mit.edu/projects/atmseer/) ([Code](https://github.com/HDI-Project/ATMSeer))
 - [Cambridge Machine Learning Group](http://mlg.eng.cam.ac.uk/)
 - [Convolutional Conditional Neural Processes (2020)](https://openreview.net/forum?id=Skey4eBYPS)
+- [Privacy Preserving AI (Andrew Trask) (2020)](https://www.youtube.com/watch?v=4zrU54VIK6k)

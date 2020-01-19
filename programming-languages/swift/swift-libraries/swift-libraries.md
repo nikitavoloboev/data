@@ -144,6 +144,7 @@
 - [Pusher Channels Swift Client](https://github.com/pusher/pusher-websocket-swift) - Pusher Channels websocket library for Swift.
 - [SwiftGraph](https://github.com/davecom/SwiftGraph) - Graph Data Structure in Pure Swift.
 - [SwiftPriorityQueue](https://github.com/davecom/SwiftPriorityQueue) - Generic Priority Queue in Pure Swift.
+- [BetterCodable](https://github.com/marksands/BetterCodable) - Better Codable through Property Wrappers.
 
 ## Links
 
