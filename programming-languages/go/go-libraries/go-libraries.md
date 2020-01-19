@@ -16,7 +16,7 @@
 - [go-arg](https://github.com/alexflint/go-arg) - Structured argument parsing for Go.
 - [Glamour](https://github.com/charmbracelet/glamour) - Write gorgeous command-line tools.
 
-## Testing
+## Test
 
 - [go-cmp](https://github.com/google/go-cmp) - Package for equality of Go values.
 - [check](https://github.com/go-check/check) - Rich testing for the Go language.
@@ -25,6 +25,7 @@
 - [Filet](https://github.com/Flaque/filet) - Small temporary file utility for Go testing.
 - [quicktest](https://github.com/frankban/quicktest) - Collection of Go helpers for writing tests.
 - [go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go.
+- [Mockc](https://github.com/KimMachineGun/mockc) - Compile-time mock generator for Go.
 
 ## Web
 
