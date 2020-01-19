@@ -16,3 +16,5 @@
 - [Mastering the Lightning Network book](https://github.com/lnbook/lnbook)
 - [Bitcoin SV](https://bitcoinsvdevelopers.com/) - Bitcoin with the original protocol. It can be used for money, but also as a development platform..
 - [btcwallet](https://github.com/btcsuite/btcwallet) - Secure bitcoin wallet daemon written in Go.
+- [Blockstream Satellite network](https://blockstream.com/satellite/) - Broadcasts the Bitcoin blockchain around the world 24/7 for free.
+- [Blockstream Satellite Receiver](https://github.com/Blockstream/satellite)

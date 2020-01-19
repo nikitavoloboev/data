@@ -28,7 +28,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [OS Dev](https://wiki.osdev.org/Main_Page)
 - [Raspberry Pi OS](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi.
 - [Create OS from scratch](https://github.com/cfenollosa/os-tutorial#readme)
-- [How to Make a Computer Operating System](https://samypesse.gitbooks.io/how-to-create-an-operating-system/content/)
+- [How to Make a Computer Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) ([Code](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System))
 - [Plan 9 from User Space](https://github.com/9fans/plan9port) - Port of many Plan 9 libraries and programs to Unix.
 - [Jehanne](https://github.com/JehanneOS/jehanne) - Simple operating system.
 - [Unik](https://github.com/solo-io/unik) - Unikernel & MicroVM Compilation and Deployment Platform.

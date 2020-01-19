@@ -15,3 +15,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [Mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown IDE.
 - [markdown-wasm](https://github.com/rsms/markdown-wasm) - Markdown parser and HTML generator implemented in WebAssembly.
 - [TakeNote](https://github.com/taniarascia/takenote) - Web-based note-taking app with GitHub sync and Markdown support.
+- [mdtoc](https://github.com/tallclair/mdtoc) - Markdown table-of-contents generator.

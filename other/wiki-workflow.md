@@ -90,3 +90,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Roam Research MVP Review: Pages + Bullets = Cool New Product Category (2020)](https://medium.com/bloated-mvp/roam-research-mvp-review-pages-bullets-cool-new-product-category-28baf5dd0a3)
 - [Zettelkästen? (2019)](https://clerestory.netlify.com/zk/)
 - [Roam for Zettlekasting](https://roamresearch.com/#/v8/help/page/VURQiVZQR)
+- [Nototo](https://www.nototo.app/) - All your notes. On one map. ([HN](https://news.ycombinator.com/item?id=22087780))
