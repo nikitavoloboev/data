@@ -29,3 +29,5 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Eat less meat: UN climate change report calls for change to human diet (2019)](https://www.nature.com/articles/d41586-019-02409-7) ([HN](https://news.ycombinator.com/item?id=20652145))
 - [Mosa Meat](https://www.mosameat.com/) - Produce real meat for the world’s growing population that is delicious, healthier, better for the environment, and kind to animals.
 - [The Barrett Family are Converting Their Poultry Barns into a Mushroom Farm (2020)](https://www.youtube.com/watch?v=OW6AgWPWRP4)
+- [Eclipse Foods](https://www.eclipsefoods.com/) - Plant-based dairy products that require no sacrifice, ever.
+- [Impossible Foods](https://impossiblefoods.com/) - Cruelty free alternative to meat.

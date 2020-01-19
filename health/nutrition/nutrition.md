@@ -49,3 +49,4 @@ I only drink water and tea with occasional coffee. No sugar in food/drinks. And 
 - [Ask HN: Which is the best book on nutrition? (2019)](https://news.ycombinator.com/item?id=21800737)
 - [Ask HN: Most sustainable diet long term? (2019)](https://news.ycombinator.com/item?id=19660819)
 - [Zoe](https://joinzoe.com/) - Find the best foods to optimize your metabolism.
+- [How to Find Your Best Diet (2020)](https://www.gq.com/story/how-to-find-your-best-diet)
