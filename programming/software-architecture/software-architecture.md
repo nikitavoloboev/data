@@ -23,3 +23,4 @@
 - [Depending Less on Structure (2019)](https://lmatteis.github.io/depending-less-on-structure/)
 - [Zero trust architecture design principles](https://github.com/ukncsc/zero-trust-architecture#readme)
 - [Real Life Architectures Archive](https://www.8bitmen.com/category/real-life-architectures/)
+- [Become a Better Software Architect](https://github.com/justinamiller/SoftwareArchitect#readme)
