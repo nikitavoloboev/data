@@ -34,3 +34,4 @@
 - [Awesome Lisp Languages](https://github.com/dundalek/awesome-lisp-languages#readme)
 - [Programming Algorithms book: Dynamic Programming](http://lisp-univ-etc.blogspot.com/2019/12/programming-algorithms-dp.html)
 - [LISP programmer's manual (1960)](http://history.siam.org/sup/Fox_1960_LISP.pdf)
+- [femto](https://github.com/peeley/femto) - Minimal Lisp interpreter in Haskell.
