@@ -17,7 +17,8 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [redshirt](https://github.com/tomaka/redshirt) - Experiment to build some kind of operating-system-like environment where executables are all in WASM and are loaded from an IPFS-like decentralized network.
 - [Spectrum](https://spectrum-os.org/) - Step towards usable secure computing.
 - [mikado](https://github.com/cavedweller/mikado) - RISC-V Experimental OS.
-- [mkernel](https://github.com/arjun024/mkernel) - Minimalist kernel which prints "my first kernel" on the screen and then hangs.
+- [mkernel](https://github.com/arjun024/mkernel) - Minimalist kernel which prints "my first kernel" on the screen and then hangs. ([HN](https://news.ycombinator.com/item?id=22087701))
+- [Barebones](https://github.com/fwsGonzo/barebones) - Barebones multiboot kernel for beginners.
 
 ## Links
 

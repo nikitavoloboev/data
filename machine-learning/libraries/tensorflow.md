@@ -26,3 +26,4 @@
 - [Swift for TensorFlow](https://github.com/tensorflow/swift) - Next-generation platform for machine learning, incorporating the latest research across machine learning, compilers, differentiable programming, systems design, and beyond.
 - [Graph Nets](https://github.com/deepmind/graph_nets) - DeepMind's library for building graph networks in Tensorflow and Sonnet.
 - [tract](https://github.com/snipsco/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference.
+- [IREE](https://github.com/google/iree) - Experimental MLIR Execution Environment.
