@@ -183,6 +183,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Ishome at Krasnaya Polyana @37tunes](https://www.youtube.com/watch?v=yo2zLZkWmhE)
 - [Diane Cluck: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=SyETsd-rKP8&t=408)
 - [InWhite - Спокойных Снов | Sofar Moscow](https://www.youtube.com/watch?v=2ca-IH32MM8)
+- [GoGo Penguin: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=47XlUL6sRow)
 
 ## Mixes
 

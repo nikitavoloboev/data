@@ -55,3 +55,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Krabs](https://github.com/ellbrid/krabs) - x86 bootloader written in Rust.
 - [oreboot](https://github.com/oreboot/oreboot) - Fork of coreboot, with C removed, written in Rust.
 - [MIT Operating Systems Engineering course using RISC-V](https://pdos.csail.mit.edu/6.828/2019/schedule.html)
+- [QEMU](https://www.qemu.org/) - Generic and open source machine emulator and virtualizer. ([Docs](https://qemu.weilnetz.de/doc/qemu-doc.html))
