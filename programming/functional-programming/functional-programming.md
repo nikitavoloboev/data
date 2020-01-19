@@ -56,6 +56,7 @@
 - [Functional programming design patterns by Scott Wlaschin (2014)](https://www.youtube.com/watch?v=E8I19uA-wGY)
 - [PhD Abstracts for functional programming (2020)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F66CECFC31BDB7D2790F39DE25426EEA/S0956796819000200a.pdf/phd_abstracts.pdf)
 - [Luka Jacobowitz—Monoids, Monoids, Monoids (2019)](https://www.youtube.com/watch?v=DJyhWAwmGqE)
+- [Selective Lambda Lifting (2019)](https://arxiv.org/abs/1910.11717)
 
 ## Images
 

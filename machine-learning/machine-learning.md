@@ -183,3 +183,5 @@
 - [What are the current significant trends in ML that are NOT Deep Learning related? (2020)](https://www.reddit.com/r/MachineLearning/comments/eq3da0/d_what_are_the_current_significant_trends_in_ml/)
 - [Trax](https://github.com/google/trax) - Helps you understand and explore advanced deep learning.
 - [ATMSeer: Increasing Transparency and Controllability in Automated Machine Learning](https://dai.lids.mit.edu/projects/atmseer/) ([Code](https://github.com/HDI-Project/ATMSeer))
+- [Cambridge Machine Learning Group](http://mlg.eng.cam.ac.uk/)
+- [Convolutional Conditional Neural Processes (2020)](https://openreview.net/forum?id=Skey4eBYPS)

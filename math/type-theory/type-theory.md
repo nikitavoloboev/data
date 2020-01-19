@@ -38,3 +38,4 @@
 - [qtt](https://github.com/LightAndLight/qtt) - Quantitative Type Theory implementation.
 - [Normalization by evaluation for Martin-Löf Type Theory with dependent records](https://github.com/brendanzab/rust-nbe-for-mltt)
 - [Introduction to Type Theory (2019)](https://jadon.io/blog/type-theory/)
+- [No, dynamic type systems are not inherently more open (2020)](https://lexi-lambda.github.io/blog/2020/01/19/no-dynamic-type-systems-are-not-inherently-more-open/) ([HN](https://news.ycombinator.com/item?id=22090700))
