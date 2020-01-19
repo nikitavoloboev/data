@@ -41,3 +41,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [How China Tracks Everyone | VICE on HBO (2019)](https://www.youtube.com/watch?v=CLo3e1Pak-Y)
 - [Cutting Google out of your life](https://github.com/tycrek/degoogle#readme)
 - [Local-first software](https://www.inkandswitch.com/local-first.html) - You own your data, in spite of the cloud.
+- [The Secretive Company That Might End Privacy as We Know It (2020)](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) ([Tweet](https://twitter.com/kevinakwok/status/1218621849971507200))
