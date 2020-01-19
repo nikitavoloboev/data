@@ -28,3 +28,4 @@
 - [libinjection](https://github.com/client9/libinjection) - SQL / SQLI tokenizer parser analyzer.
 - [SQL Tutorial for Beginners (2020)](https://www.youtube.com/watch?v=tp_5c6jaNQE)
 - [SQL Koans](https://sqlkoans.com/) - Set of koans to introduce you to SQL. ([Code](https://github.com/phillipjohnson/sql-koans))
+- [eSQLate](https://github.com/forbesmyester/esqlate) - Build minimum viable admin panels quickly with just SQL.

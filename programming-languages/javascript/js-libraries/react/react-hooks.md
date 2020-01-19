@@ -23,6 +23,7 @@
 - [react-hooks-fetch](https://github.com/dai-shi/react-hooks-fetch) - React custom hook for data fetching with Suspense. ([Article](https://blog.axlight.com/posts/developing-a-react-library-for-suspense-for-data-fetching-in-concurrent-mode/))
 - [react-suspense-fetch](https://github.com/dai-shi/react-suspense-fetch) - React Suspense Render-as-You-Fetch pattern for REST APIs.
 - [useDebounce](https://github.com/xnimorz/use-debounce) - Debounce hook for react.
+- [use-methods](https://github.com/pelotom/use-methods) - Simpler way to useReducers.
 - [@umijs/hooks](https://github.com/umijs/hooks) - React Hooks Library.
 - [Collection of beautiful (and hopefully useful) React hooks to speed-up your components and hooks development](https://github.com/antonioru/beautiful-react-hooks)
 

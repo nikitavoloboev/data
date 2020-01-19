@@ -115,3 +115,4 @@
 - [Programming in Haskell book](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
 - [Static types are dangerously interesting](https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html) ([Lobsters](https://lobste.rs/s/6gzmym/static_types_are_dangerously))
 - [Let's Get Dangerous](https://www.reddit.com/r/haskell/comments/epkn0z/lets_get_dangerous/) ([Reddit](https://www.reddit.com/r/haskell/comments/epkn0z/lets_get_dangerous/))
+- [Functional Programming in Haskell (Stepik course notes) (2020)](https://hmemcpy.com/2020/01/functional-programming-in-haskell-stepik-course-notes-module-1/)

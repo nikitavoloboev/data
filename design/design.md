@@ -56,3 +56,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [All Design Conferences](https://www.alldesignconferences.com/) - Simple list of all design and front-end conferences for the year.
 - [How to apply for a design internship (2018)](https://vanschneider.com/apply-design-internship)
 - [Resources to improve drawing and visual thinking skills](https://illustrated.dev/resources/)
+- [Coding for Designers](https://codingfordesignersbook.com/) - Demystifying Code and Learning JavaScript. ([Code](https://github.com/derek-knox/Coding-For-Designers))
