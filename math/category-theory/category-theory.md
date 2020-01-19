@@ -60,6 +60,8 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Applied Category Theory MIT lectures (2019)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
 - [Categorical Logic Notes](https://github.com/awodey/CatLogNotes)
 - [Programming with Categories lectures (2020)](https://www.youtube.com/watch?v=NUBEB9QlNCM)
+- [Aspects of categorical recursion theory (2020)](https://arxiv.org/abs/2001.05778) ([HN](https://news.ycombinator.com/item?id=22083147))
+- [Compiling to categories (2017)](http://conal.net/papers/compiling-to-categories/)
 
 ## Images
 
