@@ -11,3 +11,4 @@
 - [mobx-keystone](https://github.com/xaviergonz/mobx-keystone) - MobX powered state management solution based on data trees with first class support for Typescript, support for snapshots, patches and much more.
 - [Max Gallo - Reinventing MobX (2019)](https://www.youtube.com/watch?v=P_WqKZxpX8g)
 - [MobX crash course](https://twitter.com/hexrcs/status/1201593792417144833)
+- [How to Persist Your MobX State (2020)](https://medium.com/@Zwenza/how-to-persist-your-mobx-state-4b48b3834a41)

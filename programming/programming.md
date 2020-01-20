@@ -120,3 +120,4 @@
 - [Noweb](https://www.cs.tufts.edu/~nr/noweb/) - Simple, Extensible Tool for Literate Programming.
 - [verso](https://github.com/nickpascucci/verso) - New approach to literate programming.
 - [Program Repair](https://program-repair.org/index.html) - Community-driven effort to facilitate discovery, access and systematization of data related to automated program repair research.
+- [Literate Programming notes](https://pbat.ch/wiki/literate_programming/)

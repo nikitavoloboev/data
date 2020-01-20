@@ -51,6 +51,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Ben Ridgway](https://www.samwoolfe.com/2018/06/the-visionary-art-of-ben-ridgway.html) - DMT inspired.
 - [Oleksij Luchnikov](https://www.artstation.com/luchnikov)
 - [James Jean](https://www.artsy.net/artist/james-jean)
+- [Sylvain Sarrailh](https://www.artstation.com/tohad)
 - [Simen Johan](https://www.artsy.net/artist/simen-johan)
 - [Michał Klimczak](https://500px.com/shume)
 - [ariduka55](http://ariduka55.tumblr.com/)

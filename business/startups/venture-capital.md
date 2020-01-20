@@ -23,3 +23,4 @@
 - [2048 Ventures](https://www.2048.vc/) - Invest in exceptional founders building B2B and B2C companies differentiated through technology.
 - [Venture Capitalists Contacts](https://docs.google.com/spreadsheets/d/1c5zoCzjQKlzdDW-6cctRm71ZiCmLQ7EJFZJtp_6cbeI/edit?rm=minimal#gid=428940999) ([HN](https://news.ycombinator.com/item?id=22042111))
 - [FirstMark](https://firstmarkcap.com/) - Early stage VC.
+- [Emergent Ventures](https://www.mercatus.org/emergentventures) - New fellowship and grant program from the Mercatus Center, seeks to support entrepreneurs and brilliant minds with highly scalable, “zero to one” ideas for meaningfully improving society.

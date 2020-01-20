@@ -105,3 +105,4 @@
 - [Leonhard Euler | The Greatest Mathematician To Ever Live (2020)](https://medium.com/@naeem_akhtar/leonhard-euler-the-greatest-mathematician-to-ever-live-4ecc1bfcd3d7)
 - [MIT Mathematics for Computer Science course (2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) - Serves as an introduction to discrete mathematics, probability, and mathematical thinking for computer scientists.
 - [Who are some lesser known mathematicians, and what are some of their accomplishments, or interesting facts about them](https://www.reddit.com/r/math/comments/epjfre/who_are_some_lesser_known_mathematicians_and_what/)
+- [Information theory](https://www.britannica.com/science/information-theory)
