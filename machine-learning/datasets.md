@@ -12,3 +12,4 @@
 - [skdata](https://github.com/jaberg/skdata) - Data sets for machine learning in Python.
 - [TensorFlow Datasets](https://github.com/tensorflow/datasets) - Collection of datasets ready to use with TensorFlow.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
+- [LORIS](https://github.com/aces/Loris) - Web-accessible database solution for longitudinal multi-site studies.

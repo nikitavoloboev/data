@@ -12,3 +12,4 @@
 - [Luna](https://luna-lang.org/index.html#Overview) - Data processing and visualization environment built on a principle that people need an immediate connection to what they are building.
 - [Guide To The Data Lake — Modern Batch Data Warehousing (2020)](https://towardsdatascience.com/a-guide-to-modern-batch-data-warehousing-extraction-f63bfa6ef878)
 - [Plumbing At Scale (2020)](https://engineering.grab.com/plumbing-at-scale) - Event Sourcing and Stream Processing Pipelines at Grab.
+- [Differential Dataflow! But at what COST? (2017)](https://github.com/frankmcsherry/blog/blob/master/posts/2017-10-23.md)
