@@ -65,3 +65,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Reflections on Excalidraw (2020)](https://blog.vjeux.com/2020/uncategorized/reflections-on-excalidraw.html)
 - [A sad day for Rust (2020)](https://news.ycombinator.com/item?id=22075076) ([HN](https://news.ycombinator.com/item?id=22075076))
 - [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners#readme)
+- [My FOSS Story by Andrew Gallant (2020)](https://blog.burntsushi.net/foss/) ([HN](https://news.ycombinator.com/item?id=22095715))
