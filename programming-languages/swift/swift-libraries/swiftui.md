@@ -37,3 +37,4 @@
 - [Build A Networking Client in SwiftUI](https://github.com/gtokman/SwiftUI-Networking)
 - [WebView](https://github.com/kylehickinson/SwiftUI-WebView) - SwiftUI component to use WKWebView.
 - [DeLong ◇ SwiftUI ◇ presentation (2020)](https://www.youtube.com/watch?v=APxrtnxRzwI)
+- [Building Bottom sheet in SwiftUI (2020)](https://swiftwithmajid.com/2019/12/11/building-bottom-sheet-in-swiftui/)

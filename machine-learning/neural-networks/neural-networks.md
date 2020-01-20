@@ -71,3 +71,4 @@
 - [AlphaFold](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13) - Provides an implementation of the contact prediction network, associated model weights and CASP13 dataset as published in Nature. ([Paper](https://www.nature.com/articles/s41586-019-1923-7))
 - [Go Perceptron](https://github.com/made2591/go-perceptron-go) - Single / multi layer / recurrent neural network written in Golang.
 - [Temperature Scaling](https://github.com/gpleiss/temperature_scaling) - Simple way to calibrate your neural network.
+- [Recurrent Geometric Networks for end-to-end differentiable learning of protein structure](https://github.com/aqlaboratory/rgn)

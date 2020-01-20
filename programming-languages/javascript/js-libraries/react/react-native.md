@@ -28,3 +28,4 @@
 - [React Native Tab View](https://github.com/react-native-community/react-native-tab-view) - Cross-platform Tab View component for React Native.
 - [React Native — Monorepos & Code Sharing (2020)](https://engineering.brigad.co/react-native-monorepos-code-sharing-f6c08172b417)
 - [Start React Native](https://start-react-native.dev/) - Learn to leverage the power of declarative gestures and animations to build delightful user experiences that run at 60 fps even on low-grade Android devices.
+- [Awesome React Native: Native Modules](https://github.com/prscX/awesome-react-native-native-modules#readme)
