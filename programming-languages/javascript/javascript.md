@@ -124,3 +124,4 @@
 - [jsep](https://github.com/soney/jsep) - JavaScript Expression Parser.
 - [JS Tips & Tidbits](https://github.com/nas5w/javascript-tips-and-tidbits#readme)
 - [I have been underestimating JS (2020)](https://adlrocha.substack.com/p/adlrocha-i-have-been-underestimating) - Understanding V8 and NodeJS Steams.
+- [Микроптимизации производительности и JavaScript (2020)](https://medium.com/devschacht/optimizations-and-javascript-f8e060d3eae3)

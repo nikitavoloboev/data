@@ -9,3 +9,4 @@
 - [Conway's game of life, in parallel](https://jlpaca.github.io/toybox/4-conway/index.html)
 - [Conway's Game of Life in Go](https://github.com/healeycodes/conways-game-of-life)
 - [Implementations of Game of Life in different languages](https://github.com/domoritz?tab=repositories&q=gameoflife)
+- [Implementation of logical functions in the Game of Life](http://www.rennard.org/alife/CollisionBasedRennard.pdf)

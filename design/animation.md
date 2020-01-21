@@ -11,3 +11,4 @@
 - [What's the most powerful and developer-friendly React animation library?](https://github.com/aholachek/react-animation-comparison)
 - [Physics-Based Animation book](https://iphys.wordpress.com/2020/01/12/free-textbook-physics-based-animation/)
 - [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Most useful tools and data for creating web animations.
+- [How to Turn a Procreate Drawing into a Web Animation (2020)](https://css-tricks.com/how-to-turn-a-procreate-drawing-into-a-web-animation/)
