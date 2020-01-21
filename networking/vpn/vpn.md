@@ -18,5 +18,5 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [DSVPN](https://github.com/jedisct1/dsvpn) - Dead Simple VPN, designed to address the most common use case for using a VPN.
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin.
 - [Passepartout](https://github.com/passepartoutvpn/passepartout-ios) - User-friendly OpenVPN client app for iOS.
-- [Algo VPN](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud.
+- [Algo VPN](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud. ([Docs](https://trailofbits.github.io/algo/))
 - [RadVPN](https://github.com/mehrdadrad/radvpn) - Decentralized VPN.
