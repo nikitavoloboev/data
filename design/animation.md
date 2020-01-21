@@ -10,3 +10,4 @@
 - [Mobile First Animation in React | Alexandra Holachek (2019)](https://www.youtube.com/watch?v=laPsceJ4tTY) ([Code](https://github.com/aholachek/mobile-first-animation))
 - [What's the most powerful and developer-friendly React animation library?](https://github.com/aholachek/react-animation-comparison)
 - [Physics-Based Animation book](https://iphys.wordpress.com/2020/01/12/free-textbook-physics-based-animation/)
+- [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Most useful tools and data for creating web animations.

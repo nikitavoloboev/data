@@ -24,3 +24,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [RegExr](https://regexr.com/) - Learn, Build & Test RegEx.
 - [regexgen](https://npm.runkit.com/regexgen) - Generate regular expressions that match a set of strings. ([Code](https://github.com/devongovett/regexgen))
 - [Regular Expressions - Computerphile (2020)](https://www.youtube.com/watch?v=528Jc3q86F8)
+- [Ragel](http://www.colm.net/open-source/ragel/) - State Machine Compiler.

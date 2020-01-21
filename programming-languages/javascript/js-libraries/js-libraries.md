@@ -149,3 +149,4 @@
 - [NeuroJS](https://github.com/janhuenermann/neurojs) - JavaScript deep learning and reinforcement learning library.
 - [Hareactive](https://github.com/funkia/hareactive) - Purely functional reactive programming library.
 - [Mirage JS](https://github.com/miragejs/miragejs) - Client-side server to develop, test and prototype your JavaScript app.
+- [dfa](https://github.com/foliojs/dfa) - State machine compiler with regular expression style syntax.

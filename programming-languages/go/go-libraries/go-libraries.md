@@ -297,6 +297,7 @@
 - [go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging.
 - [zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger.
 - [SortedMap](https://github.com/umpc/go-sortedmap) - Simple value-sorted map type for Go that features constant-time reads and efficient iteration over records.
+- [copy](https://github.com/otiai10/copy) - Copy directory recursively.
 
 ## Links
 

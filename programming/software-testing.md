@@ -6,3 +6,4 @@
 - [Awesome Testing](https://github.com/TheJambo/awesome-testing#readme) - Curated list of testing software, extensions and resources.
 - [fluff](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go.
 - [Wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer.
+- [Software Testing: From Theory to Practice book](https://sttp.site/) - Covers the most important testing techniques needed to build high quality software systems.
