@@ -103,3 +103,4 @@
 - [Tint & Shade Generator](https://maketintsandshades.com/) - Display tints and shades of a given hex color in 10% increments.
 - [Writing efficient CSS selectors (2011)](https://csswizardry.com/2011/09/writing-efficient-css-selectors/)
 - [A Modern CSS Reset (2019)](https://hankchizljaw.com/wrote/a-modern-css-reset/)
+- [The CSS Cascade](https://wattenberger.com/blog/css-cascade) - How browsers resolve competing CSS styles.
