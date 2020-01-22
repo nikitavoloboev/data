@@ -55,3 +55,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [HN: The Old Internet Died and We Watched and Did Nothing (2019)](https://news.ycombinator.com/item?id=21921323)
 - [Personal sites are awesome](https://personalsit.es/) - Little directory of people's personal sites. ([Code](https://github.com/xdesro/personalsit.es))
 - [Ask HN: How do you manage your bookmarks? (2020)](https://news.ycombinator.com/item?id=22105561)
+- [Timeless Web Dev Articles (2020)](https://css-tricks.com/timeless-web-dev-articles/)
