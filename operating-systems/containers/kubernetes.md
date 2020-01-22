@@ -131,3 +131,4 @@
 - [Cortex](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
 - [Contour](https://github.com/projectcontour/contour) - Kubernetes ingress controller using Lyft's Envoy proxy.
 - [Roperator](https://github.com/psFried/roperator) - Lets you easily write Kubernetes Operators in Rust.
+- [Krustlet](https://github.com/deislabs/krustlet) - Kubernetes Kubelet in Rust for running WASM.

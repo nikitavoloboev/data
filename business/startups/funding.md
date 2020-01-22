@@ -36,3 +36,4 @@
 - [Pioneer](https://pioneer.app/) - Fully remote accelerator.
 - [YC Seed Deck Template (2018)](https://blog.ycombinator.com/intro-to-the-yc-seed-deck/)
 - [30 Questions Investors Ask During Fundraising (2016)](https://alexiskold.net/2016/09/13/30-questions-investors-ask-during-fundraising/)
+- [How to run a Series A fundraising process (2020)](https://alexiskold.net/2020/01/22/how-to-run-a-series-a-fundraising-process/)

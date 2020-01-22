@@ -29,11 +29,11 @@
 
 ## Web
 
+- [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http.
 - [Macaron](https://github.com/go-macaron/macaron) - High productive and modular web framework in Go.
 - [Echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework.
 - [Buffalo](https://gobuffalo.io/docs/overview)
-- [Chi](https://github.com/go-chi/chi) - Lightweight, idiomatic and composable router for building Go HTTP services.
 - [Gin](https://github.com/gin-gonic/gin) - HTTP web framework. Features a Martini-like API with much better performance.
 - [Gramework](https://github.com/gramework/gramework) - Fast and Reliable Golang Web Framework.
 - [Vugu](https://github.com/vugu/vugu) - Modern UI library for Go+WebAssembly (experimental).
