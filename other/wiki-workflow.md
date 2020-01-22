@@ -58,8 +58,10 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Bayle Shanks](http://www.bayleshanks.com/)
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
 - [Nat Eliason notes](https://www.nateliason.com/notes)
+- [David Seah](https://davidseah.gitbook.io/davidseah/)
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
+- [Webring](https://webring.xxiivv.com/) - Attempt to inspire artists & developers to build their own website and share traffic among each other.
 
 ## Wiki software
 

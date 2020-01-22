@@ -32,3 +32,4 @@
 - [Open Match](https://github.com/googleforgames/open-match) - Open source game matchmaking framework that simplifies building a scalable and extensible Matchmaker.
 - [My First 10 Years of Game Development (2020)](https://www.youtube.com/watch?v=egukLtEhyP0)
 - [rx](https://github.com/cloudhead/rx) - Modern and minimalist pixel editor.
+- [Gamedev Tutorial: Dot Product, Rulers, And Bouncing Balls (2020)](https://www.allenchou.net/2020/01/dot-product-projection-reflection/) ([HN](https://news.ycombinator.com/item?id=22102016))

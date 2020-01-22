@@ -192,6 +192,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Manifest](https://www.manifest.app/) - Instant grid-based pinboard for note taking in your browser ([Code](https://github.com/jonathontoon/manifest)).
 - [Klarity](https://www.klaritylaw.com/) - Automatic review and mark-up of third party contracts.
 - [AssemblyAI](https://www.assemblyai.com/) - Speech-to-Text you can count on.
+- [Changefeed](https://changefeed.app/) - Beautiful changelog for your product in seconds.
 
 ## Notes
 

@@ -25,7 +25,7 @@
 - [Lisp Machine Manual](https://hanshuebner.github.io/lmman/frontpage.html)
 - [C-Mera](https://github.com/kiselgra/c-mera) - Next-level syntax for C-like languages.
 - [LISP Reference Manual](http://www.softwarepreservation.net/projects/LISP/starlisp/starlisp-reference-manual-version-5-0.pdf)
-- [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation.
+- [femtolisp](https://github.com/JeffBezanson/femtolisp) - Lightweight, robust, scheme-like lisp implementation. ([HN](https://news.ycombinator.com/item?id=22094722))
 - [Performance and Evaluation of Lisp Systems (1985)](http://rpgpoet.com/Files/Timrep.pdf)
 - [Formula One](https://github.com/iwillspeak/formula-one) - Experiment in ways to ergonomically build syntax trees and transformations in Rust.
 - [Bel](http://paulgraham.com/bel.html) - Spec for a new dialect of Lisp, written in itself. ([HN](https://news.ycombinator.com/item?id=21231208))

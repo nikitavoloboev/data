@@ -12,3 +12,4 @@
 - [CPU Microcodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA & Freescale CPU Microcode Repositories.
 - [CPU Scheduling](https://twitter.com/b0rk/status/1215753312324157441)
 - [uarch-bench](https://github.com/travisdowns/uarch-bench) - Benchmark for low-level CPU micro-architectural features.
+- [Performance Analysis & Tuning on Modern CPU - Denis Bakhvalov (2020)](https://www.youtube.com/watch?v=Ho3bCIJcMcc)

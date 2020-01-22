@@ -29,4 +29,4 @@
 - [Type 1-programmed dendritic cells drive antigen-specific latency reversal and immune elimination of persistent HIV-1 (2019)](<https://www.ebiomedicine.com/article/S2352-3964(19)30222-1/fulltext>)
 - [Athelas](https://athelas.com/) - Neutrophils, Lymphocytes, Platelets, WBCs, Morphology, and Cell Activation all within minutes from a fingerprick of blood.
 - ["Building a Unified Cancer Immunotherapy Data Library" by Lacey Kitch and Ben Kamphaus (2019)](https://www.youtube.com/watch?v=vwZxHVcfwuw)
-- [Genome-wide CRISPR–Cas9 screening reveals ubiquitous T cell cancer targeting via the monomorphic MHC class I-related protein MR1 (2020)](https://www.nature.com/articles/s41590-019-0578-8) ([HN](https://news.ycombinator.com/item?id=22101188))
+- [Genome-wide CRISPR–Cas9 screening reveals ubiquitous T cell cancer targeting via the monomorphic MHC class I-related protein MR1 (2020)](https://www.nature.com/articles/s41590-019-0578-8) ([HN](https://news.ycombinator.com/item?id=22101188)) ([Reddit](https://www.reddit.com/r/worldnews/comments/ergiwm/immune_cell_which_kills_most_cancers_discovered/))

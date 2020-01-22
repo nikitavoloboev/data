@@ -12,3 +12,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [What are the differences between OpenBSD and Linux? (2019)](https://cfenollosa.com/blog/what-are-the-differences-between-openbsd-and-linux.html) ([HN](https://news.ycombinator.com/item?id=20028370))
 - [HardenedBSD](https://hardenedbsd.org/) - Security-focused and hardened FreeBSD derivative.
 - [What I think what we need to do to keep FreeBSD relevant (2019)](https://www.leidinger.net/blog/2019/01/27/strategic-thinking-or-what-i-think-what-we-need-to-do-to-keep-freebsd-relevant/) ([HN](https://news.ycombinator.com/item?id=22024881))
+- [FreeBSD is an amazing operating system (2020)](https://www.unixsheikh.com/articles/freebsd-is-an-amazing-operating-system.html) ([HN](https://news.ycombinator.com/item?id=22102372))

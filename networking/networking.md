@@ -66,3 +66,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [tcpgoon](https://github.com/dachad/tcpgoon) - Test concurrent connections towards a server listening to a TCP port.
 - [myLG](https://github.com/mehrdadrad/mylg) - Network Diagnostic Tool.
 - [Zeek](https://github.com/zeek/zeek) - Powerful network analysis framework that is much different from the typical IDS you may know.
+- [Fuzzowski](https://github.com/nccgroup/fuzzowski) - Network Protocol Fuzzer that we will want to use.
