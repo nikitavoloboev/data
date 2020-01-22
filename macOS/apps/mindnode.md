@@ -8,7 +8,7 @@ I also use MindNode to [visually break down problems I am trying to solve](../..
 
 ![](https://i.imgur.com/qHAJdYk.png)
 
-And I visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/dPmKpWZgTpZsaG4Rf1yaz7rXbYhnuqPDDpdss4w2#1594.8,-1084.6,1). I use [Monokai Night](https://github.com/nikitavoloboev/my-mac-os/tree/master/mindnode#readme) theme for it.
+And I visualize topics and their relations as an [interactive mind map](https://my.mindnode.com/fFxApNMuV2GmAzkBYxcD5quSFBM5wevdSMcRTz7H#1464.4,-1059.5,0). I use [Monokai Night](https://github.com/nikitavoloboev/my-mac-os/tree/master/mindnode#readme) theme for it.
 
 ![](https://i.imgur.com/Y7rqrKt.png)
 

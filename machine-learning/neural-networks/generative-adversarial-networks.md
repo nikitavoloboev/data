@@ -12,3 +12,4 @@
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://github.com/tkarras/progressive_growing_of_gans)
 - [CTGAN](https://github.com/sdv-dev/CTGAN) - Implementation of our NeurIPS paper Modeling Tabular data using Conditional GAN.
 - [Awesome GANs with TensorFlow](https://github.com/kozistr/Awesome-GANs#readme)
+- [How to make a pizza: Learning a compositional layer-based GAN model (2019)](https://arxiv.org/abs/1906.02839)

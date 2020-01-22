@@ -4,7 +4,7 @@ I don't know many things. And as the saying goes: _"The more you know, the more 
 
 I list things I am learning and want to learn in a [Trello board](https://trello.com/b/cu32qF3q).
 
-I also visualize some topics and their relations as an [interactive mind map](https://my.mindnode.com/dPmKpWZgTpZsaG4Rf1yaz7rXbYhnuqPDDpdss4w2#1594.8,-1084.6,1).
+I also visualize some topics and their relations as an [interactive mind map](https://my.mindnode.com/fFxApNMuV2GmAzkBYxcD5quSFBM5wevdSMcRTz7H#1464.4,-1059.5,0).
 
 ![](https://i.imgur.com/uzNNYiz.png)
 
