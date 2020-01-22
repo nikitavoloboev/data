@@ -16,6 +16,7 @@
 - [Braid](https://github.com/seek-oss/braid-design-system) - Themeable design system for the SEEK Group.
 - [Lunar](https://github.com/airbnb/lunar) - React toolkit and design language for Airbnb open source and internal projects.
 - [Welcome UI](http://welcome-ui.com/)
+- [Base Web](https://github.com/uber/baseweb) - React Component library implementing the Base design language. ([Docs](https://baseweb.design/))
 
 ## Links
 
