@@ -298,6 +298,7 @@
 - [zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger.
 - [SortedMap](https://github.com/umpc/go-sortedmap) - Simple value-sorted map type for Go that features constant-time reads and efficient iteration over records.
 - [copy](https://github.com/otiai10/copy) - Copy directory recursively.
+- [regexp2](https://github.com/dlclark/regexp2) - Full featured regular expressions for Go.
 
 ## Links
 
