@@ -171,3 +171,4 @@ Go promotes composition over inheritance.
 - [service-training](https://github.com/ardanlabs/service-training) - Training material for the service repo.
 - [How I write Go HTTP services after seven years (2018)](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
 - [Let's Go! Learn to Build Professional Web Applications With Golang](https://lets-go.alexedwards.net/)
+- [Go's Tooling Is an Undervalued Technology (2020)](https://nullprogram.com/blog/2020/01/21/) ([HN](https://news.ycombinator.com/item?id=22113827))

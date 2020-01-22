@@ -12,3 +12,4 @@
 - [Internet-Drafts that make up the base QUIC specification](https://github.com/quicwg/base-drafts)
 - [LiteSpeed QUIC and HTTP/3 Library](https://github.com/litespeedtech/lsquic)
 - [Accelerating UDP packet transmission for QUIC (2020)](https://blog.cloudflare.com/accelerating-udp-packet-transmission-for-quic/)
+- [QUIC draft 25 documents](https://twitter.com/SimmerVigor/status/1219802475177353217)
