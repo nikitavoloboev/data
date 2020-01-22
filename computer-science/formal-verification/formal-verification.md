@@ -12,3 +12,4 @@
 - [A Domain-Specific Language for Verifying Software Requirement Constraints](https://arxiv.org/pdf/1911.02679.pdf)
 - [Provably Correct Peephole Optimizations with Alive (2019)](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/alive/)
 - [SwiftCSP](https://github.com/davecom/SwiftCSP) - Constraint satisfaction problem solver written in pure Swift.
+- [Proof Assistants At the Hardware-Software Interface (2020)](https://www.youtube.com/watch?v=GXXOyXeyKeY)
