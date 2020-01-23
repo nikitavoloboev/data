@@ -120,3 +120,4 @@
 - [Program Repair](https://program-repair.org/index.html) - Community-driven effort to facilitate discovery, access and systematization of data related to automated program repair research.
 - [Literate Programming notes](https://pbat.ch/wiki/literate_programming/)
 - [TU Delft Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/)
+- [Ask HN: What change in your programming technique has been most transformative? (2020)](https://news.ycombinator.com/item?id=22129757)

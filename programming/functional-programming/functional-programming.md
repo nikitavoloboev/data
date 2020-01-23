@@ -58,6 +58,7 @@
 - [Luka Jacobowitz—Monoids, Monoids, Monoids (2019)](https://www.youtube.com/watch?v=DJyhWAwmGqE)
 - [Selective Lambda Lifting (2019)](https://arxiv.org/abs/1910.11717)
 - [Recursion Scheme Talks](https://github.com/sellout/recursion-scheme-talk)
+- [Domain Modeling Made Functional - Scott Wlaschin (2017)](https://www.youtube.com/watch?v=Up7LcbGZFuo)
 
 ## Images
 
