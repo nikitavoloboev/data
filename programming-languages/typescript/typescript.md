@@ -79,6 +79,7 @@
 - [Is TypeScript worth it? (2020)](https://blog.logrocket.com/is-typescript-worth-it/) ([HN](https://news.ycombinator.com/item?id=22055341))
 - [React with TypeScript: Best Practices (2020)](https://www.sitepoint.com/react-with-typescript-best-practices/)
 - [dts-gen](https://github.com/microsoft/dts-gen) - TypeScript Definition File Generator.
+- [Nimbus](https://github.com/airbnb/nimbus) - Centralized CLI for JavaScript and TypeScript developer tools.
 
 ## Images
 

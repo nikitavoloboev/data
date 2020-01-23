@@ -88,6 +88,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Unofficial Apple Archive](https://www.applearchive.org/) ([HN](https://news.ycombinator.com/item?id=22066177))
 - [Stuff I learnt in 2019](http://bollu.github.io/#stuff-i-learnt-in-2019) ([HN](https://news.ycombinator.com/item?id=21884543))
 - [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme) - Free stock photography, video and Illustration websites.
-- [Women Make](https://womenmake.com/) - Community created so we have a place to chat with other women entrepreneurs, help each other out and have fun.
+- [Women Make](https://womenmake.com/) - Community created so we have a place to chat with other women entrepreneurs, help each other out and have fun. ([HN](https://news.ycombinator.com/item?id=22128385))
 - [How To Search Twitter Like a Pro (2020)](https://mailbrew.com/blog/twitter-advanced-search)
 - [Nucoll](https://github.com/jdevoo/nucoll) - Command-line tool written in Go. It can be used to retrieve data from Twitter.

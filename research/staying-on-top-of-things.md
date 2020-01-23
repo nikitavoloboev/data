@@ -70,7 +70,7 @@ And these Discord servers:
 - [Cardano Community](https://discordapp.com/invite/kwY6rj8)
 - [QMK](https://discord.gg/mthbPUc)
 - [Godot Engine](https://discord.gg/ZXJERxu)
-- [r/ Apple](https://discordapp.com/invite/apple)
+- [r/Apple](https://discordapp.com/invite/apple)
 
 ## Publications
 

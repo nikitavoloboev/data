@@ -122,3 +122,4 @@
 - [Program Repair](https://program-repair.org/index.html) - Community-driven effort to facilitate discovery, access and systematization of data related to automated program repair research.
 - [Literate Programming notes](https://pbat.ch/wiki/literate_programming/)
 - [TU Delft Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/)
+- [Things that Matter - Scott Meyers (2017)](https://www.youtube.com/watch?v=RT46MpK39rQ)
