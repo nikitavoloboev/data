@@ -74,3 +74,6 @@
 - [Recurrent Geometric Networks for end-to-end differentiable learning of protein structure](https://github.com/aqlaboratory/rgn)
 - [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence (2020)](https://arxiv.org/abs/2001.07685) ([Tweet](https://twitter.com/D_Berthelot_ML/status/1219823580654948353))
 - [kapre](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.
+- [Putting An End to End-to-End: Gradient-Isolated Learning of Representations (2019)](https://arxiv.org/pdf/1905.11786.pdf)
+- [Memory-Augmented Neural Networks for Machine Translation (2019)](https://arxiv.org/abs/1909.08314)
+- [Have there been any important developments on content addressable memory since hopfield network? (neural networkish) (2020)](https://www.reddit.com/r/MachineLearning/comments/esrroh/d_have_there_been_any_important_developments_on/)

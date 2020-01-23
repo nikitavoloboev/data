@@ -70,3 +70,4 @@
 - [Memory-efficient implementation of DenseNets](https://github.com/gpleiss/efficient_densenet_pytorch)
 - [PyTorch Toolbelt](https://github.com/BloodAxe/pytorch-toolbelt) - PyTorch extensions for fast R&D prototyping and Kaggle farming.
 - [Reformer](https://github.com/lucidrains/reformer-pytorch) - Efficient Transformer, in PyTorch.
+- [Which PyTorch-compatible training abstraction libraries do you use and why? (2020)](https://www.reddit.com/r/MachineLearning/comments/esrtxu/d_which_pytorchcompatible_training_abstraction/)

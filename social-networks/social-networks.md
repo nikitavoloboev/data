@@ -39,3 +39,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Killing my social media addiction (2019)](https://medium.com/@kitze/killing-my-social-media-addiction-df91122c2322)
 - [Jack Dorsey Wants to Decentralize Twitter](https://twitter.com/jack/status/1204766078468911106) ([HN](https://news.ycombinator.com/item?id=21762780))
 - [tilde.club](http://tilde.club/) - Not a social network it is one tiny totally standard unix computer that people respectfully use together in their shared quest to build awesome web pages.
+- [Planetary](https://planetary.social/) - Building an open and humane alternative to Facebook.
