@@ -25,5 +25,5 @@
 - [Real Life Architectures Archive](https://www.8bitmen.com/category/real-life-architectures/)
 - [Become a Better Software Architect](https://github.com/justinamiller/SoftwareArchitect#readme)
 - [Run Book / Operations Manual template for modern software systems](https://github.com/SkeltonThatcher/run-book-template)
-- [How I write backends](https://github.com/fpereiro/backendlore#readme) ([HN](https://news.ycombinator.com/item?id=22106482))
+- [How I write backends](https://github.com/fpereiro/backendlore#readme) ([HN](https://news.ycombinator.com/item?id=22106482)) ([Reddit](https://www.reddit.com/r/programming/comments/es7uej/how_i_write_backends/))
 - [Universal Design Pattern (2008)](http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html) ([HN](https://news.ycombinator.com/item?id=337746))
