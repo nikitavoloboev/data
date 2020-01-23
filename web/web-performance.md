@@ -22,3 +22,4 @@
 - [Perf Tooling](https://github.com/stefanjudis/perf-tooling) - List of performance analysis, monitoring and optimization tools.
 - [Keeping 100% Lighthouse score around the world - Leonardo Zizzamia (2020)](https://www.youtube.com/watch?v=fg7N14Fq1gM)
 - [Calibre](https://calibreapp.com/) - Monitor and audit web performance. Make meaningful improvements where it matters.
+- [Web bloat](http://danluu.com/web-bloat/)

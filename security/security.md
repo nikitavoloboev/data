@@ -30,3 +30,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - Finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
 - [camo](https://github.com/atmos/camo) - HTTP proxy to route images through SSL. Making insecure assets look secure.
 - [Vault](https://github.com/hashicorp/vault) - Tool for secrets management, encryption as a service, and privileged access management.
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking#readme)

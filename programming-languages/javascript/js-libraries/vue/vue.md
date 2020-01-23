@@ -10,3 +10,4 @@
 - [Vue RFCs](https://github.com/vuejs/rfcs) - RFCs for substantial changes / feature additions to Vue core.
 - [Vue's Darkest Day (2019)](https://dev.to/danielelkington/vue-s-darkest-day-3fgh#0)
 - [vue-next](https://github.com/vuejs/vue-next) - V3 rewrite of Vue.js
+- [Design Principles of Vue 3.0 by Evan You (2019)](https://www.youtube.com/watch?v=WLpLYhnGqPA)
