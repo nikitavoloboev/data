@@ -148,6 +148,7 @@
 - [RouteComposer](https://github.com/ekazaev/route-composer) - Protocol oriented, Cocoa UI abstractions based library that helps to handle view controllers composition, navigation and deep linking tasks in the iOS application.
 - [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift.
 - [Version](https://github.com/mxcl/Version) - Semver (Semantic Version) Swift µFramework.
+- [AXSwift](https://github.com/tmandry/AXSwift) - Swift wrapper for accessibility clients.
 
 ## Links
 

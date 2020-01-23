@@ -24,6 +24,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [macos-key-cast](https://github.com/karaggeorge/macos-key-cast) - Log keys pressed on macOS. Useful for screen recordings and presentations.
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas.
 - [Plash](https://github.com/sindresorhus/Plash) - Make any website your Mac desktop wallpaper.
+- [Swindler](https://github.com/tmandry/Swindler) - Swift window management library for macOS.
 
 ## Other interesting apps
 
