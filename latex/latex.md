@@ -24,3 +24,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing) - Drawing Bayesian networks, graphical models, and technical frameworks in LaTeX.
 - [The Great, Big List of LATEX Symbols](https://www.rpi.edu/dept/arc/training/latex/LaTeX_symbols.pdf)
 - [BayesNet](https://github.com/jluttine/tikz-bayesnet) - TikZ library for drawing Bayesian networks, graphical models and (directed) factor graphs in LaTeX.
+- [LaTeX.Online](https://latexonline.cc/) - Open source service where anyone can build a PDF from GIT repository with TeX files. ([Code](https://github.com/aslushnikov/latex-online))
