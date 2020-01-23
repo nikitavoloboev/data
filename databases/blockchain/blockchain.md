@@ -51,3 +51,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [DAML smart contract language](https://github.com/digital-asset/daml)
 - [Solana](https://github.com/solana-labs/solana) - New blockchain architecture built from the ground up for scale. The architecture supports up to 710 thousand transactions per second on a gigabit network.
 - [go-algorand](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
+- [MIT: Blockchain and Money (2018)](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/) ([Lectures](https://www.youtube.com/watch?v=EH6vE97qIP4))
