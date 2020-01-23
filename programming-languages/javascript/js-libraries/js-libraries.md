@@ -12,6 +12,7 @@
 - [Solid](https://github.com/ryansolid/solid) - Declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Neutrino dev](https://github.com/mozilla-neutrino/neutrino-dev)
 - [Alpine.js](https://github.com/alpinejs/alpine) - Rugged, minimal framework for composing JavaScript behavior in your markup.
+- [After.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4.
 
 ## Animation
 

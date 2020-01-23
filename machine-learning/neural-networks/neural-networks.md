@@ -73,3 +73,4 @@
 - [Temperature Scaling](https://github.com/gpleiss/temperature_scaling) - Simple way to calibrate your neural network.
 - [Recurrent Geometric Networks for end-to-end differentiable learning of protein structure](https://github.com/aqlaboratory/rgn)
 - [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence (2020)](https://arxiv.org/abs/2001.07685) ([Tweet](https://twitter.com/D_Berthelot_ML/status/1219823580654948353))
+- [kapre](https://github.com/keunwoochoi/kapre) - Keras Audio Preprocessors.

@@ -15,6 +15,7 @@
 - [gowid](https://github.com/gcla/gowid) - Compositional widgets for terminal user interfaces, written in Go, inspired by urwid.
 - [go-arg](https://github.com/alexflint/go-arg) - Structured argument parsing for Go.
 - [Glamour](https://github.com/charmbracelet/glamour) - Write gorgeous command-line tools.
+- [termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications.
 
 ## Test
 
