@@ -54,3 +54,4 @@
 - [Learning Distributed Systems - Cloud Native Podcast](https://thepodlets.io/episodes/012-learning-distributed-systems/)
 - [etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system.
 - [etcdadm](https://github.com/kubernetes-sigs/etcdadm) - Command-line tool for operating an etcd cluster. It makes it easy to create a new cluster, add a member to, or remove a member from an existing cluster.
+- [Learning to build distributed systems (2019)](https://brooker.co.za/blog/2019/04/03/learning.html) ([Lobsters](https://lobste.rs/s/igiolo/learning_build_distributed_systems))
