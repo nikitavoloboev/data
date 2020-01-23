@@ -35,6 +35,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Devine Lu Linvega](https://wiki.xxiivv.com) ([Code](https://github.com/XXIIVV/Oscean))
 - [100 Rabbits](https://100r.co/site/home.html)
 - [Gwern](https://www.gwern.net/About)
+- [Paul Copplestone](https://paul.copplest.one/knowledge/) ([Code](https://github.com/kiwicopple/paul.copplest.one))
 - [Yoshua Wuyts](https://yoshuawuyts.gitbooks.io/knowledge/content/)
 - [Oleg Kiselyov](http://okmij.org/ftp/) - Lots of stuff on FP.
 - [Richard Litt](https://github.com/RichardLitt/knowledge)
