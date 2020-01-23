@@ -28,3 +28,4 @@
 - [Our Thoughts on P=NP (2020)](https://rjlipton.wordpress.com/2020/01/12/our-thoughts-on-pnp/)
 - [List of Cornell Computer Science Course Offerings](https://www.cs.cornell.edu/courseinfo/listofcscourses)
 - [A Short Note on The Y Combinator (2018)](https://invenia.github.io/blog/2018/08/20/ycombinator/)
+- [BaseCS](https://medium.com/basecs) - Exploring the basics of computer science, every Monday, for a year.
