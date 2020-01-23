@@ -132,3 +132,4 @@
 - [Contour](https://github.com/projectcontour/contour) - Kubernetes ingress controller using Lyft's Envoy proxy.
 - [Roperator](https://github.com/psFried/roperator) - Lets you easily write Kubernetes Operators in Rust.
 - [Krustlet](https://github.com/deislabs/krustlet) - Kubernetes Kubelet in Rust for running WASM.
+- [WaeaveWorks](https://www.weave.works/) - Operate and manage production ready Kubernetes with Weave Kubernetes Platform.

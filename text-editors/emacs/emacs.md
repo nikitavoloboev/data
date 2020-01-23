@@ -38,3 +38,4 @@ Might give it a go sometime.
 - [EmacsConf 2019 videos](https://lists.gnu.org/archive/html/emacsconf-discuss/2019-11/msg00002.html)
 - [Consistent Technical Documents Using Emacs and Org Mode (2019)](https://www.youtube.com/watch?v=0g9BcZvQbXU)
 - [Emacs: The Editor for the Next Forty Years](https://media.emacsconf.org/2019/26.html) ([HN](https://news.ycombinator.com/item?id=21638197)) ([Lobsters](https://lobste.rs/s/qzu97s/emacs_editor_for_next_forty_years))
+- [Emacs - Productivity Tricks/Hacks](http://www.mycpu.org/emacs-productivity-setup/) ([HN](https://news.ycombinator.com/item?id=22129636))

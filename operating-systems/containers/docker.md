@@ -28,3 +28,4 @@
 - [ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics.
 - [DockerSlim](https://github.com/docker-slim/docker-slim) - Minify and Secure Docker containers.
 - ["Distroless" Docker Images](https://github.com/GoogleContainerTools/distroless) - Language focused docker images, minus the operating system.
+- [Docker Registry Client for Go apps](https://github.com/heroku/docker-registry-client)

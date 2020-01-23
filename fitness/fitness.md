@@ -19,3 +19,4 @@ I also enjoy playing sports like football.
 - [r/Fitness Basic Beginner Routine](https://thefitness.wiki/routines/r-fitness-basic-beginner-routine/)
 - [Running Tips (2019)](https://ruiper.es/2019/12/31/running-tips/) ([HN](https://news.ycombinator.com/item?id=21923486))
 - [Recommended Body Weight Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine)
+- [BodyWeightStrength](https://bodyweightstrength.fit/) - Series of videos designed to take anyone form absolute beginner to a strong, functional physique with minimal equipment.
