@@ -27,3 +27,4 @@
 - [Run Book / Operations Manual template for modern software systems](https://github.com/SkeltonThatcher/run-book-template)
 - [How I write backends](https://github.com/fpereiro/backendlore#readme) ([HN](https://news.ycombinator.com/item?id=22106482)) ([Reddit](https://www.reddit.com/r/programming/comments/es7uej/how_i_write_backends/))
 - [Universal Design Pattern (2008)](http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html) ([HN](https://news.ycombinator.com/item?id=337746))
+- [The 12 Factor App](https://12factor.net)

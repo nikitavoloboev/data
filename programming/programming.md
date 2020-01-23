@@ -43,7 +43,6 @@
 - [Fish Design Principles](https://fishshell.com/docs/current/design.html)
 - [List of resources about programming practices for writing safety-critical software](https://github.com/stanislaw/awesome-safety-critical#readme)
 - [In Pursuit of Production Minimalism](https://brandur.org/minimalism)
-- [The 12 Factor App](https://12factor.net)
 - [Mostly avoid unit tests](https://lobste.rs/s/trrold/mostly_avoid_unit_tests)
 - [Software disenchantment](http://tonsky.me/blog/disenchantment/)
 - [In search of software perfection - Xavier Leroy (2016)](https://www.youtube.com/watch?v=lAU5hx_3xRc)
@@ -72,7 +71,6 @@
 - [7 absolute truths I unlearned as junior developer (2019)](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/) ([HN](https://news.ycombinator.com/item?id=20124018)) ([Lobsters](https://lobste.rs/s/zki5sf/7_absolute_truths_i_unlearned_as_junior))
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know#readme)
 - [Risk-First development book](https://riskfirst.org/)
-- [The Twelve-Factor App](https://www.12factor.net/)
 - [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex) - Resources and references for the past and future of visual programming.
 - [Things I Learnt from a Senior Software Engineer (2019)](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html) ([HN](https://news.ycombinator.com/item?id=20794861))
 - [Writing system software: code comments](http://antirez.com/news/124)
