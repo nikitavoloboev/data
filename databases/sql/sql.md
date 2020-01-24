@@ -30,3 +30,4 @@
 - [SQL Koans](https://sqlkoans.com/) - Set of koans to introduce you to SQL. ([Code](https://github.com/phillipjohnson/sql-koans))
 - [eSQLate](https://github.com/forbesmyester/esqlate) - Build minimum viable admin panels quickly with just SQL.
 - [Presto](https://prestodb.io/) - Distributed SQL Query Engine for Big Data. ([Code](https://github.com/prestodb/presto))
+- [SQL Language Server](https://github.com/joe-re/sql-language-server)

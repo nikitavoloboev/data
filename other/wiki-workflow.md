@@ -49,6 +49,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Full-stack web development notes](https://github.com/8483/notes#readme)
 - [Max Masnick](https://maxmasnick.com/kb/)
 - [Leon Bambrick](https://til.secretgeek.net/)
+- [Ben Lynn](http://www-cs-students.stanford.edu/~blynn/)
 - [Ioannis Kourouklides](https://wiki.kourouklides.com/wiki/Main_Page)
 - [Dmitrii Gerasimov](https://beepb00p.xyz/)
 - [Flavio Copes](https://flaviocopes.com/)

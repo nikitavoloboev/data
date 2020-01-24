@@ -53,3 +53,5 @@
 - [CS 6120: Advanced Compilers course](https://www.cs.cornell.edu/courses/cs6120/2019fa/) ([Code](https://github.com/sampsyo/cs6120))
 - [A Survey on Compiler Autotuning using Machine Learning (2018)](https://arxiv.org/abs/1801.04405)
 - [Compilers for humans](https://compilersforhumans.com/)
+- [Compiler notes](http://www-cs-students.stanford.edu/~blynn/compiler/)
+- [Adventures of a Haskell compiler](https://crypto.stanford.edu/~blynn/compiler/) - Main goal is to continually level-up a self-hosting Haskell compiler. ([Code](https://github.com/blynn/compiler))

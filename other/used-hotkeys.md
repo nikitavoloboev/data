@@ -56,6 +56,7 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - 8 - New 2Do quick task
 - 9 - Typinator quick search
 - u - Open URL
+- i - Tester
 - x - Little Snitch Network Monitor
 - c - Sleep
 - v - Selection -> HN

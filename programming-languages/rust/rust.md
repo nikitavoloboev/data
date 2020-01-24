@@ -140,3 +140,4 @@
 - [How To Write Fast Rust Code (2020)](http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html) ([Reddit](https://www.reddit.com/r/rust/comments/eq168d/how_to_write_fast_rust_code/))
 - [The Soundness Pledge (2020)](https://raphlinus.github.io/rust/2020/01/18/soundness-pledge.html) ([Reddit](https://www.reddit.com/r/rust/comments/eqcefv/the_soundness_pledge/))
 - [What is Rust and why is it so popular? (2020)](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/) ([HN](https://news.ycombinator.com/item?id=22106501))
+- [cargo-generate](https://github.com/ashleygwilliams/cargo-generate) - Developer tool to help you get up and running quickly with a new Rust project by leveraging a pre-existing git repository as a template.

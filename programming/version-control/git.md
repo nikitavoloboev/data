@@ -86,3 +86,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Ignoring bulk change commits with git blame (2019)](https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame)
 - [git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems.
 - [Release It](https://github.com/release-it/release-it) - Automate versioning and package publishing.
+- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) - Guide to using Git, a version control system. Fast, powerful, easy to learn.
