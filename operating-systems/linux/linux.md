@@ -74,3 +74,5 @@ Never used it as my main OS but I do want to explore it more in the future.
 - ["Kernel hacking like it's 2020" - Russell Currey](https://www.youtube.com/watch?v=heib48KG-YQ)
 - [Various notes for my linux desktop projects by Devine](https://wiki.xxiivv.com/site/computer.html) ([Code](https://github.com/neauoire/linux-notebook))
 - [Using cgroups to limit I/O (2017)](https://andrestc.com/post/cgroups-io/)
+- [Linux Programming Interface book (2010)](http://man7.org/tlpi/)
+- [Linux and UNIX programming training and consulting by Michael Kerrisk](http://man7.org/training/index.html)
