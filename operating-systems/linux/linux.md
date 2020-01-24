@@ -2,6 +2,10 @@
 
 Never used it as my main OS but I do want to explore it more in the future.
 
+## Distributions
+
+- [KISS](https://getkiss.org/)
+
 ## WM
 
 - [xmonad](http://xmonad.org/) - Tiling WM.
