@@ -127,3 +127,4 @@
 - [Микроптимизации производительности и JavaScript (2020)](https://medium.com/devschacht/optimizations-and-javascript-f8e060d3eae3)
 - [Taming the asynchronous beast with CSP channels in JavaScript (2014)](https://jlongster.com/Taming-the-Asynchronous-Beast-with-CSP-in-JavaScript)
 - [Debounce vs Throttle: Definitive Visual Guide (2019)](https://redd.one/blog/debounce-vs-throttle)
+- [GistLink](https://gist.link/) - Code apps or components. See them render as you type. Share your creations via URL.

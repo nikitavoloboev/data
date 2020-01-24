@@ -57,3 +57,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Ask HN: How do you manage your bookmarks? (2020)](https://news.ycombinator.com/item?id=22105561)
 - [Timeless Web Dev Articles (2020)](https://css-tricks.com/timeless-web-dev-articles/)
 - [Whatever Happened to the Semantic Web? (2018)](https://twobithistory.org/2018/05/27/semantic-web.html) ([HN](https://news.ycombinator.com/item?id=18023408))
+- [berserk](https://github.com/jackdoe/berserk) - Personal website + shell.

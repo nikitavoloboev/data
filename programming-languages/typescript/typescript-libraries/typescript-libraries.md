@@ -22,6 +22,7 @@
 - [ts-prune](https://github.com/nadeesha/ts-prune) - Find unused exports in a typescript project.
 - [byots](https://github.com/basarat/byots) - Bring your own TypeScript with more internal definitions.
 - [is](https://github.com/sindresorhus/is) - Type check values.
+- [sql-ts](https://github.com/rmp135/sql-ts) - Generate TypeScript types from a SQL database.
 
 ## Links
 

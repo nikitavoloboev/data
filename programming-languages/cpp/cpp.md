@@ -59,3 +59,4 @@
 - [ThreadPool](https://github.com/progschj/ThreadPool) - Simple C++11 Thread Pool implementation. ([HN](https://news.ycombinator.com/item?id=22001711))
 - [What do you mean by "cache friendly"? - Björn Fahller (2019)](https://www.youtube.com/watch?v=Fzbotzi1gYs)
 - [C++ papers JTC1/SC22/WG21 (2020)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/#mailing2020-01)
+- [C++ Lifetime Profile: How It Plans to Make C++ Code Safer (2020)](https://pspdfkit.com/blog/2020/the-cpp-lifetime-profile/)
