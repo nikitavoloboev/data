@@ -26,6 +26,7 @@
 - [use-methods](https://github.com/pelotom/use-methods) - Simpler way to useReducers.
 - [@umijs/hooks](https://github.com/umijs/hooks) - React Hooks Library.
 - [Collection of beautiful (and hopefully useful) React hooks to speed-up your components and hooks development](https://github.com/antonioru/beautiful-react-hooks)
+- [Collection of React Hooks](https://nikgraf.github.io/react-hooks/) ([Code](https://github.com/nikgraf/react-hooks))
 
 ## Links
 

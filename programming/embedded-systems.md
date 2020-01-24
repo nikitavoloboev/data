@@ -21,3 +21,4 @@
 - [Swift for Embedded Systems](https://github.com/swift-embedded/swift-embedded)
 - [Cross](https://github.com/swift-embedded/cross) - Utility for easy cross compilation of projects to bare metal.
 - [Entry level embedded software career guide (2019)](https://www.reddit.com/r/embedded/comments/cbswjt/entry_level_embedded_software_career_guide/)
+- [printf](https://github.com/mpaland/printf) - Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
