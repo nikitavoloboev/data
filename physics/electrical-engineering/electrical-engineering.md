@@ -6,3 +6,4 @@
 - [Sandbox Electronics](https://sandboxelectronics.com/)
 - [CircuitHub](https://circuithub.com/) - On demand electronics manufacturing.
 - [Electronics](https://github.com/pepaslabs/Electronics) - Central place to organize and publish all of my hobbyist electronics knowledge and projects.
+- [I2C in a Nutshell (2020)](https://interrupt.memfault.com/blog/i2c-in-a-nutshell)

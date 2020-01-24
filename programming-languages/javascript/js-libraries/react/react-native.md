@@ -30,3 +30,4 @@
 - [Start React Native](https://start-react-native.dev/) - Learn to leverage the power of declarative gestures and animations to build delightful user experiences that run at 60 fps even on low-grade Android devices.
 - [Awesome React Native: Native Modules](https://github.com/prscX/awesome-react-native-native-modules#readme)
 - [React Native Now](https://reactnativenow.com/) - Bi-weekly React Native newsletter.
+- [Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat) - Most complete chat UI for React Native & Web.
