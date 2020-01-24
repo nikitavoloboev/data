@@ -29,3 +29,4 @@
 - [DockerSlim](https://github.com/docker-slim/docker-slim) - Minify and Secure Docker containers.
 - ["Distroless" Docker Images](https://github.com/GoogleContainerTools/distroless) - Language focused docker images, minus the operating system.
 - [Docker Registry Client for Go apps](https://github.com/heroku/docker-registry-client)
+- [tsuru](https://github.com/tsuru/tsuru) - Open source, extensible and Docker-based Platform as a Service.

@@ -177,4 +177,4 @@ Go promotes composition over inheritance.
 - [Go FAQ](https://golang.org/doc/faq)
 - [gosec](https://github.com/securego/gosec) - Golang Security Checker.
 - [Inlined defers in Go (2020)](https://rakyll.org/inlined-defers/)
-- [Andre Carvalho - Understanding Go's Memory Allocator (2018)](https://www.youtube.com/watch?v=3CR4UNMK_Is)
+- [Andre Carvalho - Understanding Go's Memory Allocator (2018)](https://andrestc.com/post/go-memory-allocation-pt1/) ([Video](https://www.youtube.com/watch?v=3CR4UNMK_Is))
