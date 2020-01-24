@@ -58,6 +58,7 @@
 - [Stack Styled](https://github.com/sapegin/stack-styled) - Stacking layouts for React.
 - [Rethinking Navigation](https://github.com/react-navigation/navigation-ex) - Exploration of a component-first API for React Navigation for building more dynamic navigation solutions.
 - [craft.js](https://github.com/prevwong/craft.js) - React Framework for building extensible drag and drop page editors.
+- [React Iframe](https://github.com/svenanders/react-iframe) - Simple solution for using iframes in React.
 
 ## Links
 
