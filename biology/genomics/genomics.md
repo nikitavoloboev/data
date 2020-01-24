@@ -8,3 +8,4 @@
 - [Handbook of Statistical Genomics (2019)](https://www.goodreads.com/book/show/44327365-handbook-of-statistical-genomics)
 - [Nature Reviews Genetics](https://www.nature.com/nrg/) - Monthly review journal in genetics and covers the full breadth of modern genetics.
 - [Bioinformatics and Functional Genomics 3rd Edition by Jonathan Pevsner](http://www.bioinfbook.org/)
+- [Nucleus](https://github.com/google/nucleus) - Python and C++ code for reading and writing genomics data.

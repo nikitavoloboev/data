@@ -150,6 +150,7 @@
 - [CoreStore](https://github.com/JohnEstropia/CoreStore) - Unleashing the real power of Core Data with the elegance and safety of Swift.
 - [Version](https://github.com/mxcl/Version) - Semver (Semantic Version) Swift µFramework.
 - [AXSwift](https://github.com/tmandry/AXSwift) - Swift wrapper for accessibility clients.
+- [Path.swift](https://github.com/mxcl/Path.swift) - Delightful, robust, cross-platform and chainable file-pathing functions.
 
 ## Links
 
