@@ -16,6 +16,8 @@
 - [gatsby-theme-austere](https://github.com/johno/gatsby-theme-austere) - Minimal blog theme built for those wanting to focus on their writing.
 - [Gatsby Theme FAQs Prismic](https://github.com/littleplusbig/gatsby-theme-faqs-prismic) - Pretty FAQ page for Gatsby projects, out of the box.
 - [gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - Generate GitBook style modern docs/tutorial websites using Gatsby + MDX.
+- [gatsby-casper](https://github.com/scttcper/gatsby-casper) - Casper 2 blog starter for Gatsby.
+- [gatsby-london](https://github.com/ImedAdel/gatsby-london) - Free, open source, image-concentric starter for GatsbyJS.
 
 ## Plugins
 

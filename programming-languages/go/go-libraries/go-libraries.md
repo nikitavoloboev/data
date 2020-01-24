@@ -27,6 +27,7 @@
 - [quicktest](https://github.com/frankban/quicktest) - Collection of Go helpers for writing tests.
 - [go-fuzz](https://github.com/dvyukov/go-fuzz) - Randomized testing for Go.
 - [Mockc](https://github.com/KimMachineGun/mockc) - Compile-time mock generator for Go.
+- [Terratest](https://github.com/gruntwork-io/terratest) - Makes it easier to write automated tests for your infrastructure code.
 
 ## Web
 

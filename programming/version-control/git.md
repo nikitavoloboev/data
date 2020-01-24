@@ -85,3 +85,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Moving a Git Repository into Its Submodule (2020)](https://pspdfkit.com/blog/2020/moving-a-git-repository-into-its-submodule/)
 - [Ignoring bulk change commits with git blame (2019)](https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame)
 - [git-sizer](https://github.com/github/git-sizer) - Compute various size metrics for a Git repository, flagging those that might cause problems.
+- [Release It](https://github.com/release-it/release-it) - Automate versioning and package publishing.

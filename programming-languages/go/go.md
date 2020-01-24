@@ -175,3 +175,4 @@ Go promotes composition over inheritance.
 - [GoProxy](https://github.com/goproxyio/goproxy) - Global proxy for Go modules. ([Web](https://goproxy.io/))
 - [Adrian Cockcroft: Communicating Sequential Goroutines (2016)](https://www.youtube.com/watch?v=gO1qF19y6KQ)
 - [Go FAQ](https://golang.org/doc/faq)
+- [gosec](https://github.com/securego/gosec) - Golang Security Checker.
