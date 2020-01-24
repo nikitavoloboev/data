@@ -31,3 +31,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [camo](https://github.com/atmos/camo) - HTTP proxy to route images through SSL. Making insecure assets look secure.
 - [Vault](https://github.com/hashicorp/vault) - Tool for secrets management, encryption as a service, and privileged access management.
 - [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking#readme)
+- [OSS-Fuzz](https://github.com/google/oss-fuzz) - Continuous Fuzzing for Open Source Software.

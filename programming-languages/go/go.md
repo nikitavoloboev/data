@@ -173,3 +173,5 @@ Go promotes composition over inheritance.
 - [Let's Go! Learn to Build Professional Web Applications With Golang](https://lets-go.alexedwards.net/)
 - [Go's Tooling Is an Undervalued Technology (2020)](https://nullprogram.com/blog/2020/01/21/) ([HN](https://news.ycombinator.com/item?id=22113827))
 - [GoProxy](https://github.com/goproxyio/goproxy) - Global proxy for Go modules. ([Web](https://goproxy.io/))
+- [Adrian Cockcroft: Communicating Sequential Goroutines (2016)](https://www.youtube.com/watch?v=gO1qF19y6KQ)
+- [Go FAQ](https://golang.org/doc/faq)

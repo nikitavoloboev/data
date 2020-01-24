@@ -11,3 +11,4 @@
 - [Vue's Darkest Day (2019)](https://dev.to/danielelkington/vue-s-darkest-day-3fgh#0)
 - [vue-next](https://github.com/vuejs/vue-next) - V3 rewrite of Vue.js
 - [Design Principles of Vue 3.0 by Evan You (2019)](https://www.youtube.com/watch?v=WLpLYhnGqPA)
+- [Vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js

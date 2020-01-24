@@ -218,6 +218,7 @@
 - [yaml-rust](https://github.com/chyh1990/yaml-rust) - Pure rust YAML implementation.
 - [directories](https://github.com/soc/directories-rs) - Mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows.
 - [Bastion](https://github.com/bastion-rs/bastion) - Highly-available, fault-tolerant runtime system with dynamic, dispatch-oriented, lightweight process model.
+- [Desse](https://github.com/devashishdxt/desse) - Ultra fast binary serialization and deserialization for types with a constant size (known at compile time).
 
 ## Cargo Plugins
 

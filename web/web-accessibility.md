@@ -7,3 +7,4 @@
 - [18F Accessibility Guide](https://accessibility.18f.gov/) - Repo to organize the guidelines and best practices for accessibility at 18f. ([Code](https://github.com/18F/accessibility))
 - [Accessibility Interview Questions](https://github.com/scottaohara/accessibility_interview_questions#readme)
 - [prefers-reduced-motion: Sometimes less movement is more (2019)](https://web.dev/prefers-reduced-motion/)
+- [Standards for Writing Accessibly (2020)](https://alistapart.com/article/standards-for-writing-accessibly/)
