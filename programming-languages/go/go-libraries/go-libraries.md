@@ -2,7 +2,6 @@
 
 ## CLI
 
-- [tui go](https://github.com/marcusolsson/tui-go) - UI lib for terminal applications.
 - [cli](https://github.com/urfave/cli)
 - [gjson](https://github.com/tidwall/gjson)
 - [ishell](https://github.com/abiosoft/ishell)
@@ -16,6 +15,7 @@
 - [go-arg](https://github.com/alexflint/go-arg) - Structured argument parsing for Go.
 - [Glamour](https://github.com/charmbracelet/glamour) - Write gorgeous command-line tools.
 - [termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications.
+- [tui go](https://github.com/marcusolsson/tui-go) - UI lib for terminal applications.
 
 ## Test
 

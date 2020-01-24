@@ -27,6 +27,7 @@
 - [A Graduate Course in Applied Cryptography (2020)](https://toc.cryptobook.us/) ([HN](https://news.ycombinator.com/item?id=22013751))
 - [BLAKE3 (in Rust)](https://github.com/BLAKE3-team/BLAKE3) - Cryptographic hash function.
 - [BLAKE3 (rewrite in Go)](https://github.com/lukechampine/blake3)
+- [BLAKE3 (in JS)](https://github.com/connor4312/blake3) - Hashing for JavaScript: native Node bindings (where available) and WebAssembly.
 - [BLAKE3 reference specification](https://github.com/BLAKE3-team/BLAKE3-specs)
 - [real world crypto talks](https://flak.tedunangst.com/post/real-world-crypto-talks)
 - [awesome-mpc](https://github.com/rdragos/awesome-mpc#readme) - Curated list of multi party computation resources and links.
