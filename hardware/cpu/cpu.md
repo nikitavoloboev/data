@@ -13,3 +13,5 @@
 - [CPU Scheduling](https://twitter.com/b0rk/status/1215753312324157441)
 - [uarch-bench](https://github.com/travisdowns/uarch-bench) - Benchmark for low-level CPU micro-architectural features.
 - [Performance Analysis & Tuning on Modern CPU - Denis Bakhvalov (2020)](https://www.youtube.com/watch?v=Ho3bCIJcMcc)
+- [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)
+- [IA32-doc](https://github.com/wbenny/ia32-doc) - Project which aims to put as many definitions from the Intel Manual into machine-processable format as possible.

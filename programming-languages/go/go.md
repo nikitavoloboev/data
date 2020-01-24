@@ -176,3 +176,4 @@ Go promotes composition over inheritance.
 - [Adrian Cockcroft: Communicating Sequential Goroutines (2016)](https://www.youtube.com/watch?v=gO1qF19y6KQ)
 - [Go FAQ](https://golang.org/doc/faq)
 - [gosec](https://github.com/securego/gosec) - Golang Security Checker.
+- [Inlined defers in Go (2020)](https://rakyll.org/inlined-defers/)

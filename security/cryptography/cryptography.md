@@ -30,3 +30,4 @@
 - [BLAKE3 reference specification](https://github.com/BLAKE3-team/BLAKE3-specs)
 - [real world crypto talks](https://flak.tedunangst.com/post/real-world-crypto-talks)
 - [awesome-mpc](https://github.com/rdragos/awesome-mpc#readme) - Curated list of multi party computation resources and links.
+- [Basic Intro to Lattices in Cryptography (2020)](https://qvault.io/2020/01/23/very-basic-intro-to-lattices-in-cryptography/)
