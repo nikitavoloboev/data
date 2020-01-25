@@ -59,3 +59,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [QEMU](https://www.qemu.org/) - Generic and open source machine emulator and virtualizer. ([Docs](https://qemu.weilnetz.de/doc/qemu-doc.html))
 - [fectl](https://github.com/fafhrd91/fectl) - Client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems.
 - [1001 Ways of Implementing a System Call (2019)](https://x86.lol/generic/2019/07/04/kernel-entry.html)
+- [How I Switched To Plan 9 (2019)](http://helpful.cat-v.org/Blog/2019/12/03/0/)

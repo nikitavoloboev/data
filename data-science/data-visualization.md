@@ -26,3 +26,4 @@
 - [owid-grapher](https://github.com/owid/owid-grapher) - Interactive data visualizations done quickly.
 - [HoloViz](http://holoviz.org/) - High-level tools to simplify visualization in Python.
 - [Datashader](https://datashader.org/) - Graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly.
+- [Perception in Visualization](https://www.csc2.ncsu.edu/faculty/healey/PP/)

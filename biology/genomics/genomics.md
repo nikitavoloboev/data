@@ -9,3 +9,4 @@
 - [Nature Reviews Genetics](https://www.nature.com/nrg/) - Monthly review journal in genetics and covers the full breadth of modern genetics.
 - [Bioinformatics and Functional Genomics 3rd Edition by Jonathan Pevsner](http://www.bioinfbook.org/)
 - [Nucleus](https://github.com/google/nucleus) - Python and C++ code for reading and writing genomics data.
+- [Statistical Population Genomics](https://link.springer.com/book/10.1007/978-1-0716-0199-0)
