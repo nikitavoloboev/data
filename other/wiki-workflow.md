@@ -96,3 +96,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Zettelkästen? (2019)](https://clerestory.netlify.com/zk/)
 - [Roam for Zettlekasting](https://roamresearch.com/#/v8/help/page/VURQiVZQR)
 - [Nototo](https://www.nototo.app/) - All your notes. On one map. ([HN](https://news.ycombinator.com/item?id=22087780))
+- [BookStack](https://www.bookstackapp.com/) - Simple, self-hosted, easy-to-use platform for organising and storing information.
+- [Oscean](https://wiki.xxiivv.com/site/oscean.html) - Static wiki engine written entirely in C, designed to be deployed from low-power devices with gcc as its only dependecy.
