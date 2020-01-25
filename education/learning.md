@@ -31,3 +31,5 @@
 - [Ask HN: What Technologies to Learn in 2020?](https://news.ycombinator.com/item?id=21961214)
 - [Ask HN: Your favourite tutorial for total beginners? (2020)](https://news.ycombinator.com/item?id=20583581)
 - [Cheaki](https://www.cheaki.com/h/) - Share cheatsheets, card by card.
+- [Barbra](https://barbra.io/) - Helps teams learn faster. Whenever you need to share knowledge, self-learn, and grow as a team.
+- [Ask HN: What is the hardest part of self-learning? (2020)](https://news.ycombinator.com/item?id=22146494)
