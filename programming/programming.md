@@ -121,3 +121,4 @@
 - [Literate Programming notes](https://pbat.ch/wiki/literate_programming/)
 - [TU Delft Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/)
 - [Ask HN: What change in your programming technique has been most transformative? (2020)](https://news.ycombinator.com/item?id=22129757)
+- [Memory Management Reference](https://www.memorymanagement.org/) - Resource for programmers and computer scientists interested in memory management and garbage collection.
