@@ -10,6 +10,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 
 ## Links
 
+- [15-441/641 Computer Networks course (2019)](https://computer-networks.github.io/sp19/) ([Lectures](https://computer-networks.github.io/sp19/lectures.html))
 - [Clash](https://github.com/Dreamacro/clash) - Rule based tunnel in Go.
 - [WebTTY](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC.
 - [libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O.
