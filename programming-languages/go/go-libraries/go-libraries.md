@@ -45,6 +45,7 @@
 - [Heimdall](https://github.com/gojek/heimdall) - Enhanced HTTP client for Go.
 - [mux](https://github.com/gorilla/mux) - Powerful HTTP router and URL matcher for building Go web servers with.
 - [go-httpwares](https://github.com/improbable-eng/go-httpwares) - Go HTTP Server Middleware and Client Tripperware.
+- [Gorsk](https://github.com/ribice/gorsk) - Idiomatic Golang Restful Starter Kit.
 
 ## GraphQL
 

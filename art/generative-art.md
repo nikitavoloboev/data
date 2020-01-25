@@ -22,3 +22,4 @@
 - [Machine Learning for Artists](https://ml4a.github.io/)
 - [Plask](https://github.com/deanm/plask) - Multimedia programming environment.
 - [Drawing with Ants: Generative Art with Ant Colony Optimization Algorithms](http://amydyer.art/wp/index.php/2020/01/01/drawing-with-ants-generative-art-with-ant-colony-optimization-algorithms/)
+- [Ink](https://buchanae.github.io/ink/) - Framework for 2D graphics in Go, focused on creative coding, and based on OpenGL. ([Code](https://github.com/buchanae/ink))
