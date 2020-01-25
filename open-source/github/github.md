@@ -65,3 +65,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Star History and Stats](https://seladb.github.io/StarTrack-js/) ([Code](https://github.com/seladb/StarTrack-js))
 - [Most active GitHub users in Worldwide](https://commits.top/worldwide.html) ([Code](https://github.com/lauripiispanen/most-active-github-users-counter))
 - [github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
+- [Auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.

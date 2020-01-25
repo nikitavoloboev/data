@@ -25,3 +25,4 @@
 - [P2P Peer Discovery (2020)](https://jsantell.com/p2p-peer-discovery)
 - [Ouroboros](https://ouroboros.rocks/) - Decentralized packet networking rebuilt from the ground up. ([HN](https://news.ycombinator.com/item?id=22052416))
 - [Radicle](https://radicle.xyz/) - Secure peer-to-peer code collaboration without intermediaries.
+- [Monadic](https://monadic.xyz/) - Group of technologists who in 2017, set out to re-imagine free and open source software collaboration.

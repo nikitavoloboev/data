@@ -7,3 +7,4 @@
 - [fluff](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go.
 - [Wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer.
 - [Software Testing: From Theory to Practice book](https://sttp.site/) - Covers the most important testing techniques needed to build high quality software systems.
+- [Stressgrid](https://gitlab.com/stressgrid/stressgrid) - Open-source cloud-native tool for load testing at the scale of millions of simulated devices.
