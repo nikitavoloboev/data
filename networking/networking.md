@@ -10,6 +10,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 
 ## Links
 
+- [Stanford CS 144: Introduction to Computer Networking](https://cs144.github.io/) ([HN](https://news.ycombinator.com/item?id=21794270))
 - [15-441/641 Computer Networks course (2019)](https://computer-networks.github.io/sp19/) ([Lectures](https://computer-networks.github.io/sp19/lectures.html))
 - [Clash](https://github.com/Dreamacro/clash) - Rule based tunnel in Go.
 - [WebTTY](https://github.com/maxmcd/webtty) - Share a terminal session over WebRTC.
@@ -51,7 +52,6 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [gost](https://github.com/ginuerzh/gost) - Simple tunnel written in golang.
 - [Braid](https://braid.news/) - Effort to incorporate new distributed technologies into the existing World-Wide Web.
 - [Implementation of CoAP in go](https://github.com/dustin/go-coap)
-- [Stanford CS 144: Introduction to Computer Networking](https://cs144.github.io/) ([HN](https://news.ycombinator.com/item?id=21794270))
 - [inlets](https://github.com/inlets/inlets) - Expose your local endpoints to the Internet.
 - [inletsctl](https://github.com/inlets/inletsctl) - Fast HTTP (L7) and TCP (L4) tunnels written in Go.
 - [Awesome Computer Networking Resources](https://github.com/nyquist/awesome-networking#readme)
