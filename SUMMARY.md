@@ -162,6 +162,7 @@
   - [Version control](programming/version-control/version-control.md)
     - [Git](programming/version-control/git.md)
   - [Concurrency](programming/concurrency.md)
+  - [Memory management](programming/memory-management/memory-management.md)
   - [Hashing](programming/hashing.md)
   - [Regex](programming/regex/regex.md)
   - [Interactive computing](programming/interactive-computing/interactive-computing.md)
