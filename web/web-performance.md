@@ -24,3 +24,4 @@
 - [Calibre](https://calibreapp.com/) - Monitor and audit web performance. Make meaningful improvements where it matters.
 - [Web bloat](http://danluu.com/web-bloat/)
 - [Falco](https://getfal.co/) - Helps you monitor, analyze, and optimize your websites. ([Code](https://github.com/theodo/falco))
+- [Monitoring Performance with the PageSpeed Insights API (2020)](https://dev.to/addyosmani/monitoring-performance-with-the-pagespeed-insights-api-33k7)
