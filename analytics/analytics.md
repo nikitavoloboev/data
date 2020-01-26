@@ -23,3 +23,4 @@ For user facing products, well implemented analytics will let you see how to opt
 - [Freshlytics](https://github.com/sheshbabu/freshlytics) - Open source privacy-friendly analytics software. It aims to be reliable, friendly to use and easy to deploy.
 - [GoatCounter](https://www.goatcounter.com/) - Simple web statistics. No tracking of personal data. ([Code](https://github.com/zgoat/goatcounter))
 - [MixPanel](https://mixpanel.com/) - Analyze user behavior across your sites and apps. Then send messages and run experiments from what you learned–all in Mixpanel.
+- [What is your preferred web traffic analytics platform? (2020)](https://lobste.rs/s/gzkue1/what_is_your_preferred_web_traffic)

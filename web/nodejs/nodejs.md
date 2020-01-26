@@ -52,3 +52,4 @@
 - [Snowpack](https://github.com/pikapkg/snowpack) - Run npm packages directly in the browser. No Webpack, Parcel, or bundlers required.
 - [Node.js Interview Questions](https://www.cheaki.com/nodejs/nodejs-interview-questions)
 - [SOLID: Introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io/)
+- [graffiti](https://github.com/cztomsik/graffiti) - Web-like GUI toolkit for node.js with minimal overhead. Lightweight, GPU-rendered alternative to electron.

@@ -179,3 +179,4 @@ Go promotes composition over inheritance.
 - [Inlined defers in Go (2020)](https://rakyll.org/inlined-defers/)
 - [Andre Carvalho - Understanding Go's Memory Allocator (2018)](https://andrestc.com/post/go-memory-allocation-pt1/) ([Video](https://www.youtube.com/watch?v=3CR4UNMK_Is))
 - [Make resilient Go net/http servers using timeouts, deadlines and context cancellation (2020)](https://ieftimov.com/post/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/) ([Lobsters](https://lobste.rs/s/hmzsdm/make_resilient_go_net_http_servers_using))
+- [tparse](https://github.com/mfridman/tparse) - Command line tool for analyzing and summarizing go test output.
