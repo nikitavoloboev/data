@@ -61,3 +61,4 @@
 - [CMSC430: Introduction to Compilers (2017)](http://www.cs.umd.edu/class/fall2017/cmsc430/)
 - [Book about compiling Racket to x86-64 assembly](https://github.com/IUCompilerCourse/Essentials-of-Compilation)
 - [Principles of Compiler Design](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/)
+- [Essentials of Interpretation (2019)](https://www.youtube.com/playlist?list=PLGNbPb3dQJ_4WT_m3aI3T2LRf2R_FKM2k) - Course on implementing an interpreter for a programming language similar to Python or JavaScript, from scratch.

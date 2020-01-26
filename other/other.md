@@ -91,3 +91,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Women Make](https://womenmake.com/) - Community created so we have a place to chat with other women entrepreneurs, help each other out and have fun. ([HN](https://news.ycombinator.com/item?id=22128385))
 - [How To Search Twitter Like a Pro (2020)](https://mailbrew.com/blog/twitter-advanced-search)
 - [Nucoll](https://github.com/jdevoo/nucoll) - Command-line tool written in Go. It can be used to retrieve data from Twitter.
+- [Various tips & tricks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet#readme)

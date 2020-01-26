@@ -41,6 +41,10 @@
 
 - [Propensive](https://propensive.com/) - European technology company, specializing in supporting the Scala programming community.
 
+## Elixir
+
+- [Dasshbit](https://dashbit.co/) - Help startups and enterprises adopt and run Elixir in production.
+
 ## Other
 
 - [Monadfix](https://monadfix.com/) - Work with Haskell, PureScript, and Agda.
