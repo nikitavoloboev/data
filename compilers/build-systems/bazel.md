@@ -8,3 +8,4 @@
 - [HN: Bazel 2.0](https://news.ycombinator.com/item?id=21863393)
 - [Make local development (with Bazel) great again (2020)](https://www.youtube.com/watch?v=rQv1sjLU4cI)
 - [cargo-raze](https://github.com/google/cargo-raze) - Generate Bazel build from Cargo dependencies.
+- [bazel-linting-system](https://github.com/thundergolfer/bazel-linting-system) - Experimental system for registering, configuring, and invoking source-code linters in Bazel.

@@ -46,6 +46,7 @@
 - [mux](https://github.com/gorilla/mux) - Powerful HTTP router and URL matcher for building Go web servers with.
 - [go-httpwares](https://github.com/improbable-eng/go-httpwares) - Go HTTP Server Middleware and Client Tripperware.
 - [Gorsk](https://github.com/ribice/gorsk) - Idiomatic Golang Restful Starter Kit.
+- [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp.
 
 ## GraphQL
 
@@ -308,3 +309,4 @@
 
 - [Awesome Go](https://github.com/avelino/awesome-go#readme)
 - [Golang Serializer Benchmark Comparison](https://github.com/smallnest/gosercomp)
+- [GoDoc source](https://github.com/golang/gddo)

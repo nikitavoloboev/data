@@ -13,3 +13,4 @@
 - [Dhall - Year in review (2019-2020)](http://www.haskellforall.com/2020/01/dhall-year-in-review-2019-2020.html)
 - [dhall-golang](https://github.com/philandstuff/dhall-golang) - Go bindings for dhall.
 - [Why Dhall advertises the absence of Turing-completeness (2020)](http://www.haskellforall.com/2020/01/why-dhall-advertises-absence-of-turing.html)
+- [Dhall for Kubernetes (2020)](https://christine.website/blog/dhall-kubernetes-2020-01-25) ([Lobsters](https://lobste.rs/s/v3s6vw/dhall_for_kubernetes))

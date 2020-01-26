@@ -3,6 +3,7 @@
 ## Notes
 
 - ["Run without building" has saved me so much time, it's ridiculous](https://twitter.com/DonnyWals/status/1215196512851984385)
+- [Use different colours for the console output to make the log output easier to reason about](https://twitter.com/dasdom/status/1221043873553641473)
 
 ## Links
 

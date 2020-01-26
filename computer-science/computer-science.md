@@ -30,3 +30,4 @@
 - [A Short Note on The Y Combinator (2018)](https://invenia.github.io/blog/2018/08/20/ycombinator/)
 - [BaseCS](https://medium.com/basecs) - Exploring the basics of computer science, every Monday, for a year.
 - [Falsehoods CS Students (Still) Believe Upon Graduating (2019)](https://www.netmeister.org/blog/cs-falsehoods.html)
+- [Simple, quick cheat sheets on CS concepts](https://github.com/aspittel/coding-cheat-sheets#readme)
