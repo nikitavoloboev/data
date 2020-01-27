@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+- [Google Dataset Search](https://datasetsearch.research.google.com/) ([HN](https://news.ycombinator.com/item?id=22130874))
 - [Tencent ML-Images](https://github.com/Tencent/tencent-ml-images) - Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet.
 - [Mathematics Dataset](https://github.com/deepmind/mathematics_dataset) - Dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
 - [Moving autonomous vehicles forward, together. Dataset by Lyft](https://level5.lyft.com/dataset/)
@@ -14,3 +14,5 @@
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
 - [LORIS](https://github.com/aces/Loris) - Web-accessible database solution for longitudinal multi-site studies.
 - [ProteinNet](https://github.com/aqlaboratory/proteinnet) - Standardized data set for machine learning of protein structure.
+- [Registry of Open Data on AWS](https://registry.opendata.aws/)
+- [List of datasets for machine-learning research](https://en.m.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)

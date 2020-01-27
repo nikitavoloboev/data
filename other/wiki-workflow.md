@@ -98,3 +98,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Nototo](https://www.nototo.app/) - All your notes. On one map. ([HN](https://news.ycombinator.com/item?id=22087780))
 - [BookStack](https://www.bookstackapp.com/) - Simple, self-hosted, easy-to-use platform for organising and storing information.
 - [Oscean](https://wiki.xxiivv.com/site/oscean.html) - Static wiki engine written entirely in C, designed to be deployed from low-power devices with gcc as its only dependecy.
+- [Building personal search infrastructure for your knowledge and code (2019)](https://beepb00p.xyz/pkm-search.html) ([HN](https://news.ycombinator.com/item?id=22160572))
+- [Against unnecessary databases (2020)](https://beepb00p.xyz/unnecessary-db.html)
