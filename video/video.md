@@ -28,3 +28,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg.
 - [IPTV](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.
+- [Olive](https://github.com/olive-editor/olive) - Free non-linear video editor for Windows, macOS, and Linux.

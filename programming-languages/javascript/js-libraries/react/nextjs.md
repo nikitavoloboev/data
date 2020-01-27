@@ -32,3 +32,4 @@
 - [Next & Apollo Example](https://github.com/adamsoffer/next-apollo-example)
 - [next-learn-demo](https://github.com/zeit/next-learn-demo) - Meant to be used with the Next.js tutorial on https://nextjs.org/learn.
 - [Next.js Starter with User Authentication/Authorization](https://github.com/rwieruch/nextjs-firebase-authentication)
+- [next-purgecss](https://github.com/lucleray/next-purgecss) - Nextjs + purgecss for faster websites.

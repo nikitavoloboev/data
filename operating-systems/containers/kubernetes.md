@@ -133,3 +133,4 @@
 - [Roperator](https://github.com/psFried/roperator) - Lets you easily write Kubernetes Operators in Rust.
 - [Krustlet](https://github.com/deislabs/krustlet) - Kubernetes Kubelet in Rust for running WASM.
 - [WaeaveWorks](https://www.weave.works/) - Operate and manage production ready Kubernetes with Weave Kubernetes Platform.
+- [Gravity](https://github.com/gravitational/gravity) - Opinionated image-based Kubernetes packaging and management tools.

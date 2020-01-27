@@ -305,6 +305,7 @@
 - [regexp2](https://github.com/dlclark/regexp2) - Full featured regular expressions for Go.
 - [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT).
+- [go-naturaldate](https://github.com/tj/go-naturaldate) - Natural date/time parsing for Go.
 
 ## Links
 

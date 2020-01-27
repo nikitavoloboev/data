@@ -25,3 +25,7 @@
 - [Web bloat](http://danluu.com/web-bloat/)
 - [Falco](https://getfal.co/) - Helps you monitor, analyze, and optimize your websites. ([Code](https://github.com/theodo/falco))
 - [Monitoring Performance with the PageSpeed Insights API (2020)](https://dev.to/addyosmani/monitoring-performance-with-the-pagespeed-insights-api-33k7)
+- [Sitespeed.io](https://www.sitespeed.io/) - Set of open source tools that makes it easy to monitor and measure the performance of your web site.
+- [Measuring React app performance (2019)](https://www.debugbear.com/blog/measuring-react-app-performance)
+- [Profiling React performance with React 16 and Chrome Devtools (2017)](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
+- [Firefox Profiler](https://profiler.firefox.com/) - Web app for Firefox performance analysis.

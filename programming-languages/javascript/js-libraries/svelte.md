@@ -16,3 +16,4 @@
 - [Let’s Learn Svelte (with Rich Harris) — Learn With Jason (2019)](https://www.youtube.com/watch?v=ogXETl_I0Dg)
 - [SSG](https://github.com/sw-yx/ssg) - Svelte Site Generator. why try this? because sapper has a lot of setup, and isn't great at pipelining data.
 - [svelvet](https://github.com/jakedeichert/svelvet) - CLI svelte compiler & watcher that works with snowpack.
+- [Optimistic, Offline-First Apps with Svelte and Amplify DataStore (2020)](https://www.swyx.io/writing/svelte-amplify-datastore)
