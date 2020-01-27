@@ -64,6 +64,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Mari K](https://www.artstation.com/madmaraca)
 - [Cody Leigh Bond](https://www.etsy.com/shop/CodyLeighBond)
 - [Android Jones](http://androidjones.com/)
+- [Jan Pypers](https://www.instagram.com/janpypers/)
 - [Eugene Golovanchuk](https://www.theskeeva.com/)
 - [Andrew Williamson](https://andrewwilliamson.net/)
 - [James White](https://signalnoise.com/) - Retro 80s.
