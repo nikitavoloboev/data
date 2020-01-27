@@ -183,3 +183,4 @@ Go promotes composition over inheritance.
 - [Go Walkthrough](https://medium.com/go-walkthrough) - Series of walkthroughs to help you understand the Go standard library better.
 - [Go modules by example](https://github.com/go-modules-by-example/index)
 - [curl-to-Go](https://mholt.github.io/curl-to-go/) - Instantly convert curl commands to Go code. ([Code](https://github.com/mholt/curl-to-go))
+- [Best Practices for Errors in Go (2014)](https://justinas.org/best-practices-for-errors-in-go)
