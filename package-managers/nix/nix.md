@@ -82,3 +82,4 @@
 - [go-nix](https://github.com/orivej/go-nix) - Nix language parser and Nix-compatible file hasher in Go.
 - [nix-dns](https://github.com/kirelagin/nix-dns) - Nix DSL for DNS zone files.
 - [Nix-based app VMs](https://github.com/jollheef/appvm)
+- [nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files.

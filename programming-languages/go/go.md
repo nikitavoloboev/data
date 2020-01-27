@@ -181,3 +181,5 @@ Go promotes composition over inheritance.
 - [Make resilient Go net/http servers using timeouts, deadlines and context cancellation (2020)](https://ieftimov.com/post/make-resilient-golang-net-http-servers-using-timeouts-deadlines-context-cancellation/) ([Lobsters](https://lobste.rs/s/hmzsdm/make_resilient_go_net_http_servers_using))
 - [tparse](https://github.com/mfridman/tparse) - Command line tool for analyzing and summarizing go test output.
 - [Go Walkthrough](https://medium.com/go-walkthrough) - Series of walkthroughs to help you understand the Go standard library better.
+- [Go modules by example](https://github.com/go-modules-by-example/index)
+- [curl-to-Go](https://mholt.github.io/curl-to-go/) - Instantly convert curl commands to Go code. ([Code](https://github.com/mholt/curl-to-go))

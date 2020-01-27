@@ -129,3 +129,4 @@
 - [Debounce vs Throttle: Definitive Visual Guide (2019)](https://redd.one/blog/debounce-vs-throttle)
 - [GistLink](https://gist.link/) - Code apps or components. See them render as you type. Share your creations via URL.
 - [source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps.
+- [Diglett](https://github.com/oblador/diglett) - Keep your JS project lean by detecting duplicate dependencies.

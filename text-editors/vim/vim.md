@@ -41,3 +41,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [We can have nice things (2019)](https://www.youtube.com/watch?v=Bt-vmPC_-Ho) ([Slides](https://vimconf.org/2019/slides/justin.pdf))
 - [Vim like apps/plugins](https://vim.reversed.top/) ([HN](https://news.ycombinator.com/item?id=21692418#21693299))
 - [pack](https://github.com/maralla/pack) - Missing vim8 package manager.
+- [Neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust.
