@@ -152,6 +152,10 @@
 - [AXSwift](https://github.com/tmandry/AXSwift) - Swift wrapper for accessibility clients.
 - [Path.swift](https://github.com/mxcl/Path.swift) - Delightful, robust, cross-platform and chainable file-pathing functions.
 - [SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines for iOS and macOS.
+- [Fields](https://github.com/radianttap/Fields) - Good, solid base to build custom forms in iOS apps, using self-sizing UICVLayout.
+- [InfiniteCarousel](https://github.com/filletofish/InfiniteCarousel) - Infinite Carousel Collection View.
+- [LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - Swift wrapper for the LLVM C API.
+- [ClangSwift](https://github.com/llvm-swift/ClangSwift) - Swift wrapper for the libclang C API.
 
 ## Links
 

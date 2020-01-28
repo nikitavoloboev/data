@@ -106,7 +106,7 @@ Go promotes composition over inheritance.
 - [Delve](https://github.com/go-delve/delve) - Debugger for the Go programming language.
 - [Experiment, Simplify, Ship (2019)](https://blog.golang.org/experiment)
 - [Go programming language secure coding practices guide](https://github.com/OWASP/Go-SCP)
-- [Ultimate Go learning notes, commented directly on source code](https://github.com/hoanhan101/ultimate-go) ([HN](https://news.ycombinator.com/item?id=20701671))
+- [Ultimate Go study guide](https://github.com/hoanhan101/ultimate-go) ([HN](https://news.ycombinator.com/item?id=20701671))
 - [Redress](https://github.com/goretk/redress) - Tool for analyzing stripped binaries.
 - [Ask HN: Is there a project based book or course on Go for writing web APIs? (2019)](https://news.ycombinator.com/item?id=20704993)
 - [Data Structure Libraries and Algorithms implementation in Go](https://github.com/x899/algorithms)
@@ -144,6 +144,7 @@ Go promotes composition over inheritance.
 - [Go Things I Love: Channels and Goroutines (2020)](https://www.justindfuller.com/2020/01/go-things-i-love-channels-and-goroutines/) ([HN](https://news.ycombinator.com/item?id=21968939))
 - [go-ruleguard](https://github.com/quasilyte/go-ruleguard) - Define and run pattern-based custom linting rules.
 - [Go by Example](https://gobyexample.com/) - Hands-on introduction to Go using annotated example programs. ([Code](https://github.com/mmcgrana/gobyexample))
+- [Introduction to Programming in Go book](https://www.golang-book.com/books/intro)
 - [A Chapter in the Life of Go’s Compiler (2020)](https://medium.com/samsara-engineering/a-chapter-in-the-life-of-gos-compiler-c89b9db74617)
 - [JWT Authorization in Golang (2019)](https://www.cloudjourney.io/articles/security/jwt_in_golang-su/)
 - [govalidate](https://github.com/rakyll/govalidate) - Validates your Go installation and dependencies.
@@ -184,3 +185,4 @@ Go promotes composition over inheritance.
 - [Go modules by example](https://github.com/go-modules-by-example/index)
 - [curl-to-Go](https://mholt.github.io/curl-to-go/) - Instantly convert curl commands to Go code. ([Code](https://github.com/mholt/curl-to-go))
 - [Best Practices for Errors in Go (2014)](https://justinas.org/best-practices-for-errors-in-go)
+- [Go command overview](https://golang.org/cmd/go/)
