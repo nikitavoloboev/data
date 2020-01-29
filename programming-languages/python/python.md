@@ -72,3 +72,4 @@
 - [Iterables vs. Iterators vs. Generators (2014)](https://nvie.com/posts/iterators-vs-generators/)
 - [Making Python Programs Blazingly Fast (2020)](https://martinheinz.dev/blog/13) ([HN](https://news.ycombinator.com/item?id=22040899))
 - [Python built-ins worth learning (2019)](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
+- [Python Coding Guidelines for Sanity](https://github.com/rednafi/py-sanity#readme)

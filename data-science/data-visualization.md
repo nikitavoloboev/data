@@ -27,3 +27,4 @@
 - [HoloViz](http://holoviz.org/) - High-level tools to simplify visualization in Python.
 - [Datashader](https://datashader.org/) - Graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly.
 - [Perception in Visualization](https://www.csc2.ncsu.edu/faculty/healey/PP/)
+- [Prize winning JS solution for the Telegram April 2019 coding contest](https://github.com/Finesse/telegram-chart)

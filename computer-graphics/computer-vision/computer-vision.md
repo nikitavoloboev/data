@@ -20,3 +20,4 @@
 - [Variational Methods for Computer Vision lectures (2013)](https://www.youtube.com/watch?v=fpw26tpHGr8&list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
 - [Classy Vision](https://github.com/facebookresearch/ClassyVision) - New end-to-end, PyTorch-based framework for large-scale training of state-of-the-art image and video classification models.
 - [Meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software.
+- [PyTorch3d](https://github.com/facebookresearch/pytorch3d) - Provides efficient, reusable components for 3D Computer Vision research with PyTorch.

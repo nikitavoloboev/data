@@ -312,3 +312,4 @@
 - [Awesome Go](https://github.com/avelino/awesome-go#readme)
 - [Golang Serializer Benchmark Comparison](https://github.com/smallnest/gosercomp)
 - [GoDoc source](https://github.com/golang/gddo)
+- [gomodctl](https://github.com/beatlabs/gomodctl) - Search, Check and Update Go modules.

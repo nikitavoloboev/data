@@ -151,6 +151,7 @@ Here are few more things I liked, design wise.
 - [Joe Coleman](http://getcoleman.com/) - Funny.
 - [Joe Previte](https://joeprevite.com/) ([Code](https://github.com/jsjoeio/joeprevite.com))
 - [Sarah Drasner](https://sarahdrasnerdesign.com/)
+- [Sarah Dayan](https://sarahdayan.dev/)
 - [Matthew Conlen](https://mathisonian.com/) - Clean.
 - [Zdziarski's Blog of Things](https://www.zdziarski.com/blog/)
 - [Fuzzy Notepad](https://eev.ee/blog/)
