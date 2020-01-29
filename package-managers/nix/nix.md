@@ -83,3 +83,4 @@
 - [nix-dns](https://github.com/kirelagin/nix-dns) - Nix DSL for DNS zone files.
 - [Nix-based app VMs](https://github.com/jollheef/appvm)
 - [nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files.
+- [Thoughts on Nix (2020)](https://christine.website/blog/thoughts-on-nix-2020-01-28) ([Lobsters](https://lobste.rs/s/tp6o0q/thoughts_on_nix))

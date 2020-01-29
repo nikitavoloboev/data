@@ -6,6 +6,7 @@ I love software and non software tools that help me in some way. Most tools I us
 
 - [Loom](https://www.loom.com/) - Most effective way to get your message across, no matter where you work.
 - [Lark](https://www.larksuite.com/) - Simplest way to create and collaborate.
+- [Graph of Related Subreddits](https://anvaka.github.io/sayit/?query=) ([HN](https://news.ycombinator.com/item?id=22177942))
 - [Ryeboard](https://www.ryeboard.com/) - Ultimate visual workspace.
 - [Navigator](https://navigator.com/) - Makes meetings feel like the best part of work: focused, purposeful and energizing.
 - [Astuto](https://github.com/riggraz/astuto) - Free, open source, self-hosted customer feedback tool.

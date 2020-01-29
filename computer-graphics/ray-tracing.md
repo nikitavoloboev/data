@@ -8,3 +8,4 @@
 - [C++17 constexpr Compile-time Ray Tracer](https://github.com/tcbrindle/raytracer.hpp)
 - [Nori](https://github.com/wjakob/nori) - Educational ray tracer.
 - [Ray tracing a tiny procedural planet](http://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
+- [HTML5 raycasting demo using React](https://ahuth.github.io/raycast/) ([Code](https://github.com/ahuth/raycast))
