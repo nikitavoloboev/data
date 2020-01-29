@@ -67,3 +67,4 @@ I publish most of my work and make it open source for other people to use and re
 - [github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
 - [Auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 - [GitHub Polls](https://github.com/apex/gh-polls) - Polls for user feedback in GitHub issues.
+- [gh](https://github.com/cli/cli) - GitHub CLI tool.
