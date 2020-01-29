@@ -7,3 +7,4 @@
 - [ML for the Working Programmer, 2nd Edition book (1996)](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html)
 - [WebML](https://github.com/KeenS/webml) - Standard ML compiler for the Web.
 - [Ponyo](https://github.com/eatonphil/ponyo) - Comprehensive high-level library and toolkit for Standard ML.
+- [Tour of Standard ML ](https://saityi.github.io/sml-tour/tour/00-00-welcome.html) ([HN](https://news.ycombinator.com/item?id=22180834))
