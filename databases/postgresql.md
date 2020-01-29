@@ -56,3 +56,5 @@
 - [postgresql.conf](https://postgresqlco.nf/en/doc/param/) - Postgres configuration reference. Helps tune and optimize PostgreSQL configuration.
 - [My GOTO Postgres Configuration for Web Services (2020)](https://tightlycoupled.io/my-goto-postgres-configuration-for-web-services/)
 - [pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) - Advanced scheduling for PostgreSQL. ([Article](https://www.cybertec-postgresql.com/en/pg_timetable-advanced-postgresql-job-scheduling/))
+- [PostgreSQL at Scale: Database Schema Changes Without Downtime (2019)](https://medium.com/braintree-product-technology/postgresql-at-scale-database-schema-changes-without-downtime-20d3749ed680)
+- [Strong migrations](https://github.com/ankane/strong_migrations#readme) - Catch unsafe migrations in development.

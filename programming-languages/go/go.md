@@ -187,3 +187,4 @@ Go promotes composition over inheritance.
 - [Best Practices for Errors in Go (2014)](https://justinas.org/best-practices-for-errors-in-go)
 - [Go command overview](https://golang.org/cmd/go/)
 - [Functional options on steroids (2020)](https://sagikazarmark.hu/blog/functional-options-on-steroids/) ([Reddit](https://www.reddit.com/r/golang/comments/ev863i/functional_options_on_steroids/))
+- [Go internals: capturing loop variables in closures (2020)](https://eli.thegreenplace.net/2019/go-internals-capturing-loop-variables-in-closures/)

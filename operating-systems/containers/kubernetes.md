@@ -26,7 +26,7 @@
 - [Portainer](https://portainer.io) - Lighter than Rancher (for Docker).
 - [Kubernetes 101 (2018)](https://www.stavros.io/posts/kubernetes-101/)
 - [node-problem-detector](https://github.com/kubernetes/node-problem-detector) - Aims to make various node problems visible to the upstream layers in cluster management stack.
-- [kubectx](https://github.com/ahmetb/kubectx) - Fast way to switch between clusters and namespaces in kubectl.
+- [go-kubectx](https://github.com/aca/go-kubectx) - 5x-10x faster alternative to kubectx. Uses client-go.
 - [Kubernetes for Sysadmins – Kelsey Hightower (2016)](https://www.youtube.com/watch?v=HlAXp0-M6SY)
 - [Kubernetes API conventions](https://github.com/kubernetes/community/blob/master/contributors/devel/api-conventions.md#readme)
 - [Kubeval](https://github.com/garethr/kubeval#readme) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions.
