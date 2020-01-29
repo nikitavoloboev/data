@@ -70,3 +70,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Fuzzowski](https://github.com/nccgroup/fuzzowski) - Network Protocol Fuzzer that we will want to use.
 - [naabu](https://github.com/projectdiscovery/naabu) - Port scanning tool written in Go that allows you to enumerate valid ports for hosts in a fast and reliable manner.
 - [sniffglue](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
+- [IPinfo](https://ipinfo.io/) - Trusted Source for IP Address Data.
+- [Host.io](https://host.io/) - Comprehensive Domain Data API for Developers.

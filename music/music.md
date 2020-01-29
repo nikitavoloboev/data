@@ -18,3 +18,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library.
 - [Snapcast](https://github.com/badaix/snapcast) - Synchronous multi-room audio player.
 - [What is music? A unified theory of music and dreaming (2020)](https://whatismusic.info/blog/AUnifiedTheoryOfMusicAndDreaming.html) ([HN](https://news.ycombinator.com/item?id=22036473))
+- [Rust Music Theory](https://github.com/ozankasikci/rust-music-theory) - Library and executable that provides programmatic implementation of the basis of the music theory.

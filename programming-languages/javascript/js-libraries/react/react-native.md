@@ -31,3 +31,4 @@
 - [Awesome React Native: Native Modules](https://github.com/prscX/awesome-react-native-native-modules#readme)
 - [React Native Now](https://reactnativenow.com/) - Bi-weekly React Native newsletter.
 - [Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat) - Most complete chat UI for React Native & Web.
+- [RecyclerListView](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web.
