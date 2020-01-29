@@ -17,4 +17,4 @@
 - [3 Essential Tools to Boost your React App’s SEO (2019)](https://medium.com/@prestonwallace/3-ways-improve-react-seo-without-isomorphic-app-a6354595e400)
 - [Understand the JavaScript SEO basics](https://developers.google.com/search/docs/guides/javascript-seo-basics)
 - [The missing guide of SEO with Gatsby (2019)](https://gregberge.com/blog/gatsby-seo)
-- [I wrote 1 blog post every day for 2 years. Here's 5 things I learned about SEO (2020)](https://flaviocopes.com/blog-seo/)
+- [I wrote 1 blog post every day for 2 years. Here's 5 things I learned about SEO (2020)](https://flaviocopes.com/blog-seo/) ([HN](https://news.ycombinator.com/item?id=22179383))

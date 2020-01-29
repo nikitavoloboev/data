@@ -156,6 +156,7 @@
 - [InfiniteCarousel](https://github.com/filletofish/InfiniteCarousel) - Infinite Carousel Collection View.
 - [LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - Swift wrapper for the LLVM C API.
 - [ClangSwift](https://github.com/llvm-swift/ClangSwift) - Swift wrapper for the libclang C API.
+- [JWTDecode](https://github.com/auth0/JWTDecode.swift) - Library to help you decode JWTs in Swift.
 
 ## Links
 
