@@ -92,3 +92,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [How To Search Twitter Like a Pro (2020)](https://mailbrew.com/blog/twitter-advanced-search)
 - [Nucoll](https://github.com/jdevoo/nucoll) - Command-line tool written in Go. It can be used to retrieve data from Twitter.
 - [Various tips & tricks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet#readme)
+- [Over 500 Top PDFs posted to Hacker News in 2019](https://getpolarized.io/2020/01/19/over-500-top-pdf-posted-to-hacker-news-2019.html)

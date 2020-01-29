@@ -20,3 +20,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Passepartout](https://github.com/passepartoutvpn/passepartout-ios) - User-friendly OpenVPN client app for iOS.
 - [Algo VPN](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud. ([Docs](https://trailofbits.github.io/algo/))
 - [RadVPN](https://github.com/mehrdadrad/radvpn) - Decentralized VPN.
+- [Building a simple VPN with WireGuard with a Raspberry Pi as Server (2020)](https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server/) ([HN](https://news.ycombinator.com/item?id=22183506))

@@ -186,4 +186,4 @@ Go promotes composition over inheritance.
 - [curl-to-Go](https://mholt.github.io/curl-to-go/) - Instantly convert curl commands to Go code. ([Code](https://github.com/mholt/curl-to-go))
 - [Best Practices for Errors in Go (2014)](https://justinas.org/best-practices-for-errors-in-go)
 - [Go command overview](https://golang.org/cmd/go/)
-- [Functional options on steroids (2020)](https://sagikazarmark.hu/blog/functional-options-on-steroids/)
+- [Functional options on steroids (2020)](https://sagikazarmark.hu/blog/functional-options-on-steroids/) ([Reddit](https://www.reddit.com/r/golang/comments/ev863i/functional_options_on_steroids/))

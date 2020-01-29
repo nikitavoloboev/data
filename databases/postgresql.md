@@ -55,3 +55,4 @@
 - [New Explain](https://explain.depesz.com/) - PostgreSQL's explain analyze made readable.
 - [postgresql.conf](https://postgresqlco.nf/en/doc/param/) - Postgres configuration reference. Helps tune and optimize PostgreSQL configuration.
 - [My GOTO Postgres Configuration for Web Services (2020)](https://tightlycoupled.io/my-goto-postgres-configuration-for-web-services/)
+- [pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) - Advanced scheduling for PostgreSQL. ([Article](https://www.cybertec-postgresql.com/en/pg_timetable-advanced-postgresql-job-scheduling/))
