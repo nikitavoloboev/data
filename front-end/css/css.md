@@ -105,3 +105,4 @@
 - [A Modern CSS Reset (2019)](https://hankchizljaw.com/wrote/a-modern-css-reset/)
 - [The CSS Cascade](https://wattenberger.com/blog/css-cascade) - How browsers resolve competing CSS styles.
 - [Intrinsic Sizing In CSS (2020)](https://ishadeed.com/article/intrinsic-sizing-in-css/)
+- [CSS in Real Life blog](https://css-irl.info/)

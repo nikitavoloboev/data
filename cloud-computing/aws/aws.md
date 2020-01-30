@@ -40,3 +40,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Building a Serverless Podcast Search Engine on AWS (2019)](https://medium.com/@budilov/building-a-serverless-podcast-search-engine-on-aws-part-1-f6e58fbc3c06)
 - [Architecting for the Cloud - AWS Best Practices (2019)](https://tlakomy.com/architecting-for-the-cloud-aws-best-practices-part-1/)
 - [Bash-my-AWS](https://bash-my-aws.org/) - Simple but extremely powerful set of CLI commands for managing resources on Amazon Web Services. ([Code](https://github.com/bash-my-aws/bash-my-aws))
+- [AWS Docs](https://docs.aws.amazon.com/)

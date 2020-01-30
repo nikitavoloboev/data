@@ -107,3 +107,5 @@
 - [Who are some lesser known mathematicians, and what are some of their accomplishments, or interesting facts about them](https://www.reddit.com/r/math/comments/epjfre/who_are_some_lesser_known_mathematicians_and_what/)
 - [Information theory](https://www.britannica.com/science/information-theory)
 - [Timothy Gowers: The Importance of Mathematics](https://www.youtube.com/watch?v=YoL3LfY3ogg)
+- [Oxford Undergraduate Courses in Math](https://courses.maths.ox.ac.uk/overview/undergraduate)
+- [Oxford Postgraduate Courses in Math](https://courses.maths.ox.ac.uk/overview/postgraduate)

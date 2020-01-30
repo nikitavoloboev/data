@@ -153,3 +153,4 @@
 - [dfa](https://github.com/foliojs/dfa) - State machine compiler with regular expression style syntax.
 - [Jtree](https://github.com/treenotation/jtree) - Tree Notation TypeScript/Javascript library.
 - [Hydra](https://github.com/ojack/hydra) - Livecoding networked visuals in the browser.
+- [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control.

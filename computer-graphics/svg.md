@@ -8,3 +8,4 @@
 - [Scaling SVG Elements](https://wattenberger.com/guide/scaling-svg) ([Lobsters](https://lobste.rs/s/luuqzc/svg_is_telescope_into_another_world))
 - [Transform SVG into React Components using SVGR (2017)](https://gregberge.com/blog/svg-to-react-component-with-svgr)
 - [svg-to-react](https://github.com/twilio-labs/svg-to-react) - Utility to convert raw SVG files into accessible and extendable React Components.
+- [Optimising SVGs for the Web (2020)](https://css-irl.info/optimising-svgs-for-the-web/)
