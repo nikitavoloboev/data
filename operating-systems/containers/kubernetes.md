@@ -134,3 +134,4 @@
 - [Krustlet](https://github.com/deislabs/krustlet) - Kubernetes Kubelet in Rust for running WASM.
 - [WaeaveWorks](https://www.weave.works/) - Operate and manage production ready Kubernetes with Weave Kubernetes Platform.
 - [Gravity](https://github.com/gravitational/gravity) - Opinionated image-based Kubernetes packaging and management tools.
+- [kubenav](https://github.com/kubenav/kubenav) - Navigator for your Kubernetes clusters right in your pocket.

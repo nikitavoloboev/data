@@ -3,6 +3,7 @@
 ## Notes
 
 - High cardinality = unique. Low cardinality = less unique.
+- Nice to alias tables by their first letters. i.e. `supplier_domains sd` or `supplier_inferred_properties sip`. Then can use the alias as `sd.` in `select` clause.
 
 ## Links
 
