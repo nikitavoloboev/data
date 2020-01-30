@@ -219,6 +219,8 @@
 - [Bastion](https://github.com/bastion-rs/bastion) - Highly-available, fault-tolerant runtime system with dynamic, dispatch-oriented, lightweight process model.
 - [Desse](https://github.com/devashishdxt/desse) - Ultra fast binary serialization and deserialization for types with a constant size (known at compile time).
 - [HdrHistogram](https://github.com/HdrHistogram/HdrHistogram_rust) - Port of HdrHistogram to Rust.
+- [ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust.
+- [RMP](https://github.com/3Hren/msgpack-rust) - Pure Rust MessagePack implementation.
 
 ## Cargo Plugins
 

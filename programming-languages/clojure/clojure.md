@@ -38,3 +38,4 @@
 - [The Clojure Mindshare (2019)](https://groundedsage.netlify.com/posts/the-clojure-mindshare/)
 - [Clojure Katas](https://github.com/chefy-io/clojure-katas)
 - [babushka](https://github.com/borkdude/babashka) - Executing Clojure snippets or scripts in the same space where you would use Bash.
+- [Clojure Koans](https://github.com/functional-koans/clojure-koans) - Set of exercises for learning Clojure.

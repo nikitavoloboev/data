@@ -306,6 +306,7 @@
 - [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT).
 - [go-naturaldate](https://github.com/tj/go-naturaldate) - Natural date/time parsing for Go.
+- [gpio](https://github.com/warthog618/gpio) - Native Go library for Raspberry Pi GPIO.
 
 ## Links
 

@@ -13,3 +13,4 @@
 - [Great reverse engineering courses list](https://news.ycombinator.com/item?id=22063610)
 - [Open Security Training Info](http://opensecuritytraining.info/)
 - [RPISEC RE/VR Courses](https://github.com/JeremyBlackthorne/RPISEC-Courses#readme)
+- [pixd](https://github.com/FireyFly/pixd) - Colourful visualization tool for binary files.

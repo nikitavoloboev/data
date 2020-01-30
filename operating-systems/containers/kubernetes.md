@@ -135,3 +135,5 @@
 - [WaeaveWorks](https://www.weave.works/) - Operate and manage production ready Kubernetes with Weave Kubernetes Platform.
 - [Gravity](https://github.com/gravitational/gravity) - Opinionated image-based Kubernetes packaging and management tools.
 - [kubenav](https://github.com/kubenav/kubenav) - Navigator for your Kubernetes clusters right in your pocket.
+- [Kyverno](https://github.com/nirmata/kyverno) - Kubernetes Native Policy Management.
+- [Nirmata](https://www.nirmata.com/) - Unified management plane for all your Kubernetes clusters and workloads.
