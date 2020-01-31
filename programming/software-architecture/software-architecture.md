@@ -30,3 +30,4 @@
 - [The 12 Factor App](https://12factor.net)
 - [Introduction to Computer Systems course (2019)](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f19/www/)
 - [The Cloud (2019)](https://txt.black/~jack/cloud.txt)
+- [Ask HN: Which are the best resources to learn software architecture? (2020)](https://news.ycombinator.com/item?id=22202769)
