@@ -307,6 +307,7 @@
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT).
 - [go-naturaldate](https://github.com/tj/go-naturaldate) - Natural date/time parsing for Go.
 - [gpio](https://github.com/warthog618/gpio) - Native Go library for Raspberry Pi GPIO.
+- [DJSON](https://github.com/a8m/djson) - Fast Go decoder for dynamic JSON.
 
 ## Links
 

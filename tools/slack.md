@@ -1,5 +1,9 @@
 # [Slack](https://slack.com)
 
+## Notes
+
+- Shift+ESC = clear all unread messages.
+
 ## Links
 
 - [Meet Workflow Builder: the simple way to streamline tasks in Slack (2019)](https://slackhq.com/automate-tasks-in-slack-with-workflow-builder)
