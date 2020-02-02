@@ -30,3 +30,4 @@
 - [Profiling React performance with React 16 and Chrome Devtools (2017)](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
 - [Firefox Profiler](https://profiler.firefox.com/) - Web app for Firefox performance analysis.
 - [Do’s and Don’ts for Performance Teams (2020)](https://medium.com/@ricomariani/dos-and-don-ts-for-performance-teams-7f52c41b5355)
+- [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.

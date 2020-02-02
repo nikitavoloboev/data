@@ -60,6 +60,7 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - x - Little Snitch Network Monitor
 - c - Sleep
 - v - Selection -> HN
+- b - Switch to Desktop 2
 
 ## CMD+OPT+SHIFT
 
