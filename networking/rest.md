@@ -8,3 +8,4 @@
 - [Best Practices for Designing a Pragmatic RESTful API (2019)](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [Learning REST APIs course](https://www.linkedin.com/learning/learning-rest-apis)
 - [Build Your First Rest API with GO (2019)](https://dev.to/moficodes/build-your-first-rest-api-with-go-2gcj)
+- [RESTful API Design Tips from Experience](https://github.com/ptboyer/restful-api-design-tips#readme)

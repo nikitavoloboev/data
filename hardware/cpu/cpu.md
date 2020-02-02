@@ -17,3 +17,4 @@
 - [IA32-doc](https://github.com/wbenny/ia32-doc) - Project which aims to put as many definitions from the Intel Manual into machine-processable format as possible.
 - [CPU caches and data locality: a small demonstration (2020)](https://kaushikghose.wordpress.com/2020/01/30/cpu-caches-and-data-locality-a-small-demonstration/) ([Lobsters](https://lobste.rs/s/4m2s8f/cpu_caches_data_locality_small))
 - [What is a stack and how does it work? (2020)](https://www.youtube.com/watch?v=xBjQVxVxOxc)
+- [Branch prediction explained](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)

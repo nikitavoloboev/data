@@ -11,3 +11,4 @@
 - [KeyDB](https://github.com/JohnSully/KeyDB) - High performance fork of Redis with a focus on multithreading, memory efficiency, and high throughput.
 - [twemproxy](https://github.com/twitter/twemproxy) - Fast, light-weight proxy for memcached and redis.
 - [RediSQL](https://github.com/RedBeardLab/rediSQL) - Fast, in-memory, SQL engine with batteries included.
+- [Medis](https://github.com/luin/medis) - Beautiful, easy-to-use Mac database management application for Redis.
