@@ -28,3 +28,4 @@
 - [Datashader](https://datashader.org/) - Graphics pipeline system for creating meaningful representations of large datasets quickly and flexibly.
 - [Perception in Visualization](https://www.csc2.ncsu.edu/faculty/healey/PP/)
 - [Prize winning JS solution for the Telegram April 2019 coding contest](https://github.com/Finesse/telegram-chart)
+- [New technique for making responsive, JavaScript-free charts (2020)](https://dev.to/richharris/a-new-technique-for-making-responsive-javascript-free-charts-gmp)
