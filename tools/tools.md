@@ -27,6 +27,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Bit.sv](https://bit.sv/) - New content network that lets anyone earn money from their interests.
 - [Drift](https://www.drift.com/) - Connect Your Sales Teams With Your Future Customers.
 - [Yac](https://www.yac.chat/) - Asynchronous voice collaboration for remote teams.
+- [Slido](https://www.sli.do/) - Audience interaction made easy.
 - [Flowkit](https://useflowkit.com/) - User flows right inside your favorite design tool.
 - [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))
 - [Polar Bookshelf](https://getpolarized.io/) - Personal knowledge repository for PDF and web content supporting incremental reading and document annotation. ([Code](https://github.com/burtonator/polar-bookshelf))

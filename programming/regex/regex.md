@@ -26,3 +26,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [Regular Expressions - Computerphile (2020)](https://www.youtube.com/watch?v=528Jc3q86F8)
 - [Ragel](http://www.colm.net/open-source/ragel/) - State Machine Compiler.
 - [Regex Tester](https://extendsclass.com/regex-tester.html) - Visual regex tester.
+- [I hate Regex - Regex cheat sheet](https://ihateregex.io/) ([HN](https://news.ycombinator.com/item?id=22200584)) ([Code](https://github.com/geongeorge/i-hate-regex))

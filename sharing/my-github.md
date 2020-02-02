@@ -33,6 +33,7 @@ The number between brackets shows the year I created the repo in. Repos with ðŸŒ
 
 ## CLI
 
+- [GitUpdate](https://github.com/nikitavoloboev/gitupdate) - Commit and push updated files with file names as commit message.
 - [License Up (2017)](https://github.com/nikitavoloboev/license-up) - Create a license quickly.
 
 ## Curated
