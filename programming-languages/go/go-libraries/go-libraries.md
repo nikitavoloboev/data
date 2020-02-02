@@ -47,6 +47,7 @@
 - [go-httpwares](https://github.com/improbable-eng/go-httpwares) - Go HTTP Server Middleware and Client Tripperware.
 - [Gorsk](https://github.com/ribice/gorsk) - Idiomatic Golang Restful Starter Kit.
 - [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp.
+- [REST Layer](https://github.com/rs/rest-layer) - API framework heavily inspired by the excellent Python Eve.
 
 ## GraphQL
 

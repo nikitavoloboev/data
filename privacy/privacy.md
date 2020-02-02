@@ -42,3 +42,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Cutting Google out of your life](https://github.com/tycrek/degoogle#readme)
 - [Local-first software](https://www.inkandswitch.com/local-first.html) - You own your data, in spite of the cloud.
 - [The Secretive Company That Might End Privacy as We Know It (2020)](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) ([Tweet](https://twitter.com/kevinakwok/status/1218621849971507200))
+- [Am I Unique?](https://amiunique.org/) - Aims at studying the diversity of browser fingerprints and providing developers with data to help them design good defenses. ([HN](https://news.ycombinator.com/item?id=22148512))
