@@ -41,3 +41,4 @@
 - [Why the foundations of physics have not progressed for 40 years (2020)](https://iai.tv/articles/why-physics-has-made-no-progress-in-50-years-auid-1292) ([HN](https://news.ycombinator.com/item?id=22033864))
 - [Noether’s Theorem - A Quick Explanation (2019)](https://quantum-friend-theory.tumblr.com/post/172814384897/noethers-theorem-a-quick-explanation) ([HN](https://news.ycombinator.com/item?id=22033012))
 - [Paul Dirac Interview, Göttingen 1982](https://www.youtube.com/watch?v=Et8-gg6XNDY)
+- [Resources for the Physics Olympiad](https://www.reddit.com/r/Physics_olympiad/wiki/index)

@@ -31,7 +31,7 @@ Everything that is code is put into this folder.
 ```Bash
 ~/src
 ❯ exa
-build-to-learn  clones  curated  extensions  games  ios  lib  macos  orgs  personal  web
+build-to-learn  cli  clones  curated  extensions  games  ios  lib  macos  orgs  personal  web
 ```
 
 ## ~/src/clones

@@ -13,3 +13,4 @@
 - [Can you explain me quantum decoherence in simple language?](https://www.reddit.com/r/askscience/comments/cetdgb/can_you_explain_me_quantum_decoherence_in_simple/)
 - [Knots and Quantum Theory (2011)](https://www.ias.edu/ideas/2011/witten-knots-quantum-theory)
 - [M-Labs](https://m-labs.hk/) - Open tools for open physics.
+- [Dirac lectures on quantum physics](https://www.youtube.com/channel/UCJNLN1Zl4XKBAscTdhSLM1Q/videos)
