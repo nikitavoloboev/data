@@ -319,3 +319,4 @@
 - [Golang Serializer Benchmark Comparison](https://github.com/smallnest/gosercomp)
 - [GoDoc source](https://github.com/golang/gddo)
 - [gomodctl](https://github.com/beatlabs/gomodctl) - Search, Check and Update Go modules.
+- [List of Go GUI/graphics/image related projects](https://github.com/go-graphics/go-gui-projects#readme)

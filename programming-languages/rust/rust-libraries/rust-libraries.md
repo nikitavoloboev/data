@@ -221,6 +221,7 @@
 - [HdrHistogram](https://github.com/HdrHistogram/HdrHistogram_rust) - Port of HdrHistogram to Rust.
 - [ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust.
 - [RMP](https://github.com/3Hren/msgpack-rust) - Pure Rust MessagePack implementation.
+- [fasteval](https://github.com/likebike/fasteval) - Fast and safe evaluation of algebraic expressions.
 
 ## Cargo Plugins
 
