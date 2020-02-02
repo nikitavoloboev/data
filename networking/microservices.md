@@ -26,3 +26,4 @@
 - [Istio as an Example of When Not to Do Microservices](https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/)
 - [7 tips on how to write kick-ass high performance Golang microservices (2020)](https://medium.com/@jake0malay3/7-tips-on-how-to-write-kick-ass-high-performance-golang-microservices-9f71d4c67a0a)
 - [Monoliths are the future by Kelsey Hightower (2020)](https://changelog.com/posts/monoliths-are-the-future)
+- [The Dark Side of Microservices (2020)](https://kelda.io/blog/the-dark-side-of-microservices/) ([Lobsters](https://lobste.rs/s/3cmkqs/dark_side_microservices))

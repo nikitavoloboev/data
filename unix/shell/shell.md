@@ -41,3 +41,4 @@ All active variables can be seen by running `env`.
 - [Lobsters: What shell do you use? (2019)](https://lobste.rs/s/tjjfnz/what_shell_do_you_use)
 - [“Use Dumb Shell, don’t Reinvent the Wheel” (2020)](https://ilya-sher.org/2020/01/04/use-dumb-shell-dont-reinvent-the-wheel/) ([Lobsters](https://lobste.rs/s/b8xanw/use_dumb_shell_don_t_reinvent_wheel))
 - [In search for a better job scheduler](https://beepb00p.xyz/scheduler.html) - What if cron and systemd had a baby? Wouldn't it be beautiful? ([HN](https://news.ycombinator.com/item?id=22087195))
+- [Writing Safe Shell Scripts (2019)](https://sipb.mit.edu/doc/safe-shell/) ([HN](https://news.ycombinator.com/item?id=22212338))

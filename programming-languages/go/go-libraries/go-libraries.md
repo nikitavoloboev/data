@@ -2,9 +2,10 @@
 
 ## CLI
 
-- [cli](https://github.com/urfave/cli)
-- [gjson](https://github.com/tidwall/gjson)
-- [ishell](https://github.com/abiosoft/ishell)
+- [Flaggy](https://github.com/integrii/flaggy) - Idiomatic Go input parsing with subcommands, positional values, and flags at any position.
+- [cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go.
+- [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go.
+- [ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
 - [progressbar](https://github.com/schollz/progressbar) - Basic thread-safe progressbar for Go apps.
 - [flagga](https://github.com/erizocosmico/flagga) - Extensible Go library for handling program configuration using flags.
 - [ff](https://github.com/peterbourgon/ff) - Flags-first package for configuration.
@@ -310,6 +311,7 @@
 - [gpio](https://github.com/warthog618/gpio) - Native Go library for Raspberry Pi GPIO.
 - [DJSON](https://github.com/a8m/djson) - Fast Go decoder for dynamic JSON.
 - [Gabs](https://github.com/Jeffail/gabs) - Small utility for dealing with dynamic or unknown JSON structures in Go.
+- [go-homedir](https://github.com/mitchellh/go-homedir) - Go library for detecting and expanding the user's home directory without cgo.
 
 ## Links
 

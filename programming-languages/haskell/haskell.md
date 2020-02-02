@@ -118,3 +118,4 @@
 - [Functional Programming in Haskell (Stepik course notes) (2020)](https://hmemcpy.com/2020/01/functional-programming-in-haskell-stepik-course-notes-module-1/)
 - [Haskell Problems For a New Decade (2020)](http://www.stephendiehl.com/posts/decade.html) ([HN](https://news.ycombinator.com/item?id=22137120))
 - [Haskell performance checklist](https://github.com/haskell-perf/checklist#readme)
+- [Setting up a Haskell development environment in minutes in Visual Studio Code (2020)](https://hmemcpy.com/2020/02/setting-up-a-haskell-development-environment-in-minutes-in-vscode/) ([Lobsters](https://lobste.rs/s/b1tltx/setting_up_haskell_development))

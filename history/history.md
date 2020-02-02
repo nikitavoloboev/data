@@ -10,3 +10,5 @@
 - [Computer Archeology](http://www.computerarcheology.com/) - Digging up old, forgotten computer systems and cracking open the code that ran on them.
 - [Russia costarted WW2](https://www.reddit.com/r/worldnews/comments/ei5h2w/vladimir_putin_tries_to_rewrite_history_in_speech/fcnzs71/)
 - [The polygons of another world (2020)](http://fabiensanglard.net/another_world_polygons/index.html)
+- [Folklore](https://www.folklore.org/) - Web site devoted to collective historical storytelling.
+- [Websites to spent countless hours on: folklore.org (2020)](https://www.christophlabacher.com/notes/websites-to-spent-countless-hours-on-folklore-org)

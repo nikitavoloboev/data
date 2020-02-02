@@ -189,3 +189,4 @@ Go promotes composition over inheritance.
 - [Functional options on steroids (2020)](https://sagikazarmark.hu/blog/functional-options-on-steroids/) ([Reddit](https://www.reddit.com/r/golang/comments/ev863i/functional_options_on_steroids/))
 - [Go internals: capturing loop variables in closures (2020)](https://eli.thegreenplace.net/2019/go-internals-capturing-loop-variables-in-closures/)
 - [go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively.
+- [go: observing stack grow and shrink (2020)](https://ops.tips/notes/go-observing-stack-grow-and-shrink/)
