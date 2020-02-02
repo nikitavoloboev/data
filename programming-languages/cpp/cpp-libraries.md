@@ -54,3 +54,4 @@
 - [stb](https://github.com/nothings/stb) - Single-file public domain libraries for C/C++.
 - [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - Modern cross-platform low-level graphics library and rendering framework.
 - [Loguru](https://github.com/emilk/loguru) - Lightweight C++ logging library.
+- [DFHack](https://github.com/DFHack/dfhack) - Dwarf Fortress memory access library, distributed with scripts and plugins implementing a wide variety of useful functions and tools.

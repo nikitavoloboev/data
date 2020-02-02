@@ -114,6 +114,10 @@ Below is a list of extensions I use.
 - [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [VS Code Neovim Integration](https://github.com/asvetliakov/vscode-neovim)
 
+## Shell
+
+- [ShellCheck](https://github.com/timonwong/vscode-shellcheck) - ShellCheck linter for VSCode.
+
 ## GraphQL
 
 - [GraphQuill](https://marketplace.visualstudio.com/items?itemName=sproutdeveloping.graphquill) - Performs GraphQL API endpoint testing within the VS Code environment.

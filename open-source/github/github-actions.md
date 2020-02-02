@@ -14,6 +14,7 @@
 - [Rust cargo Action](https://github.com/actions-rs/cargo) - Runs specified cargo command on a Rust language project.
 - [rust-toolchain Action](https://github.com/actions-rs/toolchain) - GitHub Action for `rustup toolchain` commands.
 - [GitHub Actions for Rust language](https://github.com/actions-rs/meta) - Recipes, discussions, questions and ideas.
+- [audit-check](https://github.com/actions-rs/audit-check) - GitHub Action is using cargo-audit to perform an audit for crates with security vulnerabilities.
 
 ## Python
 

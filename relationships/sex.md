@@ -1,8 +1,9 @@
 # Sex
 
-## NSFW
+## Creative NSFW
 
 - [let me do this](http://letmedothis.com/) - Erotic photography collection. ([Twitter](https://twitter.com/Let_Me_Do_This))
+- [A_magician](https://twitter.com/A_magician75)
 
 ## Links
 

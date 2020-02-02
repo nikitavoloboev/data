@@ -21,6 +21,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [openage](https://github.com/SFTtech/openage) - Free (as in freedom) open source clone of the Age of Empires II engine.
 - [AIDungeon2](https://github.com/AIDungeon/AIDungeon) - Infinite adventures await.
 - [VVVVVV](https://github.com/TerryCavanagh/vvvvvv)
+- [Julius](https://github.com/bvschaik/julius) - Open source re-implementation of Caesar III.
 
 ## Recommendations
 

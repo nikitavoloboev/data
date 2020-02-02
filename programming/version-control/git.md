@@ -88,3 +88,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Release It](https://github.com/release-it/release-it) - Automate versioning and package publishing.
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) - Guide to using Git, a version control system. Fast, powerful, easy to learn.
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
+- [Set up Keybase.io, GPG & Git to sign commits on GitHub](https://github.com/pstadler/keybase-gpg-github#readme)
