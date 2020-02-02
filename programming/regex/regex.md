@@ -15,6 +15,7 @@ Small tip, [regex101](https://regex101.com) has night mode.
 
 - [Learn regex](https://github.com/zeeshanu/learn-regex) - Great reference.
 - [DebuggexBeta](https://debuggex.com/)
+- [ExtendsClass](https://extendsclass.com/regex-tester.html) - Visual regex tester.
 - [RegexOne](https://regexone.com/) - Learn Regular Expressions with simple, interactive exercises.
 - [Regular Expression in Python HOWTO](https://docs.python.org/3.8/howto/regex.html#regex-howto) - Good intro.
 - [Hyperscan](https://github.com/intel/hyperscan) - High-performance regular expression matching library.
