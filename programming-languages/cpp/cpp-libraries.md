@@ -55,3 +55,4 @@
 - [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - Modern cross-platform low-level graphics library and rendering framework.
 - [Loguru](https://github.com/emilk/loguru) - Lightweight C++ logging library.
 - [DFHack](https://github.com/DFHack/dfhack) - Dwarf Fortress memory access library, distributed with scripts and plugins implementing a wide variety of useful functions and tools.
+- [Tweeny](https://github.com/mobius3/tweeny) - Inbetweening library designed for the creation of complex animations for games and other beautiful interactive software.

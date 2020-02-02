@@ -20,6 +20,8 @@
 - [Hidden Computational Power Found in the Arms of Neurons](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/)
 - [An algorithm that learns through rewards may show how our brain does too (2020)](https://www.technologyreview.com/s/615054/deepmind-ai-reiforcement-learning-reveals-dopamine-neurons-in-brain/) ([HN](https://news.ycombinator.com/item?id=22065761))
 - [An Existential Crisis in Neuroscience (2020)](http://nautil.us/issue/81/maps/an-existential-crisis-in-neuroscience) - We’re mapping the brain in amazing detail—but our brain can’t understand the picture. ([HN](https://news.ycombinator.com/item?id=22146439))
+- [Computational neuroscience resources](http://neural-reckoning.org/comp-neuro-resources.html)
+- [Neural Reckoning Group](http://neural-reckoning.org/index.html) - Aim to understand the brain, and intelligent behaviour more widely, via theoretical and computational models.
 
 ## Images
 
