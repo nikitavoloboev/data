@@ -14,6 +14,7 @@ It is common to use React with a Flux pattern to manage the state of the applica
   1. You just gained undo/redo, if you track alterations on your object.
   2. You know the state of your application at all times, just looking at the object. You can also keep it and save it for later use.
 - [Avoid using Immutable.js in Redux apps. Use Redux Toolkit & Immer instead.](https://twitter.com/acemarke/status/1213573285314809856)
+- [Actions are events, not commands. An action says "this thing happened", and then anything in the store (reducers, middlwares) is allowed to do something with that knowledge. An action does not say "please do this thing".](https://www.reddit.com/r/reduxjs/comments/ed3609/why_redux_advises_against_using_actions_as_setters/)
 
 ## Links
 
@@ -57,3 +58,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [React + Redux + Comlink = Off-main-thread (2019)](https://dassur.ma/things/react-redux-comlink/)
 - [Redux Batch](https://github.com/manaflair/redux-batch) - Enhance your Redux store to support batched actions.
 - [Redux Toolkit](https://redux-toolkit.js.org/) - Official, opinionated, batteries-included toolset for efficient Redux development. ([Code](https://github.com/reduxjs/redux-toolkit))
+- [Redux Shouldn’t Hold All Of Your Data (2019)](https://michaelwashburnjr.com/2019/12/09/stop-storing-data-redux/)

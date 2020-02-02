@@ -13,3 +13,4 @@
 - [Spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library.
 - [mdx-deck-live-code](https://github.com/JReinhold/mdx-deck-live-code) - Component for mdx-deck for live coding directly in your slides.
 - [Sizle](https://sizle.io/) - Bring your slide decks to life.
+- [Waymark](https://waymark.io/) - Instant, beautiful roadmaps for product presentations.

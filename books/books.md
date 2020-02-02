@@ -146,6 +146,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Books read by Mark McGranaghan](https://markmcgranaghan.com/books)
 - [Books read by James Somers](http://jsomers.net/#books)
 - [Ask HN: What are the best unknown books you have read? (2020)](https://news.ycombinator.com/item?id=22092108)
+- [Which book did you enjoy the most in 2019? 📚](https://twitter.com/mxstbr/status/1223646093306748928)
 
 ## Notes
 

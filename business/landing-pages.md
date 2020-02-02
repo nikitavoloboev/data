@@ -27,3 +27,4 @@
 - [Mockup World](https://www.mockupworld.co/) - Free photo-realistic Mockups.
 - ["Just ship it" is not always the right mindset](https://www.indiehackers.com/forum/just-ship-it-is-not-always-the-right-mindset-b71eda7696)
 - [MVP review and interview with Brad Jasper of Catchnotes.app](https://www.youtube.com/watch?v=6NlfGp1QH20)
+- [Landing Page 101](https://www.syke.co/landingpage101) - Guide focused on how to perfect your landing pages as a solo-designer.

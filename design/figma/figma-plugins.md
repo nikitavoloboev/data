@@ -17,3 +17,4 @@
 - [React Figma](https://github.com/react-figma/react-figma) - Render React components to Figma.
 - [Scripter](https://www.figma.com/c/plugin/757836922707087381/Scripter) - Speed up your workflow or experiment with the Figma API through scripts.
 - [Figma Import](https://packages.framer.com/package/lily/figma-import) - Import any frame from Figma as an image.
+- [Design Lint](https://lintyour.design/) - Free and open source plugin for Figma built to help you find and fix errors in your designs. ([Code](https://github.com/destefanis/design-lint))
