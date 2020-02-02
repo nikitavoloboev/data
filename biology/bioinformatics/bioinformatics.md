@@ -21,3 +21,4 @@
 - [Computer-Designed Organisms](https://cdorgs.github.io/) - Scalable pipeline for creating functional novel lifeforms.
 - [BioGrakn](https://github.com/graknlabs/biograkn) - Provides an intuitive way to query interconnected and heterogeneous biomedical data in one single place. ([Article](https://blog.grakn.ai/biograkn-accelerating-biomedical-knowledge-discovery-with-a-grakn-knowledge-graph-84706768d7d4))
 - [AlphaFold: Using AI for scientific discovery (2020)](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery) ([HN](https://news.ycombinator.com/item?id=22087788))
+- [Rust-Bio](https://github.com/rust-bio/rust-bio) - Provides implementations of many algorithms and data structures that are useful for bioinformatics.

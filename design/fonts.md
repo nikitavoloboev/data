@@ -18,6 +18,7 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - Typeface for Developers. ([HN](https://news.ycombinator.com/item?id=22053998)) ([Code](https://github.com/JetBrains/JetBrainsMono))
 - [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
 - [Victor Mono](https://rubjo.github.io/victor-mono/) ([Code](https://github.com/rubjo/victor-mono))
+- [Noto](https://github.com/googlefonts/noto-source) - Font for all the world's languages.
 
 ## Links
 

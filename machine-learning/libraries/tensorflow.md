@@ -28,3 +28,4 @@
 - [tract](https://github.com/snipsco/tract) - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference.
 - [IREE](https://github.com/google/iree) - Experimental MLIR Execution Environment.
 - [For Your Ears Only: Personalizing Spotify Home with Machine Learning (2020)](https://labs.spotify.com/2020/01/16/for-your-ears-only-personalizing-spotify-home-with-machine-learning/?linkId=81072583)
+- [TensorFlow workshops](https://github.com/tensorflow/workshops) - Few exercises for use at events.

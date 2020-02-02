@@ -32,3 +32,4 @@
 - [tsuru](https://github.com/tsuru/tsuru) - Open source, extensible and Docker-based Platform as a Service.
 - [Deploying Go servers with Docker (2014)](https://blog.golang.org/docker)
 - [Create the smallest and secured golang docker image based on scratch (2018)](https://medium.com/@chemidy/create-the-smallest-and-secured-golang-docker-image-based-on-scratch-4752223b7324)
+- [HN: What Exactly is Docker? (2020)](https://news.ycombinator.com/item?id=22212206)

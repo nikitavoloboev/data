@@ -18,3 +18,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [mdtoc](https://github.com/tallclair/mdtoc) - Markdown table-of-contents generator.
 - [HTMDX](https://github.com/michael-klein/htmdx) - Lightweight runtime for mdx-like markdown.
 - [textlint](https://github.com/textlint/textlint) - Pluggable natural language linter for text and markdown.
+- [markdown-print-tools](https://github.com/Clikengo/markdown-print-tools) - Tools to nicely print markdown document (vscode extension, markdown it extension, pdf generation).
