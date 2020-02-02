@@ -32,3 +32,4 @@
 - [Jexia](https://www.jexia.com/en/) - Developer platform that helps you to build serverless API-driven applications in a fast and simple way.
 - [Running a serverless Go web application (2019)](https://bartfokker.com/posts/cloud-run)
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS. ([Web](https://apex.sh/up/))
+- [Fauna](https://fauna.com/) - Database built for serverless, featuring native GraphQL.
