@@ -72,3 +72,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [sniffglue](https://github.com/kpcyrd/sniffglue) - Secure multithreaded packet sniffer.
 - [IPinfo](https://ipinfo.io/) - Trusted Source for IP Address Data.
 - [Host.io](https://host.io/) - Comprehensive Domain Data API for Developers.
+- [Remembering the LAN (2020)](https://crawshaw.io/blog/remembering-the-lan)

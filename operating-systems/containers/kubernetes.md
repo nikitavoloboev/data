@@ -138,3 +138,4 @@
 - [Kyverno](https://github.com/nirmata/kyverno) - Kubernetes Native Policy Management.
 - [Nirmata](https://www.nirmata.com/) - Unified management plane for all your Kubernetes clusters and workloads.
 - [Deep Dive into Kubernetes Internals for Builders and Operators (2020)](https://www.youtube.com/watch?v=3KtEAa7_duA)
+- [Rode](https://github.com/liatrio/rode) - Cloud native software supply chain.
