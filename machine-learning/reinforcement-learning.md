@@ -41,3 +41,4 @@
 - [rlpyt](https://github.com/astooke/rlpyt) - Reinforcement Learning in PyTorch.
 - [Accelerated Methods for Deep Reinforcement Learning](https://github.com/astooke/accel_rl)
 - [Programmatically interpretable reinforcement learning (2020)](https://blog.acolyer.org/2020/01/15/programmatically-interpretable-reinforcement-learning/)
+- [Curriculum for Reinforcement Learning (2020)](https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html)

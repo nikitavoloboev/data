@@ -190,3 +190,4 @@ Go promotes composition over inheritance.
 - [Go internals: capturing loop variables in closures (2020)](https://eli.thegreenplace.net/2019/go-internals-capturing-loop-variables-in-closures/)
 - [go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively.
 - [go: observing stack grow and shrink (2020)](https://ops.tips/notes/go-observing-stack-grow-and-shrink/)
+- [Readiness notifications in Go (2020)](https://michael.stapelberg.ch/posts/2020-02-02-readiness-notifications-in-golang/)
