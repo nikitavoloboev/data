@@ -15,3 +15,4 @@
 - [Performance Analysis & Tuning on Modern CPU - Denis Bakhvalov (2020)](https://www.youtube.com/watch?v=Ho3bCIJcMcc)
 - [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)
 - [IA32-doc](https://github.com/wbenny/ia32-doc) - Project which aims to put as many definitions from the Intel Manual into machine-processable format as possible.
+- [CPU caches and data locality: a small demonstration (2020)](https://kaushikghose.wordpress.com/2020/01/30/cpu-caches-and-data-locality-a-small-demonstration/) ([Lobsters](https://lobste.rs/s/4m2s8f/cpu_caches_data_locality_small))
