@@ -109,3 +109,4 @@
 - [Timothy Gowers: The Importance of Mathematics](https://www.youtube.com/watch?v=YoL3LfY3ogg)
 - [Oxford Undergraduate Courses in Math](https://courses.maths.ox.ac.uk/overview/undergraduate)
 - [Oxford Postgraduate Courses in Math](https://courses.maths.ox.ac.uk/overview/postgraduate)
+- [An inquiry into the Foundations of Mathematics (2020)](https://artagnon.com/articles/fom)

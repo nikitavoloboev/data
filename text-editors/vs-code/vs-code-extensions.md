@@ -240,7 +240,7 @@ Below is a list of extensions I use.
 
 ## Coq
 
-- [Coq Support](https://github.com/siegebell/vscoq)
+- [VSCoq](https://marketplace.visualstudio.com/items?itemName=maximedenes.vscoq) ([Code](https://github.com/coq-community/vscoq))
 
 ## TLA
 
