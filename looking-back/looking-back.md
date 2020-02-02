@@ -6,7 +6,7 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 
 ## 2020
 
-- [January](2020/2020-january.md)
+- [January](2020/2020-january.md) - Joined Rekki.
 
 ## [2019](2019/2019.md)
 

@@ -41,3 +41,4 @@
 - [Technical overview of LoRa and LoRaWAN](https://lora-alliance.org/sites/default/files/2018-04/what-is-lorawan.pdf)
 - [The Things Stack](https://thethingsstack.io) - Open Source LoRaWAN Network Server.
 - [Securing LoRaWAN with Secure Elements (2019)](https://www.linkedin.com/pulse/securing-lorawan-secure-elements-johan-stokking/)
+- [The Things Conference 2020](https://www.youtube.com/watch?v=0eOpMDffbQ0)
