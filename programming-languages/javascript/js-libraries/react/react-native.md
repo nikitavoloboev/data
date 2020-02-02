@@ -33,3 +33,4 @@
 - [Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat) - Most complete chat UI for React Native & Web.
 - [RecyclerListView](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web.
 - [React Native command line tools](https://github.com/react-native-community/cli)
+- [React Native Confetti](https://github.com/hyperjumptech/react-native-confetti) - React Native component to show confetti.

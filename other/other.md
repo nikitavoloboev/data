@@ -93,3 +93,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Nucoll](https://github.com/jdevoo/nucoll) - Command-line tool written in Go. It can be used to retrieve data from Twitter.
 - [Various tips & tricks](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet#readme)
 - [Over 500 Top PDFs posted to Hacker News in 2019](https://getpolarized.io/2020/01/19/over-500-top-pdf-posted-to-hacker-news-2019.html)
+- [Collection of essays and papers I find to be interesting](https://github.com/dmvaldman/library)
+- [SpiderFoot](https://github.com/smicallef/spiderfoot) - Most complete OSINT collection and reconnaissance tool.

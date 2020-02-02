@@ -191,3 +191,4 @@ Go promotes composition over inheritance.
 - [go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively.
 - [go: observing stack grow and shrink (2020)](https://ops.tips/notes/go-observing-stack-grow-and-shrink/)
 - [Readiness notifications in Go (2020)](https://michael.stapelberg.ch/posts/2020-02-02-readiness-notifications-in-golang/)
+- [GoReleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible.
