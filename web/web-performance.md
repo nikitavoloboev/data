@@ -29,3 +29,4 @@
 - [Measuring React app performance (2019)](https://www.debugbear.com/blog/measuring-react-app-performance)
 - [Profiling React performance with React 16 and Chrome Devtools (2017)](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad)
 - [Firefox Profiler](https://profiler.firefox.com/) - Web app for Firefox performance analysis.
+- [Do’s and Don’ts for Performance Teams (2020)](https://medium.com/@ricomariani/dos-and-don-ts-for-performance-teams-7f52c41b5355)

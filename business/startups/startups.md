@@ -120,6 +120,7 @@
 - [Working for someone vs. doing your own thing (2020)](https://tik.dev/dilemma) ([HN](https://news.ycombinator.com/item?id=22048655))
 - [Startup Stash](https://startupstash.com/) - Curated directory of tools and resources to build your startup.
 - [Become an Indie Hacker](https://www.indiehackers.com/start)
+- [My Second Year as a Solo Developer (2020)](https://mtlynch.io/solo-developer-year-2/) ([HN](https://news.ycombinator.com/item?id=22201337))
 
 ## Images
 
