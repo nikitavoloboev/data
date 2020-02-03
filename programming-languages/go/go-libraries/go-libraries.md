@@ -50,6 +50,7 @@
 - [Gorsk](https://github.com/ribice/gorsk) - Idiomatic Golang Restful Starter Kit.
 - [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp.
 - [REST Layer](https://github.com/rs/rest-layer) - API framework heavily inspired by the excellent Python Eve.
+- [Manners](https://github.com/braintree/manners) - Polite Go HTTP server that shuts down gracefully.
 
 ## GraphQL
 

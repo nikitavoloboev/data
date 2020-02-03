@@ -15,6 +15,7 @@ Here are few more things I liked, design wise.
 - [NSHipster](https://nshipster.com/) - Simple & clean blog.
 - [We Learn Code](https://welearncode.com/)
 - [Day of the dead](https://dayofthedead.holiday/)
+- [Braintree](https://braintree.github.io/)
 
 ## Blogs
 
