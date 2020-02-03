@@ -31,3 +31,4 @@
 - [BaseCS](https://medium.com/basecs) - Exploring the basics of computer science, every Monday, for a year.
 - [Falsehoods CS Students (Still) Believe Upon Graduating (2019)](https://www.netmeister.org/blog/cs-falsehoods.html)
 - [Simple, quick cheat sheets on CS concepts](https://github.com/aspittel/coding-cheat-sheets#readme)
+- [Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ([Code](https://github.com/missing-semester/missing-semester))

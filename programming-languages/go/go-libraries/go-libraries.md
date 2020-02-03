@@ -17,6 +17,7 @@
 - [Glamour](https://github.com/charmbracelet/glamour) - Write gorgeous command-line tools.
 - [termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications.
 - [tui go](https://github.com/marcusolsson/tui-go) - UI lib for terminal applications.
+- [Survey](https://github.com/AlecAivazis/survey) - Library for building interactive prompts.
 
 ## Test
 

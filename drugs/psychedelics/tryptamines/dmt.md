@@ -59,3 +59,4 @@
 - [How has DMT affected your belief in God/the afterlife? (2019)](https://www.reddit.com/r/DMT/comments/ctwh0r/how_has_dmt_affected_your_belief_in_godthe/)
 - [5-methoxy-N,N-dimethyltryptamine: An ego-dissolving endogenous neurochemical catalyst of creativity](https://www.biorxiv.org/content/10.1101/578435v2.full)
 - [Neural correlates of the DMT experience assessed with multivariate EEG](https://www.nature.com/articles/s41598-019-51974-4) ([HN](https://news.ycombinator.com/item?id=21588101))
+- [HN: 5-MeO-DMT: 20-minute psychoactive experience that’s transforming lives (2020)](https://news.ycombinator.com/item?id=22218645)

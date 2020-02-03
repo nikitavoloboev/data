@@ -15,6 +15,7 @@
 - [GDevelop](https://github.com/4ian/GDevelop) - Open-source, cross-platform game engine designed to be used by everyone.
 - [Corona](https://github.com/coronalabs/corona) - Simple to learn and use 2D game engine developed by Corona Labs.
 - [VCMI](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III.
+- [Hex Engine](https://github.com/suchipi/hex-engine) - Modern 2D game engine for the browser.
 
 ## Links
 
