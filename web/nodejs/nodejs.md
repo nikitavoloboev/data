@@ -54,3 +54,4 @@
 - [SOLID: Introduction to software architecture & design principles with Node.js & TypeScript](https://solidbook.io/)
 - [graffiti](https://github.com/cztomsik/graffiti) - Web-like GUI toolkit for node.js with minimal overhead. Lightweight, GPU-rendered alternative to electron.
 - [ls-engines](https://github.com/ljharb/ls-engines) - Determine if your dependency graph's stated "engines" criteria is met.
+- [relative-deps](https://github.com/mweststrate/relative-deps) - Installs local dependencies for optimal developer experience.
