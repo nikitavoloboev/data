@@ -41,3 +41,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Architecting for the Cloud - AWS Best Practices (2019)](https://tlakomy.com/architecting-for-the-cloud-aws-best-practices-part-1/)
 - [Bash-my-AWS](https://bash-my-aws.org/) - Simple but extremely powerful set of CLI commands for managing resources on Amazon Web Services. ([Code](https://github.com/bash-my-aws/bash-my-aws))
 - [AWS Docs](https://docs.aws.amazon.com/)
+- [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify#readme)

@@ -190,3 +190,4 @@
 - [Humans of Machine Learning](https://blog.floydhub.com/tag/humans-of-ml/)
 - [Machine Learning Flashcards](https://machinelearningflashcards.com/)
 - [Awesome Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme)
+- [Curated list of awesome data labeling tools](https://github.com/heartexlabs/awesome-data-labeling#readme)

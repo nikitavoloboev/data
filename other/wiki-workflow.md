@@ -57,6 +57,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)
 - [Hongyi Shen's notes](https://github.com/wilbeibi/NotesIndex)
+- [Bookmarks, tweets, cheatsheets, one-liners](https://github.com/ccampean/almanacs)
 - [Bayle Shanks](http://www.bayleshanks.com/)
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
 - [Nat Eliason notes](https://www.nateliason.com/notes)
