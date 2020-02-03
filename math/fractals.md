@@ -14,3 +14,4 @@
 - [Generating the Mandelbrot Set](https://scionofbytes.me/misc/generating-mandelbrot-fractals/)
 - [Recursion and Fractals](https://en.scratch-wiki.info/wiki/Recursion_and_Fractals)
 - [Fractals in Python](https://github.com/danilobellini/fractal)
+- [Chaos](https://github.com/jonnyhyman/Chaos) - Visualizations connecting chaos theory, fractals, and the logistic map.

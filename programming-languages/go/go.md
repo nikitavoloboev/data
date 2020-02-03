@@ -192,3 +192,5 @@ Go promotes composition over inheritance.
 - [go: observing stack grow and shrink (2020)](https://ops.tips/notes/go-observing-stack-grow-and-shrink/)
 - [Readiness notifications in Go (2020)](https://michael.stapelberg.ch/posts/2020-02-02-readiness-notifications-in-golang/)
 - [GoReleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible.
+- [Zen of Go](https://the-zen-of-go.netlify.com/) - Ten engineering values for writing simple, readable, maintainable Go code. ([Code](https://github.com/davecheney/the-zen-of-go))
+- [go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go Clean Architecture based on Reading Uncle Bob's Clean Architecture.

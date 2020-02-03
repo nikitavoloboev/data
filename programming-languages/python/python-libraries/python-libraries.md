@@ -78,3 +78,4 @@
 - [Camelot](https://github.com/camelot-dev/camelot) - Python library to extract tabular data from PDFs.
 - [gif](https://github.com/maxhumber/gif) - Better way to build animated Matplotlib gifs.
 - [pynamical](https://github.com/gboeing/pynamical) - Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.
+- [Inline C](https://github.com/georgek42/inlinec) - Effortlessly write inline C functions in Python.

@@ -157,6 +157,8 @@
 - [LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - Swift wrapper for the LLVM C API.
 - [ClangSwift](https://github.com/llvm-swift/ClangSwift) - Swift wrapper for the libclang C API.
 - [JWTDecode](https://github.com/auth0/JWTDecode.swift) - Library to help you decode JWTs in Swift.
+- [Shout](https://github.com/jakeheis/Shout) - SSH made easy in Swift.
+- [Predicate.swift](https://github.com/ollieatkinson/Predicate.swift) - Small addition to Swift adding predicate matchers for filtering operators using KeyPaths, it just feels natural.
 
 ## Links
 

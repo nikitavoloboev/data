@@ -11,3 +11,4 @@
 - [Deploy your side-projects at scale for basically nothing - Google Cloud Run (2020)](https://alexolivier.me/posts/deploy-container-stateless-cheap-google-cloud-run-serverless) ([HN](https://news.ycombinator.com/item?id=22027459))
 - [DevOps Questions & Exercises](https://github.com/bregman-arie/devops-exercises#readme)
 - [Ops Lessons We All Learn The Hard Way (2020)](https://www.netmeister.org/blog/ops-lessons.html)
+- [Juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.

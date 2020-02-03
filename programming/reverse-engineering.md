@@ -16,3 +16,4 @@
 - [pixd](https://github.com/FireyFly/pixd) - Colourful visualization tool for binary files.
 - [Datalog Disassembly](https://github.com/GrammaTech/ddisasm) - Fast disassembler which is accurate enough for the resulting assembly code to be reassembled.
 - [GTIRB](https://github.com/GrammaTech/gtirb) - Intermediate Representation for Binary analysis and transformation.
+- [bed](https://github.com/itchyny/bed) - Binary editor written in Go.

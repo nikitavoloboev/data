@@ -10,3 +10,4 @@
 - [Visualizing Efficient Merkle Trees for Zero-Knowledge Proofs (2020)](https://kndrck.co/posts/efficient-merkletrees-zk-proofs/)
 - [ZKP](https://github.com/adjoint-io/zkp) - Practical zero knowledge proof system that provides small and computationally efficient zero-knowledge proofs of arbitrary computations.
 - [Zero-knowledge attestation (2019)](https://www.imperialviolet.org/2019/01/01/zkattestation.html)
+- [genSTARK](https://github.com/GuildOfWeavers/genSTARK) - Library for generating zk-STARKs.
