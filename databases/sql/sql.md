@@ -33,3 +33,4 @@
 - [Presto](https://prestodb.io/) - Distributed SQL Query Engine for Big Data. ([Code](https://github.com/prestodb/presto))
 - [SQL Language Server](https://github.com/joe-re/sql-language-server)
 - [The rise of SQL-based data modeling and DataOps (2019)](https://www.holistics.io/blog/the-rise-of-sql-based-data-modeling-and-dataops/) ([HN](https://news.ycombinator.com/item?id=22189851))
+- [NULL Values in SQL Queries (2020)](https://mitchum.blog/null-values-in-sql-queries/) ([HN](https://news.ycombinator.com/item?id=22223909))

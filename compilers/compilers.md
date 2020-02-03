@@ -64,3 +64,4 @@
 - [Essentials of Interpretation (2019)](https://www.youtube.com/playlist?list=PLGNbPb3dQJ_4WT_m3aI3T2LRf2R_FKM2k) - Course on implementing an interpreter for a programming language similar to Python or JavaScript, from scratch.
 - [htcc](https://github.com/falgon/htcc) - Tiny C language compiler (x86-64).
 - [Termite](https://github.com/hanwen/termite) - Generic distributed compilation system.
+- [A Simple Graph-Based Intermediate Representation (1995)](http://paperhub.s3.amazonaws.com/24842c95fb1bc5d7c5da2ec735e106f0.pdf) ([HN](https://news.ycombinator.com/item?id=22223820))
