@@ -95,3 +95,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Over 500 Top PDFs posted to Hacker News in 2019](https://getpolarized.io/2020/01/19/over-500-top-pdf-posted-to-hacker-news-2019.html)
 - [Collection of essays and papers I find to be interesting](https://github.com/dmvaldman/library)
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - Most complete OSINT collection and reconnaissance tool.
+- [Best of 2019 in Tech Talks (2020)](https://medium.com/@copyconstruct/best-of-2019-in-tech-talks-bac697c3ee13)
