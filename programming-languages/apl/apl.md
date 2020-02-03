@@ -12,3 +12,4 @@
 - [Kenneth E. Iverson: An Autobiographical Essay (2004)](http://archive.vector.org.uk/trad/v234/iverson.pdf) ([HN](https://news.ycombinator.com/item?id=21855821))
 - [Functional Programming in Joy and K (2005)](http://archive.vector.org.uk/art10000360)
 - [Language as an intellectualtool: From hieroglyphicsto APL (1991)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.6185&rep=rep1&type=pdf)
+- [April](https://github.com/phantomics/april) - APL programming language (a subset thereof) compiling to Common Lisp. ([HN](https://news.ycombinator.com/item?id=22225136))

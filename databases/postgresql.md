@@ -59,3 +59,4 @@
 - [PostgreSQL at Scale: Database Schema Changes Without Downtime (2019)](https://medium.com/braintree-product-technology/postgresql-at-scale-database-schema-changes-without-downtime-20d3749ed680)
 - [Strong migrations](https://github.com/ankane/strong_migrations#readme) - Catch unsafe migrations in development.
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/12/index.html)
+- [HN: The state of full text search in PostgreSQL 12 (2020)](https://news.ycombinator.com/item?id=22223629)
