@@ -24,3 +24,4 @@
 - [The Knowledge: Towards a Culture of Engineering Documentation](https://www.usenix.org/node/197471)
 - [We Need a New Document Markup Language - Here is Why (2019)](https://dev.to/practicalprogramming/we-need-a-new-document-markup-language---here-is-why-5d4c)
 - [Devhints](https://devhints.io/) - TL;DR for documentation. ([Code](https://github.com/rstacruz/cheatsheets))
+- [Metadoc](https://beta.metadoc.io/) - Online documentation platform where developers collaborate and learn from shared inline notes, bookmarks and comments.

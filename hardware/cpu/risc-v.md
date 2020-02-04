@@ -12,3 +12,4 @@
 - ["Verified seL4 on secure RISC-V processors" - Gernot Heiser (2020)](https://www.youtube.com/watch?v=wJ96s3pNtI0)
 - [SiFive](https://www.sifive.com/) - Design RISC-V CPUs in an hour. Get custom SoCs designed in weeks, not months.
 - [Rust on Risc-V (VexRiscv) on SpinalHDL with SymbiFlow on the Hackaday Supercon Badge (2020)](https://craigjb.com/2020/01/22/ecp5/)
+- [vanadinite](https://github.com/repnop/vanadinite) - RISC-V OS written in Rust.

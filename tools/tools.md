@@ -23,6 +23,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [namae](https://namae.dev/) - Check availability of your new app name candidates for major registries at once. ([Code](https://github.com/uetchy/namae))
 - [Parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely. ([Article](https://www.tomosman.com/posts/what-is-parabola))
 - [Exploding Topics](https://explodingtopics.com/) - We surface rapidly growing topics before they take off.
+- [Logflare](https://logflare.app/) - Affordable log management & event analytics.
 - [Nuclino](https://www.nuclino.com/) - Lightweight and collaborative wiki for all your team's knowledge, docs, and notes.
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.
 - [Bit.sv](https://bit.sv/) - New content network that lets anyone earn money from their interests.
