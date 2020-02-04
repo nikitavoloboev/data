@@ -194,3 +194,4 @@ Go promotes composition over inheritance.
 - [GoReleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible.
 - [Zen of Go](https://the-zen-of-go.netlify.com/) - Ten engineering values for writing simple, readable, maintainable Go code. ([Code](https://github.com/davecheney/the-zen-of-go))
 - [go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go Clean Architecture based on Reading Uncle Bob's Clean Architecture.
+- [Why Discord is switching from Go to Rust (2020)](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) ([HN](https://news.ycombinator.com/item?id=22238335))
