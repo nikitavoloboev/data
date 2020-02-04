@@ -22,4 +22,4 @@ If you want to help out, we have a [Discord server](https://discord.gg/KKYdWjt).
 
 ## Links
 
-- [LA Docs](https://docs.learn-anything.org) - Includes roadmap, notes.
+- [LA Docs](https://docs.learn-anything.xyz) - Includes roadmap, notes.
