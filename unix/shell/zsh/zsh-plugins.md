@@ -29,6 +29,7 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 - [Enhancd](https://github.com/b4b4r07/enhancd) - Next-generation cd command with an interactive filter.
 - [Ports](https://github.com/caarlos0/ports) - Easily see what's happening on your computer's ports.
 - [Fast Syntax Highlighting](https://github.com/zdharma/fast-syntax-highlighting) - Fine granularity, number of features, 40 work hours themes.
+- [cod](https://github.com/dim-an/cod) - Completion daemon for bash/zsh.
 
 ## Prompt
 

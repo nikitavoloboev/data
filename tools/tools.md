@@ -20,6 +20,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [faktory](https://github.com/contribsys/faktory) - At a high level, Faktory is a work server. It is the repository for background jobs within your application.
 - [Tray](https://tray.io/) - Quickly integrate your software applications using powerful automated workflows.
 - [golinks](https://github.com/prologic/golinks) - Web app that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance.
+- [namae](https://namae.dev/) - Check availability of your new app name candidates for major registries at once. ([Code](https://github.com/uetchy/namae))
 - [Parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely. ([Article](https://www.tomosman.com/posts/what-is-parabola))
 - [Exploding Topics](https://explodingtopics.com/) - We surface rapidly growing topics before they take off.
 - [Nuclino](https://www.nuclino.com/) - Lightweight and collaborative wiki for all your team's knowledge, docs, and notes.
@@ -170,7 +171,6 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Whimsical](https://whimsical.com/) - The Visual Workspace.
 - [linkinator](https://github.com/JustinBeckwith/linkinator) - Scurry around your site and find all those broken links.
 - [Better Twitter](https://bettertwitter.netlify.com/) - Better twitter search UI for power users. ([Code](https://github.com/sw-yx/bettertwitter))
-- [namae](https://github.com/uetchy/namae) - Saves your time searching around registries and checking if the desired name is ready for use.
 - [Sacred](https://github.com/IDSIA/sacred) - Tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
 - [Data Puller](https://github.com/austil/datapuller) - Easy" data dump of your activity on various web services.
 - [Short](https://github.com/byliuyang/short) - URL shortening service written in Go and React.

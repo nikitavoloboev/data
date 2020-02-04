@@ -27,3 +27,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [2019 Photomicrography Competition](https://www.nikonsmallworld.com/galleries/2019-photomicrography-competition)
 - [Beautiful buildings in architecture photography prize – in pictures (2020)](https://www.theguardian.com/artanddesign/gallery/2020/jan/28/beautiful-buildings-in-architecture-photography-prize-in-pictures)
 - [PhotoPrism](https://github.com/photoprism/photoprism) - Server-based application for browsing, organizing and sharing your personal photo collection.
+- [Reddit multi part photography class](https://www.reddit.com/r/photoclass/)

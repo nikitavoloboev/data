@@ -31,3 +31,4 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans#r
 - [/uses](https://uses.tech/) - List of /uses pages detailing developer setups, gear, software and configs.
 - [Ask HN: What people skills do you wish you learned earlier in your career? (2019)](https://news.ycombinator.com/item?id=20503813)
 - [The Unparalleled Genius of John von Neumann (2019)](https://medium.com/cantors-paradise/the-unparalleled-genius-of-john-von-neumann-791bb9f42a2d) ([HN](https://news.ycombinator.com/item?id=21542753))
+- [WaitWho.is](https://waitwho.is/) - Growing directory of people — and all of their best content in one place.

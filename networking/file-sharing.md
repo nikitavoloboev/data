@@ -10,3 +10,4 @@
 - [Dropbox Transfer](https://www.dropbox.com/transfer)
 - [bita](https://github.com/oll3/bita) - Differential file synchronization over http.
 - [Filestash](https://github.com/mickael-kerjean/filestash) - Modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze.
+- [Seafile](https://github.com/haiwen/seafile) - Open source cloud storage system with privacy protection and teamwork features.

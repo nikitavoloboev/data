@@ -35,3 +35,4 @@
 - [React Native command line tools](https://github.com/react-native-community/cli)
 - [React Native Confetti](https://github.com/hyperjumptech/react-native-confetti) - React Native component to show confetti.
 - [React Native Debugger](https://github.com/jhen0409/react-native-debugger) - Standalone app for debugging React Native apps.
+- [Supportive material for the tutorial about React Native and SwiftUI](https://github.com/Kureev/ReactNativeWithSwiftUITutorial)

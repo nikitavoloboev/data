@@ -9,7 +9,7 @@
 - [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials.
 - Cut out noise (no analytics, likes..). No time wasted. Maximize impact & growth.
 - Learn from mistakes. Reflect. [Journal](../looking-back/looking-back.md). Move forward. Move fast.
-- Embrace change. Never complain about anything. Be proactive. Be bold & fearless. Never give up.
+- Embrace change. Be proactive. Be bold & fearless. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas.
@@ -124,6 +124,7 @@
 - Open draft PRs for WIP changes, saying what should be added or considered in `Notes for reviewers` or the related issue. Ask for feedback.
 - Minimize distractions in text editor.
 - Comment over unclear code. Be as descriptive as necessary.
+- Enforce one formatting style for code with automatic formatter.
 
 ## OSS
 

@@ -33,3 +33,4 @@
 - [Running a serverless Go web application (2019)](https://bartfokker.com/posts/cloud-run)
 - [up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS. ([Web](https://apex.sh/up/))
 - [Fauna](https://fauna.com/) - Database built for serverless, featuring native GraphQL.
+- [OpenFaaS](https://www.openfaas.com/) - Makes it simple to deploy both functions and existing code to Kubernetes.

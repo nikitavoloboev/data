@@ -132,3 +132,4 @@
 - [Diglett](https://github.com/oblador/diglett) - Keep your JS project lean by detecting duplicate dependencies.
 - [Learn Vanilla JS Roadmap](https://learnvanillajs.com/roadmap/)
 - [Learn JavaScript](https://learnjavascript.online/) - Easiest way to learn & practice modern JavaScript step by step.
+- [Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries](https://github.com/bradtraversy/vanillawebprojects) ([HN](https://news.ycombinator.com/item?id=22231963))
