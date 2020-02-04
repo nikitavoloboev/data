@@ -13,6 +13,7 @@
 - [Answers to the most common questions about SwiftUI (2019)](https://wwdcbysundell.com/2019/swiftui-common-questions/)
 - [Awesome SwiftUI](https://github.com/vlondon/awesome-swiftui#readme)
 - [Awesome SwiftUI 2](https://github.com/ygit/swiftui#readme)
+- [Awesome SwiftUI 3](https://github.com/chinsyo/awesome-swiftui#readme)
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI) - SwiftUI & Combine app using MovieDB API. With a custom Flux (Redux) implementation.
 - [Swift Playground explaining the concepts of the new Combine framework](https://github.com/AvdLee/CombineSwiftPlayground)
 - [SwiftWebUI](https://github.com/swiftwebui/SwiftWebUI) - Demo implementation of SwiftUI for the Web.

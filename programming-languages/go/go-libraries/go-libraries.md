@@ -314,6 +314,7 @@
 - [DJSON](https://github.com/a8m/djson) - Fast Go decoder for dynamic JSON.
 - [Gabs](https://github.com/Jeffail/gabs) - Small utility for dealing with dynamic or unknown JSON structures in Go.
 - [go-homedir](https://github.com/mitchellh/go-homedir) - Go library for detecting and expanding the user's home directory without cgo.
+- [Pigo](https://github.com/esimov/pigo) - Pure Go face detection library.
 
 ## Links
 

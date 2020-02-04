@@ -22,6 +22,7 @@
 - [An Existential Crisis in Neuroscience (2020)](http://nautil.us/issue/81/maps/an-existential-crisis-in-neuroscience) - We’re mapping the brain in amazing detail—but our brain can’t understand the picture. ([HN](https://news.ycombinator.com/item?id=22146439))
 - [Computational neuroscience resources](http://neural-reckoning.org/comp-neuro-resources.html)
 - [Neural Reckoning Group](http://neural-reckoning.org/index.html) - Aim to understand the brain, and intelligent behaviour more widely, via theoretical and computational models.
+- [Neurolib](https://github.com/neurolib-dev/neurolib) - Computational neuroscience library for easy whole-brain modeling.
 
 ## Images
 

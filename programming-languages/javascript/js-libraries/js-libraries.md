@@ -155,3 +155,4 @@
 - [Hydra](https://github.com/ojack/hydra) - Livecoding networked visuals in the browser.
 - [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control.
 - [gsheets](https://github.com/interactivethings/gsheets) - Get public Google Sheets as plain JavaScript/JSON.
+- [alga-ts](https://github.com/YBogomolov/alga-ts) - Algebraic graphs implementation in TypeScript.

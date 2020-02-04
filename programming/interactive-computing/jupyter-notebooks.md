@@ -35,3 +35,4 @@
 - [Livebook](https://github.com/inkandswitch/livebook) - IPython notebook-compatible live coding experiment. ([Demo](https://www.youtube.com/watch?v=hznPSDDF4Jk))
 - [Jupyter Sphinx](https://github.com/jupyter/jupyter-sphinx) - Sphinx extension for rendering of Jupyter interactive widgets.
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
+- [Dask JupyterLab Extension](https://github.com/dask/dask-labextension) - Provides a JupyterLab extension to manage Dask clusters, as well as embed Dask's dashboard plots directly into JupyterLab panes.
