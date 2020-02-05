@@ -9,7 +9,6 @@ I have `Top` and `Other` smart playlists in Overcast. The `Top` includes my favo
 It includes:
 
 - [99% Invisible](https://overcast.fm/itunes394775318/99-invisible) - Tiny radio show about design, architecture & the 99% invisible activity that shapes our world.
-- [Accidental Tech Podcast](https://overcast.fm/itunes617416468/accidental-tech-podcast) - Three nerds discussing tech, Apple, programming, and loosely related matters.
 - [The Art of Product](https://overcast.fm/itunes1243627144/the-art-of-product) - Ben and Derrick chat weekly about building software companies.
 - [MIT Artificial Intelligence](https://overcast.fm/itunes1434243584/artificial-intelligence) - Conversations at MIT and beyond about the nature of intelligence and AI.
 - [Chats with Kent C. Dodds](https://overcast.fm/itunes1475543959/chats-with-kent-c-dodds) - Kent C. Dodds chats with developers.

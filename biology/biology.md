@@ -23,3 +23,4 @@
 - [2019 - The Year in Biology](https://www.quantamagazine.org/quantas-year-in-biology-2019-20191223/)
 - [Synthetic Biology One course](https://syntheticbiology1.com/)
 - [Accelerating Photosynthesis](http://rubyplants.com/) ([HN](https://news.ycombinator.com/item?id=21999208))
+- [The Algorithmic Beauty of Plants (1990)](http://algorithmicbotany.org/papers/abop/abop.pdf)

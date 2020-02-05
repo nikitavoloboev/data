@@ -15,6 +15,7 @@
 - [Google Cloud](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python.
 - [Reddit](https://github.com/feross/reddit) - Simple Reddit API client in JS.
 - [Slack API in Go](https://github.com/nlopes/slack)
+- [Star Wars API](https://swapi.co/) - Nice for testing.
 
 ## Links
 
