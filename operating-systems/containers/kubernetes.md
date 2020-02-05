@@ -142,3 +142,4 @@
 - [kube-monkey](https://github.com/asobti/kube-monkey) - Implementation of Netflix's Chaos Monkey for Kubernetes clusters.
 - [Crash Course in Kubernetes: blog series (2020)](https://blog.tilt.dev/2019/10/16/crash-course-kubernetes-overview.html)
 - [Fabio](https://github.com/fabiolb/fabio) - Fast, modern, zero-conf load balancing HTTP(S) and TCP router for deploying applications managed by consul.
+- [Rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes.

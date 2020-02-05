@@ -14,3 +14,4 @@
 - [SwiftCSP](https://github.com/davecom/SwiftCSP) - Constraint satisfaction problem solver written in pure Swift.
 - [Proof Assistants At the Hardware-Software Interface (2020)](https://www.youtube.com/watch?v=GXXOyXeyKeY)
 - [The business case for formal methods (2020)](https://www.hillelwayne.com/post/business-case-formal-methods/) ([Lobsters](https://lobste.rs/s/ywgjhd/business_case_for_formal_methods))
+- [Logipedia](https://github.com/Deducteam/Logipedia) - Project that aims to share formal proofs between several systems.

@@ -11,3 +11,4 @@
 - [JSON Parser with JavaScript](https://lihautan.com/json-parser-with-javascript/) ([HN](https://news.ycombinator.com/item?id=21772336))
 - [Parsing 18 billion JSON lines with Go (2019)](https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2)
 - [Parsing JSON Really Quickly: Lessons Learned (2019)](https://www.youtube.com/watch?v=wlvKAT7SZIQ)
+- [Functional Parsing - Computerphile (2020)](https://www.youtube.com/watch?v=dDtZLm7HIJs)
