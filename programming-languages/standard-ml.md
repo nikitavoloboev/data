@@ -8,3 +8,4 @@
 - [WebML](https://github.com/KeenS/webml) - Standard ML compiler for the Web.
 - [Ponyo](https://github.com/eatonphil/ponyo) - Comprehensive high-level library and toolkit for Standard ML.
 - [Tour of Standard ML ](https://saityi.github.io/sml-tour/tour/00-00-welcome.html) ([HN](https://news.ycombinator.com/item?id=22180834))
+- [Unix System Programming with Standard ML](http://www.mlton.org/References.attachments/Shipman02.pdf) ([HN](https://news.ycombinator.com/item?id=22246334))
