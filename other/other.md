@@ -96,3 +96,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Collection of essays and papers I find to be interesting](https://github.com/dmvaldman/library)
 - [SpiderFoot](https://github.com/smicallef/spiderfoot) - Most complete OSINT collection and reconnaissance tool.
 - [Best of 2019 in Tech Talks (2020)](https://medium.com/@copyconstruct/best-of-2019-in-tech-talks-bac697c3ee13)
+- [FOSDEM video recordings](https://video.fosdem.org/2020/) - Recordings for other years available too.

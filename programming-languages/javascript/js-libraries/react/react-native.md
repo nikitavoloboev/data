@@ -36,3 +36,5 @@
 - [React Native Confetti](https://github.com/hyperjumptech/react-native-confetti) - React Native component to show confetti.
 - [React Native Debugger](https://github.com/jhen0409/react-native-debugger) - Standalone app for debugging React Native apps.
 - [Supportive material for the tutorial about React Native and SwiftUI](https://github.com/Kureev/ReactNativeWithSwiftUITutorial)
+- [React Navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps.
+- [Alexey Kureev - React Native CodeGen (2019)](https://www.youtube.com/watch?v=UnplXjhsrJk)

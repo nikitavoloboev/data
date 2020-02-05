@@ -194,4 +194,5 @@ Go promotes composition over inheritance.
 - [GoReleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible.
 - [Zen of Go](https://the-zen-of-go.netlify.com/) - Ten engineering values for writing simple, readable, maintainable Go code. ([Code](https://github.com/davecheney/the-zen-of-go))
 - [go-clean-arch](https://github.com/bxcodec/go-clean-arch) - Go Clean Architecture based on Reading Uncle Bob's Clean Architecture.
-- [Why Discord is switching from Go to Rust (2020)](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) ([HN](https://news.ycombinator.com/item?id=22238335))
+- [Why Discord is switching from Go to Rust (2020)](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) ([HN](https://news.ycombinator.com/item?id=22238335)) ([Reddit](https://www.reddit.com/r/programming/comments/eyuebc/why_discord_is_switching_from_go_to_rust/)) ([Lobsters](https://lobste.rs/s/34sse3/why_discord_is_switching_from_go_rust))
+- [Running Go CLI programs in the browser (2020)](https://www.arp242.net/wasm-cli.html) ([Lobsters](https://lobste.rs/s/5r1h5r/running_go_cli_programs_browser))
