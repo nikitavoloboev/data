@@ -18,6 +18,8 @@
 - [termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications.
 - [tui go](https://github.com/marcusolsson/tui-go) - UI lib for terminal applications.
 - [Survey](https://github.com/AlecAivazis/survey) - Library for building interactive prompts.
+- [GOCUI](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+- [mitchellh/cli](https://github.com/mitchellh/cli) - Go library for implementing command-line interfaces.
 
 ## Test
 
@@ -315,6 +317,7 @@
 - [Gabs](https://github.com/Jeffail/gabs) - Small utility for dealing with dynamic or unknown JSON structures in Go.
 - [go-homedir](https://github.com/mitchellh/go-homedir) - Go library for detecting and expanding the user's home directory without cgo.
 - [Pigo](https://github.com/esimov/pigo) - Pure Go face detection library.
+- [Keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores.
 
 ## Links
 

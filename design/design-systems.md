@@ -3,7 +3,7 @@
 ## Interesting design systems
 
 - [Styled system](https://styled-system.com/) - Style props for rapid UI development.
-- [Base Web](https://baseweb.design) - React Component library implementing the Base design language.
+- [Base Web](https://baseweb.design) - React Component library implementing the Base design language. ([Code](https://github.com/uber/baseweb))
 - [Grommet](https://grommet.io) - React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package.
 - [smooth UI](https://github.com/smooth-code/smooth-ui) - Modern React UI library.
 - [Orbit](https://orbit.kiwi/) - Open source design system for your next travel project.
@@ -16,7 +16,7 @@
 - [Braid](https://github.com/seek-oss/braid-design-system) - Themeable design system for the SEEK Group.
 - [Lunar](https://github.com/airbnb/lunar) - React toolkit and design language for Airbnb open source and internal projects.
 - [Welcome UI](http://welcome-ui.com/)
-- [Base Web](https://github.com/uber/baseweb) - React Component library implementing the Base design language. ([Docs](https://baseweb.design/))
+- [Ring UI](https://jetbrains.github.io/ring-ui/master/index.html?path=/story/ring-ui-welcome--getting-started) - JetBrains Web UI components. ([Code](https://github.com/JetBrains/ring-ui))
 
 ## Links
 

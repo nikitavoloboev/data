@@ -60,6 +60,7 @@
 - [craft.js](https://github.com/prevwong/craft.js) - React Framework for building extensible drag and drop page editors.
 - [React Iframe](https://github.com/svenanders/react-iframe) - Simple solution for using iframes in React.
 - [clack-react](https://github.com/reasonink/clack-react) - Provides two React components that enable keyboard shortcuts in React.
+- [React Wizard Primitive](https://github.com/Jibbedi/react-wizard-primitive) - React wizard primitive - built with hooks.
 
 ## Links
 
