@@ -38,3 +38,5 @@
 - [Supportive material for the tutorial about React Native and SwiftUI](https://github.com/Kureev/ReactNativeWithSwiftUITutorial)
 - [React Navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps.
 - [Alexey Kureev - React Native CodeGen (2019)](https://www.youtube.com/watch?v=UnplXjhsrJk)
+- [Expo](https://github.com/expo/expo) - Open-source platform for making universal native apps that run on Android, iOS, and the web.
+- [Expo CLI](https://github.com/expo/expo-cli) - Tools for making Expo apps.

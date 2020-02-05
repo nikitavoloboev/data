@@ -29,5 +29,5 @@
 - [Universal Design Pattern (2008)](http://steve-yegge.blogspot.com/2008/10/universal-design-pattern.html) ([HN](https://news.ycombinator.com/item?id=337746))
 - [The 12 Factor App](https://12factor.net)
 - [Introduction to Computer Systems course (2019)](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f19/www/)
-- [The Cloud (2019)](https://txt.black/~jack/cloud.txt)
+- [The Cloud (2019)](https://txt.black/~jack/cloud.txt) ([HN](https://news.ycombinator.com/item?id=20639359))
 - [Ask HN: Which are the best resources to learn software architecture? (2020)](https://news.ycombinator.com/item?id=22202769)
