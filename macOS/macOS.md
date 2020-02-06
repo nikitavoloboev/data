@@ -50,3 +50,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [AppMover](https://github.com/OskarGroth/AppMover) - Framework for moving your application bundle to Applications folder on launch.
 - [Lilu](https://github.com/acidanthera/Lilu) - Arbitrary kext and process patching on macOS.
 - [osx-hid-inspector](https://github.com/pqrs-org/osx-hid-inspector) - Command line tool for macOS for inspecting human input devices (HID).
+- [macOS Kernel Extensions are officially deprecated](https://developer.apple.com/support/kernel-extensions/) ([HN](https://news.ycombinator.com/item?id=22251076))

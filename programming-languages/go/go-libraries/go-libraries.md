@@ -318,6 +318,8 @@
 - [go-homedir](https://github.com/mitchellh/go-homedir) - Go library for detecting and expanding the user's home directory without cgo.
 - [Pigo](https://github.com/esimov/pigo) - Pure Go face detection library.
 - [Keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores.
+- [email](https://github.com/jordan-wright/email) - Robust and flexible email library for Go.
+- [retry](https://github.com/avast/retry-go) - Simple golang library for retry mechanism.
 
 ## Links
 
