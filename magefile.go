@@ -11,6 +11,7 @@ import (
 )
 
 // TODO: duplicate links, ..
+
 // Find broken links
 func Clean() {
 	_, err := exec.LookPath("mdck")

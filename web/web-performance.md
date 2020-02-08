@@ -33,3 +33,4 @@
 - [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 - [Jank Free](http://jankfree.org/) - Resources to make web silky smooth.
 - [Visualizing Performance with Flame Graphs (2017)](https://www.youtube.com/watch?v=D53T1Ejig1Q)
+- [Awesome performance testing collection](https://github.com/andriisoldatenko/awesome-performance-testing#readme)

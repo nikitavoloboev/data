@@ -7,6 +7,10 @@
 - [Syntax.fm](https://github.com/wesbos/Syntax)
 - [Notion Blog](https://github.com/ijjk/notion-blog) - Next.js site using new SSG support with a Notion backed blog.
 
+## NextJS plugins
+
+- [Next SEO](https://github.com/garmeeh/next-seo) - Plugin that makes managing your SEO easier in Next.js projects.
+
 ## Links
 
 - [next-postgres](https://github.com/jimmylee/next-postgres) - React 16.4.2 + NextJS 7.0.2 + Emotion + Sequelize 4/Postgres + Passport Local Auth + Zeit or Heroku Deployment.
