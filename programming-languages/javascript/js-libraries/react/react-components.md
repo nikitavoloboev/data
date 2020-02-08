@@ -61,6 +61,8 @@
 - [React Iframe](https://github.com/svenanders/react-iframe) - Simple solution for using iframes in React.
 - [clack-react](https://github.com/reasonink/clack-react) - Provides two React components that enable keyboard shortcuts in React.
 - [React Wizard Primitive](https://github.com/Jibbedi/react-wizard-primitive) - React wizard primitive - built with hooks.
+- [console-feed](https://github.com/samdenty/console-feed) - Captures console.log's into a React Component.
+- [react-json-view](https://github.com/mac-s-g/react-json-view) - React component for displaying and editing javascript arrays and JSON objects.
 
 ## Links
 

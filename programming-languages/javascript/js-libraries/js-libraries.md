@@ -156,3 +156,4 @@
 - [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control.
 - [gsheets](https://github.com/interactivethings/gsheets) - Get public Google Sheets as plain JavaScript/JSON.
 - [alga-ts](https://github.com/YBogomolov/alga-ts) - Algebraic graphs implementation in TypeScript.
+- [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag. ([Awesome](https://github.com/chartjs/awesome#readme))

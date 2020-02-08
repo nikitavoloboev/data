@@ -15,3 +15,4 @@
 - [libdill](https://github.com/sustrik/libdill) - Structured concurrency in C.
 - [CRoaring](https://github.com/RoaringBitmap/CRoaring) - Roaring bitmaps in C (and C++).
 - [cr.h](https://github.com/fungos/cr) - Simple C Hot Reload Header-only Library.
+- [cgltf](https://github.com/jkuhlmann/cgltf) - Single-file glTF 2.0 loader and writer written in C99.

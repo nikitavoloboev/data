@@ -84,3 +84,4 @@
 - [Nix-based app VMs](https://github.com/jollheef/appvm)
 - [nix-index](https://github.com/bennofs/nix-index) - Quickly locate nix packages with specific files.
 - [Thoughts on Nix (2020)](https://christine.website/blog/thoughts-on-nix-2020-01-28) ([Lobsters](https://lobste.rs/s/tp6o0q/thoughts_on_nix))
+- [Nix-bisect](https://github.com/timokau/nix-bisect) - Bisect Nix Builds.
