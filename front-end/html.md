@@ -23,3 +23,4 @@
 - [Optimal Virtual DOM (2019)](https://blog.kabir.sh/posts/optimal-virtual-dom.html)
 - [tags-input](https://github.com/developit/tags-input) - Input element with tag input.
 - [HTML attributes to improve your users' two factor authentication experience (2020)](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete) ([HN](https://news.ycombinator.com/item?id=22022106))
+- [Native HTML Elements with CSS superpowers](https://github.com/equinusocio/native-elements)

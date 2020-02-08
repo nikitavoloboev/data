@@ -17,3 +17,4 @@
 - [CoreDNS](https://github.com/coredns/coredns) - DNS server that chains plugins.
 - [How we optimized our DNS server using go tools (2020)](https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709)
 - [A warm welcome to DNS](https://powerdns.org/hello-dns/) - Attempts to provide a correct introduction to the Domain Name System as of 2018.
+- [Public Zone Database (ZoneDB)](https://github.com/zonedb/zonedb) - Contains a list and associated metadata of public DNS zones.

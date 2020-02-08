@@ -46,3 +46,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Tips for public speaking](https://speaking.io/)
 - [How to quickly create a talk from scratch](https://twitter.com/mxstbr/status/1201186612203466752)
 - [Speaking At Technical Conferences](https://dev.to/emmawedekind/speaking-at-technical-conferences-1kkk)
+- [pretalx](https://github.com/pretalx/pretalx) - Conference planning tool focused on providing the best experience for organisers, speakers, reviewers, and attendees alike.

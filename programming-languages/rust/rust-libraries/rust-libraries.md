@@ -50,6 +50,10 @@
 - [Gate](https://github.com/SergiusIW/gate) - Specialized 2D game library.
 - [ultraviolet](https://github.com/termhn/ultraviolet) - Wide linear algebra crate for games and graphics.
 
+## Test
+
+- [faux](https://github.com/nrxus/faux) - Traitless Mocking Library for Rust.
+
 ## IO
 
 - [Mio](https://github.com/carllerche/mio) - Metal IO library.
