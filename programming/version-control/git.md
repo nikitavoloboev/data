@@ -90,3 +90,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
 - [Set up Keybase.io, GPG & Git to sign commits on GitHub](https://github.com/pstadler/keybase-gpg-github#readme)
 - [Bliss](https://github.com/ajmwagar/bliss) - "batteries included" .gitignore management tool.
+- [go-git](https://github.com/src-d/go-git) - Highly extensible Git implementation in pure Go.
