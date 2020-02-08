@@ -114,3 +114,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Transistor](https://transistor.fm) - Professional podcast hosting and analytics.
 - [Breaker](https://www.breaker.audio/) - Social podcast app.
 - [Podcast Notes](https://podcastnotes.org/)
+- [Podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds.

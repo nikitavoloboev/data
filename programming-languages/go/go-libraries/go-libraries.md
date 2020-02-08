@@ -53,6 +53,7 @@
 - [Fiber](https://github.com/gofiber/fiber) - Expressjs inspired web framework build on Fasthttp.
 - [REST Layer](https://github.com/rs/rest-layer) - API framework heavily inspired by the excellent Python Eve.
 - [Manners](https://github.com/braintree/manners) - Polite Go HTTP server that shuts down gracefully.
+- [httpretty](https://github.com/henvic/httpretty) - Package httpretty prints the HTTP requests you make with Go pretty on your terminal.
 
 ## GraphQL
 
