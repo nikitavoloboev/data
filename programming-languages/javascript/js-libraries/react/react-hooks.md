@@ -29,6 +29,7 @@
 - [Collection of React Hooks](https://nikgraf.github.io/react-hooks/) ([Code](https://github.com/nikgraf/react-hooks))
 - [use-what-changed](https://github.com/simbathesailor/use-what-changed) - Simple hook to debug major Reactjs hooks and custom hooks.
 - [use-immer](https://github.com/immerjs/use-immer) - Use immer to drive state with a React hooks.
+- [relay-hooks](https://github.com/relay-tools/relay-hooks) - Use Relay as React hooks.
 
 ## Links
 

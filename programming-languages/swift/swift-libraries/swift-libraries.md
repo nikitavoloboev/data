@@ -159,6 +159,7 @@
 - [JWTDecode](https://github.com/auth0/JWTDecode.swift) - Library to help you decode JWTs in Swift.
 - [Shout](https://github.com/jakeheis/Shout) - SSH made easy in Swift.
 - [Predicate.swift](https://github.com/ollieatkinson/Predicate.swift) - Small addition to Swift adding predicate matchers for filtering operators using KeyPaths, it just feels natural.
+- [iOS Security Suite](https://github.com/securing/IOSSecuritySuite) - Advanced and easy-to-use platform security & anti-tampering library written in pure Swift.
 
 ## Links
 

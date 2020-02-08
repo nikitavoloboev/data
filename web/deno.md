@@ -10,3 +10,4 @@
 - [DVM](https://github.com/imbsky/dvm) - Fast and simple Deno runtime version manager built with Native Reason.
 - [deno runtime for AWS Lambda](https://github.com/hayd/deno-lambda)
 - [Deno is a New Way to JavaScript - Ryan Dahl & Kitson Kelly (2019)](https://www.youtube.com/watch?v=1gIiZfSbEAE)
+- [now-deno](https://github.com/lucacasonato/now-deno) - ZEIT Now Deno builder - run Deno on Zeit.

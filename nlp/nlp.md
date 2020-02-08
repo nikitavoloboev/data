@@ -73,3 +73,5 @@
 - [BERT](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT.
 - [Multilingual Denoising Pre-training for Neural Machine Translation (2020)](https://arxiv.org/pdf/2001.08210.pdf)
 - [List of NLP tutorials built on PyTorch](https://github.com/lyeoni/nlp-tutorial#readme)
+- [sticker](https://github.com/stickeritis/sticker) - Sequence labeler that uses either recurrent neural networks, transformers, or dilated convolution networks.
+- [sticker-transformers](https://github.com/stickeritis/sticker-transformers) - Pretrained transformer models for sticker.

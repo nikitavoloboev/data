@@ -20,6 +20,7 @@
 - [HTTP](https://github.com/hyperium/http) - Rust HTTP types.
 - [httparse](https://github.com/seanmonstar/httparse) - Push parser for the HTTP 1.x protocol in Rust.
 - [ureq](https://github.com/algesten/ureq) - Minimal request library in rust.
+- [Mendes](https://github.com/djc/mendes) - Rust web toolkit for impatient perfectionists.
 
 ## WASM
 
@@ -244,3 +245,4 @@
 - [Aelve Rust packages search](https://codesearch.aelve.com/rust) - Grep over package repositories.
 - [Overview of Rust error handling libraries (2019)](https://blog.yoshuawuyts.com/error-handling-survey/) ([HN](https://news.ycombinator.com/item?id=21606221))
 - [Quickly generate Dash docsets for third-party Rust crates](https://github.com/cmyr/rust-dash-docset-gen)
+- [Interact with crates.io from the command-line](https://github.com/Byron/crates-io-cli-rs)

@@ -321,6 +321,8 @@
 - [Keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores.
 - [email](https://github.com/jordan-wright/email) - Robust and flexible email library for Go.
 - [retry](https://github.com/avast/retry-go) - Simple golang library for retry mechanism.
+- [go-ps](https://github.com/mitchellh/go-ps) - Find, list, and inspect processes from Go.
+- [termbox-go](https://github.com/nsf/termbox-go) - Pure Go termbox implementation.
 
 ## Links
 
