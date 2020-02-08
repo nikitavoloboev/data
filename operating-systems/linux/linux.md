@@ -80,3 +80,5 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [Using cgroups to limit I/O (2017)](https://andrestc.com/post/cgroups-io/)
 - [Linux Programming Interface book (2010)](http://man7.org/tlpi/)
 - [Linux and UNIX programming training and consulting by Michael Kerrisk](http://man7.org/training/index.html)
+- [Hotspot](https://github.com/KDAB/hotspot) - Linux perf GUI for performance analysis.
+- [Taffybar](https://github.com/taffybar/taffybar) - Gtk based status bar for tiling window managers such as XMonad.

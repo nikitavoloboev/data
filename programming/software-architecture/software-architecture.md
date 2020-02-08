@@ -31,3 +31,4 @@
 - [Introduction to Computer Systems course (2019)](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f19/www/)
 - [The Cloud (2019)](https://txt.black/~jack/cloud.txt) ([HN](https://news.ycombinator.com/item?id=20639359))
 - [Ask HN: Which are the best resources to learn software architecture? (2020)](https://news.ycombinator.com/item?id=22202769)
+- [Cosmic Python](https://www.cosmicpython.com/) - Simple patterns for building complex applications. ([Code](https://github.com/cosmicpython/book#readme))
