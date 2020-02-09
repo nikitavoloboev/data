@@ -25,3 +25,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Broken beyond bias: high-stakes tests are failing students and society (2020)](https://reading.supply/@nick/broken-beyond-bias-high-stakes-tests-are-failing-students-and-society-Q99wvf) ([Tweet](https://twitter.com/nsbarr/status/1214634480935174145))
 - [The Ph.D. Octopus](https://www.uky.edu/~eushe2/Pajares/octopus.html)
 - [Dev Degree](https://devdegree.ca/) - 4-year, work-integrated learning program that combines hands-on developer experience at Shopify with an accredited Computer Science degree from either Carleton University or York University.
+- [Locally-Adaptive Nonparametric Online Learning (2020)](https://arxiv.org/abs/2002.01882)
