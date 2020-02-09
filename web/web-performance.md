@@ -36,3 +36,4 @@
 - [Awesome performance testing collection](https://github.com/andriisoldatenko/awesome-performance-testing#readme)
 - [go-ycsb](https://github.com/pingcap/go-ycsb) - Go port of Yahoo! Cloud Serving Benchmark.
 - [List of functions which you can use to replace moment.js + ESLint Plugin](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
+- [Meaningful Availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)

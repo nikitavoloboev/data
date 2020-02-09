@@ -125,3 +125,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Brandon Sanderson lecture on story telling](https://www.youtube.com/watch?v=N4ZDBOc2tX8)
 - [CFP Advice](https://www.swyx.io/writing/cfp-advice/) ([Tweet](https://twitter.com/swyx/status/1218650128585719813))
 - [Set of standard document templates](https://github.com/kbariotis/templates)
+- [Design: The Key to Writing (and Advising) a One-Draft Thesis](https://www.cs.tufts.edu/~nr/cs257/archive/john-carlis/one-draft.pdf)
