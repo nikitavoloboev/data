@@ -73,3 +73,4 @@
 - [Swift for Good](https://www.swiftforgood.com/) - 20 well-known authors and speakers are coming together to write an all-new book for Swift developers.
 - [swift-doc](https://github.com/SwiftDocOrg/swift-doc) - Generates documentation for Swift projects.
 - [Swift Cookbook](https://github.com/melling/SwiftCookBook)
+- [Point Free](https://www.pointfree.co/) - Video series exploring functional programming and Swift.

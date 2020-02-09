@@ -81,3 +81,4 @@
 - [Inline C](https://github.com/georgek42/inlinec) - Effortlessly write inline C functions in Python.
 - [rst2pdf](https://github.com/rst2pdf/rst2pdf) - Use a text editor. Make a PDF.
 - [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
+- [asyncpg](https://github.com/MagicStack/asyncpg) - Fast PostgreSQL Database Client Library for Python/asyncio.

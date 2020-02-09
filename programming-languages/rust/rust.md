@@ -6,6 +6,7 @@
 
 ## Links
 
+- [Rust language book](https://doc.rust-lang.org/book/) ([Code](https://github.com/rust-lang/book))
 - [Idiomatic rust](https://github.com/mre/idiomatic-rust)
 - [Rust patterns](https://github.com/rust-unofficial/patterns)
 - [Reflections on Rust, and the Sand Castle Metaphor](https://brandur.org/fragments/rust-reflections)

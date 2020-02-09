@@ -23,6 +23,8 @@
 - [PresenterKit](https://github.com/jessesquires/PresenterKit) - Swifty view controller presentation for iOS.
 - [OnboardingKit](https://github.com/Athlee/OnboardingKit) - Simple and interactive framework for making iOS onboarding experience easy and fun.
 - [Stagehand](https://github.com/cashapp/stagehand) - Modern, type-safe API for building animations on iOS.
+- [iOS Security Suite](https://github.com/securing/IOSSecuritySuite) - Advanced and easy-to-use platform security & anti-tampering library written in pure Swift.
+- [OnboardKit](https://github.com/NikolaKirev/OnboardKit) - Customizable user onboarding for your UIKit app in Swift.
 
 ## Web
 
@@ -159,7 +161,6 @@
 - [JWTDecode](https://github.com/auth0/JWTDecode.swift) - Library to help you decode JWTs in Swift.
 - [Shout](https://github.com/jakeheis/Shout) - SSH made easy in Swift.
 - [Predicate.swift](https://github.com/ollieatkinson/Predicate.swift) - Small addition to Swift adding predicate matchers for filtering operators using KeyPaths, it just feels natural.
-- [iOS Security Suite](https://github.com/securing/IOSSecuritySuite) - Advanced and easy-to-use platform security & anti-tampering library written in pure Swift.
 
 ## Links
 

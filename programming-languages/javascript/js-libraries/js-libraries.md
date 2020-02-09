@@ -158,3 +158,4 @@
 - [alga-ts](https://github.com/YBogomolov/alga-ts) - Algebraic graphs implementation in TypeScript.
 - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag. ([Awesome](https://github.com/chartjs/awesome#readme))
 - [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes.
+- [clean-set](https://github.com/fwilkerson/clean-set) - Deep assignment alternative to the object spread operator and Object.assign.
