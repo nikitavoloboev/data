@@ -75,3 +75,4 @@
 - [List of NLP tutorials built on PyTorch](https://github.com/lyeoni/nlp-tutorial#readme)
 - [sticker](https://github.com/stickeritis/sticker) - Sequence labeler that uses either recurrent neural networks, transformers, or dilated convolution networks.
 - [sticker-transformers](https://github.com/stickeritis/sticker-transformers) - Pretrained transformer models for sticker.
+- [pke](https://github.com/boudinfl/pke) - Python Keyphrase Extraction module.
