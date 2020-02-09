@@ -74,3 +74,4 @@
 - [Python built-ins worth learning (2019)](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
 - [Python Coding Guidelines for Sanity](https://github.com/rednafi/py-sanity#readme)
 - [Human's Ultimate Guide to setup.py](https://github.com/navdeep-G/setup.py)
+- [Python Guide by NSA](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf)

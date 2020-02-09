@@ -30,3 +30,4 @@ I try to give my full attention to any ideas I am working on.
 - [Muse: designing a studio for ideas (2019)](https://www.inkandswitch.com/muse-studio-for-ideas.html)
 - [Ideas for things to program](https://github.com/joereynolds/what-to-code#readme)
 - [How do you stay inline with your vision on long term projects? (2020)](https://lobste.rs/s/pg1ne9/how_do_you_stay_inline_with_your_vision_on)
+- [Open Source Ideas](https://github.com/open-source-ideas/open-source-ideas#readme)

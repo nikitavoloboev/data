@@ -10,3 +10,4 @@
 - [Stressgrid](https://gitlab.com/stressgrid/stressgrid) - Open-source cloud-native tool for load testing at the scale of millions of simulated devices.
 - [Storycap](https://github.com/reg-viz/storycap) - Storybook Addon, Save the screenshot image of your stories via puppeteer.
 - [React Screenshot Test](https://github.com/fwouts/react-screenshot-test) - Dead simple library to screenshot test React components.
+- [Baretest](https://github.com/volument/baretest) - Extremely fast and simple JavaScript test runner.

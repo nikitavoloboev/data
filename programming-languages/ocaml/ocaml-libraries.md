@@ -1,5 +1,9 @@
 # [OCaml](https://ocaml.org) libraries
 
+## Web
+
+- [OCaml On Ice](https://github.com/roddyyaga/ocoi) - Web framework for OCaml in the style of Ruby on Rails.
+
 ## Science
 
 - [Owl](https://github.com/owlbarn/owl) - OCaml library for scientific and engineering computing. ([HN](https://news.ycombinator.com/item?id=20449595))

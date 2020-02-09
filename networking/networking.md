@@ -73,3 +73,5 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [IPinfo](https://ipinfo.io/) - Trusted Source for IP Address Data.
 - [Host.io](https://host.io/) - Comprehensive Domain Data API for Developers.
 - [Remembering the LAN (2020)](https://crawshaw.io/blog/remembering-the-lan)
+- [smoltcp](https://github.com/whitequark/smoltcp) - Standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems.
+- [sylkie](https://github.com/dlrobertson/sylkie) - IPv6 address spoofing with the Neighbor Discovery Protocol.

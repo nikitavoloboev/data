@@ -51,3 +51,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Quine](https://rosettacode.org/wiki/Quine) - Self-referential program that can, without any external access, output its own source.
 - [comby](https://github.com/comby-tools/comby/) - Tool for structural code search and replace that supports ~every language. ([Web](https://comby.dev/)) ([Lobsters](https://lobste.rs/s/lvv8lj/comby_tool_for_changing_code))
 - [Lobsters: What would a programming language designed from the ground-up for a multi-core world look like? (2020)](https://lobste.rs/s/mrl19l/what_would_programming_language)
+- [Practical Foundations for Programming Languages](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)

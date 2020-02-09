@@ -33,3 +33,4 @@
 - [awesome-mpc](https://github.com/rdragos/awesome-mpc#readme) - Curated list of multi party computation resources and links.
 - [Basic Intro to Lattices in Cryptography (2020)](https://qvault.io/2020/01/23/very-basic-intro-to-lattices-in-cryptography/)
 - [SwiftCrypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms. ([Article](https://swift.org/blog/crypto/))
+- [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) - Cryptographic Primitive Code Generation by Fiat.
