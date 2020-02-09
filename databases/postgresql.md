@@ -60,3 +60,5 @@
 - [Strong migrations](https://github.com/ankane/strong_migrations#readme) - Catch unsafe migrations in development.
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/12/index.html)
 - [HN: The state of full text search in PostgreSQL 12 (2020)](https://news.ycombinator.com/item?id=22223629)
+- [pgmetrics](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server. ([Web](https://pgmetrics.io/))
+- [pgDash](https://pgdash.io/) - Comprehensive diagnostic and monitoring solution designed to help you ensure the ongoing health and performance of your PostgreSQL deployment.

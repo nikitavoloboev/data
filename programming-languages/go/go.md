@@ -198,3 +198,4 @@ Go promotes composition over inheritance.
 - [Running Go CLI programs in the browser (2020)](https://www.arp242.net/wasm-cli.html) ([Lobsters](https://lobste.rs/s/5r1h5r/running_go_cli_programs_browser))
 - [GoDays Go talks (2020)](https://speakerdeck.com/godays)
 - [Golang basics - writing unit tests (2017)](https://blog.alexellis.io/golang-writing-unit-tests/)
+- [Buffered channels in go: tips & tricks (2020)](https://www.rapidloop.com/blog/golang-channels-tips-tricks.html)

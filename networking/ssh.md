@@ -15,3 +15,4 @@
 - [Top 20 OpenSSH Server Best Security Practices (2020)](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
 - [Pwning your (web)server and network the easy way - or why exposing ~/.ssh/ is a bad idea](https://0day.work/pwning-your-web-server-and-network-the-easy-way-or-why-exposing-ssh-is-a-bad-idea/) ([HN](https://news.ycombinator.com/item?id=22068070))
 - [jass](https://github.com/jschauma/jass) - Tool to facilitate sharing of secrets using SSH keys.
+- [rtop-bot](https://github.com/rapidloop/rtop-bot) - Bot for Remote Server Monitoring over SSH.
