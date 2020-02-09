@@ -165,6 +165,7 @@
   - [Memory management](programming/memory-management/memory-management.md)
   - [Hashing](programming/hashing.md)
   - [Regex](programming/regex/regex.md)
+  - [Logging](programming/logging.md)
   - [Interactive computing](programming/interactive-computing/interactive-computing.md)
     - [Jupyter Notebooks](programming/interactive-computing/jupyter-notebooks.md)
   - [Visual programming](programming/visual-programming.md)
