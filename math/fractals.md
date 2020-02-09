@@ -15,3 +15,4 @@
 - [Recursion and Fractals](https://en.scratch-wiki.info/wiki/Recursion_and_Fractals)
 - [Fractals in Python](https://github.com/danilobellini/fractal)
 - [Chaos](https://github.com/jonnyhyman/Chaos) - Visualizations connecting chaos theory, fractals, and the logistic map.
+- [Single div Sierpinski triangle (2020)](https://yuanchuan.dev/single-div-sierpinski-triangle) ([HN](https://news.ycombinator.com/item?id=22279532))

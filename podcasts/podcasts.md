@@ -115,3 +115,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Breaker](https://www.breaker.audio/) - Social podcast app.
 - [Podcast Notes](https://podcastnotes.org/)
 - [Podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds.
+- [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine.

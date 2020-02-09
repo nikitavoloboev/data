@@ -21,7 +21,7 @@ I try to give my full attention to any ideas I am working on.
 - [App Ideas Collection](https://github.com/florinpop17/app-ideas#readme)
 - [Ask HN: Are you put off building something because it already exists? (2019)](https://news.ycombinator.com/item?id=19774997)
 - [Finding My Next Bootstrapped Business Idea (2019)](https://www.derrickreimer.com/essays/2019/05/28/finding-my-next-bootstrapped-business-idea.html) - My process for narrowing down what to build next.
-- [One Hundred Ideas for Computing](https://github.com/samsquire/ideas#readme)
+- [One Hundred Ideas for Computing](https://samsquire.github.io/ideas/) ([Code](https://github.com/samsquire/ideas)) ([HN](https://news.ycombinator.com/item?id=22265541))
 - [Ask HN: Haven't worked for a while, best guide/advice to start a hobby project? (2019)](https://news.ycombinator.com/item?id=21861412)
 - [An App Launch Guide](https://github.com/adamwulf/app-launch-guide#readme)
 - [John Carmack on Idea Generation (2016)](https://amasad.me/carmack)

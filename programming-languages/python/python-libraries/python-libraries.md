@@ -80,3 +80,4 @@
 - [pynamical](https://github.com/gboeing/pynamical) - Python package for modeling and visualizing discrete nonlinear dynamical systems, chaos, and fractals.
 - [Inline C](https://github.com/georgek42/inlinec) - Effortlessly write inline C functions in Python.
 - [rst2pdf](https://github.com/rst2pdf/rst2pdf) - Use a text editor. Make a PDF.
+- [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
