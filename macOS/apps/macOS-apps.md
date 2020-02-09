@@ -26,6 +26,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Plash](https://github.com/sindresorhus/Plash) - Make any website your Mac desktop wallpaper.
 - [Swindler](https://github.com/tmandry/Swindler) - Swift window management library for macOS.
 - [Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external display.
+- [Tinkle](https://github.com/pqrs-org/Tinkle/) - Appends a visual effect for the focused window changes.
 
 ## Other interesting apps
 

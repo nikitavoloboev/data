@@ -91,3 +91,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Set up Keybase.io, GPG & Git to sign commits on GitHub](https://github.com/pstadler/keybase-gpg-github#readme)
 - [Bliss](https://github.com/ajmwagar/bliss) - "batteries included" .gitignore management tool.
 - [go-git](https://github.com/src-d/go-git) - Highly extensible Git implementation in pure Go.
+- [Vaibhav Sagar - I Haskell a Git (2018)](https://www.youtube.com/watch?v=nVvvY5VRs8o)
