@@ -34,3 +34,4 @@
 - [Pathfinder](https://github.com/servo/pathfinder) - Fast, practical, GPU-based rasterizer for fonts and vector graphics using OpenGL 3.0+, OpenGL ES 3.0+, or Metal.
 - [Braid](https://capra.cs.cornell.edu/braid/) - Experimental heterogeneous programming language with an application to real-time graphics. ([Code](https://github.com/cucapra/braid))
 - [SwiftShader](https://github.com/google/swiftshader) - High-performance CPU-based implementation of the Vulkan, OpenGL ES, and Direct3D 9 graphics APIs.
+- [Thoughts on software rendering (2020)](https://twitter.com/lorenschmidt/status/1226207415869243393)
