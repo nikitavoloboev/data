@@ -25,3 +25,4 @@
 - [Investors Club](https://investors.club/) - Paid, members-only marketplace for serious buyers interested in proven businesses that aren't listed anywhere else.
 - [Tesla: the ’20s (2020)](https://jwmza.com/thoughts/tesla-the-20s/)
 - [Ask HN: How do I find investors? (2020)](https://news.ycombinator.com/item?id=22284025)
+- [A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom (2015)](https://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom/)

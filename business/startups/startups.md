@@ -121,6 +121,9 @@
 - [Startup Stash](https://startupstash.com/) - Curated directory of tools and resources to build your startup.
 - [Become an Indie Hacker](https://www.indiehackers.com/start)
 - [My Second Year as a Solo Developer (2020)](https://mtlynch.io/solo-developer-year-2/) ([HN](https://news.ycombinator.com/item?id=22201337))
+- [Company Memos list](https://sriramk.com/memos)
+- [The Next Feature Fallacy: The fallacy that the next new feature will suddenly make people use your product](https://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
+- [Notes on Paul Graham essays](https://docs.google.com/document/d/1QBW9b1j_j03ZCIrW5ZdBZEc5a1NrONOdKgEn9HnQxEU/edit)
 
 ## Images
 

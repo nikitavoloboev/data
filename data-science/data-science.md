@@ -11,7 +11,7 @@
 - [Some advice for young and aspiring Data Scientists](https://www.reddit.com/r/datascience/comments/6q1y7b/some_advice_for_young_and_aspiring_data_scientists/)
 - [A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
 - [The Rise of the Data Engineer](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603)
-- [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) - Logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
+- [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) - Logical, reasonably standardized, but flexible project structure for doing and sharing data science work. ([Code](https://github.com/drivendata/cookiecutter-data-science))
 - [Best way to organize research code? (2018)](https://www.reddit.com/r/MachineLearning/comments/8v1g6c/d_best_way_to_organise_research_code/)
 - [Data Science Cheat Sheet](https://github.com/ml874/Data-Science-Cheatsheet#readme)
 - [Our world in data](https://ourworldindata.org/science-and-research)

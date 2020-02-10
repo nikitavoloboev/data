@@ -15,3 +15,5 @@
 - [Proof Assistants At the Hardware-Software Interface (2020)](https://www.youtube.com/watch?v=GXXOyXeyKeY)
 - [The business case for formal methods (2020)](https://www.hillelwayne.com/post/business-case-formal-methods/) ([Lobsters](https://lobste.rs/s/ywgjhd/business_case_for_formal_methods))
 - [Logipedia](https://github.com/Deducteam/Logipedia) - Project that aims to share formal proofs between several systems.
+- [Alloy](http://alloytools.org/about.html) - Language for describing structures and a tool for exploring them.
+- [Software Abstractions book](http://softwareabstractions.org/)

@@ -14,3 +14,4 @@
 - [Knots and Quantum Theory (2011)](https://www.ias.edu/ideas/2011/witten-knots-quantum-theory)
 - [M-Labs](https://m-labs.hk/) - Open tools for open physics.
 - [Dirac lectures on quantum physics](https://www.youtube.com/channel/UCJNLN1Zl4XKBAscTdhSLM1Q/videos)
+- [Quick Guide to Quantum Physics: 24 Phenomenons Explained (2016)](https://medium.com/@gabrielp/top-24-quantum-physics-effects-bb49afdee552)

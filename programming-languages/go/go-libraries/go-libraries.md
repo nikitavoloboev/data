@@ -325,6 +325,7 @@
 - [termbox-go](https://github.com/nsf/termbox-go) - Pure Go termbox implementation.
 - [skv](https://github.com/rapidloop/skv) - Simple, persistent key-value storage for Go. ([Article](https://www.opsdash.com/blog/persistent-key-value-store-golang.html))
 - [go.rice](https://github.com/GeertJohan/go.rice) - Go package that makes working with resources such as html,js,css,images,templates, etc very easy.
+- [slug](https://github.com/gosimple/slug) - URL-friendly slugify with multiple languages support.
 
 ## Links
 

@@ -229,6 +229,7 @@
 - [ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust.
 - [RMP](https://github.com/3Hren/msgpack-rust) - Pure Rust MessagePack implementation.
 - [fasteval](https://github.com/likebike/fasteval) - Fast and safe evaluation of algebraic expressions.
+- [wasmparser](https://github.com/bytecodealliance/wasmparser) - Simple event-driven library for parsing WebAssembly binary files.
 
 ## Cargo Plugins
 

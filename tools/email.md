@@ -28,3 +28,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [ConvertKit](https://convertkit.com/) - Email marketing software for creators.
 - [Burner Mail](https://burnermail.io/) - Hide your personal email address, control who can send you emails, and generate new burners with one click.
 - [heimdall](https://github.com/fterh/heimdall) - Self-hosted personal email guardian with one-step deployment.
+- [How to write a cold email (2020)](https://sriramk.com/coldemail)

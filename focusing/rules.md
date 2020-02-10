@@ -7,7 +7,7 @@
 - One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. Be calm.
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document.
 - [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials.
-- Cut out noise (no analytics, likes..). No time wasted. Maximize impact & growth.
+- Cut out noise (no analytics, likes..). No time wasted. Maximize impact & growth. Filter consumed information to optimize for signal.
 - Learn from mistakes. Reflect. [Journal](../looking-back/looking-back.md). Move forward. Move fast.
 - Embrace change. Be proactive. Be bold & fearless. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
@@ -92,7 +92,6 @@
 
 ## News
 
-- Filter consumed information. Reduce noise. Only follow high signal people & content I am interested in.
 - Separate information into two levels of quality if necessary (i.e. Twitter Follows / Other).
 - Subscribe to Atom over RSS feed if possible.
 

@@ -42,3 +42,4 @@
 - [React Native Paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS).
 - [Start React Native](https://start-react-native.dev/) - Learn to leverage the power of declarative gestures and animations to build delightful user experiences that run at 60 fps even on low-grade Android devices.
 - [Projects from the “Can it be done in React Native?” YouTube series](https://github.com/wcandillon/can-it-be-done-in-react-native)
+- [Awesome React Native](https://www.awesome-react-native.com/) ([Code](https://github.com/jondot/awesome-react-native))

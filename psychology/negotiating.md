@@ -16,3 +16,4 @@
 - [What are rules of thumb for salary negotiation? (2019)](https://lobste.rs/s/rwy6lq/what_are_rules_thumb_for_salary)
 - [HOWTO negotiate your salary and benefits](https://valerieaurora.org/howto_salary/)
 - [Job negotiation for programmers: the basic principles (2019)](https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/)
+- [How to negotiate (2020)](https://sriramk.com/negotiate)

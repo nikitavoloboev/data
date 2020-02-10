@@ -39,3 +39,6 @@
 - [Normalization by evaluation for Martin-Löf Type Theory with dependent records](https://github.com/brendanzab/rust-nbe-for-mltt)
 - [Introduction to Type Theory (2019)](https://jadon.io/blog/type-theory/)
 - [No, dynamic type systems are not inherently more open (2020)](https://lexi-lambda.github.io/blog/2020/01/19/no-dynamic-type-systems-are-not-inherently-more-open/) ([HN](https://news.ycombinator.com/item?id=22090700)) ([Lobsters](https://lobste.rs/s/qqlkk0/no_dynamic_type_systems_are_not))
+- [Hindley-Milner type system/Algorithm W study (2018)](http://boxbase.org/entries/2018/mar/5/hindley-milner/)
+- [HN: So you want to write a type checker](https://news.ycombinator.com/item?id=15583515)
+- [What are the common ways of performing typechecking? (2019)](https://www.reddit.com/r/ProgrammingLanguages/comments/87c5dw/what_are_the_common_ways_of_performing/)

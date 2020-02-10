@@ -59,6 +59,7 @@
 - [Selective Lambda Lifting (2019)](https://arxiv.org/abs/1910.11717)
 - [Recursion Scheme Talks](https://github.com/sellout/recursion-scheme-talk)
 - [Domain Modeling Made Functional - Scott Wlaschin (2017)](https://www.youtube.com/watch?v=Up7LcbGZFuo)
+- [The Implementation of Functional Programming Languages book (1987)](https://www.microsoft.com/en-us/research/uploads/prod/1987/01/slpj-book-1987-r90.pdf)
 
 ## Images
 

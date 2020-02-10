@@ -117,6 +117,7 @@ Here are few more things I liked, design wise.
 - [Anna Doubkova](http://annalogical.com/)
 - [Tom Beddard](http://sub.blue/about)
 - [Jacob Bandes-Storch](https://bandes-stor.ch/)
+- [Mckay Wrigley](http://mckaywrigley.com/)
 - [Alexandre Chopin](https://alexchopin.com/)
 - [Scott Tolinski](http://scotttolinski.com/)
 - [Tobias Ahlin](http://tobiasahlin.com/)
