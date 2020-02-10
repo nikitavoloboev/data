@@ -22,3 +22,4 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [RadVPN](https://github.com/mehrdadrad/radvpn) - Decentralized VPN.
 - [Building a simple VPN with WireGuard with a Raspberry Pi as Server (2020)](https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server/) ([HN](https://news.ycombinator.com/item?id=22183506))
 - [Tailscale](https://tailscale.com/) - Mesh VPN that makes it easy to connect your devices, wherever they are. No more fighting configuration or firewall ports.
+- [N2N](https://github.com/ntop/n2n) - Light VPN software which make it easy to create virtual networks bypassing intermediate firewalls.

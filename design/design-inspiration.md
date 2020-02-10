@@ -27,6 +27,7 @@ Here are few more things I liked, design wise.
 - [defn.io](https://defn.io/)
 - [Naval](https://nav.al/)
 - [Joe Groff](http://duriansoftware.com/joe/)
+- [Marius Schulz](https://mariusschulz.com/)
 
 ## Products
 

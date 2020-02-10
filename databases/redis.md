@@ -12,3 +12,4 @@
 - [twemproxy](https://github.com/twitter/twemproxy) - Fast, light-weight proxy for memcached and redis.
 - [RediSQL](https://github.com/RedBeardLab/rediSQL) - Fast, in-memory, SQL engine with batteries included.
 - [Medis](https://github.com/luin/medis) - Beautiful, easy-to-use Mac database management application for Redis.
+- [How to write a Redis Client in Python, from Scratch (2020)](https://www.youtube.com/watch?v=C5KkQUKhc_4)

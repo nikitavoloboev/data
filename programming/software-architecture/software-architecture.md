@@ -33,3 +33,4 @@
 - [Ask HN: Which are the best resources to learn software architecture? (2020)](https://news.ycombinator.com/item?id=22202769)
 - [Cosmic Python](https://www.cosmicpython.com/) - Simple patterns for building complex applications. ([Code](https://github.com/cosmicpython/book#readme))
 - [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+- [Introduction to Computer Systems course (2019)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f19/www/schedule.html)
