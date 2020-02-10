@@ -43,3 +43,5 @@
 - [Start React Native](https://start-react-native.dev/) - Learn to leverage the power of declarative gestures and animations to build delightful user experiences that run at 60 fps even on low-grade Android devices.
 - [Projects from the “Can it be done in React Native?” YouTube series](https://github.com/wcandillon/can-it-be-done-in-react-native)
 - [Awesome React Native](https://www.awesome-react-native.com/) ([Code](https://github.com/jondot/awesome-react-native))
+- [Deep Linking in React Native (2020)](https://arsfutura.co/magazine/deep-linking-in-react-native/)
+- [Reanimated Bottom Sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet) - Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler.

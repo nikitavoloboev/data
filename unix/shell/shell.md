@@ -43,3 +43,4 @@ All active variables can be seen by running `env`.
 - [In search for a better job scheduler](https://beepb00p.xyz/scheduler.html) - What if cron and systemd had a baby? Wouldn't it be beautiful? ([HN](https://news.ycombinator.com/item?id=22087195))
 - [Writing Safe Shell Scripts (2019)](https://sipb.mit.edu/doc/safe-shell/) ([HN](https://news.ycombinator.com/item?id=22212338))
 - [Curl to shell isn’t so bad (2019)](https://www.arp242.net/curl-to-sh.html)
+- [Partial Tour Through the UNIX Shell](http://www.collyer.net/who/geoff/sh.tour.pdf)

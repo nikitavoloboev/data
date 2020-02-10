@@ -82,3 +82,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [Linux and UNIX programming training and consulting by Michael Kerrisk](http://man7.org/training/index.html)
 - [Hotspot](https://github.com/KDAB/hotspot) - Linux perf GUI for performance analysis.
 - [Taffybar](https://github.com/taffybar/taffybar) - Gtk based status bar for tiling window managers such as XMonad.
+- [HN: Linux 5.6 is the most exciting kernel in years (2020)](https://news.ycombinator.com/item?id=22284232)

@@ -85,3 +85,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [UBKAccessibilityKit](https://github.com/NAB/UBKAccessibilityKit) - iOS framework to help with accessibility development and testing.
 - [native-run](https://github.com/ionic-team/native-run) - Cross-platform command-line utility for running native binaries on devices and simulators/emulators.
 - [Makeovr](http://www.makeovr.io/) - Cut "invisible icons" right out of your background, use them to push your other icons around, and do amazing things with your homescreen.
+- [Guilherme Rambo - Fluid animations and interactions on iOS apps (2020)](https://www.youtube.com/watch?v=89QkikrQvQE)
