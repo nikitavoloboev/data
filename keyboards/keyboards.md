@@ -18,6 +18,7 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Corne keyboard](https://github.com/foostan/crkbd) - Split keyboard with 3x6 column staggered keys and 3 thumb keys. ([Reddit](https://www.reddit.com/r/MechanicalKeyboards/comments/a4hp9e/corne_chocolatehotswappable_crkbd_for_chocolate/))
 - [Redox](https://github.com/mattdibi/redox-keyboard) - Ergonomic split mechanical keyboard.
 - [Helix](https://github.com/MakotoKurauchi/helix) - Compact split ortholinear keyboard.
+- [Lily58](https://github.com/kata0510/Lily58) - 6×4+4keys column-staggered split keyboard.
 
 ## Interesting keycaps
 

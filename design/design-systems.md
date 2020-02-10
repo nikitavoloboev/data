@@ -3,7 +3,7 @@
 ## Interesting design systems
 
 - [Styled system](https://styled-system.com/) - Style props for rapid UI development.
-- [Base Web](https://baseweb.design) - React Component library implementing the Base design language. ([Code](https://github.com/uber/baseweb))
+- [Base Web](https://baseweb.design) - React Component library implementing the Base design language. ([Code](https://github.com/uber/baseweb)) ([Figma](https://www.figma.com/c/file/805195278314519508))
 - [Grommet](https://grommet.io) - React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package.
 - [smooth UI](https://github.com/smooth-code/smooth-ui) - Modern React UI library.
 - [Orbit](https://orbit.kiwi/) - Open source design system for your next travel project.

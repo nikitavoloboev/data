@@ -146,3 +146,4 @@
 - [Solo](https://www.solo.io/) - Next generation API gateway to connect, secure and control traffic to any application on any infrastructure.
 - [Gloo](https://github.com/solo-io/gloo) - Envoy-Powered API Gateway.
 - [Keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates.
+- [GLBC](https://github.com/kubernetes/ingress-gce) - Ingress controller for Google Cloud.

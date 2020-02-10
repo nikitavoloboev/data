@@ -11,7 +11,8 @@
 - [arxiv-graphql](https://github.com/prabhuomkar/arxiv-graphql) - GraphQL API for arXiv: e-print service by Cornell University.
 - [Sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API.
 - [Cloudflare](https://github.com/cloudflare/cloudflare-rs) - Rust library for the Cloudflare v4 API.
-- [Notion](https://github.com/cstrnt/notion-api) - Unofficial Notion.so Wrapper.
+- [Notion TS](https://github.com/cstrnt/notion-api) - Unofficial Notion.so Wrapper.
+- [Notion Python](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
 - [Google Cloud](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python.
 - [Reddit](https://github.com/feross/reddit) - Simple Reddit API client in JS.
 - [Slack API in Go](https://github.com/nlopes/slack)

@@ -24,3 +24,4 @@
 - [How to start angel investing (2020)](https://medium.com/@juliadewahl/how-to-start-angel-investing-8f2eb779e96f)
 - [Investors Club](https://investors.club/) - Paid, members-only marketplace for serious buyers interested in proven businesses that aren't listed anywhere else.
 - [Tesla: the ’20s (2020)](https://jwmza.com/thoughts/tesla-the-20s/)
+- [Ask HN: How do I find investors? (2020)](https://news.ycombinator.com/item?id=22284025)

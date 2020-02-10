@@ -27,7 +27,6 @@
 - [Ordinary Puzzles](https://github.com/mmazzarolo/ordinary-puzzles-app) - Mobile puzzle game built with React-Native.
 - [React Native Tab View](https://github.com/react-native-community/react-native-tab-view) - Cross-platform Tab View component for React Native.
 - [React Native — Monorepos & Code Sharing (2020)](https://engineering.brigad.co/react-native-monorepos-code-sharing-f6c08172b417)
-- [Start React Native](https://start-react-native.dev/) - Learn to leverage the power of declarative gestures and animations to build delightful user experiences that run at 60 fps even on low-grade Android devices.
 - [Awesome React Native: Native Modules](https://github.com/prscX/awesome-react-native-native-modules#readme)
 - [React Native Now](https://reactnativenow.com/) - Bi-weekly React Native newsletter.
 - [Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat) - Most complete chat UI for React Native & Web.
@@ -40,3 +39,6 @@
 - [Alexey Kureev - React Native CodeGen (2019)](https://www.youtube.com/watch?v=UnplXjhsrJk)
 - [Expo](https://github.com/expo/expo) - Open-source platform for making universal native apps that run on Android, iOS, and the web.
 - [Expo CLI](https://github.com/expo/expo-cli) - Tools for making Expo apps.
+- [React Native Paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS).
+- [Start React Native](https://start-react-native.dev/) - Learn to leverage the power of declarative gestures and animations to build delightful user experiences that run at 60 fps even on low-grade Android devices.
+- [Projects from the “Can it be done in React Native?” YouTube series](https://github.com/wcandillon/can-it-be-done-in-react-native)

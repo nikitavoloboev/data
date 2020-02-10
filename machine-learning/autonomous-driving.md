@@ -7,3 +7,4 @@
 - [Apollo](https://github.com/ApolloAuto/apollo) - Open autonomous driving platform.
 - [OpenPilot](https://github.com/commaai/openpilot) - Open source driving agent.
 - [CARLA Simulator](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
+- [Deep Reinforcement Learning for Autonomous Driving: A Survey (2020)](https://arxiv.org/abs/2002.00444)
