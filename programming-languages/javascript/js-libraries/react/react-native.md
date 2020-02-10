@@ -45,3 +45,5 @@
 - [Awesome React Native](https://www.awesome-react-native.com/) ([Code](https://github.com/jondot/awesome-react-native))
 - [Deep Linking in React Native (2020)](https://arsfutura.co/magazine/deep-linking-in-react-native/)
 - [Reanimated Bottom Sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet) - Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler.
+- [React Native JSI Example (2020)](https://gist.github.com/axemclion/e7faeb4ee9d89832040e96d6837b269d)
+- [What are the disadvantages of the Expo? (2020)](https://www.reddit.com/r/reactnative/comments/f0a8zh/what_are_the_disadvantages_of_the_expo/)
