@@ -221,3 +221,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Lobsters: What software do you use daily? (2019)](https://lobste.rs/s/j7tc67/what_software_do_you_use_daily)
 - [Product Hunt Golden Kitty Awards 2019](https://www.producthunt.com/golden-kitty-awards-2019)
 - [No Code List](https://nocodelist.co/)
+- [All The Apps That I Pay For (2020)](https://daily.patwalls.co/apps-services-that-i-pay-for)
