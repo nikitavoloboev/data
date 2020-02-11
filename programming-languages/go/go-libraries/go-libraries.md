@@ -326,6 +326,8 @@
 - [skv](https://github.com/rapidloop/skv) - Simple, persistent key-value storage for Go. ([Article](https://www.opsdash.com/blog/persistent-key-value-store-golang.html))
 - [go.rice](https://github.com/GeertJohan/go.rice) - Go package that makes working with resources such as html,js,css,images,templates, etc very easy.
 - [slug](https://github.com/gosimple/slug) - URL-friendly slugify with multiple languages support.
+- [CurlyQ](https://github.com/mcmathja/curlyq) - Provides a simple, easy-to-use interface for performing background processing in Go.
+- [Olric](https://github.com/buraksezer/olric) - Distributed, eventually consistent, in-memory key/value data store and cache. ([HN](https://news.ycombinator.com/item?id=22297507))
 
 ## Links
 

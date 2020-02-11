@@ -22,3 +22,4 @@
 - [FAB Specification](https://fab.dev/) - Compile target for frontend applications. ([Code](https://github.com/fab-spec/fab))
 - [What should i learn as a front-end web dev in 2020?](https://www.reddit.com/r/webdev/comments/ed5aoj/what_should_i_learn_as_a_frontend_web_dev_in_2020/)
 - [dotcom-rendering](https://github.com/guardian/dotcom-rendering) - Frontend rendering framework for theguardian.com. It uses React, with Emotion for styling.
+- [Front-End Conferences](https://github.com/frontendfront/front-end-conferences#readme) - List of upcoming front-end related conferences.

@@ -86,3 +86,4 @@
 - [Nix-bisect](https://github.com/timokau/nix-bisect) - Bisect Nix Builds.
 - [Thoughts on Nix (2020)](https://christine.website/blog/thoughts-on-nix-2020-01-28) ([Lobsters](https://lobste.rs/s/tp6o0q/thoughts_on_nix))
 - [I was Wrong about Nix (2020)](https://christine.website/blog/i-was-wrong-about-nix-2020-02-10) ([HN](https://news.ycombinator.com/item?id=22295102))
+- [Grafanix](https://github.com/stolyaroleh/grafanix) - Visualize your Nix dependencies.

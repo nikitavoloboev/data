@@ -33,3 +33,4 @@
 - [Deploying Go servers with Docker (2014)](https://blog.golang.org/docker)
 - [Create the smallest and secured golang docker image based on scratch (2018)](https://medium.com/@chemidy/create-the-smallest-and-secured-golang-docker-image-based-on-scratch-4752223b7324)
 - [HN: What Exactly is Docker? (2020)](https://news.ycombinator.com/item?id=22212206)
+- [runq](https://github.com/gotoz/runq) - Run regular Docker images in KVM/Qemu.

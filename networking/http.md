@@ -35,3 +35,4 @@
 - [Big list of http static server one-liners](https://gist.github.com/willurd/5720255) ([HN](https://news.ycombinator.com/item?id=22082585))
 - [miniserve](https://github.com/svenstaro/miniserve) - CLI tool to serve files and dirs over HTTP.
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool.
+- [PollyJS](https://netflix.github.io/pollyjs/#/) - Record, replay, and stub HTTP interactions. ([Code](https://github.com/Netflix/pollyjs))

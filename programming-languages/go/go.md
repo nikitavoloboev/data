@@ -201,3 +201,4 @@ Go promotes composition over inheritance.
 - [Golang basics - writing unit tests (2017)](https://blog.alexellis.io/golang-writing-unit-tests/)
 - [Buffered channels in go: tips & tricks (2020)](https://www.rapidloop.com/blog/golang-channels-tips-tricks.html)
 - [The Evolution of a Go Programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer)
+- [Staticcheck](https://github.com/dominikh/go-tools) - Collection of static analysis tools for working with Go code.

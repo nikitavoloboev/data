@@ -78,6 +78,7 @@ Below is a list of extensions I use.
 - [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - Synchronize all of your VSCode settings across multiple devices.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
 - [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative URL paths from files in the current workspace.
+- [Debug Visualizer](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer) - Visualizes values while debugging. ([Code](https://github.com/hediet/vscode-debug-visualizer))
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.
 - [REST Client Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) - Allows you to send HTTP request and view the response in VS Code directly.
 - [Browser Preview](https://github.com/auchenberg/vscode-browser-preview) - Real browser preview inside your editor that you can debug.
@@ -129,7 +130,7 @@ Below is a list of extensions I use.
 
 ## Python
 
-- [Neuron](https://marketplace.visualstudio.com/items?itemName=neuron.neuron-IPE) - Interactive Programming Experience for Data Scientists.
+- [Neuron](https://marketplace.visualstudio.com/items?itemName=neuron.neuron-IPE) - Interactive Programming Experience for Data Scientists. ([Code](https://github.com/neuron-team/vscode-ipe))
 
 ## Git
 
@@ -287,3 +288,4 @@ Below is a list of extensions I use.
 - [vsce](https://github.com/microsoft/vscode-vsce) - VS Code Extension Manager.
 - [Lobsters: What's your VS Code setup like? (2019)](https://lobste.rs/s/devg9x/what_s_your_vs_code_setup_like)
 - [vscode-private-extension](https://github.com/tekezo/vscode-private-extension)
+- [Hot Reload for VS Code Extension Development (2029)](https://blog.hediet.de/post/hot_reload_for_vs_code_extension_development)

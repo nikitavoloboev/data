@@ -82,3 +82,4 @@
 - [rst2pdf](https://github.com/rst2pdf/rst2pdf) - Use a text editor. Make a PDF.
 - [schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [asyncpg](https://github.com/MagicStack/asyncpg) - Fast PostgreSQL Database Client Library for Python/asyncio.
+- [Newspaper3k](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3.

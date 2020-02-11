@@ -96,3 +96,4 @@ And these Discord servers:
 - [Curated list of awesome programming subreddits](https://github.com/iCHAIT/awesome-subreddits#readme)
 - [Stay Safe Out There: Navigating the Negatives on Twitter (2019)](https://www.holloway.com/s/excerpt-stay-safe-out-there-navigating-the-negatives-on-twitter)
 - [HN: List of Twitter mute words for your timeline (2020)](https://news.ycombinator.com/item?id=22141903)
+- [Hacker News Search](https://hn.algolia.com/) ([Code](https://github.com/algolia/hn-search))

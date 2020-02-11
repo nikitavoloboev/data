@@ -48,3 +48,4 @@
 - [React Native JSI Example (2020)](https://gist.github.com/axemclion/e7faeb4ee9d89832040e96d6837b269d)
 - [What are the disadvantages of the Expo? (2020)](https://www.reddit.com/r/reactnative/comments/f0a8zh/what_are_the_disadvantages_of_the_expo/)
 - [React Native Express](http://www.reactnativeexpress.com/) - Learn React Native, the cross-platform app framework. ([Code](https://github.com/dabbott/react-native-express))
+- [React Native V8 JSI adapter](https://github.com/microsoft/v8-jsi)

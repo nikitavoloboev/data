@@ -39,7 +39,7 @@
 - [Break problems down](../research/solving-problems.md). Solve each step one at a time. Know the end goal.
 - Spend mindful time on all devices. on iOS, listen to podcasts/books, read/text. Don't do things that can be done faster on mac.
 - Do bodyweight exercises during the day to regain focus. Change environments for inspiration.
-- Listen to rain sounds with [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) when focusing with environment noise blocked. No distracting music.
+- Listen to rain/fire sounds with [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) when focusing with environment noise blocked. No distracting music.
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.

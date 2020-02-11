@@ -56,3 +56,4 @@
 - [ls-engines](https://github.com/ljharb/ls-engines) - Determine if your dependency graph's stated "engines" criteria is met.
 - [relative-deps](https://github.com/mweststrate/relative-deps) - Installs local dependencies for optimal developer experience.
 - [Pug](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for NodeJS.
+- [Nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js.
