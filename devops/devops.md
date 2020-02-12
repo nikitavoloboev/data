@@ -12,3 +12,4 @@
 - [DevOps Questions & Exercises](https://github.com/bregman-arie/devops-exercises#readme)
 - [Ops Lessons We All Learn The Hard Way (2020)](https://www.netmeister.org/blog/ops-lessons.html)
 - [Juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.
+- [Book Recommendations for the Infrastructure Engineer](https://github.com/stack72/ops-books#readme)

@@ -35,3 +35,4 @@
 - [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
 - [Introduction to Computer Systems course (2019)](https://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15213-f19/www/schedule.html)
 - [Diagrams](https://diagrams.mingrammer.com/) - Lets you draw the cloud system architecture in Python code. ([Code](https://github.com/mingrammer/diagrams))
+- [Scaling to 100k Users (2020)](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
