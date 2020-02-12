@@ -48,3 +48,4 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [KeyV2](https://github.com/rsheldiii/KeyV2) - Parametric Mechanical Keycap Library.
 - [ckb-next](https://github.com/ckb-next/ckb-next) - RGB Driver for Linux and macOS.
 - [Weird Keyboards, Programmable Keyboards (2020)](https://blog.gboards.ca/2020/01/weird-keyboards-programmable-keyboards.html) ([Lobsters](https://lobste.rs/s/cyuguu/weird_keyboards_programmable_keyboards))
+- [Guidelines for designing a custom Topre keyboard](https://github.com/tomsmalley/custom-topre-guide)

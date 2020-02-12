@@ -75,6 +75,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 
 ## Recommendations
 
+- [Ask HN: What are some books where the reader learns by building projects? (2020)](https://news.ycombinator.com/item?id=22299180)
 - [Gergely Orosz's reading list](https://blog.pragmaticengineer.com/my-reading-list/)
 - [Side Project books](https://books.makesideproject.com/)
 - [Derek Sivers's books read](https://sivers.org/book)
