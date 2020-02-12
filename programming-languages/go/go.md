@@ -203,3 +203,4 @@ Go promotes composition over inheritance.
 - [The Evolution of a Go Programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer)
 - [Staticcheck](https://github.com/dominikh/go-tools) - Collection of static analysis tools for working with Go code.
 - [Go Diagnostics](https://golang.org/doc/diagnostics.html)
+- [Experience report on a large Python-to-Go translation](https://gitlab.com/esr/reposurgeon/blob/master/GoNotes.adoc) ([HN](https://news.ycombinator.com/item?id=22304131))

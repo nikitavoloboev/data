@@ -67,3 +67,4 @@
 - [Herm](https://www.herm.dev/) - Free online workshop on everything you need to build fullstack GraphQL apps with Hasura, Next.js, and Serverless.
 - [GraphQL Tooling, Today & Tomorrow, Sean Grove, Founder @ OneGraph (2019)](https://www.youtube.com/watch?v=gAjQ1mg614o)
 - [Sqoop](https://github.com/solo-io/sqoop) - GraphQL Engine powered by Gloo.
+- [Intro to Postgres + GraphQL with PostGraphile (2020)](https://blog.logrocket.com/intro-to-postgres-graphql-with-postgraphile/)

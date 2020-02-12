@@ -43,3 +43,4 @@
 - [Paul Dirac Interview, Göttingen 1982](https://www.youtube.com/watch?v=Et8-gg6XNDY)
 - [Resources for the Physics Olympiad](https://www.reddit.com/r/Physics_olympiad/wiki/index)
 - [Snow Crystals (2019)](https://arxiv.org/abs/1910.06389)
+- [Gears (2020)](https://ciechanow.ski/gears/)
