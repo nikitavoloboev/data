@@ -329,6 +329,8 @@
 - [CurlyQ](https://github.com/mcmathja/curlyq) - Provides a simple, easy-to-use interface for performing background processing in Go.
 - [Olric](https://github.com/buraksezer/olric) - Distributed, eventually consistent, in-memory key/value data store and cache. ([HN](https://news.ycombinator.com/item?id=22297507))
 - [licensecheck](https://github.com/google/licensecheck) - Classifies license files and heuristically determines how well they correspond to known open source licenses.
+- [Cloud Run helpers](https://github.com/kelseyhightower/run) - Provides a set of Cloud Run helper functions.
+- [go-ws-transport](https://github.com/libp2p/go-ws-transport) - WebSocket implementation of a go-libp2p transport.
 
 ## Links
 

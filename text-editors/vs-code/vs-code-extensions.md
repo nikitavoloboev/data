@@ -248,6 +248,10 @@ Below is a list of extensions I use.
 
 - [TLA+ language support](https://github.com/alygin/vscode-tlaplus)
 
+## OCaml
+
+- [vscode-ocaml-platform](https://github.com/ocamllabs/vscode-ocaml-platform)
+
 ## SQL
 
 - [SQLite](https://github.com/AlexCovizzi/vscode-sqlite) - VSCode extension to explore and query SQLite databases.

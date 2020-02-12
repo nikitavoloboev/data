@@ -160,3 +160,4 @@
 - [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes.
 - [clean-set](https://github.com/fwilkerson/clean-set) - Deep assignment alternative to the object spread operator and Object.assign.
 - [Search Query Syntax Parser](https://github.com/nepsilon/search-query-parser)
+- [Uppload](https://github.com/elninotech/uppload) - Better JavaScript image uploader with 30+ plugins.

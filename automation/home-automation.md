@@ -7,3 +7,4 @@
 - [TileBoard](https://github.com/resoai/TileBoard) - Simple yet highly configurable Dashboard for HomeAssistant.
 - [python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances.
 - [Home Assistant configuration](https://github.com/teich/homeassistant)
+- [Project Alias](https://github.com/bjoernkarmann/project_alias) - Open-source parasite to hack smart home devices.
