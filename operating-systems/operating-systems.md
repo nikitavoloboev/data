@@ -63,3 +63,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [fectl](https://github.com/fafhrd91/fectl) - Client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems.
 - [1001 Ways of Implementing a System Call (2019)](https://x86.lol/generic/2019/07/04/kernel-entry.html)
 - [How I Switched To Plan 9 (2019)](http://helpful.cat-v.org/Blog/2019/12/03/0/)
+- [Operating Systems course notes (2013)](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)

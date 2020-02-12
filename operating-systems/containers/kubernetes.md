@@ -147,4 +147,4 @@
 - [Gloo](https://github.com/solo-io/gloo) - Envoy-Powered API Gateway.
 - [Keel](https://github.com/keel-hq/keel) - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates.
 - [GLBC](https://github.com/kubernetes/ingress-gce) - Ingress controller for Google Cloud.
-- [Profefe](https://github.com/profefe/kube-profefe) - Continuous profiling made easy in Kubernetes with profefe.
+- [Kube Profefe](https://github.com/profefe/kube-profefe) - Continuous profiling made easy in Kubernetes with profefe.
