@@ -65,3 +65,4 @@
 - [htcc](https://github.com/falgon/htcc) - Tiny C language compiler (x86-64).
 - [Termite](https://github.com/hanwen/termite) - Generic distributed compilation system.
 - [A Simple Graph-Based Intermediate Representation (1995)](http://paperhub.s3.amazonaws.com/24842c95fb1bc5d7c5da2ec735e106f0.pdf) ([HN](https://news.ycombinator.com/item?id=22223820))
+- [CS164: Introduction to the design of programming languages course (2019)](http://www-inst.eecs.berkeley.edu/~cs164/sp19/)
