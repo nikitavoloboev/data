@@ -40,3 +40,4 @@
 - [Design Systems Design System - Siddharth Kshetrapal (2019)](https://www.youtube.com/watch?v=gLE6lQU_mEU)
 - [Karri Saarinen - Scaling design with systems (2017)](https://www.youtube.com/watch?v=TuLY1cYM57g)
 - [Design System Checklist](https://designsystemchecklist.com/) - Open-source checklist to help you plan, build and grow your design system. ([Code](https://github.com/ardakaracizmeli/design-system-checklist))
+- [OpenChakra](https://openchakra.app/) - Visual editor for Chakra UI. ([Code](https://github.com/premieroctet/openchakra))

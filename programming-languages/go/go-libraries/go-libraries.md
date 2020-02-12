@@ -328,6 +328,7 @@
 - [slug](https://github.com/gosimple/slug) - URL-friendly slugify with multiple languages support.
 - [CurlyQ](https://github.com/mcmathja/curlyq) - Provides a simple, easy-to-use interface for performing background processing in Go.
 - [Olric](https://github.com/buraksezer/olric) - Distributed, eventually consistent, in-memory key/value data store and cache. ([HN](https://news.ycombinator.com/item?id=22297507))
+- [licensecheck](https://github.com/google/licensecheck) - Classifies license files and heuristically determines how well they correspond to known open source licenses.
 
 ## Links
 

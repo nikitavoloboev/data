@@ -121,3 +121,4 @@
 - [Literate Programming notes](https://pbat.ch/wiki/literate_programming/)
 - [TU Delft Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/)
 - [Ask HN: What change in your programming technique has been most transformative? (2020)](https://news.ycombinator.com/item?id=22129757)
+- [Curated list of awesome DIY software](https://github.com/cweagans/awesome-diy-software#readme)

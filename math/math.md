@@ -112,3 +112,4 @@
 - [An inquiry into the Foundations of Mathematics (2020)](https://artagnon.com/articles/fom)
 - [Anthony Várilly-Alvarado, "The Geometric Disposition of Diophantine Equations." (2020)](https://www.youtube.com/watch?v=GnE2lFJ1x-Y)
 - [Mathpendium](https://mathpendium.org/) - Discover the world of mathematics.
+- [Where is the fashionable mathematics? (2020)](https://xenaproject.wordpress.com/2020/02/09/where-is-the-fashionable-mathematics/)

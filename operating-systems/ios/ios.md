@@ -87,3 +87,6 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Makeovr](http://www.makeovr.io/) - Cut "invisible icons" right out of your background, use them to push your other icons around, and do amazing things with your homescreen.
 - [Guilherme Rambo - Fluid animations and interactions on iOS apps (2020)](https://www.youtube.com/watch?v=89QkikrQvQE)
 - [Advanced debugging skills used in the iOS project development process](https://github.com/aozhimin/iOS-Debug-Hacks#readme)
+- [Testing Remote Push Notification in iOS simulator (2020)](https://sarunw.com/tips/testing-remote-push-notification-in-ios-simulator/)
+- [StatusBuddy](https://github.com/insidegui/StatusBuddy) - Keep track of Apple's developer and consumer system statuses right in your menu bar.
+- [Plug](https://github.com/s4cha/Plug) - Plug implementation details for a cleaner Architecture on iOS.

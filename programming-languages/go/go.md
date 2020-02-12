@@ -202,3 +202,4 @@ Go promotes composition over inheritance.
 - [Buffered channels in go: tips & tricks (2020)](https://www.rapidloop.com/blog/golang-channels-tips-tricks.html)
 - [The Evolution of a Go Programmer](https://github.com/SuperPaintman/the-evolution-of-a-go-programmer)
 - [Staticcheck](https://github.com/dominikh/go-tools) - Collection of static analysis tools for working with Go code.
+- [Go Diagnostics](https://golang.org/doc/diagnostics.html)

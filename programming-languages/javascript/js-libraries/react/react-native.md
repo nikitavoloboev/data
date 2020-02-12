@@ -49,3 +49,5 @@
 - [What are the disadvantages of the Expo? (2020)](https://www.reddit.com/r/reactnative/comments/f0a8zh/what_are_the_disadvantages_of_the_expo/)
 - [React Native Express](http://www.reactnativeexpress.com/) - Learn React Native, the cross-platform app framework. ([Code](https://github.com/dabbott/react-native-express))
 - [React Native V8 JSI adapter](https://github.com/microsoft/v8-jsi)
+- [React Native: Discussions and Proposals](https://github.com/react-native-community/discussions-and-proposals)
+- [React Native Test App](https://github.com/microsoft/react-native-test-app) - Provides test apps for all platforms as a package.

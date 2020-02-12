@@ -110,3 +110,4 @@
 - [Jira Clone in React](https://github.com/oldboyxx/jira_clone) - Simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress. ([HN](https://news.ycombinator.com/item?id=22159397))
 - [iPod.js](https://github.com/tvillarete/ipod-classic-js) - iPod Classic built using React Hooks, TypeScript, & GraphQL.
 - [Undux](https://github.com/bcherny/undux) - Simple & typesafe alternative to Flux and Redux.
+- [Concurrent Mode issues](https://concurrent-mode-oops.netlify.com/0)

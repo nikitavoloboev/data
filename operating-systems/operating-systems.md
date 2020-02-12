@@ -21,6 +21,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Barebones](https://github.com/fwsGonzo/barebones) - Barebones multiboot kernel for beginners.
 - [xv6](https://github.com/mit-pdos/xv6-public) - Re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6. ([Paper](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf))
 - [Orange Slice](https://github.com/gamozolabs/orange_slice) - Research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost.
+- [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - Open source Virtual Machine Monitor (VMM) that runs on top of KVM.
 
 ## Links
 

@@ -7,3 +7,4 @@
 - [A Minimalist Guide to FoundationDB](https://tech.marksblogg.com/minimalist-guide-tutorial-foundationdb.html)
 - [Technical Overview of FoundationDB - Evan Tschannen (2018)](https://www.youtube.com/watch?v=EMwhsGsxfPU)
 - [FoundationDB Rust Client](https://github.com/Clikengo/foundationdb-rs)
+- [Retrofitting a Foundation for CouchDB - Adam Kocoloski (2019)](https://www.youtube.com/watch?v=SjXyVZZFkBg&list=PLbzoR-pLrL6oWYrC950yAhbLk8FRRB_Bt&index=12&app=desktop)
