@@ -199,6 +199,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Klarity](https://www.klaritylaw.com/) - Automatic review and mark-up of third party contracts.
 - [AssemblyAI](https://www.assemblyai.com/) - Speech-to-Text you can count on.
 - [Changefeed](https://changefeed.app/) - Beautiful changelog for your product in seconds.
+- [dotenv-linter](https://github.com/mgrachev/dotenv-linter) - Linter for .env files. Written in Rust.
 
 ## Notes
 
