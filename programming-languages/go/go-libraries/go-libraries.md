@@ -54,6 +54,7 @@
 - [REST Layer](https://github.com/rs/rest-layer) - API framework heavily inspired by the excellent Python Eve.
 - [Manners](https://github.com/braintree/manners) - Polite Go HTTP server that shuts down gracefully.
 - [httpretty](https://github.com/henvic/httpretty) - Package httpretty prints the HTTP requests you make with Go pretty on your terminal.
+- [Resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go.
 
 ## GraphQL
 
@@ -331,6 +332,8 @@
 - [licensecheck](https://github.com/google/licensecheck) - Classifies license files and heuristically determines how well they correspond to known open source licenses.
 - [Cloud Run helpers](https://github.com/kelseyhightower/run) - Provides a set of Cloud Run helper functions.
 - [go-ws-transport](https://github.com/libp2p/go-ws-transport) - WebSocket implementation of a go-libp2p transport.
+- [go-finance](https://github.com/alpeb/go-finance) - Contains a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
+- [go-streams](https://github.com/reugn/go-streams) - Go stream processing library.
 
 ## Links
 

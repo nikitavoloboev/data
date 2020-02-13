@@ -116,6 +116,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Death of Crow](https://liamcobb.tumblr.com/post/84128563168/death-of-a-crow)
 - [The Abstract, Single-Stroke Paintings of Daigoro Yonekura (2020)](http://www.spoon-tamago.com/2020/02/07/the-abstract-single-stroke-paintings-of-daigoro-yonekura/)
 - [Old Book Illustrations](https://www.oldbookillustrations.com/)
+- [Old Book Illustrations: An Online Database Lets You Download Thousands of Illustrations from the 19th & 20th Centuries](http://www.openculture.com/2020/02/old-book-illustrations-download.html) ([HN](https://news.ycombinator.com/item?id=22315694))
 
 ## Photography
 

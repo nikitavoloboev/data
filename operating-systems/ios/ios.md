@@ -90,3 +90,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Testing Remote Push Notification in iOS simulator (2020)](https://sarunw.com/tips/testing-remote-push-notification-in-ios-simulator/)
 - [StatusBuddy](https://github.com/insidegui/StatusBuddy) - Keep track of Apple's developer and consumer system statuses right in your menu bar.
 - [Plug](https://github.com/s4cha/Plug) - Plug implementation details for a cleaner Architecture on iOS.
+- [Control Room](https://github.com/twostraws/ControlRoom) - macOS app to control the Xcode Simulator.
+- [Straw](https://github.com/maxgoedjen/straw) - Piping macOS app notifications to the simulator.
