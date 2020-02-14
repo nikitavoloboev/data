@@ -58,3 +58,4 @@
 - [Tweeny](https://github.com/mobius3/tweeny) - Inbetweening library designed for the creation of complex animations for games and other beautiful interactive software.
 - [Work-Stealing Queue](https://github.com/tsung-wei-huang/work-stealing-queue)
 - [libff](https://github.com/scipr-lab/libff) - C++ library for finite fields and elliptic curves.
+- [REST client for C++](https://github.com/mrtazz/restclient-cpp)

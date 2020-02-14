@@ -70,3 +70,4 @@ I publish most of my work and make it open source for other people to use and re
 - [gh](https://github.com/cli/cli) - GitHub CLI tool.
 - [gg](https://github.com/danielecook/gg) - Github Gists from the command line.
 - [The past and the future of hub (2020)](https://mislav.net/2020/01/github-cli/)
+- [Trends](https://trends.now.sh/) - Ultra high performance GitHub trending application. ([Code](https://github.com/hanford/trends))

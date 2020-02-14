@@ -30,3 +30,4 @@
 - [HappyCoding](https://happycoding.app/) - Make Xcode happy. Simplify your iOS & macOS development.
 - [xcinfo](https://github.com/xcodereleases/xcinfo) - Install as many Xcodes at once as you can.
 - [SPMPlaygrounds](https://github.com/finestructure/SPMPlayground) - Command line tool to create an Xcode project with a Playground and an SPM library ready for use in it.
+- [Xcode Project Linter (xcprojectlint)](https://github.com/americanexpress/xcprojectlint) - Provides a security blanket, ensuring neither your co-workers, nor git screw up your Xcode project file.

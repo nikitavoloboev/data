@@ -10,3 +10,4 @@
 - [Carmack Oculus Connect 5](https://www.facebook.com/Oculusvr/videos/2364701536878601/)
 - [Future of VR at Oculus Connect 6 (2019)](https://www.youtube.com/watch?v=RCB_mfGmh9w&t=1h47m12s)
 - [LOVR](https://github.com/bjornbytes/lovr) - Virtual Reality Engine.
+- [SideQuest](https://github.com/the-expanse/SideQuest) - Open app store for mobile android based VR devices such as the Oculus Go, Oculus Quest or other android based devices.
