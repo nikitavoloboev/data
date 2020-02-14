@@ -51,3 +51,4 @@
 - [React Native: Discussions and Proposals](https://github.com/react-native-community/discussions-and-proposals)
 - [React Native Test App](https://github.com/microsoft/react-native-test-app) - Provides test apps for all platforms as a package.
 - [React Native Meets SwiftUI (2020)](https://medium.com/better-programming/react-native-meets-swiftui-d1606a8e1681) - Write a proxy that allows you to use SwiftUI in React Native apps. ([Code](https://github.com/Kureev/ReactNativeWithSwiftUITutorial))
+- [react-native-neomorph-shadows](https://github.com/tokkozhin/react-native-neomorph-shadows) - Neomorphism UI shadows for iOS & Android, include SVG inner/outer shadow component powered with react-native-svg.

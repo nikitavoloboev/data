@@ -79,3 +79,4 @@
 - [Have there been any important developments on content addressable memory since hopfield network? (neural networkish) (2020)](https://www.reddit.com/r/MachineLearning/comments/esrroh/d_have_there_been_any_important_developments_on/)
 - [G-Bert](https://github.com/jshang123/G-Bert) - Pre-training of Graph Augmented Transformers for Medication Recommendation.
 - [Two strange useless things to do with neural nets: a demonstration](https://github.com/howonlee/twostrangethings)
+- [Understanding the Neural Tangent Kernel (2019)](https://rajatvd.github.io/NTK/)

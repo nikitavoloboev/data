@@ -69,3 +69,5 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Best Practice Open Source Repo Setup (2020)](https://www.swyx.io/writing/oss-repo-setup/)
 - [Notes on contributing to open source projects (2020)](https://gist.github.com/Gabriel439/a5770cc1dc430bde576602cbd978ca9d)
 - [The Cathedral and the Bazaar (1999)](https://monoskop.org/images/e/e0/Raymond_Eric_S_The_Cathedral_and_the_Bazaar_rev_ed.pdf)
+- [Open Source is Broken (2019)](https://dev.to/degoodmanwilson/open-source-is-broken-g60)
+- [Sustain Open Source Forum](https://discourse.sustainoss.org/)
