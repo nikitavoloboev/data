@@ -38,6 +38,7 @@
 - [Akita](https://github.com/datorama/akita) - State Management Tailored-Made for JS Applications.
 - [Observable Store](https://github.com/DanWahlin/Observable-Store) - Provides a simple way to manage state in Angular, React, Vue.js and other front-end applications.
 - [Cerebral](https://github.com/cerebral/cerebral) - Declarative state and side effects management solution for popular JavaScript frameworks.
+- [Store](https://github.com/fabiospampinato/store) - Beautifully-simple framework-agnostic modern state management library.
 
 ## API bindings
 

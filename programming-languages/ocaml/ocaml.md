@@ -28,3 +28,5 @@
 - [OCaml Runtime for AWS Lambda](https://github.com/anmonteiro/aws-lambda-ocaml-runtime) ([Talk](https://www.youtube.com/watch?v=c10ZOftkeS8))
 - [Lightweight OCaml Webapp Tutorial](https://shonfeder.gitlab.io/ocaml_webapp/)
 - [oskel](https://github.com/CraigFe/oskel) - Skeleton generator for OCaml projects.
+- [OCaml-CI](https://github.com/ocurrent/ocaml-ci) - CI for OCaml projects.
+- [OCurrent](https://github.com/ocurrent/ocurrent) - Allows you to specify a workflow / pipeline for keeping things up-to-date.

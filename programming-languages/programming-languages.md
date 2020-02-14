@@ -53,3 +53,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Lobsters: What would a programming language designed from the ground-up for a multi-core world look like? (2020)](https://lobste.rs/s/mrl19l/what_would_programming_language)
 - [Practical Foundations for Programming Languages](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
 - [What language do you prefer for new project starts? (2020)](https://lobste.rs/s/ya4ajj/what_language_do_you_prefer_for_new)
+- [Flow-Charts of Programming Language Constructs (2020)](https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/) ([HN](https://news.ycombinator.com/item?id=22326669))

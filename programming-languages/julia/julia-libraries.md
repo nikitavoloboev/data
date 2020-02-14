@@ -14,6 +14,7 @@
 - [JuMP](https://github.com/JuliaOpt/JuMP.jl) - Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear).
 - [Multivariate Statistics](https://github.com/JuliaStats/MultivariateStats.jl) - Julia package for multivariate statistics and data analysis (e.g. dimension reduction).
 - [RandomizedLinAlg.jl](https://github.com/haampie/RandomizedLinAlg.jl) - Randomized algorithms for numerical linear algebra in Julia.
+- [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) - ⟨Leibniz-Grassmann-Clifford⟩ differential geometric algebra / multivector simplicial complex.
 
 ## Biology
 
@@ -50,3 +51,4 @@
 
 - [Curated decibans of Julia programming language](https://github.com/svaksha/Julia.jl#readme)
 - [Some State of the Art Packages in Julia v1.0 (2018)](http://www.stochasticlifestyle.com/some-state-of-the-art-packages-in-julia-v1-0/)
+  a

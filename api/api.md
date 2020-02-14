@@ -17,6 +17,7 @@
 - [Reddit](https://github.com/feross/reddit) - Simple Reddit API client in JS.
 - [Slack API in Go](https://github.com/nlopes/slack)
 - [Star Wars API](https://swapi.co/) - Nice for testing.
+- [Google Spreadsheet NodeJS](https://github.com/theoephraim/node-google-spreadsheet) - Most popular Google Sheets API wrapper for JavaScript.
 
 ## Links
 

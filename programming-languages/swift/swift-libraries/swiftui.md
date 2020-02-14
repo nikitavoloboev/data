@@ -41,3 +41,4 @@
 - [Building Bottom sheet in SwiftUI (2020)](https://swiftwithmajid.com/2019/12/11/building-bottom-sheet-in-swiftui/)
 - [SwiftUI for Mac (2019)](https://troz.net/post/2019/swiftui-for-mac-1/)
 - [SwiftUI basic Shape operations (2020)](https://sarunw.com/posts/swiftui-basic-shape-operations/)
+- [Data in SwiftUI: blog series (2020)](https://sarunw.com/posts/data-in-swiftui-1/) ([HN](https://news.ycombinator.com/item?id=22325735))

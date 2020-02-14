@@ -8,3 +8,4 @@
 - [Electronics](https://github.com/pepaslabs/Electronics) - Central place to organize and publish all of my hobbyist electronics knowledge and projects.
 - [I2C in a Nutshell (2020)](https://interrupt.memfault.com/blog/i2c-in-a-nutshell)
 - [Ultimate Electronics Book](https://ultimateelectronicsbook.com/)
+- [I made my own PCBs with a 3D printer](https://www.stavros.io/posts/make-pcbs-at-home/) ([HN](https://news.ycombinator.com/item?id=22327467))

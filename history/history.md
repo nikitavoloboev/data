@@ -12,3 +12,4 @@
 - [The polygons of another world (2020)](http://fabiensanglard.net/another_world_polygons/index.html)
 - [Folklore](https://www.folklore.org/) - Web site devoted to collective historical storytelling.
 - [Websites to spent countless hours on: folklore.org (2020)](https://www.christophlabacher.com/notes/websites-to-spent-countless-hours-on-folklore-org)
+- [Wiby](https://wiby.me/) - Search engine for old internet pages.

@@ -16,6 +16,10 @@
 - 6-APB
 - 4-HO-DET (seems interesting at [higher doses](https://www.reddit.com/r/researchchemicals/comments/bippwv/4sub_tryptamine_intensity_ranking/))
 
+## Notes
+
+- Use tracking to make sure the order is received. Otherwise can't get refund.
+
 ## Links
 
 - [A Beginner's Guide to RC Psychedelics](https://www.reddit.com/r/researchchemicals/comments/7qep7b/a_beginners_guide_to_rc_psychedelics/)

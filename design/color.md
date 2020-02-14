@@ -16,3 +16,5 @@
 - [Who can use this color combination?](https://whocanuse.com/)
 - [Happy Hues](https://www.happyhues.co/) - Color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects.
 - [The Hitchhiker's Guide to Digital Color](https://hg2dc.com/) - Light-hearted introduction to understanding digital color reproduction.
+- [Brown; color is weird (2020)](https://www.youtube.com/watch?v=wh4aWZRtTwU) ([HN](https://news.ycombinator.com/item?id=22324298))
+- [The Weird World in RGB (2019)](https://www.youtube.com/watch?v=uYbdx4I7STg)
