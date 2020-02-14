@@ -23,3 +23,4 @@
 - [Cerebras CS-1](https://www.cerebras.net/product/) - Built from the ground up to accelerate deep learning in the data center.
 - [MIT 6.004: Computation Structures course](https://6004.mit.edu/web/fall19/resources/lectures) ([HN](https://news.ycombinator.com/item?id=22056567))
 - [Lobsters: Use case for Raspberry Pis? (2020)](https://lobste.rs/s/eld6l5/use_case_for_raspberry_pis)
+- [Coding for SSDs](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)

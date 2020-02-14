@@ -37,6 +37,7 @@
 - [Effector](https://github.com/zerobias/effector) - Reactive state manager. ([Awesome](https://github.com/ilyalesik/awesome-effector))
 - [Akita](https://github.com/datorama/akita) - State Management Tailored-Made for JS Applications.
 - [Observable Store](https://github.com/DanWahlin/Observable-Store) - Provides a simple way to manage state in Angular, React, Vue.js and other front-end applications.
+- [Cerebral](https://github.com/cerebral/cerebral) - Declarative state and side effects management solution for popular JavaScript frameworks.
 
 ## API bindings
 

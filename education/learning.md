@@ -36,3 +36,4 @@
 - [Ask HN: What Skills to Acquire in 2020?](https://news.ycombinator.com/item?id=22235279)
 - [40 powerful concepts to understand about the world](https://twitter.com/G_S_Bhogal/status/1225561131122597896)
 - [Quick reads in any format, that either changed your life or is something you’d recommend to everyone? (2020)](https://twitter.com/mckaywrigley/status/1225099808991408128)
+- [Ask HN: How do you learn complex, dense technical information? (2020)](https://news.ycombinator.com/item?id=22325975)

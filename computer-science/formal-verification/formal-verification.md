@@ -13,7 +13,7 @@
 - [Provably Correct Peephole Optimizations with Alive (2019)](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/alive/)
 - [SwiftCSP](https://github.com/davecom/SwiftCSP) - Constraint satisfaction problem solver written in pure Swift.
 - [Proof Assistants At the Hardware-Software Interface (2020)](https://www.youtube.com/watch?v=GXXOyXeyKeY)
-- [The business case for formal methods (2020)](https://www.hillelwayne.com/post/business-case-formal-methods/) ([Lobsters](https://lobste.rs/s/ywgjhd/business_case_for_formal_methods))
+- [The business case for formal methods (2020)](https://www.hillelwayne.com/post/business-case-formal-methods/) ([Lobsters](https://lobste.rs/s/ywgjhd/business_case_for_formal_methods)) ([HN](https://news.ycombinator.com/item?id=22321756))
 - [Logipedia](https://github.com/Deducteam/Logipedia) - Project that aims to share formal proofs between several systems.
 - [Alloy](http://alloytools.org/about.html) - Language for describing structures and a tool for exploring them.
 - [Software Abstractions book](http://softwareabstractions.org/)

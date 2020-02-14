@@ -22,3 +22,4 @@
 - [Python Data Structures and Algorithms](https://github.com/prabhupant/python-ds)
 - [HAMTs from Scratch (2018)](https://vaibhavsagar.com/blog/2018/07/29/hamts-from-scratch/)
 - [JavaScript Data Structures and Algorithms](https://github.com/JoeKarlsson/data-structures)
+- [Implementing a Key-Value Store series](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)

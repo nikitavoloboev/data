@@ -122,3 +122,4 @@
 - [TU Delft Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/)
 - [Ask HN: What change in your programming technique has been most transformative? (2020)](https://news.ycombinator.com/item?id=22129757)
 - [Curated list of awesome DIY software](https://github.com/cweagans/awesome-diy-software#readme)
+- [How Big Technical Changes Happen at Slack (2020)](https://slack.engineering/how-big-technical-changes-happen-at-slack-f1569d25ee7b) ([HN](https://news.ycombinator.com/item?id=22319210))

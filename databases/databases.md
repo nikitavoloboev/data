@@ -55,6 +55,7 @@
 - [Nebula Graph](https://github.com/vesoft-inc/nebula) - Open-source graph database capable of hosting super large scale graphs with dozens of billions of vertices (nodes) and trillions of edges, with milliseconds of latency. ([HN](https://news.ycombinator.com/item?id=22051271))
 - [SeaTable](https://seatable.io/) - Online lightweight database with a spreadsheet interface. ([Code](https://github.com/seatable/seatable))
 - [Ceph](https://github.com/ceph/ceph) - Distributed object, block, and file storage platform.
+- [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
 
 ## Tools
 
@@ -90,3 +91,4 @@
 - [Curated list of resources for graph databases and graph computing tools](https://github.com/jbmusso/awesome-graph#readme)
 - [Graph Databases book](https://pdfs.semanticscholar.org/f511/7084ca43e888fb3e17ab0f0e684cced0f8fd.pdf)
 - [Big News In Databases — Fall 2019](https://winand.at/newsletter/2019-12/partiql-microsoft-licenses-volcano-model)
+- [Ask HN: What are some examples of good database schema designs? (2020)](https://news.ycombinator.com/item?id=22324691)

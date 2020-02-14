@@ -205,3 +205,5 @@ Go promotes composition over inheritance.
 - [Go Diagnostics](https://golang.org/doc/diagnostics.html)
 - [Experience report on a large Python-to-Go translation](https://gitlab.com/esr/reposurgeon/blob/master/GoNotes.adoc) ([HN](https://news.ycombinator.com/item?id=22304131))
 - [profefe](https://github.com/profefe/profefe) - Collect profiling data for long-term analysis.
+- [Go support for Mobile devices](https://github.com/golang/mobile)
+- [Go for Cloud (2020)](https://rakyll.org/go-cloud/)

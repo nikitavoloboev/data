@@ -52,3 +52,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [comby](https://github.com/comby-tools/comby/) - Tool for structural code search and replace that supports ~every language. ([Web](https://comby.dev/)) ([Lobsters](https://lobste.rs/s/lvv8lj/comby_tool_for_changing_code))
 - [Lobsters: What would a programming language designed from the ground-up for a multi-core world look like? (2020)](https://lobste.rs/s/mrl19l/what_would_programming_language)
 - [Practical Foundations for Programming Languages](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
+- [What language do you prefer for new project starts? (2020)](https://lobste.rs/s/ya4ajj/what_language_do_you_prefer_for_new)

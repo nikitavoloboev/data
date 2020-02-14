@@ -15,7 +15,7 @@ Below is a list of extensions I use.
 
 - [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language.
 
-## TS/JS
+## JS/TS
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code.
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
@@ -139,7 +139,7 @@ Below is a list of extensions I use.
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - Git History, Search and More.
 - [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github) - Jump to a source code line in GitHub, Bitbucket, GitLab.
 
-## TS/JS
+## JS/TS
 
 - [Deoptigate](https://github.com/rbuckton/deoptigate-vscode) - Visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e. NodeJS, Chrome, etc.).
 - [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search the node_modules folder.
@@ -150,6 +150,7 @@ Below is a list of extensions I use.
 - [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) - Live Scratchpad for JavaScript.
 - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Autocomplete npm modules in import statements.
 - [js-debug](https://github.com/microsoft/vscode-js-debug) - Upcoming VS Code JavaScript debugger.
+- [VS Code Folder Source Actions](https://github.com/mjbvz/vscode-folder-source-actions) - Adds a context menu that allows you to apply VS Code's organize imports code action to all files in a folder.
 
 ## React
 

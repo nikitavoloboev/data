@@ -268,6 +268,7 @@
   - [Zig](programming-languages/zig/zig.md)
   - [APL](programming-languages/apl/apl.md)
   - [Tcl](programming-languages/tcl.md)
+  - [PHP](programming-languages/php/php.md)
   - [Smalltalk](programming-languages/smalltalk.md)
   - [Standard ML](programming-languages/standard-ml.md)
   - [Unison](programming-languages/unison.md)

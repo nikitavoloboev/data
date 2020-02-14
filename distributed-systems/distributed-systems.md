@@ -56,3 +56,5 @@
 - [etcdadm](https://github.com/kubernetes-sigs/etcdadm) - Command-line tool for operating an etcd cluster. It makes it easy to create a new cluster, add a member to, or remove a member from an existing cluster.
 - [Learning to build distributed systems (2019)](https://brooker.co.za/blog/2019/04/03/learning.html) ([Lobsters](https://lobste.rs/s/igiolo/learning_build_distributed_systems))
 - [SwarmKit](https://github.com/docker/swarmkit) - Toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
+- [How to get started with infrastructure and distributed systems (2016)](http://codecapsule.com/2016/01/03/how-to-get-started-with-infrastructure-and-distributed-systems/)
+- [Advanced Napkin Math: Estimating System Performance from First Principles (2019)](https://www.youtube.com/watch?v=IxkSlnrRFqc) ([Code](https://github.com/sirupsen/napkin-math))

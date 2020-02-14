@@ -17,6 +17,7 @@
 - [Lunar](https://github.com/airbnb/lunar) - React toolkit and design language for Airbnb open source and internal projects.
 - [Welcome UI](http://welcome-ui.com/)
 - [Ring UI](https://jetbrains.github.io/ring-ui/master/index.html?path=/story/ring-ui-welcome--getting-started) - JetBrains Web UI components. ([Code](https://github.com/JetBrains/ring-ui))
+- [Classy-UI](https://classy-ui.io/) - Atomic design system inspired by the wonderful Tailwindcss. ([Code](https://github.com/cerebral/classy-ui))
 
 ## Links
 

@@ -34,7 +34,6 @@
 - [React Native command line tools](https://github.com/react-native-community/cli)
 - [React Native Confetti](https://github.com/hyperjumptech/react-native-confetti) - React Native component to show confetti.
 - [React Native Debugger](https://github.com/jhen0409/react-native-debugger) - Standalone app for debugging React Native apps.
-- [Supportive material for the tutorial about React Native and SwiftUI](https://github.com/Kureev/ReactNativeWithSwiftUITutorial)
 - [React Navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps.
 - [Alexey Kureev - React Native CodeGen (2019)](https://www.youtube.com/watch?v=UnplXjhsrJk)
 - [Expo](https://github.com/expo/expo) - Open-source platform for making universal native apps that run on Android, iOS, and the web.
@@ -51,3 +50,4 @@
 - [React Native V8 JSI adapter](https://github.com/microsoft/v8-jsi)
 - [React Native: Discussions and Proposals](https://github.com/react-native-community/discussions-and-proposals)
 - [React Native Test App](https://github.com/microsoft/react-native-test-app) - Provides test apps for all platforms as a package.
+- [React Native Meets SwiftUI (2020)](https://medium.com/better-programming/react-native-meets-swiftui-d1606a8e1681) - Write a proxy that allows you to use SwiftUI in React Native apps. ([Code](https://github.com/Kureev/ReactNativeWithSwiftUITutorial))

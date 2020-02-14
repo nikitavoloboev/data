@@ -59,3 +59,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Redux Batch](https://github.com/manaflair/redux-batch) - Enhance your Redux store to support batched actions.
 - [Redux Toolkit](https://redux-toolkit.js.org/) - Official, opinionated, batteries-included toolset for efficient Redux development. ([Code](https://github.com/reduxjs/redux-toolkit))
 - [Redux Shouldn’t Hold All Of Your Data (2019)](https://michaelwashburnjr.com/2019/12/09/stop-storing-data-redux/)
+- [Redux Thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux.
