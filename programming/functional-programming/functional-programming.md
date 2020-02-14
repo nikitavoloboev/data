@@ -61,6 +61,7 @@
 - [Domain Modeling Made Functional - Scott Wlaschin (2017)](https://www.youtube.com/watch?v=Up7LcbGZFuo)
 - [The Implementation of Functional Programming Languages book (1987)](https://www.microsoft.com/en-us/research/uploads/prod/1987/01/slpj-book-1987-r90.pdf)
 - [Functional programming great resources](https://github.com/mmenestret/fp-resources#readme)
+- [On the Expressive Power of Indexed Applicative and Monadic Structures (2018)](https://oxij.org/thesis/PhD/)
 
 ## Images
 

@@ -149,6 +149,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: What are the best unknown books you have read? (2020)](https://news.ycombinator.com/item?id=22092108)
 - [Which book did you enjoy the most in 2019? 📚](https://twitter.com/mxstbr/status/1223646093306748928)
 - [Favorite books that almost nobody else knows or talks about (2019)](https://twitter.com/mckaywrigley/status/1120722846135640065)
+- [Rational Fiction books](https://www.goodreads.com/list/show/100705.Rational_Fiction)
 
 ## Notes
 

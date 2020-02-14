@@ -194,3 +194,4 @@
 - [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence (2020)](https://arxiv.org/abs/2002.04803)
 - [fastai: A Layered API for Deep Learning (2020)](https://arxiv.org/abs/2002.04688) ([HN](https://news.ycombinator.com/item?id=22324023))
 - [The Deep Learning Compiler: A Comprehensive Survey (2020)](https://arxiv.org/abs/2002.03794)
+- [Perceptrons explained](https://owenshen24.github.io/perceptron/)

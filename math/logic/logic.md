@@ -15,3 +15,4 @@
 - [Many-valued logic](https://en.wikipedia.org/wiki/Many-valued_logic) ([HN](https://news.ycombinator.com/item?id=20180599))
 - [An Introduction to Non-Classical Logic book](https://www.cambridge.org/ie/academic/subjects/philosophy/philosophy-science/introduction-non-classical-logic-if-2nd-edition?format=PB&isbn=9780521670265)
 - [Data Abstraction and Relational Program Logic (2020)](https://arxiv.org/pdf/1910.14560.pdf)
+- [Reinventing Formal Logic (2012)](https://oxij.org/note/ReinventingFormalLogic/)
