@@ -667,6 +667,7 @@
 - [NLP](nlp/nlp.md)
   - [Sentiment Analysis](nlp/sentiment-analysis.md)
   - [Virtual assistant](nlp/virtual-assistant.md)
+  - [Bots](nlp/bots.md)
 - [Virtual Reality](virtual-reality/virtual-reality.md)
 - [Augmented Reality](augmented-reality/augmented-reality.md)
   - [ARKit](augmented-reality/arkit.md)
