@@ -64,6 +64,7 @@
 - [console-feed](https://github.com/samdenty/console-feed) - Captures console.log's into a React Component.
 - [react-json-view](https://github.com/mac-s-g/react-json-view) - React component for displaying and editing javascript arrays and JSON objects.
 - [react-suspense-router](https://github.com/dai-shi/react-suspense-router) - React Router for React Suspense and Render-as-You-Fetch.
+- [react-range](https://github.com/tajo/react-range) - Range input with a slider. Accessible. Bring your own styles and markup.
 
 ## Links
 

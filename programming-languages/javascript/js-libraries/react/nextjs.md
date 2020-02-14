@@ -38,3 +38,4 @@
 - [Next.js Starter with User Authentication/Authorization](https://github.com/rwieruch/nextjs-firebase-authentication)
 - [next-purgecss](https://github.com/lucleray/next-purgecss) - Nextjs + purgecss for faster websites.
 - [next-offline](https://github.com/hanford/next-offline) - Make your Next.js application work offline using service workers via Google's workbox.
+- [Next.js Stats GitHub Action](https://github.com/zeit/next-stats-action) - Downloads and runs project with provided configs gathering stats to compare branches.

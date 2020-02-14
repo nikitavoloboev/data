@@ -12,3 +12,4 @@
 - [Filestash](https://github.com/mickael-kerjean/filestash) - Modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze.
 - [Seafile](https://github.com/haiwen/seafile) - Open source cloud storage system with privacy protection and teamwork features.
 - [Perkeep](https://github.com/perkeep/perkeep) - Personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+- [mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.

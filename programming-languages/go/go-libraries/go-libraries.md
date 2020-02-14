@@ -334,6 +334,8 @@
 - [go-ws-transport](https://github.com/libp2p/go-ws-transport) - WebSocket implementation of a go-libp2p transport.
 - [go-finance](https://github.com/alpeb/go-finance) - Contains a collection of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
 - [go-streams](https://github.com/reugn/go-streams) - Go stream processing library.
+- [simdjson-go](https://github.com/minio/simdjson-go) - Golang port of simdjson: parsing gigabytes of JSON per second.
+- [Collection of compression libraries for Go](https://github.com/dsnet/compress)
 
 ## Links
 

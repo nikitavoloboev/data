@@ -34,3 +34,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [OSS-Fuzz](https://github.com/google/oss-fuzz) - Continuous Fuzzing for Open Source Software.
 - [Wifiphisher](https://wifiphisher.org/) - Rogue Access Point framework for conducting red team engagements or Wi-Fi security testing. ([Code](https://github.com/wifiphisher/wifiphisher))
 - [crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib, but written in Go.
+- [Redirect attack on Shadowsocks stream ciphers](https://github.com/edwardz246003/shadowsocks)

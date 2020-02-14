@@ -41,6 +41,7 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [Adam Morse](http://mrmrs.cc/writing/)
 - [Benjamin Congdon](https://benjamincongdon.me/blog)
 - [Emmanuel Goossaert](http://codecapsule.com/)
+- [Raph Levien](https://raphlinus.github.io/) ([Code](https://github.com/raphlinus/raphlinus.github.io))
 
 ## Links
 

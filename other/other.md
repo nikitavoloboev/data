@@ -101,3 +101,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Shiki](https://github.com/octref/shiki) - Beautiful Syntax Highlighter.
 - [Spotifyd](https://github.com/Spotifyd/spotifyd) - Open source Spotify client running as a UNIX daemon.
 - [Kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
+- [RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
+- [butler-cli](https://github.com/benawad/butler-cli) - Prettier for File Structures.

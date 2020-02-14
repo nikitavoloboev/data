@@ -56,6 +56,7 @@
 - [SeaTable](https://seatable.io/) - Online lightweight database with a spreadsheet interface. ([Code](https://github.com/seatable/seatable))
 - [Ceph](https://github.com/ceph/ceph) - Distributed object, block, and file storage platform.
 - [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
+- [MinIO](https://github.com/minio/minio) - High performance object storage server compatible with Amazon S3 APIs.
 
 ## Tools
 

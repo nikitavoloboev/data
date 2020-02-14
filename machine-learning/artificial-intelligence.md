@@ -13,3 +13,4 @@
 - [CS221: Artificial Intelligence: Principles and Techniques (2020)](https://stanford-cs221.github.io/autumn2019/)
 - [Awful AI](https://github.com/daviddao/awful-ai#readme) - Curated list to track current scary usages of AI - hoping to raise awareness.
 - [Building AGI: Promising Approaches, Remaining Milestones, and Likely Obstacles | Yoshua Bengio (2019)](https://www.youtube.com/watch?v=IU9cQ1JdC7Y)
+- [Abstraction and Reasoning Corpus (ARC)](https://github.com/fchollet/ARC) - Contains the ARC task data, as well as a browser-based interface for humans to try their hand at solving the tasks manually.

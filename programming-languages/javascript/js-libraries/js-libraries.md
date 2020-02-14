@@ -163,3 +163,7 @@
 - [clean-set](https://github.com/fwilkerson/clean-set) - Deep assignment alternative to the object spread operator and Object.assign.
 - [Search Query Syntax Parser](https://github.com/nepsilon/search-query-parser)
 - [Uppload](https://github.com/elninotech/uppload) - Better JavaScript image uploader with 30+ plugins.
+- [pino](https://github.com/pinojs/pino) - Super fast, all natural JSON logger.
+- [Orbit](https://github.com/orbitjs/orbit) - Composable data framework for ambitious web applications.
+- [panzoom](https://github.com/anvaka/panzoom) - Universal pan and zoom library (DOM, SVG, Custom).
+- [intl-tel-input](https://github.com/jackocnr/intl-tel-input) - JavaScript plugin for entering and validating international telephone numbers.

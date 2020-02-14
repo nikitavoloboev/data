@@ -44,7 +44,7 @@ Here are few more things I liked, design wise.
 
 - [Brandur](https://brandur.org) - Amazingly clean website with an even more [awesome blog](https://brandur.org/interfaces#themware). The TOC and the persistent options on the left are incredible. ([Code](https://github.com/brandur/sorg))
 - [Joel Hooks](https://joelhooks.com/)
-- [Brian Lovin](https://brianlovin.com/)
+- [Brian Lovin](https://brianlovin.com/) ([Code](https://github.com/brianlovin/brian-lovin-next))
 - [Tania Rascia](https://www.taniarascia.com/) ([Code](https://github.com/taniarascia/taniarascia.com))
 - [Surma](https://dassur.ma/)
 - [Alain](https://alain.xyz/)

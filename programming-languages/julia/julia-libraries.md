@@ -46,6 +46,7 @@
 - [Pretty Tables](https://github.com/ronisbr/PrettyTables.jl) - Print data in matrices in a human-readable format.
 - [PyCall.jl](https://github.com/JuliaPy/PyCall.jl) - Package to call Python functions from the Julia language.
 - [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) - Univariate and multivariate optimization in Julia.
+- [StaticArrays](https://github.com/JuliaArrays/StaticArrays.jl) - Statically sized arrays for Julia.
 
 ## Links
 

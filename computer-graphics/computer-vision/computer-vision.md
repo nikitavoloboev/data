@@ -22,3 +22,5 @@
 - [Meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software.
 - [PyTorch3d](https://github.com/facebookresearch/pytorch3d) - Provides efficient, reusable components for 3D Computer Vision research with PyTorch.
 - [Face Recognition](https://github.com/ageitgey/face_recognition) - World's simplest facial recognition api for Python and the command line.
+- [Deep Hough Voting for 3D Object Detection in Point Clouds](https://github.com/facebookresearch/votenet)
+- [Point Cloud Library](https://github.com/PointCloudLibrary/pcl) - Standalone, large scale, open project for 2D/3D image and point cloud processing.

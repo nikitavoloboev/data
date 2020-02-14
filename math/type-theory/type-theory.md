@@ -42,3 +42,5 @@
 - [Hindley-Milner type system/Algorithm W study (2018)](http://boxbase.org/entries/2018/mar/5/hindley-milner/)
 - [HN: So you want to write a type checker](https://news.ycombinator.com/item?id=15583515)
 - [What are the common ways of performing typechecking? (2019)](https://www.reddit.com/r/ProgrammingLanguages/comments/87c5dw/what_are_the_common_ways_of_performing/)
+- [mlsub](https://github.com/stedolan/mlsub) - Prototype type inference engine.
+- [Papers and talks around type inference](http://stedolan.net/research/#mlsub)

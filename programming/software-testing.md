@@ -12,3 +12,4 @@
 - [React Screenshot Test](https://github.com/fwouts/react-screenshot-test) - Dead simple library to screenshot test React components.
 - [Baretest](https://github.com/volument/baretest) - Extremely fast and simple JavaScript test runner.
 - [fast-check](https://github.com/dubzzz/fast-check) - Property based testing framework for JavaScript (like QuickCheck) written in TypeScript.
+- [Puppeteer examples](https://github.com/checkly/puppeteer-examples) - Puppeteer Headless Chrome examples for real life use cases.

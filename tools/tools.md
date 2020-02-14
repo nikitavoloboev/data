@@ -201,6 +201,8 @@ I love software and non software tools that help me in some way. Most tools I us
 - [AssemblyAI](https://www.assemblyai.com/) - Speech-to-Text you can count on.
 - [Changefeed](https://changefeed.app/) - Beautiful changelog for your product in seconds.
 - [dotenv-linter](https://github.com/mgrachev/dotenv-linter) - Linter for .env files. Written in Rust.
+- [rrweb](https://github.com/rrweb-io/rrweb) - Tool for recording and replaying users' interactions on the web.
+- [Solidarity](https://github.com/infinitered/solidarity) - Environment checker for project dependencies across multiple machines.
 
 ## Notes
 

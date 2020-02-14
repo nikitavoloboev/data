@@ -9,6 +9,7 @@
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions.
 - [Lighthouse Auditing](https://github.com/jakejarvis/lighthouse-action) - Integrates Google's helpful Lighthouse audits for webpages — specifically testing for Performance, Accessibility, Best Practices, SEO, and Progressive Web Apps.
 - [merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merge Pull Requests created from a GitHub account.
+- [upload-artifact](https://github.com/actions/upload-artifact) - Uploads artifacts from your workflow.
 
 ## Rust
 
