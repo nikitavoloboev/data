@@ -80,3 +80,4 @@
 - [G-Bert](https://github.com/jshang123/G-Bert) - Pre-training of Graph Augmented Transformers for Medication Recommendation.
 - [Two strange useless things to do with neural nets: a demonstration](https://github.com/howonlee/twostrangethings)
 - [Understanding the Neural Tangent Kernel (2019)](https://rajatvd.github.io/NTK/)
+- [Cutting out the Middle-Man: Training and Evaluating Energy-Based Models without Sampling](https://arxiv.org/abs/2002.05616) ([Tweet](https://twitter.com/wgrathwohl/status/1228144635010322440))

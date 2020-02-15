@@ -4,6 +4,8 @@
 
 - [let me do this](http://letmedothis.com/) - Erotic photography collection. ([Twitter](https://twitter.com/Let_Me_Do_This))
 - [A_magician](https://twitter.com/A_magician75)
+- [ambra](https://twitter.com/ambra00683620)
+- [Elle](https://twitter.com/JSuisElle)
 
 ## Links
 

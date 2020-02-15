@@ -26,3 +26,4 @@
 - [Generative Artistry](https://generativeartistry.com/)
 - [Flow Fields (2020)](https://tylerxhobbs.com/essays/2020/flow-fields)
 - [How to make generative art feel natural (2020)](https://www.generativehut.com/post/how-to-make-generative-art-feel-natural)
+- [Generative Hut](https://www.generativehut.com/) - Home of generative art.

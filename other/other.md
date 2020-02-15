@@ -103,3 +103,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [butler-cli](https://github.com/benawad/butler-cli) - Prettier for File Structures.
+- [matterbridge](https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix and more with REST API.

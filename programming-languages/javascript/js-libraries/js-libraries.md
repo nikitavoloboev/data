@@ -167,3 +167,4 @@
 - [Orbit](https://github.com/orbitjs/orbit) - Composable data framework for ambitious web applications.
 - [panzoom](https://github.com/anvaka/panzoom) - Universal pan and zoom library (DOM, SVG, Custom).
 - [intl-tel-input](https://github.com/jackocnr/intl-tel-input) - JavaScript plugin for entering and validating international telephone numbers.
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
