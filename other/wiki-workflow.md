@@ -45,6 +45,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Andy Sparks](https://github.com/AndySparks/captains-log)
 - [Krzysztof Kowalczyk](https://blog.kowalczyk.info/)
 - [Phil Eaton's notes](http://notes.eatonphil.com/)
+- [Jethro Kuan](https://braindump.jethro.dev/zettels/)
 - [C2](http://wiki.c2.com/)
 - [Full-stack web development notes](https://github.com/8483/notes#readme)
 - [Max Masnick](https://maxmasnick.com/kb/)
@@ -104,3 +105,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind.
 - [My productivity app for the past 12 years has been a single .txt file (2020)](https://jeffhuang.com/productivity_text_file/) ([HN](https://news.ycombinator.com/item?id=22276184)) ([Lobsters](https://lobste.rs/s/ettc1n/my_productivity_app_is_single_txt_file))
 - [Contextualise](https://github.com/brettkromkamp/contextualise) - Simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources.
+- [How To Take Smart Notes With Org-mode (2020)](https://blog.jethro.dev/posts/how_to_take_smart_notes_org/)
