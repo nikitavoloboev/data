@@ -71,3 +71,4 @@
 - [PyTorch Toolbelt](https://github.com/BloodAxe/pytorch-toolbelt) - PyTorch extensions for fast R&D prototyping and Kaggle farming.
 - [Reformer](https://github.com/lucidrains/reformer-pytorch) - Efficient Transformer, in PyTorch.
 - [Which PyTorch-compatible training abstraction libraries do you use and why? (2020)](https://www.reddit.com/r/MachineLearning/comments/esrtxu/d_which_pytorchcompatible_training_abstraction/)
+- [Deep Learning with PyTorch course](https://atcold.github.io/pytorch-Deep-Learning-Minicourse/) ([Code](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse))

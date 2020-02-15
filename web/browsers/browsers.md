@@ -25,3 +25,4 @@
 - [Playwright](https://github.com/microsoft/playwright) - Node library to automate Chromium, Firefox and WebKit browsers.
 - [browser-extension-template](https://github.com/notlmn/browser-extension-template) - Barebones boilerplate with webpack, options handler and auto-publishing.
 - [WebExtension browser API Polyfill](https://github.com/mozilla/webextension-polyfill) - Allows extensions that use the Promise-based WebExtension/BrowserExt API.
+- [Web Store Upload CLI](https://github.com/DrewML/chrome-webstore-upload-cli) - CLI wrapper around the Web Store Upload module.

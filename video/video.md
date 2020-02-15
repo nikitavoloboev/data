@@ -29,3 +29,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg.
 - [IPTV](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.
 - [Olive](https://github.com/olive-editor/olive) - Free non-linear video editor for Windows, macOS, and Linux.
+- [astiencoder](https://github.com/asticode/go-astiencoder) - Open source video encoder written in Go and based on ffmpeg C bindings.

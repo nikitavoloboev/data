@@ -15,3 +15,5 @@
 - [Building a search engine from scratch (2019)](https://0x65.dev/blog/2019-12-06/building-a-search-engine-from-scratch.html) - Whirlwind tour of the big ideas powering our web search.
 - [Typesense](https://github.com/typesense/typesense) - Fast, typo tolerant search engine for building delightful search experiences. ([HN](https://news.ycombinator.com/item?id=22181437))
 - [go-query](https://github.com/rekki/go-query) - Blazingly fast query engine.
+- [Blast](https://github.com/mosuka/blast) - Full text search and indexing server, written in Go, built on top of Bleve.
+- [Riot search](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient full text search engine.

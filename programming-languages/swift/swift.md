@@ -75,3 +75,4 @@
 - [Swift Cookbook](https://github.com/melling/SwiftCookBook)
 - [Point Free](https://www.pointfree.co/) - Video series exploring functional programming and Swift.
 - [Swift Dev](https://theswiftdev.com/) - Weekly Swift articles.
+- [tree-sitter-swift](https://github.com/tree-sitter/tree-sitter-swift) - Swift grammar for tree-sitter.
