@@ -93,3 +93,4 @@
 - [Graph Databases book](https://pdfs.semanticscholar.org/f511/7084ca43e888fb3e17ab0f0e684cced0f8fd.pdf)
 - [Big News In Databases — Fall 2019](https://winand.at/newsletter/2019-12/partiql-microsoft-licenses-volcano-model)
 - [Ask HN: What are some examples of good database schema designs? (2020)](https://news.ycombinator.com/item?id=22324691)
+- [Data flows and security architecture in CockroachDB (2020)](https://dr-knz.net/data-flows-and-security-architecture-in-cockroachdb.html)

@@ -36,6 +36,7 @@
 - [PullToRefresh](https://github.com/noppefoxwolf/PullToRefresh) - Can add refresh control and perform action your SwiftUI list.
 - [Swift Sunburst Diagram](https://github.com/lludo/SwiftSunburstDiagram) - Easily render diagrams given a tree of objects.
 - [ChartView](https://github.com/AppPear/ChartView) - Swift package for displaying charts effortlessly.
+- [URLImage](https://github.com/dmytro-anokhin/url-image) - Asynchronous image loading in SwiftUI. SwiftUI Image view that displays an image downloaded from URL, with cache and filters.
 
 ## macOS
 

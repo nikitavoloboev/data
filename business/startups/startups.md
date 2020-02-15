@@ -125,6 +125,7 @@
 - [The Next Feature Fallacy: The fallacy that the next new feature will suddenly make people use your product](https://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
 - [Notes on Paul Graham essays](https://docs.google.com/document/d/1QBW9b1j_j03ZCIrW5ZdBZEc5a1NrONOdKgEn9HnQxEU/edit)
 - [How I Built a Markdown Editor Earning \$1300/mo Profit — Inkdrop (2020)](https://dev.to/craftzdog/how-i-built-a-markdown-editor-earning-1300-mo-profit-inkdrop-4l6f)
+- [12 Signs You’re Working in a Feature Factory (2016)](https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory) ([HN](https://news.ycombinator.com/item?id=22335738))
 
 ## Images
 

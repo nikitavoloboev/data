@@ -145,3 +145,4 @@
 - [cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [Sealed Rust Update (2020)](https://ferrous-systems.com/blog/sealed-rust-the-plan/)
 - [Cargo bundle](https://github.com/burtonageo/cargo-bundle) - Wrap Rust executables in OS-specific app bundles.
+- [Why Rust, or a Trip Report from My Satori with Rust and Functional Programming (2020)](https://christine.website/blog/why-rust-2020-02-15)

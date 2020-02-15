@@ -207,3 +207,4 @@ Go promotes composition over inheritance.
 - [profefe](https://github.com/profefe/profefe) - Collect profiling data for long-term analysis.
 - [Go support for Mobile devices](https://github.com/golang/mobile)
 - [Go for Cloud (2020)](https://rakyll.org/go-cloud/)
+- [Why are my Go executable files so large?](https://dr-knz.net/go-executable-size-visualization-with-d3.html) - Size visualization of Go executables using D3.
