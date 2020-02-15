@@ -6,15 +6,15 @@ I love solving problems with code. [Here](my-github.md) are all the repositories
 
 ## Thoughts on [Twitter](https://twitter.com/nikitavoloboev)
 
-I share all the things I am up to right now there.
-
-## Blog on [Medium](https://medium.com/@nikitavoloboev)
-
-I write mostly about programming, tools and macOS. [Here](my-articles.md) are all the articles I wrote.
+I share everything I am to now there.
 
 ## Experiences on [Instagram](https://www.instagram.com/nikitavoloboev/)
 
 I share photos and stories from my life there. I also curate a small page of [beautiful pictures](https://www.instagram.com/prettiways/).
+
+## Knowledge in [wiki](../README.md) & [blog](https://medium.com/@nikitavoloboev)
+
+I share [everything I know](everything-I-know.md) in form of this wiki and [articles I wrote](my-articles.md). Can query everything using search on top or with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 
 ## Music on [Spotify](https://open.spotify.com/user/nikitavoloboev) and [SoundCloud](https://soundcloud.com/nikitavoloboev)
 
@@ -38,13 +38,9 @@ I [love macOS](https://github.com/nikitavoloboev/my-mac-os) and automation so I 
 
 I share snippets of code I made with various languages for quick reference.
 
-## Knowledge in [this wiki](../README.md)
-
-I share [everything I know](everything-I-know.md) in form of this wiki here. Can be easily queried with the search at the top and with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
-
 ## [My workflow](my-workflow.md)
 
-I try to make my own workflow in doing things be as _transparent_ as possible.
+I try to make my workflow in doing things be as _transparent_ as possible.
 
 ## [Things I track](tracking.md)
 
