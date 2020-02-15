@@ -56,3 +56,4 @@
 - [Interview advice for software engineers (2020)](https://twitter.com/ASpittel/status/1214979863683174400)
 - [107+ Coding Interview Problems with Detailed Solutions in Go](https://github.com/hoanhan101/algo)
 - [Curation of great Leetcode questions, categorized by topic/concept](https://github.com/fterh/leetcode-curation-topical#readme)
+- [The dystopian world of software engineering interviews (2020)](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) ([HN](https://news.ycombinator.com/item?id=22331804)) ([Lobsters](https://lobste.rs/s/lhijk2/horrifically_dystopian_world_software))

@@ -44,3 +44,4 @@ All active variables can be seen by running `env`.
 - [Writing Safe Shell Scripts (2019)](https://sipb.mit.edu/doc/safe-shell/) ([HN](https://news.ycombinator.com/item?id=22212338))
 - [Curl to shell isn’t so bad (2019)](https://www.arp242.net/curl-to-sh.html)
 - [Partial Tour Through the UNIX Shell](http://www.collyer.net/who/geoff/sh.tour.pdf)
+- [ABS](https://github.com/abs-lang/abs) - Programming language that works best when you're scripting on your terminal.

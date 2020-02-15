@@ -59,3 +59,5 @@
 - [Work-Stealing Queue](https://github.com/tsung-wei-huang/work-stealing-queue)
 - [libff](https://github.com/scipr-lab/libff) - C++ library for finite fields and elliptic curves.
 - [REST client for C++](https://github.com/mrtazz/restclient-cpp)
+- [SDSL](https://github.com/simongog/sdsl-lite) - Succinct Data Structure Library.
+- [Acutest](https://github.com/mity/acutest) - Simple header-only C/C++ unit testing facility.

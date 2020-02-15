@@ -77,3 +77,4 @@
 - [sticker-transformers](https://github.com/stickeritis/sticker-transformers) - Pretrained transformer models for sticker.
 - [pke](https://github.com/boudinfl/pke) - Python Keyphrase Extraction module.
 - [How to train a new language model from scratch using Transformers and Tokenizers (2020)](https://huggingface.co/blog/how-to-train)
+- [Interactive Attention Visualization](https://github.com/SIDN-IAP/attnvis) - Small example of an interactive visualization for attention values as being used by transformer language models like GPT2 and BERT.

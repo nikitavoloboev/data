@@ -144,3 +144,4 @@
 - [cargo-generate](https://github.com/ashleygwilliams/cargo-generate) - Developer tool to help you get up and running quickly with a new Rust project by leveraging a pre-existing git repository as a template.
 - [cargo-make](https://github.com/sagiegurari/cargo-make) - Rust task runner and build tool.
 - [Sealed Rust Update (2020)](https://ferrous-systems.com/blog/sealed-rust-the-plan/)
+- [Cargo bundle](https://github.com/burtonageo/cargo-bundle) - Wrap Rust executables in OS-specific app bundles.

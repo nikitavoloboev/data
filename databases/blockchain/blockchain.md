@@ -17,6 +17,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Iden3](https://iden3.io/) - Decentralized identity management solution.
 - [Gnosis](https://gnosis.io/) - Through blockchain-based, decentralized platforms, we enable the redistribution of resources—from assets to incentives, and information to ideas.
 - [Digital Asset](https://digitalasset.com/) - Automate and synchronize business processes.
+- [Purple Protocol](https://purpleprotocol.org/) - Global Decentralized Ledger Infrastructure.
 
 ## Notes
 

@@ -195,3 +195,4 @@
 - [fastai: A Layered API for Deep Learning (2020)](https://arxiv.org/abs/2002.04688) ([HN](https://news.ycombinator.com/item?id=22324023))
 - [The Deep Learning Compiler: A Comprehensive Survey (2020)](https://arxiv.org/abs/2002.03794)
 - [Perceptrons explained](https://owenshen24.github.io/perceptron/)
+- [A Simple Framework for Contrastive Learning of Visual Representations (2020)](https://arxiv.org/abs/2002.05709) ([Tweet](https://twitter.com/tingchenai/status/1228337240708874241))

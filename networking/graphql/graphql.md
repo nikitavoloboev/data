@@ -68,3 +68,4 @@
 - [GraphQL Tooling, Today & Tomorrow, Sean Grove, Founder @ OneGraph (2019)](https://www.youtube.com/watch?v=gAjQ1mg614o)
 - [Sqoop](https://github.com/solo-io/sqoop) - GraphQL Engine powered by Gloo.
 - [Intro to Postgres + GraphQL with PostGraphile (2020)](https://blog.logrocket.com/intro-to-postgres-graphql-with-postgraphile/)
+- [GraphQL Playground](https://github.com/prisma-labs/graphql-playground) - GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration).
