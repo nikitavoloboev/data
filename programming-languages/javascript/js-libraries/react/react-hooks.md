@@ -33,6 +33,10 @@
 - [usePlacesAutocomplete](https://github.com/wellyshen/use-places-autocomplete) - React hook for Google Maps Places Autocomplete.
 - [react-use-mutable](https://github.com/Marik-D/react-use-mutable) - Tiny hook that keeps your react state up-to-date in callbacks.
 
+## Notes
+
+- [You can pass _anything_ into context, including "subscribable" objects (like RxJS observables, etc.). This means that you can share & subscribe to streams of values that change frequently, without causing unnecessary rerenders.](https://twitter.com/DavidKPiano/status/1228700861024604160)
+
 ## Links
 
 - [Awesome React Hooks Resources](https://github.com/rehooks/awesome-react-hooks#readme)

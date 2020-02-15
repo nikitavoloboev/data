@@ -12,3 +12,4 @@
 - [Max Gallo - Reinventing MobX (2019)](https://www.youtube.com/watch?v=P_WqKZxpX8g)
 - [MobX crash course](https://twitter.com/hexrcs/status/1201593792417144833)
 - [How to Persist Your MobX State (2020)](https://medium.com/@Zwenza/how-to-persist-your-mobx-state-4b48b3834a41)
+- [Learning MobX (Side-Effects)](https://gist.github.com/lostintangent/c3bcd4bff4a13b2e1b3fc4a26332e2b6)
