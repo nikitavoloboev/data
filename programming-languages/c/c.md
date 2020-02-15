@@ -27,3 +27,4 @@
 - [CodeChecker](https://github.com/Ericsson/codechecker) - Analyzer tooling, defect database and viewer extension for the Clang Static Analyzer and Clang Tidy.
 - [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html) ([HN](https://news.ycombinator.com/item?id=21794327))
 - [gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C. ([HN](https://news.ycombinator.com/item?id=21841368))
+- [To become a good C programmer](http://fabiensanglard.net/c/) ([HN](https://news.ycombinator.com/item?id=22325088))
