@@ -25,3 +25,4 @@
 - [Ink](https://buchanae.github.io/ink/) - Framework for 2D graphics in Go, focused on creative coding, and based on OpenGL. ([Code](https://github.com/buchanae/ink))
 - [Generative Artistry](https://generativeartistry.com/)
 - [Flow Fields (2020)](https://tylerxhobbs.com/essays/2020/flow-fields)
+- [How to make generative art feel natural (2020)](https://www.generativehut.com/post/how-to-make-generative-art-feel-natural)
