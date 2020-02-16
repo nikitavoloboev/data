@@ -61,3 +61,4 @@
 - [C++ papers JTC1/SC22/WG21 (2020)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/#mailing2020-01)
 - [C++ Lifetime Profile: How It Plans to Make C++ Code Safer (2020)](https://pspdfkit.com/blog/2020/the-cpp-lifetime-profile/)
 - [Improving Compilation Time of C/C++ Projects (2020)](https://interrupt.memfault.com/blog/improving-compilation-times-c-cpp-projects)
+- [C++ revision changes (2020)](https://www.reddit.com/r/cpp/comments/f47x4o/202002_prague_iso_c_committee_trip_report_c20_is/)

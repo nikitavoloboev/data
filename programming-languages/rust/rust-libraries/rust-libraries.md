@@ -233,6 +233,7 @@
 - [wasmparser](https://github.com/bytecodealliance/wasmparser) - Simple event-driven library for parsing WebAssembly binary files.
 - [RoaringBitmap](https://github.com/Nemo157/roaring-rs) - Roaring bitmap implementation for Rust.
 - [Graphlib](https://github.com/purpleprotocol/graphlib) - Simple but powerful graph library for Rust.
+- [Rowan](https://github.com/rust-analyzer/rowan) - Library for lossless syntax trees, inspired in part by Swift's libsyntax.
 
 ## Cargo Plugins
 
