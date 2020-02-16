@@ -4,6 +4,7 @@
 
 - Don't try to time the market. Time in the market is better than timing the market.
 - If you want the theoretically highest return then get in immediately, because the only guaranteed way to on average increase your return is to be in the market for a longer period of time. If you're worried about volatility then accumulate your position over a week or a month at a set rate.
+- ISA investing is tax-free. Can use [Vanguard](https://www.vanguardinvestor.co.uk/investing-explained/stocks-shares-isa) for it.
 
 ## Links
 

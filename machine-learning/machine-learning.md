@@ -198,3 +198,4 @@
 - [A Simple Framework for Contrastive Learning of Visual Representations (2020)](https://arxiv.org/abs/2002.05709) ([Tweet](https://twitter.com/tingchenai/status/1228337240708874241))
 - [MediaPipe](https://github.com/google/mediapipe) - Cross-platform framework for building multimodal applied machine learning pipelines.
 - [ML courses by Zico Kolter](http://zicokolter.com/courses/)
+- [List of AI Residency Programs](https://github.com/dangkhoasdc/awesome-ai-residency#readme)

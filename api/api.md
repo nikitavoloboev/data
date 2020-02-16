@@ -16,6 +16,7 @@
 - [Google Cloud](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python.
 - [Reddit](https://github.com/feross/reddit) - Simple Reddit API client in JS.
 - [Slack API in Go](https://github.com/nlopes/slack)
+- [Slack API in Go 2](https://github.com/slack-go/slack)
 - [Star Wars API](https://swapi.co/) - Nice for testing.
 - [Google Spreadsheet NodeJS](https://github.com/theoephraim/node-google-spreadsheet) - Most popular Google Sheets API wrapper for JavaScript.
 

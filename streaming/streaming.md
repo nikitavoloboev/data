@@ -23,3 +23,5 @@ Here are tools I use for streaming:
 - [Streamlabs](https://streamlabs.com/)
 - [Streamlabs OBS](https://github.com/stream-labs/streamlabs-obs) - Free and open source streaming software built on OBS and Electron.
 - [Live Streaming Server Setup (2020)](https://christine.website/blog/rtmp-server-setup-2020-01-11)
+- [obs-scene-switcher](https://github.com/muesli/obs-scene-switcher) - Tracks your active window and switches OBS scenes accordingly.
+- [obs-cli](https://github.com/muesli/obs-cli) - Command-line remote control for OBS.

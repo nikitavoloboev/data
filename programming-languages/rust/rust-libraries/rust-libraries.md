@@ -234,6 +234,7 @@
 - [RoaringBitmap](https://github.com/Nemo157/roaring-rs) - Roaring bitmap implementation for Rust.
 - [Graphlib](https://github.com/purpleprotocol/graphlib) - Simple but powerful graph library for Rust.
 - [Rowan](https://github.com/rust-analyzer/rowan) - Library for lossless syntax trees, inspired in part by Swift's libsyntax.
+- [Tera](https://github.com/Keats/tera) - Template engine for Rust based on Jinja2/Django.
 
 ## Cargo Plugins
 

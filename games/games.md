@@ -43,3 +43,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [The First Video Game (2019)](https://www.youtube.com/watch?v=uHQ4WCU1WQc)
 - [MultiMC](https://github.com/MultiMC/MultiMC5) - Custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 - [No-Bullshit Games](https://nobsgames.stavros.io/) - Good, non-annoying, enjoyable games. ([HN](https://news.ycombinator.com/item?id=22063744))
+- [Reverse Proxy + Cache for Minecraft](https://github.com/benjojo/mcod) - Minecraft servers that only run when people are playing on them.

@@ -165,6 +165,7 @@
 - [Predicate.swift](https://github.com/ollieatkinson/Predicate.swift) - Small addition to Swift adding predicate matchers for filtering operators using KeyPaths, it just feels natural.
 - [URLFormat](https://github.com/ilyapuchka/URLFormat) - Type safe url pattern matching without regular expressions and arguments type mismatches based on parser combinators.
 - [EmptyStateKit](https://github.com/alberdev/EmptyStateKit) - Beautiful, animated & fully customizable empty state view. A great way to engage and keep users whenever the view has no content to display.
+- [FluentKit](https://github.com/vapor/fluent-kit) - Swift ORM framework (queries, models, and relations) for building NoSQL and SQL database integrations.
 
 ## Links
 
