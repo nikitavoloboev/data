@@ -17,3 +17,5 @@
 - [Logipedia](https://github.com/Deducteam/Logipedia) - Project that aims to share formal proofs between several systems.
 - [Alloy](http://alloytools.org/about.html) - Language for describing structures and a tool for exploring them.
 - [Software Abstractions book](http://softwareabstractions.org/)
+- [Safe and Efficient, Now](http://okmij.org/ftp/Computation/lightweight-static-guarantees.html)
+- [Experiences moving from tests to strong typing? (2020)](https://lobste.rs/s/olecii/experiences_moving_from_tests_strong)
