@@ -21,6 +21,7 @@
 - [httparse](https://github.com/seanmonstar/httparse) - Push parser for the HTTP 1.x protocol in Rust.
 - [ureq](https://github.com/algesten/ureq) - Minimal request library in rust.
 - [Mendes](https://github.com/djc/mendes) - Rust web toolkit for impatient perfectionists.
+- [Roa](https://github.com/Hexilee/roa) - Async web framework inspired by koajs, lightweight but powerful.
 
 ## WASM
 

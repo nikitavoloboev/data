@@ -25,3 +25,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Bash tricks](https://github.com/SimonBaeumer/bash-tricks#readme) - Simple bash tricks which will make your life easier. ([Reddit](https://www.reddit.com/r/bash/comments/eokp46/some_simple_bash_tipps/))
 - [Anybody can write good bash (with a little effort) (2020)](https://blog.yossarian.net/2020/01/23/Anybody-can-write-good-bash-with-a-little-effort) ([Lobsters](https://lobste.rs/s/y0nx8o/anybody_can_write_good_bash_with_little))
 - [Bash Quick References](https://shellmagic.xyz/)
+- [critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage.
