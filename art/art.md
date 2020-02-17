@@ -157,3 +157,4 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [In a digital world, analog brings something new (2019)](https://www.vanschneider.com/in-a-digital-world-analog-brings-something-new)
 - [Avant Arte](https://avantarte.com/) - Limited edition prints.
 - [Root System Drawings](https://images.wur.nl/digital/collection/coll13/search) ([Tweet](https://twitter.com/M_Elmazlouzi/status/1217559314631680000))
+- [Stream of machine generated art](https://art42.net/) ([HN](https://news.ycombinator.com/item?id=22344254))

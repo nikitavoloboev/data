@@ -42,6 +42,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Next Please](https://nextplease.io/) - Track features your users request and collaborate on your roadmap.
 - [Diagram generation tool](https://www.diagram.codes/) ([HN](https://news.ycombinator.com/item?id=21615978))
 - [Circle](https://circle.so/) - Modern community platform for creators.
+- [Nodebook](https://github.com/netgusto/nodebook) - Multi-Lang Web REPL + CLI Code runner.
 - [Render](https://render.com/) - Unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.
 - [Avatars](https://www.avatars.io/) - Every app needs an avatar. We make it hassle free.
 - [Gravatar](https://en.gravatar.com/) - Attach an image to an email and websites supporting Gravatar will simply pick up the image you specified.

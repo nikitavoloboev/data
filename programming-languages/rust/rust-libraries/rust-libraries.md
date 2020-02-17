@@ -235,6 +235,9 @@
 - [Graphlib](https://github.com/purpleprotocol/graphlib) - Simple but powerful graph library for Rust.
 - [Rowan](https://github.com/rust-analyzer/rowan) - Library for lossless syntax trees, inspired in part by Swift's libsyntax.
 - [Tera](https://github.com/Keats/tera) - Template engine for Rust based on Jinja2/Django.
+- [LibreAuth](https://github.com/breard-r/libreauth) - Collection of tools for user authentication.
+- [BoringAuth](https://github.com/ThinkAlexandria/BoringAuth) - Collection of tools for user authentication.
+- [log](https://github.com/rust-lang/log) - Logging implementation for Rust.
 
 ## Cargo Plugins
 

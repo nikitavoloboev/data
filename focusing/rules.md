@@ -14,6 +14,7 @@
 - Don't compare myself to other people. Surround myself with people that inspire me.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas.
 - Be consistent. Start early. Done > Perfect. Do the simplest thing. Solve core problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
+- Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done.
 - Don't judge anyone. Attempt to see another person's point of view.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Give feedback.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
@@ -79,7 +80,6 @@
 ## Tools
 
 - Only use what is necessary. Experiment with new tools/apps but never keep things I don't need. Applies to everything.
-- Establish good mental models of what I need and what I use as I approach modifying my workflow and tools.
 - Run less software/code. Only run what I use and need. Keep all systems clean & purposeful.
 - Invest in learning/using/building new tools.
 - Refine rules in Timing making sure all time is tracked automatically and correctly into projects.
@@ -247,3 +247,7 @@
 ## Giving talks
 
 - Link to a page where people can get the slide deck + recording of talk given after giving any talk/presentation as a final slide. Can reuse the final slide for all talks.
+
+## Shell
+
+- Name aliases/functions optimizing for balance of character positioning and mnemonics (i.e. `r -> rg`).

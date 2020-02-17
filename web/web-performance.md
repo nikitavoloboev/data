@@ -39,3 +39,4 @@
 - [Meaningful Availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
 - [ReBench](https://github.com/smarr/ReBench) - Execute and Document Benchmarks Reproducibly.
 - [import-size](https://github.com/mweststrate/import-size) - Measure the real, minified, tree-shaken impact of individual imports into your app.
+- [Reflections on software performance (2020)](https://blog.nelhage.com/post/reflections-on-performance/)

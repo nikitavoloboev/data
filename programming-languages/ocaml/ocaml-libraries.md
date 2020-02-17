@@ -30,3 +30,4 @@
 - [QCSTM](https://github.com/jmid/qcstm) - simple state-machine framework for OCaml based on QCheck.
 - [deriving](https://github.com/ocaml-ppx/ppx_deriving) - Library simplifying type-driven code generation on OCaml.
 - [OCamline](https://github.com/chrisnevers/ocamline) - Command line interface for user input.
+- [OCaml Batteries Included](https://github.com/ocaml-batteries-team/batteries-included) - Community-maintained foundation library for your OCaml projects.

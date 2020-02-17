@@ -32,3 +32,4 @@
 - [Falsehoods CS Students (Still) Believe Upon Graduating (2019)](https://www.netmeister.org/blog/cs-falsehoods.html)
 - [Simple, quick cheat sheets on CS concepts](https://github.com/aspittel/coding-cheat-sheets#readme)
 - [Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ([Code](https://github.com/missing-semester/missing-semester))
+- [How These Things Work - A book about CS from first principles (2016)](https://reasonablypolymorphic.com/book/preface) ([HN](https://news.ycombinator.com/item?id=22346349))

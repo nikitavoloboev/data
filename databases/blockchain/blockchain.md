@@ -18,6 +18,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Gnosis](https://gnosis.io/) - Through blockchain-based, decentralized platforms, we enable the redistribution of resources—from assets to incentives, and information to ideas.
 - [Digital Asset](https://digitalasset.com/) - Automate and synchronize business processes.
 - [Purple Protocol](https://purpleprotocol.org/) - Global Decentralized Ledger Infrastructure.
+- [Slingshot](https://github.com/stellar/slingshot) - New blockchain architecture under active development, with a strong focus on scalability, privacy and safety.
 
 ## Notes
 

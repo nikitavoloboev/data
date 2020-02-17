@@ -17,6 +17,7 @@
 - [VCMI](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III.
 - [Hex Engine](https://github.com/suchipi/hex-engine) - Modern 2D game engine for the browser.
 - [RaZ](https://github.com/Razakhel/RaZ) - Modern & multiplatform 3D engine in C++17.
+- [Flex Engine](https://github.com/ajweeks/FlexEngine) - Personal game engine.
 
 ## Links
 
