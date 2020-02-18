@@ -26,13 +26,13 @@
 - [Exercise](../fitness/fitness.md). 30+ min cardio/weights daily.
 - Eat [whole food, plant based nutritious diet](../health/nutrition/nutrition.md).
 - Drink lots of water & tea. Limit coffee. No sugar.
-- Make sure to reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
+- Reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
 - Always have straight posture. Sit properly and upright, don't bend my back/spine.
 - Start every morning with quick workout.
 - Brush teeth, [clean face](../health/skin-care.md) & shower daily.
 - [Sleep](../sleep/sleep.md) fully. Don't limit sleep, ever. If need to wake up early, go to sleep early. Sleep ~8 hours each day.
 - Everything in moderation. Avoid any damaging drugs (i.e. alcohol/opiates). Health above all. Limit [psychedelic](../drugs/psychedelics/psychedelics.md) use.
-- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. Clean up.
+- Lead a [happy](../life/happiness.md), [mindful](../mindfulness/mindfulness.md), stress free life. No worries. No anxieties. Clean up.
 
 ## Focus
 
@@ -55,6 +55,7 @@
 
 - Share [all ideas I have](https://trello.com/b/alB1ryRP). Add relevant description and links to describe the idea clearly.
 - Start building early. Validate ideas. Iterate fast. Ship often. Listen to feedback.
+- Look for patterns to draw inspiration for novel ideas.
 
 ## Learn
 
@@ -71,7 +72,7 @@
 - Be clear in what I want to share. Be concise. [Cut out everything that’s not surprising.](https://sivers.org/d22) Remove noise.
 - Use proper punctuation and capitalize things appropriately. Use simple language.
 - Use imperative tense for briefness when making tasks (2Do, Trello, GitHub issues). Be clear.
-- Remove unnecessary and _filler_ words. Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Say more with less.
+- Remove unnecessary and [filler words](../writing/writing.md#dont-use). Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Say more with less.
 - Hyperlink words/phrases appropriately.
 - Use headings to separate sections in articles/docs.
 - Fix mistakes with spell checker.
@@ -103,8 +104,8 @@
 
 ## Finance
 
-- Mindfully spend money. Make sure not to support practices I don't agree with.
-- When paying online, make sure payments go through.
+- Mindfully spend money. Don't support practices I don't agree with.
+- When paying online, check that payments go through.
 
 ## Solve problems
 
@@ -117,7 +118,7 @@
 - Make code run first. Then make it fast (if necessary).
 - Read docs. Update docs where needed.
 - Function name should describe what it does. Good function names summarize what happens inside.
-- Make sure to copy things I understand. Copy correctly.
+- Only copy things I understand. Copy correctly.
 - Delimit files with spaces using `-` instead of `_`.
 - Use switch cases over long ifs.
 - Open draft PRs for WIP changes, saying what should be added or considered in `Notes for reviewers` or the related issue. Ask for feedback.

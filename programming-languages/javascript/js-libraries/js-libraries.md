@@ -170,3 +170,4 @@
 - [intl-tel-input](https://github.com/jackocnr/intl-tel-input) - JavaScript plugin for entering and validating international telephone numbers.
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [shortid](https://github.com/dylang/shortid) - Short id generator. Url-friendly. Non-predictable. Cluster-compatible.
+- [styx](https://github.com/mariusschulz/styx) - Derives a control flow graph from a JavaScript AST.

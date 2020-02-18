@@ -17,6 +17,7 @@
   - [Rules](focusing/rules.md)
   - [Processes](focusing/processes.md)
   - [Habits](focusing/habits.md)
+  - [Themes](focusing/themes.md)
 - [Minimalism](minimalism/minimalism.md)
 - [Research](research/research.md)
   - [Solving problems](research/solving-problems.md)

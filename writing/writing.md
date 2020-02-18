@@ -78,10 +78,10 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - just
 - everyone knows
 - have made (use made)
+- very
 
 ## Avoid using
 
-- very
 - a bit
 - a little
 - quite

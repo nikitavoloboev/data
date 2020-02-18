@@ -4,7 +4,7 @@
 
 - [Principles for C programming](http://drewdevault.com/2017/03/15/How-I-learned-to-stop-worrying-and-love-C.html)
 - [Understanding pointers](http://drewdevault.com/2016/05/28/Understanding-pointers.html)
-- [c4](https://github.com/rswier/c4) - C in four functions.
+- [c4](https://github.com/rswier/c4) - C in four functions. ([HN](https://news.ycombinator.com/item?id=22353532))
 - [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C#readme)
 - [One year of C](http://floooh.github.io/2018/06/02/one-year-of-c.html)
 - [Building C programs](http://seenaburns.com/building-c-programs/)
