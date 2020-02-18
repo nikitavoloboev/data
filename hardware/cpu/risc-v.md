@@ -14,3 +14,5 @@
 - [Rust on Risc-V (VexRiscv) on SpinalHDL with SymbiFlow on the Hackaday Supercon Badge (2020)](https://craigjb.com/2020/01/22/ecp5/)
 - [vanadinite](https://github.com/repnop/vanadinite) - RISC-V OS written in Rust.
 - [RISC-V Debug Specification](https://github.com/riscv/riscv-debug-spec)
+- [Krste Asanović Videos](https://people.eecs.berkeley.edu/~krste/videos.html)
+- [Krste Asanović Publications](https://people.eecs.berkeley.edu/~krste/publications.html)
