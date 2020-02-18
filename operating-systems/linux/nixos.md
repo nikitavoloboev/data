@@ -21,6 +21,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Silvan Mosberger](https://github.com/Infinisil/system)
 - [Vincent Ambo's depot](https://github.com/tazjin/depot) - Personal monorepo of my services & tools.
 - [Aaron Janse](https://github.com/aaronjanse/dotfiles)
+- [Sridhar Ratnakumar](https://github.com/srid/nix-config)
 
 ## Nix configs (macOS)
 

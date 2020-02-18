@@ -60,3 +60,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Design tips for developers](https://paul.copplest.one/blog/design.html) ([HN](https://news.ycombinator.com/item?id=22126731))
 - [Daily UI](https://www.dailyui.co/) - Series of daily design challenges, design inspiration and neat surprise rewards.
 - [Best Design books I’ve ever read so far (2015)](http://artequalswork.com/posts/best-design-books-so-far/)
+- [On Design Thinking](https://nplusonemag.com/issue-35/reviews/on-design-thinking/) ([HN](https://news.ycombinator.com/item?id=22345760))

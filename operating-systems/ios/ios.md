@@ -92,3 +92,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Plug](https://github.com/s4cha/Plug) - Plug implementation details for a cleaner Architecture on iOS.
 - [Control Room](https://github.com/twostraws/ControlRoom) - macOS app to control the Xcode Simulator.
 - [Straw](https://github.com/maxgoedjen/straw) - Piping macOS app notifications to the simulator.
+- [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - iOS Debugging Tool.
+- [idb](https://github.com/facebook/idb) - Flexible command line interface for automating iOS simulators and devices.

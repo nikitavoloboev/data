@@ -14,3 +14,4 @@
 - [Perkeep](https://github.com/perkeep/perkeep) - Personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [CryFS](https://github.com/cryfs/cryfs) - Cryptographic filesystem for the cloud.
+- [gocat](https://github.com/sumup-oss/gocat) - 21st century, multi-purpose relay from source to destination.

@@ -17,3 +17,4 @@
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) ([Code](https://github.com/QBobWatson/gt-linalg)) ([HN](https://news.ycombinator.com/item?id=21628449))
 - [Numerical Linear Algebra for Programmers book](https://aiprobook.com/numerical-linear-algebra-for-programmers/)
 - [Oxford Linear Algebra II course (2020)](https://courses.maths.ox.ac.uk/node/43829)
+- [No bullshit guide to linear algebra notebooks](https://github.com/minireference/noBSLAnotebooks)

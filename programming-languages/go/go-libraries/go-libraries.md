@@ -337,6 +337,7 @@
 - [simdjson-go](https://github.com/minio/simdjson-go) - Golang port of simdjson: parsing gigabytes of JSON per second.
 - [Collection of compression libraries for Go](https://github.com/dsnet/compress)
 - [monkey](https://github.com/bouk/monkey) - Monkey patching in Go.
+- [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang.
 
 ## Links
 

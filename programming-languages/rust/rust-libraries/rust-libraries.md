@@ -245,6 +245,7 @@
 - [cargo-c](https://github.com/lu-zero/cargo-c) - Cargo C-ABI helpers.
 - [cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - Cargo plugin to help you manage large dependency graphs.
 - [cargo-edit](https://github.com/killercup/cargo-edit) - Utility for managing cargo dependencies from the command line.
+- [cargo-profiler](https://github.com/svenstaro/cargo-profiler) - Cargo subcommand to profile binaries.
 
 ## Links
 

@@ -10,6 +10,7 @@
 - [Lighthouse Auditing](https://github.com/jakejarvis/lighthouse-action) - Integrates Google's helpful Lighthouse audits for webpages — specifically testing for Performance, Accessibility, Best Practices, SEO, and Progressive Web Apps.
 - [merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merge Pull Requests created from a GitHub account.
 - [upload-artifact](https://github.com/actions/upload-artifact) - Uploads artifacts from your workflow.
+- [action-project-manager](https://github.com/jason0x43/action-project-manager) - Relativley simple a GitHub Action that can be used to manage issues in a project.
 
 ## Rust
 

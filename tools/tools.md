@@ -12,7 +12,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Astuto](https://github.com/riggraz/astuto) - Free, open source, self-hosted customer feedback tool.
 - [Pulumi](https://www.pulumi.com/) - Declare cloud infrastructure using real languages.
 - [Shapecatcher](https://shapecatcher.com/) - Helps you find most similar unicode characters.
-- [Tiny Helpers](https://tiny-helpers.dev/) - Collection of single-purpose online tools for web developers.
+- [Tiny Helpers](https://tiny-helpers.dev/) - Collection of single-purpose online tools for web developers. ([Code](https://github.com/stefanjudis/tiny-helpers))
 - [HASH](https://hash.ai/) - Open-source platform for general purpose simulation backed and built by the founders of Kaggle, Stack Overflow, Trello, and Glitch.
 - [Espial](https://github.com/jonschoning/espial) - Open-source, web-based bookmarking server.
 - [Frame.io](https://frame.io/) - Video review and collaboration software.
@@ -204,6 +204,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [dotenv-linter](https://github.com/mgrachev/dotenv-linter) - Linter for .env files. Written in Rust.
 - [rrweb](https://github.com/rrweb-io/rrweb) - Tool for recording and replaying users' interactions on the web.
 - [Solidarity](https://github.com/infinitered/solidarity) - Environment checker for project dependencies across multiple machines.
+- [GDBFrontend](https://github.com/rohanrhu/gdb-frontend) - Easy, flexible and extensionable GUI debugger.
 
 ## Notes
 

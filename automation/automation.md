@@ -9,6 +9,7 @@
 - [Manual Work is a Bug (2018)](https://queue.acm.org/detail.cfm?id=3197520)
 - [Automating Creativity Why? (2018)](https://www.youtube.com/watch?v=6trxEG2wHT8)
 - [Ask HN: What do you automate in your life and work? (2019)](https://news.ycombinator.com/item?id=21373931)
+- [RobotJS](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 
 ## Images
 
