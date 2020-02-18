@@ -1,31 +1,32 @@
 # My [GitHub](https://github.com/nikitavoloboev) repositories
 
-The number between brackets shows the year I created the repo in. Repos with 🌟 are my **favorite**. Repos with 💡 are in an idea stage.
+The number between brackets shows the year I created the repo in.
 
 ## Learn Anything
 
-- [Learn Anything (2017) 🌟](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths.
-- [Alfred Learn Anything (2017) 🌟](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search Learn Anything.
-- [Curated lists (2017) 🌟](https://github.com/learn-anything/curated-lists#readme) - Curated lists on various topics.
+- [Learn Anything (2017)](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths.
+- [Alfred Learn Anything (2017)](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search Learn Anything.
+- [Curated lists (2017)](https://github.com/learn-anything/curated-lists#readme) - Curated lists on various topics.
 
 ## Alfred
 
-- [Awesome Lists (2017) 🌟](https://github.com/nikitavoloboev/alfred-awesome-lists) - Search awesome lists.
-- [Small Workflows (2017) 🌟](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
-- [My Mind (2017) 🌟](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my notes and bookmarks.
-- [Web Searches (2017) 🌟](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website (easily extendable list).
-- [Ask Create Share (2017) 🌟](https://github.com/nikitavoloboev/alfred-ask-create-share) - Create web submissions (Stack Exchange, Forums and more).
+- [Awesome Lists (2017)](https://github.com/nikitavoloboev/alfred-awesome-lists) - Search awesome lists.
+- [Small Workflows (2017)](https://github.com/nikitavoloboev/small-workflows) - Small Alfred workflows I use.
+- [My Mind (2017)](https://github.com/nikitavoloboev/alfred-my-mind) - Search through my notes and bookmarks.
+- [Web Searches (2017)](https://github.com/nikitavoloboev/alfred-web-searches) - Search through any website (easily extendable list).
+- [Ask Create Share (2017)](https://github.com/nikitavoloboev/alfred-ask-create-share) - Create web submissions (Stack Exchange, Forums and more).
 
 ## Personal
 
+- [Code (2020)](https://github.com/nikitavoloboev/code) - Snippets of code.
 - [Build to learn (2019)](https://github.com/nikitavoloboev/build-to-learn) - Attempts at building things for deeper understanding/practice.
 - [CV (2018)](https://github.com/nikitavoloboev/cv) - My CV.
-- [Knowledge (2017) 🌟](https://github.com/nikitavoloboev/knowledge) - Everything I know.
+- [Knowledge (2017)](https://github.com/nikitavoloboev/knowledge) - Everything I know.
 - [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.xyz) - My personal home on the internet.
-- [AMA (2017) 🌟](https://github.com/nikitavoloboev/ama) - Ask me anything.
-- [My iOS (2016) 🌟](https://github.com/nikitavoloboev/my-ios#readme) - List of applications and tools that make my iOS experience even more amazing.
-- [My macOS (2016) 🌟](https://github.com/nikitavoloboev/my-mac-os#readme) - List of applications and tools that make my macOS experience even more amazing.
-- [Dotfiles (2016) 🌟](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix.
+- [AMA (2017)](https://github.com/nikitavoloboev/ama) - Ask me anything.
+- [My iOS (2016)](https://github.com/nikitavoloboev/my-ios#readme) - List of applications and tools that make my iOS experience even more amazing.
+- [My macOS (2016)](https://github.com/nikitavoloboev/my-mac-os#readme) - List of applications and tools that make my macOS experience even more amazing.
+- [Dotfiles (2016)](https://github.com/nikitavoloboev/dotfiles) - Zsh, Karabiner, VS Code, Sublime, Neovim, Nix.
 
 ## Go Libraries
 
@@ -38,9 +39,9 @@ The number between brackets shows the year I created the repo in. Repos with �
 
 ## Curated
 
-- [Find work (2018) 🌟](https://github.com/nikitavoloboev/find-work#readme) - Curated list of websites and resources to find work programming.
-- [Privacy Respecting (2017) 🌟](https://github.com/nikitavoloboev/privacy-respecting#readme) - Curated List of Privacy Respecting Services and Software.
-- [GitHub Stars (2019) 🌟](https://github.com/nikitavoloboev/github-stars#readme) - Curated list of my GitHub stars.
+- [Find work (2018)](https://github.com/nikitavoloboev/find-work#readme) - Curated list of websites and resources to find work programming.
+- [Privacy Respecting (2017)](https://github.com/nikitavoloboev/privacy-respecting#readme) - Curated List of Privacy Respecting Services and Software.
+- [GitHub Stars (2019)](https://github.com/nikitavoloboev/github-stars#readme) - Curated list of my GitHub stars.
 
 ## Themes
 
