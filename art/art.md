@@ -142,6 +142,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Oystein Aspelund](http://oysteinaspelund.com/)
 - [Rachael Talibart](https://www.instagram.com/rachaeltalibart/)
 - [Joshua K. Jackson](https://www.joshkjack.com/)
+- [Andy Lee](http://www.andylee.co/)
 
 ## Notes
 

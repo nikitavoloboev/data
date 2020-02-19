@@ -26,3 +26,4 @@ I use VS Code [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-
 - [VSCode Keyboard Shortcuts For Productivity (2019)](https://www.youtube.com/watch?v=Xa5EU-qAv-I)
 - [VS Code Recipes](https://github.com/microsoft/vscode-recipes) - Collection of recipes for using VS Code with particular technologies.
 - [Snippet Generator](https://snippet-generator.app/) - Generate snippets for VSCode/SublimeText. ([Code](https://github.com/pawelgrzybek/snippet-generator))
+- [VS Code Tips](https://www.youtube.com/channel/UCyYh-eAr74avLwOyPa1dDNg/videos)
