@@ -48,6 +48,8 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Bastien Grivet](https://www.artstation.com/grivetart)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
+- [Svetlana Dmitrieva](https://www.artstation.com/mayadim1926)
+- [Katherine Lam](https://www.behance.net/katherinelam)
 - [Lee Madgwick](https://leemadgwick.co.uk/portfolio/)
 - [Ben Ridgway](https://www.samwoolfe.com/2018/06/the-visionary-art-of-ben-ridgway.html) - DMT inspired.
 - [Oleksij Luchnikov](https://www.artstation.com/luchnikov)
@@ -117,6 +119,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [The Abstract, Single-Stroke Paintings of Daigoro Yonekura (2020)](http://www.spoon-tamago.com/2020/02/07/the-abstract-single-stroke-paintings-of-daigoro-yonekura/)
 - [Old Book Illustrations](https://www.oldbookillustrations.com/)
 - [Old Book Illustrations: An Online Database Lets You Download Thousands of Illustrations from the 19th & 20th Centuries](http://www.openculture.com/2020/02/old-book-illustrations-download.html) ([HN](https://news.ycombinator.com/item?id=22315694))
+- [Free Illustrations of the Natural World](https://www.smithsonianmag.com/smart-news/over-150000-illustrations-wildlife-are-available-online-free-180974167/) ([HN](https://news.ycombinator.com/item?id=22295160))
 
 ## Photography
 

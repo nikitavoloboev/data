@@ -46,3 +46,4 @@
 - [Building your own blog with Gatsby and Novela (2020)](https://www.narative.co/articles/building-your-own-blog-with-gatsby-and-novela)
 - [Start creating your own Gatsby plugins (2020)](https://dev.to/notrab/start-creating-your-own-gatsby-plugins-jc0)
 - [Better Performance using Dynamic Code Splitting in Gatsby with loadable-components (2019)](https://dev.to/itmayziii/better-performance-using-dynamic-code-splitting-in-gatsby-with-loadable-components-6am)
+- [Building a Gatsby Plugin with Rust + Wasm (2020)](https://aless.co/gatsby-wasm-plugin/)

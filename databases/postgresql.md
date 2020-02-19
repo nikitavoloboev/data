@@ -64,3 +64,4 @@
 - [pgDash](https://pgdash.io/) - Comprehensive diagnostic and monitoring solution designed to help you ensure the ongoing health and performance of your PostgreSQL deployment.
 - [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
 - [Transactionally Staged Job Drains in Postgres (2017)](https://brandur.org/job-drain) ([HN](https://news.ycombinator.com/item?id=15294722))
+- [Postgres source code](https://github.com/postgres/postgres)

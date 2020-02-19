@@ -1,5 +1,9 @@
 # [React Native](https://facebook.github.io/react-native/)
 
+## Nice OSS RN apps
+
+- [Rainbow](https://github.com/rainbow-me/rainbow) - Pocket robot for your internet money, powered by Ethereum.
+
 ## Links
 
 - [React Native DOM](https://github.com/vincentriemer/react-native-dom)

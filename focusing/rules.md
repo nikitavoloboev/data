@@ -66,6 +66,7 @@
 - Draw or sketch to distill complex ideas. Think through problems together. Discuss.
 - Watch videos at 2x speed, unless it hurts comprehension or it's entertainment.
 - Listen to podcasts/books at fastest speed I can comprehend. (Podcasts: ~1.8/2x + smart speed, Books: ~1.5/1.75x).
+- Teach what I know in a clear way [aided by visualization, narrative & interactivity](https://youtu.be/kAoQzTcpkyo?t=12588). Learn and teach in public.
 
 ## Write
 

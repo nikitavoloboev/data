@@ -28,3 +28,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ethereum: The Money-Game Landscape (2020)](https://medium.com/@TrustlessState/ethereum-the-money-game-landscape-1b9fdb05f842)
 - [0x](https://0x.org/) - Open protocol that enables the peer-to-peer exchange of assets on the Ethereum blockchain. ([Code](https://github.com/0xProject/0x-monorepo))
 - [0x API](https://github.com/0xProject/0x-api) - HTTP Interface to 0x liquidity and tooling.
+- [Rainbow](https://github.com/rainbow-me/rainbow) - Pocket robot for your internet money, powered by Ethereum.

@@ -95,3 +95,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [CocoaDebug](https://github.com/CocoaDebug/CocoaDebug) - iOS Debugging Tool.
 - [idb](https://github.com/facebook/idb) - Flexible command line interface for automating iOS simulators and devices.
 - [iOS Performance tips you probably didn't know (from an ex-Apple engineer) (2020)](https://www.fadel.io/blog/posts/ios-performance-tips-you-probably-didnt-know/)
+- [iOS 13 Design Guidelines, Templates, and Downloads (2020)](https://learnui.design/blog/ios-design-guidelines-templates.html)
