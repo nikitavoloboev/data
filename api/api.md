@@ -20,6 +20,7 @@
 - [Slack API in Go 2](https://github.com/slack-go/slack)
 - [Star Wars API](https://swapi.co/) - Nice for testing.
 - [Google Spreadsheet NodeJS](https://github.com/theoephraim/node-google-spreadsheet) - Most popular Google Sheets API wrapper for JavaScript.
+- [Airtable JS](https://github.com/Airtable/airtable.js)
 
 ## Links
 

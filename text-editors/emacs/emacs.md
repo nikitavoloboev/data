@@ -40,3 +40,4 @@ Might give it a go sometime.
 - [Emacs: The Editor for the Next Forty Years](https://media.emacsconf.org/2019/26.html) ([HN](https://news.ycombinator.com/item?id=21638197)) ([Lobsters](https://lobste.rs/s/qzu97s/emacs_editor_for_next_forty_years))
 - [Emacs - Productivity Tricks/Hacks](http://www.mycpu.org/emacs-productivity-setup/) ([HN](https://news.ycombinator.com/item?id=22129636))
 - [systemE](https://github.com/a-schaefers/systemE) - Lightweight systemd replacement written in Emacs lisp.
+- [Emacs Lisp Style Guide](https://github.com/bbatsov/emacs-lisp-style-guide#readme)

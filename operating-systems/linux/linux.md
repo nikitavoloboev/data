@@ -84,3 +84,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [Taffybar](https://github.com/taffybar/taffybar) - Gtk based status bar for tiling window managers such as XMonad.
 - [HN: Linux 5.6 is the most exciting kernel in years (2020)](https://news.ycombinator.com/item?id=22284232)
 - [Memory profiler for Linux](https://github.com/koute/memory-profiler)
+- [NEXTSPACE](https://github.com/trunkmaster/nextspace) - Desktop environment that brings a NeXTSTEP look and feel to Linux.

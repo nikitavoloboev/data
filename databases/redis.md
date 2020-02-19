@@ -13,3 +13,4 @@
 - [RediSQL](https://github.com/RedBeardLab/rediSQL) - Fast, in-memory, SQL engine with batteries included.
 - [Medis](https://github.com/luin/medis) - Beautiful, easy-to-use Mac database management application for Redis.
 - [How to write a Redis Client in Python, from Scratch (2020)](https://www.youtube.com/watch?v=C5KkQUKhc_4)
+- [Redis Cluster Proxy](https://github.com/artix75/redis-cluster-proxy) - Proxy for Redis Clusters.

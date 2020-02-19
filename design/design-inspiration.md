@@ -49,6 +49,7 @@ Here are few more things I liked, design wise.
 - [Surma](https://dassur.ma/)
 - [Alain](https://alain.xyz/)
 - [Ryan McGrath](https://rymc.io/)
+- [Brittany Chiang](https://brittanychiang.com/) ([Code](https://github.com/bchiang7/v4))
 - [Paul Stamatiou](https://paulstamatiou.com/)
 - [Artem Sapegin](https://sapegin.me/)
 - [Tobias van Schneider](https://www.vanschneider.com) - Has nice [now page](https://www.vanschneider.com/now).

@@ -245,6 +245,7 @@
   - [C++](programming-languages/cpp/cpp.md)
     - [C++ libraries](programming-languages/cpp/cpp-libraries.md)
   - [Objective C](programming-languages/objc/objc.md)
+    - [Objective C libraries](programming-languages/objc/objc-libraries.md)
   - [Lua](programming-languages/lua.md)
   - [Ruby](programming-languages/ruby/ruby.md)
     - [Rails](programming-languages/ruby/rails.md)

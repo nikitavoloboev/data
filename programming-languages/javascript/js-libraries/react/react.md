@@ -111,3 +111,4 @@
 - [iPod.js](https://github.com/tvillarete/ipod-classic-js) - iPod Classic built using React Hooks, TypeScript, & GraphQL.
 - [Undux](https://github.com/bcherny/undux) - Simple & typesafe alternative to Flux and Redux.
 - [Concurrent Mode issues](https://concurrent-mode-oops.netlify.com/0)
+- [React Diff Viewer](https://praneshravi.in/react-diff-viewer/) - Simple and beautiful text diff viewer made with Diff and React. ([Code](https://github.com/praneshr/react-diff-viewer))

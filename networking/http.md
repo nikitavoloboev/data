@@ -37,3 +37,4 @@
 - [wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool.
 - [PollyJS](https://netflix.github.io/pollyjs/#/) - Record, replay, and stub HTTP interactions. ([Code](https://github.com/Netflix/pollyjs))
 - [Broxy](https://github.com/rhaidiz/broxy) - HTTP/HTTPS intercept proxy written in Go.
+- [Smokescreen](https://github.com/stripe/smokescreen) - Simple HTTP proxy that fogs over naughty URLs.

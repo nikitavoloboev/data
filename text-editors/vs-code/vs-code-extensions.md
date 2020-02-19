@@ -276,6 +276,7 @@ Below is a list of extensions I use.
 
 ## Themes
 
+- [Overnight](https://github.com/cevr/overnight) - Soft vibrant VSCode theme.
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
 - [Alabaster](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster)
 - [Monokai Pro](https://www.monokai.pro/vscode/)

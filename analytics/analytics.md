@@ -26,3 +26,4 @@ For user facing products, well implemented analytics will let you see how to opt
 - [What is your preferred web traffic analytics platform? (2020)](https://lobste.rs/s/gzkue1/what_is_your_preferred_web_traffic)
 - [blackrock](https://github.com/rekki/blackrock) - Events & Analytics.
 - [RudderStack](https://rudderstack.com/) - Platform for collecting, storing and routing customer event data to dozens of tools. ([Code](https://github.com/rudderlabs/rudder-server))
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Open-source column-oriented database management system that allows generating analytical data reports in real time.
