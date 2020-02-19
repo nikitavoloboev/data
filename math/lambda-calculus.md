@@ -26,3 +26,4 @@ Is logical theory of computable functions.
 - [pLam](https://github.com/slovnicki/pLam) - Interpreter for learning and exploring pure λ-calculus.
 - [Y Combinator for Non-programmers: A Wild Introduction to Computer Science](https://ycombinator.chibicode.com/) ([Code](https://github.com/chibicode/ycombinator))
 - [Notes on lambda calculus](http://www-cs-students.stanford.edu/~blynn/lambda/)
+- [λ-calculus interpreter in less than 300 lines of JS](https://tadeuzagallo.com/blog/writing-a-lambda-calculus-interpreter-in-javascript/)
