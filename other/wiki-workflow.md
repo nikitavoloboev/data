@@ -107,3 +107,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Contextualise](https://github.com/brettkromkamp/contextualise) - Simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources.
 - [How To Take Smart Notes With Org-mode (2020)](https://blog.jethro.dev/posts/how_to_take_smart_notes_org/) ([HN](https://news.ycombinator.com/item?id=22337681))
 - [Copernic](http://copernic.space/) - Aims to make practical cooperation around the creation, publication, storage, re-use and maintenance of knowledge bases, and in general structured data that are bigger than memory.
+- [Zettelkasten Method](https://zettelkasten.de/posts/overview/)

@@ -199,3 +199,4 @@
 - [MediaPipe](https://github.com/google/mediapipe) - Cross-platform framework for building multimodal applied machine learning pipelines.
 - [ML courses by Zico Kolter](http://zicokolter.com/courses/)
 - [List of AI Residency Programs](https://github.com/dangkhoasdc/awesome-ai-residency#readme)
+- [MIT Introduction to Deep Learning course (2020)](http://introtodeeplearning.com/)

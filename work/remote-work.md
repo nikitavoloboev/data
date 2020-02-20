@@ -28,3 +28,4 @@
 - [Remote](https://remote.com/) - Remote jobs for anyone, anywhere.
 - [Firstbase](https://www.firstbasehq.com/) - All-in-one provisioning for companies to set up their remote workers at home.
 - [Open Offices Inhibit Remote Work (2020)](https://blog.eldrid.ge/2020/02/18/open-offices-inhibiut-remote-work/) ([Lobsters](https://lobste.rs/s/lfwdz8/open_offices_inhibit_remote_work))
+- [Why fully distributed is by far the best way to run a software team (2020)](https://medium.com/red-planet-labs/why-fully-distributed-is-by-far-the-best-way-to-run-a-software-team-d99abfc0c700)
