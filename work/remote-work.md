@@ -27,3 +27,4 @@
 - [The remote worker’s guide to self-care (2019)](https://blog.astropad.com/remote-worker-self-care/)
 - [Remote](https://remote.com/) - Remote jobs for anyone, anywhere.
 - [Firstbase](https://www.firstbasehq.com/) - All-in-one provisioning for companies to set up their remote workers at home.
+- [Open Offices Inhibit Remote Work (2020)](https://blog.eldrid.ge/2020/02/18/open-offices-inhibiut-remote-work/) ([Lobsters](https://lobste.rs/s/lfwdz8/open_offices_inhibit_remote_work))

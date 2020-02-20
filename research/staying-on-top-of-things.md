@@ -78,6 +78,7 @@ And these Discord servers:
 - [Nature](https://www.nature.com/)
 - [Atlas Obscura](https://www.atlasobscura.com/)
 - [Logic Magazine](https://logicmag.io/)
+- [Glimmer](https://glitch.com/glimmer/)
 
 ### Other
 

@@ -128,3 +128,4 @@
 - [Genetic programming is waiting for better tools - Rakhim Davletkaliyev (2019)](https://www.youtube.com/watch?v=Z5f1SDv-SCk)
 - [Computers can be understood (2020)](https://blog.nelhage.com/post/computers-can-be-understood/)
 - [Notes on structured programming - Edsger Dijkstra (1970)](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF)
+- [Floating Point Visually Explained (2017)](http://fabiensanglard.net/floating_point_visually_explained/)

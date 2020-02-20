@@ -62,6 +62,7 @@
 - [The Implementation of Functional Programming Languages book (1987)](https://www.microsoft.com/en-us/research/uploads/prod/1987/01/slpj-book-1987-r90.pdf)
 - [Functional programming great resources](https://github.com/mmenestret/fp-resources#readme)
 - [On the Expressive Power of Indexed Applicative and Monadic Structures (2018)](https://oxij.org/thesis/PhD/)
+- [Functional Programming for Domain-Specific Languages](http://www.cs.ox.ac.uk/jeremy.gibbons/publications/fp4dsls.pdf)
 
 ## Images
 

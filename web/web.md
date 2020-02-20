@@ -60,3 +60,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [berserk](https://github.com/jackdoe/berserk) - Personal website + shell.
 - [Web packaging format](https://github.com/WICG/webpackage)
 - [Statping](https://github.com/hunterlong/statping) - Status Page & Monitoring Server.
+- [7 Principles of Rich Web Applications (2014)](https://rauchg.com/2014/7-principles-of-rich-web-applications)

@@ -42,3 +42,4 @@
 - [Accelerated Methods for Deep Reinforcement Learning](https://github.com/astooke/accel_rl)
 - [Programmatically interpretable reinforcement learning (2020)](https://blog.acolyer.org/2020/01/15/programmatically-interpretable-reinforcement-learning/)
 - [Curriculum for Reinforcement Learning (2020)](https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html)
+- [RLax](https://github.com/deepmind/rlax) - Library built on top of JAX that exposes useful building blocks for implementing reinforcement learning agents.

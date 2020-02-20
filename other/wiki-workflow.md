@@ -106,3 +106,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [My productivity app for the past 12 years has been a single .txt file (2020)](https://jeffhuang.com/productivity_text_file/) ([HN](https://news.ycombinator.com/item?id=22276184)) ([Lobsters](https://lobste.rs/s/ettc1n/my_productivity_app_is_single_txt_file))
 - [Contextualise](https://github.com/brettkromkamp/contextualise) - Simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources.
 - [How To Take Smart Notes With Org-mode (2020)](https://blog.jethro.dev/posts/how_to_take_smart_notes_org/) ([HN](https://news.ycombinator.com/item?id=22337681))
+- [Copernic](http://copernic.space/) - Aims to make practical cooperation around the creation, publication, storage, re-use and maintenance of knowledge bases, and in general structured data that are bigger than memory.

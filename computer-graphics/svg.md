@@ -12,3 +12,4 @@
 - [Where are all the animated SVGs? (2020)](https://www.getmotion.io/blog/where-are-all-the-animated-svgs/)
 - [Motion](https://www.getmotion.io/) - Free, simple animated SVG editor. ([Article](https://www.getmotion.io/blog/introducing-motion/))
 - [Svgbob Editor](https://ivanceras.github.io/svgbob-editor/) - Convert your ascii diagram scribbles into happy little SVG.
+- [Vecta](https://vecta.io/) - Powerful, online SVG editor for teams.

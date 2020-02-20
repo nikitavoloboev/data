@@ -78,3 +78,4 @@
 - [pke](https://github.com/boudinfl/pke) - Python Keyphrase Extraction module.
 - [How to train a new language model from scratch using Transformers and Tokenizers (2020)](https://huggingface.co/blog/how-to-train)
 - [Interactive Attention Visualization](https://github.com/SIDN-IAP/attnvis) - Small example of an interactive visualization for attention values as being used by transformer language models like GPT2 and BERT.
+- [The Annotated GPT-2 (2020)](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
