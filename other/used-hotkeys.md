@@ -61,6 +61,8 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - c - Sleep
 - v - Selection -> HN
 - b - Switch to Desktop 2
+- n - Vimac Hinting
+- m - Vimac Scroll
 
 ## CMD+OPT+SHIFT
 

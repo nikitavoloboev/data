@@ -60,3 +60,4 @@
 - [Debugging Through WebAssembly Is Impossible (2020)](https://erikmcclure.com/blog/debugging-through-webassembly-is-impossible/) ([Lobsters](https://lobste.rs/s/lkftpa/debugging_through_webassembly_is))
 - [Wasm3](https://github.com/wasm3/wasm3) - High performance WebAssembly interpreter written in C.
 - [Fast, parallel applications with WebAssembly SIMD (2020)](https://v8.dev/features/simd)
+- [Evolving Wasm into a proper misnomer: Andreas Rossberg (2019)](https://www.youtube.com/watch?v=pq-Pa2Fj4nE&t=40s)

@@ -17,3 +17,4 @@
 - [Charter Cities Reading List](https://www.chartercitiesinstitute.org/reading)
 - [TWA hotel designed by Eero Saarinen](https://twitter.com/karrisaarinen/status/1216773664823300097)
 - [Architectural Afterlife](https://architecturalafterlife.com/)
+- [Loer Architecture](https://loerarchitecten.com/)
