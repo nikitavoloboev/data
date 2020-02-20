@@ -62,3 +62,4 @@
 - [SDSL](https://github.com/simongog/sdsl-lite) - Succinct Data Structure Library.
 - [Acutest](https://github.com/mity/acutest) - Simple header-only C/C++ unit testing facility.
 - [Boost Multiprecision Library](https://github.com/boostorg/multiprecision) - Provides integer, rational, floating-point, complex and interval number types in C++ that have more range and precision than C++'s ordinary built-in types.
+- [Sentry SDK for C/C++](https://github.com/getsentry/sentry-native)

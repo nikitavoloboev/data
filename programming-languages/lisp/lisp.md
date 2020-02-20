@@ -36,3 +36,4 @@
 - [LISP programmer's manual (1960)](http://history.siam.org/sup/Fox_1960_LISP.pdf)
 - [femto](https://github.com/peeley/femto) - Minimal Lisp interpreter in Haskell.
 - [Rhine](https://github.com/artagnon/rhine-ml) - Clojure-inspired Lisp on LLVM JIT featuring variable-length untyped arrays, first-class functions, closures, and macros.
+- [arpilisp](https://github.com/marcpaq/arpilisp) - Lisp interpreter for Raspberry Pi implemented in a single ARM assembly file.

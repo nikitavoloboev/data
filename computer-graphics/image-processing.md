@@ -7,3 +7,4 @@
 - [Tiler](https://github.com/nuno-faria/tiler) - Tool to create an image using all kinds of other smaller images (tiles).
 - [Fiji](https://fiji.sc/) - Image processing package — a "batteries-included" distribution of ImageJ, bundling many plugins which facilitate scientific image analysis.
 - [Create Social Images](https://createsocialimages.com/) ([Code](https://github.com/pshihn/csi))
+- [BlurHash](https://github.com/woltapp/blurhash) - Compact representation of a placeholder for an image.

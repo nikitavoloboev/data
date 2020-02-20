@@ -38,6 +38,7 @@
 - [Swift Sunburst Diagram](https://github.com/lludo/SwiftSunburstDiagram) - Easily render diagrams given a tree of objects.
 - [ChartView](https://github.com/AppPear/ChartView) - Swift package for displaying charts effortlessly.
 - [URLImage](https://github.com/dmytro-anokhin/url-image) - Asynchronous image loading in SwiftUI. SwiftUI Image view that displays an image downloaded from URL, with cache and filters.
+- [SwiftUI Router](https://github.com/frzi/SwiftUIRouter) - Routing in SwiftUI.
 
 ## macOS
 
@@ -168,6 +169,10 @@
 - [FluentKit](https://github.com/vapor/fluent-kit) - Swift ORM framework (queries, models, and relations) for building NoSQL and SQL database integrations.
 - [SwiftCssParser](https://github.com/100mango/SwiftCssParser) - Powerful , Extensible CSS Parser written in pure Swift.
 - [Standard Library Preview](https://github.com/apple/swift-standard-library-preview) - Provides access to new functionality that has been accepted into the standard library through the Swift Evolution process.
+- [KeyedCodable](https://github.com/dgrzeszczak/KeyedCodable) - Addition to swift's Codable and it's designed for automatic nested key mappings.
+- [Regex](https://github.com/kean/Regex) - Open source regex engine.
+- [Future](https://github.com/kean/Future) - Streamlined Future<Value, Error> implementation.
+- [Nuke](https://github.com/kean/Nuke) - Powerful image loading and caching system.
 
 ## Links
 

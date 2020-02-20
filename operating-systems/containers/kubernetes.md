@@ -152,3 +152,4 @@
 - [Kubernetes Dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters.
 - [Multi-tenancy](https://github.com/kubernetes-sigs/multi-tenancy) - Working place for multi-tenancy related proposals and prototypes.
 - [Kubevious](https://github.com/kubevious/kubevious) - Application centric Kubernetes UI.
+- [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.

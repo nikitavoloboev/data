@@ -173,3 +173,4 @@
 - [styx](https://github.com/mariusschulz/styx) - Derives a control flow graph from a JavaScript AST.
 - [Crossfilter](https://github.com/crossfilter/crossfilter) - JavaScript library for exploring large multivariate datasets in the browser.
 - [SiriWave](https://github.com/kopiro/siriwave) - Apple Siri wave-form replicated in a JS library.
+- [Shades](https://github.com/jamesmcnamara/shades) - Lodash-inspired lens-like library for Javascript.

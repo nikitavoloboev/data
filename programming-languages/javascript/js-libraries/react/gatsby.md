@@ -47,3 +47,4 @@
 - [Start creating your own Gatsby plugins (2020)](https://dev.to/notrab/start-creating-your-own-gatsby-plugins-jc0)
 - [Better Performance using Dynamic Code Splitting in Gatsby with loadable-components (2019)](https://dev.to/itmayziii/better-performance-using-dynamic-code-splitting-in-gatsby-with-loadable-components-6am)
 - [Building a Gatsby Plugin with Rust + Wasm (2020)](https://aless.co/gatsby-wasm-plugin/)
+- [Gatsby Package Manager](https://github.com/ahmadawais/gatsby-package-manager) - Helps you install a Gatsby package with all of its dependencies.

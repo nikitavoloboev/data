@@ -81,6 +81,7 @@
 - [dts-gen](https://github.com/microsoft/dts-gen) - TypeScript Definition File Generator.
 - [Nimbus](https://github.com/airbnb/nimbus) - Centralized CLI for JavaScript and TypeScript developer tools.
 - [Naive approach to functional programming using TypeScript](https://github.com/alohawav/naive_functional_programming)
+- [Meta-Typing](https://github.com/ronami/meta-typing) - Various functions and algorithms implemented purely with TypeScript's type system.
 
 ## Images
 
