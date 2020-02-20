@@ -137,3 +137,4 @@
 - [Renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [The ECMAScript Ecosystem (2020)](https://dev.to/laurieontech/the-ecmascript-ecosystem-2e13)
 - [esbuild](https://github.com/evanw/esbuild/) - Extremely fast JavaScript bundler and minifier written in Go. ([HN](https://news.ycombinator.com/item?id=22335707))
+- [JavaScript: Understanding the Weird Parts course (2015)](https://www.udemy.com/course/understand-javascript/)

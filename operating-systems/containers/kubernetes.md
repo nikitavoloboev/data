@@ -151,3 +151,4 @@
 - [Octant](https://github.com/vmware-tanzu/octant) - Web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 - [Kubernetes Dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters.
 - [Multi-tenancy](https://github.com/kubernetes-sigs/multi-tenancy) - Working place for multi-tenancy related proposals and prototypes.
+- [Kubevious](https://github.com/kubevious/kubevious) - Application centric Kubernetes UI.

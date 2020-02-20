@@ -76,3 +76,5 @@
 - [Point Free](https://www.pointfree.co/) - Video series exploring functional programming and Swift.
 - [Swift Dev](https://theswiftdev.com/) - Weekly Swift articles.
 - [tree-sitter-swift](https://github.com/tree-sitter/tree-sitter-swift) - Swift grammar for tree-sitter.
+- [[Manifesto] Interoperability between Swift and C++ (2020)](https://forums.swift.org/t/manifesto-interoperability-between-swift-and-c/33874)
+- [Swift Evolution](https://apple.github.io/swift-evolution/) - Proposals for changes and user-visible enhancements to Swift. ([Code](https://github.com/apple/swift-evolution))

@@ -29,6 +29,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Tinkle](https://github.com/pqrs-org/Tinkle/) - Appends a visual effect for the focused window changes.
 - [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS.
 - [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards on macOS.
+- [Vimac](https://github.com/dexterleng/vimac) - Vimium for macOS.
 
 ## Other interesting apps
 

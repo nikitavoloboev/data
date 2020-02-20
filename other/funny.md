@@ -25,3 +25,4 @@ Some things I found funny.
 - [Typical LSD posts](https://www.reddit.com/r/LSD/comments/en1jw9/found_this_gem_on_tiktok_and_thought_i_would/)
 - [science diagrams that look like shitposts](https://twitter.com/FizzyKai_/status/1217550609160773633)
 - [Hitler uses Kubernetes (2020)](https://www.youtube.com/watch?v=9wvEwPLcLcA)
+- [how we write/review code in big tech companies](https://www.youtube.com/watch?v=rR4n-0KYeKQ)

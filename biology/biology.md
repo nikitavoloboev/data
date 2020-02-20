@@ -25,3 +25,4 @@
 - [Accelerating Photosynthesis](http://rubyplants.com/) ([HN](https://news.ycombinator.com/item?id=21999208))
 - [The Algorithmic Beauty of Plants (1990)](http://algorithmicbotany.org/papers/abop/abop.pdf)
 - [the Node](https://thenode.biologists.com/) - Community site for and by developmental biologists.
+- [Quantum Biology - How Plants Use Quantum Mechanics (2020)](https://www.youtube.com/watch?v=Zc9Xk99gCr4)

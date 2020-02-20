@@ -17,3 +17,4 @@
 - [Approximate Normalization for Gradual Dependent Types (2019)](https://www.youtube.com/watch?v=e4FeQCabuOQ)
 - [A Dependently Typed Language (2019)](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/dependently-typed-language/)
 - [Pi-Forall language](https://github.com/sweirich/pi-forall) - Demo implementation of a simple dependently-typed language.
+- [Dependent types, Vitaly Bragilevsky (2020)](https://www.youtube.com/watch?v=ohG-PRwOorA)

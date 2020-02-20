@@ -25,7 +25,8 @@
 - [A Beginner's Guide to RC Psychedelics](https://www.reddit.com/r/researchchemicals/comments/7qep7b/a_beginners_guide_to_rc_psychedelics/)
 - [Ban RC in Netherlands, what substances you are going to stock up? (2019)](https://www.reddit.com/r/researchchemicals/comments/bhxh6o/ban_rc_in_netherlands_what_substances_you_are/)
 - [What is your favorite RC and why? (2019)](https://www.reddit.com/r/researchchemicals/comments/cf4431/what_is_your_favorite_rc_and_why/)
-- [RareChems](https://rarechems.com/) - European-based supplier of research chemicals.
+- [RareChems](https://rarechems.com/) - EU based supplier of research chemicals.
+- [RealChems](https://realchems.com/) - EU based supplier of research chemicals.
 - [Chemical Collective](https://chemical-collective.com/) - US-based supplier of research chemicals.
 - [RC FAQ & Resources](https://www.reddit.com/r/researchchemicals/comments/dchpr0/faq_resources/)
 - [What is your favorite RC and why? (2019)](https://www.reddit.com/r/researchchemicals/comments/ec7qwt/what_is_your_favorite_rc_and_why/)

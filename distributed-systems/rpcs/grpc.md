@@ -15,3 +15,4 @@
 - [grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC.
 - [Seamless Cloud-Native Apps with gRPC-Web and Istio (2018)](https://venilnoronha.io/seamless-cloud-native-apps-with-grpc-web-and-istio)
 - [gRPCurl](https://github.com/fullstorydev/grpcurl) - Command-line tool that lets you interact with gRPC servers.
+- [Evans](https://github.com/ktr0731/evans) - More expressive universal gRPC client.
