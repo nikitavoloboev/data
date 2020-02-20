@@ -104,3 +104,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [RIBs](https://github.com/uber/RIBs) - Uber's cross-platform mobile architecture framework.
 - [butler-cli](https://github.com/benawad/butler-cli) - Prettier for File Structures.
 - [matterbridge](https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix and more with REST API.
+- [The Law of Conservation of Complexity (1984)](http://nomodes.com/Larry_Tesler_Consulting/Complexity_Law.html) ([HN](https://news.ycombinator.com/item?id=22375331))

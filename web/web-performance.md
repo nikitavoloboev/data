@@ -41,3 +41,4 @@
 - [import-size](https://github.com/mweststrate/import-size) - Measure the real, minified, tree-shaken impact of individual imports into your app.
 - [Reflections on software performance (2020)](https://blog.nelhage.com/post/reflections-on-performance/)
 - [Fixing memory leaks in web applications (2019)](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
+- [In-Browser Performance Linting With Feature Policies (2020)](https://timkadlec.com/remembers/2020-02-20-in-browser-performance-linting-with-feature-policies/)

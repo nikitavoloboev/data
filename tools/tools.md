@@ -228,3 +228,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Product Hunt Golden Kitty Awards 2019](https://www.producthunt.com/golden-kitty-awards-2019)
 - [No Code List](https://nocodelist.co/)
 - [All The Apps That I Pay For (2020)](https://daily.patwalls.co/apps-services-that-i-pay-for) ([HN](https://news.ycombinator.com/item?id=22298247))
+- [My Favorite Tools (2020)](https://gedd.ski/post/favorite-tools/)

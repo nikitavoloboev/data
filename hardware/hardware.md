@@ -10,8 +10,6 @@
 - [Awesome Firmware Security](https://github.com/PreOS-Security/awesome-firmware-security#readme)
 - [FindChips](https://www.findchips.com/) ([HN](https://news.ycombinator.com/item?id=19110698)) - Get instant insight into any electronic component.
 - [Hackster](https://www.hackster.io/) - World's largest network for hardware & software developers.
-- [Raspberry Pi 4](https://www.raspberrypi.org/blog/raspberry-pi-4-on-sale-now-from-35/) ([HN](https://news.ycombinator.com/item?id=20260863))
-- [Ask HN: What do you do with your Raspberry Pi? (2019)](https://news.ycombinator.com/item?id=20264911)
 - [The Essential Guide To Electronics in Shenzhen (2016)](https://bunniefoo.com/bunnie/essential/essential-guide-shenzhen-web.pdf) ([HN](https://news.ycombinator.com/item?id=21817656))
 - [Adventures in reinventing interfaces / Suz Hinton (2019)](https://www.youtube.com/watch?v=AAFIJaxuHeg&list=PLXmT1r4krsTrR6khetJSVQqulyFbxmZNG)
 - [Learning hardware programming as a software engineer (2019)](https://blog.athrunen.dev/learning-hardware-programming-as-a-software-engineer/) ([HN](https://news.ycombinator.com/item?id=21878263))
@@ -22,5 +20,4 @@
 - [CRAY-1 Computer System: Hardware Reference Manual (1977)](http://www.ed-thelen.org/comp-hist/CRAY-1-HardRefMan/CRAY-1-HRM.html)
 - [Cerebras CS-1](https://www.cerebras.net/product/) - Built from the ground up to accelerate deep learning in the data center.
 - [MIT 6.004: Computation Structures course](https://6004.mit.edu/web/fall19/resources/lectures) ([HN](https://news.ycombinator.com/item?id=22056567))
-- [Lobsters: Use case for Raspberry Pis? (2020)](https://lobste.rs/s/eld6l5/use_case_for_raspberry_pis)
 - [Coding for SSDs](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
