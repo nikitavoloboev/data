@@ -20,6 +20,7 @@
 - [Survey](https://github.com/AlecAivazis/survey) - Library for building interactive prompts.
 - [GOCUI](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - [mitchellh/cli](https://github.com/mitchellh/cli) - Go library for implementing command-line interfaces.
+- [Spinner](https://github.com/briandowns/spinner) - Simple package to add a spinner / progress indicator to any terminal application.
 
 ## Test
 

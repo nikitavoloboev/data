@@ -126,3 +126,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [CFP Advice](https://www.swyx.io/writing/cfp-advice/) ([Tweet](https://twitter.com/swyx/status/1218650128585719813))
 - [Set of standard document templates](https://github.com/kbariotis/templates)
 - [Design: The Key to Writing (and Advising) a One-Draft Thesis](https://www.cs.tufts.edu/~nr/cs257/archive/john-carlis/one-draft.pdf)
+- [How to Write Usefully (2020)](http://paulgraham.com/useful.html) ([HN](https://news.ycombinator.com/item?id=22381861))

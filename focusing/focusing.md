@@ -1,6 +1,6 @@
 # Focusing
 
-I define a set of [rules](rules.md) and [processes](processes.md) I set for myself to follow together with my [6 life habits](habits.md). The rules act as a framework for how I lead my life and [keep my focus](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html).
+I define a set of [rules](rules.md), [processes](processes.md) & [themes](themes.md) & [habits](habits.md) I set for myself to follow. They all act as a framework for how I lead my life and [keep my focus](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html).
 
 ## Focusing on what's important
 
