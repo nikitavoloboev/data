@@ -5,6 +5,7 @@
 - [ReWeb](https://github.com/yawaramin/re-web) - Experimental web framework for OCaml focusing on developer ergonomics.
 - [Morph](https://github.com/reason-native-web/morph) - Webframework for Reason and OCaml.
 - [Naboris](https://github.com/shawn-mcginty/naboris) - Simple, fast, minimalist web framework for OCaml/ReasonML.
+- [Reprocessing](https://github.com/Schmavery/reprocessing) - ReasonML graphics library inspired by Processing.
 
 ## Other
 

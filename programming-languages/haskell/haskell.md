@@ -121,3 +121,4 @@
 - [Setting up a Haskell development environment in minutes in Visual Studio Code (2020)](https://hmemcpy.com/2020/02/setting-up-a-haskell-development-environment-in-minutes-in-vscode/) ([Lobsters](https://lobste.rs/s/b1tltx/setting_up_haskell_development))
 - [Lessons learned from writing ShellCheck, GitHub’s now most starred Haskell project (2020)](https://www.vidarholen.net/contents/blog/?p=859) ([HN](https://news.ycombinator.com/item?id=22279585))
 - [What I wish I knew when learning Haskell](http://dev.stephendiehl.com/hask/) ([Code](https://github.com/sdiehl/wiwinwlh))
+- [Awesome Haskell Deep Learning](https://github.com/austinvhuang/awesome-haskell-deep-learning#readme)

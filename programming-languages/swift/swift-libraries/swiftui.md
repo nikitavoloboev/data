@@ -42,3 +42,4 @@
 - [SwiftUI for Mac (2019)](https://troz.net/post/2019/swiftui-for-mac-1/)
 - [SwiftUI basic Shape operations (2020)](https://sarunw.com/posts/swiftui-basic-shape-operations/)
 - [Data in SwiftUI: blog series (2020)](https://sarunw.com/posts/data-in-swiftui-1/) ([HN](https://news.ycombinator.com/item?id=22325735))
+- [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extension to the standard SwiftUI library.

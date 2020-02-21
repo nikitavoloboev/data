@@ -109,3 +109,4 @@
 - [Old CSS, new CSS (2020)](https://eev.ee/blog/2020/02/01/old-css-new-css/) ([HN](https://news.ycombinator.com/item?id=22215931))
 - [Learn CSS Positioning](https://ishadeed.com/article/learn-css-positioning/)
 - [CSS Triggers](https://csstriggers.com/)
+- [Bounce.js](http://bouncejs.com/) - Tool and JS library that lets you create beautiful CSS3 powered animations. ([Code](https://github.com/tictail/bounce.js))

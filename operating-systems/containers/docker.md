@@ -35,3 +35,4 @@
 - [HN: What Exactly is Docker? (2020)](https://news.ycombinator.com/item?id=22212206)
 - [runq](https://github.com/gotoz/runq) - Run regular Docker images in KVM/Qemu.
 - [BuildKit](https://github.com/moby/buildkit) - Concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit.
+- [Docker Images : Part I - Reducing Image Size (2020)](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)

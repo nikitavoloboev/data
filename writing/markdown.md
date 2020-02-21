@@ -20,3 +20,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [textlint](https://github.com/textlint/textlint) - Pluggable natural language linter for text and markdown.
 - [markdown-print-tools](https://github.com/Clikengo/markdown-print-tools) - Tools to nicely print markdown document (vscode extension, markdown it extension, pdf generation).
 - [markdown-table](https://github.com/wooorm/markdown-table) - Markdown tables, with alignment.
+- [gdocs2md](https://github.com/mangini/gdocs2md) - Simple Google Apps script to convert a properly formatted Google Drive Document to markdown.

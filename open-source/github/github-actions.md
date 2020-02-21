@@ -11,6 +11,7 @@
 - [merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merge Pull Requests created from a GitHub account.
 - [upload-artifact](https://github.com/actions/upload-artifact) - Uploads artifacts from your workflow.
 - [action-project-manager](https://github.com/jason0x43/action-project-manager) - Relativley simple a GitHub Action that can be used to manage issues in a project.
+- [compressed-size-action](https://github.com/preactjs/compressed-size-action) - GitHub Action that adds compressed size changes to your PRs.
 
 ## Rust
 

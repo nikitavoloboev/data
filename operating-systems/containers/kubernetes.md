@@ -153,3 +153,4 @@
 - [Multi-tenancy](https://github.com/kubernetes-sigs/multi-tenancy) - Working place for multi-tenancy related proposals and prototypes.
 - [Kubevious](https://github.com/kubevious/kubevious) - Application centric Kubernetes UI.
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
+- [Hubble](https://github.com/cilium/hubble) - Network, Service & Security Observability for Kubernetes.

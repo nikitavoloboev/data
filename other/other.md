@@ -52,7 +52,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Documentation for being an Artsy Engineer](https://github.com/artsy/README#readme)
 - [Cai & Jo](https://caiandjo.com/) - Premium paper goods brand.
 - [Laws, Theories, Principles and Patterns that developers will find useful](https://github.com/dwmkerr/hacker-laws#readme)
-- [draw.io source](https://github.com/jgraph/drawio) - Online diagramming web site.
 - [Glitch](https://glitch.com/) - Friendly community where everyone can discover and create the best stuff on the web.
 - [YLD](https://www.yld.io/) - We help our clients move from a culture of delivery to a culture of learning through our expertise in software engineering, design, training and open-source.
 - [Internet of Humans Project](https://edgeryders.eu/c/ioh) - Quest to understand how we the people, who contribute towards building the evolution of the Internet and our digital technologies, actively build a better future against a backdrop of massive social, economic, ecological and political challenges.
@@ -105,3 +104,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [butler-cli](https://github.com/benawad/butler-cli) - Prettier for File Structures.
 - [matterbridge](https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix and more with REST API.
 - [The Law of Conservation of Complexity (1984)](http://nomodes.com/Larry_Tesler_Consulting/Complexity_Law.html) ([HN](https://news.ycombinator.com/item?id=22375331))
+- [Broadcaster](https://github.com/encode/broadcaster) - Helps you develop realtime streaming functionality in by providing a simple broadcast API onto a number of different backend services.

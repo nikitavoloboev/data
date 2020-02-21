@@ -84,3 +84,6 @@
 - [asyncpg](https://github.com/MagicStack/asyncpg) - Fast PostgreSQL Database Client Library for Python/asyncio.
 - [Newspaper3k](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3.
 - [orjson](https://github.com/ijl/orjson) - Fast, correct JSON library for Python.
+- [daiquiri](https://github.com/jd/daiquiri) - Python logging setup helper.
+- [Pifpaf](https://github.com/jd/pifpaf) - Python fixtures and daemon managing tools for functional testing.
+- [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others).

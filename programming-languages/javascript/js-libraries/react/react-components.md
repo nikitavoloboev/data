@@ -65,6 +65,8 @@
 - [react-json-view](https://github.com/mac-s-g/react-json-view) - React component for displaying and editing javascript arrays and JSON objects.
 - [react-suspense-router](https://github.com/dai-shi/react-suspense-router) - React Router for React Suspense and Render-as-You-Fetch.
 - [react-range](https://github.com/tajo/react-range) - Range input with a slider. Accessible. Bring your own styles and markup.
+- [react-markdown](https://github.com/rexxars/react-markdown) - Renders Markdown as pure React components.
+- [React Stripe.js](https://github.com/stripe/react-stripe-js) - React components for Stripe.js and Stripe Elements.
 
 ## Links
 

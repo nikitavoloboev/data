@@ -26,3 +26,4 @@
 - [Point Cloud Library](https://github.com/PointCloudLibrary/pcl) - Standalone, large scale, open project for 2D/3D image and point cloud processing.
 - [Disappearing-People](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser. ([HN](https://news.ycombinator.com/item?id=22353596))
 - [Best Practices, code samples, and documentation for Computer Vision](https://github.com/microsoft/computervision-recipes)
+- [Computer Vision Basics in Microsoft Excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel#readme)

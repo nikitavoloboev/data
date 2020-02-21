@@ -236,6 +236,7 @@ Below is a list of extensions I use.
 
 ## LaTeX
 
+- [TexLab](https://marketplace.visualstudio.com/items?itemName=efoerster.texlab) - Provides rich editing support for the LaTeX typesetting system powered by the TexLab language server. ([Code](https://github.com/latex-lsp/texlab-vscode))
 - [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) - Provide all-in-one features and utilities for LaTeX typesetting.
 
 ## Lean

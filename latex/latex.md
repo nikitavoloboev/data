@@ -27,3 +27,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LaTeX.Online](https://latexonline.cc/) - Open source service where anyone can build a PDF from GIT repository with TeX files. ([Code](https://github.com/aslushnikov/latex-online))
 - [Polymath](https://jwmza.com/polymath/) - Markup Language for Everything. ([HN](https://news.ycombinator.com/item?id=22278932))
 - [Detexify](http://detexify.kirelabs.org/classify.html) - LaTeX Handwritten Symbol Recognition. ([HN](https://news.ycombinator.com/item?id=22356361))
+- [TexLab](https://github.com/latex-lsp/texlab) - Implementation of the Language Server Protocol for LaTeX.
