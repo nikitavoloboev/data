@@ -9,3 +9,4 @@
 - [Noun Project](https://thenounproject.com/) - Over 2 Million curated icons, created by a global community.
 - [Streamline](https://streamlineicons.com/) - World’s largest icon pack.
 - [7 Principles of Icon Design (2020)](https://uxdesign.cc/7-principles-of-icon-design-e7187539e4a2) ([HN](https://news.ycombinator.com/item?id=22364230))
+- [Iconic Icons: Designing the World of Windows (2020)](https://medium.com/microsoft-design/iconic-icons-designing-the-world-of-windows-5e70e25e5416)
