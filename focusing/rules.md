@@ -91,7 +91,8 @@
 - Share [everything I know](../sharing/everything-I-know.md) and made.
 - Submit bugs and feature requests as soon as I encounter problems I can't solve. Twitter, email, in-app or feedback assistant.
 - Say things that [contribute to the conversation](https://discourse.elm-lang.org/t/how-we-talk-about-other-languages/972/7). Be honest. Be nice.
-- Keep things I shared up-to-date where appropriate (wiki, snippets). Especially main wiki pages like workflow, habits, rules.
+- Keep things I shared up-to-date where appropriate (wiki, snippets, homepage). Especially main pages like rules, workflow, themes, projects, about & now.
+- Proactively update anything I find to be wrong or not well expressed. This includes content that isn't my own. Openly express feedback.
 
 ## News
 
