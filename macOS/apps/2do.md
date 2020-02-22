@@ -8,12 +8,6 @@ It also has global quick add with a hotkey. Together with lists, priorities, pow
 
 ![](https://i.imgur.com/QuBsexM.png)
 
-## My 2Do tasks shared
-
-I share [contents of some of my never ending lists of tasks I tagged in 2Do](https://gist.github.com/nikitavoloboev/c8b71bfb06634877bbcf94ef2fc0c95f) with `read`, `watch` and `check` tags.
-
-All lists are sorted by priority. I hope to bring all these lists closer to 0 when I get time. But until then, perhaps you will find something interesting in them.
-
 ## Managing tasks with tags
 
 My main way of managing tasks is with **tags**. This lets me give scope to the task I want to complete and lets me filter through the many thousands of tasks I have in my **Inbox**.
@@ -38,7 +32,12 @@ I use 2Do for recurring scheduled tasks as a way to remember to complete my day/
 
 - Go to 2Do list from URL scheme: `twodo://x-callback-url/showList?name=PR` (would go to to **PR** list).
 
+## 2Do tasks shared
+
+I once used 2Do as replacement for [Pocket](https://getpocket.com) for links to read/watch/check later.
+
+I share a snapshot of [these tasks](https://gist.github.com/nikitavoloboev/c8b71bfb06634877bbcf94ef2fc0c95f).
+
 ## Links
 
 - [Getting things done: 5 steps](http://gettingthingsdone.com/fivesteps/)
-

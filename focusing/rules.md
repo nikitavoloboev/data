@@ -71,8 +71,8 @@
 ## Write
 
 - Be clear in what I want to share. Be concise. [Cut out everything that’s not surprising.](https://sivers.org/d22) Remove noise.
-- Use proper punctuation and capitalize things appropriately. Use simple language.
-- Use imperative tense for briefness when making tasks (2Do, Trello, GitHub issues). Be clear.
+- Use proper punctuation and capitalize things appropriately. Use simple language. Be concise & clear.
+- Use imperative tense for briefness when making tasks (2Do, Trello, GitHub issues). Add useful details where needed.
 - Remove unnecessary and [filler words](../writing/writing.md#dont-use). Use adverbs sparingly, they often undermine your point. Instead of `really like`, say `love`. Say more with less.
 - Hyperlink words/phrases appropriately.
 - Use headings to separate sections in articles/docs.
@@ -91,6 +91,7 @@
 - Share [everything I know](../sharing/everything-I-know.md) and made.
 - Submit bugs and feature requests as soon as I encounter problems I can't solve. Twitter, email, in-app or feedback assistant.
 - Say things that [contribute to the conversation](https://discourse.elm-lang.org/t/how-we-talk-about-other-languages/972/7). Be honest. Be nice.
+- Keep things I shared up-to-date where appropriate (wiki, snippets). Especially main wiki pages like workflow, habits, rules.
 
 ## News
 
@@ -177,7 +178,6 @@
 - Interlink pages to guide the reader.
 - Don't repeat myself. Link. Keep files lowercased.
 - Only keep links that are private in bookmarks. Everything else is shared either in wiki or [curated lists](https://github.com/learn-anything/curated-lists#readme).
-- Keep wiki up-to-date. Especially main pages like workflow, habits, rules.
 
 ## Share files
 
