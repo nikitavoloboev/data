@@ -31,3 +31,5 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Anki Airtable](https://github.com/sirupsen/anki-airtable) - Anki plugin that can synchronize an Airtable to Anki when Anki starts up.
 - [Everything I Know: Strategies, Tips, and Tricks for Anki](https://senrigan.io/blog/everything-i-know-strategies-tips-and-tricks-for-spaced-repetition-anki)
 - [Spaced Repetition for Efficient Learning](https://www.gwern.net/Spaced-repetition)
+- [Mochi](https://mochi.cards/) - Take notes and make flashcards using markdown, then study them using spaced repetition.
+- [MDAnki](https://github.com/ashlinchak/mdanki) - Converts Markdown file(s) to the Anki cards. ([HN](https://news.ycombinator.com/item?id=22385408))
