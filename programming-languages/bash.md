@@ -26,3 +26,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Anybody can write good bash (with a little effort) (2020)](https://blog.yossarian.net/2020/01/23/Anybody-can-write-good-bash-with-a-little-effort) ([Lobsters](https://lobste.rs/s/y0nx8o/anybody_can_write_good_bash_with_little))
 - [Bash Quick References](https://shellmagic.xyz/)
 - [critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage.
+- [Bash Hackers Wiki](https://wiki.bash-hackers.org/) ([HN](https://news.ycombinator.com/item?id=22382686))

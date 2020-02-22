@@ -17,3 +17,4 @@
 - [HOWTO negotiate your salary and benefits](https://valerieaurora.org/howto_salary/)
 - [Job negotiation for programmers: the basic principles (2019)](https://codewithoutrules.com/2019/11/27/job-negotiation-for-programmers/)
 - [How to negotiate (2020)](https://sriramk.com/negotiate)
+- [Questions you can ask about compensation (2020)](https://jvns.ca/blog/compensation-questions/)
