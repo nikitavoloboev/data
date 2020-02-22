@@ -193,12 +193,6 @@
 
 - Use descriptives lowercased names for external triggers.
 
-## SnippetsLab
-
-- Upload all non personal snippets as Gists.
-- Create smart groups for new prefixes I add.
-- Add correct language syntax to every snippet.
-
 ## 2Do
 
 - Only have tasks I need to get done Today in `Today`. Important tasks are stored in `Starred` sorted by priority. Keep `Today` list manageable (< 15 tasks).
