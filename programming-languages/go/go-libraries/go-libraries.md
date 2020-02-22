@@ -341,6 +341,7 @@
 - [gopsutil](https://github.com/shirou/gopsutil) - psutil for golang.
 - [schedgroup](https://github.com/mdlayher/schedgroup) - Provides a goroutine worker pool which schedules tasks to be performed at or after a specified time.
 - [clog](https://github.com/go-clog/clog) - Channel-based logging package for Go.
+- [New Relic Go Agent](https://github.com/newrelic/go-agent) - Allows you to monitor your Go applications with New Relic.
 
 ## Links
 

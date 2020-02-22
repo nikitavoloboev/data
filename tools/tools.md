@@ -27,6 +27,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Logflare](https://logflare.app/) - Affordable log management & event analytics.
 - [Nuclino](https://www.nuclino.com/) - Lightweight and collaborative wiki for all your team's knowledge, docs, and notes.
 - [Draw.io](https://www.draw.io/) - Online diagramming web site that delivers the source in this project. ([Code](https://github.com/jgraph/drawio))
+- [Muse](https://museapp.com/) - iPad sketchbook.
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.
 - [Bit.sv](https://bit.sv/) - New content network that lets anyone earn money from their interests.
 - [Drift](https://www.drift.com/) - Connect Your Sales Teams With Your Future Customers.

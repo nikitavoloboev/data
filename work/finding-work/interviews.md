@@ -57,3 +57,4 @@
 - [107+ Coding Interview Problems with Detailed Solutions in Go](https://github.com/hoanhan101/algo)
 - [Curation of great Leetcode questions, categorized by topic/concept](https://github.com/fterh/leetcode-curation-topical#readme)
 - [The dystopian world of software engineering interviews (2020)](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) ([HN](https://news.ycombinator.com/item?id=22331804)) ([Lobsters](https://lobste.rs/s/lhijk2/horrifically_dystopian_world_software))
+- [Levels of Seniority](https://roadmap.sh/guides/levels-of-seniority) - How to Step Up as a Junior, Mid Level or a Senior Developer. ([HN](https://news.ycombinator.com/item?id=22390878))
