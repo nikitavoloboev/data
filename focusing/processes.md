@@ -1,17 +1,15 @@
 # Processes
 
-## Learn
+## Learn topic well
 
-1. Read about topic in wiki or Google it & read. Have mental map of how it connects to other topics.
-2. Apply the knowledge.
+1. Read about the topic/concept. Wiki/Google.
+2. Apply insights & act on it. Teach/write/build something related to the topic/concept.
 
-## Write article/book
+## Write
 
-1. Write down main points I want to cover as bullet points.
-2. Write and address each of the points.
-3. Refactor. Remove useless words and irrelevant pieces. Make it concise.
-4. Publish. Share.
+1. Note down points I want to cover & start writing.
+2. Refactor. Ask for feedback. Make it concise. Publish.
 
-## Read books/articles
+## Read
 
-1. Read. Note down interesting points and document them.
+1. Read. Note anything interesting.
