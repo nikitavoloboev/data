@@ -51,7 +51,7 @@
 - [micro github](https://github.com/mxstbr/micro-github) - Tiny microservice that makes adding authentication with GitHub to your application easy.
 - [pico.js](https://github.com/tehnokv/picojs) - Face detection library in 200 lines of JavaScript.
 - [mdxc](https://github.com/jamesknelson/mdxc) - Use React Components within Markdown.
-- [ReLaXeD](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies.
+- [ReLaXeD](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies. ([Examples](https://github.com/RelaxedJS/ReLaXed-examples))
 - [Dragula](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts.
 - [Hammer.js](https://github.com/hammerjs/hammer.js) - Multi-touch gestures.
 - [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.

@@ -163,7 +163,7 @@
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) - Google's fast-paced, practical introduction to machine learning.
 - [What was your favorite paper of 2019 and why? (2019)](https://www.reddit.com/r/MachineLearning/comments/e8the3/d_what_was_your_favorite_paper_of_2019_and_why/)
 - [Ask HN: Full-on machine learning for 2020, what are the best resources?](https://news.ycombinator.com/item?id=21924298)
-- [Dive into Deep Learning](https://d2l.ai/) - Interactive deep learning book with code, math, and discussions, based on the NumPy interface. ([HN](https://news.ycombinator.com/item?id=21948698))
+- [Dive into Deep Learning](https://d2l.ai/) - Interactive deep learning book with code, math, and discussions, based on the NumPy interface. ([HN](https://news.ycombinator.com/item?id=21948698)) ([Code](https://github.com/d2l-ai/d2l-en))
 - [Resources to learn more about Machine Learning and Artificial Intelligence](https://github.com/brylevkirill/notes)
 - [Foundations of Machine Learning book](https://mitpress.mit.edu/books/foundations-machine-learning-second-edition) - New edition of a graduate-level machine learning textbook that focuses on the analysis and theory of algorithms.
 - [Deep Learning book](http://www.deeplearningbook.org/) - Resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular.

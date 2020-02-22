@@ -342,6 +342,7 @@
 - [schedgroup](https://github.com/mdlayher/schedgroup) - Provides a goroutine worker pool which schedules tasks to be performed at or after a specified time.
 - [clog](https://github.com/go-clog/clog) - Channel-based logging package for Go.
 - [New Relic Go Agent](https://github.com/newrelic/go-agent) - Allows you to monitor your Go applications with New Relic.
+- [MemGuard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
 
 ## Links
 

@@ -30,3 +30,4 @@
 - [Build an external api with auth using Traefik and Go](https://rogerwelin.github.io/traefik/api/go/auth/2019/08/19/build-external-api-with-trafik-go.html)
 - [Public APIs](https://github.com/public-apis/public-apis#readme) - Collective list of free APIs for use in software and web development.
 - [Kong](https://konghq.com/) - Connect all your microservices and APIs with the industry’s most performant, scalable and flexible API platform.
+- [Amazon API Gateway Serverless Developer Portal](https://github.com/awslabs/aws-api-gateway-developer-portal) - Application that you use for developer engagement by making your API Gateway APIs available to your customers through self-service discovery of those APIs.
