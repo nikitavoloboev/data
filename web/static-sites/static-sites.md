@@ -27,3 +27,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Awesome JAMStack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
 - [Ask HN: Best Static Site Builder? (2019)](https://news.ycombinator.com/item?id=21616149)
 - [Userbase](https://userbase.com/) - Create secure and private web apps using only static JavaScript, HTML, and CSS. ([HN](https://news.ycombinator.com/item?id=22145168))
+- [StaticKit](https://statickit.com/) - Hassle-Free Forms For Static Sites.

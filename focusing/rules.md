@@ -172,11 +172,12 @@
 
 ## Wiki
 
-- Treat wiki as my digital brain. Share everything I know or need to reference. [Reflect on my life](../looking-back/looking-back.md).
+- Treat wiki as my digital brain. Share everything I know or need to reference. [Reflect on life](../looking-back/looking-back.md).
 - Have [unified structure](../meta/reference.md) for all pages.
 - Interlink pages to guide the reader.
 - Don't repeat myself. Link. Keep files lowercased.
-- Only keep links that are private in bookmarks. Everything else is shared either in wiki or [curated lists](https://github.com/learn-anything/curated-lists).
+- Only keep links that are private in bookmarks. Everything else is shared either in wiki or [curated lists](https://github.com/learn-anything/curated-lists#readme).
+- Keep wiki up-to-date. Especially main pages like workflow, habits, rules.
 
 ## Share files
 

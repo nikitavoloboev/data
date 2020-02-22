@@ -6,49 +6,68 @@ I try to be methodical in working and doing things. And I use the best tools and
 
 - [Rules](../focusing/rules.md) - Grounds me into focusing on what I find important in life and cutting out the waste.
 - [Processes](../focusing/processes.md) - Streamlines doing some tasks.
-- [Habits](../focusing/habits.md) - Essential habits in life.
+- [Habits](../focusing/habits.md) - 6 essential habits in life I want to complete each day.
+- [Themes](../focusing/themes.md) - What I want to focus in life in general strokes.
 
 ## Code
 
 - [VS Code](../text-editors/vs-code/vs-code.md) - Main editor. Write mostly Go & TypeScript.
-- [Sublime Text](../text-editors/sublime-text/sublime-text.md) - GitHub readmes, editing this wiki.
-- [Neovim](../text-editors/vim/vim.md) - Edit my [Karabiner](../macOS/apps/karabiner/karabiner.md) config with it and quick edits.
+- [Sublime Text](../text-editors/sublime-text/sublime-text.md) - Editing markdown (wiki, articles, quick notes).
+- [Vim](../text-editors/vim/vim.md) - Edit my [Karabiner](../macOS/apps/karabiner/karabiner.md) config with it and quick shell edits.
 
-## Task tracking
+## Tasks
 
-- [2Do](../macOS/apps/2do.md) - Personal day-to-day tasks. Every task is actionable.
-- [Trello](../macOS/apps/trello.md) - Public and personal boards used for different projects centered around my one [Focus](../focusing/focusing.md) board.
+- [2Do](../macOS/apps/2do.md) - Personal tasks. Every task is actionable, tagged appropriately and sorted by priority.
+- [Trello](../macOS/apps/trello.md) - Public & personal boards used for project tracking.
+- [GitHub](../open-source/github/github.md) - Issues/PRs open for OSS projects I care about.
 
-## Time management
+## Plan
 
-- [Fantastical](../macOS/apps/fantastical.md) - I plan events in advance for entire day ahead and my day is primarily guided by these events. I use **Week** view with **5 days** from current day shown in the app. This gives me a perspective on what deadlines I have soon to complete and I can adjust my events as necessary and plan accordingly.
-- [Timing](../macOS/apps/timing.md) - Track all time I spend there. I automate as much of the tracking as possible so Timing learns from what I do and it's easy to fill out the sections after.
+- [Fantastical](../macOS/apps/fantastical.md) - Only set events for meetings & actual events I want to visit. I view the calendar in 5 next days mode.
 
-## Knowledge Indexing
+## Knowledge index
 
-- [This wiki](../readme.md) - A bunch of markdown files rendered by [GitBook](https://www.gitbook.com) and edited with Sublime Text.
-- Articles on [Medium](https://medium.com/@nikitavoloboev) - Share longer articles on some one topic there. This wiki is a more living and ever changing document.
-- [SnippetsLab](https://www.renfei.org/snippets-lab/) - Snippets of code shared with [GitHub Gists](my-gists.md).
+- [Wiki](../readme.md) - [Everything I know](everything-I-know.md) is written out or referenced from this wiki. The wiki consists of markdown files editing in Sublime Text rendered with [GitBook](https://www.gitbook.com).
+- [Articles](my-articles.md) - Pieces I wrote on various topics.
+- [Code Snippets](https://code.nikitavoloboev.xyz) - Actionable useful code snippets on various topics.
+- [Curated lists](https://github.com/learn-anything/curated-lists#readme) - [Awesome lists](https://github.com/sindresorhus/awesome#readme) on topics.
+- [Looking back](../looking-back/looking-back.md) - My public log of things I've done & events happened to me. Serves as a tool for reflection and growth.
 
-## Bookmarks
+## Search
 
-- [Curated lists](https://github.com/learn-anything/curated-lists#readme) - Extension to [Awesome lists](https://github.com/sindresorhus/awesome#readme), serves as a way to publicly curate valuable links on different topics and [search them](https://github.com/nikitavoloboev/alfred-learn-anything). Any change I make to the lists are automatically committed with [Hazel](../macOS/apps/hazel.md).
-- [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme) - All my public facing bookmarks. Searching this wiki here. Searching my articles, my GitHub repos and more.
-- [Safari](../web/browsers/safari.md) - Only contains personal bookmarks I search with [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant). The rest is publicly available and queryable by anyone.
+- [Alfred](../macOS/apps/alfred/alfred.md) - Use Alfred to search everything.
+- [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme) - Search my entire corpus of useful to me references. Extension of my brain.
+- [Safari](../web/browsers/safari.md) - Only bookmark personal things which I search with [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant).
 
-## Photographs
+## Photos
 
-- [Pixave](../macOS/apps/pixave.md) - My entire media library of images and GIFs neatly sorted into collections. I post some images from there to my [Instagram page](https://www.instagram.com/prettiways/).
-- Apple Photos - All my personal photographs and images I made.
+- [Pixave](../macOS/apps/pixave.md) - My entire media library of images and GIFs neatly sorted into collections. I post most images on [Instagram](https://www.instagram.com/prettiways/).
+- Apple Photos - My personal photo/video/memories collection.
 
-## Journaling
+## macOS/iOS
 
-- [Looking back](../looking-back/looking-back.md) - My public log of things I've done and worked on throughout the months with highlights from each month/year.
-
-## More
-
-- [Mac](https://github.com/nikitavoloboev/my-mac-os#readme) - macOS apps/tools I use.
+- [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) - macOS apps/tools I use.
 - [iOS](https://github.com/nikitavoloboev/my-ios#readme) - iOS apps/tools I use.
+
+## Track
+
+- [Timing](../macOS/apps/timing.md) - Track all time I spend on macOS. Apps used, activities I worked on (inferred by the app based on rules).
+- [WakaTime](https://wakatime.com) - Track time spent writing code. Includes ability to see projects worked on & languages used.
+- [Tracking](tracking.md) - Various things I track for my own reference.
+
+## News/Learnings
+
 - [Staying on top of things](../research/staying-on-top-of-things.md) - My approach to getting news and staying on top of things.
-- [Tracking](tracking.md) - Things I track for my own reference.
-- [Finance](../economy/finance.md) - My approach to finance.
+
+## Investing/finance
+
+- [Finance](../economy/finance.md) - My approach to finance/investing.
+
+## Tech stack
+
+- Websites - Use [NextJS](https://nextjs.org/) to server side render sites in [React](https://github.com/facebook/react). Use [TypeScript](https://www.typescriptlang.org).
+- Server APIs - Use [Go](https://golang.org/).
+- Scripts & CLI tools - Use [Go](https://golang.org/).
+- Database - Use [Postgres](https://www.postgresql.org) for everything. With [Hasura](https://hasura.io) setup for GraphQL queries. Use [SQLite](https://www.sqlite.org) when need small DB.
+- Mobile apps - Prefer to build iOS apps with native [Swift](https://developer.apple.com/swift/) & [SwiftUI](https://developer.apple.com/xcode/swiftui/). For apps that need cross platform support, I use [React Native](https://facebook.github.io/react-native/).
+- Pick services from cloud providers where it makes sense. Solving problems is what matters. Tech used only matters to the extent that code should be maintainable and fast where needed.

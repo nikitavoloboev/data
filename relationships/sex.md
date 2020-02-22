@@ -2,7 +2,6 @@
 
 ## Creative NSFW
 
-- [Elle](https://twitter.com/JSuisElle)
 - [ambra](https://twitter.com/ambra00683620)
 - [A_magician](https://twitter.com/A_magician75)
 - [barelyfriends](https://twitter.com/barely_friends)

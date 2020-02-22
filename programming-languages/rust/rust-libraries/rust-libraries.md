@@ -239,6 +239,7 @@
 - [LibreAuth](https://github.com/breard-r/libreauth) - Collection of tools for user authentication.
 - [BoringAuth](https://github.com/ThinkAlexandria/BoringAuth) - Collection of tools for user authentication.
 - [log](https://github.com/rust-lang/log) - Logging implementation for Rust.
+- [typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust.
 
 ## Cargo Plugins
 

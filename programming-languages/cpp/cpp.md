@@ -64,3 +64,4 @@
 - [C++ revision changes (2020)](https://www.reddit.com/r/cpp/comments/f47x4o/202002_prague_iso_c_committee_trip_report_c20_is/)
 - [SWIG](https://github.com/swig/swig) - Software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [Move, simply (2020)](https://herbsutter.com/2020/02/17/move-simply/) ([HN](https://news.ycombinator.com/item?id=22349302))
+- [C++ Closure (2020)](https://leimao.github.io/blog/CPP-Closure/)

@@ -30,3 +30,4 @@
 - [oskel](https://github.com/CraigFe/oskel) - Skeleton generator for OCaml projects.
 - [OCaml-CI](https://github.com/ocurrent/ocaml-ci) - CI for OCaml projects.
 - [OCurrent](https://github.com/ocurrent/ocurrent) - Allows you to specify a workflow / pipeline for keeping things up-to-date.
+- [Real World OCaml book](https://dev.realworldocaml.org/) - Functional programming for the masses.
