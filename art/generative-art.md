@@ -27,3 +27,4 @@
 - [Flow Fields (2020)](https://tylerxhobbs.com/essays/2020/flow-fields)
 - [How to make generative art feel natural (2020)](https://www.generativehut.com/post/how-to-make-generative-art-feel-natural)
 - [Generative Hut](https://www.generativehut.com/) - Home of generative art.
+- [Dacein](https://github.com/szymonkaliski/dacein) - Experimental creative coding IDE. ([Article](https://szymonkaliski.com/log/2019-03-01-building-dacein/))

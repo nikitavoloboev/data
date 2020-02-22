@@ -27,3 +27,4 @@
 - [Tesla: the ’20s (2020)](https://jwmza.com/thoughts/tesla-the-20s/)
 - [Ask HN: How do I find investors? (2020)](https://news.ycombinator.com/item?id=22284025)
 - [A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom (2015)](https://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom/)
+- [Investment Memo: Earnest Fund 2 (2020)](https://earnestcapital.com/investment-memo-fund-2/)
