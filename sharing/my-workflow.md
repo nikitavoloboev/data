@@ -1,7 +1,5 @@
 # My Workflow
 
-I try to be methodical in working and doing things. And I use the best tools and workflows that work for me to achieve my goals.
-
 ## Life
 
 - [Rules](../focusing/rules.md) - Grounds me into focusing on what I find important in life and cutting out the waste.
@@ -71,3 +69,4 @@ I try to be methodical in working and doing things. And I use the best tools and
 - Database - Use [Postgres](https://www.postgresql.org) for everything. With [Hasura](https://hasura.io) setup for GraphQL queries. Use [SQLite](https://www.sqlite.org) when need small DB.
 - Mobile apps - Prefer to build iOS apps with native [Swift](https://developer.apple.com/swift/) & [SwiftUI](https://developer.apple.com/xcode/swiftui/). For apps that need cross platform support, I use [React Native](https://facebook.github.io/react-native/).
 - Pick services from cloud providers where it makes sense. Solving problems is what matters. Tech used only matters to the extent that code should be maintainable and fast where needed.
+- ML Models - Use [PyTorch](https://pytorch.org).

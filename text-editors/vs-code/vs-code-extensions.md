@@ -158,7 +158,7 @@ Below is a list of extensions I use.
 
 ## Svelte
 
-- [Svelte](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode&ref=madewithsvelte.com)
+- [Svelte](https://marketplace.visualstudio.com/items?itemName=JamesBirtles.svelte-vscode) ([Code](https://github.com/UnwrittenFun/svelte-vscode))
 
 ## Java
 
