@@ -1,30 +1,26 @@
 # Everything I know
 
-One of my bigger passions in life is productivity and workflows and I try my best to have my workflow be **transparent** and reusable by as many other people as possible. Like a building block that you can use to make something even better or more powerful.
+One of my bigger passions in life is productivity and workflows and I try my best to have [my workflow](my-workflow.md) be **transparent** and reusable by as many other people as possible. Like a building block that you can use to make something even better or more powerful.
 
 I share both the ideas I have on how I think about solving certain problems as well as the actual solutions I use to solve them (either through some program or tool like Alfred workflow or Keyboard Maestro macro or something else). What makes me so passionate about this is how all of these tools and things can play into the bigger picture of things and how they can work and play together. Sometimes, programs can lift you up and make you think and operate on a completely different level of abstraction which makes certain problems that you thought were hard to solve, actually easy. [Karabiner](../macOS/apps/karabiner/karabiner.md) app is a great example of this as it has literally changed my life in so many ways and opened my mind to what is possible.
 
 > Everything is possible.
 
-With that said, if you are reading this and want to know more about _my workflow_, here is a small guide I would go through to optimally cover everything I use or made so you can pick the best parts of it quickly to fit into your own workflows or ways of doing things.
+With that said, if you are reading this and want to know more about my workflow & what I know, here is a small guide I would go through to optimally cover everything I use or made so you can pick the best parts of it quickly to fit into your own workflows or ways of doing things.
 
-Parts of this guide assume you use macOS. I put some time estimates on how long I think some of the points might take to complete.
+## 1. Read articles
 
-## 1. Read my articles (~ 1 hour)
+I would read through some of the [articles I wrote](my-articles.md). Some articles I wrote are more actionable and focused on a specific topic, others I am sharing some thoughts I have and how they relate to my life.
 
-I would read through some of the [articles I wrote](my-articles.md). Just pick the ones that have 🌟 on them as those are ones that I consider better than others.
-
-Some articles I wrote are more actionable and focused on a specific topic, others I am sharing some thoughts I have and how they relate to my life.
-
-## 2. Explore my GitHub repositories (~ 40 min)
+## 2. Explore GitHub repositories
 
 I try make this step super easy to do too as you can simply [explore all the repositories I made and shared](my-github.md).
 
-## 3. Explore macOS tools and workflows I use (~ 1 hour)
+## 3. Explore macOS tools and workflows
 
 I made a [repo](https://github.com/nikitavoloboev/my-mac-os) where I cover everything I use on my macOS system in great detail. I share everything I use including [hundreds of Keyboard Maestro macros](../macOS/apps/keyboard-maestro/km-macros.md) and the various [amazing Alfred workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can simply explore and see what you find interesting.
 
-## 4. Read or Search through this wiki (~ 3 hours)
+## 4. Read or search through this wiki
 
 Aside from my blog, I heavily share nearly everything I know about this world in this wiki here so you can explore and see what you like. If you did get the [Powerpack for Alfred](https://www.alfredapp.com/powerpack/), you can even install [my own workflow](https://github.com/nikitavoloboev/alfred-my-mind#readme) and easily search through entirety of both this wiki and everything I made or did. The big idea behind this workflow and my other creations is to do things in a way that anyone else can use these same things I am using.
 
