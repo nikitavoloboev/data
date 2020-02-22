@@ -33,6 +33,10 @@
 - [Watt](https://github.com/dtolnay/watt) - Runtime for executing Rust procedural macros compiled as WebAssembly.
 - [Draco](https://github.com/utkarshkukreti/draco) - Rust library to build client side web applications with Web Assembly.
 
+## GUI
+
+- [vgtk](https://github.com/bodil/vgtk/) - Declarative desktop UI framework for Rust built on GTK and Gtk-rs.
+
 ## DB
 
 - [SQLx](https://github.com/launchbadge/sqlx) - Rust SQL Toolkit.

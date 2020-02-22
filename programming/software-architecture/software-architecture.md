@@ -39,3 +39,4 @@
 - [MVC is dead, it's time to MOVE on (2012)](https://cirw.in/blog/time-to-move-on) ([HN](https://news.ycombinator.com/item?id=22357456))
 - [Krste Asanović Teaching](https://people.eecs.berkeley.edu/~krste/teaching.html) - Great courses on software architecture.
 - [High Scalability - All Time Favorites](http://highscalability.com/all-time-favorites/)
+- [Modern Software Over-Engineering Mistakes (2016)](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
