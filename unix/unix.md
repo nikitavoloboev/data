@@ -21,3 +21,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [How Unix Works: Become a Better Software Engineer (2019)](https://neilkakkar.com/unix.html)
 - [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users. ([HN](https://news.ycombinator.com/item?id=10022729))
+- [Using ptrace To Call a Userspace Function](https://github.com/eklitzke/ptrace-call-userspace)

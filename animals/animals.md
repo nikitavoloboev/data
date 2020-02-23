@@ -1,6 +1,6 @@
 # Animals
 
-I love all animals.
+I love all animals. And I am sad that some people decide to eat them and not them live a life.
 
 ## Lovely animals
 
@@ -22,3 +22,4 @@ I love all animals.
 - [These Pics Are Composed Of As Many Pixels As There Are Animals Still Alive In These Species](https://designyoutrust.com/2019/09/these-pics-are-composed-of-as-many-pixels-as-there-are-animals-still-alive-in-these-species/)
 - [FitBark](https://www.fitbark.com/) - GPS & Activity Monitor.
 - [A standardized and reproducible method to measure decision-making in mice](https://twitter.com/IntlBrainLab/status/1218585772812570624)
+- [Why do cats & dogs ..](https://whydocatsanddogs.com/)
