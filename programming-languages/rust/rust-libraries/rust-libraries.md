@@ -244,6 +244,7 @@
 - [BoringAuth](https://github.com/ThinkAlexandria/BoringAuth) - Collection of tools for user authentication.
 - [log](https://github.com/rust-lang/log) - Logging implementation for Rust.
 - [typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust.
+- [enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust.
 
 ## Cargo Plugins
 

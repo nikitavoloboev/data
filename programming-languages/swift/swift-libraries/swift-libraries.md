@@ -26,6 +26,7 @@
 - [iOS Security Suite](https://github.com/securing/IOSSecuritySuite) - Advanced and easy-to-use platform security & anti-tampering library written in pure Swift.
 - [OnboardKit](https://github.com/NikolaKirev/OnboardKit) - Customizable user onboarding for your UIKit app in Swift.
 - [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable.
+- [SFSymbolsSafe](https://github.com/cezarywojcik/SFSymbolsSafe) - Safe way to use SF Symbols.
 
 ## Web
 

@@ -52,3 +52,6 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Lilu](https://github.com/acidanthera/Lilu) - Arbitrary kext and process patching on macOS.
 - [osx-hid-inspector](https://github.com/pqrs-org/osx-hid-inspector) - Command line tool for macOS for inspecting human input devices (HID).
 - [macOS Kernel Extensions are officially deprecated](https://developer.apple.com/support/kernel-extensions/) ([HN](https://news.ycombinator.com/item?id=22251076))
+- [mas-cli](https://github.com/mas-cli/mas) - Simple command line interface for the Mac App Store. Designed for scripting and automation.
+- [apply-user-defaults](https://github.com/zero-sh/apply-user-defaults) - Small utility to set macOS user defaults declaratively from a YAML file.
+- [Zero.sh](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.

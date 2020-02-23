@@ -19,3 +19,4 @@
 - [What is a stack and how does it work? (2020)](https://www.youtube.com/watch?v=xBjQVxVxOxc)
 - [Branch prediction explained](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 - [x86-info-term](https://github.com/zwegner/x86-info-term) - Terminal viewer for x86 instruction/intrinsic information using Python 3 + curses.
+- [Cosmic](https://github.com/clbx/Cosmic) - Stellar simulated 8-bit computer architecture.

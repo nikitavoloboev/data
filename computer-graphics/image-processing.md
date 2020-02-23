@@ -10,3 +10,4 @@
 - [BlurHash](https://github.com/woltapp/blurhash) - Compact representation of a placeholder for an image.
 - [sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
 - [Oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded lossless PNG compression optimizer. It can be used via a command-line interface or as a library in other Rust programs.
+- [Glitch This](https://github.com/TotallyNotChase/glitch-this) - Glitchify static images to glitched images and GIFs.
