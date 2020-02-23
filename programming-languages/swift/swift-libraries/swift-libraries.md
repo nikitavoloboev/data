@@ -175,6 +175,7 @@
 - [Future](https://github.com/kean/Future) - Streamlined Future<Value, Error> implementation.
 - [Nuke](https://github.com/kean/Nuke) - Powerful image loading and caching system.
 - [SwiftyUtils](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
+- [Result](https://github.com/antitypical/Result) - Swift type modelling the success/failure of arbitrary operations.
 
 ## Links
 
