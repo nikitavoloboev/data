@@ -12,6 +12,7 @@
 - [upload-artifact](https://github.com/actions/upload-artifact) - Uploads artifacts from your workflow.
 - [action-project-manager](https://github.com/jason0x43/action-project-manager) - Relativley simple a GitHub Action that can be used to manage issues in a project.
 - [compressed-size-action](https://github.com/preactjs/compressed-size-action) - GitHub Action that adds compressed size changes to your PRs.
+- [GitHub Action for Continuous Benchmarking](https://github.com/rhysd/github-action-benchmark)
 
 ## Rust
 

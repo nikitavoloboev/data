@@ -1,6 +1,6 @@
 # Animals
 
-I love all animals. And I am sad that some people decide to eat them and not them live a life.
+I love all animals. And I am sad that some people decide to eat them and not let them live a fulfilling & happy life.
 
 ## Lovely animals
 
