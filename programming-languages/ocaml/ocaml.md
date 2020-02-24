@@ -3,7 +3,7 @@
 ## Links
 
 - [Introduction to OCaml (2018)](https://blog.baturin.org/introduction-to-ocaml.html)
-- [Functional Programming in OCaml (2019)](http://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/) ([HN](https://news.ycombinator.com/item?id=19292067))
+- [Functional Programming in OCaml (2020)](https://www.cs.cornell.edu/courses/cs3110/2020sp/textbook/) ([HN](https://news.ycombinator.com/item?id=19292067))
 - [Dune](https://github.com/ocaml/dune) - Composable build system for OCaml.
 - [Unix system programming in OCaml](https://ocaml.github.io/ocamlunix/)
 - [Esy](https://github.com/esy/esy) - Package.json workflow for native development with Reason/OCaml.

@@ -16,3 +16,4 @@
 - [ProteinNet](https://github.com/aqlaboratory/proteinnet) - Standardized data set for machine learning of protein structure.
 - [Registry of Open Data on AWS](https://registry.opendata.aws/)
 - [List of datasets for machine-learning research](https://en.m.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
+- [Syndetic](https://www.getsyndetic.com/) - Replaces static data dictionaries with a live data profiling system. Annotate, measure, and monitor your datasets. Share the results. ([HN](https://news.ycombinator.com/item?id=22406560))

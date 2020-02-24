@@ -58,6 +58,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)
 - [Hongyi Shen's notes](https://github.com/wilbeibi/NotesIndex)
+- [Michael Mellinger math notes](https://github.com/melling/MathAndScienceNotes)
 - [Bookmarks, tweets, cheatsheets, one-liners](https://github.com/ccampean/almanacs)
 - [Bayle Shanks](http://www.bayleshanks.com/)
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
@@ -108,3 +109,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [How To Take Smart Notes With Org-mode (2020)](https://blog.jethro.dev/posts/how_to_take_smart_notes_org/) ([HN](https://news.ycombinator.com/item?id=22337681))
 - [Copernic](http://copernic.space/) - Aims to make practical cooperation around the creation, publication, storage, re-use and maintenance of knowledge bases, and in general structured data that are bigger than memory.
 - [Zettelkasten Method](https://zettelkasten.de/posts/overview/)
+- [Awesome Roam](https://github.com/roam-unofficial/awesome-roam#readme)
