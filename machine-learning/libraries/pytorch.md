@@ -73,3 +73,5 @@
 - [Which PyTorch-compatible training abstraction libraries do you use and why? (2020)](https://www.reddit.com/r/MachineLearning/comments/esrtxu/d_which_pytorchcompatible_training_abstraction/)
 - [Deep Learning with PyTorch course](https://atcold.github.io/pytorch-Deep-Learning-Minicourse/) ([Code](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse))
 - [PyTorch: An Imperative Style, High-Performance Deep Learning Library (2019)](https://arxiv.org/abs/1912.01703)
+- [Open Graph Benchmark (OGB)](https://github.com/snap-stanford/ogb) - Collection of benchmark datasets, data-loaders and evaluators for graph machine learning in PyTorch.
+- [Ignite](https://github.com/pytorch/ignite) - High-level library to help with training neural networks in PyTorch.

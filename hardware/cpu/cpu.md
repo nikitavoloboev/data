@@ -20,3 +20,4 @@
 - [Branch prediction explained](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 - [x86-info-term](https://github.com/zwegner/x86-info-term) - Terminal viewer for x86 instruction/intrinsic information using Python 3 + curses.
 - [Cosmic](https://github.com/clbx/Cosmic) - Stellar simulated 8-bit computer architecture.
+- [Optimized implementations of various library functions for ARM architecture processors](https://github.com/ARM-software/optimized-routines)

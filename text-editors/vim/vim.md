@@ -44,3 +44,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust.
 - [Lisp in Vim with Slimv or Vlime (2019)](https://susam.in/blog/lisp-in-vim-with-slimv-or-vlime/)
 - [Build Your Own Vim Emulation for VS Code (2020)](https://johtela.github.io/vscode-modaledit/docs/.vscode/settings.html) ([HN](https://news.ycombinator.com/item?id=22383841))
+- [130+ Essential Vim Commands (2020)](https://catswhocode.com/vim-commands/)

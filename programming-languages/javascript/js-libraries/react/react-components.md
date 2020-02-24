@@ -67,6 +67,7 @@
 - [react-range](https://github.com/tajo/react-range) - Range input with a slider. Accessible. Bring your own styles and markup.
 - [react-markdown](https://github.com/rexxars/react-markdown) - Renders Markdown as pure React components.
 - [React Stripe.js](https://github.com/stripe/react-stripe-js) - React components for Stripe.js and Stripe Elements.
+- [React Split Pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
 
 ## Links
 

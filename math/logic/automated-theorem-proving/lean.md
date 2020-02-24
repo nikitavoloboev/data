@@ -18,3 +18,4 @@
 - [Maths in Lean : category theory](https://github.com/leanprover-community/mathlib/blob/master/docs/theories/category_theory.md)
 - [TypeTheory](https://github.com/UniMath/TypeTheory) - Mathematical study of type theories, in univalent foundations.
 - [M4P33](https://github.com/ImperialCollegeLondon/M4P33) - Algebraic geometry course in Lean.
+- [Lean 4 source code](https://github.com/leanprover/lean4)

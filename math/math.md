@@ -119,3 +119,4 @@
 - [Fields Institute](http://www.fields.utoronto.ca/) - International centre for scientific research in mathematical sciences at the University of Toronto.
 - [HN: Maryam Mirzakhani](https://news.ycombinator.com/item?id=22382942)
 - [Mathematics for the adventurous self-learner (2020)](https://www.neilwithdata.com/mathematics-self-learner) ([HN](https://news.ycombinator.com/item?id=22400375))
+- [Math is your insurance policy (2020)](https://bartoszmilewski.com/2020/02/24/math-is-your-insurance-policy/) ([HN](https://news.ycombinator.com/item?id=22406667))

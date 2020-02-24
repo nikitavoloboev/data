@@ -7,3 +7,4 @@
   flash chips.
 - [UEFITool](https://github.com/LongSoft/UEFITool) - Cross-platform C++/Qt program for parsing, extracting and modifying UEFI firmware images.
 - [Open-source Firmware (2019)](https://queue.acm.org/detail.cfm?id=3349301)
+- [Trusted Firmware-A](https://github.com/ARM-software/arm-trusted-firmware) - Reference implementation of secure world software for Arm A-Profile architectures.

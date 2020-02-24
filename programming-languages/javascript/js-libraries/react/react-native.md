@@ -60,3 +60,4 @@
 - [UI Kitten](https://github.com/akveo/react-native-ui-kitten) - React Native UI Library based on Eva Design System.
 - [rn-placeholder](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native.
 - [Bridging in React Native (2015)](https://tadeuzagallo.com/blog/react-native-bridge/) - An in-depth look into React Native's core.
+- [Installing React Native on macOS course](https://academy.infinite.red/p/installing-react-native-tutorial-on-macos/)

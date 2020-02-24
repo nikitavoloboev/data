@@ -154,3 +154,4 @@
 - [Kubevious](https://github.com/kubevious/kubevious) - Application centric Kubernetes UI.
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
 - [Hubble](https://github.com/cilium/hubble) - Network, Service & Security Observability for Kubernetes.
+- [NATS Streaming Operator](https://github.com/nats-io/nats-streaming-operator) - Operator for managing NATS Streaming clusters running on Kubernetes.

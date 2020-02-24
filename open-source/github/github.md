@@ -72,3 +72,4 @@ I publish most of my work and make it open source for other people to use and re
 - [The past and the future of hub (2020)](https://mislav.net/2020/01/github-cli/)
 - [Trends](https://trends.now.sh/) - Ultra high performance GitHub trending application. ([Code](https://github.com/hanford/trends))
 - [Highfive](https://github.com/rust-lang/highfive) - GitHub hooks to provide an encouraging atmosphere for new contributors.
+- [grep.app](https://grep.app/) - Search across a half million git repos. ([HN](https://news.ycombinator.com/item?id=22396824))

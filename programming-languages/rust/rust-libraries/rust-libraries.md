@@ -42,6 +42,7 @@
 - [SQLx](https://github.com/launchbadge/sqlx) - Rust SQL Toolkit.
 - [Diesel](https://github.com/diesel-rs/diesel) - Safe, extensible ORM and Query Builder.
 - [postgres-query](https://github.com/nolanderc/rust-postgres-query) - Write and execute SQL queries with ease.
+- [Rusqlite](https://github.com/jgallagher/rusqlite) - Ergonomic bindings to SQLite for Rust.
 
 ## Graphics
 
@@ -229,7 +230,7 @@
 - [JSON-RPC](https://github.com/paritytech/jsonrpc) - Rust implementation of JSON-RPC 2.0 Specification. Transport-agnostic core and transport servers for http, ipc, websockets and tcp.
 - [yaml-rust](https://github.com/chyh1990/yaml-rust) - Pure rust YAML implementation.
 - [directories](https://github.com/soc/directories-rs) - Mid-level library that provides config/cache/data paths, following the respective conventions on Linux, macOS and Windows.
-- [Bastion](https://github.com/bastion-rs/bastion) - Highly-available, fault-tolerant runtime system with dynamic, dispatch-oriented, lightweight process model.
+- [Bastion](https://github.com/bastion-rs/bastion) - Highly-available, fault-tolerant runtime system with dynamic, dispatch-oriented, lightweight process model. ([HN](https://news.ycombinator.com/item?id=22403713))
 - [Desse](https://github.com/devashishdxt/desse) - Ultra fast binary serialization and deserialization for types with a constant size (known at compile time).
 - [HdrHistogram](https://github.com/HdrHistogram/HdrHistogram_rust) - Port of HdrHistogram to Rust.
 - [ritual](https://github.com/rust-qt/ritual) - Use C++ libraries from Rust.
@@ -245,6 +246,8 @@
 - [log](https://github.com/rust-lang/log) - Logging implementation for Rust.
 - [typed-html](https://github.com/bodil/typed-html) - Type checked JSX for Rust.
 - [enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust.
+- [tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
+- [GraphCore](https://github.com/metamolecular/graphcore) - Provides primitives and traversals for working with graphs.
 
 ## Cargo Plugins
 

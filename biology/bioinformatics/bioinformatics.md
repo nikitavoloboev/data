@@ -24,3 +24,4 @@
 - [Rust-Bio](https://github.com/rust-bio/rust-bio) - Provides implementations of many algorithms and data structures that are useful for bioinformatics.
 - [Low-N protein engineering with data-efficient deep learning (2020)](https://www.biorxiv.org/content/10.1101/2020.01.23.917682v1)
 - [Machine Boss](https://github.com/evoldoers/machineboss) - Bioinformatics Open Source Sequence machine.
+- [atomium](https://github.com/samirelanduk/atomium) - Python molecular modeller (with .pdb/.cif/.mmtf parsing and production).

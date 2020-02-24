@@ -76,6 +76,7 @@
 - [pg_query_go](https://github.com/lfittl/pg_query_go) - Go library to parse and normalize SQL queries using the PostgreSQL query parser.
 - [SQLBoiler](https://github.com/volatiletech/sqlboiler) - Tool to generate a Go ORM tailored to your database schema.
 - [sqlmw](https://github.com/ngrok/sqlmw) - Provides an absurdly simple API that allows a caller to wrap a database/sql driver with middleware.
+- [go-mysql](https://github.com/siddontang/go-mysql) - Pure go library to handle MySQL network protocol and replication.
 
 ## ML
 
@@ -344,6 +345,8 @@
 - [New Relic Go Agent](https://github.com/newrelic/go-agent) - Allows you to monitor your Go applications with New Relic.
 - [MemGuard](https://github.com/awnumar/memguard) - Secure software enclave for storage of sensitive information in memory.
 - [Generic and Fast Binary Serializer for Go](https://github.com/kelindar/binary)
+- [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go.
+- [Clipboard](https://github.com/atotto/clipboard) - Provide copying and pasting to the Clipboard for Go.
 
 ## Links
 

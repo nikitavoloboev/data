@@ -35,3 +35,6 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Google Web Fonts Helper](https://google-webfonts-helper.herokuapp.com/fonts) - Hassle-Free Way to Self-Host Google Fonts. ([Code](https://github.com/majodev/google-webfonts-helper))
 - [50 free handwriting fonts (2020)](https://blog.usepastel.com/post/50-free-handwriting-fonts)
 - [Crafting the Airbnb Cereal Typeface (2018)](https://karrisaarinen.com/posts/developing-airbnb-cereal/)
+- [Visual Overview of Typography](http://thinkingwithtype.com/letter/)
+- [Thinking With Type](http://thinkingwithtype.com/) - Book on Typography.
+- [The Raster Tragegy and Low Resolution](http://rastertragedy.com/)

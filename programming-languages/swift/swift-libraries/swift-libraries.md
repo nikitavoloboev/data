@@ -1,5 +1,9 @@
 # Swift libraries
 
+## CLI
+
+- [Brisk](https://github.com/twostraws/Brisk) - Proof of concept scripting library for Swift.
+
 ## Animation
 
 - [Anim](https://github.com/onurersel/anim#readme) - Swift animation library for iOS, tvOS and macOS.
@@ -11,6 +15,7 @@
 
 ## iOS
 
+- [Permission](https://github.com/delba/Permission) - Exposes a unified API to request permissions on iOS.
 - [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Modal controller as in mail or Apple music application.
 - [SPPermission](https://github.com/IvanVorobei/SPPermission) - Simple request permission with native UI and interactive animation.
 - [PanModal](https://github.com/slackhq/PanModal) - Elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.
@@ -40,6 +45,7 @@
 - [ChartView](https://github.com/AppPear/ChartView) - Swift package for displaying charts effortlessly.
 - [URLImage](https://github.com/dmytro-anokhin/url-image) - Asynchronous image loading in SwiftUI. SwiftUI Image view that displays an image downloaded from URL, with cache and filters.
 - [SwiftUI Router](https://github.com/frzi/SwiftUIRouter) - Routing in SwiftUI.
+- [Graphaello](https://github.com/nerdsupremacist/Graphaello) - Tool for Writing Declarative, Type-Safe and Data-Driven Applications in SwiftUI using GraphQL.
 
 ## macOS
 
@@ -176,6 +182,8 @@
 - [Nuke](https://github.com/kean/Nuke) - Powerful image loading and caching system.
 - [SwiftyUtils](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 - [Result](https://github.com/antitypical/Result) - Swift type modelling the success/failure of arbitrary operations.
+- [DefaultCodable](https://github.com/gonzalezreal/DefaultCodable) - Convenient way to handle default values with Swift Codable types.
+- [PSOperations](https://github.com/pluralsight/PSOperations) - Framework that leverages the power of NSOperation and NSOperationQueue.
 
 ## Links
 
