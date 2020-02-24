@@ -6,6 +6,7 @@
 - [OctoLinker site](https://github.com/OctoLinker/octolinker.now.sh)
 - [Syntax.fm](https://github.com/wesbos/Syntax)
 - [Notion Blog](https://github.com/ijjk/notion-blog) - Next.js site using new SSG support with a Notion backed blog.
+- [Companies / Sites using NextJS](https://github.com/zeit/next.js/discussions/10640)
 
 ## NextJS plugins
 

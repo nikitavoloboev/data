@@ -176,3 +176,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Reedsy](https://reedsy.com/) - Crafting beautiful books is at the heart of everything that Reedsy does.
 - [Ask HN: Are books worth it? (2020)](https://news.ycombinator.com/item?id=21955258)
 - [1,000 Free Audio Books](http://www.openculture.com/freeaudiobooks)
+- [Read This Twice](https://readthistwice.com/) - Books worth reading twice.

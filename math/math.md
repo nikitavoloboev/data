@@ -118,3 +118,4 @@
 - [Grant Sanderson's TED talk on effective teaching of math (2020)](https://youtu.be/kAoQzTcpkyo?t=12588)
 - [Fields Institute](http://www.fields.utoronto.ca/) - International centre for scientific research in mathematical sciences at the University of Toronto.
 - [HN: Maryam Mirzakhani](https://news.ycombinator.com/item?id=22382942)
+- [Mathematics for the adventurous self-learner (2020)](https://www.neilwithdata.com/mathematics-self-learner) ([HN](https://news.ycombinator.com/item?id=22400375))
