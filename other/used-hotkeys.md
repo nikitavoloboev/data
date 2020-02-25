@@ -57,6 +57,7 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - 9 - Typinator quick search
 - u - Open URL
 - i - Tester
+- z - ScreenFlow partial screen record
 - x - Little Snitch Network Monitor
 - c - Sleep
 - v - Selection -> HN

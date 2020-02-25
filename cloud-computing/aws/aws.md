@@ -42,3 +42,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Bash-my-AWS](https://bash-my-aws.org/) - Simple but extremely powerful set of CLI commands for managing resources on Amazon Web Services. ([Code](https://github.com/bash-my-aws/bash-my-aws))
 - [AWS Docs](https://docs.aws.amazon.com/)
 - [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify#readme)
+- [Better Way to SSH in AWS (With RDS tunneling and security automation) (2020)](https://nullsweep.com/a-better-way-to-ssh-in-aws/)

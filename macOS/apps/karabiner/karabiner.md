@@ -39,3 +39,4 @@ I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob
 - [Customize Karabiner With Goku (2019)](https://johnlindquist.com/customize-karabiner-with-goku)
 - [Karabiner Elements Keycodes](https://github.com/aerobounce/karabiner-elements-keycodes)
 - [Hacking your keyboard with karabiner (2019)](https://blog.kaush.co/2019/12/25/hacking-your-keyboard/) ([HN](https://news.ycombinator.com/item?id=21891082))
+- [Merge karabiner.json with complex modification rules](https://gist.github.com/narze/527ac6321c24cfde71bc3b30b7c078f3)
