@@ -70,3 +70,8 @@
 - Mobile apps - Prefer to build iOS apps with native [Swift](https://developer.apple.com/swift/) & [SwiftUI](https://developer.apple.com/xcode/swiftui/). For apps that need cross platform support, I use [React Native](https://facebook.github.io/react-native/).
 - Pick services from cloud providers where it makes sense. Solving problems is what matters. Tech used only matters to the extent that code should be maintainable and fast where needed.
 - ML Models - Use [PyTorch](https://pytorch.org).
+
+## Slides/presentations
+
+- Use either [beautiful.ai](https://www.beautiful.ai) or [mdx-deck](https://github.com/jxnblk/mdx-deck).
+
