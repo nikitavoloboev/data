@@ -45,3 +45,4 @@ All active variables can be seen by running `env`.
 - [Curl to shell isn’t so bad (2019)](https://www.arp242.net/curl-to-sh.html)
 - [Partial Tour Through the UNIX Shell](http://www.collyer.net/who/geoff/sh.tour.pdf)
 - [ABS](https://github.com/abs-lang/abs) - Programming language that works best when you're scripting on your terminal.
+- [Wez's Terminal](https://github.com/wez/wezterm) - GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust.

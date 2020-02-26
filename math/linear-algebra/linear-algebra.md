@@ -19,3 +19,4 @@
 - [Oxford Linear Algebra II course (2020)](https://courses.maths.ox.ac.uk/node/43829)
 - [No bullshit guide to linear algebra notebooks](https://github.com/minireference/noBSLAnotebooks)
 - [MIT Linear Algebra Lectures (2010)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+- [An Intuitive Guide to Linear Algebra (2012)](https://betterexplained.com/articles/linear-algebra-guide/) ([HN](https://news.ycombinator.com/item?id=22416319))

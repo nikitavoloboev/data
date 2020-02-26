@@ -713,6 +713,7 @@
 - [Other](other/other.md)
   - [Wiki workflow](other/wiki-workflow.md)
   - [My workflow notation](other/my-workflow-notation.md)
+  - [Notes](other/notes.md)
   - [Queries](other/queries.md)
   - [Funny](other/funny.md)
   - [Puzzles](other/puzzles.md)

@@ -44,3 +44,4 @@
 - [Design System Checklist](https://designsystemchecklist.com/) - Open-source checklist to help you plan, build and grow your design system. ([Code](https://github.com/ardakaracizmeli/design-system-checklist))
 - [OpenChakra](https://openchakra.app/) - Visual editor for Chakra UI. ([Code](https://github.com/premieroctet/openchakra)) ([HN](https://news.ycombinator.com/item?id=22307270))
 - [Chromatic](https://github.com/ui-js/chromatic) - Tool to help manage design systems by generating platform-specific files from a source file describing design tokens.
+- [Prism](https://github.com/GettEngineering/Prism) - Gett's Design System code generator. Use Zeplin Styleguides as your R&D's Single Source of Truth.

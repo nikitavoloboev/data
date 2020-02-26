@@ -18,3 +18,4 @@
 - [Blast](https://github.com/mosuka/blast) - Full text search and indexing server, written in Go, built on top of Bleve.
 - [Riot search](https://github.com/go-ego/riot) - Go Open Source, Distributed, Simple and efficient full text search engine.
 - [In depth guide to running Elasticsearch in production (2020)](https://facinating.tech/2020/02/22/in-depth-guide-to-running-elasticsearch-in-production/) ([HN](https://news.ycombinator.com/item?id=22396918))
+- [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency.

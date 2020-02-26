@@ -97,3 +97,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS Performance tips you probably didn't know (from an ex-Apple engineer) (2020)](https://www.fadel.io/blog/posts/ios-performance-tips-you-probably-didnt-know/)
 - [iOS 13 Design Guidelines, Templates, and Downloads (2020)](https://learnui.design/blog/ios-design-guidelines-templates.html)
 - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS. ([HN](https://news.ycombinator.com/item?id=22385370))
+- [XCTestHTMLReport](https://github.com/TitouanVanBelle/XCTestHTMLReport) - Xcode-like HTML report for Unit and UI Tests.

@@ -73,5 +73,5 @@
 
 ## Slides/presentations
 
-- Use either [beautiful.ai](https://www.beautiful.ai) or [mdx-deck](https://github.com/jxnblk/mdx-deck).
+- Use either [beautiful.ai](https://www.beautiful.ai) or [spectacle](https://formidable.com/open-source/spectacle/).
 

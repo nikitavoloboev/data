@@ -44,3 +44,4 @@
 - [Curriculum for Reinforcement Learning (2020)](https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html)
 - [RLax](https://github.com/deepmind/rlax) - Library built on top of JAX that exposes useful building blocks for implementing reinforcement learning agents.
 - [Curated list of awesome imitation learning resources and publications](https://github.com/kristery/Awesome-Imitation-Learning#readme)
+- [Structural implementation of RL key algorithms](https://github.com/medipixel/rl_algorithms)

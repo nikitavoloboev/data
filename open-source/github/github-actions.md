@@ -13,6 +13,7 @@
 - [action-project-manager](https://github.com/jason0x43/action-project-manager) - Relativley simple a GitHub Action that can be used to manage issues in a project.
 - [compressed-size-action](https://github.com/preactjs/compressed-size-action) - GitHub Action that adds compressed size changes to your PRs.
 - [GitHub Action for Continuous Benchmarking](https://github.com/rhysd/github-action-benchmark)
+- [GitHub Action for GitHub Push](https://github.com/ad-m/github-push-action) - GitHub Actions for pushing to GitHub repository local changes authorizing using GitHub token.
 
 ## Rust
 
@@ -49,3 +50,4 @@
 - [Creating GitHub Actions in Python (2019)](https://www.jacobtomlinson.co.uk/posts/2019/creating-github-actions-in-python/)
 - [Exploring Actions (2019)](https://brandur.org/nanoglyphs/005-actions)
 - [GitHub Actions Runner](https://github.com/actions/runner) - Runner is the application that runs a job from a GitHub Actions workflow. The runner can run on the hosted machine pools or run on self-hosted environments.
+- [Awesome Actions](https://github.com/sdras/awesome-actions#readme) - Curated list of awesome actions to use on GitHub.

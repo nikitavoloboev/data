@@ -208,6 +208,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [rrweb](https://github.com/rrweb-io/rrweb) - Tool for recording and replaying users' interactions on the web.
 - [Solidarity](https://github.com/infinitered/solidarity) - Environment checker for project dependencies across multiple machines.
 - [GDBFrontend](https://github.com/rohanrhu/gdb-frontend) - Easy, flexible and extensionable GUI debugger.
+- [destiny](https://github.com/benawad/destiny) - Prettier for File Structures.
 
 ## Notes
 

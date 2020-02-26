@@ -37,3 +37,4 @@
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [Dask JupyterLab Extension](https://github.com/dask/dask-labextension) - Provides a JupyterLab extension to manage Dask clusters, as well as embed Dask's dashboard plots directly into JupyterLab panes.
 - [Real Time Collaboration for Jupyter and beyond](https://github.com/jupyterlab/rtc)
+- [fastpages](https://github.com/fastai/fastpages) - Easy to use blogging platform, with support for Jupyter notebooks, Word docs, and Markdown.

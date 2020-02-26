@@ -14,3 +14,4 @@
 - [mdx-deck-live-code](https://github.com/JReinhold/mdx-deck-live-code) - Component for mdx-deck for live coding directly in your slides.
 - [Sizle](https://sizle.io/) - Bring your slide decks to life.
 - [Waymark](https://waymark.io/) - Instant, beautiful roadmaps for product presentations.
+- [Marp CLI](https://github.com/marp-team/marp-cli) - Can convert Marp / Marpit Markdown files into static HTML / CSS, PDF, PowerPoint document, and image(s) easily.
