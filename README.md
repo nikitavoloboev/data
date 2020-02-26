@@ -10,7 +10,7 @@ You can quickly search the contents of this wiki above or you can explore the tr
 
 You can access [any entry](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
 
-Aside from this wiki, I share [code snippets](https://code.nikitavoloboev.xyz) and build [Learn Anything](ideas/learn-anything.md) .
+Aside from this wiki, I share [code snippets](https://code.nikitavoloboev.xyz) and build [Learn Anything](ideas/learn-anything.md).
 
 ## Other things I wrote and shared
 

@@ -36,6 +36,9 @@ I want to minimize incoming stream of information that I can't act on. I want to
 
 Read books & research papers relevant to problems I want to solve. This means reading long form writing where prolonged focus is needed. Note down and act on gained insights.
 
-## Write & share
+## Write, record videos & share
 
 Rebuild my personal website & have my own hosted blog I can extend (with RSS feed). Start writing to it. Share tools/projects details on my website.
+
+Start teaching with videos. Review. Edit. And publish quality content.
+

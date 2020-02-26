@@ -25,3 +25,4 @@
 - [LLVM source code](https://github.com/llvm-mirror/llvm)
 - [Generating Verified LLVM from Isabelle/HOL](https://drops.dagstuhl.de/opus/volltexte/2019/11077/pdf/LIPIcs-ITP-2019-22.pdf)
 - [Snel: SQL Native Execution for LLVM (2020)](https://arxiv.org/abs/2002.09449) ([HN](https://news.ycombinator.com/item?id=22404004))
+- [Clang](http://clang.llvm.org/) - C language family frontend for LLVM. ([Docs](http://clang.llvm.org/docs/index.html))

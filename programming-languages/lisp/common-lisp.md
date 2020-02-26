@@ -9,3 +9,4 @@
 - [LISP/c (Lispy)](https://github.com/eratosthenesia/lispc) - Lisp(ish) to C Converter (designed for CLISP).
 - [Cons cells vs. Linked Lists (2020)](http://funcall.blogspot.com/2020/01/cons-cells-vs-linked-lists.html)
 - [ANSI Common Lisp](http://www.paulgraham.com/acl.html?viewfullsite=1) - Combines an introduction to Lisp programming, and a convenient, up-to-date reference manual for ANSI Common Lisp ([HN](https://news.ycombinator.com/item?id=22083507)).
+- [Modern, functional Common Lisp: Myths and tips (2020)](https://ambrevar.xyz/modern-common-lisp/index.html) ([HN](https://news.ycombinator.com/item?id=22412148))

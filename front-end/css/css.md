@@ -110,3 +110,4 @@
 - [Learn CSS Positioning](https://ishadeed.com/article/learn-css-positioning/)
 - [CSS Triggers](https://csstriggers.com/)
 - [Bounce.js](http://bouncejs.com/) - Tool and JS library that lets you create beautiful CSS3 powered animations. ([Code](https://github.com/tictail/bounce.js))
+- [Selectors Explained](https://hugogiraudel.github.io/selectors-explained/) - Translate CSS selectors into plain English. ([Code](https://github.com/HugoGiraudel/selectors-explained))

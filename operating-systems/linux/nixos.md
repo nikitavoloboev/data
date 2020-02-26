@@ -11,7 +11,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 
 ## Nix configs (NixOS)
 
-- [Infrastructure](https://github.com/rvolosatovs/infrastructure#readme)
+- [Infrastructure](https://github.com/rvolosatovs/infrastructure#readme) ([How to use it](https://github.com/rvolosatovs/infrastructure/issues/3))
 - [Bob nix-home](https://github.com/bobvanderlinden/nix-home)
 - [Brian McKenna Nix Files](https://github.com/puffnfresh/nix-files) - NixOS configuration and custom Nix derivations.
 - [William A. Kennington III](https://github.com/wkennington/nixos) - NixOS configurations for my local cluster of machines.

@@ -155,3 +155,4 @@
 - [client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes.
 - [Hubble](https://github.com/cilium/hubble) - Network, Service & Security Observability for Kubernetes.
 - [NATS Streaming Operator](https://github.com/nats-io/nats-streaming-operator) - Operator for managing NATS Streaming clusters running on Kubernetes.
+- [What is your favorite Kubernetes feature that nobody seems to know about? (2020)](https://www.reddit.com/r/kubernetes/comments/f9fque/what_is_your_favorite_kubernetes_feature_that/)

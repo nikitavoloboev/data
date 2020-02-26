@@ -19,6 +19,7 @@
 - [Ring UI](https://jetbrains.github.io/ring-ui/master/index.html?path=/story/ring-ui-welcome--getting-started) - JetBrains Web UI components. ([Code](https://github.com/JetBrains/ring-ui))
 - [Classy-UI](https://classy-ui.io/) - Atomic design system inspired by the wonderful Tailwindcss. ([Code](https://github.com/cerebral/classy-ui))
 - [Radix](https://radix.modulz.app/docs/getting-started/) - Design System and Component Library for Modulz. ([Code](https://github.com/modulz/radix))
+- [Tailwind UI](https://tailwindui.com/) - Beautiful UI components, crafted by the creators of Tailwind CSS. ([HN](https://news.ycombinator.com/item?id=22422873))
 
 ## Links
 
