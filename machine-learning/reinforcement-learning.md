@@ -45,3 +45,4 @@
 - [RLax](https://github.com/deepmind/rlax) - Library built on top of JAX that exposes useful building blocks for implementing reinforcement learning agents.
 - [Curated list of awesome imitation learning resources and publications](https://github.com/kristery/Awesome-Imitation-Learning#readme)
 - [Structural implementation of RL key algorithms](https://github.com/medipixel/rl_algorithms)
+- [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks#readme) - Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp.

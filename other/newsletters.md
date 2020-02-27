@@ -8,3 +8,4 @@
 - [Unreadit](https://unreadit.com/) - Curated weekly newsletters.
 - [Substack](https://substack.com/)
 - [On Being a Good Newsletterer](https://craigmod.com/essays/on_writing_good_newsletters/) - Notes and tips on how not to be a newsletter.
+- [Sendy](https://sendy.co/) - Send newsletters, 100x cheaper via Amazon SES.
