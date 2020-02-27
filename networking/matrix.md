@@ -2,10 +2,16 @@
 
 Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) is a web and mobile interface to the Matrix system.
 
+[Dendrite](https://github.com/matrix-org/dendrite) is Matrix homeserver written in Go. It is a rewrite of [synapse](https://github.com/matrix-org/synapse) that was written in Python which could not scale.
+
 ## Bridges
 
 - [IRC](https://github.com/matrix-org/matrix-ircd)
 - [WhatsApp](https://github.com/tulir/mautrix-whatsapp)
+
+## Notes
+
+- Dendrite: You don't need to run Kafka unless working on distributed stuff. It is composed of several microservices (room server, sync api, media api...). Kafka is used to transfer messages between those microservices.
 
 ## Links
 
@@ -23,3 +29,5 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [The 2018 Matrix Holiday Special](https://matrix.org/blog/2018/12/25/the-2018-matrix-holiday-special/)
 - [HN: The Matrix.org 2018 year in review](https://news.ycombinator.com/item?id=18756787)
 - [Nio](https://github.com/kiliankoe/nio) - Upcoming matrix client for iOS.
+- [Dendrite design](https://github.com/matrix-org/dendrite/blob/master/DESIGN.md)
+- [Dendrite checklist](https://docs.google.com/spreadsheets/d/1tkMNpIpPjvuDJWjPFbw_xzNzOHBA-Hp50Rkpcr43xTw) - API to finish for release.

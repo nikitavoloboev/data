@@ -106,3 +106,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The Law of Conservation of Complexity (1984)](http://nomodes.com/Larry_Tesler_Consulting/Complexity_Law.html) ([HN](https://news.ycombinator.com/item?id=22375331))
 - [Broadcaster](https://github.com/encode/broadcaster) - Helps you develop realtime streaming functionality in by providing a simple broadcast API onto a number of different backend services.
 - [Sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer.
+- [Open Standards](http://www.open-std.org/) - Holds a number of web pages for groups producing open standards.

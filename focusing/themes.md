@@ -28,7 +28,7 @@ Dive deep into technology I use. Understand each layer of the stack intimately. 
 
 ## Minimize & refine tools
 
-I want to deeply focus on building and extending tools to solve well defined problems I have. I want to further automate and optimize any frictions I feel in life & work to free up time and energy to do creative problem solving.
+I want to deeply focus on building and extending tools to solve well defined problems I have. I want to further automate and optimize any frictions I feel in life & work to free up time and energy to do creative problem solving. Want to run less software & use less general tools. Want to deeply know the tools I use and software I run.
 
 I want to minimize incoming stream of information that I can't act on. I want to surround myself with a community of people that inspire me to create more. The tools I use & spaces I work in should reflect these goals.
 
@@ -40,5 +40,5 @@ Read books & research papers relevant to problems I want to solve. This means re
 
 Rebuild my personal website & have my own hosted blog I can extend (with RSS feed). Start writing to it. Share tools/projects details on my website.
 
-Start teaching with videos. Review. Edit. And publish quality content.
+Start teaching with videos. Review, edit & publish quality content.
 
