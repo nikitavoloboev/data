@@ -248,6 +248,8 @@
 - [enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust.
 - [tracing](https://github.com/tokio-rs/tracing) - Application level tracing for Rust.
 - [GraphCore](https://github.com/metamolecular/graphcore) - Provides primitives and traversals for working with graphs.
+- [Async trait methods](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods.
+- [compiler-builtins](https://github.com/rust-lang/compiler-builtins) - Porting `compiler-rt` intrinsics to Rust.
 
 ## Cargo Plugins
 

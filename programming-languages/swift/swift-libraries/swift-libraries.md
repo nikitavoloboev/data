@@ -32,6 +32,7 @@
 - [OnboardKit](https://github.com/NikolaKirev/OnboardKit) - Customizable user onboarding for your UIKit app in Swift.
 - [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable.
 - [SFSymbolsSafe](https://github.com/cezarywojcik/SFSymbolsSafe) - Safe way to use SF Symbols.
+- [KeyboardGuide](https://github.com/niw/KeyboardGuide) - Modern, real iOS keyboard system notifications handler framework that Just Works.
 
 ## Web
 
@@ -184,6 +185,8 @@
 - [Result](https://github.com/antitypical/Result) - Swift type modelling the success/failure of arbitrary operations.
 - [DefaultCodable](https://github.com/gonzalezreal/DefaultCodable) - Convenient way to handle default values with Swift Codable types.
 - [PSOperations](https://github.com/pluralsight/PSOperations) - Framework that leverages the power of NSOperation and NSOperationQueue.
+- [SwiftRichString](https://github.com/malcommac/SwiftRichString) - Elegant, easy and swift-like way to create Attributed Strings.
+- [Insert3D](https://github.com/Viktoo/Insert3D) - Fastest way to embed a 3D model in Swift.
 
 ## Links
 

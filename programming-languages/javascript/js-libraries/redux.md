@@ -60,3 +60,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Redux Toolkit](https://redux-toolkit.js.org/) - Official, opinionated, batteries-included toolset for efficient Redux development. ([Code](https://github.com/reduxjs/redux-toolkit))
 - [Redux Shouldn’t Hold All Of Your Data (2019)](https://michaelwashburnjr.com/2019/12/09/stop-storing-data-redux/)
 - [Redux Thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux.
+- [React context vs Redux in 2020](https://gist.github.com/slikts/57ff1acdb6f5b2ea075b701d1daf896d)

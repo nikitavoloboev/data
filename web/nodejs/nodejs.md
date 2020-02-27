@@ -60,3 +60,4 @@
 - [Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices#readme)
 - [vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js.
 - [mock-fs](https://github.com/tschaub/mock-fs) - Allows Node's built-in fs module to be backed temporarily by an in-memory, mock file system.
+- [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - One-liner node.js http-proxy middleware for connect, express and browser-sync.

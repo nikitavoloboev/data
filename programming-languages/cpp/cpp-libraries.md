@@ -63,3 +63,4 @@
 - [Acutest](https://github.com/mity/acutest) - Simple header-only C/C++ unit testing facility.
 - [Boost Multiprecision Library](https://github.com/boostorg/multiprecision) - Provides integer, rational, floating-point, complex and interval number types in C++ that have more range and precision than C++'s ordinary built-in types.
 - [Sentry SDK for C/C++](https://github.com/getsentry/sentry-native)
+- [scnlib](https://github.com/eliaskosunen/scnlib) - Modern C++ library for replacing scanf and std::istream.

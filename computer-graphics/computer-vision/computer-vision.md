@@ -27,3 +27,4 @@
 - [Disappearing-People](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser. ([HN](https://news.ycombinator.com/item?id=22353596))
 - [Best Practices, code samples, and documentation for Computer Vision](https://github.com/microsoft/computervision-recipes)
 - [Computer Vision Basics in Microsoft Excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel#readme)
+- [PolyGen: An Autoregressive Generative Model of 3D Meshes (2020)](https://arxiv.org/abs/2002.10880)

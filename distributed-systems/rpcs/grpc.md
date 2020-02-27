@@ -16,3 +16,4 @@
 - [Seamless Cloud-Native Apps with gRPC-Web and Istio (2018)](https://venilnoronha.io/seamless-cloud-native-apps-with-grpc-web-and-istio)
 - [gRPCurl](https://github.com/fullstorydev/grpcurl) - Command-line tool that lets you interact with gRPC servers.
 - [Evans](https://github.com/ktr0731/evans) - More expressive universal gRPC client.
+- [ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments.

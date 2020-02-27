@@ -95,3 +95,4 @@
 - [Ask HN: What are some examples of good database schema designs? (2020)](https://news.ycombinator.com/item?id=22324691)
 - [Data flows and security architecture in CockroachDB (2020)](https://dr-knz.net/data-flows-and-security-architecture-in-cockroachdb.html)
 - [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning#readme) - List of learning materials to understand databases internals.
+- [Sharing an SQLite database across containers is surprisingly brilliant (2020)](https://medium.com/@rbranson/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054)

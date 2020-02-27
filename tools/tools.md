@@ -27,7 +27,9 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Logflare](https://logflare.app/) - Affordable log management & event analytics.
 - [Nuclino](https://www.nuclino.com/) - Lightweight and collaborative wiki for all your team's knowledge, docs, and notes.
 - [Draw.io](https://www.draw.io/) - Online diagramming web site that delivers the source in this project. ([Code](https://github.com/jgraph/drawio))
+- [GoLinks](https://www.golinks.io/) - Replace lengthy URLs with intuitive golinks to get your organization on the same page faster.
 - [Muse](https://museapp.com/) - iPad sketchbook.
+- [Exposure](https://exposure.co/) - Modern publishing platform for photographers and visual storytellers.
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.
 - [Bit.sv](https://bit.sv/) - New content network that lets anyone earn money from their interests.
 - [Drift](https://www.drift.com/) - Connect Your Sales Teams With Your Future Customers.
@@ -37,6 +39,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))
 - [Polar Bookshelf](https://getpolarized.io/) - Personal knowledge repository for PDF and web content supporting incremental reading and document annotation. ([Code](https://github.com/burtonator/polar-bookshelf))
 - [Instantish](https://www.itsinstantish.com/) - Chat-first issue tracker.
+- [Reaction Commerce](https://reactioncommerce.com/) - API-first, modular commerce stack made for ambitious brands and retailers. ([Code](https://github.com/reactioncommerce/reaction))
 - [Missive](https://missiveapp.com/) - Collaborative email app where you’ll feel right at home.
 - [cargo-crev](https://github.com/crev-dev/cargo-crev) - Cryptographically verifiable code review system for the cargo (Rust) package manager.
 - [Cocoon](https://cocoon.com/) - Dedicated space for the most important people in your life.

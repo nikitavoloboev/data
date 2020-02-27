@@ -11,3 +11,4 @@
 - [Scryer Prolog](https://github.com/mthom/scryer-prolog) - Modern Prolog implementation written mostly in Rust.
 - [chalk](https://github.com/rust-lang/chalk) - PROLOG-ish interpreter written in Rust, intended eventually for use in the compiler.
 - [ELPI](https://github.com/LPCIC/elpi) - Embeddable λProlog Interpreter.
+- [Programming in Tabled Prolog book](https://github.com/SWI-Prolog/tabled-prolog-book)

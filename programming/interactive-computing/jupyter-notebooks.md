@@ -1,5 +1,13 @@
 # [Jupyter Notebooks](https://jupyter.org/)
 
+## Extensions
+
+- [jupyter-scribe](https://github.com/jupytercalpoly/jupyterlab-richtext-mode) - Extension that transforms Markdown cells into rich text-editing cells, powered by ProseMirror.
+- [Matplotlib Jupyter](https://github.com/matplotlib/jupyter-matplotlib) - Leveraging the Jupyter interactive widgets framework, jupyter-matplotlib enables the interactive features of matplotlib in the Jupyter notebook and in Jupyterlab.
+- [Variable Inspector extension for JupyterLab](https://github.com/lckr/jupyterlab-variableInspector)
+- [Jupyter Sphinx](https://github.com/jupyter/jupyter-sphinx) - Sphinx extension for rendering of Jupyter interactive widgets.
+- [Dask JupyterLab Extension](https://github.com/dask/dask-labextension) - Provides a JupyterLab extension to manage Dask clusters, as well as embed Dask's dashboard plots directly into JupyterLab panes.
+
 ## Links
 
 - [HN: Estimating Number of Jupyter Notebooks on Github (2019)](https://news.ycombinator.com/item?id=19859484)
@@ -18,7 +26,6 @@
 - [Jupyter metapackage for installation and docs](https://github.com/jupyter/jupyter)
 - [Jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 - [nbcommands](https://github.com/vinayak-mehta/nbcommands) - Unix commands for Jupyter notebooks.
-- [jupyter-scribe](https://github.com/jupytercalpoly/jupyterlab-richtext-mode) - Extension that transforms Markdown cells into rich text-editing cells, powered by ProseMirror.
 - [Jupyter/IPython Kernel Tools](https://github.com/Calysto/metakernel)
 - [Making Git and Jupyter Notebooks play nice (2017)](http://timstaley.co.uk/posts/making-git-and-jupyter-notebooks-play-nice/) ([HN](https://news.ycombinator.com/item?id=21661013))
 - [Jupyter Notebook Manifesto: Best practices that can improve the life of any developer using Jupyter notebooks](https://cloudblog.withgoogle.com/products/ai-machine-learning/best-practices-that-can-improve-the-life-of-any-developer-using-jupyter-notebooks/amp/)
@@ -30,11 +37,8 @@
 - [fastprogress](https://github.com/fastai/fastprogress) - Simple and flexible progress bar for Jupyter Notebook and console.
 - [nbdev template](https://github.com/fastai/nbdev_template) - Template for nbdev projects.
 - [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) - Free Jupyter notebook environment that requires no setup and runs entirely in the cloud.
-- [Variable Inspector extension for JupyterLab](https://github.com/lckr/jupyterlab-variableInspector)
 - [pyforest](https://github.com/8080labs/pyforest) - Lazy-imports all popular Python Data Science libraries so that they are always there when you need them.
 - [Livebook](https://github.com/inkandswitch/livebook) - IPython notebook-compatible live coding experiment. ([Demo](https://www.youtube.com/watch?v=hznPSDDF4Jk))
-- [Jupyter Sphinx](https://github.com/jupyter/jupyter-sphinx) - Sphinx extension for rendering of Jupyter interactive widgets.
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
-- [Dask JupyterLab Extension](https://github.com/dask/dask-labextension) - Provides a JupyterLab extension to manage Dask clusters, as well as embed Dask's dashboard plots directly into JupyterLab panes.
 - [Real Time Collaboration for Jupyter and beyond](https://github.com/jupyterlab/rtc)
 - [fastpages](https://github.com/fastai/fastpages) - Easy to use blogging platform, with support for Jupyter notebooks, Word docs, and Markdown.

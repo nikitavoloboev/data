@@ -75,3 +75,4 @@
 - [Python Coding Guidelines for Sanity](https://github.com/rednafi/py-sanity#readme)
 - [Human's Ultimate Guide to setup.py](https://github.com/navdeep-G/setup.py)
 - [Python Guide by NSA](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf)
+- [Python Packaging User Guide](https://packaging.python.org/)

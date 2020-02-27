@@ -147,3 +147,4 @@
 - [Cargo bundle](https://github.com/burtonageo/cargo-bundle) - Wrap Rust executables in OS-specific app bundles.
 - [Why Rust, or a Trip Report from My Satori with Rust and Functional Programming (2020)](https://christine.website/blog/why-rust-2020-02-15) ([HN](https://news.ycombinator.com/item?id=22338343)) ([Lobsters](https://lobste.rs/s/walse4/why_rust))
 - [Working with strings in Rust (2020)](https://fasterthanli.me/blog/2020/working-with-strings-in-rust/) ([Lobsters](https://lobste.rs/s/d8llrf/working_with_strings_rust))
+- [bindgen](https://github.com/rust-lang/rust-bindgen) - Automatically generates Rust FFI bindings to C (and some C++) libraries.

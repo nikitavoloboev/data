@@ -347,6 +347,8 @@
 - [Generic and Fast Binary Serializer for Go](https://github.com/kelindar/binary)
 - [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go.
 - [Clipboard](https://github.com/atotto/clipboard) - Provide copying and pasting to the Clipboard for Go.
+- [protobuild](https://github.com/stevvooe/protobuild) - Build protobufs in Go, easily.
+- [wal](https://github.com/tidwall/wal) - Write ahead log for Go.
 
 ## Links
 

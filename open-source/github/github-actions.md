@@ -14,6 +14,7 @@
 - [compressed-size-action](https://github.com/preactjs/compressed-size-action) - GitHub Action that adds compressed size changes to your PRs.
 - [GitHub Action for Continuous Benchmarking](https://github.com/rhysd/github-action-benchmark)
 - [GitHub Action for GitHub Push](https://github.com/ad-m/github-push-action) - GitHub Actions for pushing to GitHub repository local changes authorizing using GitHub token.
+- [actions-netlify](https://github.com/nwtgck/actions-netlify) - GitHub Actions for deploying Netlify.
 
 ## Rust
 

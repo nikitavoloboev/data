@@ -15,3 +15,4 @@
 - [Why Dhall advertises the absence of Turing-completeness (2020)](http://www.haskellforall.com/2020/01/why-dhall-advertises-absence-of-turing.html)
 - [Dhall for Kubernetes (2020)](https://christine.website/blog/dhall-kubernetes-2020-01-25) ([Lobsters](https://lobste.rs/s/v3s6vw/dhall_for_kubernetes))
 - [dhall-prometheus](https://github.com/TristanCacqueray/dhall-prometheus) - Prometheus configuration with Dhall.
+- [graph](https://github.com/Gabriel439/graph) - Dhall support for directed graphs with labeled vertices.

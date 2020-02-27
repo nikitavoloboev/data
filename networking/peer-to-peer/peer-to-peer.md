@@ -26,3 +26,4 @@
 - [Ouroboros](https://ouroboros.rocks/) - Decentralized packet networking rebuilt from the ground up. ([HN](https://news.ycombinator.com/item?id=22052416))
 - [Radicle](https://radicle.xyz/) - Secure peer-to-peer code collaboration without intermediaries.
 - [Monadic](https://monadic.xyz/) - Group of technologists who in 2017, set out to re-imagine free and open source software collaboration.
+- [Hypermerge](https://github.com/automerge/hypermerge) - Node.js library for building p2p collaborative applications without any server infrastructure.

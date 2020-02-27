@@ -24,3 +24,4 @@
 - [Awesome Coq](https://github.com/uhub/awesome-coq#readme)
 - [coq-of-ocaml](https://github.com/clarus/coq-of-ocaml) - Import OCaml programs to Coq.
 - [Poleiro](http://poleiro.info/) - Blog about Coq. ([Code](https://github.com/arthuraa/poleiro))
+- [Coq'Art](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book.

@@ -112,3 +112,4 @@
 - [Undux](https://github.com/bcherny/undux) - Simple & typesafe alternative to Flux and Redux.
 - [Concurrent Mode issues](https://concurrent-mode-oops.netlify.com/0)
 - [React Diff Viewer](https://praneshravi.in/react-diff-viewer/) - Simple and beautiful text diff viewer made with Diff and React. ([Code](https://github.com/praneshr/react-diff-viewer))
+- [Advanced memoization and effects in React (2020)](https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc)

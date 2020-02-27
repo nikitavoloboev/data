@@ -25,3 +25,6 @@
 - [FirstMark](https://firstmarkcap.com/) - Early stage VC.
 - [Emergent Ventures](https://www.mercatus.org/emergentventures) - New fellowship and grant program from the Mercatus Center, seeks to support entrepreneurs and brilliant minds with highly scalable, “zero to one” ideas for meaningfully improving society.
 - [Earnest Capital](https://earnestcapital.com/) - Provides early-stage funding, resources and a network of experienced advisors to founders building sustainable profitable businesses.
+- [Fuel Ventures](https://fuel.ventures/) - Early stage VC funding, London UK.
+- [Green Shares Capital](https://www.greenshorescapital.com/) - Invest in defensible technology businesses with exponential growth potential.
+- [U+I](https://www.uandiplc.com/) - Property developer and investor focused on regenerating overlooked and underestimated urban places.

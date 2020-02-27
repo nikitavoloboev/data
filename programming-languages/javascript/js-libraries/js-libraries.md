@@ -177,3 +177,4 @@
 - [Shades](https://github.com/jamesmcnamara/shades) - Lodash-inspired lens-like library for Javascript.
 - [mxGraph](https://github.com/jgraph/mxgraph) - Fully client side JavaScript diagramming library.
 - [cacache](https://github.com/npm/cacache) - Node.js library for managing local key and content address caches.
+- [enhanced-resolve](https://github.com/webpack/enhanced-resolve) - Offers an async require.resolve function. It's highly configurable.

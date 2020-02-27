@@ -41,7 +41,6 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Some beautiful paid wallpapers for iPhones](https://gumroad.com/jmdenis)
 - [Building Fluid Interfaces](https://medium.com/@nathangitter/building-fluid-interfaces-ios-swift-9732bb934bf5)
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - Clean and easy-to-use floating panel UI component for iOS.
-- [Linux shell for iOS](https://github.com/tbodt/ish)
 - [Flipper](https://github.com/facebook/flipper) - Desktop debugging platform for mobile developers.
 - [How I'd learn iOS Development](https://sandofskvy.com/blog/how-to-learn-ios-development.html)
 - [iOS resources](https://github.com/Ramshandilya/iOSRepo#readme) - List of resources & libraries for iOS and Swift.
@@ -98,3 +97,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS 13 Design Guidelines, Templates, and Downloads (2020)](https://learnui.design/blog/ios-design-guidelines-templates.html)
 - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS. ([HN](https://news.ycombinator.com/item?id=22385370))
 - [XCTestHTMLReport](https://github.com/TitouanVanBelle/XCTestHTMLReport) - Xcode-like HTML report for Unit and UI Tests.
+- [iSH](https://ish.app/) - Linux shell on iOS. ([Code](https://github.com/tbodt/ish))
