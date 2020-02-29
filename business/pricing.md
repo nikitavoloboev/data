@@ -1,6 +1,6 @@
 # Pricing
 
-Before selling things I owned, I look prices of other same or similar items on the marketplace and price the item accordingly.
+Before selling things I owned, I look at prices of same or similar items on the marketplace and price my item accordingly.
 
 ## Links
 

@@ -45,6 +45,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Andy Sparks](https://github.com/AndySparks/captains-log)
 - [Krzysztof Kowalczyk](https://blog.kowalczyk.info/)
 - [Phil Eaton's notes](http://notes.eatonphil.com/)
+- [Blue Book](https://lyz-code.github.io/blue-book/) ([Code](https://github.com/lyz-code/blue-book/))
 - [Jethro Kuan](https://braindump.jethro.dev/zettels/)
 - [C2](http://wiki.c2.com/)
 - [Full-stack web development notes](https://github.com/8483/notes#readme)

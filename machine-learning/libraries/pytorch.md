@@ -77,3 +77,4 @@
 - [Ignite](https://github.com/pytorch/ignite) - High-level library to help with training neural networks in PyTorch.
 - [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) - Lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate.
 - [PyTorch Forum](https://discuss.pytorch.org/)
+- [Collection of PyTorch notebooks for learning and practicing deep learning](https://github.com/dair-ai/pytorch_notebooks)
