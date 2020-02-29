@@ -78,3 +78,4 @@
 - [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) - Lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate.
 - [PyTorch Forum](https://discuss.pytorch.org/)
 - [Collection of PyTorch notebooks for learning and practicing deep learning](https://github.com/dair-ai/pytorch_notebooks)
+- [face.evoLVe](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch) - High-Performance Face Recognition Library based on PyTorch.

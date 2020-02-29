@@ -349,6 +349,7 @@
 - [Clipboard](https://github.com/atotto/clipboard) - Provide copying and pasting to the Clipboard for Go.
 - [protobuild](https://github.com/stevvooe/protobuild) - Build protobufs in Go, easily.
 - [wal](https://github.com/tidwall/wal) - Write ahead log for Go.
+- [protoc-go-inject-tag](https://github.com/favadi/protoc-go-inject-tag) - Inject custom tags to protobuf golang struct.
 
 ## Links
 
