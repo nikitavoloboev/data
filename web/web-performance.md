@@ -45,3 +45,4 @@
 - [Effective Profiling in Google Chrome (2020)](https://blog.appsignal.com/2020/02/20/effective-profiling-in-google-chrome.html)
 - [bundle-wizard](https://github.com/aholachek/bundle-wizard) - Easy insight into the JS loaded by a web app.
 - [Fast Software, the Best Software](https://craigmod.com/essays/fast_software/)
+- [Image CDNs can save 40-80% on image byte sizes by automating best practices](https://twitter.com/addyosmani/status/1232983718353981440)

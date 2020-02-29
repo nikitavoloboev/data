@@ -1,5 +1,10 @@
 # [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 
+## State
+
+- [Store](https://github.com/fabiospampinato/store) - Beautifully-simple framework-agnostic modern state management library.
+- [React Tracked](https://github.com/dai-shi/react-tracked) - Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
+
 ## Other
 
 - [Rooks](https://github.com/imbhargav5/rooks) - Collection of regularly used custom hooks as utils for React.
