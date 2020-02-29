@@ -34,3 +34,4 @@
 - [Xclean](https://github.com/macmade/Xclean) - macOS menu bar app that provides a convenient way to clear Xcode's derived data or module cache.
 - [Chalkboard Xcode Theme](https://github.com/lobianco/Chalkboard-Xcode-Theme)
 - [Xcode Build Configuration Files (2020)](https://nshipster.com/xcconfig/)
+- [Xcode Build Settings](https://xcodebuildsettings.com/)

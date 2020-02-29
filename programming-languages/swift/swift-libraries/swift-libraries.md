@@ -2,6 +2,7 @@
 
 ## CLI
 
+- [Swift Argument Parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
 - [Brisk](https://github.com/twostraws/Brisk) - Proof of concept scripting library for Swift.
 
 ## Animation

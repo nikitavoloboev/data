@@ -99,3 +99,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [XCTestHTMLReport](https://github.com/TitouanVanBelle/XCTestHTMLReport) - Xcode-like HTML report for Unit and UI Tests.
 - [iSH](https://ish.app/) - Linux shell on iOS. ([Code](https://github.com/tbodt/ish))
 - [Concurrency & Multithreading in iOS](https://www.viget.com/articles/concurrency-multithreading-in-ios/)
+- [Core Data Lab](https://betamagic.nl/products/coredatalab.html) - View, analyze and track your Core Data app’s data.
