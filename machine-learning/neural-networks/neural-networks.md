@@ -83,3 +83,4 @@
 - [Cutting out the Middle-Man: Training and Evaluating Energy-Based Models without Sampling](https://arxiv.org/abs/2002.05616) ([Tweet](https://twitter.com/wgrathwohl/status/1228144635010322440))
 - [Strategies for Pre-training Graph Neural Networks](https://github.com/snap-stanford/pretrain-gnns)
 - [Haiku](https://github.com/deepmind/haiku) - JAX-based neural network library.
+- [Convolution in one dimension for neural networks (2020)](https://e2eml.school/convolution_one_d.html)

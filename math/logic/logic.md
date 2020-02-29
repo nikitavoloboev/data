@@ -16,3 +16,4 @@
 - [An Introduction to Non-Classical Logic book](https://www.cambridge.org/ie/academic/subjects/philosophy/philosophy-science/introduction-non-classical-logic-if-2nd-edition?format=PB&isbn=9780521670265)
 - [Data Abstraction and Relational Program Logic (2020)](https://arxiv.org/pdf/1910.14560.pdf)
 - [Reinventing Formal Logic (2012)](https://oxij.org/note/ReinventingFormalLogic/)
+- [Univalence as a Principle of Logic (2016)](https://www.andrew.cmu.edu/user/awodey/preprints/uapl.pdf)

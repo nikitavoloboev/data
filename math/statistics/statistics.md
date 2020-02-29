@@ -15,3 +15,4 @@
 - [Introduction to Empirical Bayes: Examples from Baseball Statistics](http://varianceexplained.org/r/empirical-bayes-book/)
 - [Statistical mechanics of deep learning - Surya Ganguli (2019)](https://www.youtube.com/watch?v=-QF_jX8L0nw)
 - [Some Useful Probability Facts for Systems Programming (2020)](https://theartofmachinery.com/2020/01/27/systems_programming_probability.html)
+- [Graduate Level: Intro to Probability and Statistics](https://significantstatistics.com/index.php/Graduate_Level:_Intro_to_Probability_and_Statistics)

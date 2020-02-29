@@ -200,3 +200,5 @@
 - [ML courses by Zico Kolter](http://zicokolter.com/courses/)
 - [List of AI Residency Programs](https://github.com/dangkhoasdc/awesome-ai-residency#readme)
 - [MIT Introduction to Deep Learning course (2020)](http://introtodeeplearning.com/)
+- [End-to-End Machine Learning Library blog](https://e2eml.school/blog.html)
+- [Stanford Deep Multi-Task and Meta Learning course (2019)](http://cs330.stanford.edu/)

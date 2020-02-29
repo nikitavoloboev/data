@@ -13,3 +13,4 @@
 - [Awesome Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Most useful tools and data for creating web animations.
 - [How to Turn a Procreate Drawing into a Web Animation (2020)](https://css-tricks.com/how-to-turn-a-procreate-drawing-into-a-web-animation/)
 - [Animation worklet: the 4 missing features (2020)](https://inventingwithmonster.io/20200203-animationworklet-the-missing-pieces/)
+- [The ultimate guide to proper use of animation in UX (2018)](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)

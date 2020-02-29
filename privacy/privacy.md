@@ -45,3 +45,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Am I Unique?](https://amiunique.org/) - Aims at studying the diversity of browser fingerprints and providing developers with data to help them design good defenses. ([HN](https://news.ycombinator.com/item?id=22148512))
 - [Bromite](https://github.com/bromite/bromite) - Chromium plus ad blocking and privacy enhancements; take back your browser.
 - [How do you talk to "I have nothing to hide" people? (2020)](https://lobste.rs/s/6yrndd/how_do_you_talk_i_have_nothing_hide_people)
+- [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist#readme) - Curated checklist of tips to protect your dgital security and privacy.

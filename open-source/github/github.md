@@ -73,3 +73,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Trends](https://trends.now.sh/) - Ultra high performance GitHub trending application. ([Code](https://github.com/hanford/trends))
 - [Highfive](https://github.com/rust-lang/highfive) - GitHub hooks to provide an encouraging atmosphere for new contributors.
 - [grep.app](https://grep.app/) - Search across a half million git repos. ([HN](https://news.ycombinator.com/item?id=22396824))
+- [Derek](https://github.com/alexellis/derek) - Reduces fatigue for maintainers by automating governance and delegating permissions to your team and community.
