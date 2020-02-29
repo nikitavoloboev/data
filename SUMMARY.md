@@ -10,6 +10,7 @@
   - [My YouTube](sharing/my-youtube.md)
   - [My Trello](sharing/my-trello.md)
   - [Tracking](sharing/tracking.md)
+  - [Things](sharing/things.md)
 - [Ideas](ideas/ideas.md)
   - [Learn Anything](ideas/learn-anything.md)
 - [Focusing](focusing/focusing.md)

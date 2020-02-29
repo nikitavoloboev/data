@@ -8,15 +8,9 @@ What I find important in life changes as I gain more experience but I always try
 
 ## Possessions
 
-I keep a [Trello board](https://trello.com/b/HotsLGsc) where I list things I own in my life. I try to make sure that the items I do own fit into one backpack so I can move to any place in the world with no effort.
+I list [all the things I own](../sharing/things.md) in life. I make sure that it all fits into one backpack or extra bag so I can move to any place in the world with no effort.
 
-Here is how that board looks for me:
-
-![](https://i.imgur.com/WDLCLHd.png)
-
-I describe how I use each of them & the price + link of where I bought the item from in the description. I use [FB Market Place](https://facebook.com/marketplace) to sell off the things I don't need.
-
-I [budget all my money](../economy/finance.md). This allows me to spend & invest mindfully and not buy things I don't need.
+I [budget & invest my money](../economy/finance.md).
 
 ## Notes
 

@@ -52,6 +52,7 @@
 - [Timing](../macOS/apps/timing.md) - Track all time I spend on macOS. Apps used, activities I worked on (inferred by the app based on rules).
 - [WakaTime](https://wakatime.com) - Track time spent writing code. Includes ability to see projects worked on & languages used.
 - [Tracking](tracking.md) - Various things I track for my own reference.
+- [Things I own](things.md) - Track items I own & use.
 
 ## News/Learnings
 

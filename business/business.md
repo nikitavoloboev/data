@@ -6,6 +6,28 @@ Learning to build [startups](startups/startups.md).
 
 - [Calico](https://www.calicolabs.com/) - Research and development company tackling one of life's greatest mysteries, the biology that controls lifespan.
 - [Formidable](https://formidable.com/careers/)
+- Apple
+- Google
+- DeepMind
+- OpenAI
+- [Looker](https://www.parity.io/jobs/)
+- [Tray](https://tray.io/careers)
+- SkyScanner
+- GitBook
+- [Gatsby](https://www.gatsbyjs.com/careers/)
+- Otta
+- Readdle
+- Monzo
+- Cloudflare
+- [Parity](https://www.parity.io/jobs/)
+- Framer X
+- Mozilla
+- Facebook
+- Deliveroo
+- Bloomberg
+- [Figma](https://www.figma.com/careers/)
+- Digital Ocean
+- TypeForm
 
 ## Links
 
