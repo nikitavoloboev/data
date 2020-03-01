@@ -32,6 +32,8 @@ I want to deeply focus on building and extending tools to solve well defined pro
 
 I want to minimize incoming stream of information that I can't act on. I want to surround myself with a community of people that inspire me to create more. The tools I use & spaces I work in should reflect these goals.
 
+Simplicity is the ultimate goal.
+
 ## Read long form
 
 Read books & research papers relevant to problems I want to solve. This means reading long form writing where prolonged focus is needed. Note down and act on gained insights.
