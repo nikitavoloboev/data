@@ -11,3 +11,4 @@
 - [checkmake](https://github.com/mrtazz/checkmake) - Experimental linter/analyzer for Makefiles.
 - [Effective Modern CMake](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
 - [BLT](https://github.com/LLNL/blt) - Streamlined CMake-based foundation for Building, Linking and Testing large-scale high performance computing (HPC) applications.
+- [zld](https://github.com/michaeleisel/zld) - Faster version of Apple's linker.

@@ -177,3 +177,5 @@
 - [mxGraph](https://github.com/jgraph/mxgraph) - Fully client side JavaScript diagramming library.
 - [cacache](https://github.com/npm/cacache) - Node.js library for managing local key and content address caches.
 - [enhanced-resolve](https://github.com/webpack/enhanced-resolve) - Offers an async require.resolve function. It's highly configurable.
+- [notevil](https://github.com/mmckegg/notevil) - Evalulate javascript like the built-in javascript eval() method but safely.
+- [react-digraph](https://github.com/uber/react-digraph) - Library for creating directed graph editors.

@@ -69,6 +69,7 @@
 - [React Stripe.js](https://github.com/stripe/react-stripe-js) - React components for Stripe.js and Stripe Elements.
 - [React Split Pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
 - [react-soft-slider](https://github.com/dbismut/react-soft-slider) - Simple, fast and impartial slider.
+- [restful-react](https://github.com/contiamo/restful-react) - Consistent, declarative way of interacting with RESTful backends, featuring code-generation from Swagger and OpenAPI specs.
 
 ## Links
 

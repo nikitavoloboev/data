@@ -107,3 +107,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Broadcaster](https://github.com/encode/broadcaster) - Helps you develop realtime streaming functionality in by providing a simple broadcast API onto a number of different backend services.
 - [Sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer.
 - [Open Standards](http://www.open-std.org/) - Holds a number of web pages for groups producing open standards.
+- [Bit](https://github.com/teambit/bit) - Platform for collaborating on components.
+- [tuf](https://github.com/theupdateframework/tuf) - Framework for securing software update systems.
+- [Collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)

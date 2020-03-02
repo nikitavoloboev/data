@@ -85,3 +85,4 @@
 - [Haiku](https://github.com/deepmind/haiku) - JAX-based neural network library.
 - [Convolution in one dimension for neural networks (2020)](https://e2eml.school/convolution_one_d.html)
 - [Lucid](https://github.com/tensorflow/lucid) - Collection of infrastructure and tools for research in neural network interpretability.
+- [Minkowski Engine](https://github.com/StanfordVL/MinkowskiEngine) - Auto-diff convolutional neural network library for high-dimensional sparse tensors.

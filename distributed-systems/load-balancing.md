@@ -8,3 +8,4 @@
 - [bfe](https://github.com/baidu/bfe) - Open-source layer 7 load balancer derived from proprietary Baidu FrontEnd.
 - [Adventures in Rust and Load Balancers (2019)](https://medium.com/@bparli/adventures-in-rust-and-load-balancers-73a0bc61a192)
 - [Inside the GitHub Load Balancer (2020)](https://www.haproxy.com/user-spotlight-series/inside-the-github-load-balancer/)
+- [Traefik Forward Auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides OAuth/SSO login and authentication for the traefik reverse proxy/load balancer.

@@ -35,6 +35,8 @@
 - [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) - Unofficial Apple iOS Swift Calendar View. Swift calendar Library. iOS calendar Control. 100% Customizable.
 - [SFSymbolsSafe](https://github.com/cezarywojcik/SFSymbolsSafe) - Safe way to use SF Symbols.
 - [KeyboardGuide](https://github.com/niw/KeyboardGuide) - Modern, real iOS keyboard system notifications handler framework that Just Works.
+- [FormToolbar](https://github.com/sgr-ksmt/FormToolbar) - Simple, movable and powerful toolbar for UITextField and UITextView.
+- [Router](https://github.com/freshOS/Router) - Simple Navigation for iOS.
 
 ## Web
 
@@ -188,6 +190,8 @@
 - [PSOperations](https://github.com/pluralsight/PSOperations) - Framework that leverages the power of NSOperation and NSOperationQueue.
 - [SwiftRichString](https://github.com/malcommac/SwiftRichString) - Elegant, easy and swift-like way to create Attributed Strings.
 - [Insert3D](https://github.com/Viktoo/Insert3D) - Fastest way to embed a 3D model in Swift.
+- [Time](https://github.com/davedelong/time) - Building a better date/time library for Swift.
+- [MultipeerKit](https://github.com/insidegui/MultipeerKit) - MultipeerConnectivity + Codable.
 
 ## Links
 

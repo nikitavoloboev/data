@@ -59,6 +59,7 @@ Here are few more things I liked, design wise.
 - [Karri Saarinen](https://karrisaarinen.com/)
 - [Raul Dronca](https://www.rauldronca.com/) ([Code](https://github.com/iRaul/rauldronca.com))
 - [Szymon Kaliski](https://szymonkaliski.com/)
+- [Ajay](https://ajayns.me/)
 - [Maksim Stepanenko](http://maksim.ms/)
 - [Lee Robinson](https://leerob.io/) ([Code](https://github.com/leerob/leerob.io))
 - [Alex Holachek](https://alex.holachek.com/) ([Code](https://github.com/aholachek/aholachek.github.io))

@@ -112,3 +112,4 @@
 - [Bounce.js](http://bouncejs.com/) - Tool and JS library that lets you create beautiful CSS3 powered animations. ([Code](https://github.com/tictail/bounce.js))
 - [Selectors Explained](https://hugogiraudel.github.io/selectors-explained/) - Translate CSS selectors into plain English. ([Code](https://github.com/HugoGiraudel/selectors-explained))
 - [Simpsons in CSS](https://pattle.github.io/simpsons-in-css/) ([Code](https://github.com/pattle/simpsons-in-css)) ([HN](https://news.ycombinator.com/item?id=22429958))
+- [CSS-Element-Queries](http://marcj.github.io/css-element-queries/) - High-speed element dimension/media queries in valid css. ([Code](https://github.com/marcj/css-element-queries))

@@ -250,6 +250,7 @@
 - [GraphCore](https://github.com/metamolecular/graphcore) - Provides primitives and traversals for working with graphs.
 - [Async trait methods](https://github.com/dtolnay/async-trait) - Type erasure for async trait methods.
 - [compiler-builtins](https://github.com/rust-lang/compiler-builtins) - Porting `compiler-rt` intrinsics to Rust.
+- [gtk](https://github.com/gtk-rs/gtk) - Rust bindings and wrappers for GLib, GDK 3, GTK+ 3 and Cairo.
 
 ## Cargo Plugins
 
@@ -258,6 +259,7 @@
 - [cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - Cargo plugin to help you manage large dependency graphs.
 - [cargo-edit](https://github.com/killercup/cargo-edit) - Utility for managing cargo dependencies from the command line.
 - [cargo-profiler](https://github.com/svenstaro/cargo-profiler) - Cargo subcommand to profile binaries.
+- [cargo-outdated](https://github.com/kbknapp/cargo-outdated) - Cargo subcommand for displaying when Rust dependencies are out of date.
 
 ## Links
 

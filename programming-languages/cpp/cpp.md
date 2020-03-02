@@ -66,3 +66,4 @@
 - [Move, simply (2020)](https://herbsutter.com/2020/02/17/move-simply/) ([HN](https://news.ycombinator.com/item?id=22349302))
 - [C++ Closure (2020)](https://leimao.github.io/blog/CPP-Closure/)
 - [Where to Get Started Learing C++ and What Resources to Use (2019)](https://shafik.github.io/c++/learning/2019/09/05/getting_started_learning_cpp.html)
+- [Cost of a thread in C++ under Linux](https://lemire.me/blog/2020/01/30/cost-of-a-thread-in-c-under-linux/) ([HN](https://news.ycombinator.com/item?id=22456642))

@@ -88,3 +88,4 @@
 - [I was Wrong about Nix (2020)](https://christine.website/blog/i-was-wrong-about-nix-2020-02-10) ([HN](https://news.ycombinator.com/item?id=22295102)) ([Lobsters](https://lobste.rs/s/4otqzp/i_was_wrong_about_nix))
 - [Grafanix](https://github.com/stolyaroleh/grafanix) - Visualize your Nix dependencies.
 - [What's your configuration.nix like?](https://www.reddit.com/r/NixOS/comments/9aa08b/whats_your_configurationnix_like/)
+- [Built with Nix](https://builtwithnix.org/) - Build software only once. ([Code](https://github.com/nix-community/builtwithnix.org))

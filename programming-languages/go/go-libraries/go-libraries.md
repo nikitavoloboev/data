@@ -350,6 +350,9 @@
 - [protobuild](https://github.com/stevvooe/protobuild) - Build protobufs in Go, easily.
 - [wal](https://github.com/tidwall/wal) - Write ahead log for Go.
 - [protoc-go-inject-tag](https://github.com/favadi/protoc-go-inject-tag) - Inject custom tags to protobuf golang struct.
+- [Go support for Protocol Buffers](https://github.com/protocolbuffers/protobuf-go) ([HN](https://news.ycombinator.com/item?id=22468494))
+- [Yamux](https://github.com/hashicorp/yamux) - Golang connection multiplexing library.
+- [protostructure](https://github.com/mitchellh/protostructure) - Go library for encoding and decoding a struct type over the wire.
 
 ## Links
 
