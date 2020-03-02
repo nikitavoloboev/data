@@ -25,3 +25,4 @@ There is a [workflow](https://github.com/isometry/alfred-tty) to quickly switch 
 - [Make macOS hotkeys work with iTerm](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line/29403520#29403520)
 - [iTerm metal renderer](https://gitlab.com/gnachman/iterm2/wikis/Metal-Renderer)
 - [Custom iTerm Applescripts for Alfred](https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred)
+- [Little known features of iTerm2 (2020)](https://banga.github.io/blog/2020/03/02/little-known-features-of-iterm2.html) ([HN](https://news.ycombinator.com/item?id=22461605))
