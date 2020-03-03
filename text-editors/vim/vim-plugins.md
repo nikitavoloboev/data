@@ -14,7 +14,6 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Surround](https://github.com/tpope/vim-surround) - Quoting/parenthesizing made simple.
 - [Easy align](https://github.com/junegunn/vim-easy-align) - Simple, easy-to-use alignment.
 - [fzf](https://github.com/junegunn/fzf.vim) - FZF search.
-- [WakaTime](https://github.com/wakatime/vim-wakatime) - Automatic time tracking.
 - [Incsearch](https://github.com/haya14busa/incsearch.vim) - Improved incremental searching.
 - [Easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed.
 - [Quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
@@ -37,6 +36,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Utility
 
+- [WakaTime](https://github.com/wakatime/vim-wakatime) - Automatic time tracking.
 - [Dash](https://github.com/rizzatti/dash.vim) - Search Dash app.
 - [context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents.
 - [Quick scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement.

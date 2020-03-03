@@ -40,7 +40,7 @@
 - [Break problems down](../research/solving-problems.md). Solve each step one at a time. Know the end goal.
 - Spend mindful time on all devices. on iOS, listen to podcasts/books, read/text. Don't do things that can be done faster on mac.
 - Do bodyweight exercises during the day to regain focus. Change environments for inspiration.
-- Listen to rain/fire sounds with [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) when focusing with environment noise blocked. No distracting music.
+- Listen to train sound with [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) when focusing with environment noise blocked. No distracting music. Or listen nothing at all.
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.
@@ -84,7 +84,6 @@
 - Only use what is necessary. Experiment with new tools/apps but never keep things I don't need. Applies to everything.
 - Run less software/code. Only run what I use and need. Keep all systems clean & purposeful.
 - Invest in learning/using/building new tools.
-- Refine rules in Timing making sure all time is tracked automatically and correctly into projects.
 
 ## Share
 
@@ -131,7 +130,6 @@
 
 ## OSS
 
-- Only merge PRs that are of quality & within project scope. Includes code & [curated lists](https://github.com/learn-anything/curated-lists).
 - Give friendly explanation of why the change was rejected.
 
 ## Design

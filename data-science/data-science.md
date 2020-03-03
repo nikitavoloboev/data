@@ -81,3 +81,4 @@
 - [Falcon](https://github.com/uwdata/falcon) - Interactive Visual Analysis for Big Data.
 - [Dask Gateway](https://gateway.dask.org/) - Provides a secure, multi-tenant server for managing Dask clusters.
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming Data Warehouse.
+- [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)

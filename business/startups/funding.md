@@ -2,12 +2,13 @@
 
 ## [VC](venture-capital.md)
 
-## Europe accelerators
+## Accelerators
 
 - [Techstars](http://www.techstars.com)
 - [Entrepreneur First Berlin](https://www.joinef.com/)
 - [Plug & Play](https://www.plugandplaytechcenter.com/)
 - [500 startups](https://500.co/)
+- [Antler](https://www.antler.co/)
 
 ## Nice rewards
 

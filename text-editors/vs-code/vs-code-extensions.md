@@ -8,7 +8,6 @@ Below is a list of extensions I use.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Convenient way of creating, duplicating, moving, renaming and deleting files and directories.
-- [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
 - [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - Allows you to open any folder in a container, on a remote machine.
 
 ## Go
@@ -70,6 +69,8 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
+- [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) - Advanced VSCode user interface customizations. ([Code](https://github.com/iocave/customize-ui))
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
 - [CodeSandbox](https://marketplace.visualstudio.com/items?itemName=yesmeck.codesandbox) - Bring CodeSandbox into your favorite editor.
 - [Rewrap](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap) - Re-wraps comments and other text to a given line length.

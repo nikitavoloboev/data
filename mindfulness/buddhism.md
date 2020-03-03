@@ -9,3 +9,4 @@
 ## Links
 
 - ["New Eyes" on the Tibetan Book of the Dead: What Happens After You Die? (2017)](https://www.youtube.com/watch?v=hBl5v2WGqrI)
+- [Mind in Indian Buddhist Philosophy](https://plato.stanford.edu/entries/mind-indian-buddhism/)

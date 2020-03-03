@@ -11,7 +11,9 @@ Supplements I take are inspired by [Rhonda Patrick](https://fastlifehacks.com/dr
 - [Sulforaphane](https://www.amazon.co.uk/Jarrow-Formulas-Broccomax-Vcaps-Capsules/dp/B01D15LMCK) (1 capsule) (with break)
 - [Lions Mane](https://oriveda.co.uk/lions-mane.php) (1 capsule) (with break)
 
-Everything else I get from eating [whole food plant based food](foods.md). Most important supplements from above is Magnesium and D3.
+Everything else I get from eating [whole food plant based food](foods.md). Most important supplements from above is Magnesium and D3 and I pretty much get all my nutrition macro/micros from real food so there is no need for any supplements.
+
+I try to minimize the number of things my body has to process and maximize the quality of food I eat (natural, whole food). I also fast but not routinely.
 
 ## Links
 

@@ -20,6 +20,7 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Victor Mono](https://rubjo.github.io/victor-mono/) ([Code](https://github.com/rubjo/victor-mono))
 - [Noto](https://github.com/googlefonts/noto-source) - Font for all the world's languages.
 - [Cozette](https://github.com/slavfox/Cozette) - Bitmap programming font optimized for coziness.
+- [Jost](https://indestructibletype.com/Jost.html)
 
 ## Links
 

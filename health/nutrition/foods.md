@@ -4,13 +4,13 @@ I eat a whole food, plant based diet and experiment by trying out new [vegan rec
 
 Most of my diet consists of eating raw foods like various nuts (almonds, walnuts), blueberries, bananas and avocados.
 
-I try to cover my micro & macro nutrient needs by consuming nutritious food & [supplementing](supplements.md). I sometimes make little smoothies to start off my day.
+I try to cover my micro & macro nutrient needs by consuming nutritious food & [supplementing](supplements.md) where necessary. I sometimes make little smoothies.
 
 I nearly always keep nuts & fruits at hand as they make for healthy quick snacks.
 
-I use [Paprika app](https://www.paprikaapp.com/) to store recipes of foods I love eating. I love finding new recipes and foods through traveling. I attach photos to all recipes, even ones I don't know full instructions of how to make.
+I use [Paprika app](https://www.paprikaapp.com/) to store recipes of foods I love eating. I love finding new recipes and foods through traveling.
 
-I also added a list of various plant based foods that I can use to experiment and cook with.
+Here is a list of various plant based foods that I use to experiment and cook with. It helps to sometimes pick some ingredients and search recipes you can make with them.
 
 ![](https://i.imgur.com/a9lMUh7.png)
 

@@ -25,7 +25,6 @@ Here is a list of various things I track for my own use and reference.
 
 ## Code
 
-- [WakaTime](https://wakatime.com/@nikitavoloboev) - Ratio of different programming languages I used this week together with the editors I used.
 - [CodePen collections](https://codepen.io/nikitavoloboev/collections/popular/)
 
 ## Games

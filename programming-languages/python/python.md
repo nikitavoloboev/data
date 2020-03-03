@@ -26,7 +26,7 @@
 - [Things you’re probably not using in Python 3 – but should (2019)](https://datawhatnow.com/things-you-are-probably-not-using-in-python-3-but-should/) ([HN](https://news.ycombinator.com/item?id=19916089))
 - [Black](https://github.com/python/black) - Uncompromising Python code formatter. ([HN](https://news.ycombinator.com/item?id=19939806))
 - [Amber Brown: Batteries Included, But They're Leaking](http://pyfound.blogspot.com/2019/05/amber-brown-batteries-included-but.html) ([HN](https://news.ycombinator.com/item?id=19948642))
-- [Pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet.
+- [Python Cheatsheet](https://www.pythonsheets.com/) ([Code](https://github.com/crazyguitar/pysheeet))
 - [PyOxidizer](https://github.com/indygreg/PyOxidizer) - Modern Python application packaging and distribution tool.
 - [isort](https://github.com/timothycrosley/isort) - Python utility / library to sort imports.
 - [What's coming in Python 3.8](https://lwn.net/SubscriberLink/793818/0c6f9dd271021cd4/) ([HN](https://news.ycombinator.com/item?id=20463170))

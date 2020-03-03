@@ -111,3 +111,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Copernic](http://copernic.space/) - Aims to make practical cooperation around the creation, publication, storage, re-use and maintenance of knowledge bases, and in general structured data that are bigger than memory.
 - [Zettelkasten Method](https://zettelkasten.de/posts/overview/)
 - [Awesome Roam](https://github.com/roam-unofficial/awesome-roam#readme)
+- [A Text Renaissance (2020)](https://www.ribbonfarm.com/2020/02/24/a-text-renaissance/) ([HN](https://news.ycombinator.com/item?id=22442027))
+- [Ask HN: Good ways to capture institutional knowledge? (2020)](https://news.ycombinator.com/item?id=22454333)
+- [Ask HN: How to Take Good Notes? (2020)](https://news.ycombinator.com/item?id=22473209)
+- [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing (2020)](https://fortelabs.co/blog/how-to-take-smart-notes/) ([HN](https://news.ycombinator.com/item?id=22341518))

@@ -1,14 +1,14 @@
 # Habits
 
-I use [Streaks](https://streaksapp.com) iOS app to track my essential life habits.
+I once used [Streaks](https://streaksapp.com) iOS app to track my essential life habits.
 
 ![](https://i.imgur.com/SvGbgFs.jpg)
 
-The 6 habits are an essential subset of more general [rules](rules.md) I want to follow in life.
+The 6 habits are an essential subset of more general [rules](rules.md) I want to follow in life. I don't use the app any more as these habits are fully ingrained into my lifestyle.
 
 ## Habits described
 
-`Sleep 8 hours` is autofilled through my health data. I get notification at `22:20` to remind me it's time for sleep & checking in habits I completed today.
+`Sleep 8 hours` is autofilled through my health data.
 
 `Cardio / Weights` is autofilled through my health data. It includes workout minutes from running/cycling & bodyweight/lifting workouts. Bodyweight/lifting is tracked with [Strong](https://strong.app) & [Streaks Workout](https://streaksworkout.com) apps. It also includes yoga (tracked with [Down Dog](https://www.downdogapp.com)).
 
@@ -18,7 +18,11 @@ The 6 habits are an essential subset of more general [rules](rules.md) I want to
 
 `Impact | Simplify | Calm` is marked as done when I felt my work was impactful towards my goals. All of my values and rules were held. I further simplified things and cut out noise from my life to focus on creating and capturing value. It also means I was calm and mindful throughout the day. No anxieties and no inhibitions.
 
-`Focus | Make/Learn` is marked as done when I didn't get distracted from tasks I assigned myself to do & worked on [one task at a time](../research/solving-problems.md). I spent the time making things (ideas/art/..) & learning. I track time spent with [Timing](../macOS/apps/timing.md) & [WakaTime](https://wakatime.com).
+`Focus | Make/Learn` is marked as done when I didn't get distracted from tasks I assigned myself to do & worked on [one task at a time](../research/solving-problems.md). I spent the time making things (ideas/art/..) & learning.
+
+## Building new habits (rules)
+
+Nowadays I learn new habits proactively by building systems and thought processes that lead me in [directions](../focusing/themes.md) I want to go. Everything is built around refined [rules](../focusing/rules.md) & [processes](../focusing/processes.md).
 
 ## Notes
 
