@@ -21,6 +21,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [FP papers](https://github.com/sdiehl/papers)
 - [Pawel Szulc's liked papers](https://github.com/rabbitonweb/papers_i_love#readme)
 - [Computer science and computer-adjacent papers (and sometimes books) that have influenced me deeply](https://github.com/fogus/papers-i-love)
+- [Collaboratived repository to put all computer science papers that we thing everyone must read](https://github.com/leomindez/papers-you-must-read#readme)
 
 ## Links
 
