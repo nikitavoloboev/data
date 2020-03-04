@@ -185,6 +185,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [InWhite - Спокойных Снов | Sofar Moscow](https://www.youtube.com/watch?v=2ca-IH32MM8)
 - [GoGo Penguin: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=47XlUL6sRow)
 - [JD Beck Drum Transcription from 'vfJams with JD Beck & DOMi](https://www.youtube.com/watch?v=ud2FxupIMi4)
+- [Nils Frahm | Soirée de Poche #25](https://www.youtube.com/watch?v=sfKpg8Jb4jo)
 
 ## Mixes
 

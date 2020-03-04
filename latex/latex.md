@@ -28,3 +28,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Polymath](https://jwmza.com/polymath/) - Markup Language for Everything. ([HN](https://news.ycombinator.com/item?id=22278932))
 - [Detexify](http://detexify.kirelabs.org/classify.html) - LaTeX Handwritten Symbol Recognition. ([HN](https://news.ycombinator.com/item?id=22356361))
 - [TexLab](https://github.com/latex-lsp/texlab) - Implementation of the Language Server Protocol for LaTeX.
+- [Metropolis](https://github.com/matze/mtheme) - Modern LaTeX Beamer theme.

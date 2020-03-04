@@ -13,3 +13,4 @@
 - [Folklore](https://www.folklore.org/) - Web site devoted to collective historical storytelling.
 - [Websites to spent countless hours on: folklore.org (2020)](https://www.christophlabacher.com/notes/websites-to-spent-countless-hours-on-folklore-org)
 - [Wiby](https://wiby.me/) - Search engine for old internet pages.
+- [The Soul of a New Machine: Rethinking the Computer (2020)](https://www.youtube.com/watch?v=vvZA9n3e5pc)

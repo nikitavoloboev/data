@@ -94,3 +94,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Vaibhav Sagar - I Haskell a Git (2018)](https://www.youtube.com/watch?v=nVvvY5VRs8o)
 - [Nx](https://github.com/nrwl/nx/) - Extensible Dev Tools for Monorepos.
 - [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web. ([Code](https://github.com/summitech/gitexplorer))
+- [Please stop recommending Git Flow (2020)](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/) ([HN](https://news.ycombinator.com/item?id=22485489))
