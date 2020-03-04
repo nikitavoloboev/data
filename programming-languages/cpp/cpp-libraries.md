@@ -9,6 +9,7 @@
 
 - [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow) - Fast C++ header-only library to help you quickly write parallel programs with complex task dependencies.
 - [Async++](https://github.com/Amanieu/asyncplusplus) - Lightweight concurrency framework for C++11.
+- [Thrust](https://github.com/thrust/thrust) - C++ parallel programming library which resembles the C++ Standard Library.
 
 ## UI
 

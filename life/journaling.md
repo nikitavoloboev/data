@@ -20,3 +20,4 @@ If I ever feel down, I can just start writing and just release all these negativ
 - [2019 into 2020 by Tania Rascia](https://www.taniarascia.com/2019-into-2020/)
 - [My Decade in Review by Dan Abramov](https://overreacted.io/my-decade-in-review/)
 - [Making of: Best of 2019](https://johanronsse.be/2019/12/28/making-of-best-of-2019/)
+- [Always Be Journaling (2018)](https://letterstoanewdeveloper.com/2018/12/14/always-be-journaling/) ([HN](https://news.ycombinator.com/item?id=22467938))

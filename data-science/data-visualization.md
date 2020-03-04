@@ -31,3 +31,4 @@
 - [New technique for making responsive, JavaScript-free charts (2020)](https://dev.to/richharris/a-new-technique-for-making-responsive-javascript-free-charts-gmp)
 - [HiPlot](https://github.com/facebookresearch/hiplot) - Lightweight interactive visualization tool to help AI researchers discover correlations and patterns in high-dimensional data. ([Article](https://ai.facebook.com/blog/hiplot-high-dimensional-interactive-plots-made-easy/)) ([HN](https://news.ycombinator.com/item?id=22270727))
 - [Explorabl.es](https://explorabl.es/) - Hub for learning through play. ([HN](https://news.ycombinator.com/item?id=22368323))
+- [Interactive Data Visualization course (2020)](http://vis.csail.mit.edu/classes/6.894/)

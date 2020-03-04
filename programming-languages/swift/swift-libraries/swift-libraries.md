@@ -192,6 +192,7 @@
 - [Insert3D](https://github.com/Viktoo/Insert3D) - Fastest way to embed a 3D model in Swift.
 - [Time](https://github.com/davedelong/time) - Building a better date/time library for Swift.
 - [MultipeerKit](https://github.com/insidegui/MultipeerKit) - MultipeerConnectivity + Codable.
+- [Berkanan SDK](https://github.com/zssz/BerkananSDK) - Enables Bluetooth mesh messaging between nearby apps.
 
 ## Links
 

@@ -41,3 +41,4 @@
 - [High Scalability - All Time Favorites](http://highscalability.com/all-time-favorites/)
 - [Modern Software Over-Engineering Mistakes (2016)](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
 - [Simple Systems Have Less Downtime (2020)](https://www.gkogan.co/blog/simple-systems/?r=0) ([HN](https://news.ycombinator.com/item?id=22471355))
+- [A primer on functional architecture (2020)](https://increment.com/software-architecture/primer-on-functional-architecture/)

@@ -353,6 +353,8 @@
 - [Go support for Protocol Buffers](https://github.com/protocolbuffers/protobuf-go) ([HN](https://news.ycombinator.com/item?id=22468494))
 - [Yamux](https://github.com/hashicorp/yamux) - Golang connection multiplexing library.
 - [protostructure](https://github.com/mitchellh/protostructure) - Go library for encoding and decoding a struct type over the wire.
+- [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures.
+- [go-expect](https://github.com/Netflix/go-expect) - Provides an expect-like interface to automate control of applications.
 
 ## Links
 

@@ -87,3 +87,4 @@
 - [daiquiri](https://github.com/jd/daiquiri) - Python logging setup helper.
 - [Pifpaf](https://github.com/jd/pifpaf) - Python fixtures and daemon managing tools for functional testing.
 - [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others).
+- [Python libraries for Google Colaboratory](https://github.com/googlecolab/colabtools)

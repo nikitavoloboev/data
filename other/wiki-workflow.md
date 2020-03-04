@@ -55,6 +55,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Ioannis Kourouklides](https://wiki.kourouklides.com/wiki/Main_Page)
 - [Dmitrii Gerasimov](https://beepb00p.xyz/)
 - [Flavio Copes](https://flaviocopes.com/)
+- [Nick Belzer](https://wiki.nickbelzer.me/)
 - [The Commonplace Book](https://www.ralphrudd.com/)
 - [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)

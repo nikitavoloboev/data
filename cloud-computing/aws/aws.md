@@ -44,3 +44,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify#readme)
 - [Better Way to SSH in AWS (With RDS tunneling and security automation) (2020)](https://nullsweep.com/a-better-way-to-ssh-in-aws/)
 - [Serverless Microservice Patterns for AWS (2019)](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
+- [AWS SDK for Go v2](https://github.com/aws/aws-sdk-go-v2)
