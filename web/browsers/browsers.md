@@ -27,3 +27,4 @@
 - [WebExtension browser API Polyfill](https://github.com/mozilla/webextension-polyfill) - Allows extensions that use the Promise-based WebExtension/BrowserExt API.
 - [Web Store Upload CLI](https://github.com/DrewML/chrome-webstore-upload-cli) - CLI wrapper around the Web Store Upload module.
 - [Kasaya](https://github.com/syscolabs/kasaya) - Scripting language and runtime for browser automation. ([HN](https://news.ycombinator.com/item?id=22374991))
+- [Browser Startup Comparison (2020)](https://www.netmeister.org/blog/browser-startup.html)

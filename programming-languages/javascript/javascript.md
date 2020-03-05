@@ -141,3 +141,4 @@
 - [Fastpack](https://github.com/fastpack/fastpack) - Pack JS code into a single bundle fast & easy.
 - [guijs](https://github.com/Akryum/guijs) - App that helps you manage JS projects with a Graphical User Interface.
 - [Rome](https://github.com/facebookexperimental/rome) - Experimental JavaScript toolchain. ([HN](https://news.ycombinator.com/item?id=22430682))
+- [Bolt](https://github.com/boltpkg/bolt) - Super-powered JavaScript project management.

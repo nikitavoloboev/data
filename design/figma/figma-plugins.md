@@ -19,3 +19,4 @@
 - [Figma Import](https://packages.framer.com/package/lily/figma-import) - Import any frame from Figma as an image.
 - [Design Lint](https://lintyour.design/) - Free and open source plugin for Figma built to help you find and fix errors in your designs. ([Code](https://github.com/destefanis/design-lint))
 - [Simplify path plugin](https://github.com/zserge/figma-simplify-path) - Small plugin that simplifies vector paths in Figma.
+- [SwiftUI Inspector](https://www.figma.com/community/plugin/784879032180068427/SwiftUI-Inspector) - Enhance your development workflow by copying and pasting element styles from your Figma files into your Xcode project.

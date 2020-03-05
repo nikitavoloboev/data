@@ -7,7 +7,7 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - You can use relative paths in markdown links.
 - Don't add extra space after heading as it is unnecessary.
 - In referencing titles to jump to in readme, lowercase them. **i.e. `[Contributing](#contributing)`**. Lose the punctuation in the end in the link.
-- Can use `<details>` & `<summary>` to make readmes more readable & hiding info behind a clickable dropdown. ([Good example](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript#readme))
+- Can use `<details>` & `<summary>` to make readmes more readable & hiding info behind a clickable dropdown. ([Example](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript#readme)) ([Example 2](https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f))
 
 ## Links
 
