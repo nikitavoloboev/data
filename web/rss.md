@@ -19,3 +19,4 @@
 - [Feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python.
 - [Ask HN: Do you still use RSS? (2019)](https://news.ycombinator.com/item?id=21913598)
 - [2019 favorite RSS subscriptions](https://danromero.org/2019-favorite-rss-subscriptions.html)
+- [Ask HN: Is RSS dead? (2020)](https://news.ycombinator.com/item?id=22497184)

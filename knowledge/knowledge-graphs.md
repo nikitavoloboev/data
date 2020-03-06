@@ -14,3 +14,4 @@
 - [Resources to learn to implement Knowledge Graph (2020)](https://www.reddit.com/r/MachineLearning/comments/et705g/r_p_resources_to_learn_to_implement_knowledge/)
 - [TopicDB](https://github.com/brettkromkamp/topic-db) - Topic map-based graph library (using PostgreSQL for persistence).
 - [Joint Embedding in Named Entity Linking on Sentence Level](https://arxiv.org/pdf/2002.04936.pdf)
+- [Knowledge Graphs (2020)](https://arxiv.org/abs/2003.02320) ([HN](https://news.ycombinator.com/item?id=22504133))

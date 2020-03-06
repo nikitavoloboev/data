@@ -64,3 +64,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [The Design Graph (2020)](https://jxnblk.com/blog/design-graph/)
 - [DesignValley](https://www.designvalley.club/) - Ultimate design tool depository.
 - [Design Dictionary by Figma](https://www.figma.com/dictionary/)
+- [React Links for Designers](https://react.design/links/)
