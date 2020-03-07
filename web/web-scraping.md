@@ -9,3 +9,4 @@
 - [JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Tool for scraping job websites, and filtering and reviewing the job listings.
 - [You-Get](https://github.com/soimort/you-get) - Tiny command-line utility to download media contents (videos, audios, images) from the Web.
 - [Universal Reddit Scraper](https://github.com/JosephLai241/Universal-Reddit-Scraper) - Scrape Subreddits, Redditors, and comments on posts. A command-line tool written in Python.
+- [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js.

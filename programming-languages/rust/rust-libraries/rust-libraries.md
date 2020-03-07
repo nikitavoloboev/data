@@ -252,6 +252,7 @@
 - [compiler-builtins](https://github.com/rust-lang/compiler-builtins) - Porting `compiler-rt` intrinsics to Rust.
 - [gtk](https://github.com/gtk-rs/gtk) - Rust bindings and wrappers for GLib, GDK 3, GTK+ 3 and Cairo.
 - [tokio-beanstalkd](https://github.com/bIgBV/tokio-beanstalkd) - Asynchronous client library for interacting with the Beanstalkd work queue.
+- [octopus](https://github.com/jackdoe/octopus_query) - Query engine for arrays of integers.
 
 ## Cargo Plugins
 

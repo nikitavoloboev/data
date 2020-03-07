@@ -355,6 +355,7 @@
 - [protostructure](https://github.com/mitchellh/protostructure) - Go library for encoding and decoding a struct type over the wire.
 - [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures.
 - [go-expect](https://github.com/Netflix/go-expect) - Provides an expect-like interface to automate control of applications.
+- [dque](https://github.com/joncrlsn/dque) - Fast embedded durable queue for Go.
 
 ## Links
 

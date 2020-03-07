@@ -8,3 +8,4 @@
 - [Using TLA+ for fun and profit in the development of Elasticsearch - Yannick Welsch (2019)](https://www.youtube.com/watch?v=qYDcbcOVurc) ([HN](https://news.ycombinator.com/item?id=21003470))
 - [TLA+ model checking made symbolic (2019)](https://blog.acolyer.org/2019/11/29/tla-model-checking-made-symbolic/) ([HN](https://news.ycombinator.com/item?id=21662484))
 - [The TLA+ Toolbox (2019)](https://arxiv.org/abs/1912.10633)
+- [BlockingQueue](https://github.com/lemmy/BlockingQueue) - Tutorial-style talk "Weeks of debugging can save you hours of TLA+".

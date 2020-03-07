@@ -13,7 +13,7 @@
 - [Caddy](https://github.com/mholt/caddy) - Production-ready open-source web server that is fast, easy to use, and makes you more productive.
 - [Apache HTTP Server](https://github.com/apache/httpd)
 - [llhttp](https://github.com/nodejs/llhttp) - Port of http_parser to llparse.
-- [Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and intuitive HTTP Debugging Proxy for macOS & iOS.
+- [Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern and intuitive HTTP Debugging Proxy for macOS & iOS. ([Web](https://proxyman.io/))
 - [see](https://github.com/wyhaya/see) - Static web server, developed using rust.
 - [HTTP 203 podcast](https://developers.google.com/web/shows/http203/podcast/)
 - [HTTP Cats](https://http.cat/)

@@ -6,7 +6,7 @@
 - Set [tasks](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Focus.
 - One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. Be calm.
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document thoughts/processes/knowledge.
-- [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials.
+- [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need.
 - Cut out noise (no analytics, likes..). No time wasted. Maximize impact & growth. Filter consumed information to optimize for signal.
 - Learn from mistakes. Reflect. [Journal](../looking-back/looking-back.md). Move forward. Move fast.
 - Embrace change. Be proactive. Be bold & fearless. Take ownership. Never give up. Never complain.
@@ -40,7 +40,7 @@
 - [Break problems down](../research/solving-problems.md). Solve each step one at a time. Know the end goal.
 - Spend mindful time on all devices. on iOS, listen to podcasts/books, read/text. Don't do things that can be done faster on mac.
 - Do bodyweight exercises during the day to regain focus. Change environments for inspiration.
-- Listen to train sound with [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) when focusing with environment noise blocked. No distracting music. Or listen nothing at all.
+- Listen to space/fan sound with [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) when focusing with environment noise blocked. No distracting music. Or listen nothing at all.
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.
@@ -228,6 +228,7 @@
 - [Automate backups](../backups/backups.md).
 - Share images freely with [Imgur](https://imgur.com) where direct linking doesn't work.
 - Copy screenshots to clipboard & paste for quick sharing.
+- Use package manager to install things. Keep packages updated.
 
 ## Trello
 
