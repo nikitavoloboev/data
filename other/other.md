@@ -110,3 +110,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Bit](https://github.com/teambit/bit) - Platform for collaborating on components.
 - [tuf](https://github.com/theupdateframework/tuf) - Framework for securing software update systems.
 - [Collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)
+- [Cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration.
