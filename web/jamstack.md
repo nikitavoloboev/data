@@ -7,3 +7,4 @@
 - [Redwood](https://github.com/redwoodjs/redwood) - Opinionated, full stack, serverless JAMstack web application framework.
 - [Redwood Tutorial](https://github.com/redwoodjs/tutorial) - Create your first Redwood app.
 - [JAMstack at the Edge: How we built Built with Workers… on Workers (2020)](https://blog.cloudflare.com/jamstack-at-the-edge-how-we-built-built-with-workers-on-workers/)
+- [Building E-commerce Products with JAMStack and Serverless](https://egghead.io/learn/e-commerce-jamstack-serverless/)

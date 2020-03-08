@@ -151,6 +151,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Favorite books that almost nobody else knows or talks about (2019)](https://twitter.com/mckaywrigley/status/1120722846135640065)
 - [Rational Fiction books](https://www.goodreads.com/list/show/100705.Rational_Fiction)
 - [Top Fantasy Reads](https://topfantasyreads.com/) - Processed thousands of comments to determine top fantasy books the people of Reddit are reading. ([HN](https://news.ycombinator.com/item?id=22371436))
+- [On the shoulders of the giants (2020)](https://www.lpalmieri.com/posts/2020-03-08-on-the-shoulders-of-the-giants/) ([HN](https://news.ycombinator.com/item?id=22515743))
 
 ## Notes
 
