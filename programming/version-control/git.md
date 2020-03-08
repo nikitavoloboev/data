@@ -95,3 +95,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Nx](https://github.com/nrwl/nx/) - Extensible Dev Tools for Monorepos.
 - [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web. ([Code](https://github.com/summitech/gitexplorer))
 - [Please stop recommending Git Flow (2020)](https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/) ([HN](https://news.ycombinator.com/item?id=22485489)) ([Lobsters](https://lobste.rs/s/o76cit/please_stop_recommending_git_flow))
+- [git-trim](https://github.com/foriequal0/git-trim) - Automatically trims your tracking branches whose upstream branches are merged or gone.

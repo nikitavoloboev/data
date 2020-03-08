@@ -48,3 +48,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [A network of science: 150 years of Nature papers (2019)](https://www.youtube.com/watch?v=GW4s58u8PZo)
 - [Is Your Research Software Correct?](https://mikecroucher.github.io/MLPM_talk/) ([Lobsters](https://lobste.rs/s/yvuwwe/is_your_research_software_correct))
 - [Stagnation and scientific incentives (2020)](https://www.nber.org/papers/w26752.pdf) ([Tweet](https://twitter.com/michael_nielsen/status/1229579376016023552))
+- [Zenodo](https://github.com/zenodo/zenodo) - Small layer on top of Invenio, a free software suite enabling you to run your own digital library or document repository on the web.
