@@ -145,6 +145,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Joshua K. Jackson](https://www.joshkjack.com/)
 - [Andy Lee](http://www.andylee.co/)
 - [Alex Robertson](https://www.behance.net/alexr)
+- [Simon Sarris](https://www.instagram.com/simonsarris/)
 
 ## Notes
 

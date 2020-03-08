@@ -193,6 +193,7 @@
 - [Time](https://github.com/davedelong/time) - Building a better date/time library for Swift.
 - [MultipeerKit](https://github.com/insidegui/MultipeerKit) - MultipeerConnectivity + Codable.
 - [Berkanan SDK](https://github.com/zssz/BerkananSDK) - Enables Bluetooth mesh messaging between nearby apps.
+- [Delta](https://github.com/rileytestut/Delta) - Generic emulation framework that anyone could use to develop their own iOS emulator.
 
 ## Links
 

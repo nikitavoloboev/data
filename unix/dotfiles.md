@@ -22,6 +22,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles#r
 - [Tyler Neely](https://github.com/spacejam/dots)
 - [Nega](https://github.com/neg-serg/dotfiles)
 - [fatih](https://github.com/fatih/dotfiles)
+- [Mathias](https://github.com/mathiasbynens/dotfiles)
 
 ## Links
 
@@ -30,3 +31,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles#r
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles securely across multiple machines.
 - [Immutable Dev Environment (2019)](https://random.qmx.me/posts/2019/01/18/immutable-dev-environment/)
 - [Nice setup of new mac instructions](https://github.com/caarlos0/macOS)
+- [Syncing dev environments the hard way (2020)](https://banga.github.io/blog/2020/03/07/syncing-dev-environments-the-hard-way.html)

@@ -10,6 +10,7 @@
 - [Orca](https://github.com/hundredrabbits/Orca) - Live Programming Environment. Each letter of the alphabet is an operation. ([C rewrite](https://github.com/hundredrabbits/Orca-c))
 - [Glitch](https://github.com/naivesound/glitch) - Minimal algorithmic music composer and synthesizer. ([Code](https://github.com/vincentriemer/io-808))
 - [IO-808](https://io808.com/) - Attempt at a fully recreated web-based TR-808 drum machine. ([Code](https://github.com/vincentriemer/io-808))
+- [Thrum](https://github.com/ryanramage/thrum) - Experiment in making a livecoding music sequencer using functional reducers.
 
 ## Inspiration
 

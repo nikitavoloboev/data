@@ -42,3 +42,4 @@
 - [The Things Stack](https://thethingsstack.io) - Open Source LoRaWAN Network Server.
 - [Securing LoRaWAN with Secure Elements (2019)](https://www.linkedin.com/pulse/securing-lorawan-secure-elements-johan-stokking/)
 - [The Things Conference 2020](https://www.youtube.com/watch?v=0eOpMDffbQ0)
+- [The LoraWan Pager](https://hackaday.io/project/22038-the-lorawan-pager) - Open telecommunicator device, independant from SIM CARDS and Telecom providers.

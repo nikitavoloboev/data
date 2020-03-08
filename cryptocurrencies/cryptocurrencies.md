@@ -21,3 +21,4 @@
 - [Hard Problems in Cryptocurrency: Five Years Later (2019)](https://vitalik.ca/general/2019/11/22/progress.html) ([HN](https://news.ycombinator.com/item?id=21618079))
 - [Freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot.
 - [Kong](https://kong.cash/) - Physical crypto cash.
+- [Flow Playground](https://www.onflow.org/play) - Learn resource-oriented programming.

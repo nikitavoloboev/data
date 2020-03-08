@@ -158,3 +158,4 @@
 - [What is your favorite Kubernetes feature that nobody seems to know about? (2020)](https://www.reddit.com/r/kubernetes/comments/f9fque/what_is_your_favorite_kubernetes_feature_that/)
 - [krew](https://github.com/kubernetes-sigs/krew/) - Package manager for kubectl plugins.
 - [Advanced Persistence Threats: The Future of Kubernetes Attacks (2020)](https://www.youtube.com/watch?v=CH7S5rE3j8w)
+- [Kubernetes Engine Samples](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples)

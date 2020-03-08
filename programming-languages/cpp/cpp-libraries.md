@@ -65,3 +65,4 @@
 - [Boost Multiprecision Library](https://github.com/boostorg/multiprecision) - Provides integer, rational, floating-point, complex and interval number types in C++ that have more range and precision than C++'s ordinary built-in types.
 - [Sentry SDK for C/C++](https://github.com/getsentry/sentry-native)
 - [scnlib](https://github.com/eliaskosunen/scnlib) - Modern C++ library for replacing scanf and std::istream.
+- [Plog](https://github.com/SergiusTheBest/plog) - Portable, simple and extensible C++ logging library.
