@@ -18,3 +18,4 @@
 - [Asynchronous Programming with Futures and Promises in Swift with Combine Framework (2020)](https://www.vadimbulavin.com/asynchronous-programming-with-future-and-promise-in-swift-with-combine-framework/)
 - [Timelane](http://timelane.tools/) - Visually profile your asynchronous code. ([Article](http://trycombine.com/posts/announcing-timelane-combine/))
 - [RxCombine](https://github.com/antitypical/Result) - Bi-directional type bridging between RxSwift and Apple's Combine framework.
+- [Practical Combine](https://gumroad.com/l/practical-combine) - Introduction to Combine with real examples.

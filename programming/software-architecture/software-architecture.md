@@ -43,3 +43,4 @@
 - [Simple Systems Have Less Downtime (2020)](https://www.gkogan.co/blog/simple-systems/?r=0) ([HN](https://news.ycombinator.com/item?id=22471355))
 - [A primer on functional architecture (2020)](https://increment.com/software-architecture/primer-on-functional-architecture/)
 - [Colloquium on Computer Systems videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
+- [Data-Oriented Architecture (2020)](https://blog.eyas.sh/2020/03/data-oriented-architecture/) ([HN](https://news.ycombinator.com/item?id=22519974))

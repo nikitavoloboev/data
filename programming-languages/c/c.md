@@ -29,3 +29,4 @@
 - [gc](https://github.com/mkirchner/gc) - Simple, zero-dependency garbage collection for C. ([HN](https://news.ycombinator.com/item?id=21841368))
 - [To become a good C programmer](http://fabiensanglard.net/c/) ([HN](https://news.ycombinator.com/item?id=22325088))
 - [Development of the C Language (1993)](https://www.bell-labs.com/usr/dmr/www/chist.html) ([Lobsters](https://lobste.rs/s/hba9nn/development_c_language_1993))
+- [Ask HN: How do I learn C properly? (2020)](https://news.ycombinator.com/item?id=22519876)
