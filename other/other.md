@@ -111,3 +111,8 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [tuf](https://github.com/theupdateframework/tuf) - Framework for securing software update systems.
 - [Collection of hacks and one-off scripts](https://github.com/tomnomnom/hacks)
 - [Cue](https://github.com/cuelang/cue) - Validate and define text-based and dynamic configuration.
+- [phonograph](https://github.com/Rich-Harris/phonograph) - Stream large audio files without the dreaded 'DOMException: play() can only be initiated by a user gesture' error.
+- [Source code to all the tutorials on emulator101.com](https://github.com/kpmiller/emulator101)
+- [Loss functions for image segmentation](https://github.com/JunMa11/SegLoss)
+- [DataWig](https://github.com/awslabs/datawig) - Learns Machine Learning models to impute missing values in tables.
+- [LLDB](https://github.com/DerekSelander/LLDB) - Collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions.

@@ -47,9 +47,9 @@
 - [PyCall.jl](https://github.com/JuliaPy/PyCall.jl) - Package to call Python functions from the Julia language.
 - [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) - Univariate and multivariate optimization in Julia.
 - [StaticArrays](https://github.com/JuliaArrays/StaticArrays.jl) - Statically sized arrays for Julia.
+- [Threads](https://github.com/tkf/ThreadsX.jl) - Parallelized Base functions.
 
 ## Links
 
 - [Curated decibans of Julia programming language](https://github.com/svaksha/Julia.jl#readme)
 - [Some State of the Art Packages in Julia v1.0 (2018)](http://www.stochasticlifestyle.com/some-state-of-the-art-packages-in-julia-v1-0/)
-  a

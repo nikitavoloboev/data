@@ -88,6 +88,7 @@ Here are few more things I liked, design wise.
 - [Simon Sarris](https://simonsarris.com/)
 - [Ramkumar Ramachandra](https://artagnon.com/) ([Code](https://github.com/artagnon/artagnon.com))
 - [Andreas Kirsch](https://www.blackhc.net/)
+- [Tina Smith](http://www.tinasmithdesign.com/)
 - [Erin](https://www.erinmcg.com/)
 - [Kohei Asai](https://axross.dev/)
 - [Sasha Greif](http://sachagreif.com/)
@@ -221,6 +222,7 @@ Here are few more things I liked, design wise.
 ## Links
 
 - [Awesome Creative Portfolios](https://github.com/iRaul/awesome-portfolios#readme)
+- [Product Design Portfolios](https://brianlovin.com/overthought/product-design-portfolios)
 - [siteInspire](https://www.siteinspire.com/) - Web Design Inspiration.
 - [Developer Portfolios](https://github.com/emmawedekind/developer-portfolios#readme) - List of developer portfolios for your inspiration.
 - [Tips on building personal portfolio](https://twitter.com/alexmuench/status/1067042440207626240)

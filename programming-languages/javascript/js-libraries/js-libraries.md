@@ -179,3 +179,7 @@
 - [enhanced-resolve](https://github.com/webpack/enhanced-resolve) - Offers an async require.resolve function. It's highly configurable.
 - [notevil](https://github.com/mmckegg/notevil) - Evalulate javascript like the built-in javascript eval() method but safely.
 - [react-digraph](https://github.com/uber/react-digraph) - Library for creating directed graph editors.
+- [bent](https://github.com/mikeal/bent) - Functional JS HTTP client (Node.js & Fetch) w/ async await.
+- [CLUI](https://github.com/replit/clui) - Collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.
+- [cosha](https://github.com/robinloeffel/cosha) - Colorful shadows for your images.
+- [Rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda.

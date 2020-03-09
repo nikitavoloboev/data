@@ -35,3 +35,4 @@
 - [Chalkboard Xcode Theme](https://github.com/lobianco/Chalkboard-Xcode-Theme)
 - [Xcode Build Configuration Files (2020)](https://nshipster.com/xcconfig/)
 - [Xcode Build Settings](https://xcodebuildsettings.com/)
+- [Downloader for Apple Developers](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers) - Download Xcode and other developer tools up to 16 times faster.

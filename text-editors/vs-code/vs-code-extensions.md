@@ -69,6 +69,8 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [VSCode Essentials](https://marketplace.visualstudio.com/items?itemName=jabacchetta.vscode-essentials) - Turn VSCode into a supercharged IDE. ([Code](https://github.com/jabacchetta/vscode-essentials))
+- [Duplicate action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate) - Ability to duplicate files in VS Code. ([Code](https://github.com/mrmlnc/vscode-duplicate))
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
 - [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) - Advanced VSCode user interface customizations. ([Code](https://github.com/iocave/customize-ui))
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.

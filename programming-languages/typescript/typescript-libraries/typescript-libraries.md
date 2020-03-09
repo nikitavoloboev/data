@@ -23,6 +23,7 @@
 - [byots](https://github.com/basarat/byots) - Bring your own TypeScript with more internal definitions.
 - [is](https://github.com/sindresorhus/is) - Type check values.
 - [sql-ts](https://github.com/rmp135/sql-ts) - Generate TypeScript types from a SQL database.
+- [Mostly ORMless](https://github.com/jawj/mostly-ormless) - Ergonomic Postgres from TypeScript.
 
 ## Links
 

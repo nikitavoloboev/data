@@ -86,3 +86,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [Memory profiler for Linux](https://github.com/koute/memory-profiler)
 - [NEXTSPACE](https://github.com/trunkmaster/nextspace) - Desktop environment that brings a NeXTSTEP look and feel to Linux.
 - [Prometheus exporter for custom eBPF metrics](https://github.com/cloudflare/ebpf_exporter)
+- [GameMode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand.

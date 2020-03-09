@@ -23,6 +23,7 @@
 - [Airtable JS](https://github.com/Airtable/airtable.js)
 - [WikipediaKit](https://github.com/Raureif/WikipediaKit) - API Client Framework for Swift.
 - [Zendesk Go](https://github.com/nukosuke/go-zendesk) - Zendesk API client library for Go.
+- [Cantine](https://github.com/caio/cantine) - Cooking recipe search JSON API with over a million recipes.
 
 ## Links
 
@@ -33,3 +34,5 @@
 - [Kong](https://konghq.com/) - Connect all your microservices and APIs with the industry’s most performant, scalable and flexible API platform.
 - [Amazon API Gateway Serverless Developer Portal](https://github.com/awslabs/aws-api-gateway-developer-portal) - Application that you use for developer engagement by making your API Gateway APIs available to your customers through self-service discovery of those APIs.
 - [Stone](https://github.com/dropbox/stone) - Write your APIs in stone.
+- [OpenAPI Compliance Proxy](https://github.com/EXXETA/openapi-cop) - Validates requests and responses against an OpenAPI document.
+- [Stoplight Studio](https://stoplight.io/studio) - Design APIs 10x faster with our free OpenAPI editor. Prototype and share your API within minutes. ([Code](https://github.com/stoplightio/studio))

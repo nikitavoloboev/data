@@ -253,6 +253,9 @@
 - [gtk](https://github.com/gtk-rs/gtk) - Rust bindings and wrappers for GLib, GDK 3, GTK+ 3 and Cairo.
 - [tokio-beanstalkd](https://github.com/bIgBV/tokio-beanstalkd) - Asynchronous client library for interacting with the Beanstalkd work queue.
 - [octopus](https://github.com/jackdoe/octopus_query) - Query engine for arrays of integers.
+- [Serde YAML](https://github.com/dtolnay/serde-yaml) - Strongly typed YAML library for Rust.
+- [shiplift](https://github.com/softprops/shiplift) - Rust interface for maneuvering docker containers.
+- [Adapton](https://github.com/Adapton/adapton.rust) - General-purpose abstractions for incremental computing, in Rust.
 
 ## Cargo Plugins
 

@@ -194,6 +194,11 @@
 - [MultipeerKit](https://github.com/insidegui/MultipeerKit) - MultipeerConnectivity + Codable.
 - [Berkanan SDK](https://github.com/zssz/BerkananSDK) - Enables Bluetooth mesh messaging between nearby apps.
 - [Delta](https://github.com/rileytestut/Delta) - Generic emulation framework that anyone could use to develop their own iOS emulator.
+- [App Store Connect Swift SDK](https://github.com/AvdLee/appstoreconnect-swift-sdk)
+- [Spin](https://github.com/Spinners/Spin.Swift) - Aims to provide a versatile Feedback Loop implementation working with the three main reactive frameworks available in the Swift community.
+- [Logic](https://github.com/dabbott/Logic)
+- [CommonMarkAttributedString](https://github.com/mattt/CommonMarkAttributedString) - Create NSAttributedStrings from Markdown Text.
+- [SwiftFFmpeg](https://github.com/sunlubo/SwiftFFmpeg) - Swift wrapper for the FFmpeg API.
 
 ## Links
 

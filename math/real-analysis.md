@@ -6,3 +6,4 @@
 - [Complex Analysis](https://complex-analysis.com/) - Visual and Interactive Introduction.
 - [How to trap a gradient flow (2020)](https://www.youtube.com/watch?v=IFQNOxQLxTg) ([Tweet](https://twitter.com/SebastienBubeck/status/1230140379237769216))
 - [MIT Introduction to Numerical Methods course](https://github.com/mitmath/18335)
+- [Introduction to numerical analysis course](https://github.com/mitmath/18330)

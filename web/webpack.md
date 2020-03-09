@@ -9,6 +9,7 @@
 - [ts-loader](https://github.com/TypeStrong/ts-loader) - TypeScript loader for webpack.
 - [Webpack External Import](https://github.com/ScriptedAlchemy/webpack-external-import) - Import() other chunks and modules from third parties, or other webpack builds themselves! At runtime.
 - [Speed Measure Plugin](https://github.com/stephencookdev/speed-measure-webpack-plugin) - See how fast (or not) your plugins and loaders are, so you can optimise your builds.
+- [react-imported-component](https://github.com/theKashey/react-imported-component) - Bundler-independent solution for SSR-friendly code-splitting.
 
 ## Links
 

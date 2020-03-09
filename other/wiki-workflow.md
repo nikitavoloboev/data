@@ -61,7 +61,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)
 - [Hongyi Shen's notes](https://github.com/wilbeibi/NotesIndex)
 - [Michael Mellinger math notes](https://github.com/melling/MathAndScienceNotes)
-- [Bookmarks, tweets, cheatsheets, one-liners](https://github.com/ccampean/almanacs)
+- [Bookmarks, tweets, cheatsheets, one-liners](https://github.com/ccampean/almanacs#readme)
 - [Bayle Shanks](http://www.bayleshanks.com/)
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
 - [Nat Eliason notes](https://www.nateliason.com/notes)

@@ -20,3 +20,4 @@
 - [I wrote 1 blog post every day for 2 years. Here's 5 things I learned about SEO (2020)](https://flaviocopes.com/blog-seo/) ([HN](https://news.ycombinator.com/item?id=22179383))
 - [On-Page SEO Checklist for New Websites](https://talk.hyvor.com/blog/on-page-seo-checklist/)
 - [Easy SEO Wins (2020)](https://kylemcd.com/posts/easy-seo-wins/)
+- [Nozzle](https://nozzle.io/) - Enterprise keyword rank tracker tool.

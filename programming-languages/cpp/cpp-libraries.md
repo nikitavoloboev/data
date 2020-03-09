@@ -66,3 +66,5 @@
 - [Sentry SDK for C/C++](https://github.com/getsentry/sentry-native)
 - [scnlib](https://github.com/eliaskosunen/scnlib) - Modern C++ library for replacing scanf and std::istream.
 - [Plog](https://github.com/SergiusTheBest/plog) - Portable, simple and extensible C++ logging library.
+- [Nano](https://github.com/refnum/Nano) - C++ library for developing high-performance applications for macOS, iOS, tvOS, Android, Linux, and Microsoft Windows.
+- [span lite](https://github.com/martinmoene/span-lite) - C++20-like span for C++98, C++11 and later in a single-file header-only library.

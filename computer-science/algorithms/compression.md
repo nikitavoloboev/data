@@ -8,3 +8,4 @@
 - [Snappy](https://github.com/google/snappy) - Fast compressor/decompressor.
 - [UPX](https://github.com/upx/upx) - Advanced executable file compressor.
 - [gzip-js](https://github.com/beatgammit/gzip-js) - Pure JavaScript implementation of the GZIP file format.
+- [Blosc](https://github.com/Blosc/c-blosc) - Blocking, shuffling and lossless compression library.

@@ -159,3 +159,5 @@
 - [krew](https://github.com/kubernetes-sigs/krew/) - Package manager for kubectl plugins.
 - [Advanced Persistence Threats: The Future of Kubernetes Attacks (2020)](https://www.youtube.com/watch?v=CH7S5rE3j8w)
 - [Kubernetes Engine Samples](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples)
+- [How to use Open Virtual Networking with Kubernetes](https://github.com/ovn-org/ovn-kubernetes)
+- [RBACSYNC](https://github.com/cruise-automation/rbacsync) - Automatically sync groups into Kubernetes RBAC.

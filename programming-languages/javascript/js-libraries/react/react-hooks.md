@@ -37,6 +37,7 @@
 - [relay-hooks](https://github.com/relay-tools/relay-hooks) - Use Relay as React hooks.
 - [usePlacesAutocomplete](https://github.com/wellyshen/use-places-autocomplete) - React hook for Google Maps Places Autocomplete.
 - [react-use-mutable](https://github.com/Marik-D/react-use-mutable) - Tiny hook that keeps your react state up-to-date in callbacks.
+- [use-cannon](https://github.com/react-spring/use-cannon) - Physics based hooks for react-three-fiber.
 
 ## Notes
 

@@ -26,3 +26,4 @@
 - [Quantum Computation and Quantum Information by Nielsen and Chuang](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
 - [ARTIQ](https://github.com/m-labs/artiq) - Leading-edge control system for quantum information experiments.
 - [QuTiP](https://github.com/qutip/qutip) - Quantum Toolbox in Python.
+- [TensorFlow Quantum](https://github.com/tensorflow/quantum) - Python framework for hybrid quantum-classical machine learning that is primarily focused on modeling quantum data.

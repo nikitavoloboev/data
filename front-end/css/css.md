@@ -54,7 +54,7 @@
 - [Water.css](https://github.com/kognise/water.css) - Just-add-css collection of styles to make simple websites just a little nicer.
 - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful and performance-focused pure css loading animations.
 - [Artem Sapegin: Custom CSS is the Path to Inconsistent UI (2018)](https://www.youtube.com/watch?v=t5VTLwAias8)
-- [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
+- [Learn CSS Layout the pedantic way](http://book.mixu.net/css/) ([Code](https://github.com/mixu/cssbook))
 - [CSSFX](https://cssfx.dev/) - Beautifully simple click-to-copy CSS effects.
 - [CSS Working Group Editor Drafts](https://drafts.csswg.org/)
 - [CSS Houdini Experiments](https://css-houdini.rocks/)
@@ -113,3 +113,4 @@
 - [Selectors Explained](https://hugogiraudel.github.io/selectors-explained/) - Translate CSS selectors into plain English. ([Code](https://github.com/HugoGiraudel/selectors-explained))
 - [Simpsons in CSS](https://pattle.github.io/simpsons-in-css/) ([Code](https://github.com/pattle/simpsons-in-css)) ([HN](https://news.ycombinator.com/item?id=22429958))
 - [CSS-Element-Queries](http://marcj.github.io/css-element-queries/) - High-speed element dimension/media queries in valid css. ([Code](https://github.com/marcj/css-element-queries))
+- [Hint.css](https://kushagra.dev/lab/hint/) - Pure CSS tooltip library for your lovely websites. ([Code](https://github.com/chinchang/hint.css))

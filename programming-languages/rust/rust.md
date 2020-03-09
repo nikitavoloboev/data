@@ -151,3 +151,4 @@
 - [A half-hour to learn Rust (2020)](https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/) ([HN](https://news.ycombinator.com/item?id=22448933))
 - [Rust Ownership Rules (2020)](https://www.geekabyte.io/2020/02/rust-ownership-rules.html) ([HN](https://news.ycombinator.com/item?id=22462134))
 - [Considering Rust (2020)](https://www.youtube.com/watch?v=DnT-LUQgc7s)
+- [async-on-embedded](https://github.com/ferrous-systems/async-on-embedded) - On embedded (Cortex-M edition): no-global-alloc, no-threads runtime.

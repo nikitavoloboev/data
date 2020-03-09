@@ -7,3 +7,4 @@
 - [W3C GPU for the Web Community Group](https://github.com/gpuweb/gpuweb)
 - [RAPIDS](https://rapids.ai/) - Open GPU Data Science.
 - [GPU hardware effects](https://github.com/Kobzol/hardware-effects-gpu) - Demonstration of various hardware effects on CUDA GPUs.
+- [Basis Universal GPU Texture Codec](https://github.com/BinomialLLC/basis_universal)

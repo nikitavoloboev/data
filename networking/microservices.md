@@ -28,3 +28,4 @@
 - [Monoliths are the future by Kelsey Hightower (2020)](https://changelog.com/posts/monoliths-are-the-future)
 - [The Dark Side of Microservices (2020)](https://kelda.io/blog/the-dark-side-of-microservices/) ([Lobsters](https://lobste.rs/s/3cmkqs/dark_side_microservices))
 - [Squash](https://github.com/solo-io/squash) - Debugger for microservices.
+- [Blanket Solutions and Microservices](https://www.stopa.io/post/236)

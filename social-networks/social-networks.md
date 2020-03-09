@@ -40,3 +40,6 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Jack Dorsey Wants to Decentralize Twitter](https://twitter.com/jack/status/1204766078468911106) ([HN](https://news.ycombinator.com/item?id=21762780))
 - [tilde.club](http://tilde.club/) - Not a social network it is one tiny totally standard unix computer that people respectfully use together in their shared quest to build awesome web pages.
 - [Planetary](https://planetary.social/) - Building an open and humane alternative to Facebook.
+- [Twitterverse](https://twitterverse.net/) - Interactively explore visualizations of Twitter networks. ([Tweet](https://twitter.com/MenanderSoter/status/1234650368182771717))
+- [Opportunities in consumer social (2020)](https://twitter.com/eriktorenberg/status/1236860724430790659)
+- [Pleroma 2.0: a free, federated social networking server built on open protocols (2020)](https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/) ([HN](https://news.ycombinator.com/item?id=22519209))

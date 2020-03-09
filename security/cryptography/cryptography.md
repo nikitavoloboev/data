@@ -36,3 +36,4 @@
 - [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) - Cryptographic Primitive Code Generation by Fiat.
 - [CIRCL](https://github.com/cloudflare/circl) - Cloudflare Interoperable Reusable Cryptographic Library.
 - [cosign](https://github.com/osresearch/cosign) - Cooperative RSA signatures.
+- [Practical Cryptography for Developers book](https://cryptobook.nakov.com/) ([Code](https://github.com/nakov/Practical-Cryptography-for-Developers-Book))

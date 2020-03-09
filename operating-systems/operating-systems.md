@@ -66,3 +66,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [How I Switched To Plan 9 (2019)](http://helpful.cat-v.org/Blog/2019/12/03/0/)
 - [Operating Systems course notes (2013)](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 - [Computer Simulation and History](http://simh.trailing-edge.com/) ([Code](https://github.com/simh/simh))
+- [HiddenVM](https://github.com/aforensics/HiddenVM) - Use any desktop OS without leaving a trace.

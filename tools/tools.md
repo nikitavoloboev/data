@@ -38,6 +38,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Flowkit](https://useflowkit.com/) - User flows right inside your favorite design tool.
 - [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))
 - [Polar Bookshelf](https://getpolarized.io/) - Personal knowledge repository for PDF and web content supporting incremental reading and document annotation. ([Code](https://github.com/burtonator/polar-bookshelf))
+- [Jami](https://jam.link/) - Get access to services your friends pay for, instantly and securely.
 - [Instantish](https://www.itsinstantish.com/) - Chat-first issue tracker.
 - [Reaction Commerce](https://reactioncommerce.com/) - API-first, modular commerce stack made for ambitious brands and retailers. ([Code](https://github.com/reactioncommerce/reaction))
 - [Missive](https://missiveapp.com/) - Collaborative email app where you’ll feel right at home.
@@ -76,6 +77,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Bloaty](https://github.com/google/bloaty) - Size profiler for binaries.
 - [mdck](https://github.com/ctm/mdck) - Reports broken links found within md files.
 - [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage.
+- [Mural](https://mural.co/) - Digital workspace for visual collaboration.
 - [Tiny Letter](https://tinyletter.com)
 - [Loom](https://www.useloom.com/) - New kind of work communication tool that helps you get your message across through instantly shareable videos.
 - [Habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation.

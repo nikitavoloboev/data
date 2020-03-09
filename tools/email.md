@@ -30,3 +30,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [heimdall](https://github.com/fterh/heimdall) - Self-hosted personal email guardian with one-step deployment.
 - [How to write a cold email (2020)](https://sriramk.com/coldemail)
 - [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing.
+- [How to write a forwardable introduction email](https://www.startuphacks.vc/blog/2015/06/24/how-to-write-a-forwardable-introduction-email)

@@ -36,3 +36,5 @@
 - [Awesome Godot](https://github.com/Calinou/awesome-godot#readme)
 - [Curated list of awesome C++ (mainly) things for Game Development](https://github.com/Cmdu76/AwesomeCppGameDev#readme)
 - [Game AI Pro](http://www.gameaipro.com/) ([HN](https://news.ycombinator.com/item?id=22216472))
+- [How I made a 3D game in only 2KB of JavaScript (2020)](http://frankforce.com/?p=7427) ([HN](https://news.ycombinator.com/item?id=22524287))
+- [Open Asset Import Library (assimp)](https://github.com/assimp/assimp) - Library to import and export various 3d-model-formats including scene-post-processing to generate missing render data.

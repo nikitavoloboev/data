@@ -11,5 +11,5 @@
 - [k origins history](https://kparc.io/)
 - [iKe: a browser-based sandbox for K](http://johnearnest.github.io/ok/ike/ike.html) ([HN](https://news.ycombinator.com/item?id=21886380))
 - [K by Arthur Whitney (2005)](http://archive.vector.org.uk/art10010830) ([HN](https://news.ycombinator.com/item?id=22060537))
-- [Stages of Denial in learning K](http://nsl.com/papers/denial.html)
+- [Stages of Denial in learning K](http://nsl.com/papers/denial.html) ([HN](https://news.ycombinator.com/item?id=22504106))
 - [oK](https://github.com/JohnEarnest/ok) - Open-source interpreter for the K5 programming language.

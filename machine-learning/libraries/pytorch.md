@@ -79,3 +79,5 @@
 - [PyTorch Forum](https://discuss.pytorch.org/)
 - [Collection of PyTorch notebooks for learning and practicing deep learning](https://github.com/dair-ai/pytorch_notebooks)
 - [face.evoLVe](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch) - High-Performance Face Recognition Library based on PyTorch.
+- [PyTorch implementation for 3D Bounding Box Estimation Using Deep Learning and Geometry](https://github.com/skhadem/3D-BoundingBox)
+- [Fast AutoAugment](https://github.com/kakaobrain/fast-autoaugment) - Official Implementation of 'Fast AutoAugment' in PyTorch.

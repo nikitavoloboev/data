@@ -20,3 +20,4 @@
 - [Reverse engineering my router's firmware with binwalk (2020)](https://embeddedbits.org/reverse-engineering-router-firmware-with-binwalk/)
 - [Frida](https://frida.re/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. ([Code](https://github.com/frida/frida))
 - [Malware Analysis and Reverse Engineering Course](https://class.malware.re/) ([HN](https://news.ycombinator.com/item?id=22488510))
+- [Capstone](https://github.com/aquynh/capstone) - Disassembly framework with the target of becoming the ultimate disasm engine for binary analysis and reversing in the security community.

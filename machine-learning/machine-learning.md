@@ -205,3 +205,5 @@
 - [FastAI book draft (2020)](https://github.com/fastai/fastbook) ([HN](https://news.ycombinator.com/item?id=22449562)) ([Notebooks](https://github.com/fastai/book_nbs))
 - [Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning"](https://github.com/ctgk/PRML)
 - [Google Colaboratory](https://github.com/googlecolab/backend-container) - Research project created to help disseminate machine learning education and research.
+- [Resources for teaching machine learning](https://github.com/kierisi/teaching_ml/blob/master/teaching_ml_resources.md#readme)
+- [Population Based Augmentation](https://github.com/arcelien/pba) - Algorithm that quickly and efficiently learns data augmentation functions for neural network training.

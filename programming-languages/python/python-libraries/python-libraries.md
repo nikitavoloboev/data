@@ -11,6 +11,8 @@
 
 - [JAX](https://github.com/google/jax) - GPU- and TPU-backed NumPy with differentiation and JIT compilation.
 - [Autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
+- [GluonTS](https://github.com/awslabs/gluon-ts) - Probabilistic time series modeling in Python.
+- [GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python.
 
 ## Biology
 
@@ -27,6 +29,7 @@
 ## DB
 
 - [psycopg2](https://github.com/psycopg/psycopg2) - Python-PostgreSQL Database Adapter.
+- [Databases](https://github.com/encode/databases) - Gives you simple asyncio support for a range of databases.
 
 ## Other
 

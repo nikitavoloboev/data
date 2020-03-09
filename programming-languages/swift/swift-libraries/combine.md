@@ -16,6 +16,6 @@
 - [Harvest](https://github.com/inamiy/Harvest) - Apple's Combine.framework + State Machine, inspired by Elm.
 - [Entwine](https://github.com/tcldr/Entwine) - Testing tools and utilities for Apple's Combine framework.
 - [Asynchronous Programming with Futures and Promises in Swift with Combine Framework (2020)](https://www.vadimbulavin.com/asynchronous-programming-with-future-and-promise-in-swift-with-combine-framework/)
-- [Timelane](http://timelane.tools/) - Visually profile your asynchronous code. ([Article](http://trycombine.com/posts/announcing-timelane-combine/))
+- [Timelane](http://timelane.tools/) - Visually profile your asynchronous code. ([Article](http://trycombine.com/posts/announcing-timelane-combine/)) ([Code](https://github.com/icanzilb/Timelane))
 - [RxCombine](https://github.com/antitypical/Result) - Bi-directional type bridging between RxSwift and Apple's Combine framework.
 - [Practical Combine](https://gumroad.com/l/practical-combine) - Introduction to Combine with real examples.

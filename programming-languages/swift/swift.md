@@ -79,3 +79,6 @@
 - [[Manifesto] Interoperability between Swift and C++ (2020)](https://forums.swift.org/t/manifesto-interoperability-between-swift-and-c/33874)
 - [Swift Evolution](https://apple.github.io/swift-evolution/) - Proposals for changes and user-visible enhancements to Swift. ([Code](https://github.com/apple/swift-evolution))
 - [Swift AST Explorer](https://swift-ast-explorer.kishikawakatsumi.com/) ([Code](https://github.com/kishikawakatsumi/swift-ast-explorer-playground))
+- [ProcreateUndoGesture](https://github.com/SavageSource/ProcreateUndoGesture) - Example of Procreate's Undo and Redo gestures.
+- [Swift Package Index](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server) - Back end server for the Swift Package Index.
+- [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - VT100/Xterm Terminal emulator in Swift.

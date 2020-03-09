@@ -129,3 +129,5 @@
 - [Computers can be understood (2020)](https://blog.nelhage.com/post/computers-can-be-understood/)
 - [Notes on structured programming - Edsger Dijkstra (1970)](https://www.cs.utexas.edu/users/EWD/ewd02xx/EWD249.PDF)
 - [Floating Point Visually Explained (2017)](http://fabiensanglard.net/floating_point_visually_explained/)
+- [What makes a dependency dependable?](https://blog.jessitron.com/2020/03/07/what-makes-a-dependency-dependable/)
+- [Defunctionalisation – an underappreciated tool for writing good software (2020)](https://www.gresearch.co.uk/article/defunctionalisation/) ([HN](https://news.ycombinator.com/item?id=22525038))

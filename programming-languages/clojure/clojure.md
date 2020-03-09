@@ -42,3 +42,4 @@
 - [State of Clojure 2020](https://clojure.org/news/2020/02/20/state-of-clojure-2020) ([HN](https://news.ycombinator.com/item?id=22379603))
 - [Clojurians Zulip Chat](https://clojurians.zulipchat.com/login/)
 - [Clojure: the Lisp that wants to spread (2020)](https://simongray.github.io/essays/spread.html) ([HN](https://news.ycombinator.com/item?id=22458827))
+- [REPL Debugging: No Stacktrace Required (2017)](http://blog.cognitect.com/blog/2017/6/5/repl-debugging-no-stacktrace-required) ([HN](https://news.ycombinator.com/item?id=22512273))

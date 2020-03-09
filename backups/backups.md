@@ -12,6 +12,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
   - [Vorta Backup Client](https://github.com/borgbase/vorta) - Backup client for macOS and Linux desktops. It integrates the mighty BorgBackup with your desktop environment to protect your data from disk failure, ransomware and theft.
   - [BorgBase](https://www.borgbase.com/) - Specialized Hosting Service for BorgBackup.
 - [HashBackup](http://www.hashbackup.com/) - Unix command-line backup program to create a local backup, remote offsite backup, or both, in your own storage accounts.
+- [Kopia](https://github.com/kopia/kopia) - Simple, cross-platform tool for managing encrypted backups in the cloud.
 
 ## Cloud Storage
 

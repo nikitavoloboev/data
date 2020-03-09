@@ -15,6 +15,8 @@
 - [GitHub Action for Continuous Benchmarking](https://github.com/rhysd/github-action-benchmark)
 - [GitHub Action for GitHub Push](https://github.com/ad-m/github-push-action) - GitHub Actions for pushing to GitHub repository local changes authorizing using GitHub token.
 - [actions-netlify](https://github.com/nwtgck/actions-netlify) - GitHub Actions for deploying Netlify.
+- [deploy-mdbook](https://github.com/XAMPPRocky/deploy-mdbook) - GitHub Action to automatically build and deploy your mdbook project.
+- [actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute comment from issues and pull requests.
 
 ## Rust
 
@@ -27,6 +29,10 @@
 ## Python
 
 - [setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of python.
+
+## JS
+
+- [npm-publish-action](https://github.com/pascalgn/npm-publish-action) - GitHub action to automatically publish packages to npm.
 
 ## Nix
 

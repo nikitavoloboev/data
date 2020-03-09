@@ -41,3 +41,5 @@
 - [HTTPie](https://github.com/jakubroztocil/httpie) - CLI, cURL-like tool for humans.
 - [http](https://github.com/thecoshman/http) - Host These Things Please - a basic http server for hosting a folder fast and simply.
 - [httpmole](https://github.com/jcchavezs/httpmole) - Provides a HTTP mock server that will act as a mole among your services, telling you everything http clients send to it and responding them whatever you want it to respond.
+- [oha](https://github.com/hatoo/oha) - Tiny program that sends some load to a web application.
+- [James](https://github.com/james-proxy/james) - HTTP Proxy and Monitor that enables developers to view and intercept requests made from the browser.
