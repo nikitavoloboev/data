@@ -6,3 +6,4 @@
 - [FPGAs Have the Wrong Abstraction (2019)](https://www.cs.cornell.edu/~asampson/blog/fpgaabstraction.html)
 - [no-OS](https://github.com/analogdevicesinc/no-OS) - Software drivers for systems without OS.
 - [nextpnr](https://github.com/YosysHQ/nextpnr) - Portable FPGA place and route tool.
+- [Highlights from FPGA 2020](https://johnwickerson.wordpress.com/2020/02/27/highlights-from-fpga-2020/) ([HN](https://news.ycombinator.com/item?id=22439021))
