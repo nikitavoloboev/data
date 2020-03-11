@@ -37,3 +37,4 @@
 - [RapidQL](https://rapidql.com/) - Join, combine, and aggregate data from multiple APIs and databases — all in one call. ([Code](https://github.com/RapidAPI/rapidql))
 - [sqlfmt](https://github.com/jackc/sqlfmt) - SQL Formatter.
 - [Domain Logic and SQL (2013)](https://www.martinfowler.com/articles/dblogic.html) ([HN](https://news.ycombinator.com/item?id=22381919))
+- [Database basics: writing a SQL database from scratch in Go (2020)](http://notes.eatonphil.com/database-basics.html)

@@ -21,3 +21,4 @@
 - [Bryan Cantrill on Engineering Performance Management](https://twitter.com/bcantrill/status/1216491216356823040)
 - [Product Management Mental Models for Everyone (2018)](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b)
 - [Roadmap templates for product management](https://usefyi.com/templates/roadmap-templates/)
+- [Resources for Staff-plus engineers (2020)](https://lethain.com//staff-plus-eng-resources/)

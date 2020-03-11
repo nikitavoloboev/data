@@ -9,6 +9,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [WikiBattle](https://wikibattle.me/) - 1v1 race who first reaches a randomly selected article.
 - [A Dark Room](http://adarkroom.doublespeakgames.com/)
 - [Proximity](https://github.com/GoogleChromeLabs/proxx) ([OSS](https://github.com/GoogleChromeLabs/proxx))
+- [Hordes](https://hordes.io/) - Free to play 3D Multiplayer Browsergame in Open Beta.
 
 ## Awesome OSS games
 

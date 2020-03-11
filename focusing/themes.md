@@ -1,8 +1,8 @@
 # Focus themes
 
-My main focus in life is as mentioned in [rules](rules.md). Make. Write. Design. Share.
+My main focus in life is to [make, learn, write, design & share](rules.md) things.
 
-Most of it boils down to working on impactful to me ideas by breaking them down into a series of tasks. Below are some [themes](https://www.youtube.com/watch?v=NVGuFdX5guE) I want to focus on in general strokes. Some of it may be inspired by my [future predictions](../future/future.md).
+I try to work on impactful to me ideas by breaking them down into series of tasks. As a way to give direction to my life, I outline some [themes](https://www.youtube.com/watch?v=NVGuFdX5guE) for myself to focus on right now.
 
 ## Clean up 2Do/GitHub tasks to < 500
 

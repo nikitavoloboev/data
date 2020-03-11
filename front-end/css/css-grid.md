@@ -13,3 +13,4 @@
 - [Animate CSS Grid](https://github.com/aholachek/animate-css-grid) - Seamlessly animate all CSS grid properties.
 - [CSS Grid Template Areas In Action (2020)](https://ishadeed.com/article/grid-area/)
 - [How to Stack Elements in CSS (2020)](https://css-tricks.com/how-to-stack-elements-in-css/)
+- [CSS Grid N2P Videos](https://www.youtube.com/playlist?list=PLBHbfZu_dhOca_FpdUccB2KfjPfW1zklZ)

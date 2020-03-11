@@ -31,6 +31,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards on macOS.
 - [Vimac](https://github.com/dexterleng/vimac) - Vimium for macOS.
 - [LinkLiar](https://github.com/halo/LinkLiar) - Link-Layer MAC spoofing GUI for macOS.
+- [Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.
 
 ## Other interesting apps
 

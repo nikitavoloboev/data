@@ -20,6 +20,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [mkernel](https://github.com/arjun024/mkernel) - Minimalist kernel which prints "my first kernel" on the screen and then hangs. ([HN](https://news.ycombinator.com/item?id=22087701))
 - [Barebones](https://github.com/fwsGonzo/barebones) - Barebones multiboot kernel for beginners.
 - [xv6](https://github.com/mit-pdos/xv6-public) - Re-implementation of Dennis Ritchie's and Ken Thompson's Unix Version 6. ([Paper](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf)) ([HN](https://news.ycombinator.com/item?id=22511569))
+- [xv6 for RISC-V](https://github.com/mit-pdos/xv6-riscv)
 - [Orange Slice](https://github.com/gamozolabs/orange_slice) - Research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost.
 - [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - Open source Virtual Machine Monitor (VMM) that runs on top of KVM.
 - [RancherOS](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers.

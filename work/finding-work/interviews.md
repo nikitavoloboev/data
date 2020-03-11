@@ -59,3 +59,4 @@
 - [The dystopian world of software engineering interviews (2020)](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) ([HN](https://news.ycombinator.com/item?id=22331804)) ([Lobsters](https://lobste.rs/s/lhijk2/horrifically_dystopian_world_software))
 - [Levels of Seniority](https://roadmap.sh/guides/levels-of-seniority) - How to Step Up as a Junior, Mid Level or a Senior Developer. ([HN](https://news.ycombinator.com/item?id=22390878))
 - [HN: Google Interviewing Process for Software Developer Role in 2020](https://news.ycombinator.com/item?id=22405372)
+- [My Coding Interview Style](https://amy.dev/?p=783)

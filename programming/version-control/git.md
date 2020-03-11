@@ -98,3 +98,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-trim](https://github.com/foriequal0/git-trim) - Automatically trims your tracking branches whose upstream branches are merged or gone.
 - [A successful Git branching model (2020)](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Belay](https://github.com/JoshMcguigan/belay) - Makes it easy to run your CI checks locally, so you can git push with confidence.
+- [Little Things I Like to Do with Git (2017)](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)

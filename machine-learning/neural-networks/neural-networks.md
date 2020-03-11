@@ -88,3 +88,4 @@
 - [Minkowski Engine](https://github.com/StanfordVL/MinkowskiEngine) - Auto-diff convolutional neural network library for high-dimensional sparse tensors.
 - [Transformers are Graph Neural Networks (2020)](https://graphdeeplearning.github.io/post/transformers-are-gnns/) ([HN](https://news.ycombinator.com/item?id=22518263))
 - [Generating MIDI melody from lyrics using LSTM-GANs](https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation) ([HN](https://news.ycombinator.com/item?id=22524176))
+- [Zoom In: An Introduction to Circuits (2020)](https://distill.pub/2020/circuits/zoom-in/)

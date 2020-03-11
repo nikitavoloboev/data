@@ -256,6 +256,9 @@
 - [Serde YAML](https://github.com/dtolnay/serde-yaml) - Strongly typed YAML library for Rust.
 - [shiplift](https://github.com/softprops/shiplift) - Rust interface for maneuvering docker containers.
 - [Adapton](https://github.com/Adapton/adapton.rust) - General-purpose abstractions for incremental computing, in Rust.
+- [rust-objc](https://github.com/SSheldon/rust-objc) - Objective-C Runtime bindings and wrapper for Rust.
+- [rust-block](https://github.com/SSheldon/rust-block) - Rust interface for Apple's C language extension of blocks.
+- [rust-dispatch](https://github.com/SSheldon/rust-dispatch) - Rust wrapper for Apple's Grand Central Dispatch.
 
 ## Cargo Plugins
 

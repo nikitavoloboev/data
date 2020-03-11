@@ -90,3 +90,4 @@
 - [What's your configuration.nix like?](https://www.reddit.com/r/NixOS/comments/9aa08b/whats_your_configurationnix_like/)
 - [Built with Nix](https://builtwithnix.org/) - Build software only once. ([Code](https://github.com/nix-community/builtwithnix.org))
 - [How I Start: Nix (2020)](https://christine.website/blog/how-i-start-nix-2020-03-08) ([Lobsters](https://lobste.rs/s/lktf6u/how_i_start_nix))
+- [rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix.

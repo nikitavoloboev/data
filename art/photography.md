@@ -29,3 +29,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [PhotoPrism](https://github.com/photoprism/photoprism) - Server-based application for browsing, organizing and sharing your personal photo collection.
 - [Reddit multi part photography class](https://www.reddit.com/r/photoclass/)
 - [Kerem's Lightroom presets](http://kerem-bakir.com/shop/)
+- [Photo Stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream.

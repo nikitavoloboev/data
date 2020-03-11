@@ -8,6 +8,7 @@
 - [Curated collection of marketing articles & tools to grow your product](https://github.com/LisaDziuba/Marketing-for-Engineers#readme)
 - [How to maximise traffic to a bootstrapped beta launch](https://sizle.io/how-to-maximise-traffic-to-a-bootstrapped-product-hunt-launch/)
 - [1,000 True Fans? Try 100 (2020)](https://a16z.com/2020/02/06/100-true-fans/)
+- [MakerMove](https://www.makermove.com/directories) - Directories to submit your startup.
 
 ## Images
 

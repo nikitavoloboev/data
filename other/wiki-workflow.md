@@ -60,6 +60,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)
 - [Hongyi Shen's notes](https://github.com/wilbeibi/NotesIndex)
+- [Alopex Networks wiki](https://wiki.alopex.li/_categories)
 - [Michael Mellinger math notes](https://github.com/melling/MathAndScienceNotes)
 - [Bookmarks, tweets, cheatsheets, one-liners](https://github.com/ccampean/almanacs#readme)
 - [Bayle Shanks](http://www.bayleshanks.com/)
