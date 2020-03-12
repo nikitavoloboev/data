@@ -36,6 +36,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Yac](https://www.yac.chat/) - Asynchronous voice collaboration for remote teams.
 - [Slido](https://www.sli.do/) - Audience interaction made easy.
 - [Flowkit](https://useflowkit.com/) - User flows right inside your favorite design tool.
+- [Kapwing](https://www.kapwing.com/) - Collaborative platform for creating images, videos, and GIFs.
 - [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))
 - [Polar Bookshelf](https://getpolarized.io/) - Personal knowledge repository for PDF and web content supporting incremental reading and document annotation. ([Code](https://github.com/burtonator/polar-bookshelf))
 - [Jami](https://jam.link/) - Get access to services your friends pay for, instantly and securely.

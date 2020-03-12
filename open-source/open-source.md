@@ -72,3 +72,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Open Source is Broken (2019)](https://dev.to/degoodmanwilson/open-source-is-broken-g60)
 - [Sustain Open Source Forum](https://discourse.sustainoss.org/)
 - [Encode](https://www.encode.io/) - Collaboratively funded software development.
+- [Google Open Source Code Search](https://cs.opensource.google/) ([HN](https://news.ycombinator.com/item?id=22551856))

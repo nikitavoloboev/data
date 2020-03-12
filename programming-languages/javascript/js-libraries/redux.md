@@ -62,3 +62,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Redux Thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux.
 - [React context vs Redux in 2020](https://gist.github.com/slikts/57ff1acdb6f5b2ea075b701d1daf896d)
 - [Entire Redux in Web Worker](https://github.com/dai-shi/redux-in-worker)
+- [Event Driven Redux](https://github.com/dmmulroy/talks/blob/master/event-driven-redux/slides.pdf)

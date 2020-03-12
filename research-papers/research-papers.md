@@ -22,6 +22,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Pawel Szulc's liked papers](https://github.com/rabbitonweb/papers_i_love#readme)
 - [Computer science and computer-adjacent papers (and sometimes books) that have influenced me deeply](https://github.com/fogus/papers-i-love)
 - [Collaboratived repository to put all computer science papers that we thing everyone must read](https://github.com/leomindez/papers-you-must-read#readme)
+- [Exciting papers to read in the field of Computer Science (2020)](https://www.reddit.com/r/compsci/comments/ffd4xx/what_is_the_most_exciting_paper_you_have_read/)
 
 ## Links
 

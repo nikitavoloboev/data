@@ -9,3 +9,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Ask HN: Effective methods to fight depression?](https://news.ycombinator.com/item?id=16922738)
 - [Sara Vieira: Your brain doesn't have a fix flag](https://www.youtube.com/watch?v=bovBQtB_PDo)
 - [История одной депрессии](https://tonsky.livejournal.com/317265.html)
+- [Tips for the Depressed](https://nplusonemag.com/online-only/online-only/tips-for-the-depressed/)
