@@ -69,6 +69,7 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour) - Allows you to record and playback guided tours of codebases, directly within the editor. ([Code](https://github.com/vsls-contrib/codetour))
 - [VSCode Essentials](https://marketplace.visualstudio.com/items?itemName=jabacchetta.vscode-essentials) - Turn VSCode into a supercharged IDE. ([Code](https://github.com/jabacchetta/vscode-essentials))
 - [Duplicate action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate) - Ability to duplicate files in VS Code. ([Code](https://github.com/mrmlnc/vscode-duplicate))
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.

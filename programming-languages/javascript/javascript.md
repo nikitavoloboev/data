@@ -78,7 +78,7 @@
 - [Data Structures and Algorithms in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 - [JavaScript & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices#readme)
 - [Just](https://github.com/microsoft/just) - Library that organizes build tasks for your JS projects.
-- [ECMAScript® 2019 Language Specification](https://www.ecma-international.org/ecma-262/10.0/index.html)
+- [ECMAScript (JS) specification](https://read262.netlify.com) ([Code](https://github.com/j-f1/read262)) ([Web version 2](https://www.ecma-international.org/ecma-262/10.0/index.html))
 - [André Staltz: Two Fundamental Abstractions - Uphill Conf 2018](https://www.youtube.com/watch?v=fdol03pcvMA)
 - [JSMonday](http://www.jsmonday.dev/) - Weekly JS inspiration.
 - [Chevrotain](https://github.com/SAP/chevrotain) - Parser Building Toolkit for JavaScript.
