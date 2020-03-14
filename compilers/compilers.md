@@ -68,3 +68,4 @@
 - [CS164: Introduction to the design of programming languages course (2019)](http://www-inst.eecs.berkeley.edu/~cs164/sp19/)
 - [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/) ([HN](https://news.ycombinator.com/item?id=22346532))
 - [Automatic peephole optimizer for Cranelift JIT compiler](https://github.com/jubitaneja/codegen)
+- [Let's Build A Simple Interpreter](https://github.com/rspivak/lsbasi)

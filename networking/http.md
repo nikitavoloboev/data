@@ -43,3 +43,4 @@
 - [httpmole](https://github.com/jcchavezs/httpmole) - Provides a HTTP mock server that will act as a mole among your services, telling you everything http clients send to it and responding them whatever you want it to respond.
 - [oha](https://github.com/hatoo/oha) - Tiny program that sends some load to a web application.
 - [James](https://github.com/james-proxy/james) - HTTP Proxy and Monitor that enables developers to view and intercept requests made from the browser.
+- [Let's Build A Web Server](https://github.com/rspivak/lsbaws)

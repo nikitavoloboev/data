@@ -13,3 +13,7 @@ Best to not ever take opiates if you can avoid it.
 - [That is indeed a great way to try and help you stick to your goal. The thing is people don't realize how quick opiates sneak up on you. It doesn't take long for withdrawals to happen, and although they might not be the worst at first, it's knowing that just one pill will take away all the pain in an instant. It really is a slippery slope. You see to be doing everything you can to not become addicted, so I wish you luck. Just remember, before you know it opiates can turn you into a person you never thought you'd be.](https://www.reddit.com/r/opiates/comments/7ma1k9/if_you_used_once_every_month_and_no_more_than/)
 - [There is no such thing as ‘happiness’ when you are deep in the grips of opiate addiction. I truly cannot even remember a single time when I actually smiled during the 8 years I was using opiates every day (hydros, then oxy’s, then heroin). Sure, there are those fleeting moments of glee when we are in withdrawal and finally get our hands on the dope that our body is screaming for in the inside, but those moments come and go almost quicker than we can make a Reddit post about them.](https://www.reddit.com/r/opiates/comments/7nxrrd/to_the_opiate_curious/)
 - When you take opiates you are just borrowing happiness from tomorrow. You will pay for it eventually.
+
+## Links
+
+- [Ophelia](https://www.meetophelia.com/) - Medication and support for opioid withdrawal, in the privacy of your home. ([HN](https://news.ycombinator.com/item?id=22570133))
