@@ -66,3 +66,4 @@
 - [Transactionally Staged Job Drains in Postgres (2017)](https://brandur.org/job-drain) ([HN](https://news.ycombinator.com/item?id=15294722))
 - [Postgres source code](https://github.com/postgres/postgres)
 - [Postgres Explain Visualizer (pev)](https://dalibo.github.io/pev2/#/) - VueJS component to show a graphical vizualization of a PostgreSQL execution plan. ([Code](https://github.com/dalibo/pev2)) ([HN](https://news.ycombinator.com/item?id=22472175))
+- [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres#readme)

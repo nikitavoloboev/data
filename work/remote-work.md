@@ -31,3 +31,6 @@
 - [Why fully distributed is by far the best way to run a software team (2020)](https://medium.com/red-planet-labs/why-fully-distributed-is-by-far-the-best-way-to-run-a-software-team-d99abfc0c700)
 - [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/)
 - [Ask HN: Recommendations for Working from Home? (2020)](https://news.ycombinator.com/item?id=22549300)
+- [Work in the Time of Corona (2020)](https://blog.alicegoldfuss.com/work-in-the-time-of-corona/)
+- [Guide to Managing Remote Teams](https://knowyourteam.com/m/managing_remote_teams)
+- [NoOffice](https://nooffice.org/) - Definitive guide to working remotely. ([Code](https://github.com/Nozbe/NoOffice.org))

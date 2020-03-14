@@ -25,6 +25,7 @@
 - [sql-ts](https://github.com/rmp135/sql-ts) - Generate TypeScript types from a SQL database.
 - [Mostly ORMless](https://github.com/jawj/mostly-ormless) - Ergonomic Postgres from TypeScript.
 - [Unionize](https://github.com/pelotom/unionize) - Boilerplate-free functional sum types in TypeScript.
+- [zod](https://github.com/vriad/zod) - Typescript-first schema validation with static type inference.
 
 ## Links
 

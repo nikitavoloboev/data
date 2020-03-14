@@ -22,3 +22,4 @@
 - [MIT 6.004: Computation Structures course](https://6004.mit.edu/web/fall19/resources/lectures) ([HN](https://news.ycombinator.com/item?id=22056567))
 - [Coding for SSDs](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
 - [hackrf](https://github.com/mossmann/hackrf) - Low cost software radio platform.
+- [Meshtastic](https://www.meshtastic.org/) - Open source hiking, pilot, skiing, Signal-App-extending GPS mesh communicator.

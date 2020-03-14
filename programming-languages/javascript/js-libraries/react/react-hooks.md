@@ -38,6 +38,8 @@
 - [usePlacesAutocomplete](https://github.com/wellyshen/use-places-autocomplete) - React hook for Google Maps Places Autocomplete.
 - [react-use-mutable](https://github.com/Marik-D/react-use-mutable) - Tiny hook that keeps your react state up-to-date in callbacks.
 - [use-cannon](https://github.com/react-spring/use-cannon) - Physics based hooks for react-three-fiber.
+- [react-hooks-global-state](https://github.com/dai-shi/react-hooks-global-state) - Simple global state for React with Hooks API.
+- [use-local-storage](https://github.com/astoilkov/use-local-storage-state) - Like useState() but for local storage.
 
 ## Notes
 

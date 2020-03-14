@@ -161,3 +161,4 @@
 - [Kubernetes Engine Samples](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples)
 - [How to use Open Virtual Networking with Kubernetes](https://github.com/ovn-org/ovn-kubernetes)
 - [RBACSYNC](https://github.com/cruise-automation/rbacsync) - Automatically sync groups into Kubernetes RBAC.
+- [Hub](https://github.com/cncf/hub) - Web-based application that enables finding, installing, and publishing packages and configurations for CNCF projects.

@@ -27,3 +27,4 @@
 - [Metadoc](https://beta.metadoc.io/) - Online documentation platform where developers collaborate and learn from shared inline notes, bookmarks and comments.
 - [Ask HN: How does your company keep track of lessons learned? (2020)](https://news.ycombinator.com/item?id=22297780)
 - [Technical Writing Courses for Engineers by Google](https://developers.google.com/tech-writing)
+- [Almanac](https://askalmanac.com/home) - Workspace for your team's knowledge.

@@ -207,3 +207,4 @@
 - [Google Colaboratory](https://github.com/googlecolab/backend-container) - Research project created to help disseminate machine learning education and research.
 - [Resources for teaching machine learning](https://github.com/kierisi/teaching_ml/blob/master/teaching_ml_resources.md#readme)
 - [Population Based Augmentation](https://github.com/arcelien/pba) - Algorithm that quickly and efficiently learns data augmentation functions for neural network training.
+- [NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples)

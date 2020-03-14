@@ -132,3 +132,4 @@
 - [What makes a dependency dependable?](https://blog.jessitron.com/2020/03/07/what-makes-a-dependency-dependable/)
 - [Defunctionalisation – an underappreciated tool for writing good software (2020)](https://www.gresearch.co.uk/article/defunctionalisation/) ([HN](https://news.ycombinator.com/item?id=22525038))
 - [Ultimate Coding Resources List](https://github.com/PizzaPokerGuy/ultimate-coding-resources#readme)
+- [libs.garden](https://libs.garden/)

@@ -75,3 +75,4 @@ I publish most of my work and make it open source for other people to use and re
 - [grep.app](https://grep.app/) - Search across a half million git repos. ([HN](https://news.ycombinator.com/item?id=22396824))
 - [Derek](https://github.com/alexellis/derek) - Reduces fatigue for maintainers by automating governance and delegating permissions to your team and community.
 - [lerna-changelog](https://github.com/lerna/lerna-changelog) - PR-based changelog generator with monorepo support.
+- [ghg](https://github.com/Songmu/ghg) - Get the executable from github releases.
