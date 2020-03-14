@@ -36,6 +36,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Utility
 
+- [completion-nvim](https://github.com/haorenW1025/completion-nvim) - Async completion framework aims to provide completion to neovim's built in LSP written in Lua.
 - [WakaTime](https://github.com/wakatime/vim-wakatime) - Automatic time tracking.
 - [Dash](https://github.com/rizzatti/dash.vim) - Search Dash app.
 - [context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents.

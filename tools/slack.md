@@ -10,3 +10,4 @@
 - [Workflow examples](https://slack.com/intl/en-gb/slack-tips/workflow-builder-examples)
 - [Simple Decisions](https://simplepoll.rocks/decisions/) - Never let another decision get lost in Slack.
 - [Sclack](https://github.com/haskellcamargo/sclack) - Best CLI client for Slack, because everything is terrible.
+- [Collection of Slack emoji](https://github.com/snipe/awesome-emoji)

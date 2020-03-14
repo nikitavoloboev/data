@@ -58,3 +58,4 @@
 - [SwarmKit](https://github.com/docker/swarmkit) - Toolkit for orchestrating distributed systems at any scale. It includes primitives for node discovery, raft-based consensus, task scheduling and more.
 - [How to get started with infrastructure and distributed systems (2016)](http://codecapsule.com/2016/01/03/how-to-get-started-with-infrastructure-and-distributed-systems/)
 - [Advanced Napkin Math: Estimating System Performance from First Principles (2019)](https://www.youtube.com/watch?v=IxkSlnrRFqc) ([Code](https://github.com/sirupsen/napkin-math))
+- [Golimit](https://github.com/myntra/golimit) - Uber ringpop based distributed and decentralized rate limiter.

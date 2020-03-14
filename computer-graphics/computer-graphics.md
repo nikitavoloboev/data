@@ -39,3 +39,4 @@
 - [Collision detection: article series (2018)](https://0fps.net/2015/01/07/collision-detection-part-1/) ([HN](https://news.ycombinator.com/item?id=22470629))
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) ([Code](https://github.com/paroj/gltut))
 - [light2d](https://github.com/miloyip/light2d) - Light rendering in 2D.
+- [Seamless, static, 3D mesh multi-texturer](https://github.com/rafapages/SSMVtex)

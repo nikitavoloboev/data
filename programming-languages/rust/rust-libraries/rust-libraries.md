@@ -260,6 +260,7 @@
 - [rust-block](https://github.com/SSheldon/rust-block) - Rust interface for Apple's C language extension of blocks.
 - [rust-dispatch](https://github.com/SSheldon/rust-dispatch) - Rust wrapper for Apple's Grand Central Dispatch.
 - [indextree](https://github.com/saschagrunert/indextree) - Arena based tree structure by using indices instead of reference counted pointers.
+- [markedit](https://github.com/Michael-F-Bryan/markedit) - Library for manipulating unstructured Markdown documents.
 
 ## Cargo Plugins
 

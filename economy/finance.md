@@ -54,3 +54,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Roki](https://rotki.com/) - Open source asset analytics, tracking, management and tax reporting application that enables you to take ownership of your financial data. ([Code](https://github.com/rotki/rotki))
 - [How to build wealth slowly](https://pjrvs.com/wealth)
 - [HN: Reddit has become a guide to personal finance (2020)](https://news.ycombinator.com/item?id=22478854)
+- [Ask HN: Book recommendations for understanding financial systems? (2020)](https://news.ycombinator.com/item?id=22573204)

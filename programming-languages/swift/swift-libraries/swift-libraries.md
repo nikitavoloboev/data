@@ -52,6 +52,7 @@
 - [SwiftUI Router](https://github.com/frzi/SwiftUIRouter) - Routing in SwiftUI.
 - [Graphaello](https://github.com/nerdsupremacist/Graphaello) - Tool for Writing Declarative, Type-Safe and Data-Driven Applications in SwiftUI using GraphQL.
 - [SwiftUI Grid](https://github.com/spacenation/swiftui-grid) - SwiftUI Grid view layout with custom styles.
+- [SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Provides a Pager component built with SwiftUI native components.
 
 ## macOS
 

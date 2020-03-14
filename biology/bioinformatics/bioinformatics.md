@@ -26,3 +26,4 @@
 - [Machine Boss](https://github.com/evoldoers/machineboss) - Bioinformatics Open Source Sequence machine.
 - [atomium](https://github.com/samirelanduk/atomium) - Python molecular modeller (with .pdb/.cif/.mmtf parsing and production).
 - [PoincareMaps](https://github.com/facebookresearch/PoincareMaps) - Poincare maps recover continuous hierarchies in single-cell data.
+- [OpenMM](https://github.com/openmm/openmm) - Toolkit for molecular simulation using high performance GPU code.

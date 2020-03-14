@@ -30,3 +30,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [IPTV](https://github.com/iptv-org/iptv) - Collection of 8000+ publicly available IPTV channels from all over the world.
 - [Olive](https://github.com/olive-editor/olive) - Free non-linear video editor for Windows, macOS, and Linux.
 - [astiencoder](https://github.com/asticode/go-astiencoder) - Open source video encoder written in Go and based on ffmpeg C bindings.
+- [SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1) - Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder).
