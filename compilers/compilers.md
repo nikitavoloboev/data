@@ -69,3 +69,4 @@
 - [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/) ([HN](https://news.ycombinator.com/item?id=22346532))
 - [Automatic peephole optimizer for Cranelift JIT compiler](https://github.com/jubitaneja/codegen)
 - [Let's Build A Simple Interpreter](https://github.com/rspivak/lsbasi)
+- [Introduction to Static Analysis - An Abstract Interpretation Perspective (2020)](https://mitpress.mit.edu/books/introduction-static-analysis)
