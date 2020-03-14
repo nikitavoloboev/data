@@ -20,3 +20,4 @@
 - [In depth guide to running Elasticsearch in production (2020)](https://facinating.tech/2020/02/22/in-depth-guide-to-running-elasticsearch-in-production/) ([HN](https://news.ycombinator.com/item?id=22396918))
 - [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency.
 - [Milvus](https://github.com/milvus-io/milvus) - Open source vector similarity search engine. ([Web](https://milvus.io/))
+- [PISA](https://github.com/pisa-engine/pisa) - Performant Indexes and Search for Academia. ([HN](https://news.ycombinator.com/item?id=22574459))

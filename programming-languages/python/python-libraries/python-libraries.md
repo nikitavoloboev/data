@@ -93,3 +93,4 @@
 - [Python libraries for Google Colaboratory](https://github.com/googlecolab/colabtools)
 - [PandasVault](https://github.com/firmai/pandasvault) - Advanced Pandas Functions and Code Snippets.
 - [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
+- [baikal](https://github.com/alegonz/baikal) - Graph-based functional API for building complex scikit-learn pipelines.
