@@ -21,3 +21,4 @@
 - [x86-info-term](https://github.com/zwegner/x86-info-term) - Terminal viewer for x86 instruction/intrinsic information using Python 3 + curses.
 - [Cosmic](https://github.com/clbx/Cosmic) - Stellar simulated 8-bit computer architecture.
 - [Optimized implementations of various library functions for ARM architecture processors](https://github.com/ARM-software/optimized-routines)
+- [Chipping away at Moore's law. Modern CPUs are just chiplets connected together (2020)](https://queue.acm.org/detail.cfm?id=3388515)

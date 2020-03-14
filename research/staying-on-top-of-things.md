@@ -99,3 +99,4 @@ And these Discord servers:
 - [HN: List of Twitter mute words for your timeline (2020)](https://news.ycombinator.com/item?id=22141903)
 - [Hacker News Search](https://hn.algolia.com/) ([Code](https://github.com/algolia/hn-search))
 - [Slower News](https://www.slowernews.com) - Trends, micro-trends & edge cases. ([Code](https://github.com/slowernews/slowernews))
+- [ACM Queue](https://queue.acm.org/index.cfm) - Magazine for practicing software engineers.

@@ -45,3 +45,4 @@
 - [Snow Crystals (2019)](https://arxiv.org/abs/1910.06389)
 - [Gears (2020)](https://ciechanow.ski/gears/) ([HN](https://news.ycombinator.com/item?id=22310813))
 - [The Church-Turing Thesis and Physics (2019)](https://video.ethz.ch/speakers/bernays/2019/7b11b50e-f813-4d26-95e0-616cc350708c.html)
+- [Einstein Papers Project](https://www.einstein.caltech.edu/) - Provides the first complete picture of Einstein’s massive written legacy.
