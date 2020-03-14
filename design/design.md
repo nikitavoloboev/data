@@ -67,3 +67,6 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [React Links for Designers](https://react.design/links/)
 - [Steve Schoger design tips](https://mobile.twitter.com/i/events/879086180909764608)
 - [Utopia](https://utopia.fyi/) - Elegantly scale type and space without breakpoints.
+- [unDraw Illustrations](https://undraw.co/illustrations)
+- [Humaaans](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library.
+- [Open Peeps](https://www.openpeeps.com/) - Hand-drawn illustration library.

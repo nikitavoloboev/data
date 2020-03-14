@@ -14,3 +14,4 @@
 - [css.gg](https://css.gg/) - Minimalistic icon library Designed by code. Customizable & Retina-Ready icons — entirely built in CSS. ([Code](https://github.com/astrit/css.gg))
 - [Heroicons](https://heroicons.dev/) - Set of free MIT-licensed high-quality SVG icons for UI development. ([Code](https://github.com/refactoringui/heroicons))
 - [Glyphfinder](https://www.glyphfinder.com/) - Missing character search for designers, developers and writers.
+- [Shape](https://shape.so/) - 4300+ Customizable, animated icons & illustrations exportable to code.

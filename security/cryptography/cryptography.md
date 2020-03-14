@@ -37,3 +37,4 @@
 - [CIRCL](https://github.com/cloudflare/circl) - Cloudflare Interoperable Reusable Cryptographic Library.
 - [cosign](https://github.com/osresearch/cosign) - Cooperative RSA signatures.
 - [Practical Cryptography for Developers book](https://cryptobook.nakov.com/) ([Code](https://github.com/nakov/Practical-Cryptography-for-Developers-Book))
+- [Cryptopals](https://cryptopals.com/) - Collection of 48 exercises that demonstrate attacks on real-world crypto.

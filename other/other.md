@@ -117,3 +117,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [DataWig](https://github.com/awslabs/datawig) - Learns Machine Learning models to impute missing values in tables.
 - [LLDB](https://github.com/DerekSelander/LLDB) - Collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions.
 - [zeitgeist](https://github.com/daneden/zeitgeist) - Tiny Mac app for keeping an eye on your ZEIT Now deployments.
+- [Project Lovelace](https://projectlovelace.net/) - Bunch of free scientific programming problems.
+- [mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management.

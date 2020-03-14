@@ -92,3 +92,4 @@
 - [einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, chainer, gluon and others).
 - [Python libraries for Google Colaboratory](https://github.com/googlecolab/colabtools)
 - [PandasVault](https://github.com/firmai/pandasvault) - Advanced Pandas Functions and Code Snippets.
+- [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
