@@ -208,3 +208,4 @@
 - [Resources for teaching machine learning](https://github.com/kierisi/teaching_ml/blob/master/teaching_ml_resources.md#readme)
 - [Population Based Augmentation](https://github.com/arcelien/pba) - Algorithm that quickly and efficiently learns data augmentation functions for neural network training.
 - [NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples)
+- [Introduction to Deep Learning and Generative Models course](http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/) ([Code](https://github.com/rasbt/stat453-deep-learning-ss20))

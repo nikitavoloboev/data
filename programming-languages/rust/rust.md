@@ -153,3 +153,4 @@
 - [Considering Rust (2020)](https://www.youtube.com/watch?v=DnT-LUQgc7s)
 - [async-on-embedded](https://github.com/ferrous-systems/async-on-embedded) - On embedded (Cortex-M edition): no-global-alloc, no-threads runtime.
 - [Rust And C++ On Floating-Point Intensive Code (2019)](https://www.reidatcheson.com/hpc/architecture/performance/rust/c++/2019/10/19/measure-cache.html) ([HN](https://news.ycombinator.com/item?id=21342501))
+- [Tarpaulin](https://github.com/xd009642/tarpaulin) - Code coverage tool for Rust projects.

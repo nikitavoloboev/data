@@ -36,3 +36,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib, but written in Go.
 - [Redirect attack on Shadowsocks stream ciphers](https://github.com/edwardz246003/shadowsocks)
 - [Dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more.
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers.

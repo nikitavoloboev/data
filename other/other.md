@@ -116,3 +116,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Loss functions for image segmentation](https://github.com/JunMa11/SegLoss)
 - [DataWig](https://github.com/awslabs/datawig) - Learns Machine Learning models to impute missing values in tables.
 - [LLDB](https://github.com/DerekSelander/LLDB) - Collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions.
+- [zeitgeist](https://github.com/daneden/zeitgeist) - Tiny Mac app for keeping an eye on your ZEIT Now deployments.

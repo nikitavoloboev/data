@@ -25,6 +25,7 @@
 - [GitHub Actions for Rust language](https://github.com/actions-rs/meta) - Recipes, discussions, questions and ideas.
 - [audit-check](https://github.com/actions-rs/audit-check) - GitHub Action is using cargo-audit to perform an audit for crates with security vulnerabilities.
 - [clippy-check](https://github.com/actions-rs/clippy-check) - GitHub Action for PR annotations with clippy warnings.
+- [Rust tarpaulin Action](https://github.com/actions-rs/tarpaulin) - GitHub Action for code coverage reporting with tarpaulin.
 
 ## Python
 
