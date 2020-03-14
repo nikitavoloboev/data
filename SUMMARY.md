@@ -393,6 +393,7 @@
     - [Fish](unix/shell/fish.md)
   - [My file system](unix/my-file-system.md)
   - [Dotfiles](unix/dotfiles.md)
+  - [Configuration management](unix/config-management.md)
 - [Web](web/web.md)
   - [Browsers](web/browsers/browsers.md)
     - [Safari](web/browsers/safari.md)
