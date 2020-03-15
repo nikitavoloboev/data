@@ -93,6 +93,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Liam Cobb](https://liamcobb.tumblr.com/)
 - [Deborah Lee](https://www.instagram.com/jdebbiel/)
 - [Bee Grandinetti](http://www.beegrandinetti.com/)
+- [Miena A.R.](https://mienar.com/original-artworks)
 
 ## Interesting art
 
