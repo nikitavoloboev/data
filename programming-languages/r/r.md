@@ -10,3 +10,5 @@
 - [Text Mining with R (2019)](https://www.tidytextmining.com/)
 - [R LSP](https://github.com/REditorSupport/languageserver) - Implementation of the Language Server Protocol for R.
 - [Tools to make an R developer's life easier](https://github.com/r-lib/devtools)
+- [R Base Plotting Without Wrappers](http://karolis.koncevicius.lt/posts/r_base_plotting_without_wrappers/)
+- [Lesser Known R Features](http://karolis.koncevicius.lt/posts/lesser_known_r_features/)

@@ -37,6 +37,8 @@
 - [KeyboardGuide](https://github.com/niw/KeyboardGuide) - Modern, real iOS keyboard system notifications handler framework that Just Works.
 - [FormToolbar](https://github.com/sgr-ksmt/FormToolbar) - Simple, movable and powerful toolbar for UITextField and UITextView.
 - [Router](https://github.com/freshOS/Router) - Simple Navigation for iOS.
+- [NotificationBanner](https://github.com/Daltron/NotificationBanner) - Easiest way to display highly customizable in app notification banners in iOS.
+- [TweenKit](https://github.com/SteveBarnegren/TweenKit) - Animation library for iOS in Swift.
 
 ## Web
 
@@ -53,6 +55,8 @@
 - [Graphaello](https://github.com/nerdsupremacist/Graphaello) - Tool for Writing Declarative, Type-Safe and Data-Driven Applications in SwiftUI using GraphQL.
 - [SwiftUI Grid](https://github.com/spacenation/swiftui-grid) - SwiftUI Grid view layout with custom styles.
 - [SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Provides a Pager component built with SwiftUI native components.
+- [SwiftUI Shapes](https://github.com/spacenation/swiftui-shapes) - Collection of custom shapes for iOS and macOS.
+- [ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - SwiftUI collection view with support for custom layouts, preloading, and more.
 
 ## macOS
 
@@ -201,6 +205,7 @@
 - [Logic](https://github.com/dabbott/Logic)
 - [CommonMarkAttributedString](https://github.com/mattt/CommonMarkAttributedString) - Create NSAttributedStrings from Markdown Text.
 - [SwiftFFmpeg](https://github.com/sunlubo/SwiftFFmpeg) - Swift wrapper for the FFmpeg API.
+- [SICA](https://github.com/cats-oss/Sica) - Simple Interface Core Animation.
 
 ## Links
 

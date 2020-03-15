@@ -8,3 +8,4 @@
 - [tfsec](https://github.com/liamg/tfsec) - Static analysis powered security scanner for your terraform code.
 - [Announcing Providers in the New Terraform Registry (2020)](https://www.hashicorp.com/blog/announcing-providers-in-the-new-terraform-registry/)
 - [Terraform Provider for AWS](https://github.com/terraform-providers/terraform-provider-aws)
+- [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code.

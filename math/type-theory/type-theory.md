@@ -44,3 +44,4 @@
 - [What are the common ways of performing typechecking? (2019)](https://www.reddit.com/r/ProgrammingLanguages/comments/87c5dw/what_are_the_common_ways_of_performing/)
 - [mlsub](https://github.com/stedolan/mlsub) - Prototype type inference engine.
 - [Papers and talks around type inference](http://stedolan.net/research/#mlsub)
+- [Low-Level Liquid Types](http://goto.ucsd.edu/~rjhala/papers/low_level_liquid_types.pdf)

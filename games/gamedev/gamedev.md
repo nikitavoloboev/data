@@ -39,3 +39,4 @@
 - [How I made a 3D game in only 2KB of JavaScript (2020)](http://frankforce.com/?p=7427) ([HN](https://news.ycombinator.com/item?id=22524287))
 - [Open Asset Import Library (assimp)](https://github.com/assimp/assimp) - Library to import and export various 3d-model-formats including scene-post-processing to generate missing render data.
 - [Agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes.
+- [Colyseus](https://github.com/colyseus/colyseus) - Authoritative Multiplayer Game Server for Node.js, with clients available for the Web, Unity3d, Defold, Haxe, and Cocos2d-X.

@@ -90,3 +90,4 @@
 - [Generating MIDI melody from lyrics using LSTM-GANs](https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation) ([HN](https://news.ycombinator.com/item?id=22524176))
 - [Zoom In: An Introduction to Circuits (2020)](https://distill.pub/2020/circuits/zoom-in/)
 - [Lagrangian Neural Networks (2020)](https://greydanus.github.io/2020/03/10/lagrangian-nns/) ([HN](https://news.ycombinator.com/item?id=22552790))
+- [Neural Tangents](https://github.com/google/neural-tangents) - Fast and Easy Infinite Neural Networks in Python.

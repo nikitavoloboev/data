@@ -84,6 +84,7 @@
 - [Meta-Typing](https://github.com/ronami/meta-typing) - Various functions and algorithms implemented purely with TypeScript's type system.
 - [Designing the perfect Typescript schema validation library](https://vriad.com/blog/zod/)
 - [How to setup TypeScript and use in a normal JavaScript project for learning purposes](https://gist.github.com/marcusradell/7717da3b2737d218c2f2584cd9df36a0)
+- [Dependent Types in Typescript](https://www.javiercasas.com/articles/typescript-dependent-types)
 
 ## Images
 

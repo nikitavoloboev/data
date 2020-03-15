@@ -184,3 +184,7 @@
 - [CLUI](https://github.com/replit/clui) - Collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.
 - [cosha](https://github.com/robinloeffel/cosha) - Colorful shadows for your images.
 - [Rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda.
+
+## Links
+
+- [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio#readme)

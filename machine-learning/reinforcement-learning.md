@@ -46,3 +46,5 @@
 - [Curated list of awesome imitation learning resources and publications](https://github.com/kristery/Awesome-Imitation-Learning#readme)
 - [Structural implementation of RL key algorithms](https://github.com/medipixel/rl_algorithms)
 - [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks#readme) - Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp.
+- [Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford University, MIT, UC Berkeley](https://github.com/Machine-Learning-Tokyo/AI_Curriculum#readme)
+- [PyTorch implementation of soft actor critic](https://github.com/pranz24/pytorch-soft-actor-critic)
