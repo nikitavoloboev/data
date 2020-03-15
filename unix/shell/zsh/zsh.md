@@ -17,3 +17,4 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - [zsh-dirnav](https://github.com/gparker42/zsh-dirnav) - Directory navigation functions for zsh.
 - [Zsh prompt with asynchronous Git status](https://vincent.bernat.ch/en/blog/2019-zsh-async-vcs-info)
 - [ZSH History Database](https://github.com/larkery/zsh-histdb)
+- [Building portable Zsh](https://github.com/xxh/zsh-portable)

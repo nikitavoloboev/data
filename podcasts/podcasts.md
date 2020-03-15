@@ -117,3 +117,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds.
 - [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine.
 - [Winds](https://getstream.io/winds/) - Beautiful Open Source Podcast & RSS Reader created by Stream. ([Code](https://github.com/GetStream/Winds))
+- [Mixtape](https://mixtape.preslav.me/) - Search engine for podcasts. Discover and subscribe to topics you like.

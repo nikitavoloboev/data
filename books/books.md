@@ -178,3 +178,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: Are books worth it? (2020)](https://news.ycombinator.com/item?id=21955258)
 - [1,000 Free Audio Books](http://www.openculture.com/freeaudiobooks)
 - [Read This Twice](https://readthistwice.com/) - Books worth reading twice.
+- [Holloway](https://www.holloway.com/) - Knowledge you can rely on. Modern book publisher.

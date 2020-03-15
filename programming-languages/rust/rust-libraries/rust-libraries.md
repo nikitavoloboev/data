@@ -263,6 +263,8 @@
 - [indextree](https://github.com/saschagrunert/indextree) - Arena based tree structure by using indices instead of reference counted pointers.
 - [markedit](https://github.com/Michael-F-Bryan/markedit) - Library for manipulating unstructured Markdown documents.
 - [plotlib](https://github.com/milliams/plotlib) - Data plotting library for Rust.
+- [Parze](https://github.com/zesterer/parze) - Clean, efficient parser combinator.
+- [Flume](https://github.com/zesterer/flume) - Blazingly fast multi-producer, single-consumer channel.
 
 ## Cargo Plugins
 

@@ -30,6 +30,7 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 - [Ports](https://github.com/caarlos0/ports) - Easily see what's happening on your computer's ports.
 - [Fast Syntax Highlighting](https://github.com/zdharma/fast-syntax-highlighting) - Fine granularity, number of features, 40 work hours themes.
 - [cod](https://github.com/dim-an/cod) - Completion daemon for bash/zsh.
+- [Zsh Nix Shell](https://github.com/chisui/zsh-nix-shell) - Use Zsh as the default nix-shell shell.
 
 ## Prompt
 
@@ -43,5 +44,3 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 - [Git sync](https://github.com/caarlos0/zsh-git-sync) - Sync git repositories and clean them up.
 - [Open PR](https://github.com/caarlos0/zsh-open-pr) - Open pull requests from command line.
 - [Git add remote](https://github.com/caarlos0/git-add-remote) - Easily add remotes to git repositories.
-
-- [Zsh Nix Shell](https://github.com/chisui/zsh-nix-shell) - Use Zsh as the default nix-shell shell.

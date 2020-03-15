@@ -32,3 +32,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing.
 - [How to write a forwardable introduction email](https://www.startuphacks.vc/blog/2015/06/24/how-to-write-a-forwardable-introduction-email)
 - [SimpleLogin](https://simplelogin.io/) - Protect your personal email with email alias. ([Code](https://github.com/simple-login/app))
+- [InboxSDK](https://www.inboxsdk.com/) - High level Javascript library used to easily build browser extensions that interact with both Gmail and Inbox by Google. ([HN](https://news.ycombinator.com/item?id=22580223))
