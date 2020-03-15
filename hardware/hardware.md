@@ -24,3 +24,4 @@
 - [hackrf](https://github.com/mossmann/hackrf) - Low cost software radio platform.
 - [Meshtastic](https://www.meshtastic.org/) - Open source hiking, pilot, skiing, Signal-App-extending GPS mesh communicator.
 - [Awesome Hardware Description Languages](https://github.com/drom/awesome-hdl#readme)
+- [Tindie](https://www.tindie.com/) - Buy and Sell DIY hardware products.

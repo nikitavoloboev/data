@@ -5,6 +5,7 @@
 - [human-panic](https://github.com/yoshuawuyts/human-panic) - Panic messages for humans.
 - [Abscissa](https://github.com/iqlusioninc/abscissa) - Microframework for building Rust applications (either CLI tools or network/web services).
 - [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
+- [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust.
 
 ## Web
 

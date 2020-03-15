@@ -184,6 +184,7 @@
 - [CLUI](https://github.com/replit/clui) - Collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete.
 - [cosha](https://github.com/robinloeffel/cosha) - Colorful shadows for your images.
 - [Rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda.
+- [MathJax](https://github.com/mathjax/MathJax-src) - Open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all modern browsers.
 
 ## Links
 

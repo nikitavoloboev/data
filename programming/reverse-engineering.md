@@ -21,3 +21,6 @@
 - [Frida](https://frida.re/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. ([Code](https://github.com/frida/frida))
 - [Malware Analysis and Reverse Engineering Course](https://class.malware.re/) ([HN](https://news.ycombinator.com/item?id=22488510))
 - [Capstone](https://github.com/aquynh/capstone) - Disassembly framework with the target of becoming the ultimate disasm engine for binary analysis and reversing in the security community.
+- [Nightmare – Guided Intro to Binary Exploitation/Reverse Engineering](https://guyinatuxedo.github.io/)
+- [Exploit Development course (2019)](https://samsclass.info/127/127_F19.shtml)
+- [pwn.college](https://pwn.college/) - Learn & practice, core cybersecurity concepts in a hands-on fashion. ([HN](https://news.ycombinator.com/item?id=22401797))
