@@ -118,3 +118,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [LLDB](https://github.com/DerekSelander/LLDB) - Collection of LLDB aliases/regexes and Python scripts to aid in your debugging sessions.
 - [zeitgeist](https://github.com/daneden/zeitgeist) - Tiny Mac app for keeping an eye on your ZEIT Now deployments.
 - [Project Lovelace](https://projectlovelace.net/) - Bunch of free scientific programming problems.
+- [Utopian developer's manifesto](https://github.com/cristaloleg/awesome-manifesto#readme)
+- [Webcodesk](https://github.com/webcodesk/webcodesk-srv) - Web Application Builder.

@@ -70,6 +70,9 @@
 - [React Split Pane](https://github.com/tomkp/react-split-pane) - React split-pane component.
 - [react-soft-slider](https://github.com/dbismut/react-soft-slider) - Simple, fast and impartial slider.
 - [restful-react](https://github.com/contiamo/restful-react) - Consistent, declarative way of interacting with RESTful backends, featuring code-generation from Swagger and OpenAPI specs.
+- [Iconify](https://github.com/iconify/iconify-react) - Modern open source SVG alternative to glyph fonts.
+- [Formsy](https://github.com/formsy/formsy-react) - Form input builder and validator for React.
+- [React Frontload](https://github.com/davnicwil/react-frontload) - Async data loading for React components, on client & server.
 
 ## Links
 

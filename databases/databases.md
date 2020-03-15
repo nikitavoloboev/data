@@ -58,6 +58,7 @@
 - [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
 - [MinIO](https://github.com/minio/minio) - High performance object storage server compatible with Amazon S3 APIs.
 - [Memory-Efficient Search Trees for Database Management Systems (2020)](http://reports-archive.adm.cs.cmu.edu/anon/2020/CMU-CS-20-101.pdf) ([HN](https://news.ycombinator.com/item?id=22543125))
+- [ShareDB](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT).
 
 ## Tools
 

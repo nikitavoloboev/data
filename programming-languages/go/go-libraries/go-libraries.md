@@ -358,6 +358,7 @@
 - [dque](https://github.com/joncrlsn/dque) - Fast embedded durable queue for Go.
 - [netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting.
 - [image](https://github.com/containers/image) - Set of Go libraries aimed at working in various way with containers' images and container image registries.
+- [GoAdmin](https://github.com/GoAdminGroup/go-admin) - Golang framework helps gopher to build a data visualization and admin panel in ten minutes. ([Web](https://www.go-admin.com/))
 
 ## Links
 

@@ -20,6 +20,7 @@
 - [Classy-UI](https://classy-ui.io/) - Atomic design system inspired by the wonderful Tailwindcss. ([Code](https://github.com/cerebral/classy-ui))
 - [Radix](https://radix.modulz.app/docs/getting-started/) - Design System and Component Library for Modulz. ([Code](https://github.com/modulz/radix))
 - [Tailwind UI](https://tailwindui.com/) - Beautiful UI components, crafted by the creators of Tailwind CSS. ([HN](https://news.ycombinator.com/item?id=22422873)) ([HN 2](https://news.ycombinator.com/item?id=22463769))
+- [Carbon](https://github.com/carbon-design-system/carbon) - Design system built by IBM.
 
 ## Links
 

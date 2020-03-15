@@ -63,3 +63,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [React context vs Redux in 2020](https://gist.github.com/slikts/57ff1acdb6f5b2ea075b701d1daf896d)
 - [Entire Redux in Web Worker](https://github.com/dai-shi/redux-in-worker)
 - [Event Driven Redux](https://github.com/dmmulroy/talks/blob/master/event-driven-redux/slides.pdf)
+- [redux-act](https://github.com/pauldijou/redux-act) - Opinionated lib to create actions and reducers for Redux. The main goal is to use actions themselves as references inside the reducers rather than string constants.

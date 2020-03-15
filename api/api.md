@@ -5,6 +5,7 @@
 - [Google Drive](https://github.com/prasmussen/gdrive)
 - [GitHub](https://developer.github.com/v3/)
 - [GitHub Go](https://github.com/shurcooL/githubv4) - Client library for accessing GitHub GraphQL API.
+- [GitHub JS](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs.
 - [tweetlord](https://github.com/snovvcrash/tweetlord) - Twitter profile dumper (downloader) with authorization swapping.
 - [Hacker News](https://github.com/HackerNews/API)
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
