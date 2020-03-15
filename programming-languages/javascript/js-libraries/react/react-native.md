@@ -63,3 +63,4 @@
 - [Installing React Native on macOS course](https://academy.infinite.red/p/installing-react-native-tutorial-on-macos/)
 - [React Native Blur component](https://github.com/react-native-community/react-native-blur)
 - [redash](https://github.com/wcandillon/react-native-redash) - Utility library for React Native Gesture Handler and Reanimated.
+- [What I've learned creating a React Native performance monitor (2020)](https://bullet-train.io/blog/react-native-performance-monitor)
