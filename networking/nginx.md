@@ -12,3 +12,4 @@
 - [Alphabetical index of nginx directives](http://nginx.org/en/docs/dirindex.html)
 - [Nginx source code](https://github.com/nginx/nginx)
 - [GIXY](https://github.com/yandex/gixy) - Tool to analyze Nginx configuration. The main goal of Gixy is to prevent security misconfiguration and automate flaw detection.
+- [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook#readme) - How to improve NGINX performance, security, and other important things.

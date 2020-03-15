@@ -6,11 +6,9 @@
 - [iPhone 11 Pro: 256GB](https://www.apple.com/iphone-11-pro/)
 - [AirPods Pro](https://www.apple.com/airpods-pro/)
 - [Apple Watch 4](https://www.apple.com/watch/)
-- [iPad Pro 11 64GB](https://www.apple.com/ipad-pro/)
-  - [Pencil](https://www.apple.com/shop/product/MU8F2AM/A/apple-pencil-2nd-generation) & [cover](https://www.apple.com/shop/product/MRX72ZM/A/smart-folio-for-11-inch-ipad-pro-charcoal-gray).
+- [iPad Pro 11 64GB](https://www.apple.com/ipad-pro/) & [Pencil](https://www.apple.com/shop/product/MU8F2AM/A/apple-pencil-2nd-generation) & [Cover](https://www.apple.com/shop/product/MRX72ZM/A/smart-folio-for-11-inch-ipad-pro-charcoal-gray).
 - [Sony XM3 Headphones](https://www.sony.com/electronics/headband-headphones/wh-1000xm3)
 - [Blue Yeti Microphone](https://www.bluedesigns.com/products/yeti/)
-  - [Pop Filter](https://www.keymusic.com/item/konig-meyer-23956-popkiller/)
 
 ## Travel
 
