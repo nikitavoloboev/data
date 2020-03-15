@@ -16,3 +16,4 @@
 - [OpenMoji](https://openmoji.org/) - Open source emojis for designers, developers and everyone else. ([Code](https://github.com/hfg-gmuend/openmoji))
 - [Visual Guide To SVG Matrix](https://github.com/afternoon2/svg-matrix-visual-guide)
 - [Curated List Of Websites For Free SVG Illustrations (2019)](https://wweb.dev/resources/free-svg-illustrations)
+- [SVG Animations](https://andrew.wang-hoyer.com/experiments/svg-animations/) ([Code](https://github.com/ndrwhr/svg-animation-src))
