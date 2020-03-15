@@ -16,3 +16,4 @@
 - [Statistical mechanics of deep learning - Surya Ganguli (2019)](https://www.youtube.com/watch?v=-QF_jX8L0nw)
 - [Some Useful Probability Facts for Systems Programming (2020)](https://theartofmachinery.com/2020/01/27/systems_programming_probability.html)
 - [Graduate Level: Intro to Probability and Statistics](https://significantstatistics.com/index.php/Graduate_Level:_Intro_to_Probability_and_Statistics)
+- [Is it a bad idea to try to predict the stock market with linear regression? (2020)](https://www.reddit.com/r/statistics/comments/fiu6a3/question_is_it_a_bad_idea_to_try_to_predict_the/)

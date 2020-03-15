@@ -18,3 +18,4 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - [Zsh prompt with asynchronous Git status](https://vincent.bernat.ch/en/blog/2019-zsh-async-vcs-info)
 - [ZSH History Database](https://github.com/larkery/zsh-histdb)
 - [Building portable Zsh](https://github.com/xxh/zsh-portable)
+- [Speeding up Zsh](https://blog.jonlu.ca/posts/speeding-up-zsh)
