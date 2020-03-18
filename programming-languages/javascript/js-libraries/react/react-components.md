@@ -73,6 +73,7 @@
 - [Iconify](https://github.com/iconify/iconify-react) - Modern open source SVG alternative to glyph fonts.
 - [Formsy](https://github.com/formsy/formsy-react) - Form input builder and validator for React.
 - [React Frontload](https://github.com/davnicwil/react-frontload) - Async data loading for React components, on client & server.
+- [stop-runaway-react-effects](https://github.com/kentcdodds/stop-runaway-react-effects) - Catches situations when a react use(Layout)Effect runs repeatedly in rapid succession.
 
 ## Links
 

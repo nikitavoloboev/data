@@ -24,3 +24,4 @@
 - [Money creation in the modern economy (2014)](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf?la=en)
 - [Negative Interest Rates Are Going to Ruin Everything (2020)](https://prestonbyrne.com/2020/01/10/nirp-is-going-to-ruin-everything/) ([Tweet](https://twitter.com/paulg/status/1216031124327141378)) ([HN](https://news.ycombinator.com/item?id=22024200))
 - [The Economy online book](https://core-econ.org/the-economy/book/text/0-3-contents.html)
+- [EconDB](https://www.econdb.com/main-indicators/) - Economic overviews of countries.

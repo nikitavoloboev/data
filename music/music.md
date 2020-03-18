@@ -21,3 +21,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Rust Music Theory](https://github.com/ozankasikci/rust-music-theory) - Library and executable that provides programmatic implementation of the basis of the music theory.
 - [Poolside.fm](https://poolside.fm/) ([HN](https://news.ycombinator.com/item?id=22371629))
 - [Radiooooo](http://radiooooo.com/) - Radio throughout history.
+- [Music for Geeks and Nerds book](https://pedrokroger.net/mfgan/)

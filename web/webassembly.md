@@ -62,3 +62,4 @@
 - [Fast, parallel applications with WebAssembly SIMD (2020)](https://v8.dev/features/simd)
 - [Evolving Wasm into a proper misnomer: Andreas Rossberg (2019)](https://www.youtube.com/watch?v=pq-Pa2Fj4nE&t=40s)
 - [Actually Using WASM](https://wiki.alopex.li/ActuallyUsingWasm)
+- [asm-dom](https://github.com/mbasso/asm-dom) - Minimal WebAssembly virtual DOM to build C++ SPA (Single page applications).

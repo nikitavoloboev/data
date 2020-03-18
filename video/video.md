@@ -31,3 +31,5 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Olive](https://github.com/olive-editor/olive) - Free non-linear video editor for Windows, macOS, and Linux.
 - [astiencoder](https://github.com/asticode/go-astiencoder) - Open source video encoder written in Go and based on ffmpeg C bindings.
 - [SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1) - Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder).
+- [Decord](https://github.com/dmlc/decord) - Efficient video loader for deep learning with smart shuffling that's super easy to digest.
+- [How I teach classes remotely (2020)](http://blog.ifost.org.au/2020/03/how-i-teach-classes-remotely.html) ([HN](https://news.ycombinator.com/item?id=22612343))

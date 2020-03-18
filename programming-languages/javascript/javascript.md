@@ -142,3 +142,4 @@
 - [guijs](https://github.com/Akryum/guijs) - App that helps you manage JS projects with a Graphical User Interface.
 - [Rome](https://github.com/facebookexperimental/rome) - Experimental JavaScript toolchain. ([HN](https://news.ycombinator.com/item?id=22430682))
 - [Bolt](https://github.com/boltpkg/bolt) - Super-powered JavaScript project management.
+- [tiny-js](https://github.com/gfwilliams/tiny-js) - Aims to be an extremely simple (~2000 line) JavaScript interpreter.

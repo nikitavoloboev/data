@@ -26,8 +26,11 @@
 - [Mostly ORMless](https://github.com/jawj/mostly-ormless) - Ergonomic Postgres from TypeScript.
 - [Unionize](https://github.com/pelotom/unionize) - Boilerplate-free functional sum types in TypeScript.
 - [zod](https://github.com/vriad/zod) - Typescript-first schema validation with static type inference.
+- [utility-types](https://github.com/piotrwitek/utility-types) - Collection of utility types, complementing TypeScript built-in mapped types and aliases.
+- [fetcher-ts](https://github.com/YBogomolov/fetcher-ts) - Type-safe wrapper around Fetch API.
 
 ## Links
 
 - [TypeScript library starter](https://github.com/alexjoverm/typescript-library-starter#readme) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more.
 - [check-dts](https://github.com/ai/check-dts) - Unit tests for TypeScript definitions in your JS open source library.
+- [LiTScript](https://github.com/johtela/litscript) - Documentation generation tool that draws inspiration from literate programming.

@@ -46,3 +46,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Serverless Microservice Patterns for AWS (2019)](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
 - [AWS SDK for Go v2](https://github.com/aws/aws-sdk-go-v2)
 - [SSM Helpers](https://github.com/disneystreaming/ssm-helpers) - Help manage AWS systems manager with helpers.
+- [The good parts of AWS - A visual summary (2020)](https://hassenchaieb.com/aws-good-parts/) ([HN](https://news.ycombinator.com/item?id=22608106))

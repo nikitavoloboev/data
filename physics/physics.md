@@ -47,3 +47,5 @@
 - [The Church-Turing Thesis and Physics (2019)](https://video.ethz.ch/speakers/bernays/2019/7b11b50e-f813-4d26-95e0-616cc350708c.html)
 - [Einstein Papers Project](https://www.einstein.caltech.edu/) - Provides the first complete picture of Einstein’s massive written legacy.
 - [Intuitive and visual guide to understanding Maxwell's equations](https://github.com/photonlines/Intuitive-Guide-to-Maxwells-Equations/blob/master/PDF/An%20Intuitive%20Guide%20to%20Maxwell%27s%20Equations.pdf)
+- [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources#readme) - Listing of useful learning resources for machine learning applications in high energy physics (HEPML).
+- [Explorable Physics](https://landgreen.github.io/physics/index.html) - Course notes for algebra based physics with explorable explanations. ([Code](https://github.com/landgreen/physics))

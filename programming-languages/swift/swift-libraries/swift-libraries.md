@@ -206,6 +206,12 @@
 - [CommonMarkAttributedString](https://github.com/mattt/CommonMarkAttributedString) - Create NSAttributedStrings from Markdown Text.
 - [SwiftFFmpeg](https://github.com/sunlubo/SwiftFFmpeg) - Swift wrapper for the FFmpeg API.
 - [SICA](https://github.com/cats-oss/Sica) - Simple Interface Core Animation.
+- [SwiftSH](https://github.com/Frugghi/SwiftSH) - Swift SSH framework that wraps libssh2.
+- [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
+
+## Other (not lib)
+
+- [OverlayTest](https://github.com/marcomasser/OverlayTest) - Shows how to create a window that looks like the volume change indication on OS X El Capitan.
 
 ## Links
 

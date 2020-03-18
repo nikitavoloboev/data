@@ -46,3 +46,4 @@ All active variables can be seen by running `env`.
 - [Partial Tour Through the UNIX Shell](http://www.collyer.net/who/geoff/sh.tour.pdf)
 - [ABS](https://github.com/abs-lang/abs) - Programming language that works best when you're scripting on your terminal.
 - [Wez's Terminal](https://github.com/wez/wezterm) - GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust.
+- [Text processing in the shell (2020)](https://blog.balthazar-rouberol.com/text-processing-in-the-shell) ([HN](https://news.ycombinator.com/item?id=22590824))

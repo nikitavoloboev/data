@@ -43,3 +43,4 @@
 - [LMMS](https://github.com/LMMS/lmms) - Cross-platform music production software.
 - [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/index.html) ([HN](https://news.ycombinator.com/item?id=21297462))
 - [Faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis.
+- [How I recorded an album on my own, in my room](https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9) ([HN](https://news.ycombinator.com/item?id=22591972))

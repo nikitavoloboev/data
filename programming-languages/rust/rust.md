@@ -156,3 +156,6 @@
 - [Tarpaulin](https://github.com/xd009642/tarpaulin) - Code coverage tool for Rust projects.
 - [Out of the Box Dynamic Dispatch (2020)](https://llogiq.github.io/2020/03/14/ootb.html)
 - [Optimizations That Aren't, Or Are They? (2020)](https://oribenshir.github.io/afternoon_rusting/blog/copy-on-write)
+- [How I Start: Rust (2020)](https://christine.website/blog/how-i-start-rust-2020-03-15) ([HN](https://news.ycombinator.com/item?id=22591544))
+- [Rust Books](https://github.com/sger/RustBooks#readme)
+- [Lobsters: Yes, I am still learning Rust (2020)](https://lobste.rs/s/hyjxf5/yes_i_am_still_learning_rust)

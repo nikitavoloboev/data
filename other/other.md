@@ -120,3 +120,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Project Lovelace](https://projectlovelace.net/) - Bunch of free scientific programming problems.
 - [Utopian developer's manifesto](https://github.com/cristaloleg/awesome-manifesto#readme)
 - [Webcodesk](https://github.com/webcodesk/webcodesk-srv) - Web Application Builder.
+- [Backstage](https://github.com/spotify/backstage) - Open platform for building developer portals. ([Web](https://backstage.io/))
+- [Ask HN: Best Stripe Alternatives? (2020)](https://news.ycombinator.com/item?id=22596082)

@@ -15,3 +15,4 @@
 - [Heroicons](https://heroicons.dev/) - Set of free MIT-licensed high-quality SVG icons for UI development. ([Code](https://github.com/refactoringui/heroicons))
 - [Glyphfinder](https://www.glyphfinder.com/) - Missing character search for designers, developers and writers.
 - [Shape](https://shape.so/) - 4300+ Customizable, animated icons & illustrations exportable to code.
+- [Free icons for coronavirus awareness](https://www.iconfinder.com/p/coronavirus-awareness-icons)

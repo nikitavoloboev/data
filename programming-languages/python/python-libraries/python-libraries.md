@@ -94,3 +94,5 @@
 - [PandasVault](https://github.com/firmai/pandasvault) - Advanced Pandas Functions and Code Snippets.
 - [returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe.
 - [baikal](https://github.com/alegonz/baikal) - Graph-based functional API for building complex scikit-learn pipelines.
+- [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
+- [STPyV8](https://github.com/area1/stpyv8) - Allows interop between Python 3 and JavaScript running Google's V8 engine.

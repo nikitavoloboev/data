@@ -27,7 +27,6 @@
 - Eat [whole food, plant based nutritious diet](../health/nutrition/nutrition.md).
 - Drink lots of water & tea. Limit coffee. No sugar.
 - Reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
-- Always have straight posture. Sit properly and upright, don't bend my back/spine.
 - Start every morning with quick workout.
 - Brush teeth, [clean face](../health/skin-care.md) & shower daily.
 - [Sleep](../sleep/sleep.md) fully. Don't limit sleep, ever. If need to wake up early, go to sleep early. Sleep ~8 hours each day.
@@ -36,16 +35,16 @@
 
 ## Focus
 
-- When [focusing](../focusing/focusing.md), do the active task. No news/distractions (sites are blocked). No context switching.
 - [Break problems down](../research/solving-problems.md). Solve each step one at a time. Know the end goal.
+- When [focusing](../focusing/focusing.md), do the active task. No news/distractions. No context switching.
 - Spend mindful time on all devices. On iOS, listen to podcasts/books, read/chat. Minimize things that can be done faster on mac.
 - Do bodyweight exercises during the day to regain focus. Change environments for inspiration.
-- Listen to space/fan sound (with [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app)) or [Focus song](https://open.spotify.com/track/7Lr8COjL4FEcRKGKkU1be2?si=t8DTGhuFQceSxbrc9K-jrw) when focusing with environment noise blocked. No distracting music. Unless it's quiet already.
+- Listen to white noise (with [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app)) or [Focus song](https://open.spotify.com/track/7Lr8COjL4FEcRKGKkU1be2?si=t8DTGhuFQceSxbrc9K-jrw) when focusing with environment noise blocked. No distracting music. Unless it's quiet already.
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.
 - Always breathe fresh air. Have proper lighting.
-- Wear the same clean & comfortable clothes.
+- Wear clean & comfortable clothes.
 - Never sit for long. Sit up right. Be comfortable & ergonomic. Use standing desk & vary between sitting & standing.
 - Only use the bed for sleep. Start each day quickly by waking up & standing up.
 - Don't overthink things. Clear up any confusions. Don't be stuck. Ask for help.

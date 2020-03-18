@@ -12,3 +12,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [Neauismea](https://neauoire.github.io/neauismea/) - Daily photographs from the inhabited ages of Dinaisth.
 - [EarthDraw](https://earthdraw.org/) - Great way to buy art & help the planet.
 - [Behind the Scenes on an Egghead Illustration (2020)](https://community.egghead.io/t/behind-the-scenes-on-an-egghead-illustration/1830)
+- [Drawing a rainy night view with an oil pastel](https://www.youtube.com/watch?v=6qCp2smmxs8)

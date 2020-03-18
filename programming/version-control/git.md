@@ -90,7 +90,6 @@ I love Git and version control. And I use version control over any project I do.
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
 - [Set up Keybase.io, GPG & Git to sign commits on GitHub](https://github.com/pstadler/keybase-gpg-github#readme)
 - [Bliss](https://github.com/ajmwagar/bliss) - "batteries included" .gitignore management tool.
-- [go-git](https://github.com/src-d/go-git) - Highly extensible Git implementation in pure Go.
 - [Vaibhav Sagar - I Haskell a Git (2018)](https://www.youtube.com/watch?v=nVvvY5VRs8o)
 - [Nx](https://github.com/nrwl/nx/) - Extensible Dev Tools for Monorepos.
 - [Git Command Explorer](https://gitexplorer.com/) - Find the right commands you need without digging through the web. ([Code](https://github.com/summitech/gitexplorer))
@@ -100,3 +99,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Belay](https://github.com/JoshMcguigan/belay) - Makes it easy to run your CI checks locally, so you can git push with confidence.
 - [Little Things I Like to Do with Git (2017)](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 - [gsync](https://github.com/ScaleComputing/gsync) - rsync-like command to sync a git repo to a remote machine via git itself.
+- [go-git](https://github.com/go-git/go-git) - Highly extensible Git implementation in pure Go.

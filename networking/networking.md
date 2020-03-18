@@ -77,3 +77,6 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [sylkie](https://github.com/dlrobertson/sylkie) - IPv6 address spoofing with the Neighbor Discovery Protocol.
 - [Illustrated TLS Connection](https://tls.ulfheim.net/) - Every byte of a TLS connection explained and reproduced. ([Code](https://github.com/syncsynchalt/illustrated-tls))
 - [FRITZBox](https://en.avm.de/products/fritzbox/) - Intelligent Wi-Fi for maximum wireless speed and significantly greater range.
+- [Home network recommendations? (2020)](https://lobste.rs/s/bxvg76/home_network_recommendations)
+- [netscanner](https://github.com/R4yGM/netscanner) - TCP/UDP scanner to find open or closed ports.
+- [nmap](https://github.com/nmap/nmap) - Network Mapper.

@@ -34,3 +34,4 @@
 - [Work in the Time of Corona (2020)](https://blog.alicegoldfuss.com/work-in-the-time-of-corona/)
 - [Guide to Managing Remote Teams](https://knowyourteam.com/m/managing_remote_teams)
 - [NoOffice](https://nooffice.org/) - Definitive guide to working remotely. ([Code](https://github.com/Nozbe/NoOffice.org))
+- [Remote work starter guide for employees: how to adjust to work-from-home](https://about.gitlab.com/company/culture/all-remote/remote-work-starter-guide/)

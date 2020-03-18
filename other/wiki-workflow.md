@@ -118,3 +118,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Ask HN: How to Take Good Notes? (2020)](https://news.ycombinator.com/item?id=22473209)
 - [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing (2020)](https://fortelabs.co/blog/how-to-take-smart-notes/) ([HN](https://news.ycombinator.com/item?id=22341518))
 - [Hackpad](https://github.com/dropbox/hackpad) - Web-based realtime wiki, based on the open source EtherPad collaborative document editor.
+- [Human Programming Interface (2020)](https://lobste.rs/s/vzkb7a/human_programming_interface_python) - My life in a Python package.

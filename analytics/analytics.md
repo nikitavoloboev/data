@@ -1,6 +1,6 @@
 # Analytics
 
-I find analytics that is not actionable in any way a waste of time. For example, checking the Insights Traffic pane on GitHub on your own repos to see how many people viewed your repo or cloned it. Or seeing how many people visited your own personal site with Google analytics. It serves 0 purpose and is only addicting due to its ego boosting nature. I block these pages with [Focus app](https://heyfocus.com) or not use analytics all together on sites that don't need it.
+I find analytics that is not actionable in any way a waste of time. For example, checking the Insights Traffic pane on GitHub on your own repos to see how many people viewed your repo or cloned it. Or seeing how many people visited your own personal site with Google analytics. It serves 0 purpose and is only addicting due to its ego boosting nature.
 
 For user facing products, well implemented analytics will let you see how to optimize your system to serve some end goals better and for that you need data.
 

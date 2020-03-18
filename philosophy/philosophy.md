@@ -22,3 +22,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Existential comics](http://existentialcomics.com/)
 - [Who are some other philosophers/speakers I should look into if I admire Alan Watts? (2020)](https://www.reddit.com/r/AlanWatts/comments/ei9np5/who_are_some_other_philosophersspeakers_i_should/)
 - [Programming metaphors for theological concepts (2020)](https://shaungallagher.pressbin.com/blog/metaphors.html) ([Lobsters](https://lobste.rs/s/gnbsxe/programming_metaphors_for_theological))
+- [Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/) ([HN](https://news.ycombinator.com/item?id=22607568))

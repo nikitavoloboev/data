@@ -1,5 +1,9 @@
 # [Figma](https://www.figma.com)
 
+## Notes
+
+- [When resizing frames, hold Command ⌘ to ignore constraint settings for all objects inside that frame](https://twitter.com/rogie/status/1239560547659468800)
+
 ## Links
 
 - [Figma.js](https://github.com/jongold/figma-js) - Simple wrapper for the Figma API.

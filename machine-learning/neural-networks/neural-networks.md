@@ -91,3 +91,4 @@
 - [Zoom In: An Introduction to Circuits (2020)](https://distill.pub/2020/circuits/zoom-in/)
 - [Lagrangian Neural Networks (2020)](https://greydanus.github.io/2020/03/10/lagrangian-nns/) ([HN](https://news.ycombinator.com/item?id=22552790))
 - [Neural Tangents](https://github.com/google/neural-tangents) - Fast and Easy Infinite Neural Networks in Python.
+- [A Survey of Long-Term Context in Transformers (2020)](https://www.pragmatic.ml/a-survey-of-methods-for-incorporating-long-term-context/)

@@ -16,3 +16,4 @@
 - [RISC-V Debug Specification](https://github.com/riscv/riscv-debug-spec)
 - [Krste Asanović Videos](https://people.eecs.berkeley.edu/~krste/videos.html)
 - [Krste Asanović Publications](https://people.eecs.berkeley.edu/~krste/publications.html)
+- [riscv-rust](https://github.com/takahirox/riscv-rust) - RISC-V processor emulator written in Rust.

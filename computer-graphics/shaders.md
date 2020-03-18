@@ -9,3 +9,4 @@
 - [Playing around with shaders (2019)](https://bou.ke/blog/shaders/)
 - [Open Shading Language](https://github.com/imageworks/OpenShadingLanguage) - Advanced shading language for production GI renderers.
 - [SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured desktop tool for creating and testing HLSL and GLSL shaders.
+- [Getting started with shaders: signed distance functions (2020)](https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/)

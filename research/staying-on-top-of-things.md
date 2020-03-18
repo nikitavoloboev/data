@@ -4,8 +4,6 @@ There is so much out there in the world. It's often hard to stay on top of thing
 
 Of course, it is all in my head and [mindfulness](../mindfulness/mindfulness.md) is the answer. But I still want to do my best and try and understand as many things as I can because knowing a broad range of things helps me connect the dots and pieces together faster.
 
-I use [Focus](https://heyfocus.com) macOS app to completely block many websites with constantly updated feeds like front page of Hacker News, GitHub, Reddit and more. I automatically run Focus every 90 minutes for 80 minutes and work throughout this period fully focused. After that time, I review what I have done in [Timing](../macOS/apps/timing.md) and I have 10 minutes to check the news and view usually blocked websites and after that, the timer starts again.
-
 I use [Pocket](https://app.getpocket.com) to send links I can't read right now from my phone/mac. It's an inbox of links I want to read through. High priority links/notes are sent as messages to myself on Telegram.
 
 ## What I use
@@ -84,6 +82,7 @@ And these Discord servers:
 
 - [Awesome websites](https://github.com/learn-anything/websites#readme)
 - [Hackaday](https://hackaday.com/)
+- [MOOCReport by Class Central](https://www.classcentral.com/report/) - Latest news and trends in online education.
 
 ## Notes
 
