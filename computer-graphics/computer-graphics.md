@@ -42,3 +42,4 @@
 - [Seamless, static, 3D mesh multi-texturer](https://github.com/rafapages/SSMVtex)
 - [Aliasing in computer graphics (2020)](https://apoorvaj.io/aliasing-in-computer-graphics/)
 - [3D Reaction-Diffusion](https://observablehq.com/@rreusser/3d-reaction-diffusion)
+- [NeRF: Neural Radiance Fields](https://github.com/bmild/nerf) - Tensorflow implementation of optimizing a neural representation for a single scene and rendering new views.

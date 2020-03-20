@@ -123,6 +123,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Old Book Illustrations: An Online Database Lets You Download Thousands of Illustrations from the 19th & 20th Centuries](http://www.openculture.com/2020/02/old-book-illustrations-download.html) ([HN](https://news.ycombinator.com/item?id=22315694))
 - [Free Illustrations of the Natural World](https://www.smithsonianmag.com/smart-news/over-150000-illustrations-wildlife-are-available-online-free-180974167/) ([HN](https://news.ycombinator.com/item?id=22295160))
 - [How Soviet Science Magazines Fantasized About Life in Outer Space](https://www.atlasobscura.com/articles/soviet-space-graphics) ([HN](https://news.ycombinator.com/item?id=22607279))
+- [Potato Dog and Cardboard Cat Comics](http://www.potatodogcomics.com/)
 
 ## Photography
 

@@ -7,6 +7,7 @@
 - [Variable Inspector extension for JupyterLab](https://github.com/lckr/jupyterlab-variableInspector)
 - [Jupyter Sphinx](https://github.com/jupyter/jupyter-sphinx) - Sphinx extension for rendering of Jupyter interactive widgets.
 - [Dask JupyterLab Extension](https://github.com/dask/dask-labextension) - Provides a JupyterLab extension to manage Dask clusters, as well as embed Dask's dashboard plots directly into JupyterLab panes.
+- [JupyterLab debugger UI extension](https://github.com/jupyterlab/debugger)
 
 ## Links
 
