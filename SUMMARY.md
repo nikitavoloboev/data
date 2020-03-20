@@ -412,6 +412,7 @@
   - [SEO](web/seo.md)
   - [Electron](web/electron.md)
   - [Webpack](web/webpack.md)
+  - [Rollup](web/rollup.md)
   - [WebRTC](web/webrtc.md)
   - [Search engines](web/search-engines.md)
   - [Web engines](web/web-engines/web-engines.md)

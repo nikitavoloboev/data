@@ -35,3 +35,5 @@
 - [Guide to Managing Remote Teams](https://knowyourteam.com/m/managing_remote_teams)
 - [NoOffice](https://nooffice.org/) - Definitive guide to working remotely. ([Code](https://github.com/Nozbe/NoOffice.org))
 - [Remote work starter guide for employees: how to adjust to work-from-home](https://about.gitlab.com/company/culture/all-remote/remote-work-starter-guide/)
+- [Holloway Guide to Remote Work](https://www.holloway.com/g/remote-work/about) - Comprehensive Guide to building, managing, and adapting to working with distributed teams.
+- [Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)

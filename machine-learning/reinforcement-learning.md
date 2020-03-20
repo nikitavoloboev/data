@@ -48,3 +48,5 @@
 - [DeepRLHacks](https://github.com/williamFalcon/DeepRLHacks#readme) - Hacks for training RL systems from John Schulman's lecture at Deep RL Bootcamp.
 - [Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford University, MIT, UC Berkeley](https://github.com/Machine-Learning-Tokyo/AI_Curriculum#readme)
 - [PyTorch implementation of soft actor critic](https://github.com/pranz24/pytorch-soft-actor-critic)
+- [Tutorial on Deep Reinforcement Learning in PyTorch](https://github.com/RobertTLange/deep-rl-tutorial)
+- [prob_mbrl](https://github.com/mcgillmrl/prob_mbrl) - Library of probabilistic model based RL algorithms in pytorch.

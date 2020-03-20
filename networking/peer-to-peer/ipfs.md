@@ -21,3 +21,4 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS Project Roadmap](https://github.com/ipfs/roadmap#readme)
 - [WebFS](https://github.com/brendoncarroll/webfs) - File system Built On Top of the Web.
 - [Awesome IPFS](https://awesome.ipfs.io/) - Useful resources for using IPFS and building things on top of it. ([Code](https://github.com/ipfs/awesome-ipfs))
+- [Rust IPFS](https://github.com/ipfs-rust/rust-ipfs) - Interplanetary File System (IPFS), implemented in Rust.

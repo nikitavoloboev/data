@@ -21,6 +21,7 @@
 - [Radix](https://radix.modulz.app/docs/getting-started/) - Design System and Component Library for Modulz. ([Code](https://github.com/modulz/radix))
 - [Tailwind UI](https://tailwindui.com/) - Beautiful UI components, crafted by the creators of Tailwind CSS. ([HN](https://news.ycombinator.com/item?id=22422873)) ([HN 2](https://news.ycombinator.com/item?id=22463769))
 - [Carbon](https://github.com/carbon-design-system/carbon) - Design system built by IBM.
+- [React Zeit Design](https://github.com/zeit-ui/react)
 
 ## Links
 
@@ -47,3 +48,4 @@
 - [OpenChakra](https://openchakra.app/) - Visual editor for Chakra UI. ([Code](https://github.com/premieroctet/openchakra)) ([HN](https://news.ycombinator.com/item?id=22307270))
 - [Chromatic](https://github.com/ui-js/chromatic) - Tool to help manage design systems by generating platform-specific files from a source file describing design tokens.
 - [Prism](https://github.com/GettEngineering/Prism) - Gett's Design System code generator. Use Zeplin Styleguides as your R&D's Single Source of Truth.
+- [System UI Theme Specification](https://github.com/system-ui/theme-specification)

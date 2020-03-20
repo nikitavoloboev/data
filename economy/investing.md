@@ -30,3 +30,4 @@
 - [Investment Memo: Earnest Fund 2 (2020)](https://earnestcapital.com/investment-memo-fund-2/)
 - [What’s up with China buying US debt? (2020)](https://www.reddit.com/r/OutOfTheLoop/comments/fj1avn/whats_up_with_china_buying_us_debt/)
 - [Advice on doing Real Estate investing](https://www.reddit.com/r/financialindependence/comments/fj33fa/the_best_financial_decision_i_ever_made/fkkqiw3?utm_source=share&utm_medium=web2x)
+- [Ask HN: How should I invest \$200K in this market? (2020)](https://news.ycombinator.com/item?id=22623807)

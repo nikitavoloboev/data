@@ -26,3 +26,4 @@
 - [pwn.college](https://pwn.college/) - Learn & practice, core cybersecurity concepts in a hands-on fashion. ([HN](https://news.ycombinator.com/item?id=22401797))
 - [Renovate](https://github.com/GaloisInc/renovate) - Library for binary analysis and rewriting in Haskell.
 - [TEE Reversing](https://github.com/enovella/TEE-reversing#readme) - Curated list of public TEE resources for learning how to reverse-engineer and achieve trusted code execution on ARM devices.
+- [Reverse Engineering Stickies.app](https://lowlevelbits.org/reverse-engineering-stickies.app/)

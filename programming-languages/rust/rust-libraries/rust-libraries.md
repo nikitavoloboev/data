@@ -267,6 +267,7 @@
 - [Flume](https://github.com/zesterer/flume) - Blazingly fast multi-producer, single-consumer channel.
 - [Builder Pattern Derive](https://github.com/colin-kiegel/rust-derive-builder) - Rust macro to automatically implement the builder pattern for arbitrary structs.
 - [juniper-from-schema](https://github.com/davidpdrsn/juniper-from-schema) - Schema first GraphQL in Rust with Juniper.
+- [stringsext](https://github.com/getreu/stringsext) - Find multi-byte-encoded strings in binary data.
 
 ## Cargo Plugins
 

@@ -43,3 +43,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [FontGoggles](http://fontgoggles.org/) - Font viewer for various font formats. It is a desktop application for macOS. ([Code](https://github.com/justvanrossum/fontgoggles))
 - [I Pressed ⌘B. You Wouldn't Believe What Happened Next - Marcin Wichary (2020)](https://www.youtube.com/watch?v=kVD-sjtFoEI)
 - [Variable Fonts Primer](https://variablefonts.io/)
+- [sfsymbols](https://github.com/davedelong/sfsymbols) - Export the shapes in the SF Symbols font.

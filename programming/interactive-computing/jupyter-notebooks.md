@@ -43,3 +43,5 @@
 - [Real Time Collaboration for Jupyter and beyond](https://github.com/jupyterlab/rtc)
 - [fastpages](https://github.com/fastai/fastpages) - Easy to use blogging platform, with support for Jupyter notebooks, Word docs, and Markdown.
 - [Language Server Protocol integration for JupyterLab](https://github.com/krassowski/jupyterlab-lsp)
+- [Carnets](https://github.com/holzschu/Carnets) - Stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network.
+- [Jupyterlab Extensions by Examples](https://github.com/jupyterlab/extension-examples)

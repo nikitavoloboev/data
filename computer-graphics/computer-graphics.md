@@ -41,3 +41,4 @@
 - [light2d](https://github.com/miloyip/light2d) - Light rendering in 2D.
 - [Seamless, static, 3D mesh multi-texturer](https://github.com/rafapages/SSMVtex)
 - [Aliasing in computer graphics (2020)](https://apoorvaj.io/aliasing-in-computer-graphics/)
+- [3D Reaction-Diffusion](https://observablehq.com/@rreusser/3d-reaction-diffusion)

@@ -25,6 +25,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - Open source Virtual Machine Monitor (VMM) that runs on top of KVM.
 - [RancherOS](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers.
 - [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket) - Free and open-source Linux-based operating system meant for hosting containers.
+- [XNU kernel](https://github.com/apple/darwin-xnu) - Part of the Darwin operating system for use in macOS and iOS operating systems.
 
 ## Links
 

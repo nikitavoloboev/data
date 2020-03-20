@@ -14,6 +14,7 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 ## Tools
 
 - [Streamable](https://streamable.com/) - Video publishing made easy.
+- [Around](https://www.around.co/) - Quick, high-impact video calls for a new era of work.
 
 ## Links
 
@@ -33,3 +34,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1) - Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder).
 - [Decord](https://github.com/dmlc/decord) - Efficient video loader for deep learning with smart shuffling that's super easy to digest.
 - [How I teach classes remotely (2020)](http://blog.ifost.org.au/2020/03/how-i-teach-classes-remotely.html) ([HN](https://news.ycombinator.com/item?id=22612343))
+- [NymphCast](https://github.com/MayaPosch/NymphCast) - Audio and video casting system with support for custom applications.

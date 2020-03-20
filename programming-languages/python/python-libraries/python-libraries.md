@@ -96,3 +96,4 @@
 - [baikal](https://github.com/alegonz/baikal) - Graph-based functional API for building complex scikit-learn pipelines.
 - [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
 - [STPyV8](https://github.com/area1/stpyv8) - Allows interop between Python 3 and JavaScript running Google's V8 engine.
+- [LibCST](https://github.com/Instagram/LibCST) - Concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree.

@@ -67,3 +67,6 @@
 - [Postgres source code](https://github.com/postgres/postgres)
 - [Postgres Explain Visualizer (pev)](https://dalibo.github.io/pev2/#/) - VueJS component to show a graphical vizualization of a PostgreSQL execution plan. ([Code](https://github.com/dalibo/pev2)) ([HN](https://news.ycombinator.com/item?id=22472175))
 - [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres#readme)
+- [PostgreSQL Automatic Failover](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
+- [pgagroal](https://github.com/agroal/pgagroal) - High-performance protocol-native connection pool for PostgreSQL.
+- [Distinct On: The Confusing, Unique and Useful Feature in Postgres (2020)](https://www.yogeshchauhan.com/167/postgres/the-confusing-unique-and-useful-feature-in-postgres-distinct-on) ([HN](https://news.ycombinator.com/item?id=22625642))

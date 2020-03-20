@@ -11,3 +11,5 @@
 - [twin](https://github.com/ben-rogerson/twin.macro) - Use Tailwind classes within any CSS-in-JS library.
 - [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - React-native style system based on TailwindCSS.
 - [tailwind-rn](https://github.com/vadimdemedes/tailwind-rn) - Use Tailwind CSS in React Native projects.
+- [Headwind](https://github.com/heybourn/headwind) - Opinionated Tailwind CSS class sorter for Visual Studio Code.
+- [](https://tailwind-colors.meidev.co) - Tailwind CSS color configration tool. ([Code](https://github.com/ameistad/tailwind-colors))

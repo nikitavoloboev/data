@@ -65,3 +65,4 @@
 - [redash](https://github.com/wcandillon/react-native-redash) - Utility library for React Native Gesture Handler and Reanimated.
 - [What I've learned creating a React Native performance monitor (2020)](https://bullet-train.io/blog/react-native-performance-monitor)
 - [Hacks for creating production level apps with React Native (2018)](https://medium.com/free-code-camp/here-are-my-favorite-hacks-for-creating-production-level-apps-with-react-native-6f0369d879b2)
+- [React Native Fit Image](https://github.com/huiseoul/react-native-fit-image) - Responsive image component to fit perfectly itself.

@@ -40,6 +40,8 @@
 - [use-cannon](https://github.com/react-spring/use-cannon) - Physics based hooks for react-three-fiber.
 - [react-hooks-global-state](https://github.com/dai-shi/react-hooks-global-state) - Simple global state for React with Hooks API.
 - [use-local-storage](https://github.com/astoilkov/use-local-storage-state) - Like useState() but for local storage.
+- [useWorker](https://github.com/alewin/useWorker) - Running heavy task in background, without blocking the UI.
+- [use-persisted-state](https://github.com/donavon/use-persisted-state) - Custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state.
 
 ## Notes
 

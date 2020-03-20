@@ -2,6 +2,7 @@
 
 ## Other
 
+- [Create Release](https://github.com/actions/create-release) - Action to create releases via the GitHub Release API.
 - [Release Drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [Merge Conflict Finder](https://github.com/marketplace/actions/merge-conflict-finder) - Finds any merge conflicts in your repository.
 - [Upload to Release](https://github.com/JasonEtco/upload-to-release) - GitHub Action that uploads a file to a new release.
@@ -17,6 +18,8 @@
 - [actions-netlify](https://github.com/nwtgck/actions-netlify) - GitHub Actions for deploying Netlify.
 - [deploy-mdbook](https://github.com/XAMPPRocky/deploy-mdbook) - GitHub Action to automatically build and deploy your mdbook project.
 - [actions-comment-run](https://github.com/nwtgck/actions-comment-run) - Execute comment from issues and pull requests.
+- [GitHub Pages Deploy Action](https://github.com/JamesIves/github-pages-deploy-action)
+- [GitHub Action for the OCaml programming language](https://github.com/avsm/setup-ocaml)
 
 ## Rust
 

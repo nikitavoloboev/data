@@ -2,12 +2,18 @@
 
 ## Chairs
 
-- [Aeron](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/aeron-chairs/)
+- [Herman Miller Aeron](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/aeron-chairs/)
+- [Herman Miller Sayl](https://www.hermanmiller.com/en_eur/products/seating/office-chairs/sayl-chairs/)
 
 ## Standing desks
 
 - [Jarvis](https://www.fully.eu/products/jarvis-adjustable-standing-desk-bamboo)
 - [Autonomous](https://www.autonomous.ai/) - Great standing desks & chairs.
+
+## Setups
+
+- [1](https://twitter.com/kieranmch/status/1240407709658361859)
+- [2](https://twitter.com/MengTo/status/1240743981325189121)
 
 ## Links
 

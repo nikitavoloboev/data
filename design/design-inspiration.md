@@ -43,6 +43,7 @@ Here are few more things I liked, design wise.
 - [Gyana](https://www.gyana.co.uk/)
 - [Mouseless](https://mouseless.app/)
 - [NapBot](https://napbotapp.com/)
+- [Nolt](https://nolt.io/) - Lovely footer.
 
 ## Personal pages
 

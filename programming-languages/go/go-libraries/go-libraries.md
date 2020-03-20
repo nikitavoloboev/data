@@ -359,6 +359,9 @@
 - [netboot](https://github.com/danderson/netboot) - Packages and utilities for network booting.
 - [image](https://github.com/containers/image) - Set of Go libraries aimed at working in various way with containers' images and container image registries.
 - [GoAdmin](https://github.com/GoAdminGroup/go-admin) - Golang framework helps gopher to build a data visualization and admin panel in ten minutes. ([Web](https://www.go-admin.com/))
+- [go-app-paths](https://github.com/muesli/go-app-paths) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs).
+- [ntp](https://github.com/beevik/ntp) - Simple ntp client package for go.
+- [Gorgonia](https://github.com/gorgonia/gorgonia) - Library that helps facilitate machine learning in Go.
 
 ## Links
 

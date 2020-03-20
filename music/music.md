@@ -22,3 +22,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Poolside.fm](https://poolside.fm/) ([HN](https://news.ycombinator.com/item?id=22371629))
 - [Radiooooo](http://radiooooo.com/) - Radio throughout history.
 - [Music for Geeks and Nerds book](https://pedrokroger.net/mfgan/)
+- [Koir](https://koir.tv/) - Place where musicians and fans can connect through livestreamed performances.

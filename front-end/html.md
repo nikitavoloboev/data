@@ -26,3 +26,5 @@
 - [Native HTML Elements with CSS superpowers](https://github.com/equinusocio/native-elements)
 - [A Complete Guide to Links and Buttons (2020)](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
 - [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line.
+- [How to Build HTML Forms Right: Semantics (2020)](https://stegosource.com/how-to-build-html-forms-right-semantics/)
+- [sal](https://github.com/mciastek/sal) - Performance focused, lightweight scroll animation library.

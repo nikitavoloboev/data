@@ -213,3 +213,4 @@ Go promotes composition over inheritance.
 - [I want off Mr. Golang's Wild Ride (2020)](https://news.ycombinator.com/item?id=22443363) ([HN](https://news.ycombinator.com/item?id=22443363))
 - [Early Impressions of Go from a Rust Programmer (2020)](https://pingcap.com/blog/early-impressions-of-go-from-a-rust-programmer/)
 - [Install go tools from modules with brew-gomod (2020)](https://blog.filippo.io/install-go-tools-from-modules-with-brew-gomod/)
+- [Illustrated Tales of Go Runtime Scheduler (2020)](https://medium.com/@ankur_anand/illustrated-tales-of-go-runtime-scheduler-74809ef6d19b)

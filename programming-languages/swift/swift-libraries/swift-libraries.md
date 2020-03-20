@@ -39,6 +39,8 @@
 - [Router](https://github.com/freshOS/Router) - Simple Navigation for iOS.
 - [NotificationBanner](https://github.com/Daltron/NotificationBanner) - Easiest way to display highly customizable in app notification banners in iOS.
 - [TweenKit](https://github.com/SteveBarnegren/TweenKit) - Animation library for iOS in Swift.
+- [Mandoline](https://github.com/blueapron/Mandoline) - iOS picker view to serve all your "picking" needs.
+- [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
 
 ## Web
 
@@ -208,6 +210,7 @@
 - [SICA](https://github.com/cats-oss/Sica) - Simple Interface Core Animation.
 - [SwiftSH](https://github.com/Frugghi/SwiftSH) - Swift SSH framework that wraps libssh2.
 - [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
+- [UILabel+Copyable](https://github.com/alexandreos/UILabel-Copyable) - Simple UILabel category meant to add copy functionality to it.
 
 ## Other (not lib)
 

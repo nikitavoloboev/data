@@ -76,3 +76,4 @@
 - [Human's Ultimate Guide to setup.py](https://github.com/navdeep-G/setup.py)
 - [Python Guide by NSA](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf)
 - [Python Packaging User Guide](https://packaging.python.org/)
+- [Math Symbols Explained with Python](https://amitness.com/2019/08/math-for-programmers/) ([HN](https://news.ycombinator.com/item?id=22637402))

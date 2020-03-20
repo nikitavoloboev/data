@@ -26,3 +26,4 @@
 - [A Farewell to FRP. Making signals unnecessary with The Elm Architecture (2016)](https://elm-lang.org/news/farewell-to-frp)
 - [Elm Companies](https://github.com/jah2488/elm-companies#readme) - List of companies using Elm in production. ([HN](https://news.ycombinator.com/item?id=22244086))
 - [Elm Live](https://www.elm-live.com/) - Flexible dev server for Elm. Live reload included. ([Code](https://github.com/wking-io/elm-live))
+- [Elm News](https://elm-news.com/) - All elm news in one place. ([Code](https://github.com/oakesja/elm-news))

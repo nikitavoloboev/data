@@ -13,6 +13,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [AltStore](https://github.com/rileytestut/AltStore) - Alternative app store for non-jailbroken iOS devices.
 - [mChat](https://github.com/realpaliy/mChat) - Real-time messaging app written in Swift for iOS devices.
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker) - Coronavirus tracker app for iOS & macOS with map & charts.
+- [ProtonMail](https://github.com/ProtonMail/ios-mail)
 
 ## Notes
 

@@ -23,3 +23,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/dotfiles/blob/master/ni
 - [The Language Agnostic, All-Purpose, Incredible, Makefile (2019)](https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html) ([Lobsters](https://lobste.rs/s/ots6gm/language_agnostic_all_purpose)) ([HN](https://news.ycombinator.com/item?id=21566530))
 - [CLI: improved (2018)](https://remysharp.com/2018/08/23/cli-improved)
 - [Awesome CLI apps](https://github.com/agarrharr/awesome-cli-apps#readme)
+- [Fast Searching with ripgrep (2020)](https://mariusschulz.com/blog/fast-searching-with-ripgrep)

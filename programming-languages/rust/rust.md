@@ -159,3 +159,4 @@
 - [How I Start: Rust (2020)](https://christine.website/blog/how-i-start-rust-2020-03-15) ([HN](https://news.ycombinator.com/item?id=22591544))
 - [Rust Books](https://github.com/sger/RustBooks#readme)
 - [Lobsters: Yes, I am still learning Rust (2020)](https://lobste.rs/s/hyjxf5/yes_i_am_still_learning_rust)
+- [Guide on how to write documentation for a Rust crate (2020)](https://blog.guillaume-gomez.fr/articles/2020-03-12+Guide+on+how+to+write+documentation+for+a+Rust+crate) ([HN](https://news.ycombinator.com/item?id=22636282))

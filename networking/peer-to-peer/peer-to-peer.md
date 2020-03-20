@@ -27,3 +27,5 @@
 - [Radicle](https://radicle.xyz/) - Secure peer-to-peer code collaboration without intermediaries.
 - [Monadic](https://monadic.xyz/) - Group of technologists who in 2017, set out to re-imagine free and open source software collaboration.
 - [Hypermerge](https://github.com/automerge/hypermerge) - Node.js library for building p2p collaborative applications without any server infrastructure.
+- [Equilibrium](https://equilibrium.co/) - Build core infrastructure for the new distributed web.
+- [Flok](https://munshkr.github.io/flok/) - Web-based P2P collaborative editor for live coding music and graphics. ([Code](https://github.com/munshkr/flok))

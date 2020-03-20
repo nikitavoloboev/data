@@ -25,3 +25,4 @@ Here are some things I am trying to improve with my health right now.
 - [Roman](https://www.getroman.com/) - Digital health clinic for men.
 - [CarbonHealth](https://carbonhealth.com/) - Modern clinics. Smart, hassle-free care.
 - [Stress in Biomedical Research: Six Impossible Things (2010)](https://www.sciencedirect.com/science/article/pii/S1097276510007835)
+- [HN: How are you managing stress? (2020)](https://news.ycombinator.com/item?id=22616143)

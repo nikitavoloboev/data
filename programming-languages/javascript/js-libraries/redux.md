@@ -64,3 +64,5 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Entire Redux in Web Worker](https://github.com/dai-shi/redux-in-worker)
 - [Event Driven Redux](https://github.com/dmmulroy/talks/blob/master/event-driven-redux/slides.pdf)
 - [redux-act](https://github.com/pauldijou/redux-act) - Opinionated lib to create actions and reducers for Redux. The main goal is to use actions themselves as references inside the reducers rather than string constants.
+- [Redux-First Router](https://github.com/faceyspacey/redux-first-router) - Think of your app in terms of states, not routes or components. Connect your components and just dispatch Flux Standard Actions.
+- [Redux Devtools: tips & tricks for faster debugging (2020)](https://blog.logrocket.com/redux-devtools-tips-tricks-for-faster-debugging/)

@@ -16,3 +16,4 @@
 - [Glyphfinder](https://www.glyphfinder.com/) - Missing character search for designers, developers and writers.
 - [Shape](https://shape.so/) - 4300+ Customizable, animated icons & illustrations exportable to code.
 - [Free icons for coronavirus awareness](https://www.iconfinder.com/p/coronavirus-awareness-icons)
+- [Tabler Icons](https://github.com/tabler/tabler-icons) - Set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.

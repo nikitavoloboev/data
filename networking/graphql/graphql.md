@@ -70,3 +70,4 @@
 - [Intro to Postgres + GraphQL with PostGraphile (2020)](https://blog.logrocket.com/intro-to-postgres-graphql-with-postgraphile/)
 - [GraphQL Playground](https://github.com/prisma-labs/graphql-playground) - GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration).
 - [GraphQL-tools](https://github.com/apollographql/graphql-tools) - Generate and mock GraphQL.js schemas.
+- [Fetch your GraphQL data automagically: Building a movie app with Hasura & gqless (2020)](https://hasura.io/blog/gqless-fetch-your-graphql-data-automagically/) ([Code](https://github.com/hasura/gqless-movies-demo))

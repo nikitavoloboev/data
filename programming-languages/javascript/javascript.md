@@ -87,7 +87,7 @@
 - [JavaScript for impatient programmers book](https://exploringjs.com/impatient-js/toc.html)
 - [Exploring ES2018 and ES2019](https://exploringjs.com/es2018-es2019/toc.html)
 - [TC39 Meeting Notes](https://tc39.es/tc39-notes/)
-- [Mesh Spreadsheet](https://github.com/chrispsn/mesh/) - Visualise data and edit JavaScript code using a spreadsheet interface.
+- [Mesh Spreadsheet](https://github.com/chrispsn/mesh/) - Visualise data and edit JavaScript code using a spreadsheet interface. ([Web](http://mesh-spreadsheet.com/))
 - [Immutable JavaScript Data Structures with Immer (2019)](https://egghead.io/courses/immutable-javascript-data-structures-with-immer)
 - [Immutability is Changing - From Immutable.js to Immer (2019)](https://www.youtube.com/watch?v=bFuRvcAEiHg)
 - [Tenko](https://github.com/pvdz/tenko) - 100% spec compliant ES2020 JavaScript parser written in JS.
@@ -143,3 +143,4 @@
 - [Rome](https://github.com/facebookexperimental/rome) - Experimental JavaScript toolchain. ([HN](https://news.ycombinator.com/item?id=22430682))
 - [Bolt](https://github.com/boltpkg/bolt) - Super-powered JavaScript project management.
 - [tiny-js](https://github.com/gfwilliams/tiny-js) - Aims to be an extremely simple (~2000 line) JavaScript interpreter.
+- [JavaScript and TypeScript tooling overview](https://github.com/slikts/tooling)

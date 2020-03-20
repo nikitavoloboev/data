@@ -33,3 +33,4 @@
 - [Explorabl.es](https://explorabl.es/) - Hub for learning through play. ([HN](https://news.ycombinator.com/item?id=22368323))
 - [Interactive Data Visualization course (2020)](http://vis.csail.mit.edu/classes/6.894/)
 - [Vega-Embed](https://github.com/vega/vega-embed) - Makes it easy to embed interactive Vega and Vega-Lite views into web pages.
+- [Facette](https://github.com/facette/facette) - Time series data visualization software.
