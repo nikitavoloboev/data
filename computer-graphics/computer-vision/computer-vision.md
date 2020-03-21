@@ -29,3 +29,4 @@
 - [Computer Vision Basics in Microsoft Excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel#readme)
 - [PolyGen: An Autoregressive Generative Model of 3D Meshes (2020)](https://arxiv.org/abs/2002.10880)
 - [Sophus](https://github.com/strasdat/Sophus) - C++ implementation of Lie Groups using Eigen.
+- [SOLT](https://github.com/MIPT-Oulu/solt) - Streaming over lightweight data transformations.

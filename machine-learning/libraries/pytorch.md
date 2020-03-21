@@ -82,3 +82,4 @@
 - [PyTorch implementation for 3D Bounding Box Estimation Using Deep Learning and Geometry](https://github.com/skhadem/3D-BoundingBox)
 - [Fast AutoAugment](https://github.com/kakaobrain/fast-autoaugment) - Official Implementation of 'Fast AutoAugment' in PyTorch.
 - [Deepvoice3 PyTorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models.
+- [Rethinking the Value of Network Pruning](https://github.com/Eric-mingjie/rethinking-network-pruning)

@@ -19,3 +19,4 @@
 - [Timelane](http://timelane.tools/) - Visually profile your asynchronous code. ([Article](http://trycombine.com/posts/announcing-timelane-combine/)) ([Code](https://github.com/icanzilb/Timelane))
 - [RxCombine](https://github.com/antitypical/Result) - Bi-directional type bridging between RxSwift and Apple's Combine framework.
 - [Practical Combine](https://gumroad.com/l/practical-combine) - Introduction to Combine with real examples.
+- [Using Combine](https://heckj.github.io/swiftui-notes/) - Notes on learning Combine with UIKit and SwiftUI.
