@@ -59,3 +59,4 @@
 - [How to get started with infrastructure and distributed systems (2016)](http://codecapsule.com/2016/01/03/how-to-get-started-with-infrastructure-and-distributed-systems/)
 - [Advanced Napkin Math: Estimating System Performance from First Principles (2019)](https://www.youtube.com/watch?v=IxkSlnrRFqc) ([Code](https://github.com/sirupsen/napkin-math))
 - [Golimit](https://github.com/myntra/golimit) - Uber ringpop based distributed and decentralized rate limiter.
+- [System Design lectures (2020)](https://www.youtube.com/playlist?list=PL564gOx0bCLouDCUMtmj6hMEu1JS7QYEr)
