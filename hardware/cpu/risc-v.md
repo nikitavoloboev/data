@@ -17,3 +17,4 @@
 - [Krste Asanović Videos](https://people.eecs.berkeley.edu/~krste/videos.html)
 - [Krste Asanović Publications](https://people.eecs.berkeley.edu/~krste/publications.html)
 - [riscv-rust](https://github.com/takahirox/riscv-rust) - RISC-V processor emulator written in Rust.
+- [Sipeed Maixduino RISC-V board](http://www.ulisp.com/show?30X8)
