@@ -28,3 +28,4 @@
 - [How to make generative art feel natural (2020)](https://www.generativehut.com/post/how-to-make-generative-art-feel-natural)
 - [Generative Hut](https://www.generativehut.com/) - Home of generative art.
 - [Dacein](https://github.com/szymonkaliski/dacein) - Experimental creative coding IDE. ([Article](https://szymonkaliski.com/log/2019-03-01-building-dacein/))
+- [AI for 3D Generative Design (2020)](https://blog.insightdatascience.com/ai-for-3d-generative-design-17503d0b3943) ([HN](https://news.ycombinator.com/item?id=22640407))

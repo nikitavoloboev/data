@@ -27,6 +27,11 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket) - Free and open-source Linux-based operating system meant for hosting containers.
 - [XNU kernel](https://github.com/apple/darwin-xnu) - Part of the Darwin operating system for use in macOS and iOS operating systems.
 
+## Emulators
+
+- [byuu](https://github.com/byuu/byuu) - Multi-system emulator focused on performance, features, and ease of use.
+- [QEMU](https://github.com/qemu/qemu) - Generic and open source machine & userspace emulator and virtualizer.
+
 ## Links
 
 - [Introduction to Operating Systems](http://pages.cs.wisc.edu/~bart/537/lecturenotes/titlepage.html)

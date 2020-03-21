@@ -88,3 +88,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [Prometheus exporter for custom eBPF metrics](https://github.com/cloudflare/ebpf_exporter)
 - [GameMode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand.
 - [Linux Kernel Lectures and Labs](https://linux-kernel-labs.github.io/refs/heads/master/index.html) ([HN](https://news.ycombinator.com/item?id=22564665))
+- [Pretty and functional linux/unix desktop for former Mac users/Design freaks](https://github.com/milgra/tutorials/blob/master/pretty-and-functional-linux-destkop.md)

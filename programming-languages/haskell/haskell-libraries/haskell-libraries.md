@@ -38,6 +38,7 @@
 - [eff](https://github.com/hasura/eff) - Work-in-progress implementation of an extensible effect system for Haskell, a general-purpose solution for tracking effects at the type level and handling them in flexible ways.
 - [hmatrix](https://github.com/haskell-numerics/hmatrix) - Linear algebra and numerical computation.
 - [Alex](https://www.haskell.org/alex/) - Lexical analyser generator for Haskell. ([Code](https://github.com/simonmar/alex))
+- [Megaparsec](https://github.com/mrkkrp/megaparsec) - Industrial-strength monadic parser combinator library.
 
 ## Links
 

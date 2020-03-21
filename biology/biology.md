@@ -26,3 +26,4 @@
 - [The Algorithmic Beauty of Plants (1990)](http://algorithmicbotany.org/papers/abop/abop.pdf)
 - [the Node](https://thenode.biologists.com/) - Community site for and by developmental biologists.
 - [Quantum Biology - How Plants Use Quantum Mechanics (2020)](https://www.youtube.com/watch?v=Zc9Xk99gCr4)
+- [HN: If the heart is a muscle, why doesn't it ever get tired?](https://news.ycombinator.com/item?id=22643333)

@@ -128,3 +128,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Design: The Key to Writing (and Advising) a One-Draft Thesis](https://www.cs.tufts.edu/~nr/cs257/archive/john-carlis/one-draft.pdf)
 - [How to Write Usefully (2020)](http://paulgraham.com/useful.html) ([HN](https://news.ycombinator.com/item?id=22381861))
 - [Write a rapid prototype first](https://terrytao.wordpress.com/advice-on-writing-papers/write-a-rapid-prototype-first/)
+- [Mary Dash’s Writing Tips](https://plainlanguage.gov/resources/articles/dash-writing-tips/)

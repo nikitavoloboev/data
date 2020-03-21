@@ -36,6 +36,7 @@
 
 ## GUI
 
+- [Alchemy](https://github.com/ryanmcgrath/alchemy) - Experimental Rust GUI Framework, backed by native widgets on each platform it supports.
 - [vgtk](https://github.com/bodil/vgtk/) - Declarative desktop UI framework for Rust built on GTK and Gtk-rs.
 
 ## DB
@@ -57,6 +58,11 @@
 - [luminance](https://github.com/phaazon/luminance-rs) - Type-safe, type-level and stateless Rust graphics framework.
 - [Gate](https://github.com/SergiusIW/gate) - Specialized 2D game library.
 - [ultraviolet](https://github.com/termhn/ultraviolet) - Wide linear algebra crate for games and graphics.
+- [pixels](https://github.com/parasyte/pixels) - Tiny hardware-accelerated pixel frame buffer.
+
+## Games
+
+- [Tetra](https://github.com/17cupsofcoffee/tetra) - Simple 2D game framework written in Rust.
 
 ## Test
 
@@ -268,6 +274,8 @@
 - [Builder Pattern Derive](https://github.com/colin-kiegel/rust-derive-builder) - Rust macro to automatically implement the builder pattern for arbitrary structs.
 - [juniper-from-schema](https://github.com/davidpdrsn/juniper-from-schema) - Schema first GraphQL in Rust with Juniper.
 - [stringsext](https://github.com/getreu/stringsext) - Find multi-byte-encoded strings in binary data.
+- [Anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error.
+- [byteorder](https://github.com/BurntSushi/byteorder) - Rust library for reading/writing numbers in big-endian and little-endian.
 
 ## Cargo Plugins
 
@@ -277,6 +285,7 @@
 - [cargo-edit](https://github.com/killercup/cargo-edit) - Utility for managing cargo dependencies from the command line.
 - [cargo-profiler](https://github.com/svenstaro/cargo-profiler) - Cargo subcommand to profile binaries.
 - [cargo-outdated](https://github.com/kbknapp/cargo-outdated) - Cargo subcommand for displaying when Rust dependencies are out of date.
+- [cargo-modules](https://github.com/regexident/cargo-modules) - Cargo plugin for showing a tree-like overview of a crate's modules.
 
 ## Links
 

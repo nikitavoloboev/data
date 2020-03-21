@@ -16,3 +16,4 @@
 - [Joint Embedding in Named Entity Linking on Sentence Level](https://arxiv.org/pdf/2002.04936.pdf)
 - [Knowledge Graphs (2020)](https://arxiv.org/abs/2003.02320) ([HN](https://news.ycombinator.com/item?id=22504133))
 - [Combining knowledge graphs, quickly and accurately (2020)](https://www.amazon.science/blog/combining-knowledge-graphs-quickly-and-accurately)
+- [Akutan](https://github.com/eBay/akutan) - Distributed knowledge graph store, sometimes called an RDF store or a triple store.

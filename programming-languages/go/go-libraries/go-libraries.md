@@ -362,6 +362,7 @@
 - [go-app-paths](https://github.com/muesli/go-app-paths) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs).
 - [ntp](https://github.com/beevik/ntp) - Simple ntp client package for go.
 - [Gorgonia](https://github.com/gorgonia/gorgonia) - Library that helps facilitate machine learning in Go.
+- [pgzip](https://github.com/klauspost/pgzip) - Go parallel gzip (de)compression.
 
 ## Links
 

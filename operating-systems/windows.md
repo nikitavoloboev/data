@@ -6,3 +6,4 @@
 - [Fix Windows 10 Privacy](https://github.com/modzero/fix-windows-privacy) - Tool to disable privacy breaches on Windows 10.
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome#readme)
 - [My super awesome Windows 10](https://github.com/NickSeagull/my-windows#readme)
+- [Hazel Engine](https://github.com/TheCherno/Hazel) - Early-stage interactive application and rendering engine for Windows.

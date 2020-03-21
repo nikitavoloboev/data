@@ -80,3 +80,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Home network recommendations? (2020)](https://lobste.rs/s/bxvg76/home_network_recommendations)
 - [netscanner](https://github.com/R4yGM/netscanner) - TCP/UDP scanner to find open or closed ports.
 - [nmap](https://github.com/nmap/nmap) - Network Mapper.
+- [How Tailscale works (2020)](https://tailscale.com/blog/how-tailscale-works/) ([HN](https://news.ycombinator.com/item?id=22644357))

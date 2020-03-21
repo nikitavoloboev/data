@@ -17,6 +17,7 @@
 ## Biology
 
 - [Biopython](https://github.com/biopython/biopython) - International association of developers of freely available Python tools for computational molecular biology.
+- [cobrapy](https://github.com/opencobra/cobrapy) - Constraint-Based Reconstruction and Analysis in Python.
 
 ## API
 
@@ -97,3 +98,7 @@
 - [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization module for Python.
 - [STPyV8](https://github.com/area1/stpyv8) - Allows interop between Python 3 and JavaScript running Google's V8 engine.
 - [LibCST](https://github.com/Instagram/LibCST) - Concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree.
+
+## Links
+
+- [Twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI.

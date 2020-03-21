@@ -59,6 +59,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [The Commonplace Book](https://www.ralphrudd.com/)
 - [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)
+- [Slides of Chen Hui Jing](https://github.com/huijing/slides)
 - [Hongyi Shen's notes](https://github.com/wilbeibi/NotesIndex)
 - [Alopex Networks wiki](https://wiki.alopex.li/_categories)
 - [Michael Mellinger math notes](https://github.com/melling/MathAndScienceNotes)
@@ -119,3 +120,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing (2020)](https://fortelabs.co/blog/how-to-take-smart-notes/) ([HN](https://news.ycombinator.com/item?id=22341518))
 - [Hackpad](https://github.com/dropbox/hackpad) - Web-based realtime wiki, based on the open source EtherPad collaborative document editor.
 - [Human Programming Interface (2020)](https://lobste.rs/s/vzkb7a/human_programming_interface_python) - My life in a Python package.
+- [Emvi](https://emvi.com/) - Knowledge management platform for companies and teams.

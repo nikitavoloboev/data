@@ -59,6 +59,7 @@
 - [SwiftUIPager](https://github.com/fermoya/SwiftUIPager) - Provides a Pager component built with SwiftUI native components.
 - [SwiftUI Shapes](https://github.com/spacenation/swiftui-shapes) - Collection of custom shapes for iOS and macOS.
 - [ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - SwiftUI collection view with support for custom layouts, preloading, and more.
+- [SwiftUI Environment Overrides](https://github.com/nalexn/EnvironmentOverrides) - QA assistant for a SwiftUI app: change the color scheme, accessibility settings, and localization on the fly.
 
 ## macOS
 

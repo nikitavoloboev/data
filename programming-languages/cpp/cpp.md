@@ -68,3 +68,4 @@
 - [Where to Get Started Learing C++ and What Resources to Use (2019)](https://shafik.github.io/c++/learning/2019/09/05/getting_started_learning_cpp.html)
 - [Cost of a thread in C++ under Linux](https://lemire.me/blog/2020/01/30/cost-of-a-thread-in-c-under-linux/) ([HN](https://news.ycombinator.com/item?id=22456642))
 - [A New Decade, A New Tool (2020)](https://vector-of-bool.github.io/2020/01/06/new-decade.html) ([HN](https://news.ycombinator.com/item?id=22578755))
+- [Why so many people hate C++? (2020)](https://www.reddit.com/r/cpp/comments/fm5h6r/why_so_many_people_hate_c/)

@@ -50,3 +50,4 @@
 - [PyTorch implementation of soft actor critic](https://github.com/pranz24/pytorch-soft-actor-critic)
 - [Tutorial on Deep Reinforcement Learning in PyTorch](https://github.com/RobertTLange/deep-rl-tutorial)
 - [prob_mbrl](https://github.com/mcgillmrl/prob_mbrl) - Library of probabilistic model based RL algorithms in pytorch.
+- [PhoenixGo](https://github.com/Tencent/PhoenixGo) - Go AI program which implements the AlphaGo Zero paper.

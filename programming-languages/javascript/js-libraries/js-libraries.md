@@ -187,6 +187,7 @@
 - [Rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda.
 - [MathJax](https://github.com/mathjax/MathJax-src) - Open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all modern browsers.
 - [Litepicker](https://github.com/wakirin/Litepicker) - Date range picker - lightweight, no dependencies.
+- [core-js](https://github.com/zloirock/core-js) - Modular standard library for JavaScript.
 
 ## Links
 

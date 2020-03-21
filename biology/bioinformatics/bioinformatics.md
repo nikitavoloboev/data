@@ -27,3 +27,6 @@
 - [atomium](https://github.com/samirelanduk/atomium) - Python molecular modeller (with .pdb/.cif/.mmtf parsing and production).
 - [PoincareMaps](https://github.com/facebookresearch/PoincareMaps) - Poincare maps recover continuous hierarchies in single-cell data.
 - [OpenMM](https://github.com/openmm/openmm) - Toolkit for molecular simulation using high performance GPU code.
+- [Guide to help wet lab biologists learn computational biology (2020)](https://www.reddit.com/r/bioinformatics/comments/fiwtwx/working_from_home_i_made_a_guide_to_help_wet_lab/)
+- [BiGG Models](http://bigg.ucsd.edu/) - Search the database by model, reaction, metabolite, or gene. ([Code](https://github.com/sbrg/bigg_models))
+- [Systems Biology and Biotechnology Specialization course](https://www.coursera.org/specializations/systems-biology)

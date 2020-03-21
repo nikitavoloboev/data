@@ -28,6 +28,7 @@
 - [zod](https://github.com/vriad/zod) - Typescript-first schema validation with static type inference.
 - [utility-types](https://github.com/piotrwitek/utility-types) - Collection of utility types, complementing TypeScript built-in mapped types and aliases.
 - [fetcher-ts](https://github.com/YBogomolov/fetcher-ts) - Type-safe wrapper around Fetch API.
+- [gretchen](https://github.com/truework/gretchen) - Making fetch happen in TypeScript.
 
 ## Links
 

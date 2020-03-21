@@ -17,6 +17,11 @@
 - [Scaleway](https://www.scaleway.com/en/) - Cloud instances delivered in seconds with backup, network and security options.
 - [Feral Hosting](https://www.feralhosting.com/pricing)
 
+## Web
+
+- [Netlify](https://www.netlify.com/) - Build, test, and deploy globally with Netlify’s all-in-one platform for modern web projects. ([CLI](https://github.com/netlify/cli))
+- [Zeit Now](https://zeit.co/) - Optimal workflow for frontend teams. All-in-one: Static and JAMstack deployment, Serverless Functions, and Global CDN.
+
 ## Other
 
 - [Nanobox](https://nanobox.io/) - Run any app on any cloud.
