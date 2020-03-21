@@ -363,6 +363,7 @@
 - [ntp](https://github.com/beevik/ntp) - Simple ntp client package for go.
 - [Gorgonia](https://github.com/gorgonia/gorgonia) - Library that helps facilitate machine learning in Go.
 - [pgzip](https://github.com/klauspost/pgzip) - Go parallel gzip (de)compression.
+- [txeh](https://github.com/txn2/txeh) - Go library and CLI utilty for /etc/hosts management.
 
 ## Links
 

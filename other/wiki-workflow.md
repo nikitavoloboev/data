@@ -52,6 +52,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Max Masnick](https://maxmasnick.com/kb/)
 - [Leon Bambrick](https://til.secretgeek.net/)
 - [Ben Lynn](http://www-cs-students.stanford.edu/~blynn/)
+- [Greg's wiki](https://mywiki.wooledge.org/EnglishFrontPage)
 - [Ioannis Kourouklides](https://wiki.kourouklides.com/wiki/Main_Page)
 - [Dmitrii Gerasimov](https://beepb00p.xyz/)
 - [Flavio Copes](https://flaviocopes.com/)

@@ -33,3 +33,4 @@ I try to give my full attention to any ideas I am working on.
 - [Open Source Ideas](https://github.com/open-source-ideas/open-source-ideas#readme)
 - [What 8 years of side projects has taught me (2019)](https://www.junglecoder.com/blog/idea-chain-themes) ([HN](https://news.ycombinator.com/item?id=22344771))
 - [List of microgrant programs for your good ideas](https://github.com/nayafia/microgrants#readme)
+- [Ask HN: What projects are you working on now? (2020)](https://news.ycombinator.com/item?id=22648431)
