@@ -27,6 +27,7 @@
 - [libFirm](https://github.com/libfirm/libfirm) - Graph based intermediate representation and backend for optimising compilers.
 - [mimalloc](https://github.com/microsoft/mimalloc) - Compact general purpose allocator with excellent performance.
 - [BOLT](https://github.com/facebookincubator/BOLT) - Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries. ([HN](https://news.ycombinator.com/item?id=22654229))
+- [Propeller](https://github.com/google/llvm-propeller) - Profile Guided Optimizing Large Scale LLVM-based Relinker.
 - [Intel(r) SPMD Program Compiler](https://github.com/ispc/ispc) - Compiler for a variant of the C programming language, with extensions for single program, multiple data programming.
 - [hobbes](https://github.com/Morgan-Stanley/hobbes) - Language and an embedded JIT compiler.
 - [Crafting Interpreters book](http://craftinginterpreters.com/)
