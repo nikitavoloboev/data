@@ -17,3 +17,4 @@
 - [Shape](https://shape.so/) - 4300+ Customizable, animated icons & illustrations exportable to code.
 - [Free icons for coronavirus awareness](https://www.iconfinder.com/p/coronavirus-awareness-icons)
 - [Tabler Icons](https://github.com/tabler/tabler-icons) - Set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [Designing App Icons (2020)](https://www.youtube.com/playlist?list=PLxpqfOFALZU9IG6DbP3inWOgm3Rzv4ISd)

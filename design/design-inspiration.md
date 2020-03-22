@@ -74,6 +74,7 @@ Here are few more things I liked, design wise.
 - [Michael Edelstone](https://michaeledelstone.com/)
 - [Max Böck](https://mxb.dev/)
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))
+- [Nuno Coelho Santos](https://nunocoelhosantos.com/)
 - [William Falcon](https://www.williamfalcon.com/)
 - [Brent Jackson](https://jxnblk.com/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)

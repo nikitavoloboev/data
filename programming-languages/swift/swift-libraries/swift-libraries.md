@@ -41,6 +41,7 @@
 - [TweenKit](https://github.com/SteveBarnegren/TweenKit) - Animation library for iOS in Swift.
 - [Mandoline](https://github.com/blueapron/Mandoline) - iOS picker view to serve all your "picking" needs.
 - [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
+- [Direct Select](https://github.com/Swasidhant/DirectSelect) - iOS implementation of Direct Select by Virgil Pana.
 
 ## Web
 

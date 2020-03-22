@@ -44,3 +44,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [I Pressed ⌘B. You Wouldn't Believe What Happened Next - Marcin Wichary (2020)](https://www.youtube.com/watch?v=kVD-sjtFoEI)
 - [Variable Fonts Primer](https://variablefonts.io/)
 - [sfsymbols](https://github.com/davedelong/sfsymbols) - Export the shapes in the SF Symbols font.
+- [Fonts In Use](https://fontsinuse.com/) - Independent archive of typography.

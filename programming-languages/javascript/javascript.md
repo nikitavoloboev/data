@@ -58,7 +58,7 @@
 - [Promisees](https://github.com/bevacqua/promisees) - Promise visualization playground for the adventurous.
 - [promise-fun](https://github.com/sindresorhus/promise-fun#readme) - Promise packages, patterns, chat, and tutorials.
 - [Perflink](https://github.com/lukejacksonn/perflink) - JavaScript performance benchmarks that you can share via URL.
-- [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) ([OSS](https://github.com/MostlyAdequate/mostly-adequate-guide))
+- [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) ([OSS](https://github.com/MostlyAdequate/mostly-adequate-guide)) ([HN](https://news.ycombinator.com/item?id=22654135))
 - [Volta](https://github.com/volta-cli/volta) - JavaScript Launcher.
 - [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet#readme)
 - [Fastpack](https://fastpack.sh/) - Pack JavaScript fast & easy.
@@ -78,7 +78,7 @@
 - [Data Structures and Algorithms in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
 - [JavaScript & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices#readme)
 - [Just](https://github.com/microsoft/just) - Library that organizes build tasks for your JS projects.
-- [ECMAScript (JS) specification](https://read262.netlify.com) ([Code](https://github.com/j-f1/read262)) ([Web version 2](https://www.ecma-international.org/ecma-262/10.0/index.html))
+- [ECMAScript (JS) specification](https://tc39.es/ecma262/) ([Code](https://github.com/j-f1/read262)) ([Web version 2](https://read262.netlify.com))
 - [André Staltz: Two Fundamental Abstractions - Uphill Conf 2018](https://www.youtube.com/watch?v=fdol03pcvMA)
 - [JSMonday](http://www.jsmonday.dev/) - Weekly JS inspiration.
 - [Chevrotain](https://github.com/SAP/chevrotain) - Parser Building Toolkit for JavaScript.

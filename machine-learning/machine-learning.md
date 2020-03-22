@@ -210,3 +210,4 @@
 - [NVIDIA Deep Learning Examples for Tensor Cores](https://github.com/NVIDIA/DeepLearningExamples)
 - [Introduction to Deep Learning and Generative Models course](http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/) ([Code](https://github.com/rasbt/stat453-deep-learning-ss20))
 - [Collection of Conference & School Notes in Machine Learning](https://github.com/RobertTLange/visual-machine-learning-notes)
+- [AutoML-Zero](https://github.com/google-research/google-research/tree/master/automl_zero#automl-zero) - Open source code for the paper: "AutoML-Zero: Evolving Machine Learning Algorithms From Scratch". ([HN](https://news.ycombinator.com/item?id=22539117))

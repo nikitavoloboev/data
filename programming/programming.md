@@ -133,3 +133,4 @@
 - [Defunctionalisation – an underappreciated tool for writing good software (2020)](https://www.gresearch.co.uk/article/defunctionalisation/) ([HN](https://news.ycombinator.com/item?id=22525038))
 - [Ultimate Coding Resources List](https://github.com/PizzaPokerGuy/ultimate-coding-resources#readme)
 - [libs.garden](https://libs.garden/)
+- [Advice on things to learn for junior dev (2020)](https://www.reddit.com/r/golang/comments/fma0dz/what_do_employers_look_in_github_repo_of_golang/)

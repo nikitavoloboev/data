@@ -602,6 +602,7 @@
       - [Godot](games/gamedev/game-engines/godot.md)
   - [Board games](games/board-games.md)
   - [Chess](games/chess.md)
+  - [Minecraft](games/minecraft.md)
 - [Streaming](streaming/streaming.md)
 - [Talks](talks/talks.md)
   - [Presentations](talks/presentations.md)

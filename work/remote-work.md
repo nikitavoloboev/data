@@ -37,3 +37,4 @@
 - [Remote work starter guide for employees: how to adjust to work-from-home](https://about.gitlab.com/company/culture/all-remote/remote-work-starter-guide/)
 - [Holloway Guide to Remote Work](https://www.holloway.com/g/remote-work/about) - Comprehensive Guide to building, managing, and adapting to working with distributed teams.
 - [Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
+- [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork#readme)
