@@ -39,3 +39,4 @@
 - [30 Questions Investors Ask During Fundraising (2016)](https://alexiskold.net/2016/09/13/30-questions-investors-ask-during-fundraising/)
 - [How to run a Series A fundraising process (2020)](https://alexiskold.net/2020/01/22/how-to-run-a-series-a-fundraising-process/)
 - [Writing Grant Applications](https://billwadge.wordpress.com/2020/02/10/im-good-enough-im-smart-enough-and-dog-gone-it-people-like-me-writing-grant-applications/) ([HN](https://news.ycombinator.com/item?id=22343796))
+- [Fund My Project](https://github.com/sakofchit/fund-my-project#readme) - Directory of verified programs that offer grants + funding towards side projects/startups.

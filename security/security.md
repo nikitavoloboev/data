@@ -40,3 +40,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [disclose.io](https://disclose.io/) - Cross-industry, vendor-agnostic standardization project for safe harbor† best practices to enable good-faith security research. ([Code](https://github.com/disclose/disclose))
 - [Awesome Zero trust](https://github.com/pomerium/awesome-zero-trust#readme) - Curated collection of awesome resources for the zero-trust security model.
 - [CS 253 Web Security (2019)](https://web.stanford.edu/class/cs253/)
+- [vaulted](https://github.com/miquella/vaulted) - Spawning and storage of secure environments.

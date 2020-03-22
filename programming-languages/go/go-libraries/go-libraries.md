@@ -114,6 +114,7 @@
 
 - [go-criu](https://github.com/checkpoint-restore/go-criu) - Go Bindings for CRIU.
 - [rtnetlink](https://github.com/jsimonetti/rtnetlink) - Provides low-level access to the Linux rtnetlink API.
+- [go-fuse](https://github.com/hanwen/go-fuse) - Go native bindings for the FUSE kernel module.
 
 ## Other
 
@@ -364,6 +365,7 @@
 - [Gorgonia](https://github.com/gorgonia/gorgonia) - Library that helps facilitate machine learning in Go.
 - [pgzip](https://github.com/klauspost/pgzip) - Go parallel gzip (de)compression.
 - [txeh](https://github.com/txn2/txeh) - Go library and CLI utilty for /etc/hosts management.
+- [go-jdk](https://github.com/quasilyte/go-jdk) - Run JVM-based code in Go efficiently.
 
 ## Links
 

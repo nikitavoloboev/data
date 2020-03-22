@@ -10,3 +10,4 @@
 - [Quarkus](https://quarkus.io/) - Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards.
 - [async-profiler](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events.
 - [The Algorithms - Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java.
+- [mx](https://github.com/graalvm/mx) - Command-line tool used for the development of Graal projects.

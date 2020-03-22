@@ -10,3 +10,4 @@
 - [Chrome DevTools Masterclass (2016)](https://www.youtube.com/watch?v=KykP5Z5E4kA)
 - [chromedp](https://github.com/chromedp/chromedp) - Faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [Chrome DevTools Protocol](https://github.com/ChromeDevTools/devtools-protocol)
+- [Make your own DevTools](https://kentcdodds.com/blog/make-your-own-dev-tools)

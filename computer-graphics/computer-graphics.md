@@ -44,3 +44,4 @@
 - [3D Reaction-Diffusion](https://observablehq.com/@rreusser/3d-reaction-diffusion)
 - [NeRF: Neural Radiance Fields](https://github.com/bmild/nerf) - Tensorflow implementation of optimizing a neural representation for a single scene and rendering new views.
 - [A thoroughly modern particle system (2009)](https://directtovideo.wordpress.com/2009/10/06/a-thoroughly-modern-particle-system/) ([HN](https://news.ycombinator.com/item?id=22636966))
+- [Stanford Interactive Computer Graphics (2020)](http://cs248.stanford.edu/winter20/) ([Code](https://github.com/stanford-cs248))

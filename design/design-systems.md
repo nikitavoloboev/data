@@ -22,6 +22,8 @@
 - [Tailwind UI](https://tailwindui.com/) - Beautiful UI components, crafted by the creators of Tailwind CSS. ([HN](https://news.ycombinator.com/item?id=22422873)) ([HN 2](https://news.ycombinator.com/item?id=22463769))
 - [Carbon](https://github.com/carbon-design-system/carbon) - Design system built by IBM.
 - [React Zeit Design](https://github.com/zeit-ui/react)
+- [Fluent UI React](https://github.com/microsoft/fluentui) - Set of React components for building Microsoft web experiences.
+- [Operational UI Components](https://github.com/contiamo/operational-ui) - Contains simple, stateless UI building blocks - your typical input fields, buttons, cards, grids, and so on.
 
 ## Links
 

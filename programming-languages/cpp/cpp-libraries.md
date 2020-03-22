@@ -70,3 +70,4 @@
 - [span lite](https://github.com/martinmoene/span-lite) - C++20-like span for C++98, C++11 and later in a single-file header-only library.
 - [atomic_queue](https://github.com/max0x7ba/atomic_queue) - C++ lock-free queue.
 - [RTTR](https://github.com/rttrorg/rttr) - C++ Reflection Library.
+- [lager](https://github.com/arximboldi/lager) - C++ library for value-oriented design using the unidirectional data-flow architecture (Redux for C++).

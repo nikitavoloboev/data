@@ -144,3 +144,4 @@
 - [Bolt](https://github.com/boltpkg/bolt) - Super-powered JavaScript project management.
 - [tiny-js](https://github.com/gfwilliams/tiny-js) - Aims to be an extremely simple (~2000 line) JavaScript interpreter.
 - [JavaScript and TypeScript tooling overview](https://github.com/slikts/tooling)
+- [Seafox](https://github.com/KFlash/seafox) - Blazing fast 100% spec compliant, self-hosted javascript parser written in Typescript.

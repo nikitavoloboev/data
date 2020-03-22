@@ -17,3 +17,4 @@
 - [jass](https://github.com/jschauma/jass) - Tool to facilitate sharing of secrets using SSH keys.
 - [rtop-bot](https://github.com/rapidloop/rtop-bot) - Bot for Remote Server Monitoring over SSH.
 - [Awesome SSH](https://github.com/moul/awesome-ssh#readme)
+- [ssh-vault](https://github.com/ssh-vault/ssh-vault) - Encrypt/decrypt using ssh keys.
