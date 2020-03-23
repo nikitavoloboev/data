@@ -60,3 +60,7 @@
 - [Advanced Napkin Math: Estimating System Performance from First Principles (2019)](https://www.youtube.com/watch?v=IxkSlnrRFqc) ([Code](https://github.com/sirupsen/napkin-math))
 - [Golimit](https://github.com/myntra/golimit) - Uber ringpop based distributed and decentralized rate limiter.
 - [System Design lectures (2020)](https://www.youtube.com/playlist?list=PL564gOx0bCLouDCUMtmj6hMEu1JS7QYEr)
+- [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability#readme) - Patterns of Scalable, Reliable, and Performant Large-Scale Systems.
+- [LeetCode System Design Questions](https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=most_votes&query=)
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+- [Amazon Builders' Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc) - How Amazon builds and operates software.

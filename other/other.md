@@ -122,3 +122,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Webcodesk](https://github.com/webcodesk/webcodesk-srv) - Web Application Builder.
 - [Backstage](https://github.com/spotify/backstage) - Open platform for building developer portals. ([Web](https://backstage.io/))
 - [Ask HN: Best Stripe Alternatives? (2020)](https://news.ycombinator.com/item?id=22596082)
+- [Incrementally Correct Personal Websites](https://brianlovin.com/overthought/incrementally-correct-personal-websites)

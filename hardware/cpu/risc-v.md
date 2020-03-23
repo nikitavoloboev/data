@@ -18,3 +18,4 @@
 - [Krste Asanović Publications](https://people.eecs.berkeley.edu/~krste/publications.html)
 - [riscv-rust](https://github.com/takahirox/riscv-rust) - RISC-V processor emulator written in Rust.
 - [Sipeed Maixduino RISC-V board](http://www.ulisp.com/show?30X8)
+- [Learning embedded Rust by building RISC-V-powered robot (2020)](https://k155la3.blog/2020/03/21/learning-embedded-rust-by-building-riscv-powered-robot-part-1/) ([Lobsters](https://lobste.rs/s/ar5lfs/learning_embedded_rust_by_building_risc_v))

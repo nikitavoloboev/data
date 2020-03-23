@@ -30,3 +30,4 @@
 - [Guide to help wet lab biologists learn computational biology (2020)](https://www.reddit.com/r/bioinformatics/comments/fiwtwx/working_from_home_i_made_a_guide_to_help_wet_lab/)
 - [BiGG Models](http://bigg.ucsd.edu/) - Search the database by model, reaction, metabolite, or gene. ([Code](https://github.com/sbrg/bigg_models))
 - [Systems Biology and Biotechnology Specialization course](https://www.coursera.org/specializations/systems-biology)
+- [Path to a free self-taught education in Bioinformatics](https://github.com/ossu/bioinformatics#readme)

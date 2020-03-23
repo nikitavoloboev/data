@@ -60,3 +60,4 @@
 - [Levels of Seniority](https://roadmap.sh/guides/levels-of-seniority) - How to Step Up as a Junior, Mid Level or a Senior Developer. ([HN](https://news.ycombinator.com/item?id=22390878))
 - [HN: Google Interviewing Process for Software Developer Role in 2020](https://news.ycombinator.com/item?id=22405372)
 - [My Coding Interview Style](https://amy.dev/?p=783)
+- [Interview experience posts](https://blog.rampatra.com/category/interview/)

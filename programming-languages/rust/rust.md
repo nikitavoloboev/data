@@ -162,3 +162,4 @@
 - [Guide on how to write documentation for a Rust crate (2020)](https://blog.guillaume-gomez.fr/articles/2020-03-12+Guide+on+how+to+write+documentation+for+a+Rust+crate) ([HN](https://news.ycombinator.com/item?id=22636282))
 - [HN: Apple is looking for engineers to convert its code from C to Rust (2020)](https://news.ycombinator.com/item?id=22642185)
 - [Rust Design Patterns](https://github.com/lpxxn/rust-design-pattern)
+- [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/) ([Code](https://github.com/rust-lang/rustc-dev-guide))

@@ -85,3 +85,4 @@
 - [Data Science Interview Questions](https://github.com/alexeygrigorev/data-science-interviews#readme)
 - [Google Cloud DataLab](https://github.com/googledatalab/datalab) - Interactive tools and developer experiences for Big Data on Google Cloud Platform.
 - [Great Expectations](https://github.com/great-expectations/great_expectations) - Leading tool for validating, documenting, and profiling, your data to maintain quality and improve communication between teams. ([Code](https://github.com/great-expectations/great_expectations))
+- [Path to a free self-taught education in Data Science](https://github.com/ossu/data-science#readme)
