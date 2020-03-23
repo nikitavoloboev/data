@@ -13,3 +13,4 @@
 - [Maze Figma](https://maze.design/) - User testing platform that turns your prototype into actionable insights from real users.
 - [Config 2020 - Keynote](https://www.youtube.com/watch?v=xL_ruBAwVmo)
 - [Reflections on Config, our first user conference (2020)](https://www.youtube.com/playlist?list=PLXDU_eVOJTx4UHprj9iYPBu4agz8HiB66)
+- [Awesome Figma Tips](https://awesomefigmatips.com/)

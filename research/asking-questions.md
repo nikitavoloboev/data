@@ -16,6 +16,7 @@ In short, it can be summed down to this:
 - It can be all too easy to forget your audience has no idea what you’re talking about beyond what you tell them.
 - When proposing feature requests, _"for me"_ is never a good argument for a feature request.
   - If I want someone to add a feature to their software, show how it would be useful to lots of users.
+- [I’ve never found anyone who didn’t want to help me if I asked them for help. Most people never pick up the phone and call. And that’s what separates (sometimes) the people who do things from the people who just dream about them. - Steve Jobs](https://twitter.com/JonErlichman/status/1241872938695098368)
 
 ## Links
 
