@@ -724,7 +724,6 @@
   - [Used hotkeys](other/used-hotkeys.md)
   - [Mentions](other/mentions.md)
   - [Web presence](other/web-presence.md)
-  - [Questions](other/questions.md)
 - [Fragments](fragments/fragments.md)
   - [Nix on macOS](fragments/nix-on-macos.md)
 - [Looking back](looking-back/looking-back.md)

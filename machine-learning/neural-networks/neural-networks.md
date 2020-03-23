@@ -93,3 +93,5 @@
 - [Neural Tangents](https://github.com/google/neural-tangents) - Fast and Easy Infinite Neural Networks in Python.
 - [A Survey of Long-Term Context in Transformers (2020)](https://www.pragmatic.ml/a-survey-of-methods-for-incorporating-long-term-context/)
 - [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) - Open Source Neural Machine Translation in PyTorch.
+- [Deep Learning for Symbolic Mathematics](https://github.com/facebookresearch/SymbolicMathematics)
+- [Google Brain AutoML](https://github.com/google/automl)

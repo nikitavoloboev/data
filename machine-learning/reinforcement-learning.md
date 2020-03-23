@@ -51,3 +51,4 @@
 - [Tutorial on Deep Reinforcement Learning in PyTorch](https://github.com/RobertTLange/deep-rl-tutorial)
 - [prob_mbrl](https://github.com/mcgillmrl/prob_mbrl) - Library of probabilistic model based RL algorithms in pytorch.
 - [PhoenixGo](https://github.com/Tencent/PhoenixGo) - Go AI program which implements the AlphaGo Zero paper.
+- [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade Efficiently with Reinforcement Learning.
