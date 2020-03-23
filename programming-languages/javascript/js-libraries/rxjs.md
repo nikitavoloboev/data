@@ -8,3 +8,4 @@
 - [RxJS master course](https://ultimatecourses.com/courses/rxjs) - Gives you the knowledge to master RxJS and build real world applications.
 - [Beginner's Guide to RxJS & Redux Observable (2020)](https://www.freecodecamp.org/news/beginners-guide-to-rxjs-redux-observables/)
 - [rxjs-for-await](https://github.com/benlesh/rxjs-for-await) - Library for making RxJS support async-await for-await loops via AsyncIterables.
+- [RxJS Marbles](https://rxmarbles.com/) - Interactive diagrams of Rx Observables. ([Code](https://github.com/staltz/rxmarbles))

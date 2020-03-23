@@ -82,3 +82,4 @@
 - [ProcreateUndoGesture](https://github.com/SavageSource/ProcreateUndoGesture) - Example of Procreate's Undo and Redo gestures.
 - [Swift Package Index](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server) - Back end server for the Swift Package Index.
 - [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - VT100/Xterm Terminal emulator in Swift.
+- [Awesome Swift](https://github.com/matteocrippa/awesome-swift#readme)
