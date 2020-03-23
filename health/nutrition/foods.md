@@ -86,3 +86,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Serotonin Foods and Mood Disorders](https://bebrainfit.com/serotonin-foods-mood-brain/)
 - [Some good oatmeal and avocado recipes](https://www.reddit.com/r/HealthyFood/comments/8ytyqi/food_for_the_brain_with_a_budget/)
 - [Solar Foods](https://solarfoods.fi/) - Revolutionary natural protein source for the global food industry: suitable for varied consumer diets, and virtually for all food products and types.
+- [What are the best/healthiest foods that can heal your body? (2020)](https://www.reddit.com/r/nutrition/comments/fnhms1/what_are_the_besthealthiest_foods_that_can_heal/)

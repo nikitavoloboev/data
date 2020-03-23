@@ -72,3 +72,4 @@
 - [GraphQL-tools](https://github.com/apollographql/graphql-tools) - Generate and mock GraphQL.js schemas.
 - [Fetch your GraphQL data automagically: Building a movie app with Hasura & gqless (2020)](https://hasura.io/blog/gqless-fetch-your-graphql-data-automagically/) ([Code](https://github.com/hasura/gqless-movies-demo))
 - [GraphiQL Explorer](https://github.com/OneGraph/graphiql-explorer) - Interactive explorer plugin for GraphiQL.
+- [GraphQL Mesh](https://github.com/Urigo/graphql-mesh) - Query anything, run anywhere. ([Article](https://medium.com/the-guild/graphql-mesh-query-anything-run-anywhere-433c173863b5))
