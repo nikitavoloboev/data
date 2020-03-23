@@ -63,3 +63,4 @@ I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=e
 - [What are the weirder lessons that psychedelics have taught you? (2020)](https://www.reddit.com/r/Psychonaut/comments/ekrrh5/what_are_the_weirder_lessons_that_psychedelics/)
 - [Mindbloom](https://www.mindbloom.co/) - Offer clinician-prescribed, evidence-based psychedelic medicine experiences, with the support of experienced guides.
 - [So You Want to be a Psychedelic Researcher? R. Andrew Sewell, MD Answers](https://maps.org/resources/students/181-so-you-want-to-be-a-psychedelic-researcher)
+- [Why do you think some people fully embrace spirituality, non duality and all that jazz after tripping while other eat LSD like it's tick tack and remain as rational and as materialist as ever?](https://www.reddit.com/r/RationalPsychonaut/comments/fniz6i/why_do_you_think_some_people_fully_embrace/)
