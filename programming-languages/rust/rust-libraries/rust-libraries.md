@@ -276,6 +276,7 @@
 - [stringsext](https://github.com/getreu/stringsext) - Find multi-byte-encoded strings in binary data.
 - [Anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error.
 - [byteorder](https://github.com/BurntSushi/byteorder) - Rust library for reading/writing numbers in big-endian and little-endian.
+- [once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros.
 
 ## Cargo Plugins
 

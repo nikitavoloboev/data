@@ -81,3 +81,4 @@
 - [The Annotated GPT-2 (2020)](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
 - [GluonNLP](https://github.com/dmlc/gluon-nlp) - Toolkit that enables easy text preprocessing, datasets loading and neural models building to help you speed up your NLP research.
 - [Finetune](https://github.com/IndicoDataSolutions/finetune) - Scikit-learn style model finetuning for NLP.
+- [Kaldi](https://github.com/kaldi-asr/kaldi) - Speech Recognition Toolkit.

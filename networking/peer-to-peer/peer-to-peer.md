@@ -29,3 +29,4 @@
 - [Hypermerge](https://github.com/automerge/hypermerge) - Node.js library for building p2p collaborative applications without any server infrastructure.
 - [Equilibrium](https://equilibrium.co/) - Build core infrastructure for the new distributed web.
 - [Flok](https://munshkr.github.io/flok/) - Web-based P2P collaborative editor for live coding music and graphics. ([Code](https://github.com/munshkr/flok))
+- [go-libp2p examples and tutorials](https://github.com/libp2p/go-libp2p-examples)
