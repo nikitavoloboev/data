@@ -77,6 +77,7 @@
 - [SQLBoiler](https://github.com/volatiletech/sqlboiler) - Tool to generate a Go ORM tailored to your database schema.
 - [sqlmw](https://github.com/ngrok/sqlmw) - Provides an absurdly simple API that allows a caller to wrap a database/sql driver with middleware.
 - [go-mysql](https://github.com/siddontang/go-mysql) - Pure go library to handle MySQL network protocol and replication.
+- [Redcon](https://github.com/tidwall/redcon) - Custom Redis server framework for Go that is fast and simple to use.
 
 ## ML
 

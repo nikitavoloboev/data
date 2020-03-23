@@ -42,6 +42,7 @@
 - [Mandoline](https://github.com/blueapron/Mandoline) - iOS picker view to serve all your "picking" needs.
 - [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
 - [Direct Select](https://github.com/Swasidhant/DirectSelect) - iOS implementation of Direct Select by Virgil Pana.
+- [Jelly](https://github.com/SebastianBoldt/Jelly) - Library for animated, non-interactive & interactive viewcontroller transitions and presentations.
 
 ## Web
 
