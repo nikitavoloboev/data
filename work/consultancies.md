@@ -51,6 +51,7 @@
 - [feenk](https://feenk.com/) - Reshape the Development eXperience to make your systems explainable.
 - [Keming Labs](https://keminglabs.com/) - Build data-driven interfaces.
 - [Obsidian Systems](https://obsidian.systems/) - Software consultancy specializing in haskell, nix, curiosity, and innovation.
+- [Oxidizing Systems](https://oxidizing.io/) - Provide consulting services based on our experience in functional programming and safe systems.
 
 ## Links
 

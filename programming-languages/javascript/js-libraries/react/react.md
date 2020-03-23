@@ -113,3 +113,4 @@
 - [Concurrent Mode issues](https://concurrent-mode-oops.netlify.com/0)
 - [React Diff Viewer](https://praneshravi.in/react-diff-viewer/) - Simple and beautiful text diff viewer made with Diff and React. ([Code](https://github.com/praneshr/react-diff-viewer))
 - [Advanced memoization and effects in React (2020)](https://gist.github.com/slikts/fd3768de1493419ed9506002b452fcdc)
+- [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/content/) - Free book that talks about design patterns/techniques used while developing with React. ([Code](https://github.com/krasimir/react-in-patterns))

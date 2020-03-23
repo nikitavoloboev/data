@@ -14,10 +14,6 @@ This includes closing GitHub issues that are of priority to me. Beyond this I wa
 
 Make the best tool for learning anything and sharing ideas.
 
-## Rekki
-
-Make the best tool for chefs/suppliers.
-
 ## Health
 
 As rules state, I should eat healthy and exercise as part of my routine life. This is more of an ongoing theme but want to give this more focus as I am 24 now and healthy habits stick around and should become core part of my lifestyle.
@@ -43,4 +39,3 @@ Read books & research papers relevant to problems I want to solve. This means re
 Rebuild my personal website & have my own hosted blog I can extend (with RSS feed). Start writing to it. Share tools/projects details on my website.
 
 Start teaching with videos. Review, edit & publish quality content.
-
