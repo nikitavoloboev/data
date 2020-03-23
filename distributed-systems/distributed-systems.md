@@ -64,3 +64,4 @@
 - [LeetCode System Design Questions](https://leetcode.com/discuss/interview-question/system-design?currentPage=1&orderBy=most_votes&query=)
 - [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [Amazon Builders' Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.customSort&cards-body.sort-order=asc) - How Amazon builds and operates software.
+- [Distributed Systems Wiki](https://distributed.systems.wiki/) ([Code](https://github.com/DistributedSystemsWiki/wiki))

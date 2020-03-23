@@ -123,3 +123,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Backstage](https://github.com/spotify/backstage) - Open platform for building developer portals. ([Web](https://backstage.io/))
 - [Ask HN: Best Stripe Alternatives? (2020)](https://news.ycombinator.com/item?id=22596082)
 - [Incrementally Correct Personal Websites](https://brianlovin.com/overthought/incrementally-correct-personal-websites)
+- [Mumble](https://github.com/mumble-voip/mumble) - Open source, low-latency, high quality voice chat software primarily intended for use while gaming.

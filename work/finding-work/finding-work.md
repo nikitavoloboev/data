@@ -53,3 +53,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Placement](https://placement.com/) - Get a great job in a new city.
 - [Tell HN: I used to be homeless and want to work as a software developer (2019)](https://news.ycombinator.com/item?id=21880179)
 - [Thoughts on Recruiting (2019)](https://markmcgranaghan.com/recruiting)
+- [Layoffs Guide](https://candor.co/guides/layoff/)

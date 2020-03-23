@@ -6,6 +6,7 @@
 - [Morph](https://github.com/reason-native-web/morph) - Webframework for Reason and OCaml.
 - [Naboris](https://github.com/shawn-mcginty/naboris) - Simple, fast, minimalist web framework for OCaml/ReasonML.
 - [Reprocessing](https://github.com/Schmavery/reprocessing) - ReasonML graphics library inspired by Processing.
+- [Sihl](https://github.com/oxidizing/sihl) - Web framework for Reason.
 
 ## Other
 
