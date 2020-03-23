@@ -41,3 +41,4 @@ Might give it a go sometime.
 - [Emacs - Productivity Tricks/Hacks](http://www.mycpu.org/emacs-productivity-setup/) ([HN](https://news.ycombinator.com/item?id=22129636))
 - [systemE](https://github.com/a-schaefers/systemE) - Lightweight systemd replacement written in Emacs lisp.
 - [Emacs Lisp Style Guide](https://github.com/bbatsov/emacs-lisp-style-guide#readme)
+- [How do you setup emacs? (2020)](https://lobste.rs/s/uv4xpv/how_do_you_setup_emacs)

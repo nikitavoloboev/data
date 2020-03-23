@@ -101,3 +101,4 @@ I love Git and version control. And I use version control over any project I do.
 - [gsync](https://github.com/ScaleComputing/gsync) - rsync-like command to sync a git repo to a remote machine via git itself.
 - [go-git](https://github.com/go-git/go-git) - Highly extensible Git implementation in pure Go.
 - [Databases that use git as a backend? (2020)](https://lobste.rs/s/mb2hi2/databases_use_git_as_backend)
+- [Self-hosting a tiny git remote (2020)](https://benjaminwil.info/weblog/self-hosted-git-remote/)
