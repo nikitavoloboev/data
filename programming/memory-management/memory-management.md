@@ -8,3 +8,4 @@
 - [A unified theory of garbage collection (2004)](https://www.researchgate.net/publication/221321424_A_unified_theory_of_garbage_collection)
 - [Memory Bandwidth Napkin Math (2020)](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
 - [Isolation Alloc](https://github.com/struct/isoalloc) - New general purpose secure memory allocator that implements an isolation security strategy to mitigate memory safety issues.
+- [Broom](https://github.com/zesterer/broom) - Ergonomic tracing garbage collector that supports mark 'n sweep garbage collection.

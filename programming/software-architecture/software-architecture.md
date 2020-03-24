@@ -45,3 +45,4 @@
 - [Colloquium on Computer Systems videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
 - [Data-Oriented Architecture (2020)](https://blog.eyas.sh/2020/03/data-oriented-architecture/) ([HN](https://news.ycombinator.com/item?id=22519974))
 - [Ready for changes with Hexagonal Architecture (2020)](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749) ([HN](https://news.ycombinator.com/item?id=22540610))
+- [List of Post-mortems](https://github.com/danluu/post-mortems)

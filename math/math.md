@@ -121,3 +121,5 @@
 - [Mathematics for the adventurous self-learner (2020)](https://www.neilwithdata.com/mathematics-self-learner) ([HN](https://news.ycombinator.com/item?id=22400375))
 - [Math is your insurance policy (2020)](https://bartoszmilewski.com/2020/02/24/math-is-your-insurance-policy/) ([HN](https://news.ycombinator.com/item?id=22406667))
 - [Discrete MathematicsAn Open Introduction](http://discrete.openmathbooks.org/dmoi2/dmoi.html)
+- [Lecture notes from Cambridge maths](https://www.b-mehta.co.uk/) ([Code](https://github.com/b-mehta/maths-notes))
+- [Cambridge Maths Tripos notes](https://github.com/Name-Kompsky/tripos)
