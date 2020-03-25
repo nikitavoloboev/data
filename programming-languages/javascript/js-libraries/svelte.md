@@ -18,3 +18,4 @@
 - [svelvet](https://github.com/jakedeichert/svelvet) - CLI svelte compiler & watcher that works with snowpack.
 - [Optimistic, Offline-First Apps with Svelte and Amplify DataStore (2020)](https://www.swyx.io/writing/svelte-amplify-datastore)
 - [Svelte Preprocess](https://github.com/kaisermann/svelte-preprocess) - Svelte preprocessor with baked in support for common used preprocessors.
+- [Lobsters: Svelte is unappealing (2020)](https://lobste.rs/s/d6yta7/svelte_is_unappealing)

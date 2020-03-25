@@ -102,3 +102,5 @@ I love Git and version control. And I use version control over any project I do.
 - [go-git](https://github.com/go-git/go-git) - Highly extensible Git implementation in pure Go.
 - [Databases that use git as a backend? (2020)](https://lobste.rs/s/mb2hi2/databases_use_git_as_backend)
 - [Self-hosting a tiny git remote (2020)](https://benjaminwil.info/weblog/self-hosted-git-remote/)
+- [dgit](https://github.com/quorumcontrol/dgit) - Git with decentralized remotes. ([HN](https://news.ycombinator.com/item?id=22684945))
+- [Setting Up Git Identities (2020)](https://www.micah.soy/posts/setting-up-git-identities/) ([HN](https://news.ycombinator.com/item?id=22672491))

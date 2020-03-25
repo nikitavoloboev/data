@@ -17,3 +17,4 @@
 - [d3fc](https://github.com/d3fc/d3fc) - Collection of components that make it easy to build interactive charts with D3.
 - [nivo](https://github.com/plouc/nivo) - Provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries.
 - [Introduction to D3](https://observablehq.com/@mitvis/introduction-to-d3) ([HN](https://news.ycombinator.com/item?id=22476930))
+- [Learn D3: Introduction by Mike Bostock](https://observablehq.com/@d3/learn-d3) ([HN](https://news.ycombinator.com/item?id=22675551))

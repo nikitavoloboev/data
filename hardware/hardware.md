@@ -25,3 +25,4 @@
 - [Meshtastic](https://www.meshtastic.org/) - Open source hiking, pilot, skiing, Signal-App-extending GPS mesh communicator.
 - [Awesome Hardware Description Languages](https://github.com/drom/awesome-hdl#readme)
 - [Tindie](https://www.tindie.com/) - Buy and Sell DIY hardware products.
+- [Ventilators 101: What They Do and How They Work (2020)](https://hackaday.com/2020/03/25/ventilators-101-what-they-do-and-how-they-work/)
