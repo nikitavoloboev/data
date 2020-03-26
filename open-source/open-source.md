@@ -73,3 +73,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Sustain Open Source Forum](https://discourse.sustainoss.org/)
 - [Encode](https://www.encode.io/) - Collaboratively funded software development.
 - [Google Open Source Code Search](https://cs.opensource.google/) ([HN](https://news.ycombinator.com/item?id=22551856))
+- [No Code of Conduct](https://github.com/domgetter/NCoC) - Code of Conduct for Adults in Open Source Software. ([HN](https://news.ycombinator.com/item?id=22692538))

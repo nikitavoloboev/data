@@ -47,3 +47,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [How do you talk to "I have nothing to hide" people? (2020)](https://lobste.rs/s/6yrndd/how_do_you_talk_i_have_nothing_hide_people)
 - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist#readme) - Curated checklist of tips to protect your dgital security and privacy.
 - [The Case for Privacy Optimism (2020)](https://benmgarfinkel.wordpress.com/2020/03/09/privacy-optimism-2/)
+- [Resilience](https://github.com/kaepora/resilience) - Ad blocker for your computer.

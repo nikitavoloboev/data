@@ -1,7 +1,5 @@
 # [Linux](https://github.com/torvalds/linux)
 
-Never used it as my main OS but I do want to explore it more in the future.
-
 ## Distributions
 
 - [KISS](https://getkiss.org/)
@@ -91,3 +89,4 @@ Never used it as my main OS but I do want to explore it more in the future.
 - [Pretty and functional linux/unix desktop for former Mac users/Design freaks](https://github.com/milgra/tutorials/blob/master/pretty-and-functional-linux-destkop.md)
 - [Ask HN: How can a intermediate-beginner learn Unix/Linux and programming? (2020)](https://news.ycombinator.com/item?id=22649291)
 - [systemd](https://github.com/systemd/systemd) - System and Service Manager.
+- [Speeding up Linux disk encryption (2020)](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/) ([HN](https://news.ycombinator.com/item?id=22683750))

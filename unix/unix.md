@@ -23,3 +23,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml) - Collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users. ([HN](https://news.ycombinator.com/item?id=10022729))
 - [Using ptrace To Call a Userspace Function](https://github.com/eklitzke/ptrace-call-userspace)
 - [EOF is not a character (2020)](https://ruslanspivak.com/eofnotchar/) ([HN](https://news.ycombinator.com/item?id=22557412))
+- [How are Unix pipes implemented? (2020)](https://toroid.org/unix-pipe-implementation)

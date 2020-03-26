@@ -47,3 +47,4 @@
 - [Fast Software, the Best Software](https://craigmod.com/essays/fast_software/)
 - [Image CDNs can save 40-80% on image byte sizes by automating best practices](https://twitter.com/addyosmani/status/1232983718353981440)
 - [Web Performance Working Group](https://www.w3.org/webperf/) ([Code](https://github.com/w3c/web-performance))
+- [Why We Started Putting Unpopular Assets in Memory](https://blog.cloudflare.com/why-we-started-putting-unpopular-assets-in-memory/) ([Lobsters](https://lobste.rs/s/ka92bs/why_we_started_putting_unpopular_assets))

@@ -66,3 +66,5 @@
 - [What I've learned creating a React Native performance monitor (2020)](https://bullet-train.io/blog/react-native-performance-monitor)
 - [Hacks for creating production level apps with React Native (2018)](https://medium.com/free-code-camp/here-are-my-favorite-hacks-for-creating-production-level-apps-with-react-native-6f0369d879b2)
 - [React Native Fit Image](https://github.com/huiseoul/react-native-fit-image) - Responsive image component to fit perfectly itself.
+- [react-native-app-link](https://github.com/FiberJW/react-native-app-link) - Easily link to other apps with React Native.
+- [@react-native-community/bob](https://github.com/react-native-community/bob) - Simple CLI to scaffold and build React Native libraries for different targets.
