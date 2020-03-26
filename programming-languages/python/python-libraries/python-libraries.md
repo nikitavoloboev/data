@@ -99,6 +99,7 @@
 - [STPyV8](https://github.com/area1/stpyv8) - Allows interop between Python 3 and JavaScript running Google's V8 engine.
 - [LibCST](https://github.com/Instagram/LibCST) - Concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree.
 - [Matplotlib](https://github.com/matplotlib/matplotlib) - Comprehensive library for creating static, animated, and interactive visualizations in Python.
+- [Jug](https://github.com/luispedro/jug) - Parallel programming with Python.
 
 ## Links
 

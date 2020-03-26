@@ -82,3 +82,4 @@
 - [GluonNLP](https://github.com/dmlc/gluon-nlp) - Toolkit that enables easy text preprocessing, datasets loading and neural models building to help you speed up your NLP research.
 - [Finetune](https://github.com/IndicoDataSolutions/finetune) - Scikit-learn style model finetuning for NLP.
 - [Kaldi](https://github.com/kaldi-asr/kaldi) - Speech Recognition Toolkit.
+- [Stanza: A Python Natural Language Processing Toolkit for Many Human Languages (2020)](https://arxiv.org/abs/2003.07082) ([HN](https://news.ycombinator.com/item?id=22663322))

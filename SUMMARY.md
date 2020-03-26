@@ -600,6 +600,7 @@
   - [Gamedev](games/gamedev/gamedev.md)
     - [Game engines](games/gamedev/game-engines/game-engines.md)
       - [Godot](games/gamedev/game-engines/godot.md)
+      - [Unity](games/gamedev/game-engines/unity.md)
   - [Board games](games/board-games.md)
   - [Chess](games/chess.md)
   - [Minecraft](games/minecraft.md)

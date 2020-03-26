@@ -130,6 +130,7 @@
 - [YC Startup Resources](https://www.ycombinator.com/resources/)
 - [Ask HN: How to Do a Startup in 2020?](https://news.ycombinator.com/item?id=22375567)
 - [Hard Startups (2020)](https://blog.samaltman.com/hard-startups) ([HN](https://news.ycombinator.com/item?id=22425745))
+- [YC Companies](https://www.ycombinator.com/companies/)
 
 ## Images
 

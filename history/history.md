@@ -16,3 +16,5 @@
 - [The Soul of a New Machine: Rethinking the Computer (2020)](https://www.youtube.com/watch?v=vvZA9n3e5pc)
 - [The History of the URL (2020)](https://blog.cloudflare.com/the-history-of-the-url/) ([HN](https://news.ycombinator.com/item?id=22493216))
 - [A secret call to Andy Grove that may have helped Apple buy NeXT (2018)](https://www.cake.co/conversations/g4CP6zJ/the-secret-call-to-andy-grove-that-may-have-helped-apple-buy-next) ([HN](https://news.ycombinator.com/item?id=22629763))
+- [When Einstein Was Just Another Physicist](https://lareviewofbooks.org/article/when-einstein-was-just-another-physicist/) ([HN](https://news.ycombinator.com/item?id=22681773))
+- [BBC Computer Literacy Project 1980 – 1989](https://clp.bbcrewind.co.uk/) ([HN](https://news.ycombinator.com/item?id=22683158))

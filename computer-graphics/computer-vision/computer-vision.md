@@ -30,3 +30,5 @@
 - [PolyGen: An Autoregressive Generative Model of 3D Meshes (2020)](https://arxiv.org/abs/2002.10880)
 - [Sophus](https://github.com/strasdat/Sophus) - C++ implementation of Lie Groups using Eigen.
 - [SOLT](https://github.com/MIPT-Oulu/solt) - Streaming over lightweight data transformations.
+- [Awesome Interaction-aware Behavior and Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction#readme)
+- [SynSin: End-to-end View Synthesis from a Single Image (2020)](http://www.robots.ox.ac.uk/~ow/synsin.html) ([Code](https://github.com/facebookresearch/synsin))

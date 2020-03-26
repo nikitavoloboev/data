@@ -36,6 +36,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Utility
 
+- [vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right.
 - [completion-nvim](https://github.com/haorenW1025/completion-nvim) - Async completion framework aims to provide completion to neovim's built in LSP written in Lua.
 - [WakaTime](https://github.com/wakatime/vim-wakatime) - Automatic time tracking.
 - [Dash](https://github.com/rizzatti/dash.vim) - Search Dash app.

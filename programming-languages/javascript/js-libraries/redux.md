@@ -67,3 +67,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [Redux-First Router](https://github.com/faceyspacey/redux-first-router) - Think of your app in terms of states, not routes or components. Connect your components and just dispatch Flux Standard Actions.
 - [Redux Devtools: tips & tricks for faster debugging (2020)](https://blog.logrocket.com/redux-devtools-tips-tricks-for-faster-debugging/)
 - [Value of Redux Thunks (2020)](https://www.reddit.com/r/reactjs/comments/fmpcou/are_thunks_obsolete/fl5dtvn/?context=3)
+- [How UI-driven State Increases Accidental Complexity (2020)](https://evgenii.info/ui-driven-state/) ([HN](https://news.ycombinator.com/item?id=22680369))

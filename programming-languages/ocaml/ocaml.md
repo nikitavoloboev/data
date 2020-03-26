@@ -33,4 +33,4 @@
 - [Real World OCaml book](https://dev.realworldocaml.org/) - Functional programming for the masses.
 - [Domical](https://github.com/louisabraham/domical) - In-browser OCaml notebooks.
 - [Bisect_ppx](https://github.com/aantron/bisect_ppx) - Code coverage for OCaml and Reason.
-- [An in-depth Look at OCaml’s new “Best-fit” Garbage Collector Strategy (2020)](http://www.ocamlpro.com/2020/03/23/ocaml-new-best-fit-garbage-collector/)
+- [An in-depth Look at OCaml’s new “Best-fit” Garbage Collector Strategy (2020)](http://www.ocamlpro.com/2020/03/23/ocaml-new-best-fit-garbage-collector/) ([HN](https://news.ycombinator.com/item?id=22663297))

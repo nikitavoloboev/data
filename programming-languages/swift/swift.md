@@ -83,3 +83,4 @@
 - [Swift Package Index](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server) - Back end server for the Swift Package Index.
 - [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - VT100/Xterm Terminal emulator in Swift.
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift#readme)
+- [Yak Shaving - Swift Edition (2020)](https://tirania.org/blog/archive/2020/Mar-24.html) ([HN](https://news.ycombinator.com/item?id=22682003))

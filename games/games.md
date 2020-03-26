@@ -10,6 +10,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [A Dark Room](http://adarkroom.doublespeakgames.com/)
 - [Proximity](https://github.com/GoogleChromeLabs/proxx) ([OSS](https://github.com/GoogleChromeLabs/proxx))
 - [Hordes](https://hordes.io/) - Free to play 3D Multiplayer Browsergame in Open Beta.
+- [Skynet Simulator](http://skynetsimulator.com) ([HN](https://news.ycombinator.com/item?id=22685011))
 
 ## Awesome OSS games
 

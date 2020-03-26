@@ -49,3 +49,4 @@
 - [Intuitive and visual guide to understanding Maxwell's equations](https://github.com/photonlines/Intuitive-Guide-to-Maxwells-Equations/blob/master/PDF/An%20Intuitive%20Guide%20to%20Maxwell%27s%20Equations.pdf)
 - [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources#readme) - Listing of useful learning resources for machine learning applications in high energy physics (HEPML).
 - [Explorable Physics](https://landgreen.github.io/physics/index.html) - Course notes for algebra based physics with explorable explanations. ([Code](https://github.com/landgreen/physics))
+- [Ask HN: How to Self Study Physics? (2020)](https://news.ycombinator.com/item?id=22682837)

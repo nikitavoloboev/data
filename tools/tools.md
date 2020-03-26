@@ -4,6 +4,8 @@ I love software and non software tools that help me in some way. Most tools I us
 
 ## Other
 
+- [Screen](https://screen.so/) - Fast screen sharing with multiplayer control, drawing & video. ([HN](https://news.ycombinator.com/item?id=22676040))
+- [Tuple](https://tuple.app/) - Best remote pair programming app on macOS.
 - [Loom](https://www.loom.com/) - Most effective way to get your message across, no matter where you work.
 - [Lark](https://www.larksuite.com/) - Simplest way to create and collaborate.
 - [Graph of Related Subreddits](https://anvaka.github.io/sayit/?query=) ([HN](https://news.ycombinator.com/item?id=22177942))

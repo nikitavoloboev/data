@@ -71,3 +71,4 @@
 - [Automatic peephole optimizer for Cranelift JIT compiler](https://github.com/jubitaneja/codegen)
 - [Let's Build A Simple Interpreter](https://github.com/rspivak/lsbasi)
 - [Introduction to Static Analysis - An Abstract Interpretation Perspective (2020)](https://mitpress.mit.edu/books/introduction-static-analysis)
+- [Zig cc: A drop-in replacement for GCC/Clang (2020)](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html) ([HN](https://news.ycombinator.com/item?id=22679138)) ([Lobsters](https://lobste.rs/s/dw9qyv/zig_cc_powerful_drop_replacement_for_gcc))

@@ -33,6 +33,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [LinkLiar](https://github.com/halo/LinkLiar) - Link-Layer MAC spoofing GUI for macOS.
 - [Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.
 - [Blurred](https://github.com/dwarvesf/Blurred) - macOS utility that helps reduce distraction by dimming your inactive noise.
+- [HackerNews.app](https://github.com/pcr910303/HackerNews) - HN macOS app based on official API.
 
 ## Other interesting apps
 

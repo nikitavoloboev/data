@@ -41,3 +41,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Awesome Zero trust](https://github.com/pomerium/awesome-zero-trust#readme) - Curated collection of awesome resources for the zero-trust security model.
 - [CS 253 Web Security (2019)](https://web.stanford.edu/class/cs253/) ([Videos](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-))
 - [vaulted](https://github.com/miquella/vaulted) - Spawning and storage of secure environments.
+- [Destructive Farm](https://github.com/DestructiveVoice/DestructiveFarm) - Exploit farm for attack-defense CTF competitions.

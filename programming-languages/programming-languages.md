@@ -56,3 +56,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Flow-Charts of Programming Language Constructs (2020)](https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/) ([HN](https://news.ycombinator.com/item?id=22326669))
 - [Bestiary of Single-File Implementations of Programming Languages](https://github.com/marcpaq/b1fipl#readme)
 - [NEAL](https://github.com/uber/NEAL) - Language-independent code analysis tool that aims to enable more people to write quality enforcement rules.
+- [Most(ly dead) Influential Programming Languages (2020)](https://hillelwayne.com/post/influential-dead-languages/) ([HN](https://news.ycombinator.com/item?id=22690229))

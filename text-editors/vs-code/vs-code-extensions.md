@@ -18,8 +18,6 @@ Below is a list of extensions I use.
 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code.
 - [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
-- [React Native](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) - Debugging and integrated commands for React Native. ([Code](https://github.com/microsoft/vscode-react-native))
-- [Flow](https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide) - Flow support.
 
 ## Python
 
@@ -146,6 +144,7 @@ Below is a list of extensions I use.
 
 ## JS/TS
 
+- [React Native](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) - Debugging and integrated commands for React Native. ([Code](https://github.com/microsoft/vscode-react-native))
 - [Deoptigate](https://github.com/rbuckton/deoptigate-vscode) - Visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e. NodeJS, Chrome, etc.).
 - [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search the node_modules folder.
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - Supports [TSLint](https://palantir.github.io/tslint/).
@@ -156,6 +155,7 @@ Below is a list of extensions I use.
 - [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - Autocomplete npm modules in import statements.
 - [js-debug](https://github.com/microsoft/vscode-js-debug) - Upcoming VS Code JavaScript debugger.
 - [VS Code Folder Source Actions](https://github.com/mjbvz/vscode-folder-source-actions) - Adds a context menu that allows you to apply VS Code's organize imports code action to all files in a folder.
+- [Flow](https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide) - Flow support.
 
 ## React
 

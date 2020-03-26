@@ -79,3 +79,4 @@
 - [Math Symbols Explained with Python](https://amitness.com/2019/08/math-for-programmers/) ([HN](https://news.ycombinator.com/item?id=22637402))
 - [MonkeyType](https://github.com/Instagram/MonkeyType) - System for Python that generates static type annotations by collecting runtime types. ([HN](https://news.ycombinator.com/item?id=22624845))
 - [CrossHair](https://github.com/pschanely/CrossHair) - Static analysis tool for Python that blurs the line between testing and type systems.
+- [Introduction to Python and Programming (2020)](https://github.com/webartifex/intro-to-python) ([HN](https://news.ycombinator.com/item?id=22669084))
