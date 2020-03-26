@@ -29,3 +29,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Healthy habits add up to 10 disease-free years to your life, study reveals (2020)](https://www.nhs.uk/news/lifestyle-and-exercise/healthy-habits-add-10-disease-free-years-your-life-study-reveals/) ([HN](https://news.ycombinator.com/item?id=22037516))
 - [Progress of anti-aging therapies by clinical trial stage](https://www.lifespan.io/road-maps/the-rejuvenation-roadmap/) ([HN](https://news.ycombinator.com/item?id=22066494))
 - [The Longevity FAQ (2020)](https://nintil.com/longevity/)
+- [Age Reversal Forum](https://forum.age-reversal.net/)

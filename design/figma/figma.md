@@ -14,3 +14,5 @@
 - [Config 2020 - Keynote](https://www.youtube.com/watch?v=xL_ruBAwVmo)
 - [Reflections on Config, our first user conference (2020)](https://www.youtube.com/playlist?list=PLXDU_eVOJTx4UHprj9iYPBu4agz8HiB66)
 - [Awesome Figma Tips](https://awesomefigmatips.com/)
+- [Figma profile page designs](https://www.figma.com/@figma)
+- [Figma Design Principles](https://www.figma.com/community/file/817913152610525667)

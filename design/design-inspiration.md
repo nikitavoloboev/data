@@ -81,6 +81,7 @@ Here are few more things I liked, design wise.
 - [Mark McGranaghan](https://markmcgranaghan.com/)
 - [Mackenzie Child](https://www.mackenziechild.me/)
 - [Marvin Hagemeister](https://marvinh.dev/)
+- [Nienke Dekker](https://nienke.dev/)
 - [Jon Gjengset](https://thesquareplanet.com/)
 - [Robert Squires](https://robertsquires.co.uk/)
 - [Kabir Shah](https://kabir.sh/)

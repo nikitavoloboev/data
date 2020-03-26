@@ -44,7 +44,7 @@
 - [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController.
 - [Direct Select](https://github.com/Swasidhant/DirectSelect) - iOS implementation of Direct Select by Virgil Pana.
 - [Jelly](https://github.com/SebastianBoldt/Jelly) - Library for animated, non-interactive & interactive viewcontroller transitions and presentations.
-- [RKCalendar](https://github.com/RaffiKian/RKCalendar) - SwiftUI Simple Calendar / Date Picker for iOS.
+- [PlayerKit](https://github.com/vimeo/PlayerKit) - Modular video player system for iOS and tvOS.
 
 ## Web
 
@@ -64,6 +64,8 @@
 - [SwiftUI Shapes](https://github.com/spacenation/swiftui-shapes) - Collection of custom shapes for iOS and macOS.
 - [ASCollectionView](https://github.com/apptekstudios/ASCollectionView) - SwiftUI collection view with support for custom layouts, preloading, and more.
 - [SwiftUI Environment Overrides](https://github.com/nalexn/EnvironmentOverrides) - QA assistant for a SwiftUI app: change the color scheme, accessibility settings, and localization on the fly.
+- [RKCalendar](https://github.com/RaffiKian/RKCalendar) - SwiftUI Simple Calendar / Date Picker for iOS.
+- [AStack](https://github.com/zntfdr/AStack) - Missing SwiftUI Adaptive and Accessible Stacks Library.
 
 ## macOS
 

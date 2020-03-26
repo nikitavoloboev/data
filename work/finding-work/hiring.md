@@ -5,6 +5,10 @@
 - [Skyscanner](https://github.com/Skyscanner/full-stack-recruitment-test)
 - [Otta](https://github.com/XavKearney/otta-engineering-interview-task)
 
+## Nice Job pages
+
+- [Linear - In Search of Magic](https://linear.app/readme)
+
 ## Links
 
 - [Hiring and the market for lemons](http://danluu.com/hiring-lemons/)

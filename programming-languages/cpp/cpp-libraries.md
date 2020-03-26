@@ -72,3 +72,4 @@
 - [RTTR](https://github.com/rttrorg/rttr) - C++ Reflection Library.
 - [lager](https://github.com/arximboldi/lager) - C++ library for value-oriented design using the unidirectional data-flow architecture (Redux for C++).
 - [Heteroflow](https://github.com/Heteroflow/Heteroflow) - Header-only C++ library to help you quickly write concurrent CPU-GPU programs using task models.
+- [GEOS](https://github.com/libgeos/geos) - C++11 library for performing operations on two-dimensional vector geometries.

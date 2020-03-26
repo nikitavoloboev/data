@@ -60,6 +60,7 @@
 - [Memory-Efficient Search Trees for Database Management Systems (2020)](http://reports-archive.adm.cs.cmu.edu/anon/2020/CMU-CS-20-101.pdf) ([HN](https://news.ycombinator.com/item?id=22543125))
 - [ShareDB](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT).
 - [Irmin](https://irmin.org/) - Distributed database built on the same principles as Git. ([Code](https://github.com/mirage/irmin)) ([HN](https://news.ycombinator.com/item?id=22591949))
+- [Noms](https://github.com/attic-labs/noms) - Decentralized database philosophically descendant from the Git version control system.
 
 ## Tools
 
@@ -90,7 +91,7 @@
 - [Prisma Framework](https://github.com/prisma/prisma2) - Database framework enabling type-safe data access, schema migrations and development workflows.
 - [List of software that turns your database into a REST/GraphQL API](https://github.com/dbohdan/automatic-api)
 - [What Are Databases? (2019)](https://www.prisma.io/blog/introduction-to-databases-jmt9jwidtc2a)
-- [Advanced Database Systems (2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U) ([Other courses](https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA/playlists)) ([Web](https://15445.courses.cs.cmu.edu/fall2019/))
+- [Advanced Database Systems (2019)](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U) ([Other courses](https://www.youtube.com/channel/UCHnBsf2rH-K7pn09rb3qvkA/playlists)) ([Web](https://15445.courses.cs.cmu.edu/fall2019/)) ([Code](https://github.com/cmu-db/bustub))
 - [Facebook Scuba, MongoDB, CockroachDB (CMU Databases Systems lecture) (2019)](https://www.youtube.com/watch?v=XB53N2eIAig)
 - [DB](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line. ([HN](https://news.ycombinator.com/item?id=21742222))
 - [Why databases use ordered indexes but programming uses hash tables (2019)](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)

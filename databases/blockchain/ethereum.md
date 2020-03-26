@@ -32,3 +32,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ethereum peer-to-peer networking specifications](https://github.com/ethereum/devp2p)
 - [ETH 2.0 educational resources](https://github.com/protolambda/eth2-docs#readme)
 - [Tools for dapps](https://dapp.tools/) - Command-line-friendly tools for blockchain development. ([Code](https://github.com/dapphub/dapptools))
+- [Common utilities for Ethereum](https://github.com/status-im/nim-eth)

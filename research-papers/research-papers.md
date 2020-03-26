@@ -32,5 +32,5 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [arxiv2remarkable.py](https://github.com/GjjvdBurg/arxiv2remarkable) - Fetch an arXiv/PubMed/ACM/OpenReview/Springer paper and send it to the reMarkable.
 - [Some papers](http://worrydream.com/refs/)
 - [OpenReview](https://openreview.net/) - Aims to promote openness in scientific communication, particularly the peer review process.
-- [Zotero](https://www.zotero.org/) - Personal research assistant. ([HN](https://news.ycombinator.com/item?id=22694891))
+- [Zotero](https://www.zotero.org/) - Personal research assistant. ([HN](https://news.ycombinator.com/item?id=22694891)) ([Code](https://github.com/zotero/zotero))
 - [Better BibTeX for Zotero](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts.

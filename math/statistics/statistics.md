@@ -19,3 +19,4 @@
 - [Is it a bad idea to try to predict the stock market with linear regression? (2020)](https://www.reddit.com/r/statistics/comments/fiu6a3/question_is_it_a_bad_idea_to_try_to_predict_the/)
 - [Statistical Rethinking: A Bayesian Course Using R and Stan (2019)](https://github.com/rmcelreath/statrethinking_winter2019)
 - [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+- [Michael I. Jordan statistics courses](https://people.eecs.berkeley.edu/~jordan/courses.html)

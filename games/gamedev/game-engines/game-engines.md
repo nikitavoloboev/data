@@ -23,6 +23,7 @@
 - [Untold Engine](https://github.com/untoldengine/UntoldEngine) - Easy to use, open source, 3D game engine for iOS/macOS game development.
 - [Box2D](https://github.com/erincatto/box2d) - 2D physics engine for games.
 - [RG3D](https://github.com/mrDIMAS/rg3d) - 3D game engine written in Rust.
+- [ResidualVM](https://github.com/residualvm/residualvm) - 3D game interpreter.
 
 ## Links
 
