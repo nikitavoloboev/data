@@ -8,3 +8,4 @@
 - [SARS-CoV-2 Sequencing Resources](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
 - [YC Companies Responding to COVID-19](https://www.ycombinator.com/covid) ([HN](https://news.ycombinator.com/item?id=22687131))
 - [Global Coronavirus Cases](https://coronavirus.projectpage.app/)
+- [COVID-19 - Protecting your family (2020)](https://vimeo.com/399733860)

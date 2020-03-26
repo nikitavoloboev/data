@@ -18,3 +18,4 @@
 - [A secret call to Andy Grove that may have helped Apple buy NeXT (2018)](https://www.cake.co/conversations/g4CP6zJ/the-secret-call-to-andy-grove-that-may-have-helped-apple-buy-next) ([HN](https://news.ycombinator.com/item?id=22629763))
 - [When Einstein Was Just Another Physicist](https://lareviewofbooks.org/article/when-einstein-was-just-another-physicist/) ([HN](https://news.ycombinator.com/item?id=22681773))
 - [BBC Computer Literacy Project 1980 – 1989](https://clp.bbcrewind.co.uk/) ([HN](https://news.ycombinator.com/item?id=22683158))
+- [The Putin Files: Julia Ioffe (2017)](https://www.youtube.com/watch?v=b1HWNcLDK88)

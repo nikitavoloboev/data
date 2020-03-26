@@ -35,3 +35,4 @@
 - [Fauna](https://fauna.com/) - Database built for serverless, featuring native GraphQL.
 - [OpenFaaS](https://www.openfaas.com/) - Makes it simple to deploy both functions and existing code to Kubernetes.
 - [Serverless](https://serverless.com/) - Serverless application framework powered by AWS Lambda. ([Code](https://github.com/serverless/serverless))
+- [Is Google Cloud Run really Knative? (2020)](https://ahmet.im/blog/cloud-run-is-a-knative/)
