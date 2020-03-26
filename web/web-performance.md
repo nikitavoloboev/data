@@ -48,3 +48,4 @@
 - [Image CDNs can save 40-80% on image byte sizes by automating best practices](https://twitter.com/addyosmani/status/1232983718353981440)
 - [Web Performance Working Group](https://www.w3.org/webperf/) ([Code](https://github.com/w3c/web-performance))
 - [Why We Started Putting Unpopular Assets in Memory](https://blog.cloudflare.com/why-we-started-putting-unpopular-assets-in-memory/) ([Lobsters](https://lobste.rs/s/ka92bs/why_we_started_putting_unpopular_assets))
+- [Statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins.

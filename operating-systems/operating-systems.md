@@ -79,3 +79,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [HiddenVM](https://github.com/aforensics/HiddenVM) - Use any desktop OS without leaving a trace.
 - [Programmer's critique of missing structure of operating systems (2020)](http://blog.rfox.eu/en/Programmer_s_critique_of_missing_structure_of_oper.html)
 - [LeetCode OS Questions](https://leetcode.com/discuss/interview-question/operating-system?currentPage=1&orderBy=most_votes&query=)
+- [DLS: Functional Foundations for Operating Systems course (2018)](https://blogs.cs.st-andrews.ac.uk/csblog/2018/01/24/dls-functional-foundations-for-operating-systems/)
