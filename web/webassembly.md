@@ -63,3 +63,5 @@
 - [Evolving Wasm into a proper misnomer: Andreas Rossberg (2019)](https://www.youtube.com/watch?v=pq-Pa2Fj4nE&t=40s)
 - [Actually Using WASM](https://wiki.alopex.li/ActuallyUsingWasm)
 - [asm-dom](https://github.com/mbasso/asm-dom) - Minimal WebAssembly virtual DOM to build C++ SPA (Single page applications).
+- [Firefox's low-latency webassembly compiler (2020)](http://wingolog.org/archives/2020/03/25/firefoxs-low-latency-webassembly-compiler)
+- [Bulk Memory Operations Proposal for WebAssembly](https://github.com/WebAssembly/bulk-memory-operations)

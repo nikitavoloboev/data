@@ -26,3 +26,4 @@
 - [RouterSploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices.
 - [Ethernut Project](http://www.ethernut.de/index.html) - Open Source Hardware and Software Project for building tiny Embedded Ethernet Devices.
 - [OpenTitan](https://github.com/lowRISC/opentitan) - Open source silicon root of trust. ([Web](https://opentitan.org/))
+- [bare-metal](https://github.com/rust-embedded/bare-metal) - Abstractions common to bare metal systems.

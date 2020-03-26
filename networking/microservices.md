@@ -30,3 +30,4 @@
 - [Squash](https://github.com/solo-io/squash) - Debugger for microservices.
 - [Blanket Solutions and Microservices](https://www.stopa.io/post/236)
 - [Consistency is Consistently Undervalued (2016)](http://kevinmahoney.co.uk/articles/consistency-consistently-undervalued/)
+- [Open Application Model Specification](https://oam.dev/) - Specification for building cloud native applications. ([Code](https://github.com/oam-dev/spec))

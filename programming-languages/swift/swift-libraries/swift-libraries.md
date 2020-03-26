@@ -5,6 +5,7 @@
 - [Swift Argument Parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
 - [SwiftCLI](https://github.com/jakeheis/SwiftCLI) - Powerful framework for developing CLIs in Swift.
 - [Brisk](https://github.com/twostraws/Brisk) - Proof of concept scripting library for Swift.
+- [Ashen](https://github.com/colinta/Ashen) - Framework for writing terminal applications in Swift.
 
 ## Animation
 
@@ -215,6 +216,7 @@
 - [SwiftSH](https://github.com/Frugghi/SwiftSH) - Swift SSH framework that wraps libssh2.
 - [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 - [UILabel+Copyable](https://github.com/alexandreos/UILabel-Copyable) - Simple UILabel category meant to add copy functionality to it.
+- [Networking](https://github.com/freshOS/Networking) - Elegantly connect a JSON API. (URLSession + Combine + Generics).
 
 ## Other (not lib)
 
@@ -224,3 +226,4 @@
 
 - [SwiftPM Library](https://swiftpm.co/) - Place to find packages for Swift. ([Code](https://github.com/daveverwer/SwiftPMLibrary))
 - [Ice](https://github.com/jakeheis/Ice) - Developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
+- [freshOS](https://freshos.github.io/) - 100% Open Source iOS Toolset.

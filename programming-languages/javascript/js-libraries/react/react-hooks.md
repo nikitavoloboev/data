@@ -68,3 +68,4 @@
 - [A journey through the implementation of the useState hook](https://www.newline.co/@CarlMungazi/a-journey-through-the-usestate-hook--a4983397)
 - [Why I almost always`useMemo` and `useCallback` (2020)](https://dev.to/andyrichardsonn/why-i-almost-always-usememo-and-usecallback-4776)
 - [The three core React hook features (2019)](https://bypaulshen.com/posts/react-hooks-core-api)
+- [Hooks’ Macro](https://github.com/yuchi/hooks.macro) - Babel Macros for React Hooks automatic memoization invalidation.

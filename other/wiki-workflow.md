@@ -122,3 +122,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Hackpad](https://github.com/dropbox/hackpad) - Web-based realtime wiki, based on the open source EtherPad collaborative document editor.
 - [Human Programming Interface (2020)](https://lobste.rs/s/vzkb7a/human_programming_interface_python) - My life in a Python package.
 - [Emvi](https://emvi.com/) - Knowledge management platform for companies and teams.
+- [Human Programming Interface: My life in a Python package (2020)](https://beepb00p.xyz/hpi.html)

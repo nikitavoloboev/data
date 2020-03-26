@@ -168,3 +168,5 @@
 - [Kubelive](https://github.com/ameerthehacker/kubelive) - kubectl tool reinvented to be more reactive and interactive.
 - [Lens](https://github.com/lensapp/lens) - Kubernetes IDE. ([Web](https://k8slens.dev/))
 - [Rancher Kubernetes Engine (RKE)](https://github.com/rancher/rke) - Extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
+- [Prometheus Operator](https://github.com/coreos/prometheus-operator) - Creates/configures/manages Prometheus clusters atop Kubernetes.
+- [Rudr](https://github.com/oam-dev/rudr) - Kubernetes Implementation of the Open Application Model.

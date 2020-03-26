@@ -9,6 +9,7 @@
 - [Dask JupyterLab Extension](https://github.com/dask/dask-labextension) - Provides a JupyterLab extension to manage Dask clusters, as well as embed Dask's dashboard plots directly into JupyterLab panes.
 - [JupyterLab debugger UI extension](https://github.com/jupyterlab/debugger)
 - [Vim notebook cell bindings for JupyterLab](https://github.com/jwkvam/jupyterlab-vim)
+- [Swift-Jupyter](https://github.com/google/swift-jupyter) - Jupyter Kernel for Swift, intended to make it possible to use Jupyter with the Swift for TensorFlow project.
 
 ## Links
 

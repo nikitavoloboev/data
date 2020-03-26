@@ -37,7 +37,6 @@
 - [Guy Kawasaki: The Top 10 Mistakes of Entrepreneurs](https://www.youtube.com/watch?v=HHjgK6p4nrw)
 - [Ines Montani - How to Ignore Most Startup Advice and Build a Decent Software Business (2018)](https://www.youtube.com/watch?v=74AsJ7RET20)
 - [Run less software](https://www.intercom.com/blog/run-less-software/)
-- [Equity Compensation Guide](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference, including hundreds of resources, explained from the ground up and made to be improved over time.
 - [Robert Vis (MessageBird): Bootstrapped & Profitable (2017)](https://www.youtube.com/watch?v=dxArUeYVaJQ)
 - [The Greatest Sales Deck I’ve Ever Seen (2016)](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
 - [Reflections from the last 2 years as a founder (2018)](https://canny.io/blog/reflections-two-year-founder/)
@@ -91,7 +90,7 @@
 - [Data-Driven Approach to Uncover the Secrets of Billion Dollar Startups (2018)](https://medium.com/@alitamaseb/land-of-the-super-founders-a-data-driven-approach-to-uncover-the-secrets-of-billion-dollar-a69ebe3f0f45)
 - [The Holloway Syllabus on Company Culture](https://www.holloway.com/s/syllabus-company-culture)
 - [Sequencing Business Models: Can That SAAS Business Turn Into a Marketplace? (2019)](https://caseyaccidental.com/saas-marketplace/)
-- [Equity Compensation Guide](https://www.holloway.com/g/equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference. ([HN](https://news.ycombinator.com/item?id=10880726))
+- [Equity Compensation Guide](https://www.holloway.com/g/equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference. ([HN](https://news.ycombinator.com/item?id=22373906)) ([HN 2](https://news.ycombinator.com/item?id=10880726)) ([Code](https://github.com/jlevy/og-equity-compensation))
 - [Kevin Systrom and Mike Krieger – How to Build a Great Product (2019)](https://overcast.fm/+Lzu3n3SHk)
 - [What skills do founders find most crucial for running their businesses? (2019)](https://www.indiehackers.com/post/what-skills-do-founders-find-most-crucial-for-running-their-businesses-e95d99d9ff)
 - [Our Startup Handbook](https://versionone.vc/startup-handbook/) ([HN](https://news.ycombinator.com/item?id=21641114))

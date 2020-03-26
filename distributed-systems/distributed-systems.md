@@ -67,3 +67,4 @@
 - [Distributed Systems Wiki](https://distributed.systems.wiki/) ([Code](https://github.com/DistributedSystemsWiki/wiki))
 - [Jepsen](https://jepsen.io/) - Distributed Systems Safety Research.
 - [ION](https://github.com/pion/ion) - Distributed RTC system written by pure go and flutter.
+- [Challenges with distributed systems](https://aws.amazon.com/builders-library/challenges-with-distributed-systems/) ([HN](https://news.ycombinator.com/item?id=22382066))

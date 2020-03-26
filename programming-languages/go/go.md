@@ -216,3 +216,4 @@ Go promotes composition over inheritance.
 - [Illustrated Tales of Go Runtime Scheduler (2020)](https://medium.com/@ankur_anand/illustrated-tales-of-go-runtime-scheduler-74809ef6d19b)
 - [Google Cloud Platform Go Samples](https://github.com/GoogleCloudPlatform/golang-samples)
 - [prealloc](https://github.com/alexkohler/prealloc) - Go static analysis tool to find slice declarations that could potentially be preallocated.
+- [Why you shouldn't use func main in Go](https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer) ([Lobsters](https://lobste.rs/s/nvjvm0/why_you_shouldn_t_use_func_main_go))

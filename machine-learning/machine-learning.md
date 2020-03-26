@@ -188,7 +188,7 @@
 - [Privacy Preserving AI (Andrew Trask) (2020)](https://www.youtube.com/watch?v=4zrU54VIK6k)
 - [Emil’s Story as a Self-Taught AI Researcher (2020)](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/)
 - [Humans of Machine Learning](https://blog.floydhub.com/tag/humans-of-ml/)
-- [Machine Learning Flashcards](https://machinelearningflashcards.com/)
+- [Machine Learning Flashcards](https://machinelearningflashcards.com/) ([HN](https://news.ycombinator.com/item?id=22629959))
 - [Awesome Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme)
 - [Curated list of awesome data labeling tools](https://github.com/heartexlabs/awesome-data-labeling#readme)
 - [Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence (2020)](https://arxiv.org/abs/2002.04803)

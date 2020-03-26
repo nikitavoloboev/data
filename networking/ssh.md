@@ -18,3 +18,4 @@
 - [rtop-bot](https://github.com/rapidloop/rtop-bot) - Bot for Remote Server Monitoring over SSH.
 - [Awesome SSH](https://github.com/moul/awesome-ssh#readme)
 - [ssh-vault](https://github.com/ssh-vault/ssh-vault) - Encrypt/decrypt using ssh keys.
+- [Secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave.

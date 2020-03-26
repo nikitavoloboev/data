@@ -26,6 +26,7 @@
 - [WikipediaKit](https://github.com/Raureif/WikipediaKit) - API Client Framework for Swift.
 - [Zendesk Go](https://github.com/nukosuke/go-zendesk) - Zendesk API client library for Go.
 - [Cantine](https://github.com/caio/cantine) - Cooking recipe search JSON API with over a million recipes.
+- [Binding and CLI generator for all google APIs](https://github.com/google-apis-rs/generator)
 
 ## Links
 

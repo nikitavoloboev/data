@@ -164,3 +164,4 @@
 - [Rust Design Patterns](https://github.com/lpxxn/rust-design-pattern)
 - [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/) ([Code](https://github.com/rust-lang/rustc-dev-guide))
 - [Rust For Systems Programmers](https://github.com/nrc/r4cppp#readme)
+- [Rust Latam: procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop)

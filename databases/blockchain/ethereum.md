@@ -30,3 +30,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [0x API](https://github.com/0xProject/0x-api) - HTTP Interface to 0x liquidity and tooling.
 - [Rainbow](https://github.com/rainbow-me/rainbow) - Pocket robot for your internet money, powered by Ethereum.
 - [Ethereum peer-to-peer networking specifications](https://github.com/ethereum/devp2p)
+- [ETH 2.0 educational resources](https://github.com/protolambda/eth2-docs#readme)
+- [Tools for dapps](https://dapp.tools/) - Command-line-friendly tools for blockchain development. ([Code](https://github.com/dapphub/dapptools))

@@ -45,6 +45,7 @@
 - [Diesel](https://github.com/diesel-rs/diesel) - Safe, extensible ORM and Query Builder.
 - [postgres-query](https://github.com/nolanderc/rust-postgres-query) - Write and execute SQL queries with ease.
 - [Rusqlite](https://github.com/jgallagher/rusqlite) - Ergonomic bindings to SQLite for Rust.
+- [Wundergraph](https://github.com/weiznich/wundergraph) - Provides a platform to easily expose your database through a GraphQL interface.
 
 ## Graphics
 
@@ -287,6 +288,7 @@
 - [cargo-profiler](https://github.com/svenstaro/cargo-profiler) - Cargo subcommand to profile binaries.
 - [cargo-outdated](https://github.com/kbknapp/cargo-outdated) - Cargo subcommand for displaying when Rust dependencies are out of date.
 - [cargo-modules](https://github.com/regexident/cargo-modules) - Cargo plugin for showing a tree-like overview of a crate's modules.
+- [cargo-tree](https://github.com/sfackler/cargo-tree) - Cargo subcommand that visualizes a crate's dependency graph in a tree-like format.
 
 ## Links
 

@@ -10,6 +10,7 @@
 - [Automating Creativity Why? (2018)](https://www.youtube.com/watch?v=6trxEG2wHT8)
 - [Ask HN: What do you automate in your life and work? (2019)](https://news.ycombinator.com/item?id=21373931)
 - [RobotJS](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
+- [Ask HN: What automation tools have you used to replace mundane activities? (2020)](https://news.ycombinator.com/item?id=22345150)
 
 ## Images
 

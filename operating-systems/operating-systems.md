@@ -27,6 +27,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket) - Free and open-source Linux-based operating system meant for hosting containers.
 - [XNU kernel](https://github.com/apple/darwin-xnu) - Part of the Darwin operating system for use in macOS and iOS operating systems.
 - [Haiku](https://github.com/haiku/haiku) - Open-source operating system that specifically targets personal computing.
+- [Pebble](https://github.com/IsaacWoods/pebble) - Microkernel and userspace written in Rust, with first-class message passing.
 
 ## Emulators
 
