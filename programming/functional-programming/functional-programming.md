@@ -65,6 +65,7 @@
 - [Functional Programming for Domain-Specific Languages](http://www.cs.ox.ac.uk/jeremy.gibbons/publications/fp4dsls.pdf)
 - [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)
 - [Effect Handlers via Generalised Continuations (2020)](http://homepages.inf.ed.ac.uk/slindley/papers/ehgc.pdf)
+- [The general value of typed functional programming lies in leaving no edge cases](https://np.reddit.com/r/scala/comments/en89or/when_should_i_use_cats_scalaz_instead_of_standard/fdxer1k/) ([HN](https://news.ycombinator.com/item?id=22403625))
 
 ## Images
 

@@ -16,3 +16,4 @@
 - [Awesome Figma Tips](https://awesomefigmatips.com/)
 - [Figma profile](https://www.figma.com/@figma)
 - [Figma Design Principles](https://www.figma.com/community/file/817913152610525667)
+- [Figmalion](https://figmalion.com/) - Curated newsletter collecting interesting links about Figma.

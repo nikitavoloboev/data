@@ -368,6 +368,7 @@
   - [E-commerce](economy/e-commerce.md)
 - [Governance](governance/governance.md)
   - [Politics](governance/politics.md)
+  - [Law](governance/law.md)
 - [Consciousness](consciousness/consciousness.md)
   - [Ego](consciousness/ego.md)
 - [Drugs](drugs/drugs.md)
