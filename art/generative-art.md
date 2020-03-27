@@ -29,3 +29,4 @@
 - [Generative Hut](https://www.generativehut.com/) - Home of generative art.
 - [Dacein](https://github.com/szymonkaliski/dacein) - Experimental creative coding IDE. ([Article](https://szymonkaliski.com/log/2019-03-01-building-dacein/))
 - [AI for 3D Generative Design (2020)](https://blog.insightdatascience.com/ai-for-3d-generative-design-17503d0b3943) ([HN](https://news.ycombinator.com/item?id=22640407))
+- [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art#readme)

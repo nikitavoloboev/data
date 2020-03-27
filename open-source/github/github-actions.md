@@ -11,6 +11,7 @@
 - [Lighthouse Auditing](https://github.com/jakejarvis/lighthouse-action) - Integrates Google's helpful Lighthouse audits for webpages — specifically testing for Performance, Accessibility, Best Practices, SEO, and Progressive Web Apps.
 - [merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merge Pull Requests created from a GitHub account.
 - [upload-artifact](https://github.com/actions/upload-artifact) - Uploads artifacts from your workflow.
+- [download-artifact](https://github.com/actions/download-artifact) - Downloads artifacts from your build.
 - [action-project-manager](https://github.com/jason0x43/action-project-manager) - Relativley simple a GitHub Action that can be used to manage issues in a project.
 - [compressed-size-action](https://github.com/preactjs/compressed-size-action) - GitHub Action that adds compressed size changes to your PRs.
 - [GitHub Action for Continuous Benchmarking](https://github.com/rhysd/github-action-benchmark)
@@ -21,6 +22,10 @@
 - [GitHub Pages Deploy Action](https://github.com/JamesIves/github-pages-deploy-action)
 - [GitHub Action for the OCaml programming language](https://github.com/avsm/setup-ocaml)
 - [Upload Release Asset](https://github.com/actions/upload-release-asset) - Action to upload a release asset via the GitHub Release API.
+
+## Go
+
+- [gobenchdata](https://github.com/bobheadxi/gobenchdata) - Tool for inspecting go test -bench data, and a GitHub Action for continuous benchmarking.
 
 ## Rust
 

@@ -20,3 +20,4 @@
 - [Blockstream Satellite Receiver](https://github.com/Blockstream/satellite)
 - [State of Digital Assets: Keynote by Cathie Wood (2020)](https://www.youtube.com/watch?v=c50TMCKsktA&t=8s)
 - [SatoshiLabs Improvement Proposals](https://github.com/satoshilabs/slips#readme)
+- [Polar](https://github.com/jamaljsr/polar) - One-click Bitcoin Lightning networks for local app development & testing.

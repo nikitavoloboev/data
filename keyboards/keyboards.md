@@ -50,3 +50,4 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Weird Keyboards, Programmable Keyboards (2020)](https://blog.gboards.ca/2020/01/weird-keyboards-programmable-keyboards.html) ([Lobsters](https://lobste.rs/s/cyuguu/weird_keyboards_programmable_keyboards))
 - [Guidelines for designing a custom Topre keyboard](https://github.com/tomsmalley/custom-topre-guide)
 - [A New, Experimental User Interface](https://emvi.com/blog/a-new-experimental-user-interface-QMZgmZG1L5) ([HN](https://news.ycombinator.com/item?id=22640054))
+- [Keyboard recommendations (2020)](https://lobste.rs/s/8deiib/keyboard_recommendations)
