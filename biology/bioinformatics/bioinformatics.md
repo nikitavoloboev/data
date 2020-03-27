@@ -31,3 +31,4 @@
 - [BiGG Models](http://bigg.ucsd.edu/) - Search the database by model, reaction, metabolite, or gene. ([Code](https://github.com/sbrg/bigg_models))
 - [Systems Biology and Biotechnology Specialization course](https://www.coursera.org/specializations/systems-biology)
 - [Path to a free self-taught education in Bioinformatics](https://github.com/ossu/bioinformatics#readme)
+- [How to Build a Biotech](https://www.celinehh.com/biotech)

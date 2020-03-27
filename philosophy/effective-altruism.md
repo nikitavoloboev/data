@@ -20,3 +20,4 @@
 - [Effective Altruism Is The Nerdy Social Movement That Teaches People How To Do Good Better](https://www.forbes.com/sites/davidebanis/2018/11/15/effective-altruism-is-the-nerdy-social-movement-that-teaches-people-how-to-do-good-better/#5fbf5226666c) - [Reddit discussion](https://www.reddit.com/r/philosophy/comments/9xyjee/effective_altruism_is_the_nerdy_social_movement/).
 - [Open Philanthropy Project](https://www.openphilanthropy.org/) - With mission of giving as effectively as we can and share our findings openly so that anyone can build on our work.
 - [Momentum](https://givemomentum.com/) - Make automatic donations that transform ordinary moments into opportunities for meaningful change.
+- [Giving](https://www.benkuhn.net/ea/)

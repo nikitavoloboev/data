@@ -24,3 +24,4 @@
 - [dotcom-rendering](https://github.com/guardian/dotcom-rendering) - Frontend rendering framework for theguardian.com. It uses React, with Emotion for styling.
 - [Front-End Conferences](https://github.com/frontendfront/front-end-conferences#readme) - List of upcoming front-end related conferences.
 - [Microfrontends made easy](https://github.com/single-spa/single-spa)
+- [Frontend Lobsters, what are your pet peeves about the languages / frameworks you use? (2020)](https://lobste.rs/s/7jwneg/frontend_lobsters_what_are_your_pet)
