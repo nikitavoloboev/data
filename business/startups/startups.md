@@ -131,6 +131,7 @@
 - [Hard Startups (2020)](https://blog.samaltman.com/hard-startups) ([HN](https://news.ycombinator.com/item?id=22425745))
 - [YC Companies](https://www.ycombinator.com/companies/)
 - [Failory](https://www.failory.com/) - Content to help you build a profitable startup.
+- [You don’t need to work on hard problems](https://www.benkuhn.net/hard/) ([HN](https://news.ycombinator.com/item?id=22398118))
 
 ## Images
 

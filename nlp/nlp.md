@@ -52,7 +52,7 @@
 - [AllenNLP](https://github.com/allenai/allennlp) - Open-source NLP research library, built on PyTorch.
 - [GloVe](https://github.com/stanfordnlp/GloVe) - Global Vectors for Word Representation.
 - [Botpress](https://github.com/botpress/botpress) - Open-source Virtual Assistant platform.
-- [Mycroft](https://github.com/MycroftAI/mycroft-core) - Hackable open source voice assistant.
+- [Mycroft](https://github.com/MycroftAI/mycroft-core) - Hackable open source voice assistant. ([HN](https://news.ycombinator.com/item?id=22702195))
 - [VizSeq](https://github.com/facebookresearch/vizseq) - Visual Analysis Toolkit for Text Generation Tasks.
 - [Awesome Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme)
 - [How I used NLP (Spacy) to screen Data Science Resume (2019)](https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d)
