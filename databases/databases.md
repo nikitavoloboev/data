@@ -106,3 +106,4 @@
 - [Your Database as an API (2020)](http://kevinmahoney.co.uk/articles/your-database-as-an-api/) ([Lobsters](https://lobste.rs/s/nbyzgm/your_database_as_api))
 - [Elle](https://github.com/jepsen-io/elle) - Black-box transactional safety checker based on cycle detection.
 - [Millions of Tiny Databases (2020)](https://www.youtube.com/watch?v=ZO9AxJTlgsU) ([Article](http://brooker.co.za/blog/2020/02/17/physalia.html))
+- [The Next 50 Years of Databases (2015)](http://www.cs.cmu.edu/~pavlo/blog/2015/09/the-next-50-years-of-databases.html) ([HN](https://news.ycombinator.com/item?id=21508210))

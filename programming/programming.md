@@ -136,3 +136,4 @@
 - [Advice on things to learn for junior dev (2020)](https://www.reddit.com/r/golang/comments/fma0dz/what_do_employers_look_in_github_repo_of_golang/)
 - [How I became a better programmer (2017)](https://jlongster.com/How-I-Became-Better-Programmer) ([HN](https://news.ycombinator.com/item?id=22678350))
 - [Ask HN: How to improve code quality while maintaining decent velocity? (2020)](https://news.ycombinator.com/item?id=21730125)
+- [New Grad vs. Senior Dev](https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/) ([HN](https://news.ycombinator.com/item?id=22708094))

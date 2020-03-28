@@ -84,3 +84,5 @@
 - [Kaldi](https://github.com/kaldi-asr/kaldi) - Speech Recognition Toolkit.
 - [Stanza: A Python Natural Language Processing Toolkit for Many Human Languages (2020)](https://arxiv.org/abs/2003.07082) ([HN](https://news.ycombinator.com/item?id=22663322))
 - [NLP Newsletter](https://github.com/dair-ai/nlp_newsletter#readme)
+- [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries#readme)
+- [Advanced NLP with spaCy](https://course.spacy.io/)

@@ -13,6 +13,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Navigator](https://navigator.com/) - Makes meetings feel like the best part of work: focused, purposeful and energizing.
 - [Astuto](https://github.com/riggraz/astuto) - Free, open source, self-hosted customer feedback tool.
 - [Pulumi](https://www.pulumi.com/) - Declare cloud infrastructure using real languages.
+- [Podia](https://www.podia.com/) - Everything you need to sell online courses, downloads, and memberships without worrying about the tech.
 - [Shapecatcher](https://shapecatcher.com/) - Helps you find most similar unicode characters.
 - [Tiny Helpers](https://tiny-helpers.dev/) - Collection of single-purpose online tools for web developers. ([Code](https://github.com/stefanjudis/tiny-helpers))
 - [HASH](https://hash.ai/) - Open-source platform for general purpose simulation backed and built by the founders of Kaggle, Stack Overflow, Trello, and Glitch.

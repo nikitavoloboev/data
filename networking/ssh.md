@@ -19,3 +19,4 @@
 - [Awesome SSH](https://github.com/moul/awesome-ssh#readme)
 - [ssh-vault](https://github.com/ssh-vault/ssh-vault) - Encrypt/decrypt using ssh keys.
 - [Secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave.
+- [sshcommand](https://github.com/dokku/sshcommand) - Turn SSH into a thin client specifically for your app.

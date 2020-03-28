@@ -9,5 +9,5 @@
 - [Libra, a Cyberpunk Nightmare in the Midst of Crypto Spring (2019)](https://hackernoon.com/libra-a-cyberpunk-nightmare-in-the-midst-of-crypto-spring-5543b6f6e34b)
 - [Libra Resources](https://hacklibra.io/resources)
 - [HN: Visa, Mastercard, Stripe, and eBay exit Facebook’s Libra project (2019)](https://news.ycombinator.com/item?id=21227961)
-- [Facebook Libra is Architecturally Unsound (2019)](http://www.stephendiehl.com/posts/libra.html) ([HN](https://news.ycombinator.com/item?id=21451847))
+- [Facebook Libra is Architecturally Unsound (2019)](http://www.stephendiehl.com/posts/libra.html) ([HN](https://news.ycombinator.com/item?id=21451847)) ([Lobsters](https://lobste.rs/s/fh6iog/facebook_libra_is_architecturally))
 - [Factual inaccuracies of “Facebook Libra is Architecturally Unsound” (2019)](https://tonyarcieri.com/factual-inaccuracies-of-facebook-libra-is-architecturally-unsound)

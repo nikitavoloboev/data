@@ -29,3 +29,4 @@
 - [Green Shares Capital](https://www.greenshorescapital.com/) - Invest in defensible technology businesses with exponential growth potential.
 - [U+I](https://www.uandiplc.com/) - Property developer and investor focused on regenerating overlooked and underestimated urban places.
 - [Paradigm](https://www.paradigm.xyz/) - Crypto-focused investment firm based in San Francisco.
+- [NFX](https://www.nfx.com/) - Venture firm that is transforming how true innovators are funded.

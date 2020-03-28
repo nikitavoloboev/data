@@ -17,3 +17,4 @@ I gently shave after shower and use [Brushless Shave Cream](https://www.amazon.c
 - [Some tips on skin care](https://www.reddit.com/r/NoStupidQuestions/comments/73pimh/im_currently_22_what_should_i_start_doingstop/dns7hnb/)
 - [Minimal skin care routines](https://www.reddit.com/r/minimalism/comments/8y94c8/minimalist_beauty/)
 - [Morning Routine - American Psycho](https://www.youtube.com/watch?v=RjKNbfA64EE) - Pretty awesome scene.
+- [Glossier](https://www.glossier.com/)

@@ -92,7 +92,7 @@
 - [Sequencing Business Models: Can That SAAS Business Turn Into a Marketplace? (2019)](https://caseyaccidental.com/saas-marketplace/)
 - [Equity Compensation Guide](https://www.holloway.com/g/equity-compensation) - Stock options, RSUs, job offers, and taxes—a detailed reference. ([HN](https://news.ycombinator.com/item?id=22373906)) ([HN 2](https://news.ycombinator.com/item?id=10880726)) ([Code](https://github.com/jlevy/og-equity-compensation))
 - [Kevin Systrom and Mike Krieger – How to Build a Great Product (2019)](https://overcast.fm/+Lzu3n3SHk)
-- [What skills do founders find most crucial for running their businesses? (2019)](https://www.indiehackers.com/post/what-skills-do-founders-find-most-crucial-for-running-their-businesses-e95d99d9ff)
+- [What skills do founders find most crucial for running their businesses? (2019)](https://www.indiehackers.com/post/what-skills-do-founders-find-most-crucial-for-running-their-businesses-e95d99d9ff) ([HN](https://news.ycombinator.com/item?id=21587194))
 - [Our Startup Handbook](https://versionone.vc/startup-handbook/) ([HN](https://news.ycombinator.com/item?id=21641114))
 - [Ask HN: Quitting Big Tech, what is it like? (2019)](https://news.ycombinator.com/item?id=21645117)
 - [Road to Scale](https://roadtoscale.com/) - Curated knowledge library for every stage of your startup journey. From idea to scaling up.

@@ -17,7 +17,7 @@
 - [Decentralized data structures tutorial](https://proto.school/#/data-structures/01)
 - [Decentraland Marketplace](https://decentraland.org/) - Fully decentralized and open market where you can discover, buy, sell, and manage your parcels of LAND.
 - [ditCraft](https://ditcraft.io/) - Dit is the decentralized git. Distributed and democratic governance for software projects.
-- [Local-first software: you own your data, in spite of the cloud](https://blog.acolyer.org/2019/11/20/local-first-software/)
+- [Local-first software: you own your data, in spite of the cloud](https://blog.acolyer.org/2019/11/20/local-first-software/) ([HN](https://news.ycombinator.com/item?id=21581444))
 - [Protocols, Not Platforms: A Technological Approach to Free Speech (2019)](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech)
 - [The ecosystem is moving - Moxie (2019)](https://www.youtube.com/watch?v=Nj3YFprqAr8)
 - [Misskey](https://github.com/syuilo/misskey) - Federated blogging platform.
