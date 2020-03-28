@@ -91,3 +91,4 @@
 - [systemd](https://github.com/systemd/systemd) - System and Service Manager.
 - [Speeding up Linux disk encryption (2020)](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/) ([HN](https://news.ycombinator.com/item?id=22683750))
 - [Multipass](https://github.com/canonical/multipass) - Lightweight VM manager for Linux, Windows and macOS. It's designed for developers who want a fresh Ubuntu environment with a single command.
+- [A "living" Linux process with no memory](https://github.com/izabera/zeromaps) ([HN](https://news.ycombinator.com/item?id=22693805))
