@@ -17,3 +17,4 @@
 - [seqviz](https://github.com/Lattice-Automation/seqviz) - Framework agnostic DNA viewer for sequences or files (gb, fasta, etc) with auto-feature annotation.
 - [STRBase](https://strbase.nist.gov/) - Short Tandem Repeat DNA Internet DataBase.
 - [Sarek](https://github.com/nf-core/sarek) - Workflow designed to run analyses on whole genome or targeted sequencing data from regular samples or tumour / normal pairs and could include additional relapses.
+- [The structure of DNA by direct imaging (2015)](https://advances.sciencemag.org/content/1/7/e1500734)
