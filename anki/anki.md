@@ -33,3 +33,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [Spaced Repetition for Efficient Learning](https://www.gwern.net/Spaced-repetition)
 - [Mochi](https://mochi.cards/) - Take notes and make flashcards using markdown, then study them using spaced repetition.
 - [MDAnki](https://github.com/ashlinchak/mdanki) - Converts Markdown file(s) to the Anki cards. ([HN](https://news.ycombinator.com/item?id=22385408))
+- [AnkiConnect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.

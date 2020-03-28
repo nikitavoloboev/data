@@ -220,6 +220,8 @@
 - [Siren](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 - [UILabel+Copyable](https://github.com/alexandreos/UILabel-Copyable) - Simple UILabel category meant to add copy functionality to it.
 - [Networking](https://github.com/freshOS/Networking) - Elegantly connect a JSON API. (URLSession + Combine + Generics).
+- [PLRelational](https://github.com/plausiblelabs/plrelational) - Data storage, processing, and presentation framework based on relational algebra.
+- [Auth Library for Swift](https://github.com/googleapis/google-auth-library-swift) - Supports OAuth1, OAuth2, and Google Application Default Credentials.
 
 ## Other (not lib)
 

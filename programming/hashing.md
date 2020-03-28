@@ -6,3 +6,4 @@
 - [Fairly tale cryptography 2: hashes](https://dominictarr.com/post/154769946347/fairly-tale-cryptography-2-hashes)
 - [FarmHash](https://github.com/google/farmhash) - Family of hash functions.
 - [Articles on hashing implementations](http://codecapsule.com/tag/hash-table/)
+- [Fast and Scalable Minimal Perfect Hash Functions in Rust](https://github.com/10XGenomics/rust-boomphf)

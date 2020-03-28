@@ -7,3 +7,4 @@
 - [ARKit-SCNPath](https://github.com/maxxfrazer/ARKit-SCNPath) - Create paths for your Augmented Reality environments using just points to represent the centre of the path.
 - [Getting started with RealityKit (2019)](https://medium.com/@maxxfrazer/getting-started-with-realitykit-3b401d6f6f)
 - [Capturing ARKit scene (Like `react-native-arkit`) into WebRTC video stream](https://github.com/jhen0409/rn-webrtc-arkit-integration)
+- [Code examples for Depth APIs in iOS](https://github.com/shu223/iOS-Depth-Sampler)

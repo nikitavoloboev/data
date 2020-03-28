@@ -11,3 +11,4 @@
 - [Nucleus](https://github.com/google/nucleus) - Python and C++ code for reading and writing genomics data.
 - [Statistical Population Genomics](https://link.springer.com/book/10.1007/978-1-0716-0199-0)
 - [Genome Informatics 2019 Lightning Talk: A. Sina Booeshaghi](https://www.youtube.com/watch?v=x-rNofr88BM)
+- [10x Genomics](https://www.10xgenomics.com/) ([Code](https://github.com/10XGenomics))
