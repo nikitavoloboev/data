@@ -77,3 +77,4 @@ I publish most of my work and make it open source for other people to use and re
 - [lerna-changelog](https://github.com/lerna/lerna-changelog) - PR-based changelog generator with monorepo support.
 - [ghg](https://github.com/Songmu/ghg) - Get the executable from github releases.
 - [Improving GitHub Issue Labels](http://karolis.koncevicius.lt/posts/improving_github_issue_labels/)
+- [Dasher](https://github.com/colebemis/dasher) - Create flexible dashboards with GitHub queries.

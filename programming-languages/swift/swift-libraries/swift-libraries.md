@@ -45,6 +45,7 @@
 - [Direct Select](https://github.com/Swasidhant/DirectSelect) - iOS implementation of Direct Select by Virgil Pana.
 - [Jelly](https://github.com/SebastianBoldt/Jelly) - Library for animated, non-interactive & interactive viewcontroller transitions and presentations.
 - [PlayerKit](https://github.com/vimeo/PlayerKit) - Modular video player system for iOS and tvOS.
+- [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - Clean and easy-to-use floating panel UI component for iOS.
 
 ## Web
 
@@ -229,3 +230,4 @@
 - [SwiftPM Library](https://swiftpm.co/) - Place to find packages for Swift. ([Code](https://github.com/daveverwer/SwiftPMLibrary))
 - [Ice](https://github.com/jakeheis/Ice) - Developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
 - [freshOS](https://freshos.github.io/) - 100% Open Source iOS Toolset.
+- [swift-outdated](https://github.com/kiliankoe/swift-outdated) - Swift subcommand for displaying when Swift dependencies are out of date.
