@@ -49,6 +49,10 @@
 - [install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [cachix-action](https://github.com/cachix/cachix-action) - Build software only once using Nix with the help of Cachix.
 
+## Templates
+
+- [JS action template](https://github.com/actions/javascript-action)
+
 ## Links
 
 - [OSS list of GitHub actions](https://github-actions.netlify.com/)

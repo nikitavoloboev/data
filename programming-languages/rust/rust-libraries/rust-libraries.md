@@ -278,6 +278,7 @@
 - [Anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error.
 - [byteorder](https://github.com/BurntSushi/byteorder) - Rust library for reading/writing numbers in big-endian and little-endian.
 - [once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros.
+- [genawaiter](https://github.com/whatisaphone/genawaiter) - Stackless generators on stable Rust.
 
 ## Cargo Plugins
 

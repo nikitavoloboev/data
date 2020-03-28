@@ -189,6 +189,7 @@
 - [Litepicker](https://github.com/wakirin/Litepicker) - Date range picker - lightweight, no dependencies.
 - [core-js](https://github.com/zloirock/core-js) - Modular standard library for JavaScript.
 - [timeago.js](https://github.com/hustcc/timeago.js) - Nano library (less than 2 kb) used to format datetime with \*\*\* time ago statement. eg: '3 hours ago'.
+- [Serialize JavaScript](https://github.com/yahoo/serialize-javascript) - Serialize JavaScript to a superset of JSON that includes regular expressions, dates and functions.
 
 ## Links
 

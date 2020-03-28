@@ -48,7 +48,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Non-Technical roles in OSS (2019)](http://matthewrocklin.com/blog/work/2019/08/28/oss-roles)
 - [How the unified collective is governed](https://github.com/unifiedjs/collective)
 - [Make a README](https://www.makeareadme.com/) - Because no one can read your mind.
-- [Saasify](https://github.com/saasify-sh/saasify) - Transforms serverless functions into fully functional SaaS websites.
+- [Saasify](https://github.com/saasify-sh/saasify) - Transforms serverless functions into fully functional SaaS websites. ([Blog](https://blog.saasify.sh))
 - [What I learned from WebTorrent - Feross Aboukhadijeh (2019)](https://www.youtube.com/watch?v=E1RxSzbmMO0)
 - [What’s happening in Open Source. Every day.](https://github.com/mikeal/daily)
 - [Open Source, SaaS and Monetization (2019)](http://lucumr.pocoo.org/2019/11/4/open-source-and-saas/)

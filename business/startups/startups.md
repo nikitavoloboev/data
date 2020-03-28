@@ -132,6 +132,7 @@
 - [YC Companies](https://www.ycombinator.com/companies/)
 - [Failory](https://www.failory.com/) - Content to help you build a profitable startup.
 - [You don’t need to work on hard problems](https://www.benkuhn.net/hard/) ([HN](https://news.ycombinator.com/item?id=22398118))
+- [Free Resources for Indie SaaS Devs](https://blog.saasify.sh/indie-saas-resources/)
 
 ## Images
 

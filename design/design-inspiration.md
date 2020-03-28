@@ -45,6 +45,7 @@ Here are few more things I liked, design wise.
 - [Mouseless](https://mouseless.app/)
 - [NapBot](https://napbotapp.com/)
 - [Nolt](https://nolt.io/) - Lovely footer.
+- [Tonic](https://canopy.cr/tonic)
 
 ## Personal pages
 
