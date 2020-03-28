@@ -81,3 +81,8 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [netscanner](https://github.com/R4yGM/netscanner) - TCP/UDP scanner to find open or closed ports.
 - [nmap](https://github.com/nmap/nmap) - Network Mapper.
 - [How Tailscale works (2020)](https://tailscale.com/blog/how-tailscale-works/) ([HN](https://news.ycombinator.com/item?id=22644357))
+- [Beej's Guide to Network Programming: Using Internet Sockets](http://beej.us/guide/bgnet/)
+- [Unix Network Programming](https://www.goodreads.com/book/show/26850562-unix-network-programming)
+- [TCP/IP Illustrated books](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
+- [Wireshark](https://www.wireshark.org/) - World’s foremost and widely-used network protocol analyzer.
+- [What resources would you recommend to learn socket programming ? (2020)](https://lobste.rs/s/mjhquc/what_resources_would_you_recommend_learn)

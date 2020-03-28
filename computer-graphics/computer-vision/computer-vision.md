@@ -33,3 +33,4 @@
 - [Awesome Interaction-aware Behavior and Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction#readme)
 - [SynSin: End-to-end View Synthesis from a Single Image (2020)](http://www.robots.ox.ac.uk/~ow/synsin.html) ([Code](https://github.com/facebookresearch/synsin))
 - [Pixel2Mesh](https://github.com/nywang16/Pixel2Mesh) - Generating 3D Mesh Models from Single RGB Images.
+- [First Order Motion Model for Image Animation](https://aliaksandrsiarohin.github.io/first-order-model-website/) ([Code](https://github.com/AliaksandrSiarohin/first-order-model))

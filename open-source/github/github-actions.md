@@ -73,3 +73,4 @@
 - [Exploring Actions (2019)](https://brandur.org/nanoglyphs/005-actions)
 - [GitHub Actions Runner](https://github.com/actions/runner) - Runner is the application that runs a job from a GitHub Actions workflow. The runner can run on the hosted machine pools or run on self-hosted environments.
 - [Awesome Actions](https://github.com/sdras/awesome-actions#readme) - Curated list of awesome actions to use on GitHub.
+- [Actions Panel](https://www.actionspanel.app/) - Manually Trigger Your GitHub Actions. ([HN](https://news.ycombinator.com/item?id=22711935))
