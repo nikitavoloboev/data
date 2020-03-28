@@ -12,3 +12,4 @@
 - [Towards a unified theory of reactive UI (2019)](https://raphlinus.github.io/ui/druid/2019/11/22/reactive-ui.html) ([HN](https://news.ycombinator.com/item?id=21607818))
 - [Streams for reactive programming (2020)](https://dassur.ma/things/streams-for-reactive-programming/)
 - [David Khourshid — The visual future of reactive applications with statecharts (2020)](https://www.youtube.com/watch?v=o84Xw8qiTCw)
+- [RxFeedback](https://github.com/NoTests/RxFeedback.swift) - Universal system operator and architecture for RxSwift.

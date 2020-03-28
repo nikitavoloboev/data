@@ -105,3 +105,4 @@
 - [Sharing an SQLite database across containers is surprisingly brilliant (2020)](https://medium.com/@rbranson/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054)
 - [Your Database as an API (2020)](http://kevinmahoney.co.uk/articles/your-database-as-an-api/) ([Lobsters](https://lobste.rs/s/nbyzgm/your_database_as_api))
 - [Elle](https://github.com/jepsen-io/elle) - Black-box transactional safety checker based on cycle detection.
+- [Millions of Tiny Databases (2020)](https://www.youtube.com/watch?v=ZO9AxJTlgsU) ([Article](http://brooker.co.za/blog/2020/02/17/physalia.html))

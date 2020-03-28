@@ -34,3 +34,4 @@
 - [Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ([Code](https://github.com/missing-semester/missing-semester))
 - [How These Things Work - A book about CS from first principles (2016)](https://reasonablypolymorphic.com/book/preface) ([HN](https://news.ycombinator.com/item?id=22346349))
 - [Philosophy of Computer Science](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
+- [Computer Science from the Bottom Up](https://www.bottomupcs.com/)

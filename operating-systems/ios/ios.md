@@ -107,3 +107,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Core Data Lab](https://betamagic.nl/products/coredatalab.html) - View, analyze and track your Core Data app’s data.
 - [iOS bits and pieces that you can include in your project to make your life a bit easier](https://github.com/infinum/iOS-Nuts-And-Bolts)
 - [Poes](https://github.com/AvdLee/Poes) - Swift command-line tool to easily send push notifications to the iOS simulator.
+- [Better ways to structure iOS apps](https://github.com/onmyway133/fantastic-ios-architecture#readme)

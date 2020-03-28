@@ -17,3 +17,4 @@
 - [Complete Intro to Containers course (2020)](https://frontendmasters.com/courses/complete-intro-containers/)
 - [Container networking zine](https://twitter.com/b0rk/status/1232800388404760581)
 - [trivy](https://github.com/aquasecurity/trivy) - Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI.
+- [Open Container Initiative Runtime Specification](https://github.com/opencontainers/runtime-spec)
