@@ -224,6 +224,7 @@
 - [Auth Library for Swift](https://github.com/googleapis/google-auth-library-swift) - Supports OAuth1, OAuth2, and Google Application Default Credentials.
 - [Down](https://github.com/iwasrobbed/Down/) - Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.
 - [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - Syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
+- [GraphViz](https://github.com/SwiftDocOrg/GraphViz) - Swift package for working with GraphViz.
 
 ## Other (not lib)
 
