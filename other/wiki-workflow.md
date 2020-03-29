@@ -43,7 +43,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Josh Avanier](https://joshavanier.github.io/wiki/notes.html)
 - [Brennan Letkeman](https://ltkmn.gitbook.io/brendex/)
 - [Andy Sparks](https://github.com/AndySparks/captains-log)
-- [Exobrain of Dima Gerasimov](https://github.com/karlicoss/exobrain)
+- [Exobrain of Dima Gerasimov](https://beepb00p.xyz/exobrain/) ([Code](https://github.com/karlicoss/exobrain))
 - [Krzysztof Kowalczyk](https://blog.kowalczyk.info/)
 - [Phil Eaton's notes](http://notes.eatonphil.com/)
 - [Blue Book](https://lyz-code.github.io/blue-book/) ([Code](https://github.com/lyz-code/blue-book/))

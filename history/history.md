@@ -23,3 +23,4 @@
 - [Astonishing Photos Of Soviet Life Found In An Abandoned House](https://www.rferl.org/a/astonishing-photos-of-soviet-village-life-discovered-in-abandoned-house-in-moldova/30383072.html)
 - [Cultures of programming](http://tomasp.net/academic/drafts/cultures/cultures.pdf) - Understanding the history of programming through controversies and technical artifacts.
 - [Radical Solutions](https://www.damninteresting.com/radical-solutions/) - French mathematician Évariste Galois lived a full life. When he wasn't trying to overthrow the government, he was reinventing algebra.
+- [Hardcore History Podcast](https://www.dancarlin.com/hardcore-history-series/) ([Overcast](https://overcast.fm/itunes173001861/dan-carlins-hardcore-history))
