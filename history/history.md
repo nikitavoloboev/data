@@ -21,3 +21,4 @@
 - [The Putin Files: Julia Ioffe (2017)](https://www.youtube.com/watch?v=b1HWNcLDK88)
 - [Ask HN: Computer Science/History Books? (2020)](https://news.ycombinator.com/item?id=22692281)
 - [Astonishing Photos Of Soviet Life Found In An Abandoned House](https://www.rferl.org/a/astonishing-photos-of-soviet-village-life-discovered-in-abandoned-house-in-moldova/30383072.html)
+- [Cultures of programming](http://tomasp.net/academic/drafts/cultures/cultures.pdf) - Understanding the history of programming through controversies and technical artifacts.

@@ -221,3 +221,4 @@ Go promotes composition over inheritance.
 - [Diago](https://github.com/remeh/diago) - Visualization tool for CPU profiles and heap snapshots generated with `pprof`.
 - [pkgviz-go](https://github.com/tiegz/pkgviz-go) - Generate a vizualization of a Go package's types.
 - [Setup for Your Next Golang Project](https://martinheinz.dev/blog/5) ([HN](https://news.ycombinator.com/item?id=21725869))
+- [HN: Go Turns 10](https://news.ycombinator.com/item?id=21483933)

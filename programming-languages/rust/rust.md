@@ -165,3 +165,4 @@
 - [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/) ([Code](https://github.com/rust-lang/rustc-dev-guide))
 - [Rust For Systems Programmers](https://github.com/nrc/r4cppp#readme)
 - [Rust Latam: procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop)
+- [Shipping a compiler every six weeks (2019)](https://www.pietroalbini.org/blog/shipping-a-compiler-every-six-weeks/) ([HN](https://news.ycombinator.com/item?id=21613415))

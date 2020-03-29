@@ -137,3 +137,4 @@
 - [How I became a better programmer (2017)](https://jlongster.com/How-I-Became-Better-Programmer) ([HN](https://news.ycombinator.com/item?id=22678350))
 - [Ask HN: How to improve code quality while maintaining decent velocity? (2020)](https://news.ycombinator.com/item?id=21730125)
 - [New Grad vs. Senior Dev](https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/) ([HN](https://news.ycombinator.com/item?id=22708094))
+- [Things I’ve learned in 20 years of programming ](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/) ([HN](https://news.ycombinator.com/item?id=21603920))
