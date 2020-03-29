@@ -291,6 +291,7 @@
 - [cargo-outdated](https://github.com/kbknapp/cargo-outdated) - Cargo subcommand for displaying when Rust dependencies are out of date.
 - [cargo-modules](https://github.com/regexident/cargo-modules) - Cargo plugin for showing a tree-like overview of a crate's modules.
 - [cargo-tree](https://github.com/sfackler/cargo-tree) - Cargo subcommand that visualizes a crate's dependency graph in a tree-like format.
+- [cargo cache](https://github.com/matthiaskrgr/cargo-cache) - Manage cargo cache (\${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively.
 
 ## Links
 

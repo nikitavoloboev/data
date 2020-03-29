@@ -152,6 +152,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Rational Fiction books](https://www.goodreads.com/list/show/100705.Rational_Fiction)
 - [Top Fantasy Reads](https://topfantasyreads.com/) - Processed thousands of comments to determine top fantasy books the people of Reddit are reading. ([HN](https://news.ycombinator.com/item?id=22371436))
 - [On the shoulders of the giants (2020)](https://www.lpalmieri.com/posts/2020-03-08-on-the-shoulders-of-the-giants/) ([HN](https://news.ycombinator.com/item?id=22515743))
+- [Ask HN: Great fiction books that have had a positive impact on your life? (2020)](https://news.ycombinator.com/item?id=22718592)
 
 ## Notes
 
