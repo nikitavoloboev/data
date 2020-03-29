@@ -19,6 +19,7 @@
 ## Biology
 
 - [GeneticVariation](https://github.com/BioJulia/GeneticVariation.jl) - Data structures and algorithms for working with genetic variation.
+- [BioStructures.jl](https://github.com/BioJulia/BioStructures.jl) - Julia package to read, write and manipulate macromolecular structures (particularly proteins).
 
 ## Other
 

@@ -86,3 +86,4 @@
 - [NLP Newsletter](https://github.com/dair-ai/nlp_newsletter#readme)
 - [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries#readme)
 - [Advanced NLP with spaCy](https://course.spacy.io/)
+- [Myle Ott's research](https://myleott.com/)

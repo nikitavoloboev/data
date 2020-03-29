@@ -62,3 +62,4 @@
 - [mock-fs](https://github.com/tschaub/mock-fs) - Allows Node's built-in fs module to be backed temporarily by an in-memory, mock file system.
 - [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - One-liner node.js http-proxy middleware for connect, express and browser-sync.
 - [ThreadBox](https://github.com/sinclairzx81/threadbox) - Recursive Worker Threads in NodeJS.
+- [Helpful libraries and resources for building Node.js CLIs](https://github.com/sw-yx/cli-cheatsheet#readme)

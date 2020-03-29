@@ -27,3 +27,6 @@ I use VS Code [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-
 - [VS Code Recipes](https://github.com/microsoft/vscode-recipes) - Collection of recipes for using VS Code with particular technologies.
 - [Snippet Generator](https://snippet-generator.app/) - Generate snippets for VSCode/SublimeText. ([Code](https://github.com/pawelgrzybek/snippet-generator))
 - [VS Code Tips](https://www.youtube.com/channel/UCyYh-eAr74avLwOyPa1dDNg/videos)
+- [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
+- [sshcode](https://github.com/cdr/sshcode) - CLI to automatically install and run code-server over SSH.
+- [sail](https://github.com/cdr/sail) - Instant, pre-configured VS Code development environments.

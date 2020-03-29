@@ -48,3 +48,4 @@
 - [Language Server Protocol integration for JupyterLab](https://github.com/krassowski/jupyterlab-lsp)
 - [Carnets](https://github.com/holzschu/Carnets) - Stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network.
 - [Jupyterlab Extensions by Examples](https://github.com/jupyterlab/extension-examples)
+- [nbclean](https://github.com/choldgraf/nbclean) - Collection of tools to preprocess, modify, and otherwise clean up Jupyter Notebooks.

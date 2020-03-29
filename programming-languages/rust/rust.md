@@ -168,3 +168,4 @@
 - [Shipping a compiler every six weeks (2019)](https://www.pietroalbini.org/blog/shipping-a-compiler-every-six-weeks/) ([HN](https://news.ycombinator.com/item?id=21613415))
 - [Prefer Rust to C/C++ for new code (2019)](http://cliffle.com/blog/prefer-rust/) ([HN](https://news.ycombinator.com/item?id=21545374))
 - [Understanding Serde (2019)](https://www.joshmcguigan.com/blog/understanding-serde/) ([HN](https://news.ycombinator.com/item?id=21561585))
+- [Rust 2020: GUI and community](https://raphlinus.github.io/rust/druid/2019/10/31/rust-2020.html)

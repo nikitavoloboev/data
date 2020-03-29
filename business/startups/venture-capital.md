@@ -36,3 +36,5 @@
 - [Boldstart Ventures](https://www.boldstart.vc/)
 - [Sequoia Capital](https://www.sequoiacap.com/)
 - [How to become a Venture Capitalist](http://delian.io/lessons-1)
+- [Combine VC](http://combine.vc/) - Invests in design-forward companies.
+- [Homebrew](https://homebrew.co/)

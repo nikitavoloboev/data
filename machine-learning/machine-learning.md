@@ -213,3 +213,4 @@
 - [AutoML-Zero](https://github.com/google-research/google-research/tree/master/automl_zero#automl-zero) - Open source code for the paper: "AutoML-Zero: Evolving Machine Learning Algorithms From Scratch". ([HN](https://news.ycombinator.com/item?id=22539117))
 - [fastAI course v4](https://github.com/fastai/course-v4)
 - [Ask HN: What is your ML stack like? (2020)](https://news.ycombinator.com/item?id=21516311)
+- [MLflow](https://mlflow.org/) - Open source platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. ([Code](https://github.com/mlflow/mlflow/))

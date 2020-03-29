@@ -30,3 +30,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Progress of anti-aging therapies by clinical trial stage](https://www.lifespan.io/road-maps/the-rejuvenation-roadmap/) ([HN](https://news.ycombinator.com/item?id=22066494))
 - [The Longevity FAQ (2020)](https://nintil.com/longevity/)
 - [Age Reversal Forum](https://forum.age-reversal.net/)
+- [Lifespan: Why We Age—and Why We Don't Have To (2019)](https://www.goodreads.com/book/show/43723901-lifespan)

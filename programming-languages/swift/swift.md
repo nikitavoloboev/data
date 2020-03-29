@@ -85,3 +85,4 @@
 - [Awesome Swift](https://github.com/matteocrippa/awesome-swift#readme)
 - [Yak Shaving - Swift Edition (2020)](https://tirania.org/blog/archive/2020/Mar-24.html) ([HN](https://news.ycombinator.com/item?id=22682003))
 - [Awesome Swift and Tutorial Resources](https://github.com/MaxChen/awesome-swift-and-tutorial-resources#readme)
+- [Swift Weekly Brief](https://swiftweekly.github.io/) - Community-driven weekly newsletter about what's happening in Swift.
