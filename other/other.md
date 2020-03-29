@@ -130,3 +130,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Modern Day Jobs](https://moderndayjobs.com/#home) - 100 modern ways to make money online.
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness#readme)
 - [HN: Boids](https://news.ycombinator.com/item?id=22709780)
+- [Eric Wastl - Advent of Code: Behind The Scenes (2019)](https://www.youtube.com/watch?v=gibVyxpi-qA)

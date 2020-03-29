@@ -58,3 +58,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [HN: Dow Falls 2997 points worst drop since 1987 crash (2020)](https://news.ycombinator.com/item?id=22597192)
 - [The Good Times for Airlines Are Over (2020)](https://www.bloomberg.com/opinion/articles/2020-03-17/the-good-times-for-airlines-are-over) - Also startup liquidity, trading from home and virus blockchain.
 - [Ask HN: How bad will the 2020 economic crisis be?](https://news.ycombinator.com/item?id=22654131)
+- [The ladders of wealth creation: a step-by-step roadmap to building wealth (2019)](https://nathanbarry.com/wealth-creation/)
