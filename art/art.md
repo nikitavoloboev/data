@@ -38,6 +38,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 
 ## Interesting artists
 
+- [Djamila Knopf](http://www.djamilaknopf.com/)
 - [Ben Kovach](https://www.benkovach.art/)
 - [Karolis Strautniekas](https://www.instagram.com/strautniekas/)
 - [Owen D. Pomery](https://owenpomery.com/work)
