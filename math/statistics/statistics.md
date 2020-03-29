@@ -20,3 +20,4 @@
 - [Statistical Rethinking: A Bayesian Course Using R and Stan (2019)](https://github.com/rmcelreath/statrethinking_winter2019)
 - [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 - [Michael I. Jordan statistics courses](https://people.eecs.berkeley.edu/~jordan/courses.html)
+- [Stan](https://mc-stan.org/) - State-of-the-art platform for statistical modeling and high-performance statistical computation.

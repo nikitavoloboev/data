@@ -30,3 +30,4 @@
 - [Functional Scala - Modern Data Driven Applications with ZIO Streams by Itamar Ravid (2019)](https://www.youtube.com/watch?v=bbss7elSfxs)
 - [Functional Scala - Unleash Your Fury by Jon Pretty (2019)](https://www.youtube.com/watch?v=PHjAKgdUMWI&list=PLjtl9Y7VJMWtZz3g0LjMhO54_KBL8Tfwl&index=8&t=0s)
 - [http4s: pure, typeful, functional HTTP in Scala – Ross Baker (2018)](https://www.youtube.com/watch?v=urdtmx4h5LE)
+- [So, what's wrong with SBT? (2017)](http://www.lihaoyi.com/post/SowhatswrongwithSBT.html)

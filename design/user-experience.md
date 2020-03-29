@@ -6,3 +6,4 @@
 - [UX: Checkout redesign (2019)](https://mm263.space/case-study-checkout/)
 - [Where to put buttons on forms (2019)](https://adamsilver.io/articles/where-to-put-buttons-in-forms/)
 - [User Onboarding](https://www.useronboard.com/)
+- [Annoying Technology](https://annoying.technology/)

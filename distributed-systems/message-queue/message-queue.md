@@ -7,3 +7,4 @@
 - [Disque](https://github.com/antirez/disque-module) - Ongoing experiment to build a distributed, in-memory, message broker.
 - [rmq](https://github.com/adjust/rmq) - Message queue system written in Go and backed by Redis.
 - [BullMQ](https://github.com/taskforcesh/bullmq) - Premium Message Queue for NodeJS based on Redis.
+- [Sol - An MQTT broker from scratch](https://codepr.github.io/posts/sol-mqtt-broker/)
