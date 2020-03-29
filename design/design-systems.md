@@ -25,6 +25,7 @@
 - [Fluent UI React](https://github.com/microsoft/fluentui) - Set of React components for building Microsoft web experiences.
 - [Operational UI Components](https://github.com/contiamo/operational-ui) - Contains simple, stateless UI building blocks - your typical input fields, buttons, cards, grids, and so on.
 - [react-ui](https://github.com/siddharthkp/react-ui) - Customisable components and primitives based on design tokens.
+- [Spectrum](https://spectrum.adobe.com/) - Adobe’s design system.
 
 ## Links
 
