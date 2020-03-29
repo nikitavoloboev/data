@@ -220,3 +220,4 @@ Go promotes composition over inheritance.
 - [Why you shouldn't use func main in Go](https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer) ([Lobsters](https://lobste.rs/s/nvjvm0/why_you_shouldn_t_use_func_main_go))
 - [Diago](https://github.com/remeh/diago) - Visualization tool for CPU profiles and heap snapshots generated with `pprof`.
 - [pkgviz-go](https://github.com/tiegz/pkgviz-go) - Generate a vizualization of a Go package's types.
+- [Setup for Your Next Golang Project](https://martinheinz.dev/blog/5) ([HN](https://news.ycombinator.com/item?id=21725869))
