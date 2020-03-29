@@ -11,3 +11,4 @@
 - [The Birth of Espresso (2019)](https://www.youtube.com/watch?v=I8uStVXNf0M)
 - [Beginners Guide to Coffee Tasting (2019)](https://www.youtube.com/watch?v=kEZZCQTSSAg)
 - [Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment (2020)](<https://www.cell.com/matter/fulltext/S2590-2385(19)30410-2>)
+- [How to make perfect French Press](https://www.peets.com/learn/how-to-brew-french-press)

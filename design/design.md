@@ -73,3 +73,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [ImagineUI](https://imagineui.github.io/en/) - Tool that supports developing wireframes in a localized human-readable format. ([Code](https://github.com/imagineui/imagineui))
 - [Mozilla Design Journey](https://twitter.com/mart3ll/status/1240627746805604359)
 - [Abduzeedo](https://abduzeedo.com/) - Collective of individual writers sharing articles about design, photography, and UX.
+- [Mockuuups](http://mockuuups.studio/) - Instant mockup generator with more than 500 scenes.
