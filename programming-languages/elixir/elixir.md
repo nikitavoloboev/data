@@ -26,3 +26,4 @@
 - [A More Type-Driven Elixir Workflow? Maybe (2019)](https://well-ironed.com/articles/a-more-type-driven-elixir-workflow-maybe/)
 - [Lumen - Elixir & Erlang in the browser (2020)](https://underjord.io/lumen-elixir-in-the-browser.html) ([HN](https://news.ycombinator.com/item?id=22137291))
 - [Breadth-First Search in Elixir (2020)](https://pabloaguiar.me/post/breadth-first-search-in-elixir/)
+- [Don't Write Tests, Generate Them - Property Based Testing in Elixir (2018)](https://www.youtube.com/watch?v=VhW9D0mbW1o)

@@ -46,3 +46,4 @@
 - [Data-Oriented Architecture (2020)](https://blog.eyas.sh/2020/03/data-oriented-architecture/) ([HN](https://news.ycombinator.com/item?id=22519974))
 - [Ready for changes with Hexagonal Architecture (2020)](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749) ([HN](https://news.ycombinator.com/item?id=22540610))
 - [List of Post-mortems](https://github.com/danluu/post-mortems)
+- [Simplify Full-Stack Development with a Unified Architecture (2019)](https://liaison.dev/blog/articles/Simplify-Full-Stack-Development-with-a-Unified-Architecture-187fr1)

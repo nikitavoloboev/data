@@ -61,3 +61,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Web packaging format](https://github.com/WICG/webpackage)
 - [7 Principles of Rich Web Applications (2014)](https://rauchg.com/2014/7-principles-of-rich-web-applications)
 - [Web Skills](https://andreasbm.github.io/web-skills/) ([Code](https://github.com/andreasbm/web-skills))
+- [Do We Really Need a Web API? (2019)](https://liaison.dev/blog/articles/Do-We-Really-Need-A-Web-API-yq12wz) ([HN](https://news.ycombinator.com/item?id=21638809))

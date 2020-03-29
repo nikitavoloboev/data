@@ -18,7 +18,7 @@ I use [many CLI tools](https://github.com/nikitavoloboev/dotfiles/blob/master/ni
 - [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line#readme)
 - [cheat](https://github.com/cheat/cheat) - Allows you to create and view interactive cheatsheets on the command-line.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
-- [An Illustrated Guide to Useful Command Line Tools (2019)](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
+- [An Illustrated Guide to Useful Command Line Tools (2019)](https://www.wezm.net/technical/2019/10/useful-command-line-tools/) ([Lobsters](https://lobste.rs/s/pven1z/illustrated_guide_some_useful_command)) ([HN](https://news.ycombinator.com/item?id=21363121))
 - [uutils coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils.
 - [The Language Agnostic, All-Purpose, Incredible, Makefile (2019)](https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html) ([Lobsters](https://lobste.rs/s/ots6gm/language_agnostic_all_purpose)) ([HN](https://news.ycombinator.com/item?id=21566530))
 - [CLI: improved (2018)](https://remysharp.com/2018/08/23/cli-improved)

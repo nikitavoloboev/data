@@ -29,3 +29,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Detexify](http://detexify.kirelabs.org/classify.html) - LaTeX Handwritten Symbol Recognition. ([HN](https://news.ycombinator.com/item?id=22356361))
 - [TexLab](https://github.com/latex-lsp/texlab) - Implementation of the Language Server Protocol for LaTeX.
 - [Metropolis](https://github.com/matze/mtheme) - Modern LaTeX Beamer theme.
+- [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - WYSIWYG Browser-based LaTeX Editor. ([HN](https://news.ycombinator.com/item?id=21710105))

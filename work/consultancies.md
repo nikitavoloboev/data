@@ -53,6 +53,8 @@
 - [Keming Labs](https://keminglabs.com/) - Build data-driven interfaces.
 - [Obsidian Systems](https://obsidian.systems/) - Software consultancy specializing in haskell, nix, curiosity, and innovation.
 - [Oxidizing Systems](https://oxidizing.io/) - Provide consulting services based on our experience in functional programming and safe systems.
+- [Reify Works](https://www.reifyworks.com/) - Help companies market and sell more software.
+- [YLD](https://www.yld.io/)
 
 ## Links
 
