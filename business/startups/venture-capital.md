@@ -35,3 +35,4 @@
 - [How VCs Make Money](https://vcstarterkit.substack.com/p/how-vcs-make-money) ([HN](https://news.ycombinator.com/item?id=21513771))
 - [Boldstart Ventures](https://www.boldstart.vc/)
 - [Sequoia Capital](https://www.sequoiacap.com/)
+- [How to become a Venture Capitalist](http://delian.io/lessons-1)

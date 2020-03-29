@@ -48,3 +48,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [Speaking At Technical Conferences](https://dev.to/emmawedekind/speaking-at-technical-conferences-1kkk)
 - [pretalx](https://github.com/pretalx/pretalx) - Conference planning tool focused on providing the best experience for organisers, speakers, reviewers, and attendees alike.
 - [On Conference Speaking (2017)](https://hynek.me/articles/speaking/)
+- [How to run an Effective Board Meeting and make an Effective Board Deck](http://delian.io/lessons-4)

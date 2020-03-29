@@ -134,6 +134,7 @@
 - [You don’t need to work on hard problems](https://www.benkuhn.net/hard/) ([HN](https://news.ycombinator.com/item?id=22398118))
 - [Free Resources for Indie SaaS Devs](https://blog.saasify.sh/indie-saas-resources/)
 - [Founder's Guide to Building a Developer Tools Business](https://manifold.co/blog/founders-guide-developer-tools-sell-to-engineers) ([HN](https://news.ycombinator.com/item?id=21511411))
+- [How to be an Effective Executive](http://delian.io/lessons-3)
 
 ## Images
 

@@ -61,3 +61,4 @@
 - [HN: Google Interviewing Process for Software Developer Role in 2020](https://news.ycombinator.com/item?id=22405372)
 - [My Coding Interview Style](https://amy.dev/?p=783)
 - [Interview experience posts](https://blog.rampatra.com/category/interview/)
+- [How to Interview an Executive](http://delian.io/lessons-2)
