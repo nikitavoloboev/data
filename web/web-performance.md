@@ -49,3 +49,4 @@
 - [Web Performance Working Group](https://www.w3.org/webperf/) ([Code](https://github.com/w3c/web-performance))
 - [Why We Started Putting Unpopular Assets in Memory](https://blog.cloudflare.com/why-we-started-putting-unpopular-assets-in-memory/) ([Lobsters](https://lobste.rs/s/ka92bs/why_we_started_putting_unpopular_assets))
 - [Statping](https://github.com/statping/statping) - Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins.
+- [I’ve gone to great lengths for this silence](https://k1ss.org//blog/20191004a) ([Lobsters](https://lobste.rs/s/fpdafj/i_ve_gone_great_lengths_for_this_silence))

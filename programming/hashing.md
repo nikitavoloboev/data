@@ -7,3 +7,4 @@
 - [FarmHash](https://github.com/google/farmhash) - Family of hash functions.
 - [Articles on hashing implementations](http://codecapsule.com/tag/hash-table/)
 - [Fast and Scalable Minimal Perfect Hash Functions in Rust](https://github.com/10XGenomics/rust-boomphf)
+- [Robin Map](https://github.com/Tessil/robin-map) - C++ implementation of a fast hash map and hash set using robin hood hashing.

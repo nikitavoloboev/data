@@ -31,3 +31,5 @@
 - [Paradigm](https://www.paradigm.xyz/) - Crypto-focused investment firm based in San Francisco.
 - [NFX](https://www.nfx.com/) - Venture firm that is transforming how true innovators are funded.
 - [Emergence Capital](https://www.emcap.com/) - Invest in people who change the way the world works.
+- [Building a Venture Career](https://either.co/how-to-work-in-vc-11835d51aaab)
+- [How VCs Make Money](https://vcstarterkit.substack.com/p/how-vcs-make-money) ([HN](https://news.ycombinator.com/item?id=21513771))

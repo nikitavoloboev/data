@@ -49,6 +49,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Bastien Grivet](https://www.artstation.com/grivetart)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
+- [Robert Beatty](https://www.robertbeattyart.com/)
 - [Svetlana Dmitrieva](https://www.artstation.com/mayadim1926)
 - [Katherine Lam](https://www.behance.net/katherinelam)
 - [Lee Madgwick](https://leemadgwick.co.uk/portfolio/)

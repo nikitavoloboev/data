@@ -15,3 +15,4 @@
 - [mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [CryFS](https://github.com/cryfs/cryfs) - Cryptographic filesystem for the cloud.
 - [gocat](https://github.com/sumup-oss/gocat) - 21st century, multi-purpose relay from source to destination.
+- [Fast.io](https://fast.io/) - Host anything (PDFs, video, zips, images, etc.) with direct links on a super-fast global network. ([HN](https://news.ycombinator.com/item?id=21589213))
