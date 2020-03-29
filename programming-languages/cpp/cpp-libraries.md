@@ -73,3 +73,4 @@
 - [lager](https://github.com/arximboldi/lager) - C++ library for value-oriented design using the unidirectional data-flow architecture (Redux for C++).
 - [Heteroflow](https://github.com/Heteroflow/Heteroflow) - Header-only C++ library to help you quickly write concurrent CPU-GPU programs using task models.
 - [GEOS](https://github.com/libgeos/geos) - C++11 library for performing operations on two-dimensional vector geometries.
+- [subprocess.h](https://github.com/sheredom/subprocess.h) - Simple one header solution to launching processes and interacting with them for C and C++.

@@ -23,6 +23,7 @@
 ## iOS
 
 - [Oak Snow Consulting](http://oaksnow.com/) - Based in Vermont, builds iOS and Web apps for early stage startups and small businesses.
+- [Exyte](https://exyte.com/) - Mobile,  Blockchain,  AR/VR development services.
 
 ## Node
 

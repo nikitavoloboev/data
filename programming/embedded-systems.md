@@ -28,3 +28,4 @@
 - [OpenTitan](https://github.com/lowRISC/opentitan) - Open source silicon root of trust. ([Web](https://opentitan.org/))
 - [bare-metal](https://github.com/rust-embedded/bare-metal) - Abstractions common to bare metal systems.
 - [Embench](https://github.com/embecosm/embench-beebs) - Open Benchmarks for Embedded Platforms.
+- [Fresh look at embedded Rust development](https://github.com/japaric/embedded2020)

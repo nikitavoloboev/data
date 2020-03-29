@@ -45,6 +45,7 @@
 - [Direct Select](https://github.com/Swasidhant/DirectSelect) - iOS implementation of Direct Select by Virgil Pana.
 - [Jelly](https://github.com/SebastianBoldt/Jelly) - Library for animated, non-interactive & interactive viewcontroller transitions and presentations.
 - [PlayerKit](https://github.com/vimeo/PlayerKit) - Modular video player system for iOS and tvOS.
+- [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - Number of preset loading indicators created with SwiftUI.
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - Clean and easy-to-use floating panel UI component for iOS.
 
 ## Web
