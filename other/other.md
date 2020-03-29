@@ -128,3 +128,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Finite State Machine Designer](http://madebyevan.com/fsm/)
 - [Next generation Plex Desktop/Embedded Client](https://github.com/plexinc/plex-media-player)
 - [Modern Day Jobs](https://moderndayjobs.com/#home) - 100 modern ways to make money online.
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness#readme)

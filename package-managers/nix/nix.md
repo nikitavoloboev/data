@@ -92,3 +92,4 @@
 - [How I Start: Nix (2020)](https://christine.website/blog/how-i-start-nix-2020-03-08) ([Lobsters](https://lobste.rs/s/lktf6u/how_i_start_nix))
 - [rnix-lsp](https://github.com/nix-community/rnix-lsp) - WIP Language Server for Nix.
 - [Eelco Dolstra's talks/papers](https://edolstra.github.io/) ([Code](https://github.com/edolstra/edolstra.github.io))
+- [Nix Haskell Monorepo Tutorial](https://github.com/fghibellini/nix-haskell-monorepo)

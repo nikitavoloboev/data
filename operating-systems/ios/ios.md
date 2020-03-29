@@ -108,3 +108,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS bits and pieces that you can include in your project to make your life a bit easier](https://github.com/infinum/iOS-Nuts-And-Bolts)
 - [Poes](https://github.com/AvdLee/Poes) - Swift command-line tool to easily send push notifications to the iOS simulator.
 - [Better ways to structure iOS apps](https://github.com/onmyway133/fantastic-ios-architecture#readme)
+- [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps#readme)
+- [Curated list of awesome iOS UI/UX libraries](https://github.com/cjwirth/awesome-ios-ui#readme)
