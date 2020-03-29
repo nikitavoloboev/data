@@ -34,3 +34,4 @@
 - [Building a Venture Career](https://either.co/how-to-work-in-vc-11835d51aaab)
 - [How VCs Make Money](https://vcstarterkit.substack.com/p/how-vcs-make-money) ([HN](https://news.ycombinator.com/item?id=21513771))
 - [Boldstart Ventures](https://www.boldstart.vc/)
+- [Sequoia Capital](https://www.sequoiacap.com/)

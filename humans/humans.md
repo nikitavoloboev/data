@@ -33,3 +33,4 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans#r
 - [The Unparalleled Genius of John von Neumann (2019)](https://medium.com/cantors-paradise/the-unparalleled-genius-of-john-von-neumann-791bb9f42a2d) ([HN](https://news.ycombinator.com/item?id=21542753))
 - [WaitWho.is](https://waitwho.is/) - Growing directory of people — and all of their best content in one place.
 - [View from the Top: Craig Federighi (2019)](https://www.youtube.com/watch?v=43sjym5ZS68)
+- [Remembering Don Valentine](https://www.sequoiacap.com/article/remembering-don-valentine/) ([HN](https://news.ycombinator.com/item?id=21359239))

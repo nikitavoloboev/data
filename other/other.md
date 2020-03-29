@@ -131,3 +131,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness#readme)
 - [HN: Boids](https://news.ycombinator.com/item?id=22709780)
 - [Eric Wastl - Advent of Code: Behind The Scenes (2019)](https://www.youtube.com/watch?v=gibVyxpi-qA)
+- [MapFilterFold](https://mapfilterfold.com/) - Meta book recommendations from Ask Hacker News threads.

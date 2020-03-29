@@ -32,3 +32,5 @@
 - [Advice on doing Real Estate investing](https://www.reddit.com/r/financialindependence/comments/fj33fa/the_best_financial_decision_i_ever_made/fkkqiw3?utm_source=share&utm_medium=web2x)
 - [Ask HN: How should I invest \$200K in this market? (2020)](https://news.ycombinator.com/item?id=22623807)
 - [Ask HN: Introductory Books on the Stock Market? (2020)](https://news.ycombinator.com/item?id=22709843)
+- [Sequoia Capital podcast episode](https://overcast.fm/+FaxnVsu28) ([Part II](https://overcast.fm/+FaxleB3SE))
+- [Don Valentine, Sequoia Capital: "Target Big Markets" (2010)](https://www.youtube.com/watch?v=nKN-abRJMEw)

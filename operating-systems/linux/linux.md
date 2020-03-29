@@ -40,7 +40,7 @@
 - [HN: Linux: IO without entering the kernel (2018)](https://news.ycombinator.com/item?id=18692376)
 - [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide#readme)
 - [libfuse](https://github.com/libfuse/libfuse) - Reference implementation of the Linux FUSE (Filesystem in Userspace) interface.
-- [Darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux.
+- [Darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux. ([Web](http://darlinghq.org/)) ([HN](https://news.ycombinator.com/item?id=22700365))
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#readme)
 - [State of Linux on the MacBook Pro](https://github.com/Dunedan/mbp-2016-linux)
 - [Sampling CPU profiler for Linux similar to perf](https://github.com/nokia/not-perf)

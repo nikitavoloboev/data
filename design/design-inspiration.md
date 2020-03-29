@@ -89,6 +89,7 @@ Here are few more things I liked, design wise.
 - [Moe Amaya](https://moeamaya.com/)
 - [Matt Oswalt](https://oswalt.dev/) ([Code](https://github.com/Mierdin/blog))
 - [Wesley Moore](https://www.wezm.net/v2/)
+- [Tatiana Mac](https://tatianamac.com/)
 - [Two Wrongs](https://two-wrongs.com/)
 - [Nathan Taylor](https://nathan.tokyo/)
 - [Sergio Xalambrí](https://sergiodxa.com/) ([Code](https://github.com/sergiodxa/personal-site))
