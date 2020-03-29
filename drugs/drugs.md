@@ -13,3 +13,4 @@ Moderation is key with drugs of any kind, be it medicine or recreational use. Kn
 - [Decriminalization 2020](https://www.decriminalization.org/) - Drug abuse is a public health issue, not a crime.
 - [Resource for chemistry knowledge](https://www.reddit.com/r/researchchemicals/comments/dysrhi/resource_for_chemistry_knowledge/)
 - [TheeHive subreddit](https://www.reddit.com/r/TheeHive/) - Synthesizing chemicals/drugs.
+- [Aldous Huxley Foresaw America’s Pill-Popping Addiction](https://lithub.com/aldous-huxley-foresaw-americas-pill-popping-addiction-with-eerie-accuracy/) ([HN](https://news.ycombinator.com/item?id=21688096))

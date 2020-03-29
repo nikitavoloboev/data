@@ -50,3 +50,4 @@
 - [HEPML Resources](https://github.com/iml-wg/HEP-ML-Resources#readme) - Listing of useful learning resources for machine learning applications in high energy physics (HEPML).
 - [Explorable Physics](https://landgreen.github.io/physics/index.html) - Course notes for algebra based physics with explorable explanations. ([Code](https://github.com/landgreen/physics))
 - [Ask HN: How to Self Study Physics? (2020)](https://news.ycombinator.com/item?id=22682837)
+- [Information Is Physics](https://cacm.acm.org/magazines/2019/11/240356-information-is-physics/fulltext) ([HN](https://news.ycombinator.com/item?id=21665931))

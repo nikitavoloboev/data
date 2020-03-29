@@ -45,3 +45,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [HSTracker](https://github.com/HearthSim/HSTracker) - Deck tracker and deck manager for Hearthstone on macOS.
 - [The First Video Game (2019)](https://www.youtube.com/watch?v=uHQ4WCU1WQc)
 - [No-Bullshit Games](https://nobsgames.stavros.io/) - Good, non-annoying, enjoyable games. ([HN](https://news.ycombinator.com/item?id=22063744))
+- [Open Worlds](https://reallifemag.com/open-worlds/) - How we became nostalgic for Minecraft. ([HN](https://news.ycombinator.com/item?id=21499767))

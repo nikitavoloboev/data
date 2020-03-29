@@ -106,7 +106,6 @@ I love software and non software tools that help me in some way. Most tools I us
 - [hack.chat](https://hack.chat/) - Minimal, distraction-free chat application.
 - [Seafile](https://www.seafile.com/en/home/) - Enterprise file hosting platform with high reliability and performance.
 - [NoCo](https://noco.io/) - Low-code platform for engineering teams.
-- [Outline](https://outline.com/) - Read & annotate without distractions.
 - [HelloSign](https://www.hellosign.com/) - Most Powerful Platform for Business Agreements.
 - [Liberapay](https://liberapay.com/) - Recurrent donations platform. [OSS](https://github.com/liberapay/liberapay.com).
 - [Catch](https://www.catch.co/) - Taxes, retirement, health insurance and more — built to work together like they always should have.
