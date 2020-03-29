@@ -226,6 +226,8 @@
 - [Down](https://github.com/iwasrobbed/Down/) - Blazing fast Markdown / CommonMark rendering in Swift, built upon cmark.
 - [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - Syntax and feature sugar over AVPlayer. It plays your audio files (local & remote).
 - [GraphViz](https://github.com/SwiftDocOrg/GraphViz) - Swift package for working with GraphViz.
+- [CareKit](https://github.com/carekit-apple/CareKit) - Open source software framework for creating apps that help people better understand and manage their health.
+- [Swift Video Generator](https://github.com/dev-labs-bg/swift-video-generator) - Provides an easy way to combine images and audio into a video or merge multiple videos into one.
 
 ## Other (not lib)
 
