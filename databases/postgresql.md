@@ -72,3 +72,4 @@
 - [Distinct On: The Confusing, Unique and Useful Feature in Postgres (2020)](https://www.yogeshchauhan.com/167/postgres/the-confusing-unique-and-useful-feature-in-postgres-distinct-on) ([HN](https://news.ycombinator.com/item?id=22625642))
 - [Simplify: move code into database functions](https://sivers.org/pg)
 - [Postgres Weekly](https://postgresweekly.com/) - Free, once–weekly e-mail round-up of PostgreSQL news and articles.
+- [graphile-migrate](https://github.com/graphile/migrate) - Opinionated SQL-powered productive roll-forward migration tool for PostgreSQL.

@@ -61,3 +61,4 @@ Full list can be seen in [XML feed of subscriptions under 1. folder](https://gis
 - [Ask HN: What are good solo developer blogs that you enjoy reading? (2020)](https://news.ycombinator.com/item?id=22273224)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
 - [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/) ([HN](https://news.ycombinator.com/item?id=22544688))
+- [Get off Medium and onto the JAMstack](https://www.stackbit.com/medium/)

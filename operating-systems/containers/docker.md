@@ -38,3 +38,4 @@
 - [Docker Images : Part I - Reducing Image Size (2020)](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
 - [docker-squash](https://github.com/jwilder/docker-squash) - Squash docker images to make them smaller.
 - [dregsy](https://github.com/xelalexv/dregsy) - Lets you sync Docker images between registries, public or private.
+- [Curated list of Docker Compose samples](https://github.com/docker/awesome-compose#readme)
