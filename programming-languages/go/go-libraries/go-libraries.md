@@ -368,6 +368,7 @@
 - [txeh](https://github.com/txn2/txeh) - Go library and CLI utilty for /etc/hosts management.
 - [go-jdk](https://github.com/quasilyte/go-jdk) - Run JVM-based code in Go efficiently.
 - [WUID](https://github.com/edwingeng/wuid) - Extremely fast UUID alternative written in golang.
+- [jsonq](https://github.com/jmoiron/jsonq) - Simplify your golang json usage by extracting fields or items from arrays and objects with a simple, hierarchical query.
 
 ## Links
 

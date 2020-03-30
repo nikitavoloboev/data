@@ -34,3 +34,4 @@
 - [Ask HN: Introductory Books on the Stock Market? (2020)](https://news.ycombinator.com/item?id=22709843)
 - [Sequoia Capital podcast episode](https://overcast.fm/+FaxnVsu28) ([Part II](https://overcast.fm/+FaxleB3SE))
 - [Money For The Rest of Us](https://moneyfortherestofus.com/) - Trusted guide for those who manage their own money.
+- [Ask HN: Is now a good time to invest in ETFs? (2020)](https://news.ycombinator.com/item?id=22723957)

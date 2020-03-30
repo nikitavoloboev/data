@@ -31,3 +31,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Kerem's Lightroom presets](http://kerem-bakir.com/shop/)
 - [Photo Stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream.
 - [Photile](https://photile.co/) - Create photo collages from your Instagram photos quickly and easily.
+- [Glass Photo](https://glass.photo/) - Community-focused app for photographers and photography enthusiasts.

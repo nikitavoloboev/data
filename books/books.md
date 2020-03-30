@@ -89,7 +89,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Some more recommends](https://github.com/sapegin/ama/issues/5)
 - [Bret Victor’s favorite books](http://worrydream.com/#!/Links)
 - [AI books](http://www.allitebooks.com/?s=artificial)
-- [Lobsters - what are you reading](https://lobste.rs/s/xwr0lp/what_are_you_reading)
+- [Lobsters - what are you reading (2018)](https://lobste.rs/s/xwr0lp/what_are_you_reading) ([2020](https://lobste.rs/s/oqksbh/what_are_you_reading_this_week))
 - [Ask HN - what are you reading](https://news.ycombinator.com/item?id=14859274)
 - [Math books](https://www.reddit.com/r/math/comments/6xmuhc/math_booksresources_to_pique_math_interest/)
 - [History books](https://www.reddit.com/r/AskHistorians/comments/1403l7/askhistorians_master_book_list_ii/)

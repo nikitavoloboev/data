@@ -25,3 +25,4 @@ Here are tools I use for streaming:
 - [Live Streaming Server Setup (2020)](https://christine.website/blog/rtmp-server-setup-2020-01-11)
 - [obs-scene-switcher](https://github.com/muesli/obs-scene-switcher) - Tracks your active window and switches OBS scenes accordingly.
 - [obs-cli](https://github.com/muesli/obs-cli) - Command-line remote control for OBS.
+- [Vito](https://vito.community/) - Live-streaming delightful events and growing your community online.

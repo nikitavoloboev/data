@@ -31,4 +31,4 @@
 - [Blanket Solutions and Microservices](https://www.stopa.io/post/236)
 - [Consistency is Consistently Undervalued (2016)](http://kevinmahoney.co.uk/articles/consistency-consistently-undervalued/)
 - [Open Application Model Specification](https://oam.dev/) - Specification for building cloud native applications. ([Code](https://github.com/oam-dev/spec))
-- [We built network isolation for 1,500 services to make Monzo more secure (2019)](https://monzo.com/blog/we-built-network-isolation-for-1-500-services) ([HN](https://news.ycombinator.com/item?id=21452643))
+- [We built network isolation for 1,500 services to make Monzo more secure (2019)](https://monzo.com/blog/we-built-network-isolation-for-1-500-services) ([HN](https://news.ycombinator.com/item?id=21452643)) ([HN 2](https://news.ycombinator.com/item?id=22725989))
