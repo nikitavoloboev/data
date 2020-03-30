@@ -7,3 +7,4 @@
 - [Ajv](https://github.com/epoberezkin/ajv) - Fastest JSON Schema Validator.
 - [jtc](https://github.com/ldn-softdev/jtc) - JSON processing utility.
 - [JSMN](https://github.com/zserge/jsmn) - World fastest JSON parser/tokenizer.
+- [jqplay](https://jqplay.org/) - Playground for jq, written in Go. ([Code](https://github.com/jingweno/jqplay))

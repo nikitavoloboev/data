@@ -15,3 +15,4 @@
 - [Puppeteer examples](https://github.com/checkly/puppeteer-examples) - Puppeteer Headless Chrome examples for real life use cases.
 - [Tips on testing React components](https://twitter.com/tlakomy/status/1229800529133477889)
 - [TestCheck.js](https://github.com/leebyron/testcheck-js) - Generative property testing for JavaScript.
+- [Awesome Software Testing](https://github.com/ligurio/awesome-software-quality#readme)

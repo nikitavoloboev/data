@@ -48,6 +48,10 @@
 - [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - Number of preset loading indicators created with SwiftUI.
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - Clean and easy-to-use floating panel UI component for iOS.
 
+## macOS
+
+- [Aperture](https://github.com/wulkano/Aperture) - Record the screen on macOS.
+
 ## Web
 
 - [Vapor](https://github.com/vapor/vapor) - Server-side Swift web framework.

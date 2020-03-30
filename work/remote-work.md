@@ -40,3 +40,4 @@
 - [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork#readme)
 - [Homenauts – Resources for explorers who stay at home during Covid-19](https://www.homenauts.com/) ([HN](https://news.ycombinator.com/item?id=22679663))
 - [Our list of free software for remote work](https://puri.sm/posts/our-essential-list-of-free-software-for-remote-work/) ([HN](https://news.ycombinator.com/item?id=22698299))
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job#readme)

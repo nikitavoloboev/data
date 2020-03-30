@@ -78,3 +78,4 @@ I publish most of my work and make it open source for other people to use and re
 - [ghg](https://github.com/Songmu/ghg) - Get the executable from github releases.
 - [Improving GitHub Issue Labels](http://karolis.koncevicius.lt/posts/improving_github_issue_labels/)
 - [Dasher](https://github.com/colebemis/dasher) - Create flexible dashboards with GitHub queries.
+- [backport](https://github.com/sqren/backport) - Simple CLI tool that automates the process of backporting commits on a GitHub repo.

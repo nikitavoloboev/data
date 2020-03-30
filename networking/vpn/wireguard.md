@@ -11,3 +11,4 @@
 - [Install and configure WireGuard on Raspberry Pi (and others)](https://github.com/adrianmihalko/raspberrypiwireguard)
 - [boringtun](https://github.com/cloudflare/boringtun) - Implementation of the WireGuard protocol designed for portability and speed.
 - [HN: WireGuard is in net-next (2019)](https://news.ycombinator.com/item?id=21741133)
+- [HN: WireGuard 1.0.0 (2020)](https://news.ycombinator.com/item?id=22727358)

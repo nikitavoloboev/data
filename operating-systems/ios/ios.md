@@ -14,6 +14,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [mChat](https://github.com/realpaliy/mChat) - Real-time messaging app written in Swift for iOS devices.
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker) - Coronavirus tracker app for iOS & macOS with map & charts.
 - [ProtonMail](https://github.com/ProtonMail/ios-mail)
+- [Sift](https://github.com/agrinman/sift-ios) - Uncover network traffic in real-time for every app on your phone.
 
 ## Notes
 
@@ -110,3 +111,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Better ways to structure iOS apps](https://github.com/onmyway133/fantastic-ios-architecture#readme)
 - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps#readme)
 - [Curated list of awesome iOS UI/UX libraries](https://github.com/cjwirth/awesome-ios-ui#readme)
+- [BitBot](https://github.com/deszip/BitBot) - Bitrise CI unofficial macOS client.

@@ -35,3 +35,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Common utilities for Ethereum](https://github.com/status-im/nim-eth)
 - [Web3Modal](https://github.com/web3modal/web3modal) - Single Web3 / Ethereum provider solution for all Wallets.
 - [Lighthouse](https://github.com/sigp/lighthouse) - Rust Ethereum 2.0 Client.
+- [Utilities for handling Ethereum keys](https://github.com/ethereumjs/ethereumjs-wallet)

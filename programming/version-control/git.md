@@ -105,3 +105,4 @@ I love Git and version control. And I use version control over any project I do.
 - [dgit](https://github.com/quorumcontrol/dgit) - Git with decentralized remotes. ([HN](https://news.ycombinator.com/item?id=22684945))
 - [Setting Up Git Identities (2020)](https://www.micah.soy/posts/setting-up-git-identities/) ([HN](https://news.ycombinator.com/item?id=22672491))
 - [Git Immersion](http://gitimmersion.com/) - Guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
+- [Ship.js](https://github.com/algolia/shipjs) - Take control of what is going to be your next release.
