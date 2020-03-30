@@ -15,3 +15,4 @@
 - [Tailwind Colors](https://tailwind-colors.meidev.co) - Tailwind CSS color configration tool. ([Code](https://github.com/ameistad/tailwind-colors))
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation) - Beautiful extension for TailwindCSS. ([Code](https://github.com/creativetimofficial/tailwind-starter-kit))
 - [Margin considered harmful](https://mxstbr.com/thoughts/margin) ([HN](https://news.ycombinator.com/item?id=22676442))
+- [Tailwind CSS UI](https://www.figma.com/community/file/768809027799962739) ([Code](https://github.com/impulse/tailwindcss-figma-kit))
