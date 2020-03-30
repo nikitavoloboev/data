@@ -24,3 +24,4 @@ In short, it can be summed down to this:
 - [StackOverflow First, GitHub Issues Second, and Emails Last](https://yihui.name/en/2017/08/so-gh-email/) ([HN](https://news.ycombinator.com/item?id=18939281))
 - [Don't ask to ask, just ask](https://sol.gfxile.net/dontask.html)
 - [Asking for help from teammates when stuck is one of the best ways to grow](https://twitter.com/GergelyOrosz/status/1236606480763232257)
+- [Asking questions (2020)](https://www.aaronkharris.com/asking-questions) ([HN](https://news.ycombinator.com/item?id=22729028))

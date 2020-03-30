@@ -30,3 +30,4 @@ I use VS Code [Monokai Night](https://github.com/fabiospampinato/vscode-monokai-
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [sshcode](https://github.com/cdr/sshcode) - CLI to automatically install and run code-server over SSH.
 - [sail](https://github.com/cdr/sail) - Instant, pre-configured VS Code development environments.
+- [StackBlitz](https://stackblitz.com/) - Online IDE powered by Visual Studio Code. ([Code](https://github.com/stackblitz/core))

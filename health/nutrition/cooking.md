@@ -17,3 +17,4 @@ I share some [recipes I like](recipes.md).
 - [Tastemade](https://www.tastemade.com/recipes)
 - [Thomas Keller teaches cooking](https://www.masterclass.com/classes/thomas-keller-teaches-cooking-techniques)
 - [Allrecipes](https://www.allrecipes.com/)
+- [J. Kenji López-Alt cooking videos](https://www.youtube.com/channel/UCqqJQ_cXSat0KIAVfIfKkVA)
