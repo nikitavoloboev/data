@@ -25,6 +25,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [VVVVVV](https://github.com/TerryCavanagh/vvvvvv)
 - [Julius](https://github.com/bvschaik/julius) - Open source re-implementation of Caesar III.
 - [Quake 2](https://github.com/id-Software/Quake-2)
+- [Aim and Shoot](https://victorribeiro.com/aimAndShoot/) - Neuroevolution game experiment. ([Code](https://github.com/victorqribeiro/aimAndShoot))
 
 ## Recommendations
 

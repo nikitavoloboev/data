@@ -20,3 +20,4 @@
 - [FaceForensics++](https://github.com/ondyari/FaceForensics) - Learning to Detect Manipulated Facial Images.
 - [Scale AI](https://scale.com/) - High quality training and validation data for AI applications.
 - [Audio Datasets for Machine Learning](https://lionbridge.ai/datasets/12-best-audio-datasets-for-machine-learning/) ([HN](https://news.ycombinator.com/item?id=22664465))
+- [Collection of large datasets for conversational response selection](https://github.com/PolyAI-LDN/conversational-datasets)

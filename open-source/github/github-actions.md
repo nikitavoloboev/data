@@ -43,6 +43,7 @@
 ## JS
 
 - [npm-publish-action](https://github.com/pascalgn/npm-publish-action) - GitHub action to automatically publish packages to npm.
+- [Size Limit](https://github.com/andresz1/size-limit-action) - Compare the real cost to run your JS app or lib to keep good performance in every pull request.
 
 ## Nix
 
@@ -75,3 +76,4 @@
 - [GitHub Actions Runner](https://github.com/actions/runner) - Runner is the application that runs a job from a GitHub Actions workflow. The runner can run on the hosted machine pools or run on self-hosted environments.
 - [Awesome Actions](https://github.com/sdras/awesome-actions#readme) - Curated list of awesome actions to use on GitHub.
 - [Actions Panel](https://www.actionspanel.app/) - Manually Trigger Your GitHub Actions. ([HN](https://news.ycombinator.com/item?id=22711935))
+- [Running GitHub Actions on Preview Deploys (2020)](https://webcloud.se/blog/2020-02-16-github-actions-preview-deploys/)

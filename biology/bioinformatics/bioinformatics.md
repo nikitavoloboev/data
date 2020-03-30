@@ -32,3 +32,4 @@
 - [Systems Biology and Biotechnology Specialization course](https://www.coursera.org/specializations/systems-biology)
 - [Path to a free self-taught education in Bioinformatics](https://github.com/ossu/bioinformatics#readme)
 - [How to Build a Biotech](https://www.celinehh.com/biotech)
+- [Unified rational protein engineering with sequence-based deep representation learning (2019)](https://www.nature.com/articles/s41592-019-0598-1)
