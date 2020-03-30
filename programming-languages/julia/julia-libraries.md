@@ -49,6 +49,7 @@
 - [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) - Univariate and multivariate optimization in Julia.
 - [StaticArrays](https://github.com/JuliaArrays/StaticArrays.jl) - Statically sized arrays for Julia.
 - [Threads](https://github.com/tkf/ThreadsX.jl) - Parallelized Base functions.
+- [DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) - Implements a variety of data structures.
 
 ## Links
 

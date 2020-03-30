@@ -19,3 +19,4 @@
 - [Software Abstractions book](http://softwareabstractions.org/)
 - [Safe and Efficient, Now](http://okmij.org/ftp/Computation/lightweight-static-guarantees.html)
 - [Experiences moving from tests to strong typing? (2020)](https://lobste.rs/s/olecii/experiences_moving_from_tests_strong)
+- [Margin in Software Systems (2010)](https://blog.regehr.org/archives/50)

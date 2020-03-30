@@ -304,3 +304,4 @@
 - [Overview of Rust error handling libraries (2019)](https://blog.yoshuawuyts.com/error-handling-survey/) ([HN](https://news.ycombinator.com/item?id=21606221))
 - [Quickly generate Dash docsets for third-party Rust crates](https://github.com/cmyr/rust-dash-docset-gen)
 - [Interact with crates.io from the command-line](https://github.com/Byron/crates-io-cli-rs)
+- [Rustsim](https://rustsim.org/) - Rust crates for numerical simulation.

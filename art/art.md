@@ -61,6 +61,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Michał Klimczak](https://500px.com/shume)
 - [ariduka55](http://ariduka55.tumblr.com/)
 - [Mocaran](https://mocaran.com/)
+- [Steve Teeple](https://steveteeps.com/)
 - [Leonardo Santamaria](http://www.leonardosantamaria.com/)
 - [Michal Kváč](https://www.artstation.com/kvacm)
 - [Nicola Samori](https://www.artsy.net/artist/nicola-samori)
