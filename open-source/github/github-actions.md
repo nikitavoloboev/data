@@ -22,6 +22,7 @@
 - [GitHub Pages Deploy Action](https://github.com/JamesIves/github-pages-deploy-action)
 - [GitHub Action for the OCaml programming language](https://github.com/avsm/setup-ocaml)
 - [Upload Release Asset](https://github.com/actions/upload-release-asset) - Action to upload a release asset via the GitHub Release API.
+- [Publish to GitHub](https://github.com/mikeal/publish-to-github-action) - GitHub Action to push any local file changes, including new files, back to master.
 
 ## Go
 

@@ -30,3 +30,4 @@
 - [KubOS](https://github.com/kubos/kubos) - Open source software stack for satellites.
 - [Exoplanets and Cosmology - Nobel Prize in Physics 2019](https://www.youtube.com/watch?v=Gq-atYZFKPQ)
 - [Spin doctors: Astrophysicists find when galaxies rotate, size matters (2019)](https://www.scienceinpublic.com.au/other/spin-doctors-astrophysicists-find-when-galaxies-rotate-size-matters)
+- [Akassh Systems](https://akashsystems.com/) - Focused on developing and supplying the next generation of extreme bandwidth, hyper-efficient communications gear for space satellites.
