@@ -33,3 +33,5 @@
 - [Common solutions and tools developed by Google Cloud's Professional Services team](https://github.com/GoogleCloudPlatform/professional-services#readme)
 - [Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words#readme)
 - [Awesome Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild#readme) - Curated list of resources about all things Google Cloud Build.
+- [How to burn the most money with a single click in Azure (2020)](https://mijailovic.net/2020/03/28/azure-money-burning/) ([HN](https://news.ycombinator.com/item?id=22718330))
+- [Awesome Cloud Native](https://github.com/rootsongjc/awesome-cloud-native#readme)

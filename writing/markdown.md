@@ -22,3 +22,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [markdown-table](https://github.com/wooorm/markdown-table) - Markdown tables, with alignment.
 - [gdocs2md](https://github.com/mangini/gdocs2md) - Simple Google Apps script to convert a properly formatted Google Drive Document to markdown.
 - [MarkdownAttributedString](https://github.com/chockenberry/MarkdownAttributedString) - Adding Markdown support to NSAttributedString.
+- [From Markdown to Video](https://www.videopuppet.com/docs/script/) ([HN](https://news.ycombinator.com/item?id=22718854))

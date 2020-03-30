@@ -36,3 +36,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: What projects are you working on now? (2020)](https://news.ycombinator.com/item?id=22648431)
 - [100 Little Ideas (2020)](https://www.collaborativefund.com/blog/100-little-ideas/) ([HN](https://news.ycombinator.com/item?id=22382694))
 - [Ask HN: What do you do when have free time? (2020)](https://news.ycombinator.com/item?id=21521275)
+- [Ask HN: What is your passive income 2019?](https://news.ycombinator.com/item?id=21389776)

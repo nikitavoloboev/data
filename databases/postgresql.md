@@ -30,7 +30,7 @@
 - [HN: PostgreSQL 12 release (2019)](https://news.ycombinator.com/item?id=21146356)
 - [PostgreSQL: When it’s not your job (2017)](https://thebuild.com/presentations/not-your-job-pgconf-us-2017.pdf)
 - [Postgres Is Underrated—It Handles More than You Think (2019)](https://dev.to/heroku/postgres-is-underrated-it-handles-more-than-you-think-4ff3) ([Lobsters](https://lobste.rs/s/oqb6fu/postgres_is_underrated_it_handles_more))
-- [Postgres Schema Design](https://www.graphile.org/postgraphile/postgresql-schema-design/)
+- [Postgres Schema Design](https://www.graphile.org/postgraphile/postgresql-schema-design/) ([HN](https://news.ycombinator.com/item?id=22718466))
 - [PostgreSQL for Beginners book](https://postgrespro.com/education/books/introbook) - Intended for those who only start getting acquainted with the world of PostgreSQL.
 - [PostgreSQL Notes](https://github.com/poudel/notes/blob/master/notes/postgresql.org)
 - [pg_flame](https://github.com/mgartner/pg_flame) - Flamegraph generator for Postgres EXPLAIN ANALYZE output.
@@ -73,3 +73,4 @@
 - [Simplify: move code into database functions](https://sivers.org/pg)
 - [Postgres Weekly](https://postgresweekly.com/) - Free, once–weekly e-mail round-up of PostgreSQL news and articles.
 - [graphile-migrate](https://github.com/graphile/migrate) - Opinionated SQL-powered productive roll-forward migration tool for PostgreSQL.
+- [pgslice](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.

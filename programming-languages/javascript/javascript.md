@@ -147,3 +147,4 @@
 - [Seafox](https://github.com/KFlash/seafox) - Blazing fast 100% spec compliant, self-hosted javascript parser written in Typescript.
 - [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 - [Awesome Promises](https://github.com/wbinnssmith/awesome-promises#readme)
+- [jscodeshift](https://github.com/facebook/jscodeshift) - Toolkit for running codemods over multiple JavaScript or TypeScript files.

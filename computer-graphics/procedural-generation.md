@@ -13,3 +13,4 @@
 - [A two-dimensional maze generator in C++](https://joy.recurse.com/posts/465-a-two-dimensional-maze-generator-in-c)
 - [Procedural-Cities](https://github.com/magnificus/Procedural-Cities) - Aims to provide a framework and a solid implementation of different techniques for generating complete seamless procedural cities with interiors for all buildings.
 - [Glyphs](https://github.com/AdrianMargel/glyphs) - Procedurally generated glyphs.
+- [Oleg Dolya's generators](https://watabou.itch.io/)
