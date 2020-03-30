@@ -18,3 +18,4 @@
 - [Frog](https://github.com/greghendershott/frog) - Static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments.
 - [The Missing Guide to Racket's Web Server (2020)](https://defn.io/2020/02/12/racket-web-server-guide/)
 - [Tips, tricks, articles, and tutorials for getting the most out of Racket. By Jesse Alama.](https://lisp.sh/)
+- [Racket Manifesto](https://www2.ccs.neu.edu/racket/pubs/manifesto.pdf)

@@ -62,3 +62,4 @@
 - [My Coding Interview Style](https://amy.dev/?p=783)
 - [Interview experience posts](https://blog.rampatra.com/category/interview/)
 - [How to Interview an Executive](http://delian.io/lessons-2)
+- [Perfect questions to ask in your job interview](https://www.keyvalues.com/culture-queries)

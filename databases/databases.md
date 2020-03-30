@@ -14,7 +14,7 @@
 - [AresDB](https://github.com/uber/aresdb) - GPU-powered real-time analytics storage and query engine.
 - [Sophia](https://github.com/pmwkaa/sophia) - Modern transactional key-value/row storage library.
 - [Bolt](https://github.com/etcd-io/bbolt) - Embedded key/value database for Go.
-- [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
+- [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics. ([Web](https://www.influxdata.com/))
 - [EdgeDB](https://github.com/edgedb/edgedb) - Open-source object-relational database built on top of PostgreSQL.
 - [Scylla](https://www.scylladb.com/) - Drop-in Apache Cassandra alternative big data database that powers your applications with ultra-low latency and extremely high throughput, while reducing TCO to a fraction of most NoSQL databases. [OSS](https://github.com/scylladb/scylla).
 - [JanusGraph](https://github.com/JanusGraph/janusgraph) - Open-source, distributed graph database.

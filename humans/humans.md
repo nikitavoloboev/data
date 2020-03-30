@@ -18,6 +18,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans#r
 - [Devine Lu Linvega: I Have Been Living and Coding on a Sailboat Since 2016 (2019)](https://dev.to/gitnation/devine-lu-linvega-i-have-been-living-and-coding-on-a-sailboat-since-2016-54id)
 - [114 Тёплый выпуск с Дэном Абрамовым (2019)](https://www.youtube.com/watch?v=9aXRJ8Z-kxA)
 - [A Conversation with Arthur Whitney (2009)](https://queue.acm.org/detail.cfm?id=1531242)
+- [Playboy Interview: Steve Jobs (1985)](http://reprints.longform.org/playboy-interview-steve-jobs) ([HN](https://news.ycombinator.com/item?id=21374308))
 
 ## Personal workflows
 

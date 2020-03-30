@@ -26,3 +26,5 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [The Ph.D. Octopus](https://www.uky.edu/~eushe2/Pajares/octopus.html)
 - [Dev Degree](https://devdegree.ca/) - 4-year, work-integrated learning program that combines hands-on developer experience at Shopify with an accredited Computer Science degree from either Carleton University or York University.
 - [Locally-Adaptive Nonparametric Online Learning (2020)](https://arxiv.org/abs/2002.01882)
+- [YC, not Lambda School, is unbundling education](https://medium.com/swlh/y-combinator-not-lambda-school-is-unbundling-education-bd6fdf0c78d7) ([HN](https://news.ycombinator.com/item?id=21439089))
+- [Avenify](https://avenify.com/) - Apply for up to \$15,000 in interest-free funding. No credit score, cosigner, or collateral required.
