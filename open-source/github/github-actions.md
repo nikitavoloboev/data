@@ -46,6 +46,10 @@
 - [npm-publish-action](https://github.com/pascalgn/npm-publish-action) - GitHub action to automatically publish packages to npm.
 - [Size Limit](https://github.com/andresz1/size-limit-action) - Compare the real cost to run your JS app or lib to keep good performance in every pull request.
 
+## Docker
+
+- [build-push-action](https://github.com/docker/build-push-action) - Builds and pushes Docker images and will log in to a Docker registry if required.
+
 ## Nix
 
 - [install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.

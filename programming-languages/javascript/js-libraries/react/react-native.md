@@ -69,3 +69,4 @@
 - [react-native-app-link](https://github.com/FiberJW/react-native-app-link) - Easily link to other apps with React Native.
 - [@react-native-community/bob](https://github.com/react-native-community/bob) - Simple CLI to scaffold and build React Native libraries for different targets.
 - [saReact Native Notifications](https://github.com/wix/react-native-notifications)
+- [react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) - Highly customizable cross platform ActionSheet for react native.
