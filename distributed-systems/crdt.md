@@ -13,3 +13,4 @@
 - [Swarm.js](https://github.com/gritzko/swarm) - JavaScript replicated model (M of MVC) library.
 - [To OT or CRDT, that is the question (2020)](https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/) ([HN](https://news.ycombinator.com/item?id=22039950))
 - [CRDTs wiki](https://crdt.tech/) ([Code](https://github.com/ept/crdt-website))
+- [Awesome CRDT](https://github.com/alangibson/awesome-crdt#readme)

@@ -282,6 +282,7 @@
 - [once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros.
 - [genawaiter](https://github.com/whatisaphone/genawaiter) - Stackless generators on stable Rust.
 - [libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
+- [num](https://github.com/rust-num/num) - Collection of numeric types and traits for Rust.
 
 ## Cargo Plugins
 

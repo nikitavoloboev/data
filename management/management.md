@@ -22,3 +22,4 @@
 - [Product Management Mental Models for Everyone (2018)](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b)
 - [Roadmap templates for product management](https://usefyi.com/templates/roadmap-templates/)
 - [Resources for Staff-plus engineers (2020)](https://lethain.com//staff-plus-eng-resources/)
+- [Ask HN: How to self study management, especially supply chain management? (2020)](https://news.ycombinator.com/item?id=22736545)
