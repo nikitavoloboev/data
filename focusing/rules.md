@@ -247,3 +247,7 @@
 ## Shell
 
 - Name aliases/functions optimizing for balance of character positioning and mnemonics (i.e. `r -> rg`).
+
+## Karabiner
+
+- Sort bindings in the order of keyboard (Q -> W -> E ..). Spacebar is always last key.
