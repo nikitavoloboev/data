@@ -42,7 +42,7 @@
 - [use-local-storage](https://github.com/astoilkov/use-local-storage-state) - Like useState() but for local storage.
 - [useWorker](https://github.com/alewin/useWorker) - Running heavy task in background, without blocking the UI.
 - [use-persisted-state](https://github.com/donavon/use-persisted-state) - Custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state.
-- [useSound](https://github.com/joshwcomeau/use-sound) - React Hook for Sound Effects.
+- [useSound](https://github.com/joshwcomeau/use-sound) - React Hook for Sound Effects. ([Article](https://joshwcomeau.com/react/announcing-use-sound-react-hook/))
 
 ## Notes
 
