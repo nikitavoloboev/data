@@ -25,3 +25,4 @@
 - [Front-End Conferences](https://github.com/frontendfront/front-end-conferences#readme) - List of upcoming front-end related conferences.
 - [Microfrontends made easy](https://github.com/single-spa/single-spa)
 - [Frontend Lobsters, what are your pet peeves about the languages / frameworks you use? (2020)](https://lobste.rs/s/7jwneg/frontend_lobsters_what_are_your_pet)
+- [Open UI](https://open-ui.org) - Maintain an open standard for UI and promote its adherence and adoption. ([Code](https://github.com/WICG/open-ui)) ([HN](https://news.ycombinator.com/item?id=22731898))

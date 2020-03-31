@@ -135,3 +135,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Within](https://gowithin.co/) - Leadership community for women in design.
 - [Invenia Labs](https://www.invenia.ca/labs/)
 - [WAPI Radio](https://wapi.fm/) - Ephemeral live radio station that will air for only 24 hours.
+- [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification#readme)

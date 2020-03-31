@@ -170,3 +170,4 @@
 - [Understanding Serde (2019)](https://www.joshmcguigan.com/blog/understanding-serde/) ([HN](https://news.ycombinator.com/item?id=21561585))
 - [Rust 2020: GUI and community](https://raphlinus.github.io/rust/druid/2019/10/31/rust-2020.html)
 - [Typestates in Rust (2018)](https://yoric.github.io/post/rust-typestate/) ([HN](https://news.ycombinator.com/item?id=21413174))
+- [State Machines in Rust (2020)](https://blog.yoshuawuyts.com/state-machines/)

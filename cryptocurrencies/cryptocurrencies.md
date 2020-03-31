@@ -22,3 +22,4 @@
 - [Freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot.
 - [Kong](https://kong.cash/) - Physical crypto cash.
 - [Flow Playground](https://www.onflow.org/play) - Learn resource-oriented programming.
+- [Binance](https://www.binance.com/en) - Trade Bitcoin, BNB, and hundreds of other cryptocurrencies in minutes.
