@@ -21,3 +21,4 @@
 - [Pywal](https://github.com/dylanaraps/pywal) - Tool that generates a color palette from the dominant colors in an image.
 - [HSLuv, a developer friendly perceptual color space (2020)](https://www.kuon.ch/post/2020-03-08-hsluv/)
 - [colors.lol](https://colors.lol/) - Overly descriptive color palettes.
+- [Color gradient generator](https://mybrandnewlogo.com/color-gradient-generator)

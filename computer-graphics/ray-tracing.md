@@ -8,6 +8,6 @@
 - [C++17 constexpr Compile-time Ray Tracer](https://github.com/tcbrindle/raytracer.hpp)
 - [Nori](https://github.com/wjakob/nori) - Educational ray tracer.
 - [Ray tracing a tiny procedural planet](http://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
-- [HTML5 raycasting demo using React](https://ahuth.github.io/raycast/) ([Code](https://github.com/ahuth/raycast))
+- [HTML5 raycasting demo using React](https://ahuth.github.io/raycast/) ([Code](https://github.com/ahuth/raycast)) ([HN](https://news.ycombinator.com/item?id=22725275))
 - [Lighthouse 2 framework for real-time ray tracing](https://github.com/jbikker/lighthouse2)
 - [Dawn RT](https://github.com/maierfelix/dawn-ray-tracing) - Unofficial Ray-Tracing extension for Dawn/WebGPU.
