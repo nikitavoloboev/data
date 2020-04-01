@@ -113,3 +113,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Curated list of awesome iOS UI/UX libraries](https://github.com/cjwirth/awesome-ios-ui#readme)
 - [BitBot](https://github.com/deszip/BitBot) - Bitrise CI unofficial macOS client.
 - [How Spotify halved build times with just one script (2019)](https://labs.spotify.com/2019/10/23/when-in-rome-how-spotify-halved-build-times-with-just-one-script/)
+- [Scaling up an iOS Codebase • Tjeerd In't Veen (2020)](https://www.youtube.com/watch?v=n09omYo_QPk&list=PLEx5khR4g7PLHBVGOjNbevChU9DOL3Axj)
