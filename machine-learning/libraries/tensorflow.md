@@ -33,3 +33,4 @@
 - [TensorFlow Examples](https://github.com/tensorflow/examples)
 - [A Primer on TensorFlow 2.0 (2019)](https://www.debugmind.com/2019/04/07/a-primer-on-tensorflow-2-0/)
 - [Convert TensorFlow models to ONNX](https://github.com/onnx/tensorflow-onnx)
+- [TensorFlow-Slim](https://github.com/google-research/tf-slim) - Lightweight library for defining, training and evaluating complex models in TensorFlow.

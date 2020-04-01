@@ -87,3 +87,4 @@
 - [Deep Tutorials for PyTorch](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch#readme)
 - [Matchbox](https://github.com/salesforce/matchbox) - Enables deep learning researchers to write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
 - [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP.
+- [Relational Networks](https://github.com/kimhc6028/relational-networks) - PyTorch implementation of "A simple neural network module for relational reasoning".

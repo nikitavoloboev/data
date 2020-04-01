@@ -19,3 +19,5 @@
 - [Optimistic, Offline-First Apps with Svelte and Amplify DataStore (2020)](https://www.swyx.io/writing/svelte-amplify-datastore)
 - [Svelte Preprocess](https://github.com/kaisermann/svelte-preprocess) - Svelte preprocessor with baked in support for common used preprocessors.
 - [Lobsters: Svelte is unappealing (2020)](https://lobste.rs/s/d6yta7/svelte_is_unappealing)
+- [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS.
+- [Svelte DevTools](https://github.com/RedHatter/svelte-devtools) - Extension that allows inspection of Svelte component hierarchy and state in the Firefox and Chrome developer tools.
