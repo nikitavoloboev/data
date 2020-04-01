@@ -233,6 +233,7 @@
 - [GraphViz](https://github.com/SwiftDocOrg/GraphViz) - Swift package for working with GraphViz.
 - [CareKit](https://github.com/carekit-apple/CareKit) - Open source software framework for creating apps that help people better understand and manage their health.
 - [Swift Video Generator](https://github.com/dev-labs-bg/swift-video-generator) - Provides an easy way to combine images and audio into a video or merge multiple videos into one.
+- [SociableWeaver](https://github.com/NicholasBellucci/SociableWeaver) - Build declarative GraphQL queries in Swift.
 
 ## Other (not lib)
 
@@ -244,3 +245,4 @@
 - [Ice](https://github.com/jakeheis/Ice) - Developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
 - [freshOS](https://freshos.github.io/) - 100% Open Source iOS Toolset.
 - [swift-outdated](https://github.com/kiliankoe/swift-outdated) - Swift subcommand for displaying when Swift dependencies are out of date.
+- [Swift Package Registry](https://swiftpackageregistry.com/) ([Code](https://github.com/twodayslate/swift-package-registry/))

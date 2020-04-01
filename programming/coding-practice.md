@@ -25,6 +25,7 @@
 - [Python](https://github.com/davidnsun/leetcode-py)
 - [C](https://github.com/begeekmyfriend/leetCode)
 - [Swift](https://github.com/soapyigu/LeetCode-Swift)
+- [TypeScript](https://github.com/enricopolanski/leetcode)
 - [Solve LeetCode problems in VS Code](https://github.com/jdneo/vscode-leetcode)
 
 ## Project Euler solutions
