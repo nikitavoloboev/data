@@ -283,6 +283,7 @@
 - [genawaiter](https://github.com/whatisaphone/genawaiter) - Stackless generators on stable Rust.
 - [libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
 - [num](https://github.com/rust-num/num) - Collection of numeric types and traits for Rust.
+- [hecs](https://github.com/Ralith/hecs) - Provides a high-performance, minimalist entity-component-system (ECS) world.
 
 ## Cargo Plugins
 

@@ -11,6 +11,7 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 ## Notes
 
 - [Stanislav Grof](http://en.wikipedia.org/wiki/Stanislav_Grof), [Ajahn Chah](http://en.wikipedia.org/wiki/Ajahn_Chah), Rupert Spira are interesting.
+- [It’s being mindful and living in the present moment. Not worried about the future or the past. Also, the goal of meditation is not to quit having thoughts, but to observe them, watch them without reacting and rationalizing them. This helps rewire the way your brain works similar to cognitive behavioral therapy. Typically, people who work towards this, have less anxiety and depression because they don’t react to every thought they have, which gives them a greater control of their emotions.](https://www.reddit.com/r/RationalPsychonaut/comments/fsjp6s/in_the_psychedelic_community_its_insinuated_that/)
 
 ## Links
 
