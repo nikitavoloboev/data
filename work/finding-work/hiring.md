@@ -27,3 +27,4 @@
 - [The Hiring Post (2015)](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 - [Reference checks](https://jackealtman.com/reference-checks)
 - [How to Become a Magnet for Talent and Assess Talent (2019)](http://delian.io/lessons-5)
+- [When is a senior engineer not a senior engineer?](http://www.mooreds.com/wordpress/archives/2812)

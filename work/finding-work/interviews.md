@@ -63,3 +63,4 @@
 - [Interview experience posts](https://blog.rampatra.com/category/interview/)
 - [How to Interview an Executive](http://delian.io/lessons-2)
 - [Perfect questions to ask in your job interview](https://www.keyvalues.com/culture-queries)
+- [The Eng Hiring Bar: What the hell is it? (2020)](http://blog.interviewing.io/the-eng-hiring-bar-what-the-hell-is-it/)
