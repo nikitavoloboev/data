@@ -26,3 +26,4 @@ Some things I found funny.
 - [science diagrams that look like shitposts](https://twitter.com/FizzyKai_/status/1217550609160773633)
 - [Hitler uses Kubernetes (2020)](https://www.youtube.com/watch?v=9wvEwPLcLcA)
 - [how we write/review code in big tech companies](https://www.youtube.com/watch?v=rR4n-0KYeKQ)
+- [Vim rendered on a cube for no reason ](https://github.com/oakes/vim_cubed) ([HN](https://news.ycombinator.com/item?id=22743267))
