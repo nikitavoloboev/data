@@ -136,3 +136,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Invenia Labs](https://www.invenia.ca/labs/)
 - [WAPI Radio](https://wapi.fm/) - Ephemeral live radio station that will air for only 24 hours.
 - [Awesome Risk Quantification](https://github.com/veeral-patel/awesome-risk-quantification#readme)
+- [gray-matter](https://github.com/jonschlinkert/gray-matter) - Parse front-matter from a string or file.
+- [Year of the Meteor](https://desert.glass/)

@@ -246,6 +246,7 @@
     - [C libraries](programming-languages/c/c-libraries.md)
   - [C++](programming-languages/cpp/cpp.md)
     - [C++ libraries](programming-languages/cpp/cpp-libraries.md)
+    - [Qt](programming-languages/cpp/qt.md)
   - [Objective C](programming-languages/objc/objc.md)
     - [Objective C libraries](programming-languages/objc/objc-libraries.md)
   - [Lua](programming-languages/lua.md)

@@ -64,7 +64,7 @@
 - [Nix builder for Kubernetes](https://gist.github.com/tazjin/08f3d37073b3590aacac424303e6f745)
 - [Nixery](http://nixery.dev/nixery.html) - Provides the ability to pull ad-hoc container images from a Docker-compatible registry server. ([Code](https://github.com/google/nixery))
 - [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix.
-- [Make Nix precisely emulate gitignore](https://github.com/hercules-ci/gitignore)
+- [Make Nix precisely emulate gitignore](https://github.com/hercules-ci/gitignore.nix)
 - [Nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager.
 - [Nix - A One Pager](https://github.com/tazjin/nix-1p#readme) - A (more or less) one page introduction to Nix, the language.
 - [yants](https://github.com/tazjin/yants) - Tiny type-checker for data in Nix, written in Nix.

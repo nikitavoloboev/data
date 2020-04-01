@@ -27,3 +27,4 @@
 - [Tindie](https://www.tindie.com/) - Buy and Sell DIY hardware products.
 - [Ventilators 101: What They Do and How They Work (2020)](https://hackaday.com/2020/03/25/ventilators-101-what-they-do-and-how-they-work/)
 - [From the Transistor to the Web Browser](https://github.com/geohot/fromthetransistor#readme)
+- [ZetZ](https://github.com/aep/zz) - For code close to hardware, where C is and will remain the defacto standard system interface. You can also use it to build cross platform libraries, with a clean portable C-standard api.

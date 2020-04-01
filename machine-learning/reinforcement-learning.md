@@ -53,3 +53,4 @@
 - [PhoenixGo](https://github.com/Tencent/PhoenixGo) - Go AI program which implements the AlphaGo Zero paper.
 - [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade Efficiently with Reinforcement Learning.
 - [En-Lightning Reinforcement Learning (2020)](https://towardsdatascience.com/en-lightning-reinforcement-learning-a155c217c3de) - Building a DQN with PyTorch Lightning.
+- [Transformer Reinforcement Learning](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.

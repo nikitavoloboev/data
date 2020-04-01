@@ -23,6 +23,7 @@
 - [ureq](https://github.com/algesten/ureq) - Minimal request library in rust.
 - [Mendes](https://github.com/djc/mendes) - Rust web toolkit for impatient perfectionists.
 - [Roa](https://github.com/Hexilee/roa) - Async web framework inspired by koajs, lightweight but powerful.
+- [rweb](https://github.com/kdy1/rweb) - Yet another web server framework for rust.
 
 ## WASM
 
@@ -286,6 +287,7 @@
 - [hecs](https://github.com/Ralith/hecs) - Provides a high-performance, minimalist entity-component-system (ECS) world.
 - [intrusive-collections](https://github.com/Amanieu/intrusive-rs) - Intrusive collections for Rust.
 - [froggy](https://github.com/kvark/froggy) - Component Graph System experiment.
+- [Legion](https://github.com/TomGillen/legion) - Aims to be a feature rich high performance ECS library for Rust game projects with minimal boilerplate.
 
 ## Cargo Plugins
 

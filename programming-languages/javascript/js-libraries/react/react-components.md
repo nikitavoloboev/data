@@ -77,6 +77,7 @@
 - [react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch) - Super fast and light react npm package for zooming, panning and pinching html elements in easy way.
 - [ReactShadow](https://github.com/Wildhoney/ReactShadow) - Utilise Shadow DOM in React with all the benefits of style encapsulation.
 - [React GridList](https://github.com/jamiebuilds/react-gridlist) - Virtual-scrolling GridList component based on CSS Grids.
+- [React Charts](https://github.com/tannerlinsley/react-charts) - Simple, immersive and interactive charts for React.
 
 ## Links
 

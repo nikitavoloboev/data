@@ -19,3 +19,5 @@
 - [SVG Animations](https://andrew.wang-hoyer.com/experiments/svg-animations/) ([Code](https://github.com/ndrwhr/svg-animation-src))
 - [Creating a Pencil Effect in SVG (2020)](https://heredragonsabound.blogspot.com/2020/02/creating-pencil-effect-in-svg.html) ([HN](https://news.ycombinator.com/item?id=22645959))
 - [Vivus](http://maxwellito.github.io/vivus/) - JavaScript library to make drawing animation on SVG. ([Code](https://github.com/maxwellito/vivus))
+- [Canvas2Svg](https://github.com/gliffy/canvas2svg) - Translates HTML5 Canvas draw commands to SVG.
+- [canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas.
