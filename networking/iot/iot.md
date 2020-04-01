@@ -30,3 +30,4 @@
 - [ESP8266 series chips](http://esp8266.net/) - system-on-chip (SoC) which integrates a 32-bit Tensilica microcontroller, standard digital peripheral interfaces, antenna switches, RF balun & more.
 - [Packet Broker](https://www.packetbroker.org/) - Neutral and open Internet of Things packet broker allowing IoT operators to interoperate according to the open principles of the internet. ([Client](https://github.com/packetbroker/pb)) ([Go API](https://github.com/packetbroker/go-api)) ([API](https://github.com/packetbroker/api))
 - [IoT Device examples (2020)](https://www.reddit.com/r/IOT/comments/encwbz/cool_iot_devices/)
+- [Zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Allows you to use your Zigbee devices without the vendors bridge or gateway.

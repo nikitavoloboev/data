@@ -72,6 +72,7 @@
 - [SwiftUI Environment Overrides](https://github.com/nalexn/EnvironmentOverrides) - QA assistant for a SwiftUI app: change the color scheme, accessibility settings, and localization on the fly.
 - [RKCalendar](https://github.com/RaffiKian/RKCalendar) - SwiftUI Simple Calendar / Date Picker for iOS.
 - [AStack](https://github.com/zntfdr/AStack) - Missing SwiftUI Adaptive and Accessible Stacks Library.
+- [Swift Request](https://github.com/carson-katri/swift-request) - Declarative HTTP networking, designed for SwiftUI.
 
 ## macOS
 

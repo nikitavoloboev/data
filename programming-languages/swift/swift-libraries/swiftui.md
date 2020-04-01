@@ -44,3 +44,4 @@
 - [Data in SwiftUI: blog series (2020)](https://sarunw.com/posts/data-in-swiftui-1/) ([HN](https://news.ycombinator.com/item?id=22325735))
 - [SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - Extension to the standard SwiftUI library.
 - [Composable Architecture](https://www.pointfree.co/collections/composable-architecture)
+- [Cross-platform Reddit client built in SwiftUI](https://github.com/carson-katri/reddit-swiftui)
