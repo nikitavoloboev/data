@@ -10,3 +10,4 @@
 - [Toski](https://kennethfriedman.org/projects/toski/) - Prototype new debugging tool for Scheme.
 - [Scheme fatigue (2020)](https://hyper.dev/blog/yet-another-scheme.html)
 - [Advanced Scheme: Some Naughty Bits](https://people.csail.mit.edu/jhbrown/scheme/)
+- [Akku.scm](https://github.com/weinholt/akku) - Language package manager for Scheme.

@@ -264,6 +264,7 @@
     - [R packages](programming-languages/r/r-packages.md)
   - [Assembly](programming-languages/assembly.md)
   - [Nim](programming-languages/nim/nim.md)
+    - [Nim libraries](programming-languages/nim/nim-libraries.md)
   - [Dhall](programming-languages/dhall.md)
   - [Processing](programming-languages/processing/processing.md)
     - [p5.js](programming-languages/processing/p5js.md)

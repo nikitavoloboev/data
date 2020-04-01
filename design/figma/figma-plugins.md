@@ -21,3 +21,4 @@
 - [Simplify path plugin](https://github.com/zserge/figma-simplify-path) - Small plugin that simplifies vector paths in Figma.
 - [SwiftUI Inspector](https://www.figma.com/community/plugin/784879032180068427/SwiftUI-Inspector) - Enhance your development workflow by copying and pasting element styles from your Figma files into your Xcode project.
 - [Figma Plugin DS](https://github.com/thomas-lowry/figma-plugin-ds) - Small lightweight design system for use in Figma Plugins.
+- [Theme UI Plugin for Figma](https://github.com/LekoArts/figma-theme-ui) - Theme UI Plugin for Figma.
