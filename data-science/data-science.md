@@ -87,3 +87,4 @@
 - [Great Expectations](https://github.com/great-expectations/great_expectations) - Leading tool for validating, documenting, and profiling, your data to maintain quality and improve communication between teams. ([Code](https://github.com/great-expectations/great_expectations))
 - [Path to a free self-taught education in Data Science](https://github.com/ossu/data-science#readme)
 - [Common Workflow Language](https://www.commonwl.org/) - Open standard for describing analysis workflows and tools. ([HN](https://news.ycombinator.com/item?id=21538003))
+- [Apache Kudu](https://github.com/apache/kudu) - Completes Hadoop's storage layer to enable fast analytics on fast data.

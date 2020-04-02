@@ -86,3 +86,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [TCP/IP Illustrated books](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
 - [Wireshark](https://www.wireshark.org/) - World’s foremost and widely-used network protocol analyzer.
 - [What resources would you recommend to learn socket programming? (2020)](https://lobste.rs/s/mjhquc/what_resources_would_you_recommend_learn)
+- [Lobsters: Good resources to learn about computer networking (2020)](https://lobste.rs/s/tkkygt/good_resources_learn_about_computer)

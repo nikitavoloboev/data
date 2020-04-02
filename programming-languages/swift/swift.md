@@ -86,3 +86,5 @@
 - [Yak Shaving - Swift Edition (2020)](https://tirania.org/blog/archive/2020/Mar-24.html) ([HN](https://news.ycombinator.com/item?id=22682003))
 - [Awesome Swift and Tutorial Resources](https://github.com/MaxChen/awesome-swift-and-tutorial-resources#readme)
 - [Swift Weekly Brief](https://swiftweekly.github.io/) - Community-driven weekly newsletter about what's happening in Swift.
+- [Swift by Sundell](https://swiftbysundell.com/) - Weekly Swift articles, podcasts and tips by John Sundell. ([Code](https://github.com/JohnSundell/SwiftBySundell))
+- [Swift on Mac OS 9 (2020)](https://belkadan.com/blog/2020/04/Swift-on-Mac-OS-9/) ([HN](https://news.ycombinator.com/item?id=22754667))

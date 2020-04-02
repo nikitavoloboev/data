@@ -36,3 +36,6 @@
 - [Money For The Rest of Us](https://moneyfortherestofus.com/) - Trusted guide for those who manage their own money.
 - [Ask HN: Is now a good time to invest in ETFs? (2020)](https://news.ycombinator.com/item?id=22723957)
 - [Success of Warren Buffett's investing (2020)](https://www.reddit.com/r/investing/comments/frmj8x/warren_buffett/)
+- [Citadel](https://www.citadel.com/) - Leading investor in the world’s financial markets.
+- [Jane Street](https://www.janestreet.com/) - Quantitative trading firm with a unique focus on technology and collaborative problem solving.
+- [Two Sigma](https://www.twosigma.com/) - Investment firm.

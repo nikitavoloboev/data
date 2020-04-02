@@ -54,3 +54,4 @@
 - [TensorTrade](https://github.com/tensortrade-org/tensortrade) - Trade Efficiently with Reinforcement Learning.
 - [En-Lightning Reinforcement Learning (2020)](https://towardsdatascience.com/en-lightning-reinforcement-learning-a155c217c3de) - Building a DQN with PyTorch Lightning.
 - [Transformer Reinforcement Learning](https://github.com/lvwerra/trl) - Train transformer language models with reinforcement learning.
+- [David Silver - Deep Reinforcement Learning from AlphaGo to AlphaStar (2020)](https://www.youtube.com/watch?v=x5Q79XCxMVc)
