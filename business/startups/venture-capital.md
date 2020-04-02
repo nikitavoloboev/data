@@ -38,3 +38,5 @@
 - [How to become a Venture Capitalist](http://delian.io/lessons-1)
 - [Combine VC](http://combine.vc/) - Invests in design-forward companies.
 - [Homebrew](https://homebrew.co/)
+- [HeavyBit](https://www.heavybit.com/) - 9-month accelerator and fund helps seed and Series A developer and enterprise companies scale their go-to-market.
+- [Uncork Capital](https://uncorkcapital.com/) - Seed-stage venture firm that commits early, helps with the hard stuff, and sticks around.
