@@ -36,7 +36,7 @@
 - [Principles of Optics](https://cds.cern.ch/record/396122/files/0521642221_TOC.pdf) - Electromagnetic theory of propagation, interference and diffraction of light.
 - [What Makes the Hardest Equations in Physics So Difficult? (2019)](https://www.quantamagazine.org/what-makes-the-hardest-equations-in-physics-so-difficult-20180116/)
 - [What are the minimum number of empirical observations/laws necessary to recover modern physics? (2020)](https://www.reddit.com/r/Physics/comments/ekerj7/what_are_the_minimum_number_of_empirical/)
-- [Physics Travel Guide](https://physicstravelguide.com/) - Expository wiki which explains concepts in three levels of difficulty. We call these levels: intuitive, concrete and abstract.
+- [Physics Travel Guide](https://physicstravelguide.com/) - Expository wiki which explains concepts in three levels of difficulty. We call these levels: intuitive, concrete and abstract. ([HN](https://news.ycombinator.com/item?id=22757466))
 - [What is an area of physic that is grossly underrepresented? (2020)](https://www.reddit.com/r/Physics/comments/em8oqd/what_is_an_area_of_physic_that_is_grossly/)
 - [Why the foundations of physics have not progressed for 40 years (2020)](https://iai.tv/articles/why-physics-has-made-no-progress-in-50-years-auid-1292) ([HN](https://news.ycombinator.com/item?id=22033864))
 - [Noether’s Theorem - A Quick Explanation (2019)](https://quantum-friend-theory.tumblr.com/post/172814384897/noethers-theorem-a-quick-explanation) ([HN](https://news.ycombinator.com/item?id=22033012))

@@ -19,3 +19,4 @@
 - [Architectural Afterlife](https://architecturalafterlife.com/)
 - [Loer Architecture](https://loerarchitecten.com/)
 - [Away From Tourist Eyes, Marietta Varga’s Captivating Work Depicts Another Side Of Rome](https://www.ignant.com/2020/02/20/away-from-tourist-eyes-marietta-vargas-captivating-work-depicts-another-side-of-rome/)
+- [Inside Aaron Paul’s Rustic Riverside Home In Idaho](https://www.youtube.com/watch?v=D-qQneOnJl0)
