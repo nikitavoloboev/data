@@ -89,3 +89,4 @@
 - [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP.
 - [Relational Networks](https://github.com/kimhc6028/relational-networks) - PyTorch implementation of "A simple neural network module for relational reasoning".
 - [nflows](https://github.com/bayesiains/nflows) - Normalizing flows in PyTorch.
+- [torchlayers](https://github.com/szymonmaszke/torchlayers) - Shape inference for PyTorch (like in Keras) + new SoTA layers.
