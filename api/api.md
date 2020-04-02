@@ -28,6 +28,7 @@
 - [Cantine](https://github.com/caio/cantine) - Cooking recipe search JSON API with over a million recipes.
 - [Binding and CLI generator for all google APIs](https://github.com/google-apis-rs/generator)
 - [CartQL](https://cartql.com/) - GraphQL Shopping Cart API.
+- [Stream](https://getstream.io/) - Enterprise Grade Feed & Chat APIs.
 
 ## Links
 

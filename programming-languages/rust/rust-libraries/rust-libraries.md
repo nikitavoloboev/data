@@ -288,6 +288,7 @@
 - [intrusive-collections](https://github.com/Amanieu/intrusive-rs) - Intrusive collections for Rust.
 - [froggy](https://github.com/kvark/froggy) - Component Graph System experiment.
 - [Legion](https://github.com/TomGillen/legion) - Aims to be a feature rich high performance ECS library for Rust game projects with minimal boilerplate.
+- [derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options.
 
 ## Cargo Plugins
 
