@@ -19,3 +19,4 @@
 - [Sarek](https://github.com/nf-core/sarek) - Workflow designed to run analyses on whole genome or targeted sequencing data from regular samples or tumour / normal pairs and could include additional relapses.
 - [The structure of DNA by direct imaging (2015)](https://advances.sciencemag.org/content/1/7/e1500734)
 - [Direct imaging of single DNA molecules (2016)](https://spie.org/news/6527-direct-imaging-of-single-dna-molecules?SSO=1)
+- [How DNA goes to RNA and how RNA goes to proteins](https://www.youtube.com/watch?v=C4_HVQszoxA)

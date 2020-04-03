@@ -234,6 +234,7 @@
 - [CareKit](https://github.com/carekit-apple/CareKit) - Open source software framework for creating apps that help people better understand and manage their health.
 - [Swift Video Generator](https://github.com/dev-labs-bg/swift-video-generator) - Provides an easy way to combine images and audio into a video or merge multiple videos into one.
 - [SociableWeaver](https://github.com/NicholasBellucci/SociableWeaver) - Build declarative GraphQL queries in Swift.
+- [Swifter](https://github.com/httpswift/swifter) - Tiny http server engine written in Swift programming language.
 
 ## Other (not lib)
 
