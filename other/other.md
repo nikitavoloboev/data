@@ -139,3 +139,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [gray-matter](https://github.com/jonschlinkert/gray-matter) - Parse front-matter from a string or file.
 - [Year of the Meteor](https://desert.glass/)
 - [live-stream-radio](https://github.com/torch2424/live-stream-radio) - 24/7 live stream video radio station CLI / API.
+- [RationalWiki](https://rationalwiki.org/wiki/Main_Page)

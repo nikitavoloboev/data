@@ -24,3 +24,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Programming metaphors for theological concepts (2020)](https://shaungallagher.pressbin.com/blog/metaphors.html) ([Lobsters](https://lobste.rs/s/gnbsxe/programming_metaphors_for_theological))
 - [Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/) ([HN](https://news.ycombinator.com/item?id=22607568))
 - [Meaningness](https://meaningness.com/) - Better ways of thinking, feeling, and acting—around problems of meaning and meaninglessness; self and society; ethics, purpose, and value.
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/contents.html)

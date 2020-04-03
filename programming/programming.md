@@ -139,3 +139,4 @@
 - [New Grad vs. Senior Dev](https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/) ([HN](https://news.ycombinator.com/item?id=22708094))
 - [Things I’ve learned in 20 years of programming ](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/) ([HN](https://news.ycombinator.com/item?id=21603920))
 - [Design Patters for Humans](https://github.com/kamranahmedse/design-patterns-for-humans#readme) - Ultra-simplified explanation to design patterns.
+- [Sad state of cross platform GUI frameworks (2020)](https://blog.royalsloth.eu/posts/sad-state-of-cross-platform-gui-frameworks/) ([Lobsters](https://lobste.rs/s/rci0kw/sad_state_cross_platform_gui_frameworks))
