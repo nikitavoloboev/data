@@ -124,4 +124,4 @@
 - [Awesome Haskell Deep Learning](https://github.com/austinvhuang/awesome-haskell-deep-learning#readme)
 - [Haskell Profile Highlight](https://github.com/Petrosz007/haskell-profile-highlight) - Color highlighting for Haskell profiling information.
 - [Story told by Type Errors](https://kodimensional.dev/type-errors)
-- [API design notes](https://gist.github.com/Gabriel439/563fa662f84e0a845c79775756cfce78)
+- [API design notes](https://gist.github.com/Gabriel439/563fa662f84e0a845c79775756cfce78) ([Video](https://www.twitch.tv/videos/581490043))
