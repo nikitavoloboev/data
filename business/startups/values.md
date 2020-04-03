@@ -26,3 +26,4 @@
 - [List of Questions to consider evaluating culture](https://twitter.com/jenistyping/status/1201560725379960832)
 - [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values.
 - [What Are the React Team Principles? (2019)](https://overreacted.io/what-are-the-react-team-principles/) ([HN](https://news.ycombinator.com/item?id=21878713))
+- [Cultural Fit](https://cultural.fit/) - Collaborative list of corporate culture traits.

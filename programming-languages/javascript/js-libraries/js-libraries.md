@@ -192,6 +192,7 @@
 - [Serialize JavaScript](https://github.com/yahoo/serialize-javascript) - Serialize JavaScript to a superset of JSON that includes regular expressions, dates and functions.
 - [Tippy.js](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library.
 - [howler.js](https://github.com/goldfire/howler.js) - JavaScript audio library for the modern web.
+- [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 
 ## Links
 
