@@ -11,3 +11,4 @@
 - [COVID-19 - Protecting your family (2020)](https://vimeo.com/399733860)
 - [Reverse engineering SARS-CoV-2](https://github.com/geohot/corona) ([Videos](https://www.youtube.com/watch?v=8vWaawiUteM))
 - [Fighting COVID-19 with Epidemiology: A Johns Hopkins Teach-Out](https://www.coursera.org/learn/covid19-epidemiology)
+- [BioMed Sanity](http://biomed-sanity.com/) - Aspires to help the influx of bioRxiv / medRxiv papers on COVID-19. ([Code](https://github.com/karpathy/covid-sanity))

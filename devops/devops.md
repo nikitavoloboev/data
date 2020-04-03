@@ -14,3 +14,4 @@
 - [Juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.
 - [Book Recommendations for the Infrastructure Engineer](https://github.com/stack72/ops-books#readme)
 - [Ask HN: How do you make sure your servers are up as a single founder? (2020)](https://news.ycombinator.com/item?id=21461617)
+- [CTO.ai](https://cto.ai/) - Allows you and your software development team to implement DevOps automations in minutes rather than days.
