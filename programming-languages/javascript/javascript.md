@@ -149,3 +149,4 @@
 - [Awesome Promises](https://github.com/wbinnssmith/awesome-promises#readme)
 - [jscodeshift](https://github.com/facebook/jscodeshift) - Toolkit for running codemods over multiple JavaScript or TypeScript files.
 - [React Workout: Reducers with Cassidy Williams (2020)](https://www.youtube.com/watch?v=sf4spiPynBE)
+- [JavaScript: The First 20 Years (2020)](http://www.wirfs-brock.com/allen/posts/866)

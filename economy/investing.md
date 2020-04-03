@@ -39,3 +39,6 @@
 - [Citadel](https://www.citadel.com/) - Leading investor in the world’s financial markets.
 - [Jane Street](https://www.janestreet.com/) - Quantitative trading firm with a unique focus on technology and collaborative problem solving.
 - [Two Sigma](https://www.twosigma.com/) - Investment firm.
+- [Yahoo! Finance market data downloader](https://github.com/ranaroussi/yfinance)
+- [Tradologics](https://tradologics.com/) - Fastest way to go from idea to live-trading – bypassing all infrastructure headaches.
+- [Tradologics & The Future of Trading (2020)](https://aroussi.com/post/tradologics-the-future-of-trading)

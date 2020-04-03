@@ -14,3 +14,4 @@
 - [Functional Parsing - Computerphile (2020)](https://www.youtube.com/watch?v=dDtZLm7HIJs)
 - [Common Expression Language](https://github.com/google/cel-spec) - Implements common semantics for expression evaluation, enabling different applications to more easily interoperate.
 - [Awesome Unified](https://github.com/unifiedjs/awesome-unified#readme)
+- [Essentials of Interpretation (2020)](http://dmitrysoshnikov.com/courses/essentials-of-interpretation/) ([HN](https://news.ycombinator.com/item?id=22549265))

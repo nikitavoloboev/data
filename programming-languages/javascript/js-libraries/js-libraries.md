@@ -191,6 +191,7 @@
 - [timeago.js](https://github.com/hustcc/timeago.js) - Nano library (less than 2 kb) used to format datetime with \*\*\* time ago statement. eg: '3 hours ago'.
 - [Serialize JavaScript](https://github.com/yahoo/serialize-javascript) - Serialize JavaScript to a superset of JSON that includes regular expressions, dates and functions.
 - [Tippy.js](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library.
+- [howler.js](https://github.com/goldfire/howler.js) - JavaScript audio library for the modern web.
 
 ## Links
 

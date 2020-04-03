@@ -31,3 +31,4 @@ Consciousness is an interesting thing. The only way to study it is through self 
 - [The Evolution of Consciousness](https://www.youtube.com/watch?v=XbOP0IKpsZ0)
 - [Where is our consciousness, and is it a thing that has mass/matter?](https://www.quora.com/Where-is-our-consciousness-and-is-it-a-thing-that-has-mass-matter/answer/Paul-King-2)
 - [The Origin of Consciousness – How Unaware Things Became Aware (2019)](https://www.youtube.com/watch?v=H6u0VBqNBQ8)
+- [Roger Penrose: Physics of Consciousness and the Infinite Universe (2020)](https://overcast.fm/+OcVcF49c8)

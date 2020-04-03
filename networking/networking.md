@@ -42,7 +42,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Awesome Networking](https://github.com/clowwindy/Awesome-Networking#readme)
 - [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli support.
 - [SCION Internet Architecture](https://github.com/scionproto/scion)
-- [Everything curl - the book](https://curl.haxx.se/book.html)
+- [Everything curl - the book](https://ec.haxx.se) ([Code](https://github.com/bagder/everything-curl))
 - [Seastar](https://github.com/scylladb/seastar) - High performance server-side application framework.
 - [ServiceTalk](https://github.com/apple/servicetalk/) - Networking framework that evolves with your application.
 - [Beginner Network Pentesting course notes](https://github.com/hmaverickadams/Beginner-Network-Pentesting)

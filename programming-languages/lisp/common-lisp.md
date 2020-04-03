@@ -11,3 +11,4 @@
 - [ANSI Common Lisp](http://www.paulgraham.com/acl.html?viewfullsite=1) - Combines an introduction to Lisp programming, and a convenient, up-to-date reference manual for ANSI Common Lisp ([HN](https://news.ycombinator.com/item?id=22083507)).
 - [Modern, functional Common Lisp: Myths and tips (2020)](https://ambrevar.xyz/modern-common-lisp/index.html) ([HN](https://news.ycombinator.com/item?id=22412148))
 - [Restarts in Common Lisp (2020)](https://sulami.github.io/posts/common-lisp-restarts/) ([HN](https://news.ycombinator.com/item?id=22747932))
+- [Valtan](https://github.com/cxxxr/valtan) - Common Lisp to JavaScript compiler. ([HN](https://news.ycombinator.com/item?id=22769346))

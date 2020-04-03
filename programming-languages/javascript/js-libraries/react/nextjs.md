@@ -44,3 +44,4 @@
 - [React ESI](https://github.com/dunglas/react-esi) - Blazing-fast Server-Side Rendering for React and Next.js.
 - [Server-side Only React with Next (2020)](https://webcloud.se/blog/2020-03-12-nextjs-without-client-side-react/) ([HN](https://news.ycombinator.com/item?id=22717900))
 - [Serverless Nextjs Component](https://github.com/danielcondemarin/serverless-next.js) - Deploy your next apps using the serverless framework.
+- [next-aws-lambda-webpack-plugin](https://github.com/vincent-herlemont/next-aws-lambda-webpack-plugin) - Pack a compat layer between next.js serverless page and AWS Lambda.
