@@ -1,6 +1,6 @@
 # Command Line Tools
 
-I use [many CLI tools](https://github.com/nikitavoloboev/dotfiles/blob/master/nix/darwin.nix#L6) and share my favorite ones I use [here](https://github.com/nikitavoloboev/my-mac-os#command-line-apps).
+I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-apps).
 
 ## Links
 

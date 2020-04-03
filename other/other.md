@@ -140,3 +140,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Year of the Meteor](https://desert.glass/)
 - [live-stream-radio](https://github.com/torch2424/live-stream-radio) - 24/7 live stream video radio station CLI / API.
 - [RationalWiki](https://rationalwiki.org/wiki/Main_Page)
+- [Bonhams](https://www.bonhams.com/) - Privately owned international auction house.

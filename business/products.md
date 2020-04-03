@@ -24,3 +24,4 @@
 - [The New MVP (2019)](https://johnpalmer.site/#/newmvp)
 - [Featmap](https://github.com/amborle/featmap) - Simple user story mapping tool.
 - [The Product-Minded Software Engineer (2019)](https://blog.pragmaticengineer.com/the-product-minded-engineer/) ([HN](https://news.ycombinator.com/item?id=21732027))
+- [Good Product Strategy, Bad Product Strategy (2020)](https://twitter.com/shreyas/status/1244810075908128768)
