@@ -6,6 +6,7 @@
 - [GitHub](https://developer.github.com/v3/)
 - [GitHub Go](https://github.com/shurcooL/githubv4) - Client library for accessing GitHub GraphQL API.
 - [GitHub JS](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs.
+- [GitHub Rust](https://github.com/softprops/hubcaps)
 - [tweetlord](https://github.com/snovvcrash/tweetlord) - Twitter profile dumper (downloader) with authorization swapping.
 - [Hacker News](https://github.com/HackerNews/API)
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
@@ -29,6 +30,7 @@
 - [Binding and CLI generator for all google APIs](https://github.com/google-apis-rs/generator)
 - [CartQL](https://cartql.com/) - GraphQL Shopping Cart API.
 - [Stream](https://getstream.io/) - Enterprise Grade Feed & Chat APIs.
+- [Telegraph API](https://telegra.ph/api) - Minimalist publishing tool that allows you to create richly formatted posts and push them to the Web in just a click.
 
 ## Links
 

@@ -18,3 +18,5 @@
 - [Combining knowledge graphs, quickly and accurately (2020)](https://www.amazon.science/blog/combining-knowledge-graphs-quickly-and-accurately)
 - [Akutan](https://github.com/eBay/akutan) - Distributed knowledge graph store, sometimes called an RDF store or a triple store.
 - [Global domain mind map tool build on top of IPFS and IPLD](https://github.com/interplanetarymindmap/mind-map)
+- [ConvE](https://github.com/TimDettmers/ConvE) - Convolutional 2D Knowledge Graph Embeddings resources.
+- [Datasets for Knowledge Graph Completion with Textual Information about Entities](https://github.com/villmow/datasets_knowledge_embedding)
