@@ -53,3 +53,4 @@
 - [Information Is Physics](https://cacm.acm.org/magazines/2019/11/240356-information-is-physics/fulltext) ([HN](https://news.ycombinator.com/item?id=21665931))
 - [Dr. Neil Turok - "From zero to infinity, and beyond!" (2012)](https://www.youtube.com/watch?v=URYOkgbr604)
 - [Sir Roger Penrose - Plotting the Twist of Einstein’s Legacy (2020)](https://overcast.fm/+TYXKbJ8js)
+- [Roger Penrose | Interview | Gravity, Hawking Points and Twistor Theory (2019)](https://www.youtube.com/watch?v=9Gl8pwY2kW8)

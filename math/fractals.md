@@ -18,3 +18,5 @@
 - [Single div Sierpinski triangle (2020)](https://yuanchuan.dev/single-div-sierpinski-triangle) ([HN](https://news.ycombinator.com/item?id=22279532))
 - [Chaos Game](https://andrew.wang-hoyer.com/experiments/chaos-game/) - Method of creating a fractal, using a polygon and an initial point selected at random inside. ([Code](https://github.com/ndrwhr/chaos-game))
 - [The Mandelbrot Set in HTML5 canvas and JS](http://tilde.club/~david/m/#) ([Code](https://github.com/cslarsen/mandelbrot-js))
+- [Playing with Chaos](http://www.playingwithchaos.net/) - Programming fractals and strange attractors in JS.
+- [Crossing Two Fractals](https://github.com/victorqribeiro/randomFractal) ([HN](https://news.ycombinator.com/item?id=22769511))

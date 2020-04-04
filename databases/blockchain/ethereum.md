@@ -38,3 +38,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Utilities for handling Ethereum keys](https://github.com/ethereumjs/ethereumjs-wallet)
 - [Awesome Solidity](https://github.com/bkrem/awesome-solidity#readme)
 - [Awesome Solidity 2](https://github.com/BlockchainLabsNZ/awesome-solidity#readme)
+- [Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money (2020)](https://overcast.fm/+OcVeupJwk)

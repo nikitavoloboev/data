@@ -2,7 +2,7 @@
 
 My main focus in life is to [make, learn, write, design & share](rules.md) things.
 
-I try to work on impactful to me ideas by breaking them down into series of tasks. As a way to give direction to my life, I outline some [themes](https://www.youtube.com/watch?v=NVGuFdX5guE) for myself to focus on right now.
+I try to work on impactful to me ideas by breaking them down into series of tasks. As a way to give direction to my life, I outline some [themes](https://www.youtube.com/watch?v=NVGuFdX5guE) for myself to focus on.
 
 ## Clean up 2Do/GitHub tasks to < 500
 

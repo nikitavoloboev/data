@@ -16,6 +16,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [ProtonMail](https://github.com/ProtonMail/ios-mail)
 - [Sift](https://github.com/agrinman/sift-ios) - Uncover network traffic in real-time for every app on your phone.
 - [Private Internet Access](https://github.com/pia-foss/vpn-ios)
+- [Bank](https://github.com/aydenp/Bank) - Simple iOS app for viewing your bank account balance and transactions.
 
 ## Notes
 
