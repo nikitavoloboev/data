@@ -20,3 +20,4 @@
 - [Loer Architecture](https://loerarchitecten.com/)
 - [Away From Tourist Eyes, Marietta Varga’s Captivating Work Depicts Another Side Of Rome](https://www.ignant.com/2020/02/20/away-from-tourist-eyes-marietta-vargas-captivating-work-depicts-another-side-of-rome/)
 - [Inside Aaron Paul’s Rustic Riverside Home In Idaho](https://www.youtube.com/watch?v=D-qQneOnJl0)
+- [Designing a New Old Home (2020)](https://medium.com/@simon.sarris/designing-a-new-old-home-part-1-cf298b58ed41) - How we started, and suggestions for starting your own project.
