@@ -12,7 +12,7 @@ Also 7 billion people. And of that so few use a mac and even fewer know karabine
 
 ## No more complaints
 
-It's been a while I complained in my journal like that. And the last time I was complaining about myself not the outside world. Now that I got my life together, I am confident in what value I can create (although not extract) I am incredibly happy. It's just annoying how other actors in this game of life can't behave accordingly. There is not much you need in life to be happy, why cause all this pain and suffering to other humans and animals.
+It's been a while I complained in my journal like that. And the last time I was complaining about myself not the outside world. Now that I got my life together, I am confident in what value I can create (although not monetize) & I am incredibly happy. It's just annoying how other actors in this game of life can't behave accordingly. There is not much you need in life to be happy, why cause all this pain and suffering to other humans and animals.
 
 I am reading some good books now:
 
@@ -29,4 +29,4 @@ Some good stuff in there. And have these tabs open:
 
 As I try to setup backend for LA. Not sure yet how to expose postgres to the front end in nextJS. Will try out Prisma if it works well, if it doesn't will probably setup Hasura instead and write all the backend logic inside go services.
 
-Also I have a bind `v+.` that will play a Focus song and I often change as I get tired of listening to one song 24/7 but [this Nils Frahm song](https://open.spotify.com/track/1LjaunC39SgsMZEln8EpDj?si=GlXYSpsATuedi5NLvnK3gw). It's too good. Probably 5th day now and it's just beautiful.
+Also I have a bind `v+.` that will play a Focus song and I often change it as I get tired of listening to one song 24/7 but [this Nils Frahm song](https://open.spotify.com/track/1LjaunC39SgsMZEln8EpDj?si=GlXYSpsATuedi5NLvnK3gw). It's too good. Probably 5th day now and it's just beautiful.
