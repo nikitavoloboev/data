@@ -6,7 +6,7 @@ I use [Reeder](http://reederapp.com/mac/) to stay on top of my favorite blogs I 
 
 I separate blogs I follow by quality into `1.` & `2.` folders accordingly.
 
-I share my [XML subscription feed of blogs I follow](https://code.nikitavoloboev.xyz/personal). I also follow some people on [Medium](https://medium.com/@nikitavoloboev/following).
+I share my [XML subscription feed of blogs I follow](https://gist.github.com/nikitavoloboev/63b5d2418122fcd6949d854dc5080689). I also follow some people on [Medium](https://medium.com/@nikitavoloboev/following).
 
 ## Favorite blogs
 
