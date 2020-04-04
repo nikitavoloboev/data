@@ -8,3 +8,4 @@
 - [Building a high performance realtime GraphQL API on existing databases (2019)](https://www.youtube.com/watch?v=HOKMJkBYaqQ)
 - [Introducing Actions: Custom GraphQL mutations driven by eventing (2019)](https://hasura.io/blog/introducing-actions/)
 - [HN: Hasura (2020)](https://news.ycombinator.com/item?id=22432137)
+- [Founder of Hasura teaching me about Hasura (2020)](https://www.youtube.com/watch?v=51m8Smk7fZQ)

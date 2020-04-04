@@ -55,8 +55,9 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - 7 - Search selection on /r/askcience
 - 8 - New 2Do quick task
 - 9 - Typinator quick search
-- u - Open URL
 - i - Tester
+- u - Open URL
+- p - Screenshot -> Imgur
 - z - ScreenFlow partial screen record
 - x - Little Snitch Network Monitor
 - c - Sleep

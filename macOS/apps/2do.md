@@ -22,9 +22,9 @@ I made my `All` list sorted by `Modified date`. This lets me cleanly delete or a
 
 ## Recurring tasks
 
-I use 2Do for recurring scheduled tasks as a way to remember to complete my day/week reflections & plans.
+I use 2Do to schedule a weekly task to reflect on the week passed & plan ahead.
 
-![](https://i.imgur.com/bNAE7Mc.png)
+![](https://i.imgur.com/8uR7zCs.png)
 
 ## URL Scheme
 

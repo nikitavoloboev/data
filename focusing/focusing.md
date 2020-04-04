@@ -12,11 +12,9 @@ Compared to:
 
 ![](https://i.imgur.com/9Iu0zhV.png)
 
-I use 2Do's recurring scheduled tasks as a way to remember to complete my day/week reflections & plans.
+I also use 2Do to schedule a weekly task to reflect on the week passed & plan ahead.
 
-![](https://i.imgur.com/bNAE7Mc.png)
-
-I also use 2Do to keep track of my bigger goals in life.
+![](https://i.imgur.com/8uR7zCs.png)
 
 I [schedule events](../macOS/apps/fantastical.md) in my calendar and plan the day/week in context of my tasks & priorities.
 
@@ -24,25 +22,7 @@ I try to limit the scope and number of projects I am working on at any given tim
 
 I [use & build tools](../sharing/my-workflow.md) to make the process of completing my tasks as smooth as it can be.
 
-## Focus sessions
-
-I use [Focus app](https://heyfocus.com) as a recurring [Pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) which lets me work in sessions of 80 minutes with 10 min breaks by blocking [distracting websites](https://gist.github.com/nikitavoloboev/57340528a6dfb3eb498dce647ed6841f) and apps.
-
-![](https://i.imgur.com/H7TMqgS.png)
-
-![](https://i.imgur.com/5lLgPaU.png)
-
-Only on breaks can I visit these websites. I also get 20 minutes of optional break time every 3 hours. And I can start 5 min breaks during my Focus sessions with a [macro](../macOS/apps/keyboard-maestro/km-macros.md).
-
-The things I work are often defined by events set in [Fantastical](../macOS/apps/fantastical.md). I sometimes set all day events to bring focus to a day in terms of what I work on.
-
-If no event is set, I work on most prioritized tasks I have set for the day. Those either live in [2Do](../macOS/apps/2do.md) or the respective tracker for the project.
-
-If there are no urgent tasks. I code and build [ideas](https://trello.com/b/alB1ryRP). [Learn](https://trello.com/b/cu32qF3q). And share my learnings.
-
-I limit apps that can send me notifications to only essential things and turn off sound for all of them.
-
-I focus on [solving problems](../research/solving-problems.md) & limit distractions. I follow [rules](rules.md#focus) to maintain my focus throughout the day.
+I focus on [solving problems](../research/solving-problems.md) & limit distractions (only essential notifications setup). I follow [rules](rules.md#focus) to maintain my focus throughout the day.
 
 I support my [happiness](../life/happiness.md) by working on projects that I care about and looking after my [health](../health/health.md).
 

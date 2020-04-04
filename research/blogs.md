@@ -6,11 +6,9 @@ I use [Reeder](http://reederapp.com/mac/) to stay on top of my favorite blogs I 
 
 I separate blogs I follow by quality into `1.` & `2.` folders accordingly.
 
-I share my [XML subscription feed of blogs I follow](https://gist.github.com/nikitavoloboev/f67d6d37a8c32fa6f86a23bd77107fbd). I also follow some people on [Medium](https://medium.com/@nikitavoloboev/following).
+I share my [XML subscription feed of blogs I follow](https://code.nikitavoloboev.xyz/personal). I also follow some people on [Medium](https://medium.com/@nikitavoloboev/following).
 
 ## Favorite blogs
-
-Full list can be seen in [XML feed of subscriptions under 1. folder](https://gist.github.com/nikitavoloboev/f67d6d37a8c32fa6f86a23bd77107fbd#file-my-inoreader-subscriptions-xml-L7).
 
 - [Brandur](https://brandur.org/articles) ([Code](https://github.com/brandur/sorg))
 - [Overreacted by Dan Abramov](https://overreacted.io) ([Code](https://github.com/gaearon/overreacted.io))
