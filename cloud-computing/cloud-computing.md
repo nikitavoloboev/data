@@ -9,6 +9,7 @@
   - [Sagemaker examples](https://github.com/awslabs/amazon-sagemaker-examples)
 - [Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
 - [HN: Cloud Computing Without Containers](https://news.ycombinator.com/item?id=18415708)
+- [Google Cloud AI Platform Products](https://cloud.google.com/ai-platform/docs) ([Code](https://github.com/GoogleCloudPlatform/ai-platform-samples))
 
 ## Servers
 

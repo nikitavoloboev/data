@@ -12,6 +12,7 @@
 
 - [Next SEO](https://github.com/garmeeh/next-seo) - Plugin that makes managing your SEO easier in Next.js projects.
 - [Next.js + MDX Enhanced](https://github.com/hashicorp/next-mdx-enhanced) - Enables MDX pages, layouts, and front matter.
+- [Zero Config PWA Plugin](https://github.com/shadowwalker/next-pwa)
 
 ## Links
 
