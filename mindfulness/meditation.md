@@ -10,8 +10,6 @@ I like to practice mindfulness through journaling my thoughts in my diary. I wro
 
 I do want to start more focused mindfulness and trying to practice _channeling_ my focus. I do build my personal system of productivity and happiness around this idea of _less thinking, more happiness_. I try to cultivate good thoughts and let bad thoughts pass by. I focus on the present moment and try to take the best from the cards I have been dealt. And more importantly I try to be _proactive_ with life. Great things won't happen if you sit idly waiting for things to happen. You either have to go out and find these great things or make your own.
 
-I use [Noizio](http://noiz.io) or [Dark Noise](https://darknoise.app) apps as background noise for times I want to focus on my breath and distill my mind.
-
 ## Notes
 
 - I don't know any meditator or teacher worth their weight in salt who advocates stopping thinking. Not only is it practically impossible, it implies a deeply maladaptive relationship to thought, i.e., that thought itself is undesirable. Rather, we need to transform our relationship to thoughts; not identify with them but dispassionately observe them as self-arising objects of perception, rather than facts of existence that define who and what we are. Not only that, but question their origins and the underlying beliefs that motivate them. Mindfulness is a very different thing from "stop thinking." "Stop thinking" implies an act of violence to the self, rather than gentle self-compassion.

@@ -95,3 +95,4 @@
 - [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) - Open Source Neural Machine Translation in PyTorch.
 - [Deep Learning for Symbolic Mathematics](https://github.com/facebookresearch/SymbolicMathematics)
 - [Google Brain AutoML](https://github.com/google/automl)
+- [Physics Informed Neural Networks](https://github.com/maziarraissi/PINNs) - Data-driven Solutions and Discovery of Nonlinear Partial Differential Equations.
