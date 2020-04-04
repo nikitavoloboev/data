@@ -289,6 +289,7 @@
 - [froggy](https://github.com/kvark/froggy) - Component Graph System experiment.
 - [Legion](https://github.com/TomGillen/legion) - Aims to be a feature rich high performance ECS library for Rust game projects with minimal boilerplate.
 - [derive_more](https://github.com/JelteF/derive_more) - Some more derive(Trait) options.
+- [async-task](https://github.com/async-rs/async-task) - Task abstraction for building executors.
 
 ## Cargo Plugins
 
