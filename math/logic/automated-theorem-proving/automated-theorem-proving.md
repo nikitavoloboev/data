@@ -5,3 +5,4 @@
 ## Links
 
 - [Architecture of proof assistants (2018)](https://jiggerwit.wordpress.com/2018/04/14/the-architecture-of-proof-assistants/)
+- [Vampire](https://vprover.github.io/) - Theorem prover, that is, a system able to prove theorems. More precisely, it proves theorems in first-order logic. ([Code](https://github.com/vprover/vampire))

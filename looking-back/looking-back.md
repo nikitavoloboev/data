@@ -9,6 +9,7 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 - [January](2020/2020-january.md) - Joined Rekki.
 - [February](2020/2020-february.md) - React, RN, Go.
 - [March](2020/2020-march.md) - Left Rekki, all restaurants closed due to Corona.
+- [April](2020/2020-april.md)
 
 ## [2019](2019/2019.md)
 
