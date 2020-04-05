@@ -8,7 +8,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 
 - [WikiBattle](https://wikibattle.me/) - 1v1 race who first reaches a randomly selected article.
 - [Wiki Game](https://www.thewikigame.com/) - Explore & race through wikipedia.
-- [A Dark Room](http://adarkroom.doublespeakgames.com/)
+- [A Dark Room](http://adarkroom.doublespeakgames.com/) ([Code](https://github.com/doublespeakgames/adarkroom))
 - [Proximity](https://github.com/GoogleChromeLabs/proxx) ([OSS](https://github.com/GoogleChromeLabs/proxx))
 - [Hordes](https://hordes.io/) - Free to play 3D Multiplayer Browsergame in Open Beta.
 - [Skynet Simulator](http://skynetsimulator.com) ([HN](https://news.ycombinator.com/item?id=22685011))

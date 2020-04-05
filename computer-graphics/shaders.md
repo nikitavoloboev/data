@@ -2,6 +2,7 @@
 
 ## Links
 
+- [Shader Toy](https://www.shadertoy.com/) - Build and Share your best shaders with the world and get inspired.
 - [Euc](https://github.com/zesterer/euc) - Software rendering crate that lets you write shaders with Rust.
 - [The Book of Shaders](https://thebookofshaders.com/) - Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 - [ShaderLand](http://shaderland.com/)

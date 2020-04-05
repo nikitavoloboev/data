@@ -13,3 +13,4 @@
 - [Genome Informatics 2019 Lightning Talk: A. Sina Booeshaghi](https://www.youtube.com/watch?v=x-rNofr88BM)
 - [10x Genomics](https://www.10xgenomics.com/) ([Code](https://github.com/10XGenomics))
 - [Neher Lab](https://neherlab.org/) - Pathogen evolution, genomics, and biophysics lab in Switzerland.
+- [BEDOPS](https://github.com/bedops/bedops) - High-performance genomic feature operations.

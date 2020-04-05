@@ -9,7 +9,6 @@
 ## Links
 
 - [Physically Based Rendering Book](https://www.pbrt.org/)
-- [Shader Toy](https://www.shadertoy.com/) - Build and Share your best shaders with the world and get inspired.
 - [NVIDIA GeForce RTX - Official Launch Event (2018)](https://www.youtube.com/watch?v=Mrixi27G9yM)
 - [Writing to framebuffer](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
 - [GUI Development is broken (2018)](http://www.charlesetc.com/gui-development-is-broken/)
