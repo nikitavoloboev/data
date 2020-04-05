@@ -12,3 +12,4 @@
 - [Oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded lossless PNG compression optimizer. It can be used via a command-line interface or as a library in other Rust programs.
 - [Glitch This](https://github.com/TotallyNotChase/glitch-this) - Glitchify static images to glitched images and GIFs.
 - [Obscure features of JPEG (2011)](https://hodapple.com/blag/posts/2011-11-24-obscure-features-of-jpeg.html)
+- [stegify](https://github.com/DimitarPetrov/stegify) - Go tool for LSB steganography, capable of hiding any file within an image.

@@ -27,3 +27,4 @@ Is logical theory of computable functions.
 - [Y Combinator for Non-programmers: A Wild Introduction to Computer Science](https://ycombinator.chibicode.com/) ([Code](https://github.com/chibicode/ycombinator))
 - [Notes on lambda calculus](http://www-cs-students.stanford.edu/~blynn/lambda/)
 - [λ-calculus interpreter in less than 300 lines of JS](https://tadeuzagallo.com/blog/writing-a-lambda-calculus-interpreter-in-javascript/)
+- [Higher-order Logic and Equality (2020)](https://blog.burakemir.ch/2020/04/higher-order-logic-and-equality.html)

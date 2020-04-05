@@ -8,3 +8,4 @@
 - [How We Design Features for Wrangler, the Cloudflare Workers CLI (2019)](https://blog.cloudflare.com/how-we-design-features-for-wrangler)
 - [Wrangler GitHub Action](https://github.com/cloudflare/wrangler-action) - Zero-config cloudflare workers application deployment using wrangler and github actions.
 - [Awesome Cloudflare Workers](https://github.com/tomByrer/awesome-cloudflare-workers#readme)
+- [cloudflare-worker-local](https://github.com/gja/cloudflare-worker-local) - Run (or test) a Cloudflare Worker Locally.

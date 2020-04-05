@@ -48,3 +48,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist#readme) - Curated checklist of tips to protect your dgital security and privacy.
 - [The Case for Privacy Optimism (2020)](https://benmgarfinkel.wordpress.com/2020/03/09/privacy-optimism-2/)
 - [Resilience](https://github.com/kaepora/resilience) - Ad blocker for your computer.
+- [Energized Protection - block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether.

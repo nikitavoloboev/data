@@ -46,3 +46,5 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [sfsymbols](https://github.com/davedelong/sfsymbols) - Export the shapes in the SF Symbols font.
 - [Fonts In Use](https://fontsinuse.com/) - Independent archive of typography.
 - [Awesome Typography](https://github.com/Jolg42/awesome-typography#readme)
+- [Type Specimens](https://typespecimens.io/)
+- [Type Studies](https://typestudies.com/)

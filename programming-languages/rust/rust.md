@@ -173,3 +173,4 @@
 - [State Machines in Rust (2020)](https://blog.yoshuawuyts.com/state-machines/) ([HN](https://news.ycombinator.com/item?id=22746708)) ([Lobsters](https://lobste.rs/s/nbm4gz/state_machines_rust))
 - [explaine.rs](https://jrvidal.github.io/explaine.rs/) - Interactive Rust syntax playground. ([Code](https://github.com/jrvidal/explaine.rs))
 - [Rustonomicon](https://doc.rust-lang.org/nomicon/) - Dark Arts of Advanced and Unsafe Rust Programming. ([Code](https://github.com/rust-lang/nomicon))
+- [Rust DataFrame](https://github.com/nevi-me/rust-dataframe) - Rust DataFrame implementation, built on Apache Arrow. ([HN](https://news.ycombinator.com/item?id=22781411))

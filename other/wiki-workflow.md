@@ -49,6 +49,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Blue Book](https://lyz-code.github.io/blue-book/) ([Code](https://github.com/lyz-code/blue-book/))
 - [Jethro Kuan](https://braindump.jethro.dev/zettels/)
 - [C2](http://wiki.c2.com/)
+- [Allen](https://allenleein.github.io/1930/01/01/knowledge-base.html) ([Code](https://github.com/allenleein/knowledge-base))
 - [Full-stack web development notes](https://github.com/8483/notes#readme)
 - [Max Masnick](https://maxmasnick.com/kb/)
 - [Leon Bambrick](https://til.secretgeek.net/)
@@ -124,3 +125,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Human Programming Interface (2020)](https://lobste.rs/s/vzkb7a/human_programming_interface_python) - My life in a Python package.
 - [Emvi](https://emvi.com/) - Knowledge management platform for companies and teams.
 - [Human Programming Interface: My life in a Python package (2020)](https://beepb00p.xyz/hpi.html)
+- [Ask HN: What do you use to keep track of bookmarks/notes/snippets? (2020)](https://news.ycombinator.com/item?id=22778123)
