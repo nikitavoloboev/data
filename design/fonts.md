@@ -22,6 +22,7 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Cozette](https://github.com/slavfox/Cozette) - Bitmap programming font optimized for coziness.
 - [Jost](https://indestructibletype.com/Jost.html)
 - [MonoLisa](https://monolisa.dev/)
+- [Recursive Sans & Mono](https://www.recursive.design/) - Variable font family for code & UI. ([Code](https://github.com/arrowtype/recursive))
 
 ## Links
 

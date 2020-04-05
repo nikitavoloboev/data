@@ -119,3 +119,4 @@
 - [CSS3 Patterns Gallery](https://leaverou.github.io/css3patterns/) ([Code](https://github.com/LeaVerou/css3patterns))
 - [All CSS named colors on a single page](https://sapegin.github.io/csscolors/) ([Code](https://github.com/sapegin/csscolors))
 - [CSS Findings From The New Facebook Design (2020)](https://ishadeed.com/article/new-facebook-css/)
+- [MoreToggles.css](https://jnkkkk.github.io/MoreToggles.css/) - Pure CSS library that provides you with a variety of nice-looking toggles. ([Code](https://github.com/JNKKKK/MoreToggles.css))

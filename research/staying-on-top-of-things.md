@@ -12,7 +12,7 @@ I try to stay in touch using these few things:
 
 ### Twitter with [Tweetbot](../macOS/apps/tweetbot.md)
 
-Twitter is my favorite social media network and it is where I share everything [I am personally up to](https://twitter.com/nikitavoloboev) right now. I love Twitter for its ability to tailor completely what news and tweets I am actually reading. I split Tweetbot into [two columns](../macOS/apps/tweetbot.md).
+Twitter is my favorite social media network and it is where I share everything [I am personally up to](https://twitter.com/nikitavoloboev) right now. I love Twitter for its ability to tailor completely what news and tweets I am actually reading. I split Tweetbot into [two columns](../macOS/apps/tweetbot.md). I have two feeds, one with my top subs and everything else in [other list](https://twitter.com/i/lists/1131319788012285952).
 
 ### [Hacker News](https://hckrnews.com/) and [Lobsters](https://lobste.rs/)
 
@@ -20,9 +20,11 @@ They are my two favorite news aggregators on the web. I like Lobsters for its sm
 
 ### Reddit
 
-My Reddit is heavily tailored to my own likes and I very often just look into some subreddits I like to see what is new. I list subreddits I like [here](https://github.com/learn-anything/reddit#readme).
+My Reddit is heavily tailored to my own likes and I very often just look into some subreddits I like to see what is new.
 
-I access all these subreddits using [Deanishe's Reddit worklfow](https://github.com/deanishe/alfred-reddit#readme).
+Here is [multireddit](https://old.reddit.com/r/2DoApp+AdvancedFitness+AlanWatts+AskComputerScience+AskHistorians+AskMen+AskNetsec+AskProgramming+Automate+Bogleheads+CGPGrey+Clojure+Coffee+Compilers+Coq+CryptoTechnology+Cyberpunk_Music+Design+DrugNerds+Entrepreneur+EuropeFIRE+EveryLittleAnimation+EverythingScience+FIREUK+Fitness+Futurology+GonWildCurvy+GraphicsProgramming+HumanMicrobiome+Immunology+InternetIsBeautiful+Julia+LaTeX+Letterboxd+LoRaWAN+Lora+MLQuestions+MacOS+MachineLearning+Meditation+Microbiome+MusicForConcentration+Neuralink+NixOS+NoStupidQuestions+Nootropics+OutOfTheLoop+Pet_Renaissance+Physics+PlantBasedDiet+PostgreSQL+PourPainting+ProgrammerTIL+ProgrammingLanguages+PsychedelicStudies+Python+REMath+RISCV+Racket+RationalPsychonaut+ReverseEngineering+Showerthoughts+SiriShortcuts+SoftwareEngineering+SublimeText+SwiftUI+TheeHive+TrueFilm+UKInvesting+UKPersonalFinance+WeAreTheMusicMakers+WireGuard+ZeroWaste+agda+algorithms+ambientmusic+analog+apljk+apolloapp+apple+artificial+askdrugs+askscience+aws+bioinformatics+blog+boardgames+bodyweightfitness+cardano+chan+coding+cogsci+compsci+computerscience+cpp+csbooks+cscareerquestions+cscareerquestionsEU+darknetplan+dataisbeautiful+datascience+dependent_types+devops+elixir+elm+embedded+erlang+ethereum+europe+explainlikeimfive+explorables+fatFIRE+financialindependence+genetics+getdisciplined+golang+gonwild+haskell+history+homeautomation+iOSProgramming+investing+iosdev+javascript+kubernetes+leangains+learnanythingxyz+learnart+learnmachinelearning+learnprogramming+lectures+lisp+listentothis+longevity+macosprogramming+macprogramming+math+mathbooks+mildlyinteresting+minimalism+neuro+neuroscience+nextjs+nutrition+ocaml+osdev+photocritique+photography+privacy+programming+programmingtools+pytorch+reactjs+reactnative+reasonml+reinforcementlearning+rust+scala+science+selfhosted+shittychangelog+shortcuts+singularity+solotravel+spacex+startups+statistics+swift+sysadmin+tinycode+triphop+types+typescript+u_BluePinkGrey+u_Borax+u_ChristoferK+u_Cindori+u_CompuIves+u_DizzyEwok+u_DontStealStories+u_ElvishJerricco+u_LunarStone+u_Odersky+u_SrPeixinho+u_StingrayZ+u__philpl+u_algernone+u_caliform+u_cmsj+u_deanishe+u_desiringmachines+u_dlgn13+u_edwardkmett+u_emersion_fr+u_isovector+u_jamesknelson+u_japaric+u_jerf+u_k0001+u_karlicoss+u_kennethreitz+u_majid8+u_mittsh+u_mstoiber+u_nat_friedman+u_nglgzz+u_notoriousrdc+u_nrinaudo+u_nullc+u_quchen+u_robpike+u_rperciav+u_rvolosatovs+u_sfvisser+u_sobolevn+u_sobri909+u_spez+u_spladug+u_swyx+u_tazjin+u_terrorjack+u_tiss93+u_tuhdo+u_uhoreg+userexperience+veganfitness+veganketo+videography+vim+vim_magic+vscode+web_design+webdev+zeronet/) of subreddits I am subbed too. Less priority subs are put in [Other list](https://www.reddit.com/user/nikivi/m/other).
+
+There is also nice [list of Reddit subs](https://github.com/learn-anything/reddit#readme). I access all these subreddits using [Deanishe's Reddit worklfow](https://github.com/deanishe/alfred-reddit#readme).
 
 ### RSS with [Reeder](http://reederapp.com/mac/)
 

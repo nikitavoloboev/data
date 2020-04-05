@@ -35,3 +35,4 @@
 - [Pixel2Mesh](https://github.com/nywang16/Pixel2Mesh) - Generating 3D Mesh Models from Single RGB Images.
 - [First Order Motion Model for Image Animation](https://aliaksandrsiarohin.github.io/first-order-model-website/) ([Code](https://github.com/AliaksandrSiarohin/first-order-model))
 - [PyTorch improved version of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution](https://github.com/cleardusk/3DDFA)
+- [Learning to See Through Obstructions](https://github.com/alex04072000/ObstructionRemoval)
