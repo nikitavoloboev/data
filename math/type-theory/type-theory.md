@@ -45,3 +45,4 @@
 - [mlsub](https://github.com/stedolan/mlsub) - Prototype type inference engine.
 - [Papers and talks around type inference](http://stedolan.net/research/#mlsub)
 - [Low-Level Liquid Types](http://goto.ucsd.edu/~rjhala/papers/low_level_liquid_types.pdf)
+- [PRL Project](http://www.nuprl.org/) - Implementing computational mathematics and providing logic-based tools that help automate programming.

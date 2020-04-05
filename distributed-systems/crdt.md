@@ -17,3 +17,4 @@
 - [Local-first packages & explorations](https://github.com/jaredly/local-first)
 - [Automerge in JS](https://github.com/automerge/automerge) - JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [Automerge in Rust](https://github.com/alexjg/automerge-rs)
+- [Peter Bourgon on CRDTs and State at the Edge (2020)](https://overcast.fm/+GdnXKIjWQ)

@@ -86,7 +86,7 @@
 - [The box model is not layout (2019)](https://kilianvalkhof.com/2019/design/the-box-model-is-not-layout/)
 - [MDN CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 - [Smooth CSS shadows generator](https://brumm.af/shadows)
-- [CSS Layout](https://csslayout.io/) - Collection of popular layouts and patterns made with CSS. ([Code](https://github.com/phuoc-ng/csslayout))
+- [CSS Layout](https://csslayout.io/patterns) - Collection of popular layouts and patterns made with CSS. ([Code](https://github.com/phuoc-ng/csslayout))
 - [CSS Protips](https://github.com/AllThingsSmitty/css-protips#readme) - Collection of tips to help take your CSS skills pro.
 - [Focus Overlay](https://github.com/mmahandev/FocusOverlay) - Library for creating animated overlays on focused elements.
 - [Six Questions to Understand the CSS Box Model (2017)](https://medium.com/launch-school/https-medium-com-dembasiby-understanding-the-css-box-model-b005a82593a6)

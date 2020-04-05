@@ -74,4 +74,4 @@
 - [Postgres Weekly](https://postgresweekly.com/) - Free, once–weekly e-mail round-up of PostgreSQL news and articles.
 - [graphile-migrate](https://github.com/graphile/migrate) - Opinionated SQL-powered productive roll-forward migration tool for PostgreSQL.
 - [pgslice](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
-- [Things I Hate About PostgreSQL (2020)](https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791) ([HN](https://news.ycombinator.com/item?id=22775330))
+- [Things I Hate About PostgreSQL (2020)](https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791) ([HN](https://news.ycombinator.com/item?id=22775330)) ([Lobsters](https://lobste.rs/s/j2ptta/10_things_i_hate_about_postgresql))

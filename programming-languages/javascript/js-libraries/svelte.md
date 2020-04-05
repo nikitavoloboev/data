@@ -21,3 +21,4 @@
 - [Lobsters: Svelte is unappealing (2020)](https://lobste.rs/s/d6yta7/svelte_is_unappealing)
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS.
 - [Svelte DevTools](https://github.com/RedHatter/svelte-devtools) - Extension that allows inspection of Svelte component hierarchy and state in the Firefox and Chrome developer tools.
+- [Svelte Compiler Handbook](https://lihautan.com/the-svelte-compiler-handbook/) ([HN](https://news.ycombinator.com/item?id=22784153))
