@@ -108,3 +108,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Ship.js](https://github.com/algolia/shipjs) - Take control of what is going to be your next release.
 - [Git Under the Hood Internals, Techniques, and Rewriting History (2019)](https://blog.isquaredsoftware.com/presentations/2019-03-git-internals-rewrite/#/)
 - [libgit2](https://github.com/libgit2/libgit2) - Cross-platform, linkable library implementation of Git that you can use in your application.
+- [lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.

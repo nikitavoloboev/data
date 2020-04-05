@@ -47,7 +47,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Krzysztof Kowalczyk](https://blog.kowalczyk.info/)
 - [Phil Eaton's notes](http://notes.eatonphil.com/)
 - [Blue Book](https://lyz-code.github.io/blue-book/) ([Code](https://github.com/lyz-code/blue-book/))
-- [Jethro Kuan](https://braindump.jethro.dev/zettels/)
+- [Jethro Kuan](https://braindump.jethro.dev/zettels/) ([Code](https://github.com/jethrokuan/braindump))
 - [C2](http://wiki.c2.com/)
 - [Allen](https://allenleein.github.io/1930/01/01/knowledge-base.html) ([Code](https://github.com/allenleein/knowledge-base))
 - [Full-stack web development notes](https://github.com/8483/notes#readme)

@@ -116,3 +116,4 @@
 - [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/content/) - Free book that talks about design patterns/techniques used while developing with React. ([Code](https://github.com/krasimir/react-in-patterns))
 - [Awesome list of React Renderer](https://github.com/chentsulin/awesome-react-renderer#readme)
 - [What is the React Scheduler? (2020)](https://ahuth.github.io/articles/what-is-the-react-scheduler.html)
+- [33 line React](https://leontrolski.github.io/33-line-react.html) ([HN](https://news.ycombinator.com/item?id=22776753))

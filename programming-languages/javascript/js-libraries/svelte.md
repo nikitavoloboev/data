@@ -22,3 +22,4 @@
 - [Smelte](https://github.com/matyunya/smelte) - UI framework with material components built with Svelte and Tailwind CSS.
 - [Svelte DevTools](https://github.com/RedHatter/svelte-devtools) - Extension that allows inspection of Svelte component hierarchy and state in the Firefox and Chrome developer tools.
 - [Svelte Compiler Handbook](https://lihautan.com/the-svelte-compiler-handbook/) ([HN](https://news.ycombinator.com/item?id=22784153))
+- [Why Svelte is our choice for a large web project in 2020](https://github.com/feltcoop/why-svelte#readme)

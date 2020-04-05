@@ -33,3 +33,4 @@
 - [Path to a free self-taught education in Bioinformatics](https://github.com/ossu/bioinformatics#readme)
 - [How to Build a Biotech](https://www.celinehh.com/biotech)
 - [Unified rational protein engineering with sequence-based deep representation learning (2019)](https://www.nature.com/articles/s41592-019-0598-1)
+- [Deep Molecular Programming: A Natural Implementation of Binary-Weight ReLU Neural Networks (2020)](https://arxiv.org/abs/2003.13720) ([HN](https://news.ycombinator.com/item?id=22768143))

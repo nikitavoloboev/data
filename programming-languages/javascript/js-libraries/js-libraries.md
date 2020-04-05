@@ -193,6 +193,7 @@
 - [Tippy.js](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library.
 - [howler.js](https://github.com/goldfire/howler.js) - JavaScript audio library for the modern web.
 - [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
+- [Midi](https://github.com/Tonejs/Midi) - Convert MIDI into Tone.js-friendly JSON.
 
 ## Links
 

@@ -141,3 +141,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [live-stream-radio](https://github.com/torch2424/live-stream-radio) - 24/7 live stream video radio station CLI / API.
 - [RationalWiki](https://rationalwiki.org/wiki/Main_Page)
 - [Bonhams](https://www.bonhams.com/) - Privately owned international auction house.
+- [Treendly](https://treendly.com/) - Discover and monitor rapidly growing trends. ([HN](https://news.ycombinator.com/item?id=22777397))

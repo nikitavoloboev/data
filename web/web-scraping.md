@@ -10,3 +10,4 @@
 - [You-Get](https://github.com/soimort/you-get) - Tiny command-line utility to download media contents (videos, audios, images) from the Web.
 - [Universal Reddit Scraper](https://github.com/JosephLai241/Universal-Reddit-Scraper) - Scrape Subreddits, Redditors, and comments on posts. A command-line tool written in Python.
 - [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js.
+- [Ask HN: Best practices for ethical web scraping? (2020)](https://news.ycombinator.com/item?id=22778089)
