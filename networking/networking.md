@@ -89,3 +89,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Lobsters: Good resources to learn about computer networking (2020)](https://lobste.rs/s/tkkygt/good_resources_learn_about_computer)
 - [Introducing KCP: a new low-latency, secure network stack (2020)](https://improbable.io/blog/kcp-a-new-low-latency-secure-network-stack)
 - [Layer 2 network neighbourhood discovery tool](https://github.com/bwaldvogel/neighbourhood)
+- [Nmap Network Scanning docs](https://nmap.org/book/toc.html)

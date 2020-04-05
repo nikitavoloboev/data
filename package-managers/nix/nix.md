@@ -94,3 +94,4 @@
 - [Eelco Dolstra's talks/papers](https://edolstra.github.io/) ([Code](https://github.com/edolstra/edolstra.github.io))
 - [Nix Haskell Monorepo Tutorial](https://github.com/fghibellini/nix-haskell-monorepo)
 - [The journey of packaging a .NET app on Nix (2020)](https://sgt.hootr.club/molten-matter/dotnet-on-nix/)
+- [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection.
