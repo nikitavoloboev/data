@@ -83,6 +83,7 @@ And these Discord servers:
 - [Awesome websites](https://github.com/learn-anything/websites#readme)
 - [Hackaday](https://hackaday.com/)
 - [MOOCReport by Class Central](https://www.classcentral.com/report/) - Latest news and trends in online education.
+- [some.fyi](https://some.fyi/) - Experiment to get more useful news.
 
 ## Notes
 

@@ -124,3 +124,4 @@
 - [Lecture notes from Cambridge maths](https://www.b-mehta.co.uk/) ([Code](https://github.com/b-mehta/maths-notes))
 - [Cambridge Maths Tripos notes](https://github.com/Name-Kompsky/tripos)
 - [Real Not Complex: Free Math Resources](https://realnotcomplex.com/) ([HN](https://news.ycombinator.com/item?id=22710874))
+- [Short book recommendations on advanced topics? (2020)](https://www.reddit.com/r/math/comments/fuyvcc/short_book_recommendations_on_advanced_topics/)

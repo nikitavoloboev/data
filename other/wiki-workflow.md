@@ -126,3 +126,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Emvi](https://emvi.com/) - Knowledge management platform for companies and teams.
 - [Human Programming Interface: My life in a Python package (2020)](https://beepb00p.xyz/hpi.html)
 - [Ask HN: What do you use to keep track of bookmarks/notes/snippets? (2020)](https://news.ycombinator.com/item?id=22778123)
+- [Zettelkasten — How One German Scholar Was So Freakishly Productive (2019)](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)

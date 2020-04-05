@@ -44,6 +44,7 @@
 - [use-persisted-state](https://github.com/donavon/use-persisted-state) - Custom React Hook that provides a multi-instance, multi-tab/browser shared and persistent state.
 - [useSound](https://github.com/joshwcomeau/use-sound) - React Hook for Sound Effects. ([Article](https://joshwcomeau.com/react/announcing-use-sound-react-hook/))
 - [react-head](https://github.com/JoviDeCroock/react-head) - Hooks to populate the html head.
+- [@kripod/react-hooks](https://github.com/kripod/react-hooks) - Essential set of React Hooks for convenient Web API consumption and state management.
 
 ## Notes
 
