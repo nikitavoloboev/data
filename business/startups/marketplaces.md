@@ -9,3 +9,4 @@
 - [What are the best blog posts and podcasts to learn about marketplaces?](https://twitter.com/sarthakgh/status/1136118002959736833)
 - [a16z Marketplace 100: Index (2020)](https://a16z.com/2020/02/18/marketplace-100-index/)
 - [Required Reading for Marketplace Entrepreneurs (2020)](https://a16z.com/2020/02/19/required-marketplace-reading/)
+- [Deep Dive into Marketplaces. High level overview.](https://twitter.com/eriktorenberg/status/1239278628682125312)

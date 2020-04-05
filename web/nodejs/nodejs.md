@@ -63,3 +63,4 @@
 - [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - One-liner node.js http-proxy middleware for connect, express and browser-sync.
 - [ThreadBox](https://github.com/sinclairzx81/threadbox) - Recursive Worker Threads in NodeJS.
 - [Helpful libraries and resources for building Node.js CLIs](https://github.com/sw-yx/cli-cheatsheet#readme)
+- [Node.js Backend Architecture Typescript Project](https://github.com/afteracademy/nodejs-backend-architecture-typescript)

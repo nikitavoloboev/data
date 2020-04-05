@@ -44,3 +44,4 @@
 - [oha](https://github.com/hatoo/oha) - Tiny program that sends some load to a web application.
 - [James](https://github.com/james-proxy/james) - HTTP Proxy and Monitor that enables developers to view and intercept requests made from the browser.
 - [Let's Build A Web Server](https://github.com/rspivak/lsbaws)
+- [FF Proxy](https://github.com/TimeToogo/ff-proxy) - Proxy server which enables you to fire and forget HTTP requests.
