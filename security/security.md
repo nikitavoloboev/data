@@ -45,3 +45,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Panther](https://github.com/panther-labs/panther) - Cloud-native platform for detecting threats with log data, improving cloud security posture, and conducting investigations.
 - [bettercap](https://github.com/bettercap/bettercap) - Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 - [security.txt](https://securitytxt.org/) - Proposed standard which allows websites to define security policies.
+- [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go.
