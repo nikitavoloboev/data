@@ -2,13 +2,11 @@
 
 I use the app to manage events in my life I sync with Google Calendar.
 
-I use Fantastical's natural language input together with [many Typinator expansions](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to make new events in seconds.
+I use Fantastical's natural language input together with [Typinator expansions](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to make new events in seconds.
 
-I always view my events from `Week` view & have 5 days in view only with 16 hours shown only (7:00 -> 23:00). This gives me perspective over current and upcoming events/deadlines.
+I always view my events from `Week` view & have 6 days in view only with 17 hours shown at a time. This gives perspective over current and upcoming events/deadlines.
 
-I use `All day events` as a way to [put a focus on a project for a particular day](https://twitter.com/nikitavoloboev/status/1136715942338224128) based on [my goals](../../focusing/focusing.md). With the focus in mind, planning events becomes easier.
-
-I often switch between `Week` view and `Month`. And I have [Meetup](https://www.meetup.com) calendar added to Fantastical too as separate account.
+I often switch between `Week` view and `Month`.
 
 ![](https://i.imgur.com/Aq5ABNP.png)
 

@@ -31,3 +31,4 @@
 - [Erlang Language Server Protocol Implementation](https://github.com/erlang-ls/erlang_ls)
 - [Advent of Code 2019 done in Erlang videos](https://www.youtube.com/watch?v=TqzBchjZw4Q)
 - [Erlang Programming Language - Computerphile (2019)](https://www.youtube.com/watch?v=SOqQVoVai6s)
+- [History of Erlang](https://dl.acm.org/doi/abs/10.1145/1238844.1238850)

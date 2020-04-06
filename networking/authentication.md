@@ -9,3 +9,4 @@
 - [Learn Authentication The Hard Way (2020)](https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/)
 - [Ask HN: What are problems with implementing authentication and authorization? (2020)](https://news.ycombinator.com/item?id=22512786)
 - [BitAuth](https://bitauth.com/) - Simple, Secure, Passwordless Login.
+- [Zanzibar: Google’s Consistent, Global Authorization System (2019)](https://www.youtube.com/watch?v=mstZT431AeQ)

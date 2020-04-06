@@ -1,9 +1,8 @@
 # Funny
 
-Some things I found funny.
-
 ## Links
 
+- [Microservices](https://www.youtube.com/watch?v=y8OnoxKotPQ)
 - [Our architecture: load balancer -> memcached -> memcached -> frontend server -> backend server](https://www.youtube.com/watch?v=jlPaby7suOc)
 - [Dog Wick](https://www.youtube.com/watch?v=iGpZ9xaQLYQ)
 - [What We Do In The Shadows - "The Procession Of Shame"](https://www.youtube.com/watch?v=yy4CN9DVPII)

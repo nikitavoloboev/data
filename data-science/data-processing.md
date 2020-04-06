@@ -13,3 +13,4 @@
 - [Guide To The Data Lake — Modern Batch Data Warehousing (2020)](https://towardsdatascience.com/a-guide-to-modern-batch-data-warehousing-extraction-f63bfa6ef878)
 - [Plumbing At Scale (2020)](https://engineering.grab.com/plumbing-at-scale) - Event Sourcing and Stream Processing Pipelines at Grab.
 - [Differential Dataflow! But at what COST? (2017)](https://github.com/frankmcsherry/blog/blob/master/posts/2017-10-23.md) ([HN](https://news.ycombinator.com/item?id=22094512))
+- [Timely Dataflow and Total Order (2020)](http://justinjaffray.com/timely-dataflow-and-total-order/)

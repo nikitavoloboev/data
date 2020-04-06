@@ -678,6 +678,7 @@
 - [NLP](nlp/nlp.md)
   - [Sentiment Analysis](nlp/sentiment-analysis.md)
   - [Virtual assistant](nlp/virtual-assistant.md)
+  - [Speech synthesis](nlp/speech-synthesis.md)
   - [Bots](nlp/bots.md)
 - [Virtual Reality](virtual-reality/virtual-reality.md)
 - [Augmented Reality](augmented-reality/augmented-reality.md)
