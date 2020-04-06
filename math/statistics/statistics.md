@@ -24,3 +24,4 @@
 - [An Overview of Bayesian Inference (2019)](https://jaydaigle.net/blog/overview-of-bayesian-inference/)
 - [Bayesian Data Analysis (2020)](https://users.aalto.fi/~ave/BDA3.pdf)
 - [Bayesian Data Analysis course material (2020)](https://github.com/avehtari/BDA_course_Aalto)
+- [Statistics Done Wrong](https://www.statisticsdonewrong.com/)

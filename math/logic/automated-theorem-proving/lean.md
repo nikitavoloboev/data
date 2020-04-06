@@ -19,3 +19,4 @@
 - [M4P33](https://github.com/ImperialCollegeLondon/M4P33) - Algebraic geometry course in Lean.
 - [Lean 4 code](https://github.com/leanprover/lean4)
 - [Lean 3 code](https://github.com/leanprover-community/lean)
+- [Doing a math assignment with the Lean theorem prover (2020)](https://ahelwer.ca/post/2020-04-05-lean-assignment/)

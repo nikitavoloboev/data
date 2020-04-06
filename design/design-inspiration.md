@@ -157,6 +157,7 @@ Here are few more things I liked, design wise.
 - [Alex Dytrych](https://alex.dytry.ch/)
 - [Xueqiao Xu](http://xueqiaoxu.me/#projects)
 - [Erbridge](http://erbridge.co.uk/)
+- [Andy Matuschak](https://andymatuschak.org/)
 - [To Overcome](http://www.parsonsmatt.org/)
 - [Artist Developer](http://www.artist-developer.com/)
 - [Patrick Stadler](https://pstadler.sh/)

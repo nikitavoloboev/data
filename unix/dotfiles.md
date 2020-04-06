@@ -24,6 +24,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles#r
 - [fatih](https://github.com/fatih/dotfiles)
 - [Mathias](https://github.com/mathiasbynens/dotfiles)
 - [Nikita Sobolev](https://github.com/sobolevn/dotfiles)
+- [Greg Hurrell](https://github.com/wincent/wincent)
 
 ## Links
 

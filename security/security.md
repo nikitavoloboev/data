@@ -47,3 +47,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [security.txt](https://securitytxt.org/) - Proposed standard which allows websites to define security policies.
 - [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go.
 - [Security Engineering - A Guide to Building Dependable Distributed Systems](https://www.cl.cam.ac.uk/~rja14/book.html) ([HN](https://news.ycombinator.com/item?id=22785498))
+- [Michal Zalewski's security tools/articles](https://lcamtuf.coredump.cx/)

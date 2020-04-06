@@ -137,6 +137,8 @@
 - [How to be an Effective Executive](http://delian.io/lessons-3)
 - [Planning and Managing Layoffs (2020)](https://a16z.com/2020/03/31/planning-and-managing-layoffs/)
 - [How To Keep Your Company Alive – Observe, Orient, Decide and Act (2020)](https://steveblank.com/2020/04/01/the-ceo-playbook-for-keeping-your-company-alive/) ([HN](https://news.ycombinator.com/item?id=22756964))
+- [High Growth Handbook](http://growth.eladgil.com/)
+- [Wardley maps](https://medium.com/wardleymaps) - Topographical intelligence in business. ([As Book](https://github.com/andrewharmellaw/wardley-maps-book))
 
 ## Images
 

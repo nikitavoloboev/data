@@ -28,6 +28,7 @@
 - [Quadsort](https://github.com/scandum/quadsort) - Stable non-recursive merge sort named quadsort.
 - [System design algorithms](https://github.com/resumejob/system-design-algorithms#readme) - Algorithms you should know before system design.
 - [Algorithms Design book](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf)
+- [Think Complexity](http://greenteapress.com/complexity/html/index.html)
 
 ## Images
 

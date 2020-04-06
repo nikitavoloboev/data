@@ -23,3 +23,4 @@
 - [Roadmap templates for product management](https://usefyi.com/templates/roadmap-templates/)
 - [Resources for Staff-plus engineers (2020)](https://lethain.com//staff-plus-eng-resources/)
 - [Ask HN: How to self study management, especially supply chain management? (2020)](https://news.ycombinator.com/item?id=22736545)
+- [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)

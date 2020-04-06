@@ -154,6 +154,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [On the shoulders of the giants (2020)](https://www.lpalmieri.com/posts/2020-03-08-on-the-shoulders-of-the-giants/) ([HN](https://news.ycombinator.com/item?id=22515743))
 - [Ask HN: Great fiction books that have had a positive impact on your life? (2020)](https://news.ycombinator.com/item?id=22718592)
 - [Books That Every Programmer Should Read (2020)](https://metaredux.com/posts/2020/03/27/the-books-that-every-programmer-should-read.html) ([Lobsters](https://lobste.rs/s/wqujvc/books_every_programmer_should_read))
+- [Nice web books (2020)](https://twitter.com/andy_matuschak/status/1246937718283624449)
 
 ## Notes
 

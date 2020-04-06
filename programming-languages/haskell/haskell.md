@@ -59,7 +59,8 @@
 - [hpack](https://github.com/sol/hpack) - Modern format for Haskell packages.
 - [Haskell Code Explorer](https://github.com/alexwl/haskell-code-explorer) - Web application for exploring and understanding Haskell codebases.
 - [static-haskell-nix](https://github.com/nh2/static-haskell-nix) - Easily build most Haskell programs into fully static Linux executables.
-- [Real World Haskell by Bryan O’Sullivan updated to 2019](https://github.com/tssm/up-to-date-real-world-haskell#readme)
+- [Real World Haskell](http://book.realworldhaskell.org/read/)
+- [Real World Haskell updated to 2019](https://github.com/tssm/up-to-date-real-world-haskell#readme)
 - [Higher-order Type-level Programming in Haskell (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/ho-haskell-5c8bb4918a4de.pdf) ([HN](https://news.ycombinator.com/item?id=19412667))
 - [Why Haskell?](https://github.com/github/semantic/blob/master/docs/why-haskell.md)
 - [Property-Based Testing in a Screencast Editor: Introduction (2019)](https://wickstrom.tech/programming/2019/03/02/property-based-testing-in-a-screencast-editor-introduction.html)
@@ -126,3 +127,4 @@
 - [Story told by Type Errors](https://kodimensional.dev/type-errors)
 - [API design notes](https://gist.github.com/Gabriel439/563fa662f84e0a845c79775756cfce78) ([Video](https://www.twitch.tv/videos/581490043))
 - [Retrie](https://github.com/facebookincubator/retrie) - Powerful, easy-to-use codemodding tool for Haskell.
+- [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)

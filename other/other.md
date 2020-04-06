@@ -142,3 +142,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [RationalWiki](https://rationalwiki.org/wiki/Main_Page)
 - [Bonhams](https://www.bonhams.com/) - Privately owned international auction house.
 - [Treendly](https://treendly.com/) - Discover and monitor rapidly growing trends. ([HN](https://news.ycombinator.com/item?id=22777397))
+- [Disaster planning for less crazy folk](https://lcamtuf.coredump.cx/prep/)
+- [Culture & Empire - Digital Revolution](https://hintjens.gitbooks.io/culture-empire/content/index.html)
+- [Introduction to Permaculture](https://open.oregonstate.education/permaculture/front-matter/introduction/)
+- [A Pattern Language](http://www.iwritewordsgood.com/apl/set.htm)
