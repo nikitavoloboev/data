@@ -127,3 +127,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Human Programming Interface: My life in a Python package (2020)](https://beepb00p.xyz/hpi.html)
 - [Ask HN: What do you use to keep track of bookmarks/notes/snippets? (2020)](https://news.ycombinator.com/item?id=22778123)
 - [Zettelkasten — How One German Scholar Was So Freakishly Productive (2019)](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
+- [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
+- [Memex Mobile](https://github.com/WorldBrain/Memex-Mobile) - Mobile app for Memex.

@@ -63,3 +63,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Web Skills](https://andreasbm.github.io/web-skills/) ([Code](https://github.com/andreasbm/web-skills))
 - [Do We Really Need a Web API? (2019)](https://liaison.dev/blog/articles/Do-We-Really-Need-A-Web-API-yq12wz) ([HN](https://news.ycombinator.com/item?id=21638809))
 - [Roadmap to becoming a web developer](https://github.com/kamranahmedse/developer-roadmap#readme)
+- [Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#readme)

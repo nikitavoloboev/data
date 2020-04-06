@@ -197,4 +197,5 @@
 
 ## Links
 
+- [NPM](https://www.npmjs.com) - Node package manager registry.
 - [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio#readme)

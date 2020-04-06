@@ -242,8 +242,8 @@
 
 ## Links
 
+- [Swift Package Registry](https://swiftpackageregistry.com/) ([Code](https://github.com/twodayslate/swift-package-registry/))
 - [SwiftPM Library](https://swiftpm.co/) - Place to find packages for Swift. ([Code](https://github.com/daveverwer/SwiftPMLibrary))
 - [Ice](https://github.com/jakeheis/Ice) - Developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
 - [freshOS](https://freshos.github.io/) - 100% Open Source iOS Toolset.
 - [swift-outdated](https://github.com/kiliankoe/swift-outdated) - Swift subcommand for displaying when Swift dependencies are out of date.
-- [Swift Package Registry](https://swiftpackageregistry.com/) ([Code](https://github.com/twodayslate/swift-package-registry/))

@@ -31,3 +31,8 @@
 - [deriving](https://github.com/ocaml-ppx/ppx_deriving) - Library simplifying type-driven code generation on OCaml.
 - [OCamline](https://github.com/chrisnevers/ocamline) - Command line interface for user input.
 - [OCaml Batteries Included](https://github.com/ocaml-batteries-team/batteries-included) - Community-maintained foundation library for your OCaml projects.
+
+## Links
+
+- [OPAM packages](http://opam.ocaml.org/packages/)
+- [dune-deps](https://github.com/mjambon/dune-deps) - Show the internal dependencies in your OCaml/Reason/Dune project.

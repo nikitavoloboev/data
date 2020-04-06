@@ -104,4 +104,5 @@
 
 ## Links
 
+- [PyPi](https://pypi.org/) - Repository of software for the Python programming language.
 - [Twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI.

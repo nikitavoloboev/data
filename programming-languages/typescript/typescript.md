@@ -24,7 +24,6 @@
 - [Fork TS Checker Webpack Plugin](https://github.com/Realytics/fork-ts-checker-webpack-plugin) - Webpack plugin that runs typescript type checker on a separate process.
 - [Tsickle](https://github.com/angular/tsickle) - TypeScript to Closure Translator.
 - [Set of TSLint rules used on some Microsoft projects](https://github.com/Microsoft/tslint-microsoft-contrib)
-- [TypeSearch](https://microsoft.github.io/TypeSearch/) - Search for TS types.
 - [TypeScript ESLint](https://github.com/typescript-eslint/typescript-eslint) - Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [TypeScript With Babel: A Beautiful Marriage (2018)](https://iamturns.com/typescript-babel/)
 - [ts-node-dev](https://github.com/whitecolor/ts-node-dev) - Restarts target node process when any of required files changes (as standard node-dev) but shares Typescript compilation process between restarts.

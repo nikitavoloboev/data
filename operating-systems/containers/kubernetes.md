@@ -170,3 +170,4 @@
 - [Rancher Kubernetes Engine (RKE)](https://github.com/rancher/rke) - Extremely simple, lightning fast Kubernetes distribution that runs entirely within containers.
 - [Prometheus Operator](https://github.com/coreos/prometheus-operator) - Creates/configures/manages Prometheus clusters atop Kubernetes.
 - [Rudr](https://github.com/oam-dev/rudr) - Kubernetes Implementation of the Open Application Model.
+- [k3sup](https://github.com/alexellis/k3sup) - Light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM.

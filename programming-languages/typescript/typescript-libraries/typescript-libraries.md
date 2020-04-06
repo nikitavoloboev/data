@@ -33,6 +33,7 @@
 
 ## Links
 
+- [TypeSearch](https://microsoft.github.io/TypeSearch/) - Search for TS types. ([Code](https://github.com/Microsoft/TypeSearch))
 - [TypeScript library starter](https://github.com/alexjoverm/typescript-library-starter#readme) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more.
 - [check-dts](https://github.com/ai/check-dts) - Unit tests for TypeScript definitions in your JS open source library.
 - [LiTScript](https://github.com/johtela/litscript) - Documentation generation tool that draws inspiration from literate programming.

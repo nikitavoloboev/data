@@ -37,3 +37,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Good Email Code](https://www.goodemailcode.com/) ([Code](https://github.com/M-J-Robbins/good-email-code))
 - [Mailgun](https://www.mailgun.com/) - The all-in-one, intelligent email delivery platform.
 - [Mailgun Logger](https://github.com/jackjoe/mailgun_logger) - Simple admin tool to get Mailgun persistence ad infinititum.
+- [maddy](https://github.com/foxcpp/maddy) - Composable all-in-one mail server.

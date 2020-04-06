@@ -372,11 +372,12 @@
 - [SVGo](https://github.com/ajstarks/svgo) - Go library for SVG generation.
 - [go-rate](https://github.com/beefsack/go-rate) - Rate limiter designed for a range of use cases, including server side spam protection and preventing saturation of APIs you consume.
 - [Throttled](https://github.com/throttled/throttled) - Implements rate limiting access to resources such as HTTP endpoints.
+- [groupcache](https://github.com/golang/groupcache) - Caching and cache-filling library, intended as a replacement for memcached in many cases.
 
 ## Links
 
+- [GoDoc](https://godoc.org/) - Hosts documentation for Go packages. ([Code](https://github.com/golang/gddo))
 - [Awesome Go](https://github.com/avelino/awesome-go#readme)
 - [Golang Serializer Benchmark Comparison](https://github.com/smallnest/gosercomp)
-- [GoDoc source](https://github.com/golang/gddo)
 - [gomodctl](https://github.com/beatlabs/gomodctl) - Search, Check and Update Go modules.
 - [List of Go GUI/graphics/image related projects](https://github.com/go-graphics/go-gui-projects#readme)

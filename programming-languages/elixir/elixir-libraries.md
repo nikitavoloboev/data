@@ -15,3 +15,7 @@
 - [Pow](https://github.com/danschultzer/pow) - Robust, modular, and extendable user authentication system.
 - [Rihanna](https://github.com/samphilipd/rihanna) - High performance postgres-backed job queue for Elixir.
 - [Broadway](https://github.com/plataformatec/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
+
+## Links
+
+- [Hex packages](https://hex.pm/packages) - Package manager for the Erlang ecosystem.
