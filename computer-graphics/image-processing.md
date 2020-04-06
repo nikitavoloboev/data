@@ -13,3 +13,4 @@
 - [Glitch This](https://github.com/TotallyNotChase/glitch-this) - Glitchify static images to glitched images and GIFs.
 - [Obscure features of JPEG (2011)](https://hodapple.com/blag/posts/2011-11-24-obscure-features-of-jpeg.html)
 - [stegify](https://github.com/DimitarPetrov/stegify) - Go tool for LSB steganography, capable of hiding any file within an image.
+- [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
