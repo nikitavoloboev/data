@@ -34,3 +34,4 @@
 - [Interactive Data Visualization course (2020)](http://vis.csail.mit.edu/classes/6.894/)
 - [Vega-Embed](https://github.com/vega/vega-embed) - Makes it easy to embed interactive Vega and Vega-Lite views into web pages.
 - [Facette](https://github.com/facette/facette) - Time series data visualization software.
+- [Experimental 3D axis for matplotlib](https://github.com/rougier/matplotlib-3d)

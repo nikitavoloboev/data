@@ -78,6 +78,7 @@
 - [sqlmw](https://github.com/ngrok/sqlmw) - Provides an absurdly simple API that allows a caller to wrap a database/sql driver with middleware.
 - [go-mysql](https://github.com/siddontang/go-mysql) - Pure go library to handle MySQL network protocol and replication.
 - [Redcon](https://github.com/tidwall/redcon) - Custom Redis server framework for Go that is fast and simple to use.
+- [Go SQLite3 driver](https://github.com/crawshaw/sqlite)
 
 ## ML
 
@@ -228,7 +229,6 @@
 - [Watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications easy way in Go. ([CQRS implementation in Watermill](https://watermill.io/docs/cqrs/))
 - [Aero](https://github.com/aerogo/aero) - High-performance web server for Go.
 - [rain](https://github.com/cenkalti/rain) - BitTorrent client and library in Go.
-- [go-sqlite-lite](https://github.com/bvinc/go-sqlite-lite) - SQLite driver for the Go programming language.
 - [Jet](https://github.com/go-jet/jet) - Type safe SQL Builder for Go with automatic scan to desired arbitrary object structure.
 - [ent](https://github.com/facebookincubator/ent) - An Entity Framework For Go. Simple, yet powerful ORM for modeling and querying data.
 - [Ebiten](https://github.com/hajimehoshi/ebiten) - Dead simple 2D game library in Go.
@@ -373,6 +373,7 @@
 - [go-rate](https://github.com/beefsack/go-rate) - Rate limiter designed for a range of use cases, including server side spam protection and preventing saturation of APIs you consume.
 - [Throttled](https://github.com/throttled/throttled) - Implements rate limiting access to resources such as HTTP endpoints.
 - [groupcache](https://github.com/golang/groupcache) - Caching and cache-filling library, intended as a replacement for memcached in many cases.
+- [littleboss](https://github.com/crawshaw/littleboss) - Self-supervising Go binaries.
 
 ## Links
 

@@ -146,3 +146,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Culture & Empire - Digital Revolution](https://hintjens.gitbooks.io/culture-empire/content/index.html)
 - [Introduction to Permaculture](https://open.oregonstate.education/permaculture/front-matter/introduction/)
 - [A Pattern Language](http://www.iwritewordsgood.com/apl/set.htm)
+- [Spire](https://github.com/epiccastle/spire) - Pragmatic provisioning using clojure.
