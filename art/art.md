@@ -177,3 +177,4 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Stream of machine generated art](https://art42.net/) ([HN](https://news.ycombinator.com/item?id=22344254))
 - [This Artwork Does Not Exist](https://thisartworkdoesnotexist.com/) ([HN](https://news.ycombinator.com/item?id=22488494))
 - [Writing Machines](https://writing-machines.tumblr.com/) - Resource dedicated to various projects related to electronic literature/books/writing/art.
+- [Archillect](https://archillect.com/) - AI created to discover and share stimulating visual content.

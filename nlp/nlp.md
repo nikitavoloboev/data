@@ -87,3 +87,4 @@
 - [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries#readme)
 - [Advanced NLP with spaCy](https://course.spacy.io/)
 - [Myle Ott's research](https://myleott.com/)
+- [Natural Language Processing with Python](https://www.nltk.org/book/) - Analyzing Text with the Natural Language Toolkit.

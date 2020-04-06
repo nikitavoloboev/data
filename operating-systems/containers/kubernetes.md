@@ -131,7 +131,7 @@
 - [Cortex](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
 - [Contour](https://github.com/projectcontour/contour) - Kubernetes ingress controller using Lyft's Envoy proxy.
 - [Roperator](https://github.com/psFried/roperator) - Lets you easily write Kubernetes Operators in Rust.
-- [Krustlet](https://github.com/deislabs/krustlet) - Kubernetes Kubelet in Rust for running WASM.
+- [Krustlet](https://github.com/deislabs/krustlet) - Kubernetes Kubelet in Rust for running WASM. ([Article](https://deislabs.io/posts/introducing-krustlet/))
 - [WaeaveWorks](https://www.weave.works/) - Operate and manage production ready Kubernetes with Weave Kubernetes Platform.
 - [Gravity](https://github.com/gravitational/gravity) - Opinionated image-based Kubernetes packaging and management tools.
 - [kubenav](https://github.com/kubenav/kubenav) - Navigator for your Kubernetes clusters right in your pocket.
