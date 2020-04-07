@@ -109,3 +109,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Git Under the Hood Internals, Techniques, and Rewriting History (2019)](https://blog.isquaredsoftware.com/presentations/2019-03-git-internals-rewrite/#/)
 - [libgit2](https://github.com/libgit2/libgit2) - Cross-platform, linkable library implementation of Git that you can use in your application.
 - [lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
+- [My unorthodox, branchless git workflow (2020)](https://drewdevault.com/2020/04/05/My-weird-branchless-git-workflow.html) ([Lobsters](https://lobste.rs/s/lymznu/my_unorthodox_branchless_git_workflow))

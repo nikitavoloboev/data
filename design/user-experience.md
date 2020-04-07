@@ -8,3 +8,4 @@
 - [User Onboarding](https://www.useronboard.com/)
 - [Annoying Technology](https://annoying.technology/)
 - [Cleaning up form UI](https://tonsky.me/blog/form-cleanup/)
+- [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)

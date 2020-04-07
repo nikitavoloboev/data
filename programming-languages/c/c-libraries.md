@@ -18,3 +18,4 @@
 - [cgltf](https://github.com/jkuhlmann/cgltf) - Single-file glTF 2.0 loader and writer written in C99.
 - [utf8proc](https://github.com/JuliaStrings/utf8proc) - Clean C library for processing UTF-8 Unicode data.
 - [Sokol](https://github.com/floooh/sokol) - Simple STB-style cross-platform libraries for C and C++, written in C.
+- [libcsp](https://github.com/shiyanhui/libcsp) - Fast C concurrency library influenced by the CSP model. ([HN](https://news.ycombinator.com/item?id=22797286))

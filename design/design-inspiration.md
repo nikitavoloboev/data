@@ -74,6 +74,7 @@ Here are few more things I liked, design wise.
 - [Andrew Wang-Hoyer](https://andrew.wang-hoyer.com/)
 - [Amelia Wattenberger](https://wattenberger.com/)
 - [Travis Jeffery](https://travisjeffery.com/)
+- [Julia Johnson](https://www.juliacodes.com/) ([Code](https://github.com/juliajcodes/JuliaCodesGatsby))
 - [Michael Edelstone](https://michaeledelstone.com/)
 - [Max Böck](https://mxb.dev/)
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))

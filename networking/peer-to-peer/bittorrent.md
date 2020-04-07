@@ -23,3 +23,4 @@
 - [BTFS](https://www.bittorrent.com/btfs/) - First Scalable Decentralized Storage System.
 - [Building a BitTorrent client from the ground up in Go (2020)](https://blog.jse.li/posts/torrent/) ([HN](https://news.ycombinator.com/item?id=21958359)) ([Code](https://github.com/veggiedefender/torrent-client))
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy#readme)
+- [DHT](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.

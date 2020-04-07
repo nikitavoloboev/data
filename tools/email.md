@@ -38,3 +38,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Mailgun](https://www.mailgun.com/) - The all-in-one, intelligent email delivery platform.
 - [Mailgun Logger](https://github.com/jackjoe/mailgun_logger) - Simple admin tool to get Mailgun persistence ad infinititum.
 - [maddy](https://github.com/foxcpp/maddy) - Composable all-in-one mail server.
+- [Announcing unverified.email (2020)](https://kerestey.net/writing/2020-04-05-announcing-unverified-dot-email.html)

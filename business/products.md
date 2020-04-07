@@ -26,3 +26,4 @@
 - [The Product-Minded Software Engineer (2019)](https://blog.pragmaticengineer.com/the-product-minded-engineer/) ([HN](https://news.ycombinator.com/item?id=21732027))
 - [Good Product Strategy, Bad Product Strategy (2020)](https://twitter.com/shreyas/status/1244810075908128768)
 - [North Star Playbook](https://amplitude.com/north-star) - Guide to discovering your product’s North Star.
+- [Principles of Product Design](http://bokardo.com/principles-of-product-design/)

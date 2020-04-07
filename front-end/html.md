@@ -32,3 +32,4 @@
 - [HTML DOM](https://htmldom.dev/) - Common tasks of managing HTML DOM with vanilla JavaScript. ([Code](https://github.com/phuoc-ng/html-dom)) ([HN](https://news.ycombinator.com/item?id=22758218))
 - [hyper(HTML)](https://github.com/WebReflection/hyperHTML) - Fast & Light Virtual DOM Alternative available for Node.js and NativeScript too.
 - [Open Graph Image as a Service](https://github.com/zeit/og-image) - Serverless service that generates dynamic Open Graph images that you can embed in your <meta> tags.
+- [Responsive Images the Simple Way (2020)](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
