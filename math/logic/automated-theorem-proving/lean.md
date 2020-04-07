@@ -20,5 +20,5 @@
 - [Lean 4 code](https://github.com/leanprover/lean4)
 - [Lean 3 code](https://github.com/leanprover-community/lean)
 - [Doing a math assignment with the Lean theorem prover (2020)](https://ahelwer.ca/post/2020-04-05-lean-assignment/)
-- [Hitchhiker’s Guide to Logical Veriﬁcation](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf)
+- [Hitchhiker’s Guide to Logical Veriﬁcation](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf) ([HN](https://news.ycombinator.com/item?id=22794533))
 - [Natural Number Game](https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/)

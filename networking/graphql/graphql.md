@@ -77,3 +77,4 @@
 - [Why does Artsy use Relay? (2019)](https://artsy.github.io/blog/2019/04/10/omakase-relay/)
 - [GraphQL Genie](https://github.com/genie-team/graphql-genie) - Simply pass in your GraphQL type defintions and get a fully featured GraphQL API with referential integrity, inverse updates, subscriptions and role based access control that can be used client side or server side.
 - [Real world GraphQL tutorial for developers with deadlines](https://hasura.io/learn/) ([Code](https://github.com/hasura/learn-graphql))
+- [apollo-link](https://github.com/apollographql/apollo-link) - Interface for fetching and modifying control flow of GraphQL requests.

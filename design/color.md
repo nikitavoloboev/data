@@ -23,3 +23,4 @@
 - [colors.lol](https://colors.lol/) - Overly descriptive color palettes. ([Code](https://github.com/adamfuhrer/colors.lol))
 - [Color gradient generator](https://mybrandnewlogo.com/color-gradient-generator)
 - [Building dark mode on Stack Overflow (2020)](https://stackoverflow.blog/2020/03/31/building-dark-mode-on-stack-overflow/) ([HN](https://news.ycombinator.com/item?id=22776651))
+- [Duo](https://duo.alexpate.uk/) - Collection of color combinations that I've curated from personal projects or that I've come across on the web. ([HN](https://news.ycombinator.com/item?id=22801661))

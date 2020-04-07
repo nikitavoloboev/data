@@ -91,3 +91,4 @@
 - [swift-format](https://github.com/apple/swift-format) - Provides the formatting technology for SourceKit-LSP and the building blocks for doing code formatting transformations.
 - [Awesome Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
 - [Typology](https://github.com/MaxDesiatov/Typology) - Swift type checking and semantic analysis for developer tools.
+- [Important talks and articles for first time Swift Contributors (2020)](https://forums.swift.org/t/important-talks-and-articles-for-first-time-swift-contributors/34537)

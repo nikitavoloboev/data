@@ -4,11 +4,9 @@ I use the app to manage events in my life I sync with Google Calendar.
 
 I use Fantastical's natural language input together with [Typinator expansions](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) to make new events in seconds.
 
-I always view my events from `Week` view & have 6 days in view only with 17 hours shown at a time. This gives perspective over current and upcoming events/deadlines.
+I always view my events from `Week` view & have 6 days in view only with 17 hours shown at a time. This gives perspective over current and upcoming events/deadlines. All events created by default have 30 min duration.
 
 I often switch between `Week` view and `Month`.
-
-![](https://i.imgur.com/Aq5ABNP.png)
 
 ## Notes
 

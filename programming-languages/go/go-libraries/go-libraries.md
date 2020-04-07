@@ -374,6 +374,7 @@
 - [Throttled](https://github.com/throttled/throttled) - Implements rate limiting access to resources such as HTTP endpoints.
 - [groupcache](https://github.com/golang/groupcache) - Caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [littleboss](https://github.com/crawshaw/littleboss) - Self-supervising Go binaries.
+- [go-basher](https://github.com/progrium/go-basher) - Library for writing hybrid Go and Bash programs.
 
 ## Links
 

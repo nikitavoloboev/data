@@ -18,8 +18,8 @@
 - Don't judge anyone. Attempt to see another person's point of view.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Give feedback.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
-- Build, enforce & **follow these rules**. Complete all [essential habits](habits.md).
-- Create & adjust rules based on new insights. [Take it easy](../life/happiness.md). You only live now.
+- Create & update rules based on experience/insights. Build, enforce & learn existing rules.
+- [Take it easy](../life/happiness.md). Be playful. You only live now.
 
 ## Health
 
