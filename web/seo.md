@@ -21,3 +21,4 @@
 - [On-Page SEO Checklist for New Websites](https://talk.hyvor.com/blog/on-page-seo-checklist/)
 - [Easy SEO Wins (2020)](https://kylemcd.com/posts/easy-seo-wins/)
 - [Nozzle](https://nozzle.io/) - Enterprise keyword rank tracker tool.
+- [How SEO Ruined the Internet](https://www.superhighway98.com/seo) ([HN](https://news.ycombinator.com/item?id=22792054))

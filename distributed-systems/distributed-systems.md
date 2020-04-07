@@ -69,3 +69,4 @@
 - [ION](https://github.com/pion/ion) - Distributed RTC system written by pure go and flutter.
 - [Challenges with distributed systems](https://aws.amazon.com/builders-library/challenges-with-distributed-systems/) ([HN](https://news.ycombinator.com/item?id=22382066))
 - [Smallstep](https://smallstep.com/) - End-to-End Encryption for Distributed Systems.
+- [Systems design for Advanced Beginners (2020)](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)

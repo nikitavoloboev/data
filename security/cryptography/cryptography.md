@@ -40,3 +40,4 @@
 - [Cryptopals](https://cryptopals.com/) - Collection of 48 exercises that demonstrate attacks on real-world crypto.
 - [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
 - [Intuitive Understanding of Quantum Computation and Post-Quantum Cryptography](https://github.com/cryptosubtlety/postquantumcrypto)
+- [Cofactor Explained: Clearing Elliptic Curves' dirty little secret (2020)](http://loup-vaillant.fr/tutorials/cofactor)
