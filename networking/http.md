@@ -45,3 +45,4 @@
 - [James](https://github.com/james-proxy/james) - HTTP Proxy and Monitor that enables developers to view and intercept requests made from the browser.
 - [Let's Build A Web Server](https://github.com/rspivak/lsbaws)
 - [FF Proxy](https://github.com/TimeToogo/ff-proxy) - Proxy server which enables you to fire and forget HTTP requests.
+- [Understanding Cross-Origin Resource Sharing (CORS) (2019)](https://miguelmota.com/blog/understanding-cross-origin-resource-sharing-cors/)

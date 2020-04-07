@@ -225,3 +225,4 @@ Go promotes composition over inheritance.
 - [Benchmarking Go programs (2017)](https://scene-si.org/2017/06/06/benchmarking-go-programs/)
 - [gopkg](https://labix.org/gopkg.in) - Service provides versioned URLs that offer the proper metadata for redirecting the go tool onto well defined GitHub repositories. ([Code](https://github.com/niemeyer/gopkg))
 - [Go Binaries](https://github.com/tj/gobinaries) - On-demand binary server, allowing non-Go users to quickly install tools written in Go without installing go itself. ([Article](https://cto.ai/blog/on-demand-go-binaries/))
+- [gosize](https://github.com/bradfitz/gosize) - Analyze size of Go binaries.

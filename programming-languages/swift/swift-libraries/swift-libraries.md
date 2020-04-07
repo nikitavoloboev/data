@@ -237,6 +237,7 @@
 - [SociableWeaver](https://github.com/NicholasBellucci/SociableWeaver) - Build declarative GraphQL queries in Swift.
 - [Swifter](https://github.com/httpswift/swifter) - Tiny http server engine written in Swift programming language.
 - [Secure Property Storage](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
+- [Reductio](https://github.com/fdzsergio/Reductio) - Tool used to extract keywords and phrases using an implementation of the algorithm TextRank.
 
 ## Other (not lib)
 
