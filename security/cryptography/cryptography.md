@@ -41,3 +41,4 @@
 - [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
 - [Intuitive Understanding of Quantum Computation and Post-Quantum Cryptography](https://github.com/cryptosubtlety/postquantumcrypto)
 - [Cofactor Explained: Clearing Elliptic Curves' dirty little secret (2020)](http://loup-vaillant.fr/tutorials/cofactor)
+- [Move Fast and Roll Your Own Crypto. Quick Look at the Confidentiality of Zoom Meetings (2020)](https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/)

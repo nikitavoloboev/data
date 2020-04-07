@@ -42,3 +42,4 @@
 - [Yahoo! Finance market data downloader](https://github.com/ranaroussi/yfinance)
 - [Tradologics](https://tradologics.com/) - Fastest way to go from idea to live-trading – bypassing all infrastructure headaches.
 - [Tradologics & The Future of Trading (2020)](https://aroussi.com/post/tradologics-the-future-of-trading)
+- [Investopedia](https://www.investopedia.com/) - Strives to empower every person to feel in control of their financial future.

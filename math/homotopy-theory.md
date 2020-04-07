@@ -14,3 +14,4 @@
 - [Homotopy type theory: A high-level language for invariant mathematics (2019)](https://home.sandiego.edu/~shulman/papers/highlevel.pdf)
 - [Introduction to Homotopy Type Theory](https://github.com/EgbertRijke/HoTT-Intro)
 - [Homotopy type theory in Lean 3](https://github.com/gebner/hott3)
+- [Workshop on Homotopy Type Theory/ Univalent Foundations (2020)](https://hott-uf.github.io/2020/)
