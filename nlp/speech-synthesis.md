@@ -4,3 +4,4 @@
 
 - [Deepvoice3 PyTorch](https://github.com/r9y9/deepvoice3_pytorch) - PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models.
 - [WaveNet vocoder](https://github.com/r9y9/wavenet_vocoder) - Can generate high quality raw speech samples conditioned on linguistic or acoustic features.
+- [Papercup](https://www.papercup.com/) - Translate your content into other languages with a voice that sounds like yours.

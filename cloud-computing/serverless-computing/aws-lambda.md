@@ -10,3 +10,4 @@
 - [5 reasons why you might use AWS Lambda for your next project (2020)](https://dev.to/tlakomy/5-reasons-why-you-might-use-aws-lambda-for-your-next-project-ik8)
 - [AWS SAM Local](https://aws.amazon.com/about-aws/whats-new/2017/08/introducing-aws-sam-local-a-cli-tool-to-test-aws-lambda-functions-locally/) - Allows you to run your serverless application locally for quick development and testing.
 - [python-lambda-layer-builder](https://github.com/tobilg/python-lambda-layer-builder) - Build tool for creating optimized Python AWS Lambda layers.
+- [Working with AWS Lambda and Chalice (2020)](https://papercup.dev/posts/working-with-aws-lambda-and-chalice/)

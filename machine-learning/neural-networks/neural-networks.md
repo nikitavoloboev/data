@@ -96,3 +96,4 @@
 - [Deep Learning for Symbolic Mathematics](https://github.com/facebookresearch/SymbolicMathematics)
 - [Google Brain AutoML](https://github.com/google/automl)
 - [Physics Informed Neural Networks](https://github.com/maziarraissi/PINNs) - Data-driven Solutions and Discovery of Nonlinear Partial Differential Equations.
+- [An introduction to Bayesian neural networks (2020)](https://papercup.dev/posts/bayesian-neural-nets/)
