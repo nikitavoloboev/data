@@ -110,3 +110,5 @@ I love Git and version control. And I use version control over any project I do.
 - [libgit2](https://github.com/libgit2/libgit2) - Cross-platform, linkable library implementation of Git that you can use in your application.
 - [lazygit](https://github.com/jesseduffield/lazygit) - Simple terminal UI for git commands.
 - [My unorthodox, branchless git workflow (2020)](https://drewdevault.com/2020/04/05/My-weird-branchless-git-workflow.html) ([Lobsters](https://lobste.rs/s/lymznu/my_unorthodox_branchless_git_workflow)) ([HN](https://news.ycombinator.com/item?id=22793512))
+- [Git Cola](https://git-cola.github.io/) - Sleek and powerful graphical user interface for Git. ([Code](https://github.com/git-cola/git-cola))
+- [Ultra Runner](https://github.com/folke/ultra-runner) - Ultra fast monorepo script runner and build tool.

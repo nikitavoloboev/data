@@ -236,6 +236,7 @@
 - [Swift Video Generator](https://github.com/dev-labs-bg/swift-video-generator) - Provides an easy way to combine images and audio into a video or merge multiple videos into one.
 - [SociableWeaver](https://github.com/NicholasBellucci/SociableWeaver) - Build declarative GraphQL queries in Swift.
 - [Swifter](https://github.com/httpswift/swifter) - Tiny http server engine written in Swift programming language.
+- [Secure Property Storage](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
 
 ## Other (not lib)
 

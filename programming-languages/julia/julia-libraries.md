@@ -50,6 +50,7 @@
 - [StaticArrays](https://github.com/JuliaArrays/StaticArrays.jl) - Statically sized arrays for Julia.
 - [Threads](https://github.com/tkf/ThreadsX.jl) - Parallelized Base functions.
 - [DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) - Implements a variety of data structures.
+- [Literate](https://github.com/fredrikekre/Literate.jl) - Simple package for literate programming in Julia.
 
 ## Links
 

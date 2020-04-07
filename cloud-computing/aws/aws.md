@@ -51,3 +51,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Amazon SSM Agent](https://github.com/aws/amazon-ssm-agent) - Agent to enable remote management of your Amazon EC2 instance configuration.
 - [Amazon CodeGuru](https://aws.amazon.com/codeguru/) - Automate code reviews. Identify your most expensive lines of code. ([HN](https://news.ycombinator.com/item?id=21695330))
 - [LocalStack](https://github.com/localstack/localstack) - Fully functional local AWS cloud stack. ([Web](https://localstack.cloud/))
+- [Punchcard](https://github.com/punchcard/punchcard) - Type-safe AWS infrastructure.

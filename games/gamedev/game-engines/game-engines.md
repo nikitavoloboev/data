@@ -24,6 +24,7 @@
 - [Box2D](https://github.com/erincatto/box2d) - 2D physics engine for games.
 - [RG3D](https://github.com/mrDIMAS/rg3d) - 3D game engine written in Rust.
 - [ResidualVM](https://github.com/residualvm/residualvm) - 3D game interpreter.
+- [qengine](https://github.com/klaussilveira/qengine) - Retro game engine for developers that enjoy creating games like it's 1997.
 
 ## Links
 

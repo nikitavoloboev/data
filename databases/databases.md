@@ -62,6 +62,7 @@
 - [Irmin](https://irmin.org/) - Distributed database built on the same principles as Git. ([Code](https://github.com/mirage/irmin)) ([HN](https://news.ycombinator.com/item?id=22591949))
 - [Noms](https://github.com/attic-labs/noms) - Decentralized database philosophically descendant from the Git version control system.
 - [SwayDB](https://github.com/simerplaha/SwayDB) - Fast embeddable persistent and in-memory key-value storage engine that provides storage as simple data structures - Map, Set & Queue.
+- [TrailDB](https://github.com/traildb/traildb) - Efficient tool for storing and querying series of events.
 
 ## Tools
 
