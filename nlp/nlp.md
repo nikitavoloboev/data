@@ -88,3 +88,4 @@
 - [Advanced NLP with spaCy](https://course.spacy.io/)
 - [Myle Ott's research](https://myleott.com/)
 - [Natural Language Processing with Python](https://www.nltk.org/book/) - Analyzing Text with the Natural Language Toolkit.
+- [NLP 100 Exercise](https://nlp100.github.io/en/) - Bootcamp designed for learning skills for programming, data analysis, and research activities. ([Code](https://github.com/nlp100/nlp100.github.io))

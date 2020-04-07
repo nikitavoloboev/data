@@ -15,3 +15,4 @@
 - [Sizle](https://sizle.io/) - Bring your slide decks to life.
 - [Waymark](https://waymark.io/) - Instant, beautiful roadmaps for product presentations.
 - [Marp CLI](https://github.com/marp-team/marp-cli) - Can convert Marp / Marpit Markdown files into static HTML / CSS, PDF, PowerPoint document, and image(s) easily.
+- [Remark](https://github.com/gnab/remark) - Simple, in-browser, markdown-driven slideshow tool.

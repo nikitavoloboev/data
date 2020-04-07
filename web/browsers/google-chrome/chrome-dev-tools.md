@@ -11,3 +11,4 @@
 - [chromedp](https://github.com/chromedp/chromedp) - Faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [Chrome DevTools Protocol](https://github.com/ChromeDevTools/devtools-protocol)
 - [Make your own DevTools](https://kentcdodds.com/blog/make-your-own-dev-tools)
+- [Rod](https://github.com/ysmood/rod) - High-level Chrome Devtools controller directly based on Chrome DevTools Protocol.

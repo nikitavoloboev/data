@@ -47,6 +47,7 @@
 - [PlayerKit](https://github.com/vimeo/PlayerKit) - Modular video player system for iOS and tvOS.
 - [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - Number of preset loading indicators created with SwiftUI.
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - Clean and easy-to-use floating panel UI component for iOS.
+- [ShowTime](https://github.com/KaneCheshire/ShowTime) - Easiest way to show off your iOS taps and gestures for demos and videos.
 
 ## macOS
 
