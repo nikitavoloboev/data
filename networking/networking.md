@@ -90,3 +90,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Introducing KCP: a new low-latency, secure network stack (2020)](https://improbable.io/blog/kcp-a-new-low-latency-secure-network-stack)
 - [Layer 2 network neighbourhood discovery tool](https://github.com/bwaldvogel/neighbourhood)
 - [Nmap Network Scanning docs](https://nmap.org/book/toc.html)
+- [Reverse Tunneling Dialer](https://github.com/rancher/remotedialer) - HTTP in TCP in Websockets in HTTP in TCP, Tunnel all the things.

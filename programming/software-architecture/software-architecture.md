@@ -49,3 +49,4 @@
 - [Simplify Full-Stack Development with a Unified Architecture (2019)](https://liaison.dev/blog/articles/Simplify-Full-Stack-Development-with-a-Unified-Architecture-187fr1)
 - [System Design Interview Questions – Concepts You Should Know (2020)](https://www.freecodecamp.org/news/systems-design-for-interviews/)
 - [The Twitter stack (2013)](https://blog.oskarsson.nu/post/40196324612/the-twitter-stack)
+- [Data Oriented Design Resources](https://github.com/dbartolini/data-oriented-design#readme)

@@ -12,6 +12,7 @@
 - [IO-808](https://io808.com/) - Attempt at a fully recreated web-based TR-808 drum machine. ([Code](https://github.com/vincentriemer/io-808))
 - [Thrum](https://github.com/ryanramage/thrum) - Experiment in making a livecoding music sequencer using functional reducers.
 - [BeepBox](https://beepbox.co/) - Online tool for sketching and sharing instrumental melodies. ([Code](https://github.com/johnnesky/beepbox))
+- [BlokDust](https://blokdust.com/) - Web-based music making app. ([Code](https://github.com/BlokDust/BlokDust))
 
 ## Inspiration
 

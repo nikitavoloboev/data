@@ -19,3 +19,4 @@
 - [trivy](https://github.com/aquasecurity/trivy) - Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI.
 - [Open Container Initiative Runtime Specification](https://github.com/opencontainers/runtime-spec)
 - [Container Network Interface - networking for Linux containers](https://github.com/containernetworking/cni)
+- [Containers vs. Zones vs. Jails vs. VMs (2017)](https://blog.jessfraz.com/post/containers-zones-jails-vms/) ([HN](https://news.ycombinator.com/item?id=22797688))
