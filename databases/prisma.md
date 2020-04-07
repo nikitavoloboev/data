@@ -8,3 +8,4 @@
 - [Prisma 2.0 is Now in Beta: Type-safe Database Access with Prisma Client](https://www.prisma.io/blog/prisma-2-beta-b7bcl0gd8d8e) ([HN](https://news.ycombinator.com/item?id=22739121))
 - [Prisma 2 Examples](https://github.com/prisma/prisma-examples)
 - [Prisma Client](https://github.com/prisma/prisma-client-js) - Type-safe database client for TypeScript & Node.js (ORM replacement).
+- [Prisma Docs](https://www.prisma.io/docs/) ([Code](https://github.com/prisma/prisma2-docs))

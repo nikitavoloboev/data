@@ -20,3 +20,4 @@
 - [Public Zone Database (ZoneDB)](https://github.com/zonedb/zonedb) - Contains a list and associated metadata of public DNS zones.
 - [ExternalDNS](https://github.com/kubernetes-sigs/external-dns) - Synchronizes exposed Kubernetes Services and Ingresses with DNS providers.
 - [dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server.
+- [c-ares](https://github.com/c-ares/c-ares) - C library for asynchronous DNS requests.
