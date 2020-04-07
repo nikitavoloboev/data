@@ -29,3 +29,4 @@
 - [TEE Reversing](https://github.com/enovella/TEE-reversing#readme) - Curated list of public TEE resources for learning how to reverse-engineer and achieve trusted code execution on ARM devices.
 - [Reverse Engineering Stickies.app](https://lowlevelbits.org/reverse-engineering-stickies.app/)
 - [Reversing Firmware With Radare (2019)](https://www.bored-nerds.com/reversing/radare/automotive/2019/07/07/reversing-firmware-with-radare.html)
+- [Interactive guide to Buffer Overflow exploitation (2019)](https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation)

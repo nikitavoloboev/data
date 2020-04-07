@@ -48,3 +48,5 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go.
 - [Security Engineering - A Guide to Building Dependable Distributed Systems](https://www.cl.cam.ac.uk/~rja14/book.html) ([HN](https://news.ycombinator.com/item?id=22785498))
 - [Michal Zalewski's security tools/articles](https://lcamtuf.coredump.cx/)
+- [Smashing The Stack For Fun And Profit](http://www-inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf)
+- [CS 161: Computer Security (2020)](http://www-inst.eecs.berkeley.edu/~cs161/sp20/)

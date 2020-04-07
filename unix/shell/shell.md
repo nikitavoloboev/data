@@ -49,3 +49,5 @@ All active variables can be seen by running `env`.
 - [Text processing in the shell (2020)](https://blog.balthazar-rouberol.com/text-processing-in-the-shell) ([HN](https://news.ycombinator.com/item?id=22590824))
 - [Crush](https://github.com/liljencrantz/crush) - Attempt to make a command line shell that is also a powerful modern programming language.
 - [nsh](https://github.com/nuta/nsh) - Command-line shell like fish, but POSIX compatible.
+- [Three Comics For Understanding Unix Shell (2020)](http://www.oilshell.org/blog/2020/04/comics.html)
+- [Oil Shell](http://www.oilshell.org/) - New Unix shell. ([Blog](http://www.oilshell.org/blog/))

@@ -85,6 +85,7 @@ Here are few more things I liked, design wise.
 - [Mackenzie Child](https://www.mackenziechild.me/)
 - [Marvin Hagemeister](https://marvinh.dev/)
 - [Nienke Dekker](https://nienke.dev/)
+- [Josh Comeau](https://joshwcomeau.com/)
 - [Jon Gjengset](https://thesquareplanet.com/)
 - [Robert Squires](https://robertsquires.co.uk/)
 - [Kabir Shah](https://kabir.sh/)
