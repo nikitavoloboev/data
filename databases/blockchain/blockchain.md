@@ -57,3 +57,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [MIT: Blockchain and Money (2018)](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/) ([Lectures](https://www.youtube.com/watch?v=EH6vE97qIP4))
 - [Substrate Recipes](https://substrate.dev/recipes/) - Cookbook of working examples that demonstrate best practices when building blockchains with Substrate. ([Code](https://github.com/substrate-developer-hub/recipes))
 - [Zebra](https://github.com/ZcashFoundation/zebra) - Rust implementation of a Zcash node.
+- [Gossamer](https://github.com/ChainSafe/gossamer) - Go implementation of the Polkadot Host.

@@ -30,3 +30,4 @@
 - [ZetZ](https://github.com/aep/zz) - For code close to hardware, where C is and will remain the defacto standard system interface. You can also use it to build cross platform libraries, with a clean portable C-standard api.
 - [PID Without a PhD](https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf)
 - [How to flash an LED (2020)](https://mcla.ug/blog/how-to-flash-an-led.html) ([HN](https://news.ycombinator.com/item?id=22774098))
+- [Espressif Systems](https://www.espressif.com/) - Semiconductor company.

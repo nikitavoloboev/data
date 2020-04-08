@@ -21,3 +21,4 @@
 - [Secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave.
 - [sshcommand](https://github.com/dokku/sshcommand) - Turn SSH into a thin client specifically for your app.
 - [How to SSH Properly (2020)](https://gravitational.com/blog/how-to-ssh-properly/) ([HN](https://news.ycombinator.com/item?id=22750850))
+- [Mosh](https://www.jefftk.com/p/mosh) - Tool used to connect from a client computer to a server over the Internet, to run a remote terminal. ([HN](https://news.ycombinator.com/item?id=22810589))

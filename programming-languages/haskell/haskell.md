@@ -128,3 +128,4 @@
 - [API design notes](https://gist.github.com/Gabriel439/563fa662f84e0a845c79775756cfce78) ([Video](https://www.twitch.tv/videos/581490043))
 - [Retrie](https://github.com/facebookincubator/retrie) - Powerful, easy-to-use codemodding tool for Haskell.
 - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
+- [Lessons in Managing Haskell Memory (2020)](https://tech.channable.com/posts/2020-04-07-lessons-in-managing-haskell-memory.html)

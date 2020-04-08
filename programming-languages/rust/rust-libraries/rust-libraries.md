@@ -297,6 +297,7 @@
 - [async-task](https://github.com/async-rs/async-task) - Task abstraction for building executors. ([Article](https://stjepang.github.io/2020/04/03/why-im-building-a-new-async-runtime.html))
 - [lz4 bindings](https://github.com/bozaro/lz4-rs) - LZ4 is a very fast lossless compression algorithm.
 - [SM](https://github.com/rustic-games/sm) - Static State Machine library.
+- [lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - Macro for declaring lazily evaluated statics in Rust.
 
 ## Cargo Plugins
 

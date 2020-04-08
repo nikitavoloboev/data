@@ -195,6 +195,7 @@
 - [date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 - [Midi](https://github.com/Tonejs/Midi) - Convert MIDI into Tone.js-friendly JSON.
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js.
+- [Spotlight](https://github.com/karlisup/spotlight) - Search widget for your web API.
 
 ## Links
 

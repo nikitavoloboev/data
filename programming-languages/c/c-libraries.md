@@ -6,6 +6,10 @@
 - [libart](https://github.com/armon/libart) - Adaptive Radix Trees implemented in C.
 - [httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C. ([HN](https://news.ycombinator.com/item?id=21777401))
 
+## GUI
+
+- [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - Minimal-state, immediate-mode graphical user interface toolkit written in ANSI C.
+
 ## Other
 
 - [jemalloc](https://github.com/jemalloc/jemalloc) - General purpose malloc implementation that emphasizes fragmentation avoidance and scalable concurrency support.
