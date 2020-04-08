@@ -40,3 +40,4 @@
 - [Lisp: Good News, Bad News, How to Win Big](http://www.dreamsongs.com/WIB.html)
 - [Lisping at JPL (2002)](http://flownet.com/gat/jpl-lisp.html) ([HN](https://news.ycombinator.com/item?id=22087419))
 - [Small minimalistic LISP interpreter in Node](https://github.com/mafintosh/minilisp)
+- [Understanding the Power of LISP (2020)](https://joshbradley.me/understanding-the-power-of-lisp/)

@@ -149,3 +149,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Spire](https://github.com/epiccastle/spire) - Pragmatic provisioning using clojure.
 - [StarCharter](https://github.com/dcf21/star-charter) - Command-line tool for producing vector-graphics charts of the night sky in SVG, PDF and PNG formats. ([HN](https://news.ycombinator.com/item?id=22796038))
 - [PushPin](https://github.com/automerge/pushpin) - Collaborative corkboard app.
+- [Photoshop C++ Recipes](https://sonictk.github.io/ps_cpp_recipes/)
