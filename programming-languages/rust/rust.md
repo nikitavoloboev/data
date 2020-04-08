@@ -175,3 +175,4 @@
 - [explaine.rs](https://jrvidal.github.io/explaine.rs/) - Interactive Rust syntax playground. ([Code](https://github.com/jrvidal/explaine.rs))
 - [Rustonomicon](https://doc.rust-lang.org/nomicon/) - Dark Arts of Advanced and Unsafe Rust Programming. ([Code](https://github.com/rust-lang/nomicon))
 - [Rust DataFrame](https://github.com/nevi-me/rust-dataframe) - Rust DataFrame implementation, built on Apache Arrow. ([HN](https://news.ycombinator.com/item?id=22781411))
+- [Error Handling in a Correctness-Critical Rust Project (2020)](http://sled.rs/errors)
