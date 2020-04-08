@@ -88,6 +88,7 @@
 - [Hardware](hardware/hardware.md)
   - [CPU](hardware/cpu/cpu.md)
     - [RISC-V](hardware/cpu/risc-v.md)
+    - [AMD](hardware/cpu/amd.md)
   - [GPU](hardware/gpu/gpu.md)
   - [Neuromorphic Computing](hardware/neuromorphic-computing.md)
   - [Circuit design](hardware/circuit-design.md)
