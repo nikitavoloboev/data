@@ -43,3 +43,5 @@
 - [Tradologics](https://tradologics.com/) - Fastest way to go from idea to live-trading – bypassing all infrastructure headaches.
 - [Tradologics & The Future of Trading (2020)](https://aroussi.com/post/tradologics-the-future-of-trading)
 - [Investopedia](https://www.investopedia.com/) - Strives to empower every person to feel in control of their financial future.
+- [MoneyWeek playlists](https://www.youtube.com/user/MoneyWeekVideos/playlists) - Educational videos on finance/investing.
+- [Aswath Damodaran's teachings](http://pages.stern.nyu.edu/~adamodar/) ([YouTube](https://www.youtube.com/channel/UCLvnJL8htRR1T9cbSccaoVw/playlists))

@@ -8,7 +8,7 @@ Learning to build [startups](startups/startups.md).
 - [Formidable](https://formidable.com/careers/)
 - Apple
 - Google
-- DeepMind
+- [DeepMind](https://deepmind.com/careers/jobs)
 - OpenAI
 - [Looker](https://www.parity.io/jobs/)
 - [Tray](https://tray.io/careers)
