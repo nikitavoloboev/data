@@ -64,6 +64,7 @@
 - [SwayDB](https://github.com/simerplaha/SwayDB) - Fast embeddable persistent and in-memory key-value storage engine that provides storage as simple data structures - Map, Set & Queue.
 - [TrailDB](https://github.com/traildb/traildb) - Efficient tool for storing and querying series of events.
 - [QuestDB](https://github.com/questdb/questdb) - Relational database with ultimate time-series performance.
+- [Prometheus](https://github.com/prometheus/prometheus) - Systems and service monitoring system.
 
 ## Tools
 

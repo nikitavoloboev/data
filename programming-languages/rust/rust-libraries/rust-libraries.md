@@ -100,6 +100,8 @@
 ## Crypto
 
 - [zksnark-rs](https://github.com/republicprotocol/zksnark-rs) - Zero knowledge succinct arguments of knowledge, written in Rust.
+- [RustCrypto: hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust.
+- [Mundane](https://github.com/google/mundane/) - Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
 
 ## Linux
 
@@ -119,7 +121,6 @@
 - [rayon](https://github.com/rayon-rs/rayon) - Data parallelism library for Rust.
 - [libfringe](https://github.com/edef1c/libfringe) - Rust library implementing safe, lightweight context switches, without relying on kernel services.
 - [rust-url](https://github.com/servo/rust-url) - URL parser for Rust.
-- [Mundane](https://github.com/google/mundane/) - Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
 - [Rust-Postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for Rust.
 - [im-rs](https://github.com/bodil/im-rs) - Assorted immutable collection datatypes for Rust.
 - [Juniper](https://github.com/graphql-rust/juniper) - GraphQL server library for Rust.
