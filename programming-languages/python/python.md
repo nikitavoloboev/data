@@ -82,3 +82,4 @@
 - [Introduction to Python and Programming (2020)](https://github.com/webartifex/intro-to-python) ([HN](https://news.ycombinator.com/item?id=22669084))
 - [Vulture](https://github.com/jendrikseipp/vulture) - Finds unused code in Python programs.
 - [Full Stack FastAPI and PostgreSQL - Base Project Generator](https://github.com/tiangolo/full-stack-fastapi-postgresql)
+- [Byterun](https://github.com/nedbat/byterun) - Python implementation of a Python bytecode runner.

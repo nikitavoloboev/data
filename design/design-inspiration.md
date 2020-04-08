@@ -81,6 +81,7 @@ Here are few more things I liked, design wise.
 - [Nuno Coelho Santos](https://nunocoelhosantos.com/)
 - [William Falcon](https://www.williamfalcon.com/)
 - [Brent Jackson](https://jxnblk.com/)
+- [Fabian Fett](https://fabianfett.de/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)
 - [Mackenzie Child](https://www.mackenziechild.me/)
 - [Marvin Hagemeister](https://marvinh.dev/)

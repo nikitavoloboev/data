@@ -90,3 +90,4 @@
 - [nflows](https://github.com/bayesiains/nflows) - Normalizing flows in PyTorch.
 - [torchlayers](https://github.com/szymonmaszke/torchlayers) - Shape inference for PyTorch (like in Keras) + new SoTA layers.
 - [PyTorch re-implementation of Neural Radiance Fields](https://github.com/krrish94/nerf-pytorch)
+- [Torchmeta](https://github.com/tristandeleu/pytorch-meta) - Collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch.

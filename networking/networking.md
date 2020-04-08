@@ -24,7 +24,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [SwiftNIO](https://github.com/apple/swift-nio) - Cross-platform asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
 - [Wirefilter](https://github.com/cloudflare/wirefilter) - Execution engine for Wireshark-like filters.
 - [Mr.2](https://github.com/txthinking/mr2) - Expose local server to external network.
-- [High Performance Browser Networking book (2013)](https://hpbn.co/)
+- [High Performance Browser Networking book (2013)](https://hpbn.co/) ([HN](https://news.ycombinator.com/item?id=22815269))
 - [stun](https://github.com/isundaylee/stun) - Simple layer-3 network tunnel written in C++.
 - [devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy.
 - [Open Screen Protocol](https://github.com/webscreens/openscreenprotocol) - Suite of network protocols that allow user agents to implement the Presentation API and the Remote Playback API in an interoperable fashion.
