@@ -72,6 +72,12 @@
 - [faux](https://github.com/nrxus/faux) - Traitless Mocking Library for Rust.
 - [Drill](https://github.com/fcsonline/drill) - HTTP load testing application written in Rust inspired by Ansible syntax.
 
+## Error
+
+- [Fehler](https://github.com/withoutboats/fehler) - Library to add support for "throwing functions" to Rust through procedural macros.
+- [failure](https://github.com/rust-lang-nursery/failure) - Designed to make it easier to manage errors in Rust.
+- [Anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error.
+
 ## IO
 
 - [Mio](https://github.com/carllerche/mio) - Metal IO library.
@@ -176,7 +182,6 @@
 - [Surf](https://github.com/rustasync/surf) - Friendly HTTP client built for casual Rustaceans and veterans alike.
 - [async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library. ([Article](https://async.rs/blog/stop-worrying-about-blocking-the-new-async-std-runtime/))
 - [petgraph](https://github.com/bluss/petgraph) - Graph data structure library for Rust.
-- [failure](https://github.com/rust-lang-nursery/failure) - Designed to make it easier to manage errors in Rust.
 - [Neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules. ([Web](https://neon-bindings.com/))
 - [Tauri](https://github.com/tauri-apps/tauri) - Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.
 - [Plotters](https://github.com/38/plotters) - Rust Drawing Library for Plotting.
@@ -278,7 +283,6 @@
 - [Builder Pattern Derive](https://github.com/colin-kiegel/rust-derive-builder) - Rust macro to automatically implement the builder pattern for arbitrary structs.
 - [juniper-from-schema](https://github.com/davidpdrsn/juniper-from-schema) - Schema first GraphQL in Rust with Juniper.
 - [stringsext](https://github.com/getreu/stringsext) - Find multi-byte-encoded strings in binary data.
-- [Anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error.
 - [byteorder](https://github.com/BurntSushi/byteorder) - Rust library for reading/writing numbers in big-endian and little-endian.
 - [once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros.
 - [genawaiter](https://github.com/whatisaphone/genawaiter) - Stackless generators on stable Rust.

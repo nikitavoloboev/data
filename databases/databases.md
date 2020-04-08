@@ -110,3 +110,4 @@
 - [Millions of Tiny Databases (2020)](https://www.youtube.com/watch?v=ZO9AxJTlgsU) ([Article](http://brooker.co.za/blog/2020/02/17/physalia.html))
 - [The Next 50 Years of Databases (2015)](http://www.cs.cmu.edu/~pavlo/blog/2015/09/the-next-50-years-of-databases.html) ([HN](https://news.ycombinator.com/item?id=21508210))
 - [Interview with Noria’s creator: a promising dataflow research database implemented in Rust (2019)](https://notamonadtutorial.com/interview-with-norias-creator-a-promising-dataflow-database-implemented-in-rust-352e2c3d9d95)
+- [The High Cost of Splitting Related Data (2020)](http://kevinmahoney.co.uk/articles/the-high-cost-of-splitting-related-data/)
