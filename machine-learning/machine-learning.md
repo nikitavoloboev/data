@@ -214,3 +214,4 @@
 - [fastAI course v4](https://github.com/fastai/course-v4)
 - [Ask HN: What is your ML stack like? (2020)](https://news.ycombinator.com/item?id=21516311)
 - [MLflow](https://mlflow.org/) - Open source platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. ([Code](https://github.com/mlflow/mlflow/))
+- [Deep Unsupervised Learning (2020)](https://sites.google.com/view/berkeley-cs294-158-sp20/home)

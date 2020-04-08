@@ -48,6 +48,7 @@
 - [ActivityIndicatorView](https://github.com/exyte/ActivityIndicatorView) - Number of preset loading indicators created with SwiftUI.
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - Clean and easy-to-use floating panel UI component for iOS.
 - [ShowTime](https://github.com/KaneCheshire/ShowTime) - Easiest way to show off your iOS taps and gestures for demos and videos.
+- [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - Intuitive iOS color picker built in Swift.
 
 ## macOS
 

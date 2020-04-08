@@ -38,3 +38,5 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Twilio Video React App](https://github.com/twilio/twilio-video-app-react) - Collaboration application built with the twilio-video.js SDK and React.js.
 - [Screen](https://videovillage.co/screen/) - Video player for video people.
 - [How Productivity Star Thomas Frank Reaches Millions on YouTube](https://superorganizers.substack.com/p/how-productivity-star-thomas-frank)
+- [Zoom](https://zoom.us/) - Video conferencing.
+- [Jitsi](https://meet.jit.si/) - Secure, Simple and Scalable Video Conferences. ([Code](https://github.com/jitsi/jitsi-meet))
