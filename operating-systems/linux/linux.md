@@ -93,3 +93,4 @@
 - [Multipass](https://github.com/canonical/multipass) - Lightweight VM manager for Linux, Windows and macOS. It's designed for developers who want a fresh Ubuntu environment with a single command.
 - [A "living" Linux process with no memory](https://github.com/izabera/zeromaps) ([HN](https://news.ycombinator.com/item?id=22693805))
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
+- [Subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
