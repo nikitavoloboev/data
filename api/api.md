@@ -47,3 +47,4 @@
 - [NoCodeAPI](https://nocodeapi.com/) - Quickly set-up third party application APIs.
 - [Pipedream](https://pipedream.com/) - Develop any workflow, based on any trigger. Workflows are code, which you can run for free.
 - [An Introduction to APIs](https://zapier.com/learn/apis/)
+- [Paragon](https://www.useparagon.com/) - Visually create production-ready API workflows. ([HN](https://news.ycombinator.com/item?id=22813834))

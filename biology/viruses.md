@@ -12,3 +12,4 @@
 - [Reverse engineering SARS-CoV-2](https://github.com/geohot/corona) ([Videos](https://www.youtube.com/watch?v=8vWaawiUteM))
 - [Fighting COVID-19 with Epidemiology: A Johns Hopkins Teach-Out](https://www.coursera.org/learn/covid19-epidemiology)
 - [BioMed Sanity](http://biomed-sanity.com/) - Aspires to help the influx of bioRxiv / medRxiv papers on COVID-19. ([Code](https://github.com/karpathy/covid-sanity))
+- [Why can't we use live SARS-CoV-2 as a Covid-19 vaccine? (2020)](https://www.reddit.com/r/askscience/comments/fwuyem/why_cant_we_use_live_sarscov2_as_a_covid19_vaccine/)
