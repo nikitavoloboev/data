@@ -35,3 +35,4 @@
 - [Vega-Embed](https://github.com/vega/vega-embed) - Makes it easy to embed interactive Vega and Vega-Lite views into web pages.
 - [Facette](https://github.com/facette/facette) - Time series data visualization software.
 - [Experimental 3D axis for matplotlib](https://github.com/rougier/matplotlib-3d)
+- [Our World in Data](https://ourworldindata.org/) - Research and data to make progress against the world’s largest problems.

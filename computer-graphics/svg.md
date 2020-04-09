@@ -22,3 +22,4 @@
 - [Canvas2Svg](https://github.com/gliffy/canvas2svg) - Translates HTML5 Canvas draw commands to SVG.
 - [canvg](https://github.com/canvg/canvg) - JavaScript SVG parser and renderer on Canvas.
 - [resvg](https://github.com/RazrFalcon/resvg) - SVG rendering library in Rust.
+- [Creating a Gauge in React (2020)](https://wattenberger.com/blog/gauge)
