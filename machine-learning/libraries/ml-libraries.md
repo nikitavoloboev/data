@@ -39,3 +39,4 @@
 - [Brancher](https://github.com/AI-DI/Brancher) - User-centered Python package for differentiable probabilistic inference.
 - [Karate Club](https://github.com/benedekrozemberczki/karateclub) - General purpose community detection and network embedding library for research built on NetworkX.
 - [FlexFlow](https://github.com/flexflow/FlexFlow) - Distributed deep learning framework that supports flexible parallelization strategies.
+- [DeltaPy⁠⁠](https://github.com/firmai/deltapy) - Tabular Data Augmentation & Feature Engineering.

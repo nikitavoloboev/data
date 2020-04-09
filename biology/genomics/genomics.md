@@ -14,3 +14,4 @@
 - [10x Genomics](https://www.10xgenomics.com/) ([Code](https://github.com/10XGenomics))
 - [Neher Lab](https://neherlab.org/) - Pathogen evolution, genomics, and biophysics lab in Switzerland.
 - [BEDOPS](https://github.com/bedops/bedops) - High-performance genomic feature operations.
+- [Introduction to Genetics and Evolution](https://www.coursera.org/learn/genetics-evolution)
