@@ -17,6 +17,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Lamdu](https://github.com/lamdu/lamdu) - Aims to create a next-generation, live programming environment that radically improves the programming experience.
 - [Kibi](https://github.com/ilai-deutel/kibi) - Text editor in ≤1024 lines of code, written in Rust.
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/) - Code editor that powers VS Code. ([Code](https://github.com/microsoft/monaco-editor))
+- [Loop](https://github.com/faraazahmad/loop) - Text editor built in Rust.
 
 ## Web
 
@@ -32,3 +33,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [ycmd](https://github.com/Valloric/ycmd) - Code-completion & comprehension server.
 - [Open source collaborative text editors (2019)](https://juretriglav.si/open-source-collaborative-text-editors/) ([HN](https://news.ycombinator.com/item?id=19845776))
 - [Vixi](https://github.com/Peltoche/vixi) - A vim like client for the xi backend.
+- [Hecto: Build your own text editor in Rust (2019)](https://www.philippflenker.com/hecto/)

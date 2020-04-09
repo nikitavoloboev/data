@@ -85,3 +85,4 @@
 - [Awesome Actions](https://github.com/sdras/awesome-actions#readme) - Curated list of awesome actions to use on GitHub.
 - [Actions Panel](https://www.actionspanel.app/) - Manually Trigger Your GitHub Actions. ([HN](https://news.ycombinator.com/item?id=22711935))
 - [Running GitHub Actions on Preview Deploys (2020)](https://webcloud.se/blog/2020-02-16-github-actions-preview-deploys/)
+- [Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/summerwind/actions-runner-controller)

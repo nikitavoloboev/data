@@ -242,6 +242,7 @@
 - [Reductio](https://github.com/fdzsergio/Reductio) - Tool used to extract keywords and phrases using an implementation of the algorithm TextRank.
 - [pure-swift-json](https://github.com/fabianfett/pure-swift-json) - JSON encoding and decoding without the use of Foundation in pure Swift.
 - [aws-sdk-swift-core](https://github.com/swift-aws/aws-sdk-swift-core) - Low-level framework for AWSSDKSwift.
+- [Pathos](https://github.com/dduan/Pathos) - File management and path analysis for Swift.
 
 ## Other (not lib)
 

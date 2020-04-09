@@ -11,3 +11,4 @@
 - [GopherLua](https://github.com/yuin/gopher-lua) - VM and compiler for Lua in Go.
 - [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [Embedding Lua Tutorial](https://github.com/davepoo/EmbeddingLuaTutorial)
+- [Lunatic Python](https://github.com/bastibe/lunatic-python) - Two-way bridge between Python and Lua.

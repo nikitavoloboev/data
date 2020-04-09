@@ -71,6 +71,7 @@
 
 - [faux](https://github.com/nrxus/faux) - Traitless Mocking Library for Rust.
 - [Drill](https://github.com/fcsonline/drill) - HTTP load testing application written in Rust inspired by Ansible syntax.
+- [Loom](https://github.com/tokio-rs/loom) - Concurrency permutation testing tool for Rust.
 
 ## Error
 
