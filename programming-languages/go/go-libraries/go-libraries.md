@@ -377,6 +377,7 @@
 - [go-basher](https://github.com/progrium/go-basher) - Library for writing hybrid Go and Bash programs.
 - [beeep](https://github.com/gen2brain/beeep) - Go cross-platform library for sending desktop notifications, alerts and beeps.
 - [Whatlanggo](https://github.com/abadojack/whatlanggo) - Natural language detection for Go.
+- [hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go.
 
 ## Links
 

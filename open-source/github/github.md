@@ -34,7 +34,7 @@ I publish most of my work and make it open source for other people to use and re
 - [DevHub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Android, iOS and Web.
 - [Probot](https://github.com/probot/probot) - Framework for building GitHub Apps to automate and improve your workflow.
 - [Git History](https://github.com/pomber/git-history) - Quickly browse the history of any GitHub file.
-- [GitStalk](https://gitstalk.netlify.com/) - Discover who's upto what on Github.
+- [GitStalk](https://gitstalk.netlify.com/) - Discover who's upto what on Github. ([Code](https://github.com/thelittlewonder/gitstalk))
 - [ghr](https://github.com/tcnksm/ghr) - Creates GitHub Release and uploads artifacts in parallel.
 - [GitMemory](https://www.gitmemory.com/) - Pretty nice stats on GitHub data like [profiles](https://www.gitmemory.com/nikitavoloboev).
 - [all-contributors](https://github.com/all-contributors/all-contributors) - Recognize all contributors, not just the ones who push code.

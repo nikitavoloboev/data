@@ -66,3 +66,4 @@
 - [Firefox's low-latency webassembly compiler (2020)](http://wingolog.org/archives/2020/03/25/firefoxs-low-latency-webassembly-compiler)
 - [Bulk Memory Operations Proposal for WebAssembly](https://github.com/WebAssembly/bulk-memory-operations)
 - [wain](https://github.com/rhysd/wain) - WebAssembly INterpreter written in Rust from scratch with zero dependency.
+- [Wasminspect](https://github.com/kateinoigakukun/wasminspect) - Interactive Debugger for WebAssembly.

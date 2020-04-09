@@ -152,3 +152,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Photoshop C++ Recipes](https://sonictk.github.io/ps_cpp_recipes/)
 - [reMarkable](https://remarkable.com/) - Next-generation paper tablet.
 - [Subreddit Finder](https://valohai.com/subreddit-finder/)
+- [zr](https://github.com/jackdoe/zr) - Offline and serverless stackoverflow search with low memory footprint.

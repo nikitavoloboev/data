@@ -21,3 +21,5 @@
 - [Learning embedded Rust by building RISC-V-powered robot (2020)](https://k155la3.blog/2020/03/21/learning-embedded-rust-by-building-riscv-powered-robot-part-1/) ([Lobsters](https://lobste.rs/s/ar5lfs/learning_embedded_rust_by_building_risc_v))
 - [rvemu](https://github.com/d0iasm/rvemu) - RISC-V Online Emulataor.
 - [Overview of RISC-V Instruction Set Architecture](https://web.cecs.pdx.edu/~harry/riscv/)
+- [RISC-V LLVM](https://github.com/lowRISC/riscv-llvm) - Hosts a series of patches implementing a RISC-V backend for LLVM as well as initial tutorial material.
+- [lowRISC](https://www.lowrisc.org/) - Develop and maintain open source silicon designs and tools.
