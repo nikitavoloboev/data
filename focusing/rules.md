@@ -39,7 +39,7 @@
 - When [focusing](../focusing/focusing.md), do the active task. No news/distractions. No context switching.
 - Spend mindful time on all devices. On iOS, listen to podcasts/books, read/chat. Minimize things that can be done faster on mac.
 - Do bodyweight exercises during the day to regain focus. Change environments for inspiration.
-- Listen to [Focus song](https://open.spotify.com/track/1LjaunC39SgsMZEln8EpDj?si=bu5e-3P3TiWRrNzlK6fdvw) when focusing with environment noise blocked. No distracting music. Unless it's quiet already.
+- Listen to rain ([Spotify](https://open.spotify.com/track/3OhZdTcwr8eho3iol2YqMy?si=dWiKQp4ERX6JdcUNnLQZkQ) on mac & [Dark Noise](https://github.com/nikitavoloboev/my-ios#shortcuts) on iOS) or [Focus playlist](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5?si=xD3AkrIRRhmeDoSPPer0wQ) when focusing. Environment noise blocked unless it's non distracting or quiet.
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.

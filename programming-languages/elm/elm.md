@@ -27,3 +27,4 @@
 - [Elm Companies](https://github.com/jah2488/elm-companies#readme) - List of companies using Elm in production. ([HN](https://news.ycombinator.com/item?id=22244086))
 - [Elm Live](https://www.elm-live.com/) - Flexible dev server for Elm. Live reload included. ([Code](https://github.com/wking-io/elm-live))
 - [Elm News](https://elm-news.com/) - All elm news in one place. ([Code](https://github.com/oakesja/elm-news))
+- [Why I’m leaving Elm (2020)](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/) ([HN](https://news.ycombinator.com/item?id=22821447))
