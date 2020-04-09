@@ -80,6 +80,7 @@ Here are few more things I liked, design wise.
 - [Max Böck](https://mxb.dev/)
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))
 - [Nuno Coelho Santos](https://nunocoelhosantos.com/)
+- [Amanda Pinsker](https://amandapinsker.com/) ([Code](https://github.com/ampinsk/ampinsk.github.io))
 - [William Falcon](https://www.williamfalcon.com/)
 - [Brent Jackson](https://jxnblk.com/)
 - [Fabian Fett](https://fabianfett.de/)

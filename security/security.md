@@ -50,3 +50,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Michal Zalewski's security tools/articles](https://lcamtuf.coredump.cx/)
 - [Smashing The Stack For Fun And Profit](http://www-inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf)
 - [CS 161: Computer Security (2020)](http://www-inst.eecs.berkeley.edu/~cs161/sp20/)
+- [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility.

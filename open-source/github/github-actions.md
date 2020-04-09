@@ -26,6 +26,7 @@
 - [Post Slack messages](https://github.com/abinoda/slack-action) - GitHub Action for posting Slack messages.
 - [GitHub Actions for DigitalOcean](https://github.com/digitalocean/action-doctl) - Enables you to interact with DigitalOcean services via the doctl command-line client.
 - [SSH for GitHub Actions](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
+- [Swift Action](https://github.com/Didstopia/SwiftAction) - Provides Swift support for GitHub Actions.
 
 ## Go
 

@@ -79,6 +79,7 @@
 - [React GridList](https://github.com/jamiebuilds/react-gridlist) - Virtual-scrolling GridList component based on CSS Grids.
 - [React Charts](https://github.com/tannerlinsley/react-charts) - Simple, immersive and interactive charts for React.
 - [Spinners React](https://github.com/adexin/spinners-react) - Lightweight SVG/CSS spinners for React.
+- [hamburger-react](https://github.com/luukdv/hamburger-react) - Animated hamburger menu icons for React.
 
 ## Links
 

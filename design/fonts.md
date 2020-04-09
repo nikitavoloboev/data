@@ -23,6 +23,7 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Jost](https://indestructibletype.com/Jost.html)
 - [MonoLisa](https://monolisa.dev/)
 - [Recursive Sans & Mono](https://www.recursive.design/) - Variable font family for code & UI. ([Code](https://github.com/arrowtype/recursive))
+- [Baudelaire](https://amandapinsker.com/project/baudelaire) - Modern transitional serif typeface.
 
 ## Links
 
