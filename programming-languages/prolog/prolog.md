@@ -2,7 +2,7 @@
 
 ## Links
 
-- [The Power of Prolog book](https://www.metalevel.at/prolog)
+- [The Power of Prolog book](https://www.metalevel.at/prolog) ([Code](https://github.com/triska/the-power-of-prolog)) ([HN](https://news.ycombinator.com/item?id=22804079))
 - [Interpreter for a simple Lisp, written in Prolog](https://github.com/triska/lisprolog) ([HN](https://news.ycombinator.com/item?id=19278555))
 - [Ciao](https://github.com/ciao-lang/ciao) - Programming language that builds up from a logic-based simple kernel, and is designed to be extensible and modular.
 - [Database The Prolog Way](https://www.i-programmer.info/programming/artificial-intelligence/1331-database-the-prolog-way.html)
