@@ -76,6 +76,7 @@ Here are few more things I liked, design wise.
 - [Travis Jeffery](https://travisjeffery.com/)
 - [Julia Johnson](https://www.juliacodes.com/) ([Code](https://github.com/juliajcodes/JuliaCodesGatsby))
 - [Michael Edelstone](https://michaeledelstone.com/)
+- [Rodrigo Pombo](https://pomb.us/)
 - [Max Böck](https://mxb.dev/)
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))
 - [Nuno Coelho Santos](https://nunocoelhosantos.com/)

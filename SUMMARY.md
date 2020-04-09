@@ -631,7 +631,6 @@
     - [Cardano](databases/blockchain/cardano.md)
 - [Art](art/art.md)
   - [Photography](art/photography.md)
-  - [Models](art/models.md)
   - [Drawing](art/drawing.md)
   - [Pen plotting](art/pen-plotting.md)
   - [Sketching](art/sketching.md)

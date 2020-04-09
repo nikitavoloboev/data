@@ -21,3 +21,4 @@
 - [Direct imaging of single DNA molecules (2016)](https://spie.org/news/6527-direct-imaging-of-single-dna-molecules?SSO=1)
 - [How DNA goes to RNA and how RNA goes to proteins](https://www.youtube.com/watch?v=C4_HVQszoxA)
 - [How to turn DNA into Music (2020)](https://github.com/0x0f0f0f/dna2music) ([Code](https://github.com/0x0f0f0f/dna2music))
+- [CoverM](https://github.com/wwood/CoverM) - Aims to be a configurable, easy to use and fast DNA read coverage and relative abundance calculator focused on metagenomics applications.

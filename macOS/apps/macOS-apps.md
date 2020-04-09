@@ -41,6 +41,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [OpenQuickly](https://github.com/lukakerr/OpenQuickly) - Custom 'open quickly' window that imitates macOS' Spotlight.
 - [Flotato](https://flotato.com/) - Turn any web page into a Mac app.
 - [Autumn](https://github.com/apandhi/Autumn) - MacOS window manager built for JavaScript hackers.
+- [Zappy](https://zapier.com/zappy) - Screen capture tool. ([HN](https://news.ycombinator.com/item?id=22815227))
 
 ## Links
 

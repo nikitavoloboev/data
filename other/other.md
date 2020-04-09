@@ -151,3 +151,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [PushPin](https://github.com/automerge/pushpin) - Collaborative corkboard app.
 - [Photoshop C++ Recipes](https://sonictk.github.io/ps_cpp_recipes/)
 - [reMarkable](https://remarkable.com/) - Next-generation paper tablet.
+- [Subreddit Finder](https://valohai.com/subreddit-finder/)

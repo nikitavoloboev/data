@@ -49,6 +49,7 @@
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - Clean and easy-to-use floating panel UI component for iOS.
 - [ShowTime](https://github.com/KaneCheshire/ShowTime) - Easiest way to show off your iOS taps and gestures for demos and videos.
 - [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - Intuitive iOS color picker built in Swift.
+- [GradientProgressBar](https://github.com/fxm90/GradientProgressBar) - Customizable gradient progress bar (UIProgressView).
 
 ## macOS
 

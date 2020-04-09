@@ -176,3 +176,4 @@
 - [Rustonomicon](https://doc.rust-lang.org/nomicon/) - Dark Arts of Advanced and Unsafe Rust Programming. ([Code](https://github.com/rust-lang/nomicon))
 - [Rust DataFrame](https://github.com/nevi-me/rust-dataframe) - Rust DataFrame implementation, built on Apache Arrow. ([HN](https://news.ycombinator.com/item?id=22781411))
 - [Error Handling in a Correctness-Critical Rust Project (2020)](http://sled.rs/errors)
+- [I can't keep up with idiomatic Rust (2020)](https://timidger.github.io/posts/i-cant-keep-up-with-idiomatic-rust/) ([HN](https://news.ycombinator.com/item?id=22818150)) ([Reddit](https://old.reddit.com/r/rust/comments/fxek58/i_cant_keep_up_with_idiomatic_rust/)) ([Lobsters](https://lobste.rs/s/jgxpsm/i_can_t_keep_up_with_idiomatic_rust))

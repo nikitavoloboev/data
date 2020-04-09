@@ -143,7 +143,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Tobias van Schneider](https://unsplash.com/@vanschneider/)
 - [Artem Sapegin](https://unsplash.com/@sapegin)
 - [Annie Spratt](https://www.instagram.com/anniespratt/)
-- [André Josselin](https://www.instagram.com/josselin/?hl=en)
+- [André Josselin](https://www.instagram.com/josselin/?hl=en) ([Charleen Weiss in Paris](https://www.behance.net/gallery/77340901/Charleen-Weiss-in-Paris))
 - [Kenneth Reitz](https://500px.com/kennethreitz)
 - [Daniel Zeller](https://www.artsy.net/artist/daniel-zeller)
 - [Matt Perry](https://mattperry.photography/)

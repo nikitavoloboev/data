@@ -57,3 +57,4 @@
 - [David Silver - Deep Reinforcement Learning from AlphaGo to AlphaStar (2020)](https://www.youtube.com/watch?v=x5Q79XCxMVc)
 - [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl) - Generic, simple and fast implementation of Deepmind's AlphaZero algorithm.
 - [Multi-Agent Particle Environment](https://github.com/openai/multiagent-particle-envs)
+- [CURL: Contrastive Unsupervised Representations for Reinforcement Learning (2020)](https://arxiv.org/abs/2004.04136) ([Code](https://github.com/MishaLaskin/curl))

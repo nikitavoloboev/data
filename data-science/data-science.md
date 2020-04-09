@@ -88,3 +88,4 @@
 - [Path to a free self-taught education in Data Science](https://github.com/ossu/data-science#readme)
 - [Common Workflow Language](https://www.commonwl.org/) - Open standard for describing analysis workflows and tools. ([HN](https://news.ycombinator.com/item?id=21538003))
 - [Apache Kudu](https://github.com/apache/kudu) - Completes Hadoop's storage layer to enable fast analytics on fast data.
+- [Time Series Forecasting Best Practices & Examples](https://github.com/microsoft/forecasting)
