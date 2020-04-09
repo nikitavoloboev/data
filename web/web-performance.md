@@ -54,3 +54,4 @@
 - [The Tail At Scale - Jeff Dean (2013)](https://dl.acm.org/doi/abs/10.1145/2408776.2408794)
 - [Building This Website (2020)](https://joshbradley.me/building-this-website/)
 - [Performance Resources](https://github.com/mfleming/performance-resources#readme)
+- [PackWatch](https://github.com/mcataford/packwatch) - Keep an eye on your packages' footprint.

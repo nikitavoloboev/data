@@ -13,6 +13,7 @@
 - [Autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [GluonTS](https://github.com/awslabs/gluon-ts) - Probabilistic time series modeling in Python.
 - [GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python.
+- [Chaospy](https://github.com/jonathf/chaospy) - Toolbox for performing uncertainty quantification.
 
 ## Biology
 

@@ -82,3 +82,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [LeetCode OS Questions](https://leetcode.com/discuss/interview-question/operating-system?currentPage=1&orderBy=most_votes&query=)
 - [DLS: Functional Foundations for Operating Systems course (2018)](https://blogs.cs.st-andrews.ac.uk/csblog/2018/01/24/dls-functional-foundations-for-operating-systems/)
 - [System Programming course](http://cs241.cs.illinois.edu/coursebook/) - High-quality, open-source introductory systems programming textbook. ([Code](https://github.com/illinois-cs241/coursebook))
+- [Green Threads Explained in Rust](https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/) ([Code](https://github.com/cfsamson/example-greenthreads)) ([Reddit](https://www.reddit.com/r/rust/comments/bzp0cz/green_threads_explained_in_200_lines_of_rust/))
