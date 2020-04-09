@@ -4,3 +4,5 @@ github.com/mattn/go-runewidth v0.0.8 h1:3tS41NlGYSmhhe/8fhGRzc+z3AYCw1Fe1WAyLuuj
 github.com/mattn/go-runewidth v0.0.8/go.mod h1:H031xJmbD/WCDINGzjvQ9THkh0rPKHF+m2gUSrubnMI=
 github.com/mum4k/termdash v0.10.0 h1:uqM6ePiMf+smecb1tJJeON36o1hREeCfOmLFG0iz4a0=
 github.com/mum4k/termdash v0.10.0/go.mod h1:l3tO+lJi9LZqXRq7cu7h5/8rDIK3AzelSuq2v/KncxI=
+github.com/nikitavoloboev/gitupdate v0.0.0-20200330170221-627c95146660 h1:OqfFyqDVW1JOF+/8eUKHA0ig9t2rzVZRLmp4PJ0MW28=
+github.com/nikitavoloboev/gitupdate v0.0.0-20200330170221-627c95146660/go.mod h1:Rhfzj6q4phiHoEsvQH0eZrswvul+nIxfUAAz0DrqUCw=
