@@ -54,6 +54,7 @@
 ## macOS
 
 - [Aperture](https://github.com/wulkano/Aperture) - Record the screen on macOS.
+- [AboutThisApp](https://github.com/hexedbits/AboutThisApp) - Standard, customizable "About This App" panel for any Mac app.
 
 ## Web
 

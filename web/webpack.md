@@ -11,6 +11,7 @@
 - [Speed Measure Plugin](https://github.com/stephencookdev/speed-measure-webpack-plugin) - See how fast (or not) your plugins and loaders are, so you can optimise your builds.
 - [react-imported-component](https://github.com/theKashey/react-imported-component) - Bundler-independent solution for SSR-friendly code-splitting.
 - [Configs Webpack Plugin](https://github.com/maraisr/configs-webpack-plugin) - Simplified AoT runtime config solution for your webpack builds.
+- [worker-plugin](https://github.com/GoogleChromeLabs/worker-plugin) - Automatically bundle & compile Web Workers within Webpack.
 
 ## Links
 

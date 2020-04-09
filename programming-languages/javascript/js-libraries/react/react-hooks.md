@@ -46,6 +46,7 @@
 - [react-head](https://github.com/JoviDeCroock/react-head) - Hooks to populate the html head.
 - [@kripod/react-hooks](https://github.com/kripod/react-hooks) - Essential set of React Hooks for convenient Web API consumption and state management.
 - [use-deep-compare-effect](https://github.com/kentcdodds/use-deep-compare-effect) - React's useEffect hook, except using deep comparison on the inputs, not reference equality.
+- [react-storage-hooks](https://github.com/soyguijarro/react-storage-hooks) - Custom React hooks for keeping application state in sync with localStorage or sessionStorage.
 
 ## Notes
 

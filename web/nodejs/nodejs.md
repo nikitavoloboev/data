@@ -64,3 +64,4 @@
 - [ThreadBox](https://github.com/sinclairzx81/threadbox) - Recursive Worker Threads in NodeJS.
 - [Helpful libraries and resources for building Node.js CLIs](https://github.com/sw-yx/cli-cheatsheet#readme)
 - [Node.js Backend Architecture Typescript Project](https://github.com/afteracademy/nodejs-backend-architecture-typescript)
+- [react-blessed](https://github.com/Yomguithereal/react-blessed) - React custom renderer for the blessed library.

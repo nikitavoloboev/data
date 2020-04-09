@@ -21,7 +21,7 @@
 - [imutils](https://github.com/jrosebr1/imutils) - Series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.
 - [Cross-platform GPU fluid simulation](https://github.com/haxiomic/GPU-Fluid-Experiments)
 - [Interactive Cube](http://sketches.vlucendo.com/cube/)
-- [Skia](https://skia.org/) - Open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms.
+- [Skia](https://skia.org/) - Open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms. ([Code](https://github.com/google/skia))
   - [Safe Rust bindings to the Skia](https://github.com/rust-skia/rust-skia)
 - [Introduction to Raymarching](https://github.com/ajweeks/RaymarchingWorkshop#readme)
 - [2D Graphics on Modern GPU (2019)](https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html)
