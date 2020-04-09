@@ -14,3 +14,5 @@ I have not taken many MOOCs so far but one I did take and quite liked was [Learn
 - [The best online courses I invested in this year (2019)](https://mariepoulin.com/blog/the-best-investments-i-made-in-my-business-this-year/)
 - [Ask HN: What makes an online course amazing? (2020)](https://news.ycombinator.com/item?id=22580520)
 - [600 free courses from universities (2018)](https://www.classcentral.com/report/new-courses-october-2018/)
+- [Top Coursera courses](https://www.classcentral.com/provider/coursera?sort=rating-up)
+- [Ask HN: Recommend me a course on Coursera (2020)](https://news.ycombinator.com/item?id=22826722)
