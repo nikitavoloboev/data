@@ -36,3 +36,4 @@
 - [An in-depth Look at OCaml’s new “Best-fit” Garbage Collector Strategy (2020)](http://www.ocamlpro.com/2020/03/23/ocaml-new-best-fit-garbage-collector/) ([HN](https://news.ycombinator.com/item?id=22663297))
 - [Jane Street and the OCaml Compiler (2018)](https://www.janestreet.com/tech-talks/jane-and-compiler/) ([HN](https://news.ycombinator.com/item?id=22683768))
 - [HN: OCaml 4.10 (2020)](https://news.ycombinator.com/item?id=22390153)
+- [Code using GADT in OCaml](https://github.com/objmagic/jaw)
