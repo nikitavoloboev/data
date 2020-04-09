@@ -14,9 +14,7 @@ I also open any of my most used websites using [KM macros](../../macOS/apps/keyb
 
 I mention Safari Extensions I use [here](https://github.com/nikitavoloboev/my-mac-os#safari-extensions).
 
-![](https://i.imgur.com/dEdo1O7.png)
-
-My favorite of which is [sVim](https://github.com/flipxfx/sVim) which adds a custom layer of keybinds you can customize to personalize your browsing experience. [My config](https://gist.github.com/c26e6a05e4e426e0542e55b7513b581c).
+My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which adds a custom layer of keybinds you can customize to personalize your browsing experience.
 
 ## Notes
 

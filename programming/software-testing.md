@@ -17,3 +17,4 @@
 - [TestCheck.js](https://github.com/leebyron/testcheck-js) - Generative property testing for JavaScript.
 - [Awesome Software Testing](https://github.com/ligurio/awesome-software-quality#readme)
 - [Rainforest](https://www.rainforestqa.com/) - Flexible software testing platform. ([CLI](https://github.com/rainforestapp/rainforest-cli))
+- [Puppetron](https://github.com/cheeaun/puppetron) - Headless Chrome Node API)-based rendering solution.

@@ -375,6 +375,8 @@
 - [groupcache](https://github.com/golang/groupcache) - Caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [littleboss](https://github.com/crawshaw/littleboss) - Self-supervising Go binaries.
 - [go-basher](https://github.com/progrium/go-basher) - Library for writing hybrid Go and Bash programs.
+- [beeep](https://github.com/gen2brain/beeep) - Go cross-platform library for sending desktop notifications, alerts and beeps.
+- [Whatlanggo](https://github.com/abadojack/whatlanggo) - Natural language detection for Go.
 
 ## Links
 
