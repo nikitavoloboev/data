@@ -117,3 +117,4 @@
 - [Awesome list of React Renderer](https://github.com/chentsulin/awesome-react-renderer#readme)
 - [What is the React Scheduler? (2020)](https://ahuth.github.io/articles/what-is-the-react-scheduler.html)
 - [33 line React](https://leontrolski.github.io/33-line-react.html) ([HN](https://news.ycombinator.com/item?id=22776753))
+- [Vidact](https://github.com/mohebifar/vidact) - Compiler that converts React-compatible codes to VanillaJS with no Virtual DOM.
