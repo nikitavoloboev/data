@@ -181,3 +181,4 @@
 - [Mental models around Ok-Wrapping (2020)](https://vorner.github.io/2020/04/09/wrapping-mental-models.html) ([HN](https://news.ycombinator.com/item?id=22832955))
 - [Canduma rust authentication server boilerplate](https://github.com/clifinger/canduma) - Rust Boilerplate server with GraphQL API, Diesel, PostgreSQL, session authentication and JWT.
 - [Rust teams structure](https://github.com/rust-lang/team)
+- [Rust Learning](https://github.com/ctjhoa/rust-learning#readme) - Bunch of links to blog posts, articles, videos, etc for learning Rust.

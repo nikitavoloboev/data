@@ -121,3 +121,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Scaling up an iOS Codebase • Tjeerd In't Veen (2020)](https://www.youtube.com/watch?v=n09omYo_QPk&list=PLEx5khR4g7PLHBVGOjNbevChU9DOL3Axj)
 - [Curated list of iOS interview questions and answers](https://github.com/onthecodepath/iOS-Interview-Questions#readme)
 - [Playbook iOS](https://github.com/playbook-ui/playbook-ios) - Library for isolated developing UI components and automatically snapshots of them.
+- [AppStoreConnect CLI](https://github.com/ittybittyapps/appstoreconnect-cli) - Easy to use command-line tool for interacting with the Apple AppStore Connect API.

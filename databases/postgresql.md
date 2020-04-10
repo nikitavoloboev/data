@@ -76,3 +76,4 @@
 - [pgslice](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
 - [Things I Hate About PostgreSQL (2020)](https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791) ([HN](https://news.ycombinator.com/item?id=22775330)) ([Lobsters](https://lobste.rs/s/j2ptta/10_things_i_hate_about_postgresql))
 - [pgFormatter](http://sqlformat.darold.net/) - PostgreSQL SQL syntax beautifier. ([Code](https://github.com/darold/pgFormatter))
+- [graphile-worker](https://github.com/graphile/worker) - Job queue for PostgreSQL running on Node.js.
