@@ -138,6 +138,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Michael Kenna](https://www.artsy.net/artist/michael-kenna)
 - [Simen Johan](http://www.simenjohan.com/x/index.html)
 - [Samuel Zeller](https://archive.samuelzeller.ch/) - His [Botanical](https://www.samuelzeller.ch/botanical) project is awesome.
+- [Craig Mod](https://www.instagram.com/craigmod/)
 - [Thomas Heaton](https://www.instagram.com/heatonthomas/)
 - [Michal Pelka](https://www.instagram.com/michalpelka/) - Beautiful photos of waves.
 - [Tobias van Schneider](https://unsplash.com/@vanschneider/)

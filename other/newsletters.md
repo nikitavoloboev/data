@@ -10,3 +10,4 @@
 - [On Being a Good Newsletterer](https://craigmod.com/essays/on_writing_good_newsletters/) - Notes and tips on how not to be a newsletter.
 - [Sendy](https://sendy.co/) - Send newsletters, 100x cheaper via Amazon SES.
 - [Digester](https://digester.app/) - Allows you to get updates when you want them.
+- [On Being a Good Newsletterer](https://craigmod.com/essays/on_writing_good_newsletters/)
