@@ -71,3 +71,4 @@
 - [Smallstep](https://smallstep.com/) - End-to-End Encryption for Distributed Systems.
 - [Systems design for Advanced Beginners (2020)](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 - [Performance Under Load (2018)](https://medium.com/@NetflixTechBlog/performance-under-load-3e6fa9a60581)
+- [Veneur](https://github.com/stripe/veneur) - Distributed, fault-tolerant pipeline for runtime data.

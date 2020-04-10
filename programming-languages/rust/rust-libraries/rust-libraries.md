@@ -304,6 +304,7 @@
 - [parity-common](https://github.com/paritytech/parity-common) - Collection of crates used in Parity projects.
 - [desert](https://github.com/substack/desert) - Traits for {de,}serializing compact binary formats.
 - [etcd](https://github.com/jimmycuadra/rust-etcd) - Etcd client library for Rust.
+- [RustGnuplot](https://github.com/SiegeLord/RustGnuplot) - Rust library for drawing plots, powered by Gnuplot.
 
 ## Cargo Plugins
 

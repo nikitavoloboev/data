@@ -102,6 +102,7 @@
 - [Matplotlib](https://github.com/matplotlib/matplotlib) - Comprehensive library for creating static, animated, and interactive visualizations in Python.
 - [Jug](https://github.com/luispedro/jug) - Parallel programming with Python.
 - [Pingouin](https://github.com/raphaelvallat/pingouin) - Open-source statistical package written in Python 3 and based mostly on Pandas and NumPy.
+- [rpy2](https://github.com/rpy2/rpy2) - Interface to use R from Python.
 
 ## Links
 

@@ -51,3 +51,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Type Specimens](https://typespecimens.io/)
 - [Type Studies](https://typestudies.com/)
 - [Practical Typography](https://practicaltypography.com/)
+- [Showcase of OpenType Features](https://otf.show/hlig) ([Code](https://github.com/dvkndn/otf.show))

@@ -81,6 +81,8 @@
 - [Spinners React](https://github.com/adexin/spinners-react) - Lightweight SVG/CSS spinners for React.
 - [hamburger-react](https://github.com/luukdv/hamburger-react) - Animated hamburger menu icons for React.
 - [react-see-through](https://github.com/andrew4699/react-see-through) - Draw attention to the important parts of your website.
+- [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component.
+- [Eitherx](https://github.com/mfix22/eitherx) - Super simple, reusable either-or error boundaries for React.
 
 ## Links
 

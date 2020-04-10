@@ -66,3 +66,4 @@
 - [Node.js Backend Architecture Typescript Project](https://github.com/afteracademy/nodejs-backend-architecture-typescript)
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - React custom renderer for the blessed library.
 - [v8-compile-cache](https://github.com/zertosh/v8-compile-cache) - Require hook for automatic V8 compile cache persistence.
+- [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
