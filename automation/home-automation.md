@@ -10,3 +10,4 @@
 - [Project Alias](https://github.com/bjoernkarmann/project_alias) - Open-source parasite to hack smart home devices.
 - [Home Assistant Configuration](https://github.com/arsaboo/homeassistant-config)
 - [Bear Stone Smart Home Documentation](https://github.com/CCOSTAN/Home-AssistantConfig)
+- [Roborock](https://en.roborock.com/) - Automatic vacuum cleaner robot.

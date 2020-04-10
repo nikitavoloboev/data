@@ -91,3 +91,4 @@
 - [torchlayers](https://github.com/szymonmaszke/torchlayers) - Shape inference for PyTorch (like in Keras) + new SoTA layers.
 - [PyTorch re-implementation of Neural Radiance Fields](https://github.com/krrish94/nerf-pytorch)
 - [Torchmeta](https://github.com/tristandeleu/pytorch-meta) - Collection of extensions and data-loaders for few-shot learning & meta-learning in PyTorch.
+- [SpecAugment with Pytorch](https://github.com/zcaceres/spec_augment) - Pytorch Implementation of GoogleBrain's SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition.

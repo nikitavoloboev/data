@@ -8,6 +8,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Tuple](https://tuple.app/) - Best remote pair programming app on macOS.
 - [Loom](https://www.loom.com/) - Most effective way to get your message across, no matter where you work.
 - [Lark](https://www.larksuite.com/) - Simplest way to create and collaborate.
+- [Clay](https://clay.run/) - Brings together the best parts of spreadsheets, coding & simple automation.
 - [Graph of Related Subreddits](https://anvaka.github.io/sayit/?query=) ([HN](https://news.ycombinator.com/item?id=22177942))
 - [Ryeboard](https://www.ryeboard.com/) - Ultimate visual workspace.
 - [Navigator](https://navigator.com/) - Makes meetings feel like the best part of work: focused, purposeful and energizing.

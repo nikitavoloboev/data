@@ -2,6 +2,7 @@
 
 ## Web
 
+- [Opium](https://github.com/rgrinberg/opium) - Sinatra like web toolkit for OCaml.
 - [OCaml On Ice](https://github.com/roddyyaga/ocoi) - Web framework for OCaml in the style of Ruby on Rails.
 
 ## Science
