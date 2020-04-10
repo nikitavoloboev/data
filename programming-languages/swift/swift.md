@@ -93,3 +93,4 @@
 - [Typology](https://github.com/MaxDesiatov/Typology) - Swift type checking and semantic analysis for developer tools.
 - [Important talks and articles for first time Swift Contributors (2020)](https://forums.swift.org/t/important-talks-and-articles-for-first-time-swift-contributors/34537)
 - [Swift: Google’s bet on differentiable programming (2020)](https://tryolabs.com/blog/2020/04/02/swift-googles-bet-on-differentiable-programming/) ([HN](https://news.ycombinator.com/item?id=22820852))
+- [SwiftSyntaxHighlighter](https://github.com/NSHipster/SwiftSyntaxHighlighter) - Syntax highlighter for Swift code that uses SwiftSyntax to generate Pygments-compatible HTML.

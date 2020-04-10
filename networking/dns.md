@@ -21,3 +21,4 @@
 - [ExternalDNS](https://github.com/kubernetes-sigs/external-dns) - Synchronizes exposed Kubernetes Services and Ingresses with DNS providers.
 - [dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server.
 - [c-ares](https://github.com/c-ares/c-ares) - C library for asynchronous DNS requests.
+- [DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page. ([HN](https://news.ycombinator.com/item?id=22790425))

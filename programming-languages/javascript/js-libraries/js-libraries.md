@@ -42,6 +42,7 @@
 - [Observable Store](https://github.com/DanWahlin/Observable-Store) - Provides a simple way to manage state in Angular, React, Vue.js and other front-end applications.
 - [Cerebral](https://github.com/cerebral/cerebral) - Declarative state and side effects management solution for popular JavaScript frameworks.
 - [Hooksy](https://github.com/pie6k/hooksy) - State managment solution based on react hooks.
+- [React Easy State](https://github.com/RisingStack/react-easy-state) - Simple React state management. Made with ❤️ and ES6 Proxies.
 
 ## API bindings
 

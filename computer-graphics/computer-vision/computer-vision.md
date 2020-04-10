@@ -38,3 +38,5 @@
 - [Learning to See Through Obstructions](https://github.com/alex04072000/ObstructionRemoval)
 - [Learning to Cluster Faces on an Affinity Graph (LTC)](https://github.com/yl-1993/learn-to-cluster)
 - [Avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom and Skype.
+- [SPSR](https://github.com/Maclory/SPSR) - PyTorch implementation of Structure-Preserving Super Resolution with Gradient Guidance.
+- [OISR-PyTorch](https://github.com/HolmesShuan/OISR-PyTorch) - PyTorch implementation of "ODE-inspired Network Design for Single Image Super-Resolution.

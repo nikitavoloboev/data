@@ -1,4 +1,4 @@
-# [TypeScript](https://github.com/Microsoft/TypeScript)
+# [TypeScript](https://www.typescriptlang.org/)
 
 [TS Handbook](https://www.typescriptlang.org/docs/handbook/basic-types.html) and [this article](https://toddmotto.com/typescript-introduction) are great intros.
 
@@ -14,6 +14,7 @@
 ## Links
 
 - [TypeScript Language Specification](https://github.com/Microsoft/TypeScript/blob/master/doc/spec.md#readme)
+- [TypeScript code](https://github.com/microsoft/TypeScript)
 - [React & Redux in TypeScript - Static Typing Guide](https://github.com/piotrwitek/react-redux-typescript-guide#readme)
 - [Opening Remarks by Anders Hejlsberg (2018)](https://www.youtube.com/watch?v=wpgKd-rwnMw)
 - [Ultimate React Component Patterns with Typescript 2.8](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
@@ -86,6 +87,7 @@
 - [Dependent Types in Typescript](https://www.javiercasas.com/articles/typescript-dependent-types)
 - [Type Puzzles](https://type-puzzles.uhyohyo.net/) - Learn TypeScript with Type Puzzles. ([Code](https://github.com/uhyo/typescript-puzzle))
 - [Introduction to Functional Programming using TypeScript and fp-ts](https://github.com/enricopolanski/functional-programming)
+- [TypeScript website code](https://github.com/microsoft/TypeScript-Website) - Website and web infrastructure for learning TypeScript.
 
 ## Images
 
