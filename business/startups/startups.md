@@ -139,6 +139,7 @@
 - [How To Keep Your Company Alive – Observe, Orient, Decide and Act (2020)](https://steveblank.com/2020/04/01/the-ceo-playbook-for-keeping-your-company-alive/) ([HN](https://news.ycombinator.com/item?id=22756964))
 - [High Growth Handbook](http://growth.eladgil.com/)
 - [Wardley maps](https://medium.com/wardleymaps) - Topographical intelligence in business. ([As Book](https://github.com/andrewharmellaw/wardley-maps-book))
+- [Founder's Field Guide for Navigating Crisis (2020)](https://firstround.com/review/the-founders-field-guide-for-navigating-this-crisis-advice-from-recession-era-leaders-investors-and-ceos-currently-at-the-helm/) ([HN](https://news.ycombinator.com/item?id=22826354))
 
 ## Images
 

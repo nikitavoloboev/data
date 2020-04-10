@@ -12,3 +12,5 @@
 - [How to Create the Apple Fifth Avenue Cube in WebGL (2019)](https://tympanus.net/codrops/2019/12/20/how-to-create-the-apple-fifth-avenue-cube-in-webgl/)
 - [Moments of Happiness](https://moments.epic.net/#home) - Series of WebGL experiments developed to make you smile.
 - [WebGL Quake 3 Renderer](https://github.com/toji/webgl-quake3)
+- [Time Chart](https://github.com/huww98/TimeChart) - Chart library specialized for large-scale time-series data, built on WebGL.
+- [webgl-plot](https://github.com/danchitnis/webgl-plot) - High-performance 2D graphs using native WebGL.

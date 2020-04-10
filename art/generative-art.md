@@ -31,3 +31,4 @@
 - [AI for 3D Generative Design (2020)](https://blog.insightdatascience.com/ai-for-3d-generative-design-17503d0b3943) ([HN](https://news.ycombinator.com/item?id=22640407))
 - [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art#readme)
 - [Nervous System](https://n-e-r-v-o-u-s.com/index.php) - Generative design studio that works at the intersection of science, art, and technology.
+- [Experiments in generative art](https://sketchbook.netlify.com/) ([Code](https://github.com/winkerVSbecks/sketchbook))

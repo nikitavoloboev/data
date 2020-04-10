@@ -6,7 +6,7 @@
 - [Figma Dominant Color Toolkit](https://github.com/brianlovin/figma-dominant-color-toolkit) - Generate a palette from an image to magically populate your designs.
 - [react-figma](https://github.com/ilyalesik/react-figma) - Render React components to Figma.
 - [Awesome Design Plugins](https://flawlessapp.io/designplugins) - Best design plugins for Sketch, Adobe XD, and Figma.
-- [figplug](https://github.com/rsms/figplug) - Figma plugin builder.
+- [figplug](https://github.com/rsms/figplug) - Figma plugin builder. ([Web](https://rsms.me/figplug/))
 - [Remove.bg Plugin](https://github.com/aaroniker/figma-remove-bg) - Remove the background of images automatically.
 - [Master](https://www.figma.com/c/plugin/767721682134156281/Master) - Never worry about creating, copying and fixing Components anymore.
 - [Easing Gradient](https://github.com/matchai/figma-easing-gradient) - Make beautiful smooth gradients in Figma.

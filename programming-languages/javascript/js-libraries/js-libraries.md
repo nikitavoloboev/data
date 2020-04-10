@@ -199,6 +199,7 @@
 - [Spotlight](https://github.com/karlisup/spotlight) - Search widget for your web API.
 - [Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript.
 - [Xterm.js](https://github.com/xtermjs/xterm.js) - Terminal for the web.
+- [Change Case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more.
 
 ## Links
 

@@ -379,6 +379,7 @@
 - [Whatlanggo](https://github.com/abadojack/whatlanggo) - Natural language detection for Go.
 - [hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go.
 - [systray](https://github.com/getlantern/systray) - Cross platfrom Go library to place an icon and menu in the notification area.
+- [SemVer](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go.
 
 ## Links
 
