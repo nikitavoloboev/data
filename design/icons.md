@@ -18,3 +18,4 @@
 - [Free icons for coronavirus awareness](https://www.iconfinder.com/p/coronavirus-awareness-icons)
 - [Tabler Icons](https://github.com/tabler/tabler-icons) - Set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [Designing App Icons (2020)](https://www.youtube.com/playlist?list=PLxpqfOFALZU9IG6DbP3inWOgm3Rzv4ISd)
+- [Ikonate](https://ikonate.com/) - Fully customisable & accessible vector icons. ([Code](https://github.com/mikolajdobrucki/ikonate))

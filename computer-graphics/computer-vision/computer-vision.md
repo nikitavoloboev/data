@@ -37,3 +37,4 @@
 - [PyTorch improved version of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution](https://github.com/cleardusk/3DDFA)
 - [Learning to See Through Obstructions](https://github.com/alex04072000/ObstructionRemoval)
 - [Learning to Cluster Faces on an Affinity Graph (LTC)](https://github.com/yl-1993/learn-to-cluster)
+- [Avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom and Skype.
