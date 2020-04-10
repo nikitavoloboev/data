@@ -90,6 +90,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Cole Peters](https://colepeters.com/)
 - [David Altrath](https://davidaltrath.com/)
 - [Rui Tomono](https://www.pixiv.net/member.php?id=27526)
+- [Juno Calypso](https://www.junocalypso.com/)
 - [Elora Pautrat](https://www.elorapautrat.com/)
 - [Zi Xu](https://www.zixu.co/)
 - [Nicholas Stathopoulos](http://www.nickstath.com/)

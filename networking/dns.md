@@ -22,3 +22,4 @@
 - [dnslookup](https://github.com/ameshkov/dnslookup) - Simple command line utility to make DNS lookups to the specified server.
 - [c-ares](https://github.com/c-ares/c-ares) - C library for asynchronous DNS requests.
 - [DNS over Wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page. ([HN](https://news.ycombinator.com/item?id=22790425))
+- [dns-proxy-server](https://github.com/mageddo/dns-proxy-server) - Solve your DNS hosts from your docker containers, then from your local configuration, then from internet.

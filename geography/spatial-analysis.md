@@ -19,3 +19,5 @@
 - [Real-time mapping](https://github.com/mapbox/real-time-maps) - Visualize real-time data with Mapbox.
 - [Who's On First Spelunker](https://spelunker.whosonfirst.org/) - Tool for looking around the Who's On First database..
 - [Tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing.
+- [Geobuf](https://github.com/mapbox/geobuf) - Compact binary encoding for geographic data.
+- [tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.

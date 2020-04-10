@@ -216,3 +216,4 @@
 - [MLflow](https://mlflow.org/) - Open source platform to manage the ML lifecycle, including experimentation, reproducibility and deployment. ([Code](https://github.com/mlflow/mlflow/))
 - [Deep Unsupervised Learning (2020)](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 - [Machine Learning: a Probabilistic Perspective book](https://www.cs.ubc.ca/~murphyk/MLbook/) ([Code](https://github.com/probml/pyprobml))
+- [Introduction to Machine Learning - Carnegie Mellon University (2019)](http://www.cs.cmu.edu/%7Eninamf/courses/315sp19/)

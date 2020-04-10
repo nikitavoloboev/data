@@ -151,3 +151,4 @@
 - [React Workout: Reducers with Cassidy Williams (2020)](https://www.youtube.com/watch?v=sf4spiPynBE)
 - [JavaScript: The First 20 Years (2020)](http://www.wirfs-brock.com/allen/posts/866)
 - [Awesome Storybook](https://github.com/lauthieb/awesome-storybook#readme)
+- [QuickJS](https://github.com/ldarren/QuickJS) - Small and embeddable Javascript engine.

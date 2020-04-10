@@ -11,3 +11,4 @@
 - [Universal Reddit Scraper](https://github.com/JosephLai241/Universal-Reddit-Scraper) - Scrape Subreddits, Redditors, and comments on posts. A command-line tool written in Python.
 - [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js.
 - [Ask HN: Best practices for ethical web scraping? (2020)](https://news.ycombinator.com/item?id=22778089)
+- [Newscatcher](https://newscatcherapi.com/) - Programmatically collect normalized news from (almost) any website. ([Code](https://github.com/kotartemiy/newscatcher))

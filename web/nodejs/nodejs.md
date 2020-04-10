@@ -67,3 +67,4 @@
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - React custom renderer for the blessed library.
 - [v8-compile-cache](https://github.com/zertosh/v8-compile-cache) - Require hook for automatic V8 compile cache persistence.
 - [nve](https://github.com/ehmicky/nve) - Run any command on specific Node.js versions.
+- [node-cpp-skel](https://github.com/mapbox/node-cpp-skel) - Skeleton for bindings to C++ libraries for Node.js using node-addon-api.

@@ -58,3 +58,4 @@
 - [AlphaZero.jl](https://github.com/jonathan-laurent/AlphaZero.jl) - Generic, simple and fast implementation of Deepmind's AlphaZero algorithm.
 - [Multi-Agent Particle Environment](https://github.com/openai/multiagent-particle-envs)
 - [CURL: Contrastive Unsupervised Representations for Reinforcement Learning (2020)](https://arxiv.org/abs/2004.04136) ([Code](https://github.com/MishaLaskin/curl))
+- [Maria-Florina Balcan's publications](http://www.cs.cmu.edu/%7Eninamf/pubs-by-year.html)

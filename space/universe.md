@@ -8,3 +8,4 @@
 - [TIMELAPSE OF THE FUTURE: A Journey to the End of Time (2019)](https://news.ycombinator.com/item?id=19680491)
 - [How Our Universe Could Emerge as a Hologram (2019)](https://www.quantamagazine.org/how-our-universe-could-emerge-as-a-hologram-20190221/)
 - [How Galaxies Can Move Faster Than Light (2020)](https://www.youtube.com/watch?v=cadNZJvfl7s)
+- [The Caterpillar Project](https://www.caterpillarproject.org/) - Understanding the building blocks of the Milky Way.
