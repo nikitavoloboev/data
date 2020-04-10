@@ -19,6 +19,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Monaco Editor](https://microsoft.github.io/monaco-editor/) - Code editor that powers VS Code. ([Code](https://github.com/microsoft/monaco-editor))
 - [Loop](https://github.com/faraazahmad/loop) - Text editor built in Rust.
 - [o](https://github.com/xyproto/o) - Small, fast and limited text editor.
+- [RichEditorView](https://github.com/YoomamaFTW/RichEditorView) - Rich Text Editor in Swift.
 
 ## Web
 

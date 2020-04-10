@@ -28,6 +28,7 @@
 - [SSH for GitHub Actions](https://github.com/appleboy/ssh-action) - GitHub Actions for executing remote ssh commands.
 - [Swift Action](https://github.com/Didstopia/SwiftAction) - Provides Swift support for GitHub Actions.
 - [Automated Branch Pull Requests](https://github.com/vsoch/pull-request-action) - Open a pull request when a branch is pushed or updated.
+- [Repository Dispatch](https://github.com/peter-evans/repository-dispatch) - GitHub action to create a repository dispatch event.
 
 ## Go
 

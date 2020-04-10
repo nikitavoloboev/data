@@ -56,3 +56,4 @@
 - [Performance Resources](https://github.com/mfleming/performance-resources#readme)
 - [PackWatch](https://github.com/mcataford/packwatch) - Keep an eye on your packages' footprint.
 - [Annie Sullivan - Understanding Cumulative Layout Shift (2020)](https://www.youtube.com/watch?v=zIJuY-JCjqw&list=PLSmH2HL6l9pwQmSgpKFtWiISOXua3zq8I&index=15&t=0s)
+- [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
