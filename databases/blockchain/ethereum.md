@@ -40,3 +40,5 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Awesome Solidity 2](https://github.com/BlockchainLabsNZ/awesome-solidity#readme)
 - [Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money (2020)](https://overcast.fm/+OcVeupJwk)
 - [ChainSafe](https://chainsafe.io/) - Designs and develops scalable solutions for the decentralized web. ([Code](https://github.com/ChainSafe))
+- [Smart Contract Weakness Classification Registry](https://github.com/SmartContractSecurity/SWC-registry)
+- [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.

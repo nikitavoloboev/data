@@ -32,3 +32,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Photo Stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream.
 - [Photile](https://photile.co/) - Create photo collages from your Instagram photos quickly and easily.
 - [Glass Photo](https://glass.photo/) - Community-focused app for photographers and photography enthusiasts.
+- [Leica Q](https://craigmod.com/essays/leica_q/) - Six month field test.

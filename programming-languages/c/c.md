@@ -33,3 +33,4 @@
 - [HN: Static Analysis in GCC 10 (2020)](https://news.ycombinator.com/item?id=22711391)
 - [“C is not how the computer works” can lead to inefficient code (2019)](https://words.steveklabnik.com/c-is-not-how-the-computer-works-can-lead-to-inefficient-code) ([HN](https://news.ycombinator.com/item?id=21355463))
 - [Write a C interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it..
+- [tree-sitter-c](https://github.com/tree-sitter/tree-sitter-c) - C grammar for tree-sitter. Adapted from this C99 grammar.
