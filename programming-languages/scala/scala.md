@@ -33,3 +33,4 @@
 - [So, what's wrong with SBT? (2017)](http://www.lihaoyi.com/post/SowhatswrongwithSBT.html)
 - [Scala School](http://twitter.github.io/scala_school/) - Lessons in the Fundamentals of Scala. ([Code](https://github.com/twitter/scala_school))
 - [The Death of Hype: What's Next for Scala (2020)](http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html) ([Lobsters](https://lobste.rs/s/5m7mtd/death_hype_what_s_next_for_scala))
+- [Seed](https://github.com/tindzk/seed) - Build tool for Scala projects.

@@ -156,3 +156,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Design + Code](https://designcode.io/) - Learn to design & code apps.
 - [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
 - [Two Factor Auth](https://twofactorauth.org/) - List of websites and whether or not they support 2FA. ([Code](https://github.com/2factorauth/twofactorauth))
+- [Another Google-like Go short link service](https://github.com/kellegous/go)
+- [process-viewer](https://github.com/GuillaumeGomez/process-viewer) - Process viewer GUI in rust.

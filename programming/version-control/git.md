@@ -112,3 +112,4 @@ I love Git and version control. And I use version control over any project I do.
 - [My unorthodox, branchless git workflow (2020)](https://drewdevault.com/2020/04/05/My-weird-branchless-git-workflow.html) ([Lobsters](https://lobste.rs/s/lymznu/my_unorthodox_branchless_git_workflow)) ([HN](https://news.ycombinator.com/item?id=22793512))
 - [Git Cola](https://git-cola.github.io/) - Sleek and powerful graphical user interface for Git. ([Code](https://github.com/git-cola/git-cola))
 - [Ultra Runner](https://github.com/folke/ultra-runner) - Ultra fast monorepo script runner and build tool.
+- [git-fame](https://github.com/casperdcl/git-fame) - Pretty-print git repository collaborators sorted by contributions.
