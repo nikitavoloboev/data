@@ -247,6 +247,7 @@
 - [Pathos](https://github.com/dduan/Pathos) - File management and path analysis for Swift.
 - [Shell](https://github.com/tuist/shell) - Library written in Swift to run system commands.
 - [Resilient Decoding](https://github.com/airbnb/ResilientDecoding) - Makes your Decodable types resilient to errors and allows you to inspect those errors.
+- [Thingy](https://github.com/bojan/Thingy) - Modern device detection and querying library.
 
 ## Other (not lib)
 

@@ -42,3 +42,4 @@
 - [Our list of free software for remote work](https://puri.sm/posts/our-essential-list-of-free-software-for-remote-work/) ([HN](https://news.ycombinator.com/item?id=22698299))
 - [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job#readme)
 - [Remote Work - a guide to ensuring quality video conferencing (2020)](https://dev.to/stripe/remote-work-a-guide-to-ensuring-quality-video-conferencing-55fi)
+- [Established remote companies](https://github.com/yanirs/established-remote#readme)

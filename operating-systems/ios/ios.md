@@ -18,6 +18,8 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Private Internet Access](https://github.com/pia-foss/vpn-ios)
 - [Bank](https://github.com/aydenp/Bank) - Simple iOS app for viewing your bank account balance and transactions.
 - [Signal](https://github.com/signalapp/Signal-iOS) - Private messenger for iOS.
+- [Beam](https://github.com/awkward/beam) - Open source Reddit client for iOS.
+- [Slide](https://github.com/ccrama/Slide-iOS) - Beautiful Reddit browser for iOS.
 
 ## Notes
 

@@ -79,3 +79,4 @@
 - [Real world GraphQL tutorial for developers with deadlines](https://hasura.io/learn/) ([Code](https://github.com/hasura/learn-graphql))
 - [apollo-link](https://github.com/apollographql/apollo-link) - Interface for fetching and modifying control flow of GraphQL requests.
 - [React+TypeScript+GraphQL demo - Roy Derks (2020)](https://www.youtube.com/watch?v=zmzZwZh77_w)
+- [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) - Outputs a list of changes between two GraphQL schemas.
