@@ -19,3 +19,4 @@
 - [Rainforest](https://www.rainforestqa.com/) - Flexible software testing platform. ([CLI](https://github.com/rainforestapp/rainforest-cli))
 - [Puppetron](https://github.com/cheeaun/puppetron) - Headless Chrome Node API)-based rendering solution.
 - [Tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
+- [How We Test Vector (2020)](https://vector.dev/blog/how-we-test-vector/) - Survey of techniques we've found useful.

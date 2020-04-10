@@ -64,6 +64,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [The Commonplace Book](https://www.ralphrudd.com/)
 - [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)
+- [Wesley Moore](https://linkedlist.org/)
 - [Slides of Chen Hui Jing](https://github.com/huijing/slides)
 - [Hongyi Shen's notes](https://github.com/wilbeibi/NotesIndex)
 - [Alopex Networks wiki](https://wiki.alopex.li/_categories)

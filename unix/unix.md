@@ -24,3 +24,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Using ptrace To Call a Userspace Function](https://github.com/eklitzke/ptrace-call-userspace)
 - [EOF is not a character (2020)](https://ruslanspivak.com/eofnotchar/) ([HN](https://news.ycombinator.com/item?id=22557412))
 - [How are Unix pipes implemented? (2020)](https://toroid.org/unix-pipe-implementation)
+- [Unix Considered Harmful](https://zge.us.to/unix-harmful.html)
