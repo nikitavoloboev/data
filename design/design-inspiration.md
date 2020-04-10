@@ -85,6 +85,7 @@ Here are few more things I liked, design wise.
 - [William Falcon](https://www.williamfalcon.com/)
 - [Brent Jackson](https://jxnblk.com/)
 - [Fabian Fett](https://fabianfett.de/)
+- [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))
 - [Mark McGranaghan](https://markmcgranaghan.com/)
 - [Mackenzie Child](https://www.mackenziechild.me/)
 - [Marvin Hagemeister](https://marvinh.dev/)

@@ -302,6 +302,7 @@
 - [SM](https://github.com/rustic-games/sm) - Static State Machine library.
 - [lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - Macro for declaring lazily evaluated statics in Rust.
 - [parity-common](https://github.com/paritytech/parity-common) - Collection of crates used in Parity projects.
+- [desert](https://github.com/substack/desert) - Traits for {de,}serializing compact binary formats.
 
 ## Cargo Plugins
 

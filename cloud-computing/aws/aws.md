@@ -53,3 +53,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [LocalStack](https://github.com/localstack/localstack) - Fully functional local AWS cloud stack. ([Web](https://localstack.cloud/))
 - [Punchcard](https://github.com/punchcard/punchcard) - Type-safe AWS infrastructure.
 - [Infrastructure as Code on AWS in a familiar language — the right way with InGraph (2020)](https://read.acloud.guru/infrastructure-as-code-on-aws-in-a-familiar-language-the-right-way-ingraph-63a8fb4cfff)
+- [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS.

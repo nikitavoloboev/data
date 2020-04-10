@@ -155,3 +155,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [zr](https://github.com/jackdoe/zr) - Offline and serverless stackoverflow search with low memory footprint.
 - [Design + Code](https://designcode.io/) - Learn to design & code apps.
 - [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.
+- [Two Factor Auth](https://twofactorauth.org/) - List of websites and whether or not they support 2FA. ([Code](https://github.com/2factorauth/twofactorauth))
