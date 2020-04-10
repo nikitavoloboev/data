@@ -10,6 +10,7 @@
 - [JupyterLab debugger UI extension](https://github.com/jupyterlab/debugger)
 - [Vim notebook cell bindings for JupyterLab](https://github.com/jwkvam/jupyterlab-vim)
 - [Swift-Jupyter](https://github.com/google/swift-jupyter) - Jupyter Kernel for Swift, intended to make it possible to use Jupyter with the Swift for TensorFlow project.
+- [gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks.
 
 ## Links
 

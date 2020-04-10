@@ -1,10 +1,5 @@
 # [Kubernetes](https://kubernetes.io/)
 
-## Plugins
-
-- [amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS.
-- [k-vswitch](https://github.com/k-vswitch/k-vswitch) - Easy-to-operate, high performance and secure Kubernetes networking plugin based on Open vSwitch.
-
 ## Notes
 
 - Kubernetes runs pods that contain 1 to n docker containers. So if you have your apps in the form of docker images you are ready to go.
@@ -71,7 +66,6 @@
 - [Kubernetes cleanup operator](https://github.com/lwolf/kube-cleanup-operator) - Kubernetes Operator to automatically delete completed Jobs and their Pods.
 - [Click](https://github.com/databricks/click) - Command Line Interactive Controller for Kubernetes. Its purpose is to manage a large number of Kubernetes clusters/objects quickly and efficiently.
 - [Kubectl Dashboard](https://github.com/bouk/kubectl-dashboard) - Sub-command for kubectl that will instantly make a Kubernetes dashboard available for you, without having to run anything in your cluster.
-- [krew](https://github.com/GoogleContainerTools/krew) - Package manager for "kubectl plugins".
 - [kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations.
 - [Kubewebhook](https://github.com/slok/kubewebhook) - Small Go framework to create external admission webhooks for Kubernetes.
 - [Submariner](https://github.com/rancher/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
@@ -120,10 +114,8 @@
 - [Clusterlint](https://github.com/digitalocean/clusterlint) - Best practices checker for Kubernetes clusters.
 - [An illustrated guide to Kubernetes Networking (2017)](https://itnext.io/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727)
 - [Bank Vaults](https://github.com/banzaicloud/bank-vaults) - Umbrella project which provides various tools for Vault to make using and operating Hashicorp Vault easier.
-- [kubectl trace](https://github.com/iovisor/kubectl-trace) - Kubectl plugin that allows you to schedule the execution of bpftrace programs in your Kubernetes cluster.
 - [RBAC Manager](https://github.com/FairwindsOps/rbac-manager) - Kubernetes operator that simplifies the management of Role Bindings and Service Accounts.
 - [inlets-operator](https://github.com/inlets/inlets-operator) - Your private Kubernetes Service, with a public endpoint.
-- [kubectl tree](https://github.com/ahmetb/kubectl-tree) - Kubectl plugin to browse Kubernetes object hierarchies as a tree.
 - [Chaos Mesh](https://github.com/pingcap/chaos-mesh) - Cloud-native Chaos Engineering platform that orchestrates chaos on Kubernetes environments.
 - [Grafana Tanka](https://github.com/grafana/tanka) - Flexible, reusable and concise configuration for Kubernetes.
 - [Kubernetes Best Practices: Blueprints for Building Successfull Applications on Kubernetes (2019)](https://www.goodreads.com/book/show/50351477-kubernetes-best-practices)
@@ -160,7 +152,6 @@
 - [Hubble](https://github.com/cilium/hubble) - Network, Service & Security Observability for Kubernetes.
 - [NATS Streaming Operator](https://github.com/nats-io/nats-streaming-operator) - Operator for managing NATS Streaming clusters running on Kubernetes.
 - [What is your favorite Kubernetes feature that nobody seems to know about? (2020)](https://www.reddit.com/r/kubernetes/comments/f9fque/what_is_your_favorite_kubernetes_feature_that/)
-- [krew](https://github.com/kubernetes-sigs/krew/) - Package manager for kubectl plugins.
 - [Advanced Persistence Threats: The Future of Kubernetes Attacks (2020)](https://www.youtube.com/watch?v=CH7S5rE3j8w)
 - [Kubernetes Engine Samples](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples)
 - [How to use Open Virtual Networking with Kubernetes](https://github.com/ovn-org/ovn-kubernetes)
@@ -175,3 +166,4 @@
 - [Prometheus Operator](https://github.com/coreos/prometheus-operator) - Creates/configures/manages Prometheus clusters atop Kubernetes.
 - [Rudr](https://github.com/oam-dev/rudr) - Kubernetes Implementation of the Open Application Model.
 - [k3sup](https://github.com/alexellis/k3sup) - Light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM.
+- [CRI-O](https://github.com/cri-o/cri-o) - OCI-based implementation of Kubernetes Container Runtime Interface.
