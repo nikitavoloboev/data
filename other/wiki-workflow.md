@@ -58,6 +58,8 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Ioannis Kourouklides](https://wiki.kourouklides.com/wiki/Main_Page)
 - [Dmitrii Gerasimov](https://beepb00p.xyz/)
 - [Flavio Copes](https://flaviocopes.com/)
+- [Ellie's wiki](https://ellie.wiki/) ([Code](https://github.com/elliebike/wiki))
+- [Max Stoiber's notes](https://notes.mxstbr.com/Evergreen_notes)
 - [Nick Belzer](https://wiki.nickbelzer.me/)
 - [The Commonplace Book](https://www.ralphrudd.com/)
 - [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)

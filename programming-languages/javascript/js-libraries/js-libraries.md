@@ -198,6 +198,7 @@
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js) - JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js.
 - [Spotlight](https://github.com/karlisup/spotlight) - Search widget for your web API.
 - [Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript.
+- [Xterm.js](https://github.com/xtermjs/xterm.js) - Terminal for the web.
 
 ## Links
 
