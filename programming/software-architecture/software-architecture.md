@@ -51,3 +51,4 @@
 - [The Twitter stack (2013)](https://blog.oskarsson.nu/post/40196324612/the-twitter-stack)
 - [Data Oriented Design Resources](https://github.com/dbartolini/data-oriented-design#readme)
 - [Building Secure and Reliable Systems (2020)](https://landing.google.com/sre/books/) - Best practices for designing, implementing & maintaining systems.
+- [Systems that defy detailed understanding (2020)](https://blog.nelhage.com/post/systems-that-defy-understanding/) ([HN](https://news.ycombinator.com/item?id=22833601))

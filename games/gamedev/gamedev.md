@@ -43,3 +43,4 @@
 - [How Prince of Persia Defeated Apple II's Memory Limitations (2020)](https://www.youtube.com/watch?v=sw0VfmXKq54)
 - [Castle](https://castle.games/) - Space to play and create games.
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/) - Collection of patterns I found in games that make code cleaner, easier to understand, and faster.
+- [Tracy Profiler](https://github.com/wolfpld/tracy) - Real time, nanosecond resolution, remote telemetry frame profiler for games and other applications.

@@ -22,3 +22,4 @@
 - [Cosmic](https://github.com/clbx/Cosmic) - Stellar simulated 8-bit computer architecture.
 - [Optimized implementations of various library functions for ARM architecture processors](https://github.com/ARM-software/optimized-routines)
 - [Chipping away at Moore's law. Modern CPUs are just chiplets connected together (2020)](https://queue.acm.org/detail.cfm?id=3388515)
+- [SIMD instructions](https://opensourceweekly.org/issues/7/) ([HN](https://news.ycombinator.com/item?id=22833299))

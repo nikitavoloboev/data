@@ -23,5 +23,5 @@ There is always a trust issue having VPN hosted by third party. Especially if it
 - [Building a simple VPN with WireGuard with a Raspberry Pi as Server (2020)](https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server/) ([HN](https://news.ycombinator.com/item?id=22183506))
 - [Tailscale](https://tailscale.com/) - Mesh VPN that makes it easy to connect your devices, wherever they are. No more fighting configuration or firewall ports. ([Code](https://github.com/tailscale/tailscale)) ([HN](https://news.ycombinator.com/item?id=22759882))
 - [N2N](https://github.com/ntop/n2n) - Light VPN software which make it easy to create virtual networks bypassing intermediate firewalls.
-- [Orchid](https://github.com/OrchidTechnologies/orchid) - Enables a decentralized virtual private network (VPN), allowing users to buy bandwidth from a global pool of service providers.
+- [Orchid](https://github.com/OrchidTechnologies/orchid) - Enables a decentralized virtual private network (VPN), allowing users to buy bandwidth from a global pool of service providers. ([Web](https://www.orchid.com/))
 - [Official ProtonVPN iOS app](https://github.com/ProtonVPN/ios-app)

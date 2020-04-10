@@ -12,3 +12,4 @@
 - [Code-Splitting ClojureScript (2019)](https://code.thheller.com/blog/shadow-cljs/2019/03/03/code-splitting-clojurescript.html)
 - [learn re-frame](https://www.learnreframe.com/) - Paid course.
 - [A Tool For Thought (2016)](http://swannodette.github.io/2016/06/03/tools-for-thought)
+- [Create CLJS App](https://github.com/filipesilva/create-cljs-app) - Create ClojureScript apps with a single command.

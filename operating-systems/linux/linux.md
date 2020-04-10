@@ -94,3 +94,4 @@
 - [A "living" Linux process with no memory](https://github.com/izabera/zeromaps) ([HN](https://news.ycombinator.com/item?id=22693805))
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
 - [Subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
+- [nohang](https://github.com/hakavlad/nohang) - Sophisticated low memory handler for Linux.
