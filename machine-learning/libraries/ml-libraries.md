@@ -7,6 +7,10 @@
 - [Keras](keras.md)
 - [fastai](https://github.com/fastai/fastai)
 
+## Web
+
+- [ml5.js](https://github.com/ml5js/ml5-library) - Friendly machine learning for the web.
+
 ## Other
 
 - [imgaug](https://github.com/aleju/imgaug) - Image augmentation for machine learning experiments.

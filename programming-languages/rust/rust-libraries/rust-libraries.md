@@ -76,6 +76,7 @@
 
 ## Error
 
+- [derive(Error)](https://github.com/dtolnay/thiserror) - Provides a convenient derive macro for the standard library's std::error::Error trait.
 - [Fehler](https://github.com/withoutboats/fehler) - Library to add support for "throwing functions" to Rust through procedural macros.
 - [failure](https://github.com/rust-lang-nursery/failure) - Designed to make it easier to manage errors in Rust.
 - [Anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error.

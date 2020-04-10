@@ -154,3 +154,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Subreddit Finder](https://valohai.com/subreddit-finder/)
 - [zr](https://github.com/jackdoe/zr) - Offline and serverless stackoverflow search with low memory footprint.
 - [Design + Code](https://designcode.io/) - Learn to design & code apps.
+- [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for programming source code.

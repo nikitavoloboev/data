@@ -49,6 +49,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Sonix](https://sonix.ai/) - Transcribe videos from [Zoom](https://sonix.ai/how-to-transcribe-a-zoom-meeting).
 - [Polar Bookshelf](https://getpolarized.io/) - Personal knowledge repository for PDF and web content supporting incremental reading and document annotation. ([Code](https://github.com/burtonator/polar-bookshelf))
 - [Jami](https://jam.link/) - Get access to services your friends pay for, instantly and securely.
+- [Braid](http://www.braidchat.com/) - Team-chat app with a novel UI that leads to better conversations. ([Code](https://github.com/braidchat/braid))
 - [Instantish](https://www.itsinstantish.com/) - Chat-first issue tracker.
 - [Reaction Commerce](https://reactioncommerce.com/) - API-first, modular commerce stack made for ambitious brands and retailers. ([Code](https://github.com/reactioncommerce/reaction))
 - [Missive](https://missiveapp.com/) - Collaborative email app where you’ll feel right at home.

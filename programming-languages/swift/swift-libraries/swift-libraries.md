@@ -245,6 +245,8 @@
 - [pure-swift-json](https://github.com/fabianfett/pure-swift-json) - JSON encoding and decoding without the use of Foundation in pure Swift.
 - [aws-sdk-swift-core](https://github.com/swift-aws/aws-sdk-swift-core) - Low-level framework for AWSSDKSwift.
 - [Pathos](https://github.com/dduan/Pathos) - File management and path analysis for Swift.
+- [Shell](https://github.com/tuist/shell) - Library written in Swift to run system commands.
+- [Resilient Decoding](https://github.com/airbnb/ResilientDecoding) - Makes your Decodable types resilient to errors and allows you to inspect those errors.
 
 ## Other (not lib)
 

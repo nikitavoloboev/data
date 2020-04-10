@@ -8,3 +8,4 @@
 - [RAPIDS](https://rapids.ai/) - Open GPU Data Science.
 - [GPU hardware effects](https://github.com/Kobzol/hardware-effects-gpu) - Demonstration of various hardware effects on CUDA GPUs.
 - [Basis Universal GPU Texture Codec](https://github.com/BinomialLLC/basis_universal)
+- [NVIDIA GPU Monitoring Tools](https://github.com/NVIDIA/gpu-monitoring-tools)
