@@ -97,3 +97,5 @@
 - [Google Brain AutoML](https://github.com/google/automl)
 - [Physics Informed Neural Networks](https://github.com/maziarraissi/PINNs) - Data-driven Solutions and Discovery of Nonlinear Partial Differential Equations.
 - [An introduction to Bayesian neural networks (2020)](https://papercup.dev/posts/bayesian-neural-nets/)
+- [PyTorch Neural Turing Machine](https://github.com/loudinthecloud/pytorch-ntm)
+- [PyTorch Neural Turing Machine 2](https://github.com/vlgiitr/ntm-pytorch)

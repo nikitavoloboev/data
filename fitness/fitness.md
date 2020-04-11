@@ -21,3 +21,4 @@ I also enjoy playing sports like football.
 - [Recommended Body Weight Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine)
 - [BodyWeightStrength](https://bodyweightstrength.fit/) - Series of videos designed to take anyone form absolute beginner to a strong, functional physique with minimal equipment.
 - [What is the Most Brutal Training Program?](https://www.reddit.com/r/Fitness/comments/fm3cp7/what_is_the_most_brutal_training_program/)
+- [50 Ironmans, 50 Days, 50 States | James Lawrence (2019)](https://www.youtube.com/watch?v=dhcuSwkGCjE)

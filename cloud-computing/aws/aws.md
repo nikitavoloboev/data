@@ -54,3 +54,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Punchcard](https://github.com/punchcard/punchcard) - Type-safe AWS infrastructure.
 - [Infrastructure as Code on AWS in a familiar language — the right way with InGraph (2020)](https://read.acloud.guru/infrastructure-as-code-on-aws-in-a-familiar-language-the-right-way-ingraph-63a8fb4cfff)
 - [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS.
+- [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
