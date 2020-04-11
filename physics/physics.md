@@ -56,5 +56,5 @@
 - [Roger Penrose | Interview | Gravity, Hawking Points and Twistor Theory (2019)](https://www.youtube.com/watch?v=9Gl8pwY2kW8)
 - [Why is Maxwell’s Theory so hard to understand? (2007)](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf) ([HN](https://news.ycombinator.com/item?id=22810867))
 - [How to learn quantum mechanics on your own (2019)](https://lookingglassuniver.wixsite.com/blog/post/how-to-learn-quantum-mechanics-on-your-own)
-- [Shining a Flashlight on Digital Holography (2020)](https://blog.lookingglassfactory.com/process/shining-a-flashlight-on-digital-holography/)
+- [Shining a Flashlight on Digital Holography (2020)](https://blog.lookingglassfactory.com/process/shining-a-flashlight-on-digital-holography/) ([HN](https://news.ycombinator.com/item?id=22832627))
 - [HN: Scientists use the Tokyo Skytree to test general relativity (2020)](https://news.ycombinator.com/item?id=22831715)

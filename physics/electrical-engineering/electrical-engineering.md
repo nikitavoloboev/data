@@ -10,3 +10,4 @@
 - [Ultimate Electronics Book](https://ultimateelectronicsbook.com/)
 - [I made my own PCBs with a 3D printer](https://www.stavros.io/posts/make-pcbs-at-home/) ([HN](https://news.ycombinator.com/item?id=22327467))
 - [InventHub](https://inventhub.io/) - Collaborate on electronics projects with visual version control built for engineering teams.
+- [Why build an entire computer on breadboards? (2020)](https://www.youtube.com/watch?v=fCbAafKLqC8)

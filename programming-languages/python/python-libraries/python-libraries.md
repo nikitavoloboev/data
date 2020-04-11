@@ -103,8 +103,10 @@
 - [Jug](https://github.com/luispedro/jug) - Parallel programming with Python.
 - [Pingouin](https://github.com/raphaelvallat/pingouin) - Open-source statistical package written in Python 3 and based mostly on Pandas and NumPy.
 - [rpy2](https://github.com/rpy2/rpy2) - Interface to use R from Python.
+- [Forbidden Fruit](https://github.com/clarete/forbiddenfruit) - Allows Python code to extend built-in types.
 
 ## Links
 
 - [PyPi](https://pypi.org/) - Repository of software for the Python programming language.
 - [Twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI.
+- [staged-recipes](https://github.com/conda-forge/staged-recipes) - Place to submit conda recipes before they become fully fledged conda-forge feedstocks.

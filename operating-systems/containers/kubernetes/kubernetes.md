@@ -167,3 +167,4 @@
 - [Rudr](https://github.com/oam-dev/rudr) - Kubernetes Implementation of the Open Application Model.
 - [k3sup](https://github.com/alexellis/k3sup) - Light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM.
 - [CRI-O](https://github.com/cri-o/cri-o) - OCI-based implementation of Kubernetes Container Runtime Interface.
+- [Linkerd](https://github.com/linkerd/linkerd2) - Service mesh for Kubernetes and beyond.

@@ -10,6 +10,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS AppSync](https://aws.amazon.com/appsync/) - Power your applications with the right data, from one or more data sources, at global scale.
 - [AWS Amplify](https://aws-amplify.github.io/) - Build on a flexible, scalable, and reliable serverless backend.
 - [Amazon Neptune](https://aws.amazon.com/neptune/) - Fast, reliable graph database built for the cloud.
+- [RDS Proxy](https://aws.amazon.com/rds/proxy/) - Fully managed, highly available database proxy for Amazon Relational Database Service (RDS).
 
 ## Links
 
