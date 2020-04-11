@@ -51,6 +51,8 @@
 - [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - Intuitive iOS color picker built in Swift.
 - [GradientProgressBar](https://github.com/fxm90/GradientProgressBar) - Customizable gradient progress bar (UIProgressView).
 - [Blob effect implementation with UIKIt](https://github.com/rnkyr/metaballs)
+- [PTCardTabBar](https://github.com/hussc/PTCardTabBar) - Card-Style TabBarController for iOS.
+- [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - Lets you create popups with a blurred background.
 
 ## macOS
 

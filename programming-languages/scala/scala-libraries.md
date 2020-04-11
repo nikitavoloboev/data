@@ -1,5 +1,9 @@
 # Scala libraries
 
+## CLI
+
+- [decline](https://github.com/bkirwi/decline) - Composable command-line parser for Scala.
+
 ## FP
 
 - [Cats](https://github.com/typelevel/cats) - Lightweight, modular, and extensible library for functional programming.

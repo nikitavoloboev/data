@@ -11,3 +11,4 @@
 - [Scheme fatigue (2020)](https://hyper.dev/blog/yet-another-scheme.html)
 - [Advanced Scheme: Some Naughty Bits](https://people.csail.mit.edu/jhbrown/scheme/)
 - [Akku.scm](https://github.com/weinholt/akku) - Language package manager for Scheme.
+- [Nanopass Compiler Library](https://github.com/nanopass/nanopass-framework-scheme) - Embedded DSL for writing compilers in Scheme.

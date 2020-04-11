@@ -47,3 +47,5 @@
 - [Aswath Damodaran's teachings](http://pages.stern.nyu.edu/~adamodar/) ([YouTube](https://www.youtube.com/channel/UCLvnJL8htRR1T9cbSccaoVw/playlists))
 - [Alpaca](https://alpaca.markets/) - API for Stock Trading.
 - [IEX Cloud](https://iexcloud.io/) - Easiest way to use financial data.
+- [Mutiny Investment Strategy](https://mutinyfund.com/about/)
+- [Antifragile Investing: How to Not Be a Turkey](https://taylorpearson.me/antifragile-investing/)
