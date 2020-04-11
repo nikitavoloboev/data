@@ -64,3 +64,4 @@
 - [How to Interview an Executive](http://delian.io/lessons-2)
 - [Perfect questions to ask in your job interview](https://www.keyvalues.com/culture-queries)
 - [The Eng Hiring Bar: What the hell is it? (2020)](http://blog.interviewing.io/the-eng-hiring-bar-what-the-hell-is-it/)
+- [Questions to ask at the end of a technical interview (2017)](https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview) ([HN](https://news.ycombinator.com/item?id=22841164))

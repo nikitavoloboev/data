@@ -11,3 +11,4 @@
 - [Implementations of Game of Life in different languages](https://github.com/domoritz?tab=repositories&q=gameoflife)
 - [Implementation of logical functions in the Game of Life](http://www.rennard.org/alife/CollisionBasedRennard.pdf)
 - [Finding Mona Lisa in the Game of Life](https://kevingal.com/blog/mona-lisa-gol.html)
+- [A Life in Games: John Horton Conway (2015)](https://www.quantamagazine.org/john-conways-life-in-games-20150828/)

@@ -101,6 +101,7 @@
 - [Rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust.
 - [librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library.
 - [TensorFlow](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow.
+- [git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust.
 
 ## Crypto
 

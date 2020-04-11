@@ -57,3 +57,4 @@
 - [PackWatch](https://github.com/mcataford/packwatch) - Keep an eye on your packages' footprint.
 - [Annie Sullivan - Understanding Cumulative Layout Shift (2020)](https://www.youtube.com/watch?v=zIJuY-JCjqw&list=PLSmH2HL6l9pwQmSgpKFtWiISOXua3zq8I&index=15&t=0s)
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
+- [Package Phobia](https://packagephobia.now.sh/) - Find the cost of adding a new dependency to your project. ([Code](https://github.com/styfle/packagephobia))

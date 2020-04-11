@@ -45,6 +45,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Flowkit](https://useflowkit.com/) - User flows right inside your favorite design tool.
 - [Kapwing](https://www.kapwing.com/) - Collaborative platform for creating images, videos, and GIFs.
 - [Animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups on the browser.
+- [Prettier](https://github.com/prettier/prettier) - Opinionated code formatter.
 - [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))
 - [Sonix](https://sonix.ai/) - Transcribe videos from [Zoom](https://sonix.ai/how-to-transcribe-a-zoom-meeting).
 - [Polar Bookshelf](https://getpolarized.io/) - Personal knowledge repository for PDF and web content supporting incremental reading and document annotation. ([Code](https://github.com/burtonator/polar-bookshelf))
