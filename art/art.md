@@ -45,6 +45,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Owen D. Pomery](https://owenpomery.com/work)
 - [Cheryl Young](https://cysketch.com/)
 - [Shusei Nagaoka](https://twitter.com/UrbanFoxxxx/status/1217915945882202112)
+- [Doug John Miller](https://www.instagram.com/dougjohnmiller/)
 - [Harriet Lee-Merrion](https://www.harrietleemerrion.com/)
 - [Pierpaolo Rovero](https://www.instagram.com/pierpaolorovero/)
 - [Moonassi](http://www.moonassi.com/)

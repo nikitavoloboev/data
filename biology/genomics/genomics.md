@@ -16,3 +16,4 @@
 - [BEDOPS](https://github.com/bedops/bedops) - High-performance genomic feature operations.
 - [Introduction to Genetics and Evolution](https://www.coursera.org/learn/genetics-evolution)
 - [Open Targets](https://www.opentargets.org/) - Partnership that uses human genetics and genomics data for systematic drug target identification and prioritisation.
+- [Next-Gen Sequence Analysis Workshop (2019)](https://angus.readthedocs.io/en/2019/)

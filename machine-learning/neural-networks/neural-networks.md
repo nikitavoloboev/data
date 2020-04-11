@@ -99,3 +99,4 @@
 - [An introduction to Bayesian neural networks (2020)](https://papercup.dev/posts/bayesian-neural-nets/)
 - [PyTorch Neural Turing Machine](https://github.com/loudinthecloud/pytorch-ntm)
 - [PyTorch Neural Turing Machine 2](https://github.com/vlgiitr/ntm-pytorch)
+- [Learning DAGs with Continuous Optimization (2020)](https://blog.ml.cmu.edu/2020/04/10/learning-dags-with-continuous-optimization/)
