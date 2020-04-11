@@ -24,6 +24,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Sridhar Ratnakumar](https://github.com/srid/nix-config)
 - [homelab](https://github.com/danderson/homelab) - NixOS configurations for home servers. ([Tweet](https://twitter.com/dave_universetf/status/1236634753765269512))
 - [Henrik Lissner](https://github.com/hlissner/dotfiles)
+- [Edmund Wu](https://github.com/eadwu/nixos-configuration)
 
 ## Nix configs (macOS)
 

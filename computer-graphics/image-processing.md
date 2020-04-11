@@ -15,3 +15,5 @@
 - [stegify](https://github.com/DimitarPetrov/stegify) - Go tool for LSB steganography, capable of hiding any file within an image.
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
 - [Lossless Image Compression through Super-Resolution](https://github.com/caoscott/SReC) ([HN](https://news.ycombinator.com/item?id=22802909))
+- [butteraugli](https://github.com/google/butteraugli) - Estimates the psychovisual difference between two images.
+- [PIK](https://github.com/google/pik) - New lossy/lossless image format for photos and the internet.

@@ -382,6 +382,7 @@
 - [SemVer](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go.
 - [APNS/2](https://github.com/sideshow/apns2) - Simple, flexible and fast Apple Push Notifications on iOS, OSX and Safari using the new HTTP/2 Push provider API.
 - [sanitize](https://github.com/kennygrant/sanitize) - Provides functions for sanitizing text in golang strings.
+- [Flect](https://github.com/gobuffalo/flect) - Inflection engine for golang.
 
 ## Links
 

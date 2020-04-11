@@ -129,3 +129,4 @@
 - [Retrie](https://github.com/facebookincubator/retrie) - Powerful, easy-to-use codemodding tool for Haskell.
 - [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
 - [Lessons in Managing Haskell Memory (2020)](https://tech.channable.com/posts/2020-04-07-lessons-in-managing-haskell-memory.html)
+- [Building a web app with functional programming - Haskell (2020)](https://blog.patchgirl.io/haskell/2020/03/08/haskell-part-I.html)

@@ -39,6 +39,7 @@
 - [hmatrix](https://github.com/haskell-numerics/hmatrix) - Linear algebra and numerical computation.
 - [Alex](https://www.haskell.org/alex/) - Lexical analyser generator for Haskell. ([Code](https://github.com/simonmar/alex))
 - [Megaparsec](https://github.com/mrkkrp/megaparsec) - Industrial-strength monadic parser combinator library.
+- [containers](https://github.com/haskell/containers) - Assorted concrete container types.
 
 ## Links
 

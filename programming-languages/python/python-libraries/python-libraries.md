@@ -104,6 +104,7 @@
 - [Pingouin](https://github.com/raphaelvallat/pingouin) - Open-source statistical package written in Python 3 and based mostly on Pandas and NumPy.
 - [rpy2](https://github.com/rpy2/rpy2) - Interface to use R from Python.
 - [Forbidden Fruit](https://github.com/clarete/forbiddenfruit) - Allows Python code to extend built-in types.
+- [PandaPy](https://github.com/firmai/pandapy) - Has the speed of NumPy and the usability of Pandas (10x to 50x faster).
 
 ## Links
 

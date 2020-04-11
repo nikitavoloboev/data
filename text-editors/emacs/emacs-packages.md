@@ -13,6 +13,10 @@
 
 - [elm-mode](https://github.com/jcollard/elm-mode) - Elm mode for emacs.
 
+## Clojure
+
+- [inf-clojure](https://github.com/clojure-emacs/inf-clojure) - Basic interaction with a Clojure subprocess.
+
 ## Links
 
 - [Good Style in modern Emacs Packages](https://zge.us.to/emacs-style.html) ([Lobsters](https://lobste.rs/s/8yvyz9/good_style_modern_emacs_packages))

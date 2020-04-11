@@ -203,6 +203,8 @@
 - [Change Case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more.
 - [ChronoGraph](https://github.com/bryntum/chronograph) - Reactive, graph-based, computation engine.
 - [Sprotty](https://github.com/eclipse/sprotty) - Diagramming framework for the web.
+- [prerender.js](https://github.com/genderev/prerender.js) - Loads pages quickly on any browser.
+- [on-finished](https://github.com/jshttp/on-finished) - Execute a callback when a request closes, finishes, or errors.
 
 ## Links
 
