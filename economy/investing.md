@@ -45,3 +45,5 @@
 - [Investopedia](https://www.investopedia.com/) - Strives to empower every person to feel in control of their financial future.
 - [MoneyWeek playlists](https://www.youtube.com/user/MoneyWeekVideos/playlists) - Educational videos on finance/investing.
 - [Aswath Damodaran's teachings](http://pages.stern.nyu.edu/~adamodar/) ([YouTube](https://www.youtube.com/channel/UCLvnJL8htRR1T9cbSccaoVw/playlists))
+- [Alpaca](https://alpaca.markets/) - API for Stock Trading.
+- [IEX Cloud](https://iexcloud.io/) - Easiest way to use financial data.

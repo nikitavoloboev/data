@@ -28,3 +28,4 @@
 - [Elm Live](https://www.elm-live.com/) - Flexible dev server for Elm. Live reload included. ([Code](https://github.com/wking-io/elm-live))
 - [Elm News](https://elm-news.com/) - All elm news in one place. ([Code](https://github.com/oakesja/elm-news))
 - [Why I’m leaving Elm (2020)](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/) ([HN](https://news.ycombinator.com/item?id=22821447)) ([Lobsters](https://lobste.rs/s/bgs2z4/why_i_m_leaving_elm))
+- [Building a web app with functional programming - Elm (2020)](https://blog.patchgirl.io/elm/2020/03/02/elm-part-I.html)

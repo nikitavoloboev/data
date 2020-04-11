@@ -73,3 +73,4 @@
 - [Advanced Programming Techniques for Robust Efficient Computing (With C++)](https://www.ece.uvic.ca/~frodo/courses/cpp/) ([Lectures](https://www.ece.uvic.ca/~frodo/cppbook/#2019_05_seng475_videos))
 - [Advanced Data Structures in C++ (2020)](https://eecs.wsu.edu/~aofallon/cpts223/schedule.htm)
 - [Where can you find an advanced C++ software development course? (2020)](https://www.reddit.com/r/cpp/comments/fsqxve/where_can_you_find_an_advanced_c_software/)
+- [Louis Brandy “Curiously Recurring C++ Bugs at Facebook” (2017)](https://www.youtube.com/watch?v=lkgszkPnV8g)
