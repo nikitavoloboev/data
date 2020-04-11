@@ -308,6 +308,7 @@
 - [RustGnuplot](https://github.com/SiegeLord/RustGnuplot) - Rust library for drawing plots, powered by Gnuplot.
 - [handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars.
 - [inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration.
+- [rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust.
 
 ## Cargo Plugins
 

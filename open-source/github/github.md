@@ -82,3 +82,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Reviewable](https://reviewable.io/) - GitHub code reviews done right.
 - [How to Scope Down PRs (2020)](https://www.netlify.com/blog/2020/03/31/how-to-scope-down-prs/)
 - [GitHub Experiments](https://experiments.github.com/) - Explore the future of software development.
+- [Release Please](https://github.com/googleapis/release-please) - Generates GitHub PRs for library releases based on the conventionalcommits.org commit specification and SemVer.

@@ -57,3 +57,4 @@
 - [Why is Maxwell’s Theory so hard to understand? (2007)](https://www.damtp.cam.ac.uk/user/tong/em/dyson.pdf) ([HN](https://news.ycombinator.com/item?id=22810867))
 - [How to learn quantum mechanics on your own (2019)](https://lookingglassuniver.wixsite.com/blog/post/how-to-learn-quantum-mechanics-on-your-own)
 - [Shining a Flashlight on Digital Holography (2020)](https://blog.lookingglassfactory.com/process/shining-a-flashlight-on-digital-holography/)
+- [HN: Scientists use the Tokyo Skytree to test general relativity (2020)](https://news.ycombinator.com/item?id=22831715)

@@ -9,6 +9,10 @@
 - [Org Roam](https://github.com/jethrokuan/org-roam) - Rudimentary Roam replica with Org-mode. ([HN](https://news.ycombinator.com/item?id=22767658))
 - [org-journal](https://github.com/bastibe/org-journal) - Simple org-mode based journaling mode.
 
+## Elm
+
+- [elm-mode](https://github.com/jcollard/elm-mode) - Elm mode for emacs.
+
 ## Links
 
 - [Good Style in modern Emacs Packages](https://zge.us.to/emacs-style.html) ([Lobsters](https://lobste.rs/s/8yvyz9/good_style_modern_emacs_packages))
