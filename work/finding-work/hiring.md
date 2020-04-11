@@ -28,3 +28,4 @@
 - [Reference checks](https://jackealtman.com/reference-checks)
 - [How to Become a Magnet for Talent and Assess Talent (2019)](http://delian.io/lessons-5)
 - [When is a senior engineer not a senior engineer?](http://www.mooreds.com/wordpress/archives/2812)
+- [The software industry's greatest sin: hiring (2020)](https://www.neilwithdata.com/developer-hiring) ([HN](https://news.ycombinator.com/item?id=22828932))

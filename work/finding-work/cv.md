@@ -60,4 +60,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Modern LaTeX CV template](https://github.com/fanzeyi/cv)
 - [Resume Review thread](https://dev.to/kaydacode/resume-review-1oei)
 - [Let’s talk about your resume (2020)](https://hugogiraudel.com/2020/01/13/lets-talk-about-your-resume/)
-- [markdown-cv](https://github.com/elipapa/markdown-cv) - Simple template to write your CV in a readable markdown file and use CSS to publish/print it.
+- [markdown-cv](https://github.com/elipapa/markdown-cv) - Simple template to write your CV in a readable markdown file and use CSS to publish/print it. ([Example](https://elipapa.github.io/mycv/extended))

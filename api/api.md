@@ -9,7 +9,7 @@
 - [GitHub Rust](https://github.com/softprops/hubcaps)
 - [GitHub Gists Python](https://github.com/softvar/simplegist) - Advanced python wrapper for Github Gist API.
 - [tweetlord](https://github.com/snovvcrash/tweetlord) - Twitter profile dumper (downloader) with authorization swapping.
-- [Hacker News](https://github.com/HackerNews/API)
+- [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
 - [Dropbox JS](https://github.com/dropbox/dropbox-sdk-js) - Dropbox JavaScript SDK.
 - [Twitter Python](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.
