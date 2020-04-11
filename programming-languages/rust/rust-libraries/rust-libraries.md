@@ -74,6 +74,7 @@
 - [Drill](https://github.com/fcsonline/drill) - HTTP load testing application written in Rust inspired by Ansible syntax.
 - [Loom](https://github.com/tokio-rs/loom) - Concurrency permutation testing tool for Rust.
 - [Mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust.
+- [ctest](https://github.com/gnzlbg/ctest) - Automated testing of FFI bindings in Rust.
 
 ## Error
 

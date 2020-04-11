@@ -32,6 +32,7 @@ Here are few more things I liked, design wise.
 - [Naval](https://nav.al/)
 - [Joe Groff](http://duriansoftware.com/joe/)
 - [Marius Schulz](https://mariusschulz.com/)
+- [The Worst Dev](https://theworst.dev/)
 
 ## Products
 

@@ -27,3 +27,4 @@ Here are tools I use for streaming:
 - [obs-cli](https://github.com/muesli/obs-cli) - Command-line remote control for OBS.
 - [Vito](https://vito.community/) - Live-streaming delightful events and growing your community online.
 - [How to get started live streaming on Twitch and YouTube (2020)](https://mattstauffer.com/blog/how-to-get-started-live-streaming-on-twitch-and-youtube/)
+- [My Livestreaming Setup (2020)](https://theworst.dev/my-livestreaming-setup/)
