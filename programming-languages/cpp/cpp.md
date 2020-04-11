@@ -75,3 +75,4 @@
 - [Where can you find an advanced C++ software development course? (2020)](https://www.reddit.com/r/cpp/comments/fsqxve/where_can_you_find_an_advanced_c_software/)
 - [Louis Brandy “Curiously Recurring C++ Bugs at Facebook” (2017)](https://www.youtube.com/watch?v=lkgszkPnV8g)
 - [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer) - Memory error detector for C/C++.
+- [CMakeStarter](https://github.com/TheLartians/CPPStarter) - Template for modern C++ libraries and projects.

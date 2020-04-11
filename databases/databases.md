@@ -16,6 +16,7 @@
 - [Bolt](https://github.com/etcd-io/bbolt) - Embedded key/value database for Go.
 - [InfluxDB](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics. ([Web](https://www.influxdata.com/))
 - [EdgeDB](https://github.com/edgedb/edgedb) - Open-source object-relational database built on top of PostgreSQL.
+- [Cassandra](https://github.com/apache/cassandra) - Highly-scalable partitioned row store. Rows are organized into tables with a required primary key.
 - [Scylla](https://www.scylladb.com/) - Drop-in Apache Cassandra alternative big data database that powers your applications with ultra-low latency and extremely high throughput, while reducing TCO to a fraction of most NoSQL databases. [OSS](https://github.com/scylladb/scylla).
 - [JanusGraph](https://github.com/JanusGraph/janusgraph) - Open-source, distributed graph database.
 - [LevelDB](https://github.com/google/leveldb) - Fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.

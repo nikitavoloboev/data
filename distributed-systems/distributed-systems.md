@@ -73,3 +73,4 @@
 - [Performance Under Load (2018)](https://medium.com/@NetflixTechBlog/performance-under-load-3e6fa9a60581)
 - [Veneur](https://github.com/stripe/veneur) - Distributed, fault-tolerant pipeline for runtime data.
 - [Going multi-region](https://www.stopa.io/post/239)
+- [List of distributed systems reading lists](https://gist.github.com/macintux/6227368)

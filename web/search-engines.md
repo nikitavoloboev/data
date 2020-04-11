@@ -21,3 +21,4 @@
 - [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency.
 - [Milvus](https://github.com/milvus-io/milvus) - Open source vector similarity search engine. ([Web](https://milvus.io/))
 - [PISA](https://github.com/pisa-engine/pisa) - Performant Indexes and Search for Academia. ([HN](https://news.ycombinator.com/item?id=22574459))
+- [Apache Lucene](https://github.com/apache/lucene-solr) - High-performance, full featured text search engine library written in Java. ([Awesome](https://github.com/Anant/awesome-lucene#readme))

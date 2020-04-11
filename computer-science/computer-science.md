@@ -37,4 +37,6 @@
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 - [Foundational knowledge for programmers](https://github.com/err0r500/foundational-knowledge-for-programmers#readme)
 - [Computer Science Ontology (CSO)](http://cso.kmi.open.ac.uk/home) - Large-scale ontology of research areas that was automatically generated using the Klink-2 algorithm.
-- [Surprisingly Turing-Complete (2012)](https://www.gwern.net/Turing-complete)
+- [Surprisingly Turing-Complete (2012)](https://www.gwern.net/Turing-complete) ([HN](https://news.ycombinator.com/item?id=22839035))
+- [Harnessing vision for computation (2008)](https://www.gwern.net/docs/www/www.changizi.com/82e766ee9a407241bcbcfd5b9e2c69d1083ecba1.pdf)
+- [The Morning Paper](https://blog.acolyer.org/) - Short summary every weekday of an important, influential, topical or otherwise interesting paper in the field of computer science.

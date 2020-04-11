@@ -227,3 +227,4 @@ Go promotes composition over inheritance.
 - [Go Binaries](https://github.com/tj/gobinaries) - On-demand binary server, allowing non-Go users to quickly install tools written in Go without installing go itself. ([Article](https://cto.ai/blog/on-demand-go-binaries/))
 - [gosize](https://github.com/bradfitz/gosize) - Analyze size of Go binaries.
 - [tre](https://github.com/zegl/tre) - LLVM backed Go compiler.
+- [Statically compiling Go programs (2020)](https://www.arp242.net/static-go.html)
