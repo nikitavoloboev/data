@@ -56,7 +56,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Ben Lynn](http://www-cs-students.stanford.edu/~blynn/)
 - [Greg's wiki](https://mywiki.wooledge.org/EnglishFrontPage)
 - [Ioannis Kourouklides](https://wiki.kourouklides.com/wiki/Main_Page)
-- [Dmitrii Gerasimov](https://beepb00p.xyz/)
+- [Dmitrii Gerasimov](https://beepb00p.xyz/) ([Code](https://github.com/karlicoss/beepb00p))
 - [Flavio Copes](https://flaviocopes.com/)
 - [Ellie's wiki](https://ellie.wiki/) ([Code](https://github.com/elliebike/wiki))
 - [Max Stoiber's notes](https://notes.mxstbr.com/Evergreen_notes)

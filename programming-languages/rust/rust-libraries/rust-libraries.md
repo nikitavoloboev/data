@@ -47,6 +47,7 @@
 - [postgres-query](https://github.com/nolanderc/rust-postgres-query) - Write and execute SQL queries with ease.
 - [Rusqlite](https://github.com/jgallagher/rusqlite) - Ergonomic bindings to SQLite for Rust.
 - [Wundergraph](https://github.com/weiznich/wundergraph) - Provides a platform to easily expose your database through a GraphQL interface.
+- [bolt-rs](https://github.com/lucis-fluxum/bolt-rs) - Communicate with Bolt-compatible graph databases in Rust.
 
 ## Graphics
 
@@ -305,6 +306,7 @@
 - [desert](https://github.com/substack/desert) - Traits for {de,}serializing compact binary formats.
 - [etcd](https://github.com/jimmycuadra/rust-etcd) - Etcd client library for Rust.
 - [RustGnuplot](https://github.com/SiegeLord/RustGnuplot) - Rust library for drawing plots, powered by Gnuplot.
+- [handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars.
 
 ## Cargo Plugins
 

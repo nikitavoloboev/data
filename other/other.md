@@ -159,3 +159,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Another Google-like Go short link service](https://github.com/kellegous/go)
 - [process-viewer](https://github.com/GuillaumeGomez/process-viewer) - Process viewer GUI in rust.
 - [Cowbird](http://cowbird.com/) - Public library of human experience.
+- [Redsand](https://redsand.io/) - Find partners for software projects. ([HN](https://news.ycombinator.com/item?id=22840728))

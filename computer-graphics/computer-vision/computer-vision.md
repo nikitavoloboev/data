@@ -40,3 +40,5 @@
 - [Avatarify](https://github.com/alievk/avatarify) - Avatars for Zoom and Skype.
 - [SPSR](https://github.com/Maclory/SPSR) - PyTorch implementation of Structure-Preserving Super Resolution with Gradient Guidance.
 - [OISR-PyTorch](https://github.com/HolmesShuan/OISR-PyTorch) - PyTorch implementation of "ODE-inspired Network Design for Single Image Super-Resolution.
+- [3D Photography using Context-aware Layered Depth Inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting)
+- [CenterMask : Real-Time Anchor-Free Instance Segmentation](https://github.com/youngwanLEE/CenterMask)

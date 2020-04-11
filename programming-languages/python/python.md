@@ -84,3 +84,4 @@
 - [Full Stack FastAPI and PostgreSQL - Base Project Generator](https://github.com/tiangolo/full-stack-fastapi-postgresql)
 - [Byterun](https://github.com/nedbat/byterun) - Python implementation of a Python bytecode runner.
 - [Clean Code Python](https://github.com/zedr/clean-code-python#readme)
+- [cython](https://github.com/cython/cython) - Most widely used Python to C compiler.

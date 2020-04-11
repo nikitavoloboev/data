@@ -201,6 +201,7 @@
 - [Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript.
 - [Xterm.js](https://github.com/xtermjs/xterm.js) - Terminal for the web.
 - [Change Case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more.
+- [ChronoGraph](https://github.com/bryntum/chronograph) - Reactive, graph-based, computation engine.
 
 ## Links
 
