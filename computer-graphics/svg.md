@@ -25,3 +25,4 @@
 - [Creating a Gauge in React (2020)](https://wattenberger.com/blog/gauge)
 - [XVG](https://xvg.now.sh/) - Chrome extension for debugging SVG paths by converting them to outlines and displaying anchors, control points, handles and arc ellipses. ([Code](https://github.com/winkerVSbecks/xvg))
 - [path-data-parser](https://github.com/pshihn/path-data-parser) - SVG Path Parser.
+- [points-on-path](https://github.com/pshihn/points-on-path) - Estimate point on a SVG path.
