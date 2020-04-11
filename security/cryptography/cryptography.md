@@ -1,5 +1,9 @@
 # Cryptography
 
+## Notes
+
+- [The megatrend in cryptography of the 2010s was elliptic curves, pairings and general purpose ZKPs/SNARKs. The megatrend of the 2020s will be (in addition to broad adoption of the above) lattices, LWE, multilinear maps, homomorphic encryption, MPC and obfuscation.](https://twitter.com/VitalikButerin/status/1248704356758753281)
+
 ## Links
 
 - [Making Private Communication Simple - Moxie Marlinspike](https://www.youtube.com/watch?v=kp-b8iTZqzM)

@@ -27,3 +27,4 @@
 - [Good Product Strategy, Bad Product Strategy (2020)](https://twitter.com/shreyas/status/1244810075908128768)
 - [North Star Playbook](https://amplitude.com/north-star) - Guide to discovering your product’s North Star.
 - [Principles of Product Design](http://bokardo.com/principles-of-product-design/)
+- [Ask HN: How to properly manage a product roadmap? (2020)](https://news.ycombinator.com/item?id=22827275)
