@@ -37,3 +37,4 @@
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 - [Foundational knowledge for programmers](https://github.com/err0r500/foundational-knowledge-for-programmers#readme)
 - [Computer Science Ontology (CSO)](http://cso.kmi.open.ac.uk/home) - Large-scale ontology of research areas that was automatically generated using the Klink-2 algorithm.
+- [Surprisingly Turing-Complete (2012)](https://www.gwern.net/Turing-complete)
