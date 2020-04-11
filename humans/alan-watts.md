@@ -40,3 +40,4 @@ The one book I read by him and loved is [Wisdom of Insecurity](https://antilogic
 - [Alan Watts searchable speech](https://wattsalan.github.io/) - Search here parts of speech that Alan Watts has said.
 - [Best way to learn Alan Watts teachings](https://www.reddit.com/r/AlanWatts/comments/fniq1d/best_way_to_learn_alan_watts_teachings/)
 - [Alan Watts Live Radio | Lectures & Talks](https://www.youtube.com/watch?v=VD4m2jc9S90)
+- [Alan Watts Speeches](https://archive.org/details/AlanWattsSpeeches/)

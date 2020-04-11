@@ -22,3 +22,4 @@ I split the app into 2 columns on mac.
 - [Tweetbot 3 URL Schemes](https://tapbots.net/tweetbot3/support/url-schemes/)
 - [How I use Twitter (2018)](https://krausefx.com/blog/how-i-use-twitter)
 - [Twitter Lists](https://github.com/AndySparks/captains-log/blob/master/resources/reading-lists/twitter-lists.md)
+- [Instant Twitter Search](https://twitter-search.io/) - Instantly search across your entire Twitter history with a beautiful UI powered by Algolia. ([Code](https://github.com/saasify-sh/twitter-search))

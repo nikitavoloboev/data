@@ -26,3 +26,6 @@
 - [Hardcore History Podcast](https://www.dancarlin.com/hardcore-history-series/) ([Overcast](https://overcast.fm/itunes173001861/dan-carlins-hardcore-history))
 - [10 math history books](https://wiki.ezvid.com/best-history-of-mathematics-books)
 - [NASA history books](https://history.nasa.gov/books_sort_SP.html)
+- [Awesome Computer History](https://github.com/watson/awesome-computer-history#readme)
+- [Computer History Museum videos](https://www.youtube.com/user/ComputerHistory/videos)
+- [Designing and programming computers history](https://www.bl.uk/voices-of-science/themes/designing-and-programming-computers)

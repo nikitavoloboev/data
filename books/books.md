@@ -186,3 +186,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Public Books Database](https://www.publicbooks.org/public-books-database/)
 - [LibriVox](https://librivox.org/) - Free public domain audiobooks.
 - [Standard Ebooks](https://standardebooks.org/ebooks/)
+- [SafariBooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from Safari Books Online library.

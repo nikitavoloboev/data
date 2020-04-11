@@ -380,6 +380,7 @@
 - [hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go.
 - [systray](https://github.com/getlantern/systray) - Cross platfrom Go library to place an icon and menu in the notification area.
 - [SemVer](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go.
+- [APNS/2](https://github.com/sideshow/apns2) - Simple, flexible and fast Apple Push Notifications on iOS, OSX and Safari using the new HTTP/2 Push provider API.
 
 ## Links
 
