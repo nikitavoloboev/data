@@ -14,3 +14,4 @@
 - [Awesome GANs with TensorFlow](https://github.com/kozistr/Awesome-GANs#readme)
 - [How to make a pizza: Learning a compositional layer-based GAN model (2019)](https://arxiv.org/abs/1906.02839)
 - [GANSpace: Discovering Interpretable GAN Controls](https://github.com/harskish/ganspace)
+- [Time-series Generative Adversarial Networks](https://github.com/firmai/tsgan)

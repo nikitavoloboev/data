@@ -14,3 +14,4 @@
 - [BioMed Sanity](http://biomed-sanity.com/) - Aspires to help the influx of bioRxiv / medRxiv papers on COVID-19. ([Code](https://github.com/karpathy/covid-sanity))
 - [Why can't we use live SARS-CoV-2 as a Covid-19 vaccine? (2020)](https://www.reddit.com/r/askscience/comments/fwuyem/why_cant_we_use_live_sarscov2_as_a_covid19_vaccine/)
 - [TCN Protocol](https://github.com/TCNCoalition/TCN) - Specification and reference implementation of the CEN Protocol for decentralized, privacy-preserving contact tracing.
+- [Auspice](https://nextstrain.github.io/auspice/) - Interactive exploration of phylodynamic & phylogenomic data. ([Code](https://github.com/nextstrain/auspice))

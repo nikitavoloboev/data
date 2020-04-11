@@ -89,3 +89,4 @@
 - [Common Workflow Language](https://www.commonwl.org/) - Open standard for describing analysis workflows and tools. ([HN](https://news.ycombinator.com/item?id=21538003))
 - [Apache Kudu](https://github.com/apache/kudu) - Completes Hadoop's storage layer to enable fast analytics on fast data.
 - [Time Series Forecasting Best Practices & Examples](https://github.com/microsoft/forecasting)
+- [Turing Way](https://the-turing-way.netlify.com/introduction/introduction) - Lightly opinionated guide to reproducible data science. ([Code](https://github.com/alan-turing-institute/the-turing-way))

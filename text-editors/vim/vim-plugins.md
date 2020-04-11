@@ -119,7 +119,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Rust
 
-- [Rust](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
+- [Rust support for coc.nvim](https://github.com/neoclide/coc-rls)
 
 ## Python
 
