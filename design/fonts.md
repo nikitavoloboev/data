@@ -52,3 +52,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Type Studies](https://typestudies.com/)
 - [Practical Typography](https://practicaltypography.com/)
 - [Showcase of OpenType Features](https://otf.show/hlig) ([Code](https://github.com/dvkndn/otf.show))
+- [monospacifier.py](https://github.com/cpitclaudel/monospacifier) - Great way to increase the Unicode coverage of your favorite programming font.

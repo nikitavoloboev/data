@@ -34,6 +34,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [byuu](https://github.com/byuu/byuu) - Multi-system emulator focused on performance, features, and ease of use.
 - [QEMU](https://github.com/qemu/qemu) - Generic and open source machine & userspace emulator and virtualizer.
 - [Quickemu](https://github.com/wimpysworld/quickemu) - Simple script to "manage" Qemu virtual machines.
+- [Lisa Emulator](https://github.com/rayarachelian/lisaem)
 
 ## Links
 

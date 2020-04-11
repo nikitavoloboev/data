@@ -5,6 +5,10 @@
 - [Opium](https://github.com/rgrinberg/opium) - Sinatra like web toolkit for OCaml.
 - [OCaml On Ice](https://github.com/roddyyaga/ocoi) - Web framework for OCaml in the style of Ruby on Rails.
 
+## Test
+
+- [Alcotest](https://github.com/mirage/alcotest) - Lightweight and colorful test framework.
+
 ## Science
 
 - [Owl](https://github.com/owlbarn/owl) - OCaml library for scientific and engineering computing. ([HN](https://news.ycombinator.com/item?id=20449595))
