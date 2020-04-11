@@ -9,3 +9,4 @@
 - [Covariant](https://covariant.ai/) - AI Robotics for the Real World. ([Article](https://medium.com/covariant-ai/bringing-robots-from-lab-to-the-real-world-56062ee93dd5))
 - [Underactuated Robotics](http://underactuated.csail.mit.edu/underactuated.html) - Algorithms for Walking, Running, Swimming, Flying, and Manipulation.
 - [VIPER - Volume Invariant Position-based Elastic Rods](https://github.com/vcg-uvic/viper)
+- [Machine learning & Robotics: My (biased) 2019 state of the field](http://cachestocaches.com/2019/12/my-state-of-the-field/)

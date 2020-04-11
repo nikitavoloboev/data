@@ -40,3 +40,4 @@
 - [Surprisingly Turing-Complete (2012)](https://www.gwern.net/Turing-complete) ([HN](https://news.ycombinator.com/item?id=22839035))
 - [Harnessing vision for computation (2008)](https://www.gwern.net/docs/www/www.changizi.com/82e766ee9a407241bcbcfd5b9e2c69d1083ecba1.pdf)
 - [The Morning Paper](https://blog.acolyer.org/) - Short summary every weekday of an important, influential, topical or otherwise interesting paper in the field of computer science.
+- [List of recommended CS readings](https://github.com/amilajack/reading)

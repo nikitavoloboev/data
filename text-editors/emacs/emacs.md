@@ -10,6 +10,7 @@ Might give it a go sometime.
 
 - [Radian](https://github.com/raxod502/radian) - Dotfiles that marry elegance and practicality.
 - [Rakhim](https://github.com/freetonik/emacs-dotfiles)
+- [Gregory Stein](https://github.com/gjstein/emacs.d)
 
 ## Links
 
