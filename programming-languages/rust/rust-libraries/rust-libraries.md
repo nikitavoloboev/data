@@ -307,6 +307,7 @@
 - [etcd](https://github.com/jimmycuadra/rust-etcd) - Etcd client library for Rust.
 - [RustGnuplot](https://github.com/SiegeLord/RustGnuplot) - Rust library for drawing plots, powered by Gnuplot.
 - [handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars.
+- [inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration.
 
 ## Cargo Plugins
 

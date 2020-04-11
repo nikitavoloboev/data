@@ -76,3 +76,4 @@
 - [Louis Brandy “Curiously Recurring C++ Bugs at Facebook” (2017)](https://www.youtube.com/watch?v=lkgszkPnV8g)
 - [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer) - Memory error detector for C/C++.
 - [CMakeStarter](https://github.com/TheLartians/CPPStarter) - Template for modern C++ libraries and projects.
+- [CPM.cmake](https://github.com/TheLartians/CPM.cmake) - CMake script that adds dependency management capabilities to CMake.
