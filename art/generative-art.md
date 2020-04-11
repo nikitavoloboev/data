@@ -32,3 +32,4 @@
 - [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art#readme)
 - [Nervous System](https://n-e-r-v-o-u-s.com/index.php) - Generative design studio that works at the intersection of science, art, and technology.
 - [Experiments in generative art](https://sketchbook.netlify.com/) ([Code](https://github.com/winkerVSbecks/sketchbook))
+- [WEIR-A](https://github.com/inconvergent/weir) - System for making generative systems.

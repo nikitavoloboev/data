@@ -3,7 +3,9 @@
 ## Links
 
 - [UniMath](https://github.com/UniMath/UniMath) - Coq library aims to formalize a substantial body of mathematics using the univalent point of view.
-- [Mathematical Components](https://math-comp.github.io/mcb/) - Library of formalized mathematics for the Coq system.
+- [Mathematical Components](https://math-comp.github.io/) - Libraries of formalized mathematics developed using the Coq proof assistant.
+- [Mathematical Components book](https://math-comp.github.io/mcb/)
+- [Mathematical Components compliant Analysis Library](https://github.com/math-comp/analysis)
 - [QuickChick](https://github.com/QuickChick/QuickChick) - Randomized Property-Based Testing Plugin for Coq.
 - [CoqHammer](https://github.com/lukaszcz/coqhammer) - Automated Reasoning Hammer Tool for Coq.
 - [coq-ext-lib](https://github.com/coq-ext-lib/coq-ext-lib) - Library of Coq definitions, theorems, and tactics.
