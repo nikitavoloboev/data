@@ -51,7 +51,7 @@
 - [spacy-transformers](https://github.com/explosion/spacy-transformers) - spaCy pipelines for pre-trained BERT, XLNet and GPT-2.
 - [AllenNLP](https://github.com/allenai/allennlp) - Open-source NLP research library, built on PyTorch.
 - [GloVe](https://github.com/stanfordnlp/GloVe) - Global Vectors for Word Representation.
-- [Botpress](https://github.com/botpresThe Transformer Family (2020)s/botpress) - Open-source Virtual Assistant platform.
+- [Botpress](https://github.com/botpress/botpress) - Open-source Virtual Assistant platform.
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - Hackable open source voice assistant. ([HN](https://news.ycombinator.com/item?id=22702195))
 - [VizSeq](https://github.com/facebookresearch/vizseq) - Visual Analysis Toolkit for Text Generation Tasks.
 - [Awesome Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme)

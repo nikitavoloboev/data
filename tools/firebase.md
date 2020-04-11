@@ -11,3 +11,4 @@
 - [Typesaurus](https://github.com/kossnocorp/typesaurus) - Type-safe TypeScript-first ODM for Firestore.
 - [Backup Fire](https://backupfire.dev/) - Private and secure backups for your Firebase projects.
 - [Firebase SDK for Cloud Functions](https://github.com/firebase/firebase-functions)
+- [ReactFire](https://github.com/FirebaseExtended/reactfire) - Hooks, Context Providers, and Components that make it easy to interact with Firebase.
