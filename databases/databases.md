@@ -67,6 +67,7 @@
 - [QuestDB](https://github.com/questdb/questdb) - Relational database with ultimate time-series performance.
 - [Prometheus](https://github.com/prometheus/prometheus) - Systems and service monitoring system. ([Docker](https://github.com/vegasbrianc/prometheus))
 - [Akumuli](https://github.com/akumuli/Akumuli) - Time-series database.
+- [SSDB](https://github.com/ideawu/ssdb) - Redis compatible NoSQL database stored on disk.
 
 ## Tools
 

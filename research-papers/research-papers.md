@@ -37,3 +37,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Better BibTeX for Zotero](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts.
 - [ACM Digital Library](https://dl.acm.org/) - Research, discovery and networking platform. ([HN](https://news.ycombinator.com/item?id=22794984))
 - [Deep Learning Paper Summaries](https://github.com/vlgiitr/papers_we_read#readme)
+- [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)

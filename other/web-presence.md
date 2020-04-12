@@ -30,7 +30,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Indie Hackers](https://www.indiehackers.com/user/nikivi) - Awesome community of hackers and entrepreneurs.
 - [Mastodon](https://merveilles.town/@nikivi) - Awesome federated network. Part of [Merveilles.town](https://merveilles.town/).
 - [Meetup](https://www.meetup.com/members/185347053/) - Attending various groups and meeting new interesting people and communities.
-- [Linkedin](https://www.linkedin.com/in/nikitavoloboev) - My online CV.
+- [LinkedIn](https://www.linkedin.com/in/nikitavoloboev) - My online CV.
 - [Facebook](https://facebook.com/nikitavoloboev) - Not used much.
 - [Spectrum](https://spectrum.chat/users/nikivi?tab=posts)
 - [VK](https://vk.com/nikitavoloboev)
