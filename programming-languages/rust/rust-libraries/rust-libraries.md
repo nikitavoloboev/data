@@ -118,6 +118,7 @@
 ## Other
 
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser.
+- [serde](https://github.com/serde-rs/serde) - Serialization framework for Rust .
 - [pyo3](https://github.com/PyO3/pyo3)
 - [actix](https://github.com/actix/actix)
 - [tokio](https://github.com/tokio-rs/tokio)

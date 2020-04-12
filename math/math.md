@@ -127,3 +127,4 @@
 - [Short book recommendations on advanced topics? (2020)](https://www.reddit.com/r/math/comments/fuyvcc/short_book_recommendations_on_advanced_topics/)
 - [Are there any notable mathematicians/scientists that struggled with math but became prominent in their fields? (2020)](https://www.reddit.com/r/math/comments/fxbp7s/are_there_any_notable_mathematiciansscientists/)
 - [Intuitive Explanations](https://intuitiveexplanations.com/) - Understand, don't memorize. ([Code](https://github.com/raxod502/intuitive-explanations))
+- [Books to study math from first principles (2020)](https://twitter.com/dan_abramov/status/1249344084981972992)
