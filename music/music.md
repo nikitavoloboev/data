@@ -26,3 +26,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Music for Programming](http://musicforprogramming.net/) ([HN](https://news.ycombinator.com/item?id=21771600))
 - [Currents](https://a.currents.fm) - Playlist platform that directly supports independent music.
 - [Bandcamp](https://bandcamp.com/) - Service for artists and labels to share and earn money from their music, and for fans to discover and enjoy it.
+- [ListenBrainz](https://listenbrainz.org/) - Track songs you listen too like LastFM. ([Code](https://github.com/metabrainz/listenbrainz-server))
