@@ -74,6 +74,7 @@ Below is a list of extensions I use.
 - [Duplicate action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate) - Ability to duplicate files in VS Code. ([Code](https://github.com/mrmlnc/vscode-duplicate))
 - [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) - Automatic time tracking and metrics generated from your programming activity.
 - [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) - Advanced VSCode user interface customizations. ([Code](https://github.com/iocave/customize-ui))
+- [Task Manager](https://github.com/cnshenj/vscode-task-manager) - Manages tasks in Visual Studio Code in a custom activity view.
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Real-time collaborative development from the comfort of your favorite tools.
 - [CodeSandbox](https://marketplace.visualstudio.com/items?itemName=yesmeck.codesandbox) - Bring CodeSandbox into your favorite editor.
 - [Rewrap](https://marketplace.visualstudio.com/items?itemName=stkb.rewrap) - Re-wraps comments and other text to a given line length.

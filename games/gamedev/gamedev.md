@@ -45,3 +45,4 @@
 - [Game Programming Patterns](http://gameprogrammingpatterns.com/) - Collection of patterns I found in games that make code cleaner, easier to understand, and faster.
 - [Tracy Profiler](https://github.com/wolfpld/tracy) - Real time, nanosecond resolution, remote telemetry frame profiler for games and other applications.
 - [Network Next](https://www.networknext.com/) - Lets game developers boost network performance for their players.
+- [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool. ([Code](https://github.com/aseprite/aseprite))

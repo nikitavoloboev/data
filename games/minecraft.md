@@ -8,3 +8,4 @@
 - [Go-MC](https://github.com/Tnze/go-mc) - Golang library of Minecraft protocol for creating bots or server.
 - [Docker image that provides a Minecraft Server that will automatically download selected version at startup](https://github.com/itzg/docker-minecraft-server)
 - [Minecraft made in CSS3D](https://github.com/Calada2/Minecraft)
+- [Feather](https://github.com/feather-rs/feather) - Experimental Minecraft server implementation written in Rust.

@@ -47,6 +47,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Shusei Nagaoka](https://twitter.com/UrbanFoxxxx/status/1217915945882202112)
 - [Doug John Miller](https://www.instagram.com/dougjohnmiller/)
 - [Harriet Lee-Merrion](https://www.harrietleemerrion.com/)
+- [Daniel Castro Maia](https://www.dcmaia.art/)
 - [Pierpaolo Rovero](https://www.instagram.com/pierpaolorovero/)
 - [Moonassi](http://www.moonassi.com/)
 - [Pascal Campion](https://www.instagram.com/pascalcampionart/)

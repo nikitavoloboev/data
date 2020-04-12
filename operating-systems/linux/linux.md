@@ -95,3 +95,5 @@
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor.
 - [Subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
 - [nohang](https://github.com/hakavlad/nohang) - Sophisticated low memory handler for Linux.
+- [Firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox.
+- [rust.ko](https://github.com/tsgates/rust.ko) - Minimal Linux kernel module written in rust.

@@ -49,6 +49,10 @@
 
 - [NodeJS Instagram private API client](https://github.com/dilame/instagram-private-api)
 
+## React
+
+- [state-machines-in-react](https://github.com/tanem/state-machines-in-react) - Small React, xstate and Framer Motion demo.
+
 ## Other
 
 - [micro github](https://github.com/mxstbr/micro-github) - Tiny microservice that makes adding authentication with GitHub to your application easy.

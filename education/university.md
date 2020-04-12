@@ -86,3 +86,4 @@ There are many more things that simply would not happen if I didn't try new thin
 
 - [Should you go to university? (2019)](https://jwmza.com/thoughts/should-you-go-to-university/)
 - [CODE](https://code.berlin/en/) - Newly founded private university of applied sciences that is embedded into the vibrant network of Berlin’s digital economy.
+- [List of all universities in the world in CSV](https://github.com/endSly/world-universities-csv)

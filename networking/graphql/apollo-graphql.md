@@ -8,3 +8,4 @@
 - [Apollo Federation (2019)](https://blog.apollographql.com/apollo-federation-f260cf525d21) - Revolutionary architecture for building a distributed graph.
 - [apollo-cache-persist](https://github.com/apollographql/apollo-cache-persist) - Simple persistence for all Apollo Cache implementations.
 - [Hermes](https://github.com/convoyinc/apollo-cache-hermes) - Cache For Apollo Client.
+- [Apollo Client 3 State Management Examples](https://github.com/apollographql/ac3-state-management-examples)

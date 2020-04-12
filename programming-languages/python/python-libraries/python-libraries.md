@@ -9,7 +9,7 @@
 
 ## ML
 
-- [JAX](https://github.com/google/jax) - GPU- and TPU-backed NumPy with differentiation and JIT compilation.
+- [JAX](https://github.com/google/jax) - GPU- and TPU-backed NumPy with differentiation and JIT compilation. ([HN](https://news.ycombinator.com/item?id=22812312))
 - [Autograd](https://github.com/HIPS/autograd) - Efficiently computes derivatives of numpy code.
 - [GluonTS](https://github.com/awslabs/gluon-ts) - Probabilistic time series modeling in Python.
 - [GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python.

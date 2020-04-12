@@ -94,3 +94,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Lobsters: How do you name your hosts? (2020)](https://lobste.rs/s/28cup4/how_do_you_name_your_hosts)
 - [libnekit](https://github.com/zhuhaow/libnekit) - Efficient and Flexible Network Utility Library.
 - [R2](https://github.com/gopakumarce/R2) - Network packet forwarding engine in Rust.
+- [packetdrill](https://github.com/google/packetdrill) - Enables quick, precise tests for entire TCP/UDP/IPv4/IPv6 network stacks, from the system call layer down to the NIC hardware.

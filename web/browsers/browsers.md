@@ -27,3 +27,5 @@
 - [Web Store Upload CLI](https://github.com/DrewML/chrome-webstore-upload-cli) - CLI wrapper around the Web Store Upload module.
 - [Kasaya](https://github.com/syscolabs/kasaya) - Scripting language and runtime for browser automation. ([HN](https://news.ycombinator.com/item?id=22374991))
 - [Browser Startup Comparison (2020)](https://www.netmeister.org/blog/browser-startup.html)
+- [WebdriverIO](https://github.com/webdriverio/webdriverio) - Next-gen browser automation test automation framework for Node.js.
+- [rust-minibrowser](https://github.com/joshmarinacci/rust-minibrowser) - Mini-browser written in rust.

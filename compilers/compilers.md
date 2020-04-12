@@ -75,3 +75,4 @@
 - [Zig cc: A drop-in replacement for GCC/Clang (2020)](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html) ([HN](https://news.ycombinator.com/item?id=22679138)) ([Lobsters](https://lobste.rs/s/dw9qyv/zig_cc_powerful_drop_replacement_for_gcc))
 - [Basics of Compiler Design (2000)](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf) ([HN](https://news.ycombinator.com/item?id=21778546))
 - [Modern Compiler Implementation in ML book (1998)](https://www.cs.princeton.edu/~appel/modern/ml/) ([Rust code](https://github.com/antoyo/tiger-rs))
+- [Efficient Deconstruction with Typed Pointer Reversal (2019)](https://hal.inria.fr/hal-02177326v2)

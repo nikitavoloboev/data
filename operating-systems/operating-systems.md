@@ -28,6 +28,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [XNU kernel](https://github.com/apple/darwin-xnu) - Part of the Darwin operating system for use in macOS and iOS operating systems.
 - [Haiku](https://github.com/haiku/haiku) - Open-source operating system that specifically targets personal computing.
 - [Pebble](https://github.com/IsaacWoods/pebble) - Microkernel and userspace written in Rust, with first-class message passing.
+- [seL4 microkernel](https://github.com/seL4/seL4) ([Article](https://microkerneldude.wordpress.com/2020/04/07/the-sel4-foundation-what-and-why/)) ([HN](https://news.ycombinator.com/item?id=22801864))
 
 ## Emulators
 
@@ -35,6 +36,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [QEMU](https://github.com/qemu/qemu) - Generic and open source machine & userspace emulator and virtualizer.
 - [Quickemu](https://github.com/wimpysworld/quickemu) - Simple script to "manage" Qemu virtual machines.
 - [Lisa Emulator](https://github.com/rayarachelian/lisaem)
+- [Shoebill](https://github.com/pruten/shoebill) - Macintosh II emulator that runs A/UX (and A/UX only).
 
 ## Links
 
@@ -85,3 +87,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [System Programming course](http://cs241.cs.illinois.edu/coursebook/) - High-quality, open-source introductory systems programming textbook. ([Code](https://github.com/illinois-cs241/coursebook))
 - [Green Threads Explained in Rust](https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/) ([Code](https://github.com/cfsamson/example-greenthreads)) ([Reddit](https://www.reddit.com/r/rust/comments/bzp0cz/green_threads_explained_in_200_lines_of_rust/))
 - [Solo5](https://github.com/Solo5/solo5) - Sandboxed execution environment for unikernels.
+- [Mbox](https://pdos.csail.mit.edu/archive/mbox/) - Lightweight sandboxing mechanism that any user can use without special privileges in commodity operating systems. ([Code](https://github.com/tsgates/mbox))

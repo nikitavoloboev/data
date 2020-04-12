@@ -102,6 +102,7 @@
 - [librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library.
 - [TensorFlow](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow.
 - [git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust.
+- [llama](https://github.com/zshipko/llama) - Friendly LLVM library for Rust.
 
 ## Crypto
 
@@ -311,6 +312,7 @@
 - [handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars.
 - [inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration.
 - [rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust.
+- [CFG Aliases](https://github.com/katharostech/cfg_aliases) - Tiny utility to help save you a lot of effort with long winded `#[cfg()]` checks in Rust.
 
 ## Cargo Plugins
 

@@ -217,3 +217,4 @@
 - [Deep Unsupervised Learning (2020)](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 - [Machine Learning: a Probabilistic Perspective book](https://www.cs.ubc.ca/~murphyk/MLbook/) ([Code](https://github.com/probml/pyprobml))
 - [Introduction to Machine Learning - Carnegie Mellon University (2019)](http://www.cs.cmu.edu/%7Eninamf/courses/315sp19/)
+- [Notes on ML courses](https://github.com/alisher0717/machine-learning-notes)
