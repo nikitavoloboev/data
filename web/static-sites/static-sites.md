@@ -31,3 +31,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Netlify Search Index Plugin](https://github.com/sw-yx/netlify-plugin-search-index) - Generate a Search Index you can query via a static JSON blob or a Netlify Function.
 - [What static site generator and theme do you use for your blog (2020)](https://lobste.rs/s/h491m8/what_static_site_generator_theme_do_you)
 - [Stork](https://github.com/jameslittle230/stork) - Impossibly fast web search, made for static sites.
+- [Blazing fast math rendering on the web](http://bollu.github.io/#blazing-fast-math-rendering-on-the-web) ([Lobsters](https://lobste.rs/s/bhykd6/blazing_fast_math_rendering_on_web))

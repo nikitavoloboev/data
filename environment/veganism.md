@@ -32,3 +32,5 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Eclipse Foods](https://www.eclipsefoods.com/) - Plant-based dairy products that require no sacrifice, ever.
 - [Impossible Foods](https://impossiblefoods.com/) - Cruelty free alternative to meat.
 - [Cheat sheet on various tropes against vegan discourse](https://wiki.xxiivv.com/site/vegan.html)
+- [Disregard for creature welfare is often central to disease. But politicians won’t dare make the connection](https://www.theguardian.com/commentisfree/2020/apr/11/surely-the-link-between-abusing-animals-and-the-worlds-health-is-now-clear)
+- [5 Modern Diseases on the Rise Because of Factory Farming](https://www.onegreenplanet.org/animalsandnature/5-modern-diseases-on-the-rise-because-of-factory-farming/)

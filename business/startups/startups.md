@@ -140,6 +140,7 @@
 - [High Growth Handbook](http://growth.eladgil.com/)
 - [Wardley maps](https://medium.com/wardleymaps) - Topographical intelligence in business. ([As Book](https://github.com/andrewharmellaw/wardley-maps-book))
 - [Founder's Field Guide for Navigating Crisis (2020)](https://firstround.com/review/the-founders-field-guide-for-navigating-this-crisis-advice-from-recession-era-leaders-investors-and-ceos-currently-at-the-helm/) ([HN](https://news.ycombinator.com/item?id=22826354))
+- [Seven tough lessons from ten years in bootstrapped business (2018)](https://likewise.am/2018/12/01/seven-tough-lessons-from-ten-years-in-bootstrapped-business/)
 
 ## Images
 

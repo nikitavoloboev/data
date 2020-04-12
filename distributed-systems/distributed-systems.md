@@ -74,3 +74,4 @@
 - [Veneur](https://github.com/stripe/veneur) - Distributed, fault-tolerant pipeline for runtime data.
 - [Going multi-region](https://www.stopa.io/post/239)
 - [List of distributed systems reading lists](https://gist.github.com/macintux/6227368)
+- [Complexities of Capacity Management for Distributed Services (2020)](https://www.youtube.com/watch?v=pOo0oKNM9I8)

@@ -123,3 +123,4 @@
 - [Styling Ordered Lists with CSS Counters (2020)](https://joshwcomeau.com/css/styling-ordered-lists-with-css-counters/)
 - [postcss-trash-killer](https://github.com/Rammfall/postcss-trash-killer) - Postcss plugin which wil be remove all unused css.
 - [Solved with CSS! Logical Styling Based on the Number of Given Elements (2018)](https://css-tricks.com/solved-with-css-logical-styling-based-on-the-number-of-given-elements/)
+- [CSS Doodle](https://css-doodle.com/) - Web component for drawing patterns with CSS. ([Code](https://github.com/css-doodle/css-doodle))

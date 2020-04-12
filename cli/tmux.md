@@ -8,3 +8,4 @@
 - [Awesome Tmux](https://github.com/rothgar/awesome-tmux#readme)
 - [tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - Lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator.
 - [Session Sauce](https://github.com/ChrisPenner/session-sauce) - Shell plugin for managing tmux sessions.
+- [3mux](https://github.com/aaronjanse/3mux/) - Terminal multiplexer inspired by i3. ([Lobsters](https://lobste.rs/s/fs98xy/terminal_multiplexer_inspired_by_i3)) ([HN](https://news.ycombinator.com/item?id=22843705))

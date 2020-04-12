@@ -114,3 +114,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Ultra Runner](https://github.com/folke/ultra-runner) - Ultra fast monorepo script runner and build tool.
 - [git-fame](https://github.com/casperdcl/git-fame) - Pretty-print git repository collaborators sorted by contributions.
 - [Collection of .gitignore templates](https://github.com/github/gitignore)
+- [CS Visualized: Useful Git Commands (2020)](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
