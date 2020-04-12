@@ -7,3 +7,4 @@
 - [hyperbolic](https://github.com/cduck/hyperbolic) - Python 3 library for generating hyperbolic geometry and drawing it.
 - [Topos Theory course](https://johncarlosbaez.wordpress.com/2020/01/05/topos-theory-part-1/)
 - [Discrete Differential Geometry Forum](http://ddg.cs.columbia.edu/)
+- [GeoGebra](https://www.geogebra.org/) - Dynamic mathematics software.

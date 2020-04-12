@@ -14,3 +14,5 @@
 - [CSS Grid Template Areas In Action (2020)](https://ishadeed.com/article/grid-area/)
 - [How to Stack Elements in CSS (2020)](https://css-tricks.com/how-to-stack-elements-in-css/)
 - [CSS Grid N2P Videos](https://www.youtube.com/playlist?list=PLBHbfZu_dhOca_FpdUccB2KfjPfW1zklZ)
+- [Build a Classic Layout FAST in CSS Grid (2019)](https://www.youtube.com/watch?v=KOvGeFUHAC0)
+- [Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid/)
