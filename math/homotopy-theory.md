@@ -16,3 +16,4 @@
 - [Introduction to Homotopy Type Theory](https://github.com/EgbertRijke/HoTT-Intro)
 - [Homotopy type theory in Lean 3](https://github.com/gebner/hott3)
 - [Workshop on Homotopy Type Theory/ Univalent Foundations (2020)](https://hott-uf.github.io/2020/)
+- [homotopy.io](https://ncatlab.org/nlab/show/homotopy.io) - Web-based proof assistant for finitely-presented globular n-categories, for arbitrary n.

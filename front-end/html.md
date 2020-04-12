@@ -33,3 +33,4 @@
 - [hyper(HTML)](https://github.com/WebReflection/hyperHTML) - Fast & Light Virtual DOM Alternative available for Node.js and NativeScript too.
 - [Open Graph Image as a Service](https://github.com/zeit/og-image) - Serverless service that generates dynamic Open Graph images that you can embed in your <meta> tags.
 - [Responsive Images the Simple Way (2020)](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
+- [sahtml-query](https://github.com/mdevils/sahtml-query) - Fast and low memory query API for HTML (node.js).

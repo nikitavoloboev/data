@@ -253,6 +253,8 @@
 - [Penguin](https://github.com/saeta/penguin) - Explore the ideas of data frames, accelerated compute, tables, data structures, and distributed data in Swift.
 - [CasePaths](https://github.com/pointfreeco/swift-case-paths) - Brings the power and ergonomics of key paths to enums.
 - [LoggingFormatAndPipe](https://github.com/Adorkable/swift-log-format-and-pipe) - Allows for formatting and redirecting log lines.
+- [ConsistencyManager](https://github.com/plivesey/ConsistencyManager) - Library that manages consistency of immutable models.
+- [CSProgress](https://github.com/CharlesJS/CSProgress) - Higher-performing, easier-to-use replacement class for Apple's NSProgress, written in Swift.
 
 ## Other (not lib)
 
