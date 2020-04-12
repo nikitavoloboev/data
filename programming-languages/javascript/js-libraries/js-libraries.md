@@ -217,3 +217,4 @@
 
 - [NPM](https://www.npmjs.com) - Node package manager registry.
 - [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio#readme)
+- [Awesome XState](https://github.com/darrylhebbes/awesome_xstate#readme)

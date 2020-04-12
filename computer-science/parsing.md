@@ -10,7 +10,7 @@
 - [DDL](https://github.com/yeslogic/ddl) - Declarative data definition language for formally specifying binary data formats.
 - [JSON Parser with JavaScript](https://lihautan.com/json-parser-with-javascript/) ([HN](https://news.ycombinator.com/item?id=21772336))
 - [Parsing 18 billion JSON lines with Go (2019)](https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2)
-- [Parsing JSON Really Quickly: Lessons Learned (2019)](https://www.youtube.com/watch?v=wlvKAT7SZIQ)
+- [Parsing JSON Really Quickly: Lessons Learned (2019)](https://www.youtube.com/watch?v=wlvKAT7SZIQ) ([Article](https://blog.metaobject.com/2020/04/somewhat-less-lethargic-json-support.html))
 - [Functional Parsing - Computerphile (2020)](https://www.youtube.com/watch?v=dDtZLm7HIJs)
 - [Common Expression Language](https://github.com/google/cel-spec) - Implements common semantics for expression evaluation, enabling different applications to more easily interoperate.
 - [Awesome Unified](https://github.com/unifiedjs/awesome-unified#readme)

@@ -14,6 +14,7 @@
 - [BeepBox](https://beepbox.co/) - Online tool for sketching and sharing instrumental melodies. ([Code](https://github.com/johnnesky/beepbox))
 - [BlokDust](https://blokdust.com/) - Web-based music making app. ([Code](https://github.com/BlokDust/BlokDust))
 - [Eternal](https://eternal.robcheung.com/) - Create music using nodes. ([Code](https://github.com/kousun12/eternal))
+- [norns](https://github.com/monome/norns) - Many sound instruments.
 
 ## Inspiration
 
@@ -46,3 +47,4 @@
 - [Music Theory for Musicians and Normal People](https://tobyrush.com/theorypages/index.html) ([HN](https://news.ycombinator.com/item?id=21297462))
 - [Faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis.
 - [How I recorded an album on my own, in my room](https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9) ([HN](https://news.ycombinator.com/item?id=22591972))
+- [Monome](https://monome.org/) - Sound machines for the exploration time and space. ([Code](https://github.com/monome/docs))
