@@ -118,3 +118,4 @@
 - [What is the React Scheduler? (2020)](https://ahuth.github.io/articles/what-is-the-react-scheduler.html)
 - [33 line React](https://leontrolski.github.io/33-line-react.html) ([HN](https://news.ycombinator.com/item?id=22776753))
 - [Vidact](https://github.com/mohebifar/vidact) - Compiler that converts React-compatible codes to VanillaJS with no Virtual DOM.
+- [Under the hood: React](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/) - Entire React code base explanation by visual block schemes (Stack version). ([Code](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS))

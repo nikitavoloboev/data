@@ -62,3 +62,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Modern MacOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 - [xcnotary](https://github.com/akeru-inc/xcnotary) - Missing macOS app notarization helper, built with Rust. ([HN](https://news.ycombinator.com/item?id=22743659))
 - [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS.
+- [Proxy Audio Driver](https://github.com/briankendall/proxy-audio-device) - Virtual audio driver for macOS to sends all audio to another output.
