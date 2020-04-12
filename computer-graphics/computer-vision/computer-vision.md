@@ -42,3 +42,4 @@
 - [OISR-PyTorch](https://github.com/HolmesShuan/OISR-PyTorch) - PyTorch implementation of "ODE-inspired Network Design for Single Image Super-Resolution.
 - [3D Photography using Context-aware Layered Depth Inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting)
 - [CenterMask : Real-Time Anchor-Free Instance Segmentation](https://github.com/youngwanLEE/CenterMask)
+- [Interview with Dmytro Mushkin | Computer Vision Research | Kaggle, ML & Education (2020)](https://www.youtube.com/watch?v=lWwkbiufwNE)

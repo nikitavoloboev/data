@@ -52,6 +52,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Moonassi](http://www.moonassi.com/)
 - [Pascal Campion](https://www.instagram.com/pascalcampionart/)
 - [Bastien Grivet](https://www.artstation.com/grivetart)
+- [Samuel Smith](https://www.artstation.com/samsamstudio)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
 - [Robert Beatty](https://www.robertbeattyart.com/)
