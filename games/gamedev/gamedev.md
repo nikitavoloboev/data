@@ -46,3 +46,5 @@
 - [Tracy Profiler](https://github.com/wolfpld/tracy) - Real time, nanosecond resolution, remote telemetry frame profiler for games and other applications.
 - [Network Next](https://www.networknext.com/) - Lets game developers boost network performance for their players.
 - [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool. ([Code](https://github.com/aseprite/aseprite))
+- [GameDev in Rust](https://arewegameyet.com/) ([Code](https://github.com/rust-gamedev/arewegameyet))
+- [Rust Game Development Working Group](https://rust-gamedev.github.io/) ([Code](https://github.com/rust-gamedev/wg))
