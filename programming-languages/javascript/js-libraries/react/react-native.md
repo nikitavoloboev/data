@@ -72,3 +72,4 @@
 - [react-native-actions-sheet](https://github.com/ammarahm-ed/react-native-actions-sheet) - Highly customizable cross platform ActionSheet for react native.
 - [FastImage](https://github.com/DylanVann/react-native-fast-image) - Performant React Native image component.
 - [RN Upgrade Support](https://github.com/react-native-community/upgrade-support) - Central community-backed place to request and give help when upgrading your app.
+- [Stacks](https://github.com/mobily/stacks) - Build React Native views blazingly fast.

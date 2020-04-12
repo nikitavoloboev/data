@@ -25,6 +25,7 @@
 - [Mendes](https://github.com/djc/mendes) - Rust web toolkit for impatient perfectionists.
 - [Roa](https://github.com/Hexilee/roa) - Async web framework inspired by koajs, lightweight but powerful.
 - [rweb](https://github.com/kdy1/rweb) - Yet another web server framework for rust.
+- [Tower Web](https://github.com/carllerche/tower-web) - Web framework for Rust with a focus on removing boilerplate.
 
 ## WASM
 
@@ -318,6 +319,7 @@
 - [salsa](https://github.com/salsa-rs/salsa) - Generic framework for on-demand, incrementalized computation.
 - [Bytes](https://github.com/tokio-rs/bytes) - Utility library for working with bytes.
 - [Internment](https://github.com/droundy/internment) - Interning of data in rust.
+- [merkle-tree-stream](https://github.com/datrs/merkle-tree-stream) - Stream that generates a merkle tree based on the incoming data.
 
 ## Cargo Plugins
 

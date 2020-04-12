@@ -42,6 +42,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Flotato](https://flotato.com/) - Turn any web page into a Mac app.
 - [Autumn](https://github.com/apandhi/Autumn) - MacOS window manager built for JavaScript hackers.
 - [Zappy](https://zapier.com/zappy) - Screen capture tool. ([HN](https://news.ycombinator.com/item?id=22815227))
+- [BlockBlock](https://github.com/objective-see/BlockBlock) - Provides continual protection by monitoring persistence locations.
 
 ## Links
 

@@ -12,3 +12,4 @@
 - [Implementation of logical functions in the Game of Life](http://www.rennard.org/alife/CollisionBasedRennard.pdf)
 - [Finding Mona Lisa in the Game of Life](https://kevingal.com/blog/mona-lisa-gol.html)
 - [A Life in Games: John Horton Conway (2015)](https://www.quantamagazine.org/john-conways-life-in-games-20150828/)
+- [Wasm Game Of Life](https://github.com/gus3inov/wasm-game-of-life) - Game of life with WebAssembly.
