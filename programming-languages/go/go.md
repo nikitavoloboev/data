@@ -229,3 +229,4 @@ Go promotes composition over inheritance.
 - [tre](https://github.com/zegl/tre) - LLVM backed Go compiler.
 - [Statically compiling Go programs (2020)](https://www.arp242.net/static-go.html)
 - [Understanding bytes in Go by building a TCP protocol (2020)](https://ieftimov.com/post/understanding-bytes-golang-build-tcp-protocol/)
+- [Go Quirks (2020)](https://blog.sbstp.ca/go-quirks/)

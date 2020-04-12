@@ -40,6 +40,7 @@
 - [Alex](https://www.haskell.org/alex/) - Lexical analyser generator for Haskell. ([Code](https://github.com/simonmar/alex))
 - [Megaparsec](https://github.com/mrkkrp/megaparsec) - Industrial-strength monadic parser combinator library.
 - [containers](https://github.com/haskell/containers) - Assorted concrete container types.
+- [relude](https://github.com/kowainik/relude) - Safe, performant, user-friendly and lightweight Haskell standard library.
 
 ## Links
 

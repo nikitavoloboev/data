@@ -49,3 +49,4 @@
 - [How I recorded an album on my own, in my room](https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9) ([HN](https://news.ycombinator.com/item?id=22591972))
 - [Monome](https://monome.org/) - Sound machines for the exploration time and space. ([Code](https://github.com/monome/docs))
 - [Low Level Norns](https://github.com/PaulBatchelor/norns-lowlevel) - Small snippets of C code that do relatively low-level things on the norns.
+- [SuperCollider](https://github.com/supercollider/supercollider) - Platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound.

@@ -12,3 +12,5 @@
 - [Gerapy](https://github.com/Gerapy/Gerapy) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js.
 - [Ask HN: Best practices for ethical web scraping? (2020)](https://news.ycombinator.com/item?id=22778089)
 - [Newscatcher](https://newscatcherapi.com/) - Programmatically collect normalized news from (almost) any website. ([Code](https://github.com/kotartemiy/newscatcher))
+- [scrapio](https://github.com/Koshqua/scrapio) - Simple and easy-to-use scraper and crawler in Go.
+- [Colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang.
