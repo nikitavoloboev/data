@@ -162,3 +162,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Redsand](https://redsand.io/) - Find partners for software projects. ([HN](https://news.ycombinator.com/item?id=22840728))
 - [The illusion of understanding](https://meaningness.com/understanding)
 - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) ([HN](https://news.ycombinator.com/item?id=16184255))
+- [WhyTheName](https://wiki.debian.org/WhyTheName) ([HN](https://news.ycombinator.com/item?id=22790623))

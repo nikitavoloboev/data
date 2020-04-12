@@ -31,7 +31,6 @@
 - [Intel(r) SPMD Program Compiler](https://github.com/ispc/ispc) - Compiler for a variant of the C programming language, with extensions for single program, multiple data programming.
 - [hobbes](https://github.com/Morgan-Stanley/hobbes) - Language and an embedded JIT compiler.
 - [Crafting Interpreters book](http://www.craftinginterpreters.com/) ([Code](https://github.com/munificent/craftinginterpreters))
-- [Crafting "Crafting Interpreters" (2020)](http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/) ([HN](https://news.ycombinator.com/item?id=22788738))
 - [Compiling a Functional Language Using C++, Part 0 - Intro (2019)](https://danilafe.com/blog/00_compiler_intro/)
 - [Compiling at Compile Time (2019)](https://blog.veitheller.de/Compiling_at_Compile_Time.html)
 - [MLIR: Multi-Level Intermediate Representation for Compiler Infrastructure - Tatiana Shpeisman, Chris Lattner (2019)](https://www.youtube.com/watch?v=qzljG6DKgic)
@@ -76,3 +75,4 @@
 - [Basics of Compiler Design (2000)](http://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf) ([HN](https://news.ycombinator.com/item?id=21778546))
 - [Modern Compiler Implementation in ML book (1998)](https://www.cs.princeton.edu/~appel/modern/ml/) ([Rust code](https://github.com/antoyo/tiger-rs))
 - [Efficient Deconstruction with Typed Pointer Reversal (2019)](https://hal.inria.fr/hal-02177326v2)
+- [Scripts for building compilers that run anywhere, which build things that run anywhere](https://github.com/theopolis/build-anywhere)

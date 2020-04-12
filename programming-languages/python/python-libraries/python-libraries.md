@@ -32,6 +32,7 @@
 
 - [psycopg2](https://github.com/psycopg/psycopg2) - Python-PostgreSQL Database Adapter.
 - [Databases](https://github.com/encode/databases) - Gives you simple asyncio support for a range of databases.
+- [aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python.
 
 ## Other
 

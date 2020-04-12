@@ -47,6 +47,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups on the browser.
 - [Prettier](https://github.com/prettier/prettier) - Opinionated code formatter.
 - [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))
+- [Wire](https://wire.com/en/) - Modern day collaboration meets the most advanced security and superior user experience. ([Code](https://github.com/wireapp/wire))
 - [Sonix](https://sonix.ai/) - Transcribe videos from [Zoom](https://sonix.ai/how-to-transcribe-a-zoom-meeting).
 - [Polar Bookshelf](https://getpolarized.io/) - Personal knowledge repository for PDF and web content supporting incremental reading and document annotation. ([Code](https://github.com/burtonator/polar-bookshelf))
 - [Jami](https://jam.link/) - Get access to services your friends pay for, instantly and securely.
@@ -146,7 +147,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Tettra](https://tettra.co/) - Knowledge management system for high-performance teams.
 - [UIBot](http://www.uibot.app/) - Experiment on how far one could automate the generation of visual designs, what kinds of advantages it would lead to and what issues one would face.
 - [Response](https://github.com/monzo/response) - Monzo's real-time incident response and reporting tool.
-- [rclone](https://github.com/rclone/rclone) - Command line program to sync files and directories to and from different cloud storage providers.
+- [Rclone](https://github.com/rclone/rclone) - Command line program to sync files and directories to and from different cloud storage providers. ([HN](https://news.ycombinator.com/item?id=22791036))
 - [Pandoc](https://github.com/jgm/pandoc) - Universal markup converter.
 - [fswatch](https://github.com/emcrisostomo/fswatch) - File change monitor that receives notifications when the contents of the specified files or directories are modified.
 - [UserMirror](https://usermirror.com/) - Reliable services to build privacy-first systems.

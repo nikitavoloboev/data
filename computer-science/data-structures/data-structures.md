@@ -24,3 +24,4 @@
 - [JavaScript Data Structures and Algorithms](https://github.com/JoeKarlsson/data-structures)
 - [Implementing a Key-Value Store series](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 - [Open Data Structures](http://opendatastructures.org/) - Provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations. ([Code](https://github.com/patmorin/ods))
+- [A new analysis of the false positive rate of a Bloom filter (2009)](https://www.csee.usf.edu/~kchriste/energy/ipl10.pdf)

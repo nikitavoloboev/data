@@ -210,6 +210,8 @@
 - [Sprotty](https://github.com/eclipse/sprotty) - Diagramming framework for the web.
 - [prerender.js](https://github.com/genderev/prerender.js) - Loads pages quickly on any browser.
 - [on-finished](https://github.com/jshttp/on-finished) - Execute a callback when a request closes, finishes, or errors.
+- [ColorFns](https://github.com/baianat/color-fns) - Modern JavaScript color utilities library.
+- [grapheme-splitter](https://github.com/orling/grapheme-splitter) - JavaScript library that breaks strings into their individual user-perceived characters.
 
 ## Links
 

@@ -9,6 +9,7 @@
 
 ## Web
 
+- [H2](https://github.com/hyperium/h2) - Tokio aware, HTTP/2.0 client & server implementation for Rust.
 - [Thruster](https://github.com/trezm/Thruster) - Fast, middleware based, web framework written in Rust.
 - [actix web](https://github.com/actix/actix-web) - Small, pragmatic, and extremely fast rust web framework
 - [stdweb](https://github.com/koute/stdweb) - Standard library for the client-side Web.
@@ -313,6 +314,9 @@
 - [inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration.
 - [rust-ctor](https://github.com/mmastrac/rust-ctor) - Module initialization/global constructor functions for Rust.
 - [CFG Aliases](https://github.com/katharostech/cfg_aliases) - Tiny utility to help save you a lot of effort with long winded `#[cfg()]` checks in Rust.
+- [salsa](https://github.com/salsa-rs/salsa) - Generic framework for on-demand, incrementalized computation.
+- [Bytes](https://github.com/tokio-rs/bytes) - Utility library for working with bytes.
+- [Internment](https://github.com/droundy/internment) - Interning of data in rust.
 
 ## Cargo Plugins
 

@@ -187,3 +187,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [LibriVox](https://librivox.org/) - Free public domain audiobooks.
 - [Standard Ebooks](https://standardebooks.org/ebooks/)
 - [SafariBooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from Safari Books Online library.
+- [Crafting "Crafting Interpreters" (2020)](http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/) ([HN](https://news.ycombinator.com/item?id=22788738))

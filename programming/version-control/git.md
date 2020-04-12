@@ -113,3 +113,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Git Cola](https://git-cola.github.io/) - Sleek and powerful graphical user interface for Git. ([Code](https://github.com/git-cola/git-cola))
 - [Ultra Runner](https://github.com/folke/ultra-runner) - Ultra fast monorepo script runner and build tool.
 - [git-fame](https://github.com/casperdcl/git-fame) - Pretty-print git repository collaborators sorted by contributions.
+- [Collection of .gitignore templates](https://github.com/github/gitignore)

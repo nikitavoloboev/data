@@ -22,3 +22,4 @@
 - [Containers vs. Zones vs. Jails vs. VMs (2017)](https://blog.jessfraz.com/post/containers-zones-jails-vms/) ([HN](https://news.ycombinator.com/item?id=22797688))
 - [Lightweight containers using Linux user namespaces](https://github.com/arachsys/containers)
 - [Build and run containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/container-toolkit)
+- [fanal](https://github.com/aquasecurity/fanal) - Static Analysis Library for Containers.

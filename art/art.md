@@ -75,6 +75,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Mari K](https://www.artstation.com/madmaraca)
 - [Cody Leigh Bond](https://www.etsy.com/shop/CodyLeighBond)
 - [Android Jones](http://androidjones.com/)
+- [Nate Rudichuk](https://www.artstation.com/naterudichuk)
 - [Jan Pypers](https://www.instagram.com/janpypers/)
 - [Eugene Golovanchuk](https://www.theskeeva.com/)
 - [Andrew Williamson](https://andrewwilliamson.net/)
@@ -161,6 +162,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Toto Tvalavadze](https://photos.codedesigncoffee.net/)
 - [Alex Robertson](https://www.behance.net/alexr)
 - [Simon Sarris](https://www.instagram.com/simonsarris/)
+- [Bradley G Munkowitz](https://photo.gmunk.com/) ([Lake Tahoe](https://photo.gmunk.com/2020-Lake-Tahoe))
 
 ## Notes
 

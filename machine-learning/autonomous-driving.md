@@ -8,3 +8,4 @@
 - [OpenPilot](https://github.com/commaai/openpilot) - Open source driving agent.
 - [CARLA Simulator](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research.
 - [Deep Reinforcement Learning for Autonomous Driving: A Survey (2020)](https://arxiv.org/abs/2002.00444)
+- [Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving](https://github.com/mileyan/Pseudo_Lidar_V2)

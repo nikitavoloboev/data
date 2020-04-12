@@ -29,6 +29,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Haiku](https://github.com/haiku/haiku) - Open-source operating system that specifically targets personal computing.
 - [Pebble](https://github.com/IsaacWoods/pebble) - Microkernel and userspace written in Rust, with first-class message passing.
 - [seL4 microkernel](https://github.com/seL4/seL4) ([Article](https://microkerneldude.wordpress.com/2020/04/07/the-sel4-foundation-what-and-why/)) ([HN](https://news.ycombinator.com/item?id=22801864))
+- [Barebones amd64 kernel built using 9front](https://github.com/majiru/barebones9)
 
 ## Emulators
 
@@ -37,6 +38,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Quickemu](https://github.com/wimpysworld/quickemu) - Simple script to "manage" Qemu virtual machines.
 - [Lisa Emulator](https://github.com/rayarachelian/lisaem)
 - [Shoebill](https://github.com/pruten/shoebill) - Macintosh II emulator that runs A/UX (and A/UX only).
+- [PCE.js](https://github.com/jsdf/pce) - Emulates Mac Plus, PC, & Atari ST in asm.js & WebAssembly.
 
 ## Links
 

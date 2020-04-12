@@ -384,6 +384,8 @@
 - [sanitize](https://github.com/kennygrant/sanitize) - Provides functions for sanitizing text in golang strings.
 - [Flect](https://github.com/gobuffalo/flect) - Inflection engine for golang.
 - [TamaGo](https://github.com/f-secure-foundry/tamago) - Bare metal Go for ARM SoCs.
+- [Bloom filters](https://github.com/willf/bloom) - Bloom filter is a representation of a set of n items, where the main requirement is to make membership queries; i.e., whether an item is a member of a set.
+- [goph](https://github.com/melbahja/goph) - Native golang ssh client to execute your commands over ssh connection.
 
 ## Links
 

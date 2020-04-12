@@ -14,7 +14,7 @@
 
 ## Links
 
-- [What happens when I type kubectl run](https://github.com/jamiehannaford/what-happens-when-k8s#readme)
+- [What happens when I type kubectl run](https://github.com/jamiehannaford/what-happens-when-k8s#readme) ([HN](https://news.ycombinator.com/item?id=22785652))
 - [Helm](https://helm.sh/) - Kubernetes package manager.
 - [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice)
 - [kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes.
@@ -168,3 +168,4 @@
 - [k3sup](https://github.com/alexellis/k3sup) - Light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM.
 - [CRI-O](https://github.com/cri-o/cri-o) - OCI-based implementation of Kubernetes Container Runtime Interface.
 - [Linkerd](https://github.com/linkerd/linkerd2) - Service mesh for Kubernetes and beyond.
+- [Predictive Horizontal Pod Autoscaler](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler)

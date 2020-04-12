@@ -25,3 +25,4 @@
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy#readme)
 - [DHT](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
 - [Intermodal](https://rodarmor.com/blog/intermodal) - New command-line BitTorrent metainfo utility. ([Code](https://github.com/casey/intermodal))
+- [pimp-my-box](https://github.com/pyroscope/pimp-my-box) - Automated seedbox install of rTorrent-PS and PyroScope CLI etc. via Ansible.

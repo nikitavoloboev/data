@@ -61,3 +61,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Mu](https://github.com/akkartik/mu) - Minimal-dependency hobbyist computing stack (everything above the processor and OS kernel).
 - [Mu: A minimal hobbyist computing stack (2019)](http://akkartik.name/post/mu-2019-1)
 - [Bitsy](https://github.com/apbendi/bitsyspec) - Best language to implement when writing your first compiler or interpreter.
+- [codespan-reporting](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.

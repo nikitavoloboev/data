@@ -42,3 +42,4 @@
 - [Dockercraft](https://github.com/docker/dockercraft) - Simple Minecraft Docker client, to visualize and manage Docker containers.
 - [Harbour](https://github.com/rrroyal/Harbour) - Docker/Portainer client for iOS (and iPadOS) written in SwiftUI.
 - [into-docker](https://github.com/into-docker/into-docker) - Lets you build and run applications relying on common frameworks or build tools without ever having to write another Dockerfile.
+- [Docker CE](https://github.com/docker/docker-ce) - Hosts open source components of Docker CE products.

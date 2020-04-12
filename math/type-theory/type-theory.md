@@ -46,3 +46,4 @@
 - [Papers and talks around type inference](http://stedolan.net/research/#mlsub)
 - [Low-Level Liquid Types](http://goto.ucsd.edu/~rjhala/papers/low_level_liquid_types.pdf)
 - [PRL Project](http://www.nuprl.org/) - Implementing computational mathematics and providing logic-based tools that help automate programming.
+- [Code is Engineering; Types are Science (2020)](https://www.tweag.io/posts/2020-03-05-peirce.html) ([HN](https://news.ycombinator.com/item?id=22791187))

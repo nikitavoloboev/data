@@ -15,6 +15,7 @@
 - [Multivariate Statistics](https://github.com/JuliaStats/MultivariateStats.jl) - Julia package for multivariate statistics and data analysis (e.g. dimension reduction).
 - [RandomizedLinAlg.jl](https://github.com/haampie/RandomizedLinAlg.jl) - Randomized algorithms for numerical linear algebra in Julia.
 - [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) - ⟨Leibniz-Grassmann-Clifford⟩ differential geometric algebra / multivector simplicial complex.
+- [PencilFFTs.jl](https://github.com/jipolanco/PencilFFTs.jl) - Fast Fourier transforms of MPI-distributed Julia arrays.
 
 ## Biology
 

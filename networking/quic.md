@@ -13,3 +13,4 @@
 - [LiteSpeed QUIC and HTTP/3 Library](https://github.com/litespeedtech/lsquic)
 - [Accelerating UDP packet transmission for QUIC (2020)](https://blog.cloudflare.com/accelerating-udp-packet-transmission-for-quic/)
 - [QUIC draft 25 documents](https://twitter.com/SimmerVigor/status/1219802475177353217)
+- [goquic](https://github.com/devsisters/goquic) - QUIC support for Go.
