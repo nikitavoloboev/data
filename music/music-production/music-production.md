@@ -14,7 +14,7 @@
 - [BeepBox](https://beepbox.co/) - Online tool for sketching and sharing instrumental melodies. ([Code](https://github.com/johnnesky/beepbox))
 - [BlokDust](https://blokdust.com/) - Web-based music making app. ([Code](https://github.com/BlokDust/BlokDust))
 - [Eternal](https://eternal.robcheung.com/) - Create music using nodes. ([Code](https://github.com/kousun12/eternal))
-- [norns](https://github.com/monome/norns) - Many sound instruments.
+- [norns](https://github.com/monome/norns) - Many sound instruments. It connects to grids, MIDI and other objects
 
 ## Inspiration
 
@@ -48,3 +48,4 @@
 - [Faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis.
 - [How I recorded an album on my own, in my room](https://medium.com/@rodrigo.m.mesquita/what-i-learned-recording-an-alternative-album-on-my-own-in-my-room-c440b8201c9) ([HN](https://news.ycombinator.com/item?id=22591972))
 - [Monome](https://monome.org/) - Sound machines for the exploration time and space. ([Code](https://github.com/monome/docs))
+- [Low Level Norns](https://github.com/PaulBatchelor/norns-lowlevel) - Small snippets of C code that do relatively low-level things on the norns.

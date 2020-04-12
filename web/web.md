@@ -66,3 +66,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#readme)
 - [Mastery Games](https://mastery.games/) - All-new platform for leveling up your coding skills.
 - [Cargo](https://cargo.site/) - Build a site off a template.
+- [How to get started with web development (2020)](https://gomakethings.com/how-to-get-started-with-web-development/)

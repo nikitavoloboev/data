@@ -29,3 +29,4 @@
 - [Awesome Computer History](https://github.com/watson/awesome-computer-history#readme)
 - [Computer History Museum videos](https://www.youtube.com/user/ComputerHistory/videos)
 - [Designing and programming computers history](https://www.bl.uk/voices-of-science/themes/designing-and-programming-computers)
+- [Vintage Byte Magazine Library](https://vintageapple.org/byte/) - Captures the history of the entire personal computer industry from the early days (Sept 1975) through July 1998.

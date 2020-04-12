@@ -8,3 +8,4 @@
 - [China (2020)](https://drewdevault.com/2019/11/20/China.html) ([HN](https://news.ycombinator.com/item?id=21584861))
 - [HN: Twitter to ban political advertising (2019)](https://news.ycombinator.com/item?id=21401973)
 - [Reform or Revolution (1900)](https://www.marxists.org/archive/luxemburg/1900/reform-revolution/)
+- [100 Best Activism Books of All Time](https://bookauthority.org/books/best-activism-books)
