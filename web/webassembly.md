@@ -67,3 +67,4 @@
 - [Bulk Memory Operations Proposal for WebAssembly](https://github.com/WebAssembly/bulk-memory-operations)
 - [wain](https://github.com/rhysd/wain) - WebAssembly INterpreter written in Rust from scratch with zero dependency.
 - [Wasminspect](https://github.com/kateinoigakukun/wasminspect) - Interactive Debugger for WebAssembly.
+- [Run Clang in WebAssembly](https://github.com/wapm-packages/clang)

@@ -31,3 +31,4 @@
 - [Reversing Firmware With Radare (2019)](https://www.bored-nerds.com/reversing/radare/automotive/2019/07/07/reversing-firmware-with-radare.html)
 - [Interactive guide to Buffer Overflow exploitation (2019)](https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation)
 - [pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy.
+- [Integrate Ghidra's decompiler as an Ida plugin](https://github.com/cseagle/blc)

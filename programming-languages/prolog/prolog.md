@@ -13,3 +13,4 @@
 - [ELPI](https://github.com/LPCIC/elpi) - Embeddable λProlog Interpreter.
 - [Programming in Tabled Prolog book](https://github.com/SWI-Prolog/tabled-prolog-book)
 - [Prolog and Logic Programming Historical Sources Archive](http://www.softwarepreservation.org/projects/prolog/) ([HN](https://news.ycombinator.com/item?id=22658770))
+- [Interactive Datalog Tutorial](https://github.com/jonase/learndatalogtoday)

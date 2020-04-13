@@ -35,3 +35,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [MDAnki](https://github.com/ashlinchak/mdanki) - Converts Markdown file(s) to the Anki cards. ([HN](https://news.ycombinator.com/item?id=22385408))
 - [AnkiConnect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
 - [LearnObit](https://learnobit-36a54.web.app/) - Learning tool (Anki & WorkFlowy in one). ([HN](https://news.ycombinator.com/item?id=22823320))
+- [Anki Sync Server](https://github.com/ankicommunity/anki-sync-server) - Personal Anki sync server (so you can sync against your own server rather than AnkiWeb).
