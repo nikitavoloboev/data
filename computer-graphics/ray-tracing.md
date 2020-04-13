@@ -10,5 +10,5 @@
 - [Ray tracing a tiny procedural planet](http://casual-effects.com/research/McGuire2019ProcGen/McGuire2019ProcGen.pdf)
 - [HTML5 raycasting demo using React](https://ahuth.github.io/raycast/) ([Code](https://github.com/ahuth/raycast)) ([HN](https://news.ycombinator.com/item?id=22725275))
 - [Lighthouse 2 framework for real-time ray tracing](https://github.com/jbikker/lighthouse2)
-- [Dawn RT](https://github.com/maierfelix/dawn-ray-tracing) - Unofficial Ray-Tracing extension for Dawn/WebGPU.
+- [Dawn RT](https://github.com/maierfelix/dawn-ray-tracing) - Ray tracing extension for WebGPU.
 - [Quake II RTX](https://github.com/NVIDIA/Q2RTX) - NVIDIA’s implementation of RTX ray-tracing in Quake II.

@@ -14,7 +14,7 @@
 - Don't compare myself to other people. Surround myself with people that inspire me.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas.
 - Be consistent. Start early. Done > Perfect. Do the simplest thing. Solve core problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
-- Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done. Refactor where necessary.
+- Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done.
 - Don't judge anyone. Attempt to see another person's point of view.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Give feedback.
 - Don't stay in bed. Wake up fast and start the day. Keep straight posture & spine.
