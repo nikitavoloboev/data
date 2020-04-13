@@ -121,6 +121,7 @@
   - [Algebraic topology](math/algebraic-topology.md)
   - [Fractals](math/fractals.md)
   - [Number theory](math/number-theory.md)
+  - [Group theory](math/group-theory.md)
   - [Homotopy theory](math/homotopy-theory.md)
   - [Queueing theory](math/queueing-theory.md)
   - [Topology](math/topology.md)
