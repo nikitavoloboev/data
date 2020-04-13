@@ -24,3 +24,4 @@
 - [NSFW data source URLs](https://github.com/EBazarov/nsfw_data_source_urls) - Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier.
 - [Lambdagram](https://github.com/zcaceres/lambdagram) - Tiny Cloud Service to Build Image Datasets with Instagram.
 - [HN Stories and comments since 2006](https://console.cloud.google.com/marketplace/details/y-combinator/hacker-news?pli=1)
+- [My Giant Data Quality Checklist (2020)](https://www.reddit.com/r/datascience/comments/fzweaf/my_giant_data_quality_checklist/)

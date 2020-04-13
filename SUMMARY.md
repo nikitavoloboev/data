@@ -118,6 +118,7 @@
     - [Combinatorial optimization](math/mathematical-optimization/combinatorial-optimization.md)
     - [Gradient descent](math/mathematical-optimization/gradient-descent.md)
   - [Geometry](math/geometry.md)
+  - [Geometric Algebra](math/geometric-algebra.md)
   - [Algebraic topology](math/algebraic-topology.md)
   - [Fractals](math/fractals.md)
   - [Number theory](math/number-theory.md)

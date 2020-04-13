@@ -17,7 +17,7 @@
 - [Short overview of "C--"](https://www.cs.tufts.edu/~nr/c--/index.html)
 - [The C-- Language Specification](https://www.cs.tufts.edu/~nr/c--/extern/man2.pdf)
 - [How to become an expert in compilers the long way? (2019)](https://forums.swift.org/t/how-to-become-an-expert-in-compilers-the-long-way/22175)
-- [So You Want to Be a (Compiler) Wizard (2016)](http://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/)
+- [So You Want to Be a (Compiler) Wizard (2016)](https://belkadan.com/blog/2016/05/So-You-Want-To-Be-A-Compiler-Wizard/) ([HN](https://news.ycombinator.com/item?id=22848450))
 - [I Built a Lisp Compiler (2019)](https://mpov.timmorgan.org/i-built-a-lisp-compiler/)
 - [tal](https://github.com/sweirich/tal) - Implementation of Typed Assembly Language (Morrisett, Walker, Crary, Glew).
 - [microml](https://github.com/hellerve/microml) - Minimal ML, type-inferred, compiled, and/or interpreted in less than 800 lines.
