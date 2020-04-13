@@ -5,7 +5,7 @@
 - [Rules](../focusing/rules.md) - Lets me focus on creating value and cutting out noise in life.
 - [Processes](../focusing/processes.md) - Streamlines doing some tasks.
 - [Habits](../focusing/habits.md) - 6 essential life habits I want to complete each day.
-- [Themes](../focusing/themes.md) - What I want to focus on in life in general strokes. Gives direction.
+- [Goals](../focusing/goals.md) - What I want to focus on in life in general strokes. Gives direction.
 
 ## Code
 

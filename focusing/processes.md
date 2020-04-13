@@ -1,6 +1,6 @@
 # Processes
 
-## Learn topic well
+## Learn
 
 1. Read about the topic/concept. Wiki/Google.
 2. Apply insights & act on it. Teach/write/build something related to the topic/concept.

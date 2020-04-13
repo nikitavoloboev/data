@@ -1,14 +1,6 @@
-# Focus themes
+# Goals
 
-My main focus in life is to [make, learn, write, design & share](rules.md) things.
-
-I try to work on impactful to me ideas by breaking them down into series of tasks. As a way to give direction to my life, I outline some [themes](https://www.youtube.com/watch?v=NVGuFdX5guE) for myself to focus on.
-
-## Clean up 2Do/GitHub tasks to < 500
-
-Currently 2Do holds 4900 tasks. Over 3500 of them are read-later links I have left before moving to Pocket. I want to clear up the list to < 500.
-
-This includes closing GitHub issues that are of priority to me. Beyond this I want to also clear Telegram Saved Messages & start clearing up Pocket list too after 2Do is done. Everything should be actionable and done with purpose & priority.
+Aside from my main focus in life to express myself by building things I want to exist. Making, learning, writing, designing and sharing everything. I want to have a [direction in life](https://www.youtube.com/watch?v=NVGuFdX5guE) in form of longer term goals.
 
 ## Learn Anything
 
@@ -39,3 +31,14 @@ Read books & research papers relevant to problems I want to solve. This means re
 Rebuild my personal website & have my own hosted blog I can extend (with RSS feed). Start writing to it. Share tools/projects details on my website.
 
 Start teaching with videos. Review, edit & publish quality content.
+
+## Clean up 2Do/GitHub tasks
+
+Currently 2Do holds 4900 tasks. Over 3500 of them are read-later links I have left before moving to Pocket. I want to clear up the list to < 500.
+
+This includes closing GitHub issues that are of priority to me. Beyond this I want to also clear Telegram Saved Messages & start clearing up Pocket list too after 2Do is done. Everything should be actionable and done with purpose & priority.
+
+## Financial stability
+
+Release something that is worth of selling.
+

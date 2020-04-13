@@ -32,3 +32,4 @@ Some good stuff in there. And have these tabs open:
 As I try to setup backend for LA. Not sure yet how to expose postgres to the front end in nextJS. Will try out Prisma if it works well, if it doesn't will probably setup Hasura instead and write all the backend logic inside go services.
 
 Also I have a bind `v+.` that will play a Focus song and I often change it as I get tired of listening to one song 24/7 but [this Nils Frahm song](https://open.spotify.com/track/1LjaunC39SgsMZEln8EpDj?si=GlXYSpsATuedi5NLvnK3gw). It's too good. Probably 5th day now and it's just beautiful.
+

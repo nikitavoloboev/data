@@ -22,7 +22,7 @@ The 6 habits are an essential subset of more general [rules](rules.md) I want to
 
 ## Building new habits (rules)
 
-Nowadays I learn new habits proactively by building systems and thought processes that lead me in [directions](../focusing/themes.md) I want to go. Everything is built around refined [rules](../focusing/rules.md) & [processes](../focusing/processes.md).
+Nowadays I learn new habits proactively by building systems and thought processes that lead me in [directions](../focusing/goals.md) I want to go. Everything is built around refined [rules](../focusing/rules.md) & [processes](../focusing/processes.md).
 
 ## Notes
 
