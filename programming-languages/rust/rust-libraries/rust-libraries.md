@@ -322,6 +322,7 @@
 - [Internment](https://github.com/droundy/internment) - Interning of data in rust.
 - [merkle-tree-stream](https://github.com/datrs/merkle-tree-stream) - Stream that generates a merkle tree based on the incoming data.
 - [async-graphql](https://github.com/sunli829/async-graphql) - GraphQL server library that fully supports async/await and is easy to use.
+- [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer.
 
 ## Cargo Plugins
 

@@ -53,6 +53,7 @@
 - [Blob effect implementation with UIKIt](https://github.com/rnkyr/metaballs)
 - [PTCardTabBar](https://github.com/hussc/PTCardTabBar) - Card-Style TabBarController for iOS.
 - [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - Lets you create popups with a blurred background.
+- [Sliders](https://github.com/kieranb662/Sliders) - Collection of unique fully customizable SwiftUI sliders.
 
 ## macOS
 

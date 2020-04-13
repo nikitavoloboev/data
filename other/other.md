@@ -163,3 +163,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The illusion of understanding](https://meaningness.com/understanding)
 - [Reality has a surprising amount of detail (2017)](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) ([HN](https://news.ycombinator.com/item?id=16184255))
 - [WhyTheName](https://wiki.debian.org/WhyTheName) ([HN](https://news.ycombinator.com/item?id=22790623))
+- [Heavy Fish Design](http://heavyfishdesign.com/) - JSON-like language for designing and layout of parts for laser cutters or CNC routers. ([Code](https://github.com/dustismo/heavyfishdesign))
