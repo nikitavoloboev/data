@@ -106,6 +106,7 @@
 - [rpy2](https://github.com/rpy2/rpy2) - Interface to use R from Python.
 - [Forbidden Fruit](https://github.com/clarete/forbiddenfruit) - Allows Python code to extend built-in types.
 - [PandaPy](https://github.com/firmai/pandapy) - Has the speed of NumPy and the usability of Pandas (10x to 50x faster).
+- [dramatiq](https://github.com/Bogdanp/dramatiq) - Fast and reliable background task processing library for Python 3.
 
 ## Links
 

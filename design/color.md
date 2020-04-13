@@ -26,4 +26,4 @@
 - [Duo](https://duo.alexpate.uk/) - Collection of color combinations that I've curated from personal projects or that I've come across on the web. ([HN](https://news.ycombinator.com/item?id=22801661))
 - [color-scheme.js](http://c0bra.github.io/color-scheme-js/) - Generate nice, pretty color schemes with JavaScript. ([Code](https://github.com/c0bra/color-scheme-js))
 - [Themer](https://themer.dev/) - Takes a set of colors and generates themes for your development environment (editors, terminals, wallpapers, and more). ([Code](https://github.com/mjswensen/themer))
-- [Color Names](https://colornames.org/) - Collaborative effort to name every color in the RGB/web space.
+- [Color Names](https://colornames.org/) - Collaborative effort to name every color in the RGB/web space. ([HN](https://news.ycombinator.com/item?id=22852646))

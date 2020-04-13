@@ -153,3 +153,4 @@
 - [Awesome Storybook](https://github.com/lauthieb/awesome-storybook#readme)
 - [QuickJS](https://github.com/ldarren/QuickJS) - Small and embeddable Javascript engine.
 - [Test262: Official ECMAScript Conformance Test Suite](https://github.com/tc39/test262)
+- [Hegel](https://github.com/JSMonk/hegel) - Advanced static type checker.
