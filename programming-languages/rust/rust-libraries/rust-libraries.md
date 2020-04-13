@@ -78,6 +78,7 @@
 - [Loom](https://github.com/tokio-rs/loom) - Concurrency permutation testing tool for Rust.
 - [Mockito](https://github.com/lipanski/mockito) - HTTP mocking for Rust.
 - [ctest](https://github.com/gnzlbg/ctest) - Automated testing of FFI bindings in Rust.
+- [Mockall](https://github.com/asomers/mockall) - Powerful mock object library for Rust.
 
 ## Error
 

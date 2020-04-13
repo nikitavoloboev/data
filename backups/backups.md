@@ -33,3 +33,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Cloud Backup Comparison. Which one is the fastest? (2019)](https://www.arqbackup.com/cloud-backup-comparison.html)
 - [Lessons learned when my SSD died (2018)](https://bsago.me/blog/lessons-learned-when-my-ssd-died)
 - [Lobsters: Where do you host your back ups? (2019)](https://lobste.rs/s/c8long/where_do_you_host_your_back_ups)
+- [go-backblaze](https://github.com/kothar/go-backblaze) - Go client for Backblaze's B2 storage.

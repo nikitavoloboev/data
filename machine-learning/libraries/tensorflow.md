@@ -35,3 +35,4 @@
 - [Convert TensorFlow models to ONNX](https://github.com/onnx/tensorflow-onnx)
 - [TensorFlow-Slim](https://github.com/google-research/tf-slim) - Lightweight library for defining, training and evaluating complex models in TensorFlow.
 - [SwiftAI](https://github.com/fastai/swiftai) - Swift for TensorFlow's high-level API, modeled after fastai.
+- [Graph Convolutional Networks in TensorFlow](https://github.com/tkipf/gcn)

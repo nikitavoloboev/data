@@ -115,3 +115,4 @@ I love Git and version control. And I use version control over any project I do.
 - [git-fame](https://github.com/casperdcl/git-fame) - Pretty-print git repository collaborators sorted by contributions.
 - [Collection of .gitignore templates](https://github.com/github/gitignore)
 - [CS Visualized: Useful Git Commands (2020)](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+- [git-issue](https://github.com/dspinellis/git-issue) - Git-based decentralized issue management.

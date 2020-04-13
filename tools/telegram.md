@@ -28,3 +28,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Complete source code and the build instructions for the alpha version of the official desktop client for the Telegram messenger.
 - [Informer](https://github.com/paulpierre/informer) - Telegram Mass Surveillance Bot in Python. ([HN](https://news.ycombinator.com/item?id=21750353))
 - [Awesome Telegram](https://github.com/ebertti/awesome-telegram#readme) - Collection great groups, channels, bots and libraries for Telegram.
+- [List of telegram groups, channels & bots](https://github.com/goq/telegram-list#readme)

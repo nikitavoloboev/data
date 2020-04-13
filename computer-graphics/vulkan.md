@@ -9,3 +9,4 @@
 - [NVIDIA Vulkan Ray Tracing Tutorial](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/) ([Code](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR))
 - [Ash](https://github.com/MaikKlein/ash) - Vulkan bindings for Rust.
 - [NVK](https://github.com/maierfelix/nvk) - Vulkan API for JavaScript/TypeScript.
+- [AMD Open Source Driver for Vulkan](https://github.com/GPUOpen-Drivers/AMDVLK)

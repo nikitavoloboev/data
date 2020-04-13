@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Font Awesome](https://fontawesome.com/) - Free vector icons.
+- [Font Awesome](https://fontawesome.com/) - Free vector icons. ([Code](https://github.com/FortAwesome/Font-Awesome))
 - [Icon Store](https://iconstore.co) - Free Icons by First-Class Designers.
 - [Octicons](https://octicons.github.com/) - Scalable set of icons handcrafted with <3 by GitHub.
 - [Octicons v2](https://primer.style/octicons-v2/) - New look for Octicons, GitHub's icon set. ([Code](https://github.com/primer/octicons-v2))

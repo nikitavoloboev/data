@@ -131,3 +131,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Mary Dash’s Writing Tips](https://plainlanguage.gov/resources/articles/dash-writing-tips/)
 - [How to Edit Your Own Writing (2020)](https://www.nytimes.com/2020/04/07/smarter-living/how-to-edit-your-own-writing.html) ([HN](https://news.ycombinator.com/item?id=22814342))
 - [Practical guide to writing technical specs (2020)](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/) ([HN](https://news.ycombinator.com/item?id=22799783))
+- [Mise en Place Writing](https://www.swyx.io/writing/writing-mise-en-place/) ([HN](https://news.ycombinator.com/item?id=22662834))

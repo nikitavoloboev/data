@@ -212,6 +212,7 @@
 - [on-finished](https://github.com/jshttp/on-finished) - Execute a callback when a request closes, finishes, or errors.
 - [ColorFns](https://github.com/baianat/color-fns) - Modern JavaScript color utilities library.
 - [grapheme-splitter](https://github.com/orling/grapheme-splitter) - JavaScript library that breaks strings into their individual user-perceived characters.
+- [Web Animations](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API.
 
 ## Links
 

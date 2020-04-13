@@ -218,3 +218,4 @@
 - [Machine Learning: a Probabilistic Perspective book](https://www.cs.ubc.ca/~murphyk/MLbook/) ([Code](https://github.com/probml/pyprobml))
 - [Introduction to Machine Learning - Carnegie Mellon University (2019)](http://www.cs.cmu.edu/%7Eninamf/courses/315sp19/)
 - [Notes on ML courses](https://github.com/alisher0717/machine-learning-notes)
+- [Made With ML](https://madewithml.com/) - Share what you've Made With ML.
