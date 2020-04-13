@@ -85,3 +85,4 @@ I publish most of my work and make it open source for other people to use and re
 - [Release Please](https://github.com/googleapis/release-please) - Generates GitHub PRs for library releases based on the conventionalcommits.org commit specification and SemVer.
 - [Weekly Digest](https://github.com/probot/weekly-digest) - Weekly summary of activity on your GitHub repository.
 - [List of Badges, in Markdown](https://github.com/Naereen/badges)
+- [GitHub Protips: Tips, tricks, hacks, and secrets (2020)](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)

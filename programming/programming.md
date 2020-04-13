@@ -142,3 +142,4 @@
 - [Sad state of cross platform GUI frameworks (2020)](https://blog.royalsloth.eu/posts/sad-state-of-cross-platform-gui-frameworks/) ([Lobsters](https://lobste.rs/s/rci0kw/sad_state_cross_platform_gui_frameworks))
 - [Lobsters: The happy state of (2020)](https://lobste.rs/s/3wknua/happy_state)
 - [Worse Is Better](https://www.dreamsongs.com/WorseIsBetter.html)
+- [Ask HN: How to rediscover the joy of programming? (2020)](https://news.ycombinator.com/item?id=22860682)

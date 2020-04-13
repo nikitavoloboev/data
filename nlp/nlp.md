@@ -34,7 +34,7 @@
 - [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time.
 - [Cornell Tech NLP Code](http://rush-nlp.com/code/)
 - [Cornell Tech NLP Publications](http://rush-nlp.com/papers/)
-- [Thinc](https://github.com/explosion/thinc/) - SpaCy's Machine Learning library for NLP in Python.
+- [Thinc](https://github.com/explosion/thinc/) - SpaCy's Machine Learning library for NLP in Python. ([Docs](https://thinc.ai/docs))
 - [Knowledge is embedded in language neural networks but can they reason? (2019)](https://www.youtube.com/watch?v=KybSRPC3e64)
 - [NLP Best Practices](https://github.com/microsoft/nlp#readme)
 - [Transfer NLP library](https://github.com/feedly/transfer-nlp) - Framework built on top of PyTorch to promote reproducible experimentation and Transfer Learning in NLP.

@@ -219,3 +219,4 @@
 - [Introduction to Machine Learning - Carnegie Mellon University (2019)](http://www.cs.cmu.edu/%7Eninamf/courses/315sp19/)
 - [Notes on ML courses](https://github.com/alisher0717/machine-learning-notes)
 - [Made With ML](https://madewithml.com/) - Share what you've Made With ML.
+- [Backpropagation 101 (2020)](https://thinc.ai/docs/backprop101) - How to trick yourself into understanding backprop without even trying.

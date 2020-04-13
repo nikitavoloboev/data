@@ -26,3 +26,4 @@
 - [Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
 - [Work Is Work (2020)](https://codahale.com/work-is-work/) ([HN](https://news.ycombinator.com/item?id=22797687))
 - [Technology Budgeting Handbook](https://github.com/18F/technology-budgeting)
+- [Shape Up Your Agile (2020)](https://thinkfractional.blog/shape-up-your-agile/)

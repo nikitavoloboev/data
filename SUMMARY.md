@@ -673,7 +673,7 @@
     - [Interviews](work/finding-work/interviews.md)
     - [CV](work/finding-work/cv.md)
     - [Hiring](work/finding-work/hiring.md)
-    - [Contracting](work/finding-work/contracting.md)
+    - [Freelancing](work/finding-work/freelancing.md)
   - [Remote work](work/remote-work.md)
   - [Consultancies](work/consultancies.md)
   - [Communication](work/communication.md)
