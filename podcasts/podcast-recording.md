@@ -11,3 +11,4 @@
 - [Descript](https://www.descript.com/) - Record. Transcribe. Edit. Mix. As easy as typing. Take control of your podcast with Descript.
 - [Transistor](https://transistor.fm/) - Stores your MP3 files, generates your RSS feed, hosts your podcast's website, and distributes your show to Apple Podcasts, Spotify, and more.
 - [What's your podcasting stack?](https://www.indiehackers.com/post/whats-your-podcasting-stack-8ae89b0905)
+- [How to Podcast](https://www.christopherbiscardi.com/how-to-podcast)

@@ -10,3 +10,4 @@
 - [How Galaxies Can Move Faster Than Light (2020)](https://www.youtube.com/watch?v=cadNZJvfl7s)
 - [The Caterpillar Project](https://www.caterpillarproject.org/) - Understanding the building blocks of the Milky Way.
 - [Universe’s structure and history](https://www.nobelprize.org/interactive-visualisations-physicsprize-2019/)
+- [Timelapse of the Future: A Journey to the End of Time (2019)](https://www.youtube.com/watch?v=uD4izuDMUQA)
