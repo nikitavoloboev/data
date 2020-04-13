@@ -18,3 +18,4 @@
 - [butteraugli](https://github.com/google/butteraugli) - Estimates the psychovisual difference between two images.
 - [PIK](https://github.com/google/pik) - New lossy/lossless image format for photos and the internet.
 - [imgmaker](https://github.com/minimaxir/imgmaker) - Create high-quality images programmatically with easily-hackable templates.
+- [Halide](https://github.com/halide/Halide) - Language for fast, portable data-parallel computation. ([Web](https://halide-lang.org/))

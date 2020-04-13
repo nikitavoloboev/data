@@ -22,7 +22,8 @@
 - [Notion TS](https://github.com/cstrnt/notion-api) - Unofficial Notion.so Wrapper.
 - [Notion Python](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
 - [Google Cloud](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python.
-- [Reddit](https://github.com/feross/reddit) - Simple Reddit API client in JS.
+- [Reddit Go](https://github.com/turnage/graw)
+- [Reddit JS](https://github.com/feross/reddit) - Simple Reddit API client in JS.
 - [Slack API in Go](https://github.com/nlopes/slack)
 - [Slack API in Go 2](https://github.com/slack-go/slack)
 - [Star Wars API](https://swapi.co/) - Nice for testing.

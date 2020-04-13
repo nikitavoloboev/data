@@ -34,3 +34,5 @@
 - [Experiments in generative art](https://sketchbook.netlify.com/) ([Code](https://github.com/winkerVSbecks/sketchbook))
 - [WEIR-A](https://github.com/inconvergent/weir) - System for making generative systems.
 - [Valora](https://github.com/turnage/valora) - Brush for generative fine art. ([Docs](https://paytonturnage.gitbook.io/valora/)) ([HN](https://news.ycombinator.com/item?id=22837990))
+- [Writing Generative Art (2019)](https://paytonturnage.com/writing/writing-generative-art/)
+- [Valora's Rasterizer (2019)](https://paytonturnage.com/writing/valora-rasterizer/)

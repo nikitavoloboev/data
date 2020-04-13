@@ -49,3 +49,4 @@
 - [GameDev in Rust](https://arewegameyet.com/) ([Code](https://github.com/rust-gamedev/arewegameyet))
 - [Rust Game Development Working Group](https://rust-gamedev.github.io/) ([Code](https://github.com/rust-gamedev/wg))
 - [Enemy AI: chasing a player without Navigation2D or A\* pathfinding (2020)](https://abitawake.com/news/articles/enemy-ai-chasing-a-player-without-navigation2d-or-a-star-pathfinding) ([HN](https://news.ycombinator.com/item?id=22848106))
+- [The Ideal Game Network Protocol (2020)](https://paytonturnage.com/writing/ideal-game-network-protocol/)

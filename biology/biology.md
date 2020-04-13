@@ -28,3 +28,4 @@
 - [Quantum Biology - How Plants Use Quantum Mechanics (2020)](https://www.youtube.com/watch?v=Zc9Xk99gCr4)
 - [HN: If the heart is a muscle, why doesn't it ever get tired?](https://news.ycombinator.com/item?id=22643333)
 - [Zhang Lab](https://zlab.bio/) - Studies biological diversity to discover systems and processes that may be harnessed for the improvement of human health.
+- [Entropy and life](https://en.wikipedia.org/wiki/Entropy_and_life) ([HN](https://news.ycombinator.com/item?id=22849554))

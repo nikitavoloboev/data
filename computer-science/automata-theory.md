@@ -13,3 +13,4 @@
 - [Finding Mona Lisa in the Game of Life](https://kevingal.com/blog/mona-lisa-gol.html)
 - [A Life in Games: John Horton Conway (2015)](https://www.quantamagazine.org/john-conways-life-in-games-20150828/)
 - [Wasm Game Of Life](https://github.com/gus3inov/wasm-game-of-life) - Game of life with WebAssembly.
+- [Life in life](https://www.youtube.com/watch?v=xP5-iIeKXE8) ([HN](https://news.ycombinator.com/item?id=22849264))

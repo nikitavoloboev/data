@@ -43,3 +43,5 @@
 - [Clojurians Zulip Chat](https://clojurians.zulipchat.com/login/)
 - [Clojure: the Lisp that wants to spread (2020)](https://simongray.github.io/essays/spread.html) ([HN](https://news.ycombinator.com/item?id=22458827))
 - [REPL Debugging: No Stacktrace Required (2017)](http://blog.cognitect.com/blog/2017/6/5/repl-debugging-no-stacktrace-required) ([HN](https://news.ycombinator.com/item?id=22512273))
+- [Clojure Chat Streams](https://scicloj.github.io/pages/chat_streams/)
+- [Clojure is Great (2020)](https://www.reddit.com/r/Clojure/comments/fzvosa/holy_cow_clojure_is_great/)
