@@ -32,3 +32,4 @@
 - [Interactive guide to Buffer Overflow exploitation (2019)](https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation)
 - [pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy.
 - [Integrate Ghidra's decompiler as an Ida plugin](https://github.com/cseagle/blc)
+- [Solving lagrange reversing challenge with Cutter (2020)](https://arnaugamez.com/blog/2020/04/12/advent-solve-lagrange-cutter/)
