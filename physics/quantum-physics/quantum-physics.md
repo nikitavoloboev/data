@@ -17,3 +17,4 @@
 - [Quick Guide to Quantum Physics: 24 Phenomenons Explained (2016)](https://medium.com/@gabrielp/top-24-quantum-physics-effects-bb49afdee552)
 - [The Notorious Delayed-Choice Quantum Eraser (2019)](https://www.preposterousuniverse.com/blog/2019/09/21/the-notorious-delayed-choice-quantum-eraser/)
 - [Double slits with single atoms (2020)](https://physicsworld.com/a/double-slits-with-single-atoms/) ([HN](https://news.ycombinator.com/item?id=22364787))
+- [Wave Function Collapse Explained (2020)](https://www.boristhebrave.com/2020/04/13/wave-function-collapse-explained/)

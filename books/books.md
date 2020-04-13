@@ -189,3 +189,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [SafariBooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from Safari Books Online library.
 - [Crafting "Crafting Interpreters" (2020)](http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/) ([HN](https://news.ycombinator.com/item?id=22788738))
 - [BookAuthority](https://bookauthority.org/) - Curates the books recommended by the world's most successful CEOs, business leaders and experts.
+- [Ask HN: How can I restore my concentration when reading? (2020)](https://news.ycombinator.com/item?id=22855070)

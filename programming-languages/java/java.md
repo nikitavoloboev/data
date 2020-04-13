@@ -14,3 +14,4 @@
 - [JVM written in Rust](https://github.com/douchuan/jvm)
 - [Maxine VM](https://github.com/beehive-lab/Maxine-VM) - Metacircular VM for Java in Java.
 - [JNI Cookbook](https://github.com/mkowsiak/jnicookbook)
+- [Java Objects Inside Out](https://shipilev.net/jvm/objects-inside-out/)
