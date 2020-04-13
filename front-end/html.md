@@ -34,3 +34,4 @@
 - [Open Graph Image as a Service](https://github.com/zeit/og-image) - Serverless service that generates dynamic Open Graph images that you can embed in your <meta> tags.
 - [Responsive Images the Simple Way (2020)](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
 - [sahtml-query](https://github.com/mdevils/sahtml-query) - Fast and low memory query API for HTML (node.js).
+- [HTML is more complicated than you think (2020)](https://www.tempertemper.net/blog/html-is-more-complicated-than-you-think)

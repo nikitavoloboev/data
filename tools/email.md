@@ -41,3 +41,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Unverified.email (2020)](https://kerestey.net/writing/2020-04-05-announcing-unverified-dot-email.html) ([HN](https://news.ycombinator.com/item?id=22799071))
 - [Cold email example (2020)](https://twitter.com/louisnicholls_/status/1248578404435333122)
 - [Moving away from GMail (2019)](https://rolisz.ro/2020/04/11/moving-away-from-gmail/) ([HN](https://news.ycombinator.com/item?id=22843326))
+- [Missive](https://missiveapp.com/) - Team inbox and chat tool that empowers teams to truly collaborate around email.

@@ -24,3 +24,4 @@ I do want to start more focused mindfulness and trying to practice _channeling_ 
 - [Breathing techniques](https://www.reddit.com/r/Psychonaut/comments/6y21cf/does_anyone_know_any_effective_breathing/)
 - [What do you think of meditation? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/eo9nt2/what_do_you_think_of_meditation/)
 - [Sanctuary](https://www.meetsanctuary.com/) - Bookable private space to bend, breathe, or just be.
+- [Balance](https://www.balanceapp.com/) - Personalized meditation audio program.

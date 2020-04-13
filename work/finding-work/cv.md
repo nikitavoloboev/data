@@ -39,6 +39,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Emilien Dupont](https://emiliendupont.github.io/resume/)
 - [Chris Lattner](http://nondot.org/sabre/Resume.html)
 - [Brian Anderson](https://brson.github.io/resume.html)
+- [Susanna L Harris](https://docs.google.com/document/d/1_uXzFgsX3xIgseeIuqO7xa57HoBA_IT1Zabm2PYMPLw/edit)
 
 ## Notes
 

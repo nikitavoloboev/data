@@ -43,3 +43,4 @@
 - [3D Photography using Context-aware Layered Depth Inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting)
 - [CenterMask : Real-Time Anchor-Free Instance Segmentation](https://github.com/youngwanLEE/CenterMask)
 - [Interview with Dmytro Mushkin | Computer Vision Research | Kaggle, ML & Education (2020)](https://www.youtube.com/watch?v=lWwkbiufwNE)
+- [Pytorch code for ICLR-20 Paper "Learning to Explore using Active Neural SLAM"](https://github.com/devendrachaplot/Neural-SLAM)

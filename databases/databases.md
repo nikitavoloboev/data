@@ -68,6 +68,7 @@
 - [Prometheus](https://github.com/prometheus/prometheus) - Systems and service monitoring system. ([Docker](https://github.com/vegasbrianc/prometheus))
 - [Akumuli](https://github.com/akumuli/Akumuli) - Time-series database.
 - [SSDB](https://github.com/ideawu/ssdb) - Redis compatible NoSQL database stored on disk.
+- [minikeyvalue](https://github.com/geohot/minikeyvalue) - Distributed key value store in under 1000 lines.
 
 ## Tools
 
@@ -116,3 +117,4 @@
 - [Interview with Noria’s creator: a promising dataflow research database implemented in Rust (2019)](https://notamonadtutorial.com/interview-with-norias-creator-a-promising-dataflow-database-implemented-in-rust-352e2c3d9d95)
 - [The High Cost of Splitting Related Data (2020)](http://kevinmahoney.co.uk/articles/the-high-cost-of-splitting-related-data/)
 - [Awesome Database Tools](https://github.com/mgramin/awesome-db-tools#readme)
+- [Storage: Complete Overview for Developers (2020)](https://developer.sh/posts/storage-technologies-for-developers)

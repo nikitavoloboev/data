@@ -11,3 +11,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [How well are you investing your time?](https://www.youtube.com/watch?v=nH5K0yo-o1A)
 - [List of artists and hackers using homegrown time-tracking tools](https://github.com/merveilles/Time-Travelers#readme)
 - [Devine's Calendar Journal](https://wiki.xxiivv.com/#calendar)
+- [Does time really flow? New clues from intuitionist math (2020)](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/) ([HN](https://news.ycombinator.com/item?id=22848766))

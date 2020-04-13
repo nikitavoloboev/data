@@ -23,3 +23,4 @@ I especially like the distinction of distributing content over distributing link
 - [Awesome IPFS](https://awesome.ipfs.io/) - Useful resources for using IPFS and building things on top of it. ([Code](https://github.com/ipfs/awesome-ipfs))
 - [Rust IPFS](https://github.com/ipfs-rust/rust-ipfs) - Interplanetary File System (IPFS), implemented in Rust.
 - [Terminal](https://terminal.co/) - Everything you need to build fast modern websites hosted on IPFS.
+- [Anytype](https://anytype.io/) - Operating environment for the new internet.

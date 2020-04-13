@@ -10,3 +10,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Sara Vieira: Your brain doesn't have a fix flag](https://www.youtube.com/watch?v=bovBQtB_PDo)
 - [История одной депрессии](https://tonsky.livejournal.com/317265.html)
 - [Tips for the Depressed](https://nplusonemag.com/online-only/online-only/tips-for-the-depressed/)
+- [25 mental health wellness tips](https://www.thisisbrave.org/2020/03/26/25-mental-health-wellness-tips-for-quarantine-by-eileen-feliciano/)

@@ -104,6 +104,7 @@ Here are few more things I liked, design wise.
 - [Nathan Taylor](https://nathan.tokyo/)
 - [Sergio Xalambrí](https://sergiodxa.com/) ([Code](https://github.com/sergiodxa/personal-site))
 - [Tyler Gaw](https://tylergaw.com/)
+- [Colin Dunn](http://colindunn.com/)
 - [Matt Drollette](https://matt.drollette.com/)
 - [Paul Scanlon](http://www.pauliescanlon.io/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.

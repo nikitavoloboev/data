@@ -39,6 +39,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Lisa Emulator](https://github.com/rayarachelian/lisaem)
 - [Shoebill](https://github.com/pruten/shoebill) - Macintosh II emulator that runs A/UX (and A/UX only).
 - [PCE.js](https://github.com/jsdf/pce) - Emulates Mac Plus, PC, & Atari ST in asm.js & WebAssembly.
+- [Nintendo 64 homebrew demo & tutorial](https://github.com/jsdf/n64-sdk-demo)
 
 ## Links
 

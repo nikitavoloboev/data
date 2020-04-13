@@ -45,3 +45,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [web3.js](https://github.com/ethereum/web3.js) - Ethereum JavaScript API.
 - [Humanity](https://github.com/marbleprotocol/humanity) - Unique identity on Ethereum.
 - [Erasure Protocol](https://erasure.world/) - Builds on the three primitives of an economic relationship: Track-Record, Payment, and Recourse. ([Code](https://github.com/erasureprotocol/erasure-protocol))
+- [Ganache](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
