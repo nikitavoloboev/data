@@ -48,3 +48,4 @@
 - [Basic Skeletal Animation with Geometric Algebra](https://www.jeremyong.com/klein/case_studies/ga_skeletal_animation/) ([HN](https://news.ycombinator.com/item?id=22652417))
 - [MIT Computer Graphics course (2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/index.htm)
 - [Neural Point-Based Graphics](https://github.com/alievk/npbg)
+- [V-HACD](https://github.com/kmammou/v-hacd) - Decomposes a 3D surface into a set of "near" convex parts.

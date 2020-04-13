@@ -26,6 +26,7 @@
 - [Roa](https://github.com/Hexilee/roa) - Async web framework inspired by koajs, lightweight but powerful.
 - [rweb](https://github.com/kdy1/rweb) - Yet another web server framework for rust.
 - [Tower Web](https://github.com/carllerche/tower-web) - Web framework for Rust with a focus on removing boilerplate.
+- [http-types](https://github.com/http-rs/http-types) - Common types for HTTP operations.
 
 ## WASM
 
