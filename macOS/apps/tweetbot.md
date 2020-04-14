@@ -23,3 +23,4 @@ I split the app into 2 columns on mac.
 - [How I use Twitter (2018)](https://krausefx.com/blog/how-i-use-twitter)
 - [Twitter Lists](https://github.com/AndySparks/captains-log/blob/master/resources/reading-lists/twitter-lists.md)
 - [Instant Twitter Search](https://twitter-search.io/) - Instantly search across your entire Twitter history with a beautiful UI powered by Algolia. ([Code](https://github.com/saasify-sh/twitter-search))
+- [TWINT](https://github.com/twintproject/twint) - Twitter Intelligence Tool.

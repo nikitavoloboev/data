@@ -387,6 +387,7 @@
 - [goph](https://github.com/melbahja/goph) - Native golang ssh client to execute your commands over ssh connection.
 - [mem](https://github.com/go4org/mem) - Cheap Go type to hold & operate on either a read-only []byte or string.
 - [cgroups](https://github.com/containerd/cgroups) - Go package for creating, managing, inspecting, and destroying cgroups.
+- [go-codec](https://github.com/ugorji/go) - Idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org.
 
 ## Links
 

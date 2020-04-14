@@ -83,6 +83,7 @@
 - [react-see-through](https://github.com/andrew4699/react-see-through) - Draw attention to the important parts of your website.
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component.
 - [Eitherx](https://github.com/mfix22/eitherx) - Super simple, reusable either-or error boundaries for React.
+- [Motion Layout](https://github.com/jeffersonlicet/react-motion-layout) - Beautiful immersive React hero animations.
 
 ## Links
 
