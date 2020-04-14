@@ -37,7 +37,7 @@
 - [papermill](https://github.com/nteract/papermill) - Parameterize, execute, and analyze notebooks.
 - [Juno](https://juno.sh/) - Complete Jupyter development environment for your iPad or iPhone.
 - [Jeremy Tuloup: A Tour of JupyterLab Extensions (2019)](https://www.youtube.com/watch?v=3pdrzhny9Lc)
-- [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks.
+- [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks. ([HN](https://news.ycombinator.com/item?id=22861585))
 - [fastprogress](https://github.com/fastai/fastprogress) - Simple and flexible progress bar for Jupyter Notebook and console.
 - [nbdev template](https://github.com/fastai/nbdev_template) - Template for nbdev projects.
 - [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) - Free Jupyter notebook environment that requires no setup and runs entirely in the cloud.

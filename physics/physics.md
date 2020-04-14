@@ -59,3 +59,6 @@
 - [Shining a Flashlight on Digital Holography (2020)](https://blog.lookingglassfactory.com/process/shining-a-flashlight-on-digital-holography/) ([HN](https://news.ycombinator.com/item?id=22832627))
 - [HN: Scientists use the Tokyo Skytree to test general relativity (2020)](https://news.ycombinator.com/item?id=22831715)
 - [The Biggest Ideas in the Universe (2020)](https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX)
+- [Essays by Jakob Schwichtenberg](http://jakobschwichtenberg.com/archive/)
+- [Physics From Symmetry book (2015)](http://physicsfromsymmetry.com/)
+- [No-Nonsense Books on Physics](https://nononsensebooks.com/)
