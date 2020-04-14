@@ -14,3 +14,4 @@
 - [BLT](https://github.com/LLNL/blt) - Streamlined CMake-based foundation for Building, Linking and Testing large-scale high performance computing (HPC) applications.
 - [zld](https://github.com/michaeleisel/zld) - Faster version of Apple's linker.
 - [Automation and Make](https://swcarpentry.github.io/make-novice/)
+- [Meson](https://github.com/mesonbuild/meson) - Project to create the best possible next-generation build system.

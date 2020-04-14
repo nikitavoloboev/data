@@ -90,6 +90,7 @@ Here are few more things I liked, design wise.
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))
 - [Mark McGranaghan](https://markmcgranaghan.com/)
 - [Mackenzie Child](https://www.mackenziechild.me/)
+- [Serge Zaitsev](https://zserge.com/)
 - [Marvin Hagemeister](https://marvinh.dev/)
 - [Nienke Dekker](https://nienke.dev/)
 - [Josh Comeau](https://joshwcomeau.com/)

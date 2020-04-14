@@ -28,3 +28,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage.
 - [Bash Hackers Wiki](https://wiki.bash-hackers.org/) ([HN](https://news.ycombinator.com/item?id=22382686))
 - [Bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+- [HN: Renaming files with mv without typing the name two times](https://news.ycombinator.com/item?id=22859935)

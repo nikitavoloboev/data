@@ -14,3 +14,4 @@
 - [Language as an intellectualtool: From hieroglyphicsto APL (1991)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.86.6185&rep=rep1&type=pdf)
 - [April](https://github.com/phantomics/april) - APL programming language (a subset thereof) compiling to Common Lisp. ([HN](https://news.ycombinator.com/item?id=22225136))
 - [APL a Day](https://www.sacrideo.us/tag/apl-a-day/)
+- [Ode to J](https://zserge.com/posts/j/)

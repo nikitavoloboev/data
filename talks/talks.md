@@ -49,3 +49,4 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 - [pretalx](https://github.com/pretalx/pretalx) - Conference planning tool focused on providing the best experience for organisers, speakers, reviewers, and attendees alike.
 - [On Conference Speaking (2017)](https://hynek.me/articles/speaking/)
 - [How to run an Effective Board Meeting and make an Effective Board Deck](http://delian.io/lessons-4)
+- [How to Speak course](https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm)

@@ -7,3 +7,4 @@
 - [Hobby x86 kernel written with Zig](https://github.com/jzck/kernel-zig) ([HN](https://news.ycombinator.com/item?id=21967668))
 - [Zig Compiler Internals (2020)](https://www.youtube.com/watch?v=NbHYLAro02M)
 - [bootstrap-zig](https://github.com/ziglang/bootstrap) - Start with minimum system dependencies and end with a fully operational Zig compiler for any target.
+- [Zig 0.6.0 Release Notes](https://ziglang.org/download/0.6.0/release-notes.html) ([HN](https://news.ycombinator.com/item?id=22860008))

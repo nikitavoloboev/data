@@ -213,6 +213,7 @@
 - [ColorFns](https://github.com/baianat/color-fns) - Modern JavaScript color utilities library.
 - [grapheme-splitter](https://github.com/orling/grapheme-splitter) - JavaScript library that breaks strings into their individual user-perceived characters.
 - [Web Animations](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API.
+- [p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency.
 
 ## Links
 

@@ -15,7 +15,7 @@
 - [Proof Assistants At the Hardware-Software Interface (2020)](https://www.youtube.com/watch?v=GXXOyXeyKeY)
 - [The business case for formal methods (2020)](https://www.hillelwayne.com/post/business-case-formal-methods/) ([Lobsters](https://lobste.rs/s/ywgjhd/business_case_for_formal_methods)) ([HN](https://news.ycombinator.com/item?id=22321756))
 - [Logipedia](https://github.com/Deducteam/Logipedia) - Project that aims to share formal proofs between several systems.
-- [Alloy](http://alloytools.org/about.html) - Language for describing structures and a tool for exploring them.
+- [Alloy](http://alloytools.org/about.html) - Language for describing structures and a tool for exploring them. ([Docs](https://alloy.readthedocs.io/en/latest/)) ([Article](https://www.hillelwayne.com/post/alloydocs/)) ([Lobsters](https://lobste.rs/s/g41wko/announcing_alloydocs))
 - [Software Abstractions book](http://softwareabstractions.org/)
 - [Safe and Efficient, Now](http://okmij.org/ftp/Computation/lightweight-static-guarantees.html)
 - [Experiences moving from tests to strong typing? (2020)](https://lobste.rs/s/olecii/experiences_moving_from_tests_strong)
