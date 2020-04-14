@@ -143,3 +143,4 @@
 - [Lobsters: The happy state of (2020)](https://lobste.rs/s/3wknua/happy_state)
 - [Worse Is Better](https://www.dreamsongs.com/WorseIsBetter.html)
 - [Ask HN: How to rediscover the joy of programming? (2020)](https://news.ycombinator.com/item?id=22860682)
+- [Malleable Systems: Software must be as easy to change as it is to use it](https://malleable.systems/) ([HN](https://news.ycombinator.com/item?id=22857551))

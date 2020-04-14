@@ -256,6 +256,7 @@
 - [LoggingFormatAndPipe](https://github.com/Adorkable/swift-log-format-and-pipe) - Allows for formatting and redirecting log lines.
 - [ConsistencyManager](https://github.com/plivesey/ConsistencyManager) - Library that manages consistency of immutable models.
 - [CSProgress](https://github.com/CharlesJS/CSProgress) - Higher-performing, easier-to-use replacement class for Apple's NSProgress, written in Swift.
+- [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS and macOS.
 
 ## Other (not lib)
 

@@ -30,6 +30,7 @@
 - [fetcher-ts](https://github.com/YBogomolov/fetcher-ts) - Type-safe wrapper around Fetch API.
 - [gretchen](https://github.com/truework/gretchen) - Making fetch happen in TypeScript.
 - [matechs-effect](https://github.com/mikearnaldi/matechs-effect) - Fully-fledged functional effect system for typescript with a rich standard library.
+- [Funval](https://github.com/neuledge/funval) - Minimalist library for data validation using functions interfaces.
 
 ## Links
 
