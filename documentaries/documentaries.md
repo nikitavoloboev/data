@@ -1,6 +1,10 @@
 # Documentaries
 
-I have a list of all [documentaries I've seen](https://letterboxd.com/nikitavoloboev/list/documentaries-watched/) as well as [my favorite documentaries](https://letterboxd.com/nikitavoloboev/list/favorite-documentaries/).
+I seen a [few documentaries](https://letterboxd.com/nikitavoloboev/films/genre/documentary/).
+
+## Interesting
+
+- [The Botanist](https://www.youtube.com/watch?v=Yv_pJh9hKcA)
 
 ## Links
 

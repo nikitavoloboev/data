@@ -22,3 +22,4 @@
 - [How We Test Vector (2020)](https://vector.dev/blog/how-we-test-vector/) - Survey of techniques we've found useful.
 - [puppeteer + dom-testing-library](https://github.com/testing-library/pptr-testing-library)
 - [How SQLite Is Tested](https://www.sqlite.org/testing.html)
+- [Are Tests Necessary in TypeScript? (2020)](https://www.executeprogram.com/blog/are-tests-necessary-in-typescript) ([HN](https://news.ycombinator.com/item?id=22864598))

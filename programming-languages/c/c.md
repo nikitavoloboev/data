@@ -35,3 +35,4 @@
 - [Write a C interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it..
 - [tree-sitter-c](https://github.com/tree-sitter/tree-sitter-c) - C grammar for tree-sitter. Adapted from this C99 grammar.
 - [Awesome Clang](https://github.com/ingve/awesome-clang#readme)
+- [Tell HN: C Experts Panel – Ask us anything about C (2020)](https://news.ycombinator.com/item?id=22865357)

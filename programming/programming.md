@@ -123,7 +123,6 @@
 - [Ask HN: What change in your programming technique has been most transformative? (2020)](https://news.ycombinator.com/item?id=22129757)
 - [Curated list of awesome DIY software](https://github.com/cweagans/awesome-diy-software#readme)
 - [How Big Technical Changes Happen at Slack (2020)](https://slack.engineering/how-big-technical-changes-happen-at-slack-f1569d25ee7b) ([HN](https://news.ycombinator.com/item?id=22319210))
-- [Introduction to Thoughtful Programming and the Forth Philosophy (2002)](http://www.ultratechnology.com/forththoughts.htm)
 - [Lobsters: What's the best GUI library around? (2020)](https://lobste.rs/s/xx0snw/what_s_best_gui_library_around)
 - [Genetic programming is waiting for better tools - Rakhim Davletkaliyev (2019)](https://www.youtube.com/watch?v=Z5f1SDv-SCk)
 - [Computers can be understood (2020)](https://blog.nelhage.com/post/computers-can-be-understood/)

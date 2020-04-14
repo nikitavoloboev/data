@@ -282,6 +282,7 @@
   - [Standard ML](programming-languages/standard-ml.md)
   - [Unison](programming-languages/unison.md)
   - [D](programming-languages/d/d.md)
+  - [Forth](programming-languages/forth.md)
   - [Language Server Protocol](programming-languages/language-server-protocol.md)
 - [Data Science](data-science/data-science.md)
   - [Data Visualization](data-science/data-visualization.md)
