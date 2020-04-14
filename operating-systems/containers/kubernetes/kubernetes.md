@@ -171,3 +171,4 @@
 - [linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) - World's best service mesh proxy.
 - [Predictive Horizontal Pod Autoscaler](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler)
 - [Kubie](https://github.com/sbstp/kubie) - More powerful alternative to kubectx and kubens. ([Article](https://blog.sbstp.ca/introducing-kubie/))
+- [Crossplane](https://github.com/crossplane/crossplane) - Open source control plane to manage your infrastructure and applications the Kubernetes way.

@@ -69,6 +69,7 @@
 - [Akumuli](https://github.com/akumuli/Akumuli) - Time-series database.
 - [SSDB](https://github.com/ideawu/ssdb) - Redis compatible NoSQL database stored on disk.
 - [minikeyvalue](https://github.com/geohot/minikeyvalue) - Distributed key value store in under 1000 lines.
+- [Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication.
 
 ## Tools
 

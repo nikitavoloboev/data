@@ -30,3 +30,6 @@
 - [Why I’m leaving Elm (2020)](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/) ([HN](https://news.ycombinator.com/item?id=22821447)) ([Lobsters](https://lobste.rs/s/bgs2z4/why_i_m_leaving_elm)) ([Reddit](https://www.reddit.com/r/elm/comments/fxui3o/why_im_leaving_elm/))
 - [Building a web app with functional programming - Elm (2020)](https://blog.patchgirl.io/elm/2020/03/02/elm-part-I.html)
 - [Elm Compiler](https://github.com/elm/compiler)
+- [elm-spa](https://github.com/ryannhg/elm-spa) - Single page apps made easy.
+- [Code generation with elm](https://rhg.dev/posts/code-generation/)
+- [SSR for hackers](https://rhg.dev/posts/ssr-for-hackers/)

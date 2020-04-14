@@ -77,3 +77,4 @@
 - [OpenMesh](https://www.graphics.rwth-aachen.de/software/openmesh/) - Generic and efficient data structure for representing and manipulating polygonal meshes.
 - [Skia](https://github.com/google/skia) - Complete 2D graphic library for drawing Text, Geometries, and Images. ([Web](https://skia.org/))
 - [nbind](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript.
+- [Fiber Tasking Lib](https://github.com/RichieSams/FiberTaskingLib) - Library for enabling task-based multi-threading. It allows execution of task graphs with arbitrary dependencies.

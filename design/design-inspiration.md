@@ -113,6 +113,7 @@ Here are few more things I liked, design wise.
 - [Ramkumar Ramachandra](https://artagnon.com/) ([Code](https://github.com/artagnon/artagnon.com))
 - [Andreas Kirsch](https://www.blackhc.net/)
 - [Tina Smith](http://www.tinasmithdesign.com/)
+- [Ryan Haskell-Glatz](https://rhg.dev/)
 - [Erin](https://www.erinmcg.com/)
 - [Kohei Asai](https://axross.dev/)
 - [Sasha Greif](http://sachagreif.com/)

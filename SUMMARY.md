@@ -575,6 +575,8 @@
   - [Product Hunt](tools/product-hunt.md)
   - [DuckDuckGo](tools/duckduckgo.md)
   - [IFTTT](tools/ifttt.md)
+  - [Notion](tools/notion.md)
+  - [Ansible](tools/ansible.md)
   - [Dat](tools/dat.md)
   - [Email](tools/email.md)
   - [Slack](tools/slack.md)

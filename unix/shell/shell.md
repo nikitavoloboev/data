@@ -52,3 +52,4 @@ All active variables can be seen by running `env`.
 - [Three Comics For Understanding Unix Shell (2020)](http://www.oilshell.org/blog/2020/04/comics.html)
 - [Oil Shell](http://www.oilshell.org/) - New Unix shell. ([Blog](http://www.oilshell.org/blog/))
 - [asciinema](https://asciinema.org/) - Web player for terminal session recordings. ([Code](https://github.com/asciinema/asciinema-player))
+- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS.

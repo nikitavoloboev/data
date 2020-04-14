@@ -31,3 +31,4 @@
 - [Flok](https://munshkr.github.io/flok/) - Web-based P2P collaborative editor for live coding music and graphics. ([Code](https://github.com/munshkr/flok))
 - [go-libp2p examples and tutorials](https://github.com/libp2p/go-libp2p-examples)
 - [Berty](https://github.com/berty/berty) - Secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+- [Swarm](https://github.com/ethersphere/swarm) - Censorship resistant storage and communication infrastructure for a truly sovereign digital society.

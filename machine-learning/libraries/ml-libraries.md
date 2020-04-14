@@ -45,3 +45,4 @@
 - [FlexFlow](https://github.com/flexflow/FlexFlow) - Distributed deep learning framework that supports flexible parallelization strategies.
 - [DeltaPy⁠⁠](https://github.com/firmai/deltapy) - Tabular Data Augmentation & Feature Engineering.
 - [TensorStore](https://github.com/google/tensorstore) - Library for reading and writing large multi-dimensional arrays.
+- [FATE](https://github.com/FederatedAI/FATE) - Industrial Level Federated Learning Framework.
