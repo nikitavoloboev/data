@@ -46,3 +46,4 @@
 - [Let's Build A Web Server](https://github.com/rspivak/lsbaws)
 - [FF Proxy](https://github.com/TimeToogo/ff-proxy) - Proxy server which enables you to fire and forget HTTP requests.
 - [Understanding Cross-Origin Resource Sharing (CORS) (2019)](https://miguelmota.com/blog/understanding-cross-origin-resource-sharing-cors/)
+- [Comparing HTTP/3 vs. HTTP/2 Performance (2020)](https://blog.cloudflare.com/http-3-vs-http-2/) ([HN](https://news.ycombinator.com/item?id=22864573))

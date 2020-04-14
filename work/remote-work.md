@@ -44,3 +44,4 @@
 - [Remote Work - a guide to ensuring quality video conferencing (2020)](https://dev.to/stripe/remote-work-a-guide-to-ensuring-quality-video-conferencing-55fi)
 - [Established remote companies](https://github.com/yanirs/established-remote#readme)
 - [Pangian](https://pangian.com/) - Find the best curated & verified remote jobs at reputable companies.
+- [HN: Half of American workers would rather work from home forever (2020)](https://news.ycombinator.com/item?id=22864827)

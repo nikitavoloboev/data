@@ -130,3 +130,5 @@
 - [Books to study math from first principles (2020)](https://twitter.com/dan_abramov/status/1249344084981972992)
 - [The formula for pi buried in a hydrogen atom](https://www.rochester.edu/newscenter/discovery-of-classic-pi-formula-a-cunning-piece-of-magic-128002/) ([HN](https://news.ycombinator.com/item?id=22844196))
 - [Math Seminars](https://mathseminars.org/)
+- [Abstract Algebra Cheatsheet](https://github.com/mavam/abstract-algebra-cheatsheet)
+- [HN: Ladder of Algebraic Structures (2020)](https://news.ycombinator.com/item?id=22861731)
