@@ -25,3 +25,4 @@
 - [Bayesian Data Analysis (2020)](https://users.aalto.fi/~ave/BDA3.pdf)
 - [Bayesian Data Analysis course material (2020)](https://github.com/avehtari/BDA_course_Aalto)
 - [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
+- [At the Interface of Algebra and Statistics (2020)](https://www.youtube.com/watch?v=wiadG3ywJIs) ([Article](https://www.math3ma.com/blog/at-the-interface-of-algebra-and-statistics))

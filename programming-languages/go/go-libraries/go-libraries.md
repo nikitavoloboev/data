@@ -388,6 +388,7 @@
 - [mem](https://github.com/go4org/mem) - Cheap Go type to hold & operate on either a read-only []byte or string.
 - [cgroups](https://github.com/containerd/cgroups) - Go package for creating, managing, inspecting, and destroying cgroups.
 - [go-codec](https://github.com/ugorji/go) - Idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org.
+- [unik](https://git.sr.ht/~eliasnaur/unik) - Go module for running Go programs as unikernels, without an underlying operating system. ([HN](https://news.ycombinator.com/item?id=22858662))
 
 ## Links
 

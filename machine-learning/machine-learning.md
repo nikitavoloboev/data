@@ -220,3 +220,4 @@
 - [Notes on ML courses](https://github.com/alisher0717/machine-learning-notes)
 - [Made With ML](https://madewithml.com/) - Share what you've Made With ML.
 - [Backpropagation 101 (2020)](https://thinc.ai/docs/backprop101) - How to trick yourself into understanding backprop without even trying.
+- [A Spacetime Approach to Generalized Cognitive Reasoning in Multi-scale Learning (2017)](https://arxiv.org/abs/1702.04638)

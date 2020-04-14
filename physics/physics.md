@@ -62,3 +62,5 @@
 - [Essays by Jakob Schwichtenberg](http://jakobschwichtenberg.com/archive/)
 - [Physics From Symmetry book (2015)](http://physicsfromsymmetry.com/)
 - [No-Nonsense Books on Physics](https://nononsensebooks.com/)
+- [The Wolfram Physics Project (2020)](https://www.wolframphysics.org/) ([HN](https://news.ycombinator.com/item?id=22866284)) ([Video](https://www.youtube.com/watch?v=rbfFt2uNEyQ)) ([Article](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)) ([Code](https://github.com/maxitg/SetReplace))
+- [A Class of Models with the Potential to Represent Fundamental Physics](https://www.wolframphysics.org/technical-introduction/) ([Twitter](https://twitter.com/cmuratori/status/1250116047585210369))
