@@ -12,3 +12,4 @@
 - [Lighthouse 2 framework for real-time ray tracing](https://github.com/jbikker/lighthouse2)
 - [Dawn RT](https://github.com/maierfelix/dawn-ray-tracing) - Ray tracing extension for WebGPU.
 - [Quake II RTX](https://github.com/NVIDIA/Q2RTX) - NVIDIA’s implementation of RTX ray-tracing in Quake II.
+- [Performance comparison of parallel ray tracing in functional programming languages](https://github.com/athas/raytracers)

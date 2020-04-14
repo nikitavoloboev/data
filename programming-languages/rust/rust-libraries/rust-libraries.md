@@ -325,6 +325,9 @@
 - [merkle-tree-stream](https://github.com/datrs/merkle-tree-stream) - Stream that generates a merkle tree based on the incoming data.
 - [async-graphql](https://github.com/sunli829/async-graphql) - GraphQL server library that fully supports async/await and is easy to use.
 - [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer.
+- [generational-arena](https://github.com/fitzgen/generational-arena) - Safe arena allocator that allows deletion without suffering from the ABA problem by using generational indices.
+- [printpdf](https://github.com/fschutt/printpdf) - Library designed for creating printable PDF documents.
+- [rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications.
 
 ## Cargo Plugins
 

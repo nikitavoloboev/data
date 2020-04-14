@@ -9,6 +9,7 @@
 - [Companies / Sites using NextJS](https://github.com/zeit/next.js/discussions/10640)
 - [NextJS official examples](https://github.com/zeit/next.js/tree/canary/examples)
 - [Next + TypeScript + Yarn monorepo](https://github.com/josephluck/next-typescript-monorepo)
+- [Next.js SDK for signing in with Auth0](https://github.com/auth0/nextjs-auth0)
 
 ## NextJS plugins
 

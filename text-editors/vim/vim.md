@@ -46,3 +46,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Build Your Own Vim Emulation for VS Code (2020)](https://johtela.github.io/vscode-modaledit/docs/.vscode/settings.html) ([HN](https://news.ycombinator.com/item?id=22383841))
 - [130+ Essential Vim Commands (2020)](https://catswhocode.com/vim-commands/)
 - [libvim](https://github.com/onivim/libvim) - Core Vim editing engine as a minimal C library.
+- [diagnostic-nvim](https://github.com/haorenW1025/diagnostic-nvim) - Wrapper for neovim built in LSP diagnosis config.

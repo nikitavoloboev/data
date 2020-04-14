@@ -54,6 +54,7 @@
 - [PTCardTabBar](https://github.com/hussc/PTCardTabBar) - Card-Style TabBarController for iOS.
 - [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - Lets you create popups with a blurred background.
 - [Sliders](https://github.com/kieranb662/Sliders) - Collection of unique fully customizable SwiftUI sliders.
+- [Mantis](https://github.com/guoyingtao/Mantis) - Photo cropping tool which mimics Photo.app written by Swift.
 
 ## macOS
 
@@ -257,6 +258,7 @@
 - [ConsistencyManager](https://github.com/plivesey/ConsistencyManager) - Library that manages consistency of immutable models.
 - [CSProgress](https://github.com/CharlesJS/CSProgress) - Higher-performing, easier-to-use replacement class for Apple's NSProgress, written in Swift.
 - [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS and macOS.
+- [SwiftQL](https://github.com/SwifQL/SwifQL) - Swift DSL for type-safe, extensible, and transformable SQL queries.
 
 ## Other (not lib)
 
