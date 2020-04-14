@@ -103,3 +103,4 @@
 - [Towards understanding glasses with graph neural networks (2020)](https://deepmind.com/blog/article/Towards-understanding-glasses-with-graph-neural-networks)
 - [Early Vision (2020)](https://distill.pub/2020/circuits/early-vision/) - Guided tour of the first five layers of InceptionV1, taxonomized into “neuron groups.”.
 - [micrograd](https://github.com/karpathy/micrograd) - Tiny autograd engine and a neural net library on top of it, potentially for educational purposes.
+- [Learning from Small Neural Networks (2020)](https://medium.com/make-computer-science-fun-again/learning-from-small-neural-networks-6bc5ffc2f3d3)
