@@ -9,3 +9,4 @@
 - [Ask HN: What's the best resource for learning modern x64 assembly? (2020)](https://news.ycombinator.com/item?id=22279051)
 - [ARM GCC Inline Assembler Cookbook](http://www.ethernut.de/en/documents/arm-inline-asm.html)
 - [Getting started with bare-metal assembly (2020)](https://johv.dk/blog/bare-metal-assembly-tutorial.html) ([HN](https://news.ycombinator.com/item?id=22684881))
+- [Compiling to Assembly from Scratch (2020)](https://keleshev.com/compiling-to-assembly-from-scratch-the-book)

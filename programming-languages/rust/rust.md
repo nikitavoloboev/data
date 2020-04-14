@@ -182,3 +182,4 @@
 - [Canduma rust authentication server boilerplate](https://github.com/clifinger/canduma) - Rust Boilerplate server with GraphQL API, Diesel, PostgreSQL, session authentication and JWT.
 - [Rust teams structure](https://github.com/rust-lang/team)
 - [Rust Learning](https://github.com/ctjhoa/rust-learning#readme) - Bunch of links to blog posts, articles, videos, etc for learning Rust.
+- [How often does Rust change? (2020)](https://words.steveklabnik.com/how-often-does-rust-change) ([Lobsters](https://lobste.rs/s/rbpnib/how_often_does_rust_change)) ([HN](https://news.ycombinator.com/item?id=22842442))
