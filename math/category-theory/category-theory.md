@@ -65,6 +65,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [OCaml version of Category Theory For Programmers](https://github.com/ArulselvanMadhavan/ocaml-ctfp)
 - [Recursion schemes, categorically](https://hackmd.io/@oli-kitty/recursion-schemes-categorically)
 - [Todd Trimble: Geometry of regular relational calculus (2020)](https://www.youtube.com/watch?v=RonyrB0kLew)
+- [Bartosz Milewski's publications](https://github.com/BartoszMilewski/Publications)
 
 ## Images
 
