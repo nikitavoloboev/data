@@ -90,6 +90,7 @@ Here are few more things I liked, design wise.
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))
 - [Ernest Ojeh](https://ernestojeh.com/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)
+- [Sarah Lim](https://slim.computer/)
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))
 - [Mackenzie Child](https://www.mackenziechild.me/)
 - [Serge Zaitsev](https://zserge.com/)

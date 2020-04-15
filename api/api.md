@@ -36,6 +36,7 @@
 - [CartQL](https://cartql.com/) - GraphQL Shopping Cart API.
 - [Stream](https://getstream.io/) - Enterprise Grade Feed & Chat APIs.
 - [Telegraph API](https://telegra.ph/api) - Minimalist publishing tool that allows you to create richly formatted posts and push them to the Web in just a click.
+- [Intercom Node](https://github.com/intercom/intercom-node) - Node.js bindings for the Intercom API.
 
 ## Links
 
