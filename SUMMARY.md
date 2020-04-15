@@ -318,6 +318,7 @@
     - [CoreML](operating-systems/ios/coreml.md)
     - [HomeKit](operating-systems/ios/homekit.md)
   - [Android](operating-systems/android.md)
+  - [Emulators](operating-systems/emulators.md)
   - [Containers](operating-systems/containers/containers.md)
     - [Kubernetes](operating-systems/containers/kubernetes/kubernetes.md)
       - [Kubernetes plugins](operating-systems/containers/kubernetes/kubernetes-plugins.md)

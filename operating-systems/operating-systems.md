@@ -31,19 +31,6 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [seL4 microkernel](https://github.com/seL4/seL4) ([Article](https://microkerneldude.wordpress.com/2020/04/07/the-sel4-foundation-what-and-why/)) ([HN](https://news.ycombinator.com/item?id=22801864))
 - [Barebones amd64 kernel built using 9front](https://github.com/majiru/barebones9)
 
-## Emulators
-
-- [byuu](https://github.com/byuu/byuu) - Multi-system emulator focused on performance, features, and ease of use.
-- [QEMU](https://github.com/qemu/qemu) - Generic and open source machine & userspace emulator and virtualizer.
-- [Quickemu](https://github.com/wimpysworld/quickemu) - Simple script to "manage" Qemu virtual machines.
-- [Lisa Emulator](https://github.com/rayarachelian/lisaem)
-- [Shoebill](https://github.com/pruten/shoebill) - Macintosh II emulator that runs A/UX (and A/UX only).
-- [PCE.js](https://github.com/jsdf/pce) - Emulates Mac Plus, PC, & Atari ST in asm.js & WebAssembly.
-- [Nintendo 64 homebrew demo & tutorial](https://github.com/jsdf/n64-sdk-demo)
-- [The ultimate goal: a ternary computer](https://github.com/ssloy/triador)
-- [Citra](https://github.com/citra-emu/citra) - Nintendo 3DS Emulator.
-- [Dolphin](https://github.com/dolphin-emu/dolphin) - GameCube and Wii Emulator.
-
 ## Links
 
 - [Introduction to Operating Systems](http://pages.cs.wisc.edu/~bart/537/lecturenotes/titlepage.html)
@@ -80,7 +67,6 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Krabs](https://github.com/ellbrid/krabs) - x86 bootloader written in Rust.
 - [oreboot](https://github.com/oreboot/oreboot) - Fork of coreboot, with C removed, written in Rust.
 - [MIT Operating Systems Engineering course using RISC-V](https://pdos.csail.mit.edu/6.828/2019/schedule.html)
-- [QEMU](https://www.qemu.org/) - Generic and open source machine emulator and virtualizer. ([Docs](https://qemu.weilnetz.de/doc/qemu-doc.html))
 - [fectl](https://github.com/fafhrd91/fectl) - Client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems.
 - [1001 Ways of Implementing a System Call (2019)](https://x86.lol/generic/2019/07/04/kernel-entry.html)
 - [How I Switched To Plan 9 (2019)](http://helpful.cat-v.org/Blog/2019/12/03/0/)
