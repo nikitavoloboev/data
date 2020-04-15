@@ -94,3 +94,4 @@
 - [SpecAugment with Pytorch](https://github.com/zcaceres/spec_augment) - Pytorch Implementation of GoogleBrain's SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition.
 - [PyTorch SimCLR: A Simple Framework for Contrastive Learning of Visual Representations](https://github.com/sthalles/SimCLR)
 - [Neural Spline Flow, RealNVP, Autoregressive Flow, 1x1Conv in PyTorch](https://github.com/tonyduan/normalizing-flows)
+- [PyTorch implementation of NeRF (Neural Radiance Fields)](https://github.com/yenchenlin/nerf-pytorch)

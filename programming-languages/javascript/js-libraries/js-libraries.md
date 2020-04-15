@@ -214,6 +214,8 @@
 - [grapheme-splitter](https://github.com/orling/grapheme-splitter) - JavaScript library that breaks strings into their individual user-perceived characters.
 - [Web Animations](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API.
 - [p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency.
+- [Highcharts JS](https://github.com/highcharts/highcharts) - JavaScript charting library based on SVG.
+- [μPlot](https://github.com/leeoniya/uPlot) - Small, fast chart for time series, lines, areas, ohlc & bars.
 
 ## Links
 

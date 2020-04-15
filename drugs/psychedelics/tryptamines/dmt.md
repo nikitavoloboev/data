@@ -61,3 +61,4 @@
 - [Neural correlates of the DMT experience assessed with multivariate EEG](https://www.nature.com/articles/s41598-019-51974-4) ([HN](https://news.ycombinator.com/item?id=21588101))
 - [HN: 5-MeO-DMT: 20-minute psychoactive experience that’s transforming lives (2020)](https://news.ycombinator.com/item?id=22218645)
 - [Tryptamine to DMT synthesis](https://www.reddit.com/r/TheeHive/comments/fr7y09/tryptamine_to_dmt/)
+- [Brief History of 5-MeO DMT by Hamilton Morris (2019)](https://www.youtube.com/watch?v=Sw_q3ANRu38)

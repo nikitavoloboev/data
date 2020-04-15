@@ -54,3 +54,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Awesome Object Capabilities and Capability-based Security](https://github.com/dckc/awesome-ocap#readme)
 - [Brim](https://github.com/brimsec/brim) - Open source desktop application for security and network specialists.
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as some cryptographic flaws.
+- [AFL++](https://github.com/AFLplusplus/AFLplusplus) - Fuzzing framework.

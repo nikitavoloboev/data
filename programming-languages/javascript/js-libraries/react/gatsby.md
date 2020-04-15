@@ -26,6 +26,7 @@
 - [gatsby-source-figma](https://github.com/fabe/gatsby-source-figma) - Gatsby plugin for using Figma documents as a data source.
 - [gatsby-plugin-netlify-cache](https://github.com/axe312ger/gatsby-plugin-netlify-cache) - Caches your Gatsby .cache and public folder to speed up your build time by 10x.
 - [gatsby-plugin-next-seo](https://github.com/ifiokjr/gatsby-plugin-next-seo) - Plug in that makes managing your SEO easier in Gatsby projects.
+- [gatsby-plugin-prettier-build](https://github.com/jmsv/gatsby-plugin-prettier-build) - Prettify gatsby build output.
 
 ## Links
 

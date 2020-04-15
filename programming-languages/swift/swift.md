@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Swift Tips by Sundell](https://github.com/JohnSundell/SwiftTips)
+- [Swift Tips by Sundell](https://www.swiftbysundell.com/tips/) ([Code](https://github.com/JohnSundell/SwiftTips))
 - [Swift Tips by Luur](https://github.com/Luur/SwiftTips)
 - [WWDC videos](https://developer.apple.com/videos/)
 - [Swift for TensorFlow - TFiwS](https://www.youtube.com/watch?v=Yze693W4MaU&t=0s&index=14&list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN)
@@ -95,3 +95,4 @@
 - [Swift: Google’s bet on differentiable programming (2020)](https://tryolabs.com/blog/2020/04/02/swift-googles-bet-on-differentiable-programming/) ([HN](https://news.ycombinator.com/item?id=22820852))
 - [SwiftSyntaxHighlighter](https://github.com/NSHipster/SwiftSyntaxHighlighter) - Syntax highlighter for Swift code that uses SwiftSyntax to generate Pygments-compatible HTML.
 - [Awesome Embedded Swift](https://github.com/Cosmo/awesome-embedded-swift#readme)
+- [Swift Talk](https://talk.objc.io/) - Weekly video series on Swift programming. ([Code](https://github.com/objcio/swift-talk-backend))
