@@ -44,3 +44,4 @@ Might give it a go sometime.
 - [Emacs Lisp Style Guide](https://github.com/bbatsov/emacs-lisp-style-guide#readme)
 - [How do you setup emacs? (2020)](https://lobste.rs/s/uv4xpv/how_do_you_setup_emacs)
 - [The most successful malleable system in history (2020)](https://malleable.systems/blog/2020/04/01/the-most-successful-malleable-system-in-history/) ([HN](https://news.ycombinator.com/item?id=22875106))
+- [Ask HN: Resources to grok Emacs and use it well? (2020)](https://news.ycombinator.com/item?id=22881808)

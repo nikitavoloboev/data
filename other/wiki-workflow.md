@@ -61,6 +61,8 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Flavio Copes](https://flaviocopes.com/)
 - [Ellie's wiki](https://ellie.wiki/) ([Code](https://github.com/elliebike/wiki))
 - [Max Stoiber's notes](https://notes.mxstbr.com/Evergreen_notes)
+- [Tom Critchlow](https://tomcritchlow.com/wiki/)
+- [Buster Benson](https://busterbenson.com/piles/)
 - [Nick Belzer](https://wiki.nickbelzer.me/)
 - [The Commonplace Book](https://www.ralphrudd.com/)
 - [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)
@@ -133,3 +135,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Zettelkasten — How One German Scholar Was So Freakishly Productive (2019)](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
 - [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [Memex Mobile](https://github.com/WorldBrain/Memex-Mobile) - Mobile app for Memex.
+- [Thread on digital gardens, personal wikis, and experimental knowledge systems (2020)](https://twitter.com/Mappletons/status/1250532315459194880)
