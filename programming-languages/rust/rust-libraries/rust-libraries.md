@@ -330,6 +330,8 @@
 - [printpdf](https://github.com/fschutt/printpdf) - Library designed for creating printable PDF documents.
 - [rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications.
 - [llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures.
+- [tinyvec](https://github.com/Lokathor/tinyvec) - 100% safe crate of vec-like types.
+- [time](https://github.com/time-rs/time) - Simple time handling in Rust.
 
 ## Cargo Plugins
 

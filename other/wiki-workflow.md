@@ -55,6 +55,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Leon Bambrick](https://til.secretgeek.net/)
 - [Ben Lynn](http://www-cs-students.stanford.edu/~blynn/)
 - [Greg's wiki](https://mywiki.wooledge.org/EnglishFrontPage)
+- [Brandur's Fragments](https://brandur.org/fragments)
 - [Ioannis Kourouklides](https://wiki.kourouklides.com/wiki/Main_Page)
 - [Dmitrii Gerasimov](https://beepb00p.xyz/) ([Code](https://github.com/karlicoss/beepb00p))
 - [Flavio Copes](https://flaviocopes.com/)

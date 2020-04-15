@@ -63,3 +63,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [xcnotary](https://github.com/akeru-inc/xcnotary) - Missing macOS app notarization helper, built with Rust. ([HN](https://news.ycombinator.com/item?id=22743659))
 - [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS.
 - [Proxy Audio Driver](https://github.com/briankendall/proxy-audio-device) - Virtual audio driver for macOS to sends all audio to another output.
+- [Icons.app](https://github.com/SAP/macOS-icon-generator) - App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc.

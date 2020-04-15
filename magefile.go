@@ -10,7 +10,8 @@ import (
 	"github.com/magefile/mage/sh"
 )
 
-// TODO: duplicate links, ..
+// TODO: duplicate links, broken links
+// TODO: scan through all links in # Links or all links in wiki as whole
 
 // Find broken links
 func Clean() {
