@@ -262,6 +262,7 @@
 - [SwiftQL](https://github.com/SwifQL/SwifQL) - Swift DSL for type-safe, extensible, and transformable SQL queries.
 - [BonMot](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings in Swift.
 - [Smoke Framework](https://github.com/amzn/smoke-framework) - Light-weight server-side service framework.
+- [lumos](https://github.com/sushinoya/lumos) - Light Swift wrapper around Objective-C Runtime.
 
 ## Other (not lib)
 

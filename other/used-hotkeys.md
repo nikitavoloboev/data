@@ -55,6 +55,7 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - 7 - Search selection on /r/askcience
 - 8 - New 2Do quick task
 - 9 - Typinator quick search
+- u - Sip color picker
 - i - Tester
 - u - Open URL
 - p - Screenshot -> Imgur

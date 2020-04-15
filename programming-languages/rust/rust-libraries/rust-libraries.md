@@ -332,6 +332,7 @@
 - [llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures.
 - [tinyvec](https://github.com/Lokathor/tinyvec) - 100% safe crate of vec-like types.
 - [time](https://github.com/time-rs/time) - Simple time handling in Rust.
+- [regex-automata](https://github.com/BurntSushi/regex-automata) - Low level regular expression library that uses deterministic finite automata.
 
 ## Cargo Plugins
 
