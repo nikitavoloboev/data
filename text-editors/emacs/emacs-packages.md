@@ -2,7 +2,8 @@
 
 ## Other
 
-- [straight.el](https://github.com/raxod502/straight.el) - Next-generation, purely functional package manager for the Emacs hacker.
+- [company-mode](https://github.com/company-mode/company-mode) - Modular in-buffer completion framework for Emacs.
+- [CIDER](https://github.com/clojure-emacs/cider) - Clojure Interactive Development Environment that Rocks for Emacs.
 - [Lispy](https://github.com/abo-abo/lispy) - Short and sweet LISP editing.
 - [Eglot](https://github.com/joaotavora/eglot) - Client for Language Server Protocol servers.
 - [use-package](https://github.com/jwiegley/use-package) - Macro allows you to isolate package configuration in your .emacs file .
@@ -19,4 +20,5 @@
 
 ## Links
 
+- [straight.el](https://github.com/raxod502/straight.el) - Next-generation, purely functional package manager for the Emacs hacker.
 - [Good Style in modern Emacs Packages](https://zge.us.to/emacs-style.html) ([Lobsters](https://lobste.rs/s/8yvyz9/good_style_modern_emacs_packages))

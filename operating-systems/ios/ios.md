@@ -23,6 +23,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Lockdown](https://github.com/confirmedcode/lockdown-ios) - Open Source and free firewall for your iOS device.
 - [Blink Shell](https://github.com/blinksh/blink) - Professional, desktop-grade terminal for iOS that leverages the support of Mosh and SSH.
 - [OpenTrace](https://github.com/opentrace-community/opentrace-ios) - Open source reference implementation of BlueTrace.
+- [iTorrent](https://github.com/XITRIX/iTorrent) - iOS Torrent client App.
 
 ## Notes
 

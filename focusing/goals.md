@@ -1,6 +1,6 @@
 # Goals
 
-Aside from my main focus in life to express myself by building things I want to exist. Making, learning, writing, designing and sharing everything. I want to have a [direction in life](https://www.youtube.com/watch?v=NVGuFdX5guE) in form of longer term goals.
+Give myself a [direction in life](https://www.youtube.com/watch?v=NVGuFdX5guE) in form of longer term goals.
 
 ## Learn Anything
 

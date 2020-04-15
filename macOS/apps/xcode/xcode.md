@@ -38,3 +38,4 @@
 - [Downloader for Apple Developers](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers) - Download Xcode and other developer tools up to 16 times faster.
 - [Common Xcode configuration files/settings](https://github.com/xcconfigs/xcconfigs)
 - [Xcode Build Time Optimization (2020)](https://www.onswiftwings.com/posts/build-time-optimization-part1/) ([Code](https://github.com/sgl0v/OnSwiftWings))
+- [Mastering the assistant editor in Xcode 11 (2020)](https://www.avanderlee.com/xcode/xcode-assistant-editor/)
