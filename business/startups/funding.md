@@ -17,6 +17,7 @@
 - [TJ Holowaychuk](https://github.com/sponsors/tj)
 - [Rakhim D.](https://www.patreon.com/rakhim)
 - [Kitze](https://github.com/sponsors/kitze)
+- [Tatiana Mac](https://github.com/sponsors/tatianamac)
 
 ## Thanks pages
 
