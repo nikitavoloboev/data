@@ -32,3 +32,4 @@
 - [How to flash an LED (2020)](https://mcla.ug/blog/how-to-flash-an-led.html) ([HN](https://news.ycombinator.com/item?id=22774098))
 - [Espressif Systems](https://www.espressif.com/) - Semiconductor company.
 - [llhd](https://github.com/fabianschuiki/llhd) - Low Level Hardware Description — A foundation for building hardware design tools. [Web](http://www.llhd.io/)()
+- [Let’s Make More Calm Technology (2019)](https://onezero.medium.com/meet-accent-352cfa95813a)

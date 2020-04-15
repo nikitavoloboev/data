@@ -45,3 +45,4 @@
 - [REPL Debugging: No Stacktrace Required (2017)](http://blog.cognitect.com/blog/2017/6/5/repl-debugging-no-stacktrace-required) ([HN](https://news.ycombinator.com/item?id=22512273))
 - [Clojure Chat Streams](https://scicloj.github.io/pages/chat_streams/)
 - [Clojure is Great (2020)](https://www.reddit.com/r/Clojure/comments/fzvosa/holy_cow_clojure_is_great/)
+- [clj-kondo](https://github.com/borkdude/clj-kondo) - Linter for Clojure code that sparks joy.

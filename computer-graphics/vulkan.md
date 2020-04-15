@@ -11,3 +11,4 @@
 - [NVK](https://github.com/maierfelix/nvk) - Vulkan API for JavaScript/TypeScript.
 - [AMD Open Source Driver for Vulkan](https://github.com/GPUOpen-Drivers/AMDVLK)
 - [clspv](https://github.com/google/clspv) - Prototype compiler for a subset of OpenCL C to Vulkan compute shaders.
+- [LegitEngine](https://github.com/Raikiri/LegitEngine) - Rendergraph-based graphical framework for Vulkan.

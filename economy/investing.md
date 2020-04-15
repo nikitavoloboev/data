@@ -51,3 +51,4 @@
 - [Antifragile Investing: How to Not Be a Turkey](https://taylorpearson.me/antifragile-investing/)
 - [Financial Modeling Prep](https://financialmodelingprep.com/) - Concept that informs you about stock markets information.
 - [Turning my obsession in the stock market into a side project (2020)](https://eduardosasso.co/blog/turning-my-obsession-in-the-stock-market-into-a-side-project/) ([HN](https://news.ycombinator.com/item?id=22870667))
+- [Bullish](https://bullish.email/) - Free daily email newsletter with information about the stock market. ([Code](https://github.com/eduardosasso/bullish))
