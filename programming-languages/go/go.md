@@ -232,3 +232,4 @@ Go promotes composition over inheritance.
 - [Go Quirks (2020)](https://blog.sbstp.ca/go-quirks/)
 - [Debugging with Delve](https://tpaschalis.github.io/delve-debugging/) ([HN](https://news.ycombinator.com/item?id=22865526))
 - [GoDoc Tricks](https://godoc.org/github.com/fluhus/godoc-tricks) ([Code](https://github.com/fluhus/godoc-tricks))
+- [Thanos Coding Style Guide](https://thanos.io/contributing/coding-style-guide.md/)

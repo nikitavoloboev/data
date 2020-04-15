@@ -628,6 +628,7 @@
   - [DynamoDB](databases/dynamodb.md)
   - [MongoDB](databases/mongodb.md)
   - [FoundationDB](databases/foundationdb.md)
+  - [Prometheus](databases/prometheus.md)
   - [SQL](databases/sql/sql.md)
   - [Prisma](databases/prisma.md)
   - [Memcached](databases/memcached.md)

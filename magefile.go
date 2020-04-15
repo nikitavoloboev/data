@@ -12,6 +12,7 @@ import (
 
 // TODO: duplicate links, broken links
 // TODO: scan through all links in # Links or all links in wiki as whole
+// TODO: find .md files that are not in SUMMARY.md
 
 // Find broken links
 func Clean() {

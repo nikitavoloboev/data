@@ -39,7 +39,6 @@
 - [WatermelonDB](https://github.com/Nozbe/WatermelonDB) - Reactive & asynchronous database for powerful React and React Native apps.
 - [Neo4j](https://github.com/neo4j/neo4j) - High performance graph store with all the features expected of a mature and robust database, like a friendly query language and ACID transactions.
 - [Dgraph](https://github.com/dgraph-io/dgraph) - Horizontally scalable and distributed graph database, providing ACID transactions, consistent replication and linearizable reads.
-- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - High-performance, cost-effective and scalable time series database, long-term remote storage for Prometheus.
 - [MeiliDB](https://github.com/meilisearch/MeiliDB) - Full-text search database based on the fast LMDB key-value store.
 - [CrateDB](https://github.com/crate/crate) - Distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time.
 - [Riak](https://github.com/basho/riak) - Distributed, decentralized data storage system.
@@ -65,7 +64,7 @@
 - [SwayDB](https://github.com/simerplaha/SwayDB) - Fast embeddable persistent and in-memory key-value storage engine that provides storage as simple data structures - Map, Set & Queue.
 - [TrailDB](https://github.com/traildb/traildb) - Efficient tool for storing and querying series of events.
 - [QuestDB](https://github.com/questdb/questdb) - Relational database with ultimate time-series performance.
-- [Prometheus](https://github.com/prometheus/prometheus) - Systems and service monitoring system. ([Docker](https://github.com/vegasbrianc/prometheus))
+- [Prometheus](https://github.com/prometheus/prometheus) - Systems and service monitoring system.
 - [Akumuli](https://github.com/akumuli/Akumuli) - Time-series database.
 - [SSDB](https://github.com/ideawu/ssdb) - Redis compatible NoSQL database stored on disk.
 - [minikeyvalue](https://github.com/geohot/minikeyvalue) - Distributed key value store in under 1000 lines.
@@ -93,7 +92,6 @@
 - [Designing Data Intensive Applications Book](https://dataintensive.net/) - Deep dives into different types of data storage solutions, their history, and how they actually work.
 - [Scalable SQL and NoSQL Data Stores](http://www.cattell.net/datastores/Datastores.pdf) - Good paper that helps differentiate similar but different datastores. Really helpful when you're trying to pick a modern data solution.
 - ["Transactions: myths, surprises and opportunities" by Martin Kleppmann (2015)](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
-- [Thanos](https://github.com/improbable-eng/thanos) - Highly available Prometheus setup with long term storage capabilities.
 - [Using Apache Arrow, Calcite and Parquet to build a Relational Cache (2017)](https://www.youtube.com/watch?v=KMl9Py8o3pk)
 - [Apache Arrow](https://github.com/apache/arrow) - Development platform for in-memory analytics. It contains a set of technologies that enable big data systems to process and move data fast.
 - [Blazer](https://github.com/ankane/blazer) - Explore your data with SQL. Easily create charts and dashboards, and share them with your team.

@@ -124,7 +124,6 @@
 - [k3c](https://github.com/ibuildthecloud/k3c) - Local container engine designed to fill the same gap Docker does in the Kubernetes ecosystem.
 - [KubeNix](https://github.com/xtruder/kubenix) - Kubernetes resource builder using nix.
 - [Postgres Operator](https://github.com/zalando/postgres-operator) - Creates and manages PostgreSQL clusters running in Kubernetes.
-- [Cortex](https://github.com/cortexproject/cortex) - Horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.
 - [Contour](https://github.com/projectcontour/contour) - Kubernetes ingress controller using Lyft's Envoy proxy.
 - [Roperator](https://github.com/psFried/roperator) - Lets you easily write Kubernetes Operators in Rust.
 - [Krustlet](https://github.com/deislabs/krustlet) - Kubernetes Kubelet in Rust for running WASM. ([Article](https://deislabs.io/posts/introducing-krustlet/))
