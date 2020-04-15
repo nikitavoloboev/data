@@ -658,6 +658,7 @@
   - [Load balancing](distributed-systems/load-balancing.md)
   - [Message queue](distributed-systems/message-queue/message-queue.md)
     - [ZeroMQ](distributed-systems/message-queue/zeromq.md)
+    - [MQTT](distributed-systems/message-queue/mqtt.md)
 - [Backups](backups/backups.md)
 - [Space](space/space.md)
   - [Black holes](space/black-holes.md)

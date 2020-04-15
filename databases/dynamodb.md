@@ -18,3 +18,4 @@
 - [5 Things I Learned from The DynamoDB Book (2020)](https://www.swyx.io/writing/dynamodb-book/) ([Twitter](https://twitter.com/swyx/status/1247585165766832128))
 - [Rules for Data Modeling with DynamoDB (2020)](https://www.trek10.com/blog/the-ten-rules-for-data-modeling-with-dynamodb) ([HN](https://news.ycombinator.com/item?id=22813908))
 - [Dynobase](https://dynobase.dev/) - Professional GUI Client for DynamoDB.
+- [dynomite](https://github.com/softprops/dynomite) - Make your rust types fit DynamoDB and visa versa.

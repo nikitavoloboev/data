@@ -30,3 +30,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Bats](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 - [HN: Renaming files with mv without typing the name two times](https://news.ycombinator.com/item?id=22859935)
 - [The first two statements of your BASH script should be.. (2020)](https://ashishb.net/all/the-first-two-statements-of-your-bash-script-should-be/) ([Lobsters](https://lobste.rs/s/ajoaje/first_two_statements_your_bash_script))
+- [Bash code](https://github.com/bminor/bash)
