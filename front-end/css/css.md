@@ -64,7 +64,7 @@
 - [A real-life journey into the opinionated world of 'utility-first' CSS (2018)](https://www.youtube.com/watch?v=2-q4asoHUqU)
 - [CSS and Scalability (2016)](https://mrmrs.cc/writing/scalable-css/)
 - [cssdb](https://cssdb.org/) - Comprehensive list of CSS features and their positions in the process of becoming implemented web standards.
-- [Relearn CSS layout: Every Layout](https://absolutely.every-layout.dev/) - How to better harness the built-in algorithms that power browsers and CSS. ([HN](https://news.ycombinator.com/item?id=20196061))
+- [Relearn CSS layout: Every Layout](https://absolutely.every-layout.dev/) - How to better harness the built-in algorithms that power browsers and CSS. ([HN](https://news.ycombinator.com/item?id=20196061)) ([Blog](https://every-layout.dev/blog/algorithmic-design/))
 - [Basscss](https://github.com/basscss/basscss) - Low-level CSS Toolkit.
 - [PurgeCSS](https://github.com/FullHuman/purgecss) - Remove unused css.
 - [CSS Remedy](https://github.com/mozdevs/cssremedy) - Start your project with a remedy for the technical debt of CSS.

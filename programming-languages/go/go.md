@@ -234,3 +234,4 @@ Go promotes composition over inheritance.
 - [GoDoc Tricks](https://godoc.org/github.com/fluhus/godoc-tricks) ([Code](https://github.com/fluhus/godoc-tricks))
 - [Thanos Coding Style Guide](https://thanos.io/contributing/coding-style-guide.md/)
 - [faillint](https://github.com/fatih/faillint) - Report unwanted import path and declaration usages.
+- [Broccoli](https://github.com/aletheia-icu/broccoli) - Using brotli compression to embed static files in Go.
