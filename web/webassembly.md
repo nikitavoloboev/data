@@ -69,3 +69,4 @@
 - [Wasminspect](https://github.com/kateinoigakukun/wasminspect) - Interactive Debugger for WebAssembly.
 - [Run Clang in WebAssembly](https://github.com/wapm-packages/clang)
 - [Wasienv](https://github.com/wasienv/wasienv) - WASI Development Toolchain for C/C++.
+- [Enarx](https://github.com/enarx/enarx) - Tools for deploying WebAssembly into Enarx Keeps.

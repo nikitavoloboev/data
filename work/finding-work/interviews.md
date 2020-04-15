@@ -66,3 +66,4 @@
 - [The Eng Hiring Bar: What the hell is it? (2020)](http://blog.interviewing.io/the-eng-hiring-bar-what-the-hell-is-it/)
 - [Questions to ask at the end of a technical interview (2017)](https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview) ([HN](https://news.ycombinator.com/item?id=22841164))
 - [How To Interview Engineers When You’re Not Technical](https://www.greghausheer.com/articles/how-to-interview-engineers-when-youre-not-technical) ([Part 2](https://www.greghausheer.com/articles/how-to-interview-engineers-when-youre-not-technical-part-ii)) ([HN](https://news.ycombinator.com/item?id=22855122))
+- [Cockroach Labs Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process#readme)

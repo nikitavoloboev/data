@@ -107,6 +107,7 @@
 - [Forbidden Fruit](https://github.com/clarete/forbiddenfruit) - Allows Python code to extend built-in types.
 - [PandaPy](https://github.com/firmai/pandapy) - Has the speed of NumPy and the usability of Pandas (10x to 50x faster).
 - [dramatiq](https://github.com/Bogdanp/dramatiq) - Fast and reliable background task processing library for Python 3.
+- [More Itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools.
 
 ## Links
 
