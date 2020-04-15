@@ -59,3 +59,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS: For developers (2020)](https://myme.no/posts/2020-01-26-nixos-for-development.html) ([Lobsters](https://lobste.rs/s/jevfaf/nixos_for_developers))
 - [nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell.
 - [Erase your darlings (2020)](https://grahamc.com/blog/erase-your-darlings) ([HN](https://news.ycombinator.com/item?id=22856199)) ([Lobsters](https://lobste.rs/s/2ayklq/erase_your_darlings_immutable))
+- [Building a web app with functional programming - NixOS (2020)](https://blog.patchgirl.io/nixos/2020/03/31/nixos.html) ([HN](https://news.ycombinator.com/item?id=22877355))

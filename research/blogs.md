@@ -52,7 +52,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [openring](https://git.sr.ht/~sircmpwn/openring) - Tool for generating a webring from RSS feeds, so you can link to other blogs you like on your own blog. ([HN](https://news.ycombinator.com/item?id=20191603))
 - [6 blog tips for busy academics](http://matt.might.net/articles/how-to-blog-as-an-academic/)
 - [twtxt](https://github.com/buckket/twtxt) - Decentralised, minimalist microblogging service for hackers.
-- [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
+- [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) ([HN](https://news.ycombinator.com/item?id=22876273))
 - [Rust blog source](https://github.com/rust-lang/blog.rust-lang.org)
 - [Ask HN: What are the niche blogs (like gwern) that worthwhile to follow? (2020)](https://news.ycombinator.com/item?id=21928170)
 - [Your own hosted blog, the easy, free, open way (even if you're not a computer expert) (2020)](https://www.fast.ai/2020/01/16/fast_template/) ([Tweet](https://twitter.com/jeremyphoward/status/1217909025259442176))

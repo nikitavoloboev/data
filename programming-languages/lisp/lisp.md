@@ -42,3 +42,4 @@
 - [Small minimalistic LISP interpreter in Node](https://github.com/mafintosh/minilisp)
 - [Understanding the Power of LISP (2020)](https://joshbradley.me/understanding-the-power-of-lisp/)
 - [GLISP](https://github.com/baku89/glisp) - LISP-based graphic design tool.
+- [Programming Algorithms in Lisp](https://leanpub.com/progalgs)
