@@ -53,6 +53,7 @@
 - [Threads](https://github.com/tkf/ThreadsX.jl) - Parallelized Base functions.
 - [DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) - Implements a variety of data structures.
 - [Literate](https://github.com/fredrikekre/Literate.jl) - Simple package for literate programming in Julia.
+- [AbstractTrees](https://github.com/JuliaCollections/AbstractTrees.jl) - Abstract julia interfaces for working with trees.
 
 ## Links
 

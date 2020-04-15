@@ -165,3 +165,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [WhyTheName](https://wiki.debian.org/WhyTheName) ([HN](https://news.ycombinator.com/item?id=22790623))
 - [Heavy Fish Design](http://heavyfishdesign.com/) - JSON-like language for designing and layout of parts for laser cutters or CNC routers. ([Code](https://github.com/dustismo/heavyfishdesign))
 - [Your statement is correct but misses the point](http://nibblestew.blogspot.com/2020/04/your-statement-is-100-correct-but.html) ([HN](https://news.ycombinator.com/item?id=22854475))
+- [CodeCrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.

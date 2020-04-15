@@ -24,6 +24,7 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [MonoLisa](https://monolisa.dev/)
 - [Recursive Sans & Mono](https://www.recursive.design/) - Variable font family for code & UI. ([Code](https://github.com/arrowtype/recursive))
 - [Baudelaire](https://amandapinsker.com/project/baudelaire) - Modern transitional serif typeface.
+- [Fira Sans](http://mozilla.github.io/Fira/) - Mozilla's new typeface, used in Firefox OS. ([Code](https://github.com/mozilla/Fira))
 
 ## Links
 
@@ -54,3 +55,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Showcase of OpenType Features](https://otf.show/hlig) ([Code](https://github.com/dvkndn/otf.show))
 - [monospacifier.py](https://github.com/cpitclaudel/monospacifier) - Great way to increase the Unicode coverage of your favorite programming font.
 - [Chrome Detect Font](https://github.com/hmarr/chrome-detect-font) - Easily see which fonts are in use.
+- [Font Bakery](https://github.com/googlefonts/fontbakery) - Command-line tool for checking the quality of font projects.

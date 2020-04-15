@@ -22,3 +22,4 @@
 - [Using Combine](https://heckj.github.io/swiftui-notes/) - Notes on learning Combine with UIKit and SwiftUI.
 - [GRDBCombine](https://github.com/groue/GRDBCombine) - Set of extensions for SQLite, GRDB.swift, and Combine.
 - [NewsApp built with SwiftUI & Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)
+- [CombineExt](https://github.com/CombineCommunity/CombineExt) - Provides a collection of operators, publishers and utilities for Combine.

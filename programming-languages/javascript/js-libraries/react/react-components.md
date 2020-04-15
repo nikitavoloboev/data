@@ -84,6 +84,7 @@
 - [react-error-boundary](https://github.com/bvaughn/react-error-boundary) - Simple reusable React error boundary component.
 - [Eitherx](https://github.com/mfix22/eitherx) - Super simple, reusable either-or error boundaries for React.
 - [Motion Layout](https://github.com/jeffersonlicet/react-motion-layout) - Beautiful immersive React hero animations.
+- [React Focus Lock](https://github.com/theKashey/react-focus-lock) - Browser friendly focus lock.
 
 ## Links
 

@@ -260,6 +260,7 @@
 - [CSProgress](https://github.com/CharlesJS/CSProgress) - Higher-performing, easier-to-use replacement class for Apple's NSProgress, written in Swift.
 - [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - Swift based OAuth library for iOS and macOS.
 - [SwiftQL](https://github.com/SwifQL/SwifQL) - Swift DSL for type-safe, extensible, and transformable SQL queries.
+- [BonMot](https://github.com/Rightpoint/BonMot) - Beautiful, easy attributed strings in Swift.
 
 ## Other (not lib)
 

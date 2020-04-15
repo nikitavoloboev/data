@@ -41,6 +41,8 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [PCE.js](https://github.com/jsdf/pce) - Emulates Mac Plus, PC, & Atari ST in asm.js & WebAssembly.
 - [Nintendo 64 homebrew demo & tutorial](https://github.com/jsdf/n64-sdk-demo)
 - [The ultimate goal: a ternary computer](https://github.com/ssloy/triador)
+- [Citra](https://github.com/citra-emu/citra) - Nintendo 3DS Emulator.
+- [Dolphin](https://github.com/dolphin-emu/dolphin) - GameCube and Wii Emulator.
 
 ## Links
 
@@ -92,3 +94,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Green Threads Explained in Rust](https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/) ([Code](https://github.com/cfsamson/example-greenthreads)) ([Reddit](https://www.reddit.com/r/rust/comments/bzp0cz/green_threads_explained_in_200_lines_of_rust/))
 - [Solo5](https://github.com/Solo5/solo5) - Sandboxed execution environment for unikernels.
 - [Mbox](https://pdos.csail.mit.edu/archive/mbox/) - Lightweight sandboxing mechanism that any user can use without special privileges in commodity operating systems. ([Code](https://github.com/tsgates/mbox))
+- [Awesome Plan9](https://github.com/henesy/awesome-plan9#readme)

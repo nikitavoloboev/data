@@ -56,6 +56,7 @@
 - [Manners](https://github.com/braintree/manners) - Polite Go HTTP server that shuts down gracefully.
 - [httpretty](https://github.com/henvic/httpretty) - Package httpretty prints the HTTP requests you make with Go pretty on your terminal.
 - [Resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go.
+- [Typhon](https://github.com/monzo/typhon) - Wrapper around Go's net/http to provide safety and convenience.
 
 ## GraphQL
 
@@ -390,6 +391,8 @@
 - [go-codec](https://github.com/ugorji/go) - Idiomatic codec and rpc lib for msgpack, cbor, json, etc. msgpack.org.
 - [unik](https://git.sr.ht/~eliasnaur/unik) - Go module for running Go programs as unikernels, without an underlying operating system. ([HN](https://news.ycombinator.com/item?id=22858662))
 - [Mimic](https://github.com/bwplotka/mimic) - Define your Configuration, Infrastructure and Deployments as Go Code.
+- [workerpool](https://github.com/gammazero/workerpool) - Concurrency limiting goroutine pool.
+- [mimetype](https://github.com/gabriel-vasile/mimetype) - Simple golang library for detecting the MIME type and file extension, based on magic numbers.
 
 ## Links
 

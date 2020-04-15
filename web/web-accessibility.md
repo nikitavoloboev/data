@@ -14,3 +14,4 @@
 - [One of my favorite accessibility testing tools: The Tab Key](https://www.matuzo.at/blog/testing-with-tab/)
 - [Dao of Web Design (2000)](https://alistapart.com/article/dao/) ([HN](https://news.ycombinator.com/item?id=22521557))
 - [N26 and lack of JavaScript](https://hugogiraudel.com/2020/01/20/n26-and-lack-of-javascript/)
+- [AriaNg](https://github.com/mayswind/AriaNg) - Modern web frontend making aria2 easier to use.

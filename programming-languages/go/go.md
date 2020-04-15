@@ -231,3 +231,4 @@ Go promotes composition over inheritance.
 - [Understanding bytes in Go by building a TCP protocol (2020)](https://ieftimov.com/post/understanding-bytes-golang-build-tcp-protocol/)
 - [Go Quirks (2020)](https://blog.sbstp.ca/go-quirks/)
 - [Debugging with Delve](https://tpaschalis.github.io/delve-debugging/) ([HN](https://news.ycombinator.com/item?id=22865526))
+- [GoDoc Tricks](https://godoc.org/github.com/fluhus/godoc-tricks) ([Code](https://github.com/fluhus/godoc-tricks))

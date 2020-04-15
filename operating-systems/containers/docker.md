@@ -45,3 +45,4 @@
 - [Docker CE](https://github.com/docker/docker-ce) - Hosts open source components of Docker CE products.
 - [Docker 101: A basic web-server displaying hello world (2020)](https://ashishb.net/tech/docker-101-a-basic-web-server-displaying-hello-world/) ([Lobsters](https://lobste.rs/s/2shdx5/docker_101_basic_web_server_displaying))
 - [magicpak](https://github.com/coord-e/magicpak) - Build minimal docker images without static linking. ([HN](https://news.ycombinator.com/item?id=22859993))
+- [DevOps with Docker](https://devopswithdocker.com/) - Introductory course to Docker and docker-compose. ([Code](https://github.com/docker-hy/docker-hy.github.io))
