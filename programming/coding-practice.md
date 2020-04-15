@@ -56,3 +56,6 @@
 
 - [TypeScript](https://github.com/exercism/typescript)
 
+## Other
+
+- [Cracking the Coding Interview with Rust](https://github.com/brndnmtthws/cracking-the-coding-interview-rust)

@@ -142,6 +142,7 @@
 - [Founder's Field Guide for Navigating Crisis (2020)](https://firstround.com/review/the-founders-field-guide-for-navigating-this-crisis-advice-from-recession-era-leaders-investors-and-ceos-currently-at-the-helm/) ([HN](https://news.ycombinator.com/item?id=22826354))
 - [Seven tough lessons from ten years in bootstrapped business (2018)](https://likewise.am/2018/12/01/seven-tough-lessons-from-ten-years-in-bootstrapped-business/)
 - [Forward Thinking Founders](https://forwardthinking.substack.com/)
+- [Startup Ideas (2019)](https://brndn.io/blog/2019/12/02/startup-ideas/)
 
 ## Images
 
