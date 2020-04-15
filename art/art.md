@@ -49,6 +49,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Harriet Lee-Merrion](https://www.harrietleemerrion.com/)
 - [Daniel Castro Maia](https://www.dcmaia.art/)
 - [Pierpaolo Rovero](https://www.instagram.com/pierpaolorovero/)
+- [Eva Eskelinen](https://www.instagram.com/evelmiina/)
 - [Moonassi](http://www.moonassi.com/)
 - [Liam Wong](https://www.liamwong.com/)
 - [Pascal Campion](https://www.instagram.com/pascalcampionart/)
