@@ -17,3 +17,4 @@
 - [ioredis](https://github.com/luin/ioredis) - Robust, performance-focused and full-featured Redis client for Node.js.
 - [rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust.
 - [Prometheus Exporter for Redis Metrics](https://github.com/oliver006/redis_exporter)
+- [mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete, idiomatic implementation of a Redis client and server built with Tokio.
