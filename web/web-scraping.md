@@ -14,3 +14,4 @@
 - [Newscatcher](https://newscatcherapi.com/) - Programmatically collect normalized news from (almost) any website. ([Code](https://github.com/kotartemiy/newscatcher))
 - [scrapio](https://github.com/Koshqua/scrapio) - Simple and easy-to-use scraper and crawler in Go.
 - [Colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang.
+- [Python Web Scraping with Virtual Private Networks (2020)](https://tech.marksblogg.com/python-scraper-wireguard-vpn-ssh-proxy.html)

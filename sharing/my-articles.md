@@ -39,7 +39,3 @@ The number between brackets shows the year I wrote the article in.
 ## Writing
 
 - [Why Medium? (2016)](https://medium.com/@nikitavoloboev/why-medium-ff9b13fefe61#.guictx69p) - Why host my writing on Medium and not my own website.
-
-## Fragments
-
-I share small notes that one day can become published articles as [Fragments](../fragments/fragments.md).

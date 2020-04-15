@@ -14,7 +14,7 @@ Aside from this wiki, I share [code snippets](https://code.nikitavoloboev.xyz) a
 
 ## Other things I wrote and shared
 
-I share my knowledge in longer form by [writing articles](sharing/my-articles.md) and making [YouTube videos](sharing/my-youtube.md).
+I share my knowledge in longer form by [writing articles](sharing/my-articles.md) and making [YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/videos).
 
 I also love [writing code](sharing/my-github.md) that solves various problems I have and I share it all on [GitHub](https://github.com/nikitavoloboev).
 

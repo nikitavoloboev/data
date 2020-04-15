@@ -20,15 +20,13 @@ I share [everything I know](everything-I-know.md) in form of this wiki, [article
 
 I share songs I like in [form of playlists](../music/music-playlists.md). I also share music I am [listening to now](https://www.last.fm/user/playfullyExist) and [artists I love](../music/music-artists.md).
 
-## Videos on [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw)
+## Videos on [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/videos)
 
-I make videos about macOS & code. [Here](my-youtube.md) are all the videos I made. I also share [many YouTube playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists?view_as=subscriber) I made.
+I also share [YouTube playlists](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/playlists) I made.
 
 ## Ideas in [Trello](https://trello.com/b/alB1ryRP)
 
-My time is limited and I can't often do everything I wish. But I have many ideas so I put all of them [in the open](https://trello.com/b/alB1ryRP).
-
-I have [many more Trello boards](my-trello.md) I use and share.
+My time is limited and I can't often do everything I wish. But I have many ideas so I put all of them [in the open](https://www.notion.so/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332).
 
 ## macOS/iOS group on [Telegram](https://t.me/joinchat/BBKnQU4_rty6_942PFbPbw)
 
