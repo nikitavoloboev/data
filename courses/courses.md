@@ -16,3 +16,4 @@ I have not taken many MOOCs so far but one I did take and quite liked was [Learn
 - [600 free courses from universities (2018)](https://www.classcentral.com/report/new-courses-october-2018/)
 - [Top Coursera courses](https://www.classcentral.com/provider/coursera?sort=rating-up)
 - [Ask HN: Recommend me a course on Coursera (2020)](https://news.ycombinator.com/item?id=22826722)
+- [Pluralsight](https://www.pluralsight.com/) - Courses platform.

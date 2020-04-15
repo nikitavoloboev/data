@@ -70,6 +70,7 @@
 - [SSDB](https://github.com/ideawu/ssdb) - Redis compatible NoSQL database stored on disk.
 - [minikeyvalue](https://github.com/geohot/minikeyvalue) - Distributed key value store in under 1000 lines.
 - [Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication.
+- [TerminusDB](https://terminusdb.com/) - Full featured in-memory graph database management system with a rich query language. ([Code](https://github.com/terminusdb/terminus-server)) ([HN](https://news.ycombinator.com/item?id=22867767))
 
 ## Tools
 
@@ -119,3 +120,5 @@
 - [The High Cost of Splitting Related Data (2020)](http://kevinmahoney.co.uk/articles/the-high-cost-of-splitting-related-data/)
 - [Awesome Database Tools](https://github.com/mgramin/awesome-db-tools#readme)
 - [Storage: Complete Overview for Developers (2020)](https://developer.sh/posts/storage-technologies-for-developers)
+- [Event-Reduce](https://github.com/pubkey/event-reduce) - Algorithm to optimize database queries that run multiple times.
+- [Apache Druid vs. Time-Series Databases (2019)](https://imply.io/post/apache-druid-vs-time-series-databases) ([HN](https://news.ycombinator.com/item?id=22868286))

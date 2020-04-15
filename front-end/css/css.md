@@ -124,3 +124,5 @@
 - [postcss-trash-killer](https://github.com/Rammfall/postcss-trash-killer) - Postcss plugin which wil be remove all unused css.
 - [Solved with CSS! Logical Styling Based on the Number of Given Elements (2018)](https://css-tricks.com/solved-with-css-logical-styling-based-on-the-number-of-given-elements/)
 - [CSS Doodle](https://css-doodle.com/) - Web component for drawing patterns with CSS. ([Code](https://github.com/css-doodle/css-doodle))
+- [Sakura](https://github.com/oxalorg/sakura) - Minimal classless css framework / theme.
+- [Sakura Bookmarklet](https://oxal.org/projects/sakura/bookmark) - Enable Sakura.css on any website.

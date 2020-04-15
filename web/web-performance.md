@@ -59,3 +59,4 @@
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.
 - [Package Phobia](https://packagephobia.now.sh/) - Find the cost of adding a new dependency to your project. ([Code](https://github.com/styfle/packagephobia))
 - [WebPageTest](https://www.webpagetest.org/) - Test a website's performance.
+- [Monitor your web page's total memory usage with `performance.measureMemory()`](https://web.dev/monitor-total-page-memory-usage/) ([HN](https://news.ycombinator.com/item?id=22860859))

@@ -328,6 +328,7 @@
 - [generational-arena](https://github.com/fitzgen/generational-arena) - Safe arena allocator that allows deletion without suffering from the ABA problem by using generational indices.
 - [printpdf](https://github.com/fschutt/printpdf) - Library designed for creating printable PDF documents.
 - [rust-prometheus](https://github.com/tikv/rust-prometheus) - Prometheus instrumentation library for Rust applications.
+- [llvm-ir](https://github.com/cdisselkoen/llvm-ir) - LLVM IR in natural Rust data structures.
 
 ## Cargo Plugins
 
