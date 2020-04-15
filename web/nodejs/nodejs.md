@@ -70,3 +70,4 @@
 - [node-cpp-skel](https://github.com/mapbox/node-cpp-skel) - Skeleton for bindings to C++ libraries for Node.js using node-addon-api.
 - [Domain-Driven Design w/ TypeScript & Node.js](https://khalilstemmler.com/courses/domain-driven-design-typescript/)
 - [Official Docker Image for Node.js](https://github.com/nodejs/docker-node)
+- [Learn ES Modules in Node with Myles Borins (2020)](https://www.youtube.com/watch?v=qeCncjPWD1A)

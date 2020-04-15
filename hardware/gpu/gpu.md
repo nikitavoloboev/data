@@ -9,4 +9,4 @@
 - [GPU hardware effects](https://github.com/Kobzol/hardware-effects-gpu) - Demonstration of various hardware effects on CUDA GPUs.
 - [Basis Universal GPU Texture Codec](https://github.com/BinomialLLC/basis_universal)
 - [NVIDIA GPU Monitoring Tools](https://github.com/NVIDIA/gpu-monitoring-tools)
-- [Taste of GPU Compute (2020)](https://www.youtube.com/watch?v=eqkAaplKBc4) ([Slides](https://docs.google.com/presentation/d/1FRH81IW9RffkJjm6ILFZ7raCgFAUPXYYFXfiyKmhkx8/edit))
+- [A Taste of GPU Compute (2020)](https://www.youtube.com/watch?v=eqkAaplKBc4) ([Slides](https://docs.google.com/presentation/d/1FRH81IW9RffkJjm6ILFZ7raCgFAUPXYYFXfiyKmhkx8/edit))
