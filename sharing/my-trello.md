@@ -8,7 +8,7 @@
 
 ## Moving to Notion
 
-I am moving these boards from Trello to Notion eventually.
+I am moving these boards from Trello to Notion.
 
 - [Ideas](https://www.notion.so/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332)
 - [Learn](https://www.notion.so/Learn-05c0eac7be904e0da89cd8a3bf7ab509)

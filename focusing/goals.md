@@ -30,7 +30,7 @@ Read books & research papers relevant to problems I want to solve. This means re
 
 Rebuild my personal website & have my own hosted blog I can extend (with RSS feed). Start writing to it. Share tools/projects details on my website.
 
-Start teaching with videos. Review, edit & publish quality content. Clean up old content, delete outdated and refine it (wiki, github, personal site, ..).
+Start teaching with videos. Review, edit & publish quality content. Clean up old content, delete outdated info and refine things (wiki, github, personal site, ..).
 
 ## Clean up 2Do/GitHub tasks
 
