@@ -216,6 +216,8 @@
 - [p-limit](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency.
 - [Highcharts JS](https://github.com/highcharts/highcharts) - JavaScript charting library based on SVG.
 - [μPlot](https://github.com/leeoniya/uPlot) - Small, fast chart for time series, lines, areas, ohlc & bars.
+- [Baobab](https://github.com/Yomguithereal/baobab) - JavaScript & TypeScript persistent and optionally immutable data tree with cursors.
+- [emoji-regex](https://github.com/mathiasbynens/emoji-regex) - Regular expression to match all Emoji-only symbols as per the Unicode Standard.
 
 ## Links
 

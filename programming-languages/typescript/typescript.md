@@ -89,6 +89,7 @@
 - [Introduction to Functional Programming using TypeScript and fp-ts](https://github.com/enricopolanski/functional-programming)
 - [TypeScript website code](https://github.com/microsoft/TypeScript-Website) - Website and web infrastructure for learning TypeScript.
 - [Functional TypeScript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions.
+- [TSJS-lib-generator](https://github.com/microsoft/TSJS-lib-generator) - TypeScript and JavaScript lib generator.
 
 ## Images
 

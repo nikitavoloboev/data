@@ -58,3 +58,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
 - [aws-api-tools](https://github.com/jaypipes/aws-api-tools) - Tools to explore and transform AWS service APIs.
 - [Kubernetes Daemonset to gracefully handle EC2 instance shutdown](https://github.com/aws/aws-node-termination-handler)
+- [AWS CDK RFCs](https://github.com/aws/aws-cdk-rfcs#readme)

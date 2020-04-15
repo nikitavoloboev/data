@@ -20,3 +20,4 @@
 - [imgmaker](https://github.com/minimaxir/imgmaker) - Create high-quality images programmatically with easily-hackable templates.
 - [Halide](https://github.com/halide/Halide) - Language for fast, portable data-parallel computation. ([Web](https://halide-lang.org/))
 - [video-loops](https://github.com/luluxxxxx/video-loops) - Automatic looping of image sequence using optical flow.
+- [imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-first HTTP microservice for high-level image processing.

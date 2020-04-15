@@ -14,6 +14,7 @@
 - [GluonTS](https://github.com/awslabs/gluon-ts) - Probabilistic time series modeling in Python.
 - [GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python.
 - [Chaospy](https://github.com/jonathf/chaospy) - Toolbox for performing uncertainty quantification.
+- [Categorical Encoding Methods](https://github.com/scikit-learn-contrib/categorical-encoding) - Library of sklearn compatible categorical variable encoders.
 
 ## Biology
 

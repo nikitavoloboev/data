@@ -36,3 +36,4 @@
 - [TensorFlow-Slim](https://github.com/google-research/tf-slim) - Lightweight library for defining, training and evaluating complex models in TensorFlow.
 - [SwiftAI](https://github.com/fastai/swiftai) - Swift for TensorFlow's high-level API, modeled after fastai.
 - [Graph Convolutional Networks in TensorFlow](https://github.com/tkipf/gcn)
+- [TensorFlow SIG Addons](https://github.com/tensorflow/addons) - Useful extra functionality for TensorFlow 2.x maintained by SIG-addons.
