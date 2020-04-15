@@ -63,3 +63,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Get off Medium and onto the JAMstack](https://www.stackbit.com/medium/)
 - [Ask HN: What is your blog and why should I read it? (2020)](https://news.ycombinator.com/item?id=22800136)
 - [I Built A Successful Blog In One Year, And You Can Too](https://www.compiled.blog/i-built-a-successful-blog-and-you-can-too)
+- [Hylia](https://github.com/hankchizljaw/hylia) - Lightweight Eleventy starter kit to help you to create your own blog or personal website.

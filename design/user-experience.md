@@ -9,3 +9,4 @@
 - [Annoying Technology](https://annoying.technology/)
 - [Cleaning up form UI](https://tonsky.me/blog/form-cleanup/)
 - [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
+- [Spatial Software (2020)](https://darkblueheaven.com/spatialsoftware/)
