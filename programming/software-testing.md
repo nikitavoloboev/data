@@ -23,3 +23,4 @@
 - [puppeteer + dom-testing-library](https://github.com/testing-library/pptr-testing-library)
 - [How SQLite Is Tested](https://www.sqlite.org/testing.html)
 - [Are Tests Necessary in TypeScript? (2020)](https://www.executeprogram.com/blog/are-tests-necessary-in-typescript) ([HN](https://news.ycombinator.com/item?id=22864598))
+- [Appium](https://github.com/appium/appium) - Automation for iOS, Android, and Windows Apps.

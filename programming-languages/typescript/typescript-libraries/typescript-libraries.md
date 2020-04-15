@@ -32,6 +32,7 @@
 - [matechs-effect](https://github.com/mikearnaldi/matechs-effect) - Fully-fledged functional effect system for typescript with a rich standard library.
 - [Funval](https://github.com/neuledge/funval) - Minimalist library for data validation using functions interfaces.
 - [tsParticles](https://github.com/matteobruni/tsparticles) - Lightweight TypeScript library for creating particles.
+- [Clack](https://github.com/reasonink/clack) - Modern keyboard shortcut library written in Typescript.
 
 ## Links
 

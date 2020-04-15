@@ -219,6 +219,7 @@
 - [Baobab](https://github.com/Yomguithereal/baobab) - JavaScript & TypeScript persistent and optionally immutable data tree with cursors.
 - [emoji-regex](https://github.com/mathiasbynens/emoji-regex) - Regular expression to match all Emoji-only symbols as per the Unicode Standard.
 - [MerkleTree.js](https://github.com/miguelmota/merkletreejs) - Construct Merkle Trees and verify proofs in JavaScript.
+- [Snabbdom](https://github.com/snabbdom/snabbdom) - Virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 
 ## Links
 
