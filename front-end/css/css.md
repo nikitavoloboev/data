@@ -18,10 +18,8 @@
 
 ## Links
 
-- [Pesticide Chrome Extension](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) - Invaluable for debugging CSS.
-- [Understanding static and relative positioning](https://webplatform.github.io/docs/tutorials/static_and_relative_positioning/)
 - [Code guide by @mdo](http://codeguide.co/)
-- [CSS reference](https://cssreference.io/)
+- [CSS Reference](https://cssreference.io/)
 - [CSS Blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [Opticss](https://github.com/linkedin/opticss) - CSS Optimizer.
 - [CSS Puns](https://saijogeorge.com/css-puns/)
@@ -33,10 +31,11 @@
 - [Michael Chan - Inline Styles: themes, media queries, contexts, & when it's best to use CSS (2015)](https://www.youtube.com/watch?v=ERB1TJBn32c)
 - [Understanding the CSS box model for inline elements](https://hacks.mozilla.org/2015/03/understanding-inline-box-model/)
 - [astroturf](https://github.com/4Catalyzer/astroturf) - An "artificial" css-in-js for those that want it all.
-- [Pesticide](https://github.com/mrmrs/pesticide) - Kill your CSS layout bugs.
+- [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) - Kill your CSS layout bugs. ([Code](https://github.com/mrmrs/pesticide))
 - [Spectre](https://github.com/picturepan2/spectre) - Lightweight, Responsive and Modern CSS Framework.
 - [Tachyons](https://github.com/tachyons-css/tachyons) - Functional CSS for humans.
 - [CSS Animation 101](https://github.com/cssanimation/css-animation-101#readme)
+- [Understanding static and relative positioning](https://webplatform.github.io/docs/tutorials/static_and_relative_positioning/)
 - [Tailwind utility-first CSS framework](https://tailwindcss.com/docs/what-is-tailwind/)
 - [CSStype](https://github.com/frenic/csstype) - Strict TypeScript and Flow types for style based on MDN data.
 - [normalize.css](https://github.com/necolas/normalize.css) - Modern alternative to CSS resets.
