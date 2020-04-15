@@ -23,3 +23,4 @@
 - [Overview of RISC-V Instruction Set Architecture](https://web.cecs.pdx.edu/~harry/riscv/)
 - [RISC-V LLVM](https://github.com/lowRISC/riscv-llvm) - Hosts a series of patches implementing a RISC-V backend for LLVM as well as initial tutorial material.
 - [lowRISC](https://www.lowrisc.org/) - Develop and maintain open source silicon designs and tools.
+- [RISC-V Assemly Language Programming book](https://github.com/johnwinans/rvalp)
