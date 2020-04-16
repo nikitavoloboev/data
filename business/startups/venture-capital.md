@@ -41,3 +41,4 @@
 - [HeavyBit](https://www.heavybit.com/) - 9-month accelerator and fund helps seed and Series A developer and enterprise companies scale their go-to-market.
 - [Uncork Capital](https://uncorkcapital.com/) - Seed-stage venture firm that commits early, helps with the hard stuff, and sticks around.
 - [dtc.capital](https://www.dtc.capital/) - Fundamentals-Focused Investment Fund.
+- [Indie.vc](https://www.indie.vc/) - Program designed to fund and support founders on a path to profitability.
