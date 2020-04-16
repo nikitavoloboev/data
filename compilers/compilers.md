@@ -77,3 +77,4 @@
 - [Efficient Deconstruction with Typed Pointer Reversal (2019)](https://hal.inria.fr/hal-02177326v2)
 - [Scripts for building compilers that run anywhere, which build things that run anywhere](https://github.com/theopolis/build-anywhere)
 - [ugdb](https://github.com/ftilde/ugdb) - Alternative TUI for gdb.
+- [Writing a Compiler in Rust (2019)](https://thume.ca/2019/04/18/writing-a-compiler-in-rust/)

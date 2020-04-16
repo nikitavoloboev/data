@@ -11,6 +11,7 @@
 - [MakerMove](https://www.makermove.com/directories) - Directories to submit your startup.
 - [Lensant](https://lensant.com/) - Alerts you when your business, project, or other interest is mentioned online.
 - [Marketing Yourself (without Being a Celebrity)](https://www.swyx.io/writing/marketing-yourself/)
+- [React landing page template](https://github.com/cruip/open-react-template) ([Web](https://cruip.com/))
 
 ## Images
 
