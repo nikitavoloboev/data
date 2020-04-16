@@ -50,3 +50,5 @@
 - [Neural Point-Based Graphics](https://github.com/alievk/npbg)
 - [V-HACD](https://github.com/kmammou/v-hacd) - Decomposes a 3D surface into a set of "near" convex parts.
 - [Geometric Algebra for Computer Graphics (2019)](https://www.youtube.com/watch?v=tX4H_ctggYo) ([HN](https://news.ycombinator.com/item?id=22282452))
+- [Graphics Gems books](http://www.realtimerendering.com/resources/GraphicsGems/) ([Code](https://github.com/erich666/GraphicsGems))
+- [Eric Haines courses/research](http://erich.realtimerendering.com/#)

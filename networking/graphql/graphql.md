@@ -80,3 +80,4 @@
 - [apollo-link](https://github.com/apollographql/apollo-link) - Interface for fetching and modifying control flow of GraphQL requests.
 - [React+TypeScript+GraphQL demo - Roy Derks (2020)](https://www.youtube.com/watch?v=zmzZwZh77_w)
 - [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) - Outputs a list of changes between two GraphQL schemas.
+- [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) - TypeScript Language Service Plugin for GraphQL developers.
