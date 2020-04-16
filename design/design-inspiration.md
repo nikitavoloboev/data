@@ -86,6 +86,7 @@ Here are few more things I liked, design wise.
 - [Amanda Pinsker](https://amandapinsker.com/) ([Code](https://github.com/ampinsk/ampinsk.github.io))
 - [William Falcon](https://www.williamfalcon.com/)
 - [Roxane Jammet](http://roxane.me/)
+- [Andy Sparks](https://www.andysparks.co/)
 - [Brent Jackson](https://jxnblk.com/)
 - [Fabian Fett](https://fabianfett.de/)
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))

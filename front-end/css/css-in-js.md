@@ -19,3 +19,4 @@
 - [Every Layout](https://github.com/danscan/react-every-layout) - React + styled-components implementations of the layouts from every-layout.dev
 - [Glaze](https://github.com/kripod/glaze) - CSS-in-JS framework for building approachable design systems.
 - [Nyan CSS](https://github.com/nyancss/nyancss) - Write plain CSS while reaping benefits of CSS-in-JS.
+- [@stitches](https://github.com/christianalfoni/stitches) - Tiny configurable CSS-IN-JS library.

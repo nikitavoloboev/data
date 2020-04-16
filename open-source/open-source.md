@@ -77,3 +77,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Sponsorware](https://github.com/sponsorware/docs) - Release strategy for open-source software that enables developers to be compensated for their open-source work with fewer downsides than traditional open-source funding models.
 - [Social Architecture - Building On-line Communities](https://hintjens.gitbooks.io/social-architecture/content/)
 - [Personal Goals OSS](https://una.im/personal-goals-guide/)
+- [Spasibo](https://github.com/artemnovichkov/spasibo) - Simple command-line tool to supporting open-source frameworks.
