@@ -143,6 +143,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 
 - [Brandon Woelfel](http://www.brandonwoelfel.com/photography-1/)
 - [Michael Kenna](https://www.artsy.net/artist/michael-kenna)
+- [Noah Kalina](https://www.instagram.com/noahkalina/)
 - [Simen Johan](http://www.simenjohan.com/x/index.html)
 - [Samuel Zeller](https://archive.samuelzeller.ch/) - His [Botanical](https://www.samuelzeller.ch/botanical) project is awesome.
 - [Craig Mod](https://www.instagram.com/craigmod/)

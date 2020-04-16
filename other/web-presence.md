@@ -42,7 +42,7 @@ These are my personal profiles on various websites sorted by categories.
 - [Coursera](https://www.coursera.org/user/7d650aebf46b82dcd83832d8358301c6) - Doing various courses.
 - [Wiki](https://wiki.nikitavoloboev.xyz) - Everything I know.
 - [Khan Academy](https://khanacademy.org/profile/nikivi) - Getting up to speed with things quickly.
-- [Quizlet](https://quizlet.com/nvoloboev) - Flash cards.
+- [Quizlet](https://quizlet.com/nikitavoloboev) - Flash cards.
 
 ## Music
 
@@ -60,21 +60,21 @@ These are my personal profiles on various websites sorted by categories.
 
 ## Writing
 
-- [Medium](https://medium.com/@nikitavoloboev) - My personal blog.
+- [Medium](https://medium.com/@nikitavoloboev)
 - [DEV](https://dev.to/nikitavoloboev)
 
 ## Photos
 
 - [Instagram](https://www.instagram.com/nikitavoloboev/) - Sharing my experiences in life with photographs and stories.
-- [VSCO](http://vsco.co/nikitavoloboev) - Edit my iPhone images there.
-- [Curated images](https://www.instagram.com/prettiways/) - Curating all the beautiful photographs/images I like.
-- [Imgur](https://nikivi.imgur.com/) - Sharing various albums I curated and liked.
-- [Unsplash](https://unsplash.com/@nikitavoloboev/collections) - Sharing some of my better photographs I made.
+- [VSCO](http://vsco.co/nikitavoloboev)
+- [Curated images](https://www.instagram.com/prettiways/) - Curating beautiful photos I like.
+- [Imgur](https://nikivi.imgur.com/)
+- [Unsplash](https://unsplash.com/@nikitavoloboev/collections)
 
 ## Video
 
 - [YouTube](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw) - Sharing videos I make on variety of subjects (mostly programming).
-- [Twitch](https://www.twitch.tv/nikitavoloboev) - I stream some projects I'm building.
+- [Twitch](https://www.twitch.tv/nikitavoloboev) - Stream some projects I make.
 
 ## Forums
 

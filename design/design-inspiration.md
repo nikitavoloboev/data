@@ -85,6 +85,7 @@ Here are few more things I liked, design wise.
 - [Nuno Coelho Santos](https://nunocoelhosantos.com/)
 - [Amanda Pinsker](https://amandapinsker.com/) ([Code](https://github.com/ampinsk/ampinsk.github.io))
 - [William Falcon](https://www.williamfalcon.com/)
+- [Roxane Jammet](http://roxane.me/)
 - [Brent Jackson](https://jxnblk.com/)
 - [Fabian Fett](https://fabianfett.de/)
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))
