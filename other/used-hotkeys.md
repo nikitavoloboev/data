@@ -31,14 +31,13 @@ Order: `CMD > OPT > CTRL > SHIFT`
 ## OPT+CTRL
 
 - 2 - Screenshot -> Clipboard
-- 3 - Screenshot -> Annotate
-- 4 - Show Annotate
+- 3 - Screenshot -> CleanShot
+- 4 - CleanShot recording
 - 6 - Screenshot & recording options
 - 7 - New Kap recording
 - 8 - Show Launchpad
 - 9 - Picture of screen -> Clipboard
 - 0 - Picture of screen -> ~/Desktop
-- space - New Trello card
 
 ## CTRL+SHIFT
 
@@ -60,7 +59,6 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - u - Open URL
 - p - Screenshot -> Imgur
 - z - ScreenFlow partial screen record
-- x - Little Snitch Network Monitor
 - c - Sleep
 - v - Selection -> HN
 - n - Vimac Hinting

@@ -14,7 +14,7 @@ Below is a list of plugins I use.
 
 ## LaTeX
 
-- [ateXTools](https://github.com/SublimeText/LaTeXTools) - Provides several features that simplify working with LaTeX files.
+- [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - Provides several features that simplify working with LaTeX files.
 
 ## Looks
 
