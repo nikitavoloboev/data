@@ -10,4 +10,3 @@
 - [Signaling as a Service (2020)](https://julian.digital/2020/03/28/signaling-as-a-service/) ([HN](https://news.ycombinator.com/item?id=22740368))
 - [Psychopath Code - Cracking The Predators That Stalk Us](https://hintjens.gitbooks.io/psychopathcode/content/)
 - [The Century of the Self documentary (2002)](https://www.youtube.com/watch?v=eJ3RzGoQC4s)
-

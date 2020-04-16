@@ -8,3 +8,4 @@
 - [jtc](https://github.com/ldn-softdev/jtc) - JSON processing utility.
 - [JSMN](https://github.com/zserge/jsmn) - World fastest JSON parser/tokenizer.
 - [jqplay](https://jqplay.org/) - Playground for jq, written in Go. ([Code](https://github.com/jingweno/jqplay))
+- [Verify JSON](https://github.com/yusufnb/verify-json) - Library to verify JSON structure easily using a lightweight JSON schema syntax. ([HN](https://news.ycombinator.com/item?id=22885527))
