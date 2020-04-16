@@ -16,3 +16,4 @@
 - [Abstraction and Reasoning Corpus (ARC)](https://github.com/fchollet/ARC) - Contains the ARC task data, as well as a browser-based interface for humans to try their hand at solving the tasks manually.
 - [HN: John Carmack: I’m going to work on artificial general intelligence (2020)](https://news.ycombinator.com/item?id=21530860)
 - [Superintelligence](https://idlewords.com/talks/superintelligence.htm) - The Idea That Eats Smart People. ([Talk](https://www.youtube.com/watch?v=kErHiET5YPw))
+- [Toward Trustworthy AI Development: Mechanisms for Supporting Verifiable Claims (2020)](https://arxiv.org/abs/2004.07213)

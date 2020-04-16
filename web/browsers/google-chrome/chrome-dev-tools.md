@@ -13,3 +13,4 @@
 - [Make your own DevTools](https://kentcdodds.com/blog/make-your-own-dev-tools)
 - [Rod](https://github.com/ysmood/rod) - High-level Chrome Devtools controller directly based on Chrome DevTools Protocol.
 - [Chrome DevTools UI](https://github.com/ChromeDevTools/devtools-frontend)
+- [DevTools tips (2020)](https://twitter.com/brian_d_vaughn/status/1250659369496145921)
