@@ -12,3 +12,4 @@
 - [SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured desktop tool for creating and testing HLSL and GLSL shaders.
 - [Getting started with shaders: signed distance functions (2020)](https://jvns.ca/blog/2020/03/15/writing-shaders-with-signed-distance-functions/)
 - [Naga](https://github.com/gfx-rs/naga) - Experimental shader translation library for the needs of gfx-rs project and WebGPU.
+- [Software Renderer](https://github.com/zauonlok/renderer) - Shader-based software renderer written from scratch in C89.

@@ -220,6 +220,8 @@
 - [MerkleTree.js](https://github.com/miguelmota/merkletreejs) - Construct Merkle Trees and verify proofs in JavaScript.
 - [Snabbdom](https://github.com/snabbdom/snabbdom) - Virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [Thwack](https://github.com/donavon/thwack) - Tiny modern data fetching solution.
+- [Regenerate](https://github.com/mathiasbynens/regenerate) - Generate JavaScript-compatible regular expressions based on a given set of Unicode symbols or code points.
+- [Crank.js](https://github.com/bikeshaving/crank) - Write JSX-driven components with functions, promises and generators.
 
 ## Links
 

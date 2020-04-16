@@ -30,3 +30,4 @@
 - [WebdriverIO](https://github.com/webdriverio/webdriverio) - Next-gen browser automation test automation framework for Node.js.
 - [rust-minibrowser](https://github.com/joshmarinacci/rust-minibrowser) - Mini-browser written in rust.
 - [Next](https://github.com/atlas-engineer/next) - Keyboard-oriented, extensible web-browser designed for power users.
+- [Browsix](https://github.com/plasma-umass/browsix) - Unix-like operating system for the browser.
