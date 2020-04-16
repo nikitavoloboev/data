@@ -264,3 +264,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Ask HN: What are your favorite low-coding apps / tools as a developer? (2020)](https://news.ycombinator.com/item?id=22786853)
 - [Awesome-no-code-tools](https://github.com/ElijT/Awesome-no-code-tools#readme)
 - [Ask HN: Programs that saved you 100 hours? (2020)](https://news.ycombinator.com/item?id=22849208)
+- [Lobsters: How does your current dev workflow looks like (2020)](https://lobste.rs/s/qi5dmk/how_does_your_current_dev_workflow_looks)

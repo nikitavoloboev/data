@@ -335,6 +335,7 @@
 - [tinyvec](https://github.com/Lokathor/tinyvec) - 100% safe crate of vec-like types.
 - [time](https://github.com/time-rs/time) - Simple time handling in Rust.
 - [regex-automata](https://github.com/BurntSushi/regex-automata) - Low level regular expression library that uses deterministic finite automata.
+- [syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
 
 ## Cargo Plugins
 

@@ -265,6 +265,7 @@
 - [Smoke Framework](https://github.com/amzn/smoke-framework) - Light-weight server-side service framework.
 - [lumos](https://github.com/sushinoya/lumos) - Light Swift wrapper around Objective-C Runtime.
 - [Grand Central Dispatch](https://github.com/apple/swift-corelibs-libdispatch) - Provides comprehensive support for concurrent code execution on multicore hardware.
+- [Rearrange](https://github.com/ChimeHQ/Rearrange) - Collection of utilities for interacting with NSRange.
 
 ## Other (not lib)
 

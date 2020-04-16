@@ -168,3 +168,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [CodeCrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support and more.
 - [Ask HN: Why did you leave tech industry? (2020)](https://news.ycombinator.com/item?id=22876241)
 - [Kui](https://github.com/IBM/kui) - Hybrid command-line/UI development experience for cloud-native development.
+- [Finding Your Passion as a Developer (2020)](https://blog.saasify.sh/finding-your-passion-as-a-developer/)
