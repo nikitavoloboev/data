@@ -53,6 +53,7 @@
 - [Wundergraph](https://github.com/weiznich/wundergraph) - Provides a platform to easily expose your database through a GraphQL interface.
 - [bolt-rs](https://github.com/lucis-fluxum/bolt-rs) - Communicate with Bolt-compatible graph databases in Rust.
 - [sqlparser-rs](https://github.com/andygrove/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust.
+- [PickleDB](https://github.com/seladb/pickledb-rs) - Lightweight and simple key-value store written in Rust.
 
 ## Graphics
 
