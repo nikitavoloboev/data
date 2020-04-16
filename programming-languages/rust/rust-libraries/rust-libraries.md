@@ -43,6 +43,7 @@
 - [Alchemy](https://github.com/ryanmcgrath/alchemy) - Experimental Rust GUI Framework, backed by native widgets on each platform it supports.
 - [vgtk](https://github.com/bodil/vgtk/) - Declarative desktop UI framework for Rust built on GTK and Gtk-rs.
 - [flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust.
+- [piet-gpu](https://github.com/linebender/piet-gpu) - Experimental GPU compute-centric 2D renderer.
 
 ## DB
 
