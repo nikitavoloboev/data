@@ -29,3 +29,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [picobounce](https://github.com/begriffs/picobounce) - IRC bouncer that does just what I want and no more.
 - [Irssi](https://github.com/irssi/irssi) - Modular chat client that is most commonly known for its text mode user interface, but 80% of the code isn't text mode specific.
 - [Pounce](https://git.causal.agency/pounce/about/) - Multi-client, TLS-only IRC bouncer. ([Lobsters](https://lobste.rs/s/aezalh/pounce_new_irc_bouncer))
+- [HN: Many IRC servers (2020)](https://news.ycombinator.com/item?id=22892015)
