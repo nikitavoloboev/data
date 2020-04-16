@@ -52,6 +52,7 @@
 - [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - Intuitive iOS color picker built in Swift.
 - [GradientProgressBar](https://github.com/fxm90/GradientProgressBar) - Customizable gradient progress bar (UIProgressView).
 - [Blob effect implementation with UIKIt](https://github.com/rnkyr/metaballs)
+- [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - Next in the generations of 'growing textviews' optimized for iOS 8 and above.
 - [PTCardTabBar](https://github.com/hussc/PTCardTabBar) - Card-Style TabBarController for iOS.
 - [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - Lets you create popups with a blurred background.
 - [Sliders](https://github.com/kieranb662/Sliders) - Collection of unique fully customizable SwiftUI sliders.

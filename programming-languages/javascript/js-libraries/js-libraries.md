@@ -109,7 +109,6 @@
 - [Snarkdown](https://github.com/developit/snarkdown) - Snarky 1kb Markdown parser written in JavaScript.
 - [Terser](https://github.com/terser-js/terser) - JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+.
 - [AppAuthJS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
-- [tonal](https://github.com/tonaljs/tonal) - Functional music theory library for JavaScript.
 - [expr-eval](https://github.com/silentmatt/expr-eval) - Mathematical expression evaluator in JavaScript.
 - [robust-predicates](https://github.com/mourner/robust-predicates) - Fast robust predicates for computational geometry in JavaScript.
 - [Sanctuary](https://github.com/sanctuary-js/sanctuary) - JavaScript functional programming library inspired by Haskell and PureScript.
@@ -221,6 +220,8 @@
 - [MerkleTree.js](https://github.com/miguelmota/merkletreejs) - Construct Merkle Trees and verify proofs in JavaScript.
 - [Snabbdom](https://github.com/snabbdom/snabbdom) - Virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [Thwack](https://github.com/donavon/thwack) - Tiny modern data fetching solution.
+- [Regenerate](https://github.com/mathiasbynens/regenerate) - Generate JavaScript-compatible regular expressions based on a given set of Unicode symbols or code points.
+- [Crank.js](https://github.com/bikeshaving/crank) - Write JSX-driven components with functions, promises and generators.
 
 ## Links
 

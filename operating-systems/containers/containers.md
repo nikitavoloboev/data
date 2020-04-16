@@ -24,3 +24,4 @@
 - [Build and run containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/container-toolkit)
 - [fanal](https://github.com/aquasecurity/fanal) - Static Analysis Library for Containers.
 - [Complete intro to containers](https://btholt.github.io/complete-intro-to-containers/) ([Code](https://github.com/btholt/complete-intro-to-containers))
+- [go-init](https://github.com/pablo-ruth/go-init) - Minimal init system for containers with pre/post hooks.

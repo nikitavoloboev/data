@@ -393,6 +393,7 @@
 - [Mimic](https://github.com/bwplotka/mimic) - Define your Configuration, Infrastructure and Deployments as Go Code.
 - [workerpool](https://github.com/gammazero/workerpool) - Concurrency limiting goroutine pool.
 - [mimetype](https://github.com/gabriel-vasile/mimetype) - Simple golang library for detecting the MIME type and file extension, based on magic numbers.
+- [keybd_event](https://github.com/micmonay/keybd_event) - Simulates the key press on a keyboard.
 
 ## Links
 

@@ -15,6 +15,9 @@
 - [BlokDust](https://blokdust.com/) - Web-based music making app. ([Code](https://github.com/BlokDust/BlokDust))
 - [Eternal](https://eternal.robcheung.com/) - Create music using nodes. ([Code](https://github.com/kousun12/eternal))
 - [norns](https://github.com/monome/norns) - Many sound instruments. It connects to grids, MIDI and other objects
+- [Tone Piano](https://github.com/tambien/Piano) - Web Audio instrument which uses high-quality multi-sampled piano sounds provided by Salamander Grand Piano.
+- [Tone.js](https://github.com/Tonejs/Tone.js) - Web Audio framework for making interactive music in the browser.
+- [tonal](https://github.com/tonaljs/tonal) - Functional music theory library for JavaScript.
 
 ## Inspiration
 
