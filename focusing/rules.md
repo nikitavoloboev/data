@@ -103,7 +103,7 @@
 
 - Value each animal’s life as equal to that of my own. Don't eat or hurt anyone.
 - Minimize suffering caused to other people. Be conscious of other people's feelings.
-- Strive to empower everyone around me to be better. Show compassion and care.
+- Strive to empower everyone around me to be better. Show compassion and care. Be humble.
 
 ## Finance
 

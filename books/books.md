@@ -155,6 +155,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: Great fiction books that have had a positive impact on your life? (2020)](https://news.ycombinator.com/item?id=22718592)
 - [Books That Every Programmer Should Read (2020)](https://metaredux.com/posts/2020/03/27/the-books-that-every-programmer-should-read.html) ([Lobsters](https://lobste.rs/s/wqujvc/books_every_programmer_should_read))
 - [Nice web books (2020)](https://twitter.com/andy_matuschak/status/1246937718283624449)
+- [Reading List of Ben Congdon](https://benjamincongdon.me/books)
 
 ## Notes
 
@@ -191,3 +192,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [BookAuthority](https://bookauthority.org/) - Curates the books recommended by the world's most successful CEOs, business leaders and experts.
 - [Ask HN: How can I restore my concentration when reading? (2020)](https://news.ycombinator.com/item?id=22855070)
 - [Writing a Book with Pandoc, Make, and Vim (2020)](https://keleshev.com/my-book-writing-setup/) ([HN](https://news.ycombinator.com/item?id=22854332))
+- [Library JSON - A Proposal for a Decentralized Goodreads (2020)](https://tomcritchlow.com/2020/04/15/library-json/)

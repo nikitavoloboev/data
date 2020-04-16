@@ -39,7 +39,7 @@
 - [NLP Best Practices](https://github.com/microsoft/nlp#readme)
 - [Transfer NLP library](https://github.com/feedly/transfer-nlp) - Framework built on top of PyTorch to promote reproducible experimentation and Transfer Learning in NLP.
 - [FARM](https://github.com/deepset-ai/FARM) - Fast & easy transfer learning for NLP. Harvesting language models for the industry.
-- [Transformers](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.
+- [Transformers](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. ([Web](https://huggingface.co/))
 - [NLP Roadmap 2019](https://github.com/graykode/nlp-roadmap#readme)
 - [Flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP. Developed by Zalando Research.
 - [Unsupervised Data Augmentation](https://github.com/google-research/uda) - Semi-supervised learning method which achieves state-of-the-art results on a wide variety of language and vision tasks.
@@ -92,3 +92,4 @@
 - [The Transformer Family (2020)](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 - [Minimalist Implementation of a BERT Sentence Classifier](https://github.com/ricardorei/lightning-text-classification)
 - [fastText](https://fasttext.cc/) - Library for efficient text classification and representation learning. ([Code](https://github.com/facebookresearch/fastText/))
+- [Awesome NLP Paper Discussions](https://github.com/huggingface/awesome-papers#readme) - Papers & presentations from Hugging Face's weekly science day.

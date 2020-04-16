@@ -119,5 +119,5 @@
 - [The High Cost of Splitting Related Data (2020)](http://kevinmahoney.co.uk/articles/the-high-cost-of-splitting-related-data/)
 - [Awesome Database Tools](https://github.com/mgramin/awesome-db-tools#readme)
 - [Storage: Complete Overview for Developers (2020)](https://developer.sh/posts/storage-technologies-for-developers)
-- [Event-Reduce](https://github.com/pubkey/event-reduce) - Algorithm to optimize database queries that run multiple times.
+- [Event-Reduce](https://github.com/pubkey/event-reduce) - Algorithm to optimize database queries that run multiple times. ([HN](https://news.ycombinator.com/item?id=22888239))
 - [Apache Druid vs. Time-Series Databases (2019)](https://imply.io/post/apache-druid-vs-time-series-databases) ([HN](https://news.ycombinator.com/item?id=22868286))

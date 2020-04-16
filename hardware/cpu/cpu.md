@@ -23,3 +23,4 @@
 - [Optimized implementations of various library functions for ARM architecture processors](https://github.com/ARM-software/optimized-routines)
 - [Chipping away at Moore's law. Modern CPUs are just chiplets connected together (2020)](https://queue.acm.org/detail.cfm?id=3388515)
 - [SIMD instructions](https://opensourceweekly.org/issues/7/) ([HN](https://news.ycombinator.com/item?id=22833299))
+- [Reverse-engineering the TL431: the most common chip you've never heard of (2014)](http://www.righto.com/2014/05/reverse-engineering-tl431-most-common.html) ([HN](https://news.ycombinator.com/item?id=22885819))

@@ -36,3 +36,4 @@
 - [tree-sitter-c](https://github.com/tree-sitter/tree-sitter-c) - C grammar for tree-sitter. Adapted from this C99 grammar.
 - [Awesome Clang](https://github.com/ingve/awesome-clang#readme)
 - [Tell HN: C Experts Panel – Ask us anything about C (2020)](https://news.ycombinator.com/item?id=22865357)
+- [Embedding Binary Objects in C](https://flak.tedunangst.com/post/embedding-binary-objects-in-c) ([HN](https://news.ycombinator.com/item?id=22888318))
