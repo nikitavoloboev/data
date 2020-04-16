@@ -9,3 +9,4 @@
 - [Prisma 2 Examples](https://github.com/prisma/prisma-examples)
 - [Prisma Client](https://github.com/prisma/prisma-client-js) - Type-safe database client for TypeScript & Node.js (ORM replacement).
 - [Prisma Docs](https://www.prisma.io/docs/) ([Code](https://github.com/prisma/prisma2-docs))
+- [nexus-schema-prisma](https://github.com/AhmedElywa/nexus-schema-prisma) - Prisma CRUD schema generator for database-backed GraphQL servers.

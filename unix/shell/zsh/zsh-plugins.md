@@ -37,6 +37,8 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 - [Starship](https://github.com/starship/starship) - Minimal, blazing fast, and extremely customizable prompt for any shell.
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - Emphasizes speed, flexibility and out-of-the-box experience.
 - [Roadrunner](https://github.com/juanibiapina/roadrunner) - Fast and configurable prompt for shells.
+- [powerline-rust](https://github.com/cirho/powerline-rust) - Altervative to powerline-shell. It's heavily inspired by it, but focuses on minimalizing time of execution.
+- [silver](https://github.com/reujab/silver) - Cross-shell customizable powerline-like prompt with icons.
 
 ## Git
 

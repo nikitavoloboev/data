@@ -31,6 +31,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [HyperRogue](http://roguetemple.com/z/hyper/) - SDL roguelike in a non-euclidean world. ([Code](https://github.com/zenorogue/hyperrogue)) ([Explanation](http://zenorogue.blogspot.com/2012/03/hyperbolic-geometry-in-hyperbolic-rogue.html))
 - [Vinifera](https://github.com/TheAssemblyArmada/Vinifera) - Open source re-implementation of Tiberian Sun : Firestorm written in C++.
 - [Chronoshift](https://github.com/TheAssemblyArmada/Chronoshift) - Open Source Re-Implementation of Command and Conquer: Red Alert.
+- [FreeAge](https://github.com/puzzlepaint/freeage) - Open-source reimplementation of the game engine of Age of Empires 2: Definitive Edition.
 
 ## Recommendations
 
