@@ -14,3 +14,4 @@
 - [Citra](https://github.com/citra-emu/citra) - Nintendo 3DS Emulator.
 - [Dolphin](https://github.com/dolphin-emu/dolphin) - GameCube and Wii Emulator.
 - [Writing an Emulator in JavaScript (and Interfacing with Multiple UIs) (2020)](https://www.taniarascia.com/writing-an-emulator-in-javascript-chip8/)
+- [gdbstub](https://github.com/daniel5151/gdbstub) - Implementation of the GDB Remote Serial Protocol in Rust, primarily for use in emulators.
