@@ -221,7 +221,7 @@
 - [Snabbdom](https://github.com/snabbdom/snabbdom) - Virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [Thwack](https://github.com/donavon/thwack) - Tiny modern data fetching solution.
 - [Regenerate](https://github.com/mathiasbynens/regenerate) - Generate JavaScript-compatible regular expressions based on a given set of Unicode symbols or code points.
-- [Crank.js](https://github.com/bikeshaving/crank) - Write JSX-driven components with functions, promises and generators.
+- [Crank.js](https://github.com/bikeshaving/crank) - Write JSX-driven components with functions, promises and generators. ([Article](https://crank.js.org/blog/introducing-crank)) ([Reddit](https://www.reddit.com/r/reactjs/comments/g2u135/crankjs_introducting_crank/))
 
 ## Links
 

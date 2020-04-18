@@ -25,3 +25,4 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Why do cats & dogs ..](https://whydocatsanddogs.com/)
 - [Celevity](https://celevity.co/) - Developing drugs that treat the underlying causes of aging in dogs.
 - [FitBark](https://www.fitbark.com/) - Dog GPS & health trackers.
+- [Smart Parks](https://www.smartparks.org/) - Advanced sensor solution to conserve endangered wildlife and efficiently manage large park areas.
