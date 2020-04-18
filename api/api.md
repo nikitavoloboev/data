@@ -38,6 +38,7 @@
 - [Telegraph API](https://telegra.ph/api) - Minimalist publishing tool that allows you to create richly formatted posts and push them to the Web in just a click.
 - [Intercom Node](https://github.com/intercom/intercom-node) - Node.js bindings for the Intercom API.
 - [Pocket Export](https://github.com/karlicoss/pockexport) - Export/access your Pocket data, including highlights.
+- [AssemblyAI](https://www.assemblyai.com/) - Top Rated API for Speech-to-Text.
 
 ## Links
 

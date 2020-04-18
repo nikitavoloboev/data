@@ -18,3 +18,4 @@
 - [The Notorious Delayed-Choice Quantum Eraser (2019)](https://www.preposterousuniverse.com/blog/2019/09/21/the-notorious-delayed-choice-quantum-eraser/)
 - [Double slits with single atoms (2020)](https://physicsworld.com/a/double-slits-with-single-atoms/) ([HN](https://news.ycombinator.com/item?id=22364787))
 - [Wave Function Collapse Explained (2020)](https://www.boristhebrave.com/2020/04/13/wave-function-collapse-explained/)
+- [Why should we suppose a single underlying principle that explains both quantum mechanics and gravity? (2020)](https://www.reddit.com/r/AskPhysics/comments/g314f4/why_should_we_suppose_a_single_underlying/)

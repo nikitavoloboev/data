@@ -134,3 +134,4 @@
 - [HN: Ladder of Algebraic Structures (2020)](https://news.ycombinator.com/item?id=22861731)
 - [Math3ma](https://www.math3ma.com/) - Math blog by Tai-Danae Bradley.
 - [Princeton Companion to Mathematics book (2007)](https://www.goodreads.com/book/show/1471873.The_Princeton_Companion_to_Mathematics)
+- [Roger Penrose - Is Mathematics Invented or Discovered? (2020)](https://www.youtube.com/watch?v=ujvS2K06dg4) ([HN](https://news.ycombinator.com/item?id=22896671))

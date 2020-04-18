@@ -26,3 +26,4 @@
 - [HN Stories and comments since 2006](https://console.cloud.google.com/marketplace/details/y-combinator/hacker-news?pli=1)
 - [My Giant Data Quality Checklist (2020)](https://www.reddit.com/r/datascience/comments/fzweaf/my_giant_data_quality_checklist/)
 - [LabelImg](https://github.com/tzutalin/labelImg) - Graphical image annotation tool.
+- [Common Voice](https://voice.mozilla.org/en) - Mozilla's initiative to help teach machines how real people speak.

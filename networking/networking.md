@@ -96,3 +96,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [R2](https://github.com/gopakumarce/R2) - Network packet forwarding engine in Rust.
 - [packetdrill](https://github.com/google/packetdrill) - Enables quick, precise tests for entire TCP/UDP/IPv4/IPv6 network stacks, from the system call layer down to the NIC hardware.
 - [TCP/IP Tutorial (1991)](https://tools.ietf.org/html/rfc1180) ([HN](https://news.ycombinator.com/item?id=22863507))
+- [Is BGP safe yet? No.](https://isbgpsafeyet.com/) ([HN](https://news.ycombinator.com/item?id=22899546))

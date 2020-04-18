@@ -37,3 +37,4 @@
 - [SwiftAI](https://github.com/fastai/swiftai) - Swift for TensorFlow's high-level API, modeled after fastai.
 - [Graph Convolutional Networks in TensorFlow](https://github.com/tkipf/gcn)
 - [TensorFlow SIG Addons](https://github.com/tensorflow/addons) - Useful extra functionality for TensorFlow 2.x maintained by SIG-addons.
+- [Learning to See in the Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) ([HN](https://news.ycombinator.com/item?id=22899495))

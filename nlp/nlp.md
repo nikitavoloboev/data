@@ -93,3 +93,4 @@
 - [Minimalist Implementation of a BERT Sentence Classifier](https://github.com/ricardorei/lightning-text-classification)
 - [fastText](https://fasttext.cc/) - Library for efficient text classification and representation learning. ([Code](https://github.com/facebookresearch/fastText/))
 - [Awesome NLP Paper Discussions](https://github.com/huggingface/awesome-papers#readme) - Papers & presentations from Hugging Face's weekly science day.
+- [Building an end-to-end Speech Recognition model in PyTorch](https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch) ([HN](https://news.ycombinator.com/item?id=22899107))
