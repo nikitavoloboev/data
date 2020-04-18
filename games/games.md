@@ -32,6 +32,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Vinifera](https://github.com/TheAssemblyArmada/Vinifera) - Open source re-implementation of Tiberian Sun : Firestorm written in C++.
 - [Chronoshift](https://github.com/TheAssemblyArmada/Chronoshift) - Open Source Re-Implementation of Command and Conquer: Red Alert.
 - [FreeAge](https://github.com/puzzlepaint/freeage) - Open-source reimplementation of the game engine of Age of Empires 2: Definitive Edition.
+- [Good Web Game](https://github.com/not-fl3/good-web-game) - Minimal 2d game framework for wasm.
 
 ## Recommendations
 

@@ -83,6 +83,7 @@ Below is a list of extensions I use.
 - [Control Snippets](https://marketplace.visualstudio.com/items?itemName=svipas.control-snippets) - Disable or enable VS Code's built-in snippets and manually installed snippets from extensions.
 - [Syncing](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) - Synchronize all of your VSCode settings across multiple devices.
 - [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash) - Dash documentation integration.
+- [Phi](https://github.com/GuillaumeSalles/phi-vscode) - Design components for web in VSCode. Generate code.
 - [RelativePath](https://marketplace.visualstudio.com/items?itemName=jakob101.RelativePath) - Get relative URL paths from files in the current workspace.
 - [Debug Visualizer](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer) - Visualizes values while debugging. ([Code](https://github.com/hediet/vscode-debug-visualizer))
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autocomplete filenames.
@@ -289,6 +290,7 @@ Below is a list of extensions I use.
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
 - [Alabaster](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster)
 - [Monokai Pro](https://www.monokai.pro/vscode/)
+- [Moxer](https://marketplace.visualstudio.com/items?itemName=Equinusocio.moxer-theme) ([Code](https://github.com/moxer-theme/moxer-code))
 
 ## Notes
 

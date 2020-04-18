@@ -3,6 +3,7 @@
 ## Other
 
 - [Create Release](https://github.com/actions/create-release) - Action to create releases via the GitHub Release API.
+- [action-gh-release](https://github.com/softprops/action-gh-release) - GitHub Action for creating GitHub Releases.
 - [Release Drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
 - [Merge Conflict Finder](https://github.com/marketplace/actions/merge-conflict-finder) - Finds any merge conflicts in your repository.
 - [Upload to Release](https://github.com/JasonEtco/upload-to-release) - GitHub Action that uploads a file to a new release.
@@ -34,6 +35,8 @@
 - [Stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction.
 - [Twitter, together](https://github.com/gr2m/twitter-together) - GitHub action to tweet from a repository.
 - [setup-deno](https://github.com/denolib/setup-deno) - Set up your GitHub Actions workflow with a specific version of deno.
+- [GitHub Docker Action](https://github.com/matootie/github-docker) - Build and publish your repository as a Docker image and push it to GitHub Package Registry in one easy step.
+- [Github Action which uses the Git branch as the Docker tag for pushing](https://github.com/elgohr/Publish-Docker-Github-Action)
 
 ## Go
 

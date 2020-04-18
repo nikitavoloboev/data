@@ -18,6 +18,7 @@
 - [Zero Config PWA Plugin](https://github.com/shadowwalker/next-pwa)
 - [next-translate](https://github.com/vinissimus/next-translate) - Tool to translate Next.js applications.
 - [next-i18next](https://github.com/isaachinman/next-i18next) - Easiest way to translate your NextJs apps.
+- [Netlify Next.js cache](https://github.com/pizzafox/netlify-cache-nextjs) - Cache the Next.js build folder in your Netlify builds.
 
 ## Links
 

@@ -16,3 +16,4 @@
 - [CryFS](https://github.com/cryfs/cryfs) - Cryptographic filesystem for the cloud.
 - [gocat](https://github.com/sumup-oss/gocat) - 21st century, multi-purpose relay from source to destination.
 - [Fast.io](https://fast.io/) - Host anything (PDFs, video, zips, images, etc.) with direct links on a super-fast global network. ([HN](https://news.ycombinator.com/item?id=21589213))
+- [Static FileZ](https://github.com/killercup/static-filez) - Build compressed archives for static files and serve them over HTTP.

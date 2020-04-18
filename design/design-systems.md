@@ -27,6 +27,7 @@
 - [react-ui](https://github.com/siddharthkp/react-ui) - Customisable components and primitives based on design tokens.
 - [Spectrum](https://spectrum.adobe.com/) - Adobe’s design system.
 - [Stacks](https://stackoverflow.design/) - Stack Overflow’s Design System. ([Code](https://github.com/StackExchange/Stacks))
+- [Elastic UI framework](https://elastic.github.io/eui/#/) - Design library in use at Elastic to build internal products. ([Code](https://github.com/elastic/eui))
 
 ## Links
 

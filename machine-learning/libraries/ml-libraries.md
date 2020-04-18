@@ -48,3 +48,4 @@
 - [FATE](https://github.com/FederatedAI/FATE) - Industrial Level Federated Learning Framework.
 - [Deepkit](https://github.com/deepkit/deepkit) - Collaborative and real-time machine learning training suite: Experiment execution, tracking, and debugging.
 - [Sls](https://github.com/IssamLaradji/sls) - Stochastic Line Search.
+- [PyCaret](https://github.com/pycaret/pycaret) - Open source low-code machine learning library in Python that aims to reduce the hypothesis to insights cycle time in a ML experiment.

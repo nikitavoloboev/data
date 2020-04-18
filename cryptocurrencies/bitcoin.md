@@ -24,3 +24,4 @@
 - [How we recovered over \$300K of Bitcoin](https://reperiendi.wordpress.com/2020/04/03/how-i-recovered-over-300k-of-bitcoin/) ([HN](https://news.ycombinator.com/item?id=22774057))
 - [MIT Bitcoin Expo 2020 - Bitcoin Core Devs Panel](https://www.youtube.com/watch?v=NKBjhSKxSi0)
 - [Rust language bindings for Bitcoin secp256k1 library](https://github.com/rust-bitcoin/rust-secp256k1)
+- [Bitcoin Indexer](https://github.com/dpc/rust-bitcoin-indexer) - Powerful & versatile Bitcoin Indexer, in Rust.

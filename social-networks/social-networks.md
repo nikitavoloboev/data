@@ -43,3 +43,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Twitterverse](https://twitterverse.net/) - Interactively explore visualizations of Twitter networks. ([Tweet](https://twitter.com/MenanderSoter/status/1234650368182771717))
 - [Opportunities in consumer social (2020)](https://twitter.com/eriktorenberg/status/1236860724430790659)
 - [Pleroma 2.0: a free, federated social networking server built on open protocols (2020)](https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/) ([HN](https://news.ycombinator.com/item?id=22519209))
+- [Moa](https://github.com/foozmeat/moa) - Mastodon, Twitter, and Instagram Cross-poster.

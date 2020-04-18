@@ -31,3 +31,4 @@
 - [Fresh look at embedded Rust development](https://github.com/japaric/embedded2020)
 - [Talks at Meeting Embedded 2019](https://meetingembedded.com/2019/Talks/#talk10)
 - [probe-rs](https://github.com/probe-rs/probe-rs) - Modern, embedded debugging toolkit, written in Rust.
+- [Awesome Bare Metal](https://github.com/alexellis/awesome-baremetal#readme)

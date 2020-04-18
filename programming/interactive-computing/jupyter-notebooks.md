@@ -51,3 +51,4 @@
 - [Jupyterlab Extensions by Examples](https://github.com/jupyterlab/extension-examples)
 - [nbclean](https://github.com/choldgraf/nbclean) - Collection of tools to preprocess, modify, and otherwise clean up Jupyter Notebooks.
 - [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter#readme)
+- [Littlest JupyterHub](https://github.com/jupyterhub/the-littlest-jupyterhub) - Simple JupyterHub distribution for 1-100 users on a single server.

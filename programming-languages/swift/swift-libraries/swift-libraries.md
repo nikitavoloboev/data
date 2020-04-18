@@ -266,6 +266,7 @@
 - [lumos](https://github.com/sushinoya/lumos) - Light Swift wrapper around Objective-C Runtime.
 - [Grand Central Dispatch](https://github.com/apple/swift-corelibs-libdispatch) - Provides comprehensive support for concurrent code execution on multicore hardware.
 - [Rearrange](https://github.com/ChimeHQ/Rearrange) - Collection of utilities for interacting with NSRange.
+- [Keyboard Observing](https://github.com/nickffox/KeyboardObserving) - Combine-based solution for observing and avoiding the keyboard in SwiftUI.
 
 ## Other (not lib)
 

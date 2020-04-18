@@ -49,3 +49,4 @@
 - [Code is Engineering; Types are Science (2020)](https://www.tweag.io/posts/2020-03-05-peirce.html) ([HN](https://news.ycombinator.com/item?id=22791187))
 - [Implementation of "Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism" in Rust](https://github.com/JDemler/BidirectionalTypechecking)
 - [Milner Award Lecture: The Type Soundness Theorem That You Really Want to Prove (and now you can)](https://www.youtube.com/watch?v=8Xyk_dGcAwk)
+- [Experimenting with Dependent Type Theory in Rust](https://github.com/phase/dtt)
