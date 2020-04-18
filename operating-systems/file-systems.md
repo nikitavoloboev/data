@@ -7,3 +7,4 @@
 - [Understanding Google’s File System (2020)](https://www.micahlerner.com/distributed/systems/2020/03/22/understanding-googles-file-system.html)
 - [mergerfs](https://github.com/trapexit/mergerfs) - Union filesystem geared towards simplifying storage and management of files across numerous commodity storage devices.
 - [gefs](https://github.com/oridb/gefs) - Good enough file system.
+- [libfsapfs](https://github.com/libyal/libfsapfs) - Library to access the Apple File System (APFS).

@@ -7,3 +7,4 @@
 - [Threading the web with module workers (2019)](https://web.dev/module-workers/)
 - [Threads.js](https://github.com/andywer/threads.js) - Make web workers & worker threads as simple as a function call.
 - [Fully type-safe Web Workers with zero boilerplate](https://about.sourcegraph.com/blog/felix-becker-fully-type-safe-web-workers-with-zero-boilerplate)
+- [web-worker](https://github.com/developit/web-worker) - Consistent Web Workers in browser and Node.

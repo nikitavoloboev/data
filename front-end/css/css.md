@@ -126,4 +126,5 @@
 - [Sakura](https://github.com/oxalorg/sakura) - Minimal classless css framework / theme.
 - [Sakura Bookmarklet](https://oxal.org/projects/sakura/bookmark) - Enable Sakura.css on any website.
 - [Skeleton](http://getskeleton.com/) - Dead Simple, Responsive Boilerplate for Mobile-Friendly Development. ([Code](https://github.com/dhg/Skeleton))
-- [Do We Actually Need Specificity In CSS? (2015)](https://philipwalton.com/articles/do-we-actually-need-specificity-in-css/)
+- [Do We Actually Need Specificity In CSS? (2015)](https://philipwalton.com/articles/do-we-actually-need-specificity-in-css/) ([HN](https://news.ycombinator.com/item?id=22897510))
+- [The Simplicity of Specificity (2015)](https://codepen.io/davidkpiano/post/the-simplicity-of-specificity)

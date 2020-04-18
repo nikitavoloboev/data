@@ -54,3 +54,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [The First Video Game (2019)](https://www.youtube.com/watch?v=uHQ4WCU1WQc)
 - [No-Bullshit Games](https://nobsgames.stavros.io/) - Good, non-annoying, enjoyable games. ([HN](https://news.ycombinator.com/item?id=22063744))
 - [Open Worlds](https://reallifemag.com/open-worlds/) - How we became nostalgic for Minecraft. ([HN](https://news.ycombinator.com/item?id=21499767))
+- [What are some good travel-focused video games? (2020)](https://www.reddit.com/r/solotravel/comments/g36at5/what_are_some_good_travelfocused_video_games/)

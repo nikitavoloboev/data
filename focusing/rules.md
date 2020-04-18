@@ -235,6 +235,10 @@
 
 - Order of importance for cards: **Watching** -> **Next** -> No label.
 
+## Track
+
+- Track everything worth tracking (lists of movies seen, books read, series watched..).
+
 ## Travel
 
 - Mark [places I've liked](https://www.google.com/maps/placelists/list/1t_jW3zR93T4wMQCQPo1aBbcS61A?hl=en) in Google Maps with optional notes about them.
