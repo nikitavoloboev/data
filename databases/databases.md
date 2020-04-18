@@ -75,7 +75,7 @@
 ## Tools
 
 - [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for the Mac.
-- [TablePlus](https://tableplus.io/)
+- [TablePlus](https://tableplus.io/) ([HN](https://news.ycombinator.com/item?id=22908224))
 - [SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio) - Free, open source, multi-platform SQLite database manager.
 - [litecli](https://github.com/dbcli/litecli) - Command-line client for SQLite databases that has auto-completion and syntax highlighting.
 

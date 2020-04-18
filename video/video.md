@@ -41,3 +41,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [How Productivity Star Thomas Frank Reaches Millions on YouTube](https://superorganizers.substack.com/p/how-productivity-star-thomas-frank)
 - [Zoom](https://zoom.us/) - Video conferencing.
 - [Jitsi](https://meet.jit.si/) - Secure, Simple and Scalable Video Conferences. ([Code](https://github.com/jitsi/jitsi-meet))
+- [Film Grain Synthesis for AV1 Video Codec (2018)](https://norkin.org/pdf/DCC_2018_AV1_film_grain.pdf) ([Lobsters](https://lobste.rs/s/zkakuj/film_grain_synthesis_for_av1_video_codec))

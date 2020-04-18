@@ -33,3 +33,4 @@
 - [Espressif Systems](https://www.espressif.com/) - Semiconductor company.
 - [llhd](https://github.com/fabianschuiki/llhd) - Low Level Hardware Description — A foundation for building hardware design tools. [Web](http://www.llhd.io/)()
 - [Let’s Make More Calm Technology (2019)](https://onezero.medium.com/meet-accent-352cfa95813a)
+- [Programming Parallel Computers course (2020)](http://ppc.cs.aalto.fi/)
