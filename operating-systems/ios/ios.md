@@ -129,3 +129,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS Prototypes](https://twitter.com/i/events/1240479354192302081)
 - [Apple Continuity Protocol Reverse Engineering Project](https://github.com/furiousMAC/continuity)
 - [Sivire](https://github.com/MarioIannotta/Sivire) - Record video of your simulators from the mac menu bar.
+- [Neural Engine — what do we know about it](https://github.com/hollance/neural-engine#readme)

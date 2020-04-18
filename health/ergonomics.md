@@ -15,6 +15,7 @@
 - [1](https://twitter.com/kieranmch/status/1240407709658361859)
 - [2](https://twitter.com/MengTo/status/1240743981325189121)
 - [Fullstack Shack - Office Tour](https://www.youtube.com/watch?v=HPOq3QJz_7s) ([Twitter](https://twitter.com/wesbos/status/1243528348032172033))
+- [Desks of The Sweet Setup (2020)](https://thesweetsetup.com/the-desks-of-the-sweet-setup/)
 
 ## Links
 
