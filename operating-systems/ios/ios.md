@@ -24,6 +24,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Blink Shell](https://github.com/blinksh/blink) - Professional, desktop-grade terminal for iOS that leverages the support of Mosh and SSH.
 - [OpenTrace](https://github.com/opentrace-community/opentrace-ios) - Open source reference implementation of BlueTrace.
 - [iTorrent](https://github.com/XITRIX/iTorrent) - iOS Torrent client App.
+- [TracePrivately](https://github.com/CrunchyBagel/TracePrivately) - Sample app using Apple's contact tracing framework.
 
 ## Notes
 

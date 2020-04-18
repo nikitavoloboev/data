@@ -18,3 +18,4 @@
 - [A Dependently Typed Language (2019)](https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/dependently-typed-language/)
 - [Pi-Forall language](https://github.com/sweirich/pi-forall) - Demo implementation of a simple dependently-typed language.
 - [Dependent types, Vitaly Bragilevsky (2020)](https://www.youtube.com/watch?v=ohG-PRwOorA)
+- [Next 700 Module Systems](https://github.com/alhassy/next-700-module-systems) - Extending Dependently-Typed Languages to Implement Module System Features In The Core Language.

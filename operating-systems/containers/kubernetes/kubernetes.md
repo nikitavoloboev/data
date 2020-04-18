@@ -172,3 +172,4 @@
 - [Kubie](https://github.com/sbstp/kubie) - More powerful alternative to kubectx and kubens. ([Article](https://blog.sbstp.ca/introducing-kubie/))
 - [Crossplane](https://github.com/crossplane/crossplane) - Open source control plane to manage your infrastructure and applications the Kubernetes way.
 - [Kubernetes Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes#readme)
+- [kube-prompt](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client featuring auto-complete.

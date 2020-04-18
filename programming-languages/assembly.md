@@ -10,3 +10,4 @@
 - [ARM GCC Inline Assembler Cookbook](http://www.ethernut.de/en/documents/arm-inline-asm.html)
 - [Getting started with bare-metal assembly (2020)](https://johv.dk/blog/bare-metal-assembly-tutorial.html) ([HN](https://news.ycombinator.com/item?id=22684881))
 - [Compiling to Assembly from Scratch (2020)](https://keleshev.com/compiling-to-assembly-from-scratch-the-book)
+- [Interactive shell of assembly language(X86/X64) based on unicorn and keystone](https://github.com/cch123/asm-cli)
