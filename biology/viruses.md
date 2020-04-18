@@ -16,3 +16,4 @@
 - [TCN Protocol](https://github.com/TCNCoalition/TCN) - Specification and reference implementation of the CEN Protocol for decentralized, privacy-preserving contact tracing.
 - [Auspice](https://nextstrain.github.io/auspice/) - Interactive exploration of phylodynamic & phylogenomic data. ([Code](https://github.com/nextstrain/auspice))
 - [Decentralized Privacy-Preserving Proximity Tracing](https://github.com/DP-3T/documents)
+- [Awesome Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus#readme) - Useful projects and resources for COVID-19.
