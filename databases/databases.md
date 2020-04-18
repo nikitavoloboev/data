@@ -26,7 +26,7 @@
 - [Atlas](https://github.com/Netflix/atlas) - In-memory dimensional time series database.
 - [Pebble](https://github.com/petermattis/pebble) - RocksDB/LevelDB inspired key-value database in Go.
 - [LogDevice](https://github.com/facebookincubator/LogDevice) - Distributed storage for sequential data.
-- [SQLite](https://github.com/mackyle/sqlite) - C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
+- [SQLite](https://github.com/sqlite/sqlite) - C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
 - [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) - Fastest and simplest library for SQLite3 in NodeJS.
 - [rqlite](https://github.com/rqlite/rqlite) - Lightweight, distributed relational database built on SQLite.
 - [gStore](https://github.com/pkumod/gStore) - Graph database engine for managing large graph-structured data.

@@ -394,6 +394,8 @@
 - [workerpool](https://github.com/gammazero/workerpool) - Concurrency limiting goroutine pool.
 - [mimetype](https://github.com/gabriel-vasile/mimetype) - Simple golang library for detecting the MIME type and file extension, based on magic numbers.
 - [keybd_event](https://github.com/micmonay/keybd_event) - Simulates the key press on a keyboard.
+- [Confita](https://github.com/heetch/confita) - Library that loads configuration from multiple backends and stores it in a struct.
+- [tally](https://github.com/uber-go/tally) - Fast, buffered, hierarchical stats collection in Go.
 
 ## Links
 

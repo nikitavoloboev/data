@@ -170,3 +170,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Kui](https://github.com/IBM/kui) - Hybrid command-line/UI development experience for cloud-native development.
 - [Finding Your Passion as a Developer (2020)](https://blog.saasify.sh/finding-your-passion-as-a-developer/)
 - [Ask HN: What's an unsolved problem in your field? (2020)](https://news.ycombinator.com/item?id=22899131)
+- [Tech Links](https://gist.github.com/cellularmitosis/1f55f9679f064bcff02905acb44ca510)

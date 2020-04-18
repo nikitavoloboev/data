@@ -67,3 +67,4 @@
 - [Why is the speed of light a constant?](https://www.reddit.com/r/AskPhysics/comments/g1fx1l/why_is_the_speed_of_light_a_constant/)
 - [The Meaning of Einstein's Equation](http://math.ucr.edu/home/baez/einstein/)
 - [John Baez’s research/blog](http://math.ucr.edu/home/baez/)
+- [Why is light slower in glass? - Sixty Symbols (2013)](https://www.youtube.com/watch?v=CiHN0ZWE5bk)
