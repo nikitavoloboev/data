@@ -108,3 +108,4 @@
 - [Graph Convolutional Neural Network Approach to Antibiotic Discovery (2020)](https://www.welcometothejungle.com/en/articles/btc-covid19-convolutional-neural-network) ([HN](https://news.ycombinator.com/item?id=22898551))
 - [KPNNs](https://github.com/epigen/KPNN) - Knowledge-primed neural networks.
 - [ResNeSt](https://github.com/zhanghang1989/ResNeSt) - Split-Attention Network.
+- [Shortcut Learning in Deep Neural Networks (2020)](https://github.com/rgeirhos/shortcut-perspective)

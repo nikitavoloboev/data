@@ -52,3 +52,4 @@
 - [Experimenting with Dependent Type Theory in Rust](https://github.com/phase/dtt)
 - [Making Illegal States Unrepresentable (2020)](https://buttondown.email/hillelwayne/archive/making-illegal-states-unrepresentable/) ([Lobsters](https://lobste.rs/s/b0p6ib/making_illegal_states_unrepresentable))
 - [Beautiful, interactive visualizations of logical inference](https://github.com/ezyang/logitext)
+- [Type Inference by Example](https://github.com/Ahnfelt/type-inference-by-example)

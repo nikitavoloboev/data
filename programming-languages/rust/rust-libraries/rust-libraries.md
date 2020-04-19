@@ -348,6 +348,7 @@
 - [biscuit](https://github.com/lawliet89/biscuit) - JOSE (JSON Web Token) Library for Rust.
 - [Nano ID](https://github.com/nikolay-govorov/nanoid) - Tiny, secure, URL-friendly, unique string ID generator for Rust.
 - [mac-notification-sys](https://github.com/h4llow3En/mac-notification-sys) - Simple wrapper to deliver or schedule macOS Notifications in Rust.
+- [semval](https://github.com/slowtec/semval) - Semantic validation for Rust.
 
 ## Cargo Plugins
 

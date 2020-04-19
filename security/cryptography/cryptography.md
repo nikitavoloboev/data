@@ -51,3 +51,4 @@
 - [SHISHUA: The Fastest Pseudo-Random Generator In the World (2020)](https://espadrine.github.io/blog/posts/shishua-the-fastest-prng-in-the-world.html) ([HN](https://news.ycombinator.com/item?id=22907539))
 - [RSA implementation in pure Rust](https://github.com/RustCrypto/RSA)
 - [Cryptography I course](https://www.coursera.org/learn/crypto)
+- [Basic implementations of standard cryptography algorithms, like AES and SHA-1](https://github.com/B-Con/crypto-algorithms)

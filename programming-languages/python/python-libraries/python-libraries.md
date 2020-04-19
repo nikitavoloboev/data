@@ -15,6 +15,7 @@
 - [GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python.
 - [Chaospy](https://github.com/jonathf/chaospy) - Toolbox for performing uncertainty quantification.
 - [Categorical Encoding Methods](https://github.com/scikit-learn-contrib/categorical-encoding) - Library of sklearn compatible categorical variable encoders.
+- [Pyodide](https://github.com/iodide-project/pyodide) - Python scientific stack, compiled to WebAssembly.
 
 ## Biology
 
