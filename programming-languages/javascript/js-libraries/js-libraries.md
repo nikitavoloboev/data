@@ -227,6 +227,7 @@
 - [pixelmatch](https://github.com/mapbox/pixelmatch) - Smallest, simplest and fastest JavaScript pixel-level image comparison library.
 - [quilt](https://github.com/Shopify/quilt) - Loosely related set of packages for JavaScript / TypeScript projects at Shopify.
 - [jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects.
+- [RVal](https://github.com/mweststrate/rval) - Minimalistic transparent reactive programming library.
 
 ## Links
 

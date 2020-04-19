@@ -34,3 +34,4 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [Running your own secure communication service with Matrix and Jitsi (2020)](https://matrix.org/blog/2020/04/06/running-your-own-secure-communication-service-with-matrix-and-jitsi) ([HN](https://news.ycombinator.com/item?id=22802645))
 - [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - Matrix Client-Server SDK for Rust.
 - [Declarative, Decentralised, and Secure communication via Matrix, Jitsi, & NixOS (2019)](https://kaushikc.org/posts/matrix-jitsi-nixos.html)
+- [mautrix-telegram](https://github.com/tulir/mautrix-telegram) - Matrix-Telegram hybrid puppeting/relaybot bridge.
