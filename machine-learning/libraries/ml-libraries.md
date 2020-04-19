@@ -50,3 +50,4 @@
 - [Sls](https://github.com/IssamLaradji/sls) - Stochastic Line Search.
 - [PyCaret](https://github.com/pycaret/pycaret) - Open source low-code machine learning library in Python that aims to reduce the hypothesis to insights cycle time in a ML experiment.
 - [Flax](https://github.com/google/flax) - Neural network library for JAX designed for flexibility.
+- [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Python module capable of performing multi-label learning tasks.

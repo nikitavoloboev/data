@@ -43,3 +43,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Moving away from GMail (2019)](https://rolisz.ro/2020/04/11/moving-away-from-gmail/) ([HN](https://news.ycombinator.com/item?id=22843326))
 - [Missive](https://missiveapp.com/) - Team inbox and chat tool that empowers teams to truly collaborate around email.
 - [smtp-cli](https://github.com/mludvig/smtp-cli) - Command line SMTP client.
+- [Lieer](https://github.com/gauteh/lieer) - Fast email-fetching and sending and two-way tag synchronization between notmuch and GMail.

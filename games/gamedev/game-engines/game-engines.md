@@ -26,6 +26,7 @@
 - [ResidualVM](https://github.com/residualvm/residualvm) - 3D game interpreter.
 - [qengine](https://github.com/klaussilveira/qengine) - Retro game engine for developers that enjoy creating games like it's 1997.
 - [Filament](https://github.com/google/filament) - Real-time physically based rendering engine for Android, iOS, Linux, macOS, Windows, and WebGL.
+- [Peacock](https://github.com/maxdeviant/peacock) - Game engine for making beautiful games.
 
 ## Links
 

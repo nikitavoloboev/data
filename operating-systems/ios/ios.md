@@ -25,6 +25,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [OpenTrace](https://github.com/opentrace-community/opentrace-ios) - Open source reference implementation of BlueTrace.
 - [iTorrent](https://github.com/XITRIX/iTorrent) - iOS Torrent client App.
 - [TracePrivately](https://github.com/CrunchyBagel/TracePrivately) - Sample app using Apple's contact tracing framework.
+- [DP3T](https://github.com/DP-3T/dp3t-app-ios) - Decentralised Privacy-Preserving Proximity Tracing (DP-3T) project.
 
 ## Notes
 
@@ -131,3 +132,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Apple Continuity Protocol Reverse Engineering Project](https://github.com/furiousMAC/continuity)
 - [Sivire](https://github.com/MarioIannotta/Sivire) - Record video of your simulators from the mac menu bar.
 - [Neural Engine — what do we know about it](https://github.com/hollance/neural-engine#readme)
+- [Demo iOS application built to highlight MVP (Model View Presenter) and Clean Architecture concepts](https://github.com/FortechRomania/ios-mvp-clean-architecture)
