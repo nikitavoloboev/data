@@ -10,11 +10,9 @@
 - [Natural](https://github.com/NaturalNode/natural) - General natural language facilities for Node.
 - [YSDA Natural Language Processing course (2018)](https://github.com/yandexdataschool/nlp_course)
 - [PyText](https://github.com/facebookresearch/pytext) - Natural language modeling framework based on PyTorch.
-- [HN: Facebook open-sources a speech-recognition system and a machine learning library (2018)](https://news.ycombinator.com/item?id=18736116)
 - [FlashText](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [BERT PyTorch implementation](https://github.com/codertimo/BERT-pytorch)
 - [LASER Language-Agnostic SEntence Representations](https://github.com/facebookresearch/LASER) - Library to calculate and use multilingual sentence embeddings.
-- [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - Open source Speech-To-Text engine, using a model trained by machine learning techniques, based on Baidu's Deep Speech research paper.
 - [StanfordNLP](https://github.com/stanfordnlp/stanfordnlp) - Python NLP Library for Many Human Languages.
 - [nlp-tutorial](https://github.com/graykode/nlp-tutorial) - Tutorial for who is studying NLP(Natural Language Processing) using TensorFlow and PyTorch.
 - [Better Language Models and Their Implications (2019)](https://blog.openai.com/better-language-models/)
@@ -31,7 +29,6 @@
 - [Learn-Natural-Language-Processing-Curriculum](https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum#readme)
 - [This repository recorded my NLP journey](https://github.com/makcedward/nlp)
 - [Project Alias](https://github.com/bjoernkarmann/project_alias) - Open-source parasite to train custom wake-up names for smart home devices while disturbing their built-in microphone.
-- [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time.
 - [Cornell Tech NLP Code](http://rush-nlp.com/code/)
 - [Cornell Tech NLP Publications](http://rush-nlp.com/papers/)
 - [Thinc](https://github.com/explosion/thinc/) - SpaCy's Machine Learning library for NLP in Python. ([Docs](https://thinc.ai/docs))
@@ -62,8 +59,6 @@
 - [Example Notebook using BERT for NLP with Keras (2020)](https://twitter.com/random_forests/status/1216125213760532480)
 - [NLP 2019/2020 Highlights](https://github.com/omarsar/nlp_highlights)
 - [Overview of Modern Deep Learning Techniques Applied to Natural Language Processing](https://github.com/omarsar/nlp_overview)
-- [Online speech recognition with wav2letter@anywhere (2020)](https://ai.facebook.com/blog/online-speech-recognition-with-wav2letteranywhere/)
-- [wav2letter++](https://github.com/facebookresearch/wav2letter) - Fast, open source speech processing toolkit from the Speech team at Facebook AI Research built to facilitate research in end-to-end models for speech recognition.
 - [Language Identification from Very Short Strings (2019)](https://machinelearning.apple.com/2019/07/24/language-identification-from-very-short-strings.html)
 - [SentenceRepresentation](https://github.com/fh295/SentenceRepresentation) - Code acompanies the paper 'Learning Sentence Representations from Unlabelled Data' Felix Hill, KyungHyun Cho and Anna Korhonen 2016.
 - [Deep Learning for Language Processing course](https://fh295.github.io/teaching.html)
@@ -81,7 +76,6 @@
 - [The Annotated GPT-2 (2020)](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
 - [GluonNLP](https://github.com/dmlc/gluon-nlp) - Toolkit that enables easy text preprocessing, datasets loading and neural models building to help you speed up your NLP research.
 - [Finetune](https://github.com/IndicoDataSolutions/finetune) - Scikit-learn style model finetuning for NLP.
-- [Kaldi](https://github.com/kaldi-asr/kaldi) - Speech Recognition Toolkit.
 - [Stanza: A Python Natural Language Processing Toolkit for Many Human Languages (2020)](https://arxiv.org/abs/2003.07082) ([HN](https://news.ycombinator.com/item?id=22663322))
 - [NLP Newsletter](https://github.com/dair-ai/nlp_newsletter#readme)
 - [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries#readme)
@@ -93,4 +87,3 @@
 - [Minimalist Implementation of a BERT Sentence Classifier](https://github.com/ricardorei/lightning-text-classification)
 - [fastText](https://fasttext.cc/) - Library for efficient text classification and representation learning. ([Code](https://github.com/facebookresearch/fastText/))
 - [Awesome NLP Paper Discussions](https://github.com/huggingface/awesome-papers#readme) - Papers & presentations from Hugging Face's weekly science day.
-- [Building an end-to-end Speech Recognition model in PyTorch](https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch) ([HN](https://news.ycombinator.com/item?id=22899107))
