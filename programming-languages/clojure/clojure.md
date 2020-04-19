@@ -46,3 +46,7 @@
 - [Clojure Chat Streams](https://scicloj.github.io/pages/chat_streams/)
 - [Clojure is Great (2020)](https://www.reddit.com/r/Clojure/comments/fzvosa/holy_cow_clojure_is_great/)
 - [clj-kondo](https://github.com/borkdude/clj-kondo) - Linter for Clojure code that sparks joy.
+- [Clojure beginner resources](https://gist.github.com/yogthos/be323be0361c589570a6da4ccc85f58f)
+- [Clojure Distilled](https://yogthos.net/ClojureDistilled.html)
+- [Clojure for Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
+- [Introduction to Clojure – Modern dialect of Lisp (2013)](https://www.creativeapplications.net/tutorials/introduction-to-clojure-part-1/)

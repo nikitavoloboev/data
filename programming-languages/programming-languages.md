@@ -62,3 +62,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Mu: A minimal hobbyist computing stack (2019)](http://akkartik.name/post/mu-2019-1)
 - [Bitsy](https://github.com/apbendi/bitsyspec) - Best language to implement when writing your first compiler or interpreter.
 - [codespan-reporting](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
+- [What language to learn during quarantine? (2020)](https://lobste.rs/s/z6n6pd/what_language_learn_during_quarantine)
