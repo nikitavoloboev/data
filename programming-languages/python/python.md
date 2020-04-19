@@ -87,3 +87,4 @@
 - [cython](https://github.com/cython/cython) - Most widely used Python to C compiler.
 - [HPy: a better API for Python](https://github.com/pyhandle/hpy) - Goal of the project is to design a better API for extending Python in C.
 - [Safety checks your installed dependencies for known security vulnerabilities](https://github.com/pyupio/safety)
+- [The Composition Over Inheritance Principle](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
