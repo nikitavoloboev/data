@@ -339,6 +339,7 @@
 - [glam](https://github.com/bitshifter/glam-rs) - Simple and fast linear algebra library for games and graphics.
 - [rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust.
 - [libloading](https://github.com/nagisa/rust_libloading) - Better library for loading dynamic libraries.
+- [NumToA](https://github.com/mmstick/numtoa) - Efficient method of heaplessly converting numbers into their string representations, storing the representation within a reusable byte array.
 
 ## Cargo Plugins
 

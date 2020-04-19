@@ -35,3 +35,4 @@
 - [Responsive Images the Simple Way (2020)](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
 - [sahtml-query](https://github.com/mdevils/sahtml-query) - Fast and low memory query API for HTML (node.js).
 - [HTML is more complicated than you think (2020)](https://www.tempertemper.net/blog/html-is-more-complicated-than-you-think)
+- [X GIF](https://github.com/geelen/x-gif) - Custom element for flexible GIF playback.

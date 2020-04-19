@@ -76,3 +76,4 @@
 - [How React Native development can save time (2020)](https://callstack.com/blog/how-react-native-development-can-save-your-business-in-the-time-of-coronavirus-pandemic/)
 - [Restyle](https://github.com/Shopify/restyle) - Type-enforced system for building UI components in React Native with TypeScript.
 - [Background Fetch](https://github.com/transistorsoft/react-native-background-fetch) - Periodic callbacks in the background for both iOS and Android.
+- [Redux Debugger Plugin for Flipper](https://github.com/jk-gan/flipper-plugin-redux-debugger)
