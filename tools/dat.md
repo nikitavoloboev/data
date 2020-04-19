@@ -11,3 +11,4 @@
 - [Unwalled.Garden: souped-up RSS for P2P social apps (2019)](https://pfrazee.hashbase.io/blog/unwalled-garden)
 - [On Dat:// (2019)](https://www.kickscondor.com/on-dat/)
 - [A Collaboration Story: Building p2pcommons SDK (2020)](https://geutstudio.com/blog/building-p2pcommons-sdk/)
+- [HN: Dat: A P2P hypermedia protocol with public-key-addressed file archives (2020)](https://news.ycombinator.com/item?id=22909998)
