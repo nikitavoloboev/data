@@ -18,3 +18,4 @@
 - [Going Critical (2019)](https://www.meltingasphalt.com/interactive/going-critical/) ([HN](https://news.ycombinator.com/item?id=19905677))
 - [Thinking in Systems by Donella Meadows (2019)](http://beza1e1.tuxen.de/thinking_in_systems.html) ([Lobsters](https://lobste.rs/s/n7g3x5/thinking_systems_by_donella_meadows))
 - [Why Complexity is Different (2017)](https://mystudentvoices.com/why-complexity-is-different-ecd498e0eccb)
+- [Statistical process control after W. Edwards Deming](https://www.2uo.de/deming/)

@@ -54,3 +54,4 @@
 - [Eric Haines courses/research](http://erich.realtimerendering.com/#)
 - [Accurate geometric camera calibration](https://github.com/puzzlepaint/camera_calibration)
 - [rs_pbrt](https://github.com/wahn/rs_pbrt) - Rust crate to implement at least parts of the PBRT book's C++ code.
+- [Stippling and Blue Noise (2011)](https://www.joesfer.com/?p=108)
