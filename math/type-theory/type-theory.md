@@ -50,3 +50,4 @@
 - [Implementation of "Complete and Easy Bidirectional Typechecking for Higher-Rank Polymorphism" in Rust](https://github.com/JDemler/BidirectionalTypechecking)
 - [Milner Award Lecture: The Type Soundness Theorem That You Really Want to Prove (and now you can)](https://www.youtube.com/watch?v=8Xyk_dGcAwk)
 - [Experimenting with Dependent Type Theory in Rust](https://github.com/phase/dtt)
+- [Making Illegal States Unrepresentable (2020)](https://buttondown.email/hillelwayne/archive/making-illegal-states-unrepresentable/) ([Lobsters](https://lobste.rs/s/b0p6ib/making_illegal_states_unrepresentable))

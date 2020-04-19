@@ -117,3 +117,4 @@ I love Git and version control. And I use version control over any project I do.
 - [CS Visualized: Useful Git Commands (2020)](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 - [git-issue](https://github.com/dspinellis/git-issue) - Git-based decentralized issue management.
 - [git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement).
+- [The Communicative Value of Using Git Well (2020)](https://jeremykun.com/2020/01/14/the-communicative-value-of-using-git-well/)

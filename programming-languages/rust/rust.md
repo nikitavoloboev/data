@@ -186,3 +186,4 @@
 - [Cranelift backend for rustc](https://github.com/bjorn3/rustc_codegen_cranelift)
 - [Possible New Backend for Rust (2020)](https://jason-williams.co.uk/a-possible-new-backend-for-rust)
 - [Ask Rust Experts](https://rust-experts.com/#qna-ide-1)
+- [Writing Python inside your Rust code (2020)](https://blog.m-ou.se/writing-python-inside-rust-1/) ([HN](https://news.ycombinator.com/item?id=22904100))
