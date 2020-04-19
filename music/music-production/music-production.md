@@ -18,6 +18,7 @@
 - [Tone Piano](https://github.com/tambien/Piano) - Web Audio instrument which uses high-quality multi-sampled piano sounds provided by Salamander Grand Piano.
 - [Tone.js](https://github.com/Tonejs/Tone.js) - Web Audio framework for making interactive music in the browser.
 - [tonal](https://github.com/tonaljs/tonal) - Functional music theory library for JavaScript.
+- [Renoise](https://www.renoise.com/) - Digital Audio Workstation with a unique top-down approach.
 
 ## Inspiration
 

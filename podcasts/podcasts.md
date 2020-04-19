@@ -119,6 +119,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Winds](https://getstream.io/winds/) - Beautiful Open Source Podcast & RSS Reader created by Stream. ([Code](https://github.com/GetStream/Winds))
 - [Mixtape](https://mixtape.preslav.me/) - Search engine for podcasts. Discover and subscribe to topics you like.
 - [Subscription podcasting is the next great business model (2019)](https://medium.com/@awilkinson/howard-stern-is-getting-ripped-off-1b721cc2f3f2) ([Tweet](https://twitter.com/awilkinson/status/1250806508553551872))
-- [Supercast](https://www.supercast.com/) - Makes podcast monetization simple.
 - [Changelog](https://changelog.com/) - News and podcasts for developers.
 - [Changelog Transcripts](https://github.com/thechangelog/transcripts)
+- [Supercast](https://www.supercast.com/) - Makes podcast monetization simple.
+- [Descript](https://www.descript.com/) - Record. Transcribe. Edit. Mix. As easy as typing.

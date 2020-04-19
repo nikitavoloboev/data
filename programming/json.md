@@ -11,3 +11,4 @@
 - [Verify JSON](https://github.com/yusufnb/verify-json) - Library to verify JSON structure easily using a lightweight JSON schema syntax. ([HN](https://news.ycombinator.com/item?id=22885527))
 - [How (not) to sign a JSON object (2019)](https://latacora.micro.blog/2019/07/24/how-not-to.html)
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
+- [pdiffjson](https://github.com/jlevy/pdiffjson) - Diff JSON the easy way.
