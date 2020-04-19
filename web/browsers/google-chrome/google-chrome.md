@@ -17,3 +17,4 @@ And here are Chrome extensions I use:
 - [Rendertron](https://github.com/GoogleChrome/rendertron) - Headless Chrome rendering solution.
 - [Chrome Launcher](https://github.com/GoogleChrome/chrome-launcher) - Launch Google Chrome with ease from node.
 - [HN: Extensions to manage tabs (2020)](https://news.ycombinator.com/item?id=22841708)
+- [Build a Chrome Extension in React (2020)](https://www.youtube.com/watch?v=4x0lQu1TOCQ)

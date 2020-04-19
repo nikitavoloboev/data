@@ -57,6 +57,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Samuel Smith](https://www.artstation.com/samsamstudio)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
+- [Darya Shnykina](https://www.behance.net/daryashnykina)
 - [Robert Beatty](https://www.robertbeattyart.com/)
 - [Svetlana Dmitrieva](https://www.artstation.com/mayadim1926)
 - [Katherine Lam](https://www.behance.net/katherinelam)
