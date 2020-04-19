@@ -36,3 +36,4 @@
 - [Awesome Cloud Build](https://github.com/Timtech4u/awesome-cloudbuild#readme) - Curated list of resources about all things Google Cloud Build.
 - [How to burn the most money with a single click in Azure (2020)](https://mijailovic.net/2020/03/28/azure-money-burning/) ([HN](https://news.ycombinator.com/item?id=22718330))
 - [Awesome Cloud Native](https://github.com/rootsongjc/awesome-cloud-native#readme)
+- [How to deploy side projects as web services for free (2020)](https://ashishb.net/tech/how-to-deploy-side-projects-as-web-services-for-free/) ([Lobsters](https://lobste.rs/s/nn0kpt/how_deploy_side_projects_as_web_services))

@@ -15,3 +15,4 @@
 - [Performance comparison of parallel ray tracing in functional programming languages](https://github.com/athas/raytracers)
 - [RayTracer.jl](https://github.com/avik-pal/RayTracer.jl) - Ray Tracer written completely in Julia.
 - [Ray Tracing Essentials (2020)](https://www.youtube.com/playlist?list=PL5B692fm6--sgm8Uiava0IIvUojjFOCSR)
+- [Rayt](https://github.com/Dalamar42/rayt) - Monte Carlo ray tracer developed using Rust.

@@ -34,3 +34,4 @@
 - [Scala School](http://twitter.github.io/scala_school/) - Lessons in the Fundamentals of Scala. ([Code](https://github.com/twitter/scala_school))
 - [The Death of Hype: What's Next for Scala (2020)](http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html) ([Lobsters](https://lobste.rs/s/5m7mtd/death_hype_what_s_next_for_scala)) ([HN](https://news.ycombinator.com/item?id=22830779))
 - [Seed](https://github.com/tindzk/seed) - Build tool for Scala projects.
+- [Hands-on Scala Programming](https://www.handsonscala.com/) ([HN](https://news.ycombinator.com/item?id=22914610))

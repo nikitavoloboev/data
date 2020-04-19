@@ -145,3 +145,4 @@
 - [Ask HN: How to rediscover the joy of programming? (2020)](https://news.ycombinator.com/item?id=22860682)
 - [Malleable Systems: Software must be as easy to change as it is to use it](https://malleable.systems/) ([HN](https://news.ycombinator.com/item?id=22857551))
 - [Learn With Jason](https://www.learnwithjason.dev/) - Live show streamed where Jason pair programs for 90 min to learn something new.
+- [How to Design Programs](https://htdp.org/) - Introduction to programming and computing.
