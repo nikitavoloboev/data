@@ -83,6 +83,7 @@
 - [SwiftUI Environment Overrides](https://github.com/nalexn/EnvironmentOverrides) - QA assistant for a SwiftUI app: change the color scheme, accessibility settings, and localization on the fly.
 - [RKCalendar](https://github.com/RaffiKian/RKCalendar) - SwiftUI Simple Calendar / Date Picker for iOS.
 - [AStack](https://github.com/zntfdr/AStack) - Missing SwiftUI Adaptive and Accessible Stacks Library.
+- [SwiftUI Settings Screen](https://github.com/rudrankriyam/SwiftUI-Settings-Screen) - Beautiful settings screen created in SwiftUI.
 - [Swift Request](https://github.com/carson-katri/swift-request) - Declarative HTTP networking, designed for SwiftUI.
 
 ## macOS
@@ -268,6 +269,8 @@
 - [Rearrange](https://github.com/ChimeHQ/Rearrange) - Collection of utilities for interacting with NSRange.
 - [Keyboard Observing](https://github.com/nickffox/KeyboardObserving) - Combine-based solution for observing and avoiding the keyboard in SwiftUI.
 - [swift-base64-kit](https://github.com/fabianfett/swift-base64-kit) - Base64 encode and decode without the use of Foundation in pure Swift.
+- [Proton](https://github.com/rajdeep/proton) - Purely native and extensible rich text editor for iOS and macOS Catalyst apps.
+- [SkiaKit](https://github.com/migueldeicaza/SkiaKit) - Swift Bindings to the Skia 2D graphics Library.
 
 ## Other (not lib)
 
@@ -280,3 +283,4 @@
 - [Ice](https://github.com/jakeheis/Ice) - Developer friendly package manager for Swift; 100% compatible with Swift Package Manager.
 - [freshOS](https://freshos.github.io/) - 100% Open Source iOS Toolset.
 - [swift-outdated](https://github.com/kiliankoe/swift-outdated) - Swift subcommand for displaying when Swift dependencies are out of date.
+- [DocTest](https://github.com/SwiftDocOrg/DocTest) - Experimental tool for testing Swift example code in documentation.

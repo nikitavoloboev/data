@@ -90,3 +90,4 @@
 - [The Composition Over Inheritance Principle](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
 - [Building Finite State Machines with Python Coroutines](https://arpitbhayani.me/blogs/fsm) ([HN](https://news.ycombinator.com/item?id=22915716))
 - [Awesome Python](https://github.com/vinta/awesome-python#readme)
+- [Distill: Why do we need Flask, Celery, and Redis? (2019)](https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/) ([HN](https://news.ycombinator.com/item?id=22901856))

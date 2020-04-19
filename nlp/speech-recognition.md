@@ -11,3 +11,4 @@
 - [Real-Time Voice Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time.
 - [Kaldi Active Grammar](https://github.com/daanzu/kaldi-active-grammar) - Python Kaldi speech recognition with grammars that can be set active/inactive dynamically at decode-time.
 - [SpecAugment with PyTorch](https://github.com/zcaceres/spec_augment) - PyTorch Implementation of GoogleBrain's SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition.
+- [Dragonfly](https://github.com/dictation-toolbox/dragonfly) - Speech recognition framework for Python that makes it convenient to create custom commands to use with speech recognition software.

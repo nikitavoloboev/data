@@ -85,6 +85,7 @@
 - [Eitherx](https://github.com/mfix22/eitherx) - Super simple, reusable either-or error boundaries for React.
 - [Motion Layout](https://github.com/jeffersonlicet/react-motion-layout) - Beautiful immersive React hero animations.
 - [React Focus Lock](https://github.com/theKashey/react-focus-lock) - Browser friendly focus lock.
+- [Bedrock](https://github.com/Bedrock-Layouts/Bedrock) - Foundational Layout Primitives for your React App.
 
 ## Links
 

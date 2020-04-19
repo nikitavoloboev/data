@@ -32,3 +32,4 @@
 - [Vintage Byte Magazine Library](https://vintageapple.org/byte/) - Captures the history of the entire personal computer industry from the early days (Sept 1975) through July 1998.
 - [The early days of home computing – in pictures](https://www.theguardian.com/technology/gallery/2020/apr/11/the-early-days-of-home-computing-in-pictures?CMP=Share_iOSApp_Other)
 - [Archive Today](http://archive.vn/) - Time capsule for web pages.
+- [Ask HN: What are some great posts or articles about history of computing? (2020)](https://news.ycombinator.com/item?id=22907211)

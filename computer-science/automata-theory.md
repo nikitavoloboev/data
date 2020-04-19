@@ -15,3 +15,4 @@
 - [Wasm Game Of Life](https://github.com/gus3inov/wasm-game-of-life) - Game of life with WebAssembly.
 - [Life in life](https://www.youtube.com/watch?v=xP5-iIeKXE8) ([HN](https://news.ycombinator.com/item?id=22849264))
 - [Inventing Game of Life (John Conway)](https://www.youtube.com/watch?v=R9Plq-D1gEk)
+- [Rule 30 and Game of Life](https://github.com/elliotwaite/rule-30-and-game-of-life)
