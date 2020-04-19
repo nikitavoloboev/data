@@ -53,3 +53,4 @@
 - [Graphics Gems books](http://www.realtimerendering.com/resources/GraphicsGems/) ([Code](https://github.com/erich666/GraphicsGems))
 - [Eric Haines courses/research](http://erich.realtimerendering.com/#)
 - [Accurate geometric camera calibration](https://github.com/puzzlepaint/camera_calibration)
+- [rs_pbrt](https://github.com/wahn/rs_pbrt) - Rust crate to implement at least parts of the PBRT book's C++ code.

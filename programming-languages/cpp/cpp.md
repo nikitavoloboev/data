@@ -77,3 +77,4 @@
 - [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer) - Memory error detector for C/C++.
 - [CMakeStarter](https://github.com/TheLartians/CPPStarter) - Template for modern C++ libraries and projects.
 - [CPM.cmake](https://github.com/TheLartians/CPM.cmake) - CMake script that adds dependency management capabilities to CMake.
+- [ProDBG](https://github.com/emoon/ProDBG) - New debugger under development that will support a variety of targets and operating systems.

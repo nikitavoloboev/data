@@ -7,3 +7,4 @@
 - [Nara Baby](https://narababy.com/) - App for keeping track of all things baby.
 - [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
 - [Colorables](https://www.colorabl.es/) - Grab your crayons, it’s coloring time.
+- [Paul Graham’s thoughts, discoveries, and tricks on parenthood](https://www.unclepaul.io/) ([HN](https://news.ycombinator.com/item?id=22913871))

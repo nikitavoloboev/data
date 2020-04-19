@@ -337,6 +337,7 @@
 - [regex-automata](https://github.com/BurntSushi/regex-automata) - Low level regular expression library that uses deterministic finite automata.
 - [syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
 - [glam](https://github.com/bitshifter/glam-rs) - Simple and fast linear algebra library for games and graphics.
+- [rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust.
 
 ## Cargo Plugins
 
