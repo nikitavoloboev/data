@@ -96,3 +96,4 @@
 - [Neural Spline Flow, RealNVP, Autoregressive Flow, 1x1Conv in PyTorch](https://github.com/tonyduan/normalizing-flows)
 - [PyTorch implementation of NeRF (Neural Radiance Fields)](https://github.com/yenchenlin/nerf-pytorch)
 - [PyTorch learning rate finder](https://github.com/davidtvs/pytorch-lr-finder)
+- [PyTorch Scatter](https://github.com/rusty1s/pytorch_scatter) - PyTorch Extension Library of Optimized Scatter Operations.
