@@ -31,3 +31,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Metropolis](https://github.com/matze/mtheme) - Modern LaTeX Beamer theme.
 - [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX) - WYSIWYG Browser-based LaTeX Editor. ([HN](https://news.ycombinator.com/item?id=21710105))
 - [LaTeX Tips](https://jaydaigle.net/latex/)
+- [Biber](https://github.com/plk/biber) - Backend processor for BibLaTeX.

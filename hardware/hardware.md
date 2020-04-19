@@ -35,3 +35,4 @@
 - [Let’s Make More Calm Technology (2019)](https://onezero.medium.com/meet-accent-352cfa95813a)
 - [Programming Parallel Computers course (2020)](http://ppc.cs.aalto.fi/)
 - [Nand to Tetris is a great course (2020)](https://mattsegal.dev/nand-to-tetris.html) ([Reddit](https://www.reddit.com/r/programming/comments/g2x6ux/nand_to_tetris_is_a_great_course_for_learning_how/))
+- [HAL](https://github.com/emsec/hal) - Hardware Analyzer.

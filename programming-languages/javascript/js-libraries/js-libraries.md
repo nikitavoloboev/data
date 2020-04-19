@@ -228,6 +228,7 @@
 - [quilt](https://github.com/Shopify/quilt) - Loosely related set of packages for JavaScript / TypeScript projects at Shopify.
 - [jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects.
 - [RVal](https://github.com/mweststrate/rval) - Minimalistic transparent reactive programming library.
+- [orbit-controls](https://github.com/Jam3/orbit-controls) - Generic controls for orbiting a target in 3D.
 
 ## Links
 

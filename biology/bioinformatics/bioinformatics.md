@@ -36,3 +36,4 @@
 - [Deep Molecular Programming: A Natural Implementation of Binary-Weight ReLU Neural Networks (2020)](https://arxiv.org/abs/2003.13720) ([HN](https://news.ycombinator.com/item?id=22768143))
 - [Computationally Comparing Biological Networks and Reconstructing Their Evolution (2012)](http://www.robpatro.com/newsite/documents/dissertation.pdf)
 - [Bioinformatics Specialization courses](https://www.coursera.org/specializations/bioinformatics)
+- [Scanpy](https://github.com/theislab/scanpy) - Single-Cell Analysis in Python.

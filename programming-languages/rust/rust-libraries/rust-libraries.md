@@ -122,6 +122,10 @@
 
 - [procfs](https://github.com/eminence/procfs) - Rust library for reading the Linux procfs filesystem.
 
+## ML
+
+- [linfa](https://github.com/LukeMathWalker/linfa) - Rust machine learning framework.
+
 ## Other
 
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser.

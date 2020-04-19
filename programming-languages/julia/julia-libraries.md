@@ -55,6 +55,7 @@
 - [Literate](https://github.com/fredrikekre/Literate.jl) - Simple package for literate programming in Julia.
 - [AbstractTrees](https://github.com/JuliaCollections/AbstractTrees.jl) - Abstract julia interfaces for working with trees.
 - [Lazy.jl](https://github.com/MikeInnes/Lazy.jl) - Provides Julia with the cornerstones of functional programming - lazily-evaluated lists and a large library of functions for working with them.
+- [BenchmarkTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl) - Benchmarking framework for the Julia language.
 
 ## Links
 

@@ -13,3 +13,4 @@
 - [WebSockets API for OBS Studio](https://github.com/Palakis/obs-websocket)
 - [websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions.
 - [Awesome WebSockets](https://github.com/facundofarias/awesome-websockets#readme)
+- [SockJS client](https://github.com/sockjs/sockjs-client) - WebSocket emulation - JS client.
