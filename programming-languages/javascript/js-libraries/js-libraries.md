@@ -221,7 +221,7 @@
 - [Snabbdom](https://github.com/snabbdom/snabbdom) - Virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [Thwack](https://github.com/donavon/thwack) - Tiny modern data fetching solution.
 - [Regenerate](https://github.com/mathiasbynens/regenerate) - Generate JavaScript-compatible regular expressions based on a given set of Unicode symbols or code points.
-- [Crank.js](https://github.com/bikeshaving/crank) - Write JSX-driven components with functions, promises and generators. ([Article](https://crank.js.org/blog/introducing-crank)) ([Reddit](https://www.reddit.com/r/reactjs/comments/g2u135/crankjs_introducting_crank/))
+- [Crank.js](https://github.com/bikeshaving/crank) - Write JSX-driven components with functions, promises and generators. ([Article](https://crank.js.org/blog/introducing-crank)) ([Reddit](https://www.reddit.com/r/reactjs/comments/g2u135/crankjs_introducting_crank/)) ([HN](https://news.ycombinator.com/item?id=22903967))
 - [redaxios](https://github.com/developit/redaxios) - Axios API, as an 800 byte Fetch wrapper.
 - [Math.js](https://github.com/josdejong/mathjs) - Extensive math library for JavaScript and Node.js.
 - [pixelmatch](https://github.com/mapbox/pixelmatch) - Smallest, simplest and fastest JavaScript pixel-level image comparison library.

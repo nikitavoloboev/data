@@ -64,3 +64,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [codespan-reporting](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
 - [What language to learn during quarantine? (2020)](https://lobste.rs/s/z6n6pd/what_language_learn_during_quarantine)
 - [Language designers, use `ident: Type`, not `Type ident` (2017)](https://soc.me/languages/type-annotations) ([Lobsters](https://lobste.rs/s/5gqmcj/language_designers_use_ident_type_not))
+- [Row Polymorphism without the Jargon (2020)](https://jadon.io/blog/row-polymorphism) ([Lobsters](https://lobste.rs/s/obftqz/row_polymorphism_without_jargon))

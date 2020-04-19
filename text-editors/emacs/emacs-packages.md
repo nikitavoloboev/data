@@ -9,6 +9,7 @@
 - [use-package](https://github.com/jwiegley/use-package) - Macro allows you to isolate package configuration in your .emacs file .
 - [Org Roam](https://github.com/jethrokuan/org-roam) - Rudimentary Roam replica with Org-mode. ([HN](https://news.ycombinator.com/item?id=22767658))
 - [org-journal](https://github.com/bastibe/org-journal) - Simple org-mode based journaling mode.
+- [dumb-jump](https://github.com/jacktasia/dumb-jump) - Emacs "jump to definition" package for 40+ languages.
 
 ## Elm
 
