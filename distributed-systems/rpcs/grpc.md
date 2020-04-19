@@ -17,3 +17,5 @@
 - [gRPCurl](https://github.com/fullstorydev/grpcurl) - Command-line tool that lets you interact with gRPC servers.
 - [Evans](https://github.com/ktr0731/evans) - More expressive universal gRPC client.
 - [ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments.
+- [ygot](https://github.com/openconfig/ygot) - YANG-centric Go toolkit - Go/Protobuf Code Generation; Validation; Marshaling/Unmarshaling.
+- [grpc-graphql-gateway](https://github.com/ysugimoto/grpc-graphql-gateway) - Protoc plugin that generates graphql execution code from Protocol Buffers.

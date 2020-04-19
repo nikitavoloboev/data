@@ -54,6 +54,7 @@
 - [DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl) - Implements a variety of data structures.
 - [Literate](https://github.com/fredrikekre/Literate.jl) - Simple package for literate programming in Julia.
 - [AbstractTrees](https://github.com/JuliaCollections/AbstractTrees.jl) - Abstract julia interfaces for working with trees.
+- [Lazy.jl](https://github.com/MikeInnes/Lazy.jl) - Provides Julia with the cornerstones of functional programming - lazily-evaluated lists and a large library of functions for working with them.
 
 ## Links
 
