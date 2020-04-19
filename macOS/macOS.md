@@ -64,3 +64,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS.
 - [Proxy Audio Driver](https://github.com/briankendall/proxy-audio-device) - Virtual audio driver for macOS to sends all audio to another output.
 - [Icons.app](https://github.com/SAP/macOS-icon-generator) - App for macOS which is designed to generate consistent sized icons of an existing application in various states, jiggling (shaking) etc.
+- [OpenCore](https://dortania.github.io/OpenCore-Desktop-Guide/) - Open-source, unconventional, first-in-class piece of software designed to intercept kernel loading to insert a highly advanced rootkit, designed to be an alternative to Clover. ([Code](https://github.com/dortania/OpenCore-Desktop-Guide)) ([HN](https://news.ycombinator.com/item?id=22916281))

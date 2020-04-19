@@ -97,3 +97,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [packetdrill](https://github.com/google/packetdrill) - Enables quick, precise tests for entire TCP/UDP/IPv4/IPv6 network stacks, from the system call layer down to the NIC hardware.
 - [TCP/IP Tutorial (1991)](https://tools.ietf.org/html/rfc1180) ([HN](https://news.ycombinator.com/item?id=22863507))
 - [Is BGP safe yet? No.](https://isbgpsafeyet.com/) ([HN](https://news.ycombinator.com/item?id=22899546))
+- [Achieveing reliable UDP transmission at 10 Gb/s using BSD socket for data acquisition systems (2017)](https://arxiv.org/abs/1706.00333) ([HN](https://news.ycombinator.com/item?id=22917447))
