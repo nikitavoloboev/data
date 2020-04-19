@@ -13,6 +13,7 @@ import (
 // TODO: duplicate links, broken links
 // TODO: scan through all links in # Links or all links in wiki as whole
 // TODO: find .md files that are not in SUMMARY.md
+// TODO: run https://github.com/smallhadroncollider/brok on whole wiki
 
 // Find broken links
 func Clean() {
