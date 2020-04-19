@@ -50,3 +50,4 @@
 - [Learning fast elliptic-curve cryptography in JS (2020)](https://paulmillr.com/posts/noble-secp256k1-fast-ecc/)
 - [SHISHUA: The Fastest Pseudo-Random Generator In the World (2020)](https://espadrine.github.io/blog/posts/shishua-the-fastest-prng-in-the-world.html) ([HN](https://news.ycombinator.com/item?id=22907539))
 - [RSA implementation in pure Rust](https://github.com/RustCrypto/RSA)
+- [Cryptography I course](https://www.coursera.org/learn/crypto)

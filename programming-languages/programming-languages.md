@@ -63,3 +63,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Bitsy](https://github.com/apbendi/bitsyspec) - Best language to implement when writing your first compiler or interpreter.
 - [codespan-reporting](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
 - [What language to learn during quarantine? (2020)](https://lobste.rs/s/z6n6pd/what_language_learn_during_quarantine)
+- [Language designers, use `ident: Type`, not `Type ident` (2017)](https://soc.me/languages/type-annotations) ([Lobsters](https://lobste.rs/s/5gqmcj/language_designers_use_ident_type_not))

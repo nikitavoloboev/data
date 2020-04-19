@@ -10,4 +10,4 @@
 - [Cleaning up form UI](https://tonsky.me/blog/form-cleanup/)
 - [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
 - [Spatial Software (2020)](https://darkblueheaven.com/spatialsoftware/)
-- [The Decline of Usability](https://datagubbe.se/decusab/) ([Lobsters](https://lobste.rs/s/6f7glj/decline_usability))
+- [The Decline of Usability](https://datagubbe.se/decusab/) ([Lobsters](https://lobste.rs/s/6f7glj/decline_usability)) ([HN](https://news.ycombinator.com/item?id=22901541))
