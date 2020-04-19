@@ -23,12 +23,13 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 
 ## Web
 
-- [ProseMirror](https://prosemirror.net/) - Toolkit for building rich-text editors on the web.
+- [ProseMirror](https://prosemirror.net/) - Toolkit for building rich-text editors on the web. ([Code](https://github.com/ProseMirror/prosemirror)) ([Developer Tools for ProseMirror](https://github.com/d4rkr00t/prosemirror-dev-tools))
 - [Remirror](https://github.com/ifiokjr/remirror) - Universal react text editor built with prosemirror.
 - [draft.js](https://github.com/facebook/draft-js) - React framework for building text editors.
 - [Eclipse Theia](http://theia-ide.org) - Extensible platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies. ([Code](https://github.com/eclipse-theia/theia)) ([HN](https://news.ycombinator.com/item?id=22792258))
 - [Typewriter](https://github.com/typewriter-editor/typewriter) - Rich text editor based off of Quill.js and Ultradom, and using Svelte for UI.
 - [CodeJar](https://github.com/antonmedv/codejar) - Micro code editor.
+- [tiptap](https://tiptap.scrumpy.io/) - Renderless rich-text editor for Vue.js. ([Code](https://github.com/scrumpy/tiptap))
 
 ## Links
 

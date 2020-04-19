@@ -267,6 +267,7 @@
 - [Grand Central Dispatch](https://github.com/apple/swift-corelibs-libdispatch) - Provides comprehensive support for concurrent code execution on multicore hardware.
 - [Rearrange](https://github.com/ChimeHQ/Rearrange) - Collection of utilities for interacting with NSRange.
 - [Keyboard Observing](https://github.com/nickffox/KeyboardObserving) - Combine-based solution for observing and avoiding the keyboard in SwiftUI.
+- [swift-base64-kit](https://github.com/fabianfett/swift-base64-kit) - Base64 encode and decode without the use of Foundation in pure Swift.
 
 ## Other (not lib)
 

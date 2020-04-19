@@ -341,6 +341,7 @@
 - [libloading](https://github.com/nagisa/rust_libloading) - Better library for loading dynamic libraries.
 - [NumToA](https://github.com/mmstick/numtoa) - Efficient method of heaplessly converting numbers into their string representations, storing the representation within a reusable byte array.
 - [OsStr Bytes](https://github.com/dylni/os_str_bytes) - Traits for converting between byte sequences and platform-native strings.
+- [biscuit](https://github.com/lawliet89/biscuit) - JOSE (JSON Web Token) Library for Rust.
 
 ## Cargo Plugins
 

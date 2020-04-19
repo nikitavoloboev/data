@@ -64,3 +64,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [markdown-cv](https://github.com/elipapa/markdown-cv) - Simple template to write your CV in a readable markdown file and use CSS to publish/print it. ([Example](https://elipapa.github.io/mycv/extended))
 - [Markdown Resume](http://mszep.github.io/pandoc_resume/) ([Code](https://github.com/mszep/pandoc_resume))
 - [Eleventy Résumé Builder (2020)](https://mxb.dev/blog/eleventy-resume-builder/)
+- [JSON Resume](https://jsonresume.org/) - Open source initiative to create a JSON-based standard for resumes. For developers, by developers. ([Code](https://github.com/jsonresume/resume-schema))
