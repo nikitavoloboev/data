@@ -10,3 +10,4 @@
 - [Всё по Notion](https://www.notion.so/Notion-f28f32adbfde4e4695c60587262e1044)
 - [Notion - Telegram Russian Channel](https://t.me/notiongo)
 - [Notion Toolbox](https://github.com/kevinjalbert/notion-toolbox) - Collection of Notion tools that work in tandem together.
+- [reacti-notion](https://github.com/splitbee/react-notion) - Blazing fast React renderer for Notion pages.
