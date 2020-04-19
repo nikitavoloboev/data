@@ -11,6 +11,10 @@
 - [Keybase](https://github.com/keybase/client) - Go Library, Client, Service, OS X, iOS, Android, Electron.
 - [Things Network Stack for LoRaWAN V3](https://github.com/TheThingsNetwork/lorawan-stack) - Lovely contribution + github & git flow + good docs.
 
+## Notes
+
+- [Two traits of a good architecture: 1. It should nudge you to do things in a scalable way by default. You should only pay for what you use. 2. When something gets slow, there should be a straightforward way to fix it.](https://twitter.com/dan_abramov/status/1251864460526006273)
+
 ## Links
 
 - [Awesome Software Architecture](https://github.com/simskij/awesome-software-architecture#readme)
