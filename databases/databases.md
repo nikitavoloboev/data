@@ -122,3 +122,5 @@
 - [Storage: Complete Overview for Developers (2020)](https://developer.sh/posts/storage-technologies-for-developers)
 - [Event-Reduce](https://github.com/pubkey/event-reduce) - Algorithm to optimize database queries that run multiple times. ([HN](https://news.ycombinator.com/item?id=22888239))
 - [Apache Druid vs. Time-Series Databases (2019)](https://imply.io/post/apache-druid-vs-time-series-databases) ([HN](https://news.ycombinator.com/item?id=22868286))
+- [Lopez: Breaking boundaries between programming languages and databases (2019)](https://tel.archives-ouvertes.fr/tel-02309327/document)
+- [Declarative Frameworks and Optimization Techniques for Developing Scalable Advanced Analytics over Databases and Data Streams (2019)](https://escholarship.org/content/qt9qb0c0zx/qt9qb0c0zx.pdf)

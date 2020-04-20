@@ -172,3 +172,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: What's an unsolved problem in your field? (2020)](https://news.ycombinator.com/item?id=22899131)
 - [Tech Links](https://gist.github.com/cellularmitosis/1f55f9679f064bcff02905acb44ca510)
 - [Ask HN: Why is Bluetooth so unreliable? (2020)](https://news.ycombinator.com/item?id=22904442)
+- [Deriving Compositional Random Generators (2020)](http://www.cse.chalmers.se/~mista/assets/pdf/ifl19.pdf)
+- [Program Sketching with Live Bidirectional Evaluation (2020)](https://arxiv.org/pdf/1911.00583.pdf)
+- [Dissecting Widening: Separating Termination from Information](https://jorgenavas.github.io/papers/isolated-widening-APLAS19.pdf)

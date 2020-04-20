@@ -8,3 +8,4 @@
 - [MIT Introduction to Numerical Methods course](https://github.com/mitmath/18335)
 - [Introduction to numerical analysis course](https://github.com/mitmath/18330)
 - [What topics in real analysis are most important to review before a Statistics PhD? (2020)](https://www.reddit.com/r/statistics/comments/flmo8z/e_what_topics_in_real_analysis_are_most_important/)
+- [Mark Schmidt of UBC, giving an animated guest lecture on fast optimization algorithms for deep learning (2020)](https://www.youtube.com/watch?v=nk4M-kYvaNU)

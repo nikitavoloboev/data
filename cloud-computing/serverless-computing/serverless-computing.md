@@ -38,3 +38,4 @@
 - [Is Google Cloud Run really Knative? (2020)](https://ahmet.im/blog/cloud-run-is-a-knative/)
 - [Serverless Jetpack](https://github.com/FormidableLabs/serverless-jetpack) - Faster JavaScript packager for Serverless applications. ([Article](https://formidable.com/blog/2020/jetpack-trace-your-way-to-faster-and-smaller-serverless-packages/))
 - [Living On The Edge: Lazy Static Sites With Modern CDNs And Lambda (2020)](https://formidable.com/blog/2019/modern-cdns-lambda/)
+- [λ-NIC: Interactive Serverless Compute on Programmable SmartNICs (2019)](https://arxiv.org/pdf/1909.11958.pdf)

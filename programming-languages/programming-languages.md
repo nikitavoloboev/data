@@ -65,3 +65,8 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [What language to learn during quarantine? (2020)](https://lobste.rs/s/z6n6pd/what_language_learn_during_quarantine)
 - [Language designers, use `ident: Type`, not `Type ident` (2017)](https://soc.me/languages/type-annotations) ([Lobsters](https://lobste.rs/s/5gqmcj/language_designers_use_ident_type_not))
 - [Row Polymorphism without the Jargon (2020)](https://jadon.io/blog/row-polymorphism) ([Lobsters](https://lobste.rs/s/obftqz/row_polymorphism_without_jargon))
+- [Zero-cost Effect Handlers by Staging (Technical Report) (2019)](http://ps.informatik.uni-tuebingen.de/publications/schuster19zero.pdf)
+- [A generic imperative language for polynomial time (2020)](https://arxiv.org/pdf/1911.04026.pdf)
+- [Designing flexible, modular linguistic abstractions (2019)](http://www.cs.cornell.edu/andru/papers/yizhou-dissertation.pdf)
+- [An abstract domain for objects in dynamic programming languages (2019)](https://staticanalysis.org/nsad2019/papers/NSAD2019_paper_2_WM.pdf)
+- [A Simple Differentiable Programming Language (2020)](https://arxiv.org/pdf/1911.04523.pdf)

@@ -45,3 +45,5 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist#readme) - Curated checklist of tips to protect your dgital security and privacy.
 - [The Case for Privacy Optimism (2020)](https://benmgarfinkel.wordpress.com/2020/03/09/privacy-optimism-2/)
 - [Energized Protection - block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether.
+- [Programming Framework for Differential Privacy with Accuracy Concentration Bounds (2019)](https://arxiv.org/pdf/1909.07918.pdf)
+- [Honeycrisp: Large-scale Differentially Private Aggregation Without a Trusted Core](https://www.cis.upenn.edu/~ahae/papers/honeycrisp-tr.pdf)

@@ -17,3 +17,4 @@
 - [Data Abstraction and Relational Program Logic (2020)](https://arxiv.org/pdf/1910.14560.pdf)
 - [Reinventing Formal Logic (2012)](https://oxij.org/note/ReinventingFormalLogic/)
 - [Univalence as a Principle of Logic (2016)](https://www.andrew.cmu.edu/user/awodey/preprints/uapl.pdf)
+- [POTL: A First-Order Complete Temporal Logic for Operator Precedence Languages (2019)](https://arxiv.org/pdf/1910.09327.pdf)

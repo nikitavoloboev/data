@@ -82,3 +82,4 @@
 - [GraphQL Inspector](https://github.com/kamilkisiela/graphql-inspector) - Outputs a list of changes between two GraphQL schemas.
 - [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) - TypeScript Language Service Plugin for GraphQL developers.
 - [HN: SQL is a better API language than GraphQL – Convince me otherwise (2020)](https://news.ycombinator.com/item?id=22892946)
+- [A Mechanized Formalization of GraphQL (2020)](https://hal.archives-ouvertes.fr/hal-02422532/document)

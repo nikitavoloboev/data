@@ -25,6 +25,10 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Exciting papers to read in the field of Computer Science (2020)](https://www.reddit.com/r/compsci/comments/ffd4xx/what_is_the_most_exciting_paper_you_have_read/)
 - [Get started with computer science papers](https://developer.sh/posts/computer-science-papers)
 
+## Notes
+
+- [Stay up-to-date: Google scholar alerts + custom collation script + some RSS-feed-trawling of arxiv and conferences](https://twitter.com/graydon_pub/status/1252024972911894528)
+
 ## Links
 
 - [Arxiv Vanity](https://www.arxiv-vanity.com/) - Renders academic papers from Arxiv as responsive web pages.
@@ -39,3 +43,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Deep Learning Paper Summaries](https://github.com/vlgiitr/papers_we_read#readme)
 - [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [Git annex repository of academic papers](https://github.com/ocharles/papers)
+- [Scholar Digest](https://github.com/graydon/scholar-digest) - Small script for managing google scholar alert emails.

@@ -36,7 +36,7 @@
 - [MLIR: Multi-Level Intermediate Representation for Compiler Infrastructure - Tatiana Shpeisman, Chris Lattner (2019)](https://www.youtube.com/watch?v=qzljG6DKgic)
 - [How an Optimizing Compiler Works (2019)](http://www.lihaoyi.com/post/HowanOptimizingCompilerWorks.html)
 - [Dive into Deep Learning Compiler](http://tvm.d2l.ai.s3-website-us-west-2.amazonaws.com/)
-- [A Survey of Compiler Testing (2019)](http://software-lab.org/publications/csur2019_compiler_testing.pdf)
+- [A Survey of Compiler Testing (2019)](https://software-lab.org/publications/csur2019_compiler_testing.pdf)
 - [Functional Language Research Compiler (FLRC)](https://github.com/IntelLabs/flrc) - Designed to be a general compiler framework for functional languages.
 - [Compiling pattern matching (2013)](http://l-lang.org/blog/Compiling-pattern-matching/)
 - [dino](https://github.com/sunjay/dino) - Compiler / PL Experimentation in Rust.
@@ -79,3 +79,5 @@
 - [ugdb](https://github.com/ftilde/ugdb) - Alternative TUI for gdb.
 - [Writing a Compiler in Rust (2019)](https://thume.ca/2019/04/18/writing-a-compiler-in-rust/)
 - [Trybuild](https://github.com/dtolnay/trybuild) - Test harness for ui tests of compiler diagnostics.
+- [Secure Delivery of Program Properties through Optimizing Compilation (2020)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/c87ad8b4e32f3cf2d5ff7f4890ff620f560ab84b.pdf)
+- [Carpentry Compiler](https://homes.cs.washington.edu/~adriana/website/CarpentryCompiler.pdf)

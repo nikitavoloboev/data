@@ -28,3 +28,4 @@
 - [Poleiro](http://poleiro.info/) - Blog about Coq. ([Code](https://github.com/arthuraa/poleiro))
 - [Coq'Art](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book.
 - [Awesome Coq](https://github.com/coq-community/awesome-coq#readme)
+- [Interaction Trees - Representing Recursive and Impure Programs in Coq (2020)](https://poisson.chat/popl20/itrees.pdf)

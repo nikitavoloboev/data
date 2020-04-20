@@ -29,3 +29,4 @@
 - [Brutal [Meta]Introduction to Dependent Types in Agda (2013)](https://oxij.org/note/BrutalDepTypes/)
 - [Verified Functional Programming in Agda (2016)](https://pdfs.semanticscholar.org/a5c2/444d3c977260dbbfc7c2eceea9bda2614e71.pdf) ([HN](https://news.ycombinator.com/item?id=22783645))
 - [Brutal [Meta]Introduction to Dependent Types in Agda (2013)](https://oxij.org/note/BrutalDepTypes/)
+- [System F in Agda, for fun and profit (2019)](http://jmchapman.io/papers/funandprofit.pdf)

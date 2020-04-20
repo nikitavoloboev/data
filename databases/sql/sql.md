@@ -39,3 +39,4 @@
 - [Domain Logic and SQL (2013)](https://www.martinfowler.com/articles/dblogic.html) ([HN](https://news.ycombinator.com/item?id=22381919))
 - [Database basics: writing a SQL database from scratch in Go (2020)](https://notes.eatonphil.com/database-basics.html) ([HN](https://news.ycombinator.com/item?id=22850817))
 - [sqls](https://github.com/lighttiger2505/sqls) - Implementation of the Language Server Protocol for SQL.
+- [Compiling PL/SQL Away (2019)](https://arxiv.org/pdf/1909.03291.pdf)

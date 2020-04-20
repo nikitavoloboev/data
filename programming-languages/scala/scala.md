@@ -35,3 +35,5 @@
 - [The Death of Hype: What's Next for Scala (2020)](http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html) ([Lobsters](https://lobste.rs/s/5m7mtd/death_hype_what_s_next_for_scala)) ([HN](https://news.ycombinator.com/item?id=22830779))
 - [Seed](https://github.com/tindzk/seed) - Build tool for Scala projects.
 - [Hands-on Scala Programming](https://www.handsonscala.com/) ([HN](https://news.ycombinator.com/item?id=22914610))
+- [Formalizing scala with dependent object types (2019)](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15322/Rapoport_Marianna.pdf?sequence=7&isAllowed=y)
+- [Effekt (2019)](http://ps.informatik.uni-tuebingen.de/publications/brachthaeuser19effekt.pdf) - Type and Effect-Safe, Extensible Effect Handlers in Scala.

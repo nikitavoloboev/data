@@ -37,3 +37,5 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans#r
 - [View from the Top: Craig Federighi (2019)](https://www.youtube.com/watch?v=43sjym5ZS68)
 - [Remembering Don Valentine](https://www.sequoiacap.com/article/remembering-don-valentine/) ([HN](https://news.ycombinator.com/item?id=21359239))
 - [HN: John Conway has died (2020)](https://news.ycombinator.com/item?id=22843306)
+- [The Computer Scientist Who Can’t Stop Telling Stories (2020)](https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/)
+- [The Devastating Decline of a Brilliant Young Coder (2020)](https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/) ([HN](https://news.ycombinator.com/item?id=22878136))

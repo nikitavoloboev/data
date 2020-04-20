@@ -68,6 +68,8 @@
 - [The general value of typed functional programming lies in leaving no edge cases](https://np.reddit.com/r/scala/comments/en89or/when_should_i_use_cats_scalaz_instead_of_standard/fdxer1k/) ([HN](https://news.ycombinator.com/item?id=22403625))
 - [Developing Statically Typed Programming Language (2017)](https://blog.mgechev.com/2017/08/05/typed-lambda-calculus-create-type-checker-transpiler-compiler-javascript/) ([HN](https://news.ycombinator.com/item?id=21738891))
 - [Runners in action (2019)](http://math.andrej.com/2019/10/28/runners-in-action/)
+- [Seminaïve Evaluation for a Higher-Order Functional Language](https://www.cl.cam.ac.uk/~nk480/seminaive-datafun.pdf)
+- [Counting Immutable Beans (2020)](https://arxiv.org/pdf/1908.05647.pdf) - Reference Counting Optimized for Purely Functional Programming.
 
 ## Images
 

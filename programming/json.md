@@ -12,3 +12,4 @@
 - [How (not) to sign a JSON object (2019)](https://latacora.micro.blog/2019/07/24/how-not-to.html)
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
 - [pdiffjson](https://github.com/jlevy/pdiffjson) - Diff JSON the easy way.
+- [Type Safety with JSON Subschema (2019)](https://arxiv.org/pdf/1911.12651.pdf)

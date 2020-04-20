@@ -398,6 +398,7 @@
 - [Confita](https://github.com/heetch/confita) - Library that loads configuration from multiple backends and stores it in a struct.
 - [tally](https://github.com/uber-go/tally) - Fast, buffered, hierarchical stats collection in Go.
 - [JSON-Patch](https://github.com/evanphx/json-patch) - Go library to apply RFC6902 patches and create and apply RFC7386 patches.
+- [go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library.
 
 ## Links
 

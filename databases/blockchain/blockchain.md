@@ -60,3 +60,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Gossamer](https://github.com/ChainSafe/gossamer) - Go implementation of the Polkadot Host.
 - [Mechanism Design with Blockchain Enforcement (2020)](https://www.carf.e.u-tokyo.ac.jp/admin/wp-content/uploads/2020/03/F474.pdf)
 - [Ask HN: Are there any substantial examples of blockchain solving a real problem? (2020)](https://news.ycombinator.com/item?id=22914430)
+- [Deconstructing Stellar Consensus (Extended Version) (2019)](https://arxiv.org/pdf/1911.05145.pdf)
