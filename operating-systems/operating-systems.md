@@ -82,3 +82,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Mbox](https://pdos.csail.mit.edu/archive/mbox/) - Lightweight sandboxing mechanism that any user can use without special privileges in commodity operating systems. ([Code](https://github.com/tsgates/mbox))
 - [Awesome Plan9](https://github.com/henesy/awesome-plan9#readme)
 - [Albatross](https://github.com/hannesm/albatross) - Orchestrate and manage MirageOS unikernels with Solo5.
+- [Labs for RustOS](https://tc.gts3.org/cs3210/2020/spring/lab.html)
