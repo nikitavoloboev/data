@@ -129,3 +129,4 @@
 - [Do We Actually Need Specificity In CSS? (2015)](https://philipwalton.com/articles/do-we-actually-need-specificity-in-css/) ([HN](https://news.ycombinator.com/item?id=22897510))
 - [The Simplicity of Specificity (2015)](https://codepen.io/davidkpiano/post/the-simplicity-of-specificity)
 - [Concentric-CSS](https://github.com/brandon-rhodes/Concentric-CSS) - Standard order for CSS properties that starts at the outer edge of the box model and moves inward.
+- [Pattern.css](https://bansal.io/pattern-css) - CSS only library to fill your empty background with beautiful patterns. ([Code](https://github.com/bansal-io/pattern.css)) ([HN](https://news.ycombinator.com/item?id=22933697))

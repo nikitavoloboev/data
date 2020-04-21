@@ -9,3 +9,4 @@
 - [apollo-cache-persist](https://github.com/apollographql/apollo-cache-persist) - Simple persistence for all Apollo Cache implementations.
 - [Hermes](https://github.com/convoyinc/apollo-cache-hermes) - Cache For Apollo Client.
 - [Apollo Client 3 State Management Examples](https://github.com/apollographql/ac3-state-management-examples)
+- [workers-graphql-server](https://github.com/signalnerve/workers-graphql-server) - Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers.
