@@ -126,9 +126,17 @@
 
 - [linfa](https://github.com/LukeMathWalker/linfa) - Rust machine learning framework.
 
-## Other
+## Macros
 
 - [cfg-if](https://github.com/alexcrichton/cfg-if) - If/elif-like macro for Rust #[cfg] statements.
+- [Rust Embed](https://github.com/pyros2097/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
+- [Builder Pattern Derive](https://github.com/colin-kiegel/rust-derive-builder) - Rust macro to automatically implement the builder pattern for arbitrary structs.
+- [rabbithole-rs](https://github.com/UkonnRa/rabbithole-rs) - Nearly well-typed, user-friendly JSON:API type system, with an easy-to-use Macro System to help you modelling the your data.
+- [once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros.
+- [lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - Macro for declaring lazily evaluated statics in Rust.
+
+## Other
+
 - [clap-rs](https://github.com/kbknapp/clap-rs) - Full featured, fast Command Line Argument Parser.
 - [serde](https://github.com/serde-rs/serde) - Serialization framework for Rust.
 - [pyo3](https://github.com/PyO3/pyo3)
@@ -191,7 +199,6 @@
 - [panic-never](https://github.com/japaric/panic-never) - This crate guarantees that your application is free of panicking branches.
 - [graphql_client](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses in Rust.
 - [daemonize](https://github.com/knsd/daemonize) - Library for writing system daemons.
-- [Rust Embed](https://github.com/pyros2097/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [cc-rs](https://github.com/alexcrichton/cc-rs) - Rust library for build scripts to compile C/C++ code into a Rust library.
 - [nannou](https://github.com/nannou-org/nannou) - Creative Coding Framework for Rust.
 - [Bastion](https://github.com/vertexclique/bastion) - Fault-tolerant Runtime for Rust applications.
@@ -222,7 +229,6 @@
 - [Dataloader](https://github.com/cksac/dataloader-rs) - Rust implementation of Facebook's DataLoader using futures.
 - [Specs](https://github.com/amethyst/specs) - Entity-Component System written in Rust.
 - [euclid](https://github.com/servo/euclid) - Small library for geometric types with a focus on 2d graphics and layout.
-- [rabbithole-rs](https://github.com/UkonnRa/rabbithole-rs) - Nearly well-typed, user-friendly JSON:API type system, with an easy-to-use Macro System to help you modelling the your data.
 - [Notify](https://github.com/notify-rs/notify) - Cross-platform filesystem notification library for Rust.
 - [color-backtrace](https://github.com/athre0z/color-backtrace) - Colorful panic backtraces for Rust.
 - [r2d2](https://github.com/sfackler/r2d2) - Generic connection pool for Rust.
@@ -302,11 +308,9 @@
 - [plotlib](https://github.com/milliams/plotlib) - Data plotting library for Rust.
 - [Parze](https://github.com/zesterer/parze) - Clean, efficient parser combinator.
 - [Flume](https://github.com/zesterer/flume) - Blazingly fast multi-producer, single-consumer channel.
-- [Builder Pattern Derive](https://github.com/colin-kiegel/rust-derive-builder) - Rust macro to automatically implement the builder pattern for arbitrary structs.
 - [juniper-from-schema](https://github.com/davidpdrsn/juniper-from-schema) - Schema first GraphQL in Rust with Juniper.
 - [stringsext](https://github.com/getreu/stringsext) - Find multi-byte-encoded strings in binary data.
 - [byteorder](https://github.com/BurntSushi/byteorder) - Rust library for reading/writing numbers in big-endian and little-endian.
-- [once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros.
 - [genawaiter](https://github.com/whatisaphone/genawaiter) - Stackless generators on stable Rust.
 - [libpnet](https://github.com/libpnet/libpnet) - Cross-platform, low level networking using the Rust programming language.
 - [num](https://github.com/rust-num/num) - Collection of numeric types and traits for Rust.
@@ -318,7 +322,6 @@
 - [async-task](https://github.com/async-rs/async-task) - Task abstraction for building executors. ([Article](https://stjepang.github.io/2020/04/03/why-im-building-a-new-async-runtime.html))
 - [lz4 bindings](https://github.com/bozaro/lz4-rs) - LZ4 is a very fast lossless compression algorithm.
 - [SM](https://github.com/rustic-games/sm) - Static State Machine library.
-- [lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - Macro for declaring lazily evaluated statics in Rust.
 - [parity-common](https://github.com/paritytech/parity-common) - Collection of crates used in Parity projects.
 - [desert](https://github.com/substack/desert) - Traits for {de,}serializing compact binary formats.
 - [etcd](https://github.com/jimmycuadra/rust-etcd) - Etcd client library for Rust.

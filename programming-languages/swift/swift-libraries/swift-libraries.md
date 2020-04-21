@@ -104,7 +104,6 @@
 
 ## Other
 
-- [Vaux](https://github.com/dokun1/Vaux) - HTML DSL library for Swift.
 - [Runtime](https://github.com/wickwirew/Runtime) - Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.
 - [MerchantKit](https://github.com/benjaminmayo/merchantkit) - Modern In-App Purchases management framework for iOS.
 - [Swift tagged](https://github.com/pointfreeco/swift-tagged) - Library for safer types.
@@ -273,6 +272,7 @@
 - [swift-base64-kit](https://github.com/fabianfett/swift-base64-kit) - Base64 encode and decode without the use of Foundation in pure Swift.
 - [Proton](https://github.com/rajdeep/proton) - Purely native and extensible rich text editor for iOS and macOS Catalyst apps.
 - [SkiaKit](https://github.com/migueldeicaza/SkiaKit) - Swift Bindings to the Skia 2D graphics Library.
+- [Vaux](https://github.com/dokun1/Vaux) - HTML DSL library for Swift.
 
 ## Other (not lib)
 
