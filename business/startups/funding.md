@@ -18,6 +18,7 @@
 - [Rakhim D.](https://www.patreon.com/rakhim)
 - [Kitze](https://github.com/sponsors/kitze)
 - [Tatiana Mac](https://github.com/sponsors/tatianamac)
+- [Benedek Rozemberczki](https://github.com/sponsors/benedekrozemberczki)
 
 ## Thanks pages
 
