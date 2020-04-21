@@ -29,3 +29,4 @@
 - [Clang](http://clang.llvm.org/) - C language family frontend for LLVM. ([Docs](http://clang.llvm.org/docs/index.html))
 - [Alive2](https://github.com/AliveToolkit/alive2) - Automatic verification of LLVM optimizations.
 - [Micro C, Part 3: Generating LLVM (2020)](https://blog.josephmorag.com/posts/mcc3/)
+- [jitmap](https://github.com/fsaintjacques/jitmap) - Small library providing an execution engine for logical binary expressions on bitmaps.

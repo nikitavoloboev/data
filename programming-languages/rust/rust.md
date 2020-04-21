@@ -190,3 +190,4 @@
 - [Debugging Rust in VSCode (2020)](https://jason-williams.co.uk/debugging-rust-in-vscode)
 - [Building a JS Interpreter in Rust (2018)](https://jason-williams.co.uk/building-a-js-interpreter-in-rust-part-1)
 - [HN: Rust Survey 2019 Results](https://news.ycombinator.com/item?id=22903375)
+- [Rust language design team notes](https://github.com/rust-lang/lang-team)

@@ -175,3 +175,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Deriving Compositional Random Generators (2020)](http://www.cse.chalmers.se/~mista/assets/pdf/ifl19.pdf)
 - [Program Sketching with Live Bidirectional Evaluation (2020)](https://arxiv.org/pdf/1911.00583.pdf)
 - [Dissecting Widening: Separating Termination from Information](https://jorgenavas.github.io/papers/isolated-widening-APLAS19.pdf)
+- [DuckDuckGo Instant Answers](https://github.com/duckduckgo/zeroclickinfo-fathead)
