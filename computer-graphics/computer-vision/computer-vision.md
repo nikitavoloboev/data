@@ -45,3 +45,4 @@
 - [Interview with Dmytro Mushkin | Computer Vision Research | Kaggle, ML & Education (2020)](https://www.youtube.com/watch?v=lWwkbiufwNE)
 - [Pytorch code for ICLR-20 Paper "Learning to Explore using Active Neural SLAM"](https://github.com/devendrachaplot/Neural-SLAM)
 - [FaceTracker](https://github.com/kylemcdonald/FaceTracker) - Real time deformable face tracking in C++ with OpenCV 3.
+- [Awesome Super Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution#readme)

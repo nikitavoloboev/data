@@ -230,6 +230,7 @@
 - [jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff & patch JavaScript objects.
 - [RVal](https://github.com/mweststrate/rval) - Minimalistic transparent reactive programming library.
 - [orbit-controls](https://github.com/Jam3/orbit-controls) - Generic controls for orbiting a target in 3D.
+- [estree-walker](https://github.com/Rich-Harris/estree-walker) - Traverse an ESTree-compliant AST.
 
 ## Links
 

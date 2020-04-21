@@ -288,3 +288,4 @@
 - [freshOS](https://freshos.github.io/) - 100% Open Source iOS Toolset.
 - [swift-outdated](https://github.com/kiliankoe/swift-outdated) - Swift subcommand for displaying when Swift dependencies are out of date.
 - [DocTest](https://github.com/SwiftDocOrg/DocTest) - Experimental tool for testing Swift example code in documentation.
+- [swift-docker](https://github.com/iainsmith/swift-docker) - Build & test your swift packages using docker - `swift docker test`.

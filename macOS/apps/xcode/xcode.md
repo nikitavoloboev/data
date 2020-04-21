@@ -41,3 +41,4 @@
 - [Mastering the assistant editor in Xcode 11 (2020)](https://www.avanderlee.com/xcode/xcode-assistant-editor/)
 - [Transmog](https://github.com/inket/Transmog) - Command-line tool for converting VSCode themes into Xcode themes.
 - [SwiftLee's Xcode posts](https://www.avanderlee.com/category/xcode/)
+- [xcode-ast-dump](https://github.com/keith/xcode-ast-dump) - Simple script for dumping the Swift AST from within Xcode.
