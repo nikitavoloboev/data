@@ -78,3 +78,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [The Shape of Design](https://shapeofdesignbook.com/)
 - [Blush](https://www.blush.design/) - Illustrations for everyone.
 - [Design Reading (2020)](http://mrmrs.cc/writing/design-reading/)
+- [Becoming a Creator](https://galshir.com/viewinsights) - Learn the most important lessons from my journey growing 700k+ followers on Instagram.
