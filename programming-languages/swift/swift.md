@@ -96,3 +96,4 @@
 - [SwiftSyntaxHighlighter](https://github.com/NSHipster/SwiftSyntaxHighlighter) - Syntax highlighter for Swift code that uses SwiftSyntax to generate Pygments-compatible HTML.
 - [Awesome Embedded Swift](https://github.com/Cosmo/awesome-embedded-swift#readme)
 - [Swift Talk](https://talk.objc.io/) - Weekly video series on Swift programming. ([Code](https://github.com/objcio/swift-talk-backend))
+- [Swift Interview Tips (2020)](https://www.youtube.com/playlist?list=PL8seg1JPkqgF5wazzCKSq3EEfqt3t8mvA)

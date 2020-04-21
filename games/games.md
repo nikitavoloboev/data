@@ -13,6 +13,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Hordes](https://hordes.io/) - Free to play 3D Multiplayer Browsergame in Open Beta.
 - [Skynet Simulator](http://skynetsimulator.com) ([HN](https://news.ycombinator.com/item?id=22685011))
 - [Codenames](https://www.horsepaste.com/) - Play codenames using a TV or computer for the board. ([Code](https://github.com/jbowens/codenames))
+- [friendsand.games](https://friendsand.games/) - Handselected free online games to play during calls with your friends and family. ([Code](https://github.com/davidfurlong/friendsandgames))
 
 ## Awesome OSS games
 

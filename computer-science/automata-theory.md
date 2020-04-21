@@ -17,3 +17,4 @@
 - [Inventing Game of Life (John Conway)](https://www.youtube.com/watch?v=R9Plq-D1gEk)
 - [Rule 30 and Game of Life](https://github.com/elliotwaite/rule-30-and-game-of-life)
 - [Pebble-Intervals Automata and FO2 with Two Orders∗ (Extended Version) (2019)](https://arxiv.org/pdf/1912.00171.pdf)
+- [Life](https://github.com/zntfdr/Life) - Swift implementation of Conway's Game of Life.
