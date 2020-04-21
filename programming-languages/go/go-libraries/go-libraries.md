@@ -399,6 +399,7 @@
 - [tally](https://github.com/uber-go/tally) - Fast, buffered, hierarchical stats collection in Go.
 - [JSON-Patch](https://github.com/evanphx/json-patch) - Go library to apply RFC6902 patches and create and apply RFC7386 patches.
 - [go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library.
+- [xattr](https://github.com/pkg/xattr) - Extended attribute support for Go (linux + darwin + freebsd).
 
 ## Links
 

@@ -26,6 +26,7 @@
 - [Ola](https://github.com/franciscop/ola) - Smooth animation library for interpolating numbers.
 - [react-spring](https://github.com/react-spring/react-spring) - Spring physics based React animation library.
 - [FAT](https://github.com/nextapps-de/fat) - Web's fastest and most lightweight animation tool.
+- [React Easy Flip](https://github.com/jlkiri/react-easy-flip) - Lightweight React library for smooth FLIP animations.
 
 ## CLI
 

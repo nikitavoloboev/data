@@ -81,3 +81,4 @@
 - [Trybuild](https://github.com/dtolnay/trybuild) - Test harness for ui tests of compiler diagnostics.
 - [Secure Delivery of Program Properties through Optimizing Compilation (2020)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/c87ad8b4e32f3cf2d5ff7f4890ff620f560ab84b.pdf)
 - [Carpentry Compiler](https://homes.cs.washington.edu/~adriana/website/CarpentryCompiler.pdf)
+- [Icecream](https://github.com/icecc/icecream) - Distributed compiler with a central scheduler to share build load.

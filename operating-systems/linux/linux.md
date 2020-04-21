@@ -97,3 +97,4 @@
 - [Firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox.
 - [rust.ko](https://github.com/tsgates/rust.ko) - Minimal Linux kernel module written in rust.
 - [What's your distro, and how did you pick it? (2020)](https://lobste.rs/s/bu3ynt/what_s_your_distro_how_did_you_pick_it)
+- [Intermediate Linux command line tutorial (2017)](https://www.jayconrod.com/posts/103/intermediate-linux-command-line-tutorial)

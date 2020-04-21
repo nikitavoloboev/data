@@ -27,6 +27,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [TracePrivately](https://github.com/CrunchyBagel/TracePrivately) - Sample app using Apple's contact tracing framework.
 - [DP3T](https://github.com/DP-3T/dp3t-app-ios) - Decentralised Privacy-Preserving Proximity Tracing (DP-3T) project.
 - [Historian](https://github.com/finestructure/Historian) - History viewer and transmitter for Composable Architecture apps.
+- [Animal Crossing New Horizon items catalogue in SwiftUI](https://github.com/Dimillian/ACHNBrowserUI)
 
 ## Notes
 
