@@ -12,3 +12,4 @@
 - [Machine learning & Robotics: My (biased) 2019 state of the field](http://cachestocaches.com/2019/12/my-state-of-the-field/)
 - [MiniNet: An Efficient Semantic Segmentation ConvNet for Real-time Robotic Applications](https://github.com/Shathe/MiniNet-v2)
 - [Projects from edX | CSMM.103x Robotics](https://github.com/eborghi10/ColumbiaX-Robotics)
+- [Mithi's Hexapod Robot Simulator](https://github.com/mithi/hexapod-robot-simulator)
