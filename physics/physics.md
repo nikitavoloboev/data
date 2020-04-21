@@ -68,3 +68,6 @@
 - [The Meaning of Einstein's Equation](http://math.ucr.edu/home/baez/einstein/)
 - [John Baez’s research/blog](http://math.ucr.edu/home/baez/)
 - [Why is light slower in glass? - Sixty Symbols (2013)](https://www.youtube.com/watch?v=CiHN0ZWE5bk)
+- [Quantum Fields: The Real Building Blocks of the Universe - David Tong (2017)](https://www.youtube.com/watch?v=zNVQfWC_evg)
+- [David Tong's research papers](https://arxiv.org/a/tong_d_1.html)
+- [Are quantum fields in any way similar to classical fields? (2020)](https://www.reddit.com/r/askscience/comments/fo4igl/are_quantum_fields_in_any_way_similar_to/)
