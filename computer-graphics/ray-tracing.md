@@ -4,6 +4,7 @@
 
 - [Ray Tracing in One Weekend: The Book Series](https://raytracing.github.io/) ([OSS](https://github.com/raytracing/raytracing.github.io/))
 - [Ray Tracing in One Weekend implemented in Golang, chapter-by-chapter](https://github.com/hunterloftis/oneweekend)
+- [Ray Tracing in One Weekend implemented in C++, chapter-by-chapter](https://github.com/utilForever/ray-tracing-in-one-weekend-cpp)
 - [Understandable Ray Tracing in 256 lines of bare C++ course (2019)](https://github.com/ssloy/tinyraytracer)
 - [C++17 constexpr Compile-time Ray Tracer](https://github.com/tcbrindle/raytracer.hpp)
 - [Nori](https://github.com/wjakob/nori) - Educational ray tracer.

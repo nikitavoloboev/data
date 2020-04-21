@@ -52,3 +52,4 @@
 - [The Ideal Game Network Protocol (2020)](https://paytonturnage.com/writing/ideal-game-network-protocol/)
 - [Why Satisfactory Is So Addictive](https://www.youtube.com/watch?v=PV_wlU4drnM)
 - [How to build an outrun-style racing game in JS](https://github.com/jakesgordon/javascript-racer)
+- [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap#readme)
