@@ -25,3 +25,5 @@
 - [Implementing a Key-Value Store series](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 - [Open Data Structures](http://opendatastructures.org/) - Provide a high-quality open content data structures textbook that is both mathematically rigorous and provides complete implementations. ([Code](https://github.com/patmorin/ods))
 - [A new analysis of the false positive rate of a Bloom filter (2009)](https://www.csee.usf.edu/~kchriste/energy/ipl10.pdf)
+- [Ideal Hash Trees](https://lampwww.epfl.ch/papers/idealhashtrees.pdf)
+- [RRB-Trees: Efficient Immutable Vectors](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=0265C1992F573129BCC7D4AF7734DBF7?doi=10.1.1.592.5377&rep=rep1&type=pdf)

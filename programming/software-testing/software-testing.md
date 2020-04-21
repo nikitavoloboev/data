@@ -26,3 +26,4 @@
 - [Systematically Covering Input Structure](https://havrikov.github.io/publications/ase19-preprint.pdf)
 - [Compositional Testing of Internet Protocols](http://mcmil.net/pubs/SECDEV19.pdf)
 - [Testing sync at Dropbox (2020)](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
+- [How NASA does software testing and QA (2020)](https://www.functionize.com/blog/how-nasa-does-software-testing-and-qa/)

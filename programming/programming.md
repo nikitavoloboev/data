@@ -147,3 +147,4 @@
 - [Learn With Jason](https://www.learnwithjason.dev/) - Live show streamed where Jason pair programs for 90 min to learn something new.
 - [How to Design Programs](https://htdp.org/) - Introduction to programming and computing.
 - [JetBrains Academy](https://www.jetbrains.com/academy/) - Learn to Program by Creating Working Applications.
+- [Engineering code quality in the Firefox browser: A look at our tools and challenges (2020)](https://hacks.mozilla.org/2020/04/code-quality-tools-at-mozilla/) ([HN](https://news.ycombinator.com/item?id=22938790))
