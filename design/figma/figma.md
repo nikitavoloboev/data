@@ -19,3 +19,4 @@
 - [Figmalion](https://figmalion.com/) - Curated newsletter collecting interesting links about Figma.
 - [Cabana](https://cabanaforfigma.com/) - Design Starter Kit for Figma.
 - [Organizing and creating libraries](https://www.figma.com/best-practices/components-styles-and-shared-libraries/organizing-and-creating-libraries/)
+- [How Spotify organises work in Figma to improve collaboration (2020)](https://spotify.design/articles/2020-04-20/how-spotify-works-in-figma/)

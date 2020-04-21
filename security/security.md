@@ -56,3 +56,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as some cryptographic flaws.
 - [AFL++](https://github.com/AFLplusplus/AFLplusplus) - Fuzzing framework.
 - [Awake Security](https://awakesecurity.com/) - Advanced Network Traffic Analysis Solution.
+- [A Defender’s Guide For Rootkit Detection: Episode 1 – Kernel Drivers (2020)](https://labs.jumpsec.com/2020/04/20/a-defenders-guide-for-rootkit-detection-episode-1-kernel-drivers/?preview=true)

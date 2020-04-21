@@ -230,6 +230,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [rrweb](https://github.com/rrweb-io/rrweb) - Tool for recording and replaying users' interactions on the web.
 - [Solidarity](https://github.com/infinitered/solidarity) - Environment checker for project dependencies across multiple machines.
 - [GDBFrontend](https://github.com/rohanrhu/gdb-frontend) - Easy, flexible and extensionable GUI debugger.
+- [3Box](https://3box.io/) - Makes it simple to store data securely with your users, letting you focus on building great products.
 - [destiny](https://github.com/benawad/destiny) - Prettier for File Structures.
 - [Monitoror](https://monitoror.com/) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything. ([Code](https://github.com/monitoror/monitoror))
 - [Cmdstalk](https://github.com/99designs/cmdstalk) - Unix-process-based beanstalkd queue broker.
