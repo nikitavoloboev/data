@@ -136,3 +136,5 @@
 - [Princeton Companion to Mathematics book (2007)](https://www.goodreads.com/book/show/1471873.The_Princeton_Companion_to_Mathematics)
 - [Roger Penrose - Is Mathematics Invented or Discovered? (2020)](https://www.youtube.com/watch?v=ujvS2K06dg4) ([HN](https://news.ycombinator.com/item?id=22896671))
 - [What was the math that blew your mind the most, at any point in your physics career? (2020)](https://www.reddit.com/r/AskPhysics/comments/g4e82o/what_was_the_math_that_blew_your_mind_the_most_at/)
+- [Springer Math Books](https://link.springer.com/search?facet-discipline=%22Mathematics%22&facet-content-type=%22Book%22&facet-language=%22En%22&package=mat-covid19_textbooks)
+- [Advanced Math resources](https://drive.google.com/drive/folders/1c7XYKsq80tTjWIvggoIlCoSdgj2sxtDg)

@@ -193,3 +193,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: How can I restore my concentration when reading? (2020)](https://news.ycombinator.com/item?id=22855070)
 - [Writing a Book with Pandoc, Make, and Vim (2020)](https://keleshev.com/my-book-writing-setup/) ([HN](https://news.ycombinator.com/item?id=22854332))
 - [Library JSON - A Proposal for a Decentralized Goodreads (2020)](https://tomcritchlow.com/2020/04/15/library-json/)
+- [Springer Link](https://link.springer.com/) - Over 10 million scientific documents at your fingertips.
