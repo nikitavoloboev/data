@@ -81,3 +81,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Solo5](https://github.com/Solo5/solo5) - Sandboxed execution environment for unikernels.
 - [Mbox](https://pdos.csail.mit.edu/archive/mbox/) - Lightweight sandboxing mechanism that any user can use without special privileges in commodity operating systems. ([Code](https://github.com/tsgates/mbox))
 - [Awesome Plan9](https://github.com/henesy/awesome-plan9#readme)
+- [Albatross](https://github.com/hannesm/albatross) - Orchestrate and manage MirageOS unikernels with Solo5.
