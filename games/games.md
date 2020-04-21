@@ -58,3 +58,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Open Worlds](https://reallifemag.com/open-worlds/) - How we became nostalgic for Minecraft. ([HN](https://news.ycombinator.com/item?id=21499767))
 - [What are some good travel-focused video games? (2020)](https://www.reddit.com/r/solotravel/comments/g36at5/what_are_some_good_travelfocused_video_games/)
 - [Steam Database](https://steamdb.info/) - Insight into the applications and packages that Steam has in its database.
+- [Running decade-old games in containers (2020)](https://misha.brukman.net/blog/2020/04/running-decade-old-games-in-containers/)
