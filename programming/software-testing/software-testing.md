@@ -25,3 +25,4 @@
 - [Awesome Test Anything](https://github.com/sindresorhus/awesome-tap) - Useful resources for the Test Anything Protocol.
 - [Systematically Covering Input Structure](https://havrikov.github.io/publications/ase19-preprint.pdf)
 - [Compositional Testing of Internet Protocols](http://mcmil.net/pubs/SECDEV19.pdf)
+- [Testing sync at Dropbox (2020)](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)

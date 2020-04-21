@@ -62,6 +62,9 @@
 
 - [Aperture](https://github.com/wulkano/Aperture) - Record the screen on macOS.
 - [AboutThisApp](https://github.com/hexedbits/AboutThisApp) - Standard, customizable "About This App" panel for any Mac app.
+- [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add "Launch at Login" functionality to your macOS app in seconds.
+- [Preferences](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
+- [FileWatcher](https://github.com/eonist/FileWatcher) - Monitoring file system changes in macOS.
 
 ## Web
 
@@ -86,11 +89,9 @@
 - [SwiftUI Settings Screen](https://github.com/rudrankriyam/SwiftUI-Settings-Screen) - Beautiful settings screen created in SwiftUI.
 - [Swift Request](https://github.com/carson-katri/swift-request) - Declarative HTTP networking, designed for SwiftUI.
 
-## macOS
+## Test
 
-- [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add "Launch at Login" functionality to your macOS app in seconds.
-- [Preferences](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
-- [FileWatcher](https://github.com/eonist/FileWatcher) - Monitoring file system changes in macOS.
+- [Muter](https://github.com/muter-mutation-testing/muter) - Automated mutation testing for Swift.
 
 ## API
 
