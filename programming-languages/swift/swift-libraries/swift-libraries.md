@@ -57,6 +57,7 @@
 - [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - Lets you create popups with a blurred background.
 - [Sliders](https://github.com/kieranb662/Sliders) - Collection of unique fully customizable SwiftUI sliders.
 - [Mantis](https://github.com/guoyingtao/Mantis) - Photo cropping tool which mimics Photo.app written by Swift.
+- [SwipeTransition](https://github.com/tattn/SwipeTransition) - Allows trendy transitions using swipe gesture such as "swipe back anywhere".
 
 ## macOS
 

@@ -49,3 +49,4 @@
 - [Comparing HTTP/3 vs. HTTP/2 Performance (2020)](https://blog.cloudflare.com/http-3-vs-http-2/) ([HN](https://news.ycombinator.com/item?id=22864573))
 - [Webhook.site](https://webhook.site/) - Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [AutoCannon](https://github.com/mcollina/autocannon) - Fast HTTP/1.1 benchmarking tool written in Node.js.
+- [Servor](https://github.com/lukejacksonn/servor) - Dependency free file server for single page app development.

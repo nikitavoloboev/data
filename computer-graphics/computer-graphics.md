@@ -55,3 +55,5 @@
 - [Accurate geometric camera calibration](https://github.com/puzzlepaint/camera_calibration)
 - [rs_pbrt](https://github.com/wahn/rs_pbrt) - Rust crate to implement at least parts of the PBRT book's C++ code.
 - [Stippling and Blue Noise (2011)](https://www.joesfer.com/?p=108)
+- [MeshLab](https://github.com/cnr-isti-vclab/meshlab) - Open source, portable, and extensible system for the processing and editing of unstructured large 3D triangular meshes.
+- [Visual Computing Lab](http://vcg.isti.cnr.it/)
