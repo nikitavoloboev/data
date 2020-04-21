@@ -231,6 +231,7 @@
 - [RVal](https://github.com/mweststrate/rval) - Minimalistic transparent reactive programming library.
 - [orbit-controls](https://github.com/Jam3/orbit-controls) - Generic controls for orbiting a target in 3D.
 - [estree-walker](https://github.com/Rich-Harris/estree-walker) - Traverse an ESTree-compliant AST.
+- [Jitsi Meet API library](https://github.com/jitsi/lib-jitsi-meet) - Can use Jitsi Meet API to create Jitsi Meet video conferences with a custom GUI.
 
 ## Links
 

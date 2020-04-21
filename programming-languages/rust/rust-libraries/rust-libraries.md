@@ -6,6 +6,7 @@
 - [Abscissa](https://github.com/iqlusioninc/abscissa) - Microframework for building Rust applications (either CLI tools or network/web services).
 - [Argh](https://github.com/google/argh) - Opinionated Derive-based argument parser optimized for code size.
 - [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust.
+- [StructOpt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
 
 ## Web
 
