@@ -97,3 +97,4 @@
 - [Awesome Embedded Swift](https://github.com/Cosmo/awesome-embedded-swift#readme)
 - [Swift Talk](https://talk.objc.io/) - Weekly video series on Swift programming. ([Code](https://github.com/objcio/swift-talk-backend))
 - [Swift Interview Tips (2020)](https://www.youtube.com/playlist?list=PL8seg1JPkqgF5wazzCKSq3EEfqt3t8mvA)
+- [Example project for the "Composable Architecture"](https://github.com/finestructure/PFCompArch)

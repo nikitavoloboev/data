@@ -273,6 +273,7 @@
 - [Proton](https://github.com/rajdeep/proton) - Purely native and extensible rich text editor for iOS and macOS Catalyst apps.
 - [SkiaKit](https://github.com/migueldeicaza/SkiaKit) - Swift Bindings to the Skia 2D graphics Library.
 - [Vaux](https://github.com/dokun1/Vaux) - HTML DSL library for Swift.
+- [Echo](https://github.com/Azoy/Echo) - Complete reflection package for Swift.
 
 ## Other (not lib)
 

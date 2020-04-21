@@ -20,3 +20,4 @@
 - [Glaze](https://github.com/kripod/glaze) - CSS-in-JS framework for building approachable design systems.
 - [Nyan CSS](https://github.com/nyancss/nyancss) - Write plain CSS while reaping benefits of CSS-in-JS.
 - [@stitches](https://github.com/christianalfoni/stitches) - Tiny configurable CSS-IN-JS library.
+- [Performance comparison of css approaches](https://github.com/jantimon/css-framework-performance)

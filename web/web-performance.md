@@ -61,3 +61,4 @@
 - [WebPageTest](https://www.webpagetest.org/) - Test a website's performance. ([Simple test](https://www.webpagetest.org/easy))
 - [Monitor your web page's total memory usage with `performance.measureMemory()`](https://web.dev/monitor-total-page-memory-usage/) ([HN](https://news.ycombinator.com/item?id=22860859))
 - [cliff](https://github.com/jonhoo/cliff) - Find the load at which a benchmark falls over.
+- [Build Size Watcher](https://github.com/codechecks/build-size-watcher) - Keep your build size in check and detect when it gets too big.
