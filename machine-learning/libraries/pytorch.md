@@ -96,3 +96,4 @@
 - [PyTorch implementation of NeRF (Neural Radiance Fields)](https://github.com/yenchenlin/nerf-pytorch)
 - [PyTorch learning rate finder](https://github.com/davidtvs/pytorch-lr-finder)
 - [PyTorch Scatter](https://github.com/rusty1s/pytorch_scatter) - PyTorch Extension Library of Optimized Scatter Operations.
+- [TorchServe](https://github.com/pytorch/serve/) - Flexible and easy to use tool for serving PyTorch models.

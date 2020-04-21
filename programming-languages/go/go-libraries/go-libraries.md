@@ -400,6 +400,7 @@
 - [JSON-Patch](https://github.com/evanphx/json-patch) - Go library to apply RFC6902 patches and create and apply RFC7386 patches.
 - [go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library.
 - [xattr](https://github.com/pkg/xattr) - Extended attribute support for Go (linux + darwin + freebsd).
+- [watcher](https://github.com/radovskyb/watcher) - Go package for watching for files or directory changes without using filesystem events.
 
 ## Links
 

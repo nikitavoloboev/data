@@ -26,6 +26,7 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Baudelaire](https://amandapinsker.com/project/baudelaire) - Modern transitional serif typeface.
 - [Fira Sans](http://mozilla.github.io/Fira/) - Mozilla's new typeface, used in Firefox OS. ([Code](https://github.com/mozilla/Fira))
 - [Sohne](https://klim.co.nz/retail-fonts/soehne/)
+- [Free variable writing fonts from iA](https://github.com/iaolo/iA-Fonts)
 
 ## Links
 
