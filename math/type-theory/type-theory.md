@@ -71,3 +71,4 @@
 - [Label-Dependent Session Types (2019)](https://arxiv.org/pdf/1911.00705.pdf)
 - [Tabled Typeclass Resolution (2020)](https://arxiv.org/pdf/2001.04301.pdf)
 - [A type and effect system for uniqueness and immutability (2018)](https://www.researchgate.net/publication/326164533_A_type_and_effect_system_for_uniqueness_and_immutability)
+- [Inferring Types and Effects via Static Single AssignmentLeonardo](https://dl.acm.org/doi/pdf/10.1145/3341105.3373888)

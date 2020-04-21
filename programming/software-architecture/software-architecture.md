@@ -57,3 +57,4 @@
 - [Building Secure and Reliable Systems (2020)](https://landing.google.com/sre/books/) - Best practices for designing, implementing & maintaining systems. ([HN](https://news.ycombinator.com/item?id=22815453))
 - [Systems that defy detailed understanding (2020)](https://blog.nelhage.com/post/systems-that-defy-understanding/) ([HN](https://news.ycombinator.com/item?id=22833601))
 - [Functional Design Patterns - Scott Wlaschin (2017)](https://www.youtube.com/watch?v=srQt1NAHYC0)
+- [Combining event sourcing and stateful systems (2020)](https://stitcher.io/blog/combining-event-sourcing-and-stateful-systems)

@@ -44,3 +44,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Missive](https://missiveapp.com/) - Team inbox and chat tool that empowers teams to truly collaborate around email.
 - [smtp-cli](https://github.com/mludvig/smtp-cli) - Command line SMTP client.
 - [Lieer](https://github.com/gauteh/lieer) - Fast email-fetching and sending and two-way tag synchronization between notmuch and GMail.
+- [Inbox Zero](https://inboxze.ro/) - How the most productive people manage their inbox.

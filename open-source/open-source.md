@@ -78,3 +78,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Social Architecture - Building On-line Communities](https://hintjens.gitbooks.io/social-architecture/content/)
 - [Personal Goals OSS](https://una.im/personal-goals-guide/)
 - [Spasibo](https://github.com/artemnovichkov/spasibo) - Simple command-line tool to supporting open-source frameworks.
+- [Monetizing open source (2020)](https://twitter.com/zenorocha/status/1252252675522981890)

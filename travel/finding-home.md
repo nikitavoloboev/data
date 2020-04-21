@@ -2,7 +2,7 @@
 
 I use [AirBnb](https://www.airbnb.com) & [Booking](https://www.booking.com) for finding temporary places to stay when traveling.
 
-I use various FB groups / [Marketplace](https://www.facebook.com/marketplace) for finding more permanent places to stay in when traveling. As well as a couple of websites.
+I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.facebook.com/marketplace) for finding/selling places to stay in.
 
 ### UK
 

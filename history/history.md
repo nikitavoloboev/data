@@ -33,3 +33,4 @@
 - [The early days of home computing – in pictures](https://www.theguardian.com/technology/gallery/2020/apr/11/the-early-days-of-home-computing-in-pictures?CMP=Share_iOSApp_Other)
 - [Archive Today](http://archive.vn/) - Time capsule for web pages.
 - [Ask HN: What are some great posts or articles about history of computing? (2020)](https://news.ycombinator.com/item?id=22907211)
+- [What We Can Learn From Software History](https://www.deconstructconf.com/2019/hillel-wayne-what-we-can-learn-from-software-history)

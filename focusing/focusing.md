@@ -44,3 +44,4 @@ I support my [happiness](../life/happiness.md) by working on projects that I car
 - [Prioritizing (2019)](https://css-tricks.com/prioritizing/)
 - [Lobsters: What is procrastination, exactly? (2019)](https://lobste.rs/s/f2sdfz/what_is_procrastination_exactly)
 - [The Power of Shower Thoughts: Trusting Your Mind to Work in the Background (2019)](https://alexanderell.is/posts/trust-in-your-unconscious/) ([HN](https://news.ycombinator.com/item?id=21557902))
+- [Ask HN: How do I overcome mental laziness? (2020)](https://news.ycombinator.com/item?id=22919697)
