@@ -11,3 +11,4 @@
 - [Notion - Telegram Russian Channel](https://t.me/notiongo)
 - [Notion Toolbox](https://github.com/kevinjalbert/notion-toolbox) - Collection of Notion tools that work in tandem together.
 - [reacti-notion](https://github.com/splitbee/react-notion) - Blazing fast React renderer for Notion pages.
+- [The Cascading Productivity System](https://jmulholland.com/cascading-productivity-system/)
