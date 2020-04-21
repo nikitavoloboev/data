@@ -126,6 +126,10 @@
 
 - [linfa](https://github.com/LukeMathWalker/linfa) - Rust machine learning framework.
 
+## macOS
+
+- [mach](https://github.com/fitzgen/mach) - Rust interface to the Mach 3.0 kernel that underlies macOS.
+
 ## Macros
 
 - [cfg-if](https://github.com/alexcrichton/cfg-if) - If/elif-like macro for Rust #[cfg] statements.
@@ -354,6 +358,7 @@
 - [mac-notification-sys](https://github.com/h4llow3En/mac-notification-sys) - Simple wrapper to deliver or schedule macOS Notifications in Rust.
 - [semval](https://github.com/slowtec/semval) - Semantic validation for Rust.
 - [parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
+- [gimli](https://github.com/gimli-rs/gimli) - Lazy, zero-copy parser for the DWARF debugging format.
 
 ## Cargo Plugins
 
