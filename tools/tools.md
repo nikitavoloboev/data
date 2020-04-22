@@ -35,6 +35,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Nuclino](https://www.nuclino.com/) - Lightweight and collaborative wiki for all your team's knowledge, docs, and notes.
 - [Draw.io](https://www.draw.io/) - Online diagramming web site that delivers the source in this project. ([Code](https://github.com/jgraph/drawio))
 - [GoLinks](https://www.golinks.io/) - Replace lengthy URLs with intuitive golinks to get your organization on the same page faster.
+- [f-license](https://github.com/furkansenharputlu/f-license) - Open-source license creation and verification tool.
 - [Muse](https://museapp.com/) - iPad sketchbook.
 - [Exposure](https://exposure.co/) - Modern publishing platform for photographers and visual storytellers.
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.

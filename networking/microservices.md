@@ -34,3 +34,4 @@
 - [We built network isolation for 1,500 services to make Monzo more secure (2019)](https://monzo.com/blog/we-built-network-isolation-for-1-500-services) ([HN](https://news.ycombinator.com/item?id=21452643)) ([HN 2](https://news.ycombinator.com/item?id=22725989))
 - [Flagr](https://github.com/checkr/flagr) - Feature flagging, A/B testing and dynamic configuration microservice.
 - [Lagom](https://github.com/lagom/lagom) - Reactive Microservices for the JVM.
+- [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - Lightweight, open source API Gateway and Management Platform enables you to control who accesses your API, when they access it and how they access it.
