@@ -115,7 +115,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 
 ## Interesting art
 
-- [Alycia Rainaud](https://ello.co/maalavidaa)
+- [Alycia Rainaud](https://maalavidaa.com/)
 - [Incedigris](https://www.incedigris.com/) - DMT/Salvia like images.
 - [Four Chambers (nudity)](https://afourchamberedheart.com/)
 - [Loop code](http://loop-code.surge.sh/)

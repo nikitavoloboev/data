@@ -56,3 +56,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Ask HN: How do I understand the results of my job search? (2020)](https://news.ycombinator.com/item?id=21612151)
 - [List of companies that are hiring or are currently in a hiring freeze](https://candor.co/hiring-freezes/)
 - [Hand-picked remote jobs from HN Who is hiring?](https://remoteleaf.com/whoishiring?ref=reddit)
+- [Teal](https://www.tealhq.com/) - Career partner that helps individuals advocate for themselves and build meaningful careers.
