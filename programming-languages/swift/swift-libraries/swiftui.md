@@ -46,3 +46,4 @@
 - [Composable Architecture](https://www.pointfree.co/collections/composable-architecture)
 - [Cross-platform Reddit client built in SwiftUI](https://github.com/carson-katri/reddit-swiftui)
 - [A guide to the SwiftUI layout system (2020)](https://swiftbysundell.com/articles/swiftui-layout-system-guide-part-1/)
+- [SwiftUI Architectures: Model-View, Redux & ViewState MVVM](https://github.com/quickbirdstudios/SwiftUI-Architectures)
