@@ -7,6 +7,7 @@
 - [Nano](https://nano.org)
 - [Maker](https://makerdao.com/en/) - Comprised of a decentralized stablecoin, collateral loans, and community governance.
 - [Libra](libra.md)
+- [MobileCoin](https://github.com/mobilecoinofficial/mobilecoin) - Private payments for mobile devices.
 
 ## Links
 

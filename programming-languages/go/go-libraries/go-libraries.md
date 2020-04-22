@@ -401,6 +401,7 @@
 - [go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library.
 - [xattr](https://github.com/pkg/xattr) - Extended attribute support for Go (linux + darwin + freebsd).
 - [watcher](https://github.com/radovskyb/watcher) - Go package for watching for files or directory changes without using filesystem events.
+- [nmap](https://github.com/Ullaakut/nmap) - Idiomatic nmap library for go developers.
 
 ## Links
 
