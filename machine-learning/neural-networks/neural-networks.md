@@ -109,3 +109,4 @@
 - [KPNNs](https://github.com/epigen/KPNN) - Knowledge-primed neural networks.
 - [ResNeSt](https://github.com/zhanghang1989/ResNeSt) - Split-Attention Network.
 - [Shortcut Learning in Deep Neural Networks (2020)](https://github.com/rgeirhos/shortcut-perspective)
+- [Discourse-Aware Attention Model for Abstractive Summarization of Long Documents](https://github.com/armancohan/long-summarization)

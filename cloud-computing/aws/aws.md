@@ -60,3 +60,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Kubernetes Daemonset to gracefully handle EC2 instance shutdown](https://github.com/aws/aws-node-termination-handler)
 - [AWS CDK RFCs](https://github.com/aws/aws-cdk-rfcs#readme)
 - [AWS AppSync GraphQL Photo Sample](https://github.com/aws-samples/aws-amplify-graphql)
+- [AWS Icons for PlantUML](https://github.com/awslabs/aws-icons-for-plantuml)
