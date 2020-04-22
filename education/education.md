@@ -28,3 +28,5 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Locally-Adaptive Nonparametric Online Learning (2020)](https://arxiv.org/abs/2002.01882)
 - [YC, not Lambda School, is unbundling education](https://medium.com/swlh/y-combinator-not-lambda-school-is-unbundling-education-bd6fdf0c78d7) ([HN](https://news.ycombinator.com/item?id=21439089))
 - [Avenify](https://avenify.com/) - Apply for up to \$15,000 in interest-free funding. No credit score, cosigner, or collateral required.
+- [Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)](https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1) ([HN](https://news.ycombinator.com/item?id=22941144)) ([Reddit](https://www.reddit.com/r/math/comments/g5t2f1/why_are_soviet_math_textbooks_so_hardcore_in/))
+- [Word Problems in Russia and America](http://www.de.ufpe.br/~toom/travel/sweden05/WP-SWEDEN-NEW.pdf)

@@ -9,3 +9,4 @@
 - [Fish Redux](https://github.com/alibaba/fish-redux) - Assembled flutter application framework based on Redux state management.
 - [Flutter: a Portable UI Framework for Mobile, Web, Embedded, and Desktop (2019)](https://developers.googleblog.com/2019/05/Flutter-io19.html) ([HN](https://news.ycombinator.com/item?id=19853247))
 - [How Flutter renders Widgets (2019)](https://www.youtube.com/watch?v=996ZgFRENMs)
+- [Flutter Samples](https://github.com/diegoveloper/flutter-samples)

@@ -88,3 +88,4 @@
 - [fastText](https://fasttext.cc/) - Library for efficient text classification and representation learning. ([Code](https://github.com/facebookresearch/fastText/))
 - [Awesome NLP Paper Discussions](https://github.com/huggingface/awesome-papers#readme) - Papers & presentations from Hugging Face's weekly science day.
 - [SynST: Syntactically Supervised Transformers](https://github.com/dojoteef/synst)
+- [The Cost of Training NLP Models: A Concise Overview (2020)](https://arxiv.org/abs/2004.08900)

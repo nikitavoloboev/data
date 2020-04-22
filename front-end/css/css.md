@@ -131,3 +131,4 @@
 - [Concentric-CSS](https://github.com/brandon-rhodes/Concentric-CSS) - Standard order for CSS properties that starts at the outer edge of the box model and moves inward.
 - [Pattern.css](https://bansal.io/pattern-css) - CSS only library to fill your empty background with beautiful patterns. ([Code](https://github.com/bansal-io/pattern.css)) ([HN](https://news.ycombinator.com/item?id=22933697))
 - [Watched Box](https://github.com/Heydon/watched-box) - Easiest way to get working with ResizeObserver and creating container queries with JavaScript.
+- [Hamburgers](https://jonsuh.com/hamburgers/) - Tasty CSS-animated Hamburgers. ([Code](https://github.com/jonsuh/hamburgers))
