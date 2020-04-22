@@ -275,6 +275,7 @@
 - [SkiaKit](https://github.com/migueldeicaza/SkiaKit) - Swift Bindings to the Skia 2D graphics Library.
 - [Vaux](https://github.com/dokun1/Vaux) - HTML DSL library for Swift.
 - [Echo](https://github.com/Azoy/Echo) - Complete reflection package for Swift.
+- [XMLCoder](https://github.com/MaxDesiatov/XMLCoder) - Easy XML parsing using Codable protocol in Swift.
 
 ## Other (not lib)
 

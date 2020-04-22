@@ -174,3 +174,4 @@
 - [Kubernetes Network Policy Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes#readme)
 - [kube-prompt](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client featuring auto-complete.
 - [Kubernetes Custom Resource API Reference Docs generator](https://github.com/ahmetb/gen-crd-api-reference-docs)
+- [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service platform. It empowers you to provide or consume Kubernetes clusters at scale, on any platform or service provider.

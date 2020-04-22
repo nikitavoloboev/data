@@ -222,3 +222,4 @@
 - [Backpropagation 101 (2020)](https://thinc.ai/docs/backprop101) - How to trick yourself into understanding backprop without even trying.
 - [A Spacetime Approach to Generalized Cognitive Reasoning in Multi-scale Learning (2017)](https://arxiv.org/abs/1702.04638)
 - [Open Source Deep Learning Glossary](https://github.com/jrdi/dl-glossary#readme)
+- [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification#readme) - Collection of important graph embedding, classification and representation learning papers with implementations.
