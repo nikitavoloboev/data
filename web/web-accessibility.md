@@ -15,3 +15,5 @@
 - [Dao of Web Design (2000)](https://alistapart.com/article/dao/) ([HN](https://news.ycombinator.com/item?id=22521557))
 - [N26 and lack of JavaScript](https://hugogiraudel.com/2020/01/20/n26-and-lack-of-javascript/)
 - [AriaNg](https://github.com/mayswind/AriaNg) - Modern web frontend making aria2 easier to use.
+- [Inclusive Components](https://inclusive-components.design/) - Blog trying to be a pattern library, with a focus on inclusive design.
+- ["Building Inclusive Components" with Heydon Pickering (2019)](https://www.youtube.com/watch?v=C7uX6uvHnlQ&t=1020s)

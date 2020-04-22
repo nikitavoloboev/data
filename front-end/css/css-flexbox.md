@@ -16,3 +16,4 @@
 - [FLEX](http://flexbox.malven.co/) - Simple visual cheat sheet on Flexbox.
 - [Flexy Boxes](https://the-echoplex.net/flexyboxes/) - Flexbox playground and code generator.
 - [PostCSS Flexbugs Fixes](https://github.com/luisrudge/postcss-flexbugs-fixes) - PostCSS plugin that tries to fix all of flexbug's issues.
+- [Heydon Pickering | Flexbox Holy Albatross (2019)](https://www.youtube.com/watch?v=RUyNJaoJH_k)
