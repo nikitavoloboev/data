@@ -32,3 +32,4 @@
 - [Spin doctors: Astrophysicists find when galaxies rotate, size matters (2019)](https://www.scienceinpublic.com.au/other/spin-doctors-astrophysicists-find-when-galaxies-rotate-size-matters)
 - [Akassh Systems](https://akashsystems.com/) - Focused on developing and supplying the next generation of extreme bandwidth, hyper-efficient communications gear for space satellites.
 - [Astroquery](https://github.com/astropy/astroquery) - Contains a collection of tools to access online Astronomical data.
+- [Space Science with Python (2020)](https://medium.com/@thomas.albin/space-science-with-python-setup-and-first-steps-1-8551334118f6)
