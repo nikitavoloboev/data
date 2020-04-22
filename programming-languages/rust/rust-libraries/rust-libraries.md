@@ -362,6 +362,7 @@
 - [parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
 - [gimli](https://github.com/gimli-rs/gimli) - Lazy, zero-copy parser for the DWARF debugging format.
 - [hamt-rs](https://github.com/michaelwoerister/hamt-rs) - Persistent Map Implementation based on Hash Array Mapped Tries.
+- [rust-native-tls](https://github.com/sfackler/rust-native-tls) - Abstraction over platform-specific TLS implementations.
 
 ## Cargo Plugins
 

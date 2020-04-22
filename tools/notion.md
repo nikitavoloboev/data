@@ -12,3 +12,4 @@
 - [Notion Toolbox](https://github.com/kevinjalbert/notion-toolbox) - Collection of Notion tools that work in tandem together.
 - [reacti-notion](https://github.com/splitbee/react-notion) - Blazing fast React renderer for Notion pages.
 - [The Cascading Productivity System](https://jmulholland.com/cascading-productivity-system/)
+- [Notion API Worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access.
