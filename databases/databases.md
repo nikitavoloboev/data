@@ -124,3 +124,4 @@
 - [Apache Druid vs. Time-Series Databases (2019)](https://imply.io/post/apache-druid-vs-time-series-databases) ([HN](https://news.ycombinator.com/item?id=22868286))
 - [Lopez: Breaking boundaries between programming languages and databases (2019)](https://tel.archives-ouvertes.fr/tel-02309327/document)
 - [Declarative Frameworks and Optimization Techniques for Developing Scalable Advanced Analytics over Databases and Data Streams (2019)](https://escholarship.org/content/qt9qb0c0zx/qt9qb0c0zx.pdf)
+- [Things I Wished More Developers Knew About Databases (2020)](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78) ([HN](https://news.ycombinator.com/item?id=22942278))

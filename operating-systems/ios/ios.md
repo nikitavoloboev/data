@@ -28,6 +28,8 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [DP3T](https://github.com/DP-3T/dp3t-app-ios) - Decentralised Privacy-Preserving Proximity Tracing (DP-3T) project.
 - [Historian](https://github.com/finestructure/Historian) - History viewer and transmitter for Composable Architecture apps.
 - [Animal Crossing New Horizon items catalogue in SwiftUI](https://github.com/Dimillian/ACHNBrowserUI)
+- [Pisth](https://github.com/ColdGrub1384/Pisth) - SSH and SFTP client for iOS.
+- [Pyto](https://github.com/ColdGrub1384/Pyto) - Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn.
 
 ## Notes
 

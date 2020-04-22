@@ -68,6 +68,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [James Jean](https://www.artsy.net/artist/james-jean)
 - [Sylvain Sarrailh](https://www.artstation.com/tohad)
 - [Simen Johan](https://www.artsy.net/artist/simen-johan)
+- [Ben Nicholas](https://www.artstation.com/belgianboolean)
 - [Michał Klimczak](https://500px.com/shume)
 - [ariduka55](http://ariduka55.tumblr.com/)
 - [Mocaran](https://mocaran.com/)
@@ -93,6 +94,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Stefan Morrell](https://www.artstation.com/stefan_morrell)
 - [Cristian Eres](https://www.cristianeres.com/) - Sci-Fi artist & Illustrator.
 - [Roman Muradov](https://www.bluebed.net/)
+- [Gregory Crewdson](https://www.instagram.com/crewdsonstudio/)
 - [Tales from the Inner City](http://www.shauntan.net/books/TFIC/TFIC%20main.html)
 - [Jie Ma](https://www.behance.net/jiema37?)
 - [Cole Peters](https://colepeters.com/)
