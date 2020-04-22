@@ -41,6 +41,7 @@
 - [Intercom Node](https://github.com/intercom/intercom-node) - Node.js bindings for the Intercom API.
 - [Pocket Export](https://github.com/karlicoss/pockexport) - Export/access your Pocket data, including highlights.
 - [AssemblyAI](https://www.assemblyai.com/) - Top Rated API for Speech-to-Text.
+- [Apple News API Client](https://github.com/Robert-Fairley/apple-news-client)
 
 ## Links
 

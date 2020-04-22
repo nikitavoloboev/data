@@ -402,6 +402,7 @@
 - [xattr](https://github.com/pkg/xattr) - Extended attribute support for Go (linux + darwin + freebsd).
 - [watcher](https://github.com/radovskyb/watcher) - Go package for watching for files or directory changes without using filesystem events.
 - [nmap](https://github.com/Ullaakut/nmap) - Idiomatic nmap library for go developers.
+- [Fx](https://github.com/uber-go/fx) - Dependency injection based application framework for Go.
 
 ## Links
 

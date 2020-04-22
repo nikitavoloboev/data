@@ -364,6 +364,7 @@
 - [hamt-rs](https://github.com/michaelwoerister/hamt-rs) - Persistent Map Implementation based on Hash Array Mapped Tries.
 - [rust-native-tls](https://github.com/sfackler/rust-native-tls) - Abstraction over platform-specific TLS implementations.
 - [itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
+- [validator](https://github.com/Keats/validator) - Simple validation for Rust structs.
 
 ## Cargo Plugins
 
