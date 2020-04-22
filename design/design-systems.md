@@ -30,6 +30,7 @@
 - [Elastic UI framework](https://elastic.github.io/eui/#/) - Design library in use at Elastic to build internal products. ([Code](https://github.com/elastic/eui))
 - [gov.uk](https://design-system.service.gov.uk/) - Design your service using GOV.UK styles, components and patterns.
 - [Radius](https://rangle.io/radius/) - Design System Accelerator. ([Code](https://github.com/rangle/radius))
+- [98.css](https://jdan.github.io/98.css/) - Design system for building faithful recreations of old UIs. ([Code](https://github.com/jdan/98.css)) ([HN](https://news.ycombinator.com/item?id=22940564))
 
 ## Links
 

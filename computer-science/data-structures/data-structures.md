@@ -27,3 +27,4 @@
 - [A new analysis of the false positive rate of a Bloom filter (2009)](https://www.csee.usf.edu/~kchriste/energy/ipl10.pdf)
 - [Ideal Hash Trees](https://lampwww.epfl.ch/papers/idealhashtrees.pdf)
 - [RRB-Trees: Efficient Immutable Vectors](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=0265C1992F573129BCC7D4AF7734DBF7?doi=10.1.1.592.5377&rep=rep1&type=pdf)
+- [Some data structures and algorithms written in OCaml](https://github.com/jdan/ocaml-data-structures)
