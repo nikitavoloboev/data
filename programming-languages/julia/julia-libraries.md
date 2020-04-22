@@ -17,6 +17,7 @@
 - [Grassmann.jl](https://github.com/chakravala/Grassmann.jl) - ⟨Leibniz-Grassmann-Clifford⟩ differential geometric algebra / multivector simplicial complex.
 - [PencilFFTs.jl](https://github.com/jipolanco/PencilFFTs.jl) - Fast Fourier transforms of MPI-distributed Julia arrays.
 - [SurrealNumbers](https://github.com/mroughan/SurrealNumbers.jl) - Implementation of Conway's Surreal Numbers.
+- [Manopt.jl](https://github.com/JuliaManifolds/Manopt.jl) - Optimization on Manifolds in Julia.
 
 ## Biology
 

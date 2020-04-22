@@ -12,3 +12,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Managing Developer Environments with Conda (2020)](https://interrupt.memfault.com/blog/conda-developer-environments)
 - [Developers shouldn't distribute their own software (2020)](https://lobste.rs/s/6ame3m/developers_shouldn_t_distribute_their)
 - [Spack](https://github.com/spack/spack) - Flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [rebuilderd](https://github.com/kpcyrd/rebuilderd) - Independent verification of binary packages - reproducible builds.

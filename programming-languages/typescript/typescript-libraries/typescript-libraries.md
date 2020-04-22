@@ -34,6 +34,7 @@
 - [tsParticles](https://github.com/matteobruni/tsparticles) - Lightweight TypeScript library for creating particles.
 - [Clack](https://github.com/reasonink/clack) - Modern keyboard shortcut library written in Typescript.
 - [fx-ts](https://github.com/briancavalier/fx-ts) - Computational environments and effects for TypeScript.
+- [Gostek](https://github.com/typeofweb/functional-orm) - 100% typesafe SQL querybuilder.
 
 ## Links
 
