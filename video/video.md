@@ -43,3 +43,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Jitsi](https://meet.jit.si/) - Secure, Simple and Scalable Video Conferences. ([Code](https://github.com/jitsi/jitsi-meet))
 - [Film Grain Synthesis for AV1 Video Codec (2018)](https://norkin.org/pdf/DCC_2018_AV1_film_grain.pdf) ([Lobsters](https://lobste.rs/s/zkakuj/film_grain_synthesis_for_av1_video_codec))
 - [video-summarizer](https://github.com/SoptikHa2/video-summarizer) - Summarizes videos into much shorter videos. Ideal for long lecture videos.
+- [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.

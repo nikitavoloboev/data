@@ -80,3 +80,4 @@
 - [nbind](https://github.com/charto/nbind) - Magical headers that make your C++ library accessible from JavaScript.
 - [Fiber Tasking Lib](https://github.com/RichieSams/FiberTaskingLib) - Library for enabling task-based multi-threading. It allows execution of task graphs with arbitrary dependencies.
 - [ozz-animation](https://github.com/guillaumeblanc/ozz-animation) - Open source c++ skeletal animation library and toolset.
+- [sqlpp11](https://github.com/rbock/sqlpp11) - Type safe embedded domain specific language for SQL queries and results in C++.

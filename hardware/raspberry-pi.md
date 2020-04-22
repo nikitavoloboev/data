@@ -9,3 +9,4 @@
 - [Bluetooth_HID](https://github.com/AnesBenmerzoug/Bluetooth_HID) - Program used to make a Raspberry Pi emulate a keyboard/mouse Bluetooth HID client.
 - [gokrazy](https://github.com/gokrazy/gokrazy) - Pure-Go userland for your Raspberry Pi 3 appliances. ([Web](https://gokrazy.org/))
 - [RPiPlay](https://github.com/FD-/RPiPlay) - Open-source AirPlay mirroring server for the Raspberry Pi.
+- [Raspberry-Pi Bare Metal Tutorial](https://github.com/BrianSidebotham/arm-tutorial-rpi)

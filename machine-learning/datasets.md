@@ -27,3 +27,4 @@
 - [My Giant Data Quality Checklist (2020)](https://www.reddit.com/r/datascience/comments/fzweaf/my_giant_data_quality_checklist/)
 - [LabelImg](https://github.com/tzutalin/labelImg) - Graphical image annotation tool.
 - [Common Voice](https://voice.mozilla.org/en) - Mozilla's initiative to help teach machines how real people speak.
+- [Replica Dataset](https://github.com/facebookresearch/Replica-Dataset) - Dataset of high quality reconstructions of a variety of indoor spaces.
