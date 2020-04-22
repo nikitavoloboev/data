@@ -14,3 +14,4 @@
 - [samlify](https://github.com/tngan/samlify) - Highly configuarable Node.js SAML 2.0 library for Single Sign On.
 - [OAuth2 Proxy](https://github.com/oauth2-proxy/oauth2-proxy) - Reverse proxy that provides authentication with Google, Github or other providers.
 - [Verifiable Credentials Data Model](https://w3c.github.io/vc-data-model/) - Expressing verifiable information on the Web. ([Code](https://github.com/w3c/vc-data-model))
+- [Authelia](https://github.com/authelia/authelia) - Single Sign-On Multi-Factor portal for web apps.
