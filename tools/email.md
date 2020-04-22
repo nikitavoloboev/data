@@ -45,3 +45,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [smtp-cli](https://github.com/mludvig/smtp-cli) - Command line SMTP client.
 - [Lieer](https://github.com/gauteh/lieer) - Fast email-fetching and sending and two-way tag synchronization between notmuch and GMail.
 - [Inbox Zero](https://inboxze.ro/) - How the most productive people manage their inbox.
+- [bulk-mail-cli](https://github.com/adventmail/bulk-mail-cli) - Sends automated, dynamic and beautifully designed HTML emails to your mailing list via your terminal.

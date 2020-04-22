@@ -57,3 +57,4 @@
 - [Next.js Static Props](https://pomb.us/nextjs-static-props/)
 - [Next.js Team AMA (2020)](https://hashnode.com/post/nextjs-team-ama-ask-us-anything-ck8q81sii002wems178vw6r5v)
 - [next-codegen](https://github.com/zackkrida/next-codegen) - Fast API route and page generation for Next.js projects.
+- [NextJS Default Template](https://github.com/ryyppy/nextjs-default) - Opinionated Boilerplate for NextJS, Tailwind and Reason.
