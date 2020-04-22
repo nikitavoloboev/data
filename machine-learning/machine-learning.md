@@ -223,3 +223,4 @@
 - [A Spacetime Approach to Generalized Cognitive Reasoning in Multi-scale Learning (2017)](https://arxiv.org/abs/1702.04638)
 - [Open Source Deep Learning Glossary](https://github.com/jrdi/dl-glossary#readme)
 - [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification#readme) - Collection of important graph embedding, classification and representation learning papers with implementations.
+- [fastAI v2 course](https://dev.fast.ai/) ([Code](https://github.com/fastai/fastai2))

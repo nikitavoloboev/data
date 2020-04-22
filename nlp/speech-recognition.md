@@ -12,3 +12,4 @@
 - [Kaldi Active Grammar](https://github.com/daanzu/kaldi-active-grammar) - Python Kaldi speech recognition with grammars that can be set active/inactive dynamically at decode-time.
 - [SpecAugment with PyTorch](https://github.com/zcaceres/spec_augment) - PyTorch Implementation of GoogleBrain's SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition.
 - [Dragonfly](https://github.com/dictation-toolbox/dragonfly) - Speech recognition framework for Python that makes it convenient to create custom commands to use with speech recognition software.
+- [Gentle](https://github.com/lowerquality/gentle) - Robust yet lenient forced-aligner built on Kaldi. A tool for aligning speech with text.

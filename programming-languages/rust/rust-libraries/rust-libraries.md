@@ -363,6 +363,7 @@
 - [gimli](https://github.com/gimli-rs/gimli) - Lazy, zero-copy parser for the DWARF debugging format.
 - [hamt-rs](https://github.com/michaelwoerister/hamt-rs) - Persistent Map Implementation based on Hash Array Mapped Tries.
 - [rust-native-tls](https://github.com/sfackler/rust-native-tls) - Abstraction over platform-specific TLS implementations.
+- [itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 
 ## Cargo Plugins
 
