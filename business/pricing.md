@@ -9,3 +9,4 @@ Before selling things I owned, I look at prices of same or similar items on the 
 - [Don't just roll the dice – Software pricing guide (2012)](https://neildavidson.com/downloads/dont-just-roll-the-dice-2.0.0.pdf) ([HN](https://news.ycombinator.com/item?id=22027912))
 - [AristanderAI](https://aristander.ai/) - Machine learning for better product pricing. Automate your pricing strategy to guess less and earn more.
 - [The Definitive Guide to Pricing Plans](https://capitalandgrowth.org/answers/Article/3169972/The-Definitive-Guide-to-Pricing-Plans)
+- [Falsehoods programmers believe about prices](https://gist.github.com/rgs/6509585) ([Lobsters](https://lobste.rs/s/lo4bic/falsehoods_programmers_believe_about))

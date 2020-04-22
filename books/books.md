@@ -156,6 +156,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Books That Every Programmer Should Read (2020)](https://metaredux.com/posts/2020/03/27/the-books-that-every-programmer-should-read.html) ([Lobsters](https://lobste.rs/s/wqujvc/books_every_programmer_should_read))
 - [Nice web books (2020)](https://twitter.com/andy_matuschak/status/1246937718283624449)
 - [Reading List of Ben Congdon](https://benjamincongdon.me/books)
+- [Rafaël Garcia-Suarez's books read](http://consttype.org/books.html)
 
 ## Notes
 

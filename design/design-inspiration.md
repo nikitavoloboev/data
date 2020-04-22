@@ -36,6 +36,7 @@ Here are few more things I liked, design wise.
 - [Marius Schulz](https://mariusschulz.com/)
 - [The Worst Dev](https://theworst.dev/)
 - [A decentralized world](https://adecentralizedworld.com/)
+- [Matt Diephouse](https://matt.diephouse.com/)
 
 ## Products
 
