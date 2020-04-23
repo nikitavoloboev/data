@@ -97,3 +97,4 @@
 - [PyTorch learning rate finder](https://github.com/davidtvs/pytorch-lr-finder)
 - [PyTorch Scatter](https://github.com/rusty1s/pytorch_scatter) - PyTorch Extension Library of Optimized Scatter Operations.
 - [TorchServe](https://github.com/pytorch/serve/) - Flexible and easy to use tool for serving PyTorch models.
+- [torch-optimizer](https://github.com/jettify/pytorch-optimizer) - Collection of optimizers for PyTorch.

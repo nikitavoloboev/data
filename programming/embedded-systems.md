@@ -32,3 +32,5 @@
 - [Talks at Meeting Embedded 2019](https://meetingembedded.com/2019/Talks/#talk10)
 - [probe-rs](https://github.com/probe-rs/probe-rs) - Modern, embedded debugging toolkit, written in Rust.
 - [Awesome Bare Metal](https://github.com/alexellis/awesome-baremetal#readme)
+- [usbarmory.rs](https://github.com/iqlusioninc/usbarmory.rs) - Bare metal Rust support for USB armory MkII devices.
+- [cortex-a](https://github.com/rust-embedded/cortex-a) - Low level access to Cortex-A processors.

@@ -278,6 +278,7 @@
 - [Echo](https://github.com/Azoy/Echo) - Complete reflection package for Swift.
 - [XMLCoder](https://github.com/MaxDesiatov/XMLCoder) - Easy XML parsing using Codable protocol in Swift.
 - [Concurrent](https://github.com/typelift/Concurrent) - Collection of functional concurrency primitives inspired by Concurrent ML and Concurrent Haskell.
+- [JavaScriptKit](https://github.com/kateinoigakukun/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
 
 ## Other (not lib)
 

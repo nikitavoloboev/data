@@ -10,3 +10,5 @@ Before selling things I owned, I look at prices of same or similar items on the 
 - [AristanderAI](https://aristander.ai/) - Machine learning for better product pricing. Automate your pricing strategy to guess less and earn more.
 - [The Definitive Guide to Pricing Plans](https://capitalandgrowth.org/answers/Article/3169972/The-Definitive-Guide-to-Pricing-Plans)
 - [Falsehoods programmers believe about prices](https://gist.github.com/rgs/6509585) ([Lobsters](https://lobste.rs/s/lo4bic/falsehoods_programmers_believe_about))
+- [Adapty](https://adapty.io/) - Grow in-app subscriptions.
+- [Adapty SDK iOS](https://github.com/adaptyteam/AdaptySDK-iOS) - Mobile SDK for growing mobile in-app purchases.

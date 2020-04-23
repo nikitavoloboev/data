@@ -13,3 +13,4 @@
 - [Design Principles of Vue 3.0 by Evan You (2019)](https://www.youtube.com/watch?v=WLpLYhnGqPA)
 - [Vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js
 - [Build a DEV.TO clone with Nuxt new fetch (2020)](https://nuxtjs.org/blog/build-dev-to-clone-with-nuxt-new-fetch)
+- [Vite](https://github.com/vuejs/vite) - Experimental no-bundle dev server for Vue SFCs.

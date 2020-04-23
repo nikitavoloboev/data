@@ -389,3 +389,4 @@
 - [Quickly generate Dash docsets for third-party Rust crates](https://github.com/cmyr/rust-dash-docset-gen)
 - [Interact with crates.io from the command-line](https://github.com/Byron/crates-io-cli-rs)
 - [Rustsim](https://rustsim.org/) - Rust crates for numerical simulation.
+- [linkify](https://github.com/robinst/linkify) - Rust library to find links such as URLs and email addresses in plain text, handling surrounding punctuation correctly.

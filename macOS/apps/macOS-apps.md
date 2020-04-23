@@ -39,6 +39,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [NWPusher](https://github.com/noodlewerk/NWPusher) - macOS and iOS application and framework to play with the Apple Push Notification service.
 - [MacCacheCleaner](https://github.com/kaunteya/MacCacheCleaner)
 - [Timer App](https://github.com/Zeqiang-Lai/Timer-APP) - Simple Stopwatch App for macOS.
+- [Cameo](https://github.com/lvsti/Cameo) - Small utility based on CMIOKit to explore installed CMIO DAL plugins and their properties.
 
 ## Other interesting apps
 
