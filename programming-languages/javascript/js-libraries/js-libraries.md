@@ -233,6 +233,7 @@
 - [estree-walker](https://github.com/Rich-Harris/estree-walker) - Traverse an ESTree-compliant AST.
 - [Jitsi Meet API library](https://github.com/jitsi/lib-jitsi-meet) - Can use Jitsi Meet API to create Jitsi Meet video conferences with a custom GUI.
 - [isomer](https://github.com/jdan/isomer) - Simple isometric graphics library for HTML5 canvas.
+- [Schema to Yup schema](https://github.com/kristianmandrup/schema-to-yup)
 
 ## Links
 

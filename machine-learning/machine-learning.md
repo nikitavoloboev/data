@@ -68,6 +68,7 @@
 - [Kubeflow](https://github.com/kubeflow/pipelines) - Machine learning (ML) toolkit that is dedicated to making deployments of ML workflows on Kubernetes simple, portable, and scalable.
 - [Summary of some ML papers](https://github.com/kweonwooj/papers)
 - [Practical Deep Learning for Coders 2019](https://www.fast.ai/2019/01/24/course-v3/) - ([HN](https://news.ycombinator.com/item?id=19000027)) ([GitHub](https://github.com/fastai/course-v3))
+- [Notebooks for the "A walk with fastai2" Study Group and Lecture Series](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0)
 - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
 - [Machine Learning Feynman Experience](https://github.com/leandromineti/ml-feynman-experience#readme) - Collection of concepts I tried to implement using only Python, NumPy and SciPy on Google Colaboratory.
 - [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.

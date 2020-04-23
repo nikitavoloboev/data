@@ -366,6 +366,7 @@
 - [itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 - [validator](https://github.com/Keats/validator) - Simple validation for Rust structs.
 - [sv-parser](https://github.com/dalance/sv-parser) - SystemVerilog parser library fully complient with IEEE 1800-2017.
+- [Serde JSON](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust.
 
 ## Cargo Plugins
 
