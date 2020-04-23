@@ -26,7 +26,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Blog Rewrite with Hakyll and Purescript (2016)](https://blog.jle.im/entry/blog-rewrite-with-hakyll-and-purescript.html)
 - [Awesome JAMStack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup.
 - [Ask HN: Best Static Site Builder? (2019)](https://news.ycombinator.com/item?id=21616149)
-- [Userbase](https://userbase.com/) - Create secure and private web apps using only static JavaScript, HTML, and CSS. ([HN](https://news.ycombinator.com/item?id=22145168))
+- [Userbase](https://userbase.com/) - Easiest way to add user accounts and data persistence to your static site. ([HN](https://news.ycombinator.com/item?id=22145168)) ([Code](https://github.com/encrypted-dev/userbase))
 - [StaticKit](https://statickit.com/) - Hassle-Free Forms For Static Sites.
 - [Netlify Search Index Plugin](https://github.com/sw-yx/netlify-plugin-search-index) - Generate a Search Index you can query via a static JSON blob or a Netlify Function.
 - [What static site generator and theme do you use for your blog (2020)](https://lobste.rs/s/h491m8/what_static_site_generator_theme_do_you)

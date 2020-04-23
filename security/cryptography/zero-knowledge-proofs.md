@@ -11,3 +11,4 @@
 - [ZKP](https://github.com/adjoint-io/zkp) - Practical zero knowledge proof system that provides small and computationally efficient zero-knowledge proofs of arbitrary computations.
 - [Zero-knowledge attestation (2019)](https://www.imperialviolet.org/2019/01/01/zkattestation.html)
 - [genSTARK](https://github.com/GuildOfWeavers/genSTARK) - Library for generating zk-STARKs.
+- [Zero-Knowledge: a tutorial by Oded Goldreich](http://www.wisdom.weizmann.ac.il/~oded/zk-tut02.html)
