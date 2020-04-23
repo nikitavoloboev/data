@@ -283,6 +283,10 @@ Below is a list of extensions I use.
 
 - [Magic Racket](https://marketplace.visualstudio.com/items?itemName=evzen-wybitul.magic-racket) - Top notch syntax highlighting for Racket.
 
+## Swift
+
+- [Swift Development Environment](https://marketplace.visualstudio.com/items?itemName=vknabel.vscode-swift-development-environment) ([Code](https://github.com/vknabel/vscode-swift-development-environment))
+
 ## Theme
 
 - [Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
