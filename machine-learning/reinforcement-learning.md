@@ -61,3 +61,4 @@
 - [Maria-Florina Balcan's publications](http://www.cs.cmu.edu/%7Eninamf/pubs-by-year.html)
 - [An Optimistic Perspective on Offline Reinforcement Learning (2020)](https://ai.googleblog.com/2020/04/an-optimistic-perspective-on-offline.html)
 - [TensorSwarm](https://github.com/TensorSwarm/TensorSwarm) - Framework for reinforcement learning of robot swarms.
+- [Learning with Random Learning Rates in PyTorch](https://github.com/leonardblier/alrao)

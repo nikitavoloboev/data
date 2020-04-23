@@ -22,3 +22,4 @@
 - [Margin in Software Systems (2010)](https://blog.regehr.org/archives/50)
 - [SyGuS competition](https://sygus.org/) - Allow solvers for syntax-guided synthesis problems to compete on a large collection of benchmarks.
 - [Verification Competitions (2020)](https://alastairreid.github.io/verification-competitions/)
+- [K Framework – An Overview (2018)](https://runtimeverification.com/blog/k-framework-an-overview/)
