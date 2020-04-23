@@ -13,3 +13,4 @@
 - [HN: WireGuard is in net-next (2019)](https://news.ycombinator.com/item?id=21741133)
 - [HN: WireGuard 1.0.0 (2020)](https://news.ycombinator.com/item?id=22724768)
 - [Getting Started with WireGuard](https://miguelmota.com/blog/getting-started-with-wireguard/) ([Lobsters](https://lobste.rs/s/zozvm1/getting_started_with_wireguard)) ([HN](https://news.ycombinator.com/item?id=22788584))
+- [Why not "Why not WireGuard?" (2020)](https://tailscale.com/blog/why-not-why-not-wireguard/)

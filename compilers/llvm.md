@@ -31,3 +31,4 @@
 - [Micro C, Part 3: Generating LLVM (2020)](https://blog.josephmorag.com/posts/mcc3/)
 - [jitmap](https://github.com/fsaintjacques/jitmap) - Small library providing an execution engine for logical binary expressions on bitmaps.
 - [LLVM Explore](https://github.com/mkitzan/llvm-explore) - Notes created while studying LLVM compiler infrastructure in preparation for compiler engineer job and onsite interview.
+- [Joseph Groff & Chris Lattner “Swift's High-Level IR: A Case Study..." (2015)](https://www.youtube.com/watch?v=Ntj8ab-5cvE)
