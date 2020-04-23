@@ -237,6 +237,7 @@
   - [Erlang](programming-languages/erlang/erlang.md)
   - [Elixir](programming-languages/elixir/elixir.md)
     - [Elixir libraries](programming-languages/elixir/elixir-libraries.md)
+    - [Phoenix](programming-languages/elixir/phoenix.md)
   - [Java](programming-languages/java/java.md)
     - [Java libraries](programming-languages/java/java-libraries.md)
   - [Kotlin](programming-languages/kotlin/kotlin.md)
