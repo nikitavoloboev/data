@@ -70,6 +70,7 @@ Here are few more things I liked, design wise.
 - [Evan Jones](https://www.evanjones.ca/)
 - [John Otander](https://johno.com/) ([Code](https://github.com/johno/_))
 - [Karri Saarinen](https://karrisaarinen.com/)
+- [Jared Palmer](https://jaredpalmer.com/)
 - [Raul Dronca](https://www.rauldronca.com/) ([Code](https://github.com/iRaul/rauldronca.com))
 - [Szymon Kaliski](https://szymonkaliski.com/)
 - [Ajay](https://ajayns.me/)
