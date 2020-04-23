@@ -142,6 +142,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Free Illustrations of the Natural World](https://www.smithsonianmag.com/smart-news/over-150000-illustrations-wildlife-are-available-online-free-180974167/) ([HN](https://news.ycombinator.com/item?id=22295160))
 - [How Soviet Science Magazines Fantasized About Life in Outer Space](https://www.atlasobscura.com/articles/soviet-space-graphics) ([HN](https://news.ycombinator.com/item?id=22607279))
 - [Potato Dog and Cardboard Cat Comics](http://www.potatodogcomics.com/)
+- [Enchanting Paintings Capture the Twinkling Rooftops of Paris at Twilight](https://mymodernmet.com/evgeny-lushpin-paris-paintings/)
 
 ## Photography
 

@@ -42,3 +42,4 @@
 - [The Morning Paper](https://blog.acolyer.org/) - Short summary every weekday of an important, influential, topical or otherwise interesting paper in the field of computer science.
 - [List of recommended CS readings](https://github.com/amilajack/reading)
 - [Daniel Bernstein's research](http://cr.yp.to/djb.html)
+- [Computing for Computer Scientists (2017)](https://c4cs.github.io/archive/w18/) ([Code](https://github.com/c4cs/c4cs.github.io))

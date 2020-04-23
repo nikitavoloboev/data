@@ -132,3 +132,4 @@
 - [Building a web app with functional programming - Haskell (2020)](https://blog.patchgirl.io/haskell/2020/03/08/haskell-part-I.html)
 - [haskell-language-server](https://github.com/haskell/haskell-language-server) - Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
 - [Why Haskell Matters](https://github.com/thma/WhyHaskellMatters#readme)
+- [Fast Fibonacci numbers using Monoids (2020)](http://www.haskellforall.com/2020/04/blazing-fast-fibonacci-numbers-using.html) ([HN](https://news.ycombinator.com/item?id=22946710))

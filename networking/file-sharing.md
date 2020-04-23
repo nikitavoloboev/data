@@ -18,3 +18,4 @@
 - [Fast.io](https://fast.io/) - Host anything (PDFs, video, zips, images, etc.) with direct links on a super-fast global network. ([HN](https://news.ycombinator.com/item?id=21589213))
 - [Static FileZ](https://github.com/killercup/static-filez) - Build compressed archives for static files and serve them over HTTP.
 - [qrcp](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. ([HN](https://news.ycombinator.com/item?id=22914789))
+- [0x0.st](https://0x0.st/) - No-bullshit file hosting and URL shortening service. ([Code](https://github.com/mia-0/0x0))
