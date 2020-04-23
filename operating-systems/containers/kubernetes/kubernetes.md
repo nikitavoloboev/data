@@ -175,4 +175,4 @@
 - [kube-prompt](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client featuring auto-complete.
 - [Kubernetes Custom Resource API Reference Docs generator](https://github.com/ahmetb/gen-crd-api-reference-docs)
 - [oneinfra](https://github.com/oneinfra/oneinfra) - Kubernetes as a Service platform. It empowers you to provide or consume Kubernetes clusters at scale, on any platform or service provider.
-- [Anthos—driving business agility and efficiency (2020)](https://cloud.google.com/blog/topics/anthos/anthos-for-aws-is-now-ga) ([HN](https://news.ycombinator.com/item?id=22951790))
+- [Anthos — Driving business agility and efficiency (2020)](https://cloud.google.com/blog/topics/anthos/anthos-for-aws-is-now-ga) ([HN](https://news.ycombinator.com/item?id=22951790))
