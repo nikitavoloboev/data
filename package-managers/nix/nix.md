@@ -95,3 +95,4 @@
 - [Nix Haskell Monorepo Tutorial](https://github.com/fghibellini/nix-haskell-monorepo)
 - [The journey of packaging a .NET app on Nix (2020)](https://sgt.hootr.club/molten-matter/dotnet-on-nix/)
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection.
+- [Nix IRC logs](https://logs.nix.samueldr.com/)

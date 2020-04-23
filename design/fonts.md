@@ -58,3 +58,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [monospacifier.py](https://github.com/cpitclaudel/monospacifier) - Great way to increase the Unicode coverage of your favorite programming font.
 - [Chrome Detect Font](https://github.com/hmarr/chrome-detect-font) - Easily see which fonts are in use.
 - [Font Bakery](https://github.com/googlefonts/fontbakery) - Command-line tool for checking the quality of font projects.
+- [Typelab](https://typelab.fr/) - Type design service offering design software and bespoke type design for diverse clients.
