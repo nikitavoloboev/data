@@ -45,6 +45,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Yac](https://www.yac.chat/) - Asynchronous voice collaboration for remote teams.
 - [Slido](https://www.sli.do/) - Audience interaction made easy.
 - [Flowkit](https://useflowkit.com/) - User flows right inside your favorite design tool.
+- [Web Clipper](https://clipper.website/) - Open source extension. You can use it to save anything on the web to anywhere. ([Code](https://github.com/webclipper/web-clipper))
 - [Kapwing](https://www.kapwing.com/) - Collaborative platform for creating images, videos, and GIFs.
 - [Animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups on the browser.
 - [Prettier](https://github.com/prettier/prettier) - Opinionated code formatter.

@@ -8,3 +8,4 @@
 - [mergerfs](https://github.com/trapexit/mergerfs) - Union filesystem geared towards simplifying storage and management of files across numerous commodity storage devices.
 - [gefs](https://github.com/oridb/gefs) - Good enough file system.
 - [libfsapfs](https://github.com/libyal/libfsapfs) - Library to access the Apple File System (APFS).
+- [proper-lockfile](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility that works on a local or network file system.

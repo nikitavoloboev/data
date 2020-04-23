@@ -33,6 +33,7 @@
 
 - [Supercreative](https://supercreative.design/)
 - [Filament Group](https://www.filamentgroup.com/) - Design and front-end development studio.
+- [MOXY](https://moxy.studio/about) - Interdisciplinary studio, we specialise in designing and developing.
 
 ## DB
 
