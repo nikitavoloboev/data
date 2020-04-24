@@ -242,3 +242,4 @@ Go promotes composition over inheritance.
 - [Go & iOS: remember to enable Cocoa multithreading (2020)](https://medium.com/@steeve/go-ios-remember-to-enable-cocoa-multithreading-95394491ad5e)
 - [Go Tools](https://github.com/golang/tools) - Various packages and tools that support the Go programming language.
 - [Collection of Technical Interview Questions solved with Go](https://github.com/shomali11/go-interview)
+- [Go Project Design Documents](https://github.com/golang/proposal)

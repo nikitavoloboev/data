@@ -121,3 +121,4 @@
 - [Under the hood: React](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/) - Entire React code base explanation by visual block schemes (Stack version). ([Code](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS))
 - [Opinionated React: State Management (2020)](https://dev.to/farazamiruddin/opinionated-react-state-management-426a)
 - [static-react](https://github.com/reasonml/reason-react/tree/StaticReactExperiment/explorations) - Exploration of a Reason React API that tracks the shape of render trees at the type system level.
+- [Visly](https://visly.app/) - Build React components visually. ([Article](https://visly.app/blog/designing-for-incremental-adoption))

@@ -10,3 +10,4 @@
 - [Tour of Standard ML ](https://saityi.github.io/sml-tour/tour/00-00-welcome.html) ([HN](https://news.ycombinator.com/item?id=22180834))
 - [Unix System Programming with Standard ML](http://www.mlton.org/References.attachments/Shipman02.pdf) ([HN](https://news.ycombinator.com/item?id=22246334))
 - [smlpkg](https://github.com/melsman/smlpkg) - Generic package manager for Standard ML libraries and programs.
+- [Compiling Pattern Guards](https://github.com/JohnReppy/compiling-pattern-guards) - Prototype code that accompanies the paper "Compiling Successor ML Pattern Guards".

@@ -93,6 +93,7 @@
 
 ## Test
 
+- [Quick](https://github.com/Quick/Quick) - Behavior-driven development framework for Swift and Objective-C.
 - [Muter](https://github.com/muter-mutation-testing/muter) - Automated mutation testing for Swift.
 
 ## API
@@ -279,6 +280,8 @@
 - [XMLCoder](https://github.com/MaxDesiatov/XMLCoder) - Easy XML parsing using Codable protocol in Swift.
 - [Concurrent](https://github.com/typelift/Concurrent) - Collection of functional concurrency primitives inspired by Concurrent ML and Concurrent Haskell.
 - [JavaScriptKit](https://github.com/kateinoigakukun/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
+- [SwiftyTimer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer.
+- [SwiftyUserDefaults](https://github.com/sunshinejr/SwiftyUserDefaults) - Modern Swift API for NSUserDefaults.
 
 ## Other (not lib)
 

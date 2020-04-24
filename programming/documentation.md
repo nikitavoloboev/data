@@ -32,3 +32,4 @@
 - [Docz](https://github.com/doczjs/docz) - Makes it easy to write and publish beautiful interactive documentation for your code. ([Web](https://www.docz.site/))
 - [gatsby-starter-docz](https://github.com/doczjs/gatsby-starter-docz) - Gatsby starter with Docz and a blog for your documentation.
 - [Stripe Docs interactive example](https://stripe.com/docs/payments/integration-builder)
+- [Artifact](https://github.com/vitiral/artifact) - Simple, linkable and trackable design documentation tool for everybody.

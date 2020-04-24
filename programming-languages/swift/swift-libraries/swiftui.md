@@ -48,3 +48,4 @@
 - [A guide to the SwiftUI layout system (2020)](https://swiftbysundell.com/articles/swiftui-layout-system-guide-part-1/)
 - [SwiftUI Architectures: Model-View, Redux & ViewState MVVM](https://github.com/quickbirdstudios/SwiftUI-Architectures)
 - [SwiftUI by Examples](https://github.com/artemnovichkov/SwiftUI-by-Examples)
+- [Introspect for SwiftUI](https://github.com/siteline/SwiftUI-Introspect) - Allows you to get the underlying UIKit or AppKit element of a SwiftUI view.
