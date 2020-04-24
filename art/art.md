@@ -54,6 +54,7 @@ I also love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch A
 - [Liam Wong](https://www.liamwong.com/)
 - [Pascal Campion](https://www.instagram.com/pascalcampionart/)
 - [Bastien Grivet](https://www.artstation.com/grivetart)
+- [Alice Lee](https://www.byalicelee.com/)
 - [Samuel Smith](https://www.artstation.com/samsamstudio)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)

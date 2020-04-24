@@ -177,3 +177,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Dissecting Widening: Separating Termination from Information](https://jorgenavas.github.io/papers/isolated-widening-APLAS19.pdf)
 - [DuckDuckGo Instant Answers](https://github.com/duckduckgo/zeroclickinfo-fathead)
 - [JackTrip](https://github.com/jacktrip/jacktrip) - Multi-machine audio network performance over the Internet.
+- [Collection of Quotes](https://wiki.xxiivv.com/site/quotes.html)
+- [Collection of Mirrors](https://wiki.xxiivv.com/site/mirrors.html) - Collection of various notes on topics.

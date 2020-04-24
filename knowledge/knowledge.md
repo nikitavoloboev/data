@@ -35,3 +35,4 @@ And of course this system of knowledge indexing is very flexible and I am experi
 - [Introducing Golden: Mapping human knowledge](https://news.ycombinator.com/item?id=19790912) ([HN](https://news.ycombinator.com/item?id=19790912))
 - [KnowTree](https://github.com/ErikBjare/KnowTree#readme) - Crazy idea about visualizing what you (don't yet) know and create a great plan to learn anything.
 - [Designing a self-directed learning network v0.3](https://medium.com/the-experimental-year/designing-a-self-directed-learning-network-v0-3-8a8a990d0bfe)
+- [Collection of notes on general knowledge](https://wiki.xxiivv.com/site/knowledge.html) (And [wisdom](https://wiki.xxiivv.com/site/wisdom.html))
