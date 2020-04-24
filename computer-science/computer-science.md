@@ -43,3 +43,4 @@
 - [List of recommended CS readings](https://github.com/amilajack/reading)
 - [Daniel Bernstein's research](http://cr.yp.to/djb.html)
 - [Computing for Computer Scientists (2017)](https://c4cs.github.io/archive/w18/) ([Code](https://github.com/c4cs/c4cs.github.io))
+- [NP-complete Problems and Physical Reality](https://www.scottaaronson.com/papers/npcomplete.pdf)

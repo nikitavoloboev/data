@@ -640,6 +640,7 @@
   - [Memcached](databases/memcached.md)
   - [Kdb+](databases/kdb.md)
   - [Neo4j](databases/neo4j.md)
+  - [Dgraph](databases/dgraph.md)
   - [Cassandra](databases/cassandra.md)
   - [Blockchain](databases/blockchain/blockchain.md)
     - [Ethereum](databases/blockchain/ethereum.md)
