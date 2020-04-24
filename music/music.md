@@ -27,3 +27,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Currents](https://a.currents.fm) - Playlist platform that directly supports independent music.
 - [Bandcamp](https://bandcamp.com/) - Service for artists and labels to share and earn money from their music, and for fans to discover and enjoy it.
 - [ListenBrainz](https://listenbrainz.org/) - Track songs you listen too like LastFM. ([Code](https://github.com/metabrainz/listenbrainz-server))
+- [Why Do We Even Listen to New Music?](https://pitchfork.com/features/article/listen-to-music/) ([HN](https://news.ycombinator.com/item?id=22941185))

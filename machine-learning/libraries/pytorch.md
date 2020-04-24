@@ -98,3 +98,4 @@
 - [PyTorch Scatter](https://github.com/rusty1s/pytorch_scatter) - PyTorch Extension Library of Optimized Scatter Operations.
 - [TorchServe](https://github.com/pytorch/serve/) - Flexible and easy to use tool for serving PyTorch models.
 - [torch-optimizer](https://github.com/jettify/pytorch-optimizer) - Collection of optimizers for PyTorch.
+- [PyTorch 1.5 (2020)](https://pytorch.org/blog/pytorch-1-dot-5-released-with-new-and-updated-apis/) ([HN](https://news.ycombinator.com/item?id=22942027))
