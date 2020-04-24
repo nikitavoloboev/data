@@ -58,6 +58,7 @@
 - [httpretty](https://github.com/henvic/httpretty) - Package httpretty prints the HTTP requests you make with Go pretty on your terminal.
 - [Resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go.
 - [Typhon](https://github.com/monzo/typhon) - Wrapper around Go's net/http to provide safety and convenience.
+- [Atreugo](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework. Zero memory allocations in hot paths.
 
 ## GraphQL
 

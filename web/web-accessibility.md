@@ -18,3 +18,4 @@
 - [Inclusive Components](https://inclusive-components.design/) - Blog trying to be a pattern library, with a focus on inclusive design.
 - ["Building Inclusive Components" with Heydon Pickering (2019)](https://www.youtube.com/watch?v=C7uX6uvHnlQ&t=1020s)
 - [BBC Global Experience Language (GEL)](https://bbc.github.io/gel/) ([Web](https://www.bbc.co.uk/gel)) ([Code](https://github.com/bbc/gel))
+- [Web Accessibility courses/resources](https://www.reddit.com/r/webdev/comments/aqm6l4/i_cant_find_a_single_web_accessibility_course/)
