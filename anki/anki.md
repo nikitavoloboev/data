@@ -36,3 +36,4 @@ The reason I am not currently using it is because I find the philosophy of `Know
 - [AnkiConnect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
 - [LearnObit](https://learnobit-36a54.web.app/) - Learning tool (Anki & WorkFlowy in one). ([HN](https://news.ycombinator.com/item?id=22823320))
 - [Anki Sync Server](https://github.com/ankicommunity/anki-sync-server) - Personal Anki sync server (so you can sync against your own server rather than AnkiWeb).
+- [Barbra](https://barbra.io/) - Lets classmates create online study groups to share flashcards, notes, and goals with one another. ([HN](https://news.ycombinator.com/item?id=22943075))

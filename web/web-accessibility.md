@@ -17,3 +17,4 @@
 - [AriaNg](https://github.com/mayswind/AriaNg) - Modern web frontend making aria2 easier to use.
 - [Inclusive Components](https://inclusive-components.design/) - Blog trying to be a pattern library, with a focus on inclusive design.
 - ["Building Inclusive Components" with Heydon Pickering (2019)](https://www.youtube.com/watch?v=C7uX6uvHnlQ&t=1020s)
+- [BBC Global Experience Language (GEL)](https://bbc.github.io/gel/) ([Web](https://www.bbc.co.uk/gel)) ([Code](https://github.com/bbc/gel))

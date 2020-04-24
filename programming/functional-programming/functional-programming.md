@@ -70,6 +70,7 @@
 - [Runners in action (2019)](http://math.andrej.com/2019/10/28/runners-in-action/)
 - [Seminaïve Evaluation for a Higher-Order Functional Language](https://www.cl.cam.ac.uk/~nk480/seminaive-datafun.pdf)
 - [Counting Immutable Beans (2020)](https://arxiv.org/pdf/1908.05647.pdf) - Reference Counting Optimized for Purely Functional Programming.
+- [What's the best functional language to learn over the next 30 days? (2020)](https://lobste.rs/s/hf3y19/what_s_best_functional_language_learn)
 
 ## Images
 

@@ -45,3 +45,4 @@
 - [How to raise money before launch](https://medium.com/@zebulgar/how-to-raise-money-before-launch-a3544ef4dba6)
 - [Incubator List](https://incubatorlist.com/) - Curated list of 350+ best startup incubators and accelerators.
 - [Liberapay](https://liberapay.com/) - Recurrent donations platform. ([HN](https://news.ycombinator.com/item?id=19270786)) ([Code](https://github.com/liberapay/liberapay.com))
+- [Funding models and progress (2020)](https://rootsofprogress.org/funding-models-and-progress) ([HN](https://news.ycombinator.com/item?id=22941884))
