@@ -240,3 +240,4 @@ Go promotes composition over inheritance.
 - [Awesome Go performance](https://github.com/cristaloleg/awesome-go-perf#readme)
 - [Understand Go pointers in less than 800 words or your money back (2017)](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back) ([Reddit](https://www.reddit.com/r/golang/comments/g5o3k4/coming_from_javascript_and_im_on_a_go_project_now/))
 - [Go & iOS: remember to enable Cocoa multithreading (2020)](https://medium.com/@steeve/go-ios-remember-to-enable-cocoa-multithreading-95394491ad5e)
+- [Go Tools](https://github.com/golang/tools) - Various packages and tools that support the Go programming language.

@@ -57,3 +57,4 @@
 - [Stippling and Blue Noise (2011)](https://www.joesfer.com/?p=108)
 - [MeshLab](https://github.com/cnr-isti-vclab/meshlab) - Open source, portable, and extensible system for the processing and editing of unstructured large 3D triangular meshes.
 - [Visual Computing Lab](http://vcg.isti.cnr.it/)
+- [Silhouette Maps for Improved Texture Magnification (2004)](https://graphics.stanford.edu/papers/silmap_tex/) ([Tweet](https://twitter.com/pcwalton/status/1253422727215542274))
