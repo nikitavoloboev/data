@@ -133,3 +133,4 @@
 - [haskell-language-server](https://github.com/haskell/haskell-language-server) - Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
 - [Why Haskell Matters](https://github.com/thma/WhyHaskellMatters#readme)
 - [Fast Fibonacci numbers using Monoids (2020)](http://www.haskellforall.com/2020/04/blazing-fast-fibonacci-numbers-using.html) ([HN](https://news.ycombinator.com/item?id=22946710))
+- [Permissive, then restrictive: learning how to design Haskell programs (2020)](https://williamyaoh.com/posts/2020-04-19-permissive-vs-restrictive.html)

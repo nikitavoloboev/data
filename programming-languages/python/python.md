@@ -92,3 +92,4 @@
 - [Awesome Python](https://github.com/vinta/awesome-python#readme)
 - [Distill: Why do we need Flask, Celery, and Redis? (2019)](https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/) ([HN](https://news.ycombinator.com/item?id=22901856))
 - [Building on solid ground: ensuring reproducible Docker builds for Python (2020)](https://pythonspeed.com/articles/reproducible-docker-builds-python/) ([Lobsters](https://lobste.rs/s/xu1lxh/building_on_solid_ground_ensuring))
+- [Python Language Server](https://github.com/palantir/python-language-server)

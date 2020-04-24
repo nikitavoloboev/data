@@ -13,6 +13,7 @@
 - [libpython-clj](https://github.com/clj-python/libpython-clj) - JNA libpython bindings to the tech ecosystem.
 - [Cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame.
 - [Hickory](https://github.com/davidsantiago/hickory) - HTML as data.
+- [Specter](https://github.com/redplanetlabs/specter) - Elegant API to allow any sort of manipulation imaginable. ([Article](http://nathanmarz.com/blog/clojures-missing-piece.html))
 
 ## Links
 

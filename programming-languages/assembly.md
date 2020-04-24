@@ -11,3 +11,5 @@
 - [Getting started with bare-metal assembly (2020)](https://johv.dk/blog/bare-metal-assembly-tutorial.html) ([HN](https://news.ycombinator.com/item?id=22684881))
 - [Compiling to Assembly from Scratch (2020)](https://keleshev.com/compiling-to-assembly-from-scratch-the-book)
 - [Interactive shell of assembly language(X86/X64) based on unicorn and keystone](https://github.com/cch123/asm-cli)
+- [Let's Learn x86-64 Assembly! (2020)](https://gpfault.net/posts/asm-tut-0.txt.html)
+- [int 80h](http://int80h.org/) - Learn Assembly using OpenBSD as base OS.

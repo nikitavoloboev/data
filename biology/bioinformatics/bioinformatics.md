@@ -37,3 +37,4 @@
 - [Computationally Comparing Biological Networks and Reconstructing Their Evolution (2012)](http://www.robpatro.com/newsite/documents/dissertation.pdf)
 - [Bioinformatics Specialization courses](https://www.coursera.org/specializations/bioinformatics)
 - [Scanpy](https://github.com/theislab/scanpy) - Single-Cell Analysis in Python.
+- [elPrep](https://github.com/ExaScience/elprep) - High-performance tool for preparing .sam/.bam files for variant calling in sequencing pipelines.

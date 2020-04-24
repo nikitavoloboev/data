@@ -16,3 +16,4 @@
 - [Writing an Emulator in JavaScript (and Interfacing with Multiple UIs) (2020)](https://www.taniarascia.com/writing-an-emulator-in-javascript-chip8/)
 - [gdbstub](https://github.com/daniel5151/gdbstub) - Implementation of the GDB Remote Serial Protocol in Rust, primarily for use in emulators.
 - [PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python.
+- [SameBoy](https://github.com/LIJI32/SameBoy) - Game Boy and Game Boy Color emulator written in C.

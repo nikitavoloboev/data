@@ -42,3 +42,4 @@
 - [Uncork Capital](https://uncorkcapital.com/) - Seed-stage venture firm that commits early, helps with the hard stuff, and sticks around.
 - [dtc.capital](https://www.dtc.capital/) - Fundamentals-Focused Investment Fund.
 - [Indie.vc](https://www.indie.vc/) - Program designed to fund and support founders on a path to profitability.
+- [IA Ventures](http://www.iaventures.com/) - Early-stage venture capital firm.

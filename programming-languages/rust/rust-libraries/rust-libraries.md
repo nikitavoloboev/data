@@ -359,6 +359,8 @@
 - [validator](https://github.com/Keats/validator) - Simple validation for Rust structs.
 - [sv-parser](https://github.com/dalance/sv-parser) - SystemVerilog parser library fully complient with IEEE 1800-2017.
 - [Serde JSON](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust.
+- [Rustbreak](https://github.com/TheNeikos/rustbreak) - Simple, fast and easy to use self-contained single file storage for Rust.
+- [Curryrs](https://github.com/mgattozzi/curryrs) - Bridge the gap between Haskell and Rust.
 
 ## Cargo Plugins
 

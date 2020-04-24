@@ -68,3 +68,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Cargo](https://cargo.site/) - Build a site off a template.
 - [How to get started with web development (2020)](https://gomakethings.com/how-to-get-started-with-web-development/)
 - [Archiving URLs](https://www.gwern.net/Archiving-URLs)
+- [Main-thread Scheduling API](https://github.com/WICG/main-thread-scheduling)

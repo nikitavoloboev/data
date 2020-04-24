@@ -53,3 +53,4 @@
 - [Why Satisfactory Is So Addictive](https://www.youtube.com/watch?v=PV_wlU4drnM)
 - [How to build an outrun-style racing game in JS](https://github.com/jakesgordon/javascript-racer)
 - [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap#readme)
+- [What Is Interesting About Factorio](http://fuseki.net/home/WhatIsInterestingAboutFactorio.html) ([HN](https://news.ycombinator.com/item?id=22931595))

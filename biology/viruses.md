@@ -17,3 +17,5 @@
 - [Auspice](https://nextstrain.github.io/auspice/) - Interactive exploration of phylodynamic & phylogenomic data. ([Code](https://github.com/nextstrain/auspice))
 - [Decentralized Privacy-Preserving Proximity Tracing](https://github.com/DP-3T/documents)
 - [Awesome Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus#readme) - Useful projects and resources for COVID-19.
+- [COVID-19: Neurological Hypoventilation](https://mad.science.blog/2020/04/11/covid-19-neurological-hypoventilation/)
+- [Estimating COVID-19's R_t in Real-Time](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb)

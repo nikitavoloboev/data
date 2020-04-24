@@ -7,3 +7,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 ## Rhonda’s micronutrient smoothie
 
 [Recipe](https://www.foundmyfitness.com/reports/micronutrient-smoothie.pdf). Very healthy. Goes over why it is healthy too.
+
+## Links
+
+- [Minimal Recipe](https://minimalrecipe.com/) - Recipes you need without the cruft.
