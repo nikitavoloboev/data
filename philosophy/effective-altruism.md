@@ -21,3 +21,4 @@
 - [Open Philanthropy Project](https://www.openphilanthropy.org/) - With mission of giving as effectively as we can and share our findings openly so that anyone can build on our work.
 - [Momentum](https://givemomentum.com/) - Make automatic donations that transform ordinary moments into opportunities for meaningful change.
 - [Giving](https://www.benkuhn.net/ea/)
+- [Impactful non-profit orgs](https://dev.to/devteam/today-is-earth-day-devs-can-have-an-impact-f81)

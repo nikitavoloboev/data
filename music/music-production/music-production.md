@@ -55,3 +55,4 @@
 - [Low Level Norns](https://github.com/PaulBatchelor/norns-lowlevel) - Small snippets of C code that do relatively low-level things on the norns.
 - [SuperCollider](https://github.com/supercollider/supercollider) - Platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound.
 - [Using locks in real-time audio processing, safely (2020)](https://timur.audio/using-locks-in-real-time-audio-processing-safely)
+- [JACK2](https://github.com/jackaudio/jack2) - C++ version of the JACK low-latency audio server for multi-processor machines.

@@ -83,3 +83,4 @@
 - [Carpentry Compiler](https://homes.cs.washington.edu/~adriana/website/CarpentryCompiler.pdf)
 - [Icecream](https://github.com/icecc/icecream) - Distributed compiler with a central scheduler to share build load.
 - [MIR Project](https://github.com/vnmakarov/mir) - Light-weight JIT compiler based on MIR (Medium Internal Representation).
+- [Incremental/query driven compiler architectures](https://github.com/pikelet-lang/pikelet/issues/103)
