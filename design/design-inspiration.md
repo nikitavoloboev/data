@@ -158,7 +158,7 @@ Here are few more things I liked, design wise.
 - [Maddie](http://maddie.io/) - Clean.
 - [Bryan Irace](http://irace.me/writing/) - Love the look.
 - [Ines](https://ines.io/about)
-- [James Mulholland](https://jmulholland.com/)
+- [James Mulholland](https://jmulholland.com/) ([Code](https://github.com/mulholio/jmulholland-dot-com))
 - [Victor Laerte](http://www.victorlaerte.com/)
 - [David van Leewen](http://davidvanleeuwen.nl/)
 - [Sara Vieira](https://iamsaravieira.com/) - Query GraphQL to get info.
