@@ -11,3 +11,5 @@
 - [The Caterpillar Project](https://www.caterpillarproject.org/) - Understanding the building blocks of the Milky Way.
 - [Universe’s structure and history](https://www.nobelprize.org/interactive-visualisations-physicsprize-2019/)
 - [Timelapse of the Future: A Journey to the End of Time (2019)](https://www.youtube.com/watch?v=uD4izuDMUQA)
+- [Can we extrapolate, what the universe beyond the observable universe looks like (will look like?) from its "fingerprint" in the cosmic background radiation?](https://www.reddit.com/r/AskPhysics/comments/g5qe2f/can_we_extrapolate_what_the_universe_beyond_the/)
+- [Probing cosmic isotropy with a new X-ray galaxy cluster sample through the LX–T scaling relation (2019)](https://www.aanda.org/articles/aa/abs/2020/04/aa36602-19/aa36602-19.html)
