@@ -87,21 +87,6 @@
 - [gobrain](https://github.com/goml/gobrain) - Neural Networks written in go.
 - [wann](https://github.com/xyproto/wann) - Weight Agnostic Neural Networks in Go.
 
-## API bindings
-
-- [Google Cloud Client Libraries for Go](https://github.com/googleapis/google-cloud-go)
-- [Discord Go](https://github.com/bwmarrin/discordgo) - Go bindings for Discord.
-- [Digital Ocean](https://github.com/digitalocean/godo) - Go client library for accessing the DigitalOcean V2 API.
-- [Slacker](https://github.com/shomali11/slacker) - Slack Bot Framework.
-- [Slack](https://github.com/lestrrat-go/slack) - Slack client for go.
-- [go-whatsapp](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API.
-- [Slash](https://github.com/htdvisser/slash) - Router for Slack's slash commands.
-- [go-twitter](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
-- [Airtable Go Client Library](https://github.com/fabioberger/airtable-go)
-- [Facebook Graph API SDK](https://github.com/huandu/facebook)
-- [Trello](https://github.com/adlio/trello) - Trello API wrapper for Go.
-- [Gophercloud](https://github.com/gophercloud/gophercloud) - OpenStack Go SDK.
-
 ## Graphics
 
 - [pbr](https://github.com/hunterloftis/pbr) - Implements Physically-Based Rendering via a unidirectional CPU-only Monte Carlo path tracer.

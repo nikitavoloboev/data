@@ -22,10 +22,6 @@
 - [Biopython](https://github.com/biopython/biopython) - International association of developers of freely available Python tools for computational molecular biology.
 - [cobrapy](https://github.com/opencobra/cobrapy) - Constraint-Based Reconstruction and Analysis in Python.
 
-## API
-
-- [instagram-scaper](https://github.com/realsirjoe/instagram-scraper) - Scrapes medias, likes, followers, tags and all metadata.
-
 ## CLI
 
 - [Python Fire](https://github.com/google/python-fire) - Library for automatically generating command line interfaces (CLIs) from absolutely any Python object.

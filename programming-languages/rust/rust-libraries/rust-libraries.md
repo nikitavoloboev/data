@@ -106,14 +106,6 @@
 - [Moxie](https://github.com/anp/moxie) - Lightweight platform-agnostic tools for declarative UI.
 - [OrbTk](https://github.com/redox-os/orbtk) - Rust UI-Toolkit.
 
-## API
-
-- [Rusoto](https://github.com/rusoto/rusoto) - AWS SDK for Rust.
-- [librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library.
-- [TensorFlow](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow.
-- [git2-rs](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust.
-- [llama](https://github.com/zshipko/llama) - Friendly LLVM library for Rust.
-
 ## Crypto
 
 - [zksnark-rs](https://github.com/republicprotocol/zksnark-rs) - Zero knowledge succinct arguments of knowledge, written in Rust.

@@ -16,6 +16,7 @@
 - [Twitter Python](https://github.com/ryanmcgrath/twython) - Actively maintained, pure Python wrapper for the Twitter API. Supports both normal and streaming Twitter APIs.
 - [Twitter Node](https://github.com/ttezel/twit) - Twitter API Client for node (REST & Streaming API).
 - [Twitter Lite JS](https://github.com/draftbit/twitter-lite) - Tiny, full-featured, flexible client / server library for the Twitter API.
+- [Twitter Go](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
 - [arxiv-graphql](https://github.com/prabhuomkar/arxiv-graphql) - GraphQL API for arXiv: e-print service by Cornell University.
 - [Sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API.
 - [Cloudflare](https://github.com/cloudflare/cloudflare-rs) - Rust library for the Cloudflare v4 API.
@@ -26,11 +27,16 @@
 - [Reddit Go](https://github.com/turnage/graw)
 - [Reddit JS](https://github.com/feross/reddit) - Simple Reddit API client in JS.
 - [Discord Rust](https://github.com/twilight-rs/twilight)
-- [Slack API in Go](https://github.com/nlopes/slack)
-- [Slack API in Go 2](https://github.com/slack-go/slack)
+- [Discord Go](https://github.com/bwmarrin/discordgo) - Go bindings for Discord.
+- [Slack Go](https://github.com/nlopes/slack)
+- [Slack Go 2](https://github.com/slack-go/slack)
+- [Slack Go 3](https://github.com/lestrrat-go/slack) - Slack client for go.
+- [Slash Go 4](https://github.com/htdvisser/slash) - Router for Slack's slash commands.
+- [Slack Go 5](https://github.com/shomali11/slacker) - Slack Bot Framework in Go.
 - [Star Wars API](https://swapi.co/) - Nice for testing.
 - [Google Spreadsheet NodeJS](https://github.com/theoephraim/node-google-spreadsheet) - Most popular Google Sheets API wrapper for JavaScript.
 - [Airtable JS](https://github.com/Airtable/airtable.js)
+- [Airtable Go](https://github.com/fabioberger/airtable-go)
 - [WikipediaKit](https://github.com/Raureif/WikipediaKit) - API Client Framework for Swift.
 - [Zendesk Go](https://github.com/nukosuke/go-zendesk) - Zendesk API client library for Go.
 - [Cantine](https://github.com/caio/cantine) - Cooking recipe search JSON API with over a million recipes.
@@ -42,6 +48,18 @@
 - [Pocket Export](https://github.com/karlicoss/pockexport) - Export/access your Pocket data, including highlights.
 - [AssemblyAI](https://www.assemblyai.com/) - Top Rated API for Speech-to-Text.
 - [Apple News API Client](https://github.com/Robert-Fairley/apple-news-client)
+- [Google Cloud Client Libraries Go](https://github.com/googleapis/google-cloud-go)
+- [Digital Ocean Go](https://github.com/digitalocean/godo) - Go client library for accessing the DigitalOcean V2 API.
+- [WhatsApp Go](https://github.com/Rhymen/go-whatsapp) - WhatsApp Web API.
+- [Facebook Graph API SDK Go](https://github.com/huandu/facebook)
+- [Trello Go](https://github.com/adlio/trello) - Trello API wrapper for Go.
+- [Gophercloud Go](https://github.com/gophercloud/gophercloud) - OpenStack Go SDK.
+- [AWS SDK Rust](https://github.com/rusoto/rusoto)
+- [Spotify Rust](https://github.com/librespot-org/librespot) - Open Source Spotify client library.
+- [TensorFlow Rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow.
+- [libgit2 Rust](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust.
+- [LLVM Rust](https://github.com/zshipko/llama) - Friendly LLVM library for Rust.
+- [Instagram Scraper Python](https://github.com/realsirjoe/instagram-scraper) - Scrapes medias, likes, followers, tags and all metadata.
 
 ## Links
 
