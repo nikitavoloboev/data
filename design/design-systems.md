@@ -32,6 +32,7 @@
 - [Radius](https://rangle.io/radius/) - Design System Accelerator. ([Code](https://github.com/rangle/radius))
 - [98.css](https://jdan.github.io/98.css/) - Design system for building faithful recreations of old UIs. ([Code](https://github.com/jdan/98.css)) ([HN](https://news.ycombinator.com/item?id=22940564))
 - [Circuit UI](https://circuit.sumup.com/?path=/story/introduction-welcome--page) - Design system & component library for SumUp web apps. ([Code](https://github.com/sumup-oss/circuit-ui))
+- [Palette](https://palette.artsy.net/) - Artsy's design system. ([Code](https://github.com/artsy/palette))
 
 ## Links
 

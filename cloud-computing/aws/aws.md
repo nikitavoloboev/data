@@ -61,3 +61,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS CDK RFCs](https://github.com/aws/aws-cdk-rfcs#readme)
 - [AWS AppSync GraphQL Photo Sample](https://github.com/aws-samples/aws-amplify-graphql)
 - [AWS Icons for PlantUML](https://github.com/awslabs/aws-icons-for-plantuml)
+- [Simple storage pricing calculator for AWS](https://www.duckbillgroup.com/aws-super-simple-storage-calculator/) ([HN](https://news.ycombinator.com/item?id=22971656))

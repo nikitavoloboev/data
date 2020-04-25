@@ -39,3 +39,4 @@
 - [Embedding Binary Objects in C](https://flak.tedunangst.com/post/embedding-binary-objects-in-c) ([HN](https://news.ycombinator.com/item?id=22888318))
 - [Micro C series (2020)](https://blog.josephmorag.com/posts/mcc0/) - Explore how to write a compiler for a small subset of C to LLVM in Haskell.
 - [Why should I have written ZeroMQ in C, not C++ (2012)](http://250bpm.com/blog:4)
+- [Awesome C](https://github.com/Bfgeshka/awesome-c#readme)

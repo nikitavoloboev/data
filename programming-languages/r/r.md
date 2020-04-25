@@ -14,3 +14,4 @@
 - [Lesser Known R Features](http://karolis.koncevicius.lt/posts/lesser_known_r_features/)
 - [R for Data Science](https://r4ds.had.co.nz/)
 - [R Graphics Cookbook (2019)](https://r-graphics.org/)
+- [HN: R 4.0 (2020)](https://news.ycombinator.com/item?id=22966332)

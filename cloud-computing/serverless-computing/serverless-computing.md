@@ -41,3 +41,4 @@
 - [λ-NIC: Interactive Serverless Compute on Programmable SmartNICs (2019)](https://arxiv.org/pdf/1909.11958.pdf)
 - [snow](https://github.com/snowjs/cli) - CLI tool for dead-simple serverless Docker deployments on managed Kubernetes services. A self-hosted PaaS.
 - [AWS Amplify JS](https://github.com/aws-amplify/amplify-js) - JavaScript library for frontend and mobile developers building cloud-enabled applications.
+- [Serverless-Dev-Tools](https://github.com/Theodo-UK/sls-dev-tools) - Developer Tools for the Serverless World - think Chrome Dev Tools but for Serverless.
