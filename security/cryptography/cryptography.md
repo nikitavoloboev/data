@@ -53,3 +53,4 @@
 - [Cryptography I course](https://www.coursera.org/learn/crypto)
 - [Basic implementations of standard cryptography algorithms, like AES and SHA-1](https://github.com/B-Con/crypto-algorithms)
 - [Botan](https://github.com/randombit/botan) - Crypto and TLS for Modern C++.
+- [Understanding Cryptography book](http://www.crypto-textbook.com/)

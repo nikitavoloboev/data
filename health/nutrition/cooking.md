@@ -18,3 +18,5 @@ I share some [recipes I like](recipes.md).
 - [Thomas Keller teaches cooking](https://www.masterclass.com/classes/thomas-keller-teaches-cooking-techniques)
 - [Allrecipes](https://www.allrecipes.com/)
 - [J. Kenji López-Alt cooking videos](https://www.youtube.com/channel/UCqqJQ_cXSat0KIAVfIfKkVA)
+- [Montreal-Style Bagels](https://anitasorganic.com/montreal-style-bagels/)
+- [Notes on bread baking](https://github.com/dgryski/bread)
