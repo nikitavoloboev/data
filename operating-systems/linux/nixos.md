@@ -62,3 +62,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Building a web app with functional programming - NixOS (2020)](https://blog.patchgirl.io/nixos/2020/03/31/nixos.html) ([HN](https://news.ycombinator.com/item?id=22877355))
 - [nixos-manager](https://github.com/pmiddend/nixos-manager) - Manage your NixOS graphically.
 - [Search NixOS packages and options](https://search.nixos.org/) ([Code](https://github.com/NixOS/nixos-search))
+- [My NixOS Desktop Flow (2020)](https://christine.website/blog/nixos-desktop-flow-2020-04-25)
