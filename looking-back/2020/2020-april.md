@@ -23,6 +23,4 @@ with these tabs open
 
 As I try to setup backend for LA. Not sure yet how to expose postgres to the front end in nextJS. Will try out Prisma if it works well, if it doesn't will probably setup Hasura instead and write all the backend logic inside go services.
 
-It's very surreal the feeling you get when you get to write something in an editor.
-
-No more trash news. No more hate. I want to live a life and not be afraid. [Lorentz factor is curious thing](https://en.wikipedia.org/wiki/Lorentz_factor).
+No more trash news.
