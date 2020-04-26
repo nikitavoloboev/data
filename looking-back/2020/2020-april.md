@@ -8,19 +8,14 @@ Just want to be a human being. Loving [animals](https://wiki.nikitavoloboev.xyz/
 
 So much news, so pointless.
 
-I am reading some good books now:
+I am reading some books now:
 
 - [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/book/show/829182.Computer_Systems)
 - [Algorithms Design](https://www.goodreads.com/book/show/145055.Algorithm_Design)
 - [xv6 a simple, Unix-like teaching operating system](https://www.goodreads.com/book/show/28241422-xv6-a-simple-unix-like-teaching-operating-system)
+- [Hitchhiker’s Guide to Logical Veriﬁcation](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf) ([HN](https://news.ycombinator.com/item?id=22794533))
+- [Linus Programming Interface](http://man7.org/tlpi/)
 - [Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime](https://www.goodreads.com/book/show/44065062-something-deeply-hidden)
-
-with these tabs open
-
-- https://www.graphile.org/postgraphile/postgresql-schema-design/
-- https://github.com/prisma/prisma-examples
-- https://news.ycombinator.com/item?id=22739121
-
-As I try to setup backend for LA. Not sure yet how to expose postgres to the front end in nextJS. Will try out Prisma if it works well, if it doesn't will probably setup Hasura instead and write all the backend logic inside go services.
+- [Physics from Symetry](http://physicsfromsymmetry.com/)
 
 No more trash news.
