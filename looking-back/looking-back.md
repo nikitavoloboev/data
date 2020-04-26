@@ -1,7 +1,5 @@
 # Looking back
 
-I want to share my journey in life both for myself and other people who might find an interest in it. I document each month and all the memorable things that happened to me.
-
 I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) and [Instagram](https://instagram.com/nikitavoloboev).
 
 ## 2020

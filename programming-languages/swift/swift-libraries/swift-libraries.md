@@ -282,6 +282,7 @@
 - [JavaScriptKit](https://github.com/kateinoigakukun/JavaScriptKit) - Swift framework to interact with JavaScript through WebAssembly.
 - [SwiftyTimer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer.
 - [SwiftyUserDefaults](https://github.com/sunshinejr/SwiftyUserDefaults) - Modern Swift API for NSUserDefaults.
+- [MessagePack](https://github.com/Flight-School/MessagePack)
 
 ## Other (not lib)
 
