@@ -28,3 +28,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Bandcamp](https://bandcamp.com/) - Service for artists and labels to share and earn money from their music, and for fans to discover and enjoy it.
 - [ListenBrainz](https://listenbrainz.org/) - Track songs you listen too like LastFM. ([Code](https://github.com/metabrainz/listenbrainz-server))
 - [Why Do We Even Listen to New Music?](https://pitchfork.com/features/article/listen-to-music/) ([HN](https://news.ycombinator.com/item?id=22941185))
+- [minimp3](https://github.com/lieff/minimp3) - Minimalistic MP3 decoder single header library.
