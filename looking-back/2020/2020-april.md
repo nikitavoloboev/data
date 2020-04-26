@@ -2,7 +2,7 @@
 
 Things you do and words you speak matter.
 
-It's sad how much time is wasted arguing over how [corrupt United States](https://www.reddit.com/r/bestof/comments/fx03ri/upm_me_all_dogs_lays_out_the_trump/) or your government is and how things need change.
+It's sad how much time is wasted arguing over how [corrupt United States](https://www.reddit.com/r/bestof/comments/fx03ri/upm_me_all_dogs_lays_out_the_trump/) government is and how things need change.
 
 Just want to be a human being. Loving [animals](https://wiki.nikitavoloboev.xyz/environment/veganism) and going about my day existing.
 

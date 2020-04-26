@@ -23,7 +23,7 @@
 - [CSS Blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
 - [Opticss](https://github.com/linkedin/opticss) - CSS Optimizer.
 - [CSS Puns](https://saijogeorge.com/css-puns/)
-- [Magic of CSS](https://adamschwartz.co/magic-of-css/)
+- [Magic of CSS](https://adamschwartz.co/magic-of-css/) ([Code](https://github.com/adamschwartz/magic-of-css))
 - [Min](https://github.com/owenversteeg/min) - World's smallest (995 bytes) CSS framework.
 - [Emotion](https://emotion.sh/) - Performant and flexible CSS-in-JS library.
 - [Why We Use Styled Components at Decisiv](https://medium.com/@_alanbsmith/why-we-use-styled-components-at-decisiv-a8ac6e1507ac)
