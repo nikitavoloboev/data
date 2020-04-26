@@ -258,7 +258,7 @@ Here are few more things I liked, design wise.
 - [Monzo docs](https://monzo.com/docs/#authentication) - Love the look of it.
 - [Pretty awesome fluid animation](https://iohk.io/)
 - [Book of Bad Arguments](https://bookofbadarguments.com/)
-- [Webfont of the typeface used in Edward Tufte’s books](https://edwardtufte.github.io/et-book/)
+- [ET Book](https://edwardtufte.github.io/et-book/) - Webfont of the typeface used in Edward Tufte’s books. ([Code](https://github.com/edwardtufte/et-book))
 - [Diamond Ring designed by Jony Ive & Marc Newson](http://www.sothebys.com/en/auctions/ecatalogue/2018/red-n10000/lot.pr.9YPHM.html)
 - [Fabrizio Rinaldi](https://dribbble.com/linuz90)
 - [Jonvio](http://neue.jonvio.com/) - Slick design.
