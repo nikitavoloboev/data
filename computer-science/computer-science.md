@@ -45,3 +45,4 @@
 - [Computing for Computer Scientists (2017)](https://c4cs.github.io/archive/w18/) ([Code](https://github.com/c4cs/c4cs.github.io))
 - [NP-complete Problems and Physical Reality](https://www.scottaaronson.com/papers/npcomplete.pdf)
 - [CS Unplugged – Computer Science without a computer](https://csunplugged.org/en/) ([HN](https://news.ycombinator.com/item?id=22948055))
+- [Computer Science Readings](https://github.com/erikgrinaker/readings)

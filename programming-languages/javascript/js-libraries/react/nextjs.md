@@ -21,6 +21,7 @@
 - [next-i18next](https://github.com/isaachinman/next-i18next) - Easiest way to translate your NextJs apps.
 - [Netlify Next.js cache](https://github.com/pizzafox/netlify-cache-nextjs) - Cache the Next.js build folder in your Netlify builds.
 - [next-dark-mode](https://github.com/xeoneux/next-dark-mode) - Enable dark mode for Next.js.
+- [NextAuth](https://github.com/iaincollins/next-auth) - Authentication library for Next.js projects.
 
 ## Links
 

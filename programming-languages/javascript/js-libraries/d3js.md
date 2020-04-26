@@ -19,3 +19,4 @@
 - [Introduction to D3](https://observablehq.com/@mitvis/introduction-to-d3) ([HN](https://news.ycombinator.com/item?id=22476930))
 - [Learn D3: Introduction by Mike Bostock](https://observablehq.com/@d3/learn-d3) ([HN](https://news.ycombinator.com/item?id=22675551))
 - [D3 v5 Tutorial](https://www.sgratzl.com/d3tutorial/) ([Code](https://github.com/sgratzl/d3tutorial))
+- [WebCola](https://ialab.it.monash.edu/webcola/) - JavaScript constraint based layout for high-quality graph visualization and exploration using D3.js and other web-based graphics libraries.
