@@ -125,6 +125,10 @@ Below is a list of extensions I use.
 
 - [ShellCheck](https://github.com/timonwong/vscode-shellcheck) - ShellCheck linter for VSCode.
 
+## React
+
+- [SVGR - SVG to React](https://marketplace.visualstudio.com/items?itemName=NathHorrigan.code-svgr) - Converting SVG's to an optimized JSX file, works for both ReactJS & React Native.
+
 ## GraphQL
 
 - [GraphQuill](https://marketplace.visualstudio.com/items?itemName=sproutdeveloping.graphquill) - Performs GraphQL API endpoint testing within the VS Code environment.

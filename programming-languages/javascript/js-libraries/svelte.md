@@ -24,3 +24,4 @@
 - [Svelte Compiler Handbook](https://lihautan.com/the-svelte-compiler-handbook/) ([HN](https://news.ycombinator.com/item?id=22784153))
 - [Why Svelte is our choice for a large web project in 2020](https://github.com/feltcoop/why-svelte#readme)
 - [Svelte SSR example](https://github.com/PierBover/svelte-ssr-example)
+- [Tan Li Hau: The Svelte Compiler (2020)](https://www.youtube.com/watch?v=e2pGS1eqja8)

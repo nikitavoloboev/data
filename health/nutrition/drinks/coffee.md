@@ -13,3 +13,4 @@
 - [Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment (2020)](<https://www.cell.com/matter/fulltext/S2590-2385(19)30410-2>)
 - [How to make perfect French Press](https://www.peets.com/learn/how-to-brew-french-press)
 - [Milk Steaming For Latte Art - Barista Tutorial](https://www.youtube.com/watch?v=6YMgB61WyvE)
+- [What Cafés Did for Liberalism (2018)](https://www.newyorker.com/magazine/2018/12/24/what-cafes-did-for-liberalism) ([HN](https://news.ycombinator.com/item?id=22999128))

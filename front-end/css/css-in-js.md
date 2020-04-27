@@ -21,3 +21,4 @@
 - [Nyan CSS](https://github.com/nyancss/nyancss) - Write plain CSS while reaping benefits of CSS-in-JS.
 - [@stitches](https://github.com/christianalfoni/stitches) - Tiny configurable CSS-IN-JS library.
 - [Performance comparison of css approaches](https://github.com/jantimon/css-framework-performance)
+- [Introducing stitches - atomic CSS-IN-JS inspired by Tailwind CSS (2020)](https://www.youtube.com/watch?v=uCiWfQMUUEw)
