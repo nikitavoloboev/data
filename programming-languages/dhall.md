@@ -16,3 +16,4 @@
 - [Dhall for Kubernetes (2020)](https://christine.website/blog/dhall-kubernetes-2020-01-25) ([Lobsters](https://lobste.rs/s/v3s6vw/dhall_for_kubernetes))
 - [dhall-prometheus](https://github.com/TristanCacqueray/dhall-prometheus) - Prometheus configuration with Dhall.
 - [graph](https://github.com/Gabriel439/graph) - Dhall support for directed graphs with labeled vertices.
+- [Awesome Dhall](https://github.com/dhall-lang/awesome-dhall#readme)
