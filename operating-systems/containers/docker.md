@@ -47,3 +47,4 @@
 - [magicpak](https://github.com/coord-e/magicpak) - Build minimal docker images without static linking. ([HN](https://news.ycombinator.com/item?id=22859993))
 - [DevOps with Docker](https://devopswithdocker.com/) - Introductory course to Docker and docker-compose. ([Code](https://github.com/docker-hy/docker-hy.github.io))
 - [Bollard](https://github.com/fussybeaver/bollard) - Asynchronous rust client library for the docker API.
+- [Docker EE Operational Checklist](https://github.com/nicolaka/checklist#readme)

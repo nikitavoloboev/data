@@ -127,3 +127,4 @@
 - [Declarative Frameworks and Optimization Techniques for Developing Scalable Advanced Analytics over Databases and Data Streams (2019)](https://escholarship.org/content/qt9qb0c0zx/qt9qb0c0zx.pdf)
 - [Things I Wished More Developers Knew About Databases (2020)](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78) ([HN](https://news.ycombinator.com/item?id=22942278))
 - [toyDB](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project.
+- [Gallery of 200 database schema diagrams of open-source packages](https://drawsql.app/templates) ([HN](https://news.ycombinator.com/item?id=23006159))

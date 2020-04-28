@@ -571,6 +571,7 @@
   - [WebGL](computer-graphics/webgl.md)
   - [Metal](computer-graphics/metal.md)
   - [Vulkan](computer-graphics/vulkan.md)
+  - [OpenGL](computer-graphics/opengl.md)
   - [SVG](computer-graphics/svg.md)
 - [Tools](tools/tools.md)
   - [CodeSandbox](tools/codesandbox.md)
