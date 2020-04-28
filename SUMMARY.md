@@ -514,7 +514,7 @@
   - [Finding home](travel/finding-home.md)
   - [Transportation](travel/transportation.md)
     - [Cycling](travel/cycling.md)
-  - [Meeting people](travel/meeting-people.md)
+  - [Events](travel/events.md)
   - [Visited](travel/visited/visited.md)
     - [Netherlands](travel/visited/netherlands.md)
     - [United Kingdom](travel/visited/united-kingdom.md)
