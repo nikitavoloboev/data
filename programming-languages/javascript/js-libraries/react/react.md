@@ -123,3 +123,4 @@
 - [static-react](https://github.com/reasonml/reason-react/tree/StaticReactExperiment/explorations) - Exploration of a Reason React API that tracks the shape of render trees at the type system level.
 - [Visly](https://visly.app/) - Build React components visually. ([Article](https://visly.app/blog/designing-for-incremental-adoption))
 - [Let's recreate the Spotify UI in React (2020)](https://www.youtube.com/watch?v=rkZEWuMRY28)
+- [Women of React](https://womenofreact.com/) - Online conference where women take the (virtual) stage, but everyone is welcome to attend and participate. ([Women of React 2020](https://www.youtube.com/watch?v=K8MF3aDg-bM))

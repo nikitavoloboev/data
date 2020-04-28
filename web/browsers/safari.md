@@ -23,6 +23,7 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 ![](https://i.imgur.com/po7kXGS.png)
 
 - There's 500 open tabs limit on Safari iOS.
+- [Can right click on any DOM node in the inspector and grab a screenshot of that node](https://twitter.com/brian_lovin/status/1255208138699010048)
 
 ## Links
 
