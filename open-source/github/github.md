@@ -89,3 +89,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitBuddy](https://github.com/WeTransfer/GitBuddy) - Your buddy in managing and maintaining GitHub repositories.
 - [Triage Party](https://github.com/google/triage-party) - Tool for triaging incoming GitHub issues for large open-source projects.
 - [The Many Benefits of Good Pull Request Descriptions (+ How to Write One) (2020)](https://formidable.com/blog/2020/good-pr-descriptions/)
+- [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications.

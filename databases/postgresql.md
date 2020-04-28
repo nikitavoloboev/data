@@ -80,3 +80,4 @@
 - [pgBadger](http://pgbadger.darold.net/) - PostgreSQL log analyzer built for speed with fully detailed reports and professional rendering. ([Code](https://github.com/darold/pgbadger))
 - [pgCluu](http://pgcluu.darold.net/) - PostgreSQL performances monitoring and auditing tool. ([Code](https://github.com/darold/pgcluu))
 - [ZomboDB](https://github.com/zombodb/zombodb) - Brings powerful text-search and analytics features to Postgres by using Elasticsearch as an index type.
+- [Full Text Search in Milliseconds with Rails and PostgreSQL](https://pganalyze.com/blog/full-text-search-ruby-rails-postgres)
