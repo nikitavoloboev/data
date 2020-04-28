@@ -155,3 +155,4 @@
 - [Test262: Official ECMAScript Conformance Test Suite](https://github.com/tc39/test262)
 - [Hegel](https://github.com/JSMonk/hegel) - Advanced static type checker.
 - [NectarJS](https://github.com/NectarJS/nectarjs) - JS God mode. No VM. No Bytecode. No Garbage Collector. Full Compiled and Native binaries.
+- [Eloquent JavaScript book (2018)](https://eloquentjavascript.net/) ([HN](https://news.ycombinator.com/item?id=22990926))

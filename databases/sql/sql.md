@@ -41,3 +41,4 @@
 - [sqls](https://github.com/lighttiger2505/sqls) - Implementation of the Language Server Protocol for SQL.
 - [Compiling PL/SQL Away (2019)](https://arxiv.org/pdf/1909.03291.pdf)
 - [Constexpr SQL](https://github.com/mkitzan/constexpr-sql) - Light weight single header alternative to DBMS.
+- [SELECT wat FROM sql](https://scattered-thoughts.net/writing/select-wat-from-sql/) ([HN](https://news.ycombinator.com/item?id=22985455))

@@ -22,6 +22,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Slide](https://github.com/ccrama/Slide-iOS) - Beautiful Reddit browser for iOS.
 - [Lockdown](https://github.com/confirmedcode/lockdown-ios) - Open Source and free firewall for your iOS device.
 - [Blink Shell](https://github.com/blinksh/blink) - Professional, desktop-grade terminal for iOS that leverages the support of Mosh and SSH.
+- [a-Shell](https://holzschu.github.io/a-Shell_iOS/) - Text-based user interface for a screen-based platform. ([Code](https://github.com/holzschu/a-shell)) ([HN](https://news.ycombinator.com/item?id=22989950))
 - [OpenTrace](https://github.com/opentrace-community/opentrace-ios) - Open source reference implementation of BlueTrace.
 - [iTorrent](https://github.com/XITRIX/iTorrent) - iOS Torrent client App.
 - [TracePrivately](https://github.com/CrunchyBagel/TracePrivately) - Sample app using Apple's contact tracing framework.
@@ -143,3 +144,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS Interview Guide](https://iosinterviewguide.com/) - This book will help you prep for and ace your iOS interview.
 - [iOS Write ups](https://github.com/writeups/iOS)
 - [Aardvark](https://github.com/square/Aardvark) - Library that makes it dead simple to create actionable bug reports.
+- [ios_system](https://github.com/holzschu/ios_system) - Drop-in replacement for system() in iOS programs.
