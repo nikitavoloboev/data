@@ -73,6 +73,7 @@
 - [Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication.
 - [TerminusDB](https://terminusdb.com/) - Full featured in-memory graph database management system with a rich query language. ([Code](https://github.com/terminusdb/terminus-server)) ([HN](https://news.ycombinator.com/item?id=22867767))
 - [WhiteDB](https://github.com/priitj/whitedb) - Lightweight database library operating fully in main memory. Disk is used only for dumping/restoring database and logging.
+- [FaunaDB](https://fauna.com/) - Database built for serverless, featuring native GraphQL. ([Awesome](https://github.com/n400/awesome-faunadb#readme))
 
 ## Tools
 
