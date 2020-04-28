@@ -40,6 +40,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Exposure](https://exposure.co/) - Modern publishing platform for photographers and visual storytellers.
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.
 - [Bit.sv](https://bit.sv/) - New content network that lets anyone earn money from their interests.
+- [Kala](https://github.com/ajvb/kala) - Modern Job Scheduler.
 - [Principle](https://principleformac.com/) - Makes it easy to design animated and interactive user interfaces.
 - [Drift](https://www.drift.com/) - Connect Your Sales Teams With Your Future Customers.
 - [Yac](https://www.yac.chat/) - Asynchronous voice collaboration for remote teams.

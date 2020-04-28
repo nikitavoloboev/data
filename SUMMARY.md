@@ -617,6 +617,7 @@
   - [Freedom](privacy/freedom.md)
   - [Self hosting](privacy/self-hosting.md)
   - [Ad blocking](privacy/adblocking.md)
+  - [Tor](privacy/tor.md)
 - [Games](games/games.md)
   - [Gamedev](games/gamedev/gamedev.md)
     - [Game engines](games/gamedev/game-engines/game-engines.md)
