@@ -122,3 +122,4 @@
 - [Opinionated React: State Management (2020)](https://dev.to/farazamiruddin/opinionated-react-state-management-426a)
 - [static-react](https://github.com/reasonml/reason-react/tree/StaticReactExperiment/explorations) - Exploration of a Reason React API that tracks the shape of render trees at the type system level.
 - [Visly](https://visly.app/) - Build React components visually. ([Article](https://visly.app/blog/designing-for-incremental-adoption))
+- [Let's recreate the Spotify UI in React (2020)](https://www.youtube.com/watch?v=rkZEWuMRY28)

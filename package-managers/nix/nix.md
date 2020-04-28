@@ -96,3 +96,4 @@
 - [The journey of packaging a .NET app on Nix (2020)](https://sgt.hootr.club/molten-matter/dotnet-on-nix/)
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection.
 - [Nix IRC logs](https://logs.nix.samueldr.com/)
+- [Nix as a Homebrew replacement (2020)](https://www.youtube.com/watch?v=NYyImy-lqaA&list=PLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs)
