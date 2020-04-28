@@ -11,3 +11,4 @@
 - [Blosc](https://github.com/Blosc/c-blosc) - Blocking, shuffling and lossless compression library.
 - [wasm-flate](https://github.com/drbh/wasm-flate) - Fastest compression and decompression in the browser.
 - [zlib](https://github.com/madler/zlib) - General purpose data compression library.
+- [lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm.

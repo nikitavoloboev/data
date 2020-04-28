@@ -16,3 +16,4 @@
 - [Verifiable Credentials Data Model](https://w3c.github.io/vc-data-model/) - Expressing verifiable information on the Web. ([Code](https://github.com/w3c/vc-data-model))
 - [Authelia](https://github.com/authelia/authelia) - Single Sign-On Multi-Factor portal for web apps.
 - [DID](https://did.app/) - Identity Provider, that authenticates users by verifying access to either an email address or securely stored private key.
+- [WebAuthn Awesome](https://github.com/herrjemand/awesome-webauthn#readme) - Curated list of awesome WebAuthn/FIDO2 resources.

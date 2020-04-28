@@ -88,6 +88,7 @@
 - [Bedrock](https://github.com/Bedrock-Layouts/Bedrock) - Foundational Layout Primitives for your React App.
 - [React-Focus-On](https://github.com/theKashey/react-focus-on) - Solution for WAI ARIA compatible modal dialogs or full-screen tasks.
 - [downshift](https://github.com/downshift-js/downshift) - Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components.
+- [Muuri-React](https://github.com/Paol-imi/muuri-react) - React implementation of the amazing Muuri layout engine.
 
 ## Links
 
