@@ -243,3 +243,4 @@ Go promotes composition over inheritance.
 - [Go Tools](https://github.com/golang/tools) - Various packages and tools that support the Go programming language.
 - [Collection of Technical Interview Questions solved with Go](https://github.com/shomali11/go-interview)
 - [Go Project Design Documents](https://github.com/golang/proposal)
+- [Inlining optimisations in Go (2020)](https://dave.cheney.net/2020/04/25/inlining-optimisations-in-go)
