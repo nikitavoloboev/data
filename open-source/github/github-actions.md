@@ -37,6 +37,8 @@
 - [setup-deno](https://github.com/denolib/setup-deno) - Set up your GitHub Actions workflow with a specific version of deno.
 - [GitHub Docker Action](https://github.com/matootie/github-docker) - Build and publish your repository as a Docker image and push it to GitHub Package Registry in one easy step.
 - [Github Action which uses the Git branch as the Docker tag for pushing](https://github.com/elgohr/Publish-Docker-Github-Action)
+- [Cancel Workflow Action](https://github.com/styfle/cancel-workflow-action) - GitHub Action to cancel previous running workflows on push.
+- [turnstyle](https://github.com/softprops/turnstyle) - GitHub Action for serializing workflow runs.
 
 ## Go
 

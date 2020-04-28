@@ -283,6 +283,7 @@
 - [SwiftyTimer](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer.
 - [SwiftyUserDefaults](https://github.com/sunshinejr/SwiftyUserDefaults) - Modern Swift API for NSUserDefaults.
 - [MessagePack](https://github.com/Flight-School/MessagePack)
+- [CacheAdvance](https://github.com/dfed/CacheAdvance) - Performant cache for logging systems. CacheAdvance persists log events 30x faster than SQLite.
 
 ## Other (not lib)
 

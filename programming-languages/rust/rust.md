@@ -192,3 +192,4 @@
 - [HN: Rust Survey 2019 Results](https://news.ycombinator.com/item?id=22903375)
 - [Rust language design team notes](https://github.com/rust-lang/lang-team)
 - [Rust Stream: Ownership, Closures, and Threads (2020)](https://www.youtube.com/watch?v=2mwwYbBRJSo)
+- [Awesome Rust Streaming](https://github.com/jamesmunns/awesome-rust-streaming#readme)

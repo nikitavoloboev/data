@@ -77,3 +77,4 @@
 - [Complexities of Capacity Management for Distributed Services (2020)](https://www.youtube.com/watch?v=pOo0oKNM9I8)
 - [Hermes: a Fast, Fault-Tolerant and Linearizable Replication Protocol (2020)](https://arxiv.org/pdf/2001.09804.pdf)
 - [WormSpace: A Modular Foundation for Simple, Verifiable Distributed Systems](http://flint.cs.yale.edu/flint/publications/socc19.pdf)
+- [Paxos vs Raft: Have we reached consensus on distributed consensus? (2020)](https://arxiv.org/abs/2004.05074) ([HN](https://news.ycombinator.com/item?id=22994420))

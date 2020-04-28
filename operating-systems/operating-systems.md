@@ -30,6 +30,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Pebble](https://github.com/IsaacWoods/pebble) - Microkernel and userspace written in Rust, with first-class message passing.
 - [seL4 microkernel](https://github.com/seL4/seL4) ([Article](https://microkerneldude.wordpress.com/2020/04/07/the-sel4-foundation-what-and-why/)) ([HN](https://news.ycombinator.com/item?id=22801864))
 - [Barebones amd64 kernel built using 9front](https://github.com/majiru/barebones9)
+- [RustyHermit](https://github.com/hermitcore/libhermit-rs) - Rust-based, lightweight unikernel.
 
 ## Links
 

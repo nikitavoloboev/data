@@ -48,6 +48,7 @@
 - [use-deep-compare-effect](https://github.com/kentcdodds/use-deep-compare-effect) - React's useEffect hook, except using deep comparison on the inputs, not reference equality.
 - [react-storage-hooks](https://github.com/soyguijarro/react-storage-hooks) - Custom React hooks for keeping application state in sync with localStorage or sessionStorage.
 - [useEffectReducer](https://github.com/davidkpiano/useEffectReducer) - React hook for managing side-effects in your reducers.
+- [use-shopping-cart](https://github.com/dayhaysoos/use-shopping-cart) - React Hook that handles shopping cart state and logic for Stripe.
 
 ## Notes
 
