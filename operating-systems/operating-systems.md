@@ -85,3 +85,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Albatross](https://github.com/hannesm/albatross) - Orchestrate and manage MirageOS unikernels with Solo5.
 - [Labs for RustOS](https://tc.gts3.org/cs3210/2020/spring/lab.html)
 - [Little book about OS development](https://littleosbook.github.io/) ([Code](https://github.com/cstack/osdev))
+- [Green Threads Explained](https://c9x.me/articles/gthreads/intro.html) ([HN](https://news.ycombinator.com/item?id=14439615))
+- [Fibers under the magnifying glass (2018)](http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
