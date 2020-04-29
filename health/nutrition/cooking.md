@@ -20,3 +20,4 @@ I share some [recipes I like](recipes.md).
 - [J. Kenji López-Alt cooking videos](https://www.youtube.com/channel/UCqqJQ_cXSat0KIAVfIfKkVA)
 - [Montreal-Style Bagels](https://anitasorganic.com/montreal-style-bagels/)
 - [Notes on bread baking](https://github.com/dgryski/bread)
+- [5 Easy Veggie-Based Meals: Quarantine Cooking (2020)](https://www.youtube.com/watch?v=u0n7RP5SssM)
