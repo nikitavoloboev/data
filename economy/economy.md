@@ -28,3 +28,5 @@
 - [Economic Research at the St. Louis Fed](https://research.stlouisfed.org/about.html) - Expand the frontier of economic knowledge by producing high-quality original research in the areas of macroeconomics, money and banking, and applied microeconomics.
 - [Ask HN: What are you reading to make sense of the economy? (2020)](https://news.ycombinator.com/item?id=22861452)
 - [Stripe Press](https://press.stripe.com/) - Publishes books about economic and technological advancement.
+- [Explained | The Stock Market (2020)](https://www.youtube.com/watch?v=ZCFkWDdmXG8)
+- [The Stock Market vs. The Economy (2020)](https://www.youtube.com/watch?v=0ECqDaPjjV0)

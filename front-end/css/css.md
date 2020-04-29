@@ -132,3 +132,4 @@
 - [Pattern.css](https://bansal.io/pattern-css) - CSS only library to fill your empty background with beautiful patterns. ([Code](https://github.com/bansal-io/pattern.css)) ([HN](https://news.ycombinator.com/item?id=22933697))
 - [Watched Box](https://github.com/Heydon/watched-box) - Easiest way to get working with ResizeObserver and creating container queries with JavaScript.
 - [Hamburgers](https://jonsuh.com/hamburgers/) - Tasty CSS-animated Hamburgers. ([Code](https://github.com/jonsuh/hamburgers))
+- [Hero Generator](https://hero-generator.netlify.app/) - Create a nice hero image for your site or app. ([Code](https://github.com/sdras/hero-generator))
