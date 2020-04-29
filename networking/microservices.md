@@ -35,3 +35,4 @@
 - [Flagr](https://github.com/checkr/flagr) - Feature flagging, A/B testing and dynamic configuration microservice.
 - [Lagom](https://github.com/lagom/lagom) - Reactive Microservices for the JVM.
 - [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - Lightweight, open source API Gateway and Management Platform enables you to control who accesses your API, when they access it and how they access it.
+- [Why Segment Went Back to a Monolith (2020)](https://www.infoq.com/news/2020/04/microservices-back-again/) ([HN](https://news.ycombinator.com/item?id=23017160))
