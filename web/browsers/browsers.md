@@ -33,3 +33,4 @@
 - [Browsix](https://github.com/plasma-umass/browsix) - Unix-like operating system for the browser.
 - [Web Extensions - Shipit](https://github.com/LinusU/wext-shipit) - Automate the process of shipping Web Extensions for Chrome, Firefox, Safari, Opera and Edge.
 - [Pico](https://github.com/gripeless/pico) - Take browser screenshots in JavaScript.
+- [Can I Use](https://caniuse.com/) - Browser support tables for modern web technologies.

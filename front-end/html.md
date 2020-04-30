@@ -13,7 +13,7 @@
 - [About HTML semantics and front-end architecture (2012)](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 - [Simple HTML form for your website](https://www.staticforms.xyz/)
 - [HEAD](https://htmlhead.dev/) - List of everything that _could_ go in the head of your document.
-- [HTML Living Standard](https://html.spec.whatwg.org/multipage/)
+- [HTML Living Standard](https://html.spec.whatwg.org/)
 - [Learn to Code HTML & CSS book](https://learn.shayhowe.com/html-css/)
 - [Native HTML Autocomplete with datalist](https://codepen.io/tejask/pen/OJJBLrq)
 - [HTML isn’t done! (Chrome Dev Summit 2019)](https://www.youtube.com/watch?v=ZFvPLrKZywA)
@@ -37,3 +37,4 @@
 - [HTML is more complicated than you think (2020)](https://www.tempertemper.net/blog/html-is-more-complicated-than-you-think)
 - [X GIF](https://github.com/geelen/x-gif) - Custom element for flexible GIF playback.
 - [HTMLHint](https://htmlhint.com/) - Static code analysis tool you need for your HTML. ([Code](https://github.com/htmlhint/HTMLHint))
+- [Can I Include](https://caninclude.glitch.me/) - Understand which tag you can include in another.
