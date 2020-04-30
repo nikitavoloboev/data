@@ -194,3 +194,4 @@
 - [Rust Stream: Ownership, Closures, and Threads (2020)](https://www.youtube.com/watch?v=2mwwYbBRJSo)
 - [Awesome Rust Streaming](https://github.com/jamesmunns/awesome-rust-streaming#readme)
 - [Ferrous' Rust Experts Q&A - Contributing to Rust (2020)](https://www.youtube.com/watch?v=vaI5tWksfxg)
+- [Notes on Parsing in Rust (2020)](https://blog.wesleyac.com/posts/rust-parsing) ([Lobsters](https://lobste.rs/s/xrwozt/notes_on_parsing_rust))

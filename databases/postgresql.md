@@ -81,3 +81,4 @@
 - [pgCluu](http://pgcluu.darold.net/) - PostgreSQL performances monitoring and auditing tool. ([Code](https://github.com/darold/pgcluu))
 - [ZomboDB](https://github.com/zombodb/zombodb) - Brings powerful text-search and analytics features to Postgres by using Elasticsearch as an index type.
 - [Full Text Search in Milliseconds with Rails and PostgreSQL](https://pganalyze.com/blog/full-text-search-ruby-rails-postgres)
+- [Using PostgreSQL for JSON Storage](https://info.crunchydata.com/blog/using-postgresql-for-json-storage) ([HN](https://news.ycombinator.com/item?id=23032889))
