@@ -16,3 +16,4 @@
 - [A game in a pure language (part 1): introduction and problems with Idris (2020)](https://flowing.systems/2020/01/13/a-game-in-a-pure-language-part-1-introduction-and-problems-with-idris.html)
 - [Linearity and Erasure in Idris 2 (2020)](https://www.type-driven.org.uk/edwinb/linearity-and-erasure-in-idris-2.html)
 - [Collection of Idris snippets](https://github.com/palladin/idris-snippets)
+- [Elba](https://github.com/elba/elba) - Package manager for Idris.

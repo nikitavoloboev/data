@@ -35,3 +35,4 @@
 - [Ask HN: What are some great posts or articles about history of computing? (2020)](https://news.ycombinator.com/item?id=22907211)
 - [What We Can Learn From Software History](https://www.deconstructconf.com/2019/hillel-wayne-what-we-can-learn-from-software-history)
 - [Set of links related to computer & code history](https://github.com/v3ga/computer_history#readme)
+- [PastVu](https://pastvu.com/) - Retro view of mankind's habitat.
