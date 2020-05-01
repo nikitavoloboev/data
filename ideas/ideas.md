@@ -39,3 +39,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: What is your passive income 2019?](https://news.ycombinator.com/item?id=21389776)
 - [Ask HN: How can I pick a side project and stick with it? (2020)](https://news.ycombinator.com/item?id=22792829)
 - [Having Good Ideas (2020)](https://overcast.fm/+Y-HVeYIpY)
+- [So I’ve got this idea... (2020)](https://josefwasinski.com/posts/so-ive-got-this-idea/)

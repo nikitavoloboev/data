@@ -478,6 +478,7 @@
     - [Hasura](networking/graphql/hasura.md)
   - [SSH](networking/ssh.md)
   - [TLS](networking/tls.md)
+  - [Caddy](networking/caddy.md)
   - [Domains](networking/domains.md)
   - [QUIC](networking/quic.md)
   - [WebSocket](networking/websocket.md)

@@ -17,3 +17,4 @@
 - [Marp CLI](https://github.com/marp-team/marp-cli) - Can convert Marp / Marpit Markdown files into static HTML / CSS, PDF, PowerPoint document, and image(s) easily.
 - [Remark](https://github.com/gnab/remark) - Simple, in-browser, markdown-driven slideshow tool.
 - [Pitch](https://pitch.com/) - Helps teams build better presentations: collaboratively, effectively, and beautifully.
+- [Storytelling like Andy Raskin (2020)](https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b)

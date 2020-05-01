@@ -10,8 +10,9 @@ I use [FB groups](https://www.facebook.com/groups/) / [Marketplace](https://www.
 - [Gumtree](https://gumtree.com/)
 - [OpenRent](https://www.openrent.co.uk/)
 - [RightMove](https://www.rightmove.co.uk/)
+- [Wayhome](https://www.wayhome.co.uk/) - Homeownership with a 5% deposit.
 
-### NL
+### NL rent
 
 - [I am expat](https://www.iamexpat.nl)
 - [Only Expats](https://www.onlyexpats.nl/)

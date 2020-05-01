@@ -45,3 +45,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [video-summarizer](https://github.com/SoptikHa2/video-summarizer) - Summarizes videos into much shorter videos. Ideal for long lecture videos.
 - [Pangolin](https://github.com/stevenlovegrove/Pangolin) - Lightweight portable rapid development library for managing OpenGL display / interaction and abstracting video input.
 - [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing. ([HN](https://news.ycombinator.com/item?id=23006794))
+- [@cloudflare/stream-react](https://github.com/cloudflare/stream-react) - Official React component for Cloudflare Stream.

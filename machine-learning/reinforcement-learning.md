@@ -62,3 +62,4 @@
 - [An Optimistic Perspective on Offline Reinforcement Learning (2020)](https://ai.googleblog.com/2020/04/an-optimistic-perspective-on-offline.html)
 - [TensorSwarm](https://github.com/TensorSwarm/TensorSwarm) - Framework for reinforcement learning of robot swarms.
 - [Learning with Random Learning Rates in PyTorch](https://github.com/leonardblier/alrao)
+- [Continual Learning Literature](https://github.com/optimass/continual_learning_papers#readme)

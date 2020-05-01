@@ -18,3 +18,4 @@
 - [DID](https://did.app/) - Identity Provider, that authenticates users by verifying access to either an email address or securely stored private key.
 - [WebAuthn Awesome](https://github.com/herrjemand/awesome-webauthn#readme) - Curated list of awesome WebAuthn/FIDO2 resources.
 - [The Ultimate Guide to handling JWTs on frontend clients (GraphQL) (2019)](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/)
+- [React Google Login](https://github.com/anthonyjgrove/react-google-login) - Google oAUth Sign-in / Log-in Component for React.

@@ -55,3 +55,4 @@
 - [Bullish](https://bullish.email/) - Free daily email newsletter with information about the stock market. ([Code](https://github.com/eduardosasso/bullish))
 - [How do you find out about promising new companies? (2020)](https://www.reddit.com/r/investing/comments/g3pgax/how_do_you_find_out_about_promising_new_companies/)
 - [What is the best investing advice that you’ve ever been given? (2020)](https://www.reddit.com/r/investing/comments/g8eikm/what_is_the_best_investing_advice_that_youve_ever/)
+- [HN: How Do Insurance Companies Make Money (2020)](https://news.ycombinator.com/item?id=23040333)
