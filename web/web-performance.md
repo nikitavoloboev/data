@@ -64,3 +64,4 @@
 - [Build Size Watcher](https://github.com/codechecks/build-size-watcher) - Keep your build size in check and detect when it gets too big.
 - [Guide to Chrome's performance profiler (2020)](https://www.youtube.com/watch?v=KWM5wxlDuis)
 - [Server-Side Rendering is a Thiel Truth (2020)](https://timr.co/server-side-rendering-is-a-thiel-truth) ([Lobsters](https://lobste.rs/s/m3oacg/server_side_rendering_is_thiel_truth)) ([HN](https://news.ycombinator.com/item?id=23016635))
+- [Lighthouse CI Diff](https://googlechrome.github.io/lighthouse-ci/viewer/)
