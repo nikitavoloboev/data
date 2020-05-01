@@ -12,3 +12,4 @@
 - [simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video, voice, and data channels.
 - [WebRTC code samples](https://github.com/webrtc/samples)
 - [Password authenticated WebRTC](https://github.com/saljam/webwormhole)
+- [Pion](https://github.com/pion) - Modern and Cross Platform Stack for WebRTC. ([HN](https://news.ycombinator.com/item?id=23039348))

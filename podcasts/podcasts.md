@@ -116,6 +116,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podcast Notes](https://podcastnotes.org/)
 - [Podsync](https://github.com/mxpv/podsync) - Turn YouTube or Vimeo channels, users, or playlists into podcast feeds.
 - [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine.
+- [Podcast Search](https://atshpthmkhc-app.azurewebsites.net/) - Full Text Search on Podcasts. ([HN](https://news.ycombinator.com/item?id=23036016))
 - [Winds](https://getstream.io/winds/) - Beautiful Open Source Podcast & RSS Reader created by Stream. ([Code](https://github.com/GetStream/Winds))
 - [Mixtape](https://mixtape.preslav.me/) - Search engine for podcasts. Discover and subscribe to topics you like.
 - [Subscription podcasting is the next great business model (2019)](https://medium.com/@awilkinson/howard-stern-is-getting-ripped-off-1b721cc2f3f2) ([Tweet](https://twitter.com/awilkinson/status/1250806508553551872))

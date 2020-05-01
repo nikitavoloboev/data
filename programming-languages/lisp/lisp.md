@@ -44,3 +44,4 @@
 - [GLISP](https://github.com/baku89/glisp) - LISP-based graphic design tool.
 - [Programming Algorithms in Lisp](https://leanpub.com/progalgs)
 - [What is the best way to learn Lisp in 2020?](https://news.ycombinator.com/item?id=22913750)
+- [hy](https://github.com/hylang/hy) - Dialect of Lisp that's embedded in Python.

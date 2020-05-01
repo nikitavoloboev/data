@@ -38,6 +38,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [f-license](https://github.com/furkansenharputlu/f-license) - Open-source license creation and verification tool.
 - [Muse](https://museapp.com/) - iPad sketchbook.
 - [Exposure](https://exposure.co/) - Modern publishing platform for photographers and visual storytellers.
+- [Tara](https://tara.ai/) - Platform for modern product development. ([HN](https://news.ycombinator.com/item?id=23033387))
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.
 - [Bit.sv](https://bit.sv/) - New content network that lets anyone earn money from their interests.
 - [Kala](https://github.com/ajvb/kala) - Modern Job Scheduler.
