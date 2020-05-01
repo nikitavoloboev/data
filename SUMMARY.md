@@ -711,6 +711,7 @@
 - [CLI](cli/cli.md)
   - [sed](cli/sed.md)
   - [tmux](cli/tmux.md)
+  - [ngrok](cli/ngrok.md)
 - [Humans](humans/humans.md)
   - [Alan Watts](humans/alan-watts.md)
 - [Philanthropy](philanthropy/philanthropy.md)
