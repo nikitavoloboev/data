@@ -79,3 +79,4 @@
 - [An Introduction to APIs](https://zapier.com/learn/apis/)
 - [Paragon](https://www.useparagon.com/) - Visually create production-ready API workflows. ([HN](https://news.ycombinator.com/item?id=22813834))
 - [Saasify](https://saasify.sh/) - Handles all of the SaaS boilerplate, including user accounts, subscription billing, developer docs, and a polished marketing site.
+- [Hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight, open source API simulation tool. Using Hoverfly, you can create realistic simulations of the APIs your application depends on.
