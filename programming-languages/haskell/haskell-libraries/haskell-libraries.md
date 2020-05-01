@@ -5,6 +5,7 @@
 - [scotty](https://github.com/scotty-web/scotty)
 - [servant](https://github.com/haskell-servant/servant) - DSL for describing, serving, querying, mocking, documenting web applications and more.
 - [WAI](https://github.com/yesodweb/wai) - Interface between Haskell web frameworks and web servers.
+- [Mu](https://github.com/higherkindness/mu-haskell) - Purely functional framework for building micro services.
 
 ## DB
 

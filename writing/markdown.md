@@ -28,3 +28,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [h2m](http://tinyambition.com/h2m/) - Tool for converting HTML to Markdown, like html2markdown. ([Code](https://github.com/island205/h2m))
 - [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - Convert HTML to Markdown. Even works with whole websites.
 - [Typesetting Markdown (2020)](https://dave.autonoma.ca/blog/2019/05/22/typesetting-markdown-part-1/)
+- [Marked](https://github.com/markedjs/marked) - Markdown parser and compiler. Built for speed.

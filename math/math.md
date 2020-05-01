@@ -138,3 +138,4 @@
 - [What was the math that blew your mind the most, at any point in your physics career? (2020)](https://www.reddit.com/r/AskPhysics/comments/g4e82o/what_was_the_math_that_blew_your_mind_the_most_at/)
 - [Springer Math Books](https://link.springer.com/search?facet-discipline=%22Mathematics%22&facet-content-type=%22Book%22&facet-language=%22En%22&package=mat-covid19_textbooks)
 - [Advanced Math resources](https://drive.google.com/drive/folders/1c7XYKsq80tTjWIvggoIlCoSdgj2sxtDg)
+- [Math & Programming blog main content](https://jeremykun.com/main-content/)

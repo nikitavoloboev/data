@@ -235,6 +235,7 @@
 - [isomer](https://github.com/jdan/isomer) - Simple isometric graphics library for HTML5 canvas.
 - [Schema to Yup schema](https://github.com/kristianmandrup/schema-to-yup)
 - [Mordred](https://github.com/egoist/mordred) - Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.
+- [ASScroll](https://github.com/ashthornton-gc/asscroll) - Hybrid smooth scroll setup that combines the performance gains of virtual scroll with the reliability of native scroll.
 
 ## Links
 

@@ -70,7 +70,9 @@ I love Git and version control. And I use version control over any project I do.
 - [Delta](https://github.com/dandavison/delta) - Syntax-highlighting pager for git.
 - [Building Git](https://shop.jcoglan.com/building-git/) - Deep dive into the internals of the Git version control system.
 - [gitrs](https://github.com/haltode/gitrs) - Re-implementation of the git version control system in Rust.
+- [sourcehut](https://sourcehut.org/) - Suite of open source tools for managing git projects.
 - [Sourcehut's year in alpha (2019)](https://sourcehut.org/blog/2019-11-15-sourcehut-1-year-alpha/) ([HN](https://news.ycombinator.com/item?id=21545145))
+- [Sourcehut Project Hub](https://sourcehut.org/blog/2020-04-30-the-sourcehut-hub-is-live/) ([HN](https://news.ycombinator.com/item?id=23030489)) ([Lobsters](https://lobste.rs/s/y4zfxk/announcing_sourcehut_project_hub))
 - [Awesome Monorepo](https://github.com/korfuri/awesome-monorepo#readme) - Curated list of awesome Monorepo tools, software and architectures.
 - [rug](https://github.com/samrat/rug) - Stripped-down version of Git, implemented in Rust.
 - [Git from Beginner to Advanced](https://www.madebymike.com.au/writing/how-to-git/)

@@ -181,3 +181,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Collection of Mirrors](https://wiki.xxiivv.com/site/mirrors.html) - Collection of various notes on topics.
 - [Rules of thumb for a 1x developer (2020)](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html) ([Lobsters](https://lobste.rs/s/yjayyw/rules_thumb_for_1x_developer)) ([HN](https://news.ycombinator.com/item?id=23029489))
 - [GNU poke](http://www.jemarch.net/poke) - Interactive, extensible editor for binary data.
+- [Jeremy Kun's short essays](https://github.com/j2kun/essays)

@@ -100,3 +100,4 @@
 - [Uibook](https://github.com/vrizo/uibook) - Lightweight tool for React components visual testing with media queries.
 - [Storybook](https://storybook.js.org/) - Open source tool for developing UI components in isolation for React, Vue, and Angular. ([Code](https://github.com/storybookjs/storybook))
 - [React Libraries in 2020](https://www.robinwieruch.de/react-libraries)
+- [new-component](https://github.com/joshwcomeau/new-component) - Simple, customizable utility for adding new React components to your project.
