@@ -63,3 +63,4 @@
 - [TensorSwarm](https://github.com/TensorSwarm/TensorSwarm) - Framework for reinforcement learning of robot swarms.
 - [Learning with Random Learning Rates in PyTorch](https://github.com/leonardblier/alrao)
 - [Continual Learning Literature](https://github.com/optimass/continual_learning_papers#readme)
+- [Using Reinforcement Learning in the Algorithmic Trading Problem (2020)](https://arxiv.org/abs/2002.11523) ([HN](https://news.ycombinator.com/item?id=23022864))

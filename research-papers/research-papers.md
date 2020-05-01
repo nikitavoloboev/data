@@ -44,3 +44,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [Git annex repository of academic papers](https://github.com/ocharles/papers)
 - [Scholar Digest](https://github.com/graydon/scholar-digest) - Small script for managing google scholar alert emails.
+- [cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv) - CLI tool for exploring arXiv.
