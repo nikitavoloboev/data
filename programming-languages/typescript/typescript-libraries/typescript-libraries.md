@@ -35,6 +35,7 @@
 - [Clack](https://github.com/reasonink/clack) - Modern keyboard shortcut library written in Typescript.
 - [fx-ts](https://github.com/briancavalier/fx-ts) - Computational environments and effects for TypeScript.
 - [Gostek](https://github.com/typeofweb/functional-orm) - 100% typesafe SQL querybuilder.
+- [connection-string](https://github.com/vitaly-t/connection-string) - Advanced URL Connection String parser.
 
 ## Links
 

@@ -146,3 +146,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS Write ups](https://github.com/writeups/iOS)
 - [Aardvark](https://github.com/square/Aardvark) - Library that makes it dead simple to create actionable bug reports.
 - [ios_system](https://github.com/holzschu/ios_system) - Drop-in replacement for system() in iOS programs.
+- [The Best. iOS Sandbox Escape (2020)](https://siguza.github.io/psychicpaper/) ([HN](https://news.ycombinator.com/item?id=23045042))

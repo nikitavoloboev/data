@@ -65,3 +65,5 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [I Built A Successful Blog In One Year, And You Can Too](https://www.compiled.blog/i-built-a-successful-blog-and-you-can-too)
 - [Hylia](https://github.com/hankchizljaw/hylia) - Lightweight Eleventy starter kit to help you to create your own blog or personal website.
 - [Lobsters: Share your blog (2020)](https://lobste.rs/s/5ysabq/share_your_blog)
+- [Best blog designs I want to steal everything from (2020)](https://jonkuperman.com/best-blog-designs-2020/)
+- [Why My Blog is Closed-Source](https://joshwcomeau.com/misc/why-my-blog-is-closed-source/)
