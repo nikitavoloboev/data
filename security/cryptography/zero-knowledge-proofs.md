@@ -12,3 +12,4 @@
 - [Zero-knowledge attestation (2019)](https://www.imperialviolet.org/2019/01/01/zkattestation.html)
 - [genSTARK](https://github.com/GuildOfWeavers/genSTARK) - Library for generating zk-STARKs.
 - [Zero-Knowledge: a tutorial by Oded Goldreich](http://www.wisdom.weizmann.ac.il/~oded/zk-tut02.html)
+- [Zinc framework](https://github.com/matter-labs/zinc) - Goal of Zinc is to make writing safe zero-knowledge programs and ZKP-based smart contracts easy.

@@ -39,3 +39,4 @@
 - [Code using GADT in OCaml](https://github.com/objmagic/jaw)
 - [Freestanding OCaml runtime](https://github.com/mirage/ocaml-freestanding)
 - [Retrofitting Parallelism onto OCaml (2020)](https://arxiv.org/abs/2004.11663) ([Article](https://discuss.ocaml.org/t/multicore-update-april-2020-with-a-preprint-paper/5630))
+- [Notes and findings from our OCaml benchmarking adventures](https://github.com/ocaml-bench/notes)

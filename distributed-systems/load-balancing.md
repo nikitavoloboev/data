@@ -9,3 +9,4 @@
 - [Adventures in Rust and Load Balancers (2019)](https://medium.com/@bparli/adventures-in-rust-and-load-balancers-73a0bc61a192)
 - [Inside the GitHub Load Balancer (2020)](https://www.haproxy.com/user-spotlight-series/inside-the-github-load-balancer/)
 - [Traefik Forward Auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides OAuth/SSO login and authentication for the traefik reverse proxy/load balancer.
+- [HAProxy load balancer](https://github.com/haproxy/haproxy)
