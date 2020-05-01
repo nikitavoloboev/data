@@ -41,3 +41,4 @@ I try to give my full attention to any ideas I am working on.
 - [Having Good Ideas (2020)](https://overcast.fm/+Y-HVeYIpY)
 - [So I’ve got this idea... (2020)](https://josefwasinski.com/posts/so-ive-got-this-idea/)
 - [Awesome App Ideas](https://github.com/tastejs/awesome-app-ideas#readme)
+- [Frameworks for coming up with startup ideas (2020)](https://twitter.com/eriktorenberg/status/1243820695047421953)

@@ -46,3 +46,4 @@
 - [Incubator List](https://incubatorlist.com/) - Curated list of 350+ best startup incubators and accelerators.
 - [Liberapay](https://liberapay.com/) - Recurrent donations platform. ([HN](https://news.ycombinator.com/item?id=19270786)) ([Code](https://github.com/liberapay/liberapay.com))
 - [Funding models and progress (2020)](https://rootsofprogress.org/funding-models-and-progress) ([HN](https://news.ycombinator.com/item?id=22941884))
+- [On Deck](https://www.beondeck.com/openhouse) - Builds community around a cohort of experienced founders in the formative stages of starting a company.

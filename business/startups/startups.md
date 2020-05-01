@@ -144,6 +144,7 @@
 - [Forward Thinking Founders](https://forwardthinking.substack.com/)
 - [Startup Ideas (2019)](https://brndn.io/blog/2019/12/02/startup-ideas/)
 - [Emotional debt in startups](https://leowid.com/a-startup-debt-to-talk-about-more-emotional-debt/) ([HN](https://news.ycombinator.com/item?id=22875923))
+- [Term sheets explained](https://twitter.com/paigefinnn/status/1255208492312358912)
 
 ## Images
 
