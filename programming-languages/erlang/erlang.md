@@ -31,3 +31,4 @@
 - [Advent of Code 2019 done in Erlang videos](https://www.youtube.com/watch?v=TqzBchjZw4Q)
 - [Erlang Programming Language - Computerphile (2019)](https://www.youtube.com/watch?v=SOqQVoVai6s)
 - [History of Erlang](https://dl.acm.org/doi/abs/10.1145/1238844.1238850)
+- [Matching binary patterns with Erlang](https://dev.to/l1x/matching-binary-patterns-11kh) ([Lobsters](https://lobste.rs/s/3a9e2a/matching_binary_patterns_with_erlang))

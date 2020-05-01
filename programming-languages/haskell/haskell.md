@@ -134,3 +134,4 @@
 - [Why Haskell Matters](https://github.com/thma/WhyHaskellMatters#readme)
 - [Fast Fibonacci numbers using Monoids (2020)](http://www.haskellforall.com/2020/04/blazing-fast-fibonacci-numbers-using.html) ([HN](https://news.ycombinator.com/item?id=22946710))
 - [Permissive, then restrictive: learning how to design Haskell programs (2020)](https://williamyaoh.com/posts/2020-04-19-permissive-vs-restrictive.html)
+- [10 Reasons to Use Haskell (2020)](https://serokell.io/blog/10-reasons-to-use-haskell) ([Lobsters](https://lobste.rs/s/afq4js/10_reasons_use_haskell))

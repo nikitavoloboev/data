@@ -195,3 +195,5 @@
 - [Awesome Rust Streaming](https://github.com/jamesmunns/awesome-rust-streaming#readme)
 - [Ferrous' Rust Experts Q&A - Contributing to Rust (2020)](https://www.youtube.com/watch?v=vaI5tWksfxg)
 - [Notes on Parsing in Rust (2020)](https://blog.wesleyac.com/posts/rust-parsing) ([Lobsters](https://lobste.rs/s/xrwozt/notes_on_parsing_rust))
+- [Thread on Rust: what I like and what not (2020)](https://twitter.com/eugeneia_/status/1255803692181327872)
+- [Screencast on writing Snabb in Rust (2020)](https://mr.gy/screen/rush/)

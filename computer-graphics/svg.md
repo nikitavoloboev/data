@@ -27,3 +27,4 @@
 - [path-data-parser](https://github.com/pshihn/path-data-parser) - SVG Path Parser.
 - [points-on-path](https://github.com/pshihn/points-on-path) - Estimate point on a SVG path.
 - [Practical SVG book](https://abookapart.com/products/practical-svg)
+- [How to emulate hand-drawn shapes / Algorithms behind RoughJS (2020)](https://shihn.ca/posts/2020/roughjs-algorithms/)
