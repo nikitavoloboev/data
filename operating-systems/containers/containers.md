@@ -26,3 +26,4 @@
 - [Complete intro to containers](https://btholt.github.io/complete-intro-to-containers/) ([Code](https://github.com/btholt/complete-intro-to-containers))
 - [go-init](https://github.com/pablo-ruth/go-init) - Minimal init system for containers with pre/post hooks.
 - [Borg: The Next Generation (2020)(https://www.eurosys2020.org/wp-content/uploads/2020/04/slides/49_muhammad_tirmazi_slides.pdf) ([HN](https://news.ycombinator.com/item?id=23033180))
+- [ingraind](https://github.com/redsift/ingraind) - Security monitoring agent built around RedBPF for complex containerized environments and endpoints.

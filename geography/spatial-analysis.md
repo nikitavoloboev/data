@@ -21,3 +21,4 @@
 - [Tile38](https://github.com/tidwall/tile38) - Real-time Geospatial and Geofencing.
 - [Geobuf](https://github.com/mapbox/geobuf) - Compact binary encoding for geographic data.
 - [tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
+- [vt-pbf](https://github.com/mapbox/vt-pbf) - Serialize Mapbox Vector Tiles to binary protobufs in javascript.
