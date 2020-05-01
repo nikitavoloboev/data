@@ -24,3 +24,4 @@
 - [imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-first HTTP microservice for high-level image processing.
 - [Image Segmentation: tips and tricks from 39 Kaggle competitions (2020)](https://neptune.ai/blog/image-segmentation-tips-and-tricks-from-kaggle-competitions) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/g1okir/d_we_are_putting_together_a_list_of_image/))
 - [Instagram 3D Photo](https://github.com/cyrildiagne/instagram-3d-photo) - Chrome extension that adds a 3d photo effect to Instagram pages.
+- [Segmentation Models](https://github.com/qubvel/segmentation_models) - Segmentation models with pretrained backbones. Keras and TensorFlow Keras.

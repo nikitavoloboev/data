@@ -17,3 +17,4 @@
 - [Automation and Make](https://swcarpentry.github.io/make-novice/)
 - [Meson](https://github.com/mesonbuild/meson) - Project to create the best possible next-generation build system.
 - [mbt](https://github.com/mbtproject/mbt) - Most flexible build orchestration tool for monorepo.
+- [Earthly](https://github.com/earthly/earthly) - Run all your builds containerized.

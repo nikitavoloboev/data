@@ -7,6 +7,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Even](https://github.com/olOwOlo/hugo-theme-even) - Super concise theme for Hugo.
 - [Coder](https://github.com/luizdepra/hugo-coder/) - Minimalist blog theme for Hugo.
 - [YinYang](https://github.com/joway/hugo-theme-yinyang/) - Black-white theme for Hugo.
+- [Notepadium](https://github.com/cntrump/hugo-notepadium) - Fast Hugo theme, 100% JavaScript-free.
 
 ## Examples
 

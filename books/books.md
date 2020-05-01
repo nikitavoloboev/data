@@ -196,3 +196,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Writing a Book with Pandoc, Make, and Vim (2020)](https://keleshev.com/my-book-writing-setup/) ([HN](https://news.ycombinator.com/item?id=22854332))
 - [Library JSON - A Proposal for a Decentralized Goodreads (2020)](https://tomcritchlow.com/2020/04/15/library-json/)
 - [Springer Link](https://link.springer.com/) - Over 10 million scientific documents at your fingertips.
+- [Python script to download all Springer books](https://github.com/alexgand/springer_free_books)

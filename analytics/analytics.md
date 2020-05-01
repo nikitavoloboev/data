@@ -24,3 +24,4 @@ For user facing products, well implemented analytics will let you see how to opt
 - [RudderStack](https://rudderstack.com/) - Platform for collecting, storing and routing customer event data to dozens of tools. ([Code](https://github.com/rudderlabs/rudder-server))
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Open-source column-oriented database management system that allows generating analytical data reports in real time.
 - [OpenTelemetry API for Javascript](https://github.com/open-telemetry/opentelemetry-js) - Framework for collecting traces and metrics from applications.
+- [PostHog](https://posthog.com/) - Developer-friendly, open-source product analytics. ([Code](https://github.com/PostHog/posthog))

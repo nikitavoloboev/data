@@ -42,3 +42,4 @@
 - [snow](https://github.com/snowjs/cli) - CLI tool for dead-simple serverless Docker deployments on managed Kubernetes services. A self-hosted PaaS.
 - [AWS Amplify JS](https://github.com/aws-amplify/amplify-js) - JavaScript library for frontend and mobile developers building cloud-enabled applications.
 - [Serverless-Dev-Tools](https://github.com/Theodo-UK/sls-dev-tools) - Developer Tools for the Serverless World - think Chrome Dev Tools but for Serverless.
+- [Weave Ignite](https://github.com/weaveworks/ignite) - Open source Virtual Machine (VM) manager with a container UX and built-in GitOps management.
