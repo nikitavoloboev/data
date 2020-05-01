@@ -48,3 +48,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Ganache](https://github.com/trufflesuite/ganache) - Personal blockchain for Ethereum development.
 - [Echidna](https://github.com/crytic/echidna) - Fast Smart Contract Fuzzer.
 - [Slither](https://github.com/crytic/slither) - Solidity source analyzer.
+- [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool.

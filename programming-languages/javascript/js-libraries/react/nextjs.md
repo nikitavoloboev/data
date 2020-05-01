@@ -11,6 +11,7 @@
 - [Next + TypeScript + Yarn monorepo](https://github.com/josephluck/next-typescript-monorepo)
 - [Next.js SDK for signing in with Auth0](https://github.com/auth0/nextjs-auth0)
 - [Next.js Medium style boilerplate blog](https://github.com/maxigimenez/next-medium-blog-boilerplate)
+- [Next + Netlify Markdown Blog Starter](https://github.com/cassidoo/next-netlify-blog-starter)
 
 ## NextJS plugins
 
