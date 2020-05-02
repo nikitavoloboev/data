@@ -364,6 +364,7 @@
 - [Rustbreak](https://github.com/TheNeikos/rustbreak) - Simple, fast and easy to use self-contained single file storage for Rust.
 - [Curryrs](https://github.com/mgattozzi/curryrs) - Bridge the gap between Haskell and Rust.
 - [libm](https://github.com/rust-lang/libm) - Port of MUSL's libm to Rust.
+- [smol](https://github.com/stjepang/smol) - Small and fast async runtime for Rust.
 
 ## Cargo Plugins
 
