@@ -15,6 +15,8 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow.
 - [Telebot](https://github.com/tucnak/telebot) - Looks awesome.
 - [Telegrammer](https://github.com/givip/Telegrammer) - Written with Swift 5.0/NIO, supports Linux, macOS.
+- [Telegraphist](https://github.com/xamut/telegraphist) - Telegram Bot API on Go.
+- [Pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python.
 
 ## Links
 
@@ -29,3 +31,5 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Informer](https://github.com/paulpierre/informer) - Telegram Mass Surveillance Bot in Python. ([HN](https://news.ycombinator.com/item?id=21750353))
 - [Awesome Telegram](https://github.com/ebertti/awesome-telegram#readme) - Collection great groups, channels, bots and libraries for Telegram.
 - [List of telegram groups, channels & bots](https://github.com/goq/telegram-list#readme)
+- [Telegram Bot Code Samples](https://core.telegram.org/bots/samples)
+- [Awesome Telegram](https://github.com/serhii-londar/awesome-telegram#readme)

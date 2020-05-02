@@ -40,6 +40,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Exposure](https://exposure.co/) - Modern publishing platform for photographers and visual storytellers.
 - [Tara](https://tara.ai/) - Platform for modern product development. ([HN](https://news.ycombinator.com/item?id=23033387))
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.
+- [Nekobin](https://nekobin.com/) - Elegant and open-source pastebin service. ([Code](https://github.com/nekobin/nekobin))
 - [Bit.sv](https://bit.sv/) - New content network that lets anyone earn money from their interests.
 - [Kala](https://github.com/ajvb/kala) - Modern Job Scheduler.
 - [Principle](https://principleformac.com/) - Makes it easy to design animated and interactive user interfaces.
