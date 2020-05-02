@@ -94,3 +94,4 @@
 - [Building on solid ground: ensuring reproducible Docker builds for Python (2020)](https://pythonspeed.com/articles/reproducible-docker-builds-python/) ([Lobsters](https://lobste.rs/s/xu1lxh/building_on_solid_ground_ensuring))
 - [Python Language Server](https://github.com/palantir/python-language-server)
 - [HN: Best Practices for Working with Configuration in Python Applications (2020)](https://news.ycombinator.com/item?id=22964910)
+- [pdb++](https://github.com/pdbpp/pdbpp) - Drop-in replacement for pdb.

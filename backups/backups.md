@@ -15,6 +15,8 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Kopia](https://github.com/kopia/kopia) - Simple, cross-platform tool for managing encrypted backups in the cloud.
 - [knoxite](https://github.com/knoxite/knoxite) - Data storage & backup system.
 - [Rclone](https://github.com/rclone/rclone) - Command line program to sync files and directories to and from different cloud storage providers. ([HN](https://news.ycombinator.com/item?id=22791036))
+- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication.
+- [encbup](https://github.com/skorokithakis/encbup) - Companion to bup, the backup program. encbup adds encryption to bup, while still allowing per-file deduplication.
 
 ## Cloud Storage
 
