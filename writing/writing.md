@@ -135,3 +135,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Mise en Place Writing](https://www.swyx.io/writing/writing-mise-en-place/) ([HN](https://news.ycombinator.com/item?id=22662834))
 - [How to Write Like Naval Ravikant](https://letter.substack.com/p/write-like-naval)
 - [Few 80/20 tips for writing (2020)](https://www.indiehackers.com/post/a-few-80-20-tips-for-writing-b08941d407)
+- [Good writing is a business advantage](https://adaged.blogspot.com/2020/04/good-writing-is-business-advantage.html) ([HN](https://news.ycombinator.com/item?id=23006106))

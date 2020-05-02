@@ -13,6 +13,7 @@
 - [Marketing Yourself (without Being a Celebrity)](https://www.swyx.io/writing/marketing-yourself/)
 - [React landing page template](https://github.com/cruip/open-react-template) ([Web](https://cruip.com/))
 - [Ask HN: How to get good at social media? (2020)](https://news.ycombinator.com/item?id=22933182)
+- [Sales and marketing strategy in the time of COVID-19](https://www.notion.so/Sales-and-marketing-strategy-in-the-time-of-COVID-19-4e4589fd287c438eb863ecf66aff51e2)
 
 ## Images
 

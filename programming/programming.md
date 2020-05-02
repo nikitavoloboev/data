@@ -150,3 +150,4 @@
 - [Engineering code quality in the Firefox browser: A look at our tools and challenges (2020)](https://hacks.mozilla.org/2020/04/code-quality-tools-at-mozilla/) ([HN](https://news.ycombinator.com/item?id=22938790))
 - [Effective Engineer - Notes](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f) ([HN](https://news.ycombinator.com/item?id=16022916))
 - [Complexity Has to Live Somewhere (2020)](https://ferd.ca/complexity-has-to-live-somewhere.html) ([Lobsters](https://lobste.rs/s/emww5p/complexity_has_live_somewhere)) ([HN](https://news.ycombinator.com/item?id=23041018))
+- [Software Folklore – A collection of weird bug stories](http://beza1e1.tuxen.de/lore/index.html) ([HN](https://news.ycombinator.com/item?id=23005140))
