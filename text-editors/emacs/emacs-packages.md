@@ -24,3 +24,4 @@
 
 - [straight.el](https://github.com/raxod502/straight.el) - Next-generation, purely functional package manager for the Emacs hacker.
 - [Good Style in modern Emacs Packages](https://zge.us.to/emacs-style.html) ([Lobsters](https://lobste.rs/s/8yvyz9/good_style_modern_emacs_packages))
+- [Modalka](https://github.com/mrkkrp/modalka) - Easily introduce native modal editing of your own design.

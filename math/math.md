@@ -139,3 +139,4 @@
 - [Springer Math Books](https://link.springer.com/search?facet-discipline=%22Mathematics%22&facet-content-type=%22Book%22&facet-language=%22En%22&package=mat-covid19_textbooks)
 - [Advanced Math resources](https://drive.google.com/drive/folders/1c7XYKsq80tTjWIvggoIlCoSdgj2sxtDg)
 - [Math & Programming blog main content](https://jeremykun.com/main-content/)
+- [Project MOSAIC](http://mosaic-web.org/) - Community of educators working to develop a new way to introduce mathematics, statistics, computation and modeling to students in colleges and universities.
