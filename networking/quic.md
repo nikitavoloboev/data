@@ -14,3 +14,4 @@
 - [Accelerating UDP packet transmission for QUIC (2020)](https://blog.cloudflare.com/accelerating-udp-packet-transmission-for-quic/)
 - [QUIC draft 25 documents](https://twitter.com/SimmerVigor/status/1219802475177353217)
 - [goquic](https://github.com/devsisters/goquic) - QUIC support for Go.
+- [MsQuic](https://github.com/Microsoft/msquic) - Cross platform C implementation of the IETF QUIC protocol. ([HN](https://news.ycombinator.com/item?id=23014068))

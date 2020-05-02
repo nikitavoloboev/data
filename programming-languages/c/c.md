@@ -41,3 +41,4 @@
 - [Why should I have written ZeroMQ in C, not C++ (2012)](http://250bpm.com/blog:4)
 - [Awesome C](https://github.com/Bfgeshka/awesome-c#readme)
 - [Verified sequential malloc/free](https://www.cs.princeton.edu/~appel/papers/memmgr.pdf)
+- [Fat pointers in C using libcello](http://libcello.org/learn/a-fat-pointer-library) ([HN](https://news.ycombinator.com/item?id=23016001))
