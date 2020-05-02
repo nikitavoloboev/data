@@ -33,6 +33,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Pyto](https://github.com/ColdGrub1384/Pyto) - Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn.
 - [SwiftUI Weather](https://github.com/flexaargo/SwiftUI-Weather) - Weather app made with SwiftUI and Combine.
 - [Sketchbook iPad app](https://github.com/xiajenny/sketchbook-app) - Shared sketchbook app in metal with cool brushes and networking.
+- [Wikipedia](https://github.com/wikimedia/wikipedia-ios) - Official Wikipedia iOS app.
 
 ## Notes
 
