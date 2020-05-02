@@ -29,3 +29,4 @@
 - [Guide to becoming a modern front end developer](https://roadmap.sh/frontend) ([HN](https://news.ycombinator.com/item?id=22765861))
 - [Frontdesk](https://github.com/miripiruni/frontdesk#readme) - Community driven list of useful things for Front End Developers.
 - [Front-end Bookmarks](https://www.frontendbookmarks.com/) - Collection of articles and talks about HTML, CSS, and JS, grouped by elements, attributes, properties, selectors, methods, and expressions. ([Code](https://github.com/matuzo/front-end-bookmarks))
+- [Frontend Guidelines](https://github.com/bendc/frontend-guidelines#readme) - Some HTML, CSS and JS best practices.

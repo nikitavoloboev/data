@@ -365,6 +365,7 @@
 - [Curryrs](https://github.com/mgattozzi/curryrs) - Bridge the gap between Haskell and Rust.
 - [libm](https://github.com/rust-lang/libm) - Port of MUSL's libm to Rust.
 - [smol](https://github.com/stjepang/smol) - Small and fast async runtime for Rust.
+- [Colorous](https://github.com/dtolnay/colorous) - Color schemes for charts and maps.
 
 ## Cargo Plugins
 

@@ -125,7 +125,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Incrementally Correct Personal Websites](https://brianlovin.com/overthought/incrementally-correct-personal-websites)
 - [Mumble](https://github.com/mumble-voip/mumble) - Open source, low-latency, high quality voice chat software primarily intended for use while gaming.
 - [Performous](https://performous.org/) - Open-source music and rhythm game. ([Code](https://github.com/performous/performous))
-- [Finite State Machine Designer](http://madebyevan.com/fsm/)
 - [Next generation Plex Desktop/Embedded Client](https://github.com/plexinc/plex-media-player)
 - [Modern Day Jobs](https://moderndayjobs.com/#home) - 100 modern ways to make money online.
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness#readme)

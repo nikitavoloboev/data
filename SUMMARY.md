@@ -183,6 +183,7 @@
   - [Agile development](programming/agile-development.md)
   - [Stream processing](programming/stream-processing.md)
   - [Program analysis](programming/program-analysis.md)
+  - [State machines](programming/state-machines.md)
   - [Software testing](programming/software-testing/software-testing.md)
     - [Fuzzing](programming/software-testing/fuzzing.md)
   - [JSON](programming/json.md)

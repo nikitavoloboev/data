@@ -28,3 +28,4 @@
 - [Bundle Analyzer](https://github.com/smooth-code/bundle-analyzer) - Keep your webpack bundle optimized over time.
 - [@mixer/webpack-bundle-compare](https://github.com/mixer/webpack-bundle-compare) - Tool for comparing webpack bundle stats.
 - [Tobias Koppers's presentations](https://github.com/sokra/slides)
+- [Webpack Module Federation Examples](https://github.com/module-federation/module-federation-examples)
