@@ -43,3 +43,4 @@
 - [Constexpr SQL](https://github.com/mkitzan/constexpr-sql) - Light weight single header alternative to DBMS.
 - [SELECT wat FROM sql](https://scattered-thoughts.net/writing/select-wat-from-sql/) ([HN](https://news.ycombinator.com/item?id=22985455))
 - [Advanced SQL and database books and resources (2020)](https://www.neilwithdata.com/advanced-sql)
+- [Medium-hard SQL interview questions](https://quip.com/2gwZArKuWk7W) ([HN](https://news.ycombinator.com/item?id=23053981))
