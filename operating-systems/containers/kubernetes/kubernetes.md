@@ -179,3 +179,4 @@
 - [netshoot](https://github.com/nicolaka/netshoot) - Docker + Kubernetes network trouble-shooting swiss-army container.
 - [Domesticating Kubernetes: Kubernetes as home server on bare metal in 150 minutes (2020)](https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41) ([HN](https://news.ycombinator.com/item?id=23040030))
 - [ktunnel](https://github.com/omrikiei/ktunnel) - Expose your local resources to kubernetes.
+- [Kubeletctl](https://github.com/cyberark/kubeletctl) - Client for kubelet.

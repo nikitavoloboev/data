@@ -64,3 +64,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [ink!](https://github.com/paritytech/ink) - eDSL to write WebAssembly based smart contracts using the Rust programming language targeting Substrate blockchains.
 - [Polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation.
 - [Experimental blockchain database](https://github.com/paritytech/parity-db)
+- [@polkadot/apps](https://github.com/polkadot-js/apps) - Portal into the Polkadot and Substrate networks. Provides a view and interaction layer from a browser.

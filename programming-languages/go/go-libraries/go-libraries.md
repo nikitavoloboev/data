@@ -395,6 +395,7 @@
 - [NTP](https://github.com/facebookincubator/ntp) - Collection of Facebook's NTP libraries.
 - [Ergo](https://github.com/halturin/ergo) - Framework for creating mesh networks using technologies and design patterns of Erlang/OTP in Golang.
 - [go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go.
+- [circuitbreaker](https://github.com/rubyist/circuitbreaker) - Provides an easy way to use the Circuit Breaker pattern in a Go program.
 
 ## Links
 

@@ -25,3 +25,4 @@
 - [SIMD instructions](https://opensourceweekly.org/issues/7/) ([HN](https://news.ycombinator.com/item?id=22833299))
 - [Reverse-engineering the TL431: the most common chip you've never heard of (2014)](http://www.righto.com/2014/05/reverse-engineering-tl431-most-common.html) ([HN](https://news.ycombinator.com/item?id=22885819))
 - [X86-64 Semantics](https://github.com/kframework/X86-64-semantics) - Complete and thoroughly tested formal semantics of x86-64 to date.
+- [Efficient and performance-portable SIMD wrapper](https://github.com/google/highway)

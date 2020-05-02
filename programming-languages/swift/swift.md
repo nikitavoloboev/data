@@ -99,3 +99,4 @@
 - [Swift Interview Tips (2020)](https://www.youtube.com/playlist?list=PL8seg1JPkqgF5wazzCKSq3EEfqt3t8mvA)
 - [Example project for the "Composable Architecture"](https://github.com/finestructure/PFCompArch)
 - [SwiftGen](https://github.com/SwiftGen/SwiftGen) - Tool to auto-generate Swift code for resources of your projects, to make them type-safe to use.
+- [JSON2Codable](https://github.com/simonboots/json2codable) - Command line tool to generate a Swift Codable struct from a JSON document.

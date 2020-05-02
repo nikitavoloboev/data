@@ -68,6 +68,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Burke Libbey's notes](https://notes.burke.libbey.me/)
 - [The Commonplace Book](https://www.ralphrudd.com/)
 - [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)
+- [Nicola's decentralized-research](https://github.com/nicola/decentralized-research)
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)
 - [Wesley Moore](https://linkedlist.org/)
 - [Slides of Chen Hui Jing](https://github.com/huijing/slides)

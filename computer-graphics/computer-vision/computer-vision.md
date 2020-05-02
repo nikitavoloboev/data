@@ -48,3 +48,4 @@
 - [Awesome Super Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution#readme)
 - [Adversarial Latent Autoencoders](https://github.com/podgorskiy/ALAE)
 - [ElasticFusion](https://github.com/mp3guy/ElasticFusion) - Real-time dense visual SLAM system capable of capturing comprehensive dense globally consistent surfel-based maps of room scale environments explored using an RGB-D camera.
+- [StegaStamp: Invisible Hyperlinks in Physical Photographs](https://github.com/tancik/StegaStamp)
