@@ -16,3 +16,4 @@
 
 - [gov.uk](https://www.gov.uk/) - Best place to find government services and information.
 - [Fidelty](https://www.fidelity.co.uk/) - Bring your pensions together.
+- [Postcode & Geolocation API for the UK](https://postcodes.io/) - Query for UK postcodes and geolocations over HTTP.

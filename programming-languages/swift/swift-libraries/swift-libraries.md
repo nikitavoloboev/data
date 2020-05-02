@@ -57,6 +57,7 @@
 - [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) - Lets you create popups with a blurred background.
 - [Sliders](https://github.com/kieranb662/Sliders) - Collection of unique fully customizable SwiftUI sliders.
 - [Mantis](https://github.com/guoyingtao/Mantis) - Photo cropping tool which mimics Photo.app written by Swift.
+- [NewYorkAlert](https://github.com/shiba1014/NewYorkAlert) - Modern alert and action sheet for iOS written in Swift.
 - [SwipeTransition](https://github.com/tattn/SwipeTransition) - Allows trendy transitions using swipe gesture such as "swipe back anywhere".
 - [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - Very flexible message bar for iOS written in Swift.
 - [Purchases](https://github.com/RevenueCat/purchases-ios) - iOS subscriptions and purchases made easy.

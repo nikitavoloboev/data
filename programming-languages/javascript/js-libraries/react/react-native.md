@@ -77,3 +77,4 @@
 - [Restyle](https://github.com/Shopify/restyle) - Type-enforced system for building UI components in React Native with TypeScript.
 - [Background Fetch](https://github.com/transistorsoft/react-native-background-fetch) - Periodic callbacks in the background for both iOS and Android.
 - [Redux Debugger Plugin for Flipper](https://github.com/jk-gan/flipper-plugin-redux-debugger)
+- [React Native Performance Monitor](https://github.com/BulletTrainHQ/react-native-performance-monitor) - Realtime graphing of React Native render performance.
