@@ -288,6 +288,7 @@
 - [SwiftyUserDefaults](https://github.com/sunshinejr/SwiftyUserDefaults) - Modern Swift API for NSUserDefaults.
 - [MessagePack](https://github.com/Flight-School/MessagePack)
 - [CacheAdvance](https://github.com/dfed/CacheAdvance) - Performant cache for logging systems. CacheAdvance persists log events 30x faster than SQLite.
+- [Table](https://github.com/ShawnBaek/Table) - Helper function to print the table.
 
 ## Other (not lib)
 

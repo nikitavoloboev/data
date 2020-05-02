@@ -394,6 +394,7 @@
 - [combinator](https://github.com/muesli/combinator) - Generates a slice of all possible value combinations for any given struct.
 - [NTP](https://github.com/facebookincubator/ntp) - Collection of Facebook's NTP libraries.
 - [Ergo](https://github.com/halturin/ergo) - Framework for creating mesh networks using technologies and design patterns of Erlang/OTP in Golang.
+- [go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go.
 
 ## Links
 
