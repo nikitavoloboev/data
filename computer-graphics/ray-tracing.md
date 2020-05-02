@@ -17,4 +17,4 @@
 - [RayTracer.jl](https://github.com/avik-pal/RayTracer.jl) - Ray Tracer written completely in Julia.
 - [Ray Tracing Essentials (2020)](https://www.youtube.com/playlist?list=PL5B692fm6--sgm8Uiava0IIvUojjFOCSR)
 - [Rayt](https://github.com/Dalamar42/rayt) - Monte Carlo ray tracer developed using Rust.
-- [Ray Tracing with POV-Ray](https://github.com/spcask/pov-ray-tracing) ([Lobsters](https://lobste.rs/s/qczs5u/ray_tracing_with_pov_ray_25_scenes_25_days))
+- [Ray Tracing with POV-Ray](https://github.com/spcask/pov-ray-tracing) ([Lobsters](https://lobste.rs/s/qczs5u/ray_tracing_with_pov_ray_25_scenes_25_days)) ([HN](https://news.ycombinator.com/item?id=23042993))
