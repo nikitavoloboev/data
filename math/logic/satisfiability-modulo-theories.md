@@ -11,3 +11,4 @@
 - [MC2](https://github.com/c-cube/mc2) - Modular SMT solver in OCaml, based on the MCSat calculus.
 - [Verifying the DPLL Algorithm in Dafny](https://arxiv.org/pdf/1909.01743.pdf)
 - [Simple Fixpoint Iteration To Solve Parity Games](https://arxiv.org/pdf/1909.07659.pdf)
+- [SAT solver written in Rust](https://github.com/jix/varisat)

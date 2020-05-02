@@ -51,6 +51,7 @@
 - [useEffectReducer](https://github.com/davidkpiano/useEffectReducer) - React hook for managing side-effects in your reducers.
 - [use-shopping-cart](https://github.com/dayhaysoos/use-shopping-cart) - React Hook that handles shopping cart state and logic for Stripe.
 - [React Cool Inview](https://github.com/wellyshen/react-cool-inview) - React hook to monitor an element enters or leaves the viewport (or another element).
+- [use-is-in-viewport](https://github.com/zeusdeux/use-is-in-viewport) - React hook to find out if an element is in a given viewport with a simple api.
 
 ## Notes
 

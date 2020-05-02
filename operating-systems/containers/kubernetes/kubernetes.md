@@ -180,3 +180,4 @@
 - [Domesticating Kubernetes: Kubernetes as home server on bare metal in 150 minutes (2020)](https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41) ([HN](https://news.ycombinator.com/item?id=23040030))
 - [ktunnel](https://github.com/omrikiei/ktunnel) - Expose your local resources to kubernetes.
 - [Kubeletctl](https://github.com/cyberark/kubeletctl) - Client for kubelet.
+- [Coding a real-time dashboard for Kubernetes](https://learnk8s.io/real-time-dashboard)

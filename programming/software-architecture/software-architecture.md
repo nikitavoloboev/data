@@ -59,3 +59,4 @@
 - [Functional Design Patterns - Scott Wlaschin (2017)](https://www.youtube.com/watch?v=srQt1NAHYC0)
 - [Combining event sourcing and stateful systems (2020)](https://stitcher.io/blog/combining-event-sourcing-and-stateful-systems)
 - [Solution Architecture links, articles, books, video lessons](https://github.com/unlight/solution-architecture#readme)
+- [Increment](https://increment.com/) - Print and digital magazine about how teams build and operate software systems at scale..

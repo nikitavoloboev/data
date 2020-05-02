@@ -29,3 +29,4 @@
 - [TensorFlow Quantum](https://github.com/tensorflow/quantum) - Python framework for hybrid quantum-classical machine learning that is primarily focused on modeling quantum data.
 - [Brief History of Quantum Computers (2020)](https://thecomputation.com/2020/03/19/brief-history-of-quantum-computing.html)
 - [Lecture Notes on Quantum Computation (2020)](https://github.com/mdnls/cs7805-final-presentation)
+- [discopy](https://github.com/oxford-quantum-group/discopy) - Toolbox for computing with monoidal categories.

@@ -8,3 +8,4 @@
 - [Sorbet](https://sorbet.org/) - Fast, powerful type checker designed for Ruby. ([OSS](https://github.com/sorbet/sorbet))
 - [Referral](https://github.com/testdouble/referral) - Scan for definitions and references in your Ruby code.
 - [Artichoke](https://github.com/artichoke/artichoke) - Ruby made with Rust.
+- [rubyfmt](https://github.com/penelopezone/rubyfmt) - Ruby Autoformatter.

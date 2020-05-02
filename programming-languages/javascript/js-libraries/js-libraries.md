@@ -237,6 +237,7 @@
 - [Mordred](https://github.com/egoist/mordred) - Source data from anywhere, for Next.js, Nuxt.js, Eleventy and many more.
 - [ASScroll](https://github.com/ashthornton-gc/asscroll) - Hybrid smooth scroll setup that combines the performance gains of virtual scroll with the reliability of native scroll.
 - [Gallery](https://github.com/bendc/gallery) - Light, responsive, and performant JavaScript gallery.
+- [Logux Server](https://github.com/logux/server) - Build own Logux server or make proxy between WebSocket and HTTP backend on any language.
 
 ## Links
 

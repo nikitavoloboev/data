@@ -100,3 +100,4 @@
 - [Intermediate Linux command line tutorial (2017)](https://www.jayconrod.com/posts/103/intermediate-linux-command-line-tutorial)
 - [Operating Systems Without Systemd (2020)](https://annihilatormodule.com/2020-01-18/systemd-archives) ([HN](https://news.ycombinator.com/item?id=23047885))
 - [Hunting a Linux kernel bug (2020)](https://blog.twitter.com/engineering/en_us/topics/open-source/2020/hunting-a-linux-kernel-bug.html) ([HN](https://news.ycombinator.com/item?id=23005467))
+- [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor.

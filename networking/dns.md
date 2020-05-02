@@ -26,3 +26,4 @@
 - [NextDNS](https://nextdns.io/) - Block ads, trackers and malicious websites on all your devices. ([Article](https://angristan.xyz/2020/04/nextdns/)) ([HN](https://news.ycombinator.com/item?id=22854209))
 - [NextDNS CLI Client (DoH Proxy)](https://github.com/nextdns/nextdns)
 - [grimd](https://github.com/looterz/grimd) - Fast dns proxy that can run anywhere, built to black-hole internet advertisements and malware servers.
+- [Stubby](https://github.com/getdnsapi/stubby) - Application that acts as a local DNS Privacy stub resolver (using DNS-over-TLS).
