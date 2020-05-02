@@ -20,3 +20,4 @@
 - [Learn D3: Introduction by Mike Bostock](https://observablehq.com/@d3/learn-d3) ([HN](https://news.ycombinator.com/item?id=22675551))
 - [D3 v5 Tutorial](https://www.sgratzl.com/d3tutorial/) ([Code](https://github.com/sgratzl/d3tutorial))
 - [WebCola](https://ialab.it.monash.edu/webcola/) - JavaScript constraint based layout for high-quality graph visualization and exploration using D3.js and other web-based graphics libraries.
+- [Rendering One Million Datapoints with D3 and WebGL (2020)](https://blog.scottlogic.com/2020/05/01/rendering-one-million-points-with-d3.html)

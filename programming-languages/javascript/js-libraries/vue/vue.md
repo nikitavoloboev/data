@@ -14,3 +14,4 @@
 - [Vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js
 - [Build a DEV.TO clone with Nuxt new fetch (2020)](https://nuxtjs.org/blog/build-dev-to-clone-with-nuxt-new-fetch)
 - [Vite](https://github.com/vuejs/vite) - Experimental no-bundle dev server for Vue SFCs.
+- [Building a real-time patient monitoring system with Go and Vue](https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/) ([HN](https://news.ycombinator.com/item?id=23051242))

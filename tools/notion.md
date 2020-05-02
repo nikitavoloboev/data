@@ -13,3 +13,4 @@
 - [reacti-notion](https://github.com/splitbee/react-notion) - Blazing fast React renderer for Notion pages.
 - [The Cascading Productivity System](https://jmulholland.com/cascading-productivity-system/)
 - [Notion API Worker](https://github.com/splitbee/notion-api-worker) - Notion as CMS with easy API access.
+- [Notion encourages busy-work and I’m tired of it (2020)](https://medium.com/diesdas-direct/notion-encourages-busy-work-and-im-tired-of-it-b1e049edb663) ([HN](https://news.ycombinator.com/item?id=23050204))

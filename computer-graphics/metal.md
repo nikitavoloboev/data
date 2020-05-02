@@ -8,3 +8,4 @@
 - [Raw Metal](https://alain.xyz/blog/raw-metal) - Overview on how to write modern Apple Metal applications. Learn what key data structures are needed for it and how to draw objects.
 - [metal-rs](https://github.com/gfx-rs/metal-rs) - Rust bindings for Metal.
 - [Point-cloud made from 3d data with Metal](https://github.com/roberthein/Metal-Point-Cloud)
+- [HN: Valve drops VR support for macOS (2020)](https://news.ycombinator.com/item?id=23047348)

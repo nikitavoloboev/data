@@ -70,3 +70,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Archiving URLs](https://www.gwern.net/Archiving-URLs)
 - [Main-thread Scheduling API](https://github.com/WICG/main-thread-scheduling)
 - [The Open Web Is Dying (2020)](https://perezbox.com/2020/04/the-open-web-is-dying/) ([HN](https://news.ycombinator.com/item?id=23026998))
+- [Gemini – A new, collaboratively designed internet protocol](https://gemini.circumlunar.space/) ([HN](https://news.ycombinator.com/item?id=23042424))
