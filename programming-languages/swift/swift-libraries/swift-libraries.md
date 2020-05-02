@@ -92,6 +92,7 @@
 - [AStack](https://github.com/zntfdr/AStack) - Missing SwiftUI Adaptive and Accessible Stacks Library.
 - [SwiftUI Settings Screen](https://github.com/rudrankriyam/SwiftUI-Settings-Screen) - Beautiful settings screen created in SwiftUI.
 - [Swift Request](https://github.com/carson-katri/swift-request) - Declarative HTTP networking, designed for SwiftUI.
+- [PartialSheet](https://github.com/AndreaMiotto/PartialSheet) - Custom SwiftUI modifier to present a Partial Modal Sheet based on his content size.
 
 ## Test
 

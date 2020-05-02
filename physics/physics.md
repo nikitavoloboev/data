@@ -72,3 +72,4 @@
 - [Quantum Fields: The Real Building Blocks of the Universe - David Tong (2017)](https://www.youtube.com/watch?v=zNVQfWC_evg)
 - [David Tong's research papers](https://arxiv.org/a/tong_d_1.html)
 - [Are quantum fields in any way similar to classical fields? (2020)](https://www.reddit.com/r/askscience/comments/fo4igl/are_quantum_fields_in_any_way_similar_to/)
+- [QED: The Strange Theory of Light and Matter (2020)](https://medium.com/cantors-paradise/qed-the-strange-theory-of-light-and-matter-df50782b1651) ([Reddit](https://www.reddit.com/r/Physics/comments/gc3mp8/qed_the_strange_theory_of_light_and_matter/))
