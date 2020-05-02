@@ -393,6 +393,7 @@
 - [channels](https://github.com/eapache/channels) - Collection of helper functions and special types for working with and extending Go's existing channels.
 - [combinator](https://github.com/muesli/combinator) - Generates a slice of all possible value combinations for any given struct.
 - [NTP](https://github.com/facebookincubator/ntp) - Collection of Facebook's NTP libraries.
+- [Ergo](https://github.com/halturin/ergo) - Framework for creating mesh networks using technologies and design patterns of Erlang/OTP in Golang.
 
 ## Links
 
