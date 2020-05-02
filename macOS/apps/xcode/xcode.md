@@ -44,3 +44,4 @@
 - [SwiftLee's Xcode posts](https://www.avanderlee.com/category/xcode/)
 - [xcode-ast-dump](https://github.com/keith/xcode-ast-dump) - Simple script for dumping the Swift AST from within Xcode.
 - [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) - Reclaim tens of gigabytes of your storage used for various Xcode caches.
+- [nef](https://github.com/bow-swift/nef) - Steroids for Xcode Playgrounds.

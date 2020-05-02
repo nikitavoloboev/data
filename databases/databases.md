@@ -132,3 +132,5 @@
 - [MySQL sharding at Quora](https://www.quora.com/q/quoraengineering/MySQL-sharding-at-Quora?share=1) ([HN](https://news.ycombinator.com/item?id=22987242))
 - [Database Internals book](https://www.databass.dev/) - Deep Dive Into How Distributed Data Systems Work.
 - [Fast and maintainable patterns for fetching from a database (2020)](https://sophiebits.com/2020/01/01/fast-maintainable-db-patterns.html)
+- [DbCleaner](https://github.com/khaiql/dbcleaner) - Clean database for testing, inspired by database_cleaner for Ruby.
+- [polluter](https://github.com/romanyx/polluter) - Easiest solution to seed database with Go.

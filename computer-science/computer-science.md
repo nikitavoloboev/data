@@ -46,3 +46,4 @@
 - [NP-complete Problems and Physical Reality](https://www.scottaaronson.com/papers/npcomplete.pdf)
 - [CS Unplugged – Computer Science without a computer](https://csunplugged.org/en/) ([HN](https://news.ycombinator.com/item?id=22948055))
 - [Computer Science Readings](https://github.com/erikgrinaker/readings)
+- [State Machine In Real Life](https://www.solipsys.co.uk/new/StateMachineInRealLife.html?te02lo) ([Lobsters](https://lobste.rs/s/3exvcc/state_machine_real_life))

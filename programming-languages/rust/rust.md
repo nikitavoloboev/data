@@ -198,3 +198,4 @@
 - [Thread on Rust: what I like and what not (2020)](https://twitter.com/eugeneia_/status/1255803692181327872)
 - [Screencast on writing Snabb in Rust (2020)](https://mr.gy/screen/rush/)
 - [From Rust to WebAssembly: building an interactive note-taking webapp with Actix & Yew (2020)](https://www.luu.io/posts/lenote/)
+- [Async interviews: my take thus far (2020)](http://smallcultfollowing.com/babysteps/blog/2020/04/30/async-interviews-my-take-thus-far/)
