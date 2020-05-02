@@ -56,3 +56,4 @@
 - [SuperCollider](https://github.com/supercollider/supercollider) - Platform for audio synthesis and algorithmic composition, used by musicians, artists, and researchers working with sound.
 - [Using locks in real-time audio processing, safely (2020)](https://timur.audio/using-locks-in-real-time-audio-processing-safely)
 - [JACK2](https://github.com/jackaudio/jack2) - C++ version of the JACK low-latency audio server for multi-processor machines.
+- [Web Audio API: Musically-aware scheduling and Dynamic looping (2016)](https://jakearchibald.com/2016/sounds-fun/) ([HN](https://news.ycombinator.com/item?id=23046420))

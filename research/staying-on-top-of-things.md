@@ -79,6 +79,7 @@ And these Discord servers:
 - [Atlas Obscura](https://www.atlasobscura.com/)
 - [Logic Magazine](https://logicmag.io/)
 - [Glimmer](https://glitch.com/glimmer/)
+- [Physics Today](https://physicstoday.scitation.org/journal/pto) ([HN](https://news.ycombinator.com/item?id=23043525))
 
 ### Other
 

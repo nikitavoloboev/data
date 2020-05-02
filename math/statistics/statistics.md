@@ -27,3 +27,4 @@
 - [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
 - [At the Interface of Algebra and Statistics (2020)](https://www.youtube.com/watch?v=wiadG3ywJIs) ([Article](https://www.math3ma.com/blog/at-the-interface-of-algebra-and-statistics))
 - [The Ten Best Ideas in Statistics (2013)](https://www.naftaliharris.com/blog/ten-stat-ideas/)
+- [Comprehensive Tutorial on Time Series Modelling and Forecasting](https://kanoki.org/2020/04/30/time-series-analysis-and-forecasting-with-arima-python/) ([HN](https://news.ycombinator.com/item?id=23041264))
