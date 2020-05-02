@@ -124,6 +124,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [Skribble](https://www.skribble.com/) - Legally binding electronic signatures.
 - [gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec.
+- [Pantry](https://getpantry.cloud/) - Free data storage as a service. A good resource when building personal projects, apps for hackathons, and prototypes alike. ([Code](https://github.com/imRohan/Pantry))
 - [parinfer-rust](https://github.com/eraserhd/parinfer-rust) - Infer parentheses for Clojure, Lisp and Scheme.
 - [Gistlink](https://github.com/lukejacksonn/gistlink) - JavaScript sandbox environments that you can share via URL.
 - [Glide](https://www.glideapps.com/) - Create a mobile app from a Google Sheet in 5 minutes, for free.

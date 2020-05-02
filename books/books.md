@@ -158,6 +158,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Reading List of Ben Congdon](https://benjamincongdon.me/books)
 - [Rafaël Garcia-Suarez's books read](http://consttype.org/books.html)
 - [Books I recommend to my software engineering students (2020)](http://web.eecs.utk.edu/~azh/blog/booksformystudents.html) ([HN](https://news.ycombinator.com/item?id=22962869))
+- [Calvin French-Owen's bookshelf](https://calv.info/bookshelf)
 
 ## Notes
 

@@ -390,6 +390,7 @@
 - [nmap](https://github.com/Ullaakut/nmap) - Idiomatic nmap library for go developers.
 - [Fx](https://github.com/uber-go/fx) - Dependency injection based application framework for Go.
 - [channels](https://github.com/eapache/channels) - Collection of helper functions and special types for working with and extending Go's existing channels.
+- [combinator](https://github.com/muesli/combinator) - Generates a slice of all possible value combinations for any given struct.
 
 ## Links
 
