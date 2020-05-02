@@ -58,3 +58,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Awake Security](https://awakesecurity.com/) - Advanced Network Traffic Analysis Solution.
 - [A Defender’s Guide For Rootkit Detection: Episode 1 – Kernel Drivers (2020)](https://labs.jumpsec.com/2020/04/20/a-defenders-guide-for-rootkit-detection-episode-1-kernel-drivers/?preview=true)
 - [OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware.
+- [Hacker tools on Go](https://github.com/dreddsa5dies/goHackTools)
