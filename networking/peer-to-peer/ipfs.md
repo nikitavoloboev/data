@@ -25,3 +25,4 @@ I especially like the distinction of distributing content over distributing link
 - [Terminal](https://terminal.co/) - Everything you need to build fast modern websites hosted on IPFS.
 - [Anytype](https://anytype.io/) - Operating environment for the new internet.
 - [IPFS Protocol docs](https://github.com/ipfs/ipfs#readme)
+- [IPFS 0.5.0](https://blog.ipfs.io/2020-04-28-go-ipfs-0-5-0/) ([HN](https://news.ycombinator.com/item?id=23010245))

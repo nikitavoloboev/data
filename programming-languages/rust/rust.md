@@ -199,3 +199,4 @@
 - [Screencast on writing Snabb in Rust (2020)](https://mr.gy/screen/rush/)
 - [From Rust to WebAssembly: building an interactive note-taking webapp with Actix & Yew (2020)](https://www.luu.io/posts/lenote/)
 - [Async interviews: my take thus far (2020)](http://smallcultfollowing.com/babysteps/blog/2020/04/30/async-interviews-my-take-thus-far/)
+- [How we use Rust in our mobile SDK (2020)](https://bionic.fullstory.com/rust-at-fullstory-part-2/) ([HN](https://news.ycombinator.com/item?id=23008399))

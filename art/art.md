@@ -146,6 +146,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [How Soviet Science Magazines Fantasized About Life in Outer Space](https://www.atlasobscura.com/articles/soviet-space-graphics) ([HN](https://news.ycombinator.com/item?id=22607279))
 - [Potato Dog and Cardboard Cat Comics](http://www.potatodogcomics.com/)
 - [Enchanting Paintings Capture the Twinkling Rooftops of Paris at Twilight](https://mymodernmet.com/evgeny-lushpin-paris-paintings/)
+- [British Museum makes 1.9M images available for free](https://www.ianvisits.co.uk/blog/2020/04/28/british-museum-makes-1-9-million-images-available-for-free/) ([HN](https://news.ycombinator.com/item?id=23010435))
 
 ## Photography
 

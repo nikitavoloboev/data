@@ -124,3 +124,5 @@
 - [Visly](https://visly.app/) - Build React components visually. ([Article](https://visly.app/blog/designing-for-incremental-adoption))
 - [Let's recreate the Spotify UI in React (2020)](https://www.youtube.com/watch?v=rkZEWuMRY28)
 - [Women of React](https://womenofreact.com/) - Online conference where women take the (virtual) stage, but everyone is welcome to attend and participate. ([Women of React 2020](https://www.youtube.com/watch?v=K8MF3aDg-bM))
+- [When does React re-render components?](https://felixgerschau.com/react-rerender-components) ([HN](https://news.ycombinator.com/item?id=23004848))
+- [What I wish I knew about React (2020)](https://bitsofco.de/what-i-wish-i-knew-about-react/) ([HN](https://news.ycombinator.com/item?id=23005929))

@@ -16,3 +16,4 @@
 - [Ask HN: How do you make sure your servers are up as a single founder? (2020)](https://news.ycombinator.com/item?id=21461617)
 - [CTO.ai](https://cto.ai/) - Allows you and your software development team to implement DevOps automations in minutes rather than days.
 - [Deploys at Slack (2020)](https://slack.engineering/deploys-at-slack-cd0d28c61701)
+- [We Need DevOps for ML Data (2020)](https://tecton.ai/blog/devops-ml-data/) ([HN](https://news.ycombinator.com/item?id=23011297))
