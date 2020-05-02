@@ -39,3 +39,4 @@
 - [Playstation Architecture: A Practical Analysis ](https://copetti.org/projects/consoles/playstation/) ([HN](https://news.ycombinator.com/item?id=22932134))
 - [Breadbee](https://github.com/breadbee/breadbee) - Breadboard-able Cortex A7 dev board.
 - [Repository for Open Source Mouse Firmware and Hardware](https://github.com/biomurph/Mouse) ([HN](https://news.ycombinator.com/item?id=23041747))
+- [Hacking Together an E-ink Dashboard (2020)](https://healeycodes.com/hacking-together-an-e-ink-dashboard/) ([Lobsters](https://lobste.rs/s/gmyqqk/hacking_together_e_ink_dashboard))

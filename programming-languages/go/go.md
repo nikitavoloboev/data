@@ -246,3 +246,4 @@ Go promotes composition over inheritance.
 - [Inlining optimisations in Go (2020)](https://dave.cheney.net/2020/04/25/inlining-optimisations-in-go)
 - [Examples for my talk on structuring Go apps](https://github.com/katzien/go-structure-examples)
 - [Rob Pike interview: “Go has indeed become the language of cloud infrastructure“ (2020)](https://evrone.com/rob-pike-interview) ([HN](https://news.ycombinator.com/item?id=23031778))
+- [I think you should generally be using the latest version of Go (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionsMyView) ([Lobsters](https://lobste.rs/s/xwedeg/i_think_you_should_generally_be_using))
