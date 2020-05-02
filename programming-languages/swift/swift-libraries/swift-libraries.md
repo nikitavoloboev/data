@@ -60,6 +60,7 @@
 - [SwipeTransition](https://github.com/tattn/SwipeTransition) - Allows trendy transitions using swipe gesture such as "swipe back anywhere".
 - [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - Very flexible message bar for iOS written in Swift.
 - [Purchases](https://github.com/RevenueCat/purchases-ios) - iOS subscriptions and purchases made easy.
+- [ConfettiView](https://github.com/NSHipster/ConfettiView) - View that emits confetti with shapes, images, and text of your choosing for a specified duration, and then fades out.
 
 ## macOS
 

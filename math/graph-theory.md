@@ -11,3 +11,4 @@
 - [Rainbow Proof Shows Graphs Have Uniform Parts (2020)](https://www.quantamagazine.org/mathematicians-prove-ringels-graph-theory-conjecture-20200219/)
 - [MIDAS: Real-Time Streaming Anomaly Detection in Dynamic Graphs](https://github.com/bhatiasiddharth/MIDAS) ([HN](https://news.ycombinator.com/item?id=22802604))
 - [MIDAS in Go](https://github.com/steve0hh/midas)
+- [Algebraic Graphs with Class](https://github.com/snowleopard/alga-paper)

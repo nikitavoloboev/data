@@ -183,3 +183,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [GNU poke](http://www.jemarch.net/poke) - Interactive, extensible editor for binary data.
 - [Jeremy Kun's short essays](https://github.com/j2kun/essays)
 - [Healthchecks](https://healthchecks.io/) - Simple and Effective Cron Job Monitoring. ([Code](https://github.com/healthchecks/healthchecks))
+- [Neutralino](https://github.com/neutralinojs/neutralinojs) - Lightweight and portable application development framework. It lets you develop cross-platform applications using JavaScript/TypeScript, HTML and CSS.

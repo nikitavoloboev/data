@@ -63,3 +63,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Icons for PlantUML](https://github.com/awslabs/aws-icons-for-plantuml)
 - [Simple storage pricing calculator for AWS](https://www.duckbillgroup.com/aws-super-simple-storage-calculator/) ([HN](https://news.ycombinator.com/item?id=22971656))
 - [AWS SDK for JavaScript](https://github.com/aws/aws-sdk-js-v3)
+- [S3Proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API.
