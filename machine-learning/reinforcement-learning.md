@@ -66,3 +66,4 @@
 - [Using Reinforcement Learning in the Algorithmic Trading Problem (2020)](https://arxiv.org/abs/2002.11523) ([HN](https://news.ycombinator.com/item?id=23022864))
 - [Unsupervised Meta-Learning: Learning to Learn without Supervision (2020)](https://bair.berkeley.edu/blog/2020/05/01/umrl/)
 - [metric-learn](https://github.com/scikit-learn-contrib/metric-learn) - Metric Learning in Python.
+- [Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels](https://sites.google.com/view/data-regularized-q) ([Code](https://github.com/denisyarats/drq))
