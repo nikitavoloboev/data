@@ -130,3 +130,4 @@
 - [toyDB](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as a learning project.
 - [Gallery of 200 database schema diagrams of open-source packages](https://drawsql.app/templates) ([HN](https://news.ycombinator.com/item?id=23006159))
 - [MySQL sharding at Quora](https://www.quora.com/q/quoraengineering/MySQL-sharding-at-Quora?share=1) ([HN](https://news.ycombinator.com/item?id=22987242))
+- [Database Internals book](https://www.databass.dev/) - Deep Dive Into How Distributed Data Systems Work.

@@ -24,3 +24,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [CLI: improved (2018)](https://remysharp.com/2018/08/23/cli-improved)
 - [Awesome CLI apps](https://github.com/agarrharr/awesome-cli-apps#readme)
 - [Fast Searching with ripgrep (2020)](https://mariusschulz.com/blog/fast-searching-with-ripgrep)
+- [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html) ([HN](https://news.ycombinator.com/item?id=23048054))

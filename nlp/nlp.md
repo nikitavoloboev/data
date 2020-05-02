@@ -91,3 +91,4 @@
 - [The Cost of Training NLP Models: A Concise Overview (2020)](https://arxiv.org/abs/2004.08900)
 - [Tutorial - Transformers](http://dev.fast.ai/tutorial.transformers) ([Tweet](https://twitter.com/GuggerSylvain/status/1254837525274865664))
 - [TTS](https://github.com/mozilla/TTS) - Deep learning for Text to Speech.
+- [MAD-X: An Adapter-based Framework for Multi-task Cross-lingual Transfer (2020)](https://public.ukp.informatik.tu-darmstadt.de/MAD-X/paper.pdf)
