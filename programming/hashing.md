@@ -11,3 +11,4 @@
 - [Auto-Encoding Twin-Bottleneck Hashing](https://github.com/ymcidence/TBH)
 - [Shenanigans With Hash Tables (2019)](https://thume.ca/2019/07/29/shenanigans-with-hash-tables/)
 - [SMhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests.
+- [Concurrent Hash Tables: Fast and General](https://dl.acm.org/doi/pdf/10.1145/3309206)
