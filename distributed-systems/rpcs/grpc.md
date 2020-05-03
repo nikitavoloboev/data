@@ -19,3 +19,4 @@
 - [ttrpc](https://github.com/containerd/ttrpc) - GRPC for low-memory environments.
 - [ygot](https://github.com/openconfig/ygot) - YANG-centric Go toolkit - Go/Protobuf Code Generation; Validation; Marshaling/Unmarshaling.
 - [grpc-graphql-gateway](https://github.com/ysugimoto/grpc-graphql-gateway) - Protoc plugin that generates graphql execution code from Protocol Buffers.
+- [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec.

@@ -25,3 +25,4 @@
 - [CombineExt](https://github.com/CombineCommunity/CombineExt) - Provides a collection of operators, publishers and utilities for Combine.
 - [OperationTimelane](https://github.com/icanzilb/OperationTimelane) - Timelane + Operations.
 - [Timelane + Combine](https://github.com/icanzilb/TimelaneCombine)
+- [CombinePlaygrounds](https://github.com/denisPoifol/CombinePlaygrounds) - Playground that should read as book about the Combine framework.

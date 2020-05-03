@@ -367,6 +367,7 @@
 - [libm](https://github.com/rust-lang/libm) - Port of MUSL's libm to Rust.
 - [smol](https://github.com/stjepang/smol) - Small and fast async runtime for Rust.
 - [Colorous](https://github.com/dtolnay/colorous) - Color schemes for charts and maps.
+- [Termion](https://github.com/redox-os/termion) - Pure Rust, bindless library for low-level handling, manipulating and reading information about terminals.
 
 ## Cargo Plugins
 

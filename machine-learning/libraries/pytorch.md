@@ -101,3 +101,4 @@
 - [PyTorch 1.5 (2020)](https://pytorch.org/blog/pytorch-1-dot-5-released-with-new-and-updated-apis/) ([HN](https://news.ycombinator.com/item?id=22942027))
 - [Tacotron 2 (without wavenet)](https://github.com/NVIDIA/tacotron2) - PyTorch implementation of Natural TTS Synthesis By Conditioning Wavenet On Mel Spectrogram Predictions.
 - [pytorch-crf](https://github.com/kmkurn/pytorch-crf) - Conditional random field in PyTorch.
+- [torchprof](https://github.com/awwong1/torchprof) - PyTorch layer-by-layer model profiler.

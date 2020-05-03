@@ -50,7 +50,7 @@
 - [CSS Scan Chrome Extension](https://getcssscan.com/) - Instantly inspect and copy computed CSS.
 - [DropCSS](https://github.com/leeoniya/dropcss) - Simple, thorough and fast unused-CSS cleaner.
 - [CSS Standardization - The State of the Web with Jen Simmons (2019)](https://www.youtube.com/watch?v=TQ7NqpFMbFs)
-- [Water.css](https://github.com/kognise/water.css) - Just-add-css collection of styles to make simple websites just a little nicer.
+- [Water.css](https://github.com/kognise/water.css) - Just-add-css collection of styles to make simple websites just a little nicer. ([HN](https://news.ycombinator.com/item?id=19593866))
 - [Loaders.css](https://github.com/ConnorAtherton/loaders.css) - Delightful and performance-focused pure css loading animations.
 - [Artem Sapegin: Custom CSS is the Path to Inconsistent UI (2018)](https://www.youtube.com/watch?v=t5VTLwAias8)
 - [Learn CSS Layout the pedantic way](http://book.mixu.net/css/) ([Code](https://github.com/mixu/cssbook))
@@ -133,3 +133,4 @@
 - [Watched Box](https://github.com/Heydon/watched-box) - Easiest way to get working with ResizeObserver and creating container queries with JavaScript.
 - [Hamburgers](https://jonsuh.com/hamburgers/) - Tasty CSS-animated Hamburgers. ([Code](https://github.com/jonsuh/hamburgers))
 - [Hero Generator](https://hero-generator.netlify.app/) - Create a nice hero image for your site or app. ([Code](https://github.com/sdras/hero-generator))
+- [PrefaceCSS](https://cluzier.github.io/PrefaceCSS/dist/index.html) - CSS Boilerplate for minimalists. ([Code](https://github.com/cluzier/PrefaceCSS))

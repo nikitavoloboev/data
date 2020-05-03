@@ -8,3 +8,5 @@
 - [Projective Geometric Algebra Done Right (2020)](http://terathon.com/blog/projective-geometric-algebra-done-right/) ([HN](https://news.ycombinator.com/item?id=22142706))
 - [Exploring Physics with Geometric Algebra, Book (2016)](http://peeterjoot.com/archives/math2015/gabookI.pdf) ([HN](https://news.ycombinator.com/item?id=15932739))
 - [Course notes Geometric Algebra for Computer Graphics, SIGGRAPH 2019](https://arxiv.org/abs/2002.04509)
+- [Awesome Geometric Algebra](https://awesome-geometric-algebra.rtfd.io/) ([Code](https://github.com/pygae/awesome-geometric-algebra))
+- [GAlgebra](https://github.com/pygae/galgebra) - Symbolic Geometric Algebra/Calculus package for SymPy.
