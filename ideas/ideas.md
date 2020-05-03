@@ -8,6 +8,10 @@ I try to give my full attention to any ideas I am working on.
 
 ![](https://i.imgur.com/CXLG4IY.jpg)
 
+## Notes
+
+- [Good ideas don’t have owners—they belong to everyone](https://galaxyproject.org/jxtx/)
+
 ## Links
 
 - [Project based learning](https://github.com/tuvtran/project-based-learning#readme) - Curated list of project-based tutorials.

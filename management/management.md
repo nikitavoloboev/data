@@ -28,3 +28,4 @@
 - [Technology Budgeting Handbook](https://github.com/18F/technology-budgeting)
 - [Shape Up Your Agile (2020)](https://thinkfractional.blog/shape-up-your-agile/)
 - [Manager's Playbook](https://github.com/ksindi/managers-playbook#readme) - Heuristics for effective management.
+- [Spotify doesn’t use “the Spotify model” and neither should you (2020)](https://www.jeremiahlee.com/posts/failed-squad-goals/)

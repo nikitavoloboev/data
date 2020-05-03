@@ -35,3 +35,4 @@
 - [Artifact](https://github.com/vitiral/artifact) - Simple, linkable and trackable design documentation tool for everybody.
 - [Gatsby theme for your knowledge base or help center](https://github.com/mlent/gatsby-theme-help-center)
 - [Read the Docs](https://readthedocs.com/) - Spend your time on writing high quality documentation, not on the tools to make your documentation work.
+- [cheatset](https://github.com/Kapeli/cheatset) - Generate cheat sheets for Dash.
