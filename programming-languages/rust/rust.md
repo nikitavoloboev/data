@@ -201,3 +201,4 @@
 - [Async interviews: my take thus far (2020)](http://smallcultfollowing.com/babysteps/blog/2020/04/30/async-interviews-my-take-thus-far/)
 - [How we use Rust in our mobile SDK (2020)](https://bionic.fullstory.com/rust-at-fullstory-part-2/) ([HN](https://news.ycombinator.com/item?id=23008399))
 - [Rust language interoperability with other languages - C, C++ etc](https://github.com/crackcomm/rust-lang-interop#readme)
+- [Making rust as fast as go](https://www.christianfscott.com/making-rust-as-fast-as-go/) ([HN](https://news.ycombinator.com/item?id=23058147))

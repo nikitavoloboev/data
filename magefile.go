@@ -10,7 +10,7 @@ import (
 	"github.com/magefile/mage/sh"
 )
 
-// TODO: duplicate links, broken links
+// TODO: duplicate links, broken links (https://github.com/tmcw/linkrot has way to check if link is bad)
 // TODO: scan through all links in # Links or all links in wiki as whole
 // TODO: find .md files that are not in SUMMARY.md
 // TODO: run https://github.com/smallhadroncollider/brok on whole wiki

@@ -66,6 +66,8 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Recursion schemes, categorically](https://hackmd.io/@oli-kitty/recursion-schemes-categorically)
 - [Todd Trimble: Geometry of regular relational calculus (2020)](https://www.youtube.com/watch?v=RonyrB0kLew)
 - [Bartosz Milewski's publications](https://github.com/BartoszMilewski/Publications)
+- [Computational Category Theory in Python](http://www.philipzucker.com/computational-category-theory-in-python-i-dictionaries-for-finset/) ([HN](https://news.ycombinator.com/item?id=23058551))
+- [HN: Applied Category Theory (2019)(https://news.ycombinator.com/item?id=23048149)
 
 ## Images
 

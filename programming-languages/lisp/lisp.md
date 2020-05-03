@@ -45,3 +45,4 @@
 - [Programming Algorithms in Lisp](https://leanpub.com/progalgs)
 - [What is the best way to learn Lisp in 2020?](https://news.ycombinator.com/item?id=22913750)
 - [hy](https://github.com/hylang/hy) - Dialect of Lisp that's embedded in Python.
+- [Simple lisp interpreter written from scratch in TS](https://github.com/christianscott/lisp)
