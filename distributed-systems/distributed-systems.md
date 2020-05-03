@@ -80,3 +80,4 @@
 - [Paxos vs Raft: Have we reached consensus on distributed consensus? (2020)](https://arxiv.org/abs/2004.05074) ([HN](https://news.ycombinator.com/item?id=22994420))
 - [Teleforking a process onto a different computer! (2020)](https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/) ([HN](https://news.ycombinator.com/item?id=22987747)) ([Code](https://github.com/trishume/telefork))
 - [Debugging Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/2927299.2940294) ([HN](https://news.ycombinator.com/item?id=22993377))
+- [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html)

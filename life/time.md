@@ -12,3 +12,4 @@ I wrote a little [Alfred workflow](https://github.com/nikitavoloboev/small-workf
 - [List of artists and hackers using homegrown time-tracking tools](https://github.com/merveilles/Time-Travelers#readme)
 - [Devine's Calendar Journal](https://wiki.xxiivv.com/#calendar)
 - [Does time really flow? New clues from intuitionist math (2020)](https://www.quantamagazine.org/does-time-really-flow-new-clues-come-from-a-century-old-approach-to-math-20200407/) ([HN](https://news.ycombinator.com/item?id=22848766))
+- [Time is the only real currency we have (2020)](https://blog.theboringtech.io/2020/04/16/time_is_the_real_currency.html) ([HN](https://news.ycombinator.com/item?id=22977637))
