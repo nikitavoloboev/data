@@ -14,3 +14,4 @@
 - [How to Persist Your MobX State (2020)](https://medium.com/@Zwenza/how-to-persist-your-mobx-state-4b48b3834a41)
 - [Learning MobX (Side-Effects)](https://gist.github.com/lostintangent/c3bcd4bff4a13b2e1b3fc4a26332e2b6)
 - [Michel Weststrate — MobX and the unique symbiosis of predictability and speed (2019)](https://www.youtube.com/watch?v=NBYbBbjZeX4)
+- [Is mobx magic? (2020)](https://www.christianfscott.com/is-mobx-magic/)
