@@ -10,7 +10,7 @@ I try to give my full attention to any ideas I am working on.
 
 ## Notes
 
-- [Good ideas don’t have owners—they belong to everyone](https://galaxyproject.org/jxtx/)
+- [Good ideas don’t have owners. They belong to everyone.](https://galaxyproject.org/jxtx/)
 
 ## Links
 

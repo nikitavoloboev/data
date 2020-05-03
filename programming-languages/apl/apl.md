@@ -15,4 +15,4 @@
 - [April](https://github.com/phantomics/april) - APL programming language (a subset thereof) compiling to Common Lisp. ([HN](https://news.ycombinator.com/item?id=22225136))
 - [APL a Day](https://www.sacrideo.us/tag/apl-a-day/)
 - [Ode to J](https://zserge.com/posts/j/)
-- [Is APL Dead? (2020)](https://www.sacrideo.us/is-apl-dead/)
+- [Is APL Dead? Not anymore (2020)](https://www.sacrideo.us/is-apl-dead/) ([HN](https://news.ycombinator.com/item?id=23055793))

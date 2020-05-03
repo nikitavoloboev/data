@@ -4,7 +4,7 @@ Things you do and words you speak matter.
 
 It's sad how much time is wasted arguing over how [corrupt United States](https://www.reddit.com/r/bestof/comments/fx03ri/upm_me_all_dogs_lays_out_the_trump/) government is and how things need change.
 
-Just want to be a human being. Loving [animals](https://wiki.nikitavoloboev.xyz/environment/veganism) and going about my day existing.
+Just want to be a human being. Loving [animals](../../animals/animals.md) and going about my day existing.
 
 So much news, so pointless.
 
