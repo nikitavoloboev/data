@@ -19,3 +19,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [How to Stop Freaking Out and Tackle Climate Change (2020)](https://www.nytimes.com/2020/01/10/opinion/how-to-help-climate-change.html) ([Tweet](https://twitter.com/ayanaeliza/status/1216021205049839618))
 - [Personal list of interesting climate change & sustainability links](https://github.com/timothyclifford/planet-earth#readme)
 - [Climatescape](https://climatescape.org/) - Open database of organizations leading the fight against climate change. ([Code](https://github.com/climatescape/climatescape.org))
+- [Climate.Careers](https://climate.careers/) - Work on solving climate change. Find a job in climate.  Be a part of the solution.
