@@ -67,3 +67,4 @@
 - [Unsupervised Meta-Learning: Learning to Learn without Supervision (2020)](https://bair.berkeley.edu/blog/2020/05/01/umrl/)
 - [metric-learn](https://github.com/scikit-learn-contrib/metric-learn) - Metric Learning in Python.
 - [Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels](https://sites.google.com/view/data-regularized-q) ([Code](https://github.com/denisyarats/drq))
+- [Reinforcement Learning Zoo](https://github.com/tensorlayer/RLzoo) - Collection of the most practical reinforcement learning algorithms, frameworks and applications.

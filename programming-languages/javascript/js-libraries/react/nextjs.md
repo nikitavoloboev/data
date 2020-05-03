@@ -60,3 +60,4 @@
 - [Next.js Team AMA (2020)](https://hashnode.com/post/nextjs-team-ama-ask-us-anything-ck8q81sii002wems178vw6r5v)
 - [next-codegen](https://github.com/zackkrida/next-codegen) - Fast API route and page generation for Next.js projects.
 - [NextJS Default Template](https://github.com/ryyppy/nextjs-default) - Opinionated Boilerplate for NextJS, Tailwind and Reason.
+- [Getting started with Next.js, ZEIT Now, and Firebase (2020)](https://dev.to/benzguo/getting-started-with-next-js-now-firebase-4ejg)

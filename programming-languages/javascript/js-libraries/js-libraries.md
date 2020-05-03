@@ -238,6 +238,7 @@
 - [ASScroll](https://github.com/ashthornton-gc/asscroll) - Hybrid smooth scroll setup that combines the performance gains of virtual scroll with the reliability of native scroll.
 - [Gallery](https://github.com/bendc/gallery) - Light, responsive, and performant JavaScript gallery.
 - [Logux Server](https://github.com/logux/server) - Build own Logux server or make proxy between WebSocket and HTTP backend on any language.
+- [@expo/results](https://github.com/expo/results) - Efficient, standards-compliant library for representing results of successful or failed operations.
 
 ## Links
 

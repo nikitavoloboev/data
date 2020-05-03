@@ -35,3 +35,4 @@
 - [Solving lagrange reversing challenge with Cutter (2020)](https://arnaugamez.com/blog/2020/04/12/advent-solve-lagrange-cutter/)
 - [e9patch](https://github.com/GJDuck/e9patch) - Powerful static binary rewriting tool.
 - [Polypyus](https://github.com/seemoo-lab/polypyus) - Learns to locate functions in raw binaries by extracting known functions from similar binaries.
+- [Pharos Static Binary Analysis Framework](https://github.com/cmu-sei/pharos)

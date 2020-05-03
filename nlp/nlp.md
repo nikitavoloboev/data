@@ -94,3 +94,4 @@
 - [MAD-X: An Adapter-based Framework for Multi-task Cross-lingual Transfer (2020)](https://public.ukp.informatik.tu-darmstadt.de/MAD-X/paper.pdf)
 - [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple) - Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts.
 - [BERTScore](https://github.com/Tiiiger/bert_score) - BERT score for text generation.
+- [ML and NLP Paper Discussions](https://github.com/dair-ai/ml-nlp-paper-discussions#readme)

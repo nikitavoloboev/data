@@ -16,3 +16,4 @@
 - [Pion](https://github.com/pion) - Modern and Cross Platform Stack for WebRTC. ([HN](https://news.ycombinator.com/item?id=23039348))
 - [RAWRTC](https://github.com/rawrtc/rawrtc) - WebRTC and ORTC library with a small footprint.
 - [webrtc-sdp](https://github.com/mozilla/webrtc-sdp) - Rust SDP parser for WebRTC.
+- [mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing.

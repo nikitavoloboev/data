@@ -43,3 +43,4 @@
 - [AWS Amplify JS](https://github.com/aws-amplify/amplify-js) - JavaScript library for frontend and mobile developers building cloud-enabled applications.
 - [Serverless-Dev-Tools](https://github.com/Theodo-UK/sls-dev-tools) - Developer Tools for the Serverless World - think Chrome Dev Tools but for Serverless.
 - [Weave Ignite](https://github.com/weaveworks/ignite) - Open source Virtual Machine (VM) manager with a container UX and built-in GitOps management.
+- [Faasm](https://github.com/lsds/Faasm) - High-performance stateful serverless runtime.
