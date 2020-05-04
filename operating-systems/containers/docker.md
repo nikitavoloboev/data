@@ -49,3 +49,4 @@
 - [Bollard](https://github.com/fussybeaver/bollard) - Asynchronous rust client library for the docker API.
 - [Docker EE Operational Checklist](https://github.com/nicolaka/checklist#readme)
 - [Bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash.
+- [Why strace doesn't work in Docker (2020)](https://jvns.ca/blog/2020/04/29/why-strace-doesnt-work-in-docker/) ([HN](https://news.ycombinator.com/item?id=23065994))

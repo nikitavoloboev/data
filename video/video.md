@@ -48,3 +48,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [@cloudflare/stream-react](https://github.com/cloudflare/stream-react) - Official React component for Cloudflare Stream.
 - [VidGear](https://github.com/abhiTronix/vidgear) - High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features.
 - [Invidio](https://invidio.us/) - Alternative front-end to YouTube. ([Code](https://github.com/omarroth/invidious))
+- [Mux](https://mux.com/) - API-first platform, powered by data and designed by video experts to make beautiful video possible for every development team.

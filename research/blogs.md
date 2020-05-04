@@ -67,3 +67,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Lobsters: Share your blog (2020)](https://lobste.rs/s/5ysabq/share_your_blog)
 - [Best blog designs I want to steal everything from (2020)](https://jonkuperman.com/best-blog-designs-2020/)
 - [Why My Blog is Closed-Source](https://joshwcomeau.com/misc/why-my-blog-is-closed-source/)
+- [Why it's great to write blog posts (2020)](https://sanderknape.com/2020/04/why-great-write-blog-posts/) ([HN](https://news.ycombinator.com/item?id=23067352))
