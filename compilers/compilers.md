@@ -85,3 +85,4 @@
 - [MIR Project](https://github.com/vnmakarov/mir) - Light-weight JIT compiler based on MIR (Medium Internal Representation).
 - [Incremental/query driven compiler architectures](https://github.com/pikelet-lang/pikelet/issues/103)
 - [Speeding up the Sixty compiler (2020)](https://ollef.github.io/blog/posts/speeding-up-sixty.html)
+- [A hands-on introduction to static code analysis (2020)](https://deepsource.io/blog/introduction-static-code-analysis/)
