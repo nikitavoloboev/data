@@ -61,3 +61,4 @@
 - [next-codegen](https://github.com/zackkrida/next-codegen) - Fast API route and page generation for Next.js projects.
 - [NextJS Default Template](https://github.com/ryyppy/nextjs-default) - Opinionated Boilerplate for NextJS, Tailwind and Reason.
 - [Getting started with Next.js, ZEIT Now, and Firebase (2020)](https://dev.to/benzguo/getting-started-with-next-js-now-firebase-4ejg)
+- [NextJS Tips](https://nextjstips.com/) - Collection of useful daily Next.js tips that will allow you to improve your skills.
