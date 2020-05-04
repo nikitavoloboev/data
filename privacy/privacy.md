@@ -47,3 +47,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Energized Protection - block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether.
 - [Programming Framework for Differential Privacy with Accuracy Concentration Bounds (2019)](https://arxiv.org/pdf/1909.07918.pdf)
 - [Honeycrisp: Large-scale Differentially Private Aggregation Without a Trusted Core](https://www.cis.upenn.edu/~ahae/papers/honeycrisp-tr.pdf)
+- [Taking control of your own data (2020)](https://0x46.net/thoughts/2020/05/02/self-hosting/)

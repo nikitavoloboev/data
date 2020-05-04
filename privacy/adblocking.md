@@ -7,3 +7,4 @@
 - [Bromite](https://github.com/bromite/bromite) - Chromium plus ad blocking and privacy enhancements; take back your browser.
 - [Resilience](https://github.com/kaepora/resilience) - Ad blocker for your computer.
 - [Ad Block engine in Rust](https://github.com/brave/adblock-rust) - Native Rust module for Adblock Plus syntax (e.g. EasyList, EasyPrivacy) filter parsing and matching.
+- [Ad blocking with Raspberry Pi and Pi-hole (2020)](https://cri.dev/posts/2020-05-03-Ad-blocking-with-Raspberry-Pi-and-Pi-hole/) ([HN](https://news.ycombinator.com/item?id=23073109))

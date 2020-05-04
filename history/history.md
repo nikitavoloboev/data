@@ -38,3 +38,4 @@
 - [PastVu](https://pastvu.com/) - Retro view of mankind's habitat.
 - [Ask HN: What website, from your early days on the net, do you miss? (2020)](https://news.ycombinator.com/item?id=22981491)
 - [World History Crash Course](https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9)
+- [Hitler was incompetent and lazy—and his Nazi government was an absolute clown show](https://www.newsweek.com/hitler-incompetent-lazy-nazi-government-clown-show-opinion-1408136)
