@@ -137,3 +137,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Few 80/20 tips for writing (2020)](https://www.indiehackers.com/post/a-few-80-20-tips-for-writing-b08941d407)
 - [Good writing is a business advantage](https://adaged.blogspot.com/2020/04/good-writing-is-business-advantage.html) ([HN](https://news.ycombinator.com/item?id=23006106))
 - [How to Grow Your Business by Writing: Sahil Lavingia + David Perell (2020)](https://www.youtube.com/watch?v=grXrGaT7DLw)
+- [Hemingway App](http://www.hemingwayapp.com/) - Makes your writing bold and clear.
