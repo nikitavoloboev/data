@@ -60,3 +60,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Font Bakery](https://github.com/googlefonts/fontbakery) - Command-line tool for checking the quality of font projects.
 - [Typelab](https://typelab.fr/) - Type design service offering design software and bespoke type design for diverse clients.
 - [OH no Type](https://ohnotype.co/) - Oakland based type foundry.
+- [An Introduction to Variable Fonts (2019)](https://24ways.org/2019/an-introduction-to-variable-fonts/)
