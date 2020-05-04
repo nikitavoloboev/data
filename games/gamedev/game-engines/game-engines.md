@@ -30,6 +30,7 @@
 - [qu3e](https://github.com/RandyGaul/qu3e) - Lightweight and Simple 3D Open Source Physics Engine in C++.
 - [Falltergeist](https://github.com/falltergeist/falltergeist) - Open source cross platform Fallout 2™ game engine written in C++ and SDL.
 - [Vault13](https://github.com/pingw33n/vault13) - Reimplementation of Fallout 2 engine in Rust.
+- [Minetest](https://github.com/minetest/minetest) - Free open-source voxel game engine with easy modding and game creation.
 
 ## Links
 

@@ -72,3 +72,4 @@
 - [Official Docker Image for Node.js](https://github.com/nodejs/docker-node)
 - [Learn ES Modules in Node with Myles Borins (2020)](https://www.youtube.com/watch?v=qeCncjPWD1A)
 - [Node File Trace](https://github.com/zeit/node-file-trace) - Determine exactly which files (including node_modules) are necessary for the application runtime.
+- [Awesome npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme)
