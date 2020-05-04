@@ -32,3 +32,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Word Problems in Russia and America](http://www.de.ufpe.br/~toom/travel/sweden05/WP-SWEDEN-NEW.pdf)
 - [HN: Some school districts plan to end the year early, call remote learning too tough (2020)](https://news.ycombinator.com/item?id=23011419)
 - [HN: Some overwhelmed parents are abandoning at-home schooling (2020)](https://news.ycombinator.com/item?id=23010079)
+- [HN: Unimpressed by online classes, college students file lawsuits for refunds (2020)](https://news.ycombinator.com/item?id=23065308)

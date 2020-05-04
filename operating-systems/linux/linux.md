@@ -101,3 +101,4 @@
 - [Operating Systems Without Systemd (2020)](https://annihilatormodule.com/2020-01-18/systemd-archives) ([HN](https://news.ycombinator.com/item?id=23047885))
 - [Hunting a Linux kernel bug (2020)](https://blog.twitter.com/engineering/en_us/topics/open-source/2020/hunting-a-linux-kernel-bug.html) ([HN](https://news.ycombinator.com/item?id=23005467))
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor.
+- [systemd, 10 years later: a historical and technical retrospective (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/index.html) ([Lobsters](https://lobste.rs/s/hm13g1/systemd_10_years_later_historical))

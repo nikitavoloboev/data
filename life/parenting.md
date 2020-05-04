@@ -9,3 +9,4 @@
 - [Colorables](https://www.colorabl.es/) - Grab your crayons, it’s coloring time.
 - [Paul Graham’s thoughts, discoveries, and tricks on parenthood](https://www.unclepaul.io/) ([HN](https://news.ycombinator.com/item?id=22913871))
 - [Exceptionally Gifted Children: Long-Term Outcomes of Academic Acceleration and Nonacceleration (2006)](https://files.eric.ed.gov/fulltext/EJ746290.pdf) ([HN](https://news.ycombinator.com/item?id=22901962))
+- [Mindstorms book](https://www.charlieharrington.com/mindstorms) - Book written in 1980 about how children can learn with computers - and learn to fall in love with learning along the way. ([Lobsters](https://lobste.rs/s/r9thsc/mindstorms))

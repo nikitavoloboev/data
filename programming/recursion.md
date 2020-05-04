@@ -11,3 +11,4 @@
 ## Links
 
 - [That one time I thought I understood recursion (2019)](https://functional.christmas/2019/18) ([HN](https://news.ycombinator.com/item?id=21822977))
+- [On Iteration and Recursion(https://www.cs.utexas.edu/users/EWD/ewd08xx/EWD820.PDF)

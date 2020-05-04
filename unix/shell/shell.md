@@ -55,3 +55,4 @@ All active variables can be seen by running `env`.
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS.
 - [Customizing your shell (2020)](https://blog.balthazar-rouberol.com/customizing-your-shell.html) ([HN](https://news.ycombinator.com/item?id=22898577))
 - [tmate](https://tmate.io/) - Instant terminal sharing. ([Code](https://github.com/tmate-io/tmate))
+- [Rich’s sh (POSIX shell) tricks ](http://www.etalabs.net/sh_tricks.html)
