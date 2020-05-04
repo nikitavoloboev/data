@@ -148,6 +148,7 @@
 - [Ask HN: Learning the business-side of things as a developer? (2020)](https://news.ycombinator.com/item?id=23050717)
 - [How to sell a B2B product (2020)](https://calv.info/how-to-sell-b2b) ([HN](https://news.ycombinator.com/item?id=23052001))
 - [Funnels for Startups: A Primer](https://www.startuphacks.vc/blog/2017/02/03/funnels-for-startups-a-primer)
+- [Startup financial models – Templates compared for SaaS (2020)](https://www.stephnass.com/blog/startup-financial-model) ([HN](https://news.ycombinator.com/item?id=23061796))
 
 ## Images
 
