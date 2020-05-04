@@ -596,6 +596,7 @@
   - [Fonts](design/fonts.md)
   - [Design inspiration](design/design-inspiration.md)
   - [Interior Design](design/interior-design.md)
+  - [Industrial Design](design/industrial-design.md)
   - [User Experience](design/user-experience.md)
   - [3D Modeling](design/3d-modeling.md)
   - [Blender](design/blender.md)

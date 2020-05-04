@@ -8,3 +8,4 @@
 - [Open3D](https://github.com/intel-isl/Open3D) - Modern Library for 3D Data Processing.
 - [Spoke](https://github.com/mozilla/Spoke) - Easily create custom 3D environments.
 - [Automating complex 3D modeling (2020)](https://share-ng.sandia.gov/news/resources/news_releases/3d_modeling/)
+- [The most amazing abandoned 3D sketching program (2020)](https://www.youtube.com/watch?v=Sl1I7ZtsJtY)
