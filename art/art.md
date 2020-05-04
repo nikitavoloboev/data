@@ -83,6 +83,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Mari K](https://www.artstation.com/madmaraca)
 - [James Gilleard](https://www.behance.net/jamesgilleard) ([Arches](https://twitter.com/jgilleard/status/1257000671422722048))
 - [Cody Leigh Bond](https://www.etsy.com/shop/CodyLeighBond)
+- [Mustafa Kural](https://dribbble.com/mustafakural/shots)
 - [Android Jones](http://androidjones.com/)
 - [Nate Rudichuk](https://www.artstation.com/naterudichuk)
 - [Jan Pypers](https://www.instagram.com/janpypers/)

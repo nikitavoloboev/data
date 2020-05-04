@@ -17,3 +17,5 @@
 - [Python Web Scraping with Virtual Private Networks (2020)](https://tech.marksblogg.com/python-scraper-wireguard-vpn-ssh-proxy.html)
 - [extract-news-api](https://github.com/kotartemiy/extract-news-api) - Flask code to deploy an API that pulls structured data from online news articles.
 - [Web Scraper](https://web.scraper.workers.dev/) - Scrape websites for text by CSS selector.
+- [List all the broken links on your website](https://gist.github.com/mdamien/7b71ef06f49de1189fb75f8fed91ae82)
+- [Creating a Robust, Reusable Link-Checker (2020)](http://adventures.michaelfbryan.com/posts/linkchecker/)

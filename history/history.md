@@ -37,3 +37,4 @@
 - [Set of links related to computer & code history](https://github.com/v3ga/computer_history#readme)
 - [PastVu](https://pastvu.com/) - Retro view of mankind's habitat.
 - [Ask HN: What website, from your early days on the net, do you miss? (2020)](https://news.ycombinator.com/item?id=22981491)
+- [World History Crash Course](https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9)
