@@ -8,6 +8,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 
 - [All archive does is remove the Inbox label (in Gmail).](https://productforums.google.com/forum/#!msg/gmail/2xUYO5ifCCY/95_y02y2IgAJ)
   - Gmail doesn't have folders. All your messages are saved in All Mail. Everything else (Inbox, Starred, Drafts, user-labels, etc) are just "views" into a subset of the messages in All Mail. And since there's only one copy of any message, if you delete it from any label, you're deleting the only copy, so it's gone from all of them. If you delete a label you remove that "view", but the messages are still in All Mail.
+- [Whenever you compose an email, put your ask in the first sentence. Do you want information from them? Do you want them to do something for you? Put it in the first sentence. Then put the explanation and details in the rest of the email.](https://news.ycombinator.com/item?id=23064974)
 
 ## Links
 
