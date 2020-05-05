@@ -95,3 +95,4 @@
 - [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple) - Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts.
 - [BERTScore](https://github.com/Tiiiger/bert_score) - BERT score for text generation.
 - [ML and NLP Paper Discussions](https://github.com/dair-ai/ml-nlp-paper-discussions#readme)
+- [NLP Datasets](https://datasets.quantumstat.com/)
