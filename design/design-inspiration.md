@@ -37,6 +37,7 @@ Here are few more things I liked, design wise.
 - [The Worst Dev](https://theworst.dev/)
 - [A decentralized world](https://adecentralizedworld.com/)
 - [Matt Diephouse](https://matt.diephouse.com/)
+- [Jordan Scales](https://thatjdanisso.cool/) ([Code](https://github.com/jdan/thatjdanisso.cool))
 
 ## Products
 

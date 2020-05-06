@@ -20,3 +20,4 @@
 - [The Ultimate Guide to handling JWTs on frontend clients (GraphQL) (2019)](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/)
 - [React Google Login](https://github.com/anthonyjgrove/react-google-login) - Google oAUth Sign-in / Log-in Component for React.
 - [OAuth2 for Go](https://github.com/golang/oauth2)
+- [OAuth 2.0 Security Best Current Practice (2020)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-15) ([HN](https://news.ycombinator.com/item?id=23080240))

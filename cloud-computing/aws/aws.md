@@ -23,7 +23,6 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Cloud Reports](https://github.com/tensult/cloud-reports) - Scans your AWS cloud resources and generates reports.
 - [CloudMapper](https://github.com/duo-labs/cloudmapper) - Helps you analyze your Amazon Web Services (AWS) environments.
 - [AWS costs every programmer should know (2019)](https://david-codes.hatanian.com/2019/06/09/aws-costs-every-programmer-should-now.html) ([HN](https://news.ycombinator.com/item?id=20138409))
-- [AWS SDK for Go](https://github.com/aws/aws-sdk-go)
 - [awless](https://github.com/wallix/awless) - Mighty CLI for AWS.
 - [Easy Amazon EC2 Instance Comparison](https://ec2instances.info/)
 - [Buildkite Elastic CI Stack](https://github.com/buildkite/elastic-ci-stack-for-aws) - Gives you a private, autoscaling Buildkite Agent cluster.
@@ -62,6 +61,8 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS AppSync GraphQL Photo Sample](https://github.com/aws-samples/aws-amplify-graphql)
 - [AWS Icons for PlantUML](https://github.com/awslabs/aws-icons-for-plantuml)
 - [Simple storage pricing calculator for AWS](https://www.duckbillgroup.com/aws-super-simple-storage-calculator/) ([HN](https://news.ycombinator.com/item?id=22971656))
-- [AWS SDK for JavaScript](https://github.com/aws/aws-sdk-js-v3)
 - [S3Proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API.
 - [saws](https://github.com/donnemartin/saws) - Supercharged AWS command line interface.
+- [AWS SDK for Go](https://github.com/aws/aws-sdk-go)
+- [AWS SDK for JavaScript](https://github.com/aws/aws-sdk-js-v3)
+- [AWS SDK for Haskell](https://github.com/brendanhay/amazonka) - Comprehensive Amazon Web Services SDK.

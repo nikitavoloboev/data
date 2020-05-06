@@ -1,6 +1,6 @@
 # API
 
-## Interesting
+## Other
 
 - [Google Drive](https://github.com/prasmussen/gdrive)
 - [GitHub](https://developer.github.com/v3/)
@@ -9,7 +9,6 @@
 - [GitHub Rust](https://github.com/softprops/hubcaps)
 - [GitHub Swift](https://github.com/mdiep/Tentacle) - Swift framework for the GitHub API.
 - [GitHub Gists Python](https://github.com/softvar/simplegist) - Advanced python wrapper for Github Gist API.
-- [tweetlord](https://github.com/snovvcrash/tweetlord) - Twitter profile dumper (downloader) with authorization swapping.
 - [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.
 - [Dropbox JS](https://github.com/dropbox/dropbox-sdk-js) - Dropbox JavaScript SDK.
@@ -17,6 +16,8 @@
 - [Twitter Node](https://github.com/ttezel/twit) - Twitter API Client for node (REST & Streaming API).
 - [Twitter Lite JS](https://github.com/draftbit/twitter-lite) - Tiny, full-featured, flexible client / server library for the Twitter API.
 - [Twitter Go](https://github.com/dghubble/go-twitter) - Go Twitter REST and Streaming API v1.1
+- [Twitter Go 2](https://github.com/bloveless/tweetgo)
+- [Twitter profile dumper (downloader) with authorization swapping](https://github.com/snovvcrash/tweetlord)
 - [arxiv-graphql](https://github.com/prabhuomkar/arxiv-graphql) - GraphQL API for arXiv: e-print service by Cornell University.
 - [Sheetfu](https://github.com/socialpoint-labs/sheetfu) - Python library to interact with Google Sheets V4 API.
 - [Cloudflare](https://github.com/cloudflare/cloudflare-rs) - Rust library for the Cloudflare v4 API.

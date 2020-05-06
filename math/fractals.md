@@ -21,3 +21,4 @@
 - [Playing with Chaos](http://www.playingwithchaos.net/) - Programming fractals and strange attractors in JS.
 - [Crossing Two Fractals](https://github.com/victorqribeiro/randomFractal) ([HN](https://news.ycombinator.com/item?id=22769511))
 - [Fractus](https://delivrance.github.io/fractus) - Elegant Fractal Explorer web application written in C++ (WebAssembly) and JavaScript. ([Code](https://github.com/delivrance/fractus))
+- [ASCII Mandelbrot Set](https://thatjdanisso.cool/mandelbrot)

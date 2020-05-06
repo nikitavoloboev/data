@@ -29,3 +29,4 @@
 - [The Ten Best Ideas in Statistics (2013)](https://www.naftaliharris.com/blog/ten-stat-ideas/)
 - [Comprehensive Tutorial on Time Series Modelling and Forecasting](https://kanoki.org/2020/04/30/time-series-analysis-and-forecasting-with-arima-python/) ([HN](https://news.ycombinator.com/item?id=23041264))
 - [A Primer on Private Statistics (2020)](https://kamathematics.wordpress.com/2020/04/14/a-primer-on-private-statistics-part-i/)
+- [pyts](https://github.com/johannfaouzi/pyts) - Python package for time series classification.

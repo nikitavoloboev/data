@@ -17,5 +17,3 @@ I am reading some books now:
 - [Linus Programming Interface](http://man7.org/tlpi/)
 - [Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime](https://www.goodreads.com/book/show/44065062-something-deeply-hidden)
 - [Physics from Symetry](http://physicsfromsymmetry.com/)
-
-No more trash news.
