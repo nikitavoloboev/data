@@ -63,3 +63,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [An Introduction to Variable Fonts (2019)](https://24ways.org/2019/an-introduction-to-variable-fonts/)
 - [v-fonts](https://v-fonts.com/) - Simple resource for finding and trying variable fonts.
 - [Variable Emojis](http://variableemojis.com/)
+- [YouTube Sans: The Making of a Typeface (2020)](https://design.google/library/youtube-sans-the-making-of-a-typeface/)
