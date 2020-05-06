@@ -150,3 +150,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [ios_system](https://github.com/holzschu/ios_system) - Drop-in replacement for system() in iOS programs.
 - [The Best. iOS Sandbox Escape (2020)](https://siguza.github.io/psychicpaper/) ([HN](https://news.ycombinator.com/item?id=23045042))
 - [iOS App Design Resources & Inspiration (2020)](https://www.youtube.com/watch?v=DnfNCBHo-qU)
+- [Can add privacy & terms as separate web pages before releasing iOS app](https://twitter.com/JPEGuin/status/1258064930688942080)

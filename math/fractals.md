@@ -22,3 +22,4 @@
 - [Crossing Two Fractals](https://github.com/victorqribeiro/randomFractal) ([HN](https://news.ycombinator.com/item?id=22769511))
 - [Fractus](https://delivrance.github.io/fractus) - Elegant Fractal Explorer web application written in C++ (WebAssembly) and JavaScript. ([Code](https://github.com/delivrance/fractus))
 - [ASCII Mandelbrot Set](https://thatjdanisso.cool/mandelbrot)
+- [Hexagonal Julia- Mandelbrot](https://www.shadertoy.com/view/3dlBRf) ([Twitter](https://twitter.com/matthen2/status/1257989139426766849))
