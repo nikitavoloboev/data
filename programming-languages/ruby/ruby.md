@@ -9,3 +9,4 @@
 - [Referral](https://github.com/testdouble/referral) - Scan for definitions and references in your Ruby code.
 - [Artichoke](https://github.com/artichoke/artichoke) - Ruby made with Rust.
 - [rubyfmt](https://github.com/penelopezone/rubyfmt) - Ruby Autoformatter.
+- [Ruby Next](https://github.com/ruby-next/ruby-next) - Transpiler for Ruby. ([HN](https://news.ycombinator.com/item?id=23078609))

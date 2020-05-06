@@ -48,6 +48,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Doug John Miller](https://www.instagram.com/dougjohnmiller/)
 - [Harriet Lee-Merrion](https://www.harrietleemerrion.com/)
 - [Daniel Castro Maia](https://www.dcmaia.art/)
+- [Nick Stath](https://www.instagram.com/nick_stath/)
 - [Pierpaolo Rovero](https://www.instagram.com/pierpaolorovero/)
 - [Eva Eskelinen](https://www.instagram.com/evelmiina/)
 - [Moonassi](http://www.moonassi.com/)

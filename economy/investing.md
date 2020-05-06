@@ -57,3 +57,4 @@
 - [What is the best investing advice that you’ve ever been given? (2020)](https://www.reddit.com/r/investing/comments/g8eikm/what_is_the_best_investing_advice_that_youve_ever/)
 - [HN: How Do Insurance Companies Make Money (2020)](https://news.ycombinator.com/item?id=23040333)
 - [Dataset of VCs investing in seed and Series A+ rounds](https://unicorn-nest.com/dataset/) ([HN](https://news.ycombinator.com/item?id=23018805))
+- [How to get stock fundamentals data with Python (2020)](http://theautomatic.net/2020/05/05/how-to-download-fundamentals-data-with-python/) ([HN](https://news.ycombinator.com/item?id=23081595))

@@ -87,6 +87,7 @@
 - [ctest](https://github.com/gnzlbg/ctest) - Automated testing of FFI bindings in Rust.
 - [Mockall](https://github.com/asomers/mockall) - Powerful mock object library for Rust.
 - [rstest](https://github.com/la10736/rstest) - Uses procedural macros to help you on writing fixtures and table-based tests.
+- [Proptest](https://github.com/AltSysrq/proptest) - Hypothesis-like property testing for Rust.
 
 ## Error
 
