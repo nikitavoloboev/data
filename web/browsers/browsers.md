@@ -34,3 +34,4 @@
 - [Web Extensions - Shipit](https://github.com/LinusU/wext-shipit) - Automate the process of shipping Web Extensions for Chrome, Firefox, Safari, Opera and Edge.
 - [Pico](https://github.com/gripeless/pico) - Take browser screenshots in JavaScript.
 - [Can I Use](https://caniuse.com/) - Browser support tables for modern web technologies.
+- [Wildcard](https://www.geoffreylitt.com/wildcard/) - Browser extension for customizing web apps with a spreadsheet view. ([Code](https://github.com/geoffreylitt/wildcard))
