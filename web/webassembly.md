@@ -74,3 +74,4 @@
 - [First impressions on Rust and Webassembly (2020)](https://techadv.xyz/posts/rust-wasm/)
 - [Build your own WebAssembly Compiler (2019)](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 - [WAKit](https://github.com/akkyie/WAKit) - WebAssembly runtime written in Swift.
+- [gasm](https://github.com/mathetake/gasm) - WASM Virtual Machine for Gophers.

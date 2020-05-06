@@ -397,6 +397,7 @@
 - [go-diff](https://github.com/sergi/go-diff) - Diff, match and patch text in Go.
 - [circuitbreaker](https://github.com/rubyist/circuitbreaker) - Provides an easy way to use the Circuit Breaker pattern in a Go program.
 - [UniPDF](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files.
+- [OpenTelemetry-Go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK.
 
 ## Links
 

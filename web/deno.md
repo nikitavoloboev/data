@@ -13,3 +13,4 @@
 - [now-deno](https://github.com/lucacasonato/now-deno) - ZEIT Now Deno builder - run Deno on Zeit.
 - [Deno WebView](https://github.com/eliassjogreen/deno_webview) - Deno bindings for webview, a tiny library for creating web-based desktop GUIs.
 - [Awesome Deno](https://github.com/denolib/awesome-deno#readme)
+- [Deno in 100 Seconds](https://www.youtube.com/watch?v=F0G9lZ7gecE)

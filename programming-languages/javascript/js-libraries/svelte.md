@@ -25,3 +25,4 @@
 - [Why Svelte is our choice for a large web project in 2020](https://github.com/feltcoop/why-svelte#readme)
 - [Svelte SSR example](https://github.com/PierBover/svelte-ssr-example)
 - [Tan Li Hau: The Svelte Compiler (2020)](https://www.youtube.com/watch?v=e2pGS1eqja8)
+- [svelte-grid](https://github.com/vaheqelyan/svelte-grid) - Responsive, draggable and resizable grid layout, for Svelte.

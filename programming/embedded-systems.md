@@ -34,3 +34,4 @@
 - [Awesome Bare Metal](https://github.com/alexellis/awesome-baremetal#readme)
 - [usbarmory.rs](https://github.com/iqlusioninc/usbarmory.rs) - Bare metal Rust support for USB armory MkII devices.
 - [cortex-a](https://github.com/rust-embedded/cortex-a) - Low level access to Cortex-A processors.
+- [Tinkerbell](https://github.com/tinkerbell/tink) - Bare metal provisioning and workflow engine.

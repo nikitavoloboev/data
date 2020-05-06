@@ -291,6 +291,7 @@
 - [CacheAdvance](https://github.com/dfed/CacheAdvance) - Performant cache for logging systems. CacheAdvance persists log events 30x faster than SQLite.
 - [Table](https://github.com/ShawnBaek/Table) - Helper function to print the table.
 - [PMJSON](https://github.com/postmates/PMJSON) - Pure Swift JSON encoding/decoding library.
+- [Marklight](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS and macOS.
 
 ## Other (not lib)
 
