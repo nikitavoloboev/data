@@ -16,3 +16,4 @@
 - [Michel Weststrate — MobX and the unique symbiosis of predictability and speed (2019)](https://www.youtube.com/watch?v=NBYbBbjZeX4)
 - [Is mobx magic? (2020)](https://www.christianfscott.com/is-mobx-magic/)
 - [mst-gql](https://github.com/mobxjs/mst-gql) - Bindings for mobx-state-tree and GraphQL.
+- [Introduction to MobX & React in 2020](https://www.youtube.com/watch?v=pnhIJA64ByY)

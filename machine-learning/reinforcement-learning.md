@@ -68,5 +68,4 @@
 - [metric-learn](https://github.com/scikit-learn-contrib/metric-learn) - Metric Learning in Python.
 - [Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels](https://sites.google.com/view/data-regularized-q) ([Code](https://github.com/denisyarats/drq))
 - [Reinforcement Learning Zoo](https://github.com/tensorlayer/RLzoo) - Collection of the most practical reinforcement learning algorithms, frameworks and applications.
-- [G](https://arxiv.org/abs/2004.13332)
 - [The AI Economist: Improving Equality and Productivity with AI-Driven Tax Policies (2020)](https://blog.einstein.ai/the-ai-economist/) ([Paper](https://arxiv.org/abs/2004.13332)) ([Twitter](https://twitter.com/RichardSocher/status/1255554801510674432))
