@@ -605,6 +605,7 @@
   - [Figma](design/figma/figma.md)
     - [Figma plugins](design/figma/figma-plugins.md)
   - [Framer](design/framer.md)
+  - [Inkscape](design/inkscape.md)
   - [Design systems](design/design-systems.md)
   - [Logos](design/logos.md)
   - [Color](design/color.md)
