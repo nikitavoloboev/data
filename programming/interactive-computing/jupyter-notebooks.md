@@ -53,3 +53,4 @@
 - [nbclean](https://github.com/choldgraf/nbclean) - Collection of tools to preprocess, modify, and otherwise clean up Jupyter Notebooks.
 - [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter#readme)
 - [Littlest JupyterHub](https://github.com/jupyterhub/the-littlest-jupyterhub) - Simple JupyterHub distribution for 1-100 users on a single server.
+- [I don't like notebooks - Joel Grus (2018)](https://www.youtube.com/watch?v=7jiPeIFXb6U)
