@@ -16,3 +16,4 @@
 - [R Graphics Cookbook (2019)](https://r-graphics.org/)
 - [HN: R 4.0 (2020)](https://news.ycombinator.com/item?id=22966332)
 - [MOSAIC R package](https://github.com/ProjectMOSAIC/mosaic) - Designed to facilitate the use of R in statistics and calculus.
+- [A roadmap for getting started with R (2020)](https://oscarbaruffa.com/a-roadmap-for-getting-started-with-r/)
