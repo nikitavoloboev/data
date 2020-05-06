@@ -44,3 +44,4 @@
 - [Indie.vc](https://www.indie.vc/) - Program designed to fund and support founders on a path to profitability.
 - [IA Ventures](http://www.iaventures.com/) - Early-stage venture capital firm.
 - [Cherry VC](https://www.cherry.vc/)
+- [Venture Capital - Silicon Valley Ponzi Scheme - Chamath Palihapitiya (2019)](https://www.youtube.com/watch?v=NVVsdlHslfI)

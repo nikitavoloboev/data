@@ -71,3 +71,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Main-thread Scheduling API](https://github.com/WICG/main-thread-scheduling)
 - [The Open Web Is Dying (2020)](https://perezbox.com/2020/04/the-open-web-is-dying/) ([HN](https://news.ycombinator.com/item?id=23026998))
 - [Gemini – A new, collaboratively designed internet protocol](https://gemini.circumlunar.space/) ([HN](https://news.ycombinator.com/item?id=23042424))
+- [Snowpack](https://www.snowpack.dev/) - Build web applications with less tooling and 10x faster iteration. No bundler required. ([Code](https://github.com/pikapkg/snowpack))

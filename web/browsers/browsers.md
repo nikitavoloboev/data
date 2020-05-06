@@ -35,3 +35,4 @@
 - [Pico](https://github.com/gripeless/pico) - Take browser screenshots in JavaScript.
 - [Can I Use](https://caniuse.com/) - Browser support tables for modern web technologies.
 - [Wildcard](https://www.geoffreylitt.com/wildcard/) - Browser extension for customizing web apps with a spreadsheet view. ([Code](https://github.com/geoffreylitt/wildcard))
+- [Axiom](https://axiom.ai/) - Create custom bots in seconds, or use ready-made templates. ([HN](https://news.ycombinator.com/item?id=23089243))

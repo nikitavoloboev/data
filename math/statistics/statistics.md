@@ -22,7 +22,7 @@
 - [Michael I. Jordan statistics courses](https://people.eecs.berkeley.edu/~jordan/courses.html)
 - [Stan](https://mc-stan.org/) - State-of-the-art platform for statistical modeling and high-performance statistical computation.
 - [An Overview of Bayesian Inference (2019)](https://jaydaigle.net/blog/overview-of-bayesian-inference/)
-- [Bayesian Data Analysis (2020)](https://users.aalto.fi/~ave/BDA3.pdf)
+- [Bayesian Data Analysis (2020)](https://users.aalto.fi/~ave/BDA3.pdf) ([Web](http://www.stat.columbia.edu/~gelman/book/))
 - [Bayesian Data Analysis course material (2020)](https://github.com/avehtari/BDA_course_Aalto)
 - [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
 - [At the Interface of Algebra and Statistics (2020)](https://www.youtube.com/watch?v=wiadG3ywJIs) ([Article](https://www.math3ma.com/blog/at-the-interface-of-algebra-and-statistics))

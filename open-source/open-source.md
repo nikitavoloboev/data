@@ -80,3 +80,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Spasibo](https://github.com/artemnovichkov/spasibo) - Simple command-line tool to supporting open-source frameworks.
 - [Monetizing open source (2020)](https://twitter.com/zenorocha/status/1252252675522981890)
 - [on the usability of editable software](https://flak.tedunangst.com/post/on-the-usability-of-editable-software) ([Lobsters](https://lobste.rs/s/qkpwpa/on_usability_editable_software))
+- [How to promote your open source project (2020)](https://www.youtube.com/watch?v=b1pyh2XCyrg)
