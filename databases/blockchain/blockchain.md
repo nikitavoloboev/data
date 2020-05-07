@@ -13,6 +13,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 
 - [Horizon State](https://horizonstate.com/) - Digital voting.
 - [Blockstack](https://blockstack.org/) - Decentralized apps on Blockstack let you own your data so you can maintain your privacy, security and freedom.
+- [Polkadot](https://polkadot.network/)
 - [Cardano](https://github.com/input-output-hk/cardano-sl/) - Cryptographic currency implementing Ouroboros PoS protocol.
 - [Iden3](https://iden3.io/) - Decentralized identity management solution.
 - [Gnosis](https://gnosis.io/) - Through blockchain-based, decentralized platforms, we enable the redistribution of resources—from assets to incentives, and information to ideas.
@@ -57,11 +58,8 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [MIT: Blockchain and Money (2018)](https://ocw.mit.edu/courses/sloan-school-of-management/15-s12-blockchain-and-money-fall-2018/) ([Lectures](https://www.youtube.com/watch?v=EH6vE97qIP4))
 - [Substrate Recipes](https://substrate.dev/recipes/) - Cookbook of working examples that demonstrate best practices when building blockchains with Substrate. ([Code](https://github.com/substrate-developer-hub/recipes))
 - [Zebra](https://github.com/ZcashFoundation/zebra) - Rust implementation of a Zcash node.
-- [Gossamer](https://github.com/ChainSafe/gossamer) - Go implementation of the Polkadot Host.
 - [Mechanism Design with Blockchain Enforcement (2020)](https://www.carf.e.u-tokyo.ac.jp/admin/wp-content/uploads/2020/03/F474.pdf)
 - [Ask HN: Are there any substantial examples of blockchain solving a real problem? (2020)](https://news.ycombinator.com/item?id=22914430)
 - [Deconstructing Stellar Consensus (Extended Version) (2019)](https://arxiv.org/pdf/1911.05145.pdf)
 - [ink!](https://github.com/paritytech/ink) - eDSL to write WebAssembly based smart contracts using the Rust programming language targeting Substrate blockchains.
-- [Polkadot](https://github.com/paritytech/polkadot) - Polkadot Node Implementation.
 - [Experimental blockchain database](https://github.com/paritytech/parity-db)
-- [@polkadot/apps](https://github.com/polkadot-js/apps) - Portal into the Polkadot and Substrate networks. Provides a view and interaction layer from a browser.

@@ -47,7 +47,6 @@
 - [react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text.
 - [Hooked-Form](https://github.com/JoviDeCroock/hooked-form) - Form library implemented with Hooks.
 - [stated-bean](https://github.com/mjolnirjs/stated-bean) - Light but scalable state management library with react hooks, inspired by unstated-next.
-- [react-diagrams](https://github.com/projectstorm/react-diagrams) - Super simple, no-nonsense diagramming library written in react that just works.
 - [Why Did You Render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders.
 - [react-day-picker](https://github.com/gpbl/react-day-picker) - Flexible date picker for React.
 - [react-a11y-dialog](https://github.com/HugoGiraudel/react-a11y-dialog) - React component for a11y-dialog relying on React portals to ease the use of accessible dialog windows in React applications.
@@ -89,6 +88,9 @@
 - [React-Focus-On](https://github.com/theKashey/react-focus-on) - Solution for WAI ARIA compatible modal dialogs or full-screen tasks.
 - [downshift](https://github.com/downshift-js/downshift) - Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components.
 - [Muuri-React](https://github.com/Paol-imi/muuri-react) - React implementation of the amazing Muuri layout engine.
+- [react-flow-diagram](https://github.com/DrummerHead/react-flow-diagram) - Batteries included React Component for rendering, creating and editing Diagrams.
+- [react-diagrams](https://github.com/projectstorm/react-diagrams) - Super simple, no-nonsense diagramming library written in react that just works.
+- [React Flow](https://github.com/wbkd/react-flow) - Library for Rendering Interactive Graphs. ([HN](https://news.ycombinator.com/item?id=23080346)) ([Article](https://webkid.io/blog/react-flow-node-based-graph-library/))
 
 ## Links
 

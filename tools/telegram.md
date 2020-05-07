@@ -33,3 +33,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [List of telegram groups, channels & bots](https://github.com/goq/telegram-list#readme)
 - [Telegram Bot Code Samples](https://core.telegram.org/bots/samples)
 - [Awesome Telegram](https://github.com/serhii-londar/awesome-telegram#readme)
+- [The Evolution of Telegram](https://telegram.org/evolution)

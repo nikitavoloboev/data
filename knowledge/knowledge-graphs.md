@@ -22,4 +22,3 @@
 - [Datasets for Knowledge Graph Completion with Textual Information about Entities](https://github.com/villmow/datasets_knowledge_embedding)
 - [Knowledge Graph Radar](https://github.com/brettkromkamp/knowledge-graph-radar#readme) - Keep track of interesting things in the knowledge graph space.
 - [dstlr](https://github.com/dstlry/dstlr) - Scalable knowledge graph construction from unstructured text.
-- [React Flow - A Library for Rendering Interactive Graphs](https://webkid.io/blog/react-flow-node-based-graph-library/) ([HN](https://news.ycombinator.com/item?id=23080346))

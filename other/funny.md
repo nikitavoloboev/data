@@ -29,3 +29,4 @@
 - [Dog sporting event](https://twitter.com/MrAndrewCotter/status/1248313303270596610)
 - [Funny YouTube Playlist](https://www.youtube.com/playlist?list=PL0nGxteCFLXYK7svEgDwWR1WiTbhBkIi_)
 - [Bill Hicks - Sane Man (1989)](https://www.youtube.com/watch?v=kH_tUpcCbrg)
+- [Peak comedy](https://twitter.com/hdebeaufort/status/1257316175773437953) ([2](https://twitter.com/Stingrayling/status/1257612102988034049)) ([3](https://twitter.com/mitchambrown/status/1257621384513097729))

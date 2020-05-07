@@ -12,3 +12,4 @@
 - [Awesome Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [Embedding Lua Tutorial](https://github.com/davepoo/EmbeddingLuaTutorial)
 - [Lunatic Python](https://github.com/bastibe/lunatic-python) - Two-way bridge between Python and Lua.
+- [Interesting things about the Lua interpreter (2020)](https://thesephist.com/posts/lua/)

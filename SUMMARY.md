@@ -650,6 +650,7 @@
   - [Cassandra](databases/cassandra.md)
   - [Blockchain](databases/blockchain/blockchain.md)
     - [Ethereum](databases/blockchain/ethereum.md)
+    - [Polkadot](databases/blockchain/polkadot.md)
     - [Cardano](databases/blockchain/cardano.md)
 - [Art](art/art.md)
   - [Photography](art/photography.md)

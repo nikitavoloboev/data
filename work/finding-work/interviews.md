@@ -68,3 +68,4 @@
 - [How To Interview Engineers When You’re Not Technical](https://www.greghausheer.com/articles/how-to-interview-engineers-when-youre-not-technical) ([Part 2](https://www.greghausheer.com/articles/how-to-interview-engineers-when-youre-not-technical-part-ii)) ([HN](https://news.ycombinator.com/item?id=22855122))
 - [Cockroach Labs Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process#readme)
 - [Metaview](https://metaview.app/) - Personal interviewer coaching.
+- [De-Coding The Interview Process book (2020)](https://gumroad.com/l/aUVXY)
