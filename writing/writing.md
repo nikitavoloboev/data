@@ -138,3 +138,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Good writing is a business advantage](https://adaged.blogspot.com/2020/04/good-writing-is-business-advantage.html) ([HN](https://news.ycombinator.com/item?id=23006106))
 - [How to Grow Your Business by Writing: Sahil Lavingia + David Perell (2020)](https://www.youtube.com/watch?v=grXrGaT7DLw)
 - [Hemingway App](http://www.hemingwayapp.com/) - Makes your writing bold and clear.
+- [Making sense of Design Unbound vs. prior theories of collaborative design work (2020)](https://www.twitch.tv/videos/611050187)
