@@ -64,3 +64,4 @@
 - [NextJS Tips](https://nextjstips.com/) - Collection of useful daily Next.js tips that will allow you to improve your skills.
 - [Deploying a Next app with AWS Amplify Hosting (2020)](https://dev.to/dabit3/5-minute-tutorial-deploying-a-next-app-with-aws-amplify-hosting-5199)
 - [nookies](https://github.com/maticzav/nookies) - Collection of cookie helpers for Next.js
+- [Building a Markdown blog with Next 9.3 and Netlify (2020)](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.3-and-netlify/)
