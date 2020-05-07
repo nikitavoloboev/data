@@ -20,6 +20,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans#r
 - [A Conversation with Arthur Whitney (2009)](https://queue.acm.org/detail.cfm?id=1531242)
 - [Playboy Interview: Steve Jobs (1985)](http://reprints.longform.org/playboy-interview-steve-jobs) ([HN](https://news.ycombinator.com/item?id=21374308))
 - [Life, Death and the Monster (John Conway)](https://www.youtube.com/watch?v=xOCe5HUObD4)
+- [Joe Rogan Experience #1470 - Elon Musk (2020)](https://www.youtube.com/watch?v=RcYjXbSJBN8)
 
 ## Personal workflows
 

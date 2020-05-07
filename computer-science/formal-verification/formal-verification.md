@@ -24,3 +24,4 @@
 - [Verification Competitions (2020)](https://alastairreid.github.io/verification-competitions/)
 - [K Framework – An Overview (2018)](https://runtimeverification.com/blog/k-framework-an-overview/)
 - [Learning to Prove Theorems via Interacting with Proof Assistants (2019)](https://arxiv.org/abs/1905.09381)
+- [How do I rigorously translate a spec to implementation, and how do I keep them in sync? (2020)](https://twitter.com/hillelogram/status/1258440258343112715)
