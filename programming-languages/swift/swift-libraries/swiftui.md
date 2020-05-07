@@ -50,3 +50,4 @@
 - [SwiftUI by Examples](https://github.com/artemnovichkov/SwiftUI-by-Examples)
 - [Introspect for SwiftUI](https://github.com/siteline/SwiftUI-Introspect) - Allows you to get the underlying UIKit or AppKit element of a SwiftUI view.
 - [Suitcase](https://github.com/Impedimenta/Suitcase) - Command line tool that can be "programmed" to display a SwiftUI interface that can trigger commands and scripts. ([HN](https://news.ycombinator.com/item?id=23018209))
+- [SwiftUI Airtable Demo](https://github.com/zackshapiro/SwiftUIAirtableDemo) ([HN](https://news.ycombinator.com/item?id=23106155))
