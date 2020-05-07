@@ -22,3 +22,4 @@
 - [Easy SEO Wins (2020)](https://kylemcd.com/posts/easy-seo-wins/)
 - [Nozzle](https://nozzle.io/) - Enterprise keyword rank tracker tool.
 - [How SEO Ruined the Internet](https://www.superhighway98.com/seo) ([HN](https://news.ycombinator.com/item?id=22792054))
+- [SEO is Not Hard — A step-by-step SEO Tutorial for beginners that will get you ranked every single time (2016)](https://medium.com/startup-grind/seo-is-not-hard-a-step-by-step-seo-tutorial-for-beginners-that-will-get-you-ranked-every-single-1b903b3ab6bb)

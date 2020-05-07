@@ -160,6 +160,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Books I recommend to my software engineering students (2020)](http://web.eecs.utk.edu/~azh/blog/booksformystudents.html) ([HN](https://news.ycombinator.com/item?id=22962869))
 - [Calvin French-Owen's bookshelf](https://calv.info/bookshelf)
 - [Maksim Stepanenko's bookshelf](http://maksim.ms/books/)
+- [Austen Allred's reading list](https://austenallred.com/reading)
 
 ## Notes
 
