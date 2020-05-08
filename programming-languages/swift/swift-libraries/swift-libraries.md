@@ -292,6 +292,7 @@
 - [Table](https://github.com/ShawnBaek/Table) - Helper function to print the table.
 - [PMJSON](https://github.com/postmates/PMJSON) - Pure Swift JSON encoding/decoding library.
 - [Marklight](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS and macOS.
+- [Validated PropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers.
 
 ## Other (not lib)
 
