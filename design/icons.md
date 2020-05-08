@@ -20,3 +20,4 @@
 - [Designing App Icons (2020)](https://www.youtube.com/playlist?list=PLxpqfOFALZU9IG6DbP3inWOgm3Rzv4ISd)
 - [Ikonate](https://ikonate.com/) - Fully customisable & accessible vector icons. ([Code](https://github.com/mikolajdobrucki/ikonate))
 - [Iconoir](https://iconoir.com/) - Simple and Definitive Icons Library.
+- [Timeloop](https://www.timeloop.design/) - Designs by Fabian.

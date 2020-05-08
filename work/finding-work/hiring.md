@@ -8,6 +8,7 @@
 ## Nice Job pages
 
 - [Linear - In Search of Magic](https://linear.app/readme)
+- [Primer - Founding Front End Engineer](https://www.notion.so/Founding-Frontend-Engineer-San-Francisco-783c2072b9c047a88cb884babb47ef04)
 
 ## Links
 

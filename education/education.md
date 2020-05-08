@@ -34,3 +34,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [HN: Some overwhelmed parents are abandoning at-home schooling (2020)](https://news.ycombinator.com/item?id=23010079)
 - [HN: Unimpressed by online classes, college students file lawsuits for refunds (2020)](https://news.ycombinator.com/item?id=23065308)
 - [Primer](https://www.withprimer.com/) - Building a new kind of education company.
+- [Learning in depth: knowledge and the imagination](http://www.sfu.ca/~egan/Learningdepth.html)

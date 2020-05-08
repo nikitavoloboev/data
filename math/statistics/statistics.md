@@ -30,3 +30,5 @@
 - [Comprehensive Tutorial on Time Series Modelling and Forecasting](https://kanoki.org/2020/04/30/time-series-analysis-and-forecasting-with-arima-python/) ([HN](https://news.ycombinator.com/item?id=23041264))
 - [A Primer on Private Statistics (2020)](https://kamathematics.wordpress.com/2020/04/14/a-primer-on-private-statistics-part-i/)
 - [pyts](https://github.com/johannfaouzi/pyts) - Python package for time series classification.
+- [Causal Data Science with Directed Acyclic Graphs (2019)](https://www.udemy.com/course/causal-data-science/)
+- [Causal Inference in Machine Learning and AI (2020)](https://www.youtube.com/watch?v=GtpnWQ9uTL8)
