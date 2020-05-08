@@ -10,3 +10,4 @@
 - [Session Sauce](https://github.com/ChrisPenner/session-sauce) - Shell plugin for managing tmux sessions.
 - [3mux](https://github.com/aaronjanse/3mux/) - Terminal multiplexer inspired by i3. ([Lobsters](https://lobste.rs/s/fs98xy/terminal_multiplexer_inspired_by_i3)) ([HN](https://news.ycombinator.com/item?id=22843705))
 - [Tmux for Mere Mortals](https://zserge.com/posts/tmux/) ([HN](https://news.ycombinator.com/item?id=23003603))
+- [tmux2html](https://github.com/tweekmonster/tmux2html) - Render full tmux windows or individual panes as HTML.
