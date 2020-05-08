@@ -69,4 +69,4 @@
 - [Web Vitals](https://web.dev/vitals/) - Essential metrics for a healthy site. ([Article](https://blog.chromium.org/2020/05/introducing-web-vitals-essential-metrics.html)) ([HN](https://news.ycombinator.com/item?id=23081509)) ([Extension](https://github.com/GoogleChrome/web-vitals-extension))
 - [The Cost of Javascript Frameworks (2020)](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/) ([HN](https://news.ycombinator.com/item?id=23114742))
 - [0x10 Rules](http://fabiensanglard.net/ilike/index.html)
-- [Fast or Slow](https://www.fastorslow.com/) - Global speed profiler.
+- [Fast or Slow](https://www.fastorslow.com/) - Global speed profiler. ([HN](https://news.ycombinator.com/item?id=23119701))

@@ -7,3 +7,4 @@
 - [Rust implementation of MDX](https://github.com/mdx-js/rust)
 - [MDX use examples](https://twitter.com/JoshWComeau/status/1243136771652751360)
 - [How to parse MDX](https://github.com/micromark/mdx-state-machine)
+- [Sector, the future of MDX, and Digital Gardens (2020)](https://egghead.io/lessons/egghead-sector-the-future-of-mdx-and-digital-gardens)
