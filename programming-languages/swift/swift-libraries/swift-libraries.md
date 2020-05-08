@@ -62,6 +62,7 @@
 - [SwiftMessages](https://github.com/SwiftKickMobile/SwiftMessages) - Very flexible message bar for iOS written in Swift.
 - [Purchases](https://github.com/RevenueCat/purchases-ios) - iOS subscriptions and purchases made easy.
 - [ConfettiView](https://github.com/NSHipster/ConfettiView) - View that emits confetti with shapes, images, and text of your choosing for a specified duration, and then fades out.
+- [SwiftyPickerPopover](https://github.com/hsylife/SwiftyPickerPopover) - More convenient way to display a popover with a built-in picker.
 
 ## macOS
 

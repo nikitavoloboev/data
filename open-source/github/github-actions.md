@@ -43,6 +43,7 @@
 ## Go
 
 - [gobenchdata](https://github.com/bobheadxi/gobenchdata) - Tool for inspecting go test -bench data, and a GitHub Action for continuous benchmarking.
+- [golangci-lint](https://github.com/actions-contrib/golangci-lint) - GitHub Action for interacting with GolangCI-Lint.
 
 ## Rust
 
