@@ -135,3 +135,4 @@
 - [Hero Generator](https://hero-generator.netlify.app/) - Create a nice hero image for your site or app. ([Code](https://github.com/sdras/hero-generator))
 - [PrefaceCSS](https://cluzier.github.io/PrefaceCSS/dist/index.html) - CSS Boilerplate for minimalists. ([Code](https://github.com/cluzier/PrefaceCSS))
 - [You Need to Know CSS](https://lhammer.cn/You-need-to-know-css/#/) - CSS tricks web developers need to know. ([Code](https://github.com/l-hammer/You-need-to-know-css))
+- [Pure CSS Landscape - An Evening in Southwold](https://codepen.io/ivorjetski/pen/xxGYWQG) ([Video](https://www.youtube.com/watch?v=rUCVBNNyjC4))

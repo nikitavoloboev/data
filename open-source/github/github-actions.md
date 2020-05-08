@@ -101,3 +101,4 @@
 - [Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/summerwind/actions-runner-controller)
 - [fetch-actions-logs](https://github.com/ncw/fetch-actions-logs) - Simple program to fetch your github actions logs using the GitHub API.
 - [Github Actions tutorial](https://github.com/padok-team/github-actions-tutorial)
+- [Run GitHub Actions locally for fast feedback (2020)](https://www.youtube.com/watch?v=jzdHKwGVjvk)

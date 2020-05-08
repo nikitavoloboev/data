@@ -228,3 +228,4 @@
 - [Interactive Tools for ML, DL and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools#readme)
 - [Deep learning with graph-structured representations (2020)](https://pure.uva.nl/ws/files/46900201/Thesis.pdf)
 - [Interactive Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments)
+- [AxCell: Automatic Extraction of Results from Machine Learning Papers (2020)](https://arxiv.org/abs/2004.14356)
