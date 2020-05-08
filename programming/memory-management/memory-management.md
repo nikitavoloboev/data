@@ -14,3 +14,4 @@
 - [Writing a Mark-Sweep Garbage Collector (2020)](http://dmitrysoshnikov.com/compilers/writing-a-mark-sweep-garbage-collector/)
 - [rpmalloc](https://github.com/mjansson/rpmalloc) - Cross platform lock free thread caching 16-byte aligned memory allocator implemented in C.
 - [memleax](https://github.com/WuBingzheng/memleax) - Debugs memory leak of a running process by attaching it, without recompiling or restarting.
+- [An introduction to virtual memory (2020)](https://www.internalpointers.com/post/introduction-virtual-memory) ([HN](https://news.ycombinator.com/item?id=23096747))
