@@ -102,3 +102,4 @@
 - [Tacotron 2 (without wavenet)](https://github.com/NVIDIA/tacotron2) - PyTorch implementation of Natural TTS Synthesis By Conditioning Wavenet On Mel Spectrogram Predictions.
 - [pytorch-crf](https://github.com/kmkurn/pytorch-crf) - Conditional random field in PyTorch.
 - [torchprof](https://github.com/awwong1/torchprof) - PyTorch layer-by-layer model profiler.
+- [A Taste of PyTorch C++ frontend API (2020)](https://medium.com/pytorch/a-taste-of-pytorch-c-frontend-api-8ec5209823ca)

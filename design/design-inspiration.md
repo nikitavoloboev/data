@@ -112,6 +112,7 @@ Here are few more things I liked, design wise.
 - [Marvin Hagemeister](https://marvinh.dev/)
 - [Nienke Dekker](https://nienke.dev/)
 - [Jon Kuperman](https://jonkuperman.com/)
+- [Patrik Huebner](https://www.patrik-huebner.com/)
 - [Josh Comeau](https://joshwcomeau.com/)
 - [Jon Gjengset](https://thesquareplanet.com/)
 - [Robert Squires](https://robertsquires.co.uk/)
