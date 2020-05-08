@@ -41,3 +41,4 @@
 - [Quze](https://app.quze.co/) - Enables you to identify your skills gap and design your learning experiences.
 - [Ask HN: What scientific phenomenon do you wish someone would explain better? (2020)](https://news.ycombinator.com/item?id=22989280)
 - [How can we develop transformative tools for thought? (2019)](https://numinous.productions/ttft/)
+- [How I Turned an Idea into \$7K by Teaching Online (2020)](https://leerob.io/blog/teach-online)
