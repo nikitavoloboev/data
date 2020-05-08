@@ -46,3 +46,4 @@
 - [What is the best way to learn Lisp in 2020?](https://news.ycombinator.com/item?id=22913750)
 - [hy](https://github.com/hylang/hy) - Dialect of Lisp that's embedded in Python.
 - [Simple lisp interpreter written from scratch in TS](https://github.com/christianscott/lisp)
+- [Why is Lisp not as popular as Python? (2020)](https://lobste.rs/s/f0rlcw/why_is_lisp_not_as_popular_as_python)
