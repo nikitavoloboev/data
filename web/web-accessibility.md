@@ -19,3 +19,4 @@
 - ["Building Inclusive Components" with Heydon Pickering (2019)](https://www.youtube.com/watch?v=C7uX6uvHnlQ&t=1020s)
 - [BBC Global Experience Language (GEL)](https://bbc.github.io/gel/) ([Web](https://www.bbc.co.uk/gel)) ([Code](https://github.com/bbc/gel))
 - [Web Accessibility courses/resources](https://www.reddit.com/r/webdev/comments/aqm6l4/i_cant_find_a_single_web_accessibility_course/)
+- [Web and Media Accessibility Group AMA (2020)](https://hashnode.com/post/the-web-and-media-accessibility-group-ama-ck9wy7s5w01j4nbs1kle8k7gn)
