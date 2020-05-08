@@ -46,3 +46,4 @@ Might give it a go sometime.
 - [The most successful malleable system in history (2020)](https://malleable.systems/blog/2020/04/01/the-most-successful-malleable-system-in-history/) ([HN](https://news.ycombinator.com/item?id=22875106))
 - [Ask HN: Resources to grok Emacs and use it well? (2020)](https://news.ycombinator.com/item?id=22881808)
 - [Evolution of Emacs Lisp](http://www.iro.umontreal.ca/~monnier/hopl-4-emacs-lisp.pdf) ([HN](https://news.ycombinator.com/item?id=23080417))
+- [Making Emacs popular again (2020)](https://lwn.net/SubscriberLink/819452/1480c3a59d3d9093/) ([Lobsters](https://lobste.rs/s/ueqxbu/making_emacs_popular_again)) ([HN](https://news.ycombinator.com/item?id=23107123))

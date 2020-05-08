@@ -29,3 +29,4 @@ Here are tools I use for streaming:
 - [How to get started live streaming on Twitch and YouTube (2020)](https://mattstauffer.com/blog/how-to-get-started-live-streaming-on-twitch-and-youtube/)
 - [My Livestreaming Setup (2020)](https://theworst.dev/my-livestreaming-setup/)
 - [Popdog](https://popdog.com/) - All streams in one place.
+- [Twitch Roulette](https://twitchroulette.net/) - Find and chat with streamers who are streaming alone. ([HN](https://news.ycombinator.com/item?id=23114103))
