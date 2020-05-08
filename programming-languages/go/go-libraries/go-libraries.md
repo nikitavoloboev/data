@@ -83,6 +83,7 @@
 - [Redcon](https://github.com/tidwall/redcon) - Custom Redis server framework for Go that is fast and simple to use.
 - [Go SQLite3 driver](https://github.com/crawshaw/sqlite)
 - [txdb](https://github.com/DATA-DOG/go-txdb) - Immutable transaction isolated sql driver for golang.
+- [MySQL Compatible SQL Parser](https://github.com/pingcap/parser)
 
 ## ML
 

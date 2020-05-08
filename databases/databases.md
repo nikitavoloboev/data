@@ -136,3 +136,4 @@
 - [polluter](https://github.com/romanyx/polluter) - Easiest solution to seed database with Go.
 - [In Search of a Local-First Database (2020)](https://jaredforsyth.com/posts/in-search-of-a-local-first-database/)
 - [Local-first database: remoteStorage.js (2020)](https://jaredforsyth.com/posts/local-first-database-remotestorage/)
+- [Jon Gjengset's PhD thesis](https://github.com/jonhoo/thesis)

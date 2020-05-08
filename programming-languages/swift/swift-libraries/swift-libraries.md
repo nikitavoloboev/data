@@ -97,6 +97,7 @@
 - [Swift Request](https://github.com/carson-katri/swift-request) - Declarative HTTP networking, designed for SwiftUI.
 - [PartialSheet](https://github.com/AndreaMiotto/PartialSheet) - Custom SwiftUI modifier to present a Partial Modal Sheet based on his content size.
 - [SwiftClockUI](https://github.com/renaudjenny/SwiftClockUI) - SwiftUI library to display a clock. You can move the arms to change the time, change the style of the clock and customise some configurations.
+- [FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
 ## Test
 

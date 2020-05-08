@@ -8,6 +8,7 @@
 - [GitHub JS](https://github.com/octokit/core.js) - Extendable client for GitHub's REST & GraphQL APIs.
 - [GitHub Rust](https://github.com/softprops/hubcaps)
 - [GitHub Swift](https://github.com/mdiep/Tentacle) - Swift framework for the GitHub API.
+- [GitHub Python](https://github.com/PyGithub/PyGithub)
 - [GitHub Gists Python](https://github.com/softvar/simplegist) - Advanced python wrapper for Github Gist API.
 - [Hacker News](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API.
 - [Dropbox](https://github.com/dropbox/dbxcli) - Command line client for Dropbox built using the Go SDK.

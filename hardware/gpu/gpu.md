@@ -10,3 +10,4 @@
 - [Basis Universal GPU Texture Codec](https://github.com/BinomialLLC/basis_universal)
 - [NVIDIA GPU Monitoring Tools](https://github.com/NVIDIA/gpu-monitoring-tools)
 - [A Taste of GPU Compute (2020)](https://www.youtube.com/watch?v=eqkAaplKBc4) ([Slides](https://docs.google.com/presentation/d/1FRH81IW9RffkJjm6ILFZ7raCgFAUPXYYFXfiyKmhkx8/edit)) ([HN](https://news.ycombinator.com/item?id=22880502))
+- [KeOps](https://github.com/getkeops/keops) - Kernel Operations on the GPU, with autodiff, without memory overflows.
