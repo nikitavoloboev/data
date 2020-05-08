@@ -117,7 +117,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Oscean](https://wiki.xxiivv.com/site/oscean.html) - Static wiki engine written entirely in C, designed to be deployed from low-power devices with gcc as its only dependecy.
 - [Building personal search infrastructure for your knowledge and code (2019)](https://beepb00p.xyz/pkm-search.html) ([HN](https://news.ycombinator.com/item?id=22160572))
 - [Against unnecessary databases (2020)](https://beepb00p.xyz/unnecessary-db.html)
-- [Promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind.
+- [Promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind. ([Article](https://beepb00p.xyz/promnesia.html))
 - [My productivity app for the past 12 years has been a single .txt file (2020)](https://jeffhuang.com/productivity_text_file/) ([HN](https://news.ycombinator.com/item?id=22276184)) ([Lobsters](https://lobste.rs/s/ettc1n/my_productivity_app_is_single_txt_file))
 - [Contextualise](https://github.com/brettkromkamp/contextualise) - Simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources.
 - [How To Take Smart Notes With Org-mode (2020)](https://blog.jethro.dev/posts/how_to_take_smart_notes_org/) ([HN](https://news.ycombinator.com/item?id=22337681))

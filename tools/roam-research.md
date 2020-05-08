@@ -9,3 +9,4 @@
 - [Nat reveals the Roam setup that he uses to run his life (2020)](https://superorganizers.substack.com/p/nat-eliason-is-living-in-the-matrix) ([Tweet](https://twitter.com/nbashaw/status/1255554080837005312))
 - [Awesome Roam](https://github.com/roam-unofficial/awesome-roam#readme)
 - [Roam Research Issue Tracker](https://github.com/Roam-Research/issues)
+- [20VC: Roam Research Analyzes Product Design and Team Building (2020)](https://thetwentyminutevc.com/conorwhitesullivan/) ([HN](https://news.ycombinator.com/item?id=23117876))
