@@ -30,3 +30,5 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Irssi](https://github.com/irssi/irssi) - Modular chat client that is most commonly known for its text mode user interface, but 80% of the code isn't text mode specific.
 - [Pounce](https://git.causal.agency/pounce/about/) - Multi-client, TLS-only IRC bouncer. ([Lobsters](https://lobste.rs/s/aezalh/pounce_new_irc_bouncer))
 - [HN: Many IRC servers (2020)](https://news.ycombinator.com/item?id=22892015)
+- [RobustIRC](https://robustirc.net/) - IRC without netsplits.
+- [Oragono](https://github.com/oragono/oragono) - Modern IRC server written in Go. ([HN](https://news.ycombinator.com/item?id=23113323))

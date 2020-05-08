@@ -150,6 +150,7 @@
 - [Funnels for Startups: A Primer](https://www.startuphacks.vc/blog/2017/02/03/funnels-for-startups-a-primer)
 - [Startup financial models – Templates compared for SaaS (2020)](https://www.stephnass.com/blog/startup-financial-model) ([HN](https://news.ycombinator.com/item?id=23061796))
 - [Canny: How They Built A Startup While Traveling (\$500,000 / year in revenue) (2019)](https://www.youtube.com/watch?v=5W3oTG3F-Dw)
+- [Immigrant Founders](https://immigrantfounders.com/) ([Twitter](https://twitter.com/albertoarenaza/status/1258748180688232451))
 
 ## Images
 
