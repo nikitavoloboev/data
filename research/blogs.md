@@ -69,3 +69,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Why My Blog is Closed-Source](https://joshwcomeau.com/misc/why-my-blog-is-closed-source/)
 - [Why it's great to write blog posts (2020)](https://sanderknape.com/2020/04/why-great-write-blog-posts/) ([HN](https://news.ycombinator.com/item?id=23067352))
 - [Tips on growing a blog (2020)](https://twitter.com/monicalent/status/1258750975021588483)
+- [Everything I've learned in 10 years of Blogging (2018)](https://ferrucc.io/posts/starting-a-blog/)

@@ -111,10 +111,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Managing my personal knowledge base (2020)](https://tkainrad.dev/posts/managing-my-personal-knowledge-base/) ([HN](https://news.ycombinator.com/item?id=22000791))
 - [my](https://github.com/karlicoss/my) - Python interface into my life.
 - [What data on myself I collect and why? (2020)](https://beepb00p.xyz/my-data.html)
-- [Roam: Why I Love It and How I Use It (2020)](https://www.nateliason.com/blog/roam)
-- [Roam Research MVP Review: Pages + Bullets = Cool New Product Category (2020)](https://medium.com/bloated-mvp/roam-research-mvp-review-pages-bullets-cool-new-product-category-28baf5dd0a3)
 - [Zettelkästen? (2019)](https://clerestory.netlify.com/zk/)
-- [Roam for Zettlekasting](https://roamresearch.com/#/v8/help/page/VURQiVZQR)
 - [Nototo](https://www.nototo.app/) - All your notes. On one map. ([HN](https://news.ycombinator.com/item?id=22087780))
 - [BookStack](https://www.bookstackapp.com/) - Simple, self-hosted, easy-to-use platform for organising and storing information.
 - [Oscean](https://wiki.xxiivv.com/site/oscean.html) - Static wiki engine written entirely in C, designed to be deployed from low-power devices with gcc as its only dependecy.
@@ -126,7 +123,6 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [How To Take Smart Notes With Org-mode (2020)](https://blog.jethro.dev/posts/how_to_take_smart_notes_org/) ([HN](https://news.ycombinator.com/item?id=22337681))
 - [Copernic](http://copernic.space/) - Aims to make practical cooperation around the creation, publication, storage, re-use and maintenance of knowledge bases, and in general structured data that are bigger than memory.
 - [Zettelkasten Method](https://zettelkasten.de/posts/overview/)
-- [Awesome Roam](https://github.com/roam-unofficial/awesome-roam#readme)
 - [A Text Renaissance (2020)](https://www.ribbonfarm.com/2020/02/24/a-text-renaissance/) ([HN](https://news.ycombinator.com/item?id=22442027))
 - [Ask HN: Good ways to capture institutional knowledge? (2020)](https://news.ycombinator.com/item?id=22454333)
 - [Ask HN: How to Take Good Notes? (2020)](https://news.ycombinator.com/item?id=22473209)
@@ -140,6 +136,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [Memex Mobile](https://github.com/WorldBrain/Memex-Mobile) - Mobile app for Memex.
 - [Thread on digital gardens, personal wikis, and experimental knowledge systems (2020)](https://twitter.com/Mappletons/status/1250532315459194880)
-- [Nat reveals the Roam setup that he uses to run his life (2020)](https://superorganizers.substack.com/p/nat-eliason-is-living-in-the-matrix) ([Tweet](https://twitter.com/nbashaw/status/1255554080837005312))
 - [Dogsheep](https://dogsheep.github.io/) - Collection of tools for personal analytics using SQLite and Datasette.
-- [Debate: Roam Research vs. Notion (2020)](https://capiche.com/q/debate-roam-research-vs-notion)

@@ -584,6 +584,7 @@
   - [DuckDuckGo](tools/duckduckgo.md)
   - [IFTTT](tools/ifttt.md)
   - [Notion](tools/notion.md)
+  - [Roam Research](tools/roam-research.md)
   - [Ansible](tools/ansible.md)
   - [Dat](tools/dat.md)
   - [Email](tools/email.md)

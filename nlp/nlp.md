@@ -96,3 +96,4 @@
 - [BERTScore](https://github.com/Tiiiger/bert_score) - BERT score for text generation.
 - [ML and NLP Paper Discussions](https://github.com/dair-ai/ml-nlp-paper-discussions#readme)
 - [NLP Datasets](https://datasets.quantumstat.com/)
+- [Word Embeddings (2017)](https://www.youtube.com/watch?v=5PL0TmQhItY)
