@@ -142,3 +142,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Thread on digital gardens, personal wikis, and experimental knowledge systems (2020)](https://twitter.com/Mappletons/status/1250532315459194880)
 - [Nat reveals the Roam setup that he uses to run his life (2020)](https://superorganizers.substack.com/p/nat-eliason-is-living-in-the-matrix) ([Tweet](https://twitter.com/nbashaw/status/1255554080837005312))
 - [Dogsheep](https://dogsheep.github.io/) - Collection of tools for personal analytics using SQLite and Datasette.
+- [Debate: Roam Research vs. Notion (2020)](https://capiche.com/q/debate-roam-research-vs-notion)

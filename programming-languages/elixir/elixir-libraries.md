@@ -1,5 +1,9 @@
 # Elixir libraries
 
+## Web
+
+- [Finch](https://github.com/keathley/finch) - HTTP client with a focus on performance, built on top of Mint and NimblePool.
+
 ## DB
 
 - [Ecto](https://github.com/elixir-ecto/ecto) - Toolkit for data mapping and language integrated query for Elixir.

@@ -63,6 +63,7 @@
 - [Physics From Symmetry book (2015)](http://physicsfromsymmetry.com/)
 - [No-Nonsense Books on Physics](https://nononsensebooks.com/)
 - [The Wolfram Physics Project (2020)](https://www.wolframphysics.org/) ([HN](https://news.ycombinator.com/item?id=22866284)) ([Video](https://www.youtube.com/watch?v=rbfFt2uNEyQ)) ([Article](https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/)) ([Code](https://github.com/maxitg/SetReplace))
+- [The Wolfram Physics Project: The First Two Weeks (2020)](https://writings.stephenwolfram.com/2020/04/the-wolfram-physics-project-the-first-two-weeks/#what-about-peer-review-and-all-that)
 - [Why Stephen Wolfram’s research program is a dead end (2020)](https://www.singlelunch.com/2020/04/23/why-stephen-wolframs-research-program-is-a-dead-end/) ([Reddit](https://www.reddit.com/r/math/comments/g6qg0k/why_stephen_wolframs_research_program_is_a_dead/))
 - [A Class of Models with the Potential to Represent Fundamental Physics](https://www.wolframphysics.org/technical-introduction/) ([Twitter](https://twitter.com/cmuratori/status/1250116047585210369))
 - [Why is the speed of light a constant?](https://www.reddit.com/r/AskPhysics/comments/g1fx1l/why_is_the_speed_of_light_a_constant/)
@@ -73,3 +74,4 @@
 - [David Tong's research papers](https://arxiv.org/a/tong_d_1.html)
 - [Are quantum fields in any way similar to classical fields? (2020)](https://www.reddit.com/r/askscience/comments/fo4igl/are_quantum_fields_in_any_way_similar_to/)
 - [QED: The Strange Theory of Light and Matter (2020)](https://medium.com/cantors-paradise/qed-the-strange-theory-of-light-and-matter-df50782b1651) ([Reddit](https://www.reddit.com/r/Physics/comments/gc3mp8/qed_the_strange_theory_of_light_and_matter/))
+- [SIGGRAPH 2020 Technical Paper: N-Dimensional Rigid Body Dynamics](https://marctenbosch.com/news/2020/05/siggraph-2020-technical-paper-n-dimensional-rigid-body-dynamics/) ([HN](https://news.ycombinator.com/item?id=23112312))
