@@ -26,3 +26,4 @@ I especially like the distinction of distributing content over distributing link
 - [Anytype](https://anytype.io/) - Operating environment for the new internet.
 - [IPFS Protocol docs](https://github.com/ipfs/ipfs#readme)
 - [IPFS 0.5.0](https://blog.ipfs.io/2020-04-28-go-ipfs-0-5-0/) ([HN](https://news.ycombinator.com/item?id=23010245))
+- [IPFS Pinning Summit](https://ipfspinningsummit.com/) - 2-day virtual conference designed for the infrastructure and service providers of the distributed web.

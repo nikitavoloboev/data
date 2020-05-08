@@ -79,3 +79,4 @@
 - [Redux Debugger Plugin for Flipper](https://github.com/jk-gan/flipper-plugin-redux-debugger)
 - [React Native Performance Monitor](https://github.com/BulletTrainHQ/react-native-performance-monitor) - Realtime graphing of React Native render performance.
 - [Shoutem UI](https://github.com/shoutem/ui) - Customizable set of components for React Native applications.
+- [React Native, v2 course by Kadi Kraman (2020)](https://frontendmasters.com/courses/react-native-v2/)
