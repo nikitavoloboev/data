@@ -134,10 +134,11 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Hackpad](https://github.com/dropbox/hackpad) - Web-based realtime wiki, based on the open source EtherPad collaborative document editor.
 - [Human Programming Interface (2020)](https://lobste.rs/s/vzkb7a/human_programming_interface_python) - My life in a Python package.
 - [Emvi](https://emvi.com/) - Knowledge management platform for companies and teams.
-- [Human Programming Interface: My life in a Python package (2020)](https://beepb00p.xyz/hpi.html)
+- [Human Programming Interface: My life in a Python package (2020)](https://beepb00p.xyz/hpi.html) ([HN](https://news.ycombinator.com/item?id=23101869))
 - [Ask HN: What do you use to keep track of bookmarks/notes/snippets? (2020)](https://news.ycombinator.com/item?id=22778123)
 - [Zettelkasten — How One German Scholar Was So Freakishly Productive (2019)](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
 - [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [Memex Mobile](https://github.com/WorldBrain/Memex-Mobile) - Mobile app for Memex.
 - [Thread on digital gardens, personal wikis, and experimental knowledge systems (2020)](https://twitter.com/Mappletons/status/1250532315459194880)
 - [Nat reveals the Roam setup that he uses to run his life (2020)](https://superorganizers.substack.com/p/nat-eliason-is-living-in-the-matrix) ([Tweet](https://twitter.com/nbashaw/status/1255554080837005312))
+- [Dogsheep](https://dogsheep.github.io/) - Collection of tools for personal analytics using SQLite and Datasette.

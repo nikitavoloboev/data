@@ -113,6 +113,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Phil Dragash](https://www.phildragash.com/)
 - [Ivan Aivazovsky](https://www.wikiart.org/en/ivan-aivazovsky)
 - [Reuben Wu](https://www.instagram.com/itsreuben/)
+- [100 Rabbits](https://100r.co/site/home.html)
 - [6vcr](http://6vcr.com/portfolio)
 - [Liam Cobb](https://liamcobb.tumblr.com/)
 - [Deborah Lee](https://www.instagram.com/jdebbiel/)

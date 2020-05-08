@@ -46,3 +46,4 @@ I support my [happiness](../life/happiness.md) by working on projects that I car
 - [The Power of Shower Thoughts: Trusting Your Mind to Work in the Background (2019)](https://alexanderell.is/posts/trust-in-your-unconscious/) ([HN](https://news.ycombinator.com/item?id=21557902))
 - [Ask HN: How do I overcome mental laziness? (2020)](https://news.ycombinator.com/item?id=22919697)
 - [HN: Kick the Shit Out of Procrastination (2020)](https://news.ycombinator.com/item?id=22922372)
+- [Noise, Cognitive Function, and Worker Productivity (2020)](https://joshuatdean.com/wp-content/uploads/2020/02/NoiseCognitiveFunctionandWorkerProductivity.pdf) ([HN](https://news.ycombinator.com/item?id=23113142))

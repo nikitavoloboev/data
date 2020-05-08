@@ -152,3 +152,4 @@
 - [Complexity Has to Live Somewhere (2020)](https://ferd.ca/complexity-has-to-live-somewhere.html) ([Lobsters](https://lobste.rs/s/emww5p/complexity_has_live_somewhere)) ([HN](https://news.ycombinator.com/item?id=23041018))
 - [Software Folklore – A collection of weird bug stories](http://beza1e1.tuxen.de/lore/index.html) ([HN](https://news.ycombinator.com/item?id=23005140))
 - [Floating Point Visually Explained (2017)](http://fabiensanglard.net/floating_point_visually_explained/index.html) ([HN](https://news.ycombinator.com/item?id=23081924))
+- [Ask HN: Do you ever go back and admire a piece of code you wrote? (2020)](https://news.ycombinator.com/item?id=23102024)
