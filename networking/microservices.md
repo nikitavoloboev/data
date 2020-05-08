@@ -38,3 +38,4 @@
 - [Why Segment Went Back to a Monolith (2020)](https://www.infoq.com/news/2020/04/microservices-back-again/) ([HN](https://news.ycombinator.com/item?id=23017160))
 - [NATS - Go Client](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 - [Deleting data distributed throughout your microservices architecture (2020)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) ([HN](https://news.ycombinator.com/item?id=23078994))
+- [Increasing Efficiency & Confidence with Project Apollo (2020)](https://robinhood.engineering/increasing-efficiency-confidence-with-project-apollo-cea1ebe0f282)

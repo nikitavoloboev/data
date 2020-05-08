@@ -57,6 +57,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Bastien Grivet](https://www.artstation.com/grivetart)
 - [Alice Lee](https://www.byalicelee.com/)
 - [Samuel Smith](https://www.artstation.com/samsamstudio)
+- [Gemma O’Brien](https://shop.gemmaobrien.com/)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
 - [Daniel Danger](https://www.instagram.com/tinymediaempire/)

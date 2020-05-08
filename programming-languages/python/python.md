@@ -96,3 +96,4 @@
 - [HN: Best Practices for Working with Configuration in Python Applications (2020)](https://news.ycombinator.com/item?id=22964910)
 - [pdb++](https://github.com/pdbpp/pdbpp) - Drop-in replacement for pdb.
 - [poetry2nix](https://github.com/nix-community/poetry2nix) - Convert poetry projects to nix automagically.
+- [Ultimate Setup for Your Next Python Project (2020)](https://towardsdatascience.com/ultimate-setup-for-your-next-python-project-179bda8a7c2c) ([Lobsters](https://lobste.rs/s/c5cpd0/ultimate_setup_for_your_next_python))

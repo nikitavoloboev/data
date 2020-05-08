@@ -29,3 +29,4 @@ I try to minimize the number of things my body has to process and maximize the q
 - [Dr Rhonda Patrick Supplements List](https://fastlifehacks.com/dr-rhonda-patricks-supplements-list/)
 - [Paul Stamets: Psilocybin Mushrooms & The Mycology of Consciousness (2017)](https://www.youtube.com/watch?v=vFWxWq0Fv0U)
 - [Jed Fahey, Sc.D. on Isothiocyanates, the Nrf2 Pathway, Moringa & Sulforaphane Supplementation (2017)](https://www.youtube.com/watch?v=Q0lBVCpq8jc)
+- [HN: Vitamin D Insufficiency is Prevalent in Severe Covid-19 (2020)](https://news.ycombinator.com/item?id=23023703) ([HN 2](https://news.ycombinator.com/item?id=23119949))

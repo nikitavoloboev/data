@@ -33,3 +33,4 @@
 - [Reading list for the modern critical programmer](https://github.com/chobeat/awesome-critical-tech-reading-list#readme)
 - [It's Time to Build (2020)](https://a16z.com/2020/04/18/its-time-to-build/) ([HN](https://news.ycombinator.com/item?id=22911533)) ([Twitter](https://twitter.com/pmarca/status/1251634412334141440))
 - [How Tech Can Build (2020)](https://stratechery.com/2020/how-tech-can-build/) ([HN](https://news.ycombinator.com/item?id=22934558))
+- [Progress](https://patrickcollison.com/progress)
