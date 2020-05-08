@@ -73,6 +73,8 @@
 - [What's the best functional language to learn over the next 30 days? (2020)](https://lobste.rs/s/hf3y19/what_s_best_functional_language_learn)
 - [Exercises for the course 'Functional Design by John A. De Goes'](https://github.com/jdegoes/functional-design)
 - [Breaking down "A monad is just a monoid in the category of endofunctors"](https://www.christianfscott.com/wtf-is-a-monad/)
+- [Chalmers Online Functional Programming Seminar Series](http://chalmersfp.org/)
+- [Ask HN: How to be fluent in functional language speak? (2020)](https://news.ycombinator.com/item?id=23078173)
 
 ## Images
 

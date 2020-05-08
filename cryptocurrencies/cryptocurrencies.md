@@ -24,3 +24,4 @@
 - [Kong](https://kong.cash/) - Physical crypto cash.
 - [Flow Playground](https://www.onflow.org/play) - Learn resource-oriented programming.
 - [Binance](https://www.binance.com/en) - Trade Bitcoin, BNB, and hundreds of other cryptocurrencies in minutes.
+- [Awesome Cryptoeconomics](https://github.com/L4ventures/awesome-cryptoeconomics#readme)

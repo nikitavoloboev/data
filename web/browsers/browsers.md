@@ -37,3 +37,4 @@
 - [Wildcard](https://www.geoffreylitt.com/wildcard/) - Browser extension for customizing web apps with a spreadsheet view. ([Code](https://github.com/geoffreylitt/wildcard))
 - [Axiom](https://axiom.ai/) - Create custom bots in seconds, or use ready-made templates. ([HN](https://news.ycombinator.com/item?id=23089243))
 - [The Browser Company](https://thebrowser.company/) - Building a better way to use the internet.
+- [Fast and reliable cross-browser testing with Playwright (2020)](https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f)
