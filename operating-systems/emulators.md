@@ -17,3 +17,4 @@
 - [gdbstub](https://github.com/daniel5151/gdbstub) - Implementation of the GDB Remote Serial Protocol in Rust, primarily for use in emulators.
 - [PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python.
 - [SameBoy](https://github.com/LIJI32/SameBoy) - Game Boy and Game Boy Color emulator written in C.
+- [Super Bootable 64 (2020)](https://christine.website/blog/super-bootable-64-2020-05-06) ([Lobsters](https://lobste.rs/s/lmhaaa/super_bootable_64))
