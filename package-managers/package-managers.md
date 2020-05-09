@@ -14,3 +14,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [Spack](https://github.com/spack/spack) - Flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [rebuilderd](https://github.com/kpcyrd/rebuilderd) - Independent verification of binary packages - reproducible builds.
 - [dripip](https://github.com/prisma-labs/dripip) - Opinionated CLI for continuous delivery of npm packages.
+- [PRIVJS](https://privjs.com/) - Implement access control to your npm packages.

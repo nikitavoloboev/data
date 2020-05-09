@@ -16,4 +16,4 @@ I am reading some books now:
 - [Hitchhiker’s Guide to Logical Veriﬁcation](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf) ([HN](https://news.ycombinator.com/item?id=22794533))
 - [Linus Programming Interface](http://man7.org/tlpi/)
 - [Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime](https://www.goodreads.com/book/show/44065062-something-deeply-hidden)
-- [Physics from Symetry](http://physicsfromsymmetry.com/)
+- [Physics from Symmetry](http://physicsfromsymmetry.com/)

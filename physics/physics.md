@@ -75,3 +75,5 @@
 - [Are quantum fields in any way similar to classical fields? (2020)](https://www.reddit.com/r/askscience/comments/fo4igl/are_quantum_fields_in_any_way_similar_to/)
 - [QED: The Strange Theory of Light and Matter (2020)](https://medium.com/cantors-paradise/qed-the-strange-theory-of-light-and-matter-df50782b1651) ([Reddit](https://www.reddit.com/r/Physics/comments/gc3mp8/qed_the_strange_theory_of_light_and_matter/))
 - [SIGGRAPH 2020 Technical Paper: N-Dimensional Rigid Body Dynamics](https://marctenbosch.com/news/2020/05/siggraph-2020-technical-paper-n-dimensional-rigid-body-dynamics/) ([HN](https://news.ycombinator.com/item?id=23112312))
+- [A Mathematical Theory of Communication - Claude Shannon (1948)](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+- [Brief introduction to the beauty of Information Theory (2020)](https://notamonadtutorial.com/a-brief-introduction-to-the-beauty-of-information-theory-8357f5b6a355)

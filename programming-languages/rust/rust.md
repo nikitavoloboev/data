@@ -204,3 +204,4 @@
 - [Making rust as fast as go](https://www.christianfscott.com/making-rust-as-fast-as-go/) ([HN](https://news.ycombinator.com/item?id=23058147))
 - [Rust Koans](https://github.com/crazymykl/rust-koans)
 - [Naive NixOS Rust Development (2020)](https://duan.ca/2020/05/07/nix-rust-development/)
+- [Auto-currying Rust Functions (2020)](https://peppe.rs/posts/auto-currying_rust_functions/)
