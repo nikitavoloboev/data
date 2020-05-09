@@ -51,3 +51,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 
 - [Ask HN: What has made you a better problem solver in software engineering? (2019)](https://news.ycombinator.com/item?id=21659537)
 - [Pen and Paper Programming: what notation, if any, do you use? (2020)](https://lobste.rs/s/qe1ac6/pen_paper_programming_what_notation_if)
+- [Tools/practices to manage deeply nested thought-stacks? (2020)](https://lobste.rs/s/ka2diu/tools_practices_manage_deeply_nested)

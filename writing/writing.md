@@ -140,3 +140,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Hemingway App](http://www.hemingwayapp.com/) - Makes your writing bold and clear.
 - [Making sense of Design Unbound vs. prior theories of collaborative design work (2020)](https://www.twitch.tv/videos/611050187)
 - [Proselint](http://proselint.com/) - Linter for prose. ([Code](https://github.com/amperser/proselint))
+- [2020 Pulitzer Prize Winners](https://www.pulitzer.org/news/announcement-2020-pulitzer-prize-winners) ([HN](https://news.ycombinator.com/item?id=23072690))

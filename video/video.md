@@ -50,3 +50,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Invidio](https://invidio.us/) - Alternative front-end to YouTube. ([Code](https://github.com/omarroth/invidious))
 - [Mux](https://mux.com/) - API-first platform, powered by data and designed by video experts to make beautiful video possible for every development team.
 - [Komposition](https://owickstrom.github.io/komposition/) - Video editor built for screencasters.
+- [Stremio](https://www.stremio.com/) - Modern media center that's a one-stop solution for your video entertainment.
