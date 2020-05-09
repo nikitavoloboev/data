@@ -32,3 +32,4 @@
 - [pyts](https://github.com/johannfaouzi/pyts) - Python package for time series classification.
 - [Causal Data Science with Directed Acyclic Graphs (2019)](https://www.udemy.com/course/causal-data-science/)
 - [Causal Inference in Machine Learning and AI (2020)](https://www.youtube.com/watch?v=GtpnWQ9uTL8)
+- [Good books on Statistical Methodology and how to approach data problems? (2020)](https://www.reddit.com/r/statistics/comments/gg5jtu/good_books_on_statistical_methodology_and_how_to/)

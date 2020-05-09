@@ -69,3 +69,4 @@
 - [Improve your SEO and Social Sharing Cards with Next.js (2020)](https://www.netlify.com/blog/2020/05/08/improve-your-seo-and-social-sharing-cards-with-next.js/)
 - [Next.js at Vercel (2020)](https://jamstack-toronto.now.sh/#0)
 - [Blitz](https://github.com/blitz-js/blitz) - Framework for building monolithic, full-stack, serverless React apps with zero data-fetching and zero client-side state management.
+- [Improved Next.js and Gatsby page load performance with granular chunking (2020)](https://web.dev/granular-chunking-nextjs/)

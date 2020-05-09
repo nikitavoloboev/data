@@ -153,5 +153,5 @@
 - [Software Folklore – A collection of weird bug stories](http://beza1e1.tuxen.de/lore/index.html) ([HN](https://news.ycombinator.com/item?id=23005140))
 - [Floating Point Visually Explained (2017)](http://fabiensanglard.net/floating_point_visually_explained/index.html) ([HN](https://news.ycombinator.com/item?id=23081924))
 - [Ask HN: Do you ever go back and admire a piece of code you wrote? (2020)](https://news.ycombinator.com/item?id=23102024)
-- [Write Libraries, Not Frameworks (2020)](https://www.brandonsmith.ninja/blog/libraries-not-frameworks) ([HN](https://news.ycombinator.com/item?id=23121192))
+- [Write Libraries, Not Frameworks (2020)](https://www.brandonsmith.ninja/blog/libraries-not-frameworks) ([HN](https://news.ycombinator.com/item?id=23121192)) ([Reddit](https://www.reddit.com/r/programming/comments/ggclep/write_libraries_not_frameworks/))
 - [Feedback Ladders: How We Encode Code Reviews at Netlify (2020)](https://www.swyx.io/writing/feedback-ladders/)

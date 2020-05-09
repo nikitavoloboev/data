@@ -12,3 +12,4 @@
 - [wasm-flate](https://github.com/drbh/wasm-flate) - Fastest compression and decompression in the browser.
 - [zlib](https://github.com/madler/zlib) - General purpose data compression library.
 - [lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm.
+- [Handbook of Data Compression (2010)](https://www.springer.com/gp/book/9781848829022)
