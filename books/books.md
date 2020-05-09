@@ -161,6 +161,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Calvin French-Owen's bookshelf](https://calv.info/bookshelf)
 - [Maksim Stepanenko's bookshelf](http://maksim.ms/books/)
 - [Austen Allred's reading list](https://austenallred.com/reading)
+- [107 books recommended by Patrick Collison](https://www.goodbooks.io/people/patrick-collison)
 
 ## Notes
 
