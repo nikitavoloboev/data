@@ -50,3 +50,5 @@
 - [Building a Gatsby Plugin with Rust + Wasm (2020)](https://aless.co/gatsby-wasm-plugin/)
 - [Gatsby Package Manager](https://github.com/ahmadawais/gatsby-package-manager) - Helps you install a Gatsby package with all of its dependencies.
 - [The Quest for the Perfect Dark Mode](https://joshwcomeau.com/gatsby/dark-mode/) - Scintillating exploration of color themes in Gatsby.
+- [Mapping Your Closest Impossible Burger with Gatsby (2020)](https://www.gatsbyjs.org/blog/2020-05-07-gatsby-delivers-impossible-burgers-map/)
+- [React or Gatsby Table of Contents (2020)](https://disaev.me/react-gatsby-table-of-contents/)

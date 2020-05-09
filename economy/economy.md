@@ -30,3 +30,4 @@
 - [Stripe Press](https://press.stripe.com/) - Publishes books about economic and technological advancement.
 - [Explained | The Stock Market (2020)](https://www.youtube.com/watch?v=ZCFkWDdmXG8)
 - [The Stock Market vs. The Economy (2020)](https://www.youtube.com/watch?v=0ECqDaPjjV0)
+- [Naked Capitalism](https://www.nakedcapitalism.com/) - Fearless commentary on finance, economics, politics and power.

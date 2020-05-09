@@ -205,3 +205,4 @@
 - [Rust Koans](https://github.com/crazymykl/rust-koans)
 - [Naive NixOS Rust Development (2020)](https://duan.ca/2020/05/07/nix-rust-development/)
 - [Auto-currying Rust Functions (2020)](https://peppe.rs/posts/auto-currying_rust_functions/)
+- [HN: Re: Integrating "safe" languages into OpenBSD? (2017)](https://news.ycombinator.com/item?id=23059477)

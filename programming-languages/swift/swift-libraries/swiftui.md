@@ -52,3 +52,4 @@
 - [Suitcase](https://github.com/Impedimenta/Suitcase) - Command line tool that can be "programmed" to display a SwiftUI interface that can trigger commands and scripts. ([HN](https://news.ycombinator.com/item?id=23018209))
 - [SwiftUI Airtable Demo](https://github.com/zackshapiro/SwiftUIAirtableDemo) ([HN](https://news.ycombinator.com/item?id=23106155))
 - [Build a SwiftUI Animal Crossing Application (2020)](https://medium.com/better-programming/build-a-swiftui-animal-crossing-application-part-1-aaf3528c1df)
+- [Free guide: Architecting SwiftUI apps with MVC and MVVM](https://matteomanferdini.com/)

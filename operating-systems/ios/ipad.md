@@ -10,3 +10,4 @@
 - [iPad Main Menu](https://ipadmenu.study/) - Concept to improve usability and bring more professional apps to iPad.
 - [My 11-inch iPad Pro Experiment (2020)](https://www.macstories.net/stories/my-11-inch-ipad-pro-experiment/)
 - [Using an iPad for Photography Workflows: A Complete Guide (2020)](https://thesweetsetup.com/using-ipad-photography-workflows/)
+- [A New Experience for Spotify for iPad (2020)](https://spotify.design/articles/2020-05-05/a-new-experience-for-spotify-for-ipad/)

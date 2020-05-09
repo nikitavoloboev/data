@@ -35,6 +35,7 @@
 - [Filament Group](https://www.filamentgroup.com/) - Design and front-end development studio.
 - [MOXY](https://moxy.studio/about) - Interdisciplinary studio, we specialise in designing and developing.
 - [wirefr.am](http://wirefr.am/) - Tiny studio, focusing on beautifully crafted visual design.
+- [kadjax](https://www.kajdax.de/) - Create Designs & Illustrations for digital products.
 
 ## DB
 

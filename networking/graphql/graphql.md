@@ -85,3 +85,4 @@
 - [A Mechanized Formalization of GraphQL (2020)](https://hal.archives-ouvertes.fr/hal-02422532/document)
 - [Using GraphQL Without a Backend by Roy Derks (2019)](https://www.youtube.com/watch?v=XSZoB8zmEEY)
 - [React + urql Tutorial - Introduction](https://www.howtographql.com/react-urql/0-introduction/) ([Code](https://github.com/howtographql/react-urql))
+- [Production Ready GraphQL blog](https://productionreadygraphql.com/)

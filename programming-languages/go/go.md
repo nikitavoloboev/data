@@ -249,3 +249,4 @@ Go promotes composition over inheritance.
 - [I think you should generally be using the latest version of Go (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionsMyView) ([Lobsters](https://lobste.rs/s/xwedeg/i_think_you_should_generally_be_using))
 - [Go Build Tools](https://github.com/golang/build) - Go's continuous build and release infrastructure.
 - [What's coming in Go 1.15](https://docs.google.com/presentation/d/1veyF0y6Ynr6AFzd9gXi4foaURlgbMxM-tmB4StDrdAM/edit) ([Lobsters](https://lobste.rs/s/b6nyir/what_s_coming_go_1_15))
+- [Writing Useful go/analysis Linter (2019)](https://disaev.me/p/writing-useful-go-analysis-linter/)
