@@ -18,6 +18,7 @@
 - [Disque](https://github.com/antirez/disque) - Distributed message broker.
 - [Mesh](https://github.com/weaveworks/mesh) - Tool for building distributed applications.
 - [Raft](https://github.com/pingcap/raft-rs) - Raft distributed consensus algorithm implemented in Rust.
+- [In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) ([HN](https://news.ycombinator.com/item?id=23113419))
 - [libp2p specification](https://github.com/libp2p/specs#readme) - Technical specifications for the libp2p networking stack.
 - [Class materials for a distributed systems lecture series](https://github.com/aphyr/distsys-class#readme)
 - [Raft Consensus Algorithm](https://raft.github.io/)
