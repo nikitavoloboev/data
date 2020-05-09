@@ -42,6 +42,7 @@
 - [Megaparsec](https://github.com/mrkkrp/megaparsec) - Industrial-strength monadic parser combinator library.
 - [containers](https://github.com/haskell/containers) - Assorted concrete container types.
 - [relude](https://github.com/kowainik/relude) - Safe, performant, user-friendly and lightweight Haskell standard library.
+- [hypertypes](https://github.com/lamdu/hypertypes) - Types parameterised by hypertypes.
 
 ## Links
 

@@ -109,6 +109,7 @@
 - [More Itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools.
 - [awkward-array](https://github.com/scikit-hep/awkward-array) - Manipulate arrays of complex data structures as easily as Numpy.
 - [pydantic](https://github.com/samuelcolvin/pydantic) - Data validation and settings management using Python type hinting.
+- [Python Sorted Containers](https://github.com/grantjenks/python-sortedcontainers) - Sorted List, Sorted Dict, and Sorted Set.
 
 ## Links
 
