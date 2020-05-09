@@ -32,3 +32,4 @@
 - [jitmap](https://github.com/fsaintjacques/jitmap) - Small library providing an execution engine for logical binary expressions on bitmaps.
 - [LLVM Explore](https://github.com/mkitzan/llvm-explore) - Notes created while studying LLVM compiler infrastructure in preparation for compiler engineer job and onsite interview.
 - [Joseph Groff & Chris Lattner “Swift's High-Level IR: A Case Study..." (2015)](https://www.youtube.com/watch?v=Ntj8ab-5cvE)
+- [Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators (2019)](https://www.youtube.com/watch?v=yCd3CzGSte8)

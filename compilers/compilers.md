@@ -86,3 +86,4 @@
 - [Incremental/query driven compiler architectures](https://github.com/pikelet-lang/pikelet/issues/103)
 - [Speeding up the Sixty compiler (2020)](https://ollef.github.io/blog/posts/speeding-up-sixty.html)
 - [A hands-on introduction to static code analysis (2020)](https://deepsource.io/blog/introduction-static-code-analysis/) ([HN](https://news.ycombinator.com/item?id=23071134))
+- [Teaching Compilers (2020)](https://danghica.blogspot.com/2020/04/teaching-compilers.html)
