@@ -28,6 +28,7 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Sohne](https://klim.co.nz/retail-fonts/soehne/)
 - [Free variable writing fonts from iA](https://github.com/iaolo/iA-Fonts)
 - [Sparks](https://github.com/aftertheflood/sparks) - Typeface for creating sparklines in text without code.
+- [BLOKK](http://www.blokkfont.com/) - Gives you a nice fill text for mock-ups and wireframing without the lorem ipsum.
 
 ## Links
 

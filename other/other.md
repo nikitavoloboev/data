@@ -186,3 +186,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Capiche](https://capiche.com/) - Community of people who care about software to do that together.
 - [Ask HN: What are you favorite developer-efficiency protips (2020)](https://news.ycombinator.com/item?id=23118940)
 - [Maker.js](https://maker.js.org/) - JavaScript library for creating and sharing modular line drawings for CNC and laser cutters. ([Code](https://github.com/microsoft/maker.js))
+- [Meta thread of great twitter threads](https://twitter.com/eriktorenberg/status/1250313333707665409)

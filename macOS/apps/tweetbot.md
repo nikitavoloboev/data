@@ -25,3 +25,4 @@ I split the app into 2 columns on mac.
 - [Instant Twitter Search](https://twitter-search.io/) - Instantly search across your entire Twitter history with a beautiful UI powered by Algolia. ([Code](https://github.com/saasify-sh/twitter-search))
 - [TWINT](https://github.com/twintproject/twint) - Twitter Intelligence Tool.
 - [Everyone can build a Twitter audience (2020)](https://gumroad.com/l/twitter-audience/launch)
+- [Nitter](https://nitter.net/) - Free and open source alternative Twitter front-end focused on privacy. ([Code](https://github.com/zedeus/nitter))

@@ -7,7 +7,7 @@
 - [Helio Workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, both desktop and mobile.
 - [Sonic Pi](https://github.com/samaaron/sonic-pi)
 - [FlowKey](https://www.flowkey.com) - Learn Piano with songs you love.
-- [Orca](https://github.com/hundredrabbits/Orca) - Live Programming Environment. Each letter of the alphabet is an operation. ([C rewrite](https://github.com/hundredrabbits/Orca-c)) ([Web](https://hundredrabbits.github.io/Orca/))
+- [Orca](https://github.com/hundredrabbits/Orca) - Live Programming Environment. Each letter of the alphabet is an operation. ([C rewrite](https://github.com/hundredrabbits/Orca-c)) ([Web](https://hundredrabbits.github.io/Orca/)) ([HN](https://news.ycombinator.com/item?id=23118139))
 - [Glitch](https://github.com/naivesound/glitch) - Minimal algorithmic music composer and synthesizer. ([Code](https://github.com/vincentriemer/io-808))
 - [IO-808](https://io808.com/) - Attempt at a fully recreated web-based TR-808 drum machine. ([Code](https://github.com/vincentriemer/io-808))
 - [Thrum](https://github.com/ryanramage/thrum) - Experiment in making a livecoding music sequencer using functional reducers.

@@ -32,3 +32,4 @@
 - [The software industry's greatest sin: hiring (2020)](https://www.neilwithdata.com/developer-hiring) ([HN](https://news.ycombinator.com/item?id=22828932))
 - [Parachute List](https://parachutelist.com/) - All the layoff lists together.
 - [If you're hiring, be forthcoming about the dev experience (2020)](https://rachelbythebay.com/w/2020/04/30/dev/) ([Lobsters](https://lobste.rs/s/tmera4/if_you_re_hiring_be_forthcoming_about_dev)) ([HN](https://news.ycombinator.com/item?id=23039421))
+- [How we built the Figma design team (2018)](https://www.figma.com/blog/how-we-built-the-figma-design-team/)
