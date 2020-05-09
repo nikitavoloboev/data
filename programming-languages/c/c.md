@@ -42,3 +42,4 @@
 - [Awesome C](https://github.com/Bfgeshka/awesome-c#readme)
 - [Verified sequential malloc/free](https://www.cs.princeton.edu/~appel/papers/memmgr.pdf) ([HN](https://news.ycombinator.com/item?id=23046356))
 - [Fat pointers in C using libcello](http://libcello.org/learn/a-fat-pointer-library) ([HN](https://news.ycombinator.com/item?id=23016001))
+- [Embracing modularity with Meson (2020)](https://brennan.io/2020/05/08/meson/)

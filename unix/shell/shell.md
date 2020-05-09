@@ -57,3 +57,4 @@ All active variables can be seen by running `env`.
 - [tmate](https://tmate.io/) - Instant terminal sharing. ([Code](https://github.com/tmate-io/tmate))
 - [Rich’s sh (POSIX shell) tricks ](http://www.etalabs.net/sh_tricks.html)
 - [Shell productivity tips and tricks (2020)](https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks.html) ([HN](https://news.ycombinator.com/item?id=22975437))
+- [Tutorial - Write a Shell in C (2015)](https://brennan.io/2015/01/16/write-a-shell-in-c/) ([Code](https://github.com/brenns10/lsh))

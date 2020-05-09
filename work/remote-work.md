@@ -47,3 +47,4 @@
 - [HN: Half of American workers would rather work from home forever (2020)](https://news.ycombinator.com/item?id=22864827)
 - [Nomad Tips](https://tinyletter.com/nomadtips) - Mailing list for sharing tips and resources for digital nomads. ([Code](https://github.com/georgemandis/remote-working-list))
 - [Andreas Klinger on How To Go Remote (2020)](https://overcast.fm/+LDKdiXgwE)
+- [REMOTE Livestream Q&A with Jason Fried and David Heinemeier Hansson (2020)](https://www.youtube.com/watch?v=KPKOVT4vZD4)

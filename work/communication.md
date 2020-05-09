@@ -11,3 +11,4 @@
 - [Question Bank for Better 1:1s](https://www.notion.so/Question-Bank-for-Better-1-1s-6134003d72b54f56b8d11a5134a263cf)
 - [Talkyard](https://www.talkyard.io/) - Forum software, brings together the best from StackOverflow, Discourse, Slack, Reddit, Disqus. ([Code](https://github.com/debiki/talkyard))
 - [Alternative Sources of Advice (2020)](https://tratt.net/laurie/blog/entries/alternative_sources_of_advice.html) ([HN](https://news.ycombinator.com/item?id=23089544))
+- [Chatting with Glue](http://a9.io/glue-comic/) - Cognitive tools for augmented conversation.

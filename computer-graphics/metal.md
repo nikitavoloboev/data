@@ -9,3 +9,4 @@
 - [metal-rs](https://github.com/gfx-rs/metal-rs) - Rust bindings for Metal.
 - [Point-cloud made from 3d data with Metal](https://github.com/roberthein/Metal-Point-Cloud)
 - [HN: Valve drops VR support for macOS (2020)](https://news.ycombinator.com/item?id=23047348)
+- [Metal Seed](https://github.com/alaingalvan/metal-seed) - Apple Metal starter repo that you could use to get the ball rolling.
