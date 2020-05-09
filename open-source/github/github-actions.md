@@ -39,6 +39,7 @@
 - [Github Action which uses the Git branch as the Docker tag for pushing](https://github.com/elgohr/Publish-Docker-Github-Action)
 - [Cancel Workflow Action](https://github.com/styfle/cancel-workflow-action) - GitHub Action to cancel previous running workflows on push.
 - [turnstyle](https://github.com/softprops/turnstyle) - GitHub Action for serializing workflow runs.
+- [Secrets Sync Action](https://github.com/google/secrets-sync-action) - Sync secrets from one repository to many others.
 
 ## Go
 

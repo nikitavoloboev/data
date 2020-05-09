@@ -1,5 +1,9 @@
 # Scala libraries
 
+## Web
+
+- [Slinky](https://github.com/shadaj/slinky) - Framework for writing React apps in Scala with an experience just like using ES6.
+
 ## CLI
 
 - [decline](https://github.com/bkirwi/decline) - Composable command-line parser for Scala.

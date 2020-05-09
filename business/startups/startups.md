@@ -152,6 +152,7 @@
 - [Canny: How They Built A Startup While Traveling (\$500,000 / year in revenue) (2019)](https://www.youtube.com/watch?v=5W3oTG3F-Dw)
 - [Immigrant Founders](https://immigrantfounders.com/) ([Twitter](https://twitter.com/albertoarenaza/status/1258748180688232451))
 - [Surprising Things About Working at Well-Known Tech Unicorns (2020)](https://blog.pragmaticengineer.com/surprising-things-about-working-at-tech-unicorns/)
+- [Starting a company in Norway (2020)](https://eon.codes/blog/2020/04/07/Starting-a-company-in-norway/)
 
 ## Images
 

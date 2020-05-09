@@ -83,3 +83,4 @@
 - [Debugging Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/2927299.2940294) ([HN](https://news.ycombinator.com/item?id=22993377))
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html)
 - [Temporal](https://github.com/temporalio/temporal) - Fault-oblivious stateful programming model that obscures most of the complexities of building scalable distributed applications.
+- [Model checker for implementing distributed systems](https://github.com/stateright/stateright)

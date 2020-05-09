@@ -26,3 +26,4 @@ I split the app into 2 columns on mac.
 - [TWINT](https://github.com/twintproject/twint) - Twitter Intelligence Tool.
 - [Everyone can build a Twitter audience (2020)](https://gumroad.com/l/twitter-audience/launch)
 - [Nitter](https://nitter.net/) - Free and open source alternative Twitter front-end focused on privacy. ([Code](https://github.com/zedeus/nitter))
+- [Treeverse](https://github.com/paulgb/Treeverse) - Extension for navigating burgeoning Twitter conversations.

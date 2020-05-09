@@ -71,6 +71,7 @@
 - [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add "Launch at Login" functionality to your macOS app in seconds.
 - [Preferences](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
 - [FileWatcher](https://github.com/eonist/FileWatcher) - Monitoring file system changes in macOS.
+- [CustomButton](https://github.com/sindresorhus/CustomButton) - Customizable button for your macOS app.
 
 ## Web
 
@@ -296,6 +297,9 @@
 - [PMJSON](https://github.com/postmates/PMJSON) - Pure Swift JSON encoding/decoding library.
 - [Marklight](https://github.com/macteo/Marklight) - Markdown syntax highlighter for iOS and macOS.
 - [Validated PropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Easily validate your Properties with Property Wrappers.
+- [Hyperconnectivity](https://github.com/rwbutler/Hyperconnectivity) - Modern replacement for Reachability written fully in Swift and using Apple's Combine framework.
+- [Doggie](https://github.com/SusanDoggie/Doggie) - Foundational library for Apple's swift. It includes mathematics, accelerate, signal processing and graphic functions.
+- [SwiftJS](https://github.com/SusanDoggie/SwiftJS) - Cross platform Javascript engine for Swift.
 
 ## Other (not lib)
 

@@ -30,6 +30,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Typewriter](https://github.com/typewriter-editor/typewriter) - Rich text editor based off of Quill.js and Ultradom, and using Svelte for UI.
 - [CodeJar](https://github.com/antonmedv/codejar) - Micro code editor.
 - [tiptap](https://tiptap.scrumpy.io/) - Renderless rich-text editor for Vue.js. ([Code](https://github.com/scrumpy/tiptap))
+- [Marky Marked](https://github.com/patrickfatrick/marky-marked) - Lightweight in-browser content editor combining Markdown with the typical WYSIWYG toolbar.
 
 ## Links
 

@@ -66,3 +66,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS SDK for Go](https://github.com/aws/aws-sdk-go)
 - [AWS SDK for JavaScript](https://github.com/aws/aws-sdk-js-v3)
 - [AWS SDK for Haskell](https://github.com/brendanhay/amazonka) - Comprehensive Amazon Web Services SDK.
+- [Amazon EKS User Guide](https://github.com/awsdocs/amazon-eks-user-guide)

@@ -60,3 +60,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware.
 - [Hacker tools on Go](https://github.com/dreddsa5dies/goHackTools)
 - [Ask HN: Any good FOSS alternative to Google's reCAPTCHA? (2020)](https://news.ycombinator.com/item?id=23089599)
+- [SnapPass](https://github.com/pinterest/snappass) - Share passwords securely.
