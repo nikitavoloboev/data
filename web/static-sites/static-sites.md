@@ -33,3 +33,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Stork](https://github.com/jameslittle230/stork) - Impossibly fast web search, made for static sites.
 - [Blazing fast math rendering on the web](http://bollu.github.io/#blazing-fast-math-rendering-on-the-web) ([Lobsters](https://lobste.rs/s/bhykd6/blazing_fast_math_rendering_on_web))
 - [Static Hoisting (2020)](https://rauchg.com/2020/static-hoisting)
+- [Shrinking my static site (2020)](https://hampton.pw/posts/shrinking-this-sites-docker-image/) ([HN](https://news.ycombinator.com/item?id=23058289))

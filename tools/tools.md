@@ -226,6 +226,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Preconstruct](https://github.com/preconstruct/preconstruct) - Dev and build your code painlessly in monorepos.
 - [Okta](https://developer.okta.com/) - Adds authentication, authorization, and user management to your web or mobile app within minutes.
 - [Rekki](https://www.rekki.com/) - Free mobile app that lets you order and chat with any supplier.
+- [Envoy](https://envoy.com/) - Makes workplaces safe—no matter what.
 - [Tandem](https://tandem.chat/) - Virtual office for remote teams.
 - [Makerpad](https://www.makerpad.co/) - Build tools & automate at work without code.
 - [Doka](https://pqina.nl/doka/) - High-performance JavaScript Image Editing in the Browser.
@@ -274,3 +275,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Ask HN: Programs that saved you 100 hours? (2020)](https://news.ycombinator.com/item?id=22849208)
 - [Lobsters: How does your current dev workflow looks like (2020)](https://lobste.rs/s/qi5dmk/how_does_your_current_dev_workflow_looks)
 - [Lobsters: Tools that made you productive or saved you time (2020)](https://lobste.rs/s/lg2cmt/tools_made_you_productive_saved_you_time)
+- [100 Rabbits Tools Ecosystem](https://100r.co/site/tools_ecosystem.html)

@@ -66,3 +66,4 @@
 - [nookies](https://github.com/maticzav/nookies) - Collection of cookie helpers for Next.js
 - [Building a Markdown blog with Next 9.3 and Netlify (2020)](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.3-and-netlify/)
 - [Server-Side Rendered Real-time Web App with Next.js, AWS Amplify & GraphQL (2019)](https://dev.to/rakannimer/server-side-rendered-real-time-web-app-with-next-js-aws-amplify-graphql-2j49)
+- [Improve your SEO and Social Sharing Cards with Next.js (2020)](https://www.netlify.com/blog/2020/05/08/improve-your-seo-and-social-sharing-cards-with-next.js/)

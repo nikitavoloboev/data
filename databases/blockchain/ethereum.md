@@ -50,3 +50,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Slither](https://github.com/crytic/slither) - Solidity source analyzer.
 - [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool.
 - [Ethereum APIs](https://github.com/prysmaticlabs/ethereumapis)
+- [Ethereum Name Service](https://ens.domains/) - Offers a secure & decentralised way to address resources both on and off the blockchain using simple, human-readable names.
