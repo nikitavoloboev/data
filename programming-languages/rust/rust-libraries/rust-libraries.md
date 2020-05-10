@@ -371,6 +371,7 @@
 - [Termion](https://github.com/redox-os/termion) - Pure Rust, bindless library for low-level handling, manipulating and reading information about terminals.
 - [object](https://github.com/gimli-rs/object) - Unified interface for reading and writing object file formats.
 - [no-panic](https://github.com/dtolnay/no-panic) - Attribute macro to require that the compiler prove a function can't ever panic.
+- [rustc-demangle](https://github.com/alexcrichton/rustc-demangle) - Demangling for Rust symbols, written in Rust.
 
 ## Cargo Plugins
 

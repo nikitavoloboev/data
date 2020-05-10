@@ -37,3 +37,4 @@
 - [Writing Generative Art (2019)](https://paytonturnage.com/writing/writing-generative-art/)
 - [Valora's Rasterizer (2019)](https://paytonturnage.com/writing/valora-rasterizer/)
 - [Trianglify](http://qrohlf.com/trianglify/) - Algorithmically generated triangle art. ([Code](https://github.com/qrohlf/trianglify))
+- [Generative Art by Eric Davidson](https://github.com/erdavids/Generative-Art)

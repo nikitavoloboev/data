@@ -77,3 +77,4 @@
 - [SIGGRAPH 2020 Technical Paper: N-Dimensional Rigid Body Dynamics](https://marctenbosch.com/news/2020/05/siggraph-2020-technical-paper-n-dimensional-rigid-body-dynamics/) ([HN](https://news.ycombinator.com/item?id=23112312))
 - [A Mathematical Theory of Communication - Claude Shannon (1948)](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 - [Brief introduction to the beauty of Information Theory (2020)](https://notamonadtutorial.com/a-brief-introduction-to-the-beauty-of-information-theory-8357f5b6a355)
+- [Finding new physics will require a new particle collider (2020)](https://www.economist.com/science-and-technology/2020/01/02/finding-new-physics-will-require-a-new-particle-collider) ([HN](https://news.ycombinator.com/item?id=23131526))

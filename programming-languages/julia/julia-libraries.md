@@ -46,7 +46,7 @@
 - [AutoGrad](https://github.com/denizyuret/AutoGrad.jl) - Automatic differentiation package for Julia.
 - [GLM](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia.
 - [Distributions.jl](https://github.com/JuliaStats/Distributions.jl) - Julia package for probability distributions and associated functions.
-- [Turing.jl](https://github.com/TuringLang/Turing.jl) - Turing language for probabilistic machine learning and Bayesian statistics.
+- [Turing.jl](https://github.com/TuringLang/Turing.jl) - Turing language for probabilistic machine learning and Bayesian statistics. ([HN](https://news.ycombinator.com/item?id=23129309))
 - [Pretty Tables](https://github.com/ronisbr/PrettyTables.jl) - Print data in matrices in a human-readable format.
 - [PyCall.jl](https://github.com/JuliaPy/PyCall.jl) - Package to call Python functions from the Julia language.
 - [Optim.jl](https://github.com/JuliaNLSolvers/Optim.jl) - Univariate and multivariate optimization in Julia.

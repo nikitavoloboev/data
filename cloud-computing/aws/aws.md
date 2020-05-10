@@ -67,3 +67,5 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS SDK for JavaScript](https://github.com/aws/aws-sdk-js-v3)
 - [AWS SDK for Haskell](https://github.com/brendanhay/amazonka) - Comprehensive Amazon Web Services SDK.
 - [Amazon EKS User Guide](https://github.com/awsdocs/amazon-eks-user-guide)
+- [HN: AWS EC2 General Price Cut (2020)](https://news.ycombinator.com/item?id=23129730)
+- [AWS Services You Should Avoid (2020)](https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd) ([HN](https://news.ycombinator.com/item?id=23131449))

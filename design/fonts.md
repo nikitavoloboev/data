@@ -29,6 +29,7 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Free variable writing fonts from iA](https://github.com/iaolo/iA-Fonts)
 - [Sparks](https://github.com/aftertheflood/sparks) - Typeface for creating sparklines in text without code.
 - [BLOKK](http://www.blokkfont.com/) - Gives you a nice fill text for mock-ups and wireframing without the lorem ipsum.
+- [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - Self-censoring font. ([HN](https://news.ycombinator.com/item?id=23131559))
 
 ## Links
 
@@ -66,3 +67,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [v-fonts](https://v-fonts.com/) - Simple resource for finding and trying variable fonts.
 - [Variable Emojis](http://variableemojis.com/)
 - [YouTube Sans: The Making of a Typeface (2020)](https://design.google/library/youtube-sans-the-making-of-a-typeface/)
+- [Convincing-looking 90s fonts in modern browsers (2020)](https://vistaserv.net/blog/90s-fonts-modern-browsers) ([HN](https://news.ycombinator.com/item?id=23129434))

@@ -85,7 +85,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph#readme) - Code search and intelligence, self-hosted and scalable.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
-- [Carbon](https://carbon.now.sh/about/) - Create and share beautiful images of your source code.
+- [Carbon](https://carbon.now.sh/about/) - Create and share beautiful images of your source code. ([HN](https://news.ycombinator.com/item?id=23122529))
 - [livegrep](https://github.com/livegrep/livegrep) - Tool, partially inspired by Google Code Search, for interactive regex search of ~gigabyte-scale source repositories.
 - [webhook](https://github.com/adnanh/webhook) - Lightweight incoming webhook server to run shell commands.
 - [Remove Image Background](https://www.remove.bg/)
