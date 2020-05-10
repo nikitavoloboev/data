@@ -97,3 +97,4 @@
 - [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection.
 - [Nix IRC logs](https://logs.nix.samueldr.com/)
 - [Nixology (2020)](https://www.youtube.com/playlist?list=PLRGI9KQ3_HP_OFRG6R-p4iFgMSK1t5BHs) - Series of videos I've been releasing within Shopify to help promote and educate about Nix.
+- [Nix function to easily create derivations (packages) to install binaries from location](https://twitter.com/mitchellh/status/1259521715211657216)

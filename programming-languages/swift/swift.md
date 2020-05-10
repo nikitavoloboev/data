@@ -102,3 +102,4 @@
 - [JSON2Codable](https://github.com/simonboots/json2codable) - Command line tool to generate a Swift Codable struct from a JSON document.
 - [Stephen Celis - Composable Setters (2017)](https://www.youtube.com/watch?v=I23AC09YnHo)
 - [How Do I Declare a Closure in Swift?](https://fuckingclosuresyntax.com/)
+- [Online Swift Playground](http://online.swiftplayground.run/)

@@ -67,3 +67,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [OpenCore](https://dortania.github.io/OpenCore-Desktop-Guide/) - Open-source, unconventional, first-in-class piece of software designed to intercept kernel loading to insert a highly advanced rootkit, designed to be an alternative to Clover. ([Code](https://github.com/dortania/OpenCore-Desktop-Guide)) ([HN](https://news.ycombinator.com/item?id=22916281))
 - [Creating a macOS App with SwiftUI](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app)
 - [Syphon](https://github.com/Syphon/Syphon-Framework) - macOS technology to allow applications to share video and still images with one another in realtime, instantly.
+- [Mac Bare Metal](https://flow.swiss/mac-bare-metal) - Enterprise-class IaaS for macOS.
