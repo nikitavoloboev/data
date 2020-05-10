@@ -38,3 +38,4 @@
 - [X GIF](https://github.com/geelen/x-gif) - Custom element for flexible GIF playback.
 - [HTMLHint](https://htmlhint.com/) - Static code analysis tool you need for your HTML. ([Code](https://github.com/htmlhint/HTMLHint))
 - [Can I Include](https://caninclude.glitch.me/) - Understand which tag you can include in another.
+- [Kutty](https://kutty.org/) - High power tools for HTML. ([Code](https://github.com/bigskysoftware/kutty))

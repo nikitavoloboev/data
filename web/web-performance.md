@@ -70,3 +70,4 @@
 - [The Cost of Javascript Frameworks (2020)](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/) ([HN](https://news.ycombinator.com/item?id=23114742))
 - [0x10 Rules](http://fabiensanglard.net/ilike/index.html)
 - [Fast or Slow](https://www.fastorslow.com/) - Global speed profiler. ([HN](https://news.ycombinator.com/item?id=23119701))
+- [Benchmark.js](https://github.com/bestiejs/benchmark.js) - Robust benchmarking library that supports high-resolution timers & returns statistically significant results.
