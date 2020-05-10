@@ -59,6 +59,7 @@
 - [Resty](https://github.com/go-resty/resty) - Simple HTTP and REST client library for Go.
 - [Typhon](https://github.com/monzo/typhon) - Wrapper around Go's net/http to provide safety and convenience.
 - [Atreugo](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework. Zero memory allocations in hot paths.
+- [gearbox](https://github.com/abahmed/gearbox) - Web framework written in Go with a focus on high performance and memory optimization. ([HN](https://news.ycombinator.com/item?id=23131657))
 
 ## GraphQL
 

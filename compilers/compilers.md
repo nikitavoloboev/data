@@ -88,3 +88,4 @@
 - [A hands-on introduction to static code analysis (2020)](https://deepsource.io/blog/introduction-static-code-analysis/) ([HN](https://news.ycombinator.com/item?id=23071134))
 - [Teaching Compilers (2020)](https://danghica.blogspot.com/2020/04/teaching-compilers.html)
 - [CReduce - it’s a kind of magic! (2020)](https://linki.tools/2020/02/creduce-it-s-a-kind-of-magic.html)
+- [Compact lexer table representation (2020)](https://def.lakaban.net/posts/2020-05-02-compact-lexer-table-representation/)
