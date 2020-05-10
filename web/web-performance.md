@@ -71,3 +71,4 @@
 - [0x10 Rules](http://fabiensanglard.net/ilike/index.html)
 - [Fast or Slow](https://www.fastorslow.com/) - Global speed profiler. ([HN](https://news.ycombinator.com/item?id=23119701))
 - [Benchmark.js](https://github.com/bestiejs/benchmark.js) - Robust benchmarking library that supports high-resolution timers & returns statistically significant results.
+- [Perfume.js](https://github.com/Zizzamia/perfume.js) - Web performance library for measuring all User-centric performance metrics.
