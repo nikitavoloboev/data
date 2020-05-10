@@ -80,3 +80,4 @@
 - [ProDBG](https://github.com/emoon/ProDBG) - New debugger under development that will support a variety of targets and operating systems.
 - [Pitchfork](https://github.com/vector-of-bool/pitchfork) - Set of conventions for native C and C++ projects. The most prominent being the project layout conventions.
 - [CMakeRC](https://github.com/vector-of-bool/cmrc) - Standalone CMake-Based C++ Resource Compiler.
+- [C++ Is Faster and Safer Than Rust: Benchmarked by Yandex](https://www.viva64.com/en/b/0733/) ([HN](https://news.ycombinator.com/item?id=23134688))
