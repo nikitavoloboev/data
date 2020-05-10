@@ -103,3 +103,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [MASSCAN](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
 - [pyshark](https://github.com/KimiNewt/pyshark) - Python wrapper for tshark, allowing python packet parsing using wireshark dissectors.
 - [Guardian Web Application Firewall](https://github.com/asalih/guardian)
+- [What I learned attempting the TCP Reset attack (2020)](http://squidarth.com/article/networking/2020/05/03/tcp-resets.html)

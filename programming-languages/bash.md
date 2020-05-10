@@ -31,3 +31,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [HN: Renaming files with mv without typing the name two times](https://news.ycombinator.com/item?id=22859935)
 - [The first two statements of your BASH script should be.. (2020)](https://ashishb.net/all/the-first-two-statements-of-your-bash-script-should-be/) ([Lobsters](https://lobste.rs/s/ajoaje/first_two_statements_your_bash_script))
 - [Bash code](https://github.com/bminor/bash)
+- [Some Relatively Obscure Bash Tips (2020)](https://zwischenzugs.com/2020/05/09/some-relatively-obscure-bash-tips/) ([HN](https://news.ycombinator.com/item?id=23126305))
