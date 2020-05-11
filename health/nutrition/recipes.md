@@ -11,3 +11,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 ## Links
 
 - [Minimal Recipe](https://minimalrecipe.com/) - Recipes you need without the cruft.
+- [Scraping Recipe Websites (2020)](https://www.benawad.com/scraping-recipe-websites/)

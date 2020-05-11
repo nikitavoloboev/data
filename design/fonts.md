@@ -68,3 +68,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Variable Emojis](http://variableemojis.com/)
 - [YouTube Sans: The Making of a Typeface (2020)](https://design.google/library/youtube-sans-the-making-of-a-typeface/)
 - [Convincing-looking 90s fonts in modern browsers (2020)](https://vistaserv.net/blog/90s-fonts-modern-browsers) ([HN](https://news.ycombinator.com/item?id=23129434))
+- [The best totally free web fonts & typefaces (2020)](https://vanschneider.com/the-best-totally-free-web-fonts-typefaces)

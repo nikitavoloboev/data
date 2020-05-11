@@ -38,3 +38,4 @@
 - [Valora's Rasterizer (2019)](https://paytonturnage.com/writing/valora-rasterizer/)
 - [Trianglify](http://qrohlf.com/trianglify/) - Algorithmically generated triangle art. ([Code](https://github.com/qrohlf/trianglify))
 - [Generative Art by Eric Davidson](https://github.com/erdavids/Generative-Art)
+- [Generating color palettes using neural nets (2020)](https://twitter.com/mattdesl/status/1258730249023438848)

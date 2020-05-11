@@ -191,3 +191,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: How to stop anxiety from too many choices? (2020)](https://news.ycombinator.com/item?id=23131966)
 - [qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code.
 - [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity) - Visualize your HackerNews Activity.
+- [Uncrate](https://uncrate.com/) - Objects of desire.
