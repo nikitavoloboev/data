@@ -97,3 +97,4 @@
 - [ML and NLP Paper Discussions](https://github.com/dair-ai/ml-nlp-paper-discussions#readme)
 - [NLP Datasets](https://datasets.quantumstat.com/)
 - [Word Embeddings (2017)](https://www.youtube.com/watch?v=5PL0TmQhItY)
+- [NLP from Scratch: Annotated Attention (2020)](https://teddykoker.com/2020/02/nlp-from-scratch-annotated-attention/)

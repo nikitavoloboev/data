@@ -10,7 +10,7 @@
 - [Physarum polycephalum](https://sagejenson.com/physarum)
 - [A tangle of webs 3D](https://inconvergent.net/2019/a-tangle-of-webs-3d/)
 - [Depth of field](https://inconvergent.net/2019/depth-of-field/)
-- [Components AI](https://components.ai/) - Experimental platform for exploring generative design systems.
+- [Components AI](https://components.ai/) - Experimental platform for exploring generative design systems. ([Simplex](https://components.ai/simplex/))
 - [Solandra](https://github.com/jamesporter/solandra) - Framework for algorithmic art. TypeScript first. Make drawing concepts part of framework. Make APIs for humans.
 - [Escher-like Spiral Tilings (2019)](http://isohedral.ca/escher-like-spiral-tilings/) ([HN](https://news.ycombinator.com/item?id=20854644))
 - [Creative Coding & Generative Art with JavaScript](https://github.com/mattdesl/workshop-generative-art)

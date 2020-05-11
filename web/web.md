@@ -75,3 +75,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Rebuilding our tech stack for the new Facebook.com (2020)](https://engineering.fb.com/web/facebook-redesign/) ([HN](https://news.ycombinator.com/item?id=23116300))
 - [Lobsters: If you were to choose a backend web framework today, what would you choose? (2020)](https://lobste.rs/s/2bsh1g/if_you_were_choose_backend_web_framework)
 - [Wayback Machine Downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Internet Archive Wayback Machine.
+- [Second-guessing the modern web (2020)](https://macwright.org/2020/05/10/spa-fatigue.html) ([HN](https://news.ycombinator.com/item?id=23136688))
