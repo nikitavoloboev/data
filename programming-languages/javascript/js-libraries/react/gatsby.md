@@ -52,3 +52,4 @@
 - [The Quest for the Perfect Dark Mode](https://joshwcomeau.com/gatsby/dark-mode/) - Scintillating exploration of color themes in Gatsby.
 - [Mapping Your Closest Impossible Burger with Gatsby (2020)](https://www.gatsbyjs.org/blog/2020-05-07-gatsby-delivers-impossible-burgers-map/)
 - [React or Gatsby Table of Contents (2020)](https://disaev.me/react-gatsby-table-of-contents/)
+- [Using Expo in Gatsby (2020)](https://sebastienlorber.com/using-expo-in-gatsby)

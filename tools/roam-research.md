@@ -11,3 +11,7 @@
 - [Roam Research Issue Tracker](https://github.com/Roam-Research/issues)
 - [20VC: Roam Research Analyzes Product Design and Team Building (2020)](https://thetwentyminutevc.com/conorwhitesullivan/) ([HN](https://news.ycombinator.com/item?id=23117876))
 - [Incubator for a Zettlekasten Tool](https://github.com/krimlabs/z)
+- [How to use Roam Research: a tool for metacognition](https://nesslabs.com/roam-research)
+- [Obsidian](https://obsidian.md/) - Note taking with backlinks based off markdown.
+- [Open source alternatives to Roam Research](https://www.reddit.com/r/selfhosted/comments/f0z6yd/open_source_alternatives_to_roam_research/)
+- [Notebag](https://notebag.app/) - Fully keyboard-compatible note taking app that links all your knowledge and gets out of your way.

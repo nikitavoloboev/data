@@ -81,3 +81,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Monetizing open source (2020)](https://twitter.com/zenorocha/status/1252252675522981890)
 - [on the usability of editable software](https://flak.tedunangst.com/post/on-the-usability-of-editable-software) ([Lobsters](https://lobste.rs/s/qkpwpa/on_usability_editable_software))
 - [How to promote your open source project (2020)](https://www.youtube.com/watch?v=b1pyh2XCyrg)
+- [Dan Abramov's advice on success in open source](https://github.com/facebook/create-react-app/pull/489#issuecomment-244574463)

@@ -89,6 +89,7 @@ And these Discord servers:
 - [MOOCReport by Class Central](https://www.classcentral.com/report/) - Latest news and trends in online education.
 - [some.fyi](https://some.fyi/) - Experiment to get more useful news.
 - [Original contents on HN](http://hn.luap.info/) ([HN](https://news.ycombinator.com/item?id=23093990))
+- [Ness Labs](https://nesslabs.com/) - Provides content, coaching, courses and community to help makers put their minds at work.
 
 ## Notes
 
