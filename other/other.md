@@ -190,3 +190,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [What’s the most coolest technology you have ever worked on? (2020)](https://lobste.rs/s/4jkef2/what_s_most_coolest_technology_you_have)
 - [Ask HN: How to stop anxiety from too many choices? (2020)](https://news.ycombinator.com/item?id=23131966)
 - [qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code.
+- [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity) - Visualize your HackerNews Activity.

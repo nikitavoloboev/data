@@ -93,3 +93,4 @@ I publish most of my work and make it open source for other people to use and re
 - [gren](https://github.com/github-tools/github-release-notes) - Github release notes and changelog generator.
 - [LabelSync](https://github.com/maticzav/label-sync) - Delightful companion to manage Github Labels across multiple repositories.
 - [GitHub Satellite Virtual 2020 - Work](https://www.youtube.com/watch?v=FhZTPM9ysWk) ([HN](https://news.ycombinator.com/item?id=23092160))
+- [LabelSync](https://label-sync.com/) - Sync labels. Across all repositories.
