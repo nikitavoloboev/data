@@ -33,6 +33,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [RustyHermit](https://github.com/hermitcore/libhermit-rs) - Rust-based, lightweight unikernel.
 - [Distaff](https://github.com/GuildOfWeavers/distaff) - Zero-knowledge virtual machine written in Rust.
 - [zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust.
+- [9front](http://9front.org/)
 
 ## Links
 

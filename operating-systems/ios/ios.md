@@ -152,3 +152,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [The Best. iOS Sandbox Escape (2020)](https://siguza.github.io/psychicpaper/) ([HN](https://news.ycombinator.com/item?id=23045042))
 - [iOS App Design Resources & Inspiration (2020)](https://www.youtube.com/watch?v=DnfNCBHo-qU)
 - [Can add privacy & terms as separate web pages before releasing iOS app](https://twitter.com/JPEGuin/status/1258064930688942080)
+- [UI Testing over the years (2020)](https://vimeo.com/416980950)
