@@ -207,3 +207,4 @@
 - [Auto-currying Rust Functions (2020)](https://peppe.rs/posts/auto-currying_rust_functions/)
 - [HN: Re: Integrating "safe" languages into OpenBSD? (2017)](https://news.ycombinator.com/item?id=23059477)
 - [Using Rust to Power Python Importing With oxidized_importer (2020)](https://gregoryszorc.com/blog/2020/05/10/using-rust-to-power-python-importing-with-oxidized_importer/)
+- [Educational blog posts for Rust beginners](https://github.com/pretzelhammer/rust-blog)

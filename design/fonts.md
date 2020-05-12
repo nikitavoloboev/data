@@ -69,3 +69,5 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [YouTube Sans: The Making of a Typeface (2020)](https://design.google/library/youtube-sans-the-making-of-a-typeface/)
 - [Convincing-looking 90s fonts in modern browsers (2020)](https://vistaserv.net/blog/90s-fonts-modern-browsers) ([HN](https://news.ycombinator.com/item?id=23129434))
 - [The best totally free web fonts & typefaces (2020)](https://vanschneider.com/the-best-totally-free-web-fonts-typefaces)
+- [Samsa](https://lorp.github.io/samsa/src/samsa-gui.html) - Variable font inspector. ([Code](https://github.com/Lorp/samsa))
+- [Axis-Praxis](https://www.axis-praxis.org/specimens/__DEFAULT__) - Website for playing with OpenType Variable Fonts
