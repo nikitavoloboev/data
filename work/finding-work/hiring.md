@@ -10,6 +10,10 @@
 - [Linear - In Search of Magic](https://linear.app/readme)
 - [Primer - Founding Front End Engineer](https://www.notion.so/Founding-Frontend-Engineer-San-Francisco-783c2072b9c047a88cb884babb47ef04)
 
+## Notes
+
+- [We’ve made an incredible innovation in hiring: Pay someone to do the work they would be doing if they get the job. If they are able to do it, they get the job.](https://twitter.com/shl/status/1260196779905052678)
+
 ## Links
 
 - [Hiring and the market for lemons](http://danluu.com/hiring-lemons/)

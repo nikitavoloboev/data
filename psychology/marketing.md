@@ -16,6 +16,7 @@
 - [Sales and marketing strategy in the time of COVID-19](https://www.notion.so/Sales-and-marketing-strategy-in-the-time-of-COVID-19-4e4589fd287c438eb863ecf66aff51e2)
 - [Yonder Narrative](https://www.yonder-ai.com/product/) - Detect early signs of coordinated conversations and the online groups responsible for them — before they go viral and impact your brand.
 - [Notes on growth (2020)](https://twitter.com/ibringtraffic/status/1258817333096673281)
+- [How the biggest consumer apps got their first 1,000 users (2020)](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got)
 
 ## Images
 

@@ -141,3 +141,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Making sense of Design Unbound vs. prior theories of collaborative design work (2020)](https://www.twitch.tv/videos/611050187)
 - [Proselint](http://proselint.com/) - Linter for prose. ([Code](https://github.com/amperser/proselint))
 - [2020 Pulitzer Prize Winners](https://www.pulitzer.org/news/announcement-2020-pulitzer-prize-winners) ([HN](https://news.ycombinator.com/item?id=23072690))
+- [Encouraging a Culture of Written Communication (2020)](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication) ([HN](https://news.ycombinator.com/item?id=23141353))
