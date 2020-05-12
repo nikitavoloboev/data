@@ -95,3 +95,4 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Satellite Virtual 2020 - Work](https://www.youtube.com/watch?v=FhZTPM9ysWk) ([HN](https://news.ycombinator.com/item?id=23092160))
 - [LabelSync](https://label-sync.com/) - Sync labels. Across all repositories.
 - [Shields.io](https://shields.io/) - Concise, consistent, and legible badges in SVG and raster format. ([Code](https://github.com/badges/shields))
+- [GitHub Subscriber](https://gitsub.easydev.space/) - Follow github users. ([Code](https://github.com/rpolonsky/gitsub))
