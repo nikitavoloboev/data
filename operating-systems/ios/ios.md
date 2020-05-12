@@ -153,3 +153,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS App Design Resources & Inspiration (2020)](https://www.youtube.com/watch?v=DnfNCBHo-qU)
 - [Can add privacy & terms as separate web pages before releasing iOS app](https://twitter.com/JPEGuin/status/1258064930688942080)
 - [UI Testing over the years (2020)](https://vimeo.com/416980950)
+- [iOS CADisplayLink diagram (2020)](https://twitter.com/_PaigeSun/status/1258493780795129856)

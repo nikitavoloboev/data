@@ -32,3 +32,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Age Reversal Forum](https://forum.age-reversal.net/)
 - [Lifespan: Why We Age—and Why We Don't Have To (2019)](https://www.goodreads.com/book/show/43723901-lifespan)
 - [How to Slow Aging (and even reverse it)](https://www.youtube.com/watch?v=QRt7LjqJ45k)
+- [Age Reduction Breakthrough (2020)](https://joshmitteldorf.scienceblog.com/2020/05/11/age-reduction-breakthrough/) ([HN](https://news.ycombinator.com/item?id=23142932)) ([Twitter](https://twitter.com/davidasinclair/status/1259912928695857152))
