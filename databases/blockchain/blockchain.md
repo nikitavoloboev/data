@@ -63,3 +63,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Deconstructing Stellar Consensus (Extended Version) (2019)](https://arxiv.org/pdf/1911.05145.pdf)
 - [ink!](https://github.com/paritytech/ink) - eDSL to write WebAssembly based smart contracts using the Rust programming language targeting Substrate blockchains.
 - [Experimental blockchain database](https://github.com/paritytech/parity-db)
+- [David Gerard: Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/)

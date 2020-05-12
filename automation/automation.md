@@ -12,6 +12,7 @@
 - [RobotJS](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
 - [Ask HN: What automation tools have you used to replace mundane activities? (2020)](https://news.ycombinator.com/item?id=22345150)
 - [Atbswp](https://github.com/rmpr/atbswp) - Minimalist keyboard macro and mouse recording and playback tool.
+- [The Art of Automation (2020)](https://blog.jessfraz.com/post/the-art-of-automation/)
 
 ## Images
 

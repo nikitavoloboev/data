@@ -12,7 +12,7 @@
 - [Amazon Kinesis Video Streams C WebRTC SDK](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c) - Pure C WebRTC Client for Amazon Kinesis Video Streams. ([HN](https://news.ycombinator.com/item?id=21951692))
 - [simple-peer](https://github.com/feross/simple-peer) - Simple WebRTC video, voice, and data channels.
 - [WebRTC code samples](https://github.com/webrtc/samples)
-- [Password authenticated WebRTC](https://github.com/saljam/webwormhole)
+- [Web Wormhole: Peer authenticated WebRTC](https://github.com/saljam/webwormhole) - Let's you send files from one place to another. ([Web](https://webwormhole.io/)) ([Lobsters](https://lobste.rs/s/if50o1/web_wormhole))
 - [Pion](https://github.com/pion) - Modern and Cross Platform Stack for WebRTC. ([HN](https://news.ycombinator.com/item?id=23039348))
 - [RAWRTC](https://github.com/rawrtc/rawrtc) - WebRTC and ORTC library with a small footprint.
 - [webrtc-sdp](https://github.com/mozilla/webrtc-sdp) - Rust SDP parser for WebRTC.

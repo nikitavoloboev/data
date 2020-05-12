@@ -48,3 +48,4 @@ Might give it a go sometime.
 - [Evolution of Emacs Lisp](http://www.iro.umontreal.ca/~monnier/hopl-4-emacs-lisp.pdf) ([HN](https://news.ycombinator.com/item?id=23080417))
 - [Making Emacs popular again (2020)](https://lwn.net/SubscriberLink/819452/1480c3a59d3d9093/) ([Lobsters](https://lobste.rs/s/ueqxbu/making_emacs_popular_again)) ([HN](https://news.ycombinator.com/item?id=23107123))
 - [Prettifying Org Mode with CSS (2020)](https://sandyuraz.com/articles/orgmode-css/) ([HN](https://news.ycombinator.com/item?id=23130104))
+- [Spacemacs and My Exit From VSCode (2020)](https://dev.to/zamhaq/spacemacs-and-my-exit-from-vscode-54o2) ([Lobsters](https://lobste.rs/s/zc0shz/spacemacs_my_exit_from_vscode))

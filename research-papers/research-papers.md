@@ -46,3 +46,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Scholar Digest](https://github.com/graydon/scholar-digest) - Small script for managing google scholar alert emails.
 - [cli-arxiv](https://github.com/knguyenanhoa/cli-arxiv) - CLI tool for exploring arXiv.
 - [Publishing in the Distill Research Journal](https://distill.pub/journal/)
+- [Organize remote meetings for reading computer science papers](https://github.com/zx9w/read-together) ([Lobsters](https://lobste.rs/s/incspc/looking_for_people_who_d_like_read_cs))
