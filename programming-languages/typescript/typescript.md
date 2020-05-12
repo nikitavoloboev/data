@@ -91,6 +91,7 @@
 - [Functional TypeScript](https://github.com/transitive-bullshit/functional-typescript) - TypeScript standard for rock solid serverless functions.
 - [TSJS-lib-generator](https://github.com/microsoft/TSJS-lib-generator) - TypeScript and JavaScript lib generator.
 - [TypeScript exercises](https://github.com/mdevils/typescript-exercises) - Collection of challenging TypeScript exercises.
+- [sane-fmt](https://github.com/KSXGitHub/sane-fmt) - Opinionated code formatter for TypeScript and JavaScript.
 
 ## Images
 
