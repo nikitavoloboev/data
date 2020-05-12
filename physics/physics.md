@@ -78,4 +78,4 @@
 - [A Mathematical Theory of Communication - Claude Shannon (1948)](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 - [Brief introduction to the beauty of Information Theory (2020)](https://notamonadtutorial.com/a-brief-introduction-to-the-beauty-of-information-theory-8357f5b6a355)
 - [Finding new physics will require a new particle collider (2020)](https://www.economist.com/science-and-technology/2020/01/02/finding-new-physics-will-require-a-new-particle-collider) ([HN](https://news.ycombinator.com/item?id=23131526))
-- [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html) ([HN](https://news.ycombinator.com/item?id=23153778))
+- [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html) ([HN](https://news.ycombinator.com/item?id=23153778)) ([Code](https://github.com/hnarayanan/sicm))

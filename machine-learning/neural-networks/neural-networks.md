@@ -113,3 +113,4 @@
 - [Perovskite neural trees (2020)](https://www.nature.com/articles/s41467-020-16105-y) ([HN](https://news.ycombinator.com/item?id=23107722))
 - [How Powerful are Graph Neural Networks?](https://github.com/weihua916/powerful-gnns)
 - [RigNet: Neural Rigging for Articulated Characters (2020)](https://zhan-xu.github.io/rig-net/) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/ggakn3/r_rignet_neural_rigging_for_articulated_characters/))
+- [Convolutional neural networks for artistic style transfer (2017)](https://harishnarayanan.org/writing/artistic-style-transfer/)

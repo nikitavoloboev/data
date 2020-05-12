@@ -192,3 +192,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code.
 - [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity) - Visualize your HackerNews Activity.
 - [Uncrate](https://uncrate.com/) - Objects of desire.
+- [Adaptive multiphase flow through porous media](https://harishnarayanan.org/research/porous-flow/)
+- [Academic research of Harish Narayanan](https://harishnarayanan.org/research/)
