@@ -72,3 +72,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [A Simple Differentiable Programming Language (2020)](https://arxiv.org/pdf/1911.04523.pdf)
 - [The Hard Part of Learning a Language (2020)](https://www.hillelwayne.com/post/learning-a-language/) ([Lobsters](https://lobste.rs/s/rcdj1z/hard_part_learning_language))
 - [Hoist](https://github.com/theronic/hoist) - Visual programming language inspired by Excel & Datalog.
+- [Esoteric.Codes](https://esoteric.codes/) - Languages, platforms, and systems that break from the norms of computing.
