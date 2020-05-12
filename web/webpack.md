@@ -29,3 +29,4 @@
 - [@mixer/webpack-bundle-compare](https://github.com/mixer/webpack-bundle-compare) - Tool for comparing webpack bundle stats.
 - [Tobias Koppers's presentations](https://github.com/sokra/slides)
 - [Webpack Module Federation Examples](https://github.com/module-federation/module-federation-examples)
+- [Webpack and yarn magic against duplicates in bundles (2020)](https://medium.com/@adevnadia/webpack-and-yarn-magic-against-duplicates-in-bundles-52b5e1a5e2e2)
