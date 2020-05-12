@@ -68,3 +68,5 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Creating a macOS App with SwiftUI](https://developer.apple.com/tutorials/swiftui/creating-a-macos-app)
 - [Syphon](https://github.com/Syphon/Syphon-Framework) - macOS technology to allow applications to share video and still images with one another in realtime, instantly.
 - [Mac Bare Metal](https://flow.swiss/mac-bare-metal) - Enterprise-class IaaS for macOS.
+- [React Native for macOS](https://github.com/microsoft/react-native-macos) - Build native macOS apps with React. ([HN](https://news.ycombinator.com/item?id=23160075))
+- [My Mac App Store Debate (2020)](https://inessential.com/2020/05/12/my_mac_app_store_debate)

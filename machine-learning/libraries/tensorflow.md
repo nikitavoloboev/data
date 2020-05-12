@@ -40,3 +40,4 @@
 - [Learning to See in the Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) ([HN](https://news.ycombinator.com/item?id=22899495))
 - [TensorFlow Profiler](https://github.com/tensorflow/profiler) - Profiling and performance analysis tool for TensorFlow.
 - [TFRT: A New TensorFlow Runtime](https://github.com/tensorflow/runtime)
+- [Farewell, TensorFlow (2020)](https://mrry.github.io/2020/05/10/farewell-tensorflow.html) ([Twitter](https://twitter.com/ericjang11/status/1259882911282556928))

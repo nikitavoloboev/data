@@ -12,6 +12,7 @@
 - [Swift-Jupyter](https://github.com/google/swift-jupyter) - Jupyter Kernel for Swift, intended to make it possible to use Jupyter with the Swift for TensorFlow project.
 - [gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks.
 - [jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time) - Execute Time Plugin for Jupyter Lab.
+- [jupyterlab-cell-flash](https://github.com/jtpio/jupyterlab-cell-flash) - Show a flash effect when a notebook cell is executed.
 
 ## Links
 

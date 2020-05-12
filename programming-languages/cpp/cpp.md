@@ -82,3 +82,4 @@
 - [CMakeRC](https://github.com/vector-of-bool/cmrc) - Standalone CMake-Based C++ Resource Compiler.
 - [C++ Is Faster and Safer Than Rust: Benchmarked by Yandex](https://www.viva64.com/en/b/0733/) ([HN](https://news.ycombinator.com/item?id=23134688))
 - [Programming languages — a common C/C++ core specification (2020)](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2494.pdf)
+- [C++ Coroutines: Understanding Symmetric Transfer (2020)](https://lewissbaker.github.io/2020/05/11/understanding_symmetric_transfer)

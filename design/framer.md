@@ -7,3 +7,4 @@
 - [Framer Web](https://www.framer.com/web/)
 - [Component Importer](https://github.com/framer/component-importer) - Helps you import your production design system into Framer X.
 - [API Docs](https://www.framer.com/api) - Complete API reference for the Framer Library & Framer Motion packages. ([Code](https://github.com/framer/api-docs))
+- [Awesome Framer Tips](https://awesomeframertips.xyz/)
