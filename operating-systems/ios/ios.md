@@ -154,3 +154,5 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Can add privacy & terms as separate web pages before releasing iOS app](https://twitter.com/JPEGuin/status/1258064930688942080)
 - [UI Testing over the years (2020)](https://vimeo.com/416980950)
 - [iOS CADisplayLink diagram (2020)](https://twitter.com/_PaigeSun/status/1258493780795129856)
+- [Reveal](https://revealapp.com/) - Brings powerful runtime view debugging to iOS developers.
+- [Source Code Walkthrough of Telegram-iOS (2020)](https://medium.com/@BoHu/source-code-walkthrough-of-telegram-ios-part-1-adee673e2202) ([Part 2](https://medium.com/@BoHu/source-code-walkthrough-of-telegram-ios-part-2-ssignalkit-afdf35ff60ba))

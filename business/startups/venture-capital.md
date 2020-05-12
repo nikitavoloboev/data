@@ -46,3 +46,4 @@
 - [Cherry VC](https://www.cherry.vc/)
 - [Venture Capital - Silicon Valley Ponzi Scheme - Chamath Palihapitiya (2019)](https://www.youtube.com/watch?v=NVVsdlHslfI)
 - [Thrive Capital](http://thrivecap.com/) - Venture capital investment firm focused on internet and software investments.
+- [Hustle Fund](https://www.hustlefund.vc/)

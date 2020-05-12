@@ -22,3 +22,4 @@
 - [@stitches](https://github.com/christianalfoni/stitches) - Tiny configurable CSS-IN-JS library.
 - [Performance comparison of css approaches](https://github.com/jantimon/css-framework-performance)
 - [Introducing stitches - atomic CSS-IN-JS inspired by Tailwind CSS (2020)](https://www.youtube.com/watch?v=uCiWfQMUUEw)
+- [mystical](https://github.com/dburles/mystical) - Small CSS-in-JS library for atomised constraint based design.

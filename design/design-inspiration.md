@@ -113,6 +113,7 @@ Here are few more things I liked, design wise.
 - [Nienke Dekker](https://nienke.dev/)
 - [Jon Kuperman](https://jonkuperman.com/)
 - [Patrik Huebner](https://www.patrik-huebner.com/)
+- [Matt Swanson](https://mdswanson.com/)
 - [Josh Comeau](https://joshwcomeau.com/)
 - [Jon Gjengset](https://thesquareplanet.com/)
 - [Robert Squires](https://robertsquires.co.uk/)

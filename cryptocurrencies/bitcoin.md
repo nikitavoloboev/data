@@ -25,3 +25,4 @@
 - [MIT Bitcoin Expo 2020 - Bitcoin Core Devs Panel](https://www.youtube.com/watch?v=NKBjhSKxSi0)
 - [Rust language bindings for Bitcoin secp256k1 library](https://github.com/rust-bitcoin/rust-secp256k1)
 - [Bitcoin Indexer](https://github.com/dpc/rust-bitcoin-indexer) - Powerful & versatile Bitcoin Indexer, in Rust.
+- [Bitcoin Halving 2020](https://messari.io/bitcoin-halving-2020) ([HN](https://news.ycombinator.com/item?id=23146024))

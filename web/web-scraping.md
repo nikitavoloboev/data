@@ -19,3 +19,4 @@
 - [Web Scraper](https://web.scraper.workers.dev/) - Scrape websites for text by CSS selector.
 - [List all the broken links on your website](https://gist.github.com/mdamien/7b71ef06f49de1189fb75f8fed91ae82)
 - [Creating a Robust, Reusable Link-Checker (2020)](http://adventures.michaelfbryan.com/posts/linkchecker/)
+- [micawber](https://github.com/coleifer/micawber) - Small library for extracting rich content from urls.
