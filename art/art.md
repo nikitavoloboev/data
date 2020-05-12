@@ -84,6 +84,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Zach Lieberman](https://zachlieberman.tictail.com/)
 - [Mari K](https://www.artstation.com/madmaraca)
 - [James Gilleard](https://www.behance.net/jamesgilleard) ([Arches](https://twitter.com/jgilleard/status/1257000671422722048))
+- [Paul Chadeisson](https://www.instagram.com/paulchadeisson/)
 - [Cody Leigh Bond](https://www.etsy.com/shop/CodyLeighBond)
 - [Mustafa Kural](https://dribbble.com/mustafakural/shots)
 - [Android Jones](http://androidjones.com/)
