@@ -37,3 +37,4 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles#r
 - [Nice setup of new mac instructions](https://github.com/caarlos0/macOS)
 - [Syncing dev environments the hard way (2020)](https://banga.github.io/blog/2020/03/07/syncing-dev-environments-the-hard-way.html)
 - [dotcommon](https://github.com/Kharacternyk/dotcommon) - What do people have in their dotfiles?
+- [homeshick](https://github.com/andsens/homeshick) - Git dotfiles synchronizer written in bash.

@@ -31,3 +31,5 @@
 - [Explained | The Stock Market (2020)](https://www.youtube.com/watch?v=ZCFkWDdmXG8)
 - [The Stock Market vs. The Economy (2020)](https://www.youtube.com/watch?v=0ECqDaPjjV0)
 - [Naked Capitalism](https://www.nakedcapitalism.com/) - Fearless commentary on finance, economics, politics and power.
+- [HN: The Fed Will Buy Bond ETFs Now (2020)](https://news.ycombinator.com/item?id=23156098)
+- [Understanding The Current Macroeconomic Situation with Scott Sumner (2020)](https://overcast.fm/+LDKcyLt0c)
