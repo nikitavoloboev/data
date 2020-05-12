@@ -136,7 +136,7 @@
 - [IxJS](https://github.com/ReactiveX/IxJS) - Interactive Extensions for JavaScript.
 - [Renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [The ECMAScript Ecosystem (2020)](https://dev.to/laurieontech/the-ecmascript-ecosystem-2e13)
-- [esbuild](https://github.com/evanw/esbuild/) - Extremely fast JavaScript bundler and minifier written in Go. ([HN](https://news.ycombinator.com/item?id=22335707))
+- [esbuild](https://github.com/evanw/esbuild/) - Extremely fast JavaScript bundler and minifier written in Go. ([HN](https://news.ycombinator.com/item?id=22335707)) ([Architecture](https://github.com/evanw/esbuild/blob/master/docs/architecture.md))
 - [JavaScript: Understanding the Weird Parts course (2015)](https://www.udemy.com/course/understand-javascript/)
 - [Fastpack](https://github.com/fastpack/fastpack) - Pack JS code into a single bundle fast & easy.
 - [guijs](https://github.com/Akryum/guijs) - App that helps you manage JS projects with a Graphical User Interface.
