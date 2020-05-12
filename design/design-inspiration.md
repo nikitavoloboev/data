@@ -105,6 +105,7 @@ Here are few more things I liked, design wise.
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))
 - [Mackenzie Child](https://www.mackenziechild.me/)
 - [Serge Zaitsev](https://zserge.com/)
+- [Shihab Mehboob](https://www.pnguin.app/)
 - [Heydon Pickering](https://heydonworks.com/)
 - [Lisi Linhart](https://lisilinhart.info/)
 - [Owen Williams](https://owenwillia.ms/)

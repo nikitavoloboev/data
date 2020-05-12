@@ -14,3 +14,4 @@
 - [Projects from edX | CSMM.103x Robotics](https://github.com/eborghi10/ColumbiaX-Robotics)
 - [Mithi's Hexapod Robot Simulator](https://github.com/mithi/hexapod-robot-simulator)
 - [Stanford Pupper: low-cost quadruped robot](https://stanfordstudentrobotics.org/pupper) ([HN](https://news.ycombinator.com/item?id=23059389))
+- [Flowers Inria](https://flowers.inria.fr/) - Studies mechanisms that can allow robots and humans to acquire autonomously and cumulatively repertoires of novel skills over extended periods of time.
