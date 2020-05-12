@@ -70,3 +70,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [HN: AWS EC2 General Price Cut (2020)](https://news.ycombinator.com/item?id=23129730)
 - [AWS Services You Should Avoid (2020)](https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd) ([HN](https://news.ycombinator.com/item?id=23131449))
 - [Getting started with serverless on AWS (2020)](https://emshea.com/post/serverless-getting-started)
+- [AWS Networking 101 (2020)](https://blog.ipspace.net/2020/05/aws-networking-101.html)

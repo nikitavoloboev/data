@@ -126,6 +126,7 @@ Here are few more things I liked, design wise.
 - [Two Wrongs](https://two-wrongs.com/)
 - [Nathan Taylor](https://nathan.tokyo/)
 - [Gal Shir](https://galshir.com/)
+- [Gregory Szorc](https://gregoryszorc.com/)
 - [Sergio Xalambrí](https://sergiodxa.com/) ([Code](https://github.com/sergiodxa/personal-site))
 - [Tyler Gaw](https://tylergaw.com/)
 - [Colin Dunn](http://colindunn.com/)
