@@ -153,6 +153,7 @@
 - [Immigrant Founders](https://immigrantfounders.com/) ([Twitter](https://twitter.com/albertoarenaza/status/1258748180688232451))
 - [Surprising Things About Working at Well-Known Tech Unicorns (2020)](https://blog.pragmaticengineer.com/surprising-things-about-working-at-tech-unicorns/)
 - [Starting a company in Norway (2020)](https://eon.codes/blog/2020/04/07/Starting-a-company-in-norway/)
+- [Markets Are 10X Bigger Than Ever (2019)](http://blog.eladgil.com/2019/05/markets-are-10x-bigger-than-ever.html)
 
 ## Images
 

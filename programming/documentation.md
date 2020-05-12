@@ -1,5 +1,9 @@
 # Documentation
 
+## Examples of nice docs
+
+- [Shields.io readme](https://github.com/badges/shields#readme) - Clear instructions on how to start working on the project, contributing guidelines pointing to a tutorial, coding guidelines and even a high-level code walkthrough.
+
 ## Notes
 
 - [Top two mistakes in documentation:](https://twitter.com/dan_abramov/status/1083472984252260352)
