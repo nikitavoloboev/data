@@ -39,3 +39,4 @@
 - [Trianglify](http://qrohlf.com/trianglify/) - Algorithmically generated triangle art. ([Code](https://github.com/qrohlf/trianglify))
 - [Generative Art by Eric Davidson](https://github.com/erdavids/Generative-Art)
 - [Generating color palettes using neural nets (2020)](https://twitter.com/mattdesl/status/1258730249023438848)
+- [thedotisblack](https://thedotisblack.com/) - Platform for research design on (generative) drawings and videos made with code. ([YouTube](https://www.youtube.com/channel/UCX4GSh1gpRuugPpjxu0gLmw/videos))

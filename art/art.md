@@ -185,6 +185,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Simon Sarris](https://www.instagram.com/simonsarris/)
 - [Bradley G Munkowitz](https://photo.gmunk.com/) ([Lake Tahoe](https://photo.gmunk.com/2020-Lake-Tahoe))
 - [Stay At Home Photography](https://stayathome.photography/)
+- [Arseniy Kotov](https://www.instagram.com/northern.friend/) - Architecture and life in post-soviet world.
 
 ## Notes
 
