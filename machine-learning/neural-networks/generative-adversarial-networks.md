@@ -16,3 +16,4 @@
 - [GANSpace: Discovering Interpretable GAN Controls](https://github.com/harskish/ganspace)
 - [Time-series Generative Adversarial Networks](https://github.com/firmai/tsgan)
 - [TwinGAN](https://github.com/jerryli27/TwinGAN) - Unsupervised Image Translation for Human Portraits.
+- [Wasserstein GAN (WGAN) with Gradient Penalty (GP)](https://keras.io/examples/generative/wgan_gp/)
