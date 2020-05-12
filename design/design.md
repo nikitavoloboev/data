@@ -84,3 +84,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Reading Design](https://www.readingdesign.org/index-1) - Online archive of critical writing about design.
 - [Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers#readme)
 - [Blush](https://blush.design/) - Create, mix, and customize illustrations made by artists around the world.
+- [spark-joy](https://github.com/sw-yx/spark-joy#readme) - Easy ways to add design flair, user delight, and whimsy to your product.

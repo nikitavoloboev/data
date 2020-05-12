@@ -150,6 +150,7 @@ Below is a list of extensions I use.
 ## JS/TS
 
 - [React Native](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) - Debugging and integrated commands for React Native. ([Code](https://github.com/microsoft/vscode-react-native))
+- [ast-query](https://marketplace.visualstudio.com/items?itemName=nikaspran.ast-query) - Search and highlight JavaScript and TypeScript via Abstract Syntax Tree queries. ([Code](https://github.com/nikaspran/vscode-ast-query))
 - [Deoptigate](https://github.com/rbuckton/deoptigate-vscode) - Visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e. NodeJS, Chrome, etc.).
 - [Search node_modules](https://marketplace.visualstudio.com/items?itemName=jasonnutter.search-node-modules) - Quickly search the node_modules folder.
 - [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - Supports [TSLint](https://palantir.github.io/tslint/).
