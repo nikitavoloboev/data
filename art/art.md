@@ -82,6 +82,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Nicola Samori](https://www.artsy.net/artist/nicola-samori)
 - [u29dc](https://www.instagram.com/u29dc/)
 - [Zach Lieberman](https://zachlieberman.tictail.com/)
+- [Matthew Lyons](https://www.instagram.com/matthewjohnlyons/)
 - [Mari K](https://www.artstation.com/madmaraca)
 - [James Gilleard](https://www.behance.net/jamesgilleard) ([Arches](https://twitter.com/jgilleard/status/1257000671422722048))
 - [Paul Chadeisson](https://www.instagram.com/paulchadeisson/)

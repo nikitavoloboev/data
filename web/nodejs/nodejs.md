@@ -73,3 +73,4 @@
 - [Node File Trace](https://github.com/zeit/node-file-trace) - Determine exactly which files (including node_modules) are necessary for the application runtime.
 - [Awesome npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme)
 - [Emma](https://github.com/maticzav/emma-cli) - Terminal assistant to find and install node packages.
+- [v8-perf](https://github.com/thlorenz/v8-perf#readme) - Notes and resources related to V8 and thus Node.js performance.

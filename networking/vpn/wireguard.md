@@ -15,3 +15,4 @@
 - [Getting Started with WireGuard](https://miguelmota.com/blog/getting-started-with-wireguard/) ([Lobsters](https://lobste.rs/s/zozvm1/getting_started_with_wireguard)) ([HN](https://news.ycombinator.com/item?id=22788584))
 - [Why not "Why not WireGuard?" (2020)](https://tailscale.com/blog/why-not-why-not-wireguard/) ([Lobsters](https://lobste.rs/s/y51k7h/why_not_why_not_wireguard))
 - [Building a WireGuard Jail with the FreeBSD's Standard Tools (2020)](https://genneko.github.io/playing-with-bsd/networking/freebsd-wireguard-jail/) ([HN](https://news.ycombinator.com/item?id=23004061))
+- [guard](https://github.com/stellarproject/guard) - GRPC server for managing wireguard tunnels.

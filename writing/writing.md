@@ -143,3 +143,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [2020 Pulitzer Prize Winners](https://www.pulitzer.org/news/announcement-2020-pulitzer-prize-winners) ([HN](https://news.ycombinator.com/item?id=23072690))
 - [Encouraging a Culture of Written Communication (2020)](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication) ([HN](https://news.ycombinator.com/item?id=23141353))
 - [Writing for Software Developers](https://philipkiely.com/wfsd/) ([HN](https://news.ycombinator.com/item?id=23153469))
+- [Collection of materials relating to technical writing](https://github.com/sixhobbits/technical-writing#readme)

@@ -51,3 +51,4 @@
 - [PyCaret](https://github.com/pycaret/pycaret) - Open source low-code machine learning library in Python that aims to reduce the hypothesis to insights cycle time in a ML experiment.
 - [Flax](https://github.com/google/flax) - Neural network library for JAX designed for flexibility.
 - [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn) - Python module capable of performing multi-label learning tasks.
+- [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Python package offering a number of re-sampling techniques commonly used in datasets showing strong between-class imbalance.
