@@ -27,3 +27,4 @@
 - [Bitcoin Indexer](https://github.com/dpc/rust-bitcoin-indexer) - Powerful & versatile Bitcoin Indexer, in Rust.
 - [Bitcoin Halving 2020](https://messari.io/bitcoin-halving-2020) ([HN](https://news.ycombinator.com/item?id=23146024))
 - [PoX: Proof of Transfer Mining with Bitcoin (2020)](https://blockstack.org/pox.pdf)
+- [Bitcoin for the Open-Minded Skeptic (2020)](https://www.paradigm.xyz/Bitcoin_For_The_Open_Minded_Skeptic.pdf)
