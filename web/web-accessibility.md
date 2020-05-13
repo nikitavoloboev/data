@@ -20,3 +20,4 @@
 - [BBC Global Experience Language (GEL)](https://bbc.github.io/gel/) ([Web](https://www.bbc.co.uk/gel)) ([Code](https://github.com/bbc/gel))
 - [Web Accessibility courses/resources](https://www.reddit.com/r/webdev/comments/aqm6l4/i_cant_find_a_single_web_accessibility_course/)
 - [Web and Media Accessibility Group AMA (2020)](https://hashnode.com/post/the-web-and-media-accessibility-group-ama-ck9wy7s5w01j4nbs1kle8k7gn)
+- [Names, Legal Names, and Fractally Deferred Responsibility (2020)](https://nora.codes/post/names-legal-names-and-fractally-deferred-responsibility/) ([Lobsters](https://lobste.rs/s/61iy3h/names_legal_names_fractally_deferred))

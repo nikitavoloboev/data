@@ -106,3 +106,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [What I learned attempting the TCP Reset attack (2020)](http://squidarth.com/article/networking/2020/05/03/tcp-resets.html)
 - [Network Programming Self-Study (2020)](https://siliconsprawl.com/2020/05/10/network-programming-self-study.html)
 - [Basic LDAP functionality for Go](https://github.com/go-ldap/ldap)
+- [Don't trust default timeouts (2020)](https://robertovitillo.com/default-timeouts/) ([Lobsters](https://lobste.rs/s/t7jqqx/don_t_trust_default_timeouts))

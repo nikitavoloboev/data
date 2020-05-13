@@ -47,3 +47,4 @@
 - [CS Unplugged – Computer Science without a computer](https://csunplugged.org/en/) ([HN](https://news.ycombinator.com/item?id=22948055))
 - [Computer Science Readings](https://github.com/erikgrinaker/readings)
 - [A Guide to Big O notation (2020)](https://eaj.no/a-guide-to-big-o-notation)
+- [Lobsters: Recommended readings for a recent CS graduate (2020)](https://lobste.rs/s/d1c7vd/recommended_readings_for_recent_cs)
