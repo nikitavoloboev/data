@@ -127,3 +127,4 @@
 - [When does React re-render components?](https://felixgerschau.com/react-rerender-components) ([HN](https://news.ycombinator.com/item?id=23004848))
 - [What I wish I knew about React (2020)](https://bitsofco.de/what-i-wish-i-knew-about-react/) ([HN](https://news.ycombinator.com/item?id=23005929))
 - [Remix Preview #1 (2020)](https://blog.remix.run/p/remix-preview)
+- [5 Layers of State Management in React Applications (2020)](https://joelhooks.com/5-layers-react-state)
