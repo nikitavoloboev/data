@@ -29,3 +29,4 @@
 - [Color Names](https://colornames.org/) - Collaborative effort to name every color in the RGB/web space. ([HN](https://news.ycombinator.com/item?id=22852646))
 - [Chromotome](https://kgolid.github.io/chromotome-site/) - Collection of color palettes saved for personal use. ([Code](https://github.com/kgolid/chromotome))
 - [Research links on color theory (2020)](https://twitter.com/mattdesl/status/1260341933551104000)
+- [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)

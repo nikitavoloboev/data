@@ -82,3 +82,4 @@
 - [The three core React hook features (2019)](https://bypaulshen.com/posts/react-hooks-core-api)
 - [Hooks’ Macro](https://github.com/yuchi/hooks.macro) - Babel Macros for React Hooks automatic memoization invalidation.
 - [A Critique of React Hooks (2020)](https://dillonshook.com/a-critique-of-react-hooks/) ([HN](https://news.ycombinator.com/item?id=22995928))
+- [Shared Hook State with SWR (2020)](https://paco.im/blog/shared-hook-state-with-swr)

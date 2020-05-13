@@ -191,6 +191,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: How to stop anxiety from too many choices? (2020)](https://news.ycombinator.com/item?id=23131966)
 - [qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code.
 - [HackerNews User Activity](https://showcase.metamate.io/hackernews-user-activity) - Visualize your HackerNews Activity.
+- [HackerNews Trends](https://showcase.metamate.io/hackernews-trends) - Visualize any topic on Hacker News. ([HN](https://news.ycombinator.com/item?id=23166442))
 - [Uncrate](https://uncrate.com/) - Objects of desire.
 - [Adaptive multiphase flow through porous media](https://harishnarayanan.org/research/porous-flow/)
 - [Academic research of Harish Narayanan](https://harishnarayanan.org/research/)

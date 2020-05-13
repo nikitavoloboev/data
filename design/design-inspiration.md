@@ -79,6 +79,7 @@ Here are few more things I liked, design wise.
 - [Lee Robinson](https://leerob.io/) ([Code](https://github.com/leerob/leerob.io))
 - [Alex Holachek](https://alex.holachek.com/) ([Code](https://github.com/aholachek/aholachek.github.io))
 - [Rickard Laurin](https://willcodefor.beer)
+- [Paco Coursey](https://paco.im/)
 - [Adam Schwartz](https://adamschwartz.co/)
 - [Andrew Wang-Hoyer](https://andrew.wang-hoyer.com/)
 - [Amelia Wattenberger](https://wattenberger.com/)
