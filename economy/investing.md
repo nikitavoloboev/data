@@ -29,7 +29,7 @@
 - [A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom (2015)](https://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom/)
 - [Investment Memo: Earnest Fund 2 (2020)](https://earnestcapital.com/investment-memo-fund-2/)
 - [What’s up with China buying US debt? (2020)](https://www.reddit.com/r/OutOfTheLoop/comments/fj1avn/whats_up_with_china_buying_us_debt/)
-- [Advice on doing Real Estate investing](https://www.reddit.com/r/financialindependence/comments/fj33fa/the_best_financial_decision_i_ever_made/fkkqiw3?utm_source=share&utm_medium=web2x)
+- [Advice on doing Real Estate investing](https://www.reddit.com/r/financialindependence/comments/fj33fa/the_best_financial_decision_i_ever_made/fkkqiw3)
 - [Ask HN: How should I invest \$200K in this market? (2020)](https://news.ycombinator.com/item?id=22623807)
 - [Ask HN: Introductory Books on the Stock Market? (2020)](https://news.ycombinator.com/item?id=22709843)
 - [Sequoia Capital podcast episode](https://overcast.fm/+FaxnVsu28) ([Part II](https://overcast.fm/+FaxleB3SE))

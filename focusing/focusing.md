@@ -40,7 +40,7 @@ I support my [happiness](../life/happiness.md) by working on projects that I car
 - [Be Too Busy to “Do Coffee”](https://nav.al/2019/05/08/meetings/)
 - [Ask HN: What tools/methods do you use to focus your time well? (2019)](https://news.ycombinator.com/item?id=19996062) ([Lobsters](https://lobste.rs/s/1nhqml/what_tools_methods_do_you_use_focus_your))
 - [Ask HN: How do you stay disciplined in the long run? (2019)](https://news.ycombinator.com/item?id=19777976)
-- [How to Focus on What’s Important, Not Just What’s Urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent?utm_content=buffer631db&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [How to Focus on What’s Important, Not Just What’s Urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent)
 - [Prioritizing (2019)](https://css-tricks.com/prioritizing/)
 - [Lobsters: What is procrastination, exactly? (2019)](https://lobste.rs/s/f2sdfz/what_is_procrastination_exactly)
 - [The Power of Shower Thoughts: Trusting Your Mind to Work in the Background (2019)](https://alexanderell.is/posts/trust-in-your-unconscious/) ([HN](https://news.ycombinator.com/item?id=21557902))

@@ -19,4 +19,4 @@
 - [Double slits with single atoms (2020)](https://physicsworld.com/a/double-slits-with-single-atoms/) ([HN](https://news.ycombinator.com/item?id=22364787))
 - [Wave Function Collapse Explained (2020)](https://www.boristhebrave.com/2020/04/13/wave-function-collapse-explained/)
 - [Why should we suppose a single underlying principle that explains both quantum mechanics and gravity? (2020)](https://www.reddit.com/r/AskPhysics/comments/g314f4/why_should_we_suppose_a_single_underlying/)
-- [Quantum mechanics textbooks/resources (2020)](https://www.reddit.com/r/askscience/comments/fo4igl/are_quantum_fields_in_any_way_similar_to/fldftev?utm_source=share&utm_medium=web2x)
+- [Quantum mechanics textbooks/resources (2020)](https://www.reddit.com/r/askscience/comments/fo4igl/are_quantum_fields_in_any_way_similar_to/fldftev)

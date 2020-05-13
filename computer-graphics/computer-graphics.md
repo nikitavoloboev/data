@@ -4,7 +4,7 @@
 
 ## Notes
 
-- [To get started in 3d graphics all you really need to understand is how to multiply a bunch of 4x4 matrices together. From there it is a matter of learning how to put that to good effect.](https://www.reddit.com/r/haskell/comments/9sknxm/what_are_you_working_on/e8q82ug/?utm_content=permalink)
+- [To get started in 3d graphics all you really need to understand is how to multiply a bunch of 4x4 matrices together. From there it is a matter of learning how to put that to good effect.](https://www.reddit.com/r/haskell/comments/9sknxm/what_are_you_working_on/e8q82ug/)
 
 ## Links
 

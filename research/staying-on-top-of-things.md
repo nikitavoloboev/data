@@ -90,6 +90,7 @@ And these Discord servers:
 - [some.fyi](https://some.fyi/) - Experiment to get more useful news.
 - [Original contents on HN](http://hn.luap.info/) ([HN](https://news.ycombinator.com/item?id=23093990))
 - [Ness Labs](https://nesslabs.com/) - Provides content, coaching, courses and community to help makers put their minds at work.
+- [Rest of World](https://restofworld.org/) - International nonprofit journalism organization. We document what happens when technology, culture and the human experience collide.
 
 ## Notes
 
