@@ -83,3 +83,4 @@
 - [Full Text Search in Milliseconds with Rails and PostgreSQL](https://pganalyze.com/blog/full-text-search-ruby-rails-postgres)
 - [Using PostgreSQL for JSON Storage](https://info.crunchydata.com/blog/using-postgresql-for-json-storage) ([HN](https://news.ycombinator.com/item?id=23032889))
 - [PGSync](https://github.com/toluaina/pg-sync) - PostgreSQL to Elasticsearch sync.
+- [Improved (auto)vacuum in PostgreSQL 13 (2020)](https://amitkapila16.blogspot.com/2020/05/improved-autovacuum-in-postgresql-13.html) ([HN](https://news.ycombinator.com/item?id=23149920))

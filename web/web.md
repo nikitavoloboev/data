@@ -77,3 +77,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Wayback Machine Downloader](https://github.com/hartator/wayback-machine-downloader) - Download an entire website from the Internet Archive Wayback Machine.
 - [Second-guessing the modern web (2020)](https://macwright.org/2020/05/10/spa-fatigue.html) ([HN](https://news.ycombinator.com/item?id=23136688))
 - [What the heck happened with .org? (2020)](https://blog.mozilla.org/blog/2020/05/11/what-the-heck-happened-with-org/) ([HN](https://news.ycombinator.com/item?id=23149732))
+- [HN: Thank you for helping us increase our bandwidth by Archive.org](https://news.ycombinator.com/item?id=23147752)

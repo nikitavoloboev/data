@@ -3,6 +3,7 @@
 ## Notes
 
 - `$_` holds the previous result in the console. So you can do `$_.something(..)` to access the returned object items.
+- [In DevTools hold shift while hovering over a request and it will highlight the initiator in green and dependencies in red](https://twitter.com/addyosmani/status/1260479896888975362)
 
 ## Links
 

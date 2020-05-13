@@ -60,3 +60,4 @@
 - [Combining event sourcing and stateful systems (2020)](https://stitcher.io/blog/combining-event-sourcing-and-stateful-systems)
 - [Solution Architecture links, articles, books, video lessons](https://github.com/unlight/solution-architecture#readme)
 - [Increment](https://increment.com/) - Print and digital magazine about how teams build and operate software systems at scale..
+- [Ask HN: I've been promoted to Architect. What do I need to learn/do to excel? (2020)](https://news.ycombinator.com/item?id=23152092)
