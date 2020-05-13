@@ -14,3 +14,4 @@
 - [How to Podcast](https://www.christopherbiscardi.com/how-to-podcast)
 - [Podcast gear tips (2020)](https://twitter.com/kureevalexey/status/1259759343655882758) ([Tweet 2](https://twitter.com/kureevalexey/status/1259875604771594247))
 - [Microphone recommendations](https://chan.dev/microphones)
+- [Lessons learned from recording ~500 podcast episodes (2020)](https://twitter.com/eriktorenberg/status/1255574856776597504)

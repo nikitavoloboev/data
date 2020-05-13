@@ -11,3 +11,4 @@
 - [My 11-inch iPad Pro Experiment (2020)](https://www.macstories.net/stories/my-11-inch-ipad-pro-experiment/)
 - [Using an iPad for Photography Workflows: A Complete Guide (2020)](https://thesweetsetup.com/using-ipad-photography-workflows/)
 - [A New Experience for Spotify for iPad (2020)](https://spotify.design/articles/2020-05-05/a-new-experience-for-spotify-for-ipad/)
+- [Best designed apps and websites for iPad (2020)](https://twitter.com/rauchg/status/1260324646223667200)
