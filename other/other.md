@@ -195,3 +195,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Uncrate](https://uncrate.com/) - Objects of desire.
 - [Adaptive multiphase flow through porous media](https://harishnarayanan.org/research/porous-flow/)
 - [Academic research of Harish Narayanan](https://harishnarayanan.org/research/)
+- [Horrifying PDF Experiments](https://github.com/osnr/horrifying-pdf-experiments)
