@@ -630,6 +630,7 @@
     - [Game engines](games/gamedev/game-engines/game-engines.md)
       - [Godot](games/gamedev/game-engines/godot.md)
       - [Unity](games/gamedev/game-engines/unity.md)
+      - [Unreal Engine](games/gamedev/game-engines/unreal-engine.md)
   - [Board games](games/board-games.md)
   - [Chess](games/chess.md)
   - [Sudoku](games/sudoku.md)
