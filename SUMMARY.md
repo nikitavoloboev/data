@@ -632,6 +632,7 @@
       - [Unity](games/gamedev/game-engines/unity.md)
   - [Board games](games/board-games.md)
   - [Chess](games/chess.md)
+  - [Sudoku](games/sudoku.md)
   - [Minecraft](games/minecraft.md)
 - [Streaming](streaming/streaming.md)
 - [Talks](talks/talks.md)

@@ -70,3 +70,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Mac Bare Metal](https://flow.swiss/mac-bare-metal) - Enterprise-class IaaS for macOS.
 - [React Native for macOS](https://github.com/microsoft/react-native-macos) - Build native macOS apps with React. ([HN](https://news.ycombinator.com/item?id=23160075))
 - [My Mac App Store Debate (2020)](https://inessential.com/2020/05/12/my_mac_app_store_debate)
+- [Kernel debugging macOS with SIP (2020)](https://www.offensive-security.com/offsec/kernel-debugging-macos-with-sip/)
