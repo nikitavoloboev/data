@@ -7,6 +7,7 @@
 ## Links
 
 - [Rust language book](https://doc.rust-lang.org/book/) ([Code](https://github.com/rust-lang/book))
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rust Language Reference](https://doc.rust-lang.org/nightly/reference/) ([Code](https://github.com/rust-lang/reference))
 - [Idiomatic rust](https://github.com/mre/idiomatic-rust)
 - [Rust patterns](https://github.com/rust-unofficial/patterns)
@@ -207,4 +208,4 @@
 - [Auto-currying Rust Functions (2020)](https://peppe.rs/posts/auto-currying_rust_functions/)
 - [HN: Re: Integrating "safe" languages into OpenBSD? (2017)](https://news.ycombinator.com/item?id=23059477)
 - [Using Rust to Power Python Importing With oxidized_importer (2020)](https://gregoryszorc.com/blog/2020/05/10/using-rust-to-power-python-importing-with-oxidized_importer/)
-- [Educational blog posts for Rust beginners](https://github.com/pretzelhammer/rust-blog)
+- [Learning Rust in 2020](https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2020.md) ([HN](https://news.ycombinator.com/item?id=23160975))
