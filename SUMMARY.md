@@ -536,6 +536,7 @@
   - [Landing pages](business/landing-pages.md)
   - [Products](business/products.md)
   - [Pricing](business/pricing.md)
+  - [Restaurants](business/restaurants.md)
 - [Relationships](relationships/relationships.md)
   - [Seduction](relationships/seduction.md)
   - [Sex](relationships/sex.md)

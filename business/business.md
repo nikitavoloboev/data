@@ -28,7 +28,6 @@ Learning to build [startups](startups/startups.md).
 - [Figma](https://www.figma.com/careers/)
 - Digital Ocean
 - TypeForm
-- [Rekki](https://rekki.com/en-us/)
 
 ## Links
 
