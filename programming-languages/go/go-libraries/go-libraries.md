@@ -401,6 +401,7 @@
 - [UniPDF](https://github.com/unidoc/unipdf) - Golang PDF library for creating and processing PDF files.
 - [OpenTelemetry-Go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK.
 - [barcode](https://github.com/boombuler/barcode) - Barcode creation lib for golang.
+- [gomarkdown/markdown](https://github.com/gomarkdown/markdown) - Markdown Parser and HTML Renderer for Go.
 
 ## Links
 

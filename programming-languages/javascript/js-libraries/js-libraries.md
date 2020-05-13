@@ -239,6 +239,7 @@
 - [Logux Server](https://github.com/logux/server) - Build own Logux server or make proxy between WebSocket and HTTP backend on any language.
 - [@expo/results](https://github.com/expo/results) - Efficient, standards-compliant library for representing results of successful or failed operations.
 - [Emojibase](https://github.com/milesj/emojibase) - Collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.
+- [serve-favicon](hdttps://github.com/expressjs/serve-favicon) - Node.js middleware for serving a favicon.
 
 ## Links
 
