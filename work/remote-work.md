@@ -25,7 +25,7 @@
 - [Breather](https://breather.com/) - Modern workspace, all to yourself - for hours, days or months.
 - [My experience as a remote worker (2019)](https://www.joshwcomeau.com/posts/remote-work/)
 - [The remote worker’s guide to self-care (2019)](https://blog.astropad.com/remote-worker-self-care/)
-- [Remote](https://remote.com/) - Remote jobs for anyone, anywhere.
+- [Remote](https://remote.com/) - Take care of global payroll, benefits, compliance and taxes, so you can focus on your people.
 - [Firstbase](https://www.firstbasehq.com/) - All-in-one provisioning for companies to set up their remote workers at home.
 - [Open Offices Inhibit Remote Work (2020)](https://blog.eldrid.ge/2020/02/18/open-offices-inhibiut-remote-work/) ([Lobsters](https://lobste.rs/s/lfwdz8/open_offices_inhibit_remote_work))
 - [Why fully distributed is by far the best way to run a software team (2020)](https://medium.com/red-planet-labs/why-fully-distributed-is-by-far-the-best-way-to-run-a-software-team-d99abfc0c700)

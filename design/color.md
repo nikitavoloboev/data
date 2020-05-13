@@ -28,3 +28,4 @@
 - [Themer](https://themer.dev/) - Takes a set of colors and generates themes for your development environment (editors, terminals, wallpapers, and more). ([Code](https://github.com/mjswensen/themer))
 - [Color Names](https://colornames.org/) - Collaborative effort to name every color in the RGB/web space. ([HN](https://news.ycombinator.com/item?id=22852646))
 - [Chromotome](https://kgolid.github.io/chromotome-site/) - Collection of color palettes saved for personal use. ([Code](https://github.com/kgolid/chromotome))
+- [Research links on color theory (2020)](https://twitter.com/mattdesl/status/1260341933551104000)
