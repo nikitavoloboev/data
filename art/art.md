@@ -96,6 +96,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [James White](https://signalnoise.com/) - Retro 80s.
 - [Cornelius Dämmrich](https://corneliusdammrich.com/) - Creates CG environments with a combination of various 3d softwares and tools.
 - [Sylvia Ritter](https://www.sylvia-ritter.com/)
+- [George Bletsis](http://www.monstertree.co.uk/)
 - [Mark Rothko](https://www.artsy.net/artist/mark-rothko)
 - [Sage Jenson](https://sagejenson.com) - Generative art.
 - [Wenyi Geng](http://www.wenyigeng.com/)

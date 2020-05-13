@@ -154,6 +154,7 @@
 - [Surprising Things About Working at Well-Known Tech Unicorns (2020)](https://blog.pragmaticengineer.com/surprising-things-about-working-at-tech-unicorns/)
 - [Starting a company in Norway (2020)](https://eon.codes/blog/2020/04/07/Starting-a-company-in-norway/)
 - [Markets Are 10X Bigger Than Ever (2019)](http://blog.eladgil.com/2019/05/markets-are-10x-bigger-than-ever.html)
+- [Patio11's Law: The software economy is bigger than you think (2020)](https://secondbreakfast.co/patio11-s-law) ([HN](https://news.ycombinator.com/item?id=23162651))
 
 ## Images
 
