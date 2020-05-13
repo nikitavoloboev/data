@@ -15,6 +15,7 @@ One advantage that this view of the world brings. The view that everything that 
 - [Whether you fight it or go with the flow, the same result will appear, the body will dissolve until all that is left is the consciousness.](https://www.reddit.com/r/researchchemicals/comments/7rq9f4/5meodmt_5_mg_trip_report_relax_nothing_is_under/)
   - You mistakenly call your consciousness your soul. But you are right, it was ripped from your body because you fail to realize that they are not the same. You are life having a human experience, not a human having a life experience. You felt it, you were not alive or dead, you just were.
 - It is one of the most remarkable things that in all of the biological sciences there is no clue as to the necessity of death. If you say we want to make perpetual motion, we have discovered enough laws as we studied physics to see that it is either absolutely impossible or else the laws are wrong. But there is nothing in biology yet found that indicates the inevitability of death. This suggests to me that it is not at all inevitable and that it is only a matter of time before the biologists discover what it is that is causing us the trouble and that this terrible universal disease or temporariness of the human’s body will be cured. - Richard Feynman
+- [The fact that it ceases to exist in deep sleep and under anesthesia is strong evidence that there is no afterlife for "you."](https://www.reddit.com/r/RationalPsychonaut/comments/ghhyd6/why_people_say_they_believe_a_dmt_breakthrough/)
 
 ## Links
 
