@@ -98,3 +98,4 @@
 - [NLP Datasets](https://datasets.quantumstat.com/)
 - [Word Embeddings (2017)](https://www.youtube.com/watch?v=5PL0TmQhItY)
 - [NLP from Scratch: Annotated Attention (2020)](https://teddykoker.com/2020/02/nlp-from-scratch-annotated-attention/)
+- [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - Allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch. ([Code](https://github.com/turtlesoupy/this-word-does-not-exist))

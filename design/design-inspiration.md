@@ -82,6 +82,7 @@ Here are few more things I liked, design wise.
 - [Paco Coursey](https://paco.im/)
 - [Adam Schwartz](https://adamschwartz.co/)
 - [Andrew Wang-Hoyer](https://andrew.wang-hoyer.com/)
+- [Thomas Dimson](https://www.thomasdimson.com/)
 - [Amelia Wattenberger](https://wattenberger.com/)
 - [Travis Jeffery](https://travisjeffery.com/)
 - [Julia Johnson](https://www.juliacodes.com/) ([Code](https://github.com/juliajcodes/JuliaCodesGatsby))
