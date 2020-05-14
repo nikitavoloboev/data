@@ -17,3 +17,4 @@
 - [Deno doing a SSR with React and zero other deps](https://github.com/brianleroux/arc-example-deno-ssr) ([Demo](https://run-ddl-staging.begin.app)) ([Twitter](https://twitter.com/brianleroux/status/1258604368464498688))
 - [servest](https://github.com/keroxp/servest) - Progressive http server for Deno.
 - [Few questions about Deno (2020)](https://www.reddit.com/r/Deno/comments/gfxzvk/a_few_questions_about_deno/)
+- [Deno 1.0 (2020)](https://deno.land/v1) ([HN](https://news.ycombinator.com/item?id=23172483)) ([Lobsters](https://lobste.rs/s/ukfvp3/deno_1_0))
