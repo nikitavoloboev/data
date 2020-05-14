@@ -11,3 +11,4 @@
 - [Unix System Programming with Standard ML](http://www.mlton.org/References.attachments/Shipman02.pdf) ([HN](https://news.ycombinator.com/item?id=22246334))
 - [smlpkg](https://github.com/melsman/smlpkg) - Generic package manager for Standard ML libraries and programs.
 - [Compiling Pattern Guards](https://github.com/JohnReppy/compiling-pattern-guards) - Prototype code that accompanies the paper "Compiling Successor ML Pattern Guards".
+- [The History of Standard ML (2020)](https://smlfamily.github.io/history/SML-history.pdf) ([Lobsters](https://lobste.rs/s/0clf32/history_standard_ml))
