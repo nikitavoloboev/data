@@ -60,3 +60,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Career advice for people with bad luck (2020)](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad) ([HN](https://news.ycombinator.com/item?id=22960225))
 - [enviro.work](https://enviro.work/) - Best place to find and fill jobs that benefit the environment.
 - [MLH Fellowship](https://fellowship.mlh.io/) - Internship alternative for software engineers.
+- [Getting a Gig: A Guide](https://github.com/cassidoo/getting-a-gig#readme)
