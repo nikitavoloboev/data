@@ -238,8 +238,7 @@ Below is a list of extensions I use.
 
 ## Deno
 
-- [Deno](https://marketplace.visualstudio.com/items?itemName=axetroy.vscode-deno) - Deno support for VSCode. ([Code](https://github.com/axetroy/vscode-deno))
-- [Deno 2](https://marketplace.visualstudio.com/items?itemName=ameerthehacker.deno-vscode) - Enhance development experience for Deno.
+- [Deno](https://github.com/denoland/vscode_deno) - Adds Deno support for VS Code using the TypeScript Deno language service plugin.
 
 ## Bash
 

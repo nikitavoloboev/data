@@ -13,3 +13,4 @@
 - [The Decline of Usability](https://datagubbe.se/decusab/) ([Lobsters](https://lobste.rs/s/6f7glj/decline_usability)) ([HN](https://news.ycombinator.com/item?id=22901541))
 - [Hamburger Menus and Hidden Navigation Hurt UX Metrics (2016)](https://www.nngroup.com/articles/hamburger-menus/) ([Tweet](https://twitter.com/frankrausch/status/1260138877047787537))
 - [Learn UX Writing](https://learnuxwriting.xyz/) - Curated list of best resources for learning the principles of writing great copy for product interfaces.
+- [Cognitive Biases & Principles That Affect Your UX (2020)](https://growth.design/psychology/)
