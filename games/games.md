@@ -46,6 +46,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Games where you write code: part I](https://habrahabr.ru/company/mailru/blog/328806/)
   - [Part II](https://habrahabr.ru/company/mailru/blog/349546/)
 - [Game recs (2020)](https://twitter.com/Shpigford/status/1245737201402621953)
+- [What were the five most important video games to you throughout your youth/teen years? (2020)](https://twitter.com/jakeregal/status/1260449257821216768)
 
 ## Links
 

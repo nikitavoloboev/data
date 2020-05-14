@@ -53,6 +53,10 @@ Here are few more things I liked, design wise.
 - [Nolt](https://nolt.io/) - Lovely footer.
 - [Tonic](https://canopy.cr/tonic)
 
+## Events
+
+- [ZuriHac](https://zfoh.ch/zurihac2020/)
+
 ## Personal pages
 
 - [Brandur](https://brandur.org) - Amazingly clean website with an even more [awesome blog](https://brandur.org/interfaces#themware). The TOC and the persistent options on the left are incredible. ([Code](https://github.com/brandur/sorg))

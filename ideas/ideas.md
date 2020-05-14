@@ -48,3 +48,4 @@ I try to give my full attention to any ideas I am working on.
 - [Frameworks for coming up with startup ideas (2020)](https://twitter.com/eriktorenberg/status/1243820695047421953)
 - [Ideas from Josh Wolfe (2020)](https://www.xsrus.com/writing/posts/josh-wolfe/)
 - [Ask HN: Name one idea that changed your life (2020)](https://news.ycombinator.com/item?id=23092657)
+- [Ask HN: What's your quarantine side project? (2020)](https://news.ycombinator.com/item?id=23170881)
