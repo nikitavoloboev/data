@@ -11,4 +11,4 @@
 - [bazel-linting-system](https://github.com/thundergolfer/bazel-linting-system) - Experimental system for registering, configuring, and invoking source-code linters in Bazel.
 - [Articles on Bazel by Jay Conrod](https://www.jayconrod.com/tags/bazel)
 - [Bazelisk](https://github.com/bazelbuild/bazelisk) - User-friendly launcher for Bazel.
-- [Building Uber’s Go Monorepo with Bazel (2020)](https://eng.uber.com/go-monorepo-bazel/)
+- [Building Uber’s Go Monorepo with Bazel (2020)](https://eng.uber.com/go-monorepo-bazel/) ([HN](https://news.ycombinator.com/item?id=23180255))

@@ -51,3 +51,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool.
 - [Ethereum APIs](https://github.com/prysmaticlabs/ethereumapis)
 - [Ethereum Name Service](https://ens.domains/) - Offers a secure & decentralised way to address resources both on and off the blockchain using simple, human-readable names.
+- [HN: Reddit rolls out community currencies on Ethereum (2020)](https://news.ycombinator.com/item?id=23178277)
