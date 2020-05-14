@@ -1,6 +1,7 @@
 ---
 name: Question 🤔
 about: Usage question or discussion
+labels: question
 ---
 
 ### Question 🤔
