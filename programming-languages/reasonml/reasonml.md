@@ -51,3 +51,4 @@
 - [Constrainable Variants (2019)](https://sketch.sh/s/Dp92enDNQu78XV51Lekohn/)
 - [reasonml.org](https://reasonml.org/) - Better Documentation Platform for Reason. ([Code](https://github.com/reason-association/reasonml.org))
 - [How to Render Data from a GraphQL API in ReasonReact (2020)](https://joeprevite.com/render-data-graphql-api-reasonreact)
+- [HN: Reason React 0.8 (2020)](https://news.ycombinator.com/item?id=23168483)

@@ -303,6 +303,7 @@
 - [Doggie](https://github.com/SusanDoggie/Doggie) - Foundational library for Apple's swift. It includes mathematics, accelerate, signal processing and graphic functions.
 - [SwiftJS](https://github.com/SusanDoggie/SwiftJS) - Cross platform Javascript engine for Swift.
 - [SwiftIO](https://github.com/sharplet/SwiftIO) - Simple Tools for File I/O in Swift.
+- [swift-benchmark](https://github.com/google/swift-benchmark) - Swift library to benchmark code snippets.
 
 ## Other (not lib)
 

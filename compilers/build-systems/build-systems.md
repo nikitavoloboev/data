@@ -19,4 +19,4 @@
 - [mbt](https://github.com/mbtproject/mbt) - Most flexible build orchestration tool for monorepo.
 - [Earthly](https://github.com/earthly/earthly) - Run all your builds containerized.
 - [Synchronicity](https://github.com/iqlusioninc/synchronicity) - Distributed build system providing cryptographic proofs-of-reproducibility via Byzantine Fault Tolerant (BFT) consensus.
-- [The Success and Failure of Ninja (2020)](http://neugierig.org/software/blog/2020/05/ninja.html)
+- [The Success and Failure of Ninja (2020)](http://neugierig.org/software/blog/2020/05/ninja.html) ([HN](https://news.ycombinator.com/item?id=23157783))

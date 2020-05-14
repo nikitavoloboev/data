@@ -21,3 +21,4 @@
 - [React Google Login](https://github.com/anthonyjgrove/react-google-login) - Google oAUth Sign-in / Log-in Component for React.
 - [OAuth2 for Go](https://github.com/golang/oauth2)
 - [OAuth 2.0 Security Best Current Practice (2020)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-15) ([HN](https://news.ycombinator.com/item?id=23080240))
+- [Just-for-me Authentication (2020)](https://brianlovin.com/overthought/just-for-me-authentication)

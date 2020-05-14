@@ -21,3 +21,4 @@
 - [Next 700 Module Systems](https://github.com/alhassy/next-700-module-systems) - Extending Dependently-Typed Languages to Implement Module System Features In The Core Language.
 - [A Dependently Typed Multi-Stage Calculus (2019)](https://arxiv.org/pdf/1908.02035.pdf)
 - [Dependent Type Systems as Macros (2019)](https://www.williamjbowman.com/resources/wjb2019-depmacros.pdf)
+- [In Further Praise of Dependent Types (2020)](https://golem.ph.utexas.edu/category/2020/05/in_further_praise_of_dependent.html) ([HN](https://news.ycombinator.com/item?id=23139972))
