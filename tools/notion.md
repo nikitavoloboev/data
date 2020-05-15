@@ -18,3 +18,4 @@
 - [Fruition](https://fruitionsite.com/Fruition-Free-Open-Source-Toolkit-for-Building-Websites-with-Notion-771ef38657244c27b9389734a9cbff44) - Free, Open Source Toolkit for Building Websites with Notion.
 - [Alberto Arenaza: Personal site built on Notion](https://albertoarenaza.com/)
 - [Notion for Web Development Teams](https://css-tricks.com/video-screencasts/186-notion-for-web-development-teams/) ([Twitter](https://twitter.com/chriscoyier/status/1260991618716274689))
+- [How Notion Uses Notion](https://www.notion.so/How-Notion-Uses-Notion-616f41d2f5124f3185cf1c36d267c07e)
