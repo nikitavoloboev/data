@@ -31,3 +31,4 @@
 - [Bill Hicks - Sane Man (1989)](https://www.youtube.com/watch?v=kH_tUpcCbrg)
 - [Peak comedy](https://twitter.com/hdebeaufort/status/1257316175773437953) ([2](https://twitter.com/Stingrayling/status/1257612102988034049)) ([3](https://twitter.com/mitchambrown/status/1257621384513097729))
 - [Why we at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY (2020)](https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/) ([HN](https://news.ycombinator.com/item?id=23144380))
+- [Quarantine Scrum Meetings as a software engineer](https://www.youtube.com/watch?v=V93umbuL4y0)

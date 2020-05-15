@@ -35,3 +35,5 @@
 - [PushPin: Towards Production-Quality Peer-to-Peer Collaboration (2020)](https://martin.kleppmann.com/papers/pushpin-papoc20.pdf) ([Code](https://github.com/ept/pushpin-papoc))
 - [OrbitDB](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web.
 - [orbit-db-eventstore](https://github.com/orbitdb/orbit-db-eventstore) - Append-only log with traversable history. Useful for "latest N" use cases or as a message queue.
+- [Announcing the Beaker 1.0 Beta (2020)](https://beakerbrowser.com/2020/05/14/beaker-1-0-beta.html) ([HN](https://news.ycombinator.com/item?id=23182775))
+- [Hyperdrive v10 – a peer-to-peer filesystem (2020)](https://blog.hypercore-protocol.org/posts/announcing-hyperdrive-10/) ([HN](https://news.ycombinator.com/item?id=23180572))

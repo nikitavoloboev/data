@@ -252,3 +252,4 @@ Go promotes composition over inheritance.
 - [Writing Useful go/analysis Linter (2019)](https://disaev.me/p/writing-useful-go-analysis-linter/)
 - [How to check whether a struct implements an interface in GoLang](https://www.pixelstech.net/article/1588481241-How-to-check-whether-a-struct-implements-an-interface-in-GoLang) ([Lobsters](https://lobste.rs/s/fhpv3s/how_check_whether_struct_implements))
 - [How the Go runtime implements maps efficiently (without generics) (2018)](https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics)
+- [Write your own Go static analysis tool (2020)](https://about.houqp.me/posts/write-your-own-go-static-analysis-tool/) ([Lobsters](https://lobste.rs/s/dslgsa/write_your_own_go_static_analysis_tool))

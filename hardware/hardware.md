@@ -42,3 +42,4 @@
 - [Hacking Together an E-ink Dashboard (2020)](https://healeycodes.com/hacking-together-an-e-ink-dashboard/) ([Lobsters](https://lobste.rs/s/gmyqqk/hacking_together_e_ink_dashboard))
 - [Shoumik's PhD Defense "Interfaces for Efficient Software Composition on Modern Hardware" (2020)](https://www.youtube.com/watch?v=qze_aB4dPDw)
 - [Bare Metal in a Cloud Native World (2020)](https://thenewstack.io/bare-metal-in-a-cloud-native-world/)
+- [My New Old Apple IIe Computer (2020)](https://www.charlieharrington.com/my-new-old-apple-iie-computer) ([HN](https://news.ycombinator.com/item?id=23167350))

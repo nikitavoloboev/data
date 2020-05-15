@@ -61,3 +61,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [enviro.work](https://enviro.work/) - Best place to find and fill jobs that benefit the environment.
 - [MLH Fellowship](https://fellowship.mlh.io/) - Internship alternative for software engineers.
 - [Getting a Gig: A Guide](https://github.com/cassidoo/getting-a-gig#readme)
+- [How to prepare for losing your programming job (2020)](https://codewithoutrules.com/2020/05/14/prepare-losing-job/) ([HN](https://news.ycombinator.com/item?id=23180214))

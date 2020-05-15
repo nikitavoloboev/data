@@ -72,3 +72,4 @@
 - [Fast or Slow](https://www.fastorslow.com/) - Global speed profiler. ([HN](https://news.ycombinator.com/item?id=23119701))
 - [Benchmark.js](https://github.com/bestiejs/benchmark.js) - Robust benchmarking library that supports high-resolution timers & returns statistically significant results.
 - [Perfume.js](https://github.com/Zizzamia/perfume.js) - Web performance library for measuring all User-centric performance metrics.
+- [How Khan Academy Successfully Handled 2.5x Traffic in a Week (2020)](http://engineering.khanacademy.org/posts/handling-2x-traffic-in-a-week.htm) ([HN](https://news.ycombinator.com/item?id=23168998))

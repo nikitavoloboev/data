@@ -318,3 +318,4 @@
 - [swift-outdated](https://github.com/kiliankoe/swift-outdated) - Swift subcommand for displaying when Swift dependencies are out of date.
 - [DocTest](https://github.com/SwiftDocOrg/DocTest) - Experimental tool for testing Swift example code in documentation.
 - [swift-docker](https://github.com/iainsmith/swift-docker) - Build & test your swift packages using docker - `swift docker test`.
+- [My experience replacing CocoaPods with SwiftPM (2020)](https://www.jessesquires.com/blog/2020/02/24/replacing-cocoapods-with-swiftpm/)
