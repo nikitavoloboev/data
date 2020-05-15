@@ -188,7 +188,6 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Nils Frahm | Soirée de Poche #25](https://www.youtube.com/watch?v=sfKpg8Jb4jo)
 - [MEZERG - WELCOME THEREMIN](https://www.youtube.com/watch?v=l-rlFaSBLg8)
 - [Friday night music straight to your living room from Sam Aaron](https://www.youtube.com/watch?v=30jgHE--U0o&)
-- [Sting And Shaggy: NPR Music Tiny Desk Concert](https://www.youtube.com/watch?v=bdneye4pzMw)
 
 ## Mixes
 

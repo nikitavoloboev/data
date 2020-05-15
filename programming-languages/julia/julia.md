@@ -23,3 +23,5 @@
 - [Julia website code](https://github.com/JuliaLang/www.julialang.org)
 - [Julia Virtual Meetup (2020)](https://www.youtube.com/watch?v=ZUrozPzNOtI)
 - [Pluto.jl](https://github.com/fonsp/Pluto.jl) - Lightweight reactive notebooks for Julia.
+- [MIT: Computational thinking with Julia + application to the COVID-19 pandemic (2020)](https://github.com/mitmath/6S083)
+- [Set of IPython (Jupyter) notebooks to introduce the Julia programming language](https://github.com/daanhb/Julia-tutorial)
