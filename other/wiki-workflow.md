@@ -139,3 +139,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Thread on digital gardens, personal wikis, and experimental knowledge systems (2020)](https://twitter.com/Mappletons/status/1250532315459194880)
 - [Dogsheep](https://dogsheep.github.io/) - Collection of tools for personal analytics using SQLite and Datasette.
 - [Lobsters: How do you take notes and organize your knowledge? (2020)](https://lobste.rs/s/7catij/how_do_you_take_notes_organize_your)
+- [A Short History of Bi-Directional Links (2020)](https://maggieappleton.com/bidirectionals)
