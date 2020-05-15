@@ -71,3 +71,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [The best totally free web fonts & typefaces (2020)](https://vanschneider.com/the-best-totally-free-web-fonts-typefaces)
 - [Samsa](https://lorp.github.io/samsa/src/samsa-gui.html) - Variable font inspector. ([Code](https://github.com/Lorp/samsa))
 - [Axis-Praxis](https://www.axis-praxis.org/specimens/__DEFAULT__) - Website for playing with OpenType Variable Fonts
+- [TinySDF](https://mapbox.github.io/tiny-sdf/) - Browser-side SDF font generator. ([Code](https://github.com/mapbox/tiny-sdf))

@@ -16,3 +16,5 @@
 - [webgl-plot](https://github.com/danchitnis/webgl-plot) - High-performance 2D graphs using native WebGL.
 - [surfman](https://github.com/servo/surfman) - Low-level, cross-platform Rust library for managing surfaces, blocks of image data in GPU memory.
 - [WebGL Fundamentals](https://webglfundamentals.org/) ([Code](https://github.com/gfxfundamentals/webgl-fundamentals))
+- [Ray Marching and Signed Distance Functions (2016)](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
+- [Webgl Programming Guide: Interactive 3D Graphics Programming with Webgl (2013)](https://www.goodreads.com/book/show/16269927-webgl-programming-guide)
