@@ -55,3 +55,4 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Simple app to make any keyboard bluetooth enabled](https://github.com/dfrankland/bleboard)
 - [KeyToKey](https://github.com/TyberiusPrime/KeyToKey) - Rust keyboard firmware library.
 - [Mech Guide](https://rumech.guide/#/) - Проводник в мир механических клавиатур. ([Code](https://github.com/Flumeded/ru_mech))
+- [An unusual keyboard key switch](https://twitter.com/TubeTimeUS/status/1260688848104771586) ([HN](https://news.ycombinator.com/item?id=23178149))
