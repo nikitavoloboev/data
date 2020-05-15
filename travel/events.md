@@ -17,3 +17,4 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 - [Как правильно приглашать на встречи (2019)](http://sergeykorol.ru/blog/meeting-call/)
 - [zmurl](https://zmurl.com/) - Organize delightful Zoom events.
 - [Is going to conferences useless for learning? How do you learn? (2020)](https://lobste.rs/s/pznfdh/is_going_conferences_useless_for)
+- [Tito](https://ti.to/home) - Faster, more flexible platform for selling tickets online.

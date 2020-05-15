@@ -100,3 +100,4 @@
 - [NLP from Scratch: Annotated Attention (2020)](https://teddykoker.com/2020/02/nlp-from-scratch-annotated-attention/)
 - [This Word Does Not Exist](https://www.thisworddoesnotexist.com/) - Allows people to train a variant of GPT-2 that makes up words, definitions and examples from scratch. ([Code](https://github.com/turtlesoupy/this-word-does-not-exist)) ([HN](https://news.ycombinator.com/item?id=23169962))
 - [Ultimate guide to choosing an online course covering practical NLP (2020)](https://www.reddit.com/r/MachineLearning/comments/ghrjfs/d_ultimate_guide_to_choosing_an_online_course/)
+- [HuggingFace `nlp` library - Quick overview (2020)](https://colab.research.google.com/github/huggingface/nlp/blob/master/notebooks/Overview.ipynb) ([Twitter](https://twitter.com/Thom_Wolf/status/1261264437220081667))
