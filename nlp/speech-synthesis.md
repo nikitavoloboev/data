@@ -9,3 +9,4 @@
 - [nv-wavenet](https://github.com/NVIDIA/nv-wavenet) - CUDA reference implementation of autoregressive WaveNet inference.
 - [PyTorch implementation of Tacotron speech synthesis model](https://github.com/r9y9/tacotron_pytorch)
 - [Yet another WaveNet implementation in PyTorch](https://github.com/golbin/WaveNet)
+- [Flowtron](https://github.com/NVIDIA/flowtron) - Auto-regressive flow-based generative network for text to speech synthesis.

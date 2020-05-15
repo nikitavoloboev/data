@@ -75,6 +75,7 @@
 - [Breaking down "A monad is just a monoid in the category of endofunctors"](https://www.christianfscott.com/wtf-is-a-monad/)
 - [Chalmers Online Functional Programming Seminar Series](http://chalmersfp.org/)
 - [Ask HN: How to be fluent in functional language speak? (2020)](https://news.ycombinator.com/item?id=23078173)
+- [A Quick Look at Impredicativity (Simon Peyton Jones) (2020)](https://www.youtube.com/watch?v=ZuNMo136QqI)
 
 ## Images
 
