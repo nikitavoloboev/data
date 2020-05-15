@@ -15,7 +15,7 @@
 - [Writing to the framebuffer (2018)](http://seenaburns.com/2018/04/04/writing-to-the-framebuffer/)
 - [Spectrum](https://github.com/facebookincubator/spectrum) - Client-side image transcoding library.
 - [Computer Graphics Topics](https://github.com/melling/ComputerGraphics#readme)
-- [Tiny Renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer) - Brief computer graphics / rendering course.
+- [Tiny Renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer) - Brief computer graphics / rendering course. ([In Rust](https://github.com/Mierdin/rustyrender))
 - [Looperepool](https://github.com/spite/looper) - Tool to create looperinos.
 - [KABOOM! in 180 lines of bare C++](https://github.com/ssloy/tinykaboom) - Brief computer graphics / rendering course.
 - [imutils](https://github.com/jrosebr1/imutils) - Series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python.

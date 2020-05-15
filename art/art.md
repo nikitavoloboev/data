@@ -158,6 +158,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Enchanting Paintings Capture the Twinkling Rooftops of Paris at Twilight](https://mymodernmet.com/evgeny-lushpin-paris-paintings/)
 - [British Museum makes 1.9M images available for free](https://www.ianvisits.co.uk/blog/2020/04/28/british-museum-makes-1-9-million-images-available-for-free/) ([HN](https://news.ycombinator.com/item?id=23010435))
 - [SHUTDOWN Gallery](https://www.shutdown.gallery/)
+- [Manly Palmer Hall collection of alchemical manuscripts, 1500-1825](https://archive.org/details/manlypalmerhabox17hall/page/n13/mode/2up)
 
 ## Photography
 

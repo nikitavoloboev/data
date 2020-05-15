@@ -81,3 +81,4 @@
 - [Fiber Tasking Lib](https://github.com/RichieSams/FiberTaskingLib) - Library for enabling task-based multi-threading. It allows execution of task graphs with arbitrary dependencies.
 - [ozz-animation](https://github.com/guillaumeblanc/ozz-animation) - Open source c++ skeletal animation library and toolset.
 - [sqlpp11](https://github.com/rbock/sqlpp11) - Type safe embedded domain specific language for SQL queries and results in C++.
+- [Tiny Differentiable Simulator](https://github.com/google-research/tiny-differentiable-simulator) - Header-only C++ physics library with zero dependencies.

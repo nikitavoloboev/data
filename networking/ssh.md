@@ -25,3 +25,4 @@
 - [DIY Single Sign-On for SSH (2020)](https://smallstep.com/blog/diy-single-sign-on-for-ssh/) ([Lobsters](https://lobste.rs/s/jrynqk/diy_single_sign_on_for_ssh))
 - [ssh-p2p](https://github.com/nobonobo/ssh-p2p) - SSH p2p tunneling server and client.
 - [SSH Tips & Tricks (2020)](https://smallstep.com/blog/ssh-tricks-and-tips/) ([HN](https://news.ycombinator.com/item?id=23025756))
+- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
