@@ -32,7 +32,6 @@
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - Python module for machine learning built on top of SciPy. ([Tutorials](https://scikit-learn.org/stable/tutorial/index.html))
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - Powerful Automated Machine Learning python library.
 - [Mlxtend (machine learning extensions)](https://github.com/rasbt/mlxtend) - Python library of useful tools for the day-to-day data science tasks.
-- [Spektral](https://github.com/danielegrattarola/spektral) - Graph Neural Networks with Keras and Tensorflow.
 - [CrypTen](https://github.com/facebookresearch/CrypTen) - Framework for Privacy Preserving Machine Learning built on PyTorch.
 - [Faiss](https://github.com/facebookresearch/faiss) - Library for efficient similarity search and clustering of dense vectors.
 - [pyHSICLasso](https://github.com/riken-aip/pyHSICLasso) - Versatile Nonlinear Feature Selection Algorithm for High-dimensional Data.

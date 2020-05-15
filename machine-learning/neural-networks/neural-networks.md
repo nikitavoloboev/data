@@ -52,7 +52,6 @@
 - [LSTM implementation explained (2015)](http://apaszke.github.io/lstm-explained.html)
 - [The Neural Process Family](https://github.com/deepmind/neural-processes) - Contains notebook implementations of the following Neural Process variants: Conditional Neural Processes (CNPs), Neural Processes (NPs), Attentive Neural Processes (ANPs).
 - [Notes on Neural Nets](https://wiki.kourouklides.com/wiki/Artificial_Neural_Network)
-- [Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels (2019)](https://github.com/KangchengHou/gntk)
 - [RNNoise](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction.
 - [Hacking Neural Networks](https://github.com/Kayzaks/HackingNeuralNetworks) - Short introduction on methods that use neural networks in an offensive manner.
 - [Distilling knowledge from Neural Networks to build smaller and faster models (2019)](https://blog.floydhub.com/knowledge-distillation/)
@@ -81,12 +80,10 @@
 - [Two strange useless things to do with neural nets: a demonstration](https://github.com/howonlee/twostrangethings)
 - [Understanding the Neural Tangent Kernel (2019)](https://rajatvd.github.io/NTK/)
 - [Cutting out the Middle-Man: Training and Evaluating Energy-Based Models without Sampling](https://arxiv.org/abs/2002.05616) ([Tweet](https://twitter.com/wgrathwohl/status/1228144635010322440))
-- [Strategies for Pre-training Graph Neural Networks](https://github.com/snap-stanford/pretrain-gnns)
 - [Haiku](https://github.com/deepmind/haiku) - JAX-based neural network library.
 - [Convolution in one dimension for neural networks (2020)](https://e2eml.school/convolution_one_d.html)
 - [Lucid](https://github.com/tensorflow/lucid) - Collection of infrastructure and tools for research in neural network interpretability.
 - [Minkowski Engine](https://github.com/StanfordVL/MinkowskiEngine) - Auto-diff convolutional neural network library for high-dimensional sparse tensors.
-- [Transformers are Graph Neural Networks (2020)](https://graphdeeplearning.github.io/post/transformers-are-gnns/) ([HN](https://news.ycombinator.com/item?id=22518263))
 - [Generating MIDI melody from lyrics using LSTM-GANs](https://github.com/yy1lab/Lyrics-Conditioned-Neural-Melody-Generation) ([HN](https://news.ycombinator.com/item?id=22524176))
 - [Zoom In: An Introduction to Circuits (2020)](https://distill.pub/2020/circuits/zoom-in/)
 - [Lagrangian Neural Networks (2020)](https://greydanus.github.io/2020/03/10/lagrangian-nns/) ([HN](https://news.ycombinator.com/item?id=22552790))
@@ -100,7 +97,6 @@
 - [PyTorch Neural Turing Machine](https://github.com/loudinthecloud/pytorch-ntm)
 - [PyTorch Neural Turing Machine 2](https://github.com/vlgiitr/ntm-pytorch)
 - [Learning DAGs with Continuous Optimization (2020)](https://blog.ml.cmu.edu/2020/04/10/learning-dags-with-continuous-optimization/)
-- [Towards understanding glasses with graph neural networks (2020)](https://deepmind.com/blog/article/Towards-understanding-glasses-with-graph-neural-networks)
 - [Early Vision (2020)](https://distill.pub/2020/circuits/early-vision/) - Guided tour of the first five layers of InceptionV1, taxonomized into “neuron groups.”.
 - [micrograd](https://github.com/karpathy/micrograd) - Tiny autograd engine and a neural net library on top of it, potentially for educational purposes.
 - [Learning from Small Neural Networks (2020)](https://medium.com/make-computer-science-fun-again/learning-from-small-neural-networks-6bc5ffc2f3d3)
@@ -111,6 +107,5 @@
 - [Shortcut Learning in Deep Neural Networks (2020)](https://github.com/rgeirhos/shortcut-perspective)
 - [Discourse-Aware Attention Model for Abstractive Summarization of Long Documents](https://github.com/armancohan/long-summarization)
 - [Perovskite neural trees (2020)](https://www.nature.com/articles/s41467-020-16105-y) ([HN](https://news.ycombinator.com/item?id=23107722))
-- [How Powerful are Graph Neural Networks?](https://github.com/weihua916/powerful-gnns)
 - [RigNet: Neural Rigging for Articulated Characters (2020)](https://zhan-xu.github.io/rig-net/) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/ggakn3/r_rignet_neural_rigging_for_articulated_characters/))
 - [Convolutional neural networks for artistic style transfer (2017)](https://harishnarayanan.org/writing/artistic-style-transfer/)

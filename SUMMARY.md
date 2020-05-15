@@ -550,6 +550,7 @@
 - [Machine learning](machine-learning/machine-learning.md)
   - [Neural networks](machine-learning/neural-networks/neural-networks.md)
     - [Generative adversarial networks](machine-learning/neural-networks/generative-adversarial-networks.md)
+    - [Graph Neural Networks](machine-learning/neural-networks/graph-neural-networks.md)
   - [Unsupervised learning](machine-learning/unsupervised-learning.md)
   - [Reinforcement learning](machine-learning/reinforcement-learning.md)
   - [ML Libraries](machine-learning/libraries/ml-libraries.md)

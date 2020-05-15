@@ -29,7 +29,6 @@
 - [IREE](https://github.com/google/iree) - Experimental MLIR Execution Environment.
 - [For Your Ears Only: Personalizing Spotify Home with Machine Learning (2020)](https://labs.spotify.com/2020/01/16/for-your-ears-only-personalizing-spotify-home-with-machine-learning/?linkId=81072583)
 - [TensorFlow workshops](https://github.com/tensorflow/workshops) - Few exercises for use at events.
-- [Graph Neural Networks in TF2](https://github.com/microsoft/tf2-gnn)
 - [TensorFlow Examples](https://github.com/tensorflow/examples)
 - [A Primer on TensorFlow 2.0 (2019)](https://www.debugmind.com/2019/04/07/a-primer-on-tensorflow-2-0/)
 - [Convert TensorFlow models to ONNX](https://github.com/onnx/tensorflow-onnx)

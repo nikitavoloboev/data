@@ -33,3 +33,4 @@
 - [Akassh Systems](https://akashsystems.com/) - Focused on developing and supplying the next generation of extreme bandwidth, hyper-efficient communications gear for space satellites.
 - [Astroquery](https://github.com/astropy/astroquery) - Contains a collection of tools to access online Astronomical data.
 - [Space Science with Python (2020)](https://medium.com/@thomas.albin/space-science-with-python-setup-and-first-steps-1-8551334118f6)
+- [ELI5: What is space made out of? What is the blackness in space? (2020)](https://www.reddit.com/r/explainlikeimfive/comments/gk9859/eli5_what_is_space_made_out_of_what_is_the/)
