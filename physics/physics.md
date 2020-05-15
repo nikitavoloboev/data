@@ -80,3 +80,4 @@
 - [Finding new physics will require a new particle collider (2020)](https://www.economist.com/science-and-technology/2020/01/02/finding-new-physics-will-require-a-new-particle-collider) ([HN](https://news.ycombinator.com/item?id=23131526))
 - [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html) ([HN](https://news.ycombinator.com/item?id=23153778)) ([Code](https://github.com/hnarayanan/sicm))
 - [Evidence for Anyons, a Third Kingdom of Particles (2020)](https://www.quantamagazine.org/milestone-evidence-for-anyons-a-third-kingdom-of-particles-20200512/) ([HN](https://news.ycombinator.com/item?id=23161959))
+- [DIY Particle Detector](https://github.com/ozel/DIY_particle_detector) - Mobile low-cost spectrometer for measuring radioactivity and the energy of ionising radiation like alpha particles and electrons.

@@ -32,7 +32,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 
 ## Similar wikis I liked
 
-- [Devine Lu Linvega](https://wiki.xxiivv.com) ([Code](https://github.com/XXIIVV/Oscean))
+- [Devine Lu Linvega](https://wiki.xxiivv.com) ([Code](https://github.com/XXIIVV/Oscean)) ([Index](https://wiki.xxiivv.com/site/index.html))
 - [100 Rabbits](https://100r.co/site/home.html)
 - [Gwern](https://www.gwern.net/About) - Can also suffix URLs with `.page` to get the source code. ([Code](https://github.com/gjord/gwern.net))
 - [Paul Copplestone](https://paul.copplest.one/knowledge/) ([Code](https://github.com/kiwicopple/paul.copplest.one))
