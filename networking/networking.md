@@ -108,3 +108,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Basic LDAP functionality for Go](https://github.com/go-ldap/ldap)
 - [Don't trust default timeouts (2020)](https://robertovitillo.com/default-timeouts/) ([Lobsters](https://lobste.rs/s/t7jqqx/don_t_trust_default_timeouts))
 - [What every developer should know about TCP (2020)](https://robertovitillo.com/what-every-developer-should-know-about-tcp/) ([HN](https://news.ycombinator.com/item?id=23177607))
+- [Fastly Varnish](https://www.integralist.co.uk/posts/fastly-varnish/) - Explaining how the Fastly CDN works.
