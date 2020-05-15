@@ -14,3 +14,4 @@
 - [Astronomers Capture First Image of a Black Hole (2019)](https://www.reddit.com/r/space/comments/bblt4f/astronomers_capture_first_image_of_a_black_hole/)
 - [THAT Black Hole picture ⚫ - Sixty Symbols (2019)](https://www.youtube.com/watch?v=rflupY5Aa-Q)
 - [Zooming into Sagittarius A\* black hole](https://www.youtube.com/watch?v=DRCD-zx5QFA) ([Twitter](https://twitter.com/anderssandberg/status/1258871125490184192))
+- [Why is light affected by black holes? (2020)](https://www.reddit.com/r/AskPhysics/comments/gjl29o/why_is_light_affected_by_black_holes/)

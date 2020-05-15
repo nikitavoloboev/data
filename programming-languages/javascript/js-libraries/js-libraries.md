@@ -44,7 +44,7 @@
 - [Hooksy](https://github.com/pie6k/hooksy) - State managment solution based on react hooks.
 - [React Easy State](https://github.com/RisingStack/react-easy-state) - Simple React state management. Made with ❤️ and ES6 Proxies.
 - [wana](https://github.com/alloc/wana) - Easy observable state for React.
-- [Recoil](https://github.com/facebookexperimental/Recoil) - Experimental set of utilities for state management with React. ([Web](https://recoiljs.org/)) ([Video](https://www.youtube.com/watch?v=fb3cOMFkEzs))
+- [Recoil](https://github.com/facebookexperimental/Recoil) - Experimental set of utilities for state management with React. ([Web](https://recoiljs.org/)) ([Video](https://www.youtube.com/watch?v=fb3cOMFkEzs)) ([Reddit](https://www.reddit.com/r/reactjs/comments/gjpbjc/facebook_has_open_sourced_an_experimental_state/))
 
 ## API bindings
 
