@@ -140,3 +140,4 @@
 - [Advanced Math resources](https://drive.google.com/drive/folders/1c7XYKsq80tTjWIvggoIlCoSdgj2sxtDg)
 - [Math & Programming blog main content](https://jeremykun.com/main-content/)
 - [Project MOSAIC](http://mosaic-web.org/) - Community of educators working to develop a new way to introduce mathematics, statistics, computation and modeling to students in colleges and universities.
+- [The Psychology of Advanced Mathematical Thinking](https://homepages.warwick.ac.uk/staff/David.Tall/pdfs/dot1991k-psychology-of-amt.pdf)

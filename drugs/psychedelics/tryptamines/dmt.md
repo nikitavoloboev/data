@@ -63,3 +63,4 @@
 - [Tryptamine to DMT synthesis](https://www.reddit.com/r/TheeHive/comments/fr7y09/tryptamine_to_dmt/)
 - [Brief History of 5-MeO DMT by Hamilton Morris (2019)](https://www.youtube.com/watch?v=Sw_q3ANRu38)
 - [Why people say they believe a DMT breakthrough could give insight to after-life? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/ghhyd6/why_people_say_they_believe_a_dmt_breakthrough/)
+- [Sting talks about his ayahuasca experience (2019)](https://www.youtube.com/watch?v=k3nUVM-v0qU)

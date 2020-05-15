@@ -101,6 +101,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Sage Jenson](https://sagejenson.com) - Generative art.
 - [Wenyi Geng](http://www.wenyigeng.com/)
 - [Stefan Morrell](https://www.artstation.com/stefan_morrell)
+- [Colin Prahl](http://www.colinprahl.com/)
 - [Cristian Eres](https://www.cristianeres.com/) - Sci-Fi artist & Illustrator.
 - [Roman Muradov](https://www.bluebed.net/)
 - [Gregory Crewdson](https://www.instagram.com/crewdsonstudio/)
