@@ -12,3 +12,4 @@ Before selling things I owned, I look at prices of same or similar items on the 
 - [Falsehoods programmers believe about prices](https://gist.github.com/rgs/6509585) ([Lobsters](https://lobste.rs/s/lo4bic/falsehoods_programmers_believe_about))
 - [Adapty](https://adapty.io/) - Grow in-app subscriptions.
 - [Adapty SDK iOS](https://github.com/adaptyteam/AdaptySDK-iOS) - Mobile SDK for growing mobile in-app purchases.
+- [SaaS Pricing Models & How They Affect Valuation (2020)](https://empireflippers.com/saas-pricing-models/) ([HN](https://news.ycombinator.com/item?id=23193397))

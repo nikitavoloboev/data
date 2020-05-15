@@ -157,3 +157,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Reveal](https://revealapp.com/) - Brings powerful runtime view debugging to iOS developers.
 - [Source Code Walkthrough of Telegram-iOS (2020)](https://medium.com/@BoHu/source-code-walkthrough-of-telegram-ios-part-1-adee673e2202) ([Part 2](https://medium.com/@BoHu/source-code-walkthrough-of-telegram-ios-part-2-ssignalkit-afdf35ff60ba))
 - [Tips on how to keep application performance good (2020)](https://www.reddit.com/r/iOSProgramming/comments/gjorxm/how_do_you_guys_keep_your_application_performance/)
+- [UI Testing iOS application with EarlGrey (2020)](https://www.onswiftwings.com/posts/ui-tests-earlgrey/)

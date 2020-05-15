@@ -79,6 +79,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Bookmarks, tweets, cheatsheets, one-liners](https://github.com/ccampean/almanacs#readme)
 - [Bayle Shanks](http://www.bayleshanks.com/)
 - [Azlen Elza](https://notes.azlen.me/g3tibyfv/)
+- [Brady Joslin's TIL](https://til.bradyjoslin.com/_introduction/)
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
 - [Nat Eliason notes](https://www.nateliason.com/notes)
 - [David Seah](https://davidseah.gitbook.io/davidseah/) ([Code](https://github.com/davidseah/knowledgebank))
