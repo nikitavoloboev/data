@@ -12,3 +12,4 @@
 - [Ruby Next](https://github.com/ruby-next/ruby-next) - Transpiler for Ruby. ([HN](https://news.ycombinator.com/item?id=23078609))
 - [Rutie](https://github.com/danielpclark/rutie) - Integrate Ruby with your Rust application. Or integrate Rust with your Ruby application.
 - [ruruby](https://github.com/sisshiki1969/ruruby) - Alternative Ruby implementation by Rust.
+- [How to Fix Slow Code in Ruby (2020)](https://engineering.shopify.com/blogs/engineering/how-fix-slow-code-ruby) ([HN](https://news.ycombinator.com/item?id=23182127))
