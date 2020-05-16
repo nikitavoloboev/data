@@ -41,3 +41,4 @@
 - [Read the Docs](https://readthedocs.com/) - Spend your time on writing high quality documentation, not on the tools to make your documentation work.
 - [cheatset](https://github.com/Kapeli/cheatset) - Generate cheat sheets for Dash.
 - [Doctocat](https://primer.style/doctocat/) - Gatsby theme for creating Primer documentation sites. ([Code](https://github.com/primer/doctocat))
+- [Docup](https://docup.now.sh/) - Single JavaScript file that fetches Markdown file and renders it as a beautiful one-page documentation. ([Code](https://github.com/egoist/docup))

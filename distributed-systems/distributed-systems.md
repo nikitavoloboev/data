@@ -84,3 +84,4 @@
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/index.html)
 - [Temporal](https://github.com/temporalio/temporal) - Fault-oblivious stateful programming model that obscures most of the complexities of building scalable distributed applications.
 - [Model checker for implementing distributed systems](https://github.com/stateright/stateright)
+- [Arvind Krishnamurthy's research](https://www.cs.washington.edu/people/faculty/arvind)
