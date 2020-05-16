@@ -241,6 +241,7 @@
 - [@expo/results](https://github.com/expo/results) - Efficient, standards-compliant library for representing results of successful or failed operations.
 - [Emojibase](https://github.com/milesj/emojibase) - Collection of lightweight, up-to-date, pre-generated, specification compliant, localized emoji JSON datasets, regex patterns, and more.
 - [serve-favicon](hdttps://github.com/expressjs/serve-favicon) - Node.js middleware for serving a favicon.
+- [download](https://github.com/kevva/download) - Download and extract files.
 
 ## Links
 
