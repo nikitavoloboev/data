@@ -92,6 +92,7 @@
 - [react-diagrams](https://github.com/projectstorm/react-diagrams) - Super simple, no-nonsense diagramming library written in react that just works.
 - [React Flow](https://github.com/wbkd/react-flow) - Library for Rendering Interactive Graphs. ([HN](https://news.ycombinator.com/item?id=23080346)) ([Article](https://webkid.io/blog/react-flow-node-based-graph-library/))
 - [react-polymorphic-box](https://github.com/kripod/react-polymorphic-box) - Building blocks for strongly typed polymorphic components in React.
+- [react-scroll-percentage](https://github.com/thebuilder/react-scroll-percentage) - Monitor the scroll percentage of a component inside the viewport, using the IntersectionObserver API.
 
 ## Links
 

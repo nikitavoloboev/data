@@ -8,6 +8,7 @@
 - [Maker](https://makerdao.com/en/) - Comprised of a decentralized stablecoin, collateral loans, and community governance.
 - [Libra](libra.md)
 - [MobileCoin](https://github.com/mobilecoinofficial/mobilecoin) - Private payments for mobile devices.
+- [zcoin](https://github.com/zcoinofficial/zcoin) - Privacy-focused cryptocurrency.
 
 ## Links
 

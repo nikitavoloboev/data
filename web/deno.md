@@ -19,3 +19,4 @@
 - [Few questions about Deno (2020)](https://www.reddit.com/r/Deno/comments/gfxzvk/a_few_questions_about_deno/)
 - [Deno 1.0 (2020)](https://deno.land/v1) ([HN](https://news.ycombinator.com/item?id=23172483)) ([Lobsters](https://lobste.rs/s/ukfvp3/deno_1_0))
 - [Deno Weekly](https://denoweekly.com/) - Weekly roundup of news, tutorials and projects from the land of Deno.
+- [DenoX](https://github.com/BentoumiTech/denox) - Script runner and workspace configuration for Deno.

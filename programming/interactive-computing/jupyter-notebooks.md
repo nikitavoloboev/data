@@ -13,6 +13,7 @@
 - [gmaps](https://github.com/pbugnion/gmaps) - Google maps for Jupyter notebooks.
 - [jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time) - Execute Time Plugin for Jupyter Lab.
 - [jupyterlab-cell-flash](https://github.com/jtpio/jupyterlab-cell-flash) - Show a flash effect when a notebook cell is executed.
+- [Octave kernel for Jupyter](https://github.com/Calysto/octave_kernel)
 
 ## Links
 
@@ -48,6 +49,7 @@
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 - [Real Time Collaboration for Jupyter and beyond](https://github.com/jupyterlab/rtc)
 - [fastpages](https://github.com/fastai/fastpages) - Easy to use blogging platform, with support for Jupyter notebooks, Word docs, and Markdown.
+- [Awesome Fastpages](https://forums.fast.ai/t/awesome-fastpages-share-your-blog/71259)
 - [Language Server Protocol integration for JupyterLab](https://github.com/krassowski/jupyterlab-lsp)
 - [Carnets](https://github.com/holzschu/Carnets) - Stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network.
 - [Jupyterlab Extensions by Examples](https://github.com/jupyterlab/extension-examples)
