@@ -103,3 +103,4 @@
 - [Stephen Celis - Composable Setters (2017)](https://www.youtube.com/watch?v=I23AC09YnHo)
 - [How Do I Declare a Closure in Swift?](https://fuckingclosuresyntax.com/)
 - [Online Swift Playground](http://online.swiftplayground.run/)
+- [HN: Swift 5.3 Will Be Supported on Windows and Additional Linux Distributions](https://news.ycombinator.com/item?id=23198914)

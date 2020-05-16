@@ -214,3 +214,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [This Artwork Does Not Exist](https://thisartworkdoesnotexist.com/) ([HN](https://news.ycombinator.com/item?id=22488494))
 - [Writing Machines](https://writing-machines.tumblr.com/) - Resource dedicated to various projects related to electronic literature/books/writing/art.
 - [Archillect](https://archillect.com/) - AI created to discover and share stimulating visual content.
+- [Shibuya Pixel Art 2020](https://www.lexaloffle.com/bbs/?tid=37971) ([HN](https://news.ycombinator.com/item?id=23200246))

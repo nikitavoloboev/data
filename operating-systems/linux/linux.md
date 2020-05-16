@@ -103,3 +103,4 @@
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux resource monitor.
 - [systemd, 10 years later: a historical and technical retrospective (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/index.html) ([Lobsters](https://lobste.rs/s/hm13g1/systemd_10_years_later_historical)) ([HN](https://news.ycombinator.com/item?id=23062072))
 - [The CPU Cost of Networking on a Host (2020)](https://people.kernel.org/dsahern/the-cpu-cost-of-networking-on-a-host)
+- [Unikernels: The Next Stage of Linux's Dominance (2020)](https://dl.acm.org/doi/abs/10.1145/3317550.3321445) ([HN](https://news.ycombinator.com/item?id=23201174))

@@ -16,3 +16,4 @@
 - [JNI Cookbook](https://github.com/mkowsiak/jnicookbook)
 - [Java Objects Inside Out](https://shipilev.net/jvm/objects-inside-out/)
 - [Java records demystified (2020)](https://isank.dev/posts/java-14-records/)
+- [State of Loom (2020)](https://cr.openjdk.java.net/~rpressler/loom/loom/sol1_part1.html) ([HN](https://news.ycombinator.com/item?id=23201559))

@@ -55,3 +55,4 @@
 - [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap#readme)
 - [What Is Interesting About Factorio](http://fuseki.net/home/WhatIsInterestingAboutFactorio.html) ([HN](https://news.ycombinator.com/item?id=22931595))
 - [Math for Game Developers video series](http://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) ([Code](https://github.com/BSVino/MathForGameDevelopers))
+- [Modern C++ gamedev: thoughts and misconceptions](https://vittorioromeo.info/index/blog/gamedev_modern_cpp_thoughts.html) ([HN](https://news.ycombinator.com/item?id=23202120))

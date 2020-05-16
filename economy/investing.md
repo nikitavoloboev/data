@@ -60,3 +60,4 @@
 - [How to get stock fundamentals data with Python (2020)](http://theautomatic.net/2020/05/05/how-to-download-fundamentals-data-with-python/) ([HN](https://news.ycombinator.com/item?id=23081595))
 - [Ask HN: I've saved up \$80k USD. What should I do with it? (2020)](https://news.ycombinator.com/item?id=23089445)
 - [Edgefolio](https://edgefolio.com/) - Platform connecting all key stakeholders in the Asset Management industry.
+- [HN: Have the Record Number of Investors in the Stock Market Lost Their Minds? (2020)](https://news.ycombinator.com/item?id=23200830)
