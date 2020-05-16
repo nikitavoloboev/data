@@ -22,3 +22,4 @@
 - [OAuth2 for Go](https://github.com/golang/oauth2)
 - [OAuth 2.0 Security Best Current Practice (2020)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-15) ([HN](https://news.ycombinator.com/item?id=23080240))
 - [Just-for-me Authentication (2020)](https://brianlovin.com/overthought/just-for-me-authentication)
+- [Feather](https://feather.id/docs) - Lightweight identity platform for adding flexible user authentication and authorization flows to your apps.

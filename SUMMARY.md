@@ -506,6 +506,7 @@
 - [Fitness](fitness/fitness.md)
   - [Strength training](fitness/strength-training.md)
   - [Exercises](fitness/exercises.md)
+  - [Running](fitness/running.md)
 - [Medicine](medicine/medicine.md)
   - [Diseases](medicine/diseases/diseases.md)
     - [Cancer](medicine/diseases/cancer.md)

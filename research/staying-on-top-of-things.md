@@ -107,3 +107,4 @@ And these Discord servers:
 - [Hacker News Search](https://hn.algolia.com/) ([Code](https://github.com/algolia/hn-search))
 - [Slower News](https://www.slowernews.com) - Trends, micro-trends & edge cases. ([Code](https://github.com/slowernews/slowernews))
 - [ACM Queue](https://queue.acm.org/index.cfm) - Magazine for practicing software engineers.
+- [Datum](http://datum.alwaysdata.net/) - Browse hacker news comments with links about data.

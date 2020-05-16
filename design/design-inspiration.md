@@ -99,6 +99,7 @@ Here are few more things I liked, design wise.
 - [Amanda Pinsker](https://amandapinsker.com/) ([Code](https://github.com/ampinsk/ampinsk.github.io))
 - [William Falcon](https://www.williamfalcon.com/)
 - [Amruth Pillai](https://amruthpillai.com/) ([Code](https://github.com/AmruthPillai/ResumeOnTheWeb-Gatsby))
+- [Hansen Zhang](https://hansenzhang.com/)
 - [Roxane Jammet](http://roxane.me/)
 - [Andy Sparks](https://www.andysparks.co/)
 - [Brent Jackson](https://jxnblk.com/)
