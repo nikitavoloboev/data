@@ -80,3 +80,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [HN: Thank you for helping us increase our bandwidth by Archive.org](https://news.ycombinator.com/item?id=23147752)
 - [IndieWeb Link Sharing (2019)](https://mxb.dev/blog/indieweb-link-sharing/)
 - [In defense of the modern web (2020)](https://dev.to/richharris/in-defense-of-the-modern-web-2nia) ([HN](https://news.ycombinator.com/item?id=23191493))
+- [W3C Public Mailing List Archives](https://lists.w3.org/Archives/Public/)

@@ -138,3 +138,4 @@
 - [Pure CSS Landscape - An Evening in Southwold](https://codepen.io/ivorjetski/pen/xxGYWQG) ([Video](https://www.youtube.com/watch?v=rUCVBNNyjC4))
 - [Modern CSS Solutions](https://moderncss.dev/)
 - [A Single Div](https://a.singlediv.com/) - CSS drawings with only one HTML element. ([Code](https://github.com/lynnandtonic/a-single-div))
+- [CSSWG meeting minutes](https://lists.w3.org/Archives/Public/www-style/)
