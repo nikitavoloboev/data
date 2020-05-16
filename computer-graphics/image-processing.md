@@ -26,3 +26,4 @@
 - [Instagram 3D Photo](https://github.com/cyrildiagne/instagram-3d-photo) - Chrome extension that adds a 3d photo effect to Instagram pages.
 - [Segmentation Models](https://github.com/qubvel/segmentation_models) - Segmentation models with pretrained backbones. Keras and TensorFlow Keras.
 - [Seam-aware Decimater](https://github.com/songrun/SeamAwareDecimater) - Mesh simplification with UV's boundary preserved.
+- [dechroma (2020)](https://flak.tedunangst.com/post/dechroma)
