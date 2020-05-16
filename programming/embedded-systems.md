@@ -36,3 +36,4 @@
 - [cortex-a](https://github.com/rust-embedded/cortex-a) - Low level access to Cortex-A processors.
 - [Tinkerbell](https://github.com/tinkerbell/tink) - Bare metal provisioning and workflow engine.
 - [CMSIS](https://github.com/ARM-software/CMSIS_5) - Vendor-independent hardware abstraction layer for microcontrollers that are based on Arm® Cortex® processors.
+- [Rust on a Beaglebone Blue (2020)](http://afking.github.io/rustc)

@@ -210,3 +210,4 @@
 - [Using Rust to Power Python Importing With oxidized_importer (2020)](https://gregoryszorc.com/blog/2020/05/10/using-rust-to-power-python-importing-with-oxidized_importer/)
 - [Learning Rust in 2020](https://github.com/pretzelhammer/rust-blog/blob/master/posts/learning-rust-in-2020.md) ([HN](https://news.ycombinator.com/item?id=23160975))
 - [Guide to Global Data in Rust](https://github.com/paulkernfeld/global-data-in-rust)
+- [Getting Started with Rust by Building a Tiny Markdown Compiler (2019)](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/)
