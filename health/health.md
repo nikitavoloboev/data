@@ -27,4 +27,5 @@ Here are some things I am trying to improve with my health right now.
 - [Stress in Biomedical Research: Six Impossible Things (2010)](https://www.sciencedirect.com/science/article/pii/S1097276510007835)
 - [HN: How are you managing stress? (2020)](https://news.ycombinator.com/item?id=22616143)
 - [Rising CO2 Levels May Trigger Cognitive Impairment (2020)](https://sparkonit.com/2020/04/30/rising-co2-levels-may-trigger-cognitive-impairment/) ([HN](https://news.ycombinator.com/item?id=23155937))
-- [AWAIR Element](https://getawair.com/) - Cutting-edge air quality technology in a simple and affordable package.
+- [AWAIR](https://www.getawair.com) - Smart device that helps you track and improve your air and shows how the indoor environment affects your health.
+- [AWAIR Element](https://www.getawair.com/home/element) - Cutting-edge air quality technology in a simple and affordable package.

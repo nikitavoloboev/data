@@ -30,3 +30,4 @@
 - [Zhang Lab](https://zlab.bio/) - Studies biological diversity to discover systems and processes that may be harnessed for the improvement of human health.
 - [Entropy and life](https://en.wikipedia.org/wiki/Entropy_and_life) ([HN](https://news.ycombinator.com/item?id=22849554))
 - [The Secret Lives of Fungi (2020)](https://www.newyorker.com/magazine/2020/05/18/the-secret-lives-of-fungi) ([HN](https://news.ycombinator.com/item?id=23149203))
+- [What happens in our brain when we feel an emotion (especially fear, anxiety)](https://www.reddit.com/r/neuroscience/comments/gksen6/what_happen_in_our_brain_when_we_feel_an_emotion/)

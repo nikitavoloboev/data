@@ -670,6 +670,7 @@
   - [Architecture](art/architecture.md)
   - [Tattoos](art/tattoos.md)
   - [Clothes](art/clothes.md)
+  - [Furniture](art/furniture.md)
 - [API](api/api.md)
 - [Distributed systems](distributed-systems/distributed-systems.md)
   - [RPCs](distributed-systems/rpcs/rpcs.md)
