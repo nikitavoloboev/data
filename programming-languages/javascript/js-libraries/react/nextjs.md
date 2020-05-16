@@ -70,3 +70,4 @@
 - [Next.js at Vercel (2020)](https://jamstack-toronto.now.sh/#0)
 - [Blitz](https://github.com/blitz-js/blitz) - Framework for building monolithic, full-stack, serverless React apps with zero data-fetching and zero client-side state management.
 - [Improved Next.js and Gatsby page load performance with granular chunking (2020)](https://web.dev/granular-chunking-nextjs/)
+- [Building my first Next.js app (2020)](https://www.youtube.com/watch?v=Z0FUBQPXHMA)
