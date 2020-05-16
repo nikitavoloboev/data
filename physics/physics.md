@@ -81,3 +81,4 @@
 - [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html) ([HN](https://news.ycombinator.com/item?id=23153778)) ([Code](https://github.com/hnarayanan/sicm))
 - [Evidence for Anyons, a Third Kingdom of Particles (2020)](https://www.quantamagazine.org/milestone-evidence-for-anyons-a-third-kingdom-of-particles-20200512/) ([HN](https://news.ycombinator.com/item?id=23161959))
 - [DIY Particle Detector](https://github.com/ozel/DIY_particle_detector) - Mobile low-cost spectrometer for measuring radioactivity and the energy of ionising radiation like alpha particles and electrons. ([HN](https://news.ycombinator.com/item?id=23196177))
+- [Speed of light is the speed limit relative to what? (2020)](https://www.reddit.com/r/AskPhysics/comments/gkps4a/speed_of_light_is_the_speed_limit_relative_to_what/)
