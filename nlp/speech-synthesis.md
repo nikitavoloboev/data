@@ -11,3 +11,4 @@
 - [Yet another WaveNet implementation in PyTorch](https://github.com/golbin/WaveNet)
 - [Flowtron](https://github.com/NVIDIA/flowtron) - Auto-regressive flow-based generative network for text to speech synthesis.
 - [A highly efficient, real-time text-to-speech system deployed on CPUs (2020)](https://ai.facebook.com/blog/a-highly-efficient-real-time-text-to-speech-system-deployed-on-cpus/) ([HN](https://news.ycombinator.com/item?id=23193967))
+- [Sonatic](https://www.sonantic.io/) - Emotionally Expressive Text to Speech.

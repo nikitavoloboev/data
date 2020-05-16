@@ -17,3 +17,4 @@
 - [Is mobx magic? (2020)](https://www.christianfscott.com/is-mobx-magic/)
 - [mst-gql](https://github.com/mobxjs/mst-gql) - Bindings for mobx-state-tree and GraphQL.
 - [Introduction to MobX & React in 2020](https://www.youtube.com/watch?v=pnhIJA64ByY)
+- [MobX & RecoilJS differences (2020)](https://twitter.com/mweststrate/status/1261369870152871937)
