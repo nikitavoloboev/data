@@ -42,7 +42,7 @@
 - [Colyseus](https://github.com/colyseus/colyseus) - Authoritative Multiplayer Game Server for Node.js, with clients available for the Web, Unity3d, Defold, Haxe, and Cocos2d-X.
 - [How Prince of Persia Defeated Apple II's Memory Limitations (2020)](https://www.youtube.com/watch?v=sw0VfmXKq54)
 - [Castle](https://castle.games/) - Space to play and create games.
-- [Game Programming Patterns](http://gameprogrammingpatterns.com/) - Collection of patterns I found in games that make code cleaner, easier to understand, and faster.
+- [Game Programming Patterns](http://gameprogrammingpatterns.com/) - Collection of patterns I found in games that make code cleaner, easier to understand, and faster. ([HN](https://news.ycombinator.com/item?id=23203699))
 - [Tracy Profiler](https://github.com/wolfpld/tracy) - Real time, nanosecond resolution, remote telemetry frame profiler for games and other applications.
 - [Network Next](https://www.networknext.com/) - Lets game developers boost network performance for their players.
 - [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool. ([Code](https://github.com/aseprite/aseprite))

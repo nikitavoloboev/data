@@ -231,3 +231,4 @@
 - [AxCell: Automatic Extraction of Results from Machine Learning Papers (2020)](https://arxiv.org/abs/2004.14356)
 - [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses#readme)
 - [How do you keep up with new research? (2020)](https://www.reddit.com/r/MachineLearning/comments/gko05p/discussion_how_do_you_guys_keep_up_with_new/)
+- [OpenLTH: A Framework for Lottery Tickets and Beyond](https://github.com/facebookresearch/open_lth)

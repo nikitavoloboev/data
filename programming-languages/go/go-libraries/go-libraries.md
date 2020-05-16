@@ -402,6 +402,7 @@
 - [OpenTelemetry-Go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK.
 - [barcode](https://github.com/boombuler/barcode) - Barcode creation lib for golang.
 - [gomarkdown/markdown](https://github.com/gomarkdown/markdown) - Markdown Parser and HTML Renderer for Go.
+- [totp](https://github.com/sec51/twofactor) - Golang two factor authentication library.
 
 ## Links
 
