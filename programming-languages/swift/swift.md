@@ -104,3 +104,4 @@
 - [How Do I Declare a Closure in Swift?](https://fuckingclosuresyntax.com/)
 - [Online Swift Playground](http://online.swiftplayground.run/)
 - [HN: Swift 5.3 Will Be Supported on Windows and Additional Linux Distributions](https://news.ycombinator.com/item?id=23198914)
+- [The Future of Swift on the Server (2020)](https://www.timc.dev/posts/future-of-server-side-swift/) ([Twitter](https://twitter.com/0xTim/status/1261310804651106305))
