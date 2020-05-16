@@ -25,3 +25,4 @@
 - [Apache Lucene](https://github.com/apache/lucene-solr) - High-performance, full featured text search engine library written in Java. ([Awesome](https://github.com/Anant/awesome-lucene#readme))
 - [NNS Benchmark: Evaluating Approximate Nearest Neighbor Search Algorithms in High Dimensional Euclidean Space](https://github.com/DBWangGroupUNSW/nns_benchmark)
 - [The Anatomy of a Large-Scale Hypertextual Web Search Engine: Sergey Brin and Lawrence Page (1998)](http://infolab.stanford.edu/~backrub/google.html)
+- [Million Short](https://millionshort.com/) - Search engine that lets you exclude top sites.
