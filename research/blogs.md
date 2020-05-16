@@ -42,6 +42,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Raph Levien](https://raphlinus.github.io/) ([Code](https://github.com/raphlinus/raphlinus.github.io))
 - [Lilian Weng](https://lilianweng.github.io/lil-log/) ([Code](https://github.com/lilianweng/lil-log/tree/gh-pages))
 - [Frank McSherry](https://github.com/frankmcsherry/blog)
+- [Serge Zaitsev](https://zserge.com/)
 
 ## Links
 
