@@ -19,3 +19,4 @@
 - [Ray Marching and Signed Distance Functions (2016)](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
 - [Webgl Programming Guide: Interactive 3D Graphics Programming with Webgl (2013)](https://www.goodreads.com/book/show/16269927-webgl-programming-guide)
 - [Bringing webgl to react - Paul Henschel (2020)](https://www.youtube.com/watch?v=YyqBdN71nFs)
+- [WebGL guide](https://xem.github.io/articles/webgl-guide.html) - Complete, summarized WebGL tutorial, with tiny interactive demos in each chapter.

@@ -40,7 +40,7 @@
 
 ## Links
 
-- [TypeScout](https://wongmjane.com/typescout) - Search TS types.
+- [TypeScout](https://wongmjane.com/typescout) - Search TS types. ([Code](https://github.com/wongmjane/typescout))
 - [TypeSearch](https://microsoft.github.io/TypeSearch/) - Search TS types. ([Code](https://github.com/Microsoft/TypeSearch))
 - [TypeScript library starter](https://github.com/alexjoverm/typescript-library-starter#readme) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more.
 - [check-dts](https://github.com/ai/check-dts) - Unit tests for TypeScript definitions in your JS open source library.
