@@ -138,3 +138,4 @@
 - [Local-first database: remoteStorage.js (2020)](https://jaredforsyth.com/posts/local-first-database-remotestorage/)
 - [Jon Gjengset's PhD thesis](https://github.com/jonhoo/thesis)
 - [Succinct Data Structures and Delta Encoding for Modern Databases (2020)](https://terminusdb.com/t/papers/terminusdb-git.pdf)
+- [About Pool Sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)

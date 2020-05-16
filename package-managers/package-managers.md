@@ -15,3 +15,4 @@ I use [nix](nix/nix.md) & [brew](brew.md) as my package managers on macOS.
 - [rebuilderd](https://github.com/kpcyrd/rebuilderd) - Independent verification of binary packages - reproducible builds.
 - [dripip](https://github.com/prisma-labs/dripip) - Opinionated CLI for continuous delivery of npm packages.
 - [PRIVJS](https://privjs.com/) - Implement access control to your npm packages.
+- [distri](https://distr1.org/) - Linux distribution to research fast package management. ([Code](https://github.com/distr1/distri))
