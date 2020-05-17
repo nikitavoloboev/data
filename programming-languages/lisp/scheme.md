@@ -14,3 +14,4 @@
 - [Nanopass Compiler Library](https://github.com/nanopass/nanopass-framework-scheme) - Embedded DSL for writing compilers in Scheme.
 - [Irken Compiler](https://github.com/samrushing/irken-compiler) - Statically typed variant of Scheme. Or a lisp-like variant of ML.
 - [Gerbil Scheme](https://cons.io/) - Meta-dialect of Scheme with post-modern features. ([Lobsters](https://lobste.rs/s/c29wn2/gerbil_scheme)) ([HN](https://news.ycombinator.com/item?id=20585637))
+- [pontiff](https://github.com/sylphbio/pontiff) - Haskell-style build system for chicken scheme.

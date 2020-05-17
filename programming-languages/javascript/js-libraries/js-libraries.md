@@ -243,6 +243,7 @@
 - [serve-favicon](hdttps://github.com/expressjs/serve-favicon) - Node.js middleware for serving a favicon.
 - [download](https://github.com/kevva/download) - Download and extract files.
 - [color2k](https://github.com/ricokahler/color2k) - Color parsing and manipulation lib served in 2kB or less.
+- [Sandstorm](https://sandstorm.io/) - Open source platform for self-hosting web apps. ([Code](https://github.com/sandstorm-io/sandstorm))
 
 ## Links
 
