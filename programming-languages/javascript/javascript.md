@@ -160,3 +160,4 @@
 - [How to create a reactive state-based UI component with vanilla JS Proxies (2020)](https://gomakethings.com/how-to-create-a-reactive-state-based-ui-component-with-vanilla-js-proxies/)
 - [Kite Autocomplete for JavaScript](https://www.kite.com/javascript/) ([Article](https://www.kite.com/blog/product/kite-launches-ai-powered-javascript-completions/))
 - [Excalidraw: Cool JS Tricks Behind the Scenes - Christopher Chedeau (2020)](https://www.youtube.com/watch?v=fix2-SynPGE)
+- [Cleaner async JavaScript code without the try/catch mess (2020)](https://davidwells.io/blog/cleaner-async-await-code-without-try-catch)

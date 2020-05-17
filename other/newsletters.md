@@ -14,3 +14,4 @@
 - [Buttondown](https://buttondown.email/) - Small, elegant tool for producing newsletters.
 - [How (and why) you should tag subscribers to your tech blog (2020)](https://monicalent.com/blog/2020/05/04/tag-and-segment-convertkit-hugo-gatsby/)
 - [Economics of a daily newsletter run on sponsorships (2020)](https://twitter.com/Harris_Bryan/status/1259426257747488773)
+- [The Tech Powering the Morning Brew Machine (2020)](https://medium.com/the-mission/the-tech-powering-the-morning-brew-machine-b7e8cd82121)
