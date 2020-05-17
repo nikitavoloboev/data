@@ -186,7 +186,7 @@
 ## Social
 
 - Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
-- Use [same profile picture](http://github.com/nikitavoloboev.png) & [cover photo](https://twitter.com/nikitavoloboev/header_photo) across all profiles. Don't change it.
+- Use [same profile picture](https://github.com/nikitavoloboev.png) & [cover photo](https://twitter.com/nikitavoloboev/header_photo) across all profiles. Don't change it.
 - Use same username on all services. Either full name (`nikitavoloboev`) or `nikivi`. Or `nikivii` if `nikivi` is taken.
 - Interact with content/discussions freely. Upvote/Like things appropriately. Can later index & search this data.
 
