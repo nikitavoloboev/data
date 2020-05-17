@@ -42,3 +42,4 @@
 - [Ask HN: What scientific phenomenon do you wish someone would explain better? (2020)](https://news.ycombinator.com/item?id=22989280)
 - [How can we develop transformative tools for thought? (2019)](https://numinous.productions/ttft/)
 - [How I Turned an Idea into \$7K by Teaching Online (2020)](https://leerob.io/blog/teach-online) ([HN](https://news.ycombinator.com/item?id=23127424))
+- [Ask HN: What is your learning strategy? (2020)](https://news.ycombinator.com/item?id=23211184)
