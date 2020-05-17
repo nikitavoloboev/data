@@ -55,3 +55,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Arbitrum](https://offchainlabs.com/) - Layer 2 cryptocurrency platform that makes smart contracts scalable, fast, and private. Arbitrum interoperates closely with Ethereum. ([Code](https://github.com/OffchainLabs/arbitrum))
 - [teth](https://github.com/bwasty/teth) - Toy Ethereum implementation.
 - [Ethereum Development with Go](https://goethereumbook.org/en/) ([Code](https://github.com/miguelmota/ethereum-development-with-go-book))
+- [eth.build](https://eth.build/) - Educational sandbox for building on web3. Visually understand how Ethereum works by doing. ([Code](https://github.com/austintgriffith/eth.build))
