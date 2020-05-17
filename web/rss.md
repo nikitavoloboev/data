@@ -28,3 +28,4 @@
 - [The Webpage](https://lobste.rs/s/ureotv/webpage_serverside_rendered_lo_fi_rss) - Online RSS reader and news aggregator, styled like a newspaper. ([HN](https://news.ycombinator.com/item?id=22863536))
 - [Infomate](https://github.com/vas3k/infomate.club) - Small web service that shows multiple RSS sources on one page and performs tricky parsing and summarizing articles using TextRank algorithm.
 - [PolitePol](https://politepol.com/en/) - RSS feed generator website with user friendly interface. ([Code](https://github.com/taroved/pol))
+- [It's Time to Get Back Into RSS (2020)](https://danielmiessler.com/blog/its-time-to-get-back-into-rss/) ([HN](https://news.ycombinator.com/item?id=23212812))

@@ -20,3 +20,4 @@
 - [COVID-19: Neurological Hypoventilation](https://mad.science.blog/2020/04/11/covid-19-neurological-hypoventilation/)
 - [Estimating COVID-19's R_t in Real-Time](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb)
 - [Exposure Notification Reference Server | Covid-19 Exposure Notifications](https://github.com/google/exposure-notifications-server)
+- [Epidemic Modeling for Everyone](https://github.com/DataForScience/Epidemiology101)
