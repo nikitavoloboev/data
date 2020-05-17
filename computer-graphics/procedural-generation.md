@@ -14,3 +14,4 @@
 - [Procedural-Cities](https://github.com/magnificus/Procedural-Cities) - Aims to provide a framework and a solid implementation of different techniques for generating complete seamless procedural cities with interiors for all buildings.
 - [Glyphs](https://github.com/AdrianMargel/glyphs) - Procedurally generated glyphs.
 - [Oleg Dolya's generators](https://watabou.itch.io/)
+- [Voyager3](https://voyager3.tumblr.com/) - Explorations into procedural village and landscape generation.
