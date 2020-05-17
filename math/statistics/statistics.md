@@ -34,3 +34,4 @@
 - [Causal Inference in Machine Learning and AI (2020)](https://www.youtube.com/watch?v=GtpnWQ9uTL8)
 - [Good books on Statistical Methodology and how to approach data problems? (2020)](https://www.reddit.com/r/statistics/comments/gg5jtu/good_books_on_statistical_methodology_and_how_to/)
 - [Probability Theory: The Logic of Science book](https://bayes.wustl.edu/etj/prob/book.pdf) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/gi97y2/discussion_reading_group_for_e_t_jaynes/))
+- [Tea language](https://github.com/emjun/tea-lang) - High-level Language and Runtime System for Automating Statistical Analyses.

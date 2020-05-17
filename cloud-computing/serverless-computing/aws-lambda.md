@@ -15,3 +15,4 @@
 - [AWS Lambda for Go](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
 - [Apollo AWS Lambda with GraphQL subscriptions](https://github.com/michalkvasnicak/aws-lambda-graphql)
 - [Lambda Powertools](https://github.com/awslabs/aws-lambda-powertools) - Suite of utilities for AWS Lambda Functions that makes tracing with AWS X-Ray, structured logging and creating custom metrics asynchronously easier.
+- [Bash in AWS Lambda](https://github.com/gkrizek/bash-lambda-layer)

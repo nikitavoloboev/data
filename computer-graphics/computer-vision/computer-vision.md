@@ -50,3 +50,4 @@
 - [ElasticFusion](https://github.com/mp3guy/ElasticFusion) - Real-time dense visual SLAM system capable of capturing comprehensive dense globally consistent surfel-based maps of room scale environments explored using an RGB-D camera.
 - [StegaStamp: Invisible Hyperlinks in Physical Photographs](https://github.com/tancik/StegaStamp)
 - [Pose Animator](https://github.com/yemount/pose-animator/) - Takes a 2D vector illustration and animates its containing curves in real-time based on the recognition result from PoseNet and FaceMesh. ([HN](https://news.ycombinator.com/item?id=23124786))
+- [fvcore](https://github.com/facebookresearch/fvcore) - Collection of common code that's shared among different research projects in FAIR computer vision team.
