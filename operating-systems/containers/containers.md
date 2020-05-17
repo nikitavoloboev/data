@@ -28,3 +28,4 @@
 - [Borg: The Next Generation (2020)(https://www.eurosys2020.org/wp-content/uploads/2020/04/slides/49_muhammad_tirmazi_slides.pdf) ([HN](https://news.ycombinator.com/item?id=23033180))
 - [ingraind](https://github.com/redsift/ingraind) - Security monitoring agent built around RedBPF for complex containerized environments and endpoints.
 - [Linux containers in a few lines of code (2020)](https://zserge.com/posts/containers/) ([HN](https://news.ycombinator.com/item?id=23165157))
+- [You don't need an image to run a container (2020)](https://iximiuz.com/en/posts/you-dont-need-an-image-to-run-a-container/)

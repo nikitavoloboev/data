@@ -9,3 +9,4 @@
 - [Introducing Actions: Custom GraphQL mutations driven by eventing (2019)](https://hasura.io/blog/introducing-actions/)
 - [HN: Hasura (2020)](https://news.ycombinator.com/item?id=22432137)
 - [Founder of Hasura teaching me about Hasura (2020)](https://www.youtube.com/watch?v=51m8Smk7fZQ)
+- [Securing your Hasura graphQL endpoint (2020)](https://dev.to/debs_obrien/securing-your-hasura-graphql-endpoint-g9o)
