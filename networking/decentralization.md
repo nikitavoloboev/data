@@ -29,3 +29,4 @@
 - [AutoDapp](https://github.com/autodapp/autodapp) - Instantly decentralize your web app.
 - [Everest](https://everest.link/) - Universally shared projects registry.
 - [Infura](https://infura.io/) - Ethereum & IPFS APIs. Develop now on Web 3.0.
+- [Aragon](https://aragon.org/) - Gives internet communities unprecedented power to organize around shared values and resources.

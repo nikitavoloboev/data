@@ -1,4 +1,4 @@
-# Other things I find interesting
+I Other things I find interesting
 
 Here are some _other_ things that I find interesting that don't have a category or I can't think of a category for them.
 
@@ -200,3 +200,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [HN Dark Mode](https://jgthms.com/hacker-news-dark-mode/) ([Code](https://github.com/jgthms/hacker-news-dark-mode/)) ([HN](https://news.ycombinator.com/item?id=23203347))
 - [How we’ve evolved on-call at Monzo (2020)](https://monzo.com/blog/how-weve-evolved-on-call-at-monzo)
 - [Sci-fi interfaces](https://scifiinterfaces.com/)
+- [Ask HN: Is there still a place for native desktop apps? (2020)](https://news.ycombinator.com/item?id=23211851)
