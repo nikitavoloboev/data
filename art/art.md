@@ -56,6 +56,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Pascal Campion](https://www.instagram.com/pascalcampionart/)
 - [Bastien Grivet](https://www.artstation.com/grivetart)
 - [Alice Lee](https://www.byalicelee.com/)
+- [D’zart](https://www.instagram.com/dzart16/)
 - [Samuel Smith](https://www.artstation.com/samsamstudio)
 - [Gemma O’Brien](https://shop.gemmaobrien.com/)
 - [Petur Orn](https://www.instagram.com/orn.design/)
