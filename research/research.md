@@ -51,3 +51,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Zenodo](https://github.com/zenodo/zenodo) - Small layer on top of Invenio, a free software suite enabling you to run your own digital library or document repository on the web.
 - [Keeping a Bibliography (2020)](https://bastian.rieck.me/blog/posts/2020/bibliography/) ([HN](https://news.ycombinator.com/item?id=22683294))
 - [Tips for releasing research code in Machine Learning](https://github.com/paperswithcode/releasing-research-code)
+- [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) - Jekyll extensions for the blogging scholar.

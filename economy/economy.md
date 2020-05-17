@@ -33,3 +33,4 @@
 - [Naked Capitalism](https://www.nakedcapitalism.com/) - Fearless commentary on finance, economics, politics and power.
 - [HN: The Fed Will Buy Bond ETFs Now (2020)](https://news.ycombinator.com/item?id=23156098)
 - [Understanding The Current Macroeconomic Situation with Scott Sumner (2020)](https://overcast.fm/+LDKcyLt0c)
+- [Georgism](https://en.wikipedia.org/wiki/Georgism) - Single tax system. ([HN](https://news.ycombinator.com/item?id=23210804))

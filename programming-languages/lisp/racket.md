@@ -24,3 +24,4 @@
 - [Turnstile+](https://github.com/stchang/macrotypes) - Racket-based framework for creating extensible and reusable typed languages.
 - [Typed Racket Guide](https://docs.racket-lang.org/ts-guide/index.html)
 - [Racket is 25 years old (2020)](https://blog.racket-lang.org/2020/05/racket-is-25.html) ([HN](https://news.ycombinator.com/item?id=23132621))
+- [Racket Stories](https://racket-stories.com/)
