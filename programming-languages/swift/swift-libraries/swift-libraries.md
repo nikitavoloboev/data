@@ -306,6 +306,7 @@
 - [SwiftIO](https://github.com/sharplet/SwiftIO) - Simple Tools for File I/O in Swift.
 - [swift-benchmark](https://github.com/google/swift-benchmark) - Swift library to benchmark code snippets.
 - [MessageKit](https://github.com/MessageKit/MessageKit) - Community-driven replacement for JSQMessagesViewController.
+- [MultiSlider](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ## Other (not lib)
 

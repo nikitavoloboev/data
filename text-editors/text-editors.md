@@ -40,3 +40,4 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Vixi](https://github.com/Peltoche/vixi) - A vim like client for the xi backend.
 - [Hecto: Build your own text editor in Rust (2019)](https://www.philippflenker.com/hecto/)
 - [Kite](https://www.kite.com/) - AI assistant giving developers superpowers.
+- [Diff Match and Patch libraries](https://github.com/google/diff-match-patch) - Offer robust algorithms to perform the operations required for synchronizing plain text.
