@@ -43,6 +43,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Pock](https://github.com/pigigaldi/Pock) - Display macOS Dock in Touch Bar.
 - [Akku](https://github.com/jariz/Akku) - Missing macOS bluetooth headset battery indicator app.
 - [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain-text editor for macOS. Widely known for its live collaboration feature. ([Web](https://subethaedit.net/)) ([HN](https://news.ycombinator.com/item?id=23199805))
+- [RegEx+](https://github.com/lexrus/RegExPlus) - Nifty RegEx test tool built with SwiftUI.
 
 ## Other interesting apps
 

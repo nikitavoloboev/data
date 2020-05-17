@@ -31,3 +31,4 @@
 - [Research links on color theory (2020)](https://twitter.com/mattdesl/status/1260341933551104000)
 - [A short history of color theory](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/index.html)
 - [35+ white paint colors that top designers swear by](https://www.elledecor.com/design-decorate/color/advice/a3448/the-right-white-a-70889/)
+- [Scale](https://hihayk.github.io/scale/) - Generative way to create color scales.

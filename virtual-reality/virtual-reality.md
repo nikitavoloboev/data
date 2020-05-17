@@ -14,3 +14,4 @@
 - [Simula](https://github.com/SimulaVR/Simula) - VR window manager for Linux that runs on top of Godot. ([HN](https://news.ycombinator.com/item?id=22823891))
 - [Oculus Quest Hand Tracking Physic Examples](https://github.com/dilmerv/OculusQuestHandTrackingPhysics)
 - [Godot Oculus Quest Toolkit](https://github.com/NeoSpark314/godot_oculus_quest_toolkit)
+- [Virtual Reality DOS](https://github.com/sonictruth/vr-dos) - Experimental "PC running DOS" emulator inside a VR environment.
