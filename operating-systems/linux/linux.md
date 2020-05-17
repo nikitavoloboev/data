@@ -106,3 +106,4 @@
 - [Unikernels: The Next Stage of Linux's Dominance (2020)](https://dl.acm.org/doi/abs/10.1145/3317550.3321445) ([HN](https://news.ycombinator.com/item?id=23201174))
 - [The CPU Cost of Networking on a Host — David Ahern (2020)](https://people.kernel.org/dsahern/the-cpu-cost-of-networking-on-a-host)
 - [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF.
+- [Barrier](https://github.com/debauchee/barrier) - Software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers.

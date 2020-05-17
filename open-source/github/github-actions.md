@@ -41,6 +41,7 @@
 - [turnstyle](https://github.com/softprops/turnstyle) - GitHub Action for serializing workflow runs.
 - [Secrets Sync Action](https://github.com/google/secrets-sync-action) - Sync secrets from one repository to many others.
 - [Checkout](https://github.com/actions/checkout) - Action for checking out a repo.
+- [GitHub Actions for GitHub Pages](https://github.com/peaceiris/actions-gh-pages) - Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 
 ## Go
 
