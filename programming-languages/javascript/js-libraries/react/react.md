@@ -61,7 +61,6 @@
 - [Grommet](https://github.com/grommet/grommet) - React-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package.
 - [Application that will help you learn React fundamentals](https://github.com/tyroprogrammer/learn-react-app) ([HN](https://news.ycombinator.com/item?id=19050509))
 - [Progressive react](https://houssein.me/progressive-react) - Want to make your React site more performant? Here's a quick checklist.
-- [Relay](https://github.com/facebook/relay) - JavaScript framework for building data-driven React applications.
 - [Scheduling in React (2019)](https://philippspiess.com/scheduling-in-react/)
 - [Writing Resilient Components (2019)](https://overreacted.io/writing-resilient-components/)
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture#readme) - Description of React's new core algorithm, React Fiber.
@@ -89,7 +88,6 @@
 - [Building a Custom React Renderer | Sophie Alpert (2019)](https://www.youtube.com/watch?v=CGpMlWVcHok) ([Code](https://github.com/sophiebits/react-dom-mini))
 - [Thoughts on Suspense for data fetching (2019)](https://sgt.hootr.club/molten-matter/thoughts-on-suspense/)
 - [Simplifying React component testing (2019)](https://medium.com/@andythedev/simplifying-react-component-testing-3958f8fa1a7)
-- [Relay](https://github.com/facebook/relay) - JavaScript framework for building data-driven React applications.
 - [Reatom](https://github.com/artalar/reatom) - Declarative and reactive state manager, designed for both simple and complex applications.
 - [Tried & True Tips from 25 React Experts to Make You More Productive (2019)](https://www.telerik.com/kendo-react-ui/react-best-practices-and-productivity-tips/)
 - [Build your own React (2019)](https://pomb.us/build-your-own-react/) ([HN](https://news.ycombinator.com/item?id=21536789)) ([Code](https://github.com/pomber/didact))

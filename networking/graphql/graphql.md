@@ -22,7 +22,6 @@
 - [Prime](https://github.com/birkir/prime) - Standalone, self-hosted, headless CMS with a GraphQL interface powered by TypeScript.
 - [graphql-yoga](https://github.com/prisma/graphql-yoga) - Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience.
 - [graphql-hooks](https://github.com/nearform/graphql-hooks) - Minimal hooks-first GraphQL client.
-- [Building the New facebook.com with React, GraphQL and Relay (2019)](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/)
 - [urql](https://github.com/FormidableLabs/urql) - Highly customisable and versatile GraphQL client for React.
 - [GraphQL + Suspense by Jared Palmer (2019)](https://www.youtube.com/watch?v=8mnaI8BpsmE)
 - [Tipple: Stealing Ideas From GraphQL And Putting Them To REST (2019)](https://formidable.com/blog/2019/tipple/)
@@ -74,7 +73,6 @@
 - [GraphiQL Explorer](https://github.com/OneGraph/graphiql-explorer) - Interactive explorer plugin for GraphiQL.
 - [GraphQL Mesh](https://github.com/Urigo/graphql-mesh) - Query anything, run anywhere. ([Article](https://medium.com/the-guild/graphql-mesh-query-anything-run-anywhere-433c173863b5))
 - [GraphQL ResolveInfo Deep Dive (2020)](https://blog.grandstack.io/graphql-resolveinfo-deep-dive-1b3144075866) - Building Efficient GraphQL Resolvers By Generating Database Queries.
-- [Why does Artsy use Relay? (2019)](https://artsy.github.io/blog/2019/04/10/omakase-relay/)
 - [GraphQL Genie](https://github.com/genie-team/graphql-genie) - Simply pass in your GraphQL type defintions and get a fully featured GraphQL API with referential integrity, inverse updates, subscriptions and role based access control that can be used client side or server side.
 - [Real world GraphQL tutorial for developers with deadlines](https://hasura.io/learn/) ([Code](https://github.com/hasura/learn-graphql))
 - [apollo-link](https://github.com/apollographql/apollo-link) - Interface for fetching and modifying control flow of GraphQL requests.

@@ -34,7 +34,6 @@
 - [Collection of React Hooks](https://nikgraf.github.io/react-hooks/) ([Code](https://github.com/nikgraf/react-hooks))
 - [use-what-changed](https://github.com/simbathesailor/use-what-changed) - Simple hook to debug major Reactjs hooks and custom hooks.
 - [use-immer](https://github.com/immerjs/use-immer) - Use immer to drive state with a React hooks.
-- [relay-hooks](https://github.com/relay-tools/relay-hooks) - Use Relay as React hooks.
 - [usePlacesAutocomplete](https://github.com/wellyshen/use-places-autocomplete) - React hook for Google Maps Places Autocomplete.
 - [use-scroll-to-bottom](https://github.com/tudorgergely/use-scroll-to-bottom) - React Hook which tells you when you've scrolled to bottom.
 - [react-use-mutable](https://github.com/Marik-D/react-use-mutable) - Tiny hook that keeps your react state up-to-date in callbacks.

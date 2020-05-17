@@ -14,3 +14,4 @@
 - [WebGPU Samples](https://github.com/austinEng/webgpu-samples) - Set of SPIR-V compatible samples demonstrating the use of the WebGPU API.
 - [WebGPU for Node](https://github.com/maierfelix/webgpu)
 - [wgpu-rs on the web (2020)](https://gfx-rs.github.io/2020/04/21/wgpu-web.html) ([HN](https://news.ycombinator.com/item?id=22941224))
+- [webgpu-headers](https://github.com/webgpu-native/webgpu-headers)
