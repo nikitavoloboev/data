@@ -8,6 +8,7 @@
 - [Reprocessing](https://github.com/Schmavery/reprocessing) - ReasonML graphics library inspired by Processing.
 - [Sihl](https://github.com/oxidizing/sihl) - Web framework for Reason.
 - [Tenzir UI Component Library](https://github.com/tenzir/ui-component-library) - ReasonML-first UI Component Library.
+- [reason-relay](https://github.com/zth/reason-relay) - Use Relay with ReasonML.
 
 ## Other
 

@@ -16,6 +16,8 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS Collaborative Notebook for Research](https://github.com/ipfs/notes)
 - [gx](https://github.com/whyrusleeping/gx) - Packaging tool built around the distributed, content addressed filesystem IPFS.
 - [Radicle](http://www.radicle.xyz/) - Peer-to-peer stack for code collaboration.
+- [Textile](https://textile.io/) - Set of open source tools that provide a decentralized database, IPFS-based storage, content hosting, and more over Libp2p, IPFS, and Filecoin.
+- [Textile's Threads protocol & database (js-threads)](https://github.com/textileio/js-threads)
 - [go-textile](https://github.com/textileio/go-textile) - Textile implementation in Go.
 - [Textile Docs](https://docs.textile.io/)
 - [IPFS Project Roadmap](https://github.com/ipfs/roadmap#readme)
