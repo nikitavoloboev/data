@@ -19,3 +19,4 @@
 - [Pebble-Intervals Automata and FO2 with Two Orders∗ (Extended Version) (2019)](https://arxiv.org/pdf/1912.00171.pdf)
 - [Life](https://github.com/zntfdr/Life) - Swift implementation of Conway's Game of Life.
 - [Remembering John Conway's FRACTRAN (2020)](http://raganwald.com/2020/05/03/fractran.html) ([HN](https://news.ycombinator.com/item?id=23142232))
+- [Game of Life in one Ruby statement inspired by APL (2020)](https://zverok.github.io/blog/2020-05-16-ruby-as-apl.html) ([HN](https://news.ycombinator.com/item?id=23208431))

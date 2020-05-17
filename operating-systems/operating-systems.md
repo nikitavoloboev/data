@@ -34,6 +34,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Distaff](https://github.com/GuildOfWeavers/distaff) - Zero-knowledge virtual machine written in Rust.
 - [zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust.
 - [9front](http://9front.org/)
+- [lilith](https://github.com/ffwff/lilith) - POSIX-like x86-64 kernel and userspace written in Crystal.
 
 ## Links
 

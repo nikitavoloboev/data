@@ -72,3 +72,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Samsa](https://lorp.github.io/samsa/src/samsa-gui.html) - Variable font inspector. ([Code](https://github.com/Lorp/samsa))
 - [Axis-Praxis](https://www.axis-praxis.org/specimens/__DEFAULT__) - Website for playing with OpenType Variable Fonts
 - [TinySDF](https://mapbox.github.io/tiny-sdf/) - Browser-side SDF font generator. ([Code](https://github.com/mapbox/tiny-sdf))
+- [From boiling lead and black art: An essay on the history of mathematical typography (2017)](http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html)
