@@ -65,6 +65,7 @@ Below is a list of extensions I use.
 ## Utility
 
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Convenient way of creating, duplicating, moving, renaming and deleting files and directories.
+- [Real-Time Debugging](https://marketplace.visualstudio.com/items?itemName=hediet.realtime-debugging) ([Code](https://github.com/hediet/vscode-realtime-debugging))
 - [GitHub Issue Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks) ([Code](https://github.com/microsoft/vscode-github-issue-notebooks))
 - [Terminal Command Keys](https://marketplace.visualstudio.com/items?itemName=petekinnecom.terminal-command-keys) - Assign a terminal command to a keybinding. ([Code](https://github.com/petekinnecom/terminal-command-keys))
 - [Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour) - Allows you to record and playback guided tours of codebases, directly within the editor. ([Code](https://github.com/vsls-contrib/codetour))

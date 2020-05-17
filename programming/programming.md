@@ -156,3 +156,4 @@
 - [Write Libraries, Not Frameworks (2020)](https://www.brandonsmith.ninja/blog/libraries-not-frameworks) ([HN](https://news.ycombinator.com/item?id=23121192)) ([Reddit](https://www.reddit.com/r/programming/comments/ggclep/write_libraries_not_frameworks/))
 - [Feedback Ladders: How We Encode Code Reviews at Netlify (2020)](https://www.swyx.io/writing/feedback-ladders/)
 - [The find-and-replace Odyssey, a programmer's guide (2020)](https://about.sourcegraph.com/blog/a-programmers-guide-to-find-and-replace)
+- [Migrations: the sole scalable fix to tech debt (2018)](https://lethain.com/migrations/)
