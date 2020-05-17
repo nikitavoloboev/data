@@ -15,3 +15,4 @@
 - [ANTIC](https://github.com/wbhart/antic) - Algebraic Number Theory In C.
 - [‘Amazing’ Math Bridge Extended Beyond Fermat’s Last Theorem (2020)](https://www.quantamagazine.org/amazing-math-bridge-extended-beyond-fermats-last-theorem-20200406/) ([HN](https://news.ycombinator.com/item?id=22809632))
 - [John Conway: Surreal Numbers - How playing games led to more numbers than anybody ever thought of](https://www.youtube.com/watch?v=1eAmxgINXrE)
+- [Modular Forms (2020)](https://ahilado.wordpress.com/2020/05/07/modular-forms/)

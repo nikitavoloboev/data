@@ -40,3 +40,4 @@
 - [Can I Include](https://caninclude.glitch.me/) - Understand which tag you can include in another.
 - [Kutty](https://kutty.org/) - High power tools for HTML. ([Code](https://github.com/bigskysoftware/kutty))
 - [What if we'd had better html-in-js syntax all along? (2020)](https://leontrolski.github.io/dom-syntax.html) ([Lobsters](https://lobste.rs/s/9im5wq/what_if_we_d_had_better_html_js_syntax_all)) ([HN](https://news.ycombinator.com/item?id=23142300))
+- [PostHTML](https://github.com/posthtml/posthtml) - Tool for transforming HTML/XML with JS plugins.
