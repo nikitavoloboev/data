@@ -59,3 +59,4 @@
 - [Web Audio API: Musically-aware scheduling and Dynamic looping (2016)](https://jakearchibald.com/2016/sounds-fun/) ([HN](https://news.ycombinator.com/item?id=23046420))
 - [Python MIDI library](https://github.com/vishnubob/python-midi)
 - [Learn sound theory with an acclaimed synth company (2020)](https://sfree.life/sound-theory-toyota-vangelis-bastl-instruments-free/) ([HN](https://news.ycombinator.com/item?id=23079145))
+- [audiofabric](https://tbaldw.in/audiofabric/) - 3D music visualization. ([Code](https://github.com/rolyatmax/audiofabric))

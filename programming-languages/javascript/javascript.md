@@ -153,7 +153,7 @@
 - [Awesome Storybook](https://github.com/lauthieb/awesome-storybook#readme)
 - [QuickJS](https://github.com/ldarren/QuickJS) - Small and embeddable Javascript engine.
 - [Test262: Official ECMAScript Conformance Test Suite](https://github.com/tc39/test262)
-- [Hegel](https://github.com/JSMonk/hegel) - Advanced static type checker.
+- [Hegel](https://github.com/JSMonk/hegel) - Advanced static type checker. ([Web](https://hegel.js.org/))
 - [NectarJS](https://github.com/NectarJS/nectarjs) - JS God mode. No VM. No Bytecode. No Garbage Collector. Full Compiled and Native binaries.
 - [Eloquent JavaScript book (2018)](https://eloquentjavascript.net/) ([HN](https://news.ycombinator.com/item?id=22990926))
 - [JS.coach](https://js.coach/) - Manually curated list of packages related to React, Vue, Webpack, Babel and PostCSS. ([Code](https://github.com/jscoach/client))
