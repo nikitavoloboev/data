@@ -30,3 +30,4 @@ I especially like the distinction of distributing content over distributing link
 - [IPFS 0.5.0](https://blog.ipfs.io/2020-04-28-go-ipfs-0-5-0/) ([HN](https://news.ycombinator.com/item?id=23010245))
 - [IPFS Pinning Summit](https://ipfspinningsummit.com/) - 2-day virtual conference designed for the infrastructure and service providers of the distributed web.
 - [Wikipedia-IPFS: An exploration to host Wikipedia in IPFS](https://github.com/santhoshtr/wikipedia-ipfs) ([HN](https://news.ycombinator.com/item?id=23127829))
+- [brig](https://github.com/sahib/brig) - File synchronization on top of ipfs with git like interface& web based UI.

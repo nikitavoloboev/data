@@ -277,3 +277,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Lobsters: How does your current dev workflow looks like (2020)](https://lobste.rs/s/qi5dmk/how_does_your_current_dev_workflow_looks)
 - [Lobsters: Tools that made you productive or saved you time (2020)](https://lobste.rs/s/lg2cmt/tools_made_you_productive_saved_you_time)
 - [100 Rabbits Tools Ecosystem](https://100r.co/site/tools_ecosystem.html)
+- [Making Your Own Tools: Devine Lu Linvega (2020)](https://overcast.fm/+JrqbSaAHw)
