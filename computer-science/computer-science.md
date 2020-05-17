@@ -49,3 +49,4 @@
 - [A Guide to Big O notation (2020)](https://eaj.no/a-guide-to-big-o-notation)
 - [Lobsters: Recommended readings for a recent CS graduate (2020)](https://lobste.rs/s/d1c7vd/recommended_readings_for_recent_cs)
 - [Applying to Ph.D. Programs in Computer Science (2014)](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) ([HN](https://news.ycombinator.com/item?id=23164618))
+- [Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin](https://sharjeelsayed.github.io/selfupgradeitprof.txt)

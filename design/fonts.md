@@ -73,3 +73,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Axis-Praxis](https://www.axis-praxis.org/specimens/__DEFAULT__) - Website for playing with OpenType Variable Fonts
 - [TinySDF](https://mapbox.github.io/tiny-sdf/) - Browser-side SDF font generator. ([Code](https://github.com/mapbox/tiny-sdf))
 - [From boiling lead and black art: An essay on the history of mathematical typography (2017)](http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html)
+- [The Future of Text Book: 2020 Vision Book](http://futureoftext.org/2020-vision-book.html)
