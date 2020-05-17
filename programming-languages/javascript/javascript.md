@@ -161,3 +161,4 @@
 - [Kite Autocomplete for JavaScript](https://www.kite.com/javascript/) ([Article](https://www.kite.com/blog/product/kite-launches-ai-powered-javascript-completions/))
 - [Excalidraw: Cool JS Tricks Behind the Scenes - Christopher Chedeau (2020)](https://www.youtube.com/watch?v=fix2-SynPGE)
 - [Cleaner async JavaScript code without the try/catch mess (2020)](https://davidwells.io/blog/cleaner-async-await-code-without-try-catch)
+- [Shifty](https://github.com/jeremyckahn/shifty) - Tweening engine for JavaScript. It is a lightweight library meant to be encapsulated by higher level tools.

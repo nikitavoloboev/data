@@ -15,6 +15,7 @@
 
 - [Alomofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking.
 - [APIKit](https://github.com/ishkawa/APIKit) - Type-safe networking abstraction layer that associates request type with response type.
+- [Kronos](https://github.com/lyft/Kronos) - Elegant NTP date library in Swift.
 
 ## iOS
 
@@ -304,6 +305,7 @@
 - [SwiftJS](https://github.com/SusanDoggie/SwiftJS) - Cross platform Javascript engine for Swift.
 - [SwiftIO](https://github.com/sharplet/SwiftIO) - Simple Tools for File I/O in Swift.
 - [swift-benchmark](https://github.com/google/swift-benchmark) - Swift library to benchmark code snippets.
+- [MessageKit](https://github.com/MessageKit/MessageKit) - Community-driven replacement for JSQMessagesViewController.
 
 ## Other (not lib)
 
