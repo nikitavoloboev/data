@@ -50,3 +50,4 @@
 - [AutoCannon](https://github.com/mcollina/autocannon) - Fast HTTP/1.1 benchmarking tool written in Node.js.
 - [Servor](https://github.com/lukejacksonn/servor) - Dependency free file server for single page app development.
 - [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection.
+- [The HTTP headers you don't expect (2020)](https://frenxi.com/http-headers-you-dont-expect/) ([Reddit](https://www.reddit.com/r/programming/comments/gl183w/the_http_headers_you_dont_expect/)) ([HN](https://news.ycombinator.com/item?id=23187948))

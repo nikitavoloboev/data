@@ -21,3 +21,4 @@
 - [Ikonate](https://ikonate.com/) - Fully customisable & accessible vector icons. ([Code](https://github.com/mikolajdobrucki/ikonate))
 - [Iconoir](https://iconoir.com/) - Simple and Definitive Icons Library.
 - [Timeloop](https://www.timeloop.design/) - Designs by Fabian.
+- [IconGenerator](https://github.com/onmyway133/IconGenerator) - macOS app to generate app icons.

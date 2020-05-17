@@ -26,3 +26,4 @@
 - [NNS Benchmark: Evaluating Approximate Nearest Neighbor Search Algorithms in High Dimensional Euclidean Space](https://github.com/DBWangGroupUNSW/nns_benchmark)
 - [The Anatomy of a Large-Scale Hypertextual Web Search Engine: Sergey Brin and Lawrence Page (1998)](http://infolab.stanford.edu/~backrub/google.html)
 - [Million Short](https://millionshort.com/) - Search engine that lets you exclude top sites.
+- [Ask HN: Is there a search engine which excludes the world's biggest websites? (2020)](https://news.ycombinator.com/item?id=23202850)

@@ -19,3 +19,4 @@
 - [LSD — My Problem Child (1980)](https://maps.org/images/pdf/books/lsdmyproblemchild.pdf) ([HN](https://news.ycombinator.com/item?id=21878726))
 - [LSD, Childhood Memories, And The Science Of Nostalgia (2020)](https://medium.com/@psychedelicsaremedicine/lsd-childhood-memories-and-the-science-of-nostalgia-32bebb1fe1e9)
 - [History of LSD in Czechoslovakia (2018)](https://przekroj.pl/en/society/a-communist-lsd-trip-aleksander-kaczorowski) ([HN](https://news.ycombinator.com/item?id=22208132))
+- [Practical LSD Manufacture, by: Uncle Fester (1995)](https://files.shroomery.org/cms/5841102-practicallsd-UncleFester.pdf) ([Reddit](https://www.reddit.com/r/DrugNerds/comments/gjoayy/practical_lsd_manufacture_by_uncle_fester_full/))
