@@ -23,3 +23,4 @@
 - [Fractus](https://delivrance.github.io/fractus) - Elegant Fractal Explorer web application written in C++ (WebAssembly) and JavaScript. ([Code](https://github.com/delivrance/fractus))
 - [ASCII Mandelbrot Set](https://thatjdanisso.cool/mandelbrot)
 - [Hexagonal Julia- Mandelbrot](https://www.shadertoy.com/view/3dlBRf) ([Twitter](https://twitter.com/matthen2/status/1257989139426766849))
+- [Understanding the Mandelbrot Fractal (2018)](https://explore.paulbutler.org/fractal/)
