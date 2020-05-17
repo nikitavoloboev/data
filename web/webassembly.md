@@ -75,3 +75,4 @@
 - [Build your own WebAssembly Compiler (2019)](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 - [WAKit](https://github.com/akkyie/WAKit) - WebAssembly runtime written in Swift.
 - [gasm](https://github.com/mathetake/gasm) - WASM Virtual Machine for Gophers.
+- [The WebAssembly App Gap (2020)](https://paulbutler.org/2020/the-webassembly-app-gap/)
