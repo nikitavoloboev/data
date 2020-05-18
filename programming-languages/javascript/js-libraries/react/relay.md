@@ -10,3 +10,4 @@
 - [relay-hooks](https://github.com/relay-tools/relay-hooks) - Use Relay as React hooks.
 - [Why does Artsy use Relay? (2019)](https://artsy.github.io/blog/2019/04/10/omakase-relay/)
 - [Relay Compiler REPL](https://relay-compiler-repl.netlify.app/) ([Code](https://github.com/n1ru4l/relay-compiler-repl))
+- [Relay Workshop](https://github.com/sibelius/relay-workshop)

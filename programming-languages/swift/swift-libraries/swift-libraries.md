@@ -66,6 +66,7 @@
 - [SwiftyPickerPopover](https://github.com/hsylife/SwiftyPickerPopover) - More convenient way to display a popover with a built-in picker.
 - [KeyboardKit](https://github.com/danielsaidi/KeyboardKit) - Swift library that helps you create custom keyboards for iOS.
 - [CollectionLayouts](https://github.com/gringoireDM/LNZCollectionLayouts)
+- [KeyboardAvoider](https://github.com/michaelhenry/KeyboardAvoider) - Missing interactive keyboard in SwiftUI for iOS.
 
 ## macOS
 
@@ -309,6 +310,7 @@
 - [MultiSlider](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 - [SwiftMarkup](https://github.com/SwiftDocOrg/SwiftMarkup) - Parses Swift Markup from documentation comments into structured documentation entities.
 - [swift-exec](https://github.com/samuelmeuli/swift-exec) - Simple process execution with Swift.
+- [OpenAPIKit](https://github.com/mattpolzin/OpenAPIKit) - Codable Swift OpenAPI implementation.
 
 ## Other (not lib)
 

@@ -54,3 +54,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Pragli](https://pragli.com/) - Virtual office for remote teams.
 - [Online Town](https://theonline.town/) - Video-calling space that lets multiple people hold separate conversations in parallel.
 - [Vito: Behind the Scenes (2020)](https://vito.community/gallery/events/vito-insiders/sessions/57/videos/vito-behind-the-scenes)
+- [AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs.

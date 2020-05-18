@@ -52,3 +52,5 @@
 - [Pose Animator](https://github.com/yemount/pose-animator/) - Takes a 2D vector illustration and animates its containing curves in real-time based on the recognition result from PoseNet and FaceMesh. ([HN](https://news.ycombinator.com/item?id=23124786))
 - [fvcore](https://github.com/facebookresearch/fvcore) - Collection of common code that's shared among different research projects in FAIR computer vision team.
 - [Making Sense of Vision and Touch: Multimodal Representations for Contact-Rich Tasks (2020)](http://ai.stanford.edu/blog/selfsupervised-multimodal/)
+- [ScreenPoint](https://github.com/cyrildiagne/screenpoint) - Project an image centroid to another image using OpenCV.
+- [U^2-Net](https://github.com/NathanUA/U-2-Net) - Code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection".
