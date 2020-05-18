@@ -84,3 +84,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Dan Abramov's advice on success in open source](https://github.com/facebook/create-react-app/pull/489#issuecomment-244574463)
 - [PR only workflow example for oss project](https://github.com/JohnSundell/Splash/blob/master/CONTRIBUTING.md#bugs-feature-requests-and-support)
 - [Open Source and Business Models (2020)s](https://www.youtube.com/watch?v=uroXzs9tlE0)
+- [Ask HN: Dear open source devs how do you sustain yourself (2020)](https://news.ycombinator.com/item?id=23218943)
