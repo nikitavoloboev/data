@@ -10,3 +10,4 @@
 - [Archiving Prometheus metrics with SOP](https://www.rapidloop.com/blog/prometheus-metrics-archiving.html)
 - [Awesome Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme)
 - [Prometheus Basics](https://github.com/yolossn/Prometheus-Basics#readme) - Beginner friendly introduction to Prometheus. ([HN](https://news.ycombinator.com/item?id=23150860))
+- [Bot for Prometheus' Alertmanager](https://github.com/metalmatze/alertmanager-bot)

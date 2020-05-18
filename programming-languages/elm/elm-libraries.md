@@ -1,5 +1,9 @@
 # Elm libraries
 
+## Web
+
+- [http](https://github.com/elm/http) - Make HTTP requests in Elm.
+
 ## Style
 
 - [elm-css](https://github.com/rtfeldman/elm-css) - Typed CSS in Elm.

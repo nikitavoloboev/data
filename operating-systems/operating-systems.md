@@ -93,3 +93,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Fibers under the magnifying glass (2018)](http://www.open-std.org/JTC1/SC22/WG21/docs/papers/2018/p1364r0.pdf)
 - [Notes on the Plan 9 3rd Edition Kernel Source](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.5409&rep=rep1&type=pdf) ([Lobsters](https://lobste.rs/s/tnm3rc/notes_on_plan_9_3rd_edition_kernel_source))
 - [Tutorial - Write a System Call (2016)](https://brennan.io/2016/11/14/kernel-dev-ep3/)
+- [Zub VM](https://github.com/nilq/zub-vm) - Super-fast, stack-based virtual machine for dynamic languages.
