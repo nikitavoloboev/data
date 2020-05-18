@@ -163,6 +163,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Austen Allred's reading list](https://austenallred.com/reading)
 - [107 books recommended by Patrick Collison](https://www.goodbooks.io/people/patrick-collison)
 - [Ask HN: Mind bending books to read and never be the same as before? (2020)](https://news.ycombinator.com/item?id=23151144)
+- [Tom MacWright's reading list](https://macwright.org/reading/)
 
 ## Notes
 

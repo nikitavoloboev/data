@@ -139,6 +139,7 @@ Here are few more things I liked, design wise.
 - [Sergio Xalambrí](https://sergiodxa.com/) ([Code](https://github.com/sergiodxa/personal-site))
 - [Tyler Gaw](https://tylergaw.com/)
 - [Colin Dunn](http://colindunn.com/)
+- [Tom MacWright](https://macwright.org/)
 - [Matt Drollette](https://matt.drollette.com/)
 - [Alasdair Monk](https://alasdairmonk.com/)
 - [Paul Scanlon](http://www.pauliescanlon.io/)
