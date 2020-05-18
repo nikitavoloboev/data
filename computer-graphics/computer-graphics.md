@@ -60,3 +60,4 @@
 - [Silhouette Maps for Improved Texture Magnification (2004)](https://graphics.stanford.edu/papers/silmap_tex/) ([Tweet](https://twitter.com/pcwalton/status/1253422727215542274))
 - [gltf-viewer](https://github.com/bwasty/gltf-viewer) - Rust glTF 2.0 viewer, written using the gltf crate and plain OpenGL.
 - [gltf-loader-ts](https://github.com/bwasty/gltf-loader-ts) - Engine-agnostic glTF 2.0 loader in TypeScript.
+- [Principles of Lighting and Rendering with John Carmack (2013)](https://www.youtube.com/watch?v=VUxcVzpeFqc&list=PL-wlZ9j-w5b8dLzm5-8cA2AXqzeCr3wav)
