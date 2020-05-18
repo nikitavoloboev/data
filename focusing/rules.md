@@ -192,6 +192,10 @@
 - Use same username on all services. Either full name (`nikitavoloboev`) or `nikivi`. Or `nikivii` if `nikivi` is taken.
 - Interact with content/discussions freely. Upvote/Like things appropriately. Can later index & search this data.
 
+## Web
+
+- Prefer Apple login over other options.
+
 ## Alfred
 
 - Use descriptives lowercased names for external triggers.
