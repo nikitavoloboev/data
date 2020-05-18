@@ -9,3 +9,4 @@
 - [Announcing Providers in the New Terraform Registry (2020)](https://www.hashicorp.com/blog/announcing-providers-in-the-new-terraform-registry/)
 - [Terraform Provider for AWS](https://github.com/terraform-providers/terraform-provider-aws)
 - [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code.
+- [Checkov](https://github.com/bridgecrewio/checkov) - Static code analysis tool for infrastructure-as-code. It scans cloud infrastructure provisioned using Terraform, Cloudformation or kubernetes and detects security and compliance misconfigurations.

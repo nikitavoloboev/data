@@ -404,6 +404,7 @@
 - [gomarkdown/markdown](https://github.com/gomarkdown/markdown) - Markdown Parser and HTML Renderer for Go.
 - [totp](https://github.com/sec51/twofactor) - Golang two factor authentication library.
 - [Orchestra](https://github.com/stephenafamo/orchestra) - Library to manage long running go processes.
+- [Emitter](https://github.com/olebedev/emitter) - Implements a channel-based pubsub pattern.
 
 ## Links
 

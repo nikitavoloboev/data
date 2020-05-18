@@ -142,3 +142,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Lobsters: How do you take notes and organize your knowledge? (2020)](https://lobste.rs/s/7catij/how_do_you_take_notes_organize_your)
 - [A Short History of Bi-Directional Links (2020)](https://maggieappleton.com/bidirectionals)
 - [Digital Gardening](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs.
+- [Neuron Zettelkasten](https://neuron.zettel.page/) - Command-line based system for managing your Zettelkasten. ([Code](https://github.com/srid/neuron))

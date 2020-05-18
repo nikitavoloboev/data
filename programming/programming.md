@@ -157,3 +157,4 @@
 - [Feedback Ladders: How We Encode Code Reviews at Netlify (2020)](https://www.swyx.io/writing/feedback-ladders/)
 - [The find-and-replace Odyssey, a programmer's guide (2020)](https://about.sourcegraph.com/blog/a-programmers-guide-to-find-and-replace)
 - [Migrations: the sole scalable fix to tech debt (2018)](https://lethain.com/migrations/)
+- [Lobsters: What non-electron cross-platform GUI toolkit do you enjoy using? (2020)](https://lobste.rs/s/d2wsne/what_non_electron_cross_platform_gui)

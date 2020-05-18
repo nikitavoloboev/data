@@ -17,3 +17,4 @@
 - [A Review of Contemporary E-voting: Requirements, Technology, Systems and Usability (2017)](https://pdfs.semanticscholar.org/e734/d63888d81075efa0402599ae4e43772cf2e7.pdf)
 - [Shuffling Public Keys (A Peer-to-peer Voting Algorithm)](http://vixra.org/pdf/1905.0239v1.pdf) ([HN](https://news.ycombinator.com/item?id=20067480))
 - [Vocdoni](https://vocdoni.io/) - Provides the necessary tools for your organization to reinvent what governance is.
+- [Emergency Site](https://emergency-site.dev/) - Template for emergency information websites.
