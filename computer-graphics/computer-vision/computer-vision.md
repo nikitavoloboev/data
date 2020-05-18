@@ -51,3 +51,4 @@
 - [StegaStamp: Invisible Hyperlinks in Physical Photographs](https://github.com/tancik/StegaStamp)
 - [Pose Animator](https://github.com/yemount/pose-animator/) - Takes a 2D vector illustration and animates its containing curves in real-time based on the recognition result from PoseNet and FaceMesh. ([HN](https://news.ycombinator.com/item?id=23124786))
 - [fvcore](https://github.com/facebookresearch/fvcore) - Collection of common code that's shared among different research projects in FAIR computer vision team.
+- [Making Sense of Vision and Touch: Multimodal Representations for Contact-Rich Tasks (2020)](http://ai.stanford.edu/blog/selfsupervised-multimodal/)
