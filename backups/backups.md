@@ -38,3 +38,4 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [go-backblaze](https://github.com/kothar/go-backblaze) - Go client for Backblaze's B2 storage.
 - [How to store data forever (2020)](https://drewdevault.com/2020/04/22/How-to-store-data-forever.html) ([Lobsters](https://lobste.rs/s/il9z0e/how_store_data_forever))
 - [Backblaze B2 Cloud Storage Now Has S3 Compatible APIs (2020)](https://www.backblaze.com/blog/backblaze-b2-s3-compatible-api/) ([HN](https://news.ycombinator.com/item?id=23069114))
+- [tmignore](https://github.com/samuelmeuli/tmignore) - Exclude development files from Time Machine backups.
