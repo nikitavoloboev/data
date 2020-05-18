@@ -23,3 +23,4 @@
 - [Figma Plugin DS](https://github.com/thomas-lowry/figma-plugin-ds) - Small lightweight design system for use in Figma Plugins.
 - [Theme UI Plugin for Figma](https://github.com/LekoArts/figma-theme-ui) - Theme UI Plugin for Figma.
 - [Faker](https://www.figma.com/community/plugin/833836762121994814/Faker) - Quickly generate realistic placeholder text. Names, emails, URLs, headlines, and more.
+- [Meeting notes](https://www.figma.com/community/file/836628128099607728) - Either it's a weekly sync or a team standup, keep it documented with this simple meeting notes template.

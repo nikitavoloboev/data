@@ -13,3 +13,4 @@
 - [Collection of Slack emoji](https://github.com/snipe/awesome-emoji)
 - [slack-rs](https://github.com/slack-rs/slack-rs) - Slack realtime messaging client for rust.
 - [Phelia](https://github.com/maxchehab/phelia) - Build interactive Slack apps without webhooks or JSON headache.
+- [Top Slack Apps](https://slackrank.wilhelmklopp.com/)
