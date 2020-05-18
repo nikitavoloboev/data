@@ -159,3 +159,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Tips on how to keep application performance good (2020)](https://www.reddit.com/r/iOSProgramming/comments/gjorxm/how_do_you_guys_keep_your_application_performance/)
 - [UI Testing iOS application with EarlGrey (2020)](https://www.onswiftwings.com/posts/ui-tests-earlgrey/)
 - [Tracing iOS Kernel Functions - Building a Kernel Function Trace Tool for Security Research (2020)](https://www.youtube.com/watch?v=qm_oLQFGRsQ)
+- [Every Apple Platform Security Guide](https://github.com/0xmachos/Apple-Platform-Security-Guides)

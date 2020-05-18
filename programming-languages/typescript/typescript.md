@@ -92,6 +92,7 @@
 - [TSJS-lib-generator](https://github.com/microsoft/TSJS-lib-generator) - TypeScript and JavaScript lib generator.
 - [TypeScript exercises](https://github.com/mdevils/typescript-exercises) - Collection of challenging TypeScript exercises.
 - [sane-fmt](https://github.com/KSXGitHub/sane-fmt) - Opinionated code formatter for TypeScript and JavaScript.
+- [Benchmark Comparison of Packages with Runtime Validation and Typescript Support](https://github.com/moltar/typescript-runtime-type-benchmarks)
 
 ## Images
 

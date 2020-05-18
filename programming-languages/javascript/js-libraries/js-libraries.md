@@ -244,6 +244,7 @@
 - [download](https://github.com/kevva/download) - Download and extract files.
 - [color2k](https://github.com/ricokahler/color2k) - Color parsing and manipulation lib served in 2kB or less.
 - [Sandstorm](https://sandstorm.io/) - Open source platform for self-hosting web apps. ([Code](https://github.com/sandstorm-io/sandstorm))
+- [transformation-matrix](https://github.com/chrvadala/transformation-matrix) - JS isomorphic 2D affine transformations written in ES6 syntax.
 
 ## Links
 
