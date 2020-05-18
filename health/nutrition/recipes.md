@@ -14,3 +14,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Scraping Recipe Websites (2020)](https://www.benawad.com/scraping-recipe-websites/) ([HN](https://news.ycombinator.com/item?id=23142220))
 - [Saffron](https://www.mysaffronapp.com/) - Home for all your recipes.
 - [Plan Old Recipes](https://www.plainoldrecipe.com/) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing. ([Code](https://github.com/poundifdef/plainoldrecipe))
+- [Susanna's vegan recipes](https://www.instagram.com/susannawurz.cooking/)

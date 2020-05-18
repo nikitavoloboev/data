@@ -19,6 +19,10 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Eleventy](https://www.11ty.dev/) - Simpler static site generator. ([Starter](https://eleventail.netlify.com/)) ([Code](https://github.com/11ty/eleventy))
 - [Docsite](https://github.com/txd-team/docsite) - Open source static website generator.
 
+## Notes
+
+- [If you've got a static site with a scrollable sidebar, it really helps to memorize the scroll position across page loads.](https://twitter.com/hakimel/status/1262337065670316033)
+
 ## Links
 
 - [The Intrinsic Static Site](https://brandur.org/aws-intrinsic-static)

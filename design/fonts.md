@@ -77,3 +77,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Future Of Text](http://futureoftext.org/)
 - [How to pick different font sizes that look good together](https://twitter.com/siddharthkp/status/1262038126794551296?s=20)
 - [Font Picker](https://github.com/samuelmeuli/font-picker) - Font selector component for Google Fonts.
+- [Advice on improving typesetting on websites](https://twitter.com/rsms/status/1262450475669975040)
