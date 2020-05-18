@@ -109,3 +109,4 @@ And these Discord servers:
 - [Slower News](https://www.slowernews.com) - Trends, micro-trends & edge cases. ([Code](https://github.com/slowernews/slowernews))
 - [ACM Queue](https://queue.acm.org/index.cfm) - Magazine for practicing software engineers.
 - [Datum](http://datum.alwaysdata.net/) - Browse hacker news comments with links about data.
+- [HN with Dark Mode](https://brianlovin.com/hn)

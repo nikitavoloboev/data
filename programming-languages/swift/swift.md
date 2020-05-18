@@ -106,3 +106,4 @@
 - [HN: Swift 5.3 Will Be Supported on Windows and Additional Linux Distributions](https://news.ycombinator.com/item?id=23198914)
 - [The Future of Swift on the Server (2020)](https://www.timc.dev/posts/future-of-server-side-swift/) ([Twitter](https://twitter.com/0xTim/status/1261310804651106305))
 - [SwiftNIO Example Apps](https://github.com/apple/swift-nio-examples)
+- [Understanding type erasure in Swift (2020)](https://www.donnywals.com/understanding-type-erasure-in-swift/)

@@ -187,6 +187,8 @@
 
 - Respect my time. If going on dates or meeting people, make it worthwhile or not go at all.
 - Use [same profile picture](https://twitter.com/nikitavoloboev/photo) & [cover photo](https://twitter.com/nikitavoloboev/header_photo) across all profiles. Don't change it.
+- Use a profile picture with my face on it on platforms that require it (i.e. AirBnb, LinkedIn..)
+- Add appropriate short description with link to personal site.
 - Use same username on all services. Either full name (`nikitavoloboev`) or `nikivi`. Or `nikivii` if `nikivi` is taken.
 - Interact with content/discussions freely. Upvote/Like things appropriately. Can later index & search this data.
 

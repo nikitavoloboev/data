@@ -8,3 +8,4 @@
 - [What seven years at Airbnb taught me about building a company (2019)](https://medium.com/@lennysan/what-seven-years-at-airbnb-taught-me-about-building-a-company-e1d035d49c56)
 - [Why “Standups” are Useless and How to Run Great Product Team Meetings (2019)](https://medium.com/unusual-ventures/why-standups-are-useless-and-how-to-run-great-product-team-meetings-278f000ea64f)
 - [Product Therapy](https://www.youtube.com/channel/UCpT8mlqE8ylJWAU4IwhlSLQ/videos)
+- [Becoming a Product designer: requirements](https://paper.dropbox.com/published/Becoming-a-Product-designer-requirements--A0PVM2RsR_29DRQYM6HzbbB5Bg-T2TC8MP45MlCG7sqrPhofQw)

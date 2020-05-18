@@ -125,3 +125,5 @@ These are my personal profiles on various websites sorted by categories.
 - [Nomad List](https://nomadlist.com/@nikitavoloboev)
 - [Procreate](https://procreate.art/nikivi)
 - [Hackaday](https://hackaday.io/nikitavoloboev)
+- [Gravatar](https://en.gravatar.com/nikitavoloboev)
+- [Pocket](https://getpocket.com/users/nikivi)
