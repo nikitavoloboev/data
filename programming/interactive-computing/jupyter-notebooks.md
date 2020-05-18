@@ -59,3 +59,4 @@
 - [I don't like notebooks - Joel Grus (2018)](https://www.youtube.com/watch?v=7jiPeIFXb6U)
 - [nb2hugo](https://github.com/vlunot/nb2hugo) - Jupyter notebook to Hugo markdown converter.
 - [Plasma: A learning platform powered by Jupyter (2020)](https://blog.jupyter.org/plasma-a-learning-platform-powered-by-jupyter-1b850fcd8624)
+- [nbtohtml](https://github.com/samuelmeuli/nbtohtml) - Convert Jupyter Notebook files to HTML.
