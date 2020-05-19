@@ -115,6 +115,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [AfterClass](https://afterclass.co/) - New kind of document for futuristic teams.
 - [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
 - [Snap.as](https://snap.as/) - Permanent home for your photos.
+- [Watercooler](https://waterc00ler.com/) - Voice chat rooms.
 - [Jsonnet](https://github.com/google/jsonnet) - Data templating language.
 - [fastmod](https://github.com/facebookincubator/fastmod) - Fast partial replacement for the codemod tool.
 - [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.

@@ -107,3 +107,4 @@
 - [The CPU Cost of Networking on a Host — David Ahern (2020)](https://people.kernel.org/dsahern/the-cpu-cost-of-networking-on-a-host)
 - [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF.
 - [Barrier](https://github.com/debauchee/barrier) - Software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers.
+- [Linux Productivity Tools (2019)](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf) ([HN](https://news.ycombinator.com/item?id=23229241))
