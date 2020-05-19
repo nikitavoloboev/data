@@ -78,3 +78,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [How to pick different font sizes that look good together](https://twitter.com/siddharthkp/status/1262038126794551296?s=20)
 - [Font Picker](https://github.com/samuelmeuli/font-picker) - Font selector component for Google Fonts.
 - [Advice on improving typesetting on websites](https://twitter.com/rsms/status/1262450475669975040)
+- [xz/fonts](https://fonts.xz.style/) - Break your users from unethical tracking networks. xz/fonts delivers exclusively open-source fonts through Vercel's impossibly fast CDN. ([Code](https://github.com/xz/fonts))
