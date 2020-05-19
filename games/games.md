@@ -39,6 +39,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Veloren](https://veloren.net/) - Open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. ([Code](https://github.com/veloren/veloren)) ([Launcher](https://github.com/Songtronix/Airshipper))
 - [Paddlers](https://github.com/jakmeier/paddlers-browser-game) - Multi-player real-time strategy browser game.
 - [orb.farm](https://orb.farm/) - Sealed aquatic ecosystem. ([Code](https://github.com/MaxBittker/orb.farm))
+- [Asteroids](https://justinmimbs.github.io/rs-asteroids/) - Variation on the game Asteroids, written in Rust. ([Code](https://github.com/justinmimbs/rs-asteroids))
 
 ## Recommendations
 

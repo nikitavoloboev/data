@@ -86,3 +86,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Phusion Passenger](https://github.com/phusion/passenger) - Fast and robust web server and application server for Ruby, Python and Node.js.
 - [Tiny websites are great (2020)](https://tinyprojects.dev/posts/tiny_websites_are_great) ([HN](https://news.ycombinator.com/item?id=23228904))
 - [The Hottest Websites from the Late 90s (2017)](https://vanschneider.com/hottest-websites-late-90s)
+- [SuckIT](https://github.com/Skallwar/suckit) - Allows you to recursively visit and download a website's content to your disk.

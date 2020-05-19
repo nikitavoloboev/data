@@ -373,6 +373,7 @@
 - [no-panic](https://github.com/dtolnay/no-panic) - Attribute macro to require that the compiler prove a function can't ever panic.
 - [rustc-demangle](https://github.com/alexcrichton/rustc-demangle) - Demangling for Rust symbols, written in Rust.
 - [Rust Typed Builder](https://github.com/idanarye/rust-typed-builder) - Creates a compile-time verified builder.
+- [Tether](https://github.com/quadrupleslap/tether) - Barebones Electron-ish library for Rust.
 
 ## Cargo Plugins
 

@@ -30,3 +30,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Why Do We Even Listen to New Music?](https://pitchfork.com/features/article/listen-to-music/) ([HN](https://news.ycombinator.com/item?id=22941185))
 - [minimp3](https://github.com/lieff/minimp3) - Minimalistic MP3 decoder single header library.
 - [Jukebox](https://openai.com/blog/jukebox/) - Neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. ([Code](https://github.com/openai/jukebox/)) ([HN](https://news.ycombinator.com/item?id=23032243))
+- [How Distortion Works in Music (2020)](https://benmosheron.gitlab.io/blog/2020/04/26/distortion.html) ([HN](https://news.ycombinator.com/item?id=23232268))
