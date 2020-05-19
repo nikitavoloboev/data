@@ -53,3 +53,5 @@
 - [SwiftUI Airtable Demo](https://github.com/zackshapiro/SwiftUIAirtableDemo) ([HN](https://news.ycombinator.com/item?id=23106155))
 - [Build a SwiftUI Animal Crossing Application (2020)](https://medium.com/better-programming/build-a-swiftui-animal-crossing-application-part-1-aaf3528c1df)
 - [Free guide: Architecting SwiftUI apps with MVC and MVVM](https://matteomanferdini.com/)
+- [SwiftUI: Running a Mac App Without an Xcode Project (2020)](https://www.objc.io/blog/2020/05/19/swiftui-without-an-xcodeproj/)
+- [Stanford: Developing Applications for iOS using SwiftUI (2020)](https://www.youtube.com/watch?v=jbtqIBpUG7g)

@@ -19,7 +19,6 @@
 - [SwiftHub](https://github.com/khoren93/SwiftHub) - Github iOS client written in RxSwift and MVVM clean architecture.
 - [Swift Debugger and REPL](https://github.com/apple/swift-lldb) - Version of LLDB that supports the Swift programming language & REPL.
 - [danger-swift](https://github.com/danger/swift) - Stop saying "you forgot to …" in code review in Swift.
-- [swift-sh](https://github.com/mxcl/swift-sh) - Swift scripting with easy, zero-conf dependency imports.
 - [SwiftTube](https://github.com/ahmetws/swifttube) - iOS conference videos in one place.
 - [Collection useful tips for the Swift language](https://github.com/vincent-pradeilles/swift-tips#readme)
 - [What’s new in Swift 5.0?](https://github.com/twostraws/whats-new-in-swift-5-0) - Xcode playground that demonstrates the new features introduced in Swift 5.0
