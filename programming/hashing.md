@@ -13,3 +13,4 @@
 - [SMhasher](https://github.com/rurban/smhasher) - Hash function quality and speed tests.
 - [Concurrent Hash Tables: Fast and General](https://dl.acm.org/doi/pdf/10.1145/3309206)
 - [SHA-256 Animation](https://github.com/in3rsha/sha256-animation) ([HN](https://news.ycombinator.com/item?id=23165333))
+- [SMHasher](https://github.com/aappleby/smhasher) - Test suite designed to test the distribution, collision, and performance properties of non-cryptographic hash functions.

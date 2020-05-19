@@ -38,3 +38,4 @@
 - [Our World in Data](https://ourworldindata.org/) - Research and data to make progress against the world’s largest problems.
 - [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - QT5 based application to display time series in plots, using an intuitive "drag and drop" interface.
 - [Lightweight Charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas.
+- [Glue](https://github.com/glue-viz/glue) - Python project to link visualizations of scientific datasets across many files.
