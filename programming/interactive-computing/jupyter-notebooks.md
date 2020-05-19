@@ -60,3 +60,4 @@
 - [nb2hugo](https://github.com/vlunot/nb2hugo) - Jupyter notebook to Hugo markdown converter.
 - [Plasma: A learning platform powered by Jupyter (2020)](https://blog.jupyter.org/plasma-a-learning-platform-powered-by-jupyter-1b850fcd8624)
 - [nbtohtml](https://github.com/samuelmeuli/nbtohtml) - Convert Jupyter Notebook files to HTML.
+- [Bokeh, Bokehjs, and Observablehq: A venture out of Jupyter’s orbit (2020)](https://towardsdatascience.com/bokeh-bokehjs-and-observablehq-6ddf0c5ffe8a)

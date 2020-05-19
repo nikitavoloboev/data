@@ -7,3 +7,4 @@
 - [Progressive Web Apps in 2020](https://medium.com/@firt/progressive-web-apps-in-2020-c15018c9931c)
 - [PWA Music Player](https://playlist.iondrimbafilho.me/) - PWA Music Player made with Reactjs. ([Code](https://github.com/iondrimba/pwa-music-player))
 - [Awesome PWA](https://github.com/hemanth/awesome-pwa#readme)
+- [Building rich app experiences with Progressive Web Apps (2020)](https://www.youtube.com/watch?v=y4p_QHZtMKM)

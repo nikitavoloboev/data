@@ -20,3 +20,4 @@
 - [Notion for Web Development Teams](https://css-tricks.com/video-screencasts/186-notion-for-web-development-teams/) ([Twitter](https://twitter.com/chriscoyier/status/1260991618716274689))
 - [How Notion Uses Notion](https://www.notion.so/How-Notion-Uses-Notion-616f41d2f5124f3185cf1c36d267c07e)
 - [Case study: Analyzing Notion app performance (2020)](https://3perf.com/blog/notion/)
+- [HN: Notion for everyone – free personal plan launched (2020)](https://news.ycombinator.com/item?id=23236786)
