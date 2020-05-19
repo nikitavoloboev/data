@@ -62,3 +62,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Ask HN: Any good FOSS alternative to Google's reCAPTCHA? (2020)](https://news.ycombinator.com/item?id=23089599)
 - [SnapPass](https://github.com/pinterest/snappass) - Share passwords securely.
 - [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - Seamless ssh-agent for YubiKeys. ([HN](https://news.ycombinator.com/item?id=23130053))
+- [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters#readme)

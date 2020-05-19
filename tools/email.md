@@ -50,3 +50,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [gmail-helper](https://github.com/abhishekkr/gmail-helper) - Allow helpful GMail tasks over OAuth2 API using Google's API Client. ([HN](https://news.ycombinator.com/item?id=22989904))
 - [How to build an email reply feature](https://davidfurlong.me/how-to-build-an-email-reply-feature)
 - [Experiences with email-based login (2020)](https://www.arp242.net/email-auth.html) ([Lobsters](https://lobste.rs/s/kjm4nu/experiences_with_email_based_login))
+- [How to Write Email with Military Precision](https://hbr.org/2016/11/how-to-write-email-with-military-precision)

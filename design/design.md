@@ -88,3 +88,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Teleport](https://teleporthq.io/) - Create high-definition prototypes visually, generate the code in real-time, and deploy your user interface with one click. ([Article](https://medium.com/visualdevspace/getting-started-with-teleporthq-53a671ec56d5))
 - [Growth Design](https://growth.design/)
 - [Data Authoring Environments: An Overview (2018)](http://staging.dubberly.com/Data_Authoring_Environments/180702-An%20Overview%20of%20Data%20Authoring%20Environments/180702_Data_Authoring_Environments.pdf)
+- [Radical Design course](https://radicaldesigncourse.com/)

@@ -22,3 +22,4 @@
 - [City Roads](https://anvaka.github.io/city-roads/) - Renders every single road within a city. ([Code](https://github.com/anvaka/city-roads))
 - [The most atmospheric city you've visited? (2020)](https://www.reddit.com/r/solotravel/comments/fyfz0l/the_most_atmospheric_city_youve_visited/)
 - [What are the most social cities for solo travelers? (2020)](https://www.reddit.com/r/solotravel/comments/g5jloo/what_are_the_most_social_cities_for_solo_travelers/)
+- [The Death of Couchsurfing? (2020)](https://medium.com/@jameshopest/the-death-of-couchsurfing-a87d9537edf2) ([HN](https://news.ycombinator.com/item?id=23211495))
