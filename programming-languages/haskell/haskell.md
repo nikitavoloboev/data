@@ -136,4 +136,4 @@
 - [Permissive, then restrictive: learning how to design Haskell programs (2020)](https://williamyaoh.com/posts/2020-04-19-permissive-vs-restrictive.html)
 - [10 Reasons to Use Haskell (2020)](https://serokell.io/blog/10-reasons-to-use-haskell) ([Lobsters](https://lobste.rs/s/afq4js/10_reasons_use_haskell))
 - [Haskell Study Plan](https://github.com/soupi/haskell-study-plan#readme)
-- [Examples of Incorrect Abstractions in Other Languages (2020)](https://www.reddit.com/r/haskell/comments/glz389/examples_of_incorrect_abstractions_in_other/)
+- [Examples of Incorrect Abstractions in Other Languages (2020)](https://www.reddit.com/r/haskell/comments/glz389/examples_of_incorrect_abstractions_in_other/) ([Lobsters](https://lobste.rs/s/ky2fu3/examples_incorrect_abstractions_non))

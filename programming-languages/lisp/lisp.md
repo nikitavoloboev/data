@@ -52,3 +52,4 @@
 - [Quasiquote - Literal Magic (2020)](https://weinholt.se/articles/quasiquote-literal-magic/) ([Lobsters](https://lobste.rs/s/dqhszz/quasiquote_literal_magic))
 - [Ronin](https://100r.co/site/ronin.html) - Lisp-based image processing tool. ([HN](https://news.ycombinator.com/item?id=23211273))
 - [Ask HN: Production Lisp in 2020?](https://news.ycombinator.com/item?id=23231701)
+- [Reading Lisp code: parentheses and indentation](https://nl.movim.eu/?blog/phoe%40movim.eu/cd3577f6-fb1d-45f5-b881-7b9a68ee822e)

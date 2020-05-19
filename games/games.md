@@ -38,7 +38,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Good Web Game](https://github.com/not-fl3/good-web-game) - Minimal 2d game framework for wasm.
 - [Veloren](https://veloren.net/) - Open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. ([Code](https://github.com/veloren/veloren)) ([Launcher](https://github.com/Songtronix/Airshipper))
 - [Paddlers](https://github.com/jakmeier/paddlers-browser-game) - Multi-player real-time strategy browser game.
-- [orb.farm](https://orb.farm/) - Sealed aquatic ecosystem. ([Code](https://github.com/MaxBittker/orb.farm))
+- [Orb.Farm](https://orb.farm/) - Sealed aquatic ecosystem. ([Code](https://github.com/MaxBittker/orb.farm)) ([Lobsters](https://lobste.rs/s/8d3bfo/orb_farm_virtual_aquatic_ecosystem))
 - [Asteroids](https://justinmimbs.github.io/rs-asteroids/) - Variation on the game Asteroids, written in Rust. ([Code](https://github.com/justinmimbs/rs-asteroids))
 
 ## Recommendations
