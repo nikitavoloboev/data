@@ -21,3 +21,4 @@ In any way, you probably live only one life. So best [make it count](http://paul
 - [Handful of long-form posts on lifestyle](https://wiki.xxiivv.com/#lifestyle)
 - [Life Under The Ice](https://lifeundertheice.org/) - Exploratory tour through the microscopic world of Antarctica.
 - [Why Are You Alive – Life, Energy & ATP (2020)](https://www.youtube.com/watch?v=QImCld9YubE)
+- [The Odds of Life and Intelligence (2020)](https://www.youtube.com/watch?v=iLbbpRYRW5Y) ([Twitter](https://twitter.com/BadAstronomer/status/1262759449384517634))
