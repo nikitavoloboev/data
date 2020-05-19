@@ -19,6 +19,7 @@
 - [Kitze](https://github.com/sponsors/kitze)
 - [Tatiana Mac](https://github.com/sponsors/tatianamac)
 - [Benedek Rozemberczki](https://github.com/sponsors/benedekrozemberczki)
+- [Tuist org](https://github.com/sponsors/tuist)
 
 ## Thanks pages
 
