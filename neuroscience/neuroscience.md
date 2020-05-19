@@ -23,6 +23,7 @@
 - [Computational neuroscience resources](http://neural-reckoning.org/comp-neuro-resources.html)
 - [Neural Reckoning Group](http://neural-reckoning.org/index.html) - Aim to understand the brain, and intelligent behaviour more widely, via theoretical and computational models.
 - [Neurolib](https://github.com/neurolib-dev/neurolib) - Computational neuroscience library for easy whole-brain modeling.
+- [What are some good books for someone getting into neuroscience? (2020)](https://www.reddit.com/r/neuroscience/comments/gm83qa/what_are_some_good_books_for_someone_getting_into/)
 
 ## Images
 

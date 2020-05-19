@@ -51,3 +51,4 @@
 - [History of Lisp - John McCarthy (1979)](http://jmc.stanford.edu/articles/lisp/lisp.pdf) ([HN](https://news.ycombinator.com/item?id=23201888))
 - [Quasiquote - Literal Magic (2020)](https://weinholt.se/articles/quasiquote-literal-magic/) ([Lobsters](https://lobste.rs/s/dqhszz/quasiquote_literal_magic))
 - [Ronin](https://100r.co/site/ronin.html) - Lisp-based image processing tool. ([HN](https://news.ycombinator.com/item?id=23211273))
+- [Ask HN: Production Lisp in 2020?](https://news.ycombinator.com/item?id=23231701)
