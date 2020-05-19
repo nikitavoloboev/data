@@ -46,11 +46,13 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Principle](https://principleformac.com/) - Makes it easy to design animated and interactive user interfaces.
 - [Drift](https://www.drift.com/) - Connect Your Sales Teams With Your Future Customers.
 - [Yac](https://www.yac.chat/) - Asynchronous voice collaboration for remote teams.
+- [Quill](https://quill.chat/) - Messaging for groups and teams that stay focused.
 - [Slido](https://www.sli.do/) - Audience interaction made easy.
 - [Flowkit](https://useflowkit.com/) - User flows right inside your favorite design tool.
 - [Web Clipper](https://clipper.website/) - Open source extension. You can use it to save anything on the web to anywhere. ([Code](https://github.com/webclipper/web-clipper))
 - [Kapwing](https://www.kapwing.com/) - Collaborative platform for creating images, videos, and GIFs.
 - [Animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups on the browser.
+- [Hypothesis](https://web.hypothes.is/) - Annotate the web, with anyone, anywhere.
 - [Prettier](https://github.com/prettier/prettier) - Opinionated code formatter.
 - [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))
 - [Litho](https://www.litho.cc/) - Allows for intuitive and precise input with its touch surface on the underside, custom haptic feedback system and array of motion-tracking sensors.
@@ -172,7 +174,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [StackSnippet](http://www.stacksnippet.com/#gsc.tab=0) - Aims to combine the preciseness of Google Search with Stack Overflow's vast reservoir of helpful code snippets.
 - [fio](https://github.com/axboe/fio) - Flexible I/O Tester.
 - [Sentry](https://github.com/getsentry/sentry) - Cross-platform application monitoring, with a focus on error reporting.
-- [Webflow](https://webflow.com/) - Gives you the power to design, build, and launch responsive websites visually, while writing clean, semantic code for you.
+- [Webflow](https://webflow.com/) - Gives you the power to design, build, and launch responsive websites visually, while writing clean, semantic code for you. ([Learn Webflow](https://flowmingo.co/))
 - [Quip](https://quip.com/) - Real-time document collaboration.
 - [Percy](https://percy.io/) - All-in-one visual review platform.
 - [Shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go.

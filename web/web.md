@@ -84,3 +84,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Wappalyzer](https://github.com/AliasIO/wappalyzer) - Identify technology on websites using an extension.
 - [h+h lab](https://hplu.sh/) - Lab to create urbanism for the modern Web. ([Principles](https://github.com/hplush/hplu.sh/blob/master/principles.md)) ([Code](https://github.com/hplush/hplu.sh))
 - [Phusion Passenger](https://github.com/phusion/passenger) - Fast and robust web server and application server for Ruby, Python and Node.js.
+- [Tiny websites are great (2020)](https://tinyprojects.dev/posts/tiny_websites_are_great) ([HN](https://news.ycombinator.com/item?id=23228904))

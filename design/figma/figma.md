@@ -24,3 +24,4 @@
 - [Figma Slack updates](https://github.com/jordansinger/figma-slack-updates) - Post updates to Slack from a Figma file's version history.
 - [Inside Figma: the product design team’s process (2020)](https://www.figma.com/blog/inside-figma-the-product-design-teams-process/)
 - [Bravo Studio](https://www.bravostudio.app/) - Turn Figma prototypes into native iOS & Android apps instantly. No code.
+- [Figma Events](https://www.figma.com/events/)
