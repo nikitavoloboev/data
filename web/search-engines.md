@@ -28,4 +28,4 @@
 - [Million Short](https://millionshort.com/) - Search engine that lets you exclude top sites.
 - [Ask HN: Is there a search engine which excludes the world's biggest websites? (2020)](https://news.ycombinator.com/item?id=23202850)
 - [Query Combinators (2017)](https://arxiv.org/abs/1702.08409)
-- [Quickref](https://quickref.dev/) - Experimental search engine for developers. Searches a curated subset of the web: official docs and community-driven sources.
+- [Quickref](https://quickref.dev/) - Experimental search engine for developers. Searches a curated subset of the web: official docs and community-driven sources. ([Lobsters](https://lobste.rs/s/dji0it/experimental_search_engine_for))

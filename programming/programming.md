@@ -158,3 +158,4 @@
 - [The find-and-replace Odyssey, a programmer's guide (2020)](https://about.sourcegraph.com/blog/a-programmers-guide-to-find-and-replace)
 - [Migrations: the sole scalable fix to tech debt (2018)](https://lethain.com/migrations/)
 - [Lobsters: What non-electron cross-platform GUI toolkit do you enjoy using? (2020)](https://lobste.rs/s/d2wsne/what_non_electron_cross_platform_gui)
+- [What Color is Your Function? (2015)](http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) ([HN](https://news.ycombinator.com/item?id=16732948))

@@ -202,3 +202,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Sci-fi interfaces](https://scifiinterfaces.com/)
 - [Ask HN: Is there still a place for native desktop apps? (2020)](https://news.ycombinator.com/item?id=23211851)
 - [What is a control system anyway? (2020)](https://feltrac.co/control/2020/01/12/simple-control-systems.html) ([HN](https://news.ycombinator.com/item?id=23222019))
+- [Favorite smells](https://twitter.com/rsms/status/1262764905871994881)

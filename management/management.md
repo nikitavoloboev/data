@@ -30,3 +30,4 @@
 - [Manager's Playbook](https://github.com/ksindi/managers-playbook#readme) - Heuristics for effective management.
 - [Spotify doesn’t use “the Spotify model” and neither should you (2020)](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 - [Top 100 Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers) ([Twitter](https://twitter.com/sachinrekhi/status/1256643491465007104))
+- [10 rules of a successful meeting in a tech company](https://twitter.com/tlakomy/status/1262767270062772224)
