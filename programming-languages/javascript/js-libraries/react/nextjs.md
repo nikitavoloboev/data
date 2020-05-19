@@ -73,3 +73,4 @@
 - [Improved Next.js and Gatsby page load performance with granular chunking (2020)](https://web.dev/granular-chunking-nextjs/)
 - [Building my first Next.js app (2020)](https://www.youtube.com/watch?v=Z0FUBQPXHMA)
 - [Next + Netlify Starter](https://github.com/cassidoo/next-netlify-starter)
+- [Handy new features in Next.js 9.4 (2020)](https://www.netlify.com/blog/2020/05/18/handy-new-features-in-next.js-9.4/)
