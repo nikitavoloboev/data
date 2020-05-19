@@ -122,6 +122,7 @@ Here are few more things I liked, design wise.
 - [Marvin Hagemeister](https://marvinh.dev/)
 - [Nienke Dekker](https://nienke.dev/)
 - [Jon Kuperman](https://jonkuperman.com/)
+- [Gavin Nelson](https://www.gnelsondesign.com/) ([Code](https://github.com/gavinmn/gnelsondesign))
 - [Patrik Huebner](https://www.patrik-huebner.com/)
 - [Matt Swanson](https://mdswanson.com/)
 - [Josh Comeau](https://joshwcomeau.com/)

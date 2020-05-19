@@ -26,6 +26,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Tray](https://tray.io/) - Quickly integrate your software applications using powerful automated workflows.
 - [golinks](https://github.com/prologic/golinks) - Web app that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance.
 - [namae](https://namae.dev/) - Check availability of your new app name candidates for major registries at once. ([Code](https://github.com/uetchy/namae))
+- [CommandE](https://getcommande.com/) - Instant Cloud Search.
 - [Parabola](https://parabola.io/) - Hand off your routine data tasks by describing them in Parabola. Build once, reuse infinitely. ([Article](https://www.tomosman.com/posts/what-is-parabola))
 - [Exploding Topics](https://explodingtopics.com/) - We surface rapidly growing topics before they take off.
 - [Hivewire](https://www.hivewire.co/) - Visual workflow builder for teams and individuals.
