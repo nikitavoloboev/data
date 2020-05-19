@@ -645,6 +645,7 @@
 - [Analytics](analytics/analytics.md)
 - [Databases](databases/databases.md)
   - [PostgreSQL](databases/postgresql.md)
+  - [SQLite](databases/sqlite.md)
   - [Redis](databases/redis.md)
   - [DynamoDB](databases/dynamodb.md)
   - [MongoDB](databases/mongodb.md)
