@@ -76,6 +76,7 @@
 - [Chalmers Online Functional Programming Seminar Series](http://chalmersfp.org/)
 - [Ask HN: How to be fluent in functional language speak? (2020)](https://news.ycombinator.com/item?id=23078173)
 - [A Quick Look at Impredicativity (Simon Peyton Jones) (2020)](https://www.youtube.com/watch?v=ZuNMo136QqI)
+- [Purely Functional Data Structures and Monoids (2020)](https://doisinkidney.com/pdfs/purely-functional-data-structures-slides.pdf)
 
 ## Images
 
