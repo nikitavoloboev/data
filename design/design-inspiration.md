@@ -110,6 +110,7 @@ Here are few more things I liked, design wise.
 - [Monica Lent](https://monicalent.com/)
 - [Sarah Lim](https://slim.computer/)
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))
+- [Zackary Scholl](https://schollz.com/blog/)
 - [Mackenzie Child](https://www.mackenziechild.me/)
 - [Serge Zaitsev](https://zserge.com/)
 - [Shihab Mehboob](https://www.pnguin.app/)

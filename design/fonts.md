@@ -16,7 +16,7 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Leon Sans](https://github.com/cmiscm/leonsans) - Geometric sans-serif typeface made with code in 2019 by Jongmin Kim.
 - [Codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification.
 - [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - Typeface for Developers. ([HN](https://news.ycombinator.com/item?id=22053998)) ([Code](https://github.com/JetBrains/JetBrainsMono))
-- [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code.
+- [Iosevka](https://github.com/be5invis/Iosevka) - Slender typeface for code, from code. ([HN](https://news.ycombinator.com/item?id=23230929))
 - [Victor Mono](https://rubjo.github.io/victor-mono/) ([Code](https://github.com/rubjo/victor-mono))
 - [Noto](https://github.com/googlefonts/noto-source) - Font for all the world's languages.
 - [Cozette](https://github.com/slavfox/Cozette) - Bitmap programming font optimized for coziness.
