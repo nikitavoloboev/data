@@ -313,6 +313,8 @@
 - [swift-exec](https://github.com/samuelmeuli/swift-exec) - Simple process execution with Swift.
 - [OpenAPIKit](https://github.com/mattpolzin/OpenAPIKit) - Codable Swift OpenAPI implementation.
 - [swift-sh](https://github.com/mxcl/swift-sh) - Easily script with third-party Swift dependencies.
+- [DeviceKit](https://github.com/devicekit/DeviceKit) - Value-type replacement of UIDevice.
+- [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - Swifty API for attributed strings.
 
 ## Other (not lib)
 
