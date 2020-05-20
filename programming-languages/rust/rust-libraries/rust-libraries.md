@@ -374,6 +374,7 @@
 - [rustc-demangle](https://github.com/alexcrichton/rustc-demangle) - Demangling for Rust symbols, written in Rust.
 - [Rust Typed Builder](https://github.com/idanarye/rust-typed-builder) - Creates a compile-time verified builder.
 - [Tether](https://github.com/quadrupleslap/tether) - Barebones Electron-ish library for Rust.
+- [event-listener](https://github.com/stjepang/event-listener) - Notify async tasks or threads.
 
 ## Cargo Plugins
 

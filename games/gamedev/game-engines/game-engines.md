@@ -31,6 +31,7 @@
 - [Falltergeist](https://github.com/falltergeist/falltergeist) - Open source cross platform Fallout 2™ game engine written in C++ and SDL.
 - [Vault13](https://github.com/pingw33n/vault13) - Reimplementation of Fallout 2 engine in Rust.
 - [Minetest](https://github.com/minetest/minetest) - Free open-source voxel game engine with easy modding and game creation.
+- [Crow](https://github.com/lcnr/crow) - Simple pixel perfect 2D rendering engine in Rust. ([Akari - game built with Crow](https://github.com/lcnr/akari))
 
 ## Links
 
