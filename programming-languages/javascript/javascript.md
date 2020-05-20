@@ -163,3 +163,4 @@
 - [Cleaner async JavaScript code without the try/catch mess (2020)](https://davidwells.io/blog/cleaner-async-await-code-without-try-catch)
 - [Shifty](https://github.com/jeremyckahn/shifty) - Tweening engine for JavaScript. It is a lightweight library meant to be encapsulated by higher level tools.
 - [jspm](https://github.com/jspm/jspm-cli) - Package management CLI.
+- [JS Bits](https://github.com/vasanthk/js-bits) - JavaScript concepts explained with code.

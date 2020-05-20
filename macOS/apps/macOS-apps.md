@@ -46,6 +46,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [RegEx+](https://github.com/lexrus/RegExPlus) - Nifty RegEx test tool built with SwiftUI.
 - [Glance](https://github.com/samuelmeuli/glance) - Provides Quick Look previews for files that macOS doesn't support out of the box.
 - [MonitorControl](https://github.com/the0neyouseek/MonitorControl) - Control your external monitor brightness & volume on your Mac.
+- [Up Next](https://ellen.li/up-next/) - Meetings at a glance from your macOS menu bar.
 
 ## Other interesting apps
 

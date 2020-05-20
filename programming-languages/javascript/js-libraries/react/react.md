@@ -129,3 +129,4 @@
 - [Throttling Subscription Events in React with Generators (2020)](https://theworst.dev/throttling-subscription-events-in-react-with-generators/)
 - [Complete Guide to React Rendering Behavior (2020)](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 - [React 2025 course](https://react2025.com/) - Build and deploy a modern Jamstack application using the most popular open-source software.
+- [React Bits](https://github.com/vasanthk/react-bits#readme) - Compilation of React Patterns, techniques, tips and tricks.

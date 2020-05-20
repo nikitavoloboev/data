@@ -19,3 +19,4 @@
 - [Thinking in Systems by Donella Meadows (2019)](http://beza1e1.tuxen.de/thinking_in_systems.html) ([Lobsters](https://lobste.rs/s/n7g3x5/thinking_systems_by_donella_meadows))
 - [Why Complexity is Different (2017)](https://mystudentvoices.com/why-complexity-is-different-ecd498e0eccb)
 - [Statistical process control after W. Edwards Deming](https://www.2uo.de/deming/)
+- [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)

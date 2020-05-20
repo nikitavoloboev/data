@@ -140,3 +140,4 @@
 - [A Single Div](https://a.singlediv.com/) - CSS drawings with only one HTML element. ([Code](https://github.com/lynnandtonic/a-single-div))
 - [CSSWG meeting minutes](https://lists.w3.org/Archives/Public/www-style/)
 - [new.css](https://newcss.net/) - Classless CSS framework to write modern websites using only HTML. ([Code](https://github.com/xz/new.css)) ([HN](https://news.ycombinator.com/item?id=23220081)) ([Night Theme](https://newcss.net/theme/night/))
+- [CSS Refresher Notes](https://github.com/vasanthk/css-refresher-notes#readme)

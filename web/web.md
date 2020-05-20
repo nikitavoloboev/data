@@ -87,3 +87,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Tiny websites are great (2020)](https://tinyprojects.dev/posts/tiny_websites_are_great) ([HN](https://news.ycombinator.com/item?id=23228904))
 - [The Hottest Websites from the Late 90s (2017)](https://vanschneider.com/hottest-websites-late-90s)
 - [SuckIT](https://github.com/Skallwar/suckit) - Allows you to recursively visit and download a website's content to your disk.
+- [How Web Works](https://github.com/vasanthk/how-web-works#readme) - What happens behind the scenes when we type www.google.com in a browser. ([Version 2](https://github.com/alex/what-happens-when#readme))

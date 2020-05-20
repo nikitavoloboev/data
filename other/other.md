@@ -30,7 +30,6 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [SV Dictionary](http://svdictionary.com/)
 - [Ask HN: What's the best documentation you've ever read?](https://news.ycombinator.com/item?id=17399340)
 - [1Password for Open Source Projects](https://github.com/1Password/1password-teams-open-source#readme) - Get a free 1Password Teams membership for your open source project.
-- [What happens when](https://github.com/alex/what-happens-when#readme) - Attempt to answer the age old interview question "What happens when you type google.com into your browser's address box and press enter?".
 - [Awesome answers](https://github.com/cyberglot/awesome-answers#readme)
 - [Upspin](https://github.com/upspin/upspin)
   - [The Upspin manifesto: On the ownership and sharing of data](https://commandcenter.blogspot.nl/2017/10/the-upspin-manifesto-on-ownership-and.html)

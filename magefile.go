@@ -15,6 +15,7 @@ import (
 // TODO: find .md files that are not in SUMMARY.md
 // TODO: run https://github.com/smallhadroncollider/brok on whole wiki
 // TODO: remove all ?utm extra useless stuff added to links
+// TODO: find broken links. Of this kind: `[]Link Title(https://..)` or similar
 
 // Find broken links
 func Clean() {
