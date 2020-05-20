@@ -25,3 +25,5 @@
 - [Feather](https://feather.id/docs) - Lightweight identity platform for adding flexible user authentication and authorization flows to your apps.
 - [Password authentication for web and mobile apps](https://dchest.com/authbook/)
 - [Authentication on the Client Side the Right Way: Cookies vs. Local Storage (2019)](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/) ([Reddit](https://www.reddit.com/r/javascript/comments/gm2taz/authentication_on_the_client_side_the_right_way/))
+- [JSON Web Token (JWT) RFC](https://tools.ietf.org/html/rfc7519) ([Lobsters](https://lobste.rs/s/a106ku/json_web_token_jwt_rfc))
+- [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/)

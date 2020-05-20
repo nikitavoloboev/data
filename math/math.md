@@ -142,4 +142,4 @@
 - [Project MOSAIC](http://mosaic-web.org/) - Community of educators working to develop a new way to introduce mathematics, statistics, computation and modeling to students in colleges and universities.
 - [The Psychology of Advanced Mathematical Thinking](https://homepages.warwick.ac.uk/staff/David.Tall/pdfs/dot1991k-psychology-of-amt.pdf)
 - [Against Set Theory (2005)](http://ontology.buffalo.edu/04/AgainstSetTheory.pdf) ([HN](https://news.ycombinator.com/item?id=23206937))
-- [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/dmoi3.html)
+- [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/dmoi3.html) ([HN](https://news.ycombinator.com/item?id=23214961))

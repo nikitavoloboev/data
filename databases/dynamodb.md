@@ -15,6 +15,7 @@
 - [Using (and Ignoring) DynamoDB Best Practices with Serverless | Alex DeBrie (2019)](https://acloud.guru/series/serverlessconf-nyc-2019/view/dynamodb-best-practices)
 - [Build with DynamoDB - Single-Table Design Pros and Cons (2020)](https://www.twitch.tv/videos/544223958)
 - [DQL](https://github.com/stevearc/dql) - SQL-ish language for DynamoDB.
+- [The DynamoDB Book: Data Modeling with NoSQL and DynamoDB](https://www.dynamodbbook.com/) ([HN](https://news.ycombinator.com/item?id=23193093))
 - [5 Things I Learned from The DynamoDB Book (2020)](https://www.swyx.io/writing/dynamodb-book/) ([Twitter](https://twitter.com/swyx/status/1247585165766832128))
 - [Rules for Data Modeling with DynamoDB (2020)](https://www.trek10.com/blog/the-ten-rules-for-data-modeling-with-dynamodb) ([HN](https://news.ycombinator.com/item?id=22813908))
 - [Dynobase](https://dynobase.dev/) - Professional GUI Client for DynamoDB.

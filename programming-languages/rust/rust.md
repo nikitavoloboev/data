@@ -213,3 +213,4 @@
 - [Getting Started with Rust by Building a Tiny Markdown Compiler (2019)](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/) ([HN](https://news.ycombinator.com/item?id=23206660))
 - [Rust Analyzer: Next Few Years (2020)](https://rust-analyzer.github.io/blog/2020/05/18/next-few-years.html) ([Reddit](https://www.reddit.com/r/rust/comments/gm1nr6/rustanalyzer_next_few_years/))
 - [Things I hate about Rust (2020)](https://blog.yossarian.net/2020/05/20/Things-I-hate-about-rust) ([HN](https://news.ycombinator.com/item?id=23246908))
+- [rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs.

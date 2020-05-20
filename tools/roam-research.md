@@ -20,3 +20,4 @@
 - [Breadcrumbs & Rabbit Holes with Roam (2020)](https://cosmiccomputation.org/journal/2020/05/breadcrumbs-and-rabbit-holes-with-roam-research/)
 - [Semilattice](https://www.semilattice.xyz/) - Concept of a tool for thought.
 - [Roam Highlighter extension](https://chrome.google.com/webstore/detail/roam-highlighter/hponfflfgcjikmehlcdcnpapicnljkkc)
+- [Computer Assisted Intuition: How Roam Research fulfills the web's original dream (2020)](https://capiche.com/e/roam-research-worldwideweb-xanadu)

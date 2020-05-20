@@ -54,6 +54,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [Deoplete](https://github.com/Shougo/deoplete.nvim) - Asynchronous completion framework.
 - [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [Autoformat](https://github.com/Chiel92/vim-autoformat) - Easy code formatting.
+- [traces.vim](https://github.com/markonm/traces.vim) - Range, pattern and substitute preview for Vim.
 - [Which key](https://github.com/liuchengxu/vim-which-key) - Show keybindings in popup.
 - [Sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
 - [Titlecase](https://github.com/christoomey/vim-titlecase) - Titlecase text.
