@@ -24,6 +24,7 @@
 - [Cloudflare](https://github.com/cloudflare/cloudflare-rs) - Rust library for the Cloudflare v4 API.
 - [Notion JS](https://github.com/dragonman225/notionapi-agent) - Unofficial Node.js API client for Notion.
 - [Notion TS](https://github.com/cstrnt/notion-api) - Unofficial Notion.so Wrapper.
+- [Notion Go](https://github.com/kjk/notionapi)
 - [Notion Python](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
 - [Google Cloud](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python.
 - [Reddit Go](https://github.com/turnage/graw)

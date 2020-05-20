@@ -76,6 +76,7 @@
 - [Preferences](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
 - [FileWatcher](https://github.com/eonist/FileWatcher) - Monitoring file system changes in macOS.
 - [CustomButton](https://github.com/sindresorhus/CustomButton) - Customizable button for your macOS app.
+- [KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - Add user-customizable global keyboard shortcuts to your macOS app in minutes.
 
 ## Web
 
