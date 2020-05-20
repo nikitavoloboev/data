@@ -21,3 +21,4 @@
 - [Semilattice](https://www.semilattice.xyz/) - Concept of a tool for thought.
 - [Roam Highlighter extension](https://chrome.google.com/webstore/detail/roam-highlighter/hponfflfgcjikmehlcdcnpapicnljkkc)
 - [Computer Assisted Intuition: How Roam Research fulfills the web's original dream (2020)](https://capiche.com/e/roam-research-worldwideweb-xanadu)
+- [Gatsby And Roam Research](https://github.com/mathieudutour/gatsby-n-roamresearch) - Pull data into Gatsby from Roam Research.
