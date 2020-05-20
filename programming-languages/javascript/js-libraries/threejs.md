@@ -8,3 +8,4 @@
 - [MagicShader](https://github.com/luruke/magicshader) - Tiny helper for three.js to debug and write shaders.
 - [camera-controls](https://github.com/yomotsu/camera-controls) - Camera control for three.js, similar to THREE.OrbitControls yet supports smooth transitions and more features.
 - [3D Underwater Maps (2020)](https://vulkd.com/articles/3d-underwater-maps/)
+- [react-xr](https://github.com/react-spring/react-xr) - VR/AR with react-three-fiber.

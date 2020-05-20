@@ -45,6 +45,7 @@
 - [Cantine](https://github.com/caio/cantine) - Cooking recipe search JSON API with over a million recipes.
 - [Binding and CLI generator for all google APIs](https://github.com/google-apis-rs/generator)
 - [CartQL](https://cartql.com/) - GraphQL Shopping Cart API.
+- [Binance Go](https://github.com/pdepip/go-binance)
 - [Stream](https://getstream.io/) - Enterprise Grade Feed & Chat APIs.
 - [Telegraph API](https://telegra.ph/api) - Minimalist publishing tool that allows you to create richly formatted posts and push them to the Web in just a click.
 - [Intercom Node](https://github.com/intercom/intercom-node) - Node.js bindings for the Intercom API.

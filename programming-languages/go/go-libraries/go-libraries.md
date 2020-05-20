@@ -405,6 +405,7 @@
 - [totp](https://github.com/sec51/twofactor) - Golang two factor authentication library.
 - [Orchestra](https://github.com/stephenafamo/orchestra) - Library to manage long running go processes.
 - [Emitter](https://github.com/olebedev/emitter) - Implements a channel-based pubsub pattern.
+- [micron](https://github.com/RussellLuo/micron) - Minimal implementation of the fault-tolerant job scheduler.
 
 ## Links
 
