@@ -11,3 +11,4 @@
 - [Towards understanding glasses with graph neural networks (2020)](https://deepmind.com/blog/article/Towards-understanding-glasses-with-graph-neural-networks)
 - [How Powerful are Graph Neural Networks?](https://github.com/weihua916/powerful-gnns)
 - [Resources for learning Graph Neural Networks for beginners (2020)](https://www.reddit.com/r/MLQuestions/comments/gk517g/resources_for_learning_graph_neural_networks_for/)
+- [Graph-based Deep Learning Literature](https://github.com/naganandy/graph-based-deep-learning-literature#readme)

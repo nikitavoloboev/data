@@ -71,7 +71,7 @@ Here are few more things I liked, design wise.
 - [Jane Wong](https://wongmjane.com/)
 - [Paul Stamatiou](https://paulstamatiou.com/)
 - [Artem Sapegin](https://sapegin.me/)
-- [Tobias van Schneider](https://www.vanschneider.com) - Has nice [now page](https://www.vanschneider.com/now).
+- [Tobias van Schneider](https://www.vanschneider.com) - Has nice [now](https://www.vanschneider.com/now) & [bio](https://vanschneider.com/bio) pages.
 - [Evan Jones](https://www.evanjones.ca/)
 - [John Otander](https://johno.com/) ([Code](https://github.com/johno/_))
 - [Karri Saarinen](https://karrisaarinen.com/)
