@@ -108,3 +108,6 @@
 - [bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF.
 - [Barrier](https://github.com/debauchee/barrier) - Software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers.
 - [Linux Productivity Tools (2019)](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf) ([HN](https://news.ycombinator.com/item?id=23229241))
+- [Using the KVM API](https://lwn.net/Articles/658511/)
+- [LWN.net](https://lwn.net/) - Reader-supported news site dedicated to producing the best coverage from within the Linux and free software development communities.
+- [KVM host in a few lines of code (2020)](https://zserge.com/posts/kvm/)
