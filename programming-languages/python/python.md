@@ -99,3 +99,4 @@
 - [Ultimate Setup for Your Next Python Project (2020)](https://towardsdatascience.com/ultimate-setup-for-your-next-python-project-179bda8a7c2c) ([Lobsters](https://lobste.rs/s/c5cpd0/ultimate_setup_for_your_next_python))
 - [reorder_python_imports](https://github.com/asottile/reorder_python_imports) - Tool for automatically reordering python imports. Similar to isort but uses static analysis more.
 - [Python performance: it’s not just the interpreter (2020)](http://blog.kevmod.com/2020/05/python-performance-its-not-just-the-interpreter/) ([HN](https://news.ycombinator.com/item?id=23235930))
+- [Automating Every Aspect of Your Python Project (2020)](https://martinheinz.dev/blog/17)

@@ -90,3 +90,4 @@
 - [CReduce - it’s a kind of magic! (2020)](https://linki.tools/2020/02/creduce-it-s-a-kind-of-magic.html)
 - [Compact lexer table representation (2020)](https://def.lakaban.net/posts/2020-05-02-compact-lexer-table-representation/)
 - [Reflections on Trusting Trust by Ken Thompson](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html) - Creating a version of C compiler that, when presented with the source code for the "login" program, would automatically compile in a backdoor to allow him entry to the system.
+- [Synthesizing JIT Compilers for In-Kernel DSLs](https://www.cs.utexas.edu/~isil/jitsynth.pdf)
