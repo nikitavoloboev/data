@@ -85,6 +85,7 @@
 - [Go SQLite3 driver](https://github.com/crawshaw/sqlite)
 - [txdb](https://github.com/DATA-DOG/go-txdb) - Immutable transaction isolated sql driver for golang.
 - [MySQL Compatible SQL Parser](https://github.com/pingcap/parser)
+- [athenadriver](https://github.com/uber/athenadriver) - Fully-featured AWS Athena database driver (plus a utility tool).
 
 ## ML
 
@@ -406,6 +407,7 @@
 - [Orchestra](https://github.com/stephenafamo/orchestra) - Library to manage long running go processes.
 - [Emitter](https://github.com/olebedev/emitter) - Implements a channel-based pubsub pattern.
 - [micron](https://github.com/RussellLuo/micron) - Minimal implementation of the fault-tolerant job scheduler.
+- [addchain](https://github.com/mmcloughlin/addchain) - Cryptographic Addition Chain Generation in Go.
 
 ## Links
 

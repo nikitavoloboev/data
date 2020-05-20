@@ -39,3 +39,4 @@
 - [The Browser Company](https://thebrowser.company/) - Building a better way to use the internet.
 - [Fast and reliable cross-browser testing with Playwright (2020)](https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f)
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file.
+- [XS-Leaks](https://github.com/xsleaks/xsleaks) - Collection of browser-based side channel attack vectors.

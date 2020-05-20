@@ -74,3 +74,4 @@
 - [Building my first Next.js app (2020)](https://www.youtube.com/watch?v=Z0FUBQPXHMA)
 - [Next + Netlify Starter](https://github.com/cassidoo/next-netlify-starter)
 - [Handy new features in Next.js 9.4 (2020)](https://www.netlify.com/blog/2020/05/18/handy-new-features-in-next.js-9.4/)
+- [TypeGraphQ, TypeORM & Next.js Boilerplate](https://github.com/tobiaslins/typesafety-from-db-to-frontend)

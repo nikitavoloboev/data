@@ -254,3 +254,4 @@ Go promotes composition over inheritance.
 - [How the Go runtime implements maps efficiently (without generics) (2018)](https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics)
 - [Write your own Go static analysis tool (2020)](https://about.houqp.me/posts/write-your-own-go-static-analysis-tool/) ([Lobsters](https://lobste.rs/s/dslgsa/write_your_own_go_static_analysis_tool))
 - [Hand-crafted Go exercises and examples](https://github.com/inancgumus/learngo) ([HN](https://news.ycombinator.com/item?id=23206440))
+- [GoLand Tips & Tricks](https://github.com/dlsniper/golandtipsandtricks)

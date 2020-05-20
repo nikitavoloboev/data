@@ -67,6 +67,7 @@
 - [KeyboardKit](https://github.com/danielsaidi/KeyboardKit) - Swift library that helps you create custom keyboards for iOS.
 - [CollectionLayouts](https://github.com/gringoireDM/LNZCollectionLayouts)
 - [KeyboardAvoider](https://github.com/michaelhenry/KeyboardAvoider) - Missing interactive keyboard in SwiftUI for iOS.
+- [RichEditorView](https://github.com/cjwirth/RichEditorView) - Simple, modular, drop-in UIView subclass for Rich Text Editing.
 
 ## macOS
 
@@ -120,6 +121,10 @@
 ## ML
 
 - [Swift for TensorFlow APIs](https://github.com/tensorflow/swift-apis)
+
+## DB
+
+- [SwiftSQL](https://github.com/kean/SwiftSQL) - Swift API for SQLite.
 
 ## Other
 
@@ -317,6 +322,8 @@
 - [swift-sh](https://github.com/mxcl/swift-sh) - Easily script with third-party Swift dependencies.
 - [DeviceKit](https://github.com/devicekit/DeviceKit) - Value-type replacement of UIDevice.
 - [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - Swifty API for attributed strings.
+- [Bow Arch](https://github.com/bow-swift/bow-arch) - Library to architect applications in pure Functional Programming, based on the notion of Comonadic User Interfaces.
+- [Regift](https://github.com/matthewpalmer/Regift) - Simple tool that can add and icon overlay with app version to your iOS app icon.
 
 ## Other (not lib)
 

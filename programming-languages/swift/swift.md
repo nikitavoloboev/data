@@ -107,3 +107,4 @@
 - [SwiftNIO Example Apps](https://github.com/apple/swift-nio-examples)
 - [Understanding type erasure in Swift (2020)](https://www.donnywals.com/understanding-type-erasure-in-swift/)
 - [try! Swift World](https://www.tryswift.co/world/) - Set of personal online workshops led by Swift developers around the world.
+- [SwiftTrace](https://github.com/johnno1962/SwiftTrace) - Trace Swift and Objective-C method invocations.

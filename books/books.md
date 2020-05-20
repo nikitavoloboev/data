@@ -204,3 +204,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Springer Link](https://link.springer.com/) - Over 10 million scientific documents at your fingertips.
 - [Python script to download all Springer books](https://github.com/alexgand/springer_free_books)
 - [The Tools I Use To Write Books (2018)](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
+- [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) - Python based software to unpack Amazon / Kindlegen generated ebooks.

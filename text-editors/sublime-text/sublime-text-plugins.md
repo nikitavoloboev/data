@@ -35,6 +35,7 @@ Below is a list of plugins I use.
 - [TodoReview](https://github.com/jonathandelgado/SublimeTodoReview) - Review TODO (and other) comments within your code.
 - [Language Server Protocol Support](https://github.com/tomv564/LSP) - Gives LSP IDE features.
 - [WakaTime](https://wakatime.com/sublime-text) - Automatic time tracking and metrics generated from your programming activity.
+- [Terminus](https://github.com/randy3k/Terminus) - Bring a real terminal to Sublime Text.
 
 ## Markdown
 
