@@ -16,3 +16,4 @@
 - [Apollo AWS Lambda with GraphQL subscriptions](https://github.com/michalkvasnicak/aws-lambda-graphql)
 - [Lambda Powertools](https://github.com/awslabs/aws-lambda-powertools) - Suite of utilities for AWS Lambda Functions that makes tracing with AWS X-Ray, structured logging and creating custom metrics asynchronously easier.
 - [Bash in AWS Lambda](https://github.com/gkrizek/bash-lambda-layer)
+- [AWS Lambda Go Api Proxy](https://github.com/awslabs/aws-lambda-go-api-proxy) - Makes it easy to run Golang APIs written with frameworks such as Gin with AWS Lambda and Amazon API Gateway.

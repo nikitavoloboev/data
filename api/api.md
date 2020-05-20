@@ -87,3 +87,4 @@
 - [Saasify](https://saasify.sh/) - Handles all of the SaaS boilerplate, including user accounts, subscription billing, developer docs, and a polished marketing site.
 - [Hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight, open source API simulation tool. Using Hoverfly, you can create realistic simulations of the APIs your application depends on.
 - [MetaMate](https://github.com/metamatex/metamate) - Open-source semantic service bus and provides you an api for everything. ([Web](https://metamate.io/))
+- [Unofficial APIs list](https://github.com/Rolstenhouse/unofficial-apis#readme)

@@ -50,3 +50,4 @@ Might give it a go sometime.
 - [Prettifying Org Mode with CSS (2020)](https://sandyuraz.com/articles/orgmode-css/) ([HN](https://news.ycombinator.com/item?id=23130104))
 - [Spacemacs and My Exit From VSCode (2020)](https://dev.to/zamhaq/spacemacs-and-my-exit-from-vscode-54o2) ([Lobsters](https://lobste.rs/s/zc0shz/spacemacs_my_exit_from_vscode))
 - [organice](https://organice.200ok.ch/) - Emacs Org Files in a Browser. ([HN](https://news.ycombinator.com/item?id=23151902))
+- [Learn Emacs Lisp in 15 minutes](https://bzg.fr/en/learn-emacs-lisp-in-15-minutes.html/)
