@@ -43,6 +43,7 @@
 - [Checkout](https://github.com/actions/checkout) - Action for checking out a repo.
 - [GitHub Actions for GitHub Pages](https://github.com/peaceiris/actions-gh-pages) - Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [lint-action](https://github.com/samuelmeuli/lint-action) - GitHub Action for detecting and fixing lint errors.
+- [automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests when they are ready.
 
 ## Go
 
