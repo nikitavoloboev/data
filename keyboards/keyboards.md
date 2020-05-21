@@ -56,3 +56,4 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [KeyToKey](https://github.com/TyberiusPrime/KeyToKey) - Rust keyboard firmware library.
 - [Mech Guide](https://rumech.guide/#/) - Проводник в мир механических клавиатур. ([Code](https://github.com/Flumeded/ru_mech))
 - [An unusual keyboard key switch](https://twitter.com/TubeTimeUS/status/1260688848104771586) ([HN](https://news.ycombinator.com/item?id=23178149))
+- [Mugur](https://github.com/mihaiolteanu/mugur) - High-level Lisp configurator for the ErgoDox EZ keyboard. ([HN](https://news.ycombinator.com/item?id=23244891))

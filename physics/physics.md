@@ -83,3 +83,4 @@
 - [DIY Particle Detector](https://github.com/ozel/DIY_particle_detector) - Mobile low-cost spectrometer for measuring radioactivity and the energy of ionising radiation like alpha particles and electrons. ([HN](https://news.ycombinator.com/item?id=23196177))
 - [Speed of light is the speed limit relative to what? (2020)](https://www.reddit.com/r/AskPhysics/comments/gkps4a/speed_of_light_is_the_speed_limit_relative_to_what/)
 - [We have yet to experimentally confirm that the electric potential is physical (2020)](https://www.reddit.com/r/Physics/comments/gl15nb/we_have_yet_to_experimentally_confirm_that_the/)
+- [Dirac, Penrose, and Wolfram (2020)](https://kirstenhacker.wordpress.com/2020/05/17/dirac-penrose-and-wolfram/)

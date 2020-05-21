@@ -15,7 +15,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Resea](https://github.com/seiyanuta/resea) - Pure microkernel-based hackable operating system written from scratch in C and Rust.
 - [Rux](https://github.com/sorpaas/rux) - Hobbyist microkernel written in Rust, featuring a capability-based system similar to seL4.
 - [redshirt](https://github.com/tomaka/redshirt) - Experiment to build some kind of operating-system-like environment where executables are all in WASM and are loaded from an IPFS-like decentralized network.
-- [Spectrum](https://spectrum-os.org/) - Step towards usable secure computing.
+- [Spectrum](https://spectrum-os.org/) - Step towards usable secure computing. ([Developer manual](https://spectrum-os.org/doc/developer-manual.html)) ([Discussions](https://spectrum-os.org/lists/hyperkitty/list/discuss@spectrum-os.org/))
 - [mikado](https://github.com/cavedweller/mikado) - RISC-V Experimental OS.
 - [mkernel](https://github.com/arjun024/mkernel) - Minimalist kernel which prints "my first kernel" on the screen and then hangs. ([HN](https://news.ycombinator.com/item?id=22087701))
 - [Barebones](https://github.com/fwsGonzo/barebones) - Barebones multiboot kernel for beginners.
