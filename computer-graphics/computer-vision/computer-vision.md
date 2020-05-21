@@ -54,3 +54,4 @@
 - [Making Sense of Vision and Touch: Multimodal Representations for Contact-Rich Tasks (2020)](http://ai.stanford.edu/blog/selfsupervised-multimodal/)
 - [ScreenPoint](https://github.com/cyrildiagne/screenpoint) - Project an image centroid to another image using OpenCV.
 - [U^2-Net](https://github.com/NathanUA/U-2-Net) - Code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection".
+- [TorchIO](https://github.com/fepegar/torchio) - Tools for medical image processing in deep learning.

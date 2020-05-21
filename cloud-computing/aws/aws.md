@@ -44,7 +44,6 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify#readme)
 - [Better Way to SSH in AWS (With RDS tunneling and security automation) (2020)](https://nullsweep.com/a-better-way-to-ssh-in-aws/)
 - [Serverless Microservice Patterns for AWS (2019)](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
-- [AWS SDK for Go v2](https://github.com/aws/aws-sdk-go-v2)
 - [SSM Helpers](https://github.com/disneystreaming/ssm-helpers) - Help manage AWS systems manager with helpers.
 - [The good parts of AWS - A visual summary (2020)](https://hassenchaieb.com/aws-good-parts/) ([HN](https://news.ycombinator.com/item?id=22608106))
 - [Amazon EKS workshop](https://github.com/pahud/amazon-eks-workshop)
@@ -63,9 +62,10 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Simple storage pricing calculator for AWS](https://www.duckbillgroup.com/aws-super-simple-storage-calculator/) ([HN](https://news.ycombinator.com/item?id=22971656))
 - [S3Proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API.
 - [saws](https://github.com/donnemartin/saws) - Supercharged AWS command line interface.
-- [AWS SDK for Go](https://github.com/aws/aws-sdk-go)
-- [AWS SDK for JavaScript](https://github.com/aws/aws-sdk-js-v3)
-- [AWS SDK for Haskell](https://github.com/brendanhay/amazonka) - Comprehensive Amazon Web Services SDK.
+- [AWS Go SDK](https://github.com/aws/aws-sdk-go-v2) ([version 1](https://github.com/aws/aws-sdk-go))
+- [AWS Python SDK](https://github.com/boto/boto3) ([botocore - low-level, core functionality of boto 3](https://github.com/boto/botocore))
+- [AWS JS SDK](https://github.com/aws/aws-sdk-js-v3)
+- [AWS Haskell SDK](https://github.com/brendanhay/amazonka/ TODO: )
 - [Amazon EKS User Guide](https://github.com/awsdocs/amazon-eks-user-guide)
 - [HN: AWS EC2 General Price Cut (2020)](https://news.ycombinator.com/item?id=23129730)
 - [AWS Services You Should Avoid (2020)](https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd) ([HN](https://news.ycombinator.com/item?id=23131449))
