@@ -57,6 +57,8 @@
 - [AbstractTrees](https://github.com/JuliaCollections/AbstractTrees.jl) - Abstract julia interfaces for working with trees.
 - [Lazy.jl](https://github.com/MikeInnes/Lazy.jl) - Provides Julia with the cornerstones of functional programming - lazily-evaluated lists and a large library of functions for working with them.
 - [BenchmarkTools.jl](https://github.com/JuliaCI/BenchmarkTools.jl) - Benchmarking framework for the Julia language.
+- [Dash](https://github.com/plotly/Dash.jl) - Create beautiful, analytic applications in Julia.
+- [MLStyle.jl](https://github.com/thautwarm/MLStyle.jl) - Julia functional programming infrastructures and metaprogramming facilities.
 
 ## Links
 

@@ -29,3 +29,4 @@
 - [Common Voice](https://voice.mozilla.org/en) - Mozilla's initiative to help teach machines how real people speak.
 - [Replica Dataset](https://github.com/facebookresearch/Replica-Dataset) - Dataset of high quality reconstructions of a variety of indoor spaces.
 - [Using Decision Trees for charting ill-behaved datasets (2020)](https://vvvvalvalval.github.io/posts/2020-05-15_Using-Decision-Trees-for-charting-ill-behaved-datasets.html)
+- [Human parsing datasets](https://github.com/HumanParsingSDK/datasets)

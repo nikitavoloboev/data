@@ -69,6 +69,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Computational Category Theory in Python](http://www.philipzucker.com/computational-category-theory-in-python-i-dictionaries-for-finset/) ([HN](https://news.ycombinator.com/item?id=23058551))
 - [HN: Applied Category Theory (2019)(https://news.ycombinator.com/item?id=23048149)
 - [Definition of a monoidal category summarised in string diagrams](https://twitter.com/NathanielVirgo/status/1262019641720832001)
+- [Statebox Category Theory Course](https://training.statebox.org/)
 
 ## Images
 

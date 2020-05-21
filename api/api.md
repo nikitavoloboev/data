@@ -90,3 +90,4 @@
 - [Hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight, open source API simulation tool. Using Hoverfly, you can create realistic simulations of the APIs your application depends on.
 - [MetaMate](https://github.com/metamatex/metamate) - Open-source semantic service bus and provides you an api for everything. ([Web](https://metamate.io/))
 - [Unofficial APIs list](https://github.com/Rolstenhouse/unofficial-apis#readme)
+- [OpenAutoComplete](https://github.com/openautocomplete/openautocomplete) - Shell-agnostic, declarative CLI autocomplete specification.
