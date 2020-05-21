@@ -19,3 +19,4 @@
 - [Next-Gen Sequence Analysis Workshop (2019)](https://angus.readthedocs.io/en/2019/)
 - [Korkin Lab](http://korkinlab.org/)
 - [Varlociraptor](https://github.com/varlociraptor/varlociraptor) - Flexible, uncertainty-aware variant calling with parameter free filtration via FDR control.
+- [genetools](https://genetools.maximz.com/) - Single-cell analysis recipes. ([Code](https://github.com/maximz/genetools))
