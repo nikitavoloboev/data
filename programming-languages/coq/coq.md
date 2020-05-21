@@ -29,3 +29,4 @@
 - [Coq'Art](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book.
 - [Awesome Coq](https://github.com/coq-community/awesome-coq#readme)
 - [Interaction Trees - Representing Recursive and Impure Programs in Coq (2020)](https://poisson.chat/popl20/itrees.pdf)
+- [Formal Reasoning About Programs](https://github.com/achlipala/frap) - In-progress, open-source book by Adam Chlipala simultaneously introducing the Coq proof assistant and techniques for proving correctness of programs.

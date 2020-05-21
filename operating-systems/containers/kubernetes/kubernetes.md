@@ -185,3 +185,4 @@
 - [Building a TODO API in Golang with Kubernetes (2020)](https://levelup.gitconnected.com/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029)
 - [Permission manager](https://github.com/sighupio/permission-manager) - Enables a super-easy and user-friendly RBAC management for Kubernetes.
 - [kube-score](https://github.com/zegl/kube-score) - Tool that performs static code analysis of your Kubernetes object definitions.
+- [k3s](https://github.com/rancher/k3d) - Lightweight Kubernetes distribution by Rancher.

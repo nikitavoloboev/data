@@ -113,6 +113,7 @@
 
 - [Quick](https://github.com/Quick/Quick) - Behavior-driven development framework for Swift and Objective-C.
 - [Muter](https://github.com/muter-mutation-testing/muter) - Automated mutation testing for Swift.
+- [AccessibilitySnapshot](https://github.com/cashapp/AccessibilitySnapshot) - Makes it simple to add regression tests for accessibility in UIKit.
 
 ## API
 
