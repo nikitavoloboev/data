@@ -255,3 +255,5 @@ Go promotes composition over inheritance.
 - [Write your own Go static analysis tool (2020)](https://about.houqp.me/posts/write-your-own-go-static-analysis-tool/) ([Lobsters](https://lobste.rs/s/dslgsa/write_your_own_go_static_analysis_tool))
 - [Hand-crafted Go exercises and examples](https://github.com/inancgumus/learngo) ([HN](https://news.ycombinator.com/item?id=23206440))
 - [GoLand Tips & Tricks](https://github.com/dlsniper/golandtipsandtricks)
+- [gorram](https://github.com/natefinch/gorram) - Like go run for any go function.
+- [errwrap](https://github.com/fatih/errwrap) - Go tool to wrap and fix errors with the new %w verb directive.

@@ -28,3 +28,5 @@
 - [Don't Write Tests, Generate Them - Property Based Testing in Elixir (2018)](https://www.youtube.com/watch?v=VhW9D0mbW1o)
 - [ElixirConf 2019 - Lumen: new compiler and runtime for BEAM languages](https://www.youtube.com/watch?v=uMgTIlgYB-U&list=PLqj39LCvnOWYTNs1n3ZNMSNO3Svv_XweT&index=3&t=0s)
 - [Lovely week with Elixir (2020)](https://www.ramblingcode.dev/posts/lovely_week_with_elixir/) ([HN](https://news.ycombinator.com/item?id=23249824))
+- [Elixir & OTP course](https://pragmaticstudio.com/courses/elixir)
+- [Phoenix LiveView course](https://pragmaticstudio.com/phoenix-liveview)

@@ -12,3 +12,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Tips for the Depressed](https://nplusonemag.com/online-only/online-only/tips-for-the-depressed/)
 - [25 mental health wellness tips](https://www.thisisbrave.org/2020/03/26/25-mental-health-wellness-tips-for-quarantine-by-eileen-feliciano/)
 - [Extremely disillusioned with technology. Please help](https://gist.github.com/mGBUfLn9/7cadffcf7c3c23b7376350165a67735f) ([HN](https://news.ycombinator.com/item?id=23072333))
+- [Surviving Depression](https://vishnu.tech/posts/surviving-depression/) ([HN](https://news.ycombinator.com/item?id=23250234))

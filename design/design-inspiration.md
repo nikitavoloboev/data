@@ -97,6 +97,7 @@ Here are few more things I liked, design wise.
 - [Nuno Coelho Santos](https://nunocoelhosantos.com/)
 - [Kellie Kowalski](https://www.kelliekowalski.com/)
 - [Amanda Pinsker](https://amandapinsker.com/) ([Code](https://github.com/ampinsk/ampinsk.github.io))
+- [Stefan Judis](https://www.stefanjudis.com/)
 - [William Falcon](https://www.williamfalcon.com/)
 - [Amruth Pillai](https://amruthpillai.com/) ([Code](https://github.com/AmruthPillai/ResumeOnTheWeb-Gatsby))
 - [Hansen Zhang](https://hansenzhang.com/)

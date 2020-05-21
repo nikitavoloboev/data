@@ -38,6 +38,7 @@
 - [connection-string](https://github.com/vitaly-t/connection-string) - Advanced URL Connection String parser.
 - [Purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript.
 - [monocle-ts](https://github.com/gcanti/monocle-ts) - Functional optics: a (partial) porting of Scala monocle.
+- [ts-interface-checker](https://github.com/gristlabs/ts-interface-checker) - Runtime library to validate data against TypeScript interfaces.
 
 ## Links
 

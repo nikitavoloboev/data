@@ -160,3 +160,4 @@
 - [Lobsters: What non-electron cross-platform GUI toolkit do you enjoy using? (2020)](https://lobste.rs/s/d2wsne/what_non_electron_cross_platform_gui)
 - [What Color is Your Function? (2015)](http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/) ([HN](https://news.ycombinator.com/item?id=16732948))
 - [So, what does it mean to be a senior developer? (2020)](https://djquery.dev/what-does-it-mean-to-be-a-senior-developer)
+- [The Wet Codebase by Dan Abramov (2019)](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)

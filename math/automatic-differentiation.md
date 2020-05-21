@@ -8,3 +8,4 @@
 - [Taichi](http://taichi.graphics/) - Data-oriented programming language. Decouples computation from data organization. ([Code](https://github.com/taichi-dev/taichi))
 - [Demystifying Differentiable Programming: Shift/Reset the Penultimate Backpropagator (2019)](https://arxiv.org/abs/1803.10228)
 - [Forward-mode Automatic Differentiation for TensorFlow](https://github.com/renmengye/tensorflow-forward-ad)
+- [Automatic Differentiation tools for both forward and reverse mode written for R6RS Scheme](https://github.com/qobi/R6RS-AD)

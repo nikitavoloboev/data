@@ -14,3 +14,4 @@
 - [Can we extrapolate, what the universe beyond the observable universe looks like (will look like?) from its "fingerprint" in the cosmic background radiation?](https://www.reddit.com/r/AskPhysics/comments/g5qe2f/can_we_extrapolate_what_the_universe_beyond_the/)
 - [Probing cosmic isotropy with a new X-ray galaxy cluster sample through the LX–T scaling relation (2019)](https://www.aanda.org/articles/aa/abs/2020/04/aa36602-19/aa36602-19.html)
 - [Beyond the Cosmic Horizon (2019)](https://www.youtube.com/watch?v=kZ3M6ko9pes)
+- [Event Horizons, Singularities and Other Exotic Spacetime Phenomena (2020)](https://writings.stephenwolfram.com/2020/05/event-horizons-singularities-and-other-exotic-spacetime-phenomena/) ([HN](https://news.ycombinator.com/item?id=23251035))

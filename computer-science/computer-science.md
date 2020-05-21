@@ -51,3 +51,4 @@
 - [Applying to Ph.D. Programs in Computer Science (2014)](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) ([HN](https://news.ycombinator.com/item?id=23164618))
 - [Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin](https://sharjeelsayed.github.io/selfupgradeitprof.txt)
 - [How to Run Algorithmic Information Theory on a Computer (1995)](https://arxiv.org/abs/chao-dyn/9509014v2) ([HN](https://news.ycombinator.com/item?id=23242549))
+- [Nature Computational Science](https://www.nature.com/natcomputsci) - Online-only journal focused on the development and use of computational techniques and mathematical models to address complex problems across a range of disciplines.

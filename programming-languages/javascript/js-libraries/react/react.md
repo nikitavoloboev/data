@@ -130,3 +130,4 @@
 - [Complete Guide to React Rendering Behavior (2020)](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/) ([Reddit](https://www.reddit.com/r/reactjs/comments/gkxs7g/a_mostly_complete_guide_to_react_rendering/))
 - [React 2025 course](https://react2025.com/) - Build and deploy a modern Jamstack application using the most popular open-source software.
 - [React Bits](https://github.com/vasanthk/react-bits#readme) - Compilation of React Patterns, techniques, tips and tricks.
+- [React Security](https://reactsecurity.io/) - Learn how to properly secure your React app for the real world.

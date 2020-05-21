@@ -29,3 +29,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [grex](https://github.com/pemistahl/grex) - Command-line tool and library for generating regular expressions from user-provided test cases.
 - [Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me/) ([HN](https://news.ycombinator.com/item?id=23042079))
 - [regHEX](https://github.com/kitten/reghex) - Magical sticky regex-based parser generator.
+- [tiny-regex-c](https://github.com/kokke/tiny-regex-c) - Small portable regex in C.

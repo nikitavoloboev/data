@@ -20,3 +20,4 @@
 - [Ray Tracing with POV-Ray](https://github.com/spcask/pov-ray-tracing) ([Lobsters](https://lobste.rs/s/qczs5u/ray_tracing_with_pov_ray_25_scenes_25_days)) ([HN](https://news.ycombinator.com/item?id=23042993))
 - [bvh](https://github.com/svenstaro/bvh) - Rust crate which exports rays, axis-aligned bounding boxes, and binary bounding volume hierarchies.
 - [Revisiting the Businesscard Raytracer (2020)](http://fabiensanglard.net/revisiting_the_businesscard_raytracer/index.html)
+- [Ray Tracing In Notepad.exe At 30 FPS (2020)](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html) ([HN](https://news.ycombinator.com/item?id=23246221))

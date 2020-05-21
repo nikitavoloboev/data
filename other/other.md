@@ -203,3 +203,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [What is a control system anyway? (2020)](https://feltrac.co/control/2020/01/12/simple-control-systems.html) ([HN](https://news.ycombinator.com/item?id=23222019))
 - [Favorite smells](https://twitter.com/rsms/status/1262764905871994881)
 - [Lunchclub](https://lunchclub.ai/) - Smart introductions to relevant people. Curated 1:1 professional connections.
+- [Suggest Subreddit](https://github.com/nikaspran/suggest-subreddit) - Recommend subreddits based on what the user is already subscribed to.

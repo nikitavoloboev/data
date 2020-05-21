@@ -27,3 +27,4 @@
 - [Authentication on the Client Side the Right Way: Cookies vs. Local Storage (2019)](https://www.taniarascia.com/full-stack-cookies-localstorage-react-express/) ([Reddit](https://www.reddit.com/r/javascript/comments/gm2taz/authentication_on_the_client_side_the_right_way/))
 - [JSON Web Token (JWT) RFC](https://tools.ietf.org/html/rfc7519) ([Lobsters](https://lobste.rs/s/a106ku/json_web_token_jwt_rfc))
 - [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/)
+- [Zero-knowledge Auth](https://gist.github.com/ai/5e0a1975e2a0971c66232d33fd526dbf)

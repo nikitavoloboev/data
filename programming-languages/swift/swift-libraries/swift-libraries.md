@@ -107,6 +107,7 @@
 - [FloatingButton](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 - [CombineMIDI](https://github.com/mkj-is/CombineMIDI) - Connect MIDI using Combine to SwiftUI (or UIKit).
 - [PureSwiftUI](https://github.com/CodeSlicing/pure-swift-ui) - Bringing Views into Focus.
+- [CodeScanner](https://github.com/twostraws/CodeScanner) - SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.
 
 ## Test
 
