@@ -409,6 +409,7 @@
 - [micron](https://github.com/RussellLuo/micron) - Minimal implementation of the fault-tolerant job scheduler.
 - [addchain](https://github.com/mmcloughlin/addchain) - Cryptographic Addition Chain Generation in Go.
 - [go-farm](https://github.com/dgryski/go-farm) - Google's FarmHash hash functions implemented in Go.
+- [bleve](https://github.com/blevesearch/bleve) - Modern text indexing library for go.
 
 ## Links
 

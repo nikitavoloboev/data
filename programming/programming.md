@@ -162,3 +162,4 @@
 - [So, what does it mean to be a senior developer? (2020)](https://djquery.dev/what-does-it-mean-to-be-a-senior-developer)
 - [The Wet Codebase by Dan Abramov (2019)](https://www.deconstructconf.com/2019/dan-abramov-the-wet-codebase)
 - [Ask HN: Why isn’t visual programming a bigger thing? (2020)](https://news.ycombinator.com/item?id=23252448)
+- [The Unreasonable Effectiveness Of Declarative Programming (2020)](https://bollu.github.io/mathemagic/declarative/index.html) ([HN](https://news.ycombinator.com/item?id=23231361))

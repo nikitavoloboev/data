@@ -10,3 +10,4 @@
 - [NNG: Lightweight Messaging Library](https://github.com/nanomsg/nng) - Lightweight, broker-less library, offering a simple API to solve common recurring messaging problems, such as publish/subscribe, RPC-style request/reply, or service discovery.
 - [Remotely like a procedure call (2020)](http://funcall.blogspot.com/2020/01/remotely-like-procedure-call.html)
 - [gorums](https://github.com/relab/gorums) - Framework for simplifying the design and implementation of fault-tolerant quorum-based protocols.
+- [Go Plugin System over RPC](https://github.com/hashicorp/go-plugin)

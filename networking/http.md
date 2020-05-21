@@ -53,3 +53,4 @@
 - [The HTTP headers you don't expect (2020)](https://frenxi.com/http-headers-you-dont-expect/) ([Reddit](https://www.reddit.com/r/programming/comments/gl183w/the_http_headers_you_dont_expect/)) ([HN](https://news.ycombinator.com/item?id=23187948))
 - [DOM4](https://github.com/WebReflection/dom4) - Fully tested and covered polyfill for new DOM Level 4 entries.
 - [How HTTP Requests Work (2020)](https://lobste.rs/s/qvdgfa/how_http_requests_work)
+- [templar](https://github.com/vektra/templar) - HTTP proxy to improve usage of HTTP APIs.

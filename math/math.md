@@ -143,3 +143,4 @@
 - [The Psychology of Advanced Mathematical Thinking](https://homepages.warwick.ac.uk/staff/David.Tall/pdfs/dot1991k-psychology-of-amt.pdf)
 - [Against Set Theory (2005)](http://ontology.buffalo.edu/04/AgainstSetTheory.pdf) ([HN](https://news.ycombinator.com/item?id=23206937))
 - [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/dmoi3.html) ([HN](https://news.ycombinator.com/item?id=23214961))
+- [Graduate Student Solves Decades-Old Conway Knot Problem (2020)](https://www.quantamagazine.org/graduate-student-solves-decades-old-conway-knot-problem-20200519/) ([HN](https://news.ycombinator.com/item?id=23236599))

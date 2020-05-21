@@ -257,3 +257,4 @@ Go promotes composition over inheritance.
 - [GoLand Tips & Tricks](https://github.com/dlsniper/golandtipsandtricks)
 - [gorram](https://github.com/natefinch/gorram) - Like go run for any go function.
 - [errwrap](https://github.com/fatih/errwrap) - Go tool to wrap and fix errors with the new %w verb directive.
+- [mockery](https://github.com/vektra/mockery) - Mock code autogenerator for golang.
