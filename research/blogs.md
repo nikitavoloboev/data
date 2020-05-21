@@ -43,6 +43,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Lilian Weng](https://lilianweng.github.io/lil-log/) ([Code](https://github.com/lilianweng/lil-log/tree/gh-pages))
 - [Frank McSherry](https://github.com/frankmcsherry/blog)
 - [Serge Zaitsev](https://zserge.com/)
+- [Alastair Reid](https://alastairreid.github.io/)
 
 ## Links
 
