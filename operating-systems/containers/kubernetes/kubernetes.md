@@ -186,3 +186,4 @@
 - [Permission manager](https://github.com/sighupio/permission-manager) - Enables a super-easy and user-friendly RBAC management for Kubernetes.
 - [kube-score](https://github.com/zegl/kube-score) - Tool that performs static code analysis of your Kubernetes object definitions.
 - [k3s](https://github.com/rancher/k3d) - Lightweight Kubernetes distribution by Rancher.
+- [10 common mistakes using kubernetes (2020)](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
