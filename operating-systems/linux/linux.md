@@ -2,7 +2,7 @@
 
 ## Distributions
 
-- [KISS](https://k1ss.org/) ([Code](https://github.com/kisslinux/website))
+- [KISS](https://k1ss.org/) ([Code](https://github.com/kisslinux/website)) ([HN](https://news.ycombinator.com/item?id=23255642))
 
 ## WM
 

@@ -13,3 +13,4 @@
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor.
 - [pdiffjson](https://github.com/jlevy/pdiffjson) - Diff JSON the easy way.
 - [Type Safety with JSON Subschema (2019)](https://arxiv.org/pdf/1911.12651.pdf)
+- [flatted](https://github.com/WebReflection/flatted) - Fast and minimal circular JSON parser.

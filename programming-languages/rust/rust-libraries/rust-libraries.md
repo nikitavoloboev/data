@@ -376,6 +376,7 @@
 - [Tether](https://github.com/quadrupleslap/tether) - Barebones Electron-ish library for Rust.
 - [event-listener](https://github.com/stjepang/event-listener) - Notify async tasks or threads.
 - [cached](https://github.com/jaemk/cached) - Rust cache structures and easy function memoization.
+- [tsunami](https://github.com/jonhoo/tsunami) - Rust crate for running one-off cloud jobs.
 
 ## Cargo Plugins
 
