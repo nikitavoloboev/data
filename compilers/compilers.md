@@ -91,3 +91,4 @@
 - [Compact lexer table representation (2020)](https://def.lakaban.net/posts/2020-05-02-compact-lexer-table-representation/)
 - [Reflections on Trusting Trust by Ken Thompson](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html) - Creating a version of C compiler that, when presented with the source code for the "login" program, would automatically compile in a backdoor to allow him entry to the system.
 - [Synthesizing JIT Compilers for In-Kernel DSLs](https://www.cs.utexas.edu/~isil/jitsynth.pdf)
+- [Diagrams for Composing Compilers (2020)](https://johnwickerson.wordpress.com/2020/05/21/diagrams-for-composing-compilers/)

@@ -13,3 +13,4 @@
 - [Interactive shell of assembly language(X86/X64) based on unicorn and keystone](https://github.com/cch123/asm-cli)
 - [Let's Learn x86-64 Assembly! (2020)](https://gpfault.net/posts/asm-tut-0.txt.html)
 - [int 80h](http://int80h.org/) - Learn Assembly using OpenBSD as base OS.
+- [Assembly’s Perspective (2020)](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/)
