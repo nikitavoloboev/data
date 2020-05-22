@@ -47,7 +47,7 @@
 - [hy](https://github.com/hylang/hy) - Dialect of Lisp that's embedded in Python.
 - [Simple lisp interpreter written from scratch in TS](https://github.com/christianscott/lisp)
 - [Why is Lisp not as popular as Python? (2020)](https://lobste.rs/s/f0rlcw/why_is_lisp_not_as_popular_as_python)
-- [Janet](https://janet-lang.org/) - Lightweight, expressive and modern Lisp. ([HN](https://news.ycombinator.com/item?id=23164614)) ([Code](https://github.com/janet-lang/janet))
+- [Janet](https://janet-lang.org/) - Lightweight, expressive and modern Lisp. ([HN](https://news.ycombinator.com/item?id=23164614)) ([Code](https://github.com/janet-lang/janet)) ([Awesome](https://github.com/ahungry/awesome-janet#readme))
 - [History of Lisp - John McCarthy (1979)](http://jmc.stanford.edu/articles/lisp/lisp.pdf) ([HN](https://news.ycombinator.com/item?id=23201888))
 - [Quasiquote - Literal Magic (2020)](https://weinholt.se/articles/quasiquote-literal-magic/) ([Lobsters](https://lobste.rs/s/dqhszz/quasiquote_literal_magic))
 - [Ronin](https://100r.co/site/ronin.html) - Lisp-based image processing tool. ([HN](https://news.ycombinator.com/item?id=23211273))

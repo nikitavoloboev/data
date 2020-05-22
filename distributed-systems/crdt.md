@@ -20,3 +20,4 @@
 - [Peter Bourgon on CRDTs and State at the Edge (2020)](https://overcast.fm/+GdnXKIjWQ)
 - [Moving Elements in List CRDTs](https://martin.kleppmann.com/papers/list-move-papoc20.pdf)
 - [Chronofold: a data structure for versioned text (2020)](https://arxiv.org/abs/2002.09511v4)
+- [roshi](https://github.com/soundcloud/roshi) - Large-scale CRDT set implementation for timestamped events.
