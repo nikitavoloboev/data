@@ -71,3 +71,4 @@
 - [The AI Economist: Improving Equality and Productivity with AI-Driven Tax Policies (2020)](https://blog.einstein.ai/the-ai-economist/) ([Paper](https://arxiv.org/abs/2004.13332)) ([Twitter](https://twitter.com/RichardSocher/status/1255554801510674432))
 - [mentalRL](https://github.com/doerlbh/mentalRL) - A Story of Two Streams: Reinforcement Learning Models from Human Behavior and Neuropsychiatry.
 - [Reinforcement Learning With TicTacToe](https://github.com/rolyatmax/tictactoe)
+- [Coach](https://github.com/NervanaSystems/coach) - Python reinforcement learning framework containing implementation of many state-of-the-art algorithms.

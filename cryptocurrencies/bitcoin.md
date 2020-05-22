@@ -29,3 +29,4 @@
 - [PoX: Proof of Transfer Mining with Bitcoin (2020)](https://blockstack.org/pox.pdf)
 - [Bitcoin for the Open-Minded Skeptic (2020)](https://www.paradigm.xyz/Bitcoin_For_The_Open_Minded_Skeptic.pdf)
 - [Neutrino](https://github.com/lightninglabs/neutrino) - Privacy-Preserving Bitcoin Light Client.
+- [bwt](https://github.com/shesek/bwt) - Lightweight HD wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
