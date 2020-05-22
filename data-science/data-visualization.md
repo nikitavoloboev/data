@@ -39,3 +39,4 @@
 - [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - QT5 based application to display time series in plots, using an intuitive "drag and drop" interface.
 - [Lightweight Charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas.
 - [Glue](https://github.com/glue-viz/glue) - Python project to link visualizations of scientific datasets across many files.
+- [Learning Observable](https://www.youtube.com/playlist?list=PLOHIJAFwtkEfEsafMd9BY3KWsRrz7FV5e)

@@ -9,3 +9,4 @@
 - [log.c](https://github.com/rxi/log.c) - Simple logging library implemented in C99.
 - [OpenTelemetry](https://opentelemetry.io/) - Provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application.
 - [The logging framework isn't a bottleneck, and other lies your laptop tells you (2020)](https://tech.davis-hansson.com/p/tower/) ([Lobsters](https://lobste.rs/s/od1ehi/logging_framework_isn_t_bottleneck_other))
+- [Logstash](https://github.com/elastic/logstash) - Transport and process your logs, events, or other data.
