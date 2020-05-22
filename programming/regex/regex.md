@@ -30,3 +30,4 @@ Small tip, [regex101](https://regex101.com) has night mode.
 - [Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me/) ([HN](https://news.ycombinator.com/item?id=23042079))
 - [regHEX](https://github.com/kitten/reghex) - Magical sticky regex-based parser generator.
 - [tiny-regex-c](https://github.com/kokke/tiny-regex-c) - Small portable regex in C.
+- [Structural Regular Expressions - Rob Pike](http://doc.cat-v.org/bell_labs/structural_regexps/se.pdf) ([Lobsters](https://lobste.rs/s/1aocan/structural_regular_expressions_1987))

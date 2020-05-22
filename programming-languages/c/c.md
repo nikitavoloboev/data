@@ -43,3 +43,4 @@
 - [Verified sequential malloc/free](https://www.cs.princeton.edu/~appel/papers/memmgr.pdf) ([HN](https://news.ycombinator.com/item?id=23046356))
 - [Fat pointers in C using libcello](http://libcello.org/learn/a-fat-pointer-library) ([HN](https://news.ycombinator.com/item?id=23016001))
 - [Embracing modularity with Meson (2020)](https://brennan.io/2020/05/08/meson/)
+- [Some Were Meant for C - The Endurance of an Unmanageable Language (2017)](https://www.cs.kent.ac.uk/people/staff/srk21/research/papers/kell17some-preprint.pdf) ([Lobsters](https://lobste.rs/s/o0xtns/some_were_meant_for_c))
