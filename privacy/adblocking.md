@@ -10,3 +10,4 @@
 - [Ad blocking with Raspberry Pi and Pi-hole (2020)](https://cri.dev/posts/2020-05-03-Ad-blocking-with-Raspberry-Pi-and-Pi-hole/) ([HN](https://news.ycombinator.com/item?id=23073109))
 - [Hole Stats](https://gumroad.com/l/iqhwv) - Follow up and manage the status of your Pi-hole with this simple macOS app that lives in your menu bar.
 - [Pi Stats](https://github.com/Bunn/PiStats) - macOS app to visualize Pi-hole information.
+- [Should I Block Ads? (2020)](https://shouldiblockads.com/) ([HN](https://news.ycombinator.com/item?id=23276117))

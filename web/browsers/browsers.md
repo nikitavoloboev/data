@@ -41,3 +41,4 @@
 - [SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file.
 - [XS-Leaks](https://github.com/xsleaks/xsleaks) - Collection of browser-based side channel attack vectors.
 - [Responsively App](https://github.com/manojVivek/responsively-app) - Modified browser that helps in responsive web development.
+- [Things I wish I knew before making a paid extension (2019)](https://www.amie-chen.com/blog/making-paid-extension/)
