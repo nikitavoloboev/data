@@ -46,3 +46,4 @@
 - [DevCleaner](https://github.com/vashpan/xcode-dev-cleaner) - Reclaim tens of gigabytes of your storage used for various Xcode caches.
 - [nef](https://github.com/bow-swift/nef) - Steroids for Xcode Playgrounds.
 - [xcodes](https://github.com/RobotsAndPencils/xcodes) - Manage the Xcodes installed on your Mac.
+- [XCOrganizer](https://xcorganizer.com/) - Using metadata it finds all your Xcode Projects, Xcode Workspaces and Xcode Playgrounds in seconds.

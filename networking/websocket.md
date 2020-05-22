@@ -14,3 +14,4 @@
 - [websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions.
 - [Awesome WebSockets](https://github.com/facundofarias/awesome-websockets#readme)
 - [SockJS client](https://github.com/sockjs/sockjs-client) - WebSocket emulation - JS client.
+- [Stealing Secrets from Developers using Websockets (2020)](https://medium.com/@stestagg/stealing-secrets-from-developers-using-websockets-254f98d577a0) ([HN](https://news.ycombinator.com/item?id=23256458))

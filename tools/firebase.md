@@ -13,3 +13,4 @@
 - [Firebase SDK for Cloud Functions](https://github.com/firebase/firebase-functions)
 - [ReactFire](https://github.com/FirebaseExtended/reactfire) - Hooks, Context Providers, and Components that make it easy to interact with Firebase.
 - [Firebase firestore lite](https://github.com/samuelgozi/firebase-firestore-lite) - Lightweight cloud firestore library for the browser.
+- [Firebase Emulator](https://firebase.googleblog.com/2020/05/local-firebase-emulator-ui.html) - Local first UI to boost your productivity.
