@@ -12,3 +12,4 @@
 - [Mindstorms book](https://www.charlieharrington.com/mindstorms) - Book written in 1980 about how children can learn with computers - and learn to fall in love with learning along the way. ([Lobsters](https://lobste.rs/s/r9thsc/mindstorms))
 - [Mindstorms: Children, Computers, and Powerful Ideas summary](https://tomkersten.com/book-reports/mindstorms/)
 - [A Personal Computer for Children of All Ages - Alan Kay (1972)](http://www.vpri.org/pdf/hc_pers_comp_for_children.pdf)
+- [Productivity for Parents: Square’s Restaurant Product Lead on integrating career and family (2020)](https://superorganizers.substack.com/p/productivity-for-parents)

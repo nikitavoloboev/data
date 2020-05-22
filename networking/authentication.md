@@ -29,3 +29,4 @@
 - [OAuth 2 Simplified](https://aaronparecki.com/oauth-2-simplified/)
 - [Zero-knowledge Auth](https://gist.github.com/ai/5e0a1975e2a0971c66232d33fd526dbf)
 - [AppAuth](https://github.com/openid/AppAuth-iOS) - iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.
+- [Simple Auth Setup for Your React App (2020)](https://arunoda.me/blog/simple-auth-setup-for-your-react-app)
