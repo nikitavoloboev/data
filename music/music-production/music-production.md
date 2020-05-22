@@ -60,3 +60,4 @@
 - [Python MIDI library](https://github.com/vishnubob/python-midi)
 - [Learn sound theory with an acclaimed synth company (2020)](https://sfree.life/sound-theory-toyota-vangelis-bastl-instruments-free/) ([HN](https://news.ycombinator.com/item?id=23079145))
 - [audiofabric](https://tbaldw.in/audiofabric/) - 3D music visualization. ([Code](https://github.com/rolyatmax/audiofabric))
+- [Spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
