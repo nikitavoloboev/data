@@ -34,6 +34,7 @@
 - [Circuit UI](https://circuit.sumup.com/?path=/story/introduction-welcome--page) - Design system & component library for SumUp web apps. ([Code](https://github.com/sumup-oss/circuit-ui))
 - [Palette](https://palette.artsy.net/) - Artsy's design system. ([Code](https://github.com/artsy/palette))
 - [Guardian Source](https://theguardian.design/) ([Code](https://github.com/guardian/source))
+- [VKUI](https://github.com/VKCOM/VKUI) - VK design system.
 
 ## Links
 

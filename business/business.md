@@ -4,7 +4,7 @@ Learning to build [startups](startups/startups.md).
 
 ## Interesting companies
 
-- [Calico](https://www.calicolabs.com/) - Research and development company tackling one of life's greatest mysteries, the biology that controls lifespan.
+- [Calico](https://www.calicolabs.com/)
 - [Formidable](https://formidable.com/careers/)
 - Apple
 - Google
@@ -28,6 +28,8 @@ Learning to build [startups](startups/startups.md).
 - [Figma](https://www.figma.com/careers/)
 - Digital Ocean
 - TypeForm
+- [Apollo](https://www.apollographql.com/careers/) ([Senior eng](https://www.apollographql.com/careers/positions/#Senior-Backend-Software-Engineer:b8ec842e-e79a-455e-a665-b312892d946e))
+- [Notion](https://www.notion.so/Work-at-Notion-e7aeb157238a4603a2964b28c646f07f)
 
 ## Links
 

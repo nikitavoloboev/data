@@ -55,3 +55,4 @@
 - [Botan](https://github.com/randombit/botan) - Crypto and TLS for Modern C++.
 - [Understanding Cryptography book](http://www.crypto-textbook.com/)
 - [Ask HN: Keybase Alternatives? (2020)](https://news.ycombinator.com/item?id=23103386)
+- [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources#readme)
