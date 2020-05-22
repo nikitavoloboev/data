@@ -189,3 +189,4 @@
 - [10 common mistakes using kubernetes (2020)](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
 - [Goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right".
 - [Lokomotive](https://github.com/kinvolk/lokomotive) - Open source Kubernetes distribution that ships pure upstream Kubernetes.
+- [Amazon Elastic Kubernetes Service (Amazon EKS) Best Practices](https://github.com/aws/aws-eks-best-practices)
