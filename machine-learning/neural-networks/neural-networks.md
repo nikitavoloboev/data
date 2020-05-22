@@ -110,3 +110,4 @@
 - [RigNet: Neural Rigging for Articulated Characters (2020)](https://zhan-xu.github.io/rig-net/) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/ggakn3/r_rignet_neural_rigging_for_articulated_characters/))
 - [Convolutional neural networks for artistic style transfer (2017)](https://harishnarayanan.org/writing/artistic-style-transfer/)
 - [Certifiable Robustness to adversarial Attacks; What is the Point? | Nick Frosst (2020)](https://www.youtube.com/watch?v=OfSxYqU-6s0)
+- [LAG: Latent Adversarial Generator](https://github.com/google-research/lag)

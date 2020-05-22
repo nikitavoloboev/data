@@ -109,3 +109,4 @@
 - [Github Actions tutorial](https://github.com/padok-team/github-actions-tutorial)
 - [Run GitHub Actions locally for fast feedback (2020)](https://www.youtube.com/watch?v=jzdHKwGVjvk)
 - [goaction](https://github.com/posener/goaction) - Write Github actions in Go.
+- [Goaction example for using Github APIs](https://github.com/posener/goaction-issues-example)

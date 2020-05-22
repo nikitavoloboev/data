@@ -77,3 +77,4 @@
 - [gasm](https://github.com/mathetake/gasm) - WASM Virtual Machine for Gophers.
 - [The WebAssembly App Gap (2020)](https://paulbutler.org/2020/the-webassembly-app-gap/)
 - [parity-wasm](https://github.com/paritytech/parity-wasm) - Low-level WebAssembly format library.
+- [wasm-tools](https://github.com/bytecodealliance/wasm-tools) - Low level tooling for WebAssembly in Rust.
