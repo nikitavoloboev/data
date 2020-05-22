@@ -379,6 +379,7 @@
 - [tsunami](https://github.com/jonhoo/tsunami) - Rust crate for running one-off cloud jobs.
 - [proc-macro2](https://github.com/alexcrichton/proc-macro2) - Wrapper around the procedural macro API of the compiler's proc_macro crate.
 - [Rust Quasi-Quoting](https://github.com/dtolnay/quote) - Provides the quote! macro for turning Rust syntax tree data structures into tokens of source code.
+- [displaydoc](https://github.com/yaahc/displaydoc) - Derive macro for implementing the display Trait via a doc comment and string interpolation.
 
 ## Cargo Plugins
 

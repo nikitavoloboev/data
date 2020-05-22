@@ -326,6 +326,7 @@
 - [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - Swifty API for attributed strings.
 - [Bow Arch](https://github.com/bow-swift/bow-arch) - Library to architect applications in pure Functional Programming, based on the notion of Comonadic User Interfaces.
 - [Regift](https://github.com/matthewpalmer/Regift) - Simple tool that can add and icon overlay with app version to your iOS app icon.
+- [Fluent UI Apple](https://github.com/microsoft/fluentui-apple) - UIKit and AppKit controls for building native Microsoft experiences.
 
 ## Other (not lib)
 

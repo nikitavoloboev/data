@@ -140,3 +140,4 @@
 - [Jon Gjengset's PhD thesis](https://github.com/jonhoo/thesis)
 - [Succinct Data Structures and Delta Encoding for Modern Databases (2020)](https://terminusdb.com/t/papers/terminusdb-git.pdf)
 - [About Pool Sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
+- [migrate](https://github.com/golang-migrate/migrate) - Database migrations written in Go. Use as CLI or import as library.

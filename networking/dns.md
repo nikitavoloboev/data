@@ -28,3 +28,4 @@
 - [grimd](https://github.com/looterz/grimd) - Fast dns proxy that can run anywhere, built to black-hole internet advertisements and malware servers.
 - [Stubby](https://github.com/getdnsapi/stubby) - Application that acts as a local DNS Privacy stub resolver (using DNS-over-TLS).
 - [The case of the missing DNS packets: a Google Cloud support story (2020)](https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-support-engineer-solves-a-tough-dns-case) ([HN](https://news.ycombinator.com/item?id=23235995))
+- [DNS Proxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, and DNSCrypt support.
