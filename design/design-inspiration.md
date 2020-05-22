@@ -122,6 +122,7 @@ Here are few more things I liked, design wise.
 - [Owen Williams](https://owenwillia.ms/)
 - [Andy Bell](https://hankchizljaw.com/)
 - [Marvin Hagemeister](https://marvinh.dev/)
+- [Tinnei](https://tinnei.today/index.html)
 - [Nienke Dekker](https://nienke.dev/)
 - [Jon Kuperman](https://jonkuperman.com/)
 - [Gavin Nelson](https://www.gnelsondesign.com/) ([Code](https://github.com/gavinmn/gnelsondesign))

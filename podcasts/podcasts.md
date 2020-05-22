@@ -123,7 +123,6 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Changelog](https://changelog.com/) - News and podcasts for developers.
 - [Changelog Transcripts](https://github.com/thechangelog/transcripts)
 - [Supercast](https://www.supercast.com/) - Makes podcast monetization simple.
-- [Descript](https://www.descript.com/) - Record. Transcribe. Edit. Mix. As easy as typing.
 - [Favorite single podcast episodes (2020)](https://twitter.com/eriktorenberg/status/1256080134735421442)
 - [Ask HN: Intellectually simulating Podcasts/conversations/Talk (2020)](https://news.ycombinator.com/item?id=23051122)
 - [Wisecast](https://www.wisecast.fm/) - Smart Hosting for Podcasters.
