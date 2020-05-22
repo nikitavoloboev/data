@@ -58,7 +58,7 @@ Below is a list of extensions I use.
 
 ## Theme
 
-- [Dracula Pro](https://draculatheme.com/pro/)
+- [Monochrome](https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome) - Monochromatic theme collection, for those who seeks. ([Code](https://github.com/anotherglitchinthematrix/monochrome))
 
 ## Interesting (not using)
 
@@ -298,12 +298,12 @@ Below is a list of extensions I use.
 ## Theme
 
 - [Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
+- [Dracula Pro](https://draculatheme.com/pro/)
 - [Overnight](https://github.com/cevr/overnight) - Soft vibrant VSCode theme.
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
 - [Alabaster](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster)
 - [Monokai Pro](https://www.monokai.pro/vscode/)
 - [Moxer](https://marketplace.visualstudio.com/items?itemName=Equinusocio.moxer-theme) ([Code](https://github.com/moxer-theme/moxer-code))
-- [Monochrome](https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome) - Monochromatic theme collection, for those who seeks. ([Code](https://github.com/anotherglitchinthematrix/monochrome))
 
 ## Notes
 

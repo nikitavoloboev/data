@@ -35,3 +35,4 @@
 - [Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators (2019)](https://www.youtube.com/watch?v=yCd3CzGSte8)
 - [Cilk](https://github.com/maekawatoshiki/cilk) - Toy Compiler Infrastructure influenced by LLVM written in Rust.
 - [Make LLVM fast again (2020)](https://nikic.github.io/2020/05/10/Make-LLVM-fast-again.html) ([Reddit](https://www.reddit.com/r/cpp/comments/gh3huh/make_llvm_fast_again/)) ([HN](https://news.ycombinator.com/item?id=23137345))
+- [Mapping High Level Constructs to LLVM IR](https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/en/latest/README.html) ([Code](https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir))
