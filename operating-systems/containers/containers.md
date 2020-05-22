@@ -30,3 +30,4 @@
 - [Linux containers in a few lines of code (2020)](https://zserge.com/posts/containers/) ([HN](https://news.ycombinator.com/item?id=23165157))
 - [You don't need an image to run a container (2020)](https://iximiuz.com/en/posts/you-dont-need-an-image-to-run-a-container/)
 - [libnetwork](https://github.com/moby/libnetwork) - Provides a native Go implementation for connecting containers.
+- [Programming inside a container (2020)](https://lemire.me/blog/2020/05/22/programming-inside-a-container/)
