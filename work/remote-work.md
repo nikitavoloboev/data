@@ -49,3 +49,4 @@
 - [Andreas Klinger on How To Go Remote (2020)](https://overcast.fm/+LDKdiXgwE)
 - [REMOTE Livestream Q&A with Jason Fried and David Heinemeier Hansson (2020)](https://www.youtube.com/watch?v=KPKOVT4vZD4)
 - [HN: Twitter Will Allow Employees to Work at Home Forever (2020)](https://news.ycombinator.com/item?id=23155647)
+- [What you think is bad about remote work, can, well, actually be good (2020)](https://thorstenball.com/blog/2020/05/22/what-you-think-is-bad-about-remote-work-can-actually-be-good/)

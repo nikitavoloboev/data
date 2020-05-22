@@ -144,3 +144,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Encouraging a Culture of Written Communication (2020)](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication) ([HN](https://news.ycombinator.com/item?id=23141353))
 - [Writing for Software Developers](https://philipkiely.com/wfsd/) ([HN](https://news.ycombinator.com/item?id=23153469))
 - [Collection of materials relating to technical writing](https://github.com/sixhobbits/technical-writing#readme)
+- [The power of proposals](https://highgrowthengineering.substack.com/p/the-power-of-proposals-)
