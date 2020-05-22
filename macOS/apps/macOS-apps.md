@@ -47,6 +47,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Glance](https://github.com/samuelmeuli/glance) - Provides Quick Look previews for files that macOS doesn't support out of the box.
 - [MonitorControl](https://github.com/the0neyouseek/MonitorControl) - Control your external monitor brightness & volume on your Mac.
 - [Up Next](https://ellen.li/up-next/) - Meetings at a glance from your macOS menu bar.
+- [Multi](https://github.com/hkgumbs/multi) - Create a custom, lightweight macOS app from a group of websites.
 
 ## Other interesting apps
 
