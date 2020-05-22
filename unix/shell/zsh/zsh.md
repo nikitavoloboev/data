@@ -19,3 +19,4 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - [ZSH History Database](https://github.com/larkery/zsh-histdb)
 - [Building portable Zsh](https://github.com/xxh/zsh-portable)
 - [Speeding up Zsh](https://blog.jonlu.ca/posts/speeding-up-zsh)
+- [Some zshrc tricks (2020)](https://www.arp242.net/zshrc.html) ([Lobsters](https://lobste.rs/s/tgmzke/some_zshrc_tricks))
