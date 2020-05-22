@@ -638,6 +638,7 @@
       - [Unreal Engine](games/gamedev/game-engines/unreal-engine.md)
   - [Board games](games/board-games.md)
   - [Chess](games/chess.md)
+  - [Poker](games/poker.md)
   - [Sudoku](games/sudoku.md)
   - [Minecraft](games/minecraft.md)
 - [Streaming](streaming/streaming.md)

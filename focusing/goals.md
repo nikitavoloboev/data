@@ -1,6 +1,6 @@
 # Goals
 
-Give myself a [direction in life](https://www.youtube.com/watch?v=NVGuFdX5guE) in form of longer term goals.
+Give myself [direction in life](https://www.youtube.com/watch?v=NVGuFdX5guE) in form of longer term goals.
 
 ## Learn Anything
 
@@ -41,4 +41,3 @@ This includes closing GitHub issues that are of priority to me. Beyond this I wa
 ## Financial stability
 
 Release something that is worth selling.
-

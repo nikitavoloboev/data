@@ -7,3 +7,4 @@
 - [DeepXDE](https://github.com/lululxvi/deepxde) - Deep learning library for solving differential equations on top of TensorFlow.
 - [torchdyn](https://github.com/DiffEqML/torchdyn) - PyTorch based library for all things neural differential equations.
 - [Neural Controlled Differential Equations for Irregular Time Series](https://github.com/patrick-kidger/NeuralCDE)
+- [Differential Forms and Integration (2008)](https://www.math.ucla.edu/~tao/preprints/forms.pdf) ([HN](https://news.ycombinator.com/item?id=23269351))
