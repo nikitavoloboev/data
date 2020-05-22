@@ -86,3 +86,4 @@
 - [Production Ready GraphQL blog](https://productionreadygraphql.com/)
 - [GraphQL Zeus](https://github.com/graphql-editor/graphql-zeus) - Creates autocomplete client library for JavaScript or TypeScript which provides autocompletion for strongly typed queries.
 - [graphql-parse](https://github.com/kitten/graphql-parse) - Tiny spec-compliant reimplementation of the GraphQL query language parser.
+- [On GraphQL-to-SQL (2020)](https://productionreadygraphql.com/blog/2020-05-21-graphql-to-sql) ([HN](https://news.ycombinator.com/item?id=23271178))
