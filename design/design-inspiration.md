@@ -93,6 +93,7 @@ Here are few more things I liked, design wise.
 - [Michael Edelstone](https://michaeledelstone.com/)
 - [Rodrigo Pombo](https://pomb.us/)
 - [Max Böck](https://mxb.dev/)
+- [Amie Chen](https://www.amie-chen.com/)
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))
 - [Nuno Coelho Santos](https://nunocoelhosantos.com/)
 - [Kellie Kowalski](https://www.kelliekowalski.com/)
