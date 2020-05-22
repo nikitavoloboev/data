@@ -64,6 +64,7 @@
 - [Gophercloud Go](https://github.com/gophercloud/gophercloud) - OpenStack Go SDK.
 - [AWS SDK Rust](https://github.com/rusoto/rusoto)
 - [Spotify Rust](https://github.com/librespot-org/librespot) - Open Source Spotify client library.
+- [Spotify Rust 2](https://github.com/plietar/librespot)
 - [Apple Music Go](https://github.com/minchao/go-apple-music)
 - [TensorFlow Rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow.
 - [libgit2 Rust](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust.
