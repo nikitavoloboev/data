@@ -15,4 +15,4 @@
 - [Milk Steaming For Latte Art - Barista Tutorial](https://www.youtube.com/watch?v=6YMgB61WyvE)
 - [What Cafés Did for Liberalism (2018)](https://www.newyorker.com/magazine/2018/12/24/what-cafes-did-for-liberalism) ([HN](https://news.ycombinator.com/item?id=22999128))
 - [Coffee Bros](https://coffeebros.com/) - Small-batch Coffee Roasters in the Heart of NYC.
-- [Coffee recs](https://twitter.com/delk/status/1264201555466543106)
+- [Coffee setup recs](https://twitter.com/delk/status/1264201555466543106)

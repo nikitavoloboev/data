@@ -7,3 +7,4 @@
 - [How I Learned French in 12 Months (2020)](http://www.runwes.com/2020/02/11/howilearnedfrench.html) ([HN](https://news.ycombinator.com/item?id=22341983))
 - [LibreLingo](https://librelingo.app/) - Experiment to create a community driven language-learning platform.
 - [A computational model of the cultural co-evolution of language and mindreading](https://psyarxiv.com/3bmsx/)
+- [Toucan](https://jointoucan.com/) - Teaches you new skills while you browse the web.
