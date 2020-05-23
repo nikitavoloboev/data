@@ -145,3 +145,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Neuron Zettelkasten](https://neuron.zettel.page/) - Command-line based system for managing your Zettelkasten. ([Code](https://github.com/srid/neuron))
 - [How can we build an extension of your mind? (2020)](https://vanschneider.com/how-can-we-build-an-extension-of-your-mind)
 - [mmap.it](https://www.mmap.it/) - Map knowledge into memory with seamless search and note taking. ([Code](https://github.com/pdepip/mmap.it))
+- [Luhmann’s Zettelkasten — A Productivity Tool That Works Like Your Brain (2019)](https://emvi.com/blog/luhmanns-zettelkasten-a-productivity-tool-that-works-like-your-brain-N9Gd2G4aPv)
