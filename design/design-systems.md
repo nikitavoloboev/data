@@ -25,7 +25,7 @@
 - [Fluent UI React](https://github.com/microsoft/fluentui) - Set of React components for building Microsoft web experiences. ([Figma](https://www.figma.com/@microsoft)) ([Web](https://www.microsoft.com/design/fluent/#/))
 - [Operational UI Components](https://github.com/contiamo/operational-ui) - Contains simple, stateless UI building blocks - your typical input fields, buttons, cards, grids, and so on.
 - [react-ui](https://github.com/siddharthkp/react-ui) - Customisable components and primitives based on design tokens.
-- [Spectrum](https://spectrum.adobe.com/) - Adobe’s design system.
+- [Spectrum](https://spectrum.adobe.com/) - Adobe’s design system. ([Code](https://github.com/adobe/spectrum-css))
 - [Stacks](https://stackoverflow.design/) - Stack Overflow’s Design System. ([Code](https://github.com/StackExchange/Stacks))
 - [Elastic UI framework](https://elastic.github.io/eui/#/) - Design library in use at Elastic to build internal products. ([Code](https://github.com/elastic/eui))
 - [gov.uk](https://design-system.service.gov.uk/) - Design your service using GOV.UK styles, components and patterns.
