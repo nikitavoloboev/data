@@ -92,4 +92,4 @@
 - [Reflections on Trusting Trust by Ken Thompson](https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html) - Creating a version of C compiler that, when presented with the source code for the "login" program, would automatically compile in a backdoor to allow him entry to the system.
 - [Synthesizing JIT Compilers for In-Kernel DSLs](https://www.cs.utexas.edu/~isil/jitsynth.pdf)
 - [Diagrams for Composing Compilers (2020)](https://johnwickerson.wordpress.com/2020/05/21/diagrams-for-composing-compilers/)
-- [One-pass Compiler Primer (2020)](https://keleshev.com/one-pass-compiler-primer)
+- [One-pass Compiler Primer (2020)](https://keleshev.com/one-pass-compiler-primer) ([HN](https://news.ycombinator.com/item?id=23270269))

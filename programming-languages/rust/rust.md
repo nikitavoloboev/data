@@ -215,3 +215,4 @@
 - [Things I hate about Rust (2020)](https://blog.yossarian.net/2020/05/20/Things-I-hate-about-rust) ([HN](https://news.ycombinator.com/item?id=23246908))
 - [rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs.
 - [Rust verification tools (2020)](https://alastairreid.github.io/rust-verification-tools/)
+- [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) ([HN](https://news.ycombinator.com/item?id=23279731))

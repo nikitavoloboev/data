@@ -44,3 +44,4 @@
 - [Serverless-Dev-Tools](https://github.com/Theodo-UK/sls-dev-tools) - Developer Tools for the Serverless World - think Chrome Dev Tools but for Serverless.
 - [Weave Ignite](https://github.com/weaveworks/ignite) - Open source Virtual Machine (VM) manager with a container UX and built-in GitOps management.
 - [Faasm](https://github.com/lsds/Faasm) - High-performance stateful serverless runtime.
+- [What a typical serverless architecture looks like in AWS (2020)](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb) ([HN](https://news.ycombinator.com/item?id=23274668))

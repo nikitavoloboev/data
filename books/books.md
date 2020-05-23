@@ -205,3 +205,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Python script to download all Springer books](https://github.com/alexgand/springer_free_books)
 - [The Tools I Use To Write Books (2018)](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
 - [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) - Python based software to unpack Amazon / Kindlegen generated ebooks.
+- [How to write a programming book (2020)](https://www.aquicarattino.com/blog/how-write-programming-book/) ([HN](https://news.ycombinator.com/item?id=23281568))

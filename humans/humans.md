@@ -23,9 +23,14 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans#r
 - [Third Row Tesla Podcast – Elon Musk's Story (2020)](https://www.youtube.com/watch?v=J9oEc0wCQDE)
 - [A Conversation with Bertrand Russell (1952)](https://www.youtube.com/watch?v=fb3k6tB-Or8)
 
+## Interesting bios
+
+- [Dennis M. Ritchie](http://cm.bell-labs.co/who/dmr/)
+
 ## Personal workflows
 
 - [Nikita Prokopov (2018)](https://usesthis.com/interviews/nikita.prokopov/)
+- [stapelberg uses this: my 2020 desk setup](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/) ([HN](https://news.ycombinator.com/item?id=23282784))
 
 ## Links
 

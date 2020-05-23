@@ -32,3 +32,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Jukebox](https://openai.com/blog/jukebox/) - Neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles. ([Code](https://github.com/openai/jukebox/)) ([HN](https://news.ycombinator.com/item?id=23032243))
 - [How Distortion Works in Music (2020)](https://benmosheron.gitlab.io/blog/2020/04/26/distortion.html) ([HN](https://news.ycombinator.com/item?id=23232268))
 - [Audio Vault](https://www.audio-vault.com/) - Curated Music that Means Something.
+- [MusicBrainz](https://musicbrainz.org/) - Open music encyclopedia that collects music metadata and makes it available to the public.
