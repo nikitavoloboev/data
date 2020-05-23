@@ -70,6 +70,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [The Commonplace Book](https://www.ralphrudd.com/)
 - [Leandro Ardissone](https://knowledge.lardissone.now.sh/#about-me)
 - [Nicola's decentralized-research](https://github.com/nicola/decentralized-research)
+- [Timothy Andrew](https://timothyandrew.net/learning/wiki/)
 - [Wayan Jimmy](https://wayanjimmy-notebook.netlify.com/)
 - [Wesley Moore](https://linkedlist.org/)
 - [Slides of Chen Hui Jing](https://github.com/huijing/slides)
@@ -146,3 +147,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [How can we build an extension of your mind? (2020)](https://vanschneider.com/how-can-we-build-an-extension-of-your-mind)
 - [mmap.it](https://www.mmap.it/) - Map knowledge into memory with seamless search and note taking. ([Code](https://github.com/pdepip/mmap.it))
 - [Luhmann’s Zettelkasten — A Productivity Tool That Works Like Your Brain (2019)](https://emvi.com/blog/luhmanns-zettelkasten-a-productivity-tool-that-works-like-your-brain-N9Gd2G4aPv)
+- [Building a digital garden (2019)](https://tomcritchlow.com/2019/02/17/building-digital-garden/) - How I built myself a simple wiki using folders and files and published via Jekyll.

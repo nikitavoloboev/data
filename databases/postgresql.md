@@ -85,3 +85,4 @@
 - [PGSync](https://github.com/toluaina/pg-sync) - PostgreSQL to Elasticsearch sync.
 - [Improved (auto)vacuum in PostgreSQL 13 (2020)](https://amitkapila16.blogspot.com/2020/05/improved-autovacuum-in-postgresql-13.html) ([HN](https://news.ycombinator.com/item?id=23149920))
 - [HN: Ask HN: What PostgreSQL client do you use? (2020)](https://news.ycombinator.com/item?id=23208181)
+- [Recursive SQL Queries with PostgreSQL (2020)](https://towardsdatascience.com/recursive-sql-queries-with-postgresql-87e2a453f1b)

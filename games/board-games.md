@@ -13,3 +13,4 @@ I keep a [list of all board games I played](https://boardgamegeek.com/collection
 - [Cockatrice](https://github.com/Cockatrice/Cockatrice) - Open-source, multiplatform program for playing tabletop card games over a network. ([Web](https://cockatrice.github.io/))
 - [Notes as I learn to play Go](https://github.com/coffeemug/baduk)
 - [How to play board games online with your friends (2020)](https://masilotti.com/play-board-games-online/) ([HN](https://news.ycombinator.com/item?id=22967716))
+- [Board Game recs by Timothy](https://timothyandrew.net/misc/board-games/)
