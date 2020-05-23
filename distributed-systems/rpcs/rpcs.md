@@ -11,3 +11,4 @@
 - [Remotely like a procedure call (2020)](http://funcall.blogspot.com/2020/01/remotely-like-procedure-call.html)
 - [gorums](https://github.com/relab/gorums) - Framework for simplifying the design and implementation of fault-tolerant quorum-based protocols.
 - [Go Plugin System over RPC](https://github.com/hashicorp/go-plugin)
+- [Loqui](https://github.com/discord/loqui) - Transport that implements a very simple framing protocol over a raw socket.

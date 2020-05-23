@@ -7,6 +7,7 @@
 - [Digital Garden](https://github.com/johno/digital-garden) - Content-first project meant to make it easier to write and curate content on the web.
 - [kvlly](https://github.com/kellyvaughn/kvlly) - Personal site built with Gatsby and deployed on Netlify.
 - [Gatsby + Cosmic JS](https://github.com/DSchau/-gatsby-blog-cosmicjs-)
+- [Gatsby.js MDX Blog Starter Project](https://github.com/rwieruch/gatsby-mdx-blog-starter-project)
 
 ## Themes
 
