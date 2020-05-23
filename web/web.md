@@ -88,3 +88,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [The Hottest Websites from the Late 90s (2017)](https://vanschneider.com/hottest-websites-late-90s)
 - [SuckIT](https://github.com/Skallwar/suckit) - Allows you to recursively visit and download a website's content to your disk.
 - [How Web Works](https://github.com/vasanthk/how-web-works#readme) - What happens behind the scenes when we type www.google.com in a browser. ([Version 2](https://github.com/alex/what-happens-when#readme))
+- [Graphene](https://gozala.io/work/graphene) - Concept of a web runtime, designed to be thinnest possible layer for the web. Runtime would take URL to an HTML, would load (and cache) it as it's user interface.

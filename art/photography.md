@@ -37,3 +37,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Retrato: A Guide to Portrait Photography, Gaining Followers and Making Money](https://www.notion.so/Retrato-9de8ae4447804ed189838bd3a8b3d509)
 - [Scenius Gallery](https://www.sceniusgallery.com/)
 - [Using SQL to find my best photo of a pelican according to Apple Photos (2020)](https://simonwillison.net/2020/May/21/dogsheep-photos/) ([Tweet](https://twitter.com/simonw/status/1263550178134376448))
+- [Photopea](https://www.photopea.com/) - Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.

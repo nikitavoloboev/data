@@ -142,3 +142,4 @@
 - [new.css](https://newcss.net/) - Classless CSS framework to write modern websites using only HTML. ([Code](https://github.com/xz/new.css)) ([HN](https://news.ycombinator.com/item?id=23220081)) ([Night Theme](https://newcss.net/theme/night/))
 - [CSS Refresher Notes](https://github.com/vasanthk/css-refresher-notes#readme)
 - [Destyle.css](https://nicolas-cusan.github.io/destyle.css/) - Opinionated reset stylesheet that provides a clean slate for styling your html. ([Code](https://github.com/nicolas-cusan/destyle.css))
+- [Fast Browser Animations (2020)](https://mguida.com/blog/fast-browser-animations/)

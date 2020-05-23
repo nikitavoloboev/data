@@ -78,3 +78,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Ask HN: What are some hard-tech blogs that you follow? (2020)](https://news.ycombinator.com/item?id=23206259)
 - [If I could bring one thing back to the internet it would be blogs (2020)](https://news.ycombinator.com/item?id=23205588) ([HN](https://news.ycombinator.com/item?id=23205588))
 - [Own your content & traffic. A love letter to my website. (2019)](https://vanschneider.com/a-love-letter-to-personal-websites) ([Twitter](https://twitter.com/vanschneider/status/1262431846434045955))
+- [Thoughts on growing a blog](https://twitter.com/JoshWComeau/status/1263955318339506176)
