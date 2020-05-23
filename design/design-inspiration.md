@@ -38,6 +38,7 @@ Here are few more things I liked, design wise.
 - [A decentralized world](https://adecentralizedworld.com/)
 - [Matt Diephouse](https://matt.diephouse.com/)
 - [Jordan Scales](https://thatjdanisso.cool/) ([Code](https://github.com/jdan/thatjdanisso.cool))
+- [Andrew Healey](https://healeycodes.com/)
 
 ## Products
 
@@ -94,6 +95,7 @@ Here are few more things I liked, design wise.
 - [Rodrigo Pombo](https://pomb.us/)
 - [Max Böck](https://mxb.dev/)
 - [Amie Chen](https://www.amie-chen.com/)
+- [Stephen Diehl](http://www.stephendiehl.com/) ([Code](https://github.com/sdiehl/stephendiehl.com))
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))
 - [Nuno Coelho Santos](https://nunocoelhosantos.com/)
 - [Kellie Kowalski](https://www.kelliekowalski.com/)

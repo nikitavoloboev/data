@@ -35,3 +35,4 @@
 - [How Tech Can Build (2020)](https://stratechery.com/2020/how-tech-can-build/) ([HN](https://news.ycombinator.com/item?id=22934558))
 - [Progress](https://patrickcollison.com/progress)
 - [Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future) ([HN](https://news.ycombinator.com/item?id=23212805))
+- [Ask HN: What startup/technology is on your 'to watch' list? (2020)](https://news.ycombinator.com/item?id=23276456)
