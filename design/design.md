@@ -90,3 +90,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Growth Design](https://growth.design/)
 - [Data Authoring Environments: An Overview (2018)](http://staging.dubberly.com/Data_Authoring_Environments/180702-An%20Overview%20of%20Data%20Authoring%20Environments/180702_Data_Authoring_Environments.pdf)
 - [Radical Design course](https://radicaldesigncourse.com/)
+- [What’s the design process at GDS? (2014)](https://gds.blog.gov.uk/2014/07/18/whats-the-design-process-at-gds/)
