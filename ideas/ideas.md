@@ -49,3 +49,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ideas from Josh Wolfe (2020)](https://www.xsrus.com/writing/posts/josh-wolfe/)
 - [Ask HN: Name one idea that changed your life (2020)](https://news.ycombinator.com/item?id=23092657)
 - [Ask HN: What's your quarantine side project? (2020)](https://news.ycombinator.com/item?id=23170881)
+- [Things I want to figure out/see implemented eventually](https://beepb00p.xyz/ideas.html)
