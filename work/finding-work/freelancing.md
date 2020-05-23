@@ -8,3 +8,4 @@
 - [My First Year as a Freelance AI Engineer (2020)](http://masatohagiwara.net/202002-my-first-year-as-a-freelance-ai-engineer.html) ([HN](https://news.ycombinator.com/item?id=23049773))
 - [Start Freelancing Today book (2020)](https://startfreelancing.today/)
 - [Questions for Consultants: Useful Things to Ask Your Clients](https://gumroad.com/l/questions-for-consultants/)
+- [Ask HN: How do you brand yourself as a freelancer? (2020)](https://news.ycombinator.com/item?id=23282278)

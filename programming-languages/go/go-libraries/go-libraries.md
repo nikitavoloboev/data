@@ -411,6 +411,7 @@
 - [addchain](https://github.com/mmcloughlin/addchain) - Cryptographic Addition Chain Generation in Go.
 - [go-farm](https://github.com/dgryski/go-farm) - Google's FarmHash hash functions implemented in Go.
 - [bleve](https://github.com/blevesearch/bleve) - Modern text indexing library for go.
+- [glob](https://github.com/gobwas/glob) - Go Globbing Library.
 
 ## Links
 

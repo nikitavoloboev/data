@@ -6,3 +6,4 @@
 - [FTS5](https://www.sqlite.org/fts5.html) - SQLite virtual table module that provides full-text search functionality to database applications.
 - [Awesome SQLite](https://github.com/planetopendata/awesome-sqlite#readme)
 - [All things around SQLite](https://github.com/mindreframer/awesome-sqlite#readme)
+- [SQLite 3.32.0 (2020)](https://sqlite.org/releaselog/3_32_0.html) ([HN](https://news.ycombinator.com/item?id=23281994))
