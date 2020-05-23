@@ -94,3 +94,5 @@
 - [MetaMate](https://github.com/metamatex/metamate) - Open-source semantic service bus and provides you an api for everything. ([Web](https://metamate.io/))
 - [Unofficial APIs list](https://github.com/Rolstenhouse/unofficial-apis#readme)
 - [OpenAutoComplete](https://github.com/openautocomplete/openautocomplete) - Shell-agnostic, declarative CLI autocomplete specification.
+- [Best practices for building SDKs for APIs (2019)](https://www.moesif.com/blog/technical/sdks/Best-Practices-for-Building-SDKs-for-APIs/)
+- [Ask HN: Best practices (and examples) for designing client libraries for APIs? (2020)](https://news.ycombinator.com/item?id=23283551)

@@ -30,3 +30,4 @@
 - [Lovely week with Elixir (2020)](https://www.ramblingcode.dev/posts/lovely_week_with_elixir/) ([HN](https://news.ycombinator.com/item?id=23249824))
 - [Elixir & OTP course](https://pragmaticstudio.com/courses/elixir)
 - [Phoenix LiveView course](https://pragmaticstudio.com/phoenix-liveview)
+- [Ask HN: Who Regrets Choosing Elixir? (2020)](https://news.ycombinator.com/item?id=23283675)
