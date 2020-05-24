@@ -12,5 +12,6 @@
 - [chalk](https://github.com/rust-lang/chalk) - PROLOG-ish interpreter written in Rust, intended eventually for use in the compiler.
 - [ELPI](https://github.com/LPCIC/elpi) - Embeddable λProlog Interpreter.
 - [Programming in Tabled Prolog book](https://github.com/SWI-Prolog/tabled-prolog-book)
+- [SWI Prolog](https://www.swi-prolog.org/) - Comprehensive free Prolog environment.
 - [Prolog and Logic Programming Historical Sources Archive](http://www.softwarepreservation.org/projects/prolog/) ([HN](https://news.ycombinator.com/item?id=22658770))
 - [Ask HN: Production Prolog in 2020?](https://news.ycombinator.com/item?id=23234017)
