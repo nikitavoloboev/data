@@ -24,3 +24,4 @@
 - [How to Sit Properly to Decrease Back and Neck Pain. Posture Perfect](https://www.youtube.com/watch?v=kx0c6JGTrUQ)
 - [How To Stand Properly | Standing Desk | Strategy](https://www.youtube.com/watch?v=kNFsdGsaB2s)
 - [Back pain is a massive problem which is badly treated (2020)](https://www.economist.com/briefing/2020/01/18/back-pain-is-a-massive-problem-which-is-badly-treated) ([HN](https://news.ycombinator.com/item?id=22067972))
+- [My Standard Desktop (2020)](https://lucumr.pocoo.org/2020/5/24/my-standard-desktop/)

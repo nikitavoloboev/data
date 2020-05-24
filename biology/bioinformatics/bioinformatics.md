@@ -39,3 +39,4 @@
 - [Scanpy](https://github.com/theislab/scanpy) - Single-Cell Analysis in Python.
 - [elPrep](https://github.com/ExaScience/elprep) - High-performance tool for preparing .sam/.bam files for variant calling in sequencing pipelines.
 - [Announcing Sylph](https://sylph.io/blog/announce.html)
+- [Interactive bioimage analysis with Python and Jupyter (2020)](https://www.youtube.com/watch?v=Y3pB3wnOivE)

@@ -19,7 +19,7 @@
 - [gpt-2](https://github.com/openai/gpt-2) - Code for the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
 - [Lingvo](https://github.com/tensorflow/lingvo) - Framework for building neural networks in Tensorflow, particularly sequence models.
 - [Fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [Stanford CS224N: NLP with Deep Learning (2019)](https://www.youtube.com/watch?v=8rXD5-xhemo) - [Course page](http://web.stanford.edu/class/cs224n/). ([HN](https://news.ycombinator.com/item?id=19569883))
+- [Stanford CS224N: NLP with Deep Learning (2019)](https://www.youtube.com/watch?v=8rXD5-xhemo) - [Course page](https://web.stanford.edu/class/cs224n/). ([HN](https://news.ycombinator.com/item?id=19569883))
 - [Advanced NLP with spaCy: A free online course](https://github.com/ines/spacy-course#readme)
 - [Code for Stanford Natural Language Understanding course, CS224u (2019)](https://github.com/cgpotts/cs224u)
 - [Awesome Reinforcement Learning for Natural Language Processing](https://github.com/adityathakker/awesome-rl-nlp#readme)

@@ -146,3 +146,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Collection of materials relating to technical writing](https://github.com/sixhobbits/technical-writing#readme)
 - [The power of proposals](https://highgrowthengineering.substack.com/p/the-power-of-proposals-)
 - [How I write (2020)](https://thesephist.com/posts/how-i-write/)
+- [Text as an interface (2020)](https://thesephist.com/posts/text/)
