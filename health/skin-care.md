@@ -19,3 +19,4 @@ I gently shave after shower and use [Brushless Shave Cream](https://www.amazon.c
 - [Morning Routine - American Psycho](https://www.youtube.com/watch?v=RjKNbfA64EE) - Pretty awesome scene.
 - [Glossier](https://www.glossier.com/)
 - [Spring/Summer Morning Skincare Routine (2020)](https://www.youtube.com/watch?v=E4x2YCXJD8Y)
+- [Skin Care routine rec](https://twitter.com/abbyfuller/status/1264619300054134784)

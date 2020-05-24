@@ -21,3 +21,4 @@
 - [Estimating COVID-19's R_t in Real-Time](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb)
 - [Exposure Notification Reference Server | Covid-19 Exposure Notifications](https://github.com/google/exposure-notifications-server)
 - [Epidemic Modeling for Everyone](https://github.com/DataForScience/Epidemiology101)
+- [Things we do and don't yet know about covid-19](https://twitter.com/meganranney/status/1264589288659922945)
