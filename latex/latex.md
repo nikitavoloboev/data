@@ -33,4 +33,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LaTeX Tips](https://jaydaigle.net/latex/)
 - [Biber](https://github.com/plk/biber) - Backend processor for BibLaTeX.
 - [Blank starter LaTeX code for writing papers and slides](https://github.com/tonyduan/paper-template)
-- [LaTeX.css](https://latex.now.sh/) - Make your website look like a LaTeX document. ([HN](https://news.ycombinator.com/item?id=23282207))
+- [LaTeX.css](https://latex.now.sh/) - Make your website look like a LaTeX document. ([HN](https://news.ycombinator.com/item?id=23282207)) ([Code](https://github.com/vincentdoerig/latex-css))

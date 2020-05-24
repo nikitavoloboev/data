@@ -52,3 +52,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Keeping a Bibliography (2020)](https://bastian.rieck.me/blog/posts/2020/bibliography/) ([HN](https://news.ycombinator.com/item?id=22683294))
 - [Tips for releasing research code in Machine Learning](https://github.com/paperswithcode/releasing-research-code)
 - [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) - Jekyll extensions for the blogging scholar.
+- [Peer Review (2020)](https://rodneybrooks.com/peer-review/) ([HN](https://news.ycombinator.com/item?id=23280372))

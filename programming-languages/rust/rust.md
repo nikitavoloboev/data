@@ -216,3 +216,4 @@
 - [rust-cross](https://github.com/japaric/rust-cross) - Everything you need to know about cross compiling Rust programs.
 - [Rust verification tools (2020)](https://alastairreid.github.io/rust-verification-tools/)
 - [Common Rust Lifetime Misconceptions](https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md) ([HN](https://news.ycombinator.com/item?id=23279731))
+- [Rust's Runtime (2020)](https://blog.mgattozzi.dev/rusts-runtime/) ([Lobsters](https://lobste.rs/s/mluz45/rust_s_runtime))
