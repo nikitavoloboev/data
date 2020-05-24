@@ -22,3 +22,4 @@ In any way, you probably live only one life. So best [make it count](http://paul
 - [Life Under The Ice](https://lifeundertheice.org/) - Exploratory tour through the microscopic world of Antarctica.
 - [Why Are You Alive – Life, Energy & ATP (2020)](https://www.youtube.com/watch?v=QImCld9YubE)
 - [The Odds of Life and Intelligence (2020)](https://www.youtube.com/watch?v=iLbbpRYRW5Y) ([Twitter](https://twitter.com/BadAstronomer/status/1262759449384517634))
+- [The Chiral Puzzle of Life (2020)](https://iopscience.iop.org/article/10.3847/2041-8213/ab8dc6) ([HN](https://news.ycombinator.com/item?id=23294294))

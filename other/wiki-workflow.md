@@ -64,6 +64,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Ellie's wiki](https://ellie.wiki/) ([Code](https://github.com/elliebike/wiki))
 - [Max Stoiber's notes](https://notes.mxstbr.com/Evergreen_notes)
 - [Tom Critchlow](https://tomcritchlow.com/wiki/)
+- [panthema.net](http://bingmann.github.io/) - Diverse collection of interesting ideas.
 - [Buster Benson](https://busterbenson.com/piles/)
 - [Nick Belzer](https://wiki.nickbelzer.me/)
 - [Burke Libbey's notes](https://notes.burke.libbey.me/)
