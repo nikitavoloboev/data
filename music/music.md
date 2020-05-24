@@ -33,3 +33,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [How Distortion Works in Music (2020)](https://benmosheron.gitlab.io/blog/2020/04/26/distortion.html) ([HN](https://news.ycombinator.com/item?id=23232268))
 - [Audio Vault](https://www.audio-vault.com/) - Curated Music that Means Something.
 - [MusicBrainz](https://musicbrainz.org/) - Open music encyclopedia that collects music metadata and makes it available to the public.
+- [Natural Music](https://www.naturalmusic.co/) - Help you discover your new favorite music.
