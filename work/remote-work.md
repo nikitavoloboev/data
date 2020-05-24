@@ -51,3 +51,4 @@
 - [HN: Twitter Will Allow Employees to Work at Home Forever (2020)](https://news.ycombinator.com/item?id=23155647)
 - [What you think is bad about remote work, can, well, actually be good (2020)](https://thorstenball.com/blog/2020/05/22/what-you-think-is-bad-about-remote-work-can-actually-be-good/)
 - [There](https://there.so/) - Talk within your remote team. Hold a key and talk to a teammate anytime, while respecting their focus.
+- [Ask HN: If you could work remote where would you live? (2020)](https://news.ycombinator.com/item?id=23294799)
