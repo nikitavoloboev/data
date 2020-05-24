@@ -22,6 +22,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [o](https://github.com/xyproto/o) - Small, fast and limited text editor.
 - [RichEditorView](https://github.com/YoomamaFTW/RichEditorView) - Rich Text Editor in Swift.
 - [lite](https://github.com/rxi/lite) - Lightweight text editor written in Lua.
+- [Blockly](https://github.com/google/blockly) - Web-based, visual programming editor.
 
 ## Web
 

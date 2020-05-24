@@ -35,6 +35,7 @@
 
 - [Python](https://github.com/datamine/project-euler)
 - [Python](https://github.com/davidnsun/project-euler-py)
+- [Python](https://johnloeber.com/docs/projecteuler.html)
 - [Haskell](https://github.com/yfeldblum/haskell-euler)
 - [Python, Haskell](https://github.com/zacharydenton/euler)
 
