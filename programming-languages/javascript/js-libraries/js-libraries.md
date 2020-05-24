@@ -245,6 +245,7 @@
 - [color2k](https://github.com/ricokahler/color2k) - Color parsing and manipulation lib served in 2kB or less.
 - [Sandstorm](https://sandstorm.io/) - Open source platform for self-hosting web apps. ([Code](https://github.com/sandstorm-io/sandstorm))
 - [transformation-matrix](https://github.com/chrvadala/transformation-matrix) - JS isomorphic 2D affine transformations written in ES6 syntax.
+- [Muuri](https://github.com/haltu/muuri) - JavaScript layout engine that allows you to build all kinds of layouts and make them responsive, sortable, filterable, draggable and/or animated.
 
 ## Links
 

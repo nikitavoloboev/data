@@ -208,3 +208,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [KindleUnpack](https://github.com/kevinhendricks/KindleUnpack) - Python based software to unpack Amazon / Kindlegen generated ebooks.
 - [How to write a programming book (2020)](https://www.aquicarattino.com/blog/how-write-programming-book/) ([HN](https://news.ycombinator.com/item?id=23281568))
 - [Most book clubs are doing it wrong (2017)](http://jsomers.net/blog/book-clubs) ([HN](https://news.ycombinator.com/item?id=23292749))
+- [Antilibrary](https://www.antilibrari.es/) - Space both for celebrating all sorts of amazing books, and exploring more broadly the idea of learning from the unknown.

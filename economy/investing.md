@@ -63,3 +63,4 @@
 - [HN: Have the Record Number of Investors in the Stock Market Lost Their Minds? (2020)](https://news.ycombinator.com/item?id=23200830)
 - [toro](https://gitlab.com/aenegri/toro) - Trade stocks from the command line with no commission. ([HN](https://news.ycombinator.com/item?id=23209142))
 - [Angel Investing: Start to Finish (2020)](https://www.holloway.com/b/angel-investing)
+- [Intelligent Investor book notes](https://wiki.harrison.dev/books/intelligent-investor.html)

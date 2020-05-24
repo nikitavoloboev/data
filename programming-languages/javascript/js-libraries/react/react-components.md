@@ -94,6 +94,7 @@
 - [react-polymorphic-box](https://github.com/kripod/react-polymorphic-box) - Building blocks for strongly typed polymorphic components in React.
 - [react-scroll-percentage](https://github.com/thebuilder/react-scroll-percentage) - Monitor the scroll percentage of a component inside the viewport, using the IntersectionObserver API.
 - [react-magnifier](https://github.com/samuelmeuli/react-magnifier) - React image zoom component.
+- [ReactReparenting](https://github.com/paol-imi/react-reparenting) - Reparenting tools for React. ([Web](https://paol-imi.github.io/react-reparenting/))
 
 ## Links
 
