@@ -25,3 +25,4 @@
 - [Samtools org](http://samtools.github.io/) - Several groups working on formats and tools for next-generation sequencing.
 - [Samtools tools](https://github.com/samtools/samtools) - Tools (written in C using htslib) for manipulating next-generation sequencing data.
 - [Specifications of SAM/BAM and related high-throughput sequencing file formats](http://samtools.github.io/hts-specs/) ([Code](https://github.com/samtools/hts-specs))
+- [Research into single-molecule fluorescence and protein-DNA interactions](http://justinpinkney.com/site/01_Biophysics.html)

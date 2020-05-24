@@ -136,6 +136,7 @@ Here are few more things I liked, design wise.
 - [Jon Gjengset](https://thesquareplanet.com/)
 - [Robert Squires](https://robertsquires.co.uk/)
 - [Paul Shen](https://bypaulshen.com/)
+- [Ian Jones](https://www.ianjones.us/) ([Code](https://github.com/theianjones/blog))
 - [Kabir Shah](https://kabir.sh/)
 - [Moe Amaya](https://moeamaya.com/)
 - [Matt Oswalt](https://oswalt.dev/) ([Code](https://github.com/Mierdin/blog))
