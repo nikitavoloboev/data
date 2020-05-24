@@ -7,4 +7,4 @@
 - [Awesome SQLite](https://github.com/planetopendata/awesome-sqlite#readme)
 - [All things around SQLite](https://github.com/mindreframer/awesome-sqlite#readme)
 - [SQLite 3.32.0 (2020)](https://sqlite.org/releaselog/3_32_0.html) ([HN](https://news.ycombinator.com/item?id=23281994))
-- [Scaling SQLite to 4M QPS on a Single Server (EC2 vs Bare Metal) (2018)](https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/)
+- [Scaling SQLite to 4M QPS on a Single Server (EC2 vs Bare Metal) (2018)](https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/) ([HN](https://news.ycombinator.com/item?id=23291779))

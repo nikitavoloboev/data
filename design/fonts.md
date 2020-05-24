@@ -30,6 +30,7 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Sparks](https://github.com/aftertheflood/sparks) - Typeface for creating sparklines in text without code.
 - [BLOKK](http://www.blokkfont.com/) - Gives you a nice fill text for mock-ups and wireframing without the lorem ipsum.
 - [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - Self-censoring font. ([HN](https://news.ycombinator.com/item?id=23131559))
+- [Amstelvar](https://www.typenetwork.com/brochure/opentype-variable-fonts-moving-right-along/) - Parametric variable font by David Berlow. ([Code](https://github.com/TypeNetwork/Amstelvar))
 
 ## Links
 
