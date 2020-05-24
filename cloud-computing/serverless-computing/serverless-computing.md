@@ -23,7 +23,6 @@
 - [Pulumi Examples](https://github.com/pulumi/examples) - Contains examples of using Pulumi to build and deploy cloud applications and infrastructure.
 - [2019 in Review - rauchg](https://rauchg.com/2020/2019-in-review) ([HN](https://news.ycombinator.com/item?id=21965551))
 - [Cloudstate](https://github.com/cloudstateio/cloudstate) - Distributed State Management for Serverless.
-- [AWS Amplify CLI](https://github.com/aws-amplify/amplify-cli) - CLI toolchain for simplifying serverless web and mobile development.
 - [Deploy Your First Serverless Function Using JavaScript (2020)](https://dev.to/jlengstorf/deploy-your-first-serverless-function-using-javascript-1g4e)
 - [Cloud Run Button](https://github.com/GoogleCloudPlatform/cloud-run-button) - Let anyone deploy your GitHub repos to Google Cloud Run with a single click.
 - [Build a serverless website from scratch using S3, API Gateway, AWS Lambda, Go and Terraform (2019)](https://rogerwelin.github.io/aws/serverless/terraform/lambda/2019/03/18/build-a-serverless-website-from-scratch-with-lambda-and-terraform.html)
@@ -40,7 +39,6 @@
 - [Living On The Edge: Lazy Static Sites With Modern CDNs And Lambda (2020)](https://formidable.com/blog/2019/modern-cdns-lambda/)
 - [λ-NIC: Interactive Serverless Compute on Programmable SmartNICs (2019)](https://arxiv.org/pdf/1909.11958.pdf)
 - [snow](https://github.com/snowjs/cli) - CLI tool for dead-simple serverless Docker deployments on managed Kubernetes services. A self-hosted PaaS.
-- [AWS Amplify JS](https://github.com/aws-amplify/amplify-js) - JavaScript library for frontend and mobile developers building cloud-enabled applications.
 - [Serverless-Dev-Tools](https://github.com/Theodo-UK/sls-dev-tools) - Developer Tools for the Serverless World - think Chrome Dev Tools but for Serverless.
 - [Weave Ignite](https://github.com/weaveworks/ignite) - Open source Virtual Machine (VM) manager with a container UX and built-in GitOps management.
 - [Faasm](https://github.com/lsds/Faasm) - High-performance stateful serverless runtime.

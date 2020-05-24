@@ -60,6 +60,7 @@
 - [YLD](https://www.yld.io/)
 - [PerfPerfPerf](https://3perf.com/) - Web performance consultancy. ([Code](https://github.com/3perf/website))
 - [RedMadRobot](https://www.redmadrobot.com/) - Full cycle product development.
+- [Parallax](https://parall.ax/) - Digital agency.
 
 ## Links
 

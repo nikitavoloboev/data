@@ -63,7 +63,6 @@
 - [NextJS Default Template](https://github.com/ryyppy/nextjs-default) - Opinionated Boilerplate for NextJS, Tailwind and Reason.
 - [Getting started with Next.js, ZEIT Now, and Firebase (2020)](https://dev.to/benzguo/getting-started-with-next-js-now-firebase-4ejg)
 - [NextJS Tips](https://nextjstips.com/) - Collection of useful daily Next.js tips that will allow you to improve your skills.
-- [Deploying a Next app with AWS Amplify Hosting (2020)](https://dev.to/dabit3/5-minute-tutorial-deploying-a-next-app-with-aws-amplify-hosting-5199)
 - [nookies](https://github.com/maticzav/nookies) - Collection of cookie helpers for Next.js
 - [Building a Markdown blog with Next 9.3 and Netlify (2020)](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.3-and-netlify/)
 - [Server-Side Rendered Real-time Web App with Next.js, AWS Amplify & GraphQL (2019)](https://dev.to/rakannimer/server-side-rendered-real-time-web-app-with-next-js-aws-amplify-graphql-2j49)
