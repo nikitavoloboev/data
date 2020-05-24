@@ -76,6 +76,7 @@
 - [FaunaDB](https://fauna.com/) - Database built for serverless, featuring native GraphQL. ([Awesome](https://github.com/n400/awesome-faunadb#readme))
 - [immudb](https://github.com/codenotary/immudb) - Lightweight, high-speed immutable database for systems and applications. Written in Go.
 - [NutsDB](https://github.com/xujiajun/nutsdb) - Simple, fast, embeddable, persistent key/value store written in pure Go.
+- [remoteStorage](https://remotestorage.io/) - Open protocol for per-user storage on the Web.
 
 ## Tools
 
@@ -142,3 +143,4 @@
 - [Succinct Data Structures and Delta Encoding for Modern Databases (2020)](https://terminusdb.com/t/papers/terminusdb-git.pdf)
 - [About Pool Sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations written in Go. Use as CLI or import as library.
+- [I want to own the database that my apps use (2020)](https://orndorffgrant.com/own-your-data-idea/) ([Lobsters](https://lobste.rs/s/dyeuqm/i_want_own_database_my_apps_use))
