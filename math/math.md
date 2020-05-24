@@ -144,3 +144,4 @@
 - [Against Set Theory (2005)](http://ontology.buffalo.edu/04/AgainstSetTheory.pdf) ([HN](https://news.ycombinator.com/item?id=23206937))
 - [Discrete Mathematics: An Open Introduction](http://discrete.openmathbooks.org/dmoi3.html) ([HN](https://news.ycombinator.com/item?id=23214961))
 - [Graduate Student Solves Decades-Old Conway Knot Problem (2020)](https://www.quantamagazine.org/graduate-student-solves-decades-old-conway-knot-problem-20200519/) ([HN](https://news.ycombinator.com/item?id=23236599))
+- [What Made me a Mathematician: Off-the-Cuff Story Telling for a Story-Telling Class (2020)](https://www.youtube.com/watch?v=b86QcxdrNF4)

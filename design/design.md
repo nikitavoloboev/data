@@ -38,7 +38,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Firefox: The Evolution Of A Brand (2019)](https://blog.mozilla.org/opendesign/firefox-the-evolution-of-a-brand/)
 - [Labels are a last resort](https://refactoringui.com/previews/labels-are-a-last-resort/)
 - [UI Design](https://github.com/tipoqueno/UI-Design#readme) - Curated list of useful resources related to User Interface Design.
-- [Rad Lines](https://github.com/msurguy/rad-lines) - Vector Generator Tool.
+- [Rad Lines](https://github.com/msurguy/rad-lines) - Vector Generator Tool. ([Web](https://msurguy.github.io/rad-lines/))
 - [The best design resources for new designers (2019)](https://www.uigoodies.com/blog/the-best-resources-for-new-designers.html)
 - [Awesome Design](https://github.com/gztchan/awesome-design#readme) - Focuses on collecting high quality resources and tools which can be used by UI/UX designers in daily work.
 - [Awesome Design 2](https://github.com/troyericg/awesome-design#readme)

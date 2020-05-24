@@ -29,3 +29,4 @@
 - [Practical SVG book](https://abookapart.com/products/practical-svg)
 - [How to emulate hand-drawn shapes / Algorithms behind RoughJS (2020)](https://shihn.ca/posts/2020/roughjs-algorithms/)
 - [SVG for Everybody](https://jonneal.dev/svg4everybody/) - Adds external spritemaps support to otherwise SVG-capable browsers. ([Code](https://github.com/jonathantneal/svg4everybody))
+- [CNC Hershey Font Tool](https://msurguy.github.io/cnc-text-tool/) ([Code](https://github.com/msurguy/cnc-text-tool))

@@ -64,6 +64,10 @@ Below is a list of plugins I use.
 - [Linter Shellcheck](https://github.com/SublimeLinter/SublimeLinter-shellcheck) - Linter plugin for SublimeLinter provides an interface to shellcheck.
 - [Linter flake8](https://github.com/SublimeLinter/SublimeLinter-flake8) - Provides an interface to [flake8](http://flake8.readthedocs.org/en/latest/).
 
+## Theme
+
+- [Alabaster](https://github.com/tonsky/sublime-scheme-alabaster) - Light color scheme with minimal amount of highlighting.
+
 ## Git
 
 - [Git](https://github.com/kemayo/sublime-text-git) - Git integration.
