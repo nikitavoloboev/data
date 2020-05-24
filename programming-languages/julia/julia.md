@@ -27,3 +27,4 @@
 - [Set of IPython (Jupyter) notebooks to introduce the Julia programming language](https://github.com/daanhb/Julia-tutorial)
 - [OhMyREPL](https://github.com/KristofferC/OhMyREPL.jl) - Syntax highlighting and other enhancements for the Julia REPL.
 - [Tutorials on Topics in Julia Programming](https://github.com/johnmyleswhite/julia_tutorials) ([Tweet](https://twitter.com/johnmyleswhite/status/1264355256974168067))
+- [Why learn julia? (2020)](https://www.reddit.com/r/Julia/comments/gph8ob/why_learn_julia/)
