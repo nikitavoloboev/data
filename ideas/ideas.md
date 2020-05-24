@@ -51,3 +51,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: What's your quarantine side project? (2020)](https://news.ycombinator.com/item?id=23170881)
 - [Things I want to figure out/see implemented eventually](https://beepb00p.xyz/ideas.html)
 - [Ask HN: Looking for Side Project Ideas (2020)](https://news.ycombinator.com/item?id=23290536)
+- [Interesting ideas for JS related projects](https://twitter.com/Vjeux/status/1264241470598340608)

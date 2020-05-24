@@ -25,3 +25,4 @@
 - [SEO is Not Hard — A step-by-step SEO Tutorial for beginners that will get you ranked every single time (2016)](https://medium.com/startup-grind/seo-is-not-hard-a-step-by-step-seo-tutorial-for-beginners-that-will-get-you-ranked-every-single-1b903b3ab6bb)
 - [SEO that anyone can handle (2020)](https://www.reddit.com/r/startups/comments/gk5pyd/seo_that_anyone_can_handle/)
 - [SEOBrowse](https://seobrowse.com/) - Google search for SEO professionals.
+- [Ahrefs](https://ahrefs.com/) - Helps you learn why your competitors rank so high and what you need to do to outrank them.
