@@ -20,6 +20,10 @@ There is a [workflow](https://github.com/isometry/alfred-tty) to quickly switch 
 
 ![](https://i.imgur.com/a4Iuomp.png)
 
+## Notes
+
+- [Can opt click to move cursor inside a command.](https://twitter.com/leonte_dev/status/1264140864751878144)
+
 ## Links
 
 - [Make macOS hotkeys work with iTerm](https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line/29403520#29403520)

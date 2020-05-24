@@ -164,6 +164,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [107 books recommended by Patrick Collison](https://www.goodbooks.io/people/patrick-collison)
 - [Ask HN: Mind bending books to read and never be the same as before? (2020)](https://news.ycombinator.com/item?id=23151144)
 - [Tom MacWright's reading list](https://macwright.org/reading/)
+- [Which books have you read at least 3 times? (2020)](https://twitter.com/alexeyguzey/status/1264287735797465088)
 
 ## Notes
 
