@@ -43,3 +43,4 @@
 - [Shoumik's PhD Defense "Interfaces for Efficient Software Composition on Modern Hardware" (2020)](https://www.youtube.com/watch?v=qze_aB4dPDw)
 - [Bare Metal in a Cloud Native World (2020)](https://thenewstack.io/bare-metal-in-a-cloud-native-world/)
 - [My New Old Apple IIe Computer (2020)](https://www.charlieharrington.com/my-new-old-apple-iie-computer) ([HN](https://news.ycombinator.com/item?id=23167350))
+- [Computer Architecture - Introduction (2018)](https://oneraynyday.github.io/dev/2018/10/02/M151B/)
