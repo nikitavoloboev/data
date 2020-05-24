@@ -14,3 +14,4 @@
 - [slack-rs](https://github.com/slack-rs/slack-rs) - Slack realtime messaging client for rust.
 - [Phelia](https://github.com/maxchehab/phelia) - Build interactive Slack apps without webhooks or JSON headache.
 - [Top Slack Apps](https://slackrank.wilhelmklopp.com/)
+- [Data models for Slack Apps (2020)](https://wilhelmklopp.com/posts/slack-database-modelling/)
