@@ -48,6 +48,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [MonitorControl](https://github.com/the0neyouseek/MonitorControl) - Control your external monitor brightness & volume on your Mac.
 - [Up Next](https://ellen.li/up-next/) - Meetings at a glance from your macOS menu bar.
 - [Multi](https://github.com/hkgumbs/multi) - Create a custom, lightweight macOS app from a group of websites. ([HN](https://news.ycombinator.com/item?id=23275080))
+- [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 
 ## Other interesting apps
 
