@@ -21,3 +21,4 @@
 - [bvh](https://github.com/svenstaro/bvh) - Rust crate which exports rays, axis-aligned bounding boxes, and binary bounding volume hierarchies.
 - [Revisiting the Businesscard Raytracer (2020)](http://fabiensanglard.net/revisiting_the_businesscard_raytracer/index.html)
 - [Ray Tracing In Notepad.exe At 30 FPS (2020)](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html) ([HN](https://news.ycombinator.com/item?id=23246221))
+- [MentisOculi Pytorch Path Tracer](https://github.com/mmirman/MentisOculi)
