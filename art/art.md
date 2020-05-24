@@ -53,6 +53,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Eva Eskelinen](https://www.instagram.com/evelmiina/)
 - [Moonassi](http://www.moonassi.com/)
 - [Liam Wong](https://www.liamwong.com/)
+- [Guim Tió](https://www.instagram.com/guimtio/)
 - [Pascal Campion](https://www.instagram.com/pascalcampionart/)
 - [Bastien Grivet](https://www.artstation.com/grivetart)
 - [Alice Lee](https://www.byalicelee.com/)
