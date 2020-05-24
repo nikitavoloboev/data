@@ -20,6 +20,7 @@
 - [Brightloom](https://www.brightloom.com/) - Harness data science to increase the value of your current customers and owned channels.
 - [Founding Sales: The Early Stage Go-To-Market Handbook (2020)](https://www.holloway.com/b/founding-sales)
 - [Sandwich](https://sandwich.co/) - We make commercials. The kind people like.
+- [Tips on doing sales](https://news.ycombinator.com/item?id=23285438)
 
 ## Images
 

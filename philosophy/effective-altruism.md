@@ -13,7 +13,7 @@
 
 ## Links
 
-- [GiveWell](https://www.givewell.org) - High impact giving opportunities that are supported by in-depth charity research. [Top Charities](https://www.givewell.org/charities/top-charities).
+- [GiveWell](https://www.givewell.org) - High impact giving opportunities that are supported by in-depth charity research. ([Top Charities](https://www.givewell.org/charities/top-charities)) ([Top Charities 2](https://app.effectivealtruism.org/funds/partners/givewell))
 - [Deedmob](https://www.deedmob.com/) - Discover fun, social and impactful ways to volunteer.
 - [Top Animal Care Charities](https://animalcharityevaluators.org/donation-advice/recommended-charities/) - ACE’s Top Charities work in ways that are most likely to produce the greatest gains for animals, actively evaluate and improve their programs, and have a demonstrated need for more funding.
 - [80,000 Hours](https://80000hours.org/) - You have 80,000 hours in your career. Make the right career choices, and you can help solve the world’s most pressing problems, as well as have a more rewarding, interesting life.
