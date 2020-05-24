@@ -111,3 +111,4 @@
 - [Convolutional neural networks for artistic style transfer (2017)](https://harishnarayanan.org/writing/artistic-style-transfer/)
 - [Certifiable Robustness to adversarial Attacks; What is the Point? | Nick Frosst (2020)](https://www.youtube.com/watch?v=OfSxYqU-6s0)
 - [LAG: Latent Adversarial Generator](https://github.com/google-research/lag)
+- [Towards improved generalization in few-shot classification (2019)](https://tmramalho.github.io/science/2019/12/07/towards-improved-generalization-in-few-shot-classification/)

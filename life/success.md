@@ -11,6 +11,7 @@ Success comes from not giving up and doing what you love.
 - [A generally-preferable alternative to “worse is better” is, in my mind, “real artists ship”. (This is to say: availability is a prerequisite for adoption, while quality only ranks available options.)](https://lobste.rs/s/qcglg2/worse_is_worse_2003)
 - [All learning is dependent on feedback. The faster the feedback, the faster you can learn. Thus, in many domains, the individual, team, or organization with the fastest feedback cycle is the one that wins.](https://twitter.com/JamesClear/status/1084862272734937095)
 - [Explore the solution space before refining the solution. (aka 'Get the right design, then get the design right')](https://twitter.com/destraynor/status/1087398748479733760)
+- [Pessimists sound smart. Optimists make money.](https://twitter.com/patrickc/status/1263482890668503041)
 
 ## Links
 
