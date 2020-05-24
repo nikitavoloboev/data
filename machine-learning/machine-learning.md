@@ -201,7 +201,6 @@
 - [ML courses by Zico Kolter](http://zicokolter.com/courses/)
 - [List of AI Residency Programs](https://github.com/dangkhoasdc/awesome-ai-residency#readme)
 - [MIT Introduction to Deep Learning course (2020)](http://introtodeeplearning.com/)
-- [End-to-End Machine Learning Library blog](https://e2eml.school/blog.html)
 - [Stanford Deep Multi-Task and Meta Learning course (2019)](http://cs330.stanford.edu/)
 - [FastAI book draft (2020)](https://github.com/fastai/fastbook) ([HN](https://news.ycombinator.com/item?id=22449562)) ([Notebooks](https://github.com/fastai/book_nbs))
 - [Python codes implementing algorithms described in Bishop's book "Pattern Recognition and Machine Learning"](https://github.com/ctgk/PRML)

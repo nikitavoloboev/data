@@ -82,3 +82,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [xz/fonts](https://fonts.xz.style/) - Break your users from unethical tracking networks. xz/fonts delivers exclusively open-source fonts through Vercel's impossibly fast CDN. ([Code](https://github.com/xz/fonts))
 - [Text for Proofing Fonts](https://www.typography.com/blog/text-for-proofing-fonts)
 - [The Fastest Google Fonts (2020)](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
+- [Jaimey Shapey's typography](https://jaimeyshapey.com/)
