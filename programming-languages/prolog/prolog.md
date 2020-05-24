@@ -15,3 +15,4 @@
 - [SWI Prolog](https://www.swi-prolog.org/) - Comprehensive free Prolog environment.
 - [Prolog and Logic Programming Historical Sources Archive](http://www.softwarepreservation.org/projects/prolog/) ([HN](https://news.ycombinator.com/item?id=22658770))
 - [Ask HN: Production Prolog in 2020?](https://news.ycombinator.com/item?id=23234017)
+- [Solving the "Miracle Sudoku" in Prolog (2020)](https://benjamincongdon.me/blog/2020/05/23/Solving-the-Miracle-Sudoku-in-Prolog/)
