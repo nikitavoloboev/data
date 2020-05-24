@@ -102,3 +102,4 @@
 - [Ultimate guide to choosing an online course covering practical NLP (2020)](https://www.reddit.com/r/MachineLearning/comments/ghrjfs/d_ultimate_guide_to_choosing_an_online_course/)
 - [HuggingFace `nlp` library - Quick overview (2020)](https://colab.research.google.com/github/huggingface/nlp/blob/master/notebooks/Overview.ipynb) ([Twitter](https://twitter.com/Thom_Wolf/status/1261264437220081667))
 - [aitextgen](https://github.com/minimaxir/aitextgen) - Robust Python tool for text-based AI training and generation using GPT-2. ([HN](https://news.ycombinator.com/item?id=23223358))
+- [Self Supervised Representation Learning in NLP (2020)](https://amitness.com/2020/05/self-supervised-learning-nlp/)

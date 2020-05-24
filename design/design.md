@@ -8,6 +8,10 @@ I do think design applies to everything I am doing. Even this wiki has some _des
 
 Thus I try to be conscious of how my design decisions affect what I do. I like to use [Sketch](https://www.sketchapp.com) and [Figma](https://www.figma.com) when designing things.
 
+## Notes
+
+- [A good way to make your interface look “designed” is to use a consistent space scale](https://twitter.com/siddharthkp/status/1264578950799523843)
+
 ## Links
 
 - [Findguidelin](http://www.findguidelin.es/) - The fastest way to brand assets.
