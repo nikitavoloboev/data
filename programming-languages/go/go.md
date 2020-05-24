@@ -260,3 +260,4 @@ Go promotes composition over inheritance.
 - [mockery](https://github.com/vektra/mockery) - Mock code autogenerator for golang.
 - [Writing type parametric functions in Go (2013)](https://blog.burntsushi.net/type-parametric-functions-golang/)
 - [maybedoer: the Maybe Monoid for Go (2020)](https://christine.website/blog/maybedoer-2020-05-23) ([Lobsters](https://lobste.rs/s/kfsim9/maybedoer_maybe_monoid_for_go))
+- [Learning Go (2020)](https://destroytoday.com/blog/learning-go)

@@ -110,6 +110,7 @@ Here are few more things I liked, design wise.
 - [Fabian Fett](https://fabianfett.de/)
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))
 - [Ernest Ojeh](https://ernestojeh.com/)
+- [Jonnie Hallman](https://destroytoday.com/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)
 - [Monica Lent](https://monicalent.com/)
 - [Sarah Lim](https://slim.computer/)
