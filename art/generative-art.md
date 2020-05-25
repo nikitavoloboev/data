@@ -42,3 +42,4 @@
 - [thedotisblack](https://thedotisblack.com/) - Platform for research design on (generative) drawings and videos made with code. ([YouTube](https://www.youtube.com/channel/UCX4GSh1gpRuugPpjxu0gLmw/videos))
 - [Sketches](https://rolyatmax.github.io/sketches/) ([Code](https://github.com/rolyatmax/sketches))
 - [Jacob Rus's notebooks](https://observablehq.com/@jrus)
+- [PATAKK](https://patakk.tumblr.com/) - Does generative art.
