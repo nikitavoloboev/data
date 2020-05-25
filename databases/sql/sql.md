@@ -46,3 +46,4 @@
 - [Medium-hard SQL interview questions](https://quip.com/2gwZArKuWk7W) ([HN](https://news.ycombinator.com/item?id=23053981))
 - [SQL Police Department – Learn SQL while solving crimes](https://sqlpd.com/) ([HN](https://news.ycombinator.com/item?id=23066776))
 - [Preventing SQL injection: a Django author's perspective (2020)](https://blog.r2c.dev/2020/preventing-sql-injection-a-django-authors-perspective/)
+- [SQL for the rest of us](https://technically.dev/posts/sql-for-the-rest-of-us.html)

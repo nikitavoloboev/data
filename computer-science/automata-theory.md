@@ -22,4 +22,4 @@
 - [Game of Life in one Ruby statement inspired by APL (2020)](https://zverok.github.io/blog/2020-05-16-ruby-as-apl.html) ([HN](https://news.ycombinator.com/item?id=23208431))
 - [Build a digital clock in Conway's Game of Life](https://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life)
 - [Growing Neural Cellular Automata (2020)](https://distill.pub/2020/growing-ca/)
-- [Game of Life on Metal (2020)](https://cutting.io/posts/game-of-life-on-metal/)
+- [Game of Life on Metal (2020)](https://cutting.io/posts/game-of-life-on-metal/) ([Code](https://github.com/dcutting/GameOfLifeOnMetal))

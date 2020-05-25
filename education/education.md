@@ -39,3 +39,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Raise](https://raise.dev/) - Provides paid training and mentorship to software developers with an emphasis on production applications, team collaboration, and industry best practices.
 - [Prenda School](https://prendaschool.com/) - In-home microschools led by inspiring mentors.
 - [DormDev](https://dormdev.com/) - Home of student developers.
+- [The technical literacy crisis](https://technically.dev/posts/the-technical-literacy-crisis.html)
