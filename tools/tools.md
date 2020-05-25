@@ -40,6 +40,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Readmo](https://readmo.app/) - App that helps you read more. Displays articles in a simplified and distraction-free mode.
 - [Muse](https://museapp.com/) - iPad sketchbook.
 - [Complice](https://complice.co/) - Progress towards what matters. Provides intuitive goal-creation wizard.
+- [Retool](https://retool.com/) - Cuts the time it takes to build internal tools in half.
 - [Exposure](https://exposure.co/) - Modern publishing platform for photographers and visual storytellers.
 - [Tara](https://tara.ai/) - Platform for modern product development. ([HN](https://news.ycombinator.com/item?id=23033387))
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.

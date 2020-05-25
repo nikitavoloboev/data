@@ -52,3 +52,4 @@
 - [Curated Self Study Guide for Computer Science and DevOps/SRE/SysAdmin](https://sharjeelsayed.github.io/selfupgradeitprof.txt)
 - [How to Run Algorithmic Information Theory on a Computer (1995)](https://arxiv.org/abs/chao-dyn/9509014v2) ([HN](https://news.ycombinator.com/item?id=23242549))
 - [Nature Computational Science](https://www.nature.com/natcomputsci) - Online-only journal focused on the development and use of computational techniques and mathematical models to address complex problems across a range of disciplines.
+- [What was so fundamental about the Turing machine? Which reference should I read to learn about it? (2020)](https://www.reddit.com/r/computerscience/comments/gpsdcp/what_was_so_fundamental_about_the_turing_machine/)
