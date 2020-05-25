@@ -206,3 +206,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Suggest Subreddit](https://github.com/nikaspran/suggest-subreddit) - Recommend subreddits based on what the user is already subscribed to.
 - [No-Code MVP](https://nocodemvp.com/) - Fast and cost-effective way to build and validate your startup ideas, without any code.
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings#readme) - List of strings which have a high probability of causing issues when used as user-input data. ([HN](https://news.ycombinator.com/item?id=23291458))
+- [Tiny Bluetooth LE Library](https://github.com/intel-iot-devkit/tinyb)

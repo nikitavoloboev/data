@@ -412,6 +412,7 @@
 - [go-farm](https://github.com/dgryski/go-farm) - Google's FarmHash hash functions implemented in Go.
 - [bleve](https://github.com/blevesearch/bleve) - Modern text indexing library for go.
 - [glob](https://github.com/gobwas/glob) - Go Globbing Library.
+- [exhaustive](https://github.com/nishanths/exhaustive) - Ensure exhaustiveness of enum switch statements in Go code.
 
 ## Links
 

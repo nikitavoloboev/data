@@ -33,3 +33,4 @@
 - [Magic Link](https://magic.link/) - Drop passwords. Use magic links.
 - [User authentication with passwords, What’s SRP? (2020)](https://www.cryptologie.net/article/503/user-authentication-with-passwords-whats-srp/)
 - [JustAuthenticateMe](https://www.justauthenticate.me/) - Passwordless email-based authentication for your web app.
+- [loginsrv](https://github.com/tarent/loginsrv) - Standalone minimalistic login server providing a JWT login for multiple login backends.

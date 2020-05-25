@@ -68,6 +68,8 @@
 - [CollectionLayouts](https://github.com/gringoireDM/LNZCollectionLayouts)
 - [KeyboardAvoider](https://github.com/michaelhenry/KeyboardAvoider) - Missing interactive keyboard in SwiftUI for iOS.
 - [RichEditorView](https://github.com/cjwirth/RichEditorView) - Simple, modular, drop-in UIView subclass for Rich Text Editing.
+- [liquid-swipe](https://github.com/Cuberto/liquid-swipe)
+- [rate-it](https://github.com/Cuberto/rate-it) - Showcase of custom user rate screen, with responsive emotional animated controls.
 
 ## macOS
 
@@ -328,6 +330,7 @@
 - [Regift](https://github.com/matthewpalmer/Regift) - Simple tool that can add and icon overlay with app version to your iOS app icon.
 - [Fluent UI Apple](https://github.com/microsoft/fluentui-apple) - UIKit and AppKit controls for building native Microsoft experiences.
 - [Flexer](https://github.com/ChimeHQ/Flexer) - Lexing library for Swift.
+- [Markup](https://github.com/SwiftDocOrg/Markup) - Swift package for working with HTML, XML, and other markup languages, based on libxml2.
 
 ## Other (not lib)
 

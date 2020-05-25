@@ -161,3 +161,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Tracing iOS Kernel Functions - Building a Kernel Function Trace Tool for Security Research (2020)](https://www.youtube.com/watch?v=qm_oLQFGRsQ)
 - [Every Apple Platform Security Guide](https://github.com/0xmachos/Apple-Platform-Security-Guides)
 - [VersionIcon](https://github.com/DanielCech/VersionIcon) - Script written in Swift that prepares the iOS app icon overlay with ribbon, build type and version (build) info.
+- [Passkit Generator](https://github.com/alexandercerutti/passkit-generator) - Easiest way to generate custom Apple Wallet passes in Node.js.
