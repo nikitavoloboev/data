@@ -43,3 +43,4 @@
 - [Sketches](https://rolyatmax.github.io/sketches/) ([Code](https://github.com/rolyatmax/sketches))
 - [Jacob Rus's notebooks](https://observablehq.com/@jrus)
 - [PATAKK](https://patakk.tumblr.com/) - Does generative art.
+- [StippleGen](https://github.com/evil-mad/stipplegen) - Software that can create stipple drawings and “TSP art,” from image files.
