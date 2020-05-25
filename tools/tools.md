@@ -37,6 +37,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Draw.io](https://www.draw.io/) - Online diagramming web site that delivers the source in this project. ([Code](https://github.com/jgraph/drawio))
 - [GoLinks](https://www.golinks.io/) - Replace lengthy URLs with intuitive golinks to get your organization on the same page faster.
 - [f-license](https://github.com/furkansenharputlu/f-license) - Open-source license creation and verification tool.
+- [Pulse](https://pulse.so/) - Keep Remote Teams Aligned No Matter When & Where. ([Twitter](https://twitter.com/leonardofed/status/1264980016850513920))
 - [Readmo](https://readmo.app/) - App that helps you read more. Displays articles in a simplified and distraction-free mode.
 - [Muse](https://museapp.com/) - iPad sketchbook.
 - [Complice](https://complice.co/) - Progress towards what matters. Provides intuitive goal-creation wizard.

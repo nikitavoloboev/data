@@ -91,3 +91,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Graphene](https://gozala.io/work/graphene) - Concept of a web runtime, designed to be thinnest possible layer for the web. Runtime would take URL to an HTML, would load (and cache) it as it's user interface.
 - [IndieWeb](https://indieweb.org/) - Community of individual personal websites, connected by simple standards, based on the principles of owning your domain.
 - [One Word Domains](https://www.oneword.domains/) - Database of all available one-word domains. ([HN](https://news.ycombinator.com/item?id=23291337))
+- [Every Domain](https://everydomain.co/) - Find every available domain for your keyword.
