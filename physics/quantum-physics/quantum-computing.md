@@ -31,3 +31,4 @@
 - [Lecture Notes on Quantum Computation (2020)](https://github.com/mdnls/cs7805-final-presentation)
 - [discopy](https://github.com/oxford-quantum-group/discopy) - Toolbox for computing with monoidal categories.
 - [Introduction to Quantum Information Science Lecture Notes (2018)](https://www.scottaaronson.com/qclec.pdf)
+- [The Argument Against Quantum Computers and the Quantum Laws of Nature](https://news.ycombinator.com/item?id=23291071)

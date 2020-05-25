@@ -42,3 +42,4 @@
 - [XS-Leaks](https://github.com/xsleaks/xsleaks) - Collection of browser-based side channel attack vectors.
 - [Responsively App](https://github.com/manojVivek/responsively-app) - Modified browser that helps in responsive web development.
 - [Things I wish I knew before making a paid extension (2019)](https://www.amie-chen.com/blog/making-paid-extension/)
+- [Wiper](https://github.com/davidahmed/wiper) - Browser add-on to strip search results from 'blacklisted' URLs on Google. ([HN](https://news.ycombinator.com/item?id=23295989))

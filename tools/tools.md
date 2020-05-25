@@ -39,6 +39,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [f-license](https://github.com/furkansenharputlu/f-license) - Open-source license creation and verification tool.
 - [Readmo](https://readmo.app/) - App that helps you read more. Displays articles in a simplified and distraction-free mode.
 - [Muse](https://museapp.com/) - iPad sketchbook.
+- [Complice](https://complice.co/) - Progress towards what matters. Provides intuitive goal-creation wizard.
 - [Exposure](https://exposure.co/) - Modern publishing platform for photographers and visual storytellers.
 - [Tara](https://tara.ai/) - Platform for modern product development. ([HN](https://news.ycombinator.com/item?id=23033387))
 - [Timber](https://timber.io/) - New kind of cloud-based logging system designed for applications and developers.

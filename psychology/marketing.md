@@ -16,7 +16,7 @@
 - [Sales and marketing strategy in the time of COVID-19](https://www.notion.so/Sales-and-marketing-strategy-in-the-time-of-COVID-19-4e4589fd287c438eb863ecf66aff51e2)
 - [Yonder Narrative](https://www.yonder-ai.com/product/) - Detect early signs of coordinated conversations and the online groups responsible for them — before they go viral and impact your brand.
 - [Notes on growth (2020)](https://twitter.com/ibringtraffic/status/1258817333096673281)
-- [How the biggest consumer apps got their first 1,000 users (2020)](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got)
+- [How the biggest consumer apps got their first 1,000 users (2020)](https://www.lennyrachitsky.com/p/how-the-biggest-consumer-apps-got) ([HN](https://news.ycombinator.com/item?id=23290154))
 - [Brightloom](https://www.brightloom.com/) - Harness data science to increase the value of your current customers and owned channels.
 - [Founding Sales: The Early Stage Go-To-Market Handbook (2020)](https://www.holloway.com/b/founding-sales)
 - [Sandwich](https://sandwich.co/) - We make commercials. The kind people like.
