@@ -34,3 +34,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Audio Vault](https://www.audio-vault.com/) - Curated Music that Means Something.
 - [MusicBrainz](https://musicbrainz.org/) - Open music encyclopedia that collects music metadata and makes it available to the public.
 - [Natural Music](https://www.naturalmusic.co/) - Help you discover your new favorite music.
+- [New Soviet Wave](https://newsovietwave.com/)
