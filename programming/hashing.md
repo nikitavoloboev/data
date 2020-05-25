@@ -15,3 +15,4 @@
 - [SHA-256 Animation](https://github.com/in3rsha/sha256-animation) ([HN](https://news.ycombinator.com/item?id=23165333))
 - [SMHasher](https://github.com/aappleby/smhasher) - Test suite designed to test the distribution, collision, and performance properties of non-cryptographic hash functions.
 - [wyhash](https://github.com/wangyi-fudan/wyhash) - Dream fast hash function and random number generators that passed SMHasher, BigCrush and practrand. ([HN](https://news.ycombinator.com/item?id=23282754))
+- [FunctionSimSearch](https://github.com/googleprojectzero/functionsimsearch) - Example C++ code to demonstrate how to do SimHash-based similarity search over CFGs extracted from disassemblies.
