@@ -9,3 +9,4 @@
 - [CloudKitchens](https://www.cloudkitchens.com/) - Build commercial kitchen spaces in less-trafficked areas and rent them out to operators to run delivery-only food businesses.
 - [HN: Our restaurants are failing. Why should food delivery apps thrive?](https://news.ycombinator.com/item?id=23204225)
 - [HN: Restaurants rebel against delivery apps as cities crack down on fees (2020)](https://news.ycombinator.com/item?id=23291170)
+- [Coronavirus Guides for the F&B Industry](https://fnbcovidguide.com/)
