@@ -64,3 +64,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - Seamless ssh-agent for YubiKeys. ([HN](https://news.ycombinator.com/item?id=23130053))
 - [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters#readme)
 - [Web Security Basics](https://github.com/vasanthk/web-security-basics#readme)
+- [A Guide to Threat Modelling for Developers (2020)](https://martinfowler.com/articles/agile-threat-modelling.html)

@@ -125,3 +125,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Git branch naming conventions](https://deepsource.io/blog/git-branch-naming-conventions/) ([HN](https://news.ycombinator.com/item?id=23043881))
 - [Git Command Overview with Useful Flags and Aliases (2020)](https://blog.jakuba.net/git-command-overview-with-useful-flags-and-aliases/)
 - [Question: How does git detect renames? (2020)](https://chelseatroy.com/2020/04/20/question-how-does-git-detect-renames/) ([Lobsters](https://lobste.rs/s/bmfiiw/question_how_does_git_detect_renames))
+- [Git Koans (2013)](https://stevelosh.com/blog/2013/04/git-koans/)

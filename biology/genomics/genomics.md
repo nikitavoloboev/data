@@ -20,3 +20,4 @@
 - [Korkin Lab](http://korkinlab.org/)
 - [Varlociraptor](https://github.com/varlociraptor/varlociraptor) - Flexible, uncertainty-aware variant calling with parameter free filtration via FDR control.
 - [genetools](https://genetools.maximz.com/) - Single-cell analysis recipes. ([Code](https://github.com/maximz/genetools))
+- [Learn Genetics](https://learn.genetics.utah.edu/) ([HN](https://news.ycombinator.com/item?id=23295590))

@@ -109,6 +109,7 @@ Below is a list of music artists I like. I attach my favorite songs from these a
 - [Tristan de Liège](https://soundcloud.com/tristandeliege) - [Rêve De Nuages](https://www.youtube.com/watch?v=RmE8V9_81lo)
 - [Devine Lu Linvega](https://twitter.com/neauoire) - [Hundred Rabbits](https://aliceffekt.bandcamp.com/album/hundred-rabbits)
 - [Oh He Dead](https://open.spotify.com/artist/2nLlWcvMIIGHHnDOQMi0h6) - [Stay (Live)](https://www.youtube.com/watch?v=hHNlphN76jU) | [The Situation (Live)](https://www.youtube.com/watch?v=6-seyQanuI0)
+- [Project Lazarus](https://open.spotify.com/artist/33OJLcrDP4wfgTsq250m9Y?si=K_hWsQDGTdKdDAko0F0NnQ) ([Bandcamp](https://projectlazarus.bandcamp.com/))
 
 ## Interesting artists
 
