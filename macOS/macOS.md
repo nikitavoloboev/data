@@ -73,3 +73,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Kernel debugging macOS with SIP (2020)](https://www.offensive-security.com/offsec/kernel-debugging-macos-with-sip/)
 - [Mac App Store Sandbox Escape (2020)](https://saagarjha.com/blog/2020/05/20/mac-app-store-sandbox-escape/)
 - [macOS 10.15: Slow by Design (2020)](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/) ([HN](https://news.ycombinator.com/item?id=23273247))
+- [Catalina is checking notarization of unsigned executables (2020)](https://lapcatsoftware.com/articles/catalina-executables.html) ([HN](https://news.ycombinator.com/item?id=23281564))
