@@ -16,3 +16,4 @@
 - [Vite](https://github.com/vuejs/vite) - Experimental no-bundle dev server for Vue SFCs.
 - [Building a real-time patient monitoring system with Go and Vue](https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/) ([HN](https://news.ycombinator.com/item?id=23051242))
 - [Just in time compilation technique for server-side rendering](https://github.com/SmallComfort/vue-ssr-jit)
+- [Starter for Vite + VueUse + TypeScript](https://github.com/antfu/vite-vueuse-starter)

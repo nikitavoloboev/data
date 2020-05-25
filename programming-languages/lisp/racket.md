@@ -27,3 +27,4 @@
 - [Racket Stories](https://racket-stories.com/)
 - [Racket News](https://racket-news.com/)
 - [sham](https://github.com/rjnw/sham) - DSL for runtime code generation in racket.
+- [PasteRack](http://www.pasterack.org/) - Evaluating pastebin for Racket. ([Code](https://github.com/stchang/pasterack))
