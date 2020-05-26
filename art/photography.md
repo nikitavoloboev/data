@@ -39,3 +39,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Using SQL to find my best photo of a pelican according to Apple Photos (2020)](https://simonwillison.net/2020/May/21/dogsheep-photos/) ([Tweet](https://twitter.com/simonw/status/1263550178134376448)) ([HN](https://news.ycombinator.com/item?id=23271053))
 - [OSXPhotos](https://github.com/RhetTbull/osxphotos) - Provides the ability to interact with and query Apple's Photos.app library database on MacOS.
 - [Photopea](https://www.photopea.com/) - Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.
+- [Photograph what makes you Happy (Ignore the Labelmakers and Gatekeepers) (2020)](https://www.youtube.com/watch?v=ZJGZxzH_ZpU)
