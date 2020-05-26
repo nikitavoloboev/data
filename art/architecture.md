@@ -24,3 +24,4 @@
 - [A prefab glass cabin with a very Icelandic view (2020)](https://www.curbed.com/2020/5/12/21255300/glass-cabins-iceland-retreat-ood-house)
 - [Curbed](https://www.curbed.com/) - Love where you live—and improve it, all the time.
 - [JW Renders](https://www.jwrenders.com/about) - Creative studio dedicated to architectural and design communication, focused on 3D visualization for interior and furniture design.
+- [Thread of homes to live in](https://twitter.com/marty/status/1217874823898116096) ([Part 2](https://twitter.com/gonsanchezs/status/1265091312946118656))

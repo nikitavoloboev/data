@@ -70,3 +70,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [How UI-driven State Increases Accidental Complexity (2020)](https://evgenii.info/ui-driven-state/) ([HN](https://news.ycombinator.com/item?id=22680369))
 - [HN: Redux – Not Dead Yet (2020)](https://news.ycombinator.com/item?id=22822198)
 - [Redux Actuator](https://github.com/molefrog/redux-actuator) - Communicate between components through Redux store.
+- [Notes on redux design](https://twitter.com/buildsghost/status/1255756148084367361)
