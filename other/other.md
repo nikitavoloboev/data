@@ -210,3 +210,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Tiny Bluetooth LE Library](https://github.com/intel-iot-devkit/tinyb)
 - [Makerpad Community](https://community.makerpad.co/c/introductions)
 - [EnterpriseReady SaaS Feature Guides](https://www.enterpriseready.io/#)
+- [Solutioning for technological resilience](http://wileywiggins.com/merveilles.html)

@@ -81,6 +81,7 @@ And these Discord servers:
 - [Glimmer](https://glitch.com/glimmer/)
 - [Physics Today](https://physicstoday.scitation.org/journal/pto) ([HN](https://news.ycombinator.com/item?id=23043525))
 - [Logic](https://logicmag.io/) - Print magazine about technology that publishes three times per year.
+- [Psyche](https://psyche.co/) - On the human condition.
 
 ### Other
 
