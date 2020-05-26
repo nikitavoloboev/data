@@ -52,3 +52,4 @@ I try to give my full attention to any ideas I am working on.
 - [Things I want to figure out/see implemented eventually](https://beepb00p.xyz/ideas.html)
 - [Ask HN: Looking for Side Project Ideas (2020)](https://news.ycombinator.com/item?id=23290536)
 - [Interesting ideas for JS related projects](https://twitter.com/Vjeux/status/1264241470598340608)
+- [Ideas for productized services](https://twitter.com/tylertringas/status/1265189085334904834)
