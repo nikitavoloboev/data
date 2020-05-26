@@ -46,3 +46,4 @@
 - [Some Were Meant for C - The Endurance of an Unmanageable Language (2017)](https://www.cs.kent.ac.uk/people/staff/srk21/research/papers/kell17some-preprint.pdf) ([Lobsters](https://lobste.rs/s/o0xtns/some_were_meant_for_c))
 - [Developing a programming language in C (2020)](https://www.youtube.com/playlist?list=PLvdK1vRmp8wMzH4w_8sQ30NKU3Bt4Cc-M)
 - [Implementing simple cooperative threads in C (2020)](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/) ([HN](https://news.ycombinator.com/item?id=23293642))
+- [c2go](https://github.com/elliotchance/c2go) - Tool for transpiling C to Go.

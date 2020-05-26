@@ -157,6 +157,7 @@
 - [Patio11's Law: The software economy is bigger than you think (2020)](https://secondbreakfast.co/patio11-s-law) ([HN](https://news.ycombinator.com/item?id=23162651))
 - [Startups, Write Changelogs (2020)](https://medium.com/linear-app/startups-write-changelogs-c6a1d2ff4820)
 - [Habits of High-Functioning Teams (2020)](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html) ([HN](https://news.ycombinator.com/item?id=23290943))
+- [Start House](https://starthouse.xyz/) - 600+ decks from the world's best startups. ([HN](https://news.ycombinator.com/item?id=23305196))
 
 ## Images
 

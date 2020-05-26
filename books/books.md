@@ -211,3 +211,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Most book clubs are doing it wrong (2017)](http://jsomers.net/blog/book-clubs) ([HN](https://news.ycombinator.com/item?id=23292749))
 - [Antilibrary](https://www.antilibrari.es/) - Space both for celebrating all sorts of amazing books, and exploring more broadly the idea of learning from the unknown.
 - [Hello, EPUB (2020)](https://wooorm.com/blog/hello-epub/) - Intro to the format.
+- [On Books](https://github.com/jlevy/on-books#readme) - Collection of readings and notes on the past, present, and future of books.
