@@ -21,3 +21,4 @@
 - [Deno Weekly](https://denoweekly.com/) - Weekly roundup of news, tutorials and projects from the land of Deno.
 - [DenoX](https://github.com/BentoumiTech/denox) - Script runner and workspace configuration for Deno.
 - [PostgreSQL driver for Deno](https://github.com/buildondata/deno-postgres)
+- [Deno Third Party Modules](https://deno.land/x)
