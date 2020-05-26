@@ -28,3 +28,4 @@
 - [Seam-aware Decimater](https://github.com/songrun/SeamAwareDecimater) - Mesh simplification with UV's boundary preserved.
 - [dechroma (2020)](https://flak.tedunangst.com/post/dechroma)
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
+- [BlurHash](https://blurha.sh/) - Compact representation of a placeholder for an image.

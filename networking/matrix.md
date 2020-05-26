@@ -37,3 +37,4 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [mautrix-telegram](https://github.com/tulir/mautrix-telegram) - Matrix-Telegram hybrid puppeting/relaybot bridge.
 - [Maelstrom](https://github.com/maelstrom-rs/maelstrom) - High performance Matrix Home Server in rust.
 - [Matrix iOS SDK](https://github.com/matrix-org/matrix-ios-sdk)
+- [Conduit](https://git.koesters.xyz/timo/conduit) - Matrix homeserver written in Rust.
