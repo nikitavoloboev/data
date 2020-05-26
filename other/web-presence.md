@@ -124,3 +124,4 @@ These are my personal profiles on various websites sorted by categories.
 - [Buy me a Coffee](https://www.buymeacoffee.com/nikitavoloboev)
 - [Open Collective](https://opencollective.com/nikitavoloboev)
 - [Bandcamp](https://bandcamp.com/nikitavoloboev)
+- [Disqus](https://disqus.com/by/nikivi/)

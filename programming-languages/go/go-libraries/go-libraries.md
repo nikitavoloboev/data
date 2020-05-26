@@ -413,6 +413,7 @@
 - [bleve](https://github.com/blevesearch/bleve) - Modern text indexing library for go.
 - [glob](https://github.com/gobwas/glob) - Go Globbing Library.
 - [exhaustive](https://github.com/nishanths/exhaustive) - Ensure exhaustiveness of enum switch statements in Go code.
+- [stream](https://github.com/ghemawat/stream) - Provides filters that can be chained together in a manner similar to Unix pipelines.
 
 ## Links
 
