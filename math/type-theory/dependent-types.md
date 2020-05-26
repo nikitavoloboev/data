@@ -23,3 +23,4 @@
 - [Dependent Type Systems as Macros (2019)](https://www.williamjbowman.com/resources/wjb2019-depmacros.pdf)
 - [In Further Praise of Dependent Types (2020)](https://golem.ph.utexas.edu/category/2020/05/in_further_praise_of_dependent.html) ([HN](https://news.ycombinator.com/item?id=23139972))
 - [Checking Dependent Types with Normalization by Evaluation: A Tutorial](http://davidchristiansen.dk/tutorials/nbe/)
+- [Epigram: Practical Programming with Dependent Types (2004)](http://cs.ru.nl/F.Wiedijk/courses/tt-2010/tvftl/epigram-notes.pdf) ([Lobsters](https://lobste.rs/s/v0cfko/epigram_practical_programming_with))

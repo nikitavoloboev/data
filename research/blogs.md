@@ -46,6 +46,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Alastair Reid](https://alastairreid.github.io/)
 - [Andrew Healey](https://healeycodes.com/)
 - [Technically](https://technically.dev/posts-archive.html)
+- [the morning paper](https://blog.acolyer.org/)
 
 ## Links
 

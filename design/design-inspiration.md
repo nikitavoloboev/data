@@ -53,6 +53,7 @@ Here are few more things I liked, design wise.
 - [NapBot](https://napbotapp.com/)
 - [Nolt](https://nolt.io/) - Lovely footer.
 - [Tonic](https://canopy.cr/tonic)
+- [Triqla](https://triqla.com/)
 
 ## Events
 
