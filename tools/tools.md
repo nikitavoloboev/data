@@ -102,7 +102,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Canny](https://canny.io) - Track feedback to build better products.
 - [EditorConfig](https://editorconfig.org/) - Helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
 - [Apprise](https://github.com/caronc/apprise) - Push Notifications that work with just about every platform.
-- [Bloaty](https://github.com/google/bloaty) - Size profiler for binaries.
+- [Bloaty](https://github.com/google/bloaty) - Size profiler for binaries. ([How it works](https://github.com/google/bloaty/blob/master/doc/how-bloaty-works.md))
 - [mdck](https://github.com/ctm/mdck) - Reports broken links found within md files.
 - [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage.
 - [Mural](https://mural.co/) - Digital workspace for visual collaboration.

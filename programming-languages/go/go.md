@@ -262,3 +262,4 @@ Go promotes composition over inheritance.
 - [maybedoer: the Maybe Monoid for Go (2020)](https://christine.website/blog/maybedoer-2020-05-23) ([Lobsters](https://lobste.rs/s/kfsim9/maybedoer_maybe_monoid_for_go))
 - [Learning Go (2020)](https://destroytoday.com/blog/learning-go)
 - [golintui](https://github.com/nakabonne/golintui) - TUI tool that helps you run various kinds of linters with ease and organize its results, with the power of golangci-lint.
+- [Instrumentation in Go (2020)](https://gbws.io/articles/instrumentation-in-go/) ([HN](https://news.ycombinator.com/item?id=23308357))

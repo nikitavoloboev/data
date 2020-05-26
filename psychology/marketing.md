@@ -21,6 +21,7 @@
 - [Founding Sales: The Early Stage Go-To-Market Handbook (2020)](https://www.holloway.com/b/founding-sales)
 - [Sandwich](https://sandwich.co/) - We make commercials. The kind people like.
 - [Tips on doing sales](https://news.ycombinator.com/item?id=23285438)
+- [Why Marketing Flywheels Work (2020)](https://sparktoro.com/blog/why-marketing-flywheels-work/) ([HN](https://news.ycombinator.com/item?id=23308622))
 
 ## Images
 

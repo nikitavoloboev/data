@@ -15,3 +15,4 @@
 - [Oculus Quest Hand Tracking Physic Examples](https://github.com/dilmerv/OculusQuestHandTrackingPhysics)
 - [Godot Oculus Quest Toolkit](https://github.com/NeoSpark314/godot_oculus_quest_toolkit)
 - [Virtual Reality DOS](https://github.com/sonictruth/vr-dos) - Experimental "PC running DOS" emulator inside a VR environment.
+- [Half-Life: Alyx's SDK walkthrough (2020)](https://twitter.com/joewintergreen/status/1262662025903128576)
