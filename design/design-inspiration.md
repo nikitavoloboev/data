@@ -90,6 +90,7 @@ Here are few more things I liked, design wise.
 - [Adam Schwartz](https://adamschwartz.co/)
 - [Andrew Wang-Hoyer](https://andrew.wang-hoyer.com/)
 - [Thomas Dimson](https://www.thomasdimson.com/)
+- [Shawn Park](https://www.designbyroka.com/)
 - [Amelia Wattenberger](https://wattenberger.com/)
 - [Travis Jeffery](https://travisjeffery.com/)
 - [Julia Johnson](https://www.juliacodes.com/) ([Code](https://github.com/juliajcodes/JuliaCodesGatsby))

@@ -39,6 +39,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [f-license](https://github.com/furkansenharputlu/f-license) - Open-source license creation and verification tool.
 - [Pulse](https://pulse.so/) - Keep Remote Teams Aligned No Matter When & Where. ([Twitter](https://twitter.com/leonardofed/status/1264980016850513920))
 - [Readmo](https://readmo.app/) - App that helps you read more. Displays articles in a simplified and distraction-free mode.
+- [Split](https://www.split.io/) - Feature Delivery Platform for engineering teams that want to confidently release features.
 - [Muse](https://museapp.com/) - iPad sketchbook.
 - [Complice](https://complice.co/) - Progress towards what matters. Provides intuitive goal-creation wizard.
 - [Retool](https://retool.com/) - Cuts the time it takes to build internal tools in half.
