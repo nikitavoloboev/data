@@ -56,3 +56,4 @@
 - [SwiftUI: Running a Mac App Without an Xcode Project (2020)](https://www.objc.io/blog/2020/05/19/swiftui-without-an-xcodeproj/)
 - [Stanford: Developing Applications for iOS using SwiftUI (2020)](https://www.youtube.com/watch?v=jbtqIBpUG7g)
 - [Preview SwiftUI layouts using Emacs org blocks (2020)](http://xenodium.com/swiftui-layout-previews-using-emacs-org-blocks/)
+- [Getting the most out of Xcode Previews for SwiftUI (2020)](https://www.swiftbysundell.com/articles/getting-the-most-out-of-xcode-previews/)

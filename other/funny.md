@@ -33,3 +33,4 @@
 - [Why we at $FAMOUS_COMPANY Switched to $HYPED_TECHNOLOGY (2020)](https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/) ([HN](https://news.ycombinator.com/item?id=23144380))
 - [Quarantine Scrum Meetings as a software engineer](https://www.youtube.com/watch?v=V93umbuL4y0)
 - [n-gate](http://n-gate.com/) - Annotated Hacker News.
+- [Fizz Buzz in Tensorflow](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)

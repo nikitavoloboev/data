@@ -103,6 +103,7 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [butler-cli](https://github.com/benawad/butler-cli) - Prettier for File Structures.
 - [matterbridge](https://github.com/42wim/matterbridge) - Bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, steam, twitch, ssh-chat, zulip, whatsapp, keybase, matrix and more with REST API.
 - [The Law of Conservation of Complexity (1984)](http://nomodes.com/Larry_Tesler_Consulting/Complexity_Law.html) ([HN](https://news.ycombinator.com/item?id=22375331))
+- [Bytepack](https://bytepack.io/) - Helps you package and deliver software products to developers and enterprises.
 - [Broadcaster](https://github.com/encode/broadcaster) - Helps you develop realtime streaming functionality in by providing a simple broadcast API onto a number of different backend services.
 - [Sanitizers](https://github.com/google/sanitizers) - AddressSanitizer, ThreadSanitizer, MemorySanitizer.
 - [Open Standards](http://www.open-std.org/) - Holds a number of web pages for groups producing open standards.
@@ -207,3 +208,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [No-Code MVP](https://nocodemvp.com/) - Fast and cost-effective way to build and validate your startup ideas, without any code.
 - [Big List of Naughty Strings](https://github.com/minimaxir/big-list-of-naughty-strings#readme) - List of strings which have a high probability of causing issues when used as user-input data. ([HN](https://news.ycombinator.com/item?id=23291458))
 - [Tiny Bluetooth LE Library](https://github.com/intel-iot-devkit/tinyb)
+- [Makerpad Community](https://community.makerpad.co/c/introductions)
