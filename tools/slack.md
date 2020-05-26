@@ -15,3 +15,4 @@
 - [Phelia](https://github.com/maxchehab/phelia) - Build interactive Slack apps without webhooks or JSON headache.
 - [Top Slack Apps](https://slackrank.wilhelmklopp.com/)
 - [Data models for Slack Apps (2020)](https://wilhelmklopp.com/posts/slack-database-modelling/)
+- [HN: A major reason for departures at Slack was “remote work request rejected” (2020)](https://news.ycombinator.com/item?id=23297113)

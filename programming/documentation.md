@@ -43,4 +43,4 @@
 - [Doctocat](https://primer.style/doctocat/) - Gatsby theme for creating Primer documentation sites. ([Code](https://github.com/primer/doctocat))
 - [Docup](https://docup.now.sh/) - Single JavaScript file that fetches Markdown file and renders it as a beautiful one-page documentation. ([Code](https://github.com/egoist/docup))
 - [RFCs and asynchronous-first culture (2020)](https://notes.eatonphil.com/rfcs-and-asynchronous-first-culture.html)
-- [Today’s Javascript, from an outsider’s perspective (2020)](http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/)
+- [Today’s Javascript, from an outsider’s perspective (2020)](http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/) ([Lobsters](https://lobste.rs/s/1qmlfh/today_s_javascript_from_outsider_s)) ([HN](https://news.ycombinator.com/item?id=23306382))

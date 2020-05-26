@@ -40,3 +40,4 @@
 - [How we built the Figma design team (2018)](https://www.figma.com/blog/how-we-built-the-figma-design-team/)
 - [Partnership, Freedom, and Responsibility — Metamuse (2020)](https://overcast.fm/+Y-HUXijTI)
 - [When hiring, what's one quality or achievement in your field that makes someone an instant hire? (2020)](https://twitter.com/swyx/status/1261608997322461186)
+- [Thoughts on using references when hiring](https://twitter.com/nlevin/status/1265319461969489920)

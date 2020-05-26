@@ -65,3 +65,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters#readme)
 - [Web Security Basics](https://github.com/vasanthk/web-security-basics#readme)
 - [A Guide to Threat Modelling for Developers (2020)](https://martinfowler.com/articles/agile-threat-modelling.html)
+- [The SSO Wall of Shame](https://sso.tax/) - List of vendors that treat single sign-on as a luxury feature, not a core security requirement.

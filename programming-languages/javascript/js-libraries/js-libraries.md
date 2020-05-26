@@ -248,6 +248,7 @@
 - [Muuri](https://github.com/haltu/muuri) - JavaScript layout engine that allows you to build all kinds of layouts and make them responsive, sortable, filterable, draggable and/or animated.
 - [Split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views.
 - [Parallax Engine](https://github.com/wagerfield/parallax) - Reacts to the orientation of a smart device.
+- [fastq](https://github.com/mcollina/fastq) - Fast, in memory work queue.
 
 ## Links
 
