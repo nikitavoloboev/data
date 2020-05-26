@@ -163,3 +163,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [VersionIcon](https://github.com/DanielCech/VersionIcon) - Script written in Swift that prepares the iOS app icon overlay with ribbon, build type and version (build) info.
 - [Passkit Generator](https://github.com/alexandercerutti/passkit-generator) - Easiest way to generate custom Apple Wallet passes in Node.js.
 - [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging.
+- [Jailbreaking for iOS Developers (2020)](https://steipete.com/posts/jailbreaking-for-ios-developers/)

@@ -24,3 +24,4 @@
 - [dstlr](https://github.com/dstlry/dstlr) - Scalable knowledge graph construction from unstructured text.
 - [WikiRank](https://github.com/turtlesoupy/WikiRank) - Investigation into performing PageRank on Wikipedia articles in order to quantify influence of different items.
 - [Knowledge Graph Navigator](http://knowledgegraphnavigator.com/) - macOS application is an intelligent interface for exploring Knowledge Graphs.
+- [Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering (2020)](https://arxiv.org/abs/1911.10470)
