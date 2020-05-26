@@ -75,6 +75,7 @@ Here are few more things I liked, design wise.
 - [Artem Sapegin](https://sapegin.me/)
 - [Tobias van Schneider](https://www.vanschneider.com) - Has nice [now](https://www.vanschneider.com/now) & [bio](https://vanschneider.com/bio) pages.
 - [Evan Jones](https://www.evanjones.ca/)
+- [Titus Wormer](https://wooorm.com/)
 - [John Otander](https://johno.com/) ([Code](https://github.com/johno/_))
 - [Karri Saarinen](https://karrisaarinen.com/)
 - [Jared Palmer](https://jaredpalmer.com/)

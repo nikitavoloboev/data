@@ -147,3 +147,6 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [The power of proposals](https://highgrowthengineering.substack.com/p/the-power-of-proposals-)
 - [How I write (2020)](https://thesephist.com/posts/how-i-write/)
 - [Text as an interface (2020)](https://thesephist.com/posts/text/)
+- [Alex](https://alexjs.com/) - Catch insensitive, inconsiderate writing. ([Code](https://github.com/get-alex/alex)) ([Article](https://wooorm.com/blog/alex/))
+- [](https://github.com/get-alex/alex)
+- [](https://wooorm.com/blog/alex/)
