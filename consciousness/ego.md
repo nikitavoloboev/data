@@ -22,3 +22,4 @@ Similar to how switching of channels in a radio works, perhaps we can tune into 
 - [Martin Ball - 5 MEO-DMT, Energy, The Ego and Non-Duality (2019)](https://www.youtube.com/watch?v=B8o7IPx5xDQ)
 - [Loupe 2019: Ash Adamson on a Practice Through Change](https://www.youtube.com/watch?v=N92gu_AQ43E)
 - [What is an ego death to you? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/elqiq7/the_ego_death_i_wanna_know/)
+- [Why is everyone so obsessed with the destruction of "ego"? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/gqrc0v/why_is_everyone_so_obsessed_with_the_destruction/)

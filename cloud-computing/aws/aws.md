@@ -71,3 +71,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Getting started with serverless on AWS (2020)](https://emshea.com/post/serverless-getting-started)
 - [AWS Networking 101 (2020)](https://blog.ipspace.net/2020/05/aws-networking-101.html)
 - [VPC Studio](https://houqp.github.io/vpcstudio/) - VPC CIDR calculator with codegen. ([Code](https://github.com/houqp/vpcstudio))
+- [AWS services explained in one line each (2020)](https://adayinthelifeof.nl/2020/05/20/aws.html) ([HN](https://news.ycombinator.com/item?id=23309269))

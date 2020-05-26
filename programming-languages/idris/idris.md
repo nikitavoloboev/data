@@ -20,6 +20,6 @@
 - [Statebox's FSM-Oracle](https://github.com/statebox/fsm-oracle) - Finite state machines as graphs.
 - [Idris 2: Quantitative Type Theory in Action](https://www.type-driven.org.uk/edwinb/papers/idris2.pdf) ([Web](https://www.type-driven.org.uk/edwinb/idris-2-quantitative-type-theory-in-action.html))
 - [Self-hosted Idris 2](https://github.com/edwinb/Idris2-SH)
-- [Why is Idris 2 so much faster than Idris 1? (2020)](https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html) ([HN](https://news.ycombinator.com/item?id=23304081))
+- [Why is Idris 2 so much faster than Idris 1? (2020)](https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html) ([HN](https://news.ycombinator.com/item?id=23304081)) ([Reddit](https://www.reddit.com/r/dependent_types/comments/gqh74h/why_is_idris_2_so_much_faster_than_idris_1/))
 - [Scheme Workshop Keynote: Edwin Brady (2019)](https://www.youtube.com/watch?v=h9YAOaBWuIk)
 - [Type-Driven Development with Idris book](https://www.manning.com/books/type-driven-development-with-idris) ([Updates required](https://idris2.readthedocs.io/en/latest/typedd/typedd.html))

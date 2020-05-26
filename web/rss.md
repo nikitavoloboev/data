@@ -33,3 +33,4 @@
 - [RSParser](https://github.com/Ranchero-Software/RSParser) - Parser for RSS, Atom, JSON Feed, RSS-inJSON, OPML, and HTML.
 - [HTTP Conditional Get for RSS Hackers (2002)](https://fishbowl.pastiche.org/2002/10/21/http_conditional_get_for_rss_hackers)
 - [Bespoke software, and a really simple RSS aggregator (2020)](https://routley.io/posts/bespoke-software-rss-aggregator/) ([HN](https://news.ycombinator.com/item?id=23304512))
+- [Which Atom/RSS reader do you use? (2020)](https://lobste.rs/s/hwhptd/which_atom_rss_reader_do_you_use)
