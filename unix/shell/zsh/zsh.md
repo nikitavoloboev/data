@@ -20,3 +20,4 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - [Building portable Zsh](https://github.com/xxh/zsh-portable)
 - [Speeding up Zsh](https://blog.jonlu.ca/posts/speeding-up-zsh)
 - [Some zshrc tricks (2020)](https://www.arp242.net/zshrc.html) ([Lobsters](https://lobste.rs/s/tgmzke/some_zshrc_tricks))
+- [5 Types Of ZSH Aliases You Should Know](https://thorsten-hans.com/5-types-of-zsh-aliases) ([HN](https://news.ycombinator.com/item?id=23309310))

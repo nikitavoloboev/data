@@ -64,3 +64,4 @@
 - [toro](https://gitlab.com/aenegri/toro) - Trade stocks from the command line with no commission. ([HN](https://news.ycombinator.com/item?id=23209142))
 - [Angel Investing: Start to Finish (2020)](https://www.holloway.com/b/angel-investing)
 - [Intelligent Investor book notes](https://wiki.harrison.dev/books/intelligent-investor.html)
+- [Seedtable](https://www.seedtable.com/) - Provides an analysis of technology in Europe and its impact on society.

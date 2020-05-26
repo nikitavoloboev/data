@@ -76,3 +76,4 @@
 - [Quicklink](https://getquick.link/) - Drop-in solution for sites to prefetch links based on what is in the user's viewport. ([Code](https://github.com/GoogleChromeLabs/quicklink/))
 - [Serve Videos Instead of GIFs (2020)](https://www.dannyguo.com/blog/serve-videos-instead-of-gifs/) ([Lobsters](https://lobste.rs/s/x44a92/serve_videos_instead_gifs)) ([HN](https://news.ycombinator.com/item?id=23207019))
 - [Why NetNewsWire Is Fast (2020)](https://inessential.com/2020/05/18/why_netnewswire_is_fast) ([HN](https://news.ycombinator.com/item?id=23286362))
+- [The Website Obesity Crisis (2015)](https://idlewords.com/talks/website_obesity.htm)
