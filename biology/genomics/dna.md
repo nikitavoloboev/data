@@ -26,3 +26,4 @@
 - [Samtools tools](https://github.com/samtools/samtools) - Tools (written in C using htslib) for manipulating next-generation sequencing data.
 - [Specifications of SAM/BAM and related high-throughput sequencing file formats](http://samtools.github.io/hts-specs/) ([Code](https://github.com/samtools/hts-specs))
 - [Research into single-molecule fluorescence and protein-DNA interactions](http://justinpinkney.com/site/01_Biophysics.html)
+- [How do Genes know when to Turn On and Off? (2020)](https://www.reddit.com/r/askscience/comments/gqap1l/how_do_genes_know_when_to_turn_on_and_off/)
