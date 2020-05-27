@@ -16,3 +16,4 @@
 - [Stanford Pupper: low-cost quadruped robot](https://stanfordstudentrobotics.org/pupper) ([HN](https://news.ycombinator.com/item?id=23059389))
 - [Flowers Inria](https://flowers.inria.fr/) - Studies mechanisms that can allow robots and humans to acquire autonomously and cumulatively repertoires of novel skills over extended periods of time.
 - [Stanford Quadruped](https://github.com/stanfordroboticsclub/StanfordQuadruped) - Raspberry Pi-based quadruped robots that can trot, walk, and jump.
+- [PyRep](https://github.com/stepjam/PyRep) - Toolkit for robot learning research.

@@ -114,6 +114,8 @@
 - [joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [Little Ball of Fur](https://github.com/benedekrozemberczki/LittleBallOfFur) - NetworkX extension library for graph sampling. ([HN](https://news.ycombinator.com/item?id=23221255))
 - [aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio).
+- [sqlitedict](https://github.com/RaRe-Technologies/sqlitedict) - Persistent dict, backed-up by SQLite and pickle.
+- [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling in Python.
 
 ## Links
 

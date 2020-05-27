@@ -17,6 +17,7 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Telegrammer](https://github.com/givip/Telegrammer) - Written with Swift 5.0/NIO, supports Linux, macOS.
 - [Telegraphist](https://github.com/xamut/telegraphist) - Telegram Bot API on Go.
 - [Pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python.
+- [gramme.rs](https://github.com/Lonami/grammers) - Set of Rust libraries to interact with Telegram's API.
 
 ## Links
 

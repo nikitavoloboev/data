@@ -60,3 +60,5 @@
 - [TSD](https://github.com/Sense-X/TSD) - 1st place models in Google OpenImage Detection Challenge 2019.
 - [Training-Time-Friendly Network for Real-Time Object Detection](https://github.com/ZJULearning/ttfnet)
 - [Big Transfer (BiT): General Visual Representation Learning](https://github.com/google-research/big_transfer)
+- [Fast Human Pose Estimation CVPR2019](https://github.com/ilovepose/fast-human-pose-estimation.pytorch)
+- [Deep High-Resolution Representation Learning for Human Pose Estimation](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
