@@ -72,6 +72,7 @@
 - [rate-it](https://github.com/Cuberto/rate-it) - Showcase of custom user rate screen, with responsive emotional animated controls.
 - [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet) - Swift library for creating menus, custom action sheets, context menus etc.
 - [CameraBackground](https://github.com/yonat/CameraBackground) - Show camera layer as a background to any UIView.
+- [EmojiPickerUI](https://github.com/insidegui/EmojiPickerUI) - Framework implementing a macOS-style emoji picker for iPadOS.
 
 ## macOS
 

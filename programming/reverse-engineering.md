@@ -36,3 +36,4 @@
 - [e9patch](https://github.com/GJDuck/e9patch) - Powerful static binary rewriting tool.
 - [Polypyus](https://github.com/seemoo-lab/polypyus) - Learns to locate functions in raw binaries by extracting known functions from similar binaries.
 - [Pharos Static Binary Analysis Framework](https://github.com/cmu-sei/pharos)
+- [Pafish](https://github.com/a0rtega/pafish) - Demonstration tool that employs several techniques to detect sandboxes and analysis environments in the same way as malware families do.

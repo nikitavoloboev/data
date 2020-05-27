@@ -9,3 +9,4 @@
 - [Learning REST APIs course](https://www.linkedin.com/learning/learning-rest-apis)
 - [Build Your First Rest API with GO (2019)](https://dev.to/moficodes/build-your-first-rest-api-with-go-2gcj)
 - [RESTful API Design Tips from Experience](https://github.com/ptboyer/restful-api-design-tips#readme)
+- [RQL](https://github.com/a8m/rql) - Resource query language for REST. It provides a simple and light-weight API for adding dynamic querying capabilities to web-applications that use SQL-based database.

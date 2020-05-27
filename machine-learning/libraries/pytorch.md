@@ -108,3 +108,5 @@
 - [rectorch](https://github.com/makgyver/rectorch) - PyTorch-based framework for state-of-the-art top-N recommendation.
 - [neural-dream](https://github.com/ProGamerGov/neural-dream) - PyTorch implementation of DeepDream algorithm.
 - [PyProf2](https://github.com/adityaiitb/pyprof2) - PyTorch Profiling tool.
+- [Blitz](https://github.com/piEsposito/blitz-bayesian-deep-learning) - Simple and extensible library to create Bayesian Neural Network layers on PyTorch.
+- [PyContrast](https://github.com/HobbitLong/PyContrast) - PyTorch implementation of Contrastive Learning methods.

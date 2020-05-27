@@ -62,3 +62,4 @@
 - [Big Transfer (BiT): General Visual Representation Learning](https://github.com/google-research/big_transfer)
 - [Fast Human Pose Estimation CVPR2019](https://github.com/ilovepose/fast-human-pose-estimation.pytorch)
 - [Deep High-Resolution Representation Learning for Human Pose Estimation](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
+- [Background Matting: The World is Your Green Screen](https://github.com/senguptaumd/Background-Matting)
