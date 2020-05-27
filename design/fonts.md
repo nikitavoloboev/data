@@ -83,3 +83,4 @@ Lucida Sans font is nice too (use it with Textual IRC client).
 - [Text for Proofing Fonts](https://www.typography.com/blog/text-for-proofing-fonts)
 - [The Fastest Google Fonts (2020)](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
 - [Jaimey Shapey's typography](https://jaimeyshapey.com/)
+- [Zach Leatherman | The Five Whys of Web Font Loading Performance (2018)](https://www.youtube.com/watch?v=FbguhX3n3Uc)

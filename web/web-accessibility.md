@@ -22,3 +22,4 @@
 - [Web and Media Accessibility Group AMA (2020)](https://hashnode.com/post/the-web-and-media-accessibility-group-ama-ck9wy7s5w01j4nbs1kle8k7gn)
 - [Names, Legal Names, and Fractally Deferred Responsibility (2020)](https://nora.codes/post/names-legal-names-and-fractally-deferred-responsibility/) ([Lobsters](https://lobste.rs/s/61iy3h/names_legal_names_fractally_deferred))
 - [Expedia Accessibility Guidelines](https://accessibility.expedia.biz/)
+- [Achieving accessibility through simplicity (2020)](https://sourcehut.org/blog/2020-05-27-accessibility-through-simplicity/)
