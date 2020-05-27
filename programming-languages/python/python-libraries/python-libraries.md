@@ -113,6 +113,7 @@
 - [MacroPy3](https://macropy3.readthedocs.io/en/latest/) - Provides a mechanism for user-defined functions (macros) to perform transformations on the abstract syntax tree (AST) of a Python program at import time.
 - [joblib](https://github.com/joblib/joblib) - Computing with Python functions.
 - [Little Ball of Fur](https://github.com/benedekrozemberczki/LittleBallOfFur) - NetworkX extension library for graph sampling. ([HN](https://news.ycombinator.com/item?id=23221255))
+- [aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio).
 
 ## Links
 

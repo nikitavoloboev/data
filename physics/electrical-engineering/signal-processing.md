@@ -8,3 +8,4 @@
 - [DDSP: Differentiable Digital Signal Processing: Online Supplement](https://storage.googleapis.com/ddsp/index.html)
 - [Seeing circles, sines and signals](https://jackschaedler.github.io/circles-sines-signals/) - Compact primer on digital signal processing. ([Code](https://github.com/jackschaedler/circles-sines-signals))
 - [Surfboard](https://github.com/novoic/surfboard) - Audio Feature Extraction for Modern Machine Learning. ([HN](https://news.ycombinator.com/item?id=23314993))
+- [GO-DSP](https://github.com/mjibson/go-dsp) - Digital Signal Processing for Go.

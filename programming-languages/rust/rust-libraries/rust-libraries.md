@@ -46,6 +46,7 @@
 - [vgtk](https://github.com/bodil/vgtk/) - Declarative desktop UI framework for Rust built on GTK and Gtk-rs.
 - [flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust.
 - [piet-gpu](https://github.com/linebender/piet-gpu) - Experimental GPU compute-centric 2D renderer.
+- [Alcro](https://github.com/Srinivasa314/alcro) - Small library to build desktop apps using rust and modern web technologies.
 
 ## DB
 
@@ -383,6 +384,8 @@
 - [simple-mutex](https://github.com/stjepang/simple-mutex) - Simple mutex, faster than std and smaller than parking_lot.
 - [remem](https://github.com/rylev/remem) - Utility for reusing memory.
 - [aho-corasick](https://github.com/BurntSushi/aho-corasick) - Library for finding occurrences of many patterns at once with SIMD acceleration in some cases.
+- [inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code.
+- [socket2-rs](https://github.com/alexcrichton/socket2-rs) - Provide as direct as possible access to the system's functionality for sockets as possible.
 
 ## Cargo Plugins
 

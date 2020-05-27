@@ -30,6 +30,7 @@
 - [Algorithms Design book](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf)
 - [Think Complexity](http://greenteapress.com/complexity/html/index.html)
 - [All Algorithms implemented in Rust](https://github.com/TheAlgorithms/Rust)
+- [Solutions to Introduction to Algorithms book](https://walkccc.github.io/CLRS/) ([Code](https://github.com/walkccc/CLRS))
 
 ## Images
 
