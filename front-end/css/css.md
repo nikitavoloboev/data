@@ -146,3 +146,4 @@
 - [Digital nesting](https://github.com/devonzuegel/digital-nesting) - Devon's collection of custom CSS.
 - [React CSS Loaders](https://lucasbassetti.com.br/react-css-loaders/) - Collection of pure CSS React loading components. ([Code](https://github.com/LucasBassetti/react-css-loaders))
 - [css-select](https://github.com/fb55/css-select) - CSS selector compiler/engine.
+- [Introducing CSS Scroll Snap Points (2019)](https://css-tricks.com/introducing-css-scroll-snap-points/)

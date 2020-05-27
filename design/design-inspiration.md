@@ -97,6 +97,7 @@ Here are few more things I liked, design wise.
 - [Julia Johnson](https://www.juliacodes.com/) ([Code](https://github.com/juliajcodes/JuliaCodesGatsby))
 - [Michael Edelstone](https://michaeledelstone.com/)
 - [Rodrigo Pombo](https://pomb.us/)
+- [Steven Fabre](http://stevenfabre.com)
 - [Max Böck](https://mxb.dev/)
 - [Amie Chen](https://www.amie-chen.com/)
 - [Stephen Diehl](http://www.stephendiehl.com/) ([Code](https://github.com/sdiehl/stephendiehl.com))
@@ -127,6 +128,7 @@ Here are few more things I liked, design wise.
 - [Heydon Pickering](https://heydonworks.com/)
 - [Lisi Linhart](https://lisilinhart.info/)
 - [Stephanie Bian](http://stephbian.github.io/index.html)
+- [Давид Кистаури](https://davidkistauri.ru/) ([[Code](https://github.com/dtroode/kistauri)])
 - [Owen Williams](https://owenwillia.ms/)
 - [Andy Bell](https://hankchizljaw.com/)
 - [Marvin Hagemeister](https://marvinh.dev/)
@@ -169,6 +171,7 @@ Here are few more things I liked, design wise.
 - [Sasha Greif](http://sachagreif.com/)
 - [Wimer Hazenberg](https://www.monokai.nl/) - Nice scrolling effect.
 - [Adam Pritchard](https://crypti.cc/)
+- [Charli Marie](https://charlimarie.com/)
 - [Mike Solomon](https://msol.io/)
 - [Adam Ho](https://www.adamho.com/)
 - [Seena Burns](http://seenaburns.com/) - Love the color scheme & look. Awesome blog.

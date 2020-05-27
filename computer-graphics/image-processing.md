@@ -29,3 +29,4 @@
 - [dechroma (2020)](https://flak.tedunangst.com/post/dechroma)
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [BlurHash](https://blurha.sh/) - Compact representation of a placeholder for an image.
+- [imgproxy](https://imgproxy.net/) - Fast and secure on-the-fly image processing. ([[Code](https://github.com/imgproxy/imgproxy)])

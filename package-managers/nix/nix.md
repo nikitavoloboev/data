@@ -103,3 +103,4 @@
 - [nix-derivation](https://github.com/Gabriel439/Haskell-Nix-Derivation-Library) - Parse and render *.drv files.
 - [nix-build-uncached](https://github.com/Mic92/nix-build-uncached) - CI friendly wrapper around nix-build.
 - [nix-tests](https://github.com/cleverca22/nix-tests) - Scratchpad for small experimental things I am doing with Nix.
+- [Nix Flakes, Part 1: An introduction and tutorial (2020)](https://www.tweag.io/posts/2020-05-25-flakes.html)

@@ -40,3 +40,4 @@
 - [elPrep](https://github.com/ExaScience/elprep) - High-performance tool for preparing .sam/.bam files for variant calling in sequencing pipelines.
 - [Announcing Sylph](https://sylph.io/blog/announce.html)
 - [Interactive bioimage analysis with Python and Jupyter (2020)](https://www.youtube.com/watch?v=Y3pB3wnOivE)
+- [Biomedical Applications of Electrical Stimulation (2020)](https://pubmed.ncbi.nlm.nih.gov/31974658/)
