@@ -108,3 +108,4 @@
 - [UCL Natural Language Processing group](http://nlp.cs.ucl.ac.uk/)
 - [Interactive Lecture Notes, Slides and Exercises for Statistical NLP](https://github.com/uclnlp/stat-nlp-book)
 - [Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://github.com/marcotcr/checklist)
+- [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020)

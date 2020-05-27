@@ -347,6 +347,7 @@
 - [llbuild2](https://github.com/apple/swift-llbuild2) - Experimental, Swift native, fully async, NIO futures-based low level build system.
 - [SwiftJWT](https://github.com/IBM-Swift/Swift-JWT) - Implementation of JSON Web Token using Swift.
 - [NDArray](https://github.com/cgarciae/NDArray) - Multidimensional Array library for Swift.
+- [SwiftGit2](https://github.com/SwiftGit2/SwiftGit2) - Swift bindings to libgit2.
 
 ## Other (not lib)
 

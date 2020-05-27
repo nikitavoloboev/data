@@ -58,3 +58,4 @@
 - [Modern C++ gamedev: thoughts and misconceptions](https://vittorioromeo.info/index/blog/gamedev_modern_cpp_thoughts.html) ([HN](https://news.ycombinator.com/item?id=23202120)) ([Reddit](https://www.reddit.com/r/cpp/comments/gkrquo/modern_c_gamedev_thoughts_misconceptions/))
 - [lovetoys](https://github.com/lovetoys/lovetoys) - Entity Component System framework for game development with lua.
 - [Cheat Engine](https://github.com/cheat-engine/cheat-engine) - Development environment focused on modding games and applications for personal use.
+- [Source code to Delores: A Thimbleweed Park mini-adventure](https://github.com/grumpygamer/DeloresDev)

@@ -11,7 +11,6 @@ Here are few more things I liked, design wise.
 - [taotajima](http://taotajima.jp/works/waxing-moon/) - Amazing transitions.
 - [TANMU LABS](https://tanmulabs.com/) - Pretty awesome color palette.
 - [The Disconnect](https://thedisconnect.co/)
-- [John Otander](http://johnotander.com/) - Simple.
 - [Stripe](https://stripe.com) - Incredible design. I love their docs format too.
 - [NSHipster](https://nshipster.com/) - Simple & clean blog.
 - [We Learn Code](https://welearncode.com/)
@@ -76,7 +75,7 @@ Here are few more things I liked, design wise.
 - [Tobias van Schneider](https://www.vanschneider.com) - Has nice [now](https://www.vanschneider.com/now) & [bio](https://vanschneider.com/bio) pages.
 - [Evan Jones](https://www.evanjones.ca/)
 - [Titus Wormer](https://wooorm.com/)
-- [John Otander](https://johno.com/) ([Code](https://github.com/johno/_))
+- [John Otander](https://johno.com/) ([Code](https://github.com/johno/johno.com))
 - [Karri Saarinen](https://karrisaarinen.com/)
 - [Jared Palmer](https://jaredpalmer.com/)
 - [Raul Dronca](https://www.rauldronca.com/) ([Code](https://github.com/iRaul/rauldronca.com))

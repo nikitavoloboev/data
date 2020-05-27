@@ -33,3 +33,4 @@
 - [35+ white paint colors that top designers swear by](https://www.elledecor.com/design-decorate/color/advice/a3448/the-right-white-a-70889/)
 - [Scale](https://hihayk.github.io/scale/) - Generative way to create color scales. ([Code](https://github.com/hihayk/scale))
 - [Sanzo Wada](https://sanzo-wada.dmbk.io/) - Dictionary of Color Combinations. ([Code](https://github.com/dblodorn/sanzo-wada))
+- [Palettes from A Dictionary of Colour Combinations](https://github.com/mattdesl/dictionary-of-colour-combinations)
