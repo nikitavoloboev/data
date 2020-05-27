@@ -64,3 +64,4 @@
 - [Spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [Music prod setup on mac](https://twitter.com/johnlindquist/status/1264265305892646915)
 - [Collab](https://npe.fb.com/collab/) - Make music together, while we're apart.
+- [How To Make A - Legowelt - Track](https://www.youtube.com/watch?v=TGCxBVu1-sE)

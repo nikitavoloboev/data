@@ -38,7 +38,7 @@
 - [X GIF](https://github.com/geelen/x-gif) - Custom element for flexible GIF playback.
 - [HTMLHint](https://htmlhint.com/) - Static code analysis tool you need for your HTML. ([Code](https://github.com/htmlhint/HTMLHint))
 - [Can I Include](https://caninclude.glitch.me/) - Understand which tag you can include in another.
-- [Kutty](https://kutty.org/) - High power tools for HTML. ([Code](https://github.com/bigskysoftware/kutty))
+- [htmx](https://htmx.org/) - High power tools for HTML. ([Code](https://github.com/bigskysoftware/htmx))
 - [What if we'd had better html-in-js syntax all along? (2020)](https://leontrolski.github.io/dom-syntax.html) ([Lobsters](https://lobste.rs/s/9im5wq/what_if_we_d_had_better_html_js_syntax_all)) ([HN](https://news.ycombinator.com/item?id=23142300))
 - [PostHTML](https://github.com/posthtml/posthtml) - Tool for transforming HTML/XML with JS plugins.
 - [All Visible HTML Elements](https://elements.xz.style/) - Simple list of all visible and style-able HTML elements. The list itself does not style any of these elements. ([Code](https://github.com/xz/elements))
