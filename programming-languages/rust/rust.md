@@ -220,3 +220,5 @@
 - [Integration Testing in Rust (2020)](https://joshleeb.com/blog/rust-integration-tests/)
 - [Lifetime variance in Rust](https://github.com/sunshowers/lifetime-variance-example) - Covers the basics of variance in Rust, as it applies to lifetimes, written in a literate programming style.
 - [Rust's Unsafe Code Guidelines](https://rust-lang.github.io/unsafe-code-guidelines/) ([Code](https://github.com/rust-lang/unsafe-code-guidelines))
+- [Open Data Structures (in Rust)](https://github.com/ellbrid/ods)
+- [trait-eval](https://github.com/doctorn/trait-eval) - Play FizzBuzz at compile-time.

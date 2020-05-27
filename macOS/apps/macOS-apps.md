@@ -20,7 +20,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [HotKey](https://github.com/soffes/HotKey) - Simple global shortcuts in macOS.
 - [Latest](https://github.com/mangerlahn/Latest) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 - [Hidden Bar](https://github.com/dwarvesf/hidden) - Ultra-light MacOS utility that helps hide menu bar icons. ([HN](https://news.ycombinator.com/item?id=21794858))
-- [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) - RSS reader for macOS.
+- [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
 - [macos-key-cast](https://github.com/karaggeorge/macos-key-cast) - Log keys pressed on macOS. Useful for screen recordings and presentations.
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas.
 - [Plash](https://github.com/sindresorhus/Plash) - Make any website your Mac desktop wallpaper.
@@ -48,7 +48,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [MonitorControl](https://github.com/the0neyouseek/MonitorControl) - Control your external monitor brightness & volume on your Mac.
 - [Up Next](https://ellen.li/up-next/) - Meetings at a glance from your macOS menu bar.
 - [Multi](https://github.com/hkgumbs/multi) - Create a custom, lightweight macOS app from a group of websites. ([HN](https://news.ycombinator.com/item?id=23275080))
-- [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS.
+- [Face Data](https://github.com/xiaohk/FaceData) - macOS application used to auto-annotate landmarks from a video.
 
 ## Other interesting apps
 
