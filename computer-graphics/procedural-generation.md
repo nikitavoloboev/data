@@ -16,3 +16,4 @@
 - [Oleg Dolya's generators](https://watabou.itch.io/)
 - [Voyager3](https://voyager3.tumblr.com/) - Explorations into procedural village and landscape generation.
 - [3D World Generation in JS (2020)](https://www.youtube.com/watch?v=rNuDkDhadfU)
+- [Voronoi maps tutorial](https://www.redblobgames.com/x/2022-voronoi-maps-tutorial/)

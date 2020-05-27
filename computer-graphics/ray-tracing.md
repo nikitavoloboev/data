@@ -24,3 +24,4 @@
 - [MentisOculi Pytorch Path Tracer](https://github.com/mmirman/MentisOculi)
 - [Ray Tracing implemented in multiple languages](https://github.com/matt77hias/smallpt)
 - [SwiftlyRT](https://github.com/sbehnke/SwiftlyRT) - Implementation of the Ray Tracer Challenge in Swift.
+- [Casual Shadertoy Path Tracing 1: Basic Camera, Diffuse, Emissive (2020)](https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/)

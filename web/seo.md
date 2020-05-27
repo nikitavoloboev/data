@@ -26,3 +26,4 @@
 - [SEO that anyone can handle (2020)](https://www.reddit.com/r/startups/comments/gk5pyd/seo_that_anyone_can_handle/)
 - [SEOBrowse](https://seobrowse.com/) - Google search for SEO professionals.
 - [Ahrefs](https://ahrefs.com/) - Helps you learn why your competitors rank so high and what you need to do to outrank them.
+- [How MasterClass used SEO to grow (2020)](https://twitter.com/TheCoolestCool/status/1265382628724740098) ([HN](https://news.ycombinator.com/item?id=23315969))
