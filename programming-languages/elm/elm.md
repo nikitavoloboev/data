@@ -34,3 +34,4 @@
 - [Code generation with elm](https://rhg.dev/posts/code-generation/)
 - [SSR for hackers](https://rhg.dev/posts/ssr-for-hackers/)
 - [Single out elements using phantom types (2020)](https://jfmengels.net/single-out-elements-using-phantom-types/)
+- [Escher-in-Elm Workshop](https://github.com/einarwh/escher-workshop)

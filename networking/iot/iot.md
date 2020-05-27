@@ -29,3 +29,4 @@
 - [Packet Broker](https://www.packetbroker.org/) - Neutral and open Internet of Things packet broker allowing IoT operators to interoperate according to the open principles of the internet. ([Client](https://github.com/packetbroker/pb)) ([Go API](https://github.com/packetbroker/go-api)) ([API](https://github.com/packetbroker/api))
 - [IoT Device examples (2020)](https://www.reddit.com/r/IOT/comments/encwbz/cool_iot_devices/)
 - [Zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Allows you to use your Zigbee devices without the vendors bridge or gateway.
+- [Core Scenic Library](https://github.com/boydm/scenic) - Client application library written directly on the Elixir/Erlang/OTP stack. Primarily aimed at fixed screen connected devices (IoT).
