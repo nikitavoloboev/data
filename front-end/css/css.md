@@ -144,3 +144,4 @@
 - [Destyle.css](https://nicolas-cusan.github.io/destyle.css/) - Opinionated reset stylesheet that provides a clean slate for styling your html. ([Code](https://github.com/nicolas-cusan/destyle.css))
 - [Fast Browser Animations (2020)](https://mguida.com/blog/fast-browser-animations/)
 - [Digital nesting](https://github.com/devonzuegel/digital-nesting) - Devon's collection of custom CSS.
+- [React CSS Loaders](https://lucasbassetti.com.br/react-css-loaders/) - Collection of pure CSS React loading components. ([Code](https://github.com/LucasBassetti/react-css-loaders))

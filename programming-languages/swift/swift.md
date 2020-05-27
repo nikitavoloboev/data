@@ -108,3 +108,4 @@
 - [Understanding type erasure in Swift (2020)](https://www.donnywals.com/understanding-type-erasure-in-swift/)
 - [try! Swift World](https://www.tryswift.co/world/) - Set of personal online workshops led by Swift developers around the world.
 - [SwiftTrace](https://github.com/johnno1962/SwiftTrace) - Trace Swift and Objective-C method invocations.
+- [IndexStoreDB](https://github.com/apple/indexstore-db) - Source code indexing library. It provides a composable and efficient query API for looking up source code symbols, symbol occurrences, and relations.

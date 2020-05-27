@@ -386,6 +386,7 @@
 - [aho-corasick](https://github.com/BurntSushi/aho-corasick) - Library for finding occurrences of many patterns at once with SIMD acceleration in some cases.
 - [inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code.
 - [socket2-rs](https://github.com/alexcrichton/socket2-rs) - Provide as direct as possible access to the system's functionality for sockets as possible.
+- [heapless](https://github.com/japaric/heapless) - Static friendly data structures that don't require dynamic memory allocation.
 
 ## Cargo Plugins
 

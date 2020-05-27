@@ -57,3 +57,5 @@
 - [TorchIO](https://github.com/fepegar/torchio) - Tools for medical image processing in deep learning.
 - [Real time Image Animation in OpenCV using first order model](https://github.com/anandpawara/Real_Time_Image_Animation) ([HN](https://news.ycombinator.com/item?id=23312259))
 - [OpenMV (Open-Source Machine Vision)](https://github.com/openmv/openmv) - Aims at making machine vision more accessible to beginners by developing a user-friendly, open-source, low-cost machine vision platform.
+- [TSD](https://github.com/Sense-X/TSD) - 1st place models in Google OpenImage Detection Challenge 2019.
+- [Training-Time-Friendly Network for Real-Time Object Detection](https://github.com/ZJULearning/ttfnet)

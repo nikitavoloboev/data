@@ -18,3 +18,4 @@
 - [webrtc-sdp](https://github.com/mozilla/webrtc-sdp) - Rust SDP parser for WebRTC.
 - [mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing.
 - [Abusing WebRTC to Reveal Coarse Location Data in Signal (2020)](https://medium.com/tenable-techblog/turning-signal-app-into-a-coarse-tracking-device-643eb4298447) ([HN](https://news.ycombinator.com/item?id=23251319))
+- [Pion SDP](https://github.com/pion/sdp) - Go implementation of the SDP.
