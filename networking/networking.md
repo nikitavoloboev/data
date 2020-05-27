@@ -7,6 +7,8 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - `127.0.0.1` is localhost.
 - Can go to `Network` tab to see details about requests and why they failed if they did fail. Can view headers etc
 - Web browsers will try to connect over port 80 by default.
+- [Best way to poll REST API? Timer seems fine. If the data is really changing frequently a WebSocket seems more appropriate.
+  If it’s changing infrequently but you wanna know right away, a silent push notification is the “right” way but that requires some infrastructure](https://twitter.com/_dte/status/1265606739564662785)
 
 ## Links
 
