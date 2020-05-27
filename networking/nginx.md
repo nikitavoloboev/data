@@ -15,3 +15,4 @@
 - [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook#readme) - How to improve NGINX performance, security, and other important things.
 - [NGINX Wiki](https://www.nginx.com/resources/wiki/) ([Code](https://github.com/nginxinc/nginx-wiki))
 - [Manage Nginx upstreams in pure Lua](https://github.com/upyun/lua-resty-checkups)
+- [Prometheus metric library for Nginx](https://github.com/knyar/nginx-lua-prometheus)

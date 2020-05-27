@@ -70,6 +70,7 @@
 - [RichEditorView](https://github.com/cjwirth/RichEditorView) - Simple, modular, drop-in UIView subclass for Rich Text Editing.
 - [liquid-swipe](https://github.com/Cuberto/liquid-swipe)
 - [rate-it](https://github.com/Cuberto/rate-it) - Showcase of custom user rate screen, with responsive emotional animated controls.
+- [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet) - Swift library for creating menus, custom action sheets, context menus etc.
 
 ## macOS
 
@@ -133,6 +134,7 @@
 ## Other
 
 - [Runtime](https://github.com/wickwirew/Runtime) - Swift Runtime library for viewing type info, and the dynamic getting and setting of properties.
+- [Dynamic](https://github.com/mhdhejazi/Dynamic) - Library that uses @dynamicMemberLookup and @dynamicCallable to access Objective-C API the Swifty way.
 - [MerchantKit](https://github.com/benjaminmayo/merchantkit) - Modern In-App Purchases management framework for iOS.
 - [Swift tagged](https://github.com/pointfreeco/swift-tagged) - Library for safer types.
 - [Login Critter](https://github.com/cgoldsby/LoginCritter) - Animated avatar that responds to text field interactions.

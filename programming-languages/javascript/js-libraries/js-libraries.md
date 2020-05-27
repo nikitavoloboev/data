@@ -249,6 +249,7 @@
 - [Split](https://github.com/nathancahill/split) - Unopinionated utilities for resizeable split views.
 - [Parallax Engine](https://github.com/wagerfield/parallax) - Reacts to the orientation of a smart device.
 - [fastq](https://github.com/mcollina/fastq) - Fast, in memory work queue.
+- [ac-colors](https://github.com/vinaypillai/ac-colors) - Reactive JavaScript color library that can freely convert color formats.
 
 ## Links
 

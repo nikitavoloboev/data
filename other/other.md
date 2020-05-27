@@ -1,4 +1,4 @@
-## Other things I find interesting
+# Other things I find interesting
 
 Here are some _other_ things that I find interesting that don't have a category or I can't think of a category for them.
 
@@ -212,3 +212,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [EnterpriseReady SaaS Feature Guides](https://www.enterpriseready.io/#)
 - [Solutioning for technological resilience](http://wileywiggins.com/merveilles.html)
 - [Stylus](https://github.com/mmastrac/stylus) - Lightweight status page for home infrastructure.
+- [libtakeover](https://github.com/tihmstar/libtakeover) - Call functions in a remote process using Mach API.

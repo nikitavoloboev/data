@@ -105,3 +105,4 @@
 - [A Taste of PyTorch C++ frontend API (2020)](https://medium.com/pytorch/a-taste-of-pytorch-c-frontend-api-8ec5209823ca)
 - [Tutorial: Mixture Density Networks with JAX (2020)](https://github.com/hardmaru/mdn_jax_tutorial)
 - [Deep learning CNN feature visualization using PyTorch](https://github.com/elichen/Feature-visualization)
+- [rectorch](https://github.com/makgyver/rectorch) - PyTorch-based framework for state-of-the-art top-N recommendation.

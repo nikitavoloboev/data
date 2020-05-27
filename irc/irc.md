@@ -33,3 +33,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [RobustIRC](https://robustirc.net/) - IRC without netsplits.
 - [Oragono](https://github.com/oragono/oragono) - Modern IRC server written in Go. ([HN](https://news.ycombinator.com/item?id=23113323))
 - [Synchronous Text (2019)](http://exple.tive.org/blarg/2019/04/26/synchronous-text/)
+- [Convos](https://convos.chat/) - Simplest way to use IRC in your browser. ([Code](https://github.com/Nordaaker/convos))

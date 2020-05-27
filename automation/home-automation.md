@@ -11,3 +11,4 @@
 - [Home Assistant Configuration](https://github.com/arsaboo/homeassistant-config)
 - [Bear Stone Smart Home Documentation](https://github.com/CCOSTAN/Home-AssistantConfig)
 - [Roborock](https://en.roborock.com/) - Automatic vacuum cleaner robot.
+- [AppDaemon](https://github.com/home-assistant/appdaemon) - Loosely coupled, multi-threaded, sandboxed python execution environment for writing automation apps for various types of Home Automation Software.

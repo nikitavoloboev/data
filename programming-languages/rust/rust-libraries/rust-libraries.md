@@ -381,6 +381,7 @@
 - [Rust Quasi-Quoting](https://github.com/dtolnay/quote) - Provides the quote! macro for turning Rust syntax tree data structures into tokens of source code.
 - [displaydoc](https://github.com/yaahc/displaydoc) - Derive macro for implementing the display Trait via a doc comment and string interpolation.
 - [simple-mutex](https://github.com/stjepang/simple-mutex) - Simple mutex, faster than std and smaller than parking_lot.
+- [remem](https://github.com/rylev/remem) - Utility for reusing memory.
 
 ## Cargo Plugins
 
@@ -393,6 +394,7 @@
 - [cargo-modules](https://github.com/regexident/cargo-modules) - Cargo plugin for showing a tree-like overview of a crate's modules.
 - [cargo-tree](https://github.com/sfackler/cargo-tree) - Cargo subcommand that visualizes a crate's dependency graph in a tree-like format.
 - [cargo cache](https://github.com/matthiaskrgr/cargo-cache) - Manage cargo cache (\${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively.
+- [cargo-instruments](https://github.com/cmyr/cargo-instruments) - Cargo plugin to generate Xcode Instruments trace files.
 
 ## Links
 

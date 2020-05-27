@@ -23,3 +23,4 @@
 - [PostgreSQL driver for Deno](https://github.com/buildondata/deno-postgres)
 - [Deno Third Party Modules](https://deno.land/x)
 - [AutoPilot](https://github.com/divy-work/autopilot-deno) - Cross-platform desktop automation library for Deno.
+- [Alosaur](https://github.com/alosaur/alosaur) - Deno web framework with many decorators.

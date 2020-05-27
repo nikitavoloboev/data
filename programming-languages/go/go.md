@@ -263,3 +263,4 @@ Go promotes composition over inheritance.
 - [Learning Go (2020)](https://destroytoday.com/blog/learning-go)
 - [golintui](https://github.com/nakabonne/golintui) - TUI tool that helps you run various kinds of linters with ease and organize its results, with the power of golangci-lint.
 - [Instrumentation in Go (2020)](https://gbws.io/articles/instrumentation-in-go/) ([HN](https://news.ycombinator.com/item?id=23308357))
+- [Go Vanity URLs](https://github.com/GoogleCloudPlatform/govanityurls) - Simple Go server that allows you to set custom import paths for your Go packages.

@@ -88,3 +88,4 @@
 - [graphql-parse](https://github.com/kitten/graphql-parse) - Tiny spec-compliant reimplementation of the GraphQL query language parser.
 - [On GraphQL-to-SQL (2020)](https://productionreadygraphql.com/blog/2020-05-21-graphql-to-sql) ([HN](https://news.ycombinator.com/item?id=23271178))
 - [AskQL](https://github.com/xFAANG/askql) - Query language that can express any data request. Send executable code instead of JSONs. ([Web](https://askql.org/))
+- [GraphQL walkthrough in Go, examples use progressive disclosure](https://github.com/codex-zaydek/graphql-go-walkthrough)
