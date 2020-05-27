@@ -25,3 +25,4 @@
 - [Faker](https://www.figma.com/community/plugin/833836762121994814/Faker) - Quickly generate realistic placeholder text. Names, emails, URLs, headlines, and more.
 - [Meeting notes](https://www.figma.com/community/file/836628128099607728) - Either it's a weekly sync or a team standup, keep it documented with this simple meeting notes template.
 - [Responsive](https://www.figma.com/community/plugin/840727678445998968/Responsive) - Preview your responsive designs inside Figma.
+- [Yuan Lim's Figma plugins](https://github.com/yuanqing/figma-plugins)
