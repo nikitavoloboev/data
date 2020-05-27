@@ -101,3 +101,4 @@
 - [Python performance: it’s not just the interpreter (2020)](http://blog.kevmod.com/2020/05/python-performance-its-not-just-the-interpreter/) ([HN](https://news.ycombinator.com/item?id=23235930))
 - [Automating Every Aspect of Your Python Project (2020)](https://martinheinz.dev/blog/17)
 - [Python Generated Sequence Diagrams (2020)](https://dragonquest64.blogspot.com/2020/05/python-generated-sequence-diagrams.html) ([HN](https://news.ycombinator.com/item?id=23269697))
+- [GraalVM Implementation of Python](https://github.com/graalvm/graalpython)

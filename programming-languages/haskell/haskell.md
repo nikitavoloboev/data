@@ -138,3 +138,4 @@
 - [Haskell Study Plan](https://github.com/soupi/haskell-study-plan#readme)
 - [Examples of Incorrect Abstractions in Other Languages (2020)](https://www.reddit.com/r/haskell/comments/glz389/examples_of_incorrect_abstractions_in_other/) ([Lobsters](https://lobste.rs/s/ky2fu3/examples_incorrect_abstractions_non))
 - [Haskell Platform](https://github.com/haskell/haskell-platform) - Combination of the GHC compiler and core libraries, plus additional tools and libraries covering a range of common programming tasks.
+- [Stan](https://github.com/kowainik/stan) - Haskell static analyser.

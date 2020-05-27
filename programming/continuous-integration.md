@@ -11,3 +11,5 @@
 - [Sleuth](https://www.sleuth.io/) - Bring full visibility and reporting across your remote team's DevOps stack.
 - [Snyk](https://snyk.io/) - Enables businesses to easily build security into their continuous development process.
 - [See 13 Netlify features for the best control of development workflow (2020)](https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/)
+- [Netlify Build](https://github.com/netlify/build) - Pluggable tool for running builds locally and in Netlify CI.
+- [Netlify Build Plugins](https://github.com/netlify/plugins)

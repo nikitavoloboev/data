@@ -107,3 +107,4 @@
 - [Inferbeddings](https://github.com/uclnlp/inferbeddings) - Injecting Background Knowledge in Neural Models via Adversarial Set Regularisation.
 - [UCL Natural Language Processing group](http://nlp.cs.ucl.ac.uk/)
 - [Interactive Lecture Notes, Slides and Exercises for Statistical NLP](https://github.com/uclnlp/stat-nlp-book)
+- [Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://github.com/marcotcr/checklist)

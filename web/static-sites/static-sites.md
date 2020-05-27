@@ -18,6 +18,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Publish](https://github.com/JohnSundell/Publish) - Static site generator for Swift developers.
 - [Eleventy](https://www.11ty.dev/) - Simpler static site generator. ([Starter](https://eleventail.netlify.com/)) ([Code](https://github.com/11ty/eleventy))
 - [Docsite](https://github.com/txd-team/docsite) - Open source static website generator.
+- [VitePress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 
 ## Notes
 
