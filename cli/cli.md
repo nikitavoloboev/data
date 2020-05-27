@@ -26,3 +26,4 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 - [Fast Searching with ripgrep (2020)](https://mariusschulz.com/blog/fast-searching-with-ripgrep)
 - [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html) ([HN](https://news.ycombinator.com/item?id=23048054))
 - [Grep for System Admins: Using Grep to Automate Daily Tasks (2020)](https://developer.okta.com/blog/2020/05/06/grep-for-system-admins)
+- [Command line interfaces are reified UIs (2017)](https://www.expressionsofchange.org/reification-of-interaction/) ([HN](https://news.ycombinator.com/item?id=15619796))

@@ -107,3 +107,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [TURN Server](https://github.com/coturn/coturn) - VoIP media traffic NAT traversal server and gateway. It can be used as a general-purpose network traffic TURN server and gateway, too.
 - [gortcd](https://github.com/gortc/gortcd) - Fast TURN and STUN server: cross-platform, hot reload, flexible config.
 - [router7](https://github.com/rtr7/router7) - Pure-Go implementation of a small home internet router.
+- [socketmaster](https://www.badgerodon.com/socketmaster) - Zero-configuration reverse proxy. ([Code](https://github.com/badgerodon/socketmaster))
