@@ -265,3 +265,4 @@ Go promotes composition over inheritance.
 - [Instrumentation in Go (2020)](https://gbws.io/articles/instrumentation-in-go/) ([HN](https://news.ycombinator.com/item?id=23308357))
 - [Go Vanity URLs](https://github.com/GoogleCloudPlatform/govanityurls) - Simple Go server that allows you to set custom import paths for your Go packages.
 - [Pkger](https://github.com/markbates/pkger) - Embed static files in Go binaries.
+- [asmfmt](https://github.com/klauspost/asmfmt) - Go Assembler Formatter.

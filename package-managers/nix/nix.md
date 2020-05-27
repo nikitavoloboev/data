@@ -102,3 +102,4 @@
 - [comma](https://github.com/Shopify/comma) - Runs software without installing it. Wraps together nix run and nix-index.
 - [nix-derivation](https://github.com/Gabriel439/Haskell-Nix-Derivation-Library) - Parse and render *.drv files.
 - [nix-build-uncached](https://github.com/Mic92/nix-build-uncached) - CI friendly wrapper around nix-build.
+- [nix-tests](https://github.com/cleverca22/nix-tests) - Scratchpad for small experimental things I am doing with Nix.

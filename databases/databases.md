@@ -87,6 +87,7 @@
 - [SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio) - Free, open source, multi-platform SQLite database manager.
 - [litecli](https://github.com/dbcli/litecli) - Command-line client for SQLite databases that has auto-completion and syntax highlighting.
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Query and manage your relational databases.
+- [Diwata](https://github.com/ivanceras/diwata) - User-friendly database interface.
 
 ## Links
 

@@ -25,6 +25,7 @@
 - [Go 2](https://github.com/halfrost/LeetCode-Go)
 - [Python / C++ 11](https://github.com/kamyu104/LeetCode) - Many solutions.
 - [Python](https://github.com/davidnsun/leetcode-py)
+- [Python & Java](https://github.com/qiyuangong/leetcode)
 - [C](https://github.com/begeekmyfriend/leetCode)
 - [Swift](https://github.com/soapyigu/LeetCode-Swift)
 - [Swift 2](https://github.com/rudrankriyam/LeetCode-in-Swift)
