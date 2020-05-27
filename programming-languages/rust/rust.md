@@ -219,3 +219,4 @@
 - [Rust's Runtime (2020)](https://blog.mgattozzi.dev/rusts-runtime/) ([Lobsters](https://lobste.rs/s/mluz45/rust_s_runtime))
 - [Integration Testing in Rust (2020)](https://joshleeb.com/blog/rust-integration-tests/)
 - [Lifetime variance in Rust](https://github.com/sunshowers/lifetime-variance-example) - Covers the basics of variance in Rust, as it applies to lifetimes, written in a literate programming style.
+- [Rust's Unsafe Code Guidelines](https://rust-lang.github.io/unsafe-code-guidelines/) ([Code](https://github.com/rust-lang/unsafe-code-guidelines))

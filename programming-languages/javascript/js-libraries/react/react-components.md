@@ -97,6 +97,7 @@
 - [ReactReparenting](https://github.com/paol-imi/react-reparenting) - Reparenting tools for React. ([Web](https://paol-imi.github.io/react-reparenting/)) ([Article](https://medium.com/swlh/reparenting-with-react-426d12fb6d0d))
 - [windups](https://github.com/sgwilym/windups) - Typewriter effect library for React. ([Web](https://windups.gwil.co/))
 - [React Shimmer](https://github.com/gokcan/react-shimmer) - Async loading, performant Image component for React.js.
+- [react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - Drop-in replacement for the textarea component which automatically resizes textarea as content changes.
 
 ## Links
 

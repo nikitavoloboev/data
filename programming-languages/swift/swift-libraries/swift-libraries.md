@@ -333,6 +333,8 @@
 - [Fluent UI Apple](https://github.com/microsoft/fluentui-apple) - UIKit and AppKit controls for building native Microsoft experiences.
 - [Flexer](https://github.com/ChimeHQ/Flexer) - Lexing library for Swift.
 - [Markup](https://github.com/SwiftDocOrg/Markup) - Swift package for working with HTML, XML, and other markup languages, based on libxml2.
+- [LANumerics](https://github.com/phlegmaticprogrammer/LANumerics) - Swift package for doing numerical linear algebra.
+- [SwiftCBOR](https://github.com/myfreeweb/SwiftCBOR) - CBOR implementation for Swift.
 
 ## Other (not lib)
 

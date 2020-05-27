@@ -37,6 +37,7 @@
 - [OCamline](https://github.com/chrisnevers/ocamline) - Command line interface for user input.
 - [OCaml Batteries Included](https://github.com/ocaml-batteries-team/batteries-included) - Community-maintained foundation library for your OCaml projects.
 - [incremental](https://github.com/janestreet/incremental) - Library for incremental computations.
+- [Landmarks](https://github.com/LexiFi/landmarks) - Simple Profiling Library for OCaml.
 
 ## Links
 
