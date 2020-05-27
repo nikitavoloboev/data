@@ -26,3 +26,4 @@
 - [OperationTimelane](https://github.com/icanzilb/OperationTimelane) - Timelane + Operations.
 - [Timelane + Combine](https://github.com/icanzilb/TimelaneCombine)
 - [CombinePlaygrounds](https://github.com/denisPoifol/CombinePlaygrounds) - Playground that should read as book about the Combine framework.
+- [ReactiveTimelane](https://github.com/nkristek/ReactiveTimelane) - Provides operators for Signal and SignalProducer in ReactiveSwift for profiling streams with the Timelane Instrument.

@@ -38,6 +38,8 @@
 - [OCaml Batteries Included](https://github.com/ocaml-batteries-team/batteries-included) - Community-maintained foundation library for your OCaml projects.
 - [incremental](https://github.com/janestreet/incremental) - Library for incremental computations.
 - [Landmarks](https://github.com/LexiFi/landmarks) - Simple Profiling Library for OCaml.
+- [pfff](https://github.com/returntocorp/pfff) - Set of tools and APIs to perform static analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
+- [ppx_stage](https://github.com/stedolan/ppx_stage) - Staged metaprogramming in stock OCaml.
 
 ## Links
 

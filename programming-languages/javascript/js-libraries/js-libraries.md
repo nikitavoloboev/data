@@ -253,6 +253,7 @@
 - [sonic-boom](https://github.com/mcollina/sonic-boom) - Extremely fast utf8 only stream implementation.
 - [Rough Notation](https://github.com/pshihn/rough-notation) - Small JavaScript library to create and animate annotations on a web page.
 - [SqueakJS](https://github.com/codefrau/SqueakJS) - Squeak VM for the Web and Node.js. ([Web](https://squeak.js.org/))
+- [fit-textarea](https://github.com/fregante/fit-textarea) - Automatically expand a <textarea> to fit its content, in a few bytes.
 
 ## Links
 

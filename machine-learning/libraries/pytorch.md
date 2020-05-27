@@ -110,3 +110,4 @@
 - [PyProf2](https://github.com/adityaiitb/pyprof2) - PyTorch Profiling tool.
 - [Blitz](https://github.com/piEsposito/blitz-bayesian-deep-learning) - Simple and extensible library to create Bayesian Neural Network layers on PyTorch.
 - [PyContrast](https://github.com/HobbitLong/PyContrast) - PyTorch implementation of Contrastive Learning methods.
+- [PyVacy](https://github.com/ChrisWaites/pyvacy) - Differentially Private Optimization Algorithms for PyTorch.
