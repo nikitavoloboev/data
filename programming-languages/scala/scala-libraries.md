@@ -33,6 +33,7 @@
 - [Finatra](https://github.com/twitter/finatra) - Fast, testable, Scala services built on TwitterServer and Finagle.
 - [Freestyle](https://github.com/frees-io/freestyle) - Cohesive & pragmatic framework of FP centric Scala libraries.
 - [Deequ](https://github.com/awslabs/deequ) - Library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+- [Izumi](https://github.com/7mind/izumi) - Ecosystem of independent libraries and frameworks allowing you to significantly increase productivity of your Scala development.
 
 ## Links
 

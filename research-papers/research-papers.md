@@ -49,3 +49,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Organize remote meetings for reading computer science papers](https://github.com/zx9w/read-together) ([Lobsters](https://lobste.rs/s/incspc/looking_for_people_who_d_like_read_cs))
 - [Center for Open Science preprints](https://osf.io/preprints/)
 - [Reading Research: A Guide for Software Engineers (2020)](https://brooker.co.za/blog/2020/05/25/reading.html)
+- [ICFP 2020 papers](https://github.com/llelf/icfp2020-papers#readme)

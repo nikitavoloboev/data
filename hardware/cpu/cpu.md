@@ -27,3 +27,4 @@
 - [X86-64 Semantics](https://github.com/kframework/X86-64-semantics) - Complete and thoroughly tested formal semantics of x86-64 to date.
 - [Efficient and performance-portable SIMD wrapper](https://github.com/google/highway)
 - [The DooM-chip: no CPU, no opcodes, no instruction counter (2020)](https://twitter.com/sylefeb/status/1258808333265514497) ([HN](https://news.ycombinator.com/item?id=23123782))
+- [Unicorn](http://www.unicorn-engine.org/) - Lightweight multi-platform, multi-architecture CPU emulator framework. ([Code](https://github.com/unicorn-engine/unicorn))

@@ -104,3 +104,6 @@
 - [aitextgen](https://github.com/minimaxir/aitextgen) - Robust Python tool for text-based AI training and generation using GPT-2. ([HN](https://news.ycombinator.com/item?id=23223358))
 - [Self Supervised Representation Learning in NLP (2020)](https://amitness.com/2020/05/self-supervised-learning-nlp/) ([HN](https://news.ycombinator.com/item?id=23292885))
 - [Synthetic and Natural Noise Both Break Neural Machine Translation (2017)](https://arxiv.org/abs/1711.02173)
+- [Inferbeddings](https://github.com/uclnlp/inferbeddings) - Injecting Background Knowledge in Neural Models via Adversarial Set Regularisation.
+- [UCL Natural Language Processing group](http://nlp.cs.ucl.ac.uk/)
+- [Interactive Lecture Notes, Slides and Exercises for Statistical NLP](https://github.com/uclnlp/stat-nlp-book)

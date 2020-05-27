@@ -61,6 +61,7 @@
 - [MLStyle.jl](https://github.com/thautwarm/MLStyle.jl) - Julia functional programming infrastructures and metaprogramming facilities.
 - [QuadGK.jl](https://github.com/JuliaMath/QuadGK.jl) - Adaptive 1d numerical Gauss–Kronrod integration in Julia.
 - [ClearStacktrace](https://github.com/jkrumbiegel/ClearStacktrace.jl) - Visually clarified stack traces for Julia.
+- [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Universal neural differential equations with O(1) backprop, GPUs, and stiff+non-stiff DE solvers.
 
 ## Links
 

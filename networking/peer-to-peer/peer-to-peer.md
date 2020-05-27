@@ -13,6 +13,7 @@
 - [Wireline](https://www.wireline.io/#about) - Peer-to-peer network for open source applications.
 - [Cabal](https://cabal.chat/) - Experimental p2p community chat platform.
 - [Radicle](http://radicle.xyz/) - Peer-to-peer stack for code collaboration. ([Code](https://github.com/radicle-dev/radicle))
+- [Upstream](https://github.com/radicle-dev/radicle-upstream) - Desktop client for the radicle code collaboration and registry protocols.
 - [How it Works — Radicle Link (2020)](https://radicle.xyz/radicle-link.html)
 - [List of peer-to-peer resources](https://github.com/kgryte/awesome-peer-to-peer#readme)
 - [Crust](https://github.com/maidsafe/crust) - Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects.
@@ -38,3 +39,4 @@
 - [Announcing the Beaker 1.0 Beta (2020)](https://beakerbrowser.com/2020/05/14/beaker-1-0-beta.html) ([HN](https://news.ycombinator.com/item?id=23182775))
 - [Hyperdrive v10 – a peer-to-peer filesystem (2020)](https://blog.hypercore-protocol.org/posts/announcing-hyperdrive-10/) ([HN](https://news.ycombinator.com/item?id=23180572))
 - [hyperswarm/dht](https://github.com/hyperswarm/dht) - DHT powering the HyperSwarm stack.
+- [Testground](https://github.com/testground/testground) - Platform for testing, benchmarking, and simulating distributed and p2p systems at scale.

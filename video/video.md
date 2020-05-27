@@ -59,3 +59,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [TAGX](https://tagx.io/) - Enter a YouTube, Vimeo or Video link below to start tagging.
 - [VMAF - Video Multi-Method Assessment Fusion](https://github.com/Netflix/vmaf)
 - [Kimera](https://github.com/luigifreitas/kimera) - Low-latency hardware accelerated codec based video streaming utility.
+- [Wahay](https://github.com/digitalautonomy/wahay) - Easy-to-use, secure and decentralized conference calls.

@@ -86,3 +86,4 @@
 - [Model checker for implementing distributed systems](https://github.com/stateright/stateright)
 - [Arvind Krishnamurthy's research](https://www.cs.washington.edu/people/faculty/arvind)
 - [Distributed Services with Go](https://pragprog.com/book/tjgo/distributed-services-with-go)
+- [Fully asynchronous C implementation of the Raft consensus protocol](https://github.com/canonical/raft)
