@@ -422,6 +422,7 @@
 - [MinIO Go Client SDK](https://github.com/minio/minio-go) - Provides simple APIs to access any Amazon S3 compatible object storage.
 - [go-echarts](https://github.com/go-echarts/go-echarts) - Adorable charts library for Golang.
 - [go-bluetooth](https://github.com/muka/go-bluetooth) - Go bluetooth API for Linux-based Bluez DBus interface.
+- [subcommands](https://github.com/google/subcommands) - Implements a simple way for a single command to have many subcommands, each of which takes arguments and so forth.
 
 ## Links
 

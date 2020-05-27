@@ -44,3 +44,4 @@
 - [All Visible HTML Elements](https://elements.xz.style/) - Simple list of all visible and style-able HTML elements. The list itself does not style any of these elements. ([Code](https://github.com/xz/elements))
 - [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX/) - Convert PDF to HTML without losing text or format.
 - [htmlparser2](https://github.com/fb55/htmlparser2) - Forgiving html and xml parser.
+- [Awesome lit-html](https://github.com/web-padawan/awesome-lit-html)

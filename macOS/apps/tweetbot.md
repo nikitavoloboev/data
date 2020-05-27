@@ -28,3 +28,4 @@ I split the app into 2 columns on mac.
 - [Nitter](https://nitter.net/) - Free and open source alternative Twitter front-end focused on privacy. ([Code](https://github.com/zedeus/nitter))
 - [Treeverse](https://github.com/paulgb/Treeverse) - Extension for navigating burgeoning Twitter conversations.
 - [Twitter as a tool to learn (2020)](https://twitter.com/eriktorenberg/status/1260352115102248961)
+- [Twitter Followers](https://github.com/ConradIrwin/twitter-followers) - Tool to download all a user's twitter followers.

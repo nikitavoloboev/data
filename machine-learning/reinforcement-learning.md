@@ -72,3 +72,4 @@
 - [mentalRL](https://github.com/doerlbh/mentalRL) - A Story of Two Streams: Reinforcement Learning Models from Human Behavior and Neuropsychiatry.
 - [Reinforcement Learning With TicTacToe](https://github.com/rolyatmax/tictactoe)
 - [Coach](https://github.com/NervanaSystems/coach) - Python reinforcement learning framework containing implementation of many state-of-the-art algorithms.
+- [Reinforcement Learning with Convex Constraints (2019)](https://papers.nips.cc/paper/9556-reinforcement-learning-with-convex-constraints.pdf) ([Code](https://github.com/xkianteb/ApproPO))

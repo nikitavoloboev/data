@@ -36,6 +36,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Wikipedia](https://github.com/wikimedia/wikipedia-ios) - Official Wikipedia iOS app.
 - [ImageUI](https://github.com/alberto093/ImageUI) - Photo viewer inspired by Apple.
 - [UK’s NHS Covid-19 App](https://github.com/nhsx/COVID-19-app-iOS-BETA) ([HN](https://news.ycombinator.com/item?id=23105811))
+- [VLC](https://github.com/videolan/vlc-ios)
 
 ## Notes
 

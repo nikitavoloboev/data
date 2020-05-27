@@ -401,6 +401,7 @@
 - [cargo-tree](https://github.com/sfackler/cargo-tree) - Cargo subcommand that visualizes a crate's dependency graph in a tree-like format.
 - [cargo cache](https://github.com/matthiaskrgr/cargo-cache) - Manage cargo cache (\${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively.
 - [cargo-instruments](https://github.com/cmyr/cargo-instruments) - Cargo plugin to generate Xcode Instruments trace files.
+- [stack-sizes](https://github.com/japaric/stack-sizes) - Tools to print stack usage information emitted by LLVM in human readable format.
 
 ## Links
 

@@ -71,6 +71,7 @@
 - [liquid-swipe](https://github.com/Cuberto/liquid-swipe)
 - [rate-it](https://github.com/Cuberto/rate-it) - Showcase of custom user rate screen, with responsive emotional animated controls.
 - [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet) - Swift library for creating menus, custom action sheets, context menus etc.
+- [CameraBackground](https://github.com/yonat/CameraBackground) - Show camera layer as a background to any UIView.
 
 ## macOS
 
@@ -111,6 +112,7 @@
 - [CombineMIDI](https://github.com/mkj-is/CombineMIDI) - Connect MIDI using Combine to SwiftUI (or UIKit).
 - [PureSwiftUI](https://github.com/CodeSlicing/pure-swift-ui) - Bringing Views into Focus.
 - [CodeScanner](https://github.com/twostraws/CodeScanner) - SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.
+- [Gmenu](https://github.com/amirdew/gmenu) - Redesigned menu for Gmail iOS app, implemented using SwiftUI.
 
 ## Test
 
@@ -337,6 +339,7 @@
 - [SwiftCBOR](https://github.com/myfreeweb/SwiftCBOR) - CBOR implementation for Swift.
 - [DNS](https://github.com/Bouke/DNS) - Swift implementation of DNS Records / RR.
 - [WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) - Bridge for Sending Messages between Swift and JavaScript in WKWebViews.
+- [OctopusKit](https://github.com/InvadingOctopus/octopuskit) - 2D ECS game engine in 100% Swift + SwiftUI for iOS, macOS, tvOS.
 
 ## Other (not lib)
 

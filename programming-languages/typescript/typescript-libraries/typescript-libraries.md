@@ -41,6 +41,7 @@
 - [ts-interface-checker](https://github.com/gristlabs/ts-interface-checker) - Runtime library to validate data against TypeScript interfaces.
 - [ts-mysql-plugin](https://github.com/segmentio/ts-mysql-plugin) - : A typescript language service plugin that gives superpowers to SQL tagged template literals.
 - [hyper-ts](https://github.com/gcanti/hyper-ts) - Type safe middleware architecture for HTTP servers.
+- [PgTyped](https://github.com/adelsz/pgtyped) - Makes it possible to use raw SQL in TypeScript with guaranteed type-safety.
 
 ## Links
 

@@ -96,3 +96,4 @@
 - [OpenAutoComplete](https://github.com/openautocomplete/openautocomplete) - Shell-agnostic, declarative CLI autocomplete specification.
 - [Best practices for building SDKs for APIs (2019)](https://www.moesif.com/blog/technical/sdks/Best-Practices-for-Building-SDKs-for-APIs/)
 - [Ask HN: Best practices (and examples) for designing client libraries for APIs? (2020)](https://news.ycombinator.com/item?id=23283551)
+- [apigentools](https://github.com/DataDog/apigentools) - Generate API clients from OpenAPI v3 specification for multiple languages using openapi-generator.
