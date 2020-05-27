@@ -49,3 +49,4 @@
 - [Funding models and progress (2020)](https://rootsofprogress.org/funding-models-and-progress) ([HN](https://news.ycombinator.com/item?id=22941884))
 - [On Deck](https://www.beondeck.com/openhouse) - Builds community around a cohort of experienced founders in the formative stages of starting a company.
 - [Indiegogo](https://www.indiegogo.com/) - Crowdfund Innovations & Support Entrepreneurs.
+- [fosspay](https://github.com/ddevault/fosspay) - Donation collection for FOSS groups and individuals.
