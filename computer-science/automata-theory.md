@@ -23,3 +23,4 @@
 - [Build a digital clock in Conway's Game of Life](https://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life)
 - [Growing Neural Cellular Automata (2020)](https://distill.pub/2020/growing-ca/)
 - [Game of Life on Metal (2020)](https://cutting.io/posts/game-of-life-on-metal/) ([Code](https://github.com/dcutting/GameOfLifeOnMetal))
+- [Tock](https://github.com/ND-CSE-30151/tock) - Theory Of Computing toolKit. Can simulate the automata taught in standard theory of computation courses.

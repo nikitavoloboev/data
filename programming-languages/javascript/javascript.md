@@ -167,3 +167,4 @@
 - [Binary-parser](https://github.com/keichi/binary-parser) - Parser builder for JavaScript that enables you to write efficient binary parsers in a simple and declarative manner.
 - [estrella](https://github.com/rsms/estrella) - Light-weight runner for the esbuild compiler.
 - [jsparagus](https://github.com/mozilla-spidermonkey/jsparagus) - JavaScript parser written in Rust.
+- [Callbag](https://github.com/callbag/callbag) - Standard for JS callbacks that enables lightweight observables and iterables.
