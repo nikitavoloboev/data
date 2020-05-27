@@ -57,3 +57,4 @@
 - [Math for Game Developers video series](http://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) ([Code](https://github.com/BSVino/MathForGameDevelopers))
 - [Modern C++ gamedev: thoughts and misconceptions](https://vittorioromeo.info/index/blog/gamedev_modern_cpp_thoughts.html) ([HN](https://news.ycombinator.com/item?id=23202120)) ([Reddit](https://www.reddit.com/r/cpp/comments/gkrquo/modern_c_gamedev_thoughts_misconceptions/))
 - [lovetoys](https://github.com/lovetoys/lovetoys) - Entity Component System framework for game development with lua.
+- [Cheat Engine](https://github.com/cheat-engine/cheat-engine) - Development environment focused on modding games and applications for personal use.

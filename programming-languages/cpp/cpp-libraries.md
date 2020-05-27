@@ -84,3 +84,4 @@
 - [Tiny Differentiable Simulator](https://github.com/google-research/tiny-differentiable-simulator) - Header-only C++ physics library with zero dependencies.
 - [Movable Feast Machine C++ reference implementation and simulator](https://github.com/DaveAckley/MFM)
 - [Fastor](https://github.com/romeric/Fastor) - Light-weight high performance tensor algebra framework for modern C++.
+- [FastNoise](https://github.com/Auburns/FastNoise) - Fast C++ Noise Library.

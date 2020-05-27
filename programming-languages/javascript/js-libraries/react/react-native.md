@@ -81,3 +81,4 @@
 - [Shoutem UI](https://github.com/shoutem/ui) - Customizable set of components for React Native applications.
 - [React Native, v2 course by Kadi Kraman (2020)](https://frontendmasters.com/courses/react-native-v2/)
 - [Ultimate Guide to React Native Optimization book (2020)](https://callstack.com/blog/download-the-ultimate-guide-to-react-native-optimization-ebook/)
+- [Scroll Bottom Sheet](https://github.com/rgommezz/react-native-scroll-bottom-sheet) - Cross platform scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land.
