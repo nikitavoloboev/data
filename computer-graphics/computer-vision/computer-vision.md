@@ -63,3 +63,4 @@
 - [Fast Human Pose Estimation CVPR2019](https://github.com/ilovepose/fast-human-pose-estimation.pytorch)
 - [Deep High-Resolution Representation Learning for Human Pose Estimation](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)
 - [Background Matting: The World is Your Green Screen](https://github.com/senguptaumd/Background-Matting)
+- [DE⫶TR: End-to-End Object Detection with Transformers](https://github.com/facebookresearch/detr)
