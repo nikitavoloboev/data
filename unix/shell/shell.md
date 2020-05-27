@@ -60,3 +60,4 @@ All active variables can be seen by running `env`.
 - [Tutorial - Write a Shell in C (2015)](https://brennan.io/2015/01/16/write-a-shell-in-c/) ([Code](https://github.com/brenns10/lsh))
 - [DSL for shell scripting (2020)](https://acha.ninja/blog/dsl_for_shell_scripting/) ([Lobsters](https://lobste.rs/s/p6insb/dsl_for_shell_scripting))
 - [Shell Script Compiler](https://github.com/neurobin/shc) - Generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code.
+- [Shell script template suitable for most software developers](https://github.com/mjambon/reasonable-shell-script)
