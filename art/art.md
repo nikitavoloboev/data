@@ -167,6 +167,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [SHUTDOWN Gallery](https://www.shutdown.gallery/)
 - [Manly Palmer Hall collection of alchemical manuscripts, 1500-1825](https://archive.org/details/manlypalmerhabox17hall/page/n13/mode/2up)
 - [The Museum of Ridiculously Interesting Things](https://ridiculouslyinteresting.com/) - Collection of ridiculously interesting art, objects, ideas, and history.
+- [Marcello Morandini's art](https://twitter.com/panlepan/status/1265733959855546368)
 
 ## Photography
 

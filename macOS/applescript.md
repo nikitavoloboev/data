@@ -17,3 +17,4 @@
 - [BushelScript](https://github.com/BushelScript/BushelScript) - Next-generation open-source alternative to AppleScript.
 - [Combining Python and AppleScript (2013)](https://leancrew.com/all-this/2013/03/combining-python-and-applescript/)
 - [Execute AppleScript With Regex Via Shell](https://forum.keyboardmaestro.com/t/execute-applescript-with-regex-via-shell/17827)
+- [UI Browser](https://pfiddlesoft.com/uibrowser/) - Assistant for Apple's Accessibility and AppleScript GUI Scripting technologies.

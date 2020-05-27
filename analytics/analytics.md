@@ -25,3 +25,4 @@ For user facing products, well implemented analytics will let you see how to opt
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Open-source column-oriented database management system that allows generating analytical data reports in real time.
 - [OpenTelemetry API for Javascript](https://github.com/open-telemetry/opentelemetry-js) - Framework for collecting traces and metrics from applications.
 - [PostHog](https://posthog.com/) - Developer-friendly, open-source product analytics. ([Code](https://github.com/PostHog/posthog))
+- [We ditched Google Analytics for good (2020)](https://missiveapp.com/blog/privacy-first-analytics)
