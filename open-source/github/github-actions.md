@@ -63,6 +63,7 @@
 
 ## Python
 
+- [Setup Miniconda](https://github.com/goanpeca/setup-miniconda) - Set up your GitHub Actions workflow with conda via miniconda.
 - [setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of python.
 
 ## JS

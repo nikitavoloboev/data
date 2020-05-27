@@ -18,3 +18,4 @@
 - [Tailwind CSS UI](https://www.figma.com/community/file/768809027799962739) ([Code](https://github.com/impulse/tailwindcss-figma-kit))
 - [React Native Tailwind](https://github.com/MythicalFish/react-native-tailwind) - Functional CSS classes for React Native.
 - [TailwindCSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin)
+- [TailBlocks](https://mertjf.github.io/tailblocks/) - Ready-to-use Tailwind CSS blocks. ([Code](https://github.com/mertJF/tailblocks))

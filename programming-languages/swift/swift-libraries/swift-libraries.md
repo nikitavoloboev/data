@@ -343,6 +343,8 @@
 - [WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) - Bridge for Sending Messages between Swift and JavaScript in WKWebViews.
 - [OctopusKit](https://github.com/InvadingOctopus/octopuskit) - 2D ECS game engine in 100% Swift + SwiftUI for iOS, macOS, tvOS.
 - [GraphZahl](https://github.com/nerdsupremacist/GraphZahl) - Framework to implement Declarative, Type-Safe GraphQL Server APIs using Runtime Magic.
+- [llbuild2](https://github.com/apple/swift-llbuild2) - Experimental, Swift native, fully async, NIO futures-based low level build system.
+- [SwiftJWT](https://github.com/IBM-Swift/Swift-JWT) - Implementation of JSON Web Token using Swift.
 
 ## Other (not lib)
 

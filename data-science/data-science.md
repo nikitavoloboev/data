@@ -47,7 +47,6 @@
 - [Turn Python Scripts into Beautiful ML Tools (2019)](https://towardsdatascience.com/coding-ml-tools-like-you-code-ml-models-ddba3357eace) ([HN](https://news.ycombinator.com/item?id=21158487))
 - [Foundations of Data Science (2019)](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) ([HN](https://news.ycombinator.com/item?id=21179378))
 - [Gyana](https://www.gyana.co.uk/) - No code desktop data science tool. ([Article](https://www.gyana.co.uk/post/a-bicycle-for-data))
-- [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling. ([Website](https://dask.org/)) ([Tutorial](https://tutorial.dask.org/))
 - [Numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM. ([5 minute guide](https://numba.pydata.org/numba-doc/dev/user/5minguide.html))
 - [What's your typical data pipeline in a small company? (2019)](https://www.reddit.com/r/datascience/comments/dge7wh/whats_your_typical_data_pipeline_in_a_small/)
 - [dbt](https://www.getdbt.com/) - Data build tool. Analytics engineering workflow.
@@ -77,10 +76,8 @@
 - [An Introduction To Data Science On The Linux Command Line (2019)](https://blog.robertelder.org/data-science-linux-command-line/) ([HN](https://news.ycombinator.com/item?id=21605077))
 - [How to analyse 100 GB of data on your laptop with Python (2019)](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
 - [Metaflow](https://metaflow.org/) - Framework for real-life data science. ([HN](https://news.ycombinator.com/item?id=21696779)) ([Code](https://github.com/Netflix/metaflow))
-- [Jim Crist: Introducting Dask-Gateway: Dask clusters as a service (2019)](https://www.youtube.com/watch?v=Q8Wy0RB5UKQ)
 - [SaturnCloud](https://www.saturncloud.io/s/index.html) - Manage Data Science applications so Data Scientists don't have to do DevOps.
 - [Falcon](https://github.com/uwdata/falcon) - Interactive Visual Analysis for Big Data.
-- [Dask Gateway](https://gateway.dask.org/) - Provides a secure, multi-tenant server for managing Dask clusters.
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming Data Warehouse. ([Web](https://materialize.io/))
 - [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
 - [Data Science Interview Questions](https://github.com/alexeygrigorev/data-science-interviews#readme)
