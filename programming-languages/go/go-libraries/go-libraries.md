@@ -2,8 +2,8 @@
 
 ## CLI
 
-- [Flaggy](https://github.com/integrii/flaggy) - Idiomatic Go input parsing with subcommands, positional values, and flags at any position.
 - [cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go.
+- [Flaggy](https://github.com/integrii/flaggy) - Idiomatic Go input parsing with subcommands, positional values, and flags at any position.
 - [gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go.
 - [ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications.
 - [progressbar](https://github.com/schollz/progressbar) - Basic thread-safe progressbar for Go apps.
