@@ -424,6 +424,7 @@
   - [Service workers](web/service-workers.md)
   - [Static sites](web/static-sites/static-sites.md)
     - [Hugo](web/static-sites/hugo.md)
+    - [Eleventy](web/static-sites/eleventy.md)
   - [Node.js](web/nodejs/nodejs.md)
   - [Deno](web/deno.md)
   - [WebAssembly](web/webassembly.md)

@@ -9,3 +9,4 @@
 - [Toast](https://github.com/ChristopherBiscardi/toast) - Modern, ESModules-first, site compiler. It avoids bundlers completely by default (although you can integrate bundlers if you need to). ([Article](https://www.christopherbiscardi.com/shipping-sector-toast-and-more))
 - [JAMstack Functions](https://jamstackfns.com/) - Directory of the best serverless functions for JAMstack applications.
 - [The JAMStack and the startups building it](https://technically.dev/posts/the-jamstack-and-the-startups-building-it.html)
+- [JAMStack Virtual Conf](https://jamstackconf.com/virtual/)
