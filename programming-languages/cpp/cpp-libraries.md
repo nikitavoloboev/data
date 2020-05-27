@@ -17,6 +17,7 @@
 - [GuiLite](https://github.com/idea4good/GuiLite) - Smallest UI framework for all platform -- 5K lines code.
 - [Yue](https://github.com/yue/yue) - Library for creating native cross-platform GUI apps.
 - [MyGUI](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI.
+- [Plywood](https://github.com/arc80/plywood) - Cross-platform framework for building all kinds of C++ software. ([HN](https://news.ycombinator.com/item?id=23310341))
 
 ## Other
 

@@ -212,3 +212,5 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Antilibrary](https://www.antilibrari.es/) - Space both for celebrating all sorts of amazing books, and exploring more broadly the idea of learning from the unknown.
 - [Hello, EPUB (2020)](https://wooorm.com/blog/hello-epub/) - Intro to the format.
 - [On Books](https://github.com/jlevy/on-books#readme) - Collection of readings and notes on the past, present, and future of books.
+- [I won't buy ebooks anymore (2020)](https://dustri.org/b/i-wont-buy-ebooks-anymore.html) ([HN](https://news.ycombinator.com/item?id=23310430)) ([Lobsters](https://lobste.rs/s/znjrtl/i_won_t_buy_ebooks_anymore))
+- [ZLibrary](https://b-ok.cc/) - Electronic library. Download books free.

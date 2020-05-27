@@ -382,6 +382,7 @@
 - [displaydoc](https://github.com/yaahc/displaydoc) - Derive macro for implementing the display Trait via a doc comment and string interpolation.
 - [simple-mutex](https://github.com/stjepang/simple-mutex) - Simple mutex, faster than std and smaller than parking_lot.
 - [remem](https://github.com/rylev/remem) - Utility for reusing memory.
+- [aho-corasick](https://github.com/BurntSushi/aho-corasick) - Library for finding occurrences of many patterns at once with SIMD acceleration in some cases.
 
 ## Cargo Plugins
 

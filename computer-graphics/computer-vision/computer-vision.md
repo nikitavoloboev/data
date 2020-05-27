@@ -55,3 +55,4 @@
 - [ScreenPoint](https://github.com/cyrildiagne/screenpoint) - Project an image centroid to another image using OpenCV.
 - [U^2-Net](https://github.com/NathanUA/U-2-Net) - Code for our newly accepted paper in Pattern Recognition 2020: "U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection".
 - [TorchIO](https://github.com/fepegar/torchio) - Tools for medical image processing in deep learning.
+- [Real time Image Animation in OpenCV using first order model](https://github.com/anandpawara/Real_Time_Image_Animation) ([HN](https://news.ycombinator.com/item?id=23312259))

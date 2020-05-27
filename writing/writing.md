@@ -96,6 +96,7 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - Most adverbs are superfluous. Most cases where you say "generally" or "usually" you're undermining your point and the use of "very", "extremely", etc. are hyperbolic and breathless and make it easier to regard what you're writing as unserious.
 - Examine every word: a surprising number don’t serve any purpose.
 - [One of the best things about starting your career at Amazon is grooming in some fantastic values in early years of life. One of those is writing pithy, powerful documents.](https://twitter.com/nipunmehra/status/1154590521345490945)
+- [Writing is not publishing. If you conflate the two you might not write at all.](https://news.ycombinator.com/item?id=23314664)
 
 ## Links
 
