@@ -45,3 +45,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Pleroma 2.0: a free, federated social networking server built on open protocols (2020)](https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/) ([HN](https://news.ycombinator.com/item?id=22519209))
 - [Moa](https://github.com/foozmeat/moa) - Mastodon, Twitter, and Instagram Cross-poster.
 - [Lessons I've Learned After Gaining 100,000 Twitter Followers (2020)](https://compiled.blog/blog/lessons-ive-learned-after-gaining-100000-twitter-followers)
+- [Bridgy](https://github.com/snarfed/bridgy) - Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more.

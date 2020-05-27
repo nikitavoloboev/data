@@ -7,3 +7,4 @@
 - [Caddy code](https://github.com/mholt/caddy)
 - [xcaddy](https://github.com/caddyserver/xcaddy) - Build Caddy with plugins.
 - [HN: Caddy 2 (2020)](https://news.ycombinator.com/item?id=23070567)
+- [caddy-json-schema](https://github.com/abiosoft/caddy-json-schema) - JSON schema generator for Caddy v2.

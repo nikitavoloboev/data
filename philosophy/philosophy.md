@@ -25,3 +25,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/) ([HN](https://news.ycombinator.com/item?id=22607568))
 - [Meaningness](https://meaningness.com/) - Better ways of thinking, feeling, and acting—around problems of meaning and meaninglessness; self and society; ethics, purpose, and value.
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/contents.html)
+- [Source: An Infinite Game](https://github.com/rjelavic/source)
