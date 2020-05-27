@@ -116,6 +116,7 @@
 - [aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio).
 - [sqlitedict](https://github.com/RaRe-Technologies/sqlitedict) - Persistent dict, backed-up by SQLite and pickle.
 - [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling in Python.
+- [mistletoe](https://github.com/miyuchina/mistletoe) - Fast, extensible and spec-compliant Markdown parser in pure Python.
 
 ## Links
 

@@ -342,6 +342,7 @@
 - [DNS](https://github.com/Bouke/DNS) - Swift implementation of DNS Records / RR.
 - [WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) - Bridge for Sending Messages between Swift and JavaScript in WKWebViews.
 - [OctopusKit](https://github.com/InvadingOctopus/octopuskit) - 2D ECS game engine in 100% Swift + SwiftUI for iOS, macOS, tvOS.
+- [GraphZahl](https://github.com/nerdsupremacist/GraphZahl) - Framework to implement Declarative, Type-Safe GraphQL Server APIs using Runtime Magic.
 
 ## Other (not lib)
 

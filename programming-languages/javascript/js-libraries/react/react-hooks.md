@@ -53,6 +53,7 @@
 - [use-is-in-viewport](https://github.com/zeusdeux/use-is-in-viewport) - React hook to find out if an element is in a given viewport with a simple api.
 - [Little State Machine](https://github.com/bluebill1049/little-state-machine) - React custom hook for persist state management.
 - [react-layout-effect](https://github.com/alloc/react-layout-effect) - useLayoutEffect with SSR fallback and React Native support.
+- [use-resize-observer](https://github.com/ZeeCoder/use-resize-observer) - React hook that allows you to use a ResizeObserver to measure an element's size.
 
 ## Notes
 
