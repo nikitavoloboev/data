@@ -47,7 +47,7 @@
 - [A new “Mathematician’s Apology”](https://ldtopology.wordpress.com/2017/03/18/a-new-mathematicians-apology/)
 - [Interesting theorems](https://www.reddit.com/r/math/comments/6p9qic/if_every_field_had_to_have_a_fundamental_theorem/dknqbb2/)
 - [Ask HN: How do I learn math/physics in my thirties?](https://news.ycombinator.com/item?id=17075261)
-- [Napkin Project](https://web.evanchen.cc/napkin.html)
+- [Napkin Project](https://web.evanchen.cc/napkin.html) ([Code](https://github.com/vEnhance/napkin))
 - [Learn Math Fast](https://github.com/llSourcell/learn_math_fast#readme) - Curated list of awesome mathematics resources.
 - [Russian wiki on math & finance](http://synset.com/wiki/index.php/Заглавная_страница)
 - [Math for CS MIT Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)

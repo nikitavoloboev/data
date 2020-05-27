@@ -418,6 +418,7 @@
 - [glob](https://github.com/gobwas/glob) - Go Globbing Library.
 - [exhaustive](https://github.com/nishanths/exhaustive) - Ensure exhaustiveness of enum switch statements in Go code.
 - [stream](https://github.com/ghemawat/stream) - Provides filters that can be chained together in a manner similar to Unix pipelines.
+- [MinIO Go Client SDK](https://github.com/minio/minio-go) - Provides simple APIs to access any Amazon S3 compatible object storage.
 
 ## Links
 

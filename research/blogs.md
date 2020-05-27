@@ -83,3 +83,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Own your content & traffic. A love letter to my website. (2019)](https://vanschneider.com/a-love-letter-to-personal-websites) ([Twitter](https://twitter.com/vanschneider/status/1262431846434045955))
 - [Thoughts on growing a blog](https://twitter.com/JoshWComeau/status/1263955318339506176)
 - [Choosing a tech stack for my personal dev blog in 2020](https://vriad.com/blog/devii/) ([HN](https://news.ycombinator.com/item?id=23309002))
+- [Minima](https://github.com/jekyll/minima) - One-size-fits-all Jekyll theme for writers.

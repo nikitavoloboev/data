@@ -18,3 +18,4 @@
 - [pest](https://github.com/pest-parser/pest) - General purpose parser written in Rust with a focus on accessibility, correctness, and performance. ([Web](https://pest.rs/))
 - [Simple but Powerful Pratt Parsing (2020)](https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html)
 - [Reasoning About Recursive Tree Traversals (2019)](https://arxiv.org/pdf/1910.09521.pdf)
+- [unist](https://github.com/syntax-tree/unist) - Specification for syntax trees.

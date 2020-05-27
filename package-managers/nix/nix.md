@@ -100,3 +100,4 @@
 - [Nix function to easily create derivations (packages) to install binaries from location](https://twitter.com/mitchellh/status/1259521715211657216)
 - [What Is Nix (2020)](https://engineering.shopify.com/blogs/engineering/what-is-nix) ([HN](https://news.ycombinator.com/item?id=23251754)) ([Lobsters](https://lobste.rs/s/bgwsd8/what_is_nix))
 - [comma](https://github.com/Shopify/comma) - Runs software without installing it. Wraps together nix run and nix-index.
+- [nix-derivation](https://github.com/Gabriel439/Haskell-Nix-Derivation-Library) - Parse and render *.drv files.
