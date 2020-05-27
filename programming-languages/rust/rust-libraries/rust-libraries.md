@@ -89,6 +89,7 @@
 - [Mockall](https://github.com/asomers/mockall) - Powerful mock object library for Rust.
 - [rstest](https://github.com/la10736/rstest) - Uses procedural macros to help you on writing fixtures and table-based tests.
 - [Proptest](https://github.com/AltSysrq/proptest) - Hypothesis-like property testing for Rust.
+- [cargo-all-features](https://github.com/frewsxcv/cargo-all-features) - Cargo subcommand to build and test all feature flag combinations.
 
 ## Error
 

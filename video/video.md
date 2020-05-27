@@ -57,3 +57,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs.
 - [Fluent ffmpeg-API for node.js](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
 - [TAGX](https://tagx.io/) - Enter a YouTube, Vimeo or Video link below to start tagging.
+- [VMAF - Video Multi-Method Assessment Fusion](https://github.com/Netflix/vmaf)
