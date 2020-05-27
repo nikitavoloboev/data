@@ -215,3 +215,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [On Books](https://github.com/jlevy/on-books#readme) - Collection of readings and notes on the past, present, and future of books.
 - [I won't buy ebooks anymore (2020)](https://dustri.org/b/i-wont-buy-ebooks-anymore.html) ([HN](https://news.ycombinator.com/item?id=23310430)) ([Lobsters](https://lobste.rs/s/znjrtl/i_won_t_buy_ebooks_anymore))
 - [ZLibrary](https://b-ok.cc/) - Electronic library. Download books free.
+- [Reading habits that changed my life (2020)](https://medium.com/@manjotpahwa/10-reading-habits-that-changed-my-life-5c7673bc34bc) ([HN](https://news.ycombinator.com/item?id=23308931))

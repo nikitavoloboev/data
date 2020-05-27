@@ -84,3 +84,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Thoughts on growing a blog](https://twitter.com/JoshWComeau/status/1263955318339506176)
 - [Choosing a tech stack for my personal dev blog in 2020](https://vriad.com/blog/devii/) ([HN](https://news.ycombinator.com/item?id=23309002))
 - [Minima](https://github.com/jekyll/minima) - One-size-fits-all Jekyll theme for writers.
+- [Bear](https://bearblog.dev/) - Minimal blogging platform. ([HN](https://news.ycombinator.com/item?id=23312339))

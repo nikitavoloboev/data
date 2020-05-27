@@ -53,3 +53,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: Looking for Side Project Ideas (2020)](https://news.ycombinator.com/item?id=23290536)
 - [Interesting ideas for JS related projects](https://twitter.com/Vjeux/status/1264241470598340608)
 - [Ideas for productized services](https://twitter.com/tylertringas/status/1265189085334904834)
+- [Kinopio](https://kinopio.club/) - Visual thinking tool for new ideas and hard problems.
