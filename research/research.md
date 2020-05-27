@@ -53,3 +53,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Tips for releasing research code in Machine Learning](https://github.com/paperswithcode/releasing-research-code)
 - [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) - Jekyll extensions for the blogging scholar.
 - [Peer Review (2020)](https://rodneybrooks.com/peer-review/) ([HN](https://news.ycombinator.com/item?id=23280372))
+- [10 Tips for Research and a PhD (2020)](https://ruder.io/10-tips-for-research-and-a-phd/)

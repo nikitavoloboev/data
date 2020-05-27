@@ -48,3 +48,4 @@
 - [Thrive Capital](http://thrivecap.com/) - Venture capital investment firm focused on internet and software investments.
 - [Hustle Fund](https://www.hustlefund.vc/)
 - [Bedrock](https://www.bedrockgroup.com/) - Global investment and advisory firm.
+- [How VC works - A Beginner's Guide (2020)](https://simplanations.substack.com/p/2-how-vc-works-a-beginners-guide) ([HN](https://news.ycombinator.com/item?id=23306572))
