@@ -94,3 +94,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Every Domain](https://everydomain.co/) - Find every available domain for your keyword.
 - [Cloudflare Speed Test](https://speed.cloudflare.com/) ([HN](https://news.ycombinator.com/item?id=23313657))
 - [Own your content on Social Media using the IndieWeb (2019)](https://www.youtube.com/watch?v=X3SrZuH00GQ)
+- [Local Testing on an iPhone (2020)](https://joshwcomeau.com/blog/local-testing-on-an-iphone/)
