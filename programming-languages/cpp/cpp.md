@@ -86,3 +86,4 @@
 - [Goals and priorities for C++ (2020)](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2137r0.html) ([HN](https://news.ycombinator.com/item?id=23256901))
 - [Analyzing The Simplest C++ Program (2020)](https://oneraynyday.github.io/dev/2020/05/03/Analyzing-The-Simplest-C++-Program/)
 - [How are libraries like Tensorflow developed in C++ buy can run in python? (2020)](https://www.reddit.com/r/cpp/comments/gp8gl4/how_are_libraries_like_tensorflow_developed_in_c/)
+- [What science can tell us about C and C++'s security (2020)](https://alexgaynor.net/2020/may/27/science-on-memory-unsafety-and-security/)
