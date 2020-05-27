@@ -42,3 +42,4 @@ I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob
 - [Merge karabiner.json with complex modification rules](https://gist.github.com/narze/527ac6321c24cfde71bc3b30b7c078f3)
 - [Karabiner Complex Rules Generator](https://genesy.github.io/karabiner-complex-rules-generator/) ([Code](https://github.com/genesy/karabiner-complex-rules-generator))
 - [Karabiner DriverKit VirtualHIDDevice](https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice)
+- [Optimize Your Keyboard (2020)](https://www.pscp.tv/w/1vOxworogovxB)
