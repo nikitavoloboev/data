@@ -166,6 +166,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Tom MacWright's reading list](https://macwright.org/reading/)
 - [Which books have you read at least 3 times? (2020)](https://twitter.com/alexeyguzey/status/1264287735797465088)
 - [Kevin Rooke books](https://www.kevinrooke.com/books) - Explore the books recommended by the world's top investors, entrepreneurs, and thinkers.
+- [Julian Weisser's books](https://www.weisser.io/books/)
 
 ## Notes
 
