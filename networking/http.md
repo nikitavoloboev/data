@@ -54,3 +54,4 @@
 - [DOM4](https://github.com/WebReflection/dom4) - Fully tested and covered polyfill for new DOM Level 4 entries.
 - [How HTTP Requests Work (2020)](https://lobste.rs/s/qvdgfa/how_http_requests_work)
 - [templar](https://github.com/vektra/templar) - HTTP proxy to improve usage of HTTP APIs.
+- [sirv](https://github.com/lukeed/sirv) - Optimized middleware & CLI application for serving static files.

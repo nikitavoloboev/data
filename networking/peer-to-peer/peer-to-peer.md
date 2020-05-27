@@ -37,3 +37,4 @@
 - [orbit-db-eventstore](https://github.com/orbitdb/orbit-db-eventstore) - Append-only log with traversable history. Useful for "latest N" use cases or as a message queue.
 - [Announcing the Beaker 1.0 Beta (2020)](https://beakerbrowser.com/2020/05/14/beaker-1-0-beta.html) ([HN](https://news.ycombinator.com/item?id=23182775))
 - [Hyperdrive v10 – a peer-to-peer filesystem (2020)](https://blog.hypercore-protocol.org/posts/announcing-hyperdrive-10/) ([HN](https://news.ycombinator.com/item?id=23180572))
+- [hyperswarm/dht](https://github.com/hyperswarm/dht) - DHT powering the HyperSwarm stack.

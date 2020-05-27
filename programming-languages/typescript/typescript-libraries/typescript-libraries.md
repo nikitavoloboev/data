@@ -40,6 +40,7 @@
 - [monocle-ts](https://github.com/gcanti/monocle-ts) - Functional optics: a (partial) porting of Scala monocle.
 - [ts-interface-checker](https://github.com/gristlabs/ts-interface-checker) - Runtime library to validate data against TypeScript interfaces.
 - [ts-mysql-plugin](https://github.com/segmentio/ts-mysql-plugin) - : A typescript language service plugin that gives superpowers to SQL tagged template literals.
+- [hyper-ts](https://github.com/gcanti/hyper-ts) - Type safe middleware architecture for HTTP servers.
 
 ## Links
 

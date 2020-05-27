@@ -11,3 +11,4 @@
 - [Atoms](https://atoms.com/) - Ideal everyday shoes.
 - [Thread](https://www.thread.com/) - Recommends clothes in your style, size and budget.
 - [METAL Magazine](https://metalmagazine.eu/bi)
+- [Outlier](https://outlier.nyc/)

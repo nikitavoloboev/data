@@ -114,3 +114,4 @@
 - [Towards improved generalization in few-shot classification (2019)](https://tmramalho.github.io/science/2019/12/07/towards-improved-generalization-in-few-shot-classification/)
 - [Convolutional Neural Networks in One Dimension](https://end-to-end-machine-learning.teachable.com/p/321-convolutional-neural-networks)
 - [Neural Network Pruning (2020)](https://nathanhubens.github.io/posts/deep%20learning/2020/05/22/pruning.html)
+- [Hyperbolic RNN in PyTorch](https://github.com/ferrine/hyrnn)

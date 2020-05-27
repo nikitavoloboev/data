@@ -96,6 +96,7 @@
 - [react-magnifier](https://github.com/samuelmeuli/react-magnifier) - React image zoom component.
 - [ReactReparenting](https://github.com/paol-imi/react-reparenting) - Reparenting tools for React. ([Web](https://paol-imi.github.io/react-reparenting/)) ([Article](https://medium.com/swlh/reparenting-with-react-426d12fb6d0d))
 - [windups](https://github.com/sgwilym/windups) - Typewriter effect library for React. ([Web](https://windups.gwil.co/))
+- [React Shimmer](https://github.com/gokcan/react-shimmer) - Async loading, performant Image component for React.js.
 
 ## Links
 

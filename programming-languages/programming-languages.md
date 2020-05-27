@@ -74,3 +74,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Hoist](https://github.com/theronic/hoist) - Visual programming language inspired by Excel & Datalog.
 - [Esoteric.Codes](https://esoteric.codes/) - Languages, platforms, and systems that break from the norms of computing.
 - [Resources for the working programmer to learn more about the fundamentals and theory of programming languages](https://github.com/jeanqasaur/learn-programming-languages#readme)
+- [Call-By-Push-Value](https://www.cs.bham.ac.uk/~pbl/papers/thesisqmwphd.pdf) - New programming language paradigm, based on the slogan “a value is, a computation does".
