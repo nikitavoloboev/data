@@ -12,3 +12,4 @@
 - [Articles on Bazel by Jay Conrod](https://www.jayconrod.com/tags/bazel)
 - [Bazelisk](https://github.com/bazelbuild/bazelisk) - User-friendly launcher for Bazel.
 - [Building Uber’s Go Monorepo with Bazel (2020)](https://eng.uber.com/go-monorepo-bazel/) ([HN](https://news.ycombinator.com/item?id=23180255))
+- [PodToBUILD](https://github.com/pinterest/PodToBUILD) - Easy way to build CocoaPods with Bazel - it integrates pods end to end with an easy to use macro.

@@ -73,6 +73,7 @@
 - [Sheeeeeeeeet](https://github.com/danielsaidi/Sheeeeeeeeet) - Swift library for creating menus, custom action sheets, context menus etc.
 - [CameraBackground](https://github.com/yonat/CameraBackground) - Show camera layer as a background to any UIView.
 - [EmojiPickerUI](https://github.com/insidegui/EmojiPickerUI) - Framework implementing a macOS-style emoji picker for iPadOS.
+- [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - Light-weight UITextView subclass that automatically grows and shrinks.
 
 ## macOS
 
@@ -345,6 +346,7 @@
 - [GraphZahl](https://github.com/nerdsupremacist/GraphZahl) - Framework to implement Declarative, Type-Safe GraphQL Server APIs using Runtime Magic.
 - [llbuild2](https://github.com/apple/swift-llbuild2) - Experimental, Swift native, fully async, NIO futures-based low level build system.
 - [SwiftJWT](https://github.com/IBM-Swift/Swift-JWT) - Implementation of JSON Web Token using Swift.
+- [NDArray](https://github.com/cgarciae/NDArray) - Multidimensional Array library for Swift.
 
 ## Other (not lib)
 

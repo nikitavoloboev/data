@@ -20,3 +20,4 @@
 - [qrcp](https://github.com/claudiodangelis/qrcp) - Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal. ([HN](https://news.ycombinator.com/item?id=22914789))
 - [0x0.st](https://0x0.st/) - No-bullshit file hosting and URL shortening service. ([Code](https://github.com/mia-0/0x0))
 - [Librevault](https://github.com/librevault/librevault) - Open-source peer-to-peer file synchronization program, designed with convenience and privacy in mind.
+- [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Wireless, encrypted file transfer over automatically configured ad hoc networking.

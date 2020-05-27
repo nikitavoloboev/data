@@ -16,3 +16,4 @@
 - [NGINX Wiki](https://www.nginx.com/resources/wiki/) ([Code](https://github.com/nginxinc/nginx-wiki))
 - [Manage Nginx upstreams in pure Lua](https://github.com/upyun/lua-resty-checkups)
 - [Prometheus metric library for Nginx](https://github.com/knyar/nginx-lua-prometheus)
+- [NGINX Ingress Controller](https://github.com/nginxinc/kubernetes-ingress)

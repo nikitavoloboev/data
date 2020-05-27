@@ -391,6 +391,7 @@
 - [Arise](https://github.com/learnmerust/arise) - Run a process "forever"; Run a process and spawn it when it dies.
 - [easy-parallel](https://github.com/stjepang/easy-parallel) - Run closures in parallel.
 - [Askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust.
+- [libprobe](https://github.com/cuviper/rust-libprobe) - Static probes for Rust.
 
 ## Cargo Plugins
 

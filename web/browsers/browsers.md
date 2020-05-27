@@ -44,3 +44,4 @@
 - [Things I wish I knew before making a paid extension (2019)](https://www.amie-chen.com/blog/making-paid-extension/)
 - [Wiper](https://github.com/davidahmed/wiper) - Browser add-on to strip search results from 'blacklisted' URLs on Google. ([HN](https://news.ycombinator.com/item?id=23295989))
 - [Brave Browser](https://github.com/brave/brave-browser)
+- [Chromium Embedded Framework (CEF)](https://github.com/chromiumembedded/cef) - Framework for embedding Chromium-based browsers in other applications.
