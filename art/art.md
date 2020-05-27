@@ -52,6 +52,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Nick Stath](https://www.instagram.com/nick_stath/)
 - [Pierpaolo Rovero](https://www.instagram.com/pierpaolorovero/)
 - [Eva Eskelinen](https://www.instagram.com/evelmiina/)
+- [Daniel Mullen](https://www.instagram.com/daniel.j.mullen/)
 - [Moonassi](http://www.moonassi.com/)
 - [Liam Wong](https://www.liamwong.com/)
 - [Guim Tió](https://www.instagram.com/guimtio/)
