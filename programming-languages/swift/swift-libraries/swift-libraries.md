@@ -335,6 +335,7 @@
 - [Markup](https://github.com/SwiftDocOrg/Markup) - Swift package for working with HTML, XML, and other markup languages, based on libxml2.
 - [LANumerics](https://github.com/phlegmaticprogrammer/LANumerics) - Swift package for doing numerical linear algebra.
 - [SwiftCBOR](https://github.com/myfreeweb/SwiftCBOR) - CBOR implementation for Swift.
+- [DNS](https://github.com/Bouke/DNS) - Swift implementation of DNS Records / RR.
 
 ## Other (not lib)
 

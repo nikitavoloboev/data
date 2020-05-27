@@ -78,6 +78,7 @@
 - [NutsDB](https://github.com/xujiajun/nutsdb) - Simple, fast, embeddable, persistent key/value store written in pure Go.
 - [remoteStorage](https://remotestorage.io/) - Open protocol for per-user storage on the Web.
 - [TimescaleDB](https://www.timescale.com/) - Open-source database built for analyzing time-series data with the power and convenience of SQL.
+- [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Free analytics DBMS for big data.
 
 ## Tools
 
