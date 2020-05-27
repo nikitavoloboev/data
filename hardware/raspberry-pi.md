@@ -10,3 +10,4 @@
 - [gokrazy](https://github.com/gokrazy/gokrazy) - Pure-Go userland for your Raspberry Pi 3 appliances. ([Web](https://gokrazy.org/))
 - [RPiPlay](https://github.com/FD-/RPiPlay) - Open-source AirPlay mirroring server for the Raspberry Pi.
 - [Raspberry-Pi Bare Metal Tutorial](https://github.com/BrianSidebotham/arm-tutorial-rpi)
+- [QPULib](https://github.com/mn416/QPULib) - Language and compiler for the Raspberry Pi GPU.
