@@ -390,6 +390,7 @@
 - [heapless](https://github.com/japaric/heapless) - Static friendly data structures that don't require dynamic memory allocation.
 - [Arise](https://github.com/learnmerust/arise) - Run a process "forever"; Run a process and spawn it when it dies.
 - [easy-parallel](https://github.com/stjepang/easy-parallel) - Run closures in parallel.
+- [Askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust.
 
 ## Cargo Plugins
 

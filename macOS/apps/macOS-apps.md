@@ -49,6 +49,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Up Next](https://ellen.li/up-next/) - Meetings at a glance from your macOS menu bar.
 - [Multi](https://github.com/hkgumbs/multi) - Create a custom, lightweight macOS app from a group of websites. ([HN](https://news.ycombinator.com/item?id=23275080))
 - [Face Data](https://github.com/xiaohk/FaceData) - macOS application used to auto-annotate landmarks from a video.
+- [Bluetility](https://github.com/jnross/Bluetility) - General-purpose Bluetooth Low-Energy utility.
 
 ## Other interesting apps
 
