@@ -23,3 +23,4 @@
 - [Ray Tracing In Notepad.exe At 30 FPS (2020)](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html) ([HN](https://news.ycombinator.com/item?id=23246221))
 - [MentisOculi Pytorch Path Tracer](https://github.com/mmirman/MentisOculi)
 - [Ray Tracing implemented in multiple languages](https://github.com/matt77hias/smallpt)
+- [SwiftlyRT](https://github.com/sbehnke/SwiftlyRT) - Implementation of the Ray Tracer Challenge in Swift.

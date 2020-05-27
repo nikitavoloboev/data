@@ -211,3 +211,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Makerpad Community](https://community.makerpad.co/c/introductions)
 - [EnterpriseReady SaaS Feature Guides](https://www.enterpriseready.io/#)
 - [Solutioning for technological resilience](http://wileywiggins.com/merveilles.html)
+- [Stylus](https://github.com/mmastrac/stylus) - Lightweight status page for home infrastructure.

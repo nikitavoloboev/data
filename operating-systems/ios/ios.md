@@ -164,3 +164,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Passkit Generator](https://github.com/alexandercerutti/passkit-generator) - Easiest way to generate custom Apple Wallet passes in Node.js.
 - [InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) - UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging.
 - [Jailbreaking for iOS Developers (2020)](https://steipete.com/posts/jailbreaking-for-ios-developers/)
+- [unc0ver jailbreak for iOS](https://github.com/pwn20wndstuff/Undecimus)

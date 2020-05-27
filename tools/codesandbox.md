@@ -15,3 +15,4 @@ CodeSandbox is genuinely amazing. It brings the power of the text editor and dev
 - [CodeSandbox CI 101](https://u2edh.csb.app/) - Describes what CodeSandbox CI is, how it will benefit you as a library maintainer, and how to set it up for your library.
 - [Codesandboxer](https://github.com/codesandbox/codesandboxer) - Deploy any component directly to codesandbox from anywhere.
 - [Announcing CodeSandbox CI and all-new Embeds (2019)](https://codesandbox.io/post/codesandbox-ci-embeds)
+- [GitHubBox](https://github.com/dferber90/githubbox) - Open any GitHub repo in CodeSandbox by changing the hostname.
