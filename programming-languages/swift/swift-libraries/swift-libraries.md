@@ -336,6 +336,7 @@
 - [LANumerics](https://github.com/phlegmaticprogrammer/LANumerics) - Swift package for doing numerical linear algebra.
 - [SwiftCBOR](https://github.com/myfreeweb/SwiftCBOR) - CBOR implementation for Swift.
 - [DNS](https://github.com/Bouke/DNS) - Swift implementation of DNS Records / RR.
+- [WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge) - Bridge for Sending Messages between Swift and JavaScript in WKWebViews.
 
 ## Other (not lib)
 

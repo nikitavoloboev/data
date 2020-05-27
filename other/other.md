@@ -216,3 +216,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Duc](https://github.com/zevv/duc) - Collection of tools for indexing, inspecting and visualizing disk usage.
 - [July](https://july.ac/) - Modern A/C.
 - [Best Free Things](https://github.com/PullJosh/best-free-things#readme)
+- [kube-plex](https://github.com/munnerz/kube-plex) - Scalable Plex Media Server on Kubernetes -- dispatch transcode jobs as pods on your cluster.

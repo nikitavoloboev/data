@@ -59,3 +59,4 @@
 - [OpenMV (Open-Source Machine Vision)](https://github.com/openmv/openmv) - Aims at making machine vision more accessible to beginners by developing a user-friendly, open-source, low-cost machine vision platform.
 - [TSD](https://github.com/Sense-X/TSD) - 1st place models in Google OpenImage Detection Challenge 2019.
 - [Training-Time-Friendly Network for Real-Time Object Detection](https://github.com/ZJULearning/ttfnet)
+- [Big Transfer (BiT): General Visual Representation Learning](https://github.com/google-research/big_transfer)

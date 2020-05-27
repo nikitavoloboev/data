@@ -387,6 +387,7 @@
 - [inline-python](https://github.com/fusion-engineering/inline-python) - Inline Python code directly in your Rust code.
 - [socket2-rs](https://github.com/alexcrichton/socket2-rs) - Provide as direct as possible access to the system's functionality for sockets as possible.
 - [heapless](https://github.com/japaric/heapless) - Static friendly data structures that don't require dynamic memory allocation.
+- [Arise](https://github.com/learnmerust/arise) - Run a process "forever"; Run a process and spawn it when it dies.
 
 ## Cargo Plugins
 

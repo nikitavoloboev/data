@@ -52,3 +52,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Experiences with email-based login (2020)](https://www.arp242.net/email-auth.html) ([Lobsters](https://lobste.rs/s/kjm4nu/experiences_with_email_based_login))
 - [How to Write Email with Military Precision](https://hbr.org/2016/11/how-to-write-email-with-military-precision)
 - [Accessible Personal Note Email Template](https://litmus.com/community/templates/30-accessible-personal-note) - Clean, simple email meant for more personal, 1:1 messages.
+- [reserved-email-addresses-list](https://github.com/forwardemail/reserved-email-addresses-list) - List of 1250+ email addresses reserved for security concerns.

@@ -22,6 +22,7 @@
 - [Sandwich](https://sandwich.co/) - We make commercials. The kind people like.
 - [Tips on doing sales](https://news.ycombinator.com/item?id=23285438)
 - [Why Marketing Flywheels Work (2020)](https://sparktoro.com/blog/why-marketing-flywheels-work/) ([HN](https://news.ycombinator.com/item?id=23308622))
+- [Launch Cheat Sheet](https://github.com/sw-yx/launch-cheatsheet#readme)
 
 ## Images
 

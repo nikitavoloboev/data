@@ -22,3 +22,4 @@
 - [micawber](https://github.com/coleifer/micawber) - Small library for extracting rich content from urls.
 - [Spider Pro](https://tryspider.com/) - Easy and cheap way to scrape the internet. ([HN](https://news.ycombinator.com/item?id=21215484))
 - [Website Sitemap Parser](https://github.com/berkmancenter/mediacloud-ultimate-sitemap-parser)
+- [rget](https://github.com/merklecounty/rget) - Download URLs and verify the contents against a publicly recorded cryptographic log.

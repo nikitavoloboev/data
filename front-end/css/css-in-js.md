@@ -23,3 +23,4 @@
 - [Introducing stitches - atomic CSS-IN-JS inspired by Tailwind CSS (2020)](https://www.youtube.com/watch?v=uCiWfQMUUEw)
 - [mystical](https://github.com/dburles/mystical) - Small CSS-in-JS library for atomised constraint based design.
 - [otion](https://github.com/kripod/otion) - Atomic CSS-in-JS with a featherweight runtime.
+- [CSS to JS](https://github.com/SaraVieira/css-to-js) - Transform between CSS, JS Objects and JSX props.

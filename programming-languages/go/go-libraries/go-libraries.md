@@ -421,6 +421,7 @@
 - [stream](https://github.com/ghemawat/stream) - Provides filters that can be chained together in a manner similar to Unix pipelines.
 - [MinIO Go Client SDK](https://github.com/minio/minio-go) - Provides simple APIs to access any Amazon S3 compatible object storage.
 - [go-echarts](https://github.com/go-echarts/go-echarts) - Adorable charts library for Golang.
+- [go-bluetooth](https://github.com/muka/go-bluetooth) - Go bluetooth API for Linux-based Bluez DBus interface.
 
 ## Links
 
