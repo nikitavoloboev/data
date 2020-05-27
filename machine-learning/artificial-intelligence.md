@@ -20,3 +20,4 @@
 - [Common Sense Comes Closer to Computers (2020)](https://www.quantamagazine.org/common-sense-comes-to-computers-20200430/) ([HN](https://news.ycombinator.com/item?id=23065073))
 - [The quest for artificial intelligence - A History of ideas and achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf)
 - [On the Measure of Intelligence (2019)](https://arxiv.org/pdf/1911.01547.pdf)
+- [Bored Humans](https://boredhumans.com/) - 40 fun artificial intelligence (AI) pages you can use for free.
