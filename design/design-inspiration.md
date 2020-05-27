@@ -270,6 +270,7 @@ Here are few more things I liked, design wise.
 - [Frederique Matti](https://frederiquematti.com/)
 - [Blaž](https://mxxn.io/)
 - [Jenny Wen](http://jennywen.ca/index.html)
+- [Ryan Tsao](https://ryantsao.com/)
 - [Louis Merlin](https://louismerl.in/)
 - [Paige](https://www.paigewilliams.dev/)
 - [Corey](https://corey.ginnivan.net/)
