@@ -60,6 +60,7 @@
 - [Dash](https://github.com/plotly/Dash.jl) - Create beautiful, analytic applications in Julia.
 - [MLStyle.jl](https://github.com/thautwarm/MLStyle.jl) - Julia functional programming infrastructures and metaprogramming facilities.
 - [QuadGK.jl](https://github.com/JuliaMath/QuadGK.jl) - Adaptive 1d numerical Gauss–Kronrod integration in Julia.
+- [ClearStacktrace](https://github.com/jkrumbiegel/ClearStacktrace.jl) - Visually clarified stack traces for Julia.
 
 ## Links
 

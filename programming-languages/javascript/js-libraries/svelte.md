@@ -26,3 +26,4 @@
 - [Svelte SSR example](https://github.com/PierBover/svelte-ssr-example)
 - [Tan Li Hau: The Svelte Compiler (2020)](https://www.youtube.com/watch?v=e2pGS1eqja8)
 - [svelte-grid](https://github.com/vaheqelyan/svelte-grid) - Responsive, draggable and resizable grid layout, for Svelte.
+- [MDsveX](https://github.com/pngwn/MDsveX) - Markdown preprocessor for Svelte.

@@ -42,6 +42,7 @@
 - [ts-mysql-plugin](https://github.com/segmentio/ts-mysql-plugin) - : A typescript language service plugin that gives superpowers to SQL tagged template literals.
 - [hyper-ts](https://github.com/gcanti/hyper-ts) - Type safe middleware architecture for HTTP servers.
 - [PgTyped](https://github.com/adelsz/pgtyped) - Makes it possible to use raw SQL in TypeScript with guaranteed type-safety.
+- [Zapatos](https://github.com/jawj/zapatos) - Zero-Abstraction Postgres for TypeScript.
 
 ## Links
 
