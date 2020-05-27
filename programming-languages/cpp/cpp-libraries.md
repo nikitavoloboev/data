@@ -86,3 +86,4 @@
 - [Movable Feast Machine C++ reference implementation and simulator](https://github.com/DaveAckley/MFM)
 - [Fastor](https://github.com/romeric/Fastor) - Light-weight high performance tensor algebra framework for modern C++.
 - [FastNoise](https://github.com/Auburns/FastNoise) - Fast C++ Noise Library.
+- [libigl](https://github.com/libigl/libigl) - Simple C++ geometry processing library.

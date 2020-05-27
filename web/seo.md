@@ -27,3 +27,4 @@
 - [SEOBrowse](https://seobrowse.com/) - Google search for SEO professionals.
 - [Ahrefs](https://ahrefs.com/) - Helps you learn why your competitors rank so high and what you need to do to outrank them.
 - [How MasterClass used SEO to grow (2020)](https://twitter.com/TheCoolestCool/status/1265382628724740098) ([HN](https://news.ycombinator.com/item?id=23315969))
+- [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag) - Add metadata tags for search engines and social networks to better index and display your site's content.

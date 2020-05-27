@@ -215,3 +215,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [libtakeover](https://github.com/tihmstar/libtakeover) - Call functions in a remote process using Mach API.
 - [Duc](https://github.com/zevv/duc) - Collection of tools for indexing, inspecting and visualizing disk usage.
 - [July](https://july.ac/) - Modern A/C.
+- [Best Free Things](https://github.com/PullJosh/best-free-things#readme)

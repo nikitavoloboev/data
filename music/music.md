@@ -36,3 +36,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Natural Music](https://www.naturalmusic.co/) - Help you discover your new favorite music.
 - [New Soviet Wave](https://newsovietwave.com/)
 - [ChordSheetJS](https://github.com/martijnversluis/ChordSheetJS) - JavaScript library for parsing and formatting chord sheets.
+- [Awesome Sheet Music](https://github.com/ad-si/awesome-sheet-music#readme)
