@@ -91,3 +91,4 @@
 - [What to do when you didn’t get any medal in a Kaggle competition? (2020)](https://towardsdatascience.com/what-to-do-when-you-dont-get-any-medal-in-a-kaggle-competition-b54cc433da3)
 - [Build a Career in Data Science book (2020)](https://www.manning.com/books/build-a-career-in-data-science)
 - [Data Science Tutorials in Julia](https://alan-turing-institute.github.io/DataScienceTutorials.jl/) ([Code](https://github.com/alan-turing-institute/DataScienceTutorials.jl/))
+- [Data Science Resources](https://github.com/reshamas/ds_resources)

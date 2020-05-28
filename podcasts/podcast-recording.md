@@ -16,3 +16,4 @@
 - [Microphone recommendations](https://chan.dev/microphones)
 - [Lessons learned from recording ~500 podcast episodes (2020)](https://twitter.com/eriktorenberg/status/1255574856776597504)
 - [libsyn](https://libsyn.com/) - Podcast hosting, distribution, and monetization platform.
+- [Podcast Guest Guide](https://antonyjohnston.com/podcastguestguide/)

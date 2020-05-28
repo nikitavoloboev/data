@@ -66,3 +66,4 @@
 - [Intelligent Investor book notes](https://wiki.harrison.dev/books/intelligent-investor.html)
 - [Seedtable](https://www.seedtable.com/) - Provides an analysis of technology in Europe and its impact on society.
 - [Returns-Based Style Analysis](https://www.badgerodon.com/rbsa)
+- [Blueprint Project](https://blueprint.dormroomfund.com/) - Masterclass by Dorm Room Fund aimed at empowering diverse investors and founders.
