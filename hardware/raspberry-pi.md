@@ -11,3 +11,4 @@
 - [RPiPlay](https://github.com/FD-/RPiPlay) - Open-source AirPlay mirroring server for the Raspberry Pi.
 - [Raspberry-Pi Bare Metal Tutorial](https://github.com/BrianSidebotham/arm-tutorial-rpi)
 - [QPULib](https://github.com/mn416/QPULib) - Language and compiler for the Raspberry Pi GPU.
+- [Raspberry Pi Docs](https://www.raspberrypi.org/documentation/) ([Code](https://github.com/raspberrypi/documentation))
