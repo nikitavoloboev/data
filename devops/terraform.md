@@ -13,3 +13,4 @@
 - [Terraform Vault provider](https://github.com/terraform-providers/terraform-provider-vault)
 - [Terraform Language Server](https://github.com/hashicorp/terraform-ls)
 - [terraform-compliance](https://github.com/eerkunt/terraform-compliance) - Lightweight, security focused, BDD test framework against terraform.
+- [tf2pulumi](https://github.com/pulumi/tf2pulumi) - Convert Terraform projects to Pulumi TypeScript programs.

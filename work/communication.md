@@ -13,3 +13,4 @@
 - [Alternative Sources of Advice (2020)](https://tratt.net/laurie/blog/entries/alternative_sources_of_advice.html) ([HN](https://news.ycombinator.com/item?id=23089544))
 - [Chatting with Glue](http://a9.io/glue-comic/) - Cognitive tools for augmented conversation.
 - [Different types of 1:1 conversations visualized](https://twitter.com/thisisneer/status/1264537589031165952)
+- [Centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in language-agnostic way.
