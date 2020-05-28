@@ -43,3 +43,4 @@
 - [js-libp2p](https://github.com/libp2p/js-libp2p) - JavaScript Implementation of libp2p networking stack.
 - [hypercore-protocol-rs](https://github.com/Frando/hypercore-protocol-rs) - Rust implementation of the wire protocol of Hypercore.
 - [Earthstar](https://github.com/cinnamon-bun/earthstar) - Offline-first, distributed, syncable key-value store for use in p2p software.
+- [go-libp2p-pubsub](https://github.com/libp2p/go-libp2p-pubsub) - PubSub implementation for go-libp2p.

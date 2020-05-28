@@ -35,7 +35,3 @@ The number between brackets shows the year I wrote the article in.
 
 - [Invisible mountains (2017)](https://medium.com/@nikitavoloboev/the-invisible-mountains-bd50a31bc64e) - What research and learning is and how we can make it better.
 - [An incredible future (2017)](https://medium.com/@nikitavoloboev/an-incredible-future-9f18bb0f3a7c) - How Learn Anything got started.
-
-## Writing
-
-- [Why Medium? (2016)](https://medium.com/@nikitavoloboev/why-medium-ff9b13fefe61#.guictx69p) - Why host my writing on Medium and not my own website.
