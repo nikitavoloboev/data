@@ -22,3 +22,4 @@
 - [genetools](https://genetools.maximz.com/) - Single-cell analysis recipes. ([Code](https://github.com/maximz/genetools))
 - [Learn Genetics](https://learn.genetics.utah.edu/) ([HN](https://news.ycombinator.com/item?id=23295590))
 - [fgsea](https://github.com/ctlab/fgsea) - Fast Gene Set Enrichment Analysis.
+- [Awesome Genome Visualization](https://github.com/cmdcolin/awesome-genome-visualization#readme)
