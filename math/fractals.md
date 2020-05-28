@@ -25,3 +25,4 @@
 - [Hexagonal Julia- Mandelbrot](https://www.shadertoy.com/view/3dlBRf) ([Twitter](https://twitter.com/matthen2/status/1257989139426766849))
 - [Understanding the Mandelbrot Fractal (2018)](https://explore.paulbutler.org/fractal/)
 - [Drawing the Sierpiński Triangle with Recursive SQL and SVG (2020)](https://excessivelyadequate.com/posts/sierpinksy.html)
+- [Introduction to Newton Fractals (2016)](https://ryhl.io/blog/newton-intro/)

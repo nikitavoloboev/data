@@ -38,6 +38,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [UK’s NHS Covid-19 App](https://github.com/nhsx/COVID-19-app-iOS-BETA) ([HN](https://news.ycombinator.com/item?id=23105811))
 - [VLC](https://github.com/videolan/vlc-ios)
 - [Messenger](https://github.com/relatedcode/Messenger) - Open source, native iOS Messenger, with audio/video calls and realtime chat conversations (full offline support).
+- [Artsy](https://github.com/artsy/eigen) - Core Artsy Mobile OSS project.
 
 ## Notes
 
