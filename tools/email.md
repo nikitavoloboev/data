@@ -53,3 +53,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [How to Write Email with Military Precision](https://hbr.org/2016/11/how-to-write-email-with-military-precision)
 - [Accessible Personal Note Email Template](https://litmus.com/community/templates/30-accessible-personal-note) - Clean, simple email meant for more personal, 1:1 messages.
 - [reserved-email-addresses-list](https://github.com/forwardemail/reserved-email-addresses-list) - List of 1250+ email addresses reserved for security concerns.
+- [Email Blueprints](https://templates.mailchimp.com/) - Collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails. ([Code](https://github.com/mailchimp/email-blueprints))

@@ -112,6 +112,7 @@ Here are few more things I liked, design wise.
 - [Hansen Zhang](https://hansenzhang.com/)
 - [Roxane Jammet](http://roxane.me/)
 - [Andy Sparks](https://www.andysparks.co/)
+- [Parimal Satyal](https://neustadt.fr/) ([Code](https://github.com/parimalsatyal/neu))
 - [Brent Jackson](https://jxnblk.com/)
 - [Fabian Fett](https://fabianfett.de/)
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))

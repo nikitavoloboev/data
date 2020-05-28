@@ -102,3 +102,4 @@
 - [Automating Every Aspect of Your Python Project (2020)](https://martinheinz.dev/blog/17)
 - [Python Generated Sequence Diagrams (2020)](https://dragonquest64.blogspot.com/2020/05/python-generated-sequence-diagrams.html) ([HN](https://news.ycombinator.com/item?id=23269697))
 - [GraalVM Implementation of Python](https://github.com/graalvm/graalpython)
+- [pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.

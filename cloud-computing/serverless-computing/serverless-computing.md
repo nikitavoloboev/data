@@ -44,3 +44,4 @@
 - [Faasm](https://github.com/lsds/Faasm) - High-performance stateful serverless runtime.
 - [What a typical serverless architecture looks like in AWS (2020)](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb) ([HN](https://news.ycombinator.com/item?id=23274668))
 - [Serverless vs traditional app architecture diagram](https://twitter.com/tucker_dev/status/1265035142336180225)
+- [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq#readme)

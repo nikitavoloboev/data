@@ -127,3 +127,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Question: How does git detect renames? (2020)](https://chelseatroy.com/2020/04/20/question-how-does-git-detect-renames/) ([Lobsters](https://lobste.rs/s/bmfiiw/question_how_does_git_detect_renames))
 - [Git Koans (2013)](https://stevelosh.com/blog/2013/04/git-koans/)
 - [Sublime Merge](https://www.sublimemerge.com) - Git Client, done Sublime. Line-by-line Staging. Commit Editing. Unmatched Performance. ([[HN](https://news.ycombinator.com/item?id=23311093)])
+- [GitUI](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in rust.

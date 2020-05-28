@@ -148,3 +148,4 @@
 - [css-select](https://github.com/fb55/css-select) - CSS selector compiler/engine.
 - [Introducing CSS Scroll Snap Points (2019)](https://css-tricks.com/introducing-css-scroll-snap-points/)
 - [Ask an expert: Why is CSS . . . the way it is?](https://increment.com/frontend/ask-an-expert-why-is-css-the-way-it-is/)
+- [Glue](https://github.com/jorgebastida/glue) - Simple command line tool to generate CSS sprites.

@@ -12,3 +12,4 @@
 - [gorums](https://github.com/relab/gorums) - Framework for simplifying the design and implementation of fault-tolerant quorum-based protocols.
 - [Go Plugin System over RPC](https://github.com/hashicorp/go-plugin)
 - [Loqui](https://github.com/discord/loqui) - Transport that implements a very simple framing protocol over a raw socket.
+- [Go Tools for Recording and Replaying RPCs](https://github.com/google/go-replayers)

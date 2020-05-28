@@ -266,5 +266,5 @@ Go promotes composition over inheritance.
 - [Go Vanity URLs](https://github.com/GoogleCloudPlatform/govanityurls) - Simple Go server that allows you to set custom import paths for your Go packages.
 - [Pkger](https://github.com/markbates/pkger) - Embed static files in Go binaries.
 - [asmfmt](https://github.com/klauspost/asmfmt) - Go Assembler Formatter.
-- [Diving into Go by building a CLI application (2020)](https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html) ([[HN](https://news.ycombinator.com/item?id=23318137)])
+- [Diving into Go by building a CLI application (2020)](https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html) ([[HN](https://news.ycombinator.com/item?id=23318137)]) ([Reddit](https://www.reddit.com/r/golang/comments/grgvlu/diving_into_go_by_building_a_cli_application/))
 - [Testify](https://github.com/stretchr/testify) - Toolkit with common assertions and mocks that plays nicely with the standard library.

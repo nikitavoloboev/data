@@ -7,3 +7,4 @@
 - [Open Calculus](https://opencalculus.wordpress.com/) - Devoted to free calculus resources for students, free and open source materials for instructors, and active engagement for all.
 - [Calculus Made Easy by Silvanus P. Thompson (1914)](http://calculusmadeeasy.org/) ([HN](https://news.ycombinator.com/item?id=23257303))
 - [Calculus Explained with pics and gifs (2014)](https://0a.io/chapter1/calculus-explained.html) ([HN](https://news.ycombinator.com/item?id=21671112))
+- [Calculus One course](https://mooculus.osu.edu/) ([Code](https://github.com/mooculus/calculus))
