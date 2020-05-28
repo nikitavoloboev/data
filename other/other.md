@@ -220,3 +220,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Foundation](https://withfoundation.com/) - Using the power of the internet and crypto to bring totally new revenue streams and forms of ownership to art, design, and any creative output.
 - [Collection of awesome resources for geeks and software crafters](https://github.com/MorganGeek/bookmarks#readme)
 - [Jason Orendorff's talks](https://github.com/jorendorff/talks)
+- [How to Make Google Docs Look Like Dropbox Paper (2019)](https://medium.com/s/story/how-to-make-google-docs-look-like-dropbox-paper-787dff91fd2f)

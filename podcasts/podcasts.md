@@ -96,6 +96,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [What are your favorite podcasts?](https://www.indiehackers.com/forum/what-are-your-favorite-podcasts-8a45ac25ee)
 - [Ask HN: What were your most impactful podcast episodes from 2019?](https://news.ycombinator.com/item?id=22027315)
 - [Podcasts which are helpful for software engineers/programmers](https://github.com/rShetty/awesome-podcasts#readme)
+- [Favorite Podcasts of swyx](https://www.swyx.io/writing/fave-podcasts/)
 
 ## Notes
 
