@@ -158,6 +158,7 @@
 - [Startups, Write Changelogs (2020)](https://medium.com/linear-app/startups-write-changelogs-c6a1d2ff4820)
 - [Habits of High-Functioning Teams (2020)](https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html) ([HN](https://news.ycombinator.com/item?id=23290943))
 - [Start House](https://starthouse.xyz/) - 600+ decks from the world's best startups. ([HN](https://news.ycombinator.com/item?id=23305196))
+- [Nobody talks about failure in Silicon Valley, yet 90% of startups fail. Story about failed startup (2020)](https://twitter.com/gaganbiyani/status/1265755248922157066)
 
 ## Images
 

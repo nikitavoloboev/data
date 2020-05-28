@@ -74,7 +74,6 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Host.io](https://host.io/) - Comprehensive Domain Data API for Developers.
 - [Remembering the LAN (2020)](https://crawshaw.io/blog/remembering-the-lan)
 - [sylkie](https://github.com/dlrobertson/sylkie) - IPv6 address spoofing with the Neighbor Discovery Protocol.
-- [Illustrated TLS Connection](https://tls.ulfheim.net/) - Every byte of a TLS connection explained and reproduced. ([Code](https://github.com/syncsynchalt/illustrated-tls))
 - [FRITZBox](https://en.avm.de/products/fritzbox/) - Intelligent Wi-Fi for maximum wireless speed and significantly greater range.
 - [Home network recommendations? (2020)](https://lobste.rs/s/bxvg76/home_network_recommendations)
 - [nmap](https://github.com/nmap/nmap) - Network Mapper.
