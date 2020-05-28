@@ -87,3 +87,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Ask HN: Dear open source devs how do you sustain yourself (2020)](https://news.ycombinator.com/item?id=23218943)
 - [TLDR Legal](https://tldrlegal.com/) - Software Licenses in Plain English.
 - [What's open source?](https://technically.substack.com/p/whats-open-source)
+- [Ask HN: What open source project, in your opinion, has the highest code quality? (2018)](https://news.ycombinator.com/item?id=18037613)

@@ -70,7 +70,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Archiving URLs](https://www.gwern.net/Archiving-URLs)
 - [Main-thread Scheduling API](https://github.com/WICG/main-thread-scheduling)
 - [The Open Web Is Dying (2020)](https://perezbox.com/2020/04/the-open-web-is-dying/) ([HN](https://news.ycombinator.com/item?id=23026998))
-- [Gemini – A new, collaboratively designed internet protocol](https://gemini.circumlunar.space/) ([HN](https://news.ycombinator.com/item?id=23042424))
+- [Gemini – A new, collaboratively designed internet protocol](https://gemini.circumlunar.space/) ([HN](https://news.ycombinator.com/item?id=23042424)) ([Web 2](https://proxy.vulpes.one/gemini/gemini.circumlunar.space/)) ([Toying with gemini](https://andregarzia.com/2020/05/toying-with-gemini.html))
 - [Snowpack](https://www.snowpack.dev/) - Build web applications with less tooling and 10x faster iteration. No bundler required. ([Code](https://github.com/pikapkg/snowpack)) ([Create Snowpack App](https://github.com/pikapkg/create-snowpack-app))
 - [Rebuilding our tech stack for the new Facebook.com (2020)](https://engineering.fb.com/web/facebook-redesign/) ([HN](https://news.ycombinator.com/item?id=23116300))
 - [Lobsters: If you were to choose a backend web framework today, what would you choose? (2020)](https://lobste.rs/s/2bsh1g/if_you_were_choose_backend_web_framework)
