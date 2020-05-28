@@ -22,6 +22,7 @@ Here are few more things I liked, design wise.
 - [Hong Kong artists](https://hkartistswomen.com/)
 - [F-Word Podcast](https://f-word.dev/) ([Code](https://github.com/fword-dev/f-word.dev))
 - [Crank.js docs](https://crank.js.org/)
+- [Piccalilli](https://piccalil.li/)
 
 ## Blogs
 
@@ -38,6 +39,7 @@ Here are few more things I liked, design wise.
 - [Matt Diephouse](https://matt.diephouse.com/)
 - [Jordan Scales](https://thatjdanisso.cool/) ([Code](https://github.com/jdan/thatjdanisso.cool))
 - [Andrew Healey](https://healeycodes.com/)
+- [secret club](https://secret.club/)
 
 ## Products
 
