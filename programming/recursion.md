@@ -12,3 +12,4 @@
 
 - [That one time I thought I understood recursion (2019)](https://functional.christmas/2019/18) ([HN](https://news.ycombinator.com/item?id=21822977))
 - [On Iteration and Recursion (1982)](https://www.cs.utexas.edu/users/EWD/ewd08xx/EWD820.PDF)
+- [Tail Recursion Explained (2020)](https://www.youtube.com/watch?v=_JtPhF8MshA)
