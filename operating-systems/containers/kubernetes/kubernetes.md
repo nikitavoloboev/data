@@ -191,3 +191,4 @@
 - [Lokomotive](https://github.com/kinvolk/lokomotive) - Open source Kubernetes distribution that ships pure upstream Kubernetes.
 - [Amazon Elastic Kubernetes Service (Amazon EKS) Best Practices](https://github.com/aws/aws-eks-best-practices)
 - [KFServing](https://github.com/kubeflow/kfserving) - Serverless Inferencing on Kubernetes.
+- [kube-backup](https://github.com/pieterlange/kube-backup) - Kubernetes resource state sync to git.

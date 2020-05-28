@@ -39,6 +39,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [VLC](https://github.com/videolan/vlc-ios)
 - [Messenger](https://github.com/relatedcode/Messenger) - Open source, native iOS Messenger, with audio/video calls and realtime chat conversations (full offline support).
 - [Artsy](https://github.com/artsy/eigen) - Core Artsy Mobile OSS project.
+- [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) - Open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network.
 
 ## Notes
 
