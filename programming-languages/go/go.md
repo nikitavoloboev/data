@@ -268,3 +268,4 @@ Go promotes composition over inheritance.
 - [asmfmt](https://github.com/klauspost/asmfmt) - Go Assembler Formatter.
 - [Diving into Go by building a CLI application (2020)](https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html) ([[HN](https://news.ycombinator.com/item?id=23318137)]) ([Reddit](https://www.reddit.com/r/golang/comments/grgvlu/diving_into_go_by_building_a_cli_application/))
 - [Testify](https://github.com/stretchr/testify) - Toolkit with common assertions and mocks that plays nicely with the standard library.
+- [Go and CPU Caches (2020)](https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592)

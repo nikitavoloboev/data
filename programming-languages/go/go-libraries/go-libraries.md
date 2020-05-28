@@ -424,6 +424,7 @@
 - [go-echarts](https://github.com/go-echarts/go-echarts) - Adorable charts library for Golang.
 - [go-bluetooth](https://github.com/muka/go-bluetooth) - Go bluetooth API for Linux-based Bluez DBus interface.
 - [subcommands](https://github.com/google/subcommands) - Implements a simple way for a single command to have many subcommands, each of which takes arguments and so forth.
+- [RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language. ([Announcing RxGo v2](https://medium.com/@teivah/introducing-rxgo-v2-e7e369faa99a))
 
 ## Links
 
