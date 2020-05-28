@@ -96,4 +96,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Own your content on Social Media using the IndieWeb (2019)](https://www.youtube.com/watch?v=X3SrZuH00GQ)
 - [Local Testing on an iPhone (2020)](https://joshwcomeau.com/blog/local-testing-on-an-iphone/)
 - [Rediscovering the Small Web (2020)](https://neustadt.fr/essays/the-small-web/) ([HN](https://news.ycombinator.com/item?id=23326329))
-- [Snowpack 2.0 (2020)](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
+- [Snowpack 2.0 (2020)](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/) ([HN](https://news.ycombinator.com/item?id=23331099))
