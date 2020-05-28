@@ -45,3 +45,4 @@
 - [My New Old Apple IIe Computer (2020)](https://www.charlieharrington.com/my-new-old-apple-iie-computer) ([HN](https://news.ycombinator.com/item?id=23167350))
 - [Computer Architecture - Introduction (2018)](https://oneraynyday.github.io/dev/2018/10/02/M151B/)
 - [Basics of hardware hacking](https://maldroid.github.io/hardware-hacking/) ([Code](https://github.com/maldroid/hardware-hacking))
+- [Building an IBM 3270 terminal controller (2020)](https://ajk.me/building-an-ibm-3270-terminal-controller)
