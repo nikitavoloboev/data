@@ -18,3 +18,4 @@
 - [Bash in AWS Lambda](https://github.com/gkrizek/bash-lambda-layer)
 - [AWS Lambda Go Api Proxy](https://github.com/awslabs/aws-lambda-go-api-proxy) - Makes it easy to run Golang APIs written with frameworks such as Gin with AWS Lambda and Amazon API Gateway.
 - [AWS Lambda Power Tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Step Functions state machine that helps you optimize your Lambda functions in a data-driven way.
+- [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime)

@@ -12,3 +12,4 @@
 - [Prometheus Basics](https://github.com/yolossn/Prometheus-Basics#readme) - Beginner friendly introduction to Prometheus. ([HN](https://news.ycombinator.com/item?id=23150860))
 - [Bot for Prometheus' Alertmanager](https://github.com/metalmatze/alertmanager-bot)
 - [How to Setup Prometheus Monitoring On Kubernetes Cluster (2019)](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/)
+- [Promxy](https://github.com/jacksontj/promxy) - Aggregating proxy to enable HA prometheus.
