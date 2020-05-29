@@ -84,3 +84,4 @@
 - [Speed of light is the speed limit relative to what? (2020)](https://www.reddit.com/r/AskPhysics/comments/gkps4a/speed_of_light_is_the_speed_limit_relative_to_what/)
 - [We have yet to experimentally confirm that the electric potential is physical (2020)](https://www.reddit.com/r/Physics/comments/gl15nb/we_have_yet_to_experimentally_confirm_that_the/)
 - [Leonard Susskind lecture series](https://www.youtube.com/playlist?list=PLa1wke5CmQTSmrkhJwlzH5uzRd4fRLOiz)
+- [What happens when photons collide? (2020)](https://www.reddit.com/r/askscience/comments/gshi9g/what_happens_when_photons_collide/)
