@@ -115,3 +115,4 @@
 - [LKML.ORG](https://lkml.org/) - Linux Kernel Mailing List archive.
 - [lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script.
 - [Rampage](https://github.com/Hexorg/Rampage) - Linux memory scanner/editor written in python.
+- [Lobsters: Linux Sucks 2020](https://lobste.rs/s/jltpme/linux_sucks_2020)
