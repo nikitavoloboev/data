@@ -37,3 +37,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [New Soviet Wave](https://newsovietwave.com/)
 - [ChordSheetJS](https://github.com/martijnversluis/ChordSheetJS) - JavaScript library for parsing and formatting chord sheets.
 - [Awesome Sheet Music](https://github.com/ad-si/awesome-sheet-music#readme)
+- [Spotify World Map](https://www.worldspotify.com/) - Discover the most streamed track of the day on Spotify by country. ([HN](https://news.ycombinator.com/item?id=23343466))

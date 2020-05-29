@@ -65,3 +65,4 @@ I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=e
 - [So You Want to be a Psychedelic Researcher? R. Andrew Sewell, MD Answers](https://maps.org/resources/students/181-so-you-want-to-be-a-psychedelic-researcher)
 - [Why do you think some people fully embrace spirituality, non duality and all that jazz after tripping while other eat LSD like it's tick tack and remain as rational and as materialist as ever?](https://www.reddit.com/r/RationalPsychonaut/comments/fniz6i/why_do_you_think_some_people_fully_embrace/)
 - [Who are the big movers and shakers in psychedelics? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/fvcczf/who_are_the_big_movers_and_shakers_in_psychedelics/)
+- [Mysterious Drugs that (Re)train Your Mind (2020)](https://mythirdbrain.substack.com/p/what-psychedelics-teach-us-about) ([HN](https://news.ycombinator.com/item?id=23346286))

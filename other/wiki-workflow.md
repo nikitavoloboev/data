@@ -153,3 +153,5 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [monotome](https://github.com/cblgh/monotome) - Personal knowledge base system. markdown markup, runs in the browser.
 - [Digital Gardeners](https://nesslabs.com/digital-gardeners) - Small Telegram group for people actively using & building digital gardens.
 - [Thinking in maps: from the Lascaux caves to knowledge graphs (2020)](https://nesslabs.com/thinking-in-maps)
+- [Trilium Notes](https://github.com/zadam/trilium) - Hierarchical note taking application with focus on building large personal knowledge bases. ([HN](https://news.ycombinator.com/item?id=23335759))
+- [Ask HN: What is your favorite way to read online content? (2020)](https://news.ycombinator.com/item?id=23340031)

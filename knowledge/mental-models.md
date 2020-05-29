@@ -14,3 +14,4 @@
 - [Mental Models I Find Repeatedly Useful (2016)](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 - [Applied thinking for intelligence analysis](http://airpower.airforce.gov.au/APDC/media/PDF-Files/Air%20Force%20Publications/AF13-Applied-Thinking-for-Intelligence-Analysis.pdf)
 - [Critical Thinking for Strategic Intelligence book](https://www.goodreads.com/book/show/18909230)
+- [Untools](https://untools.co/) - Tools for better thinking. ([HN](https://news.ycombinator.com/item?id=23339830))

@@ -25,4 +25,4 @@
 - [AutoPilot](https://github.com/divy-work/autopilot-deno) - Cross-platform desktop automation library for Deno.
 - [Alosaur](https://github.com/alosaur/alosaur) - Deno web framework with many decorators.
 - [pgc4d](https://github.com/jakajancar/pgc4d) - PostgreSQL client for Deno.
-- [Deno is a Browser for Code :: kitsonkelly.com (2020)](https://kitsonkelly.com/posts/deno-is-a-browser-for-code/)
+- [Deno is a Browser for Code :: kitsonkelly.com (2020)](https://kitsonkelly.com/posts/deno-is-a-browser-for-code/) ([HN](https://news.ycombinator.com/item?id=23343799))

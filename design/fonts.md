@@ -79,7 +79,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Advice on improving typesetting on websites](https://twitter.com/rsms/status/1262450475669975040)
 - [xz/fonts](https://fonts.xz.style/) - Break your users from unethical tracking networks. xz/fonts delivers exclusively open-source fonts through Vercel's impossibly fast CDN. ([Code](https://github.com/xz/fonts))
 - [Text for Proofing Fonts](https://www.typography.com/blog/text-for-proofing-fonts)
-- [The Fastest Google Fonts (2020)](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
+- [The Fastest Google Fonts (2020)](https://csswizardry.com/2020/05/the-fastest-google-fonts/) ([HN](https://news.ycombinator.com/item?id=23339776))
 - [Jaimey Shapey's typography](https://jaimeyshapey.com/)
 - [Zach Leatherman | The Five Whys of Web Font Loading Performance (2018)](https://www.youtube.com/watch?v=FbguhX3n3Uc)
 - [Pop Culture Typography (2018)](https://www.youtube.com/watch?v=WwyqQ-o6zHA)

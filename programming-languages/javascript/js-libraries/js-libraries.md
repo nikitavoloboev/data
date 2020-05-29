@@ -251,7 +251,7 @@
 - [fastq](https://github.com/mcollina/fastq) - Fast, in memory work queue.
 - [ac-colors](https://github.com/vinaypillai/ac-colors) - Reactive JavaScript color library that can freely convert color formats.
 - [sonic-boom](https://github.com/mcollina/sonic-boom) - Extremely fast utf8 only stream implementation.
-- [Rough Notation](https://github.com/pshihn/rough-notation) - Small JavaScript library to create and animate annotations on a web page.
+- [Rough Notation](https://github.com/pshihn/rough-notation) - Small JavaScript library to create and animate annotations on a web page. ([HN](https://news.ycombinator.com/item?id=23339244))
 - [SqueakJS](https://github.com/codefrau/SqueakJS) - Squeak VM for the Web and Node.js. ([Web](https://squeak.js.org/))
 - [fit-textarea](https://github.com/fregante/fit-textarea) - Automatically expand a <textarea> to fit its content, in a few bytes.
 - [NanoPop](https://github.com/Simonwep/nanopop) - Ultra Tiny, Opinionated Positioning Engine. ([Web](https://simonwep.github.io/nanopop/))
