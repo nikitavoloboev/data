@@ -29,6 +29,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles#r
 - [Aymeric Beaumet](https://github.com/aymericbeaumet/dotfiles)
 - [Samuel Meuli](https://github.com/samuelmeuli/dotfiles)
 - [xenodium](https://github.com/xenodium/dotsies) - Emacs.
+- [Vincent Ambo](https://git.tazj.in/about)
 
 ## Links
 

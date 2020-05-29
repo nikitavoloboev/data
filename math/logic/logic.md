@@ -18,3 +18,4 @@
 - [Reinventing Formal Logic (2012)](https://oxij.org/note/ReinventingFormalLogic/)
 - [Univalence as a Principle of Logic (2016)](https://www.andrew.cmu.edu/user/awodey/preprints/uapl.pdf)
 - [POTL: A First-Order Complete Temporal Logic for Operator Precedence Languages (2019)](https://arxiv.org/pdf/1910.09327.pdf)
+- [Symbolic Logic (1897)](https://www.gutenberg.org/files/28696/28696-h/28696-h.htm)
