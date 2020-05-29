@@ -129,3 +129,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Wisecast](https://www.wisecast.fm/) - Smart Hosting for Podcasters.
 - [Why Podcasts Are My New Wikipedia – The Perfect Informal Learning Resource (2020)](https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/)
 - [How podcasts work](https://twitter.com/benthompson/status/1264576467255439360)
+- [Learning effectively with podcasts (2020)](https://networkedthought.substack.com/p/learning-effectively-with-podcasts)

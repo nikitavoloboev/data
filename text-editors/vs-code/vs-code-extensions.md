@@ -108,6 +108,7 @@ Below is a list of extensions I use.
 
 ## Git
 
+- [History in Sublime Merge](https://marketplace.visualstudio.com/items?itemName=adhamu.history-in-sublime-merge) - Open files in Sublime Merge.
 - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Review and manage your GitHub pull requests directly in VS Code.
 - [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github) - Integrates GitHub and its workflows into VSCode.
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - Git History, Search and More.

@@ -103,4 +103,4 @@
 - [Python Generated Sequence Diagrams (2020)](https://dragonquest64.blogspot.com/2020/05/python-generated-sequence-diagrams.html) ([HN](https://news.ycombinator.com/item?id=23269697))
 - [GraalVM Implementation of Python](https://github.com/graalvm/graalpython)
 - [pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
-- [Hypermodern Python (2020)](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/) ([HN](https://news.ycombinator.com/item?id=23336050))
+- [Hypermodern Python (2020)](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/) ([HN](https://news.ycombinator.com/item?id=23336050)) ([Lobsters](https://lobste.rs/s/2dcejo/hypermodern_python))

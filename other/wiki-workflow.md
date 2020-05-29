@@ -152,3 +152,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Building a digital garden (2019)](https://tomcritchlow.com/2019/02/17/building-digital-garden/) - How I built myself a simple wiki using folders and files and published via Jekyll.
 - [monotome](https://github.com/cblgh/monotome) - Personal knowledge base system. markdown markup, runs in the browser.
 - [Digital Gardeners](https://nesslabs.com/digital-gardeners) - Small Telegram group for people actively using & building digital gardens.
+- [Thinking in maps: from the Lascaux caves to knowledge graphs (2020)](https://nesslabs.com/thinking-in-maps)

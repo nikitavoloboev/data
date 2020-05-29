@@ -84,3 +84,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Choosing a tech stack for my personal dev blog in 2020](https://vriad.com/blog/devii/) ([HN](https://news.ycombinator.com/item?id=23309002))
 - [Minima](https://github.com/jekyll/minima) - One-size-fits-all Jekyll theme for writers.
 - [Bear](https://bearblog.dev/) - Minimal blogging platform. ([HN](https://news.ycombinator.com/item?id=23312339)) ([Code](https://github.com/HermanMartinus/bearblog))
+- [Stop Blogging on Medium if You Care about SEO (2020)](https://pawelurbanek.com/medium-blogging-platform-seo) ([Lobsters](https://lobste.rs/s/wnlysd/stop_blogging_on_medium_if_you_care_about))
