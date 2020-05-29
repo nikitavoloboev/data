@@ -51,6 +51,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Face Data](https://github.com/xiaohk/FaceData) - macOS application used to auto-annotate landmarks from a video.
 - [Bluetility](https://github.com/jnross/Bluetility) - General-purpose Bluetooth Low-Energy utility.
 - [Gray](https://github.com/zenangst/Gray/) - Tailor your macOS Mojave experience.
+- [Milestones](https://github.com/jpsim/Milestones) - App to count down the days until upcoming milestones. Built to try out the Swift Composable Architecture, SwiftUI and Combine.
 
 ## Other interesting apps
 

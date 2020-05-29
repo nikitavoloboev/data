@@ -154,6 +154,7 @@ Here are few more things I liked, design wise.
 - [Nathan Taylor](https://nathan.tokyo/)
 - [Gal Shir](https://galshir.com/)
 - [Gregory Szorc](https://gregoryszorc.com/)
+- [JP Simard](https://www.jpsim.com/)
 - [Sergio Xalambrí](https://sergiodxa.com/) ([Code](https://github.com/sergiodxa/personal-site))
 - [Tyler Gaw](https://tylergaw.com/)
 - [Colin Dunn](http://colindunn.com/)
