@@ -232,3 +232,4 @@
 - [OpenLTH: A Framework for Lottery Tickets and Beyond](https://github.com/facebookresearch/open_lth)
 - [Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning](https://github.com/ruqizhang/csgmcmc)
 - [Awesome Interpretable Machine Learning](https://github.com/lopusz/awesome-interpretable-machine-learning#readme)
+- [DLPack: Open In Memory Tensor Structure](https://github.com/dmlc/dlpack)
