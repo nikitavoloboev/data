@@ -54,3 +54,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Accessible Personal Note Email Template](https://litmus.com/community/templates/30-accessible-personal-note) - Clean, simple email meant for more personal, 1:1 messages.
 - [reserved-email-addresses-list](https://github.com/forwardemail/reserved-email-addresses-list) - List of 1250+ email addresses reserved for security concerns.
 - [Email Blueprints](https://templates.mailchimp.com/) - Collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails. ([Code](https://github.com/mailchimp/email-blueprints))
+- [How does the Gmail unsubscribe button work? (2020)](https://blog.leavemealone.app/how-does-the-gmail-unsubscribe-button-work/) ([HN](https://news.ycombinator.com/item?id=23350881))

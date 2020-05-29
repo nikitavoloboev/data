@@ -34,3 +34,4 @@
 - [User authentication with passwords, What’s SRP? (2020)](https://www.cryptologie.net/article/503/user-authentication-with-passwords-whats-srp/)
 - [JustAuthenticateMe](https://www.justauthenticate.me/) - Passwordless email-based authentication for your web app.
 - [loginsrv](https://github.com/tarent/loginsrv) - Standalone minimalistic login server providing a JWT login for multiple login backends.
+- [Designing an Authentication System: a Dialogue in Four Scenes (1988)](https://web.mit.edu/kerberos/dialogue.html) ([HN](https://news.ycombinator.com/item?id=23352856))
