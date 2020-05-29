@@ -55,6 +55,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Quill](https://quill.chat/) - Messaging for groups and teams that stay focused.
 - [Slido](https://www.sli.do/) - Audience interaction made easy.
 - [Flowkit](https://useflowkit.com/) - User flows right inside your favorite design tool.
+- [Code Hike](https://codehike.org/) - Marvellous code walkthroughs. ([Code](https://github.com/code-hike/codehike))
 - [Web Clipper](https://clipper.website/) - Open source extension. You can use it to save anything on the web to anywhere. ([Code](https://github.com/webclipper/web-clipper))
 - [Kapwing](https://www.kapwing.com/) - Collaborative platform for creating images, videos, and GIFs.
 - [Animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups on the browser.
