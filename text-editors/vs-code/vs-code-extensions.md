@@ -6,64 +6,25 @@ Below is a list of extensions I use.
 
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation.
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Format your JavaScript / TypeScript / CSS using [Prettier](https://github.com/prettier/prettier).
-- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
-- [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - Allows you to open any folder in a container, on a remote machine.
 
 ## Go
 
 - [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language.
 
-## Rust
-
-- [Rust Analyzer](https://github.com/rust-analyzer/rust-analyzer) - Experimental Rust compiler front-end for IDEs.
-
-## JS/TS
-
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code.
-- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
-
-## Python
-
-- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Rich support for the Python language.
-
-## C/C++
-
-- [CPP tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - C/C++ IntelliSense, debugging, and code browsing.
-
 ## Git
 
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Visualize code authorship at a glance via Git blame annotations and code lens.
-- [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Review and manage your GitHub pull requests directly in VS Code.
-
-## HTML
-
-- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
-
-## Deploy
-
-- [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) - Develop, deploy and debug Kubernetes applications.
-- [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easily build and deploy containerized applications from VS Code.
-
-## Nix
-
-- [Nix language support](https://marketplace.visualstudio.com/items?itemName=bbenoist.Nix)
-
-## Protocol buffers
-
-- [Protobuf 3 support](https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3)
-
-## TOML
-
-- [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
 
 ## Theme
 
-- [Monochrome](https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome) - Monochromatic theme collection, for those who seeks. ([Code](https://github.com/anotherglitchinthematrix/monochrome))
+- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) ([Code](https://github.com/primer/github-vscode-theme))
 
 ## Interesting (not using)
 
 ## Utility
 
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
+- [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - Allows you to open any folder in a container, on a remote machine.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Convenient way of creating, duplicating, moving, renaming and deleting files and directories.
 - [Real-Time Debugging](https://marketplace.visualstudio.com/items?itemName=hediet.realtime-debugging) ([Code](https://github.com/hediet/vscode-realtime-debugging))
 - [GitHub Issue Notebooks](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-github-issue-notebooks) ([Code](https://github.com/microsoft/vscode-github-issue-notebooks))
@@ -142,16 +103,20 @@ Below is a list of extensions I use.
 
 ## Python
 
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Rich support for the Python language.
 - [Neuron](https://marketplace.visualstudio.com/items?itemName=neuron.neuron-IPE) - Interactive Programming Experience for Data Scientists. ([Code](https://github.com/neuron-team/vscode-ipe))
 
 ## Git
 
+- [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - Review and manage your GitHub pull requests directly in VS Code.
 - [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github) - Integrates GitHub and its workflows into VSCode.
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - Git History, Search and More.
 - [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github) - Jump to a source code line in GitHub, Bitbucket, GitLab.
 
 ## JS/TS
 
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates [ESLint](http://eslint.org/) into VS Code.
+- [Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens) - Shows the latest version for each package using code lens.
 - [React Native](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) - Debugging and integrated commands for React Native. ([Code](https://github.com/microsoft/vscode-react-native))
 - [ast-query](https://marketplace.visualstudio.com/items?itemName=nikaspran.ast-query) - Search and highlight JavaScript and TypeScript via Abstract Syntax Tree queries. ([Code](https://github.com/nikaspran/vscode-ast-query))
 - [Deoptigate](https://github.com/rbuckton/deoptigate-vscode) - Visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e. NodeJS, Chrome, etc.).
@@ -200,6 +165,7 @@ Below is a list of extensions I use.
 
 ## HTML
 
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) - Highlights matching closing or opening tag.
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) - Automatically rename paired HTML/XML tag.
 
 ## Haskell
@@ -218,6 +184,7 @@ Below is a list of extensions I use.
 
 ## Rust
 
+- [Rust Analyzer](https://github.com/rust-analyzer/rust-analyzer) - Experimental Rust compiler front-end for IDEs.
 - [Rust](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - Adds language support for Rust.
 - [Crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates) - Helps Rust developers managing dependencies with Cargo.toml. Only works with dependencies from crates.io.
 - [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) - Native debugger based on LLDB.
@@ -277,6 +244,7 @@ Below is a list of extensions I use.
 
 ## Nix
 
+- [Nix language support](https://marketplace.visualstudio.com/items?itemName=bbenoist.Nix)
 - [Nix Environment Selector](https://github.com/arrterian/nix-env-selector) - Allows you switch environment for Visual Studio Code and extensions based on .nix config files.
 
 ## Erlang
@@ -291,12 +259,30 @@ Below is a list of extensions I use.
 
 - [Magic Racket](https://marketplace.visualstudio.com/items?itemName=evzen-wybitul.magic-racket) - Top notch syntax highlighting for Racket.
 
+## C/C++
+
+- [CPP tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - C/C++ IntelliSense, debugging, and code browsing.
+
 ## Swift
 
 - [Swift Development Environment](https://marketplace.visualstudio.com/items?itemName=vknabel.vscode-swift-development-environment) ([Code](https://github.com/vknabel/vscode-swift-development-environment))
 
+## Deploy
+
+- [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) - Develop, deploy and debug Kubernetes applications.
+- [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) - Easily build and deploy containerized applications from VS Code.
+
+## Protocol buffers
+
+- [Protobuf 3 support](https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3)
+
+## TOML
+
+- [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml)
+
 ## Theme
 
+- [Monochrome](https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome) - Monochromatic theme collection, for those who seeks. ([Code](https://github.com/anotherglitchinthematrix/monochrome))
 - [Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
 - [Dracula Pro](https://draculatheme.com/pro/)
 - [Overnight](https://github.com/cevr/overnight) - Soft vibrant VSCode theme.
@@ -304,7 +290,6 @@ Below is a list of extensions I use.
 - [Alabaster](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster)
 - [Monokai Pro](https://www.monokai.pro/vscode/)
 - [Moxer](https://marketplace.visualstudio.com/items?itemName=Equinusocio.moxer-theme) ([Code](https://github.com/moxer-theme/moxer-code))
-- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) ([Code](https://github.com/primer/github-vscode-theme))
 
 ## Notes
 

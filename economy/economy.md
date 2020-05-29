@@ -36,3 +36,4 @@
 - [Georgism](https://en.wikipedia.org/wiki/Georgism) - Single tax system. ([HN](https://news.ycombinator.com/item?id=23210804))
 - [Ask HN: Why do we pay taxes if the Fed can just print money? (2020)](https://news.ycombinator.com/item?id=23252715)
 - [What are the most useful concepts from linear algebra that are applied in graduate level economics? (2020)](https://www.reddit.com/r/AskEconomics/comments/gnnixp/what_are_the_most_useful_concepts_from_linear/)
+- [Do illegal immigrants take more from a country than they contribute? (2020)](https://www.reddit.com/r/AskEconomics/comments/gsfnvt/do_illegal_immigrants_take_more_from_a_country/)

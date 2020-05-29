@@ -19,6 +19,7 @@ Below is a list of plugins I use.
 ## Looks
 
 - [Ayu theme](https://github.com/dempfi/ayu)
+- [GitHub Sublime Theme](https://github.com/AlexanderEkdahl/github-sublime-theme)
 - [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons.
 
 ## Interesting (not using)

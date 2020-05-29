@@ -30,7 +30,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Looks
 
-- [Monokai Night theme](https://github.com/nikitavoloboev/vim-monokai-night#readme)
+- [GitHub Colors](https://github.com/cormacrelf/vim-colors-github)
 
 ## Interesting (not using)
 
@@ -101,6 +101,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Looks
 
+- [Monokai Night theme](https://github.com/nikitavoloboev/vim-monokai-night#readme)
 - [Lightline](https://github.com/itchyny/lightline.vim) - Light and configurable statusline/tabline.
 - [Dev icons](https://github.com/ryanoasis/vim-devicons) - Adds file type glyphs/icons to popular Vim plugins.
 - [Bufferline](https://github.com/bling/vim-bufferline) - Show the list of buffers in the command bar.

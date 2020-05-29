@@ -1,6 +1,6 @@
 # Coding practice
 
-## Links
+## Pracice sites
 
 - [LeetCode](https://leetcode.com)
 - [Exercism](http://exercism.io/) ([CLI in Go](https://github.com/exercism/cli))
@@ -57,11 +57,11 @@
 - [ReasonML](https://github.com/believer/advent-of-code)
 - [Zsh](https://github.com/romkatv/advent-of-code-2019/blob/master/README.md)
 
-## Exercism exercises
+## Exercism exercise solutions
 
 - [TypeScript](https://github.com/exercism/typescript)
 
-## Other
+## Other solutions
 
 - [Cracking the Coding Interview with Rust](https://github.com/brndnmtthws/cracking-the-coding-interview-rust)
 - [30 Days of Code](https://github.com/xeoneux/30-Days-of-Code) - Solutions for 30 Days of Code by HackerRank in C++, C#, F#, Go, Java, Kotlin, Python, Ruby, Swift & TypeScript.
