@@ -9,6 +9,7 @@
 - [TSDataStructure](https://github.com/Slashmsu/TSDataStructure) - Collection of data structures(LinkedList, DoubleLinkedList, Stack, Queue, Dictionary and etc...) for TypeScript.
 - [fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript.
 - [fp-ts-contrib](https://github.com/gcanti/fp-ts-contrib) - Community driven utility package for fp-ts.
+- [io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding. ([Web](https://gcanti.github.io/io-ts/))
 - [typescript-utilities-guide](https://github.com/typescript-cheatsheets/typescript-utilities-cheatsheet) - List of typescript helper libraries.
 - [tsdef](https://github.com/joonhocho/tsdef) - TypeScript common pattern shortcut definitions / utility gist library.
 - [ts-auto-guard](https://github.com/usabilityhub/ts-auto-guard) - Generate type guard functions from TypeScript interfaces.

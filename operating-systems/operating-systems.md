@@ -35,6 +35,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust.
 - [9front](http://9front.org/)
 - [lilith](https://github.com/ffwff/lilith) - POSIX-like x86-64 kernel and userspace written in Crystal.
+- [Genode](https://genode.org/index) - Operating System Framework.
 
 ## Links
 
