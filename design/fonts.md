@@ -4,8 +4,6 @@ My current favorite font for programming is [JetBrains Mono](https://www.jetbrai
 
 I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I love the default San Francisco Apple font for use in everything else.
 
-Lucida Sans font is nice too (use it with Textual IRC client).
-
 ## Interesting fonts
 
 - [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)
