@@ -116,3 +116,4 @@
 - [lockdown.sh](https://github.com/x08d/lockdown.sh) - Lockdown your linux install. The simple zero config linux hardening script.
 - [Rampage](https://github.com/Hexorg/Rampage) - Linux memory scanner/editor written in python.
 - [Lobsters: Linux Sucks 2020](https://lobste.rs/s/jltpme/linux_sucks_2020)
+- [sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions.

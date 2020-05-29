@@ -255,6 +255,7 @@
 - [SqueakJS](https://github.com/codefrau/SqueakJS) - Squeak VM for the Web and Node.js. ([Web](https://squeak.js.org/))
 - [fit-textarea](https://github.com/fregante/fit-textarea) - Automatically expand a <textarea> to fit its content, in a few bytes.
 - [NanoPop](https://github.com/Simonwep/nanopop) - Ultra Tiny, Opinionated Positioning Engine. ([Web](https://simonwep.github.io/nanopop/))
+- [Angelfire](https://github.com/rish-16/Angelfire) - Lets you quickly build right-click-enabled context menus and drop-down menus for any element on your webpage.
 
 ## Links
 

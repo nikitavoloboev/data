@@ -12,3 +12,4 @@
 - [MIDAS: Real-Time Streaming Anomaly Detection in Dynamic Graphs](https://github.com/bhatiasiddharth/MIDAS) ([HN](https://news.ycombinator.com/item?id=22802604))
 - [MIDAS in Go](https://github.com/steve0hh/midas) ([HN](https://news.ycombinator.com/item?id=23018153))
 - [Algebraic Graphs with Class](https://github.com/snowleopard/alga-paper)
+- [Learning an End-to-End Physical Layer with Computational Graphs](http://calebzulawski.com/projects/thesis/)

@@ -30,3 +30,4 @@
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content.
 - [BlurHash](https://blurha.sh/) - Compact representation of a placeholder for an image.
 - [imgproxy](https://imgproxy.net/) - Fast and secure on-the-fly image processing. ([[Code](https://github.com/imgproxy/imgproxy)])
+- [GPR (General Purpose Raw image format)](https://github.com/gopro/gpr) - 12-bit raw image coding format that is based on Adobe DNG standard.

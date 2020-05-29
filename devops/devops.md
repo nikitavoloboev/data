@@ -18,3 +18,5 @@
 - [CTO.ai](https://cto.ai/) - Allows you and your software development team to implement DevOps automations in minutes rather than days.
 - [Deploys at Slack (2020)](https://slack.engineering/deploys-at-slack-cd0d28c61701)
 - [We Need DevOps for ML Data (2020)](https://tecton.ai/blog/devops-ml-data/) ([HN](https://news.ycombinator.com/item?id=23011297))
+- [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline#readme) - Curated list of awesome pipeline toolkits inspired by Awesome Sysadmin.
+- [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin#readme) - Curated list of awesome open source sysadmin resources.

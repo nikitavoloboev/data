@@ -23,3 +23,4 @@
 - [A 2020 Vision of Linear Algebra (2020)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm) ([HN](https://news.ycombinator.com/item?id=23150699))
 - [GraphBLAST](https://github.com/gunrock/graphblast) - High-Performance Linear Algebra-based Graph Primitives on GPUs.
 - [Graph BLAS](http://graphblas.org/index.php?title=Graph_BLAS_Forum) - Graph algorithms in the language of linear algebra. ([HN](https://news.ycombinator.com/item?id=23285845))
+- [Cotila](https://github.com/calebzulawski/cotila) - Compile-time linear algebra system for C++.

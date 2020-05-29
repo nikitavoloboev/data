@@ -9,3 +9,4 @@
 - [autocertdelegate](https://github.com/bradfitz/autocertdelegate) - Get LetsEncrypt TLS certs for internal-only TLS servers via a delegated golang.org/x/crypto/acme/autocert server.
 - [SwiftTLS](https://github.com/nsc/SwiftTLS) - TLS implementation in Swift.
 - [Illustrated TLS Connection](https://tls.ulfheim.net/) - Every byte of a TLS connection explained and reproduced. ([Code](https://github.com/syncsynchalt/illustrated-tls))
+- [SSLproxy](https://github.com/sonertari/SSLproxy) - Transparent SSL/TLS proxy for decrypting and diverting network traffic to other programs, such as UTM services, for deep SSL inspection.

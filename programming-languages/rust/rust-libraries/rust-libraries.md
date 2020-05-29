@@ -212,7 +212,7 @@
 - [pg-extend-rs](https://github.com/bluejekyll/pg-extend-rs) - Rust based Postgres extension.
 - [Hiher](https://github.com/bodil/higher) - Higher kinded types and other bad ideas for Rust.
 - [cargo-geiger](https://github.com/anderejd/cargo-geiger) - Detects usage of unsafe Rust in a Rust crate and its dependencies.
-- [Surf](https://github.com/rustasync/surf) - Friendly HTTP client built for casual Rustaceans and veterans alike.
+- [Surf](https://github.com/http-rs/surf) - Fast and friendly HTTP client framework for async Rust.
 - [async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library. ([Article](https://async.rs/blog/stop-worrying-about-blocking-the-new-async-std-runtime/))
 - [petgraph](https://github.com/bluss/petgraph) - Graph data structure library for Rust.
 - [Neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules. ([Web](https://neon-bindings.com/))
@@ -392,6 +392,8 @@
 - [easy-parallel](https://github.com/stjepang/easy-parallel) - Run closures in parallel.
 - [Askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust.
 - [libprobe](https://github.com/cuviper/rust-libprobe) - Static probes for Rust.
+- [Multiversion](https://github.com/calebzulawski/multiversion) - Function multiversioning framework for Rust.
+- [Kuchiki](https://github.com/kuchiki-rs/kuchiki) - HTML/XML tree manipulation library for Rust.
 
 ## Cargo Plugins
 

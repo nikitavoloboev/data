@@ -170,3 +170,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Jailbreaking for iOS Developers (2020)](https://steipete.com/posts/jailbreaking-for-ios-developers/)
 - [unc0ver jailbreak for iOS](https://github.com/pwn20wndstuff/Undecimus)
 - [Zebra](https://github.com/wstyres/Zebra) - Package Manager for jailbroken iOS devices.
+- [Automatic App Landing Page](https://github.com/emilbaehr/automatic-app-landing-page) - Jekyll theme for automatically generating and deploying landing page sites for mobile apps.

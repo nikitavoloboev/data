@@ -65,3 +65,4 @@
 - [Background Matting: The World is Your Green Screen](https://github.com/senguptaumd/Background-Matting)
 - [DE⫶TR: End-to-End Object Detection with Transformers](https://github.com/facebookresearch/detr)
 - [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://github.com/shunsukesaito/PIFu)
+- [Tracking Objects as Points](https://github.com/xingyizhou/CenterTrack)

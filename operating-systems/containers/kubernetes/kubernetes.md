@@ -192,3 +192,4 @@
 - [Amazon Elastic Kubernetes Service (Amazon EKS) Best Practices](https://github.com/aws/aws-eks-best-practices)
 - [KFServing](https://github.com/kubeflow/kfserving) - Serverless Inferencing on Kubernetes.
 - [kube-backup](https://github.com/pieterlange/kube-backup) - Kubernetes resource state sync to git.
+- [Why is Kubernetes getting so popular? (2020)](https://stackoverflow.blog/2020/05/29/why-kubernetes-getting-so-popular/) ([HN](https://news.ycombinator.com/item?id=23354418))

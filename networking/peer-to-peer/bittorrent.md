@@ -28,3 +28,4 @@
 - [Intermodal](https://rodarmor.com/blog/intermodal) - New command-line BitTorrent metainfo utility. ([Code](https://github.com/casey/intermodal))
 - [pimp-my-box](https://github.com/pyroscope/pimp-my-box) - Automated seedbox install of rTorrent-PS and PyroScope CLI etc. via Ansible.
 - [moose](https://getmoose.in/) - Torrent client to download, stream and cast torrents. ([Code](https://github.com/ritz078/moose))
+- [Hydra Booster](https://github.com/libp2p/hydra-booster) - DHT Indexer node & Peer Router.

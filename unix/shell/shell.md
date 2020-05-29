@@ -61,3 +61,4 @@ All active variables can be seen by running `env`.
 - [DSL for shell scripting (2020)](https://acha.ninja/blog/dsl_for_shell_scripting/) ([Lobsters](https://lobste.rs/s/p6insb/dsl_for_shell_scripting))
 - [Shell Script Compiler](https://github.com/neurobin/shc) - Generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code.
 - [Shell script template suitable for most software developers](https://github.com/mjambon/reasonable-shell-script)
+- [Chafa](https://github.com/hpjansson/chafa) - Command-line utility that converts all kinds of images, including animated GIFs, into sixel or ANSI/Unicode character output that can be displayed in a terminal.

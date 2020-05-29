@@ -74,6 +74,7 @@
 - [CameraBackground](https://github.com/yonat/CameraBackground) - Show camera layer as a background to any UIView.
 - [EmojiPickerUI](https://github.com/insidegui/EmojiPickerUI) - Framework implementing a macOS-style emoji picker for iPadOS.
 - [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - Light-weight UITextView subclass that automatically grows and shrinks.
+- [PyBridge-iOS](https://github.com/joaoventura/pybridge-ios) - Reuse Python code in native iOS applications.
 
 ## macOS
 
@@ -348,6 +349,8 @@
 - [SwiftJWT](https://github.com/IBM-Swift/Swift-JWT) - Implementation of JSON Web Token using Swift.
 - [NDArray](https://github.com/cgarciae/NDArray) - Multidimensional Array library for Swift.
 - [SwiftGit2](https://github.com/SwiftGit2/SwiftGit2) - Swift bindings to libgit2.
+- [PythonKit](https://github.com/pvieito/PythonKit) - Swift framework to interact with Python.
+- [LoggerKit](https://github.com/pvieito/LoggerKit) - Swift framework to log messages in a colorful and clear way.
 
 ## Other (not lib)
 

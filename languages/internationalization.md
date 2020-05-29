@@ -8,3 +8,4 @@
 - [Rosetta](https://github.com/lukeed/rosetta) - General purpose internationalization library in 292 bytes.
 - [Crowdin](https://crowdin.com/) - Cloud-based solution that streamlines localization management for your team.
 - [Crowdin iOS SDK](https://github.com/crowdin/mobile-sdk-ios)
+- [Pontoon](https://github.com/mozilla/pontoon) - Mozilla's Localization Platform. ([Web](https://pontoon.mozilla.org/))

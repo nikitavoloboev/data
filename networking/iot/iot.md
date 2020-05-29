@@ -32,3 +32,5 @@
 - [Core Scenic Library](https://github.com/boydm/scenic) - Client application library written directly on the Elixir/Erlang/OTP stack. Primarily aimed at fixed screen connected devices (IoT).
 - [Practical difference between Xbee,ble,mqtt,lorawan (2020)](https://www.reddit.com/r/IOT/comments/griwf0/practical_difference_between_xbeeblemqttlorawan/)
 - [Zigbee adapter add-on for Mozilla WebThings Gateway](https://github.com/mozilla-iot/zigbee-adapter)
+- [EVE](https://www.lfedge.org/projects/eve/) - Aims to do for the IoT edge what Android did for mobile by creating an open edge computing engine that enables the development, orchestration and security of cloud-native and legacy applications on distributed edge compute nodes.
+- [Adam](https://github.com/lf-edge/adam) - Reference implementation of an LF-Edge API-compliant Controller.

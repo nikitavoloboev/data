@@ -37,3 +37,4 @@
 - [Make LLVM fast again (2020)](https://nikic.github.io/2020/05/10/Make-LLVM-fast-again.html) ([Reddit](https://www.reddit.com/r/cpp/comments/gh3huh/make_llvm_fast_again/)) ([HN](https://news.ycombinator.com/item?id=23137345))
 - [Mapping High Level Constructs to LLVM IR](https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/en/latest/README.html) ([Code](https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir))
 - [KLEE LLVM Execution Engine](https://klee.github.io/) - Symbolic virtual machine built on top of LLVM. ([HN](https://news.ycombinator.com/item?id=23283706))
+- [Anselm](https://github.com/trailofbits/anselm) - Tool that allows you to describe and detect patterns of bad behavior in function calls.

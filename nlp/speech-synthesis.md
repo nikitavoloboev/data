@@ -12,3 +12,4 @@
 - [Flowtron](https://github.com/NVIDIA/flowtron) - Auto-regressive flow-based generative network for text to speech synthesis.
 - [A highly efficient, real-time text-to-speech system deployed on CPUs (2020)](https://ai.facebook.com/blog/a-highly-efficient-real-time-text-to-speech-system-deployed-on-cpus/) ([HN](https://news.ycombinator.com/item?id=23193967))
 - [Sonatic](https://www.sonantic.io/) - Emotionally Expressive Text to Speech.
+- [GAN-based Mel-Spectrogram Inversion Network for Text-to-Speech Synthesis](https://github.com/descriptinc/melgan-neurips)

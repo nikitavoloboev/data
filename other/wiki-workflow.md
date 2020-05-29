@@ -85,6 +85,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Brady Joslin's TIL](https://til.bradyjoslin.com/_introduction/)
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
 - [Nat Eliason notes](https://www.nateliason.com/notes)
+- [Mike's Mind](https://tannenbaum.netlify.app/) ([Code](https://github.com/MikeTannenbaum/my-public-mind))
 - [David Seah](https://davidseah.gitbook.io/davidseah/) ([Code](https://github.com/davidseah/knowledgebank))
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
@@ -155,3 +156,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Thinking in maps: from the Lascaux caves to knowledge graphs (2020)](https://nesslabs.com/thinking-in-maps)
 - [Trilium Notes](https://github.com/zadam/trilium) - Hierarchical note taking application with focus on building large personal knowledge bases. ([HN](https://news.ycombinator.com/item?id=23335759))
 - [Ask HN: What is your favorite way to read online content? (2020)](https://news.ycombinator.com/item?id=23340031)
+- [Digital garden Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)

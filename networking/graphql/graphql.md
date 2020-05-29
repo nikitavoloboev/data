@@ -90,3 +90,4 @@
 - [AskQL](https://github.com/xFAANG/askql) - Query language that can express any data request. Send executable code instead of JSONs. ([Web](https://askql.org/))
 - [GraphQL walkthrough in Go, examples use progressive disclosure](https://github.com/codex-zaydek/graphql-go-walkthrough)
 - [The GraphQL Guide](https://graphql.guide/) - Book about GraphQL, the new REST.
+- [Fastify GraphQL adapter](https://github.com/mcollina/fastify-gql)

@@ -62,6 +62,7 @@
 - [QuadGK.jl](https://github.com/JuliaMath/QuadGK.jl) - Adaptive 1d numerical Gauss–Kronrod integration in Julia.
 - [ClearStacktrace](https://github.com/jkrumbiegel/ClearStacktrace.jl) - Visually clarified stack traces for Julia.
 - [DiffEqFlux.jl](https://github.com/SciML/DiffEqFlux.jl) - Universal neural differential equations with O(1) backprop, GPUs, and stiff+non-stiff DE solvers.
+- [Weave](https://github.com/JunoLab/Weave.jl) - Scientific report generator/literate programming tool for Julia.
 
 ## Links
 

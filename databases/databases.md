@@ -79,6 +79,7 @@
 - [remoteStorage](https://remotestorage.io/) - Open protocol for per-user storage on the Web.
 - [TimescaleDB](https://www.timescale.com/) - Open-source database built for analyzing time-series data with the power and convenience of SQL.
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Free analytics DBMS for big data.
+- [ArongoDB](https://www.arangodb.com/) - Natively store data for graph, document and search needs. Utilize feature-rich access with one query language. ([Go Driver](https://github.com/arangodb/go-driver))
 
 ## Tools
 
