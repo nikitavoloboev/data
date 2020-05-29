@@ -1,6 +1,6 @@
 # Goals
 
-Give myself [direction in life](https://www.youtube.com/watch?v=NVGuFdX5guE) in form of longer term goals.
+Give me [direction in life](https://www.youtube.com/watch?v=NVGuFdX5guE).
 
 ## Learn Anything
 
