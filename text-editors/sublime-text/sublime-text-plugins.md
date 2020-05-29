@@ -6,21 +6,11 @@ Below is a list of plugins I use.
 
 - [Six](https://github.com/guillermooo/Six) - Vim emulation.
 - [JSPrettier](https://github.com/jonlabelle/SublimeJsPrettier) - Plugin for Prettier, the opinionated code formatter.
-- [Marked](https://github.com/icio/sublime-text-marked) - Preview markdown files quickly with [Marked](http://marked2app.com) app.
-
-## Lint
-
-- [Linter](https://github.com/SublimeLinter/SublimeLinter) - Code linting framework.
-
-## LaTeX
-
-- [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - Provides several features that simplify working with LaTeX files.
 
 ## Looks
 
 - [Ayu theme](https://github.com/dempfi/ayu)
 - [GitHub Sublime Theme](https://github.com/AlexanderEkdahl/github-sublime-theme)
-- [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons.
 
 ## Interesting (not using)
 
@@ -37,6 +27,7 @@ Below is a list of plugins I use.
 - [Language Server Protocol Support](https://github.com/tomv564/LSP) - Gives LSP IDE features.
 - [WakaTime](https://wakatime.com/sublime-text) - Automatic time tracking and metrics generated from your programming activity.
 - [Terminus](https://github.com/randy3k/Terminus) - Bring a real terminal to Sublime Text.
+- [Marked](https://github.com/icio/sublime-text-marked) - Preview markdown files quickly with [Marked](http://marked2app.com) app.
 
 ## Markdown
 
@@ -50,6 +41,8 @@ Below is a list of plugins I use.
 
 ## Looks
 
+- [Dracula Pro](https://draculatheme.com/pro/)
+- [File icons](https://github.com/ihodev/a-file-icon) - File-Specific Icons.
 - [DistractionFreeWindow](https://github.com/aziz/DistractionFreeWindow) - Sublime Text's "Distraction free mode" but not full-screen.
 
 ## TypeScript
@@ -60,8 +53,13 @@ Below is a list of plugins I use.
 
 - [q KDB](https://github.com/komsit37/sublime-q) - Connect to remote q session and execute q statements in Sublime Text.
 
+## LaTeX
+
+- [LaTeXTools](https://github.com/SublimeText/LaTeXTools) - Provides several features that simplify working with LaTeX files.
+
 ## Lint
 
+- [Linter](https://github.com/SublimeLinter/SublimeLinter) - Code linting framework.
 - [Linter Shellcheck](https://github.com/SublimeLinter/SublimeLinter-shellcheck) - Linter plugin for SublimeLinter provides an interface to shellcheck.
 - [Linter flake8](https://github.com/SublimeLinter/SublimeLinter-flake8) - Provides an interface to [flake8](http://flake8.readthedocs.org/en/latest/).
 

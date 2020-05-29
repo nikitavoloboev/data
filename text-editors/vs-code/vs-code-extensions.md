@@ -282,9 +282,9 @@ Below is a list of extensions I use.
 
 ## Theme
 
+- [Dracula Pro](https://draculatheme.com/pro/)
 - [Monochrome](https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome) - Monochromatic theme collection, for those who seeks. ([Code](https://github.com/anotherglitchinthematrix/monochrome))
 - [Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
-- [Dracula Pro](https://draculatheme.com/pro/)
 - [Overnight](https://github.com/cevr/overnight) - Soft vibrant VSCode theme.
 - [Subliminal](https://marketplace.visualstudio.com/items?itemName=gaearon.subliminal)
 - [Alabaster](https://marketplace.visualstudio.com/items?itemName=tonsky.theme-alabaster)

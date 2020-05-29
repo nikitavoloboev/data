@@ -177,6 +177,7 @@ Here are few more things I liked, design wise.
 - [Mike Solomon](https://msol.io/)
 - [Adam Ho](https://www.adamho.com/)
 - [Seena Burns](http://seenaburns.com/) - Love the color scheme & look. Awesome blog.
+- [Obed Parlapiano](https://obedparla.com/)
 - [I am Stevedao](https://iamstevendao.github.io/portfolio/)
 - [Ink & Switch](https://www.inkandswitch.com/index.html)
 - [Tonsky](http://tonsky.me/about/)
