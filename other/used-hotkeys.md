@@ -39,10 +39,6 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - 9 - Picture of screen -> Clipboard
 - 0 - Picture of screen -> ~/Desktop
 
-## CTRL+SHIFT
-
-- 0 - Noizio on/off
-
 ## OPT+CTRL+CMD
 
 - 1 - New tweet

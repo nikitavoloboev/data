@@ -12,6 +12,12 @@ And I visualize topics and their relations as an [interactive mind map](https://
 
 ![](https://i.imgur.com/Y7rqrKt.png)
 
+## Monokai Night theme
+
+You can install the theme from [here](https://www.dropbox.com/s/3koghcww8z3bxxp/Monokai%20Night.mindnodetheme?dl=1) and open it in MindNode. Here is how it looks:
+
+![](https://i.imgur.com/Y7rqrKt.png)
+
 ## Links
 
 - [Mind map everything](https://medium.com/@nikitavoloboev/mind-map-everything-d27670f70739) - How I use mind maps to effectively transcribe knowledge digitally and visualize thoughts and knowledge I have for both myself and for other people interested.

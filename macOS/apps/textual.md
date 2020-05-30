@@ -2,9 +2,21 @@
 
 I love IRC and this is the best macOS client for it.
 
-I created my own [Monokai Night theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/textual#readme) for it that I love.
+I created my own theme for it that I love.
 
-![](https://i.imgur.com/Lpozk8X.png)
+![](https://i.imgur.com/C9lEXB6.jpg)
+
+I am using Geeza Pro Regular 18pt font.
+
+## Install
+
+To install the theme, download the Monokai Night folder attached from [here](https://www.dropbox.com/sh/mxh1ybdr9x7cfza/AAD6Y--qv3j2yddTY6UJLPyva?dl=1).
+
+Then go to Textual app. Go to preferences and in Styles click on `Browse Styles` here:
+
+![](https://i.imgur.com/q5m1cGa.png)
+
+Put the downloaded folder inside the folder. You can read [this](https://help.codeux.com/textual/Styles.kb) for more information.
 
 ## Notes
 
