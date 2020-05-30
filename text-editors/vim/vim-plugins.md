@@ -30,7 +30,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Looks
 
-- [ayu](https://github.com/ayu-theme/ayu-vim)
+- [ayu](https://github.com/ayu-theme/ayu-vim) - I only change locally mirage theme colors to `#1e2431` so background color matches my other GitHub themes. (in `~/.config/nvim/plugged/ayu-vim/colors`)
 
 ## Interesting (not using)
 
