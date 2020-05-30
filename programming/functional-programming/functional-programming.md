@@ -79,6 +79,7 @@
 - [Purely Functional Data Structures and Monoids (2020)](https://doisinkidney.com/pdfs/purely-functional-data-structures-slides.pdf)
 - [Designing a functional programming language: Yatta (2020)](https://functional.blog/2020/05/25/designing-a-functional-programming-language-yatta/) ([HN](https://news.ycombinator.com/item?id=23307699))
 - [Malfunction](https://github.com/stedolan/malfunction) - High-performance, low-level untyped program representation, designed as a target for compilers of functional programming languages.
+- [Practical type inference for arbitrary-rank types (2007)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf)
 
 ## Images
 
