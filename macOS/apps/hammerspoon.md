@@ -1,12 +1,10 @@
 # [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)
 
-Hammerspoon is a great open source tool that lets you write Lua code to interact with macOS to automate tasks.
-
-My config for it can be seen [here](https://github.com/nikitavoloboev/dotfiles/blob/master/hammerspoon).
-
 ## Links
 
 - [Spoons](https://github.com/Hammerspoon/hammerspoon/blob/master/SPOONS.md)
 - [Interesting HS config](https://github.com/S1ngS1ng/HammerSpoon)
 - [Accessing Accessibility Objects with Hammerspoon](https://github.com/asmagill/hs._asm.axuielement)
 - [HN: Hammerspoon (2019)](https://news.ycombinator.com/item?id=21801178)
+- [Spacehammer](https://github.com/agzam/spacehammer) - Hammerspoon config inspired by Spacemacs.
+- [Using Fennel to configure Hammerspon](https://lobste.rs/s/tkm8nh/using_fennel_configure_hammerspon)

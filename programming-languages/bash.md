@@ -33,3 +33,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [Bash code](https://github.com/bminor/bash)
 - [Some Relatively Obscure Bash Tips (2020)](https://zwischenzugs.com/2020/05/09/some-relatively-obscure-bash-tips/) ([HN](https://news.ycombinator.com/item?id=23126305))
 - [A Bash Cheat Sheet: Top 25 most-used commands, and how to create custom commands (2020)](https://medium.com/better-programming/bash-cheat-sheet-top-25-commands-and-creating-custom-commands-75941dcdc450)
+- [Bash Env Variable Defaults](https://www.yesthatblog.com/post/0065-env-defaults/)

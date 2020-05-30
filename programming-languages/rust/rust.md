@@ -224,4 +224,5 @@
 - [trait-eval](https://github.com/doctorn/trait-eval) - Play FizzBuzz at compile-time.
 - [muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries.
 - [Coverage Marks (2020)](https://ferrous-systems.com/blog/coverage-marks/)
-- [Rust: Dropping heavy things in another thread can make your code 10000 times faster (2020)](https://abramov.io/rust-dropping-things-in-another-thread) ([HN](https://news.ycombinator.com/item?id=23362518))
+- [Rust: Dropping heavy things in another thread can make your code 10000 times faster (2020)](https://abramov.io/rust-dropping-things-in-another-thread) ([HN](https://news.ycombinator.com/item?id=23362518)) ([Lobsters](https://lobste.rs/s/kzd5pk/rust_dropping_heavy_things_another))
+- [Rust as a High Level Language (2020)](https://llogiq.github.io/2020/05/30/hi.html)
