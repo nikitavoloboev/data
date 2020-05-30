@@ -22,6 +22,7 @@
 - [Quantum Supremacy Using a Programmable Superconducting Processor (2019)](https://ai.googleblog.com/2019/10/quantum-supremacy-using-programmable.html) ([HN](https://news.ycombinator.com/item?id=21332768))
 - [Quantum supremacy using a programmable superconducting processor - J. Martinis (2019)](https://www.youtube.com/watch?v=FklMpRiTeTA)
 - [Quantum Country](https://quantum.country/) - Free introduction to quantum computing and quantum mechanics.
+- [Quantum mechanics distilled](https://quantum.country/qm)
 - [Qiskit](https://qiskit.org/) - Open-source quantum computing software development framework for leveraging today's quantum processors in research, education, and business.
 - [Quantum Computation and Quantum Information by Nielsen and Chuang](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
 - [ARTIQ](https://github.com/m-labs/artiq) - Leading-edge control system for quantum information experiments.
