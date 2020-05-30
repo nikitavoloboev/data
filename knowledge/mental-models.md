@@ -15,3 +15,4 @@
 - [Applied thinking for intelligence analysis](http://airpower.airforce.gov.au/APDC/media/PDF-Files/Air%20Force%20Publications/AF13-Applied-Thinking-for-Intelligence-Analysis.pdf)
 - [Critical Thinking for Strategic Intelligence book](https://www.goodreads.com/book/show/18909230)
 - [Untools](https://untools.co/) - Tools for better thinking. ([HN](https://news.ycombinator.com/item?id=23339830))
+- [Mental Models app](https://mentalmodels.edvo.com/) - Tools to help you think better and navigate life better.

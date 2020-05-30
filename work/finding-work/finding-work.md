@@ -55,7 +55,7 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Layoffs Guide](https://candor.co/guides/layoff/)
 - [Ask HN: How do I understand the results of my job search? (2020)](https://news.ycombinator.com/item?id=21612151)
 - [List of companies that are hiring or are currently in a hiring freeze](https://candor.co/hiring-freezes/)
-- [Hand-picked remote jobs from HN Who is hiring?](https://remoteleaf.com/whoishiring?ref=reddit)
+- [Hand-picked remote jobs from HN Who is hiring?](https://remoteleaf.com/whoishiring)
 - [Teal](https://www.tealhq.com/) - Career partner that helps individuals advocate for themselves and build meaningful careers.
 - [Career advice for people with bad luck (2020)](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad) ([HN](https://news.ycombinator.com/item?id=22960225))
 - [enviro.work](https://enviro.work/) - Best place to find and fill jobs that benefit the environment.

@@ -14,7 +14,7 @@
 - [IoT Standards and Protocols](https://www.postscapes.com/internet-of-things-protocols/)
 - [Shodan](https://www.shodan.io/) - Search engine for Internet-connected devices.
 - [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Alternative firmware for ESP8266 based devices like iTead Sonoff with web UI, rules and timers, OTA updates, custome device templates and sensors support.
-- [Dumbass Home 2.0. (2019)](https://vas3k.com/blog/dumbass_home/?ref=sn) - Internet of Things. How to Automate Your Rented Box Today.
+- [Dumbass Home 2.0. (2019)](https://vas3k.com/blog/dumbass_home/) - Internet of Things. How to Automate Your Rented Box Today.
 - [Amazon FreeRTOS](https://github.com/aws/amazon-freertos) - IoT operating system for microcontrollers.
 - [Senet](https://www.senetco.com/) - Cloud-based network connectivity platforms for the on demand build-out and management of the Internet of Things.
 - [AWS IoT Things Graph (2019)](https://aws.amazon.com/blogs/aws/now-available-aws-iot-things-graph/)

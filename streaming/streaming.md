@@ -32,3 +32,4 @@ Here are tools I use for streaming:
 - [Twitch Roulette](https://twitchroulette.net/) - Find and chat with streamers who are streaming alone. ([HN](https://news.ycombinator.com/item?id=23114103))
 - [Codio](https://github.com/wix-incubator/codio) - Media format for recording the process of programming.
 - [OBS (macOS) Virtual Camera](https://github.com/johnboiles/obs-mac-virtualcam) - Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into apps.
+- [Stream Like a CEO (2020)](https://ma.tt/2020/05/ceo-video-streaming/)

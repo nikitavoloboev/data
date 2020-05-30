@@ -8,3 +8,4 @@
 - [Swift loves TensorFlow and Core ML (2020)](https://heartbeat.fritz.ai/swift-loves-tensorflow-and-core-ml-8adb52838931)
 - [Awesome CoreML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Largest list of models for Core ML.
 - [TensorFlow to CoreML Converter](https://github.com/tf-coreml/tf-coreml)
+- [How to Deploy PyTorch Models to iOS with Core ML via Tests (2020)](http://www.ml-illustrated.com/2020/05/25/run-pytorch-models-on-ios-with-coreml.html)
