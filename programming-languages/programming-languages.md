@@ -70,7 +70,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Designing flexible, modular linguistic abstractions (2019)](http://www.cs.cornell.edu/andru/papers/yizhou-dissertation.pdf)
 - [An abstract domain for objects in dynamic programming languages (2019)](https://staticanalysis.org/nsad2019/papers/NSAD2019_paper_2_WM.pdf)
 - [A Simple Differentiable Programming Language (2020)](https://arxiv.org/pdf/1911.04523.pdf)
-- [The Hard Part of Learning a Language (2020)](https://www.hillelwayne.com/post/learning-a-language/) ([Lobsters](https://lobste.rs/s/rcdj1z/hard_part_learning_language))
+- [The Hard Part of Learning a Language (2020)](https://www.hillelwayne.com/post/learning-a-language/) ([Lobsters](https://lobste.rs/s/rcdj1z/hard_part_learning_language)) ([HN](https://news.ycombinator.com/item?id=23347357))
 - [Hoist](https://github.com/theronic/hoist) - Visual programming language inspired by Excel & Datalog.
 - [Esoteric.Codes](https://esoteric.codes/) - Languages, platforms, and systems that break from the norms of computing.
 - [Resources for the working programmer to learn more about the fundamentals and theory of programming languages](https://github.com/jeanqasaur/learn-programming-languages#readme)

@@ -87,3 +87,4 @@
 - [Analyzing The Simplest C++ Program (2020)](https://oneraynyday.github.io/dev/2020/05/03/Analyzing-The-Simplest-C++-Program/)
 - [How are libraries like Tensorflow developed in C++ buy can run in python? (2020)](https://www.reddit.com/r/cpp/comments/gp8gl4/how_are_libraries_like_tensorflow_developed_in_c/)
 - [What science can tell us about C and C++'s security (2020)](https://alexgaynor.net/2020/may/27/science-on-memory-unsafety-and-security/)
+- [Effective Modern C++ Cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet#readme)

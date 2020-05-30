@@ -157,3 +157,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Trilium Notes](https://github.com/zadam/trilium) - Hierarchical note taking application with focus on building large personal knowledge bases. ([HN](https://news.ycombinator.com/item?id=23335759))
 - [Ask HN: What is your favorite way to read online content? (2020)](https://news.ycombinator.com/item?id=23340031)
 - [Digital garden Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
+- [Mathematicians, how do you keep your notes? Why? (2020)](https://www.reddit.com/r/math/comments/gt0adz/mathematicians_how_do_you_keep_your_notes_why/)

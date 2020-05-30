@@ -17,3 +17,4 @@
 - [Voyager3](https://voyager3.tumblr.com/) - Explorations into procedural village and landscape generation.
 - [3D World Generation in JS (2020)](https://www.youtube.com/watch?v=rNuDkDhadfU)
 - [Voronoi maps tutorial](https://www.redblobgames.com/x/2022-voronoi-maps-tutorial/)
+- [Meander](http://roberthodgin.com/project/meander) - Procedural system for generating historical maps of rivers that never existed. ([HN](https://news.ycombinator.com/item?id=23341917))
