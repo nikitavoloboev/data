@@ -60,17 +60,15 @@
 
 - [Finance](../economy/finance.md) - My approach to finance/investing.
 
-## Tech stack
+## Tech stack (preferred)
 
-- Websites - Use [NextJS](https://nextjs.org/) to server side render sites in [React](https://github.com/facebook/react). Use [TypeScript](https://www.typescriptlang.org).
-- Server APIs - Use [Go](https://golang.org/).
-- Scripts & CLI tools - Use [Go](https://golang.org/).
-- Database - Use [Postgres](https://www.postgresql.org) for everything. With [Hasura](https://hasura.io) setup for GraphQL queries. Use [SQLite](https://www.sqlite.org) when need small DB.
-- Mobile apps - Prefer to build iOS apps with native [Swift](https://developer.apple.com/swift/) & [SwiftUI](https://developer.apple.com/xcode/swiftui/). For apps that need cross platform support, I use [React Native](https://facebook.github.io/react-native/).
-- Pick services from cloud providers where it makes sense. Solving problems is what matters. Tech used only matters to the extent that code should be maintainable and fast where needed.
-- ML Models - Use [PyTorch](https://pytorch.org).
+- Static sites / Blogs - [Eleventy](https://github.com/11ty/eleventy).
+- Web Apps - [NextJS](https://nextjs.org/) to server side render with [React](https://github.com/facebook/react).
+- Server APIs - [Go](https://golang.org/).
+- Scripts & CLI tools - [Go](https://golang.org/).
+- Database - [Postgres](https://www.postgresql.org) for everything. With [Hasura](https://hasura.io) setup for GraphQL queries. [SQLite](https://www.sqlite.org) is great too.
+- iOS/macOS - Built wit Swift/SwiftUI, [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) seems great.
 
 ## Slides/presentations
 
 - Use either [beautiful.ai](https://www.beautiful.ai) or [spectacle](https://formidable.com/open-source/spectacle/).
-
