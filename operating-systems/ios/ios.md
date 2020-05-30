@@ -40,6 +40,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Messenger](https://github.com/relatedcode/Messenger) - Open source, native iOS Messenger, with audio/video calls and realtime chat conversations (full offline support).
 - [Artsy](https://github.com/artsy/eigen) - Core Artsy Mobile OSS project.
 - [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) - Open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network.
+- [Memories](https://github.com/mluisbrown/Memories) - iOS app that displays photos from your photo library taken on a particular day in history.
 
 ## Notes
 
@@ -171,3 +172,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [unc0ver jailbreak for iOS](https://github.com/pwn20wndstuff/Undecimus)
 - [Zebra](https://github.com/wstyres/Zebra) - Package Manager for jailbroken iOS devices.
 - [Automatic App Landing Page](https://github.com/emilbaehr/automatic-app-landing-page) - Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
+- [Mastering view controller transitions, part 1: Make them reusable (2020)](https://danielgauthier.me/2020/02/24/indie5-1.html)

@@ -13,3 +13,4 @@
 - [Embedding Lua Tutorial](https://github.com/davepoo/EmbeddingLuaTutorial)
 - [Lunatic Python](https://github.com/bastibe/lunatic-python) - Two-way bridge between Python and Lua.
 - [Interesting things about the Lua interpreter (2020)](https://thesephist.com/posts/lua/)
+- [Interactive Lua development with Fennel (2018)](https://technomancy.us/189) ([Lobsters](https://lobste.rs/s/1xlmb3/interactive_lua_development_with_fennel))

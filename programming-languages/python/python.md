@@ -106,3 +106,4 @@
 - [Hypermodern Python (2020)](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/) ([HN](https://news.ycombinator.com/item?id=23336050)) ([Lobsters](https://lobste.rs/s/2dcejo/hypermodern_python))
 - [pyanalyze](https://github.com/quora/pyanalyze) - Static analysis tool for Python.
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python) - Book aims to teach the Python programming language using a practical approach.
+- [Practical Python Programming course](https://github.com/dabeaz-course/practical-python)

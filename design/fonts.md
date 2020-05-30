@@ -83,3 +83,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Jaimey Shapey's typography](https://jaimeyshapey.com/)
 - [Zach Leatherman | The Five Whys of Web Font Loading Performance (2018)](https://www.youtube.com/watch?v=FbguhX3n3Uc)
 - [Pop Culture Typography (2018)](https://www.youtube.com/watch?v=WwyqQ-o6zHA)
+- [Adobe Font Development Kit for OpenType (AFDKO)](https://github.com/adobe-type-tools/afdko)

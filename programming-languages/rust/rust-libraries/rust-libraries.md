@@ -394,6 +394,8 @@
 - [libprobe](https://github.com/cuviper/rust-libprobe) - Static probes for Rust.
 - [Multiversion](https://github.com/calebzulawski/multiversion) - Function multiversioning framework for Rust.
 - [Kuchiki](https://github.com/kuchiki-rs/kuchiki) - HTML/XML tree manipulation library for Rust.
+- [Deku](https://github.com/sharksforarms/deku) - Declarative binary reading and writing.
+- [Session Types](https://github.com/Munksgaard/session-types) - Implementation of session types for Rust.
 
 ## Cargo Plugins
 
