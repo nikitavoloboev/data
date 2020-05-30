@@ -2,7 +2,7 @@
 
 I love GTD methodology. This app is phenomenal with helping me organize my tasks. Here is how my sidebar looks:
 
-![](https://i.imgur.com/I68CbYo.png)
+![](https://i.imgur.com/Hsdov6C.png)
 
 It also has global quick add with a hotkey. Together with lists, priorities, powerful search and a lot more.
 

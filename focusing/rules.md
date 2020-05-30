@@ -79,6 +79,7 @@
 - Use headings to separate sections in articles/docs.
 - Fix mistakes with spell checker.
 - Format text to focus attention. **Bold** = strong emphasis. _Italic_ = soft emphasis. Syntax highlight `Code blocks`.
+- Don't repeat myself / duplicate content. Link instead.
 
 ## Tools
 
@@ -175,8 +176,6 @@
 
 - Treat wiki as my digital brain. Share everything I know or need to reference. [Reflect on life](../looking-back/looking-back.md).
 - Have [unified structure](../meta/reference.md) for all pages.
-- Interlink pages to guide the reader.
-- Don't repeat myself. Link. Keep files lowercased.
 - Only keep links that are private in bookmarks. Everything else is shared either in wiki or [curated lists](https://github.com/learn-anything/curated-lists#readme).
 
 ## Share files

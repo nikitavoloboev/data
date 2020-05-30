@@ -1,10 +1,10 @@
 # [Karabiner](https://github.com/tekezo/Karabiner-Elements)
 
-Karabiner is an absolutely amazing app that [lets you remap keys at a very low level on macOS](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6).
+Karabiner is life changing tool that [lets you remap keys at a low level on macOS](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6).
 
-I have completely remapped my keyboard with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
+I completely remapped my keyboard with it and every key on my keyboard is a custom modifier key that I can program to do what I want.
 
-For example you can make caps lock into an escape key when pressed once but if you hold it, it becomes a [hyper key](https://medium.com/@nikitavoloboev/karabiner-god-mode-7407a5ddc8f6). Hyper key means that a key now serves two purposes, once when pressed alone and once when held down. So for example for remapping caps lock, we can remap it to act as escape when pressed alone once but if we hold down on it it becomes ⌘ + ⌃ modifier key. So `caps lock + F` becomes ⌘ + ⌃ + F. And so on.
+For example you can make caps lock into an escape key when pressed once but if you hold it, it becomes a hyper key. Hyper key means that a key now serves two purposes, once when pressed alone and once when held down. So for example for remapping caps lock, we can remap it to act as escape when pressed alone once but if we hold down on it it becomes ⌘ + ⌃ modifier key. So `caps lock + F` becomes ⌘ + ⌃ + F. And so on.
 
 I take this idea further and define these kind of hyper keys but for **every single key on my keyboard**.
 

@@ -614,7 +614,6 @@
   - [3D Modeling](design/3d-modeling.md)
   - [Blender](design/blender.md)
   - [Animation](design/animation.md)
-  - [Monokai Night themes](design/monokai-night-themes.md)
   - [Figma](design/figma/figma.md)
     - [Figma plugins](design/figma/figma-plugins.md)
   - [Framer](design/framer.md)

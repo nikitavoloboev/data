@@ -1,12 +1,8 @@
 # [Trello](https://trello.com)
 
-I use the app a lot to track various ongoing things I have in my life.
+I once used it to manage projects before Notion came along.
 
-I share many boards I have [publicly](../../sharing/my-trello.md).
-
-I assign myself to the cards I am working on now and filter to see only them by [pressing Q key](https://trello.com/shortcuts). I mark cards I want to work on next with `Next` tag.
-
-All of my boards are filtered to show only the cards I am assigned to.
+I like that you can assign yourself to the cards you are working on now and filter to see only assigned cards by [pressing Q key](https://trello.com/shortcuts). I also marked cards I want to work on next with `Next` tag.
 
 ## Notes
 

@@ -1,8 +1,8 @@
 # [Alfred](https://www.alfredapp.com)
 
-Alfred is a powerful launcher that you can program to show anything you want. It saved me a lot of time in my life.
+Alfred is a powerful launcher that you can program to show anything you want. It saved me a lot of time as I use it to search through anything instantly.
 
-![](https://i.imgur.com/MdIcKlh.png)
+![](https://i.imgur.com/pr19IYn.jpg)
 
 It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
 

@@ -8,7 +8,11 @@ I created my own theme for it that I love.
 
 I am using Geeza Pro Regular 18pt font.
 
-## Install
+I love its awesome channel search feature & use it a lot.
+
+<img src="https://i.imgur.com/CMBW8Qf.png" width="500" alt="img">
+
+## Install theme
 
 To install the theme, download the Monokai Night folder attached from [here](https://www.dropbox.com/sh/mxh1ybdr9x7cfza/AAD6Y--qv3j2yddTY6UJLPyva?dl=1).
 

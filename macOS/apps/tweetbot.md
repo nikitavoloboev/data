@@ -2,10 +2,6 @@
 
 I use the app to stay up to date and communicate on Twitter.
 
-Tweetbot is also blocked for me during my `Focus` time. I can only post tweets but I can't visit the app to see my feeds.
-
-Twitter is my primary way to stay up to date on things and is my favorite social network after GitHub. I curate and publicly share all [Twitter lists](https://twitter.com/nikitavoloboev/lists) I personally use.
-
 I split the app into 2 columns on mac.
 
 - First column: Mentions / Messages / [Other](https://twitter.com/i/lists/1131319788012285952)

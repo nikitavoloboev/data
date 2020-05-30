@@ -4,7 +4,9 @@ Use Zsh as my shell together with [Antibody](https://github.com/getantibody/anti
 
 Assigned w + j with [Karabiner](karabiner/karabiner.md) to open the app from Keyboard Maestro in seconds.
 
-I made my own [Monokai Night theme](https://github.com/nikitavoloboev/my-mac-os/tree/master/iterm#readme) for it.
+I use [Primer GitHub theme](https://github.com/fcaldera/github-primer-iterm2) for it. And share [my iTerm preferences](https://www.dropbox.com/s/wx9ijtq4me8fttp/com.googlecode.iterm2.plist?dl=1).
+
+<img src="https://i.imgur.com/pmmSRVN.png" width="500" alt="img">
 
 ## My workflow
 
