@@ -1,5 +1,7 @@
 # [Figma](https://www.figma.com)
 
+Use the app to quickly prototype & collaborate on designs.
+
 ## Notes
 
 - [When resizing frames, hold Command ⌘ to ignore constraint settings for all objects inside that frame](https://twitter.com/rogie/status/1239560547659468800)
