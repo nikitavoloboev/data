@@ -107,3 +107,4 @@
 - [pyanalyze](https://github.com/quora/pyanalyze) - Static analysis tool for Python.
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python) - Book aims to teach the Python programming language using a practical approach.
 - [Practical Python Programming course](https://github.com/dabeaz-course/practical-python)
+- [Milksnake](https://github.com/getsentry/milksnake) - Extension for setuptools that allows you to distribute dynamic linked libraries in Python wheels in the most portable way imaginable.
