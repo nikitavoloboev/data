@@ -42,7 +42,3 @@ The number between brackets shows the year I created the repo in.
 - [Find work (2018)](https://github.com/nikitavoloboev/find-work#readme) - Curated list of websites and resources to find work programming.
 - [Privacy Respecting (2017)](https://github.com/nikitavoloboev/privacy-respecting#readme) - Curated List of Privacy Respecting Services and Software.
 - [GitHub Stars (2019)](https://github.com/nikitavoloboev/github-stars#readme) - Curated list of my GitHub stars.
-
-## Themes
-
-- [Monokai Night Vim (2018)](https://github.com/nikitavoloboev/vim-monokai-night)
