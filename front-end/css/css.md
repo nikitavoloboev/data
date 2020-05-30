@@ -150,3 +150,4 @@
 - [Ask an expert: Why is CSS . . . the way it is?](https://increment.com/frontend/ask-an-expert-why-is-css-the-way-it-is/)
 - [Glue](https://github.com/jorgebastida/glue) - Simple command line tool to generate CSS sprites.
 - [stylis.js](https://github.com/thysultan/stylis.js) - Light–weight CSS Preprocessor.
+- [An Overview of CSS: An Art, a Science, a Nightmare (2019)](https://www.taniarascia.com/overview-of-css-concepts/)

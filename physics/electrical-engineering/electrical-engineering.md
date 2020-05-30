@@ -16,3 +16,4 @@
 - [A practical Guide to Designing PCB Art (2020)](https://blog.wokwi.com/a-practical-guide-to-designing-pcb-art/)
 - [How Thermoelectric Generators Work](https://thermoelectricsolutions.com/how-thermoelectric-generators-work/)
 - [Two capacitor paradox](https://en.wikipedia.org/wiki/Two_capacitor_paradox) ([HN](https://news.ycombinator.com/item?id=23301402))
+- [Letters of a Radio-Engineer to His Son, by John Mills](https://www.gutenberg.org/files/30688/30688-h/30688-h.htm)
