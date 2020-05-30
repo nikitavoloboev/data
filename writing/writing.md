@@ -150,3 +150,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Text as an interface (2020)](https://thesephist.com/posts/text/)
 - [Alex](https://alexjs.com/) - Catch insensitive, inconsiderate writing. ([Code](https://github.com/get-alex/alex)) ([Article](https://wooorm.com/blog/alex/))
 - [Fuzzy](https://github.com/sajari/fuzzy) - Spell checking and fuzzy search suggestion written in Go.
+- [Self-Defined](https://www.selfdefined.app/) - Seeks to provide more inclusive, holistic, and fluid definitions to reflect the modern world. ([Code](https://github.com/tatianamac/selfdefined))

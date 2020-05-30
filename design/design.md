@@ -96,3 +96,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Radical Design course](https://radicaldesigncourse.com/)
 - [What’s the design process at GDS? (2014)](https://gds.blog.gov.uk/2014/07/18/whats-the-design-process-at-gds/)
 - [Shooot](https://shooot.bourhaouta.com/) - Create amazing screenshots for you dribbble shots. ([Code](https://github.com/bourhaouta/shooot))
+- [Mental models for designers (2019)](https://dropbox.design/article/mental-models-for-designers) ([HN](https://news.ycombinator.com/item?id=23347540))
