@@ -223,3 +223,4 @@
 - [Open Data Structures (in Rust)](https://github.com/ellbrid/ods)
 - [trait-eval](https://github.com/doctorn/trait-eval) - Play FizzBuzz at compile-time.
 - [muslrust](https://github.com/clux/muslrust) - Docker environment for building musl based static rust binaries.
+- [Coverage Marks (2020)](https://ferrous-systems.com/blog/coverage-marks/)

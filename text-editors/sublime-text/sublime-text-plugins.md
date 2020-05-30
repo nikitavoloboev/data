@@ -10,7 +10,6 @@ Below is a list of plugins I use.
 ## Looks
 
 - [Ayu theme](https://github.com/dempfi/ayu)
-- [GitHub Sublime Theme](https://github.com/AlexanderEkdahl/github-sublime-theme)
 
 ## Interesting (not using)
 
