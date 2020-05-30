@@ -1,6 +1,6 @@
 # My [GitHub](https://github.com/nikitavoloboev) repositories
 
-The number between brackets shows the year I created the repo in.
+Number between brackets shows year I created the repo in.
 
 ## Learn Anything
 

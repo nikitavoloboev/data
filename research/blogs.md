@@ -85,3 +85,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Minima](https://github.com/jekyll/minima) - One-size-fits-all Jekyll theme for writers.
 - [Bear](https://bearblog.dev/) - Minimal blogging platform. ([HN](https://news.ycombinator.com/item?id=23312339)) ([Code](https://github.com/HermanMartinus/bearblog))
 - [Stop Blogging on Medium if You Care about SEO (2020)](https://pawelurbanek.com/medium-blogging-platform-seo) ([Lobsters](https://lobste.rs/s/wnlysd/stop_blogging_on_medium_if_you_care_about))
+- [Awesomeblog.club](https://awesomeblog.club/) - Discover awesome small and personal blogs. ([HN](https://news.ycombinator.com/item?id=23355739)) ([Code](https://github.com/searchableguy/awesomeblog-club))

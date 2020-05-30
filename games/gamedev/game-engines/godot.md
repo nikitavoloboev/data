@@ -10,3 +10,4 @@
 - [Godot code](https://github.com/godotengine/godot)
 - [Godot 4.0 will get a new lightmapper (2020)](https://godotengine.org/article/godot-40-will-get-new-modernized-lightmapper) ([HN](https://news.ycombinator.com/item?id=23128518))
 - [Godot Rust (2020)](https://hagsteel.com/posts/godot-rust/)
+- [Godot Editor running in a web browser (2020)](https://godotengine.org/article/godot-editor-running-web-browser) ([HN](https://news.ycombinator.com/item?id=23354286))

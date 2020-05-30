@@ -71,4 +71,4 @@
 
 ## Slides/presentations
 
-- Use either [beautiful.ai](https://www.beautiful.ai) or [spectacle](https://formidable.com/open-source/spectacle/).
+- [Beautiful.ai](https://www.beautiful.ai) or [Spectacle](https://formidable.com/open-source/spectacle/).
