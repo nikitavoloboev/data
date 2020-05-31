@@ -49,3 +49,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [130+ Essential Vim Commands (2020)](https://catswhocode.com/vim-commands/)
 - [libvim](https://github.com/onivim/libvim) - Core Vim editing engine as a minimal C library.
 - [diagnostic-nvim](https://github.com/haorenW1025/diagnostic-nvim) - Wrapper for neovim built in LSP diagnosis config.
+- [Mastering Vim Quickly](https://jovicailic.org/mastering-vim-quickly/)
