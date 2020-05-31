@@ -113,6 +113,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Roman Muradov](https://www.bluebed.net/)
 - [Gregory Crewdson](https://www.instagram.com/crewdsonstudio/)
 - [Tales from the Inner City](http://www.shauntan.net/books/TFIC/TFIC%20main.html)
+- [Azlen Elza](https://www.instagram.com/azlenelza/)
 - [Jie Ma](https://www.behance.net/jiema37?)
 - [Cole Peters](https://colepeters.com/)
 - [David Altrath](https://davidaltrath.com/)
