@@ -146,3 +146,4 @@
 - [Graduate Student Solves Decades-Old Conway Knot Problem (2020)](https://www.quantamagazine.org/graduate-student-solves-decades-old-conway-knot-problem-20200519/) ([HN](https://news.ycombinator.com/item?id=23236599))
 - [What Made me a Mathematician: Off-the-Cuff Story Telling for a Story-Telling Class (2020)](https://www.youtube.com/watch?v=b86QcxdrNF4)
 - [Mathematical Notes by Prof. Steven G. Johnson](http://math.mit.edu/~stevenj/notes.html)
+- [The Definitive Glossary of Higher Math Jargon](https://mathvault.ca/math-glossary/)
