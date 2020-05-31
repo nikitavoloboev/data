@@ -175,3 +175,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Automatic App Landing Page](https://github.com/emilbaehr/automatic-app-landing-page) - Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [Mastering view controller transitions, part 1: Make them reusable (2020)](https://danielgauthier.me/2020/02/24/indie5-1.html)
 - [How to Jailbreak iOS 13.5 and Best Tweaks for 2020](https://www.youtube.com/watch?v=VKHFFm5ggvA)
+- [List of nice jailbreak packages (2020)](https://twitter.com/rjonesy/status/1265833215312437249)
