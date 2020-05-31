@@ -110,3 +110,4 @@
 - [SwiftTrace](https://github.com/johnno1962/SwiftTrace) - Trace Swift and Objective-C method invocations.
 - [IndexStoreDB](https://github.com/apple/indexstore-db) - Source code indexing library. It provides a composable and efficient query API for looking up source code symbols, symbol occurrences, and relations.
 - [Avoiding Callback Hell in Swift (2018)](https://swiftrocks.com/avoiding-callback-hell-in-swift)
+- [Mint](https://github.com/yonaskolb/Mint) - Package manager that installs and runs Swift CLI packages.
