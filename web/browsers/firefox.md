@@ -14,3 +14,4 @@
 - [Firefox Replay](https://firefox-replay.com/) - Records your application, so you can track bugs down faster and understand your code better. ([HN](https://news.ycombinator.com/item?id=21655958)) ([Explanation](https://github.com/mozilla/gecko-dev/blob/11d9c7b7fa82fdfb8ac2a8f0864e9d8d5fe2b926/mfbt/RecordReplay.h#L32-L73))
 - [Gecko browser engine source code](https://github.com/mozilla/gecko-dev)
 - [Introduction to Firefox Debugger](https://mozilladevelopers.github.io/playground/debugger)
+- [MaterialFox](https://github.com/muckSponge/MaterialFox) - Material Design-inspired userChrome.css theme for Firefox.

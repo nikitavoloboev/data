@@ -52,3 +52,4 @@
 - [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Python package offering a number of re-sampling techniques commonly used in datasets showing strong between-class imbalance.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) - Deep learning optimization library that makes distributed training easy, efficient, and effective.
 - [HoMM](https://github.com/lampinen/HoMM) - Library for Homoiconic Meta-mapping.
+- [Hummingbird](https://github.com/microsoft/hummingbird) - Library for compiling trained traditional ML models into tensor computations.
