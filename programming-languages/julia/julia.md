@@ -28,3 +28,6 @@
 - [OhMyREPL](https://github.com/KristofferC/OhMyREPL.jl) - Syntax highlighting and other enhancements for the Julia REPL.
 - [Tutorials on Topics in Julia Programming](https://github.com/johnmyleswhite/julia_tutorials) ([Tweet](https://twitter.com/johnmyleswhite/status/1264355256974168067))
 - [Why learn julia? (2020)](https://www.reddit.com/r/Julia/comments/gph8ob/why_learn_julia/)
+- [Julia Case Studies](https://juliacomputing.com/case-studies/)
+- [Administrative Scripting with Julia](https://github.com/ninjaaron/administrative-scripting-with-julia)
+- [The Fast Track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)

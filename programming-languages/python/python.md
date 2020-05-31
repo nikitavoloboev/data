@@ -108,3 +108,4 @@
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python) - Book aims to teach the Python programming language using a practical approach.
 - [Practical Python Programming course](https://github.com/dabeaz-course/practical-python)
 - [Milksnake](https://github.com/getsentry/milksnake) - Extension for setuptools that allows you to distribute dynamic linked libraries in Python wheels in the most portable way imaginable.
+- [Replacing Bash Scripting with Python](https://github.com/ninjaaron/replacing-bash-scripting-with-python#readme)
