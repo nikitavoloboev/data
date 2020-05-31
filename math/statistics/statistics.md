@@ -36,3 +36,4 @@
 - [Probability Theory: The Logic of Science book](https://bayes.wustl.edu/etj/prob/book.pdf) ([Reddit](https://www.reddit.com/r/MachineLearning/comments/gi97y2/discussion_reading_group_for_e_t_jaynes/))
 - [Tea language](https://github.com/emjun/tea-lang) - High-level Language and Runtime System for Automating Statistical Analyses.
 - [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Open source textbook for statistics, with companions for R and Python. ([Code](https://github.com/statsthinking21/statsthinking21-core))
+- [Learning Statistics with R](https://learningstatisticswithr.com/) ([Code](https://github.com/djnavarro/rbook))
