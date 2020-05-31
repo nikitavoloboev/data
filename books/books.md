@@ -168,6 +168,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Kevin Rooke books](https://www.kevinrooke.com/books) - Explore the books recommended by the world's top investors, entrepreneurs, and thinkers.
 - [Julian Weisser's books](https://www.weisser.io/books/)
 - [AskReddit: What's your favourite book you've read and why? (2020)](https://www.reddit.com/r/AskReddit/comments/gqv5r6/whats_your_favourite_book_youve_read_and_why/)
+- [Ask HN: Best books under 200 pages for developers (2020)](https://news.ycombinator.com/item?id=23363595)
 
 ## Notes
 
