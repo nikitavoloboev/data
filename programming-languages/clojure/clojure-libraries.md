@@ -17,6 +17,7 @@
 - [Hickory](https://github.com/davidsantiago/hickory) - HTML as data.
 - [Specter](https://github.com/redplanetlabs/specter) - Elegant API to allow any sort of manipulation imaginable. ([Article](http://nathanmarz.com/blog/clojures-missing-piece.html))
 - [Hashp](https://github.com/weavejester/hashp) - Better prn for debugging Clojure code.
+- [Honey SQL](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL.
 
 ## Links
 

@@ -397,6 +397,8 @@
 - [Deku](https://github.com/sharksforarms/deku) - Declarative binary reading and writing.
 - [Session Types](https://github.com/Munksgaard/session-types) - Implementation of session types for Rust.
 - [binread](https://github.com/jam1garner/binread) - Rust crate for helping parse structs from binary data using macro magic.
+- [simdeez](https://github.com/jackmott/simdeez) - Library that abstracts over SIMD instruction sets, including ones with differing widths.
+- [SIMDNoise](https://github.com/jackmott/rust-simd-noise) - Super fast SIMD noise library for Rust.
 
 ## Cargo Plugins
 

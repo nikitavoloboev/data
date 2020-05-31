@@ -210,6 +210,7 @@
 - [Swift Numerics](https://github.com/apple/swift-numerics) - Provides a set of modules that support numerical computing in Swift. ([Article](https://swift.org/blog/numerics/)) ([HN](https://news.ycombinator.com/item?id=21477490))
 - [AtomicKit](https://github.com/macmade/AtomicKit) - Concurrency made simple in Swift.
 - [ConsoleKit](https://github.com/vapor/console-kit) - APIs for creating interactive CLI tools.
+- [Rainbow](https://github.com/onevcat/Rainbow) - Delightful console output for Swift developers.
 - [Ink](https://github.com/JohnSundell/Ink) - Fast and flexible Markdown parser written in Swift.
 - [SwiftPlot](https://github.com/KarthikRIyer/swiftplot) - Swift library for Data Visualization.
 - [AsyncHTTPClient](https://github.com/swift-server/async-http-client) - HTTP client library built on SwiftNIO.
@@ -351,6 +352,7 @@
 - [SwiftGit2](https://github.com/SwiftGit2/SwiftGit2) - Swift bindings to libgit2.
 - [PythonKit](https://github.com/pvieito/PythonKit) - Swift framework to interact with Python.
 - [LoggerKit](https://github.com/pvieito/LoggerKit) - Swift framework to log messages in a colorful and clear way.
+- [InterposeKit](https://github.com/steipete/InterposeKit) - Modern library to swizzle elegantly in Swift.
 
 ## Other (not lib)
 

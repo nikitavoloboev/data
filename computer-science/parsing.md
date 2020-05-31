@@ -20,3 +20,4 @@
 - [Reasoning About Recursive Tree Traversals (2019)](https://arxiv.org/pdf/1910.09521.pdf)
 - [unist](https://github.com/syntax-tree/unist) - Specification for syntax trees.
 - [Essentials of Parsing (2020)](https://www.youtube.com/playlist?list=PLGNbPb3dQJ_6aPNnlBvXGyNMlDtNTqN5I)
+- [Port of Rob Pike's Go lexer to Rust](https://github.com/jackmott/rust-lexer)
