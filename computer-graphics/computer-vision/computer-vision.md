@@ -66,3 +66,4 @@
 - [DE⫶TR: End-to-End Object Detection with Transformers](https://github.com/facebookresearch/detr)
 - [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://github.com/shunsukesaito/PIFu)
 - [Tracking Objects as Points](https://github.com/xingyizhou/CenterTrack)
+- [VIBE](https://github.com/mkocabas/VIBE) - Video Inference for Human Body Pose and Shape Estimation.
