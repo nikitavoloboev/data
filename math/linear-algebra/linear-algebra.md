@@ -24,3 +24,4 @@
 - [GraphBLAST](https://github.com/gunrock/graphblast) - High-Performance Linear Algebra-based Graph Primitives on GPUs.
 - [Graph BLAS](http://graphblas.org/index.php?title=Graph_BLAS_Forum) - Graph algorithms in the language of linear algebra. ([HN](https://news.ycombinator.com/item?id=23285845))
 - [Cotila](https://github.com/calebzulawski/cotila) - Compile-time linear algebra system for C++.
+- [BLIS](https://github.com/flame/blis) - Portable software framework for instantiating high-performance BLAS-like dense linear algebra libraries.

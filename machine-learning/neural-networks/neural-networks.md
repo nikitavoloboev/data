@@ -115,3 +115,4 @@
 - [Convolutional Neural Networks in One Dimension](https://end-to-end-machine-learning.teachable.com/p/321-convolutional-neural-networks)
 - [Neural Network Pruning (2020)](https://nathanhubens.github.io/posts/deep%20learning/2020/05/22/pruning.html)
 - [Hyperbolic RNN in PyTorch](https://github.com/ferrine/hyrnn)
+- [deeplearn-rs](https://github.com/tedsta/deeplearn-rs) - Deep learning in Rust.

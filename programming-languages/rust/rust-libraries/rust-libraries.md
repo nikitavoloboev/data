@@ -396,6 +396,7 @@
 - [Kuchiki](https://github.com/kuchiki-rs/kuchiki) - HTML/XML tree manipulation library for Rust.
 - [Deku](https://github.com/sharksforarms/deku) - Declarative binary reading and writing.
 - [Session Types](https://github.com/Munksgaard/session-types) - Implementation of session types for Rust.
+- [binread](https://github.com/jam1garner/binread) - Rust crate for helping parse structs from binary data using macro magic.
 
 ## Cargo Plugins
 
