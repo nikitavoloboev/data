@@ -17,3 +17,4 @@
 - [An introduction to virtual memory (2020)](https://www.internalpointers.com/post/introduction-virtual-memory) ([HN](https://news.ycombinator.com/item?id=23096747))
 - [Visualizing memory management in Rust (2020)](https://deepu.tech/memory-management-in-rust/)
 - [Memory Allocators 101 - Write a simple memory allocator (2015)](https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory)
+- [gperftools](https://github.com/gperftools/gperftools) - Collection of a high-performance multi-threaded malloc() implementation, plus some pretty nifty performance analysis tools.

@@ -42,3 +42,4 @@
 - [Interactive bioimage analysis with Python and Jupyter (2020)](https://www.youtube.com/watch?v=Y3pB3wnOivE)
 - [Biomedical Applications of Electrical Stimulation (2020)](https://pubmed.ncbi.nlm.nih.gov/31974658/)
 - [a16z invested bio companies](https://twitter.com/vijaypande/status/1265727854836211713)
+- [MultiQC](https://multiqc.info/) - Searches a given directory for analysis logs and compiles a HTML report. ([Code](https://github.com/ewels/MultiQC))

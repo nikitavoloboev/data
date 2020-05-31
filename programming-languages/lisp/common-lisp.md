@@ -13,3 +13,5 @@
 - [Restarts in Common Lisp (2020)](https://sulami.github.io/posts/common-lisp-restarts/) ([HN](https://news.ycombinator.com/item?id=22747932))
 - [Valtan](https://github.com/cxxxr/valtan) - Common Lisp to JavaScript compiler. ([HN](https://news.ycombinator.com/item?id=22769346))
 - [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp)
+- [ergolib](https://github.com/rongarret/ergolib) - Library designed to make programming in Common Lisp easier.
+- [Complete Idiot’s Guide to Common Lisp Packages (2003)](http://www.flownet.com/ron/packages.pdf)

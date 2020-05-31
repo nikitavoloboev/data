@@ -30,3 +30,4 @@ Is logical theory of computable functions.
 - [Higher-order Logic and Equality (2020)](https://blog.burakemir.ch/2020/04/higher-order-logic-and-equality.html) ([HN](https://news.ycombinator.com/item?id=22767509))
 - [λ-calculus ocaml library](https://github.com/dakk/lambda)
 - [Simply typed lambda calculus (2020)](https://splintah.gitlab.io/posts/2020-05-24-Simply-typed-lambda.html)
+- [The Awesome Power of Theory: Explorations in the untyped lambda calculus (2014)](http://www.flownet.com/ron/lambda-calculus.html)
