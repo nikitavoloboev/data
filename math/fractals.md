@@ -26,3 +26,5 @@
 - [Understanding the Mandelbrot Fractal (2018)](https://explore.paulbutler.org/fractal/)
 - [Drawing the Sierpiński Triangle with Recursive SQL and SVG (2020)](https://excessivelyadequate.com/posts/sierpinksy.html)
 - [Introduction to Newton Fractals (2016)](https://ryhl.io/blog/newton-intro/)
+- [L-System](https://anvaka.github.io/lsystem/) - Simple L-Systems explorer powered by WebGL. ([Code](https://github.com/anvaka/lsystem))
+- [L-System manual](http://paulbourke.net/fractals/lsys/)

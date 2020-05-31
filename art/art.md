@@ -71,6 +71,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Robert Beatty](https://www.robertbeattyart.com/)
 - [Svetlana Dmitrieva](https://www.artstation.com/mayadim1926)
 - [Katherine Lam](https://www.behance.net/katherinelam)
+- [Guy Warley](https://www.guywarley.com/)
 - [Lee Madgwick](https://leemadgwick.co.uk/portfolio/)
 - [Ben Ridgway](https://www.samwoolfe.com/2018/06/the-visionary-art-of-ben-ridgway.html) - DMT inspired.
 - [Oleksij Luchnikov](https://www.artstation.com/luchnikov)
@@ -109,6 +110,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Wenyi Geng](http://www.wenyigeng.com/)
 - [Stefan Morrell](https://www.artstation.com/stefan_morrell)
 - [Colin Prahl](http://www.colinprahl.com/)
+- [Raphael Lacoste](https://gumroad.com/raphaellacoste)
 - [Cristian Eres](https://www.cristianeres.com/) - Sci-Fi artist & Illustrator.
 - [Roman Muradov](https://www.bluebed.net/)
 - [Gregory Crewdson](https://www.instagram.com/crewdsonstudio/)

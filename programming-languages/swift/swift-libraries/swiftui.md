@@ -58,3 +58,4 @@
 - [Preview SwiftUI layouts using Emacs org blocks (2020)](http://xenodium.com/swiftui-layout-previews-using-emacs-org-blocks/)
 - [Getting the most out of Xcode Previews for SwiftUI (2020)](https://www.swiftbysundell.com/articles/getting-the-most-out-of-xcode-previews/)
 - [Recreate](https://recreatecode.substack.com/) - Video series about recreating popular UI with SwiftUI.
+- [Understanding Property Wrappers in SwiftUI (2019)](https://swiftwithmajid.com/2019/06/12/understanding-property-wrappers-in-swiftui/)
