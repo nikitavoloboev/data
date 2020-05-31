@@ -42,3 +42,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Why does Swift by Sundell not use any client-side JavaScript? (2020)](https://www.swiftbysundell.com/special/javascript-free/)
 - [Getting Started with Azure Static Web Apps (2020)](https://blog.codewithdan.com/getting-started-with-azure-static-web-apps/)
 - [StaticGen](https://www.staticgen.com/) - List of Static Site Generators for Jamstack Sites. ([Code](https://github.com/netlify/staticgen))
+- [serve](https://github.com/vercel/serve) - Static file serving and directory listing.
