@@ -18,6 +18,7 @@
 - [Code Golf](https://code-golf.io/) ([Code](https://github.com/code-golf/code-golf))
 - [Coding Problems](https://github.com/MTrajK/coding-problems) - Solutions for various coding/algorithmic problems and many useful resources for learning algorithms and data structures.
 - [Synacor Challenge](https://challenge.synacor.com/)
+- [Online Judge](https://onlinejudge.org/) ([Code](https://github.com/TheOnlineJudge/ojudge))
 
 ## LeetCode solutions
 

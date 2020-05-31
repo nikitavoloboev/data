@@ -25,3 +25,4 @@
 - [Game of Life on Metal (2020)](https://cutting.io/posts/game-of-life-on-metal/) ([Code](https://github.com/dcutting/GameOfLifeOnMetal))
 - [Tock](https://github.com/ND-CSE-30151/tock) - Theory Of Computing toolKit. Can simulate the automata taught in standard theory of computation courses.
 - [Game of Life Web](https://herebeseaswines.net/game-of-life/)
+- [Accretor Cellular Automata (2018)](https://softologyblog.wordpress.com/2018/01/12/accretor-cellular-automata/)
