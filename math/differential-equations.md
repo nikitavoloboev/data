@@ -8,3 +8,6 @@
 - [torchdyn](https://github.com/DiffEqML/torchdyn) - PyTorch based library for all things neural differential equations.
 - [Neural Controlled Differential Equations for Irregular Time Series](https://github.com/patrick-kidger/NeuralCDE)
 - [Differential Forms and Integration (2008)](https://www.math.ucla.edu/~tao/preprints/forms.pdf) ([HN](https://news.ycombinator.com/item?id=23269351))
+- [MIT Differential Equations course (2020)](https://math.mit.edu/~dyatlov/18.03/)
+- [MIT Linear Partial Differential Equations: Analysis and Numerics (2016)](https://github.com/mitmath/18303/tree/fall16)
+- [MIT Numerical Methods for Partial Differential Equations (2006)](http://math.mit.edu/~stevenj/18.336/)

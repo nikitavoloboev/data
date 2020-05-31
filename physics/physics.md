@@ -86,3 +86,5 @@
 - [Leonard Susskind lecture series](https://www.youtube.com/playlist?list=PLa1wke5CmQTSmrkhJwlzH5uzRd4fRLOiz)
 - [What happens when photons collide? (2020)](https://www.reddit.com/r/askscience/comments/gshi9g/what_happens_when_photons_collide/)
 - [Mapping the Multiverse (2020)](https://www.youtube.com/watch?v=4v9A9hQUcBQ)
+- [Photonic Crystals: Periodic Surprises in Electromagnetism](http://ab-initio.mit.edu/photons/tutorial/)
+- [MIT Mathematical Methods in Nanophotonics course notes](https://github.com/mitmath/18369)

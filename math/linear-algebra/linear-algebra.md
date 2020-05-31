@@ -25,3 +25,4 @@
 - [Graph BLAS](http://graphblas.org/index.php?title=Graph_BLAS_Forum) - Graph algorithms in the language of linear algebra. ([HN](https://news.ycombinator.com/item?id=23285845))
 - [Cotila](https://github.com/calebzulawski/cotila) - Compile-time linear algebra system for C++.
 - [BLIS](https://github.com/flame/blis) - Portable software framework for instantiating high-performance BLAS-like dense linear algebra libraries.
+- [MIT Linear Algebra course](https://mitmath.github.io/1806/)
