@@ -31,3 +31,4 @@
 - [Elixir & OTP course](https://pragmaticstudio.com/courses/elixir)
 - [Phoenix LiveView course](https://pragmaticstudio.com/phoenix-liveview)
 - [Ask HN: Who Regrets Choosing Elixir? (2020)](https://news.ycombinator.com/item?id=23283675)
+- [Pelemay](https://github.com/zeam-vm/pelemay) - Native compiler for Elixir, which generates SIMD instructions. It has a plan to generate for GPU code.
