@@ -355,6 +355,7 @@
 - [LoggerKit](https://github.com/pvieito/LoggerKit) - Swift framework to log messages in a colorful and clear way.
 - [InterposeKit](https://github.com/steipete/InterposeKit) - Modern library to swizzle elegantly in Swift.
 - [Decomposed](https://github.com/b3ll/Decomposed) - CATransform3D manipulation made easy.
+- [FSCheckoutSheet](https://github.com/ZeeZide/FSCheckoutSheet) - WKWebView wrapper that handles interaction w/ a FastSpring checkout form.
 
 ## Other (not lib)
 
