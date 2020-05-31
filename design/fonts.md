@@ -86,3 +86,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Adobe Font Development Kit for OpenType (AFDKO)](https://github.com/adobe-type-tools/afdko)
 - [Typography.js](http://kyleamathews.github.io/typography.js/) - Powerful toolkit for building websites with beautiful design.
 - [Awesome Mac OS Catalina fonts you didn’t know you had access to (2020)](https://typography.guru/journal/awesome-catalina-fonts/)
+- [ttf-parser](https://github.com/RazrFalcon/ttf-parser) - High-level, safe, zero-allocation TrueType font parser. Can be used as Rust and as C library.

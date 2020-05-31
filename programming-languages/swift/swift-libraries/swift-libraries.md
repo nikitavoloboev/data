@@ -75,6 +75,7 @@
 - [EmojiPickerUI](https://github.com/insidegui/EmojiPickerUI) - Framework implementing a macOS-style emoji picker for iPadOS.
 - [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - Light-weight UITextView subclass that automatically grows and shrinks.
 - [PyBridge-iOS](https://github.com/joaoventura/pybridge-ios) - Reuse Python code in native iOS applications.
+- [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
 
 ## macOS
 
@@ -353,6 +354,7 @@
 - [PythonKit](https://github.com/pvieito/PythonKit) - Swift framework to interact with Python.
 - [LoggerKit](https://github.com/pvieito/LoggerKit) - Swift framework to log messages in a colorful and clear way.
 - [InterposeKit](https://github.com/steipete/InterposeKit) - Modern library to swizzle elegantly in Swift.
+- [Decomposed](https://github.com/b3ll/Decomposed) - CATransform3D manipulation made easy.
 
 ## Other (not lib)
 

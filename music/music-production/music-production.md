@@ -67,3 +67,4 @@
 - [How To Make A - Legowelt - Track](https://www.youtube.com/watch?v=TGCxBVu1-sE)
 - [AudioMass](https://audiomass.co/) - Free, open source, web-based Audio and Waveform editor. ([HN](https://news.ycombinator.com/item?id=23337091))
 - [Ask HN: I'd like to learn vocals, any suggestion on how I can do this? (2020)](https://news.ycombinator.com/item?id=23359096)
+- [Making Music with Haskell From Scratch (2020)](https://www.youtube.com/watch?v=FYTZkE5BZ-0) ([Code](https://github.com/tsoding/haskell-music))
