@@ -119,4 +119,4 @@
 - [sudo_pair](https://github.com/square/sudo_pair) - Plugin for sudo that requires another human to approve and monitor privileged sudo sessions.
 - [TuxURLs](https://tuxurls.com/) - Simplest Linux news aggregator.
 - [Linux Security Hardening and Other Tweaks (2020)](https://vez.mrsk.me/linux-hardening.html)
-- [Main Linux problems on the desktop (2020 edition)](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html) ([Lobsters](https://lobste.rs/s/hjigep/main_linux_problems_on_desktop_2020))
+- [Main Linux problems on the desktop (2020 edition)](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html) ([Lobsters](https://lobste.rs/s/hjigep/main_linux_problems_on_desktop_2020)) ([HN](https://news.ycombinator.com/item?id=23368115))

@@ -30,7 +30,7 @@
 - [Swift](https://github.com/soapyigu/LeetCode-Swift)
 - [Swift 2](https://github.com/rudrankriyam/LeetCode-in-Swift)
 - [TypeScript](https://github.com/enricopolanski/leetcode)
-- [Solve LeetCode problems in VS Code](https://github.com/jdneo/vscode-leetcode)
+- [Solve LeetCode problems in VS Code](https://github.com/LeetCode-OpenSource/vscode-leetcode)
 
 ## Project Euler solutions
 

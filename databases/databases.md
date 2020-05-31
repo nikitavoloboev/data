@@ -4,7 +4,9 @@
 
 - [Mentat](https://github.com/mozilla/mentat) - Persistent, relational store inspired by Datomic and DataScript.
 - [RocksDB](https://github.com/facebook/rocksdb) - Persistent Key-Value Store for Flash and RAM Storage.
-- [goleveldb](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
+- [LevelDB](https://github.com/google/leveldb) - Fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [GoLevelDB](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
+- [NodeLevelDB](https://github.com/Level/level) - Fast & simple storage. A Node.js-style LevelDB wrapper for Node.js, Electron and browsers. ([Awesome](https://github.com/Level/awesome#readme))
 - [TiDB](https://github.com/pingcap/tidb) - Distributed HTAP database compatible with the MySQL protocol.
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB.
   - [pd](https://github.com/pingcap/pd) - Placement driver for TiKV.
@@ -19,7 +21,6 @@
 - [Cassandra](https://github.com/apache/cassandra) - Highly-scalable partitioned row store. Rows are organized into tables with a required primary key.
 - [Scylla](https://www.scylladb.com/) - Drop-in Apache Cassandra alternative big data database that powers your applications with ultra-low latency and extremely high throughput, while reducing TCO to a fraction of most NoSQL databases. [OSS](https://github.com/scylladb/scylla).
 - [JanusGraph](https://github.com/JanusGraph/janusgraph) - Open-source, distributed graph database.
-- [LevelDB](https://github.com/google/leveldb) - Fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [DuckDB](https://github.com/cwida/duckdb) - Embeddable SQL OLAP Database Management System.
 - [sled](https://github.com/spacejam/sled) - Modern embedded database.
 - [Genji](https://github.com/asdine/genji) - Multi engine embedded database.

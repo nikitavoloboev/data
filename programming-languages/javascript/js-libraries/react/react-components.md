@@ -99,6 +99,7 @@
 - [windups](https://github.com/sgwilym/windups) - Typewriter effect library for React. ([Web](https://windups.gwil.co/))
 - [React Shimmer](https://github.com/gokcan/react-shimmer) - Async loading, performant Image component for React.js.
 - [react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - Drop-in replacement for the textarea component which automatically resizes textarea as content changes.
+- [Caldera](https://github.com/calderajs/caldera-react) - Server-side execution environment for React.
 
 ## Links
 
