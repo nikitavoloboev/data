@@ -20,3 +20,4 @@
 - [We Need DevOps for ML Data (2020)](https://tecton.ai/blog/devops-ml-data/) ([HN](https://news.ycombinator.com/item?id=23011297))
 - [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline#readme) - Curated list of awesome pipeline toolkits inspired by Awesome Sysadmin.
 - [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin#readme) - Curated list of awesome open source sysadmin resources.
+- [Using SRE to meet reliability challenges | Google Cloud (2020)](https://cloud.google.com/blog/products/management-tools/meeting-reliability-challenges-with-sre-principles)

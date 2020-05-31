@@ -128,8 +128,9 @@
 - [5 Layers of State Management in React Applications (2020)](https://joelhooks.com/5-layers-react-state)
 - [Throttling Subscription Events in React with Generators (2020)](https://theworst.dev/throttling-subscription-events-in-react-with-generators/)
 - [Complete Guide to React Rendering Behavior (2020)](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/) ([Reddit](https://www.reddit.com/r/reactjs/comments/gkxs7g/a_mostly_complete_guide_to_react_rendering/))
-- [React 2025 course](https://react2025.com/) - Build and deploy a modern Jamstack application using the most popular open-source software.
+- [React 2025 course](https://react2025.com/) - Build and deploy a modern Jamstack application using the most popular open-source software. ([Intro video](https://www.youtube.com/watch?v=MxR5I5_hOKk))
 - [React Bits](https://github.com/vasanthk/react-bits#readme) - Compilation of React Patterns, techniques, tips and tricks.
 - [React Security](https://reactsecurity.io/) - Learn how to properly secure your React app for the real world.
 - [A visual guide to React Mental models (2020)](https://obedparla.com/code/a-visual-guide-to-react-mental-models/) ([HN](https://news.ycombinator.com/item?id=23349160))
 - [What are your must have React tools in 2020?](https://www.reddit.com/r/javascript/comments/gt0bue/askjs_what_are_your_must_have_react_tools_in_2020/)
+- [The rise of React (2020)](https://increment.com/frontend/the-rise-of-react/) ([HN](https://news.ycombinator.com/item?id=23366041))

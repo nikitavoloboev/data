@@ -31,6 +31,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans#r
 
 - [Nikita Prokopov (2018)](https://usesthis.com/interviews/nikita.prokopov/)
 - [stapelberg uses this: my 2020 desk setup](https://michael.stapelberg.ch/posts/2020-05-23-desk-setup/) ([HN](https://news.ycombinator.com/item?id=23282784))
+- [Dan Munro](https://danmunro.com/recommendations/)
 
 ## Links
 
