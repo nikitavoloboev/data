@@ -128,3 +128,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Git Koans (2013)](https://stevelosh.com/blog/2013/04/git-koans/)
 - [Sublime Merge](https://www.sublimemerge.com) - Git Client, done Sublime. Line-by-line Staging. Commit Editing. Unmatched Performance. ([[HN](https://news.ycombinator.com/item?id=23311093)])
 - [GitUI](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in rust.
+- [gitea-release Tool Announcement (2020)](https://christine.website/blog/gitea-release-tool-2020-05-31)

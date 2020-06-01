@@ -98,3 +98,5 @@ I publish most of my work and make it open source for other people to use and re
 - [GitHub Subscriber](https://gitsub.easydev.space/) - Follow github users. ([Code](https://github.com/rpolonsky/gitsub))
 - [GitHub repos scraper](https://github.com/henson/Scraper) - Tracking the most popular Github repos, updated daily.
 - [Sponsors API](https://github.com/tj/sponsors-api) - GitHub Sponsor avatar listings in your Readme.
+- [github-release](https://github.com/github-release/github-release) - Small commandline app written in Go that allows you to easily create and delete releases of your projects on Github.
+- [Site Policy on GitHub](https://help.github.com/en/github/site-policy) ([Code](https://github.com/github/site-policy))
