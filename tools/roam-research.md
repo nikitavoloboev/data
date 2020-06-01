@@ -24,3 +24,5 @@
 - [Gatsby And Roam Research](https://github.com/mathieudutour/gatsby-n-roamresearch) - Pull data into Gatsby from Roam Research.
 - [Roam Brain](https://www.roambrain.com/) - Information hub for Roam Research.
 - [Paint Your Roam with Custom CSS (2020)](https://maggieappleton.com/paintingroam)
+- [Static-Roam](https://github.com/TomLisankie/static-roam) - Static-site generator for Roam Research.
+- [Roam Research Tour with Maggie Appleton - Evergreen Notes and Digital Gardens (2020)](https://www.youtube.com/watch?v=RXXXHN516qc)

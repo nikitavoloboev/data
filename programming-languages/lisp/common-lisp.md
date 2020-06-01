@@ -15,3 +15,4 @@
 - [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp)
 - [ergolib](https://github.com/rongarret/ergolib) - Library designed to make programming in Common Lisp easier.
 - [Complete Idiot’s Guide to Common Lisp Packages (2003)](http://www.flownet.com/ron/packages.pdf)
+- [Learn Common Lisp in one month intervals](https://github.com/TomLisankie/Learning-Lisp)
