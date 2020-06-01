@@ -14,3 +14,4 @@
 - [Chatting with Glue](http://a9.io/glue-comic/) - Cognitive tools for augmented conversation.
 - [Different types of 1:1 conversations visualized](https://twitter.com/thisisneer/status/1264537589031165952)
 - [Centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in language-agnostic way.
+- [White Guyde To The Galaxy](https://tatianamac.com/posts/white-guyde/) - How to make meaningful change.

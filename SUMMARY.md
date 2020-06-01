@@ -809,3 +809,4 @@
     - [2020 February](looking-back/2020/2020-february.md)
     - [2020 March](looking-back/2020/2020-march.md)
     - [2020 April](looking-back/2020/2020-april.md)
+    - [2020 May](looking-back/2020/2020-may.md)

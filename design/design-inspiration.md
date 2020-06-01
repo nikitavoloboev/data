@@ -126,6 +126,7 @@ Here are few more things I liked, design wise.
 - [Zackary Scholl](https://schollz.com/blog/)
 - [Mackenzie Child](https://www.mackenziechild.me/)
 - [Serge Zaitsev](https://zserge.com/)
+- [Wilhelm Klopp](https://wilhelmklopp.com/)
 - [Shihab Mehboob](https://www.pnguin.app/)
 - [Heydon Pickering](https://heydonworks.com/)
 - [Lisi Linhart](https://lisilinhart.info/)

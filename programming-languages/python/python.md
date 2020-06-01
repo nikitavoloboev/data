@@ -109,3 +109,4 @@
 - [Practical Python Programming course](https://github.com/dabeaz-course/practical-python)
 - [Milksnake](https://github.com/getsentry/milksnake) - Extension for setuptools that allows you to distribute dynamic linked libraries in Python wheels in the most portable way imaginable.
 - [Replacing Bash Scripting with Python](https://github.com/ninjaaron/replacing-bash-scripting-with-python#readme)
+- [Overview of Python Dependency Management (2020)](https://modelpredict.com/python-dependency-management-tools) ([HN](https://news.ycombinator.com/item?id=23380113))

@@ -21,3 +21,4 @@
 - [unist](https://github.com/syntax-tree/unist) - Specification for syntax trees.
 - [Essentials of Parsing (2020)](https://www.youtube.com/playlist?list=PLGNbPb3dQJ_6aPNnlBvXGyNMlDtNTqN5I)
 - [Port of Rob Pike's Go lexer to Rust](https://github.com/jackmott/rust-lexer)
+- [nearley](https://github.com/kach/nearley) - Streaming parser with support for catching errors gracefully and providing all parsings for ambiguous grammars.
