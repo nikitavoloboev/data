@@ -233,3 +233,4 @@
 - [Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning](https://github.com/ruqizhang/csgmcmc)
 - [Awesome Interpretable Machine Learning](https://github.com/lopusz/awesome-interpretable-machine-learning#readme)
 - [DLPack: Open In Memory Tensor Structure](https://github.com/dmlc/dlpack)
+- [SVM tutorial](https://www.svm-tutorial.com/) ([HN](https://news.ycombinator.com/item?id=23368246))
