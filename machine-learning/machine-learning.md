@@ -234,3 +234,4 @@
 - [Awesome Interpretable Machine Learning](https://github.com/lopusz/awesome-interpretable-machine-learning#readme)
 - [DLPack: Open In Memory Tensor Structure](https://github.com/dmlc/dlpack)
 - [SVM tutorial](https://www.svm-tutorial.com/) ([HN](https://news.ycombinator.com/item?id=23368246))
+- [DeepMind x UCL | Deep Learning Lecture Series (2020)](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
