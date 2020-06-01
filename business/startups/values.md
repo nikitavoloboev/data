@@ -27,4 +27,4 @@
 - [Key Values](https://www.keyvalues.com/) - Find engineering teams that share your values.
 - [What Are the React Team Principles? (2019)](https://overreacted.io/what-are-the-react-team-principles/) ([HN](https://news.ycombinator.com/item?id=21878713))
 - [Cultural Fit](https://cultural.fit/) - Collaborative list of corporate culture traits.
-- [A Hierarchy of Engineering Values](https://www.duncanmcisaac.com/a-hierarchy-of-engineering-values/)
+- [A Hierarchy of Engineering Values](https://www.duncanmcisaac.com/a-hierarchy-of-engineering-values/) ([HN](https://news.ycombinator.com/item?id=23373807))

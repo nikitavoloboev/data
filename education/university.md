@@ -88,3 +88,4 @@ There are many more things that simply would not happen if I didn't try new thin
 - [CODE](https://code.berlin/en/) - Newly founded private university of applied sciences that is embedded into the vibrant network of Berlin’s digital economy.
 - [List of all universities in the world in CSV](https://github.com/endSly/world-universities-csv)
 - [HN: A twenty-year professor on starting college this fall: Don’t (2020)](https://news.ycombinator.com/item?id=22916869)
+- [Do I Need to Go to University? (2020)](http://colah.github.io/posts/2020-05-University/) ([HN](https://news.ycombinator.com/item?id=23376523))

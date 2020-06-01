@@ -10,3 +10,4 @@
 
 - ["New Eyes" on the Tibetan Book of the Dead: What Happens After You Die? (2017)](https://www.youtube.com/watch?v=hBl5v2WGqrI)
 - [Mind in Indian Buddhist Philosophy](https://plato.stanford.edu/entries/mind-indian-buddhism/)
+- [Getting interested in secular Buddhism. Where should I start? (2020)](https://www.reddit.com/r/secularbuddhism/comments/gsidjf/getting_interested_in_secular_buddhism_where/)
