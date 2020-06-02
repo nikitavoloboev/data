@@ -41,7 +41,7 @@
 - [CIRCL](https://github.com/cloudflare/circl) - Cloudflare Interoperable Reusable Cryptographic Library.
 - [cosign](https://github.com/osresearch/cosign) - Cooperative RSA signatures.
 - [Practical Cryptography for Developers book](https://cryptobook.nakov.com/) ([Code](https://github.com/nakov/Practical-Cryptography-for-Developers-Book))
-- [Cryptopals](https://cryptopals.com/) - Collection of 48 exercises that demonstrate attacks on real-world crypto.
+- [Cryptopals](https://cryptopals.com/) - Collection of 48 exercises that demonstrate attacks on real-world crypto. ([Solutions in Go](https://github.com/0xfe/cryptopals))
 - [Intuitive Advanced Cryptography](https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf)
 - [Intuitive Understanding of Quantum Computation and Post-Quantum Cryptography](https://github.com/cryptosubtlety/postquantumcrypto)
 - [Cofactor Explained: Clearing Elliptic Curves' dirty little secret (2020)](http://loup-vaillant.fr/tutorials/cofactor)
@@ -57,3 +57,4 @@
 - [Ask HN: Keybase Alternatives? (2020)](https://news.ycombinator.com/item?id=23103386)
 - [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources#readme)
 - [Basic Intro To Elliptic Curve Cryptography (2019)](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/) ([HN](https://news.ycombinator.com/item?id=23370009))
+- [How Not to Learn Cryptography (2014)](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/)

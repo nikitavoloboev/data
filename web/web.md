@@ -98,3 +98,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Rediscovering the Small Web (2020)](https://neustadt.fr/essays/the-small-web/) ([HN](https://news.ycombinator.com/item?id=23326329))
 - [Snowpack 2.0 (2020)](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/) ([HN](https://news.ycombinator.com/item?id=23331099))
 - [CState](https://github.com/cstate/cstate) - Open-source Hugo powered status page. ([HN](https://news.ycombinator.com/item?id=23361263))
+- [Some of my favorite projects brought to by The Open Web](https://bilge.world/open)

@@ -41,6 +41,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Orb.Farm](https://orb.farm/) - Sealed aquatic ecosystem. ([Code](https://github.com/MaxBittker/orb.farm)) ([Lobsters](https://lobste.rs/s/8d3bfo/orb_farm_virtual_aquatic_ecosystem))
 - [Asteroids](https://justinmimbs.github.io/rs-asteroids/) - Variation on the game Asteroids, written in Rust. ([Code](https://github.com/justinmimbs/rs-asteroids))
 - [Games by David Evans](http://www.davidevansgames.com/)
+- [Command and Conquer: Tiberian Dawn & Red Alert](https://github.com/electronicarts/CnC_Remastered_Collection/) - Released Under GPL3. ([HN](https://news.ycombinator.com/item?id=23249964))
 
 ## Recommendations
 
