@@ -37,3 +37,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LatexCSS](https://davidrzs.github.io/latexcss/) - Nearly Classless CSS file to give html a latex-like look. ([Code](https://github.com/davidrzs/latexcss))
 - [Have you ever asked yourself “how did research get done before LateX?” (2020)](https://threadreaderapp.com/thread/1262489387767480322.html) ([HN](https://news.ycombinator.com/item?id=23338742))
 - [LaTeX.js](https://github.com/michael-brade/LaTeX.js) - LaTeX to HTML5 translator using a PEG.js parser.
+- [Flexible LaTeX Article Environment](https://github.com/sylvainhalle/PaperShell)

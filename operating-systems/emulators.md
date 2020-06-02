@@ -18,3 +18,4 @@
 - [PyBoy](https://github.com/Baekalfen/PyBoy) - Game Boy emulator written in Python.
 - [SameBoy](https://github.com/LIJI32/SameBoy) - Game Boy and Game Boy Color emulator written in C.
 - [Super Bootable 64 (2020)](https://christine.website/blog/super-bootable-64-2020-05-06) ([Lobsters](https://lobste.rs/s/lmhaaa/super_bootable_64))
+- [Kopycat](https://github.com/inforion/kopycat) - Multi-architecture hardware emulation solution.

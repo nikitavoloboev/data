@@ -44,3 +44,4 @@
 - [modern-ocaml](https://github.com/Khady/modern-ocaml) - Template for an ocaml project with modern tooling.
 - [Unreal world OCaml](https://ocaml-book.baturin.org/) - Introductory book on OCaml. ([Code](https://github.com/dmbaturin/ocaml-book))
 - [OCaml Forum](https://discuss.ocaml.org/)
+- [Multicore OCaml: May 2020 update](https://discuss.ocaml.org/t/multicore-ocaml-may-2020-update/5898) ([HN](https://news.ycombinator.com/item?id=23380370))
