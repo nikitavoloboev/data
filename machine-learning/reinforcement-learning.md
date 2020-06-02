@@ -73,4 +73,4 @@
 - [Reinforcement Learning With TicTacToe](https://github.com/rolyatmax/tictactoe)
 - [Coach](https://github.com/NervanaSystems/coach) - Python reinforcement learning framework containing implementation of many state-of-the-art algorithms.
 - [Reinforcement Learning with Convex Constraints (2019)](https://papers.nips.cc/paper/9556-reinforcement-learning-with-convex-constraints.pdf) ([Code](https://github.com/xkianteb/ApproPO))
-- [Acme: A new framework for distributed reinforcement learning | DeepMind (2020)](https://deepmind.com/research/publications/Acme)
+- [Acme: A new framework for distributed reinforcement learning | DeepMind (2020)](https://deepmind.com/research/publications/Acme) ([Code](https://github.com/deepmind/acme))
