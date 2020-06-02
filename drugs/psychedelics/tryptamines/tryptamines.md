@@ -42,3 +42,4 @@ This article on [tryptamine chemistry](http://www.psychedelicstoday.com/2018/01/
 - [Martin Ball describing his 5-meo-dmt practices](https://www.youtube.com/watch?v=PQctOMSmBuk) - Amazing talk.
 - [5-MeO-DMT Reports](https://erowid.org/experiences/subs/exp_5MeODMT.shtml)
 - [Elevate Symposium Zurich June 10th 2018 Panel Discussion](https://www.youtube.com/watch?v=HkywHPPyHUQ)
+- [New Biosynthesis of Psilocybin and Related Tryptamines (2020)](https://psychedelicreview.com/scientists-bioengineer-s-cerevisiae-to-produce-psilocybin-and-related-tryptamines/) ([Reddit](https://www.reddit.com/r/RationalPsychonaut/comments/gsll79/psilocybin_4acodmt_and_other_tryptamines_produced/))
