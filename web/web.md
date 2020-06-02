@@ -99,3 +99,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Snowpack 2.0 (2020)](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/) ([HN](https://news.ycombinator.com/item?id=23331099))
 - [CState](https://github.com/cstate/cstate) - Open-source Hugo powered status page. ([HN](https://news.ycombinator.com/item?id=23361263))
 - [Some of my favorite projects brought to by The Open Web](https://bilge.world/open)
+- [Google Is Not God of The Web (2020)](https://bilge.world/google-page-experience) ([HN](https://news.ycombinator.com/item?id=23383548))

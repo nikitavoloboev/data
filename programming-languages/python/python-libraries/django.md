@@ -9,3 +9,4 @@
 - [Viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django.
 - [cookiecutter-django-rest](https://github.com/agconti/cookiecutter-django-rest) - Build best practiced apis fast with Python3.
 - [rules](https://github.com/dfunckt/django-rules) - Awesome Django authorization, without the database.
+- [Django REST framework](https://github.com/encode/django-rest-framework) - Awesome web-browsable Web APIs.
