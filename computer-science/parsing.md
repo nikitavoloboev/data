@@ -22,3 +22,4 @@
 - [Essentials of Parsing (2020)](https://www.youtube.com/playlist?list=PLGNbPb3dQJ_6aPNnlBvXGyNMlDtNTqN5I)
 - [Port of Rob Pike's Go lexer to Rust](https://github.com/jackmott/rust-lexer)
 - [nearley](https://github.com/kach/nearley) - Streaming parser with support for catching errors gracefully and providing all parsings for ambiguous grammars.
+- [SwiftSoup](https://github.com/scinfu/SwiftSoup) - Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS).

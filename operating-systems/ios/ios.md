@@ -42,6 +42,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Onion Browser](https://github.com/OnionBrowser/OnionBrowser) - Open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network.
 - [Memories](https://github.com/mluisbrown/Memories) - iOS app that displays photos from your photo library taken on a particular day in history.
 - [StopTouchingYourFace](https://github.com/nerdsupremacist/StopTouchingYourFace) - SwiftUI App that alerts you when you have touched your face.
+- [Say Their Name](https://github.com/Say-Their-Name/ios)
 
 ## Notes
 

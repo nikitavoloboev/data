@@ -224,3 +224,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Simplifier](https://simplifier.neocities.org/) ([HN](https://news.ycombinator.com/item?id=23351488))
 - [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - Tool for anonymizing photographs taken at protests. ([Code](https://github.com/everestpipkin/image-scrubber))
 - [The aesthetics of science fiction spaceship design (2010)](https://uwspace.uwaterloo.ca/handle/10012/4935) ([HN](https://news.ycombinator.com/item?id=23379831))
+- [WiFi Card](https://wifi.dev.bdw.to/) - Print a QR code for connecting to your WiFi. ([Code](https://github.com/bndw/wifi-card))

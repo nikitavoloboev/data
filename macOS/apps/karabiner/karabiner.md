@@ -46,3 +46,4 @@ I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob
 - [Karabiner DriverKit VirtualHIDDevice](https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice)
 - [Optimize Your Keyboard (2020)](https://www.pscp.tv/w/1vOxworogovxB)
 - [Custom Key Bindings with Karabiner (2020)](https://zacjones.io/custom-key-bindings)
+- [Master of keyboard is master of automation (Key remapper implementation in Swift)](https://github.com/creasty/Keyboard)
