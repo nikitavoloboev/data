@@ -4,6 +4,7 @@
 
 - [Godot](https://github.com/godotengine/godot)
 - [Love](https://love2d.org) ([Code](https://github.com/love2d/love))
+- [3DreamEngine](https://github.com/3dreamengine/3DreamEngine) - Awesome 3d engine for LÖVE.
 - [ggez](https://github.com/ggez/ggez)
 - [Amethyst](https://github.com/amethyst/amethyst)
 - [Open Source Game Engine for Turn-Based Games](https://github.com/nicolodavis/boardgame.io)

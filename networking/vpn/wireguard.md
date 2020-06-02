@@ -19,3 +19,4 @@
 - [Subspace](https://github.com/subspacecommunity/subspace) - Simple WireGuard VPN server GUI. ([HN](https://news.ycombinator.com/item?id=23243248))
 - [wgcf](https://github.com/ViRb3/wgcf) - Generate WireGuard profile from Cloudflare Warp account.
 - [Success Wireguard stories?](https://www.reddit.com/r/WireGuard/comments/gqmnjq/success_stories/)
+- [wireguard-rs](https://github.com/WireGuard/wireguard-rs) - Rust Implementation of WireGuard.

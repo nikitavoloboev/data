@@ -178,3 +178,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [How to Jailbreak iOS 13.5 and Best Tweaks for 2020](https://www.youtube.com/watch?v=VKHFFm5ggvA)
 - [List of nice jailbreak packages (2020)](https://twitter.com/rjonesy/status/1265833215312437249)
 - [What are tools experienced ios developers know that new developers don't know? (2020)](https://www.reddit.com/r/iOSProgramming/comments/gv51yk/what_are_tools_experienced_ios_developers_know/)
+- [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - iOS library providing developer tools for browsing objects in memory over time.

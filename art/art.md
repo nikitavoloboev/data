@@ -107,6 +107,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Sylvia Ritter](https://www.sylvia-ritter.com/)
 - [George Bletsis](http://www.monstertree.co.uk/)
 - [Mark Rothko](https://www.artsy.net/artist/mark-rothko)
+- [Fran Rodríguez](https://www.instagram.com/lacabezaenlasnubes/)
 - [Sage Jenson](https://sagejenson.com) - Generative art.
 - [Wenyi Geng](http://www.wenyigeng.com/)
 - [Stefan Morrell](https://www.artstation.com/stefan_morrell)

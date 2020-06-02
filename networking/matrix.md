@@ -38,3 +38,4 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [Maelstrom](https://github.com/maelstrom-rs/maelstrom) - High performance Matrix Home Server in rust.
 - [Matrix iOS SDK](https://github.com/matrix-org/matrix-ios-sdk)
 - [Conduit](https://git.koesters.xyz/timo/conduit) - Matrix homeserver written in Rust.
+- [Introducing P2P Matrix (2020)](https://matrix.org/blog/2020/06/02/introducing-p-2-p-matrix)
