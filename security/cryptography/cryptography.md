@@ -58,3 +58,4 @@
 - [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources#readme)
 - [Basic Intro To Elliptic Curve Cryptography (2019)](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/) ([HN](https://news.ycombinator.com/item?id=23370009))
 - [How Not to Learn Cryptography (2014)](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/) ([HN](https://news.ycombinator.com/item?id=23384227))
+- [Encrypted Systems Lab](http://esl.cs.brown.edu/) - Research lab in the Computer Science Department at Brown University.

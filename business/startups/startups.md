@@ -161,6 +161,7 @@
 - [Nobody talks about failure in Silicon Valley, yet 90% of startups fail. Story about failed startup (2020)](https://twitter.com/gaganbiyani/status/1265755248922157066)
 - [I wrote a SaaS product because the internet made me believe it'd make me rich (2020)](https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/) ([HN](https://news.ycombinator.com/item?id=23343794))
 - [What is Aggregation Theory?](https://stratechery.com/aggregation-theory/)
+- [Maciej Ceglowski - Barely succeed! It's easier! (2013)](https://www.youtube.com/watch?v=5Vt8zqhHe_c)
 
 ## Images
 

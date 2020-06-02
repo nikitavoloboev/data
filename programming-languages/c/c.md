@@ -48,3 +48,4 @@
 - [Implementing simple cooperative threads in C (2020)](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/) ([HN](https://news.ycombinator.com/item?id=23293642))
 - [c2go](https://github.com/elliotchance/c2go) - Tool for transpiling C to Go.
 - [cpkg](https://github.com/vmchale/cpkg) - Build tool for C with a particular emphasis on cross compilation. It is configured using Dhall.
+- [C Internals](http://www.avabodh.com/cin/cin.html)
