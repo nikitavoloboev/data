@@ -177,3 +177,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Mastering view controller transitions, part 1: Make them reusable (2020)](https://danielgauthier.me/2020/02/24/indie5-1.html)
 - [How to Jailbreak iOS 13.5 and Best Tweaks for 2020](https://www.youtube.com/watch?v=VKHFFm5ggvA)
 - [List of nice jailbreak packages (2020)](https://twitter.com/rjonesy/status/1265833215312437249)
+- [What are tools experienced ios developers know that new developers don't know? (2020)](https://www.reddit.com/r/iOSProgramming/comments/gv51yk/what_are_tools_experienced_ios_developers_know/)

@@ -56,3 +56,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Email Blueprints](https://templates.mailchimp.com/) - Collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails. ([Code](https://github.com/mailchimp/email-blueprints))
 - [How does the Gmail unsubscribe button work? (2020)](https://blog.leavemealone.app/how-does-the-gmail-unsubscribe-button-work/) ([HN](https://news.ycombinator.com/item?id=23350881))
 - [Email Mastery](https://emailmastery.org/) - Learn Email Marketing.
+- [How to send emails from static websites (2019)](https://medium.com/@WebReflection/how-to-send-emails-from-static-websites-9a34ceb9416c)
