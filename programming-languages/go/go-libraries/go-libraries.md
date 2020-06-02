@@ -426,6 +426,7 @@
 - [subcommands](https://github.com/google/subcommands) - Implements a simple way for a single command to have many subcommands, each of which takes arguments and so forth.
 - [RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language. ([Announcing RxGo v2](https://medium.com/@teivah/introducing-rxgo-v2-e7e369faa99a))
 - [screenshot](https://github.com/kbinani/screenshot) - Go library to capture desktop to image.
+- [cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing.
 
 ## Links
 

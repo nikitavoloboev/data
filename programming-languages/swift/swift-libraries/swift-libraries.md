@@ -76,6 +76,7 @@
 - [RSKGrowingTextView](https://github.com/ruslanskorb/RSKGrowingTextView) - Light-weight UITextView subclass that automatically grows and shrinks.
 - [PyBridge-iOS](https://github.com/joaoventura/pybridge-ios) - Reuse Python code in native iOS applications.
 - [StepperView](https://github.com/badrinathvm/StepperView) - SwiftUI iOS component for Step Indications.
+- [YPImagePickeri](https://github.com/Yummypets/YPImagePicker) - Instagram-like image picker & filters for iOS.
 
 ## macOS
 
