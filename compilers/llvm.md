@@ -39,3 +39,4 @@
 - [KLEE LLVM Execution Engine](https://klee.github.io/) - Symbolic virtual machine built on top of LLVM. ([HN](https://news.ycombinator.com/item?id=23283706))
 - [Anselm](https://github.com/trailofbits/anselm) - Tool that allows you to describe and detect patterns of bad behavior in function calls.
 - [pitchfork](https://github.com/PLSysSec/haybale-pitchfork) - Verifying constant-time code with symbolic execution.
+- [PhASAR](https://github.com/secure-software-engineering/phasar) - LLVM-based Static Analysis Framework. ([Web](https://phasar.org/))
