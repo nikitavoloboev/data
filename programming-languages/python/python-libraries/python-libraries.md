@@ -119,6 +119,7 @@
 - [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling in Python.
 - [mistletoe](https://github.com/miyuchina/mistletoe) - Fast, extensible and spec-compliant Markdown parser in pure Python.
 - [Pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python.
+- [Science Plots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting.
 
 ## Links
 

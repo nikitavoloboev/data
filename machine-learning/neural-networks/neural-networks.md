@@ -99,6 +99,7 @@
 - [Learning DAGs with Continuous Optimization (2020)](https://blog.ml.cmu.edu/2020/04/10/learning-dags-with-continuous-optimization/)
 - [Early Vision (2020)](https://distill.pub/2020/circuits/early-vision/) - Guided tour of the first five layers of InceptionV1, taxonomized into “neuron groups.”.
 - [micrograd](https://github.com/karpathy/micrograd) - Tiny autograd engine and a neural net library on top of it, potentially for educational purposes.
+- [MiniGrad](https://github.com/kennysong/minigrad) - Minimal implementation of reverse-mode automatic differentiation (a.k.a. autograd / backpropagation) in pure Python.
 - [Learning from Small Neural Networks (2020)](https://medium.com/make-computer-science-fun-again/learning-from-small-neural-networks-6bc5ffc2f3d3)
 - [Neural Game Engine](https://github.com/Bam4d/Neural-Game-Engine) - Code to reproduce Neural Game Engine experiments and pre-trained models.
 - [Graph Convolutional Neural Network Approach to Antibiotic Discovery (2020)](https://www.welcometothejungle.com/en/articles/btc-covid19-convolutional-neural-network) ([HN](https://news.ycombinator.com/item?id=22898551))

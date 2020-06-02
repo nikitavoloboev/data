@@ -61,6 +61,7 @@
 - [Atreugo](https://github.com/savsgio/atreugo) - High performance and extensible micro web framework. Zero memory allocations in hot paths.
 - [gearbox](https://github.com/abahmed/gearbox) - Web framework written in Go with a focus on high performance and memory optimization. ([HN](https://news.ycombinator.com/item?id=23131657))
 - [Fault](https://github.com/github/go-fault) - Provides go http middleware that makes it easy to inject faults into your service.
+- [rest](https://github.com/sendgrid/rest) - SendGrid's Golang HTTP Client for calling APIs.
 
 ## GraphQL
 

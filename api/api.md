@@ -33,6 +33,7 @@
 - [Reddit Go](https://github.com/turnage/graw)
 - [Reddit JS](https://github.com/feross/reddit) - Simple Reddit API client in JS.
 - [Goodreads API Go](https://github.com/KyleBanks/goodreads)
+- [SendGrid Go](https://github.com/sendgrid/sendgrid-go)
 - [Discord Rust](https://github.com/twilight-rs/twilight)
 - [Discord Rust 2](https://github.com/serenity-rs/serenity)
 - [Discord Go](https://github.com/bwmarrin/discordgo) - Go bindings for Discord.

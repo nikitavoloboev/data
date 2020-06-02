@@ -272,3 +272,4 @@ Go promotes composition over inheritance.
 - [Go and CPU Caches (2020)](https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592)
 - [go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - Easy way to find outdated dependencies of your Go projects.
 - [Featherweight Go (2020)](https://arxiv.org/abs/2005.11710) ([HN](https://news.ycombinator.com/item?id=23368453))
+- [lean](https://github.com/jadekler/lean) - Smart Go module dependency inspection and pruning.
