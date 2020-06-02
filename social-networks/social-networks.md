@@ -46,3 +46,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Moa](https://github.com/foozmeat/moa) - Mastodon, Twitter, and Instagram Cross-poster.
 - [Lessons I've Learned After Gaining 100,000 Twitter Followers (2020)](https://compiled.blog/blog/lessons-ive-learned-after-gaining-100000-twitter-followers)
 - [Bridgy](https://github.com/snarfed/bridgy) - Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more.
+- [A Genocide Incited on Facebook, With Posts From Myanmar’s Military (2018)](https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html) ([Reddit](https://www.reddit.com/r/technology/comments/gvd6fk/a_facebook_software_engineer_publicly_resigned_in/))

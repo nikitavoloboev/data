@@ -22,5 +22,5 @@
 - [Exposure Notification Reference Server | Covid-19 Exposure Notifications](https://github.com/google/exposure-notifications-server)
 - [Epidemic Modeling for Everyone](https://github.com/DataForScience/Epidemiology101)
 - [Things we do and don't yet know about covid-19](https://twitter.com/meganranney/status/1264589288659922945)
-- [Immuni iOS app](https://github.com/immuni-app/immuni-app-ios)
+- [Immuni iOS app](https://github.com/immuni-app/immuni-app-ios) ([HN](https://news.ycombinator.com/item?id=23396499))
 - [Immuni's High-Level Description](https://github.com/immuni-app/immuni-documentation)
