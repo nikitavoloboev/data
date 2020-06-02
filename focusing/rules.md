@@ -25,7 +25,7 @@
 
 - [Exercise](../fitness/fitness.md). 30+ min cardio/weights daily.
 - Eat [whole food, plant based nutritious diet](../health/nutrition/nutrition.md).
-- Drink lots of water & tea. Limit offee. No sugar.
+- Drink lots of water & tea. Limit coffee. No sugar.
 - Reach optimal micro & macro nutrient goals, [supplement](../health/nutrition/supplements.md) where needed.
 - Start every morning with workout & shower.
 - Brush/floss teeth & [clean face](../health/skin-care.md) every morning/evening.

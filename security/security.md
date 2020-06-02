@@ -68,3 +68,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [The SSO Wall of Shame](https://sso.tax/) - List of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [Black Hat Go book](https://nostarch.com/blackhatgo) ([Code](https://github.com/blackhat-go/bhg))
 - [How to Become a Hacker (2020)](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html) ([HN](https://news.ycombinator.com/item?id=23377186))
+- [Web Security 101: Cross-Site Scripting (XSS) Attacks](https://victorzhou.com/blog/xss/)
