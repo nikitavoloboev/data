@@ -118,6 +118,7 @@ Here are few more things I liked, design wise.
 - [Fabian Fett](https://fabianfett.de/)
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))
 - [Ernest Ojeh](https://ernestojeh.com/)
+- [Milen Dzhumerov](https://milen.me/)
 - [Victor Zhou](https://victorzhou.com/) ([Code](https://github.com/vzhou842/victorzhou.com))
 - [Jonnie Hallman](https://destroytoday.com/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)

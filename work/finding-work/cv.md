@@ -40,6 +40,7 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Artem Chikin](https://github.com/artemcm/CV/blob/master/cv.pdf)
 - [Chris Lattner](http://nondot.org/sabre/Resume.html)
 - [Brian Anderson](https://brson.github.io/resume.html)
+- [Milen Dzhumerov](https://milen.me/resume/)
 - [Susanna L Harris](https://docs.google.com/document/d/1_uXzFgsX3xIgseeIuqO7xa57HoBA_IT1Zabm2PYMPLw/edit)
 
 ## Notes
