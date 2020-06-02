@@ -73,3 +73,4 @@
 - [Cracking the Coding Career: Building an Exceptional Career from Code Newbie to Senior Developer (2020)](https://gumroad.com/l/bAZJq)
 - [Advice for practicing problems for interview](https://twitter.com/aarondjents/status/1266149438554169344)
 - [CodeInterview](https://codeinterview.netlify.app/) - Home made solution and personal self-learning project for online coding interviews. ([Code](https://github.com/areebbeigh/codeinterview-backend))
+- [How to prepare for a startup interview (2020)](https://blog.otta.com/how-to-prepare-for-a-startup-interview-heres-what-the-best-10-of-candidates-are-doing/)
