@@ -87,3 +87,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Typography.js](http://kyleamathews.github.io/typography.js/) - Powerful toolkit for building websites with beautiful design.
 - [Awesome Mac OS Catalina fonts you didn’t know you had access to (2020)](https://typography.guru/journal/awesome-catalina-fonts/)
 - [ttf-parser](https://github.com/RazrFalcon/ttf-parser) - High-level, safe, zero-allocation TrueType font parser. Can be used as Rust and as C library.
+- [FontEdit](https://github.com/ayoy/fontedit) - Desktop app to import, edit and export fonts as byte arrays for use in embedded systems. ([HN](https://news.ycombinator.com/item?id=23377273))

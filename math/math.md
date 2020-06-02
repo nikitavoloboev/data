@@ -54,7 +54,7 @@
 - [MSC2010](https://mathscinet.ams.org/msc/pdfs/classifications2010.pdf) - Huge catalog of math topics.
 - [Cambridge math notes](https://dec41.user.srcf.net/notes/)
 - [Mathematics as thought](https://aeon.co/essays/the-secret-intellectual-history-of-mathematics)
-- [Penrose](https://github.com/penrose/penrose#readme) - Language-based platform for creating beautiful mathematical diagrams.
+- [Penrose](https://github.com/penrose/penrose) - Language-based platform for creating beautiful mathematical diagrams. ([HN](https://news.ycombinator.com/item?id=23387687)) ([Web](http://penrose.ink/siggraph20))
 - [Domain-Specific Languages of Mathematics](https://github.com/DSLsofMath/DSLsofMath)
 - [A Programmer's Introduction to Mathematics book](https://pimbook.org/)
 - [How to learn Math and Physics (2018)](http://math.ucr.edu/home/baez/books.html)

@@ -12,4 +12,4 @@
 - [A Brief Exploration of Zig (2020)](https://gsquire.github.io/static/post/a-brief-exploration-of-zig/)
 - [zls](https://github.com/zigtools/zls) - Zig LSP implementation + Zig Language Server.
 - [Why Zig When There is Already CPP, D, and Rust?](https://github.com/ziglang/zig/wiki/Why-Zig-When-There-is-Already-CPP,-D,-and-Rust%3F) ([Lobsters](https://lobste.rs/s/0h17xy/why_zig_when_there_is_already_cpp_d_rust))
-- [Zig: a great fit for emulators - Benjamin Feng (2020)](https://www.youtube.com/watch?v=jkkUS0nmdsg)
+- [Zig: a great fit for emulators - Benjamin Feng (2020)](https://www.youtube.com/watch?v=jkkUS0nmdsg) ([Lobsters](https://lobste.rs/s/gaoldu/zig_great_fit_for_emulators))

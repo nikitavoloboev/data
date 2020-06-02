@@ -46,3 +46,4 @@
 - [Computer Architecture - Introduction (2018)](https://oneraynyday.github.io/dev/2018/10/02/M151B/)
 - [Basics of hardware hacking](https://maldroid.github.io/hardware-hacking/) ([Code](https://github.com/maldroid/hardware-hacking))
 - [Building an IBM 3270 terminal controller (2020)](https://ajk.me/building-an-ibm-3270-terminal-controller)
+- [Pinebook Pro Six Months In (2020)](https://wiki.alopex.li/PinebookProSixMonthsIn) ([Lobsters](https://lobste.rs/s/rkfd2e/pinebook_pro_six_months))
