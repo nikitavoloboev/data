@@ -54,6 +54,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Milestones](https://github.com/jpsim/Milestones) - App to count down the days until upcoming milestones. Built to try out the Swift Composable Architecture, SwiftUI and Combine.
 - [j2s](https://github.com/zadr/j2s) - macOS app to convert JSON to Swift structs.
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac.
+- [Mach-O Explorer](https://github.com/DeVaukz/MachO-Explorer) - Graphical Mach-O viewer for macOS.
 
 ## Other interesting apps
 
