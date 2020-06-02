@@ -89,3 +89,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [ttf-parser](https://github.com/RazrFalcon/ttf-parser) - High-level, safe, zero-allocation TrueType font parser. Can be used as Rust and as C library.
 - [FontEdit](https://github.com/ayoy/fontedit) - Desktop app to import, edit and export fonts as byte arrays for use in embedded systems. ([HN](https://news.ycombinator.com/item?id=23377273))
 - [Open Sauce Fonts](https://github.com/marcologous/Open-Sauce-Fonts) - Font super family that I developed for Creative Sauce's internal type system.
+- [Times New Roman alternatives: You can do better](https://practicaltypography.com/times-new-roman-alternatives.html) ([HN](https://news.ycombinator.com/item?id=23381513))

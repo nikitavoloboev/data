@@ -8,3 +8,4 @@
 - [Smalltalk with the GraalVM](https://www.javaadvent.com/2019/12/smalltalk-with-the-graalvm.html) ([HN](https://news.ycombinator.com/item?id=21735782))
 - [Design and Evaluation of High Performance Small System (1986)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/1986/CSD-86-287.pdf)
 - [Smalltalk-80](https://github.com/dbanay/Smalltalk) - By the Bluebook implementation of Smalltalk-80. ([Lobsters](https://lobste.rs/s/ibrkwe/dbanay_smalltalk_by_blue_book_c)) ([HN](https://news.ycombinator.com/item?id=23307700))
+- [The Rise and Fall of Commercial Smalltalk (2020)](http://www.wirfs-brock.com/allen/posts/914)
