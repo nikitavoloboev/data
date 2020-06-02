@@ -22,3 +22,4 @@
 - [Ninja](https://github.com/ninja-build/ninja) - Small build system with a focus on speed.
 - [The Success and Failure of Ninja (2020)](http://neugierig.org/software/blog/2020/05/ninja.html) ([HN](https://news.ycombinator.com/item?id=23157783))
 - [samurai](https://github.com/michaelforney/samurai) - Ninja-compatible build tool written in C99 with a focus on simplicity, speed, and portability.
+- [Apple’s Linker & Deterministic Builds (2020)](https://milen.me/writings/apple-linker-ld64-deterministic-builds-oso-prefix/)
