@@ -113,6 +113,7 @@ Here are few more things I liked, design wise.
 - [Roxane Jammet](http://roxane.me/)
 - [Andy Sparks](https://www.andysparks.co/)
 - [Parimal Satyal](https://neustadt.fr/) ([Code](https://github.com/parimalsatyal/neu))
+- [Erlend Hamberg](https://hamberg.no/erlend/)
 - [Brent Jackson](https://jxnblk.com/)
 - [Fabian Fett](https://fabianfett.de/)
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))

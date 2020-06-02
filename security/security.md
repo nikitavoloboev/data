@@ -69,3 +69,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Black Hat Go book](https://nostarch.com/blackhatgo) ([Code](https://github.com/blackhat-go/bhg))
 - [How to Become a Hacker (2020)](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html) ([HN](https://news.ycombinator.com/item?id=23377186)) ([Lobsters](https://lobste.rs/s/lsrbch/how_become_hacker))
 - [Web Security 101: Cross-Site Scripting (XSS) Attacks](https://victorzhou.com/blog/xss/)
+- [Ask HN: How does your company manage its encryption keys? (2020)](https://news.ycombinator.com/item?id=23390966)

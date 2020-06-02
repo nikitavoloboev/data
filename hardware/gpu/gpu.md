@@ -12,3 +12,4 @@
 - [A Taste of GPU Compute (2020)](https://www.youtube.com/watch?v=eqkAaplKBc4) ([Slides](https://docs.google.com/presentation/d/1FRH81IW9RffkJjm6ILFZ7raCgFAUPXYYFXfiyKmhkx8/edit)) ([HN](https://news.ycombinator.com/item?id=22880502))
 - [KeOps](https://github.com/getkeops/keops) - Kernel Operations on the GPU, with autodiff, without memory overflows.
 - [3D Fluid](https://github.com/PWhiddy/Fat-Clouds) - GPU Fluid Simulation with Volumetric Rendering.
+- [Understanding Latency Hiding on GPUs (2016)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf) ([HN](https://news.ycombinator.com/item?id=23379709))

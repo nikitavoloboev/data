@@ -3,7 +3,7 @@
 ## Distributions
 
 - [KISS](https://k1ss.org/) ([Code](https://github.com/kisslinux/website)) ([HN](https://news.ycombinator.com/item?id=23255642))
-- [snakeware](https://github.com/joshiemoore/snakeware) - Free Linux distro with a fully Python userspace.
+- [Snakeware](https://github.com/joshiemoore/snakeware) - Free Linux distro with a fully Python userspace. ([HN](https://news.ycombinator.com/item?id=23391380))
 
 ## WM
 
