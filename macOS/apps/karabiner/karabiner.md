@@ -45,3 +45,4 @@ I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob
 - [Karabiner Complex Rules Generator](https://genesy.github.io/karabiner-complex-rules-generator/) ([Code](https://github.com/genesy/karabiner-complex-rules-generator))
 - [Karabiner DriverKit VirtualHIDDevice](https://github.com/pqrs-org/Karabiner-DriverKit-VirtualHIDDevice)
 - [Optimize Your Keyboard (2020)](https://www.pscp.tv/w/1vOxworogovxB)
+- [Custom Key Bindings with Karabiner (2020)](https://zacjones.io/custom-key-bindings)
