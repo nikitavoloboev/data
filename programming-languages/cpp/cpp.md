@@ -89,3 +89,4 @@
 - [What science can tell us about C and C++'s security (2020)](https://alexgaynor.net/2020/may/27/science-on-memory-unsafety-and-security/)
 - [Effective Modern C++ Cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet#readme)
 - [re2c](https://github.com/skvadrik/re2c) - Lexer generator for C/C++.
+- [Modern C++ Template](https://github.com/filipdutescu/modern-cpp-template) - Quick C++ template for modern CMake projects, aimed to be an easy to use starting point.

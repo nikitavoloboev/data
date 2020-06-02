@@ -43,3 +43,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Sean Tucker's photography learning playlists](https://www.youtube.com/user/seantuckermerge/playlists)
 - [Lobsters: How do you organize your photos? (2020)](https://lobste.rs/s/dmsavh/how_do_you_organize_your_photos)
 - [Photoslog](https://github.com/michaelvillar/photoslog) - Simple page to show a log of your photos.
+- [Abstract: The Art of Design | Platon: Photography (2020)](https://www.youtube.com/watch?v=BDpqt-haLLM) ([Reddit](https://www.reddit.com/r/photography/comments/gv6pxs/abstract_the_art_of_design_platon_photography/))
