@@ -211,6 +211,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Stay At Home Photography](https://stayathome.photography/)
 - [Arseniy Kotov](https://www.instagram.com/northern.friend/) - Architecture and life in post-soviet world.
 - [Caleb Zulawski](https://portfolio.calebzulawski.com/)
+- [Mark Del Mar](https://www.markdelmar.com/)
 - [Petros Koublis](http://petroskoublis.com/main.html)
 - [Most detailed ever photograph of The Night Watch goes online](https://www.rijksmuseum.nl/en/most-detailed-ever-photograph-of-the-night-watch-goes-online) ([HN](https://news.ycombinator.com/item?id=23151934))
 

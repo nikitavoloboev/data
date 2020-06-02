@@ -52,3 +52,4 @@ Might give it a go sometime.
 - [organice](https://organice.200ok.ch/) - Emacs Org Files in a Browser. ([HN](https://news.ycombinator.com/item?id=23151902))
 - [Learn Emacs Lisp in 15 minutes](https://bzg.fr/en/learn-emacs-lisp-in-15-minutes.html/)
 - [Org Mode - Organize Your Life In Plain Text!](http://doc.norang.ca/org-mode.html) ([HN](https://news.ycombinator.com/item?id=23299993)) ([Lobsters](https://lobste.rs/s/e8tydo/org_mode_organize_your_life_plain_text))
+- [Introducing Org Roam (2020)](https://blog.jethro.dev/posts/introducing_org_roam/)

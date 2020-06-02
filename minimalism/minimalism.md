@@ -30,3 +30,4 @@ I [budget & invest my money](../economy/finance.md).
 - [There Is Too Much Stuff (2019)](https://www.theatlantic.com/health/archive/2019/05/too-many-options/590185/) ([HN](https://news.ycombinator.com/item?id=20018756))
 - [Minimalism — The most undervalued development skill (2019)](https://volument.com/blog/minimalism-the-most-undervalued-development-skill) ([HN](https://news.ycombinator.com/item?id=21871491))
 - [mnmllist](https://mnmll.ist/) - Listing all things minimal.
+- [Living with less. Everything I own now fits into a single carry-on bag](https://www.wernervanrooyen.com/living-with-less-one-bag/)
