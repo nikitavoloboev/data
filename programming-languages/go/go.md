@@ -273,3 +273,4 @@ Go promotes composition over inheritance.
 - [go-mod-outdated](https://github.com/psampaz/go-mod-outdated) - Easy way to find outdated dependencies of your Go projects.
 - [Featherweight Go (2020)](https://arxiv.org/abs/2005.11710) ([HN](https://news.ycombinator.com/item?id=23368453))
 - [lean](https://github.com/jadekler/lean) - Smart Go module dependency inspection and pruning.
+- [impl](https://github.com/josharian/impl) - Generates method stubs for implementing an interface.

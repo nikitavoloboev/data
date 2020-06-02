@@ -90,3 +90,4 @@
 - [pgCenter](https://github.com/lesovsky/pgcenter) - Command-line admin tool for observing and troubleshooting Postgres.
 - [Supabase](https://supabase.io/) - Adds realtime and restful APIs to Postgres without a single line of code. ([[HN](https://news.ycombinator.com/item?id=23319901)]) ([Code](https://github.com/supabase/postgres)) ([Docs](https://github.com/supabase/supabase))
 - [DBCore](https://eatonphil.github.io/dbcore/) - Code generation powered by your database. ([Lobsters](https://lobste.rs/s/qqhiiq/generate_go_rest_api_from_postgresql))
+- [Queries to monitor your PostgreSQL database](https://github.com/nilenso/postgresql-monitoring)

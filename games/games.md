@@ -15,6 +15,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Codenames](https://www.horsepaste.com/) - Play codenames using a TV or computer for the board. ([Code](https://github.com/jbowens/codenames))
 - [friendsand.games](https://friendsand.games/) - Handselected free online games to play during calls with your friends and family. ([Code](https://github.com/davidfurlong/friendsandgames))
 - [Mosaic](https://playmosaic.online/) - Online multiplayer boardgame to play with all (2-4) of your friends. ([Code](https://github.com/maciejmatu/mosaic))
+- [Ring of Worlds](https://www.ringofworlds.com/) - Multiplayer card game written in Haskell and Elm. ([Code](https://github.com/RoganMurley/Ring-of-Worlds))
 
 ## Awesome OSS games
 

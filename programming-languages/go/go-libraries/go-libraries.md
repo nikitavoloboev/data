@@ -428,6 +428,7 @@
 - [RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language. ([Announcing RxGo v2](https://medium.com/@teivah/introducing-rxgo-v2-e7e369faa99a))
 - [screenshot](https://github.com/kbinani/screenshot) - Go library to capture desktop to image.
 - [cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing.
+- [uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 
 ## Links
 

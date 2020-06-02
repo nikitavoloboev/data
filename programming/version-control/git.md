@@ -129,3 +129,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Sublime Merge](https://www.sublimemerge.com) - Git Client, done Sublime. Line-by-line Staging. Commit Editing. Unmatched Performance. ([[HN](https://news.ycombinator.com/item?id=23311093)])
 - [GitUI](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in rust.
 - [gitea-release Tool Announcement (2020)](https://christine.website/blog/gitea-release-tool-2020-05-31)
+- [git-fuzzy](https://github.com/bigH/git-fuzzy) - CLI interface to git that relies heavily on fzf. ([HN](https://news.ycombinator.com/item?id=23363767))
