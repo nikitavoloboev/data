@@ -26,3 +26,4 @@
 - [Paint Your Roam with Custom CSS (2020)](https://maggieappleton.com/paintingroam)
 - [Static-Roam](https://github.com/TomLisankie/static-roam) - Static-site generator for Roam Research.
 - [Roam Research Tour with Maggie Appleton - Evergreen Notes and Digital Gardens (2020)](https://www.youtube.com/watch?v=RXXXHN516qc)
+- [Roam Alternative - Obsidian Review (2020)](https://www.youtube.com/watch?v=aK2fOQRNSxc) ([Reddit](https://www.reddit.com/r/RoamResearch/comments/gu923p/roam_alternative_obsidian_review/))

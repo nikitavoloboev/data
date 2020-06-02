@@ -8,7 +8,7 @@ I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) an
 - [February](2020/2020-february.md) - React, RN, Go.
 - [March](2020/2020-march.md) - Left Rekki, all restaurants closed due to Corona.
 - [April](2020/2020-april.md) - Learning.
-- [May](2020/2020-may.md) - Learning.
+- [May](2020/2020-may.md)
 
 ## [2019](2019/2019.md)
 
