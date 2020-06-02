@@ -121,6 +121,7 @@ Here are few more things I liked, design wise.
 - [Jonnie Hallman](https://destroytoday.com/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)
 - [Monica Lent](https://monicalent.com/)
+- [Michaël Villar](http://www.michaelvillar.com/)
 - [Sarah Lim](https://slim.computer/)
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))
 - [Kent C. Dodds](https://kentcdodds.com/) ([Code](https://github.com/kentcdodds/kentcdodds.com))
