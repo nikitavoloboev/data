@@ -256,6 +256,7 @@
 - [fit-textarea](https://github.com/fregante/fit-textarea) - Automatically expand a <textarea> to fit its content, in a few bytes.
 - [NanoPop](https://github.com/Simonwep/nanopop) - Ultra Tiny, Opinionated Positioning Engine. ([Web](https://simonwep.github.io/nanopop/))
 - [Angelfire](https://github.com/rish-16/Angelfire) - Lets you quickly build right-click-enabled context menus and drop-down menus for any element on your webpage.
+- [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else.
 
 ## Links
 

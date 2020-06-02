@@ -40,6 +40,7 @@
 - [Landmarks](https://github.com/LexiFi/landmarks) - Simple Profiling Library for OCaml.
 - [pfff](https://github.com/returntocorp/pfff) - Set of tools and APIs to perform static analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
 - [ppx_stage](https://github.com/stedolan/ppx_stage) - Staged metaprogramming in stock OCaml.
+- [Caqti](https://github.com/paurkedal/ocaml-caqti) - Provides a monadic cooperative-threaded OCaml connector API for relational databases.
 
 ## Links
 

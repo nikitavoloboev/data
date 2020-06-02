@@ -61,3 +61,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Kimera](https://github.com/luigifreitas/kimera) - Low-latency hardware accelerated codec based video streaming utility.
 - [Wahay](https://github.com/digitalautonomy/wahay) - Easy-to-use, secure and decentralized conference calls.
 - [lbry.tv](https://lbry.tv/)
+- [slowmoVideo](https://github.com/slowmoVideo/slowmoVideo) - Tool that uses optical flow for generating slow-motion videos.
