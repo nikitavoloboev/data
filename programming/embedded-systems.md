@@ -39,3 +39,4 @@
 - [Embedded graphics](https://github.com/jamwaffles/embedded-graphics) - 2D graphics library that is focused on memory constrained embedded devices.
 - [LittlevGL](https://github.com/rafaelcaricio/lvgl-rs) - Open-source Embedded GUI Library in Rust.
 - [Embedded Rules of Thumb (2018)](https://embeddedartistry.com/blog/2018/04/26/embedded-rules-of-thumb/) ([HN](https://news.ycombinator.com/item?id=23376960))
+- [An Empirical Study on ARM Disassembly Tools (2020)](https://yajin.org/papers/issta20.pdf)
