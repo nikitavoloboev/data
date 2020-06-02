@@ -39,3 +39,5 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [Matrix iOS SDK](https://github.com/matrix-org/matrix-ios-sdk)
 - [Conduit](https://git.koesters.xyz/timo/conduit) - Matrix homeserver written in Rust.
 - [Introducing P2P Matrix (2020)](https://matrix.org/blog/2020/06/02/introducing-p-2-p-matrix) ([HN](https://news.ycombinator.com/item?id=23393935))
+- [Thoughts on Peer-to-Peer Matrix (2020)](https://neilalexander.dev/2020/06/02/thoughts-p2p-matrix.html)
+- [Seaglass](https://github.com/neilalexander/seaglass) - Truly native Matrix client for macOS - written in Swift/Cocoa, with E2E encryption support.
