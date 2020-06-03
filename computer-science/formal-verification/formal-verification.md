@@ -27,3 +27,4 @@
 - [How do I rigorously translate a spec to implementation, and how do I keep them in sync? (2020)](https://twitter.com/hillelogram/status/1258440258343112715)
 - [Engineering a Safer World notes](https://lobste.rs/s/fcntwr/what_are_you_doing_this_weekend#c_kesgdu)
 - [Separation Logic (2019)](https://cacm.acm.org/magazines/2019/2/234356-separation-logic/fulltext)
+- [List of companies that use formal verification methods in software engineering](https://github.com/ligurio/practical-fm#readme)

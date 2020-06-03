@@ -151,3 +151,4 @@
 - [Glue](https://github.com/jorgebastida/glue) - Simple command line tool to generate CSS sprites.
 - [stylis.js](https://github.com/thysultan/stylis.js) - Light–weight CSS Preprocessor.
 - [An Overview of CSS: An Art, a Science, a Nightmare (2019)](https://www.taniarascia.com/overview-of-css-concepts/)
+- [Basic.css](https://vladocar.github.io/Basic.css/) - Classless CSS Starter File. ([HN](https://news.ycombinator.com/item?id=23402134)) ([Code](https://github.com/vladocar/Basic.css))

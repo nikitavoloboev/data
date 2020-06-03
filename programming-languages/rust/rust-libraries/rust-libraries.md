@@ -399,6 +399,7 @@
 - [binread](https://github.com/jam1garner/binread) - Rust crate for helping parse structs from binary data using macro magic.
 - [simdeez](https://github.com/jackmott/simdeez) - Library that abstracts over SIMD instruction sets, including ones with differing widths.
 - [SIMDNoise](https://github.com/jackmott/rust-simd-noise) - Super fast SIMD noise library for Rust.
+- [Josephine](https://github.com/asajeffrey/josephine) - Using JavaScript to safely manage the lifetimes of Rust data.
 
 ## Cargo Plugins
 

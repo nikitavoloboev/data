@@ -79,3 +79,4 @@
 - [parity-wasm](https://github.com/paritytech/parity-wasm) - Low-level WebAssembly format library.
 - [wasm-tools](https://github.com/bytecodealliance/wasm-tools) - Low level tooling for WebAssembly in Rust.
 - [Parcel and Rust: A WASM Romcom (2020)](https://dev.p.ota.to/post/parcel-and-rust-a-wasm-romcom-4kgsjnrdm5t/) ([HN](https://news.ycombinator.com/item?id=23401553))
+- [AssemblyScript Examples](https://github.com/AssemblyScript/examples)

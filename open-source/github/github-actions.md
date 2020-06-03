@@ -45,6 +45,7 @@
 - [lint-action](https://github.com/samuelmeuli/lint-action) - GitHub Action for detecting and fixing lint errors.
 - [automerge-action](https://github.com/pascalgn/automerge-action) - GitHub action to automatically merge pull requests when they are ready.
 - [Vercel Action](https://github.com/amondnet/vercel-action) - Make a deployment with github actions instead of Vercel builder.
+- [Create an Issue](https://github.com/JasonEtco/create-an-issue) - GitHub Action that creates a new issue using a template file.
 
 ## Go
 

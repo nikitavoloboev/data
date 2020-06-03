@@ -196,3 +196,4 @@
 - [Sloop](https://github.com/salesforce/sloop) - Kubernetes History Visualization.
 - [microcks](https://github.com/microcks/microcks) - Kubernetes native tool for mocking and testing API and micro-services.
 - [Weave Kubernetes System Control - wksctl](https://github.com/weaveworks/wksctl) - Allows simple creation of a Kubernetes cluster given a set of IP addresses and an SSH key.
+- [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes.
