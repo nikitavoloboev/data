@@ -30,7 +30,7 @@ I use [Mono theme](https://www.alfredapp.com/extras/theme/soFFOqrS7o/). Here is 
 
 ![](https://content.invisioncic.com/r229491/monthly_2020_06/1692126768_CleanShot2020-06-03at19_26.40@2x.png.23a6a049eecb37dd237f4e2e341d363a.png)
 
-I also made & used [Monokai Night](https://www.alfredapp.com/extras/theme/PQVZpeg4Zi/) with [Mono Light](https://www.alfredapp.com/extras/theme/aPPZ1CC4XQ/) themes before.
+I also made [Monokai Night](https://www.alfredapp.com/extras/theme/PQVZpeg4Zi/) & [Mono Light](https://www.alfredapp.com/extras/theme/aPPZ1CC4XQ/) themes I used briefly.
 
 ### Symlink workflows
 
