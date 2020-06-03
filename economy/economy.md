@@ -38,3 +38,5 @@
 - [What are the most useful concepts from linear algebra that are applied in graduate level economics? (2020)](https://www.reddit.com/r/AskEconomics/comments/gnnixp/what_are_the_most_useful_concepts_from_linear/)
 - [Do illegal immigrants take more from a country than they contribute? (2020)](https://www.reddit.com/r/AskEconomics/comments/gsfnvt/do_illegal_immigrants_take_more_from_a_country/)
 - [Why Isn't the Whole World Developed? Lessons from the Cotton Mills (1987)](https://pdfs.semanticscholar.org/6152/0798b9dd2c691872d58db3914f87dd165a85.pdf)
+- [Is a trillion-dollar worth of programming lying on the ground (2020)](https://blog.cerebralab.com/Is_a_trillion-dollar_worth_of_programming_lying_on_the_ground) ([HN](https://news.ycombinator.com/item?id=23402788))
+- [Declining worker power versus rising monopoly power (2020)](https://voxeu.org/article/declining-worker-power-versus-rising-monopoly-power) ([HN](https://news.ycombinator.com/item?id=23403455))
