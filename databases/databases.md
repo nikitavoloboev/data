@@ -151,3 +151,4 @@
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations written in Go. Use as CLI or import as library.
 - [I want to own the database that my apps use (2020)](https://orndorffgrant.com/own-your-data-idea/) ([Lobsters](https://lobste.rs/s/dyeuqm/i_want_own_database_my_apps_use))
 - [Hermitage: Testing transaction isolation levels](https://github.com/ept/hermitage#readme)
+- [Amazon's Dynamo (2007)](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)

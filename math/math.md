@@ -147,3 +147,5 @@
 - [What Made me a Mathematician: Off-the-Cuff Story Telling for a Story-Telling Class (2020)](https://www.youtube.com/watch?v=b86QcxdrNF4)
 - [Mathematical Notes by Prof. Steven G. Johnson](http://math.mit.edu/~stevenj/notes.html)
 - [The Definitive Glossary of Higher Math Jargon](https://mathvault.ca/math-glossary/)
+- [On proof and progress in mathematics (1994)](https://arxiv.org/abs/math/9404236)
+- [In Math, It Often Takes a Good Map to Find Answers (2020)](https://www.quantamagazine.org/in-math-it-often-takes-a-good-map-to-find-answers-20200601/) ([HN](https://news.ycombinator.com/item?id=23406988))
