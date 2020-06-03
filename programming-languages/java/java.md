@@ -18,3 +18,5 @@
 - [Java records demystified (2020)](https://isank.dev/posts/java-14-records/)
 - [State of Loom (2020)](https://cr.openjdk.java.net/~rpressler/loom/loom/sol1_part1.html) ([HN](https://news.ycombinator.com/item?id=23201559))
 - [Java 15 in 2020: Reasons to not use Java?](https://dev.to/brunoborges/java-15-in-2020-reasons-to-not-use-java-3ekg)
+- [How to write a (toy) JVM (2020)](https://zserge.com/posts/jvm/) ([HN](https://news.ycombinator.com/item?id=23390914))
+- [Implementing a Simple JVM in Rust by Ben Evans (2019)](https://www.youtube.com/watch?v=7ECbwgkHdAE)

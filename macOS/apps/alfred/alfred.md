@@ -26,11 +26,11 @@ Coupled with many [small workflows](https://github.com/nikitavoloboev/small-work
 
 ## Alfred theme
 
-I use [Mono theme](https://www.alfredapp.com/extras/theme/pKn3GJWnOM/). Here is how it looks:
+I use [Mono theme](https://www.alfredapp.com/extras/theme/soFFOqrS7o/). Here is how it looks:
 
-![](https://content.invisioncic.com/r229491/monthly_2020_05/image.png.19a1fde4be98df7dfdb00e53bdd296b1.png)
+![](https://content.invisioncic.com/r229491/monthly_2020_06/1692126768_CleanShot2020-06-03at19_26.40@2x.png.23a6a049eecb37dd237f4e2e341d363a.png)
 
-I also made & used [Monokai Night theme](https://www.alfredapp.com/extras/theme/PQVZpeg4Zi/) before.
+I also made & used [Monokai Night](https://www.alfredapp.com/extras/theme/PQVZpeg4Zi/) with [Mono Light](https://www.alfredapp.com/extras/theme/aPPZ1CC4XQ/) themes before.
 
 ### Symlink workflows
 
