@@ -59,3 +59,5 @@
 - [Getting the most out of Xcode Previews for SwiftUI (2020)](https://www.swiftbysundell.com/articles/getting-the-most-out-of-xcode-previews/)
 - [Recreate](https://recreatecode.substack.com/) - Video series about recreating popular UI with SwiftUI.
 - [Understanding Property Wrappers in SwiftUI (2019)](https://swiftwithmajid.com/2019/06/12/understanding-property-wrappers-in-swiftui/)
+- [SwiftWebUI and WASM](https://github.com/carson-katri/SwiftWebUI) - Fork of the incredible SwiftWebUI to support WebAssembly via swiftwasm.
+- [Scripts to make working with SwiftWebUI and WASM easier](https://github.com/carson-katri/swiftwebui-scripts)

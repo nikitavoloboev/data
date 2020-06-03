@@ -22,3 +22,4 @@
 - [Librevault](https://github.com/librevault/librevault) - Open-source peer-to-peer file synchronization program, designed with convenience and privacy in mind.
 - [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Wireless, encrypted file transfer over automatically configured ad hoc networking.
 - [shoop](https://github.com/mcginty/shoop) - High-speed encrypted file transfer tool reminiscent of scp.
+- [Airshare](https://github.com/kurolabs/airshare) - Cross-platform content sharing in a local network.

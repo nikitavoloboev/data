@@ -93,3 +93,4 @@
 - [Synthesizing JIT Compilers for In-Kernel DSLs](https://www.cs.utexas.edu/~isil/jitsynth.pdf)
 - [Diagrams for Composing Compilers (2020)](https://johnwickerson.wordpress.com/2020/05/21/diagrams-for-composing-compilers/)
 - [One-pass Compiler Primer (2020)](https://keleshev.com/one-pass-compiler-primer) ([HN](https://news.ycombinator.com/item?id=23270269))
+- [SPARTA](https://github.com/facebookincubator/SPARTA) - Library of software components specially designed for building high-performance static analyzers based on the theory of Abstract Interpretation.

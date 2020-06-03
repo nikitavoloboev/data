@@ -22,3 +22,4 @@ And here are Chrome extensions I use:
 - [Must have Chrome extensions for designers (2020)](https://supercreative.design/blog/chrome-extensions-for-designers)
 - [Let's Guess What Google Requires In 14 Days Or They Kill Our Extension (2020)](https://blog.pushbullet.com/2020/05/13/lets-guess-what-google-requires-in-14-days-or-they-kill-our-extension/) ([HN](https://news.ycombinator.com/item?id=23168874))
 - [HN: Unable to deal with Chrome Extension Team, Kozmos is shutting down (2020)](https://news.ycombinator.com/item?id=23285466)
+- [Chrome Extension (built with TypeScript + React)](https://github.com/martellaj/chrome-extension-react-typescript-boilerplate)
