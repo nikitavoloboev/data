@@ -108,6 +108,7 @@ Here are few more things I liked, design wise.
 - [Amanda Pinsker](https://amandapinsker.com/) ([Code](https://github.com/ampinsk/ampinsk.github.io))
 - [Stefan Judis](https://www.stefanjudis.com/)
 - [William Falcon](https://www.williamfalcon.com/)
+- [Yehor Lvivski](http://lvivski.com/)
 - [Amruth Pillai](https://amruthpillai.com/) ([Code](https://github.com/AmruthPillai/ResumeOnTheWeb-Gatsby))
 - [Hansen Zhang](https://hansenzhang.com/)
 - [Roxane Jammet](http://roxane.me/)

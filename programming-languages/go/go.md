@@ -274,3 +274,4 @@ Go promotes composition over inheritance.
 - [Featherweight Go (2020)](https://arxiv.org/abs/2005.11710) ([HN](https://news.ycombinator.com/item?id=23368453))
 - [lean](https://github.com/jadekler/lean) - Smart Go module dependency inspection and pruning.
 - [impl](https://github.com/josharian/impl) - Generates method stubs for implementing an interface.
+- [air](https://github.com/cosmtrek/air) - Live reload for Go apps.
