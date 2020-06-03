@@ -73,3 +73,4 @@
 - [A type and effect system for uniqueness and immutability (2018)](https://www.researchgate.net/publication/326164533_A_type_and_effect_system_for_uniqueness_and_immutability)
 - [Inferring Types and Effects via Static Single AssignmentLeonardo](https://dl.acm.org/doi/pdf/10.1145/3341105.3373888)
 - [smalltt](https://github.com/AndrasKovacs/smalltt) - Demo for high-performance type theory elaboration.
+- [Hoare Type Theory](https://github.com/imdea-software/htt) - Contains the main libraries of Hoare Type Theory (HTT) for reasoning about sequential heap-manipulating programs.

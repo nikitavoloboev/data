@@ -9,3 +9,4 @@
 - [HN: Demo of an OpenAI language model applied to code generation (2020)](https://news.ycombinator.com/item?id=23250379)
 - [Introduction to Program Synthesis (2020)](http://people.csail.mit.edu/asolar/SynthesisCourse/index.htm)
 - [STOKE](https://github.com/StanfordPL/stoke) - Stochastic optimizer and program synthesizer for the x86-64 instruction set. ([Web](http://stoke.stanford.edu/))
+- [Suslik](https://github.com/TyGuS/suslik) - Synthesis of Heap-Manipulating Programs from Separation Logic.
