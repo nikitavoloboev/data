@@ -62,3 +62,4 @@ All active variables can be seen by running `env`.
 - [Shell Script Compiler](https://github.com/neurobin/shc) - Generic shell script compiler. Shc takes a script, which is specified on the command line and produces C source code.
 - [Shell script template suitable for most software developers](https://github.com/mjambon/reasonable-shell-script)
 - [Chafa](https://github.com/hpjansson/chafa) - Command-line utility that converts all kinds of images, including animated GIFs, into sixel or ANSI/Unicode character output that can be displayed in a terminal.
+- [streamhut](https://github.com/miguelmota/streamhut) - Stream and send data, terminal to web and vice versa.
