@@ -10,3 +10,4 @@
 - [Introduction to Program Synthesis (2020)](http://people.csail.mit.edu/asolar/SynthesisCourse/index.htm)
 - [STOKE](https://github.com/StanfordPL/stoke) - Stochastic optimizer and program synthesizer for the x86-64 instruction set. ([Web](http://stoke.stanford.edu/))
 - [Suslik](https://github.com/TyGuS/suslik) - Synthesis of Heap-Manipulating Programs from Separation Logic.
+- [CSE 291: Program Synthesis course](https://github.com/nadia-polikarpova/cse291-program-synthesis)
