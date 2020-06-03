@@ -11,3 +11,4 @@
 - [STOKE](https://github.com/StanfordPL/stoke) - Stochastic optimizer and program synthesizer for the x86-64 instruction set. ([Web](http://stoke.stanford.edu/))
 - [Suslik](https://github.com/TyGuS/suslik) - Synthesis of Heap-Manipulating Programs from Separation Logic.
 - [CSE 291: Program Synthesis course](https://github.com/nadia-polikarpova/cse291-program-synthesis)
+- [Nadia Polikarpova: Liquid resource types for verification and synthesis (2020)](https://www.youtube.com/watch?v=BW3ZDtjD_Yw)

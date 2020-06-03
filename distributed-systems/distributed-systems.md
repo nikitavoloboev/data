@@ -87,3 +87,4 @@
 - [Distributed Services with Go](https://pragprog.com/book/tjgo/distributed-services-with-go)
 - [Fully asynchronous C implementation of the Raft consensus protocol](https://github.com/canonical/raft)
 - [Notes on Distributed Systems for Young Bloods (2013)](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/) ([HN](https://news.ycombinator.com/item?id=23365402))
+- [Paxakos](https://github.com/benschulz/paxakos) - Rust implementation of a distributed consensus algorithm based on Leslie Lamport's Paxos.

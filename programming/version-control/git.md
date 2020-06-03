@@ -26,7 +26,8 @@ I love Git and version control. And I use version control over any project I do.
 - [clog-cli](https://github.com/clog-tool/clog-cli#readme) - Generate beautiful changelogs from your Git commit history.
 - [git rebase for fame and power](http://www.charlesetc.com/rebase-for-fame/)
 - [gitbatch](https://github.com/isacikgoz/gitbatch) - Manage your git repositories in one place.
-- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) - Specification for adding human and machine readable meaning to commit messages.
+- [Conventional Commits](https://www.conventionalcommits.org/) - Specification for adding human and machine readable meaning to commit messages.
+- [glint](https://github.com/brigand/glint) - Friendly tool for creating commits in the Conventional Commit style.
 - [git absorb](https://github.com/tummychow/git-absorb) - Git commit --fixup, but automatic.
 - [ghq](https://github.com/motemen/ghq) - Manage remote repository clones.
 - [git-flow](https://github.com/nvie/gitflow) - Collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).
