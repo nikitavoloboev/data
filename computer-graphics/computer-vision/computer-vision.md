@@ -67,3 +67,5 @@
 - [PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization](https://github.com/shunsukesaito/PIFu)
 - [Tracking Objects as Points](https://github.com/xingyizhou/CenterTrack)
 - [VIBE](https://github.com/mkocabas/VIBE) - Video Inference for Human Body Pose and Shape Estimation.
+- [SRZoo](https://github.com/idearibosome/srzoo) - Integrated repository for super-resolution using deep learning.
+- [mAP (mean Average Precision)](https://github.com/Cartucho/mAP) - Evaluates the performance of your neural net for object recognition.

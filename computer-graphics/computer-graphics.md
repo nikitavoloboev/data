@@ -64,3 +64,4 @@
 - [Wave Simulator](http://www.gabemontague.com/waves/index.html) - Graphical 3D simulation of the wave and heat equations. ([Code](https://github.com/montaguegabe/wave-simulator))
 - [Probulator](https://github.com/kayru/Probulator) - Experimentation framework for probe-based lighting.
 - [librush](https://github.com/kayru/librush) - Graphics prototyping framework. ([Examples](https://github.com/kayru/librush-examples))
+- [High-Performance MLS-MPM Solver with Cutting and Coupling](https://github.com/yuanming-hu/taichi_mpm)
