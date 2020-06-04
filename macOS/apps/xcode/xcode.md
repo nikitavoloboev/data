@@ -47,3 +47,4 @@
 - [nef](https://github.com/bow-swift/nef) - Steroids for Xcode Playgrounds.
 - [xcodes](https://github.com/RobotsAndPencils/xcodes) - Manage the Xcodes installed on your Mac.
 - [XCOrganizer](https://xcorganizer.com/) - Using metadata it finds all your Xcode Projects, Xcode Workspaces and Xcode Playgrounds in seconds.
+- [Awesome and useful Xcode defaults](https://github.com/ctreffs/xcode-defaults#readme)

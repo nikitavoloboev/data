@@ -28,3 +28,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Time on Unix (2020)](https://venam.nixers.net/blog/unix/2020/05/02/time-on-unix.html)
 - [The Deprecated nix API (2020)](https://www.bitquabit.com/post/deprecated-nix-api/) ([Lobsters](https://lobste.rs/s/ojiulv/deprecated_nix_api))
 - [Bell Labs Employee List](http://cm.bell-labs.co/who/)
+- [The beauty of Unix pipelines (2020)](https://prithu.xyz/posts/unix-pipeline/) ([HN](https://news.ycombinator.com/item?id=23420786))
