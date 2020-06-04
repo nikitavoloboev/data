@@ -75,3 +75,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [macOS 10.15: Slow by Design (2020)](https://sigpipe.macromates.com/2020/macos-catalina-slow-by-design/) ([HN](https://news.ycombinator.com/item?id=23273247))
 - [Catalina is checking notarization of unsigned executables (2020)](https://lapcatsoftware.com/articles/catalina-executables.html) ([HN](https://news.ycombinator.com/item?id=23281564))
 - [Push-Button Installer of macOS Guests in VirtualBox for Windows, Linux, macOS](https://github.com/myspaghetti/macos-virtualbox) ([HN](https://news.ycombinator.com/item?id=23284987))
+- [macOS in a Docker Container](https://github.com/sickcodes/Docker-OSX) ([HN](https://news.ycombinator.com/item?id=23419101)) ([Reddit](https://www.reddit.com/r/jailbreak/comments/gwg3e4/free_release_dockerosx_run_xcode_on_linux_sign/))
