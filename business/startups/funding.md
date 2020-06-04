@@ -20,6 +20,7 @@
 - [Tatiana Mac](https://github.com/sponsors/tatianamac)
 - [Benedek Rozemberczki](https://github.com/sponsors/benedekrozemberczki)
 - [Tuist org](https://github.com/sponsors/tuist)
+- [Deno](https://github.com/sponsors/denoland)
 
 ## Thanks pages
 

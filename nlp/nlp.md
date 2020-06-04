@@ -110,3 +110,4 @@
 - [Beyond Accuracy: Behavioral Testing of NLP models with CheckList](https://github.com/marcotcr/checklist)
 - [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020)
 - [GPT-3: Language Models Are Few-Shot Learners (2020)](https://arxiv.org/abs/2005.14165) ([HN](https://news.ycombinator.com/item?id=23345379)) ([Code](https://github.com/openai/gpt-3))
+- [nlp](https://github.com/huggingface/nlp) - Lightweight and extensible library to easily share and access datasets and evaluation metrics for NLP.
