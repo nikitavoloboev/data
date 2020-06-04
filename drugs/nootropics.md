@@ -15,3 +15,5 @@ There are also few nootropics you can take to in some way boost your mental abil
 ## Links
 
 - [Reddit wiki](https://www.reddit.com/r/Nootropics/wiki/index)
+- [Magic Mind](https://magicmind.co/) - Productivity drink.
+- [MUD\WTR](https://mudwtr.com/) - Coffee Alternative.

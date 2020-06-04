@@ -97,6 +97,7 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - Examine every word: a surprising number don’t serve any purpose.
 - [One of the best things about starting your career at Amazon is grooming in some fantastic values in early years of life. One of those is writing pithy, powerful documents.](https://twitter.com/nipunmehra/status/1154590521345490945)
 - [Writing is not publishing. If you conflate the two you might not write at all.](https://news.ycombinator.com/item?id=23314664)
+- [I just set aside about an hour a day, during my peak alertness time (around 11-2) during which I write. I have an outline of a book I want to write, and I just pick a section and start going (whatever I feel like that particular day). I write until the words don't flow any more. One thing that helped me a lot an idea I learned in high school of writing a shitty first draft -- almost stream of consciousness, without caring about quality, then going back to clean up later.](https://twitter.com/justinkan/status/1268270905379024896)
 
 ## Links
 
