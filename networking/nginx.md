@@ -17,3 +17,4 @@
 - [Manage Nginx upstreams in pure Lua](https://github.com/upyun/lua-resty-checkups)
 - [Prometheus metric library for Nginx](https://github.com/knyar/nginx-lua-prometheus)
 - [NGINX Ingress Controller](https://github.com/nginxinc/kubernetes-ingress)
+- [Building Pastebin for text using NGINX and Lua (2018)](https://usamaejaz.com/nginx-lua-pastebin/)
