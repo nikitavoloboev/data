@@ -11,4 +11,3 @@
 - [MIT Differential Equations course (2020)](https://math.mit.edu/~dyatlov/18.03/)
 - [MIT Linear Partial Differential Equations: Analysis and Numerics (2016)](https://github.com/mitmath/18303/tree/fall16)
 - [MIT Numerical Methods for Partial Differential Equations (2006)](http://math.mit.edu/~stevenj/18.336/)
-- [Discrete Differential Geometry course by Keenan Crane (2020)](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)

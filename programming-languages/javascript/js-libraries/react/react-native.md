@@ -83,3 +83,4 @@
 - [Ultimate Guide to React Native Optimization book (2020)](https://callstack.com/blog/download-the-ultimate-guide-to-react-native-optimization-ebook/)
 - [Scroll Bottom Sheet](https://github.com/rgommezz/react-native-scroll-bottom-sheet) - Cross platform scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land.
 - [G2i](https://www.g2i.co/) - Hire pre-vetted React & React Native developers you can trust.
+- [What we have learned from developing a real RN app (2020)](https://www.reddit.com/r/reactnative/comments/gvrmrm/what_we_have_learned_from_developing_a_real_rn_app/)
