@@ -56,3 +56,4 @@
 - [Hissp](https://github.com/gilch/hissp) - Modular Lisp implementation that compiles to a functional subset of Python—Syntactic macro metaprogramming with full access to the Python ecosystem.
 - [Acid Lisp](https://github.com/dymynyc/acidlisp) - Lisp that compile to web assembly.
 - [slip](https://github.com/sp4ghet/slip) - Lisp interpreter implemented in C.
+- [A baseline compiler for guile (2020)](http://wingolog.org/archives/2020/06/03/a-baseline-compiler-for-guile)

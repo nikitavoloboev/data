@@ -8,3 +8,4 @@
 - [LibreLingo](https://librelingo.app/) - Experiment to create a community driven language-learning platform.
 - [A computational model of the cultural co-evolution of language and mindreading](https://psyarxiv.com/3bmsx/)
 - [Toucan](https://jointoucan.com/) - Teaches you new skills while you browse the web.
+- [Unker Non-Linear Writing System](https://s.ai/nlws/) ([Lobsters](https://lobste.rs/s/r7qucz/unker_non_linear_writing_system))
