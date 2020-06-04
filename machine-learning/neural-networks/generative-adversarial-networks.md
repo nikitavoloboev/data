@@ -19,3 +19,4 @@
 - [Wasserstein GAN (WGAN) with Gradient Penalty (GP)](https://keras.io/examples/generative/wgan_gp/)
 - [Artbreeder](https://artbreeder.com/) - Extend Your Imagination with GANs. ([HN](https://news.ycombinator.com/item?id=23147392))
 - [Generative Image Inpainting](https://github.com/JiahuiYu/generative_inpainting) - DeepFill v1/v2 with Contextual Attention and Gated Convolution.
+- [BicycleGAN](https://github.com/junyanz/BicycleGAN) - PyTorch implementation for multimodal image-to-image translation.
