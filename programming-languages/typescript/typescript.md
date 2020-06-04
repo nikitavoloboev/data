@@ -96,6 +96,7 @@
 - [Benchmark Comparison of Packages with Runtime Validation and Typescript Support](https://github.com/moltar/typescript-runtime-type-benchmarks)
 - [TypeScript Language Server](https://github.com/theia-ide/typescript-language-server)
 - [TypeScript Playground Collaborate](https://github.com/orta/playground-collaborate)
+- [Centralized Recommendations for TSConfig bases](https://github.com/tsconfig/bases)
 
 ## Images
 

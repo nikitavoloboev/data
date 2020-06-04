@@ -90,6 +90,7 @@
 - [athenadriver](https://github.com/uber/athenadriver) - Fully-featured AWS Athena database driver (plus a utility tool).
 - [bitcask](https://github.com/prologic/bitcask) - High performance Key/Value store written in Go with a predictable read/write performance and high throughput.
 - [Storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB.
+- [taskq](https://github.com/vmihailenco/taskq) - Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends.
 
 ## ML
 
