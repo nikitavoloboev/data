@@ -57,3 +57,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [How does the Gmail unsubscribe button work? (2020)](https://blog.leavemealone.app/how-does-the-gmail-unsubscribe-button-work/) ([HN](https://news.ycombinator.com/item?id=23350881))
 - [Email Mastery](https://emailmastery.org/) - Learn Email Marketing.
 - [How to send emails from static websites (2019)](https://medium.com/@WebReflection/how-to-send-emails-from-static-websites-9a34ceb9416c)
+- [SMTP2HTTP (email-to-web)](https://github.com/alash3al/smtp2http) - Tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request.
