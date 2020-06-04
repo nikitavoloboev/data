@@ -1,7 +1,5 @@
 # Goals
 
-Give me [direction in life](https://www.youtube.com/watch?v=NVGuFdX5guE).
-
 ## Learn Anything
 
 Make the best tool for learning anything and sharing ideas.
