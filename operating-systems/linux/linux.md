@@ -4,6 +4,7 @@
 
 - [KISS](https://k1ss.org/) ([Code](https://github.com/kisslinux/website)) ([HN](https://news.ycombinator.com/item?id=23255642))
 - [Snakeware](https://github.com/joshiemoore/snakeware) - Free Linux distro with a fully Python userspace. ([HN](https://news.ycombinator.com/item?id=23391380))
+- [oasis](https://github.com/oasislinux/oasis) - Small statically-linked linux system.
 
 ## WM
 
