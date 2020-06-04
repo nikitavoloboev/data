@@ -59,3 +59,4 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [An unusual keyboard key switch](https://twitter.com/TubeTimeUS/status/1260688848104771586) ([HN](https://news.ycombinator.com/item?id=23178149))
 - [Mugur](https://github.com/mihaiolteanu/mugur) - High-level Lisp configurator for the ErgoDox EZ keyboard. ([HN](https://news.ycombinator.com/item?id=23244891))
 - [Measuring keyboard-to-photon latency with a light sensor (2020)](https://thume.ca/2020/05/20/making-a-latency-tester/) ([HN](https://news.ycombinator.com/item?id=23369999)) ([Lobsters](https://lobste.rs/s/s5ultl/measuring_keyboard_photon_latency_with))
+- [Workman Keyboard Layout](https://workmanlayout.org/) - Layout Designed with Hands in Mind. ([HN](https://news.ycombinator.com/item?id=23400058))
