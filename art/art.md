@@ -100,6 +100,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Tega Brain](http://www.tegabrain.com/)
 - [Nate Rudichuk](https://www.artstation.com/naterudichuk)
 - [Jan Pypers](https://www.instagram.com/janpypers/)
+- [Sabina Lewis](https://www.instagram.com/sabina_lewis/)
 - [Eugene Golovanchuk](https://www.theskeeva.com/)
 - [Andrew Williamson](https://andrewwilliamson.net/)
 - [James White](https://signalnoise.com/) - Retro 80s.

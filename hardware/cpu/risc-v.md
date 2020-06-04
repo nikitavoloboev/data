@@ -24,3 +24,4 @@
 - [RISC-V LLVM](https://github.com/lowRISC/riscv-llvm) - Hosts a series of patches implementing a RISC-V backend for LLVM as well as initial tutorial material.
 - [lowRISC](https://www.lowrisc.org/) - Develop and maintain open source silicon designs and tools.
 - [RISC-V Assemly Language Programming book](https://github.com/johnwinans/rvalp)
+- [Bare metal RISC-V programming in Go (2020)](https://embeddedgo.github.io/2020/05/31/bare_metal_programming_risc-v_in_go.html)
