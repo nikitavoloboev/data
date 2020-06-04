@@ -162,6 +162,7 @@
 - [I wrote a SaaS product because the internet made me believe it'd make me rich (2020)](https://blog.stetsonblake.com/thoughts-on-learning-to-design-build-and-launch-a-saas-business/) ([HN](https://news.ycombinator.com/item?id=23343794))
 - [What is Aggregation Theory?](https://stratechery.com/aggregation-theory/)
 - [Maciej Ceglowski - Barely succeed! It's easier! (2013)](https://www.youtube.com/watch?v=5Vt8zqhHe_c)
+- [Satchel](https://satchel.com/) - Write SaaS buying guides. Test products in different SaaS categories, write reports about our findings, and then try to identify the best product for a typical early-stage startup.
 
 ## Images
 
