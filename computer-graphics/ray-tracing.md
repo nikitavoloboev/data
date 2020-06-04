@@ -27,3 +27,4 @@
 - [Casual Shadertoy Path Tracing 1: Basic Camera, Diffuse, Emissive (2020)](https://blog.demofox.org/2020/05/25/casual-shadertoy-path-tracing-1-basic-camera-diffuse-emissive/)
 - [Ray Tracer in OCaml](https://github.com/Kamirus/ray-tracer)
 - [Rust implementation of "Ray Tracing In One Weekend" by Peter Shirley](https://github.com/jorendorff/rust-raytrace)
+- [Simple Ray Casting with ClojureScript (2020)](https://andreyorst.gitlab.io/posts/2020-06-04-simple-ray-casting-with-clojurescript/)
