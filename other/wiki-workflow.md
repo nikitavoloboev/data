@@ -159,3 +159,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Digital garden Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
 - [Mathematicians, how do you keep your notes? Why? (2020)](https://www.reddit.com/r/math/comments/gt0adz/mathematicians_how_do_you_keep_your_notes_why/)
 - [Stop Taking Regular Notes; Use a Zettelkasten Instead (2020)](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/) ([HN](https://news.ycombinator.com/item?id=23386630))
+- [Personal Wiki for Vim](https://github.com/vimwiki/vimwiki) ([HN](https://news.ycombinator.com/item?id=23402014))
