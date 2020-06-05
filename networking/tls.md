@@ -11,3 +11,4 @@
 - [Illustrated TLS Connection](https://tls.ulfheim.net/) - Every byte of a TLS connection explained and reproduced. ([Code](https://github.com/syncsynchalt/illustrated-tls))
 - [SSLproxy](https://github.com/sonertari/SSLproxy) - Transparent SSL/TLS proxy for decrypting and diverting network traffic to other programs, such as UTM services, for deep SSL inspection.
 - [libtls-bearssl](https://sr.ht/%7Emcf/libtls-bearssl/) - Implementation of libtls on top of BearSSL.
+- [TLS Encrypted Client Hello (2020)](https://tlswg.org/draft-ietf-tls-esni/draft-ietf-tls-esni.html)
