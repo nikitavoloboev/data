@@ -307,3 +307,4 @@ Below is a list of extensions I use.
 - [Lobsters: What's your VS Code setup like? (2019)](https://lobste.rs/s/devg9x/what_s_your_vs_code_setup_like)
 - [vscode-private-extension](https://github.com/tekezo/vscode-private-extension)
 - [Hot Reload for VS Code Extension Development (2029)](https://blog.hediet.de/post/hot_reload_for_vs_code_extension_development)
+- [VS Code Extension Samples](https://github.com/microsoft/vscode-extension-samples)

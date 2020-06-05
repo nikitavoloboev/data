@@ -13,3 +13,4 @@
 - [libtls-bearssl](https://sr.ht/%7Emcf/libtls-bearssl/) - Implementation of libtls on top of BearSSL.
 - [TLS Encrypted Client Hello (2020)](https://tlswg.org/draft-ietf-tls-esni/draft-ietf-tls-esni.html)
 - [IDontSpeakSSL](https://github.com/BishopFox/IDontSpeakSSL) - Simple tool based on sslyze to scan large scope and provide SSL/TLS vulnerabilities.
+- [crypto/tls in Go](https://github.com/cloudflare/tls-tris)
