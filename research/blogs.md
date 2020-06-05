@@ -87,3 +87,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Stop Blogging on Medium if You Care about SEO (2020)](https://pawelurbanek.com/medium-blogging-platform-seo) ([Lobsters](https://lobste.rs/s/wnlysd/stop_blogging_on_medium_if_you_care_about))
 - [Awesomeblog.club](https://awesomeblog.club/) - Discover awesome small and personal blogs. ([HN](https://news.ycombinator.com/item?id=23355739)) ([Code](https://github.com/searchableguy/awesomeblog-club))
 - [Ask HN: How Do You Blog? (2020)](https://news.ycombinator.com/item?id=23382385)
+- [You should make a blog!](https://drewdevault.com/make-a-blog)

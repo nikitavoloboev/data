@@ -19,3 +19,4 @@
 - [SameBoy](https://github.com/LIJI32/SameBoy) - Game Boy and Game Boy Color emulator written in C.
 - [Super Bootable 64 (2020)](https://christine.website/blog/super-bootable-64-2020-05-06) ([Lobsters](https://lobste.rs/s/lmhaaa/super_bootable_64))
 - [Kopycat](https://github.com/inforion/kopycat) - Multi-architecture hardware emulation solution.
+- [Edge of Emulation: Game Boy Sewing Machines](https://shonumi.github.io/articles/art22.html) ([HN](https://news.ycombinator.com/item?id=23425524))
