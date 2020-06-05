@@ -88,3 +88,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Awesomeblog.club](https://awesomeblog.club/) - Discover awesome small and personal blogs. ([HN](https://news.ycombinator.com/item?id=23355739)) ([Code](https://github.com/searchableguy/awesomeblog-club))
 - [Ask HN: How Do You Blog? (2020)](https://news.ycombinator.com/item?id=23382385)
 - [You should make a blog!](https://drewdevault.com/make-a-blog)
+- [Building an easy on the eyes IKEA style blog, in no time, for free, again (2020)](https://sgolem.com/building-an-easy-on-the-eyes-ikea-style-blog-in-no-time-for-free-again/) ([Lobsters](https://lobste.rs/s/ipe4ii/building_easy_on_eyes_ikea_style_blog_no))
