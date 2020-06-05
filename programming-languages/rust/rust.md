@@ -227,3 +227,4 @@
 - [Rust: Dropping heavy things in another thread can make your code 10000 times faster (2020)](https://abramov.io/rust-dropping-things-in-another-thread) ([HN](https://news.ycombinator.com/item?id=23362518)) ([Lobsters](https://lobste.rs/s/kzd5pk/rust_dropping_heavy_things_another))
 - [Rust as a High Level Language (2020)](https://llogiq.github.io/2020/05/30/hi.html)
 - [Tour of Rust](https://tourofrust.com/) - Tour of rust's language features. ([Code](https://github.com/richardanaya/tour_of_rust))
+- [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/) ([Code](https://github.com/RustBeginners/awesome-rust-mentors))

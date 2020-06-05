@@ -432,6 +432,7 @@
 - [cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing.
 - [uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [sys](https://github.com/golang/sys) - Go packages for low-level interaction with the operating system.
+- [zek](https://github.com/miku/zek) - Generate a Go struct from XML.
 
 ## Links
 

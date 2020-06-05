@@ -45,3 +45,4 @@
 - [PATAKK](https://patakk.tumblr.com/) - Does generative art.
 - [StippleGen](https://github.com/evil-mad/stipplegen) - Software that can create stipple drawings and “TSP art,” from image files.
 - [Code as Creative Medium](https://mitpress.mit.edu/books/code-creative-medium)
+- [Genetic Drawing](https://github.com/anopara/genetic-drawing) - Genetic algorithm toy project for drawing.
