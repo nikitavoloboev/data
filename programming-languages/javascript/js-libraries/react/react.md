@@ -83,7 +83,7 @@
 - [Divjoy](https://divjoy.com) - React codebase generator.
 - [React Concurrent Mode](https://reactjs.org/docs/concurrent-mode-intro.html) ([HN](https://news.ycombinator.com/item?id=21346290))
 - [React Conf 2019](https://www.youtube.com/watch?v=RCiccdQObpo)
-- [zustand](https://github.com/react-spring/zustand) - Small, fast and scaleable bearbones state-management solution.
+- [zustand](https://github.com/react-spring/zustand) - Small, fast and scalable bearbones state-management solution.
 - [Learn React Courses](https://learnreact.design/)
 - [Building a Custom React Renderer | Sophie Alpert (2019)](https://www.youtube.com/watch?v=CGpMlWVcHok) ([Code](https://github.com/sophiebits/react-dom-mini))
 - [Thoughts on Suspense for data fetching (2019)](https://sgt.hootr.club/molten-matter/thoughts-on-suspense/)

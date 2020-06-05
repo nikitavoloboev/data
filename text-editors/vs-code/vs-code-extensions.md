@@ -79,7 +79,7 @@ Below is a list of extensions I use.
 - [vscode-cli](https://marketplace.visualstudio.com/items?itemName=pkosta2006.vscode-cli) - Execute vscode command from vscode command prompt.
 - [Graphviz Preview](https://marketplace.visualstudio.com/items?itemName=EFanZh.graphviz-preview) - Preview Graphviz (DOT) files.
 - [Twitch Highlighter](https://marketplace.visualstudio.com/items?itemName=clarkio.twitch-highlighter) - Twitch Line Highlighter.
-- [Clever VS Code](https://marketplace.visualstudio.com/items?itemName=davidbabel.Clever) - Add many productivity usefull commands to vscode.
+- [Clever VS Code](https://marketplace.visualstudio.com/items?itemName=davidbabel.Clever) - Add many productivity useful commands to vscode.
 - [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
 - [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
