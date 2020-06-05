@@ -20,3 +20,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Mindfulness](https://brandur.org/fragments/mindfulness)
 - [Sam Harris - enlightenment, real meditation, and consciousness explained (2019)](https://overcast.fm/+RxHHyjxgA)
 - [Anxiety in product development (2020)](https://andreschweighofer.com/agile/anxiety-in-product-development/) ([HN](https://news.ycombinator.com/item?id=23415922))
+- [Mental Wealth (2020)](https://jjbeshara.com/2020/06/04/mental-wealth/) ([HN](https://news.ycombinator.com/item?id=23426189))
