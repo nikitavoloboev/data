@@ -76,3 +76,4 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [yabai](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS based on binary space partitioning.
 - [3 Advanced Workflows for "Things" Power User](https://fabriziorinaldi.io/blog/things-advanced-workflows)
 - [Apps & services (Russian)](https://www.notion.so/54e01db500f24267afcf528cc02284a6)
+- [List of most "well-crafted" piece of macOS software you use? (2020)(https://twitter.com/craigmod/status/1268788533990289409)

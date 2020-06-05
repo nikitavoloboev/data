@@ -149,3 +149,4 @@
 - [The Definitive Glossary of Higher Math Jargon](https://mathvault.ca/math-glossary/)
 - [On proof and progress in mathematics (1994)](https://arxiv.org/abs/math/9404236)
 - [In Math, It Often Takes a Good Map to Find Answers (2020)](https://www.quantamagazine.org/in-math-it-often-takes-a-good-map-to-find-answers-20200601/) ([HN](https://news.ycombinator.com/item?id=23406988))
+- [karasu](https://github.com/Krasjet/karasu) - Self-hosted remote communication system designed for math discussions. ([Web](https://krasjet.com/voice/karasu/))
