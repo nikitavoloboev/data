@@ -13,7 +13,7 @@
 - [merge-me-action](https://github.com/ridedott/merge-me-action) - Automatically merge Pull Requests created from a GitHub account.
 - [upload-artifact](https://github.com/actions/upload-artifact) - Uploads artifacts from your workflow.
 - [download-artifact](https://github.com/actions/download-artifact) - Downloads artifacts from your build.
-- [action-project-manager](https://github.com/jason0x43/action-project-manager) - Relativley simple a GitHub Action that can be used to manage issues in a project.
+- [action-project-manager](https://github.com/jason0x43/action-project-manager) - Relatively simple a GitHub Action that can be used to manage issues in a project.
 - [compressed-size-action](https://github.com/preactjs/compressed-size-action) - GitHub Action that adds compressed size changes to your PRs.
 - [GitHub Action for Continuous Benchmarking](https://github.com/rhysd/github-action-benchmark)
 - [GitHub Action for GitHub Push](https://github.com/ad-m/github-push-action) - GitHub Actions for pushing to GitHub repository local changes authorizing using GitHub token.

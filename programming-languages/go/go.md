@@ -221,7 +221,7 @@ Go promotes composition over inheritance.
 - [prealloc](https://github.com/alexkohler/prealloc) - Go static analysis tool to find slice declarations that could potentially be preallocated.
 - [Why you shouldn't use func main in Go](https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer) ([Lobsters](https://lobste.rs/s/nvjvm0/why_you_shouldn_t_use_func_main_go))
 - [Diago](https://github.com/remeh/diago) - Visualization tool for CPU profiles and heap snapshots generated with `pprof`.
-- [pkgviz-go](https://github.com/tiegz/pkgviz-go) - Generate a vizualization of a Go package's types.
+- [pkgviz-go](https://github.com/tiegz/pkgviz-go) - Generate a visualization of a Go package's types.
 - [Setup for Your Next Golang Project](https://martinheinz.dev/blog/5) ([HN](https://news.ycombinator.com/item?id=21725869))
 - [HN: Go Turns 10](https://news.ycombinator.com/item?id=21483933)
 - [Benchmarking Go programs (2017)](https://scene-si.org/2017/06/06/benchmarking-go-programs/)

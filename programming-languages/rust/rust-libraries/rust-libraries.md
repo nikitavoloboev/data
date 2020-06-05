@@ -65,7 +65,7 @@
 - [gfx](https://github.com/gfx-rs/gfx) - High-performance, bindless graphics API.
 - [rspirv](https://github.com/gfx-rs/rspirv) - Rust implementation of SPIR-V module processing functionalities.
 - [cgmath-rs](https://github.com/rustgd/cgmath) - Linear algebra and mathematics library for computer graphics.
-- [aljabar](https://github.com/maplant/aljabar) - Extremely generic linear algebra libary for Rust.
+- [aljabar](https://github.com/maplant/aljabar) - Extremely generic linear algebra library for Rust.
 - [raqote](https://github.com/jrmuizel/raqote) - Pure Rust 2D Graphics Library.
 - [Kiss3d](https://github.com/sebcrozet/kiss3d) - Keep it simple, stupid 3d graphics engine for Rust.
 - [ncollide](https://github.com/rustsim/ncollide) - 2 and 3-dimensional collision detection library in Rust.
@@ -349,7 +349,7 @@
 - [regex-automata](https://github.com/BurntSushi/regex-automata) - Low level regular expression library that uses deterministic finite automata.
 - [syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
 - [glam](https://github.com/bitshifter/glam-rs) - Simple and fast linear algebra library for games and graphics.
-- [rust_minifb](https://github.com/emoon/rust_minifb) - Cross platfrom window and framebuffer crate for Rust.
+- [rust_minifb](https://github.com/emoon/rust_minifb) - Cross platform window and framebuffer crate for Rust.
 - [libloading](https://github.com/nagisa/rust_libloading) - Better library for loading dynamic libraries.
 - [NumToA](https://github.com/mmstick/numtoa) - Efficient method of heaplessly converting numbers into their string representations, storing the representation within a reusable byte array.
 - [OsStr Bytes](https://github.com/dylni/os_str_bytes) - Traits for converting between byte sequences and platform-native strings.
