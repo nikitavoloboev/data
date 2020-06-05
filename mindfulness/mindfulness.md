@@ -19,3 +19,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [The Book by Alan Watts](http://www.freespiritualebooks.com/uploads/5/0/5/8/50589505/the-book-on-the-taboo-against-knowing-who-you-are-by-alan-watts.pdf) - Or anything by Alan Watts.
 - [Mindfulness](https://brandur.org/fragments/mindfulness)
 - [Sam Harris - enlightenment, real meditation, and consciousness explained (2019)](https://overcast.fm/+RxHHyjxgA)
+- [Anxiety in product development (2020)](https://andreschweighofer.com/agile/anxiety-in-product-development/) ([HN](https://news.ycombinator.com/item?id=23415922))

@@ -45,3 +45,4 @@
 - [pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX/) - Convert PDF to HTML without losing text or format.
 - [htmlparser2](https://github.com/fb55/htmlparser2) - Forgiving html and xml parser.
 - [Awesome lit-html](https://github.com/web-padawan/awesome-lit-html)
+- [Grid.js](https://gridjs.io/) - Free and open-source HTML table plugin written in TypeScript. ([HN](https://news.ycombinator.com/item?id=23420091))
