@@ -31,3 +31,4 @@
 - [Julia Case Studies](https://juliacomputing.com/case-studies/)
 - [Administrative Scripting with Julia](https://github.com/ninjaaron/administrative-scripting-with-julia)
 - [The Fast Track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)
+- [JuliaLang Antipatterns (2020)](https://white.ucc.asn.au/2020/04/19/Julia-Antipatterns.html)
