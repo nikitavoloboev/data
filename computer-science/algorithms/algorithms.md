@@ -31,6 +31,7 @@
 - [Think Complexity](http://greenteapress.com/complexity/html/index.html)
 - [All Algorithms implemented in Rust](https://github.com/TheAlgorithms/Rust)
 - [Solutions to Introduction to Algorithms book](https://walkccc.github.io/CLRS/) ([Code](https://github.com/walkccc/CLRS))
+- [Maze Algorithms (2011)](https://www.jamisbuck.org/mazes/)
 
 ## Images
 
