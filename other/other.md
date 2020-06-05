@@ -226,3 +226,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [The aesthetics of science fiction spaceship design (2010)](https://uwspace.uwaterloo.ca/handle/10012/4935) ([HN](https://news.ycombinator.com/item?id=23379831))
 - [WiFi Card](https://wifi.dev.bdw.to/) - Print a QR code for connecting to your WiFi. ([Code](https://github.com/bndw/wifi-card))
 - [Ask HN: How do I reach making \$1-1.5k/mo in 13 months? (2020)](https://news.ycombinator.com/item?id=23427689)
+- [TinyInst](https://github.com/googleprojectzero/TinyInst) - Lightweight dynamic instrumentation library.

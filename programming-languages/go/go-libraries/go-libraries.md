@@ -62,6 +62,7 @@
 - [gearbox](https://github.com/abahmed/gearbox) - Web framework written in Go with a focus on high performance and memory optimization. ([HN](https://news.ycombinator.com/item?id=23131657))
 - [Fault](https://github.com/github/go-fault) - Provides go http middleware that makes it easy to inject faults into your service.
 - [rest](https://github.com/sendgrid/rest) - SendGrid's Golang HTTP Client for calling APIs.
+- [goproxy](https://github.com/elazarl/goproxy) - Provides a customizable HTTP proxy library for Go.
 
 ## GraphQL
 
@@ -430,6 +431,7 @@
 - [screenshot](https://github.com/kbinani/screenshot) - Go library to capture desktop to image.
 - [cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing.
 - [uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+- [sys](https://github.com/golang/sys) - Go packages for low-level interaction with the operating system.
 
 ## Links
 

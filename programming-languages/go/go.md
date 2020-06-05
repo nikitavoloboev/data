@@ -276,3 +276,4 @@ Go promotes composition over inheritance.
 - [impl](https://github.com/josharian/impl) - Generates method stubs for implementing an interface.
 - [air](https://github.com/cosmtrek/air) - Live reload for Go apps.
 - [The Go compiler needs to be smarter (2020)](https://lemire.me/blog/2020/06/04/the-go-compiler-needs-to-be-smarter/) ([HN](https://news.ycombinator.com/item?id=23423755)) ([Reddit](https://www.reddit.com/r/golang/comments/gwlrms/the_go_compiler_needs_to_be_smarter/))
+- [Swag](https://github.com/swaggo/swag) - Converts Go annotations to Swagger Documentation 2.0.
