@@ -32,3 +32,4 @@
 - [Top 100 Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers) ([Twitter](https://twitter.com/sachinrekhi/status/1256643491465007104))
 - [10 rules of a successful meeting in a tech company](https://twitter.com/tlakomy/status/1262767270062772224)
 - [How to Be a Great Manager (2020)](https://aaronbieber.coach/tips/how-to-be-a-great-manager)
+- [Ask HN: How to Disagree with the Rest of Management? (2020)](https://news.ycombinator.com/item?id=23427110)

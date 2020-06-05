@@ -166,3 +166,4 @@
 - [7GUIs](https://eugenkiss.github.io/7guis/) - GUI Programming Benchmark.
 - [Lower Your Guards: A Compositional Pattern-Match Coverage Checker](https://pp.ipd.kit.edu/uploads/publikationen/graf20lyg.pdf)
 - [Software Engineering Within SpaceX (2020)](https://yasoob.me/posts/software_engineering_within_spacex_launch/) ([HN](https://news.ycombinator.com/item?id=23403800))
+- [Ask HN: Are my expectations on code quality and professionalism too high? (2020)](https://news.ycombinator.com/item?id=23426574)

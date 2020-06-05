@@ -121,6 +121,7 @@ Here are few more things I liked, design wise.
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))
 - [Ernest Ojeh](https://ernestojeh.com/)
 - [Milen Dzhumerov](https://milen.me/)
+- [Krasjet](https://krasjet.com/)
 - [Prithu Goswami](https://prithu.xyz/) ([Code](https://github.com/prithugoswami/personal-website))
 - [Victor Zhou](https://victorzhou.com/) ([Code](https://github.com/vzhou842/victorzhou.com))
 - [Jonnie Hallman](https://destroytoday.com/)
