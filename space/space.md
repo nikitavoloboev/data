@@ -38,3 +38,4 @@
 - [Why are the objects in the space spinning?](https://www.reddit.com/r/AskPhysics/comments/gq8qpe/why_are_the_objects_in_the_space_spinning/)
 - [Everyday Astronaut](https://everydayastronaut.com/)
 - [SPACEX - ISS Docking Simulator](https://iss-sim.spacex.com/)
+- [SpaceX software team AMA (2020)](https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/)

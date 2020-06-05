@@ -14,3 +14,4 @@
 - [pdiffjson](https://github.com/jlevy/pdiffjson) - Diff JSON the easy way.
 - [Type Safety with JSON Subschema (2019)](https://arxiv.org/pdf/1911.12651.pdf)
 - [flatted](https://github.com/WebReflection/flatted) - Fast and minimal circular JSON parser.
+- [jqview](https://github.com/fiatjaf/jqview) - Simple native GUI for inspecting JSON with jq. ([HN](https://news.ycombinator.com/item?id=23433290))

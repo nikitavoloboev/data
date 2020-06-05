@@ -44,3 +44,4 @@
 - [Docup](https://docup.now.sh/) - Single JavaScript file that fetches Markdown file and renders it as a beautiful one-page documentation. ([Code](https://github.com/egoist/docup))
 - [RFCs and asynchronous-first culture (2020)](https://notes.eatonphil.com/rfcs-and-asynchronous-first-culture.html)
 - [Today’s Javascript, from an outsider’s perspective (2020)](http://lea.verou.me/2020/05/todays-javascript-from-an-outsiders-perspective/) ([Lobsters](https://lobste.rs/s/1qmlfh/today_s_javascript_from_outsider_s)) ([HN](https://news.ycombinator.com/item?id=23306382))
+- [What could be improved in the documentation process? (2020)](https://lobste.rs/s/2f463g/what_could_be_improved_documentation)
