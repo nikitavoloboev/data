@@ -66,4 +66,5 @@
 - [librush](https://github.com/kayru/librush) - Graphics prototyping framework. ([Examples](https://github.com/kayru/librush-examples))
 - [High-Performance MLS-MPM Solver with Cutting and Coupling](https://github.com/yuanming-hu/taichi_mpm)
 - [Computer Graphics course by Keenan Crane (2020)](https://www.youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E)
-- [How 3D video games do graphics (2020)](https://www.youtube.com/watch?v=bGe-d09Nc_M)
+- [How 3D video games do graphics (2020)](https://www.youtube.com/watch?v=bGe-d09Nc_M) ([Reddit](https://www.reddit.com/r/gamedev/comments/gvrx5m/how_3d_video_games_do_graphics/))
+- [The Physics of Light and Rendering - John Carmack (2013)](https://www.youtube.com/watch?v=P6UKhR0T6cs)
