@@ -16,3 +16,4 @@
 - [DXVK](https://github.com/doitsujin/dxvk) - Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 - [Examples and demos for the new Vulkan API](https://github.com/SaschaWillems/Vulkan)
 - [VUDA](https://github.com/jgbit/vuda) - Header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications.
+- [Rust implementation of the Vulkan Tutorial](https://github.com/unknownue/vulkan-tutorial-rust)

@@ -10,3 +10,4 @@
 - [End-to-End Encryption in the Browser (2020)](https://blog.excalidraw.com/end-to-end-encryption/) ([HN](https://news.ycombinator.com/item?id=22663435))
 - [Microsoft SEAL](https://github.com/microsoft/SEAL) - Easy-to-use and powerful homomorphic encryption library.
 - [E2E Encryption for Zoom Meetings (2020)](https://github.com/zoom/zoom-e2e-whitepaper/blob/master/zoom_e2e.pdf)
+- [So You Want to Build an End-to-End Encrypted Web App (2020)](https://www.zfnd.org/blog/so-you-want-an-e2e-encrypted-webapp/) ([HN](https://news.ycombinator.com/item?id=23426564))

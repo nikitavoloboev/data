@@ -100,6 +100,8 @@
 - [React Shimmer](https://github.com/gokcan/react-shimmer) - Async loading, performant Image component for React.js.
 - [react-textarea-autosize](https://github.com/Andarist/react-textarea-autosize) - Drop-in replacement for the textarea component which automatically resizes textarea as content changes.
 - [Caldera](https://github.com/calderajs/caldera-react) - Server-side execution environment for React.
+- [react-tooltip](https://github.com/wwayne/react-tooltip) - React tooltip component.
+- [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
 
 ## Links
 
