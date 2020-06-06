@@ -97,6 +97,7 @@
 - [TypeScript Language Server](https://github.com/theia-ide/typescript-language-server)
 - [TypeScript Playground Collaborate](https://github.com/orta/playground-collaborate)
 - [Centralized Recommendations for TSConfig bases](https://github.com/tsconfig/bases)
+- [Typescript Data Structures and Algorithms](https://github.com/jeffzh4ng/dsa-ts) - Collection of classic data structures and algorithms implemented in Typescript with video lectures.
 
 ## Images
 
