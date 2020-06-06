@@ -50,3 +50,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [libvim](https://github.com/onivim/libvim) - Core Vim editing engine as a minimal C library.
 - [diagnostic-nvim](https://github.com/haorenW1025/diagnostic-nvim) - Wrapper for neovim built in LSP diagnosis config.
 - [Mastering Vim Quickly](https://jovicailic.org/mastering-vim-quickly/)
+- [Missing Semester VIM lecture (2020)](https://www.youtube.com/watch?v=a6Q8Na575qc) ([HN](https://news.ycombinator.com/item?id=23436392))
