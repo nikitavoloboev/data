@@ -26,6 +26,8 @@
 - If we take a look at any given line of code in a method, we can nearly always categorize it as serving one of the following roles: 1. Collecting input. 2. Performing work. 3. Delivering output. 4. Handling failures.
 - [Code duplication is far cheaper than the wrong abstraction. When the abstraction is wrong, the fastest way forward is back.](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 - [Senior skills: Understanding requirements and knowing when to clarify. Building what's actually needed. Working with others including leadership. Working with customers when needed. Attention to detail. Knowing when to challenge others. Ownership. Innovation. Adaptability to change.](https://www.reddit.com/r/cscareerquestionsEU/comments/eu4pqz/worried_about_industry_trend_of_changing_jobs/ffl99hd)
+- [Write the comments first, then fill in the code.](https://www.reddit.com/r/AskComputerScience/comments/gx7b8r/what_one_tip_changed_your_coding_skills_forever/)
+- [If your variable names are good enough you need way fewer comments](https://www.reddit.com/r/AskComputerScience/comments/gx7b8r/what_one_tip_changed_your_coding_skills_forever/)
 
 ## Links
 

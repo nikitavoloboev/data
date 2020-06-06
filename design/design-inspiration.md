@@ -141,6 +141,7 @@ Here are few more things I liked, design wise.
 - [Lisi Linhart](https://lisilinhart.info/)
 - [Stephanie Bian](http://stephbian.github.io/index.html)
 - [Давид Кистаури](https://davidkistauri.ru/) ([[Code](https://github.com/dtroode/kistauri)])
+- [Christine Dodrill](https://christine.website/)
 - [Owen Williams](https://owenwillia.ms/)
 - [Andy Bell](https://hankchizljaw.com/)
 - [Marvin Hagemeister](https://marvinh.dev/)
