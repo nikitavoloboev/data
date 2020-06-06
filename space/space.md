@@ -39,3 +39,4 @@
 - [Everyday Astronaut](https://everydayastronaut.com/)
 - [SPACEX - ISS Docking Simulator](https://iss-sim.spacex.com/)
 - [SpaceX software team AMA (2020)](https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/)
+- [RussianSpaceWeb](http://www.russianspaceweb.com/) - News and history of astronautics in the former USSR.

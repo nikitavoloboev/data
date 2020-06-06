@@ -102,7 +102,7 @@ And these Discord servers:
 ## Links
 
 - [News](https://medium.com/@nikitavoloboev/news-d6bcaaf40121) - I wrote briefly my opinion about consuming news and media. Although my opinion as stated in the article is still the same. My approach as indicated above has changed and hopefully became a bit more refined to meet my own goals.
-- [List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
+- [List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented) ([HN](https://news.ycombinator.com/item?id=23439437))
 - [Ask HN: Other online communities like HN? (2018)](https://news.ycombinator.com/item?id=18384680)
 - [Curated list of awesome programming subreddits](https://github.com/iCHAIT/awesome-subreddits#readme)
 - [Stay Safe Out There: Navigating the Negatives on Twitter (2019)](https://www.holloway.com/s/excerpt-stay-safe-out-there-navigating-the-negatives-on-twitter)

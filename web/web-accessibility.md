@@ -23,3 +23,4 @@
 - [Names, Legal Names, and Fractally Deferred Responsibility (2020)](https://nora.codes/post/names-legal-names-and-fractally-deferred-responsibility/) ([Lobsters](https://lobste.rs/s/61iy3h/names_legal_names_fractally_deferred))
 - [Expedia Accessibility Guidelines](https://accessibility.expedia.biz/)
 - [Achieving accessibility through simplicity (2020)](https://sourcehut.org/blog/2020-05-27-accessibility-through-simplicity/)
+- [Building the most inaccessible site possible with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/) ([HN](https://news.ycombinator.com/item?id=23440752))

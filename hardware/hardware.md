@@ -48,3 +48,4 @@
 - [Building an IBM 3270 terminal controller (2020)](https://ajk.me/building-an-ibm-3270-terminal-controller)
 - [Pinebook Pro Six Months In (2020)](https://wiki.alopex.li/PinebookProSixMonthsIn) ([Lobsters](https://lobste.rs/s/rkfd2e/pinebook_pro_six_months))
 - [GoKey](https://github.com/f-secure-foundry/GoKey) - Bare metal Go smart card.
+- [USB-C is still a mess (2020)](https://www.androidauthority.com/state-of-usb-c-870996/) ([HN](https://news.ycombinator.com/item?id=23435805))

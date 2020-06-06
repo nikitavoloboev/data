@@ -97,3 +97,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Zub VM](https://github.com/nilq/zub-vm) - Super-fast, stack-based virtual machine for dynamic languages.
 - [Genode Operating System Framework Foundations](https://genode.org/documentation/genode-foundations-20-05.pdf)
 - [The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language (2019)](https://pdos.csail.mit.edu/papers/biscuit:thesis.pdf)
+- [Sol — a sunny little virtual machine (2012)](https://rsms.me/sol-a-sunny-little-virtual-machine) ([HN](https://news.ycombinator.com/item?id=23437511))

@@ -54,3 +54,4 @@
 - [HN: Reason React 0.8 (2020)](https://news.ycombinator.com/item?id=23168483)
 - [BuckleScript Monorepo example](https://github.com/anmonteiro/bucklescript-monorepo)
 - [reanalyze](https://github.com/reason-association/reanalyze) - Program analysis for Reason and OCaml projects targeting JS (bucklescript) as well as native code (dune).
+- [If you think ReasonML compiles to JS, you are wrong (2019)](https://baturin.org/blog/if-you-think-reasonml-compiles-to-js-you-are-wrong/)

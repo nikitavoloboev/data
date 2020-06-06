@@ -95,3 +95,4 @@
 - [One-pass Compiler Primer (2020)](https://keleshev.com/one-pass-compiler-primer) ([HN](https://news.ycombinator.com/item?id=23270269))
 - [SPARTA](https://github.com/facebookincubator/SPARTA) - Library of software components specially designed for building high-performance static analyzers based on the theory of Abstract Interpretation.
 - [Nand2Tetris Hack assembler implemented in Rust](https://github.com/tamuhey/hack-assembler-rust) ([HN](https://news.ycombinator.com/item?id=23412434))
+- [Let's make a Teeny Tiny compiler (2020)](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html) ([HN](https://news.ycombinator.com/item?id=23441767))
