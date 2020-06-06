@@ -11,3 +11,4 @@
 - [The most amazing abandoned 3D sketching program (2020)](https://www.youtube.com/watch?v=Sl1I7ZtsJtY)
 - [Buerli](https://buerli.io/) - Browser based modeling. Non-manifold, programmatic CAD workflow for the web.
 - [hmm](https://github.com/fogleman/hmm) - Heightmap meshing utility. Convert a grayscale heightmap image into a 3D mesh.
+- [Where Do People Draw Lines? (2008)](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/)

@@ -89,3 +89,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [What's open source?](https://technically.substack.com/p/whats-open-source)
 - [Ask HN: What open source project, in your opinion, has the highest code quality? (2018)](https://news.ycombinator.com/item?id=18037613)
 - [Microsoft and Open Source: An unofficial timeline (2020)](https://boxofcables.dev/microsoft-and-open-source-an-unofficial-timeline/)
+- [How we raised \$3M for an open source project (2020)](https://posthog.com/blog/raising-3m-for-os) ([HN](https://news.ycombinator.com/item?id=23426662))
