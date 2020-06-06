@@ -33,7 +33,7 @@
 - [BLAKE3 (rewrite in Go)](https://github.com/lukechampine/blake3)
 - [BLAKE3 (in JS)](https://github.com/connor4312/blake3) - Hashing for JavaScript: native Node bindings (where available) and WebAssembly.
 - [BLAKE3 reference specification](https://github.com/BLAKE3-team/BLAKE3-specs)
-- [real world crypto talks](https://flak.tedunangst.com/post/real-world-crypto-talks)
+- [Real world crypto talks](https://flak.tedunangst.com/post/real-world-crypto-talks)
 - [awesome-mpc](https://github.com/rdragos/awesome-mpc#readme) - Curated list of multi party computation resources and links.
 - [Basic Intro to Lattices in Cryptography (2020)](https://qvault.io/2020/01/23/very-basic-intro-to-lattices-in-cryptography/)
 - [SwiftCrypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms. ([Article](https://swift.org/blog/crypto/))
@@ -60,3 +60,4 @@
 - [How Not to Learn Cryptography (2014)](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/) ([HN](https://news.ycombinator.com/item?id=23384227))
 - [Encrypted Systems Lab](http://esl.cs.brown.edu/) - Research lab in the Computer Science Department at Brown University.
 - [Snow](https://github.com/mcginty/snow) - Rust implementation of the Noise Protocol Framework.
+- [Real-World Cryptography book (2020)](https://www.manning.com/books/real-world-cryptography)
