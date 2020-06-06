@@ -228,3 +228,4 @@
 - [Rust as a High Level Language (2020)](https://llogiq.github.io/2020/05/30/hi.html)
 - [Tour of Rust](https://tourofrust.com/) - Tour of rust's language features. ([Code](https://github.com/richardanaya/tour_of_rust))
 - [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/) ([Code](https://github.com/RustBeginners/awesome-rust-mentors))
+- [Why the developers who use Rust love it so much (2020)](https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/)

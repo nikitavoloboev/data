@@ -67,3 +67,4 @@ I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=e
 - [Who are the big movers and shakers in psychedelics? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/fvcczf/who_are_the_big_movers_and_shakers_in_psychedelics/)
 - [Mysterious Drugs that (Re)train Your Mind (2020)](https://mythirdbrain.substack.com/p/what-psychedelics-teach-us-about) ([HN](https://news.ycombinator.com/item?id=23346286))
 - [Psychedelic Science Review](https://psychedelicreview.com/)
+- [Psilocybin acutely alters the functional connectivity of the claustrum with brain networks that support perception, memory, and attention (2020)](https://www.sciencedirect.com/science/article/pii/S1053811920304663)
