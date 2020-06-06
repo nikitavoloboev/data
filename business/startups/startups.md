@@ -163,6 +163,7 @@
 - [What is Aggregation Theory?](https://stratechery.com/aggregation-theory/)
 - [Maciej Ceglowski - Barely succeed! It's easier! (2013)](https://www.youtube.com/watch?v=5Vt8zqhHe_c)
 - [Satchel](https://satchel.com/) - Write SaaS buying guides. Test products in different SaaS categories, write reports about our findings, and then try to identify the best product for a typical early-stage startup.
+- [Better Wiki](https://www.notion.so/Better-Wiki-c9cb3d3509a64743ac85f9c192ab4ce1) - Curated directory of best practices from great companies.
 
 ## Images
 

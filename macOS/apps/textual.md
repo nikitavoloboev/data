@@ -10,7 +10,7 @@ I am using Geeza Pro Regular 18pt font.
 
 I love its awesome channel search feature & use it a lot.
 
-<img src="https://i.imgur.com/CMBW8Qf.png" width="500" alt="img">
+![](https://i.imgur.com/CMBW8Qf.png)
 
 ## Install theme
 

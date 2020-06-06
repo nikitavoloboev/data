@@ -24,6 +24,7 @@
 - [Why Marketing Flywheels Work (2020)](https://sparktoro.com/blog/why-marketing-flywheels-work/) ([HN](https://news.ycombinator.com/item?id=23308622))
 - [Launch Cheat Sheet](https://github.com/sw-yx/launch-cheatsheet#readme)
 - [10 places and tactics you can use to manually recruit your first users](https://twitter.com/Mat_Sherman/status/1265777238315659265)
+- [Why is Readwise killing it? Thread on their strategy. (2020)](https://twitter.com/sidharthajha/status/1223974782682697729)
 
 ## Images
 
