@@ -811,3 +811,4 @@
     - [2020 March](looking-back/2020/2020-march.md)
     - [2020 April](looking-back/2020/2020-april.md)
     - [2020 May](looking-back/2020/2020-may.md)
+    - [2020 June](looking-back/2020/2020-june.md)

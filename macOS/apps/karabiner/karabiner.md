@@ -8,7 +8,7 @@ For example you can make caps lock into an escape key when pressed once but if y
 
 I take this idea further and define these kind of hyper keys but for **every single key on my keyboard**.
 
-<img src="https://imgs.xkcd.com/comics/borrow_your_laptop_2x.png" width="300" alt="img">
+![](https://imgs.xkcd.com/comics/borrow_your_laptop_2x.png)
 
 ## My personal Karabiner setup
 
