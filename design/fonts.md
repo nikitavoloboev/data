@@ -90,3 +90,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [FontEdit](https://github.com/ayoy/fontedit) - Desktop app to import, edit and export fonts as byte arrays for use in embedded systems. ([HN](https://news.ycombinator.com/item?id=23377273))
 - [Open Sauce Fonts](https://github.com/marcologous/Open-Sauce-Fonts) - Font super family that I developed for Creative Sauce's internal type system.
 - [Times New Roman alternatives: You can do better](https://practicaltypography.com/times-new-roman-alternatives.html) ([HN](https://news.ycombinator.com/item?id=23381513))
+- [Python+FontForge+Org: I made a font based on my handwriting! (2020)](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
+- [What’s In A Font? Researching Website Typography (2020)](https://kevq.uk/whats-in-a-font-researching-website-typography/)
