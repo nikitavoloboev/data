@@ -9,3 +9,4 @@
 - [The 2018 Löwdin Lectures - Markus Reiher](https://www.youtube.com/watch?v=OEJFPl7hSDM)
 - [The 2019 Nobel Prize in Chemistry - Lithium Ion Batteries](https://www.youtube.com/watch?v=zy1BhVhpGN0)
 - [Quantum Chemistry - Introduction](https://www.youtube.com/watch?v=HC81oYe43DI)
+- [Marie Curie's PhD thesis (2020)](https://www.youtube.com/watch?v=-Vynhniw7SY)
