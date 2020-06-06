@@ -56,3 +56,4 @@
 - [templar](https://github.com/vektra/templar) - HTTP proxy to improve usage of HTTP APIs.
 - [sirv](https://github.com/lukeed/sirv) - Optimized middleware & CLI application for serving static files.
 - [httpbin](https://httpbin.org/) - HTTP Request & Response Service. ([Code](https://github.com/postmanlabs/httpbin))
+- [srv](https://github.com/joshuarli/srv) - Minimalist http(s) server and file browser. ([Lobsters](https://lobste.rs/s/p6euqh/srv_minimalist_alternative_python_m_http))
