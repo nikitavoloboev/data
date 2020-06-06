@@ -29,6 +29,7 @@
 - [gatsby-plugin-netlify-cache](https://github.com/axe312ger/gatsby-plugin-netlify-cache) - Caches your Gatsby .cache and public folder to speed up your build time by 10x.
 - [gatsby-plugin-next-seo](https://github.com/ifiokjr/gatsby-plugin-next-seo) - Plug in that makes managing your SEO easier in Gatsby projects.
 - [gatsby-plugin-prettier-build](https://github.com/jmsv/gatsby-plugin-prettier-build) - Prettify gatsby build output.
+- [gatsby-source-airtable](https://github.com/jbolda/gatsby-source-airtable) - Gatsby source plugin for sourcing data into your Gatsby application from your Airtable base tables.
 
 ## Links
 

@@ -25,7 +25,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Evgeny Lushpin](https://lushpin.com/)
 - [Qi Sheng Luo](https://www.artstation.com/luoqisheng)
 - [Leland Foster](https://www.instagram.com/leland.foster/)
-- [Banksy](http://banksy.co.uk/out.asp)
+- [Banksy](https://www.banksy.co.uk/menu.asp)
 - [Nicola Samorì](http://www.nicolasamori.com/)
 - [Malika Favre](https://www.malikafavre.com/)
 - [Khius Art](https://www.artstation.com/khius)

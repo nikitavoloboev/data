@@ -93,6 +93,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together.
 - [Git.io](https://git.io/) - URL shortener by GitHub.
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph#readme) - Code search and intelligence, self-hosted and scalable.
+- [Tinybird](https://www.tinybird.co/) - Helps data teams deliver real-time answers faster and at scale.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
 - [Carbon](https://carbon.now.sh/about/) - Create and share beautiful images of your source code. ([HN](https://news.ycombinator.com/item?id=23122529))

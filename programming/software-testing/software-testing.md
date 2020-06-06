@@ -30,3 +30,4 @@
 - [Puppeteer Recorder](https://github.com/checkly/puppeteer-recorder) - Chrome extension that records your browser interactions and generates a Puppeteer script.
 - [Unit Testing at REKKI (2020)](https://eng.rekki.com/unit-testing-at-rekki/t.txt)
 - [Ideology (2015)](https://www.destroyallsoftware.com/talks/ideology) ([Lobsters](https://lobste.rs/s/zte1xm/ideology))
+- [Gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation. ([Web](https://gauge.org/))
