@@ -11,4 +11,4 @@
 - [HN: Visa, Mastercard, Stripe, and eBay exit Facebook’s Libra project (2019)](https://news.ycombinator.com/item?id=21227961)
 - [Facebook Libra is Architecturally Unsound (2019)](http://www.stephendiehl.com/posts/libra.html) ([HN](https://news.ycombinator.com/item?id=21451847)) ([Lobsters](https://lobste.rs/s/fh6iog/facebook_libra_is_architecturally))
 - [Factual inaccuracies of “Facebook Libra is Architecturally Unsound” (2019)](https://tonyarcieri.com/factual-inaccuracies-of-facebook-libra-is-architecturally-unsound)
-- [Facebook Novi & Surveillance Finance (2020)](https://www.stephendiehl.com/posts/novi.html)
+- [Facebook Novi & Surveillance Finance (2020)](https://www.stephendiehl.com/posts/novi.html) ([HN](https://news.ycombinator.com/item?id=23440307))
