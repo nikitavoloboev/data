@@ -77,6 +77,7 @@
 - [Instagram Scraper Python](https://github.com/realsirjoe/instagram-scraper) - Scrapes medias, likes, followers, tags and all metadata.
 - [Fastly Go](https://github.com/fastly/go-fastly)
 - [Linear GraphQL API](https://github.com/linearapp/linear/blob/master/docs/API.md)
+- [SpaceX API](https://github.com/r-spacex/SpaceX-API) - Open Source REST API for rocket, core, capsule, pad, and launch data.
 
 ## Links
 
