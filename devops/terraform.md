@@ -15,3 +15,4 @@
 - [terraform-compliance](https://github.com/eerkunt/terraform-compliance) - Lightweight, security focused, BDD test framework against terraform.
 - [tf2pulumi](https://github.com/pulumi/tf2pulumi) - Convert Terraform projects to Pulumi TypeScript programs.
 - [Terraform Lightning Course (2020)](https://www.youtube.com/playlist?list=PLozcbFx8FoPHM7n2DGLa6G8ZwtWFsVZsP)
+- [TFLint](https://github.com/terraform-linters/tflint) - Terraform linter focused on possible errors, best practices, etc.

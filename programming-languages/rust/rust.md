@@ -229,3 +229,4 @@
 - [Tour of Rust](https://tourofrust.com/) - Tour of rust's language features. ([Code](https://github.com/richardanaya/tour_of_rust))
 - [Awesome Rust Mentors](https://rustbeginners.github.io/awesome-rust-mentors/) ([Code](https://github.com/RustBeginners/awesome-rust-mentors))
 - [Why the developers who use Rust love it so much (2020)](https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/) ([HN](https://news.ycombinator.com/item?id=23437202))
+- [Learn Rust with TDD](https://learn-with-tests.github.io/learn-rust-with-tests/) ([Code](https://github.com/learn-with-tests/learn-rust-with-tests))

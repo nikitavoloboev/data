@@ -109,3 +109,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [socketmaster](https://www.badgerodon.com/socketmaster) - Zero-configuration reverse proxy. ([Code](https://github.com/badgerodon/socketmaster))
 - [free5GC](https://github.com/free5gc/free5gc) - Open source 5G core network base on 3GPP R15.
 - [How to receive a million packets per second (2015)](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
+- [5G and Shannon’s Law (2020)](https://www.waveform.com/blogs/main/5g-and-shannons-law) ([HN](https://news.ycombinator.com/item?id=23443746))
