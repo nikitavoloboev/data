@@ -153,4 +153,5 @@
 - [Hermitage: Testing transaction isolation levels](https://github.com/ept/hermitage#readme)
 - [Amazon's Dynamo (2007)](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
 - [The Curious Case of Small Files (2020)](https://developer.sh/posts/curious-case-of-small-files) ([Lobsters](https://lobste.rs/s/b3mmo4/curious_case_small_files))
-- [MiniCouchDB in Rust (2020)](https://www.garrensmith.com/blogs/mini-couch-hack-week) ([HN](https://news.ycombinator.com/item?id=23446852))
+- [MiniCouchDB in Rust (2020)](https://www.garrensmith.com/blogs/mini-couch-hack-week) ([HN](https://news.ycombinator.com/item?id=23446852)) ([Lobsters](https://lobste.rs/s/waj4zf/minicouchdb_rust))
+- [Accessing SQLite, PostgreSQL and MySQL through ODBC](https://relational-pipes.globalcode.info/v_0/examples-tr-sql-odbc.xhtml)

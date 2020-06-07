@@ -20,3 +20,4 @@
 - [Abusing WebRTC to Reveal Coarse Location Data in Signal (2020)](https://medium.com/tenable-techblog/turning-signal-app-into-a-coarse-tracking-device-643eb4298447) ([HN](https://news.ycombinator.com/item?id=23251319))
 - [Pion SDP](https://github.com/pion/sdp) - Go implementation of the SDP.
 - [Janus WebRTC Server](https://janus.conf.meetecho.com/) ([HN](https://news.ycombinator.com/item?id=23372119))
+- [Anatomy of a WebRTC video conference (2020)](https://levelup.gitconnected.com/anatomy-of-a-webrtc-video-conference-f924ba0ba930)

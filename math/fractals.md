@@ -28,3 +28,4 @@
 - [Introduction to Newton Fractals (2016)](https://ryhl.io/blog/newton-intro/)
 - [L-System](https://anvaka.github.io/lsystem/) - Simple L-Systems explorer powered by WebGL. ([Code](https://github.com/anvaka/lsystem))
 - [L-System manual](http://paulbourke.net/fractals/lsys/)
+- [Drawing Fractals with PureScript (2020)](https://blog.drewolson.org/drawing-fractals-with-purescript)

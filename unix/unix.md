@@ -29,3 +29,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [The Deprecated nix API (2020)](https://www.bitquabit.com/post/deprecated-nix-api/) ([Lobsters](https://lobste.rs/s/ojiulv/deprecated_nix_api))
 - [Bell Labs Employee List](http://cm.bell-labs.co/who/)
 - [The beauty of Unix pipelines (2020)](https://prithu.xyz/posts/unix-pipeline/) ([HN](https://news.ycombinator.com/item?id=23420786))
+- [Relational pipes](https://relational-pipes.globalcode.info/v_0/index.xhtml) - Open data format designed for streaming structured data between two processes.

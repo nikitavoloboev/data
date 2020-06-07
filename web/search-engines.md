@@ -31,3 +31,4 @@
 - [Quickref](https://quickref.dev/) - Experimental search engine for developers. Searches a curated subset of the web: official docs and community-driven sources. ([Lobsters](https://lobste.rs/s/dji0it/experimental_search_engine_for)) ([HN](https://news.ycombinator.com/item?id=23263918))
 - [Tantivy](https://github.com/tantivy-search/tantivy) - Full text search engine library written in Rust.
 - [sonar](https://github.com/arso-project/sonar-tantivy) - Search engine based on tantivy with a Node.js frontend.
+- [How to make PageRank faster (with lots of math and a hint of Python) (2020)](https://dev.to/karjudev/how-to-make-pagerank-faster-with-lots-of-math-and-a-hint-of-python-2e92)

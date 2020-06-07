@@ -59,3 +59,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [How to send emails from static websites (2019)](https://medium.com/@WebReflection/how-to-send-emails-from-static-websites-9a34ceb9416c)
 - [SMTP2HTTP (email-to-web)](https://github.com/alash3al/smtp2http) - Tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request.
 - [Cerberus](https://tedgoas.github.io/Cerberus/) - Patterns for Responsive HTML Email Templates. ([Code](https://github.com/TedGoas/Cerberus))
+- [Why Email is the Best Discussion Platform (2020)](https://www.paritybit.ca/blog/why-email-is-the-best-discussion-platform) ([Lobsters](https://lobste.rs/s/9ezplc/why_email_is_best_discussion_platform))
