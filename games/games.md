@@ -75,3 +75,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [TShock](https://github.com/Pryaxis/TShock) - Provides Terraria servers with server-side characters, anti-cheat, and community management tools.
 - [Dockerfile for terraria](https://github.com/ryansheehan/terraria)
 - [GG|](https://ggapp.io/) - Video Game Collection Tracker.
+- [Factory Planner](https://github.com/ClaudeMetz/FactoryPlanner) - Mod for Factorio. It allows you to plan out your production in detail.

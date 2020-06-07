@@ -369,6 +369,7 @@
 - [MusicTheory](https://github.com/cemolcay/MusicTheory) - Music theory library with Key, Pitch, Interval, Scale and Chord representations in swift enums.
 - [Default](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
 - [Dye](https://github.com/dduan/Dye) - Cross-platform terminal styling for Swift command-line interface.
+- [SearchExpressionParser](https://github.com/CleanCocoa/SearchExpressionParser) - Parses search strings (as in: what you put into a search engine) into evaluable expressions.
 
 ## Other (not lib)
 

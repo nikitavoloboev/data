@@ -12,3 +12,4 @@
 - [Raspberry-Pi Bare Metal Tutorial](https://github.com/BrianSidebotham/arm-tutorial-rpi)
 - [QPULib](https://github.com/mn416/QPULib) - Language and compiler for the Raspberry Pi GPU.
 - [Raspberry Pi Docs](https://www.raspberrypi.org/documentation/) ([Code](https://github.com/raspberrypi/documentation))
+- [Cuprum Pi](https://github.com/inre/cupi) - GPIO access library for the Raspberry Pi.

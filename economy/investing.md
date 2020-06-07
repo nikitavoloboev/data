@@ -70,3 +70,4 @@
 - [Jeff Morris Jr. (Founder & Managing Partner at Chapter One) interview (2020)](https://thetakeoff.substack.com/p/jeff-morris-jr-edition-15)
 - [Numerai](https://numer.ai/) - AI-run, crowd-sourced hedge fund.
 - [FINVIZ](https://www.finviz.com/) - Stock Screener.
+- [How do I get better at following lesser known stocks? (2020)](https://www.reddit.com/r/investing/comments/gyax1h/how_do_i_get_better_at_following_lesser_known/)
