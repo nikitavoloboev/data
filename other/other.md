@@ -228,3 +228,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Ask HN: How do I reach making \$1-1.5k/mo in 13 months? (2020)](https://news.ycombinator.com/item?id=23427689)
 - [TinyInst](https://github.com/googleprojectzero/TinyInst) - Lightweight dynamic instrumentation library.
 - [counts](https://github.com/nnethercote/counts) - A tool for ad hoc profiling.
+- [Quantified Self (QS) Ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis.

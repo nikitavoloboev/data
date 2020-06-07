@@ -37,3 +37,4 @@
 - [Tea language](https://github.com/emjun/tea-lang) - High-level Language and Runtime System for Automating Statistical Analyses.
 - [Statistical Thinking for the 21st Century](https://statsthinking21.org/) - Open source textbook for statistics, with companions for R and Python. ([Code](https://github.com/statsthinking21/statsthinking21-core))
 - [Learning Statistics with R](https://learningstatisticswithr.com/) ([Code](https://github.com/djnavarro/rbook))
+- [What book do you recommend for how to apply statistics in the real world? (2020)](https://www.reddit.com/r/statistics/comments/gxvfj4/q_what_book_do_you_recommend_for_how_to_apply/)
