@@ -433,6 +433,7 @@
 - [uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [sys](https://github.com/golang/sys) - Go packages for low-level interaction with the operating system.
 - [zek](https://github.com/miku/zek) - Generate a Go struct from XML.
+- [go-diodes](https://github.com/cloudfoundry/go-diodes) - Diodes are ring buffers manipulated via atomics.
 
 ## Links
 

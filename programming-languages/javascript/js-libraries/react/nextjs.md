@@ -24,6 +24,8 @@
 - [next-dark-mode](https://github.com/xeoneux/next-dark-mode) - Enable dark mode for Next.js.
 - [NextAuth](https://github.com/iaincollins/next-auth) - Authentication library for Next.js projects.
 - [next-optimized-images](https://github.com/cyrilwanner/next-optimized-images) - Automatically optimizes images used in next.js projects (jpeg, png, svg, webp and gif).
+- [next-session](https://github.com/hoangvvo/next-session) - Simple promise-based session middleware for Next.js, micro, Express, and more.
+- [next-connect](https://github.com/hoangvvo/next-connect) - Router and middleware layer for Next.js, Micro, or Node.js HTTP Server.
 
 ## Links
 

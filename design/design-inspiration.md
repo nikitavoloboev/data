@@ -142,6 +142,7 @@ Here are few more things I liked, design wise.
 - [Heydon Pickering](https://heydonworks.com/)
 - [Lisi Linhart](https://lisilinhart.info/)
 - [Stephanie Bian](http://stephbian.github.io/index.html)
+- [Mitxela](https://mitxela.com/)
 - [Давид Кистаури](https://davidkistauri.ru/) ([[Code](https://github.com/dtroode/kistauri)])
 - [Christine Dodrill](https://christine.website/)
 - [Owen Williams](https://owenwillia.ms/)

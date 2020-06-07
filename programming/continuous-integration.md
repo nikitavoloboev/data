@@ -13,3 +13,4 @@
 - [See 13 Netlify features for the best control of development workflow (2020)](https://www.netlify.com/blog/2020/05/12/see-13-netlify-features-for-the-best-control-of-development-workflow/)
 - [Netlify Build](https://github.com/netlify/build) - Pluggable tool for running builds locally and in Netlify CI.
 - [Netlify Build Plugins](https://github.com/netlify/plugins)
+- [GitOps Engine](https://github.com/argoproj/gitops-engine) - Reusable library that implements core GitOps features.
