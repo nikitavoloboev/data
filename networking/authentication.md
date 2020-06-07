@@ -36,3 +36,4 @@
 - [loginsrv](https://github.com/tarent/loginsrv) - Standalone minimalistic login server providing a JWT login for multiple login backends.
 - [Designing an Authentication System: a Dialogue in Four Scenes (1988)](https://web.mit.edu/kerberos/dialogue.html) ([HN](https://news.ycombinator.com/item?id=23352856))
 - [Okta Identity Cloud](https://www.okta.com/) - Gives you one trusted platform to secure every identity in your organization, including your workforce and customers. ([Okta Developer Platform](https://developer.okta.com/))
+- [Building a Secure Signed JWT (2020)](https://fusionauth.io/learn/expert-advice/tokens/building-a-secure-jwt)
