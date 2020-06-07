@@ -38,4 +38,4 @@ This includes closing GitHub issues that are of priority to me. Beyond this I wa
 
 ## Financial stability
 
-Release something that is worth selling.
+Release something that is worth selling before money runs out and I die of hunger.
