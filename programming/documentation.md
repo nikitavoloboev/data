@@ -25,6 +25,7 @@
 - [How to remove condescending language from documentation (2019)](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
 - [Rich docs with Storybook MDX (2019)](https://medium.com/storybookjs/rich-docs-with-storybook-mdx-61bc145ae7bc)
 - [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust.
+- [mdbook-generate-summary](https://github.com/younata/mdbook-generate-summary) - Tool to generate an mdBook SUMMARY.md page.
 - [The Knowledge: Towards a Culture of Engineering Documentation](https://www.usenix.org/node/197471)
 - [We Need a New Document Markup Language - Here is Why (2019)](https://dev.to/practicalprogramming/we-need-a-new-document-markup-language---here-is-why-5d4c)
 - [Devhints](https://devhints.io/) - TL;DR for documentation. ([Code](https://github.com/rstacruz/cheatsheets))

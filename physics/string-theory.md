@@ -6,3 +6,7 @@
   - Problem was, up until the mid-90s they had 5 different theories, and they all looked correct. At first glance, this looked like a major problem because the sets of equations were contradictory. However, some guy named Edward Witten was at a conference in 1995 and said "Hey, it turns out these 5 different theory are all the same thing. They are all simplifications of this new theory right here I call M-Theory."
   - There was much rejoicing, and now M-theory is the only leading string theory.
   - At this point, there is no actual experimental evidence for string theory. But some physicists like it because it looks nice and elegant, and its one of the only ways we've thought of to create a theory that unifies gravity and particle physics.
+
+## Links
+
+- [What's the current state of string theory? (2020)](https://www.reddit.com/r/AskPhysics/comments/gxwowd/whats_the_current_state_of_string_theory/)

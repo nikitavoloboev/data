@@ -59,3 +59,4 @@
 - [lovetoys](https://github.com/lovetoys/lovetoys) - Entity Component System framework for game development with lua.
 - [Cheat Engine](https://github.com/cheat-engine/cheat-engine) - Development environment focused on modding games and applications for personal use.
 - [Source code to Delores: A Thimbleweed Park mini-adventure](https://github.com/grumpygamer/DeloresDev)
+- [EnTT](https://github.com/skypjack/entt) - Header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model.

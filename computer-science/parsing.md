@@ -25,3 +25,4 @@
 - [SwiftSoup](https://github.com/scinfu/SwiftSoup) - Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS).
 - [GoGLL](https://github.com/goccmack/gogll) - Generates a GLL parser and FSA-based lexer for any context-free grammar. The generated code is Go or Rust.
 - [How to Write a Lexer in Go (2020)](https://www.aaronraff.dev/blog/how-to-write-a-lexer-in-go)
+- [Spicy](https://github.com/zeek/spicy) - C++ parser generator that makes it easy to create robust parsers for network protocols, file formats, and more.

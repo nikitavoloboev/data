@@ -63,3 +63,4 @@ All active variables can be seen by running `env`.
 - [Shell script template suitable for most software developers](https://github.com/mjambon/reasonable-shell-script)
 - [Chafa](https://github.com/hpjansson/chafa) - Command-line utility that converts all kinds of images, including animated GIFs, into sixel or ANSI/Unicode character output that can be displayed in a terminal.
 - [streamhut](https://github.com/miguelmota/streamhut) - Stream and send data, terminal to web and vice versa.
+- [TermBackTime](https://github.com/termbacktime/termbacktime) - Terminal recording and playback.

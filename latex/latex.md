@@ -38,3 +38,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Have you ever asked yourself “how did research get done before LateX?” (2020)](https://threadreaderapp.com/thread/1262489387767480322.html) ([HN](https://news.ycombinator.com/item?id=23338742))
 - [LaTeX.js](https://github.com/michael-brade/LaTeX.js) - LaTeX to HTML5 translator using a PEG.js parser.
 - [Flexible LaTeX Article Environment](https://github.com/sylvainhalle/PaperShell)
+- [mdbook-latex](https://github.com/lbeckman314/mdbook-latex) - An mdbook backend for generating LaTeX and PDF documents.

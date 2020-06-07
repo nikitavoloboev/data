@@ -19,3 +19,4 @@
 - [React Native Tailwind](https://github.com/MythicalFish/react-native-tailwind) - Functional CSS classes for React Native.
 - [TailwindCSS Figma Plugin](https://github.com/impulse/tailwindcss-figma-plugin)
 - [TailBlocks](https://mertjf.github.io/tailblocks/) - Ready-to-use Tailwind CSS blocks. ([Code](https://github.com/mertJF/tailblocks))
+- [Tailwind CSS Dark Mode](https://github.com/ChanceArthur/tailwindcss-dark-mode) - Tailwind CSS plugin that adds variants for dark mode.
