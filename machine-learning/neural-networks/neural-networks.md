@@ -117,3 +117,4 @@
 - [Neural Network Pruning (2020)](https://nathanhubens.github.io/posts/deep%20learning/2020/05/22/pruning.html)
 - [Hyperbolic RNN in PyTorch](https://github.com/ferrine/hyrnn)
 - [deeplearn-rs](https://github.com/tedsta/deeplearn-rs) - Deep learning in Rust.
+- [Neural networks trained to communicate with each other without any training data](https://twitter.com/noahtren/status/1269035375051386880)

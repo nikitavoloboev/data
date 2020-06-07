@@ -83,6 +83,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Michael Mellinger math notes](https://github.com/melling/MathAndScienceNotes)
 - [Bookmarks, tweets, cheatsheets, one-liners](https://github.com/ccampean/almanacs#readme)
 - [Bayle Shanks](http://www.bayleshanks.com/)
+- [Noah Trenaman](https://blog.noahtren.com/note/3acea2e1/)
 - [Azlen Elza](https://notes.azlen.me/g3tibyfv/)
 - [Brady Joslin's TIL](https://til.bradyjoslin.com/_introduction/)
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
