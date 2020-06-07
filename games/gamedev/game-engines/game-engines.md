@@ -34,7 +34,7 @@
 - [Minetest](https://github.com/minetest/minetest) - Free open-source voxel game engine with easy modding and game creation.
 - [Crow](https://github.com/lcnr/crow) - Simple pixel perfect 2D rendering engine in Rust. ([Akari - game built with Crow](https://github.com/lcnr/akari))
 - [Defold](https://defold.com/) - Ultimate game engine for web and mobile. ([Code](https://github.com/defold/defold)) ([HN](https://news.ycombinator.com/item?id=23232648))
-- [Grid](https://github.com/Planimeter/grid-sdk) - Game engine for Lua. Designed for multiplayer-first game experiences.
+- [Grid](https://github.com/Planimeter/grid-sdk) - Game engine for Lua. Designed for multiplayer-first game experiences. ([Web](https://www.planimeter.org/grid-sdk/))
 
 ## Links
 
