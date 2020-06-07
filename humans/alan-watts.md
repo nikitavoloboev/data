@@ -17,8 +17,8 @@ The one book I read by him and loved is [Wisdom of Insecurity](https://antilogic
 - [It all goes together](https://www.youtube.com/watch?v=qml1-xzPpxY)
 - [The Freedom To Make Mistakes](https://www.youtube.com/watch?v=AnLZBdB9uWU)
 - [Story of the Chinese Farmer](https://www.youtube.com/watch?v=b_onYOLnELI)
-- [Alan Watts - "Music and Life"](https://www.youtube.com/watch?v=WGoTmNU_5A0)
-- [Life is NOT a Journey - Alan Watts](https://www.youtube.com/watch?v=rBpaUICxEhk)
+- [Music and Life](https://www.youtube.com/watch?v=WGoTmNU_5A0)
+- [Life is NOT a Journey](https://www.youtube.com/watch?v=rBpaUICxEhk)
 
 ## Interesting talks
 
