@@ -125,6 +125,7 @@
 - [Gmenu](https://github.com/amirdew/gmenu) - Redesigned menu for Gmail iOS app, implemented using SwiftUI.
 - [SwiftUISearchBar](https://github.com/appcoda/SwiftUISearchBar) - Search bar built entirely in SwiftUI.
 - [PathBuilder](https://github.com/mkj-is/PathBuilder) - SwiftUI function builder for Path.
+- [AlertX](https://github.com/neel-makhecha/AlertX) - Custom alerts in SwiftUI made easy.
 
 ## Test
 

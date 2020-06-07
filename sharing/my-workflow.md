@@ -62,7 +62,7 @@
 
 ## Tech stack (preferred)
 
-- Static sites / Blogs - [Eleventy](https://github.com/11ty/eleventy).
+- Static sites / Blogs - [Eleventy](https://github.com/11ty/eleventy) or [Hugo](https://github.com/gohugoio/hugo).
 - Web Apps - [NextJS](https://nextjs.org/) to server side render with [React](https://github.com/facebook/react).
 - Server APIs - [Go](https://golang.org/).
 - Scripts & CLI tools - [Go](https://golang.org/).

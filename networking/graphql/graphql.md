@@ -92,3 +92,4 @@
 - [The GraphQL Guide](https://graphql.guide/) - Book about GraphQL, the new REST.
 - [Fastify GraphQL adapter](https://github.com/mcollina/fastify-gql)
 - [Example GraphQL API implemented in Go and backed by Postgresql](https://github.com/topliceanu/graphql-go-example)
+- [Sqlmancer](https://github.com/danielrearden/sqlmancer) - Conjure SQL from your GraphQL queries.

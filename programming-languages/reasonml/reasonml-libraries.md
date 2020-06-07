@@ -17,6 +17,7 @@
 - [Restorative](https://github.com/paulshen/restorative) - Simple ReasonML state management.
 - [revery-quick-start](https://github.com/revery-ui/revery-quick-start) - Quick Start / Sample Revery Application.
 - [styled-ppx](https://github.com/davesnx/styled-ppx) - CSS-in-Reason and OCaml.
+- [reason-recoil](https://github.com/bloodyowl/reason-recoil) - Zero-cost bindings to Facebook's Recoil library.
 
 ## Links
 
