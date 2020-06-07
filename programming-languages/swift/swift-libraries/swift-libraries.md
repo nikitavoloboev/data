@@ -365,6 +365,7 @@
 - [Minimalist](https://github.com/nalexn/minimalist) - Dead simple Observable Property and Signal.
 - [MusicTheory](https://github.com/cemolcay/MusicTheory) - Music theory library with Key, Pitch, Interval, Scale and Chord representations in swift enums.
 - [Default](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
+- [Dye](https://github.com/dduan/Dye) - Cross-platform terminal styling for Swift command-line interface.
 
 ## Other (not lib)
 

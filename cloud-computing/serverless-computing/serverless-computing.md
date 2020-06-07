@@ -46,3 +46,4 @@
 - [Serverless vs traditional app architecture diagram](https://twitter.com/tucker_dev/status/1265035142336180225)
 - [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq#readme)
 - [leaderboard-app](https://github.com/alexellis/leaderboard-app) - GitHub leaderboard for your organisation or repo (Serverless SPA).
+- [Webiny](https://github.com/webiny/webiny-js) - Platform for building serverless applications and API (Node.js, React, GraphQL). ([Web](https://www.webiny.com/))

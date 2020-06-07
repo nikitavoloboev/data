@@ -23,3 +23,4 @@
 - [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Wireless, encrypted file transfer over automatically configured ad hoc networking.
 - [shoop](https://github.com/mcginty/shoop) - High-speed encrypted file transfer tool reminiscent of scp.
 - [Airshare](https://github.com/kurolabs/airshare) - Cross-platform content sharing in a local network.
+- [ShareDrop](https://www.sharedrop.io/) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop. ([Code](https://github.com/cowbell/sharedrop))
