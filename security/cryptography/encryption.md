@@ -12,3 +12,4 @@
 - [E2E Encryption for Zoom Meetings (2020)](https://github.com/zoom/zoom-e2e-whitepaper/blob/master/zoom_e2e.pdf)
 - [So You Want to Build an End-to-End Encrypted Web App (2020)](https://www.zfnd.org/blog/so-you-want-an-e2e-encrypted-webapp/) ([HN](https://news.ycombinator.com/item?id=23426564))
 - [Cingulata](https://github.com/CEA-LIST/Cingulata) - Compiler toolchain and RTE for running C++ programs over encrypted data by means of fully homomorphic encryption techniques.
+- [baby's first hash encryption (2020)](https://www.thefragehaver.com/posts/encryptionone/)

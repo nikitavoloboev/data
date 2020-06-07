@@ -69,3 +69,4 @@
 - [VIBE](https://github.com/mkocabas/VIBE) - Video Inference for Human Body Pose and Shape Estimation.
 - [SRZoo](https://github.com/idearibosome/srzoo) - Integrated repository for super-resolution using deep learning.
 - [mAP (mean Average Precision)](https://github.com/Cartucho/mAP) - Evaluates the performance of your neural net for object recognition.
+- [Neural Pose Transfer by Spatially Adaptive Instance Normalization (2020)](https://github.com/jiashunwang/Neural-Pose-Transfer)
