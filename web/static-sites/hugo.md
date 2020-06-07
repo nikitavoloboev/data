@@ -25,3 +25,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [How to start a blog using Hugo (2020)](https://flaviocopes.com/start-blog-with-hugo/) ([HN](https://news.ycombinator.com/item?id=21978306))
 - [Tips for Customizing Hugo RSS Feeds (2020)](https://benjamincongdon.me/blog/2020/01/14/Tips-for-Customizing-Hugo-RSS-Feeds/)
 - [Switching a Hugo theme (2019)](https://misha.brukman.net/blog/2019/05/switching-hugo-theme/)
+- [Grouse](https://github.com/capnfabs/grouse) - Diff tool for Hugo static sites.
