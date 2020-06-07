@@ -34,3 +34,4 @@ Textual keeps a command reference [here](https://help.codeux.com/textual/Command
 - [Oragono](https://github.com/oragono/oragono) - Modern IRC server written in Go. ([HN](https://news.ycombinator.com/item?id=23113323))
 - [Synchronous Text (2019)](http://exple.tive.org/blarg/2019/04/26/synchronous-text/)
 - [Convos](https://convos.chat/) - Simplest way to use IRC in your browser. ([Code](https://github.com/Nordaaker/convos))
+- [Modern IRC Client Protocol](https://modern.ircdocs.horse/) ([Code](https://github.com/ircdocs/modern-irc))
