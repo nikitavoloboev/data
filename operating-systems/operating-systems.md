@@ -36,6 +36,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [9front](http://9front.org/)
 - [lilith](https://github.com/ffwff/lilith) - POSIX-like x86-64 kernel and userspace written in Crystal.
 - [Genode](https://genode.org/index) - Operating System Framework.
+- [Shrine](https://github.com/minexew/Shrine) - TempleOS distro for heretics.
 
 ## Links
 

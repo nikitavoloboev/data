@@ -118,3 +118,4 @@
 - [Hyperbolic RNN in PyTorch](https://github.com/ferrine/hyrnn)
 - [deeplearn-rs](https://github.com/tedsta/deeplearn-rs) - Deep learning in Rust.
 - [Neural networks trained to communicate with each other without any training data](https://twitter.com/noahtren/status/1269035375051386880)
+- [Classical Piano Composer](https://github.com/Skuldur/Classical-Piano-Composer) - Allows you to train a neural network to generate midi music files that make use of a single instrument.
