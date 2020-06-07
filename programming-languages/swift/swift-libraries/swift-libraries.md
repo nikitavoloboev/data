@@ -123,6 +123,7 @@
 - [CodeScanner](https://github.com/twostraws/CodeScanner) - SwiftUI view that is able to scan barcodes, QR codes, and more, and send back what was found.
 - [Gmenu](https://github.com/amirdew/gmenu) - Redesigned menu for Gmail iOS app, implemented using SwiftUI.
 - [SwiftUISearchBar](https://github.com/appcoda/SwiftUISearchBar) - Search bar built entirely in SwiftUI.
+- [PathBuilder](https://github.com/mkj-is/PathBuilder) - SwiftUI function builder for Path.
 
 ## Test
 

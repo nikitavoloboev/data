@@ -44,6 +44,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [StopTouchingYourFace](https://github.com/nerdsupremacist/StopTouchingYourFace) - SwiftUI App that alerts you when you have touched your face.
 - [Say Their Names](https://github.com/Say-Their-Name/say-their-names-ios)
 - [Canvas](https://github.com/soffes/Canvas) - Markdown editor.
+- [Simplenote](https://github.com/Automattic/simplenote-ios)
 
 ## Notes
 

@@ -65,3 +65,4 @@
 - [Hints and Principles for Computer System Design (2019)](https://www.microsoft.com/en-us/research/publication/hints-and-principles-for-computer-system-design-3/)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - [What your developers are using: the application stack](https://technically.dev/posts/what-your-developers-are-using.html)
+- [Ladders and Tar Pits](https://yak.sh/ladders/) - Using concepts from the papers “Out of the Tar Pit” and “Ladder of Abstraction”, we’ll examine what it means to build robust abstractions.
