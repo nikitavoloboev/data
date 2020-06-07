@@ -9,6 +9,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [YinYang](https://github.com/joway/hugo-theme-yinyang/) - Black-white theme for Hugo.
 - [Notepadium](https://github.com/cntrump/hugo-notepadium) - Fast Hugo theme, 100% JavaScript-free.
 - [Noteworthy](https://github.com/kimcc/hugo-theme-noteworthy) - Minimalist Hugo theme for writers and bloggers.
+- [Paperesque](https://themes.gohugo.io/paperesque/) - Lightweight theme for personal websites. ([Code](https://github.com/capnfabs/paperesque))
 
 ## Examples
 

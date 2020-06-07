@@ -80,6 +80,7 @@
 - [CHIOTPField](https://github.com/ChiliLabs/CHIOTPField) - Set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc.
 - [NotesTextView](https://github.com/Rimesh/NotesTextView) - iOS Notes style formatting for UITextView using NSAttributedString.
 - [CameraKit](https://github.com/CameraKit/camerakit-ios) - Helps you add reliable camera to your app quickly.
+- [Haneke](https://github.com/Haneke/HanekeSwift) - Lightweight generic cache for iOS written in Swift with extra love for images.
 
 ## macOS
 
