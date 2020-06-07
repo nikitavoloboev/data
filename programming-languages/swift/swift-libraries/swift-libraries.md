@@ -363,6 +363,7 @@
 - [FSCheckoutSheet](https://github.com/ZeeZide/FSCheckoutSheet) - WKWebView wrapper that handles interaction w/ a FastSpring checkout form.
 - [AwaitKit](https://github.com/yannickl/AwaitKit) - ES8 Async/Await control flow for Swift.
 - [Minimalist](https://github.com/nalexn/minimalist) - Dead simple Observable Property and Signal.
+- [MusicTheory](https://github.com/cemolcay/MusicTheory) - Music theory library with Key, Pitch, Interval, Scale and Chord representations in swift enums.
 
 ## Other (not lib)
 

@@ -125,6 +125,7 @@ Here are few more things I liked, design wise.
 - [Milen Dzhumerov](https://milen.me/)
 - [Krasjet](https://krasjet.com/)
 - [Prithu Goswami](https://prithu.xyz/) ([Code](https://github.com/prithugoswami/personal-website))
+- [Sarah Park](https://sei0.github.io/) ([Code](https://github.com/sei0/sei0.github.io))
 - [Victor Zhou](https://victorzhou.com/) ([Code](https://github.com/vzhou842/victorzhou.com))
 - [Jonnie Hallman](https://destroytoday.com/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)
