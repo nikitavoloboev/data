@@ -45,3 +45,4 @@
 - [The LoraWan Pager](https://hackaday.io/project/22038-the-lorawan-pager) - Open telecommunicator device, independent from SIM CARDS and Telecom providers.
 - [LoRa-based Device-to-Device Smartphone Communication for Crisis Scenarios (2020)](https://dtn7.github.io/assets/hoechst2020lora.pdf) ([HN](https://news.ycombinator.com/item?id=22725623))
 - [Adding machine learning to your LoRaWAN device - Jan Jongboom (2020)](https://www.youtube.com/watch?v=e-v0wnSM6YA)
+- [LoRa Mesh Communication without Infrastructure: The Meshtastic Project (ESP32, BLE, GPS) (2020)](https://www.youtube.com/watch?v=TY6m6fS8bxU) ([Reddit](https://www.reddit.com/r/darknetplan/comments/gyalhx/lora_mesh_communication_without_infrastructure/))
