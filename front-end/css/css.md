@@ -154,3 +154,4 @@
 - [Basic.css](https://vladocar.github.io/Basic.css/) - Classless CSS Starter File. ([HN](https://news.ycombinator.com/item?id=23402134)) ([Code](https://github.com/vladocar/Basic.css))
 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 - [PurifyCSS](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
+- [Adding dark mode support (2020)](https://www.garrensmith.com/blogs/adding-dark-mode)
