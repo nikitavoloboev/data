@@ -17,6 +17,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [Rclone](https://github.com/rclone/rclone) - Command line program to sync files and directories to and from different cloud storage providers. ([HN](https://news.ycombinator.com/item?id=22791036))
 - [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication.
 - [encbup](https://github.com/skorokithakis/encbup) - Companion to bup, the backup program. encbup adds encryption to bup, while still allowing per-file deduplication.
+- [Conserve](https://github.com/sourcefrog/conserve) - Robust portable backup tool in Rust.
 
 ## Cloud Storage
 

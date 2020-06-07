@@ -65,6 +65,7 @@
 - [Weave](https://github.com/JunoLab/Weave.jl) - Scientific report generator/literate programming tool for Julia.
 - [Latexify.jl](https://github.com/korsbo/Latexify.jl) - Convert julia objects to LaTeX equations, arrays or other environments.
 - [FFTW.jl](https://github.com/JuliaMath/FFTW.jl) - Julia bindings to the FFTW library for fast Fourier transforms.
+- [InteractiveViz.jl](https://github.com/org-arl/InteractiveViz.jl) - Interactive visualization tools for Julia.
 
 ## Links
 

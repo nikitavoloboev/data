@@ -33,3 +33,4 @@
 - [The Fast Track to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet/)
 - [JuliaLang Antipatterns (2020)](https://white.ucc.asn.au/2020/04/19/Julia-Antipatterns.html)
 - [Julia as a cli calculator (2020)](https://krasjet.com/rnd.wlk/julia/) ([HN](https://news.ycombinator.com/item?id=23414872))
+- [Julia By Example](https://juliabyexample.helpmanual.io/) ([Code](https://github.com/samuelcolvin/JuliaByExample))

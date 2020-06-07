@@ -90,6 +90,7 @@
 - [rstest](https://github.com/la10736/rstest) - Uses procedural macros to help you on writing fixtures and table-based tests.
 - [Proptest](https://github.com/AltSysrq/proptest) - Hypothesis-like property testing for Rust.
 - [cargo-all-features](https://github.com/frewsxcv/cargo-all-features) - Cargo subcommand to build and test all feature flag combinations.
+- [Fuzzcheck](https://github.com/loiclec/fuzzcheck-rs) - Structure-aware, in-process, coverage-guided, evolutionary fuzzing engine for Rust functions.
 
 ## Error
 
