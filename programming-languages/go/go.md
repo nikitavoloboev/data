@@ -279,3 +279,4 @@ Go promotes composition over inheritance.
 - [Swag](https://github.com/swaggo/swag) - Converts Go annotations to Swagger Documentation 2.0.
 - [The Cache Replacement Problem (2020)](http://alexandrutopliceanu.ro/post/cache-replacement-problem/)
 - [Tengo](https://github.com/d5/tengo) - Small, dynamic, fast, secure script language for Go.
+- [Getting Hands-on with io_uring using Go (2020)](https://developers.mattermost.com/blog/hands-on-iouring-go/)
