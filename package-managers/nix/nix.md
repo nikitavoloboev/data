@@ -107,3 +107,4 @@
 - [Nix Flakes, Part 1: An introduction and tutorial](https://www.tweag.io/blog/2020-05-25-flakes/) ([Lobsters](https://lobste.rs/s/h99uo8/nix_flakes_part_1_introduction_tutorial))
 - [nix-overlays of Antonio Monteiro](https://github.com/anmonteiro/nix-overlays)
 - [A Nix terminology primer by a newcomer (2020)](https://stephank.nl/p/2020-06-01-a-nix-primer-by-a-newcomer.html)
+- [Statistical Rethinking and Nix (2020)](https://rgoswami.me/posts/rethinking-r-nix/)

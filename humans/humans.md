@@ -22,6 +22,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans#r
 - [Life, Death and the Monster (John Conway)](https://www.youtube.com/watch?v=xOCe5HUObD4)
 - [Third Row Tesla Podcast – Elon Musk's Story (2020)](https://www.youtube.com/watch?v=J9oEc0wCQDE)
 - [A Conversation with Bertrand Russell (1952)](https://www.youtube.com/watch?v=fb3k6tB-Or8)
+- [Alex Zhu (Musical.ly // TikTok) (2016)](https://www.notion.so/Alex-Zhu-Musical-ly-TikTok-4631f80fdcc4423a845e145e807d8e2b)
 
 ## Interesting bios
 
