@@ -21,3 +21,4 @@
 - [Why should we suppose a single underlying principle that explains both quantum mechanics and gravity? (2020)](https://www.reddit.com/r/AskPhysics/comments/g314f4/why_should_we_suppose_a_single_underlying/)
 - [Quantum mechanics textbooks/resources (2020)](https://www.reddit.com/r/askscience/comments/fo4igl/are_quantum_fields_in_any_way_similar_to/fldftev)
 - [What did Schrodinger's Cat experiment prove? (2013)](https://wtamu.edu/~cbaird/sq/2013/07/30/what-did-schrodingers-cat-experiment-prove/) ([HN](https://news.ycombinator.com/item?id=23349052))
+- [Quantum Mechanical View of Reality - Richard Feynman](https://www.youtube.com/playlist?list=PLW_HsOU6YZRkdhFFznHNEfua9NK3deBQy)

@@ -719,6 +719,7 @@
   - [Leadership](management/leadership.md)
 - [LaTeX](latex/latex.md)
 - [Robots](robots/robots.md)
+  - [Drones](robots/drones.md)
 - [NLP](nlp/nlp.md)
   - [Speech recognition](nlp/speech-recognition.md)
   - [Virtual assistant](nlp/virtual-assistant.md)
