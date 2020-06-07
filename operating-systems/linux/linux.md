@@ -125,3 +125,4 @@
 - [ktrl](https://github.com/ItayGarin/ktrl) - Linux keyboard programming daemon. It aims to aid you in the never-ending quest of achieving the ultimate keybinding setup.
 - [Compilation of Linux server benchmarking scripts](https://github.com/haydenjames/bench-scripts#readme)
 - [Why I Use Suckless Tools (2020)](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05) ([Lobsters](https://lobste.rs/s/kpuj8p/why_i_use_suckless_tools)) ([HN](https://news.ycombinator.com/item?id=23438510))
+- [RTLinux](https://wiki.linuxfoundation.org/realtime/start) - Hard realtime real-time operating system microkernel that runs the entire Linux operating system as a fully preemptive process.

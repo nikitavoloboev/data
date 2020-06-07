@@ -102,6 +102,7 @@
 - [Caldera](https://github.com/calderajs/caldera-react) - Server-side execution environment for React.
 - [react-tooltip](https://github.com/wwayne/react-tooltip) - React tooltip component.
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
+- [gooey-react](https://github.com/luukdv/gooey-react) - Gooey effect for React, used for shape blobbing. ([Web](https://gooey-react.netlify.app/))
 
 ## Links
 

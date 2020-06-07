@@ -157,6 +157,7 @@ Here are few more things I liked, design wise.
 - [Paul Shen](https://bypaulshen.com/)
 - [Ian Jones](https://www.ianjones.us/) ([Code](https://github.com/theianjones/blog))
 - [Kabir Shah](https://kabir.sh/)
+- [Benedict Evans](https://www.ben-evans.com/)
 - [Moe Amaya](https://moeamaya.com/)
 - [Matt Oswalt](https://oswalt.dev/) ([Code](https://github.com/Mierdin/blog))
 - [Wesley Moore](https://www.wezm.net/v2/)
@@ -282,6 +283,7 @@ Here are few more things I liked, design wise.
 - [Mathieu Dutour](https://mathieu.dutour.me/) - Minimal.
 - [Sarah Drasner](https://sarah.dev/)
 - [Brandon Weiss](https://brandonweiss.me/)
+- [Luuk de Vlieger](https://www.luuk.site/)
 - [Henry's Zoo](https://www.henryzoo.com/) - Simple.
 - [Karolina](https://thefox.is/)
 - [Melanie Richards](https://melanie-richards.com/)

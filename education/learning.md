@@ -3,6 +3,7 @@
 ## Notes
 
 - [The internet provides access to an education that the aristocracy of old couldn't have imagined. It also provides the perfect attack vector for marketers to exploit cognitive vulnerabilities and dominate your attention. A world-class education is free for the undistractable.](https://twitter.com/TheStoicEmperor/status/1086118829661376512)
+- [I can't imagine building intuition without the experience of writing your own stuff, reading a book isn't going to give you that, especially when it comes to just structuring code in general, if you really want to know how something works you have to write it](https://twitter.com/tjholowaychuk/status/1256189125134336005)
 
 ## Links
 
