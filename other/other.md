@@ -230,3 +230,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [counts](https://github.com/nnethercote/counts) - A tool for ad hoc profiling.
 - [Quantified Self (QS) Ledger](https://github.com/markwk/qs_ledger) - Quantified Self Personal Data Aggregator and Data Analysis.
 - [Youtube MP3 Downloader](https://github.com/ytb2mp3/youtube-mp3-downloader) - Extract music from YouTube videos.
+- [hookshot](https://github.com/brianloveswords/hookshot) - Listen for webhooks, run some tasks.

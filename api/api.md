@@ -47,6 +47,7 @@
 - [Google Spreadsheet NodeJS](https://github.com/theoephraim/node-google-spreadsheet) - Most popular Google Sheets API wrapper for JavaScript.
 - [Airtable JS](https://github.com/Airtable/airtable.js)
 - [Airtable Go](https://github.com/fabioberger/airtable-go)
+- [Airtable Go 2](https://github.com/brianloveswords/airtable)
 - [WikipediaKit](https://github.com/Raureif/WikipediaKit) - API Client Framework for Swift.
 - [Zendesk Go](https://github.com/nukosuke/go-zendesk) - Zendesk API client library for Go.
 - [Cantine](https://github.com/caio/cantine) - Cooking recipe search JSON API with over a million recipes.
