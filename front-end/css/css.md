@@ -155,3 +155,4 @@
 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 - [PurifyCSS](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
 - [Adding dark mode support (2020)](https://www.garrensmith.com/blogs/adding-dark-mode)
+- [SelectorGadget](https://selectorgadget.com/) - Point and click CSS selectors. ([Code](https://github.com/cantino/selectorgadget))

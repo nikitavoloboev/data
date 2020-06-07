@@ -103,6 +103,7 @@
 - [react-tooltip](https://github.com/wwayne/react-tooltip) - React tooltip component.
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
 - [gooey-react](https://github.com/luukdv/gooey-react) - Gooey effect for React, used for shape blobbing. ([Web](https://gooey-react.netlify.app/))
+- [konva-grid](https://github.com/rmdort/konva-grid) - Declarative React Canvas Grid primitive for Data table, Pivot table, Excel Worksheets.
 
 ## Links
 
@@ -115,3 +116,4 @@
 - [Storybook](https://storybook.js.org/) - Open source tool for developing UI components in isolation for React, Vue, and Angular. ([Code](https://github.com/storybookjs/storybook))
 - [React Libraries in 2020](https://www.robinwieruch.de/react-libraries)
 - [new-component](https://github.com/joshwcomeau/new-component) - Simple, customizable utility for adding new React components to your project.
+- [React View](https://github.com/uber/react-view) - Interactive playground, documentation and code generator for your components.

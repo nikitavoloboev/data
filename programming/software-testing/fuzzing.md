@@ -11,3 +11,4 @@
 - [Fuzzit](https://github.com/fuzzitdev/fuzzit) - Helps you integrate Continuous Fuzzing to your C/C++, Java, Go, Rust and Swift projects with your current CI/CD workflow.
 - [rustbuster](https://github.com/phra/rustbuster) - Comprehensive Web Fuzzer and Content Discovery Tool.
 - [Nautilus](https://github.com/nautilus-fuzz/nautilus) - Coverage guided, grammar based fuzzer.
+- [lain](https://github.com/microsoft/lain) - Fuzzer framework built in Rust.

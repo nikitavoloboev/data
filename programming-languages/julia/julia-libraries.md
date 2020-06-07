@@ -18,6 +18,7 @@
 - [PencilFFTs.jl](https://github.com/jipolanco/PencilFFTs.jl) - Fast Fourier transforms of MPI-distributed Julia arrays.
 - [SurrealNumbers](https://github.com/mroughan/SurrealNumbers.jl) - Implementation of Conway's Surreal Numbers.
 - [Manopt.jl](https://github.com/JuliaManifolds/Manopt.jl) - Optimization on Manifolds in Julia.
+- [ApproxFun.jl](https://github.com/JuliaApproximation/ApproxFun.jl) - Julia package for function approximation.
 
 ## Biology
 
@@ -66,6 +67,7 @@
 - [Latexify.jl](https://github.com/korsbo/Latexify.jl) - Convert julia objects to LaTeX equations, arrays or other environments.
 - [FFTW.jl](https://github.com/JuliaMath/FFTW.jl) - Julia bindings to the FFTW library for fast Fourier transforms.
 - [InteractiveViz.jl](https://github.com/org-arl/InteractiveViz.jl) - Interactive visualization tools for Julia.
+- [UnicodePlots](https://github.com/Evizero/UnicodePlots.jl) - Advanced Unicode plotting library designed for use in Julia's REPL.
 
 ## Links
 

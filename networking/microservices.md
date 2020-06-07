@@ -40,3 +40,4 @@
 - [Deleting data distributed throughout your microservices architecture (2020)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) ([HN](https://news.ycombinator.com/item?id=23078994))
 - [Increasing Efficiency & Confidence with Project Apollo (2020)](https://robinhood.engineering/increasing-efficiency-confidence-with-project-apollo-cea1ebe0f282)
 - [Microservices: Up and Running book (2020)](https://www.oreilly.com/library/view/microservices-up-and/9781492075448/)
+- [Gizmo Microservice Toolkit](https://github.com/nytimes/gizmo) - Provides packages to put together server and pubsub daemons.

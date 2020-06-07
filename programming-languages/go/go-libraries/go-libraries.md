@@ -435,6 +435,12 @@
 - [sys](https://github.com/golang/sys) - Go packages for low-level interaction with the operating system.
 - [zek](https://github.com/miku/zek) - Generate a Go struct from XML.
 - [go-diodes](https://github.com/cloudfoundry/go-diodes) - Diodes are ring buffers manipulated via atomics.
+- [Asynq](https://github.com/hibiken/asynq) - Go library for queueing tasks and processing them in the background with workers.
+- [appy](https://github.com/appist/appy) - Opinionated productive web framework that helps scaling business easier.
+- [wasmtime-go](https://github.com/bytecodealliance/wasmtime-go) - Go WebAssembly runtime powered by Wasmtime.
+- [html2text](https://github.com/jaytaylor/html2text) - Converts HTML into text of the markdown-flavored variety.
+- [Aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods.
+- [FTMPL](https://github.com/tkrajina/ftmpl) - Fast typesafe templating for golang.
 
 ## Links
 
