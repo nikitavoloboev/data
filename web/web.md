@@ -102,3 +102,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Google Is Not God of The Web (2020)](https://bilge.world/google-page-experience) ([HN](https://news.ycombinator.com/item?id=23383548))
 - [Ask HN: What is the cheapest way to make a website? (2020)](https://news.ycombinator.com/item?id=23390308)
 - [Every bookmark manager ever made (2019)](https://bookmarkos.com/every-bookmark-manager-ever-made/)
+- [Some Bookmarklets, I Use (2020)](https://www.ph-uhl.com/0010-Bookmarklets/) ([HN](https://news.ycombinator.com/item?id=23445382))
