@@ -280,3 +280,4 @@ Go promotes composition over inheritance.
 - [The Cache Replacement Problem (2020)](http://alexandrutopliceanu.ro/post/cache-replacement-problem/)
 - [Tengo](https://github.com/d5/tengo) - Small, dynamic, fast, secure script language for Go.
 - [Getting Hands-on with io_uring using Go (2020)](https://developers.mattermost.com/blog/hands-on-iouring-go/)
+- [json2go web parser](https://m-zajac.github.io/json2go/) - Paste json to generate go struct. ([Code](https://github.com/m-zajac/json2go))

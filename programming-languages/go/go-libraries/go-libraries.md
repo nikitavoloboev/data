@@ -441,6 +441,8 @@
 - [html2text](https://github.com/jaytaylor/html2text) - Converts HTML into text of the markdown-flavored variety.
 - [Aurora](https://github.com/logrusorgru/aurora) - Golang ultimate ANSI-colors that supports Printf/Sprintf methods.
 - [FTMPL](https://github.com/tkrajina/ftmpl) - Fast typesafe templating for golang.
+- [jio](https://github.com/faceair/jio) - JSON schema validator similar to joi.
+- [gearbox](https://github.com/gogearbox/gearbox) - Web framework for building micro services written in Go with a focus on high performance and memory optimization.
 
 ## Links
 
