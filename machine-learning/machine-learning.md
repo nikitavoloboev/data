@@ -235,3 +235,4 @@
 - [DLPack: Open In Memory Tensor Structure](https://github.com/dmlc/dlpack)
 - [SVM tutorial](https://www.svm-tutorial.com/) ([HN](https://news.ycombinator.com/item?id=23368246))
 - [DeepMind x UCL | Deep Learning Lecture Series (2020)](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+- [Nicholas Carlini: Making and Measuring Progress in Adversarial Machine Learning (2019)](https://www.youtube.com/watch?v=jD3L6HiH4ls)
