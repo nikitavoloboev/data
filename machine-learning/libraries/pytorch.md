@@ -112,3 +112,4 @@
 - [PyContrast](https://github.com/HobbitLong/PyContrast) - PyTorch implementation of Contrastive Learning methods.
 - [PyVacy](https://github.com/ChrisWaites/pyvacy) - Differentially Private Optimization Algorithms for PyTorch.
 - [Gaussian mixture models in PyTorch](https://github.com/ldeecke/gmm-torch)
+- [Effective PyTorch](https://github.com/vahidk/EffectivePyTorch#readme) - PyTorch tutorials and best practices.

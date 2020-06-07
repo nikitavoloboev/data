@@ -40,3 +40,4 @@
 - [TensorFlow Profiler](https://github.com/tensorflow/profiler) - Profiling and performance analysis tool for TensorFlow.
 - [TFRT: A New TensorFlow Runtime](https://github.com/tensorflow/runtime)
 - [Farewell, TensorFlow (2020)](https://mrry.github.io/2020/05/10/farewell-tensorflow.html) ([Twitter](https://twitter.com/ericjang11/status/1259882911282556928))
+- [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow#readme) - TensorFlow tutorials and best practices.
