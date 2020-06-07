@@ -23,3 +23,4 @@ And here are Chrome extensions I use:
 - [Let's Guess What Google Requires In 14 Days Or They Kill Our Extension (2020)](https://blog.pushbullet.com/2020/05/13/lets-guess-what-google-requires-in-14-days-or-they-kill-our-extension/) ([HN](https://news.ycombinator.com/item?id=23168874))
 - [HN: Unable to deal with Chrome Extension Team, Kozmos is shutting down (2020)](https://news.ycombinator.com/item?id=23285466)
 - [Chrome Extension (built with TypeScript + React)](https://github.com/martellaj/chrome-extension-react-typescript-boilerplate)
+- [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)

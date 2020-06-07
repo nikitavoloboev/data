@@ -44,6 +44,7 @@
 - [hyper-ts](https://github.com/gcanti/hyper-ts) - Type safe middleware architecture for HTTP servers.
 - [PgTyped](https://github.com/adelsz/pgtyped) - Makes it possible to use raw SQL in TypeScript with guaranteed type-safety.
 - [Zapatos](https://github.com/jawj/zapatos) - Zero-Abstraction Postgres for TypeScript.
+- [tagged-ts](https://github.com/joshburgess/tagged-ts) - Tagged unions code generation library for discriminating tastes.
 
 ## Links
 
