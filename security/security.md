@@ -71,3 +71,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Web Security 101: Cross-Site Scripting (XSS) Attacks](https://victorzhou.com/blog/xss/)
 - [Ask HN: How does your company manage its encryption keys? (2020)](https://news.ycombinator.com/item?id=23390966)
 - [Password Manager Resources](https://github.com/apple/password-manager-resources#readme) - Place for creators of password managers to collaborate on resources to make password management better for everyone.
+- [A Well-Known URL for Changing Passwords](https://wicg.github.io/change-password-url/) ([Code](https://github.com/WICG/change-password-url))

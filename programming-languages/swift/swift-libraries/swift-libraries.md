@@ -81,6 +81,7 @@
 - [NotesTextView](https://github.com/Rimesh/NotesTextView) - iOS Notes style formatting for UITextView using NSAttributedString.
 - [CameraKit](https://github.com/CameraKit/camerakit-ios) - Helps you add reliable camera to your app quickly.
 - [Haneke](https://github.com/Haneke/HanekeSwift) - Lightweight generic cache for iOS written in Swift with extra love for images.
+- [MTBBarcodeScanner](https://github.com/mikebuss/MTBBarcodeScanner) - Lightweight, easy-to-use barcode scanning library for iOS 8+.
 
 ## macOS
 
