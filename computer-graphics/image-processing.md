@@ -32,3 +32,4 @@
 - [imgproxy](https://imgproxy.net/) - Fast and secure on-the-fly image processing. ([[Code](https://github.com/imgproxy/imgproxy)])
 - [GPR (General Purpose Raw image format)](https://github.com/gopro/gpr) - 12-bit raw image coding format that is based on Adobe DNG standard.
 - [photon](https://github.com/silvia-odwyer/photon) - Rust/WebAssembly image processing library.
+- [imageproc](https://github.com/image-rs/imageproc) - Image processing operations as rust library.

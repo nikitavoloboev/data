@@ -12,3 +12,4 @@
 - [Verifying the DPLL Algorithm in Dafny](https://arxiv.org/pdf/1909.01743.pdf)
 - [Simple Fixpoint Iteration To Solve Parity Games](https://arxiv.org/pdf/1909.07659.pdf)
 - [SAT solver written in Rust](https://github.com/jix/varisat)
+- [NeuroSAT](https://github.com/dselsam/neurosat) - Learning a SAT Solver from Single-Bit Supervision.

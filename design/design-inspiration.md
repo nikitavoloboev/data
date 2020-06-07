@@ -168,6 +168,7 @@ Here are few more things I liked, design wise.
 - [Tatiana Mac](https://tatianamac.com/)
 - [Two Wrongs](https://two-wrongs.com/)
 - [Nathan Taylor](https://nathan.tokyo/)
+- [Chance Arthur](https://chancearthur.com/about)
 - [Gal Shir](https://galshir.com/)
 - [Gregory Szorc](https://gregoryszorc.com/)
 - [Azlen Elza](https://azlen.me/) ([Code](https://github.com/azlen/azlen.me))
