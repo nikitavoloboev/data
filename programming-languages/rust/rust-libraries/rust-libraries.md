@@ -401,6 +401,7 @@
 - [simdeez](https://github.com/jackmott/simdeez) - Library that abstracts over SIMD instruction sets, including ones with differing widths.
 - [SIMDNoise](https://github.com/jackmott/rust-simd-noise) - Super fast SIMD noise library for Rust.
 - [Josephine](https://github.com/asajeffrey/josephine) - Using JavaScript to safely manage the lifetimes of Rust data.
+- [Colored](https://github.com/mackwic/colored) - Coloring terminal so simple you already know how to do it.
 
 ## Cargo Plugins
 
