@@ -10,3 +10,4 @@
 - [Scaling SQLite to 4M QPS on a Single Server (EC2 vs Bare Metal) (2018)](https://blog.expensify.com/2018/01/08/scaling-sqlite-to-4m-qps-on-a-single-server/) ([HN](https://news.ycombinator.com/item?id=23291779))
 - [sqlite-web](https://github.com/coleifer/sqlite-web) - Web-based SQLite database browser written in Python.
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
+- [SQLancer](https://github.com/sqlancer/sqlancer) - Detecting Logic Bugs in DBMS. ([HN](https://news.ycombinator.com/item?id=23426753))

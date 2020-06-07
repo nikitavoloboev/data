@@ -64,3 +64,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [slowmoVideo](https://github.com/slowmoVideo/slowmoVideo) - Tool that uses optical flow for generating slow-motion videos.
 - [Aegisub](https://github.com/Aegisub/Aegisub) - Cross-platform advanced subtitle editor.
 - [PL_MPEG](https://github.com/phoboslab/pl_mpeg) - Single file C library for decoding MPEG1 Video and MP2 Audio.
+- [Ask HN: Is it too late to start creating content on YouTube? (2020)](https://news.ycombinator.com/item?id=23444750)

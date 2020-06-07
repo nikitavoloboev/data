@@ -93,3 +93,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Python+FontForge+Org: I made a font based on my handwriting! (2020)](https://sachachua.com/blog/2020/06/pythonfontforgeorg-i-made-a-font-based-on-my-handwriting/)
 - [What’s In A Font? Researching Website Typography (2020)](https://kevq.uk/whats-in-a-font-researching-website-typography/)
 - [font-kit](https://github.com/servo/font-kit) - Cross-platform font loading library written in Rust.
+- [Helvetica](https://www.hustwit.com/helvetica) - Documentary on typography, graphic design and global visual culture. ([HN](https://news.ycombinator.com/item?id=23445245))

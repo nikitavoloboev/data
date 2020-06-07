@@ -50,3 +50,4 @@
 - [cpkg](https://github.com/vmchale/cpkg) - Build tool for C with a particular emphasis on cross compilation. It is configured using Dhall.
 - [C Internals](http://www.avabodh.com/cin/cin.html) ([HN](https://news.ycombinator.com/item?id=23376357))
 - [C-Reduce](https://github.com/csmith-project/creduce) - Tool that takes a large C or C++ program that has a property of interest (such as triggering a compiler bug) and automatically produces a much smaller C/C++ program that has the same property. ([Web](http://embed.cs.utah.edu/creduce/))
+- [C implementation of Tic-Tac-Toe in a single call to printf](https://github.com/carlini/printf-tac-toe) ([HN](https://news.ycombinator.com/item?id=23445546))
