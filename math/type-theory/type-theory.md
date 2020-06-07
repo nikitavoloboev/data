@@ -74,3 +74,4 @@
 - [Inferring Types and Effects via Static Single AssignmentLeonardo](https://dl.acm.org/doi/pdf/10.1145/3341105.3373888)
 - [smalltt](https://github.com/AndrasKovacs/smalltt) - Demo for high-performance type theory elaboration.
 - [Hoare Type Theory](https://github.com/imdea-software/htt) - Contains the main libraries of Hoare Type Theory (HTT) for reasoning about sequential heap-manipulating programs.
+- [Type inference under the hood (2019)](https://www.aleksandra.codes/type-inference)

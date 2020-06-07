@@ -35,6 +35,7 @@
 - [Palette](https://palette.artsy.net/) - Artsy's design system. ([Code](https://github.com/artsy/palette))
 - [Guardian Source](https://theguardian.design/) ([Code](https://github.com/guardian/source))
 - [VKUI](https://github.com/VKCOM/VKUI) - VK design system.
+- [Theme UI Sketchy Preset](https://github.com/beerose/theme-ui-sketchy)
 
 ## Links
 
