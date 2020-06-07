@@ -77,6 +77,8 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Wesley Moore](https://linkedlist.org/)
 - [Slides of Chen Hui Jing](https://github.com/huijing/slides)
 - [Hongyi Shen's notes](https://github.com/wilbeibi/NotesIndex)
+- [Shreyas Minocha](https://wiki.shreyasminocha.me/index.html) ([Code](https://github.com/shreyasminocha/wiki))
+- [Sanyam Kapoor](https://www.sanyamkapoor.com/kb)
 - [Alopex Networks wiki](https://wiki.alopex.li/_categories)
 - [Michael Mellinger math notes](https://github.com/melling/MathAndScienceNotes)
 - [Bookmarks, tweets, cheatsheets, one-liners](https://github.com/ccampean/almanacs#readme)

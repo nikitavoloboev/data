@@ -370,6 +370,7 @@
 - [Default](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support.
 - [Dye](https://github.com/dduan/Dye) - Cross-platform terminal styling for Swift command-line interface.
 - [SearchExpressionParser](https://github.com/CleanCocoa/SearchExpressionParser) - Parses search strings (as in: what you put into a search engine) into evaluable expressions.
+- [Low-Level Versioned Store (LLVS)](https://github.com/mentalfaculty/LLVS)
 
 ## Other (not lib)
 
