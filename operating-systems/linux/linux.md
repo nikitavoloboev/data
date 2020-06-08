@@ -127,4 +127,4 @@
 - [Why I Use Suckless Tools (2020)](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05) ([Lobsters](https://lobste.rs/s/kpuj8p/why_i_use_suckless_tools)) ([HN](https://news.ycombinator.com/item?id=23438510))
 - [RTLinux](https://wiki.linuxfoundation.org/realtime/start) - Hard realtime real-time operating system microkernel that runs the entire Linux operating system as a fully preemptive process.
 - [Running Linux on my Macbook (2020)](https://djhworld.github.io/post/2020/06/07/running-linux-on-my-macbook/)
-- [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/)
+- [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/) ([Code](https://github.com/makelinux/linux_kernel_map/blob/master/srcxray.py))
