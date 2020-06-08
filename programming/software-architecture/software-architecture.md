@@ -66,3 +66,4 @@
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - [What your developers are using: the application stack](https://technically.dev/posts/what-your-developers-are-using.html)
 - [Ladders and Tar Pits](https://yak.sh/ladders/) - Using concepts from the papers “Out of the Tar Pit” and “Ladder of Abstraction”, we’ll examine what it means to build robust abstractions.
+- [3factor app](https://3factor.app/) - Architecture pattern for modern full stack apps. ([Code](https://github.com/hasura/3factor))
