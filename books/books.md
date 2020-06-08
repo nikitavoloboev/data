@@ -222,3 +222,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Reading habits that changed my life (2020)](https://medium.com/@manjotpahwa/10-reading-habits-that-changed-my-life-5c7673bc34bc) ([HN](https://news.ycombinator.com/item?id=23308931))
 - [LibraryThing](https://www.librarything.com/) - Catalog your books online.
 - [Bookshop](https://bookshop.org/) - Buy books online. Support local bookstores.
+- [Kindle Highlights](https://github.com/daneden/kindle-highlights) - Vercel/Next.js app to render my Kindle highlights.

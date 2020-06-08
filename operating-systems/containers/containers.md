@@ -32,3 +32,4 @@
 - [libnetwork](https://github.com/moby/libnetwork) - Provides a native Go implementation for connecting containers.
 - [Programming inside a container (2020)](https://lemire.me/blog/2020/05/22/programming-inside-a-container/)
 - [Containers from first principles (2020)](https://fzakaria.com/2020/05/31/containers-from-first-principles.html) ([HN](https://news.ycombinator.com/item?id=23424136))
+- [Container technologies at Coinbase: Why Kubernetes is not part of our stack (2020)](https://blog.coinbase.com/container-technologies-at-coinbase-d4ae118dcb6c) ([HN](https://news.ycombinator.com/item?id=23460066))
