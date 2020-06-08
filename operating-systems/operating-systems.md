@@ -37,6 +37,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [lilith](https://github.com/ffwff/lilith) - POSIX-like x86-64 kernel and userspace written in Crystal.
 - [Genode](https://genode.org/index) - Operating System Framework.
 - [Shrine](https://github.com/minexew/Shrine) - TempleOS distro for heretics.
+- [Subgraph OS](https://subgraph.com/) - Desktop computing and communications platform that is designed to be resistant to network-borne exploit and malware attacks. ([Handbook](https://github.com/subgraph/sgos_handbook))
 
 ## Links
 

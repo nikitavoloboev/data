@@ -196,6 +196,7 @@ Here are few more things I liked, design wise.
 - [Charli Marie](https://charlimarie.com/)
 - [Mike Solomon](https://msol.io/)
 - [Adam Ho](https://www.adamho.com/)
+- [Isaac Freund](http://ifreund.xyz/blog/)
 - [Seena Burns](http://seenaburns.com/) - Love the color scheme & look. Awesome blog.
 - [Obed Parlapiano](https://obedparla.com/)
 - [I am Stevedao](https://iamstevendao.github.io/portfolio/)

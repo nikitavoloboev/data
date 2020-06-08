@@ -128,3 +128,5 @@
 - [RTLinux](https://wiki.linuxfoundation.org/realtime/start) - Hard realtime real-time operating system microkernel that runs the entire Linux operating system as a fully preemptive process.
 - [Running Linux on my Macbook (2020)](https://djhworld.github.io/post/2020/06/07/running-linux-on-my-macbook/) ([HN](https://news.ycombinator.com/item?id=23453586))
 - [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/) ([Code](https://github.com/makelinux/linux_kernel_map/blob/master/srcxray.py)) ([HN](https://news.ycombinator.com/item?id=23452721))
+- [Wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor.
+- [Waysmoke](https://github.com/myfreeweb/waysmoke) - Upcoming desktop shell, built primarily for the Wayfire compositor.
