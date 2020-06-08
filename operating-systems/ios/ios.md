@@ -45,6 +45,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Say Their Names](https://github.com/Say-Their-Name/say-their-names-ios)
 - [Canvas](https://github.com/soffes/Canvas) - Markdown editor.
 - [Simplenote](https://github.com/Automattic/simplenote-ios)
+- [Kotoba](https://github.com/willhains/Kotoba) - Quickly search the built-in iOS dictionary to see definitions of words. Collect words you want to remember.
 
 ## Notes
 
