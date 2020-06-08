@@ -115,4 +115,5 @@
 - [Intermediate Python book](https://book.pythontips.com/en/latest/)
 - [Using enumerated types in Python (2020)](https://johnlekberg.com/blog/2020-06-06-enum.html) ([HN](https://news.ycombinator.com/item?id=23440541))
 - [Subpar](https://github.com/google/subpar) - Utility for creating self-contained python executables. It is designed to work well with Bazel.
-- [Python Wheels](https://pythonwheels.com/) - New standard of Python distribution.
+- [Python Wheels](https://pythonwheels.com/) - New standard of Python distribution. ([HN](https://news.ycombinator.com/item?id=23452365))
+- [Calm Code](https://calmcode.io/) - Learn code calmly.
