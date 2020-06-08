@@ -50,3 +50,4 @@
 - [Demystifying JOIN Algorithms (2019)](http://blog.felipe.rs/2019/01/29/demystifying-join-algorithms/)
 - [SQLsmith](https://github.com/anse1/sqlsmith) - Random SQL query generator.
 - [forma](https://github.com/maxcountryman/forma) - Opinionated SQL formatter.
+- [How Does SQLAlchemy Manage Database Transactions? (2019)https://capnfabs.net/posts/sqlalchemy-connection-management/)
