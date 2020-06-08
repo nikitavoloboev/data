@@ -63,6 +63,7 @@
 - [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
 - [Nix builder for Kubernetes](https://gist.github.com/tazjin/08f3d37073b3590aacac424303e6f745)
 - [Nixery](http://nixery.dev/nixery.html) - Provides the ability to pull ad-hoc container images from a Docker-compatible registry server. ([Code](https://github.com/google/nixery))
+- [Nixery: Improved Layering Design (2019)](https://tazj.in/blog/nixery-layers)
 - [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix.
 - [Make Nix precisely emulate gitignore](https://github.com/hercules-ci/gitignore.nix)
 - [Nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager.
