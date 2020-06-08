@@ -32,3 +32,4 @@ I especially like the distinction of distributing content over distributing link
 - [Wikipedia-IPFS: An exploration to host Wikipedia in IPFS](https://github.com/santhoshtr/wikipedia-ipfs) ([HN](https://news.ycombinator.com/item?id=23127829))
 - [brig](https://github.com/sahib/brig) - File synchronization on top of ipfs with git like interface& web based UI.
 - [go-ipfs-api](https://github.com/ipfs/go-ipfs-api) - Go interface to ipfs's HTTP API.
+- [Deploying This Site with IPFS and Scheme (2020)](https://elais.codes/deploying-this-site-with-ipfs-and-scheme.html) ([Lobsters](https://lobste.rs/s/fitmtb/deploying_this_site_with_ipfs_scheme))
