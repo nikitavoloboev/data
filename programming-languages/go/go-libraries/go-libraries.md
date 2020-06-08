@@ -443,6 +443,7 @@
 - [FTMPL](https://github.com/tkrajina/ftmpl) - Fast typesafe templating for golang.
 - [jio](https://github.com/faceair/jio) - JSON schema validator similar to joi.
 - [gearbox](https://github.com/gogearbox/gearbox) - Web framework for building micro services written in Go with a focus on high performance and memory optimization.
+- [Go App Engine packages](https://github.com/golang/appengine) - Provides APIs for interacting with App Engine services.
 
 ## Links
 

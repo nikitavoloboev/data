@@ -1,5 +1,7 @@
 # [Notion](https://www.notion.so)
 
+Use it for projects as a wiki of docs, notes, todos.
+
 ## Notes
 
 - To open Notion page directly in macOS app. Get the share link. Will look like `https://www.notion.so/nikitavoloboev/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332`. Then use it but with `notion://` prefix like `open notion://nikitavoloboev/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332`.
