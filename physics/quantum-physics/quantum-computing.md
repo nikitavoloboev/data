@@ -33,3 +33,7 @@
 - [discopy](https://github.com/oxford-quantum-group/discopy) - Toolbox for computing with monoidal categories.
 - [Introduction to Quantum Information Science Lecture Notes (2018)](https://www.scottaaronson.com/qclec.pdf)
 - [The Argument Against Quantum Computers and the Quantum Laws of Nature](https://news.ycombinator.com/item?id=23291071)
+- [Quil: A Portable Quantum Instruction Language](https://github.com/rigetti/quil)
+- [Rigetti Computing](https://rigetti.com/) - On a mission to build the world's most powerful computer.
+- [PyQuil](https://github.com/rigetti/pyquil) - Quantum programming in Python.
+- [Grove](https://github.com/rigetti/grove) - Collection of quantum algorithms built using the Rigetti Forest platform.

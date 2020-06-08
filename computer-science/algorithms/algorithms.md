@@ -32,6 +32,7 @@
 - [All Algorithms implemented in Rust](https://github.com/TheAlgorithms/Rust)
 - [Solutions to Introduction to Algorithms book](https://walkccc.github.io/CLRS/) ([Code](https://github.com/walkccc/CLRS))
 - [Maze Algorithms (2011)](https://www.jamisbuck.org/mazes/) ([HN](https://news.ycombinator.com/item?id=23429368))
+- [Algorithmic Design Paradigms book](https://page.skerritt.blog/algorithms/) ([Code](https://github.com/brandonskerritt/AlgorithmsBook))
 
 ## Images
 

@@ -13,3 +13,4 @@
 - [So You Want to Build an End-to-End Encrypted Web App (2020)](https://www.zfnd.org/blog/so-you-want-an-e2e-encrypted-webapp/) ([HN](https://news.ycombinator.com/item?id=23426564))
 - [Cingulata](https://github.com/CEA-LIST/Cingulata) - Compiler toolchain and RTE for running C++ programs over encrypted data by means of fully homomorphic encryption techniques.
 - [baby's first hash encryption (2020)](https://www.thefragehaver.com/posts/encryptionone/)
+- [Ciphey](https://github.com/Ciphey/Ciphey) - Automated decryption tool. Input encrypted text, get the decrypted text back.
