@@ -13,3 +13,4 @@
 - [KeOps](https://github.com/getkeops/keops) - Kernel Operations on the GPU, with autodiff, without memory overflows.
 - [3D Fluid](https://github.com/PWhiddy/Fat-Clouds) - GPU Fluid Simulation with Volumetric Rendering.
 - [Understanding Latency Hiding on GPUs (2016)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf) ([HN](https://news.ycombinator.com/item?id=23379709))
+- [Harlan](https://github.com/eholk/harlan) - Domain specific language for programming GPUs.

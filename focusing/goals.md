@@ -35,7 +35,3 @@ Start teaching with videos. Review, edit & publish quality content. Clean up old
 Currently 2Do holds 4900 tasks. Over 3500 of them are read-later links I have left before moving to Pocket. I want to clear up the list to < 500.
 
 This includes closing GitHub issues that are of priority to me. Beyond this I want to also clear Telegram Saved Messages & start clearing up Pocket list too after 2Do is done. Everything should be actionable and done with purpose & priority.
-
-## Financial stability
-
-Release something that is worth selling before money runs out and I die of hunger.
