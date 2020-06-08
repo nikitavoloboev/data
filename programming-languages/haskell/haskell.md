@@ -140,3 +140,4 @@
 - [Haskell Platform](https://github.com/haskell/haskell-platform) - Combination of the GHC compiler and core libraries, plus additional tools and libraries covering a range of common programming tasks.
 - [Stan](https://github.com/kowainik/stan) - Haskell static analyser.
 - [Software Design and Architecture in Haskell](https://github.com/graninas/software-design-in-haskell) - Structured set of materials. How to build real-world applications in Haskell.
+- [The Pain Points of Haskell: A Practical Summary (2020)](https://dixonary.co.uk/blog/haskell/pain/) ([HN](https://news.ycombinator.com/item?id=23454352))

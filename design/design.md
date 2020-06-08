@@ -99,3 +99,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Mental models for designers (2019)](https://dropbox.design/article/mental-models-for-designers) ([HN](https://news.ycombinator.com/item?id=23347540))
 - [gestalten](https://gestalten.com/) - Focus on the aesthetic, particularly that of graphic design.
 - [Design for Developers Workshop](https://frontendmasters.com/courses/design-for-developers/) ([Code](https://github.com/sdras/design-for-developers))
+- [Nodesign.dev](https://nodesign.dev/) - Tools and resources for non artistic developers. ([HN](https://news.ycombinator.com/item?id=23454557))
