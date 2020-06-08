@@ -79,3 +79,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Algol 60 implementation (1964)](http://www.softwarepreservation.org/projects/ALGOL/book/Randell_ALGOL_60_Implementation_1964.pdf)
 - [Code Search](https://github.com/google/codesearch) - Tool for indexing and then performing regular expression searches over large bodies of source code. ([Lobsters](https://lobste.rs/s/g7mntu/codesearch_fast_indexed_regexp_search))
 - [Zoekt](https://github.com/google/zoekt) - Fast text search engine, intended for use with source code.
+- [10 more programming languages worth checking out (2018)](https://h3rald.com/articles/10-more-programming-languages/)

@@ -404,6 +404,7 @@
 - [Colored](https://github.com/mackwic/colored) - Coloring terminal so simple you already know how to do it.
 - [Salva](https://github.com/rustsim/salva) - 2 and 3-dimensional particle-based fluid simulation engine for games and animations.
 - [hdf5](https://github.com/aldanor/hdf5-rust) - HDF5 for Rust.
+- [Schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code.
 
 ## Cargo Plugins
 

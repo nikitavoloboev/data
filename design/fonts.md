@@ -7,7 +7,6 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 ## Interesting fonts
 
 - [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)
-- Monaco
 - [Inter](https://github.com/rsms/inter) - Typeface specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens.
 - [Public Sans](https://github.com/uswds/public-sans) - Strong, neutral, principles-driven, open source typeface for text or display.
 - [Cascadia Code](https://github.com/microsoft/cascadia-code) - Fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
@@ -29,6 +28,11 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [BLOKK](http://www.blokkfont.com/) - Gives you a nice fill text for mock-ups and wireframing without the lorem ipsum.
 - [Scunthorpe Sans](https://vole.wtf/scunthorpe-sans/) - Self-censoring font. ([HN](https://news.ycombinator.com/item?id=23131559))
 - [Amstelvar](https://www.typenetwork.com/brochure/opentype-variable-fonts-moving-right-along/) - Parametric variable font by David Berlow. ([Code](https://github.com/TypeNetwork/Amstelvar))
+- [Monaco](https://www.cufonfonts.com/font/monaco)
+- [Cardo](http://scholarsfonts.net/cardofnt.html)
+- [Raleway](https://www.theleagueofmoveabletype.com/raleway)
+- [Noway](https://www.atipofoundry.com/fonts/noway)
+- [Entypo](http://www.entypo.com/)
 
 ## Links
 

@@ -81,6 +81,7 @@
 - [TimescaleDB](https://www.timescale.com/) - Open-source database built for analyzing time-series data with the power and convenience of SQL.
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Free analytics DBMS for big data.
 - [ArongoDB](https://www.arangodb.com/) - Natively store data for graph, document and search needs. Utilize feature-rich access with one query language. ([Go Driver](https://github.com/arangodb/go-driver))
+- [LiteStore](https://github.com/h3rald/litestore) - Lightweight, self-contained, RESTful, multi-format NoSQL document store server written in Nim and powered by a SQLite backend for storage.
 
 ## Tools
 

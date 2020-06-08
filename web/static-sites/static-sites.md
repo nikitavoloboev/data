@@ -44,3 +44,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [Getting Started with Azure Static Web Apps (2020)](https://blog.codewithdan.com/getting-started-with-azure-static-web-apps/)
 - [StaticGen](https://www.staticgen.com/) - List of Static Site Generators for Jamstack Sites. ([Code](https://github.com/netlify/staticgen))
 - [serve](https://github.com/vercel/serve) - Static file serving and directory listing.
+- [Building yet another static site generator (2017)](https://h3rald.com/articles/hastysite/)

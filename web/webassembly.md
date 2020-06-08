@@ -82,3 +82,4 @@
 - [AssemblyScript Examples](https://github.com/AssemblyScript/examples)
 - [Generating WebAssembly CPU Profiles in Go (2019)](https://agniva.me/wasm/2019/07/25/wasm-cpu-profiles.html)
 - [WebAssembly Weekly](https://wasmweekly.news/) - Community-driven weekly newsletter about WebAssembly.
+- [Schism](https://github.com/google/schism) - Experimental compiler from Scheme to WebAssembly.
