@@ -104,6 +104,7 @@
 - [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) - Sortable and resizable pane component for React.
 - [gooey-react](https://github.com/luukdv/gooey-react) - Gooey effect for React, used for shape blobbing. ([Web](https://gooey-react.netlify.app/))
 - [konva-grid](https://github.com/rmdort/konva-grid) - Declarative React Canvas Grid primitive for Data table, Pivot table, Excel Worksheets.
+- [react-spring-lightbox](https://github.com/tim-soft/react-spring-lightbox) - Flexible image gallery lightbox with native-feeling touch gestures and buttery smooth animations, built with react-spring.
 
 ## Links
 

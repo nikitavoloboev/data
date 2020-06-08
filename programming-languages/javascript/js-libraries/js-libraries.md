@@ -258,6 +258,7 @@
 - [Angelfire](https://github.com/rish-16/Angelfire) - Lets you quickly build right-click-enabled context menus and drop-down menus for any element on your webpage.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else.
 - [updeep](https://github.com/substantial/updeep) - Easily update nested frozen objects and arrays in a declarative and immutable manner.
+- [Hull.js](https://github.com/AndriiHeonia/hull) - JavaScript library that builds concave hull by set of points.
 
 ## Links
 
