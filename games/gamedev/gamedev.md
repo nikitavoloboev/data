@@ -62,3 +62,4 @@
 - [EnTT](https://github.com/skypjack/entt) - Header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model.
 - [Yet Another Doom Clone (In 13kb of JavaScript) (2019)](https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html)
 - [Magic Tools](https://github.com/ellisonleao/magictools#readme) - Game Development resources to make magic happen.
+- [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
