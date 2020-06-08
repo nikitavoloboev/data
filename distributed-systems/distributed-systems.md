@@ -89,3 +89,4 @@
 - [Notes on Distributed Systems for Young Bloods (2013)](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/) ([HN](https://news.ycombinator.com/item?id=23365402))
 - [Paxakos](https://github.com/benschulz/paxakos) - Rust implementation of a distributed consensus algorithm based on Leslie Lamport's Paxos.
 - [Riemann](https://github.com/riemann/riemann) - Network event stream processing system, in Clojure.
+- [Collection of the papers, conference talks, articles, blog posts, interesting Twitter threads, HN/reddit comments on systems engineering](https://github.com/copyconstruct/library)

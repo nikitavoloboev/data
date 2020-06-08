@@ -81,3 +81,4 @@
 - [Parcel and Rust: A WASM Romcom (2020)](https://dev.p.ota.to/post/parcel-and-rust-a-wasm-romcom-4kgsjnrdm5t/) ([HN](https://news.ycombinator.com/item?id=23401553))
 - [AssemblyScript Examples](https://github.com/AssemblyScript/examples)
 - [Generating WebAssembly CPU Profiles in Go (2019)](https://agniva.me/wasm/2019/07/25/wasm-cpu-profiles.html)
+- [WebAssembly Weekly](https://wasmweekly.news/) - Community-driven weekly newsletter about WebAssembly.
