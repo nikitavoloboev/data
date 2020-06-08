@@ -198,3 +198,4 @@
 - [Weave Kubernetes System Control - wksctl](https://github.com/weaveworks/wksctl) - Allows simple creation of a Kubernetes cluster given a set of IP addresses and an SSH key.
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes.
 - [Kubernetes Metrics Server](https://github.com/kubernetes-sigs/metrics-server) - Scalable, efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+- [Source controller](https://github.com/fluxcd/source-controller) - Experimental source manager.

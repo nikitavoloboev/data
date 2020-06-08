@@ -185,3 +185,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [What are tools experienced ios developers know that new developers don't know? (2020)](https://www.reddit.com/r/iOSProgramming/comments/gv51yk/what_are_tools_experienced_ios_developers_know/)
 - [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - iOS library providing developer tools for browsing objects in memory over time.
 - [iOS App Reverse Engineering (2015)](https://github.com/iosre/iOSAppReverseEngineering)
+- [SwiftInfo](https://github.com/rockbruno/SwiftInfo) - Extract and analyze the evolution of an iOS app's code.

@@ -233,3 +233,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [hookshot](https://github.com/brianloveswords/hookshot) - Listen for webhooks, run some tasks.
 - [Most tech content is bullshit (2020)](https://www.aleksandra.codes/tech-content-consumer) ([HN](https://news.ycombinator.com/item?id=23448489))
 - [Universally Unique Lexicographically Sortable Identifier spec](https://github.com/ulid/spec)
+- [Shairplay](https://github.com/juhovh/shairplay) - Apple airplay and raop protocol server.

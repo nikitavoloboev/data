@@ -130,3 +130,4 @@
 - [Interactive Map of Linux Kernel](https://makelinux.github.io/kernel/map/) ([Code](https://github.com/makelinux/linux_kernel_map/blob/master/srcxray.py)) ([HN](https://news.ycombinator.com/item?id=23452721))
 - [Wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor.
 - [Waysmoke](https://github.com/myfreeweb/waysmoke) - Upcoming desktop shell, built primarily for the Wayfire compositor.
+- [Weylus](https://github.com/H-M-H/Weylus) - Turns your tablet or smart phone into a graphic tablet/touch screen for your computer. ([HN](https://news.ycombinator.com/item?id=23443430))

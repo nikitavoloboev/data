@@ -105,6 +105,7 @@
 - [gooey-react](https://github.com/luukdv/gooey-react) - Gooey effect for React, used for shape blobbing. ([Web](https://gooey-react.netlify.app/))
 - [konva-grid](https://github.com/rmdort/konva-grid) - Declarative React Canvas Grid primitive for Data table, Pivot table, Excel Worksheets.
 - [react-spring-lightbox](https://github.com/tim-soft/react-spring-lightbox) - Flexible image gallery lightbox with native-feeling touch gestures and buttery smooth animations, built with react-spring.
+- [React-Toastify](https://github.com/fkhadra/react-toastify) - React notification made easy.
 
 ## Links
 
