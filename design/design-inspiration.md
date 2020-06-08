@@ -23,6 +23,7 @@ Here are few more things I liked, design wise.
 - [F-Word Podcast](https://f-word.dev/) ([Code](https://github.com/fword-dev/f-word.dev))
 - [Crank.js docs](https://crank.js.org/)
 - [Piccalilli](https://piccalil.li/)
+- [Exyte](https://exyte.com/)
 
 ## Blogs
 

@@ -16,3 +16,4 @@
 - [Toolbox Pro Review: A Must-Have Companion Utility for Shortcuts Power Users (2019)](https://www.macstories.net/reviews/toolbox-pro-review-a-must-have-companion-utility-for-shortcuts-power-users/)
 - [Creating complex iOS Shortcuts with external APIs and ToolBox Pro (2019)](https://www.youtube.com/watch?v=yS_FRpbaKD8)
 - [Take Control of Shortcuts](https://www.takecontrolbooks.com/shortcuts/)
+- [Shortcuts File Format Reference](https://github.com/sebj/iOS-Shortcuts-Reference#readme)
