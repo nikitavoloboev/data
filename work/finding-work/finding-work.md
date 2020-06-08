@@ -63,3 +63,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Getting a Gig: A Guide](https://github.com/cassidoo/getting-a-gig#readme)
 - [How to prepare for losing your programming job (2020)](https://codewithoutrules.com/2020/05/14/prepare-losing-job/) ([HN](https://news.ycombinator.com/item?id=23180214))
 - [Job searching (2020)](https://www.thefragehaver.com/posts/jobsearch/)
+- [Ask HN: What is the smartest career path to take? (2020)](https://news.ycombinator.com/item?id=23458316)
