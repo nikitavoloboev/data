@@ -39,3 +39,4 @@
 - [Building a Secure Signed JWT (2020)](https://fusionauth.io/learn/expert-advice/tokens/building-a-secure-jwt)
 - [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management.
 - [TokenCLI](https://github.com/imduffy15/token-cli) - Command line utility for interacting with OAuth2 infrastructure to generate tokens.
+- [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/) - New type of identifier that enables verifiable, decentralized digital identity.
