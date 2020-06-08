@@ -14,3 +14,4 @@
 - [Dragonfly](https://github.com/dictation-toolbox/dragonfly) - Speech recognition framework for Python that makes it convenient to create custom commands to use with speech recognition software.
 - [Gentle](https://github.com/lowerquality/gentle) - Robust yet lenient forced-aligner built on Kaldi. A tool for aligning speech with text.
 - [Porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
+- [Eesen](https://github.com/srvk/eesen) - End-to-End Speech Recognition using Deep RNN Models and WFST-based Decoding.

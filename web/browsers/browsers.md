@@ -47,3 +47,4 @@
 - [Chromium Embedded Framework (CEF)](https://github.com/chromiumembedded/cef) - Framework for embedding Chromium-based browsers in other applications.
 - [Fafi Browser](https://git.sr.ht/~soapdog/fafi-browser) - Gemini browser written in Racket.
 - [ksp-browser](https://github.com/inkandswitch/ksp-browser) - Connect the things you already know in your browser.
+- [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript.
