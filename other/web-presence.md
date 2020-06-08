@@ -39,7 +39,7 @@ These are my personal profiles on various websites sorted by categories.
 
 - [Quora](https://www.quora.com/profile/Nikita-Voloboev)
 - [Kaggle](https://www.kaggle.com/nikitavoloboev)
-- [Coursera](gghttps://www.coursera.org/user/7d650aebf46b82dcd83832d8358301c6)
+- [Coursera](https://www.coursera.org/user/7d650aebf46b82dcd83832d8358301c6)
 - [Wiki](https://wiki.nikitavoloboev.xyz)
 - [Khan Academy](https://khanacademy.org/profile/nikivi)
 - [Quizlet](https://quizlet.com/nikitavoloboev)
@@ -125,3 +125,4 @@ These are my personal profiles on various websites sorted by categories.
 - [Open Collective](https://opencollective.com/nikitavoloboev)
 - [Bandcamp](https://bandcamp.com/nikitavoloboev)
 - [Disqus](https://disqus.com/by/nikivi/)
+- [Tumblr](https://nikitavoloboev.tumblr.com/)
