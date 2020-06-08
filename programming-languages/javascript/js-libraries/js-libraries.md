@@ -259,6 +259,7 @@
 - [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming csv parser inspired by binary-csv that aims to be faster than everyone else.
 - [updeep](https://github.com/substantial/updeep) - Easily update nested frozen objects and arrays in a declarative and immutable manner.
 - [Hull.js](https://github.com/AndriiHeonia/hull) - JavaScript library that builds concave hull by set of points.
+- [StegCloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords.
 
 ## Links
 
