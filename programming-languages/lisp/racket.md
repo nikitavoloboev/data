@@ -28,3 +28,4 @@
 - [Racket News](https://racket-news.com/)
 - [sham](https://github.com/rjnw/sham) - DSL for runtime code generation in racket.
 - [PasteRack](http://www.pasterack.org/) - Evaluating pastebin for Racket. ([Code](https://github.com/stchang/pasterack))
+- [cKanren](https://github.com/calvis/cKanren) - Constraint programming language embedded in Racket.

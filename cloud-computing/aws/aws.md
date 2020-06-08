@@ -73,3 +73,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [VPC Studio](https://houqp.github.io/vpcstudio/) - VPC CIDR calculator with codegen. ([Code](https://github.com/houqp/vpcstudio))
 - [AWS services explained in one line each (2020)](https://adayinthelifeof.nl/2020/05/20/aws.html) ([HN](https://news.ycombinator.com/item?id=23309269))
 - [Awesome Amazon EKS](https://github.com/realvz/awesome-eks#readme)
+- [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - Tool for cleaning up your cloud accounts by nuking (deleting) all resources within it.

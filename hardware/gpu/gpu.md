@@ -14,3 +14,4 @@
 - [3D Fluid](https://github.com/PWhiddy/Fat-Clouds) - GPU Fluid Simulation with Volumetric Rendering.
 - [Understanding Latency Hiding on GPUs (2016)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf) ([HN](https://news.ycombinator.com/item?id=23379709))
 - [Harlan](https://github.com/eholk/harlan) - Domain specific language for programming GPUs.
+- [Region-based memory management for expressive GPU programming (2015)](https://blog.theincredibleholk.org/papers/dissertation.pdf)

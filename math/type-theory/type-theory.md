@@ -77,3 +77,4 @@
 - [Type inference under the hood (2019)](https://www.aleksandra.codes/type-inference)
 - [Type inference for beginners (2019)](https://medium.com/@dhruvrajvanshi/type-inference-for-beginners-part-1-3e0a5be98a4b)
 - [Algorithm W Step by Step (2006)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.7733&rep=rep1&type=pdf) - Implementation of the classic algorithm W for Hindley- Milner polymorphic type inference in Haskell.
+- [Elaboration with First-Class Implicit Function Types (2020)](https://github.com/AndrasKovacs/icfp20sub/blob/master/paper.pdf) ([Code](https://github.com/AndrasKovacs/icfp20sub/tree/master/fcif))
