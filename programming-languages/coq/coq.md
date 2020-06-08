@@ -31,4 +31,4 @@
 - [Interaction Trees - Representing Recursive and Impure Programs in Coq (2020)](https://poisson.chat/popl20/itrees.pdf)
 - [Formal Reasoning About Programs](https://github.com/achlipala/frap) - In-progress, open-source book by Adam Chlipala simultaneously introducing the Coq proof assistant and techniques for proving correctness of programs.
 - [GeoCoq](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry in Coq.
-- [Formalizing text editors in Coq (2020)](https://arxiv.org/abs/2006.03525)
+- [Formalizing text editors in Coq (2020)](https://arxiv.org/abs/2006.03525) ([HN](https://news.ycombinator.com/item?id=23454629))

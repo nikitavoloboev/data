@@ -82,6 +82,8 @@
 - [CameraKit](https://github.com/CameraKit/camerakit-ios) - Helps you add reliable camera to your app quickly.
 - [Haneke](https://github.com/Haneke/HanekeSwift) - Lightweight generic cache for iOS written in Swift with extra love for images.
 - [MTBBarcodeScanner](https://github.com/mikebuss/MTBBarcodeScanner) - Lightweight, easy-to-use barcode scanning library for iOS 8+.
+- [LiquidSwipe](https://github.com/exyte/LiquidSwipe) - Example of using SwiftUI to create a beautiful Liquid Swipe control.
+- [FanMenu](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
 
 ## macOS
 
@@ -126,6 +128,9 @@
 - [SwiftUISearchBar](https://github.com/appcoda/SwiftUISearchBar) - Search bar built entirely in SwiftUI.
 - [PathBuilder](https://github.com/mkj-is/PathBuilder) - SwiftUI function builder for Path.
 - [AlertX](https://github.com/neel-makhecha/AlertX) - Custom alerts in SwiftUI made easy.
+- [Grid](https://github.com/exyte/Grid) - Grid view inspired by CSS Grid and written with SwiftUI.
+- [Popup View](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
+- [Concentric Onboarding](https://github.com/exyte/ConcentricOnboarding) - iOS library for a walkthrough or onboarding flow with tap actions written with SwiftUI.
 
 ## Test
 
@@ -373,6 +378,8 @@
 - [Low-Level Versioned Store (LLVS)](https://github.com/mentalfaculty/LLVS)
 - [SwiftySound](https://github.com/adamcichy/SwiftySound) - Simple library that lets you play sounds with a single line of code.
 - [MetalCamera](https://github.com/jsharp83/MetalCamera) - Swift, Metal based image and video processing on iOS.
+- [Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics Swift library with SVG support. ([Usage Examples](https://github.com/exyte/Macaw-Examples))
+- [ReadabilityKit](https://github.com/exyte/ReadabilityKit) - Preview extractor for news, articles and full-texts in Swift.
 
 ## Other (not lib)
 

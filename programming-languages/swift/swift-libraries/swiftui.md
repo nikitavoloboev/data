@@ -61,3 +61,4 @@
 - [Understanding Property Wrappers in SwiftUI (2019)](https://swiftwithmajid.com/2019/06/12/understanding-property-wrappers-in-swiftui/)
 - [SwiftWebUI and WASM](https://github.com/carson-katri/SwiftWebUI) - Fork of the incredible SwiftWebUI to support WebAssembly via swiftwasm.
 - [Scripts to make working with SwiftWebUI and WASM easier](https://github.com/carson-katri/swiftwebui-scripts)
+- [Replicating complex UI using SwiftUI](https://github.com/exyte/replicating)
