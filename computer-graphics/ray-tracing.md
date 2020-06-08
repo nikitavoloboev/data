@@ -28,3 +28,4 @@
 - [Ray Tracer in OCaml](https://github.com/Kamirus/ray-tracer)
 - [Rust implementation of "Ray Tracing In One Weekend" by Peter Shirley](https://github.com/jorendorff/rust-raytrace)
 - [Simple Ray Casting with ClojureScript (2020)](https://andreyorst.gitlab.io/posts/2020-06-04-simple-ray-casting-with-clojurescript/)
+- [Ray Tracing in One Weekend in TypeScript](https://github.com/ahuth/raytrace2)
