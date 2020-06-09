@@ -31,3 +31,5 @@ Is logical theory of computable functions.
 - [λ-calculus ocaml library](https://github.com/dakk/lambda)
 - [Simply typed lambda calculus (2020)](https://splintah.gitlab.io/posts/2020-05-24-Simply-typed-lambda.html)
 - [The Awesome Power of Theory: Explorations in the untyped lambda calculus (2014)](http://www.flownet.com/ron/lambda-calculus.html)
+- [Lambda Calculus Visualizations](https://github.com/prathyvsh/lambda-calculus-visualizations)
+- [History of Lambda Calculus](https://github.com/prathyvsh/history-of-lambda-calculus#readme)

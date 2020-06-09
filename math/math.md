@@ -152,3 +152,5 @@
 - [karasu](https://github.com/Krasjet/karasu) - Self-hosted remote communication system designed for math discussions. ([Web](https://krasjet.com/voice/karasu/))
 - [MathPages](https://www.mathpages.com/home/index.htm)
 - [Bill Thurston's answer to “What's a mathematician to do?”](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do/44213#44213) ([HN](https://news.ycombinator.com/item?id=23461983))
+- [Visual Math Tools](https://github.com/prathyvsh/Visual-Math-Tools#readme)
+- [Math History Books](https://github.com/prathyvsh/math-history#readme)
