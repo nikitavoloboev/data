@@ -260,6 +260,7 @@
 - [updeep](https://github.com/substantial/updeep) - Easily update nested frozen objects and arrays in a declarative and immutable manner.
 - [Hull.js](https://github.com/AndriiHeonia/hull) - JavaScript library that builds concave hull by set of points.
 - [StegCloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords.
+- [p-min-delay](https://github.com/sindresorhus/p-min-delay) - Delay a promise a minimum amount of time.
 
 ## Links
 
