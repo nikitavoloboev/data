@@ -93,3 +93,4 @@
 - [Fastify GraphQL adapter](https://github.com/mcollina/fastify-gql)
 - [Example GraphQL API implemented in Go and backed by Postgresql](https://github.com/topliceanu/graphql-go-example)
 - [Sqlmancer](https://github.com/danielrearden/sqlmancer) - Conjure SQL from your GraphQL queries.
+- [graphql-redis-subscriptions](https://github.com/davidyaha/graphql-redis-subscriptions) - GraphQL subscriptions implementation using Redis and Apollo's GraphQL-subscriptions.

@@ -98,3 +98,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [What’s In A Font? Researching Website Typography (2020)](https://kevq.uk/whats-in-a-font-researching-website-typography/)
 - [font-kit](https://github.com/servo/font-kit) - Cross-platform font loading library written in Rust.
 - [Helvetica](https://www.hustwit.com/helvetica) - Documentary on typography, graphic design and global visual culture. ([HN](https://news.ycombinator.com/item?id=23445245))
+- [Local Font Access Explained](https://github.com/WICG/local-font-access) - Web API for enumerating fonts on the local system.

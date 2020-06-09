@@ -54,3 +54,4 @@
 - [HoMM](https://github.com/lampinen/HoMM) - Library for Homoiconic Meta-mapping.
 - [Hummingbird](https://github.com/microsoft/hummingbird) - Library for compiling trained traditional ML models into tensor computations.
 - [Ax](https://github.com/facebook/Ax) - Accessible, general-purpose platform for understanding, managing, deploying, and automating adaptive experiments.
+- [Neuropod](https://github.com/uber/neuropod) - Uniform interface to run deep learning models from multiple frameworks.

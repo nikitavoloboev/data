@@ -14,3 +14,4 @@
 - [Let's Learn x86-64 Assembly! (2020)](https://gpfault.net/posts/asm-tut-0.txt.html)
 - [int 80h](http://int80h.org/) - Learn Assembly using OpenBSD as base OS.
 - [Assembly’s Perspective (2020)](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/)
+- [ASM Swift](https://github.com/NSExceptional/ASM-Swift) - Playground for learning Assembly language through Swift.

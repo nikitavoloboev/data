@@ -77,3 +77,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Push-Button Installer of macOS Guests in VirtualBox for Windows, Linux, macOS](https://github.com/myspaghetti/macos-virtualbox) ([HN](https://news.ycombinator.com/item?id=23284987))
 - [macOS in a Docker Container](https://github.com/sickcodes/Docker-OSX) ([HN](https://news.ycombinator.com/item?id=23419101)) ([Reddit](https://www.reddit.com/r/jailbreak/comments/gwg3e4/free_release_dockerosx_run_xcode_on_linux_sign/))
 - [netboot.nix](https://github.com/grahamc/netboot.nix) - Create full netboot images in 15 seconds.
+- [Swizzle](https://github.com/NSExceptional/Swizzle) - Extensible tweak to create simple tweaks for any app, from within any app.

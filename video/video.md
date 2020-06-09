@@ -66,3 +66,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [PL_MPEG](https://github.com/phoboslab/pl_mpeg) - Single file C library for decoding MPEG1 Video and MP2 Audio.
 - [Ask HN: Is it too late to start creating content on YouTube? (2020)](https://news.ycombinator.com/item?id=23444750)
 - [Cloudflare TV](https://cloudflare.tv/live) ([HN](https://news.ycombinator.com/item?id=23451334)) ([Article](https://blog.cloudflare.com/ladies-and-gentlemen-cloudflare-tv/))
+- [VideoJS Plus](https://github.com/Pong420/videojs-plus) - Extension and skin for video.js.

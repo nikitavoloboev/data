@@ -11,3 +11,4 @@
 - [proper-lockfile](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility that works on a local or network file system.
 - [How do you lay out your home directory? (2020)](https://lobste.rs/s/fd1rbw/how_do_you_lay_out_your_home_directory)
 - [RISC-V OS using Rust: Filesystems](http://osblog.stephenmarz.com/ch10.html) ([HN](https://news.ycombinator.com/item?id=23155294))
+- [Sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management tool for ZFS filesystems. When combined with the Linux KVM hypervisor, you can use it to make your systems functionally immortal.

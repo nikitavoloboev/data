@@ -22,3 +22,4 @@
 - [grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec.
 - [OpenAPI and gRPC Side-by-Side (2017)](https://medium.com/apis-and-digital-transformation/openapi-and-grpc-side-by-side-b6afb08f75ed)
 - [Pike](https://github.com/sashabaranov/pike) - Generate CRUD gRPC backends from single YAML description.
+- [gRPC on Node.js](https://github.com/grpc/grpc-node)
