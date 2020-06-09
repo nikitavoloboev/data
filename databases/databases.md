@@ -157,3 +157,4 @@
 - [The Curious Case of Small Files (2020)](https://developer.sh/posts/curious-case-of-small-files) ([Lobsters](https://lobste.rs/s/b3mmo4/curious_case_small_files))
 - [MiniCouchDB in Rust (2020)](https://www.garrensmith.com/blogs/mini-couch-hack-week) ([HN](https://news.ycombinator.com/item?id=23446852)) ([Lobsters](https://lobste.rs/s/waj4zf/minicouchdb_rust))
 - [Accessing SQLite, PostgreSQL and MySQL through ODBC](https://relational-pipes.globalcode.info/v_0/examples-tr-sql-odbc.xhtml)
+- [DBCore](https://github.com/eatonphil/dbcore) - Code generator build around database schemas and an API specification.

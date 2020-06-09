@@ -135,3 +135,4 @@
 - [What are your must have React tools in 2020?](https://www.reddit.com/r/javascript/comments/gt0bue/askjs_what_are_your_must_have_react_tools_in_2020/)
 - [The rise of React (2020)](https://increment.com/frontend/the-rise-of-react/) ([HN](https://news.ycombinator.com/item?id=23366041))
 - [storybook-addon-react-docgen](https://github.com/hipstersmoothie/storybook-addon-react-docgen) - Storybook addon to display react docgen info.
+- [Rendering to iFrames in React (2018)](https://medium.com/@ryanseddon/rendering-to-iframes-in-react-d1cb92274f86)

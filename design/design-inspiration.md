@@ -6,6 +6,7 @@ Here are few more things I liked, design wise.
 
 ## Websites
 
+- [Linear](https://linear.app/)
 - [Dribble](https://dribbble.com/)
 - [Draftsend](https://draftsend.com/)
 - [taotajima](http://taotajima.jp/works/waxing-moon/) - Amazing transitions.

@@ -446,6 +446,7 @@
 - [Go App Engine packages](https://github.com/golang/appengine) - Provides APIs for interacting with App Engine services.
 - [saml](https://github.com/ucarion/saml) - Simple, secure, pluggable Golang implementation of SAML.
 - [golang-whois](https://github.com/undiabler/golang-whois) - Get whois info using root servers.
+- [circbuf](https://github.com/armon/circbuf) - Provides a Buffer object which is a circular (or ring) buffer. It has a fixed size, but can be written to infinitely.
 
 ## Links
 

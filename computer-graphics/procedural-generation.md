@@ -19,3 +19,4 @@
 - [Voronoi maps tutorial](https://www.redblobgames.com/x/2022-voronoi-maps-tutorial/)
 - [Meander](http://roberthodgin.com/project/meander) - Procedural system for generating historical maps of rivers that never existed. ([HN](https://news.ycombinator.com/item?id=23341917))
 - [Atmospheric Scattering (and also just faking it) (2020)](https://www.youtube.com/watch?v=JMUtQcJE2Pw)
+- [Shan, Shui](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting. ([HN](https://news.ycombinator.com/item?id=23469233))
