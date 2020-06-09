@@ -146,6 +146,7 @@
 ## ML
 
 - [Swift for TensorFlow APIs](https://github.com/tensorflow/swift-apis)
+- [DL4S](https://github.com/palle-k/DL4S) - Provides a high-level API for many accelerated operations common in neural networks and deep learning.
 
 ## DB
 
