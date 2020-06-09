@@ -56,6 +56,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Timer](https://github.com/michaelvillar/timer-app) - Simple Timer app for Mac.
 - [Mach-O Explorer](https://github.com/DeVaukz/MachO-Explorer) - Graphical Mach-O viewer for macOS.
 - [Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
+- [AltTab](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS.
 
 ## Other interesting apps
 

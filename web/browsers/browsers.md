@@ -48,3 +48,4 @@
 - [Fafi Browser](https://git.sr.ht/~soapdog/fafi-browser) - Gemini browser written in Racket.
 - [ksp-browser](https://github.com/inkandswitch/ksp-browser) - Connect the things you already know in your browser.
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript.
+- [Quotebacks](https://quotebacks.net/) - Quote the Web. ([HN](https://news.ycombinator.com/item?id=23468175))
