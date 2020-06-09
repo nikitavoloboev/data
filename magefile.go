@@ -16,6 +16,7 @@ import (
 // TODO: run https://github.com/smallhadroncollider/brok on whole wiki
 // TODO: remove all ?utm extra useless stuff added to links
 // TODO: find broken links. Of this kind: `[]Link Title(https://..)` or similar
+// TODO: jump over all imgur links & check if the URL is still up
 
 // Find broken links
 func Clean() {
