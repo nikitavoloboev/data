@@ -9,3 +9,4 @@
 - [Highlights from FPGA 2020](https://johnwickerson.wordpress.com/2020/02/27/highlights-from-fpga-2020/) ([HN](https://news.ycombinator.com/item?id=22439021))
 - [Compressing deep neural networks on FPGAs to binary and ternary precision with hls4ml (2020)](https://arxiv.org/pdf/2003.06308.pdf)
 - [LitePCIe](https://github.com/enjoy-digital/litepcie) - Provides a small footprint and configurable PCIe core.
+- [Cook FPGA](https://github.com/lastweek/fpga_readings) - Collection of useful resources and links rather than a thorough FPGA tutorial.
