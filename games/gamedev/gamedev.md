@@ -64,3 +64,4 @@
 - [Magic Tools](https://github.com/ellisonleao/magictools#readme) - Game Development resources to make magic happen.
 - [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
 - [Nakama JavaScript client](https://github.com/heroiclabs/nakama-js) - JavaScript client for Nakama server written in TypeScript.
+- [Peeking under the hood of Command & Conquer (2020)](http://www.hydrogen18.com/blog/peeking-under-the-hood-of-command-conquer.html)

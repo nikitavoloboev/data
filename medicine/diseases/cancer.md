@@ -8,3 +8,4 @@
 - [Hammer Lab](http://www.hammerlab.org/) - Lab working to understand and improve the immune response to cancer.
 - [SnapShot: Splicing Alterations in Cancer](https://twitter.com/EricTopol/status/1215327396380852225)
 - [Nature Cancer: Volume 1 Issue 1, January 2020](https://www.nature.com/natcancer/volumes/1/issues/1)
+- [Why do we hear about breakthroughs in cancer treatment only to never see them again? (2020)](https://www.reddit.com/r/askscience/comments/gzb3gy/why_do_we_hear_about_breakthroughs_in_cancer/)
