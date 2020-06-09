@@ -51,3 +51,4 @@
 - [C Internals](http://www.avabodh.com/cin/cin.html) ([HN](https://news.ycombinator.com/item?id=23376357))
 - [C-Reduce](https://github.com/csmith-project/creduce) - Tool that takes a large C or C++ program that has a property of interest (such as triggering a compiler bug) and automatically produces a much smaller C/C++ program that has the same property. ([Web](http://embed.cs.utah.edu/creduce/))
 - [C implementation of Tic-Tac-Toe in a single call to printf](https://github.com/carlini/printf-tac-toe) ([HN](https://news.ycombinator.com/item?id=23445546)) ([Reddit](https://www.reddit.com/r/programming/comments/gy8igu/tictactoe_in_a_single_call_to_printf_in_c/))
+- [How the most upvoted C question was another question (2020)](https://bowero.nl/blog/2020/06/09/how-the-most-upvoted-c-question-was-another-question/) ([Lobsters](https://lobste.rs/s/m34tye/how_most_upvoted_c_question_was_another))

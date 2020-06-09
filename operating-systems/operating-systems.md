@@ -33,12 +33,13 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [RustyHermit](https://github.com/hermitcore/libhermit-rs) - Rust-based, lightweight unikernel.
 - [Distaff](https://github.com/GuildOfWeavers/distaff) - Zero-knowledge virtual machine written in Rust.
 - [zCore](https://github.com/rcore-os/zCore) - Reimplement Zircon microkernel in Rust.
-- [9front](http://9front.org/)
+- [9front](http://9front.org/) ([Lobsters](https://lobste.rs/s/n5zmtt/9front_plan9_haters_released))
 - [lilith](https://github.com/ffwff/lilith) - POSIX-like x86-64 kernel and userspace written in Crystal.
 - [Genode](https://genode.org/index) - Operating System Framework.
 - [Shrine](https://github.com/minexew/Shrine) - TempleOS distro for heretics.
 - [Subgraph OS](https://subgraph.com/) - Desktop computing and communications platform that is designed to be resistant to network-borne exploit and malware attacks. ([Handbook](https://github.com/subgraph/sgos_handbook))
 - [Mezzano](https://github.com/froggey/Mezzano) - Operating system written in Common Lisp.
+- [Collapse OS](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology. ([HN](https://news.ycombinator.com/item?id=21182628))
 
 ## Links
 
@@ -70,7 +71,6 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com/index.html) ([HN](https://news.ycombinator.com/item?id=21446079))
 - [Mu: Sketching out a minimal system programming language (2019)](http://akkartik.name/post/mu-2019-2) ([Lobsters](https://lobste.rs/s/e39f2x/mu_sketching_out_minimal_system))
 - [ioping](https://github.com/koct9i/ioping) - Simple disk I/0 latency measuring tool.
-- [Collapse OS](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology. ([HN](https://news.ycombinator.com/item?id=21182628))
 - [Awesome eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - BPF, as in Berkeley Packet Filter, is an in-kernel virtual machine running programs passed from user space.
 - [What are required knowledge in order to build an OS? (2020)](https://www.reddit.com/r/osdev/comments/egzwa0/what_are_required_knowledge_in_order_to_build_an/)
 - [Krabs](https://github.com/ellbrid/krabs) - x86 bootloader written in Rust.

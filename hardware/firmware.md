@@ -11,3 +11,4 @@
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
 - [Tracking Firmware Code Size (2020)](https://interrupt.memfault.com/blog/code-size-deltas)
 - [TS100 & TS80 Firmware](https://github.com/Ralim/ts100)
+- [binbloom](https://github.com/quarkslab/binbloom) - Raw binary firmware analysis software.
