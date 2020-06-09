@@ -232,3 +232,4 @@
 - [Learn Rust with TDD](https://learn-with-tests.github.io/learn-rust-with-tests/) ([Code](https://github.com/learn-with-tests/learn-rust-with-tests))
 - [Zero To Production #1: Setup - Toolchain, IDEs, CI (2020)](https://www.lpalmieri.com/posts/2020-06-06-zero-to-production-1-setup-toolchain-ides-ci/)
 - [New inline assembly syntax available in nightly (2020)](https://blog.rust-lang.org/inside-rust/2020/06/08/new-inline-asm.html) ([HN](https://news.ycombinator.com/item?id=23466795)) ([Reddit](https://www.reddit.com/r/rust/comments/gzil0l/new_inline_assembly_syntax_available_in_nightly/))
+- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/index.html) ([Code](https://github.com/rust-lang/async-book))

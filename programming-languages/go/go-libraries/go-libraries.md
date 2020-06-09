@@ -445,6 +445,7 @@
 - [gearbox](https://github.com/gogearbox/gearbox) - Web framework for building micro services written in Go with a focus on high performance and memory optimization.
 - [Go App Engine packages](https://github.com/golang/appengine) - Provides APIs for interacting with App Engine services.
 - [saml](https://github.com/ucarion/saml) - Simple, secure, pluggable Golang implementation of SAML.
+- [golang-whois](https://github.com/undiabler/golang-whois) - Get whois info using root servers.
 
 ## Links
 

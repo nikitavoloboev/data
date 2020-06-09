@@ -234,3 +234,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Most tech content is bullshit (2020)](https://www.aleksandra.codes/tech-content-consumer) ([HN](https://news.ycombinator.com/item?id=23448489)) ([Lobsters](https://lobste.rs/s/ykpwro/most_tech_content_is_bullshit))
 - [Universally Unique Lexicographically Sortable Identifier spec](https://github.com/ulid/spec)
 - [Shairplay](https://github.com/juhovh/shairplay) - Apple airplay and raop protocol server.
+- [gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive (curl/wget fails because of the security notice).

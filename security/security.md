@@ -73,3 +73,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Password Manager Resources](https://github.com/apple/password-manager-resources#readme) - Place for creators of password managers to collaborate on resources to make password management better for everyone.
 - [A Well-Known URL for Changing Passwords](https://wicg.github.io/change-password-url/) ([Code](https://github.com/WICG/change-password-url))
 - [Learn Security Engineering](https://github.com/veeral-patel/learn-security-engineering#readme)
+- [Zebra Crossing: an easy-to-use digital safety checklist](https://github.com/narwhalacademy/zebra-crossing#readme)

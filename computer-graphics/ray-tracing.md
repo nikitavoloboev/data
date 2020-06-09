@@ -29,3 +29,4 @@
 - [Rust implementation of "Ray Tracing In One Weekend" by Peter Shirley](https://github.com/jorendorff/rust-raytrace)
 - [Simple Ray Casting with ClojureScript (2020)](https://andreyorst.gitlab.io/posts/2020-06-04-simple-ray-casting-with-clojurescript/)
 - [Ray Tracing in One Weekend in TypeScript](https://github.com/ahuth/raytrace2)
+- [Embree](https://github.com/embree/embree) - Collection of high-performance ray tracing kernels, developed at Intel.

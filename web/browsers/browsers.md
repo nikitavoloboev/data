@@ -49,3 +49,4 @@
 - [ksp-browser](https://github.com/inkandswitch/ksp-browser) - Connect the things you already know in your browser.
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript.
 - [Quotebacks](https://quotebacks.net/) - Quote the Web. ([HN](https://news.ycombinator.com/item?id=23468175))
+- [Favicon Checker](http://www.colinkeany.com/favicon-checker/) - See how your favicon hold up across popular browsers, including native dark and light modes. ([Code](https://github.com/colinkeany/favicon-checker))

@@ -17,6 +17,8 @@
 - [Categorical Encoding Methods](https://github.com/scikit-learn-contrib/categorical-encoding) - Library of sklearn compatible categorical variable encoders.
 - [Pyodide](https://github.com/iodide-project/pyodide) - Python scientific stack, compiled to WebAssembly.
 - [AtsPy](https://github.com/firmai/atspy) - Automated Time Series Models in Python.
+- [iterative-stratification](https://github.com/trent-b/iterative-stratification) - scikit-learn cross validators for iterative stratification of multilabel data.
+- [PyMeasure](https://github.com/ralph-group/pymeasure) - Scientific measurement library for instruments, experiments, and live-plotting.
 
 ## Biology
 

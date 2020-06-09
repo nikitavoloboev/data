@@ -113,3 +113,4 @@
 - [PyVacy](https://github.com/ChrisWaites/pyvacy) - Differentially Private Optimization Algorithms for PyTorch.
 - [Gaussian mixture models in PyTorch](https://github.com/ldeecke/gmm-torch)
 - [Effective PyTorch](https://github.com/vahidk/EffectivePyTorch#readme) - PyTorch tutorials and best practices.
+- [PyTorch for Numpy Users](https://pytorch-for-numpy-users.wkentaro.com/) ([Code](https://github.com/wkentaro/pytorch-for-numpy-users))
