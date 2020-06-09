@@ -166,6 +166,7 @@
 - [Better Wiki](https://www.notion.so/Better-Wiki-c9cb3d3509a64743ac85f9c192ab4ce1) - Curated directory of best practices from great companies.
 - [Ask HN: How bad should the code be in a startup? (2020)](https://news.ycombinator.com/item?id=23446627)
 - [Ask HN: Moving from a startup to a big co, what should I be aware of? (2020)](https://news.ycombinator.com/item?id=23455415)
+- [Co-Founder Expectations (2019)](https://tamplin.net/posts/cofounder-expectations/)
 
 ## Images
 
