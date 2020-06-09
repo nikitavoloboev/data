@@ -90,3 +90,4 @@
 - [Effective Modern C++ Cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet#readme)
 - [re2c](https://github.com/skvadrik/re2c) - Lexer generator for C/C++.
 - [Modern C++ Template](https://github.com/filipdutescu/modern-cpp-template) - Quick C++ template for modern CMake projects, aimed to be an easy to use starting point.
+- [Learning to Code in C++ with Haiku OS](https://www.haiku-os.org/development/)

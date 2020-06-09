@@ -26,7 +26,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [RancherOS](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers.
 - [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket) - Free and open-source Linux-based operating system meant for hosting containers.
 - [XNU kernel](https://github.com/apple/darwin-xnu) - Part of the Darwin operating system for use in macOS and iOS operating systems.
-- [Haiku](https://github.com/haiku/haiku) - Open-source operating system that specifically targets personal computing.
+- [Haiku](https://github.com/haiku/haiku) - Open-source operating system that specifically targets personal computing. ([HN](https://news.ycombinator.com/item?id=23469209))
 - [Pebble](https://github.com/IsaacWoods/pebble) - Microkernel and userspace written in Rust, with first-class message passing.
 - [seL4 microkernel](https://github.com/seL4/seL4) ([Article](https://microkerneldude.wordpress.com/2020/04/07/the-sel4-foundation-what-and-why/)) ([HN](https://news.ycombinator.com/item?id=22801864))
 - [Barebones amd64 kernel built using 9front](https://github.com/majiru/barebones9)

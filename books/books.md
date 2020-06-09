@@ -171,6 +171,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: Best books under 200 pages for developers (2020)](https://news.ycombinator.com/item?id=23363595)
 - [Reading of David Blue](https://bilge.world/reading)
 - [Matthew Bunday's reading list](https://zencephalon.com/reading/)
+- [Luke Smith's personal library](https://lukesmith.xyz/library)
 
 ## Notes
 
