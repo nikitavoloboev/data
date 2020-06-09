@@ -41,3 +41,4 @@
 - [TokenCLI](https://github.com/imduffy15/token-cli) - Command line utility for interacting with OAuth2 infrastructure to generate tokens.
 - [Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/) - New type of identifier that enables verifiable, decentralized digital identity.
 - [jwt](https://github.com/ucarion/jwt) - Golang implementation of JSON Web Tokens (JWT) that helps you avoid common security mistakes.
+- [HN: Pioneers of web cryptography on the future of authentication (2020)](https://news.ycombinator.com/item?id=23454954)
