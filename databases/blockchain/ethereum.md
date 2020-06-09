@@ -58,3 +58,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [eth.build](https://eth.build/) - Educational sandbox for building on web3. Visually understand how Ethereum works by doing. ([Code](https://github.com/austintgriffith/eth.build))
 - [Schlesi ETH 2.0 Testnet](https://github.com/goerli/schlesi) - Documenting Ethereum 2.0 multi-client testnet efforts.
 - [rust-web3](https://github.com/tomusdrw/rust-web3) - Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.
+- [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper) - Ethereum's formal specification. ([PDF](https://ethereum.github.io/yellowpaper/paper.pdf))

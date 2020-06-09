@@ -61,3 +61,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Cerberus](https://tedgoas.github.io/Cerberus/) - Patterns for Responsive HTML Email Templates. ([Code](https://github.com/TedGoas/Cerberus))
 - [Why Email is the Best Discussion Platform (2020)](https://www.paritybit.ca/blog/why-email-is-the-best-discussion-platform) ([Lobsters](https://lobste.rs/s/9ezplc/why_email_is_best_discussion_platform))
 - [MailDev](https://github.com/maildev/maildev) - SMTP Server + Web Interface for viewing and testing emails during development.
+- [How to build emails with React (2017)](https://building.lang.ai/how-to-build-emails-with-react-fcf941b125d1)

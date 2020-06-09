@@ -174,6 +174,7 @@ Here are few more things I liked, design wise.
 - [Two Wrongs](https://two-wrongs.com/)
 - [Nathan Taylor](https://nathan.tokyo/)
 - [Chance Arthur](https://chancearthur.com/about)
+- [Kentaro Wada](https://www.wkentaro.com/)
 - [Gal Shir](https://galshir.com/)
 - [Gregory Szorc](https://gregoryszorc.com/)
 - [Azlen Elza](https://azlen.me/) ([Code](https://github.com/azlen/azlen.me))
