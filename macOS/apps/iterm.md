@@ -6,7 +6,7 @@ Assigned w + j with [Karabiner](karabiner/karabiner.md) to open the app from Key
 
 I use [Primer GitHub theme](https://github.com/fcaldera/github-primer-iterm2) for it. And share [my iTerm preferences](https://www.dropbox.com/s/wx9ijtq4me8fttp/com.googlecode.iterm2.plist?dl=1).
 
-![](https://i.imgur.com/pmmSRVN.png)
+![](https://i.imgur.com/enUxUAr.png)
 
 ## My workflow
 
@@ -20,7 +20,7 @@ My always open tabs are:
 
 There is a [workflow](https://github.com/isometry/alfred-tty) to quickly switch between active tty sessions. Although I don't use it due to direct keybinds above.
 
-![](https://i.imgur.com/a4Iuomp.png)
+![](https://i.imgur.com/3gQ2khq.png)
 
 ## Notes
 

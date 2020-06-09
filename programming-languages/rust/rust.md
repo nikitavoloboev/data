@@ -231,3 +231,4 @@
 - [Why the developers who use Rust love it so much (2020)](https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/) ([HN](https://news.ycombinator.com/item?id=23437202))
 - [Learn Rust with TDD](https://learn-with-tests.github.io/learn-rust-with-tests/) ([Code](https://github.com/learn-with-tests/learn-rust-with-tests))
 - [Zero To Production #1: Setup - Toolchain, IDEs, CI (2020)](https://www.lpalmieri.com/posts/2020-06-06-zero-to-production-1-setup-toolchain-ides-ci/)
+- [New inline assembly syntax available in nightly (2020)](https://blog.rust-lang.org/inside-rust/2020/06/08/new-inline-asm.html)
