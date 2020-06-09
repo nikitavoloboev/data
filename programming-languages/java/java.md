@@ -20,3 +20,4 @@
 - [Java 15 in 2020: Reasons to not use Java?](https://dev.to/brunoborges/java-15-in-2020-reasons-to-not-use-java-3ekg)
 - [How to write a (toy) JVM (2020)](https://zserge.com/posts/jvm/) ([HN](https://news.ycombinator.com/item?id=23390914))
 - [Implementing a Simple JVM in Rust by Ben Evans (2019)](https://www.youtube.com/watch?v=7ECbwgkHdAE)
+- [Performance of Modern Java on Data-Heavy Workloads (2020)](https://jet-start.sh/blog/2020/06/09/jdk-gc-benchmarks-part1) ([HN](https://news.ycombinator.com/item?id=23465660))

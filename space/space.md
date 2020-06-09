@@ -40,3 +40,4 @@
 - [SPACEX - ISS Docking Simulator](https://iss-sim.spacex.com/)
 - [SpaceX software team AMA (2020)](https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/)
 - [RussianSpaceWeb](http://www.russianspaceweb.com/) - News and history of astronautics in the former USSR.
+- [Receiving images of Earth from satellites with software defined radio](https://l-o-o-s-e-d.net/signs-of-life) ([HN](https://news.ycombinator.com/item?id=23465837))

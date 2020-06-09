@@ -12,4 +12,4 @@
 - [How do you lay out your home directory? (2020)](https://lobste.rs/s/fd1rbw/how_do_you_lay_out_your_home_directory)
 - [RISC-V OS using Rust: Filesystems](http://osblog.stephenmarz.com/ch10.html) ([HN](https://news.ycombinator.com/item?id=23155294))
 - [Sanoid](https://github.com/jimsalterjrs/sanoid) - Policy-driven snapshot management tool for ZFS filesystems. When combined with the Linux KVM hypervisor, you can use it to make your systems functionally immortal.
-- [UtahFS](https://github.com/cloudflare/utahfs) - Encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.
+- [UtahFS](https://github.com/cloudflare/utahfs) - Encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage. ([Article](https://blog.cloudflare.com/utahfs/)) ([HN](https://news.ycombinator.com/item?id=23465571))
