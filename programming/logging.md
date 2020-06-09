@@ -11,3 +11,4 @@
 - [The logging framework isn't a bottleneck, and other lies your laptop tells you (2020)](https://tech.davis-hansson.com/p/tower/) ([Lobsters](https://lobste.rs/s/od1ehi/logging_framework_isn_t_bottleneck_other))
 - [Logstash](https://github.com/elastic/logstash) - Transport and process your logs, events, or other data.
 - [Fluent Bit](https://github.com/fluent/fluent-bit) - Fast Log Processor and Forwarder for Linux, Embedded Linux, MacOS and BSD.
+- [GoAccess](https://github.com/allinurl/goaccess) - Real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.

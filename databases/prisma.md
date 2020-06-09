@@ -13,3 +13,4 @@
 - [Kitze & Nikolas from Prisma discuss the future of Prisma and GraphQL](https://www.youtube.com/watch?v=SbPCWpb3-eA)
 - [NestJS Prisma Starter](https://github.com/fivethree-team/nestjs-prisma-starter) - Includes Graphql with Prisma Client, Passport-JWT authentication, Swagger Api and Docker.
 - [Prisma 2.0 Demo by Nikolas Burk (2020)](https://www.youtube.com/watch?v=AnJxKWQG_fM)
+- [Prisma 2.0: Confidence and productivity for your database (2020)](https://www.prisma.io/blog/announcing-prisma-2-n0v98rzc8br1) ([HN](https://news.ycombinator.com/item?id=23466834))
