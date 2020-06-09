@@ -165,6 +165,7 @@
 - [Satchel](https://satchel.com/) - Write SaaS buying guides. Test products in different SaaS categories, write reports about our findings, and then try to identify the best product for a typical early-stage startup.
 - [Better Wiki](https://www.notion.so/Better-Wiki-c9cb3d3509a64743ac85f9c192ab4ce1) - Curated directory of best practices from great companies.
 - [Ask HN: How bad should the code be in a startup? (2020)](https://news.ycombinator.com/item?id=23446627)
+- [Ask HN: Moving from a startup to a big co, what should I be aware of? (2020)](https://news.ycombinator.com/item?id=23455415)
 
 ## Images
 
