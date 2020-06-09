@@ -2,6 +2,12 @@
 
 The key to success in Open Source lies in understanding that it's not just about software, it's about the people.
 
+## Nice contributing pages
+
+- [Things Network](https://github.com/TheThingsNetwork/lorawan-stack/blob/develop/CONTRIBUTING.md)
+- [Libra](https://github.com/libra/libra/blob/master/CONTRIBUTING.md)
+- [Arrow](https://github.com/apache/arrow/blob/master/docs/source/developers/contributing.rst)
+
 ## Notes
 
 - It’s very hard to make open source work for products. multiple problems:
