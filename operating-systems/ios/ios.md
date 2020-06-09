@@ -46,6 +46,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Canvas](https://github.com/soffes/Canvas) - Markdown editor.
 - [Simplenote](https://github.com/Automattic/simplenote-ios)
 - [Kotoba](https://github.com/willhains/Kotoba) - Quickly search the built-in iOS dictionary to see definitions of words. Collect words you want to remember.
+- [Upcoming TV](https://github.com/dkhamsing/upcomingtv) - Swift iOS app to track when your favorite tv show airs next.
 
 ## Notes
 

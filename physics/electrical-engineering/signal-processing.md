@@ -9,3 +9,4 @@
 - [Seeing circles, sines and signals](https://jackschaedler.github.io/circles-sines-signals/) - Compact primer on digital signal processing. ([Code](https://github.com/jackschaedler/circles-sines-signals))
 - [Surfboard](https://github.com/novoic/surfboard) - Audio Feature Extraction for Modern Machine Learning. ([HN](https://news.ycombinator.com/item?id=23314993))
 - [GO-DSP](https://github.com/mjibson/go-dsp) - Digital Signal Processing for Go.
+- [How Google Meet's noise cancellation works (2020)](https://venturebeat.com/2020/06/08/google-meet-noise-cancellation-ai-cloud-denoiser-g-suite/) ([HN](https://news.ycombinator.com/item?id=23468052))

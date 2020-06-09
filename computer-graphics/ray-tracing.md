@@ -30,3 +30,5 @@
 - [Simple Ray Casting with ClojureScript (2020)](https://andreyorst.gitlab.io/posts/2020-06-04-simple-ray-casting-with-clojurescript/)
 - [Ray Tracing in One Weekend in TypeScript](https://github.com/ahuth/raytrace2)
 - [Embree](https://github.com/embree/embree) - Collection of high-performance ray tracing kernels, developed at Intel.
+- [C-Ray](https://github.com/VKoskiv/c-ray) - Small, simple path tracer written in C.
+- [Tungsten Renderer](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11.

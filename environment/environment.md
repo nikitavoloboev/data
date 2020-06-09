@@ -22,3 +22,5 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Climate.Careers](https://climate.careers/) - Work on solving climate change. Find a job in climate.  Be a part of the solution.
 - [Stripe’s first negative emissions purchases (2020)](https://stripe.com/blog/first-negative-emissions-purchases)
 - [Source materials supporting Stripe's 2020 negative emissions purchases](https://github.com/stripe/negative-emissions-source-materials)
+- [electricityMap](https://www.electricitymap.org/map) - Real-time visualisation of the CO2 emissions of electricity consumption.
+- [Tomorrow](https://www.tmrow.com/) - Data Driven Climate Action.
