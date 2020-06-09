@@ -132,6 +132,7 @@ Here are few more things I liked, design wise.
 - [Victor Zhou](https://victorzhou.com/) ([Code](https://github.com/vzhou842/victorzhou.com))
 - [Jonnie Hallman](https://destroytoday.com/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)
+- [Matías Martínez](https://matias.ma/)
 - [Monica Lent](https://monicalent.com/)
 - [Michaël Villar](http://www.michaelvillar.com/)
 - [Sarah Lim](https://slim.computer/)

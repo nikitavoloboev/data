@@ -27,3 +27,4 @@ Use the app to quickly prototype & collaborate on designs.
 - [Inside Figma: the product design team’s process (2020)](https://www.figma.com/blog/inside-figma-the-product-design-teams-process/)
 - [Bravo Studio](https://www.bravostudio.app/) - Turn Figma prototypes into native iOS & Android apps instantly. No code.
 - [Figma Events](https://www.figma.com/events/)
+- [Figurative](https://figurative.design/) - Figma app for iPadOS.

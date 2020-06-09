@@ -29,3 +29,4 @@
 - [What the hell is a Deno? (2020)](https://breadth.substack.com/p/what-the-hell-is-a-deno) ([HN](https://news.ycombinator.com/item?id=23411449))
 - [Velociraptor](https://github.com/umbopepato/velociraptor) - Script runner for Deno, inspired by npm's package.json scripts.
 - [Nessie](https://github.com/halvardssm/deno-nessie) - Deno library for PostgreSQL, MySQL, MariaDB and SQLite migrations.
+- [Deno Beginner](https://denobeginner.com/) - Deno Crash Course.

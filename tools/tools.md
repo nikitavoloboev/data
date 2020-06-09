@@ -119,6 +119,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images.
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [HCL](https://github.com/hashicorp/hcl) - HashiCorp configuration language.
+- [Viable Fit](https://www.viable.fit/) - Measure and improve your product market fit.
 - [Buttondown](https://buttondown.email/) - Easiest way to run your newsletter in markdown.
 - [How many people are around](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
