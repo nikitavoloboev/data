@@ -98,6 +98,7 @@
 - [TypeScript Playground Collaborate](https://github.com/orta/playground-collaborate)
 - [Centralized Recommendations for TSConfig bases](https://github.com/tsconfig/bases)
 - [Typescript Data Structures and Algorithms](https://github.com/jeffzh4ng/dsa-ts) - Collection of classic data structures and algorithms implemented in Typescript with video lectures.
+- [TypeDoc](https://github.com/TypeStrong/typedoc) - Documentation generator for TypeScript projects. ([Web](https://typedoc.org/))
 
 ## Images
 

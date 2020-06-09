@@ -52,3 +52,4 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [ICFP 2020 papers](https://github.com/llelf/icfp2020-papers#readme)
 - [Connected Papers](https://www.connectedpapers.com/) - Explore connected papers in a visual graph.
 - [Sci-Hub](https://sci-hub.tw/) - Removing barriers in the way of science.
+- [Academia.edu](https://www.academia.edu/) - Platform for academics to share research papers.

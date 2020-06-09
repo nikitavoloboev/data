@@ -18,3 +18,5 @@ I use [many plugins](sublime-text-plugins.md) together with [Ayu theme](https://
 ## Links
 
 - [OdatNurd - Sublime Text Tutorials](https://www.youtube.com/user/nurdz/playlists)
+- [Sublime Text Community Documentation](https://docs.sublimetext.io/guide/) ([Code](https://github.com/sublimetext-io/docs.sublimetext.io))
+- [PackageDev](https://github.com/SublimeText/PackageDev) - Provides syntax highlighting and other helpful utility for Sublime Text resource files.

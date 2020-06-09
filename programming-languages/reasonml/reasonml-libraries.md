@@ -19,6 +19,7 @@
 - [styled-ppx](https://github.com/davesnx/styled-ppx) - CSS-in-Reason and OCaml.
 - [reason-recoil](https://github.com/bloodyowl/reason-recoil) - Zero-cost bindings to Facebook's Recoil library.
 - [re-classnames](https://github.com/MinimaHQ/re-classnames) - Reimplementation of classnames in ReasonML.
+- [Fetch](https://github.com/lessp/fetch) - Fetch libraries and interface for ReasonML/OCaml.
 
 ## Links
 

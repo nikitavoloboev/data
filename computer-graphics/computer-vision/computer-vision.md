@@ -72,3 +72,4 @@
 - [Neural Pose Transfer by Spatially Adaptive Instance Normalization (2020)](https://github.com/jiashunwang/Neural-Pose-Transfer)
 - [Awesome Neural Rendering](https://github.com/weihaox/awesome-neural-rendering#readme)
 - [Learning To Classify Images Without Labels](https://github.com/wvangansbeke/Unsupervised-Classification)
+- [Deep Leakage From Gradients (2019)](https://github.com/mit-han-lab/dlg)
