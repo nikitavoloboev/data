@@ -101,3 +101,4 @@ I publish most of my work and make it open source for other people to use and re
 - [github-release](https://github.com/github-release/github-release) - Small commandline app written in Go that allows you to easily create and delete releases of your projects on Github.
 - [Site Policy on GitHub](https://help.github.com/en/github/site-policy) ([Code](https://github.com/github/site-policy))
 - [GitHub Settings](https://github.com/probot/settings) - Pull Requests for GitHub repository settings.
+- [GitHub Explore](https://github.com/explore) - Community-curated topic and collection pages on GitHub. ([Code](https://github.com/github/explore))

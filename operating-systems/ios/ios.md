@@ -188,3 +188,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS App Reverse Engineering (2015)](https://github.com/iosre/iOSAppReverseEngineering)
 - [SwiftInfo](https://github.com/rockbruno/SwiftInfo) - Extract and analyze the evolution of an iOS app's code.
 - [Indie Apps Showcases](https://antranapp.github.io/IndieApps/) - / TODO: Platform to showcase your side projects. ([Code](https://github.com/antranapp/IndieApps))
+- [Demo project to build resizing image in Navigation Bar with Large Title](https://github.com/tungfam/ImageInNavigationBarDemo)
