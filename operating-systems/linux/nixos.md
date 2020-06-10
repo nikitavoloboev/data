@@ -66,3 +66,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Is NixOS Reproducible?](https://r13y.com/)
 - [Impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage.
 - [NixOS Weekly Newsletter](https://weekly.nixos.org/) - Stay up to date with events, learning resources, and recent developments in NixOS community. ([Code](https://github.com/NixOS/nixos-weekly))
+- [Nix Community Infrastructure](https://github.com/nix-community/infra)

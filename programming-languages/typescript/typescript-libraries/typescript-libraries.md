@@ -46,6 +46,7 @@
 - [Zapatos](https://github.com/jawj/zapatos) - Zero-Abstraction Postgres for TypeScript.
 - [tagged-ts](https://github.com/joshburgess/tagged-ts) - Tagged unions code generation library for discriminating tastes.
 - [Monads](https://github.com/hqoss/monads) - Type safe Option, Result, and Either types; inspired by Rust.
+- [typecheck.macro](https://github.com/vedantroy/typecheck.macro) - Easy (and fast) typescript validation library/macro. Automatically generation validation functions for Typescript types.
 
 ## Links
 

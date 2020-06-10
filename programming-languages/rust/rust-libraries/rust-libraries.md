@@ -408,6 +408,8 @@
 - [rusturn](https://github.com/sile/rusturn) - Rust Implementation of TURN server and client.
 - [safer_ffi](https://github.com/getditto/safer_ffi) - Write safer FFI code in Rust without polluting it with unsafe code.
 - [positioned-io](https://github.com/vasi/positioned-io) - Read and write from offsets in Rust.
+- [jlrs](https://github.com/Taaitaaiger/jlrs) - Julia bindings for Rust.
+- [json_typegen](https://github.com/evestera/json_typegen) - Rust types from JSON samples.
 
 ## Cargo Plugins
 
