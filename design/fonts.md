@@ -99,3 +99,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [font-kit](https://github.com/servo/font-kit) - Cross-platform font loading library written in Rust.
 - [Helvetica](https://www.hustwit.com/helvetica) - Documentary on typography, graphic design and global visual culture. ([HN](https://news.ycombinator.com/item?id=23445245))
 - [Local Font Access Explained](https://github.com/WICG/local-font-access) - Web API for enumerating fonts on the local system.
+- [HarfBuzz](https://github.com/harfbuzz/harfbuzz) - Text shaping library.
+- [rustybuzz](https://github.com/RazrFalcon/rustybuzz) - Incremental harfbuzz port to Rust.
