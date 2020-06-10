@@ -92,3 +92,4 @@
 - [Modern C++ Template](https://github.com/filipdutescu/modern-cpp-template) - Quick C++ template for modern CMake projects, aimed to be an easy to use starting point.
 - [Learning to Code in C++ with Haiku OS](https://www.haiku-os.org/development/)
 - [C++ considered Harmful (and why E is better) (2008)](http://cshandley.co.uk/CppConsideredHarmful.html)
+- [Clang-Tidy](https://clang.llvm.org/extra/clang-tidy/) - Clang-based C++ “linter” tool.
