@@ -114,3 +114,4 @@
 - [Getting started with Swift on AWS Lambda (2020)](https://fabianfett.de/getting-started-with-swift-aws-lambda-runtime)
 - [AppleProgramming YouTube channel](https://www.youtube.com/AppleProgramming) ([Cocoa tutorials code](https://github.com/lucasderraugh/AppleProg-Cocoa-Tutorials)) ([Apple Debugging tutorials](https://github.com/lucasderraugh/AppleProg-Debugging-Tutorials))
 - [carton](https://github.com/swiftwasm/carton) - Watcher, bundler, and test runner for your SwiftWasm apps.
+- [Calling Super at Runtime in Swift (2020)](https://steipete.wtf/posts/calling-super-at-runtime/)

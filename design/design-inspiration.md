@@ -132,6 +132,7 @@ Here are few more things I liked, design wise.
 - [Sarah Park](https://sei0.github.io/) ([Code](https://github.com/sei0/sei0.github.io))
 - [Victor Zhou](https://victorzhou.com/) ([Code](https://github.com/vzhou842/victorzhou.com))
 - [Jonnie Hallman](https://destroytoday.com/)
+- [Peter Steinberger](https://steipete.wtf/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)
 - [Matías Martínez](https://matias.ma/)
 - [Monica Lent](https://monicalent.com/)
