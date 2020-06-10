@@ -52,7 +52,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Introduction to Operating Systems](http://pages.cs.wisc.edu/~bart/537/lecturenotes/titlepage.html)
 - [OS: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [mirageOS](https://mirage.io/) - A programming framework for building type-safe, modular systems.
-- [OS Dev](https://wiki.osdev.org/Main_Page)
+- [OS Dev](https://wiki.osdev.org/Main_Page) ([Tutorials](https://wiki.osdev.org/Tutorials))
 - [Raspberry Pi OS](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi.
 - [Create OS from scratch](https://github.com/cfenollosa/os-tutorial#readme)
 - [How to Make a Computer Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) ([Code](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System))
@@ -60,7 +60,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Jehanne](https://github.com/JehanneOS/jehanne) - Simple operating system.
 - [Unik](https://github.com/solo-io/unik) - Unikernel & MicroVM Compilation and Deployment Platform.
 - [SPDK](https://spdk.io/) - Storage Performance Development Kit Provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.
-- [Writing an OS in Rust (2018)](https://os.phil-opp.com/) ([Code](https://github.com/phil-opp/blog_os))
+- [Writing an OS in Rust](https://os.phil-opp.com/) ([Code](https://github.com/phil-opp/blog_os))
 - [intermezzOS kernel](https://github.com/intermezzOS/kernel) - Hobby operating system, in Rust.
 - [The intermezzOS book](http://intermezzos.github.io/book/) ([Code](https://github.com/intermezzOS/book))
 - [Write your own Operating System (2017)](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M)
@@ -107,3 +107,5 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Genode Operating System Framework Foundations](https://genode.org/documentation/genode-foundations-20-05.pdf)
 - [The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language (2019)](https://pdos.csail.mit.edu/papers/biscuit:thesis.pdf)
 - [Sol — a sunny little virtual machine (2012)](https://rsms.me/sol-a-sunny-little-virtual-machine) ([HN](https://news.ycombinator.com/item?id=23437511))
+- [OS Development Tutorials](http://www.osdever.net/tutorials/)
+- [Modern Operating Systems 3rd edition book](http://stst.elia.pub.ro/news/SO/Modern%20Operating%20System%20-%20Tanenbaum.pdf) - 4th edition available too.
