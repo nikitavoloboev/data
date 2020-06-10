@@ -2,6 +2,10 @@
 
 Before selling things I owned, I look at prices of same or similar items on the marketplace and price my item accordingly.
 
+## Nice pricing pages
+
+- [Monica](https://www.monicahq.com/pricing)
+
 ## Links
 
 - [How to approach pricing and packaging a new SaaS app, by example](https://stripe.com/atlas/guides/saas-pricing) ([HN comments](https://news.ycombinator.com/item?id=16476454))
