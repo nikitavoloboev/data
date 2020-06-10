@@ -28,3 +28,4 @@
 - [svelte-grid](https://github.com/vaheqelyan/svelte-grid) - Responsive, draggable and resizable grid layout, for Svelte.
 - [MDsveX](https://github.com/pngwn/MDsveX) - Markdown preprocessor for Svelte.
 - [Routify](https://github.com/sveltech/routify) - Automated Svelte routes.
+- [Svelte Language Tools](https://github.com/sveltejs/language-tools) - Contains a library implementing the Language Server Protocol (LSP).

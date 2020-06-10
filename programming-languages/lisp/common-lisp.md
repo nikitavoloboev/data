@@ -17,3 +17,4 @@
 - [Complete Idiot’s Guide to Common Lisp Packages (2003)](http://www.flownet.com/ron/packages.pdf)
 - [Learn Common Lisp in one month intervals](https://github.com/TomLisankie/Learning-Lisp)
 - [Parenscript](https://common-lisp.net/project/parenscript/) - Translator from an extended subset of Common Lisp to JavaScript.
+- [Slime](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs.
