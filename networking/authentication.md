@@ -44,3 +44,4 @@
 - [HN: Pioneers of web cryptography on the future of authentication (2020)](https://news.ycombinator.com/item?id=23454954)
 - [openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust.
 - [OAuth2 Rust](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed Rust OAuth2 client library.
+- [JavaScript Authentication & Authorization Book/Course](https://gist.github.com/taniarascia/a2d35af43ce133de20ac0a8c72558fea)

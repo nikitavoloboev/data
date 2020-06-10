@@ -54,3 +54,4 @@
 - [Joker](https://github.com/candid82/joker) - Small Clojure interpreter and linter written in Go.
 - [4Clojure](http://www.4clojure.com/) - Resource to help fledgling clojurians learn the language through interactive problems. ([Code](https://github.com/4clojure/4clojure))
 - [History of Clojure – Rich Hickey](https://clojure.org/about/history) ([HN](https://news.ycombinator.com/item?id=23418699))
+- [Better Clojure formatting (2018)](https://tonsky.me/blog/clojurefmt/)

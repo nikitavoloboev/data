@@ -30,3 +30,4 @@
 - [Routify](https://github.com/sveltech/routify) - Automated Svelte routes.
 - [Svelte Language Tools](https://github.com/sveltejs/language-tools) - Contains a library implementing the Language Server Protocol (LSP).
 - [Svelte Society Day 2020: Rich Harris: Frequently Asked Questions](https://www.youtube.com/watch?v=luM5uobewhA)
+- [Trying out Svelte: Building My First App (2020)](https://www.youtube.com/watch?v=kVBStFS9hcg)

@@ -36,3 +36,4 @@
 - [tinysearch](https://github.com/mre/tinysearch) - Tiny, full-text search engine for static websites built with Rust and WASM. ([Article](https://endler.dev/2019/tinysearch/)) ([HN](https://news.ycombinator.com/item?id=23473303))
 - [Elasticlunr.js](http://elasticlunr.com/) - Lightweight full-text search engine in JavaScript for browser search and offline search. ([Code](https://github.com/weixsong/elasticlunr.js))
 - [Zola](https://www.getzola.org/documentation/content/search/) - Can build a search index from the sections and pages content to be used by a JavaScript library such as elasticlunr.
+- [Creating a full-text search engine in Apache Pinot (2020)](https://medium.com/apache-pinot-developer-blog/text-analytics-on-apache-pinot-cbf5c45d282c) ([HN](https://news.ycombinator.com/item?id=23480941))
