@@ -16,3 +16,4 @@
 - [Faster integer compression in Go with SIMD using StreamVByte codec](https://github.com/rleiwang/svb)
 - [fast_rsync](https://github.com/dropbox/fast_rsync) - Optimized implementation of librsync in pure Rust.
 - [SDefl](https://github.com/vurtun/sdefl) - Small bare bone lossless compression library in ANSI C (ISO C90) that implements the Deflate (RFC 1951) compressed data format specification standard.
+- [Pixz](https://github.com/vasi/pixz) - Parallel, indexed xz compressor.
