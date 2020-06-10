@@ -44,3 +44,4 @@
 - [a16z invested bio companies](https://twitter.com/vijaypande/status/1265727854836211713)
 - [MultiQC](https://multiqc.info/) - Searches a given directory for analysis logs and compiles a HTML report. ([Code](https://github.com/ewels/MultiQC))
 - [Diyhplus Wiki](https://diyhpl.us/wiki/) - Wiki for open source hardware, do-it-yourself biohacking and practical transhumanism. ([Code](https://github.com/kanzure/diyhpluswiki))
+- [Tellurium](https://github.com/sys-bio/tellurium) - Python environment for reproducible dynamical modeling of biological networks. ([Web](http://tellurium.analogmachine.org/))

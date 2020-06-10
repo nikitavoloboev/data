@@ -8,6 +8,7 @@
 - [Mu](https://github.com/higherkindness/mu-haskell) - Purely functional framework for building micro services.
 - [Hydra](https://github.com/graninas/Hydra) - Full-fledged framework for building web services, multithreaded and concurrent applications with SQL and KV DB support.
 - [Obelisk](https://github.com/obsidiansystems/obelisk) - Provides an easy way to develop and deploy your Reflex project for web and mobile. ([Web](https://haskell.zettel.page/2012403.html))
+- [type-of-html](https://github.com/knupfer/type-of-html) - High performance type safe html generation.
 
 ## DB
 

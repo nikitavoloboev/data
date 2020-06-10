@@ -43,3 +43,4 @@
 - [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow#readme) - TensorFlow tutorials and best practices.
 - [TensorFlow.js](https://github.com/tensorflow/tfjs) - WebGL accelerated JavaScript library for training and deploying ML models. ([Web](https://www.tensorflow.org/js/)) ([HN](https://news.ycombinator.com/item?id=23453308))
 - [TensorFlow benchmarks](https://github.com/tensorflow/benchmarks) - Contains various TensorFlow benchmarks.
+- [Deep Learning Tutorials with Tensorflow](https://github.com/xiaohu2015/DeepLearning_tutorials)
