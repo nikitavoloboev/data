@@ -41,6 +41,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Mezzano](https://github.com/froggey/Mezzano) - Operating system written in Common Lisp.
 - [Collapse OS](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology. ([HN](https://news.ycombinator.com/item?id=21182628))
 - [LegoOS](https://github.com/WukLab/LegoOS) - Disseminated, Distributed OS for Hardware Resource Disaggregation.
+- [CuBitOS](https://github.com/docandrew/CuBit) - General-purpose, formally-verified, 64-bit operating system in SPARK/Ada for x86-64.
 
 ## Notes
 

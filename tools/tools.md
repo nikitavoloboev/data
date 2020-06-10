@@ -125,6 +125,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
 - [Athens](https://github.com/athensresearch/athens) - Open-Source Roam.
 - [JournalBook](https://github.com/trys/JournalBook) - Private, offline-first personal journal.
+- [Pastel](https://usepastel.com/copy-changes) - Fastest way to suggest copy changes on any website.
 - [AfterClass](https://afterclass.co/) - New kind of document for futuristic teams.
 - [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
 - [Snap.as](https://snap.as/) - Permanent home for your photos.
