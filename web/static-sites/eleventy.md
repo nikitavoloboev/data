@@ -6,3 +6,4 @@
 - [Let’s Learn Eleventy! (with Zach Leatherman) (2020)](https://www.youtube.com/watch?v=j8mJrhhdHWc)
 - [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) - Starter repository showing how to build a blog with the Eleventy static site generator.
 - [Beginner's Guide to Eleventy](https://tatianamac.com/posts/beginner-eleventy-tutorial-parti/)
+- [Learn Eleventy From Scratch (2020)](https://piccalil.li/course/learn-eleventy-from-scratch/) ([Twitter](https://twitter.com/piccalilli_/status/1249677873448923139))
