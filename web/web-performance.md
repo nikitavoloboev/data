@@ -78,3 +78,4 @@
 - [Why NetNewsWire Is Fast (2020)](https://inessential.com/2020/05/18/why_netnewswire_is_fast) ([HN](https://news.ycombinator.com/item?id=23286362))
 - [The Website Obesity Crisis (2015)](https://idlewords.com/talks/website_obesity.htm)
 - [5 Common Mistakes Teams Make When Tracking Performance (2020)](https://calibreapp.com/blog/common-mistakes-in-tracking-speed)
+- [Modern Script Loading (2019)](https://jasonformat.com/modern-script-loading/)
