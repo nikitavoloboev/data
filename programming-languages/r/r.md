@@ -18,3 +18,4 @@
 - [MOSAIC R package](https://github.com/ProjectMOSAIC/mosaic) - Designed to facilitate the use of R in statistics and calculus.
 - [A roadmap for getting started with R (2020)](https://oscarbaruffa.com/a-roadmap-for-getting-started-with-r/)
 - [hugodown](https://github.com/r-lib/hugodown) - Make websites with hugo and RMarkdown.
+- [Palmer Archipelago (Antarctica) Penguins data package](https://github.com/allisonhorst/penguins)
