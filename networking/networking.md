@@ -113,3 +113,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Erbium](https://github.com/isomer/erbium) - Networking services for small/home networks.
 - [History of the Finger Protocol (2020)](http://www.rajivshah.com/Case_Studies/Finger/Finger.htm) ([Lobsters](https://lobste.rs/s/nxsqzi/history_finger_protocol))
 - [Old box, dumb code, few thousand connections, no big deal (2020)](https://rachelbythebay.com/w/2020/05/07/serv/) ([Lobsters](https://lobste.rs/s/mk1jso/old_box_dumb_code_few_thousand)) ([HN](https://news.ycombinator.com/item?id=23107945))
+- [Fast Subnet Matching (2020)](https://siliconsprawl.com/2020/06/07/fast-subnet-matching.html)

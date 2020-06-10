@@ -8,3 +8,4 @@
 - [Pony: How I learned to stop worrying and embrace an unproven technology (2018)](https://www.youtube.com/watch?v=GigBhej1gfI)
 - [Deny Capabilities for Safe, Fast Actors](https://www.ponylang.io/media/papers/fast-cheap-with-proof.pdf)
 - [Sylvan Clebsch - Pony: 714 Days Later (2017)](https://www.youtube.com/watch?v=HGDSnOZaU7Y)
+- [Slides for Pony lectures](https://github.com/sylvanc/pony-lecture)

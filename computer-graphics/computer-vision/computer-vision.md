@@ -77,3 +77,4 @@
 - [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python.
 - [imgviz](https://github.com/wkentaro/imgviz) - Image Visualization Tools.
 - [Attention-Guided Hierarchical Structure Aggregation for Image Matting](https://github.com/wukaoliu/CVPR2020-HAttMatting)
+- [YOLOv5 Is Here: State-of-the-Art Object Detection at 140 FPS (2020)](https://blog.roboflow.ai/yolov5-is-here/) ([HN](https://news.ycombinator.com/item?id=23478151))

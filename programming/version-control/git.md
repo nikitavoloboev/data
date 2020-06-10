@@ -132,3 +132,4 @@ I love Git and version control. And I use version control over any project I do.
 - [gitea-release Tool Announcement (2020)](https://christine.website/blog/gitea-release-tool-2020-05-31)
 - [git-fuzzy](https://github.com/bigH/git-fuzzy) - CLI interface to git that relies heavily on fzf. ([HN](https://news.ycombinator.com/item?id=23363767))
 - [DeGit](https://github.com/yegor256/degit) - Decentralized Git projects hosting platform.
+- [How to write good Git commit messages (2020)](https://altcampus.io/blog/how-to-write-good-git-commit-message) ([HN](https://news.ycombinator.com/item?id=23479465))
