@@ -47,6 +47,7 @@
 - [Vercel Action](https://github.com/amondnet/vercel-action) - Make a deployment with github actions instead of Vercel builder.
 - [Create an Issue](https://github.com/JasonEtco/create-an-issue) - GitHub Action that creates a new issue using a template file.
 - [Lock Threads](https://github.com/dessant/lock-threads) - GitHub Action that locks closed issues and pull requests after a period of inactivity.
+- [action-cli](https://github.com/numtide/action-cli) - GitHub actions without JavaScript.
 
 ## Go
 

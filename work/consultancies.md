@@ -54,6 +54,10 @@
 
 - [Dasshbit](https://dashbit.co/) - Help startups and enterprises adopt and run Elixir in production.
 
+## NixOS
+
+- [NumTide](https://numtide.com/) - Bringing the power of Nix to companies since 2016.
+
 ## Other
 
 - [Monadfix](https://monadfix.com/) - Work with Haskell, PureScript, and Agda.
@@ -78,3 +82,4 @@
 - [Lessons from Six Years as a Solo Consultant (2019)](https://www.embeddeduse.com/2019/06/26/lessons-from-six-years-as-a-solo-consultant/) ([HN](https://news.ycombinator.com/item?id=21954581))
 - [Client](https://www.toclient.com/) - Simplified requirement collection for freelancers and agencies. Say goodbye to boring contact forms, emails and unproductive first calls.
 - [Clutch](https://clutch.co/) - B2B Ratings & Reviews.
+- [Software Consulting Legal Documents](https://numtide.github.io/software-consulting-documents/) ([Code](https://github.com/numtide/software-consulting-documents))
