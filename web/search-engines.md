@@ -32,5 +32,7 @@
 - [Tantivy](https://github.com/tantivy-search/tantivy) - Full text search engine library written in Rust.
 - [sonar](https://github.com/arso-project/sonar-tantivy) - Search engine based on tantivy with a Node.js frontend.
 - [How to make PageRank faster (with lots of math and a hint of Python) (2020)](https://dev.to/karjudev/how-to-make-pagerank-faster-with-lots-of-math-and-a-hint-of-python-2e92)
-- [Writing a full-text search engine using Bloom filters (2013)](https://www.stavros.io/posts/bloom-filter-search-engine/)
+- [Writing a full-text search engine using Bloom filters (2013)](https://www.stavros.io/posts/bloom-filter-search-engine/) ([HN](https://news.ycombinator.com/item?id=23473365))
 - [tinysearch](https://github.com/mre/tinysearch) - Tiny, full-text search engine for static websites built with Rust and WASM. ([Article](https://endler.dev/2019/tinysearch/)) ([HN](https://news.ycombinator.com/item?id=23473303))
+- [Elasticlunr.js](http://elasticlunr.com/) - Lightweight full-text search engine in JavaScript for browser search and offline search. ([Code](https://github.com/weixsong/elasticlunr.js))
+- [Zola](https://www.getzola.org/documentation/content/search/) - Can build a search index from the sections and pages content to be used by a JavaScript library such as elasticlunr.
