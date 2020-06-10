@@ -18,3 +18,4 @@
 - [Just in time compilation technique for server-side rendering](https://github.com/SmallComfort/vue-ssr-jit)
 - [Starter for Vite + VueUse + TypeScript](https://github.com/antfu/vite-vueuse-starter)
 - [The process: Making Vue 3 (2020)](https://increment.com/frontend/making-vue-3/)
+- [30 Days of Vue](https://github.com/fullstackio/30-days-of-vue)

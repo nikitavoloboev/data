@@ -24,3 +24,4 @@
 - [Website Sitemap Parser](https://github.com/berkmancenter/mediacloud-ultimate-sitemap-parser)
 - [rget](https://github.com/merklecounty/rget) - Download URLs and verify the contents against a publicly recorded cryptographic log.
 - [yarl](https://github.com/aio-libs/yarl) - Yet another URL library.
+- [Apify](https://apify.com/) - Web Scraping, Data Extraction and Automation.
