@@ -406,6 +406,7 @@
 - [hdf5](https://github.com/aldanor/hdf5-rust) - HDF5 for Rust.
 - [Schemars](https://github.com/GREsau/schemars) - Generate JSON Schema documents from Rust code.
 - [rusturn](https://github.com/sile/rusturn) - Rust Implementation of TURN server and client.
+- [safer_ffi](https://github.com/getditto/safer_ffi) - Write safer FFI code in Rust without polluting it with unsafe code.
 
 ## Cargo Plugins
 

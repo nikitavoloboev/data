@@ -133,6 +133,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [fastmod](https://github.com/facebookincubator/fastmod) - Fast partial replacement for the codemod tool.
 - [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.
 - [hack.chat](https://hack.chat/) - Minimal, distraction-free chat application.
+- [Ditto](http://www.ditto.live/) - Sync Without Internet.
 - [Seafile](https://www.seafile.com/en/home/) - Enterprise file hosting platform with high reliability and performance.
 - [NoCo](https://noco.io/) - Low-code platform for engineering teams.
 - [HelloSign](https://www.hellosign.com/) - Most Powerful Platform for Business Agreements.
