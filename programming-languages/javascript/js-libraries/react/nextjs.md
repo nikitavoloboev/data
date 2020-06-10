@@ -81,3 +81,4 @@
 - [TypeGraphQ, TypeORM & Next.js Boilerplate](https://github.com/tobiaslins/typesafety-from-db-to-frontend)
 - [aws-cognito-next](https://github.com/dferber90/aws-cognito-next) - Authentication helpers to enable usage of AWS Cognito in next.js applications.
 - [Creating a Next.js mono repository project with TypeScript](https://josephluck.co.uk/blog/next-typescript-monorepo/)
+- [NextJS + Preact Demo](https://github.com/developit/nextjs-preact-demo)

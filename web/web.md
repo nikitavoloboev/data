@@ -104,3 +104,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Every bookmark manager ever made (2019)](https://bookmarkos.com/every-bookmark-manager-ever-made/)
 - [Some Bookmarklets, I Use (2020)](https://www.ph-uhl.com/0010-Bookmarklets/) ([HN](https://news.ycombinator.com/item?id=23445382))
 - [From Rust to Svelte, what tech stack will I use (2020)](https://hugodaniel.pt/posts/browser-tech-stack-2020/)
+- [Archive.today](http://archive.vn/) - Time capsule for web pages. ([API](https://github.com/caresx/archivetoday))
