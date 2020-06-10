@@ -19,3 +19,4 @@
 - [Letters of a Radio-Engineer to His Son, by John Mills](https://www.gutenberg.org/files/30688/30688-h/30688-h.htm)
 - [Articles on Electricity](http://amasci.com/ele-edu.html) ([HN](https://news.ycombinator.com/item?id=23442181))
 - [Logic gates simulation using Node EventEmitters](https://github.com/ahuth/emitter-gates)
+- [Logic.ly](https://logic.ly/demo) - Teach logic gates and digital circuits effectively.
