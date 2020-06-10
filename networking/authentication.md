@@ -46,3 +46,4 @@
 - [OAuth2 Rust](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed Rust OAuth2 client library.
 - [JavaScript Authentication & Authorization Book/Course](https://gist.github.com/taniarascia/a2d35af43ce133de20ac0a8c72558fea)
 - [ASGI middleware that authenticates users against GitHub](https://github.com/simonw/asgi-auth-github)
+- [JSON Web Token Docs Introduction](https://jwt.io/introduction/)
