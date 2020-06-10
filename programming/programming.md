@@ -172,3 +172,4 @@
 - [Ask HN: Are my expectations on code quality and professionalism too high? (2020)](https://news.ycombinator.com/item?id=23426574)
 - [Literate](https://github.com/zyedidia/Literate) - Literate programming tool for any language. ([Lobsters](https://lobste.rs/s/xd1flh/literate_literate_programming_tool_for))
 - [Ask HN: What is the ideal developer experience in 2020?](https://news.ycombinator.com/item?id=23455741)
+- [Lobsters: What's the ideal developer experience in 2020?](https://lobste.rs/s/c8o1hu/what_s_ideal_developer_experience_2020)

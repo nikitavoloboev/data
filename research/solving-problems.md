@@ -47,6 +47,10 @@ Sometimes I already know the answer given my past experience without conducting 
 
 In some cases, a problem may be complex enough that it needs time thinking more about it. Researching various possible solutions and things you could use. And playing with possible solutions and ideas in your head until you reach something worthwhile you can spend time implementing. [This talk](https://www.youtube.com/watch?v=f84n5oFoZBc) by Rich Hickey covers this point quite well.
 
+## Notes
+
+- [I learned about the Feynman technique. Just write down how the thing you’re trying to learn works (a bug, a technique, anything) until you hit a wall in your understanding. This makes the boundary of your understanding explicit. Often, it’s surprising how much you actually do understand before hitting the wall, but before you build confidence, there’s a bias to assume the amount you don’t understand is greater than it really is. Make the boundary explicit, and then you have a specific point to push forward from, rather than kind of a cloud of doubt and anxiety. This made it clear that I knew more than I felt I knew, and at the very least helped me hone in on specific questions to ask.](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
+
 ## Links
 
 - [Ask HN: What has made you a better problem solver in software engineering? (2019)](https://news.ycombinator.com/item?id=21659537)
