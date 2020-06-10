@@ -411,6 +411,7 @@
 - [positioned-io](https://github.com/vasi/positioned-io) - Read and write from offsets in Rust.
 - [jlrs](https://github.com/Taaitaaiger/jlrs) - Julia bindings for Rust.
 - [json_typegen](https://github.com/evestera/json_typegen) - Rust types from JSON samples.
+- [pathfinding](https://github.com/samueltardieu/pathfinding) - Implements several pathfinding, flow, and graph algorithms in Rust.
 
 ## Cargo Plugins
 

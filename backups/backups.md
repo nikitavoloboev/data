@@ -18,6 +18,7 @@ I love the fact that I can set up any new mac or phone to use my `exact` and per
 - [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication.
 - [encbup](https://github.com/skorokithakis/encbup) - Companion to bup, the backup program. encbup adds encryption to bup, while still allowing per-file deduplication.
 - [Conserve](https://github.com/sourcefrog/conserve) - Robust portable backup tool in Rust.
+- [tm](https://github.com/erica/tm) - Time Machine recovery utility for the six-or-so people who still use Time Machine for version control.
 
 ## Cloud Storage
 

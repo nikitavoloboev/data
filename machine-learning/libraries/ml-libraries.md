@@ -56,3 +56,4 @@
 - [Ax](https://github.com/facebook/Ax) - Accessible, general-purpose platform for understanding, managing, deploying, and automating adaptive experiments.
 - [Neuropod](https://github.com/uber/neuropod) - Uniform interface to run deep learning models from multiple frameworks.
 - [aerosolve](https://github.com/airbnb/aerosolve) - Machine learning package built for humans in Scala.
+- [Kur](https://github.com/deepgram/kur) - Descriptive Deep Learning.
