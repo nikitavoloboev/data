@@ -55,3 +55,4 @@
 - [Software will eat software in a remote-first world (2020)](https://themargins.substack.com/p/software-will-eat-software-in-a-remote) ([HN](https://news.ycombinator.com/item?id=23297463))
 - [Beyond Remote (2020)](https://vimota.me/writing/beyond-remote) ([HN](https://news.ycombinator.com/item?id=23297888))
 - [Techniques for setting boundaries around your remote job (2019)]https://capnfabs.net/posts/techniques-for-setting-boundaries-around-your-remote-job/)
+- [27 Tips For Running Successful Remote Meetings (2020)](https://blog.sli.do/remote-meetings-tips/)

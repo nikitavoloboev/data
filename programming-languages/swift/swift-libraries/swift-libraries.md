@@ -383,6 +383,7 @@
 - [Macaw](https://github.com/exyte/Macaw) - Powerful and easy-to-use vector graphics Swift library with SVG support. ([Usage Examples](https://github.com/exyte/Macaw-Examples))
 - [ReadabilityKit](https://github.com/exyte/ReadabilityKit) - Preview extractor for news, articles and full-texts in Swift.
 - [VLCKit](https://github.com/videolan/vlckit) - Generic multimedia library for any audio or video playback needs on macOS, iOS and tvOS.
+- [Cleanse](https://github.com/square/Cleanse) - Swift Dependency Injection.
 
 ## Other (not lib)
 

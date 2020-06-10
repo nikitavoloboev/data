@@ -19,3 +19,4 @@
 - [Starter for Vite + VueUse + TypeScript](https://github.com/antfu/vite-vueuse-starter)
 - [The process: Making Vue 3 (2020)](https://increment.com/frontend/making-vue-3/)
 - [30 Days of Vue](https://github.com/fullstackio/30-days-of-vue)
+- [Vue Stripe Checkout](https://github.com/jofftiquez/vue-stripe-checkout)

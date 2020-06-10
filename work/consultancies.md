@@ -67,6 +67,7 @@
 - [RedMadRobot](https://www.redmadrobot.com/) - Full cycle product development.
 - [Parallax](https://parall.ax/) - Digital agency.
 - [Exyte](https://exyte.com/) - Mobile, Blockchain, and AR/VR Development Agency.
+- [The Yak Collective](https://www.yakcollective.org/) - Network of over 300 independent consultants, coaches, and freelancers with varied technical and creative skills.
 
 ## Links
 

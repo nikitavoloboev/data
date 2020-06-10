@@ -71,6 +71,7 @@ Anything that can be represented by the above list can be analyzed as a category
 - [Definition of a monoidal category summarised in string diagrams](https://twitter.com/NathanielVirgo/status/1262019641720832001)
 - [Statebox Category Theory Course](https://training.statebox.org/)
 - [Category Theory -- The math behind hyper-convergence automation (2019)](https://multix.sfo2.cdn.digitaloceanspaces.com/Category%20Theory%20TechBBQ.pdf)
+- [Pittsburgh Functional Programming Book Club featuring Category Theory for Programmers](https://github.com/chiroptical/ctfp-book-club) -
 
 ## Images
 
