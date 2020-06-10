@@ -22,3 +22,5 @@
 - [Chronofold: a data structure for versioned text (2020)](https://arxiv.org/abs/2002.09511v4)
 - [roshi](https://github.com/soundcloud/roshi) - Large-scale CRDT set implementation for timestamped events.
 - [CRDT benchmarks](https://github.com/dmonad/crdt-benchmarks) - Collection of reproducible benchmarks.
+- [pony-crdt](https://github.com/jemc/pony-crdt) - Delta-State Convergent Replicated Data Types (ẟ-CRDTs) for the Pony language.
+- [Jylis](https://github.com/jemc/jylis) - Distributed in-memory database for Conflict-free Replicated Data Types (CRDTs), built for speed, scalability, availability, and ease of use.
