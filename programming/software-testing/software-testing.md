@@ -31,3 +31,4 @@
 - [Unit Testing at REKKI (2020)](https://eng.rekki.com/unit-testing-at-rekki/t.txt)
 - [Ideology (2015)](https://www.destroyallsoftware.com/talks/ideology) ([Lobsters](https://lobste.rs/s/zte1xm/ideology))
 - [Gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation. ([Web](https://gauge.org/))
+- [What are Unit Tests For? (2020)](https://ahuth.github.io/content/articles/what-are-unit-tests-for.html) ([Lobsters](https://lobste.rs/s/eb8xzu/what_are_unit_tests_for))
