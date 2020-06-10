@@ -116,3 +116,4 @@
 - [PyTorch for Numpy Users](https://pytorch-for-numpy-users.wkentaro.com/) ([Code](https://github.com/wkentaro/pytorch-for-numpy-users))
 - [PyTorch implementation of Fully Convolutional Networks](https://github.com/wkentaro/pytorch-fcn)
 - [Lite Transformer with Long-Short Range Attention](https://github.com/mit-han-lab/lite-transformer)
+- [PyTorch implementation of the KWNG estimator](https://github.com/MichaelArbel/KWNG)

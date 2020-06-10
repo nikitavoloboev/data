@@ -107,6 +107,7 @@
 - [react-spring-lightbox](https://github.com/tim-soft/react-spring-lightbox) - Flexible image gallery lightbox with native-feeling touch gestures and buttery smooth animations, built with react-spring.
 - [React-Toastify](https://github.com/fkhadra/react-toastify) - React notification made easy.
 - [React Ranger](https://github.com/tannerlinsley/react-ranger) - Hooks for building range and multi-range sliders in React.
+- [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Create beautiful SVG maps in react with d3-geo and topojson using a declarative api.
 
 ## Links
 

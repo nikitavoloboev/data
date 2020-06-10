@@ -28,6 +28,7 @@
 - [next-connect](https://github.com/hoangvvo/next-connect) - Router and middleware layer for Next.js, Micro, or Node.js HTTP Server.
 - [next-iron-session](https://github.com/vvo/next-iron-session) - Next.js stateless session utility using signed and encrypted cookies to store data.
 - [next-unused](https://github.com/pacocoursey/next-unused) - Find unused files in your Next.js projects.
+- [next-img](https://github.com/humaans/next-img) - Next.js plugin for embedding optimized images.
 
 ## Links
 
