@@ -91,3 +91,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [You should make a blog!](https://drewdevault.com/make-a-blog)
 - [Building an easy on the eyes IKEA style blog, in no time, for free, again (2020)](https://sgolem.com/building-an-easy-on-the-eyes-ikea-style-blog-in-no-time-for-free-again/) ([Lobsters](https://lobste.rs/s/ipe4ii/building_easy_on_eyes_ikea_style_blog_no))
 - [List of minimal writing platforms (2020)](https://news.ycombinator.com/item?id=23313196)
+- [Building my blog (2020)](https://just-be.dev/building-my-blog)

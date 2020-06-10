@@ -28,6 +28,7 @@
 - [Senior skills: Understanding requirements and knowing when to clarify. Building what's actually needed. Working with others including leadership. Working with customers when needed. Attention to detail. Knowing when to challenge others. Ownership. Innovation. Adaptability to change.](https://www.reddit.com/r/cscareerquestionsEU/comments/eu4pqz/worried_about_industry_trend_of_changing_jobs/ffl99hd)
 - [Write the comments first, then fill in the code.](https://www.reddit.com/r/AskComputerScience/comments/gx7b8r/what_one_tip_changed_your_coding_skills_forever/)
 - [If your variable names are good enough you need way fewer comments](https://www.reddit.com/r/AskComputerScience/comments/gx7b8r/what_one_tip_changed_your_coding_skills_forever/)
+- [The mindset that has helped me to improve my skills is that you should always just roll up your sleeves and look at the running process and its code rather than wasting more than 5 minutes searching for help or pouring over documentation that’s out of date and never correct. Put a short time cap on the time you spend doing that, and then just put on your explorer hat and pull out your scary toolkit to hunt that thing down.](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
 
 ## Links
 

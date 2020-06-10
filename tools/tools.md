@@ -296,3 +296,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [100 Rabbits Tools Ecosystem](https://100r.co/site/tools_ecosystem.html)
 - [Making Your Own Tools: Devine Lu Linvega (2020)](https://overcast.fm/+JrqbSaAHw)
 - [Ask HN: Which tools have made you a much better programmer? (2020)](https://news.ycombinator.com/item?id=23468193)
+- [Lobsters: What tools made you better programmer (2020)](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)

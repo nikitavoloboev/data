@@ -42,6 +42,10 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Collapse OS](https://github.com/hsoft/collapseos) - Bootstrap post-collapse technology. ([HN](https://news.ycombinator.com/item?id=21182628))
 - [LegoOS](https://github.com/WukLab/LegoOS) - Disseminated, Distributed OS for Hardware Resource Disaggregation.
 
+## Notes
+
+- [kernels are virtual machines and we write far better systems when we’re aware of what the VM underneath our programs is going to do to translate our use of memory, files, sockets and threads into things that happen in hardware](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
+
 ## Links
 
 - [Introduction to Operating Systems](http://pages.cs.wisc.edu/~bart/537/lecturenotes/titlepage.html)
