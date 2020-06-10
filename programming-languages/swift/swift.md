@@ -111,7 +111,7 @@
 - [IndexStoreDB](https://github.com/apple/indexstore-db) - Source code indexing library. It provides a composable and efficient query API for looking up source code symbols, symbol occurrences, and relations.
 - [Avoiding Callback Hell in Swift (2018)](https://swiftrocks.com/avoiding-callback-hell-in-swift)
 - [Mint](https://github.com/yonaskolb/Mint) - Package manager that installs and runs Swift CLI packages.
-- [Getting started with Swift on AWS Lambda (2020)](https://fabianfett.de/getting-started-with-swift-aws-lambda-runtime)
+- [Getting started with Swift on AWS Lambda (2020)](https://fabianfett.de/getting-started-with-swift-aws-lambda-runtime) ([Article 2](https://swift.org/blog/aws-lambda-runtime/))
 - [AppleProgramming YouTube channel](https://www.youtube.com/AppleProgramming) ([Cocoa tutorials code](https://github.com/lucasderraugh/AppleProg-Cocoa-Tutorials)) ([Apple Debugging tutorials](https://github.com/lucasderraugh/AppleProg-Debugging-Tutorials))
 - [carton](https://github.com/swiftwasm/carton) - Watcher, bundler, and test runner for your SwiftWasm apps.
 - [Calling Super at Runtime in Swift (2020)](https://steipete.wtf/posts/calling-super-at-runtime/)
