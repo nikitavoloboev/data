@@ -101,3 +101,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Local Font Access Explained](https://github.com/WICG/local-font-access) - Web API for enumerating fonts on the local system.
 - [HarfBuzz](https://github.com/harfbuzz/harfbuzz) - Text shaping library.
 - [rustybuzz](https://github.com/RazrFalcon/rustybuzz) - Incremental harfbuzz port to Rust.
+- [Font Stash](https://github.com/memononen/fontstash) - Light-weight online font texture atlas builder.

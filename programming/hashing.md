@@ -17,3 +17,4 @@
 - [wyhash](https://github.com/wangyi-fudan/wyhash) - Dream fast hash function and random number generators that passed SMHasher, BigCrush and practrand. ([HN](https://news.ycombinator.com/item?id=23282754))
 - [FunctionSimSearch](https://github.com/googleprojectzero/functionsimsearch) - Example C++ code to demonstrate how to do SimHash-based similarity search over CFGs extracted from disassemblies.
 - [HighwayHash](https://github.com/minio/highwayhash) - Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM.
+- [hashring](https://github.com/serialx/hashring) - Implements consistent hashing that can be used when the number of server nodes can increase or decrease (like in memcached).

@@ -15,3 +15,4 @@
 - [Type Safety with JSON Subschema (2019)](https://arxiv.org/pdf/1911.12651.pdf)
 - [flatted](https://github.com/WebReflection/flatted) - Fast and minimal circular JSON parser.
 - [jqview](https://github.com/fiatjaf/jqview) - Simple native GUI for inspecting JSON with jq. ([HN](https://news.ycombinator.com/item?id=23433290))
+- [ImportJSON](https://github.com/bradjasper/ImportJSON) - Import JSON into Google Sheets, this library adds various ImportJSON functions to your spreadsheet.
