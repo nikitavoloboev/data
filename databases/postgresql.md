@@ -94,3 +94,4 @@
 - [PostgreSQL BRIN Indexes: Big Data Performance With Minimal Storage (2019)](https://info.crunchydata.com/blog/postgresql-brin-indexes-big-data-performance-with-minimal-storage)
 - [PostgreSQL query parallelism can be like a box of chocolates (2020)](https://swarm64.com/post/increase-postgresql-parallelism/)
 - [Swarm64](https://swarm64.com/) - Faster PostgreSQL performance and easier scaling.
+- [Patroni](https://github.com/zalando/patroni) - Template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes.

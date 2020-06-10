@@ -17,3 +17,4 @@
 - [Creating complex iOS Shortcuts with external APIs and ToolBox Pro (2019)](https://www.youtube.com/watch?v=yS_FRpbaKD8)
 - [Take Control of Shortcuts](https://www.takecontrolbooks.com/shortcuts/)
 - [Shortcuts File Format Reference](https://github.com/sebj/iOS-Shortcuts-Reference#readme)
+- [View Source for Safari on iOS with Shortcuts (2020)](https://paul.kinlan.me/view-source-for-safari-on-ios-with-shortcuts/)
