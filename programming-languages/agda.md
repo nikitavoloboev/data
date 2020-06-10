@@ -31,3 +31,4 @@
 - [Brutal [Meta]Introduction to Dependent Types in Agda (2013)](https://oxij.org/note/BrutalDepTypes/)
 - [System F in Agda, for fun and profit (2019)](http://jmchapman.io/papers/funandprofit.pdf)
 - [Engineering Proof by Reflection in Agda](https://github.com/toothbrush/reflection-proofs)
+- [AgdaBench](https://github.com/UlfNorell/agda-bench) - Benchmarking tool for compile-time performance of Agda programs.

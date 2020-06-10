@@ -10,7 +10,7 @@ Below is a list of extensions I use.
 
 ## Go
 
-- [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language.
+- [Go](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go) - Rich language support for the Go language. ([Code](https://github.com/golang/vscode-go))
 
 ## Git
 
