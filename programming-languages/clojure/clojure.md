@@ -56,3 +56,4 @@
 - [History of Clojure – Rich Hickey](https://clojure.org/about/history) ([HN](https://news.ycombinator.com/item?id=23418699))
 - [Better Clojure formatting (2018)](https://tonsky.me/blog/clojurefmt/)
 - [Clojure outside the JVM (2020)](https://www.reddit.com/r/Clojure/comments/h0elw5/clojure_outside_the_jvm/)
+- [Why I'm Productive in Clojure (2013)](https://yogthos.net/posts/2013-08-18-Why-I-m-Productive-in-Clojure.html)

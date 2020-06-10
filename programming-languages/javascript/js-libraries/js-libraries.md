@@ -263,6 +263,7 @@
 - [p-min-delay](https://github.com/sindresorhus/p-min-delay) - Delay a promise a minimum amount of time.
 - [match-when](https://github.com/FGRibreau/match-when) - Pattern matching for modern JavaScript.
 - [NumJs](https://github.com/nicolaspanel/numjs) - Like NumPy, in JavaScript.
+- [spect](https://github.com/spectjs/spect) - Reactive aspect-oriented web-framework.
 
 ## Links
 
