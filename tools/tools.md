@@ -6,7 +6,7 @@ I love software and non software tools that help me in some way. Most tools I us
 
 - [Screen](https://screen.so/) - Fast screen sharing with multiplayer control, drawing & video. ([HN](https://news.ycombinator.com/item?id=22676040))
 - [Tuple](https://tuple.app/) - Best remote pair programming app on macOS.
-- [Loom](https://www.loom.com/) - Most effective way to get your message across, no matter where you work.
+- [Loom](https://www.loom.com/) - Combines the expressiveness of video with the convenience of messaging.
 - [Lark](https://www.larksuite.com/) - Simplest way to create and collaborate.
 - [Clay](https://clay.run/) - Brings together the best parts of spreadsheets, coding & simple automation.
 - [Graph of Related Subreddits](https://anvaka.github.io/sayit/?query=) ([HN](https://news.ycombinator.com/item?id=22177942))
@@ -111,7 +111,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Coverr](http://www.coverr.co/) - Beautiful, free videos for your homepage.
 - [Mural](https://mural.co/) - Digital workspace for visual collaboration.
 - [Tiny Letter](https://tinyletter.com)
-- [Loom](https://www.useloom.com/) - New kind of work communication tool that helps you get your message across through instantly shareable videos.
+- [Pace](https://pace.dev/) - Minimalist project management tool.
 - [Habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation.
 - [Toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODO's in your codebase.
 - [Speedscope](https://github.com/jlfwong/speedscope) - Fast, interactive web-based viewer for performance profiles.
@@ -297,3 +297,4 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Making Your Own Tools: Devine Lu Linvega (2020)](https://overcast.fm/+JrqbSaAHw)
 - [Ask HN: Which tools have made you a much better programmer? (2020)](https://news.ycombinator.com/item?id=23468193)
 - [Lobsters: What tools made you better programmer (2020)](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
+- [What's the software or tool or language or framework where you've felt the _most_ productive? (2020)](https://twitter.com/andrestaltz/status/1270369535225446400)
