@@ -286,6 +286,7 @@ Here are few more things I liked, design wise.
 - [Tom Bonnike](https://tom-bonnike.com/)
 - [Alexey Sekachov](https://work.asekachov.com/) - Clean.
 - [Aaron Covrett](http://aaroncovrett.com/play/)
+- [Ayaka B. Ito](http://ayakaito.com/)
 - [Rekka Bellum](https://kokorobot.ca/#about)
 - [Juliette Pretot](https://juliette.sh/)
 - [Max Stoiber](https://mxstbr.com/) - [OSS](https://github.com/mxstbr/mxstbr.com)

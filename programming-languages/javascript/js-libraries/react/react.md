@@ -136,3 +136,4 @@
 - [The rise of React (2020)](https://increment.com/frontend/the-rise-of-react/) ([HN](https://news.ycombinator.com/item?id=23366041))
 - [storybook-addon-react-docgen](https://github.com/hipstersmoothie/storybook-addon-react-docgen) - Storybook addon to display react docgen info.
 - [Rendering to iFrames in React (2018)](https://medium.com/@ryanseddon/rendering-to-iframes-in-react-d1cb92274f86)
+- [How to use React Testing Library (2020)](https://www.robinwieruch.de/react-testing-library)

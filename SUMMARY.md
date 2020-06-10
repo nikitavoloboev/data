@@ -608,6 +608,7 @@
   - [Firebase](tools/firebase.md)
   - [Personal setups](tools/personal-setups.md)
   - [Voice assistants](tools/voice-assistants/voice-assistants.md)
+  - [Wordpress](tools/wordpress.md)
 - [Design](design/design.md)
   - [Icons](design/icons.md)
   - [Fonts](design/fonts.md)

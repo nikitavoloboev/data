@@ -35,3 +35,4 @@
 - [Sanzo Wada](https://sanzo-wada.dmbk.io/) - Dictionary of Color Combinations. ([Code](https://github.com/dblodorn/sanzo-wada))
 - [Palettes from A Dictionary of Colour Combinations](https://github.com/mattdesl/dictionary-of-colour-combinations)
 - [Color Copy Paste](https://colorcopypaste.app/) - Copy & paste colour directly from your camera to Figma/Sketch/Chrome. ([Code](https://github.com/sonnylazuardi/color-copy-paste))
+- [Perceptually Smooth Multi-Color Linear Gradients (2020)](https://observablehq.com/@mattdesl/perceptually-smooth-multi-color-linear-gradients)
