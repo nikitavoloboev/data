@@ -33,3 +33,4 @@
 - [GeoCoq](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry in Coq.
 - [Formalizing text editors in Coq (2020)](https://arxiv.org/abs/2006.03525) ([HN](https://news.ycombinator.com/item?id=23454629))
 - [Monadic equational reasoning in Coq](https://github.com/affeldt-aist/monae)
+- [Coq Enhancement Proposals](https://github.com/coq/ceps)

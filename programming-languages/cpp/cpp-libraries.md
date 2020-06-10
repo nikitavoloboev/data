@@ -90,3 +90,4 @@
 - [Kodiak](https://github.com/nasa/Kodiak) - C++ library that implements a generic branch and bound algorithm for rigorous numerical approximations.
 - [cilantro](https://github.com/kzampog/cilantro) - Lean and fast C++ library for working with point cloud data, with emphasis given to the 3D case.
 - [Frozen](https://github.com/serge-sans-paille/frozen) - Header-only library that provides 0 cost initialization for immutable containers and various algorithms.
+- [fast_io](https://github.com/expnkx/fast_io) - C++ general-purpose exception-safe RAII I/O library based on C++ 20 Concepts. It is at least ten times faster than cstdio or iostream.
