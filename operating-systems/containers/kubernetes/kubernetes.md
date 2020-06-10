@@ -199,3 +199,4 @@
 - [stern](https://github.com/wercker/stern) - Multi pod and container log tailing for Kubernetes.
 - [Kubernetes Metrics Server](https://github.com/kubernetes-sigs/metrics-server) - Scalable, efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - [Source controller](https://github.com/fluxcd/source-controller) - Experimental source manager.
+- [Cluster API](https://github.com/kubernetes-sigs/cluster-api) - Kubernetes project to bring declarative, Kubernetes-style APIs to cluster creation, configuration, and management.
