@@ -59,6 +59,7 @@
 - [sqlparser-rs](https://github.com/andygrove/sqlparser-rs) - Extensible SQL Lexer and Parser for Rust.
 - [PickleDB](https://github.com/seladb/pickledb-rs) - Lightweight and simple key-value store written in Rust.
 - [TQL](https://github.com/antoyo/tql) - Compile-time ORM, inspired by Django ORM, written in Rust.
+- [postgrest-rs](https://github.com/supabase/postgrest-rs) - PostgREST client-side library.
 
 ## Graphics
 

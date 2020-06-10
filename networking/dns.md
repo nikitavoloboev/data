@@ -30,3 +30,4 @@
 - [The case of the missing DNS packets: a Google Cloud support story (2020)](https://cloud.google.com/blog/topics/inside-google-cloud/google-cloud-support-engineer-solves-a-tough-dns-case) ([HN](https://news.ycombinator.com/item?id=23235995))
 - [DNS Proxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, and DNSCrypt support.
 - [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide) ([HN](https://news.ycombinator.com/item?id=23442730))
+- [DNS-over-HTTPS](https://github.com/m13253/dns-over-https) - High performance DNS over HTTPS client & server.

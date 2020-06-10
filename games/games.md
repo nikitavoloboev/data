@@ -46,6 +46,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Command and Conquer: Tiberian Dawn & Red Alert](https://github.com/electronicarts/CnC_Remastered_Collection/) - Released Under GPL3. ([HN](https://news.ycombinator.com/item?id=23249964))
 - [LSD](https://github.com/franzenzenhofer/lsd) - Line-square-dot: an addicting game.
 - [Dino Jump](https://github.com/dj/dinojump)
+- [shapez.io](https://github.com/tobspr/shapez.io) - Open source base building game inspired by factorio. ([Web](https://shapez.io/))
 
 ## Recommendations
 

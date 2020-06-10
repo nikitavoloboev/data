@@ -46,6 +46,10 @@
 
 - [Propensive](https://propensive.com/) - European technology company, specializing in supporting the Scala programming community.
 
+## Clojure
+
+- [JUXT](https://juxt.pro/index.html)
+
 ## Elixir
 
 - [Dasshbit](https://dashbit.co/) - Help startups and enterprises adopt and run Elixir in production.

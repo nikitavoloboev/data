@@ -18,6 +18,9 @@
 - [Specter](https://github.com/redplanetlabs/specter) - Elegant API to allow any sort of manipulation imaginable. ([Article](http://nathanmarz.com/blog/clojures-missing-piece.html))
 - [Hashp](https://github.com/weavejester/hashp) - Better prn for debugging Clojure code.
 - [Honey SQL](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL.
+- [Vizns](https://github.com/SevereOverfl0w/vizns) - Visualize the relationships between your namespaces and dependencies.
+- [Clip](https://github.com/juxt/clip) - Light structure and support for dependency injection.
+- [Spyscope](https://github.com/dgrnbrg/spyscope) - Trace-oriented debugging tools for Clojure.
 
 ## Links
 

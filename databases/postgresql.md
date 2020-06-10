@@ -95,3 +95,5 @@
 - [PostgreSQL query parallelism can be like a box of chocolates (2020)](https://swarm64.com/post/increase-postgresql-parallelism/)
 - [Swarm64](https://swarm64.com/) - Faster PostgreSQL performance and easier scaling.
 - [Patroni](https://github.com/zalando/patroni) - Template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes.
+- [PostgreSQL HTTP Client](https://github.com/pramsey/pgsql-http) - Retrieve a web page from inside the database.
+- [Crunchy Data](https://www.crunchydata.com/) - Trusted Open Source PostgreSQL & Commercial Support for the Enterprise.
