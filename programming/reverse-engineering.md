@@ -39,3 +39,4 @@
 - [Pafish](https://github.com/a0rtega/pafish) - Demonstration tool that employs several techniques to detect sandboxes and analysis environments in the same way as malware families do.
 - [GEF - GDB Enhanced Features for exploit devs & reversers](https://github.com/hugsy/gef)
 - [Surveyor](https://github.com/GaloisInc/surveyor) - Interactive binary explorer.
+- [Awesome Ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra#readme)
