@@ -236,3 +236,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Shairplay](https://github.com/juhovh/shairplay) - Apple airplay and raop protocol server.
 - [gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive (curl/wget fails because of the security notice).
 - [Basecamp Policies, Terms, and Legal Stuff](https://basecamp.com/about/policies) ([Code](https://github.com/basecamp/policies))
+- [skill-tree](https://github.com/nikomatsakis/skill-tree) - Tool for rendering "skill trees", currently using graphviz.

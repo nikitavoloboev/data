@@ -62,3 +62,4 @@
 - [Peeking under the hood of Command & Conquer (2020)](http://www.hydrogen18.com/blog/peeking-under-the-hood-of-command-conquer.html)
 - [Dwarf Fortress Creator Explains its Complexity & Origins (2020)](https://www.youtube.com/watch?v=VAhHkJQ3KgY)
 - [Yarn Editor](https://github.com/YarnSpinnerTool/YarnEditor) - Tool for writing interactive dialogue in games.
+- [Nano](https://github.com/lonng/nano) - Easy to use, fast, lightweight game server networking library for Go.

@@ -78,3 +78,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Dockerfile for terraria](https://github.com/ryansheehan/terraria)
 - [GG|](https://ggapp.io/) - Video Game Collection Tracker.
 - [Factory Planner](https://github.com/ClaudeMetz/FactoryPlanner) - Mod for Factorio. It allows you to plan out your production in detail.
+- [itch.io](https://itch.io/app) - Install, update and play indie games. ([Code](https://github.com/itchio/itch))
