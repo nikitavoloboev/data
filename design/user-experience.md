@@ -17,3 +17,4 @@
 - [Stop setting the language of your website based on my location (2020)](https://dev.to/bitdweller/stop-setting-the-language-of-your-website-based-on-my-location-31h0) ([Lobsters](https://lobste.rs/s/vi3lqx/stop_setting_language_your_website_based)) ([HN](https://news.ycombinator.com/item?id=23216502))
 - [Dark Patterns: Past, Present, and Future: The evolution of tricky user interfaces (2020)](https://queue.acm.org/detail.cfm?id=3400901)
 - [UI Components & UX Patterns Examples](https://www.niceverynice.com/components)
+- [Nice examples of UX improvements for website](https://twitter.com/coreyhainesco/status/1270521909441032193)

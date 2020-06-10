@@ -47,3 +47,4 @@
 - [Learning Gears](https://www.swyx.io/writing/learning-gears/)
 - [FutureLearn](https://www.futurelearn.com/)
 - [Recurse Center](https://www.recurse.com/) - Self-directed, community-driven educational retreat for programmers based in New York City and currently operating online.
+- [Lambda School Training Kit](https://learn.lambdaschool.com/) - Learning resources at Lambda School.
