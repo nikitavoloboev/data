@@ -18,3 +18,4 @@ Concurrency is the composition of independently executing computations.
 - [A (brief) retrospective on transactional memory (2010)](http://joeduffyblog.com/2010/01/03/a-brief-retrospective-on-transactional-memory/)
 - [Concurrent programming, with examples (2020)](https://begriffs.com/posts/2020-03-23-concurrent-programming.html?hn=1) ([HN](https://news.ycombinator.com/item?id=22672128))
 - [Deterministic Parallel Fixpoint Computation (2019)](https://arxiv.org/pdf/1909.05951.pdf)
+- [Fearless concurrency: how Clojure, Rust, Pony, Erlang and Dart let you achieve that. (2019)](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/fearlessconcurrencyhowclojurerustponyerlanganddartletyouachievethat) ([HN](https://news.ycombinator.com/item?id=19241427))

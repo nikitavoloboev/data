@@ -10,3 +10,4 @@
 - [Gazette](https://github.com/gazette/core) - Makes it easy to build platforms that flexibly mix SQL, batch, and millisecond-latency streaming processing paradigms. ([Docs](https://gazette.readthedocs.io/en/latest/))
 - [Apache Flink](https://flink.apache.org/) - Stateful Computations over Data Streams.
 - [Introduction to Stream Processing with Apache Flink (2020)](https://noti.st/morsapaes/9TGu0S/introduction-to-stream-processing-with-apache-flink)
+- [Storm Applied: Strategies for real-time event processing](https://www.amazon.com/Storm-Applied-Strategies-real-time-processing/dp/1617291897)
