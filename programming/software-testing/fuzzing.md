@@ -12,3 +12,4 @@
 - [rustbuster](https://github.com/phra/rustbuster) - Comprehensive Web Fuzzer and Content Discovery Tool.
 - [Nautilus](https://github.com/nautilus-fuzz/nautilus) - Coverage guided, grammar based fuzzer.
 - [lain](https://github.com/microsoft/lain) - Fuzzer framework built in Rust.
+- [Fuzzing Raft for Fun and Publication (2015)](https://colin-scott.github.io/blog/2015/10/07/fuzzing-raft-for-fun-and-profit/)
