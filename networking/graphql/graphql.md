@@ -95,3 +95,4 @@
 - [Sqlmancer](https://github.com/danielrearden/sqlmancer) - Conjure SQL from your GraphQL queries.
 - [graphql-redis-subscriptions](https://github.com/davidyaha/graphql-redis-subscriptions) - GraphQL subscriptions implementation using Redis and Apollo's GraphQL-subscriptions.
 - [graphql-compose](https://github.com/graphql-compose/graphql-compose) - Toolkit for generating complex GraphQL Schemas on Node.js.
+- [How and why GraphQL will influence the SourceHut alpha (2020)](https://sourcehut.org/blog/2020-06-10-how-graphql-will-shape-the-alpha/)

@@ -65,3 +65,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Experimental blockchain database](https://github.com/paritytech/parity-db)
 - [David Gerard: Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/)
 - [Substrate](https://github.com/paritytech/substrate) - Next-generation framework for blockchain innovation.
+- [Build a Blockchain from Scratch in Go (2020)](https://gumroad.com/l/build-a-blockchain-from-scratch-in-go/)

@@ -65,3 +65,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Job searching (2020)](https://www.thefragehaver.com/posts/jobsearch/)
 - [Ask HN: What is the smartest career path to take? (2020)](https://news.ycombinator.com/item?id=23458316)
 - [How to get any job you want book](https://page.skerritt.blog/job/) ([Code](https://github.com/brandonskerritt/Employabiltiy-book))
+- [Ask HN: Career and life advice for a 30yo (2020)](https://news.ycombinator.com/item?id=23475890)
