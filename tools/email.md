@@ -63,3 +63,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [MailDev](https://github.com/maildev/maildev) - SMTP Server + Web Interface for viewing and testing emails during development.
 - [How to build emails with React (2017)](https://building.lang.ai/how-to-build-emails-with-react-fcf941b125d1)
 - [SparkPost](https://www.sparkpost.com/) - Predictive email intelligence platform, helping brands predict and optimize email performance.
+- [MailChecker](https://github.com/FGRibreau/mailchecker) - Cross-language email validation. Backed by a database of over 30 000 throwable email domains.

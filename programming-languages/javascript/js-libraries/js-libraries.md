@@ -261,6 +261,7 @@
 - [Hull.js](https://github.com/AndriiHeonia/hull) - JavaScript library that builds concave hull by set of points.
 - [StegCloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in plain text securely using passwords.
 - [p-min-delay](https://github.com/sindresorhus/p-min-delay) - Delay a promise a minimum amount of time.
+- [match-when](https://github.com/FGRibreau/match-when) - Pattern matching for modern JavaScript.
 
 ## Links
 
