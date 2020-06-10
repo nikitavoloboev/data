@@ -169,3 +169,4 @@
 - [jsparagus](https://github.com/mozilla-spidermonkey/jsparagus) - JavaScript parser written in Rust.
 - [Callbag](https://github.com/callbag/callbag) - Standard for JS callbacks that enables lightweight observables and iterables.
 - [JavaScript Standard Style](https://standardjs.com/) - JavaScript style guide, linter, and formatter. ([Code](https://github.com/standard/standard))
+- [Boa](https://github.com/boa-dev/boa) - Experimental Javascript lexer, parser and compiler written in Rust.
