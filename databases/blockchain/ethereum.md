@@ -17,7 +17,7 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [Augur](https://www.augur.net/) - Prediction market protocol owned and operated by the people that use it.
   - [Augur Today](http://www.augur.today/)
 - [Drizzle](https://github.com/trufflesuite/drizzle) - Reactive Ethereum datastore for dapp UIs.
-- [Status](https://github.com/status-im/status-react) - Mobile Ethereum Operating System.
+- [Status](https://status.im/) - Secure messaging app, crypto wallet, and Web3 browser built with state of the art technology. ([Code](https://github.com/status-im/status-react))
 - [EthHub](https://ethhub.io/) - The goal of EthHub is to provide a single source for essential Ethereum information.
 - [Urbit](https://github.com/urbit/urbit) - Urbit virtual machine.
 - [A Journey Through Phase 2 of Ethereum 2.0 (2019)](https://medium.com/@william.j.villanueva/a-journey-through-phase-2-of-ethereum-2-0-c7a2397a36cb)

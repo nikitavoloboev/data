@@ -76,3 +76,4 @@
 - [Acme: A new framework for distributed reinforcement learning | DeepMind (2020)](https://deepmind.com/research/publications/Acme) ([Code](https://github.com/deepmind/acme))
 - [Slime Volleyball Gym Environment](https://github.com/hardmaru/slimevolleygym) - Simple OpenAI Gym environment for single and multi-agent reinforcement learning.
 - [References on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography#readme)
+- [NetHack Learning Environment (NLE)](https://github.com/facebookresearch/nle) - Reinforcement Learning environment based on NetHack 3.6.

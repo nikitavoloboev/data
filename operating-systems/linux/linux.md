@@ -133,3 +133,4 @@
 - [Weylus](https://github.com/H-M-H/Weylus) - Turns your tablet or smart phone into a graphic tablet/touch screen for your computer. ([HN](https://news.ycombinator.com/item?id=23443430))
 - [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process.
 - [pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions.
+- [Linux kernel crash utility](https://github.com/crash-utility/crash)

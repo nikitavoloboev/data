@@ -448,6 +448,9 @@
 - [saml](https://github.com/ucarion/saml) - Simple, secure, pluggable Golang implementation of SAML.
 - [golang-whois](https://github.com/undiabler/golang-whois) - Get whois info using root servers.
 - [circbuf](https://github.com/armon/circbuf) - Provides a Buffer object which is a circular (or ring) buffer. It has a fixed size, but can be written to infinitely.
+- [fuse](https://github.com/jacobsa/fuse) - Go package for implementing a FUSE file system.
+- [go-serial](https://github.com/jacobsa/go-serial) - Allows you to read from and write to serial ports in Go.
+- [doubleratchet](https://github.com/status-im/doubleratchet) - Double Ratchet Algorithm implementation in Go.
 
 ## Links
 
