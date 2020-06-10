@@ -30,3 +30,4 @@
 - [Themes for Roam Research](https://twitter.com/Conaw/status/1268426724254945280)
 - [RemNote](https://www.remnote.io/homepage) - Spaced-repetition powered note-taking tool that lets you structure knowledge exactly in the way you think about it.
 - [Azlen's Roam Themes](https://github.com/azlen/roam-themes)
+- [Grizzly Roam Theme](https://github.com/josephhitchcock/roam-themes) ([Reddit](https://www.reddit.com/r/RoamResearch/comments/h082yi/roam_redesign/))
