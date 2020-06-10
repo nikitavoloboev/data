@@ -29,3 +29,4 @@ For user facing products, well implemented analytics will let you see how to opt
 - [A simple way to get more value from metrics](https://danluu.com/metrics-analytics/)
 - [We ditched Google Analytics for good (2020)](https://missiveapp.com/blog/privacy-first-analytics) ([HN](https://news.ycombinator.com/item?id=23378524))
 - [Netlify Analytics](https://www.netlify.com/products/analytics/)
+- [Analytics](https://github.com/DavidWells/analytics) - Lightweight analytics abstraction layer for tracking page views, custom events, & identifying visitors. ([Docs](https://getanalytics.io/))

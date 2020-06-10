@@ -31,3 +31,4 @@ Markdown is amazing and such an awesome way to format the text you write. I am u
 - [Marked](https://github.com/markedjs/marked) - Markdown parser and compiler. Built for speed.
 - [react-remark](https://github.com/ChristianMurphy/react-remark) - React component and hook to use remark to render markdown.
 - [note-link-janitor](https://github.com/andymatuschak/note-link-janitor) - Maintains backlink structure among interlinked Markdown notes.
+- [Markdown Magic](https://github.com/DavidWells/markdown-magic) - Automatically format markdown files, sync external docs/src code & make better docs.

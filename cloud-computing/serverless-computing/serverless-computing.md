@@ -48,3 +48,4 @@
 - [leaderboard-app](https://github.com/alexellis/leaderboard-app) - GitHub leaderboard for your organisation or repo (Serverless SPA).
 - [Webiny](https://github.com/webiny/webiny-js) - Platform for building serverless applications and API (Node.js, React, GraphQL). ([Web](https://www.webiny.com/))
 - [The rise of embarrassingly parallel serverless compute (2020)](https://davidwells.io/blog/rise-of-embarrassingly-parallel-serverless-compute)
+- [Serverless Workshop](https://github.com/DavidWells/serverless-workshop) - Open source serverless workshop. Ready to deploy serverless examples on AWS.
