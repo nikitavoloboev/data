@@ -20,3 +20,4 @@
 - [Articles on Electricity](http://amasci.com/ele-edu.html) ([HN](https://news.ycombinator.com/item?id=23442181))
 - [Logic gates simulation using Node EventEmitters](https://github.com/ahuth/emitter-gates)
 - [Logic.ly](https://logic.ly/demo) - Teach logic gates and digital circuits effectively. ([HN](https://news.ycombinator.com/item?id=23463779))
+- [Bad Circuit Design](http://cmosedu.com/cmos1/bad_design/bad_design.htm) ([HN](https://news.ycombinator.com/item?id=23476475))

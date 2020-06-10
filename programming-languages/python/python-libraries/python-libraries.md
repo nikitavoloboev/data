@@ -123,6 +123,7 @@
 - [Pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python.
 - [Science Plots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting.
 - [Typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
+- [Dominate](https://github.com/Knio/dominate) - Python library for creating and manipulating HTML documents using an elegant DOM API.
 
 ## Links
 

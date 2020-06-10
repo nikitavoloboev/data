@@ -81,3 +81,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Zoekt](https://github.com/google/zoekt) - Fast text search engine, intended for use with source code.
 - [10 more programming languages worth checking out (2018)](https://h3rald.com/articles/10-more-programming-languages/)
 - [A Beginner's Guide to Amiga E](http://cshandley.co.uk/JasonHulance/) ([Lobsters](https://lobste.rs/s/jwuebp/beginner_s_guide_amiga_e))
+- [Create your own programming language with Rust](https://createlang.rs/) ([Code](https://github.com/ehsanmok/create-your-own-lang-with-rust))
