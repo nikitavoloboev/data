@@ -111,3 +111,5 @@
 - [CMU LTI Low Resource NLP Bootcamp 2020](https://github.com/neubig/lowresource-nlp-bootcamp-2020)
 - [GPT-3: Language Models Are Few-Shot Learners (2020)](https://arxiv.org/abs/2005.14165) ([HN](https://news.ycombinator.com/item?id=23345379)) ([Code](https://github.com/openai/gpt-3))
 - [nlp](https://github.com/huggingface/nlp) - Lightweight and extensible library to easily share and access datasets and evaluation metrics for NLP.
+- [Brainsources for NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482)
+- [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning) ([Paper](https://arxiv.org/abs/2005.07683))
