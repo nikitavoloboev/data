@@ -134,3 +134,4 @@ I love Git and version control. And I use version control over any project I do.
 - [DeGit](https://github.com/yegor256/degit) - Decentralized Git projects hosting platform.
 - [How to write good Git commit messages (2020)](https://altcampus.io/blog/how-to-write-good-git-commit-message) ([HN](https://news.ycombinator.com/item?id=23479465))
 - [gitignore.io](https://www.toptal.com/developers/gitignore) - Create Useful .gitignore Files For Your Project. ([Code](https://github.com/toptal/gitignore.io))
+- [Speeding up a Git monorepo at Dropbox with <200 lines of code (2020)](https://dropbox.tech/application/speeding-up-a-git-monorepo-at-dropbox-with--200-lines-of-code)

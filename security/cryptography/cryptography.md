@@ -61,3 +61,4 @@
 - [Encrypted Systems Lab](http://esl.cs.brown.edu/) - Research lab in the Computer Science Department at Brown University.
 - [Snow](https://github.com/mcginty/snow) - Rust implementation of the Noise Protocol Framework.
 - [Real-World Cryptography book (2020)](https://www.manning.com/books/real-world-cryptography)
+- [How To Learn Cryptography as a Programmer (2020)](https://soatok.blog/2020/06/10/how-to-learn-cryptography-as-a-programmer/)
