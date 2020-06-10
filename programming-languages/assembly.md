@@ -15,3 +15,4 @@
 - [int 80h](http://int80h.org/) - Learn Assembly using OpenBSD as base OS.
 - [Assembly’s Perspective (2020)](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/)
 - [ASM Swift](https://github.com/NSExceptional/ASM-Swift) - Playground for learning Assembly language through Swift.
+- [Little Computer 3](http://littlecomputer3.com/) - Learn how to program in assembly on the web. ([Code](https://github.com/0x213F/littlecomputer3))

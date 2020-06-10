@@ -15,3 +15,4 @@
 - [Interesting things about the Lua interpreter (2020)](https://thesephist.com/posts/lua/)
 - [Interactive Lua development with Fennel (2018)](https://technomancy.us/189) ([Lobsters](https://lobste.rs/s/1xlmb3/interactive_lua_development_with_fennel))
 - [LuaJIT Bytecode Optimizations](http://wiki.luajit.org/Optimizations)
+- [Lua in Rust](https://github.com/lonng/lua-rs) - Pure Rust implementation of Lua compiler.

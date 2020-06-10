@@ -79,3 +79,4 @@
 - [The Website Obesity Crisis (2015)](https://idlewords.com/talks/website_obesity.htm)
 - [5 Common Mistakes Teams Make When Tracking Performance (2020)](https://calibreapp.com/blog/common-mistakes-in-tracking-speed)
 - [Modern Script Loading (2019)](https://jasonformat.com/modern-script-loading/)
+- [AMP](https://amp.dev/) - Web component framework to easily create user-first web experiences. ([Code](https://github.com/ampproject/amp.dev))
