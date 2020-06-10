@@ -6,3 +6,4 @@
 - [dev.to source code](https://github.com/thepracticaldev/dev.to) - Where programmers share ideas and help each other grow.
 - [Real World Rails](https://github.com/eliotsykes/real-world-rails) - Real World Rails applications and their open source codebases for developers to learn from.
 - [Production Rails](https://github.com/ankane/production_rails#readme) - Best practices for running Rails in production.
+- [React-Rails](https://github.com/reactjs/react-rails) - Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker.

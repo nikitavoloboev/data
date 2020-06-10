@@ -23,3 +23,4 @@
 - [Hitchhiker’s Guide to Logical Veriﬁcation](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf) ([HN](https://news.ycombinator.com/item?id=22794533))
 - [Natural Number Game](https://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/) ([HN](https://news.ycombinator.com/item?id=22801607)) ([Code](https://github.com/ImperialCollegeLondon/natural_number_game))
 - [Certigrad](https://github.com/dselsam/certigrad) - Bug-free machine learning on stochastic computation graphs.
+- [Ellen's dots and boxes project](https://github.com/ImperialCollegeLondon/dots_and_boxes) - Contains all the code written for my final year research project in Mathematics, "Optimal gameplay in Dots and Boxes in Lean".
