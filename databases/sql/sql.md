@@ -51,3 +51,4 @@
 - [SQLsmith](https://github.com/anse1/sqlsmith) - Random SQL query generator.
 - [forma](https://github.com/maxcountryman/forma) - Opinionated SQL formatter.
 - [How Does SQLAlchemy Manage Database Transactions? (2019)https://capnfabs.net/posts/sqlalchemy-connection-management/)
+- [Falcon](https://github.com/plotly/falcon) - Free, open-source SQL editor with inline data visualization.

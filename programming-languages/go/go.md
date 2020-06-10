@@ -283,3 +283,4 @@ Go promotes composition over inheritance.
 - [json2go web parser](https://m-zajac.github.io/json2go/) - Paste json to generate go struct. ([Code](https://github.com/m-zajac/json2go))
 - [Writing Go CLIs With Just Enough Architecture (2020)](https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/) ([Reddit](https://www.reddit.com/r/golang/comments/gyxfvp/how_to_write_a_cli_with_just_enough_architecture/))
 - [Go SPA](https://github.com/tj/spa) - Tiny Single Page Application server for Go with `spa` command-line tool.
+- [Featherweight Generic Go Generator](https://github.com/wenkokke/featherweight-go-gen)
