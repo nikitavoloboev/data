@@ -11,3 +11,4 @@
 - [cloudflare-worker-local](https://github.com/gja/cloudflare-worker-local) - Run (or test) a Cloudflare Worker Locally.
 - [cloudworker-proxy](https://github.com/markusahlstrand/cloudworker-proxy) - API gateway for Cloudflare workers.
 - [Cloudflare Workers KV](https://www.cloudflare.com/products/workers-kv/) - Serverless key-value storage for applications on Cloudflare.
+- [cfworker](https://github.com/cfworker/cfworker) - Collection of packages optimized for Cloudflare Workers and service workers.

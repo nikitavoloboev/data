@@ -77,3 +77,4 @@
 - [VSCode Language Server - Node](https://github.com/microsoft/vscode-languageserver-node)
 - [tslog](https://github.com/fullstack-build/tslog) - Beautiful logging experience for Node.js with TypeScript support.
 - [Objection.js](https://github.com/Vincit/objection.js) - SQL-friendly ORM for Node.js.
+- [AWS Box](https://github.com/mozilla/awsbox) - Featherweight PaaS on top of Amazon EC2 for deploying node apps.

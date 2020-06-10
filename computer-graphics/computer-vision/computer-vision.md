@@ -76,3 +76,4 @@
 - [3Dflow](https://www.3dflow.net/) - Offers customized computer vision software solutions.
 - [labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python.
 - [imgviz](https://github.com/wkentaro/imgviz) - Image Visualization Tools.
+- [Attention-Guided Hierarchical Structure Aggregation for Image Matting](https://github.com/wukaoliu/CVPR2020-HAttMatting)

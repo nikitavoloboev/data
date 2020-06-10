@@ -20,6 +20,7 @@
 - [Rihanna](https://github.com/samphilipd/rihanna) - High performance postgres-backed job queue for Elixir.
 - [Broadway](https://github.com/plataformatec/broadway) - Concurrent and multi-stage data ingestion and data processing with Elixir.
 - [Goth](https://github.com/peburrows/goth) - Elixir package for Oauth authentication via Google Cloud APIs.
+- [Timber](https://github.com/timberio/timber-elixir) - Great Elixir logging made easy.
 
 ## Links
 

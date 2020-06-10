@@ -154,3 +154,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Self-Defined](https://www.selfdefined.app/) - Seeks to provide more inclusive, holistic, and fluid definitions to reflect the modern world. ([Code](https://github.com/tatianamac/selfdefined))
 - [Monzo – Tone of Voice](https://monzo.com/tone-of-voice/) - Brief overview of how we write. ([HN](https://news.ycombinator.com/item?id=23361531))
 - [E-Prime](https://zencephalon.com/e-prime/) - Variant of English in which one avoids the use of the word ‘is’ and all its conjugations.
+- [Ask HN: I find writing difficult, how do I make it easy? (2020)](https://news.ycombinator.com/item?id=23465908)

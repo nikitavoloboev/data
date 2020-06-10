@@ -46,3 +46,4 @@
 - [htmlparser2](https://github.com/fb55/htmlparser2) - Forgiving html and xml parser.
 - [Awesome lit-html](https://github.com/web-padawan/awesome-lit-html)
 - [Grid.js](https://gridjs.io/) - Free and open-source HTML table plugin written in TypeScript. ([HN](https://news.ycombinator.com/item?id=23420091)) ([Code](https://github.com/grid-js/gridjs))
+- [keen-slider](https://github.com/rcbyr/keen-slider) - HTML touch slider carousel with the most native feeling.
