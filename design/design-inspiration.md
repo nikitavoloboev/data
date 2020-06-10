@@ -123,6 +123,7 @@ Here are few more things I liked, design wise.
 - [Parimal Satyal](https://neustadt.fr/) ([Code](https://github.com/parimalsatyal/neu))
 - [Erlend Hamberg](https://hamberg.no/erlend/)
 - [Brent Jackson](https://jxnblk.com/)
+- [David Wells](https://davidwells.io/)
 - [Fabian Fett](https://fabianfett.de/)
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))
 - [Ernest Ojeh](https://ernestojeh.com/)
