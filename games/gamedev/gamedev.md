@@ -1,10 +1,5 @@
 # Game development
 
-## OSS Games
-
-- [LSD](https://github.com/franzenzenhofer/lsd) - Line-square-dot: an addicting game.
-- [Dino Jump](https://github.com/dj/dinojump)
-
 ## Notes
 
 - Programming is about solving problems. Programming a game isn't really any different. I start by thinking what problem is this game going to solve, as well as what other games might already do that. For example if I was making a physics puzzle game I would also consider "Why aren't they just playing Portal instead of this?" And go from there.
@@ -65,3 +60,4 @@
 - [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
 - [Nakama JavaScript client](https://github.com/heroiclabs/nakama-js) - JavaScript client for Nakama server written in TypeScript.
 - [Peeking under the hood of Command & Conquer (2020)](http://www.hydrogen18.com/blog/peeking-under-the-hood-of-command-conquer.html)
+- [Dwarf Fortress Creator Explains its Complexity & Origins (2020)](https://www.youtube.com/watch?v=VAhHkJQ3KgY)
