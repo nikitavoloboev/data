@@ -264,6 +264,8 @@
 - [match-when](https://github.com/FGRibreau/match-when) - Pattern matching for modern JavaScript.
 - [NumJs](https://github.com/nicolaspanel/numjs) - Like NumPy, in JavaScript.
 - [spect](https://github.com/spectjs/spect) - Reactive aspect-oriented web-framework.
+- [js-cid](https://github.com/multiformats/js-cid) - CID implementation in JavaScript.
+- [js-ipld-block](https://github.com/ipld/js-ipld-block) - Implementation of the Block data structure in JavaScript.
 
 ## Links
 

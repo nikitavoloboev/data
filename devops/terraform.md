@@ -17,3 +17,4 @@
 - [Terraform Lightning Course (2020)](https://www.youtube.com/playlist?list=PLozcbFx8FoPHM7n2DGLa6G8ZwtWFsVZsP)
 - [TFLint](https://github.com/terraform-linters/tflint) - Terraform linter focused on possible errors, best practices, etc.
 - [Announcing the Terraform Visual Studio Code Extension v2.0.0 (2020)](https://www.hashicorp.com/blog/announcing-the-terraform-visual-studio-code-extension-v2-0-0/)
+- [Terraform Provider for Google Cloud Platform](https://github.com/terraform-providers/terraform-provider-google)

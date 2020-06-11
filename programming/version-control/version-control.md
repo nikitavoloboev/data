@@ -7,3 +7,4 @@
 - [changesets](https://github.com/atlassian/changesets) - Way to manage your versioning and changelogs with a focus on multi-package repositories.
 - [Ask HN: Do you ever truly use your revision history? (2020)](https://news.ycombinator.com/item?id=22516414)
 - [Data Version Control](https://github.com/iterative/dvc) - Git for Data & Models.
+- [EdenSCM](https://github.com/facebookexperimental/eden) - Cross-platform, highly scalable source control management system.
