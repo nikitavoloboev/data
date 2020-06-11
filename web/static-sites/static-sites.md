@@ -46,3 +46,4 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [serve](https://github.com/vercel/serve) - Static file serving and directory listing.
 - [Building yet another static site generator (2017)](https://h3rald.com/articles/hastysite/)
 - [​​Automatic Website Deployment With Docker and Google Cloud Build (2019)](https://blog.theincredibleholk.org/blog/2019/10/13/automatic-website-deployment-with-docker-and-google-cloud-build/)
+- [Pre-rendering static websites with wget (2020)](https://apex.sh/blog/post/pre-render-wget/)

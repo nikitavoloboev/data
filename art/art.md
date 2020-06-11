@@ -101,6 +101,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Nate Rudichuk](https://www.artstation.com/naterudichuk)
 - [Jan Pypers](https://www.instagram.com/janpypers/)
 - [Sabina Lewis](https://www.instagram.com/sabina_lewis/)
+- [Edward Hopper](https://www.wikiart.org/en/edward-hopper)
 - [Eugene Golovanchuk](https://www.theskeeva.com/)
 - [Andrew Williamson](https://andrewwilliamson.net/)
 - [James White](https://signalnoise.com/) - Retro 80s.
@@ -240,3 +241,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Writing Machines](https://writing-machines.tumblr.com/) - Resource dedicated to various projects related to electronic literature/books/writing/art.
 - [Archillect](https://archillect.com/) - AI created to discover and share stimulating visual content.
 - [Shibuya Pixel Art 2020](https://www.lexaloffle.com/bbs/?tid=37971) ([HN](https://news.ycombinator.com/item?id=23200246))
+- [WikiArt](https://www.wikiart.org/) - Visual Art Encyclopedia.
