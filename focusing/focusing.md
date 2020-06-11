@@ -4,27 +4,17 @@ I define a set of [rules](rules.md), [processes](processes.md) & [goals](goals.m
 
 ## Focusing on what's important
 
-I use [2Do](../macOS/apps/2do.md) as my general task manager. [Trello](../sharing/my-trello.md) as a way to manage projects and track which ideas & things I am learning now. I love that Trello allows focusing in on cards so I can only see the cards I am working on now and nothing else.
+I use [2Do](../macOS/apps/2do.md) as my personal task manager. I [schedule events](../macOS/apps/fantastical.md) in my calendar and plan the day/week in context of my tasks & priorities.
 
-![](https://i.imgur.com/X8T0qp1.png)
+I work on [ideas](../ideas/ideas.md) I find valuable to me most & make things.
 
-Compared to:
-
-![](https://i.imgur.com/9Iu0zhV.png)
-
-I also use 2Do to schedule a weekly task to reflect on the week passed & plan ahead.
-
-![](https://i.imgur.com/8uR7zCs.png)
-
-I [schedule events](../macOS/apps/fantastical.md) in my calendar and plan the day/week in context of my tasks & priorities.
-
-I try to limit the scope and number of projects I am working on at any given time to a minimum and give all my mental energy into completing each project to the best of quality.
-
-I [use & build tools](../sharing/my-workflow.md) to make the process of completing my tasks as smooth as it can be.
-
-I focus on [solving problems](../research/solving-problems.md) & limit distractions (only essential notifications setup). I follow [rules](rules.md#focus) to maintain my focus throughout the day.
+I focus on [solving problems](../research/solving-problems.md) & limit distractions (only essential notifications setup).
 
 I support my [happiness](../life/happiness.md) by working on projects that I care about and looking after my [health](../health/health.md).
+
+I have 2Do setup to schedule a monthly review & plan task.
+
+![](https://i.imgur.com/g2Z09Eo.png)
 
 ## Notes
 
