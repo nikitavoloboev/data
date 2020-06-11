@@ -97,3 +97,4 @@
 - [graphql-compose](https://github.com/graphql-compose/graphql-compose) - Toolkit for generating complex GraphQL Schemas on Node.js.
 - [How and why GraphQL will influence the SourceHut alpha (2020)](https://sourcehut.org/blog/2020-06-10-how-graphql-will-shape-the-alpha/) ([Lobsters](https://lobste.rs/s/me5emr/how_why_graphql_will_influence_sourcehut))
 - [GraphQL Spec](https://spec.graphql.org/June2018/)
+- [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - Light and simple utility for adding GraphQL to React components. Ships with an extensible, composable cache invalidation mechanism.

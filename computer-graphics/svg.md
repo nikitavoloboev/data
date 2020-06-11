@@ -32,3 +32,4 @@
 - [CNC Hershey Font Tool](https://msurguy.github.io/cnc-text-tool/) ([Code](https://github.com/msurguy/cnc-text-tool))
 - [SVG Path Visualizer](https://svg-path-visualizer.netlify.app/) - Enter a SVG path data to visualize it and discover all its different commands.
 - [Nano SVG](https://github.com/memononen/nanosvg) - Simple stupid SVG parser.
+- [Shape Divider App](https://www.shapedivider.app/) - Export a beautiful SVG shape divider.
