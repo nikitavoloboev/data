@@ -11,3 +11,4 @@
 - [XPath-like Query Logics: Proof Systems and Real-World Applicability (2019)](https://tel.archives-ouvertes.fr/tel-02276423/document)
 - [Abella](http://abella-prover.org/) - Interactive theorem prover based on lambda-tree syntax. ([Code](https://github.com/abella-prover/abella))
 - [Poi](https://github.com/advancedresearch/poi) - Pragmatic point-free theorem prover assistant. ([HN](https://news.ycombinator.com/item?id=23193859))
+- [STP](https://github.com/stp/stp) - Simple Theorem Prover, an efficient SMT solver for bitvectors.

@@ -97,3 +97,4 @@
 - [Patroni](https://github.com/zalando/patroni) - Template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes.
 - [PostgreSQL HTTP Client](https://github.com/pramsey/pgsql-http) - Retrieve a web page from inside the database.
 - [Crunchy Data](https://www.crunchydata.com/) - Trusted Open Source PostgreSQL & Commercial Support for the Enterprise.
+- [Kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres.

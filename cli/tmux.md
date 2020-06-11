@@ -12,3 +12,4 @@
 - [Tmux for Mere Mortals](https://zserge.com/posts/tmux/) ([HN](https://news.ycombinator.com/item?id=23003603))
 - [tmux2html](https://github.com/tweekmonster/tmux2html) - Render full tmux windows or individual panes as HTML.
 - [DMUX](https://github.com/zdcthomas/dmux) - Tmux workspace manager.
+- [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)

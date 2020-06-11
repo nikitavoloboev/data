@@ -16,3 +16,4 @@
 - [APL a Day](https://www.sacrideo.us/tag/apl-a-day/)
 - [Ode to J](https://zserge.com/posts/j/)
 - [Is APL Dead? Not anymore (2020)](https://www.sacrideo.us/is-apl-dead/) ([HN](https://news.ycombinator.com/item?id=23055793))
+- [A Dictionary of APL (1987)](https://www.jsoftware.com/papers/APLDictionary1.htm)
