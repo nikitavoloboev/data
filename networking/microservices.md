@@ -41,3 +41,4 @@
 - [Increasing Efficiency & Confidence with Project Apollo (2020)](https://robinhood.engineering/increasing-efficiency-confidence-with-project-apollo-cea1ebe0f282)
 - [Microservices: Up and Running book (2020)](https://www.oreilly.com/library/view/microservices-up-and/9781492075448/)
 - [Gizmo Microservice Toolkit](https://github.com/nytimes/gizmo) - Provides packages to put together server and pubsub daemons.
+- [Go + Microservices = Go Kit - Peter Bourgon (2017)](https://www.youtube.com/watch?v=NX0sHF8ZZgw)
