@@ -102,3 +102,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [HarfBuzz](https://github.com/harfbuzz/harfbuzz) - Text shaping library.
 - [rustybuzz](https://github.com/RazrFalcon/rustybuzz) - Incremental harfbuzz port to Rust.
 - [Font Stash](https://github.com/memononen/fontstash) - Light-weight online font texture atlas builder.
+- [Grammar of Typography: Classical Design in the Digital Age](http://www.godine.com/book/a-grammar-of-typography-classical-design-in-the-digital-age/)

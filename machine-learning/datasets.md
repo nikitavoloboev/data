@@ -31,3 +31,4 @@
 - [Using Decision Trees for charting ill-behaved datasets (2020)](https://vvvvalvalval.github.io/posts/2020-05-15_Using-Decision-Trees-for-charting-ill-behaved-datasets.html)
 - [Human parsing datasets](https://github.com/HumanParsingSDK/datasets)
 - [Data Programming: Creating Large Training Sets, Quickly (2016)](https://papers.nips.cc/paper/6523-data-programming-creating-large-training-sets-quickly.pdf)
+- [Announcing Artifacts (2020)](https://medium.com/@shawnup/announcing-artifacts-a7f680b6afd6)
