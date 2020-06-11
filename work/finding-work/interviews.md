@@ -75,4 +75,3 @@
 - [CodeInterview](https://codeinterview.netlify.app/) - Home made solution and personal self-learning project for online coding interviews. ([Code](https://github.com/areebbeigh/codeinterview-backend))
 - [How to prepare for a startup interview (2020)](https://blog.otta.com/how-to-prepare-for-a-startup-interview-heres-what-the-best-10-of-candidates-are-doing/)
 - [interviewing.io](https://interviewing.io/) - Anonymous technical interview practice. ([Article](http://blog.interviewing.io/interviewing-io-is-out-of-beta-anonymous-technical-interview-practice-for-all/)) ([HN](https://news.ycombinator.com/item?id=23418910))
-- [The Tech Resume Inside-Out Book](https://www.thetechinterview.com/)

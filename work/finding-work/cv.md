@@ -70,3 +70,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [autoCV](https://github.com/poldrack/autoCV) - Tool for automatic generation of a LaTeX-based CV.
 - [9 tips on having better CV](https://twitter.com/GergelyOrosz/status/1266449238126399491)
 - [Orbit](https://github.com/sharu725/online-cv) - Minimal Jekyll Theme to host your resume.
+- [The Tech Resume Inside-Out](https://www.thetechinterview.com/)
