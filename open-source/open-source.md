@@ -99,3 +99,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [The RuboCop Name Drama Redux (2020)](https://metaredux.com/posts/2020/06/08/the-rubocop-name-drama-redux.html) ([Lobsters](https://lobste.rs/s/2ztpzk/rubocop_name_drama_redux))
 - [Open Sauced](https://opensauced.pizza/) - Provides structured onboarding for new contributors to open source. ([Code](https://github.com/open-sauced/open-sauced))
 - [List of open source programs](https://opensourceinternships.herokuapp.com/) ([Code](https://github.com/tapaswenipathak/Open-Source-Programs))
+- ["Trillions and Trillions Served" documentary feature on The Apache Software Foundation (2020)](https://www.youtube.com/watch?v=JUt2nb0mgwg)
