@@ -778,6 +778,7 @@
   - [Queries](other/queries.md)
   - [Funny](other/funny.md)
   - [Puzzles](other/puzzles.md)
+  - [Woodworking](other/woodworking.md)
   - [Newsletters](other/newsletters.md)
   - [Used hotkeys](other/used-hotkeys.md)
   - [Mentions](other/mentions.md)

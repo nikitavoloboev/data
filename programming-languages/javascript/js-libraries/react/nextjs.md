@@ -82,3 +82,4 @@
 - [aws-cognito-next](https://github.com/dferber90/aws-cognito-next) - Authentication helpers to enable usage of AWS Cognito in next.js applications.
 - [Creating a Next.js mono repository project with TypeScript](https://josephluck.co.uk/blog/next-typescript-monorepo/)
 - [NextJS + Preact Demo](https://github.com/developit/nextjs-preact-demo)
+- [2 Ways to Create Server-Rendered Routes Using Next.js and Netlify (2020)](https://www.netlify.com/blog/2020/06/10/2-ways-to-create-server-rendered-routes-using-next.js-and-netlify/)
