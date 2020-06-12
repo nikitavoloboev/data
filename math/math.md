@@ -154,3 +154,4 @@
 - [Bill Thurston's answer to “What's a mathematician to do?”](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do/44213#44213) ([HN](https://news.ycombinator.com/item?id=23461983))
 - [Visual Math Tools](https://github.com/prathyvsh/Visual-Math-Tools#readme)
 - [Math History Books](https://github.com/prathyvsh/math-history#readme)
+- [Ask HN: What kind of math do you study in your free time? (2020)](https://news.ycombinator.com/item?id=23474941)
