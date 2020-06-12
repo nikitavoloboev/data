@@ -16,10 +16,6 @@ Which I activate from KM:
 
 Makes opening these journal entries nicely as it doesn't have a hardcoded month so it always works. I'll do same for year later.
 
-I also made two more macros to support my week & month reflections.
-
-![](https://i.imgur.com/M9wtkv6.png)
-
 ![](https://i.imgur.com/Lc9SIxI.png)
 
 ![](https://i.imgur.com/HrOpVdo.png)

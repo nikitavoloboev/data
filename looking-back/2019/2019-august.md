@@ -8,13 +8,7 @@ Every morning of weekday I start with latte with oat milk from my [favorite coff
 
 My biggest problem right now is cutting out time fully from bad habits I have accumulated over my life like mindless ego boosts of checking traffic on my GitHub repo, Google Analytics, Twitter/Instagram notifications etc.. None of these tools provide tools to actually cut off these notifications from appearing in the first place and viewing analytics although is partly useful, it provides no real benefit to my life. There has to be much better feedback systems in place than pure traffic. All that is to say that this habit is hard to break and requires some real mindfulness and perhaps assistance of tools.
 
-My current [habits](../../focusing/habits.md):
-
-![](https://i.imgur.com/Mx2Pd4F.jpg)
-
-![](https://i.imgur.com/NJjPn8X.jpg)
-
-Don't see myself changing them any time soon. Super happy about these 12 essential to me daily habits. Listening to [Why we sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) book is eye opening as to how useful sleep is to our lives. If there is one thing you can't sacrifice in life, it is sleep. I love waking up without alarms and having my body take all the time it needs to process my memories and heal.
+Listening to [Why we sleep](https://www.goodreads.com/book/show/34466963-why-we-sleep) book is eye opening as to how useful sleep is to our lives. If there is one thing you can't sacrifice in life, it is sleep. I love waking up without alarms and having my body take all the time it needs to process my memories and heal.
 
 A long summary of the month with many things happening to my personal life and development that on the surface seem small and non worthy to talk about. Just need to put myself into more environments that force me to grow as a person. Meet people. Build things. Share. And be open.
 

@@ -183,6 +183,7 @@ Here are few more things I liked, design wise.
 - [Gal Shir](https://galshir.com/)
 - [Gregory Szorc](https://gregoryszorc.com/)
 - [Azlen Elza](https://azlen.me/) ([Code](https://github.com/azlen/azlen.me))
+- [Jordan O’Connor](https://jdnoc.com/)
 - [JP Simard](https://www.jpsim.com/)
 - [Sergio Xalambrí](https://sergiodxa.com/) ([Code](https://github.com/sergiodxa/personal-site))
 - [Tyler Gaw](https://tylergaw.com/)
