@@ -143,6 +143,7 @@ Here are few more things I liked, design wise.
 - [Sarah Lim](https://slim.computer/)
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))
 - [Kent C. Dodds](https://kentcdodds.com/) ([Code](https://github.com/kentcdodds/kentcdodds.com))
+- [Andy McCune](https://andymccune.com/)
 - [Zackary Scholl](https://schollz.com/blog/)
 - [Mackenzie Child](https://www.mackenziechild.me/)
 - [Serge Zaitsev](https://zserge.com/)
