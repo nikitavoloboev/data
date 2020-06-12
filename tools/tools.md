@@ -131,6 +131,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Snap.as](https://snap.as/) - Permanent home for your photos.
 - [Watercooler](https://waterc00ler.com/) - Voice chat rooms.
 - [Jsonnet](https://github.com/google/jsonnet) - Data templating language.
+- [Baremetrics](https://baremetrics.com/) - Subscription Analytics & Insights for Stripe, Braintree, Recurly & more.
 - [fastmod](https://github.com/facebookincubator/fastmod) - Fast partial replacement for the codemod tool.
 - [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.
 - [hack.chat](https://hack.chat/) - Minimal, distraction-free chat application.
