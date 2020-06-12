@@ -98,3 +98,4 @@
 - [PostgreSQL HTTP Client](https://github.com/pramsey/pgsql-http) - Retrieve a web page from inside the database.
 - [Crunchy Data](https://www.crunchydata.com/) - Trusted Open Source PostgreSQL & Commercial Support for the Enterprise.
 - [Kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres.
+- [5 Ways to Host PostgreSQL Databases (2020)](https://www.prisma.io/blog/ways-to-host-postgresql-w0xrhqqgp4zp)
