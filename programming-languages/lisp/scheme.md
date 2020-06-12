@@ -16,3 +16,4 @@
 - [Gerbil Scheme](https://cons.io/) - Meta-dialect of Scheme with post-modern features. ([Lobsters](https://lobste.rs/s/c29wn2/gerbil_scheme)) ([HN](https://news.ycombinator.com/item?id=20585637))
 - [pontiff](https://github.com/sylphbio/pontiff) - Haskell-style build system for chicken scheme.
 - [Fibers](https://github.com/wingo/fibers) - Facility that provides Go-like concurrency for Guile Scheme, in the tradition of Concurrent ML.
+- [Practical Chicken Scheme with Emacs: hello-world webserver (2017)](https://www.youtube.com/watch?v=eXB3I3S3vJc)
