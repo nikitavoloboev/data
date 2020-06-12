@@ -134,3 +134,4 @@
 - [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process.
 - [pspy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions.
 - [Linux kernel crash utility](https://github.com/crash-utility/crash)
+- [Computers Barely Work - Interview with Linux Legend Greg Kroah-Hartman (2020)](https://www.youtube.com/watch?v=t9MjGziRw-c)

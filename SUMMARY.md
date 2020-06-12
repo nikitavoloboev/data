@@ -500,6 +500,7 @@
   - [ActivityPub](networking/activitypub.md)
   - [Authentication](networking/authentication.md)
   - [Mesh networking](networking/mesh-networking.md)
+  - [Wi-Fi](networking/wifi.md)
 - [Health](health/health.md)
   - [Nutrition](health/nutrition/nutrition.md)
     - [Foods](health/nutrition/foods.md)
