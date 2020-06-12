@@ -30,3 +30,4 @@ Here are some things I am trying to improve with my health right now.
 - [AWAIR](https://www.getawair.com) - Smart device that helps you track and improve your air and shows how the indoor environment affects your health.
 - [AWAIR Element](https://www.getawair.com/home/element) - Cutting-edge air quality technology in a simple and affordable package.
 - [Why We Have So Many Problems with Our Teeth (2020)](https://www.scientificamerican.com/article/why-we-have-so-many-problems-with-our-teeth/) ([HN](https://news.ycombinator.com/item?id=23335368))
+- [Biohacking Lite (2020)](https://karpathy.github.io/2020/06/11/biohacking-lite/) ([HN](https://news.ycombinator.com/item?id=23501021))

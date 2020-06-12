@@ -74,3 +74,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [A Well-Known URL for Changing Passwords](https://wicg.github.io/change-password-url/) ([Code](https://github.com/WICG/change-password-url))
 - [Learn Security Engineering](https://github.com/veeral-patel/learn-security-engineering#readme)
 - [Zebra Crossing: an easy-to-use digital safety checklist](https://github.com/narwhalacademy/zebra-crossing#readme)
+- [Best practices for managing & storing secrets like API keys and other credentials (2020)](https://blog.gitguardian.com/secrets-api-management/) ([Reddit](https://www.reddit.com/r/programming/comments/h7kmff/best_practices_for_managing_storing_secrets_like/))

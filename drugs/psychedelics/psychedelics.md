@@ -69,3 +69,4 @@ I use [Tablets](https://itunes.apple.com/nl/app/tablets-journal/id1460296357?l=e
 - [Psychedelic Science Review](https://psychedelicreview.com/)
 - [Psilocybin acutely alters the functional connectivity of the claustrum with brain networks that support perception, memory, and attention (2020)](https://www.sciencedirect.com/science/article/pii/S1053811920304663)
 - [We can no longer ignore the potential of psychedelic drugs to treat depression (2020)](https://www.theguardian.com/commentisfree/2020/jun/08/psychedelic-drugs-treat-depression) ([HN](https://news.ycombinator.com/item?id=23458724))
+- [Is it normal for psychedelics to induce a very intense, life-altering experience for me while others take them nonchalantly? (2020)](https://www.reddit.com/r/RationalPsychonaut/comments/h78o8j/is_it_normal_for_psychedelics_to_induce_a_very/)
