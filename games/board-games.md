@@ -15,3 +15,4 @@ I keep a [list of all board games I played](https://boardgamegeek.com/collection
 - [How to play board games online with your friends (2020)](https://masilotti.com/play-board-games-online/) ([HN](https://news.ycombinator.com/item?id=22967716))
 - [Board Game recs by Timothy](https://timothyandrew.net/misc/board-games/)
 - [Simplifying Board Games (2020)](https://www.jefftk.com/p/simplifying-board-games) ([HN](https://news.ycombinator.com/item?id=23372477))
+- [The Utilitarian Pleasures of Playing Board Games By Yourself (2020)](https://www.atlasobscura.com/articles/utilitarian-pleasures-playing-board-games-by-yourself)
