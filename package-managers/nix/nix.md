@@ -110,3 +110,4 @@
 - [A Nix terminology primer by a newcomer (2020)](https://stephank.nl/p/2020-06-01-a-nix-primer-by-a-newcomer.html)
 - [Statistical Rethinking and Nix (2020)](https://rgoswami.me/posts/rethinking-r-nix/)
 - [flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions.
+- [nix.dev](https://nix.dev/) - Opinionated guide for developers wanting to get things done using the Nix ecosystem.

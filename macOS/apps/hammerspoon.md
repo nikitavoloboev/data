@@ -8,3 +8,4 @@
 - [HN: Hammerspoon (2019)](https://news.ycombinator.com/item?id=21801178)
 - [Spacehammer](https://github.com/agzam/spacehammer) - Hammerspoon config inspired by Spacemacs.
 - [Using Fennel to configure Hammerspon](https://lobste.rs/s/tkm8nh/using_fennel_configure_hammerspon)
+- [Akinori's HS modules](https://github.com/knu/hs-knu) - Mainly for keyboard customization.
