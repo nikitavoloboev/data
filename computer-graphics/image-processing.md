@@ -34,3 +34,4 @@
 - [photon](https://github.com/silvia-odwyer/photon) - Rust/WebAssembly image processing library.
 - [imageproc](https://github.com/image-rs/imageproc) - Image processing operations as rust library.
 - [Thumbor](https://github.com/thumbor/thumbor) - Open-source smart on-demand image cropping, resizing and filters.
+- [ImageMagick](https://imagemagick.org/index.php) - Convert, Edit, or Compose Bitmap Images.

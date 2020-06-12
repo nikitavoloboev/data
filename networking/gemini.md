@@ -12,3 +12,4 @@
 - [Solderpunk](https://www.circumlunar.space/~solderpunk/) - Founder of Circumlunar Space, and the admin of the Mare Tranquillitatis People's Circumlunar Zaibatsu.
 - [VF-1](https://github.com/solderpunk/VF-1) - Command line gopher client. High speed, low drag.
 - [AV-98](https://tildegit.org/solderpunk/AV-98) - Experimental client for the Gemini protocol.
+- [Gopher clients](https://www.circumlunar.space/~solderpunk/clients.html)

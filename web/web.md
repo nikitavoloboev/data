@@ -107,3 +107,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [archhive](https://github.com/caresx/archhive) - Command-line utility to archive a link to archive.org and archive.today and take a full-page screenshot of it with a header containing the links.
 - [Popub](https://github.com/m13253/popub) - Publish a service from localhost onto your server.
 - [Shizaru](https://tildegit.org/solderpunk/shizaru) - Minimalistic web server whose guiding principle is “serve no evil”.
+- [Web criticisms](https://www.circumlunar.space/~solderpunk/web.html) - Collection of articles criticising various facets of the web.

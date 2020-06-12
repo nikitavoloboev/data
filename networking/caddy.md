@@ -10,3 +10,4 @@
 - [caddy-json-schema](https://github.com/abiosoft/caddy-json-schema) - JSON schema generator for Caddy v2.
 - [Caddy Cluster / Certmagic TLS cluster support for Redis](https://github.com/gamalan/caddy-tlsredis)
 - [caddy-yaml](https://github.com/abiosoft/caddy-yaml) - Alternative Caddy YAML config adapter with extra features.
+- [Project Conncept](https://github.com/mholt/conncept) - Layer 4 app for Caddy that multiplexes raw TCP/UDP streams.

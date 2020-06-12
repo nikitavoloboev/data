@@ -96,6 +96,7 @@ And these Discord servers:
 - [Rest of World](https://restofworld.org/) - International nonprofit journalism organization. We document what happens when technology, culture and the human experience collide.
 - [Wikipedia Random](https://en.wikipedia.org/wiki/Special:Random) - Open a random wikipedia page.
 - [Personal RSS feed](https://news.routley.io/)
+- [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/) - Solar-powered, self-hosted version of Low-tech Magazine.
 
 ## Notes
 

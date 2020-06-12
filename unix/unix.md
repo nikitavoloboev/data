@@ -31,3 +31,5 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [The beauty of Unix pipelines (2020)](https://prithu.xyz/posts/unix-pipeline/) ([HN](https://news.ycombinator.com/item?id=23420786))
 - [Relational pipes](https://relational-pipes.globalcode.info/v_0/index.xhtml) - Open data format designed for streaming structured data between two processes.
 - [Is Sudo Almost Useless? (2020)](https://security.stackexchange.com/questions/232924/is-sudo-almost-useless) ([HN](https://news.ycombinator.com/item?id=23468456))
+- [tildeverse](https://tildeverse.org/) - Loose association of like-minded tilde communities.
+- [SDF Public Access UNIX System](https://sdf.org/)

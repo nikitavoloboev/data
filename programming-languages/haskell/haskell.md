@@ -144,3 +144,4 @@
 - [nix-hs](https://github.com/pjones/nix-hs) - Thin layer over the existing Haskell infrastructure in nixpkgs which adds all of the tools needed for interactive development.
 - [Haskell for Imperative Programmers (2020)](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
 - [Haskell Zettelkasten](https://haskell.zettel.page/) - Seeks to be a comprehensive community-maintained knowledge-base for Haskell. ([Code](https://github.com/Kuratoro/haskell.zettel.page))
+- [Opening Ceremony & "Languages all the way down" by Rob Rix - ZuriHac 2020](https://www.youtube.com/watch?v=kCpQ4aTzlis)
