@@ -17,6 +17,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Mosaic](https://playmosaic.online/) - Online multiplayer boardgame to play with all (2-4) of your friends. ([Code](https://github.com/maciejmatu/mosaic))
 - [Ring of Worlds](https://www.ringofworlds.com/) - Multiplayer card game written in Haskell and Elm. ([Code](https://github.com/RoganMurley/Ring-of-Worlds))
 - [Mareo](https://reasonml-community.github.io/Mareo/) - HTML 5 canvas implementation of Mario in Reason + Bucklescript. ([Code](https://github.com/reasonml-community/Mareo))
+- [Counter-Strike 1.6 in your browser](https://cs-online.club/) ([HN](https://news.ycombinator.com/item?id=23497236))
 
 ## Awesome OSS games
 

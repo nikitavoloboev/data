@@ -49,3 +49,4 @@
 - [Pinebook Pro Six Months In (2020)](https://wiki.alopex.li/PinebookProSixMonthsIn) ([Lobsters](https://lobste.rs/s/rkfd2e/pinebook_pro_six_months))
 - [GoKey](https://github.com/f-secure-foundry/GoKey) - Bare metal Go smart card.
 - [USB-C is still a mess (2020)](https://www.androidauthority.com/state-of-usb-c-870996/) ([HN](https://news.ycombinator.com/item?id=23435805))
+- [Brilliant Hardware in the Valley of the Software Slump (2020)](https://craigmod.com/essays/software_slump/) ([HN](https://news.ycombinator.com/item?id=23497842))
