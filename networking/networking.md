@@ -115,5 +115,4 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Old box, dumb code, few thousand connections, no big deal (2020)](https://rachelbythebay.com/w/2020/05/07/serv/) ([Lobsters](https://lobste.rs/s/mk1jso/old_box_dumb_code_few_thousand)) ([HN](https://news.ycombinator.com/item?id=23107945))
 - [Fast Subnet Matching (2020)](https://siliconsprawl.com/2020/06/07/fast-subnet-matching.html)
 - [spoof](https://github.com/feross/spoof) - Easily spoof your MAC address in macOS, Windows, & Linux.
-- [What is Gemini protocol? (2020)](https://toobnix.org/videos/watch/8ee54700-971c-4da3-a8b4-7a78ed9ac42e)
 - [Circumlunar Space](https://www.circumlunar.space/) - Confederation of independently administered but tightly interconnected public access unix servers, with a special emphasis on gopher hosting.
