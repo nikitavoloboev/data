@@ -120,4 +120,4 @@
 - [How async should have been in Python (2020)](https://sobolevn.me/2020/06/how-async-should-have-been) ([Lobsters](https://lobste.rs/s/srbshw/how_async_should_have_been_python))
 - [Pycopy](https://github.com/pfalcon/pycopy) - Minimalist and memory-efficient Python implementation. Good for desktop, cloud, constrained systems, microcontrollers, and just everything. ([HN](https://news.ycombinator.com/item?id=23446721))
 - [Packaging without setup.py (2020)](https://pgjones.dev/blog/packaging-without-setup-py-2020/)
-- [Async Python is not faster (2020)](http://calpaterson.com/async-python-is-not-faster.html) ([HN](https://news.ycombinator.com/item?id=23496994))
+- [Async Python is not faster (2020)](http://calpaterson.com/async-python-is-not-faster.html) ([HN](https://news.ycombinator.com/item?id=23496994)) ([Lobsters](https://lobste.rs/s/hyi7ov/async_python_is_not_faster))

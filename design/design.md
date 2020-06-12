@@ -100,3 +100,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [gestalten](https://gestalten.com/) - Focus on the aesthetic, particularly that of graphic design.
 - [Design for Developers Workshop](https://frontendmasters.com/courses/design-for-developers/) ([Code](https://github.com/sdras/design-for-developers))
 - [Nodesign.dev](https://nodesign.dev/) - Tools and resources for non artistic developers. ([HN](https://news.ycombinator.com/item?id=23454557))
+- [Flat UI Elements Attract Less Attention and Cause Uncertainty (2017)](https://www.nngroup.com/articles/flat-ui-less-attention-cause-uncertainty/) ([Lobsters](https://lobste.rs/s/gapqze/flat_ui_elements_attract_less_attention))

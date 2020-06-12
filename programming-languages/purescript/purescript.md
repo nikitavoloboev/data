@@ -11,3 +11,4 @@
 - [PUX](https://github.com/alexmingoia/purescript-pux) - Build type-safe web apps with PureScript.
 - [Functional Programming for the Web: PureScript Foreign Import and DOM Events (2020)](https://medium.com/@KevinBGreene/functional-programming-for-the-web-purescript-foreign-import-and-dom-events-8c76f6f5a16e)
 - [purescript-selda](https://github.com/Kamirus/purescript-selda) - Type-safe, high-level SQL library for PureScript.
+- [purerl](https://github.com/purerl/purerl) - PureScript Erlang backend.

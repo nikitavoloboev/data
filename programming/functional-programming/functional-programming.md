@@ -81,6 +81,7 @@
 - [Malfunction](https://github.com/stedolan/malfunction) - High-performance, low-level untyped program representation, designed as a target for compilers of functional programming languages.
 - [Practical type inference for arbitrary-rank types (2007)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf)
 - [Monads in 15 minutes: Backtracking and Maybe (2007)](http://www.randomhacks.net/2007/03/12/monads-in-15-minutes/)
+- [Functional Code is Honest Code (2020)](https://michaelfeathers.silvrback.com/functional-code-is-honest-code) ([Lobsters](https://lobste.rs/s/lwopua/functional_code_is_honest_code))
 
 ## Images
 
