@@ -170,3 +170,4 @@
 - [Callbag](https://github.com/callbag/callbag) - Standard for JS callbacks that enables lightweight observables and iterables.
 - [JavaScript Standard Style](https://standardjs.com/) - JavaScript style guide, linter, and formatter. ([Code](https://github.com/standard/standard))
 - [Boa](https://github.com/boa-dev/boa) - Experimental Javascript lexer, parser and compiler written in Rust.
+- [Understanding JavaScript Execution Context like never before (2020)](https://blog.greenroots.info/understanding-javascript-execution-context-like-never-before-ckb8x246k00f56hs1nefzpysq)
