@@ -7,7 +7,7 @@
 - [Tundra](https://github.com/deplinenoise/tundra) - Code build system that tries to be accurate and fast for incremental builds.
 - [gg](https://github.com/StanfordSNR/gg) - The Stanford Builder.
 - [mmake](https://github.com/tj/mmake) - Small program which wraps make to provide additional functionality, such as user-friendly help output, remote includes, and eventually more. It otherwise acts as a pass-through to standard make.
-- [Build Systems a la Carte](https://github.com/snowleopard/build) - Provides an executable framework for developing and comparing build systems, viewing them as related points in landscape rather than as isolated phenomena.
+- [Build Systems a la Carte](https://github.com/snowleopard/build) - Provides an executable framework for developing and comparing build systems, viewing them as related points in landscape rather than as isolated phenomena. ([Paper](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/build-systems-a-la-carte-theory-and-practice/097CE52C750E69BD16B78C318754C7A4))
 - [checkmake](https://github.com/mrtazz/checkmake) - Experimental linter/analyzer for Makefiles.
 - [CMake](https://cmake.org/) - Build, test and package software.
 - [Effective Modern CMake](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
