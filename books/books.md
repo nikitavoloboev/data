@@ -173,6 +173,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Matthew Bunday's reading list](https://zencephalon.com/reading/)
 - [Luke Smith's personal library](https://lukesmith.xyz/library)
 - [Ask HN: Which books have you read more than once? (2020)](https://news.ycombinator.com/item?id=23467400)
+- [Ask HN: What, in your opinion, are the greatest and most useful textbooks? (2020)](https://news.ycombinator.com/item?id=23485477)
 
 ## Notes
 
