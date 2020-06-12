@@ -42,3 +42,5 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [Your favorite ambient music producer at the moment? (2020)](https://www.reddit.com/r/ambientmusic/comments/gwqd29/your_favorite_ambient_music_producer_at_the_moment/)
 - [TOPLAP](https://toplap.org/) - Home of live coding.
 - [Radio Garden](http://radio.garden/) ([HN](https://news.ycombinator.com/item?id=23477771))
+- [The Mathematics of Music](https://imaginary.org/sites/default/files/20190911-lala-booklet-v0.4-web-text.pdf) ([HN](https://news.ycombinator.com/item?id=23486452))
+- [Music: a Mathematical Offering](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
