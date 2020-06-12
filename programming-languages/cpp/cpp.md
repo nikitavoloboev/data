@@ -93,3 +93,4 @@
 - [Learning to Code in C++ with Haiku OS](https://www.haiku-os.org/development/)
 - [C++ considered Harmful (and why E is better) (2008)](http://cshandley.co.uk/CppConsideredHarmful.html)
 - [Clang-Tidy](https://clang.llvm.org/extra/clang-tidy/) - Clang-based C++ “linter” tool.
+- [zapcc](https://github.com/yrnkrn/zapcc) - Caching C++ compiler based on clang, designed to perform faster compilations.

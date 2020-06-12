@@ -83,3 +83,4 @@
 - [Generating WebAssembly CPU Profiles in Go (2019)](https://agniva.me/wasm/2019/07/25/wasm-cpu-profiles.html)
 - [WebAssembly Weekly](https://wasmweekly.news/) - Community-driven weekly newsletter about WebAssembly.
 - [Schism](https://github.com/google/schism) - Experimental compiler from Scheme to WebAssembly.
+- [Rust, WebAssembly, and Javascript Make Three: An FFI Story (2019)](https://www.infoq.com/presentations/rust-webassembly-javascript/)
