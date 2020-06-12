@@ -89,6 +89,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Azlen Elza](https://notes.azlen.me/g3tibyfv/)
 - [Brady Joslin's TIL](https://til.bradyjoslin.com/_introduction/)
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
+- [David Gasquez](https://github.com/davidgasquez/handbook)
 - [Nat Eliason notes](https://www.nateliason.com/notes)
 - [Mike's Mind](https://tannenbaum.netlify.app/) ([Code](https://github.com/MikeTannenbaum/my-public-mind))
 - [David Seah](https://davidseah.gitbook.io/davidseah/) ([Code](https://github.com/davidseah/knowledgebank))
