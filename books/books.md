@@ -226,3 +226,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [LibraryThing](https://www.librarything.com/) - Catalog your books online.
 - [Bookshop](https://bookshop.org/) - Buy books online. Support local bookstores.
 - [Kindle Highlights](https://github.com/daneden/kindle-highlights) - Vercel/Next.js app to render my Kindle highlights.
+- [How I made \$3,300 on a short niche philosophy book (2020)](https://theotherlifenow.com/how-i-made-3300-on-a-short-niche-philosophy-book/) ([HN](https://news.ycombinator.com/item?id=23502179))
