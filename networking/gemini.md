@@ -10,3 +10,5 @@
 - [Toying with Gemini](https://andregarzia.com/2020/05/toying-with-gemini.html)
 - [molly-brown](https://tildegit.org/solderpunk/molly-brown) - Unsinkable Molly Brown: a full-featured Gemini server implemented in Go. ([Other implementation](https://github.com/jackdoe/net-gemini))
 - [Solderpunk](https://www.circumlunar.space/~solderpunk/) - Founder of Circumlunar Space, and the admin of the Mare Tranquillitatis People's Circumlunar Zaibatsu.
+- [VF-1](https://github.com/solderpunk/VF-1) - Command line gopher client. High speed, low drag.
+- [AV-98](https://tildegit.org/solderpunk/AV-98) - Experimental client for the Gemini protocol.
