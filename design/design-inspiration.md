@@ -69,7 +69,7 @@ Here are few more things I liked, design wise.
 - [Joel Hooks](https://joelhooks.com/)
 - [Brian Lovin](https://brianlovin.com/) ([Code](https://github.com/brianlovin/brian-lovin-next))
 - [Tania Rascia](https://www.taniarascia.com/) ([Code](https://github.com/taniarascia/taniarascia.com))
-- [Surma](https://dassur.ma/)
+- [Surma](https://surma.dev/)
 - [Alain](https://alain.xyz/)
 - [Varun Vachhar](https://varun.ca/)
 - [Ryan McGrath](https://rymc.io/)

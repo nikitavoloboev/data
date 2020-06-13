@@ -8,3 +8,4 @@
 - [PWA Music Player](https://playlist.iondrimbafilho.me/) - PWA Music Player made with Reactjs. ([Code](https://github.com/iondrimba/pwa-music-player))
 - [Awesome PWA](https://github.com/hemanth/awesome-pwa#readme)
 - [Building rich app experiences with Progressive Web Apps (2020)](https://www.youtube.com/watch?v=y4p_QHZtMKM)
+- [Project Fugu: A New Hope (2020)](https://joreteg.com/blog/project-fugu-a-new-hope)
