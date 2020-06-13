@@ -20,3 +20,4 @@
 - [Storytelling like Andy Raskin (2020)](https://medium.com/firm-narrative/want-a-better-pitch-watch-this-328b95c2fd0b)
 - [Shower Core](https://github.com/shower/core) - Core of Shower HTML presentation engine.
 - [Presentation Rules (2020)](http://www.jilles.net/perma/2020/06/05/presentation-rules.html)
+- [Hyperdeck](https://hyperdeck.io/) - Markdown Presentations for iPad and macOS.

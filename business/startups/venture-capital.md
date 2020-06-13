@@ -52,3 +52,4 @@
 - [A.Capital Ventures](https://acapital.com/)
 - [Founder Collective](https://www.foundercollective.com/)
 - [AirTree Ventures](https://www.airtree.vc/) - For Game-Changing Founders, First Round, Multiple Rounds.
+- [Examples of cold emails to VCs](https://twitter.com/paulbz/status/1271416616455192584)
