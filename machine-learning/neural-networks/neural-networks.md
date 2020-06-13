@@ -122,3 +122,4 @@
 - [Weight Standardization](https://github.com/joe-siyuan-qiao/WeightStandardization) - Normalization method to accelerate micro-batch training.
 - [Teaching Machines to Draw (2017)](https://blog.otoro.net/2017/05/19/teaching-machines-to-draw/) ([In action](https://otoro.net/sketch-rnn/))
 - [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://github.com/hendrycks/robustness)
+- [pix2code](https://github.com/tonybeltramelli/pix2code) - Generating Code from a Graphical User Interface Screenshot.
