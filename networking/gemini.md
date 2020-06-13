@@ -5,7 +5,8 @@
 ## Links
 
 - [Project Gemini](https://gemini.circumlunar.space/) ([HN](https://news.ycombinator.com/item?id=23042424))
-- [What is Gemini protocol? (2020)](https://toobnix.org/videos/watch/8ee54700-971c-4da3-a8b4-7a78ed9ac42e)
+- [What is Gemini? (2020)](https://www.youtube.com/watch?v=DoEI6VzybDk)
+- [What is Gopher?](https://www.youtube.com/watch?v=QGCSYyH2r6k)
 - [Gemini Proxy](https://proxy.vulpes.one/gemini/gemini.circumlunar.space/)
 - [Toying with Gemini](https://andregarzia.com/2020/05/toying-with-gemini.html)
 - [molly-brown](https://tildegit.org/solderpunk/molly-brown) - Unsinkable Molly Brown: a full-featured Gemini server implemented in Go. ([Other implementation](https://github.com/jackdoe/net-gemini))
