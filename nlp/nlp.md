@@ -113,3 +113,4 @@
 - [nlp](https://github.com/huggingface/nlp) - Lightweight and extensible library to easily share and access datasets and evaluation metrics for NLP.
 - [Brainsources for NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482)
 - [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning) ([Paper](https://arxiv.org/abs/2005.07683))
+- [NLP Resources](https://github.com/lyeoni/nlp-resources#readme)

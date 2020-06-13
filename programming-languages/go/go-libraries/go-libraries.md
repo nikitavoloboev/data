@@ -452,6 +452,7 @@
 - [fuse](https://github.com/jacobsa/fuse) - Go package for implementing a FUSE file system.
 - [go-serial](https://github.com/jacobsa/go-serial) - Allows you to read from and write to serial ports in Go.
 - [doubleratchet](https://github.com/status-im/doubleratchet) - Double Ratchet Algorithm implementation in Go.
+- [ipvs](https://github.com/cloudflare/ipvs) - Allows you to manage Linux IPVS services and destinations.
 
 ## Links
 
