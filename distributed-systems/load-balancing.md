@@ -10,3 +10,5 @@
 - [Inside the GitHub Load Balancer (2020)](https://www.haproxy.com/user-spotlight-series/inside-the-github-load-balancer/)
 - [Traefik Forward Auth](https://github.com/thomseddon/traefik-forward-auth) - Minimal forward authentication service that provides OAuth/SSO login and authentication for the traefik reverse proxy/load balancer.
 - [HAProxy](https://github.com/haproxy/haproxy) - Reliable, High Performance TCP/HTTP Load Balancer. ([Web](http://www.haproxy.org/))
+- [High Availability Load Balancers with Maglev (2020)](https://blog.cloudflare.com/high-availability-load-balancers-with-maglev/)
+- [Examining Load Balancing Algorithms with Envoy (2020)](https://blog.envoyproxy.io/examining-load-balancing-algorithms-with-envoy-1be643ea121c)

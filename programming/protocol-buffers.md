@@ -17,3 +17,4 @@
 - [Nanopb](https://github.com/nanopb/nanopb) - Protocol Buffers for Embedded Systems.
 - [anyvendor](https://github.com/solo-io/anyvendor) - All purpose tool to make working with protoc easier.
 - [proto](https://github.com/emicklei/proto) - Package in Go for parsing Google Protocol Buffers.
+- [hrpc](https://github.com/mafintosh/hrpc) - Simple RPC with Protobuf Services.
