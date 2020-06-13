@@ -12,3 +12,5 @@
 - [Suslik](https://github.com/TyGuS/suslik) - Synthesis of Heap-Manipulating Programs from Separation Logic.
 - [CSE 291: Program Synthesis course](https://github.com/nadia-polikarpova/cse291-program-synthesis)
 - [Nadia Polikarpova: Liquid resource types for verification and synthesis (2020)](https://www.youtube.com/watch?v=BW3ZDtjD_Yw)
+- [Implementation of the paper "Automatic Program Synthesis of Long Programs with a Learned Garbage Collector"](https://github.com/amitz25/PCCoder)
+- [Deepcoder](https://github.com/dkamm/deepcoder) - Deepcoder paper implementation.
