@@ -22,3 +22,4 @@
 - [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin#readme) - Curated list of awesome open source sysadmin resources.
 - [Using SRE to meet reliability challenges | Google Cloud (2020)](https://cloud.google.com/blog/products/management-tools/meeting-reliability-challenges-with-sre-principles)
 - [Gruntwork](https://gruntwork.io/) - DevOps as a Service.
+- [pyinfra](https://github.com/Fizzadar/pyinfra) - Automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.
