@@ -21,6 +21,7 @@ I love using [Hugo](hugo.md) for generating static websites. I then use [Netlify
 - [VitePress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [Haunt](https://dthompson.us/projects/haunt.html) - Simple, functional, hackable static site generator that gives authors the ability to treat websites as Scheme programs.
 - [Hakyll](https://jaspervdj.be/hakyll/) - Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs. ([Code](https://github.com/jaspervdj/hakyll))
+- [Hexo](https://github.com/hexojs/hexo) - Fast, simple & powerful blog framework, powered by Node.js.
 
 ## Notes
 
