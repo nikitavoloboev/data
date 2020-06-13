@@ -120,3 +120,4 @@
 - [Neural networks trained to communicate with each other without any training data](https://twitter.com/noahtren/status/1269035375051386880)
 - [Classical Piano Composer](https://github.com/Skuldur/Classical-Piano-Composer) - Allows you to train a neural network to generate midi music files that make use of a single instrument.
 - [Weight Standardization](https://github.com/joe-siyuan-qiao/WeightStandardization) - Normalization method to accelerate micro-batch training.
+- [Teaching Machines to Draw (2017)](https://blog.otoro.net/2017/05/19/teaching-machines-to-draw/) ([In action](https://otoro.net/sketch-rnn/))
