@@ -11,3 +11,4 @@
 - [The Rise and Fall of Commercial Smalltalk (2020)](http://www.wirfs-brock.com/allen/posts/914)
 - [Smalltalk-72](https://smalltalkzoo.thechm.org/HOPL-St72.html?snippets) - First operating Smalltalk system.
 - [The evolution of Smalltalk: from Smalltalk-72 through Squeak (2020)](https://dl.acm.org/doi/abs/10.1145/3386335)
+- [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) ([HN](https://news.ycombinator.com/item?id=23496800))
