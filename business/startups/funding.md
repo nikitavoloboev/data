@@ -51,3 +51,4 @@
 - [On Deck](https://www.beondeck.com/openhouse) - Builds community around a cohort of experienced founders in the formative stages of starting a company.
 - [Indiegogo](https://www.indiegogo.com/) - Crowdfund Innovations & Support Entrepreneurs.
 - [fosspay](https://github.com/ddevault/fosspay) - Donation collection for FOSS groups and individuals.
+- [Coil](https://coil.com/) - Experience web monetized content in your browser while supporting sites you love in real time.
