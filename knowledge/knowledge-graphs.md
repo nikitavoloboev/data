@@ -25,3 +25,4 @@
 - [WikiRank](https://github.com/turtlesoupy/WikiRank) - Investigation into performing PageRank on Wikipedia articles in order to quantify influence of different items.
 - [Knowledge Graph Navigator](http://knowledgegraphnavigator.com/) - macOS application is an intelligent interface for exploring Knowledge Graphs.
 - [Learning to Retrieve Reasoning Paths over Wikipedia Graph for Question Answering (2020)](https://arxiv.org/abs/1911.10470)
+- [Extracting Structured Data from Templatic Documents (2020)](https://ai.googleblog.com/2020/06/extracting-structured-data-from.html) ([HN](https://news.ycombinator.com/item?id=23502131))

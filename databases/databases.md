@@ -51,7 +51,7 @@
 - [Sonnerie](https://github.com/njaard/sonnerie) - Simple timeseries database.
 - [SQLite compiled to JavaScript](https://github.com/kripken/sql.js)
 - [Dolt](https://github.com/liquidata-inc/dolt) - Relational database, i.e. it has tables, and you can execute SQL queries against those tables. It also has version control primitives that operate at the level of table cell.
-- [Crux](https://github.com/juxt/crux) - Open source document database with bitemporal graph queries. ([Website](https://opencrux.com/)) ([Article](https://jorin.me/crux-as-general-purpose-database/))
+- [Crux](https://github.com/juxt/crux) - Open source document database with bitemporal graph queries. ([Website](https://opencrux.com/)) ([Article](https://jorin.me/crux-as-general-purpose-database/)) ([HN](https://news.ycombinator.com/item?id=23493163))
 - [LokiJS](https://github.com/techfort/LokiJS) - Document oriented database written in JavaScript.
 - [terrier](https://github.com/cmu-db/terrier) - Carnegie Mellon's new database system project that is replacing [Peloton](https://github.com/cmu-db/peloton).
 - [Nebula Graph](https://github.com/vesoft-inc/nebula) - Open-source graph database capable of hosting super large scale graphs with dozens of billions of vertices (nodes) and trillions of edges, with milliseconds of latency. ([HN](https://news.ycombinator.com/item?id=22051271))

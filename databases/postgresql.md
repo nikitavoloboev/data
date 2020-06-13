@@ -100,3 +100,4 @@
 - [Kanel](https://github.com/kristiandupont/kanel) - Generate Typescript types from Postgres.
 - [5 Ways to Host PostgreSQL Databases (2020)](https://www.prisma.io/blog/ways-to-host-postgresql-w0xrhqqgp4zp)
 - [Jepsen: PostgreSQL 12.3 (2020)](http://jepsen.io/analyses/postgresql-12.3) ([HN](https://news.ycombinator.com/item?id=23498781))
+- [pgsodium](https://github.com/michelp/pgsodium) - Modern cryptography for PostgreSQL using libsodium. ([HN](https://news.ycombinator.com/item?id=23476248))
