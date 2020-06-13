@@ -49,3 +49,4 @@
 - [XCOrganizer](https://xcorganizer.com/) - Using metadata it finds all your Xcode Projects, Xcode Workspaces and Xcode Playgrounds in seconds.
 - [Awesome and useful Xcode defaults](https://github.com/ctreffs/xcode-defaults#readme)
 - [XCOrganizer](https://xcorganizer.com/) - Know Your XCode Projects.
+- [Xcode build times visualization per target](https://github.com/PaulTaykalo/xcode-build-times-rendering)

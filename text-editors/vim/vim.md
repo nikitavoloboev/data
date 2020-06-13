@@ -53,3 +53,4 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - [Missing Semester VIM lecture (2020)](https://www.youtube.com/watch?v=a6Q8Na575qc) ([HN](https://news.ycombinator.com/item?id=23436392))
 - [Make Vim Amazing videos](https://www.youtube.com/playlist?list=PLm323Lc7iSW9kRCuzB3J_h7vPjIDedplM)
 - [Vim Life videos](https://www.youtube.com/playlist?list=PLm323Lc7iSW9CtibHhhQErDh167XfL4EU)
+- [General purpose Language Server that integrate with linter to support diagnostic features](https://github.com/iamcco/diagnostic-languageserver)

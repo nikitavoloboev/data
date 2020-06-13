@@ -84,3 +84,4 @@
 - [WebAssembly Weekly](https://wasmweekly.news/) - Community-driven weekly newsletter about WebAssembly.
 - [Schism](https://github.com/google/schism) - Experimental compiler from Scheme to WebAssembly.
 - [Rust, WebAssembly, and Javascript Make Three: An FFI Story (2019)](https://www.infoq.com/presentations/rust-webassembly-javascript/)
+- [Rust WebAssembly Workshop](https://github.com/rylev/rust-wasm-workshop)

@@ -238,3 +238,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Basecamp Policies, Terms, and Legal Stuff](https://basecamp.com/about/policies) ([Code](https://github.com/basecamp/policies))
 - [skill-tree](https://github.com/nikomatsakis/skill-tree) - Tool for rendering "skill trees", currently using graphviz.
 - [unFTP](https://github.com/bolcom/unFTP) - FTP(S) server with a couple of twists written in Rust.
+- [Zenoh](http://zenoh.io/) - Zero Overhead, Pub/Sub, Store, Query, and Compute Protocol. ([Code](https://github.com/eclipse-zenoh/zenoh))

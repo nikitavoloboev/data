@@ -10,3 +10,4 @@
 - [Toucan](https://jointoucan.com/) - Teaches you new skills while you browse the web.
 - [Unker Non-Linear Writing System](https://s.ai/nlws/) ([Lobsters](https://lobste.rs/s/r7qucz/unker_non_linear_writing_system))
 - [Notation and thought](https://github.com/hypotext/notation#readme) - Collection of quotes on notation design & how it affects thought.
+- [Repo to track the evolution of notation in arts and sciences](https://github.com/prathyvsh/notation#readme)

@@ -140,6 +140,7 @@
 - [rabbithole-rs](https://github.com/UkonnRa/rabbithole-rs) - Nearly well-typed, user-friendly JSON:API type system, with an easy-to-use Macro System to help you modelling the your data.
 - [once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros.
 - [lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - Macro for declaring lazily evaluated statics in Rust.
+- [partial_application](https://github.com/Emerentius/partial_application) - Partial function application macro for Rust.
 
 ## Other
 
@@ -412,6 +413,8 @@
 - [jlrs](https://github.com/Taaitaaiger/jlrs) - Julia bindings for Rust.
 - [json_typegen](https://github.com/evestera/json_typegen) - Rust types from JSON samples.
 - [pathfinding](https://github.com/samueltardieu/pathfinding) - Implements several pathfinding, flow, and graph algorithms in Rust.
+- [bstr](https://github.com/BurntSushi/bstr) - String type for Rust that is not required to be valid UTF-8.
+- [cron](https://github.com/zslayton/cron) - Cron expression parser in Rust.
 
 ## Cargo Plugins
 
@@ -426,6 +429,7 @@
 - [cargo cache](https://github.com/matthiaskrgr/cargo-cache) - Manage cargo cache (\${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively.
 - [cargo-instruments](https://github.com/cmyr/cargo-instruments) - Cargo plugin to generate Xcode Instruments trace files.
 - [stack-sizes](https://github.com/japaric/stack-sizes) - Tools to print stack usage information emitted by LLVM in human readable format.
+- [cargo-spellcheck](https://github.com/drahnr/cargo-spellcheck) - Checks all your documentation for spelling mistakes.
 
 ## Links
 
