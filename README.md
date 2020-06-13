@@ -4,16 +4,6 @@ This is my personal wiki where I share [everything I know](sharing/everything-I-
 
 If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals in a lot of detail.
 
-## Using the wiki well
-
-You can quickly search the contents of this wiki above or you can explore the tree view to the left.
-
-You can access [any entry](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
-
-Aside from this wiki, I share [code snippets](https://code.nikitavoloboev.xyz) and build [Learn Anything](ideas/learn-anything.md).
-
-## Visualized
-
 Below are notes & their relations [visualized with Obsidian](https://twitter.com/nikitavoloboev/status/1271505869872803849).
 
 ![](https://i.imgur.com/EKipXdP.png)
@@ -30,6 +20,14 @@ This wiki is large. 25513+ lines of markdown large (calculated with [loc](https:
 --------------------------------------------------------------------------------
  Markdown               824        29861         4348            0        25513
 ```
+
+## Using the wiki well
+
+You can quickly search the contents of this wiki above or you can explore the tree view to the left.
+
+You can access [any entry](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) from this wiki super fast using [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) workflow.
+
+Aside from this wiki, I share [code snippets](https://code.nikitavoloboev.xyz) and build [Learn Anything](ideas/learn-anything.md).
 
 ## Other things I wrote and shared
 
