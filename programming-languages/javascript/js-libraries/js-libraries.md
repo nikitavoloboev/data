@@ -266,6 +266,7 @@
 - [spect](https://github.com/spectjs/spect) - Reactive aspect-oriented web-framework.
 - [js-cid](https://github.com/multiformats/js-cid) - CID implementation in JavaScript.
 - [js-ipld-block](https://github.com/ipld/js-ipld-block) - Implementation of the Block data structure in JavaScript.
+- [wildcard-api](https://github.com/reframejs/wildcard-api) - Functions as API.
 
 ## Links
 

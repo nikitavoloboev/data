@@ -91,3 +91,5 @@
 - [Riemann](https://github.com/riemann/riemann) - Network event stream processing system, in Clojure.
 - [Collection of the papers, conference talks, articles, blog posts, interesting Twitter threads, HN/reddit comments on systems engineering](https://github.com/copyconstruct/library)
 - [Tess Rinearson - All Together Now: An Introduction to Distributed Consensus (2019)](https://www.youtube.com/watch?v=vMz3q8Mm1uY)
+- [Slurm](https://slurm.schedmd.com/quickstart.html) - Open source, fault-tolerant, and highly scalable cluster management and job scheduling system for large and small Linux clusters. ([Code](https://github.com/SchedMD/slurm))
+- [Submitit](https://github.com/facebookincubator/submitit) - Lightweight tool for submitting Python functions for computation within a Slurm cluster.
