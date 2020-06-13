@@ -51,3 +51,4 @@
 - [Serverless Workshop](https://github.com/DavidWells/serverless-workshop) - Open source serverless workshop. Ready to deploy serverless examples on AWS.
 - [StreamAlert](https://github.com/airbnb/streamalert) - Serverless, Realtime Data Analysis Framework.
 - [Koyeb](https://www.koyeb.com/) - Simple serverless processing workflows, on any cloud. ([HN](https://news.ycombinator.com/item?id=23488902))
+- [Cloud Functions for Firebase](https://github.com/firebase/functions-samples) ([Web](https://firebase.google.com/docs/functions))
