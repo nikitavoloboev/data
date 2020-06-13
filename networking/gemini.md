@@ -13,3 +13,5 @@
 - [VF-1](https://github.com/solderpunk/VF-1) - Command line gopher client. High speed, low drag.
 - [AV-98](https://tildegit.org/solderpunk/AV-98) - Experimental client for the Gemini protocol.
 - [Gopher clients](https://www.circumlunar.space/~solderpunk/clients.html)
+- [Micropubnix directory](https://www.circumlunar.space/~solderpunk/micropubnix.html)
+- [laika](https://github.com/gbmor/laika) - Async Gemini protocol server.
