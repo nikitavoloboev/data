@@ -35,3 +35,4 @@
 - [Julia as a cli calculator (2020)](https://krasjet.com/rnd.wlk/julia/) ([HN](https://news.ycombinator.com/item?id=23414872))
 - [Julia By Example](https://juliabyexample.helpmanual.io/) ([Code](https://github.com/samuelcolvin/JuliaByExample))
 - [Implement Your Own Source To Source AD in ONE day (2020)](http://blog.rogerluo.me/2019/07/27/yassad/) ([HN](https://news.ycombinator.com/item?id=23489743))
+- [Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) - Contains recipes for building binaries for Julia packages using BinaryBuilder.jl.

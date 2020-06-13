@@ -21,3 +21,4 @@
 - [Generative Image Inpainting](https://github.com/JiahuiYu/generative_inpainting) - DeepFill v1/v2 with Contextual Attention and Gated Convolution.
 - [BicycleGAN](https://github.com/junyanz/BicycleGAN) - PyTorch implementation for multimodal image-to-image translation.
 - [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](https://github.com/anvoynov/GANLatentDiscovery)
+- [Towards Photo-Realistic Virtual Try-On by Adaptively Generating ↔ Preserving Image Content](https://github.com/switchablenorms/DeepFashion_Try_On)

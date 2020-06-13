@@ -115,3 +115,4 @@
 - [carton](https://github.com/swiftwasm/carton) - Watcher, bundler, and test runner for your SwiftWasm apps.
 - [Calling Super at Runtime in Swift (2020)](https://steipete.wtf/posts/calling-super-at-runtime/)
 - [Swift Pointers Overview: Unsafe, Buffer, Raw and Managed Pointers (2020)](https://www.vadimbulavin.com/swift-pointers-overview-unsafe-buffer-raw-and-managed-pointers/)
+- [You don’t (always) need [weak self] (2019)](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef)
