@@ -42,3 +42,4 @@
 - [An Empirical Study on ARM Disassembly Tools (2020)](https://yajin.org/papers/issta20.pdf)
 - [Micro-RTSP](https://github.com/geeksville/Micro-RTSP) - Small library which can be used to serve up RTSP streams from resource constrained MCUs. It lets you trivially make a \$10 open source RTSP video stream camera.
 - [esp32](https://github.com/esp-rs/esp32) - Peripheral access crate for the ESP32.
+- [What are some of the most asked embedded systems interview questions? (2020)](https://www.reddit.com/r/embedded/comments/h7pdem/what_are_some_of_the_most_asked_embedded_systems/)

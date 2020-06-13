@@ -37,3 +37,4 @@
 - [RSSHub](https://rsshub.app/) - Open source, easy to use, and extensible RSS feed aggregator, it's capable of generating RSS feeds from pretty much everything. ([Code](https://github.com/DIYgod/RSSHub))
 - [go-rss](https://github.com/ungerik/go-rss) - Simple RSS parser for Go.
 - [siftrss](https://siftrss.com/) - Filter your RSS feeds and throw away the junk.
+- [FeedFox](https://github.com/manikandanraji/feedfox) - Modern RSS reader that allows you to play youtube videos, listen to podcasts, download torrents, browser reddit, twitter and view cat GIFs.
