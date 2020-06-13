@@ -12,6 +12,14 @@ You can access [any entry](https://github.com/nikitavoloboev/knowledge/blob/mast
 
 Aside from this wiki, I share [code snippets](https://code.nikitavoloboev.xyz) and build [Learn Anything](ideas/learn-anything.md).
 
+## Visualized
+
+Below are nodes & their relations [visualized with Obsidian](https://twitter.com/nikitavoloboev/status/1271505869872803849).
+
+![](https://i.imgur.com/EKipXdP.png)
+
+![](https://i.imgur.com/8XSjlqy.png)
+
 ## Other things I wrote and shared
 
 I share my knowledge in longer form by [writing articles](sharing/my-articles.md) and making [YouTube videos](https://www.youtube.com/channel/UCEKqrUfr_FMKIO9XSJS4vDw/videos).
