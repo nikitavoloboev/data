@@ -239,3 +239,4 @@
 - [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production#readme) - Notes and references about deploying deep learning-based models in production.
 - [Stanford Class on Deep Multi-Task and Meta-Learning (2019)](https://cs330.stanford.edu/) ([HN](https://news.ycombinator.com/item?id=23474846))
 - [Weights & Biases](https://github.com/wandb/client) - Tool for visualizing and tracking your machine learning experiments. ([Web](https://www.wandb.com/)) ([Docs](https://docs.wandb.com/))
+- [Protocols and Structures for Inference (PSI) spec](http://psi.cecs.anu.edu.au/spec/) - Aims to develop an architecture for presenting machine learning algorithms, their inputs (data) and outputs (predictors) as resource-oriented RESTful web services.
