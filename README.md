@@ -14,11 +14,22 @@ Aside from this wiki, I share [code snippets](https://code.nikitavoloboev.xyz) a
 
 ## Visualized
 
-Below are nodes & their relations [visualized with Obsidian](https://twitter.com/nikitavoloboev/status/1271505869872803849).
+Below are notes & their relations [visualized with Obsidian](https://twitter.com/nikitavoloboev/status/1271505869872803849).
 
 ![](https://i.imgur.com/EKipXdP.png)
 
 ![](https://i.imgur.com/8XSjlqy.png)
+
+This wiki is large. 25513+ lines of markdown large (calculated with [loc](https://github.com/cgag/loc/))
+
+```
+~/Dropbox/Write/knowledge
+❯ loc
+--------------------------------------------------------------------------------
+ Language             Files        Lines        Blank      Comment         Code
+--------------------------------------------------------------------------------
+ Markdown               824        29861         4348            0        25513
+```
 
 ## Other things I wrote and shared
 
