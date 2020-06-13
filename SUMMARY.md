@@ -294,6 +294,7 @@
   - [Forth](programming-languages/forth.md)
   - [Futhark](programming-languages/futhark.md)
   - [Pony](programming-languages/pony.md)
+  - [F#](programming-languages/fsharp.md)
   - [Language Server Protocol](programming-languages/language-server-protocol.md)
 - [Data Science](data-science/data-science.md)
   - [Data Visualization](data-science/data-visualization.md)
