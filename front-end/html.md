@@ -49,3 +49,5 @@
 - [keen-slider](https://github.com/rcbyr/keen-slider) - HTML touch slider carousel with the most native feeling.
 - [HTML Tutorial for Beginners 101 (Including HTML5 Tags) (2020)](https://websitesetup.org/html-tutorial-beginners/)
 - [ElaAdmin HTML5 Admin Dashboard Template](https://github.com/puikinsh/ElaAdmin)
+- [HTML5 Boilerplate](https://html5boilerplate.com/) - Professional front-end template for building fast, robust, and adaptable web apps or sites. ([Code](https://github.com/h5bp/html5-boilerplate))
+- [H5BP projects](https://h5bp.org/)
