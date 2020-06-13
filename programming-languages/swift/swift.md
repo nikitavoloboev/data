@@ -116,3 +116,4 @@
 - [Calling Super at Runtime in Swift (2020)](https://steipete.wtf/posts/calling-super-at-runtime/)
 - [Swift Pointers Overview: Unsafe, Buffer, Raw and Managed Pointers (2020)](https://www.vadimbulavin.com/swift-pointers-overview-unsafe-buffer-raw-and-managed-pointers/)
 - [You don’t (always) need [weak self] (2019)](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef)
+- [SwiftStatsDClient](https://github.com/apple/swift-statsd-client) - Metrics backend for swift-metrics that uses the statsd protocol.

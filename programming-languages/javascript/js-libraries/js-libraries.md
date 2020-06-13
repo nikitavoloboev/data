@@ -267,6 +267,8 @@
 - [js-cid](https://github.com/multiformats/js-cid) - CID implementation in JavaScript.
 - [js-ipld-block](https://github.com/ipld/js-ipld-block) - Implementation of the Block data structure in JavaScript.
 - [wildcard-api](https://github.com/reframejs/wildcard-api) - Functions as API.
+- [bpmn-js](https://github.com/bpmn-io/bpmn-js) - BPMN 2.0 rendering toolkit and web modeler.
+- [fit-curve](https://github.com/soswow/fit-curve) - JavaScript implementation of Philip J. Schneider's "Algorithm for Automatically Fitting Digitized Curves" from the book "Graphics Gems".
 
 ## Links
 

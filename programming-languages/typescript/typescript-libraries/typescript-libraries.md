@@ -48,6 +48,7 @@
 - [Monads](https://github.com/hqoss/monads) - Type safe Option, Result, and Either types; inspired by Rust.
 - [typecheck.macro](https://github.com/vedantroy/typecheck.macro) - Easy (and fast) typescript validation library/macro. Automatically generation validation functions for Typescript types.
 - [typed-assert](https://github.com/elierotenberg/typed-assert) - Typesafe TS assertion library.
+- [TS Pattern](https://github.com/gvergnaud/ts-pattern) - Complete Pattern Matching library for TypeScript, with smart type inference.
 
 ## Links
 
