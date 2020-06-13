@@ -15,3 +15,4 @@
 - [Gentle](https://github.com/lowerquality/gentle) - Robust yet lenient forced-aligner built on Kaldi. A tool for aligning speech with text.
 - [Porcupine](https://github.com/Picovoice/porcupine) - On-device wake word detection powered by deep learning.
 - [Eesen](https://github.com/srvk/eesen) - End-to-End Speech Recognition using Deep RNN Models and WFST-based Decoding.
+- [Ask HN: Is there any work being done in speech-to-code with deep learning? (2020)](https://news.ycombinator.com/item?id=23497756)

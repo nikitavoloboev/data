@@ -453,6 +453,7 @@
 - [go-serial](https://github.com/jacobsa/go-serial) - Allows you to read from and write to serial ports in Go.
 - [doubleratchet](https://github.com/status-im/doubleratchet) - Double Ratchet Algorithm implementation in Go.
 - [ipvs](https://github.com/cloudflare/ipvs) - Allows you to manage Linux IPVS services and destinations.
+- [gojsonschema](https://github.com/xeipuuv/gojsonschema) - Implementation of JSON Schema.
 
 ## Links
 
