@@ -76,3 +76,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - Tool for cleaning up your cloud accounts by nuking (deleting) all resources within it.
 - [Odin](https://github.com/coinbase/odin) - Deploy your 12-factor-applications to AWS easily and securely.
 - [Map Of Computing Architectures for AWS (2020)](https://moca.computingarchitectures.com/en/~hello-world/) ([HN](https://news.ycombinator.com/item?id=23497325))
+- [AWS notes](https://www.notion.so/AWS-a5192e36ddc74aecb1e8c1ea9221a1e0)
