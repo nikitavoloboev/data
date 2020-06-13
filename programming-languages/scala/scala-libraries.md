@@ -35,6 +35,7 @@
 - [Deequ](https://github.com/awslabs/deequ) - Library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 - [Izumi](https://github.com/7mind/izumi) - Ecosystem of independent libraries and frameworks allowing you to significantly increase productivity of your Scala development.
 - [Odin](https://github.com/valskalla/odin) - Fast & Functional logger in Scala.
+- [Monix](https://github.com/monix/monix) - Asynchronous, Reactive Programming for Scala and Scala.js.
 
 ## Links
 
