@@ -57,3 +57,4 @@
 - [Neuropod](https://github.com/uber/neuropod) - Uniform interface to run deep learning models from multiple frameworks.
 - [aerosolve](https://github.com/airbnb/aerosolve) - Machine learning package built for humans in Scala.
 - [Kur](https://github.com/deepgram/kur) - Descriptive Deep Learning.
+- [NNI (Neural Network Intelligence)](https://github.com/microsoft/nni) - Lightweight but powerful toolkit to help users automate Feature Engineering, Neural Architecture Search, Hyperparameter Tuning and Model Compression.
