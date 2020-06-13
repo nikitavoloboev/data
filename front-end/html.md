@@ -48,3 +48,4 @@
 - [Grid.js](https://gridjs.io/) - Free and open-source HTML table plugin written in TypeScript. ([HN](https://news.ycombinator.com/item?id=23420091)) ([Code](https://github.com/grid-js/gridjs))
 - [keen-slider](https://github.com/rcbyr/keen-slider) - HTML touch slider carousel with the most native feeling.
 - [HTML Tutorial for Beginners 101 (Including HTML5 Tags) (2020)](https://websitesetup.org/html-tutorial-beginners/)
+- [ElaAdmin HTML5 Admin Dashboard Template](https://github.com/puikinsh/ElaAdmin)

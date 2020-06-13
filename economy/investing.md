@@ -71,3 +71,4 @@
 - [Numerai](https://numer.ai/) - AI-run, crowd-sourced hedge fund.
 - [FINVIZ](https://www.finviz.com/) - Stock Screener.
 - [How do I get better at following lesser known stocks? (2020)](https://www.reddit.com/r/investing/comments/gyax1h/how_do_i_get_better_at_following_lesser_known/)
+- [Fortune 500 companies](https://fortune.com/fortune500/) ([Parsed as CSV](https://github.com/cmusam/fortune500))
