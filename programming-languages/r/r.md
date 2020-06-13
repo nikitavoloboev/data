@@ -19,3 +19,4 @@
 - [A roadmap for getting started with R (2020)](https://oscarbaruffa.com/a-roadmap-for-getting-started-with-r/)
 - [hugodown](https://github.com/r-lib/hugodown) - Make websites with hugo and RMarkdown.
 - [Palmer Archipelago (Antarctica) Penguins data package](https://github.com/allisonhorst/penguins)
+- [Plumber](https://github.com/rstudio/plumber) - Turn your R code into a web API.

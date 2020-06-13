@@ -2,11 +2,9 @@
 
 I once used Timing app to fully automate tracking time I spend on my computer.
 
-![](https://i.imgur.com/K2wrkjS.png)
+![](https://i.imgur.com/tj0nmih.png)
 
 I setup projects in Timing with rules assigned for each project. I then had Timing infer time I spent on these projects automatically based on the rules.
-
-![](https://i.imgur.com/Kcvxqjh.png)
 
 No longer use any tracking apps as part of my minimization of tools I use.
 

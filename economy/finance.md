@@ -2,9 +2,9 @@
 
 For my own personal finance, I budget all my money with my online bank app, [Monzo](https://monzo.com) and its Pots feature.
 
-I have a `Save` pot that has a goal of 3000 pounds. The 3000 pound is the minimum amount I need to hold in order to be safe from any emergency spending.
+I have a `Save` pot that has a goal of 5000 pounds. The 5000 pound is the minimum amount I need to hold in order to be safe from any emergency spending.
 
-![](https://i.imgur.com/Alqu6xx.jpg)
+![](https://i.imgur.com/YeXC4bl.jpg)
 
 I use [YNAB methodology](https://www.youneedabudget.com/method/) to proactively budget my finances. Monzo provides nice tools to budget money I want to spend by category.
 
@@ -16,13 +16,15 @@ I also use [N26](https://n26.com/en-gb/) bank in cases where I need Maestro card
 
 I use [Bobby](https://itunes.apple.com/us/app/bobby-track-subscriptions/id1059152023?mt=8) iOS app to track my ongoing subscriptions. I review it monthly on my scheduled monthly reviews and make sure I don't subscribe to any subscriptions that I find bring no value to my life or subscriptions that my budget doesn't allow to continue.
 
-![](https://i.imgur.com/JiZtDlh.jpg)
+![](https://i.imgur.com/jqrRhJe.jpg)
+
+![](https://i.imgur.com/Gz7jCjA.png)
 
 ## Tracking what to buy next
 
 I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These are just tasks with `buy` tag in 2Do sorted by priority. Here is how it looks:
 
-![](https://i.imgur.com/CmR8PXf.png)
+![](https://i.imgur.com/UsmrqL3.jpg)
 
 ## Notes
 
