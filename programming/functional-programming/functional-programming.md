@@ -82,6 +82,7 @@
 - [Practical type inference for arbitrary-rank types (2007)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf)
 - [Monads in 15 minutes: Backtracking and Maybe (2007)](http://www.randomhacks.net/2007/03/12/monads-in-15-minutes/)
 - [Functional Code is Honest Code (2020)](https://michaelfeathers.silvrback.com/functional-code-is-honest-code) ([Lobsters](https://lobste.rs/s/lwopua/functional_code_is_honest_code))
+- [Talk: Denotational Design: from meanings to programs](https://github.com/conal/talk-2014-lambdajam-denotational-design)
 
 ## Images
 

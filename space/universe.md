@@ -15,3 +15,4 @@
 - [Probing cosmic isotropy with a new X-ray galaxy cluster sample through the LX–T scaling relation (2019)](https://www.aanda.org/articles/aa/abs/2020/04/aa36602-19/aa36602-19.html)
 - [Beyond the Cosmic Horizon (2019)](https://www.youtube.com/watch?v=kZ3M6ko9pes)
 - [Event Horizons, Singularities and Other Exotic Spacetime Phenomena (2020)](https://writings.stephenwolfram.com/2020/05/event-horizons-singularities-and-other-exotic-spacetime-phenomena/) ([HN](https://news.ycombinator.com/item?id=23251035))
+- [New Distance Measurements Bolster Challenge to Basic Model of Universe (2020)](https://public.nrao.edu/news/challenge-model-of-universe/)

@@ -27,6 +27,7 @@
 - [Why is Readwise killing it? Thread on their strategy. (2020)](https://twitter.com/sidharthajha/status/1223974782682697729)
 - [Swipe Files](https://www.swipefiles.co/) - Marketing & Copywriting Examples Library.
 - [TLDR Marketing](https://tldrmarketing.com/) - Daily feed of digital marketing news without the fluff.
+- [Pre-Brand](https://pre-brand.com/) - You don’t need a perfect brand, you need to keep moving.
 
 ## Images
 
