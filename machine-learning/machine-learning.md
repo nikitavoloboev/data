@@ -240,4 +240,3 @@
 - [Stanford Class on Deep Multi-Task and Meta-Learning (2019)](https://cs330.stanford.edu/) ([HN](https://news.ycombinator.com/item?id=23474846))
 - [Weights & Biases](https://github.com/wandb/client) - Tool for visualizing and tracking your machine learning experiments. ([Web](https://www.wandb.com/)) ([Docs](https://docs.wandb.com/))
 - [Protocols and Structures for Inference (PSI) spec](http://psi.cecs.anu.edu.au/spec/) - Aims to develop an architecture for presenting machine learning algorithms, their inputs (data) and outputs (predictors) as resource-oriented RESTful web services.
-- [Machine Learning Field Guide (2020)](https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx)
