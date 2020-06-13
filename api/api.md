@@ -81,6 +81,7 @@
 - [SpaceX API](https://github.com/r-spacex/SpaceX-API) - Open Source REST API for rocket, core, capsule, pad, and launch data.
 - [GitLab Go](https://github.com/xanzy/go-gitlab)
 - [Robintrack](https://github.com/Ameobea/robintrack) - Scrapes the Robinhood API to retrieve + store popularity and price data. ([Web](http://robintrack.net/))
+- [OpenAI API](https://beta.openai.com/)
 
 ## Links
 

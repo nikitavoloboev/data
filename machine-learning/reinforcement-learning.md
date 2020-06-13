@@ -77,3 +77,4 @@
 - [Slime Volleyball Gym Environment](https://github.com/hardmaru/slimevolleygym) - Simple OpenAI Gym environment for single and multi-agent reinforcement learning.
 - [References on Optimal Control, Reinforcement Learning and Motion Planning](https://github.com/eleurent/phd-bibliography#readme)
 - [NetHack Learning Environment (NLE)](https://github.com/facebookresearch/nle) - Reinforcement Learning environment based on NetHack 3.6.
+- [RL-CycleGAN: Reinforcement Learning Aware Simulation-To-Real (2020)](http://openaccess.thecvf.com/content_CVPR_2020/papers/Rao_RL-CycleGAN_Reinforcement_Learning_Aware_Simulation-to-Real_CVPR_2020_paper.pdf)
