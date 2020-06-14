@@ -65,3 +65,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [SparkPost](https://www.sparkpost.com/) - Predictive email intelligence platform, helping brands predict and optimize email performance.
 - [MailChecker](https://github.com/FGRibreau/mailchecker) - Cross-language email validation. Backed by a database of over 30 000 throwable email domains.
 - [EmailOctopus](https://emailoctopus.com/) - Email marketing for less.
+- [SendGrid](https://sendgrid.com/) - Email Delivery Service.
