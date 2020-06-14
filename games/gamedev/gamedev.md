@@ -1,5 +1,9 @@
 # Game development
 
+## Studios
+
+- [Goldborough Studio](https://www.goldboroughstudio.com/)
+
 ## Notes
 
 - Programming is about solving problems. Programming a game isn't really any different. I start by thinking what problem is this game going to solve, as well as what other games might already do that. For example if I was making a physics puzzle game I would also consider "Why aren't they just playing Portal instead of this?" And go from there.

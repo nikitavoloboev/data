@@ -31,3 +31,4 @@ Here are some things I am trying to improve with my health right now.
 - [AWAIR Element](https://www.getawair.com/home/element) - Cutting-edge air quality technology in a simple and affordable package.
 - [Why We Have So Many Problems with Our Teeth (2020)](https://www.scientificamerican.com/article/why-we-have-so-many-problems-with-our-teeth/) ([HN](https://news.ycombinator.com/item?id=23335368))
 - [Biohacking Lite (2020)](https://karpathy.github.io/2020/06/11/biohacking-lite/) ([HN](https://news.ycombinator.com/item?id=23501021))
+- [Apple is building an operating system for health (2020)](https://divinations.substack.com/p/healthos)([HN](https://news.ycombinator.com/item?id=23507600))

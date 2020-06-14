@@ -159,3 +159,4 @@
 - [The Mad Magazine Fold-In Effect in CSS (2020)](https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/) ([HN](https://news.ycombinator.com/item?id=23457930))
 - [CUBE CSS (2020)](https://piccalil.li/blog/cube-css/) - CSS methodology oriented towards simplicity and consistency with a heavy dosage of pragmatism.
 - [Awesome CSS Variables](https://github.com/notoriousb1t/awesome-css-variables#readme)
+- [Critical-ish CSS Extraction (2020)](https://giuseppegurgone.com/critical-css-extraction/)

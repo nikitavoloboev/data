@@ -37,3 +37,4 @@
 - [Elasticlunr.js](http://elasticlunr.com/) - Lightweight full-text search engine in JavaScript for browser search and offline search. ([Code](https://github.com/weixsong/elasticlunr.js))
 - [Zola](https://www.getzola.org/documentation/content/search/) - Can build a search index from the sections and pages content to be used by a JavaScript library such as elasticlunr.
 - [Creating a full-text search engine in Apache Pinot (2020)](https://medium.com/apache-pinot-developer-blog/text-analytics-on-apache-pinot-cbf5c45d282c) ([HN](https://news.ycombinator.com/item?id=23480941))
+- [HN: Building a Search Engine for Programmers (2020)](https://news.ycombinator.com/item?id=23512071)

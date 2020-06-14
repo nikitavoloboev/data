@@ -9,3 +9,4 @@
 - [Origin](https://www.origin.io) - Manufacturing-grade printer that enables additive mass production of end-use parts.
 - [Klipper](https://github.com/KevinOConnor/klipper) - 3d-printer firmware. It combines the power of a general purpose computer with one or more micro-controllers.
 - [Pepr3D](https://github.com/tomasiser/pepr3d) - Intuitive, free, and open-source 3D painting tool for coloring models intended for colorful 3D printing.
+- [A Tale of Two 3D Printers (2020)](https://blog.jessfraz.com/post/a-tale-of-two-3d-printers/)

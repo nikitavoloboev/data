@@ -109,3 +109,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Shizaru](https://tildegit.org/solderpunk/shizaru) - Minimalistic web server whose guiding principle is “serve no evil”.
 - [Web criticisms](https://www.circumlunar.space/~solderpunk/web.html) - Collection of articles criticising various facets of the web.
 - [Conifer](https://conifer.rhizome.org/) - Web archiving service that creates an interactive copy of any web page that you browse.
+- [Xiph.org](https://xiph.org/) - Non-profit corporation dedicated to protecting the foundations of Internet multimedia from control by private interests.
