@@ -117,3 +117,4 @@
 - [Swift Pointers Overview: Unsafe, Buffer, Raw and Managed Pointers (2020)](https://www.vadimbulavin.com/swift-pointers-overview-unsafe-buffer-raw-and-managed-pointers/)
 - [You don’t (always) need [weak self] (2019)](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef)
 - [SwiftStatsDClient](https://github.com/apple/swift-statsd-client) - Metrics backend for swift-metrics that uses the statsd protocol.
+- [The Curious Case of Swift's Adoption of Smalltalk Keyword Syntax (2020)](https://blog.metaobject.com/2020/06/the-curious-case-of-swift-adoption-of.html)

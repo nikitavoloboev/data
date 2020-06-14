@@ -48,6 +48,7 @@ Here are few more things I liked, design wise.
 
 - [Notion](https://www.notion.so)
 - [Muse](https://museapp.com/)
+- [Collected Notes](https://collectednotes.com/)
 - [Actual Budget](https://actualbudget.com/)
 - [Notable](https://notable.md/)
 - [Sizzy](https://sizzy.co/)
