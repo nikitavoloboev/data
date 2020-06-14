@@ -39,3 +39,4 @@
 - [Learning Statistics with R](https://learningstatisticswithr.com/) ([Code](https://github.com/djnavarro/rbook))
 - [What book do you recommend for how to apply statistics in the real world? (2020)](https://www.reddit.com/r/statistics/comments/gxvfj4/q_what_book_do_you_recommend_for_how_to_apply/)
 - [An Introduction to Monte Carlo (2020)](https://www.youtube.com/watch?v=nJ4EHpV9mJE)
+- [Forecasting with (un)certainty (2020)](https://www.causal.app/blog/forecasting-with-uncertainty)

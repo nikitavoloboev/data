@@ -17,3 +17,4 @@
 - [Untools](https://untools.co/) - Tools for better thinking. ([HN](https://news.ycombinator.com/item?id=23339830))
 - [Mental Models app](https://mentalmodels.edvo.com/) - Tools to help you think better and navigate life better.
 - [Running list of mental models to analyze technology, business, and product strategy](https://twitter.com/gonsanchezs/status/1270053477096587277)
+- [Measure: a mental model for decision-making (2019)](https://taimur.me/posts/measure-a-mental-model-for-decision-making/)

@@ -147,3 +147,4 @@
 - [Opening Ceremony & "Languages all the way down" by Rob Rix - ZuriHac 2020](https://www.youtube.com/watch?v=kCpQ4aTzlis)
 - [ZuriHac 2020](https://www.youtube.com/playlist?list=PLiU7KJ5_df6aZbNfh_TUJt-6w9N3rYkTX)
 - [Smuggler2](https://github.com/jrp2014/smuggler2) - Minimise haskell imports, make exports explicit.
+- [Alexis King - “Effects for Less” (2020)](https://www.youtube.com/watch?list=PLiU7KJ5_df6aZbNfh_TUJt-6w9N3rYkTX&v=0jI-AlWEwYI)

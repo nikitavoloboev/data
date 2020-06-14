@@ -49,3 +49,4 @@
 - [Recurse Center](https://www.recurse.com/) - Self-directed, community-driven educational retreat for programmers based in New York City and currently operating online.
 - [Lambda School Training Kit](https://learn.lambdaschool.com/) - Learning resources at Lambda School.
 - [Learning How to Learn (And 20+ Studies) (2020)](https://max2c.com/learning-how-to-learn/)
+- [Constructionism and the Future of Learning (2019)](https://taimur.me/posts/constructionism-and-the-future-of-learning/)
