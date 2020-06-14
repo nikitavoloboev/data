@@ -13,3 +13,4 @@
 - [objc-diff](https://github.com/mattstevens/objc-diff) - Objective-C API diff report generator.
 - [objc4](https://github.com/0xxd0/objc4) - Buildable and debuggable version of latest Objective-C runtime (objc4-781).
 - [Objective-C simulator written in Swift](https://github.com/NSExceptional/Runtime)
+- [The Origins of Objective-C at PPI/Stepstone and Its Evolution at NeXT (2020)](https://dl.acm.org/doi/pdf/10.1145/3386332)

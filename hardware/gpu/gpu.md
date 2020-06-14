@@ -15,3 +15,4 @@
 - [Understanding Latency Hiding on GPUs (2016)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.pdf) ([HN](https://news.ycombinator.com/item?id=23379709))
 - [Harlan](https://github.com/eholk/harlan) - Domain specific language for programming GPUs.
 - [Region-based memory management for expressive GPU programming (2015)](https://blog.theincredibleholk.org/papers/dissertation.pdf)
+- [Fast 2D rendering on GPU (2020)](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html)
