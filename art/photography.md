@@ -46,3 +46,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Abstract: The Art of Design | Platon: Photography (2020)](https://www.youtube.com/watch?v=BDpqt-haLLM) ([Reddit](https://www.reddit.com/r/photography/comments/gv6pxs/abstract_the_art_of_design_platon_photography/))
 - [What is a digital photo, really? (2020)]https://capnfabs.net/posts/what-is-a-digital-photo-really/)
 - [How Does Lossless Compression in Fuji RAF Files work? (2020)](https://capnfabs.net/posts/fuji-raf-compression-algorithm/)
+- [Computational Photography - From Selfies to Black Holes](https://vas3k.com/blog/computational_photography/)
