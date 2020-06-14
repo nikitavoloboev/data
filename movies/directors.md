@@ -1,6 +1,6 @@
 # Film directors
 
-I made a list of my [favorite movie directors](https://letterboxd.com/nikitavoloboev/list/favorite-directors/) alongside my favorite movies from them.
+I made a list of my [favorite movie directors](https://www.imdb.com/list/ls080580530/) alongside my favorite movies from them.
 
 ## Interesting
 

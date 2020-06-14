@@ -62,3 +62,4 @@
 - [Snow](https://github.com/mcginty/snow) - Rust implementation of the Noise Protocol Framework.
 - [Real-World Cryptography book (2020)](https://www.manning.com/books/real-world-cryptography)
 - [How To Learn Cryptography as a Programmer (2020)](https://soatok.blog/2020/06/10/how-to-learn-cryptography-as-a-programmer/)
+- [Cifra](https://github.com/ctz/cifra) - Collection of cryptographic primitives targeted at embedded use.

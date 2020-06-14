@@ -176,6 +176,7 @@ Here are few more things I liked, design wise.
 - [Kabir Shah](https://kabir.sh/)
 - [Benedict Evans](https://www.ben-evans.com/)
 - [Moe Amaya](https://moeamaya.com/)
+- [Joe Birr-Pixton](http://jbp.io/)
 - [Matt Oswalt](https://oswalt.dev/) ([Code](https://github.com/Mierdin/blog))
 - [Wesley Moore](https://www.wezm.net/v2/)
 - [Tatiana Mac](https://tatianamac.com/)
