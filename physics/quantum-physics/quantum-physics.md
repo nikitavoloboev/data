@@ -23,3 +23,4 @@
 - [What did Schrodinger's Cat experiment prove? (2013)](https://wtamu.edu/~cbaird/sq/2013/07/30/what-did-schrodingers-cat-experiment-prove/) ([HN](https://news.ycombinator.com/item?id=23349052))
 - [Quantum Mechanical View of Reality - Richard Feynman](https://www.youtube.com/playlist?list=PLW_HsOU6YZRkdhFFznHNEfua9NK3deBQy)
 - [Scott Aaronson - Schrödinger's Cat and Quantum Necromancy (2020)](https://www.youtube.com/watch?v=xAYzTNFyazo)
+- [Q: What if the particles in the double slit experiment were conscious? Could you ask them which slit they went through afterwards? (2020)](https://www.askamathematician.com/2020/05/q-what-if-the-particles-in-the-double-slit-experiment-were-conscious-could-you-ask-them-which-slit-they-went-through-afterwards/)

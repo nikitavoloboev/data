@@ -21,3 +21,4 @@ My shell of choice. My config for it can be seen [here](https://github.com/nikit
 - [Speeding up Zsh](https://blog.jonlu.ca/posts/speeding-up-zsh)
 - [Some zshrc tricks (2020)](https://www.arp242.net/zshrc.html) ([Lobsters](https://lobste.rs/s/tgmzke/some_zshrc_tricks))
 - [5 Types Of ZSH Aliases You Should Know](https://thorsten-hans.com/5-types-of-zsh-aliases) ([HN](https://news.ycombinator.com/item?id=23309310))
+- [Zsh and Fish’s simple but clever trick for highlighting missing linefeeds (2020)](https://www.vidarholen.net/contents/blog/?p=878) ([HN](https://news.ycombinator.com/item?id=23520240))
