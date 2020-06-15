@@ -47,3 +47,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [What is a digital photo, really? (2020)]https://capnfabs.net/posts/what-is-a-digital-photo-really/)
 - [How Does Lossless Compression in Fuji RAF Files work? (2020)](https://capnfabs.net/posts/fuji-raf-compression-algorithm/)
 - [Computational Photography - From Selfies to Black Holes](https://vas3k.com/blog/computational_photography/)
+- [AMOR](http://amor.katebellm.com/) - Culmination of moments of Kates trips and travels over the last 10 years.

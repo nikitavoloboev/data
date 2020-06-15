@@ -17,3 +17,4 @@
 - [White Guyde To The Galaxy](https://tatianamac.com/posts/white-guyde/) - How to make meaningful change.
 - [GitHub Etiquette](https://github.com/kossnocorp/etiquette#readme)
 - [Virus Cafe](https://virus.cafe/) - Make a friend in 2 minutes. ([HN](https://news.ycombinator.com/item?id=23408144))
+- [On the right to disagree (2020)](https://wincent.com/blog/on-the-right-to-disagree)

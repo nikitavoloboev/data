@@ -44,3 +44,4 @@
 - [TensorFlow.js](https://github.com/tensorflow/tfjs) - WebGL accelerated JavaScript library for training and deploying ML models. ([Web](https://www.tensorflow.org/js/)) ([HN](https://news.ycombinator.com/item?id=23453308))
 - [TensorFlow benchmarks](https://github.com/tensorflow/benchmarks) - Contains various TensorFlow benchmarks.
 - [Deep Learning Tutorials with Tensorflow](https://github.com/xiaohu2015/DeepLearning_tutorials)
+- [TensorFlow vs PyTorch (2020)](https://www.reddit.com/r/datascience/comments/h8smv7/tensorflow_vs_tensorflow_20_vs_pytorch/)

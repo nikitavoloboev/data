@@ -160,3 +160,4 @@
 - [CUBE CSS (2020)](https://piccalil.li/blog/cube-css/) - CSS methodology oriented towards simplicity and consistency with a heavy dosage of pragmatism.
 - [Awesome CSS Variables](https://github.com/notoriousb1t/awesome-css-variables#readme)
 - [Critical-ish CSS Extraction (2020)](https://giuseppegurgone.com/critical-css-extraction/)
+- [7 CSS properties I had no idea about (2020)](https://dev.to/tlakomy/7-css-properties-you-had-no-idea-about-4e75)
