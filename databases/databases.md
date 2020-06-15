@@ -160,3 +160,5 @@
 - [DBCore](https://github.com/eatonphil/dbcore) - Code generator build around database schemas and an API specification.
 - [17 Things Developers Need to Know About Databases - Peter Zaitsev (2020)](https://www.youtube.com/watch?v=HOho4HyKqTE)
 - [Readings in Database Systems](http://www.redbook.io/) ([HN](https://news.ycombinator.com/item?id=23514686))
+- [Stanford Future Data Systems Research Group](http://futuredata.stanford.edu/)
+- [Stanford Data Management and Data Systems (2017)](https://cs145-fa19.github.io/)

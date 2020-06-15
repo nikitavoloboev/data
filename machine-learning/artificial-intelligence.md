@@ -22,3 +22,4 @@
 - [On the Measure of Intelligence (2019)](https://arxiv.org/pdf/1911.01547.pdf)
 - [Bored Humans](https://boredhumans.com/) - 40 fun artificial intelligence (AI) pages you can use for free.
 - [AI – the no bullshit approach (2020)](https://blog.piekniewski.info/2020/06/08/ai-the-no-bullshit-approach/)
+- [Stanford DAWN](https://dawn.cs.stanford.edu//) - Five-year research project to democratize AI by making it dramatically easier to build AI-powered applications.
