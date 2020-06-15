@@ -175,3 +175,4 @@
 - [Lobsters: What's the ideal developer experience in 2020?](https://lobste.rs/s/c8o1hu/what_s_ideal_developer_experience_2020)
 - [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html) ([Code](https://github.com/colin-scott/interactive_latencies)) ([HN](https://news.ycombinator.com/item?id=22166087))
 - [Annotated Debugger Implementation Bibliography](https://aarzilli.github.io/debugger-bibliography/) ([Code](https://github.com/aarzilli/debugger-bibliography))
+- [Conversational software development (2020)](https://oli.me.uk/conversational-software-development/)

@@ -30,6 +30,7 @@ My own dotfiles can be found [here](https://github.com/nikitavoloboev/dotfiles#r
 - [Samuel Meuli](https://github.com/samuelmeuli/dotfiles)
 - [xenodium](https://github.com/xenodium/dotsies) - Emacs.
 - [Vincent Ambo](https://git.tazj.in/about)
+- [Oliver Caldwell](https://github.com/Olical/dotfiles)
 
 ## Links
 

@@ -36,6 +36,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 
 ## Utility
 
+- [Conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet).
 - [vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right.
 - [express.vim](https://github.com/tommcdo/vim-express) - Easily create custom Vim operators using expressions and substitutions.
 - [completion-nvim](https://github.com/haorenW1025/completion-nvim) - Async completion framework aims to provide completion to neovim's built in LSP written in Lua.
