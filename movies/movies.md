@@ -1,6 +1,6 @@
 # Movies
 
-I love [making lists](https://letterboxd.com/nikitavoloboev/lists/) of [movies I've seen](https://letterboxd.com/nikitavoloboev/films/by/date/) and [liked](https://letterboxd.com/nikitavoloboev/films/by/your-rating/) on [Letterboxd](https://letterboxd.com/nikitavoloboev/).
+I keep a list of movies [I've seen](https://letterboxd.com/nikitavoloboev/films/by/date/) and [liked](https://letterboxd.com/nikitavoloboev/films/by/your-rating/) on [Letterboxd](https://letterboxd.com/nikitavoloboev/).
 
 I have a [Watchlist of movies I want to watch](https://letterboxd.com/nikitavoloboev/watchlist/) & I [share thoughts on some movies I saw](https://letterboxd.com/nikitavoloboev/films/reviews/by/added/).
 

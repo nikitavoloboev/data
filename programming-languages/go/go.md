@@ -287,3 +287,4 @@ Go promotes composition over inheritance.
 - [An intro to Go for non-Go developers (2020)](https://benhoyt.com/writings/go-intro/) ([Lobsters](https://lobste.rs/s/epfuar/introduction_go_for_non_go_developers))
 - [Ultimate Go Programming Videos (2018)](https://www.oreilly.com/library/view/ultimate-go-programming/9780135261651/)
 - [Building a better Go linker (2019)](http://golang.org/s/better-linker)
+- [Gdlv](https://github.com/aarzilli/gdlv) - GUI frontend for Delve.
