@@ -101,3 +101,5 @@
 - [5 Ways to Host PostgreSQL Databases (2020)](https://www.prisma.io/blog/ways-to-host-postgresql-w0xrhqqgp4zp)
 - [Jepsen: PostgreSQL 12.3 (2020)](http://jepsen.io/analyses/postgresql-12.3) ([HN](https://news.ycombinator.com/item?id=23498781))
 - [pgsodium](https://github.com/michelp/pgsodium) - Modern cryptography for PostgreSQL using libsodium. ([HN](https://news.ycombinator.com/item?id=23476248))
+- [Serializable Snapshot Isolation in PostgreSQL](https://drkp.net/papers/ssi-vldb12.pdf)
+- [How does MVCC (Multi-Version Concurrency Control) work (2020)](https://vladmihalcea.com/how-does-mvcc-multi-version-concurrency-control-work/)

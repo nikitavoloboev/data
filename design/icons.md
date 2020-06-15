@@ -22,3 +22,5 @@
 - [Iconoir](https://iconoir.com/) - Simple and Definitive Icons Library.
 - [Timeloop](https://www.timeloop.design/) - Designs by Fabian.
 - [IconGenerator](https://github.com/onmyway133/IconGenerator) - macOS app to generate app icons.
+- [Clarity Icons](https://clarity.design/icons)
+- [App Icon Generator](https://appicon.co/)

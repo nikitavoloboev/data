@@ -196,6 +196,7 @@ Here are few more things I liked, design wise.
 - [Tom MacWright](https://macwright.org/)
 - [Matt Drollette](https://matt.drollette.com/)
 - [Alasdair Monk](https://alasdairmonk.com/)
+- [Steve Klabnik](https://steveklabnik.com/)
 - [Paul Scanlon](http://www.pauliescanlon.io/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
 - [Paul Butler](https://paulbutler.org/)

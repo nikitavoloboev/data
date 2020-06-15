@@ -750,6 +750,7 @@
   - [Alan Watts](humans/alan-watts.md)
 - [Philanthropy](philanthropy/philanthropy.md)
 - [Animals](animals/animals.md)
+  - [Birds](animals/birds.md)
 - [Podcasts](podcasts/podcasts.md)
   - [Podcast recording](podcasts/podcast-recording.md)
 - [Documentaries](documentaries/documentaries.md)

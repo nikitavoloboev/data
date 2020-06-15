@@ -162,3 +162,4 @@
 - [Readings in Database Systems](http://www.redbook.io/) ([HN](https://news.ycombinator.com/item?id=23514686))
 - [Stanford Future Data Systems Research Group](http://futuredata.stanford.edu/)
 - [Stanford Data Management and Data Systems (2017)](https://cs145-fa19.github.io/)
+- [Concept-oriented model: Modeling and processing data using functions (2019)](https://www.researchgate.net/publication/337336089_Concept-oriented_model_Modeling_and_processing_data_using_functions) ([Summary](https://news.ycombinator.com/item?id=23516526))
