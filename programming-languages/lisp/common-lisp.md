@@ -18,3 +18,4 @@
 - [Learn Common Lisp in one month intervals](https://github.com/TomLisankie/Learning-Lisp)
 - [Parenscript](https://common-lisp.net/project/parenscript/) - Translator from an extended subset of Common Lisp to JavaScript.
 - [Slime](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs.
+- [Petalisp](https://github.com/marcoheisig/Petalisp) - Elegant High Performance Computing.

@@ -94,3 +94,4 @@
 - [Data Science Resources](https://github.com/reshamas/ds_resources)
 - [Master Data Analysis with Python](https://github.com/tdpetrou/Learn-Pandas)
 - [Introduction to Data Science book (2020)](https://rafalab.github.io/dsbook/) ([Code](https://github.com/rafalab/dsbook))
+- [VisiData](https://www.visidata.org/) - Terminal spreadsheet multitool for discovering and arranging data. ([Code](https://github.com/saulpw/visidata))
