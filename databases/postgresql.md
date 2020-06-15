@@ -102,3 +102,4 @@
 - [pgsodium](https://github.com/michelp/pgsodium) - Modern cryptography for PostgreSQL using libsodium. ([HN](https://news.ycombinator.com/item?id=23476248))
 - [Serializable Snapshot Isolation in PostgreSQL](https://drkp.net/papers/ssi-vldb12.pdf)
 - [How does MVCC (Multi-Version Concurrency Control) work (2020)](https://vladmihalcea.com/how-does-mvcc-multi-version-concurrency-control-work/)
+- [Looking Back at Postgres (2019)](https://arxiv.org/abs/1901.01973)
