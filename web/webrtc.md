@@ -23,3 +23,4 @@
 - [Anatomy of a WebRTC video conference (2020)](https://levelup.gitconnected.com/anatomy-of-a-webrtc-video-conference-f924ba0ba930)
 - [WebRTC iOS tutorial](https://github.com/jsharp83/WebRTC-iOS-tutorial)
 - [How do you create a video chat application? (2020)](https://blog.phuaxueyong.com/post/2020-06-15-how-to-make-a-video-chat-app/) ([HN](https://news.ycombinator.com/item?id=23522689))
+- [WebRTC Insertable Streams and server processing](https://github.com/pion/webrtc/tree/master/examples/insertable-streams) ([HN](https://news.ycombinator.com/item?id=23515629))

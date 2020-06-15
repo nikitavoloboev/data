@@ -43,3 +43,4 @@
 - [Receiving images of Earth from satellites with software defined radio](https://l-o-o-s-e-d.net/signs-of-life) ([HN](https://news.ycombinator.com/item?id=23465837))
 - [Awesome Space](https://github.com/orbitalindex/awesome-space#readme) - List of awesome space-related packages and resources.
 - [The Orbital Index](https://orbitalindex.com/) - Curated space news and links. Weekly, brief, and technical.
+- [ISS Photo Explorer](https://callumprentice.github.io/apps/iss_photo_explorer_flat/index.html?lat=30&lng=-60&pn=6&ph=0#) ([HN](https://news.ycombinator.com/item?id=23519439))

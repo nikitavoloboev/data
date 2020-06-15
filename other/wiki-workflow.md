@@ -168,3 +168,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Personal Wiki for Vim](https://github.com/vimwiki/vimwiki) ([HN](https://news.ycombinator.com/item?id=23402014))
 - [Zettelkasten note-taking in 10 minutes (2020)](https://blog.viktomas.com/posts/slip-box/) ([HN](https://news.ycombinator.com/item?id=23445742))
 - [Networked Notebooks Catalogue](https://github.com/prathyvsh/networked-notebooks#readme) - Collection of networked notebooks that is slowly taking shape on the Internet.
+- [Building a Second Brain: The Illustrated Notes (2020)](https://maggieappleton.com/basb) ([HN](https://news.ycombinator.com/item?id=23514371))
