@@ -2,6 +2,7 @@
 
 ## Studios
 
+- [The Glory Society](http://theglorysociety.com/) - Worker cooperative that makes video games.
 - [Goldborough Studio](https://www.goldboroughstudio.com/)
 
 ## Notes
