@@ -123,3 +123,4 @@
 - [Teaching Machines to Draw (2017)](https://blog.otoro.net/2017/05/19/teaching-machines-to-draw/) ([In action](https://otoro.net/sketch-rnn/))
 - [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://github.com/hendrycks/robustness)
 - [pix2code](https://github.com/tonybeltramelli/pix2code) - Generating Code from a Graphical User Interface Screenshot.
+- [Gated Linear Networks (2019)](https://arxiv.org/abs/1910.01526)

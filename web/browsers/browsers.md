@@ -52,3 +52,4 @@
 - [Favicon Checker](http://www.colinkeany.com/favicon-checker/) - See how your favicon hold up across popular browsers, including native dark and light modes. ([Code](https://github.com/colinkeany/favicon-checker))
 - [Selene](https://github.com/yashaka/selene) - User-oriented Web UI browser tests in Python.
 - [WebCheck](https://webcheck.tools/) - High-confidence browser testing. ([Lobsters](https://lobste.rs/s/mdmvuw/webcheck_high_confidence_browser))
+- [Hello, Goodbye](https://github.com/bcye/Hello-Goodbye) - Browser extension that blocks annoying chat widgets.
