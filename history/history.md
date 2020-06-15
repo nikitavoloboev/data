@@ -42,3 +42,4 @@
 - [Above the Crowd - Lost Essays](https://drive.google.com/file/d/1jX3GbFCIlnJc4vzSf4XWYyD6RosCdKOh/view)
 - [The Vintage Beauty Of Soviet Control Rooms (2018)](https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/) ([HN](https://news.ycombinator.com/item?id=23334339))
 - [Soviet propaganda posters](https://www.sovietposters.com/) ([HN](https://news.ycombinator.com/item?id=23375494))
+- [Stories about the B5000 and people who were there (1979)](http://ed-thelen.org/comp-hist/B5000-AlgolRWaychoff.html) ([HN](https://news.ycombinator.com/item?id=23519816))

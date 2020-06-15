@@ -53,3 +53,4 @@
 - [C implementation of Tic-Tac-Toe in a single call to printf](https://github.com/carlini/printf-tac-toe) ([HN](https://news.ycombinator.com/item?id=23445546)) ([Reddit](https://www.reddit.com/r/programming/comments/gy8igu/tictactoe_in_a_single_call_to_printf_in_c/))
 - [How the most upvoted C question was another question (2020)](https://bowero.nl/blog/2020/06/09/how-the-most-upvoted-c-question-was-another-question/) ([Lobsters](https://lobste.rs/s/m34tye/how_most_upvoted_c_question_was_another))
 - [LLDB Debugger](https://lldb.llvm.org/) - Next generation, high-performance debugger.
+- [Dumbindent: When 93% of the Time was Spent in Clang-Format (2020)](https://nigeltao.github.io/blog/2020/dumbindent.html) ([Lobsters](https://lobste.rs/s/xau5m4/dumbindent_when_93_time_was_spent_clang))

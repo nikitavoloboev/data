@@ -171,3 +171,4 @@
 - [JavaScript Standard Style](https://standardjs.com/) - JavaScript style guide, linter, and formatter. ([Code](https://github.com/standard/standard))
 - [Boa](https://github.com/boa-dev/boa) - Experimental Javascript lexer, parser and compiler written in Rust.
 - [Understanding JavaScript Execution Context like never before (2020)](https://blog.greenroots.info/understanding-javascript-execution-context-like-never-before-ckb8x246k00f56hs1nefzpysq)
+- [Causes of Memory Leaks in JavaScript and How to Avoid Them (2020)](https://www.ditdot.hr/en/causes-of-memory-leaks-in-javascript-and-how-to-avoid-them) ([Lobsters](https://lobste.rs/s/ar5avz/causes_memory_leaks_javascript_how_avoid))
