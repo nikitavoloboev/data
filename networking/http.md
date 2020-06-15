@@ -58,3 +58,4 @@
 - [httpbin](https://httpbin.org/) - HTTP Request & Response Service. ([Code](https://github.com/postmanlabs/httpbin))
 - [srv](https://github.com/joshuarli/srv) - Minimalist http(s) server and file browser. ([Lobsters](https://lobste.rs/s/p6euqh/srv_minimalist_alternative_python_m_http))
 - [Pact Go](https://github.com/pact-foundation/pact-go) - Golang version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
+- [Tinyproxy](https://github.com/tinyproxy/tinyproxy) - Light-weight HTTP/HTTPS proxy daemon for POSIX operating systems.

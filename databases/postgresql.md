@@ -86,7 +86,7 @@
 - [Improved (auto)vacuum in PostgreSQL 13 (2020)](https://amitkapila16.blogspot.com/2020/05/improved-autovacuum-in-postgresql-13.html) ([HN](https://news.ycombinator.com/item?id=23149920))
 - [HN: Ask HN: What PostgreSQL client do you use? (2020)](https://news.ycombinator.com/item?id=23208181)
 - [Recursive SQL Queries with PostgreSQL (2020)](https://towardsdatascience.com/recursive-sql-queries-with-postgresql-87e2a453f1b)
-- [How one word in PostgreSQL unlocked a 9x performance improvement (2020)](https://jlongster.com/how-one-word-postgresql-performance)
+- [How one word in PostgreSQL unlocked a 9x performance improvement (2020)](https://jlongster.com/how-one-word-postgresql-performance) ([HN](https://news.ycombinator.com/item?id=23516947))
 - [pgCenter](https://github.com/lesovsky/pgcenter) - Command-line admin tool for observing and troubleshooting Postgres.
 - [Supabase](https://supabase.io/) - Adds realtime and restful APIs to Postgres without a single line of code. ([[HN](https://news.ycombinator.com/item?id=23319901)]) ([Code](https://github.com/supabase/postgres)) ([Docs](https://github.com/supabase/supabase))
 - [DBCore](https://eatonphil.github.io/dbcore/) - Code generation powered by your database. ([Lobsters](https://lobste.rs/s/qqhiiq/generate_go_rest_api_from_postgresql))

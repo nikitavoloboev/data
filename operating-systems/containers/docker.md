@@ -54,3 +54,4 @@
 - [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([HN](https://news.ycombinator.com/item?id=23465087)) ([Code](https://github.com/caprover/caprover))
 - [Deploy](https://github.com/zenclabs/deploy) - Step-by-step, open-source tool for easy Docker deployments to AWS.
 - [Swarmlet](https://github.com/swarmlet/swarmlet) - Self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
+- [Collection of delicious docker recipes](https://github.com/vimagick/dockerfiles)
