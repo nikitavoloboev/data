@@ -62,3 +62,4 @@
 - [SwiftWebUI and WASM](https://github.com/carson-katri/SwiftWebUI) - Fork of the incredible SwiftWebUI to support WebAssembly via swiftwasm.
 - [Scripts to make working with SwiftWebUI and WASM easier](https://github.com/carson-katri/swiftwebui-scripts)
 - [Replicating complex UI using SwiftUI](https://github.com/exyte/replicating)
+- [SwiftUI Suitability for MacOS App Development (2020)](https://ds9soft.com/blog/2020/06/swiftui-suitability-for-macos-app-development/)

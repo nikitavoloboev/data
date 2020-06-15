@@ -25,3 +25,4 @@
 - [Immuni iOS app](https://github.com/immuni-app/immuni-app-ios) ([HN](https://news.ycombinator.com/item?id=23396499))
 - [Immuni's High-Level Description](https://github.com/immuni-app/immuni-documentation)
 - [fastv](https://github.com/OpenGene/fastv) - Ultra-fast tool for identification of SARS-CoV-2 and other microbes from sequencing data.
+- [VaxNow](https://vaxnow.org/) - Friendly Immunization App.
