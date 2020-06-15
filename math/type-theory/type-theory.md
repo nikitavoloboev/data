@@ -79,3 +79,4 @@
 - [Algorithm W Step by Step (2006)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.7733&rep=rep1&type=pdf) - Implementation of the classic algorithm W for Hindley- Milner polymorphic type inference in Haskell.
 - [Elaboration with First-Class Implicit Function Types (2020)](https://github.com/AndrasKovacs/icfp20sub/blob/master/paper.pdf) ([Code](https://github.com/AndrasKovacs/icfp20sub/tree/master/fcif))
 - [Experimental type-checker for internally parametric type theory](https://github.com/ecavallo/ptt)
+- [Type Systems as Macros (2017)](http://www.ccs.neu.edu/home/stchang/pubs/ckg-popl2017.pdf)

@@ -8,3 +8,4 @@
 - [Lantern](https://github.com/feiwang3311/Lantern) - Implementation of a machine learning framework prototype in Scala.
 - [Jitify](https://github.com/NVIDIA/jitify) - Single-header C++ library for simplifying the use of CUDA Runtime Compilation (NVRTC).
 - [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl) - Programming in Julia.
+- [GPGPU Programming with CUDA](https://github.com/CoffeeBeforeArch/cuda_programming)
