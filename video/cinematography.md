@@ -1,6 +1,6 @@
 # Cinematography
 
-I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls080598863/) alongside my favorite movies from them.
+I made a list of my [favorite cinematographers](https://www.imdb.com/list/ls080598863/).
 
 ## Links
 
