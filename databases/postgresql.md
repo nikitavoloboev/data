@@ -89,7 +89,6 @@
 - [How one word in PostgreSQL unlocked a 9x performance improvement (2020)](https://jlongster.com/how-one-word-postgresql-performance) ([HN](https://news.ycombinator.com/item?id=23516947))
 - [pgCenter](https://github.com/lesovsky/pgcenter) - Command-line admin tool for observing and troubleshooting Postgres.
 - [Supabase](https://supabase.io/) - Adds realtime and restful APIs to Postgres without a single line of code. ([[HN](https://news.ycombinator.com/item?id=23319901)]) ([Code](https://github.com/supabase/postgres)) ([Docs](https://github.com/supabase/supabase))
-- [DBCore](https://eatonphil.github.io/dbcore/) - Code generation powered by your database. ([Lobsters](https://lobste.rs/s/qqhiiq/generate_go_rest_api_from_postgresql))
 - [Queries to monitor your PostgreSQL database](https://github.com/nilenso/postgresql-monitoring)
 - [PostgreSQL BRIN Indexes: Big Data Performance With Minimal Storage (2019)](https://info.crunchydata.com/blog/postgresql-brin-indexes-big-data-performance-with-minimal-storage)
 - [PostgreSQL query parallelism can be like a box of chocolates (2020)](https://swarm64.com/post/increase-postgresql-parallelism/)

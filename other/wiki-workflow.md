@@ -96,6 +96,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
 - [Webring](https://webring.xxiivv.com/) - Attempt to inspire artists & developers to build their own website and share traffic among each other.
+- [Curated list of awesome Public Zettelkastens](https://github.com/KasperZutterman/Second-Brain#readme)
 
 ## Wiki software
 

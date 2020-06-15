@@ -157,9 +157,9 @@
 - [The Curious Case of Small Files (2020)](https://developer.sh/posts/curious-case-of-small-files) ([Lobsters](https://lobste.rs/s/b3mmo4/curious_case_small_files))
 - [MiniCouchDB in Rust (2020)](https://www.garrensmith.com/blogs/mini-couch-hack-week) ([HN](https://news.ycombinator.com/item?id=23446852)) ([Lobsters](https://lobste.rs/s/waj4zf/minicouchdb_rust))
 - [Accessing SQLite, PostgreSQL and MySQL through ODBC](https://relational-pipes.globalcode.info/v_0/examples-tr-sql-odbc.xhtml)
-- [DBCore](https://github.com/eatonphil/dbcore) - Code generator build around database schemas and an API specification.
 - [17 Things Developers Need to Know About Databases - Peter Zaitsev (2020)](https://www.youtube.com/watch?v=HOho4HyKqTE)
 - [Readings in Database Systems](http://www.redbook.io/) ([HN](https://news.ycombinator.com/item?id=23514686))
 - [Stanford Future Data Systems Research Group](http://futuredata.stanford.edu/)
 - [Stanford Data Management and Data Systems (2017)](https://cs145-fa19.github.io/)
 - [Concept-oriented model: Modeling and processing data using functions (2019)](https://www.researchgate.net/publication/337336089_Concept-oriented_model_Modeling_and_processing_data_using_functions) ([Summary](https://news.ycombinator.com/item?id=23516526))
+- [DBCore](https://www.dbcore.org/) - Generate applications powered by your database. ([Lobsters](https://lobste.rs/s/qqhiiq/generate_go_rest_api_from_postgresql)) ([Code](https://github.com/eatonphil/dbcore)) ([Article](https://notes.eatonphil.com/generating-a-full-stack-application-from-a-database.html))
