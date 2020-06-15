@@ -5,6 +5,7 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 ## Interesting cameras
 
 - [Canon EOS 5D Mark IV](https://www.canon.com.cy/cameras/eos-5d-mark-iv/)
+- [Sony Alpha a7 III Mirrorless](https://www.bhphotovideo.com/c/product/1394217-REG/sony_ilce_7m3_alpha_a7_iii_mirrorless.html)
 
 ## Links
 
