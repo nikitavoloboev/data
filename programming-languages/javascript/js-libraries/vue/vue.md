@@ -21,3 +21,4 @@
 - [30 Days of Vue](https://github.com/fullstackio/30-days-of-vue)
 - [Vue Stripe Checkout](https://github.com/jofftiquez/vue-stripe-checkout)
 - [Awesome Vue 3](https://github.com/blacksonic/awesome-vue-3#readme)
+- [Vue Styleguidist](https://github.com/vue-styleguidist/vue-styleguidist) - Isolated Vue component development environment with a living style guide.
