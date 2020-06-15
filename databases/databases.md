@@ -164,3 +164,5 @@
 - [Stanford Data Management and Data Systems (2017)](https://cs145-fa19.github.io/)
 - [Concept-oriented model: Modeling and processing data using functions (2019)](https://www.researchgate.net/publication/337336089_Concept-oriented_model_Modeling_and_processing_data_using_functions) ([Summary](https://news.ycombinator.com/item?id=23516526))
 - [DBCore](https://www.dbcore.org/) - Generate applications powered by your database. ([Lobsters](https://lobste.rs/s/qqhiiq/generate_go_rest_api_from_postgresql)) ([Code](https://github.com/eatonphil/dbcore)) ([Article](https://notes.eatonphil.com/generating-a-full-stack-application-from-a-database.html))
+- [Recent database technology that should be on your radar (2020)](https://lucperkins.dev/blog/new-db-tech-1/) ([HN](https://news.ycombinator.com/item?id=23531825))
+- [DB Weekly](https://dbweekly.com/) - Weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.

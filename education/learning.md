@@ -51,3 +51,4 @@
 - [Learning How to Learn (And 20+ Studies) (2020)](https://max2c.com/learning-how-to-learn/) ([HN](https://news.ycombinator.com/item?id=23514992))
 - [Constructionism and the Future of Learning (2019)](https://taimur.me/posts/constructionism-and-the-future-of-learning/)
 - [Questions to help people decide what to learn (2020)](https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/) ([HN](https://news.ycombinator.com/item?id=23518428))
+- [Emotional Blocks as Obstacles to Learning (2020)](https://acesounderglass.com/2020/06/12/emotional-blocks-as-obstacles-to-learning/) ([HN](https://news.ycombinator.com/item?id=23514963))
