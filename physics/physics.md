@@ -92,3 +92,4 @@
 - [Where in an atom exactly is a nucleus located? Is it in the centre or does its location vary from time to time? (2020)](https://www.reddit.com/r/askscience/comments/gyc73r/where_in_an_atom_exactly_is_a_nucleus_located_is/)
 - [Ask HN: Without Einstein, would General Relativity be discovered by now? (2020)](https://news.ycombinator.com/item?id=23450827)
 - [If breaking the sound barrier causes a sonic boom, what would breaking the light speed barrier do? (2020)](https://www.reddit.com/r/askscience/comments/gz1u71/if_breaking_the_sound_barrier_causes_a_sonic_boom/)
+- [If you were starting your physics PhD right now, what would you study? (2020)](https://www.reddit.com/r/Physics/comments/h92nhn/if_you_were_starting_your_physics_phd_right_now/)
