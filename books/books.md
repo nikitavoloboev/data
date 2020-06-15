@@ -229,3 +229,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Kindle Highlights](https://github.com/daneden/kindle-highlights) - Vercel/Next.js app to render my Kindle highlights.
 - [How I made \$3,300 on a short niche philosophy book (2020)](https://theotherlifenow.com/how-i-made-3300-on-a-short-niche-philosophy-book/) ([HN](https://news.ycombinator.com/item?id=23502179))
 - [Collection of free books from Springer](https://hnarayanan.github.io/springer-books/) ([HN](https://news.ycombinator.com/item?id=23520545))
+- [Project Gutenberg](https://www.gutenberg.org/) - Library of over 60,000 free eBooks.
