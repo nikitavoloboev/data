@@ -144,7 +144,8 @@
 - [nix-hs](https://github.com/pjones/nix-hs) - Thin layer over the existing Haskell infrastructure in nixpkgs which adds all of the tools needed for interactive development.
 - [Haskell for Imperative Programmers (2020)](https://www.youtube.com/playlist?list=PLe7Ei6viL6jGp1Rfu0dil1JH1SHk9bgDV)
 - [Haskell Zettelkasten](https://haskell.zettel.page/) - Seeks to be a comprehensive community-maintained knowledge-base for Haskell. ([Code](https://github.com/Kuratoro/haskell.zettel.page))
-- [Opening Ceremony & "Languages all the way down" by Rob Rix - ZuriHac 2020](https://www.youtube.com/watch?v=kCpQ4aTzlis)
+- [Opening Ceremony & "Languages all the way down" by Rob Rix - ZuriHac 2020](https://www.youtube.com/watch?v=kCpQ4aTzlis) ([Code](https://github.com/robrix/languages-all-the-way-down))
 - [ZuriHac 2020](https://www.youtube.com/playlist?list=PLiU7KJ5_df6aZbNfh_TUJt-6w9N3rYkTX)
 - [Smuggler2](https://github.com/jrp2014/smuggler2) - Minimise haskell imports, make exports explicit.
 - [Alexis King - “Effects for Less” (2020)](https://www.youtube.com/watch?list=PLiU7KJ5_df6aZbNfh_TUJt-6w9N3rYkTX&v=0jI-AlWEwYI)
+- [A Generic Journey - Design Decisions about datatype-generic programming in Haskell (2020)](https://github.com/well-typed/gp-zurihac-2020/blob/master/GP.pdf)
