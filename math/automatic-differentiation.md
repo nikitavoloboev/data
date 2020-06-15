@@ -9,3 +9,4 @@
 - [Demystifying Differentiable Programming: Shift/Reset the Penultimate Backpropagator (2019)](https://arxiv.org/abs/1803.10228)
 - [Forward-mode Automatic Differentiation for TensorFlow](https://github.com/renmengye/tensorflow-forward-ad)
 - [Automatic Differentiation tools for both forward and reverse mode written for R6RS Scheme](https://github.com/qobi/R6RS-AD)
+- [From scratch: reverse-mode automatic differentiation (in Python) (2020)](https://sidsite.com/posts/autodiff/) ([HN](https://news.ycombinator.com/item?id=23519700))
