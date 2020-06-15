@@ -50,3 +50,4 @@
 - [Lambda School Training Kit](https://learn.lambdaschool.com/) - Learning resources at Lambda School.
 - [Learning How to Learn (And 20+ Studies) (2020)](https://max2c.com/learning-how-to-learn/)
 - [Constructionism and the Future of Learning (2019)](https://taimur.me/posts/constructionism-and-the-future-of-learning/)
+- [Questions to help people decide what to learn (2020)](https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/) ([HN](https://news.ycombinator.com/item?id=23518428))
