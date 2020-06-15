@@ -112,3 +112,4 @@
 - [flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions.
 - [nix.dev](https://nix.dev/) - Opinionated guide for developers wanting to get things done using the Nix ecosystem.
 - [Nix language antipatterns](https://nix.dev/anti-patterns/language.html)
+- [So, tell me about Nix (2020)](https://ghedam.at/15490/so-tell-me-about-nix)
