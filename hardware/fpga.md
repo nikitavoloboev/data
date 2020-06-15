@@ -10,3 +10,4 @@
 - [Compressing deep neural networks on FPGAs to binary and ternary precision with hls4ml (2020)](https://arxiv.org/pdf/2003.06308.pdf)
 - [LitePCIe](https://github.com/enjoy-digital/litepcie) - Provides a small footprint and configurable PCIe core.
 - [Cook FPGA](https://github.com/lastweek/fpga_readings) - Collection of useful resources and links rather than a thorough FPGA tutorial.
+- [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/) ([HN](https://news.ycombinator.com/item?id=23513152))

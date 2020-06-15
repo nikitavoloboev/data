@@ -69,6 +69,7 @@
 - [FFTW.jl](https://github.com/JuliaMath/FFTW.jl) - Julia bindings to the FFTW library for fast Fourier transforms.
 - [InteractiveViz.jl](https://github.com/org-arl/InteractiveViz.jl) - Interactive visualization tools for Julia.
 - [UnicodePlots](https://github.com/Evizero/UnicodePlots.jl) - Advanced Unicode plotting library designed for use in Julia's REPL.
+- [Revise.jl](https://github.com/timholy/Revise.jl) - Automatically update function definitions in a running Julia session.
 
 ## Links
 
