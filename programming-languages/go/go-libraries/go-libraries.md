@@ -460,6 +460,7 @@
 
 ## Links
 
+- [pkg.go.dev](https://pkg.go.dev/) - Website for discovering and evaluating Go packages and modules. ([Code](https://github.com/golang/pkgsite))
 - [GoDoc](https://godoc.org/) - Hosts documentation for Go packages. ([Code](https://github.com/golang/gddo))
 - [Awesome Go](https://github.com/avelino/awesome-go#readme)
 - [Golang Serializer Benchmark Comparison](https://github.com/smallnest/gosercomp)
