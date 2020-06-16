@@ -74,6 +74,7 @@
 - [Exyte](https://exyte.com/) - Mobile, Blockchain, and AR/VR Development Agency.
 - [The Yak Collective](https://www.yakcollective.org/) - Network of over 300 independent consultants, coaches, and freelancers with varied technical and creative skills.
 - [Cunningham & Cunningham](http://c2.com/) - Small consultancy that has specialized in object-oriented programming.
+- [Codista](https://www.codista.com/en/) - Professional Web Development in Vienna.
 
 ## Links
 

@@ -235,4 +235,4 @@
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/index.html) ([Code](https://github.com/rust-lang/async-book))
 - [Shredder: Garbage Collection as a Library for Rust (2020)](https://blog.typingtheory.com/shredder-garbage-collection-as-a-library-for-rust/) ([Code](https://github.com/Others/shredder)) ([Lobsters](https://lobste.rs/s/kprnfg/shredder_garbage_collection_as_library))
 - [Errors in Rust: A Deep Dive (2020)](https://www.halcyon.hr/posts/error-handling-in-rust/)
-- [Generics and Compile-Time in Rust (2020)](https://pingcap.com/blog/generics-and-compile-time-in-rust/)
+- [Generics and Compile-Time in Rust (2020)](https://pingcap.com/blog/generics-and-compile-time-in-rust/) ([HN](https://news.ycombinator.com/item?id=23534974))
