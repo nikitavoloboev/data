@@ -387,6 +387,7 @@
 - [Cleanse](https://github.com/square/Cleanse) - Swift Dependency Injection.
 - [PosixDispatch](https://github.com/belozierov/PosixDispatch) - Fast, small, efficient analog of GCD in Swift.
 - [StringMetric](https://github.com/autozimu/StringMetric.swift) - String metric/similarity functions implemented in Swift.
+- [Fireblade ECS](https://github.com/fireblade-engine/ecs) - Dependency free, lightweight, fast Entity-Component System (ECS) implementation in pure Swift.
 
 ## Other (not lib)
 

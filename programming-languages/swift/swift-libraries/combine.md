@@ -28,3 +28,4 @@
 - [CombinePlaygrounds](https://github.com/denisPoifol/CombinePlaygrounds) - Playground that should read as book about the Combine framework.
 - [ReactiveTimelane](https://github.com/nkristek/ReactiveTimelane) - Provides operators for Signal and SignalProducer in ReactiveSwift for profiling streams with the Timelane Instrument.
 - [RxSwift to Apple’s Combine Cheat Sheet (2019)](https://github.com/CombineCommunity/rxswift-to-combine-cheatsheet#readme)
+- [Combine Schedulers](https://github.com/pointfreeco/combine-schedulers) - Few schedulers that make working with Combine more testable and more versatile.
