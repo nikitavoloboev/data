@@ -8,6 +8,7 @@
 - [kvlly](https://github.com/kellyvaughn/kvlly) - Personal site built with Gatsby and deployed on Netlify.
 - [Gatsby + Cosmic JS](https://github.com/DSchau/-gatsby-blog-cosmicjs-)
 - [Gatsby.js MDX Blog Starter Project](https://github.com/rwieruch/gatsby-mdx-blog-starter-project)
+- [Progression at Monzo](https://progression.monzo.com/) ([Code](https://github.com/monzo/progression-framework))
 
 ## Themes
 

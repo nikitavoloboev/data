@@ -19,3 +19,4 @@
 - [Pixz](https://github.com/vasi/pixz) - Parallel, indexed xz compressor.
 - [Flywheel: Google’s Data Compression Proxy for the Mobile Web](https://colin-scott.github.io/personal_website/research/nsdi15.pdf)
 - [Opus](https://github.com/xiph/opus) - Codec for interactive speech and audio transmission over the Internet.
+- [minizip](https://github.com/nmoinvaz/minizip) - Zip manipulation library written in C that is supported on Windows, macOS, and Linux.

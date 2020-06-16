@@ -31,3 +31,4 @@
 - [Nessie](https://github.com/halvardssm/deno-nessie) - Deno library for PostgreSQL, MySQL, MariaDB and SQLite migrations.
 - [Deno Beginner](https://denobeginner.com/) - Deno Crash Course.
 - [deno_lint](https://github.com/denoland/deno_lint) - Blazingly fast linter for JavaScript and TypeScript written in Rust.
+- [Nexo](https://github.com/nexojs/nexo) - Preact apps with Deno.
