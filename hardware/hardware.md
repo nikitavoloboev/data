@@ -51,3 +51,4 @@
 - [USB-C is still a mess (2020)](https://www.androidauthority.com/state-of-usb-c-870996/) ([HN](https://news.ycombinator.com/item?id=23435805))
 - [Brilliant Hardware in the Valley of the Software Slump (2020)](https://craigmod.com/essays/software_slump/) ([HN](https://news.ycombinator.com/item?id=23497842))
 - [rio](https://github.com/SolidStateGroup/rio) - Open source library allowing you to create an internet connected LED wall.
+- [SkyWater Open Source PDK](https://github.com/google/skywater-pdk) - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node. ([HN](https://news.ycombinator.com/item?id=23524428))

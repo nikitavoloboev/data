@@ -58,3 +58,4 @@
 - [slip](https://github.com/sp4ghet/slip) - Lisp interpreter implemented in C.
 - [A baseline compiler for guile (2020)](http://wingolog.org/archives/2020/06/03/a-baseline-compiler-for-guile)
 - [Kalyn](https://github.com/raxod502/kalyn) - Self-hosting compiler from a Haskell-like Lisp directly to x86-64, from scratch.
+- [SedLisp](https://github.com/shinh/sedlisp) - Lisp implementation in sed.
