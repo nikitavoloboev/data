@@ -35,3 +35,4 @@
 - [SSR for hackers](https://rhg.dev/posts/ssr-for-hackers/)
 - [Single out elements using phantom types (2020)](https://jfmengels.net/single-out-elements-using-phantom-types/)
 - [Escher-in-Elm Workshop](https://github.com/einarwh/escher-workshop)
+- [Ellie](https://ellie-app.com/) - Elm Live Editor. ([Code](https://github.com/ellie-app/ellie))

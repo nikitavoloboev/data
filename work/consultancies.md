@@ -59,6 +59,10 @@
 
 - [NumTide](https://numtide.com/) - Bringing the power of Nix to companies since 2016.
 
+## Elm
+
+- [Incremental Elm Consulting](https://incrementalelm.com/)
+
 ## Other
 
 - [Monadfix](https://monadfix.com/) - Work with Haskell, PureScript, and Agda.

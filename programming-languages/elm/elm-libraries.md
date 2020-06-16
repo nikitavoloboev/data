@@ -3,6 +3,7 @@
 ## Web
 
 - [http](https://github.com/elm/http) - Make HTTP requests in Elm.
+- [elm-graphql](https://github.com/dillonkearns/elm-graphql/) - Autogenerate type-safe GraphQL queries in Elm.
 
 ## Style
 
