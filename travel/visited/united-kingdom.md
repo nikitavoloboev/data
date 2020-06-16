@@ -18,3 +18,4 @@
 - [Fidelty](https://www.fidelity.co.uk/) - Bring your pensions together.
 - [Postcode & Geolocation API for the UK](https://postcodes.io/) - Query for UK postcodes and geolocations over HTTP.
 - [Пришло письмо из Хогвартса 🇬🇧](https://arturpaikin.com/ru/uk-ok/)
+- [London streets in photos (2020)](https://twitter.com/danbarker/status/1272634582941171713)

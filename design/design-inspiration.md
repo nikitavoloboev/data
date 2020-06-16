@@ -29,7 +29,7 @@ Here are few more things I liked, design wise.
 
 ## Blogs
 
-- [Majid](https://swiftwithmajid.com/)
+- [Majid](https://swiftwithmajid.com/) ([Code](https://github.com/mecid/mecid.github.io))
 - [Kyle Mathews](https://www.bricolage.io/blog/)
 - [Actual Budget](https://actualbudget.com/blog/)
 - [Seph](https://josephg.com/blog/)

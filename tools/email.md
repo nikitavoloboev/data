@@ -66,5 +66,5 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [MailChecker](https://github.com/FGRibreau/mailchecker) - Cross-language email validation. Backed by a database of over 30 000 throwable email domains.
 - [EmailOctopus](https://emailoctopus.com/) - Email marketing for less.
 - [SendGrid](https://sendgrid.com/) - Email Delivery Service.
-- [HEY](https://hey.com/) - Email client. ([Tour of the app](https://www.youtube.com/watch?v=UCeYTysLyGI))
+- [HEY](https://hey.com/) - Email client. ([Tour of the app](https://www.youtube.com/watch?v=UCeYTysLyGI)) ([The HEY Way](https://hey.com/the-hey-way/))
 - [mime-db](https://github.com/jshttp/mime-db) - Media Type Database.
