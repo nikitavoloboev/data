@@ -48,3 +48,5 @@
 - [What could be improved in the documentation process? (2020)](https://lobste.rs/s/2f463g/what_could_be_improved_documentation)
 - [Add a “contrib” directory to your projects (2020)](https://drewdevault.com/2020/06/06/Add-a-contrib-directory.html) ([Lobsters](https://lobste.rs/s/mqoacf/add_contrib_directory_your_projects))
 - [Nextra](https://github.com/shuding/nextra) - Next.js based documentation site generator. 0 line of code needed, just write Markdown.
+- [Writing inclusive documentation](https://developers.google.com/style/inclusive-documentation)
+- [Google developer documentation style guide](https://developers.google.com/style)
