@@ -3,6 +3,7 @@
 ## Examples of nice docs
 
 - [Shields.io readme](https://github.com/badges/shields#readme) - Clear instructions on how to start working on the project, contributing guidelines pointing to a tutorial, coding guidelines and even a high-level code walkthrough.
+- [inDinero Help Center in Notion](https://support.indinero.com/inDinero-Help-Center-465343520bbe4af19f3b0144b70a1192) - Easy example of doing help/docs for company in Notion.
 
 ## Notes
 

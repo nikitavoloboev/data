@@ -137,6 +137,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [6vcr](http://6vcr.com/portfolio)
 - [Liam Cobb](https://liamcobb.tumblr.com/)
 - [Deborah Lee](https://www.instagram.com/jdebbiel/)
+- [Mara Lookabaugh](https://maralookabaugh.com/)
 - [Bee Grandinetti](http://www.beegrandinetti.com/)
 - [Miena A.R.](https://mienar.com/original-artworks)
 
