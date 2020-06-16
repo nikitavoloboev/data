@@ -59,3 +59,4 @@
 - [Kur](https://github.com/deepgram/kur) - Descriptive Deep Learning.
 - [NNI (Neural Network Intelligence)](https://github.com/microsoft/nni) - Lightweight but powerful toolkit to help users automate Feature Engineering, Neural Architecture Search, Hyperparameter Tuning and Model Compression.
 - [LMfit-py](https://github.com/lmfit/lmfit-py) - Non-Linear Least Squares Minimization, with flexible Parameter settings, based on scipy.optimize.leastsq, and with many additional classes and methods for curve fitting.
+- [tslearn](https://github.com/tslearn-team/tslearn) - Machine learning toolkit for time series analysis in Python.

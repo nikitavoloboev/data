@@ -416,6 +416,7 @@
 - [pathfinding](https://github.com/samueltardieu/pathfinding) - Implements several pathfinding, flow, and graph algorithms in Rust.
 - [bstr](https://github.com/BurntSushi/bstr) - String type for Rust that is not required to be valid UTF-8.
 - [cron](https://github.com/zslayton/cron) - Cron expression parser in Rust.
+- [Lelet](https://github.com/win-t/lelet) - Task executor that inspired by golang runtime.
 
 ## Cargo Plugins
 

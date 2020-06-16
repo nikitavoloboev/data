@@ -115,3 +115,4 @@
 - [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning) ([Paper](https://arxiv.org/abs/2005.07683))
 - [NLP Resources](https://github.com/lyeoni/nlp-resources#readme)
 - [TaBERT: Learning Contextual Representations for Natural Language Utterances and Structured Tables](https://github.com/facebookresearch/TaBERT)
+- [vtext](https://github.com/rth/vtext) - NLP in Rust with Python bindings.
