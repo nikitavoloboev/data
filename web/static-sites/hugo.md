@@ -11,6 +11,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Noteworthy](https://github.com/kimcc/hugo-theme-noteworthy) - Minimalist Hugo theme for writers and bloggers.
 - [Paperesque](https://themes.gohugo.io/paperesque/) - Lightweight theme for personal websites. ([Code](https://github.com/capnfabs/paperesque))
 - [Kiss](https://github.com/ribice/kiss) - Simple blog theme for Hugo.
+- [Mainroad](https://github.com/Vimux/Mainroad) - Responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.
 
 ## Examples
 

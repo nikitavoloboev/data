@@ -39,3 +39,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [LaTeX.js](https://github.com/michael-brade/LaTeX.js) - LaTeX to HTML5 translator using a PEG.js parser.
 - [Flexible LaTeX Article Environment](https://github.com/sylvainhalle/PaperShell)
 - [mdbook-latex](https://github.com/lbeckman314/mdbook-latex) - An mdbook backend for generating LaTeX and PDF documents.
+- [LaTeXML](https://github.com/brucemiller/LaTeXML) - TeX and LaTeX to XML/HTML/ePub/MathML translator.

@@ -67,3 +67,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [EmailOctopus](https://emailoctopus.com/) - Email marketing for less.
 - [SendGrid](https://sendgrid.com/) - Email Delivery Service.
 - [HEY](https://hey.com/) - Email client. ([Tour of the app](https://www.youtube.com/watch?v=UCeYTysLyGI))
+- [mime-db](https://github.com/jshttp/mime-db) - Media Type Database.
