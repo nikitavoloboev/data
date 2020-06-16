@@ -40,3 +40,4 @@
 - [Anselm](https://github.com/trailofbits/anselm) - Tool that allows you to describe and detect patterns of bad behavior in function calls.
 - [pitchfork](https://github.com/PLSysSec/haybale-pitchfork) - Verifying constant-time code with symbolic execution.
 - [PhASAR](https://github.com/secure-software-engineering/phasar) - LLVM-based Static Analysis Framework. ([Web](https://phasar.org/))
+- [cclyzer](https://github.com/plast-lab/cclyzer) - Tool for analyzing LLVM bitcode using Datalog.

@@ -69,3 +69,4 @@
 - [Yarn Editor](https://github.com/YarnSpinnerTool/YarnEditor) - Tool for writing interactive dialogue in games.
 - [Nano](https://github.com/lonng/nano) - Easy to use, fast, lightweight game server networking library for Go.
 - [A frontend stack for video games (2020)](https://increment.com/frontend/a-frontend-stack-for-video-games/)
+- [GameLisp](https://github.com/fleabitdev/glsp) - Scripting language for Rust game development.

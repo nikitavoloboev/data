@@ -94,3 +94,4 @@
 - [C++ considered Harmful (and why E is better) (2008)](http://cshandley.co.uk/CppConsideredHarmful.html)
 - [Clang-Tidy](https://clang.llvm.org/extra/clang-tidy/) - Clang-based C++ “linter” tool.
 - [zapcc](https://github.com/yrnkrn/zapcc) - Caching C++ compiler based on clang, designed to perform faster compilations.
+- [Souffle](https://github.com/souffle-lang/souffle) - Variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification.
