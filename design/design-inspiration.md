@@ -204,6 +204,7 @@ Here are few more things I liked, design wise.
 - [Simon Sarris](https://simonsarris.com/)
 - [Ramkumar Ramachandra](https://artagnon.com/) ([Code](https://github.com/artagnon/artagnon.com))
 - [Andreas Kirsch](https://www.blackhc.net/)
+- [Karan Desai](https://kdexd.github.io/)
 - [Tina Smith](http://www.tinasmithdesign.com/)
 - [Ryan Haskell-Glatz](https://rhg.dev/)
 - [Erin](https://www.erinmcg.com/)
