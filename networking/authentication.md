@@ -47,3 +47,4 @@
 - [JavaScript Authentication & Authorization Book/Course](https://gist.github.com/taniarascia/a2d35af43ce133de20ac0a8c72558fea)
 - [ASGI middleware that authenticates users against GitHub](https://github.com/simonw/asgi-auth-github)
 - [JSON Web Token Docs Introduction](https://jwt.io/introduction/)
+- [Auth Boss](https://github.com/teesloane/Auth-Boss#readme) - Learn about different authentication methodologies on the web.

@@ -78,3 +78,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Map Of Computing Architectures for AWS (2020)](https://moca.computingarchitectures.com/en/~hello-world/) ([HN](https://news.ycombinator.com/item?id=23497325))
 - [AWS notes](https://www.notion.so/AWS-a5192e36ddc74aecb1e8c1ea9221a1e0)
 - [AWS Activate for Startups](https://aws.amazon.com/activate/) - Offers startups free tools, resources, and more to quickly get started on AWS.
+- [Policy Sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator and analysis database.

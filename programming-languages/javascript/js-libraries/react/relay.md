@@ -12,3 +12,4 @@
 - [Relay Compiler REPL](https://relay-compiler-repl.netlify.app/) ([Code](https://github.com/n1ru4l/relay-compiler-repl))
 - [Relay Workshop](https://github.com/sibelius/relay-workshop)
 - [Relay compiler in Rust](https://github.com/facebook/relay/tree/master/compiler/crates/relay-lsp/src)
+- [twentyfive-stars](https://github.com/phated/twentyfive-stars) - GraphQL server written in Rust.
