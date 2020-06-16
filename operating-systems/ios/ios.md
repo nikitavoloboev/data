@@ -192,3 +192,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Demo project to build resizing image in Navigation Bar with Large Title](https://github.com/tungfam/ImageInNavigationBarDemo)
 - [Project Zero: A survey of recent iOS kernel exploits (2020)](https://googleprojectzero.blogspot.com/2020/06/a-survey-of-recent-ios-kernel-exploits.html) ([HN](https://news.ycombinator.com/item?id=23497183))
 - [WWDC Notes](https://wwdcnotes.com/) - TL;DW for Apple's WWDC videos. ([Code](https://github.com/zntfdr/WWDC-Notes))
+- [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - Library to communicate with services on iOS devices using native protocols.
