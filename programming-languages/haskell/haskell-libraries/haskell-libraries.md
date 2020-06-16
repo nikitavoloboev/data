@@ -54,3 +54,4 @@
 
 - [Hackage](https://hackage.haskell.org/) - Haskell Package Repository. ([Code](https://github.com/haskell/hackage-server))
 - [Aelve Haskell packages search](https://codesearch.aelve.com/haskell) - Grep over package repositories.
+- [Monadoc](https://github.com/tfausak/monadoc) - Better Haskell documentation.

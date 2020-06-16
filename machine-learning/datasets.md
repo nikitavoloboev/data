@@ -32,3 +32,6 @@
 - [Human parsing datasets](https://github.com/HumanParsingSDK/datasets)
 - [Data Programming: Creating Large Training Sets, Quickly (2016)](https://papers.nips.cc/paper/6523-data-programming-creating-large-training-sets-quickly.pdf)
 - [Announcing Artifacts (2020)](https://medium.com/@shawnup/announcing-artifacts-a7f680b6afd6)
+- [DataHub](https://datahub.io/) - Provide various solutions to Publish and Deploy your Data with power and simplicity.
+- [Core Data](https://datahub.io/docs/core-data) - Important, commonly-used data as high quality, easy-to-use & open data packages. ([Code](https://github.com/datasets))
+- [Awesome collections on DataHub](https://github.com/datasets/awesome-data#readme)
