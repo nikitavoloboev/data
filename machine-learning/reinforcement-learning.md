@@ -79,3 +79,4 @@
 - [NetHack Learning Environment (NLE)](https://github.com/facebookresearch/nle) - Reinforcement Learning environment based on NetHack 3.6.
 - [RL-CycleGAN: Reinforcement Learning Aware Simulation-To-Real (2020)](http://openaccess.thecvf.com/content_CVPR_2020/papers/Rao_RL-CycleGAN_Reinforcement_Learning_Aware_Simulation-to-Real_CVPR_2020_paper.pdf)
 - [MARLeME: A Multi-Agent Reinforcement Learning Model Extraction Library (2020)](https://arxiv.org/abs/2004.07928)
+- [Minimalistic Gridworld Environment (MiniGrid)](https://github.com/maximecb/gym-minigrid)

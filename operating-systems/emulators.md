@@ -21,3 +21,4 @@
 - [Kopycat](https://github.com/inforion/kopycat) - Multi-architecture hardware emulation solution.
 - [Edge of Emulation: Game Boy Sewing Machines](https://shonumi.github.io/articles/art22.html) ([HN](https://news.ycombinator.com/item?id=23425524))
 - [libz80](https://github.com/ggambetta/libz80) - Emulator of the Z80 processor (C library).
+- [Ruffle](https://github.com/ruffle-rs/ruffle) - Flash Player emulator written in Rust.

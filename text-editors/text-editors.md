@@ -37,6 +37,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [CodeJar](https://github.com/antonmedv/codejar) - Micro code editor.
 - [tiptap](https://tiptap.scrumpy.io/) - Renderless rich-text editor for Vue.js. ([Code](https://github.com/scrumpy/tiptap))
 - [Marky Marked](https://github.com/patrickfatrick/marky-marked) - Lightweight in-browser content editor combining Markdown with the typical WYSIWYG toolbar.
+- [yace](https://github.com/petersolopov/yace) - Yet another code editor for browser.
 
 ## Links
 
