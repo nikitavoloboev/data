@@ -81,3 +81,4 @@
 - [DetectoRS](https://github.com/joe-siyuan-qiao/DetectoRS) - Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution.
 - [PyTorch implementation of paper Real-time Facial Surface Geometry from Monocular Video on Mobile GPUs](https://github.com/thepowerfuldeez/facemesh.pytorch)
 - [VirTex: Learning Visual Representations from Textual Annotations](https://github.com/kdexd/virtex)
+- [High-Resolution 3D Human Digitization from A Single Image](https://github.com/facebookresearch/pifuhd)

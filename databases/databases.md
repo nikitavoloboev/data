@@ -85,6 +85,7 @@
 - [Apache Pinot](https://pinot.apache.org/) - Realtime distributed OLAP datastore. ([Code](https://github.com/apache/incubator-pinot))
 - [Apache Ignite](https://github.com/apache/ignite) - Horizontally scalable, fault-tolerant distributed in-memory computing platform for building real-time applications that can process terabytes of data with in-memory speed.
 - [TileDB](https://github.com/TileDB-Inc/TileDB) - Storage Engine for Data Science.
+- [Pravega](https://github.com/pravega/pravega) - Open source distributed storage service implementing Streams. It offers Stream as the main primitive for the foundation of reliable storage systems.
 
 ## Tools
 

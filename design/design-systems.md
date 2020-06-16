@@ -36,6 +36,7 @@
 - [Guardian Source](https://theguardian.design/) ([Code](https://github.com/guardian/source))
 - [VKUI](https://github.com/VKCOM/VKUI) - VK design system.
 - [Theme UI Sketchy Preset](https://github.com/beerose/theme-ui-sketchy)
+- [UIkit](https://github.com/uikit/uikit) - Lightweight and modular front-end framework for developing fast and powerful web interfaces.
 
 ## Links
 

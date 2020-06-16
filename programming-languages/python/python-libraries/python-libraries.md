@@ -129,6 +129,8 @@
 - [Rope](https://github.com/python-rope/rope) - Python refactoring library.
 - [PyVISA](https://github.com/pyvisa/pyvisa) - Python package with bindings to the "Virtual Instrument Software Architecture" VISA library, in order to control measurement devices and test equipment via GPIB, RS232, or USB.
 - [hyperjson](https://github.com/mre/hyperjson) - Hyper-fast Python module for reading/writing JSON data using Rust's serde-json.
+- [Invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
+- [Invocations](https://github.com/pyinvoke/invocations) - Reusable Invoke tasks.
 
 ## Links
 

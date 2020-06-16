@@ -417,6 +417,8 @@
 - [bstr](https://github.com/BurntSushi/bstr) - String type for Rust that is not required to be valid UTF-8.
 - [cron](https://github.com/zslayton/cron) - Cron expression parser in Rust.
 - [Lelet](https://github.com/win-t/lelet) - Task executor that inspired by golang runtime.
+- [relibc](https://github.com/redox-os/relibc) - Portable POSIX C standard library written in Rust. It is under heavy development, and currently supports Redox and Linux.
+- [wasm-mt](https://github.com/w3reality/wasm-mt) - Multithreading library for Rust and WebAssembly.
 
 ## Cargo Plugins
 

@@ -118,3 +118,4 @@
 - [You don’t (always) need [weak self] (2019)](https://medium.com/flawless-app-stories/you-dont-always-need-weak-self-a778bec505ef)
 - [SwiftStatsDClient](https://github.com/apple/swift-statsd-client) - Metrics backend for swift-metrics that uses the statsd protocol.
 - [The Curious Case of Swift's Adoption of Smalltalk Keyword Syntax (2020)](https://blog.metaobject.com/2020/06/the-curious-case-of-swift-adoption-of.html) ([HN](https://news.ycombinator.com/item?id=23517269))
+- [Delightful Interactive Animations with Swift (2020)](https://www.onswiftwings.com/posts/interactive-animations/)
