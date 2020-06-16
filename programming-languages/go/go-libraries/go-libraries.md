@@ -125,6 +125,7 @@
 - [go-criu](https://github.com/checkpoint-restore/go-criu) - Go Bindings for CRIU.
 - [rtnetlink](https://github.com/jsimonetti/rtnetlink) - Provides low-level access to the Linux rtnetlink API.
 - [go-fuse](https://github.com/hanwen/go-fuse) - Go native bindings for the FUSE kernel module.
+- [automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota.
 
 ## Other
 
