@@ -24,3 +24,4 @@
 - [Sokol](https://github.com/floooh/sokol) - Simple STB-style cross-platform libraries for C and C++, written in C.
 - [libcsp](https://github.com/shiyanhui/libcsp) - Fast C concurrency library influenced by the CSP model. ([HN](https://news.ycombinator.com/item?id=22797286))
 - [libsrt](https://github.com/faragon/libsrt) - C library for writing fast and safe C code, faster.
+- [sx](https://github.com/septag/sx) - Portable base library for C programmers, designed for performance and simplicity.

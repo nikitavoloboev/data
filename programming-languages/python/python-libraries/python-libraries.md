@@ -127,6 +127,7 @@
 - [Dominate](https://github.com/Knio/dominate) - Python library for creating and manipulating HTML documents using an elegant DOM API.
 - [Watchdog](https://github.com/gorakhargosh/watchdog) - Python API and shell utilities to monitor file system events.
 - [Rope](https://github.com/python-rope/rope) - Python refactoring library.
+- [PyVISA](https://github.com/pyvisa/pyvisa) - Python package with bindings to the "Virtual Instrument Software Architecture" VISA library, in order to control measurement devices and test equipment via GPIB, RS232, or USB.
 
 ## Links
 

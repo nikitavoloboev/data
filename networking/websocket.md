@@ -17,3 +17,4 @@
 - [Stealing Secrets from Developers using Websockets (2020)](https://medium.com/@stestagg/stealing-secrets-from-developers-using-websockets-254f98d577a0) ([HN](https://news.ycombinator.com/item?id=23256458))
 - [Funnel](https://github.com/lambdaisland/funnel) - Transit-over-WebSocket Message Relay.
 - [hydrated-ws](https://github.com/dcharbonnier/hydrated-ws) - Toolbox for websockets clients, reconnecting websockets, channels muxing websockets, authentication, json-rpc over websockets.
+- [Chat built in Go using Websockets and Redis Pub/Sub](https://github.com/leartgjoni/go-chat-api)

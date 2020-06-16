@@ -270,6 +270,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Castodia](https://www.castodia.com/) - Pull data from your database directly into Google Sheets.
 - [Ask User](https://askuser.xyz/) - Survey your customers and build exactly what they want.
 - [NeuraCache](https://neuracache.com/) - Take notes & highlights, clip articles & screenshots using your favorite tool.
+- [Uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 
 ## Notes
 
