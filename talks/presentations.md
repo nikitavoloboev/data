@@ -21,3 +21,4 @@
 - [Shower Core](https://github.com/shower/core) - Core of Shower HTML presentation engine.
 - [Presentation Rules (2020)](http://www.jilles.net/perma/2020/06/05/presentation-rules.html)
 - [Hyperdeck](https://hyperdeck.io/) - Markdown Presentations for iPad and macOS.
+- [Paste](https://paste.bywetransfer.com/) - Here to change how you make decks. ([Taking creativity remote with the new Paste](https://ideas.bywetransfer.com/story/taking-creativity-remote-with-paste))

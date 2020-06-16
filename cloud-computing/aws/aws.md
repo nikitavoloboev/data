@@ -79,3 +79,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS notes](https://www.notion.so/AWS-a5192e36ddc74aecb1e8c1ea9221a1e0)
 - [AWS Activate for Startups](https://aws.amazon.com/activate/) - Offers startups free tools, resources, and more to quickly get started on AWS.
 - [Policy Sentry](https://github.com/salesforce/policy_sentry) - IAM Least Privilege Policy Generator and analysis database.
+- [Build an App with the AWS Cloud Development Kit (2020)](https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit)
