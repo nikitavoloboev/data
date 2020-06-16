@@ -98,3 +98,4 @@
 - [Let's make a Teeny Tiny compiler (2020)](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html) ([HN](https://news.ycombinator.com/item?id=23441767))
 - [PPCI](https://github.com/windelbouwman/ppci) - Compiler for ARM, X86, MSP430, xtensa and more implemented in pure Python.
 - [Awesome JIT](https://github.com/wdv4758h/awesome-jit#readme)
+- [ELVM](https://github.com/shinh/elvm) - Similar to LLVM but dedicated to Esoteric Languages.
