@@ -18,3 +18,4 @@
 - [TFLint](https://github.com/terraform-linters/tflint) - Terraform linter focused on possible errors, best practices, etc.
 - [Announcing the Terraform Visual Studio Code Extension v2.0.0 (2020)](https://www.hashicorp.com/blog/announcing-the-terraform-visual-studio-code-extension-v2-0-0/)
 - [Terraform Provider for Google Cloud Platform](https://github.com/terraform-providers/terraform-provider-google)
+- [Continuous Delivery with Terraform (2020)](https://theconsultingcto.com/posts/continuous-delivery-with-terraform/)

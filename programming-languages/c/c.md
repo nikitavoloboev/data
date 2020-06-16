@@ -54,3 +54,4 @@
 - [How the most upvoted C question was another question (2020)](https://bowero.nl/blog/2020/06/09/how-the-most-upvoted-c-question-was-another-question/) ([Lobsters](https://lobste.rs/s/m34tye/how_most_upvoted_c_question_was_another))
 - [LLDB Debugger](https://lldb.llvm.org/) - Next generation, high-performance debugger.
 - [Dumbindent: When 93% of the Time was Spent in Clang-Format (2020)](https://nigeltao.github.io/blog/2020/dumbindent.html) ([Lobsters](https://lobste.rs/s/xau5m4/dumbindent_when_93_time_was_spent_clang))
+- [C is archaic (2019)](https://birb007.github.io/blog/2019/12/15/c-is-archaic.html)

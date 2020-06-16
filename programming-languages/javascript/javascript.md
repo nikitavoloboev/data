@@ -173,3 +173,4 @@
 - [Understanding JavaScript Execution Context like never before (2020)](https://blog.greenroots.info/understanding-javascript-execution-context-like-never-before-ckb8x246k00f56hs1nefzpysq)
 - [Causes of Memory Leaks in JavaScript and How to Avoid Them (2020)](https://www.ditdot.hr/en/causes-of-memory-leaks-in-javascript-and-how-to-avoid-them) ([Lobsters](https://lobste.rs/s/ar5avz/causes_memory_leaks_javascript_how_avoid))
 - [UI.dev](https://ui.dev/) - Master the JavaScript Ecosystem.
+- [Do Not Follow JavaScript Trends (2020)](https://pragmaticpineapple.com/do-not-follow-javascript-trends/) ([Lobsters](https://lobste.rs/s/wb3ma8/do_not_follow_javascript_trends))
