@@ -202,3 +202,4 @@
 - [Cluster API](https://github.com/kubernetes-sigs/cluster-api) - Kubernetes project to bring declarative, Kubernetes-style APIs to cluster creation, configuration, and management.
 - [Pulumi Kubernetes Resource Provider](https://github.com/pulumi/pulumi-kubernetes)
 - [aws-k8s-tester](https://github.com/aws/aws-k8s-tester) - Set of utilities and libraries for "testing" Kubernetes on AWS.
+- [Go FlagZ](https://github.com/mwitkow/go-flagz) - Dynamic, thread-safe flag variables that can be modified at runtime through etcd or Kubernetes.

@@ -24,3 +24,4 @@
 - [Pike](https://github.com/sashabaranov/pike) - Generate CRUD gRPC backends from single YAML description.
 - [gRPC on Node.js](https://github.com/grpc/grpc-node)
 - [protoreflect](https://github.com/jhump/protoreflect) - Reflection (Rich Descriptors) for Go Protocol Buffers.
+- [gRPC Proxy](https://github.com/mwitkow/grpc-proxy) - Go reverse proxy that allows for rich routing of gRPC calls with minimum overhead.

@@ -13,3 +13,4 @@
 - [Roborock](https://en.roborock.com/) - Automatic vacuum cleaner robot.
 - [AppDaemon](https://github.com/home-assistant/appdaemon) - Loosely coupled, multi-threaded, sandboxed python execution environment for writing automation apps for various types of Home Automation Software.
 - [ESPHome](https://esphome.io/) - System to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems. ([Code](https://github.com/esphome/esphome))
+- [Home Assistant with Google Auth and Assistant (2020)](https://mwitkow.me/posts/2020-04-25_homeassistant_google/)
