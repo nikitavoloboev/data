@@ -84,6 +84,7 @@
 - [MTBBarcodeScanner](https://github.com/mikebuss/MTBBarcodeScanner) - Lightweight, easy-to-use barcode scanning library for iOS 8+.
 - [LiquidSwipe](https://github.com/exyte/LiquidSwipe) - Example of using SwiftUI to create a beautiful Liquid Swipe control.
 - [FanMenu](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
+- [SwiftHook](https://github.com/623637646/SwiftHook) - Framework to hook object’s methods in iOS.
 
 ## macOS
 

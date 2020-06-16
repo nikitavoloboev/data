@@ -74,3 +74,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Briefing](https://brie.fi/ng) - Secure anonymous video conferencing.
 - [Talky](https://talky.io/) - Simple video chat and screen sharing for groups up to 6 people.
 - [Rav1e](https://github.com/xiph/rav1e) - AV1 encoder written in Rust and assembly. ([HN](https://news.ycombinator.com/item?id=23512161))
+- [HN: FFmpeg 4.3 (2020)](https://news.ycombinator.com/item?id=23540704)
