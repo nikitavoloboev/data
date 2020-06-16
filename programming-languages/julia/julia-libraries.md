@@ -70,6 +70,7 @@
 - [InteractiveViz.jl](https://github.com/org-arl/InteractiveViz.jl) - Interactive visualization tools for Julia.
 - [UnicodePlots](https://github.com/Evizero/UnicodePlots.jl) - Advanced Unicode plotting library designed for use in Julia's REPL.
 - [Revise.jl](https://github.com/timholy/Revise.jl) - Automatically update function definitions in a running Julia session.
+- [JuliaWebAPI.jl](https://github.com/JuliaWeb/JuliaWebAPI.jl) - Julia package for deploying APIs.
 
 ## Links
 

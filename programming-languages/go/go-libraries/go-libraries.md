@@ -65,6 +65,7 @@
 - [rest](https://github.com/sendgrid/rest) - SendGrid's Golang HTTP Client for calling APIs.
 - [goproxy](https://github.com/elazarl/goproxy) - Provides a customizable HTTP proxy library for Go.
 - [go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go.
+- [Oxy](https://github.com/vulcand/oxy) - Go library with HTTP handlers that enhance HTTP standard library.
 
 ## GraphQL
 

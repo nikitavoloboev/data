@@ -14,3 +14,4 @@
 - [Guitar Chord Voicings with Prolog (2020)](http://www.petecorey.com/blog/2020/04/21/guitar-chord-voicings-with-prolog/)
 - [Deep Learning for Guitar Effect Emulation (2020)](https://teddykoker.com/2020/05/deep-learning-for-guitar-effect-emulation/) ([HN](https://news.ycombinator.com/item?id=23141191))
 - [Guitar Decomposed](https://bartoszmilewski.com/2020/05/24/guitar-decomposed-1-weird-logic-behind-tuning/)
+- [SVGuitar](https://github.com/omnibrain/svguitar) - JavaScript Guitar Chord Renderer.

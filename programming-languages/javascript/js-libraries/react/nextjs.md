@@ -83,3 +83,4 @@
 - [Creating a Next.js mono repository project with TypeScript](https://josephluck.co.uk/blog/next-typescript-monorepo/)
 - [NextJS + Preact Demo](https://github.com/developit/nextjs-preact-demo)
 - [2 Ways to Create Server-Rendered Routes Using Next.js and Netlify (2020)](https://www.netlify.com/blog/2020/06/10/2-ways-to-create-server-rendered-routes-using-next.js-and-netlify/)
+- [next-on-netlify](https://github.com/FinnWoelm/next-on-netlify) - Utility for hosting NextJS applications with Server-Side Rendering on Netlify.
