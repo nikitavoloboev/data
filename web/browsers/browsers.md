@@ -53,3 +53,4 @@
 - [Selene](https://github.com/yashaka/selene) - User-oriented Web UI browser tests in Python.
 - [WebCheck](https://webcheck.tools/) - High-confidence browser testing. ([Lobsters](https://lobste.rs/s/mdmvuw/webcheck_high_confidence_browser))
 - [Hello, Goodbye](https://github.com/bcye/Hello-Goodbye) - Browser extension that blocks annoying chat widgets.
+- [Getting a Browser Extension Through Review (2020)](https://formidable.com/blog/2020/extension-reviews/)

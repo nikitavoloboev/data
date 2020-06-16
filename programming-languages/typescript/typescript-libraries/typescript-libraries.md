@@ -50,6 +50,7 @@
 - [typed-assert](https://github.com/elierotenberg/typed-assert) - Typesafe TS assertion library.
 - [TS Pattern](https://github.com/gvergnaud/ts-pattern) - Complete Pattern Matching library for TypeScript, with smart type inference.
 - [TSyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for TypeScript/JavaScript for constructor injection.
+- [tslib](https://github.com/microsoft/tslib) - Runtime library for TypeScript helpers.
 
 ## Links
 
