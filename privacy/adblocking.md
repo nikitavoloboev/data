@@ -11,3 +11,4 @@
 - [Hole Stats](https://gumroad.com/l/iqhwv) - Follow up and manage the status of your Pi-hole with this simple macOS app that lives in your menu bar.
 - [Pi Stats](https://github.com/Bunn/PiStats) - macOS app to visualize Pi-hole information.
 - [Should I Block Ads? (2020)](https://shouldiblockads.com/) ([HN](https://news.ycombinator.com/item?id=23276117))
+- [EasyList filter lists](https://github.com/easylist/easylist) - Sets of rules originally designed for Adblock that automatically remove unwanted content from the internet.

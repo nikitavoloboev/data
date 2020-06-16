@@ -162,3 +162,4 @@
 - [Critical-ish CSS Extraction (2020)](https://giuseppegurgone.com/critical-css-extraction/)
 - [7 CSS properties I had no idea about (2020)](https://dev.to/tlakomy/7-css-properties-you-had-no-idea-about-4e75)
 - [concrete.css](https://github.com/louismerlin/concrete.css) - Simple and to the point CSS microframework. ([Web](https://concrete.style/))
+- [Sass](https://github.com/sass/sass) - Extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more.

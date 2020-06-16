@@ -91,6 +91,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Updwn](http://updwn.co/) - See what everybody thinks.
 - [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.
 - [Sketch Toy](https://sketchtoy.com/) - Draw sketches and share replays with friends.
+- [Axiom](https://axiom.co/) - Store and query unlimited machine data.
 - [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together.
 - [Git.io](https://git.io/) - URL shortener by GitHub.
 - [Sourcegraph](https://github.com/sourcegraph/sourcegraph#readme) - Code search and intelligence, self-hosted and scalable.
