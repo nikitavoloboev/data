@@ -27,6 +27,7 @@ Here are few more things I liked, design wise.
 - [Piccalilli](https://piccalil.li/)
 - [Exyte](https://exyte.com/)
 - [Zipcall](https://zipcall.io/)
+- [Issue 33](https://issue33.com/)
 
 ## Blogs
 
@@ -114,6 +115,7 @@ Here are few more things I liked, design wise.
 - [Nuno Coelho Santos](https://nunocoelhosantos.com/)
 - [Kellie Kowalski](https://www.kelliekowalski.com/)
 - [Amanda Pinsker](https://amandapinsker.com/) ([Code](https://github.com/ampinsk/ampinsk.github.io))
+- [Kyle Mitchell](https://writing.kemitchell.com/) ([Code](https://github.com/kemitchell/writing.kemitchell.com))
 - [Stefan Judis](https://www.stefanjudis.com/)
 - [Fabian Tamp](https://capnfabs.net/)
 - [William Falcon](https://www.williamfalcon.com/)

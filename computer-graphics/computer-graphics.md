@@ -71,3 +71,5 @@
 - [Computer Graphics from scratch](https://github.com/ggambetta/computer-graphics-from-scratch) ([Web](https://gabrielgambetta.com/computer-graphics-from-scratch/introduction.html))
 - [Online path sampling control with progressive spatio-temporal filtering (2020)](https://arxiv.org/abs/2005.07547) ([Twitter](https://twitter.com/jpantaleoni/status/1270261105802252289))
 - [A sort-middle architecture for 2D graphics (2020)](https://raphlinus.github.io/rust/graphics/gpu/2020/06/12/sort-middle.html)
+- [Journal of Computer Graphics Techniques](http://www.jcgt.org/read.html)
+- [A Massive Fractal in Days, Not Years (2020)](http://www.jcgt.org/published/0009/02/02/)
