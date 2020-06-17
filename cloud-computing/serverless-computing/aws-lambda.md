@@ -19,3 +19,4 @@
 - [AWS Lambda Go Api Proxy](https://github.com/awslabs/aws-lambda-go-api-proxy) - Makes it easy to run Golang APIs written with frameworks such as Gin with AWS Lambda and Amazon API Gateway.
 - [AWS Lambda Power Tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Step Functions state machine that helps you optimize your Lambda functions in a data-driven way.
 - [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime) ([HN](https://news.ycombinator.com/item?id=23352501))
+- [A Shared File System for Your Lambda Functions (2020)](https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/) ([HN](https://news.ycombinator.com/item?id=23543554))

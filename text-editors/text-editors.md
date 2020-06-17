@@ -25,6 +25,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Blockly](https://github.com/google/blockly) - Web-based, visual programming editor.
 - [Micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor. ([HN](https://news.ycombinator.com/item?id=23334190))
 - [Lime Text](https://github.com/limetext/lime) - Powerful and elegant text editor primarily developed in Go.
+- [Geany](https://www.geany.org/) - Fast and lightweight IDE. ([Code](https://github.com/geany/geany)) ([HN](https://news.ycombinator.com/item?id=23524336))
 
 ## Web
 

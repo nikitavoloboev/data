@@ -19,3 +19,4 @@
 - [Lua in Rust](https://github.com/lonng/lua-rs) - Pure Rust implementation of Lua compiler.
 - [Typed Lua](https://github.com/andremm/typedlua) - Optional Type System for Lua.
 - [Teal](https://github.com/teal-language/tl) - Compiler for Teal, a typed dialect of Lua.
+- [pprint.lua](https://github.com/jagt/pprint.lua) - Lua pretty printer.

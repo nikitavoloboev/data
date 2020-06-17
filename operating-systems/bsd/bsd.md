@@ -18,3 +18,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [My new FreeBSD Laptop: Dell Latitude 7390 (2020)](http://www.daemonology.net/blog/2020-05-22-my-new-FreeBSD-laptop-Dell-7390.html)
 - [tilde.institute](https://tilde.institute/) - Public-access OpenBSD system.
 - [Guide to FreeBSD Desktop Distributions](https://www.freebsdfoundation.org/guide-to-freebsd-desktop-distributions/)
+- [HN: FreeBSD 11.4 (2020)](https://news.ycombinator.com/item?id=23541104)
