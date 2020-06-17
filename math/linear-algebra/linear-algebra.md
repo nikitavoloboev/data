@@ -27,3 +27,4 @@
 - [BLIS](https://github.com/flame/blis) - Portable software framework for instantiating high-performance BLAS-like dense linear algebra libraries.
 - [MIT Linear Algebra course](https://mitmath.github.io/1806/)
 - [Catalog of algebra books for self learning](https://github.com/prathyvsh/algebra-books#readme)
+- [Is NonLinear Algebra a thing? (2020)](https://www.reddit.com/r/math/comments/hac0bt/is_nonlinear_algebra_a_thing/)

@@ -41,3 +41,4 @@
 - [Is a trillion-dollar worth of programming lying on the ground (2020)](https://blog.cerebralab.com/Is_a_trillion-dollar_worth_of_programming_lying_on_the_ground) ([HN](https://news.ycombinator.com/item?id=23402788))
 - [Declining worker power versus rising monopoly power (2020)](https://voxeu.org/article/declining-worker-power-versus-rising-monopoly-power) ([HN](https://news.ycombinator.com/item?id=23403455))
 - [Long-run money neutrality explained (2020)](https://www.reddit.com/r/AskEconomics/comments/gziqg8/i_have_a_few_questions_the_us_has_been_printing/)
+- [Notes on the Crises](https://nathantankus.substack.com/)

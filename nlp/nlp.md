@@ -46,7 +46,7 @@
 - [Awesome NLP](https://github.com/keon/awesome-nlp#readme)
 - [NLP Library](https://github.com/mihail911/nlp-library#readme) - Curated collection of papers for the NLP practitioner.
 - [spacy-transformers](https://github.com/explosion/spacy-transformers) - spaCy pipelines for pre-trained BERT, XLNet and GPT-2.
-- [AllenNLP](https://github.com/allenai/allennlp) - Open-source NLP research library, built on PyTorch.
+- [AllenNLP](https://github.com/allenai/allennlp) - Open-source NLP research library, built on PyTorch. ([Announcing AllenNLP 1.0](https://medium.com/ai2-blog/allennlp-1-0-df0327445509))
 - [GloVe](https://github.com/stanfordnlp/GloVe) - Global Vectors for Word Representation.
 - [Botpress](https://github.com/botpress/botpress) - Open-source Virtual Assistant platform.
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - Hackable open source voice assistant. ([HN](https://news.ycombinator.com/item?id=22702195))
