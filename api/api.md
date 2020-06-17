@@ -82,6 +82,7 @@
 - [GitLab Go](https://github.com/xanzy/go-gitlab)
 - [Robintrack](https://github.com/Ameobea/robintrack) - Scrapes the Robinhood API to retrieve + store popularity and price data. ([Web](http://robintrack.net/))
 - [OpenAI API](https://beta.openai.com/)
+- [Tesla Swift](https://github.com/jonasman/TeslaSwift)
 
 ## Links
 

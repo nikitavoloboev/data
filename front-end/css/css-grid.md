@@ -16,3 +16,4 @@
 - [CSS Grid N2P Videos](https://www.youtube.com/playlist?list=PLBHbfZu_dhOca_FpdUccB2KfjPfW1zklZ)
 - [Build a Classic Layout FAST in CSS Grid (2019)](https://www.youtube.com/watch?v=KOvGeFUHAC0)
 - [Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid/)
+- [Grid for layout, Flexbox for components (2020)](https://ishadeed.com/article/grid-layout-flexbox-components/)
