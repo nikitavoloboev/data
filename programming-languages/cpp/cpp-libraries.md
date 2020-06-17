@@ -94,3 +94,5 @@
 - [fast_io](https://github.com/expnkx/fast_io) - C++ general-purpose exception-safe RAII I/O library based on C++ 20 Concepts. It is at least ten times faster than cstdio or iostream.
 - [LEAF](https://github.com/zajo/leaf) - Lightweight Error Augmentation Framework.
 - [nacro](https://github.com/mshockwave/nacro) - Better C/C++ macro extension. Implemented in Clang plugins. Inspired by Rust's macro system.
+- [Magic Enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code.
+- [Nameof](https://github.com/Neargye/nameof) - Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum.

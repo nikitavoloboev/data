@@ -19,7 +19,7 @@
 - [mediasoup](https://github.com/versatica/mediasoup) - Cutting Edge WebRTC Video Conferencing.
 - [Abusing WebRTC to Reveal Coarse Location Data in Signal (2020)](https://medium.com/tenable-techblog/turning-signal-app-into-a-coarse-tracking-device-643eb4298447) ([HN](https://news.ycombinator.com/item?id=23251319))
 - [Pion SDP](https://github.com/pion/sdp) - Go implementation of the SDP.
-- [Janus WebRTC Server](https://janus.conf.meetecho.com/) ([HN](https://news.ycombinator.com/item?id=23372119))
+- [Janus WebRTC Server](https://janus.conf.meetecho.com/) ([HN](https://news.ycombinator.com/item?id=23372119)) ([Code](https://github.com/meetecho/janus-gateway))
 - [Anatomy of a WebRTC video conference (2020)](https://levelup.gitconnected.com/anatomy-of-a-webrtc-video-conference-f924ba0ba930)
 - [WebRTC iOS tutorial](https://github.com/jsharp83/WebRTC-iOS-tutorial)
 - [How do you create a video chat application? (2020)](https://blog.phuaxueyong.com/post/2020-06-15-how-to-make-a-video-chat-app/) ([HN](https://news.ycombinator.com/item?id=23522689))

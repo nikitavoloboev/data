@@ -43,6 +43,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [LegoOS](https://github.com/WukLab/LegoOS) - Disseminated, Distributed OS for Hardware Resource Disaggregation.
 - [CuBitOS](https://github.com/docandrew/CuBit) - General-purpose, formally-verified, 64-bit operating system in SPARK/Ada for x86-64.
 - [Demikernel](https://github.com/demikernel/demikernel) - Library operating system architecture designed for use with kernel-bypass I/O devices.
+- [Drone](https://www.drone-os.com/) - Embedded Operating System for writing real-time applications in Rust. ([drone-core](https://github.com/drone-os/drone-core))
 
 ## Notes
 

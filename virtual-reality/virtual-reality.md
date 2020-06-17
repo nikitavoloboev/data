@@ -16,3 +16,4 @@
 - [Godot Oculus Quest Toolkit](https://github.com/NeoSpark314/godot_oculus_quest_toolkit)
 - [Virtual Reality DOS](https://github.com/sonictruth/vr-dos) - Experimental "PC running DOS" emulator inside a VR environment.
 - [Half-Life: Alyx's SDK walkthrough (2020)](https://twitter.com/joewintergreen/status/1262662025903128576)
+- [Mozilla Hubs](https://hubs.mozilla.com/#/) - Share a virtual room with friends. Watch videos, play with 3D objects, or just hang out. ([Code](https://github.com/mozilla/hubs))
