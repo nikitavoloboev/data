@@ -101,3 +101,4 @@
 - [GraphQL directives are underrated (2020)](https://blog.logrocket.com/graphql-directives-are-underrated/)
 - [Genql](https://genql.now.sh/) - Type safe GraphQL query builder. ([Code](https://github.com/remorses/genql))
 - [Slash GraphQL](https://dgraph.io/slash-graphql) - Provides GraphQL Backend for Your Application on the Internet.
+- [graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps.

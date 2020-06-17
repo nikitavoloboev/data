@@ -18,6 +18,6 @@
 - [VUDA](https://github.com/jgbit/vuda) - Header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications.
 - [Rust implementation of the Vulkan Tutorial](https://github.com/unknownue/vulkan-tutorial-rust)
 - [gfxreconstruct](https://github.com/LunarG/gfxreconstruct) - Graphics API Capture and Replay Tools for Reconstructing Graphics Application Behavior.
-- [Vulkan Samples](https://github.com/LunarG/VulkanSamples) - Collection of Vulkan C++ sample applications.
+- [Vulkan Samples](https://github.com/LunarG/VulkanSamples) - Collection of Vulkan C++ sample applications. ([Version 2](https://github.com/KhronosGroup/Vulkan-Samples))
 - [vpp](https://github.com/nyorain/vpp) - Modern C++ vulkan utility library.
 - [Yave](https://github.com/gan74/Yave) - Yet Another Vulkan Engine.
