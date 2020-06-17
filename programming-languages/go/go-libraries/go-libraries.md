@@ -459,6 +459,7 @@
 - [ipvs](https://github.com/cloudflare/ipvs) - Allows you to manage Linux IPVS services and destinations.
 - [gojsonschema](https://github.com/xeipuuv/gojsonschema) - Implementation of JSON Schema.
 - [Phony](https://github.com/Arceliar/phony) - Ponylang-inspired actor model library for Go.
+- [faker](https://github.com/bxcodec/faker) - Fake Data Generator for Struct.
 
 ## Links
 

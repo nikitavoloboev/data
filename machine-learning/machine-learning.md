@@ -243,3 +243,4 @@
 - [ML Engineer Roadmap](https://github.com/chris-chris/ml-engineer-roadmap#readme)
 - [Machine Learning for Everyone - In simple words. With real-world examples.](https://vas3k.com/blog/machine_learning/)
 - [Deep learning на пальцах](https://dlcourse.ai/) ([Code](https://github.com/sim0nsays/dlcourse_ai))
+- [How to add AI to your app without knowing anything about AI (2020)](https://jaredpalmer.com/blog/add-ai-to-your-app-without-knowing-anything-about-ai)

@@ -6,9 +6,8 @@ Here are few more things I liked, design wise.
 
 ## Websites
 
-- [Linear](https://linear.app/)
-- [Swipe Files](https://www.swipefiles.co/)
 - [Dribble](https://dribbble.com/)
+- [Swipe Files](https://www.swipefiles.co/)
 - [Draftsend](https://draftsend.com/)
 - [taotajima](http://taotajima.jp/works/waxing-moon/) - Amazing transitions.
 - [TANMU LABS](https://tanmulabs.com/) - Pretty awesome color palette.
@@ -28,7 +27,6 @@ Here are few more things I liked, design wise.
 - [Exyte](https://exyte.com/)
 - [Zipcall](https://zipcall.io/)
 - [Issue 33](https://issue33.com/)
-- [Flexibits](https://flexibits.com/)
 
 ## Blogs
 
@@ -49,8 +47,10 @@ Here are few more things I liked, design wise.
 
 ## Products
 
+- [Linear](https://linear.app/)
 - [Notion](https://www.notion.so)
 - [Muse](https://museapp.com/)
+- [Flexibits](https://flexibits.com/)
 - [Collected Notes](https://collectednotes.com/)
 - [Actual Budget](https://actualbudget.com/)
 - [Notable](https://notable.md/)
@@ -62,6 +62,7 @@ Here are few more things I liked, design wise.
 - [Nolt](https://nolt.io/) - Lovely footer.
 - [Tonic](https://canopy.cr/tonic)
 - [Triqla](https://triqla.com/)
+- [Formik](https://formik.com/)
 
 ## Events
 
