@@ -118,3 +118,4 @@
 - [Lite Transformer with Long-Short Range Attention](https://github.com/mit-han-lab/lite-transformer)
 - [PyTorch implementation of the KWNG estimator](https://github.com/MichaelArbel/KWNG)
 - [Classification with PyTorch](https://github.com/bearpaw/pytorch-classification)
+- [PyTorch Toolbox](https://github.com/PistonY/torch-toolbox) - Aiming to make you write Pytorch code more easier, readable and concise.

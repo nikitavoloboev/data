@@ -105,3 +105,4 @@
 - [Looking Back at Postgres (2019)](https://arxiv.org/abs/1901.01973) ([HN](https://news.ycombinator.com/item?id=23529954))
 - [The Postgres and Illustra Codelines](https://dl.acm.org/doi/pdf/10.1145/3226595.3226623)
 - [Don't Do This - PostgreSQL wiki](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
+- [Citus](https://github.com/citusdata/citus) - Distributed PostgreSQL extension for multi-tenant and real-time analytics workloads.
