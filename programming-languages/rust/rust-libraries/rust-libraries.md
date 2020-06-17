@@ -421,6 +421,8 @@
 - [wasm-mt](https://github.com/w3reality/wasm-mt) - Multithreading library for Rust and WebAssembly.
 - [Simba](https://github.com/rustsim/simba) - SIMD algebra for Rust.
 - [render](https://github.com/render-rs/render.rs) - Safe and simple template engine with the ergonomics of JSX.
+- [memmap](https://github.com/danburkert/memmap-rs) - Cross-platform Rust API for memory mapped IO.
+- [bus](https://github.com/jonhoo/bus) - Efficient, lock-free, bounded Rust broadcast channel.
 
 ## Cargo Plugins
 

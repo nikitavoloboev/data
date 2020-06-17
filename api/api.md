@@ -111,3 +111,4 @@
 - [OpenAPI Generator](https://openapi-generator.tech/) - Generate clients, servers, and documentation from OpenAPI documents. ([Code](https://github.com/OpenAPITools/openapi-generator))
 - [Lessons learned designing APIs (2019)](https://menduz.com/posts/2019.05.07)
 - [Ask HN: Best Way to Mock APIs in 2020?](https://news.ycombinator.com/item?id=23515857)
+- [Paperclip](https://github.com/wafflespeanut/paperclip) - OpenAPI tooling for Rust.

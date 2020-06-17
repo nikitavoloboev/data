@@ -36,3 +36,4 @@
 - [Core Data](https://datahub.io/docs/core-data) - Important, commonly-used data as high quality, easy-to-use & open data packages. ([Code](https://github.com/datasets))
 - [Awesome collections on DataHub](https://github.com/datasets/awesome-data#readme)
 - [Label Studio](https://labelstud.io/) - Multi-type data labeling and annotation tool with standardized output format. ([Code](https://github.com/heartexlabs/label-studio))
+- [Heartex](https://www.heartex.ai/) - Data Management Platform for Machine Learning.
