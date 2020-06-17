@@ -95,3 +95,4 @@
 - [If you were starting your physics PhD right now, what would you study? (2020)](https://www.reddit.com/r/Physics/comments/h92nhn/if_you_were_starting_your_physics_phd_right_now/)
 - [Some Frequently Asked Questions About Virtual Particles](http://math.ucr.edu/home/baez/physics/Quantum/virtual_particles.html)
 - [Applied Dynamical Systems (2020)](https://www.youtube.com/playlist?list=PL8erL0pXF3JZqdlYIfTTyibOqSqwzRdVV)
+- [What are some common misconceptions in physics? (2020)](https://www.reddit.com/r/AskPhysics/comments/haaw4h/what_are_some_common_misconceptions_in_physics/)
