@@ -59,3 +59,4 @@
 - [A baseline compiler for guile (2020)](http://wingolog.org/archives/2020/06/03/a-baseline-compiler-for-guile)
 - [Kalyn](https://github.com/raxod502/kalyn) - Self-hosting compiler from a Haskell-like Lisp directly to x86-64, from scratch.
 - [SedLisp](https://github.com/shinh/sedlisp) - Lisp implementation in sed.
+- [LispMicrocontroller](https://github.com/jbush001/LispMicrocontroller) - Microcontroller that natively executes a simple LISP dialect.

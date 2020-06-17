@@ -248,6 +248,10 @@ Below is a list of extensions I use.
 - [Nix language support](https://marketplace.visualstudio.com/items?itemName=bbenoist.Nix)
 - [Nix Environment Selector](https://github.com/arrterian/nix-env-selector) - Allows you switch environment for Visual Studio Code and extensions based on .nix config files.
 
+## Nim
+
+- [Nim](https://github.com/pragmagic/vscode-nim) - Provides support for the Nim language.
+
 ## Erlang
 
 - [Erlang](https://github.com/erlang-ls/vscode) - Uses Erlang LSP.

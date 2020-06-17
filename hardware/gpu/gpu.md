@@ -16,3 +16,4 @@
 - [Harlan](https://github.com/eholk/harlan) - Domain specific language for programming GPUs.
 - [Region-based memory management for expressive GPU programming (2015)](https://blog.theincredibleholk.org/papers/dissertation.pdf)
 - [Fast 2D rendering on GPU (2020)](https://raphlinus.github.io/rust/graphics/gpu/2020/06/13/fast-2d-rendering.html) ([HN](https://news.ycombinator.com/item?id=23512897))
+- [Nyuzi Processor](https://github.com/jbush001/NyuziProcessor) - Experimental GPGPU processor hardware design focused on compute intensive tasks. It is optimized for use cases like deep learning and image processing.
