@@ -31,3 +31,4 @@
 - [DNS Proxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, and DNSCrypt support.
 - [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide) ([HN](https://news.ycombinator.com/item?id=23442730))
 - [DNS-over-HTTPS](https://github.com/m13253/dns-over-https) - High performance DNS over HTTPS client & server.
+- [Beyond DNS over HTTPS: Trustless DNS Privacy (2020)](https://alyssa.is/proposing-dns-over-tcp-over-tor/) ([Lobsters](https://lobste.rs/s/7owwun/beyond_dns_over_https_trustless_dns))
