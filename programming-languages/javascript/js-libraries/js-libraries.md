@@ -271,6 +271,7 @@
 - [fit-curve](https://github.com/soswow/fit-curve) - JavaScript implementation of Philip J. Schneider's "Algorithm for Automatically Fitting Digitized Curves" from the book "Graphics Gems".
 - [clean-deep](https://github.com/nunofgs/clean-deep) - Remove falsy, empty or nullable values from objects.
 - [regular-table](https://github.com/jpmorganchase/regular-table) - Regular <table> library, for async and virtual data models.
+- [Stimulus](https://github.com/stimulusjs/stimulus) - Modest JavaScript framework for the HTML you already have. ([Web](https://stimulusjs.org/))
 
 ## Links
 

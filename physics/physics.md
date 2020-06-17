@@ -94,3 +94,4 @@
 - [If breaking the sound barrier causes a sonic boom, what would breaking the light speed barrier do? (2020)](https://www.reddit.com/r/askscience/comments/gz1u71/if_breaking_the_sound_barrier_causes_a_sonic_boom/)
 - [If you were starting your physics PhD right now, what would you study? (2020)](https://www.reddit.com/r/Physics/comments/h92nhn/if_you_were_starting_your_physics_phd_right_now/)
 - [Some Frequently Asked Questions About Virtual Particles](http://math.ucr.edu/home/baez/physics/Quantum/virtual_particles.html)
+- [Applied Dynamical Systems (2020)](https://www.youtube.com/playlist?list=PL8erL0pXF3JZqdlYIfTTyibOqSqwzRdVV)

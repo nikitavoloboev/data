@@ -29,3 +29,4 @@
 - [ReactiveTimelane](https://github.com/nkristek/ReactiveTimelane) - Provides operators for Signal and SignalProducer in ReactiveSwift for profiling streams with the Timelane Instrument.
 - [RxSwift to Apple’s Combine Cheat Sheet (2019)](https://github.com/CombineCommunity/rxswift-to-combine-cheatsheet#readme)
 - [Combine Schedulers](https://github.com/pointfreeco/combine-schedulers) - Few schedulers that make working with Combine more testable and more versatile.
+- [Retrying a network request with a delay in Combine (2020)](https://www.donnywals.com/retrying-a-network-request-with-a-delay-in-combine/)

@@ -4,3 +4,4 @@
 
 - [Intro to Creative Coding workshop with p5.js and Tone.js](https://github.com/mattdesl/workshop-p5-intro)
 - [Welcome to Coding in p5.js](https://happycoding.io/tutorials/p5js/welcome-to-coding)
+- [Beginner workshop using p5.js and CodeSandbox](https://github.com/mattdesl/workshop-data-artwork)
