@@ -391,6 +391,7 @@
 - [Fireblade ECS](https://github.com/fireblade-engine/ecs) - Dependency free, lightweight, fast Entity-Component System (ECS) implementation in pure Swift.
 - [jpeg](https://github.com/kelvin13/jpeg) - Decode, inspect, edit, and encode jpeg images in pure swift.
 - [png](https://github.com/kelvin13/png) - Decode, inspect, edit, and encode png images in a native swift framework.
+- [Random Color](https://github.com/onevcat/RandomColorSwift) - Can use the library to generate attractive random colors on iOS or macOS.
 
 ## Other (not lib)
 

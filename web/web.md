@@ -112,3 +112,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Xiph.org](https://xiph.org/) - Non-profit corporation dedicated to protecting the foundations of Internet multimedia from control by private interests.
 - [Webmention](https://indieweb.org/Webmention) - Simple way to notify any URL when you mention it on your site.
 - [Test suites for Web platform specs — including WHATWG, W3C, and others](https://web-platform-tests.org/) ([Code](https://github.com/web-platform-tests/wpt))
+- [besticon](https://github.com/mat/besticon) - Favicon service written in Go.

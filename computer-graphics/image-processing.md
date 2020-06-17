@@ -35,3 +35,4 @@
 - [imageproc](https://github.com/image-rs/imageproc) - Image processing operations as rust library.
 - [Thumbor](https://github.com/thumbor/thumbor) - Open-source smart on-demand image cropping, resizing and filters.
 - [ImageMagick](https://imagemagick.org/index.php) - Convert, Edit, or Compose Bitmap Images. ([WASM implementation](https://github.com/dlemstra/Magick.WASM)) ([Deno port](https://github.com/leonelv/deno-imagemagick))
+- [Leptonica](https://github.com/DanBloomberg/leptonica) - Open source library containing software that is broadly useful for image processing and image analysis applications. ([Web](http://leptonica.org/))

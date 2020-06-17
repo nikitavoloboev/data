@@ -23,3 +23,4 @@
 - [Using SRE to meet reliability challenges | Google Cloud (2020)](https://cloud.google.com/blog/products/management-tools/meeting-reliability-challenges-with-sre-principles)
 - [Gruntwork](https://gruntwork.io/) - DevOps as a Service.
 - [pyinfra](https://github.com/Fizzadar/pyinfra) - Automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more. ([HN](https://news.ycombinator.com/item?id=23487178))
+- [Testinfra](https://github.com/philpep/testinfra) - Write unit tests in Python to test actual state of your servers configured by management tools like Salt, Ansible, Puppet, Chef and so on.

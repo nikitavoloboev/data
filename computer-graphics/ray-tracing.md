@@ -34,3 +34,4 @@
 - [Tungsten Renderer](https://github.com/tunabrain/tungsten) - High performance physically based renderer in C++11.
 - [Ray Tracing Gems](https://link.springer.com/book/10.1007/978-1-4842-4427-2) - High-Quality and Real-Time Rendering with DXR and Other APIs.
 - [CUDA based Ray Tracer](https://github.com/xlnx/cuda-raytracer)
+- [Saturno](https://github.com/alvarosan/saturno) - Implementation of 'Ray Tracing in One Weekend' in Rust (and wasm).

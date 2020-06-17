@@ -48,6 +48,7 @@
 - [Create an Issue](https://github.com/JasonEtco/create-an-issue) - GitHub Action that creates a new issue using a template file.
 - [Lock Threads](https://github.com/dessant/lock-threads) - GitHub Action that locks closed issues and pull requests after a period of inactivity.
 - [action-cli](https://github.com/numtide/action-cli) - GitHub actions without JavaScript.
+- [amplify-cli-action](https://github.com/ambientlight/amplify-cli-action) - GitHub action for deploying AWS Amplify project.
 
 ## Go
 

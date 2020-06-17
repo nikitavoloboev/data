@@ -71,6 +71,7 @@
 - [UnicodePlots](https://github.com/Evizero/UnicodePlots.jl) - Advanced Unicode plotting library designed for use in Julia's REPL.
 - [Revise.jl](https://github.com/timholy/Revise.jl) - Automatically update function definitions in a running Julia session.
 - [JuliaWebAPI.jl](https://github.com/JuliaWeb/JuliaWebAPI.jl) - Julia package for deploying APIs.
+- [HTTP](https://github.com/JuliaWeb/HTTP.jl) - HTTP client and server functionality for Julia.
 
 ## Links
 

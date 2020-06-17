@@ -24,3 +24,4 @@
 - [IconGenerator](https://github.com/onmyway133/IconGenerator) - macOS app to generate app icons.
 - [Clarity Icons](https://clarity.design/icons)
 - [App Icon Generator](https://appicon.co/)
+- [File Icon Images](https://github.com/dmhendricks/file-icon-vectors) - Collection of file type icons in SVG format.

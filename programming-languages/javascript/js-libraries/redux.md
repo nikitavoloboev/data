@@ -71,3 +71,4 @@ It is common to use React with a Flux pattern to manage the state of the applica
 - [HN: Redux – Not Dead Yet (2020)](https://news.ycombinator.com/item?id=22822198)
 - [Redux Actuator](https://github.com/molefrog/redux-actuator) - Communicate between components through Redux store.
 - [Notes on redux design](https://twitter.com/buildsghost/status/1255756148084367361)
+- [Dynadux](https://github.com/aneldev/dynadux) - Advanced and simpler Stores based on dispatch and Reducers. Alternative to Redux.
