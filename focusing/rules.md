@@ -4,7 +4,7 @@
 
 - [Make](../ideas/ideas.md). [Learn](../sharing/everything-I-know.md). [Write](../sharing/my-articles.md). [Design](../design/design.md). [Share](../sharing/sharing.md).
 - Set [tasks](../focusing/focusing.md). [Plan](../macOS/apps/fantastical.md). Focus.
-- One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. Be calm.
+- One task at a time. No distractions. Always [mindful](../mindfulness/mindfulness.md) of my actions & thoughts. Be calm. Value time.
 - [Ask questions](../research/asking-questions.md). Be honest, clear & concise. Document thoughts/processes/knowledge.
 - [Simplify & minimize](../minimalism/minimalism.md) everything. Don't repeat myself. Remove friction. Focus on essentials. Use what I need.
 - Cut out noise (no analytics, likes..). No time wasted. Maximize impact & growth. Filter consumed information to optimize for signal.
