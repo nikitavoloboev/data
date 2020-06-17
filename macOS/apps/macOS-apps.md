@@ -58,6 +58,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
 - [AltTab](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS.
 - [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings.
+- [Boop](https://boop.okat.best/) - Scriptable scratchpad for developers. In slow yet steady progress. ([Code](https://github.com/IvanMathy/Boop))
 
 ## Other interesting apps
 
