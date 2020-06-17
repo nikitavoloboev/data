@@ -164,3 +164,4 @@
 - [concrete.css](https://github.com/louismerlin/concrete.css) - Simple and to the point CSS microframework. ([Web](https://concrete.style/))
 - [Sass](https://github.com/sass/sass) - Extension of CSS, adding nested rules, variables, mixins, selector inheritance, and more.
 - [Color Theme Switcher (2020)](https://mxb.dev/blog/color-theme-switcher/)
+- [CSS Tips for New Devs (2020)](https://amberwilson.co.uk/blog/css-tips-for-new-devs/)

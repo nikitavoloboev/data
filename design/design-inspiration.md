@@ -230,6 +230,7 @@ Here are few more things I liked, design wise.
 - [Lily Nguyen](https://lily.digital)
 - [Nienke](https://nienkedekker.com/) - Like the background and colors.
 - [Jani Eväkallio](https://jevakallio.dev/)
+- [Amber Wilson](https://amberwilson.co.uk/) ([Code](https://github.com/ambrwlsn/gatsby--blog))
 - [Justin Windle](https://soulwire.co.uk/)
 - [Yoshua Wuyts](https://www.yoshuawuyts.com/) -Clean dark design.
 - [Renzo Carbonara](https://ren.zone/) - Simple.

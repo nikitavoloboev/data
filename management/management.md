@@ -35,3 +35,4 @@
 - [Ask HN: How to Disagree with the Rest of Management? (2020)](https://news.ycombinator.com/item?id=23427110)
 - [Advice to New Managers: Don't Joke About Firing People (2020)](https://staysaasy.com/engineering/2020/06/09/Don%27t-Joke.html) ([HN](https://news.ycombinator.com/item?id=23477400))
 - [You could monitor your team, or you could motivate them (2020)](https://vanschneider.com/how-to-keep-your-team-motivated)
+- [People who’ve worked on teams where they felt valued and fulfilled: what made those teams special? (2020)](https://twitter.com/SparksZilla/status/1273073364551139329)
