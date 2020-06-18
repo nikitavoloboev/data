@@ -100,3 +100,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Open Sauced](https://opensauced.pizza/) - Provides structured onboarding for new contributors to open source. ([Code](https://github.com/open-sauced/open-sauced))
 - [List of open source programs](https://opensourceinternships.herokuapp.com/) ([Code](https://github.com/tapaswenipathak/Open-Source-Programs))
 - ["Trillions and Trillions Served" documentary feature on The Apache Software Foundation (2020)](https://www.youtube.com/watch?v=JUt2nb0mgwg)
+- [Working in Public: The Making and Maintenance of Open Source Software (2020)](https://www.amazon.com/dp/0578675862/)
