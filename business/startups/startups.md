@@ -168,6 +168,7 @@
 - [Ask HN: Moving from a startup to a big co, what should I be aware of? (2020)](https://news.ycombinator.com/item?id=23455415)
 - [Co-Founder Expectations (2019)](https://tamplin.net/posts/cofounder-expectations/)
 - [How to design a product that can grow itself 10x in year (2020)](https://twitter.com/mikaelcho/status/1270743622619717632)
+- [Startup School](https://www.startupschool.org/library) - The Best Resource for Founders.
 
 ## Images
 

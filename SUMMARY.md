@@ -97,6 +97,7 @@
   - [Firmware](hardware/firmware.md)
   - [Arduino](hardware/arduino.md)
   - [Raspberry Pi](hardware/raspberry-pi.md)
+  - [Displays](hardware/displays.md)
 - [Math](math/math.md)
   - [Logic](math/logic/logic.md)
     - [Combinatory logic](math/logic/combinatory-logic.md)
