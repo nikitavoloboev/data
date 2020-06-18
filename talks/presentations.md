@@ -1,5 +1,9 @@
 # Presentations
 
+## Notes
+
+- [Amazon banned use of powerpoint presentations in 2004 as narrative is important for coherency over a list of points.](https://twitter.com/blakeir/status/1272883184154349573)
+
 ## Links
 
 - [Slides](https://slides.com/) - Awesome tool to make and present slide decks.

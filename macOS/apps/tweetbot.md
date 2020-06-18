@@ -25,3 +25,4 @@ I split the app into 2 columns on mac.
 - [Treeverse](https://github.com/paulgb/Treeverse) - Extension for navigating burgeoning Twitter conversations.
 - [Twitter as a tool to learn (2020)](https://twitter.com/eriktorenberg/status/1260352115102248961)
 - [Twitter Followers](https://github.com/ConradIrwin/twitter-followers) - Tool to download all a user's twitter followers.
+- [Build an open source tool to export your Twitter followers](https://github.com/balajis/twitter-export)

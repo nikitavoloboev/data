@@ -45,3 +45,4 @@
 - [Earthstar](https://github.com/cinnamon-bun/earthstar) - Offline-first, distributed, syncable key-value store for use in p2p software.
 - [go-libp2p-pubsub](https://github.com/libp2p/go-libp2p-pubsub) - PubSub implementation for go-libp2p.
 - [multifeed](https://github.com/kappa-db/multifeed) - Multi-writer hypercore.
+- [Data Terra Nemo talks](https://www.youtube.com/channel/UCp-7zAsouqg4LP4xULhYhcg/videos)

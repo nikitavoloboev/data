@@ -16,3 +16,4 @@
 - [Economics of a daily newsletter run on sponsorships (2020)](https://twitter.com/Harris_Bryan/status/1259426257747488773)
 - [The Tech Powering the Morning Brew Machine (2020)](https://medium.com/the-mission/the-tech-powering-the-morning-brew-machine-b7e8cd82121)
 - [Newsletter recs](https://twitter.com/SeanJoshuaHQ/status/1262037525960568832)
+- [Newsletter Stack](https://newsletterstack.com/) - Discover curated newsletters to help you learn about anything.
