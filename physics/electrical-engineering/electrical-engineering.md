@@ -22,3 +22,4 @@
 - [Logic.ly](https://logic.ly/demo) - Teach logic gates and digital circuits effectively. ([HN](https://news.ycombinator.com/item?id=23463779))
 - [Bad Circuit Design](http://cmosedu.com/cmos1/bad_design/bad_design.htm) ([HN](https://news.ycombinator.com/item?id=23476475))
 - [Basics of Pneumatic Logic (2020)](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic) ([HN](https://news.ycombinator.com/item?id=23534422))
+- [Nuts & Volts Magazine](https://www.nutsvolts.com/) - Leading magazine for those seriously interested in electronics.
