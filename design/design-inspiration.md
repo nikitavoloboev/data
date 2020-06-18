@@ -230,6 +230,7 @@ Here are few more things I liked, design wise.
 - [Connor Sears](http://connor.town/) - Clean.
 - [Adam Morse](http://mrmrs.cc)
 - [Lily Nguyen](https://lily.digital)
+- [Sean Thompson](https://cyanhex.co/)
 - [Nienke](https://nienkedekker.com/) - Like the background and colors.
 - [Jani Eväkallio](https://jevakallio.dev/)
 - [Amber Wilson](https://amberwilson.co.uk/) ([Code](https://github.com/ambrwlsn/gatsby--blog))
@@ -246,6 +247,7 @@ Here are few more things I liked, design wise.
 - [Bryan Irace](http://irace.me/writing/) - Love the look.
 - [Ines](https://ines.io/about)
 - [James Mulholland](https://jmulholland.com/) ([Code](https://github.com/mulholio/jmulholland-dot-com))
+- [Nadia Eghbal](https://nadiaeghbal.com/)
 - [Victor Laerte](http://www.victorlaerte.com/)
 - [David van Leewen](http://davidvanleeuwen.nl/)
 - [Sara Vieira](https://iamsaravieira.com/) - Query GraphQL to get info.

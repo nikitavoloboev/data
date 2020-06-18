@@ -40,3 +40,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Prenda School](https://prendaschool.com/) - In-home microschools led by inspiring mentors.
 - [DormDev](https://dormdev.com/) - Home of student developers.
 - [The technical literacy crisis](https://technically.dev/posts/the-technical-literacy-crisis.html)
+- [Reimagining the PhD (2019)](https://nadiaeghbal.com/phd)
