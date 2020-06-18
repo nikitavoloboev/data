@@ -40,3 +40,4 @@
 - [GEF - GDB Enhanced Features for exploit devs & reversers](https://github.com/hugsy/gef)
 - [Surveyor](https://github.com/GaloisInc/surveyor) - Interactive binary explorer.
 - [Awesome Ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra#readme)
+- [Reverse Engineering Snapchat: Obfuscation Techniques (2020)](https://hot3eed.github.io/snap_part1_obfuscations.html) ([HN](https://news.ycombinator.com/item?id=23557998))

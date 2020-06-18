@@ -34,3 +34,4 @@ Here are tools I use for streaming:
 - [OBS (macOS) Virtual Camera](https://github.com/johnboiles/obs-mac-virtualcam) - Creates a virtual webcam device from the output of OBS. Especially useful for streaming smooth, composited video into apps. ([HN](https://news.ycombinator.com/item?id=23404485))
 - [Stream Like a CEO (2020)](https://ma.tt/2020/05/ceo-video-streaming/)
 - [Simple Streaming Server](https://github.com/videoDAC/simple-streaming-server) - Instructions for building and operating your own platform for livestreaming.
+- [Twitch Studio](https://www.twitch.tv/broadcast/studio) - Takes the guesswork out of setting up and managing your stream.
