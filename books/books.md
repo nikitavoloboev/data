@@ -205,7 +205,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Holloway](https://www.holloway.com/) - Knowledge you can rely on. Modern book publisher.
 - [JSTOR Open Content Books](https://www.jstor.org/open/)
 - [Public Books Database](https://www.publicbooks.org/public-books-database/)
-- [LibriVox](https://librivox.org/) - Free public domain audiobooks.
+- [LibriVox](https://librivox.org/) - Free public domain audiobooks. ([HN](https://news.ycombinator.com/item?id=23558686))
 - [Standard Ebooks](https://standardebooks.org/ebooks/)
 - [SafariBooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from Safari Books Online library.
 - [Crafting "Crafting Interpreters" (2020)](http://journal.stuffwithstuff.com/2020/04/05/crafting-crafting-interpreters/) ([HN](https://news.ycombinator.com/item?id=22788738))
