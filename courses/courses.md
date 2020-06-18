@@ -18,3 +18,4 @@ I have not taken many MOOCs so far but one I did take and quite liked was [Learn
 - [Ask HN: Recommend me a course on Coursera (2020)](https://news.ycombinator.com/item?id=22826722)
 - [Pluralsight](https://www.pluralsight.com/) - Courses platform.
 - [Open edX](https://github.com/edx/edx-platform) - Code that powers edX. Includes the LMS (student-facing, delivering courseware), and Studio (course authoring) components.
+- [Avocado Audio](https://www.avocadoaudio.com/) - Platform for the world’s best audio courses.

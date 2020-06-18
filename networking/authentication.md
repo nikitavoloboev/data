@@ -48,3 +48,4 @@
 - [ASGI middleware that authenticates users against GitHub](https://github.com/simonw/asgi-auth-github)
 - [JSON Web Token Docs Introduction](https://jwt.io/introduction/)
 - [Auth Boss](https://github.com/teesloane/Auth-Boss#readme) - Learn about different authentication methodologies on the web.
+- [JWT auth visualized](https://twitter.com/kamranahmedse/status/1273375903511465990)
