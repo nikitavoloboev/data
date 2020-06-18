@@ -13,3 +13,4 @@
 - [MIDAS in Go](https://github.com/steve0hh/midas) ([HN](https://news.ycombinator.com/item?id=23018153))
 - [Algebraic Graphs with Class](https://github.com/snowleopard/alga-paper)
 - [Learning an End-to-End Physical Layer with Computational Graphs](http://calebzulawski.com/projects/thesis/)
+- [ngraph.hde](https://github.com/anvaka/ngraph.hde) - High dimensional embedding of a graph and its layout.

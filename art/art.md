@@ -180,6 +180,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Dreamscapes & Artificial Architecture - Imagined interior design in digital art](https://us.gestalten.com/products/dreamscapes-artificial-architecture)
 - [False Knees](https://www.instagram.com/FalseKnees/)
 - [NITCH](https://www.nitch.com/)
+- [The Art of Imperial Boy](https://www.iamag.co/the-art-of-imperial-boy/)
 
 ## Photography
 

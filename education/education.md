@@ -41,3 +41,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [DormDev](https://dormdev.com/) - Home of student developers.
 - [The technical literacy crisis](https://technically.dev/posts/the-technical-literacy-crisis.html)
 - [Reimagining the PhD (2019)](https://nadiaeghbal.com/phd)
+- [CS education in higher education (2020)](https://docs.google.com/presentation/d/15UxfJnjI8P0N33xGlTqY1A39SQdxBUwQ2jflkVMmF7Q/edit)

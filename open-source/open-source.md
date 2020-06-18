@@ -101,3 +101,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [List of open source programs](https://opensourceinternships.herokuapp.com/) ([Code](https://github.com/tapaswenipathak/Open-Source-Programs))
 - ["Trillions and Trillions Served" documentary feature on The Apache Software Foundation (2020)](https://www.youtube.com/watch?v=JUt2nb0mgwg)
 - [Working in Public: The Making and Maintenance of Open Source Software (2020)](https://www.amazon.com/dp/0578675862/)
+- [I Just Hit \$100,000/yr On GitHub Sponsors. Here’s How I Did It! (2020)](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)

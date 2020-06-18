@@ -7,3 +7,4 @@
 - [Get a job in US besides L1 route? (2020)](https://www.reddit.com/r/cscareerquestionsEU/comments/ggbzkk/is_there_anyone_here_who_got_a_job_in_the_us/)
 - [America's Growth Ponzi Scheme (2020)](https://www.strongtowns.org/journal/2020/5/14/americas-growth-ponzi-scheme-md2020) ([HN](https://news.ycombinator.com/item?id=23222191))
 - [Getaway](https://getaway.house/) - Modern Cabin Rentals - Vacation Rentals.
+- [Nice SF places](https://akilian.com/places/)

@@ -176,6 +176,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: What, in your opinion, are the greatest and most useful textbooks? (2020)](https://news.ycombinator.com/item?id=23485477)
 - [Books I bought in 2019 but didn't read](https://taimur.me/posts/books-i-bought-in-2019-but-didn-t-read/)
 - [Amber Wilson's book reviews](https://amberwilson.co.uk/read)
+- [Michael Akilian's favorite books](https://akilian.com/books/)
 
 ## Notes
 

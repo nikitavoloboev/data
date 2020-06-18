@@ -92,7 +92,7 @@
 - [Haskell in Production (2019)](http://felixmulder.com/writing/2019/10/05/Haskell-in-Production.html) ([HN](https://news.ycombinator.com/item?id=21282647))
 - [Beating Decades Of Optimized C With 80 Lines Of Haskell (2019)](https://chrispenner.ca/posts/wc) ([HN](https://news.ycombinator.com/item?id=21266201)) ([Lobsters](https://lobste.rs/s/l0lkyo/beating_decades_optimized_c_with_80_lines))
 - [Servant's type-level domain specific language (2019)](https://dev.to/bradparker/servant-s-type-level-domain-specific-language-52m8)
-- [Solutions to the Haskell Book exercises](https://github.com/kutyel/haskell-book)
+- [Solutions to the Haskell Book exercises](https://github.com/kutyel/haskell-book) ([Solutions 2](https://github.com/yingw787/thehaskellbook))
 - [Runtime Support for Multicore Haskell](https://simonmar.github.io/bib/papers/multicore-ghc.pdf)
 - [GHC exercises](https://github.com/i-am-tom/haskell-exercises) - Little course to learn about some of the more obscure GHC extensions.
 - [Typing the technical interview (2017)](https://aphyr.com/posts/342-typing-the-technical-interview)
