@@ -97,6 +97,7 @@ And these Discord servers:
 - [Wikipedia Random](https://en.wikipedia.org/wiki/Special:Random) - Open a random wikipedia page.
 - [Personal RSS feed](https://news.routley.io/)
 - [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/) - Solar-powered, self-hosted version of Low-tech Magazine.
+- [Phys.org](https://phys.org/) - News and Articles on Science and Technology.
 
 ## Notes
 

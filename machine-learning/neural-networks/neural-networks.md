@@ -124,3 +124,4 @@
 - [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://github.com/hendrycks/robustness)
 - [pix2code](https://github.com/tonybeltramelli/pix2code) - Generating Code from a Graphical User Interface Screenshot.
 - [Gated Linear Networks (2019)](https://arxiv.org/abs/1910.01526) ([HN](https://news.ycombinator.com/item?id=23528247))
+- [Curve Detectors (2020)](https://distill.pub/2020/circuits/curve-detectors/)
