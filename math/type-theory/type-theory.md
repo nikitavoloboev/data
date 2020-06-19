@@ -81,3 +81,4 @@
 - [Experimental type-checker for internally parametric type theory](https://github.com/ecavallo/ptt)
 - [Type Systems as Macros (2017)](http://www.ccs.neu.edu/home/stchang/pubs/ckg-popl2017.pdf)
 - [Compositional Explanation of Types and Algorithmic Debugging of Type Errors (2001)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.25.818)
+- [Christian Williams: Structural types for algebraic theories (2020)](https://www.youtube.com/watch?v=aJyxtUopJ74)
