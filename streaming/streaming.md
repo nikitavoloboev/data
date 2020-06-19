@@ -35,3 +35,4 @@ Here are tools I use for streaming:
 - [Stream Like a CEO (2020)](https://ma.tt/2020/05/ceo-video-streaming/)
 - [Simple Streaming Server](https://github.com/videoDAC/simple-streaming-server) - Instructions for building and operating your own platform for livestreaming.
 - [Twitch Studio](https://www.twitch.tv/broadcast/studio) - Takes the guesswork out of setting up and managing your stream.
+- [OBS-web](https://github.com/Niek/obs-web) - Control OBS from the browser. ([HN](https://news.ycombinator.com/item?id=23573474))
