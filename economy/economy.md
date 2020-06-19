@@ -42,3 +42,4 @@
 - [Declining worker power versus rising monopoly power (2020)](https://voxeu.org/article/declining-worker-power-versus-rising-monopoly-power) ([HN](https://news.ycombinator.com/item?id=23403455))
 - [Long-run money neutrality explained (2020)](https://www.reddit.com/r/AskEconomics/comments/gziqg8/i_have_a_few_questions_the_us_has_been_printing/)
 - [Notes on the Crises](https://nathantankus.substack.com/)
+- [Is there any reason to not expect hyperinflation in the US? (2020)](https://www.reddit.com/r/AskEconomics/comments/hatqdd/serious_is_there_any_reason_to_not_expect/)
