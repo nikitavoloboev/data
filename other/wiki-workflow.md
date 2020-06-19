@@ -92,7 +92,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [David Gasquez](https://github.com/davidgasquez/handbook)
 - [Sean Breckenridge](https://exobrain.sean.fish/) ([Code](https://github.com/seanbreckenridge/exobrain))
 - [Nat Eliason notes](https://www.nateliason.com/notes)
-- [Mike's Mind](https://tannenbaum.netlify.app/) ([Code](https://github.com/MikeTannenbaum/my-public-mind))
+- [Mike's Mind](https://mind.miketannenbaum.com/) ([Code](https://github.com/MikeTannenbaum/my-public-mind))
 - [David Seah](https://davidseah.gitbook.io/davidseah/) ([Code](https://github.com/davidseah/knowledgebank))
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
 - [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
