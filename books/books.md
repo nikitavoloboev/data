@@ -177,6 +177,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Books I bought in 2019 but didn't read](https://taimur.me/posts/books-i-bought-in-2019-but-didn-t-read/)
 - [Amber Wilson's book reviews](https://amberwilson.co.uk/read)
 - [Michael Akilian's favorite books](https://akilian.com/books/)
+- [Nick Cammarata's bookshelf](http://nickcammarata.com/bookshelf)
 
 ## Notes
 

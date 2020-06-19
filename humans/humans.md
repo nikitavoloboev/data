@@ -48,3 +48,4 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans#r
 - [HN: John Conway has died (2020)](https://news.ycombinator.com/item?id=22843306)
 - [The Computer Scientist Who Can’t Stop Telling Stories (2020)](https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/)
 - [The Devastating Decline of a Brilliant Young Coder (2020)](https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/) ([HN](https://news.ycombinator.com/item?id=22878136))
+- [Everything is Fertile (2019)](http://nickcammarata.com/writing/everything-is-fertile)

@@ -25,3 +25,4 @@
 - [How do you create a video chat application? (2020)](https://blog.phuaxueyong.com/post/2020-06-15-how-to-make-a-video-chat-app/) ([HN](https://news.ycombinator.com/item?id=23522689))
 - [WebRTC Insertable Streams and server processing](https://github.com/pion/webrtc/tree/master/examples/insertable-streams) ([HN](https://news.ycombinator.com/item?id=23515629))
 - [Briefing](https://github.com/holtwick/briefing) - End-to-end encrypted anonymous group video chat.
+- [Remote Faces: Share webcam still images with PeerJS/WebRTC (2018)](https://medium.com/@dai_shi/remote-faces-share-webcam-still-images-with-peerjs-webrtc-a7ed5fe11e49)

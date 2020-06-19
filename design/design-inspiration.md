@@ -275,6 +275,7 @@ Here are few more things I liked, design wise.
 - [Joe Birch](https://joebirch.co/)
 - [Rodrigo García León](http://rodrigogarcia.me/)
 - [Keith Smiley](http://www.keith.so/)
+- [Nick Cammarata](http://nickcammarata.com/)
 - [Alex Dytrych](https://alex.dytry.ch/)
 - [Xueqiao Xu](http://xueqiaoxu.me/#projects)
 - [Erbridge](http://erbridge.co.uk/)
@@ -297,6 +298,7 @@ Here are few more things I liked, design wise.
 - [Niels Lohmann](http://nlohmann.me/)
 - [Jared Reich](https://jaredreich.com/)
 - [Joe Coleman](http://getcoleman.com/) - Funny.
+- [Kat Siegal](https://katsiegal.com/)
 - [Joe Previte](https://joeprevite.com/) ([Code](https://github.com/jsjoeio/joeprevite.com))
 - [Sarah Drasner](https://sarahdrasnerdesign.com/)
 - [Sarah Dayan](https://sarahdayan.dev/)

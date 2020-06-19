@@ -240,3 +240,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [unFTP](https://github.com/bolcom/unFTP) - FTP(S) server with a couple of twists written in Rust.
 - [Zenoh](http://zenoh.io/) - Zero Overhead, Pub/Sub, Store, Query, and Compute Protocol. ([Code](https://github.com/eclipse-zenoh/zenoh))
 - [Replicache](https://replicache.dev/) - Easy Offline-First for Existing Applications.
+- [Engineering Ladders](https://github.com/bmoeskau/engineering-ladders#readme) - Collection of engineering ladders for reference and inspiration.

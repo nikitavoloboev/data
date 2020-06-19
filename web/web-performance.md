@@ -81,3 +81,4 @@
 - [Modern Script Loading (2019)](https://jasonformat.com/modern-script-loading/)
 - [AMP](https://amp.dev/) - Web component framework to easily create user-first web experiences. ([Code](https://github.com/ampproject/amp.dev))
 - [Everything You Have to Know About Core Web Vitals (2020)](https://calibreapp.com/blog/core-web-vitals)
+- [Set and Meet Speed Budgets (2020)](https://calibreapp.com/blog/set-and-meet-speed-budgets)
