@@ -38,3 +38,4 @@
 - [go-rss](https://github.com/ungerik/go-rss) - Simple RSS parser for Go.
 - [siftrss](https://siftrss.com/) - Filter your RSS feeds and throw away the junk.
 - [FeedFox](https://github.com/manikandanraji/feedfox) - Modern RSS reader that allows you to play youtube videos, listen to podcasts, download torrents, browser reddit, twitter and view cat GIFs.
+- [Making RSS more visible again with a /feeds page (2020)](https://marcus.io/blog/making-rss-more-visible-again-with-slash-feeds) ([Lobsters](https://lobste.rs/s/3bktxr/making_rss_more_visible_again_with_feeds))
