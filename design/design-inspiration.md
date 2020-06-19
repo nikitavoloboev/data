@@ -27,6 +27,7 @@ Here are few more things I liked, design wise.
 - [Exyte](https://exyte.com/)
 - [Zipcall](https://zipcall.io/)
 - [Issue 33](https://issue33.com/)
+- [Baths Music](https://bathsmusic.net/)
 
 ## Blogs
 
