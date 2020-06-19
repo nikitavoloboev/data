@@ -238,3 +238,4 @@
 - [Generics and Compile-Time in Rust (2020)](https://pingcap.com/blog/generics-and-compile-time-in-rust/) ([HN](https://news.ycombinator.com/item?id=23534974))
 - [The Rust compiler isn't slow; we are. (2020)](https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html) ([Lobsters](https://lobste.rs/s/6y5waa/rust_compiler_isn_t_slow_we_are))
 - [3K, 60fps, 130ms: achieving it with Rust (2020)](https://blog.tonari.no/why-we-love-rust) ([HN](https://news.ycombinator.com/item?id=23540586))
+- [Understanding the Rust Ecosystem (2020)](https://joeprevite.com/rust-lang-ecosystem)
