@@ -11,3 +11,4 @@
 - [Becoming a Product designer: requirements](https://paper.dropbox.com/published/Becoming-a-Product-designer-requirements--A0PVM2RsR_29DRQYM6HzbbB5Bg-T2TC8MP45MlCG7sqrPhofQw)
 - [Fawkes](https://github.com/intuit/fawkes) - Fetch, parse, categorize, summarize user reviews.
 - [Why you should build features users don't ask for (2020)](https://pitch.com/blog/why-you-should-develop-features-people-dont-ask-for)
+- [The Product Frameworks Behind Superhuman (2020)](https://www.nfx.com/post/superhuman-product-frameworks/)
