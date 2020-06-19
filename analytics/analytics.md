@@ -32,3 +32,4 @@ For user facing products, well implemented analytics will let you see how to opt
 - [Analytics](https://github.com/DavidWells/analytics) - Lightweight analytics abstraction layer for tracking page views, custom events, & identifying visitors. ([Docs](https://getanalytics.io/))
 - [Roll Your Own Analytics](https://www.pcmaffey.com/roll-your-own-analytics)
 - [Lightweight alternatives to Google Analytics (2020)](https://lwn.net/SubscriberLink/822568/b8f0709a45910e49/) ([Lobsters](https://lobste.rs/s/lvdj3w/lightweight_alternatives_google))
+- [Fathom Analytics: Count on it (2020)](https://brycewray.com/posts/2020/06/fathom-analytics-count-on-it/)
