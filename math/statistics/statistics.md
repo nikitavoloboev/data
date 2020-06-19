@@ -41,3 +41,4 @@
 - [An Introduction to Monte Carlo (2020)](https://www.youtube.com/watch?v=nJ4EHpV9mJE)
 - [Forecasting with (un)certainty (2020)](https://www.causal.app/blog/forecasting-with-uncertainty)
 - [Implementing Naive Bayes in Python (2020)](https://sidsite.com/posts/implementing-naive-bayes-in-python/)
+- [Linear Regression (2020)](https://www.simonwardjones.co.uk/posts/linear_regression/) ([HN](https://news.ycombinator.com/item?id=23573016))
