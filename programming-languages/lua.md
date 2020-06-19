@@ -20,5 +20,5 @@
 - [Typed Lua](https://github.com/andremm/typedlua) - Optional Type System for Lua.
 - [Teal](https://github.com/teal-language/tl) - Compiler for Teal, a typed dialect of Lua.
 - [pprint.lua](https://github.com/jagt/pprint.lua) - Lua pretty printer.
-- [Using Lua As A Serialization Format (2020)](https://mkhan45.github.io/2020/06/16/using-lua-as-a-serialization-format.html) ([HN](https://news.ycombinator.com/item?id=23539332))
+- [Using Lua As A Serialization Format (2020)](https://mkhan45.github.io/2020/06/16/using-lua-as-a-serialization-format.html) ([HN](https://news.ycombinator.com/item?id=23539332)) ([Lobsters](https://lobste.rs/s/dttksl/using_lua_as_serialization_format))
 - [Lua Integration (2020)](https://mkhan45.github.io/2020/06/12/lua-integration.html)

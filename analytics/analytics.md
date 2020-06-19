@@ -31,3 +31,4 @@ For user facing products, well implemented analytics will let you see how to opt
 - [Netlify Analytics](https://www.netlify.com/products/analytics/)
 - [Analytics](https://github.com/DavidWells/analytics) - Lightweight analytics abstraction layer for tracking page views, custom events, & identifying visitors. ([Docs](https://getanalytics.io/))
 - [Roll Your Own Analytics](https://www.pcmaffey.com/roll-your-own-analytics)
+- [Lightweight alternatives to Google Analytics (2020)](https://lwn.net/SubscriberLink/822568/b8f0709a45910e49/) ([Lobsters](https://lobste.rs/s/lvdj3w/lightweight_alternatives_google))

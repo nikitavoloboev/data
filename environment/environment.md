@@ -25,3 +25,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [electricityMap](https://www.electricitymap.org/map) - Real-time visualisation of the CO2 emissions of electricity consumption.
 - [Tomorrow](https://www.tmrow.com/) - Data Driven Climate Action.
 - [Pachama](https://pachama.com/) - Offset your Carbon Emissions with Verified Reforestation.
+- [Greyparrot](https://greyparrot.ai/) - Computer Vision for Waste Management.
