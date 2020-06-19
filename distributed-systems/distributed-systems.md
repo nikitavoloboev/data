@@ -95,3 +95,4 @@
 - [Submitit](https://github.com/facebookincubator/submitit) - Lightweight tool for submitting Python functions for computation within a Slurm cluster.
 - [CAP FAQ](https://github.com/henryr/cap-faq#readme)
 - [Readings in Distributed Systems](http://henryr.github.io/distributed-systems-readings/)
+- [Control theory for fun and profit (2020)](https://fauna.com/blog/control-theory-for-fun-and-profit) ([HN](https://news.ycombinator.com/item?id=23576247))
