@@ -158,3 +158,4 @@
 - [Ask a Mathematician / Ask a Physicist](https://www.askamathematician.com/)
 - [Important concepts in numerical analysis and related areas](https://github.com/higham/what-is)
 - [Bi-whatever transformations](https://wordsandbuttons.online/biwhatever_transformations.html)
+- [The Mathematical Hacker (2012)](https://www.evanmiller.org/mathematical-hacker.html) ([Lobsters](https://lobste.rs/s/pev6ks/mathematical_hacker_2012))

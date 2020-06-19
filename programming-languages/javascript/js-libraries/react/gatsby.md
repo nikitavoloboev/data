@@ -59,3 +59,4 @@
 - [Using Expo in Gatsby (2020)](https://sebastienlorber.com/using-expo-in-gatsby)
 - [HN: Gatsby raises \$28M Series B led by Index Ventures (2020)](https://news.ycombinator.com/item?id=23324979)
 - [How to use Netlify Functions with Gatsby (2020)](https://joshwcomeau.com/gatsby/using-netlify-functions-with-gatsby/)
+- [Reflex](https://reflexjs.org/) - Collection of themes and plugins to help you build Gatsby sites faster. ([Code](https://github.com/reflexjs/reflex))

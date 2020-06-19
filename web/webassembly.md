@@ -1,4 +1,4 @@
-# [WebAssembly](http://webassembly.org/)
+# [WebAssembly](https://webassembly.org/)
 
 ## Links
 

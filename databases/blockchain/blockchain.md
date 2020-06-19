@@ -68,3 +68,4 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Build a Blockchain from Scratch in Go (2020)](https://gumroad.com/l/build-a-blockchain-from-scratch-in-go/)
 - [Smart Contract Languages](https://github.com/s-tikhomirov/smart-contract-languages#readme) - Curated collection of resources on smart contract programming languages.
 - [BlockAtlas](https://github.com/trustwallet/blockatlas) - Clean explorer API and transaction observer for cryptocurrencies.
+- [Rosetta](https://www.rosetta-api.org/) - Open standard designed to simplify blockchain deployment and interaction.
