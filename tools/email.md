@@ -10,6 +10,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
   - Gmail doesn't have folders. All your messages are saved in All Mail. Everything else (Inbox, Starred, Drafts, user-labels, etc) are just "views" into a subset of the messages in All Mail. And since there's only one copy of any message, if you delete it from any label, you're deleting the only copy, so it's gone from all of them. If you delete a label you remove that "view", but the messages are still in All Mail.
 - [Whenever you compose an email, put your ask in the first sentence. Do you want information from them? Do you want them to do something for you? Put it in the first sentence. Then put the explanation and details in the rest of the email.](https://news.ycombinator.com/item?id=23064974)
 - [If you know someone is very busy, occupied, focused on other things, the best way to get a chance at a piece of their time is with a very short email, not a very long one.](https://twitter.com/jasonfried/status/1273364620187762688)
+- [The only two laws for writing any email: 1. Be Valuable 2. Be Interesting](https://www.linkedin.com/pulse/only-two-laws-writing-any-email-henry-taylor/)
 
 ## Links
 

@@ -6,6 +6,7 @@
 - [Write.as principles](https://write.as/principles)
 - [Amazon's Leadership Principles](https://www.amazon.jobs/en/principles)
 - [Glitch Company values](https://handbook.glitch.me/#values)
+- [Figma's engineering values](https://www.figma.com/blog/figmas-engineering-values/)
 
 ## Team values
 
