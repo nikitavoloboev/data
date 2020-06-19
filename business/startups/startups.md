@@ -169,6 +169,7 @@
 - [Co-Founder Expectations (2019)](https://tamplin.net/posts/cofounder-expectations/)
 - [How to design a product that can grow itself 10x in year (2020)](https://twitter.com/mikaelcho/status/1270743622619717632)
 - [Startup School](https://www.startupschool.org/library) - The Best Resource for Founders.
+- [I quit my job at the start of the pandemic to launch a company. Here’s what I’ve learned in the first 90 days. (2020)](https://theprofile.substack.com/p/i-quit-my-job-at-the-start-of-the)
 
 ## Images
 
