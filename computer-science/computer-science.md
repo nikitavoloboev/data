@@ -55,3 +55,5 @@
 - [What was so fundamental about the Turing machine? Which reference should I read to learn about it? (2020)](https://www.reddit.com/r/computerscience/comments/gpsdcp/what_was_so_fundamental_about_the_turing_machine/)
 - [Ask HN: I'm an incoming freshman to college for a CS major, what should I know? (2020)](https://news.ycombinator.com/item?id=23371530)
 - [Richard Feynman Computer Heuristics Lecture (1985)](https://www.youtube.com/watch?v=EKWGGDXe5MA)
+- [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+- [Code: The Hidden Language of Computer Hardware and Software (1999)](https://www.goodreads.com/book/show/44882.Code)

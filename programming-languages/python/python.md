@@ -122,3 +122,5 @@
 - [Packaging without setup.py (2020)](https://pgjones.dev/blog/packaging-without-setup-py-2020/)
 - [Async Python is not faster (2020)](http://calpaterson.com/async-python-is-not-faster.html) ([HN](https://news.ycombinator.com/item?id=23496994)) ([Lobsters](https://lobste.rs/s/hyi7ov/async_python_is_not_faster))
 - [Advanced pytest techniques I learned while contributing to pandas (2020)](https://levelup.gitconnected.com/advanced-pytest-techniques-i-learned-while-contributing-to-pandas-7ba1465b65eb) ([Lobsters](https://lobste.rs/s/6qgags/advanced_pytest_techniques_i_learned))
+- [Effective Python book](https://effectivepython.com/) ([Code](https://github.com/bslatkin/effectivepython))
+- [Specific ways to write better Python (2017)](https://github.com/SigmaQuan/Better-Python-59-Ways) ([HN](https://news.ycombinator.com/item?id=23584594))
