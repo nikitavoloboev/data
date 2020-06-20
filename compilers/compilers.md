@@ -99,3 +99,4 @@
 - [PPCI](https://github.com/windelbouwman/ppci) - Compiler for ARM, X86, MSP430, xtensa and more implemented in pure Python.
 - [Awesome JIT](https://github.com/wdv4758h/awesome-jit#readme)
 - [ELVM](https://github.com/shinh/elvm) - Similar to LLVM but dedicated to Esoteric Languages.
+- [An Intro to Compilers (2017)](https://nicoleorchard.com/blog/compilers) - How to Speak to Computers. ([HN](https://news.ycombinator.com/item?id=23582280))

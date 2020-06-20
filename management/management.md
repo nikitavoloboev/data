@@ -37,3 +37,4 @@
 - [You could monitor your team, or you could motivate them (2020)](https://vanschneider.com/how-to-keep-your-team-motivated)
 - [People who’ve worked on teams where they felt valued and fulfilled: what made those teams special? (2020)](https://twitter.com/SparksZilla/status/1273073364551139329)
 - [Engineering manager resources](https://github.com/dmleong/manager-resources#readme)
+- [What makes a good boss? (2020)](https://twitter.com/zenorocha/status/1274037726111657984)

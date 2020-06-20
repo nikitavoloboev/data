@@ -96,3 +96,4 @@
 - [nacro](https://github.com/mshockwave/nacro) - Better C/C++ macro extension. Implemented in Clang plugins. Inspired by Rust's macro system.
 - [Magic Enum](https://github.com/Neargye/magic_enum) - Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code.
 - [Nameof](https://github.com/Neargye/nameof) - Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum.
+- [ALEX](https://github.com/microsoft/ALEX) - Library for building an in-memory, Adaptive Learned indEX. ([HN](https://news.ycombinator.com/item?id=23571741))

@@ -6,6 +6,10 @@ Before selling things I owned, I look at prices of same or similar items on the 
 
 - [Monica](https://www.monicahq.com/pricing)
 
+## Notes
+
+- [Wealth and access to wealth is one of the most widely experienced Accessibility issues.](https://twitter.com/buildsghost/status/1274376280255811584)
+
 ## Links
 
 - [How to approach pricing and packaging a new SaaS app, by example](https://stripe.com/atlas/guides/saas-pricing) ([HN comments](https://news.ycombinator.com/item?id=16476454))

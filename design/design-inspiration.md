@@ -168,6 +168,7 @@ Here are few more things I liked, design wise.
 - [Давид Кистаури](https://davidkistauri.ru/) ([[Code](https://github.com/dtroode/kistauri)])
 - [Christine Dodrill](https://christine.website/)
 - [Owen Williams](https://owenwillia.ms/)
+- [Nicole Orchard](https://nicoleorchard.com/)
 - [Andy Bell](https://hankchizljaw.com/)
 - [Marvin Hagemeister](https://marvinh.dev/)
 - [Fabio Cevasco](https://h3rald.com/) ([Code](https://github.com/h3rald/h3rald))
