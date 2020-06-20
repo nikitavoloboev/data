@@ -18,3 +18,4 @@
 - [FunctionSimSearch](https://github.com/googleprojectzero/functionsimsearch) - Example C++ code to demonstrate how to do SimHash-based similarity search over CFGs extracted from disassemblies.
 - [HighwayHash](https://github.com/minio/highwayhash) - Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM.
 - [hashring](https://github.com/serialx/hashring) - Implements consistent hashing that can be used when the number of server nodes can increase or decrease (like in memcached).
+- [t1ha](https://github.com/erthink/t1ha) - One of the fastest hash functions.

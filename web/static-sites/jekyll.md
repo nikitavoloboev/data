@@ -8,3 +8,7 @@
 ## Plugins
 
 - [Jekyll Feed plugin](https://github.com/jekyll/jekyll-feed) - Jekyll plugin to generate an Atom (RSS-like) feed of your Jekyll posts.
+
+## Links
+
+- [How to use Simply Jekyll features on your website](https://simply-jekyll.netlify.app/posts/how-to-use-simply-jekyll-features-on-your-website)
