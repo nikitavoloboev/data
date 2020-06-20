@@ -114,3 +114,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Test suites for Web platform specs — including WHATWG, W3C, and others](https://web-platform-tests.org/) ([Code](https://github.com/web-platform-tests/wpt))
 - [besticon](https://github.com/mat/besticon) - Favicon service written in Go.
 - [The Return of the 90s Web (2020)](https://mxb.dev/blog/the-return-of-the-90s-web/) ([HN](https://news.ycombinator.com/item?id=23567744))
+- [Clientside Webmentions](https://www.swyx.io/writing/clientside-webmentions/)

@@ -29,7 +29,7 @@ I publish most of my work and make it open source for other people to use and re
 - [How to collaborate on GitHub](https://github.com/eonist/How-to-collaborate-on-github#readme) - Mini book about collaborating on GitHub.
 - [Gitrob](https://github.com/michenriksen/gitrob#readme) - Tool to help find potentially sensitive files pushed to public repositories on GitHub.
 - [Octoverse](https://octoverse.github.com/)
-- [utterances](https://github.com/utterance/utterances) - Lightweight comments widget built on GitHub issues.
+- [utterances](https://github.com/utterance/utterances) - Lightweight comments widget built on GitHub issues. ([Web](https://utteranc.es/))
 - [github-drama](https://github.com/nikolas/github-drama) - Curated collection of "dramatic" GitHub interactions.
 - [DevHub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Android, iOS and Web.
 - [Probot](https://github.com/probot/probot) - Framework for building GitHub Apps to automate and improve your workflow.
