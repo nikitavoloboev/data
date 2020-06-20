@@ -23,3 +23,5 @@
 - [Bad Circuit Design](http://cmosedu.com/cmos1/bad_design/bad_design.htm) ([HN](https://news.ycombinator.com/item?id=23476475))
 - [Basics of Pneumatic Logic (2020)](https://www.hydraulicspneumatics.com/technologies/pneumatic-valves/article/21122363/basics-of-pneumatic-logic) ([HN](https://news.ycombinator.com/item?id=23534422))
 - [Nuts & Volts Magazine](https://www.nutsvolts.com/) - Leading magazine for those seriously interested in electronics.
+- [Textbook for Electrical Engineering & Electronics](https://www.allaboutcircuits.com/textbook/)
+- [Ask HN: What are some good resources to learn how electricity works? (2020)](https://news.ycombinator.com/item?id=23562181)
