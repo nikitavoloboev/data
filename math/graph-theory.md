@@ -14,3 +14,5 @@
 - [Algebraic Graphs with Class](https://github.com/snowleopard/alga-paper)
 - [Learning an End-to-End Physical Layer with Computational Graphs](http://calebzulawski.com/projects/thesis/)
 - [ngraph.hde](https://github.com/anvaka/ngraph.hde) - High dimensional embedding of a graph and its layout.
+- [Representing Graphs by Knuth Trees (1974)](https://www.cs.virginia.edu/~jlp/75.knuth.trees.pdf) ([HN](https://news.ycombinator.com/item?id=23583547))
+- [Seven Trees in One - Andreas Blass (1994)](https://arxiv.org/abs/math/9405205)

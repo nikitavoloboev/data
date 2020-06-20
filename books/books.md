@@ -234,3 +234,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Collection of free books from Springer](https://hnarayanan.github.io/springer-books/) ([HN](https://news.ycombinator.com/item?id=23520545))
 - [Project Gutenberg](https://www.gutenberg.org/) - Library of over 60,000 free eBooks.
 - [Ask HN: How do you read long PDFs? (2020)](https://news.ycombinator.com/item?id=23535060)
+- [The Open Book Project](https://github.com/joeycastillo/The-Open-Book) - Open-source, DRM-free Kindle alternative. ([HN](https://news.ycombinator.com/item?id=23584885))
