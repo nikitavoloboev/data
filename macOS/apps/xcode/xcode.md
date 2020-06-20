@@ -50,3 +50,4 @@
 - [Awesome and useful Xcode defaults](https://github.com/ctreffs/xcode-defaults#readme)
 - [XCOrganizer](https://xcorganizer.com/) - Know Your XCode Projects.
 - [Xcode build times visualization per target](https://github.com/PaulTaykalo/xcode-build-times-rendering)
+- [Arena](https://github.com/finestructure/Arena) - Command line tool to create an Xcode project with a Playground and an SPM library ready for use.
