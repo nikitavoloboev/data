@@ -42,6 +42,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Jenna Barton](https://www.instagram.com/dappermouth/)
 - [Ben Kovach](https://www.benkovach.art/)
 - [Karolis Strautniekas](https://www.instagram.com/strautniekas/)
+- [Thibaud Pourplanche](https://www.instagram.com/thibaud_pourplanche/)
 - [Owen D. Pomery](https://owenpomery.com/work)
 - [Cheryl Young](https://cysketch.com/)
 - [Shusei Nagaoka](https://twitter.com/UrbanFoxxxx/status/1217915945882202112)
