@@ -26,3 +26,4 @@ In any way, it is an interesting subject I don't know much about.
 - [Meaningness](https://meaningness.com/) - Better ways of thinking, feeling, and acting—around problems of meaning and meaninglessness; self and society; ethics, purpose, and value.
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/contents.html)
 - [Source: An Infinite Game](https://github.com/rjelavic/source)
+- ['Story Of Your Life' Is Not A Time-Travel Story](https://www.gwern.net/Story-Of-Your-Life)

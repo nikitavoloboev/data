@@ -321,6 +321,7 @@ Here are few more things I liked, design wise.
 - [Dave Whyte](http://beesandbombs.com/)
 - [John Morris](http://johnmorris.io/) - Simple. [OSS](https://github.com/johnpmorris/johnpmorris.github.io).
 - [Alex Carpenter](https://alexcarpenter.me/)
+- [Nuno Leites](https://nunoleites.com/)
 - [Alexey Taktarov](https://molefrog.com/) - Simple.
 - [Mathieu Dutour](https://mathieu.dutour.me/) - Minimal.
 - [Sarah Drasner](https://sarah.dev/)

@@ -87,6 +87,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Nikolai Lockertsen](https://www.artstation.com/nikolailockertsen)
 - [Leonardo Santamaria](http://www.leonardosantamaria.com/)
 - [Michal Kváč](https://www.artstation.com/kvacm)
+- [Marcin Sacha](http://marcinsacha.arte.usermd.net/en/home-2/) ([Instagram](https://www.instagram.com/sachamarcin/))
 - [Nicola Samori](https://www.artsy.net/artist/nicola-samori)
 - [u29dc](https://www.instagram.com/u29dc/)
 - [Zach Lieberman](https://zachlieberman.tictail.com/)
