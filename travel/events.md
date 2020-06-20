@@ -20,3 +20,4 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 - [Tito](https://ti.to/home) - Faster, more flexible platform for selling tickets online.
 - [yellobox](https://www.yellobox.io/) - Providing Event Organisers with Attendee digital marketing and Exhibitor lead-capture 'in a box'.
 - [Hopin](https://hopin.to/) - Online events platform where you can create engaging virtual events that connect people around the globe.
+- [Perpetua Project](https://perpetuaproject.com/) - Redefining the meaning of network through curated connections and events.
