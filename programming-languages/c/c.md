@@ -55,3 +55,4 @@
 - [LLDB Debugger](https://lldb.llvm.org/) - Next generation, high-performance debugger.
 - [Dumbindent: When 93% of the Time was Spent in Clang-Format (2020)](https://nigeltao.github.io/blog/2020/dumbindent.html) ([Lobsters](https://lobste.rs/s/xau5m4/dumbindent_when_93_time_was_spent_clang))
 - [C is archaic (2019)](https://birb007.github.io/blog/2019/12/15/c-is-archaic.html)
+- [Linux kernel coding style in C](https://www.kernel.org/doc/Documentation/process/coding-style.rst)

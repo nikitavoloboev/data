@@ -45,3 +45,4 @@ You can also see my most listened to [artists](https://www.last.fm/user/playfull
 - [The Mathematics of Music](https://imaginary.org/sites/default/files/20190911-lala-booklet-v0.4-web-text.pdf) ([HN](https://news.ycombinator.com/item?id=23486452))
 - [Music: a Mathematical Offering](https://homepages.abdn.ac.uk/d.j.benson/pages/html/maths-music.html)
 - [Dynamic music for video creators](https://www.moodelizer.com/studio/music-for-video)
+- [Crowd-sourced list of Black artists on Bandcamp](https://www.blackbandcamp.info/#/)
