@@ -23,3 +23,4 @@
 - [Redis 6.0.0 GA is out (2020)](http://antirez.com/news/132) ([HN](https://news.ycombinator.com/item?id=23030685)) ([Tweet](https://twitter.com/antirez/status/1255856794712367105))
 - [Redis University](https://university.redislabs.com/) - Free online courses taught by Redis experts.
 - [Hiredis](https://github.com/redis/hiredis) - Minimalistic C client library for the Redis database.
+- [Improve Cache Speed at Scale (2020)](https://www.youtube.com/watch?v=mPg20ykAFU4)
