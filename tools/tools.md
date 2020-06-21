@@ -18,7 +18,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Shapecatcher](https://shapecatcher.com/) - Helps you find most similar unicode characters.
 - [Tiny Helpers](https://tiny-helpers.dev/) - Collection of single-purpose online tools for web developers. ([Code](https://github.com/stefanjudis/tiny-helpers))
 - [ProcessKit](https://processkit.com/) - Streamlines repeatable client work, makes your team more efficient, and sets your business up for predictable growth.
-- [HASH](https://hash.ai/) - Open-source platform for general purpose simulation backed and built by the founders of Kaggle, Stack Overflow, Trello, and Glitch.
+- [HASH](https://hash.ai/) - Complex Systems Simulation. ([Mission](https://hash.ai/about/mission)) ([HN](https://news.ycombinator.com/item?id=21728776))
 - [Espial](https://github.com/jonschoning/espial) - Open-source, web-based bookmarking server.
 - [Frame.io](https://frame.io/) - Video review and collaboration software.
 - [Generated Photos](https://generated.photos/) - Enhance your creative works with photos generated completely by AI.

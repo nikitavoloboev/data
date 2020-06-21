@@ -162,7 +162,6 @@
 - Add appropriate topics to each repo (languages used, problem space, ..)
 - Use relative links instead of hard wired links (i.e. `../issues/` refers to issues of repo).
 - Have same README & CONTRIBUTING content structure across all my repos.
-- Can append `#readme` to GitHub repos that are curated lists or simple readmes.
 
 ## README
 
