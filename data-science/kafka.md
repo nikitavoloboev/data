@@ -15,3 +15,4 @@
 - [Kafka Removing Zookeeper Dependency (2020)](https://www.confluent.io/blog/removing-zookeeper-dependency-in-kafka/) ([HN](https://news.ycombinator.com/item?id=23207377))
 - [Kafka-Pixy (gRPC/REST Proxy for Kafka)](https://github.com/mailgun/kafka-pixy)
 - [Mirroring from Apache Kafka to Azure Event Hub (2020)](https://strimzi.io/blog/2020/05/14/mirror-kafka-eventhub/)
+- [CMAK](https://github.com/yahoo/CMAK) - Tool for managing Apache Kafka clusters.

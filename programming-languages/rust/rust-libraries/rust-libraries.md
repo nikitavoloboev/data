@@ -239,6 +239,7 @@
 - [Specs](https://github.com/amethyst/specs) - Entity-Component System written in Rust.
 - [euclid](https://github.com/servo/euclid) - Small library for geometric types with a focus on 2d graphics and layout.
 - [Notify](https://github.com/notify-rs/notify) - Cross-platform filesystem notification library for Rust.
+- [notify-rust](https://github.com/hoodie/notify-rust) - Send Desktop Notifications on linux and bsd.
 - [color-backtrace](https://github.com/athre0z/color-backtrace) - Colorful panic backtraces for Rust.
 - [r2d2](https://github.com/sfackler/r2d2) - Generic connection pool for Rust.
 - [Rust-PHF](https://github.com/sfackler/rust-phf) - Compile time static maps for Rust.

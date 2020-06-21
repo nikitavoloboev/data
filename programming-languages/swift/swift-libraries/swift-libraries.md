@@ -137,6 +137,7 @@
 - [Concentric Onboarding](https://github.com/exyte/ConcentricOnboarding) - iOS library for a walkthrough or onboarding flow with tap actions written with SwiftUI.
 - [Partition Kit](https://github.com/kieranb662/PartitionKit) - SwiftUI Library for creating resizable partitions for View Content.
 - [FancyScrollView](https://github.com/nerdsupremacist/FancyScrollView) - SwiftUI ScrollView Designed to imitate the App Store and Apple Music ScrollViews (with or without a Parallax Header).
+- [SwiftUI Animatable Gradients](https://github.com/CypherPoet/AnimatableGradients) - Collection of SwiftUI View Modifiers for creating animated color gradients.
 
 ## Test
 

@@ -17,3 +17,4 @@
 - [K Fragments](http://beyondloom.com/blog/fragments.html)
 - [K to GLSL transpiler](http://beyondloom.com/tools/specialk.html)
 - [Xs](https://cryptm.org/xs/) - Concatenative array language inspired by kdb+ and FORTH. ([HN](https://news.ycombinator.com/item?id=23437003))
+- [K language semantics](https://github.com/llelf/kex)
