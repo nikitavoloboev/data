@@ -125,6 +125,7 @@ Here are few more things I liked, design wise.
 - [Fabien Sanglard](https://fabiensanglard.net/)
 - [William Falcon](https://www.williamfalcon.com/)
 - [Yehor Lvivski](http://lvivski.com/)
+- [Kyle Shevlin](https://kyleshevlin.com/) ([Code](https://github.com/kyleshevlin/blog))
 - [Amruth Pillai](https://amruthpillai.com/) ([Code](https://github.com/AmruthPillai/ResumeOnTheWeb-Gatsby))
 - [Hansen Zhang](https://hansenzhang.com/)
 - [Roxane Jammet](http://roxane.me/)

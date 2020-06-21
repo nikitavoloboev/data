@@ -96,3 +96,4 @@
 - [Some Frequently Asked Questions About Virtual Particles](http://math.ucr.edu/home/baez/physics/Quantum/virtual_particles.html)
 - [Applied Dynamical Systems (2020)](https://www.youtube.com/playlist?list=PL8erL0pXF3JZqdlYIfTTyibOqSqwzRdVV)
 - [What are some common misconceptions in physics? (2020)](https://www.reddit.com/r/AskPhysics/comments/haaw4h/what_are_some_common_misconceptions_in_physics/)
+- [Papers by Edward Witten](https://arxiv.org/search/hep-th?searchtype=author&query=Witten%2C+E)

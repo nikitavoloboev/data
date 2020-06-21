@@ -38,7 +38,7 @@
 - [Our World in Data](https://ourworldindata.org/) - Research and data to make progress against the world’s largest problems.
 - [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - QT5 based application to display time series in plots, using an intuitive "drag and drop" interface.
 - [Lightweight Charts](https://github.com/tradingview/lightweight-charts) - Financial lightweight charts built with HTML5 canvas.
-- [Glue](https://github.com/glue-viz/glue) - Python project to link visualizations of scientific datasets across many files.
+- [Glue](https://github.com/glue-viz/glue) - Python project to link visualizations of scientific datasets across many files. ([Web](http://glueviz.org/index.html)) ([Multi Dimensional Linked Data Exploration with Glue](https://www.youtube.com/watch?v=TkMZ9gZ8xtk))
 - [Learning Observable](https://www.youtube.com/playlist?list=PLOHIJAFwtkEfEsafMd9BY3KWsRrz7FV5e)
 - [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [Bar Chart Race](https://github.com/dexplo/bar_chart_race/) - Make animated bar chart races in Python with matplotlib. ([Docs](https://www.dexplo.org/bar_chart_race/)) ([Article](https://www.dunderdata.com/blog/official-release-of-bar_chart_race-a-python-package-for-creating-animated-bar-chart-races))
