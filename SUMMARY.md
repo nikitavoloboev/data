@@ -402,6 +402,7 @@
       - [LSD](drugs/psychedelics/lysergamides/lsd.md)
     - [Phenethylamines](drugs/psychedelics/phenethylamines/phenethylamines.md)
     - [Salvia](drugs/psychedelics/salvia.md)
+    - [Ketamine](drugs/psychedelics/ketamine.md)
     - [Trippy](drugs/psychedelics/trippy.md)
   - [Dissociatives](drugs/dissociatives.md)
   - [Cannabis](drugs/cannabis.md)

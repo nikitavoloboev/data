@@ -27,3 +27,4 @@
 - [Responsive](https://www.figma.com/community/plugin/840727678445998968/Responsive) - Preview your responsive designs inside Figma.
 - [Yuan Lim's Figma plugins](https://github.com/yuanqing/figma-plugins)
 - [Figma Plugin Samples](https://github.com/figma/plugin-samples)
+- [Building Figma Plugins (2020)](https://varun.ca/figma-plugins/)
