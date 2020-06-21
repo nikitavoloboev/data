@@ -166,3 +166,4 @@
 - [Color Theme Switcher (2020)](https://mxb.dev/blog/color-theme-switcher/)
 - [CSS Tips for New Devs (2020)](https://amberwilson.co.uk/blog/css-tips-for-new-devs/)
 - [The Cognitive Complexity of CSS (2020)](https://ginseng.ai/blog/the-cognitive-complexity-of-css/)
+- [Drop-in Minimal CSS](https://dohliam.github.io/dropin-minimal-css/) - Overview of barebones drop-in minimal CSS boilerplate frameworks. ([Code](https://github.com/dohliam/dropin-minimal-css))
