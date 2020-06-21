@@ -19,3 +19,5 @@
 - [Announcing the Terraform Visual Studio Code Extension v2.0.0 (2020)](https://www.hashicorp.com/blog/announcing-the-terraform-visual-studio-code-extension-v2-0-0/)
 - [Terraform Provider for Google Cloud Platform](https://github.com/terraform-providers/terraform-provider-google)
 - [Continuous Delivery with Terraform (2020)](https://theconsultingcto.com/posts/continuous-delivery-with-terraform/)
+- [serverless.tf](https://github.com/antonbabenko/serverless.tf) - Doing serverless with Terraform.
+- [Terraform Best Practices](https://www.terraform-best-practices.com/) ([Code](https://github.com/antonbabenko/terraform-best-practices))
