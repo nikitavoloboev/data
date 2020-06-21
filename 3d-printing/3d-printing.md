@@ -3,7 +3,7 @@
 ## Links
 
 - [ShapeWays](https://www.shapeways.com/) - Upload 3D model, choose materials and get the thing.
-- [libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling.
+- [libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling. ([Web](https://libfive.com/))
 - [Formlabs](https://formlabs.com/) - Powerful, affordable 3D printers for professionals.
 - [Fiber](https://www.desktopmetal.com/) - Industrial-grade, continuous fiber composites, printed from your desktop.
 - [Origin](https://www.origin.io) - Manufacturing-grade printer that enables additive mass production of end-use parts.

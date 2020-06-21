@@ -13,3 +13,4 @@
 - [hmm](https://github.com/fogleman/hmm) - Heightmap meshing utility. Convert a grayscale heightmap image into a 3D mesh.
 - [Where Do People Draw Lines? (2008)](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/)
 - [Sketchfab](https://sketchfab.com/) - Publish & find 3D models online.
+- [Antimony](https://github.com/mkeeter/antimony) - Computer-aided design (CAD) tool from a parallel universe in which CAD software evolved from Lisp machines rather than drafting tables.
