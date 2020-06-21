@@ -26,3 +26,4 @@
 - [Hundred Rabbits — off the grid](https://100r.co/site/off_the_grid.html)
 - [Aero](https://aero.com/) - Luxury Semi-Private Jets.
 - [Drive & Listen](https://driveandlisten.herokuapp.com/) - Drive through cities in the browser while listening to local radio stations. ([HN](https://news.ycombinator.com/item?id=23543043))
+- [Tea With Strangers](http://www.teawithstrangers.com/) - Community organization that's all about making our cities feel more like neighborhoods by breaking the barriers between strangers.

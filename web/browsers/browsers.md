@@ -54,3 +54,4 @@
 - [WebCheck](https://webcheck.tools/) - High-confidence browser testing. ([Lobsters](https://lobste.rs/s/mdmvuw/webcheck_high_confidence_browser))
 - [Hello, Goodbye](https://github.com/bcye/Hello-Goodbye) - Browser extension that blocks annoying chat widgets.
 - [Getting a Browser Extension Through Review (2020)](https://formidable.com/blog/2020/extension-reviews/)
+- [Browservice](https://github.com/ttalvitie/browservice) - Browse the modern web on historical browsers. ([HN](https://news.ycombinator.com/item?id=23595430))

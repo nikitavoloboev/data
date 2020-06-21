@@ -11,3 +11,4 @@
 - [Pepr3D](https://github.com/tomasiser/pepr3d) - Intuitive, free, and open-source 3D painting tool for coloring models intended for colorful 3D printing.
 - [A Tale of Two 3D Printers (2020)](https://blog.jessfraz.com/post/a-tale-of-two-3d-printers/)
 - [Voron 2 CoreXY 3D Printer design](https://github.com/VoronDesign/Voron-2)
+- [VORON Design](http://vorondesign.com/) - No-compromise 3D printer.

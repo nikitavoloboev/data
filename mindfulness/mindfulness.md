@@ -22,3 +22,4 @@ I wrote more of my thoughts on mindfulness [here](meditation.md). I learned a lo
 - [Anxiety in product development (2020)](https://andreschweighofer.com/agile/anxiety-in-product-development/) ([HN](https://news.ycombinator.com/item?id=23415922))
 - [Mental Wealth (2020)](https://jjbeshara.com/2020/06/04/mental-wealth/) ([HN](https://news.ycombinator.com/item?id=23426189))
 - [On Coding, Ego and Attention (2020)](https://josebrowne.com/on-coding-ego-and-attention/) ([HN](https://news.ycombinator.com/item?id=23526417))
+- [Being Alone](https://www.ankit.fyi/being-alone) ([HN](https://news.ycombinator.com/item?id=23592161))

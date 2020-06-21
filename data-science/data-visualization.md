@@ -43,3 +43,4 @@
 - [BizCharts](https://github.com/alibaba/BizCharts) - Powerful data visualization library based on G2 and React.
 - [Bar Chart Race](https://github.com/dexplo/bar_chart_race/) - Make animated bar chart races in Python with matplotlib. ([Docs](https://www.dexplo.org/bar_chart_race/)) ([Article](https://www.dunderdata.com/blog/official-release-of-bar_chart_race-a-python-package-for-creating-animated-bar-chart-races))
 - [Gallery of Concept Visualization](http://conceptviz.github.io/#/e30=) - Features projects which use pictures to communicate complex and difficult ideas.
+- [Vida](https://vida.io/) - Software tool that reads JSON files and turns them into compelling dashboards. ([Code](https://github.com/vidalab/vida))
