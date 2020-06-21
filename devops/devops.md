@@ -25,3 +25,4 @@
 - [pyinfra](https://github.com/Fizzadar/pyinfra) - Automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more. ([HN](https://news.ycombinator.com/item?id=23487178))
 - [Testinfra](https://github.com/philpep/testinfra) - Write unit tests in Python to test actual state of your servers configured by management tools like Salt, Ansible, Puppet, Chef and so on.
 - [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) ([Code](https://github.com/PagerDuty/incident-response-docs))
+- [Building an online community around learning from incidents (2019)](https://www.learningfromincidents.io/blog/learning-from-incidents-in-software) ([HN](https://news.ycombinator.com/item?id=23584094))
