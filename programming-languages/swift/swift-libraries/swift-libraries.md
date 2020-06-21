@@ -85,6 +85,7 @@
 - [LiquidSwipe](https://github.com/exyte/LiquidSwipe) - Example of using SwiftUI to create a beautiful Liquid Swipe control.
 - [FanMenu](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
 - [SwiftHook](https://github.com/623637646/SwiftHook) - Framework to hook object’s methods in iOS.
+- [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - Declarative, performant, calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
 
 ## macOS
 
