@@ -397,6 +397,7 @@
 - [Random Color](https://github.com/onevcat/RandomColorSwift) - Can use the library to generate attractive random colors on iOS or macOS.
 - [Stefan](https://github.com/appunite/Stefan) - Framework that helps you to manage states in your collection views.
 - [DataSources](https://github.com/muukii/DataSources) - Type-safe data-driven List-UI Framework.
+- [OrderedDictionary](https://github.com/lukaskubanek/OrderedDictionary) - Ordered dictionary data structure implementation in Swift.
 
 ## Other (not lib)
 

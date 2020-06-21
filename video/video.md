@@ -77,3 +77,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [HN: FFmpeg 4.3 (2020)](https://news.ycombinator.com/item?id=23540704)
 - [Zipcall](https://zipcall.io/) - Peer to peer browser video calling platform with unmatched video quality and latency. ([Code](https://github.com/ianramzy/decentralized-video-chat))
 - [MakeSpace](https://makespace.fun/) - Whole new way to be together, apart. ([HN](https://news.ycombinator.com/item?id=23571748))
+- [Syncplay](https://github.com/Syncplay/syncplay) - Synchronize video playback across multiple instances of mpv, VLC, MPC-HC, MPC-BE and mplayer2 over the Internet.

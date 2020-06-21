@@ -24,3 +24,4 @@
 - [Towards Photo-Realistic Virtual Try-On by Adaptively Generating ↔ Preserving Image Content](https://github.com/switchablenorms/DeepFashion_Try_On)
 - [Rethinking the Truly Unsupervised Image-to-Image Translation](https://github.com/clovaai/tunit)
 - [StyleGAN2-Face-Modificator](https://github.com/tg-bomze/StyleGAN2-Face-Modificator) - Simple Encoder, Generator and Face Modificator with StyleGAN2.
+- [Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer) - Based on "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models".

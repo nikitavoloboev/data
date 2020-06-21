@@ -60,6 +60,7 @@
 - [PickleDB](https://github.com/seladb/pickledb-rs) - Lightweight and simple key-value store written in Rust.
 - [TQL](https://github.com/antoyo/tql) - Compile-time ORM, inspired by Django ORM, written in Rust.
 - [postgrest-rs](https://github.com/supabase/postgrest-rs) - PostgREST client-side library.
+- [RustRocks](https://github.com/bh1xuw/rust-rocks) - RocksDB binding for Rust.
 
 ## Graphics
 
