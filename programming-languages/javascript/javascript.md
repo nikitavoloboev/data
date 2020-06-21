@@ -176,3 +176,4 @@
 - [Do Not Follow JavaScript Trends (2020)](https://pragmaticpineapple.com/do-not-follow-javascript-trends/) ([Lobsters](https://lobste.rs/s/wb3ma8/do_not_follow_javascript_trends)) ([HN](https://news.ycombinator.com/item?id=23538473))
 - [Some things that can be avoided in JS for clearer code (2020)](https://twitter.com/buildsghost/status/1274042818219044864)
 - [JS fundamentals and resources to learn them (2020)](https://twitter.com/Madisonkanna/status/1274424134139666432)
+- [A little bit of plain JavaScript can do a lot (2020)](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/) ([Lobsters](https://lobste.rs/s/6umqjn/little_bit_plain_javascript_can_do_lot))
