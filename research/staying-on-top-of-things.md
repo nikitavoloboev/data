@@ -83,6 +83,7 @@ And these Discord servers:
 - [Logic](https://logicmag.io/) - Print magazine about technology that publishes three times per year.
 - [Psyche](https://psyche.co/) - On the human condition.
 - [Nautilus](http://nautil.us/) - Science Connected.
+- [De Programmatica Ipsum](https://deprogrammaticaipsum.com/)
 
 ### Other
 
