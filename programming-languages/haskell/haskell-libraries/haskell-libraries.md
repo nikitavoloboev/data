@@ -49,6 +49,7 @@
 - [propagators](https://github.com/ekmett/propagators) - The Art of the Propagator.
 - [Blarney](https://github.com/mn416/blarney) - Haskell library for hardware description that builds a range of HDL abstractions on top of a small set of core circuit primitives.
 - [Clay](https://github.com/sebastiaanvisser/clay) - CSS preprocessor as embedded Haskell.
+- [Repline](https://github.com/sdiehl/repline) - Haskeline wrapper for GHCi-like REPL interfaces.
 
 ## Links
 
