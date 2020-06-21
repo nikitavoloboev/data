@@ -62,3 +62,4 @@
 - [nbtohtml](https://github.com/samuelmeuli/nbtohtml) - Convert Jupyter Notebook files to HTML.
 - [Bokeh, Bokehjs, and Observablehq: A venture out of Jupyter’s orbit (2020)](https://towardsdatascience.com/bokeh-bokehjs-and-observablehq-6ddf0c5ffe8a)
 - [A Jupyter kernel for SQLite (2020)](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551) ([HN](https://news.ycombinator.com/item?id=23539541))
+- [Jovian.ml](https://www.jovian.ml/) - Collaboration platform for data science projects & Jupyter notebooks. ([Code](https://github.com/JovianML/jovian-py))

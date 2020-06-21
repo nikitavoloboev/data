@@ -53,3 +53,4 @@
 - [Koyeb](https://www.koyeb.com/) - Simple serverless processing workflows, on any cloud. ([HN](https://news.ycombinator.com/item?id=23488902))
 - [Cloud Functions for Firebase](https://github.com/firebase/functions-samples) ([Web](https://firebase.google.com/docs/functions))
 - [Serverless Visually Explained](https://serverless-visually-explained.com/)
+- [firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd) - Enables containerd to manage containers as Firecracker microVMs.

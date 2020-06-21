@@ -24,3 +24,4 @@
 - [Redis University](https://university.redislabs.com/) - Free online courses taught by Redis experts.
 - [Hiredis](https://github.com/redis/hiredis) - Minimalistic C client library for the Redis database.
 - [Improve Cache Speed at Scale (2020)](https://www.youtube.com/watch?v=mPg20ykAFU4)
+- [ZanRedisDB](https://github.com/youzan/ZanRedisDB) - Distributed redis cluster with strong consistency.
