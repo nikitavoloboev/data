@@ -8,3 +8,4 @@
 - [America's Growth Ponzi Scheme (2020)](https://www.strongtowns.org/journal/2020/5/14/americas-growth-ponzi-scheme-md2020) ([HN](https://news.ycombinator.com/item?id=23222191))
 - [Getaway](https://getaway.house/) - Modern Cabin Rentals - Vacation Rentals.
 - [Nice SF places](https://akilian.com/places/)
+- [Can We Pull Back From The Brink? | Sam Harris (2020)](https://samharris.org/can-pull-back-brink/)

@@ -98,6 +98,7 @@ And these Discord servers:
 - [Personal RSS feed](https://news.routley.io/)
 - [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/) - Solar-powered, self-hosted version of Low-tech Magazine.
 - [Phys.org](https://phys.org/) - News and Articles on Science and Technology.
+- [Max Planck Institute for extraterrestrial Physics](http://www.mpe.mpg.de/main)
 
 ## Notes
 
