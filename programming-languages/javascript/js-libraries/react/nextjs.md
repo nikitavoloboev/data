@@ -86,3 +86,4 @@
 - [next-on-netlify](https://github.com/FinnWoelm/next-on-netlify) - Utility for hosting NextJS applications with Server-Side Rendering on Netlify.
 - [Next.js 101: What you should know (2020)](https://www.netlify.com/blog/2020/06/18/next.js-101-what-you-should-know/)
 - [Building my new website with Next.js, TailwindCSS, and Vercel (2020)](https://www.jplhomer.org/posts/how-built-new-website-nextjs-vercel-tailwind)
+- [How to contribute to Next.js (2020)](https://www.youtube.com/watch?v=WK-UFw0ZOIw)

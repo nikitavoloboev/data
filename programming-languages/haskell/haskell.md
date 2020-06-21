@@ -36,7 +36,7 @@
 - [What is the track to mastering Haskell and where would it lead me professionally?](https://www.quora.com/profile/Edward-Kmett)
 - [Nix and Haskell in production](https://github.com/Gabriel439/haskell-nix)
 - [Revisiting Combinators by Edward Kmett](https://www.youtube.com/watch?v=PA1Fc7DNKtA)
-- [Haskell Programming From First Principles - Follow-up Resources](https://github.com/pushcx/hpffp-resources)
+- [Haskell Programming From First Principles - Follow-up Resources](https://github.com/pushcx/hpffp-resources) ([Solutions](https://github.com/Anton-Latukha/Haskell-Programming-From-First-Principles))
 - [Quchen's articles](https://github.com/quchen/articles)
 - [Haskell Design Patterns?](https://www.reddit.com/r/haskell/comments/5r271m/haskell_design_patterns/)
 - [Haskell companies](https://github.com/erkmos/haskell-companies#readme) - Curated list of companies using Haskell in industry.
@@ -151,3 +151,4 @@
 - [A Generic Journey - Design Decisions about datatype-generic programming in Haskell (2020)](https://github.com/well-typed/gp-zurihac-2020/blob/master/GP.pdf)
 - [Linear types are merged in GHC (2020)](https://www.tweag.io/blog/2020-06-19-linear-types-merged/) ([Proposal](https://github.com/ghc-proposals/ghc-proposals/pull/111)) ([Lobsters](https://lobste.rs/s/lc20e3/linear_types_are_merged_ghc)) ([HN](https://news.ycombinator.com/item?id=23574072))
 - [GHC Proposals](https://github.com/ghc-proposals/ghc-proposals)
+- [Fundamental Haskell notes](https://blog.latukha.com/haskell-notes) ([Code](https://github.com/Anton-Latukha/haskell-notes))
