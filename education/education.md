@@ -44,3 +44,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [CS education in higher education (2020)](https://docs.google.com/presentation/d/15UxfJnjI8P0N33xGlTqY1A39SQdxBUwQ2jflkVMmF7Q/edit)
 - [Collaborative Learning Platform](https://azlen.me/projects/collaborative_learning_platform/)
 - [Micro Learning Futures](https://azlen.me/projects/micro_learning_futures/)
+- [Video Games Are the Future of Education (2020)](https://nabeelqu.co/education) ([HN](https://news.ycombinator.com/item?id=23593872))

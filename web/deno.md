@@ -34,3 +34,4 @@
 - [Nexo](https://github.com/nexojs/nexo) - Preact apps with Deno.
 - [How to get started with Deno Tutorial (2020)](https://www.robinwieruch.de/deno-tutorial)
 - [DenoCode](https://denocode.com/) - Community website to support the adoption of Deno.
+- [Deno will stop using TypeScript (2020)](https://startfunction.com/deno-will-stop-using-typescript/) ([HN](https://news.ycombinator.com/item?id=23592483))
