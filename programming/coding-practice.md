@@ -46,6 +46,7 @@
 - [Rust](https://github.com/kitten/advent-of-code-2019)
 - [Rust 2](https://github.com/m-rutter/advent-of-code)
 - [Rust 3](https://github.com/mitsuhiko/aoc19)
+- [Rust 4](https://github.com/mkeeter/advent-of-code) - Many years.
 - [JS](https://github.com/vtambourine/adventofcode)
 - [OCaml](https://github.com/narimiran/AdventOfCode2019)
 - [Haskell](https://github.com/merijn/AdventOfCode2019)

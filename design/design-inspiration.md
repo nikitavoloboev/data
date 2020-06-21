@@ -163,6 +163,7 @@ Here are few more things I liked, design wise.
 - [Shihab Mehboob](https://www.pnguin.app/)
 - [Josh Larson](https://www.jplhomer.org/) ([Code](https://github.com/jplhomer/site))
 - [Heydon Pickering](https://heydonworks.com/)
+- [Matt Keeter](https://www.mattkeeter.com/)
 - [Lisi Linhart](https://lisilinhart.info/)
 - [Stephanie Bian](http://stephbian.github.io/index.html)
 - [Mitxela](https://mitxela.com/)
