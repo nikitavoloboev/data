@@ -84,6 +84,7 @@ And these Discord servers:
 - [Psyche](https://psyche.co/) - On the human condition.
 - [Nautilus](http://nautil.us/) - Science Connected.
 - [De Programmatica Ipsum](https://deprogrammaticaipsum.com/)
+- [Themindcircle](https://themindcircle.com/)
 
 ### Other
 

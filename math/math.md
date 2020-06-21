@@ -160,3 +160,4 @@
 - [Bi-whatever transformations](https://wordsandbuttons.online/biwhatever_transformations.html)
 - [The Mathematical Hacker (2012)](https://www.evanmiller.org/mathematical-hacker.html) ([Lobsters](https://lobste.rs/s/pev6ks/mathematical_hacker_2012))
 - [Ask HN: Good articles/courses for understanding mathematical notation? (2020)](https://news.ycombinator.com/item?id=23575296)
+- [Small maths projects explored with Python](https://github.com/scipython/scipython-maths)
