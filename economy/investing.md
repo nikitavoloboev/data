@@ -73,3 +73,4 @@
 - [How do I get better at following lesser known stocks? (2020)](https://www.reddit.com/r/investing/comments/gyax1h/how_do_i_get_better_at_following_lesser_known/)
 - [Fortune 500 companies](https://fortune.com/fortune500/) ([Parsed as CSV](https://github.com/cmusam/fortune500))
 - [S&P 500 Companies with Financial Information](https://datahub.io/core/s-and-p-500-companies) ([Code](https://github.com/datasets/s-and-p-500-companies))
+- [Investor's Field Guide](http://investorfieldguide.com/)

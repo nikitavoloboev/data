@@ -54,3 +54,4 @@
 - [AirTree Ventures](https://www.airtree.vc/) - For Game-Changing Founders, First Round, Multiple Rounds.
 - [Examples of cold emails to VCs](https://twitter.com/paulbz/status/1271416616455192584)
 - [Cantos Ventures](http://cantos.vc/)
+- [Raising Money in Today's World (2020)](https://www.youtube.com/watch?v=SPpDJAo0n8g)

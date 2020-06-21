@@ -37,3 +37,4 @@
 - [Color Copy Paste](https://colorcopypaste.app/) - Copy & paste colour directly from your camera to Figma/Sketch/Chrome. ([Code](https://github.com/sonnylazuardi/color-copy-paste))
 - [Perceptually Smooth Multi-Color Linear Gradients (2020)](https://observablehq.com/@mattdesl/perceptually-smooth-multi-color-linear-gradients)
 - [Piggment](https://piggment.co/) - The gradient you have always wanted.
+- [Material Design Palette Generator](https://materialpalettes.com/) ([Code](https://github.com/edelstone/material-palette-generator))
