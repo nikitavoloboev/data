@@ -173,3 +173,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Building a Second Brain: The Illustrated Notes (2020)](https://maggieappleton.com/basb) ([HN](https://news.ycombinator.com/item?id=23514371))
 - [Collected Notes](https://collectednotes.com/) - Simplest, and most powerful note-taking blogging platform. ([Code](https://news.ycombinator.com/item?id=23514682))
 - [Kumu](https://kumu.io/) - Makes it easy to organize complex data into relationship maps that are beautiful to look at and a pleasure to use.
+- [Relanote](https://relanote.com/) - Connect your notes into a knowledge graph.
