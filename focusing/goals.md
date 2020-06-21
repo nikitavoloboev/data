@@ -12,7 +12,7 @@ Eat healthy and exercise daily. It is part of my rules already but want to give 
 
 Understand deeply technology/tools I use. Understand each layer of the technical stack intimately.
 
-Learn by [building/exploring](https://github.com/nikitavoloboev/build-to-learn) and lots of reading/thinking. Document it all.
+Learn by building/exploring and lots of reading/thinking. Document it all.
 
 ## Minimize, improve tools used, meet people
 
