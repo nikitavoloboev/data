@@ -289,3 +289,4 @@ Go promotes composition over inheritance.
 - [Building a better Go linker (2019)](http://golang.org/s/better-linker)
 - [Gdlv](https://github.com/aarzilli/gdlv) - GUI frontend for Delve.
 - [The Next Step for Generics (2020)](https://blog.golang.org/generics-next-step) ([HN](https://news.ycombinator.com/item?id=23543131)) ([Reddit](https://www.reddit.com/r/golang/comments/haaz5w/the_next_step_for_generics_the_go_blog/)) ([Lobsters](https://lobste.rs/s/ondg75/next_step_for_generics))
+- [oto](https://github.com/pacedotdev/oto) - Go driven rpc code generation tool for right now.

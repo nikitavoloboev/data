@@ -276,6 +276,7 @@
 - [Tragopan](https://github.com/team-video/tragopan) - Minimal dependency-free pan/zoom library. ([HN](https://news.ycombinator.com/item?id=23579102))
 - [Deakins](https://github.com/terkelg/deakins) - Small Canvas 2D Camera.
 - [Turbolinks](https://github.com/turbolinks/turbolinks) - Makes navigating your web application faster.
+- [CindyJS](https://github.com/CindyJS/CindyJS) - Framework to create interactive (mathematical) content for the web. ([Web](https://cindyjs.org/)) ([HN](https://news.ycombinator.com/item?id=23589296))
 
 ## Links
 
