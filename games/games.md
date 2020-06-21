@@ -84,3 +84,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [Factory Planner](https://github.com/ClaudeMetz/FactoryPlanner) - Mod for Factorio. It allows you to plan out your production in detail.
 - [itch.io](https://itch.io/app) - Install, update and play indie games. ([Code](https://github.com/itchio/itch))
 - [TrueSkill](https://trueskill.org/) - Rating system among game players. ([Code](https://github.com/sublee/trueskill))
+- [How To Get Worse At StarCraft II (2020)](https://illiteracyhasdownsides.com/2020/06/13/how-to-get-worse-at-starcraft-ii/)

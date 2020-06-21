@@ -315,7 +315,7 @@ Here are few more things I liked, design wise.
 - [Aaron Covrett](http://aaroncovrett.com/play/)
 - [Ayaka B. Ito](http://ayakaito.com/)
 - [Rekka Bellum](https://kokorobot.ca/#about)
-- [Juliette Pretot](https://juliette.sh/)
+- [Juliette Pretot](https://juliette.sh/) ([Code](https://github.com/juliettepretot/jul.sh))
 - [Max Stoiber](https://mxstbr.com/) - [OSS](https://github.com/mxstbr/mxstbr.com)
 - [Aprile](https://aprileelcich.com/)
 - [Maarten Corpel](http://maartencorpel.com/)

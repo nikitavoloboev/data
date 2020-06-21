@@ -51,3 +51,4 @@ Success comes from not giving up and doing what you love.
 - [The power of admitting ignorance ](https://bastian.rieck.me/blog/posts/2020/power_of_admitting_ignorance/) ([HN](https://news.ycombinator.com/item?id=23041281))
 - [68 Bits of Unsolicited Advice](https://kk.org/thetechnium/68-bits-of-unsolicited-advice/) ([HN](https://news.ycombinator.com/item?id=23015182))
 - [Be Good (2008)](http://paulgraham.com/good.html)
+- [Do the Real Thing (2020)](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/) ([HN](https://news.ycombinator.com/item?id=23582631))
