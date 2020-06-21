@@ -171,3 +171,5 @@
 - [Recent database technology that should be on your radar (2020)](https://lucperkins.dev/blog/new-db-tech-1/) ([HN](https://news.ycombinator.com/item?id=23531825))
 - [DB Weekly](https://dbweekly.com/) - Weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.
 - [Making Databases Work: The Pragmatic Wisdom of Michael Stonebraker (2018)](https://dl.acm.org/doi/book/10.1145/3226595) ([HN](https://news.ycombinator.com/item?id=23531649))
+- [SOSD: A Benchmark for Learned Indexes](https://learned.systems/papers/sosd.pdf) ([Code](https://github.com/learnedsystems/SOSD))
+- [RMI](https://github.com/learnedsystems/RMI) - Recursive model index, a learned index structure.

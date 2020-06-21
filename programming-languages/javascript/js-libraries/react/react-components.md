@@ -108,6 +108,7 @@
 - [React-Toastify](https://github.com/fkhadra/react-toastify) - React notification made easy.
 - [React Ranger](https://github.com/tannerlinsley/react-ranger) - Hooks for building range and multi-range sliders in React.
 - [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Create beautiful SVG maps in react with d3-geo and topojson using a declarative api.
+- [SWR + Firestore](https://github.com/nandorojo/swr-firestore) - Implement Vercel's useSWR for querying Firestore in React/React Native/Expo apps.
 
 ## Links
 

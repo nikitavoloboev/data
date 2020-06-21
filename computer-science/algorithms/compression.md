@@ -21,3 +21,4 @@
 - [Opus](https://github.com/xiph/opus) - Codec for interactive speech and audio transmission over the Internet.
 - [minizip](https://github.com/nmoinvaz/minizip) - Zip manipulation library written in C that is supported on Windows, macOS, and Linux.
 - [Comparing zstd/gzip/bzip2/lzma/xz Compression (2020)](https://etbe.coker.com.au/2020/06/06/comparing-compression/) ([Lobsters](https://lobste.rs/s/wd79sy/comparing_zstd_gzip_bzip2_lzma_xz))
+- [ZFP](https://github.com/LLNL/zfp) - Compressed format for representing multidimensional floating-point and integer arrays.

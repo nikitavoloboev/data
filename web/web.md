@@ -118,3 +118,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Introducing the Web Platform Contribution Guide (2020)](https://bocoup.com/blog/introducing-the-web-platform-contribution-guide))
 - [Web Almanac](https://almanac.httparchive.org/) - HTTP Archive's annual state of the web report. ([Code](https://github.com/HTTPArchive/almanac.httparchive.org))
 - [Streams Standard](https://streams.spec.whatwg.org/) - Provides APIs for creating, composing, and consuming streams of data that map efficiently to low-level I/O primitives. ([Code](https://github.com/whatwg/streams))
+- [Portals](https://wicg.github.io/portals/) - Proposal for enabling seamless navigations between sites or pages. ([Code](https://github.com/WICG/portals))

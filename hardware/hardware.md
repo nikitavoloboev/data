@@ -56,3 +56,4 @@
 - [Jess Frazelle's gadgets](https://github.com/jessfraz/gadgets)
 - [Wireless is a trap (2020)](https://www.benkuhn.net/wireless/) ([Lobsters](https://lobste.rs/s/jfvkm1/wireless_is_trap)) ([HN](https://news.ycombinator.com/item?id=23589798))
 - [Domain-Specific Hardware Accelerators (2020)](https://cacm.acm.org/magazines/2020/7/245701-domain-specific-hardware-accelerators/fulltext) ([HN](https://news.ycombinator.com/item?id=23571297))
+- [ShinySDR](https://github.com/kpreid/shinysdr) - Software-defined radio receiver application built on GNU Radio with a web-based UI and plugins.

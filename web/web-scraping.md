@@ -25,3 +25,4 @@
 - [rget](https://github.com/merklecounty/rget) - Download URLs and verify the contents against a publicly recorded cryptographic log.
 - [yarl](https://github.com/aio-libs/yarl) - Yet another URL library.
 - [Apify](https://apify.com/) - Web Scraping, Data Extraction and Automation.
+- [Gumbo](https://github.com/google/gumbo-parser) - Pure-C HTML5 parser.
