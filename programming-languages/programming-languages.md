@@ -84,3 +84,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Create your own programming language with Rust](https://createlang.rs/) ([Code](https://github.com/ehsanmok/create-your-own-lang-with-rust))
 - [History of Programming Languages, Vol 4 (2020)](https://dl.acm.org/toc/pacmpl/2020/4/HOPL) ([Lobsters](https://lobste.rs/s/4v54rw/history_programming_languages_vol_4))
 - [PLaST research group](http://plast-lab.github.io/) - Focuses on applied programming languages and software engineering.
+- [Piranha: An Open Source Tool to Automatically Delete Stale Code (2020)](https://eng.uber.com/piranha/) ([HN](https://news.ycombinator.com/item?id=23516823))

@@ -18,6 +18,11 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Telegraphist](https://github.com/xamut/telegraphist) - Telegram Bot API on Go.
 - [Pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python.
 - [gramme.rs](https://github.com/Lonami/grammers) - Set of Rust libraries to interact with Telegram's API.
+- [teloxide](https://github.com/teloxide/teloxide) - Elegant Telegram bots framework for Rust.
+
+## Bots
+
+- [vzmuinebot](https://github.com/ArtHome12/vzmuinebot) - Telegram bot for food menu navigate.
 
 ## Links
 

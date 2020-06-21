@@ -26,3 +26,4 @@
 - [Tock](https://github.com/ND-CSE-30151/tock) - Theory Of Computing toolKit. Can simulate the automata taught in standard theory of computation courses.
 - [Game of Life Web](https://herebeseaswines.net/game-of-life/)
 - [Accretor Cellular Automata (2018)](https://softologyblog.wordpress.com/2018/01/12/accretor-cellular-automata/)
+- [Eye Computer: Turning Vision into a Programmable Computer (2010)](https://humanfactorylab.com/uploads/8/3/4/4/83445868/changizi_eyecomputer_presspiece.pdf) ([Tweet](https://twitter.com/MarkChangizi/status/1271129027781234690))
