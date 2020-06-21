@@ -16,3 +16,4 @@
 - [Gopher clients](https://www.circumlunar.space/~solderpunk/clients.html)
 - [Micropubnix directory](https://www.circumlunar.space/~solderpunk/micropubnix.html)
 - [laika](https://github.com/gbmor/laika) - Async Gemini protocol server.
+- [deedum](https://github.com/snoe/deedum) - Project Gemini browser.

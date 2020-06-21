@@ -11,3 +11,4 @@
 - [linx-server](https://demo.linx-server.net/) - Self-hosted file/media sharing website.
 - [Traefik v2 - Advanced Config with Examples (2020)](https://www.reddit.com/r/selfhosted/comments/gz1ilc/traefik_v2_advanced_config_with_examples/)
 - [Self-Hosted Homelab Website](https://hydn.dev/homelab/) ([HN](https://news.ycombinator.com/item?id=23479505))
+- [Awesome Self Hosted](https://selfhosted.libhunt.com/)
