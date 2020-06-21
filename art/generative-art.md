@@ -50,3 +50,4 @@
 - [art-DCGAN](https://github.com/robbiebarrat/art-DCGAN) - Modified implementation of DCGAN focused on generative art. Includes pre-trained models for landscapes, nude-portraits, and others.
 - [Guide to help you make generative art using the electrical activity in plants](https://github.com/robbiebarrat/plant-art)
 - [Hexagons](https://anton-hexagons.tumblr.com/)
+- [Digital morphogenesis resources](https://github.com/jasonwebb/morphogenesis-resources) - Comprehensive list of resources on the topic of digital morphogenesis (the creation of form through code).

@@ -41,3 +41,4 @@
 - [pitchfork](https://github.com/PLSysSec/haybale-pitchfork) - Verifying constant-time code with symbolic execution.
 - [PhASAR](https://github.com/secure-software-engineering/phasar) - LLVM-based Static Analysis Framework. ([Web](https://phasar.org/))
 - [cclyzer](https://github.com/plast-lab/cclyzer) - Tool for analyzing LLVM bitcode using Datalog.
+- [Vellvm](https://github.com/vellvm/vellvm) - Coq formalization of the semantics of (a subset of) the LLVM compiler IR.

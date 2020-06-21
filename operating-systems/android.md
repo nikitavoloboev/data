@@ -11,3 +11,4 @@
 - [Writing Android Apps Entirely in C and make](https://github.com/cnlohr/rawdrawandroid) ([HN](https://news.ycombinator.com/item?id=23125857))
 - [Android Roadmap](https://roadmap.sh/android)
 - [Sample Projects to demonstrate how to build Android apps with Swift](https://github.com/vgorloff/swift-everywhere-samples)
+- [UIKit-cross-platform](https://github.com/flowkey/UIKit-cross-platform) - UI framework for native apps, which enables code targeting iOS UIKit to run on other platforms, particularly on Android.

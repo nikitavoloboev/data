@@ -423,6 +423,7 @@
 - [render](https://github.com/render-rs/render.rs) - Safe and simple template engine with the ergonomics of JSX.
 - [memmap](https://github.com/danburkert/memmap-rs) - Cross-platform Rust API for memory mapped IO.
 - [bus](https://github.com/jonhoo/bus) - Efficient, lock-free, bounded Rust broadcast channel.
+- [sdfu](https://github.com/termhn/sdfu) - Signed Distance Field Utilities.
 
 ## Cargo Plugins
 
