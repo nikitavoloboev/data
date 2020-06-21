@@ -33,3 +33,4 @@ I mostly love its philosophy of making small composable tools that do one thing 
 - [Is Sudo Almost Useless? (2020)](https://security.stackexchange.com/questions/232924/is-sudo-almost-useless) ([HN](https://news.ycombinator.com/item?id=23468456))
 - [tildeverse](https://tildeverse.org/) - Loose association of like-minded tilde communities.
 - [SDF Public Access UNIX System](https://sdf.org/)
+- [Discovering Dennis Ritchie’s Lost Dissertation (2020)](https://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/) ([HN](https://news.ycombinator.com/item?id=23582070))
