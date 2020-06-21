@@ -132,6 +132,7 @@ Here are few more things I liked, design wise.
 - [Parimal Satyal](https://neustadt.fr/) ([Code](https://github.com/parimalsatyal/neu))
 - [Erlend Hamberg](https://hamberg.no/erlend/)
 - [Brent Jackson](https://jxnblk.com/)
+- [Jack McDade](https://jackmcdade.com/)
 - [Oliver Caldwell](https://oli.me.uk/) ([Code](https://github.com/Olical/blog))
 - [David Wells](https://davidwells.io/) ([Code](https://github.com/DavidWells/davidwells.io))
 - [Fabian Fett](https://fabianfett.de/)

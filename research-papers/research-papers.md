@@ -51,5 +51,5 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Reading Research: A Guide for Software Engineers (2020)](https://brooker.co.za/blog/2020/05/25/reading.html)
 - [ICFP 2020 papers](https://github.com/llelf/icfp2020-papers#readme)
 - [Connected Papers](https://www.connectedpapers.com/) - Explore connected papers in a visual graph. ([Article](https://www.lesswrong.com/posts/kjQXzkTGuixoJtQnq/we-ve-built-connected-papers-a-visual-tool-for-researchers))
-- [Sci-Hub](https://sci-hub.tw/) - Removing barriers in the way of science.
+- [Sci-Hub](https://sci-hub.tw/) - Removing barriers in the way of science. ([Alternative working domains](https://twitter.com/scihub_love))
 - [Academia.edu](https://www.academia.edu/) - Platform for academics to share research papers.

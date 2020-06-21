@@ -21,3 +21,4 @@
 - [Vulkan Samples](https://github.com/LunarG/VulkanSamples) - Collection of Vulkan C++ sample applications. ([Version 2](https://github.com/KhronosGroup/Vulkan-Samples))
 - [vpp](https://github.com/nyorain/vpp) - Modern C++ vulkan utility library.
 - [Yave](https://github.com/gan74/Yave) - Yet Another Vulkan Engine.
+- [RPi-VK-Driver](https://github.com/Yours3lf/rpi-vk-driver) - Low level GPU driver for the Broadcom Videocore IV GPU that implements a subset of the Vulkan standard. ([HN](https://news.ycombinator.com/item?id=23584415))
