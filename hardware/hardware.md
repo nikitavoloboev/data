@@ -54,3 +54,4 @@
 - [SkyWater Open Source PDK](https://github.com/google/skywater-pdk) - Open source process design kit for usage with SkyWater Technology Foundry's 130nm node. ([HN](https://news.ycombinator.com/item?id=23524428))
 - [The Magnetic Amplifier –– A Lost Technology of the 1950s, anyone can build it](https://www.nutsvolts.com/magazine/article/the_magnetic_amplifier) ([HN](https://news.ycombinator.com/item?id=23548891))
 - [Jess Frazelle's gadgets](https://github.com/jessfraz/gadgets)
+- [Wireless is a trap (2020)](https://www.benkuhn.net/wireless/) ([Lobsters](https://lobste.rs/s/jfvkm1/wireless_is_trap)) ([HN](https://news.ycombinator.com/item?id=23592202))

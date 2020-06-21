@@ -180,6 +180,7 @@ Here are few more things I liked, design wise.
 - [Luke Miles](https://ylukem.com/)
 - [Jon Kuperman](https://jonkuperman.com/)
 - [Gavin Nelson](https://www.gnelsondesign.com/) ([Code](https://github.com/gavinmn/gnelsondesign))
+- [Ben Kuhn](https://www.benkuhn.net/)
 - [Patrik Huebner](https://www.patrik-huebner.com/)
 - [Matt Swanson](https://mdswanson.com/)
 - [Josh Comeau](https://joshwcomeau.com/)

@@ -19,3 +19,4 @@
 - [Virus Cafe](https://virus.cafe/) - Make a friend in 2 minutes. ([HN](https://news.ycombinator.com/item?id=23408144))
 - [On the right to disagree (2020)](https://wincent.com/blog/on-the-right-to-disagree)
 - [Empathy Online (2020)](https://thoughtbot.com/blog/empathy-online) ([Lobsters](https://lobste.rs/s/zcncvc/empathy_online))
+- [The unreasonable effectiveness of one-on-ones (2019)](https://www.benkuhn.net/11/)
