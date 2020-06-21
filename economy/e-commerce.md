@@ -9,3 +9,4 @@
 - [The Anti-Amazon Alliance (2020)](https://stratechery.com/2020/the-anti-amazon-alliance/) ([HN](https://news.ycombinator.com/item?id=23007365))
 - [Thoughts on Ecommerce: The Status Quo (2020)](https://julian.digital/2020/05/17/thoughts-on-ecommerce-the-status-quo-shopify-shop-amazon/) ([HN](https://news.ycombinator.com/item?id=23238347))
 - [GoCommerce](https://github.com/netlify/gocommerce) - Small go based API for static e-commerce sites.
+- [Saleor Commerce](https://github.com/mirumee/saleor) - Modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS. ([Web](https://saleor.io/))
