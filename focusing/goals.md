@@ -6,7 +6,7 @@ Make the best tool for learning anything and sharing ideas.
 
 ## Health
 
-Eat healthy and exercise daily. This is more of an ongoing theme & is part of my rules already but want to give this more focus as I am 25 now and this is **the habit** I need in my lifestyle.
+Eat healthy and exercise daily. It is part of my rules already but want to give this more focus as I am 25 now and this is **the habit** I need in my lifestyle.
 
 ## Understand deeply
 

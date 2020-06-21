@@ -2,6 +2,7 @@
 
 ## Other
 
+- [Super-Linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action. ([Article](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)) ([HN](https://news.ycombinator.com/item?id=23563823))
 - [Create Release](https://github.com/actions/create-release) - Action to create releases via the GitHub Release API.
 - [action-gh-release](https://github.com/softprops/action-gh-release) - GitHub Action for creating GitHub Releases.
 - [Release Drafter](https://github.com/release-drafter/release-drafter) - Drafts your next release notes as pull requests are merged into master.
