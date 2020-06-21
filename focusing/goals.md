@@ -6,32 +6,30 @@ Make the best tool for learning anything and sharing ideas.
 
 ## Health
 
-As rules state, I should eat healthy and exercise as part of my routine life. This is more of an ongoing theme but want to give this more focus as I am 24 now and healthy habits stick around and should become core part of my lifestyle.
+Eat healthy and exercise daily. This is more of an ongoing theme & is part of my rules already but want to give this more focus as I am 25 now and this is **the habit** I need in my lifestyle.
 
-## Go deep
+## Understand deeply
 
-Dive deep into technology I use. Understand each layer of the stack intimately. Can only understand it by [building](https://github.com/nikitavoloboev/build-to-learn).
+Understand deeply technology/tools I use. Understand each layer of the technical stack intimately.
 
-## Minimize & refine tools
+Learn by [building/exploring](https://github.com/nikitavoloboev/build-to-learn) and lots of reading/thinking. Document it all.
 
-I want to deeply focus on building and extending tools to solve well defined problems I have. I want to further automate and optimize any frictions I feel in life & work to free up time and energy to do creative problem solving. I want to deeply know the tools and software I use. Which in turn should let me only use the essential things I need in life.
+## Minimize, improve tools used, meet people
 
-I want to minimize incoming stream of information that I can't act on. I want to surround myself with a community of people that inspire me to create more. The tools I use & spaces I work in should reflect these goals.
+Focus on making and extending tools to solve well defined problems I have.
 
-Simplicity is the ultimate goal.
+Further automate and optimize any frictions I feel.
 
-## Read long form
+Minimize incoming stream of information to contain impactful signal that is inspiring. Meet more people.
 
-Read books & research papers relevant to problems I want to solve. This means reading long form writing where prolonged focus is needed. Note down and act on gained insights.
+## Read books/papers
 
-## Write, record videos & share
+Read books & research papers relevant to problems I want to solve.
 
-Rebuild my personal website & have my own hosted blog I can extend (with RSS feed). Start writing to it. Share tools/projects details on my website.
+## Express myself in all the ways
 
-Start teaching with videos. Review, edit & publish quality content. Clean up old content, delete outdated info and refine things (wiki, github, personal site, ..).
+Make more videos (educational & otherwise). More insightful articles. Richer wiki. Better tools for extraction.
 
-## Clean up 2Do/GitHub tasks
+## Stay on top but focused
 
-Currently 2Do holds 4900 tasks. Over 3500 of them are read-later links I have left before moving to Pocket. I want to clear up the list to < 500.
-
-This includes closing GitHub issues that are of priority to me. Beyond this I want to also clear Telegram Saved Messages & start clearing up Pocket list too after 2Do is done. Everything should be actionable and done with purpose & priority.
+Progressively clean up 2Do tasks, GitHub issues. Keeping in mind goals above & my rules.
