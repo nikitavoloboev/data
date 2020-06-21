@@ -137,3 +137,4 @@
 - [storybook-addon-react-docgen](https://github.com/hipstersmoothie/storybook-addon-react-docgen) - Storybook addon to display react docgen info.
 - [Rendering to iFrames in React (2018)](https://medium.com/@ryanseddon/rendering-to-iframes-in-react-d1cb92274f86)
 - [How to use React Testing Library (2020)](https://www.robinwieruch.de/react-testing-library)
+- [rehype-react](https://github.com/rehypejs/rehype-react) - Plugin to transform to React.

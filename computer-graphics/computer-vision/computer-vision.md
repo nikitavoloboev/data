@@ -84,3 +84,4 @@
 - [High-Resolution 3D Human Digitization from A Single Image](https://github.com/facebookresearch/pifuhd)
 - [FairMOT](https://github.com/ifzhang/FairMOT) - Simple baseline for one-shot multi-object tracking.
 - [Implicit Neural Representations with Periodic Activation Functions (2020)](https://vsitzmann.github.io/siren/)
+- [MSeg: A Composite Dataset for Multi-Domain Segmentation](https://github.com/mseg-dataset/mseg-semantic)
