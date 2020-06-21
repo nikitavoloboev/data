@@ -94,3 +94,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Building my blog (2020)](https://just-be.dev/building-my-blog)
 - [Blot](https://blot.im/) - Blogging platform with no interface.
 - [Why You Should Start a Blog Right Now (2019)](https://guzey.com/personal/why-have-a-blog/)
+- [Blog (Next.js + MDX)](https://github.com/7ma7X/hellorusk.net)
