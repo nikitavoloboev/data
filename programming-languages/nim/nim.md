@@ -8,3 +8,5 @@
 - [Nim vs Crystal - Part 1 - Performance & Interoperability (2019)](https://embark.status.im/news/2019/11/18/nim-vs-crystal-part-1-performance-interoperability/index.html) ([HN](https://news.ycombinator.com/item?id=21883882))
 - [Pros and Cons of Nim (2020)](https://onlinetechinfo.com/pros-and-cons-of-nim/) ([HN](https://news.ycombinator.com/item?id=23333955))
 - [Static Analysis (2020)](https://nim-lang.org/blog/2020/06/08/static-analysis.html) ([HN](https://news.ycombinator.com/item?id=23465231))
+- [NimConf 2020](https://conf.nim-lang.org/index.html) - Online Nim conference. ([HN](https://news.ycombinator.com/item?id=23585006))
+- [Andreas Rumpf: Nim ARC/ORC (2020)](https://www.youtube.com/watch?v=aUJcYTnPWCg&list=PLxLdEZg8DRwTIEzUpfaIcBqhsj09mLWHx&index=9)

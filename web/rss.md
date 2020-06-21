@@ -40,3 +40,5 @@
 - [FeedFox](https://github.com/manikandanraji/feedfox) - Modern RSS reader that allows you to play youtube videos, listen to podcasts, download torrents, browser reddit, twitter and view cat GIFs.
 - [Making RSS more visible again with a /feeds page (2020)](https://marcus.io/blog/making-rss-more-visible-again-with-slash-feeds) ([Lobsters](https://lobste.rs/s/3bktxr/making_rss_more_visible_again_with_feeds))
 - [Ask HN: How do you RSS? (2020)](https://news.ycombinator.com/item?id=23577265)
+- [RSS Box](https://rssbox.herokuapp.com/) - RSS for websites that do not support RSS. ([HN](https://news.ycombinator.com/item?id=23583629)) ([Code](https://github.com/stefansundin/rssbox))
+- [Feed43](https://feed43.com/) - Convert web pages into professionally looking RSS feeds.
