@@ -2,6 +2,7 @@
 
 ## Interesting communities
 
+- [Merveilles](https://merveilles.town/about) - Community project aimed at the establishment of new ways of speaking, seeing and organizing information. ([Code](https://github.com/merveilles/merveilles-town))
 - [Scholar Social](https://scholar.social/about) - Federated microblogging for academics.
 
 ## Links
