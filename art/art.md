@@ -74,6 +74,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Svetlana Dmitrieva](https://www.artstation.com/mayadim1926)
 - [Katherine Lam](https://www.behance.net/katherinelam)
 - [Guy Warley](https://www.guywarley.com/)
+- [Danila Tkachenko](http://www.danilatkachenko.com/)
 - [Lee Madgwick](https://leemadgwick.co.uk/portfolio/)
 - [Ben Ridgway](https://www.samwoolfe.com/2018/06/the-visionary-art-of-ben-ridgway.html) - DMT inspired.
 - [Oleksij Luchnikov](https://www.artstation.com/luchnikov)
@@ -227,6 +228,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Petros Koublis](http://petroskoublis.com/main.html)
 - [Platon](https://www.instagram.com/platon/)
 - [Most detailed ever photograph of The Night Watch goes online](https://www.rijksmuseum.nl/en/most-detailed-ever-photograph-of-the-night-watch-goes-online) ([HN](https://news.ycombinator.com/item?id=23151934))
+- [Restricted Areas](http://www.danilatkachenko.com/projects/restricted-areas/)
 
 ## Notes
 
