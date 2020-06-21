@@ -275,6 +275,7 @@
 - [bigpicture.js](https://github.com/josephernest/bigpicture.js/) - Library that allows infinite panning and infinite zooming in HTML pages. ([Web](https://josephernest.github.io/bigpicture.js/index.html))
 - [Tragopan](https://github.com/team-video/tragopan) - Minimal dependency-free pan/zoom library. ([HN](https://news.ycombinator.com/item?id=23579102))
 - [Deakins](https://github.com/terkelg/deakins) - Small Canvas 2D Camera.
+- [Turbolinks](https://github.com/turbolinks/turbolinks) - Makes navigating your web application faster.
 
 ## Links
 

@@ -424,6 +424,7 @@
 - [memmap](https://github.com/danburkert/memmap-rs) - Cross-platform Rust API for memory mapped IO.
 - [bus](https://github.com/jonhoo/bus) - Efficient, lock-free, bounded Rust broadcast channel.
 - [sdfu](https://github.com/termhn/sdfu) - Signed Distance Field Utilities.
+- [webrtc-audio-processing](https://github.com/tonarino/webrtc-audio-processing) - Wrapper around PulseAudio's repackaging of WebRTC's AudioProcessing module.
 
 ## Cargo Plugins
 

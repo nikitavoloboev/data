@@ -24,6 +24,7 @@ Below is a list of extensions I use.
 
 ## Utility
 
+- [MetaGo](https://github.com/metaseed/metaGo) - Provides fast cursor movement/selection for keyboard focused users in vscode.
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
 - [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - Allows you to open any folder in a container, on a remote machine.
 - [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - Convenient way of creating, duplicating, moving, renaming and deleting files and directories.
