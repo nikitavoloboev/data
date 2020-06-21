@@ -24,3 +24,4 @@
 - [AI – the no bullshit approach (2020)](https://blog.piekniewski.info/2020/06/08/ai-the-no-bullshit-approach/)
 - [Stanford DAWN](https://dawn.cs.stanford.edu//) - Five-year research project to democratize AI by making it dramatically easier to build AI-powered applications.
 - [AI Research, Replicability and Incentives (2020)](https://dennybritz.com/blog/ai-replication-incentives/)
+- [Environmental drivers of systematicity and generalization in a situated agent (2019)](https://arxiv.org/abs/1910.00571)

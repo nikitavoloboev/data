@@ -13,3 +13,4 @@
 - [A highly efficient, real-time text-to-speech system deployed on CPUs (2020)](https://ai.facebook.com/blog/a-highly-efficient-real-time-text-to-speech-system-deployed-on-cpus/) ([HN](https://news.ycombinator.com/item?id=23193967))
 - [Sonatic](https://www.sonantic.io/) - Emotionally Expressive Text to Speech.
 - [GAN-based Mel-Spectrogram Inversion Network for Text-to-Speech Synthesis](https://github.com/descriptinc/melgan-neurips)
+- [Ask HN: My wife might lose the ability to speak in 3 weeks – how to prepare? (2020)](https://news.ycombinator.com/item?id=23490115)

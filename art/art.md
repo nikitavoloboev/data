@@ -103,7 +103,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Nate Rudichuk](https://www.artstation.com/naterudichuk)
 - [Jan Pypers](https://www.instagram.com/janpypers/)
 - [Sabina Lewis](https://www.instagram.com/sabina_lewis/)
-- [Edward Hopper](https://www.wikiart.org/en/edward-hopper)
+- [Edward Hopper](https://www.wikiart.org/en/edward-hopper) ([Shirley: Visions of Reality](https://www.youtube.com/watch?v=rcQ4JKxxukY)) ([Exhibition](https://www.fondationbeyeler.ch/en/exhibitions/edward-hopper))
 - [Ariel González Losada](https://www.flickr.com/people/99778654@N05/)
 - [Eugene Golovanchuk](https://www.theskeeva.com/)
 - [Andrew Williamson](https://andrewwilliamson.net/)

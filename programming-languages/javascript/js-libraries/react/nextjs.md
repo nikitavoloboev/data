@@ -85,3 +85,4 @@
 - [2 Ways to Create Server-Rendered Routes Using Next.js and Netlify (2020)](https://www.netlify.com/blog/2020/06/10/2-ways-to-create-server-rendered-routes-using-next.js-and-netlify/)
 - [next-on-netlify](https://github.com/FinnWoelm/next-on-netlify) - Utility for hosting NextJS applications with Server-Side Rendering on Netlify.
 - [Next.js 101: What you should know (2020)](https://www.netlify.com/blog/2020/06/18/next.js-101-what-you-should-know/)
+- [Building my new website with Next.js, TailwindCSS, and Vercel (2020)](https://www.jplhomer.org/posts/how-built-new-website-nextjs-vercel-tailwind)
