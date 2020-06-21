@@ -115,3 +115,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [besticon](https://github.com/mat/besticon) - Favicon service written in Go.
 - [The Return of the 90s Web (2020)](https://mxb.dev/blog/the-return-of-the-90s-web/) ([HN](https://news.ycombinator.com/item?id=23567744))
 - [Clientside Webmentions](https://www.swyx.io/writing/clientside-webmentions/)
+- [Introducing the Web Platform Contribution Guide (2020)](https://bocoup.com/blog/introducing-the-web-platform-contribution-guide))
