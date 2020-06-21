@@ -69,3 +69,4 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS Weekly Newsletter](https://weekly.nixos.org/) - Stay up to date with events, learning resources, and recent developments in NixOS community. ([Code](https://github.com/NixOS/nixos-weekly))
 - [Nix Community Infrastructure](https://github.com/nix-community/infra)
 - [NixOS: How it works and how to install it (2020)](https://www.youtube.com/watch?v=oPymb2-IXbg)
+- [Nix(OS) Thoughts (2020)](https://blog.qtp2t.club/posts/2020-06-20-nix-nixos-thoughts/)
