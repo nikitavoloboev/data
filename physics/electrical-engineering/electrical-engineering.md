@@ -25,3 +25,4 @@
 - [Nuts & Volts Magazine](https://www.nutsvolts.com/) - Leading magazine for those seriously interested in electronics.
 - [Textbook for Electrical Engineering & Electronics](https://www.allaboutcircuits.com/textbook/)
 - [Ask HN: What are some good resources to learn how electricity works? (2020)](https://news.ycombinator.com/item?id=23562181)
+- [Analog-to-Digital Conversion Playground](https://github.com/kronawetter/analog-to-digital-conversion) - Aims to explain the process of converting analog signals to digital ones.
