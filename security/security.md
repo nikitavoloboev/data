@@ -77,3 +77,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Best practices for managing & storing secrets like API keys and other credentials (2020)](https://blog.gitguardian.com/secrets-api-management/) ([Reddit](https://www.reddit.com/r/programming/comments/h7kmff/best_practices_for_managing_storing_secrets_like/)) ([HN](https://news.ycombinator.com/item?id=23500462))
 - [gopass](https://github.com/gopasspw/gopass) - Password manager for the command line written in Go.
 - [Rosetta](https://github.com/polydawn/rosetta) - Simple, scriptable file encryption tool.
+- [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/) ([Code](https://github.com/mozilla/ssl-config-generator))

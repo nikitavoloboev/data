@@ -86,6 +86,8 @@
 - [FanMenu](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
 - [SwiftHook](https://github.com/623637646/SwiftHook) - Framework to hook object’s methods in iOS.
 - [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - UIKit library for displaying a range of dates in a vertically-scrolling or horizontally-scrolling calendar component.
+- [CampcotCollectionView](https://github.com/touchlane/CampcotCollectionView) - Collapse and expand UICollectionView sections with one method call.
+- [SectionScrubber](https://github.com/3lvis/SectionScrubber) - Component to quickly scroll between collection view sections.
 
 ## macOS
 
@@ -393,6 +395,8 @@
 - [jpeg](https://github.com/kelvin13/jpeg) - Decode, inspect, edit, and encode jpeg images in pure swift.
 - [png](https://github.com/kelvin13/png) - Decode, inspect, edit, and encode png images in a native swift framework.
 - [Random Color](https://github.com/onevcat/RandomColorSwift) - Can use the library to generate attractive random colors on iOS or macOS.
+- [Stefan](https://github.com/appunite/Stefan) - Framework that helps you to manage states in your collection views.
+- [DataSources](https://github.com/muukii/DataSources) - Type-safe data-driven List-UI Framework.
 
 ## Other (not lib)
 
