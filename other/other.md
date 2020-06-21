@@ -243,3 +243,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Engineering Ladders](https://github.com/bmoeskau/engineering-ladders#readme) - Collection of engineering ladders for reference and inspiration.
 - [Practical tips that can help you be evaluated more fairly during performance review (2018)](https://twitter.com/mekkaokereke/status/1027552459873378304)
 - [tonari](https://tonari.no/) - Open doorway to another place, enabling you to be together and communicate naturally, just like you're really there.
+- [Show HN: What did you make during lockdown? (2020)](https://news.ycombinator.com/item?id=23592788)

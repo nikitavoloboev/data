@@ -13,3 +13,4 @@
 - [Godot Editor running in a web browser (2020)](https://godotengine.org/article/godot-editor-running-web-browser) ([HN](https://news.ycombinator.com/item?id=23354286))
 - [ballparq](https://ballparq.games/) - Make your next Godot game a home run. ([HN](https://news.ycombinator.com/item?id=23382786))
 - [godot-nim](https://github.com/pragmagic/godot-nim) - Nim bindings for Godot Engine.
+- [Enu](https://github.com/dsrw/enu) - Logo-like DSL for Godot, implemented in Nim.
