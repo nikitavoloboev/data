@@ -35,3 +35,4 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Telegram Bot Code Samples](https://core.telegram.org/bots/samples)
 - [Awesome Telegram](https://github.com/serhii-londar/awesome-telegram#readme)
 - [The Evolution of Telegram](https://telegram.org/evolution)
+- [DiscussBot](https://comments.app/) - Add comments to posts in your channel. Or add comments to pages on your website.
