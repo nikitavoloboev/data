@@ -72,6 +72,7 @@
 - [Revise.jl](https://github.com/timholy/Revise.jl) - Automatically update function definitions in a running Julia session.
 - [JuliaWebAPI.jl](https://github.com/JuliaWeb/JuliaWebAPI.jl) - Julia package for deploying APIs.
 - [HTTP](https://github.com/JuliaWeb/HTTP.jl) - HTTP client and server functionality for Julia.
+- [OptimKit.jl](https://github.com/Jutho/OptimKit.jl) - Blissfully ignorant Julia package for gradient optimization.
 
 ## Links
 
