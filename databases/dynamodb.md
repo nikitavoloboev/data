@@ -21,3 +21,4 @@
 - [Dynobase](https://dynobase.dev/) - Professional GUI Client for DynamoDB.
 - [dynomite](https://github.com/softprops/dynomite) - Make your rust types fit DynamoDB and visa versa.
 - [PynamoDB](https://github.com/pynamodb/PynamoDB) - Pythonic interface to Amazon's DynamoDB.
+- [Introducing the GoLD Stack: Go + Lambda + DynamoDB (2020)](https://dev.to/prozz/introduction-to-the-gold-stack-5b66)

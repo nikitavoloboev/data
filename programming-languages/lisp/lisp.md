@@ -60,3 +60,4 @@
 - [Kalyn](https://github.com/raxod502/kalyn) - Self-hosting compiler from a Haskell-like Lisp directly to x86-64, from scratch.
 - [SedLisp](https://github.com/shinh/sedlisp) - Lisp implementation in sed.
 - [LispMicrocontroller](https://github.com/jbush001/LispMicrocontroller) - Microcontroller that natively executes a simple LISP dialect.
+- [Toy Lisp 1.5 interpreter in Go by Rop Pike](https://github.com/robpike/lisp)

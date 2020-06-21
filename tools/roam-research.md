@@ -31,3 +31,4 @@
 - [RemNote](https://www.remnote.io/homepage) - Spaced-repetition powered note-taking tool that lets you structure knowledge exactly in the way you think about it. ([RemNote Tour](https://www.youtube.com/watch?v=vlm3_57JuMI))
 - [Azlen's Roam Themes](https://github.com/azlen/roam-themes)
 - [Grizzly Roam Theme](https://github.com/josephhitchcock/roam-themes) ([Reddit](https://www.reddit.com/r/RoamResearch/comments/h082yi/roam_redesign/))
+- [Browser extensions for Roam Research (2020)](https://nesslabs.com/browser-extensions-roam-research)

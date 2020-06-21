@@ -1,5 +1,9 @@
 # [Mastodon](https://mastodon.social)
 
+## Interesting communities
+
+- [Scholar Social](https://scholar.social/about) - Federated microblogging for academics.
+
 ## Links
 
 - [don](https://github.com/deoxxa/don) - Less than half of mastodon.
