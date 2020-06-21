@@ -85,3 +85,4 @@
 - [FairMOT](https://github.com/ifzhang/FairMOT) - Simple baseline for one-shot multi-object tracking.
 - [Implicit Neural Representations with Periodic Activation Functions (2020)](https://vsitzmann.github.io/siren/)
 - [MSeg: A Composite Dataset for Multi-Domain Segmentation](https://github.com/mseg-dataset/mseg-semantic)
+- [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://github.com/CuriousAI/mean-teacher)
