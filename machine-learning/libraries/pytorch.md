@@ -119,3 +119,4 @@
 - [PyTorch implementation of the KWNG estimator](https://github.com/MichaelArbel/KWNG)
 - [Classification with PyTorch](https://github.com/bearpaw/pytorch-classification)
 - [PyTorch Toolbox](https://github.com/PistonY/torch-toolbox) - Aiming to make you write Pytorch code more easier, readable and concise.
+- [Sinusoidal Representation Networks (SIREN)](https://github.com/dalmia/siren)

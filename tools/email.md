@@ -71,3 +71,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [HEY](https://hey.com/) - Email client. ([Tour of the app](https://www.youtube.com/watch?v=UCeYTysLyGI)) ([The HEY Way](https://hey.com/the-hey-way/))
 - [mime-db](https://github.com/jshttp/mime-db) - Media Type Database.
 - [Delta Chat](https://delta.chat/en/) - Chat over e-mail.
+- [Lettre](https://github.com/lettre/lettre) - Email rust library that allows creating and sending messages. ([Docs](https://lettre.at/))

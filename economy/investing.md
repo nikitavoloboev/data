@@ -74,3 +74,4 @@
 - [Fortune 500 companies](https://fortune.com/fortune500/) ([Parsed as CSV](https://github.com/cmusam/fortune500))
 - [S&P 500 Companies with Financial Information](https://datahub.io/core/s-and-p-500-companies) ([Code](https://github.com/datasets/s-and-p-500-companies))
 - [Investor's Field Guide](http://investorfieldguide.com/)
+- [How to not get ruined with Options (2020)](https://www.reddit.com/r/investing/comments/hdft5z/how_to_not_get_ruined_with_options_part_1_of_4/)
