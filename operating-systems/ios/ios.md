@@ -48,6 +48,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Kotoba](https://github.com/willhains/Kotoba) - Quickly search the built-in iOS dictionary to see definitions of words. Collect words you want to remember.
 - [Upcoming TV](https://github.com/dkhamsing/upcomingtv) - Swift iOS app to track when your favorite tv show airs next.
 - [Corona Warn App](https://github.com/corona-warn-app/cwa-app-ios) - Native iOS app using the exposure notification framework from Apple.
+- [Clip](https://github.com/rileytestut/Clip) - Clipboard manager for iOS that can monitor your clipboard indefinitely in the background.
 
 ## Notes
 

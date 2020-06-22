@@ -11,3 +11,4 @@
 - [GeoGebra](https://www.geogebra.org/) - Dynamic mathematics software.
 - [Polyhedra Viewer](https://polyhedra.tessera.li/) - Explore the relationships between convex regular-faced polyhedra. ([Code](https://github.com/tesseralis/polyhedra-viewer))
 - [Twenty Proofs of Euler's Formula: V-E+F=2](https://www.ics.uci.edu/~eppstein/junkyard/euler/) ([HN](https://news.ycombinator.com/item?id=23590642))
+- [Qhull](http://www.qhull.org/) - Computes the convex hull, Delaunay triangulation, Voronoi diagram, halfspace intersection about a point, furthest-site Delaunay triangulation, and furthest-site Voronoi diagram. ([Code](https://github.com/qhull/qhull))

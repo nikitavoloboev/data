@@ -245,3 +245,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [tonari](https://tonari.no/) - Open doorway to another place, enabling you to be together and communicate naturally, just like you're really there.
 - [Show HN: What did you make during lockdown? (2020)](https://news.ycombinator.com/item?id=23592788)
 - [Why do we see illusions? - Mark Changizi (2013)](https://www.youtube.com/watch?v=1xcvWSeZPbw)
+- [AutoEQ](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses.
