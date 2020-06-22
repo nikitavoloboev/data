@@ -149,6 +149,6 @@
 - [Smuggler2](https://github.com/jrp2014/smuggler2) - Minimise haskell imports, make exports explicit.
 - [Alexis King - “Effects for Less” (2020)](https://www.youtube.com/watch?list=PLiU7KJ5_df6aZbNfh_TUJt-6w9N3rYkTX&v=0jI-AlWEwYI)
 - [A Generic Journey - Design Decisions about datatype-generic programming in Haskell (2020)](https://github.com/well-typed/gp-zurihac-2020/blob/master/GP.pdf)
-- [Linear types are merged in GHC (2020)](https://www.tweag.io/blog/2020-06-19-linear-types-merged/) ([Proposal](https://github.com/ghc-proposals/ghc-proposals/pull/111)) ([Lobsters](https://lobste.rs/s/lc20e3/linear_types_are_merged_ghc)) ([HN](https://news.ycombinator.com/item?id=23574072))
+- [Linear types are merged in GHC (2020)](https://www.tweag.io/blog/2020-06-19-linear-types-merged/) ([Proposal](https://github.com/ghc-proposals/ghc-proposals/pull/111)) ([Lobsters](https://lobste.rs/s/lc20e3/linear_types_are_merged_ghc)) ([HN](https://news.ycombinator.com/item?id=23574072)) ([Drafts, notes](https://github.com/tweag/linear-types))
 - [GHC Proposals](https://github.com/ghc-proposals/ghc-proposals)
 - [Fundamental Haskell notes](https://blog.latukha.com/haskell-notes) ([Code](https://github.com/Anton-Latukha/haskell-notes))

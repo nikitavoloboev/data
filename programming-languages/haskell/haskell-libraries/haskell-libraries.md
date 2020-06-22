@@ -51,6 +51,7 @@
 - [Clay](https://github.com/sebastiaanvisser/clay) - CSS preprocessor as embedded Haskell.
 - [Repline](https://github.com/sdiehl/repline) - Haskeline wrapper for GHCi-like REPL interfaces.
 - [pretty-simple](https://github.com/cdepillabout/pretty-simple) - Pretty printer for Haskell data types that have a Show instance.
+- [Scalpel](https://github.com/fimad/scalpel) - High level web scraping library for Haskell.
 
 ## Links
 
