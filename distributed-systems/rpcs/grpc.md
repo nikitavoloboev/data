@@ -25,3 +25,4 @@
 - [gRPC on Node.js](https://github.com/grpc/grpc-node)
 - [protoreflect](https://github.com/jhump/protoreflect) - Reflection (Rich Descriptors) for Go Protocol Buffers.
 - [gRPC Proxy](https://github.com/mwitkow/grpc-proxy) - Go reverse proxy that allows for rich routing of gRPC calls with minimum overhead.
+- [gNMI](https://github.com/openconfig/gnmi) - gRPC Network Management Interface.

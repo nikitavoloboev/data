@@ -9,3 +9,4 @@
 - [Exploring Bayesian Optimization (2020)](https://distill.pub/2020/bayesian-optimization/)
 - [STOKE](http://stoke.stanford.edu/) - Stochastic superoptimizer and program synthesizer. ([HN](https://news.ycombinator.com/item?id=23331674))
 - [SE-Sync](https://github.com/david-m-rosen/SE-Sync) - Implementation of the SE-Sync algorithm for synchronization over the special Euclidean group.
+- [Optimization: An Introduction (2006)](http://www3.imperial.ac.uk/pls/portallive/docs/1/7288263.PDF) ([HN](https://news.ycombinator.com/item?id=18800902))
