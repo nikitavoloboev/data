@@ -6,7 +6,7 @@ You can download [my BTT Profile](https://www.dropbox.com/s/6qai74hb1ptoerd/Main
 
 I also use BTT to modify my TouchBar. Here is how it looks:
 
-![](https://i.imgur.com/fkHgrNg.png)
+![](https://i.imgur.com/i5obomu.png)
 
 It shows, from left to right:
 
