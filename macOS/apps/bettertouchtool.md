@@ -10,10 +10,9 @@ I also use BTT to modify my TouchBar. Here is how it looks:
 
 It shows, from left to right:
 
-1. All day event (if there is any).
-2. Current or next event in [my Calendar](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical)
-3. Current time, day and month number
-4. Battery percentage
+1. Current or next events in [my Calendar](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical)
+2. Current time, day and month number
+3. Battery percentage
 
 Can easily tell that it's an all day event as it won't have time stamps shown below the event title.
 
