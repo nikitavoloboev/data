@@ -246,3 +246,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Show HN: What did you make during lockdown? (2020)](https://news.ycombinator.com/item?id=23592788)
 - [Why do we see illusions? - Mark Changizi (2013)](https://www.youtube.com/watch?v=1xcvWSeZPbw)
 - [AutoEQ](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses.
+- [Important things to do better at work](https://twitter.com/_dte/status/1274806242712616962)

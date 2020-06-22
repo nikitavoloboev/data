@@ -28,3 +28,4 @@
 - [Engineering a Safer World notes](https://lobste.rs/s/fcntwr/what_are_you_doing_this_weekend#c_kesgdu)
 - [Separation Logic (2019)](https://cacm.acm.org/magazines/2019/2/234356-separation-logic/fulltext)
 - [List of companies that use formal verification methods in software engineering](https://github.com/ligurio/practical-fm#readme)
+- [Formal Specification and Taming Other People's Tech - Marianne Bellotti (2019)](https://www.youtube.com/watch?v=oMSmkRGzQ64)

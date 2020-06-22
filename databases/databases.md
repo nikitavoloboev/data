@@ -173,3 +173,4 @@
 - [Making Databases Work: The Pragmatic Wisdom of Michael Stonebraker (2018)](https://dl.acm.org/doi/book/10.1145/3226595) ([HN](https://news.ycombinator.com/item?id=23531649))
 - [SOSD: A Benchmark for Learned Indexes](https://learned.systems/papers/sosd.pdf) ([Code](https://github.com/learnedsystems/SOSD))
 - [RMI](https://github.com/learnedsystems/RMI) - Recursive model index, a learned index structure.
+- [SchemaHero](https://github.com/schemahero/schemahero) - Kubernetes operator for declarative database schema management. ([Web](https://schemahero.io/))

@@ -98,6 +98,7 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podcasts which are helpful for software engineers/programmers](https://github.com/rShetty/awesome-podcasts#readme)
 - [Favorite Podcasts of swyx](https://www.swyx.io/writing/fave-podcasts/)
 - [The 140 Best Podcasts to Enrich Your Mind](http://www.openculture.com/great-podcasts)
+- [Curated podcasts list](https://roadmap.sh/podcasts)
 
 ## Notes
 
