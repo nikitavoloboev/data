@@ -102,3 +102,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - ["Trillions and Trillions Served" documentary feature on The Apache Software Foundation (2020)](https://www.youtube.com/watch?v=JUt2nb0mgwg)
 - [Working in Public: The Making and Maintenance of Open Source Software (2020)](https://www.amazon.com/dp/0578675862/) ([Article](https://nayafia.substack.com/p/22-working-in-public))
 - [I Just Hit \$100,000/yr On GitHub Sponsors. Here’s How I Did It! (2020)](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
+- [Libraries.io](https://libraries.io/) - Open Source Discovery Service. ([Code](https://github.com/librariesio/libraries.io))

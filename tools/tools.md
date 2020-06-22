@@ -122,6 +122,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [HCL](https://github.com/hashicorp/hcl) - HashiCorp configuration language.
 - [Viable Fit](https://www.viable.fit/) - Measure and improve your product market fit.
+- [Octopus.do](https://octopus.do/sitemap/resource/generator) - Generate Visual Sitemap from sitemap.xml, just write URL. ([HN](https://news.ycombinator.com/item?id=23600645))
 - [Buttondown](https://buttondown.email/) - Easiest way to run your newsletter in markdown.
 - [How many people are around](https://github.com/schollz/howmanypeoplearearound) - Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡.
 - [Confluent](https://www.confluent.io/) - Streaming platform built by the original creators of Apache Kafka.
