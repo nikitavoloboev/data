@@ -14,3 +14,4 @@
 - [zls: A Zig Language Server - Alex Naskos & Auguste Rame (2020)](https://www.youtube.com/watch?v=r5fo7k-XIRI)
 - [Why Zig When There is Already CPP, D, and Rust?](https://github.com/ziglang/zig/wiki/Why-Zig-When-There-is-Already-CPP,-D,-and-Rust%3F) ([Lobsters](https://lobste.rs/s/0h17xy/why_zig_when_there_is_already_cpp_d_rust))
 - [Zig: a great fit for emulators - Benjamin Feng (2020)](https://www.youtube.com/watch?v=jkkUS0nmdsg) ([Lobsters](https://lobste.rs/s/gaoldu/zig_great_fit_for_emulators))
+- [What is Zig's “Colorblind” Async/Await? (2020)](https://kristoff.it/blog/zig-colorblind-async-await/) ([Lobsters](https://lobste.rs/s/y3fsrm/what_is_zig_s_colorblind_async_await))

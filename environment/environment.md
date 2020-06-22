@@ -26,3 +26,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Tomorrow](https://www.tmrow.com/) - Data Driven Climate Action.
 - [Pachama](https://pachama.com/) - Offset your Carbon Emissions with Verified Reforestation.
 - [Greyparrot](https://greyparrot.ai/) - Computer Vision for Waste Management.
+- [The Design Pathway](https://earth-regenerators.mn.co/posts/the-design-pathway-preface) - Book about what will need to happen if humanity is to intentionally avoid extinction.
