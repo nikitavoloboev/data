@@ -7,3 +7,4 @@
 - [Real World Rails](https://github.com/eliotsykes/real-world-rails) - Real World Rails applications and their open source codebases for developers to learn from.
 - [Production Rails](https://github.com/ankane/production_rails#readme) - Best practices for running Rails in production.
 - [React-Rails](https://github.com/reactjs/react-rails) - Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker.
+- [StimulusReflex](https://github.com/hopsoft/stimulus_reflex) - Build reactive applications with the Rails tooling you already know and love.

@@ -14,3 +14,4 @@
 - [Raspberry Pi Docs](https://www.raspberrypi.org/documentation/) ([Code](https://github.com/raspberrypi/documentation))
 - [Cuprum Pi](https://github.com/inre/cupi) - GPIO access library for the Raspberry Pi.
 - [A Raspberry Pi as a decent residential proxy (2020)](https://wiringbits.net/wiringbits/2020/06/07/a-raspberry-pi-as-a-decent-residential-proxy.html) ([HN](https://news.ycombinator.com/item?id=23456515))
+- [Raspberry Pi Firmware](https://github.com/raspberrypi/firmware) - Pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.

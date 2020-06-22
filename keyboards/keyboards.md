@@ -63,3 +63,4 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Workman Keyboard Layout](https://workmanlayout.org/) - Layout Designed with Hands in Mind. ([HN](https://news.ycombinator.com/item?id=23400058))
 - [Keyboard Switches You've Never Heard of (2020)](https://www.youtube.com/watch?v=8xPOwT_mNuc)
 - [Resources for building a keyboard from scratch (2020)](https://twitter.com/steveklabnik/status/1274361173954236419)
+- [ZMK Firmware](https://github.com/zmkfirmware/zmk) - Modern, open source keyboard firmware. ([Docs](https://zmkfirmware.dev/docs/))

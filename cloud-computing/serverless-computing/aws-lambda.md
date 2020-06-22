@@ -20,3 +20,5 @@
 - [AWS Lambda Power Tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Step Functions state machine that helps you optimize your Lambda functions in a data-driven way.
 - [Swift AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime) ([HN](https://news.ycombinator.com/item?id=23352501))
 - [A Shared File System for Your Lambda Functions (2020)](https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/) ([HN](https://news.ycombinator.com/item?id=23543554))
+- [Chalice](https://github.com/aws/chalice) - Framework for writing serverless apps in python. It allows you to quickly create and deploy applications that use AWS Lambda.
+- [Chaos Lambda](https://github.com/artilleryio/chaos-lambda) - Serverless chaos monkey for AWS (runs on AWS Lambda).
