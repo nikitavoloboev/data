@@ -9,3 +9,4 @@
 - [Calculus Explained with pics and gifs (2014)](https://0a.io/chapter1/calculus-explained.html) ([HN](https://news.ycombinator.com/item?id=21671112))
 - [Calculus One course](https://mooculus.osu.edu/) ([Code](https://github.com/mooculus/calculus))
 - [Introduction to Tensor Calculus](http://www.ita.uni-heidelberg.de/~dullemond/lectures/tensor/tensor.pdf)
+- [Why Calculus Works](https://markibrahim.gitbook.io/why-calculus-works/) - Understanding Calculus through real analysis, complex analysis, and measure theory. ([Code](https://github.com/marksibrahim/why-calculus-works))
