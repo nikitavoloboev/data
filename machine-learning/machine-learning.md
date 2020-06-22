@@ -225,7 +225,7 @@
 - [fastAI v2 course](https://dev.fast.ai/) ([Code](https://github.com/fastai/fastai2))
 - [Interactive Tools for ML, DL and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools#readme)
 - [Deep learning with graph-structured representations (2020)](https://pure.uva.nl/ws/files/46900201/Thesis.pdf)
-- [Interactive Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments)
+- [Interactive Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments) ([Web](https://trekhleb.github.io/machine-learning-experiments/#/))
 - [AxCell: Automatic Extraction of Results from Machine Learning Papers (2020)](https://arxiv.org/abs/2004.14356)
 - [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses#readme)
 - [How do you keep up with new research? (2020)](https://www.reddit.com/r/MachineLearning/comments/gko05p/discussion_how_do_you_guys_keep_up_with_new/)

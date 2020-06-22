@@ -26,3 +26,5 @@
 - [Textbook for Electrical Engineering & Electronics](https://www.allaboutcircuits.com/textbook/)
 - [Ask HN: What are some good resources to learn how electricity works? (2020)](https://news.ycombinator.com/item?id=23562181)
 - [Analog-to-Digital Conversion Playground](https://github.com/kronawetter/analog-to-digital-conversion) - Aims to explain the process of converting analog signals to digital ones.
+- [Logic, before ICs (2020)](https://northcoastsynthesis.com/news/logic-before-ics/) ([HN](https://news.ycombinator.com/item?id=23591521))
+- [Synth DIY Projects](https://northcoastsynthesis.com/synth-diy-projects/)
