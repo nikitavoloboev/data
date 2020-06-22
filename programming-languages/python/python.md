@@ -125,3 +125,4 @@
 - [Effective Python book](https://effectivepython.com/) ([Code](https://github.com/bslatkin/effectivepython))
 - [Specific ways to write better Python (2017)](https://github.com/SigmaQuan/Better-Python-59-Ways) ([HN](https://news.ycombinator.com/item?id=23584594))
 - [Learning Scientific Programming with Python](https://scipython.com/book/)
+- [Development with Nix: Python (2020)](https://thomazleite.com/posts/development-with-nix-python/) ([Lobsters](https://lobste.rs/s/tjgvzi/development_with_nix_python))

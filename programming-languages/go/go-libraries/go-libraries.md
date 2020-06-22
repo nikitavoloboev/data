@@ -461,6 +461,7 @@
 - [Phony](https://github.com/Arceliar/phony) - Ponylang-inspired actor model library for Go.
 - [faker](https://github.com/bxcodec/faker) - Fake Data Generator for Struct.
 - [go-radix](https://github.com/armon/go-radix) - Golang implementation of Radix trees.
+- [smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server.
 
 ## Links
 

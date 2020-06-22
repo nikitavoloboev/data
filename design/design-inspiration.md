@@ -114,7 +114,7 @@ Here are few more things I liked, design wise.
 - [Stephen Diehl](http://www.stephendiehl.com/) ([Code](https://github.com/sdiehl/stephendiehl.com))
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))
 - [Em Lazer-Walker](https://lazerwalker.com/)
-- [Drew DeVault](https://drewdevault.com/)
+- [Drew DeVault](https://drewdevault.com/) ([Code](https://git.sr.ht/~sircmpwn/drewdevault.com))
 - [Matthew Bunday](https://zencephalon.com/)
 - [Nuno Coelho Santos](https://nunocoelhosantos.com/)
 - [Kellie Kowalski](https://www.kelliekowalski.com/)
