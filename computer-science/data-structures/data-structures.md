@@ -31,3 +31,6 @@
 - [Let’s Invent B(+)-Trees](https://shachaf.net/w/b-trees) ([HN](https://news.ycombinator.com/item?id=23001831))
 - [Anna](https://github.com/hydro-project/anna) - Low-latency, cloud-native KVS.
 - [Persistent data structures thanks to recursive type aliases (2019)](https://www.aleksandra.codes/persistent-data-structures)
+- [Log-Structured Merge-Trees (2020)](https://yetanotherdevblog.com/lsm/)
+- [Understanding Bloom Filters (2020)](https://yetanotherdevblog.com/bloom-filters/)
+- [Dense vs. Sparse Indexes (2020)](https://yetanotherdevblog.com/dense-vs-sparse-indexes/)

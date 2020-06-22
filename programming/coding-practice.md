@@ -40,6 +40,7 @@
 - [Python](https://johnloeber.com/docs/projecteuler.html)
 - [Haskell](https://github.com/yfeldblum/haskell-euler)
 - [Python, Haskell](https://github.com/zacharydenton/euler)
+- [Java, Python, Mathematica, Haskell](https://github.com/nayuki/Project-Euler-solutions)
 
 ## Advent of Code solutions
 

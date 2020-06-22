@@ -53,3 +53,4 @@
 - [H5BP projects](https://h5bp.org/)
 - [HTML Road Guide](https://lyty.dev/html/index.html)
 - [Why Forking HTML Into A Static Language Doesn't Make Sense (2020)](https://robert.ocallahan.org/2020/05/why-forking-html-into-static-language.html) ([Lobsters](https://lobste.rs/s/zztnen/why_forking_html_into_static_language))
+- [Building GitHub-style Hovercards with Stimulus and HTML-over-the-wire (2020)](https://boringrails.com/articles/hovercards-stimulus/)

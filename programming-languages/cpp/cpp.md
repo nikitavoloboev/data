@@ -96,3 +96,4 @@
 - [zapcc](https://github.com/yrnkrn/zapcc) - Caching C++ compiler based on clang, designed to perform faster compilations.
 - [Souffle](https://github.com/souffle-lang/souffle) - Variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification.
 - [Professional Programming Tools for C and C++](https://antongerdelan.net/pro_programming_tools_book/) ([Code](https://github.com/capnramses/pro_programming_tools_c_cpp))
+- [C++ Lambda Story Book (2020)](https://www.bfilipek.com/2020/06/lambdastory.html)
