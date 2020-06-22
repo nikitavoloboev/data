@@ -9,3 +9,4 @@
 - [Not everything is UTF-8 (2020)](https://octobus.net/blog/2020-06-05-not-everything-is-utf8.html) ([Lobsters](https://lobste.rs/s/3cus4b/not_everything_is_utf_8))
 - [Archie Markup Language (ArchieML)](http://archieml.org/) - Structured text format optimized for human writability.
 - [Unidecode](https://github.com/avian2/unidecode) - Lossy ASCII transliterations of Unicode text.
+- [BARE Message Encoding](https://baremessages.org/) - Simple binary representation for structured application data. ([Lobsters](https://lobste.rs/s/r9phjo/bare_message_encoding))

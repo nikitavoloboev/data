@@ -204,3 +204,4 @@
 - [aws-k8s-tester](https://github.com/aws/aws-k8s-tester) - Set of utilities and libraries for "testing" Kubernetes on AWS.
 - [Go FlagZ](https://github.com/mwitkow/go-flagz) - Dynamic, thread-safe flag variables that can be modified at runtime through etcd or Kubernetes.
 - [Argo CD](https://github.com/argoproj/argo-cd) - Declarative Continuous Delivery for Kubernetes.
+- [Kubernetes Basic Learning](https://github.com/knrt10/kubernetes-basicLearning) - Understand Kubernetes step by step. A simple repo for beginners.
