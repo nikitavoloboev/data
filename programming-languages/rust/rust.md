@@ -240,3 +240,4 @@
 - [3K, 60fps, 130ms: achieving it with Rust (2020)](https://blog.tonari.no/why-we-love-rust) ([HN](https://news.ycombinator.com/item?id=23540586))
 - [Understanding the Rust Ecosystem (2020)](https://joeprevite.com/rust-lang-ecosystem)
 - [Call for help implementing an independent Rust frontend for GCC](https://users.rust-lang.org/t/call-for-help-implementing-an-independent-rust-frontend-for-gcc/32163)
+- [Tips for Faster Rust Compile Times (2020)](https://endler.dev/2020/rust-compile-times/)
