@@ -35,3 +35,4 @@
 - [Svelte Society](https://sveltesociety.dev/)
 - [Grouper component for Svelte (2020)](https://pace.dev/blog/2020/02/01/grouper-component-for-svelte-by-mat-ryer.html)
 - [Svelte Actions for Progressive Enhancement in 100 Seconds (2020)](https://www.youtube.com/watch?v=Q6dzy_IIB1s)
+- [Svelte Recipes](https://svelte.recipes/)
