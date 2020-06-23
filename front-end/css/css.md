@@ -168,3 +168,4 @@
 - [The Cognitive Complexity of CSS (2020)](https://ginseng.ai/blog/the-cognitive-complexity-of-css/)
 - [Drop-in Minimal CSS](https://dohliam.github.io/dropin-minimal-css/) - Overview of barebones drop-in minimal CSS boilerplate frameworks. ([Code](https://github.com/dohliam/dropin-minimal-css))
 - [CSS Road Guide](https://lyty.dev/css/index.html)
+- [paper.css](https://thesephist.github.io/paper.css/) - Lightweight, modern CSS to add some flair to your web-things. ([Code](https://github.com/thesephist/paper.css))

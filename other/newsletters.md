@@ -17,3 +17,4 @@
 - [The Tech Powering the Morning Brew Machine (2020)](https://medium.com/the-mission/the-tech-powering-the-morning-brew-machine-b7e8cd82121)
 - [Newsletter recs](https://twitter.com/SeanJoshuaHQ/status/1262037525960568832)
 - [Newsletter Stack](https://newsletterstack.com/) - Discover curated newsletters to help you learn about anything.
+- [Lovecroft](https://github.com/thesephist/lovecroft) - Minimal mailing list manager for static sites, with a simple JSON API.
