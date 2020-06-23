@@ -9,7 +9,7 @@
 - [Don't use flexbox for overall page layout (2014)](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/)
 - [The Thought Process Behind a Flexbox Layout (2019)](https://css-tricks.com/the-thought-process-behind-a-flexbox-layout/)
 - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies) - Learn Flexbox by playing a game.
-- [Flex Cheat Sheet](https://yoksel.github.io/flex-cheatsheet/)
+- [Flex Cheat Sheet](https://yoksel.github.io/flex-cheatsheet/) ([Code](https://github.com/yoksel/flex-cheatsheet))
 - [Coping with flexbox (2019)](https://kgrz.io/coping-with-flexbox.html)
 - [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbox Froggy](http://flexboxfroggy.com/)

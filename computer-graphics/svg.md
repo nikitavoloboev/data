@@ -33,3 +33,5 @@
 - [SVG Path Visualizer](https://svg-path-visualizer.netlify.app/) - Enter a SVG path data to visualize it and discover all its different commands.
 - [Nano SVG](https://github.com/memononen/nanosvg) - Simple stupid SVG parser.
 - [Shape Divider App](https://www.shapedivider.app/) - Export a beautiful SVG shape divider.
+- [URL-encoder for SVG](https://yoksel.github.io/url-encoder/) ([Code](https://github.com/yoksel/url-encoder))
+- [SVG Filters Playground](https://yoksel.github.io/svg-filters/#/) ([Code](https://github.com/yoksel/svg-filters))
