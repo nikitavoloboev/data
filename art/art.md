@@ -131,6 +131,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Juno Calypso](https://www.junocalypso.com/)
 - [Robh Ruppel](https://www.artstation.com/robh_ruppel_design)
 - [Elora Pautrat](https://www.elorapautrat.com/)
+- [Stephanie Buer](http://www.stephaniebuer.com/)
 - [Zi Xu](https://www.zixu.co/)
 - [Nicholas Stathopoulos](http://www.nickstath.com/)
 - [Phil Dragash](https://www.phildragash.com/)
