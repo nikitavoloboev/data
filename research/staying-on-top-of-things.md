@@ -12,7 +12,7 @@ I try to stay in touch using these few things:
 
 ### Twitter with [Tweetbot](../macOS/apps/tweetbot.md)
 
-Twitter is my favorite social media network and it is where I share everything [I am personally up to](https://twitter.com/nikitavoloboev) right now. I love Twitter for its ability to tailor completely what news and tweets I am actually reading. I split Tweetbot into [two columns](../macOS/apps/tweetbot.md). I have two feeds, one with my top subs and everything else in other list.
+Twitter is my favorite social media network and it is where I share everything [I am personally up to](https://twitter.com/nikitavoloboev) right now. I love Twitter for its ability to tailor completely what news and tweets I am actually reading. I split Tweetbot into [two columns](../macOS/apps/tweetbot.md) on mac.
 
 ### [Hacker News](https://hckrnews.com/) and [Lobsters](https://lobste.rs/)
 

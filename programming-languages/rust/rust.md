@@ -242,3 +242,4 @@
 - [Call for help implementing an independent Rust frontend for GCC](https://users.rust-lang.org/t/call-for-help-implementing-an-independent-rust-frontend-for-gcc/32163)
 - [Tips for Faster Rust Compile Times (2020)](https://endler.dev/2020/rust-compile-times/)
 - [Rust: the archetype of a message-passing bug (2020)](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8) ([HN](https://news.ycombinator.com/item?id=23599038))
+- [Rust's Huge Compilation Units (2020)](https://pingcap.com/blog/rust-huge-compilation-units/)
