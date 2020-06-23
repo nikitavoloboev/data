@@ -57,3 +57,4 @@
 - [C is archaic (2019)](https://birb007.github.io/blog/2019/12/15/c-is-archaic.html)
 - [Linux kernel coding style in C](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
 - [Constantine](https://github.com/rizsotto/Constantine) - Toy project to learn how to write Clang plugin.
+- [Tiny C Compiler](https://bellard.org/tcc/) ([HN](https://news.ycombinator.com/item?id=23617461))
