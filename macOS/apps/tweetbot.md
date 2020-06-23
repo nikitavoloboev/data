@@ -4,7 +4,7 @@ I use the app to stay up to date and communicate on Twitter.
 
 I split the app into 2 columns on mac.
 
-- First column: Mentions / Messages / [Other](https://twitter.com/i/lists/1131319788012285952)
+- First column: Mentions / Messages / Other
 - Second column: [Timeline](https://twitter.com/nikitavoloboev/following). Tweets with highest value to me.
 
 ![](https://i.imgur.com/uMoGfGx.png)
