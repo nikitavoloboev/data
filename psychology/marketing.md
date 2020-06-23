@@ -30,6 +30,7 @@
 - [Pre-Brand](https://pre-brand.com/) - You don’t need a perfect brand, you need to keep moving.
 - [How to Market Yourself (2020)](https://dev.to/swyx/marketing-yourself-without-being-a-celebrity-398d)
 - [Онлайн-курс по брендингу. Системный подход](https://school.nimax.ru/brands)
+- [Lessons in growing a large audience and media company (2020)](https://twitter.com/adam_keesling/status/1275243132594995201)
 
 ## Images
 
