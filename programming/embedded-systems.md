@@ -45,3 +45,4 @@
 - [What are some of the most asked embedded systems interview questions? (2020)](https://www.reddit.com/r/embedded/comments/h7pdem/what_are_some_of_the_most_asked_embedded_systems/)
 - [Monolinux Jiffy](https://github.com/eerimoq/monolinux-jiffy) - Monolinux distro for the Jiffy board. ([HN](https://news.ycombinator.com/item?id=23556862))
 - [Fast Execute-Only Memory for Embedded Systems (2006)](https://arxiv.org/pdf/2006.00076.pdf)
+- [Trends in Embedded Systems (2020)](https://www.reddit.com/r/embedded/comments/heay2s/trends_in_embedded_systems/)

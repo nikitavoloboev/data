@@ -98,3 +98,4 @@
 - [What are some common misconceptions in physics? (2020)](https://www.reddit.com/r/AskPhysics/comments/haaw4h/what_are_some_common_misconceptions_in_physics/)
 - [Papers by Edward Witten](https://arxiv.org/search/hep-th?searchtype=author&query=Witten%2C+E)
 - [Feynman Lectures on the Strong Interactions (2020)](https://www.math.columbia.edu/~woit/wordpress/?p=11782) ([HN](https://news.ycombinator.com/item?id=23535868))
+- [What are good online resources for learning physics? (2020)](https://www.reddit.com/r/AskPhysics/comments/he6uq0/what_are_good_online_resources_for_learning/)

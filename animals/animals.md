@@ -10,6 +10,10 @@ I love all animals. And I am sad that some people decide to eat them and not let
 - [Capybaras](https://www.youtube.com/watch?v=SCwcJsBYL3o)
 - [Qokkas](https://en.wikipedia.org/wiki/Quokka)
 
+## Cute
+
+- [I want what this dog has](https://twitter.com/sharnacious/status/1275282474470440961)
+
 ## Links
 
 - [BrushyBrushy subreddit](https://www.reddit.com/r/brushybrushy)
