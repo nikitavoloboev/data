@@ -2,7 +2,7 @@
 
 This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world in form of an [online GitBook](https://wiki.nikitavoloboev.xyz) hosted on [GitHub](https://github.com/nikitavoloboev/knowledge).
 
-If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals in a lot of detail.
+If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals.
 
 Below are [notes](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) & their relations [visualized with Obsidian](https://twitter.com/nikitavoloboev/status/1271505869872803849).
 
@@ -53,4 +53,4 @@ I'd love to hear any [ideas you have](https://github.com/nikitavoloboev/knowledg
 
 You can support me on [GitHub](https://github.com/sponsors/nikitavoloboev) or look into [other projects](https://nikitavoloboev.xyz/projects) I shared.
 
-[![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
+[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/nikitatweet)](https://twitter.com/nikitavoloboev)
