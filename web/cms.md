@@ -10,3 +10,4 @@
 - [Strapi](https://strapi.io/) - Open source Node.js Headless CMS to easily build customisable APIs. ([HN](https://news.ycombinator.com/item?id=23453530)) ([Code](https://github.com/strapi/strapi))
 - [Recommendations for headless CMS (2020)](https://twitter.com/jorilallo/status/1273374053852753921)
 - [Agility CMS](https://agilitycms.com/) - The Fastest Headless CMS. ([Tweet](https://twitter.com/rauchg/status/1274418537126219776))
+- [Sanity](https://www.sanity.io/) - Build with Structured Content.

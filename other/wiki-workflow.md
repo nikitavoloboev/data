@@ -176,3 +176,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Kumu](https://kumu.io/) - Makes it easy to organize complex data into relationship maps that are beautiful to look at and a pleasure to use.
 - [Relanote](https://relanote.com/) - Connect your notes into a knowledge graph.
 - [Milanote](https://milanote.com/) - Tool for organizing creative projects.
+- [mymind](https://mymind.com/) - Extension for your mind.

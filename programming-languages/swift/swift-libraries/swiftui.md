@@ -64,3 +64,4 @@
 - [Replicating complex UI using SwiftUI](https://github.com/exyte/replicating)
 - [SwiftUI Suitability for MacOS App Development (2020)](https://ds9soft.com/blog/2020/06/swiftui-suitability-for-macos-app-development/)
 - [What’s new in SwiftUI for iOS 14](https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14)
+- [State and Data Flow](https://developer.apple.com/documentation/swiftui/state-and-data-flow)

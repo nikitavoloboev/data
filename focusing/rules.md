@@ -53,7 +53,7 @@
 
 ## Ideas
 
-- Share [all ideas I have](https://trello.com/b/alB1ryRP). Add relevant description and links to describe the idea clearly.
+- Share [all ideas I have](../ideas/ideas.md). Add relevant description and links to describe the idea clearly.
 - Start building early. Validate ideas. Iterate fast. Ship often. Listen to feedback.
 - Look for patterns to draw inspiration for novel ideas.
 
@@ -162,6 +162,7 @@
 - Add appropriate topics to each repo (languages used, problem space, ..)
 - Use relative links instead of hard wired links (i.e. `../issues/` refers to issues of repo).
 - Have same README & CONTRIBUTING content structure across all my repos.
+- Can append `#readme` for GitHub links that need focus on the readme. Like links to contributing pages, curated lists.
 
 ## README
 
