@@ -24,10 +24,10 @@
 - [Kami](https://github.com/mit-plv/kami) - Platform for High-Level Parametric Hardware Specification and its Modular Verification.
 - [Lean versus Coq: The cultural chasm](https://artagnon.com/articles/leancoq#main)
 - [Awesome Coq](https://github.com/uhub/awesome-coq#readme)
+- [Awesome Coq 2](https://github.com/coq-community/awesome-coq#readme)
 - [coq-of-ocaml](https://github.com/clarus/coq-of-ocaml) - Import OCaml programs to Coq.
 - [Poleiro](http://poleiro.info/) - Blog about Coq. ([Code](https://github.com/arthuraa/poleiro))
 - [Coq'Art](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book.
-- [Awesome Coq](https://github.com/coq-community/awesome-coq#readme)
 - [Interaction Trees - Representing Recursive and Impure Programs in Coq (2020)](https://poisson.chat/popl20/itrees.pdf)
 - [Formal Reasoning About Programs](https://github.com/achlipala/frap) - In-progress, open-source book by Adam Chlipala simultaneously introducing the Coq proof assistant and techniques for proving correctness of programs. ([HN](https://news.ycombinator.com/item?id=21921795))
 - [GeoCoq](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry in Coq.

@@ -25,3 +25,4 @@
 - [Stanford DAWN](https://dawn.cs.stanford.edu//) - Five-year research project to democratize AI by making it dramatically easier to build AI-powered applications.
 - [AI Research, Replicability and Incentives (2020)](https://dennybritz.com/blog/ai-replication-incentives/)
 - [Environmental drivers of systematicity and generalization in a situated agent (2019)](https://arxiv.org/abs/1910.00571)
+- [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/)
