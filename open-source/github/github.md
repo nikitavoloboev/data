@@ -8,7 +8,7 @@ I publish most of my work and make it open source for other people to use and re
 
 ## Notes
 
-- You can append `#readme` to GitHub repo URL to jump to the README of the repo. I use it all the time for curated lists of any kind and where README is the most important thing in the repo.
+- Can append `#readme` to GitHub repo URL to jump to README of the repo.
 - Selecting some text in a GitHub comment and pressing `r` will make a reply of that text.
 - [GitHub jump](https://github.com/lox/alfred-github-jump) workflow is one of the best things you can install to navigate GitHub like a God.
   - I [slightly modified it](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations) to jump to different parts of the repo with modifiers like going to issues, releases, opening new issue or even cloning the repo instantly.
