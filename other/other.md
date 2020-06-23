@@ -247,3 +247,5 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Why do we see illusions? - Mark Changizi (2013)](https://www.youtube.com/watch?v=1xcvWSeZPbw)
 - [AutoEQ](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses.
 - [Important things to do better at work](https://twitter.com/_dte/status/1274806242712616962)
+- [Cameo](https://www.cameo.com/) - Get personalized messages from your favorite celebrities. ([HN](https://news.ycombinator.com/item?id=23603679))
+- [Some links](https://travmaturg.github.io/links/misc.html)

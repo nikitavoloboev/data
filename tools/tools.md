@@ -41,6 +41,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Readmo](https://readmo.app/) - App that helps you read more. Displays articles in a simplified and distraction-free mode.
 - [Split](https://www.split.io/) - Feature Delivery Platform for engineering teams that want to confidently release features.
 - [Muse](https://museapp.com/) - iPad sketchbook.
+- [Outline](https://outline.com/) - Read & annotate without distractions.
 - [Complice](https://complice.co/) - Progress towards what matters. Provides intuitive goal-creation wizard.
 - [Retool](https://retool.com/) - Cuts the time it takes to build internal tools in half.
 - [Exposure](https://exposure.co/) - Modern publishing platform for photographers and visual storytellers.

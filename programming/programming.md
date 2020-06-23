@@ -177,3 +177,6 @@
 - [Annotated Debugger Implementation Bibliography](https://aarzilli.github.io/debugger-bibliography/) ([Code](https://github.com/aarzilli/debugger-bibliography))
 - [Conversational software development (2020)](https://oli.me.uk/conversational-software-development/)
 - [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology) ([HN](https://news.ycombinator.com/item?id=23444594))
+- [Adventures in Advanced Symbolic Programming (2020)](http://groups.csail.mit.edu/mac/users/gjs/6.945/)
+- [Software Design for Flexibility by Chris Hanson, Gerald Jay Sussman (2020)](https://www.penguinrandomhouse.com/books/669475/software-design-for-flexibility-by-chris-hanson-and-gerald-jay-sussman/)
+- [MIT 6.001 Structure and Interpretation (1986)](https://www.youtube.com/playlist?list=PLE18841CABEA24090) ([HN](https://news.ycombinator.com/item?id=23599263))

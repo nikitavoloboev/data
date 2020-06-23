@@ -178,6 +178,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Amber Wilson's book reviews](https://amberwilson.co.uk/read)
 - [Michael Akilian's favorite books](https://akilian.com/books/)
 - [Nick Cammarata's bookshelf](http://nickcammarata.com/bookshelf)
+- [List of books on various topics](https://travmaturg.github.io/links/books.html)
 
 ## Notes
 
@@ -237,3 +238,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [The Open Book Project](https://github.com/joeycastillo/The-Open-Book) - Open-source, DRM-free Kindle alternative. ([HN](https://news.ycombinator.com/item?id=23584885))
 - [Ask HN: How do you take notes when reading a book? (2020)](https://news.ycombinator.com/item?id=23596471)
 - [Readwise](https://readwise.io/) - Makes it easy to revisit and learn from your ebook & article highlights.
+- [Penguin Random House](https://www.penguinrandomhouse.com/) - Committed to publishing great books, connecting readers and authors globally, and spreading the love of reading.
