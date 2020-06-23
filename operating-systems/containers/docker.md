@@ -4,9 +4,9 @@
 
 - [sen](https://github.com/TomasTomecek/sen) - Terminal User Interface for docker engine.
 - [Understanding Docker, Containers and Safer Software Delivery](https://www.sitepoint.com/docker-containers-software-delivery/)
-- [Docker 101](https://github.com/Citrix-TechSpecialist/Docker-101#readme)
+- [Docker 101](https://github.com/Citrix-TechSpecialist/Docker-101)
 - [Intro to Docker slides (2014)](http://jdlm.info/ds-docker-demo)
-- [Dokku](https://github.com/dokku/dokku#readme) - Docker-powered PaaS that helps you build and manage the lifecycle of applications.
+- [Dokku](https://github.com/dokku/dokku) - Docker-powered PaaS that helps you build and manage the lifecycle of applications.
 - [dive](https://github.com/wagoodman/dive) - Tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size.
 - [Scratch Node.js Docker Images](https://github.com/astefanutti/scratch-node)
 - [Testing Databases with Docker (2015)](https://ericchiang.github.io/post/testing-dbs-with-docker/)
@@ -38,7 +38,7 @@
 - [Docker Images : Part I - Reducing Image Size (2020)](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
 - [docker-squash](https://github.com/jwilder/docker-squash) - Squash docker images to make them smaller.
 - [dregsy](https://github.com/xelalexv/dregsy) - Lets you sync Docker images between registries, public or private.
-- [Curated list of Docker Compose samples](https://github.com/docker/awesome-compose#readme)
+- [Curated list of Docker Compose samples](https://github.com/docker/awesome-compose)
 - [Dockercraft](https://github.com/docker/dockercraft) - Simple Minecraft Docker client, to visualize and manage Docker containers.
 - [Harbour](https://github.com/rrroyal/Harbour) - Docker/Portainer client for iOS (and iPadOS) written in SwiftUI.
 - [into-docker](https://github.com/into-docker/into-docker) - Lets you build and run applications relying on common frameworks or build tools without ever having to write another Dockerfile.
@@ -47,7 +47,7 @@
 - [magicpak](https://github.com/coord-e/magicpak) - Build minimal docker images without static linking. ([HN](https://news.ycombinator.com/item?id=22859993))
 - [DevOps with Docker](https://devopswithdocker.com/) - Introductory course to Docker and docker-compose. ([Code](https://github.com/docker-hy/docker-hy.github.io))
 - [Bollard](https://github.com/fussybeaver/bollard) - Asynchronous rust client library for the docker API.
-- [Docker EE Operational Checklist](https://github.com/nicolaka/checklist#readme)
+- [Docker EE Operational Checklist](https://github.com/nicolaka/checklist)
 - [Bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash.
 - [Why strace doesn't work in Docker (2020)](https://jvns.ca/blog/2020/04/29/why-strace-doesnt-work-in-docker/) ([HN](https://news.ycombinator.com/item?id=23065994))
 - [Udemy Course Docker Mastery](https://www.bretfisher.com/courses/) - Build, test, deploy containers with the best mega-course on Docker, Kubernetes, Compose, Swarm and Registry using DevOps. ([Code](https://github.com/BretFisher/udemy-docker-mastery))

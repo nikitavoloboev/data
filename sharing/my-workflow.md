@@ -28,13 +28,13 @@
 - [Wiki](../readme.md) - [Everything I know](everything-I-know.md) is written out or referenced from this wiki. The wiki consists of markdown files editing in Sublime Text rendered with [GitBook](https://www.gitbook.com).
 - [Articles](my-articles.md) - Pieces I wrote on various topics.
 - [Code Snippets](https://code.nikitavoloboev.xyz) - Actionable useful code snippets on various topics.
-- [Curated lists](https://github.com/learn-anything/curated-lists#readme) - [Awesome lists](https://github.com/sindresorhus/awesome#readme) on topics.
+- [Curated lists](https://github.com/learn-anything/curated-lists) - [Awesome lists](https://github.com/sindresorhus/awesome) on topics.
 - [Looking back](../looking-back/looking-back.md) - My public log of things I've done & events happened to me. Serves as a tool for reflection and growth.
 
 ## Search
 
 - [Alfred](../macOS/apps/alfred/alfred.md) - Use Alfred to search everything.
-- [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme) - Search my entire corpus of useful to me references. Extension of my brain.
+- [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind) - Search my entire corpus of useful to me references. Extension of my brain.
 - [Safari](../web/browsers/safari.md) - Only bookmark personal things which I search with [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant).
 
 ## Photos
@@ -44,8 +44,8 @@
 
 ## macOS/iOS
 
-- [macOS](https://github.com/nikitavoloboev/my-mac-os#readme) - macOS apps/tools I use.
-- [iOS](https://github.com/nikitavoloboev/my-ios#readme) - iOS apps/tools I use.
+- [macOS](https://github.com/nikitavoloboev/my-mac-os) - macOS apps/tools I use.
+- [iOS](https://github.com/nikitavoloboev/my-ios) - iOS apps/tools I use.
 
 ## Track
 

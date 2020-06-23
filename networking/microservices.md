@@ -21,7 +21,7 @@
 - [Go: Dependency injection with Wire (2019)](https://scene-si.org/2019/12/11/dependency-injection-with-wire/)
 - [Building Microservices with Go (2020)](https://www.youtube.com/watch?v=VzBGi_n65iU)
 - [Micro-services (2020)](http://funcall.blogspot.com/2020/01/micro-services.html)
-- [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering#readme)
+- [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering)
 - [Microservice background jobs in Go (2020)](https://scene-si.org/2020/01/13/microservice-background-jobs/)
 - [Istio as an Example of When Not to Do Microservices](https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/)
 - [7 tips on how to write kick-ass high performance Golang microservices (2020)](https://medium.com/@jake0malay3/7-tips-on-how-to-write-kick-ass-high-performance-golang-microservices-9f71d4c67a0a)

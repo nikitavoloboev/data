@@ -18,15 +18,15 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Brand Style Guide Examples](https://saijogeorge.com/brand-style-guide-examples/)
 - [Intenion - ad by Apple](https://www.youtube.com/watch?v=LcGPI2tV2yY)
 - [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
-- [Front End Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist#readme)
+- [Front End Design Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist)
 - [Lona](https://github.com/airbnb/Lona) - Tool for defining design systems and using them to generate cross-platform UI code, Sketch files, and other artifacts.
-- [Free Logos](https://github.com/arasatasaygin/openlogos#readme) - Has some nice logos.
+- [Free Logos](https://github.com/arasatasaygin/openlogos) - Has some nice logos.
 - [Design Languages](https://design-languages.com/) - Curated library for design languages, design systems and front-end frameworks.
 - [Designing Fluid Interfaces (2018)](https://developer.apple.com/videos/play/wwdc2018/803/)
 - [Refactoring UI](https://refactoringui.com/) - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view.
-- [Curated list of UI styleguides](https://github.com/streamich/awesome-styleguides#readme)
+- [Curated list of UI styleguides](https://github.com/streamich/awesome-styleguides)
 - [The ineffectiveness of lonely icons (2019)](https://mattwilcox.net/musing/the-ineffectiveness-of-icons)
-- [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools#readme) ([HN](https://news.ycombinator.com/item?id=19580860))
+- [Awesome Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) ([HN](https://news.ycombinator.com/item?id=19580860))
 - [Closing the loop with Design Intelligence (2018)](https://airbnb.design/the-evolution-of-tools/)
 - [Abstract](https://www.goabstract.com) - Modern Design Workflow. Sketch version control management tool.
 - [10 Year Challenge: How Popular Websites Have Changed (2019)](https://www.arun.is/blog/10-year-challenge/)
@@ -37,12 +37,12 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Apply Pixels](https://applypixels.com/) - Industry Standard Design Resources.
 - [Firefox: The Evolution Of A Brand (2019)](https://blog.mozilla.org/opendesign/firefox-the-evolution-of-a-brand/)
 - [Labels are a last resort](https://refactoringui.com/previews/labels-are-a-last-resort/)
-- [UI Design](https://github.com/tipoqueno/UI-Design#readme) - Curated list of useful resources related to User Interface Design.
+- [UI Design](https://github.com/tipoqueno/UI-Design) - Curated list of useful resources related to User Interface Design.
 - [Rad Lines](https://github.com/msurguy/rad-lines) - Vector Generator Tool. ([Web](https://msurguy.github.io/rad-lines/))
 - [The best design resources for new designers (2019)](https://www.uigoodies.com/blog/the-best-resources-for-new-designers.html)
-- [Awesome Design](https://github.com/gztchan/awesome-design#readme) - Focuses on collecting high quality resources and tools which can be used by UI/UX designers in daily work.
-- [Awesome Design 2](https://github.com/troyericg/awesome-design#readme)
-- [Design Inspiration & Resources](https://github.com/emmawedekind/design-inspiration#readme)
+- [Awesome Design](https://github.com/gztchan/awesome-design) - Focuses on collecting high quality resources and tools which can be used by UI/UX designers in daily work.
+- [Awesome Design 2](https://github.com/troyericg/awesome-design)
+- [Design Inspiration & Resources](https://github.com/emmawedekind/design-inspiration)
 - [How to design delightful dark themes (2019)](https://blog.superhuman.com/how-to-design-delightful-dark-themes-7b3da644ff1f)
 - [5 design principles for building your first portfolio](https://dribbble.com/stories/2019/10/21/5-design-principles-for-building-your-first-portfolio)
 - [The Definition of Design](https://rsms.me/eames-design/)
@@ -87,9 +87,9 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Spotify Design](https://spotify.design/)
 - [Sidebar](https://sidebar.io/) - Five best design links, every day.
 - [Reading Design](https://www.readingdesign.org/index-1) - Online archive of critical writing about design.
-- [Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers#readme)
+- [Design Resources For Developers](https://github.com/bradtraversy/design-resources-for-developers)
 - [Blush](https://blush.design/) - Create, mix, and customize illustrations made by artists around the world.
-- [spark-joy](https://github.com/sw-yx/spark-joy#readme) - Easy ways to add design flair, user delight, and whimsy to your product.
+- [spark-joy](https://github.com/sw-yx/spark-joy) - Easy ways to add design flair, user delight, and whimsy to your product.
 - [Teleport](https://teleporthq.io/) - Create high-definition prototypes visually, generate the code in real-time, and deploy your user interface with one click. ([Article](https://medium.com/visualdevspace/getting-started-with-teleporthq-53a671ec56d5))
 - [Growth Design](https://growth.design/)
 - [Data Authoring Environments: An Overview (2018)](http://staging.dubberly.com/Data_Authoring_Environments/180702-An%20Overview%20of%20Data%20Authoring%20Environments/180702_Data_Authoring_Environments.pdf)

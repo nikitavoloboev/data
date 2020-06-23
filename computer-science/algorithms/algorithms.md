@@ -26,7 +26,7 @@
 - [MIT Introduction to Algorithms course (2011)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 - [How to implement an algorithm from a scientific paper (2012)](http://codecapsule.com/2012/01/18/how-to-implement-a-paper/)
 - [Quadsort](https://github.com/scandum/quadsort) - Stable non-recursive merge sort named quadsort.
-- [System design algorithms](https://github.com/resumejob/system-design-algorithms#readme) - Algorithms you should know before system design.
+- [System design algorithms](https://github.com/resumejob/system-design-algorithms) - Algorithms you should know before system design.
 - [Algorithms Design book](http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf)
 - [Think Complexity](http://greenteapress.com/complexity/html/index.html)
 - [All Algorithms implemented in Rust](https://github.com/TheAlgorithms/Rust)

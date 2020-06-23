@@ -10,8 +10,8 @@
 - [Create React Native App](https://github.com/react-community/create-react-native-app)
 - [Expo](https://expo.io/) - Free and open source toolchain built around React Native to help you build native iOS and Android projects using JavaScript and React.
 - [Emission](https://github.com/artsy/emission) - React Native Components.
-- [Detox](https://github.com/wix/detox#readme) - Gray Box End-to-End Testing and Automation Framework for Mobile Apps.
-- [Awesome React Native Components](https://github.com/madhavanmalolan/awesome-reactnative-ui#readme)
+- [Detox](https://github.com/wix/detox) - Gray Box End-to-End Testing and Automation Framework for Mobile Apps.
+- [Awesome React Native Components](https://github.com/madhavanmalolan/awesome-reactnative-ui)
 - [Declarative future of gestures and animations in React Native - Krzysztof Magiera (2018)](https://www.youtube.com/watch?v=kdq4z2708VM)
 - [Simple physics with Reanimated — Part 1](https://blog.swmansion.com/simple-physics-with-reanimated-part-1-9d55d36f73cd)
 - [Why Discord is Sticking with React Native (2018)](https://blog.discordapp.com/why-discord-is-sticking-with-react-native-ccc34be0d427)
@@ -31,7 +31,7 @@
 - [Ordinary Puzzles](https://github.com/mmazzarolo/ordinary-puzzles-app) - Mobile puzzle game built with React-Native.
 - [React Native Tab View](https://github.com/react-native-community/react-native-tab-view) - Cross-platform Tab View component for React Native.
 - [React Native — Monorepos & Code Sharing (2020)](https://engineering.brigad.co/react-native-monorepos-code-sharing-f6c08172b417)
-- [Awesome React Native: Native Modules](https://github.com/prscX/awesome-react-native-native-modules#readme)
+- [Awesome React Native: Native Modules](https://github.com/prscX/awesome-react-native-native-modules)
 - [React Native Now](https://reactnativenow.com/) - Bi-weekly React Native newsletter.
 - [Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat) - Most complete chat UI for React Native & Web.
 - [RecyclerListView](https://github.com/Flipkart/recyclerlistview) - High performance listview for React Native and web.

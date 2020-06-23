@@ -2,7 +2,7 @@
 
 I use [Spark](https://sparkmailapp.com) email client connected to various [Gmail](https://gmail.com) accounts for my email and I follow [some rules](../focusing/rules.md#email) when dealing with email. I heavily use labels for indexing important emails and approach emails in GTD way, actioning on every email and keeping my Inbox as close to 0 as possible.
 
-I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters#readme) and unsubscribe from anything that brings no value and only adds noise.
+I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters) and unsubscribe from anything that brings no value and only adds noise.
 
 ## Notes
 
@@ -16,7 +16,7 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 
 - [mailyak](https://github.com/domodwyer/mailyak) - Elegant MIME/SMTP email library with support for attachments.
 - [go-imap](https://github.com/emersion/go-imap) - IMAP library for clients and servers.
-- [Awesome Emails](https://github.com/jonathandion/awesome-emails#readme) - Awesome list of resources to build better emails.
+- [Awesome Emails](https://github.com/jonathandion/awesome-emails) - Awesome list of resources to build better emails.
 - [Composing better emails (2019)](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - Tips for composing effective emails avoiding misunderstandings. ([Lobsters](https://lobste.rs/s/3vfgoc/composing_better_emails))
 - [gmailfilters](https://github.com/jessfraz/gmailfilters) - Tool to sync Gmail filters from a config file to your account.
 - [Rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.

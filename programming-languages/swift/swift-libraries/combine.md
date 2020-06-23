@@ -11,7 +11,7 @@
 - [CombineX](https://github.com/cx-org/CombineX) - Open source implementation for Apple's Combine.
 - [Combine: Asynchronous Programming with Swift book (2019)](https://www.raywenderlich.com/6185979-combine-asynchronous-programming-with-swift-complete-book-available)
 - [Debugging with Swift Combine Framework (2019)](https://www.vadimbulavin.com/debugging-with-combine-swift-framework/)
-- [Awesome Combine](https://github.com/CombineCommunity/awesome-combine#readme)
+- [Awesome Combine](https://github.com/CombineCommunity/awesome-combine)
 - [OpenCombine](https://github.com/broadwaylamb/OpenCombine) - Open source implementation of Apple's Combine framework for processing values over time.
 - [Harvest](https://github.com/inamiy/Harvest) - Apple's Combine.framework + State Machine, inspired by Elm.
 - [Entwine](https://github.com/tcldr/Entwine) - Testing tools and utilities for Apple's Combine framework.
@@ -27,6 +27,6 @@
 - [Timelane + Combine](https://github.com/icanzilb/TimelaneCombine)
 - [CombinePlaygrounds](https://github.com/denisPoifol/CombinePlaygrounds) - Playground that should read as book about the Combine framework.
 - [ReactiveTimelane](https://github.com/nkristek/ReactiveTimelane) - Provides operators for Signal and SignalProducer in ReactiveSwift for profiling streams with the Timelane Instrument.
-- [RxSwift to Apple’s Combine Cheat Sheet (2019)](https://github.com/CombineCommunity/rxswift-to-combine-cheatsheet#readme)
+- [RxSwift to Apple’s Combine Cheat Sheet (2019)](https://github.com/CombineCommunity/rxswift-to-combine-cheatsheet)
 - [Combine Schedulers](https://github.com/pointfreeco/combine-schedulers) - Few schedulers that make working with Combine more testable and more versatile.
 - [Retrying a network request with a delay in Combine (2020)](https://www.donnywals.com/retrying-a-network-request-with-a-delay-in-combine/)

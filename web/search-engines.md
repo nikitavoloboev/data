@@ -22,7 +22,7 @@
 - [YouTokenToMe](https://github.com/VKCOM/YouTokenToMe) - Unsupervised text tokenizer focused on computational efficiency.
 - [Milvus](https://github.com/milvus-io/milvus) - Open source vector similarity search engine. ([Web](https://milvus.io/))
 - [PISA](https://github.com/pisa-engine/pisa) - Performant Indexes and Search for Academia. ([HN](https://news.ycombinator.com/item?id=22574459))
-- [Apache Lucene](https://github.com/apache/lucene-solr) - High-performance, full featured text search engine library written in Java. ([Awesome](https://github.com/Anant/awesome-lucene#readme))
+- [Apache Lucene](https://github.com/apache/lucene-solr) - High-performance, full featured text search engine library written in Java. ([Awesome](https://github.com/Anant/awesome-lucene))
 - [NNS Benchmark: Evaluating Approximate Nearest Neighbor Search Algorithms in High Dimensional Euclidean Space](https://github.com/DBWangGroupUNSW/nns_benchmark)
 - [The Anatomy of a Large-Scale Hypertextual Web Search Engine: Sergey Brin and Lawrence Page (1998)](http://infolab.stanford.edu/~backrub/google.html)
 - [Million Short](https://millionshort.com/) - Search engine that lets you exclude top sites.

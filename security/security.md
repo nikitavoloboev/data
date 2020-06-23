@@ -10,16 +10,16 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [DEF CON 26 - Christopher Domas - GOD MODE UNLOCKED Hardware Backdoors in redacted x86 (2018)](https://www.youtube.com/watch?v=jmTwlEh8L7g)
 - [SOPS](https://github.com/mozilla/sops) - Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
 - [ClusterFuzz](https://github.com/google/clusterfuzz) - Scalable fuzzing infrastructure which finds security and stability issues in software.
-- [Some security related notes](https://github.com/jaybosamiya/security-notes#readme)
+- [Some security related notes](https://github.com/jaybosamiya/security-notes)
 - [RAMBleed](https://rambleed.com/) - Reading Bits in Memory Without Accessing Them.
 - [Sliver](https://github.com/BishopFox/sliver) - General purpose cross-platform implant framework that supports C2 over Mutual-TLS, HTTP(S), and DNS.
-- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference#readme) - Information Security Reference That Doesn't Suck.
+- [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - Information Security Reference That Doesn't Suck.
 - [Messaging Layer Security (MLS)](https://messaginglayersecurity.rocks/) - Security layer for encrypting messages in groups of size two to many.
 - [Molasses](https://github.com/trailofbits/molasses) - Rust implementation of the Message Layer Security group messaging protocol.
 - [mkcert](https://github.com/FiloSottile/mkcert) - Simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [Boulder](https://github.com/letsencrypt/boulder) - ACME-based CA, written in Go.
 - [If you were tasked to conduct a security audit on a server/database-backed web app, where would you start? (2019)](https://dev.to/ben/if-you-were-tasked-to-conduct-a-security-audit-on-a-server-database-backed-web-app-where-would-you-start-573o)
-- [Resilience engineering papers](https://github.com/lorin/resilience-engineering#readme)
+- [Resilience engineering papers](https://github.com/lorin/resilience-engineering)
 - [How Monzo security team handle secrets (2019)](https://monzo.com/blog/2019/10/11/how-our-security-team-handle-secrets)
 - [HoneyTrap](https://github.com/honeytrap/honeytrap) - Extensible and opensource system for running, monitoring and managing honeypots.
 - [Flan Scan](https://github.com/cloudflare/flan) - Lightweight network vulnerability scanner.
@@ -30,7 +30,7 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - Finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
 - [camo](https://github.com/atmos/camo) - HTTP proxy to route images through SSL. Making insecure assets look secure.
 - [Vault](https://github.com/hashicorp/vault) - Tool for secrets management, encryption as a service, and privileged access management.
-- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking#readme)
+- [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [OSS-Fuzz](https://github.com/google/oss-fuzz) - Continuous Fuzzing for Open Source Software.
 - [Wifiphisher](https://wifiphisher.org/) - Rogue Access Point framework for conducting red team engagements or Wi-Fi security testing. ([Code](https://github.com/wifiphisher/wifiphisher))
 - [crunchy](https://github.com/muesli/crunchy) - Finds common flaws in passwords. Like cracklib, but written in Go.
@@ -38,7 +38,7 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Dispatch](https://github.com/Netflix/dispatch) - All of the ad-hoc things you're doing to manage incidents today, done for you, and much more.
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers.
 - [disclose.io](https://disclose.io/) - Cross-industry, vendor-agnostic standardization project for safe harbor† best practices to enable good-faith security research. ([Code](https://github.com/disclose/disclose))
-- [Awesome Zero trust](https://github.com/pomerium/awesome-zero-trust#readme) - Curated collection of awesome resources for the zero-trust security model.
+- [Awesome Zero trust](https://github.com/pomerium/awesome-zero-trust) - Curated collection of awesome resources for the zero-trust security model.
 - [CS 253 Web Security (2019)](https://web.stanford.edu/class/cs253/) ([Videos](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-))
 - [vaulted](https://github.com/miquella/vaulted) - Spawning and storage of secure environments.
 - [Destructive Farm](https://github.com/DestructiveVoice/DestructiveFarm) - Exploit farm for attack-defense CTF competitions.
@@ -51,7 +51,7 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Smashing The Stack For Fun And Profit](http://www-inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf)
 - [CS 161: Computer Security (2020)](http://www-inst.eecs.berkeley.edu/~cs161/sp20/)
 - [hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility.
-- [Awesome Object Capabilities and Capability-based Security](https://github.com/dckc/awesome-ocap#readme)
+- [Awesome Object Capabilities and Capability-based Security](https://github.com/dckc/awesome-ocap)
 - [Brim](https://github.com/brimsec/brim) - Open source desktop application for security and network specialists.
 - [testssl.sh](https://github.com/drwetter/testssl.sh) - Command line tool which checks a server's service on any port for the support of TLS/SSL ciphers, protocols as well as some cryptographic flaws.
 - [AFL++](https://github.com/AFLplusplus/AFLplusplus) - Fuzzing framework.
@@ -62,18 +62,18 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [Ask HN: Any good FOSS alternative to Google's reCAPTCHA? (2020)](https://news.ycombinator.com/item?id=23089599)
 - [SnapPass](https://github.com/pinterest/snappass) - Share passwords securely.
 - [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - Seamless ssh-agent for YubiKeys. ([HN](https://news.ycombinator.com/item?id=23130053))
-- [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters#readme)
-- [Web Security Basics](https://github.com/vasanthk/web-security-basics#readme)
+- [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+- [Web Security Basics](https://github.com/vasanthk/web-security-basics)
 - [A Guide to Threat Modelling for Developers (2020)](https://martinfowler.com/articles/agile-threat-modelling.html)
 - [The SSO Wall of Shame](https://sso.tax/) - List of vendors that treat single sign-on as a luxury feature, not a core security requirement.
 - [Black Hat Go book](https://nostarch.com/blackhatgo) ([Code](https://github.com/blackhat-go/bhg))
 - [How to Become a Hacker (2020)](https://zalberico.com/essay/2020/04/19/how-to-become-a-hacker.html) ([HN](https://news.ycombinator.com/item?id=23377186)) ([Lobsters](https://lobste.rs/s/lsrbch/how_become_hacker))
 - [Web Security 101: Cross-Site Scripting (XSS) Attacks](https://victorzhou.com/blog/xss/)
 - [Ask HN: How does your company manage its encryption keys? (2020)](https://news.ycombinator.com/item?id=23390966)
-- [Password Manager Resources](https://github.com/apple/password-manager-resources#readme) - Place for creators of password managers to collaborate on resources to make password management better for everyone.
+- [Password Manager Resources](https://github.com/apple/password-manager-resources) - Place for creators of password managers to collaborate on resources to make password management better for everyone.
 - [A Well-Known URL for Changing Passwords](https://wicg.github.io/change-password-url/) ([Code](https://github.com/WICG/change-password-url))
-- [Learn Security Engineering](https://github.com/veeral-patel/learn-security-engineering#readme)
-- [Zebra Crossing: an easy-to-use digital safety checklist](https://github.com/narwhalacademy/zebra-crossing#readme)
+- [Learn Security Engineering](https://github.com/veeral-patel/learn-security-engineering)
+- [Zebra Crossing: an easy-to-use digital safety checklist](https://github.com/narwhalacademy/zebra-crossing)
 - [Best practices for managing & storing secrets like API keys and other credentials (2020)](https://blog.gitguardian.com/secrets-api-management/) ([Reddit](https://www.reddit.com/r/programming/comments/h7kmff/best_practices_for_managing_storing_secrets_like/)) ([HN](https://news.ycombinator.com/item?id=23500462))
 - [gopass](https://github.com/gopasspw/gopass) - Password manager for the command line written in Go.
 - [Rosetta](https://github.com/polydawn/rosetta) - Simple, scriptable file encryption tool.

@@ -4,7 +4,7 @@ I love watching interesting talks on various subjects. I also love making talks 
 
 I once made TEDx talk on mindfulness. I only have a transcript of it [here](http://telegra.ph/TED-Talk---Mindfulness-March-2016-03-28). I hope to give more talks of my own soon.
 
-I mark talks that I found interesting [here](https://github.com/learn-anything/talks#readme).
+I mark talks that I found interesting [here](https://github.com/learn-anything/talks).
 
 ## Favorite
 
@@ -32,11 +32,11 @@ I mark talks that I found interesting [here](https://github.com/learn-anything/t
 
 - [How to prepare a talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
 - [Ask HN: What is your favorite tech talk? (2018)](https://news.ycombinator.com/item?id=16838460)
-- [Awesome conference practices](https://github.com/kitze/awesome-conference-practices#readme)
-- [Awesome speaking](https://github.com/matteofigus/awesome-speaking#readme)
+- [Awesome conference practices](https://github.com/kitze/awesome-conference-practices)
+- [Awesome speaking](https://github.com/matteofigus/awesome-speaking)
 - [Your IDE as a presentation tool](https://staltz.com/your-ide-as-a-presentation-tool.html)
 - [Really like this way of using a textual overview to present the talk](https://www.youtube.com/watch?v=thpzXjmYyGk)
-- [List of talks that are worth watching](https://github.com/PharkMillups/killer-talks#readme)
+- [List of talks that are worth watching](https://github.com/PharkMillups/killer-talks)
 - [Tech talks that'll change how you think (2019)](https://monicalent.com/blog/2019/01/01/favorite-programming-talks/)
 - [Preparing for a Tech Talk, Part 1: Motivation (2018)](https://overreacted.io/preparing-for-tech-talk-part-1-motivation/)
 - [Preparing for a Tech Talk, Part 2: What, Why, and How (2019)](https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/)

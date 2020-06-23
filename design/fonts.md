@@ -56,7 +56,7 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Variable Fonts Primer](https://variablefonts.io/)
 - [sfsymbols](https://github.com/davedelong/sfsymbols) - Export the shapes in the SF Symbols font.
 - [Fonts In Use](https://fontsinuse.com/) - Independent archive of typography.
-- [Awesome Typography](https://github.com/Jolg42/awesome-typography#readme)
+- [Awesome Typography](https://github.com/Jolg42/awesome-typography)
 - [Type Specimens](https://typespecimens.io/)
 - [Type Studies](https://typestudies.com/)
 - [Practical Typography](https://practicaltypography.com/)

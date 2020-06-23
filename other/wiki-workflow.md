@@ -24,7 +24,7 @@ When reading books, I annotate over the PDF with [PDF Expert](https://pdfexpert.
 
 ## Using this wiki
 
-Now that I can edit this wiki and extend it at the speed of a thought. I can open any of the wiki entries in seconds by searching for the file I need with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme).
+Now that I can edit this wiki and extend it at the speed of a thought. I can open any of the wiki entries in seconds by searching for the file I need with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 
 ![](https://i.imgur.com/RXRAG5c.png)
 
@@ -40,7 +40,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Yoshua Wuyts](https://yoshuawuyts.gitbooks.io/knowledge/content/)
 - [Oleg Kiselyov](http://okmij.org/ftp/) - Lots of stuff on FP.
 - [Richard Litt](https://github.com/RichardLitt/knowledge)
-- [Darshan Chaudhary](https://github.com/darshanime/notes#readme)
+- [Darshan Chaudhary](https://github.com/darshanime/notes)
 - [Josh Avanier](https://joshavanier.github.io/wiki/notes.html)
 - [Brennan Letkeman](https://ltkmn.gitbook.io/brendex/)
 - [Andy Sparks](https://github.com/AndySparks/captains-log)
@@ -51,7 +51,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Jethro Kuan](https://braindump.jethro.dev/zettels/) ([Code](https://github.com/jethrokuan/braindump))
 - [C2](http://wiki.c2.com/)
 - [Allen](https://allenleein.github.io/1930/01/01/knowledge-base.html) ([Code](https://github.com/allenleein/knowledge-base))
-- [Full-stack web development notes](https://github.com/8483/notes#readme)
+- [Full-stack web development notes](https://github.com/8483/notes)
 - [Max Masnick](https://maxmasnick.com/kb/)
 - [Leon Bambrick](https://til.secretgeek.net/)
 - [Ben Lynn](http://www-cs-students.stanford.edu/~blynn/)
@@ -82,7 +82,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Sanyam Kapoor](https://www.sanyamkapoor.com/kb)
 - [Alopex Networks wiki](https://wiki.alopex.li/_categories)
 - [Michael Mellinger math notes](https://github.com/melling/MathAndScienceNotes)
-- [Bookmarks, tweets, cheatsheets, one-liners](https://github.com/ccampean/almanacs#readme)
+- [Bookmarks, tweets, cheatsheets, one-liners](https://github.com/ccampean/almanacs)
 - [Bayle Shanks](http://www.bayleshanks.com/)
 - [Noah Trenaman](https://blog.noahtren.com/note/3acea2e1/)
 - [Alex's Zettelkasten](https://notes.alexkehayias.com/)
@@ -96,9 +96,9 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Mike's Mind](https://mind.miketannenbaum.com/) ([Code](https://github.com/MikeTannenbaum/my-public-mind))
 - [David Seah](https://davidseah.gitbook.io/davidseah/) ([Code](https://github.com/davidseah/knowledgebank))
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
-- [Meta knowledge](https://github.com/RichardLitt/knowledge#readme) - More wikis.
+- [Meta knowledge](https://github.com/RichardLitt/knowledge) - More wikis.
 - [Webring](https://webring.xxiivv.com/) - Attempt to inspire artists & developers to build their own website and share traffic among each other.
-- [Curated list of awesome Public Zettelkastens](https://github.com/KasperZutterman/Second-Brain#readme)
+- [Curated list of awesome Public Zettelkastens](https://github.com/KasperZutterman/Second-Brain)
 
 ## Wiki software
 
@@ -170,7 +170,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Stop Taking Regular Notes; Use a Zettelkasten Instead (2020)](https://eugeneyan.com/2020/04/05/note-taking-zettelkasten/) ([HN](https://news.ycombinator.com/item?id=23386630))
 - [Personal Wiki for Vim](https://github.com/vimwiki/vimwiki) ([HN](https://news.ycombinator.com/item?id=23402014))
 - [Zettelkasten note-taking in 10 minutes (2020)](https://blog.viktomas.com/posts/slip-box/) ([HN](https://news.ycombinator.com/item?id=23445742))
-- [Networked Notebooks Catalogue](https://github.com/prathyvsh/networked-notebooks#readme) - Collection of networked notebooks that is slowly taking shape on the Internet.
+- [Networked Notebooks Catalogue](https://github.com/prathyvsh/networked-notebooks) - Collection of networked notebooks that is slowly taking shape on the Internet.
 - [Building a Second Brain: The Illustrated Notes (2020)](https://maggieappleton.com/basb) ([HN](https://news.ycombinator.com/item?id=23514371))
 - [Collected Notes](https://collectednotes.com/) - Simplest, and most powerful note-taking blogging platform. ([Code](https://news.ycombinator.com/item?id=23514682))
 - [Kumu](https://kumu.io/) - Makes it easy to organize complex data into relationship maps that are beautiful to look at and a pleasure to use.

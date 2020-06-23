@@ -27,8 +27,8 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [A Pro’s Guide to the Best Secret Mac Features](https://matthewpalmer.net/blog/2018/04/14/ultimate-pro-guide-best-secret-mac-features/index.html)
 - [macOS open source](https://opensource.apple.com/)
 - [Create bootable USB macOS installer](https://macdaddy.io/create-bootable-usb-macos-installer/)
-- [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide#readme)
-- [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins#readme)
+- [macOS Security and Privacy Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
+- [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
 - [cron is dead, long live launchd! (2017)](http://blog.jan-ahrens.eu/2017/01/13/cron-is-dead-long-live-launchd.html)
 - [Control Mac Keyboard Brightness](https://github.com/pirate/mac-keyboard-brightness) - Programmatically flash the keyboard lights and control display brightness on Macs.
 - [maclaunchmaclaunch](https://github.com/HazCod/maclaunch) - Manage your macOS startup items.
@@ -38,7 +38,7 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - Screensaver inspired by Apple's Event on October 30, 2018.
 - [How macOS versions evolved and changed over the time](https://www.reddit.com/r/MacOS/comments/bc1lvk/how_macos_versions_evolved_and_changed_over_the/)
 - [PureDarwin](https://github.com/PureDarwin/PureDarwin) - Community project to make Darwin more usable.
-- [Curated list of shell commands and tools specific to macOS](https://github.com/herrbischoff/awesome-macos-command-line#readme)
+- [Curated list of shell commands and tools specific to macOS](https://github.com/herrbischoff/awesome-macos-command-line)
 - [The new Mac Pro is a design remix (2019)](https://www.arun.is/blog/mac-pro/)
 - [BlockBlock](https://www.objective-see.com/products/blockblock.html) - Continually monitors common persistence locations and displays an alert whenever a persistent component is added to the OS.
 - [Impact](https://github.com/ChimeHQ/Impact) - Crash detection and recording library for Apple platforms.
@@ -57,8 +57,8 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [apply-user-defaults](https://github.com/zero-sh/apply-user-defaults) - Small utility to set macOS user defaults declaratively from a YAML file.
 - [Zero.sh](https://github.com/zero-sh/zero.sh) - Radically simple personal bootstrapping tool for macOS.
 - [DefaultApp](https://tyler.io/default-app-for-mac-ios/) - Template for starting macOS projects. ([Code](https://github.com/tylerhall/DefaultApp)) ([HN](https://news.ycombinator.com/item?id=22582456))
-- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS#readme)
-- [macOS and iOS Security Related Tools](https://github.com/ashishb/osx-and-ios-security-awesome#readme)
+- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
+- [macOS and iOS Security Related Tools](https://github.com/ashishb/osx-and-ios-security-awesome)
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - Modern MacOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 - [xcnotary](https://github.com/akeru-inc/xcnotary) - Missing macOS app notarization helper, built with Rust. ([HN](https://news.ycombinator.com/item?id=22743659))
 - [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS.

@@ -30,14 +30,14 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [0x API](https://github.com/0xProject/0x-api) - HTTP Interface to 0x liquidity and tooling.
 - [Rainbow](https://github.com/rainbow-me/rainbow) - Pocket robot for your internet money, powered by Ethereum.
 - [Ethereum peer-to-peer networking specifications](https://github.com/ethereum/devp2p)
-- [ETH 2.0 educational resources](https://github.com/protolambda/eth2-docs#readme)
+- [ETH 2.0 educational resources](https://github.com/protolambda/eth2-docs)
 - [Tools for dapps](https://dapp.tools/) - Command-line-friendly tools for blockchain development. ([Code](https://github.com/dapphub/dapptools))
 - [Common utilities for Ethereum](https://github.com/status-im/nim-eth)
 - [Web3Modal](https://github.com/web3modal/web3modal) - Single Web3 / Ethereum provider solution for all Wallets.
 - [Lighthouse](https://github.com/sigp/lighthouse) - Rust Ethereum 2.0 Client.
 - [Utilities for handling Ethereum keys](https://github.com/ethereumjs/ethereumjs-wallet)
-- [Awesome Solidity](https://github.com/bkrem/awesome-solidity#readme)
-- [Awesome Solidity 2](https://github.com/BlockchainLabsNZ/awesome-solidity#readme)
+- [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
+- [Awesome Solidity 2](https://github.com/BlockchainLabsNZ/awesome-solidity)
 - [Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money (2020)](https://overcast.fm/+OcVeupJwk)
 - [ChainSafe](https://chainsafe.io/) - Designs and develops scalable solutions for the decentralized web. ([Code](https://github.com/ChainSafe))
 - [Smart Contract Weakness Classification Registry](https://github.com/SmartContractSecurity/SWC-registry)

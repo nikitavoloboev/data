@@ -12,7 +12,7 @@
 - [Beautiful Racket](https://beautifulracket.com/) - Intro­duc­tion to language-oriented program­ming using racket. ([Code](https://github.com/mbutterick/beautiful-racket))
 - [Hackett](https://github.com/lexi-lambda/hackett) - Attempt to implement a Haskell-like language with support for Racket’s macro system, built using the techniques described in the paper Type Systems as Macros.
 - [Learning Racket #1: Introduction](https://artyom.me/learning-racket-1)
-- [Awesome Racket](https://github.com/avelino/awesome-racket#readme)
+- [Awesome Racket](https://github.com/avelino/awesome-racket)
 - [I built this website using Racket. Here's what i can do now.](https://sagegerard.com/racket-powered.html)
 - [Native Applications with Racket (2020)](https://defn.io/2020/01/04/remember-internals/) ([Lobsters](https://lobste.rs/s/s4okil/native_applications_with_racket))
 - [Running Racket on iOS (2020)](https://defn.io/2020/01/05/racket-on-ios/)

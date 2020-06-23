@@ -13,7 +13,7 @@
 - [Swarm.js](https://github.com/gritzko/swarm) - JavaScript replicated model (M of MVC) library.
 - [To OT or CRDT, that is the question (2020)](https://www.tiny.cloud/blog/real-time-collaboration-ot-vs-crdt/) ([HN](https://news.ycombinator.com/item?id=22039950))
 - [CRDTs wiki](https://crdt.tech/) ([Code](https://github.com/ept/crdt-website))
-- [Awesome CRDT](https://github.com/alangibson/awesome-crdt#readme)
+- [Awesome CRDT](https://github.com/alangibson/awesome-crdt)
 - [Local-first packages & explorations](https://github.com/jaredly/local-first)
 - [Automerge in JS](https://github.com/automerge/automerge) - JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [Automerge in Rust](https://github.com/alexjg/automerge-rs)

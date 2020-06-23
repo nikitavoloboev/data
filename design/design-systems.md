@@ -41,19 +41,19 @@
 ## Links
 
 - [Playroom](https://github.com/seek-oss/playroom) - Design with JSX, powered by your own component library.
-- [Awesome React Design Systems](https://github.com/jbranchaud/awesome-react-design-systems#readme) - Curated list of design systems made up of reusable React components.
+- [Awesome React Design Systems](https://github.com/jbranchaud/awesome-react-design-systems) - Curated list of design systems made up of reusable React components.
 - [Framer Session 6 — Framer Bridge](https://www.youtube.com/watch?v=WsKSDyxcK5Q)
 - [Introducing Base Web, Uber’s New Design System for Building Websites in React (2019)](https://eng.uber.com/introducing-base-web/)
 - [Stencil](https://github.com/ionic-team/stencil) - Web Component compiler for building fast, reusable UI components and Progressive Web Apps. ([Web](https://stenciljs.com/))
 - [Theme UI](https://theme-ui.com/) - Build consistent, themeable React UIs based on design system constraints and design tokens.
-- [Awesome component-driven development](https://github.com/component-driven/awesome-list#readme)
+- [Awesome component-driven development](https://github.com/component-driven/awesome-list)
 - [Modulz](https://www.modulz.app/) - Design, develop, document and deploy your design system—without writing code.
 - [Design System Playground](https://design-system-playground.netlify.com/) - Play with typography and colors to generate a design system theme you can use in your projects.
-- [Curated list of design systems](https://github.com/miukimiu/design-systems#readme)
+- [Curated list of design systems](https://github.com/miukimiu/design-systems)
 - [ReactiveConf 2019 - Mark Dalgleish: Rethinking Design Practices](https://www.youtube.com/watch?v=jnV1u67_yVg)
 - [Emma Wedekind: Foundations of Design Systems (2019)](https://www.youtube.com/watch?v=pXb2jA43A6k)
 - [Design Systems Slack](https://design.systems/slack/)
-- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems#readme)
+- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
 - [Zeroheight](https://zeroheight.com) - Create beautiful living styleguides and document all your design system resources in one place.
 - [Laying the Foundations](https://designsystemfoundations.com/) - Book about design systems.
 - [Designing with React - Mark Dalgleish (2019)](https://www.youtube.com/watch?v=orPcyJMJh7Y)

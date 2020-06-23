@@ -6,7 +6,7 @@ Number between brackets shows year I created the repo in.
 
 - [Learn Anything (2017)](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths.
 - [Alfred Learn Anything (2017)](https://github.com/nikitavoloboev/alfred-learn-anything) - Alfred workflow to search Learn Anything.
-- [Curated lists (2017)](https://github.com/learn-anything/curated-lists#readme) - Curated lists on various topics.
+- [Curated lists (2017)](https://github.com/learn-anything/curated-lists) - Curated lists on various topics.
 
 ## Alfred
 
@@ -39,6 +39,6 @@ Number between brackets shows year I created the repo in.
 
 ## Curated
 
-- [Find work (2018)](https://github.com/nikitavoloboev/find-work#readme) - Curated list of websites and resources to find work programming.
-- [Privacy Respecting (2017)](https://github.com/nikitavoloboev/privacy-respecting#readme) - Curated List of Privacy Respecting Services and Software.
-- [GitHub Stars (2019)](https://github.com/nikitavoloboev/github-stars#readme) - Curated list of my GitHub stars.
+- [Find work (2018)](https://github.com/nikitavoloboev/find-work) - Curated list of websites and resources to find work programming.
+- [Privacy Respecting (2017)](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software.
+- [GitHub Stars (2019)](https://github.com/nikitavoloboev/github-stars) - Curated list of my GitHub stars.

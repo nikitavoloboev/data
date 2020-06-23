@@ -56,7 +56,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [mirageOS](https://mirage.io/) - A programming framework for building type-safe, modular systems.
 - [OS Dev](https://wiki.osdev.org/Main_Page) ([Tutorials](https://wiki.osdev.org/Tutorials))
 - [Raspberry Pi OS](https://github.com/s-matyukevich/raspberry-pi-os) - Learning operating system development using Linux kernel and Raspberry Pi.
-- [Create OS from scratch](https://github.com/cfenollosa/os-tutorial#readme)
+- [Create OS from scratch](https://github.com/cfenollosa/os-tutorial)
 - [How to Make a Computer Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) ([Code](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System))
 - [Plan 9 from User Space](https://github.com/9fans/plan9port) - Port of many Plan 9 libraries and programs to Unix.
 - [Jehanne](https://github.com/JehanneOS/jehanne) - Simple operating system.
@@ -79,7 +79,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com/index.html) ([HN](https://news.ycombinator.com/item?id=21446079))
 - [Mu: Sketching out a minimal system programming language (2019)](http://akkartik.name/post/mu-2019-2) ([Lobsters](https://lobste.rs/s/e39f2x/mu_sketching_out_minimal_system))
 - [ioping](https://github.com/koct9i/ioping) - Simple disk I/0 latency measuring tool.
-- [Awesome eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - BPF, as in Berkeley Packet Filter, is an in-kernel virtual machine running programs passed from user space.
+- [Awesome eBPF](https://github.com/zoidbergwill/awesome-ebpf) - BPF, as in Berkeley Packet Filter, is an in-kernel virtual machine running programs passed from user space.
 - [What are required knowledge in order to build an OS? (2020)](https://www.reddit.com/r/osdev/comments/egzwa0/what_are_required_knowledge_in_order_to_build_an/)
 - [Krabs](https://github.com/ellbrid/krabs) - x86 bootloader written in Rust.
 - [oreboot](https://github.com/oreboot/oreboot) - Fork of coreboot, with C removed, written in Rust.
@@ -97,7 +97,7 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [Green Threads Explained in Rust](https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/) ([Code](https://github.com/cfsamson/example-greenthreads)) ([Reddit](https://www.reddit.com/r/rust/comments/bzp0cz/green_threads_explained_in_200_lines_of_rust/))
 - [Solo5](https://github.com/Solo5/solo5) - Sandboxed execution environment for unikernels.
 - [Mbox](https://pdos.csail.mit.edu/archive/mbox/) - Lightweight sandboxing mechanism that any user can use without special privileges in commodity operating systems. ([Code](https://github.com/tsgates/mbox))
-- [Awesome Plan9](https://github.com/henesy/awesome-plan9#readme)
+- [Awesome Plan9](https://github.com/henesy/awesome-plan9)
 - [Albatross](https://github.com/hannesm/albatross) - Orchestrate and manage MirageOS unikernels with Solo5.
 - [Labs for RustOS](https://tc.gts3.org/cs3210/2020/spring/lab.html)
 - [Little book about OS development](https://littleosbook.github.io/) ([Code](https://github.com/cstack/osdev))

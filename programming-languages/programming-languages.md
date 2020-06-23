@@ -4,13 +4,13 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 
 ## Links
 
-- [Awesome programming languages](https://github.com/learn-anything/programming-languages#readme)
+- [Awesome programming languages](https://github.com/learn-anything/programming-languages)
 - [Tour de Babel](https://sites.google.com/site/steveyegge2/tour-de-babel) - Funny de tour of programming languages.
 - [Programming Language Theory](https://steshaw.org/plt/)
 - [Conal Elliott - Teaching New Tricks to Old Programs (2017)](https://www.youtube.com/watch?v=vzLK_xE9Zy8)
-- [Awesome static analysis](https://github.com/analysis-tools-dev/static-analysis#readme) - Static analysis tools for all programming languages, build tools, config files and more.
-- [Lists of most popular repositories for most favored programming languages](https://github.com/kaxap/arl#readme)
-- [Rockstar](https://github.com/dylanbeattie/rockstar#readme) - Idiomatic Rockstar [FizzBuzz implementation](https://github.com/dylanbeattie/rockstar#examples) is the best thing ever.
+- [Awesome static analysis](https://github.com/analysis-tools-dev/static-analysis) - Static analysis tools for all programming languages, build tools, config files and more.
+- [Lists of most popular repositories for most favored programming languages](https://github.com/kaxap/arl)
+- [Rockstar](https://github.com/dylanbeattie/rockstar) - Idiomatic Rockstar [FizzBuzz implementation](https://github.com/dylanbeattie/rockstar#examples) is the best thing ever.
 - [Twelf](http://twelf.org/wiki/Main_Page) - Language used to specify, implement, and prove properties of deductive systems such as programming languages and logics.
 - [GitHut](https://githut.info/) - Place to discover languages on GitHub.
 - [Type inference (2018)](https://eli.twhegreenplace.net/2018/type-inference/)
@@ -22,7 +22,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Go, Tooling, and New Languages (2016)](http://parellagram.com/posts/tools)
 - [Programming paradigms for dummies: what every programmer should know (2019)](https://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know/)
 - [What, if anything, is a programming paradigm? (2017)](http://www.cs.cmu.edu/~rwh/papers/paradigms/paradigm.pdf)
-- [Programming Languages Zoo](https://github.com/andrejbauer/plzoo#readme) - Collection of implementations of miniature programming languages.
+- [Programming Languages Zoo](https://github.com/andrejbauer/plzoo) - Collection of implementations of miniature programming languages.
 - [Thinking in a Language (2019)](https://maxhallinan.com/posts/2019/02/15/thinking-in-a-language/)
 - [What are some niche features you'd like to see in more languages? (2019)](https://lobste.rs/s/mcwvhn/what_are_some_niche_features_you_d_like_see)
 - [Ask HN: What programming language should I learn next? (2019)](https://news.ycombinator.com/item?id=19504453)
@@ -30,7 +30,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Semantic](https://github.com/github/semantic) - Haskell library and command line tool for parsing, analyzing, and comparing source code.
 - [DSLs for non-programmers are a hoax (2019)](https://artur-martsinkovskyi.github.io//2019/dsls-are-hoax/) ([HN](https://news.ycombinator.com/item?id=20007813))
 - [Comparing the Same Project in Rust, Haskell, C++, Python, Scala and OCaml (2019)](http://thume.ca/2019/04/29/comparing-compilers-in-rust-haskell-c-and-python/) ([HN](https://news.ycombinator.com/item?id=20192645))
-- [Hello, World!](https://github.com/leachim6/hello-world#readme) - Hello world in every computer language.
+- [Hello, World!](https://github.com/leachim6/hello-world) - Hello world in every computer language.
 - [Exercism Language Tracks](https://exercism.io/my/tracks)
 - [TabNine](https://github.com/zxqfl/TabNine/) - All-language ML autocompleter.
 - [Say something you dislike about a language you love (2019)](https://lobste.rs/s/2cw6ov/say_something_you_dislike_about_language)
@@ -54,7 +54,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Practical Foundations for Programming Languages](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
 - [What language do you prefer for new project starts? (2020)](https://lobste.rs/s/ya4ajj/what_language_do_you_prefer_for_new)
 - [Flow-Charts of Programming Language Constructs (2020)](https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/) ([HN](https://news.ycombinator.com/item?id=22326669))
-- [Bestiary of Single-File Implementations of Programming Languages](https://github.com/marcpaq/b1fipl#readme)
+- [Bestiary of Single-File Implementations of Programming Languages](https://github.com/marcpaq/b1fipl)
 - [NEAL](https://github.com/uber/NEAL) - Language-independent code analysis tool that aims to enable more people to write quality enforcement rules.
 - [Most(ly dead) Influential Programming Languages (2020)](https://hillelwayne.com/post/influential-dead-languages/) ([HN](https://news.ycombinator.com/item?id=22690229))
 - [Sam Tobin-Hochstadt's research](http://samth.github.io/)
@@ -73,7 +73,7 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [The Hard Part of Learning a Language (2020)](https://www.hillelwayne.com/post/learning-a-language/) ([Lobsters](https://lobste.rs/s/rcdj1z/hard_part_learning_language)) ([HN](https://news.ycombinator.com/item?id=23347357))
 - [Hoist](https://github.com/theronic/hoist) - Visual programming language inspired by Excel & Datalog.
 - [Esoteric.Codes](https://esoteric.codes/) - Languages, platforms, and systems that break from the norms of computing.
-- [Resources for the working programmer to learn more about the fundamentals and theory of programming languages](https://github.com/jeanqasaur/learn-programming-languages#readme)
+- [Resources for the working programmer to learn more about the fundamentals and theory of programming languages](https://github.com/jeanqasaur/learn-programming-languages)
 - [Call-By-Push-Value](https://www.cs.bham.ac.uk/~pbl/papers/thesisqmwphd.pdf) - New programming language paradigm, based on the slogan “a value is, a computation does".
 - [Semgrep](https://github.com/returntocorp/semgrep) - Tool for easily detecting and preventing bugs and anti-patterns in your codebase.
 - [Algol 60 implementation (1964)](http://www.softwarepreservation.org/projects/ALGOL/book/Randell_ALGOL_60_Implementation_1964.pdf)

@@ -11,7 +11,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 
 ## Nix configs (NixOS)
 
-- [Infrastructure](https://github.com/rvolosatovs/infrastructure#readme) ([How to use it](https://github.com/rvolosatovs/infrastructure/issues/3))
+- [Infrastructure](https://github.com/rvolosatovs/infrastructure) ([How to use it](https://github.com/rvolosatovs/infrastructure/issues/3))
 - [Bob nix-home](https://github.com/bobvanderlinden/nix-home)
 - [Brian McKenna Nix Files](https://github.com/puffnfresh/nix-files) - NixOS configuration and custom Nix derivations.
 - [William A. Kennington III](https://github.com/wkennington/nixos) - NixOS configurations for my local cluster of machines.
@@ -31,7 +31,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 ## Nix configs (macOS)
 
 - [John Wiegley](https://github.com/jwiegley/nix-config)
-- [LnL7](https://github.com/LnL7/dotfiles#readme)
+- [LnL7](https://github.com/LnL7/dotfiles)
 - [cmacrae](https://github.com/cmacrae/.nixpkgs/blob/master/darwin-configuration.nix)
 - [Tom's nix-configs](https://github.com/nocoolnametom/nix-configs)
 - [Phil Pluckthun](https://github.com/kitten/nix-system)
@@ -51,7 +51,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [NixOS Wiki](https://nixos.wiki/wiki/Main_Page)
 - [NixOps](https://github.com/NixOS/nixops) - NixOS-based cloud deployment tool.
 - [NixOS Discourse forum](https://discourse.nixos.org/)
-- [Getting started with NixOS on Raspberry Pi 3 Model B+](https://github.com/zupo/nix#readme)
+- [Getting started with NixOS on Raspberry Pi 3 Model B+](https://github.com/zupo/nix)
 - [Collection of NixOS image builders](https://github.com/nix-community/nixos-generators) - Allows to take the same NixOS configuration, and generate outputs for different target formats.
 - [HN: Guix An advanced operating system (2019)](https://news.ycombinator.com/item?id=18902823)
 - [NixOS on ARM](https://github.com/illegalprime/nixos-on-arm) - WIP to cross compile NixOS to run on ARM targets.

@@ -9,7 +9,7 @@
 
 ## Animation
 
-- [Anim](https://github.com/onurersel/anim#readme) - Swift animation library for iOS, tvOS and macOS.
+- [Anim](https://github.com/onurersel/anim) - Swift animation library for iOS, tvOS and macOS.
 
 ## Networking
 
@@ -105,7 +105,7 @@
 
 ## SwiftUI
 
-- [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) - Library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. ([Awesome](https://github.com/antranapp/awesome-tca#readme))
+- [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) - Library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind. ([Awesome](https://github.com/antranapp/awesome-tca))
 - [QGrid](https://github.com/Q-Mobile/QGrid) - Missing SwiftUI collection view.
 - [PullToRefresh](https://github.com/noppefoxwolf/PullToRefresh) - Can add refresh control and perform action your SwiftUI list.
 - [Swift Sunburst Diagram](https://github.com/lludo/SwiftSunburstDiagram) - Easily render diagrams given a tree of objects.

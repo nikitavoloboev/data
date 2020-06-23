@@ -18,13 +18,13 @@ I try make this step super easy to do too as you can simply [explore all the rep
 
 ## 3. Explore macOS tools and workflows
 
-I made a [repo](https://github.com/nikitavoloboev/my-mac-os) where I cover everything I use on my macOS system in great detail. I share everything I use including [hundreds of Keyboard Maestro macros](../macOS/apps/keyboard-maestro/km-macros.md) and the various [amazing Alfred workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can simply explore and see what you find interesting.
+I made a [repo](https://github.com/nikitavoloboev/my-mac-os) where I cover everything I use on my macOS system in great detail. I share everything I use including [hundreds of Keyboard Maestro macros](../macOS/apps/keyboard-maestro/km-macros.md) and the various [amazing Alfred workflows](https://github.com/learn-anything/alfred-workflows) that you can simply explore and see what you find interesting.
 
 ## 4. Read or search through this wiki
 
-Aside from my blog, I heavily share nearly everything I know about this world in this wiki here so you can explore and see what you like. If you did get the [Powerpack for Alfred](https://www.alfredapp.com/powerpack/), you can even install [my own workflow](https://github.com/nikitavoloboev/alfred-my-mind#readme) and easily search through entirety of both this wiki and everything I made or did. The big idea behind this workflow and my other creations is to do things in a way that anyone else can use these same things I am using.
+Aside from my blog, I heavily share nearly everything I know about this world in this wiki here so you can explore and see what you like. If you did get the [Powerpack for Alfred](https://www.alfredapp.com/powerpack/), you can even install [my own workflow](https://github.com/nikitavoloboev/alfred-my-mind) and easily search through entirety of both this wiki and everything I made or did. The big idea behind this workflow and my other creations is to do things in a way that anyone else can use these same things I am using.
 
-## [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme)
+## [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
 
 I also wrote an Alfred workflow that as the name suggests, acts as my second brain that I use to quickly access anything I have [indexed for myself](../knowledge/knowledge.md). I share it because I wish other people took this idea and made their own _Alfred My Mind_ or a _Knowledge wiki_ but for their own use. Sharing knowledge and tools like that is very powerful and makes a big difference. As I use and reuse other people's work and knowledge many times a day. It never hurts to add to the mix.
 

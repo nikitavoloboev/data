@@ -10,8 +10,8 @@
 - [Beautiful.ai](https://www.beautiful.ai/) - Create beautiful presentations in minutes.
 - [Speaker Deck](https://speakerdeck.com/) - Share Presentations.
 - [Big](https://github.com/tmcw/big) - Presentations for busy messy hackers.
-- [mdx-deck](https://github.com/jxnblk/mdx-deck#readme) - [MDX](https://github.com/mdx-js/mdx#readme)-based presentation decks.
-- [spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide#readme) - Present code with style.
+- [mdx-deck](https://github.com/jxnblk/mdx-deck) - [MDX](https://github.com/mdx-js/mdx)-based presentation decks.
+- [spectacle-code-slide](https://github.com/jamiebuilds/spectacle-code-slide) - Present code with style.
 - [reveal.js](https://github.com/hakimel/reveal.js/) - HTML Presentation Framework. ([Talks](http://stabbycutyou.github.io/))
 - [Fusuma](https://github.com/hiroppy/fusuma) - Make slides with Markdown easily.
 - [Spectacle](https://github.com/FormidableLabs/spectacle) - ReactJS based Presentation Library.

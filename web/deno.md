@@ -12,7 +12,7 @@
 - [Deno is a New Way to JavaScript - Ryan Dahl & Kitson Kelly (2019)](https://www.youtube.com/watch?v=1gIiZfSbEAE)
 - [now-deno](https://github.com/lucacasonato/now-deno) - ZEIT Now Deno builder - run Deno on Zeit.
 - [Deno WebView](https://github.com/eliassjogreen/deno_webview) - Deno bindings for webview, a tiny library for creating web-based desktop GUIs.
-- [Awesome Deno](https://github.com/denolib/awesome-deno#readme)
+- [Awesome Deno](https://github.com/denolib/awesome-deno)
 - [Deno in 100 Seconds](https://www.youtube.com/watch?v=F0G9lZ7gecE)
 - [Deno doing a SSR with React and zero other deps](https://github.com/brianleroux/arc-example-deno-ssr) ([Demo](https://run-ddl-staging.begin.app)) ([Twitter](https://twitter.com/brianleroux/status/1258604368464498688))
 - [servest](https://github.com/keroxp/servest) - Progressive http server for Deno.

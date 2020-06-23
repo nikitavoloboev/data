@@ -4,25 +4,25 @@ I use [many CLI tools](https://github.com/nikitavoloboev/my-mac-os#command-line-
 
 ## Links
 
-- [Awesome command line tools](https://github.com/learn-anything/command-line-tools#readme)
+- [Awesome command line tools](https://github.com/learn-anything/command-line-tools)
 - [Ask HN: What are your favorite terminal programs?](https://news.ycombinator.com/item?id=17011227)
 - [What's an awesome Linux/Unix command that you wish someone had told you about earlier?](https://twitter.com/b0rk/status/993165679833567233)
-- [Awesome Console Services](https://github.com/chubin/awesome-console-services#readme)
+- [Awesome Console Services](https://github.com/chubin/awesome-console-services)
 - [tldr](https://github.com/tldr-pages/tldr) - Collection of simplified and community-driven man pages.
-- [Awesome jq](https://github.com/fiatjaf/awesome-jq#readme) - Curated list of awesome things built with the JSON processor and turing-complete functional language jq.
+- [Awesome jq](https://github.com/fiatjaf/awesome-jq) - Curated list of awesome things built with the JSON processor and turing-complete functional language jq.
 - [cli.fan blog](https://cli.fan/posts/introduction/) - [Introduction](https://cli.fan/posts/introduction/).
 - [One Things Well blog](https://onethingwell.org/) - Weblog about simple, useful software.
 - [Terminals Are Sexy](https://terminalsare.sexy/) - Curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [Inconsolation](https://inconsolation.wordpress.com/) - Adventures with lightweight and minimalist software for Linux.
 - [Arabesque](https://sanctum.geek.nz/arabesque/) - Systems, Tools, and Terminal Science.
-- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line#readme)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [cheat](https://github.com/cheat/cheat) - Allows you to create and view interactive cheatsheets on the command-line.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - Command-line benchmarking tool.
 - [An Illustrated Guide to Useful Command Line Tools (2019)](https://www.wezm.net/technical/2019/10/useful-command-line-tools/) ([Lobsters](https://lobste.rs/s/pven1z/illustrated_guide_some_useful_command)) ([HN](https://news.ycombinator.com/item?id=21363121))
 - [uutils coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils.
 - [The Language Agnostic, All-Purpose, Incredible, Makefile (2019)](https://blog.mindlessness.life/makefile/2019/11/17/the-language-agnostic-all-purpose-incredible-makefile.html) ([Lobsters](https://lobste.rs/s/ots6gm/language_agnostic_all_purpose)) ([HN](https://news.ycombinator.com/item?id=21566530))
 - [CLI: improved (2018)](https://remysharp.com/2018/08/23/cli-improved)
-- [Awesome CLI apps](https://github.com/agarrharr/awesome-cli-apps#readme)
+- [Awesome CLI apps](https://github.com/agarrharr/awesome-cli-apps)
 - [Fast Searching with ripgrep (2020)](https://mariusschulz.com/blog/fast-searching-with-ripgrep)
 - [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html) ([HN](https://news.ycombinator.com/item?id=23048054))
 - [Grep for System Admins: Using Grep to Automate Daily Tasks (2020)](https://developer.okta.com/blog/2020/05/06/grep-for-system-admins)

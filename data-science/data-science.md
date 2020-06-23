@@ -14,22 +14,22 @@
 - [The Rise of the Data Engineer](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603)
 - [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/) - Logical, reasonably standardized, but flexible project structure for doing and sharing data science work. ([Code](https://github.com/drivendata/cookiecutter-data-science))
 - [Best way to organize research code? (2018)](https://www.reddit.com/r/MachineLearning/comments/8v1g6c/d_best_way_to_organise_research_code/)
-- [Data Science Cheat Sheet](https://github.com/ml874/Data-Science-Cheatsheet#readme)
+- [Data Science Cheat Sheet](https://github.com/ml874/Data-Science-Cheatsheet)
 - [Our world in data](https://ourworldindata.org/science-and-research)
-- [Free data science books](https://github.com/chaconnewu/free-data-science-books#readme)
+- [Free data science books](https://github.com/chaconnewu/free-data-science-books)
 - [Pachyderm](https://github.com/pachyderm/pachyderm) - Reproducible Data Science at Scale.
-- [Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets#readme)
+- [Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets)
 - [Data Science in Visual Studio Code using Neuron, a new VS Code extension (2018)](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/10/29/data-science-in-visual-studio-code-using-neuron-a-new-vs-code-extension/)
-- [Virgilio](https://github.com/clone95/Virgilio#readme) - Mentor for Data Science E-Learning.
-- [Awesome Data Science with Python](https://github.com/r0f1/datascience#readme) - Curated list of Python resources for data science.
+- [Virgilio](https://github.com/clone95/Virgilio) - Mentor for Data Science E-Learning.
+- [Awesome Data Science with Python](https://github.com/r0f1/datascience) - Curated list of Python resources for data science.
 - [Data Science (Cheat Sheets)](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 - [nteract](https://github.com/nteract/nteract) - Interactive computing suite for you.
 - [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
-- [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo#readme)
+- [How To Become a Data Engineer](https://github.com/adilkhash/Data-Engineering-HowTo)
 - [Ingestion Data Mapping Language](http://idml.io/)
 - [The reference implementation of IDML for the JVM](https://github.com/IDML/idml)
 - [Pandas](https://github.com/pandas-dev/pandas) - Powerful Python data analysis toolkit.
-- [Programming Language Support for Data-intensive Applications meeting (2019)](https://github.com/avsm/shonan-143#readme)
+- [Programming Language Support for Data-intensive Applications meeting (2019)](https://github.com/avsm/shonan-143)
 - [Datasette](https://github.com/simonw/datasette) - Tool for exploring and publishing data.
 - [Weld](https://github.com/weld-project/weld) - High-performance runtime for data analytics applications.
 - [Vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second.
@@ -37,7 +37,7 @@
 - [Maarten Breddels & Jovan Veljanoski- A new approach to DataFrames and pipelines - PyData London 2019](https://www.youtube.com/watch?v=2Tt0i823-ec) ([GitHub](https://github.com/vaexio/vaex-talks/tree/master/2019-pydata-london))
 - [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 - [Data science without borders - Wes McKinney (2017)](https://www.youtube.com/watch?v=wdmf1msbtVs)
-- [Curated list of awesome ETL frameworks, libraries, and software](https://github.com/pawl/awesome-etl#readme)
+- [Curated list of awesome ETL frameworks, libraries, and software](https://github.com/pawl/awesome-etl)
 - [Ibis](https://github.com/ibis-project/ibis) - Python data analysis framework for Hadoop and SQL engines.
 - [Kyso](https://kyso.io/) - Data analytics knowledge hub.
 - [Feather](https://github.com/wesm/feather) - Fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow.
@@ -60,8 +60,8 @@
 - [Amazon Data Science Interview (2018)](https://medium.com/acing-ai/amazon-ai-interview-questions-acing-the-ai-interview-3ed4e671920f)
 - [Data Analysis and Prediction Algorithms with R (2019)](https://rafalab.github.io/dsbook/)
 - [Elegant SciPy book](https://github.com/elegant-scipy/elegant-scipy)
-- [Data science blogs](https://github.com/rushter/data-science-blogs#readme)
-- [Awesome Data Science](https://github.com/academic/awesome-datascience#readme)
+- [Data science blogs](https://github.com/rushter/data-science-blogs)
+- [Awesome Data Science](https://github.com/academic/awesome-datascience)
 - [Things About Real-World Data Science Not Discussed In MOOCs and Thought Pieces (2018)](https://minimaxir.com/2018/10/data-science-protips/)
 - [Apache Zeppelin](https://zeppelin.apache.org/) - Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
 - [Apache Nifi](https://nifi.apache.org/) - Easy to use, powerful, and reliable system to process and distribute data.
@@ -80,10 +80,10 @@
 - [Falcon](https://github.com/uwdata/falcon) - Interactive Visual Analysis for Big Data.
 - [Materialize](https://github.com/MaterializeInc/materialize) - Streaming Data Warehouse. ([Web](https://materialize.io/))
 - [160+ Data Science Interview Questions](https://hackernoon.com/160-data-science-interview-questions-415s3y2a)
-- [Data Science Interview Questions](https://github.com/alexeygrigorev/data-science-interviews#readme)
+- [Data Science Interview Questions](https://github.com/alexeygrigorev/data-science-interviews)
 - [Google Cloud DataLab](https://github.com/googledatalab/datalab) - Interactive tools and developer experiences for Big Data on Google Cloud Platform.
 - [Great Expectations](https://github.com/great-expectations/great_expectations) - Leading tool for validating, documenting, and profiling, your data to maintain quality and improve communication between teams. ([Code](https://github.com/great-expectations/great_expectations))
-- [Path to a free self-taught education in Data Science](https://github.com/ossu/data-science#readme)
+- [Path to a free self-taught education in Data Science](https://github.com/ossu/data-science)
 - [Common Workflow Language](https://www.commonwl.org/) - Open standard for describing analysis workflows and tools. ([HN](https://news.ycombinator.com/item?id=21538003))
 - [Apache Kudu](https://github.com/apache/kudu) - Completes Hadoop's storage layer to enable fast analytics on fast data.
 - [Time Series Forecasting Best Practices & Examples](https://github.com/microsoft/forecasting)

@@ -24,7 +24,7 @@ My Reddit is heavily tailored to my own likes and I very often just look into so
 
 Here is [multireddit](https://old.reddit.com/r/2DoApp+AdvancedFitness+AlanWatts+AskComputerScience+AskHistorians+AskMen+AskNetsec+AskProgramming+Automate+Bogleheads+CGPGrey+Clojure+Coffee+Compilers+Coq+CryptoTechnology+Cyberpunk_Music+Design+DrugNerds+Entrepreneur+EuropeFIRE+EveryLittleAnimation+EverythingScience+FIREUK+Fitness+Futurology+GonWildCurvy+GraphicsProgramming+HumanMicrobiome+Immunology+InternetIsBeautiful+Julia+LaTeX+Letterboxd+LoRaWAN+Lora+MLQuestions+MacOS+MachineLearning+Meditation+Microbiome+MusicForConcentration+Neuralink+NixOS+NoStupidQuestions+Nootropics+OutOfTheLoop+Pet_Renaissance+Physics+PlantBasedDiet+PostgreSQL+PourPainting+ProgrammerTIL+ProgrammingLanguages+PsychedelicStudies+Python+REMath+RISCV+Racket+RationalPsychonaut+ReverseEngineering+Showerthoughts+SiriShortcuts+SoftwareEngineering+SublimeText+SwiftUI+TheeHive+TrueFilm+UKInvesting+UKPersonalFinance+WeAreTheMusicMakers+WireGuard+ZeroWaste+agda+algorithms+ambientmusic+analog+apljk+apolloapp+apple+artificial+askdrugs+askscience+aws+bioinformatics+blog+boardgames+bodyweightfitness+cardano+chan+coding+cogsci+compsci+computerscience+cpp+csbooks+cscareerquestions+cscareerquestionsEU+darknetplan+dataisbeautiful+datascience+dependent_types+devops+elixir+elm+embedded+erlang+ethereum+europe+explainlikeimfive+explorables+fatFIRE+financialindependence+genetics+getdisciplined+golang+gonwild+haskell+history+homeautomation+iOSProgramming+investing+iosdev+javascript+kubernetes+leangains+learnanythingxyz+learnart+learnmachinelearning+learnprogramming+lectures+lisp+listentothis+longevity+macosprogramming+macprogramming+math+mathbooks+mildlyinteresting+minimalism+neuro+neuroscience+nextjs+nutrition+ocaml+osdev+photocritique+photography+privacy+programming+programmingtools+pytorch+reactjs+reactnative+reasonml+reinforcementlearning+rust+scala+science+selfhosted+shittychangelog+shortcuts+singularity+solotravel+spacex+startups+statistics+swift+sysadmin+tinycode+triphop+types+typescript+u_BluePinkGrey+u_Borax+u_ChristoferK+u_Cindori+u_CompuIves+u_DizzyEwok+u_DontStealStories+u_ElvishJerricco+u_LunarStone+u_Odersky+u_SrPeixinho+u_StingrayZ+u__philpl+u_algernone+u_caliform+u_cmsj+u_deanishe+u_desiringmachines+u_dlgn13+u_edwardkmett+u_emersion_fr+u_isovector+u_jamesknelson+u_japaric+u_jerf+u_k0001+u_karlicoss+u_kennethreitz+u_majid8+u_mittsh+u_mstoiber+u_nat_friedman+u_nglgzz+u_notoriousrdc+u_nrinaudo+u_nullc+u_quchen+u_robpike+u_rperciav+u_rvolosatovs+u_sfvisser+u_sobolevn+u_sobri909+u_spez+u_spladug+u_swyx+u_tazjin+u_terrorjack+u_tiss93+u_tuhdo+u_uhoreg+userexperience+veganfitness+veganketo+videography+vim+vim_magic+vscode+web_design+webdev+zeronet/) of subreddits I am subbed too. Less priority subs are put in [Other list](https://www.reddit.com/user/nikivi/m/other).
 
-There is also nice [list of Reddit subs](https://github.com/learn-anything/reddit#readme). I access all these subreddits using [Deanishe's Reddit worklfow](https://github.com/deanishe/alfred-reddit#readme).
+There is also nice [list of Reddit subs](https://github.com/learn-anything/reddit). I access all these subreddits using [Deanishe's Reddit worklfow](https://github.com/deanishe/alfred-reddit).
 
 ### RSS with [Reeder](http://reederapp.com/mac/)
 
@@ -89,7 +89,7 @@ And these Discord servers:
 
 ### Other
 
-- [Awesome websites](https://github.com/learn-anything/websites#readme)
+- [Awesome websites](https://github.com/learn-anything/websites)
 - [Hackaday](https://hackaday.com/)
 - [MOOCReport by Class Central](https://www.classcentral.com/report/) - Latest news and trends in online education.
 - [some.fyi](https://some.fyi/) - Experiment to get more useful news.
@@ -112,7 +112,7 @@ And these Discord servers:
 - [News](https://medium.com/@nikitavoloboev/news-d6bcaaf40121) - I wrote briefly my opinion about consuming news and media. Although my opinion as stated in the article is still the same. My approach as indicated above has changed and hopefully became a bit more refined to meet my own goals.
 - [List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented) ([HN](https://news.ycombinator.com/item?id=23439437))
 - [Ask HN: Other online communities like HN? (2018)](https://news.ycombinator.com/item?id=18384680)
-- [Curated list of awesome programming subreddits](https://github.com/iCHAIT/awesome-subreddits#readme)
+- [Curated list of awesome programming subreddits](https://github.com/iCHAIT/awesome-subreddits)
 - [Stay Safe Out There: Navigating the Negatives on Twitter (2019)](https://www.holloway.com/s/excerpt-stay-safe-out-there-navigating-the-negatives-on-twitter)
 - [HN: List of Twitter mute words for your timeline (2020)](https://news.ycombinator.com/item?id=22141903)
 - [Hacker News Search](https://hn.algolia.com/) ([Code](https://github.com/algolia/hn-search))

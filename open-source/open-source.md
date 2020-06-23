@@ -24,7 +24,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [After 5 years and \$3M, here's everything we've learned from building Ghost](https://blog.ghost.org/5/)
 - [How I maintain FOSS projects](https://drewdevault.com/2018/06/01/How-I-maintain-FOSS-projects.html)
 - [Drive-by Haskell Contributions by Neil Mitchell](https://www.youtube.com/watch?v=6kGLHXsUQD4) - Great talk on how to start contributing to projects.
-- [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#readme)
+- [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
 - [Taking an indefinite sabbatical from my projects](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/)
 - [The Hard Parts of Open Source by Evan Czaplicki (2018)](https://www.youtube.com/watch?feature=youtu.be&v=o_4EX4dPppA&app=desktop)
 - [Open Source is Not About You](https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9) - [HN](https://news.ycombinator.com/item?id=18538123)
@@ -40,7 +40,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Open Source Guides](https://opensource.guide/)
 - [The struggles of an open source maintainer (2019)](http://antirez.com/news/129)
 - [Open source beyond the market (2019)](https://m.signalvnoise.com/open-source-beyond-the-market/)
-- [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#readme)
+- [Maintainer's Guide to Staying Positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive)
 - [My personal journey from MIT to GPL (2019)](https://drewdevault.com/2019/06/13/My-journey-from-MIT-to-GPL.html) ([HN](https://news.ycombinator.com/item?id=20183056))
 - [BOSS](https://www.boss.dev/) - Bounties for Open Source Software.
 - [Unlicense Yourself: Set Your Code Free](https://unlicense.org/)
@@ -59,7 +59,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [What’s happening in Open Source. Every day.](https://github.com/mikeal/daily)
 - [Open Source, SaaS and Monetization (2019)](http://lucumr.pocoo.org/2019/11/4/open-source-and-saas/)
 - [CMTY](https://cmty.app/) - Community platform for open source projects.
-- [Awesome OSS Funding](https://github.com/sustainers/awesome-oss-funding#readme)
+- [Awesome OSS Funding](https://github.com/sustainers/awesome-oss-funding)
 - [Licenses Cheat Sheet](https://kapeli.com/cheat_sheets/Licenses.docset/Contents/Resources/Documents/index)
 - [The city guide to open source - GitHub Universe 2019](https://www.youtube.com/watch?v=GCLgdOiPA6o)
 - [Ask HN: How do you create a successful community from zero? (2019)](https://news.ycombinator.com/item?id=21812442)
@@ -70,7 +70,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Building an open source community from the ground up (2019)](https://www.youtube.com/watch?v=D0p572DrNfI)
 - [Reflections on Excalidraw (2020)](https://blog.vjeux.com/2020/uncategorized/reflections-on-excalidraw.html)
 - [A sad day for Rust (2020)](https://news.ycombinator.com/item?id=22075076) ([HN](https://news.ycombinator.com/item?id=22075076))
-- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners#readme)
+- [Awesome First PR Opportunities](https://github.com/MunGell/awesome-for-beginners)
 - [My FOSS Story by Andrew Gallant (2020)](https://blog.burntsushi.net/foss/) ([HN](https://news.ycombinator.com/item?id=22095715))
 - [Best Practice Open Source Repo Setup (2020)](https://www.swyx.io/writing/oss-repo-setup/)
 - [Notes on contributing to open source projects (2020)](https://gist.github.com/Gabriel439/a5770cc1dc430bde576602cbd978ca9d)

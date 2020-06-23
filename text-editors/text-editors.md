@@ -10,7 +10,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Xi Editor macOS](https://github.com/google/xi-mac) - macOS client for Xi text editing backend.
 - [Oni](https://github.com/onivim/oni) - Modern Modal Editing - powered by Neovim.
 - [CodeMirror](http://codemirror.net/) - In-browser code editor.
-- [Awesome Online IDE](https://github.com/styfle/awesome-online-ide#readme)
+- [Awesome Online IDE](https://github.com/styfle/awesome-online-ide)
 - [Iota](https://github.com/gchp/iota) - Terminal-based text editor written in Rust.
 - [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - General purpose plain text editor for macOS. Widely known for its live collaboration feature.
 - [Kakoune](https://github.com/mawww/kakoune) - Code editor that implements Vi’s "keystrokes as a text editing language" model. ([HN](https://news.ycombinator.com/item?id=19313794))

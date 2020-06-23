@@ -5,20 +5,20 @@
 - [Python 3 cheat sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
 - [Pyre Check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [Optional Static Typing for Python - Guido van Rossum (2018)](https://www.youtube.com/watch?v=GiZKuyLKvAA)
-- [WTF Python](https://github.com/satwikkansal/wtfpython#readme)
+- [WTF Python](https://github.com/satwikkansal/wtfpython)
 - [My Python Development Environment, 2020 Edition (2019)](https://jacobian.org/2019/nov/11/python-environment-2020/) ([HN](https://news.ycombinator.com/item?id=21510262))
-- [Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure#readme)
+- [Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure)
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 - [Structuring Your Python Project](http://docs.python-guide.org/en/latest/writing/structure/)
-- [Awesome Python Features Explained Using Harry Potter](https://github.com/zotroneneis/harry_potter_universe#readme)
-- [Learn python](https://github.com/trekhleb/learn-python#readme) - Playground and cheatsheet for learning Python.
-- [Py-Spy](https://github.com/benfred/py-spy#readme) - Sampling profiler for Python programs.
+- [Awesome Python Features Explained Using Harry Potter](https://github.com/zotroneneis/harry_potter_universe)
+- [Learn python](https://github.com/trekhleb/learn-python) - Playground and cheatsheet for learning Python.
+- [Py-Spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs.
 - [Profiling](https://github.com/what-studio/profiling) - Interactive continuous Python profiler.
 - [Pytype](https://github.com/google/pytype) - Static analyzer for Python code.
 - [gpython](https://github.com/go-python/gpython) - Python interpreter written in Go "batteries not included".
 - [RustPython](https://github.com/RustPython/RustPython) - Python Interpreter written in Rust.
-- [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet#readme)
-- [Awesome Python Security resources](https://github.com/guardrailsio/awesome-python-security#readme)
+- [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
+- [Awesome Python Security resources](https://github.com/guardrailsio/awesome-python-security)
 - [Pyright](https://github.com/Microsoft/pyright) - Static type checker for the Python language.
 - [cpython](https://github.com/python/cpython) - Python programming language source code.
 - [PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again.
@@ -72,7 +72,7 @@
 - [Iterables vs. Iterators vs. Generators (2014)](https://nvie.com/posts/iterators-vs-generators/)
 - [Making Python Programs Blazingly Fast (2020)](https://martinheinz.dev/blog/13) ([HN](https://news.ycombinator.com/item?id=22040899))
 - [Python built-ins worth learning (2019)](https://treyhunner.com/2019/05/python-builtins-worth-learning/)
-- [Python Coding Guidelines for Sanity](https://github.com/rednafi/py-sanity#readme)
+- [Python Coding Guidelines for Sanity](https://github.com/rednafi/py-sanity)
 - [Human's Ultimate Guide to setup.py](https://github.com/navdeep-G/setup.py)
 - [Python Guide by NSA](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf)
 - [Python Packaging User Guide](https://packaging.python.org/)
@@ -83,13 +83,13 @@
 - [Vulture](https://github.com/jendrikseipp/vulture) - Finds unused code in Python programs.
 - [Full Stack FastAPI and PostgreSQL - Base Project Generator](https://github.com/tiangolo/full-stack-fastapi-postgresql)
 - [Byterun](https://github.com/nedbat/byterun) - Python implementation of a Python bytecode runner.
-- [Clean Code Python](https://github.com/zedr/clean-code-python#readme)
+- [Clean Code Python](https://github.com/zedr/clean-code-python)
 - [cython](https://github.com/cython/cython) - Most widely used Python to C compiler.
 - [HPy: a better API for Python](https://github.com/pyhandle/hpy) - Goal of the project is to design a better API for extending Python in C.
 - [Safety checks your installed dependencies for known security vulnerabilities](https://github.com/pyupio/safety)
 - [The Composition Over Inheritance Principle](https://python-patterns.guide/gang-of-four/composition-over-inheritance/)
 - [Building Finite State Machines with Python Coroutines](https://arpitbhayani.me/blogs/fsm) ([HN](https://news.ycombinator.com/item?id=22915716))
-- [Awesome Python](https://github.com/vinta/awesome-python#readme)
+- [Awesome Python](https://github.com/vinta/awesome-python)
 - [Distill: Why do we need Flask, Celery, and Redis? (2019)](https://ljvmiranda921.github.io/notebook/2019/11/08/flask-redis-celery-mcdo/) ([HN](https://news.ycombinator.com/item?id=22901856))
 - [Building on solid ground: ensuring reproducible Docker builds for Python (2020)](https://pythonspeed.com/articles/reproducible-docker-builds-python/) ([Lobsters](https://lobste.rs/s/xu1lxh/building_on_solid_ground_ensuring))
 - [Python Language Server](https://github.com/palantir/python-language-server)
@@ -108,7 +108,7 @@
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python) - Book aims to teach the Python programming language using a practical approach.
 - [Practical Python Programming course](https://github.com/dabeaz-course/practical-python)
 - [Milksnake](https://github.com/getsentry/milksnake) - Extension for setuptools that allows you to distribute dynamic linked libraries in Python wheels in the most portable way imaginable.
-- [Replacing Bash Scripting with Python](https://github.com/ninjaaron/replacing-bash-scripting-with-python#readme)
+- [Replacing Bash Scripting with Python](https://github.com/ninjaaron/replacing-bash-scripting-with-python)
 - [Overview of Python Dependency Management (2020)](https://modelpredict.com/python-dependency-management-tools) ([HN](https://news.ycombinator.com/item?id=23380113))
 - [Guide to Python Debugging (2020)](https://martinheinz.dev/blog/24) ([HN](https://news.ycombinator.com/item?id=23386537))
 - [Python for Lisp Programmers (2000)](https://norvig.com/python-lisp.html)

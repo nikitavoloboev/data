@@ -43,9 +43,9 @@
 - [Writing good bug reports](https://pspdfkit.com/blog/2016/writing-good-bug-reports/)
 - [Tips for reading new codebases](https://blog.safia.rocks/post/170269021619/tips-for-reading-new-codebases)
 - [Engineering Principles at Monzo](https://monzo.com/blog/2018/06/29/engineering-principles/)
-- [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers#readme) - For when people get too hyped up about things.
+- [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers) - For when people get too hyped up about things.
 - [Fish Design Principles](https://fishshell.com/docs/current/design.html)
-- [List of resources about programming practices for writing safety-critical software](https://github.com/stanislaw/awesome-safety-critical#readme)
+- [List of resources about programming practices for writing safety-critical software](https://github.com/stanislaw/awesome-safety-critical)
 - [In Pursuit of Production Minimalism](https://brandur.org/minimalism)
 - [Mostly avoid unit tests](https://lobste.rs/s/trrold/mostly_avoid_unit_tests)
 - [Software disenchantment](http://tonsky.me/blog/disenchantment/)
@@ -55,26 +55,26 @@
 - [HN: Please do not attempt to simplify this code (2018)](https://news.ycombinator.com/item?id=18772873)
 - [HN: Minimalism: Practical Guide to Writing Less Code (2018)](https://news.ycombinator.com/item?id=18830732)
 - [HN: Software Engineering at Google (2018)](https://news.ycombinator.com/item?id=18818412)
-- [Professional Programming](https://github.com/charlax/professional-programming#readme) - Collection of full-stack resources for programmers.
+- [Professional Programming](https://github.com/charlax/professional-programming) - Collection of full-stack resources for programmers.
 - [Ask HN: What are must-know concepts for back end development? (2019)](https://news.ycombinator.com/item?id=18961793)
 - [HN: Advice to new programmers (2019)](https://news.ycombinator.com/item?id=19029206)
 - [Shipping code at N26 (2019)](https://hugogiraudel.com/2019/01/28/shipping-code-at-n26/)
 - [Junior and senior engineers (2015)](https://luca3m.me/2015/07/04/junior-vs-senior-engineers.html)
 - [Ask HN: How to be productive with big existing code base (2019)](https://news.ycombinator.com/item?id=19254008)
 - [On Simplicity (2019)](https://lobste.rs/s/qgbkwm/on_simplicity)
-- [Programming Dictionary (Russian)](https://github.com/HowProgrammingWorks/Dictionary#readme)
+- [Programming Dictionary (Russian)](https://github.com/HowProgrammingWorks/Dictionary)
 - [HowProgrammingWorks courses (Russian)](https://github.com/HowProgrammingWorks/Index)
 - [Keep a changelog](https://keepachangelog.com/en/1.0.0/) ([Code](https://github.com/olivierlacan/keep-a-changelog))
 - [Teach Yourself Programming in Ten Years (2014)](http://norvig.com/21-days.html)
 - [Rich Hickey on becoming a better developer](https://gist.github.com/prakhar1989/1b0a2c9849b2e1e912fb)
 - [Why programming is difficult](https://joearms.github.io/published/2014-02-07-why-programming-is-difficult.html)
 - [Abstractions (2019)](https://giuseppegurgone.com/abstractions/)
-- [Categorized overview of Programming Principles & Patterns](https://github.com/webpro/programming-principles#readme)
+- [Categorized overview of Programming Principles & Patterns](https://github.com/webpro/programming-principles)
 - [Too DRY - The Grep Test (2013)](http://jamie-wong.com/2013/07/12/grep-test/)
-- [Awesome Roadmaps](https://github.com/orsanawwad/awesome-roadmaps#readme) - Curated list of awesome software development roadmaps.
-- [Awesome EventStorming](https://github.com/mariuszgil/awesome-eventstorming#readme)
+- [Awesome Roadmaps](https://github.com/orsanawwad/awesome-roadmaps) - Curated list of awesome software development roadmaps.
+- [Awesome EventStorming](https://github.com/mariuszgil/awesome-eventstorming)
 - [7 absolute truths I unlearned as junior developer (2019)](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/) ([HN](https://news.ycombinator.com/item?id=20124018)) ([Lobsters](https://lobste.rs/s/zki5sf/7_absolute_truths_i_unlearned_as_junior))
-- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know#readme)
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - [Risk-First development book](https://riskfirst.org/)
 - [Visual Programming Codex](https://github.com/ivanreese/visual-programming-codex) - Resources and references for the past and future of visual programming.
 - [Things I Learnt from a Senior Software Engineer (2019)](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html) ([HN](https://news.ycombinator.com/item?id=20794861))
@@ -94,9 +94,9 @@
 - [Cheng Lou - Taming the Meta Language - React Conf 2017](https://www.youtube.com/watch?v=_0T5OSSzxms)
 - [Programming Across Paradigms • Anjana Vakil (2017)](https://www.youtube.com/watch?v=Pg3UeB-5FdA)
 - [TBA: Developer experience stuff? by Ashley Williams (2019)](https://www.youtube.com/watch?v=N6YwzpFYDoo&list=PLe9psSNJBf74yYiVXDXz8UnRnWf3NHzS-)
-- [Best Practices Checklist](https://github.com/palash25/best-practices-checklist#readme) - List of awesome idiomatic code resources. Rust, Go, Erlang, Ruby, Pony and more.
+- [Best Practices Checklist](https://github.com/palash25/best-practices-checklist) - List of awesome idiomatic code resources. Rust, Go, Erlang, Ruby, Pony and more.
 - [Programming book list](https://danluu.com/programming-books/)
-- [Programming Talks](https://github.com/hellerve/programming-talks#readme)
+- [Programming Talks](https://github.com/hellerve/programming-talks)
 - [There's No Such Thing as Knowing Your Computer 'All the Way to the Bottom' (2019)](http://codefol.io/posts/no-such-thing-as-knowing-coding-all-the-way-to-the-bottom/) ([Lobsters](https://lobste.rs/s/jkuaaz/there_s_no_such_thing_as_knowing_your))
 - [Building awesome developer tools - Ines Montani (2019)](https://www.youtube.com/watch?v=Ivb4AAuj5JY)
 - [Minimal Viable Programs](https://joearms.github.io/published/2014-06-25-minimal-viable-program.html)
@@ -107,11 +107,11 @@
 - [Inversion of Control (2019)](https://kentcdodds.com/blog/inversion-of-control)
 - [On porting code (2019)](https://samrat.me/posts/2019-11-26-porting-code/)
 - [Challenging projects every programmer should try (2019)](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html) ([HN](https://news.ycombinator.com/item?id=21790779))
-- [You don't need loops](https://github.com/you-dont-need/You-Dont-Need-Loops#readme) - Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
+- [You don't need loops](https://github.com/you-dont-need/You-Dont-Need-Loops) - Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent.
 - [Bret Victor - The Future of Programming (2013)](https://vimeo.com/71278954)
 - [Ask HN: What do top engineers you know do that others don't? (2019)](https://news.ycombinator.com/item?id=21870889)
 - [If you're goal is to learn how to code in 2020, here's a thread of advice for you](https://twitter.com/ASpittel/status/1212372163442958338)
-- [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md#readme)
+- [Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 - [Goodbye, Clean Code (2020)](https://overreacted.io/goodbye-clean-code/) ([HN](https://news.ycombinator.com/item?id=22022466)) ([Lobsters](https://lobste.rs/s/xwel4u/goodbye_clean_code))
 - [The Wrong Abstraction (2016)](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 - [Returning to First Principles (2020)](https://oswalt.dev/2020/01/returning-to-first-principles/)
@@ -125,7 +125,7 @@
 - [Literate Programming notes](https://pbat.ch/wiki/literate_programming/)
 - [TU Delft Software Engineering Research Group (SERG)](https://se.ewi.tudelft.nl/)
 - [Ask HN: What change in your programming technique has been most transformative? (2020)](https://news.ycombinator.com/item?id=22129757)
-- [Curated list of awesome DIY software](https://github.com/cweagans/awesome-diy-software#readme)
+- [Curated list of awesome DIY software](https://github.com/cweagans/awesome-diy-software)
 - [How Big Technical Changes Happen at Slack (2020)](https://slack.engineering/how-big-technical-changes-happen-at-slack-f1569d25ee7b) ([HN](https://news.ycombinator.com/item?id=22319210))
 - [Lobsters: What's the best GUI library around? (2020)](https://lobste.rs/s/xx0snw/what_s_best_gui_library_around)
 - [Genetic programming is waiting for better tools - Rakhim Davletkaliyev (2019)](https://www.youtube.com/watch?v=Z5f1SDv-SCk)
@@ -134,14 +134,14 @@
 - [Floating Point Visually Explained (2017)](http://fabiensanglard.net/floating_point_visually_explained/)
 - [What makes a dependency dependable?](https://blog.jessitron.com/2020/03/07/what-makes-a-dependency-dependable/)
 - [Defunctionalisation – an underappreciated tool for writing good software (2020)](https://www.gresearch.co.uk/article/defunctionalisation/) ([HN](https://news.ycombinator.com/item?id=22525038))
-- [Ultimate Coding Resources List](https://github.com/PizzaPokerGuy/ultimate-coding-resources#readme)
+- [Ultimate Coding Resources List](https://github.com/PizzaPokerGuy/ultimate-coding-resources)
 - [libs.garden](https://libs.garden/)
 - [Advice on things to learn for junior dev (2020)](https://www.reddit.com/r/golang/comments/fma0dz/what_do_employers_look_in_github_repo_of_golang/)
 - [How I became a better programmer (2017)](https://jlongster.com/How-I-Became-Better-Programmer) ([HN](https://news.ycombinator.com/item?id=22678350))
 - [Ask HN: How to improve code quality while maintaining decent velocity? (2020)](https://news.ycombinator.com/item?id=21730125)
 - [New Grad vs. Senior Dev](https://ericlippert.com/2020/03/27/new-grad-vs-senior-dev/) ([HN](https://news.ycombinator.com/item?id=22708094))
 - [Things I’ve learned in 20 years of programming ](https://daedtech.com/5-things-ive-learned-in-20-years-of-programming/) ([HN](https://news.ycombinator.com/item?id=21603920))
-- [Design Patters for Humans](https://github.com/kamranahmedse/design-patterns-for-humans#readme) - Ultra-simplified explanation to design patterns.
+- [Design Patters for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Ultra-simplified explanation to design patterns.
 - [Sad state of cross platform GUI frameworks (2020)](https://blog.royalsloth.eu/posts/sad-state-of-cross-platform-gui-frameworks/) ([Lobsters](https://lobste.rs/s/rci0kw/sad_state_cross_platform_gui_frameworks))
 - [Lobsters: The happy state of (2020)](https://lobste.rs/s/3wknua/happy_state)
 - [Worse Is Better](https://www.dreamsongs.com/WorseIsBetter.html)

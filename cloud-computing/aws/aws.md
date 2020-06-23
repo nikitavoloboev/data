@@ -15,8 +15,8 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 ## Links
 
 - [AWS in plain English](https://www.expeditedssl.com/aws-in-plain-english) - Great reference.
-- [AWS practical guide](https://github.com/open-guides/og-aws#readme)
-- [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk#readme) - Framework for defining cloud infrastructure in code.
+- [AWS practical guide](https://github.com/open-guides/og-aws)
+- [AWS Cloud Development Kit](https://github.com/awslabs/aws-cdk) - Framework for defining cloud infrastructure in code.
 - [AWS Fargate Action](https://github.com/jessfraz/aws-fargate-action) - GitHub action to deploy to AWS Fargate on push to the master branch.
 - [AWS Serverless Application Model](https://github.com/awslabs/serverless-application-model) - Contains the SAM specification, the code that translates SAM templates into AWS CloudFormation stacks, general information about the model, and examples of common applications.
 - [Kubernetes on AWS with Terraform](https://github.com/xuwang/kube-aws-terraform) - Kubernetes implementation using CoreOS on AWS platform.
@@ -35,7 +35,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Last Week in AWS](https://www.lastweekinaws.com/) - News and newsletter about latest offerings of AWS.
 - [The Amazon Premium (2019)](http://calpaterson.com/amazon-premium.html) ([HN](https://news.ycombinator.com/item?id=21835366))
 - [AWS Security Toolbox (AST) (2019)](https://zoph.me/posts/2019-12-16-aws-security-toolbox/)
-- [AWS Glossary](https://github.com/sw-yx/aws-glossary#readme)
+- [AWS Glossary](https://github.com/sw-yx/aws-glossary)
 - [AWS Cost Optimization 101 (2020)](https://cloudonaut.io/aws-cost-optimization-101)
 - [Building a Serverless Podcast Search Engine on AWS (2019)](https://medium.com/@budilov/building-a-serverless-podcast-search-engine-on-aws-part-1-f6e58fbc3c06)
 - [Architecting for the Cloud - AWS Best Practices (2019)](https://tlakomy.com/architecting-for-the-cloud-aws-best-practices-part-1/)
@@ -55,7 +55,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
 - [aws-api-tools](https://github.com/jaypipes/aws-api-tools) - Tools to explore and transform AWS service APIs.
 - [Kubernetes Daemonset to gracefully handle EC2 instance shutdown](https://github.com/aws/aws-node-termination-handler)
-- [AWS CDK RFCs](https://github.com/aws/aws-cdk-rfcs#readme)
+- [AWS CDK RFCs](https://github.com/aws/aws-cdk-rfcs)
 - [AWS AppSync GraphQL Photo Sample](https://github.com/aws-samples/aws-amplify-graphql)
 - [AWS Icons for PlantUML](https://github.com/awslabs/aws-icons-for-plantuml)
 - [Simple storage pricing calculator for AWS](https://www.duckbillgroup.com/aws-super-simple-storage-calculator/) ([HN](https://news.ycombinator.com/item?id=22971656))
@@ -72,7 +72,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Networking 101 (2020)](https://blog.ipspace.net/2020/05/aws-networking-101.html)
 - [VPC Studio](https://houqp.github.io/vpcstudio/) - VPC CIDR calculator with codegen. ([Code](https://github.com/houqp/vpcstudio))
 - [AWS services explained in one line each (2020)](https://adayinthelifeof.nl/2020/05/20/aws.html) ([HN](https://news.ycombinator.com/item?id=23309269))
-- [Awesome Amazon EKS](https://github.com/realvz/awesome-eks#readme)
+- [Awesome Amazon EKS](https://github.com/realvz/awesome-eks)
 - [cloud-nuke](https://github.com/gruntwork-io/cloud-nuke) - Tool for cleaning up your cloud accounts by nuking (deleting) all resources within it.
 - [Odin](https://github.com/coinbase/odin) - Deploy your 12-factor-applications to AWS easily and securely.
 - [Map Of Computing Architectures for AWS (2020)](https://moca.computingarchitectures.com/en/~hello-world/) ([HN](https://news.ycombinator.com/item?id=23497325))

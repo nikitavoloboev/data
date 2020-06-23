@@ -16,7 +16,7 @@
 - [Verifiable Credentials Data Model](https://w3c.github.io/vc-data-model/) - Expressing verifiable information on the Web. ([Code](https://github.com/w3c/vc-data-model))
 - [Authelia](https://github.com/authelia/authelia) - Single Sign-On Multi-Factor portal for web apps.
 - [DID](https://did.app/) - Identity Provider, that authenticates users by verifying access to either an email address or securely stored private key.
-- [WebAuthn Awesome](https://github.com/herrjemand/awesome-webauthn#readme) - Curated list of awesome WebAuthn/FIDO2 resources.
+- [WebAuthn Awesome](https://github.com/herrjemand/awesome-webauthn) - Curated list of awesome WebAuthn/FIDO2 resources.
 - [The Ultimate Guide to handling JWTs on frontend clients (GraphQL) (2019)](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/)
 - [React Google Login](https://github.com/anthonyjgrove/react-google-login) - Google oAUth Sign-in / Log-in Component for React.
 - [OAuth2 for Go](https://github.com/golang/oauth2)
@@ -47,5 +47,5 @@
 - [JavaScript Authentication & Authorization Book/Course](https://gist.github.com/taniarascia/a2d35af43ce133de20ac0a8c72558fea)
 - [ASGI middleware that authenticates users against GitHub](https://github.com/simonw/asgi-auth-github)
 - [JSON Web Token Docs Introduction](https://jwt.io/introduction/)
-- [Auth Boss](https://github.com/teesloane/Auth-Boss#readme) - Learn about different authentication methodologies on the web.
+- [Auth Boss](https://github.com/teesloane/Auth-Boss) - Learn about different authentication methodologies on the web.
 - [JWT auth visualized](https://twitter.com/kamranahmedse/status/1273375903511465990)

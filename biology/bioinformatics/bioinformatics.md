@@ -3,7 +3,7 @@
 ## Links
 
 - [Rosalind](http://rosalind.info/problems/locations/) - Platform for learning bioinformatics and programming through problem solving.
-- [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
+- [Awesome Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 - [STUDY WITH ME | Computational Biology (2019)](https://www.youtube.com/watch?v=DoTBob1_IvI)
 - [Primer on statistical mechanics for biochemists](https://github.com/jchodera/statmech-for-biochemists)
 - [Kindred](https://github.com/jakelever/kindred) - Python biomedical relation extraction package that uses a supervised approach (i.e. needs training data).
@@ -30,7 +30,7 @@
 - [Guide to help wet lab biologists learn computational biology (2020)](https://www.reddit.com/r/bioinformatics/comments/fiwtwx/working_from_home_i_made_a_guide_to_help_wet_lab/)
 - [BiGG Models](http://bigg.ucsd.edu/) - Search the database by model, reaction, metabolite, or gene. ([Code](https://github.com/sbrg/bigg_models))
 - [Systems Biology and Biotechnology Specialization course](https://www.coursera.org/specializations/systems-biology)
-- [Path to a free self-taught education in Bioinformatics](https://github.com/ossu/bioinformatics#readme)
+- [Path to a free self-taught education in Bioinformatics](https://github.com/ossu/bioinformatics)
 - [How to Build a Biotech](https://www.celinehh.com/biotech)
 - [Unified rational protein engineering with sequence-based deep representation learning (2019)](https://www.nature.com/articles/s41592-019-0598-1)
 - [Deep Molecular Programming: A Natural Implementation of Binary-Weight ReLU Neural Networks (2020)](https://arxiv.org/abs/2003.13720) ([HN](https://news.ycombinator.com/item?id=22768143))

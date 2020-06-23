@@ -16,7 +16,7 @@
 - [Pwning your (web)server and network the easy way - or why exposing ~/.ssh/ is a bad idea](https://0day.work/pwning-your-web-server-and-network-the-easy-way-or-why-exposing-ssh-is-a-bad-idea/) ([HN](https://news.ycombinator.com/item?id=22068070))
 - [jass](https://github.com/jschauma/jass) - Tool to facilitate sharing of secrets using SSH keys.
 - [rtop-bot](https://github.com/rapidloop/rtop-bot) - Bot for Remote Server Monitoring over SSH.
-- [Awesome SSH](https://github.com/moul/awesome-ssh#readme)
+- [Awesome SSH](https://github.com/moul/awesome-ssh)
 - [ssh-vault](https://github.com/ssh-vault/ssh-vault) - Encrypt/decrypt using ssh keys.
 - [Secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave.
 - [sshcommand](https://github.com/dokku/sshcommand) - Turn SSH into a thin client specifically for your app.

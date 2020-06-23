@@ -48,7 +48,7 @@
 - [Vugu](https://github.com/vugu/vugu) - Modern UI library for Go+WebAssembly (experimental).
 - [Coco](https://github.com/mrmiguu/coco) - Golang WebAssembly Framework.
 - [Wasmer](https://github.com/wasmerio/go-ext-wasm) - Go library to run WebAssembly binaries at native speed.
-- [Vecty](https://github.com/gopherjs/vecty#readme) - Library for building responsive and dynamic web frontends in Go instead of in JavaScript, HTML & CSS.
+- [Vecty](https://github.com/gopherjs/vecty) - Library for building responsive and dynamic web frontends in Go instead of in JavaScript, HTML & CSS.
 - [Heimdall](https://github.com/gojek/heimdall) - Enhanced HTTP client for Go.
 - [mux](https://github.com/gorilla/mux) - Powerful HTTP router and URL matcher for building Go web servers with.
 - [go-httpwares](https://github.com/improbable-eng/go-httpwares) - Go HTTP Server Middleware and Client Tripperware.
@@ -468,7 +468,7 @@
 
 - [pkg.go.dev](https://pkg.go.dev/) - Website for discovering and evaluating Go packages and modules. ([Code](https://github.com/golang/pkgsite))
 - [GoDoc](https://godoc.org/) - Hosts documentation for Go packages. ([Code](https://github.com/golang/gddo))
-- [Awesome Go](https://github.com/avelino/awesome-go#readme)
+- [Awesome Go](https://github.com/avelino/awesome-go)
 - [Golang Serializer Benchmark Comparison](https://github.com/smallnest/gosercomp)
 - [gomodctl](https://github.com/beatlabs/gomodctl) - Search, Check and Update Go modules.
-- [List of Go GUI/graphics/image related projects](https://github.com/go-graphics/go-gui-projects#readme)
+- [List of Go GUI/graphics/image related projects](https://github.com/go-graphics/go-gui-projects)

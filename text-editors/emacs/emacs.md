@@ -28,7 +28,7 @@ Might give it a go sometime.
 - [Modalka](https://github.com/mrkkrp/modalka) - Easily introduce native modal editing of your own design.
 - [Elsa](https://github.com/emacs-elsa/Elsa) - Emacs Lisp Static Analyser.
 - [Reasonable Emacs config](https://github.com/purcell/emacs.d)
-- [List of people with nice emacs config files](https://github.com/caisah/emacs.dz#readme)
+- [List of people with nice emacs config files](https://github.com/caisah/emacs.dz)
 - [.emacs.el file and other personal Emacs goodies by John Wiegley](https://github.com/jwiegley/dot-emacs)
 - [Emacs Prelude](https://github.com/bbatsov/prelude) - Emacs distribution that aims to enhance the default Emacs experience.
 - [Language Server Protocol Support for Emacs](https://github.com/emacs-lsp/lsp-mode)
@@ -41,7 +41,7 @@ Might give it a go sometime.
 - [Emacs: The Editor for the Next Forty Years](https://media.emacsconf.org/2019/26.html) ([HN](https://news.ycombinator.com/item?id=21638197)) ([Lobsters](https://lobste.rs/s/qzu97s/emacs_editor_for_next_forty_years))
 - [Emacs - Productivity Tricks/Hacks](http://www.mycpu.org/emacs-productivity-setup/) ([HN](https://news.ycombinator.com/item?id=22129636))
 - [systemE](https://github.com/a-schaefers/systemE) - Lightweight systemd replacement written in Emacs lisp.
-- [Emacs Lisp Style Guide](https://github.com/bbatsov/emacs-lisp-style-guide#readme)
+- [Emacs Lisp Style Guide](https://github.com/bbatsov/emacs-lisp-style-guide)
 - [How do you setup emacs? (2020)](https://lobste.rs/s/uv4xpv/how_do_you_setup_emacs)
 - [The most successful malleable system in history (2020)](https://malleable.systems/blog/2020/04/01/the-most-successful-malleable-system-in-history/) ([HN](https://news.ycombinator.com/item?id=22875106))
 - [Ask HN: Resources to grok Emacs and use it well? (2020)](https://news.ycombinator.com/item?id=22881808)

@@ -64,13 +64,13 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 
 ## Links
 
-- [Awesome games](https://github.com/learn-anything/games#readme)
-- [Games on GitHub](https://github.com/leereilly/games#readme) - List of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [Awesome games](https://github.com/learn-anything/games)
+- [Games on GitHub](https://github.com/leereilly/games) - List of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [Patient gamers subreddit](https://www.reddit.com/r/patientgamers/)
-- [Awesome educational games](https://github.com/yrgo/awesome-eg#readme)
+- [Awesome educational games](https://github.com/yrgo/awesome-eg)
 - [If you had to recommend someone play 5 games to really get a feel for you/your tastes, what five would you pick?](https://twitter.com/jasonthinks/status/1036687671043579905)
 - [Gameboy.Live](https://github.com/HFO4/gameboy.live) - Basic gameboy emulator with terminal "Cloud Gaming" support.
-- [Awesome PICO-8](https://github.com/pico-8/awesome-PICO-8#readme)
+- [Awesome PICO-8](https://github.com/pico-8/awesome-PICO-8)
 - [HSTracker](https://github.com/HearthSim/HSTracker) - Deck tracker and deck manager for Hearthstone on macOS.
 - [The First Video Game (2019)](https://www.youtube.com/watch?v=uHQ4WCU1WQc)
 - [No-Bullshit Games](https://nobsgames.stavros.io/) - Good, non-annoying, enjoyable games. ([HN](https://news.ycombinator.com/item?id=22063744))

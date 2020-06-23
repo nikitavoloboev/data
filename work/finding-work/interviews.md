@@ -21,17 +21,17 @@
 - [Pramp](https://www.pramp.com/ "https://www.pramp.com") - 1 hr online interviews where you interview someone and they interview you back.
 - [LeetCode](https://leetcode.com/) - Collection of 700+ interview coding challenges.
 - [Preparing for SRE interview](https://blog.balthazar-rouberol.com/preparing-the-sre-interview.html)
-- [Developer questions](https://github.com/ggomaeng/better-developer-quotes#readme)
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university#readme) - Complete computer science study plan to become a software engineer.
+- [Developer questions](https://github.com/ggomaeng/better-developer-quotes)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - Complete computer science study plan to become a software engineer.
 - [Ten Rules for Negotiating a Job Offer](https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
 - [The Coding Interview by Palantir](https://www.palantir.com/the-coding-interview/) - Great tips.
 - [How to ace a phone interview](https://www.palantir.com/2012/09/how-to-ace-a-phone-interview/)
-- [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews#readme)
+- [30 Seconds of Interviews](https://github.com/fejes713/30-seconds-of-interviews)
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction) ([HN](https://news.ycombinator.com/item?id=20727126))
-- [Interview Map](https://github.com/KieSun/InterviewMap#readme) - A map that can help you make a better preparation for the next interview.
-- [Full stack Developer Interview Questions & Answers](https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers#readme)
+- [Interview Map](https://github.com/KieSun/InterviewMap) - A map that can help you make a better preparation for the next interview.
+- [Full stack Developer Interview Questions & Answers](https://github.com/indy256/Full-stack-Developer-Interview-Questions-and-Answers)
 - [Prepare for interview in 1 week advice](https://news.ycombinator.com/item?id=17755688)
-- [Everything you need to prepare for your technical interview](https://github.com/andreis/interview#readme)
+- [Everything you need to prepare for your technical interview](https://github.com/andreis/interview)
 - [HN: Google's interview system: it's not about solving the problem (2018)](https://news.ycombinator.com/item?id=18374938)
 - [Interviewing At Jane Street (2014)](https://blog.janestreet.com/interviewing-at-jane-street/)
 - [Ask HN: What should an ideal developer interview process look like? (2018)](https://news.ycombinator.com/item?id=18585677)
@@ -43,7 +43,7 @@
 - [You've probably seen a bunch of rants on why "do thing with linked list" is a terrible interview question. I'd like to explain why "do thing with linked list" is an interview question in the first place. Buckle up everyone, it's time for some history](https://mobile.twitter.com/hillelogram/status/962424365819277312)
 - [Reverse interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview.
 - [How to get into FAANG tips (2019)](https://drive.google.com/file/d/1tbQ74E5noNGS3ZarqAUMoErPasosilj7/view)
-- [CS Interview study sheet](https://github.com/kimberli/interviews#readme)
+- [CS Interview study sheet](https://github.com/kimberli/interviews)
 - [What I Learned From Conducting 500 Technical Interviews, Pt. 1: The Interviewer Skills Ladder (2019)](https://www.holloway.com/s/trh-what-i-learned-from-conducting-500-technical-interviews-part-1)
 - [Curated List of Top 75 LeetCode Questions to Save Your Time](https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 - [Basic DS and algo question collection](https://www.reddit.com/r/cscareerquestions/comments/dqkr7o/basic_ds_and_algo_question_collection/)
@@ -55,7 +55,7 @@
 - [Preparing For a System Architecture Interview (2016)](https://orrsella.com/2016/05/28/preparing-for-a-system-architecture-interview/)
 - [Interview advice for software engineers (2020)](https://twitter.com/ASpittel/status/1214979863683174400)
 - [107+ Coding Interview Problems with Detailed Solutions in Go](https://github.com/hoanhan101/algo)
-- [Curation of great Leetcode questions, categorized by topic/concept](https://github.com/fterh/leetcode-curation-topical#readme)
+- [Curation of great Leetcode questions, categorized by topic/concept](https://github.com/fterh/leetcode-curation-topical)
 - [The dystopian world of software engineering interviews (2020)](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews) ([HN](https://news.ycombinator.com/item?id=22331804)) ([Lobsters](https://lobste.rs/s/lhijk2/horrifically_dystopian_world_software))
 - [Levels of Seniority](https://roadmap.sh/guides/levels-of-seniority) - How to Step Up as a Junior, Mid Level or a Senior Developer. ([HN](https://news.ycombinator.com/item?id=22390878))
 - [HN: Google Interviewing Process for Software Developer Role in 2020](https://news.ycombinator.com/item?id=22405372)
@@ -66,7 +66,7 @@
 - [The Eng Hiring Bar: What the hell is it? (2020)](http://blog.interviewing.io/the-eng-hiring-bar-what-the-hell-is-it/)
 - [Questions to ask at the end of a technical interview (2017)](https://smalldata.tech/blog/2017/03/27/questions-to-ask-at-the-end-of-a-technical-interview) ([HN](https://news.ycombinator.com/item?id=22841164))
 - [How To Interview Engineers When You’re Not Technical](https://www.greghausheer.com/articles/how-to-interview-engineers-when-youre-not-technical) ([Part 2](https://www.greghausheer.com/articles/how-to-interview-engineers-when-youre-not-technical-part-ii)) ([HN](https://news.ycombinator.com/item?id=22855122))
-- [Cockroach Labs Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process#readme)
+- [Cockroach Labs Interview Process](https://github.com/cockroachlabs/open-sourced-interview-process)
 - [Metaview](https://metaview.app/) - Personal interviewer coaching.
 - [De-Coding The Interview Process book (2020)](https://gumroad.com/l/aUVXY) ([Web](https://technicalinterviews.dev))
 - [My Job Interview at Google (2008)](https://catonmat.net/my-job-interview-at-google) ([HN](https://news.ycombinator.com/item?id=23123035)) ([Lobsters](https://lobste.rs/s/qlluuf/my_job_interview_at_google_2008))

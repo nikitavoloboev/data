@@ -15,19 +15,19 @@
 - [Conversations with a six-year-old on functional programming](https://byorgey.wordpress.com/2018/05/06/conversations-with-a-six-year-old-on-functional-programming/) ([HN](https://news.ycombinator.com/item?id=22943749))
 - [FP Resources](https://github.com/allenleein/brains/projects/9?fullscreen=true)
 - [OOS is dead only if FP is dead](https://speakerdeck.com/staltz/oop-is-dead-only-if-fp-is-dead?slide=1)
-- [Total functional programming (ESFP) literature](https://github.com/mietek/total-functional-programming#readme)
+- [Total functional programming (ESFP) literature](https://github.com/mietek/total-functional-programming)
 - [Having an Effect by Oleg Kiselyov](https://www.youtube.com/watch?v=GhERMBT7u4w)
 - [Monads Demystified (2015)](http://blog.reverberate.org/2015/08/monads-demystified.html)
 - [Can functional programming be liberated from the von Neumann paradigm?](http://conal.net/blog/posts/can-functional-programming-be-liberated-from-the-von-neumann-paradigm) ([HN](https://news.ycombinator.com/item?id=18692470))
 - [COMP 212: Functional Programming Course (2019)](http://dlicata.web.wesleyan.edu/teaching/fp-s19/) - Purpose of this course is to introduce the theory and practice of functional programming (FP).
 - [Research papers / Functional pearls](https://wiki.haskell.org/Research_papers/Functional_pearls) - Functional pearls are elegant, instructive examples of functional programming.
-- [Effects bibliography](https://github.com/yallop/effects-bibliography#readme) - Collaborative bibliography of work related to the theory and practice of computational effects.
-- [Flerp’s Guide to Functional Programming](https://github.com/jeppes/flerps-functional#readme) - Collection of the resources I've found most useful when exploring the world of functional programming.
+- [Effects bibliography](https://github.com/yallop/effects-bibliography) - Collaborative bibliography of work related to the theory and practice of computational effects.
+- [Flerp’s Guide to Functional Programming](https://github.com/jeppes/flerps-functional) - Collection of the resources I've found most useful when exploring the world of functional programming.
 - [George Wilson - The Extended Functor Family (2016)](https://www.youtube.com/watch?v=JZPXzJ5tp9w)
 - [Functional Programming for the Long Haul by Michael Snoyman (2019)](https://www.youtube.com/watch?v=DdR9q69se-I)
 - [Selective Applicative Functors](https://www.staff.ncl.ac.uk/andrey.mokhov/selective-functors.pdf) - Declare Your Effects Statically, Select Which to Execute Dynamically.
 - [What makes a function pure? (2018)](https://blog.kubukoz.com/what-makes-a-function-pure)
-- [Foundation of Functional Programming Course (2019)](https://github.com/julien-truffaut/fp-foundation#readme)
+- [Foundation of Functional Programming Course (2019)](https://github.com/julien-truffaut/fp-foundation)
 - [Theory of functional programming with Eric Normand (2019)](https://lispcast.com/theory-functional-programming-0003/)
 - [Applied Functional Programming Course](https://github.com/qfpl/applied-fp-course)
 - [Effects](https://github.com/stepchowfun/effects) - Brief exploration of the various approaches to modeling side effects in a purely functional programming language.
@@ -37,7 +37,7 @@
 - [The Science of Functional Programming book](https://github.com/winitzki/sofp/blob/master/sofp-src/sofp.pdf) ([HN](https://news.ycombinator.com/item?id=21093129))
 - [Foundation of functional programming course](https://github.com/fp-tower/foundation)
 - [Discrete Mathematics and Functional Programming book (2012)](http://cs.wheaton.edu/~tvandrun/dmfp/)
-- [TypeFunc](https://github.com/williamdemeo/TypeFunc#readme) - Resources for type theory, functional programming, etc.
+- [TypeFunc](https://github.com/williamdemeo/TypeFunc) - Resources for type theory, functional programming, etc.
 - [Functional Programming Course](https://github.com/tonymorris/fp-course) - Structured according to a linear progression and uses the Haskell programming language to learn programming concepts pertaining to functional programming.
 - [Structure and Decomposition of Computer Programs book (2019)](https://github.com/isovector/structure-and-decomposition-of-computer-programs)
 - [Speaker Interview with Edward Kmett (2019)](https://confengine.com/functional-conf-2019/speaker/interview/edward-kmett)
@@ -51,7 +51,7 @@
 - [Algebraic structures: things i wish someone had explained about functional programming (2019)](https://jrsinclair.com/articles/2019/algebraic-structures-what-i-wish-someone-had-explained-about-functional-programming/) ([HN](https://news.ycombinator.com/item?id=21440932))
 - [MLKit](https://github.com/melsman/mlkit) - Standard ML Compiler and Toolkit.
 - [ICFP 2019 preprints/papers](https://github.com/llelf/icfp2019-papers)
-- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon#readme)
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - [A Glossary of Functional Programming](http://degoes.net/articles/fp-glossary)
 - [Functional programming design patterns by Scott Wlaschin (2014)](https://www.youtube.com/watch?v=E8I19uA-wGY)
 - [PhD Abstracts for functional programming (2020)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F66CECFC31BDB7D2790F39DE25426EEA/S0956796819000200a.pdf/phd_abstracts.pdf)
@@ -60,7 +60,7 @@
 - [Recursion Scheme Talks](https://github.com/sellout/recursion-scheme-talk)
 - [Domain Modeling Made Functional - Scott Wlaschin (2017)](https://www.youtube.com/watch?v=Up7LcbGZFuo)
 - [The Implementation of Functional Programming Languages book (1987)](https://www.microsoft.com/en-us/research/uploads/prod/1987/01/slpj-book-1987-r90.pdf)
-- [Functional programming great resources](https://github.com/mmenestret/fp-resources#readme)
+- [Functional programming great resources](https://github.com/mmenestret/fp-resources)
 - [On the Expressive Power of Indexed Applicative and Monadic Structures (2018)](https://oxij.org/thesis/PhD/)
 - [Functional Programming for Domain-Specific Languages](http://www.cs.ox.ac.uk/jeremy.gibbons/publications/fp4dsls.pdf)
 - [Monads for functional programming](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf)

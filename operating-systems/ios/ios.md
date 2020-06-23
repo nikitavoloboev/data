@@ -1,6 +1,6 @@
 # iOS
 
-My [favorite mobile operating system](https://github.com/nikitavoloboev/my-ios#readme) mostly due to me not really trying anything else.
+My [favorite mobile operating system](https://github.com/nikitavoloboev/my-ios) mostly due to me not really trying anything else.
 
 I hope to release Learn Anything on iOS soon too. That would be quite cool.
 
@@ -69,11 +69,11 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS Dev Directory](https://iosdevdirectory.com/) - Comprehensive list of blogs & sites covering iOS development. ([Code](https://github.com/daveverwer/iOSDevDirectory))
 - [iOS Security paper](https://www.apple.com/business/docs/iOS_Security_Guide.pdf)
 - [iOS landing page](https://github.com/sindresorhus/ios-landing-page)
-- [iOS Developer roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap#readme)
+- [iOS Developer roadmap](https://github.com/BohdanOrlov/iOS-Developer-Roadmap)
 - [Peek](https://github.com/shaps80/Peek) - Inspect your iOS application at runtime.
 - [Unix / CLI / shell-like tools for iOS](http://maverick.inria.fr/Members/Nicolas.Holzschuch/ios_shell.html)
 - [iOS interview tips](http://martiancraft.com/blog/2016/10/interview-tips/)
-- [iOS Developer and Designer Interview Questions](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions#readme)
+- [iOS Developer and Designer Interview Questions](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions)
 - [Writing good bug reports](https://pspdfkit.com/blog/2016/writing-good-bug-reports/)
 - [iOS tips and tricks (2018)](https://www.reddit.com/r/apple/comments/8stuj6/ios_tips_and_tricks/)
 - [iOS Factor](https://ios-factor.com/) - Develop high quality iOS apps.
@@ -84,15 +84,15 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [FloatingPanel](https://github.com/SCENEE/FloatingPanel) - Clean and easy-to-use floating panel UI component for iOS.
 - [Flipper](https://github.com/facebook/flipper) - Desktop debugging platform for mobile developers.
 - [How I'd learn iOS Development](https://sandofskvy.com/blog/how-to-learn-ios-development.html)
-- [iOS resources](https://github.com/Ramshandilya/iOSRepo#readme) - List of resources & libraries for iOS and Swift.
+- [iOS resources](https://github.com/Ramshandilya/iOSRepo) - List of resources & libraries for iOS and Swift.
 - [Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side.
 - [HN: The iOS Menu (2019)](https://news.ycombinator.com/item?id=18830267)
-- [Secure iOS application development](https://github.com/felixgr/secure-ios-app-dev#readme)
+- [Secure iOS application development](https://github.com/felixgr/secure-ios-app-dev)
 - [My Must-Have iOS Apps, 2018 Edition](https://www.macstories.net/stories/my-must-have-ios-apps-2018-edition/)
 - [Bagel](https://github.com/yagiz/Bagel) - Little native network debugging tool for iOS.
 - [Nailing Your iOS Interview in Silicon Valley (2019)](https://medium.com/@bayareabelletrist/how-to-prepare-for-an-ios-interview-in-silicon-valley-85a009cf8a4)
 - [KIF iOS Integration Testing Framework](https://github.com/kif-framework/KIF) - iOS integration test framework.
-- [Collection of tools that an iOS developer should know](https://github.com/LeoMobileDeveloper/ios-developer-tools#readme)
+- [Collection of tools that an iOS developer should know](https://github.com/LeoMobileDeveloper/ios-developer-tools)
 - [isign](https://github.com/saucelabs/isign) - Code sign iOS applications, without proprietary Apple software or hardware.
 - [Rome](https://github.com/blender/Rome) - Cache tool for Carthage.
 - [iOSSnapshotTestCase](https://github.com/uber/ios-snapshot-test-case) - Snapshot view unit tests for iOS.
@@ -100,22 +100,22 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Comprehensive open-source iOS guides](https://guides.codepath.com/ios)
 - [Automatic App Landing Page](https://github.com/emilbaehr/automatic-app-landing-page) - Jekyll theme for automatically generating and deploying landing page sites for mobile apps.
 - [Reverse Engineering iOS Applications](https://github.com/ivRodriguezCA/RE-iOS-Apps) - Free, open source and online course about Reverse Engineering iOS Applications.
-- [Awesome iOS](https://github.com/vsouza/awesome-ios#readme)
+- [Awesome iOS](https://github.com/vsouza/awesome-ios)
 - [xctool](https://github.com/facebook/xctool) - Extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
 - [ios-architecture](https://github.com/tailec/ios-architecture) - Collection of iOS architectures - MVC, MVVM, MVVM+RxSwift, VIPER, RIBs and many others.
 - [Bugsnag exception reporter for iOS and macOS](https://github.com/bugsnag/bugsnag-cocoa) - Cocoa library automatically detects crashes and fatal signals in your iOS 8.0+, macOS 10.8+ and tvOS applications.
 - [Mirror of Apple's iOS samples](https://github.com/robovm/apple-ios-samples)
-- [iOS Hacking Resources](https://github.com/Siguza/ios-resources#readme)
+- [iOS Hacking Resources](https://github.com/Siguza/ios-resources)
 - [iOS Dev Jobs](https://iosdevjobs.com/) - Has newsletter too.
 - [WWDC 2019 notes (2019)](https://nshipster.com/wwdc-2019/)
-- [Machine Learning for iOS](https://github.com/alexsosn/iOS_ML#readme)
+- [Machine Learning for iOS](https://github.com/alexsosn/iOS_ML)
 - [WWDC 2019 - The Things You May Have Missed (2019)](https://patrickbalestra.com/blog/2019/06/07/wwdc-2019-the-things-you-may-have-missed.html)
 - [iOS 12.2 to 13.0 API Differences](http://codeworkshop.net/objc-diff/sdkdiffs/ios/13.0/)
 - [WWDC by Sundell](https://wwdcbysundell.com/) - Daily coverage of Apple’s WWDC 2019 conference, by John Sundell.
 - [iOS 13 Concept](https://www.behance.net/gallery/80675205/iOS-13-Concept-by-Alvaro-Pabesio?)
-- [WWDC 2019 Session Notes](https://github.com/Blackjacx/WWDC#readme)
+- [WWDC 2019 Session Notes](https://github.com/Blackjacx/WWDC)
 - [OSStatus](https://www.osstatus.com/) - Look up Apple API errors quickly.
-- [Babylon iOS Playbook](https://github.com/Babylonpartners/ios-playbook#readme)
+- [Babylon iOS Playbook](https://github.com/Babylonpartners/ios-playbook)
 - [Open-source jailbreaking tool for many iOS devices](https://github.com/axi0mX/ipwndfu)
 - [Texture](https://github.com/TextureGroup/Texture) - Smooth asynchronous user interfaces for iOS apps.
 - [iOS Goodies weekly newsletter](https://ios-goodies.com/) ([Source](https://github.com/iOS-Goodies/iOS-Goodies))
@@ -126,7 +126,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [native-run](https://github.com/ionic-team/native-run) - Cross-platform command-line utility for running native binaries on devices and simulators/emulators.
 - [Makeovr](http://www.makeovr.io/) - Cut "invisible icons" right out of your background, use them to push your other icons around, and do amazing things with your homescreen.
 - [Guilherme Rambo - Fluid animations and interactions on iOS apps (2020)](https://www.youtube.com/watch?v=89QkikrQvQE)
-- [Advanced debugging skills used in the iOS project development process](https://github.com/aozhimin/iOS-Debug-Hacks#readme)
+- [Advanced debugging skills used in the iOS project development process](https://github.com/aozhimin/iOS-Debug-Hacks)
 - [Testing Remote Push Notification in iOS simulator (2020)](https://sarunw.com/tips/testing-remote-push-notification-in-ios-simulator/)
 - [StatusBuddy](https://github.com/insidegui/StatusBuddy) - Keep track of Apple's developer and consumer system statuses right in your menu bar.
 - [Plug](https://github.com/s4cha/Plug) - Plug implementation details for a cleaner Architecture on iOS.
@@ -143,20 +143,20 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Core Data Lab](https://betamagic.nl/products/coredatalab.html) - View, analyze and track your Core Data app’s data.
 - [iOS bits and pieces that you can include in your project to make your life a bit easier](https://github.com/infinum/iOS-Nuts-And-Bolts)
 - [Poes](https://github.com/AvdLee/Poes) - Swift command-line tool to easily send push notifications to the iOS simulator.
-- [Better ways to structure iOS apps](https://github.com/onmyway133/fantastic-ios-architecture#readme)
-- [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps#readme)
-- [Curated list of awesome iOS UI/UX libraries](https://github.com/cjwirth/awesome-ios-ui#readme)
+- [Better ways to structure iOS apps](https://github.com/onmyway133/fantastic-ios-architecture)
+- [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)
+- [Curated list of awesome iOS UI/UX libraries](https://github.com/cjwirth/awesome-ios-ui)
 - [BitBot](https://github.com/deszip/BitBot) - Bitrise CI unofficial macOS client.
 - [How Spotify halved build times with just one script (2019)](https://labs.spotify.com/2019/10/23/when-in-rome-how-spotify-halved-build-times-with-just-one-script/)
 - [Scaling up an iOS Codebase • Tjeerd In't Veen (2020)](https://www.youtube.com/watch?v=n09omYo_QPk&list=PLEx5khR4g7PLHBVGOjNbevChU9DOL3Axj)
-- [Curated list of iOS interview questions and answers](https://github.com/onthecodepath/iOS-Interview-Questions#readme)
+- [Curated list of iOS interview questions and answers](https://github.com/onthecodepath/iOS-Interview-Questions)
 - [iOS Interview Questions and Answers for Senior Developers](https://www.tanaschita.com/posts/20190715-ios-interview-questions-and-answers-for-senior-developers-part-1/)
 - [Playbook iOS](https://github.com/playbook-ui/playbook-ios) - Library for isolated developing UI components and automatically snapshots of them.
 - [AppStoreConnect CLI](https://github.com/ittybittyapps/appstoreconnect-cli) - Easy to use command-line tool for interacting with the Apple AppStore Connect API.
 - [iOS Prototypes](https://twitter.com/i/events/1240479354192302081)
 - [Apple Continuity Protocol Reverse Engineering Project](https://github.com/furiousMAC/continuity)
 - [Sivire](https://github.com/MarioIannotta/Sivire) - Record video of your simulators from the mac menu bar.
-- [Neural Engine — what do we know about it](https://github.com/hollance/neural-engine#readme)
+- [Neural Engine — what do we know about it](https://github.com/hollance/neural-engine)
 - [Demo iOS application built to highlight MVP (Model View Presenter) and Clean Architecture concepts](https://github.com/FortechRomania/ios-mvp-clean-architecture)
 - [iOS Interview Questions for Senior Developers in 2020](https://medium.com/@alex_v_bush/ios-interview-questions-for-senior-developers-in-2020-6fffcf5d3c61)
 - [Inside iOS Dev](https://insideiosdev.com/) - Weekly show about real world iOS development.

@@ -33,7 +33,7 @@
 - [Size Limit](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 - [Jank Free](http://jankfree.org/) - Resources to make web silky smooth.
 - [Visualizing Performance with Flame Graphs (2017)](https://www.youtube.com/watch?v=D53T1Ejig1Q)
-- [Awesome performance testing collection](https://github.com/andriisoldatenko/awesome-performance-testing#readme)
+- [Awesome performance testing collection](https://github.com/andriisoldatenko/awesome-performance-testing)
 - [go-ycsb](https://github.com/pingcap/go-ycsb) - Go port of Yahoo! Cloud Serving Benchmark.
 - [List of functions which you can use to replace moment.js + ESLint Plugin](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 - [Meaningful Availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
@@ -53,7 +53,7 @@
 - [storybook-addon-performance](https://github.com/atlassian-labs/storybook-addon-performance) - Storybook addon to help better understand and debug performance for React components.
 - [The Tail At Scale - Jeff Dean (2013)](https://dl.acm.org/doi/abs/10.1145/2408776.2408794)
 - [Building This Website (2020)](https://joshbradley.me/building-this-website/)
-- [Performance Resources](https://github.com/mfleming/performance-resources#readme)
+- [Performance Resources](https://github.com/mfleming/performance-resources)
 - [PackWatch](https://github.com/mcataford/packwatch) - Keep an eye on your packages' footprint.
 - [Annie Sullivan - Understanding Cumulative Layout Shift (2020)](https://www.youtube.com/watch?v=zIJuY-JCjqw&list=PLSmH2HL6l9pwQmSgpKFtWiISOXua3zq8I&index=15&t=0s)
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action) - Audit URLs using Lighthouse and test performance with Lighthouse CI.

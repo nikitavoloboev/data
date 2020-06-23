@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook#readme) - Book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers.
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - Book for developers, although the first two chapters cover bitcoin at a level that is also approachable to non-programmers.
 - [Bitcoin for laypeople (2018)](https://mafinto.sh/blog/bitcoin-for-laypeople.html)
 - [The Stories We Tell About Money](https://www.youtube.com/watch?v=ONvg9SbauMg)
 - [Bitcoin: "Failing to Scale" - Prague 2016](https://www.youtube.com/watch?v=bFOFqNKKns0)
@@ -19,7 +19,7 @@
 - [Blockstream Satellite network](https://blockstream.com/satellite/) - Broadcasts the Bitcoin blockchain around the world 24/7 for free.
 - [Blockstream Satellite Receiver](https://github.com/Blockstream/satellite)
 - [State of Digital Assets: Keynote by Cathie Wood (2020)](https://www.youtube.com/watch?v=c50TMCKsktA&t=8s)
-- [SatoshiLabs Improvement Proposals](https://github.com/satoshilabs/slips#readme)
+- [SatoshiLabs Improvement Proposals](https://github.com/satoshilabs/slips)
 - [Polar](https://github.com/jamaljsr/polar) - One-click Bitcoin Lightning networks for local app development & testing.
 - [How we recovered over \$300K of Bitcoin](https://reperiendi.wordpress.com/2020/04/03/how-i-recovered-over-300k-of-bitcoin/) ([HN](https://news.ycombinator.com/item?id=22774057))
 - [MIT Bitcoin Expo 2020 - Bitcoin Core Devs Panel](https://www.youtube.com/watch?v=NKBjhSKxSi0)

@@ -12,6 +12,6 @@
 - [Logstash](https://github.com/elastic/logstash) - Transport and process your logs, events, or other data.
 - [Fluent Bit](https://github.com/fluent/fluent-bit) - Fast Log Processor and Forwarder for Linux, Embedded Linux, MacOS and BSD.
 - [GoAccess](https://github.com/allinurl/goaccess) - Real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
-- [StatsD Metrics Export Specification](https://github.com/b/statsd_spec#readme)
+- [StatsD Metrics Export Specification](https://github.com/b/statsd_spec)
 - [Loglizer](https://github.com/logpai/loglizer) - Machine learning-based log analysis toolkit for automated anomaly detection.
 - [DTXLoggingInfra](https://github.com/wix/DTXLoggingInfra) - Logging infrastructure for Apple platforms.

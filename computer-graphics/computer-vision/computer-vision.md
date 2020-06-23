@@ -15,7 +15,7 @@
 - [Roboflow](https://roboflow.ai/) - Accelerates computer vision development.
 - [PySlowFast](https://github.com/facebookresearch/SlowFast) - Open source video understanding codebase from FAIR that provides state-of-the-art video classification models.
 - [How to Convert a Picture to Numbers](https://brohrer.github.io/images_to_numbers.html)
-- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [The Ancient Secrets of Computer Vision (2018)](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)
 - [Variational Methods for Computer Vision lectures (2013)](https://www.youtube.com/watch?v=fpw26tpHGr8&list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI)
 - [Classy Vision](https://github.com/facebookresearch/ClassyVision) - New end-to-end, PyTorch-based framework for large-scale training of state-of-the-art image and video classification models.
@@ -26,11 +26,11 @@
 - [Point Cloud Library](https://github.com/PointCloudLibrary/pcl) - Standalone, large scale, open project for 2D/3D image and point cloud processing.
 - [Disappearing-People](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser. ([HN](https://news.ycombinator.com/item?id=22353596))
 - [Best Practices, code samples, and documentation for Computer Vision](https://github.com/microsoft/computervision-recipes)
-- [Computer Vision Basics in Microsoft Excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel#readme)
+- [Computer Vision Basics in Microsoft Excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel)
 - [PolyGen: An Autoregressive Generative Model of 3D Meshes (2020)](https://arxiv.org/abs/2002.10880)
 - [Sophus](https://github.com/strasdat/Sophus) - C++ implementation of Lie Groups using Eigen.
 - [SOLT](https://github.com/MIPT-Oulu/solt) - Streaming over lightweight data transformations.
-- [Awesome Interaction-aware Behavior and Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction#readme)
+- [Awesome Interaction-aware Behavior and Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
 - [SynSin: End-to-end View Synthesis from a Single Image (2020)](http://www.robots.ox.ac.uk/~ow/synsin.html) ([Code](https://github.com/facebookresearch/synsin))
 - [Pixel2Mesh](https://github.com/nywang16/Pixel2Mesh) - Generating 3D Mesh Models from Single RGB Images.
 - [First Order Motion Model for Image Animation](https://aliaksandrsiarohin.github.io/first-order-model-website/) ([Code](https://github.com/AliaksandrSiarohin/first-order-model))
@@ -45,7 +45,7 @@
 - [Interview with Dmytro Mushkin | Computer Vision Research | Kaggle, ML & Education (2020)](https://www.youtube.com/watch?v=lWwkbiufwNE)
 - [Pytorch code for ICLR-20 Paper "Learning to Explore using Active Neural SLAM"](https://github.com/devendrachaplot/Neural-SLAM)
 - [FaceTracker](https://github.com/kylemcdonald/FaceTracker) - Real time deformable face tracking in C++ with OpenCV 3.
-- [Awesome Super Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution#readme)
+- [Awesome Super Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)
 - [Adversarial Latent Autoencoders](https://github.com/podgorskiy/ALAE)
 - [ElasticFusion](https://github.com/mp3guy/ElasticFusion) - Real-time dense visual SLAM system capable of capturing comprehensive dense globally consistent surfel-based maps of room scale environments explored using an RGB-D camera.
 - [StegaStamp: Invisible Hyperlinks in Physical Photographs](https://github.com/tancik/StegaStamp)
@@ -70,7 +70,7 @@
 - [SRZoo](https://github.com/idearibosome/srzoo) - Integrated repository for super-resolution using deep learning.
 - [mAP (mean Average Precision)](https://github.com/Cartucho/mAP) - Evaluates the performance of your neural net for object recognition.
 - [Neural Pose Transfer by Spatially Adaptive Instance Normalization (2020)](https://github.com/jiashunwang/Neural-Pose-Transfer)
-- [Awesome Neural Rendering](https://github.com/weihaox/awesome-neural-rendering#readme)
+- [Awesome Neural Rendering](https://github.com/weihaox/awesome-neural-rendering)
 - [Learning To Classify Images Without Labels](https://github.com/wvangansbeke/Unsupervised-Classification)
 - [Deep Leakage From Gradients (2019)](https://github.com/mit-han-lab/dlg)
 - [3Dflow](https://www.3dflow.net/) - Offers customized computer vision software solutions.

@@ -21,7 +21,7 @@ Here are some things I am trying to improve with my health right now.
 - [Second Life: Rethinking Myself Through Exercise, Mindfulness, and Gratitude](https://www.macstories.net/stories/second-life/)
 - [Dr Rhonda Patrick How Your Diet, Exercise, and Even Hyperthermic Conditioning Can Change the Expression of Genes](https://www.youtube.com/watch?v=VjgMzS5b_QM)
 - [3 simple habits that can protect your brain from cognitive decline (2019)](https://www.fastcompany.com/90303904/3-tips-to-slowing-down-cognitive-decline) - Exercise, IF, sleep.
-- [Curated awesome health content for desk workers](https://github.com/evexoio/awesome-health#readme)
+- [Curated awesome health content for desk workers](https://github.com/evexoio/awesome-health)
 - [Roman](https://www.getroman.com/) - Digital health clinic for men.
 - [CarbonHealth](https://carbonhealth.com/) - Modern clinics. Smart, hassle-free care.
 - [Stress in Biomedical Research: Six Impossible Things (2010)](https://www.sciencedirect.com/science/article/pii/S1097276510007835)

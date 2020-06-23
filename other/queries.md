@@ -1,6 +1,6 @@
 # Queries
 
-Some web queries I use to keep on top of things. This page is parsed with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme).
+Some web queries I use to keep on top of things. This page is parsed with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 
 ## GitHub
 

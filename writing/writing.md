@@ -105,20 +105,20 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Learnup](https://leanpub.com/) - Service to publish books.
 - [TLDR of MailChimp's writing style guide](https://styleguide.mailchimp.com/tldr/)
 - [You Should Write Blogs](https://sites.google.com/site/steveyegge2/you-should-write-blogs)
-- [Awesome book authoring](https://github.com/TalAter/awesome-book-authoring#readme) - Collection of awesome resources for technical book authors.
+- [Awesome book authoring](https://github.com/TalAter/awesome-book-authoring) - Collection of awesome resources for technical book authors.
 - [HN: What Is The Morning Writing Effect? (2018)](https://news.ycombinator.com/item?id=18369337)
 - [On self-publishing “A Programmer’s Introduction to Mathematics” (2018)](https://medium.com/@jeremyjkun/on-self-publishing-a-programmers-introduction-to-mathematics-1472b7511c99)
 - [Write.as](https://write.as/) - Minimalist, privacy-focused, writing and publishing platform.
 - [Write Freely](https://writefreely.org/) - Open source platform for building a writing space on the web. ([Code](https://github.com/writeas/writefreely))
 - [Typegram](https://en.tgr.am/@recoilme/1) - [Open source](https://github.com/recoilme/tgram) publishing platform.
-- [Notes on writing well](https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md#readme)
+- [Notes on writing well](https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md)
 - [The Day You Became a Better Writer (2nd Look) (2015)](https://blog.dilbert.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/)
 - [Tips for Writing a Technical Book](https://performancejs.com/post/31b361c/13-Tips-for-Writing-a-Technical-Book) ([HN](https://news.ycombinator.com/item?id=20070558))
 - [Undervalued Software Engineering Skills: Writing Well (2019)](https://blog.pragmaticengineer.com/on-writing-well/) ([HN](https://news.ycombinator.com/item?id=20061078))
 - [Writing is Thinking: Learning to Write with Confidence (2019)](https://blog.stephsmith.io/learning-to-write-with-confidence/) ([HN](https://news.ycombinator.com/item?id=21172686))
 - [Cut out everything that’s not surprising (2019)](https://sivers.org/d22)
 - [How to write a technical paper](https://homes.cs.washington.edu/~mernst/advice/write-technical-paper.html)
-- [Production Guide](https://github.com/RacheltheEditor/ProductionGuide#readme) - Practical explanation of formatting and style conventions that should be consistent across Guides.
+- [Production Guide](https://github.com/RacheltheEditor/ProductionGuide) - Practical explanation of formatting and style conventions that should be consistent across Guides.
 - [Amazon writing tips](https://pbs.twimg.com/media/EMb7mTRVAAELtUk?format=jpg&name=medium)
 - [Left](https://github.com/hundredrabbits/Left) - Distractionless Writing Tool.
 - [Notes on Technical Writing (2020)](https://mkaz.blog/misc/notes-on-technical-writing/) ([HN](https://news.ycombinator.com/item?id=21955306))
@@ -145,7 +145,7 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [2020 Pulitzer Prize Winners](https://www.pulitzer.org/news/announcement-2020-pulitzer-prize-winners) ([HN](https://news.ycombinator.com/item?id=23072690))
 - [Encouraging a Culture of Written Communication (2020)](https://www.mcls.io/blog/encouraging-a-culture-of-written-communication) ([HN](https://news.ycombinator.com/item?id=23141353))
 - [Writing for Software Developers](https://philipkiely.com/wfsd/) ([HN](https://news.ycombinator.com/item?id=23153469))
-- [Collection of materials relating to technical writing](https://github.com/sixhobbits/technical-writing#readme)
+- [Collection of materials relating to technical writing](https://github.com/sixhobbits/technical-writing)
 - [The power of proposals](https://highgrowthengineering.substack.com/p/the-power-of-proposals-)
 - [How I write (2020)](https://thesephist.com/posts/how-i-write/)
 - [Text as an interface (2020)](https://thesephist.com/posts/text/)

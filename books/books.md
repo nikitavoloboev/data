@@ -187,14 +187,14 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 
 ## Links
 
-- [Awesome books](https://github.com/learn-anything/books#readme)
+- [Awesome books](https://github.com/learn-anything/books)
 - [Ask HN: How do you read programming books?](https://news.ycombinator.com/item?id=15733745)
 - [Ask HN: 2018 Summer Reading List?](https://news.ycombinator.com/item?id=17513576)
 - [Thinking with Types LaTeX source](https://github.com/isovector/thinking-with-types) - Original source material for Thinking with Types: Type-Level Programming in Haskell book.
 - [Scribd](https://www.scribd.com/) - Books, audiobooks, and more for a fixed fee / month.
 - [Science Fiction, Fantasy & Horror Sub-Genres](http://www.worldswithoutend.com/resources_sub-genres.asp)
 - [Ask HN: What books changed the way you think about almost everything? (2019)](https://news.ycombinator.com/item?id=19087418)
-- [Awesome Programming Books](https://github.com/majikarp/awesome-programming-books#readme)
+- [Awesome Programming Books](https://github.com/majikarp/awesome-programming-books)
 - [Libby](https://meet.libbyapp.com/) - Local library of thousands of ebooks and audiobooks.
 - [Why books don’t work (2019)](https://andymatuschak.org/books/)
 - [BookBrowser](https://github.com/geek1011/BookBrowser) - Easy-to-use tool to generate a web-based ePub and PDF ebook browser.
@@ -225,7 +225,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Most book clubs are doing it wrong (2017)](http://jsomers.net/blog/book-clubs) ([HN](https://news.ycombinator.com/item?id=23292749))
 - [Antilibrary](https://www.antilibrari.es/) - Space both for celebrating all sorts of amazing books, and exploring more broadly the idea of learning from the unknown.
 - [Hello, EPUB (2020)](https://wooorm.com/blog/hello-epub/) - Intro to the format.
-- [On Books](https://github.com/jlevy/on-books#readme) - Collection of readings and notes on the past, present, and future of books.
+- [On Books](https://github.com/jlevy/on-books) - Collection of readings and notes on the past, present, and future of books.
 - [I won't buy ebooks anymore (2020)](https://dustri.org/b/i-wont-buy-ebooks-anymore.html) ([HN](https://news.ycombinator.com/item?id=23310430)) ([Lobsters](https://lobste.rs/s/znjrtl/i_won_t_buy_ebooks_anymore))
 - [ZLibrary](https://b-ok.cc/) - Electronic library. Download books free.
 - [Reading habits that changed my life (2020)](https://medium.com/@manjotpahwa/10-reading-habits-that-changed-my-life-5c7673bc34bc) ([HN](https://news.ycombinator.com/item?id=23308931))

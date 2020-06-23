@@ -12,7 +12,7 @@ And here are Chrome extensions I use:
 
 ## Links
 
-- [Awesome Chrome Extensions](https://github.com/learn-anything/chrome-extensions#readme)
+- [Awesome Chrome Extensions](https://github.com/learn-anything/chrome-extensions)
 - [Some chrome extensions to use](https://news.ycombinator.com/item?id=15696056)
 - [Rendertron](https://github.com/GoogleChrome/rendertron) - Headless Chrome rendering solution.
 - [Chrome Launcher](https://github.com/GoogleChrome/chrome-launcher) - Launch Google Chrome with ease from node.

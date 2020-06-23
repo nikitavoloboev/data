@@ -10,16 +10,16 @@
 - [Lobsters: What’s your container-less deployment process? (2019)](https://lobste.rs/s/xov7nz/what_s_your_container_less_deployment)
 - [A developer goes to a DevOps conference (2019)](https://www.darkcoding.net/software/a-developer-goes-to-a-devops-conference/) ([HN](https://news.ycombinator.com/item?id=21100970))
 - [Deploy your side-projects at scale for basically nothing - Google Cloud Run (2020)](https://alexolivier.me/posts/deploy-container-stateless-cheap-google-cloud-run-serverless) ([HN](https://news.ycombinator.com/item?id=22027459))
-- [DevOps Questions & Exercises](https://github.com/bregman-arie/devops-exercises#readme)
+- [DevOps Questions & Exercises](https://github.com/bregman-arie/devops-exercises)
 - [Ops Lessons We All Learn The Hard Way (2020)](https://www.netmeister.org/blog/ops-lessons.html)
 - [Juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.
-- [Book Recommendations for the Infrastructure Engineer](https://github.com/stack72/ops-books#readme)
+- [Book Recommendations for the Infrastructure Engineer](https://github.com/stack72/ops-books)
 - [Ask HN: How do you make sure your servers are up as a single founder? (2020)](https://news.ycombinator.com/item?id=21461617)
 - [CTO.ai](https://cto.ai/) - Allows you and your software development team to implement DevOps automations in minutes rather than days.
 - [Deploys at Slack (2020)](https://slack.engineering/deploys-at-slack-cd0d28c61701)
 - [We Need DevOps for ML Data (2020)](https://tecton.ai/blog/devops-ml-data/) ([HN](https://news.ycombinator.com/item?id=23011297))
-- [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline#readme) - Curated list of awesome pipeline toolkits inspired by Awesome Sysadmin.
-- [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin#readme) - Curated list of awesome open source sysadmin resources.
+- [Awesome Pipeline](https://github.com/pditommaso/awesome-pipeline) - Curated list of awesome pipeline toolkits inspired by Awesome Sysadmin.
+- [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin) - Curated list of awesome open source sysadmin resources.
 - [Using SRE to meet reliability challenges | Google Cloud (2020)](https://cloud.google.com/blog/products/management-tools/meeting-reliability-challenges-with-sre-principles)
 - [Gruntwork](https://gruntwork.io/) - DevOps as a Service.
 - [pyinfra](https://github.com/Fizzadar/pyinfra) - Automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more. ([HN](https://news.ycombinator.com/item?id=23487178))

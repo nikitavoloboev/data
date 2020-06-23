@@ -6,7 +6,7 @@
 - [Introduction to kdb+ and q lectures](https://www.youtube.com/watch?v=8eoysfqO3UY)
 - [Kona](https://github.com/kevinlawler/kona) - Open-source implementation of the K programming language.
 - [Fintan Quill: Kdb+ featured at Carnegie Mellon Time Series Database Lectures (2017)](https://www.youtube.com/watch?v=Dy0SjrT3tB4)
-- [k crash course](https://github.com/kparc/kcc#readme)
+- [k crash course](https://github.com/kparc/kcc)
 - [no stinking loops](http://nsl.com/)
 - [k origins history](https://kparc.io/)
 - [iKe: a browser-based sandbox for K](http://johnearnest.github.io/ok/ike/ike.html) ([HN](https://news.ycombinator.com/item?id=21886380))

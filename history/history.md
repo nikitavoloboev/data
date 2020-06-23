@@ -26,7 +26,7 @@
 - [Hardcore History Podcast](https://www.dancarlin.com/hardcore-history-series/) ([Overcast](https://overcast.fm/itunes173001861/dan-carlins-hardcore-history))
 - [10 math history books](https://wiki.ezvid.com/best-history-of-mathematics-books)
 - [NASA history books](https://history.nasa.gov/books_sort_SP.html)
-- [Awesome Computer History](https://github.com/watson/awesome-computer-history#readme)
+- [Awesome Computer History](https://github.com/watson/awesome-computer-history)
 - [Computer History Museum videos](https://www.youtube.com/user/ComputerHistory/videos)
 - [Designing and programming computers history](https://www.bl.uk/voices-of-science/themes/designing-and-programming-computers)
 - [Vintage Byte Magazine Library](https://vintageapple.org/byte/) - Captures the history of the entire personal computer industry from the early days (Sept 1975) through July 1998.
@@ -34,7 +34,7 @@
 - [Archive Today](http://archive.vn/) - Time capsule for web pages.
 - [Ask HN: What are some great posts or articles about history of computing? (2020)](https://news.ycombinator.com/item?id=22907211)
 - [What We Can Learn From Software History](https://www.deconstructconf.com/2019/hillel-wayne-what-we-can-learn-from-software-history)
-- [Set of links related to computer & code history](https://github.com/v3ga/computer_history#readme)
+- [Set of links related to computer & code history](https://github.com/v3ga/computer_history)
 - [PastVu](https://pastvu.com/) - Retro view of mankind's habitat.
 - [Ask HN: What website, from your early days on the net, do you miss? (2020)](https://news.ycombinator.com/item?id=22981491)
 - [World History Crash Course](https://www.youtube.com/playlist?list=PLBDA2E52FB1EF80C9)

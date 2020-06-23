@@ -113,9 +113,9 @@
 
 ## Links
 
-- [Awesome React Components](https://github.com/brillout/awesome-react-components#readme)
+- [Awesome React Components](https://github.com/brillout/awesome-react-components)
 - [create-react-library](https://github.com/transitive-bullshit/create-react-library) - CLI for easily publishing modern React libraries with Rollup and example usage via create-react-app.
-- [Awesome React Render Props](https://github.com/jaredpalmer/awesome-react-render-props#readme) - Awesome list of React components with render props.
+- [Awesome React Render Props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props.
 - [Better Reusable React Components with the Overrides Pattern (2018)](https://medium.com/@dschnr/better-reusable-react-components-with-the-overrides-pattern-9eca2339f646)
 - [React Cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components.
 - [Uibook](https://github.com/vrizo/uibook) - Lightweight tool for React components visual testing with media queries.

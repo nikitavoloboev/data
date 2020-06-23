@@ -9,4 +9,4 @@
 
 ## Links
 
-- [Awesome Xcode extensions](https://github.com/theswiftdev/awesome-xcode-extensions#readme)
+- [Awesome Xcode extensions](https://github.com/theswiftdev/awesome-xcode-extensions)

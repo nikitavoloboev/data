@@ -3,7 +3,7 @@
 ## Links
 
 - [Haskell to WebAssembly](https://github.com/tweag/asterius)
-- [Awesome compilers](https://github.com/aalhour/awesome-compilers#readme)
+- [Awesome compilers](https://github.com/aalhour/awesome-compilers)
 - [Compiler Optimization examples](http://compileroptimizations.com/)
 - [Compiler Explorer](https://godbolt.org) - Run compilers interactively from your web browser and interact with the assembly.
 - [ShivyC](https://github.com/ShivamSarodia/ShivyC) - C compiler created in Python.
@@ -11,7 +11,7 @@
 - [Introduction to Compilers](https://github.com/ahoppen/introduction-to-compilers) - Swift Playground giving an overview over the inner workings of modern compilers.
 - [ccache](https://github.com/ccache/ccache) - Fast compiler cache.
 - [Starlark in Go](https://github.com/google/starlark-go) - The Starlark configuration language, implemented in Go.
-- [Modern CMake Examples](https://github.com/pr0g/cmake-examples#readme)
+- [Modern CMake Examples](https://github.com/pr0g/cmake-examples)
 - [sccache](https://github.com/mozilla/sccache) - Shared Compilation Cache.
 - [Compilers: Principles, Techniques, and Tools book (1986)](https://www.goodreads.com/book/show/703102.Compilers)
 - [Short overview of "C--"](https://www.cs.tufts.edu/~nr/c--/index.html)
@@ -42,8 +42,8 @@
 - [dino](https://github.com/sunjay/dino) - Compiler / PL Experimentation in Rust.
 - [Advanced Compilers course (2019)](https://www.cs.cornell.edu/courses/cs6120/2019fa/)
 - [GRIN](https://github.com/grin-compiler/grin) - Compiler back-end for lazy and strict functional languages with whole program optimization support. ([Website](https://grin-compiler.github.io/))
-- [Compiler Writing Journey](https://github.com/DoctorWkt/acwj#readme)
-- [Listing of compiler, language and runtime teams for people looking for jobs in this area](https://github.com/mgaudet/CompilerJobs#readme)
+- [Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
+- [Listing of compiler, language and runtime teams for people looking for jobs in this area](https://github.com/mgaudet/CompilerJobs)
 - [Basics of Compiler Design](httwp://hjemmesider.diku.dk/~torbenm/Basics/basics_lulu2.pdf) ([HN](https://news.ycombinator.com/item?id=21778546))
 - [Computer Language Engineering course (2019)](https://github.com/6035/fa19)
 - [MazuCC](https://github.com/jserv/MazuCC) - Minimalist C compiler with x86_64 code generation.
@@ -97,6 +97,6 @@
 - [Nand2Tetris Hack assembler implemented in Rust](https://github.com/tamuhey/hack-assembler-rust) ([HN](https://news.ycombinator.com/item?id=23412434))
 - [Let's make a Teeny Tiny compiler (2020)](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html) ([HN](https://news.ycombinator.com/item?id=23441767))
 - [PPCI](https://github.com/windelbouwman/ppci) - Compiler for ARM, X86, MSP430, xtensa and more implemented in pure Python.
-- [Awesome JIT](https://github.com/wdv4758h/awesome-jit#readme)
+- [Awesome JIT](https://github.com/wdv4758h/awesome-jit)
 - [ELVM](https://github.com/shinh/elvm) - Similar to LLVM but dedicated to Esoteric Languages.
 - [An Intro to Compilers (2017)](https://nicoleorchard.com/blog/compilers) - How to Speak to Computers. ([HN](https://news.ycombinator.com/item?id=23582280))

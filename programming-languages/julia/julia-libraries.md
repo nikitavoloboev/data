@@ -77,6 +77,6 @@
 ## Links
 
 - [Julia Observer](https://juliaobserver.com/)
-- [Curated decibans of Julia programming language](https://github.com/svaksha/Julia.jl#readme)
+- [Curated decibans of Julia programming language](https://github.com/svaksha/Julia.jl)
 - [Some State of the Art Packages in Julia v1.0 (2018)](http://www.stochasticlifestyle.com/some-state-of-the-art-packages-in-julia-v1-0/)
 - [PackagePage.jl](https://github.com/tlienart/PackagePage.jl) - Create a webpage for your package in minutes.

@@ -6,7 +6,7 @@ I have not taken many MOOCs so far but one I did take and quite liked was [Learn
 
 ## Links
 
-- [Awesome courses](https://github.com/learn-anything/courses#readme)
+- [Awesome courses](https://github.com/learn-anything/courses)
 - [Has some great courses](http://computing.dcu.ie/~humphrys/)
 - [hn.academy](https://hn.academy/) - Collects, ranks, and showcases the online courses recommended by Hacker News users.
 - [Class Central](https://www.classcentral.com/) - Search online courses.

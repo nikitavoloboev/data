@@ -6,9 +6,9 @@
 - [RL Adventure](https://github.com/higgsfield/RL-Adventure)
 - [PyTorch template project](https://github.com/victoresque/pytorch-template)
 - [PyTorch GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
-- [PyTorch examples](https://github.com/pytorch/examples#readme)
-- [Grokking PyTorch](https://github.com/Kaixhin/grokking-pytorch#readme)
-- [Awesome PyTorch list](https://github.com/bharathgs/Awesome-pytorch-list#readme)
+- [PyTorch examples](https://github.com/pytorch/examples)
+- [Grokking PyTorch](https://github.com/Kaixhin/grokking-pytorch)
+- [Awesome PyTorch list](https://github.com/bharathgs/Awesome-pytorch-list)
 - [OCaml PyTorch](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
 - [Apex](https://github.com/NVIDIA/apex) - PyTorch Extension: Tools for easy mixed precision and distributed training in PyTorch.
 - [Translate](https://github.com/pytorch/translate) - PyTorch Language Library.
@@ -19,7 +19,7 @@
 - [tch-rs](https://github.com/LaurentMazare/tch-rs) - Rust bindings for PyTorch.
 - [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric) - Geometric deep learning extension library for PyTorch.
 - [BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch) - Contains code for 4-8 GPU training of BigGANs from Large Scale GAN Training for High Fidelity Natural Image Synthesis.
-- [Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch#readme) - Curated list of tutorials, papers, projects, communities and more relating to PyTorch.
+- [Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch) - Curated list of tutorials, papers, projects, communities and more relating to PyTorch.
 - [NimTorch](https://github.com/fragcolor-xyz/nimtorch) - Nim frontend for pytorch, aiming to be mostly auto-generated and internally using ATen.
 - [PyTorch adds new dev tools as it hits production scale (2019)](https://ai.facebook.com/blog/pytorch-adds-new-dev-tools-as-it-hits-production-scale/)
 - [PyTorch tutorials demonstrating modern techniques with readable code](https://github.com/spro/practical-pytorch)
@@ -83,7 +83,7 @@
 - [Fast AutoAugment](https://github.com/kakaobrain/fast-autoaugment) - Official Implementation of 'Fast AutoAugment' in PyTorch.
 - [Rethinking the Value of Network Pruning](https://github.com/Eric-mingjie/rethinking-network-pruning)
 - [PyTorch Metric Learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
-- [Deep Tutorials for PyTorch](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch#readme)
+- [Deep Tutorials for PyTorch](https://github.com/sgrvinod/Deep-Tutorials-for-PyTorch)
 - [Matchbox](https://github.com/salesforce/matchbox) - Enables deep learning researchers to write PyTorch code at the level of individual examples, then run it efficiently on minibatches.
 - [torchtext](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP.
 - [Relational Networks](https://github.com/kimhc6028/relational-networks) - PyTorch implementation of "A simple neural network module for relational reasoning".
@@ -112,7 +112,7 @@
 - [PyContrast](https://github.com/HobbitLong/PyContrast) - PyTorch implementation of Contrastive Learning methods.
 - [PyVacy](https://github.com/ChrisWaites/pyvacy) - Differentially Private Optimization Algorithms for PyTorch.
 - [Gaussian mixture models in PyTorch](https://github.com/ldeecke/gmm-torch)
-- [Effective PyTorch](https://github.com/vahidk/EffectivePyTorch#readme) - PyTorch tutorials and best practices.
+- [Effective PyTorch](https://github.com/vahidk/EffectivePyTorch) - PyTorch tutorials and best practices.
 - [PyTorch for Numpy Users](https://pytorch-for-numpy-users.wkentaro.com/) ([Code](https://github.com/wkentaro/pytorch-for-numpy-users))
 - [PyTorch implementation of Fully Convolutional Networks](https://github.com/wkentaro/pytorch-fcn)
 - [Lite Transformer with Long-Short Range Attention](https://github.com/mit-han-lab/lite-transformer)

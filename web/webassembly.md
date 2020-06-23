@@ -8,7 +8,7 @@
 - [Dan Callahan: Practical WebAssembly](https://www.youtube.com/watch?v=bac0dGQbUto)
 - [WebAssembly Spec](https://github.com/WebAssembly/spec/)
 - [WebAssembly Demystified](http://floooh.github.io/2017/06/09/webassembly-demystified.html)
-- [Life](https://github.com/perlin-network/life#readme) - Secure WebAssembly VM catered for decentralized applications.
+- [Life](https://github.com/perlin-network/life) - Secure WebAssembly VM catered for decentralized applications.
 - [Calls between JavaScript and WebAssembly are finally fast](https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/)
 - [Wasmer](https://github.com/WAFoundation/wasmer) - High-Performance WebAssembly JIT interpreter.
 - [wac](https://github.com/kanaka/wac) - WebAssembly in C.
@@ -38,7 +38,7 @@
 - [go-web-app](https://github.com/talentlessguy/go-web-app) - CLI for setting up Go WebAssembly frontend app.
 - [WABT](https://github.com/WebAssembly/wabt) - WebAssembly Binary Toolkit.
 - [RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak](https://www.youtube.com/watch?v=lLzFJenzBng)
-- [WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes#readme)
+- [WebAssembly Runtimes](https://github.com/appcypher/awesome-wasm-runtimes)
 - [WAVM](https://github.com/AndrewScheidecker/WAVM) - WebAssembly Virtual Machine. Uses LLVM to compile WebAssembly code to machine code with close to native performance.
 - [Lobsters: Why WebAssembly is not more mainstream? (2019)](https://lobste.rs/s/pmdcpu/why_webassembly_is_not_more_mainstream)
 - [2015 LLVM Developers’ Meeting: Jf Bastien & Dan Gohman “WebAssembly: Here Be Dragons"](https://www.youtube.com/watch?v=5W7NkofUtAw)
@@ -51,7 +51,7 @@
 - [How to create polyglot HTML/JS/WebAssembly module](https://webassembly-security.com/polyglot-webassembly-module-html-js-wasm/)
 - [Patrick Hamann | WebAssembly – To the browser and beyond (2019)](https://www.youtube.com/watch?v=Z6ZhIA8i_8g) ([Slides](https://noti.st/patrickhamann/uEw4zt/webassembly-to-the-browser-and-beyond))
 - [wasmboy](https://github.com/torch2424/wasmboy) - Game Boy / Game Boy Color Emulator Library, 🎮written for WebAssembly using AssemblyScript.
-- [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs#readme)
+- [Awesome WebAssembly Languages](https://github.com/appcypher/awesome-wasm-langs)
 - [WASM as a Platform for Abstraction (2019)](http://adventures.michaelfbryan.com/posts/wasm-as-a-platform-for-abstraction/) ([HN](https://news.ycombinator.com/item?id=21794438))
 - [Making really tiny WebAssembly graphics demos (2019)](http://cliffle.com/blog/bare-metal-wasm/)
 - [WASM Metal](https://github.com/lastmjs/wasm-metal) - Bare metal physical implementation of WebAssembly. That's right, a WebAssembly CPU.

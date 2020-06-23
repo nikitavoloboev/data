@@ -2,4 +2,4 @@
 
 ## Links
 
-- [Awesome Linters](https://github.com/caramelomartins/awesome-linters#readme)
+- [Awesome Linters](https://github.com/caramelomartins/awesome-linters)

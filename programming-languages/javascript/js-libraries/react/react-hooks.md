@@ -61,12 +61,12 @@
 
 ## Links
 
-- [Awesome React Hooks Resources](https://github.com/rehooks/awesome-react-hooks#readme)
+- [Awesome React Hooks Resources](https://github.com/rehooks/awesome-react-hooks)
 - [RFC: React Hooks](https://github.com/reactjs/rfcs/pull/68#issuecomment-439314884) - Great discussion on React Hooks proposal.
-- [Flowchart that explains the new lifecycle of a Hooks component](https://github.com/donavon/hook-flow#readme)
+- [Flowchart that explains the new lifecycle of a Hooks component](https://github.com/donavon/hook-flow)
 - [React Loops](https://github.com/leebyron/react-loops) - Work alongside React Hooks as part of the novel React Velcro architecture for building sticky, secure user interfaces that don't come apart under pressure.
 - [Fun with React Hooks - Michael Jackson and Ryan Florence (2019)](https://www.youtube.com/watch?v=1jWS7cCuUXw)
-- [Awesome React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme)
+- [Awesome React Hooks](https://github.com/glauberfc/awesome-react-hooks)
 - [Handling Large-Scale State-Management with Context and Hooks by Roy Derks (2019)](https://www.youtube.com/watch?v=GxjDRjpoMJg)
 - [How to implement useState with useReducer (2019)](https://kentcdodds.com/blog/how-to-implement-usestate-with-usereducer)
 - [React's useEffect and useRef Explained for Mortals (2019)](https://leewarrick.com/blog/react-use-effect-explained/)

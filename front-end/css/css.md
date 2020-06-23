@@ -34,7 +34,7 @@
 - [Pesticide](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bblbgcheenepgnnajgfpiicnbbdmmooh) - Kill your CSS layout bugs. ([Code](https://github.com/mrmrs/pesticide))
 - [Spectre](https://github.com/picturepan2/spectre) - Lightweight, Responsive and Modern CSS Framework.
 - [Tachyons](https://github.com/tachyons-css/tachyons) - Functional CSS for humans.
-- [CSS Animation 101](https://github.com/cssanimation/css-animation-101#readme)
+- [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
 - [Understanding static and relative positioning](https://webplatform.github.io/docs/tutorials/static_and_relative_positioning/)
 - [Tailwind utility-first CSS framework](https://tailwindcss.com/docs/what-is-tailwind/)
 - [CSStype](https://github.com/frenic/csstype) - Strict TypeScript and Flow types for style based on MDN data.
@@ -86,7 +86,7 @@
 - [MDN CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 - [Smooth CSS shadows generator](https://brumm.af/shadows)
 - [CSS Layout](https://csslayout.io/patterns) - Collection of popular layouts and patterns made with CSS. ([Code](https://github.com/phuoc-ng/csslayout))
-- [CSS Protips](https://github.com/AllThingsSmitty/css-protips#readme) - Collection of tips to help take your CSS skills pro.
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips) - Collection of tips to help take your CSS skills pro.
 - [Focus Overlay](https://github.com/mmahandev/FocusOverlay) - Library for creating animated overlays on focused elements.
 - [Six Questions to Understand the CSS Box Model (2017)](https://medium.com/launch-school/https-medium-com-dembasiby-understanding-the-css-box-model-b005a82593a6)
 - [High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/)
@@ -140,7 +140,7 @@
 - [A Single Div](https://a.singlediv.com/) - CSS drawings with only one HTML element. ([Code](https://github.com/lynnandtonic/a-single-div))
 - [CSSWG meeting minutes](https://lists.w3.org/Archives/Public/www-style/)
 - [new.css](https://newcss.net/) - Classless CSS framework to write modern websites using only HTML. ([Code](https://github.com/xz/new.css)) ([HN](https://news.ycombinator.com/item?id=23220081)) ([Night Theme](https://newcss.net/theme/night/))
-- [CSS Refresher Notes](https://github.com/vasanthk/css-refresher-notes#readme)
+- [CSS Refresher Notes](https://github.com/vasanthk/css-refresher-notes)
 - [Destyle.css](https://nicolas-cusan.github.io/destyle.css/) - Opinionated reset stylesheet that provides a clean slate for styling your html. ([Code](https://github.com/nicolas-cusan/destyle.css))
 - [Fast Browser Animations (2020)](https://mguida.com/blog/fast-browser-animations/)
 - [Digital nesting](https://github.com/devonzuegel/digital-nesting) - Devon's collection of custom CSS.
@@ -158,7 +158,7 @@
 - [SelectorGadget](https://selectorgadget.com/) - Point and click CSS selectors. ([Code](https://github.com/cantino/selectorgadget))
 - [The Mad Magazine Fold-In Effect in CSS (2020)](https://thomaspark.co/2020/06/the-mad-magazine-fold-in-effect-in-css/) ([HN](https://news.ycombinator.com/item?id=23457930))
 - [CUBE CSS (2020)](https://piccalil.li/blog/cube-css/) - CSS methodology oriented towards simplicity and consistency with a heavy dosage of pragmatism.
-- [Awesome CSS Variables](https://github.com/notoriousb1t/awesome-css-variables#readme)
+- [Awesome CSS Variables](https://github.com/notoriousb1t/awesome-css-variables)
 - [Critical-ish CSS Extraction (2020)](https://giuseppegurgone.com/critical-css-extraction/)
 - [7 CSS properties I had no idea about (2020)](https://dev.to/tlakomy/7-css-properties-you-had-no-idea-about-4e75)
 - [concrete.css](https://github.com/louismerlin/concrete.css) - Simple and to the point CSS microframework. ([Web](https://concrete.style/))

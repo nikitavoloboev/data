@@ -96,7 +96,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Axiom](https://axiom.co/) - Store and query unlimited machine data.
 - [Paddle](https://paddle.com) - Checkout, subscriptions, licenses, promotions and analytics that work well together.
 - [Git.io](https://git.io/) - URL shortener by GitHub.
-- [Sourcegraph](https://github.com/sourcegraph/sourcegraph#readme) - Code search and intelligence, self-hosted and scalable.
+- [Sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code search and intelligence, self-hosted and scalable.
 - [Tinybird](https://www.tinybird.co/) - Helps data teams deliver real-time answers faster and at scale.
 - [Observable](https://beta.observablehq.com/) - Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration.
 - [Visualization of Google's autocomplete](https://anvaka.github.io/vs)
@@ -211,7 +211,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Deepsource](https://deepsource.io/) - Detect bug risks, anti-patterns and security vulnerabilities before they end up in production. For Python and Go.
 - [Redirector Server with Google Sheets](https://github.com/ahmetb/serverless-url-shortener) - Simple short URL redirect service built on top of Google Sheets, and runs for cheap on Google Cloud Run serverless.
 - [Spotify TUI](https://github.com/Rigellute/spotify-tui) - Spotify client for the terminal written in Rust.
-- [List of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev#readme)
+- [List of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
 - [Open Policy Agent](https://github.com/open-policy-agent/opa) - Open source, general-purpose policy engine.
 - [Findka](https://findka.com/) - Recommends content you might like based on data from other users with similar preferences. ([HN](https://news.ycombinator.com/item?id=23541840))
 - [n8n](https://github.com/n8n-io/n8n) - Workflow Automation Tool.
@@ -293,8 +293,8 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Hacker Tools](https://hacker-tools.github.io/) - Make the most of the tools that hackers have been using for decades.
 - [The Developer's Toolbox 2018](https://medium.com/mobile-quality/the-developers-toolbox-daaaa875081e)
 - [Seeking the Productive Life: Some Details of My Personal Infrastructure (2019)](https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) ([HN](https://news.ycombinator.com/item?id=19220889))
-- [Awesome Uses Page](https://github.com/wesbos/awesome-uses#readme) - List of /uses pages that detail apps and gear used by professional web developers.
-- [Handy lookup table of similar technology and services to help ex-googlers survive the real world](https://github.com/jhuangtw-dev/xg2xg#readme)
+- [Awesome Uses Page](https://github.com/wesbos/awesome-uses) - List of /uses pages that detail apps and gear used by professional web developers.
+- [Handy lookup table of similar technology and services to help ex-googlers survive the real world](https://github.com/jhuangtw-dev/xg2xg)
 - [Ask HN: What overlooked class of tools should a self-taught programmer look into (2019)](https://news.ycombinator.com/item?id=19900955)
 - [The Arc of Collaboration (2019)](https://kwokchain.com/2019/08/16/the-arc-of-collaboration/)
 - [Dev.to tech/tools used](https://docs.dev.to/technical-overview/)
@@ -305,7 +305,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [My Favorite Tools (2020)](https://gedd.ski/post/favorite-tools/)
 - [Open source, experimental, and tiny tools roundup](http://everest-pipkin.com/teaching/tools.html) - List of smaller tools that might be useful in building your game/website/interactive project.
 - [Ask HN: What are your favorite low-coding apps / tools as a developer? (2020)](https://news.ycombinator.com/item?id=22786853)
-- [Awesome-no-code-tools](https://github.com/ElijT/Awesome-no-code-tools#readme)
+- [Awesome-no-code-tools](https://github.com/ElijT/Awesome-no-code-tools)
 - [Ask HN: Programs that saved you 100 hours? (2020)](https://news.ycombinator.com/item?id=22849208)
 - [Lobsters: How does your current dev workflow looks like (2020)](https://lobste.rs/s/qi5dmk/how_does_your_current_dev_workflow_looks)
 - [Lobsters: Tools that made you productive or saved you time (2020)](https://lobste.rs/s/lg2cmt/tools_made_you_productive_saved_you_time)

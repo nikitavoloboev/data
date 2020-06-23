@@ -39,8 +39,8 @@
 - [Haskell Programming From First Principles - Follow-up Resources](https://github.com/pushcx/hpffp-resources) ([Solutions](https://github.com/Anton-Latukha/Haskell-Programming-From-First-Principles))
 - [Quchen's articles](https://github.com/quchen/articles)
 - [Haskell Design Patterns?](https://www.reddit.com/r/haskell/comments/5r271m/haskell_design_patterns/)
-- [Haskell companies](https://github.com/erkmos/haskell-companies#readme) - Curated list of companies using Haskell in industry.
-- [Snack](https://github.com/nmattia/snack#readme) - Nix-based incremental build tool for Haskell projects.
+- [Haskell companies](https://github.com/erkmos/haskell-companies) - Curated list of companies using Haskell in industry.
+- [Snack](https://github.com/nmattia/snack) - Nix-based incremental build tool for Haskell projects.
 - [What exactly makes the Haskell type system so revered (vs say, Java)?](https://softwareengineering.stackexchange.com/questions/279316/what-exactly-makes-the-haskell-type-system-so-revered-vs-say-java)
 - [HN: Introducing Haskell to a Company](https://news.ycombinator.com/item?id=18118874)
 - [Haskell's kind system - a primer](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
@@ -51,16 +51,16 @@
 - [Haskell Source Extensions](https://github.com/haskell-suite/haskell-src-exts) - Package for handling and manipulating Haskell source code.
 - [Hedgehog](https://github.com/hedgehogqa/haskell-hedgehog) - Modern property-based testing system, in the spirit of QuickCheck.
 - [Haskeleton: a Haskell project skeleton](http://taylor.fausak.me/2014/03/04/haskeleton-a-haskell-project-skeleton/)
-- [Haskell ITMO course at CTDHaskell ITMO course at CTD](https://github.com/jagajaga/FP-Course-ITMO#readme)
+- [Haskell ITMO course at CTDHaskell ITMO course at CTD](https://github.com/jagajaga/FP-Course-ITMO)
 - [Google's Haskell training: 101 and 102](https://github.com/google/haskell-trainings)
 - [brittany](https://github.com/lspitzner/brittany) - Haskell source code formatter.
 - [Stack](https://github.com/commercialhaskell/stack) - Cross-platform program for developing Haskell projects.
-- [List of Foundational Haskell Papers](https://github.com/cohomolo-gy/haskell-resources#readme)
+- [List of Foundational Haskell Papers](https://github.com/cohomolo-gy/haskell-resources)
 - [hpack](https://github.com/sol/hpack) - Modern format for Haskell packages.
 - [Haskell Code Explorer](https://github.com/alexwl/haskell-code-explorer) - Web application for exploring and understanding Haskell codebases.
 - [static-haskell-nix](https://github.com/nh2/static-haskell-nix) - Easily build most Haskell programs into fully static Linux executables.
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
-- [Real World Haskell updated to 2019](https://github.com/tssm/up-to-date-real-world-haskell#readme)
+- [Real World Haskell updated to 2019](https://github.com/tssm/up-to-date-real-world-haskell)
 - [Higher-order Type-level Programming in Haskell (2019)](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/ho-haskell-5c8bb4918a4de.pdf) ([HN](https://news.ycombinator.com/item?id=19412667))
 - [Why Haskell?](https://github.com/github/semantic/blob/master/docs/why-haskell.md)
 - [Property-Based Testing in a Screencast Editor: Introduction (2019)](https://wickstrom.tech/programming/2019/03/02/property-based-testing-in-a-screencast-editor-introduction.html)
@@ -118,11 +118,11 @@
 - [Let's Get Dangerous](https://www.reddit.com/r/haskell/comments/epkn0z/lets_get_dangerous/) ([Reddit](https://www.reddit.com/r/haskell/comments/epkn0z/lets_get_dangerous/))
 - [Functional Programming in Haskell (Stepik course notes) (2020)](https://hmemcpy.com/2020/01/functional-programming-in-haskell-stepik-course-notes-module-1/)
 - [Haskell Problems For a New Decade (2020)](http://www.stephendiehl.com/posts/decade.html) ([HN](https://news.ycombinator.com/item?id=22137120))
-- [Haskell performance checklist](https://github.com/haskell-perf/checklist#readme)
+- [Haskell performance checklist](https://github.com/haskell-perf/checklist)
 - [Setting up a Haskell development environment in minutes in Visual Studio Code (2020)](https://hmemcpy.com/2020/02/setting-up-a-haskell-development-environment-in-minutes-in-vscode/) ([Lobsters](https://lobste.rs/s/b1tltx/setting_up_haskell_development))
 - [Lessons learned from writing ShellCheck, GitHub’s now most starred Haskell project (2020)](https://www.vidarholen.net/contents/blog/?p=859) ([HN](https://news.ycombinator.com/item?id=22279585))
 - [What I wish I knew when learning Haskell](http://dev.stephendiehl.com/hask/) ([Code](https://github.com/sdiehl/wiwinwlh)) ([HN](https://news.ycombinator.com/item?id=22840211))
-- [Awesome Haskell Deep Learning](https://github.com/austinvhuang/awesome-haskell-deep-learning#readme)
+- [Awesome Haskell Deep Learning](https://github.com/austinvhuang/awesome-haskell-deep-learning)
 - [Haskell Profile Highlight](https://github.com/Petrosz007/haskell-profile-highlight) - Color highlighting for Haskell profiling information.
 - [Story told by Type Errors](https://kodimensional.dev/type-errors)
 - [API design notes](https://gist.github.com/Gabriel439/563fa662f84e0a845c79775756cfce78) ([Video](https://www.twitch.tv/videos/581490043))
@@ -131,11 +131,11 @@
 - [Lessons in Managing Haskell Memory (2020)](https://tech.channable.com/posts/2020-04-07-lessons-in-managing-haskell-memory.html)
 - [Building a web app with functional programming - Haskell (2020)](https://blog.patchgirl.io/haskell/2020/03/08/haskell-part-I.html)
 - [haskell-language-server](https://github.com/haskell/haskell-language-server) - Integration point for ghcide and haskell-ide-engine. One IDE to rule them all.
-- [Why Haskell Matters](https://github.com/thma/WhyHaskellMatters#readme)
+- [Why Haskell Matters](https://github.com/thma/WhyHaskellMatters)
 - [Fast Fibonacci numbers using Monoids (2020)](http://www.haskellforall.com/2020/04/blazing-fast-fibonacci-numbers-using.html) ([HN](https://news.ycombinator.com/item?id=22946710))
 - [Permissive, then restrictive: learning how to design Haskell programs (2020)](https://williamyaoh.com/posts/2020-04-19-permissive-vs-restrictive.html)
 - [10 Reasons to Use Haskell (2020)](https://serokell.io/blog/10-reasons-to-use-haskell) ([Lobsters](https://lobste.rs/s/afq4js/10_reasons_use_haskell))
-- [Haskell Study Plan](https://github.com/soupi/haskell-study-plan#readme)
+- [Haskell Study Plan](https://github.com/soupi/haskell-study-plan)
 - [Examples of Incorrect Abstractions in Other Languages (2020)](https://www.reddit.com/r/haskell/comments/glz389/examples_of_incorrect_abstractions_in_other/) ([Lobsters](https://lobste.rs/s/ky2fu3/examples_incorrect_abstractions_non))
 - [Haskell Platform](https://github.com/haskell/haskell-platform) - Combination of the GHC compiler and core libraries, plus additional tools and libraries covering a range of common programming tasks.
 - [Stan](https://github.com/kowainik/stan) - Haskell static analyser.

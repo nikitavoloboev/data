@@ -6,13 +6,13 @@
 
 ## Links
 
-- [HTTPS-PORTAL](https://github.com/SteveLTN/https-portal#readme) - Fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
+- [HTTPS-PORTAL](https://github.com/SteveLTN/https-portal) - Fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 - [Nginx configuration generator](https://github.com/valentinxxx/nginxconfig.io)
 - [Nginx Quick Reference](https://github.com/trimstray/nginx-quick-reference) ([HN](https://news.ycombinator.com/item?id=19112090)) - Notes describes how to improve Nginx performance, security and other important things.
 - [Alphabetical index of nginx directives](http://nginx.org/en/docs/dirindex.html)
 - [Nginx source code](https://github.com/nginx/nginx)
 - [GIXY](https://github.com/yandex/gixy) - Tool to analyze Nginx configuration. The main goal of Gixy is to prevent security misconfiguration and automate flaw detection.
-- [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook#readme) - How to improve NGINX performance, security, and other important things.
+- [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 - [NGINX Wiki](https://www.nginx.com/resources/wiki/) ([Code](https://github.com/nginxinc/nginx-wiki))
 - [Manage Nginx upstreams in pure Lua](https://github.com/upyun/lua-resty-checkups)
 - [Prometheus metric library for Nginx](https://github.com/knyar/nginx-lua-prometheus)

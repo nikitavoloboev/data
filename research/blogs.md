@@ -51,7 +51,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 
 ## Links
 
-- [Awesome Blogs](https://github.com/learn-anything/blogs#readme)
+- [Awesome Blogs](https://github.com/learn-anything/blogs)
 - [Many awesome blogs](https://lobste.rs/s/hrxdoq/what_s_url_your_technical_blog)
 - [Write on your own website (2019)](http://bradfrost.com/blog/post/write-on-your-own-website/)
 - [Overengineering a Blog](https://blog.andrewbran.ch/overengineering-a-blog/)
@@ -63,9 +63,9 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Rust blog source](https://github.com/rust-lang/blog.rust-lang.org)
 - [Ask HN: What are the niche blogs (like gwern) that worthwhile to follow? (2020)](https://news.ycombinator.com/item?id=21928170)
 - [Your own hosted blog, the easy, free, open way (even if you're not a computer expert) (2020)](https://www.fast.ai/2020/01/16/fast_template/) ([Tweet](https://twitter.com/jeremyphoward/status/1217909025259442176))
-- [Awesome Personal Blogs](https://github.com/jkup/awesome-personal-blogs#readme)
+- [Awesome Personal Blogs](https://github.com/jkup/awesome-personal-blogs)
 - [Ask HN: What are good solo developer blogs that you enjoy reading? (2020)](https://news.ycombinator.com/item?id=22273224)
-- [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
+- [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/) ([HN](https://news.ycombinator.com/item?id=22544688))
 - [Get off Medium and onto the JAMstack](https://www.stackbit.com/medium/)
 - [Ask HN: What is your blog and why should I read it? (2020)](https://news.ycombinator.com/item?id=22800136)

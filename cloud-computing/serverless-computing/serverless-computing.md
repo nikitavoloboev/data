@@ -16,7 +16,7 @@
 - [Fly runtime](https://github.com/superfly/fly) - Open source Javascript environment built to run Edge Applications. It gives developers powerful caching, content modification, and routing tools.
 - [Security Overview of AWS Lambda (2019)](https://d1.awsstatic.com/whitepapers/Overview-AWS-Lambda-Security.pdf)
 - [Rust, WebAssembly, and the future of Serverless by Steve Klabnik (2019)](https://www.youtube.com/watch?v=CMB6AlE1QuI&list=PLe9psSNJBf74yYiVXDXz8UnRnWf3NHzS-&index=16)
-- [Awesome Zeit](https://github.com/zeit/awesome-zeit#readme)
+- [Awesome Zeit](https://github.com/zeit/awesome-zeit)
 - [Fastly's new serverless compute environment gives you more power at the edge (2019)](https://www.fastly.com/blog/join-the-beta-new-serverless-compute-environment-at-the-edge)
 - [Serverless handbook for front end engineers](https://serverlesshandbook.dev/)
 - [Coding on the Edge – John Graham Cumming (2018)](https://www.youtube.com/watch?v=Ydu9qVUjh4Q)
@@ -44,7 +44,7 @@
 - [Faasm](https://github.com/lsds/Faasm) - High-performance stateful serverless runtime.
 - [What a typical serverless architecture looks like in AWS (2020)](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb) ([HN](https://news.ycombinator.com/item?id=23274668))
 - [Serverless vs traditional app architecture diagram](https://twitter.com/tucker_dev/status/1265035142336180225)
-- [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq#readme)
+- [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
 - [leaderboard-app](https://github.com/alexellis/leaderboard-app) - GitHub leaderboard for your organisation or repo (Serverless SPA).
 - [Webiny](https://github.com/webiny/webiny-js) - Platform for building serverless applications and API (Node.js, React, GraphQL). ([Web](https://www.webiny.com/))
 - [The rise of embarrassingly parallel serverless compute (2020)](https://davidwells.io/blog/rise-of-embarrassingly-parallel-serverless-compute)

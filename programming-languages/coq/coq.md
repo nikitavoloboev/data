@@ -23,8 +23,8 @@
 - [PeaCoq](https://github.com/Ptival/PeaCoq) - Web-based front-end to the Coq proof assistant.
 - [Kami](https://github.com/mit-plv/kami) - Platform for High-Level Parametric Hardware Specification and its Modular Verification.
 - [Lean versus Coq: The cultural chasm](https://artagnon.com/articles/leancoq#main)
-- [Awesome Coq](https://github.com/uhub/awesome-coq#readme)
-- [Awesome Coq 2](https://github.com/coq-community/awesome-coq#readme)
+- [Awesome Coq](https://github.com/uhub/awesome-coq)
+- [Awesome Coq 2](https://github.com/coq-community/awesome-coq)
 - [coq-of-ocaml](https://github.com/clarus/coq-of-ocaml) - Import OCaml programs to Coq.
 - [Poleiro](http://poleiro.info/) - Blog about Coq. ([Code](https://github.com/arthuraa/poleiro))
 - [Coq'Art](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book.

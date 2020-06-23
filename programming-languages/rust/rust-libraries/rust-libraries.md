@@ -275,7 +275,7 @@
 - [CXX](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++.
 - [Duct](https://github.com/oconnor663/duct.rs) - Rust library for shelling out and making pipelines.
 - [crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust.
-- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs) - Rust bindings to wgpu native library. ([Awesome](https://github.com/rofrol/awesome-wgpu-rs#readme))
+- [wgpu-rs](https://github.com/gfx-rs/wgpu-rs) - Rust bindings to wgpu native library. ([Awesome](https://github.com/rofrol/awesome-wgpu-rs))
 - [rio](https://github.com/spacejam/rio) - Pure rust io_uring library, built on libc, thread & async friendly, misuse resistant.
 - [dashmap](https://github.com/xacrimon/dashmap) - Blazing fast concurrent HashMap for Rust.
 - [Interact](https://github.com/interact-rs/interact) - Framework for friendly online introspection of the running program state in an intuitive command-line interactive way.
@@ -449,7 +449,7 @@
 - [Docs.rs](https://docs.rs/) - Search rust packages. ([Code](https://github.com/rust-lang/docs.rs))
 - [Some more rust packages](https://github.com/yoshuawuyts/knowledge/blob/dd5cbf2d68bb85fa2e150a607b3267c2d36bc37b/computers/rust/packages.md)
 - [Curated list of Rust code and resources that do NOT exist yet, but would be beneficial to the Rust community](https://github.com/not-yet-awesome-rust/not-yet-awesome-rust)
-- [Crates that don't exist, but should](https://github.com/dtolnay/request-for-implementation#readme)
+- [Crates that don't exist, but should](https://github.com/dtolnay/request-for-implementation)
 - [Aelve Rust packages search](https://codesearch.aelve.com/rust) - Grep over package repositories.
 - [Overview of Rust error handling libraries (2019)](https://blog.yoshuawuyts.com/error-handling-survey/) ([HN](https://news.ycombinator.com/item?id=21606221))
 - [Quickly generate Dash docsets for third-party Rust crates](https://github.com/cmyr/rust-dash-docset-gen)

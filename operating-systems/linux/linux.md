@@ -40,10 +40,10 @@
 - [The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE)
 - [Ricing Resources](https://rizonrice.github.io/resources)
 - [HN: Linux: IO without entering the kernel (2018)](https://news.ycombinator.com/item?id=18692376)
-- [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide#readme)
+- [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide)
 - [libfuse](https://github.com/libfuse/libfuse) - Reference implementation of the Linux FUSE (Filesystem in Userspace) interface.
 - [Darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux. ([Web](http://darlinghq.org/)) ([HN](https://news.ycombinator.com/item?id=22700365))
-- [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#readme)
+- [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 - [State of Linux on the MacBook Pro](https://github.com/Dunedan/mbp-2016-linux)
 - [Sampling CPU profiler for Linux similar to perf](https://github.com/nokia/not-perf)
 - [If you wanted to go from zero to Linux kernel hacker, what route would you take? (2019)](https://lobste.rs/s/b5clu3/if_you_wanted_go_from_zero_linux_kernel)
@@ -58,7 +58,7 @@
 - [What's the best approach to learn Linux and its internals? (2019)](https://lobste.rs/s/8qhpaa/what_s_best_approach_learn_linux_its)
 - [htop explained](https://peteris.rocks/blog/htop/) - Explanation of everything you can see in htop/top on Linux.
 - [BPF Compiler Collection (BCC)](https://github.com/iovisor/bcc) - Tools for BPF-based Linux IO analysis, networking, monitoring, and more.
-- [Linux Kernel Defence Map](https://github.com/a13xp0p0v/linux-kernel-defence-map#readme)
+- [Linux Kernel Defence Map](https://github.com/a13xp0p0v/linux-kernel-defence-map)
 - [RustyBox](https://github.com/samuela/rustybox) - Free-range, non-GMO fork of busybox in 100% Rust. ([HN](https://news.ycombinator.com/item?id=21539815))
 - [Linux Systems Performance (2019)](https://www.usenix.org/conference/lisa19/presentation/gregg-linux) ([Lobsters](https://lobste.rs/s/udnu1m/linux_systems_performance))
 - [fscrypt](https://github.com/google/fscrypt) - Go tool for managing Linux filesystem encryption.
@@ -123,7 +123,7 @@
 - [Linux Security Hardening and Other Tweaks (2020)](https://vez.mrsk.me/linux-hardening.html)
 - [Main Linux problems on the desktop (2020 edition)](https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html) ([Lobsters](https://lobste.rs/s/hjigep/main_linux_problems_on_desktop_2020)) ([HN](https://news.ycombinator.com/item?id=23368115))
 - [ktrl](https://github.com/ItayGarin/ktrl) - Linux keyboard programming daemon. It aims to aid you in the never-ending quest of achieving the ultimate keybinding setup.
-- [Compilation of Linux server benchmarking scripts](https://github.com/haydenjames/bench-scripts#readme)
+- [Compilation of Linux server benchmarking scripts](https://github.com/haydenjames/bench-scripts)
 - [Why I Use Suckless Tools (2020)](https://christine.website/blog/why-i-use-suckless-tools-2020-06-05) ([Lobsters](https://lobste.rs/s/kpuj8p/why_i_use_suckless_tools)) ([HN](https://news.ycombinator.com/item?id=23438510))
 - [RTLinux](https://wiki.linuxfoundation.org/realtime/start) - Hard realtime real-time operating system microkernel that runs the entire Linux operating system as a fully preemptive process.
 - [Running Linux on my Macbook (2020)](https://djhworld.github.io/post/2020/06/07/running-linux-on-my-macbook/) ([HN](https://news.ycombinator.com/item?id=23453586))

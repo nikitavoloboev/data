@@ -5,14 +5,14 @@
 - [TensorFlow examples](https://github.com/aymericdamien/TensorFlow-Examples)
 - [Swift for TensorFlow](https://github.com/tensorflow/swift)
 - [TensorFlow & OpenAI Gym Tutorial: Behavioral Cloning!](https://www.youtube.com/watch?v=0rsrDOXsSeM)
-- [Classifying Text with Neural Networks and TensorFlow](https://github.com/dmesquita/understanding_tensorflow_nn#readme)
+- [Classifying Text with Neural Networks and TensorFlow](https://github.com/dmesquita/understanding_tensorflow_nn)
 - [Deep Learning 2: Introduction to TensorFlow](https://www.youtube.com/watch?v=JO0LwmIlWw0)
 - [Tensorpack](https://github.com/tensorpack/tensorpack) - Neural Net Training Interface on TensorFlow.
 - [StyleGAN](https://github.com/NVlabs/stylegan) - Official TensorFlow Implementation.
 - [Ludwig](https://github.com/uber/ludwig) - Toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
 - [Pre-trained TensorFlow.js models](https://github.com/tensorflow/tfjs-models)
 - [TensorFlow Privacy](https://github.com/tensorflow/privacy) - Python library that includes implementations of TensorFlow optimizers for training machine learning models with differential privacy.
-- [Easy-TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow#readme) - Simple and comprehensive tutorials in TensorFlow.
+- [Easy-TensorFlow](https://github.com/easy-tensorflow/easy-tensorflow) - Simple and comprehensive tutorials in TensorFlow.
 - [TensorFlow Graphics](https://github.com/tensorflow/graphics)
 - [Blocksparse](https://github.com/openai/blocksparse) - Efficient GPU kernels for block-sparse matrix multiplication and convolution.
 - [TensorFlow.js converter](https://github.com/tensorflow/tfjs-converter) - Convert TensorFlow SavedModel and Keras models to TensorFlow.js.
@@ -40,7 +40,7 @@
 - [TensorFlow Profiler](https://github.com/tensorflow/profiler) - Profiling and performance analysis tool for TensorFlow.
 - [TFRT: A New TensorFlow Runtime](https://github.com/tensorflow/runtime)
 - [Farewell, TensorFlow (2020)](https://mrry.github.io/2020/05/10/farewell-tensorflow.html) ([Twitter](https://twitter.com/ericjang11/status/1259882911282556928))
-- [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow#readme) - TensorFlow tutorials and best practices.
+- [Effective TensorFlow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
 - [TensorFlow.js](https://github.com/tensorflow/tfjs) - WebGL accelerated JavaScript library for training and deploying ML models. ([Web](https://www.tensorflow.org/js/)) ([HN](https://news.ycombinator.com/item?id=23453308))
 - [TensorFlow benchmarks](https://github.com/tensorflow/benchmarks) - Contains various TensorFlow benchmarks.
 - [Deep Learning Tutorials with Tensorflow](https://github.com/xiaohu2015/DeepLearning_tutorials)

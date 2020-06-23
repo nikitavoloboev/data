@@ -37,12 +37,12 @@
 - [Remote work starter guide for employees: how to adjust to work-from-home](https://about.gitlab.com/company/culture/all-remote/remote-work-starter-guide/)
 - [Holloway Guide to Remote Work](https://www.holloway.com/g/remote-work/about) - Comprehensive Guide to building, managing, and adapting to working with distributed teams.
 - [Remote work wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
-- [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork#readme)
+- [Awesome Remote Work](https://github.com/hugo53/awesome-RemoteWork)
 - [Homenauts – Resources for explorers who stay at home during Covid-19](https://www.homenauts.com/) ([HN](https://news.ycombinator.com/item?id=22679663))
 - [Our list of free software for remote work](https://puri.sm/posts/our-essential-list-of-free-software-for-remote-work/) ([HN](https://news.ycombinator.com/item?id=22698299))
-- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job#readme)
+- [Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 - [Remote Work - a guide to ensuring quality video conferencing (2020)](https://dev.to/stripe/remote-work-a-guide-to-ensuring-quality-video-conferencing-55fi)
-- [Established remote companies](https://github.com/yanirs/established-remote#readme)
+- [Established remote companies](https://github.com/yanirs/established-remote)
 - [Pangian](https://pangian.com/) - Find the best curated & verified remote jobs at reputable companies.
 - [HN: Half of American workers would rather work from home forever (2020)](https://news.ycombinator.com/item?id=22864827)
 - [Nomad Tips](https://tinyletter.com/nomadtips) - Mailing list for sharing tips and resources for digital nomads. ([Code](https://github.com/georgemandis/remote-working-list))

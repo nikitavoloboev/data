@@ -12,7 +12,7 @@
 - [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data.
 - [Tools I recommend for building Geospatial Web Applications (2019)](https://medium.com/swlh/tools-i-recommend-for-building-geospatial-web-applications-274d6939536c)
 - [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
-- [Awesome implementations of the Mapbox Vector Tile specification](https://github.com/mapbox/awesome-vector-tiles#readme)
+- [Awesome implementations of the Mapbox Vector Tile specification](https://github.com/mapbox/awesome-vector-tiles)
 - [GeoMesa](https://github.com/locationtech/geomesa) - Suite of tools for working with big geo-spatial data in a distributed fashion.
 - [Maputnik](https://github.com/maputnik/editor) - Open source visual editor for the 'Mapbox Style Specification'.
 - [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial data visualization analysis framework.

@@ -4,7 +4,7 @@
 
 - [Introduction to Node.js](https://nodejs.dev/)
 - [Original presentation by Ryan Dahl on node.js](https://www.youtube.com/watch?v=ztspvPYybIY)
-- [Node best practices](https://github.com/i0natan/nodebestpractices#readme)
+- [Node best practices](https://github.com/i0natan/nodebestpractices)
 - [Supercharge your debugging experience for Node.js](https://medium.com/@wesharehoodies/supercharge-your-debugging-experience-for-node-js-3f0ddfaffbb2)
 - [ndb](https://github.com/trending) - Improved debugging experience for Node.js, enabled by Chrome DevTools.
 - [What is the Node way?](http://thenodeway.io/introduction)
@@ -25,7 +25,7 @@
 - [Marble.js](https://github.com/marblejs/marble) - Functional reactive HTTP framework built on top of Node.js platform, TypeScript and RxJS.
 - [Nest](https://github.com/nestjs/nest) - Progressive Node.js framework for building efficient and scalable server-side applications, heavily inspired by Angular. ([Website](https://nestjs.com/))
 - [Asynchronous Programming Library](https://github.com/metarhia/metasync) - Library of Asynchronous Programming Abstractions.
-- [Curated list of awesome developer tools for writing cross-platform Node.js code](https://github.com/bcoe/awesome-cross-platform-nodejs#readme)
+- [Curated list of awesome developer tools for writing cross-platform Node.js code](https://github.com/bcoe/awesome-cross-platform-nodejs)
 - [Simple Git](https://github.com/steveukx/git-js) - Light weight interface for running git commands in any node.js application.
 - [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly.
 - [Debugging in 2017 with Node.js](https://www.youtube.com/watch?v=Xb_0awoShR8)
@@ -56,12 +56,12 @@
 - [relative-deps](https://github.com/mweststrate/relative-deps) - Installs local dependencies for optimal developer experience.
 - [Pug](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for NodeJS.
 - [Nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js.
-- [Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices#readme)
+- [Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices)
 - [vm2](https://github.com/patriksimek/vm2) - Advanced vm/sandbox for Node.js.
 - [mock-fs](https://github.com/tschaub/mock-fs) - Allows Node's built-in fs module to be backed temporarily by an in-memory, mock file system.
 - [http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - One-liner node.js http-proxy middleware for connect, express and browser-sync.
 - [ThreadBox](https://github.com/sinclairzx81/threadbox) - Recursive Worker Threads in NodeJS.
-- [Helpful libraries and resources for building Node.js CLIs](https://github.com/sw-yx/cli-cheatsheet#readme)
+- [Helpful libraries and resources for building Node.js CLIs](https://github.com/sw-yx/cli-cheatsheet)
 - [Node.js Backend Architecture Typescript Project](https://github.com/afteracademy/nodejs-backend-architecture-typescript)
 - [react-blessed](https://github.com/Yomguithereal/react-blessed) - React custom renderer for the blessed library.
 - [v8-compile-cache](https://github.com/zertosh/v8-compile-cache) - Require hook for automatic V8 compile cache persistence.
@@ -71,9 +71,9 @@
 - [Official Docker Image for Node.js](https://github.com/nodejs/docker-node)
 - [Learn ES Modules in Node with Myles Borins (2020)](https://www.youtube.com/watch?v=qeCncjPWD1A)
 - [Node File Trace](https://github.com/zeit/node-file-trace) - Determine exactly which files (including node_modules) are necessary for the application runtime.
-- [Awesome npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme)
+- [Awesome npm scripts](https://github.com/RyanZim/awesome-npm-scripts)
 - [Emma](https://github.com/maticzav/emma-cli) - Terminal assistant to find and install node packages.
-- [v8-perf](https://github.com/thlorenz/v8-perf#readme) - Notes and resources related to V8 and thus Node.js performance.
+- [v8-perf](https://github.com/thlorenz/v8-perf) - Notes and resources related to V8 and thus Node.js performance.
 - [VSCode Language Server - Node](https://github.com/microsoft/vscode-languageserver-node)
 - [tslog](https://github.com/fullstack-build/tslog) - Beautiful logging experience for Node.js with TypeScript support.
 - [Objection.js](https://github.com/Vincit/objection.js) - SQL-friendly ORM for Node.js.

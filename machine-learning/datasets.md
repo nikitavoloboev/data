@@ -11,7 +11,7 @@
 - [Facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets.
 - [skdata](https://github.com/jaberg/skdata) - Data sets for machine learning in Python.
 - [TensorFlow Datasets](https://github.com/tensorflow/datasets) - Collection of datasets ready to use with TensorFlow.
-- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [LORIS](https://github.com/aces/Loris) - Web-accessible database solution for longitudinal multi-site studies.
 - [ProteinNet](https://github.com/aqlaboratory/proteinnet) - Standardized data set for machine learning of protein structure.
 - [Registry of Open Data on AWS](https://registry.opendata.aws/)
@@ -34,6 +34,6 @@
 - [Announcing Artifacts (2020)](https://medium.com/@shawnup/announcing-artifacts-a7f680b6afd6)
 - [DataHub](https://datahub.io/) - Provide various solutions to Publish and Deploy your Data with power and simplicity.
 - [Core Data](https://datahub.io/docs/core-data) - Important, commonly-used data as high quality, easy-to-use & open data packages. ([Code](https://github.com/datasets))
-- [Awesome collections on DataHub](https://github.com/datasets/awesome-data#readme)
+- [Awesome collections on DataHub](https://github.com/datasets/awesome-data)
 - [Label Studio](https://labelstud.io/) - Multi-type data labeling and annotation tool with standardized output format. ([Code](https://github.com/heartexlabs/label-studio))
 - [Heartex](https://www.heartex.ai/) - Data Management Platform for Machine Learning.

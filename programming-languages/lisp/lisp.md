@@ -9,8 +9,8 @@
 ## Links
 
 - [Racket documentation](file:///Users/nikivi/Library/Racket/6.10/doc/index.html)
-- [Lisp-like DSL for Rust language](https://github.com/JunSuzukiJapan/macro-lisp#readme)
-- [Carp](https://github.com/carp-lang/Carp#readme) - Statically typed lisp, without a GC, for real-time applications.
+- [Lisp-like DSL for Rust language](https://github.com/JunSuzukiJapan/macro-lisp)
+- [Carp](https://github.com/carp-lang/Carp) - Statically typed lisp, without a GC, for real-time applications.
 - [How Lisp Became God's Own Programming Language](https://twobithistory.org/2018/10/14/lisp.html) ([HN](https://news.ycombinator.com/item?id=18225870)) ([HN 2](https://news.ycombinator.com/item?id=23163596))
 - [ELS 2018 Keynote: This Old Lisp](https://www.youtube.com/watch?v=MgVuqPgKJQc)
 - [Parinfer](https://github.com/shaunlebron/parinfer) - Let's simplify the way we write Lisp.
@@ -31,7 +31,7 @@
 - [Bel](http://paulgraham.com/bel.html) - Spec for a new dialect of Lisp, written in itself. ([HN](https://news.ycombinator.com/item?id=21231208))
 - [Let Over Lambda -- 50 Years of Lisp book](https://letoverlambda.com/)
 - [William Byrd on "The Most Beautiful Program Ever Written" (2017)](https://www.youtube.com/watch?v=OyfBQmvr2Hc)
-- [Awesome Lisp Languages](https://github.com/dundalek/awesome-lisp-languages#readme)
+- [Awesome Lisp Languages](https://github.com/dundalek/awesome-lisp-languages)
 - [Programming Algorithms book: Dynamic Programming](http://lisp-univ-etc.blogspot.com/2019/12/programming-algorithms-dp.html)
 - [LISP programmer's manual (1960)](http://history.siam.org/sup/Fox_1960_LISP.pdf)
 - [femto](https://github.com/peeley/femto) - Minimal Lisp interpreter in Haskell.
@@ -47,7 +47,7 @@
 - [hy](https://github.com/hylang/hy) - Dialect of Lisp that's embedded in Python.
 - [Simple lisp interpreter written from scratch in TS](https://github.com/christianscott/lisp)
 - [Why is Lisp not as popular as Python? (2020)](https://lobste.rs/s/f0rlcw/why_is_lisp_not_as_popular_as_python)
-- [Janet](https://janet-lang.org/) - Lightweight, expressive and modern Lisp. ([HN](https://news.ycombinator.com/item?id=23164614)) ([Code](https://github.com/janet-lang/janet)) ([Awesome](https://github.com/ahungry/awesome-janet#readme))
+- [Janet](https://janet-lang.org/) - Lightweight, expressive and modern Lisp. ([HN](https://news.ycombinator.com/item?id=23164614)) ([Code](https://github.com/janet-lang/janet)) ([Awesome](https://github.com/ahungry/awesome-janet))
 - [History of Lisp - John McCarthy (1979)](http://jmc.stanford.edu/articles/lisp/lisp.pdf) ([HN](https://news.ycombinator.com/item?id=23201888))
 - [Quasiquote - Literal Magic (2020)](https://weinholt.se/articles/quasiquote-literal-magic/) ([Lobsters](https://lobste.rs/s/dqhszz/quasiquote_literal_magic))
 - [Ronin](https://100r.co/site/ronin.html) - Lisp-based image processing tool. ([HN](https://news.ycombinator.com/item?id=23211273))

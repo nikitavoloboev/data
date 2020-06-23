@@ -29,7 +29,7 @@
 - [Generative Hut](https://www.generativehut.com/) - Home of generative art.
 - [Dacein](https://github.com/szymonkaliski/dacein) - Experimental creative coding IDE. ([Article](https://szymonkaliski.com/log/2019-03-01-building-dacein/))
 - [AI for 3D Generative Design (2020)](https://blog.insightdatascience.com/ai-for-3d-generative-design-17503d0b3943) ([HN](https://news.ycombinator.com/item?id=22640407))
-- [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art#readme)
+- [Awesome Machine Learning Art](https://github.com/vibertthio/awesome-machine-learning-art)
 - [Nervous System](https://n-e-r-v-o-u-s.com/index.php) - Generative design studio that works at the intersection of science, art, and technology.
 - [Experiments in generative art](https://sketchbook.netlify.com/) ([Code](https://github.com/winkerVSbecks/sketchbook))
 - [WEIR-A](https://github.com/inconvergent/weir) - System for making generative systems.

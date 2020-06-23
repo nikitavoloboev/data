@@ -8,7 +8,7 @@ I add any person I found interesting to [my contacts](../macOS/apps/contacts.md)
 
 ## Links
 
-- [Awesome events](https://github.com/learn-anything/events#readme)
+- [Awesome events](https://github.com/learn-anything/events)
 - [HN: Meetup.com alternatives (2019)](https://news.ycombinator.com/item?id=21257661)
 - [DEV event listings](https://dev.to/listings/events)
 - [DEV events](https://dev.to/events)

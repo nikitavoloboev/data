@@ -4,10 +4,10 @@
 
 - [Commonly asked questions about peer-to-peer networks & programs](https://github.com/noffle/p2p-faq/)
 - [The Peer-to-Peer Web - Paul Frazee](https://www.youtube.com/watch?v=-ep0ZIe6i10)
-- [P2P Projects List](https://github.com/moshest/p2p-index#readme)
+- [P2P Projects List](https://github.com/moshest/p2p-index)
 - [Aether](https://github.com/nehbit/aether) - Peer-to-peer network of independent, self-moderated communities.
 - [Metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
-- [Moonad](https://github.com/moonad/Whitepaper#readme) - Peer-to-Peer Operating System.
+- [Moonad](https://github.com/moonad/Whitepaper) - Peer-to-Peer Operating System.
 - [libp2p implementation in Go](https://github.com/libp2p/go-libp2p)
 - [DTN Conf sketch notes from 2019 event](https://twitter.com/_lrlna/status/1129361644134567936)
 - [Wireline](https://www.wireline.io/#about) - Peer-to-peer network for open source applications.
@@ -15,7 +15,7 @@
 - [Radicle](http://radicle.xyz/) - Peer-to-peer stack for code collaboration. ([Code](https://github.com/radicle-dev/radicle))
 - [Upstream](https://github.com/radicle-dev/radicle-upstream) - Desktop client for the radicle code collaboration and registry protocols.
 - [How it Works — Radicle Link (2020)](https://radicle.xyz/radicle-link.html)
-- [List of peer-to-peer resources](https://github.com/kgryte/awesome-peer-to-peer#readme)
+- [List of peer-to-peer resources](https://github.com/kgryte/awesome-peer-to-peer)
 - [Crust](https://github.com/maidsafe/crust) - Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects.
 - [Yjs](https://github.com/yjs/yjs) - CRDT framework with a powerful abstraction of shared data.
 - [PeerLinks](https://github.com/peerlinks/peerlinks) - Protocol for building "Distributed Secure IRC" (or distributed Slack if you wish).

@@ -2,11 +2,11 @@
 
 This article on [Interviewing, applying and getting your first job in iOS](http://artsy.github.io/blog/2016/01/30/iOS-Junior-Interviews) is superb.
 
-I made a curated list of ways to prepare and places to look to [find work programming](https://github.com/nikitavoloboev/find-work#readme).
+I made a curated list of ways to prepare and places to look to [find work programming](https://github.com/nikitavoloboev/find-work).
 
 I use [Otta](https://otta.com/), [LinkedIn](https://www.linkedin.com) & [AngelList](https://angel.co) and the [monthly HN: Who is hiring? threads](https://kennytilton.github.io/whoishiring/) for finding interesting work opportunities to apply to.
 
-I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTeX](https://github.com/nikitavoloboev/cv#readme).
+I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://github.com/posquit0/Awesome-CV) template in [LaTeX](https://github.com/nikitavoloboev/cv).
 
 Sometimes the most effective way to apply is to apply directly. Go to the website of the company you want to apply to and see if there is a `Jobs` section present somewhere and apply through it. You can also send a direct email to the company's hiring management or if it's a startup, you can send an email to the Founder directly.
 
@@ -48,7 +48,7 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [The Career Advice I Wish I Had](https://welearncode.com/career-advice/)
 - [Otta](https://otta.com/) - Discover the most relevant roles for you at all of London's best startups.
 - [Rocket List](https://rocketlist.co.uk/) - Curated list of the best fast-growing companies in London to work for. Built for job-seekers.
-- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards#readme) - List of companies (or teams) that don't do "whiteboard" interviews.
+- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - List of companies (or teams) that don't do "whiteboard" interviews.
 - [Placement](https://placement.com/) - Get a great job in a new city.
 - [Tell HN: I used to be homeless and want to work as a software developer (2019)](https://news.ycombinator.com/item?id=21880179)
 - [Thoughts on Recruiting (2019)](https://markmcgranaghan.com/recruiting)
@@ -60,7 +60,7 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Career advice for people with bad luck (2020)](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad) ([HN](https://news.ycombinator.com/item?id=22960225))
 - [enviro.work](https://enviro.work/) - Best place to find and fill jobs that benefit the environment.
 - [MLH Fellowship](https://fellowship.mlh.io/) - Internship alternative for software engineers.
-- [Getting a Gig: A Guide](https://github.com/cassidoo/getting-a-gig#readme)
+- [Getting a Gig: A Guide](https://github.com/cassidoo/getting-a-gig)
 - [How to prepare for losing your programming job (2020)](https://codewithoutrules.com/2020/05/14/prepare-losing-job/) ([HN](https://news.ycombinator.com/item?id=23180214))
 - [Job searching (2020)](https://www.thefragehaver.com/posts/jobsearch/)
 - [Ask HN: What is the smartest career path to take? (2020)](https://news.ycombinator.com/item?id=23458316)

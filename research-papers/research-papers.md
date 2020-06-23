@@ -19,9 +19,9 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Rasmus Andersson's favorite papers](https://www.dropbox.com/sh/is0sy5350lr4v9j/AADQlhVSQcRw6vCNKQgGWelqa)
 - [Veit Heller's reading list](https://github.com/hellerve/ptolemy)
 - [FP papers](https://github.com/sdiehl/papers)
-- [Pawel Szulc's liked papers](https://github.com/rabbitonweb/papers_i_love#readme)
+- [Pawel Szulc's liked papers](https://github.com/rabbitonweb/papers_i_love)
 - [Computer science and computer-adjacent papers (and sometimes books) that have influenced me deeply](https://github.com/fogus/papers-i-love)
-- [Collaboratived repository to put all computer science papers that we thing everyone must read](https://github.com/leomindez/papers-you-must-read#readme)
+- [Collaboratived repository to put all computer science papers that we thing everyone must read](https://github.com/leomindez/papers-you-must-read)
 - [Exciting papers to read in the field of Computer Science (2020)](https://www.reddit.com/r/compsci/comments/ffd4xx/what_is_the_most_exciting_paper_you_have_read/)
 - [Get started with computer science papers](https://developer.sh/posts/computer-science-papers)
 
@@ -40,7 +40,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Zotero](https://www.zotero.org/) - Personal research assistant. ([HN](https://news.ycombinator.com/item?id=22694891)) ([Code](https://github.com/zotero/zotero))
 - [Better BibTeX for Zotero](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts.
 - [ACM Digital Library](https://dl.acm.org/) - Research, discovery and networking platform. ([HN](https://news.ycombinator.com/item?id=22794984))
-- [Deep Learning Paper Summaries](https://github.com/vlgiitr/papers_we_read#readme)
+- [Deep Learning Paper Summaries](https://github.com/vlgiitr/papers_we_read)
 - [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [Git annex repository of academic papers](https://github.com/ocharles/papers)
 - [Scholar Digest](https://github.com/graydon/scholar-digest) - Small script for managing google scholar alert emails.
@@ -49,7 +49,7 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Organize remote meetings for reading computer science papers](https://github.com/zx9w/read-together) ([Lobsters](https://lobste.rs/s/incspc/looking_for_people_who_d_like_read_cs))
 - [Center for Open Science preprints](https://osf.io/preprints/)
 - [Reading Research: A Guide for Software Engineers (2020)](https://brooker.co.za/blog/2020/05/25/reading.html)
-- [ICFP 2020 papers](https://github.com/llelf/icfp2020-papers#readme)
+- [ICFP 2020 papers](https://github.com/llelf/icfp2020-papers)
 - [Connected Papers](https://www.connectedpapers.com/) - Explore connected papers in a visual graph. ([Article](https://www.lesswrong.com/posts/kjQXzkTGuixoJtQnq/we-ve-built-connected-papers-a-visual-tool-for-researchers))
 - [Sci-Hub](https://sci-hub.tw/) - Removing barriers in the way of science. ([Alternative working domains](https://twitter.com/scihub_love))
 - [Academia.edu](https://www.academia.edu/) - Platform for academics to share research papers.

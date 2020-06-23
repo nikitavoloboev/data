@@ -26,6 +26,6 @@
 - [Cotila](https://github.com/calebzulawski/cotila) - Compile-time linear algebra system for C++.
 - [BLIS](https://github.com/flame/blis) - Portable software framework for instantiating high-performance BLAS-like dense linear algebra libraries.
 - [MIT Linear Algebra course](https://mitmath.github.io/1806/)
-- [Catalog of algebra books for self learning](https://github.com/prathyvsh/algebra-books#readme)
+- [Catalog of algebra books for self learning](https://github.com/prathyvsh/algebra-books)
 - [Is NonLinear Algebra a thing? (2020)](https://www.reddit.com/r/math/comments/hac0bt/is_nonlinear_algebra_a_thing/)
 - [Why is it important for a matrix to be square? (2018)](https://math.stackexchange.com/questions/2811951/why-is-it-important-for-a-matrix-to-be-square/2811960#2811960) ([HN](https://news.ycombinator.com/item?id=23591553))

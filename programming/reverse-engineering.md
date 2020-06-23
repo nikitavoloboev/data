@@ -13,7 +13,7 @@
 - [Reverse engineering course (Focuses on x64 Windows)](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) ([HN](https://news.ycombinator.com/item?id=22061842))
 - [Great reverse engineering courses list](https://news.ycombinator.com/item?id=22063610)
 - [Open Security Training Info](http://opensecuritytraining.info/)
-- [RPISEC RE/VR Courses](https://github.com/JeremyBlackthorne/RPISEC-Courses#readme)
+- [RPISEC RE/VR Courses](https://github.com/JeremyBlackthorne/RPISEC-Courses)
 - [pixd](https://github.com/FireyFly/pixd) - Colourful visualization tool for binary files.
 - [Datalog Disassembly](https://github.com/GrammaTech/ddisasm) - Fast disassembler which is accurate enough for the resulting assembly code to be reassembled.
 - [GTIRB](https://github.com/GrammaTech/gtirb) - Intermediate Representation for Binary analysis and transformation.
@@ -26,7 +26,7 @@
 - [Exploit Development course (2019)](https://samsclass.info/127/127_F19.shtml)
 - [pwn.college](https://pwn.college/) - Learn & practice, core cybersecurity concepts in a hands-on fashion. ([HN](https://news.ycombinator.com/item?id=22401797))
 - [Renovate](https://github.com/GaloisInc/renovate) - Library for binary analysis and rewriting in Haskell.
-- [TEE Reversing](https://github.com/enovella/TEE-reversing#readme) - Curated list of public TEE resources for learning how to reverse-engineer and achieve trusted code execution on ARM devices.
+- [TEE Reversing](https://github.com/enovella/TEE-reversing) - Curated list of public TEE resources for learning how to reverse-engineer and achieve trusted code execution on ARM devices.
 - [Reverse Engineering Stickies.app](https://lowlevelbits.org/reverse-engineering-stickies.app/)
 - [Reversing Firmware With Radare (2019)](https://www.bored-nerds.com/reversing/radare/automotive/2019/07/07/reversing-firmware-with-radare.html)
 - [Interactive guide to Buffer Overflow exploitation (2019)](https://nagarrosecurity.com/blog/interactive-buffer-overflow-exploitation)
@@ -39,7 +39,7 @@
 - [Pafish](https://github.com/a0rtega/pafish) - Demonstration tool that employs several techniques to detect sandboxes and analysis environments in the same way as malware families do.
 - [GEF - GDB Enhanced Features for exploit devs & reversers](https://github.com/hugsy/gef)
 - [Surveyor](https://github.com/GaloisInc/surveyor) - Interactive binary explorer.
-- [Awesome Ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra#readme)
+- [Awesome Ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra)
 - [Reverse Engineering Snapchat: Obfuscation Techniques (2020)](https://hot3eed.github.io/snap_part1_obfuscations.html) ([HN](https://news.ycombinator.com/item?id=23557998))
 - [Reverse-engineering and comparing two Game Boy audio amplifier chips (2020)](http://www.righto.com/2020/06/reverse-engineering-and-comparing-two.html)
 - [Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board (2020)](https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html) ([HN](https://news.ycombinator.com/item?id=23596070))

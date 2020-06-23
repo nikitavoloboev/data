@@ -15,10 +15,10 @@
 - [Raylib](http://www.raylib.com) - Simple and easy-to-use library to learn video games programming.
 - [Diablo: A Classic Game Postmortem (2016)](https://www.youtube.com/watch?v=VscdPA6sUkc)
 - [Game Engine Architecture Book](https://www.gameenginebook.com/)
-- [Curated List of Game Network Programming Resources](https://github.com/MFatihMAR/Awesome-Game-Networking#readme)
+- [Curated List of Game Network Programming Resources](https://github.com/MFatihMAR/Awesome-Game-Networking)
 - [Kit](https://github.com/kitlang/kit) - Programming language designed for creating concise, high performance cross-platform applications.
 - [raylib](https://github.com/raysan5/raylib) - Simple and easy-to-use library to enjoy videogames programming.
-- [Tutorials, tools, and more as related to reverse engineering video games](https://github.com/dsasmblr/game-hacking#readme)
+- [Tutorials, tools, and more as related to reverse engineering video games](https://github.com/dsasmblr/game-hacking)
 - [Lobster](http://strlen.com/lobster/) - General purpose stand-alone programming language that comes with a built-in library suitable for making games and other graphical things.
   - [Lobster Design Philosophy, History, and Future](https://htmlpreview.github.io/?https://raw.githubusercontent.com/aardappel/lobster/master/lobster/docs/philosophy.html)
 - [Open Source Game Clones](https://osgameclones.com/)
@@ -34,8 +34,8 @@
 - [My First 10 Years of Game Development (2020)](https://www.youtube.com/watch?v=egukLtEhyP0)
 - [rx](https://github.com/cloudhead/rx) - Modern and minimalist pixel editor.
 - [Gamedev Tutorial: Dot Product, Rulers, And Bouncing Balls (2020)](https://www.allenchou.net/2020/01/dot-product-projection-reflection/) ([HN](https://news.ycombinator.com/item?id=22102016))
-- [Awesome Godot](https://github.com/Calinou/awesome-godot#readme)
-- [Curated list of awesome C++ (mainly) things for Game Development](https://github.com/Cmdu76/AwesomeCppGameDev#readme)
+- [Awesome Godot](https://github.com/Calinou/awesome-godot)
+- [Curated list of awesome C++ (mainly) things for Game Development](https://github.com/Cmdu76/AwesomeCppGameDev)
 - [Game AI Pro](http://www.gameaipro.com/) ([HN](https://news.ycombinator.com/item?id=22216472))
 - [How I made a 3D game in only 2KB of JavaScript (2020)](http://frankforce.com/?p=7427) ([HN](https://news.ycombinator.com/item?id=22524287))
 - [Open Asset Import Library (assimp)](https://github.com/assimp/assimp) - Library to import and export various 3d-model-formats including scene-post-processing to generate missing render data.
@@ -53,7 +53,7 @@
 - [The Ideal Game Network Protocol (2020)](https://paytonturnage.com/writing/ideal-game-network-protocol/)
 - [Why Satisfactory Is So Addictive](https://www.youtube.com/watch?v=PV_wlU4drnM)
 - [How to build an outrun-style racing game in JS](https://github.com/jakesgordon/javascript-racer)
-- [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap#readme)
+- [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap)
 - [What Is Interesting About Factorio](http://fuseki.net/home/WhatIsInterestingAboutFactorio.html) ([HN](https://news.ycombinator.com/item?id=22931595))
 - [Math for Game Developers video series](http://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My) ([Code](https://github.com/BSVino/MathForGameDevelopers))
 - [Modern C++ gamedev: thoughts and misconceptions](https://vittorioromeo.info/index/blog/gamedev_modern_cpp_thoughts.html) ([HN](https://news.ycombinator.com/item?id=23202120)) ([Reddit](https://www.reddit.com/r/cpp/comments/gkrquo/modern_c_gamedev_thoughts_misconceptions/))
@@ -62,7 +62,7 @@
 - [Source code to Delores: A Thimbleweed Park mini-adventure](https://github.com/grumpygamer/DeloresDev)
 - [EnTT](https://github.com/skypjack/entt) - Header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model.
 - [Yet Another Doom Clone (In 13kb of JavaScript) (2019)](https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html)
-- [Magic Tools](https://github.com/ellisonleao/magictools#readme) - Game Development resources to make magic happen.
+- [Magic Tools](https://github.com/ellisonleao/magictools) - Game Development resources to make magic happen.
 - [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
 - [Nakama JavaScript client](https://github.com/heroiclabs/nakama-js) - JavaScript client for Nakama server written in TypeScript.
 - [Peeking under the hood of Command & Conquer (2020)](http://www.hydrogen18.com/blog/peeking-under-the-hood-of-command-conquer.html)

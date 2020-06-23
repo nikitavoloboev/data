@@ -68,7 +68,7 @@ It includes:
 - [Weird Trick Mafia](https://overcast.fm/itunes1456548333/weirdtrickmafia-fm)
 - [Zero Knowledge](https://overcast.fm/itunes1326503043/zero-knowledge) - Where we talk about blockchain technology and development.
 
-For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts#readme). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
+For other awesome podcasts you can see [here](https://github.com/learn-anything/podcasts). I also export a [list of all the podcasts I am subscribed to](https://www.dropbox.com/s/ze05mn1dfeti7vr/overcast.opml?dl=1) (can be imported to Overcast).
 
 ## Favorite episodes
 
@@ -91,11 +91,11 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 ## Recommendations
 
 - [Podnami](https://podnami.com/) - Best technology podcast episodes.
-- [Awesome Podcasts](https://github.com/learn-anything/podcasts#readme)
+- [Awesome Podcasts](https://github.com/learn-anything/podcasts)
 - [Pod Hunt](https://podhunt.app/)
 - [What are your favorite podcasts?](https://www.indiehackers.com/forum/what-are-your-favorite-podcasts-8a45ac25ee)
 - [Ask HN: What were your most impactful podcast episodes from 2019?](https://news.ycombinator.com/item?id=22027315)
-- [Podcasts which are helpful for software engineers/programmers](https://github.com/rShetty/awesome-podcasts#readme)
+- [Podcasts which are helpful for software engineers/programmers](https://github.com/rShetty/awesome-podcasts)
 - [Favorite Podcasts of swyx](https://www.swyx.io/writing/fave-podcasts/)
 - [The 140 Best Podcasts to Enrich Your Mind](http://www.openculture.com/great-podcasts)
 - [Curated podcasts list](https://roadmap.sh/podcasts)

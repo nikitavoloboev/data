@@ -12,7 +12,7 @@
 - [Victory](https://github.com/FormidableLabs/victory) - Collection of composable React components for building interactive data visualizations.
 - [How to learn D3.js](https://wattenberger.com/blog/d3)
 - [Fullstack D3 book](https://www.newline.co/fullstack-d3) - Complete guide to D3.
-- [Awesome D3](https://github.com/wbkd/awesome-d3#readme)
+- [Awesome D3](https://github.com/wbkd/awesome-d3)
 - [REAVIZ](https://github.com/jask-oss/reaviz) - Data visualization library for React based on D3.
 - [d3fc](https://github.com/d3fc/d3fc) - Collection of components that make it easy to build interactive charts with D3.
 - [nivo](https://github.com/plouc/nivo) - Provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries.

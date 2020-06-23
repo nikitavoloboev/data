@@ -4,7 +4,7 @@ Alfred is a powerful launcher that you can program to show anything you want. It
 
 ![](https://i.imgur.com/pr19IYn.jpg)
 
-It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows#readme) that you can use.
+It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows) that you can use.
 
 I wrote [an article](https://medium.com/@nikitavoloboev/writing-alfred-workflows-in-go-2a44f62dc432) on how anyone can start developing workflows of their own using Go language and [AwGo](https://github.com/deanishe/awgo) library.
 
@@ -12,17 +12,17 @@ I wrote [an article](https://medium.com/@nikitavoloboev/writing-alfred-workflows
 
 My most used workflows at current time are:
 
-- [Searchio](https://github.com/deanishe/alfred-searchio#readme)
+- [Searchio](https://github.com/deanishe/alfred-searchio)
 - [GitHub Jump](https://github.com/nikitavoloboev/small-workflows#workflow-augmentations)
-- [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches#readme)
-- [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything#readme)
-- [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant#readme)
-- [Ask, Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share#readme)
-- [My Mind](https://github.com/nikitavoloboev/alfred-my-mind#readme)
-- [Maestro](https://github.com/iansinnott/alfred-maestro#readme)
+- [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches)
+- [Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything)
+- [Safari Assistant](https://github.com/deanishe/alfred-safari-assistant)
+- [Ask, Create Share](https://github.com/nikitavoloboev/alfred-ask-create-share)
+- [My Mind](https://github.com/nikitavoloboev/alfred-my-mind)
+- [Maestro](https://github.com/iansinnott/alfred-maestro)
 - [Fast Menu Bar Search](https://github.com/ascandroli/menudump/releases/download/1.8.0/Menu.Bar.Search-v1_8.alfredworkflow)
 
-Coupled with many [small workflows](https://github.com/nikitavoloboev/small-workflows) I made. I hope to add more workflows of my own [to the mix](https://github.com/learn-anything/alfred-workflows#readme) with time.
+Coupled with many [small workflows](https://github.com/nikitavoloboev/small-workflows) I made. I hope to add more workflows of my own [to the mix](https://github.com/learn-anything/alfred-workflows) with time.
 
 ## Alfred theme
 
@@ -36,7 +36,7 @@ I also made [Monokai Night](https://www.alfredapp.com/extras/theme/PQVZpeg4Zi/) 
 
 It is a great idea to symlink workflows you are working on so you can work on them in the comfort of your file system and not inside Alfred UUID named directories.
 
-I use [this script](https://gist.github.com/deanishe/35faae3e7f89f629a94e) to achieve this. In example of [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/folder-search#readme) you can use it as follows. Assuming the `workflow` directory contains Alfred workflow contents (`info.plist` file). You can run `workflow-install.py -s workflow`.
+I use [this script](https://gist.github.com/deanishe/35faae3e7f89f629a94e) to achieve this. In example of [this workflow](https://github.com/nikitavoloboev/small-workflows/tree/master/folder-search) you can use it as follows. Assuming the `workflow` directory contains Alfred workflow contents (`info.plist` file). You can run `workflow-install.py -s workflow`.
 
 I can also then use [this script](https://gist.github.com/deanishe/b16f018119ef3fe951af) and build my workflow with `workflow-build.py -v source`.
 

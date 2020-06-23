@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify#readme)
+- [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify)
 - [AWS Amplify CLI](https://github.com/aws-amplify/amplify-cli) - CLI toolchain for simplifying serverless web and mobile development.
 - [AWS Amplify JS](https://github.com/aws-amplify/amplify-js) - JavaScript library for frontend and mobile developers building cloud-enabled applications.
 - [Using AWS Amplify feels like cheating (2019)](https://medium.com/@coryschimmoeller/using-aws-amplify-feels-like-cheating-e5eabcaea500)

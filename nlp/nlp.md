@@ -5,8 +5,8 @@
 - [SpaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) with Python and Cython.
 - [Adding voice control to your projects](https://medium.com/hackers-at-cambridge/adding-voice-control-to-your-projects-7096fdee7c45)
 - [Increasing data science productivity; founders of spaCy & Prodigy](https://www.youtube.com/watch?v=jB1-NukGZm0)
-- [Course materials for "Natural Language" course](https://github.com/jacobeisenstein/gt-nlp-class#readme)
-- [NLP progress](https://github.com/sebastianruder/NLP-progress#readme) - Track the progress in Natural Language Processing (NLP) and give an overview of the state-of-the-art across the most common NLP tasks and their corresponding datasets.
+- [Course materials for "Natural Language" course](https://github.com/jacobeisenstein/gt-nlp-class)
+- [NLP progress](https://github.com/sebastianruder/NLP-progress) - Track the progress in Natural Language Processing (NLP) and give an overview of the state-of-the-art across the most common NLP tasks and their corresponding datasets.
 - [Natural](https://github.com/NaturalNode/natural) - General natural language facilities for Node.
 - [YSDA Natural Language Processing course (2018)](https://github.com/yandexdataschool/nlp_course)
 - [PyText](https://github.com/facebookresearch/pytext) - Natural language modeling framework based on PyTorch.
@@ -20,38 +20,38 @@
 - [Lingvo](https://github.com/tensorflow/lingvo) - Framework for building neural networks in Tensorflow, particularly sequence models.
 - [Fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [Stanford CS224N: NLP with Deep Learning (2019)](https://www.youtube.com/watch?v=8rXD5-xhemo) - [Course page](https://web.stanford.edu/class/cs224n/). ([HN](https://news.ycombinator.com/item?id=19569883))
-- [Advanced NLP with spaCy: A free online course](https://github.com/ines/spacy-course#readme)
+- [Advanced NLP with spaCy: A free online course](https://github.com/ines/spacy-course)
 - [Code for Stanford Natural Language Understanding course, CS224u (2019)](https://github.com/cgpotts/cs224u)
-- [Awesome Reinforcement Learning for Natural Language Processing](https://github.com/adityathakker/awesome-rl-nlp#readme)
+- [Awesome Reinforcement Learning for Natural Language Processing](https://github.com/adityathakker/awesome-rl-nlp)
 - [ParlAI](https://github.com/facebookresearch/ParlAI) - Framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [Training language GANs from Scratch (2019)](https://arxiv.org/abs/1905.09922)
 - [Olivia](https://github.com/olivia-ai/olivia) - Your new best friend built with an artificial neural network.
-- [Learn-Natural-Language-Processing-Curriculum](https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum#readme)
+- [Learn-Natural-Language-Processing-Curriculum](https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum)
 - [This repository recorded my NLP journey](https://github.com/makcedward/nlp)
 - [Project Alias](https://github.com/bjoernkarmann/project_alias) - Open-source parasite to train custom wake-up names for smart home devices while disturbing their built-in microphone.
 - [Cornell Tech NLP Code](http://rush-nlp.com/code/)
 - [Cornell Tech NLP Publications](http://rush-nlp.com/papers/)
 - [Thinc](https://github.com/explosion/thinc/) - SpaCy's Machine Learning library for NLP in Python. ([Docs](https://thinc.ai/docs))
 - [Knowledge is embedded in language neural networks but can they reason? (2019)](https://www.youtube.com/watch?v=KybSRPC3e64)
-- [NLP Best Practices](https://github.com/microsoft/nlp#readme)
+- [NLP Best Practices](https://github.com/microsoft/nlp)
 - [Transfer NLP library](https://github.com/feedly/transfer-nlp) - Framework built on top of PyTorch to promote reproducible experimentation and Transfer Learning in NLP.
 - [FARM](https://github.com/deepset-ai/FARM) - Fast & easy transfer learning for NLP. Harvesting language models for the industry.
 - [Transformers](https://github.com/huggingface/transformers) - State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch. ([Web](https://huggingface.co/))
-- [NLP Roadmap 2019](https://github.com/graykode/nlp-roadmap#readme)
+- [NLP Roadmap 2019](https://github.com/graykode/nlp-roadmap)
 - [Flair](https://github.com/zalandoresearch/flair) - Very simple framework for state-of-the-art NLP. Developed by Zalando Research.
 - [Unsupervised Data Augmentation](https://github.com/google-research/uda) - Semi-supervised learning method which achieves state-of-the-art results on a wide variety of language and vision tasks.
 - [Rasa](https://github.com/RasaHQ/rasa) - Open source machine learning framework to automate text-and voice-based conversations.
 - [T5](https://github.com/google-research/text-to-text-transfer-transformer) - Text-To-Text Transfer Transformer.
-- [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers#readme)
-- [Awesome NLP](https://github.com/keon/awesome-nlp#readme)
-- [NLP Library](https://github.com/mihail911/nlp-library#readme) - Curated collection of papers for the NLP practitioner.
+- [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
+- [Awesome NLP](https://github.com/keon/awesome-nlp)
+- [NLP Library](https://github.com/mihail911/nlp-library) - Curated collection of papers for the NLP practitioner.
 - [spacy-transformers](https://github.com/explosion/spacy-transformers) - spaCy pipelines for pre-trained BERT, XLNet and GPT-2.
 - [AllenNLP](https://github.com/allenai/allennlp) - Open-source NLP research library, built on PyTorch. ([Announcing AllenNLP 1.0](https://medium.com/ai2-blog/allennlp-1-0-df0327445509))
 - [GloVe](https://github.com/stanfordnlp/GloVe) - Global Vectors for Word Representation.
 - [Botpress](https://github.com/botpress/botpress) - Open-source Virtual Assistant platform.
 - [Mycroft](https://github.com/MycroftAI/mycroft-core) - Hackable open source voice assistant. ([HN](https://news.ycombinator.com/item?id=22702195))
 - [VizSeq](https://github.com/facebookresearch/vizseq) - Visual Analysis Toolkit for Text Generation Tasks.
-- [Awesome Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme)
+- [Awesome Natural Language Generation](https://github.com/tokenmill/awesome-nlg)
 - [How I used NLP (Spacy) to screen Data Science Resume (2019)](https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d)
 - [Introduction to Natural Language Processing book](https://mitpress.mit.edu/books/introduction-natural-language-processing) - Survey of computational methods for understanding, generating, and manipulating human language, which offers a synthesis of classical representations and algorithms with contemporary machine learning techniques.
 - [Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning](https://www.goodreads.com/book/show/34691713-natural-language-processing-with-pytorch)
@@ -67,7 +67,7 @@
 - [ALBERT](https://github.com/google-research/ALBERT) - Lite BERT for Self-supervised Learning of Language Representations.
 - [BERT](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT.
 - [Multilingual Denoising Pre-training for Neural Machine Translation (2020)](https://arxiv.org/pdf/2001.08210.pdf)
-- [List of NLP tutorials built on PyTorch](https://github.com/lyeoni/nlp-tutorial#readme)
+- [List of NLP tutorials built on PyTorch](https://github.com/lyeoni/nlp-tutorial)
 - [sticker](https://github.com/stickeritis/sticker) - Sequence labeler that uses either recurrent neural networks, transformers, or dilated convolution networks.
 - [sticker-transformers](https://github.com/stickeritis/sticker-transformers) - Pretrained transformer models for sticker.
 - [pke](https://github.com/boudinfl/pke) - Python Keyphrase Extraction module.
@@ -77,8 +77,8 @@
 - [GluonNLP](https://github.com/dmlc/gluon-nlp) - Toolkit that enables easy text preprocessing, datasets loading and neural models building to help you speed up your NLP research.
 - [Finetune](https://github.com/IndicoDataSolutions/finetune) - Scikit-learn style model finetuning for NLP.
 - [Stanza: A Python Natural Language Processing Toolkit for Many Human Languages (2020)](https://arxiv.org/abs/2003.07082) ([HN](https://news.ycombinator.com/item?id=22663322))
-- [NLP Newsletter](https://github.com/dair-ai/nlp_newsletter#readme)
-- [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries#readme)
+- [NLP Newsletter](https://github.com/dair-ai/nlp_newsletter)
+- [NLP Paper Summaries](https://github.com/dair-ai/nlp_paper_summaries)
 - [Advanced NLP with spaCy](https://course.spacy.io/)
 - [Myle Ott's research](https://myleott.com/)
 - [Natural Language Processing with Python](https://www.nltk.org/book/) - Analyzing Text with the Natural Language Toolkit.
@@ -86,7 +86,7 @@
 - [The Transformer Family (2020)](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
 - [Minimalist Implementation of a BERT Sentence Classifier](https://github.com/ricardorei/lightning-text-classification)
 - [fastText](https://fasttext.cc/) - Library for efficient text classification and representation learning. ([Code](https://github.com/facebookresearch/fastText/))
-- [Awesome NLP Paper Discussions](https://github.com/huggingface/awesome-papers#readme) - Papers & presentations from Hugging Face's weekly science day.
+- [Awesome NLP Paper Discussions](https://github.com/huggingface/awesome-papers) - Papers & presentations from Hugging Face's weekly science day.
 - [SynST: Syntactically Supervised Transformers](https://github.com/dojoteef/synst)
 - [The Cost of Training NLP Models: A Concise Overview (2020)](https://arxiv.org/abs/2004.08900)
 - [Tutorial - Transformers](http://dev.fast.ai/tutorial.transformers) ([Tweet](https://twitter.com/GuggerSylvain/status/1254837525274865664))
@@ -94,7 +94,7 @@
 - [MAD-X: An Adapter-based Framework for Multi-task Cross-lingual Transfer (2020)](https://public.ukp.informatik.tu-darmstadt.de/MAD-X/paper.pdf)
 - [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple) - Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts.
 - [BERTScore](https://github.com/Tiiiger/bert_score) - BERT score for text generation.
-- [ML and NLP Paper Discussions](https://github.com/dair-ai/ml-nlp-paper-discussions#readme)
+- [ML and NLP Paper Discussions](https://github.com/dair-ai/ml-nlp-paper-discussions)
 - [NLP Datasets](https://datasets.quantumstat.com/)
 - [Word Embeddings (2017)](https://www.youtube.com/watch?v=5PL0TmQhItY)
 - [NLP from Scratch: Annotated Attention (2020)](https://teddykoker.com/2020/02/nlp-from-scratch-annotated-attention/)
@@ -113,7 +113,7 @@
 - [nlp](https://github.com/huggingface/nlp) - Lightweight and extensible library to easily share and access datasets and evaluation metrics for NLP.
 - [Brainsources for NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482)
 - [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning) ([Paper](https://arxiv.org/abs/2005.07683))
-- [NLP Resources](https://github.com/lyeoni/nlp-resources#readme)
+- [NLP Resources](https://github.com/lyeoni/nlp-resources)
 - [TaBERT: Learning Contextual Representations for Natural Language Utterances and Structured Tables](https://github.com/facebookresearch/TaBERT)
 - [vtext](https://github.com/rth/vtext) - NLP in Rust with Python bindings.
 - [Language Technology Lab @ University of Cambridge](http://ltl.mml.cam.ac.uk/)

@@ -41,7 +41,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Apache Traffic Server](https://github.com/apache/trafficserver)
 - [Mainframer](https://github.com/buildfoundation/mainframer) - Tool that executes a command on a remote machine while syncing files back and forth.
 - [Magma](https://github.com/facebookincubator/magma) - Platform for building access networks and modular network services.
-- [Awesome Networking](https://github.com/clowwindy/Awesome-Networking#readme)
+- [Awesome Networking](https://github.com/clowwindy/Awesome-Networking)
 - [docker-nginx-http3](https://github.com/RanadeepPolavarapu/docker-nginx-http3) - Alpine Linux image with Nginx with HTTP/3 (QUIC), TLSv1.3, 0-RTT, brotli support.
 - [SCION Internet Architecture](https://github.com/scionproto/scion)
 - [Everything curl - the book](https://ec.haxx.se) ([Code](https://github.com/bagder/everything-curl))
@@ -55,7 +55,7 @@ This [article](https://drewdevault.com/2016/12/06/A-broad-intro-to-networking.ht
 - [Implementation of CoAP in go](https://github.com/dustin/go-coap)
 - [inlets](https://github.com/inlets/inlets) - Expose your local endpoints to the Internet.
 - [inletsctl](https://github.com/inlets/inletsctl) - Fast HTTP (L7) and TCP (L4) tunnels written in Go.
-- [Awesome Computer Networking Resources](https://github.com/nyquist/awesome-networking#readme)
+- [Awesome Computer Networking Resources](https://github.com/nyquist/awesome-networking)
 - [Zwitterion](https://github.com/lastmjs/zwitterion) - Web dev server that lets you import anything.
 - [warmy](https://github.com/phaazon/warmy) - Hot-reloading loadable and reloadable resources.
 - [OpenLiteSpeed Web Server](https://github.com/litespeedtech/openlitespeed) - High-performance, lightweight, open source HTTP server.

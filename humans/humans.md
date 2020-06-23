@@ -4,7 +4,7 @@ Being a human myself, I can't but be amazed and inspired by what other people ha
 
 I have many interests and I find studying and looking into people who have spent their time studying some of these topics is a really good investment of my time. It's also quite amazing that nowadays you can potentially message a person whose work you like and sometimes they can respond.
 
-I maintain a list of [awesome humans](https://github.com/learn-anything/humans#readme) across different disciplines.
+I maintain a list of [awesome humans](https://github.com/learn-anything/humans) across different disciplines.
 
 ## Interesting interviews
 

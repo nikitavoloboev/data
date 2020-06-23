@@ -26,8 +26,8 @@ I publish most of my work and make it open source for other people to use and re
 - [Fork cleaner](https://github.com/caarlos0/fork-cleaner) - Cleans up old and inactive forks on your GitHub account.
 - [gitsome](https://github.com/donnemartin/gitsome) - Supercharged Git/GitHub command line interface.
 - [GitHub Trending](https://github.com/josephyzhou/github-trending) - Tracking the most popular GitHub repos, updated daily.
-- [How to collaborate on GitHub](https://github.com/eonist/How-to-collaborate-on-github#readme) - Mini book about collaborating on GitHub.
-- [Gitrob](https://github.com/michenriksen/gitrob#readme) - Tool to help find potentially sensitive files pushed to public repositories on GitHub.
+- [How to collaborate on GitHub](https://github.com/eonist/How-to-collaborate-on-github) - Mini book about collaborating on GitHub.
+- [Gitrob](https://github.com/michenriksen/gitrob) - Tool to help find potentially sensitive files pushed to public repositories on GitHub.
 - [Octoverse](https://octoverse.github.com/)
 - [utterances](https://github.com/utterance/utterances) - Lightweight comments widget built on GitHub issues. ([Web](https://utteranc.es/))
 - [github-drama](https://github.com/nikolas/github-drama) - Curated collection of "dramatic" GitHub interactions.
@@ -59,7 +59,7 @@ I publish most of my work and make it open source for other people to use and re
 - [VS Code Issues Triaging workflow](https://github.com/microsoft/vscode/wiki/Issues-Triaging)
 - [reviewdog](https://github.com/reviewdog/reviewdog) - Automated code review tool integrated with any code analysis tools regardless of programming language.
 - [GitHub Contribution Chart Generator](https://github.com/sallar/github-contributions-chart)
-- [Awesome GitHub](https://github.com/phillipadsmith/awesome-github#readme)
+- [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)
 - [Repl from Repo](https://repl.it/site/blog/github) ([HN](https://news.ycombinator.com/item?id=21765872))
 - [github-cli](https://github.com/twpayne/github-cli) - Minimal CLI for making GitHub API calls.
 - [GitHub Star History and Stats](https://seladb.github.io/StarTrack-js/) ([Code](https://github.com/seladb/StarTrack-js))

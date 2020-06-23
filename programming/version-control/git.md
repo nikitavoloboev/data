@@ -15,15 +15,15 @@ I love Git and version control. And I use version control over any project I do.
 ## Links
 
 - [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
-- [Flight rules for git](https://github.com/k88hudson/git-flight-rules#readme)
-- [Great Git workflow instructions](https://github.com/rvolosatovs/turtlitto/blob/master/CONTRIBUTING.md#readme)
+- [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+- [Great Git workflow instructions](https://github.com/rvolosatovs/turtlitto/blob/master/CONTRIBUTING.md)
 - [GIT Conventions](https://medium.com/@tjholowaychuk/git-conventions-a940ee20862d)
 - [Learn Git branching](https://learngitbranching.js.org/) ([Code](https://github.com/pcottle/learnGitBranching))
 - [Gitbase](https://github.com/src-d/gitbase) - SQL interface to Git repositories.
 - [Gitea](https://github.com/go-gitea/gitea) - Easiest, fastest, and most painless way of setting up a self-hosted Git service.
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 - [How I Use Git](https://hugogiraudel.com/2018/02/17/how-i-use-git/)
-- [clog-cli](https://github.com/clog-tool/clog-cli#readme) - Generate beautiful changelogs from your Git commit history.
+- [clog-cli](https://github.com/clog-tool/clog-cli) - Generate beautiful changelogs from your Git commit history.
 - [git rebase for fame and power](http://www.charlesetc.com/rebase-for-fame/)
 - [gitbatch](https://github.com/isacikgoz/gitbatch) - Manage your git repositories in one place.
 - [Conventional Commits](https://www.conventionalcommits.org/) - Specification for adding human and machine readable meaning to commit messages.
@@ -40,14 +40,14 @@ I love Git and version control. And I use version control over any project I do.
 - [rebase-editor](https://github.com/sjurba/rebase-editor) - Simple terminal based sequence editor for git interactive rebase.
 - [git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did.
 - [git-rs](https://github.com/chrisdickinson/git-rs) - Implementing git in rust for fun and education.
-- [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide#readme)
+- [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide)
 - [The Many Benefits of Using a Monorepo (2019)](https://pspdfkit.com/blog/2019/benefits-of-a-monorepo/) ([HN](https://news.ycombinator.com/item?id=19795482))
 - [Lefthook](https://github.com/Arkweid/lefthook) - Git hooks manager.
 - [git rebase in depth](https://git-rebase.io/) ([HN](https://news.ycombinator.com/item?id=19877811))
 - [Highlights from Git 2.22 (2019)](https://github.blog/2019-06-07-highlights-from-git-2-22/)
 - [What is a fork, really, and how GitHub changed its meaning (2019)](https://drewdevault.com/2019/05/24/What-is-a-fork.html) ([Lobsters](https://lobste.rs/s/txx8vu/what_is_fork_really_how_github_changed_its)) ([HN](https://news.ycombinator.com/item?id=20001570))
 - [More productive Git](https://increment.com/open-source/more-productive-git/) ([HN](https://news.ycombinator.com/item?id=20004224))
-- [List of commonly used Git commands](https://github.com/joshnh/Git-Commands#readme)
+- [List of commonly used Git commands](https://github.com/joshnh/Git-Commands)
 - [Hercules](https://github.com/src-d/hercules) - Fast, insightful and highly customizable Git history analysis.
 - [Git Tower Guides](https://www.git-tower.com/learn/)
 - [git-stashout](https://github.com/aviaviavi/git-stashout) - Custom git checkout command to automatically manage a per-branch stash.
@@ -74,7 +74,7 @@ I love Git and version control. And I use version control over any project I do.
 - [sourcehut](https://sourcehut.org/) - Suite of open source tools for managing git projects.
 - [Sourcehut's year in alpha (2019)](https://sourcehut.org/blog/2019-11-15-sourcehut-1-year-alpha/) ([HN](https://news.ycombinator.com/item?id=21545145))
 - [Sourcehut Project Hub](https://sourcehut.org/blog/2020-04-30-the-sourcehut-hub-is-live/) ([HN](https://news.ycombinator.com/item?id=23030489)) ([Lobsters](https://lobste.rs/s/y4zfxk/announcing_sourcehut_project_hub))
-- [Awesome Monorepo](https://github.com/korfuri/awesome-monorepo#readme) - Curated list of awesome Monorepo tools, software and architectures.
+- [Awesome Monorepo](https://github.com/korfuri/awesome-monorepo) - Curated list of awesome Monorepo tools, software and architectures.
 - [rug](https://github.com/samrat/rug) - Stripped-down version of Git, implemented in Rust.
 - [Git from Beginner to Advanced](https://www.madebymike.com.au/writing/how-to-git/)
 - [GitUp](https://gitup.co/) - Git client with nice interface.
@@ -91,7 +91,7 @@ I love Git and version control. And I use version control over any project I do.
 - [Release It](https://github.com/release-it/release-it) - Automate versioning and package publishing.
 - [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) - Guide to using Git, a version control system. Fast, powerful, easy to learn.
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
-- [Set up Keybase.io, GPG & Git to sign commits on GitHub](https://github.com/pstadler/keybase-gpg-github#readme)
+- [Set up Keybase.io, GPG & Git to sign commits on GitHub](https://github.com/pstadler/keybase-gpg-github)
 - [Bliss](https://github.com/ajmwagar/bliss) - "batteries included" .gitignore management tool.
 - [Vaibhav Sagar - I Haskell a Git (2018)](https://www.youtube.com/watch?v=nVvvY5VRs8o)
 - [Nx](https://github.com/nrwl/nx/) - Extensible Dev Tools for Monorepos.

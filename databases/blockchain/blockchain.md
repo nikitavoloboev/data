@@ -31,7 +31,7 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [Let's build a blockchain! — A mini-cryptocurrency in Ruby (Haseeb Qureshi) (2017)](https://www.youtube.com/watch?v=3aJI1ABdjQk) - Great intro to blockchain.
 - [What is blockchain](https://oleganza.com/all/what-is-blockchain/)
 - [18 Blockchain Predictions for 2018](https://media.consensys.net/18-predictions-for-2018-7a376ea7bd4b)
-- [Learn Blockchain in 2 months](https://github.com/llSourcell/Learn_Blockchain_in_2_months#readme)
+- [Learn Blockchain in 2 months](https://github.com/llSourcell/Learn_Blockchain_in_2_months)
 - [Emerging New Trends in Blockchain Technologies](https://blog.coinfabrik.com/emerging-new-trends-blockchain-technologies/)
 - [Mechanism design challenges in cryptocurrency and blockchains by Buterin Slides](https://docs.google.com/presentation/d/1MLwN2-pBufDmUNprf-r8LXFCm1Ua8skphzDTNPTaiUQ/edit#slide=id.p)
 - [Edward Snowden Explains Blockchain to His Lawyer — and the Rest of Us](https://www.aclu.org/blog/privacy-technology/internet-privacy/edward-snowden-explains-blockchain-his-lawyer-and-rest-us)
@@ -66,6 +66,6 @@ In short, blockchain is a [immutable linked list of hashes](https://www.quora.co
 - [David Gerard: Attack of the 50 Foot Blockchain](https://davidgerard.co.uk/blockchain/)
 - [Substrate](https://github.com/paritytech/substrate) - Next-generation framework for blockchain innovation.
 - [Build a Blockchain from Scratch in Go (2020)](https://gumroad.com/l/build-a-blockchain-from-scratch-in-go/)
-- [Smart Contract Languages](https://github.com/s-tikhomirov/smart-contract-languages#readme) - Curated collection of resources on smart contract programming languages.
+- [Smart Contract Languages](https://github.com/s-tikhomirov/smart-contract-languages) - Curated collection of resources on smart contract programming languages.
 - [BlockAtlas](https://github.com/trustwallet/blockatlas) - Clean explorer API and transaction observer for cryptocurrencies.
 - [Rosetta](https://www.rosetta-api.org/) - Open standard designed to simplify blockchain deployment and interaction.

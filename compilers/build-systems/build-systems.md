@@ -24,5 +24,5 @@
 - [samurai](https://github.com/michaelforney/samurai) - Ninja-compatible build tool written in C99 with a focus on simplicity, speed, and portability.
 - [Apple’s Linker & Deterministic Builds (2020)](https://milen.me/writings/apple-linker-ld64-deterministic-builds-oso-prefix/)
 - [my love letter to redo (2020)](https://fzakaria.com/2020/06/08/my-love-letter-to-redo.html) ([Lobsters](https://lobste.rs/s/j96fsz/my_love_letter_redo))
-- [Awesome CMake](https://github.com/onqtam/awesome-cmake#readme)
+- [Awesome CMake](https://github.com/onqtam/awesome-cmake)
 - [Build](https://github.com/rizsotto/Bear) - Tool that generates a compilation database for clang tooling.

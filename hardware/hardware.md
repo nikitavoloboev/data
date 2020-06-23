@@ -7,7 +7,7 @@
 - [LiteX](https://github.com/enjoy-digital/litex) - FPGA design/SoC builder that can be used to build cores, create SoCs and full FPGA designs.
 - [Migen (Milkymist generator)](https://github.com/m-labs/migen) - Python toolbox for building complex digital hardware.
 - [The future of computing: a conversation with John Hennessy (Google I/O '18)](https://www.youtube.com/watch?v=Azt8Nc-mtKM)
-- [Awesome Firmware Security](https://github.com/PreOS-Security/awesome-firmware-security#readme)
+- [Awesome Firmware Security](https://github.com/PreOS-Security/awesome-firmware-security)
 - [FindChips](https://www.findchips.com/) ([HN](https://news.ycombinator.com/item?id=19110698)) - Get instant insight into any electronic component.
 - [Hackster](https://www.hackster.io/) - World's largest network for hardware & software developers.
 - [The Essential Guide To Electronics in Shenzhen (2016)](https://bunniefoo.com/bunnie/essential/essential-guide-shenzhen-web.pdf) ([HN](https://news.ycombinator.com/item?id=21817656))
@@ -23,10 +23,10 @@
 - [Coding for SSDs](http://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/)
 - [hackrf](https://github.com/mossmann/hackrf) - Low cost software radio platform.
 - [Meshtastic](https://www.meshtastic.org/) - Open source hiking, pilot, skiing, Signal-App-extending GPS mesh communicator.
-- [Awesome Hardware Description Languages](https://github.com/drom/awesome-hdl#readme)
+- [Awesome Hardware Description Languages](https://github.com/drom/awesome-hdl)
 - [Tindie](https://www.tindie.com/) - Buy and Sell DIY hardware products.
 - [Ventilators 101: What They Do and How They Work (2020)](https://hackaday.com/2020/03/25/ventilators-101-what-they-do-and-how-they-work/)
-- [From the Transistor to the Web Browser](https://github.com/geohot/fromthetransistor#readme)
+- [From the Transistor to the Web Browser](https://github.com/geohot/fromthetransistor)
 - [ZetZ](https://github.com/aep/zz) - For code close to hardware, where C is and will remain the defacto standard system interface. You can also use it to build cross platform libraries, with a clean portable C-standard api.
 - [PID Without a PhD](https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf)
 - [How to flash an LED (2020)](https://mcla.ug/blog/how-to-flash-an-led.html) ([HN](https://news.ycombinator.com/item?id=22774098))

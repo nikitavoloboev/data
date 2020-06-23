@@ -33,7 +33,7 @@
 - [Autopsy](http://autopsy.io) - Lessons Learned from Failed Tech Startups.
 - [Let's Crunch It](https://www.letscrunchit.com/) - Powerful, interactive calculators and planners.
 - [Startup Tracker](https://startuptracker.io/)
-- [Places to post your startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
+- [Places to post your startup](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [Guy Kawasaki: The Top 10 Mistakes of Entrepreneurs](https://www.youtube.com/watch?v=HHjgK6p4nrw)
 - [Ines Montani - How to Ignore Most Startup Advice and Build a Decent Software Business (2018)](https://www.youtube.com/watch?v=74AsJ7RET20)
 - [Run less software](https://www.intercom.com/blog/run-less-software/)
@@ -57,10 +57,10 @@
 - [Ask HN: Pros and cons of working at a startup in 2019?](https://news.ycombinator.com/item?id=19236487)
 - [Cup & Leaf Cafe pt. 1: Why Would I Open a Cafe?](https://www.nateliason.com/blog/cup-leaf-cafe-1)
 - [Bell Curve](https://www.bellcurve.com/#what-we-offer) - Growth marketing agency.
-- [Awesome Indie](https://github.com/mezod/awesome-indie#readme) - Resources for independent developers to make money.
+- [Awesome Indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money.
 - [How to start a startup: Lecture 10 - Culture (Brian Chesky, Alfred Lin)](https://www.youtube.com/watch?v=RfWgVWGEuGE)
 - [A Brief History Of Spotify: Gustav Söderström (2019)](https://www.youtube.com/watch?v=jTM7ZCKEUGM)
-- [Awesome Startup Resources](https://github.com/ahmadnassri/awesome-startup-resources#readme)
+- [Awesome Startup Resources](https://github.com/ahmadnassri/awesome-startup-resources)
 - [Debugging Your Startup: What to Do When Things Aren’t Working (2019)](https://www.atrium.co/blog/debugging-your-startup/)
 - [Does the speed of production matter?](https://marginalrevolution.com/marginalrevolution/2019/04/does-the-speed-of-production-matter.html)
 - [Carta](https://carta.com/) - Helps private companies, public companies, and investors manage their cap tables, valuations, investments, and equity plans.
@@ -68,14 +68,14 @@
 - [B-corporation](https://bcorporation.net/) - Certified B Corporations are a new kind of business that balances purpose and profit..
 - [Why startups are hard — the math of venture capital returns tells the story](https://andrewchen.co/venture-capital-returns/)
 - [Ask HN: Starting Your Own LLC? (2019)](https://news.ycombinator.com/item?id=20009534)
-- [Stack on a budget (Free Tier Driven Development FTDD)](https://github.com/255kb/stack-on-a-budget#readme)
+- [Stack on a budget (Free Tier Driven Development FTDD)](https://github.com/255kb/stack-on-a-budget)
 - [Startup idea checklist (2019)](https://www.defmacro.org/2019/03/26/startup-checklist.html) ([HN](https://news.ycombinator.com/item?id=20254057))
 - [We Don’t Sell Saddles Here (2014)](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 - [Monzo Business Accounts](https://monzo.com/business/)
 - [Big companies v. startups](https://danluu.com/startup-tradeoffs/)
 - [Ask HN: Best free compute and other resources for startups? (2019)](https://news.ycombinator.com/item?id=20225118)
-- [Founder Dating Ritual](https://github.com/rickyyean/founder-dating-ritual#readme)
-- [Basecamp Employee Handbook](https://github.com/basecamp/handbook#readme)
+- [Founder Dating Ritual](https://github.com/rickyyean/founder-dating-ritual)
+- [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
 - [So much of what is written about growth is noise. Here are ten of the concepts I find myself coming back to over and over again (2019)](https://twitter.com/danhockenmaier/status/1145416117667500032)
 - [Netlify's culture & values](https://github.com/netlify/culture-handbook)
 - [Atrium](https://www.atrium.co/) - Better law firm for startups.

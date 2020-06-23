@@ -11,11 +11,11 @@
 - [Developing Leaders: What To Do When Your Team Grows Too Big](https://getlighthouse.com/blog/developing-leaders-team-grows-big/)
 - [Christoph Nakazawa's experience being FB manager](https://twitter.com/cpojer/status/993982733285298177)
 - [Steve Jobs on managing people](https://twitter.com/ProductHunt/status/1066527144992522240)
-- [The Eng Team Handbook](https://github.com/raylene/eng-handbook#readme) - Developer's guide to management: an open-sourced handbook for leading engineering teams.
+- [The Eng Team Handbook](https://github.com/raylene/eng-handbook) - Developer's guide to management: an open-sourced handbook for leading engineering teams.
 - [Ask HN: As managers, how do you make sure your distributed team is aligned? (2019)](https://news.ycombinator.com/item?id=19761183)
 - [Ask HN: What are the signs that you have a great manager? (2019)](https://news.ycombinator.com/item?id=20230133)
 - [The Power of Performance Reviews: Use This System to Become a Better Manager (2019)](https://firstround.com/review/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager/)
-- [Teamlead Roadmap (Russian)](https://github.com/tlbootcamp/tlroadmap#readme)
+- [Teamlead Roadmap (Russian)](https://github.com/tlbootcamp/tlroadmap)
 - [Ask HN: Solo devs, how do you plan your development? (2019)](https://news.ycombinator.com/item?id=21905423)
 - [100 Lessons and Spicy Takes on Being a Software Product Manager](https://jasonevanish.com/2020/01/12/100-lessons-and-spicy-takes-on-being-a-software-product-manager/)
 - [Bryan Cantrill on Engineering Performance Management](https://twitter.com/bcantrill/status/1216491216356823040)
@@ -27,7 +27,7 @@
 - [Work Is Work (2020)](https://codahale.com/work-is-work/) ([HN](https://news.ycombinator.com/item?id=22797687))
 - [Technology Budgeting Handbook](https://github.com/18F/technology-budgeting)
 - [Shape Up Your Agile (2020)](https://thinkfractional.blog/shape-up-your-agile/)
-- [Manager's Playbook](https://github.com/ksindi/managers-playbook#readme) - Heuristics for effective management.
+- [Manager's Playbook](https://github.com/ksindi/managers-playbook) - Heuristics for effective management.
 - [Spotify doesn’t use “the Spotify model” and neither should you (2020)](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 - [Top 100 Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers) ([Twitter](https://twitter.com/sachinrekhi/status/1256643491465007104))
 - [10 rules of a successful meeting in a tech company](https://twitter.com/tlakomy/status/1262767270062772224)
@@ -36,5 +36,5 @@
 - [Advice to New Managers: Don't Joke About Firing People (2020)](https://staysaasy.com/engineering/2020/06/09/Don%27t-Joke.html) ([HN](https://news.ycombinator.com/item?id=23477400))
 - [You could monitor your team, or you could motivate them (2020)](https://vanschneider.com/how-to-keep-your-team-motivated)
 - [People who’ve worked on teams where they felt valued and fulfilled: what made those teams special? (2020)](https://twitter.com/SparksZilla/status/1273073364551139329)
-- [Engineering manager resources](https://github.com/dmleong/manager-resources#readme)
+- [Engineering manager resources](https://github.com/dmleong/manager-resources)
 - [What makes a good boss? (2020)](https://twitter.com/zenorocha/status/1274037726111657984)

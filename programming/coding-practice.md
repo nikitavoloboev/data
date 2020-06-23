@@ -13,7 +13,7 @@
 - [Codechef](https://www.codechef.com/)
 - [Kattis](https://open.kattis.com/)
 - [Sphere Online Judge](http://www.spoj.com/)
-- [Build your own X](https://github.com/danistefanovic/build-your-own-x#readme)
+- [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 - [CodeAbbey](https://www.codeabbey.com/)
 - [Code Golf](https://code-golf.io/) ([Code](https://github.com/code-golf/code-golf))
 - [Coding Problems](https://github.com/MTrajK/coding-problems) - Solutions for various coding/algorithmic problems and many useful resources for learning algorithms and data structures.

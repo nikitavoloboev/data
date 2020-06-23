@@ -20,15 +20,15 @@ It is common to use React with a Flux pattern to manage the state of the applica
 
 - [React Redux — Concept, Workflow & Cheatsheet (2017)](https://medium.com/@javascript_7596/react-redux-concept-workflow-cheatsheet-be00e3ffa853)
 - [Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38)
-- [React Redux Style guide](https://github.com/iraycd/React-Redux-Styleguide#readme)
+- [React Redux Style guide](https://github.com/iraycd/React-Redux-Styleguide)
 - [Mark Erikson - The Fundamentals of Redux](https://www.youtube.com/watch?v=ewelU8WHXQ4&index=7&list=PLRvKvw42Rc7OWK5s-YGGFSmByDzzgC0HP)
-- [Redux Persist](https://github.com/rt2zz/redux-persist#readme) - Persist and rehydrate a Redux store.
+- [Redux Persist](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a Redux store.
 - [The Suspense is Killing Redux](https://medium.com/@ryanflorence/the-suspense-is-killing-redux-e888f9692430)
 - [Getting started with Redux course](https://egghead.io/courses/getting-started-with-redux)
 - [Erik Rasmussen | Abstracting Form State with Redux Form (2016)](https://www.youtube.com/watch?v=eDTi7lYR1VU)
 - [A Dummy’s Guide to Redux and Thunk in React](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3)
 - [redux-actions](https://github.com/redux-utilities/redux-actions) - Flux Standard Action utilities for Redux.
-- [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links#readme) - Categorized list of Redux-related addons, libraries, and utilities.
+- [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links) - Categorized list of Redux-related addons, libraries, and utilities.
 - [typesafe-actions](https://github.com/piotrwitek/typesafe-actions) - Typesafe Action Creators for Redux / Flux Architectures (in TypeScript).
 - [TypeScript FSA](https://github.com/aikoven/typescript-fsa) - Type-safe action creator utilities.
 - [Robodux](https://github.com/neurosnap/robodux) - Remove repetitive tasks from Redux.

@@ -48,7 +48,7 @@
 - [Interesting theorems](https://www.reddit.com/r/math/comments/6p9qic/if_every_field_had_to_have_a_fundamental_theorem/dknqbb2/)
 - [Ask HN: How do I learn math/physics in my thirties?](https://news.ycombinator.com/item?id=17075261)
 - [Napkin Project](https://web.evanchen.cc/napkin.html) ([Code](https://github.com/vEnhance/napkin))
-- [Learn Math Fast](https://github.com/llSourcell/learn_math_fast#readme) - Curated list of awesome mathematics resources.
+- [Learn Math Fast](https://github.com/llSourcell/learn_math_fast) - Curated list of awesome mathematics resources.
 - [Russian wiki on math & finance](http://synset.com/wiki/index.php/Заглавная_страница)
 - [Math for CS MIT Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/)
 - [MSC2010](https://mathscinet.ams.org/msc/pdfs/classifications2010.pdf) - Huge catalog of math topics.
@@ -91,7 +91,7 @@
 - [CoCalc](https://github.com/sagemathinc/cocalc) - Collaborative Calculation in the Cloud.
 - [Prime Numbers and the Riemann Hypothesis](https://github.com/williamstein/rh)
 - [nLab](https://ncatlab.org/nlab/show/HomePage) - Wiki-lab for collaborative work on Mathematics, Physics and Philosophy — especially from the n-point of view: in so far as these subjects are usefully treated with tools and notions of category theory or higher category theory.
-- [Understanding Mathematics](https://github.com/nbro/understanding-math#readme)
+- [Understanding Mathematics](https://github.com/nbro/understanding-math)
 - [Deep learning for symbolic mathematics (2019)](https://openreview.net/pdf?id=S1eZYeHFDS)
 - [Eigenvectors from eigenvalues (2019)](https://terrytao.wordpress.com/2019/08/13/eigenvectors-from-eigenvalues/)
 - [Cantor's Paradise Math Blog](https://medium.com/cantors-paradise)
@@ -152,8 +152,8 @@
 - [karasu](https://github.com/Krasjet/karasu) - Self-hosted remote communication system designed for math discussions. ([Web](https://krasjet.com/voice/karasu/))
 - [MathPages](https://www.mathpages.com/home/index.htm)
 - [Bill Thurston's answer to “What's a mathematician to do?”](https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do/44213#44213) ([HN](https://news.ycombinator.com/item?id=23461983))
-- [Visual Math Tools](https://github.com/prathyvsh/Visual-Math-Tools#readme)
-- [Math History Books](https://github.com/prathyvsh/math-history#readme)
+- [Visual Math Tools](https://github.com/prathyvsh/Visual-Math-Tools)
+- [Math History Books](https://github.com/prathyvsh/math-history)
 - [Ask HN: What kind of math do you study in your free time? (2020)](https://news.ycombinator.com/item?id=23474941)
 - [Ask a Mathematician / Ask a Physicist](https://www.askamathematician.com/)
 - [Important concepts in numerical analysis and related areas](https://github.com/higham/what-is)

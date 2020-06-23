@@ -6,7 +6,7 @@
 - [RocksDB](https://github.com/facebook/rocksdb) - Persistent Key-Value Store for Flash and RAM Storage.
 - [LevelDB](https://github.com/google/leveldb) - Fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [GoLevelDB](https://github.com/syndtr/goleveldb) - LevelDB key/value database in Go.
-- [NodeLevelDB](https://github.com/Level/level) - Fast & simple storage. A Node.js-style LevelDB wrapper for Node.js, Electron and browsers. ([Awesome](https://github.com/Level/awesome#readme))
+- [NodeLevelDB](https://github.com/Level/level) - Fast & simple storage. A Node.js-style LevelDB wrapper for Node.js, Electron and browsers. ([Awesome](https://github.com/Level/awesome))
 - [TiDB](https://github.com/pingcap/tidb) - Distributed HTAP database compatible with the MySQL protocol.
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB.
   - [pd](https://github.com/pingcap/pd) - Placement driver for TiKV.
@@ -73,7 +73,7 @@
 - [Bedrock](https://github.com/Expensify/Bedrock) - Rock solid distributed database specializing in active/active automatic failover and WAN replication.
 - [TerminusDB](https://terminusdb.com/) - Full featured in-memory graph database management system with a rich query language. ([Code](https://github.com/terminusdb/terminus-server)) ([HN](https://news.ycombinator.com/item?id=22867767))
 - [WhiteDB](https://github.com/priitj/whitedb) - Lightweight database library operating fully in main memory. Disk is used only for dumping/restoring database and logging.
-- [FaunaDB](https://fauna.com/) - Database built for serverless, featuring native GraphQL. ([Awesome](https://github.com/n400/awesome-faunadb#readme))
+- [FaunaDB](https://fauna.com/) - Database built for serverless, featuring native GraphQL. ([Awesome](https://github.com/n400/awesome-faunadb))
 - [immudb](https://github.com/codenotary/immudb) - Lightweight, high-speed immutable database for systems and applications. Written in Go.
 - [NutsDB](https://github.com/xujiajun/nutsdb) - Simple, fast, embeddable, persistent key/value store written in pure Go.
 - [remoteStorage](https://remotestorage.io/) - Open protocol for per-user storage on the Web.
@@ -106,7 +106,7 @@
 - [syncing-thesis](https://github.com/mirkokiefer/syncing-thesis) - Syncing strategies for mobile apps.
 - [Storage Performance Development Kit](https://spdk.io/) - Provides a set of tools and libraries for writing high performance, scalable, user-mode storage applications.
 - [Let's Build a Simple Database](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C.
-- [Readings in Databases](https://github.com/rxin/db-readings#readme) - List of papers essential to understanding databases and building new data systems.
+- [Readings in Databases](https://github.com/rxin/db-readings) - List of papers essential to understanding databases and building new data systems.
 - [Dbmate](https://github.com/amacneil/dbmate) - Lightweight, framework-agnostic database migration tool.
 - [Turning the database inside-out with Apache Samza (2015)](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/)
 - [Designing Data Intensive Applications Book](https://dataintensive.net/) - Deep dives into different types of data storage solutions, their history, and how they actually work.
@@ -123,12 +123,12 @@
 - [DB](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line. ([HN](https://news.ycombinator.com/item?id=21742222))
 - [Why databases use ordered indexes but programming uses hash tables (2019)](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
 - [Samuel Madden professor research page](http://db.csail.mit.edu/madden/)
-- [Curated list of resources for graph databases and graph computing tools](https://github.com/jbmusso/awesome-graph#readme)
+- [Curated list of resources for graph databases and graph computing tools](https://github.com/jbmusso/awesome-graph)
 - [Graph Databases book](https://pdfs.semanticscholar.org/f511/7084ca43e888fb3e17ab0f0e684cced0f8fd.pdf)
 - [Big News In Databases — Fall 2019](https://winand.at/newsletter/2019-12/partiql-microsoft-licenses-volcano-model)
 - [Ask HN: What are some examples of good database schema designs? (2020)](https://news.ycombinator.com/item?id=22324691)
 - [Data flows and security architecture in CockroachDB (2020)](https://dr-knz.net/data-flows-and-security-architecture-in-cockroachdb.html)
-- [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning#readme) - List of learning materials to understand databases internals.
+- [Awesome Database Learning](https://github.com/pingcap/awesome-database-learning) - List of learning materials to understand databases internals.
 - [Sharing an SQLite database across containers is surprisingly brilliant (2020)](https://medium.com/@rbranson/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054)
 - [Your Database as an API (2020)](http://kevinmahoney.co.uk/articles/your-database-as-an-api/) ([Lobsters](https://lobste.rs/s/nbyzgm/your_database_as_api))
 - [Elle](https://github.com/jepsen-io/elle) - Black-box transactional safety checker based on cycle detection.
@@ -136,7 +136,7 @@
 - [The Next 50 Years of Databases (2015)](http://www.cs.cmu.edu/~pavlo/blog/2015/09/the-next-50-years-of-databases.html) ([HN](https://news.ycombinator.com/item?id=21508210))
 - [Interview with Noria’s creator: a promising dataflow research database implemented in Rust (2019)](https://notamonadtutorial.com/interview-with-norias-creator-a-promising-dataflow-database-implemented-in-rust-352e2c3d9d95)
 - [The High Cost of Splitting Related Data (2020)](http://kevinmahoney.co.uk/articles/the-high-cost-of-splitting-related-data/)
-- [Awesome Database Tools](https://github.com/mgramin/awesome-db-tools#readme)
+- [Awesome Database Tools](https://github.com/mgramin/awesome-db-tools)
 - [Storage: Complete Overview for Developers (2020)](https://developer.sh/posts/storage-technologies-for-developers)
 - [Event-Reduce](https://github.com/pubkey/event-reduce) - Algorithm to optimize database queries that run multiple times. ([HN](https://news.ycombinator.com/item?id=22888239))
 - [Apache Druid vs. Time-Series Databases (2019)](https://imply.io/post/apache-druid-vs-time-series-databases) ([HN](https://news.ycombinator.com/item?id=22868286))
@@ -157,7 +157,7 @@
 - [About Pool Sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
 - [migrate](https://github.com/golang-migrate/migrate) - Database migrations written in Go. Use as CLI or import as library.
 - [I want to own the database that my apps use (2020)](https://orndorffgrant.com/own-your-data-idea/) ([Lobsters](https://lobste.rs/s/dyeuqm/i_want_own_database_my_apps_use))
-- [Hermitage: Testing transaction isolation levels](https://github.com/ept/hermitage#readme)
+- [Hermitage: Testing transaction isolation levels](https://github.com/ept/hermitage)
 - [Amazon's Dynamo (2007)](https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html)
 - [The Curious Case of Small Files (2020)](https://developer.sh/posts/curious-case-of-small-files) ([Lobsters](https://lobste.rs/s/b3mmo4/curious_case_small_files))
 - [MiniCouchDB in Rust (2020)](https://www.garrensmith.com/blogs/mini-couch-hack-week) ([HN](https://news.ycombinator.com/item?id=23446852)) ([Lobsters](https://lobste.rs/s/waj4zf/minicouchdb_rust))

@@ -40,7 +40,7 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Important saving goals people should have](https://www.reddit.com/r/ynab/comments/8d4ab4/what_is_the_best_approach_for_budgeting_savings/)
 - [The Shockingly Simple Math Behind Early Retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
 - [Ask HN: What to do after \$8M (all cash, post tax) exit? (2018)](https://news.ycombinator.com/item?id=18600220)
-- [Resources for those who want to better understand personal finance](https://github.com/kmt901/goodbye-money-confusion#readme)
+- [Resources for those who want to better understand personal finance](https://github.com/kmt901/goodbye-money-confusion)
 - [How to earn your Macroeconomics and Finance white belt (as a software developer) (2019)](https://notamonadtutorial.com/how-to-earn-your-macroeconomics-and-finance-white-belt-as-a-software-developer-136e7454866f)
 - [Ask HN: Best Passive Income Method? (2019)](https://news.ycombinator.com/item?id=20052668)
 - [What were the most influential learning resources you found while discovering FIRE? (2019)](https://www.reddit.com/r/financialindependence/comments/c9yan7/what_were_the_most_influential_learning_resources/)

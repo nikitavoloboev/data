@@ -2,7 +2,7 @@
 
 ## Links
 
-- [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme)
+- [Awesome Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss)
 - [Figma Kit for TailwindCSS](https://github.com/impulse/tailwindcss-figma-kit)
 - [Typed Tailwind](https://github.com/dvkndn/typed.tw) - Brings types to TailwindCSS via TypeScript.
 - [Tailwind with React (2020)](http://ryanlanciaux.com/blog/2020/01/02/tailwind-with-react/)

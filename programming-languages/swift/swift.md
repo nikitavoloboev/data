@@ -20,30 +20,30 @@
 - [Swift Debugger and REPL](https://github.com/apple/swift-lldb) - Version of LLDB that supports the Swift programming language & REPL.
 - [danger-swift](https://github.com/danger/swift) - Stop saying "you forgot to …" in code review in Swift.
 - [SwiftTube](https://github.com/ahmetws/swifttube) - iOS conference videos in one place.
-- [Collection useful tips for the Swift language](https://github.com/vincent-pradeilles/swift-tips#readme)
+- [Collection useful tips for the Swift language](https://github.com/vincent-pradeilles/swift-tips)
 - [What’s new in Swift 5.0?](https://github.com/twostraws/whats-new-in-swift-5-0) - Xcode playground that demonstrates the new features introduced in Swift 5.0
-- [Airbnb Swift Style Guide](https://github.com/airbnb/swift#readme)
-- [Swift Community Podcast](https://github.com/SwiftCommunityPodcast/podcast#readme)
+- [Airbnb Swift Style Guide](https://github.com/airbnb/swift)
+- [Swift Community Podcast](https://github.com/SwiftCommunityPodcast/podcast)
 - [Periphery](https://github.com/peripheryapp/periphery) - Eliminate unused Swift code.
 - [Chris Lattner on the origins of Swift (2019)](https://oleb.net/2019/chris-lattner-swift-origins/)
 - [Swift Rust-like ownership model RFC](https://github.com/apple/swift/blob/master/docs/OwnershipManifesto.md)
 - [swift-docker](https://github.com/apple/swift-docker) - Docker Official Image packaging for Swift.
-- [Awesome Server Side Swift](https://github.com/cak/awesome-server-side-swift#readme)
-- [Awesome System Swift](https://github.com/felix91gr/awesome-system-swift#readme)
+- [Awesome Server Side Swift](https://github.com/cak/awesome-server-side-swift)
+- [Awesome System Swift](https://github.com/felix91gr/awesome-system-swift)
 - [Code Examples Repository](https://github.com/kharrison/CodeExamples) - Examples of code in objc/swift.
 - [Swift Rules for Bazel](https://github.com/bazelbuild/rules_swift) - Bazel rules to build Swift on Apple and Linux platforms.
 - [Leaf](https://github.com/vapor/leaf) - Expressive, performant, and extensible templating language built for Swift.
 - [Markdown Playgrounds for Swift](https://github.com/objcio/markdown-playgrounds) - Markdown Editor that can execute Swift code. With building of it documented with videos.
 - [Improving the UI of generics (2019)](https://forums.swift.org/t/improving-the-ui-of-generics/22814)
 - [Swift on Sundays](https://github.com/twostraws/SwiftOnSundays) - Completed projects for the Swift on Sundays livestream series.
-- [Swift Style Guide](https://github.com/linkedin/swift-style-guide#readme) - LinkedIn's Official Swift Style Guide.
+- [Swift Style Guide](https://github.com/linkedin/swift-style-guide) - LinkedIn's Official Swift Style Guide.
 - [SwiftKit](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework.
 - [Swiftenstein](https://github.com/nicklockwood/Swiftenstein) - Simple Wolfenstein 3D clone written in Swift.
 - [How do closures and callbacks work? It's turtles all the way down (2018)](https://desiatov.com/closures/)
 - [SwiftWasm](https://swiftwasm.org/) - Compiles your Swift code to WebAssembly.
 - [NSScreencast](https://nsscreencast.com/episodes) - Video Training for iOS Developers.
 - [Swift for TensorFlow Newsletter](https://www.s4tfnews.com/issues)
-- [SourceKit-LSP](https://github.com/apple/sourcekit-lsp#readme) - Language Server Protocol implementation for Swift and C-based languages.
+- [SourceKit-LSP](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages.
 - [Retro Rampage](https://github.com/nicklockwood/RetroRampage) - Tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift.
 - [llbuild](https://github.com/apple/swift-llbuild) - Low-level build system, used by Xcode and the Swift Package Manager.
 - [Accio](https://github.com/JamitLabs/Accio) - Dependency manager driven by SwiftPM that works for iOS/tvOS/watchOS/macOS projects.
@@ -80,19 +80,19 @@
 - [Swift AST Explorer](https://swift-ast-explorer.kishikawakatsumi.com/) ([Code](https://github.com/kishikawakatsumi/swift-ast-explorer-playground))
 - [ProcreateUndoGesture](https://github.com/SavageSource/ProcreateUndoGesture) - Example of Procreate's Undo and Redo gestures.
 - [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - VT100/Xterm Terminal emulator in Swift.
-- [Awesome Swift](https://github.com/matteocrippa/awesome-swift#readme)
+- [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
 - [Yak Shaving - Swift Edition (2020)](https://tirania.org/blog/archive/2020/Mar-24.html) ([HN](https://news.ycombinator.com/item?id=22682003))
-- [Awesome Swift and Tutorial Resources](https://github.com/MaxChen/awesome-swift-and-tutorial-resources#readme)
+- [Awesome Swift and Tutorial Resources](https://github.com/MaxChen/awesome-swift-and-tutorial-resources)
 - [Swift Weekly Brief](https://swiftweekly.github.io/) - Community-driven weekly newsletter about what's happening in Swift.
 - [Swift by Sundell](https://swiftbysundell.com/) - Weekly Swift articles, podcasts and tips by John Sundell. ([Code](https://github.com/JohnSundell/SwiftBySundell))
 - [Swift on Mac OS 9 (2020)](https://belkadan.com/blog/2020/04/Swift-on-Mac-OS-9/) ([HN](https://news.ycombinator.com/item?id=22754667))
 - [swift-format](https://github.com/apple/swift-format) - Provides the formatting technology for SourceKit-LSP and the building blocks for doing code formatting transformations.
-- [Awesome Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
+- [Awesome Swift Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
 - [Typology](https://github.com/MaxDesiatov/Typology) - Swift type checking and semantic analysis for developer tools.
 - [Important talks and articles for first time Swift Contributors (2020)](https://forums.swift.org/t/important-talks-and-articles-for-first-time-swift-contributors/34537)
 - [Swift: Google’s bet on differentiable programming (2020)](https://tryolabs.com/blog/2020/04/02/swift-googles-bet-on-differentiable-programming/) ([HN](https://news.ycombinator.com/item?id=22820852))
 - [SwiftSyntaxHighlighter](https://github.com/NSHipster/SwiftSyntaxHighlighter) - Syntax highlighter for Swift code that uses SwiftSyntax to generate Pygments-compatible HTML.
-- [Awesome Embedded Swift](https://github.com/Cosmo/awesome-embedded-swift#readme)
+- [Awesome Embedded Swift](https://github.com/Cosmo/awesome-embedded-swift)
 - [Swift Talk](https://talk.objc.io/) - Weekly video series on Swift programming. ([Code](https://github.com/objcio/swift-talk-backend))
 - [Swift Interview Tips (2020)](https://www.youtube.com/playlist?list=PL8seg1JPkqgF5wazzCKSq3EEfqt3t8mvA)
 - [Example project for the "Composable Architecture"](https://github.com/finestructure/PFCompArch)

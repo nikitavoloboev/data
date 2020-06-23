@@ -12,7 +12,7 @@ I take this idea further and define these kind of hyper keys but for **every sin
 
 ## My personal Karabiner setup
 
-I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.edn) with [Goku](https://github.com/yqrashawn/GokuRakuJoudo#readme).
+I generate [my Karabiner config](https://github.com/nikitavoloboev/dotfiles/blob/master/karabiner/karabiner.edn) with [Goku](https://github.com/yqrashawn/GokuRakuJoudo).
 
 ## Notes
 

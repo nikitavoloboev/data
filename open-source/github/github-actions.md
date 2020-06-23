@@ -94,7 +94,7 @@
 ## Links
 
 - [OSS list of GitHub actions](https://github-actions.netlify.com/)
-- [Collection of useful GitHub Actions](https://github.com/maddox/actions#readme)
+- [Collection of useful GitHub Actions](https://github.com/maddox/actions)
 - [Act](https://github.com/nektos/act) - Run your GitHub Actions locally.
 - [GitHub Actions Workflow Parser](https://github.com/actions/workflow-parser) - Language specification and the official parser for GitHub Actions main.workflow files.
 - [Accelerating new GitHub Actions workflows](https://github.com/actions/starter-workflows)
@@ -109,7 +109,7 @@
 - [Creating GitHub Actions in Python (2019)](https://www.jacobtomlinson.co.uk/posts/2019/creating-github-actions-in-python/)
 - [Exploring Actions (2019)](https://brandur.org/nanoglyphs/005-actions)
 - [GitHub Actions Runner](https://github.com/actions/runner) - Runner is the application that runs a job from a GitHub Actions workflow. The runner can run on the hosted machine pools or run on self-hosted environments.
-- [Awesome Actions](https://github.com/sdras/awesome-actions#readme) - Curated list of awesome actions to use on GitHub.
+- [Awesome Actions](https://github.com/sdras/awesome-actions) - Curated list of awesome actions to use on GitHub.
 - [Actions Panel](https://www.actionspanel.app/) - Manually Trigger Your GitHub Actions. ([HN](https://news.ycombinator.com/item?id=22711935))
 - [Running GitHub Actions on Preview Deploys (2020)](https://webcloud.se/blog/2020-02-16-github-actions-preview-deploys/)
 - [Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/summerwind/actions-runner-controller)

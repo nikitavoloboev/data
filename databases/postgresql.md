@@ -8,7 +8,7 @@
 
 - [PostgreSQL Exercises](https://pgexercises.com/)
 - [Skor](https://github.com/hasura/skor) - Listen to Postgres events and forward them as JSON payloads to a webhook.
-- [PipelineDB](https://github.com/pipelinedb/pipelinedb#readme) - High-performance time-series aggregation for PostgreSQL.
+- [PipelineDB](https://github.com/pipelinedb/pipelinedb) - High-performance time-series aggregation for PostgreSQL.
 - [pgsync](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
 - [Bye bye Mongo, Hello Postgres](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres) ([HN](https://news.ycombinator.com/item?id=18717168))
 - [The Internals of PostgreSQL](http://www.interdb.jp/pg/index.html) ([HN](https://news.ycombinator.com/item?id=18950460))
@@ -57,7 +57,7 @@
 - [My GOTO Postgres Configuration for Web Services (2020)](https://tightlycoupled.io/my-goto-postgres-configuration-for-web-services/)
 - [pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) - Advanced scheduling for PostgreSQL. ([Article](https://www.cybertec-postgresql.com/en/pg_timetable-advanced-postgresql-job-scheduling/))
 - [PostgreSQL at Scale: Database Schema Changes Without Downtime (2019)](https://medium.com/braintree-product-technology/postgresql-at-scale-database-schema-changes-without-downtime-20d3749ed680)
-- [Strong migrations](https://github.com/ankane/strong_migrations#readme) - Catch unsafe migrations in development.
+- [Strong migrations](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/12/index.html)
 - [HN: The state of full text search in PostgreSQL 12 (2020)](https://news.ycombinator.com/item?id=22223629)
 - [pgmetrics](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server. ([Web](https://pgmetrics.io/))
@@ -66,7 +66,7 @@
 - [Transactionally Staged Job Drains in Postgres (2017)](https://brandur.org/job-drain) ([HN](https://news.ycombinator.com/item?id=15294722))
 - [Postgres source code](https://github.com/postgres/postgres)
 - [Postgres Explain Visualizer (pev)](https://dalibo.github.io/pev2/#/) - VueJS component to show a graphical visualization of a PostgreSQL execution plan. ([Code](https://github.com/dalibo/pev2)) ([HN](https://news.ycombinator.com/item?id=22472175))
-- [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres#readme)
+- [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres)
 - [PostgreSQL Automatic Failover](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
 - [pgagroal](https://github.com/agroal/pgagroal) - High-performance protocol-native connection pool for PostgreSQL.
 - [Distinct On: The Confusing, Unique and Useful Feature in Postgres (2020)](https://www.yogeshchauhan.com/167/postgres/the-confusing-unique-and-useful-feature-in-postgres-distinct-on) ([HN](https://news.ycombinator.com/item?id=22625642))

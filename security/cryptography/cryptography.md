@@ -12,7 +12,7 @@
 - [s2n](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols. ([Lobsters](https://lobste.rs/s/i1jdij/aws_s_implementation_tls_ssl))
 - [Practical Cryptography With Go](https://leanpub.com/gocrypto/read)
 - [LibHydrogen](https://github.com/jedisct1/libhydrogen) - Lightweight, secure, easy-to-use crypto library suitable for constrained environments.
-- [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
+- [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Asymmetric Cryptography: Works Like Magic](https://dominictarr.com/post/106497926352/asymmetric-cryptography-works-like-magic)
 - [saltpack](https://github.com/keybase/saltpack) - Modern crypto messaging format. ([HN](https://news.ycombinator.com/item?id=23174421))
 - [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
@@ -34,7 +34,7 @@
 - [BLAKE3 (in JS)](https://github.com/connor4312/blake3) - Hashing for JavaScript: native Node bindings (where available) and WebAssembly.
 - [BLAKE3 reference specification](https://github.com/BLAKE3-team/BLAKE3-specs)
 - [Real world crypto talks](https://flak.tedunangst.com/post/real-world-crypto-talks)
-- [awesome-mpc](https://github.com/rdragos/awesome-mpc#readme) - Curated list of multi party computation resources and links.
+- [awesome-mpc](https://github.com/rdragos/awesome-mpc) - Curated list of multi party computation resources and links.
 - [Basic Intro to Lattices in Cryptography (2020)](https://qvault.io/2020/01/23/very-basic-intro-to-lattices-in-cryptography/)
 - [SwiftCrypto](https://github.com/apple/swift-crypto) - Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms. ([Article](https://swift.org/blog/crypto/))
 - [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) - Cryptographic Primitive Code Generation by Fiat.
@@ -55,7 +55,7 @@
 - [Botan](https://github.com/randombit/botan) - Crypto and TLS for Modern C++.
 - [Understanding Cryptography book](http://www.crypto-textbook.com/)
 - [Ask HN: Keybase Alternatives? (2020)](https://news.ycombinator.com/item?id=23103386)
-- [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources#readme)
+- [Useful Crypto-related Resources](https://github.com/claucece/useful-crypto-resources)
 - [Basic Intro To Elliptic Curve Cryptography (2019)](https://qvault.io/2019/12/31/very-basic-intro-to-elliptic-curve-cryptography/) ([HN](https://news.ycombinator.com/item?id=23370009))
 - [How Not to Learn Cryptography (2014)](http://esl.cs.brown.edu/blog/how-not-to-learn-cryptography/) ([HN](https://news.ycombinator.com/item?id=23384227))
 - [Encrypted Systems Lab](http://esl.cs.brown.edu/) - Research lab in the Computer Science Department at Brown University.

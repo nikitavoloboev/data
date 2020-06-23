@@ -38,7 +38,7 @@
 - [Domen Kožar, Lead DevOps, Nix workshop](https://www.youtube.com/watch?v=BjRGlKNHeEc)
 - [Cheap Docker images with Nix](http://lethalman.blogspot.com/2016/04/cheap-docker-images-with-nix_15.html)
 - [When to use declarative approach and when not](https://www.reddit.com/r/NixOS/comments/95vczu/when_to_use_declarative_approach_and_when_not/)
-- [example-nix](https://github.com/shajra/example-nix#readme) - A way to develop software with Nix.
+- [example-nix](https://github.com/shajra/example-nix) - A way to develop software with Nix.
 - [Hercules CI](https://hercules-ci.com/) - Hosted CI for building Nix projects on your infrastructure.
 - [Dysnomia](https://github.com/svanderburg/dysnomia) - Tool and plug-in system that can be used to automatically deploy mutable components.
 - [Disnix](https://github.com/svanderburg/disnix) - Nix-based distributed service deployment tool.
@@ -47,7 +47,7 @@
 - [pypi2nix](https://github.com/garbas/pypi2nix) - Generate Nix expressions for Python packages.
 - [hnix-store](https://github.com/haskell-nix/hnix-store) - Haskell implementation of the nix store API.
 - [nix-cheatsheet](https://github.com/knedlsepp/nix-cheatsheet)
-- [Nix RFCs](https://github.com/NixOS/rfcs#readme)
+- [Nix RFCs](https://github.com/NixOS/rfcs)
 - [nix-linter](https://github.com/Synthetica9/nix-linter) - Linter for the Nix expression language.
 - [Install Nix docs by Mozilla](https://docs.mozilla-releng.net/develop/install-nix.html) - Pretty good.
 - [Nix scripts shared across IOHK projects](https://github.com/input-output-hk/iohk-nix)
@@ -57,7 +57,7 @@
 - [nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere.
 - [crate2nix](https://github.com/kolloch/crate2nix) - Nix build file generator for rust crates. ([Lobsters](https://lobste.rs/s/26xnzy/crate2nix_nix_build_file_generator_for))
 - [lorri](https://github.com/target/lorri) - nix-shell replacement for project development.
-- [Awesome Nix](https://github.com/nix-community/awesome-nix#readme)
+- [Awesome Nix](https://github.com/nix-community/awesome-nix)
 - [nixfmt](https://github.com/serokell/nixfmt) - Formatter for Nix code.
 - [Nix for devs](https://github.com/uniphil/nix-for-devs) - Collection of recipes focused on nix-shell to make setting up project environments easy.
 - [nixpkgs-fmt](https://github.com/nix-community/nixpkgs-fmt) - Nix code formatter for nixpkgs.
@@ -67,7 +67,7 @@
 - [hnix-lsp](https://github.com/domenkozar/hnix-lsp) - Language Server Protocol for Nix.
 - [Make Nix precisely emulate gitignore](https://github.com/hercules-ci/gitignore.nix)
 - [Nixery](https://github.com/google/nixery) - Container registry which transparently builds images using the Nix package manager.
-- [Nix - A One Pager](https://github.com/tazjin/nix-1p#readme) - A (more or less) one page introduction to Nix, the language.
+- [Nix - A One Pager](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
 - [yants](https://github.com/tazjin/yants) - Tiny type-checker for data in Nix, written in Nix.
 - [nix-shorts](https://github.com/justinwoo/nix-shorts) - Collection of short notes about Nix, down to what is immediately needed for users.
 - [rnix-parser](https://github.com/nix-community/rnix-parser) - Nix parser written in Rust.

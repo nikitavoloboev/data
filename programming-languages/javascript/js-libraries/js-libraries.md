@@ -168,7 +168,7 @@
 - [p-queue](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control.
 - [gsheets](https://github.com/interactivethings/gsheets) - Get public Google Sheets as plain JavaScript/JSON.
 - [alga-ts](https://github.com/YBogomolov/alga-ts) - Algebraic graphs implementation in TypeScript.
-- [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag. ([Awesome](https://github.com/chartjs/awesome#readme))
+- [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag. ([Awesome](https://github.com/chartjs/awesome))
 - [on-change](https://github.com/sindresorhus/on-change) - Watch an object or array for changes.
 - [clean-set](https://github.com/fwilkerson/clean-set) - Deep assignment alternative to the object spread operator and Object.assign.
 - [Search Query Syntax Parser](https://github.com/nepsilon/search-query-parser)
@@ -281,5 +281,5 @@
 ## Links
 
 - [NPM](https://www.npmjs.com) - Node package manager registry.
-- [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio#readme)
-- [Awesome XState](https://github.com/darrylhebbes/awesome_xstate#readme)
+- [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio)
+- [Awesome XState](https://github.com/darrylhebbes/awesome_xstate)

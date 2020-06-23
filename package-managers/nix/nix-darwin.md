@@ -1,6 +1,6 @@
 # Nix on macOS
 
-There is [nix-darwin](https://github.com/LnL7/nix-darwin#readme) project that brings Nix configuration to describing many of macOS services.
+There is [nix-darwin](https://github.com/LnL7/nix-darwin) project that brings Nix configuration to describing many of macOS services.
 
 ## Notes
 

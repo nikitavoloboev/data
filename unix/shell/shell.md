@@ -33,7 +33,7 @@ All active variables can be seen by running `env`.
 - [Purs](https://github.com/xcambar/purs) - Pure-inspired prompt in Rust.
 - [Sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [Nu Shell](https://github.com/nushell/nushell) - Modern, GitHub-era shell written in Rust. ([HN](https://news.ycombinator.com/item?id=20783006))
-- [Collection of pure POSIX sh alternatives to external processes](https://github.com/dylanaraps/pure-sh-bible#readme)
+- [Collection of pure POSIX sh alternatives to external processes](https://github.com/dylanaraps/pure-sh-bible)
 - [Lobsters: What does your shell prompt look like? (2019)](https://lobste.rs/s/skoapt/what_does_your_shell_prompt_look_like)
 - [navi](https://github.com/denisidoro/navi) - Interactive cheatsheet tool for the command-line.
 - [Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)

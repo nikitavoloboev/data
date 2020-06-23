@@ -51,4 +51,4 @@ I use [Antibody](https://github.com/getantibody/antibody) to manage [my plugins]
 
 ## Links
 
-- [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme)
+- [Awesome Zsh Plugins](https://github.com/unixorn/awesome-zsh-plugins)

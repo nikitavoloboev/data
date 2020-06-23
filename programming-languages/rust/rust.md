@@ -46,16 +46,16 @@
 - [Moving from Ruby to Rust (2019)](https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html) ([HN](https://news.ycombinator.com/item?id=19166020))
 - [miniserve](https://github.com/svenstaro/miniserve) - Nice & small CLI tool in Rust (can use for inspiration in building Rust CLI tools).
 - [Rust: A unique perspective (2019)](https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html)
-- [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust#readme)
-- [Rust Programming Tipz](https://github.com/spacejam/elements-of-rust#readme)
+- [Minimizing Rust Binary Size](https://github.com/johnthagen/min-sized-rust)
+- [Rust Programming Tipz](https://github.com/spacejam/elements-of-rust)
 - [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code.
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 - [cargo audit](https://github.com/RustSec/cargo-audit) - Audit Cargo.lock files for crates with security vulnerabilities.
 - [Rust. Are we web yet?](https://www.arewewebyet.org/)
 - [Changelog generator for Rust projects](https://github.com/yoshuawuyts/changelog)
-- [Rust: Frequently Asked Questions](https://github.com/dtolnay/rust-faq#readme)
+- [Rust: Frequently Asked Questions](https://github.com/dtolnay/rust-faq)
 - [Building fast interpreters in Rust (2019)](https://blog.cloudflare.com/building-fast-interpreters-in-rust/)
-- [Rust RFCs](https://github.com/rust-lang/rfcs#readme)
+- [Rust RFCs](https://github.com/rust-lang/rfcs)
 - [2019 Roadmap for Rust](https://github.com/rust-lang/rfcs/blob/master/text/2657-roadmap-2019.md)
 - [Rust RFCs](https://github.com/rust-lang/rfcs)
 - [Learning Rust](https://learning-rust.github.io/) - Materials for learning Rust. ([OSS](https://github.com/learning-rust/site))
@@ -65,21 +65,21 @@
 - [A final proposal for await syntax (2019)](https://news.ycombinator.com/item?id=19840095) ([HN](https://news.ycombinator.com/item?id=19840095)) ([Lobsters](https://lobste.rs/s/4zy92m/final_proposal_for_await_syntax))
 - [Sealed Rust (2019)](https://ferrous-systems.com/blog/sealed-rust-the-pitch/)
 - [Async Rust Programming Book](https://rust-lang.github.io/async-book/getting_started/why_async.html#why-async)
-- [Best short-form writing about Rust, collected](https://github.com/brson/rust-anthology#readme)
+- [Best short-form writing about Rust, collected](https://github.com/brson/rust-anthology)
 - [Update on await syntax](https://boats.gitlab.io/blog/post/await-decision-ii/) ([HN](https://news.ycombinator.com/item?id=20030486))
 - [Sonny Scroggin - BEAM + Rust: A match made in heaven (2019)](https://www.youtube.com/watch?v=xe32ku9s14k)
-- [Collection of software engineering techniques for effectively expressing intent with Rust](https://github.com/ferrous-systems/elements-of-rust#readme)
+- [Collection of software engineering techniques for effectively expressing intent with Rust](https://github.com/ferrous-systems/elements-of-rust)
 - [What are the most important traits to learn in the rust stdlib? (2019)](https://www.reddit.com/r/rust/comments/c8fl30/what_are_the_most_important_traits_to_learn_in/)
-- [Rust API guidelines](https://github.com/rust-lang-nursery/api-guidelines#readme) - Set of recommendations on how to design and present APIs for the Rust programming language.
+- [Rust API guidelines](https://github.com/rust-lang-nursery/api-guidelines) - Set of recommendations on how to design and present APIs for the Rust programming language.
 - [The Go Developer's Quickstart Guide to Rust (2018)](http://technosophos.com/2018/05/27/the-go-developers-quickstart-guide-to-rust.html)
 - [Notes on a smaller Rust (2019)](https://boats.gitlab.io/blog/post/notes-on-a-smaller-rust/) ([Lobsters](https://lobste.rs/s/u2oufb/notes_on_smaller_rust))
-- [Functional Programming Jargon in Rust](https://github.com/JasonShin/functional-programming-jargon.rs#readme)
+- [Functional Programming Jargon in Rust](https://github.com/JasonShin/functional-programming-jargon.rs)
 - [MIRAI](https://github.com/facebookexperimental/MIRAI) - Rust mid-level IR Abstract Interpreter.
 - [Are we async yet?](https://areweasyncyet.rs/)
 - [A static web app in Rust (2018)](https://bluejekyll.github.io/blog/rust/2018/07/22/static-web-app-rust.html)
 - [Rust from a Java dev (2015)](https://bluejekyll.github.io/blog/java/rust/2015/05/14/rust-from-a-java-dev.html)
 - [Announcing Rust 1.37.0 (2019)](https://blog.rust-lang.org/2019/08/15/Rust-1.37.0.html) ([HN](https://news.ycombinator.com/item?id=20705471))
-- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust#readme)
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable.
 - [Rust CLI working group](https://github.com/rust-lang-nursery/cli-wg)
 - [c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust.
@@ -89,7 +89,7 @@
 - [Falling in love with Rust (2018)](http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/)
 - [Rust for JavaScript peeps (2019)](https://github.com/yoshuawuyts/rust-for-js-people)
 - [Graphical depiction of ownership and borrowing in Rust (2017)](https://rufflewind.com/2017-02-15/rust-move-copy-borrow)
-- [Summary of the Rust book](https://github.com/psibi/rust-book-summary#readme)
+- [Summary of the Rust book](https://github.com/psibi/rust-book-summary)
 - [Cargo-sweep](https://github.com/holmgr/cargo-sweep) - Cargo subcommand for cleaning up unused build files generated by Cargo.
 - [cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
 - [Rust in Production at Figma (2018)](https://www.figma.com/blog/rust-in-production-at-figma/)
@@ -159,13 +159,13 @@
 - [Out of the Box Dynamic Dispatch (2020)](https://llogiq.github.io/2020/03/14/ootb.html)
 - [Optimizations That Aren't, Or Are They? (2020)](https://oribenshir.github.io/afternoon_rusting/blog/copy-on-write)
 - [How I Start: Rust (2020)](https://christine.website/blog/how-i-start-rust-2020-03-15) ([HN](https://news.ycombinator.com/item?id=22591544))
-- [Rust Books](https://github.com/sger/RustBooks#readme)
+- [Rust Books](https://github.com/sger/RustBooks)
 - [Lobsters: Yes, I am still learning Rust (2020)](https://lobste.rs/s/hyjxf5/yes_i_am_still_learning_rust)
 - [Guide on how to write documentation for a Rust crate (2020)](https://blog.guillaume-gomez.fr/articles/2020-03-12+Guide+on+how+to+write+documentation+for+a+Rust+crate) ([HN](https://news.ycombinator.com/item?id=22636282))
 - [HN: Apple is looking for engineers to convert its code from C to Rust (2020)](https://news.ycombinator.com/item?id=22642185)
 - [Rust Design Patterns](https://github.com/lpxxn/rust-design-pattern)
 - [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/) ([Code](https://github.com/rust-lang/rustc-dev-guide))
-- [Rust For Systems Programmers](https://github.com/nrc/r4cppp#readme)
+- [Rust For Systems Programmers](https://github.com/nrc/r4cppp)
 - [Rust Latam: procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop)
 - [Shipping a compiler every six weeks (2019)](https://www.pietroalbini.org/blog/shipping-a-compiler-every-six-weeks/) ([HN](https://news.ycombinator.com/item?id=21613415))
 - [Prefer Rust to C/C++ for new code (2019)](http://cliffle.com/blog/prefer-rust/) ([HN](https://news.ycombinator.com/item?id=21545374))
@@ -182,7 +182,7 @@
 - [Mental models around Ok-Wrapping (2020)](https://vorner.github.io/2020/04/09/wrapping-mental-models.html) ([HN](https://news.ycombinator.com/item?id=22832955))
 - [Canduma rust authentication server boilerplate](https://github.com/clifinger/canduma) - Rust Boilerplate server with GraphQL API, Diesel, PostgreSQL, session authentication and JWT.
 - [Rust teams structure](https://github.com/rust-lang/team)
-- [Rust Learning](https://github.com/ctjhoa/rust-learning#readme) - Bunch of links to blog posts, articles, videos, etc for learning Rust.
+- [Rust Learning](https://github.com/ctjhoa/rust-learning) - Bunch of links to blog posts, articles, videos, etc for learning Rust.
 - [How often does Rust change? (2020)](https://words.steveklabnik.com/how-often-does-rust-change) ([Lobsters](https://lobste.rs/s/rbpnib/how_often_does_rust_change)) ([HN](https://news.ycombinator.com/item?id=22842442))
 - [Cranelift backend for rustc](https://github.com/bjorn3/rustc_codegen_cranelift)
 - [Possible New Backend for Rust (2020)](https://jason-williams.co.uk/a-possible-new-backend-for-rust)
@@ -193,7 +193,7 @@
 - [HN: Rust Survey 2019 Results](https://news.ycombinator.com/item?id=22903375)
 - [Rust language design team notes](https://github.com/rust-lang/lang-team)
 - [Rust Stream: Ownership, Closures, and Threads (2020)](https://www.youtube.com/watch?v=2mwwYbBRJSo)
-- [Awesome Rust Streaming](https://github.com/jamesmunns/awesome-rust-streaming#readme)
+- [Awesome Rust Streaming](https://github.com/jamesmunns/awesome-rust-streaming)
 - [Ferrous' Rust Experts Q&A - Contributing to Rust (2020)](https://www.youtube.com/watch?v=vaI5tWksfxg)
 - [Notes on Parsing in Rust (2020)](https://blog.wesleyac.com/posts/rust-parsing) ([Lobsters](https://lobste.rs/s/xrwozt/notes_on_parsing_rust))
 - [Thread on Rust: what I like and what not (2020)](https://twitter.com/eugeneia_/status/1255803692181327872)
@@ -201,7 +201,7 @@
 - [From Rust to WebAssembly: building an interactive note-taking webapp with Actix & Yew (2020)](https://www.luu.io/posts/lenote/)
 - [Async interviews: my take thus far (2020)](http://smallcultfollowing.com/babysteps/blog/2020/04/30/async-interviews-my-take-thus-far/)
 - [How we use Rust in our mobile SDK (2020)](https://bionic.fullstory.com/rust-at-fullstory-part-2/) ([HN](https://news.ycombinator.com/item?id=23008399))
-- [Rust language interoperability with other languages - C, C++ etc](https://github.com/crackcomm/rust-lang-interop#readme)
+- [Rust language interoperability with other languages - C, C++ etc](https://github.com/crackcomm/rust-lang-interop)
 - [Making rust as fast as go](https://www.christianfscott.com/making-rust-as-fast-as-go/) ([HN](https://news.ycombinator.com/item?id=23058147))
 - [Rust Koans](https://github.com/crazymykl/rust-koans)
 - [Naive NixOS Rust Development (2020)](https://duan.ca/2020/05/07/nix-rust-development/)

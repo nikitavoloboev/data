@@ -14,7 +14,7 @@ For searching, I use:
 - DuckDuckGo - Private searches / instant answers / cheat sheets.
 - GitHub - Software / repos / code search
 
-And of course I love specializing my search to any website I wish. My [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches#readme) workflow lets me do that with ease and anyone can download it too to get all these search super powers.
+And of course I love specializing my search to any website I wish. My [Web Searches](https://github.com/nikitavoloboev/alfred-web-searches) workflow lets me do that with ease and anyone can download it too to get all these search super powers.
 
 There is also absolutely amazing workflow to [search various websites with autosuggestions](https://github.com/deanishe/alfred-searchio). I highly recommend it. It essentially lets you have powerful search like Google, DuckDuckGo, YouTube and more from wherever you are in your operating system.
 
@@ -28,19 +28,19 @@ Google, DuckDuckGo and other search engines are phenomenal in how they solve thi
 
 Together with [Learn Anything](https://learn-anything.xyz/), you have all the superpowers of this world to create anything and everything. Things that didn't exist before. Ideas and thoughts that weren't thought of before.
 
-In addition to Learn Anything, I also help curate [many curated lists of resources and links](https://github.com/learn-anything/curated-lists#readme). I then parse these lists and access them from [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) workflow. These lists include:
+In addition to Learn Anything, I also help curate [many curated lists of resources and links](https://github.com/learn-anything/curated-lists). I then parse these lists and access them from [Alfred Learn Anything](https://github.com/nikitavoloboev/alfred-learn-anything) workflow. These lists include:
 
-- [Books](https://github.com/learn-anything/books#readme) - Both free and paid.
-- [Courses](https://github.com/learn-anything/courses#readme)
-- [Blogs](https://github.com/learn-anything/blogs#readme)
-- [Research papers](https://github.com/learn-anything/research-papers#readme)
-- And [lots more](https://github.com/learn-anything/curated-lists#readme).
+- [Books](https://github.com/learn-anything/books) - Both free and paid.
+- [Courses](https://github.com/learn-anything/courses)
+- [Blogs](https://github.com/learn-anything/blogs)
+- [Research papers](https://github.com/learn-anything/research-papers)
+- And [lots more](https://github.com/learn-anything/curated-lists).
 
 ## Links
 
 - [Research debt](https://distill.pub/2017/research-debt/)
 - [Some notes on doing research](https://www.reddit.com/r/MachineLearning/comments/73n9pm/d_confession_as_an_ai_researcher_seeking_advice/dnrsmh9/ "permalink")
-- [Awesome research](https://github.com/emptymalei/awesome-research#readme)
+- [Awesome research](https://github.com/emptymalei/awesome-research)
 - [Academic Torrents](http://academictorrents.com/) - Distributed system for sharing enormous datasets - for researchers, by researchers. ([HN](https://news.ycombinator.com/item?id=22033833))
 - [So You Want to Be a Research Scientist (2018)](https://medium.com/s/story/so-you-want-to-be-a-research-scientist-363c075d3d4c?fbclid=IwAR0tcvEpi4DojA3xmFMsuvXg8eqjZ_kHS_0HhBbzvBZ-WK-X-FrwjOe5MbA)
 - [Ask HN: What can I do to accelerate scientific research? (2019)](https://news.ycombinator.com/item?id=20189664)
@@ -54,5 +54,5 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) - Jekyll extensions for the blogging scholar.
 - [Peer Review (2020)](https://rodneybrooks.com/peer-review/) ([HN](https://news.ycombinator.com/item?id=23280372))
 - [10 Tips for Research and a PhD (2020)](https://ruder.io/10-tips-for-research-and-a-phd/)
-- [Resources for Running Research Groups](https://github.com/jeanqasaur/research-group-resources#readme)
+- [Resources for Running Research Groups](https://github.com/jeanqasaur/research-group-resources)
 - [Where to Start Research? (2020)](https://acesounderglass.com/2020/06/09/where-to-start-research/)

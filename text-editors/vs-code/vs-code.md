@@ -19,7 +19,7 @@ I use VS Code [GitHub theme](https://marketplace.visualstudio.com/items?itemName
 
 - [VS Code Docs](https://code.visualstudio.com/docs)
 - [Introductory Videos](https://code.visualstudio.com/docs/getstarted/introvideos)
-- [Visual Studio Live Share Docs & Feedback](https://github.com/MicrosoftDocs/live-share#readme)
+- [Visual Studio Live Share Docs & Feedback](https://github.com/MicrosoftDocs/live-share)
 - [code-server](https://github.com/codercom/code-server) - Run VS Code on a remote server.
 - [sshcode](https://github.com/codercom/sshcode) - CLI to automatically install and run code-server over SSH.
 - [Vim to Code](https://github.com/asantos00/vim-to-code) - Comprehensive (almost) list of resources, tutorials, and inspiration for migrating to Visual Studio code from Vim.

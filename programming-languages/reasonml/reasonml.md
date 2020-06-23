@@ -28,7 +28,7 @@
 - [Journey to Trait-like behaviour in ReasonML/OCaml (2019)](https://gustavoaguiar.dev/journey-trait-like-behavior-reasonml/)
 - [Reason bindings for React Native](https://github.com/reasonml-community/reason-react-native) - Write your React Native apps with Reason.
 - [ReasonReact Example App](https://github.com/ostera/my-reason-react-app)
-- [Reason Project Ideas](https://github.com/jordwalke/reason-project-ideas#readme)
+- [Reason Project Ideas](https://github.com/jordwalke/reason-project-ideas)
 - [React Advanced Reason Workshop (2019)](https://github.com/nikgraf/2019-10-reason-workshop)
 - [How to write a library for BuckleScript and Native (2019)](https://tech.ahrefs.com/how-to-write-a-library-for-bucklescript-and-native-22f45e5e946d)
 - [Nit](https://nit.sketch.sh/) - Better ReasonML playground.
@@ -40,7 +40,7 @@
 - [Towards an Open, Reason(ML)able Web by Parker Ziegler (2019)](https://www.youtube.com/watch?v=ItASl4SdPO0)
 - [Ben Anderson - Investing in Testing with Reason (2019)](https://www.youtube.com/watch?v=Um-c6gDuLWw)
 - [Youxi Li - The Cyborg Future: Melding a Rust/Wasm Core with a ReasonReact UI (2019)](https://www.youtube.com/watch?v=nY_fslpJmdE)
-- [Navigating Reason](https://github.com/jordwalke/navigating-reason#readme) - Overview of Reason tooling options for the curious.
+- [Navigating Reason](https://github.com/jordwalke/navigating-reason) - Overview of Reason tooling options for the curious.
 - [Bryan Phelps - Making Windows Development Reasonable (2019)](https://www.youtube.com/watch?v=UDz-IqwAzIs)
 - [Sean Grove - Building Real Systems in Reason (Native) (2019)](https://www.youtube.com/watch?v=Lv2QCq6ZBPs)
 - [Ricky Vetter - Why React is just better in Reason (2019)](https://www.youtube.com/watch?v=i9Kr9wuz24g)

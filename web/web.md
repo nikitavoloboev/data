@@ -47,7 +47,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Hands-on with Portals: seamless navigation on the Web (2019)](https://web.dev/hands-on-portals/)
 - [Nx](https://github.com/nrwl/nx) - Extensible Dev Tools for Monorepos.
 - [Web Platform Course](https://webplatformcourse.com/7XoqGASUulHqaQUWuqXR/)
-- [Principles for making things for the web](https://github.com/veltman/principles#readme)
+- [Principles for making things for the web](https://github.com/veltman/principles)
 - [Cloudflare Learning Center](https://www.cloudflare.com/learning/) - Resources on Cyber-Security and How the Internet Works From Cloudflare.
 - [Building and deploying modern websites and apps - GitHub Universe 2019](https://www.youtube.com/watch?v=KlO5Ksk7baQ)
 - [This Page is Designed to Last (2019)](https://jeffhuang.com/designed_to_last/) ([HN](https://news.ycombinator.com/item?id=21840140)) ([Lobsters](https://lobste.rs/s/xltmol/this_page_is_designed_last))
@@ -62,8 +62,8 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [7 Principles of Rich Web Applications (2014)](https://rauchg.com/2014/7-principles-of-rich-web-applications)
 - [Web Skills](https://andreasbm.github.io/web-skills/) ([Code](https://github.com/andreasbm/web-skills))
 - [Do We Really Need a Web API? (2019)](https://liaison.dev/blog/articles/Do-We-Really-Need-A-Web-API-yq12wz) ([HN](https://news.ycombinator.com/item?id=21638809))
-- [Roadmap to becoming a web developer](https://github.com/kamranahmedse/developer-roadmap#readme)
-- [Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#readme)
+- [Roadmap to becoming a web developer](https://github.com/kamranahmedse/developer-roadmap)
+- [Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [Mastery Games](https://mastery.games/) - All-new platform for leveling up your coding skills.
 - [Cargo](https://cargo.site/) - Build a site off a template.
 - [How to get started with web development (2020)](https://gomakethings.com/how-to-get-started-with-web-development/)
@@ -86,7 +86,7 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Tiny websites are great (2020)](https://tinyprojects.dev/posts/tiny_websites_are_great) ([HN](https://news.ycombinator.com/item?id=23228904))
 - [The Hottest Websites from the Late 90s (2017)](https://vanschneider.com/hottest-websites-late-90s)
 - [SuckIT](https://github.com/Skallwar/suckit) - Allows you to recursively visit and download a website's content to your disk.
-- [How Web Works](https://github.com/vasanthk/how-web-works#readme) - What happens behind the scenes when we type www.google.com in a browser. ([Version 2](https://github.com/alex/what-happens-when#readme))
+- [How Web Works](https://github.com/vasanthk/how-web-works) - What happens behind the scenes when we type www.google.com in a browser. ([Version 2](https://github.com/alex/what-happens-when))
 - [Graphene](https://gozala.io/work/graphene) - Concept of a web runtime, designed to be thinnest possible layer for the web. Runtime would take URL to an HTML, would load (and cache) it as it's user interface.
 - [IndieWeb](https://indieweb.org/) - Community of individual personal websites, connected by simple standards, based on the principles of owning your domain.
 - [One Word Domains](https://www.oneword.domains/) - Database of all available one-word domains. ([HN](https://news.ycombinator.com/item?id=23291337))

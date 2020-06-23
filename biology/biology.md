@@ -9,7 +9,7 @@
 - [The Secret Life of Plankton](https://www.youtube.com/watch?v=xFQ_fO2D7f0)
 - [What Bodies Think About: Bioelectric Computation Outside the Nervous System - NeurIPS 2018](https://www.youtube.com/watch?v=RjD1aLm4Thg) - Incredible research. ([HN](https://news.ycombinator.com/item?id=18736698))
 - [Ask HN: Can we write a programming language for biology? (2019)](https://news.ycombinator.com/item?id=18847253)
-- [Awesome Bio Datasets](https://github.com/OpenGene/awesome-bio-datasets#readme)
+- [Awesome Bio Datasets](https://github.com/OpenGene/awesome-bio-datasets)
 - [Kappa](https://kappalanguage.org/) - Rule-based language for modeling systems of interacting agents. While its current development is primarily motivated by molecular systems biology, its range of applications is quite broad.
 - [KaSim](https://github.com/Kappa-Dev/KaSim) - Stochastic simulator for rule-based models written in Kappa. KaSa is a static analyser for Kappa models.
 - [BioJulia](https://biojulia.net/) - Julialang community for biologists and bioinformaticians, working to create great modern software packages for computing with biological data.
@@ -31,4 +31,4 @@
 - [Entropy and life](https://en.wikipedia.org/wiki/Entropy_and_life) ([HN](https://news.ycombinator.com/item?id=22849554))
 - [The Secret Lives of Fungi (2020)](https://www.newyorker.com/magazine/2020/05/18/the-secret-lives-of-fungi) ([HN](https://news.ycombinator.com/item?id=23149203))
 - [What happens in our brain when we feel an emotion (especially fear, anxiety)](https://www.reddit.com/r/neuroscience/comments/gksen6/what_happen_in_our_brain_when_we_feel_an_emotion/)
-- [Formal Systems in Biology](https://github.com/prathyvsh/formal-systems-in-biology#readme) - Collection of resources that apply formal systems to model biological processes.
+- [Formal Systems in Biology](https://github.com/prathyvsh/formal-systems-in-biology) - Collection of resources that apply formal systems to model biological processes.

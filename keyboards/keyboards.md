@@ -43,7 +43,7 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Keymap & EN/RU layouts for Levinson 40% split ortholinear keyboard](https://github.com/tonsky/Levinson-Layout)
 - [KeyHive](https://keyhive.xyz/) - Personalize Your Keyboard.
 - [My Corne keyboard (crkbd-classic) - Split, column staggered with 3-thumb keys](https://www.reddit.com/r/MechanicalKeyboards/comments/9i5uo3/my_corne_keyboard_crkbdclassic_split_column/)
-- [Awesome Split Keyboards](https://github.com/diimdeep/awesome-split-keyboards#readme)
+- [Awesome Split Keyboards](https://github.com/diimdeep/awesome-split-keyboards)
 - [Making My Own USB Keyboard From Scratch (2019)](http://blakesmith.me/2019/01/16/making-my-own-usb-keyboard-from-scratch.html) ([HN](https://news.ycombinator.com/item?id=19181473))
 - [KMonad](https://github.com/david-janssen/kmonad) - Advanced keyboard manager.
 - [How to make your C codebase rusty: rewriting keyboard firmware keymap in Rust (2019)](https://about.houqp.me/posts/rusty-c/) ([HN](https://news.ycombinator.com/item?id=21595948))

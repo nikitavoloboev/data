@@ -26,7 +26,7 @@ This lets me jump between many groups in under 1 second time. For other groups I
 
 ## Links
 
-- [Awesome Telegram Groups](https://github.com/learn-anything/telegram-groups#readme)
+- [Awesome Telegram Groups](https://github.com/learn-anything/telegram-groups)
 - [Collection of Telegram Bots for Geeks](https://medium.com/@ipestov/collection-of-telegram-bots-for-geeks-52fd821740c1)
 - [Telegram Master Bot List](https://docs.google.com/spreadsheets/d/1uQP3f2bWuPapTn_1FUcL67jW9MwLzSjysji39pmyUxY/edit#gid=2104461983)
 - [Teleprompter](https://github.com/r-darwish/Teleprompter) - Ask for user prompt using Telegram.
@@ -35,9 +35,9 @@ This lets me jump between many groups in under 1 second time. For other groups I
 - [Minute Hack: Get SSH login notification on Telegram](https://8192.one/post/ssh_login_notification_withtelegram/)
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Complete source code and the build instructions for the alpha version of the official desktop client for the Telegram messenger.
 - [Informer](https://github.com/paulpierre/informer) - Telegram Mass Surveillance Bot in Python. ([HN](https://news.ycombinator.com/item?id=21750353))
-- [Awesome Telegram](https://github.com/ebertti/awesome-telegram#readme) - Collection great groups, channels, bots and libraries for Telegram.
-- [List of telegram groups, channels & bots](https://github.com/goq/telegram-list#readme)
+- [Awesome Telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram.
+- [List of telegram groups, channels & bots](https://github.com/goq/telegram-list)
 - [Telegram Bot Code Samples](https://core.telegram.org/bots/samples)
-- [Awesome Telegram](https://github.com/serhii-londar/awesome-telegram#readme)
+- [Awesome Telegram](https://github.com/serhii-londar/awesome-telegram)
 - [The Evolution of Telegram](https://telegram.org/evolution)
 - [DiscussBot](https://comments.app/) - Add comments to posts in your channel. Or add comments to pages on your website.

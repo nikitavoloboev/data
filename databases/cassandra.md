@@ -5,6 +5,6 @@
 ## Links
 
 - [Cassandra code](https://github.com/apache/cassandra)
-- [Awesome Cassandra](https://github.com/Anant/awesome-cassandra#readme)
+- [Awesome Cassandra](https://github.com/Anant/awesome-cassandra)
 - [Cassandra, with Sam Ramji (2020)](https://overcast.fm/+MqPknNFqU)
 - [DataStax](https://www.datastax.com/) - Scale-out NoSQL built on Apache Cassandra.

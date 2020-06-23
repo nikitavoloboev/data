@@ -14,16 +14,16 @@
 
 - [JavaScript. The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
 - [Modern Javascript Tutorial](https://javascript.info/)
-- [You don't know JS books](https://github.com/getify/You-Dont-Know-JS#readme)
+- [You don't know JS books](https://github.com/getify/You-Dont-Know-JS)
 - [JS in 14 minutes](https://jgthms.com/javascript-in-14-minutes/)
 - [2017 JavaScript Rising Stars](https://risingstars.js.org/2017/en/)
-- [ES6 features](https://github.com/lukehoban/es6features#readme)
+- [ES6 features](https://github.com/lukehoban/es6features)
 - [The Definitive Guide to Object-Oriented JavaScript](https://www.youtube.com/watch?v=PMfcsYzj-9M) - Amazing video to understand JS inheritance & objects.
 - [JavaScript: The Core](http:J//dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
 - [JavaScript is Good, Actually](https://ashfurrow.com/blog/javascript-is-good-actually/) ([HN comments](https://news.ycombinator.com/item?id=17079952))
-- [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms#readme) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+- [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 - [EC6 Features](http://es6-features.org/)
-- [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript#readme)
+- [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Ask HN: “Expert Level” JavaScript questions?](https://news.ycombinator.com/item?id=17324538)
 - [Benefits of prototypal inheritance over classical?](https://stackoverflow.com/questions/2800964/benefits-of-prototypal-inheritance-over-classical/16872315#16872315)
 - [Pax](https://github.com/nathan/pax) - Fastest JavaScript bundler in the galaxy.
@@ -38,33 +38,33 @@
 - [The State of JavaScript - The State of the Web (2018)](https://www.youtube.com/watch?v=i5R7giitymk)
 - [A Quick Tour Of ES6 (Or, The Bits You’ll Actually Use)](http://jamesknelson.com/es6-the-bits-youll-actually-use/)
 - [JavaScript on the Desktop, Fast and Slow (2018)](https://medium.com/@felixrieseberg/javascript-on-the-desktop-fast-and-slow-2b744dfb8b55)
-- [ES6 for humans](https://github.com/metagrover/ES6-for-humans#readme)
-- [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts#readme)
+- [ES6 for humans](https://github.com/metagrover/ES6-for-humans)
+- [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
 - [Design Patterns JS](https://github.com/fbeline/Design-Patterns-JS) - All the 23 (GoF) design patterns implemented in JavaScript.
-- [Standard Library Proposal](https://github.com/tc39/proposal-javascript-standard-library#readme)
+- [Standard Library Proposal](https://github.com/tc39/proposal-javascript-standard-library)
 - [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [puppet-run](https://github.com/andywer/puppet-run) - Run anything JavaScript in a headless Chrome from your command line.
 - [Yalc](https://github.com/whitecolor/yalc) - Better workflow than npm | yarn link for package authors.
-- [ECMAScript proposals](https://github.com/tc39/proposals#readme)
+- [ECMAScript proposals](https://github.com/tc39/proposals)
 - [FromJS](https://github.com/mattzeunert/fromjs) - See where each character on the screen came from in code.
 - [RunJS](https://projects.lukehaas.me/runjs/) - Scratchpad for your thoughts, a playground for your creativity.
-- [Pragmatic, balanced FP in JavaScript book](https://github.com/getify/Functional-Light-JS#readme)
+- [Pragmatic, balanced FP in JavaScript book](https://github.com/getify/Functional-Light-JS)
 - [Pack](https://github.com/pikapkg/pack) - Helps you build amazing packages without the hassle.
 - [Learning JavaScript (2016)](https://mafinto.sh/blog/learning-javascript.html)
 - [@pika/web](https://github.com/pikapkg/web) - Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required.
 - [Sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes.
-- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)
-- [JavaScript Developer's Reading List](https://github.com/twhite96/js-dev-reads#readme) - List of hand-picked books and articles for JavaScript developers.
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+- [JavaScript Developer's Reading List](https://github.com/twhite96/js-dev-reads) - List of hand-picked books and articles for JavaScript developers.
 - [Promisees](https://github.com/bevacqua/promisees) - Promise visualization playground for the adventurous.
-- [promise-fun](https://github.com/sindresorhus/promise-fun#readme) - Promise packages, patterns, chat, and tutorials.
+- [promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials.
 - [Perflink](https://github.com/lukejacksonn/perflink) - JavaScript performance benchmarks that you can share via URL.
 - [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/) ([OSS](https://github.com/MostlyAdequate/mostly-adequate-guide)) ([HN](https://news.ycombinator.com/item?id=22654135))
 - [Volta](https://github.com/volta-cli/volta) - JavaScript Launcher.
-- [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet#readme)
+- [Modern JS Cheat Sheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [Fastpack](https://fastpack.sh/) - Pack JavaScript fast & easy.
 - [Reference implementation for the JavaScript Binary AST format](https://github.com/binast/binjs-ref)
 - [Babel Handbook](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/README.md)
-- [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions#readme)
+- [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [Faster script loading with BinaryAST? (2019)](https://blog.cloudflare.com/binary-ast/)
 - [recast](https://github.com/benjamn/recast) - JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator.
 - [Madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies.
@@ -76,7 +76,7 @@
 - [Advanced JavaScript Course](https://tylermcginnis.com/courses/advanced-javascript)
 - [Jay](https://github.com/nikersify/jay) - Supercharged JavaScript REPL.
 - [Data Structures and Algorithms in JavaScript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript)
-- [JavaScript & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices#readme)
+- [JavaScript & Node.js Testing Best Practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [Just](https://github.com/microsoft/just) - Library that organizes build tasks for your JS projects.
 - [ECMAScript (JS) specification](https://tc39.es/ecma262/) ([Code](https://github.com/j-f1/read262)) ([Web version 2](https://read262.netlify.com))
 - [André Staltz: Two Fundamental Abstractions - Uphill Conf 2018](https://www.youtube.com/watch?v=fdol03pcvMA)
@@ -103,7 +103,7 @@
 - [runpkg](https://github.com/FormidableLabs/runpkg) - Lets you navigate any JavaScript package on npm thanks to unpkg.com.
 - [What is this in JavaScript?](https://www.madebymike.com.au/writing/this-in-javascript/)
 - [Beginner JavaScript course](https://beginnerjavascript.com/)
-- [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet#readme)
+- [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 - [JavaScript Visualized: Event Loop (2019)](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 - [JavaScript Visualized: Scope (Chain) (2019)](https://dev.to/lydiahallie/javascript-visualized-scope-chain-13pd)
 - [JavaScript Visualized: Hoisting (2019)](https://dev.to/lydiahallie/javascript-visualized-hoisting-478h)
@@ -122,7 +122,7 @@
 - [Sampling bias, FDR, and The State of JS (2020)](https://davidea.st/articles/sampling-bias-fdr-state-of-js)
 - [JavaScript Visualized: Generators and Iterators (2020)](https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36)
 - [jsep](https://github.com/soney/jsep) - JavaScript Expression Parser.
-- [JS Tips & Tidbits](https://github.com/nas5w/javascript-tips-and-tidbits#readme)
+- [JS Tips & Tidbits](https://github.com/nas5w/javascript-tips-and-tidbits)
 - [I have been underestimating JS (2020)](https://adlrocha.substack.com/p/adlrocha-i-have-been-underestimating) - Understanding V8 and NodeJS Steams.
 - [Микроптимизации производительности и JavaScript (2020)](https://medium.com/devschacht/optimizations-and-javascript-f8e060d3eae3)
 - [Taming the asynchronous beast with CSP channels in JavaScript (2014)](https://jlongster.com/Taming-the-Asynchronous-Beast-with-CSP-in-JavaScript)
@@ -145,12 +145,12 @@
 - [tiny-js](https://github.com/gfwilliams/tiny-js) - Aims to be an extremely simple (~2000 line) JavaScript interpreter.
 - [JavaScript and TypeScript tooling overview](https://github.com/slikts/tooling)
 - [Seafox](https://github.com/KFlash/seafox) - Blazing fast 100% spec compliant, self-hosted javascript parser written in Typescript.
-- [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
-- [Awesome Promises](https://github.com/wbinnssmith/awesome-promises#readme)
+- [Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
+- [Awesome Promises](https://github.com/wbinnssmith/awesome-promises)
 - [jscodeshift](https://github.com/facebook/jscodeshift) - Toolkit for running codemods over multiple JavaScript or TypeScript files.
 - [React Workout: Reducers with Cassidy Williams (2020)](https://www.youtube.com/watch?v=sf4spiPynBE)
 - [JavaScript: The First 20 Years (2020)](http://www.wirfs-brock.com/allen/posts/866)
-- [Awesome Storybook](https://github.com/lauthieb/awesome-storybook#readme)
+- [Awesome Storybook](https://github.com/lauthieb/awesome-storybook)
 - [QuickJS](https://github.com/ldarren/QuickJS) - Small and embeddable Javascript engine.
 - [Test262: Official ECMAScript Conformance Test Suite](https://github.com/tc39/test262)
 - [Hegel](https://github.com/JSMonk/hegel) - Advanced static type checker. ([Web](https://hegel.js.org/))

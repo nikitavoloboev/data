@@ -9,7 +9,7 @@
 - [Ask HN: Should I be learning Scala in 2019?](https://news.ycombinator.com/item?id=19011777)
 - [almond](https://github.com/almond-sh/almond) - Scala kernel for Jupyter.
 - [Fury](https://github.com/propensive/fury) - Experimental dependency manager and build tool for Scala.
-- [Scala Best Practices](https://github.com/alexandru/scala-best-practices#readme) - Collection of Scala best practices.
+- [Scala Best Practices](https://github.com/alexandru/scala-best-practices) - Collection of Scala best practices.
 - [scala-steward](https://github.com/fthomas/scala-steward) - Robot that helps you keeping your Scala projects up-to-date.
 - [Mill](https://github.com/lihaoyi/mill) - Your shiny new Java/Scala build tool.
 - [Functional Programming for Mortals with Scala book](https://leanpub.com/fpmortals/read)
