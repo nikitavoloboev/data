@@ -51,3 +51,5 @@
 - [XCOrganizer](https://xcorganizer.com/) - Know Your XCode Projects.
 - [Xcode build times visualization per target](https://github.com/PaulTaykalo/xcode-build-times-rendering)
 - [Arena](https://github.com/finestructure/Arena) - Command line tool to create an Xcode project with a Playground and an SPM library ready for use.
+- [Xcode Releases](https://xcodereleases.com/)
+- [Xcode::Install](https://github.com/xcpretty/xcode-install) - Install and update your Xcode.

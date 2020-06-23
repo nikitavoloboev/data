@@ -178,3 +178,4 @@
 - [JS fundamentals and resources to learn them (2020)](https://twitter.com/Madisonkanna/status/1274424134139666432)
 - [A little bit of plain JavaScript can do a lot (2020)](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/) ([Lobsters](https://lobste.rs/s/6umqjn/little_bit_plain_javascript_can_do_lot)) ([HN](https://news.ycombinator.com/item?id=23578319))
 - [Memoization: What, Why, and How (2020)](https://kyleshevlin.com/memoization)
+- [An Open Source Maintainer's Guide to Publishing npm Packages (2020)](https://formidable.com/blog/2020/publish-npm-packages/)

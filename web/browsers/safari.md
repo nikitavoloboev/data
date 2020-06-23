@@ -31,3 +31,4 @@ My favorite of which is [Vimari](https://github.com/televator-apps/vimari) which
 - [Topee](https://github.com/avast/topee) - Framework that runs Chrome extension code on Safari.
 - [Diving Deep into RadBlock (2020)](https://youngdynasty.net/posts/radblock-deep-dive/)
 - [Safari 13, Mobile Keyboards, And The VisualViewport API (2019)](https://tkte.ch/2019/09/23/iOS-VisualViewport.html)
+- [Safari and Web - WWDC20](https://developer.apple.com/news/?id=e4u1mtfu)

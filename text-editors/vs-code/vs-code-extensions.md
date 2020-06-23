@@ -85,6 +85,7 @@ Below is a list of extensions I use.
 - [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) - Mark lines in the editor and easily jump to them.
 - [TODO+](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [VS Code Neovim Integration](https://github.com/asvetliakov/vscode-neovim)
+- [Snipsnap](https://github.com/snipsnapdev/snipsnap) - Ultimate snippets collection for VS Code.
 
 ## Shell
 

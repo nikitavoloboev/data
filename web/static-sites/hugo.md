@@ -13,6 +13,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Kiss](https://github.com/ribice/kiss) - Simple blog theme for Hugo.
 - [Mainroad](https://github.com/Vimux/Mainroad) - Responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.
 - [HugoTeX](https://github.com/7ma7X/HugoTeX) - Hugo theme which looks like a LaTeX document.
+- [Codex](https://github.com/jakewies/hugo-theme-codex) - Minimal blog theme built for Hugo.
 
 ## Examples
 
