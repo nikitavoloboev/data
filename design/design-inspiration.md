@@ -137,6 +137,7 @@ Here are few more things I liked, design wise.
 - [Oliver Caldwell](https://oli.me.uk/) ([Code](https://github.com/Olical/blog))
 - [David Wells](https://davidwells.io/) ([Code](https://github.com/DavidWells/davidwells.io))
 - [Fabian Fett](https://fabianfett.de/)
+- [Louie Mantia](http://louiemantia.com/)
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))
 - [Ernest Ojeh](https://ernestojeh.com/)
 - [Milen Dzhumerov](https://milen.me/)

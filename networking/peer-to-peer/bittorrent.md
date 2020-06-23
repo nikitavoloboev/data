@@ -30,3 +30,4 @@
 - [moose](https://getmoose.in/) - Torrent client to download, stream and cast torrents. ([Code](https://github.com/ritz078/moose))
 - [Hydra Booster](https://github.com/libp2p/hydra-booster) - DHT Indexer node & Peer Router.
 - [WebTorrent Workshop](https://webtorrent.github.io/workshop/) - Learn WebTorrent and WebRTC in a guided workshop.
+- [Introducing Web3Torrent (2020)](https://blog.statechannels.org/introducing-web3torrent/) ([HN](https://news.ycombinator.com/item?id=23602008))

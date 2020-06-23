@@ -17,3 +17,4 @@
 - [Ask HN: Production Prolog in 2020?](https://news.ycombinator.com/item?id=23234017)
 - [Solving the "Miracle Sudoku" in Prolog (2020)](https://benjamincongdon.me/blog/2020/05/23/Solving-the-Miracle-Sudoku-in-Prolog/) ([HN](https://news.ycombinator.com/item?id=23302102))
 - [The Art of Prolog (1994)](https://mitpress.mit.edu/books/art-prolog-second-edition) ([HN](https://news.ycombinator.com/item?id=23582903))
+- [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web) ([HN](https://news.ycombinator.com/item?id=23597688))

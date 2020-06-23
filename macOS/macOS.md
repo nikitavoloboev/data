@@ -78,3 +78,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [macOS in a Docker Container](https://github.com/sickcodes/Docker-OSX) ([HN](https://news.ycombinator.com/item?id=23419101)) ([Reddit](https://www.reddit.com/r/jailbreak/comments/gwg3e4/free_release_dockerosx_run_xcode_on_linux_sign/))
 - [netboot.nix](https://github.com/grahamc/netboot.nix) - Create full netboot images in 15 seconds.
 - [Swizzle](https://github.com/NSExceptional/Swizzle) - Extensible tweak to create simple tweaks for any app, from within any app.
+- [What’s New in macOS Big Sur: Human Interface Guidelines (2020)](https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos/) ([HN](https://news.ycombinator.com/item?id=23606052))

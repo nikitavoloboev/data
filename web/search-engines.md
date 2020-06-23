@@ -39,3 +39,4 @@
 - [Creating a full-text search engine in Apache Pinot (2020)](https://medium.com/apache-pinot-developer-blog/text-analytics-on-apache-pinot-cbf5c45d282c) ([HN](https://news.ycombinator.com/item?id=23480941))
 - [HN: Building a Search Engine for Programmers (2020)](https://news.ycombinator.com/item?id=23512071)
 - [Search Commons](https://searchcommons.org/) - Open source project that maintains a directory of websites you can restrict your search to. ([Code](https://github.com/antontarasenko/searchcommons))
+- [Ego Graphs – the Google ‘vs’ trick (2020)](https://medium.com/applied-data-science/the-google-vs-trick-618c8fd5359f) ([HN](https://news.ycombinator.com/item?id=23599177))

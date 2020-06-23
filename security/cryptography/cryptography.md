@@ -66,3 +66,4 @@
 - [sjcl](http://bitwiseshiftleft.github.io/sjcl/) - Stanford Javascript Crypto Library. ([Web](http://bitwiseshiftleft.github.io/sjcl/)) ([HN](https://news.ycombinator.com/item?id=23524662))
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) - Sodium crypto library compiled to WebAssembly and pure JavaScript using Emscripten, with automatically generated wrappers to make it easy to use in web applications.
 - [Finite Fields (2020)](https://btcclj.com/posts-output/2020-04-21-finite-fields/) ([Lobsters](https://lobste.rs/s/tuawd2/finite_fields))
+- [Really low latency multipliers and cryptographic puzzles (2020)](https://blog.janestreet.com/really-low-latency-multipliers-and-cryptographic-puzzles/)

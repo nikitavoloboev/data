@@ -42,3 +42,4 @@
 - [Awesome Ghidra](https://github.com/AllsafeCyberSecurity/awesome-ghidra#readme)
 - [Reverse Engineering Snapchat: Obfuscation Techniques (2020)](https://hot3eed.github.io/snap_part1_obfuscations.html) ([HN](https://news.ycombinator.com/item?id=23557998))
 - [Reverse-engineering and comparing two Game Boy audio amplifier chips (2020)](http://www.righto.com/2020/06/reverse-engineering-and-comparing-two.html)
+- [Reverse Engineering the Comtech AHA363 PCIe Gzip Accelerator Board (2020)](https://tomverbeure.github.io/2020/06/14/AHA363-Reverse-Engineering.html) ([HN](https://news.ycombinator.com/item?id=23596070))
