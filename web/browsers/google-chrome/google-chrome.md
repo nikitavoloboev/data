@@ -8,7 +8,7 @@ I use dark mode & [Empty New Black Tab Page](https://chrome.google.com/webstore/
 
 And here are Chrome extensions I use:
 
-![](https://i.imgur.com/ZTrFVks.png)
+![](https://i.imgur.com/q2Wnz38.png)
 
 ## Links
 
