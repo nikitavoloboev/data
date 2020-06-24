@@ -90,6 +90,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Calendly](https://calendly.com/) - Schedule meetings.
 - [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining style guides easy.
 - [UFree](http://ufr.ee/) - Sort out what day to meet.
+- [Raycast](https://raycast.com/) - Makes it simple, fast and delightful to control your tools.
 - [Updwn](http://updwn.co/) - See what everybody thinks.
 - [Leetchi](https://www.leetchi.com/) - Online money pot for group gifting & personal fundraising.
 - [Sketch Toy](https://sketchtoy.com/) - Draw sketches and share replays with friends.
@@ -315,3 +316,5 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Lobsters: What tools made you better programmer (2020)](https://lobste.rs/s/x1kzuw/what_tools_made_you_better_programmer)
 - [What's the software or tool or language or framework where you've felt the _most_ productive? (2020)](https://twitter.com/andrestaltz/status/1270369535225446400)
 - [No Code (2020)](https://vas3k.com/blog/nocode/)
+- [Notion, Roam, and The Future of Doing Work (2020)](https://nbt.substack.com/p/notion-roam-and-the-future-of-doing)
+- [OpenAPM Tools](https://openapm.io/landscape) - Landscape for APM Tools, Obervability Tools and Monitoring Tools.

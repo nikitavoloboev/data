@@ -158,6 +158,7 @@ Here are few more things I liked, design wise.
 - [Kent C. Dodds](https://kentcdodds.com/) ([Code](https://github.com/kentcdodds/kentcdodds.com))
 - [Andy McCune](https://andymccune.com/)
 - [Zackary Scholl](https://schollz.com/blog/)
+- [Cassie Evans](https://www.cassie.codes/)
 - [Mackenzie Child](https://www.mackenziechild.me/)
 - [Serge Zaitsev](https://zserge.com/)
 - [Wilhelm Klopp](https://wilhelmklopp.com/)
