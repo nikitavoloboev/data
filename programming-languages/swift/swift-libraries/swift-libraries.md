@@ -374,7 +374,7 @@
 - [SwiftGit2](https://github.com/SwiftGit2/SwiftGit2) - Swift bindings to libgit2.
 - [PythonKit](https://github.com/pvieito/PythonKit) - Swift framework to interact with Python.
 - [LoggerKit](https://github.com/pvieito/LoggerKit) - Swift framework to log messages in a colorful and clear way.
-- [InterposeKit](https://github.com/steipete/InterposeKit) - Modern library to swizzle elegantly in Swift.
+- [InterposeKit](https://github.com/steipete/InterposeKit) - Modern library to swizzle elegantly in Swift. ([Docs](https://interposekit.com/))
 - [Decomposed](https://github.com/b3ll/Decomposed) - CATransform3D manipulation made easy.
 - [FSCheckoutSheet](https://github.com/ZeeZide/FSCheckoutSheet) - WKWebView wrapper that handles interaction w/ a FastSpring checkout form.
 - [AwaitKit](https://github.com/yannickl/AwaitKit) - ES8 Async/Await control flow for Swift.

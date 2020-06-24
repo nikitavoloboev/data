@@ -142,6 +142,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Reddit Write](https://redditwrite.datasources.co/) - Writing software trying to help you optimize and create the best reddit posts you can to attract more upvotes and comments.
 - [Rasa](https://rasa.com/) - Open source conversational AI.
 - [fastmod](https://github.com/facebookincubator/fastmod) - Fast partial replacement for the codemod tool.
+- [Smallpdf](https://smallpdf.com/) - All-in-one easy-to-use online PDF tools
 - [showthedocs](http://showthedocs.com/) - Documentation browser that finds the relevant docs for your code.
 - [hack.chat](https://hack.chat/) - Minimal, distraction-free chat application.
 - [Ditto](http://www.ditto.live/) - Sync Without Internet.

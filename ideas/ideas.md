@@ -56,3 +56,4 @@ I try to give my full attention to any ideas I am working on.
 - [Kinopio](https://kinopio.club/) - Visual thinking tool for new ideas and hard problems.
 - [Idea Generation (2020)](https://blog.samaltman.com/idea-generation) ([HN](https://news.ycombinator.com/item?id=23341179))
 - [Ask HN: Impossible Ideas? (2020)](https://news.ycombinator.com/item?id=23594735)
+- [What to look for when evaluating a start idea (2020)](https://twitter.com/lennysan/status/1275819005568118784)

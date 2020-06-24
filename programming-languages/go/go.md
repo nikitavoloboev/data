@@ -293,3 +293,4 @@ Go promotes composition over inheritance.
 - [In Go, the compiler needs to know the types of things when copying values (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoValueCopyIsTyped) ([Lobsters](https://lobste.rs/s/rnm3re/go_compiler_needs_know_types_things_when))
 - [exportloopref](https://github.com/kyoh86/exportloopref) - Analyzer that finds exporting pointers for loop variables.
 - [A Concise Guide to the Latest Go Generics Draft Design (2020)](https://pmihaylov.com/go-generics-draft-design/) ([HN](https://news.ycombinator.com/item?id=23562897))
+- [fgprof](https://github.com/felixge/fgprof) - Sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together. ([Tweet](https://twitter.com/felixge/status/1275833124103086080))
