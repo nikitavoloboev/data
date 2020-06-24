@@ -540,6 +540,7 @@
     - [Netherlands](travel/visited/netherlands.md)
     - [United Kingdom](travel/visited/united-kingdom.md)
     - [United States](travel/visited/united-states.md)
+    - [Russia](travel/visited/russia.md)
     - [Germany](travel/visited/germany.md)
     - [Japan](travel/visited/japan.md)
     - [China](travel/visited/china.md)
