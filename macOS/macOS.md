@@ -80,3 +80,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Swizzle](https://github.com/NSExceptional/Swizzle) - Extensible tweak to create simple tweaks for any app, from within any app.
 - [What’s New in macOS Big Sur: Human Interface Guidelines (2020)](https://developer.apple.com/design/human-interface-guidelines/macos/overview/whats-new-in-macos/) ([HN](https://news.ycombinator.com/item?id=23606052))
 - [About the Rosetta Translation Environment (2020)](https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment) ([HN](https://news.ycombinator.com/item?id=23613995))
+- [The End of OS X (2020)](https://stratechery.com/2020/the-end-of-os-x/) ([HN](https://news.ycombinator.com/item?id=23617629))
