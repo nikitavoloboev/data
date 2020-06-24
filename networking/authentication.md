@@ -49,3 +49,4 @@
 - [JSON Web Token Docs Introduction](https://jwt.io/introduction/)
 - [Auth Boss](https://github.com/teesloane/Auth-Boss) - Learn about different authentication methodologies on the web.
 - [JWT auth visualized](https://twitter.com/kamranahmedse/status/1273375903511465990)
+- [Simple Auth with Magic.link and Next.js (2020)](https://vercel.com/blog/simple-auth-with-magic-link-and-nextjs)
