@@ -79,3 +79,4 @@
 - [Objection.js](https://github.com/Vincit/objection.js) - SQL-friendly ORM for Node.js.
 - [AWS Box](https://github.com/mozilla/awsbox) - Featherweight PaaS on top of Amazon EC2 for deploying node apps.
 - [Using Streams Efficiently in NodeJS (2020)](https://medium.com/swlh/using-streams-efficiently-in-nodejs-3ef0d9df7a0e)
+- [Native ESM in Node.js w/ require() fallbacks and support for all front end compilers (2020)](https://dev.to/mikeal_2/native-esm-in-node-js-w-require-fallbacks-and-support-for-all-front-end-compilers-2ded)

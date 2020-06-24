@@ -53,3 +53,4 @@ Success comes from not giving up and doing what you love.
 - [Be Good (2008)](http://paulgraham.com/good.html)
 - [Do the Real Thing (2020)](https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/) ([HN](https://news.ycombinator.com/item?id=23582631))
 - [Ask HN: How to develop a growth mindset? (2020)](https://news.ycombinator.com/item?id=23605790)
+- [Sources of competitive advantage that you can generate simply by adjusting your own mentality](https://twitter.com/patio11/status/1275600252121133057)

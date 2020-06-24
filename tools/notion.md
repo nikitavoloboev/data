@@ -24,3 +24,4 @@ Use it for projects as a wiki of docs, notes, todos.
 - [Case study: Analyzing Notion app performance (2020)](https://3perf.com/blog/notion/)
 - [HN: Notion for everyone – free personal plan launched (2020)](https://news.ycombinator.com/item?id=23236786)
 - [Thomas Frank's video production process Notion setup](https://www.notion.so/customers/thomasfrank)
+- [Notion Help & Support](https://www.notion.so/Help-Support-e040febf70a94950b8620e6f00005004)

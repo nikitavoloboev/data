@@ -11,6 +11,7 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 ## Notes
 
 - [A good way to make your interface look “designed” is to use a consistent space scale](https://twitter.com/siddharthkp/status/1264578950799523843)
+- [Don't design for average. If you want to make a great product, it needs to be great for someone.](https://twitter.com/linuz90/status/1275678185657716736)
 
 ## Links
 
