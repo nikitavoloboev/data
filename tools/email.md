@@ -72,3 +72,4 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [mime-db](https://github.com/jshttp/mime-db) - Media Type Database.
 - [Delta Chat](https://delta.chat/en/) - Chat over e-mail.
 - [Lettre](https://github.com/lettre/lettre) - Email rust library that allows creating and sending messages. ([Docs](https://lettre.at/))
+- [Abstract's Expired Trial Email](https://www.swipefiles.co/latest/file) ([Tweet](https://twitter.com/coreyhainesco/status/1275569632523350016))

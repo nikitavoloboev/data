@@ -35,3 +35,5 @@
 - [Erlang/OTP 23](https://www.erlang.org/news/140) ([HN](https://news.ycombinator.com/item?id=23166554))
 - [Optimising for Concurrency: Comparing and contrasting the BEAM and JVM virtual machines (2020)](https://www.erlang-solutions.com/blog/optimising-for-concurrency-comparing-and-contrasting-the-beam-and-jvm-virtual-machines.html) ([HN](https://news.ycombinator.com/item?id=23168119))
 - [A Peek Inside the Erlang Compiler (2012)](https://prog21.dadgum.com/127.html) ([HN](https://news.ycombinator.com/item?id=23465128))
+- [Erlang Coding Standards & Guidelines](https://github.com/Inaka/erlang_guidelines)
+- [Program Development Using Erlang - Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
