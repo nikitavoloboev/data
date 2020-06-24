@@ -255,3 +255,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Shibuya Pixel Art 2020](https://www.lexaloffle.com/bbs/?tid=37971) ([HN](https://news.ycombinator.com/item?id=23200246))
 - [WikiArt](https://www.wikiart.org/) - Visual Art Encyclopedia.
 - [Artvee](https://artvee.com/) - Discover Classical Art. Browse and download high-resolution, public domain artworks.
+- [Ghostly](https://ghostly.com/) - Music and art company supporting work of high quality, integrity, and individuality.

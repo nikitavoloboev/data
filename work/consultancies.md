@@ -81,6 +81,7 @@
 - [Codista](https://www.codista.com/en/) - Professional Web Development in Vienna.
 - [Postlight](https://postlight.com/) - Digital Product Studio.
 - [Mirumee](https://mirumee.com/) - High performance Python, React & React Native applications.
+- [Clearleft](https://clearleft.com/) - Strategic Design & Innovation Consultancy.
 
 ## Links
 

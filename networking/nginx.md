@@ -20,4 +20,4 @@
 - [Building Pastebin for text using NGINX and Lua (2018)](https://usamaejaz.com/nginx-lua-pastebin/)
 - [Official NGINX Dockerfiles](https://github.com/nginxinc/docker-nginx)
 - [topngx](https://github.com/gsquire/topngx) - Helps you parse NGINX access logs and print various statistics from them regardless of format. ([HN](https://news.ycombinator.com/item?id=23466506))
-- [Introducing a Technology Preview of NGINX Support for QUIC and HTTP/3 (2020)](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/)
+- [Introducing a Technology Preview of NGINX Support for QUIC and HTTP/3 (2020)](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/) ([HN](https://news.ycombinator.com/item?id=23582451))

@@ -53,3 +53,4 @@
 - [Digital morphogenesis resources](https://github.com/jasonwebb/morphogenesis-resources) - Comprehensive list of resources on the topic of digital morphogenesis (the creation of form through code).
 - [Random Roads](https://random-roads--edwardcunningh2.repl.co/) ([HN](https://news.ycombinator.com/item?id=23591590)) ([Code](https://repl.it/@EdwardCunningh2/Random-Roads#index.html))
 - [Generative art sketches](https://github.com/rberenguel/sketches)
+- [Shvembldr](https://www.shvembldr.com/gallery) - Generative artist and web developer.

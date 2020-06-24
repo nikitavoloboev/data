@@ -22,3 +22,4 @@
 - [Geobuf](https://github.com/mapbox/geobuf) - Compact binary encoding for geographic data.
 - [tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
 - [vt-pbf](https://github.com/mapbox/vt-pbf) - Serialize Mapbox Vector Tiles to binary protobufs in javascript.
+- [Opinions I have formed about the “geospatial industry” (2020)](https://twitter.com/mouthofmorrison/status/1265635034939248640) ([HN](https://news.ycombinator.com/item?id=23609819))

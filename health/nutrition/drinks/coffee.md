@@ -18,3 +18,4 @@
 - [Coffee setup recs](https://twitter.com/delk/status/1264201555466543106)
 - [Niche Zero Coffee Grinder](https://www.nichecoffee.co.uk/)
 - [How do you make coffee? (2020)](https://www.reddit.com/r/minimalism/comments/h7lr7a/how_do_you_make_coffee/)
+- [Health Effects of Coffee (2020)](https://www.mdpi.com/2072-6643/12/6/1842) ([HN](https://news.ycombinator.com/item?id=23599221))
