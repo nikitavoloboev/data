@@ -57,6 +57,7 @@ Order: `CMD > OPT > CTRL > SHIFT`
 - z - ScreenFlow partial screen record
 - c - Sleep
 - v - Selection -> HN
+- b - View Sip
 - n - Vimac Hinting
 - m - Vimac Scroll
 
