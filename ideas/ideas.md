@@ -1,6 +1,6 @@
 # Ideas
 
-I share all ideas of things I want to build in a [Trello board](https://trello.com/b/alB1ryRP) as well as sharing [all the projects I am making or have made](https://nikitavoloboev.xyz/projects).
+I share all ideas of things I want to build in a [Trello/Notion](../sharing/my-trello.md) as well as sharing [all the projects I am making or have made](https://nikitavoloboev.xyz/projects).
 
 Currently I am focusing my time on building [Learn Anything](learn-anything.md).
 

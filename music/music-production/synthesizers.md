@@ -11,3 +11,4 @@
 - [Organelle](https://www.critterandguitari.com/organelle) - Makes it easy to explore new sounds and experiment with new ways of making music.
 - [Reverse engineering the OP-1 drum patch (2020)](https://schollz.com/blog/op1/) ([HN](https://news.ycombinator.com/item?id=23211467))
 - [Love Hulten](http://www.lovehulten.com/) - Designs tiny synthesizers.
+- [PLANTYFLUTESIZER being explored by Pico and Verdi](https://twitter.com/_bichopalo_/status/1248919043161182209)
