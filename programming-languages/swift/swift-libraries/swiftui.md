@@ -65,3 +65,4 @@
 - [SwiftUI Suitability for MacOS App Development (2020)](https://ds9soft.com/blog/2020/06/swiftui-suitability-for-macos-app-development/)
 - [What’s new in SwiftUI for iOS 14](https://www.hackingwithswift.com/articles/221/whats-new-in-swiftui-for-ios-14)
 - [State and Data Flow](https://developer.apple.com/documentation/swiftui/state-and-data-flow)
+- [What’s the difference between @StateObject and @ObservedObject? (2020)](https://www.donnywals.com/whats-the-difference-between-stateobject-and-observedobject/) ([Tweet](https://twitter.com/DonnyWals/status/1275451776586506242))

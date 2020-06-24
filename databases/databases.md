@@ -77,7 +77,7 @@
 - [immudb](https://github.com/codenotary/immudb) - Lightweight, high-speed immutable database for systems and applications. Written in Go.
 - [NutsDB](https://github.com/xujiajun/nutsdb) - Simple, fast, embeddable, persistent key/value store written in pure Go.
 - [remoteStorage](https://remotestorage.io/) - Open protocol for per-user storage on the Web.
-- [TimescaleDB](https://www.timescale.com/) - Open-source database built for analyzing time-series data with the power and convenience of SQL.
+- [TimescaleDB](https://www.timescale.com/) - Open-source database built for analyzing time-series data with the power and convenience of SQL. ([timescaledb-tune](https://github.com/timescale/timescaledb-tune))
 - [ClickHouse](https://github.com/ClickHouse/ClickHouse) - Free analytics DBMS for big data.
 - [ArongoDB](https://www.arangodb.com/) - Natively store data for graph, document and search needs. Utilize feature-rich access with one query language. ([Go Driver](https://github.com/arangodb/go-driver))
 - [LiteStore](https://github.com/h3rald/litestore) - Lightweight, self-contained, RESTful, multi-format NoSQL document store server written in Nim and powered by a SQLite backend for storage.
