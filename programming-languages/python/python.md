@@ -127,3 +127,4 @@
 - [Learning Scientific Programming with Python](https://scipython.com/book/)
 - [Development with Nix: Python (2020)](https://thomazleite.com/posts/development-with-nix-python/) ([Lobsters](https://lobste.rs/s/tjgvzi/development_with_nix_python))
 - [Picking a Language for Introductory CS - Why I don't like Python (2020)](http://dynamicsofprogramming.blogspot.com/2019/02/problems-with-python-for-introductory-cs.html)
+- [Clinging to memory: how Python function calls can increase your memory usage (2020)](https://pythonspeed.com/articles/function-calls-prevent-garbage-collection/)
