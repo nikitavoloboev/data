@@ -153,3 +153,4 @@
 - [GHC Proposals](https://github.com/ghc-proposals/ghc-proposals)
 - [Fundamental Haskell notes](https://blog.latukha.com/haskell-notes) ([Code](https://github.com/Anton-Latukha/haskell-notes))
 - [Haskell for a New Decade](http://dev.stephendiehl.com/new_decade.pdf) ([HN](https://news.ycombinator.com/item?id=23621080))
+- [IHP - Modern batteries-included Web Framework, built on top of Haskell and Nix](https://ihp.digitallyinduced.com/) ([HN](https://news.ycombinator.com/item?id=23610527))
