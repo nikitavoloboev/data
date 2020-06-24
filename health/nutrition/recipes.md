@@ -17,3 +17,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Susanna's vegan recipes](https://www.instagram.com/susannawurz.cooking/)
 - [Ari's Garden](https://arisgarden.theiceshelf.com/) - Simple, to-the-point vegetarian and vegan recipes. ([Code](https://github.com/theiceshelf/arisgarden))
 - [Gordon Ramsay's Scrambled Eggs](https://www.youtube.com/watch?v=PUP7U5vTMM0)
+- [Hummus to Halva: Recipes from a Levantine Kitchen](https://www.goodreads.com/book/show/53757692-hummus-to-halva)
