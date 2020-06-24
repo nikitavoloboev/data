@@ -152,3 +152,4 @@
 - [Linear types are merged in GHC (2020)](https://www.tweag.io/blog/2020-06-19-linear-types-merged/) ([Proposal](https://github.com/ghc-proposals/ghc-proposals/pull/111)) ([Lobsters](https://lobste.rs/s/lc20e3/linear_types_are_merged_ghc)) ([HN](https://news.ycombinator.com/item?id=23574072)) ([Drafts, notes](https://github.com/tweag/linear-types))
 - [GHC Proposals](https://github.com/ghc-proposals/ghc-proposals)
 - [Fundamental Haskell notes](https://blog.latukha.com/haskell-notes) ([Code](https://github.com/Anton-Latukha/haskell-notes))
+- [Haskell for a New Decade](http://dev.stephendiehl.com/new_decade.pdf) ([HN](https://news.ycombinator.com/item?id=23621080))

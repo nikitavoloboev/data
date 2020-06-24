@@ -244,3 +244,4 @@
 - [Machine Learning for Everyone - In simple words. With real-world examples.](https://vas3k.com/blog/machine_learning/)
 - [Deep learning на пальцах](https://dlcourse.ai/) ([Code](https://github.com/sim0nsays/dlcourse_ai))
 - [How to add AI to your app without knowing anything about AI (2020)](https://jaredpalmer.com/blog/add-ai-to-your-app-without-knowing-anything-about-ai)
+- [What I learned from looking at 200 machine learning tools (2020)](https://huyenchip.com/2020/06/22/mlops.html) ([HN](https://news.ycombinator.com/item?id=23620757))

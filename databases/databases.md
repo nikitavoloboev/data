@@ -65,7 +65,7 @@
 - [Noms](https://github.com/attic-labs/noms) - Decentralized database philosophically descendant from the Git version control system.
 - [SwayDB](https://github.com/simerplaha/SwayDB) - Fast embeddable persistent and in-memory key-value storage engine that provides storage as simple data structures - Map, Set & Queue.
 - [TrailDB](https://github.com/traildb/traildb) - Efficient tool for storing and querying series of events.
-- [QuestDB](https://github.com/questdb/questdb) - Relational database with ultimate time-series performance.
+- [QuestDB](https://github.com/questdb/questdb) - Relational database with ultimate time-series performance. ([HN](https://news.ycombinator.com/item?id=23616878))
 - [Prometheus](https://github.com/prometheus/prometheus) - Systems and service monitoring system.
 - [Akumuli](https://github.com/akumuli/Akumuli) - Time-series database.
 - [SSDB](https://github.com/ideawu/ssdb) - Redis compatible NoSQL database stored on disk.
