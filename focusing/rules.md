@@ -162,12 +162,12 @@
 - Add appropriate topics to each repo (languages used, problem space, ..)
 - Use relative links instead of hard wired links (i.e. `../issues/` refers to issues of repo).
 - Have same README & CONTRIBUTING content structure across all my repos.
+- Generate contents table if readme is too long.
 
 ## README
 
 - Use HTML for rendering images if control of size or position is needed.
 - Add appropriate _quote_ to briefly describe the repo (often is the same as description but with links).
-- If README is long enough, add a **Contents** reference table.
 - Add a way to visually show the project if possible.
 - Add **Related** section linking to similar projects if possible.
 
@@ -222,7 +222,7 @@
 ## Licensing
 
 - License OSS code under [MIT](https://tldrlegal.com/license/mit-license) or [Apache 2.0](<https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)>).
-- License curated lists and everything else under [CC0](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal).
+- License curated lists and everything else under [CC4](https://creativecommons.org/licenses/by/4.0/). No need for license file.
 
 ## macOS/iOS
 

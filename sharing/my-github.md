@@ -41,4 +41,7 @@ Number between brackets shows year I created the repo in.
 
 - [Find work (2018)](https://github.com/nikitavoloboev/find-work) - Curated list of websites and resources to find work programming.
 - [Privacy Respecting (2017)](https://github.com/nikitavoloboev/privacy-respecting) - Curated List of Privacy Respecting Services and Software.
+
+## Other
+
 - [GitHub Stars (2019)](https://github.com/nikitavoloboev/github-stars) - Curated list of my GitHub stars.
