@@ -54,3 +54,4 @@
 - [Random Roads](https://random-roads--edwardcunningh2.repl.co/) ([HN](https://news.ycombinator.com/item?id=23591590)) ([Code](https://repl.it/@EdwardCunningh2/Random-Roads#index.html))
 - [Generative art sketches](https://github.com/rberenguel/sketches)
 - [Shvembldr](https://www.shvembldr.com/gallery) - Generative artist and web developer.
+- [Seismic Dreams](https://brantondemoss.com/seismicdream/) - Trained GAN on some seismic data.

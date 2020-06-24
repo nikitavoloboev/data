@@ -188,6 +188,7 @@ Here are few more things I liked, design wise.
 - [Josh Comeau](https://joshwcomeau.com/)
 - [Jon Gjengset](https://thesquareplanet.com/)
 - [Robert Squires](https://robertsquires.co.uk/)
+- [Marvin Schwaibold](https://www.marvinschwaibold.com/)
 - [Paul Shen](https://bypaulshen.com/)
 - [Ian Jones](https://www.ianjones.us/) ([Code](https://github.com/theianjones/blog))
 - [Guillermo Garron](https://www.garron.blog/)
