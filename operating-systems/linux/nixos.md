@@ -27,6 +27,7 @@ Whilst I don't use NixOS as my primary OS. I use [nix package manager](../../pac
 - [Edmund Wu](https://github.com/eadwu/nixos-configuration)
 - [Roman Gonzalez](https://github.com/roman/nix-dots)
 - [Kim Zick](https://github.com/rummik/nixos-config)
+- [Eric Bailey](https://github.com/yurrriq/dotfiles)
 
 ## Nix configs (macOS)
 

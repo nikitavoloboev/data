@@ -35,3 +35,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [Disregard for creature welfare is often central to disease. But politicians won’t dare make the connection](https://www.theguardian.com/commentisfree/2020/apr/11/surely-the-link-between-abusing-animals-and-the-worlds-health-is-now-clear)
 - [5 Modern Diseases on the Rise Because of Factory Farming](https://www.onegreenplanet.org/animalsandnature/5-modern-diseases-on-the-rise-because-of-factory-farming/)
 - [Animals killed since opening this page](https://justone.earth/food/) ([HN](https://news.ycombinator.com/item?id=23084972))
+- [Vegan: Healthy, Sustainable, Compassionate Living](https://sunaku.github.io/vegan-for-life.html)

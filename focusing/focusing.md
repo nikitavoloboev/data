@@ -12,9 +12,9 @@ I focus on [solving problems](../research/solving-problems.md) & limit distracti
 
 I support my [happiness](../life/happiness.md) by working on projects that I care about and looking after my [health](../health/health.md).
 
-I have 2Do setup to schedule a monthly review & plan task.
+I have 2Do setup to schedule a weekly Sunday review & plan task.
 
-![](https://i.imgur.com/g2Z09Eo.png)
+![](https://i.imgur.com/24D2vBL.png)
 
 ## Notes
 

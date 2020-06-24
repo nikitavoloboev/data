@@ -16,9 +16,7 @@ I create many smart lists of most common tags I want to jump to. I use `j` key a
 
 I made my `All` list sorted by `Modified date`. This lets me cleanly delete or act on all tasks that have been sitting in my 2Do for too long with no activity.
 
-I have 2Do setup to schedule a monthly review & plan task.
-
-![](https://i.imgur.com/g2Z09Eo.png)
+I have [2Do setup to schedule a weekly Sunday review & plan task](../../focusing/focusing.md).
 
 ## URL Scheme
 
