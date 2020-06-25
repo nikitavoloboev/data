@@ -100,3 +100,4 @@
 - [Awesome JIT](https://github.com/wdv4758h/awesome-jit)
 - [ELVM](https://github.com/shinh/elvm) - Similar to LLVM but dedicated to Esoteric Languages.
 - [An Intro to Compilers (2017)](https://nicoleorchard.com/blog/compilers) - How to Speak to Computers. ([HN](https://news.ycombinator.com/item?id=23582280))
+- [Query-based compiler architectures (2020)](https://ollef.github.io/blog/posts/query-based-compilers.html)
