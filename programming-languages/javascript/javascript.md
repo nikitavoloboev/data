@@ -180,3 +180,4 @@
 - [Memoization: What, Why, and How (2020)](https://kyleshevlin.com/memoization)
 - [An Open Source Maintainer's Guide to Publishing npm Packages (2020)](https://formidable.com/blog/2020/publish-npm-packages/)
 - [Robust Client-Side JavaScript (2020)](https://molily.de/robust-javascript/) ([HN](https://news.ycombinator.com/item?id=23612184))
+- [Visualization of npm dependencies](https://npm.anvaka.com/#!/)
