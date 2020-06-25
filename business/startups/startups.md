@@ -171,6 +171,7 @@
 - [Startup School](https://www.startupschool.org/library) - The Best Resource for Founders.
 - [I quit my job at the start of the pandemic to launch a company. Here’s what I’ve learned in the first 90 days. (2020)](https://theprofile.substack.com/p/i-quit-my-job-at-the-start-of-the)
 - [Reflections on Being a Female Founder (2020)](https://tracy.posthaven.com/reflections-on-being-a-female-founder) ([HN](https://news.ycombinator.com/item?id=23602100))
+- [Conviction (2020)](https://medium.com/lux-capital/conviction-68b91ea64d0d) ([Tweet](https://twitter.com/peterjhebert/status/1276215060319203328))
 
 ## Images
 
