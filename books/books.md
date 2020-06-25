@@ -180,6 +180,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Nick Cammarata's bookshelf](http://nickcammarata.com/bookshelf)
 - [List of books on various topics](https://travmaturg.github.io/links/books.html)
 - [Bardia Pourvakil's favorite books](https://bardiapourvakil.com/favorites)
+- [Juvoni Beckford's bookshelf](https://juvoni.com/books)
 
 ## Notes
 
