@@ -57,3 +57,4 @@
 - [Techniques for setting boundaries around your remote job (2019)]https://capnfabs.net/posts/techniques-for-setting-boundaries-around-your-remote-job/)
 - [27 Tips For Running Successful Remote Meetings (2020)](https://blog.sli.do/remote-meetings-tips/)
 - [Written communication is remote work super power (2020)](https://snir.dev/blog/remote-async-communication/) ([HN](https://news.ycombinator.com/item?id=23577228))
+- [Remote First at Quora (2020)](https://www.quora.com/q/quora/Remote-First-at-Quora)
