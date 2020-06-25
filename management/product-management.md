@@ -13,3 +13,4 @@
 - [Why you should build features users don't ask for (2020)](https://pitch.com/blog/why-you-should-develop-features-people-dont-ask-for)
 - [The Product Frameworks Behind Superhuman (2020)](https://www.nfx.com/post/superhuman-product-frameworks/)
 - [How Tailwind team prioritizes working on issues (2020)](https://public.3.basecamp.com/p/toAcDMxu8Fvq2yMfd2azTuaV)
+- [Product Work Beyond Product-Market Fit (2020)](https://www.reforge.com/blog/product-work-beyond-product-market-fit)

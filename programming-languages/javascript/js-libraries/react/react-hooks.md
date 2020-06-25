@@ -22,7 +22,7 @@
 - [React Navigation Hooks](https://github.com/react-navigation/hooks) - React hooks for convenient react-navigation use.
 - [react-hotkeys-hook](https://github.com/JohannesKlauss/react-hotkeys-hook) - React hook for using keyboard shortcuts in components.
 - [Hooks.Guide](https://github.com/Raathigesh/hooks.guide) - Collection of React hooks curated by the community.
-- [SWR](https://github.com/zeit/swr) - React Hooks library for remote data fetching.
+- [SWR](https://github.com/zeit/swr) - React Hooks library for remote data fetching. ([Docs](https://swr.now.sh/)) ([Preview](https://codehike.org/demo/swr))
 - [react-zen](https://github.com/jamesknelson/react-zen) - React utilities for working with APIs.
 - [react-query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
 - [react-hooks-fetch](https://github.com/dai-shi/react-hooks-fetch) - React custom hook for data fetching with Suspense. ([Article](https://blog.axlight.com/posts/developing-a-react-library-for-suspense-for-data-fetching-in-concurrent-mode/))
