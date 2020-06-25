@@ -87,6 +87,7 @@ And these Discord servers:
 - [Themindcircle](https://themindcircle.com/)
 - [The Pudding](https://pudding.cool/) - Digital publication that explains ideas debated in culture with visual essays.
 - [Paris Review](https://theparisreview.org/) - Writers, Quotes, Biography, Interviews, Artists.
+- [The Information](https://www.theinformation.com/) - In-depth tech stories you won't find anywhere else.
 
 ### Other
 

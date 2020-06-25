@@ -72,3 +72,4 @@
 - [Making Music with Haskell From Scratch (2020)](https://www.youtube.com/watch?v=FYTZkE5BZ-0) ([Code](https://github.com/tsoding/haskell-music))
 - [mimium](https://github.com/mimium-org/mimium) - Programming language as an infrastructure for sound and music.
 - [Piano tuning (2019)](https://sidsite.com/posts/piano-tuning/)
+- [Splice](https://splice.com/) - Royalty-Free Sounds & Rent-to-Own Plugins.

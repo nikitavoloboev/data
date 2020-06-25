@@ -11,3 +11,4 @@
 - [Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving](https://github.com/mileyan/Pseudo_Lidar_V2)
 - [highway-env](https://github.com/eleurent/highway-env) - Environment for autonomous driving decision-making.
 - [Cruise](https://www.getcruise.com/) - Self-driving vehicle service.
+- [Aurora](https://aurora.tech/) - Delivering the benefits of self-driving technology safely, quickly, and broadly.
