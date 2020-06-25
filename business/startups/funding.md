@@ -38,7 +38,7 @@
 - [AngelList accelerators](https://angel.co/accelerators/apply)
 - [Signal](https://signal.nfx.com/login) - The fundraising CRM for startup founders.
 - [Shopify Capital lends a hand to small businesses with starter loans (2020)](https://news.shopify.com/shopify-capital-lends-small-businesses-a-hand-with-starter-loans)
-- [Pioneer](https://pioneer.app/) - Fully remote accelerator.
+- [Pioneer](https://pioneer.app/) - Fully remote accelerator. ([Leaderboard](https://pioneer.app/leaderboard#global))
 - [YC Seed Deck Template (2018)](https://blog.ycombinator.com/intro-to-the-yc-seed-deck/)
 - [30 Questions Investors Ask During Fundraising (2016)](https://alexiskold.net/2016/09/13/30-questions-investors-ask-during-fundraising/)
 - [How to run a Series A fundraising process (2020)](https://alexiskold.net/2020/01/22/how-to-run-a-series-a-fundraising-process/)

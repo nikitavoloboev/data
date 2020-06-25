@@ -180,3 +180,4 @@
 - [Adventures in Advanced Symbolic Programming (2020)](http://groups.csail.mit.edu/mac/users/gjs/6.945/)
 - [Software Design for Flexibility by Chris Hanson, Gerald Jay Sussman (2020)](https://www.penguinrandomhouse.com/books/669475/software-design-for-flexibility-by-chris-hanson-and-gerald-jay-sussman/)
 - [MIT 6.001 Structure and Interpretation (1986)](https://www.youtube.com/playlist?list=PLE18841CABEA24090) ([HN](https://news.ycombinator.com/item?id=23599263))
+- [If you can't delete code then you're stuck with it](https://www.christopherbiscardi.com/post/if-you-cant-delete-code-then-youre-stuck-with-it)
