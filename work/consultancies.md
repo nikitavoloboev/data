@@ -38,6 +38,7 @@
 - [wirefr.am](http://wirefr.am/) - Tiny studio, focusing on beautifully crafted visual design.
 - [kadjax](https://www.kajdax.de/) - Create Designs & Illustrations for digital products.
 - [Green Chameleon](https://www.craftedbygc.com/) - Bristol based Design Agency.
+- [Tubik Studio](https://tubikstudio.com/) - Digital agency creating mobile and web products.
 
 ## DB
 
