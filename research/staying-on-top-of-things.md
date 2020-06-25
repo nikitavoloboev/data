@@ -86,6 +86,7 @@ And these Discord servers:
 - [De Programmatica Ipsum](https://deprogrammaticaipsum.com/)
 - [Themindcircle](https://themindcircle.com/)
 - [The Pudding](https://pudding.cool/) - Digital publication that explains ideas debated in culture with visual essays.
+- [Paris Review](https://theparisreview.org/) - Writers, Quotes, Biography, Interviews, Artists.
 
 ### Other
 
