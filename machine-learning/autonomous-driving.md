@@ -10,3 +10,4 @@
 - [Deep Reinforcement Learning for Autonomous Driving: A Survey (2020)](https://arxiv.org/abs/2002.00444)
 - [Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving](https://github.com/mileyan/Pseudo_Lidar_V2)
 - [highway-env](https://github.com/eleurent/highway-env) - Environment for autonomous driving decision-making.
+- [Cruise](https://www.getcruise.com/) - Self-driving vehicle service.
