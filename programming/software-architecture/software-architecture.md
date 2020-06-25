@@ -2,10 +2,6 @@
 
 ## Inspiration
 
-### React
-
-- [Spectrum](https://github.com/withspectrum/spectrum) - Like the component separation + styles.
-
 ### Other
 
 - [Keybase](https://github.com/keybase/client) - Go Library, Client, Service, OS X, iOS, Android, Electron.
@@ -70,3 +66,4 @@
 - [Create diagrams with code using Graphviz (2020)](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/) ([HN](https://news.ycombinator.com/item?id=23475225))
 - [Evolution of the precise code intel backend (2020)](https://about.sourcegraph.com/blog/evolution-of-the-precise-code-intel-backend)
 - [Hyperdeck Tech Stack (2020)](https://blog.hyperdeck.io/posts/2020-6-15-the-hyperdeck-tech-stack.html)
+- [HEY Stack (2020)](https://twitter.com/dhh/status/1275901955995385856)

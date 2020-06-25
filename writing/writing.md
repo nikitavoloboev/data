@@ -112,6 +112,7 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Write Freely](https://writefreely.org/) - Open source platform for building a writing space on the web. ([Code](https://github.com/writeas/writefreely))
 - [Typegram](https://en.tgr.am/@recoilme/1) - [Open source](https://github.com/recoilme/tgram) publishing platform.
 - [Notes on writing well](https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md)
+- [On Writing Well Summary of 7 Principles](https://twitter.com/Madisonkanna/status/1275907061641932800)
 - [The Day You Became a Better Writer (2nd Look) (2015)](https://blog.dilbert.com/2015/08/22/the-day-you-became-a-better-writer-2nd-look/)
 - [Tips for Writing a Technical Book](https://performancejs.com/post/31b361c/13-Tips-for-Writing-a-Technical-Book) ([HN](https://news.ycombinator.com/item?id=20070558))
 - [Undervalued Software Engineering Skills: Writing Well (2019)](https://blog.pragmaticengineer.com/on-writing-well/) ([HN](https://news.ycombinator.com/item?id=20061078))
