@@ -199,6 +199,8 @@ Here are few more things I liked, design wise.
 - [Benedict Evans](https://www.ben-evans.com/)
 - [Moe Amaya](https://moeamaya.com/)
 - [Loris Cro](https://kristoff.it/) ([Code](https://github.com/kristoff-it/kristoff-it.github.io))
+- [Sébastien Chopin](https://atinux.com/)
+- [Debbie O'Brien](https://debbie.codes/) ([Code](https://github.com/debs-obrien/debbie.codes))
 - [Joe Birr-Pixton](http://jbp.io/)
 - [Matt Oswalt](https://oswalt.dev/) ([Code](https://github.com/Mierdin/blog))
 - [Wesley Moore](https://www.wezm.net/v2/)

@@ -74,3 +74,4 @@
 - [Journal of Computer Graphics Techniques](http://www.jcgt.org/read.html)
 - [A Massive Fractal in Days, Not Years (2020)](http://www.jcgt.org/published/0009/02/02/)
 - [Massively Parallel Rendering of Complex Closed-Form Implicit Surfaces (2020)](https://www.mattkeeter.com/research/mpr/)
+- [Graphics Study: Red Dead Redemption 2 (2020)](https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/)
