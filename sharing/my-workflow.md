@@ -64,24 +64,29 @@
 
 - [Finance](../economy/finance.md) - My approach to finance/investing.
 
+## Presentations
+
+- Google Slides - Although [BeautifulAI](https://www.beautiful.ai), [Spectacle](https://formidable.com/open-source/spectacle/) & Keynote seem good too.
+
 ## Tech stack (preferred)
 
-- Static sites / Blogs - [Eleventy](https://github.com/11ty/eleventy) or [Hugo](https://github.com/gohugoio/hugo).
+- Static sites (landing pages) / Blogs - [Eleventy](https://github.com/11ty/eleventy) or [Hugo](https://github.com/gohugoio/hugo).
 - Web Apps - [NextJS](https://nextjs.org/) to server side render with [React](https://github.com/facebook/react).
 - Server APIs - [Go](https://golang.org/).
 - Scripts & CLI tools - [Go](https://golang.org/).
 - Database - [Postgres](https://www.postgresql.org) for everything. With [Hasura](https://hasura.io) setup for GraphQL queries. [SQLite](https://www.sqlite.org) is great too.
 - iOS/macOS - Swift/SwiftUI. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) seems great.
 
-## Operational
+## Project tools
 
+- [Discord](../tools/discord.md)/[Slack](../tools/slack.md)/[Telegram](../tools/telegram.md) - According to type or size of project. Small project, Telegram group is fine. Open source or community project, Discord. Fully private, Slack is good although Discord works well too.
 - [Linear](https://linear.app/) - For everything task related.
 - [Notion](../tools/notion.md) - For everything wiki, collaboration.
-- [Figma](../design/figma/figma.md)
+- [Figma](../design/figma/figma.md) - Design, mockups, visual prototyping.
+- [Excalidraw](https://excalidraw.com/) - Quick sketches, thinking things through.
 - [G Suite](https://gsuite.google.com) - For email mostly.
 - [Google Domains](https://domains.google) - Domain handling.
 - [AWS](../cloud-computing/aws/aws.md)/[GCP](https://cloud.google.com) - For cloud services.
-
-## Slides/presentations
-
-- Google Slides - Although [BeautifulAI](https://www.beautiful.ai), [Spectacle](https://formidable.com/open-source/spectacle/) & Keynote seem good too.
+- [Loom](https://www.loom.com/) - Video screen sharing.
+- [GitHub](https://github.com) - Code sharing & collaboration.
+- [Metabase](https://www.metabase.com/) - Quick insights/analytics from data. Hooks up to Postgres easily & lets you run intuitive queries & make dashboards.
