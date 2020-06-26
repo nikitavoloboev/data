@@ -79,7 +79,7 @@
 
 ## Project tools
 
-- [Discord](../tools/discord.md)/[Slack](../tools/slack.md)/[Telegram](../tools/telegram.md) - According to type or size of project. Small project, Telegram group is fine. Open source or community project, Discord. Fully private, Slack is good although Discord works well too.
+- [Discord](../tools/discord.md)/[Slack](../tools/slack.md)/[Telegram](../tools/telegram.md) - According to type & size of project. Small project, Telegram group is fine. Open source or community project, Discord. Fully private, Slack is good although Discord works well too.
 - [Linear](https://linear.app/) - For everything task related.
 - [Notion](../tools/notion.md) - For everything wiki, collaboration.
 - [Figma](../design/figma/figma.md) - Design, mockups, visual prototyping.
