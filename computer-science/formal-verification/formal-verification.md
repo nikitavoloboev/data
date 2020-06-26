@@ -29,3 +29,4 @@
 - [Separation Logic (2019)](https://cacm.acm.org/magazines/2019/2/234356-separation-logic/fulltext)
 - [List of companies that use formal verification methods in software engineering](https://github.com/ligurio/practical-fm)
 - [Formal Specification and Taming Other People's Tech - Marianne Bellotti (2019)](https://www.youtube.com/watch?v=oMSmkRGzQ64)
+- [Verified Programming with Project Everest (2020)](https://www.youtube.com/watch?v=5B7iI2onu8s)
