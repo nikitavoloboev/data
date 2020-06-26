@@ -309,6 +309,7 @@ Here are few more things I liked, design wise.
 - [Vaida](http://vaida.me/)
 - [Jeremy Thomas](https://jgthms.com/)
 - [Brad Frost](https://bradfrost.com/)
+- [Brady Joslin](https://bradyjoslin.com/)
 - [Cassidy Williams](http://cassidoo.co/)
 - [Erik](http://www.eriklindernoren.se/)
 - [Max Howell](http://mxcl.github.io/)
