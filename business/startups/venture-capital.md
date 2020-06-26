@@ -56,3 +56,4 @@
 - [Cantos Ventures](http://cantos.vc/)
 - [Raising Money in Today's World (2020)](https://www.youtube.com/watch?v=SPpDJAo0n8g)
 - [Inovia Capital](https://www.inovia.vc/)
+- [Spark Capital](https://www.sparkcapital.com/)

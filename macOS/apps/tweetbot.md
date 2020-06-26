@@ -27,3 +27,4 @@ I split the app into 2 columns on mac.
 - [Twitter Followers](https://github.com/ConradIrwin/twitter-followers) - Tool to download all a user's twitter followers.
 - [Build an open source tool to export your Twitter followers](https://github.com/balajis/twitter-export)
 - [Get twitter avatar for a username](https://github.com/siddharthkp/twitter-avatar)
+- [Thread Reader](https://threadreaderapp.com/) - Transform Twitter Threads into a Readable Page.
