@@ -56,3 +56,4 @@
 - [Shvembldr](https://www.shvembldr.com/gallery) - Generative artist and web developer.
 - [Seismic Dreams](https://brantondemoss.com/seismicdream/) - Trained GAN on some seismic data.
 - [Awesome Generated Art](https://github.com/bradydowling/awesome-generated-art)
+- [100 Day Computational Design Challenge](https://www.chelseawatson.com/100-computational-designs)
