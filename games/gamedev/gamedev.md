@@ -4,6 +4,8 @@
 
 - [The Glory Society](http://theglorysociety.com/) - Worker cooperative that makes video games.
 - [Goldborough Studio](https://www.goldboroughstudio.com/)
+- [CD PROJEKT RED](https://en.cdprojektred.com/)
+- [GSC Game World](https://www.gsc-game.com/) - Makers of Stalker.
 
 ## Notes
 

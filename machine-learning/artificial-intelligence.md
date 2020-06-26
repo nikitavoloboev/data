@@ -26,3 +26,4 @@
 - [AI Research, Replicability and Incentives (2020)](https://dennybritz.com/blog/ai-replication-incentives/)
 - [Environmental drivers of systematicity and generalization in a situated agent (2019)](https://arxiv.org/abs/1910.00571)
 - [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/)
+- [Skynet Today](https://www.skynettoday.com/) - Dedicated to providing accessible and informed coverage of the latest AI news and trends.
