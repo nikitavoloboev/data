@@ -12,4 +12,4 @@
 - [Using an iPad for Photography Workflows: A Complete Guide (2020)](https://thesweetsetup.com/using-ipad-photography-workflows/)
 - [A New Experience for Spotify for iPad (2020)](https://spotify.design/articles/2020-05-05/a-new-experience-for-spotify-for-ipad/)
 - [Best designed apps and websites for iPad (2020)](https://twitter.com/rauchg/status/1260324646223667200)
-- [Working on iPad (2020)](https://www.notion.so/Working-on-iPad-ccefea4f9e06455da169c97b3fe054c1) ([Tweet](https://twitter.com/rauchg/status/1274766898530357249))
+- [Working on iPad (2020)](https://www.notion.so/Working-on-iPad-ccefea4f9e06455da169c97b3fe054c1) ([Tweet](https://twitter.com/rauchg/status/1274766898530357249)) ([HN](https://news.ycombinator.com/item?id=23650763))
