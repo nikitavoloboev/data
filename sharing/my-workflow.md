@@ -71,8 +71,8 @@
 ## Tech stack (preferred)
 
 - Static sites (landing pages) / Blogs - [Eleventy](https://github.com/11ty/eleventy) or [Hugo](https://github.com/gohugoio/hugo).
-- Web Apps - [NextJS](https://nextjs.org/) to server side render with [React](https://github.com/facebook/react).
-- Server APIs - [Go](https://golang.org/).
+- Web Apps - [NextJS](https://nextjs.org/) to server side render with [React](https://github.com/facebook/react). Deployed with [Vercel](https://vercel.com/learn-anything) or [Netlify](https://www.netlify.com).
+- Server APIs - [Go](https://golang.org/). Deployed as lambda functions on [AWS](https://aws.amazon.com/lambda/) or [GCP](https://cloud.google.com/functions).
 - Scripts & CLI tools - [Go](https://golang.org/).
 - Database - [Postgres](https://www.postgresql.org) for everything. With [Hasura](https://hasura.io) setup for GraphQL queries. [SQLite](https://www.sqlite.org) is great too.
 - iOS/macOS - Swift/SwiftUI. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) seems great.
