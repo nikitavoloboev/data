@@ -11,6 +11,7 @@
 - [Primer - Founding Front End Engineer](https://www.notion.so/Founding-Frontend-Engineer-San-Francisco-783c2072b9c047a88cb884babb47ef04)
 - [Daily.co - WebRTC Video Systems Engineer](https://www.notion.so/WebRTC-Video-Systems-Engineer-288dbcdb38504286b32148d0b55f6e94)
 - [Careers at Figma](https://www.figma.com/careers/) ([Twitter](https://twitter.com/rsms/status/1274057553266139137))
+- [Work at Basecamp](https://basecamp.com/about/jobs)
 
 ## Notes
 

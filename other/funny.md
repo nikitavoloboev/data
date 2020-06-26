@@ -35,3 +35,4 @@
 - [n-gate](http://n-gate.com/) - Annotated Hacker News.
 - [Fizz Buzz in Tensorflow](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
 - [Courage](https://deprogrammaticaipsum.com/courage/)
+- [When Millennials Name Babies](https://www.youtube.com/watch?v=27OzhD4YFcQ)
