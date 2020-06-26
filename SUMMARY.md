@@ -691,6 +691,7 @@
   - [Pen plotting](art/pen-plotting.md)
   - [Sketching](art/sketching.md)
   - [Comics](art/comics.md)
+  - [Anime](art/anime.md)
   - [Dancing](art/dancing.md)
   - [Generative art](art/generative-art.md)
   - [Architecture](art/architecture.md)

@@ -11,7 +11,7 @@
 - Learn from mistakes. Reflect. [Journal](../looking-back/looking-back.md). Move forward. Move fast.
 - Embrace change. Be proactive. Be bold & fearless. Take ownership. Never give up. Never complain.
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
-- Don't compare myself to other people. Surround myself with people that inspire me.
+- Don't compare myself to other people. Surround myself with people that inspire me. Be my true self.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas.
 - Be consistent. Start early. Done > Perfect. Do the simplest thing. Solve core problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done.
