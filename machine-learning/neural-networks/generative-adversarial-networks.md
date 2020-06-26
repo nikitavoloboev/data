@@ -27,3 +27,4 @@
 - [Face-Depixelizer](https://github.com/tg-bomze/Face-Depixelizer) - Based on "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models".
 - [Denoising Diffusion Probabilistic Models](https://github.com/hojonathanho/diffusion)
 - [Generative Adversarial Imitation Learning](https://github.com/openai/imitation)
+- [High-Fidelity Generative Image Compression](https://hific.github.io/) ([HN](https://news.ycombinator.com/item?id=23652753))
