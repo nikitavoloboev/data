@@ -46,3 +46,4 @@
 - [go-libp2p-pubsub](https://github.com/libp2p/go-libp2p-pubsub) - PubSub implementation for go-libp2p.
 - [multifeed](https://github.com/kappa-db/multifeed) - Multi-writer hypercore.
 - [Data Terra Nemo talks](https://www.youtube.com/channel/UCp-7zAsouqg4LP4xULhYhcg/videos)
+- [flatend](https://github.com/lithdew/flatend) - Quickly build microservices using p2p networking in NodeJS/Go.
