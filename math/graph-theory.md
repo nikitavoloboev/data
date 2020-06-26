@@ -16,3 +16,4 @@
 - [ngraph.hde](https://github.com/anvaka/ngraph.hde) - High dimensional embedding of a graph and its layout.
 - [Representing Graphs by Knuth Trees (1974)](https://www.cs.virginia.edu/~jlp/75.knuth.trees.pdf) ([HN](https://news.ycombinator.com/item?id=23583547))
 - [Seven Trees in One - Andreas Blass (1994)](https://arxiv.org/abs/math/9405205)
+- [Comparison: growth (2020)](https://www.youtube.com/watch?v=1JDt5P5n75E&) - Examine how fast are various geometries/graphs/groups growing.
