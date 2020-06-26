@@ -43,6 +43,7 @@
     - [Logic Pro](music/music-production/logic-pro.md)
     - [Synthesizers](music/music-production/synthesizers.md)
     - [Guitar](music/music-production/guitar.md)
+  - [Singing](music/singing.md)
 - [Life](life/life.md)
   - [Happiness](life/happiness.md)
   - [Time](life/time.md)
