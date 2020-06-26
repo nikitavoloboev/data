@@ -13,7 +13,7 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Minimal Recipe](https://minimalrecipe.com/) - Recipes you need without the cruft.
 - [Scraping Recipe Websites (2020)](https://www.benawad.com/scraping-recipe-websites/) ([HN](https://news.ycombinator.com/item?id=23142220))
 - [Saffron](https://www.mysaffronapp.com/) - Home for all your recipes.
-- [Plan Old Recipes](https://www.plainoldrecipe.com/) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing. ([Code](https://github.com/poundifdef/plainoldrecipe))
+- [Plan Old Recipes](https://www.plainoldrecipe.com/) - Takes a recipe website URL and transforms it to a plain-text version for reading or printing. ([Code](https://github.com/poundifdef/plainoldrecipe)) ([HN](https://news.ycombinator.com/item?id=23648864))
 - [Susanna's vegan recipes](https://www.instagram.com/susannawurz.cooking/)
 - [Ari's Garden](https://arisgarden.theiceshelf.com/) - Simple, to-the-point vegetarian and vegan recipes. ([Code](https://github.com/theiceshelf/arisgarden))
 - [Gordon Ramsay's Scrambled Eggs](https://www.youtube.com/watch?v=PUP7U5vTMM0)

@@ -68,7 +68,7 @@
 - [Client-Server Game Architecture](https://www.gabrielgambetta.com/client-server-game-architecture.html)
 - [Nakama JavaScript client](https://github.com/heroiclabs/nakama-js) - JavaScript client for Nakama server written in TypeScript.
 - [Peeking under the hood of Command & Conquer (2020)](http://www.hydrogen18.com/blog/peeking-under-the-hood-of-command-conquer.html)
-- [Dwarf Fortress Creator Explains its Complexity & Origins (2020)](https://www.youtube.com/watch?v=VAhHkJQ3KgY)
+- [Dwarf Fortress Creator Explains its Complexity & Origins (2020)](https://www.youtube.com/watch?v=VAhHkJQ3KgY) ([HN](https://news.ycombinator.com/item?id=23646395))
 - [Yarn Editor](https://github.com/YarnSpinnerTool/YarnEditor) - Tool for writing interactive dialogue in games.
 - [Nano](https://github.com/lonng/nano) - Easy to use, fast, lightweight game server networking library for Go.
 - [A frontend stack for video games (2020)](https://increment.com/frontend/a-frontend-stack-for-video-games/)

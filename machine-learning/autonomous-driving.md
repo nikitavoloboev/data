@@ -12,3 +12,4 @@
 - [highway-env](https://github.com/eleurent/highway-env) - Environment for autonomous driving decision-making.
 - [Cruise](https://www.getcruise.com/) - Self-driving vehicle service.
 - [Aurora](https://aurora.tech/) - Delivering the benefits of self-driving technology safely, quickly, and broadly.
+- [Zoox](https://zoox.com/) - Driving autonomously in ways that no one else has shown. ([HN](https://news.ycombinator.com/item?id=23648942))

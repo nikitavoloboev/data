@@ -1,9 +1,7 @@
 # [Pixave](http://www.littlehj.com/)
 
-I use Pixave as my own personal image library. I sort images in groups and I have powerful search I can use to find any image I need.
-
-Here is how my library looks:
+I once used Pixave as my personal image library. Here is how my library looked:
 
 ![](https://i.imgur.com/I7x3cUX.jpg)
 
-The red tag means that the image was uploaded to my [Instagram page](https://www.instagram.com/prettiways).
+I am moving the library to Apple Photos with everything sorted with folders.
