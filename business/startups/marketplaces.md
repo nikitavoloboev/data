@@ -11,3 +11,4 @@
 - [Required Reading for Marketplace Entrepreneurs (2020)](https://a16z.com/2020/02/19/required-marketplace-reading/)
 - [Deep Dive into Marketplaces. High level overview.](https://twitter.com/eriktorenberg/status/1239278628682125312)
 - [Sarah Tavel - Consumer & Marketplace Investing (2020)](https://overcast.fm/+Lzu3idA2Y)
+- [Things to look for when evaluating a marketplace startup idea](https://twitter.com/lennysan/status/1276238543132569600)

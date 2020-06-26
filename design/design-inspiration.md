@@ -6,6 +6,7 @@ Here are few more things I liked, design wise.
 
 ## Websites
 
+- [Fey](https://feyapp.com/)
 - [Dribble](https://dribbble.com/)
 - [Swipe Files](https://www.swipefiles.co/)
 - [Draftsend](https://draftsend.com/)
