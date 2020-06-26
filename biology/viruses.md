@@ -27,3 +27,4 @@
 - [fastv](https://github.com/OpenGene/fastv) - Ultra-fast tool for identification of SARS-CoV-2 and other microbes from sequencing data.
 - [VaxNow](https://vaxnow.org/) - Friendly Immunization App.
 - [Corona Warn App Docs](https://github.com/corona-warn-app/cwa-documentation)
+- [Effective Reproduction Number for COVID-19](https://rt.live/) ([Code](https://github.com/rtcovidlive/covid-dash))
