@@ -463,6 +463,7 @@
 - [faker](https://github.com/bxcodec/faker) - Fake Data Generator for Struct.
 - [go-radix](https://github.com/armon/go-radix) - Golang implementation of Radix trees.
 - [smtprelay](https://github.com/decke/smtprelay) - Simple Golang SMTP relay/proxy server.
+- [wav](https://github.com/go-audio/wav) - Battle tested Wav decoder/encoder.
 
 ## Links
 
