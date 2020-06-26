@@ -544,6 +544,7 @@
     - [Germany](travel/visited/germany.md)
     - [Japan](travel/visited/japan.md)
     - [China](travel/visited/china.md)
+    - [Canada](travel/visited/canada.md)
   - [Planes](travel/planes.md)
 - [Geography](geography/geography.md)
   - [Spatial analysis](geography/spatial-analysis.md)
