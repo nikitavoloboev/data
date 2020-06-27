@@ -27,3 +27,4 @@
 - [Environmental drivers of systematicity and generalization in a situated agent (2019)](https://arxiv.org/abs/1910.00571)
 - [UCL Centre for Artificial Intelligence](https://www.ucl.ac.uk/ai-centre/)
 - [Skynet Today](https://www.skynettoday.com/) - Dedicated to providing accessible and informed coverage of the latest AI news and trends.
+- [DeepMind AI reading list (2020)](https://storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf) ([HN](https://news.ycombinator.com/item?id=23662067))
