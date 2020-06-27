@@ -251,3 +251,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Some links](https://travmaturg.github.io/links/misc.html)
 - [Posters, drawings on programming](https://github.com/corkami/pics)
 - [Louis Pilfold's learning repo](https://github.com/lpil/learning)
+- [List of online communities to find programming partners](https://twitter.com/jsjoeio/status/1276911919845310465)
