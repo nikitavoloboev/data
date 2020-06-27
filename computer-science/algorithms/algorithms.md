@@ -35,6 +35,7 @@
 - [Algorithmic Design Paradigms book](https://page.skerritt.blog/algorithms/) ([Code](https://github.com/brandonskerritt/AlgorithmsBook))
 - [Words and buttons Online Blog](https://wordsandbuttons.online/) ([Code](https://github.com/akalenuk/wordsandbuttons))
 - [Algorithms animated](https://www.chrislaux.com/)
+- [Cache Oblivious Algorithms (2020)](https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/) ([HN](https://news.ycombinator.com/item?id=23662434))
 
 ## Images
 
