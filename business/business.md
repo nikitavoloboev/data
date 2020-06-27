@@ -37,3 +37,4 @@ Learning to build [startups](startups/startups.md).
 - [Patagonia: Yvon Chouinard (2016)](https://overcast.fm/+Ht3pSUGdQ)
 - [Ask HN: Successful one-person online businesses? (2020)](https://news.ycombinator.com/item?id=22858035)
 - [Search for trademark](https://www.gov.uk/search-for-trademark)
+- [Patio11’s Law](https://secondbreakfast.co/patio11-s-law)

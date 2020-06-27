@@ -88,3 +88,4 @@
 - [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://github.com/CuriousAI/mean-teacher)
 - [MMDetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark.
 - [Fourier Feature Networks in TensorFlow 2](https://github.com/noahtren/Fourier-Feature-Networks-TensorFlow-2)
+- [Computer Vision Lab | ETH Zurich](https://vision.ee.ethz.ch/)

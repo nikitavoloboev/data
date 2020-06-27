@@ -89,6 +89,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Yizhou Shan](http://lastweek.io/)
 - [Azlen Elza](https://notes.azlen.me/g3tibyfv/) ([Code](https://github.com/azlen/azlen.me)) ([Home site](https://azlen.me/))
 - [Brady Joslin's TIL](https://til.bradyjoslin.com/_introduction/)
+- [Rosie Campbell's Notes](https://rosiecampbell.me/notes)
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
 - [David Gasquez](https://github.com/davidgasquez/handbook)
 - [Sean Breckenridge](https://exobrain.sean.fish/) ([Code](https://github.com/seanbreckenridge/exobrain))
