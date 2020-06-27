@@ -61,3 +61,4 @@
 - [How to use Netlify Functions with Gatsby (2020)](https://joshwcomeau.com/gatsby/using-netlify-functions-with-gatsby/)
 - [Reflex](https://reflexjs.org/) - Collection of themes and plugins to help you build Gatsby sites faster. ([Code](https://github.com/reflexjs/reflex))
 - [Introduction to Gatsby by Jason Lengstorf](https://frontendmasters.com/courses/gatsby/)
+- [Exploring Art Direction With Gatsby-Image (2020)](https://www.aboutmonica.com/blog/2020-06-24-exploring-art-direction-in-gatsby)

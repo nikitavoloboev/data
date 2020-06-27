@@ -14,3 +14,4 @@
 - [objc4](https://github.com/0xxd0/objc4) - Buildable and debuggable version of latest Objective-C runtime (objc4-781).
 - [Objective-C simulator written in Swift](https://github.com/NSExceptional/Runtime)
 - [The Origins of Objective-C at PPI/Stepstone and Its Evolution at NeXT (2020)](https://dl.acm.org/doi/pdf/10.1145/3386332) ([HN](https://news.ycombinator.com/item?id=23516334))
+- [Advancements in the Objective-C runtime (2020)](https://developer.apple.com/videos/play/wwdc2020/10163/)

@@ -117,3 +117,4 @@
 - [TaBERT: Learning Contextual Representations for Natural Language Utterances and Structured Tables](https://github.com/facebookresearch/TaBERT)
 - [vtext](https://github.com/rth/vtext) - NLP in Rust with Python bindings.
 - [Language Technology Lab @ University of Cambridge](http://ltl.mml.cam.ac.uk/)
+- [The Natural Language Processing Dictionary](http://www.cse.unsw.edu.au/~billw/nlpdict.html)
