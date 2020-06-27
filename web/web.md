@@ -121,3 +121,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Portals](https://wicg.github.io/portals/) - Proposal for enabling seamless navigations between sites or pages. ([Code](https://github.com/WICG/portals))
 - [WebMention Endpoint](https://webmention.herokuapp.com/) - Easily accept and embed WebMentions on all type of sites.
 - [Micropub](https://micropub.net/) - Open API standard that is used to create posts on one's own domain using third-party clients.
+- [go-sitemap-generator](https://github.com/ikeikeikeike/go-sitemap-generator) - Easiest way to generate Sitemaps in Go.
