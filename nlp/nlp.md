@@ -118,3 +118,4 @@
 - [vtext](https://github.com/rth/vtext) - NLP in Rust with Python bindings.
 - [Language Technology Lab @ University of Cambridge](http://ltl.mml.cam.ac.uk/)
 - [The Natural Language Processing Dictionary](http://www.cse.unsw.edu.au/~billw/nlpdict.html)
+- [Introduction to NLP using Fastai (2020)](https://harish3110.github.io/through-tinted-lenses/natural%20language%20processing/sentiment%20analysis/2020/06/27/Introduction-to-NLP-using-Fastai.html)
