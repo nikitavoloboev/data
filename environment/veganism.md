@@ -36,3 +36,4 @@ I hope more people wake up to this issue and it changes soon. Because animals sh
 - [5 Modern Diseases on the Rise Because of Factory Farming](https://www.onegreenplanet.org/animalsandnature/5-modern-diseases-on-the-rise-because-of-factory-farming/)
 - [Animals killed since opening this page](https://justone.earth/food/) ([HN](https://news.ycombinator.com/item?id=23084972))
 - [Vegan: Healthy, Sustainable, Compassionate Living](https://sunaku.github.io/vegan-for-life.html)
+- [Tips for going vegan](https://rosiecampbell.me/tips-for-going-vegan)

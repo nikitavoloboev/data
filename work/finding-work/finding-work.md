@@ -67,3 +67,5 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [How to get any job you want book](https://page.skerritt.blog/job/) ([Code](https://github.com/brandonskerritt/Employabiltiy-book))
 - [Ask HN: Career and life advice for a 30yo (2020)](https://news.ycombinator.com/item?id=23475890)
 - [Ask HN: Is it bad if I only have experience working in my startup? (2020)](https://news.ycombinator.com/item?id=23514857)
+- [Advice on applying for internships](https://rosiecampbell.me/on-applying-for-internships)
+- [Advice on career decisions](https://rosiecampbell.me/on-career-decisions)
