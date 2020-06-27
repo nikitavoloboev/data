@@ -27,6 +27,10 @@
 - [Fabio Spampinato](https://fabiospampinato.com/thanks)
 - [Sindre Sorhus](https://sindresorhus.com/thanks)
 
+## Angel Investors
+
+- [Auston Bunsen](https://www.bitsorbricks.com/angel-investing)
+
 ## Notes
 
 - [Preparing to raise capital? Do not start with the deck. Start with an FAQ. Write down the answers to ALL questions investors can possibly ask you.](https://twitter.com/alexiskold/status/1218987908545306624)
