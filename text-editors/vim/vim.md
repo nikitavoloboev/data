@@ -17,6 +17,7 @@ I also use a little trick where I change the cursor from thin block in insert mo
 - Get plugins that meet your needs.
 - You're more likely to find useful plugins if you approach it the other way around: I want to do X, vim can't do it nicely by itself, which plugin can help me do it.
 - If something doesn't work in vimrc, put the binding in the bottom of vimrc (perhaps something overrides it).
+- [I care about reducing friction, and Vim's editing language is very good at that.](https://www.reddit.com/r/vim/comments/hg37kq/question_how_much_time_do_you_save_using_vim/)
 
 ## Links
 

@@ -16,3 +16,4 @@
 - [The Ruby Bibliography](https://rubybib.org/) - Academic writing on the Ruby programming language.
 - [Exploring Metaprogramming in Ruby (2020)](https://www.halcyon.hr/posts/exploring-metaprogramming-in-ruby/) ([Reddit](https://www.reddit.com/r/ruby/comments/gzsf5y/exploring_metaprogramming_in_ruby/))
 - [Why's Poignant Guide to Ruby](http://poignant.guide/)
+- [TruffleRuby](https://github.com/oracle/truffleruby) - GraalVM high-performance implementation of the Ruby programming language built by Oracle Labs.
