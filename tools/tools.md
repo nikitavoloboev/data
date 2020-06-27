@@ -89,6 +89,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Instatus](https://instatus.com/) - Get your status page.
 - [Gravatar](https://en.gravatar.com/) - Attach an image to an email and websites supporting Gravatar will simply pick up the image you specified.
 - [Calendly](https://calendly.com/) - Schedule meetings.
+- [Mighty Cal](https://mightycal.com/) - Smart Scheduling Assistant.
 - [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining style guides easy.
 - [UFree](http://ufr.ee/) - Sort out what day to meet.
 - [Raycast](https://raycast.com/) - Makes it simple, fast and delightful to control your tools.
@@ -135,6 +136,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Pastel](https://usepastel.com/copy-changes) - Fastest way to suggest copy changes on any website.
 - [AfterClass](https://afterclass.co/) - New kind of document for futuristic teams.
 - [WriteFreely](https://github.com/writeas/writefreely) - Simple, federated blogging platform. Written in Go.
+- [Front](https://frontapp.com/) - Inbox for teams.
 - [Snap.as](https://snap.as/) - Permanent home for your photos.
 - [Primer](https://www.primer.com/) - Get creative with your space. Visualize inspiring ideas right in your space so you can make it perfect.
 - [Watercooler](https://waterc00ler.com/) - Voice chat rooms.

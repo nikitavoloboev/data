@@ -2,7 +2,7 @@
 
 ## Notes
 
-- Once idea is settled and name is chosen. It's important to get the right names on various important networks (Twitter mainly). Can use [namecheckr](https://www.namecheckr.com/) to check name availability. If name is taken often you can add underscore or some add HQ to the end like [SlackHQ](https://twitter.com/SlackHQ) or App like [SparkMailApp](https://twitter.com/SparkMailApp). Uppercasing can be useful and looks nicer especially if it's multiple words name. On Instagram if name is taken you can add the name as domain literal like [narrative.co](https://www.instagram.com/narative.co/). Grabbing Reddit subreddit (uppercased preferred) or making GitHub (lowercase with optional dashes) org can also be useful depending on type of service/tool it is.
+- Once idea is settled and name is chosen. It's important to get the right names on various important networks (Twitter mainly). Can use [namecheckr](https://www.namecheckr.com/) to check name availability. If name is taken often you can add underscore to the end or HQ/App to the end like [SlackHQ](https://twitter.com/SlackHQ)/[SparkMailApp](https://twitter.com/SparkMailApp). Uppercasing can be useful and looks nicer especially if it's multiple words name (better recognition). On Instagram if name is taken you can add the name as domain literal like [narrative.co](https://www.instagram.com/narative.co/). Grabbing Reddit subreddit (uppercasing greatly preferred) or making GitHub (lowercase with optional dashes) org can also be useful depending on type of service/tool it is.
 
 ## Links
 
