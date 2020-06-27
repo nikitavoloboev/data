@@ -43,3 +43,4 @@
 - [Implementing Naive Bayes in Python (2020)](https://sidsite.com/posts/implementing-naive-bayes-in-python/)
 - [Linear Regression (2020)](https://www.simonwardjones.co.uk/posts/linear_regression/) ([HN](https://news.ycombinator.com/item?id=23573016))
 - [Logistic Regression from scratch](https://philippmuens.com/logistic-regression-from-scratch/) ([HN](https://news.ycombinator.com/item?id=23640762))
+- [Seeing Theory](https://seeing-theory.brown.edu/) - Visual introduction to probability and statistics. ([HN](https://news.ycombinator.com/item?id=23661131))
