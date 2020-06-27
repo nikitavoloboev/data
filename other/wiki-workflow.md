@@ -150,7 +150,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Human Programming Interface: My life in a Python package (2020)](https://beepb00p.xyz/hpi.html) ([HN](https://news.ycombinator.com/item?id=23101869))
 - [Ask HN: What do you use to keep track of bookmarks/notes/snippets? (2020)](https://news.ycombinator.com/item?id=22778123)
 - [Zettelkasten — How One German Scholar Was So Freakishly Productive (2019)](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125) ([Lobsters](https://lobste.rs/s/syoikp/zettelkasten_how_one_german_scholar_was))
-- [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks. ([Web](https://worldbrain.io/)) ([HN](https://news.ycombinator.com/item?id=23227186))
+- [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks. ([Web](https://worldbrain.io/)) ([HN](https://news.ycombinator.com/item?id=23227186)) ([Interview with Oliver Sauter](https://www.youtube.com/watch?v=XH2nbgEQ78M))
 - [Memex Mobile](https://github.com/WorldBrain/Memex-Mobile) - Mobile app for Memex.
 - [Thread on digital gardens, personal wikis, and experimental knowledge systems (2020)](https://twitter.com/Mappletons/status/1250532315459194880)
 - [Dogsheep](https://dogsheep.github.io/) - Collection of tools for personal analytics using SQLite and Datasette.

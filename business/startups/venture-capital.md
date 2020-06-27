@@ -57,3 +57,4 @@
 - [Raising Money in Today's World (2020)](https://www.youtube.com/watch?v=SPpDJAo0n8g)
 - [Inovia Capital](https://www.inovia.vc/)
 - [Spark Capital](https://www.sparkcapital.com/)
+- [Pros and cons for raising VC money from WorldBrain perspective (2020)](https://twitter.com/BlackForestBoi/status/1252941374460243968)
