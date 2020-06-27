@@ -11,3 +11,4 @@
 - [Distributed](https://github.com/dask/distributed) - Distributed task scheduler for Dask.
 - [dask-ml](https://github.com/dask/dask-ml) - Scalable Machine Learning with Dask.
 - [Tom Augspurger: Scalable Machine Learning with Dask (2019)](https://www.youtube.com/watch?v=we1m4-IsbL8)
+- [Data Processing with Dask (2020)](https://www.pluralsight.com/tech-blog/data-processing-with-dask/)
