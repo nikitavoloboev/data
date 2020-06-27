@@ -92,6 +92,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Rosie Campbell's Notes](https://rosiecampbell.me/notes)
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
 - [David Gasquez](https://github.com/davidgasquez/handbook)
+- [Abigail Africa's Notes](https://www.notion.so/Notes-3a56fef72dc94bc28b0804efc789913b)
 - [Sean Breckenridge](https://exobrain.sean.fish/) ([Code](https://github.com/seanbreckenridge/exobrain))
 - [Nat Eliason notes](https://www.nateliason.com/notes)
 - [Mike's Mind](https://mind.miketannenbaum.com/) ([Code](https://github.com/MikeTannenbaum/my-public-mind))

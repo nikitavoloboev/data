@@ -46,3 +46,4 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [Micro Learning Futures](https://azlen.me/projects/micro_learning_futures/)
 - [Video Games Are the Future of Education (2020)](https://nabeelqu.co/education) ([HN](https://news.ycombinator.com/item?id=23593872))
 - [The state of online learning (2020)](https://twitter.com/david_perell/status/1274127231241949184)
+- [Homeschooled: Laura Deming, Scientist & Founder of The Longevity Fund (2020)](https://blog.withprimer.com/laura-deming/) ([HN](https://news.ycombinator.com/item?id=23644762))
