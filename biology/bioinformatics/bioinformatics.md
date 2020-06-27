@@ -47,3 +47,4 @@
 - [Tellurium](https://github.com/sys-bio/tellurium) - Python environment for reproducible dynamical modeling of biological networks. ([Web](http://tellurium.analogmachine.org/))
 - [Chemlambda](https://chorasimilarity.github.io/chemlambda-gui/index.html) - Graph rewriting system derived from graphic lambda calculus [1] which can be seen as a simple model of chemical or biological computing. ([Code](https://github.com/chorasimilarity/chemlambda-gui))
 - [FPbase](https://www.fpbase.org/) - Fluorescent Protein Database. ([HN](https://news.ycombinator.com/item?id=23569427))
+- [Cell Biology by the Numbers](http://book.bionumbers.org/)
