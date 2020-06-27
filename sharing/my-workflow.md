@@ -68,7 +68,7 @@
 
 - Google Slides - Although [BeautifulAI](https://www.beautiful.ai), [Spectacle](https://formidable.com/open-source/spectacle/) & Keynote seem good too.
 
-## Tech stack (preferred)
+## Tech stack
 
 - Static sites (landing pages) / Blogs - [Eleventy](https://github.com/11ty/eleventy) or [Hugo](https://github.com/gohugoio/hugo).
 - Web Apps - [NextJS](https://nextjs.org/) to server side render with [React](https://github.com/facebook/react). Deployed with [Vercel](https://vercel.com/learn-anything) or [Netlify](https://www.netlify.com).
