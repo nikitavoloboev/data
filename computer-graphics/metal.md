@@ -12,3 +12,5 @@
 - [Metal Seed](https://github.com/alaingalvan/metal-seed) - Apple Metal starter repo that you could use to get the ball rolling.
 - [PixelKit](https://github.com/hexagons/pixelkit) - Live Graphics Framework. ([Web](http://pixelkit.net/))
 - [RenderKit](https://github.com/hexagons/RenderKit) - Realtime Render Engine Protocol.
+- [mtlswift](https://github.com/s1ddok/mtlswift) - Metal shader Swift encoding code generator.
+- [Alloy](https://github.com/s1ddok/Alloy) - Make usage of Metal API a pleasure.

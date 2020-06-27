@@ -46,3 +46,5 @@
 - [Deep Learning Tutorials with Tensorflow](https://github.com/xiaohu2015/DeepLearning_tutorials)
 - [TensorFlow vs PyTorch (2020)](https://www.reddit.com/r/datascience/comments/h8smv7/tensorflow_vs_tensorflow_20_vs_pytorch/)
 - [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi (2020)](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/) ([HN](https://news.ycombinator.com/item?id=23593439))
+- [Sardonyx](https://github.com/s1ddok/Sardonyx) - Convert your ONNX models into Swift for TensorFlow or Metal Performance Shaders.
+- [pix2pix implementation using Swift for TensorFlow](https://github.com/s1ddok/pix2pix-s4tf)
