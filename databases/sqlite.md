@@ -12,3 +12,4 @@
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 - [SQLancer](https://github.com/sqlancer/sqlancer) - Detecting Logic Bugs in DBMS. ([HN](https://news.ycombinator.com/item?id=23426753))
 - [SQLite As An Application File Format](https://sqlite.org/appfileformat.html) ([HN](https://news.ycombinator.com/item?id=23508923)) ([Lobsters](https://lobste.rs/s/gbj1jf/sqlite_as_application_file_format))
+- [How does SQLite work? (2020)](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
