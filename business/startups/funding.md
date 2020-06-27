@@ -59,3 +59,4 @@
 - [Coil](https://coil.com/) - Experience web monetized content in your browser while supporting sites you love in real time.
 - [Ask HN: Are there any incubators for nonprofit startups? (2020)](https://news.ycombinator.com/item?id=23548935)
 - [What growth stage funds typically ask to see for diligence of early stage SaaS companies (2020)](https://threadreaderapp.com/thread/1275566984428548096.html)
+- [NLnet Foundation](https://nlnet.nl/) - Supports organizations and people that contribute to an open information society.

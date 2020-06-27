@@ -108,3 +108,4 @@
 - [Citus](https://github.com/citusdata/citus) - Distributed PostgreSQL extension for multi-tenant and real-time analytics workloads.
 - [Postgres...as an App? (2020)](https://bytes.yingw787.com/posts/2020/06/15/postgres_as_app_1/) ([Lobsters](https://lobste.rs/s/ir2uyk/postgres_as_app))
 - [PostgreSQL query JIT (2020)](https://solovyov.net/blog/2020/postgresql-query-jit/)
+- [PgBouncer](https://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL.

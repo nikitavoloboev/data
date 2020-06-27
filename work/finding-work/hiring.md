@@ -12,6 +12,7 @@
 - [Daily.co - WebRTC Video Systems Engineer](https://www.notion.so/WebRTC-Video-Systems-Engineer-288dbcdb38504286b32148d0b55f6e94)
 - [Careers at Figma](https://www.figma.com/careers/) ([Twitter](https://twitter.com/rsms/status/1274057553266139137))
 - [Work at Basecamp](https://basecamp.com/about/jobs)
+- [Prisma Labs](https://www.notion.so/Open-positions-at-Prisma-Labs-eb709e36aba8405c8c189fad1c226389) - Likes that it uses Notion to list/maintain the jobs.
 
 ## Notes
 
