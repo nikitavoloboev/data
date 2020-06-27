@@ -21,6 +21,7 @@
 - [Benedek Rozemberczki](https://github.com/sponsors/benedekrozemberczki)
 - [Tuist org](https://github.com/sponsors/tuist)
 - [Deno](https://github.com/sponsors/denoland)
+- [Alex Ellis](https://github.com/sponsors/alexellis/) - Get newsletter as reward.
 
 ## Thanks pages
 

@@ -119,3 +119,4 @@
 - [Ask HN: Best Way to Mock APIs in 2020?](https://news.ycombinator.com/item?id=23515857)
 - [Paperclip](https://github.com/wafflespeanut/paperclip) - OpenAPI tooling for Rust.
 - [Standard Library](https://stdlib.com/) - Design with APIs, prototype, and release integrations faster with Autocode.
+- [APIs are about Policy (2019)](https://acko.net/blog/apis-are-about-policy/)
