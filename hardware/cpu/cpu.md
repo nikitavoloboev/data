@@ -31,3 +31,4 @@
 - [afl-unicorn](https://github.com/Battelle/afl-unicorn) - Lets you fuzz any piece of binary that can be emulated by Unicorn Engine.
 - [Archspec](https://github.com/archspec/archspec) - Library for detecting, labeling, and reasoning about microarchitectures.
 - [Branch prediction in CPUs](https://danluu.com/branch-prediction/)
+- [Examining ARM vs X86 Memory Models with Rust (2020)](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/) ([HN](https://news.ycombinator.com/item?id=23659037))
