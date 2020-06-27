@@ -43,7 +43,7 @@
 
 - [A first-person engine in 265 lines](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 - [Game Engine Black Book Wolfenstein 3D](http://fabiensanglard.net/gebbwolf3d/)
-- [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+- [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. ([Docs](https://bkaradzic.github.io/bgfx/index.html))
 - [Atelier Assets](https://github.com/amethyst/atelier-assets) - Asset management & processing framework for game engines.
 - [Game Engine learnings in Rust](https://github.com/tuzz/game-engine)
 - [Custom Game Engines: A Small Study (2020)](https://gist.github.com/raysan5/909dc6cf33ed40223eb0dfe625c0de74) ([HN](https://news.ycombinator.com/item?id=22965078))
