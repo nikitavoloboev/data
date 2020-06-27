@@ -1,4 +1,4 @@
-# [Fuchsia OS](https://en.wikipedia.org/wiki/Google_Fuchsia)
+# [Fuchsia OS](https://fuchsia.dev/)
 
 ## Links
 

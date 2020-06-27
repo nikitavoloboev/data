@@ -45,6 +45,7 @@
 - [Alchemy](https://github.com/ryanmcgrath/alchemy) - Experimental Rust GUI Framework, backed by native widgets on each platform it supports.
 - [vgtk](https://github.com/bodil/vgtk/) - Declarative desktop UI framework for Rust built on GTK and Gtk-rs.
 - [flutter-rs](https://github.com/flutter-rs/flutter-rs) - Build beautiful desktop apps with flutter and rust.
+- [Piet](https://github.com/linebender/piet) - Abstraction for 2D graphics.
 - [piet-gpu](https://github.com/linebender/piet-gpu) - Experimental GPU compute-centric 2D renderer.
 - [Alcro](https://github.com/Srinivasa314/alcro) - Small library to build desktop apps using rust and modern web technologies.
 
@@ -76,6 +77,7 @@
 - [Gate](https://github.com/SergiusIW/gate) - Specialized 2D game library.
 - [ultraviolet](https://github.com/termhn/ultraviolet) - Wide linear algebra crate for games and graphics.
 - [pixels](https://github.com/parasyte/pixels) - Tiny hardware-accelerated pixel frame buffer.
+- [kurbo](https://github.com/linebender/kurbo) - Rust library for manipulating curves.
 
 ## Games
 
@@ -111,7 +113,7 @@
 
 - [Iced](https://github.com/hecrj/iced) - Cross-platform GUI library for Rust focused on simplicity and type-safety. Inspired by Elm.
 - [Azul](https://github.com/maps4print/azul) - Desktop GUI Framework.
-- [Druid](https://github.com/xi-editor/druid) - Data-oriented Rust User Interface Design toolkit.
+- [Druid](https://github.com/linebender/druid) - Data-first Rust-native UI design toolkit.
 - [flutter-rs](https://github.com/gliheng/flutter-rs) - Build flutter desktop app in dart & rust.
 - [Moxie](https://github.com/anp/moxie) - Lightweight platform-agnostic tools for declarative UI.
 - [OrbTk](https://github.com/redox-os/orbtk) - Rust UI-Toolkit.
