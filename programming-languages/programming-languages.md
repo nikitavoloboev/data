@@ -86,3 +86,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [PLaST research group](http://plast-lab.github.io/) - Focuses on applied programming languages and software engineering.
 - [Piranha: An Open Source Tool to Automatically Delete Stale Code (2020)](https://eng.uber.com/piranha/) ([HN](https://news.ycombinator.com/item?id=23516823))
 - [Performance improvements in precise code intel (2020)](https://about.sourcegraph.com/blog/performance-improvements-in-precise-code-intel)
+- [An Introduction to Efficient and Safe Implementations of Dynamic Languages (2020)](https://stefan-marr.de/2020/06/efficient-and-safe-implementations-of-dynamic-languages/)
