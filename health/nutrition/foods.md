@@ -90,3 +90,7 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Solar Foods](https://solarfoods.fi/) - Revolutionary natural protein source for the global food industry: suitable for varied consumer diets, and virtually for all food products and types.
 - [What are the best/healthiest foods that can heal your body? (2020)](https://www.reddit.com/r/nutrition/comments/fnhms1/what_are_the_besthealthiest_foods_that_can_heal/)
 - [World's Healthiest Foods Meal Plan](http://www.whfoods.com/7daymealplan/intro.php)
+- [Ynsect](http://www.ynsect.com/en/) - Ynsect farms insects to make high-quality, premium natural ingredients for aquaculture and pet nutrition.
+- [Agricool](https://www.agricool.co/en/) - Fruits and vegetables grown in the heart of cities, less than 15 km away from where you live. Fresh, local, pesticide-free.
+- [Infarm](https://www.infarm.com/) - Growing a new food system in your city.
+- [QED](https://qed.ai/) - Builds data systems and AI for health and agriculture.
