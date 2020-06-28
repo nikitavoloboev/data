@@ -82,3 +82,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [About the Rosetta Translation Environment (2020)](https://developer.apple.com/documentation/apple_silicon/about_the_rosetta_translation_environment) ([HN](https://news.ycombinator.com/item?id=23613995))
 - [The End of OS X (2020)](https://stratechery.com/2020/the-end-of-os-x/) ([HN](https://news.ycombinator.com/item?id=23617629))
 - [Common Mac OS X Cursors as PNGs](https://tobiasahlin.com/blog/common-mac-os-x-lion-cursors/)
+- [Apple’s Relentless Strategy, Execution, and Point of View (2020)](https://medium.learningbyshipping.com/apples-relentless-strategy-and-execution-7544a76aa26)
