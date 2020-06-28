@@ -21,3 +21,4 @@
 - [Empathy Online (2020)](https://thoughtbot.com/blog/empathy-online) ([Lobsters](https://lobste.rs/s/zcncvc/empathy_online))
 - [The unreasonable effectiveness of one-on-ones (2019)](https://www.benkuhn.net/11/)
 - [Advice on being a competent human](https://rosiecampbell.me/on-being-a-competent-human)
+- [Understanding how open collaboration works](https://twitter.com/swardley/status/1276936398973612034)

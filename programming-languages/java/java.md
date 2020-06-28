@@ -23,3 +23,4 @@
 - [Implementing a Simple JVM in Rust by Ben Evans (2019)](https://www.youtube.com/watch?v=7ECbwgkHdAE)
 - [Performance of Modern Java on Data-Heavy Workloads (2020)](https://jet-start.sh/blog/2020/06/09/jdk-gc-benchmarks-part1) ([HN](https://news.ycombinator.com/item?id=23465660))
 - [TornadoVM: Accelerating Java with GPUs and FPGAs (2020)](https://www.infoq.com/articles/tornadovm-java-gpu-fpga/) ([HN](https://news.ycombinator.com/item?id=23521357))
+- [Notebooks on Java](https://justinblank.com/notebooks/)
