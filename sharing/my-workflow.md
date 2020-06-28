@@ -90,3 +90,7 @@
 - [Loom](https://www.loom.com/) - Video screen sharing.
 - [GitHub](https://github.com) - Code sharing & collaboration.
 - [Metabase](https://www.metabase.com/) - Quick insights/analytics from data. Hooks up to Postgres easily & lets you run intuitive queries & make dashboards.
+
+## React
+
+- State Management - React useState, [Zustand](https://github.com/react-spring/zustand) & [Urql](https://github.com/FormidableLabs/urql)

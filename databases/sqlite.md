@@ -13,3 +13,4 @@
 - [SQLancer](https://github.com/sqlancer/sqlancer) - Detecting Logic Bugs in DBMS. ([HN](https://news.ycombinator.com/item?id=23426753))
 - [SQLite As An Application File Format](https://sqlite.org/appfileformat.html) ([HN](https://news.ycombinator.com/item?id=23508923)) ([Lobsters](https://lobste.rs/s/gbj1jf/sqlite_as_application_file_format))
 - [How does SQLite work? (2014)](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/) ([HN](https://news.ycombinator.com/item?id=23663071))
+- [SQLite Localtime Date Modifier is Slow (2019)](https://radhifadlillah.com/post/2019-08-11-sqlite-localtime-date-modifier-is-slow/)
