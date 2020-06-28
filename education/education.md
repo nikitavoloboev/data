@@ -35,7 +35,7 @@ Due to [my unpleasant time in university](university.md), I am building [Learn A
 - [HN: Unimpressed by online classes, college students file lawsuits for refunds (2020)](https://news.ycombinator.com/item?id=23065308)
 - [Learning in depth: knowledge and the imagination](http://www.sfu.ca/~egan/Learningdepth.html)
 - [Primer](https://www.withprimer.com/) - Building a new kind of education company. ([Article](https://blog.withprimer.com/announcing-primer/))
-- [ZipHomeschool](https://www.ziphomeschool.co/) - Make it easy to follow homeschool laws, set up curriculum, and keep records so that you have all the basics required to simply start homeschooling.
+- [ZipSchool](https://zipschool.com/) - Live, online classes for curious kids ages 4-9.
 - [Raise](https://raise.dev/) - Provides paid training and mentorship to software developers with an emphasis on production applications, team collaboration, and industry best practices.
 - [Prenda School](https://prendaschool.com/) - In-home microschools led by inspiring mentors.
 - [DormDev](https://dormdev.com/) - Home of student developers.

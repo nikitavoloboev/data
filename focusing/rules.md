@@ -191,7 +191,7 @@
 
 ## Web
 
-- Prefer Apple login over other options.
+- Prefer Apple login if available. Use Google/GitHub/FB otherwise.
 
 ## Alfred
 
@@ -265,4 +265,4 @@
 ## Naming
 
 - Twitter/Reddit/Instagram, get literal name if available. Capitalized. GitHub lowercased, literal name or with dashes. If name taken, can add \_ or App/HQ in the end. For Instagram, it's possible to get domain name literal like [narative.co](https://www.instagram.com/narative.co/).
-- For domains, get literal name, avoid dashes. Keep it to one registrar (Google Domains preferred).
+- For domains, get literal name, avoid dashes. Keep it to one registrar (Google Domains preferred). Prefer .com if not too expensive and not taken. Otherwise `.app`, `.dev`, `.org`, `.xyz`, `.io` are good.
