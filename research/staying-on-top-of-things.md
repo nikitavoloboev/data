@@ -122,3 +122,4 @@ And these Discord servers:
 - [ACM Queue](https://queue.acm.org/index.cfm) - Magazine for practicing software engineers.
 - [Datum](http://datum.alwaysdata.net/) - Browse hacker news comments with links about data.
 - [HN with Dark Mode](https://brianlovin.com/hn)
+- [Take control over your feeds to regain mindfulness (2020)](https://solmaz.io/thoughts/digital-hygiene-feeds/) ([HN](https://news.ycombinator.com/item?id=23662874))
