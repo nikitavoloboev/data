@@ -82,3 +82,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Build an App with the AWS Cloud Development Kit (2020)](https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit)
 - [Amazon ECS Container Agent](https://github.com/aws/amazon-ecs-agent)
 - [AWS Solutions Constructs](https://aws.amazon.com/blogs/aws/aws-solutions-constructs-a-library-of-architecture-patterns-for-the-aws-cdk/) - Library of Architecture Patterns for the AWS CDK.
+- [How we got our AWS bill to around 2% of revenue (2020)](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it) ([HN](https://news.ycombinator.com/item?id=23666999))

@@ -125,3 +125,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Text-Only Websites](https://sjmulder.nl/en/textonly.html) ([HN](https://news.ycombinator.com/item?id=23626929))
 - [WebTransport API](https://wicg.github.io/web-transport/) ([HN](https://news.ycombinator.com/item?id=23666364))
 - [In Defense of a Fussy Website (2020)](https://css-tricks.com/in-defense-of-a-fussy-website/)
+- [ArchiveBox](https://github.com/pirate/ArchiveBox) - Open-source self-hosted web archive.

@@ -13,6 +13,7 @@
 - [Neutrino dev](https://github.com/mozilla-neutrino/neutrino-dev)
 - [Alpine.js](https://github.com/alpinejs/alpine) - Rugged, minimal framework for composing JavaScript behavior in your markup.
 - [After.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router 4.
+- [Torus](https://github.com/thesephist/torus) - Event-driven model-view UI framework for the web, focused on being tiny, efficient, and free of dependencies.
 
 ## Animation
 
