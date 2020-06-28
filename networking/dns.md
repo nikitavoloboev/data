@@ -34,3 +34,4 @@
 - [Beyond DNS over HTTPS: Trustless DNS Privacy (2020)](https://alyssa.is/proposing-dns-over-tcp-over-tor/) ([Lobsters](https://lobste.rs/s/7owwun/beyond_dns_over_https_trustless_dns))
 - [Where is the DNS Headed? (2020)](https://www.potaroo.net/ispcol/2020-06/row.html)
 - [What happens when you update your DNS? (2020)](https://jvns.ca/blog/how-updating-dns-works/) ([HN](https://news.ycombinator.com/item?id=23597687))
+- [An interview with Paul Mockapetris, the creator of the DNS (2020)](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris) ([HN](https://news.ycombinator.com/item?id=23650499))

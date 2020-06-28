@@ -314,3 +314,4 @@ Below is a list of extensions I use.
 - [vscode-private-extension](https://github.com/tekezo/vscode-private-extension)
 - [Hot Reload for VS Code Extension Development (2029)](https://blog.hediet.de/post/hot_reload_for_vs_code_extension_development)
 - [VS Code Extension Samples](https://github.com/microsoft/vscode-extension-samples)
+- [VSCodeVim Tips (2020)](https://bypaulshen.com/posts/vscode-vim-tips/)
