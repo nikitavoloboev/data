@@ -10,3 +10,4 @@
 - [Build Your First Rest API with GO (2019)](https://dev.to/moficodes/build-your-first-rest-api-with-go-2gcj)
 - [RESTful API Design Tips from Experience](https://github.com/ptboyer/restful-api-design-tips)
 - [RQL](https://github.com/a8m/rql) - Resource query language for REST. It provides a simple and light-weight API for adding dynamic querying capabilities to web-applications that use SQL-based database.
+- [Roy Fielding's Misappropriated REST Dissertation (2020)](https://twobithistory.org/2020/06/28/rest.html) ([Lobsters](https://lobste.rs/s/rbom5a/roy_fielding_s_misappropriated_rest))

@@ -55,3 +55,4 @@
 - [Hello, Goodbye](https://github.com/bcye/Hello-Goodbye) - Browser extension that blocks annoying chat widgets.
 - [Getting a Browser Extension Through Review (2020)](https://formidable.com/blog/2020/extension-reviews/)
 - [Browservice](https://github.com/ttalvitie/browservice) - Browse the modern web on historical browsers. ([HN](https://news.ycombinator.com/item?id=23595430))
+- [Are you using SVG favicons yet? A guide for modern browsers. (2020)](https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df)
