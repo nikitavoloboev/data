@@ -137,3 +137,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Speeding up a Git monorepo at Dropbox with <200 lines of code (2020)](https://dropbox.tech/application/speeding-up-a-git-monorepo-at-dropbox-with--200-lines-of-code) ([HN](https://news.ycombinator.com/item?id=23480198))
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
 - [Using Rust to Delete Gitignored Cruft (2020)](https://www.forrestthewoods.com/blog/using-rust-to-delete-gitignored-cruft/)
+- [The Problem with Git Flow (2020)](https://about.gitlab.com/blog/2020/03/05/what-is-gitlab-flow/) ([HN](https://news.ycombinator.com/item?id=23622071))
