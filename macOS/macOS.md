@@ -83,3 +83,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [The End of OS X (2020)](https://stratechery.com/2020/the-end-of-os-x/) ([HN](https://news.ycombinator.com/item?id=23617629))
 - [Common Mac OS X Cursors as PNGs](https://tobiasahlin.com/blog/common-mac-os-x-lion-cursors/)
 - [Apple’s Relentless Strategy, Execution, and Point of View (2020)](https://medium.learningbyshipping.com/apples-relentless-strategy-and-execution-7544a76aa26)
+- [Extract the system libraries on macOS Big Sur (2020)](https://lapcatsoftware.com/articles/bigsur.html)
