@@ -17,7 +17,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [James Jean](https://www.instagram.com/jamesjeanart/?hl=en)
 - [Dániel Taylor](https://www.instagram.com/mrtaylordani/)
 - [Yanjun Cheng](https://www.artstation.com/yjc)
-- [Alena Aenami](https://www.artstation.com/aenamiart)
+- [Alena Aenami](https://aenamiart.artstation.com/) ([ArtStation](https://www.artstation.com/aenamiart))
 - [Pawel Kuczynski](http://www.pictorem.com/profile/Pawel.Kuczynski)
 - [Daniel Liang](https://www.artstation.com/danielliang)
 - [Ben Ridgway](https://www.instagram.com/benridgwayart/) - DMT like images.
