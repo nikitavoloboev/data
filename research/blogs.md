@@ -97,3 +97,4 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Blog (Next.js + MDX)](https://github.com/7ma7X/hellorusk.net)
 - [Micro.blog](https://micro.blog/) - Social network for independent microblogs.
 - [Ask HN: Pitch your personal newsletter/blog with a one-liner (2020)](https://news.ycombinator.com/item?id=23592399)
+- [Why I'm Writing A Blog, and Why You Should Too (2019)](https://www.fourzerofour.pw/posts/inaugural-post/)
