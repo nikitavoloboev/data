@@ -10,7 +10,7 @@ Below are [notes](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMAR
 
 ![](https://i.imgur.com/8XSjlqy.png)
 
-This wiki is large. 26530+ lines of markdown large (calculated with [loc](https://github.com/cgag/loc/))
+This wiki is large. 26820+ lines of markdown large (calculated with [loc](https://github.com/cgag/loc/))
 
 ```
 ~/Dropbox/Write/knowledge
@@ -18,7 +18,7 @@ This wiki is large. 26530+ lines of markdown large (calculated with [loc](https:
 --------------------------------------------------------------------------------
  Language             Files        Lines        Blank      Comment         Code
 --------------------------------------------------------------------------------
- Markdown               830        30928         4398            0        26530
+ Markdown               834        31279         4459            0        26820
 ```
 
 ## Using the wiki well

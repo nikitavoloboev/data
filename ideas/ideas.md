@@ -58,3 +58,4 @@ I try to give my full attention to any ideas I am working on.
 - [Ask HN: Impossible Ideas? (2020)](https://news.ycombinator.com/item?id=23594735)
 - [What to look for when evaluating a start idea (2020)](https://twitter.com/lennysan/status/1275819005568118784)
 - [ConceptHunt](https://concepthunt.com/) - Practice Generating Ideas.
+- [How I side project (2019)](https://thesephist.com/posts/how-i-side-project/)

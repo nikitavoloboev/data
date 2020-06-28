@@ -39,3 +39,4 @@ Learning to build [startups](startups/startups.md).
 - [Search for trademark](https://www.gov.uk/search-for-trademark)
 - [Patio11’s Law](https://secondbreakfast.co/patio11-s-law)
 - [progression.fyi](https://www.progression.fyi/) - Collection of open source frameworks for helping designers and engineers to grow at work.
+- [Building an Engineering Ladder at Glossier (2020)](https://medium.com/glossier/building-an-engineering-ladder-at-glossier-e7fc3a390695)
