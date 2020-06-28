@@ -63,3 +63,4 @@ I use [2Do](../macOS/apps/2do.md) to track what things I want to buy next. These
 - [Simple Personal Finance Tracking with GnuCash (2020)](https://www.csun.io/2020/05/17/gnucash-finance.html) ([HN](https://news.ycombinator.com/item?id=23237445))
 - [Which books have been the most influential on your fatFIRE journey? (2020)](https://www.reddit.com/r/fatFIRE/comments/gpm6d0/which_books_have_been_the_most_influential_on/)
 - [Gather](https://www.usegather.com/) - Collaborative finance tool.
+- [Stripe](https://stripe.com/en-nl) - Online payment processing for internet businesses.

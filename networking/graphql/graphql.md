@@ -102,3 +102,4 @@
 - [Genql](https://genql.now.sh/) - Type safe GraphQL query builder. ([Code](https://github.com/remorses/genql))
 - [Slash GraphQL](https://dgraph.io/slash-graphql) - Provides GraphQL Backend for Your Application on the Internet.
 - [graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps.
+- [graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use. ([Example of use](https://github.com/jeffwillette/graphql-go-pets-example))

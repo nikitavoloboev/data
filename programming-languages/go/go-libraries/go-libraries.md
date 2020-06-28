@@ -112,6 +112,7 @@
 
 - [Gio](https://gioui.org/) - Implements portable immediate mode GUI programs in Go.
 - [ui](https://github.com/andlabs/ui) - Platform-native GUI library for Go.
+- [Nucular](https://github.com/aarzilli/nucular) - GUI toolkit for go.
 
 ## macOS
 
