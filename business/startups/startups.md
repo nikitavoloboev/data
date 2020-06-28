@@ -23,6 +23,7 @@
 - [Speed matters because frontier people like it and will go to the places where speed is possible. It maximizes their comparative advantage. If your field ceases to support speed, you’ll lose frontier people and stagnate.](https://marginalrevolution.com/marginalrevolution/2019/04/does-the-speed-of-production-matter.html)
 - [Under-valued skills of good startup founders: 1. Ability to create process 2. Writing clearly 3. Delaying gratification 4. Knowing when not to talk 5. Saying no to almost everything, but yes when it truly matters](https://mobile.twitter.com/AndyGCook/status/1134828886821416960)
 - [Things that founders often regret](https://twitter.com/lpolovets/status/1184628336124841984)
+- [Few founder superpowers: Knowing which questions to ask. Listening before talking. Speaking in analogies. Being able to take feedback. Uninterested in what competition is doing.](https://twitter.com/gregisenberg/status/1277287405008060416)
 
 ## Links
 
