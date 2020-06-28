@@ -50,3 +50,4 @@ And I have deep interest in [Differential privacy](http://en.wikipedia.org/wiki/
 - [Taking control of your own data (2020)](https://0x46.net/thoughts/2020/05/02/self-hosting/)
 - [We Chat, They Watch (2020)](https://citizenlab.ca/2020/05/we-chat-they-watch/) - How International Users Unwittingly Build up WeChat’s Chinese Censorship Apparatus. ([HN](https://news.ycombinator.com/item?id=23109997))
 - [EFF](https://www.eff.org/) - Leading nonprofit organization defending civil liberties in the digital world.
+- [Metomic](https://metomic.io/) - Privacy Tools for Developers.

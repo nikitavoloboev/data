@@ -6,6 +6,8 @@ Here are few more things I liked, design wise.
 
 ## Websites
 
+- [Linear](https://linear.app/)
+- [Supernotes](https://supernotes.app/)
 - [Fey](https://feyapp.com/)
 - [Dribble](https://dribbble.com/)
 - [Swipe Files](https://www.swipefiles.co/)
@@ -50,7 +52,6 @@ Here are few more things I liked, design wise.
 
 ## Products
 
-- [Linear](https://linear.app/)
 - [Notion](https://www.notion.so)
 - [Muse](https://museapp.com/)
 - [Flexibits](https://flexibits.com/)
