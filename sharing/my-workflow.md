@@ -75,6 +75,7 @@
 - Server APIs - [Go](https://golang.org/). Deployed as lambda functions on [AWS](https://aws.amazon.com/lambda/) or [GCP](https://cloud.google.com/functions).
 - Scripts & CLI tools - [Go](https://golang.org/).
 - Database - [Postgres](https://www.postgresql.org) for everything. With [Hasura](https://hasura.io) setup for GraphQL queries. [SQLite](https://www.sqlite.org) is great too.
+- Authentication - [Firebase](https://firebase.google.com/docs/auth)
 - iOS/macOS - Swift/SwiftUI. [Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture) seems great.
 
 ## Project tools

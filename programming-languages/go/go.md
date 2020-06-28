@@ -294,3 +294,4 @@ Go promotes composition over inheritance.
 - [exportloopref](https://github.com/kyoh86/exportloopref) - Analyzer that finds exporting pointers for loop variables.
 - [A Concise Guide to the Latest Go Generics Draft Design (2020)](https://pmihaylov.com/go-generics-draft-design/) ([HN](https://news.ycombinator.com/item?id=23562897))
 - [fgprof](https://github.com/felixge/fgprof) - Sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together. ([Tweet](https://twitter.com/felixge/status/1275833124103086080))
+- [How To Code in Go book by Digital Ocean (2020)](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)
