@@ -261,3 +261,8 @@
 ## Karabiner
 
 - Sort bindings in the order of keyboard (Q -> W -> E ..). Spacebar is always last key.
+
+## Naming
+
+- Twitter/Reddit/Instagram, get literal name if available. Capitalized. GitHub lowercased, literal name or with dashes. If name taken, can add \_ or App/HQ in the end. For Instagram, it's possible to get domain name literal like [narative.co](https://www.instagram.com/narative.co/).
+- For domains, get literal name, avoid dashes. Keep it to one registrar (Google Domains preferred).

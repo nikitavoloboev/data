@@ -123,3 +123,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Micropub](https://micropub.net/) - Open API standard that is used to create posts on one's own domain using third-party clients.
 - [go-sitemap-generator](https://github.com/ikeikeikeike/go-sitemap-generator) - Easiest way to generate Sitemaps in Go.
 - [Text-Only Websites](https://sjmulder.nl/en/textonly.html) ([HN](https://news.ycombinator.com/item?id=23626929))
+- [WebTransport API](https://wicg.github.io/web-transport/) ([HN](https://news.ycombinator.com/item?id=23666364))

@@ -38,6 +38,8 @@
 - [lgameframework](https://github.com/Planimeter/lgf) - Game development framework for Lua.
 - [Rizz](https://github.com/septag/rizz) - Tiny, multi-platform, and minimal game/app development framework, Written in C language.
 - [Spartan Engine](https://github.com/PanosK92/SpartanEngine) - Game engine with an emphasis on architectual quality and performance.
+- [CRYENGINE](https://github.com/CRYTEK/CRYENGINE/) - Powerful real-time game development platform created by Crytek. ([HN](https://news.ycombinator.com/item?id=23660099))
+- [24a2](https://github.com/jamesroutley/24a2) - Ultra-minimalist game engine. ([HN](https://news.ycombinator.com/item?id=23664814)) ([Web](https://24a2.routley.io/))
 
 ## Links
 
