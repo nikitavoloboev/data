@@ -12,6 +12,7 @@
 - [Atcoder](https://atcoder.jp/)
 - [Codechef](https://www.codechef.com/)
 - [Kattis](https://open.kattis.com/)
+- [AlgoDaily](https://algodaily.com/) - Software interview prep made easy. Coding Interview Questions.
 - [Sphere Online Judge](http://www.spoj.com/)
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
 - [CodeAbbey](https://www.codeabbey.com/)
