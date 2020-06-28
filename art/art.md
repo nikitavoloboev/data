@@ -117,6 +117,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Sage Jenson](https://sagejenson.com) - Generative art.
 - [Wenyi Geng](http://www.wenyigeng.com/)
 - [Stefan Morrell](https://www.artstation.com/stefan_morrell)
+- [Milton Glaser](https://www.miltonglaser.com/the-work/)
 - [Colin Prahl](http://www.colinprahl.com/)
 - [Raphael Lacoste](https://gumroad.com/raphaellacoste)
 - [Cristian Eres](https://www.cristianeres.com/) - Sci-Fi artist & Illustrator.
@@ -256,3 +257,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [WikiArt](https://www.wikiart.org/) - Visual Art Encyclopedia.
 - [Artvee](https://artvee.com/) - Discover Classical Art. Browse and download high-resolution, public domain artworks.
 - [Ghostly](https://ghostly.com/) - Music and art company supporting work of high quality, integrity, and individuality.
+- [Milton Glaser's advice on making art](https://twitter.com/johnleedraws/status/1276721178841841664)
