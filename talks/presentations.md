@@ -3,6 +3,7 @@
 ## Notes
 
 - [Amazon banned use of powerpoint presentations in 2004 as narrative is important for coherency over a list of points.](https://twitter.com/blakeir/status/1272883184154349573)
+- [Tired of slides. Going to try a new approach. Only use slides for high-resolution show-and-tell. Screenshots. Illustrations. Photos. Graphs. No bullet points. No giant word that indicates “this is what I’m talking about for the next 30 seconds.”](https://twitter.com/rjs/status/1277722533811240960)
 
 ## Links
 
