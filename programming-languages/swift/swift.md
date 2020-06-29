@@ -126,4 +126,5 @@
 - [Swift Knowledge Base - Swift example code](https://www.hackingwithswift.com/example-code)
 - [Swift in Sixty Seconds](https://www.hackingwithswift.com/sixty)
 - [Hacking with Swift Forums](https://www.hackingwithswift.com/forums)
+- [Hacking with Swift](https://www.hackingwithswift.com/) - Learn to code iPhone and iPad apps with free Swift tutorials.
 - [Hacking with Swift+](https://www.hackingwithswift.com/plus)
