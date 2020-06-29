@@ -105,6 +105,7 @@ And these Discord servers:
 - [Phys.org](https://phys.org/) - News and Articles on Science and Technology.
 - [Max Planck Institute for extraterrestrial Physics](http://www.mpe.mpg.de/main)
 - [DataTau](https://datatau.net/) - Data Science Newsboard.
+- [HN Deck](https://hndeck.sagunshrestha.com/) - View multiple HN feeds at once. ([HN](https://news.ycombinator.com/item?id=23626167))
 
 ## Notes
 

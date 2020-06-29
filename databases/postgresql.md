@@ -109,3 +109,4 @@
 - [Postgres...as an App? (2020)](https://bytes.yingw787.com/posts/2020/06/15/postgres_as_app_1/) ([Lobsters](https://lobste.rs/s/ir2uyk/postgres_as_app))
 - [PostgreSQL query JIT (2020)](https://solovyov.net/blog/2020/postgresql-query-jit/)
 - [PgBouncer](https://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL.
+- [Indexing JSONB columns in PostgreSQL (2020)](https://vsevolod.net/postgresql-jsonb-index/) ([Lobsters](https://lobste.rs/s/if87cc/how_not_use_jsonb_fields_their_indexes))
