@@ -1,6 +1,4 @@
-# My [Medium](https://medium.com/@nikitavoloboev) articles
-
-Number between brackets shows year I wrote the article in.
+# My articles
 
 ## Tools
 

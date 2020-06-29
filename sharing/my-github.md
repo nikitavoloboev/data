@@ -1,7 +1,5 @@
 # My [GitHub](https://github.com/nikitavoloboev) repositories
 
-Number between brackets shows year I created the repo in.
-
 ## Learn Anything
 
 - [Learn Anything (2017)](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths.
