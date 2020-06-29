@@ -25,3 +25,5 @@
 - [Achieving accessibility through simplicity (2020)](https://sourcehut.org/blog/2020-05-27-accessibility-through-simplicity/)
 - [Building the most inaccessible site possible with a perfect Lighthouse score (2019)](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/) ([HN](https://news.ycombinator.com/item?id=23440752))
 - [Is Dark Mode Such A Good Idea? (2020)](https://kevq.uk/is-dark-mode-such-a-good-idea/) ([Lobsters](https://lobste.rs/s/o4su2v/is_dark_mode_such_good_idea)) ([HN](https://news.ycombinator.com/item?id=23495052))
+- [Technica11y](https://technica11y.org/) - Discussing challenges in technical accessibility.
+- [Tenon.io](https://tenon.io/) - Accessibility as a Service.

@@ -12,3 +12,4 @@
 - [Traefik v2 - Advanced Config with Examples (2020)](https://www.reddit.com/r/selfhosted/comments/gz1ilc/traefik_v2_advanced_config_with_examples/)
 - [Self-Hosted Homelab Website](https://hydn.dev/homelab/) ([HN](https://news.ycombinator.com/item?id=23479505))
 - [Awesome Self Hosted](https://selfhosted.libhunt.com/)
+- [Use managed services. Please. (2020)](http://www.mooreds.com/wordpress/archives/3358) ([Lobsters](https://lobste.rs/s/zgyrc7/use_managed_services_please))
