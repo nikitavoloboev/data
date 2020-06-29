@@ -29,3 +29,4 @@
 - [Back pain is a massive problem which is badly treated (2020)](https://www.economist.com/briefing/2020/01/18/back-pain-is-a-massive-problem-which-is-badly-treated) ([HN](https://news.ycombinator.com/item?id=22067972))
 - [My Standard Desktop (2020)](https://lucumr.pocoo.org/2020/5/24/my-standard-desktop/)
 - [Your room can be as bright as the outdoors](https://www.benkuhn.net/lux/)
+- [Megadesk](https://www.tindie.com/products/gcormier/megadesk/) - Open-source, drop in controller for the IKEA Bekant standing desk. ([HN](https://news.ycombinator.com/item?id=23676346))

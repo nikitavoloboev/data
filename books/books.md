@@ -241,3 +241,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Ask HN: How do you take notes when reading a book? (2020)](https://news.ycombinator.com/item?id=23596471)
 - [Readwise](https://readwise.io/) - Makes it easy to revisit and learn from your ebook & article highlights.
 - [Penguin Random House](https://www.penguinrandomhouse.com/) - Committed to publishing great books, connecting readers and authors globally, and spreading the love of reading.
+- [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun) ([HN](https://news.ycombinator.com/item?id=23676862))

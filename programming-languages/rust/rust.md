@@ -245,3 +245,4 @@
 - [Rust's Huge Compilation Units (2020)](https://pingcap.com/blog/rust-huge-compilation-units/) ([HN](https://news.ycombinator.com/item?id=23608776))
 - [Rust for JavaScript Developers - Tooling Ecosystem Overview (2020)](http://www.sheshbabu.com/posts/rust-for-javascript-developers-tooling-ecosystem-overview/)
 - [On Rust Lifetimes (2019)](https://jiahao.codes/blog/on-rust-lifetimes/)
+- [A Few More Reasons Rust Compiles Slowly (2020)](https://pingcap.com/blog/reasons-rust-compiles-slowly) ([HN](https://news.ycombinator.com/item?id=23678701))
