@@ -59,3 +59,4 @@
 - [ShinySDR](https://github.com/kpreid/shinysdr) - Software-defined radio receiver application built on GNU Radio with a web-based UI and plugins.
 - [Hardware Floating Point (2020)](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/) ([HN](https://news.ycombinator.com/item?id=23600380))
 - [Xbox Architecture](https://www.copetti.org/projects/consoles/xbox/) ([HN](https://news.ycombinator.com/item?id=23657231))
+- [Build an 8-bit computer from scratch](https://eater.net/8bit)

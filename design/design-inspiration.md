@@ -161,6 +161,7 @@ Here are few more things I liked, design wise.
 - [Matías Martínez](https://matias.ma/)
 - [Matt D. Smith](http://mds.is/)
 - [Monica Lent](https://monicalent.com/)
+- [Hugo Zapata](https://hugozap.com/)
 - [Michaël Villar](http://www.michaelvillar.com/)
 - [Sarah Lim](https://slim.computer/)
 - [Maggie Appleton](https://maggieappleton.com/) ([Code](https://github.com/MaggieAppleton/maggieappleton.com))

@@ -23,3 +23,6 @@
 - [libz80](https://github.com/ggambetta/libz80) - Emulator of the Z80 processor (C library).
 - [Ruffle](https://github.com/ruffle-rs/ruffle) - Flash Player emulator written in Rust.
 - [Gameboy emulator: Zig -> wasm](https://github.com/fengb/fundude)
+- [JSLinux](https://bellard.org/jslinux/) - Run Linux or other Operating Systems in your browser.
+- [Windows98 Running in the Browser](https://copy.sh/v86/?profile=windows98) ([HN](https://news.ycombinator.com/item?id=23674012))
+- [8-bit CPU simulator in C](https://github.com/reutiteuti/logic) ([HN](https://news.ycombinator.com/item?id=23672470))

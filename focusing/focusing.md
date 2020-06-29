@@ -42,3 +42,4 @@ I have 2Do setup to schedule a weekly Sunday review & plan task.
 - [Warren Buffett's "2 List" Strategy: How to Maximize Your Focus and Master Your Priorities](https://jamesclear.com/buffett-focus)
 - [Procrastination is driven by our desire to avoid difficult emotions (2020)](https://www.cbc.ca/radio/thesundayedition/the-sunday-edition-for-june-14-2020-1.5604357/there-s-a-reason-we-procrastinate-and-it-s-not-laziness-1.5604433) ([HN](https://news.ycombinator.com/item?id=23537317))
 - [My weekly review habit](https://www.benkuhn.net/weekly/)
+- [How to finish your side project](https://hugozap.com/posts/how-to-finish-your-side-project/) ([HN](https://news.ycombinator.com/item?id=23672686))
