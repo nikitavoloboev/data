@@ -298,6 +298,7 @@
   - [Pony](programming-languages/pony.md)
   - [F#](programming-languages/fsharp.md)
   - [Ada](programming-languages/ada.md)
+  - [Perl](programming-languages/perl.md)
   - [Language Server Protocol](programming-languages/language-server-protocol.md)
 - [Data Science](data-science/data-science.md)
   - [Data Visualization](data-science/data-visualization.md)
