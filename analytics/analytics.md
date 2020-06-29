@@ -1,8 +1,10 @@
 # Analytics
 
-I find analytics that is not actionable in any way a waste of time. For example, checking the Insights Traffic pane on GitHub on your own repos to see how many people viewed your repo or cloned it. Or seeing how many people visited your own personal site with Google analytics. It serves 0 purpose and is only addicting due to its ego boosting nature.
+I find analytics that is not actionable in any way a waste of time. For example, checking the Insights Traffic pane on GitHub on your own repos to see how many people viewed your repo or cloned it.
 
-For user facing products, well implemented analytics will let you see how to optimize your system to serve some end goals better and for that you need data.
+Well implemented analytics will let you see how to optimize your system to serve some end goals better and for that you need data. As well as know from where the traffic is coming from.
+
+If analytics are used, it's best to implement them server side with something like [Netlify](https://www.netlify.com/products/analytics/) so as to not send unnecessary JS to the client and keep pages light.
 
 ## Links
 
