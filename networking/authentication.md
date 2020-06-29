@@ -52,3 +52,4 @@
 - [Simple Auth with Magic.link and Next.js (2020)](https://vercel.com/blog/simple-auth-with-magic-link-and-nextjs)
 - [jwt.ms](https://jwt.ms/) - Decode auth tokens.
 - [Platform authenticators for Web Authentication in Safari 14 (2020)](https://dchest.com/2020/06/27/platform-authenticators-for-web-authentication-in-safari-14/)
+- [OAuth in one picture](https://twitter.com/kamranahmedse/status/1276994010423361540)
