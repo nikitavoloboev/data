@@ -9,3 +9,4 @@
 - [Learn Eleventy From Scratch (2020)](https://piccalil.li/course/learn-eleventy-from-scratch/) ([Twitter](https://twitter.com/piccalilli_/status/1249677873448923139))
 - [Indieweb: Using Webmentions in Eleventy (2019)](https://mxb.dev/blog/using-webmentions-on-static-sites/)
 - [11ty: Generate Twitter cards automatically (2020)](https://fettblog.eu/11ty-automatic-twitter-cards/)
+- [Educational 11ty Resources](https://eleventythemes.com/learning-resources/)
