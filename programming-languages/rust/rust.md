@@ -244,3 +244,4 @@
 - [Rust: the archetype of a message-passing bug (2020)](https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8) ([HN](https://news.ycombinator.com/item?id=23599038))
 - [Rust's Huge Compilation Units (2020)](https://pingcap.com/blog/rust-huge-compilation-units/) ([HN](https://news.ycombinator.com/item?id=23608776))
 - [Rust for JavaScript Developers - Tooling Ecosystem Overview (2020)](http://www.sheshbabu.com/posts/rust-for-javascript-developers-tooling-ecosystem-overview/)
+- [On Rust Lifetimes (2019)](https://jiahao.codes/blog/on-rust-lifetimes/)

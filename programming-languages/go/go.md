@@ -297,3 +297,4 @@ Go promotes composition over inheritance.
 - [How To Code in Go book by Digital Ocean (2020)](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)
 - [astextract](https://github.com/lu4p/astextract) - Convert a go file to its ast representation.
 - [binclude](https://github.com/lu4p/binclude) - Include files in your binary the easy way.
+- [Go Modules- A guide for monorepos (2020)](https://engineering.grab.com/go-module-a-guide-for-monorepos-part-1)
