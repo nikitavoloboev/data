@@ -32,6 +32,7 @@
 - [Онлайн-курс по брендингу. Системный подход](https://school.nimax.ru/brands)
 - [Lessons in growing a large audience and media company (2020)](https://twitter.com/adam_keesling/status/1275243132594995201)
 - [Clatters](https://clatters.app/) - Easily monitor in one place your brand name, product name or any other keyword on your favorite social networks.
+- [Headlime](https://headlime.io/) - Create Headlines Like Copywriting Experts, Without Writing Them.
 
 ## Images
 
