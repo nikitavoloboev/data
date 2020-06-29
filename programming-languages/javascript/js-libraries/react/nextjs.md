@@ -87,3 +87,4 @@
 - [Next.js 101: What you should know (2020)](https://www.netlify.com/blog/2020/06/18/next.js-101-what-you-should-know/)
 - [Building my new website with Next.js, TailwindCSS, and Vercel (2020)](https://www.jplhomer.org/posts/how-built-new-website-nextjs-vercel-tailwind)
 - [How to contribute to Next.js (2020)](https://www.youtube.com/watch?v=WK-UFw0ZOIw)
+- [Data Fetching with NextJS: What I learned (2020)](https://blog.maximeheckel.com/posts/data-fetching-with-next-js)

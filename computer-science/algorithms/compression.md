@@ -23,3 +23,4 @@
 - [Comparing zstd/gzip/bzip2/lzma/xz Compression (2020)](https://etbe.coker.com.au/2020/06/06/comparing-compression/) ([Lobsters](https://lobste.rs/s/wd79sy/comparing_zstd_gzip_bzip2_lzma_xz))
 - [ZFP](https://github.com/LLNL/zfp) - Compressed format for representing multidimensional floating-point and integer arrays.
 - [PyTorch Implementation of the CVPR'19 Paper "Practical Full Resolution Learned Lossless Image Compression"](https://github.com/fab-jul/L3C-PyTorch)
+- [Lossless compression of English messages using GPT-2](http://textsynth.org/sms.html) ([HN](https://news.ycombinator.com/item?id=23618465)) ([Code](https://bellard.org/nncp/gpt2tc.html))
