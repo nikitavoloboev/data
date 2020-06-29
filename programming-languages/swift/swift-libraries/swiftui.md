@@ -4,7 +4,7 @@
 
 - [SwiftUI Essentials WWDC 2019](https://developer.apple.com/videos/play/wwdc2019/216/)
 - [SwiftUI Combine Example](https://github.com/ra1028/SwiftUI-Combine) - Example project of SwiftUI and Combine using GitHub API.
-- [SwiftUI by Example (2019)](https://www.hackingwithswift.com/quick-start/swiftui/)
+- [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui/)
 - [Evolution discussion of the new DSL feature behind SwiftUI (2019)](https://forums.swift.org/t/important-evolution-discussion-of-the-new-dsl-feature-behind-swiftui/25168/12)
 - [About SwiftUI](https://github.com/Juanpe/About-SwiftUI) - Gathering all info published, both by Apple and by others, about new framework SwiftUI.
 - [SwiftUI Cheat Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet)
@@ -20,6 +20,7 @@
 - [The missing ☑️: SwiftWebUI](http://www.alwaysrightinstitute.com/swiftwebui/)
 - [QGrid](https://github.com/Q-Mobile/QGrid) - The missing SwiftUI collection view.
 - [DesignCode SwiftUI](https://github.com/mythxn/DesignCode-SwiftUI) - App fully written in SwiftUI showcasing beautiful design and animations.
+- [Introducing SwiftUI Apple Docs](https://developer.apple.com/tutorials/swiftui)
 - [Creating and Combining SwiftUI Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
 - [View composition in SwiftUI (2019)](https://mecid.github.io/2019/10/30/view-composition-in-swiftui/)
 - [You have to change mindset to use SwiftUI (2019)](https://swiftwithmajid.com/2019/11/19/you-have-to-change-mindset-to-use-swiftui/)
@@ -70,3 +71,4 @@
 - [Inline wrapping of UIKit or AppKit views within SwiftUI (2020)](https://www.swiftbysundell.com/tips/inline-wrapping-of-uikit-or-appkit-views-within-swiftui/)
 - [SwiftUI mix and match (2020)](https://www.swiftbysundell.com/tips/swiftui-mix-and-match/)
 - [All SwiftUI property wrappers explained and compared (2020)](https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared)
+- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)

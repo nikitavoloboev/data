@@ -122,3 +122,8 @@
 - [Advanced Swift](https://www.objc.io/books/advanced-swift/) - Deep dive into Swift’s features, from low-level programming to high-level abstractions.
 - [Swift notes](https://app.milanote.com/1JMJuo1BH9mmcm?p=e4n1rBq3PKM)
 - [Embrace Swift type inference (2020)](https://developer.apple.com/videos/play/wwdc2020/10165/) - Great talk for understanding how to make APIs as concise as the ones in SwiftUI.
+- [100 Days of Swift](https://www.hackingwithswift.com/100)
+- [Swift Knowledge Base - Swift example code](https://www.hackingwithswift.com/example-code)
+- [Swift in Sixty Seconds](https://www.hackingwithswift.com/sixty)
+- [Hacking with Swift Forums](https://www.hackingwithswift.com/forums)
+- [Hacking with Swift+](https://www.hackingwithswift.com/plus)
