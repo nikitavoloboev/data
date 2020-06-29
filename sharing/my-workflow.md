@@ -66,7 +66,7 @@
 
 ## Presentations
 
-- Google Slides - [BeautifulAI](https://www.beautiful.ai), [Spectacle](https://formidable.com/open-source/spectacle/), [Hyperdeck](https://hyperdeck.io/) & Keynote are good too.
+- Keynote - [BeautifulAI](https://www.beautiful.ai), [Spectacle](https://formidable.com/open-source/spectacle/), [Hyperdeck](https://hyperdeck.io/) & Google Slides are good too.
 
 ## Tech stack
 
