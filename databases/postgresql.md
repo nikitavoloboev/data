@@ -110,3 +110,4 @@
 - [PostgreSQL query JIT (2020)](https://solovyov.net/blog/2020/postgresql-query-jit/)
 - [PgBouncer](https://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL.
 - [Indexing JSONB columns in PostgreSQL (2020)](https://vsevolod.net/postgresql-jsonb-index/) ([Lobsters](https://lobste.rs/s/if87cc/how_not_use_jsonb_fields_their_indexes))
+- [Splitgraph](https://www.splitgraph.com/) - Build and share data with Postgres, inspired by Docker/Git. ([HN](https://news.ycombinator.com/item?id=23627066))

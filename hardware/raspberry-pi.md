@@ -16,3 +16,4 @@
 - [A Raspberry Pi as a decent residential proxy (2020)](https://wiringbits.net/wiringbits/2020/06/07/a-raspberry-pi-as-a-decent-residential-proxy.html) ([HN](https://news.ycombinator.com/item?id=23456515))
 - [Raspberry Pi Firmware](https://github.com/raspberrypi/firmware) - Pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [Adventures in booting Linux on Raspberry Pi 4 (2020)](https://blog.mostlypointless.dev/posts/net-boot-rpi/) ([HN](https://news.ycombinator.com/item?id=23666564))
+- [Cross building Rust GStreamer plugins for the Raspberry Pi (2020)](https://www.collabora.com/news-and-blog/blog/2020/06/23/cross-building-rust-gstreamer-plugins-for-the-raspberry-pi/)

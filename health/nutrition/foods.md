@@ -94,3 +94,4 @@ Here is a list of various plant based foods that I use to experiment and cook wi
 - [Agricool](https://www.agricool.co/en/) - Fruits and vegetables grown in the heart of cities, less than 15 km away from where you live. Fresh, local, pesticide-free.
 - [Infarm](https://www.infarm.com/) - Growing a new food system in your city.
 - [QED](https://qed.ai/) - Builds data systems and AI for health and agriculture.
+- [What vertical farming and ag startups don't understand about agriculture (2020)](https://thinkingagriculture.io/what-silicon-valley-doesnt-understand-about-agriculture/) ([HN](https://news.ycombinator.com/item?id=23630201))
