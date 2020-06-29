@@ -49,6 +49,7 @@ Here are few more things I liked, design wise.
 - [Andrew Healey](https://healeycodes.com/)
 - [secret club](https://secret.club/)
 - [Pixel Envy](https://pxlnv.com/)
+- [Pseudo Random](https://www.pseudorandom.com/)
 
 ## Products
 
