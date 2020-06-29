@@ -21,3 +21,4 @@ And here are some [lists](https://letterboxd.com/nikitavoloboev/likes/lists/), [
 - [Do Not Go Gentle: A Film Tribute (2020)](https://vimeo.com/415346116)
 - [New Movies Coming Out](https://newmoviescomingout.us/) - Never miss a movie coming out again. ([Article](https://medium.com/makesideproject/new-movies-coming-out-79ee9595d59f))
 - [Film School Rejects](https://filmschoolrejects.com/) - Website about popular culture.
+- [Eastern European Movies](https://easterneuropeanmovies.com/) ([HN](https://news.ycombinator.com/item?id=23624551))

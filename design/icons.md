@@ -30,3 +30,4 @@
 - [App Icon Generator](https://appicon.co/)
 - [File Icon Images](https://github.com/dmhendricks/file-icon-vectors) - Collection of file type icons in SVG format.
 - [Intro to Icons by MDS](http://introtoicons.com/)
+- [macOS Big Sur Icon Template](http://vancura.design/macos-big-sur-icon-template)
