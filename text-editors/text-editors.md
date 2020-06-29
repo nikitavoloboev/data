@@ -6,9 +6,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 
 ## Interesting editors
 
-- [Xi Editor](https://github.com/xi-editor/xi-editor) - Modern editor with a backend written in Rust. ([Web](https://xi-editor.io/))
-- [Xi Editor macOS](https://github.com/google/xi-mac) - macOS client for Xi text editing backend.
-- [Oni](https://github.com/onivim/oni) - Modern Modal Editing - powered by Neovim.
+- [Oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor. ([HN](https://news.ycombinator.com/item?id=23626398))
 - [CodeMirror](http://codemirror.net/) - In-browser code editor.
 - [Awesome Online IDE](https://github.com/styfle/awesome-online-ide)
 - [Iota](https://github.com/gchp/iota) - Terminal-based text editor written in Rust.
@@ -26,6 +24,8 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Micro](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor. ([HN](https://news.ycombinator.com/item?id=23334190))
 - [Lime Text](https://github.com/limetext/lime) - Powerful and elegant text editor primarily developed in Go.
 - [Geany](https://www.geany.org/) - Fast and lightweight IDE. ([Code](https://github.com/geany/geany)) ([HN](https://news.ycombinator.com/item?id=23524336))
+- [Xi Editor](https://github.com/xi-editor/xi-editor) - Modern editor with a backend written in Rust. ([Web](https://xi-editor.io/))
+- [Xi Editor macOS](https://github.com/google/xi-mac) - macOS client for Xi text editing backend.
 
 ## Web
 
