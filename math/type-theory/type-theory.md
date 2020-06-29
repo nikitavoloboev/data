@@ -83,3 +83,4 @@
 - [Compositional Explanation of Types and Algorithmic Debugging of Type Errors (2001)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.25.818)
 - [Christian Williams: Structural types for algebraic theories (2020)](https://www.youtube.com/watch?v=aJyxtUopJ74)
 - [Peter LeFanu Lumsdaine, What are we thinking when we present a type theory? (2020)](https://www.youtube.com/watch?v=kQe0knDuZqg)
+- [Mathematics in type theory (2020)](https://xenaproject.wordpress.com/2020/06/20/mathematics-in-type-theory/) ([HN](https://news.ycombinator.com/item?id=23612856))

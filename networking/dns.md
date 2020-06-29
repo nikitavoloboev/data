@@ -35,3 +35,4 @@
 - [Where is the DNS Headed? (2020)](https://www.potaroo.net/ispcol/2020-06/row.html)
 - [What happens when you update your DNS? (2020)](https://jvns.ca/blog/how-updating-dns-works/) ([HN](https://news.ycombinator.com/item?id=23597687))
 - [An interview with Paul Mockapetris, the creator of the DNS (2020)](https://www.welcometothejungle.com/en/collections/behind-the-code/coder-stories/articles/btc-interview-paul-mockapetris) ([HN](https://news.ycombinator.com/item?id=23650499))
+- [DNS Push Notifications](https://www.rfc-editor.org/rfc/rfc8765.html) ([HN](https://news.ycombinator.com/item?id=23627094))
