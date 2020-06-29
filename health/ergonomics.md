@@ -18,6 +18,7 @@
 - [Fullstack Shack - Office Tour](https://www.youtube.com/watch?v=HPOq3QJz_7s) ([Twitter](https://twitter.com/wesbos/status/1243528348032172033))
 - [Desks of The Sweet Setup (2020)](https://thesweetsetup.com/the-desks-of-the-sweet-setup/)
 - [Desk for digital drawing](https://twitter.com/K_Kanehira/status/1266173850716237824)
+- [Pro Home Studio Setup](http://mds.is/recording/)
 
 ## Links
 

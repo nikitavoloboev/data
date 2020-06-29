@@ -70,6 +70,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [BlockBlock](https://github.com/objective-see/BlockBlock) - Provides continual protection by monitoring persistence locations.
 - [VimMotion](https://github.com/dwarvesf/VimMotionApp) - Access macOS UI elements with your fingers stay on keyboard. Inspired by vim-easymotion & avy-mode.
 - [Entity Pro](https://ixeau.com/entity-pro/) - Glyph & Emoji Finder.
+- [Contrast](https://usecontrast.com/) - macOS app for quick access to WCAG color contrast ratios.
 
 ## Links
 

@@ -157,6 +157,7 @@ Here are few more things I liked, design wise.
 - [Peter Steinberger](https://steipete.wtf/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)
 - [Matías Martínez](https://matias.ma/)
+- [Matt D. Smith](http://mds.is/)
 - [Monica Lent](https://monicalent.com/)
 - [Michaël Villar](http://www.michaelvillar.com/)
 - [Sarah Lim](https://slim.computer/)
