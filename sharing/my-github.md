@@ -19,7 +19,7 @@ Number between brackets shows year I created the repo in.
 ## Personal
 
 - [Code (2020)](https://github.com/nikitavoloboev/code) - Snippets of code.
-- [Build to learn (2019)](https://github.com/nikitavoloboev/build-to-learn) - Attempts at building things for deeper understanding/practice.
+- [Learning (2019)](https://github.com/nikitavoloboev/learning) - Building things for deeper understanding/practice.
 - [CV (2018)](https://github.com/nikitavoloboev/cv) - My CV.
 - [Knowledge (2017)](https://github.com/nikitavoloboev/knowledge) - Everything I know.
 - [Home (2017)](https://github.com/nikitavoloboev/nikitavoloboev.xyz) - My personal home on the internet.

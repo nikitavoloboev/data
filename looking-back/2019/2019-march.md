@@ -22,7 +22,7 @@ I think this is mostly due to my previous efforts into 'completely' systematisin
 
 I **love** my [Focus Trello board](../../focusing/focusing.md) of weekly/monthly/quaterly/yearly goals. It grounds me a lot and gives a sense of direction in which I am going towards. So all is left is to allocate my finite resource of time accordingly and **follow through with it**.
 
-In other news I had my wiki [get to front page of HN](https://news.ycombinator.com/item?id=19468993) and I got some interesting discussions from it. I also finally released my [Build to learn](https://github.com/nikitavoloboev/build-to-learn) project. Would love to see it evolve with time. In many ways it shares many of the ideas of why I've started this wiki. The wiki solves the problem of removing friction in sharing my knowledge via notes & links in continuous way. Build to learn solves the problem of removing friction from building & releasing ideas/tools I am playing around with in a continuous way. Will see where this leads.
+In other news I had my wiki [get to front page of HN](https://news.ycombinator.com/item?id=19468993) and I got some interesting discussions from it. I also finally released my [Build to learn](https://github.com/nikitavoloboev/learning) project. Would love to see it evolve with time. In many ways it shares many of the ideas of why I've started this wiki. The wiki solves the problem of removing friction in sharing my knowledge via notes & links in continuous way. Build to learn solves the problem of removing friction from building & releasing ideas/tools I am playing around with in a continuous way. Will see where this leads.
 
 ## Timing
 

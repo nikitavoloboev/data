@@ -31,7 +31,7 @@ Everything that is code is put into this folder.
 ```Bash
 ~/src
 ❯ exa
-build-to-learn  cli  clones  curated  extensions  games  ios  lib  macos  orgs  personal  web
+learning  cli  clones  curated  extensions  games  ios  lib  macos  orgs  personal  web
 ```
 
 ## ~/src/clones
@@ -50,9 +50,9 @@ Inside this folder I keep all code from orgs I am working or worked on.
 2do  learn-anything
 ```
 
-## ~/src/build-to-learn
+## ~/src/learning
 
-The folder is OSS on [GitHub](https://github.com/nikitavoloboev/build-to-learn). Inside this folder I have a bunch of language/framework specific folders. I use it to test out new tools/ideas in there.
+The folder is OSS on [GitHub](https://github.com/nikitavoloboev/learning). Inside this folder I have a bunch of language/framework specific folders. I use it to test out new tools/ideas.
 
 ## ~/src/extensions
 
