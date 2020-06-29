@@ -80,6 +80,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Shreyas Minocha](https://wiki.shreyasminocha.me/index.html) ([Code](https://github.com/shreyasminocha/wiki))
 - [NicoHood](https://github.com/NicoHood/NicoHood.github.io/wiki)
 - [Sanyam Kapoor](https://www.sanyamkapoor.com/kb)
+- [Blake Robbins](https://blakeir.com/notes)
 - [Alopex Networks wiki](https://wiki.alopex.li/_categories)
 - [Michael Mellinger math notes](https://github.com/melling/MathAndScienceNotes)
 - [Bookmarks, tweets, cheatsheets, one-liners](https://github.com/ccampean/almanacs)

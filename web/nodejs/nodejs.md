@@ -3,6 +3,7 @@
 ## Links
 
 - [Introduction to Node.js](https://nodejs.dev/)
+- [Node.Dev](https://node.dev/) - Latest Node.js content, news and updates in one place.
 - [Original presentation by Ryan Dahl on node.js](https://www.youtube.com/watch?v=ztspvPYybIY)
 - [Node best practices](https://github.com/i0natan/nodebestpractices)
 - [Supercharge your debugging experience for Node.js](https://medium.com/@wesharehoodies/supercharge-your-debugging-experience-for-node-js-3f0ddfaffbb2)

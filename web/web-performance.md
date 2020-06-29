@@ -73,7 +73,7 @@
 - [Benchmark.js](https://github.com/bestiejs/benchmark.js) - Robust benchmarking library that supports high-resolution timers & returns statistically significant results.
 - [Perfume.js](https://github.com/Zizzamia/perfume.js) - Web performance library for measuring all User-centric performance metrics.
 - [How Khan Academy Successfully Handled 2.5x Traffic in a Week (2020)](http://engineering.khanacademy.org/posts/handling-2x-traffic-in-a-week.htm) ([HN](https://news.ycombinator.com/item?id=23168998))
-- [Quicklink](https://getquick.link/) - Drop-in solution for sites to prefetch links based on what is in the user's viewport. ([Code](https://github.com/GoogleChromeLabs/quicklink/))
+- [Quicklink](https://getquick.link/) - Drop-in solution for sites to prefetch links based on what is in the user's viewport. ([Code](https://github.com/GoogleChromeLabs/quicklink/)) ([Article](https://web.dev/quicklink/))
 - [Serve Videos Instead of GIFs (2020)](https://www.dannyguo.com/blog/serve-videos-instead-of-gifs/) ([Lobsters](https://lobste.rs/s/x44a92/serve_videos_instead_gifs)) ([HN](https://news.ycombinator.com/item?id=23207019))
 - [Why NetNewsWire Is Fast (2020)](https://inessential.com/2020/05/18/why_netnewswire_is_fast) ([HN](https://news.ycombinator.com/item?id=23286362))
 - [The Website Obesity Crisis (2015)](https://idlewords.com/talks/website_obesity.htm)
