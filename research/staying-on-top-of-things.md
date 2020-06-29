@@ -104,6 +104,7 @@ And these Discord servers:
 - [LOW←TECH MAGAZINE](https://solar.lowtechmagazine.com/) - Solar-powered, self-hosted version of Low-tech Magazine.
 - [Phys.org](https://phys.org/) - News and Articles on Science and Technology.
 - [Max Planck Institute for extraterrestrial Physics](http://www.mpe.mpg.de/main)
+- [DataTau](https://datatau.net/) - Data Science Newsboard.
 
 ## Notes
 

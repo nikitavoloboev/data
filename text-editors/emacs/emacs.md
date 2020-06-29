@@ -53,3 +53,4 @@ Might give it a go sometime.
 - [Learn Emacs Lisp in 15 minutes](https://bzg.fr/en/learn-emacs-lisp-in-15-minutes.html/)
 - [Org Mode - Organize Your Life In Plain Text!](http://doc.norang.ca/org-mode.html) ([HN](https://news.ycombinator.com/item?id=23299993)) ([Lobsters](https://lobste.rs/s/e8tydo/org_mode_organize_your_life_plain_text))
 - [Introducing Org Roam (2020)](https://blog.jethro.dev/posts/introducing_org_roam/)
+- [Life is 90% of my use cases for org-mode](http://stormrider.io/ninety-pct.html) ([HN](https://news.ycombinator.com/item?id=23672473))

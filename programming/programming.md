@@ -182,3 +182,4 @@
 - [MIT 6.001 Structure and Interpretation (1986)](https://www.youtube.com/playlist?list=PLE18841CABEA24090) ([HN](https://news.ycombinator.com/item?id=23599263))
 - [If you can't delete code then you're stuck with it](https://www.christopherbiscardi.com/post/if-you-cant-delete-code-then-youre-stuck-with-it)
 - [Dynamic linking (2020)](https://drewdevault.com/dynlib.html) ([Lobsters](https://drewdevault.com/dynlib.html)) ([HN](https://news.ycombinator.com/item?id=23654353))
+- [It's probably time to stop recommending Clean Code (2020)](https://qntm.org/clean)
