@@ -14,3 +14,4 @@
 - [Netlify Build](https://github.com/netlify/build) - Pluggable tool for running builds locally and in Netlify CI.
 - [Netlify Build Plugins](https://github.com/netlify/plugins)
 - [GitOps Engine](https://github.com/argoproj/gitops-engine) - Reusable library that implements core GitOps features.
+- [Automating safe, hands-off deployments (2020)](https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/)

@@ -25,3 +25,4 @@
 - [Opinions I have formed about the “geospatial industry” (2020)](https://twitter.com/mouthofmorrison/status/1265635034939248640) ([HN](https://news.ycombinator.com/item?id=23609819))
 - [DeepTrace](https://frontrangegeosciences.com/DeepTrace/) - Breakthrough application of deep learning for picking arrival times in seismic data.
 - [Satellogic](https://satellogic.com/) - Vertically integrated  geospatial analytics. Powerful satellite image solutions to gain access of a more efficient and real time information for your business.
+- [Ethics in Geo (2020)](https://macwright.org/2020/06/21/ethics-in-geo.html)

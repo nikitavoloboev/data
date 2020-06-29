@@ -295,3 +295,5 @@ Go promotes composition over inheritance.
 - [A Concise Guide to the Latest Go Generics Draft Design (2020)](https://pmihaylov.com/go-generics-draft-design/) ([HN](https://news.ycombinator.com/item?id=23562897))
 - [fgprof](https://github.com/felixge/fgprof) - Sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together. ([Tweet](https://twitter.com/felixge/status/1275833124103086080))
 - [How To Code in Go book by Digital Ocean (2020)](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook)
+- [astextract](https://github.com/lu4p/astextract) - Convert a go file to its ast representation.
+- [binclude](https://github.com/lu4p/binclude) - Include files in your binary the easy way.

@@ -22,7 +22,7 @@ Further automate and optimize any frictions I feel.
 
 Minimize incoming stream of information to contain impactful signal that is inspiring. Meet more people.
 
-Cut time waste fully. No analytics nor compulsive behavior. Breathe, be mindful & create!
+Cut time waste fully. No analytics. No compulsive behavior. Breathe, be mindful & create!
 
 ## Read books/papers
 
