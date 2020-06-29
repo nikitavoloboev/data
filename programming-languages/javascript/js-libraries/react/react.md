@@ -138,3 +138,4 @@
 - [Rendering to iFrames in React (2018)](https://medium.com/@ryanseddon/rendering-to-iframes-in-react-d1cb92274f86)
 - [How to use React Testing Library (2020)](https://www.robinwieruch.de/react-testing-library)
 - [rehype-react](https://github.com/rehypejs/rehype-react) - Plugin to transform to React.
+- [React Deep Dive book (2020)](https://book.react-js.dev/)

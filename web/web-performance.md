@@ -84,3 +84,4 @@
 - [Set and Meet Speed Budgets (2020)](https://calibreapp.com/blog/set-and-meet-speed-budgets)
 - [Is WebP really better than JPEG? (2020)](https://siipo.la/blog/is-webp-really-better-than-jpeg) ([Lobsters](https://lobste.rs/s/pky9aa/is_webp_really_better_than_jpeg))
 - [Everything Addy Osmani Hates About JavaScript (2020)](https://dev.to/ben/everything-addy-osmani-hates-about-javascript-5cb)
+- [An introduction to Web Performance and the Critical Rendering Path (2018)](https://medium.com/free-code-camp/an-introduction-to-web-performance-and-the-critical-rendering-path-ce1fb5029494)

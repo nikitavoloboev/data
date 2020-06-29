@@ -10,3 +10,4 @@
 - [Fast Fourier transforms (FFTs) in Rust](https://github.com/calebzulawski/fourier)
 - [FFTW](http://www.fftw.org/) - C subroutine library for computing the discrete Fourier transform (DFT) in one or more dimensions, of arbitrary input size, and of both real and complex data. ([Code](https://github.com/FFTW/fftw3))
 - [rust-fftw3](https://github.com/rust-math/fftw) - FFTW3 binding for Rust.
+- [Discrete Fourier Transform: A geometric interpretation](https://www.geogebra.org/m/ztn2du2a)

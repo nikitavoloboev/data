@@ -37,3 +37,4 @@
 - [Implement Your Own Source To Source AD in ONE day (2020)](http://blog.rogerluo.me/2019/07/27/yassad/) ([HN](https://news.ycombinator.com/item?id=23489743))
 - [Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil) - Contains recipes for building binaries for Julia packages using BinaryBuilder.jl.
 - [Grassmann.jl A\b 3x faster than Julia's StaticArrays.jl (2020)](https://discourse.julialang.org/t/grassmann-jl-a-b-3x-faster-than-julias-staticarrays-jl/41451?u=chakravala) ([HN](https://news.ycombinator.com/item?id=23529016))
+- [JuliaAcademy courses](https://juliaacademy.com/courses)

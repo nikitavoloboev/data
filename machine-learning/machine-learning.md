@@ -72,7 +72,7 @@
 - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/index.html)
 - [Machine Learning Feynman Experience](https://github.com/leandromineti/ml-feynman-experience) - Collection of concepts I tried to implement using only Python, NumPy and SciPy on Google Colaboratory.
 - [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
-- [Deep learning drizzle](https://github.com/kmario23/deep-learning-drizzle) - Various ML, reinforcement learning video lectures.
+- [Deep learning drizzle](https://deep-learning-drizzle.github.io/) - Various ML, reinforcement learning video lectures. ([Code](https://github.com/kmario23/deep-learning-drizzle))
 - [Xfer](https://github.com/amzn/xfer) - Transfer Learning library for Deep Neural Networks.
 - [List of summer schools in machine learning + related fields](https://github.com/sshkhr/awesome-mlss)
 - [Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
@@ -249,3 +249,4 @@
 - [Interactive Machine Learning List](https://p.migdal.pl/interactive-machine-learning-list/) ([Code](https://github.com/stared/interactive-machine-learning-list/))
 - [Sema](https://sema.codes/) - Live Code Language Design Playground. ([Code](https://github.com/mimic-sussex/sema))
 - [Model Zoo](https://modelzoo.dev/) - Deploy your model with a single line of code. ([HN](https://news.ycombinator.com/item?id=23678633))
+- [Introduction to Machine Learning with Julia](https://juliaacademy.com/p/introduction-to-machine-learning)
