@@ -185,3 +185,4 @@
 - [It's probably time to stop recommending Clean Code (2020)](https://qntm.org/clean) ([Reddit](https://www.reddit.com/r/programming/comments/hhlvqq/its_probably_time_to_stop_recommending_clean_code/)) ([Lobsters](https://lobste.rs/s/twdhuk/it_s_probably_time_stop_recommending))
 - [Software reuse is more like an organ transplant than snapping Lego blocks (2011)](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/) ([HN](https://news.ycombinator.com/item?id=23630640))
 - [Programming Questions Quiz](https://questions.wizardzines.com/)
+- [Ways to explain code when told it doesn't make sense](https://softwareengineering.stackexchange.com/questions/411585/ways-to-explain-code-when-told-it-doesnt-make-sense)

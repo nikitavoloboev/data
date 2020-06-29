@@ -7,6 +7,7 @@ Here are few more things I liked, design wise.
 ## Websites
 
 - [Linear](https://linear.app/)
+- [Apple](https://www.apple.com/)
 - [Supernotes](https://supernotes.app/)
 - [Fey](https://feyapp.com/)
 - [Dribble](https://dribbble.com/)
