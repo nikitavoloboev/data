@@ -349,6 +349,7 @@ Here are few more things I liked, design wise.
 - [Mathieu Dutour](https://mathieu.dutour.me/) - Minimal.
 - [Sarah Drasner](https://sarah.dev/)
 - [Brandon Weiss](https://brandonweiss.me/)
+- [Brandon Dail](https://brandondail.com/)
 - [Luuk de Vlieger](https://www.luuk.site/)
 - [Henry's Zoo](https://www.henryzoo.com/) - Simple.
 - [Karolina](https://thefox.is/)

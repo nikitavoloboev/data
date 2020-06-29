@@ -104,3 +104,4 @@
 - [graphql-request](https://github.com/prisma-labs/graphql-request) - Minimal GraphQL client supporting Node and browsers for scripts or simple apps.
 - [graphql-go](https://github.com/graph-gophers/graphql-go) - GraphQL server with a focus on ease of use. ([Example of use](https://github.com/jeffwillette/graphql-go-pets-example))
 - [A Principled Approach to GraphQL Query Cost Analysis (2020)](https://medium.com/dev-genius/a-principled-approach-to-graphql-query-cost-analysis-8c7243de42c1)
+- [Production Ready GraphQL Book](https://book.productionreadygraphql.com/)

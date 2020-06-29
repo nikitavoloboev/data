@@ -258,3 +258,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Artvee](https://artvee.com/) - Discover Classical Art. Browse and download high-resolution, public domain artworks.
 - [Ghostly](https://ghostly.com/) - Music and art company supporting work of high quality, integrity, and individuality.
 - [Milton Glaser's advice on making art](https://twitter.com/johnleedraws/status/1276721178841841664)
+- [SuperRare](https://superrare.co/) - Authentic Digital Art Marketplace.
