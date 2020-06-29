@@ -549,6 +549,7 @@
     - [Japan](travel/visited/japan.md)
     - [China](travel/visited/china.md)
     - [Canada](travel/visited/canada.md)
+  - [Cities](travel/cities.md)
 - [Geography](geography/geography.md)
   - [Spatial analysis](geography/spatial-analysis.md)
 - [Business](business/business.md)
