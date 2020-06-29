@@ -192,6 +192,7 @@ Here are few more things I liked, design wise.
 - [Fabio Cevasco](https://h3rald.com/) ([Code](https://github.com/h3rald/h3rald))
 - [Tinnei](https://tinnei.today/index.html)
 - [Nienke Dekker](https://nienke.dev/)
+- [Stefan Baumgartner](https://fettblog.eu/)
 - [Luke Miles](https://ylukem.com/)
 - [Jon Kuperman](https://jonkuperman.com/)
 - [Gavin Nelson](https://www.gnelsondesign.com/) ([Code](https://github.com/gavinmn/gnelsondesign))
