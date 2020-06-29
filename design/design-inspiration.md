@@ -217,6 +217,7 @@ Here are few more things I liked, design wise.
 - [Joe Birr-Pixton](http://jbp.io/)
 - [Matt Oswalt](https://oswalt.dev/) ([Code](https://github.com/Mierdin/blog))
 - [Wesley Moore](https://www.wezm.net/v2/)
+- [Eric Davidson](https://www.erdavids.com/)
 - [Tatiana Mac](https://tatianamac.com/)
 - [Two Wrongs](https://two-wrongs.com/)
 - [Nathan Taylor](https://nathan.tokyo/)
