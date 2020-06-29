@@ -10,3 +10,4 @@
 - [JAMstack Functions](https://jamstackfns.com/) - Directory of the best serverless functions for JAMstack applications.
 - [The JAMStack and the startups building it](https://technically.dev/posts/the-jamstack-and-the-startups-building-it.html)
 - [JAMStack Virtual Conf](https://jamstackconf.com/virtual/)
+- [Build a Jamstack Merch Store course](https://piccalil.li/course/build-a-jamstack-merch-store/)
