@@ -25,3 +25,4 @@
 - [TornadoVM: Accelerating Java with GPUs and FPGAs (2020)](https://www.infoq.com/articles/tornadovm-java-gpu-fpga/) ([HN](https://news.ycombinator.com/item?id=23521357))
 - [Notebooks on Java](https://justinblank.com/notebooks/)
 - [Writing Java With a Dash of Functional Programming (2018)](https://jiahao.codes/blog/writing-java-with-a-dash-of-functional-programming/)
+- [Write Once, Build Anywhere (2020)](https://dave.autonoma.ca/blog/2020/06/29/write-once-build-anywhere/) - Cross-compiling self-contained Java desktop application launchers.

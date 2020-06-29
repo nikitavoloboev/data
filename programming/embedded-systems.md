@@ -46,3 +46,4 @@
 - [Monolinux Jiffy](https://github.com/eerimoq/monolinux-jiffy) - Monolinux distro for the Jiffy board. ([HN](https://news.ycombinator.com/item?id=23556862))
 - [Fast Execute-Only Memory for Embedded Systems (2006)](https://arxiv.org/pdf/2006.00076.pdf)
 - [Trends in Embedded Systems (2020)](https://www.reddit.com/r/embedded/comments/heay2s/trends_in_embedded_systems/)
+- [Blech language](https://www.blech-lang.org/) - Embedded real-time programming.

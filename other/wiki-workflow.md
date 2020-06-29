@@ -180,7 +180,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Relanote](https://relanote.com/) - Connect your notes into a knowledge graph.
 - [Milanote](https://milanote.com/) - Tool for organizing creative projects.
 - [mymind](https://mymind.com/) - Extension for your mind.
-- [Foam](https://github.com/foambubble/foam) - Personal knowledge management and sharing system for VSCode. ([HN](https://news.ycombinator.com/item?id=23666950)) ([Foam Workspace](https://mathieudutour.github.io/foam-gatsby-template/))
+- [Foam](https://github.com/foambubble/foam) - Personal knowledge management and sharing system for VSCode. ([HN](https://news.ycombinator.com/item?id=23666950)) ([Foam Workspace](https://mathieudutour.github.io/foam-gatsby-template/)) ([Lobsters](https://lobste.rs/s/xufl8d/foam_personal_knowledge_management))
 - [Supernotes](https://supernotes.app/) - Collaborative note-taking app.
 - [Gthnk](http://www.gthnk.com/) - Personal Journal.
 - [Growing the Evergreens (2020)](https://maggieappleton.com/evergreens)

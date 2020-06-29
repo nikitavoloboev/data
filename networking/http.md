@@ -60,3 +60,4 @@
 - [Pact Go](https://github.com/pact-foundation/pact-go) - Golang version of Pact. Pact is a contract testing framework for HTTP APIs and non-HTTP asynchronous messaging systems.
 - [Tinyproxy](https://github.com/tinyproxy/tinyproxy) - Light-weight HTTP/HTTPS proxy daemon for POSIX operating systems.
 - [HTTP in Swift (2020)](https://davedelong.com/blog/2020/06/27/http-in-swift-part-1/) - Building a Swift HTTP framework.
+- [Improving HTTP with structured header fields (2020)](https://www.fastly.com/blog/improve-http-structured-headers)
