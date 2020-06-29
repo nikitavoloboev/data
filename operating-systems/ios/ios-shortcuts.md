@@ -18,3 +18,4 @@
 - [Take Control of Shortcuts](https://www.takecontrolbooks.com/shortcuts/)
 - [Shortcuts File Format Reference](https://github.com/sebj/iOS-Shortcuts-Reference)
 - [View Source for Safari on iOS with Shortcuts (2020)](https://paul.kinlan.me/view-source-for-safari-on-ios-with-shortcuts/)
+- [Shortcuts Swift](https://github.com/a2/shortcuts-swift) - Write Shortcuts in Playgrounds.
