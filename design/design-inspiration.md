@@ -115,6 +115,7 @@ Here are few more things I liked, design wise.
 - [Steven Fabre](http://stevenfabre.com)
 - [Max Böck](https://mxb.dev/) ([Code](https://github.com/maxboeck/mxb))
 - [Amie Chen](https://www.amie-chen.com/)
+- [Hayk An](https://hayk.design/#/)
 - [Stephen Diehl](http://www.stephendiehl.com/) ([Code](https://github.com/sdiehl/stephendiehl.com))
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))
 - [Em Lazer-Walker](https://lazerwalker.com/)

@@ -37,3 +37,4 @@
 - [Gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation. ([Web](https://gauge.org/))
 - [What are Unit Tests For? (2020)](https://ahuth.github.io/content/articles/what-are-unit-tests-for.html) ([Lobsters](https://lobste.rs/s/eb8xzu/what_are_unit_tests_for))
 - [Spark Joy by Running Fewer Tests (2020)](https://engineering.shopify.com/blogs/engineering/spark-joy-by-running-fewer-tests)
+- [The lazy programmer's guide to writing thousands of tests: An introduction to Property-Based Tests (2020)](https://www.youtube.com/watch?v=IYzDFHx6QPY)
