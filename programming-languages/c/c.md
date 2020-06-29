@@ -58,3 +58,4 @@
 - [Linux kernel coding style in C](https://www.kernel.org/doc/Documentation/process/coding-style.rst)
 - [Constantine](https://github.com/rizsotto/Constantine) - Toy project to learn how to write Clang plugin.
 - [Tiny C Compiler](https://bellard.org/tcc/) ([HN](https://news.ycombinator.com/item?id=23617461))
+- [C performance mystery: delete unused string constant (2020)](https://news.ycombinator.com/item?id=23633583)
