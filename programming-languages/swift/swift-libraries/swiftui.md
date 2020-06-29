@@ -69,3 +69,4 @@
 - [What's new in SwiftUI for iOS 14 – Extended Edition (2020)](https://www.youtube.com/watch?v=-h8pk2pe7Xo)
 - [Inline wrapping of UIKit or AppKit views within SwiftUI (2020)](https://www.swiftbysundell.com/tips/inline-wrapping-of-uikit-or-appkit-views-within-swiftui/)
 - [SwiftUI mix and match (2020)](https://www.swiftbysundell.com/tips/swiftui-mix-and-match/)
+- [All SwiftUI property wrappers explained and compared (2020)](https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared)

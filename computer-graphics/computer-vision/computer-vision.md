@@ -89,3 +89,4 @@
 - [MMDetection](https://github.com/open-mmlab/mmdetection) - OpenMMLab Detection Toolbox and Benchmark.
 - [Fourier Feature Networks in TensorFlow 2](https://github.com/noahtren/Fourier-Feature-Networks-TensorFlow-2)
 - [Computer Vision Lab | ETH Zurich](https://vision.ee.ethz.ch/)
+- [PyTorch Computer Vision Library for Experts and Beginners (2020)](https://medium.com/pytorch/pytorch-computer-vision-library-for-experts-and-beginners-84b9157584e5)
