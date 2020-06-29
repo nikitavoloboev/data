@@ -264,5 +264,5 @@
 
 ## Naming
 
-- Twitter/Reddit/Instagram, get literal name if available. [Capitalized](https://twitter.com/GoogleAI). GitHub [lowercased](https://github.com/google), literal name or with dashes. If name taken, can add \_ or [HQ](https://twitter.com/SlackHQ)/[App](https://twitter.com/SparkMailApp) (if company) in the end. For Instagram, if literal name is taken, it's possible to get domain name literal like [narative.co](https://www.instagram.com/narative.co/).
-- For domains, get literal name, avoid dashes. Keep it to one registrar (Google Domains preferred). Prefer .com if not too expensive and not taken. Otherwise `.co`, `.io`, `.app`, `.dev`, `.org`, `.xyz`, `.so` are good.
+- Twitter/Reddit/Instagram, get literal name if available. Capitalize [Twitter](https://twitter.com/GoogleAI) & [Reddit](https://www.reddit.com/r/ApolloApp/). GitHub [lowercased](https://github.com/google), literal name or with dashes. If name taken, can add \_ or [HQ](https://twitter.com/SlackHQ)/[App](https://twitter.com/SparkMailApp) (if company) in the end. For Instagram, if literal name is taken, it's possible to get domain name literal like [narative.co](https://www.instagram.com/narative.co/). Can use [namecheckr](https://www.namecheckr.com/) to check for available names.
+- For domains, get literal name, avoid dashes. Keep it to one registrar (Google Domains preferred). Prefer `.com` or `.co` if not too expensive and not taken. If it's an app, use `.app`. Otherwise `.io`, `.so`, `.dev`, `.org`, `.xyz` are good.
