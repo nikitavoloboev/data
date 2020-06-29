@@ -120,3 +120,4 @@
 - [The Natural Language Processing Dictionary](http://www.cse.unsw.edu.au/~billw/nlpdict.html)
 - [Introduction to NLP using Fastai (2020)](https://harish3110.github.io/through-tinted-lenses/natural%20language%20processing/sentiment%20analysis/2020/06/27/Introduction-to-NLP-using-Fastai.html)
 - [Gwern on GPT-3](https://www.gwern.net/newsletter/2020/05#gpt-3) ([HN](https://news.ycombinator.com/item?id=23623845))
+- [Semantic Machines](https://www.semanticmachines.com/) - Solving conversational artificial intelligence. Part of Microsoft.
