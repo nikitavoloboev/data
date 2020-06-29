@@ -144,7 +144,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Snap.as](https://snap.as/) - Permanent home for your photos.
 - [Primer](https://www.primer.com/) - Get creative with your space. Visualize inspiring ideas right in your space so you can make it perfect.
 - [Watercooler](https://waterc00ler.com/) - Voice chat rooms.
-- [Jsonnet](https://github.com/google/jsonnet) - Data templating language.
+- [Jsonnet](https://github.com/google/jsonnet) - Data templating language. ([Web](https://jsonnet.org/))
 - [Baremetrics](https://baremetrics.com/) - Subscription Analytics & Insights for Stripe, Braintree, Recurly & more.
 - [Reddit Write](https://redditwrite.datasources.co/) - Writing software trying to help you optimize and create the best reddit posts you can to attract more upvotes and comments.
 - [Rasa](https://rasa.com/) - Open source conversational AI.

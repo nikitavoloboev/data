@@ -50,6 +50,10 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Corona Warn App](https://github.com/corona-warn-app/cwa-app-ios) - Native iOS app using the exposure notification framework from Apple.
 - [Clip](https://github.com/rileytestut/Clip) - Clipboard manager for iOS that can monitor your clipboard indefinitely in the background.
 
+## Other
+
+- [Supercharge](https://www.supercharge.app/) - Offers an innovative tweak editor with dozens of tools to build tweaks without writing a single line of code.
+
 ## Notes
 
 - [Giving location, camera, photo permissions to apps matters](https://krausefx.com/blog/ios-privacy-watchuser-access-both-iphone-cameras-any-time-your-app-is-running)

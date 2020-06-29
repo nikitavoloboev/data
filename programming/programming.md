@@ -184,3 +184,4 @@
 - [Dynamic linking (2020)](https://drewdevault.com/dynlib.html) ([Lobsters](https://drewdevault.com/dynlib.html)) ([HN](https://news.ycombinator.com/item?id=23654353))
 - [It's probably time to stop recommending Clean Code (2020)](https://qntm.org/clean)
 - [Software reuse is more like an organ transplant than snapping Lego blocks (2011)](https://www.johndcook.com/blog/2011/02/03/lego-blocks-and-organ-transplants/) ([HN](https://news.ycombinator.com/item?id=23630640))
+- [Programming Questions Quiz](https://questions.wizardzines.com/)

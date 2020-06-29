@@ -11,7 +11,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Amplify](https://aws-amplify.github.io/) - Build on a flexible, scalable, and reliable serverless backend.
 - [Amazon Neptune](https://aws.amazon.com/neptune/) - Fast, reliable graph database built for the cloud.
 - [RDS Proxy](https://aws.amazon.com/rds/proxy/) - Fully managed, highly available database proxy for Amazon Relational Database Service (RDS).
-- [AWS Honeycode](https://aws.amazon.com/blogs/aws/introducing-amazon-honeycode-build-web-mobile-apps-without-writing-code/) - Build Web & Mobile Apps Without Writing Code. ([HN](https://news.ycombinator.com/item?id=23633110))
+- [AWS Honeycode](https://www.honeycode.aws/) - Build Web & Mobile Apps Without Writing Code. ([Announcement](https://aws.amazon.com/blogs/aws/introducing-amazon-honeycode-build-web-mobile-apps-without-writing-code/)) ([HN](https://news.ycombinator.com/item?id=23633110))
 
 ## Links
 
