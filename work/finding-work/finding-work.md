@@ -69,3 +69,4 @@ My other favorite way of finding interesting work opportunities is meeting and i
 - [Ask HN: Is it bad if I only have experience working in my startup? (2020)](https://news.ycombinator.com/item?id=23514857)
 - [Advice on applying for internships](https://rosiecampbell.me/on-applying-for-internships)
 - [Advice on career decisions](https://rosiecampbell.me/on-career-decisions)
+- [Increase Your Chances Of Getting Hired As A Code Newbie (2020)](https://catalins.tech/increase-your-chances-of-getting-hired-as-a-code-newbie)

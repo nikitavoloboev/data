@@ -88,3 +88,4 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [How To Get Worse At StarCraft II (2020)](https://illiteracyhasdownsides.com/2020/06/13/how-to-get-worse-at-starcraft-ii/)
 - [Deus Ex at 20: The oral history of a pivotal PC game (2020)](https://www.rockpapershotgun.com/2020/06/22/deus-ex-at-20-the-oral-history-of-a-pivotal-pc-game/) ([HN](https://news.ycombinator.com/item?id=23599411))
 - [Read-Only Memory](https://readonlymemory.vg/) - Publisher of beautiful books on videogame history. ([Twitter](https://twitter.com/ROMvg))
+- [Gamework (2020)](https://www.youtube.com/watch?v=FVoOC_RHY2E)

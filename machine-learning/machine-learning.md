@@ -246,3 +246,4 @@
 - [How to add AI to your app without knowing anything about AI (2020)](https://jaredpalmer.com/blog/add-ai-to-your-app-without-knowing-anything-about-ai)
 - [What I learned from looking at 200 machine learning tools (2020)](https://huyenchip.com/2020/06/22/mlops.html) ([HN](https://news.ycombinator.com/item?id=23620757))
 - [Interactive Machine Learning List](https://p.migdal.pl/interactive-machine-learning-list/) ([Code](https://github.com/stared/interactive-machine-learning-list/))
+- [Sema](https://sema.codes/) - Live Code Language Design Playground. ([Code](https://github.com/mimic-sussex/sema))

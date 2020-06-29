@@ -88,6 +88,7 @@
 - [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - UIKit library for displaying a range of dates in a vertically-scrolling or horizontally-scrolling calendar component.
 - [CampcotCollectionView](https://github.com/touchlane/CampcotCollectionView) - Collapse and expand UICollectionView sections with one method call.
 - [SectionScrubber](https://github.com/3lvis/SectionScrubber) - Component to quickly scroll between collection view sections.
+- [TDBadgedCell](https://github.com/tmdvs/TDBadgedCell) - Table view cell class that adds a badge, similar to the badges in Apple's own apps.
 
 ## macOS
 
