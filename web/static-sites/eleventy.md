@@ -10,3 +10,5 @@
 - [Indieweb: Using Webmentions in Eleventy (2019)](https://mxb.dev/blog/using-webmentions-on-static-sites/)
 - [11ty: Generate Twitter cards automatically (2020)](https://fettblog.eu/11ty-automatic-twitter-cards/)
 - [Educational 11ty Resources](https://eleventythemes.com/learning-resources/)
+- [Add Search to an Eleventy website with Elasticlunr (2020)](https://www.belter.io/eleventy-search/)
+- [Create a Sitemap.xml with Eleventy (2020)](https://www.belter.io/eleventy-sitemap/)
