@@ -106,6 +106,7 @@ And these Discord servers:
 - [Max Planck Institute for extraterrestrial Physics](http://www.mpe.mpg.de/main)
 - [DataTau](https://datatau.net/) - Data Science Newsboard.
 - [HN Deck](https://hndeck.sagunshrestha.com/) - View multiple HN feeds at once. ([HN](https://news.ycombinator.com/item?id=23626167))
+- [Tools and Toys](http://toolsandtoys.net/) - Hand-Picked for Work and Play.
 
 ## Notes
 

@@ -236,6 +236,7 @@ Here are few more things I liked, design wise.
 - [David Heinemeier Hansson](https://dhh.dk/)
 - [Paul Scanlon](http://www.pauliescanlon.io/)
 - [psql.me](http://psql.me/) - Looks like a neat Instagram alternative.
+- [Sam Bleckley](https://sambleckley.com/)
 - [Paul Butler](https://paulbutler.org/)
 - [JW Design](https://www.jw.design/)
 - [Simon Sarris](https://simonsarris.com/)
