@@ -148,6 +148,7 @@ Here are few more things I liked, design wise.
 - [Krasjet](https://krasjet.com/)
 - [Craig Mod](https://craigmod.com/)
 - [Max Woolf](https://minimaxir.com/)
+- [Maxime Heckel](https://blog.maximeheckel.com/) ([Code](https://github.com/MaximeHeckel/blog.maximeheckel.com))
 - [Nicholas Carlini](https://nicholas.carlini.com/)
 - [Prithu Goswami](https://prithu.xyz/) ([Code](https://github.com/prithugoswami/personal-website))
 - [Sarah Park](https://sei0.github.io/) ([Code](https://github.com/sei0/sei0.github.io))

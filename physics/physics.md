@@ -101,3 +101,4 @@
 - [What are good online resources for learning physics? (2020)](https://www.reddit.com/r/AskPhysics/comments/he6uq0/what_are_good_online_resources_for_learning/)
 - [What is a photon? (2017)](http://blog.sigfpe.com/2017/08/what-is-photon.html) ([HN](https://news.ycombinator.com/item?id=23637576))
 - [Do gravitational waves destructively interfere with each other? (2020)](https://www.reddit.com/r/AskPhysics/comments/hf7rxe/do_gravitational_waves_destructively_interfere/)
+- [The physics behind spring animations (2020)](https://blog.maximeheckel.com/posts/the-physics-behind-spring-animations)

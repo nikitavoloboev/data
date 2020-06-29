@@ -127,3 +127,4 @@
 - [Curve Detectors (2020)](https://distill.pub/2020/circuits/curve-detectors/)
 - [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://github.com/tancik/fourier-feature-networks)
 - [Neural Networks and Deep Learning](https://www.notion.so/Neural-Networks-and-Deep-Learning-f7ff3bae25de4f0085fd52fc8e810827) - What they are and how they work.
+- [Teaching physics to neural networks removes 'chaos blindness' (2020)](https://phys.org/news/2020-06-physics-neural-networks-chaos.html) ([HN](https://news.ycombinator.com/item?id=23597426))
