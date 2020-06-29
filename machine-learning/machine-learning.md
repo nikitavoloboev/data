@@ -248,3 +248,4 @@
 - [What I learned from looking at 200 machine learning tools (2020)](https://huyenchip.com/2020/06/22/mlops.html) ([HN](https://news.ycombinator.com/item?id=23620757))
 - [Interactive Machine Learning List](https://p.migdal.pl/interactive-machine-learning-list/) ([Code](https://github.com/stared/interactive-machine-learning-list/))
 - [Sema](https://sema.codes/) - Live Code Language Design Playground. ([Code](https://github.com/mimic-sussex/sema))
+- [Model Zoo](https://modelzoo.dev/) - Deploy your model with a single line of code. ([HN](https://news.ycombinator.com/item?id=23678633))
