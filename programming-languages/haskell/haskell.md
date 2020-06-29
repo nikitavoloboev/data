@@ -156,3 +156,4 @@
 - [IHP](https://ihp.digitallyinduced.com/) - Modern batteries-included Web Framework, built on top of Haskell and Nix. ([HN](https://news.ycombinator.com/item?id=23610527)) ([Code](https://github.com/digitallyinduced/ihp))
 - [The power of IO in Haskell (2020)](https://www.47deg.com/blog/io-haskell/)
 - [JSON Parser 100% From Scratch in Haskell (only 111 lines) (2019)](https://www.youtube.com/watch?v=N9RUqGYuGfw)
+- [Learn Haskell in a couple of tweets (2020)](https://twitter.com/k0001/status/1277615394560360449)

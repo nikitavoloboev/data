@@ -22,3 +22,4 @@
 - [The unreasonable effectiveness of one-on-ones (2019)](https://www.benkuhn.net/11/)
 - [Advice on being a competent human](https://rosiecampbell.me/on-being-a-competent-human)
 - [Understanding how open collaboration works](https://twitter.com/swardley/status/1276936398973612034)
+- [How To Debug HR Issues (2020)](https://dcgross.com/debugging-hr)
