@@ -16,7 +16,7 @@
 - [Introduction to Homotopy Type Theory](https://github.com/EgbertRijke/HoTT-Intro)
 - [Homotopy type theory in Lean 3](https://github.com/gebner/hott3)
 - [Workshop on Homotopy Type Theory/ Univalent Foundations (2020)](https://hott-uf.github.io/2020/)
-- [homotopy.io](https://ncatlab.org/nlab/show/homotopy.io) - Web-based proof assistant for finitely-presented globular n-categories, for arbitrary n.
+- [homotopy.io](https://homotopy.io/) - Web-based proof assistant for finitely-presented globular n-categories, for arbitrary n. ([User Guide](https://ncatlab.org/nlab/show/homotopy.io)) ([Code](https://github.com/homotopy-io/homotopy-webclient))
 - [Homotopy Type Theory: Univalent Foundations of Mathematics book](https://homotopytypetheory.org/book/) ([Code](https://github.com/HoTT/book))
 - [Kevin Buzzard, Imperial College London: "Is HoTT the way to do mathematics?" (2020)](https://www.youtube.com/watch?v=q5-pykbfViA)
 - [A functional programmer's guide to homotopy type theory (2016)](https://dl.acm.org/doi/10.1145/2951913.2976748)
