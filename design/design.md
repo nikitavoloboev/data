@@ -106,3 +106,5 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Mockingbird](https://gomockingbird.com/home) - Mock up an application and show what's important: the idea, the information, the interaction.
 - [UI Design for Developers](https://designcode.io/ui-design-for-developers)
 - [UI Design Daily](https://uidesigndaily.com/) - Weekly free UI resources straight to your inbox.
+- [Sideway](http://looksideway.com/) - Find design inspiration from real life projects.
+- [Mobbin](https://mobbin.design/) - Latest Mobile Design Patterns.
