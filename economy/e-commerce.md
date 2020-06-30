@@ -11,3 +11,4 @@
 - [GoCommerce](https://github.com/netlify/gocommerce) - Small go based API for static e-commerce sites.
 - [Saleor Commerce](https://github.com/mirumee/saleor) - Modular, high performance, headless e-commerce storefront built with Python, GraphQL, Django, and ReactJS. ([Web](https://saleor.io/))
 - [Amplemarket](https://amplemarket.com/) - Next Generation Sales Intelligence.
+- [Faire](https://www.faire.com/) - Online Wholesale Marketplace & Store.

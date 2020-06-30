@@ -112,3 +112,4 @@
 - [Indexing JSONB columns in PostgreSQL (2020)](https://vsevolod.net/postgresql-jsonb-index/) ([Lobsters](https://lobste.rs/s/if87cc/how_not_use_jsonb_fields_their_indexes))
 - [Splitgraph](https://www.splitgraph.com/) - Build and share data with Postgres, inspired by Docker/Git. ([HN](https://news.ycombinator.com/item?id=23627066))
 - [Running Postgres in Kubernetes](https://static.sched.com/hosted_files/ossna2020/fc/Running%20Postgres-as-a-Service%20in%20Kubernetes.pdf) ([HN](https://news.ycombinator.com/item?id=23682450))
+- [Zero dependancy Pub / Sub system with PostgreSQL (2018)](https://gdelgado.ca/zero-dependancy-pub-sub-system-with-postgresql.html#title)
