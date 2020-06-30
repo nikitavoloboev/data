@@ -57,3 +57,4 @@ In some cases, a problem may be complex enough that it needs time thinking more 
 - [Problem-solving tips](https://twitter.com/3blue1brown/status/1264221747391328256)
 - [How to scope work (2020)](https://highgrowthengineering.substack.com/p/how-to-scope-work-)
 - [Problem solving](https://www.alexkehayias.com/essays/problem-solving/) - Introspecting on improving my product problem solving skills.
+- [Ask HN: How to improve my abstract thinking? (2020)](https://news.ycombinator.com/item?id=23675370)

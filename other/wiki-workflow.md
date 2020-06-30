@@ -8,7 +8,7 @@ I write and edit all the markdown files in this wiki from [Sublime Text](../text
 
 I use [this Alfred workflow](https://github.com/nikitavoloboev/small-workflows#personal-workflows) to quickly search through all the `.md` files that are found in this wiki.
 
-![](https://i.imgur.com/uwnUS4V.png)
+![](https://i.imgur.com/JUMpYzb.png)
 
 This workflow also searches through all folders in this wiki and lets me create new folders inside those folders or create new entries (md files) inside the folders.
 
@@ -26,7 +26,7 @@ When reading books, I annotate over the PDF with [PDF Expert](https://pdfexpert.
 
 Now that I can edit this wiki and extend it at the speed of a thought. I can open any of the wiki entries in seconds by searching for the file I need with [Alfred My Mind](https://github.com/nikitavoloboev/alfred-my-mind).
 
-![](https://i.imgur.com/RXRAG5c.png)
+![](https://i.imgur.com/vRtsNbq.png)
 
 And anyone who owns Alfred can download the workflow and search through the wiki too. Outside of that, GitBook also provides a pretty neat search in the wiki itself. In there you can make textual queries too and files where the queried text is will be shown.
 
