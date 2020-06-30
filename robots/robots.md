@@ -18,3 +18,4 @@
 - [Stanford Quadruped](https://github.com/stanfordroboticsclub/StanfordQuadruped) - Raspberry Pi-based quadruped robots that can trot, walk, and jump.
 - [PyRep](https://github.com/stepjam/PyRep) - Toolkit for robot learning research.
 - [Venom : All Terrain Autonomous Quadruped](https://github.com/chinmaynehate/Venom)
+- [REx Lab](https://rexlab.stanford.edu/) - Stanford Robotic Exploration Lab.

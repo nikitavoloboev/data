@@ -72,6 +72,7 @@
 - [JuliaWebAPI.jl](https://github.com/JuliaWeb/JuliaWebAPI.jl) - Julia package for deploying APIs.
 - [HTTP](https://github.com/JuliaWeb/HTTP.jl) - HTTP client and server functionality for Julia.
 - [OptimKit.jl](https://github.com/Jutho/OptimKit.jl) - Blissfully ignorant Julia package for gradient optimization.
+- [TrajectoryOptimization.jl](https://github.com/RoboticExplorationLab/TrajectoryOptimization.jl) - Fast trajectory optimization library written in Julia.
 
 ## Links
 

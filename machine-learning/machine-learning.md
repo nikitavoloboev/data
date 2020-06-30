@@ -251,3 +251,4 @@
 - [Model Zoo](https://modelzoo.dev/) - Deploy your model with a single line of code. ([HN](https://news.ycombinator.com/item?id=23678633))
 - [Introduction to Machine Learning with Julia](https://juliaacademy.com/p/introduction-to-machine-learning)
 - [Reverb](https://github.com/deepmind/reverb) - Efficient and easy-to-use data storage and transport system designed for machine learning research.
+- [System design patterns for machine learning](https://github.com/mercari/ml-system-design-pattern)

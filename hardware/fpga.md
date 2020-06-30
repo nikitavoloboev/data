@@ -12,3 +12,4 @@
 - [Cook FPGA](https://github.com/lastweek/fpga_readings) - Collection of useful resources and links rather than a thorough FPGA tutorial.
 - [ULX3S: Hackable FPGA that runs Linux on RISC-V](https://ulx3s.github.io/) ([HN](https://news.ycombinator.com/item?id=23513152))
 - [YoWASP](https://yowasp.org/) - Unofficial WebAssembly-based packages for Yosys, nextpnr, and more.
+- [Silice](https://github.com/sylefeb/Silice) - Language for hardcoding Algorithms into FPGA hardware.

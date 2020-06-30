@@ -21,3 +21,4 @@
 - [Continuous Delivery with Terraform (2020)](https://theconsultingcto.com/posts/continuous-delivery-with-terraform/)
 - [serverless.tf](https://github.com/antonbabenko/serverless.tf) - Doing serverless with Terraform.
 - [Terraform Best Practices](https://www.terraform-best-practices.com/) ([Code](https://github.com/antonbabenko/terraform-best-practices))
+- [tfnotify](https://github.com/mercari/tfnotify) - CLI command to parse Terraform execution result and notify it to GitHub.

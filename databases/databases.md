@@ -88,6 +88,7 @@
 - [Pravega](https://github.com/pravega/pravega) - Open source distributed storage service implementing Streams. It offers Stream as the main primitive for the foundation of reliable storage systems.
 - [libmdbx](https://github.com/erthink/libmdbx) - Extremely fast, compact, powerful, embedded, transactional key-value store database.
 - [Realm](https://github.com/realm/realm-core) - Mobile database that runs directly inside phones, tablets or wearables.
+- [HSE](https://github.com/hse-project/hse) - Embeddable key-value store designed for SSDs based on NAND flash or persistent memory.
 
 ## Tools
 

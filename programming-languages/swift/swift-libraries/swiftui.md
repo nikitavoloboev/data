@@ -73,3 +73,4 @@
 - [All SwiftUI property wrappers explained and compared (2020)](https://www.hackingwithswift.com/quick-start/swiftui/all-swiftui-property-wrappers-explained-and-compared)
 - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - [SwiftUI Inspector](https://swiftui.ai/) - Production-quality code straight from your favorite design tool.
+- [Multiplatform Messages app for macOS, iOS, iPadOS in SwiftUI](https://github.com/jordansinger/messages-multiplatform-swiftui-sample)

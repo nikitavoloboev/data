@@ -128,3 +128,4 @@
 - [Hacking with Swift Forums](https://www.hackingwithswift.com/forums)
 - [Hacking with Swift](https://www.hackingwithswift.com/) - Learn to code iPhone and iPad apps with free Swift tutorials.
 - [Hacking with Swift+](https://www.hackingwithswift.com/plus)
+- [Awesome Swift NIO](https://github.com/slashmo/awesome-swift-nio)

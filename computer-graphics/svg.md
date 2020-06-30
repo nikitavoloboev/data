@@ -36,3 +36,4 @@
 - [URL-encoder for SVG](https://yoksel.github.io/url-encoder/) ([Code](https://github.com/yoksel/url-encoder))
 - [SVG Filters Playground](https://yoksel.github.io/svg-filters/#/) ([Code](https://github.com/yoksel/svg-filters))
 - [Textures.js](https://github.com/riccardoscalco/textures) - JavaScript library for creating SVG patterns. ([Web](https://riccardoscalco.it/textures/)) ([HN](https://news.ycombinator.com/item?id=23673534))
+- [SVG Caching with <use> (2020)](https://paco.im/blog/svg-caching-with-use)

@@ -110,6 +110,7 @@
 - [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - Create beautiful SVG maps in react with d3-geo and topojson using a declarative api.
 - [SWR + Firestore](https://github.com/nandorojo/swr-firestore) - Implement Vercel's useSWR for querying Firestore in React/React Native/Expo apps.
 - [react-collapse-pane](https://github.com/b-zurg/react-collapse-pane) - Splittable, draggable, collapsible panel layout library.
+- [FlexLayout](https://github.com/caplin/FlexLayout) - Multi-tab layout manager.
 
 ## Links
 

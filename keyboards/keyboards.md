@@ -65,3 +65,4 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Resources for building a keyboard from scratch (2020)](https://twitter.com/steveklabnik/status/1274361173954236419)
 - [ZMK Firmware](https://github.com/zmkfirmware/zmk) - Modern, open source keyboard firmware. ([Docs](https://zmkfirmware.dev/docs/))
 - [Keyboard University](https://keyboard.university/) - The first and last resource you’ll ever need for mechanical keyboards.
+- [Collection of nice keyboard + photos](https://paco.im/keyboards)
