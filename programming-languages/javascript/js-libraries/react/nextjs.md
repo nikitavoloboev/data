@@ -11,6 +11,7 @@
 - [Next + TypeScript + Yarn monorepo](https://github.com/josephluck/next-typescript-monorepo)
 - [Next.js SDK for signing in with Auth0](https://github.com/auth0/nextjs-auth0)
 - [Next.js Medium style boilerplate blog](https://github.com/maxigimenez/next-medium-blog-boilerplate)
+- [Next + Netlify Starter](https://github.com/cassidoo/next-netlify-starter)
 - [Next + Netlify Markdown Blog Starter](https://github.com/cassidoo/next-netlify-blog-starter)
 
 ## NextJS plugins
@@ -76,7 +77,6 @@
 - [Blitz](https://github.com/blitz-js/blitz) - Framework for building monolithic, full-stack, serverless React apps with zero data-fetching and zero client-side state management.
 - [Improved Next.js and Gatsby page load performance with granular chunking (2020)](https://web.dev/granular-chunking-nextjs/)
 - [Building my first Next.js app (2020)](https://www.youtube.com/watch?v=Z0FUBQPXHMA)
-- [Next + Netlify Starter](https://github.com/cassidoo/next-netlify-starter)
 - [Handy new features in Next.js 9.4 (2020)](https://www.netlify.com/blog/2020/05/18/handy-new-features-in-next.js-9.4/)
 - [TypeGraphQ, TypeORM & Next.js Boilerplate](https://github.com/tobiaslins/typesafety-from-db-to-frontend)
 - [aws-cognito-next](https://github.com/dferber90/aws-cognito-next) - Authentication helpers to enable usage of AWS Cognito in next.js applications.
