@@ -98,6 +98,7 @@
 - [litecli](https://github.com/dbcli/litecli) - Command-line client for SQLite databases that has auto-completion and syntax highlighting.
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Query and manage your relational databases.
 - [Diwata](https://github.com/ivanceras/diwata) - User-friendly database interface.
+- [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS. ([Web](https://sequel-ace.com/))
 
 ## Links
 
