@@ -56,3 +56,4 @@
 - [Building GitHub-style Hovercards with Stimulus and HTML-over-the-wire (2020)](https://boringrails.com/articles/hovercards-stimulus/)
 - [Slingcode](https://slingcode.net/) - Personal computing platform in a single html file.
 - [ThebeLab](https://github.com/minrk/thebelab) - Turns your static HTML pages into interactive ones, powered by a kernel. ([Docs](https://thebelab.readthedocs.io/en/latest/))
+- [HTML+CSS Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial)
