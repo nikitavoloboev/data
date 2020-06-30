@@ -127,3 +127,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [In Defense of a Fussy Website (2020)](https://css-tricks.com/in-defense-of-a-fussy-website/)
 - [ArchiveBox](https://github.com/pirate/ArchiveBox) - Open-source self-hosted web archive.
 - [web.dev LIVE](https://web.dev/live/) - Bringing web developers together, from home.
+- [Weird Wide Webring](https://weirdwidewebring.net/) - The web needs a little more weird. These sites are helping. ([Code](https://github.com/jackmcdade/weird-wide-webring))
