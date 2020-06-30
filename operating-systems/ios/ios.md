@@ -206,3 +206,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS Background Execution Demystified (2020)](https://twitter.com/mousiechika/status/1276620696731504640)
 - [Stanford Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 - [Tokens](https://gikken.co/tokens/) - Better-in-every-way replacement for App Store Connect. Blazing fast promo codes. Amazingly user-friendly.
+- [Intercom for iOS](https://github.com/intercom/intercom-ios) - Integrating Intercom into your iOS application.
