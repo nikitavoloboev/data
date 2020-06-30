@@ -28,3 +28,4 @@
 - [Lua Integration (2020)](https://mkhan45.github.io/2020/06/12/lua-integration.html)
 - [LuaJIT Language Toolkit](https://github.com/franko/luajit-lang-toolkit) - Implementation of the Lua programming language written in Lua itself.
 - [Antifennel](https://git.sr.ht/~technomancy/antifennel) - Turn Lua code into Fennel code.
+- [HN: Lua 5.4.0 (2020)](https://news.ycombinator.com/item?id=23686297)
