@@ -29,6 +29,7 @@
 - [Human Factory Lab](https://www.humanfactorylab.com/) - World-class expertise in human brains. Building tech that interacts with human brains.
 - [Wu Tsai Neurosciences Institute](https://neuroscience.stanford.edu/)
 - [NeuroAILab](http://neuroailab.stanford.edu/) - Stanford Neuroscience and Artificial Intelligence Laboratory.
+- [Synaptic specificity is collectively determined by partner identity, location and activity (2019)](https://www.biorxiv.org/content/10.1101/697763v1)
 
 ## Images
 

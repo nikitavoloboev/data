@@ -16,13 +16,11 @@ Learn by building/exploring and lots of reading/thinking. Document everything.
 
 ## Minimize, improve tools used, meet people
 
-Focus on making and extending tools to solve well defined problems I have.
+Focus on making and extending tools to solve problems & any frictions I have.
 
-Further automate and optimize any frictions I feel. Create things that bring joy.
+Filter incoming streams of information to contain impactful things that inspires me. Meet more people.
 
-Minimize incoming stream of information to contain only impactful signal that is inspiring. Meet more people.
-
-Cut time waste fully. No analytics. No compulsive behavior. Breathe, be mindful & create!
+Cut time waste fully. No analytics. No compulsive behavior. Breathe, be mindful & create things that bring joy!
 
 ## Read books/papers
 
@@ -32,6 +30,8 @@ Read books & research papers relevant to problems I want to solve.
 
 Make more videos (educational & otherwise). More insightful articles. Richer wiki. Better tools for extracting knowledge.
 
-## Stay on top & be focused
+Express myself creatively by playing music & doing design.
+
+## Clear off important tasks & be focused
 
 Progressively clean up important 2Do tasks, GitHub issues. Keep in mind goals above & my rules.

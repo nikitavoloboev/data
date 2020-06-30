@@ -26,3 +26,4 @@
 - [Notebooks on Java](https://justinblank.com/notebooks/)
 - [Writing Java With a Dash of Functional Programming (2018)](https://jiahao.codes/blog/writing-java-with-a-dash-of-functional-programming/)
 - [Write Once, Build Anywhere (2020)](https://dave.autonoma.ca/blog/2020/06/29/write-once-build-anywhere/) - Cross-compiling self-contained Java desktop application launchers.
+- [Greatest Java apps (2020)](https://blogs.oracle.com/javamagazine/the-top-25-greatest-java-apps-ever-written) ([HN](https://news.ycombinator.com/item?id=23676723))
