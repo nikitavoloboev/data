@@ -242,3 +242,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Readwise](https://readwise.io/) - Makes it easy to revisit and learn from your ebook & article highlights.
 - [Penguin Random House](https://www.penguinrandomhouse.com/) - Committed to publishing great books, connecting readers and authors globally, and spreading the love of reading.
 - [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun) ([HN](https://news.ycombinator.com/item?id=23676862))
+- [HN: There’s no replacement for the thrill of browsing in a bookstore (2020)](https://news.ycombinator.com/item?id=23678230)
