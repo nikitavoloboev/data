@@ -10,7 +10,7 @@ I also use BTT to modify my TouchBar. Here is how it looks:
 
 It shows, from left to right:
 
-1. Current or next events in [my Calendar](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical)
+1. Current or next events in [my Calendar](fantastical.md)
 2. Current time, day and month number
 3. Battery percentage
 

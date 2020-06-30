@@ -13,13 +13,13 @@ You can also find & download all the Typinator sets I use from [here](https://ww
 3. Phrases - Some phrases I find myself saying often.
 4. Questions - Common questions I found myself asking.
 5. Dates - Expanding current date in different formats like DD/MM/YYYY.
-6. Fantastical - Expansions for [easing entering of natural input](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) in [Fantastical app](https://wiki.nikitavoloboev.xyz/macOS/apps/fantastical).
+6. Fantastical - Expansions for [easing entering of natural input](https://medium.com/@nikitavoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr) in [Fantastical app](fantastical.md).
 
 ![](https://i.imgur.com/V8FHOj4.png)
 
 > My Typinator Sets
 
-I use the same trick as in [KM](https://wiki.nikitavoloboev.xyz/macOS/apps/keyboard-maestro/km-macros) to indicate what information I should have in my clipboard before activating it by enclosing it inside `{}` like so:
+I use the same trick as in [KM](keyboard-maestro/km-macros.md) to indicate what information I should have in my clipboard before activating it by enclosing it inside `{}` like so:
 
 ![](https://i.imgur.com/CKyQ8gR.png)
 

@@ -43,7 +43,7 @@ I maintain a list of [awesome humans](https://github.com/learn-anything/humans) 
 - [Ask HN: What people skills do you wish you learned earlier in your career? (2019)](https://news.ycombinator.com/item?id=20503813)
 - [The Unparalleled Genius of John von Neumann (2019)](https://medium.com/cantors-paradise/the-unparalleled-genius-of-john-von-neumann-791bb9f42a2d) ([HN](https://news.ycombinator.com/item?id=21542753))
 - [WaitWho.is](https://waitwho.is/) - Growing directory of people — and all of their best content in one place.
-- [View from the Top: Craig Federighi (2019)](https://www.youtube.com/watch?v=43sjym5ZS68)
+- [View from the Top: Craig Federighi (2019)](https://www.youtube.com/watch?v=43sjym5ZS68) ([Reddit](https://www.reddit.com/r/apple/comments/hhvenj/life_advice_from_craig_federighi_uc_berkeley_hour/))
 - [Remembering Don Valentine](https://www.sequoiacap.com/article/remembering-don-valentine/) ([HN](https://news.ycombinator.com/item?id=21359239))
 - [HN: John Conway has died (2020)](https://news.ycombinator.com/item?id=22843306)
 - [The Computer Scientist Who Can’t Stop Telling Stories (2020)](https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/)
