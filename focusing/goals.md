@@ -30,7 +30,7 @@ Read books & research papers relevant to problems I want to solve.
 
 Make more videos (educational & otherwise). More insightful articles. Richer wiki. Better tools for extracting knowledge.
 
-Express myself creatively by playing music & doing design.
+Express myself creatively by playing music, taking photos & making designs/drawings.
 
 ## Clear off important tasks & be focused
 
