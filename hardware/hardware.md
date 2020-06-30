@@ -63,3 +63,4 @@
 - [Hardware Floating Point (2020)](https://blog.stephenmarz.com/2020/06/14/hardware-floating-point/) ([HN](https://news.ycombinator.com/item?id=23600380))
 - [Xbox Architecture](https://www.copetti.org/projects/consoles/xbox/) ([HN](https://news.ycombinator.com/item?id=23657231))
 - [Build an 8-bit computer from scratch](https://eater.net/8bit)
+- [Recommendations for running a rack-mount server at home? (2020)](https://lobste.rs/s/chxutg/recommendations_for_running_rack_mount)
