@@ -95,6 +95,7 @@
   - [Neuromorphic Computing](hardware/neuromorphic-computing.md)
   - [Circuit design](hardware/circuit-design.md)
   - [FPGA](hardware/fpga.md)
+  - [Verilog](hardware/verilog.md)
   - [Firmware](hardware/firmware.md)
   - [Arduino](hardware/arduino.md)
   - [Raspberry Pi](hardware/raspberry-pi.md)
