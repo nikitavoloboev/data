@@ -13,3 +13,4 @@
 - [Cruise](https://www.getcruise.com/) - Self-driving vehicle service.
 - [Aurora](https://aurora.tech/) - Delivering the benefits of self-driving technology safely, quickly, and broadly.
 - [Zoox](https://zoox.com/) - Driving autonomously in ways that no one else has shown. ([HN](https://news.ycombinator.com/item?id=23648942))
+- [Mobileye](https://www.mobileye.com/) - Autonomous Driving & ADAS (Advanced Driver Assistance Systems).
