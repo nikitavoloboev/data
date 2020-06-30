@@ -24,3 +24,4 @@
 - [City Map Generator](https://maps.probabletrain.com/#/) ([Code](https://github.com/ProbableTrain/MapGenerator))
 - [Dungeon Scrawl](https://dungeonscrawl.com/) - Dungeon scrawling tool.
 - [Generative Iris (2020)](https://mostlymaths.net/2020/06/iris-sketch.html/) ([HN](https://news.ycombinator.com/item?id=23592665))
+- [How to create a game using hyperbolic geometry?](http://roguetemple.com/z/hyper/dev.php)
