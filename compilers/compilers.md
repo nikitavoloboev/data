@@ -102,3 +102,4 @@
 - [An Intro to Compilers (2017)](https://nicoleorchard.com/blog/compilers) - How to Speak to Computers. ([HN](https://news.ycombinator.com/item?id=23582280))
 - [Query-based compiler architectures (2020)](https://ollef.github.io/blog/posts/query-based-compilers.html)
 - [What every scientific programmer should know about compiler optimizations (2020)](https://dl.acm.org/doi/abs/10.1145/3392717.3392754) ([HN](https://news.ycombinator.com/item?id=23678765))
+- [Circuit IR Compilers and Tools](https://github.com/circt/circt)
