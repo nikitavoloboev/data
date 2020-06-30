@@ -34,7 +34,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 
 - [Devine Lu Linvega](https://wiki.xxiivv.com) ([Code](https://github.com/XXIIVV/Oscean)) ([Index](https://wiki.xxiivv.com/site/index.html))
 - [100 Rabbits](https://100r.co/site/home.html) ([Code](https://github.com/hundredrabbits/100r.co))
-- [Gwern](https://www.gwern.net/About) - Can also suffix URLs with `.page` to get the source code. ([Code](https://github.com/gjord/gwern.net))
+- [Gwern](https://www.gwern.net/) - Can also suffix URLs with `.page` to get the source code. ([Code](https://github.com/gjord/gwern.net))
 - [Paul Copplestone](https://paul.copplest.one/knowledge/) ([Code](https://github.com/kiwicopple/paul.copplest.one))
 - [Andyʼs working notes](https://notes.andymatuschak.org/About_these_notes)
 - [Yoshua Wuyts](https://yoshuawuyts.gitbooks.io/knowledge/content/)
@@ -91,6 +91,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Azlen Elza](https://notes.azlen.me/g3tibyfv/) ([Code](https://github.com/azlen/azlen.me)) ([Home site](https://azlen.me/))
 - [Brady Joslin's TIL](https://til.bradyjoslin.com/_introduction/)
 - [Rosie Campbell's Notes](https://rosiecampbell.me/notes)
+- [Chris Nkinthorn](https://nkintc.gitbook.io/brainless/) ([Code](https://github.com/nkintc/nkintc.github.io))
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
 - [David Gasquez](https://github.com/davidgasquez/handbook)
 - [Abigail Africa's Notes](https://www.notion.so/Notes-3a56fef72dc94bc28b0804efc789913b)

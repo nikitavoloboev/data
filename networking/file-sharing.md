@@ -25,3 +25,4 @@
 - [Airshare](https://github.com/kurolabs/airshare) - Cross-platform content sharing in a local network.
 - [ShareDrop](https://www.sharedrop.io/) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop. ([Code](https://github.com/cowbell/sharedrop))
 - [Syncthing is everything I used to love about computers (2020)](https://tonsky.me/blog/syncthing/) ([Lobsters](https://lobste.rs/s/4ucmcp/computers_as_i_used_love_them)) ([HN](https://news.ycombinator.com/item?id=23537243))
+- [Perkeep](https://perkeep.org/) - Lets you permanently keep your stuff, for life. ([HN](https://news.ycombinator.com/item?id=23676350))
