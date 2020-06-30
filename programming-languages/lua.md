@@ -1,5 +1,9 @@
 # [Lua](https://www.lua.org)
 
+## Notes
+
+- [Lua was created explicitly to be an embedded scripting language. It's evolution has very tightly focused on that usage, and that continues to be the most common way it is used. It's language as library, a small, pure ANSI C library with no external dependencies. It's easy to include in a project and extend, while remaining a powerful, expressive language that performs well. It's fantastic for that purpose.](https://www.reddit.com/r/lua/comments/hg9g3p/if_someone_asks_me_why_lua_i_show_him_this_link/)
+
 ## Links
 
 - [Luacheck](https://github.com/mpeterv/luacheck) - Tool for linting and static analysis of Lua code.
