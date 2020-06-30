@@ -1,4 +1,4 @@
-# [My Knowledge Wiki 📚](https://wiki.nikitavoloboev.xyz)
+# [My Knowledge Wiki 🌿](https://wiki.nikitavoloboev.xyz)
 
 This is my personal wiki where I share [everything I know](sharing/everything-I-know.md) about this world in form of an [online GitBook](https://wiki.nikitavoloboev.xyz) hosted on [GitHub](https://github.com/nikitavoloboev/knowledge).
 
@@ -39,7 +39,7 @@ I also love [writing code](sharing/my-github.md) that solves various problems I 
 
 ## Grow your own digital garden 🌱
 
-Such wikis are also called [digital gardens](https://joelhooks.com/digital-garden). There is a [DigitalGardens community on Reddit](https://www.reddit.com/r/DigitalGardens/) which discusses tools to maintain & create these wikis as well as how to unlock the most insight from creating them.
+Such wikis are also called [digital gardens](https://joelhooks.com/digital-garden). There is a [DigitalGardens community on Reddit](https://www.reddit.com/r/DigitalGardens/) which discusses tools to maintain & create these wikis goals to develop [new transformative tools for thought](https://numinous.productions/ttft/).
 
 I collected a list of [wikis I liked the most](other/wiki-workflow.md#similar-wikis-i-liked) for inspiration.
 
