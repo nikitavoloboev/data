@@ -185,3 +185,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Supernotes](https://supernotes.app/) - Collaborative note-taking app.
 - [Gthnk](http://www.gthnk.com/) - Personal Journal.
 - [Growing the Evergreens (2020)](https://maggieappleton.com/evergreens)
+- [DigitalGardens subreddit](https://www.reddit.com/r/DigitalGardens/)

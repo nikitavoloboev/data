@@ -2,6 +2,7 @@
 
 ## Links
 
+- [Swift Book](https://docs.swift.org/swift-book/)
 - [Swift Tips by Sundell](https://www.swiftbysundell.com/tips/) ([Code](https://github.com/JohnSundell/SwiftTips))
 - [Swift Tips by Luur](https://github.com/Luur/SwiftTips)
 - [WWDC videos](https://developer.apple.com/videos/)
@@ -129,3 +130,4 @@
 - [Hacking with Swift](https://www.hackingwithswift.com/) - Learn to code iPhone and iPad apps with free Swift tutorials.
 - [Hacking with Swift+](https://www.hackingwithswift.com/plus)
 - [Awesome Swift NIO](https://github.com/slashmo/awesome-swift-nio)
+- [Swiftly Speaking: Chris Lattner interview (2020)](https://www.youtube.com/watch?v=OAaQhW4ifu0)
