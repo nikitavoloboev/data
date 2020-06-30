@@ -37,3 +37,4 @@
 - [Rigetti Computing](https://rigetti.com/) - On a mission to build the world's most powerful computer.
 - [PyQuil](https://github.com/rigetti/pyquil) - Quantum programming in Python.
 - [Grove](https://github.com/rigetti/grove) - Collection of quantum algorithms built using the Rigetti Forest platform.
+- [Picturing Quantum Processes](https://www.cambridge.org/nl/academic/subjects/physics/quantum-physics-quantum-information-and-quantum-computation/picturing-quantum-processes-first-course-quantum-theory-and-diagrammatic-reasoning?format=HB) - A First Course in Quantum Theory and Diagrammatic Reasoning.

@@ -40,3 +40,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [Flexible LaTeX Article Environment](https://github.com/sylvainhalle/PaperShell)
 - [mdbook-latex](https://github.com/lbeckman314/mdbook-latex) - An mdbook backend for generating LaTeX and PDF documents.
 - [LaTeXML](https://github.com/brucemiller/LaTeXML) - TeX and LaTeX to XML/HTML/ePub/MathML translator.
+- [TikZiT](https://tikzit.github.io/) - Graphical tool for rapidly creating graphs and string diagrams using PGF/TikZ. ([Code](https://github.com/tikzit/tikzit))
