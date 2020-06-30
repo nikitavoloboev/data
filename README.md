@@ -37,9 +37,11 @@ I also love [writing code](sharing/my-github.md) that solves various problems I 
 
 [Here](sharing/sharing.md) you can find all the things I made and shared thus far.
 
-## Make your own wiki
+## Grow your own digital garden 🌱
 
-You can view other similar to this, continuously updated wikis, [here](other/wiki-workflow.md#similar-wikis-i-liked).
+Such wikis are also called [digital gardens](https://joelhooks.com/digital-garden). There is a [DigitalGardens community on Reddit](https://www.reddit.com/r/DigitalGardens/) which discusses tools to maintain & create these wikis as well as how to unlock the most insight from creating them.
+
+I collected a list of [wikis I liked the most](other/wiki-workflow.md#similar-wikis-i-liked) for inspiration.
 
 Don't be afraid to create one of your own and share what you know with the world.
 
