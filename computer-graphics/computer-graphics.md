@@ -77,3 +77,4 @@
 - [Graphics Study: Red Dead Redemption 2 (2020)](https://imgeself.github.io/posts/2020-06-19-graphics-study-rdr2/)
 - [Re-stacking the GUI stack (2020)](https://genodians.org/nfeske/2020-06-23-gui-stack) ([Lobsters](https://lobste.rs/s/3ojgoq/re_stacking_gui_stack))
 - [Alpha Waves was the first 3D platform game (2020)](https://fosdem.org/2020/schedule/event/retro_alpha_waves_1st_3d_platformer_ever/) ([HN](https://news.ycombinator.com/item?id=23660123))
+- [Lights and Shadows (2020)](https://ciechanow.ski/lights-and-shadows/) ([HN](https://news.ycombinator.com/item?id=23702552))
