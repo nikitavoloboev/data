@@ -66,6 +66,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Holly Humphries](https://holboldoart.com/)
 - [Natalie Dombois](http://nataliedombois.de/)
 - [Samuel Smith](https://www.artstation.com/samsamstudio)
+- [Guy Billout](https://www.boredpanda.com/surreal-illustrations-guy-billout/) ([More art](https://twitter.com/GraceSpelman/status/1276267166950711296))
 - [Gemma O’Brien](https://shop.gemmaobrien.com/)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)

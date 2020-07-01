@@ -84,6 +84,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Smee](https://smee.io/) - Webhook payload delivery service. ([Code](https://github.com/probot/smee.io))
 - [Miro](https://miro.com/) - Where distributed teams get work done.
 - [Mailchimp](https://mailchimp.com/) - All-in-One marketing platform.
+- [Docsketch](https://www.docsketch.com/) - Electronic Signature and Sales Document Tracking Software.
 - [Typeform](https://www.typeform.com/) - Forms & surveys for the people.
 - [Next Please](https://nextplease.io/) - Track features your users request and collaborate on your roadmap.
 - [Diagram generation tool](https://www.diagram.codes/) ([HN](https://news.ycombinator.com/item?id=21615978))
