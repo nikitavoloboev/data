@@ -18,7 +18,7 @@ Learn by building/exploring and lots of reading/thinking. Document everything.
 
 Focus on making and extending tools to solve problems & any frictions I have.
 
-Filter incoming streams of information to contain impactful things that inspires me. Meet more people.
+Filter incoming streams of information to contain impactful things that inspire me. Meet more people.
 
 Cut time waste fully. No analytics. No compulsive behavior. Breathe, be mindful & create things that bring joy!
 
