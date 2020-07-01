@@ -54,6 +54,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Kala](https://github.com/ajvb/kala) - Modern Job Scheduler.
 - [Principle](https://principleformac.com/) - Makes it easy to design animated and interactive user interfaces.
 - [Drift](https://www.drift.com/) - Connect Your Sales Teams With Your Future Customers.
+- [Cronitor](https://cronitor.io/index) - Cron Monitoring & Uptime Monitoring for Busy Developers.
 - [Yac](https://www.yac.chat/) - Asynchronous voice collaboration for remote teams.
 - [Quill](https://quill.chat/) - Messaging for groups and teams that stay focused.
 - [Slido](https://www.sli.do/) - Audience interaction made easy.
