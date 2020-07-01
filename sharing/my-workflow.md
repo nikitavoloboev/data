@@ -95,3 +95,8 @@
 ## React
 
 - State Management - React useState, [Zustand](https://github.com/react-spring/zustand) & [Urql](https://github.com/FormidableLabs/urql)
+
+## Git
+
+- [Sublime Merge](https://simgenie.app/) - Visual Git interface. Nice way to see changes + past commits.
+- [gitupdate](https://github.com/nikitavoloboev/gitupdate) - Automate commits. Use it for updated all the docs, curated lists and on feature branches (branch gets squashed after).
