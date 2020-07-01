@@ -124,3 +124,4 @@
 - [React Libraries in 2020](https://www.robinwieruch.de/react-libraries)
 - [new-component](https://github.com/joshwcomeau/new-component) - Simple, customizable utility for adding new React components to your project.
 - [React View](https://github.com/uber/react-view) - Interactive playground, documentation and code generator for your components.
+- [Anatomy of a Typed React Component (2020)](https://daneden.me/blog/2020/anatomy-of-a-typed-react-component)
