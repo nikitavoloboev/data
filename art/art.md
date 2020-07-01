@@ -190,6 +190,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Marcello Morandini's art](https://twitter.com/panlepan/status/1265733959855546368)
 - [Dreamscapes & Artificial Architecture - Imagined interior design in digital art](https://us.gestalten.com/products/dreamscapes-artificial-architecture)
 - [False Knees](https://www.instagram.com/FalseKnees/)
+- [Alter Egoisma](https://www.instagram.com/anarchivelook/) ([Tumblr](https://oldmoonlullaby.tumblr.com/))
 - [NITCH](https://www.nitch.com/)
 - [The Art of Imperial Boy](https://www.iamag.co/the-art-of-imperial-boy/)
 

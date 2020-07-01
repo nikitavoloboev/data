@@ -127,6 +127,7 @@ Here are few more things I liked, design wise.
 - [Kyle Mitchell](https://writing.kemitchell.com/) ([Code](https://github.com/kemitchell/writing.kemitchell.com))
 - [Stefan Judis](https://www.stefanjudis.com/)
 - [Fabian Tamp](https://capnfabs.net/)
+- [Dan Talala](https://talala.ru/)
 - [Fabien Sanglard](https://fabiensanglard.net/)
 - [William Falcon](https://www.williamfalcon.com/)
 - [Yehor Lvivski](http://lvivski.com/)
