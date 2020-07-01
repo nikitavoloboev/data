@@ -17,3 +17,4 @@
 - [Raspberry Pi Firmware](https://github.com/raspberrypi/firmware) - Pre-compiled binaries of the current Raspberry Pi kernel and modules, userspace libraries, and bootloader/GPU firmware.
 - [Adventures in booting Linux on Raspberry Pi 4 (2020)](https://blog.mostlypointless.dev/posts/net-boot-rpi/) ([HN](https://news.ycombinator.com/item?id=23666564))
 - [Cross building Rust GStreamer plugins for the Raspberry Pi (2020)](https://www.collabora.com/news-and-blog/blog/2020/06/23/cross-building-rust-gstreamer-plugins-for-the-raspberry-pi/)
+- [Adding PCIe To Your Raspberry Pi 4, The Easier Way (2020)](https://hackaday.com/2020/07/01/adding-pcie-to-your-raspberry-pi-4-the-easier-way/)

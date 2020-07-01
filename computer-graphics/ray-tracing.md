@@ -35,3 +35,4 @@
 - [Ray Tracing Gems](https://link.springer.com/book/10.1007/978-1-4842-4427-2) - High-Quality and Real-Time Rendering with DXR and Other APIs.
 - [CUDA based Ray Tracer](https://github.com/xlnx/cuda-raytracer)
 - [Saturno](https://github.com/alvarosan/saturno) - Implementation of 'Ray Tracing in One Weekend' in Rust (and wasm).
+- [Ray tracing in Nim (2020)](https://nim-lang.org/blog/2020/06/30/ray-tracing-in-nim.html)
