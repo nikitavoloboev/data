@@ -56,3 +56,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [AMOR](http://amor.katebellm.com/) - Culmination of moments of Kates trips and travels over the last 10 years.
 - [20 Most Iconic Photographs And The Cameras That Captured Them](https://themindcircle.com/iconic-photographs/)
 - [HN: Olympus quits camera business after 84 years (2020)](https://news.ycombinator.com/item?id=23644253)
+- [Rebecca Lily's Lightroom presets](https://www.rebeccalily.com/products)
