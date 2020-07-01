@@ -139,3 +139,4 @@
 - [How to use React Testing Library (2020)](https://www.robinwieruch.de/react-testing-library)
 - [rehype-react](https://github.com/rehypejs/rehype-react) - Plugin to transform to React.
 - [React Deep Dive book (2020)](https://book.react-js.dev/)
+- [Tuomas Artman: Real-time sync for web apps (2020)](https://www.youtube.com/watch?v=WxK11RsLqp4&feature=youtu.be&t=2171)
