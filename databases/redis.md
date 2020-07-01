@@ -27,3 +27,4 @@
 - [ZanRedisDB](https://github.com/youzan/ZanRedisDB) - Distributed redis cluster with strong consistency.
 - [Redis-Raft (2020)](https://jepsen.io/analyses/redis-raft-1b3fbf6) ([HN](https://news.ycombinator.com/item?id=23615790))
 - [The end of the Redis adventure (2020)](http://antirez.com/news/133) ([HN](https://news.ycombinator.com/item?id=23689549))
+- [Redis code](https://github.com/redis-io/redis)

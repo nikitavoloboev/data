@@ -255,3 +255,4 @@ Here are some _other_ things that I find interesting that don't have a category 
 - [Lemmy](https://dev.lemmy.ml/) - Link aggregator / reddit clone for the fediverse. ([Code](https://github.com/LemmyNet/lemmy)) ([HN](https://news.ycombinator.com/item?id=23664067))
 - [clasp](https://github.com/google/clasp) - Develop Apps Script projects locally using clasp (Command Line Apps Script Projects)..
 - [Unim.Press](https://unim.press/) - Reddit front-page reader in the style of The New York Times. ([HN](https://news.ycombinator.com/item?id=23658721)) ([Code](https://github.com/thesephist/unim.press))
+- [Internet Archive](https://archive.org/) - Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine.
