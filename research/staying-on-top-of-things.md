@@ -88,6 +88,7 @@ And these Discord servers:
 - [The Pudding](https://pudding.cool/) - Digital publication that explains ideas debated in culture with visual essays.
 - [Paris Review](https://theparisreview.org/) - Writers, Quotes, Biography, Interviews, Artists.
 - [The Information](https://www.theinformation.com/) - In-depth tech stories you won't find anywhere else.
+- [Epsilon Theory](https://www.epsilontheory.com/) - Investing and voting seen through the lenses of game theory and history.
 
 ### Other
 
