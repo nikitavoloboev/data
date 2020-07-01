@@ -64,3 +64,4 @@
 - [Xbox Architecture](https://www.copetti.org/projects/consoles/xbox/) ([HN](https://news.ycombinator.com/item?id=23657231))
 - [Build an 8-bit computer from scratch](https://eater.net/8bit)
 - [Recommendations for running a rack-mount server at home? (2020)](https://lobste.rs/s/chxutg/recommendations_for_running_rack_mount)
+- [Apple Lightning (2020)](https://nyansatan.github.io/lightning/) ([HN](https://news.ycombinator.com/item?id=23705546))
