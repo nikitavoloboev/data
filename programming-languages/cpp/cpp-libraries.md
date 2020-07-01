@@ -20,6 +20,10 @@
 - [MyGUI](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI.
 - [Plywood](https://github.com/arc80/plywood) - Cross-platform framework for building all kinds of C++ software. ([HN](https://news.ycombinator.com/item?id=23310341))
 
+## Graphics
+
+- [Cinder](https://github.com/cinder/Cinder) - Peer-reviewed, free, open source C++ library for creative coding. ([Web](https://libcinder.org/)) ([Docs](https://libcinder.org/docs/index.html))
+
 ## Other
 
 - [{fmt}](https://github.com/fmtlib/fmt) - Modern formatting library.
