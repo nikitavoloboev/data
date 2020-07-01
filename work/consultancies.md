@@ -88,6 +88,7 @@
 - [Software Mansion](https://swmansion.com/)
 - [Narative](https://www.narative.co/) - Helps you brand, build and grow.
 - [black.af](https://black.af/) - Software consulting agency aiming to provide you with industry experience, forward thinking solutions and self-driven tools.
+- [Futurice](https://futurice.com/) - Digital Engineering and Innovation.
 
 ## Links
 
