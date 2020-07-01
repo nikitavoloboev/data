@@ -121,3 +121,4 @@
 - [Paperclip](https://github.com/wafflespeanut/paperclip) - OpenAPI tooling for Rust.
 - [Standard Library](https://stdlib.com/) - Design with APIs, prototype, and release integrations faster with Autocode.
 - [APIs are about Policy (2019)](https://acko.net/blog/apis-are-about-policy/)
+- [APIs with GitHub](https://github.com/mddanishyusuf/json-apis-with-github) - Simple tool to make JSON APIs for quick use for your basic projects. Your APIs are hosted on GitHub as JSON file that's simple.
