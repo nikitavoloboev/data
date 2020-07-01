@@ -75,6 +75,7 @@
 - [Spotify Rust](https://github.com/librespot-org/librespot) - Open Source Spotify client library.
 - [Spotify Rust 2](https://github.com/plietar/librespot)
 - [Apple Music Go](https://github.com/minchao/go-apple-music)
+- [Google News Python](https://github.com/kotartemiy/pygooglenews)
 - [TensorFlow Rust](https://github.com/tensorflow/rust) - Rust language bindings for TensorFlow.
 - [libgit2 Rust](https://github.com/rust-lang/git2-rs) - libgit2 bindings for Rust.
 - [LLVM Rust](https://github.com/zshipko/llama) - Friendly LLVM library for Rust.
