@@ -29,3 +29,5 @@
 - [LuaJIT Language Toolkit](https://github.com/franko/luajit-lang-toolkit) - Implementation of the Lua programming language written in Lua itself.
 - [Antifennel](https://git.sr.ht/~technomancy/antifennel) - Turn Lua code into Fennel code.
 - [HN: Lua 5.4.0 (2020)](https://news.ycombinator.com/item?id=23686297)
+- [Languages that compile to Lua](https://github.com/hengestone/lua-languages)
+- [Making the Fennel compiler self-hosting with another compiler (2020)](https://technomancy.us/192)
