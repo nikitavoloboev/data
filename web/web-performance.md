@@ -86,3 +86,4 @@
 - [Everything Addy Osmani Hates About JavaScript (2020)](https://dev.to/ben/everything-addy-osmani-hates-about-javascript-5cb)
 - [An introduction to Web Performance and the Critical Rendering Path (2018)](https://medium.com/free-code-camp/an-introduction-to-web-performance-and-the-critical-rendering-path-ce1fb5029494)
 - [Tooling.Report](https://bundlers.tooling.report/) - Quick way to determine the best build tool for your next web project. ([Code](https://github.com/GoogleChromeLabs/tooling.report/)) ([Tweet](https://twitter.com/brianleroux/status/1278016843056218114))
+- [Speedlify](https://speedlify.netlify.app/ssg/) - Benchmark Static Site Generator web sites over time (ordered by Lighthouse scores). ([Article](https://www.zachleat.com/web/speedlify/))
