@@ -88,3 +88,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Performance improvements in precise code intel (2020)](https://about.sourcegraph.com/blog/performance-improvements-in-precise-code-intel)
 - [An Introduction to Efficient and Safe Implementations of Dynamic Languages (2020)](https://stefan-marr.de/2020/06/efficient-and-safe-implementations-of-dynamic-languages/)
 - [What's your favorite programming language and what feature makes it your favorite? (2020)](https://www.reddit.com/r/AskProgramming/comments/hgtaqb/whats_your_favorite_programming_language_and_what/)
+- [All about Modelica: An equation-based language for modeling physical systems (2020)](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html) ([HN](https://news.ycombinator.com/item?id=23690788))

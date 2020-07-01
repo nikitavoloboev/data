@@ -23,3 +23,5 @@
 - [Advice on being a competent human](https://rosiecampbell.me/on-being-a-competent-human)
 - [Understanding how open collaboration works](https://twitter.com/swardley/status/1276936398973612034)
 - [How To Debug HR Issues (2020)](https://dcgross.com/debugging-hr)
+- [Missing structure in technical discussions (2020)](http://kvark.github.io/tech/arguments/2020/06/30/technical-discussions.html) ([HN](https://news.ycombinator.com/item?id=23691701))
+- [Arguman](https://en.arguman.org/) - Argument Analysis Platform. Create and analyze argument maps online. ([Code](https://github.com/arguman/arguman.org))
