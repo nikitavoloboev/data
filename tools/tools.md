@@ -69,6 +69,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [MessageBird](https://messagebird.com/en/) - Zero friction, omnichannel communication. ([HN](https://news.ycombinator.com/item?id=23624854))
 - [Litho](https://www.litho.cc/) - Allows for intuitive and precise input with its touch surface on the underside, custom haptic feedback system and array of motion-tracking sensors.
 - [Wire](https://wire.com/en/) - Modern day collaboration meets the most advanced security and superior user experience. ([Code](https://github.com/wireapp/wire))
+- [Commento](https://commento.io/) - Fast, privacy-focused commenting platform.
 - [Raindrop](https://raindrop.io/) - All-in-one bookmark manager.
 - [Sonix](https://sonix.ai/) - Transcribe videos from [Zoom](https://sonix.ai/how-to-transcribe-a-zoom-meeting).
 - [Polar Bookshelf](https://getpolarized.io/) - Personal knowledge repository for PDF and web content supporting incremental reading and document annotation. ([Code](https://github.com/burtonator/polar-bookshelf))

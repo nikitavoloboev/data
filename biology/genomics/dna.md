@@ -27,3 +27,4 @@
 - [Specifications of SAM/BAM and related high-throughput sequencing file formats](http://samtools.github.io/hts-specs/) ([Code](https://github.com/samtools/hts-specs))
 - [Research into single-molecule fluorescence and protein-DNA interactions](http://justinpinkney.com/site/01_Biophysics.html)
 - [How do Genes know when to Turn On and Off? (2020)](https://www.reddit.com/r/askscience/comments/gqap1l/how_do_genes_know_when_to_turn_on_and_off/)
+- [Cosmic Rays May Explain Life’s Bias for Right-Handed DNA (2020)](https://www.quantamagazine.org/cosmic-rays-may-explain-lifes-bias-for-right-handed-dna-20200629/) ([HN](https://news.ycombinator.com/item?id=23688535))

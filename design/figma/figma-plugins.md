@@ -28,3 +28,4 @@
 - [Yuan Lim's Figma plugins](https://github.com/yuanqing/figma-plugins)
 - [Figma Plugin Samples](https://github.com/figma/plugin-samples)
 - [Building Figma Plugins (2020)](https://varun.ca/figma-plugins/)
+- [Blush](https://www.figma.com/community/plugin/838959511417581040/Blush) - Create and customize illustrations in your designs with Blush.
