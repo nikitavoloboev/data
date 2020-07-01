@@ -58,3 +58,4 @@
 - [27 Tips For Running Successful Remote Meetings (2020)](https://blog.sli.do/remote-meetings-tips/)
 - [Written communication is remote work super power (2020)](https://snir.dev/blog/remote-async-communication/) ([HN](https://news.ycombinator.com/item?id=23577228))
 - [Remote First at Quora (2020)](https://www.quora.com/q/quora/Remote-First-at-Quora) ([HN](https://news.ycombinator.com/item?id=23646164))
+- [10 stages of working remotely (2020)](https://twitter.com/sytses/status/1278370350338699265)

@@ -29,3 +29,4 @@ Use the app to quickly prototype & collaborate on designs.
 - [Figma Events](https://www.figma.com/events/)
 - [Figurative](https://figurative.design/) - Figma app for iPadOS.
 - [Why Figma Wins (2020)](https://kwokchain.com/2020/06/19/why-figma-wins/) ([HN](https://news.ycombinator.com/item?id=23584954))
+- [How Figma helped us work during quarantine (2020)](https://littlemissrobot.com/blogs/how-figma-saved-us-during-a-lockdown)

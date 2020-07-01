@@ -19,3 +19,4 @@
 - [UI Components & UX Patterns Examples](https://www.niceverynice.com/components)
 - [Nice examples of UX improvements for website](https://twitter.com/coreyhainesco/status/1270521909441032193)
 - [Design and Anatomy of a Push Notification 2020](https://onesignal.com/blog/push-notification-design-anatomy/)
+- [Waveguide](https://www.waveguide.io/patterns/all) - Customer Experience Examples and UX Design Examples.
