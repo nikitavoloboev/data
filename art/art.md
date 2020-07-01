@@ -74,6 +74,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Xuan Loc Xuan](https://www.behance.net/xuanlocxuan)
 - [Will Quinn](https://www.instagram.com/willquinnart/)
 - [Darya Shnykina](https://www.behance.net/daryashnykina)
+- [Tomas Sanchez](https://www.instagram.com/tomassanchezstudio/)
 - [Robert Beatty](https://www.robertbeattyart.com/)
 - [Svetlana Dmitrieva](https://www.artstation.com/mayadim1926)
 - [Katherine Lam](https://www.behance.net/katherinelam)

@@ -75,3 +75,4 @@
 - [GameLisp](https://github.com/fleabitdev/glsp) - Scripting language for Rust game development.
 - [Game Development With Fennel And Löve (2020)](https://beta7.io/posts/game-development-with-fennel-and-love.html)
 - [Pont - A multiplayer board game in Rust and WebAssembly (2020)](https://www.mattkeeter.com/projects/pont/) ([Code](https://github.com/mkeeter/pont))
+- [Playbyte](https://www.playbyte.io/) - Create fun games.
