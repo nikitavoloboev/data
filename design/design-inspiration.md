@@ -190,6 +190,7 @@ Here are few more things I liked, design wise.
 - [Mitxela](https://mitxela.com/)
 - [Давид Кистаури](https://davidkistauri.ru/) ([[Code](https://github.com/dtroode/kistauri)])
 - [Christine Dodrill](https://christine.website/)
+- [Sophia Dominguez](http://sophiaedm.com/)
 - [Owen Williams](https://owenwillia.ms/)
 - [Nicole Orchard](https://nicoleorchard.com/)
 - [Andy Bell](https://hankchizljaw.com/)

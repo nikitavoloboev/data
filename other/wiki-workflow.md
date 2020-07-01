@@ -90,6 +90,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Yizhou Shan](http://lastweek.io/)
 - [The Refined Mind](https://refinedmind.co/)
 - [Azlen Elza](https://notes.azlen.me/g3tibyfv/) ([Code](https://github.com/azlen/azlen.me)) ([Home site](https://azlen.me/))
+- [Vlad Patryshev](https://github.com/vpatryshev/wowiki/wiki)
 - [Brady Joslin's TIL](https://til.bradyjoslin.com/_introduction/)
 - [Rosie Campbell's Notes](https://rosiecampbell.me/notes)
 - [Chris Nkinthorn](https://nkintc.gitbook.io/brainless/) ([Code](https://github.com/nkintc/nkintc.github.io))
