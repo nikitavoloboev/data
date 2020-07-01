@@ -79,6 +79,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Katherine Lam](https://www.behance.net/katherinelam)
 - [Guy Warley](https://www.guywarley.com/)
 - [Danila Tkachenko](http://www.danilatkachenko.com/)
+- [Sebastien Larroude](https://rainart.artstation.com/)
 - [Lee Madgwick](https://leemadgwick.co.uk/portfolio/)
 - [Ben Ridgway](https://www.samwoolfe.com/2018/06/the-visionary-art-of-ben-ridgway.html) - DMT inspired.
 - [Oleksij Luchnikov](https://www.artstation.com/luchnikov)
