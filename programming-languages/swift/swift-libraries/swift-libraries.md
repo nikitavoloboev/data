@@ -400,6 +400,7 @@
 - [Stefan](https://github.com/appunite/Stefan) - Framework that helps you to manage states in your collection views.
 - [DataSources](https://github.com/muukii/DataSources) - Type-safe data-driven List-UI Framework.
 - [OrderedDictionary](https://github.com/lukaskubanek/OrderedDictionary) - Ordered dictionary data structure implementation in Swift.
+- [Signals](https://github.com/artman/Signals) - Library for creating and observing events. It replaces delegates, actions and NSNotificationCenter with something much more powerful and elegant.
 
 ## Other (not lib)
 

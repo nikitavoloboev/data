@@ -52,6 +52,7 @@
 - [TSyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for TypeScript/JavaScript for constructor injection.
 - [tslib](https://github.com/microsoft/tslib) - Runtime library for TypeScript helpers.
 - [NeverThrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript. ([Chaining Failable Tasks](https://gdelgado.ca/chaining-failable-tasks.html#title))
+- [TypeORM fixtures CLI](https://github.com/RobinCK/typeorm-fixtures) - Allows you to create a ton of fixtures/fake data for use while developing or testing your project.
 
 ## Links
 

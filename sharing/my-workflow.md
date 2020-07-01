@@ -99,4 +99,4 @@
 ## Git
 
 - [Sublime Merge](https://simgenie.app/) - Visual Git interface. Nice way to see changes + past commits.
-- [gitupdate](https://github.com/nikitavoloboev/gitupdate) - Automate commits. Use it for updated all the docs, curated lists and on feature branches (branch gets squashed after).
+- [gitupdate](https://github.com/nikitavoloboev/gitupdate) - Automate commits. Use it for all doc, curated list updates and as commits inside feature branches (branch gets squashed after with proper commit).
