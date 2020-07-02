@@ -35,3 +35,6 @@
 - [A Peek Inside the Erlang Compiler (2012)](https://prog21.dadgum.com/127.html) ([HN](https://news.ycombinator.com/item?id=23465128))
 - [Erlang Coding Standards & Guidelines](https://github.com/Inaka/erlang_guidelines)
 - [Program Development Using Erlang - Rules and Conventions](http://www.erlang.se/doc/programming_rules.shtml)
+- [Erlang/OTP Volume I: A Concurrent World](https://books.altenwald.com/book/en-erlang-i)
+- [Functional Programming in Erlang](https://www.futurelearn.com/courses/functional-programming-erlang) - Learn the theory and practice of functional programming in Erlang, through practical exercises and suggested projects.
+- [Erlang/OTP Tutorials](https://www.youtube.com/playlist?list=PLtxpRMx6AFTHLMhDaamt7twDaRj_qcrM5)
