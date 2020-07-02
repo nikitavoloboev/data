@@ -469,6 +469,7 @@
 - [Go-Readability](https://github.com/go-shiori/go-readability/) - Cleans a HTML page for better readability.
 - [DOM](https://github.com/go-shiori/dom) - Access and manipulate DOM element in HTML file.
 - [Obelisk](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file.
+- [baseplate.go](https://github.com/reddit/baseplate.go) - Baseplate implemented in go.
 
 ## Links
 
