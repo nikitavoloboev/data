@@ -32,3 +32,4 @@
 - [Intro to Icons by MDS](http://introtoicons.com/)
 - [macOS Big Sur Icon Template](http://vancura.design/macos-big-sur-icon-template)
 - [Online SF Symbols browser](https://github.com/cyanzhong/sf-symbols-online)
+- [Awesome Icons](https://github.com/notlmn/awesome-icons) - Curated list of awesome downloadable SVG/PNG/Font icon projects.

@@ -86,3 +86,4 @@
 - [Rust, WebAssembly, and Javascript Make Three: An FFI Story (2019)](https://www.infoq.com/presentations/rust-webassembly-javascript/)
 - [Rust WebAssembly Workshop](https://github.com/rylev/rust-wasm-workshop)
 - [Woz](https://github.com/alexkehayias/woz) - Progressive WebAssembly app (PWAA) generator for Rust.
+- [waSCC](https://wascc.dev/) - Dynamic, elastically scalable WebAssembly host runtime for securely connecting actors and capability providers. ([Code](https://github.com/wascc/wascc-host))

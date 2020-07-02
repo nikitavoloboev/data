@@ -282,6 +282,7 @@
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and nodeJS.
 - [astray](https://github.com/lukeed/astray) - Walk an AST without being led astray.
 - [vnopts](https://github.com/ikatyang/vnopts) - Validate and normalize options.
+- [canvas confetti](https://github.com/catdad/canvas-confetti) - On-demand confetti gun. ([Docs](https://www.kirilv.com/canvas-confetti/))
 
 ## Links
 

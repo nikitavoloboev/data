@@ -50,7 +50,7 @@
 - [Network Next](https://www.networknext.com/) - Lets game developers boost network performance for their players.
 - [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool. ([Code](https://github.com/aseprite/aseprite))
 - [GameDev in Rust](https://arewegameyet.com/) ([Code](https://github.com/rust-gamedev/arewegameyet))
-- [Rust Game Development Working Group](https://rust-gamedev.github.io/) ([Code](https://github.com/rust-gamedev/wg))
+- [Rust Game Development Working Group](https://rust-gamedev.github.io/) ([Code](https://github.com/rust-gamedev/wg)) ([Site code](https://github.com/rust-gamedev/rust-gamedev.github.io))
 - [Enemy AI: chasing a player without Navigation2D or A\* pathfinding (2020)](https://abitawake.com/news/articles/enemy-ai-chasing-a-player-without-navigation2d-or-a-star-pathfinding) ([HN](https://news.ycombinator.com/item?id=22848106))
 - [The Ideal Game Network Protocol (2020)](https://paytonturnage.com/writing/ideal-game-network-protocol/)
 - [Why Satisfactory Is So Addictive](https://www.youtube.com/watch?v=PV_wlU4drnM)

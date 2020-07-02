@@ -78,3 +78,4 @@ I use [1Password](https://1password.com/) password manager for saving all my pas
 - [gopass](https://github.com/gopasspw/gopass) - Password manager for the command line written in Go.
 - [Rosetta](https://github.com/polydawn/rosetta) - Simple, scriptable file encryption tool.
 - [Mozilla SSL Configuration Generator](https://ssl-config.mozilla.org/) ([Code](https://github.com/mozilla/ssl-config-generator))
+- [OWASP Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery.
