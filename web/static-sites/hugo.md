@@ -30,3 +30,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Tips for Customizing Hugo RSS Feeds (2020)](https://benjamincongdon.me/blog/2020/01/14/Tips-for-Customizing-Hugo-RSS-Feeds/)
 - [Switching a Hugo theme (2019)](https://misha.brukman.net/blog/2019/05/switching-hugo-theme/)
 - [Grouse](https://github.com/capnfabs/grouse) - Diff tool for Hugo static sites.
+- [Nice articles on Hugo](https://www.ronaldsvilcins.com/tags/hugo/)

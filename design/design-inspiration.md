@@ -224,6 +224,7 @@ Here are few more things I liked, design wise.
 - [Matt Oswalt](https://oswalt.dev/) ([Code](https://github.com/Mierdin/blog))
 - [Wesley Moore](https://www.wezm.net/v2/)
 - [Eric Davidson](https://www.erdavids.com/)
+- [Jay Riverlong](https://jayriverlong.github.io/)
 - [Tatiana Mac](https://tatianamac.com/)
 - [Two Wrongs](https://two-wrongs.com/)
 - [Nathan Taylor](https://nathan.tokyo/)
