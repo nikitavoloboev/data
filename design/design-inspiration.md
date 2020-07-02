@@ -32,6 +32,7 @@ Here are few more things I liked, design wise.
 - [Zipcall](https://zipcall.io/)
 - [Issue 33](https://issue33.com/)
 - [Baths Music](https://bathsmusic.net/)
+- [Pointless](https://ptls.dev/)
 
 ## Blogs
 
@@ -136,6 +137,7 @@ Here are few more things I liked, design wise.
 - [Amruth Pillai](https://amruthpillai.com/) ([Code](https://github.com/AmruthPillai/ResumeOnTheWeb-Gatsby))
 - [Hansen Zhang](https://hansenzhang.com/)
 - [Roxane Jammet](http://roxane.me/)
+- [Rob Hope](https://robhope.com/)
 - [Andy Sparks](https://www.andysparks.co/)
 - [Parimal Satyal](https://neustadt.fr/) ([Code](https://github.com/parimalsatyal/neu))
 - [Erlend Hamberg](https://hamberg.no/erlend/)
@@ -296,7 +298,7 @@ Here are few more things I liked, design wise.
 - [Sara Vieira](https://iamsaravieira.com/) - Query GraphQL to get info.
 - [Sasha Grief](http://sachagreif.com/)
 - [Adam Butler](https://lab.io/)
-- [Daniel Eden](https://daneden.me/)
+- [Daniel Eden](https://daneden.me/) ([Code](https://github.com/daneden/daneden.me))
 - [Quine Codes](https://quine.codes/)
 - [Patorjk](http://patorjk.com/)
 - [Anna Doubkova](http://annalogical.com/)

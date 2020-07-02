@@ -60,3 +60,4 @@
 - [Pros and cons for raising VC money from WorldBrain perspective (2020)](https://twitter.com/BlackForestBoi/status/1252941374460243968)
 - [Shasta Ventures](https://shastaventures.com/)
 - [Accomplice](https://accomplice.co/) - Seed-led venture capital firm that embraces risk.
+- [Point Nine Capital](http://www.pointninecap.com/) - Berlin based Angel Venture Capital.
