@@ -89,6 +89,7 @@
 - [OpenAI API](https://beta.openai.com/) ([HN](https://news.ycombinator.com/item?id=23489653))
 - [Tesla Swift](https://github.com/jonasman/TeslaSwift)
 - [Azure Python](https://github.com/Azure/azure-rest-api-specs)
+- [TalkJS](https://talkjs.com/) - Chat API and Javascript SDK for websites and apps.
 
 ## Links
 
