@@ -38,3 +38,5 @@
 - [Erlang/OTP Volume I: A Concurrent World](https://books.altenwald.com/book/en-erlang-i)
 - [Functional Programming in Erlang](https://www.futurelearn.com/courses/functional-programming-erlang) - Learn the theory and practice of functional programming in Erlang, through practical exercises and suggested projects.
 - [Erlang/OTP Tutorials](https://www.youtube.com/playlist?list=PLtxpRMx6AFTHLMhDaamt7twDaRj_qcrM5)
+- [escript](http://erlang.org/doc/man/escript.html) - Provides support for running short Erlang programs without having to compile them first, and an easy way to retrieve the command-line arguments.
+- [The Erlang Runtime System](https://blog.stenmans.org/theBeamBook/)
