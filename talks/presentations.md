@@ -27,3 +27,4 @@
 - [Presentation Rules (2020)](http://www.jilles.net/perma/2020/06/05/presentation-rules.html)
 - [Hyperdeck](https://hyperdeck.io/) - Markdown Presentations for iPad and macOS.
 - [Paste](https://paste.bywetransfer.com/) - Here to change how you make decks. ([Taking creativity remote with the new Paste](https://ideas.bywetransfer.com/story/taking-creativity-remote-with-paste))
+- [Turndown](https://github.com/domchristie/turndown) - Convert HTML into Markdown with JavaScript. ([Web](http://domchristie.github.io/turndown/))
