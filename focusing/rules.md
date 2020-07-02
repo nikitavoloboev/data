@@ -234,6 +234,7 @@
 - Share images freely with [Imgur](https://imgur.com) (not tied to account) where direct linking doesn't work.
 - Copy screenshots to clipboard & paste for quick sharing.
 - Use package manager to install things. Keep packages updated.
+- Prefer to use light theme on macOS. Dark theme on iOS.
 
 ## Trello
 
