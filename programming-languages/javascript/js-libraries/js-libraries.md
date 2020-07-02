@@ -281,6 +281,7 @@
 - [CindyJS](https://github.com/CindyJS/CindyJS) - Framework to create interactive (mathematical) content for the web. ([Web](https://cindyjs.org/)) ([HN](https://news.ycombinator.com/item?id=23589296))
 - [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and nodeJS.
 - [astray](https://github.com/lukeed/astray) - Walk an AST without being led astray.
+- [vnopts](https://github.com/ikatyang/vnopts) - Validate and normalize options.
 
 ## Links
 

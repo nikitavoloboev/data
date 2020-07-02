@@ -185,6 +185,7 @@ Here are few more things I liked, design wise.
 - [Shihab Mehboob](https://www.pnguin.app/)
 - [Josh Larson](https://www.jplhomer.org/) ([Code](https://github.com/jplhomer/site))
 - [Sibylle Sehl](https://sibylle.dev/)
+- [Damien Seguin](https://dmnsgn.me/)
 - [Heydon Pickering](https://heydonworks.com/)
 - [Matt Keeter](https://www.mattkeeter.com/)
 - [Daniel Gross](https://dcgross.com/)

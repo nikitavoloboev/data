@@ -138,3 +138,4 @@
 - [Maloader](https://github.com/shinh/maloader) - Userland Mach-O loader for linux.
 - [Linux System calls table for several architectures](https://fedora.juszkiewicz.com.pl/syscalls.html) ([Code](https://github.com/hrw/syscalls-table))
 - [lpe](https://github.com/jollheef/lpe) - Collection of verified Linux kernel exploits.
+- [Linux Terminal Tools](https://github.com/ketancmaheshwari/lisa19/blob/master/LPT_LISA.pdf)
