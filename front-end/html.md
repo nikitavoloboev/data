@@ -57,3 +57,4 @@
 - [Slingcode](https://slingcode.net/) - Personal computing platform in a single html file.
 - [ThebeLab](https://github.com/minrk/thebelab) - Turns your static HTML pages into interactive ones, powered by a kernel. ([Docs](https://thebelab.readthedocs.io/en/latest/))
 - [HTML+CSS Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial)
+- [drag-drop](https://github.com/feross/drag-drop) - HTML5 drag & drop for humans.
