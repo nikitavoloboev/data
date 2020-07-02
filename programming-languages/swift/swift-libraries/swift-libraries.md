@@ -139,6 +139,7 @@
 - [Partition Kit](https://github.com/kieranb662/PartitionKit) - SwiftUI Library for creating resizable partitions for View Content.
 - [FancyScrollView](https://github.com/nerdsupremacist/FancyScrollView) - SwiftUI ScrollView Designed to imitate the App Store and Apple Music ScrollViews (with or without a Parallax Header).
 - [SwiftUI Animatable Gradients](https://github.com/CypherPoet/AnimatableGradients) - Collection of SwiftUI View Modifiers for creating animated color gradients.
+- [SlidingRuler](https://github.com/Pyroh/SlidingRuler) - Sliding ruler control for SwiftUI.
 
 ## Test
 
@@ -401,6 +402,7 @@
 - [DataSources](https://github.com/muukii/DataSources) - Type-safe data-driven List-UI Framework.
 - [OrderedDictionary](https://github.com/lukaskubanek/OrderedDictionary) - Ordered dictionary data structure implementation in Swift.
 - [Signals](https://github.com/artman/Signals) - Library for creating and observing events. It replaces delegates, actions and NSNotificationCenter with something much more powerful and elegant.
+- [Fakery](https://github.com/vadymmarkov/Fakery) - Swift fake data generator.
 
 ## Other (not lib)
 

@@ -81,3 +81,4 @@
 - [MARLeME: A Multi-Agent Reinforcement Learning Model Extraction Library (2020)](https://arxiv.org/abs/2004.07928)
 - [Minimalistic Gridworld Environment (MiniGrid)](https://github.com/maximecb/gym-minigrid)
 - [Meta-Learning Curiosity Algorithms](https://github.com/mfranzs/meta-learning-curiosity-algorithms)
+- [Reinforcement Learning in Swift](https://github.com/eaplatanios/swift-rl)
