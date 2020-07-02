@@ -128,4 +128,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [ArchiveBox](https://github.com/pirate/ArchiveBox) - Open-source self-hosted web archive.
 - [web.dev LIVE](https://web.dev/live/) - Bringing web developers together, from home.
 - [Weird Wide Webring](https://weirdwidewebring.net/) - The web needs a little more weird. These sites are helping. ([Code](https://github.com/jackmcdade/weird-wide-webring))
-- [The Whimsical Web](https://whimsical.club/) - Curated list of sites with an extra bit of fun. ([Code](https://github.com/maxboeck/whimsical))
+- [The Whimsical Web](https://whimsical.club/) - Curated list of sites with an extra bit of fun. ([Code](https://github.com/maxboeck/whimsical)) ([HN](https://news.ycombinator.com/item?id=23704270))

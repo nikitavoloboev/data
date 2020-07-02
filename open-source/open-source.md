@@ -97,7 +97,7 @@ The key to success in Open Source lies in understanding that it's not just about
 - [Microsoft and Open Source: An unofficial timeline (2020)](https://boxofcables.dev/microsoft-and-open-source-an-unofficial-timeline/)
 - [How we raised \$3M for an open source project (2020)](https://posthog.com/blog/raising-3m-for-os) ([HN](https://news.ycombinator.com/item?id=23426662))
 - [The RuboCop Name Drama Redux (2020)](https://metaredux.com/posts/2020/06/08/the-rubocop-name-drama-redux.html) ([Lobsters](https://lobste.rs/s/2ztpzk/rubocop_name_drama_redux))
-- [Open Sauced](https://opensauced.pizza/) - Provides structured onboarding for new contributors to open source. ([Code](https://github.com/open-sauced/open-sauced))
+- [Open Sauced](https://opensauced.pizza/) - Provides structured onboarding for new contributors to open source. ([Code](https://github.com/open-sauced/open-sauced)) ([Web](https://opensauced.pizza/))
 - [List of open source programs](https://opensourceinternships.herokuapp.com/) ([Code](https://github.com/tapaswenipathak/Open-Source-Programs))
 - ["Trillions and Trillions Served" documentary feature on The Apache Software Foundation (2020)](https://www.youtube.com/watch?v=JUt2nb0mgwg)
 - [Working in Public: The Making and Maintenance of Open Source Software (2020)](https://www.amazon.com/dp/0578675862/) ([Article](https://nayafia.substack.com/p/22-working-in-public))

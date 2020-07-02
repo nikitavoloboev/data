@@ -44,3 +44,4 @@
 - [Feed43](https://feed43.com/) - Convert web pages into professionally looking RSS feeds.
 - [Returning the "killed" RSS of Reuters from the dead (2020)](https://codarium.substack.com/p/returning-the-killed-rss-of-reuters) ([HN](https://news.ycombinator.com/item?id=23595164))
 - ["Reverse Engineering" Google News RSS Feed (2020)](https://codarium.substack.com/p/reverse-engineering-google-news-rss)
+- [atom](https://github.com/rust-syndication/atom) - Rust library for serializing the Atom web content syndication format.

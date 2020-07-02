@@ -43,6 +43,7 @@ Below is a list of [plugins I use](https://github.com/nikitavoloboev/dotfiles/bl
 - [vim-floaterm](https://github.com/voldikss/vim-floaterm) - Play with nvim/vim's builtin terminal.
 - [WakaTime](https://github.com/wakatime/vim-wakatime) - Automatic time tracking.
 - [Dash](https://github.com/rizzatti/dash.vim) - Search Dash app.
+- [vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - Plugin designed to make you better at vim by creating a game to practice basic movements in.
 - [context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents.
 - [Quick scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement.
 - [vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors project for vim/neovim.

@@ -113,3 +113,5 @@
 - [Splitgraph](https://www.splitgraph.com/) - Build and share data with Postgres, inspired by Docker/Git. ([HN](https://news.ycombinator.com/item?id=23627066))
 - [Running Postgres in Kubernetes](https://static.sched.com/hosted_files/ossna2020/fc/Running%20Postgres-as-a-Service%20in%20Kubernetes.pdf) ([HN](https://news.ycombinator.com/item?id=23682450))
 - [Zero dependancy Pub / Sub system with PostgreSQL (2018)](https://gdelgado.ca/zero-dependancy-pub-sub-system-with-postgresql.html#title)
+- [Ephemeral PostgreSQL](https://github.com/eradman/ephemeralpg) - Quickly spin up a temporary PostgreSQL test databases. ([Docs](http://eradman.com/ephemeralpg/))
+- [Managing PostgreSQL Logical Replication (2020)](http://eradman.com/posts/pubsub-pgoutput.html)
