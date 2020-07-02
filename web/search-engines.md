@@ -42,3 +42,4 @@
 - [Ego Graphs – the Google ‘vs’ trick (2020)](https://medium.com/applied-data-science/the-google-vs-trick-618c8fd5359f) ([HN](https://news.ycombinator.com/item?id=23599177))
 - [Reducing search indexing latency to one second (2020)](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/reducing-search-indexing-latency-to-one-second.html) ([HN](https://news.ycombinator.com/item?id=23652097))
 - [Ecosia](https://www.ecosia.org/?c=en) - Search engine that plants trees.
+- [paxx](https://github.com/jackdoe/paxx) - Simple inverted index search engine.

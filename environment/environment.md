@@ -28,3 +28,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [Greyparrot](https://greyparrot.ai/) - Computer Vision for Waste Management.
 - [The Design Pathway](https://earth-regenerators.mn.co/posts/the-design-pathway-preface) - Book about what will need to happen if humanity is to intentionally avoid extinction.
 - [The rise and rise of Climate-tech (2020)](https://medium.com/@himanshu_99557/the-rise-and-rise-of-climate-tech-1c8e95da7c7b)
+- [Saildrone](https://www.saildrone.com/) - Redefining Ocean Data Collection.

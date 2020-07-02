@@ -54,3 +54,4 @@ I practice this art of minimizing and focusing on what's important to me & remov
 - [What We Want Doesn’t Always Make Us Happy](https://www.bloomberg.com/opinion/articles/2019-05-01/what-we-want-doesn-t-always-make-us-happy) - Basic principle of economics keeps getting turned on its head. ([HN](https://news.ycombinator.com/item?id=20074303))
 - [The Science of Well-Being](https://www.coursera.org/learn/the-science-of-well-being)
 - [Three Equations for a Happy Life](https://www.theatlantic.com/family/archive/2020/04/how-increase-happiness-according-research/609619/)
+- [How to be happy? Most people have it backwards](http://www.ox.ac.uk/research/research-in-conversation/how-live-happy-life/michael-plant) ([HN](https://news.ycombinator.com/item?id=23700043))
