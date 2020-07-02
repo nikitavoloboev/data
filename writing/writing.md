@@ -160,3 +160,4 @@ In future I plan to move my writing off Medium as I prefer to keep the source of
 - [Paris Review - The Art of Fiction (2019)](https://theparisreview.org/interviews/7506/the-art-of-fiction-no-245-george-saunders) ([Tweet](https://twitter.com/eugenewei/status/1276098216782557185))
 - [40 tips for writing great microcopy](https://twitter.com/antdke/status/1263130017598406657)
 - [Fluently](https://fluently.so/trybeta) - Online text editor with a multilingual translator, dictionary, and thesaurus built-in.
+- [Scott McCloud Discusses the Making of The Sculptor (2015)](https://www.youtube.com/watch?v=P46qJVKxGo8)
