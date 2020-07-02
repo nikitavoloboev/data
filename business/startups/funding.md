@@ -62,3 +62,4 @@
 - [NLnet Foundation](https://nlnet.nl/) - Supports organizations and people that contribute to an open information society.
 - [Startup-Investor Matching Tool](https://www.notion.so/Startup-Investor-Matching-Tool-96826ae3549a434e952f6b266a8b9e0f)
 - [The perfect investor deck for raising a seed round (2015)](https://www.startuphacks.vc/blog/2015/12/31/the-perfect-investor-deck-for-seed-round)
+- [Fundraising? Don’t Say These Things to Investors (2020)](https://entrepreneurshandbook.co/fundraising-dont-say-these-things-to-investors-a285e6b59230)
