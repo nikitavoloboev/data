@@ -470,6 +470,7 @@
 - [DOM](https://github.com/go-shiori/dom) - Access and manipulate DOM element in HTML file.
 - [Obelisk](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file.
 - [baseplate.go](https://github.com/reddit/baseplate.go) - Baseplate implemented in go.
+- [msgpack](https://github.com/vmihailenco/msgpack) - MessagePack encoding for Golang.
 
 ## Links
 

@@ -7,3 +7,4 @@
 - [Why I don't use web components (2019)](https://dev.to/richharris/why-i-don-t-use-web-components-2cia) ([HN](https://news.ycombinator.com/item?id=20232628))
 - [haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components.
 - [Publishing Web Components to NPM](https://open-wc.org/publishing/)
+- [Elix](https://github.com/elix/elix) - High-quality, customizable web components for common user interface patterns.

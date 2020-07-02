@@ -26,6 +26,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Geany](https://www.geany.org/) - Fast and lightweight IDE. ([Code](https://github.com/geany/geany)) ([HN](https://news.ycombinator.com/item?id=23524336))
 - [Xi Editor](https://github.com/xi-editor/xi-editor) - Modern editor with a backend written in Rust. ([Web](https://xi-editor.io/))
 - [Xi Editor macOS](https://github.com/google/xi-mac) - macOS client for Xi text editing backend.
+- [Kiro](https://github.com/rhysd/kiro-editor) - Terminal UTF-8 text editor written in Rust.
 
 ## Web
 
