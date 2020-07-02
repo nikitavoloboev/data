@@ -31,3 +31,4 @@
 - [Hydra Booster](https://github.com/libp2p/hydra-booster) - DHT Indexer node & Peer Router.
 - [WebTorrent Workshop](https://webtorrent.github.io/workshop/) - Learn WebTorrent and WebRTC in a guided workshop.
 - [Introducing Web3Torrent (2020)](https://blog.statechannels.org/introducing-web3torrent/) ([HN](https://news.ycombinator.com/item?id=23602008))
+- [Chihaya](https://github.com/chihaya/chihaya) - Customizable, multi-protocol BitTorrent Tracker.

@@ -36,6 +36,7 @@
 - [Notion Python](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so.
 - [Google Cloud](https://github.com/googleapis/google-cloud-python) - Google Cloud Client Library for Python.
 - [Reddit Go](https://github.com/turnage/graw)
+- [Reddit Go 2](https://github.com/jzelinskie/geddit)
 - [Reddit JS](https://github.com/feross/reddit) - Simple Reddit API client in JS.
 - [Goodreads API Go](https://github.com/KyleBanks/goodreads)
 - [SendGrid Go](https://github.com/sendgrid/sendgrid-go)
