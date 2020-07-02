@@ -85,3 +85,4 @@ You can clean install by going to Recovery mode (restart with `cmd+r` pressed). 
 - [Apple’s Relentless Strategy, Execution, and Point of View (2020)](https://medium.learningbyshipping.com/apples-relentless-strategy-and-execution-7544a76aa26) ([HN](https://news.ycombinator.com/item?id=23670722))
 - [Extract the system libraries on macOS Big Sur (2020)](https://lapcatsoftware.com/articles/bigsur.html)
 - [Apple Technologies Search](https://developer.apple.com/documentation/technologies)
+- [AquaticPrime](https://github.com/bdrister/AquaticPrime) - Mac software licensing code using cryptographically signed license files.

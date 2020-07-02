@@ -12,3 +12,4 @@
 - [What every developer should know about TCP (2020)](https://robertovitillo.com/what-every-developer-should-know-about-tcp/) ([HN](https://news.ycombinator.com/item?id=23177607))
 - [Building with async/await in Rust (2019)](https://ragona.com/posts/clobber_async_await)
 - [clobber](https://github.com/ragona/clobber) - TCP load testing tool, written in async Rust.
+- [TCPause](https://github.com/innogames/tcpause) - Zero-downtime proxy for TCP and UNIX sockets written in Go.

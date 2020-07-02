@@ -89,6 +89,7 @@
 - [CampcotCollectionView](https://github.com/touchlane/CampcotCollectionView) - Collapse and expand UICollectionView sections with one method call.
 - [SectionScrubber](https://github.com/3lvis/SectionScrubber) - Component to quickly scroll between collection view sections.
 - [TDBadgedCell](https://github.com/tmdvs/TDBadgedCell) - Table view cell class that adds a badge, similar to the badges in Apple's own apps.
+- [FNMNetworkMonitor](https://github.com/Farfetch/network-monitor-ios) - iOS networking framework that can be used to monitor the network of an iOS app.
 
 ## macOS
 
