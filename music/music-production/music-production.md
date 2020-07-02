@@ -76,3 +76,4 @@
 - [Splice](https://splice.com/) - Royalty-Free Sounds & Rent-to-Own Plugins.
 - [Carving out a niche as a small artist on Spotfiy (2020)](https://www.stevebenjamins.com/blog/music-in-the-age-of-algorithms-47syg) ([HN](https://news.ycombinator.com/item?id=23652545))
 - [Kiwi](https://github.com/Musicoll/Kiwi) - Real-time collaborative audio patching software.
+- [Creating Music in Sonic Pi (2020)](https://www.lilychan.dev/track1.html)
