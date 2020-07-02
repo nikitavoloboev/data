@@ -209,3 +209,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Intercom for iOS](https://github.com/intercom/intercom-ios) - Integrating Intercom into your iOS application.
 - [Sim Genie](https://simgenie.app/) - Unlock the simulator’s hidden power-ups.
 - [iOS Dualboot](https://nyansatan.github.io/dualboot/)
+- [iOS App & Mach-O binary decryption](https://github.com/JohnCoates/flexdecrypt)
