@@ -41,6 +41,7 @@
 - [kadjax](https://www.kajdax.de/) - Create Designs & Illustrations for digital products.
 - [Green Chameleon](https://www.craftedbygc.com/) - Bristol based Design Agency.
 - [Tubik Studio](https://tubikstudio.com/) - Digital agency creating mobile and web products.
+- [Red Collar digital agency](https://redcollar.digital/)
 
 ## DB
 
