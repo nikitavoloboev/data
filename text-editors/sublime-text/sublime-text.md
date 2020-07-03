@@ -6,6 +6,8 @@ I use it primarily to edit markdown files like [this wiki](../../other/wiki-work
 
 I use [many plugins](sublime-text-plugins.md) together with [Ayu theme](https://github.com/dempfi/ayu).
 
+![](https://i.imgur.com/vdTDYe1.png)
+
 ## Notes
 
 - Entering into sublime console (View -> Show Console):

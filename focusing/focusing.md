@@ -14,7 +14,7 @@ I support my [happiness](../life/happiness.md) by working on projects that I car
 
 I have 2Do setup to schedule a weekly Sunday review & plan task.
 
-![](https://i.imgur.com/24D2vBL.png)
+![](https://i.imgur.com/UGvjP95.png)
 
 ## Notes
 

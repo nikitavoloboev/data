@@ -6,7 +6,7 @@ My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/
 
 I use VS Code [GitHub theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) with [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font. Here is how it looks:
 
-![](https://i.imgur.com/rd4Ve3X.png)
+![](https://i.imgur.com/ZZTGK1A.png)
 
 ## Notes
 
