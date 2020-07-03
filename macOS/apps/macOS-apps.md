@@ -60,6 +60,7 @@ And [here](https://gist.github.com/f8535907961e7445ceb7d6415f9663d9) is a full l
 - [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings.
 - [Boop](https://boop.okat.best/) - Scriptable scratchpad for developers. In slow yet steady progress. ([Code](https://github.com/IvanMathy/Boop))
 - [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU/GPU temperature from your Notification Center.
+- [Diurna](https://github.com/ngquerol/Diurna) - Basic/Classic Hacker News app, used as a Cocoa & Swift learning platform.
 
 ## Other interesting apps
 
