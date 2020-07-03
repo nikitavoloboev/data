@@ -56,3 +56,4 @@ In addition to Learn Anything, I also help curate [many curated lists of resourc
 - [10 Tips for Research and a PhD (2020)](https://ruder.io/10-tips-for-research-and-a-phd/)
 - [Resources for Running Research Groups](https://github.com/jeanqasaur/research-group-resources)
 - [Where to Start Research? (2020)](https://acesounderglass.com/2020/06/09/where-to-start-research/)
+- [Ten Lessons I Wish I Had Been Taught (1997)](https://www.ams.org/notices/199701/comm-rota.pdf) ([HN](https://news.ycombinator.com/item?id=23722803))
