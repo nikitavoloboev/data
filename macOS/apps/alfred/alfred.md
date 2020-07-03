@@ -26,13 +26,13 @@ Coupled with many [small workflows](https://github.com/nikitavoloboev/small-work
 
 ## Alfred theme
 
-I use [Mono Light theme](https://www.alfredapp.com/extras/theme/aPPZ1CC4XQ/) during days.
+I use [Mono Light theme](https://www.alfredapp.com/extras/theme/yyoqZV6XGS/) during days.
 
-![](https://i.imgur.com/VJkJzch.png)
+![](https://content.invisioncic.com/r229491/monthly_2020_07/image.thumb.png.469125cc92f6da72351bc2f78b67059d.png)
 
-And [Mono theme](https://www.alfredapp.com/extras/theme/soFFOqrS7o/) during evenings.
+And [Mono theme](https://www.alfredapp.com/extras/theme/yXm1jZwIh4/) during evenings.
 
-![](https://content.invisioncic.com/r229491/monthly_2020_06/1692126768_CleanShot2020-06-03at19_26.40@2x.png.23a6a049eecb37dd237f4e2e341d363a.png)
+![](https://content.invisioncic.com/r229491/monthly_2020_07/165394037_ScreenShot2020-07-03at16_20_30.thumb.png.6399059800b3247229f181594132d59f.png)
 
 ### Symlink workflows
 
