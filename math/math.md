@@ -164,3 +164,4 @@
 - [BetterExplained](https://betterexplained.com/) - Clear, intuitive lessons about imaginary numbers, exponents, and more.
 - [Implementing the Exponential Function (2020)](https://www.pseudorandom.com/implementing-exp) ([HN](https://news.ycombinator.com/item?id=23671262))
 - [Feynman on Fermat's Last Theorem (2016)](http://www.lbatalha.com/blog/feynman-on-fermats-last-theorem)
+- [Ask HN: Recommend a maths book for a teenager (2020)](https://news.ycombinator.com/item?id=23711942)
