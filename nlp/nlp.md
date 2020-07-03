@@ -114,7 +114,7 @@
 - [Brainsources for NLP enthusiasts](https://www.notion.so/634eba1a37d34e2baec1bb574a8a5482)
 - [Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning) ([Paper](https://arxiv.org/abs/2005.07683))
 - [NLP Resources](https://github.com/lyeoni/nlp-resources)
-- [TaBERT: Learning Contextual Representations for Natural Language Utterances and Structured Tables](https://github.com/facebookresearch/TaBERT)
+- [TaBERT: Learning Contextual Representations for Natural Language Utterances and Structured Tables](https://github.com/facebookresearch/TaBERT) ([Article](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)) ([HN](https://news.ycombinator.com/item?id=23725829))
 - [vtext](https://github.com/rth/vtext) - NLP in Rust with Python bindings.
 - [Language Technology Lab @ University of Cambridge](http://ltl.mml.cam.ac.uk/)
 - [The Natural Language Processing Dictionary](http://www.cse.unsw.edu.au/~billw/nlpdict.html)
