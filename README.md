@@ -4,7 +4,7 @@ This is my personal wiki where I share [everything I know](sharing/everything-I-
 
 If this is your first time visiting this wiki, take a look [here](meta/meta.md) as it describes this wiki, its structure and goals.
 
-Below are [notes](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) & their relations [visualized with Obsidian](https://twitter.com/nikitavoloboev/status/1271505869872803849).
+Below are [notes](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) & their relations visualized.
 
 ![](https://i.imgur.com/SbhfKGm.png)
 
