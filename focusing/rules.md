@@ -138,7 +138,7 @@
 
 - Minimize decision making done by users. Good design leads.
 - Impress users with [great landing page](../design/design-inspiration.md)
-- Prefer to use light themed screenshots. Treat light theme as main theme.
+- Prefer to use light themed screenshots. Design with light look in mind first.
 
 ## Photos
 

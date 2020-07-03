@@ -102,3 +102,4 @@
 - [What is a photon? (2017)](http://blog.sigfpe.com/2017/08/what-is-photon.html) ([HN](https://news.ycombinator.com/item?id=23637576))
 - [Do gravitational waves destructively interfere with each other? (2020)](https://www.reddit.com/r/AskPhysics/comments/hf7rxe/do_gravitational_waves_destructively_interfere/)
 - [The physics behind spring animations (2020)](https://blog.maximeheckel.com/posts/the-physics-behind-spring-animations)
+- [The Idea of Entropy Has Led Us Astray (2020)](http://nautil.us/issue/86/energy/the-idea-of-entropy-has-led-us-astray) ([HN](https://news.ycombinator.com/item?id=23711872))

@@ -57,3 +57,4 @@
 - [Richard Feynman Computer Heuristics Lecture (1985)](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Code: The Hidden Language of Computer Hardware and Software (1999)](https://www.goodreads.com/book/show/44882.Code)
+- [Is This a Turing Machine?](http://lambdaway.free.fr/lambdawalks/?view=meta4) ([HN](https://news.ycombinator.com/item?id=23711343))

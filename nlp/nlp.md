@@ -122,3 +122,4 @@
 - [Gwern on GPT-3](https://www.gwern.net/newsletter/2020/05#gpt-3) ([HN](https://news.ycombinator.com/item?id=23623845))
 - [Semantic Machines](https://www.semanticmachines.com/) - Solving conversational artificial intelligence. Part of Microsoft.
 - [The Reformer – Pushing the limits of language modeling](https://colab.research.google.com/drive/15oP52_7W5dRcAnbgX3tYADsu4R3cjMIf?usp=sharing) ([HN](https://news.ycombinator.com/item?id=23718475))
+- [GPT-3 Creative Fiction (2020)](https://www.gwern.net/GPT-3) ([HN](https://news.ycombinator.com/item?id=23722635))

@@ -39,6 +39,10 @@
 - [Databases](https://github.com/encode/databases) - Gives you simple asyncio support for a range of databases.
 - [aiosql](https://github.com/nackjicholson/aiosql) - Simple SQL in Python.
 
+## GUI
+
+- [Guietta](https://github.com/alfiopuglisi/guietta) - Python module to create simple GUIs. ([HN](https://news.ycombinator.com/item?id=23721548))
+
 ## Other
 
 - [Click](http://click.pocoo.org/5/) - Create beautiful command line interfaces in a composable way with as little code as necessary.
