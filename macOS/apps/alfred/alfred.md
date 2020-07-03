@@ -30,7 +30,7 @@ I use [Mono theme](https://www.alfredapp.com/extras/theme/xzcLtcIIDe/) mainly.
 
 ![](https://content.invisioncic.com/r229491/monthly_2020_07/945635110_ScreenShot2020-07-04at00_46_41.thumb.png.6be6da6ca5db46f6e1cfbdf838a2073e.png)
 
-I only use [Mono Light theme](https://www.alfredapp.com/extras/theme/yyoqZV6XGS/) when using light mode (in sunny areas + Alfred automatically switches).
+I only use [Mono Light theme](https://www.alfredapp.com/extras/theme/yyoqZV6XGS/) when using light mode (in sunny areas). Alfred automatically switches between the themes for me.
 
 ![](https://content.invisioncic.com/r229491/monthly_2020_07/image.thumb.png.469125cc92f6da72351bc2f78b67059d.png)
 
