@@ -68,3 +68,5 @@
 - [Hyperdeck Tech Stack (2020)](https://blog.hyperdeck.io/posts/2020-6-15-the-hyperdeck-tech-stack.html)
 - [HEY Stack (2020)](https://twitter.com/dhh/status/1275901955995385856)
 - [Ask HN: How to avoid over-engineering software design for future use cases? (2020)](https://news.ycombinator.com/item?id=23612415)
+- [The C4 model for visualising software architecture](https://c4model.com/) - Context, Containers, Components and Code.
+- [Modelling software architecture with PlantUML (2020)](https://dev.to/simonbrown/modelling-software-architecture-with-plantuml-56fc)

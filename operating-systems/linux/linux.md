@@ -140,3 +140,4 @@
 - [lpe](https://github.com/jollheef/lpe) - Collection of verified Linux kernel exploits.
 - [Linux Terminal Tools](https://github.com/ketancmaheshwari/lisa19/blob/master/LPT_LISA.pdf)
 - [Regolith](https://regolith-linux.org/) - Modern desktop environment designed to let you work faster by reducing unnecessary clutter and ceremony.
+- [Ward](https://github.com/B-Software/Ward) - Simple and and minimalistic server monitoring tool. ([HN](https://news.ycombinator.com/item?id=23711678))

@@ -9,3 +9,4 @@
 - [Docker image that provides a Minecraft Server that will automatically download selected version at startup](https://github.com/itzg/docker-minecraft-server)
 - [Minecraft made in CSS3D](https://github.com/Calada2/Minecraft)
 - [Feather](https://github.com/feather-rs/feather) - Experimental Minecraft server implementation written in Rust.
+- [The Book of Minecraft Modding](https://thebookofmodding.ml/) ([HN](https://news.ycombinator.com/item?id=23723058))
