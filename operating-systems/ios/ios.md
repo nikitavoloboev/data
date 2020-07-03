@@ -210,3 +210,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Sim Genie](https://simgenie.app/) - Unlock the simulator’s hidden power-ups.
 - [iOS Dualboot](https://nyansatan.github.io/dualboot/)
 - [iOS App & Mach-O binary decryption](https://github.com/JohnCoates/flexdecrypt)
+- [How To Succeed On The AppStore (2018)](https://medium.com/@carson.katri/insight-on-indies-ryan-mcleod-blackbox-814854196de5)

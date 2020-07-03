@@ -153,6 +153,7 @@ Here are few more things I liked, design wise.
 - [Milen Dzhumerov](https://milen.me/)
 - [Krasjet](https://krasjet.com/)
 - [Craig Mod](https://craigmod.com/)
+- [Rakhim](https://rakhim.org/)
 - [Max Woolf](https://minimaxir.com/)
 - [Jason Webb](https://jasonwebb.io/)
 - [Maxime Heckel](https://blog.maximeheckel.com/) ([Code](https://github.com/MaximeHeckel/blog.maximeheckel.com))
