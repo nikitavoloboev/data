@@ -26,3 +26,4 @@
 - [Missing structure in technical discussions (2020)](http://kvark.github.io/tech/arguments/2020/06/30/technical-discussions.html) ([HN](https://news.ycombinator.com/item?id=23691701))
 - [Arguman](https://en.arguman.org/) - Argument Analysis Platform. Create and analyze argument maps online. ([Code](https://github.com/arguman/arguman.org))
 - [A thread on nonviolent communication](https://twitter.com/eriktorenberg/status/1122267311753191424)
+- [The silence is deafening (2020)](https://devonzuegel.com/post/the-silence-is-deafening)

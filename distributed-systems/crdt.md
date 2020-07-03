@@ -24,3 +24,4 @@
 - [CRDT benchmarks](https://github.com/dmonad/crdt-benchmarks) - Collection of reproducible benchmarks.
 - [pony-crdt](https://github.com/jemc/pony-crdt) - Delta-State Convergent Replicated Data Types (ẟ-CRDTs) for the Pony language.
 - [Jylis](https://github.com/jemc/jylis) - Distributed in-memory database for Conflict-free Replicated Data Types (CRDTs), built for speed, scalability, availability, and ease of use.
+- [An introduction to Conflict-Free Replicated Data Types (2020)](https://lars.hupel.info/topics/crdt/01-intro)
