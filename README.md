@@ -6,9 +6,9 @@ If this is your first time visiting this wiki, take a look [here](meta/meta.md) 
 
 Below are [notes](https://github.com/nikitavoloboev/knowledge/blob/master/SUMMARY.md) & their relations [visualized with Obsidian](https://twitter.com/nikitavoloboev/status/1271505869872803849).
 
-![](https://i.imgur.com/EKipXdP.png)
+![](https://i.imgur.com/SbhfKGm.png)
 
-![](https://i.imgur.com/8XSjlqy.png)
+![](https://i.imgur.com/ODDdwde.png)
 
 This wiki is large. 27000+ lines of markdown large (calculated with [loc](https://github.com/cgag/loc/))
 
