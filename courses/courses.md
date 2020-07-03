@@ -20,3 +20,4 @@ I have not taken many MOOCs so far but one I did take and quite liked was [Learn
 - [Open edX](https://github.com/edx/edx-platform) - Code that powers edX. Includes the LMS (student-facing, delivering courseware), and Studio (course authoring) components.
 - [Avocado Audio](https://www.avocadoaudio.com/) - Platform for the world’s best audio courses.
 - [Coursera](https://www.coursera.org/) - Build Skills with Online Courses from Top Institutions.
+- [Ask HN: Did you take any fresh MOOCs as of 2020?](https://news.ycombinator.com/item?id=23722680)
