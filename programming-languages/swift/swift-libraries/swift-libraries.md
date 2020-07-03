@@ -186,7 +186,7 @@
 - [GraphQL](https://github.com/GraphQLSwift/GraphQL) - Swift GraphQL implementation for macOS and Linux.
 - [Regular Expression Decoder](https://github.com/Flight-School/RegularExpressionDecoder)
 - [CLISpinner](https://github.com/kiliankoe/CLISpinner) - 60+ spinners for use in the terminal.
-- [Tokamak](https://github.com/MaxDesiatov/Tokamak) - React-like framework for native UI written in pure Swift.
+- [Tokamak](https://github.com/swiftwasm/Tokamak) - React-like framework for native UI written in pure Swift.
 - [Render](https://github.com/alexdrone/Render) - Swift and UIKit a la React.
 - [SwiftLint](https://github.com/realm/SwiftLint) - Tool to enforce Swift style and conventions, loosely based on GitHub's Swift Style Guide.
 - [LayoutKit](https://github.com/linkedin/LayoutKit) - Fast view layout library for iOS, macOS, and tvOS.

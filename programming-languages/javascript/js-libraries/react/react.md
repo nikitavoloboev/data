@@ -80,7 +80,7 @@
 - [React Patterns](https://reactpatterns.com/)
 - [Understanding React Components and State (2019)](https://www.framer.com/blog/posts/react-components-state/)
 - [Announcing Ionic React (2019)](https://ionicframework.com/blog/announcing-ionic-react/)
-- [Divjoy](https://divjoy.com) - React codebase generator.
+- [Divjoy](https://divjoy.com/) - React codebase generator.
 - [React Concurrent Mode](https://reactjs.org/docs/concurrent-mode-intro.html) ([HN](https://news.ycombinator.com/item?id=21346290))
 - [React Conf 2019](https://www.youtube.com/watch?v=RCiccdQObpo)
 - [zustand](https://github.com/react-spring/zustand) - Small, fast and scalable bearbones state-management solution.

@@ -7,3 +7,4 @@
 - [Awesome Blender](https://github.com/agmmnn/awesome-blender)
 - [Polygon Runway](https://polygonrunway.com/) - Become a 3D illustrator.
 - [Spaceship Generator](https://github.com/a1studmuffin/SpaceshipGenerator) - Blender script to procedurally generate 3D spaceships. ([HN](https://news.ycombinator.com/item?id=23373107))
+- [How to Make a Couch in Blender (2020)](https://www.youtube.com/watch?v=Y4whyFTilsA)

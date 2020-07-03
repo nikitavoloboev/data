@@ -195,6 +195,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Alter Egoisma](https://www.instagram.com/anarchivelook/) ([Tumblr](https://oldmoonlullaby.tumblr.com/))
 - [NITCH](https://www.nitch.com/)
 - [The Art of Imperial Boy](https://www.iamag.co/the-art-of-imperial-boy/)
+- [Naughty Dog The Last of Us Part II Art Blast](https://magazine.artstation.com/2020/06/naughty-dog-the-last-of-us-part-ii-art-blast/)
 
 ## Photography
 
@@ -268,3 +269,4 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Ghostly](https://ghostly.com/) - Music and art company supporting work of high quality, integrity, and individuality.
 - [Milton Glaser's advice on making art](https://twitter.com/johnleedraws/status/1276721178841841664)
 - [SuperRare](https://superrare.co/) - Authentic Digital Art Marketplace.
+- [ArtStation Magazine](https://magazine.artstation.com/)
