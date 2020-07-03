@@ -37,3 +37,4 @@ If analytics are used, it's best to implement them server side with something li
 - [More alternatives to Google Analytics (2020)](https://lwn.net/SubscriberLink/824294/fe8f9331eca8b9ee/) ([Lobsters](https://lobste.rs/s/rwl3cp/more_alternatives_google_analytics))
 - [Fathom Analytics: Count on it (2020)](https://brycewray.com/posts/2020/06/fathom-analytics-count-on-it/)
 - [Time-based analytics, longitudinal clustering of usage data](http://www.feltpresence.com/analytics.html)
+- [Deep Dive Into My Stats Page (2020)](https://sld.codes/articles/Deep-Dive-Into-My-Stats-Page)

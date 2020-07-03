@@ -125,6 +125,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Wenyi Geng](http://www.wenyigeng.com/)
 - [Stefan Morrell](https://www.artstation.com/stefan_morrell)
 - [Milton Glaser](https://www.miltonglaser.com/the-work/)
+- [Andrey Tkachenko](https://atdesign.com/)
 - [Colin Prahl](http://www.colinprahl.com/)
 - [Raphael Lacoste](https://gumroad.com/raphaellacoste)
 - [Cristian Eres](https://www.cristianeres.com/) - Sci-Fi artist & Illustrator.

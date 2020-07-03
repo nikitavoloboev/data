@@ -183,3 +183,4 @@
 - [Visualization of npm dependencies](https://npm.anvaka.com/#!/)
 - [How to Learn JavaScript](https://sivers.org/learn-js) ([HN](https://news.ycombinator.com/item?id=23659531))
 - [Google Closure Compiler](https://github.com/google/closure-compiler) - Tool for making JavaScript download and run faster.
+- [JSConf](https://jsconf.com/) - Conferences for the JavaScript Community.

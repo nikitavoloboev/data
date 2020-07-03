@@ -254,3 +254,4 @@
 - [System design patterns for machine learning](https://github.com/mercari/ml-system-design-pattern)
 - [Income strategies to support your ML research (2020)](https://twitter.com/EmilWallner/status/1278321048346341379)
 - [Synthetic Data for Deep Learning (2019)](https://arxiv.org/abs/1909.11512)
+- [NeurIPS](https://neurips.cc/) - Conference on Neural Information Processing Systems.
