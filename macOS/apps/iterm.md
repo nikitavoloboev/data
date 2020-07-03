@@ -6,7 +6,7 @@ Assigned w + j with [Karabiner](karabiner/karabiner.md) to open the app from Key
 
 I use [Primer GitHub theme](https://github.com/fcaldera/github-primer-iterm2) for it. And share [my iTerm preferences](https://www.dropbox.com/s/wx9ijtq4me8fttp/com.googlecode.iterm2.plist?dl=1).
 
-![](https://i.imgur.com/fih78QS.png)
+![](https://i.imgur.com/oQICPXh.png)
 
 ## My workflow
 

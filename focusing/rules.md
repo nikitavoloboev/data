@@ -138,7 +138,7 @@
 
 - Minimize decision making done by users. Good design leads.
 - Impress users with [great landing page](../design/design-inspiration.md)
-- Prefer to use light themed screenshots. Design with light look in mind first.
+- Design for both light & dark interfaces using the help of the platform.
 
 ## Photos
 
@@ -235,7 +235,7 @@
 - Share images freely with [Imgur](https://imgur.com) (not tied to account) where direct linking doesn't work.
 - Copy screenshots to clipboard & paste for quick sharing.
 - Use package manager to install things. Keep packages updated.
-- Prefer to use light theme on macOS. Dark theme on iOS.
+- Prefer to use dark mode as it's easier on the eyes. Unless in sunny area.
 
 ## Trello
 
