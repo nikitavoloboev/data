@@ -31,3 +31,4 @@
 - [Neutrino](https://github.com/lightninglabs/neutrino) - Privacy-Preserving Bitcoin Light Client.
 - [bwt](https://github.com/shesek/bwt) - Lightweight HD wallet indexer for Bitcoin, available as an Electrum RPC server and a modern HTTP REST API.
 - [Prism: Scaling Bitcoin by 10,000x](https://github.com/yangl1996/prism-rust) - Rust implementation.
+- [Bitcoin From Scratch (2020)](https://monokh.com/posts/bitcoin-from-scratch-part-1)

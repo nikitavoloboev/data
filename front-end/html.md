@@ -58,3 +58,4 @@
 - [ThebeLab](https://github.com/minrk/thebelab) - Turns your static HTML pages into interactive ones, powered by a kernel. ([Docs](https://thebelab.readthedocs.io/en/latest/))
 - [HTML+CSS Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial)
 - [drag-drop](https://github.com/feross/drag-drop) - HTML5 drag & drop for humans.
+- [HTML APIs: What They Are And How To Design A Good One (2017)](https://www.smashingmagazine.com/2017/02/designing-html-apis/)
