@@ -471,6 +471,7 @@
 - [Obelisk](https://github.com/go-shiori/obelisk) - Go package and CLI tool for saving web page as single HTML file.
 - [baseplate.go](https://github.com/reddit/baseplate.go) - Baseplate implemented in go.
 - [msgpack](https://github.com/vmihailenco/msgpack) - MessagePack encoding for Golang.
+- [go-sumtype](https://github.com/BurntSushi/go-sumtype) - Simple utility for running exhaustiveness checks on Go "sum types.".
 
 ## Links
 
