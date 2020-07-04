@@ -60,3 +60,4 @@
 - [Remote First at Quora (2020)](https://www.quora.com/q/quora/Remote-First-at-Quora) ([HN](https://news.ycombinator.com/item?id=23646164))
 - [10 stages of working remotely (2020)](https://twitter.com/sytses/status/1278370350338699265)
 - [Remote Year](https://www.remoteyear.com/) - Work and Travel Abroad Programs for Professionals.
+- [Ask HN: How do you deal with social isolation while working from home? (2020)](https://news.ycombinator.com/item?id=23722523)
