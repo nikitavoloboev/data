@@ -143,6 +143,7 @@ Here are few more things I liked, design wise.
 - [Erlend Hamberg](https://hamberg.no/erlend/)
 - [Brent Jackson](https://jxnblk.com/)
 - [Vivien Hantusch](https://www.vivien.space/portfolio.html)
+- [Jon Gold](https://jon.gold/)
 - [Jack McDade](https://jackmcdade.com/)
 - [Oliver Caldwell](https://oli.me.uk/) ([Code](https://github.com/Olical/blog))
 - [David Wells](https://davidwells.io/) ([Code](https://github.com/DavidWells/davidwells.io))
