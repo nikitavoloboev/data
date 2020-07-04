@@ -129,5 +129,5 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [web.dev LIVE](https://web.dev/live/) - Bringing web developers together, from home.
 - [Weird Wide Webring](https://weirdwidewebring.net/) - The web needs a little more weird. These sites are helping. ([Code](https://github.com/jackmcdade/weird-wide-webring))
 - [The Whimsical Web](https://whimsical.club/) - Curated list of sites with an extra bit of fun. ([Code](https://github.com/maxboeck/whimsical)) ([HN](https://news.ycombinator.com/item?id=23704270))
-- [Web Dark Ages](https://pavellaptev.github.io/web-dark-ages/) ([HN](https://news.ycombinator.com/item?id=23700075))
+- [Web Dark Ages](https://pavellaptev.github.io/web-dark-ages/) ([HN](https://news.ycombinator.com/item?id=23700075)) ([Code](https://github.com/PavelLaptev/web-dark-ages))
 - [Responsive Web Design (2010)](https://alistapart.com/article/responsive-web-design/)

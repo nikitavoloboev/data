@@ -211,3 +211,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [iOS Dualboot](https://nyansatan.github.io/dualboot/)
 - [iOS App & Mach-O binary decryption](https://github.com/JohnCoates/flexdecrypt)
 - [How To Succeed On The AppStore (2018)](https://medium.com/@carson.katri/insight-on-indies-ryan-mcleod-blackbox-814854196de5)
+- [Explore Apple's new Swift logging API for iOS 14 (2020)](https://www.tanaschita.com/posts/20200705-explore-apples-recommended-swift-logging-api-wwdc-2020/)

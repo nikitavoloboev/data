@@ -50,6 +50,7 @@
 - [Lock Threads](https://github.com/dessant/lock-threads) - GitHub Action that locks closed issues and pull requests after a period of inactivity.
 - [action-cli](https://github.com/numtide/action-cli) - GitHub actions without JavaScript.
 - [amplify-cli-action](https://github.com/ambientlight/amplify-cli-action) - GitHub action for deploying AWS Amplify project.
+- [configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials) - Configure AWS credential environment variables for use in other GitHub Actions.
 
 ## Go
 
