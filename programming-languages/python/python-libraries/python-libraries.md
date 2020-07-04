@@ -41,7 +41,7 @@
 
 ## GUI
 
-- [Guietta](https://github.com/alfiopuglisi/guietta) - Python module to create simple GUIs. ([HN](https://news.ycombinator.com/item?id=23721548))
+- [Guietta](https://github.com/alfiopuglisi/guietta) - Python module to create simple GUIs. ([HN](https://news.ycombinator.com/item?id=23721548)) ([Lobsters](https://lobste.rs/s/d7pkoi/guietta_python_module_create_simple_guis))
 
 ## Other
 

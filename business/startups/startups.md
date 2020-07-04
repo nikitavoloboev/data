@@ -175,6 +175,10 @@
 - [Conviction (2020)](https://medium.com/lux-capital/conviction-68b91ea64d0d) ([Tweet](https://twitter.com/peterjhebert/status/1276215060319203328))
 - [Mercury](https://mercury.com/) - Banking built for startups.
 - [Ask HN: Best Bank for Startups? (2020)](https://news.ycombinator.com/item?id=23682511)
+- [Steve Blank Startup Tools](https://steveblank.com/tools-and-blogs-for-entrepreneurs/)
+- [Free Startup Resources](https://github.com/jasonnoahchoi/awesome-free-startup-resources)
+- [Awesome Startup](https://github.com/KrishMunot/awesome-startup) - Curated list of awesome books, videos, courses and resources about making a startup.
+- [The Entrepreneur's Roadmap - From Concept to IPO](https://www.nyse.com/entrepreneur)
 
 ## Images
 
