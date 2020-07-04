@@ -33,3 +33,4 @@
 - [Branch prediction in CPUs](https://danluu.com/branch-prediction/)
 - [Examining ARM vs X86 Memory Models with Rust (2020)](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/) ([HN](https://news.ycombinator.com/item?id=23659037))
 - [Single-use JIT Performance on x86 Processors](https://github.com/animetosho/jit_smc_test) ([HN](https://news.ycombinator.com/item?id=23711449))
+- [ARMRef](https://github.com/evilpenguin/ARMRef) - iOS, iPadOS, and macOS application reference manual for ARM assembly instructions.
