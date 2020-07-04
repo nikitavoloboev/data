@@ -14,3 +14,4 @@
 - [Cingulata](https://github.com/CEA-LIST/Cingulata) - Compiler toolchain and RTE for running C++ programs over encrypted data by means of fully homomorphic encryption techniques.
 - [baby's first hash encryption (2020)](https://www.thefragehaver.com/posts/encryptionone/)
 - [Ciphey](https://github.com/Ciphey/Ciphey) - Automated decryption tool. Input encrypted text, get the decrypted text back.
+- [Ask HN: Good Resources on Voice Encryption? (2020)](https://news.ycombinator.com/item?id=23712006)
