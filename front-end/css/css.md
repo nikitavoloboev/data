@@ -171,3 +171,4 @@
 - [paper.css](https://thesephist.github.io/paper.css/) - Lightweight, modern CSS to add some flair to your web-things. ([Code](https://github.com/thesephist/paper.css))
 - [Learn CSS From Scratch course](https://piccalil.li/course/learn-css-from-scratch/)
 - [CSS Design Awards](https://www.cssdesignawards.com/)
+- [The Surprising Things That CSS Can Animate (2020)](https://codersblock.com/blog/the-surprising-things-that-css-can-animate/)
