@@ -84,6 +84,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Cocoon](https://cocoon.com/) - Dedicated space for the most important people in your life.
 - [GoLinks](https://www.golinks.io/) - Replace lengthy URLs with intuitive golinks to get your organization on the same page faster.
 - [Smee](https://smee.io/) - Webhook payload delivery service. ([Code](https://github.com/probot/smee.io))
+- [Rollbar](https://rollbar.com/) - Error Tracking Software.
 - [Miro](https://miro.com/) - Where distributed teams get work done.
 - [Mailchimp](https://mailchimp.com/) - All-in-One marketing platform.
 - [Docsketch](https://www.docsketch.com/) - Electronic Signature and Sales Document Tracking Software.

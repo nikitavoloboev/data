@@ -8,6 +8,12 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Sony Alpha a7 III Mirrorless](https://www.bhphotovideo.com/c/product/1394217-REG/sony_ilce_7m3_alpha_a7_iii_mirrorless.html)
 - [Leica M10P](https://www.nivo-schweitzer.nl/leica-20021-m10-p-body-black-chrome-finish/p23608)
 
+## Presets
+
+- [Kerem's Lightroom presets](http://kerem-bakir.com/shop/)
+- [Rebecca Lily's Lightroom presets](https://www.rebeccalily.com/products)
+- [Renaissance Preset Pack - Kai Böttcher](https://www.kai-boettcher.com/shop/renaissance)
+
 ## Links
 
 - [Top 25 Landscape Photographers of 2017](https://www.capturelandscapes.com/top-25-landscape-photographers-of-2017/)
@@ -34,7 +40,6 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [Beautiful buildings in architecture photography prize – in pictures (2020)](https://www.theguardian.com/artanddesign/gallery/2020/jan/28/beautiful-buildings-in-architecture-photography-prize-in-pictures)
 - [PhotoPrism](https://github.com/photoprism/photoprism) - Server-based application for browsing, organizing and sharing your personal photo collection.
 - [Reddit multi part photography class](https://www.reddit.com/r/photoclass/)
-- [Kerem's Lightroom presets](http://kerem-bakir.com/shop/)
 - [Photo Stream](https://github.com/maxvoltar/photo-stream) - Self-hosted, super simple photo stream.
 - [Photile](https://photile.co/) - Create photo collages from your Instagram photos quickly and easily.
 - [Glass Photo](https://glass.photo/) - Community-focused app for photographers and photography enthusiasts.
@@ -56,4 +61,3 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [AMOR](http://amor.katebellm.com/) - Culmination of moments of Kates trips and travels over the last 10 years.
 - [20 Most Iconic Photographs And The Cameras That Captured Them](https://themindcircle.com/iconic-photographs/)
 - [HN: Olympus quits camera business after 84 years (2020)](https://news.ycombinator.com/item?id=23644253)
-- [Rebecca Lily's Lightroom presets](https://www.rebeccalily.com/products)

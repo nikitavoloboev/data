@@ -142,3 +142,4 @@
 - [Regolith](https://regolith-linux.org/) - Modern desktop environment designed to let you work faster by reducing unnecessary clutter and ceremony.
 - [Ward](https://github.com/B-Software/Ward) - Simple and and minimalistic server monitoring tool. ([HN](https://news.ycombinator.com/item?id=23711678))
 - [What to do after installing Arch Linux: My advice to a new user (2020)](https://toffelblog.xyz/tips/arch-postinstall/)
+- [Scaling Linux Services: Before accepting connections (2020)](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html) ([HN](https://news.ycombinator.com/item?id=23729072))
