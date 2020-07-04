@@ -131,3 +131,4 @@
 - [Hacking with Swift+](https://www.hackingwithswift.com/plus)
 - [Awesome Swift NIO](https://github.com/slashmo/awesome-swift-nio)
 - [Swiftly Speaking: Chris Lattner interview (2020)](https://www.youtube.com/watch?v=OAaQhW4ifu0)
+- [Swift optimization notes](https://github.com/kelvin13/png/blob/master/benchmarks/README.md)

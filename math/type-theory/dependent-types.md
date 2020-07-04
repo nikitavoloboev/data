@@ -26,3 +26,4 @@
 - [Epigram: Practical Programming with Dependent Types (2004)](http://cs.ru.nl/F.Wiedijk/courses/tt-2010/tvftl/epigram-notes.pdf) ([Lobsters](https://lobste.rs/s/v0cfko/epigram_practical_programming_with))
 - [A Tutorial Implementation of a Dependently Typed Lambda Calculus](https://www.andres-loeh.de/LambdaPi/)
 - [How to implement dependent type theory (2012)](http://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/)
+- [Dependently-typed compilers don't go wrong (2020)](http://www.cs.nott.ac.uk/~pszgmh/bib.html#well-typed)

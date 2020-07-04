@@ -54,3 +54,5 @@ Below is a list of research papers I read with a link to my own notes of the pap
 - [Sci-Hub](https://sci-hub.tw/) - Removing barriers in the way of science. ([Alternative working domains](https://twitter.com/scihub_love)) ([Sci-Hub archive as torrent](https://news.ycombinator.com/item?id=23646228)) ([HN](https://news.ycombinator.com/item?id=23645305))
 - [Academia.edu](https://www.academia.edu/) - Platform for academics to share research papers.
 - [Scholar With Code](https://chrome.google.com/webstore/detail/scholar-with-code/nlnjigejpgngahmoainkakaafabijeki/related) - Chrome extension to present the number of available code implementations (via Papers With Code) for articles listed on Google Scholar.
+- [Google Scholar](https://scholar.google.com/)
+- [How You Should Read Research Papers According To Andrew Ng (2020)](https://towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3)
