@@ -19,3 +19,4 @@
 - [Shortcuts File Format Reference](https://github.com/sebj/iOS-Shortcuts-Reference)
 - [View Source for Safari on iOS with Shortcuts (2020)](https://paul.kinlan.me/view-source-for-safari-on-ios-with-shortcuts/)
 - [Shortcuts Swift](https://github.com/a2/shortcuts-swift) - Write Shortcuts in Playgrounds.
+- [SwiftShortcuts](https://github.com/a2/swift-shortcuts) - iOS 14 Shortcuts creator written in Swift, inspired by SwiftUI. ([Docs](https://a2.github.io/swift-shortcuts/))
