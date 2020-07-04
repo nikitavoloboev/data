@@ -50,3 +50,4 @@
 - [Cell Biology by the Numbers](http://book.bionumbers.org/)
 - [CReM](https://github.com/DrrDom/crem) - Open-source Python framework to generate chemical structures using a fragment-based approach.
 - [QSAR modeling software and virtual screening](http://qsar4u.com/)
+- [Axial - Founder-driven life sciences companies (2020)](https://axial.substack.com/p/axial-founder-driven-life-sciences)
