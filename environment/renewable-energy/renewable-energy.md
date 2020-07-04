@@ -9,3 +9,4 @@
 - [Solar’s Future is Insanely Cheap (2020)](https://rameznaam.com/2020/05/14/solars-future-is-insanely-cheap-2020/) ([HN](https://news.ycombinator.com/item?id=23185166))
 - [Solar Power Satellite Hardware That Beams Energy to Earth Tested in Orbit (2020)](https://scitechdaily.com/solar-power-satellite-hardware-that-beams-energy-to-earth-tested-in-orbit/)
 - [Ørsted](https://orsted.com/en) - Global leader in offshore wind based in Denmark.
+- [After many false starts, hydrogen power might now bear fruit (2020)](https://www.economist.com/science-and-technology/2020/07/04/after-many-false-starts-hydrogen-power-might-now-bear-fruit) ([HN](https://news.ycombinator.com/item?id=23731956))

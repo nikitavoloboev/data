@@ -132,3 +132,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [Web Dark Ages](https://pavellaptev.github.io/web-dark-ages/) ([HN](https://news.ycombinator.com/item?id=23700075)) ([Code](https://github.com/PavelLaptev/web-dark-ages))
 - [Responsive Web Design (2010)](https://alistapart.com/article/responsive-web-design/)
 - [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)
+- [Websites that look like desktop GUIs](https://simone.computer/#/webdesktops) ([HN](https://news.ycombinator.com/item?id=23734093))

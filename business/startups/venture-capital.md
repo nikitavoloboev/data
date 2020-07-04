@@ -62,3 +62,4 @@
 - [Accomplice](https://accomplice.co/) - Seed-led venture capital firm that embraces risk.
 - [Point Nine Capital](http://www.pointninecap.com/) - Berlin based Angel Venture Capital.
 - [The Venture Collective](https://www.theventurecollective.com/) - Empowering Founders Who Are Leaving a Legacy.
+- [Weekend Fund](https://weekend.fund/) - Early stage fund, backing your next favorite thing.

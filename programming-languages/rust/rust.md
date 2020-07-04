@@ -247,3 +247,4 @@
 - [On Rust Lifetimes (2019)](https://jiahao.codes/blog/on-rust-lifetimes/)
 - [A Few More Reasons Rust Compiles Slowly (2020)](https://pingcap.com/blog/reasons-rust-compiles-slowly) ([HN](https://news.ycombinator.com/item?id=23678701))
 - [Context-preserving error handling (2020)](https://kazlauskas.me/entries/errors.html)
+- [Back to old tricks, or, baby steps in Rust (2020)](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/) ([HN](https://news.ycombinator.com/item?id=23733541))
