@@ -59,3 +59,4 @@
 - [HTML+CSS Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial)
 - [drag-drop](https://github.com/feross/drag-drop) - HTML5 drag & drop for humans.
 - [HTML APIs: What They Are And How To Design A Good One (2017)](https://www.smashingmagazine.com/2017/02/designing-html-apis/)
+- [Creating a sitemap.xml from a pile of HTML files](https://www.christopherbiscardi.com/creating-a-sitemap-xml-from-a-pile-of-html-files)
