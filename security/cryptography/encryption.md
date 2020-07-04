@@ -15,3 +15,4 @@
 - [baby's first hash encryption (2020)](https://www.thefragehaver.com/posts/encryptionone/)
 - [Ciphey](https://github.com/Ciphey/Ciphey) - Automated decryption tool. Input encrypted text, get the decrypted text back.
 - [Ask HN: Good Resources on Voice Encryption? (2020)](https://news.ycombinator.com/item?id=23712006)
+- [Intro to Fully Homomorphic Encryption (2020)](http://blog.higashi.tech/2020/06/16/fhe_01.html) ([HN](https://news.ycombinator.com/item?id=23721661))
