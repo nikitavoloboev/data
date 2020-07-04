@@ -62,3 +62,4 @@
 - [LispMicrocontroller](https://github.com/jbush001/LispMicrocontroller) - Microcontroller that natively executes a simple LISP dialect.
 - [Toy Lisp 1.5 interpreter in Go by Rop Pike](https://github.com/robpike/lisp)
 - [Lisp as the Maxwell’s equations of software (2012)](http://www.michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/) ([HN](https://news.ycombinator.com/item?id=9038505))
+- [Closos: Specification of a Lisp operating system (2013)](http://metamodular.com/closos.pdf) ([HN](https://news.ycombinator.com/item?id=23730107))

@@ -74,7 +74,7 @@
 - [Server-Side Rendered Real-time Web App with Next.js, AWS Amplify & GraphQL (2019)](https://dev.to/rakannimer/server-side-rendered-real-time-web-app-with-next-js-aws-amplify-graphql-2j49)
 - [Improve your SEO and Social Sharing Cards with Next.js (2020)](https://www.netlify.com/blog/2020/05/08/improve-your-seo-and-social-sharing-cards-with-next.js/)
 - [Next.js at Vercel (2020)](https://jamstack-toronto.now.sh/#0)
-- [Blitz](https://github.com/blitz-js/blitz) - Framework for building monolithic, full-stack, serverless React apps with zero data-fetching and zero client-side state management.
+- [Blitz](https://github.com/blitz-js/blitz) - Built on Next.js — Inspired by Ruby on Rails — New Fullstack Data Layer. ([Blitz.js puts React on Rails](https://overcast.fm/+Id5XIrpzk))
 - [Improved Next.js and Gatsby page load performance with granular chunking (2020)](https://web.dev/granular-chunking-nextjs/)
 - [Building my first Next.js app (2020)](https://www.youtube.com/watch?v=Z0FUBQPXHMA)
 - [Handy new features in Next.js 9.4 (2020)](https://www.netlify.com/blog/2020/05/18/handy-new-features-in-next.js-9.4/)

@@ -9,3 +9,4 @@
 - [Markov Chain Truncation for Doubly-Intractable Inference (2017)](https://arxiv.org/abs/1610.05672)
 - [Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/) ([Code](https://github.com/chi-feng/mcmc-demo))
 - [Applications of Markov Chains (2003)](http://langvillea.people.cofc.edu/MCapps7.pdf) ([HN](https://news.ycombinator.com/item?id=23639863))
+- [Open Markov Processes (2020)](https://johncarlosbaez.wordpress.com/2020/07/04/open-markov-processes/)

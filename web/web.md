@@ -131,3 +131,4 @@ The Internet is genuinely one of the best things to come out of 20th century. It
 - [The Whimsical Web](https://whimsical.club/) - Curated list of sites with an extra bit of fun. ([Code](https://github.com/maxboeck/whimsical)) ([HN](https://news.ycombinator.com/item?id=23704270))
 - [Web Dark Ages](https://pavellaptev.github.io/web-dark-ages/) ([HN](https://news.ycombinator.com/item?id=23700075)) ([Code](https://github.com/PavelLaptev/web-dark-ages))
 - [Responsive Web Design (2010)](https://alistapart.com/article/responsive-web-design/)
+- [Web Design Museum 1991 – 2006](https://www.webdesignmuseum.org/)

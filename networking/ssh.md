@@ -27,3 +27,5 @@
 - [SSH Tips & Tricks (2020)](https://smallstep.com/blog/ssh-tricks-and-tips/) ([HN](https://news.ycombinator.com/item?id=23025756))
 - [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh.
 - [SSH Agent Explained (2020)](https://smallstep.com/blog/ssh-agent-explained/) ([HN](https://news.ycombinator.com/item?id=23241934))
+- [SSH Emergency Access (2020)](https://smallstep.com/blog/ssh-emergency-access/) ([HN](https://news.ycombinator.com/item?id=23731351))
+- [Smallstep](https://smallstep.com/) - Single Sign-on SSH & Production Identity.
