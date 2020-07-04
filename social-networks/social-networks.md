@@ -48,3 +48,4 @@ Social networks are a wonderful thing as they do allow us to achieve more wonder
 - [Bridgy](https://github.com/snarfed/bridgy) - Connects your web site to social media. Likes, retweets, mentions, cross-posting, and more.
 - [A Genocide Incited on Facebook, With Posts From Myanmar’s Military (2018)](https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html) ([Reddit](https://www.reddit.com/r/technology/comments/gvd6fk/a_facebook_software_engineer_publicly_resigned_in/))
 - [Auralite](https://auralite.io/) - New social network for the future. ([Tweet](https://twitter.com/m1guelpf/status/1275815147248979968))
+- [De-Escalating Social Media (2020)](https://nickpunt.com/blog/deescalating-social-media/) ([HN](https://news.ycombinator.com/item?id=23734535))
