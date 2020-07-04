@@ -14,3 +14,4 @@ I made a list of my [favorite movie directors](https://www.imdb.com/list/ls08058
 - [Mad Max: Fury Road | How George Miller Created an Action Masterpiece (2019)](https://www.youtube.com/watch?v=fS2_fx7gw5k)
 - [Slugline](https://slugline.co/) - Screenwriting app for Mac.
 - [‘Mad Max: Fury Road’: The Oral History of a Modern Action Classic (2020)](https://www.nytimes.com/2020/05/12/movies/mad-max-fury-road-oral-history.html)
+- [David F. Sandberg videos on directing](https://www.youtube.com/user/ponysmasher/featured)
