@@ -17,3 +17,7 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [Dotgrid](https://hundredrabbits.itch.io/dotgrid) - Grid-based vector drawing software designed to create logos, icons and type. ([Code](https://github.com/hundredrabbits/Dotgrid))
 - [draw](https://github.com/thesephist/draw) - Tiny in-memory collaborative whiteboard for the web.
 - [Ask HN: What collaborative whiteboard are you using (2020)](https://news.ycombinator.com/item?id=23272054)
+- [Understanding Comics by Scott Mccloud (1993)](http://scottmccloud.com/2-print/1-uc/index.html)
+- [Printed books by Edward Tufte](https://www.edwardtufte.com/tufte/)
+- [Successful Drawing by Andrew Loomis (1951)](https://www.goodreads.com/book/show/2001015.Successful_Drawing)
+- [Drawing on the Right Side of the Brain](https://www.drawright.com/)

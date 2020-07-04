@@ -27,6 +27,7 @@ Vim for its text editing and the _vim language_ and VS code for giving me the be
 - [Xi Editor](https://github.com/xi-editor/xi-editor) - Modern editor with a backend written in Rust. ([Web](https://xi-editor.io/))
 - [Xi Editor macOS](https://github.com/google/xi-mac) - macOS client for Xi text editing backend.
 - [Kiro](https://github.com/rhysd/kiro-editor) - Terminal UTF-8 text editor written in Rust.
+- [TextMate](https://github.com/textmate/textmate) - Graphical text editor for macOS 10.12 or later. ([Web](https://macromates.com/))
 
 ## Web
 

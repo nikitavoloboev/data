@@ -15,3 +15,4 @@
 - [JAMstack ECommerce Professional](https://github.com/jamstack-cms/jamstack-ecommerce) - Provides a way to quickly get up and running with a fully configurable JAMstack E Commerce site.
 - [Headless Commerce Resources](https://headlesscommerce.org/) ([Code](https://github.com/chec/headlesscommerce.org))
 - [CommerceJS](https://commercejs.com/) - Headless eCommerce platform for developers & designers.
+- [How I grew my Shopify micro-SaaS (2020)](https://www.preetamnath.com/blog/grow-shopify-micro-saas-to-25k-mrr-in-14-months) ([HN](https://news.ycombinator.com/item?id=23734539))

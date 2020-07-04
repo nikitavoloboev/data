@@ -38,3 +38,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Fathom Analytics: Count on it (2020)](https://brycewray.com/posts/2020/06/fathom-analytics-count-on-it/)
 - [Time-based analytics, longitudinal clustering of usage data](http://www.feltpresence.com/analytics.html)
 - [Deep Dive Into My Stats Page (2020)](https://sld.codes/articles/Deep-Dive-Into-My-Stats-Page)
+- [Using event naming conventions to keep analytics data clean](https://davidwells.io/blog/clean-analytics)

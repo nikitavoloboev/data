@@ -34,3 +34,4 @@
 - [Formal Systems in Biology](https://github.com/prathyvsh/formal-systems-in-biology) - Collection of resources that apply formal systems to model biological processes.
 - [MBARI's Bioinspiration Lab](https://www.bioinspirationlab.org/)
 - [bioRxiv.org](https://www.biorxiv.org/) - Preprint server for Biology.
+- [Modeling Life](https://link.springer.com/book/10.1007/978-3-319-59731-7) - The Mathematics of Biological Systems.

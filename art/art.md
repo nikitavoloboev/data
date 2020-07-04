@@ -142,6 +142,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Elora Pautrat](https://www.elorapautrat.com/)
 - [Stephanie Buer](http://www.stephaniebuer.com/)
 - [Zi Xu](https://www.zixu.co/)
+- [Charles van den Eycken](https://www.invaluable.com/artist/eycken-charles-van-den-1859-0l00jbqpg4/sold-at-auction-prices/) ([Tweet](https://twitter.com/CGdrawing/status/1276403951135453184))
 - [Nicholas Stathopoulos](http://www.nickstath.com/)
 - [Phil Dragash](https://www.phildragash.com/)
 - [Ivan Aivazovsky](https://www.wikiart.org/en/ivan-aivazovsky)

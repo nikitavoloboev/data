@@ -2,6 +2,10 @@
 
 I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minimize the damage I induce on our planet.
 
+## Notes
+
+- [Over 90% of climate scientists think global warming will be so severe by 2038 or so that we'll hit temperatures shown to be hot enough to wreck the basic crops humanity relies upon for decent survival.](https://twitter.com/ClimateBen/status/1279378054549250059)
+
 ## Links
 
 - [Albatross Film](https://www.albatrossthefilm.com/) - Eye opening film that shows the horrible impact of plastic use on the animals. The image of young albatross being fed plastic by its parent and then lying down in pain crying and eventually dying will stick with me for a long time.
@@ -29,3 +33,4 @@ I follow a [zero waste](zero-waste.md), [vegan](veganism.md) lifestyle and minim
 - [The Design Pathway](https://earth-regenerators.mn.co/posts/the-design-pathway-preface) - Book about what will need to happen if humanity is to intentionally avoid extinction.
 - [The rise and rise of Climate-tech (2020)](https://medium.com/@himanshu_99557/the-rise-and-rise-of-climate-tech-1c8e95da7c7b)
 - [Saildrone](https://www.saildrone.com/) - Redefining Ocean Data Collection.
+- [A thread of all things climate change, from history to core tenets and demands, from movement strategy & dynamics to hot takes (2019)](https://twitter.com/n_thanki/status/1159466969755729922)

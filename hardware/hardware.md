@@ -66,3 +66,4 @@
 - [Recommendations for running a rack-mount server at home? (2020)](https://lobste.rs/s/chxutg/recommendations_for_running_rack_mount)
 - [Apple Lightning (2020)](https://nyansatan.github.io/lightning/) ([HN](https://news.ycombinator.com/item?id=23705546))
 - [Stack Computers: The New Wave](https://users.ece.cmu.edu/~koopman/stack_computers/index.html) ([Lobsters](https://lobste.rs/s/3gkfgn/stack_computers_new_wave))
+- [Commodore never made an Amiga Workbench smart watch OS, so I did instead (2020)](https://thedorkweb.substack.com/p/tales-from-the-dork-web-10) ([Lobsters](https://lobste.rs/s/24iut7/commodore_never_made_amiga_workbench))
