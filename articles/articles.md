@@ -20,3 +20,4 @@ Some articles I read and liked that don't fit under any other topic inside this 
 - [The Sad State of Logging Bugs for Apple (2019)](https://www.corbinstreehouse.com/blog/2019/03/the-sad-state-of-logging-bugs-for-apple/)
 - [Readme Driven Development (2010)](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 - [Legendary articles (2020)](https://wheresvic.net/legendary)
+- [Technical reading list](https://linus.zone/technical-reading)

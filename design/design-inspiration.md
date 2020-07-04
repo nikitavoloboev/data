@@ -233,6 +233,7 @@ Here are few more things I liked, design wise.
 - [Two Wrongs](https://two-wrongs.com/)
 - [Nathan Taylor](https://nathan.tokyo/)
 - [Chance Arthur](https://chancearthur.com/about)
+- [Linus Lee](https://thesephist.com/)
 - [Kentaro Wada](https://www.wkentaro.com/)
 - [Gal Shir](https://galshir.com/)
 - [Gregory Szorc](https://gregoryszorc.com/)
