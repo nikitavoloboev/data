@@ -91,3 +91,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [All about Modelica: An equation-based language for modeling physical systems (2020)](https://marcobonvini.com/modelica/2020/06/29/all-about-modelica.html) ([HN](https://news.ycombinator.com/item?id=23690788))
 - [Writing a VM for a Small Stack-Base Language in Pointless](https://ptls.dev/tutorials/factorsVM.html) ([Lobsters](https://lobste.rs/s/sdsr2y/writing_vm_for_small_stack_base_language))
 - [Principles of Programming Languages – Graham Hutton](http://www.cs.nott.ac.uk/~pszgmh/popl.pdf)
+- [Dijkstra: On the foolishness of "natural language programming"](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html) ([Tweet](https://twitter.com/GabrielG439/status/1279178769949798400))
