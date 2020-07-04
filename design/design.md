@@ -108,3 +108,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [UI Design Daily](https://uidesigndaily.com/) - Weekly free UI resources straight to your inbox.
 - [Sideway](http://looksideway.com/) - Find design inspiration from real life projects.
 - [Mobbin](https://mobbin.design/) - Latest Mobile Design Patterns.
+- [Apple Design Resources](https://developer.apple.com/design/resources/)

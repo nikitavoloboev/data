@@ -10,7 +10,7 @@ Eat healthy and exercise daily.
 
 ## Understand deeply
 
-Understand deeply tech & tools I use. Understand each layer of the technical stack intimately.
+Understand deeply tech & tools I use. Understand each layer of the technical stack.
 
 Learn by building/exploring and lots of reading/thinking. Document everything.
 
@@ -18,7 +18,7 @@ Learn by building/exploring and lots of reading/thinking. Document everything.
 
 Focus on making and extending tools to solve problems & any frictions I have.
 
-Filter incoming streams of information to contain impactful things that inspire me. Meet more people.
+Filter incoming streams of information to contain only impactful things that inspire me. Meet more people.
 
 Cut time waste fully. No analytics. No compulsive behavior. Breathe, be mindful & create things that bring joy!
 
@@ -34,4 +34,4 @@ Express myself creatively by playing music, taking photos & making designs/drawi
 
 ## Complete important tasks & be focused
 
-Progressively clean up important 2Do tasks, GitHub issues. Keep in mind goals above & my rules.
+Progressively complete important 2Do tasks, GitHub issues. Keep in mind goals above & my rules.
