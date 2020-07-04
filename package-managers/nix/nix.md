@@ -114,3 +114,4 @@
 - [Nix language antipatterns](https://nix.dev/anti-patterns/language.html)
 - [So, tell me about Nix (2020)](https://ghedam.at/15490/so-tell-me-about-nix)
 - [nixdu](https://github.com/utdemir/nixdu) - Interactively browse the dependency graph of your Nix derivations.
+- [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Search for old versions of Nix packages. ([Code](https://github.com/lazamar/nix-package-versions)) ([Reddit](https://www.reddit.com/r/NixOS/comments/gc68ec/find_older_versions_of_a_package_in_the_nix/))

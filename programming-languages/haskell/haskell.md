@@ -158,3 +158,4 @@
 - [JSON Parser 100% From Scratch in Haskell (only 111 lines) (2019)](https://www.youtube.com/watch?v=N9RUqGYuGfw)
 - [Learn Haskell in a couple of tweets (2020)](https://twitter.com/k0001/status/1277615394560360449)
 - [Kindness for Mean Girls: Primer on the cruel, tacit laws of type-level programming in Haskell (2020)](https://www.aymannadeem.com/haskell/2020/05/15/Kindness-for-Mean-Girls.html)
+- [Deploying statically-linked Haskell to Lambda (2020)](https://lazamar.github.io/deploying-statically-linked-haskell-to-lambda/)
