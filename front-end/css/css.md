@@ -172,3 +172,5 @@
 - [Learn CSS From Scratch course](https://piccalil.li/course/learn-css-from-scratch/)
 - [CSS Design Awards](https://www.cssdesignawards.com/)
 - [The Surprising Things That CSS Can Animate (2020)](https://codersblock.com/blog/the-surprising-things-that-css-can-animate/)
+- [A Complete Guide to Dark Mode on the Web (2020)](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
+- [Uncommon CSS Properties (2020)](https://ishadeed.com/article/uncommon-css/)

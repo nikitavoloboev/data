@@ -205,6 +205,7 @@ Here are few more things I liked, design wise.
 - [Nienke Dekker](https://nienke.dev/)
 - [Stefan Baumgartner](https://fettblog.eu/)
 - [Luke Miles](https://ylukem.com/)
+- [Ethan Marcotte](https://ethanmarcotte.com/)
 - [Jon Kuperman](https://jonkuperman.com/)
 - [Gavin Nelson](https://www.gnelsondesign.com/) ([Code](https://github.com/gavinmn/gnelsondesign))
 - [Ben Kuhn](https://www.benkuhn.net/)

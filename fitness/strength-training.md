@@ -8,3 +8,4 @@
 - [Minimalist's Strength Workout](https://www.outsideonline.com/2409738/freediving-mountaineering-altitude-research)
 - [Power Hypertrophy Upper Lower (P.H.U.L.) Workout](https://www.muscleandstrength.com/workouts/phul-workout)
 - [Recommended lean gains routines?](https://www.reddit.com/r/leangains/comments/gkn94k/recommended_routines/)
+- [The Minimalist’s Strength Workout](https://www.outsideonline.com/2243691/absolute-minimalists-strength-workout)

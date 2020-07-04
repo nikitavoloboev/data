@@ -70,3 +70,4 @@
 - [Learn Storybook](https://www.learnstorybook.com/) - Learn to develop UIs with components and design systems. ([Code](https://github.com/chromaui/learnstorybook-code))
 - [Style Dictionary](https://github.com/amzn/style-dictionary) - Build system for creating cross-platform styles.
 - [Style Guide Guide](http://bradfrost.github.io/style-guide-guide/) - For creating superb style guides. ([Code](https://github.com/bradfrost/style-guide-guide))
+- [The design systems between us (2020)](https://ethanmarcotte.com/wrote/the-design-systems-between-us/)
