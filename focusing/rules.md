@@ -159,6 +159,10 @@
 - Respect existing git workflow of projects.
 - Prefix branch names with `fix/` or `feat/` appropriately.
 
+## Docs
+
+- Use light themed screenshots/screencasts with proper accessibility (contrast) in writing docs/readme.
+
 ## GitHub
 
 - Add appropriate topics to each repo (languages used, problem space, ..)
