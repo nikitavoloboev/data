@@ -137,6 +137,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Cole Peters](https://colepeters.com/)
 - [David Altrath](https://davidaltrath.com/)
 - [Rui Tomono](https://www.pixiv.net/member.php?id=27526)
+- [Nicholas Boatwright](https://www.etsy.com/shop/BoatwrightArt) ([Reddit](https://www.reddit.com/user/yum_paste/))
 - [Juno Calypso](https://www.junocalypso.com/)
 - [Robh Ruppel](https://www.artstation.com/robh_ruppel_design)
 - [Elora Pautrat](https://www.elorapautrat.com/)

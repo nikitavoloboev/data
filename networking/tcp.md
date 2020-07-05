@@ -13,3 +13,4 @@
 - [Building with async/await in Rust (2019)](https://ragona.com/posts/clobber_async_await)
 - [clobber](https://github.com/ragona/clobber) - TCP load testing tool, written in async Rust.
 - [TCPause](https://github.com/innogames/tcpause) - Zero-downtime proxy for TCP and UNIX sockets written in Go.
+- [Toxiproxy](https://github.com/Shopify/toxiproxy) - TCP proxy to simulate network and system conditions for chaos and resiliency testing.
