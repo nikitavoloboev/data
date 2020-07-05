@@ -140,3 +140,4 @@
 - [rehype-react](https://github.com/rehypejs/rehype-react) - Plugin to transform to React.
 - [React Deep Dive book (2020)](https://book.react-js.dev/)
 - [Tuomas Artman: Real-time sync for web apps (2020)](https://www.youtube.com/watch?v=WxK11RsLqp4&feature=youtu.be&t=2171)
+- [Ярослав Лосев – React Reconciler: как написать собственный рендерер (2020)](https://www.youtube.com/watch?v=E1G2rMKq8lc) ([Code](https://github.com/LosYear/react-reconciler-talk))
