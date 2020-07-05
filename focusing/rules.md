@@ -136,9 +136,10 @@
 
 ## Design
 
-- Minimize decision making done by users. Good design leads.
-- Impress users with [great landing page](../design/design-inspiration.md)
 - Design for both light & dark interfaces using the help of the platform.
+- Design with accessibility & UX in mind above all else.
+- Guide users with design. Minimize decision making. Make tools work & empower users.
+- Design [great landing pages](../design/design-inspiration.md).
 
 ## Photos
 
