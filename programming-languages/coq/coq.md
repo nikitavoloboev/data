@@ -29,7 +29,7 @@
 - [Poleiro](http://poleiro.info/) - Blog about Coq. ([Code](https://github.com/arthuraa/poleiro))
 - [Coq'Art](https://github.com/coq-community/coq-art) - Coq code and exercises from the Coq'Art book.
 - [Interaction Trees - Representing Recursive and Impure Programs in Coq (2020)](https://poisson.chat/popl20/itrees.pdf)
-- [Formal Reasoning About Programs](https://github.com/achlipala/frap) - In-progress, open-source book by Adam Chlipala simultaneously introducing the Coq proof assistant and techniques for proving correctness of programs. ([HN](https://news.ycombinator.com/item?id=21921795))
+- [Formal Reasoning About Programs](https://github.com/achlipala/frap) - In-progress, open-source book by Adam Chlipala simultaneously introducing the Coq proof assistant and techniques for proving correctness of programs. ([HN](https://news.ycombinator.com/item?id=21921795)) ([Web](http://adam.chlipala.net/frap/)) ([MIT course](https://frap.csail.mit.edu/main))
 - [GeoCoq](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry in Coq.
 - [Formalizing text editors in Coq (2020)](https://arxiv.org/abs/2006.03525) ([HN](https://news.ycombinator.com/item?id=23454629))
 - [Monadic equational reasoning in Coq](https://github.com/affeldt-aist/monae)
