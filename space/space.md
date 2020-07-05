@@ -46,3 +46,4 @@
 - [ISS Photo Explorer](https://callumprentice.github.io/apps/iss_photo_explorer_flat/index.html?lat=30&lng=-60&pn=6&ph=0#) ([HN](https://news.ycombinator.com/item?id=23519439))
 - [Every Kind of Thing in Space Mapped (2020)](https://www.youtube.com/watch?v=uniGQrGLEoI)
 - [My dad launched the quest to find alien intelligence (2020)](https://www.nationalgeographic.com/science/2020/06/father-launched-quest-find-alien-intelligence-changed-astronomy/) ([HN](https://news.ycombinator.com/item?id=23596603))
+- [Space Search](https://space-search.io/) - Search engine for space objects. ([HN](https://news.ycombinator.com/item?id=23078376))

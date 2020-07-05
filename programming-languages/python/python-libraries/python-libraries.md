@@ -21,6 +21,7 @@
 - [AtsPy](https://github.com/firmai/atspy) - Automated Time Series Models in Python.
 - [iterative-stratification](https://github.com/trent-b/iterative-stratification) - scikit-learn cross validators for iterative stratification of multilabel data.
 - [PyMeasure](https://github.com/ralph-group/pymeasure) - Scientific measurement library for instruments, experiments, and live-plotting.
+- [siuba](https://github.com/machow/siuba) - Scrappy data analysis, with seamless support for pandas and SQL.
 
 ## Biology
 
@@ -31,7 +32,7 @@
 
 - [Typer](https://github.com/tiangolo/typer) - Build great CLIs. Easy to code. Based on Python type hints.
 - [Python Fire](https://github.com/google/python-fire) - Library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-- [Rich](https://github.com/willmcgugan/rich) - Python library for rendering rich text and beautiful formatting to the terminal. ([HN](https://news.ycombinator.com/item?id=23070821))
+- [Rich](https://github.com/willmcgugan/rich) - Python library for rendering rich text and beautiful formatting to the terminal. ([HN](https://news.ycombinator.com/item?id=23070821)) ([HN thread on Rich tables](https://news.ycombinator.com/item?id=23738072))
 
 ## DB
 

@@ -176,3 +176,4 @@
 - [SOSD: A Benchmark for Learned Indexes](https://learned.systems/papers/sosd.pdf) ([Code](https://github.com/learnedsystems/SOSD))
 - [RMI](https://github.com/learnedsystems/RMI) - Recursive model index, a learned index structure.
 - [SchemaHero](https://github.com/schemahero/schemahero) - Kubernetes operator for declarative database schema management. ([Web](https://schemahero.io/))
+- [TablaM](https://github.com/Tablam/TablaM) - Practical general language but tailored for data-manipulation and database (in the broad sense of the word) coding. ([Comment](https://news.ycombinator.com/item?id=23741945))

@@ -131,6 +131,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Tiny Letter](https://tinyletter.com)
 - [Pace](https://pace.dev/) - Minimalist project management tool.
 - [Habitat](https://github.com/habitat-sh/habitat) - Modern applications with built-in automation.
+- [Hyperobject Toolkit](https://hyperobjects.design/) - Set of technologies developed for creative exploration, collaboration and deployment of generative design and digital manufacturing.
 - [Toodles](https://github.com/aviaviavi/toodles) - Project management directly from the TODO's in your codebase.
 - [Speedscope](https://github.com/jlfwong/speedscope) - Fast, interactive web-based viewer for performance profiles.
 - [Dependabot](https://dependabot.com/) - Creates pull requests to keep your dependencies secure and up-to-date.

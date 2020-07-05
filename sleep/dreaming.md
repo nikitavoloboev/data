@@ -23,3 +23,4 @@ In order to have lucid dreams you need two do three things consistently:
 - I personally write digitally all my dream recollections in [Day One](https://dayoneapp.com) under `Dreams` diary.
 - To be more consistent with my diary and to develop the habit, I have my phone prompt me on waking up to open Day One and write what I remember from my dream.
 - I usually just write a bunch of bullet points of distinct things I remember from the dream instead of telling the whole story.
+- [Dream Journal for Lucid Dreaming](https://oneironotes.com/)

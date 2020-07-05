@@ -46,3 +46,4 @@
 - ["Reverse Engineering" Google News RSS Feed (2020)](https://codarium.substack.com/p/reverse-engineering-google-news-rss)
 - [atom](https://github.com/rust-syndication/atom) - Rust library for serializing the Atom web content syndication format.
 - [How to discover and subscribe to most RSS feeds (2020)](https://toffelblog.xyz/tips/discover-rss/)
+- [Feedsub](https://feedsub.com/) - Get RSS/Atom Feeds Delivered To Your Inbox.
