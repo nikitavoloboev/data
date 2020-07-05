@@ -6,9 +6,15 @@ I use some kind of vim bindings in any app I use and if there is a vim plugin fo
 
 I use [Neovim](https://github.com/neovim/neovim) instead of vim and my vimrc can be found [here](https://github.com/nikitavoloboev/dotfiles/blob/master/nvim/init.vim). And [here](vim-plugins.md) are all the plugins I use with it.
 
+I switch between Ayu Light and Ayu Mirage themes as I change between macOS appearances.
+
+![](https://i.imgur.com/iu79ifS.png)
+
+> Ayu Light
+
 ![](https://i.imgur.com/k9pyjvd.png)
 
-I switch between Ayu Mirage and Ayu Light as I change between macOS appearances.
+> Ayu Mirage
 
 I also use a little trick where I change the cursor from thin block in insert mode to underline when in normal mode. This lets me quickly know which mode I am in.
 

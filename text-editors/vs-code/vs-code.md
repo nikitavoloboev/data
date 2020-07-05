@@ -6,9 +6,15 @@ My config for it can be found [here](https://github.com/nikitavoloboev/dotfiles/
 
 I use VS Code [GitHub theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) with [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font. Here is how it looks:
 
+I switch between GitHub Light and GitHub Dark themes as I change between macOS appearances.
+
+![](https://i.imgur.com/ZZTGK1A.png)
+
+> GitHub Light
+
 ![](https://i.imgur.com/rd4Ve3X.png)
 
-I switch between GitHub Dark and GitHub Light as I change between macOS appearances.
+> GitHub Dark
 
 ## Notes
 
