@@ -243,3 +243,4 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Penguin Random House](https://www.penguinrandomhouse.com/) - Committed to publishing great books, connecting readers and authors globally, and spreading the love of reading.
 - [Klutz Press: books built for learning stuff](https://www.charlieharrington.com/create-wonderful-things-be-good-have-fun) ([HN](https://news.ycombinator.com/item?id=23676862))
 - [HN: There’s no replacement for the thrill of browsing in a bookstore (2020)](https://news.ycombinator.com/item?id=23678230)
+- [Lessons and Regrets from My \$25000 Book Launch (2020)](https://www.swyx.io/writing/coding-career-launch/)

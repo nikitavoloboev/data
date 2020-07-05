@@ -175,3 +175,4 @@
 - [A Complete Guide to Dark Mode on the Web (2020)](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 - [Uncommon CSS Properties (2020)](https://ishadeed.com/article/uncommon-css/)
 - [1-Line Layouts](http://1linelayouts.glitch.me/) - 10 Modern CSS layout and sizing techniques that highlight just how robust and impactful a single-line of styling code can be.
+- [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html) ([HN](https://news.ycombinator.com/item?id=23736540))

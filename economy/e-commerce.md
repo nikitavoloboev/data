@@ -16,3 +16,4 @@
 - [Headless Commerce Resources](https://headlesscommerce.org/) ([Code](https://github.com/chec/headlesscommerce.org))
 - [CommerceJS](https://commercejs.com/) - Headless eCommerce platform for developers & designers.
 - [How I grew my Shopify micro-SaaS (2020)](https://www.preetamnath.com/blog/grow-shopify-micro-saas-to-25k-mrr-in-14-months) ([HN](https://news.ycombinator.com/item?id=23734539))
+- [Fast](https://www.fast.co/) - 1-click checkout and login.
