@@ -24,3 +24,4 @@
 - [Nice examples of UX improvements for website](https://twitter.com/coreyhainesco/status/1270521909441032193)
 - [Design and Anatomy of a Push Notification 2020](https://onesignal.com/blog/push-notification-design-anatomy/)
 - [Waveguide](https://www.waveguide.io/patterns/all) - Customer Experience Examples and UX Design Examples.
+- [Menus, Metaphors and Materials: Milestones of User Interface Design (2020)](https://medium.com/@borism/menus-metaphors-and-materials-milestones-of-user-interface-design-f3f75481c46c)

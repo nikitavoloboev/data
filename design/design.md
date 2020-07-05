@@ -109,3 +109,5 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Sideway](http://looksideway.com/) - Find design inspiration from real life projects.
 - [Mobbin](https://mobbin.design/) - Latest Mobile Design Patterns.
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
+- [UCLAB](https://uclab.fh-potsdam.de/) - Visualization research group situated between design, computing, and the humanities.
+- [How to Draw a Compelling Data Interface (2019)](https://modus.medium.com/drawing-the-data-interface-fd9bb88f2932)
