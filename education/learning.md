@@ -54,3 +54,4 @@
 - [Emotional Blocks as Obstacles to Learning (2020)](https://acesounderglass.com/2020/06/12/emotional-blocks-as-obstacles-to-learning/) ([HN](https://news.ycombinator.com/item?id=23514963))
 - [RemNote Community Notes](https://www.remnote.io/community)
 - [How To Understand Things (2020)](https://nabeelqu.co/understanding)
+- [Learning How to Learn course](https://www.coursera.org/learn/learning-how-to-learn) - Powerful mental tools to help you master tough subjects. [Mind for Numbers book](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers) ([Summary](https://hassamuddin.com/blog/lhtl/))

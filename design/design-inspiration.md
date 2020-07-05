@@ -170,6 +170,7 @@ Here are few more things I liked, design wise.
 - [Peter Steinberger](https://steipete.wtf/)
 - [Ben Mingo](https://benmingo.cargo.site/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)
+- [Femke van Schoonhoven](https://www.femke.co.nz/)
 - [Matías Martínez](https://matias.ma/)
 - [Matt D. Smith](http://mds.is/)
 - [Monica Lent](https://monicalent.com/)
