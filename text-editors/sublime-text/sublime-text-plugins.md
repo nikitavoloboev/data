@@ -70,3 +70,5 @@ Below is a list of plugins I use.
 
 - [Git](https://github.com/kemayo/sublime-text-git) - Git integration.
 - [GitGutter](https://github.com/jisaacks/GitGutter) - See git diff in gutter.
+- [Package Control](https://packagecontrol.io/) - Sublime Text package manager.
+- [Sublime Packages](https://github.com/sublimehq/Packages)

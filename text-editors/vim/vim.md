@@ -8,6 +8,8 @@ I use [Neovim](https://github.com/neovim/neovim) instead of vim and my vimrc can
 
 ![](https://i.imgur.com/k9pyjvd.png)
 
+I switch between Ayu Mirage and Ayu Light as I change between macOS appearances.
+
 I also use a little trick where I change the cursor from thin block in insert mode to underline when in normal mode. This lets me quickly know which mode I am in.
 
 ## Notes

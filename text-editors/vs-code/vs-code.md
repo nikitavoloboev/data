@@ -8,6 +8,8 @@ I use VS Code [GitHub theme](https://marketplace.visualstudio.com/items?itemName
 
 ![](https://i.imgur.com/rd4Ve3X.png)
 
+I switch between GitHub Dark and GitHub Light as I change between macOS appearances.
+
 ## Notes
 
 - [VS Code is architected in a way where extensions are not eagerly activated by default. Each extension can declare a list of activation events, such as e.g. opening a file of a certain language, invoking a specific command, starting debugging, etc.](https://news.ycombinator.com/item?id=16940419)

@@ -8,6 +8,8 @@ I use [many plugins](sublime-text-plugins.md) together with [Ayu theme](https://
 
 ![](https://i.imgur.com/sdIqSvT.png)
 
+I switch between Ayu Mirage and Ayu Light as I change between macOS appearances.
+
 ## Notes
 
 - Entering into sublime console (View -> Show Console):

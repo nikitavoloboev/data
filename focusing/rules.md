@@ -138,7 +138,7 @@
 
 - Minimize decision making done by users. Good design leads.
 - Impress users with [great landing page](../design/design-inspiration.md)
-- Design for both light & dark interfaces using the help of the platform. Prefer dark interfaces.
+- Design for both light & dark interfaces using the help of the platform.
 
 ## Photos
 
