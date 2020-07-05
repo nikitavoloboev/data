@@ -22,3 +22,4 @@
 - [A Shared File System for Your Lambda Functions (2020)](https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/) ([HN](https://news.ycombinator.com/item?id=23543554))
 - [Chalice](https://github.com/aws/chalice) - Framework for writing serverless apps in python. It allows you to quickly create and deploy applications that use AWS Lambda.
 - [Chaos Lambda](https://github.com/artilleryio/chaos-lambda) - Serverless chaos monkey for AWS (runs on AWS Lambda).
+- [AWS CDK Made Simple: Run a Lambda function locally (2020)](https://tlakomy.com/run-cdk-lambda-function-locally)

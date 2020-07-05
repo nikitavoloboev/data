@@ -161,7 +161,7 @@
 
 ## Docs
 
-- Use light themed screenshots/screencasts with proper accessibility (contrast) in writing docs/readme.
+- Use light themed screenshots/screencasts with proper accessibility (good contrast) in writing docs/readme.
 
 ## GitHub
 
