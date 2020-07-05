@@ -37,7 +37,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Gwern](https://www.gwern.net/) - Can also suffix URLs with `.page` to get the source code. ([Code](https://github.com/gjord/gwern.net))
 - [Paul Copplestone](https://paul.copplest.one/knowledge/) ([Code](https://github.com/kiwicopple/paul.copplest.one))
 - [Andyʼs working notes](https://notes.andymatuschak.org/About_these_notes)
-- [Yoshua Wuyts](https://yoshuawuyts.gitbooks.io/knowledge/content/)
+- [Yoshua Wuyts](https://github.com/yoshuawuyts/notes)
 - [Oleg Kiselyov](http://okmij.org/ftp/) - Lots of stuff on FP.
 - [Richard Litt](https://github.com/RichardLitt/knowledge)
 - [Darshan Chaudhary](https://github.com/darshanime/notes)

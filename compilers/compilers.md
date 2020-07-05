@@ -106,3 +106,5 @@
 - [A crash course in just-in-time (JIT) compilers (2017)](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
 - [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time (2020)](https://carolchen.me/blog/jits-intro/) ([HN](https://news.ycombinator.com/item?id=23740655))
 - [How JIT Compilers are Implemented and Fast: Julia, Pypy, LuaJIT, Graal and More (2020)](https://carolchen.me/blog/jits-impls/)
+- [Compilers Resources by Yosh](https://github.com/yoshuawuyts/notes/blob/master/compilers/resources.md)
+- [The Super Tiny Compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - Ultra-simplified example of all the major pieces of a modern compiler written in easy to read JavaScript.

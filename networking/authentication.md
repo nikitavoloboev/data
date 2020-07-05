@@ -57,3 +57,4 @@
 - [yup-oauth2](https://github.com/dermesser/yup-oauth2) - Utility library which implements several OAuth 2.0 flows. It's mainly used by google-apis-rs, to authenticate against Google services.
 - [AuthGuardian by OneGraph](https://www.onegraph.com/auth-guardian/) - Secure your GraphQL API.
 - [Pass](https://getpass.app/) - Identity app for fintech applications.
+- [Note on Auth](https://github.com/yoshuawuyts/notes/blob/master/computers/architecture/auth.md)
