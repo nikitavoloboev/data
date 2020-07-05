@@ -105,3 +105,4 @@
 - [Circuit IR Compilers and Tools](https://github.com/circt/circt)
 - [A crash course in just-in-time (JIT) compilers (2017)](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
 - [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time (2020)](https://carolchen.me/blog/jits-intro/) ([HN](https://news.ycombinator.com/item?id=23740655))
+- [How JIT Compilers are Implemented and Fast: Julia, Pypy, LuaJIT, Graal and More (2020)](https://carolchen.me/blog/jits-impls/)

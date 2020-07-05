@@ -6,6 +6,7 @@ Here are few more things I liked, design wise.
 
 ## Websites
 
+- [Framer](https://www.framer.com/)
 - [Linear](https://linear.app/)
 - [Apple](https://www.apple.com/)
 - [Supernotes](https://supernotes.app/)
