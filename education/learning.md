@@ -53,3 +53,4 @@
 - [Questions to help people decide what to learn (2020)](https://jvns.ca/blog/2020/06/14/questions-to-help-you-learn/) ([HN](https://news.ycombinator.com/item?id=23518428))
 - [Emotional Blocks as Obstacles to Learning (2020)](https://acesounderglass.com/2020/06/12/emotional-blocks-as-obstacles-to-learning/) ([HN](https://news.ycombinator.com/item?id=23514963))
 - [RemNote Community Notes](https://www.remnote.io/community)
+- [How To Understand Things (2020)](https://nabeelqu.co/understanding)

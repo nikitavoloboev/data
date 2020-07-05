@@ -34,6 +34,7 @@
 - [Clatters](https://clatters.app/) - Easily monitor in one place your brand name, product name or any other keyword on your favorite social networks.
 - [Headlime](https://headlime.io/) - Create Headlines Like Copywriting Experts, Without Writing Them.
 - [Got Users](https://www.gotusers.com/) - Marketing services. Without the risk.
+- [How To Sell (2020)](https://nabeelqu.co/post-selling) - Contains everything I wish I’d known, before I started, about doing sales at a startup.
 
 ## Images
 
