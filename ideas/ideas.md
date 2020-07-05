@@ -60,3 +60,4 @@ I try to give my full attention to any ideas I am working on.
 - [ConceptHunt](https://concepthunt.com/) - Practice Generating Ideas.
 - [How I side project (2019)](https://thesephist.com/posts/how-i-side-project/)
 - [Ask HN: What kind of ideas are not VC-backable but should exist in the future? (2020)](https://news.ycombinator.com/item?id=23697840)
+- [Ask HN: What weird or hard problems are you trying to solve? (2020)](https://news.ycombinator.com/item?id=23735676)
