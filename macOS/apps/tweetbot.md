@@ -28,3 +28,4 @@ I split the app into 2 columns on mac.
 - [Build an open source tool to export your Twitter followers](https://github.com/balajis/twitter-export)
 - [Get twitter avatar for a username](https://github.com/siddharthkp/twitter-avatar)
 - [Thread Reader](https://threadreaderapp.com/) - Transform Twitter Threads into a Readable Page.
+- [Debubble](https://debubble.me/) - Publishing tool that facilitates a debate between two Twitter users. ([HN](https://news.ycombinator.com/item?id=23728499))

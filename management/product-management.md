@@ -18,3 +18,4 @@
 - [Products Are Functions (2018)](http://www.feltpresence.com/functions.html)
 - [LightCat](https://www.lightcat.io/) - Product Management Tool for Data Driven Product Managers.
 - [50 Short Product Lessons (2020)](https://cutle.fish/blog/50-product-lessons)
+- [Product Channel Fit Will Make or Break Your Growth Strategy (2017)](https://brianbalfour.com/essays/product-channel-fit-for-growth)
