@@ -56,3 +56,4 @@
 - [Why we won’t be supporting Sign in with Apple (2020)](https://blog.anylist.com/2020/06/sign-in-with-apple/) ([HN](https://news.ycombinator.com/item?id=23681982))
 - [yup-oauth2](https://github.com/dermesser/yup-oauth2) - Utility library which implements several OAuth 2.0 flows. It's mainly used by google-apis-rs, to authenticate against Google services.
 - [AuthGuardian by OneGraph](https://www.onegraph.com/auth-guardian/) - Secure your GraphQL API.
+- [Pass](https://getpass.app/) - Identity app for fintech applications.

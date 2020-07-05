@@ -104,3 +104,4 @@ The key to success in Open Source lies in understanding that it's not just about
 - [I Just Hit \$100,000/yr On GitHub Sponsors. Here’s How I Did It! (2020)](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it) ([HN](https://news.ycombinator.com/item?id=23613719))
 - [Libraries.io](https://libraries.io/) - Open Source Discovery Service. ([Code](https://github.com/librariesio/libraries.io))
 - [Open Source Sustainability (2020)](https://dev.to/erikras/open-source-sustainability-3pjf)
+- [Ethical Source: Open Source, Evolved](https://ethicalsource.dev/) ([Comment](https://news.ycombinator.com/item?id=23737855))

@@ -136,7 +136,7 @@
 - [PrefaceCSS](https://cluzier.github.io/PrefaceCSS/dist/index.html) - CSS Boilerplate for minimalists. ([Code](https://github.com/cluzier/PrefaceCSS))
 - [You Need to Know CSS](https://lhammer.cn/You-need-to-know-css/#/) - CSS tricks web developers need to know. ([Code](https://github.com/l-hammer/You-need-to-know-css))
 - [Pure CSS Landscape - An Evening in Southwold](https://codepen.io/ivorjetski/pen/xxGYWQG) ([Video](https://www.youtube.com/watch?v=rUCVBNNyjC4))
-- [Modern CSS Solutions](https://moderncss.dev/)
+- [Modern CSS Solutions](https://moderncss.dev/) ([Code](https://github.com/5t3ph/moderncss-dot-dev))
 - [A Single Div](https://a.singlediv.com/) - CSS drawings with only one HTML element. ([Code](https://github.com/lynnandtonic/a-single-div))
 - [CSSWG meeting minutes](https://lists.w3.org/Archives/Public/www-style/)
 - [new.css](https://newcss.net/) - Classless CSS framework to write modern websites using only HTML. ([Code](https://github.com/xz/new.css)) ([HN](https://news.ycombinator.com/item?id=23220081)) ([Night Theme](https://newcss.net/theme/night/))

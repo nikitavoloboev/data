@@ -16,3 +16,4 @@ I try my best to mindfully be aware of emotions, thoughts and feelings I have an
 - [Rachel Nabors - How to survive major change (2019)](https://www.youtube.com/watch?v=2XRgPzAYJZ4)
 - [How not to be sad (2020)](https://ldeming.posthaven.com/how-not-to-be-sad)
 - [Talking Depression with Reckful (2019)](https://www.youtube.com/watch?v=LZVTbFuZrNw)
+- [Solving Laziness with Asmongold (2020)](https://www.youtube.com/watch?v=WQ5bkdFuFhg)
