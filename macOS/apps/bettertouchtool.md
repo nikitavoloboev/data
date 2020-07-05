@@ -21,3 +21,4 @@ Can easily tell that it's an all day event as it won't have time stamps shown be
 - [Making the Touch Bar finally useful](http://vas3k.com/blog/touchbar/)
 - [BetterTouchTool Touch Bar Presets](https://github.com/vas3k/btt-touchbar-presets)
 - [BetterTouchTool management in JavaScript](https://github.com/Worie/btt)
+- [GoldenChaos-BTT](https://goldenchaos.net/goldenchaos-btt.html) - Replacement Touch Bar UI for BetterTouchTool.

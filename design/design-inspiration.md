@@ -267,6 +267,7 @@ Here are few more things I liked, design wise.
 - [Wimer Hazenberg](https://www.monokai.nl/) - Nice scrolling effect.
 - [Adam Pritchard](https://crypti.cc/)
 - [Charli Marie](https://charlimarie.com/)
+- [Charlie Gerard](https://charliegerard.dev/)
 - [Mike Solomon](https://msol.io/)
 - [Adam Ho](https://www.adamho.com/)
 - [Isaac Freund](http://ifreund.xyz/blog/)
