@@ -48,3 +48,4 @@
 - [Trends in Embedded Systems (2020)](https://www.reddit.com/r/embedded/comments/heay2s/trends_in_embedded_systems/)
 - [Blech language](https://www.blech-lang.org/) - Embedded real-time programming.
 - [Rhai](https://github.com/jonathandturner/rhai) - Embedded scripting language for Rust.
+- [Rust on the ESP32 - SVD's, PAC's and USB flashing (2020)](https://mabez.dev/blog/posts/esp32-rust-svd-pac/)

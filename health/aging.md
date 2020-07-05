@@ -36,3 +36,4 @@ Aging is a disease and thus can potentially be cured. For example, [Turritopsis 
 - [Age Reduction Breakthrough (2020)](https://joshmitteldorf.scienceblog.com/2020/05/11/age-reduction-breakthrough/) ([HN](https://news.ycombinator.com/item?id=23142932)) ([Twitter](https://twitter.com/davidasinclair/status/1259912928695857152))
 - [Leap](https://wellcomeleap.org/) - Programs that aim to deliver breakthroughs in human health over 5 – 10 years and demonstrate seemingly impossible results on seemingly impossible timelines.
 - [Aging research links](https://www.notion.so/40e0f73987aa46f39932647ba05925e6?v=3c79739323b5452c9de3210adf481c97)
+- [Quantitative Translation of Dog-to-Human Aging (2020)](<https://www.cell.com/cell-systems/pdf/S2405-4712(20)30203-9.pdf>) ([HN](https://news.ycombinator.com/item?id=23730613))

@@ -188,3 +188,4 @@
 - [Ways to explain code when told it doesn't make sense](https://softwareengineering.stackexchange.com/questions/411585/ways-to-explain-code-when-told-it-doesnt-make-sense)
 - [The Coding Career Handbook](https://www.learninpublic.org/) ([HN](https://news.ycombinator.com/item?id=23700486))
 - [Awesome Katas](https://github.com/gamontal/awesome-katas) - Curated list of code katas.
+- [Beginner’s Guide To Abstraction (2020)](https://jesseduffield.com/beginners-guide-to-abstraction/) ([HN](https://news.ycombinator.com/item?id=23735991))
