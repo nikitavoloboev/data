@@ -22,6 +22,7 @@ I am currently using builtin 2018 MacBook keyboard and love it. I love the low k
 - [Keyberon](https://github.com/TeXitoi/keyberon) - Hand wired ortholinear mechanical keyboard with a firmware in rust.
 - [Sonder](https://sonderdesign.com/keyboard/) - E-Ink Keyboard. ([HN](https://news.ycombinator.com/item?id=23370348))
 - [Dactyl-ManuForm](https://github.com/abstracthat/dactyl-manuform) - Fork of the Dactyl, a parameterized, split-hand, concave, columnar, ergonomic keyboard. ([HN](https://news.ycombinator.com/item?id=23444813))
+- [Absolem](https://zealot.hu/absolem/) ([Code](https://github.com/mrzealot/absolem))
 
 ## Interesting keycaps
 

@@ -97,3 +97,4 @@
 - [Readings in Distributed Systems](http://henryr.github.io/distributed-systems-readings/)
 - [Control theory for fun and profit (2020)](https://fauna.com/blog/control-theory-for-fun-and-profit) ([HN](https://news.ycombinator.com/item?id=23576247))
 - [Understanding Replication in Databases and Distributed Systems (2018)](https://www.ic.unicamp.br/~buzato/teaching/2018/mo441/wiesmann00a.pdf)
+- [A plain English introduction to CAP theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
