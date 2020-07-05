@@ -236,7 +236,7 @@
 - Share images freely with [Imgur](https://imgur.com) (not tied to account) where direct linking doesn't work.
 - Copy screenshots to clipboard & paste for quick sharing.
 - Use package manager to install things. Keep packages updated.
-- Prefer to use dark mode as it's easier on the eyes. Unless in sunny area.
+- Change themes dynamically, prefer light themes (easier on the eyes).
 
 ## Trello
 
