@@ -248,3 +248,4 @@
 - [A Few More Reasons Rust Compiles Slowly (2020)](https://pingcap.com/blog/reasons-rust-compiles-slowly) ([HN](https://news.ycombinator.com/item?id=23678701))
 - [Context-preserving error handling (2020)](https://kazlauskas.me/entries/errors.html)
 - [Back to old tricks, or, baby steps in Rust (2020)](https://donsbot.wordpress.com/2020/07/04/back-to-old-tricks-or-baby-steps-in-rust/) ([HN](https://news.ycombinator.com/item?id=23733541))
+- [Choosing a Rust web framework (2020)](https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/) ([HN](https://news.ycombinator.com/item?id=23740028))

@@ -11,3 +11,5 @@ I am moving these boards from Trello to Notion.
 - [Ideas](https://www.notion.so/Ideas-0b5a4e8a88f34fe29a1f33dad02e5332)
 - [Learn](https://www.notion.so/Learn-05c0eac7be904e0da89cd8a3bf7ab509)
 - [Papers / Courses](https://www.notion.so/Papers-Courses-8f00c7c500d5460490a5800c5d5db431)
+
+Later on everything will be moved to [Learn Anything](https://learn-anything.xyz) once it gets built.

@@ -74,3 +74,4 @@
 - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - [SwiftUI Inspector](https://swiftui.ai/) - Production-quality code straight from your favorite design tool.
 - [Multiplatform Messages app for macOS, iOS, iPadOS in SwiftUI](https://github.com/jordansinger/messages-multiplatform-swiftui-sample)
+- [A guide to SwiftUI’s state management system (2020)](https://swiftbysundell.com/articles/swiftui-state-management-guide/)
