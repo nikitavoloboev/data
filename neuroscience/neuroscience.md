@@ -31,6 +31,8 @@
 - [NeuroAILab](http://neuroailab.stanford.edu/) - Stanford Neuroscience and Artificial Intelligence Laboratory.
 - [Synaptic specificity is collectively determined by partner identity, location and activity (2019)](https://www.biorxiv.org/content/10.1101/697763v1)
 - [Neurons that fire together, wire together, but how?](http://dissociativediaries.com/neurons-that-fire-together-wire-together-ok-but-how/) ([HN](https://news.ycombinator.com/item?id=23676233))
+- [Super Resolution and 3-D Imaging | Harald Hess (2019)](https://www.youtube.com/watch?v=tlvrkCZLagg) ([Tweet](https://twitter.com/karpathy/status/1279583346901651456))
+- [A Connectome of the Adult Drosophila Central Brain (2020)](https://www.biorxiv.org/content/10.1101/2020.01.21.911859v1)
 
 ## Images
 
