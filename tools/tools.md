@@ -98,6 +98,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Gravatar](https://en.gravatar.com/) - Attach an image to an email and websites supporting Gravatar will simply pick up the image you specified.
 - [Calendly](https://calendly.com/) - Schedule meetings.
 - [Mighty Cal](https://mightycal.com/) - Smart Scheduling Assistant.
+- [Bit](https://bit.dev/) - The shared component cloud.
 - [Styleguide](http://hugeinc.github.io/styleguide) - Tool to make creating and maintaining style guides easy.
 - [UFree](http://ufr.ee/) - Sort out what day to meet.
 - [Raycast](https://raycast.com/) - Makes it simple, fast and delightful to control your tools.
