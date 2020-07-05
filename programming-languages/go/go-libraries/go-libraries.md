@@ -472,6 +472,7 @@
 - [baseplate.go](https://github.com/reddit/baseplate.go) - Baseplate implemented in go.
 - [msgpack](https://github.com/vmihailenco/msgpack) - MessagePack encoding for Golang.
 - [go-sumtype](https://github.com/BurntSushi/go-sumtype) - Simple utility for running exhaustiveness checks on Go "sum types.".
+- [pkg/json](https://github.com/pkg/json) - Efficient JSON decoder.
 - [OjG](https://github.com/ohler55/ojg) - Optimized JSON for Go is a high performance parser with a variety of additional JSON tools.
 
 ## Links
