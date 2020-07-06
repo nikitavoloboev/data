@@ -1,6 +1,6 @@
 # Documentaries
 
-I seen a [few documentaries](https://letterboxd.com/nikitavoloboev/films/genre/documentary/).
+I saw a [few documentaries](https://letterboxd.com/nikitavoloboev/films/genre/documentary/).
 
 ## Interesting
 
