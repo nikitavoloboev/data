@@ -20,6 +20,7 @@
 
 - [Quansight](https://www.quansight.com/consulting)
 - [QuantumBlack](https://www.quantumblack.com/) - Use data, analytics and design to help our clients be the best they can be.
+- [Data Revenue](https://datarevenue.com/) - Custom machine learning solutions for real-life problems.
 
 ## iOS
 

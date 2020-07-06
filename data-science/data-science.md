@@ -98,3 +98,4 @@
 - [Sisu](https://sisu.ai/) - Fastest Diagnostic Platform for Structured Data. ([Introducing Sisu](https://sisu.ai/blog/introducing-sisu))
 - [Deepnote](https://deepnote.com/) - Data science notebook for teams. ([Docs](https://docs.deepnote.com/))
 - [Towards Data Science blog](https://towardsdatascience.com/)
+- [Scaling Pandas: Dask vs Ray vs Modin vs Vaex vs RAPIDS (2020)](https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray) ([HN](https://news.ycombinator.com/item?id=23740012))
