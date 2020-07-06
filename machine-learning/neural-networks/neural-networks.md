@@ -130,3 +130,4 @@
 - [Teaching physics to neural networks removes 'chaos blindness' (2020)](https://phys.org/news/2020-06-physics-neural-networks-chaos.html) ([HN](https://news.ycombinator.com/item?id=23597426))
 - [Understanding Convolutional Neural Networks](https://poloclub.github.io/cnn-explainer/) ([Code](https://github.com/poloclub/cnn-explainer)) ([HN](https://news.ycombinator.com/item?id=23710799))
 - [Business Card Neural Network (2020)](https://imois.in/posts/card-network/)
+- [Functional Neural Networks (2020)](https://b-thi.github.io/Posts/FNNs.html)
