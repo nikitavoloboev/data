@@ -1,6 +1,6 @@
 # Looking back
 
-![](https://preview.redd.it/u6yumuzr80941.jpg?width=960&crop=smart&auto=webp&s=658444db643243036c3d71ecb035d143b6dbdbb4)
+![](https://assets.merveilles.town/media_attachments/files/000/852/844/original/e8f82a4ccddd9adb.jpg)
 
 I share most everything I do on [Twitter](https://twitter.com/nikitavoloboev) and [Instagram](https://instagram.com/nikitavoloboev).
 
