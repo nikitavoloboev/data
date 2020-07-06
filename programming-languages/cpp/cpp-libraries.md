@@ -19,6 +19,7 @@
 - [Yue](https://github.com/yue/yue) - Library for creating native cross-platform GUI apps.
 - [MyGUI](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI.
 - [Plywood](https://github.com/arc80/plywood) - Cross-platform framework for building all kinds of C++ software. ([HN](https://news.ycombinator.com/item?id=23310341))
+- [Elements](https://github.com/cycfi/elements) - Lightweight, fine-grained, resolution independent, modular GUI library.
 
 ## Graphics
 
@@ -102,3 +103,4 @@
 - [Nameof](https://github.com/Neargye/nameof) - Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum.
 - [ALEX](https://github.com/microsoft/ALEX) - Library for building an in-memory, Adaptive Learned indEX. ([HN](https://news.ycombinator.com/item?id=23571741))
 - [cereal](https://github.com/USCiLab/cereal) - C++11 library for serialization.
+- [Boost C++ Libraries](https://github.com/boostorg/boost)
