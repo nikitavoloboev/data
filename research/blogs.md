@@ -2,7 +2,7 @@
 
 I use [Reeder](http://reederapp.com/mac/) to stay on top of my favorite blogs I follow which I sync with [Inoreader](https://www.inoreader.com) between phone and mac.
 
-![](https://i.imgur.com/2Ruad9G.png)
+![](https://i.imgur.com/l0Cq6ZT.jpg)
 
 I separate blogs I follow by quality into `1.` & `2.` folders accordingly.
 

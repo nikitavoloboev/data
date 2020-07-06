@@ -80,6 +80,7 @@
 - Fix mistakes with spell checker.
 - Format text to focus attention. **Bold** = strong emphasis. _Italic_ = soft emphasis. Syntax highlight `Code blocks`.
 - Don't repeat myself / duplicate content. Link instead.
+- Add screenshots/screencasts where appropriate. Take accessibility into account (good visibility of text).
 
 ## Tools
 
@@ -158,10 +159,6 @@
 - Version control all projects. Commit often. Squash branches into [one good commit](https://chris.beams.io/posts/git-commit/).
 - Respect existing git workflow of projects.
 - Prefix branch names with `fix/` or `feat/` appropriately.
-
-## Docs
-
-- Use light themed screenshots/screencasts with proper accessibility (good contrast) in writing docs/readme.
 
 ## GitHub
 
