@@ -97,3 +97,4 @@
 - [VisiData](https://www.visidata.org/) - Terminal spreadsheet multitool for discovering and arranging data. ([Code](https://github.com/saulpw/visidata))
 - [Sisu](https://sisu.ai/) - Fastest Diagnostic Platform for Structured Data. ([Introducing Sisu](https://sisu.ai/blog/introducing-sisu))
 - [Deepnote](https://deepnote.com/) - Data science notebook for teams. ([Docs](https://docs.deepnote.com/))
+- [Towards Data Science blog](https://towardsdatascience.com/)
