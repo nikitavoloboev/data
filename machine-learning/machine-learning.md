@@ -257,3 +257,4 @@
 - [NeurIPS](https://neurips.cc/) - Conference on Neural Information Processing Systems.
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
 - [Distill](https://distill.pub/) - Latest articles about machine learning.
+- [Compute access for ML training (2020)](https://twitter.com/EmilWallner/status/1276071724224831489)
