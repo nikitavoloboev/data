@@ -13,7 +13,7 @@
 - [Don’t eat animals](../environment/veganism.md), don’t hurt any person. [Don't waste anything](../environment/zero-waste.md).
 - Don't compare myself to other people. Surround myself with people that inspire me. Be my true self.
 - Create art. Meet people. See places. Be inspired. Reuse work & ideas. Reach out to people.
-- Be consistent. Start early. Done > Perfect. Do the simplest thing. Solve core problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
+- Be consistent. Start early. Done > Perfect. Do the simplest thing. Solve problems. [Enjoy the process](https://nikitavoloboev.xyz/likes/#quotes).
 - Optimize and streamline [my workflow](../sharing/my-workflow.md) & [processes](processes.md) I use to get things done.
 - Don't judge anyone. Attempt to see another person's point of view. Be kind. Show love.
 - Don't lie to myself nor anyone else. Be confident in my thoughts & actions. Be decisive. Give feedback.
