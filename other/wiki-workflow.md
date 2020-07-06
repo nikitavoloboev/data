@@ -93,6 +93,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Vlad Patryshev](https://github.com/vpatryshev/wowiki/wiki)
 - [Brady Joslin's TIL](https://til.bradyjoslin.com/_introduction/)
 - [Rosie Campbell's Notes](https://rosiecampbell.me/notes)
+- [Michael Lubinsky's notes and code snippets](http://mlubinsky.github.io/) ([Code](https://github.com/mlubinsky/mlubinsky.github.com))
 - [Chris Nkinthorn](https://nkintc.gitbook.io/brainless/) ([Code](https://github.com/nkintc/nkintc.github.io))
 - [TIL by Stefan Judis](https://www.stefanjudis.com/today-i-learned/)
 - [David Gasquez](https://github.com/davidgasquez/handbook)
