@@ -106,3 +106,4 @@
 - [A Principled Approach to GraphQL Query Cost Analysis (2020)](https://medium.com/dev-genius/a-principled-approach-to-graphql-query-cost-analysis-8c7243de42c1)
 - [Production Ready GraphQL Book](https://book.productionreadygraphql.com/)
 - [Scaling a GraphQL Website (2020)](https://theartofmachinery.com/2020/06/29/scaling_a_graphql_site.html)
+- [GraphQL Recipes - Building APIs with GraphQL Transform (2020)](https://dev.to/open-graphql/graphql-recipes-building-apis-with-graphql-transform-3jp0)

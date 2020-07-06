@@ -167,3 +167,4 @@
 - [Ask HN: Recommend a maths book for a teenager (2020)](https://news.ycombinator.com/item?id=23711942)
 - [Imaginary](https://imaginary.org/) - Place for Open and Interactive Mathematics.
 - [Ridiculous Math Problems (2020)](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html) ([HN](https://news.ycombinator.com/item?id=23739243))
+- [Discrete Math (Full Course: Sets, Logic, Proofs, Probability, Graph Theory, etc) (2020)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
