@@ -94,3 +94,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [Dijkstra: On the foolishness of "natural language programming"](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html) ([Tweet](https://twitter.com/GabrielG439/status/1279178769949798400))
 - [Semantics with Applications: A Formal Introduction](http://www.dis.uniroma1.it/~degiacom/CogRobCourse01/NielsonNielson.ps)
 - [The Formal Semantics of Programming Languages: An Introduction (1993)](https://www.cin.ufpe.br/~if721/intranet/TheFormalSemanticsofProgrammingLanguages.pdf)
+- [The Fatal Flaw of Ownership Semantics (2020)](https://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/)
