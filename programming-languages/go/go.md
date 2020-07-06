@@ -301,3 +301,4 @@ Go promotes composition over inheritance.
 - [Generics for Go (2020)](https://lwn.net/SubscriberLink/824716/ee9bbbfad58cef3d/) ([Lobsters](https://lobste.rs/s/ac83w9/generics_for_go))
 - [Go is boring, and that’s fantastic (2020)](https://www.capitalone.com/tech/software-engineering/go-is-boring/) ([HN](https://news.ycombinator.com/item?id=23711735)) ([Reddit](https://www.reddit.com/r/golang/comments/hjqouw/go_is_boringand_thats_fantastic/))
 - [godepgraph](https://github.com/kisielk/godepgraph) - Program for generating a dependency graph of Go packages.
+- [[RU] Multithreading in Go - Aliaksandr Valialkin (2018)](https://www.youtube.com/watch?v=HzAXT1ORH3o)
