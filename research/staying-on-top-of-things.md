@@ -90,6 +90,7 @@ And these Discord servers:
 - [The Information](https://www.theinformation.com/) - In-depth tech stories you won't find anywhere else.
 - [Epsilon Theory](https://www.epsilontheory.com/) - Investing and voting seen through the lenses of game theory and history.
 - [Outside Magazine](https://www.outsideonline.com/)
+- [Machine Learning: Science and Technology journal](https://iopscience.iop.org/journal/2632-2153)
 
 ### Other
 
