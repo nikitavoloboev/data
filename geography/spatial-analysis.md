@@ -27,3 +27,4 @@
 - [Satellogic](https://satellogic.com/) - Vertically integrated  geospatial analytics. Powerful satellite image solutions to gain access of a more efficient and real time information for your business.
 - [Ethics in Geo (2020)](https://macwright.org/2020/06/21/ethics-in-geo.html)
 - [Seeing how it all unfolds (2020)](https://erdavis.com/2020/06/19/seeing-how-it-all-unfolds/)
+- [Very spatial people to follow on Twitter (2020)](https://spatialawareness.xyz/blog/very-spatial-people-to-follow-on-twitter/) ([Tweet](https://twitter.com/robhawkes/status/1280055131178926080))

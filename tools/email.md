@@ -75,3 +75,5 @@ I subscribe to a [few newsletters](https://github.com/learn-anything/newsletters
 - [Abstract's Expired Trial Email](https://www.swipefiles.co/latest/file) ([Tweet](https://twitter.com/coreyhainesco/status/1275569632523350016))
 - [Advice on writing effective emails](https://rosiecampbell.me/on-writing-effective-emails)
 - [ImprovMX](https://improvmx.com/) - Free email forwarding. Email aliases for your domain name.
+- [JMAP](https://jmap.io/) - JSON Meta Application Protocol Specification.
+- [Email Isn’t Broken, Email Clients Are (2020)](https://medium.com/@alnewkirk/email-isnt-broken-email-clients-are-8badaa14af61) ([Lobsters](https://lobste.rs/s/jhixrm/email_isn_t_broken_email_clients_are))
