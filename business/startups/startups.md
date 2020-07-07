@@ -179,6 +179,7 @@
 - [Free Startup Resources](https://github.com/jasonnoahchoi/awesome-free-startup-resources)
 - [Awesome Startup](https://github.com/KrishMunot/awesome-startup) - Curated list of awesome books, videos, courses and resources about making a startup.
 - [The Entrepreneur's Roadmap - From Concept to IPO](https://www.nyse.com/entrepreneur)
+- [Notes on tech strategy](https://sriramk.com/strategy)
 
 ## Images
 
