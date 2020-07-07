@@ -2,7 +2,7 @@
 
 ## Notes
 
-- Like how [Rollbar](https://rollbar.com/) does the hamburger menu on mobile.
+- Like how [Stripe](https://stripe.com/) does the hamburger menu on mobile.
 
 ## Links
 
