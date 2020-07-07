@@ -303,3 +303,4 @@ Go promotes composition over inheritance.
 - [godepgraph](https://github.com/kisielk/godepgraph) - Program for generating a dependency graph of Go packages.
 - [[RU] Multithreading in Go - Aliaksandr Valialkin (2018)](https://www.youtube.com/watch?v=HzAXT1ORH3o)
 - [A Go lesson learned: sometimes I don't want to use goroutines if possible (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoWhenNotManyGoroutines) ([Lobsters](https://lobste.rs/s/joicca/go_lesson_learned_sometimes_i_don_t_want))
+- [Why Go’s Error Handling is Awesome (2020)](https://rauljordan.com/2020/07/06/why-go-error-handling-is-awesome.html)

@@ -19,3 +19,4 @@
 - [Parenscript](https://common-lisp.net/project/parenscript/) - Translator from an extended subset of Common Lisp to JavaScript.
 - [Slime](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs.
 - [Petalisp](https://github.com/marcoheisig/Petalisp) - Elegant High Performance Computing.
+- [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)

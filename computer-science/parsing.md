@@ -26,4 +26,4 @@
 - [GoGLL](https://github.com/goccmack/gogll) - Generates a GLL parser and FSA-based lexer for any context-free grammar. The generated code is Go or Rust.
 - [How to Write a Lexer in Go (2020)](https://www.aaronraff.dev/blog/how-to-write-a-lexer-in-go)
 - [Spicy](https://github.com/zeek/spicy) - C++ parser generator that makes it easy to create robust parsers for network protocols, file formats, and more.
-- [Don't Panic! Better, Fewer, Syntax Errors for LR Parsers (2020)](https://soft-dev.org/pubs/html/diekmann_tratt__dont_panic/)
+- [Don't Panic! Better, Fewer, Syntax Errors for LR Parsers (2020)](https://soft-dev.org/pubs/html/diekmann_tratt__dont_panic/) ([Lobsters](https://lobste.rs/s/pje7ff/don_t_panic_better_fewer_syntax_errors_for))

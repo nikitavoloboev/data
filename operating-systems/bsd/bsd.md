@@ -19,3 +19,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [tilde.institute](https://tilde.institute/) - Public-access OpenBSD system.
 - [Guide to FreeBSD Desktop Distributions](https://www.freebsdfoundation.org/guide-to-freebsd-desktop-distributions/)
 - [HN: FreeBSD 11.4 (2020)](https://news.ycombinator.com/item?id=23541104)
+- [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html) ([HN](https://news.ycombinator.com/item?id=23755267))

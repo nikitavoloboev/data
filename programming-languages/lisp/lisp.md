@@ -65,3 +65,6 @@
 - [Closos: Specification of a Lisp operating system (2013)](http://metamodular.com/closos.pdf) ([HN](https://news.ycombinator.com/item?id=23730107))
 - [uLisp](http://www.ulisp.com/show?3J) - Lisp for microcontrollers. Lisp for Arduino, Adafruit M0/M4, Micro:bit, ESP8266/32, and RISC-V boards.
 - [Lisp Badge](http://www.ulisp.com/show?2L0C) - Single-board computer that you can program in uLisp. ([HN](https://news.ycombinator.com/item?id=23729970))
+- [MIT CADR Lisp Machine Emulation](http://www.unlambda.com/lisp/cadr.page)
+- [LambdaDelta](https://github.com/dseagrav/ld) - Emulator of the LMI Lambda Lisp Machine.
+- [Meroko](http://www.unlambda.com/lisp/meroko.page) - Lisp machine emulator.
