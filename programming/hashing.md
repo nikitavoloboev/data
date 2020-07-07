@@ -19,3 +19,4 @@
 - [HighwayHash](https://github.com/minio/highwayhash) - Native Go version of HighwayHash with optimized assembly implementations on Intel and ARM.
 - [hashring](https://github.com/serialx/hashring) - Implements consistent hashing that can be used when the number of server nodes can increase or decrease (like in memcached).
 - [t1ha](https://github.com/erthink/t1ha) - One of the fastest hash functions.
+- [hashmap.c](https://github.com/tidwall/hashmap.c) - Hash map implementation in C.

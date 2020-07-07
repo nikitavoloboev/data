@@ -19,3 +19,4 @@
 - [LightCat](https://www.lightcat.io/) - Product Management Tool for Data Driven Product Managers.
 - [50 Short Product Lessons (2020)](https://cutle.fish/blog/50-product-lessons)
 - [Product Channel Fit Will Make or Break Your Growth Strategy (2017)](https://brianbalfour.com/essays/product-channel-fit-for-growth)
+- [Jumping into Product Management (2019)](https://www.martzoukos.com/posts/jumping-into-product-management)
