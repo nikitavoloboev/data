@@ -19,3 +19,4 @@
 - [PyRep](https://github.com/stepjam/PyRep) - Toolkit for robot learning research.
 - [Venom : All Terrain Autonomous Quadruped](https://github.com/chinmaynehate/Venom)
 - [REx Lab](https://rexlab.stanford.edu/) - Stanford Robotic Exploration Lab.
+- [Open Robotics](https://www.openrobotics.org/) - Offer robotics R&D, consulting, custom engineering, and application development services to industry and government.
