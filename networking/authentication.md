@@ -58,3 +58,4 @@
 - [AuthGuardian by OneGraph](https://www.onegraph.com/auth-guardian/) - Secure your GraphQL API.
 - [Pass](https://getpass.app/) - Identity app for fintech applications.
 - [Note on Auth](https://github.com/yoshuawuyts/notes/blob/master/computers/architecture/auth.md)
+- [How does Single Sign-On work?](https://twitter.com/kamranahmedse/status/1280266408434302979)

@@ -149,10 +149,9 @@
 
 ## Email
 
-- Keep email inbox close to 0 at all times.
-- Pin emails that need attention.
-- Archive important emails accordingly. Delete the rest.
-- Filter incoming emails. Separate personal emails from the rest (newsletters/other).
+- Keep email inbox (non newsletter / news) close to 0. Pin emails that need attention.
+- Tag & archive emails that I may need reference of. Delete the rest.
+- Unsubscribe or mark as spam bad email senders. Keep inbox (newsletters, news including) high signal.
 
 ## Git
 
