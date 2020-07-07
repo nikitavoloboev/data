@@ -84,3 +84,4 @@
 - [Christian Williams: Structural types for algebraic theories (2020)](https://www.youtube.com/watch?v=aJyxtUopJ74)
 - [Peter LeFanu Lumsdaine, What are we thinking when we present a type theory? (2020)](https://www.youtube.com/watch?v=kQe0knDuZqg)
 - [Mathematics in type theory (2020)](https://xenaproject.wordpress.com/2020/06/20/mathematics-in-type-theory/) ([HN](https://news.ycombinator.com/item?id=23612856))
+- [Division by zero in type theory: a FAQ (2020)](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/) ([HN](https://xenaproject.wordpress.com/2020/07/05/division-by-zero-in-type-theory-a-faq/))

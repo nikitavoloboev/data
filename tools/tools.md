@@ -183,7 +183,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Larder](https://larder.io/) - Bookmarking for developers. ([HN](https://news.ycombinator.com/item?id=23442165))
 - [Beehive](https://github.com/muesli/beehive) - Flexible event/agent & automation system with lots of bees.
 - [mrm](https://github.com/sapegin/mrm) - Command line tool to help you keep configuration (package.json, .gitignore, .eslintrc, etc.) of your open source projects in sync.
-- [Dark](https://darklang.com/) - Holistic programming language, structured editor, and infrastructure, for building backend web services.
+- [Dark](https://darklang.com/) - Holistic programming language, structured editor, and infrastructure, for building backend web services. ([Code](https://github.com/darklang/dark))
 - [Checkly](https://checklyhq.com/) - Monitor the performance and correctness of your API endpoints & vital site transactions from a single, simple dashboard.
 - [Lattice](https://lattice.com/) - Performance management and employee engagement.
 - [Narrative](https://github.com/narative/narative.co) - Builds brands, websites and products for growth-minded companies.

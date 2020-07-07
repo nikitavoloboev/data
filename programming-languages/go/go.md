@@ -302,3 +302,4 @@ Go promotes composition over inheritance.
 - [Go is boring, and that’s fantastic (2020)](https://www.capitalone.com/tech/software-engineering/go-is-boring/) ([HN](https://news.ycombinator.com/item?id=23711735)) ([Reddit](https://www.reddit.com/r/golang/comments/hjqouw/go_is_boringand_thats_fantastic/))
 - [godepgraph](https://github.com/kisielk/godepgraph) - Program for generating a dependency graph of Go packages.
 - [[RU] Multithreading in Go - Aliaksandr Valialkin (2018)](https://www.youtube.com/watch?v=HzAXT1ORH3o)
+- [A Go lesson learned: sometimes I don't want to use goroutines if possible (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoWhenNotManyGoroutines) ([Lobsters](https://lobste.rs/s/joicca/go_lesson_learned_sometimes_i_don_t_want))

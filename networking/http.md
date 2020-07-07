@@ -62,3 +62,4 @@
 - [HTTP in Swift (2020)](https://davedelong.com/blog/2020/06/27/http-in-swift-part-1/) - Building a Swift HTTP framework.
 - [Improving HTTP with structured header fields (2020)](https://www.fastly.com/blog/improve-http-structured-headers)
 - [HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)](https://github.com/denji/awesome-http-benchmark)
+- [Cache-Control in the wild (2020)](https://www.fastly.com/blog/cache-control-wild)
