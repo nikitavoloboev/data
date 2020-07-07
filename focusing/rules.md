@@ -137,9 +137,9 @@
 
 ## Design
 
-- Design for both light & dark interfaces using the help of the platform.
-- Design with accessibility & UX in mind above all else.
-- Guide users with design. Minimize decision making. Make tools work & empower users.
+- Design for both light & dark interfaces with accessibility & UX in mind above all else.
+- Use platform primitives (web, iOS, macOS, ..) for greater speed & accessibility.
+- Guide user actions with good design. Remove unnecessary decision making.
 - Design [great landing pages](../design/design-inspiration.md).
 
 ## Photos
@@ -237,7 +237,7 @@
 - Share images freely with [Imgur](https://imgur.com) (not tied to account) where direct linking doesn't work.
 - Copy screenshots to clipboard & paste for quick sharing.
 - Use package manager to install things. Keep packages updated.
-- Change macOS appearance dynamically (light in day, dark in evening). Use dark theme on iOS always.
+- Change macOS appearance where appropriate (light interface in sunny areas, dark otherwise). Use dark theme on iOS always.
 
 ## Trello
 
