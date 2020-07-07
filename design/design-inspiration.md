@@ -154,6 +154,7 @@ Here are few more things I liked, design wise.
 - [Louie Mantia](http://louiemantia.com/)
 - [Pedro Duarte](https://ped.ro/) ([Code](https://github.com/peduarte/ped.ro))
 - [Ernest Ojeh](https://ernestojeh.com/)
+- [Fabrizio Rinaldi](https://fabriziorinaldi.com/)
 - [Milen Dzhumerov](https://milen.me/)
 - [Krasjet](https://krasjet.com/)
 - [Craig Mod](https://craigmod.com/)
