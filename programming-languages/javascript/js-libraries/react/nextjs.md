@@ -13,6 +13,7 @@
 - [Next.js Medium style boilerplate blog](https://github.com/maxigimenez/next-medium-blog-boilerplate)
 - [Next + Netlify Starter](https://github.com/cassidoo/next-netlify-starter)
 - [Next + Netlify Markdown Blog Starter](https://github.com/cassidoo/next-netlify-blog-starter)
+- [Vault Docs](https://github.com/hashicorp/vault/tree/master/website) ([Web](https://www.vaultproject.io/))
 
 ## NextJS plugins
 
@@ -88,3 +89,4 @@
 - [Building my new website with Next.js, TailwindCSS, and Vercel (2020)](https://www.jplhomer.org/posts/how-built-new-website-nextjs-vercel-tailwind)
 - [How to contribute to Next.js (2020)](https://www.youtube.com/watch?v=WK-UFw0ZOIw)
 - [Data Fetching with NextJS: What I learned (2020)](https://blog.maximeheckel.com/posts/data-fetching-with-next-js)
+- [NextJS features overview by Tim (2020)](https://github.com/vercel/next.js/discussions/14953#discussioncomment-34938)

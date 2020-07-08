@@ -215,3 +215,4 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [Explore Apple's new Swift logging API for iOS 14 (2020)](https://www.tanaschita.com/posts/20200705-explore-apples-recommended-swift-logging-api-wwdc-2020/)
 - [WWDC By Topics](https://airtable.com/shrBnfnUp4DpC6ktO/tblG1cvawBxvA6wUS)
 - [checkra1n](https://checkra.in/) - Jailbreak for iPhone 5s though iPhone X, iOS 12.3 and up.
+- [CALayer Tutorial for iOS](https://www.raywenderlich.com/10317653-calayer-tutorial-for-ios-getting-started?utm_content=buffer27a4b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
