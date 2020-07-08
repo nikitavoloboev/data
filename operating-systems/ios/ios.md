@@ -194,7 +194,7 @@ I hope to release Learn Anything on iOS soon too. That would be quite cool.
 - [FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) - iOS library providing developer tools for browsing objects in memory over time.
 - [iOS App Reverse Engineering (2015)](https://github.com/iosre/iOSAppReverseEngineering)
 - [SwiftInfo](https://github.com/rockbruno/SwiftInfo) - Extract and analyze the evolution of an iOS app's code.
-- [Indie Apps Showcases](https://antranapp.github.io/IndieApps/) - / TODO: Platform to showcase your side projects. ([Code](https://github.com/antranapp/IndieApps))
+- [Indie Apps Showcases](https://antranapp.github.io/IndieApps/) - Platform to showcase your side projects. ([Code](https://github.com/antranapp/IndieApps))
 - [Demo project to build resizing image in Navigation Bar with Large Title](https://github.com/tungfam/ImageInNavigationBarDemo)
 - [Project Zero: A survey of recent iOS kernel exploits (2020)](https://googleprojectzero.blogspot.com/2020/06/a-survey-of-recent-ios-kernel-exploits.html) ([HN](https://news.ycombinator.com/item?id=23497183))
 - [WWDC Notes](https://wwdcnotes.com/) - TL;DW for Apple's WWDC videos. ([Code](https://github.com/zntfdr/WWDC-Notes))

@@ -1,5 +1,9 @@
 # United States
 
+## Notes
+
+- [Most cost-effective way (aka costs nothing) to get to work in the US is to get hired by a multinational Corp and after 1 year get an L visa and move to the US.](https://twitter.com/copyconstruct/status/1280953429527900160)
+
 ## Links
 
 - [What Armenians should know about life in America (2014)](https://likewise.am/2014/12/26/what-armenians-should-know-about-life-in-america/) ([HN](https://news.ycombinator.com/item?id=22777745))

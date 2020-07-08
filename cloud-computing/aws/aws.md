@@ -65,7 +65,7 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [AWS Go SDK](https://github.com/aws/aws-sdk-go-v2) ([version 1](https://github.com/aws/aws-sdk-go))
 - [AWS Python SDK](https://github.com/boto/boto3) ([botocore - low-level, core functionality of boto 3](https://github.com/boto/botocore))
 - [AWS JS SDK](https://github.com/aws/aws-sdk-js-v3)
-- [AWS Haskell SDK](https://github.com/brendanhay/amazonka/ TODO: )
+- [AWS Haskell SDK](https://github.com/brendanhay/amazonka/)
 - [Amazon EKS User Guide](https://github.com/awsdocs/amazon-eks-user-guide)
 - [HN: AWS EC2 General Price Cut (2020)](https://news.ycombinator.com/item?id=23129730)
 - [AWS Services You Should Avoid (2020)](https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd) ([HN](https://news.ycombinator.com/item?id=23131449))
