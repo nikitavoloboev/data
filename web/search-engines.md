@@ -44,3 +44,4 @@
 - [Ecosia](https://www.ecosia.org/?c=en) - Search engine that plants trees.
 - [paxx](https://github.com/jackdoe/paxx) - Simple inverted index search engine.
 - [Sajari](https://www.sajari.com/) - AI-driven Search Solutions.
+- [Runnaroo](https://www.runnaroo.com/) - A Better Private Search Engine. ([HN](https://news.ycombinator.com/item?id=23771131))
