@@ -259,3 +259,4 @@
 - [Distill](https://distill.pub/) - Latest articles about machine learning.
 - [Compute access for ML training (2020)](https://twitter.com/EmilWallner/status/1276071724224831489)
 - [Scann: Scalable Nearest Neighbors](https://github.com/google-research/google-research/tree/master/scann) ([HN](https://news.ycombinator.com/item?id=23737338))
+- [CML](https://cml.dev/) - Continuous Machine Learning: Bring DevOps to Data Science. ([HN](https://news.ycombinator.com/item?id=23759332)) ([Code](https://github.com/iterative/cml))

@@ -86,3 +86,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [mmhmm](https://www.mmhmm.app/) - Clear, compelling communication for everyone.
 - [Building Cloudflare TV from scratch (2020)](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/) ([HN](https://news.ycombinator.com/item?id=23764596))
 - [Analysis of YouTube Trending Videos of 2019 (US)](https://ammar-alyousfi.com/2020/youtube-trending-videos-analysis-2019-us) ([HN](https://news.ycombinator.com/item?id=23762180))
+- [Kinoni](https://www.kinoni.com/) - Turn your phone into a wireless webcam. ([HN](https://news.ycombinator.com/item?id=23759926))
