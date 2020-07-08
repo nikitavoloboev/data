@@ -63,3 +63,4 @@ Ethereum is a virtual machine built on top of the blockchain that lets you creat
 - [dagger.js](https://github.com/maticnetwork/dagger.js) - Simple library to connect with dagger server and manage subscriptions for Ethereum Blockchain.
 - [Semaphore](https://github.com/appliedzkp/semaphore) - Zero-knowledge gadget which allows users to prove their membership of a set without revealing their original identity.
 - [Ethereum Research Forum](https://ethresear.ch/)
+- [The hitchhiker’s guide to Ethereum (2020)](https://www.wslyvh.com/ethereum-guide/) ([HN](https://news.ycombinator.com/item?id=23770109))
