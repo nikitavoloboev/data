@@ -110,8 +110,9 @@
 - [A Nix terminology primer by a newcomer (2020)](https://stephank.nl/p/2020-06-01-a-nix-primer-by-a-newcomer.html)
 - [Statistical Rethinking and Nix (2020)](https://rgoswami.me/posts/rethinking-r-nix/)
 - [flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions.
-- [nix.dev](https://nix.dev/) - Opinionated guide for developers wanting to get things done using the Nix ecosystem.
+- [nix.dev](https://nix.dev/) - Opinionated guide for developers wanting to get things done using the Nix ecosystem. ([Code](https://github.com/nix-dot-dev/nix.dev))
 - [Nix language antipatterns](https://nix.dev/anti-patterns/language.html)
 - [So, tell me about Nix (2020)](https://ghedam.at/15490/so-tell-me-about-nix)
 - [nixdu](https://github.com/utdemir/nixdu) - Interactively browse the dependency graph of your Nix derivations.
 - [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Search for old versions of Nix packages. ([Code](https://github.com/lazamar/nix-package-versions)) ([Reddit](https://www.reddit.com/r/NixOS/comments/gc68ec/find_older_versions_of_a_package_in_the_nix/))
+- [Opinionated Nix repository template](https://github.com/nix-dot-dev/getting-started-nix-template) - Based on nix.dev tutorials, repository template to get you started with Nix.

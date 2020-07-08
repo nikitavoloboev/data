@@ -71,3 +71,4 @@
 - [Style Dictionary](https://github.com/amzn/style-dictionary) - Build system for creating cross-platform styles.
 - [Style Guide Guide](http://bradfrost.github.io/style-guide-guide/) - For creating superb style guides. ([Code](https://github.com/bradfrost/style-guide-guide))
 - [The design systems between us (2020)](https://ethanmarcotte.com/wrote/the-design-systems-between-us/)
+- [Reimagining Design Systems at Spotify (2019)](https://spotify.design/article/reimagining-design-systems-at-spotify)

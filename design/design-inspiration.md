@@ -150,6 +150,7 @@ Here are few more things I liked, design wise.
 - [Vivien Hantusch](https://www.vivien.space/portfolio.html)
 - [Jon Gold](https://jon.gold/)
 - [Joey Banks](https://joeyabanks.io/)
+- [Brian Louis](https://blr.design/)
 - [Jack McDade](https://jackmcdade.com/)
 - [Oliver Caldwell](https://oli.me.uk/) ([Code](https://github.com/Olical/blog))
 - [David Wells](https://davidwells.io/) ([Code](https://github.com/DavidWells/davidwells.io))

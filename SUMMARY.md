@@ -521,6 +521,7 @@
     - [Recipes](health/nutrition/recipes.md)
     - [Fasting](health/nutrition/fasting.md)
     - [Supplements](health/nutrition/supplements.md)
+    - [Hydroponics](health/nutrition/hydroponics.md)
   - [Ergonomics](health/ergonomics.md)
   - [Aging](health/aging.md)
   - [Skin care](health/skin-care.md)
