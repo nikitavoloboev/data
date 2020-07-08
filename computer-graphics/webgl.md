@@ -24,3 +24,4 @@
 - [TTF file parsing (2019)](https://tchayen.github.io/ttf-file-parsing)
 - [Brief explanation of WebGL (2018)](https://tchayen.github.io/brief-explanation-of-webgl)
 - [WebGL with Three.js Program](https://www.notion.so/WebGL-with-Three-js-Program-0d9a048f1a4e4573880f7de77b11789f)
+- [Barebones WebGL in 75 lines of code (2020)](https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html)
