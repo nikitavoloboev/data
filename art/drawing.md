@@ -21,3 +21,4 @@ I am learning to draw on my iPad with [Procreate](https://procreate.art) app.
 - [Printed books by Edward Tufte](https://www.edwardtufte.com/tufte/)
 - [Successful Drawing by Andrew Loomis (1951)](https://www.goodreads.com/book/show/2001015.Successful_Drawing)
 - [Drawing on the Right Side of the Brain](https://www.drawright.com/)
+- [Elegy for Creative Independence](https://flowartestudio.ck.page/) - Art Session Worksheets.

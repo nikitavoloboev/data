@@ -84,3 +84,5 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Scrimba](https://scrimba.com/) - Learn to Code with Interactive Tutorials.
 - [room.sh](https://room.sh/) - Online meeting rooms with powerful collaboration tools.
 - [mmhmm](https://www.mmhmm.app/) - Clear, compelling communication for everyone.
+- [Building Cloudflare TV from scratch (2020)](https://blog.cloudflare.com/building-cloudflare-tv-from-scratch/) ([HN](https://news.ycombinator.com/item?id=23764596))
+- [Analysis of YouTube Trending Videos of 2019 (US)](https://ammar-alyousfi.com/2020/youtube-trending-videos-analysis-2019-us) ([HN](https://news.ycombinator.com/item?id=23762180))

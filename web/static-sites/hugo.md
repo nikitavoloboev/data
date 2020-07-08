@@ -31,3 +31,4 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [Switching a Hugo theme (2019)](https://misha.brukman.net/blog/2019/05/switching-hugo-theme/)
 - [Grouse](https://github.com/capnfabs/grouse) - Diff tool for Hugo static sites.
 - [Nice articles on Hugo](https://www.ronaldsvilcins.com/tags/hugo/)
+- [Hugo: a static-site generator explained (2020)](https://lwn.net/SubscriberLink/825507/77df07d41cec68c4/)

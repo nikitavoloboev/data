@@ -52,6 +52,7 @@ I also keep a list of [all games I have played](https://www.grouvee.com/user/nik
 - [shapez.io](https://github.com/tobspr/shapez.io) - Open source base building game inspired by factorio. ([Web](https://shapez.io/))
 - [MineJS](https://github.com/ian13456/mine.js) - Minecraft-like voxel engine built in JavaScript.
 - [Hypermine](https://github.com/Ralith/hypermine) - Minecraft-like game that is playable in a hyperbolic geometry. ([Demo](https://www.youtube.com/watch?v=AjCbkDCmNDo)) ([Wiki](https://github.com/Ralith/hypermine/wiki))
+- [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) - Open source re-creation of the popular game "Dune II".
 
 ## Recommendations
 

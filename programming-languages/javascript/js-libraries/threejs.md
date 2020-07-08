@@ -11,3 +11,4 @@
 - [react-xr](https://github.com/react-spring/react-xr) - VR/AR with react-three-fiber.
 - [drei](https://github.com/react-spring/drei) - Useful helpers for react-three-fiber.
 - [Bringing webgl to react - Paul Henschel (2020)](https://www.youtube.com/watch?v=YyqBdN71nFs)
+- [map33.js](https://github.com/blaze33/map33.js) - Library to build 3D maps with Three.js. ([HN](https://news.ycombinator.com/item?id=23762403))

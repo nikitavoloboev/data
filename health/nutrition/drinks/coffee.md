@@ -20,3 +20,4 @@
 - [How do you make coffee? (2020)](https://www.reddit.com/r/minimalism/comments/h7lr7a/how_do_you_make_coffee/)
 - [Health Effects of Coffee (2020)](https://www.mdpi.com/2072-6643/12/6/1842) ([HN](https://news.ycombinator.com/item?id=23599221))
 - [No More Coffee](https://jayriverlong.github.io/2020/06/30/coffee.html) ([HN](https://news.ycombinator.com/item?id=23708204))
+- [Caffenol: Developing Photos with Coffee and Vitamin C (2020)](https://www.youtube.com/watch?v=9bhOtTUtPhg) ([HN](https://news.ycombinator.com/item?id=23761554))
