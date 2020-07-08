@@ -12,3 +12,4 @@
 - [dask-ml](https://github.com/dask/dask-ml) - Scalable Machine Learning with Dask.
 - [Tom Augspurger: Scalable Machine Learning with Dask (2019)](https://www.youtube.com/watch?v=we1m4-IsbL8)
 - [Data Processing with Dask (2020)](https://www.pluralsight.com/tech-blog/data-processing-with-dask/)
+- [Dask Updates 2020](https://twitter.com/_JacobTomlinson/status/1280885857734590466)
