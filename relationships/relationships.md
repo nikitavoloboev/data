@@ -9,3 +9,4 @@ Be honest.
 - [What's your framework for determining whether a relationship is right for you? (2020)](https://twitter.com/eriktorenberg/status/1218264216689229826)
 - [Relationship advice from Dan Abramov (2020)](https://twitter.com/dan_abramov/status/1224308095070896134)
 - [How to find your ideal partner](https://twitter.com/KittyPlays/status/1087050463428587521)
+- [The Stable Marriage Problem and Modern Dating (2020)](https://www.arvarik.com/the-stable-marriage-problem-and-modern-dating) ([HN](https://news.ycombinator.com/item?id=23771876))

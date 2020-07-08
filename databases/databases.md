@@ -177,3 +177,4 @@
 - [RMI](https://github.com/learnedsystems/RMI) - Recursive model index, a learned index structure.
 - [SchemaHero](https://github.com/schemahero/schemahero) - Kubernetes operator for declarative database schema management. ([Web](https://schemahero.io/))
 - [TablaM](https://github.com/Tablam/TablaM) - Practical general language but tailored for data-manipulation and database (in the broad sense of the word) coding. ([Comment](https://news.ycombinator.com/item?id=23741945))
+- [What are databases? (2020)](https://dataguide.prisma.io/intro/what-are-databases)

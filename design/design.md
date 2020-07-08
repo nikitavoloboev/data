@@ -115,3 +115,5 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [Absurd Design](https://absurd.design/) - Free Surrealist Illustrations and Vector Art.
 - [Analysis of stripe.com page (2020)](https://twitter.com/coreyhainesco/status/1280566376596271104)
 - [Good Web Design](http://www.goodweb.design/) - Best landing pages, organized by section.
+- [Rora](https://rora.co/) - Design news and trends.
+- [Anima](https://www.animaapp.com/) - Design to code, automated.

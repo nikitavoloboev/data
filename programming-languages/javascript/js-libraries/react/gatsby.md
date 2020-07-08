@@ -21,6 +21,7 @@
 - [gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - Generate GitBook style modern docs/tutorial websites using Gatsby + MDX.
 - [gatsby-casper](https://github.com/scttcper/gatsby-casper) - Casper 2 blog starter for Gatsby.
 - [gatsby-london](https://github.com/ImedAdel/gatsby-london) - Free, open source, image-concentric starter for GatsbyJS.
+- [Blog Theme 2.0](https://www.gatsbyjs.org/blog/2020-07-08-blog-2.0/)
 
 ## Plugins
 

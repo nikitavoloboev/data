@@ -19,3 +19,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Gordon Ramsay's Scrambled Eggs](https://www.youtube.com/watch?v=PUP7U5vTMM0)
 - [Hummus to Halva: Recipes from a Levantine Kitchen](https://www.goodreads.com/book/show/53757692-hummus-to-halva)
 - [Kitchen Midori](https://www.instagram.com/kitchen_midori/) - Japanese home cooking, Fermentation & Matcha.
+- [Just Another Chocolate Chip Cookie Recipe](https://www.arvarik.com/just-another-chocolate-chip-cookie-recipe)
