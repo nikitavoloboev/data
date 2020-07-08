@@ -120,6 +120,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [George Bletsis](http://www.monstertree.co.uk/)
 - [Federico Italiano](https://www.instagram.com/federico._.italiano/)
 - [Mark Rothko](https://www.artsy.net/artist/mark-rothko)
+- [Robby Johnson](https://www.artstation.com/rjohnson)
 - [Fran Rodríguez](https://www.instagram.com/lacabezaenlasnubes/)
 - [Sage Jenson](https://sagejenson.com) - Generative art.
 - [Wenyi Geng](http://www.wenyigeng.com/)
