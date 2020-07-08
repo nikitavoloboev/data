@@ -77,3 +77,4 @@
 - [A guide to SwiftUI’s state management system (2020)](https://swiftbysundell.com/articles/swiftui-state-management-guide/)
 - [Twitter macOS Big Sur SwiftUI example app](https://github.com/jordansinger/twitter-macos-swiftui-sample)
 - [Todo example app for macOS Big Sur built in SwiftUI](https://github.com/jordansinger/todo-macos-swiftui-sample) ([Tweet](https://twitter.com/jsngr/status/1280280911968378882))
+- [Learning SwiftUI](https://joeyabanks.io/notes/learning-swift)

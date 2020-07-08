@@ -134,3 +134,4 @@
 - [Swift optimization notes](https://github.com/kelvin13/png/blob/master/benchmarks/README.md)
 - [Adding Core Data to a Swift Package (2020)](https://ishabazz.dev/blog/2020/7/5/using-core-data-with-swift-package-manager)
 - [Mark Moeykens's Swift videos](https://www.youtube.com/c/MarkMoeykens/playlists)
+- [What the heck are closures and why does Swift love them so much? (2020)](https://www.hackingwithswift.com/quick-start/understanding-swift/what-the-heck-are-closures-and-why-does-swift-love-them-so-much)

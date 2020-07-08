@@ -74,3 +74,4 @@ I made [my CV](http://nikitavoloboev.xyz/cv.pdf) using [Awesome CV](https://gith
 - [Orbit](https://github.com/sharu725/online-cv) - Minimal Jekyll Theme to host your resume.
 - [The Tech Resume Inside-Out](https://www.thetechinterview.com/)
 - [What I Learnt From Reviewing 22 CVs (2020)](https://youknowfordevs.com/2020/07/04/what-i-learnt-from-reviewing-22-cvs.html) ([HN](https://news.ycombinator.com/item?id=23757585))
+- [Résumé Templates](https://www.figma.com/community/file/827002814255067977)
