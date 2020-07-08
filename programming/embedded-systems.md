@@ -49,3 +49,4 @@
 - [Blech language](https://www.blech-lang.org/) - Embedded real-time programming.
 - [Rhai](https://github.com/jonathandturner/rhai) - Embedded scripting language for Rust.
 - [Rust on the ESP32 - SVD's, PAC's and USB flashing (2020)](https://mabez.dev/blog/posts/esp32-rust-svd-pac/) ([HN](https://news.ycombinator.com/item?id=23737451))
+- [Concurrency Patterns in Embedded Rust (2020)](https://ferrous-systems.com/blog/embedded-concurrency-patterns/)
