@@ -21,3 +21,4 @@
 - [Introduction to Graph Theory](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
 - [Graph Theory Textbooks](https://archive.org/details/GraphTheoryTextbooks)
 - [Kosaraju's Algorithm for finding Strongly Connected Components (2020)](https://hassamuddin.com/blog/kosaraju/)
+- [A Practical Introduction to Graphs (Network Diagrams) (2020)](https://healeycodes.com/practical-intro-to-graphs/)

@@ -13,3 +13,4 @@
 - [The evolution of Smalltalk: from Smalltalk-72 through Squeak (2020)](https://dl.acm.org/doi/abs/10.1145/3386335)
 - [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) ([HN](https://news.ycombinator.com/item?id=23496800))
 - [What FP can learn from Smalltalk - Aditya Siram (2018)](https://www.youtube.com/watch?v=baxtyeFVn3w)
+- [A Smalltalk-80 Interpreted Virtual Machine on LuaJIT](https://github.com/rochus-keller/Smalltalk) ([Lobsters](https://lobste.rs/s/vrvqhy/smalltalk_80_interpreted_virtual))

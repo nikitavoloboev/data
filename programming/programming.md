@@ -191,3 +191,4 @@
 - [Beginner’s Guide To Abstraction (2020)](https://jesseduffield.com/beginners-guide-to-abstraction/) ([HN](https://news.ycombinator.com/item?id=23735991))
 - [Code Only Says What it Does (2020)](http://brooker.co.za/blog/2020/06/23/code.html) ([HN](https://news.ycombinator.com/item?id=23749676))
 - [Concepts around building software](https://tslim.github.io/concepts/) ([Code](https://github.com/tslim/concepts))
+- [Evidence-based Software Engineering: based on the publicly available data](http://knosof.co.uk/ESEUR/)
