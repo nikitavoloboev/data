@@ -101,6 +101,7 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Sean Breckenridge](https://exobrain.sean.fish/) ([Code](https://github.com/seanbreckenridge/exobrain))
 - [Nat Eliason notes](https://www.nateliason.com/notes)
 - [Bharat’s Digital Garden](https://notes.bharatkalluri.in/)
+- [Chrisman Brown](https://github.com/chrisman/knowledge/wiki)
 - [Mike's Mind](https://mind.miketannenbaum.com/) ([Code](https://github.com/MikeTannenbaum/my-public-mind))
 - [David Seah](https://davidseah.gitbook.io/davidseah/) ([Code](https://github.com/davidseah/knowledgebank))
 - [Dercuano](https://gitlab.com/kragen/dercuano) - Although not freely available on the web, have to download a folder.
@@ -191,3 +192,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Growing the Evergreens (2020)](https://maggieappleton.com/evergreens)
 - [DigitalGardens subreddit](https://www.reddit.com/r/DigitalGardens/)
 - [Gardener](https://github.com/BharatKalluri/gardener) - Command line tool to help you manage your Knowledge management system / Digital Garden.
+- [On Bookmarks and Note Taking (2020)](https://chrisman.github.io/11.html)
