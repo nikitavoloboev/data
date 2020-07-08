@@ -79,3 +79,5 @@
 - [Todo example app for macOS Big Sur built in SwiftUI](https://github.com/jordansinger/todo-macos-swiftui-sample) ([Tweet](https://twitter.com/jsngr/status/1280280911968378882))
 - [Learning SwiftUI](https://joeyabanks.io/notes/learning-swift)
 - [Rdio macOS SwiftUI example app for Big Sur](https://github.com/jordansinger/rdio-macos-swiftui-sample)
+- [CatalystSidebarToolbar](https://github.com/steventroughtonsmith/CatalystSidebarToolbar) - Simple sidebar / NSToolbar example for Catalyst.
+- [Thinking in SwiftUI](https://www.objc.io/books/thinking-in-swiftui/) - A Transition Guide.

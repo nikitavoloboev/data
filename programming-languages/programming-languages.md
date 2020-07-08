@@ -97,3 +97,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [The Fatal Flaw of Ownership Semantics (2020)](https://www.gingerbill.org/article/2020/06/21/the-ownership-semantics-flaw/)
 - [The Pyret Code; or A Rationale for the Pyret Programming Language](https://www.pyret.org/pyret-code/index.html) ([Lobsters](https://lobste.rs/s/j0i8au/pyret_code_rationale_for_pyret))
 - [Statically Sized Higher-kinded Polymorphism (2020)](http://blog.ielliott.io/sized-hkts/) ([Lobsters](https://lobste.rs/s/vlndlq/statically_sized_higher_kinded))
+- [The language strangeness budget (2015)](https://steveklabnik.com/writing/the-language-strangeness-budget)

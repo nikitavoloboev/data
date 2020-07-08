@@ -223,6 +223,7 @@ Here are few more things I liked, design wise.
 - [Matt Swanson](https://mdswanson.com/)
 - [Josh Comeau](https://joshwcomeau.com/)
 - [Jon Gjengset](https://thesquareplanet.com/)
+- [Traf](https://tr.af/)
 - [Robert Squires](https://robertsquires.co.uk/)
 - [Mathias Schäfer](https://molily.de/)
 - [Marvin Schwaibold](https://www.marvinschwaibold.com/)

@@ -27,3 +27,4 @@ Use it for projects as a wiki of docs, notes, todos.
 - [Notion Help & Support](https://www.notion.so/Help-Support-e040febf70a94950b8620e6f00005004)
 - [My 2020 Setup in Notion](https://joeyabanks.io/notes/my-2020-setup-in-notion)
 - [Notion for Artists and Creatives](https://flowarte.com/notion-for-artists-and-creatives/)
+- [Super](https://super.so/) - Custom domains, fonts, and analytics for Notion.
