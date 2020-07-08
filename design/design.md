@@ -114,3 +114,4 @@ Thus I try to be conscious of how my design decisions affect what I do. I like t
 - [What's That Size?](https://www.notion.so/What-s-That-Size-ffcb03538efc4d05bec4363cde43a0bd) - Screen info & mockups for many modern devices.
 - [Absurd Design](https://absurd.design/) - Free Surrealist Illustrations and Vector Art.
 - [Analysis of stripe.com page (2020)](https://twitter.com/coreyhainesco/status/1280566376596271104)
+- [Good Web Design](http://www.goodweb.design/) - Best landing pages, organized by section.
