@@ -18,3 +18,4 @@
 - [Newsletter recs](https://twitter.com/SeanJoshuaHQ/status/1262037525960568832)
 - [Newsletter Stack](https://newsletterstack.com/) - Discover curated newsletters to help you learn about anything.
 - [Lovecroft](https://github.com/thesephist/lovecroft) - Minimal mailing list manager for static sites, with a simple JSON API.
+- [How to build your own Substack with Ghost (2020)](https://www.indiehackers.com/post/how-to-build-your-own-substack-with-ghost-9d061b0b79)

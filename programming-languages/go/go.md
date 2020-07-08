@@ -305,3 +305,4 @@ Go promotes composition over inheritance.
 - [A Go lesson learned: sometimes I don't want to use goroutines if possible (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoWhenNotManyGoroutines) ([Lobsters](https://lobste.rs/s/joicca/go_lesson_learned_sometimes_i_don_t_want))
 - [Why Go’s Error Handling is Awesome (2020)](https://rauljordan.com/2020/07/06/why-go-error-handling-is-awesome.html) ([HN](https://news.ycombinator.com/item?id=23758509)) ([Reddit](https://www.reddit.com/r/golang/comments/hmnhkz/why_gos_error_handling_is_awesome/))
 - [Keeping Your Modules Compatible (2020)](https://blog.golang.org/module-compatibility) ([HN](https://news.ycombinator.com/item?id=23761450))
+- [Using go/analysis to fix your source code (2020)](https://arslan.io/2020/07/07/using-go-analysis-to-fix-your-source-code/)

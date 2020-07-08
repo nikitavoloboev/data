@@ -173,6 +173,7 @@ Here are few more things I liked, design wise.
 - [Victor Zhou](https://victorzhou.com/) ([Code](https://github.com/vzhou842/victorzhou.com))
 - [Jonnie Hallman](https://destroytoday.com/)
 - [Monica Powell](https://www.aboutmonica.com/)
+- [Fatih Arslan](https://arslan.io/)
 - [Peter Steinberger](https://steipete.wtf/)
 - [Ben Mingo](https://benmingo.cargo.site/)
 - [Mark McGranaghan](https://markmcgranaghan.com/)
