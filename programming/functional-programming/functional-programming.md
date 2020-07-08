@@ -86,6 +86,7 @@
 - [Functional Programming for Array-Based Parallelism (2020)](https://www.infoq.com/presentations/functional-programming-parallelism/) ([HN](https://news.ycombinator.com/item?id=23536190))
 - [Graham Hutton: Publications](http://www.cs.nott.ac.uk/~pszgmh/bib.html)
 - [Queensland Functional Programming Lab](https://qfpl.io/)
+- [List of useful resources to learn typed FP](https://github.com/dewey92/typed-fp-good-reads)
 
 ## Images
 
