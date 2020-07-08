@@ -45,3 +45,4 @@
 - [Stories about the B5000 and people who were there (1979)](http://ed-thelen.org/comp-hist/B5000-AlgolRWaychoff.html) ([HN](https://news.ycombinator.com/item?id=23519816))
 - [Love letter to the Golden Age of Corporate Kitsch](https://www.instagram.com/__________office/)
 - [KGB Defector Yuri Bezmenov reveals Russian Subversion Tactics (1984)](https://www.youtube.com/watch?v=zgmg2VFX058)
+- [How 20 Famous Historical And Popular Figures looked like](https://www.boredpanda.com/digital-art-restoring-appearances-historical-figures-bas-uterwijk/)

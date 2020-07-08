@@ -192,4 +192,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [Growing the Evergreens (2020)](https://maggieappleton.com/evergreens)
 - [DigitalGardens subreddit](https://www.reddit.com/r/DigitalGardens/)
 - [Gardener](https://github.com/BharatKalluri/gardener) - Command line tool to help you manage your Knowledge management system / Digital Garden.
-- [On Bookmarks and Note Taking (2020)](https://chrisman.github.io/11.html)
+- [On Bookmarks and Note Taking (2020)](https://chrisman.github.io/11.html) ([Lobsters](https://lobste.rs/s/eg45vr/on_bookmarks_note_taking))

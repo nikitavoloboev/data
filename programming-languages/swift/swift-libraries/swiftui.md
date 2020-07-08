@@ -83,3 +83,5 @@
 - [Thinking in SwiftUI](https://www.objc.io/books/thinking-in-swiftui/) - A Transition Guide.
 - [Decision tree for how to define your SwiftUI properties (2020)](https://twitter.com/chriseidhof/status/1280433133813456896)
 - [Figma macOS Big Sur example app built in SwiftUI](https://github.com/jordansinger/figma-macos-swiftui-sample)
+- [SwiftUI Changelog](https://github.com/twostraws/swiftui-changelog) - Repository to track changes in the SwiftUI generated interface.
+- [SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture (2020)](https://www.fivestars.blog/code/section-title-index-swiftui.html)

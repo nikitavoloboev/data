@@ -53,3 +53,4 @@
 - [Arena](https://github.com/finestructure/Arena) - Command line tool to create an Xcode project with a Playground and an SPM library ready for use.
 - [Xcode Releases](https://xcodereleases.com/)
 - [Xcode::Install](https://github.com/xcpretty/xcode-install) - Install and update your Xcode.
+- [Full-screen development with Xcode and the Simulator (2020)](https://www.avanderlee.com/workflow/full-screen-xcode-simulator/)
