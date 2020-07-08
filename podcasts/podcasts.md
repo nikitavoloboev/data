@@ -135,3 +135,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Learning effectively with podcasts (2020)](https://networkedthought.substack.com/p/learning-effectively-with-podcasts)
 - [Podify](https://podify-org.github.io/) - Create podcasts from anything youtube-dl can handle. ([Reddit](https://www.reddit.com/r/selfhosted/comments/h7lkw2/podify_create_podcasts_from_anything_youtubedl/))
 - [‎Airr](https://apps.apple.com/us/app/airr-share-podcast-clips/id1355926315?ls=1) - Highlight podcasts.
+- [Podcast Stats](https://www.listennotes.com/podcast-stats/) - How many podcasts are there? ([HN](https://news.ycombinator.com/item?id=23773537))

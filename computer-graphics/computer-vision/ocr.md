@@ -8,3 +8,4 @@
 - [Awesome Scanning](https://github.com/ad-si/awesome-scanning) - Curated list of awesome projects to simplify and improve paper scannning.
 - [Awesome OCR](https://github.com/kba/awesome-ocr)
 - [Scale Document](https://scale.com/document) - Secure platform for document processing.
+- [Easy OCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai. ([HN](https://news.ycombinator.com/item?id=23768869))

@@ -99,3 +99,4 @@
 - [Deepnote](https://deepnote.com/) - Data science notebook for teams. ([Docs](https://docs.deepnote.com/))
 - [Towards Data Science blog](https://towardsdatascience.com/)
 - [Scaling Pandas: Dask vs Ray vs Modin vs Vaex vs RAPIDS (2020)](https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray) ([HN](https://news.ycombinator.com/item?id=23740012))
+- [A graphical analysis of women's tops sold on Goodwill's website](https://goodwill.awardwinninghuman.com/) ([HN](https://news.ycombinator.com/item?id=23768921))

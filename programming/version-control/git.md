@@ -141,3 +141,4 @@ I love Git and version control. And I use version control over any project I do.
 - [Ask HN: Git alternatives that aren't so complicated? (2020)](https://news.ycombinator.com/item?id=23670757)
 - [Git Concepts I Wish I Knew Years Ago (2020)](https://dev.to/g_abud/advanced-git-reference-1o9j)
 - [gitqlite](https://github.com/augmentable-dev/gitqlite) - Query git repositories with SQL. Uses SQLite virtual tables and go-git.
+- [Git commit accepts several message flags (-m) to allow multiline commits](https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits/) ([HN](https://news.ycombinator.com/item?id=23767866))

@@ -36,6 +36,7 @@
 - [Words and buttons Online Blog](https://wordsandbuttons.online/) ([Code](https://github.com/akalenuk/wordsandbuttons))
 - [Algorithms animated](https://www.chrislaux.com/)
 - [Cache Oblivious Algorithms (2020)](https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/) ([HN](https://news.ycombinator.com/item?id=23662434))
+- [You could have invented fractional cascading (2012)](http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/)
 
 ## Images
 

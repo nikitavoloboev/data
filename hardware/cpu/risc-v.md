@@ -27,3 +27,4 @@
 - [Bare metal RISC-V programming in Go (2020)](https://embeddedgo.github.io/2020/05/31/bare_metal_programming_risc-v_in_go.html)
 - [Awesome RISC-V](https://github.com/drom/awesome-riscv) - Curated list of awesome RISC-V implementations.
 - [seL4 is verified on RISC-V! (2020)](https://microkerneldude.wordpress.com/2020/06/09/sel4-is-verified-on-risc-v/) ([Lobsters](https://lobste.rs/s/2nnrmh/sel4_is_verified_on_risc_v))
+- [RISC-V CPU](https://github.com/openhwgroup/cva6) - Open source CPU capable of booting Linux. ([HN](https://news.ycombinator.com/item?id=23768080))

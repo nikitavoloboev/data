@@ -13,6 +13,7 @@
 - [Ask HN: What automation tools have you used to replace mundane activities? (2020)](https://news.ycombinator.com/item?id=22345150)
 - [Atbswp](https://github.com/rmpr/atbswp) - Minimalist keyboard macro and mouse recording and playback tool.
 - [The Art of Automation (2020)](https://blog.jessfraz.com/post/the-art-of-automation/)
+- [ElectroNeek](https://electroneek.com/) - Easy Robotic Process Automation. ([HN](https://news.ycombinator.com/item?id=23770214))
 
 ## Images
 

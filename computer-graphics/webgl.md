@@ -9,6 +9,7 @@
 - [OGL](https://github.com/oframe/ogl) - Minimal WebGL framework.
 - [glas](https://github.com/infamous/glas) - WebGL in WebAssembly with AssemblyScript.
 - [Raw WebGL](https://alain.xyz/blog/raw-webgl) - Overview on how to write a WebGL application. Learn what key data structures and types are needed to draw in WebGL.
+- [Raw WebGL slides](https://nickdesaulniers.github.io/RawWebGL/#/7)
 - [How to Create the Apple Fifth Avenue Cube in WebGL (2019)](https://tympanus.net/codrops/2019/12/20/how-to-create-the-apple-fifth-avenue-cube-in-webgl/)
 - [Moments of Happiness](https://moments.epic.net/#home) - Series of WebGL experiments developed to make you smile.
 - [WebGL Quake 3 Renderer](https://github.com/toji/webgl-quake3)
@@ -24,4 +25,4 @@
 - [TTF file parsing (2019)](https://tchayen.github.io/ttf-file-parsing)
 - [Brief explanation of WebGL (2018)](https://tchayen.github.io/brief-explanation-of-webgl)
 - [WebGL with Three.js Program](https://www.notion.so/WebGL-with-Three-js-Program-0d9a048f1a4e4573880f7de77b11789f)
-- [Barebones WebGL in 75 lines of code (2020)](https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html)
+- [Barebones WebGL in 75 lines of code (2020)](https://avikdas.com/2020/07/08/barebones-webgl-in-75-lines-of-code.html) ([HN](https://news.ycombinator.com/item?id=23770711))

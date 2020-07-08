@@ -116,3 +116,4 @@
 - [Ephemeral PostgreSQL](https://github.com/eradman/ephemeralpg) - Quickly spin up a temporary PostgreSQL test databases. ([Docs](http://eradman.com/ephemeralpg/))
 - [Managing PostgreSQL Logical Replication (2020)](http://eradman.com/posts/pubsub-pgoutput.html)
 - [Noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
+- [Foreign data wrappers: PostgreSQL's secret weapon? (2020)](https://www.splitgraph.com/blog/foreign-data-wrappers) ([HN](https://news.ycombinator.com/item?id=23769420))
