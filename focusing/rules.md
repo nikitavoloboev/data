@@ -40,7 +40,7 @@
 - When [focusing](../focusing/focusing.md), do the active task. No news/distractions. No context switching.
 - Spend mindful time on all devices. On iOS, listen to podcasts/books, read/chat. Minimize things that can be done faster on mac.
 - Do bodyweight exercises during the day to regain focus. Change environments for inspiration.
-- Listen to [focus song](https://twitter.com/trorez/status/1280440336855138304) on mac/iOS or [Dark Noise rain sound](https://github.com/nikitavoloboev/my-ios#widgets) or play [Focus playlist](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5?si=xD3AkrIRRhmeDoSPPer0wQ) / [Jazz](https://open.spotify.com/playlist/37i9dQZF1DX71VcjjnyaBQ?si=_LMsQq00T46b4zlNlrz7aw) when focusing. Or listen to nothing if non noisy environment.
+- Listen to [focus song](https://twitter.com/trorez/status/1280440336855138304) on mac/iOS or [Dark Noise sounds](https://github.com/nikitavoloboev/my-ios#widgets) or play [Focus playlist](https://open.spotify.com/playlist/0ESjwZeTcHOWzY3FYO5zs5?si=xD3AkrIRRhmeDoSPPer0wQ) / [Jazz](https://open.spotify.com/playlist/37i9dQZF1DX71VcjjnyaBQ?si=_LMsQq00T46b4zlNlrz7aw) when focusing. Or listen to nothing if non noisy environment.
 - Only have essential notifications setup. iOS is always in Do Not Disturb mode.
 - Say **no** to things. Set constraints & limits.
 - Never give up if problem's worth solving. Optimize for long term growth over short term gains.

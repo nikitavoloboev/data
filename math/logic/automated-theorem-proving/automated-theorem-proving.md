@@ -12,3 +12,4 @@
 - [Abella](http://abella-prover.org/) - Interactive theorem prover based on lambda-tree syntax. ([Code](https://github.com/abella-prover/abella))
 - [Poi](https://github.com/advancedresearch/poi) - Pragmatic point-free theorem prover assistant. ([HN](https://news.ycombinator.com/item?id=23193859))
 - [STP](https://github.com/stp/stp) - Simple Theorem Prover, an efficient SMT solver for bitvectors.
+- [Posts in the category "Every proof assistant"](http://math.andrej.com/category/every-proof-assistant/)

@@ -144,3 +144,4 @@
 - [What to do after installing Arch Linux: My advice to a new user (2020)](https://toffelblog.xyz/tips/arch-postinstall/)
 - [Scaling Linux Services: Before accepting connections (2020)](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html) ([HN](https://news.ycombinator.com/item?id=23729072))
 - [How does Linux's display work?](https://unix.stackexchange.com/questions/596894/how-does-linuxs-display-work)
+- [Sandboxing in Linux with zero lines of code (2020)](https://blog.cloudflare.com/sandboxing-in-linux-with-zero-lines-of-code/) ([Lobsters](https://lobste.rs/s/wqiw5n/sandboxing_linux_with_zero_lines_code))
