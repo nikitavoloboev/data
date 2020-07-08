@@ -36,6 +36,7 @@
 - [Got Users](https://www.gotusers.com/) - Marketing services. Without the risk.
 - [How To Sell (2020)](https://nabeelqu.co/post-selling) - Contains everything I wish I’d known, before I started, about doing sales at a startup.
 - [I got 400 signups with a video of a product that didn’t exist (2020)](https://www.lunadio.com/blog/i-got-400-signups-with-a-video-of-a-product-that-didnt-exist) ([HN](https://news.ycombinator.com/item?id=23764098))
+- [How today's fastest growing B2B businesses found their first ten customers (2020)](https://www.lennyrachitsky.com/p/how-todays-fastest-growing-b2b-businesses)
 
 ## Images
 

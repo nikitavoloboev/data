@@ -63,7 +63,7 @@
 - [POT: Python Optimal Transport](https://github.com/rflamary/POT) - Provide several solvers for optimization problems related to Optimal Transport for signal, image processing and machine learning.
 - [Pampy](https://github.com/santinic/pampy) - Pattern Matching for Python you always dreamed of.
 - [StrictYAML](https://github.com/crdoconnor/strictyaml) - Type-safe YAML parser and validator.
-- [coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.
+- [coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming. ([Web](http://coconut-lang.org/)) ([HN](https://news.ycombinator.com/item?id=23759721))
 - [Hydra](https://github.com/facebookresearch/hydra) - Framework for elegantly configuring complex applications.
 - [Toolz](https://github.com/pytoolz/toolz) - Set of utility functions for iterators, functions, and dictionaries.
 - [PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python.
