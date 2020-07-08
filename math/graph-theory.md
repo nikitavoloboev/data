@@ -20,3 +20,4 @@
 - [Better geometry through graph theory (2018)](https://ideolalia.com/2018/08/28/artifex.html) ([HN](https://news.ycombinator.com/item?id=23671130))
 - [Introduction to Graph Theory](https://www.maths.ed.ac.uk/~v1ranick/papers/wilsongraph.pdf)
 - [Graph Theory Textbooks](https://archive.org/details/GraphTheoryTextbooks)
+- [Kosaraju's Algorithm for finding Strongly Connected Components (2020)](https://hassamuddin.com/blog/kosaraju/)

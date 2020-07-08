@@ -71,3 +71,4 @@
 - [The C4 model for visualising software architecture](https://c4model.com/) - Context, Containers, Components and Code.
 - [Modelling software architecture with PlantUML (2020)](https://dev.to/simonbrown/modelling-software-architecture-with-plantuml-56fc)
 - [A terrible, horrible, no-good, bad day at Slack (2020)](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82) ([HN](https://news.ycombinator.com/item?id=23755843))
+- [LOOPY](https://ncase.me/loopy/) - Tool for thinking in systems. ([HN](https://news.ycombinator.com/item?id=23765297))

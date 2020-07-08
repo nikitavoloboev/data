@@ -35,4 +35,4 @@ It's very useful to use [ShellCheck](https://www.shellcheck.net) to check any sh
 - [A Bash Cheat Sheet: Top 25 most-used commands, and how to create custom commands (2020)](https://medium.com/better-programming/bash-cheat-sheet-top-25-commands-and-creating-custom-commands-75941dcdc450)
 - [Bash Env Variable Defaults](https://www.yesthatblog.com/post/0065-env-defaults/)
 - [Using Bash traps in your scripts (2020)](https://opensource.com/article/20/6/bash-trap)
-- [Help message for shell scripts (2020)](https://samizdat.dev/help-message-for-shell-scripts/) ([HN](https://news.ycombinator.com/item?id=23763166))
+- [Help message for shell scripts (2020)](https://samizdat.dev/help-message-for-shell-scripts/) ([HN](https://news.ycombinator.com/item?id=23763166)) ([Lobsters](https://lobste.rs/s/5njqrb/help_message_for_shell_scripts))
