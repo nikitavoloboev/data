@@ -81,3 +81,4 @@
 - [Rdio macOS SwiftUI example app for Big Sur](https://github.com/jordansinger/rdio-macos-swiftui-sample)
 - [CatalystSidebarToolbar](https://github.com/steventroughtonsmith/CatalystSidebarToolbar) - Simple sidebar / NSToolbar example for Catalyst.
 - [Thinking in SwiftUI](https://www.objc.io/books/thinking-in-swiftui/) - A Transition Guide.
+- [Decision tree for how to define your SwiftUI properties (2020)](https://twitter.com/chriseidhof/status/1280433133813456896)
