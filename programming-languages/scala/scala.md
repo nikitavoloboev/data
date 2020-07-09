@@ -38,3 +38,4 @@
 - [Formalizing scala with dependent object types (2019)](https://uwspace.uwaterloo.ca/bitstream/handle/10012/15322/Rapoport_Marianna.pdf?sequence=7&isAllowed=y)
 - [Effekt (2019)](http://ps.informatik.uni-tuebingen.de/publications/brachthaeuser19effekt.pdf) - Type and Effect-Safe, Extensible Effect Handlers in Scala.
 - [mdoc](https://github.com/scalameta/mdoc) - Typechecked markdown documentation for Scala.
+- [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference/) ([Code](https://github.com/superruzafa/visual-scala-reference))
