@@ -82,3 +82,4 @@
 - [Minimalistic Gridworld Environment (MiniGrid)](https://github.com/maximecb/gym-minigrid)
 - [Meta-Learning Curiosity Algorithms](https://github.com/mfranzs/meta-learning-curiosity-algorithms)
 - [Reinforcement Learning in Swift](https://github.com/eaplatanios/swift-rl)
+- [dm_env](https://github.com/deepmind/dm_env) - DeepMind RL Environment API.
