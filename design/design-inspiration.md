@@ -11,6 +11,7 @@ Here are few more things I liked, design wise.
 - [Linear](https://linear.app/)
 - [Apple](https://www.apple.com/)
 - [Supernotes](https://supernotes.app/)
+- [Mailbrew](https://mailbrew.com/)
 - [Fey](https://feyapp.com/)
 - [Dribble](https://dribbble.com/)
 - [Swipe Files](https://www.swipefiles.co/)

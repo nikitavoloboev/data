@@ -109,3 +109,5 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Webfont Handbook](https://abookapart.com/products/webfont-handbook) - From selection to optimization, learn how to make the web a more visually diverse, efficient, and readable environment.
 - [Runebender](https://github.com/linebender/runebender) - Font editor written in Rust.
 - [Why not just use bitmap fonts? (2020)](https://dataswamp.org/~lich/musings/bitmap-fonts.html) ([Lobsters](https://lobste.rs/s/reqhua/why_not_just_use_bitmap_fonts))
+- [Wikimedia FontCDN](https://fontcdn.toolforge.org/) - Anonymizing, privacy-first reverse proxy to Google Fonts. ([HN](https://news.ycombinator.com/item?id=23776786))
+- [99 Font Pairings & Typeface Combinations](https://fontpairings.bypeople.com/)
