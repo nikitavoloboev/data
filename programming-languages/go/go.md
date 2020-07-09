@@ -306,3 +306,4 @@ Go promotes composition over inheritance.
 - [Why Go’s Error Handling is Awesome (2020)](https://rauljordan.com/2020/07/06/why-go-error-handling-is-awesome.html) ([HN](https://news.ycombinator.com/item?id=23758509)) ([Reddit](https://www.reddit.com/r/golang/comments/hmnhkz/why_gos_error_handling_is_awesome/))
 - [Keeping Your Modules Compatible (2020)](https://blog.golang.org/module-compatibility) ([HN](https://news.ycombinator.com/item?id=23761450))
 - [Using go/analysis to fix your source code (2020)](https://arslan.io/2020/07/07/using-go-analysis-to-fix-your-source-code/)
+- ["Interface smuggling", a Go design pattern for expanding APIs (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoInterfaceSmuggling)

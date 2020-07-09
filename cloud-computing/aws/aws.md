@@ -87,3 +87,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [Looking to reduce AWS EC2 spend? Save up to \$750k with these guidelines! (2020)](https://medium.com/@kavehkhorram/looking-to-reduce-your-aws-costs-save-up-to-750k-with-these-guidelines-e2e6666be912)
 - [S3 Bucket Monitoring](https://cronitor.io/s3-monitoring) - Ensure private buckets stay private and public buckets are correct.
 - [The Extended AWS Security Ramp-Up Guide (2020)](https://research.nccgroup.com/2020/04/24/the-extended-aws-security-ramp-up-guide/)
+- [Usage](https://www.usage.ai/) - Reduce your AWS spend. With no risk. 44% average savings. ([HN](https://news.ycombinator.com/item?id=23776894))
