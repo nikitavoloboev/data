@@ -42,3 +42,4 @@ Learning to build [startups](startups/startups.md).
 - [Building an Engineering Ladder at Glossier (2020)](https://medium.com/glossier/building-an-engineering-ladder-at-glossier-e7fc3a390695)
 - [Ask HN: Best ways to retain qualified employees? (2020)](https://news.ycombinator.com/item?id=23746156)
 - [XOLO](https://www.xolo.io/) - Forget any worries about your solo business setup, accounting and getting a bank account. We do it for you, 100% online.
+- [Most Interesting Business Essay You’ve Read? (2020)](https://kscarrott.com/biz-essays/)
