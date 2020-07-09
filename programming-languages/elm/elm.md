@@ -37,3 +37,4 @@
 - [Escher-in-Elm Workshop](https://github.com/einarwh/escher-workshop)
 - [Ellie](https://ellie-app.com/) - Elm Live Editor. ([Code](https://github.com/ellie-app/ellie))
 - [Beginning Elm](https://elmprogramming.com/) - Gentle introduction to Elm programming language.
+- [Evan Czaplicki - The life of a file (2017)](https://www.youtube.com/watch?v=XpDsk374LDE)

@@ -89,7 +89,7 @@
 - [libmdbx](https://github.com/erthink/libmdbx) - Extremely fast, compact, powerful, embedded, transactional key-value store database.
 - [Realm](https://github.com/realm/realm-core) - Mobile database that runs directly inside phones, tablets or wearables.
 - [HSE](https://github.com/hse-project/hse) - Embeddable key-value store designed for SSDs based on NAND flash or persistent memory.
-- [GhostDB](https://github.com/jakekgrog/GhostDB) - Distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale.
+- [GhostDB](https://github.com/jakekgrog/GhostDB) - Distributed, in-memory, general purpose key-value data store that delivers microsecond performance at any scale. ([HN](https://news.ycombinator.com/item?id=23774174))
 
 ## Tools
 
