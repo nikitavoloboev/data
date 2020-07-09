@@ -42,6 +42,10 @@
 - [24a2](https://github.com/jamesroutley/24a2) - Ultra-minimalist game engine. ([HN](https://news.ycombinator.com/item?id=23664814)) ([Web](https://24a2.routley.io/))
 - [OpenRA](https://www.openra.net/) - Libre/Free Real Time Strategy game engine supporting early Westwood classics. ([Web](https://www.openra.net/))
 
+## Physics engines
+
+- [MuJoCo](https://github.com/openai/mujoco-py) - Physics engine for detailed, efficient rigid body simulations with contacts.
+
 ## Links
 
 - [A first-person engine in 265 lines](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)

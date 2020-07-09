@@ -83,3 +83,4 @@
 - [Meta-Learning Curiosity Algorithms](https://github.com/mfranzs/meta-learning-curiosity-algorithms)
 - [Reinforcement Learning in Swift](https://github.com/eaplatanios/swift-rl)
 - [dm_env](https://github.com/deepmind/dm_env) - DeepMind RL Environment API.
+- [SURREAL](https://github.com/SurrealAI/surreal) - Fully integrated framework that runs state-of-the-art distributed reinforcement learning (RL) algorithms.
