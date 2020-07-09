@@ -69,6 +69,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))
 - [MessageBird](https://messagebird.com/en/) - Zero friction, omnichannel communication. ([HN](https://news.ycombinator.com/item?id=23624854))
 - [Litho](https://www.litho.cc/) - Allows for intuitive and precise input with its touch surface on the underside, custom haptic feedback system and array of motion-tracking sensors.
+- [Texts](https://texts.com/) - One inbox. All your texts.
 - [Wire](https://wire.com/en/) - Modern day collaboration meets the most advanced security and superior user experience. ([Code](https://github.com/wireapp/wire))
 - [Commento](https://commento.io/) - Fast, privacy-focused commenting platform.
 - [Raindrop](https://raindrop.io/) - All-in-one bookmark manager.

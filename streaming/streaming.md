@@ -38,3 +38,4 @@ Here are tools I use for streaming:
 - [OBS-web](https://github.com/Niek/obs-web) - Control OBS from the browser. ([HN](https://news.ycombinator.com/item?id=23573474))
 - [How to Livestream Code and Design on Twitch](https://www.christopherbiscardi.com/how-to-livestream-code-and-design-on-twitch)
 - [My streaming setup (2020)](https://beesbuzz.biz/articles/5442-My-streaming-setup)
+- [Tips for setting up remote lessons — 3Blue1Brown (2020)](https://www.3blue1brown.com/blog/livestream-setup)

@@ -86,3 +86,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [How we got our AWS bill to around 2% of revenue (2020)](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it) ([HN](https://news.ycombinator.com/item?id=23666999))
 - [Looking to reduce AWS EC2 spend? Save up to \$750k with these guidelines! (2020)](https://medium.com/@kavehkhorram/looking-to-reduce-your-aws-costs-save-up-to-750k-with-these-guidelines-e2e6666be912)
 - [S3 Bucket Monitoring](https://cronitor.io/s3-monitoring) - Ensure private buckets stay private and public buckets are correct.
+- [The Extended AWS Security Ramp-Up Guide (2020)](https://research.nccgroup.com/2020/04/24/the-extended-aws-security-ramp-up-guide/)

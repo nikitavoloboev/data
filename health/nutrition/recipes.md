@@ -20,3 +20,4 @@ Inspired by [Thomas' Breakfast Smoothie](https://docs.google.com/spreadsheets/d/
 - [Hummus to Halva: Recipes from a Levantine Kitchen](https://www.goodreads.com/book/show/53757692-hummus-to-halva)
 - [Kitchen Midori](https://www.instagram.com/kitchen_midori/) - Japanese home cooking, Fermentation & Matcha.
 - [Just Another Chocolate Chip Cookie Recipe](https://www.arvarik.com/just-another-chocolate-chip-cookie-recipe)
+- [Brunch the Sunday Way (2020)](https://www.goodreads.com/book/show/53004549-brunch-the-sunday-way) ([Tweet](https://twitter.com/dan_abramov/status/1281010364721881088))
