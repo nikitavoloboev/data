@@ -28,3 +28,4 @@
 - [VaxNow](https://vaxnow.org/) - Friendly Immunization App.
 - [Corona Warn App Docs](https://github.com/corona-warn-app/cwa-documentation)
 - [Effective Reproduction Number for COVID-19](https://rt.live/) ([Code](https://github.com/rtcovidlive/covid-dash))
+- [Viruses and the Evolution of Life (2005)](https://www.asmscience.org/content/book/10.1128/9781555817626)

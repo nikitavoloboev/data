@@ -15,7 +15,7 @@
 - [Functional Programming for Mortals with Scala book](https://leanpub.com/fpmortals/read)
 - [Functional Programming in Scala book](https://www.manning.com/books/functional-programming-in-scala)
 - [Scala Almost Succeeded (2019)](https://medium.com/@fommil/scala-almost-succeeded-c3b1028b02c5) ([Lobsters](https://lobste.rs/s/ku13t3/scala_almost_succeeded))
-- [Scala Exercises](https://github.com/scala-exercises/scala-exercises) - Easy way to learn Scala.
+- [Scala Exercises](https://www.scala-exercises.org/) - Easy way to learn Scala. ([Code](https://github.com/scala-exercises/scala-exercises))
 - [Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"](https://github.com/fpinscala/fpinscala)
 - [Scala typeclassopedia](https://github.com/lemastero/scala_typeclassopedia) - Abstractions and constructions from math (Category theory, Abstract algebra) implementations in Scala.
 - [A Tour of Scala 3 - Martin Odersky (2019)](https://www.youtube.com/watch?v=_Rnrx2lo9cw)

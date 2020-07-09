@@ -11,3 +11,4 @@
 - [Unidecode](https://github.com/avian2/unidecode) - Lossy ASCII transliterations of Unicode text.
 - [BARE Message Encoding](https://baremessages.org/) - Simple binary representation for structured application data. ([Lobsters](https://lobste.rs/s/r9phjo/bare_message_encoding))
 - [Explaining text representation in computers (2020)](https://twitter.com/Cor3ntin/status/1277905449065553921)
+- [Text Encoding: The Thing You Were Trying to Avoid (2020)](https://pboyd.io/posts/text-encoding/)
