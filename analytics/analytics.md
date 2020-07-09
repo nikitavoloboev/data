@@ -16,7 +16,7 @@ If analytics are used, it's best to implement them server side with something li
 - [Analytics.js](https://github.com/segmentio/analytics.js) - Hassle-free way to integrate analytics into any web application.
 - [Kedro](https://github.com/quantumblacklabs/kedro) - Python library for building robust production-ready data and analytics pipelines. ([Article](https://medium.com/@QuantumBlack/introducing-kedro-the-open-source-library-for-production-ready-machine-learning-code-d1c6d26ce2cf))
 - [Plausible Insights](https://github.com/plausible-insights/plausible) - Simple, lightweight analytics for your website.
-- [Metabase](https://www.metabase.com/) - Easy, open source way for everyone in your company to ask questions and learn from data. ([OSS](https://github.com/metabase/metabase)) ([Binary deployment](https://github.com/metabase/metabase-deploy))
+- [Metabase](https://www.metabase.com/) - Easy, open source way for everyone in your company to ask questions and learn from data. ([Code](https://github.com/metabase/metabase)) ([Binary deployment](https://github.com/metabase/metabase-deploy))
 - [OmniSci](https://www.omnisci.com/) - Interactively query, visualize, and power data science workflows over billions of records.
 - [Freshlytics](https://github.com/sheshbabu/freshlytics) - Open source privacy-friendly analytics software. It aims to be reliable, friendly to use and easy to deploy.
 - [GoatCounter](https://www.goatcounter.com/) - Simple web statistics. No tracking of personal data. ([Code](https://github.com/zgoat/goatcounter))

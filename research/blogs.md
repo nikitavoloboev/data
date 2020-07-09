@@ -50,6 +50,7 @@ I share my [XML subscription feed of blogs I follow](https://gist.github.com/nik
 - [Technically](https://technically.dev/posts-archive.html)
 - [the morning paper](https://blog.acolyer.org/)
 - [Fabian Tamp](https://capnfabs.net/posts/)
+- [NSHipster](https://nshipster.com/)
 
 ## Links
 

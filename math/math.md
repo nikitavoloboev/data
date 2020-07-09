@@ -75,8 +75,8 @@
 - [Ask HN: Where can I do a self-study math degree online? (2019)](https://news.ycombinator.com/item?id=19902746)
 - [Beautiful Math](https://www.scientificamerican.com/article/beautiful-math/) - New book shows off spectacular works of art inspired by mathematical principles.
 - [Cardano's formula (2019)](https://benoncoffee.github.io/2019/05/20/cardanos-formula/) ([Lobsters](https://lobste.rs/s/vlzdnj/cardano_s_formula))
-- [Collection of computational playthings](https://jlpaca.github.io/toybox/) ([OSS](https://github.com/jlpaca/toybox))
-- [Approach0](https://approach0.xyz/search/) - Math-aware search engine. ([OSS](https://github.com/approach0/search-engine))
+- [Collection of computational playthings](https://jlpaca.github.io/toybox/) ([Code](https://github.com/jlpaca/toybox))
+- [Approach0](https://approach0.xyz/search/) - Math-aware search engine. ([Code](https://github.com/approach0/search-engine))
 - [Think in Math. Write in Code. (2019)](https://justinmeiners.github.io/think-in-math/) ([HN](https://news.ycombinator.com/item?id=20468057))
 - [Analysing Mathematical Reasoning Abilities of Neural Models (2019)](https://arxiv.org/abs/1904.01557)
 - [Cambridge Maths Outline (2019)](https://www-wp.maths.cam.ac.uk/documents/schedules.pdf/)

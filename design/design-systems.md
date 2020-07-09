@@ -9,7 +9,7 @@
 - [Orbit](https://orbit.kiwi/) - Open source design system for your next travel project.
 - [Chakra UI](https://github.com/chakra-ui/chakra-ui) - Simple, Modular & Accessible UI Components for your React Applications. ([HN](https://news.ycombinator.com/item?id=23511811))
 - [Reach UI](https://github.com/reach/reach-ui) - Accessible Foundation for React Apps and Design Systems.
-- [Latitude](https://www.flexport.com/design) - Design guidelines, component documentation, styling instructions, and resources for building interfaces with Flexport’s design system. ([HN](https://news.ycombinator.com/item?id=21461579)) ([OSS](https://github.com/flexport/latitude))
+- [Latitude](https://www.flexport.com/design) - Design guidelines, component documentation, styling instructions, and resources for building interfaces with Flexport’s design system. ([HN](https://news.ycombinator.com/item?id=21461579)) ([Code](https://github.com/flexport/latitude))
 - [Vercel](https://vercel.com/design)
 - [Primer](https://primer.style/) - Design, build, and create with GitHub’s design system. ([Team](https://primer.style/about/#team/))
 - [Fannypack](https://github.com/fannypackui/fannypack) - Friendly, themeable, accessible React UI Kit built with Reakit.

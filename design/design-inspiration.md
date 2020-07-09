@@ -376,12 +376,12 @@ Here are few more things I liked, design wise.
 - [Ayaka B. Ito](http://ayakaito.com/)
 - [Rekka Bellum](https://kokorobot.ca/#about)
 - [Juliette Pretot](https://juliette.sh/) ([Code](https://github.com/juliettepretot/jul.sh))
-- [Max Stoiber](https://mxstbr.com/) - [OSS](https://github.com/mxstbr/mxstbr.com)
+- [Max Stoiber](https://mxstbr.com/) - [Code](https://github.com/mxstbr/mxstbr.com)
 - [Aprile](https://aprileelcich.com/)
 - [Maarten Corpel](http://maartencorpel.com/)
 - [Stephanie Nemeth](https://stephanie.lol/#about)
 - [Dave Whyte](http://beesandbombs.com/)
-- [John Morris](http://johnmorris.io/) - Simple. [OSS](https://github.com/johnpmorris/johnpmorris.github.io).
+- [John Morris](http://johnmorris.io/) - Simple. [Code](https://github.com/johnpmorris/johnpmorris.github.io).
 - [Alex Carpenter](https://alexcarpenter.me/)
 - [Nuno Leites](https://nunoleites.com/)
 - [Alexey Taktarov](https://molefrog.com/) - Simple.

@@ -38,7 +38,7 @@
 - [Rust Analyzer](https://github.com/rust-analyzer/rust-analyzer) - Experimental Rust compiler front-end for IDEs. ([Web](https://rust-analyzer.github.io/))
 - [Rust at speed — building a fast concurrent database (2018)](https://www.youtube.com/watch?v=s19G6n0UjsM&t=0s)
 - [You can't Rust that (2018)](http://lucumr.pocoo.org/2018/3/31/you-cant-rust-that/)
-- [Rust Playground](https://play.rust-lang.org/) - Run Rust code online. [OSS](https://github.com/integer32llc/rust-playground).
+- [Rust Playground](https://play.rust-lang.org/) - Run Rust code online. [Code](https://github.com/integer32llc/rust-playground). ([HN](https://news.ycombinator.com/item?id=23779659))
 - [crates.io](https://github.com/rust-lang/crates.io) - Source code for [crates.io](https://crates.io/)
 - [Read Rust](https://readrust.net/) - Collects interesting posts related to the Rust programming language.
 - [A Quick Look at Trait Objects in Rust (2019)](https://tratt.net/laurie/blog/entries/a_quick_look_at_trait_objects_in_rust.html)
@@ -58,7 +58,7 @@
 - [Rust RFCs](https://github.com/rust-lang/rfcs)
 - [2019 Roadmap for Rust](https://github.com/rust-lang/rfcs/blob/master/text/2657-roadmap-2019.md)
 - [Rust RFCs](https://github.com/rust-lang/rfcs)
-- [Learning Rust](https://learning-rust.github.io/) - Materials for learning Rust. ([OSS](https://github.com/learning-rust/site))
+- [Learning Rust](https://learning-rust.github.io/) - Materials for learning Rust. ([Code](https://github.com/learning-rust/site))
 - [Rust types cheat sheet](https://upsuper.github.io/rust-cheatsheet/) ([Code](https://github.com/upsuper/rust-cheatsheet))
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - Collection of simple examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
 - [hello-rust](https://github.com/jwiegley/hello-rust) - Simple hello world in Rust, with a Nix environment.

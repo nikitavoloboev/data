@@ -16,7 +16,7 @@ Is logical theory of computable functions.
 - [minitt-rs](https://github.com/owo-lang/minitt-rs) - Rust implementation of Mini-TT, a simple dependently-typed lambda calculus.
 - [A Gentle Introduction to Lambda Calculus - Part 1: Syntax (2018)](https://lucasfcosta.com/2018/07/29/An-Introduction-to-Lambda-Calculus-Part-1.html)
 - [Mikrokosmosai](https://github.com/mroman42/mikrokosmos) - Educational λ-calculus interpreter.
-- [Category Theory and Lambda Calculus (2018)](https://github.com/mroman42/ctlc) ([OSS](https://github.com/mroman42/ctlc))
+- [Category Theory and Lambda Calculus (2018)](https://github.com/mroman42/ctlc) ([Code](https://github.com/mroman42/ctlc))
 - [The Impact of the Lambda Calculus (1997) [pdf]](http://www-users.mat.umk.pl/~adwid/materialy/doc/church.pdf) ([HN](https://news.ycombinator.com/item?id=19835615))
 - [path](https://github.com/robrix/path) - Lambda calculus to explore type-directed program synthesis.
 - [Fine-grain implementations of common lambda calculi in Haskell, tested with QuickCheck](https://github.com/lukeg101/lplzoo)
