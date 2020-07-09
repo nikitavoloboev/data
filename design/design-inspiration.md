@@ -165,6 +165,7 @@ Here are few more things I liked, design wise.
 - [Rakhim](https://rakhim.org/)
 - [Max Woolf](https://minimaxir.com/)
 - [Jason Webb](https://jasonwebb.io/)
+- [Kitze](https://kitze.io/)
 - [Maxime Heckel](https://blog.maximeheckel.com/) ([Code](https://github.com/MaximeHeckel/blog.maximeheckel.com))
 - [Cassidy Williams](https://cassidoo.co/)
 - [Nicholas Carlini](https://nicholas.carlini.com/)

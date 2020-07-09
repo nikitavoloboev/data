@@ -84,3 +84,4 @@
 - [Reinforcement Learning in Swift](https://github.com/eaplatanios/swift-rl)
 - [dm_env](https://github.com/deepmind/dm_env) - DeepMind RL Environment API.
 - [SURREAL](https://github.com/SurrealAI/surreal) - Fully integrated framework that runs state-of-the-art distributed reinforcement learning (RL) algorithms.
+- [Suggestions of good RL courses (2020)](https://www.reddit.com/r/reinforcementlearning/comments/hnebb8/i_need_suggestions_on_good_rl_courses/)

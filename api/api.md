@@ -40,6 +40,7 @@
 - [Reddit JS](https://github.com/feross/reddit) - Simple Reddit API client in JS.
 - [Goodreads API Go](https://github.com/KyleBanks/goodreads)
 - [SendGrid Go](https://github.com/sendgrid/sendgrid-go)
+- [Fastly Go](https://github.com/fastly/cli) - CLI for interacting with the Fastly platform.
 - [Discord Rust](https://github.com/twilight-rs/twilight)
 - [Discord Rust 2](https://github.com/serenity-rs/serenity)
 - [Discord Go](https://github.com/bwmarrin/discordgo) - Go bindings for Discord.
