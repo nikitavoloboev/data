@@ -39,3 +39,5 @@
 - [Effekt (2019)](http://ps.informatik.uni-tuebingen.de/publications/brachthaeuser19effekt.pdf) - Type and Effect-Safe, Extensible Effect Handlers in Scala.
 - [mdoc](https://github.com/scalameta/mdoc) - Typechecked markdown documentation for Scala.
 - [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference/) ([Code](https://github.com/superruzafa/visual-scala-reference))
+- [Martin Odersky – A Scala 3 Update](https://www.youtube.com/watch?v=Z0w_pITUTyU) ([Reddit](https://www.reddit.com/r/scala/comments/hngs27/martin_odersky_a_scala_3_update/))
+- [Dotty](https://github.com/lampepfl/dotty) - Research compiler that will become Scala 3. ([Web](https://dotty.epfl.ch/))
