@@ -20,3 +20,4 @@
 - [hashring](https://github.com/serialx/hashring) - Implements consistent hashing that can be used when the number of server nodes can increase or decrease (like in memcached).
 - [t1ha](https://github.com/erthink/t1ha) - One of the fastest hash functions.
 - [hashmap.c](https://github.com/tidwall/hashmap.c) - Hash map implementation in C.
+- [Hashmaps Benchmarks (2019)](https://martin.ankerl.com/2019/04/01/hashmap-benchmarks-01-overview/)
