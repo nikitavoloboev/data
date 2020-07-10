@@ -111,3 +111,4 @@ I use [Fira Code](https://github.com/tonsky/FiraCode) for Sublime Text. And I lo
 - [Why not just use bitmap fonts? (2020)](https://dataswamp.org/~lich/musings/bitmap-fonts.html) ([Lobsters](https://lobste.rs/s/reqhua/why_not_just_use_bitmap_fonts))
 - [Wikimedia FontCDN](https://fontcdn.toolforge.org/) - Anonymizing, privacy-first reverse proxy to Google Fonts. ([HN](https://news.ycombinator.com/item?id=23776786))
 - [99 Font Pairings & Typeface Combinations](https://fontpairings.bypeople.com/)
+- [Capsize](https://seek-oss.github.io/capsize/) - Flipping how we define typography in CSS.
