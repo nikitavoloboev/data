@@ -174,6 +174,7 @@
 - [The Surprising Things That CSS Can Animate (2020)](https://codersblock.com/blog/the-surprising-things-that-css-can-animate/)
 - [A Complete Guide to Dark Mode on the Web (2020)](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
 - [Uncommon CSS Properties (2020)](https://ishadeed.com/article/uncommon-css/)
-- [1-Line Layouts](http://1linelayouts.glitch.me/) - 10 Modern CSS layout and sizing techniques that highlight just how robust and impactful a single-line of styling code can be. ([Article](https://web.dev/one-line-layouts/))
+- [1-Line Layouts](http://1linelayouts.glitch.me/) - 10 Modern CSS layout and sizing techniques that highlight just how robust and impactful a single-line of styling code can be. ([Article](https://web.dev/one-line-layouts/)) ([Lobsters](https://lobste.rs/s/qgbgab/ten_modern_layouts_one_line_css))
 - [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html) ([HN](https://news.ycombinator.com/item?id=23736540))
 - [CSS News July 2020](https://www.smashingmagazine.com/2020/07/css-news-july-2020/)
+- [ZeroDivs](https://zerodivs.com/#/) - UI editor for single-element CSS illustrations. ([HN](https://news.ycombinator.com/item?id=23781559))

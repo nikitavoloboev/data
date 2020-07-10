@@ -15,3 +15,4 @@
 - [Productivity for Parents: Square’s Restaurant Product Lead on integrating career and family (2020)](https://superorganizers.substack.com/p/productivity-for-parents)
 - [Growing Independence (2020)](https://www.jefftk.com/p/growing-independence) ([HN](https://news.ycombinator.com/item?id=23462170))
 - [Coding with kids (2020)](https://dev.solita.fi/2020/06/12/coding-with-kids.html) ([Lobsters](https://lobste.rs/s/b6zf13/coding_with_kids))
+- [Teach Kids to Code Resources](https://alexn.org/wiki/docs/teach-kids.html)
