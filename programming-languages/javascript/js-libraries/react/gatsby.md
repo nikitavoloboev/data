@@ -64,3 +64,4 @@
 - [Introduction to Gatsby by Jason Lengstorf](https://frontendmasters.com/courses/gatsby/)
 - [Exploring Art Direction With Gatsby-Image (2020)](https://www.aboutmonica.com/blog/2020-06-24-exploring-art-direction-in-gatsby)
 - [Gatsby And Digital Garden](https://github.com/mathieudutour/gatsby-digital-garden) - Create a digital garden with Gatsby.
+- [Gatsby Design](https://www.gatsby.design/)

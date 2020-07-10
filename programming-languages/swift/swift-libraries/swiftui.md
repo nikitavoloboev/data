@@ -85,3 +85,4 @@
 - [Figma macOS Big Sur example app built in SwiftUI](https://github.com/jordansinger/figma-macos-swiftui-sample)
 - [SwiftUI Changelog](https://github.com/twostraws/swiftui-changelog) - Repository to track changes in the SwiftUI generated interface.
 - [SwiftUI: Bridging UIKit with ScrollViewReader and DragGesture (2020)](https://www.fivestars.blog/code/section-title-index-swiftui.html)
+- [Swift UI Property Wrappers](https://swiftuipropertywrappers.com/) - Deciding when to use @State, @Binding, @StateObject, @ObservedObject, and @EnvironmentObject.

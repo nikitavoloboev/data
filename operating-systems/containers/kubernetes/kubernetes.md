@@ -206,3 +206,4 @@
 - [Argo CD](https://github.com/argoproj/argo-cd) - Declarative Continuous Delivery for Kubernetes.
 - [Kubernetes Basic Learning](https://github.com/knrt10/kubernetes-basicLearning) - Understand Kubernetes step by step. A simple repo for beginners.
 - [arkade](https://github.com/alexellis/arkade) - Kubernetes apps for developers.
+- [Continuous Deployment to Kubernetes with Gitea and Drone (2020)](https://christine.website/blog/drone-kubernetes-cd-2020-07-10)
