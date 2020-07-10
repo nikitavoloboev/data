@@ -20,6 +20,7 @@
 - [Desks of The Sweet Setup (2020)](https://thesweetsetup.com/the-desks-of-the-sweet-setup/)
 - [Desk for digital drawing](https://twitter.com/K_Kanehira/status/1266173850716237824)
 - [Pro Home Studio Setup](http://mds.is/recording/)
+- [Peter McKinnon's studio setup (2020)](https://www.youtube.com/watch?v=n8R3HtazP9M)
 
 ## Links
 

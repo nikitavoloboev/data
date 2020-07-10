@@ -214,6 +214,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Craig Mod](https://www.instagram.com/craigmod/)
 - [Anna Försterling](https://www.instagram.com/anna.foersterling/)
 - [Thomas Heaton](https://www.instagram.com/heatonthomas/)
+- [Peter McKinnon](https://www.instagram.com/petermckinnon/?hl=en)
 - [Michal Pelka](https://www.instagram.com/michalpelka/) - Beautiful photos of waves.
 - [Tobias van Schneider](https://unsplash.com/@vanschneider/)
 - [Artem Sapegin](https://unsplash.com/@sapegin)

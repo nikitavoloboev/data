@@ -36,3 +36,4 @@
 - [Fizz Buzz in Tensorflow](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
 - [Courage](https://deprogrammaticaipsum.com/courage/)
 - [When Millennials Name Babies](https://www.youtube.com/watch?v=27OzhD4YFcQ)
+- [Nice fishes](https://twitter.com/KashWhiteley/status/1280627592060600320)
