@@ -17,7 +17,7 @@
 - [Latency](https://latency.apex.sh/) - Global latency testing tool.
 - [Ilya Grigorik | performance.now().reject(reasons) (2019)](https://www.youtube.com/watch?v=vtIfVPtN6io)
 - [You Don't Need](https://github.com/you-dont-need/You-Dont-Need.com) - People choose popular projects, often not because it applies to their problems.
-- [Treo](https://treo.sh/sites) - Real user monitoring with zero-setup.
+- [Treo](https://treo.sh/) - Page Speed Monitoring.
 - [Front-End Performance Checklist (2020)](https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/)
 - [Perf Tooling](https://github.com/stefanjudis/perf-tooling) - List of performance analysis, monitoring and optimization tools.
 - [Keeping 100% Lighthouse score around the world - Leonardo Zizzamia (2020)](https://www.youtube.com/watch?v=fg7N14Fq1gM)
@@ -88,3 +88,4 @@
 - [Tooling.Report](https://bundlers.tooling.report/) - Quick way to determine the best build tool for your next web project. ([Code](https://github.com/GoogleChromeLabs/tooling.report/)) ([Tweet](https://twitter.com/brianleroux/status/1278016843056218114))
 - [Speedlify](https://speedlify.netlify.app/ssg/) - Benchmark Static Site Generator web sites over time (ordered by Lighthouse scores). ([Article](https://www.zachleat.com/web/speedlify/))
 - [Is my host fast yet?](https://ismyhostfastyet.com/) - Leaderboard of hosting providers' TTFB performance. ([Code](https://github.com/rviscomi/ismyhostfastyet))
+- [web-vitals-reporter](https://github.com/treosh/web-vitals-reporter) - Tiny (800 B) utility to simplify web vitals reporting.
