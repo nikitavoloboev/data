@@ -38,3 +38,4 @@
 - [Leptonica](https://github.com/DanBloomberg/leptonica) - Open source library containing software that is broadly useful for image processing and image analysis applications. ([Web](http://leptonica.org/))
 - [libspng](https://github.com/randy408/libspng) - C library for reading and writing Portable Network Graphics (PNG) format files with a focus on security and ease of use.
 - [Visualizing and Understanding JPEG Format](https://github.com/corkami/formats/blob/master/image/jpeg.md) ([HN](https://news.ycombinator.com/item?id=23787674))
+- [jpeg2png](https://github.com/victorvde/jpeg2png) - Silky smooth JPEG decoding - no more artifacts. ([Lobsters](https://lobste.rs/s/qi7jk5/jpeg2png_silky_smooth_jpeg_decoding_no))

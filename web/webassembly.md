@@ -88,3 +88,4 @@
 - [Woz](https://github.com/alexkehayias/woz) - Progressive WebAssembly app (PWAA) generator for Rust.
 - [waSCC](https://wascc.dev/) - Dynamic, elastically scalable WebAssembly host runtime for securely connecting actors and capability providers. ([Code](https://github.com/wascc/wascc-host))
 - [Moving from TypeScript to Rust / WebAssembly (2020)](https://nicolodavis.com/blog/typescript-to-rust/) ([HN](https://news.ycombinator.com/item?id=23776514))
+- [Hunting down a non-determinism-bug in our Rust Wasm build (2020)](https://dev.to/gnunicorn/hunting-down-a-non-determinism-bug-in-our-rust-wasm-build-4fk1)
