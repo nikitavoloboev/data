@@ -108,3 +108,4 @@
 - [Scaling a GraphQL Website (2020)](https://theartofmachinery.com/2020/06/29/scaling_a_graphql_site.html)
 - [GraphQL App Recipes](https://github.com/dabit3/graphql-recipes) - List of GraphQL recipes that, when used with the Amplify CLI, will deploy an entire AWS AppSync GraphQL backend.
 - [REST and GraphQL: An Architectural Comparison (2020)](https://hasura.io/blog/rest-view-of-graphql/) ([HN](https://news.ycombinator.com/item?id=23758367))
+- [GraphlQL playground complete overview (2020)](https://holivielvaldez.dev/en/blog/graphlql-playground-complete-overview/)
