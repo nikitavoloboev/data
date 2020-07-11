@@ -89,3 +89,4 @@ AWS is genuinely pretty amazing for what it allows you to do. It also has a [gen
 - [The Extended AWS Security Ramp-Up Guide (2020)](https://research.nccgroup.com/2020/04/24/the-extended-aws-security-ramp-up-guide/)
 - [Usage](https://www.usage.ai/) - Reduce your AWS spend. With no risk. 44% average savings. ([HN](https://news.ycombinator.com/item?id=23776894))
 - [Top 5 Things to Learn First with AWS and How to Get Started with Amazon Web Services (2020)](https://www.colbyfayock.com/2020/07/top-5-things-to-learn-first-with-aws-and-how-to-get-started-with-amazon-web-services)
+- [Ask HN: How can I quickly trim my AWS bill? (2020)](https://news.ycombinator.com/item?id=23798347)

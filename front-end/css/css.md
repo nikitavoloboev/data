@@ -178,3 +178,4 @@
 - [The CSS Standardization Process](https://www.w3.org/Style/2011/CSS-process.en.html) ([HN](https://news.ycombinator.com/item?id=23736540))
 - [CSS News July 2020](https://www.smashingmagazine.com/2020/07/css-news-july-2020/)
 - [ZeroDivs](https://zerodivs.com/#/) - UI editor for single-element CSS illustrations. ([HN](https://news.ycombinator.com/item?id=23781559))
+- [Style Stage](https://stylestage.dev/) - Modern CSS showcase styled by community contributions. ([Code](https://github.com/5t3ph/stylestage)) ([Article](https://dev.to/5t3ph/announcing-style-stage-a-community-css-showcase-28cp))
