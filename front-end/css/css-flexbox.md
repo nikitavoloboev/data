@@ -19,3 +19,4 @@
 - [Heydon Pickering | Flexbox Holy Albatross (2019)](https://www.youtube.com/watch?v=RUyNJaoJH_k)
 - [Chromium lands Flexbox gap (2020)](https://web.dev/flexbox-gap/)
 - [Safe/unsafe alignment in CSS flexbox (2020)](https://www.stefanjudis.com/today-i-learned/safe-unsafe-alignment-in-css-flexbox/)
+- [Mental model of Flexbox's main axis](https://twitter.com/pomber/status/1281339741682753542)

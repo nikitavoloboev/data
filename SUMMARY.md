@@ -302,6 +302,7 @@
   - [Ada](programming-languages/ada.md)
   - [Perl](programming-languages/perl.md)
   - [Pascal](programming-languages/pascal.md)
+  - [Self](programming-languages/self.md)
   - [Language Server Protocol](programming-languages/language-server-protocol.md)
 - [Data Science](data-science/data-science.md)
   - [Data Visualization](data-science/data-visualization.md)
