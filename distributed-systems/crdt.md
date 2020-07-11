@@ -25,4 +25,4 @@
 - [pony-crdt](https://github.com/jemc/pony-crdt) - Delta-State Convergent Replicated Data Types (ẟ-CRDTs) for the Pony language.
 - [Jylis](https://github.com/jemc/jylis) - Distributed in-memory database for Conflict-free Replicated Data Types (CRDTs), built for speed, scalability, availability, and ease of use.
 - [An introduction to Conflict-Free Replicated Data Types (2020)](https://lars.hupel.info/topics/crdt/01-intro) ([HN](https://news.ycombinator.com/item?id=23737639))
-- [CRDTs: The Hard Parts (2020)](https://www.youtube.com/watch?v=x7drE24geUw) ([Abstract & References](https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html))
+- [CRDTs: The Hard Parts (2020)](https://www.youtube.com/watch?v=x7drE24geUw) ([Abstract & References](https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html)) ([HN](https://news.ycombinator.com/item?id=23802208))
