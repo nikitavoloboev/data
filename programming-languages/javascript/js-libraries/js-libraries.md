@@ -283,6 +283,7 @@
 - [astray](https://github.com/lukeed/astray) - Walk an AST without being led astray.
 - [vnopts](https://github.com/ikatyang/vnopts) - Validate and normalize options.
 - [canvas confetti](https://github.com/catdad/canvas-confetti) - On-demand confetti gun. ([Docs](https://www.kirilv.com/canvas-confetti/))
+- [Graphlib](https://github.com/dagrejs/graphlib) - JavaScript library that provides data structures for undirected and directed multi-graphs along with algorithms that can be used with them.
 
 ## Links
 

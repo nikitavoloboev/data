@@ -42,3 +42,4 @@
 - [PhASAR](https://github.com/secure-software-engineering/phasar) - LLVM-based Static Analysis Framework. ([Web](https://phasar.org/))
 - [cclyzer](https://github.com/plast-lab/cclyzer) - Tool for analyzing LLVM bitcode using Datalog.
 - [Vellvm](https://github.com/vellvm/vellvm) - Coq formalization of the semantics of (a subset of) the LLVM compiler IR.
+- [Writing an LLVM Optimization (2020)](https://www.youtube.com/watch?v=MagR2KY8MQI)

@@ -136,3 +136,4 @@ For other awesome podcasts you can see [here](https://github.com/learn-anything/
 - [Podify](https://podify-org.github.io/) - Create podcasts from anything youtube-dl can handle. ([Reddit](https://www.reddit.com/r/selfhosted/comments/h7lkw2/podify_create_podcasts_from_anything_youtubedl/))
 - [‎Airr](https://apps.apple.com/us/app/airr-share-podcast-clips/id1355926315?ls=1) - Highlight podcasts.
 - [Podcast Stats](https://www.listennotes.com/podcast-stats/) - How many podcasts are there? ([HN](https://news.ycombinator.com/item?id=23773537))
+- [Airr](https://apps.apple.com/us/app/airr-highlight-podcasts/id1355926315) - Podcast player that lets you highlight, add a note, and share moments from episodes.
