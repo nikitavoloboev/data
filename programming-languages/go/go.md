@@ -308,3 +308,4 @@ Go promotes composition over inheritance.
 - [Using go/analysis to fix your source code (2020)](https://arslan.io/2020/07/07/using-go-analysis-to-fix-your-source-code/)
 - ["Interface smuggling", a Go design pattern for expanding APIs (2020)](https://utcc.utoronto.ca/~cks/space/blog/programming/GoInterfaceSmuggling)
 - [What feature of Go is used often by experienced programmers, but not so much by a newbie? (2020)](https://www.reddit.com/r/golang/comments/hp4mk3/what_feature_of_go_is_used_very_often_by/)
+- [copyist](https://github.com/cockroachdb/copyist) - Mocking your SQL database in Go tests has never been easier. ([HN](https://news.ycombinator.com/item?id=23811698))

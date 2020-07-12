@@ -91,6 +91,7 @@ And these Discord servers:
 - [Epsilon Theory](https://www.epsilontheory.com/) - Investing and voting seen through the lenses of game theory and history.
 - [Outside Magazine](https://www.outsideonline.com/)
 - [Machine Learning: Science and Technology journal](https://iopscience.iop.org/journal/2632-2153)
+- [Letters of Note](https://lettersofnote.com/) - Correspondence Deserving of a Wider Audience.
 
 ### Other
 
