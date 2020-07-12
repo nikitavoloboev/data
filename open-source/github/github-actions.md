@@ -92,6 +92,10 @@
 - [JS action template](https://github.com/actions/javascript-action)
 - [github-script](https://github.com/actions/github-script) - Makes it easy to quickly write a script in your workflow that uses the GitHub API and the workflow run context.
 
+## Notes
+
+- [Can use Github Actions to schedule commands with cron.](https://twitter.com/virtualkirill/status/1282232476291624960)
+
 ## Links
 
 - [OSS list of GitHub actions](https://github-actions.netlify.com/)
