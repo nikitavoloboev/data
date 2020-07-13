@@ -14,3 +14,8 @@
 - [Design Principles Behind Smalltalk (1981)](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) ([HN](https://news.ycombinator.com/item?id=23496800))
 - [What FP can learn from Smalltalk - Aditya Siram (2018)](https://www.youtube.com/watch?v=baxtyeFVn3w)
 - [A Smalltalk-80 Interpreted Virtual Machine on LuaJIT](https://github.com/rochus-keller/Smalltalk) ([Lobsters](https://lobste.rs/s/vrvqhy/smalltalk_80_interpreted_virtual))
+- [RoarVM](https://github.com/smarr/RoarVM) - Manycore SqueakVM.
+- [Squeak from the very start](https://www.youtube.com/playlist?list=PL6601A198DF14788D)
+- [Squeak by Example (2009)](https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1112&context=compsci_fac)
+- [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html)
+- [Resources to learn smalltalk? (2020)](https://www.reddit.com/r/smalltalk/comments/frxp1f/resources_to_learn_smalltalk/)

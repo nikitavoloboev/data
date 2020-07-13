@@ -41,3 +41,4 @@ For writing LaTeX I use [Sublime Text](../text-editors/sublime-text/sublime-text
 - [mdbook-latex](https://github.com/lbeckman314/mdbook-latex) - An mdbook backend for generating LaTeX and PDF documents.
 - [LaTeXML](https://github.com/brucemiller/LaTeXML) - TeX and LaTeX to XML/HTML/ePub/MathML translator.
 - [TikZiT](https://tikzit.github.io/) - Graphical tool for rapidly creating graphs and string diagrams using PGF/TikZ. ([Code](https://github.com/tikzit/tikzit))
+- [LaTeX to HTML5](https://github.com/smarr/latex-to-html5) - Scripts for Latex to HTML5 conversion.
