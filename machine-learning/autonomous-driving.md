@@ -14,3 +14,4 @@
 - [Aurora](https://aurora.tech/) - Delivering the benefits of self-driving technology safely, quickly, and broadly.
 - [Zoox](https://zoox.com/) - Driving autonomously in ways that no one else has shown. ([HN](https://news.ycombinator.com/item?id=23648942))
 - [Mobileye](https://www.mobileye.com/) - Autonomous Driving & ADAS (Advanced Driver Assistance Systems).
+- [Einride](https://www.einride.tech/) - Making autonomous electric transport possible today.
