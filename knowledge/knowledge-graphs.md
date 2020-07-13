@@ -28,3 +28,5 @@
 - [Extracting Structured Data from Templatic Documents (2020)](https://ai.googleblog.com/2020/06/extracting-structured-data-from.html) ([HN](https://news.ycombinator.com/item?id=23502131))
 - [Knowledge Search](http://knowledgesearch.us/) - Graph-based knowledge search engine powered by Wikipedia. ([Code](https://github.com/marksibrahim/knowledge_search))
 - [Low-Dimensional Hyperbolic Knowledge Graph Embeddings (ACL 2020)](https://www.youtube.com/watch?v=Yf03-CBYKe4)
+- [Underlay](https://www.underlay.org/) - Free and open source system for structuring, storing, and aggregating open, distributed graph data. Its goal is to make machine-readable public knowledge accessible to all as a public good.
+- [Knowledge Futures Group](https://www.knowledgefutures.org/) - Builds technology for the production, curation, and preservation of knowledge in service of the public good.

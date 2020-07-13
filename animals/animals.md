@@ -9,6 +9,7 @@ I love all animals. And I am sad that some people decide to eat them and not let
   - Ragamuffin
 - [Capybaras](https://www.youtube.com/watch?v=SCwcJsBYL3o)
 - [Qokkas](https://en.wikipedia.org/wiki/Quokka)
+- [Colugo](https://en.wikipedia.org/wiki/Colugo)
 
 ## Cute
 
