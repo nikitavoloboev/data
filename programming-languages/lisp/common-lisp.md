@@ -21,3 +21,5 @@
 - [Petalisp](https://github.com/marcoheisig/Petalisp) - Elegant High Performance Computing.
 - [Google Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml) ([HN](https://news.ycombinator.com/item?id=23761346))
 - [Kai](https://github.com/komi1230/kai) - High-level plotter library for Common Lisp. ([HN](https://news.ycombinator.com/item?id=23757545))
+- [Common Lisp GUI Toolkits](https://lispcookbook.github.io/cl-cookbook/gui.html)
+- [Common Lisp: A Gentle Introduction to Symbolic Computation](https://www.cs.cmu.edu/~dst/LispBook/book.pdf)
