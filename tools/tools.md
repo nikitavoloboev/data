@@ -64,6 +64,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Reclaim](https://reclaim.ai/) - Make time when there is none.
 - [Kapwing](https://www.kapwing.com/) - Collaborative platform for creating images, videos, and GIFs.
 - [Animockup](https://github.com/alyssaxuu/animockup) - Create animated mockups on the browser.
+- [Feedback Fish](https://feedback.fish/) - Collect feedback. Make your customers happy.
 - [Hypothesis](https://web.hypothes.is/) - Annotate the web, with anyone, anywhere. ([HN](https://news.ycombinator.com/item?id=23573852))
 - [Prettier](https://github.com/prettier/prettier) - Opinionated code formatter.
 - [CoScreen](https://www.coscreen.co/) - Radically different remote collaboration tool. ([HN](https://news.ycombinator.com/item?id=21639525))

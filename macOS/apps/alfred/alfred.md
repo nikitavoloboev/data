@@ -2,7 +2,7 @@
 
 Alfred is a powerful launcher that you can program to show anything you want. It saved me a lot of time as I use it to search through anything instantly.
 
-![](https://i.imgur.com/pr19IYn.jpg)
+![](https://i.imgur.com/PtXa6By.png)
 
 It has a great [community](http://www.alfredforum.com/) and [amazing workflows](https://github.com/learn-anything/alfred-workflows) that you can use.
 
