@@ -59,3 +59,4 @@
 - [Pass](https://getpass.app/) - Identity app for fintech applications.
 - [Note on Auth](https://github.com/yoshuawuyts/notes/blob/master/computers/architecture/auth.md)
 - [How does Single Sign-On work?](https://twitter.com/kamranahmedse/status/1280266408434302979)
+- [The Future of Online Identity is Decentralized (2020)](https://yarmo.eu/post/future-online-identity-decentralized) ([Lobsters](https://lobste.rs/s/ckalve/future_online_identity_is_decentralized)) ([HN](https://news.ycombinator.com/item?id=23811568))

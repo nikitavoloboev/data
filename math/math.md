@@ -169,3 +169,4 @@
 - [Ridiculous Math Problems (2020)](http://www.dam.brown.edu/people/mumford/blog/2020/Ridiculous.html) ([HN](https://news.ycombinator.com/item?id=23739243))
 - [Discrete Math (Full Course: Sets, Logic, Proofs, Probability, Graph Theory, etc) (2020)](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 - [Comprehensive List of Algebra Symbols](https://mathvault.ca/hub/higher-math/math-symbols/algebra-symbols/)
+- [Knuth - Two notes on notation (1992)](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/knuth403-422.pdf) ([Lobsters](https://lobste.rs/s/xb2rsp/knuth_two_notes_on_notation_1992))
