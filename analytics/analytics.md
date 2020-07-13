@@ -40,3 +40,4 @@ If analytics are used, it's best to implement them server side with something li
 - [Deep Dive Into My Stats Page (2020)](https://sld.codes/articles/Deep-Dive-Into-My-Stats-Page)
 - [Using event naming conventions to keep analytics data clean](https://davidwells.io/blog/clean-analytics)
 - [Goodhart's Law and how systems are shaped by the metrics you chase (2020)](https://whyisthisinteresting.substack.com/p/why-is-this-interesting-the-goodharts) ([HN](https://news.ycombinator.com/item?id=23762526))
+- [Simple Analytics](https://simpleanalytics.com/) - Simple, clean, and privacy-friendly analytics.
