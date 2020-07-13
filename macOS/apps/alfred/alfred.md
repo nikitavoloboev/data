@@ -32,7 +32,7 @@ I use [Mono theme](https://www.alfredapp.com/extras/theme/xzcLtcIIDe/) mainly as
 
 I also made [Mono Light theme](https://www.alfredapp.com/extras/theme/yyoqZV6XGS/) for use with macOS light appearance.
 
-![](https://content.invisioncic.com/r229491/monthly_2020_07/image.thumb.png.469125cc92f6da72351bc2f78b67059d.png)
+![](https://i.imgur.com/d5is1ao.png)
 
 ### Symlink workflows
 
