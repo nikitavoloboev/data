@@ -182,6 +182,7 @@ Below are books I read (or listened) sorted by year I read them in. The books wi
 - [Bardia Pourvakil's favorite books](https://bardiapourvakil.com/favorites)
 - [Juvoni Beckford's bookshelf](https://juvoni.com/books)
 - [Nabeel Qureshi's favorite books](https://nabeelqu.co/Books)
+- [Sharif Shameem's Bookshelf](https://sharif.io/bookshelf/)
 
 ## Notes
 
