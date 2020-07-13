@@ -10,3 +10,4 @@
 - [Midas](https://github.com/midas-framework/midas) - Web framework for Gleam.
 - [Introducing Lean Server for Midas (2020)](http://crowdhailer.me/2020-06-23/introducing-lean-server-for-midas/)
 - [Gleam Talk - Shayne Tremblay (2020)](https://www.youtube.com/watch?v=qC9RhcWzKdE)
+- [GleamCompile](https://github.com/praveenperera/gleam_compile) - Tiny hex package to make the development experience of using gleam in elixir (and especially phoenix projects) just a bit better.

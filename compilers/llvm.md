@@ -43,3 +43,4 @@
 - [cclyzer](https://github.com/plast-lab/cclyzer) - Tool for analyzing LLVM bitcode using Datalog.
 - [Vellvm](https://github.com/vellvm/vellvm) - Coq formalization of the semantics of (a subset of) the LLVM compiler IR.
 - [Writing an LLVM Optimization (2020)](https://www.youtube.com/watch?v=MagR2KY8MQI)
+- [KLEE](https://github.com/klee/klee) - Symbolic virtual machine built on top of the LLVM compiler infrastructure.
