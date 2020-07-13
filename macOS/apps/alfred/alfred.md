@@ -28,7 +28,7 @@ Coupled with many [small workflows](https://github.com/nikitavoloboev/small-work
 
 I use [Mono theme](https://www.alfredapp.com/extras/theme/xzcLtcIIDe/) mainly as I prefer macOS dark appearance.
 
-![](https://content.invisioncic.com/r229491/monthly_2020_07/945635110_ScreenShot2020-07-04at00_46_41.thumb.png.6be6da6ca5db46f6e1cfbdf838a2073e.png)
+![](https://i.imgur.com/Y4oKBoT.png)
 
 I also made [Mono Light theme](https://www.alfredapp.com/extras/theme/yyoqZV6XGS/) for use with macOS light appearance.
 
