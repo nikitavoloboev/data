@@ -193,3 +193,4 @@
 - [Concepts around building software](https://tslim.github.io/concepts/) ([Code](https://github.com/tslim/concepts))
 - [Evidence-based Software Engineering: based on the publicly available data](http://knosof.co.uk/ESEUR/)
 - [Code Reviews at REKKI (2020)](https://eng.rekki.com/code-reviews-at-rekki/r.txt)
+- [Rise of Worse Is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html) ([Tweet](https://twitter.com/felixge/status/1282675240355667968))

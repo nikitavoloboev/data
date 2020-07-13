@@ -160,3 +160,4 @@
 - [Kindness for Mean Girls: Primer on the cruel, tacit laws of type-level programming in Haskell (2020)](https://www.aymannadeem.com/haskell/2020/05/15/Kindness-for-Mean-Girls.html)
 - [Deploying statically-linked Haskell to Lambda (2020)](https://lazamar.github.io/deploying-statically-linked-haskell-to-lambda/)
 - [Retrie](https://github.com/facebookincubator/retrie/) - Powerful, easy-to-use codemodding tool for Haskell. ([Article](https://engineering.fb.com/open-source/retrie/))
+- [cabal-edit](https://github.com/sdiehl/cabal-edit) - Utility for managing Hackage dependencies from the command line.
