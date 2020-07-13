@@ -67,7 +67,7 @@ Here are few more things I liked, design wise.
 - [Notable](https://notable.md/)
 - [Sizzy](https://sizzy.co/)
 - [Twizzy](https://twizzy.app/)
-- [Gyana](https://www.gyana.co.uk/)
+- [Gyana](https://www.gyana.com/)
 - [Mouseless](https://mouseless.app/)
 - [NapBot](https://napbotapp.com/)
 - [Nolt](https://nolt.io/) - Lovely footer.

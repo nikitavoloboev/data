@@ -20,7 +20,7 @@
 - [Glyphfinder](https://www.glyphfinder.com/) - Missing character search for designers, developers and writers.
 - [Shape](https://shape.so/) - 4300+ Customizable, animated icons & illustrations exportable to code.
 - [Free icons for coronavirus awareness](https://www.iconfinder.com/p/coronavirus-awareness-icons)
-- [Tabler Icons](https://github.com/tabler/tabler-icons) - Set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [Tabler Icons](https://tablericons.com/) - Set of over 300 free MIT-licensed high-quality SVG icons for you to use in your web projects. ([Code](https://github.com/tabler/tabler-icons))
 - [Designing App Icons (2020)](https://www.youtube.com/playlist?list=PLxpqfOFALZU9IG6DbP3inWOgm3Rzv4ISd)
 - [Ikonate](https://ikonate.com/) - Fully customisable & accessible vector icons. ([Code](https://github.com/mikolajdobrucki/ikonate))
 - [Iconoir](https://iconoir.com/) - Simple and Definitive Icons Library.

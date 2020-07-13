@@ -15,7 +15,7 @@
 - [Learning to Learn (2019)](https://css-tricks.com/learning-to-learn/)
 - [Ask HN: How to learn best practices when you have no one to teach you? (2019)](https://news.ycombinator.com/item?id=19423228)
 - [P2PU](https://www.p2pu.org/en/) - Learning circles are free study groups for people who want to take online classes together and in-person.
-- [LearnAwesome](https://learnawesome.org/) - Humanity's universal skills graph.
+- [LearnAwesome](https://learnawesome.org/) - Humanity's universal skills graph. ([HN](https://news.ycombinator.com/item?id=23795779))
 - [Ask HN: How do you personally learn? (2019)](https://news.ycombinator.com/item?id=20433926)
 - [Stop Treading Water: Learning to Learn by Edward Kmett (2014)](https://www.youtube.com/watch?v=j0XmixCsWjs)
 - [Michael E. Karpeles's mission](https://mek.fyi/mission)
