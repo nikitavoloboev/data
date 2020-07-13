@@ -103,3 +103,4 @@
 - [Do gravitational waves destructively interfere with each other? (2020)](https://www.reddit.com/r/AskPhysics/comments/hf7rxe/do_gravitational_waves_destructively_interfere/)
 - [The physics behind spring animations (2020)](https://blog.maximeheckel.com/posts/the-physics-behind-spring-animations)
 - [The Idea of Entropy Has Led Us Astray (2020)](http://nautil.us/issue/86/energy/the-idea-of-entropy-has-led-us-astray) ([HN](https://news.ycombinator.com/item?id=23711872))
+- [Do we need a Theory of Everything? (2020)](http://backreaction.blogspot.com/2020/07/do-we-need-theory-of-everything.html) ([HN](https://news.ycombinator.com/item?id=23815824))
