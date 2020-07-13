@@ -310,4 +310,3 @@ Go promotes composition over inheritance.
 - [What feature of Go is used often by experienced programmers, but not so much by a newbie? (2020)](https://www.reddit.com/r/golang/comments/hp4mk3/what_feature_of_go_is_used_very_often_by/)
 - [copyist](https://github.com/cockroachdb/copyist) - Mocking your SQL database in Go tests has never been easier. ([HN](https://news.ycombinator.com/item?id=23811698))
 - [PopCount on ARM64 in Go Assembler (2020)](https://barakmich.dev/posts/popcnt-arm64-go-asm/)
-- [Going Driverless: How we developed a CAN library for Go (2020)](https://www.youtube.com/watch?v=IbggJHJUv0U)

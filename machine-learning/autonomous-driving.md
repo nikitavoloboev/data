@@ -15,3 +15,4 @@
 - [Zoox](https://zoox.com/) - Driving autonomously in ways that no one else has shown. ([HN](https://news.ycombinator.com/item?id=23648942))
 - [Mobileye](https://www.mobileye.com/) - Autonomous Driving & ADAS (Advanced Driver Assistance Systems).
 - [Einride](https://www.einride.tech/) - Making autonomous electric transport possible today.
+- [Going Driverless: How we developed a CAN library for Go (2020)](https://www.youtube.com/watch?v=IbggJHJUv0U)
