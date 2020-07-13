@@ -20,3 +20,4 @@ I am interested in BSDs as macOS's Darwin kernel is derived from BSD and I want 
 - [Guide to FreeBSD Desktop Distributions](https://www.freebsdfoundation.org/guide-to-freebsd-desktop-distributions/)
 - [HN: FreeBSD 11.4 (2020)](https://news.ycombinator.com/item?id=23541104)
 - [NetBSD Internals](https://www.netbsd.org/docs/internals/en/index.html) ([HN](https://news.ycombinator.com/item?id=23755267))
+- [Tutorial sites treating FreeBSD like a Linux distro (2020)](https://rubenerd.com/tutorial-sites-treating-freebsd-like-a-linux-distro/) ([HN](https://news.ycombinator.com/item?id=23818702))

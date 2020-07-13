@@ -12,3 +12,4 @@
 - [All the Little Things by Sandi Metz (2014)](https://www.youtube.com/watch?v=8bZh5LMaSmE)
 - [The use of `class` for things that should be simple free functions (2020)](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/) ([HN](https://news.ycombinator.com/item?id=23333891)) ([Lobsters](https://lobste.rs/s/kbdauj/oo_antipattern))
 - [MolhadoRef: A Refactoring-aware Infrastructure for OO Programs](http://dig.cs.illinois.edu/papers/Molhadoref_ETX.pdf)
+- [99 Bottles of OOP](https://sandimetz.com/99bottles) - Practical guide to writing cost-effective, maintainable, and pleasing object-oriented code.

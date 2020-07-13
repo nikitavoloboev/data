@@ -24,7 +24,7 @@
 - [Collection useful tips for the Swift language](https://github.com/vincent-pradeilles/swift-tips)
 - [What’s new in Swift 5.0?](https://github.com/twostraws/whats-new-in-swift-5-0) - Xcode playground that demonstrates the new features introduced in Swift 5.0
 - [Airbnb Swift Style Guide](https://github.com/airbnb/swift)
-- [Swift Community Podcast](https://github.com/SwiftCommunityPodcast/podcast)
+- [Swift Community Podcast](https://www.swiftcommunitypodcast.org/) ([Code](https://github.com/SwiftCommunityPodcast/podcast))
 - [Periphery](https://github.com/peripheryapp/periphery) - Eliminate unused Swift code.
 - [Chris Lattner on the origins of Swift (2019)](https://oleb.net/2019/chris-lattner-swift-origins/)
 - [Swift Rust-like ownership model RFC](https://github.com/apple/swift/blob/master/docs/OwnershipManifesto.md)
