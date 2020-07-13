@@ -49,3 +49,4 @@
 - [Sardonyx](https://github.com/s1ddok/Sardonyx) - Convert your ONNX models into Swift for TensorFlow or Metal Performance Shaders.
 - [pix2pix implementation using Swift for TensorFlow](https://github.com/s1ddok/pix2pix-s4tf)
 - [Learning to Cartoonize Using White-box Cartoon Representations](https://github.com/SystemErrorWang/White-box-Cartoonization)
+- [Deep Xi](https://github.com/anicolson/DeepXi) - Deep Learning Approach to A Priori SNR Estimation for speech enhancement.
