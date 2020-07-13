@@ -18,4 +18,4 @@
 - [Solving the "Miracle Sudoku" in Prolog (2020)](https://benjamincongdon.me/blog/2020/05/23/Solving-the-Miracle-Sudoku-in-Prolog/) ([HN](https://news.ycombinator.com/item?id=23302102))
 - [The Art of Prolog (1994)](https://mitpress.mit.edu/books/art-prolog-second-edition) ([HN](https://news.ycombinator.com/item?id=23582903))
 - [Prolog Web Applications (2016)](https://www.metalevel.at/prolog/web) ([HN](https://news.ycombinator.com/item?id=23597688))
-- [Real World Programming in SWI-Prolog](http://www.pathwayslms.com/swipltuts/)
+- [Real World Programming in SWI-Prolog](http://www.pathwayslms.com/swipltuts/) ([HN](https://news.ycombinator.com/item?id=23818901))
