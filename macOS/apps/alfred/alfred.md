@@ -26,13 +26,13 @@ Coupled with many [small workflows](https://github.com/nikitavoloboev/small-work
 
 ## Alfred theme
 
-I use [Mono theme](https://www.alfredapp.com/extras/theme/xzcLtcIIDe/) mainly as I prefer macOS dark appearance.
-
-![](https://i.imgur.com/Y4oKBoT.png)
-
-I also made [Mono Light theme](https://www.alfredapp.com/extras/theme/yyoqZV6XGS/) for use with macOS light appearance.
+I use [Mono Light theme](https://www.alfredapp.com/extras/theme/yyoqZV6XGS/) with macOS light appearance (during day).
 
 ![](https://i.imgur.com/d5is1ao.png)
+
+I use [Mono theme](https://www.alfredapp.com/extras/theme/xzcLtcIIDe/) with macOS dark appearance (evenings & no light areas).
+
+![](https://i.imgur.com/Y4oKBoT.png)
 
 ### Symlink workflows
 
