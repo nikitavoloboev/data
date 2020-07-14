@@ -65,3 +65,4 @@ All active variables can be seen by running `env`.
 - [streamhut](https://github.com/miguelmota/streamhut) - Stream and send data, terminal to web and vice versa.
 - [TermBackTime](https://github.com/termbacktime/termbacktime) - Terminal recording and playback.
 - [shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell.
+- [Hacking with environment variables](https://www.elttam.com/blog/env/) ([HN](https://news.ycombinator.com/item?id=23827486))
