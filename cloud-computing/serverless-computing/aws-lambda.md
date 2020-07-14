@@ -23,3 +23,4 @@
 - [Chalice](https://github.com/aws/chalice) - Framework for writing serverless apps in python. It allows you to quickly create and deploy applications that use AWS Lambda.
 - [Chaos Lambda](https://github.com/artilleryio/chaos-lambda) - Serverless chaos monkey for AWS (runs on AWS Lambda).
 - [AWS CDK Made Simple: Run a Lambda function locally (2020)](https://tlakomy.com/run-cdk-lambda-function-locally)
+- [Building Your First Serverless Service With AWS Lambda Functions (2020)](https://css-tricks.com/building-your-first-serverless-service-with-aws-lambda-functions/)
