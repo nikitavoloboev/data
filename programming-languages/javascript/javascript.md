@@ -185,3 +185,4 @@
 - [Google Closure Compiler](https://github.com/google/closure-compiler) - Tool for making JavaScript download and run faster.
 - [JSConf](https://jsconf.com/) - Conferences for the JavaScript Community.
 - [The history of Promises](https://samsaccone.com/posts/history-of-promises.html)
+- [Skypack](https://www.skypack.dev/) - New kind of JavaScript delivery network. ([HN](https://news.ycombinator.com/item?id=23825798))
