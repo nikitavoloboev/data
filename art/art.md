@@ -70,6 +70,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Gemma O’Brien](https://shop.gemmaobrien.com/)
 - [Petur Orn](https://www.instagram.com/orn.design/)
 - [Soreine](http://soreine.github.io/art/)
+- [Julien Gauthier](https://www.artstation.com/renart)
 - [Daniel Danger](https://www.instagram.com/tinymediaempire/)
 - [Xuan Loc Xuan](https://www.behance.net/xuanlocxuan)
 - [Will Quinn](https://www.instagram.com/willquinnart/)

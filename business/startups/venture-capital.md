@@ -64,3 +64,4 @@
 - [The Venture Collective](https://www.theventurecollective.com/) - Empowering Founders Who Are Leaving a Legacy.
 - [Weekend Fund](https://weekend.fund/) - Early stage fund, backing your next favorite thing.
 - [Flybridge](https://www.flybridge.com/)
+- [Chapter One](https://chapterone.vc/) - Invest in early-stage startups who are passionate about the future of work, developer tools, and subscription businesses.
