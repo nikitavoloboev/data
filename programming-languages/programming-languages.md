@@ -98,3 +98,4 @@ There is an [awesome article](https://briansteffens.github.io/2017/02/20/from-ma
 - [The Pyret Code; or A Rationale for the Pyret Programming Language](https://www.pyret.org/pyret-code/index.html) ([Lobsters](https://lobste.rs/s/j0i8au/pyret_code_rationale_for_pyret))
 - [Statically Sized Higher-kinded Polymorphism (2020)](http://blog.ielliott.io/sized-hkts/) ([Lobsters](https://lobste.rs/s/vlndlq/statically_sized_higher_kinded))
 - [The language strangeness budget (2015)](https://steveklabnik.com/writing/the-language-strangeness-budget)
+- [Family spaghetti of programming languages (2019)](https://erkin.party/blog/190208/spaghetti/)
