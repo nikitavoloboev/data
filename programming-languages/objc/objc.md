@@ -15,3 +15,4 @@
 - [Objective-C simulator written in Swift](https://github.com/NSExceptional/Runtime)
 - [The Origins of Objective-C at PPI/Stepstone and Its Evolution at NeXT (2020)](https://dl.acm.org/doi/pdf/10.1145/3386332) ([HN](https://news.ycombinator.com/item?id=23516334))
 - [Advancements in the Objective-C runtime (2020)](https://developer.apple.com/videos/play/wwdc2020/10163/)
+- [Stop the Swift extension](https://lapcatsoftware.com/articles/StopTheSwift.html) - Turn Apple docs to use Objective-C instead of Swift.

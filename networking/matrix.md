@@ -22,7 +22,7 @@ Matrix is kind of like a federated IRC system and [Riot](https://about.riot.im) 
 - [Matrix GSOC ideas](https://github.com/matrix-org/GSoC/blob/master/IDEAS.md#what-is-matrix)
 - [Matrix IRCd](https://github.com/matrix-org/matrix-ircd)
 - [Riot Web](https://github.com/vector-im/riot-web) - Web client for Matrix.
-- [Ruma](https://github.com/ruma/homeserver) - Matrix homeserver written in Rust. (discontinued)
+- [Ruma](https://github.com/ruma/homeserver) - Matrix homeserver written in Rust. Discontinued.
 - [Nheko](https://github.com/mujx/nheko) - Native desktop client for Matrix.
 - [Client-Server API](https://matrix.org/docs/spec/client_server/r0.3.0.html)
 - [Matrix Blog](https://matrix.org/blog/posts/)
