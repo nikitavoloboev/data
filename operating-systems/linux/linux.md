@@ -147,3 +147,4 @@
 - [Sandboxing in Linux with zero lines of code (2020)](https://blog.cloudflare.com/sandboxing-in-linux-with-zero-lines-of-code/) ([Lobsters](https://lobste.rs/s/wqiw5n/sandboxing_linux_with_zero_lines_code))
 - [Linux Impressions (2020)](https://jorin.me/linux-impressions/) ([Lobsters](https://lobste.rs/s/gepn5p/linux_impressions))
 - [Ask HN: Advanced Linux users, which distribution do you run? Why? (2020)](https://news.ycombinator.com/item?id=23816007)
+- [Pinephone – “Community Edition: PostmarketOS” Linux smartphone (2020)](https://store.pine64.org/product-category/pinephone/) ([HN](https://news.ycombinator.com/item?id=23849202))

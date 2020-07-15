@@ -80,3 +80,4 @@
 - [Tell candidates what to expect from your job interviews (2020)](https://jvns.ca/blog/2020/06/30/tell-candidates-what-to-expect-from-your-job-interviews/) ([HN](https://news.ycombinator.com/item?id=23698299)) ([Lobsters](https://lobste.rs/s/dclrux/tell_candidates_what_expect_from_your_job))
 - [On Interviewing Programmers (2020)](https://thecobraeffect.blogspot.com/2020/07/interviewing-programmers.html) ([HN](https://news.ycombinator.com/item?id=23771948))
 - [How Firebase Interviewed Software Engineers (2019)](https://startupandrew.com/posts/how-firebase-interviewed-software-engineers/)
+- [Tech sector job interviews assess anxiety, not software skills: study (2020)](https://news.ycombinator.com/item?id=23848039) ([HN](https://news.ycombinator.com/item?id=23848039))
