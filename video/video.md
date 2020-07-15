@@ -91,3 +91,4 @@ I share all the videos I [liked on YouTube](https://www.youtube.com/playlist?lis
 - [Grain](https://www.grain.co/) - Record & share the best parts of Zoom video calls.
 - [Rewatch](https://rewatch.tv/) - Private & secure video channel for your team. Rewatch transcribes your videos and unlocks your team’s spoken knowledge, making it searchable and organized—all in one place.
 - [Video that keeps your team connected and inspired (2020)](https://blog.rewatch.tv/post/2020/07/08/connected-and-inspired/)
+- [ZmURL](https://zmurl.com/) - Host Delightful Zoom Events.

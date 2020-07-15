@@ -121,6 +121,7 @@ Here are few more things I liked, design wise.
 - [Max Böck](https://mxb.dev/) ([Code](https://github.com/maxboeck/mxb))
 - [Amie Chen](https://www.amie-chen.com/)
 - [Boris Muller](https://esono.com/)
+- [Jordan Lewis](https://jordanlewis.org/)
 - [Hayk An](https://hayk.design/#/)
 - [Stephen Diehl](http://www.stephendiehl.com/) ([Code](https://github.com/sdiehl/stephendiehl.com))
 - [Philipp Spiess](https://philippspiess.com/) ([Code](https://github.com/philipp-spiess/philipp-spiess.github.io))
