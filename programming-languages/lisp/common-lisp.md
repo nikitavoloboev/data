@@ -23,3 +23,4 @@
 - [Kai](https://github.com/komi1230/kai) - High-level plotter library for Common Lisp. ([HN](https://news.ycombinator.com/item?id=23757545))
 - [Common Lisp GUI Toolkits](https://lispcookbook.github.io/cl-cookbook/gui.html)
 - [Common Lisp: A Gentle Introduction to Symbolic Computation](https://www.cs.cmu.edu/~dst/LispBook/book.pdf)
+- [The Common Lisp Condition System Book (2020)](https://www.apress.com/us/book/9781484261330) ([HN](https://news.ycombinator.com/item?id=23843525))
