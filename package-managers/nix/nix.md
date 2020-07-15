@@ -117,3 +117,4 @@
 - [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Search for old versions of Nix packages. ([Code](https://github.com/lazamar/nix-package-versions)) ([Reddit](https://www.reddit.com/r/NixOS/comments/gc68ec/find_older_versions_of_a_package_in_the_nix/))
 - [Opinionated Nix repository template](https://github.com/nix-dot-dev/getting-started-nix-template) - Based on nix.dev tutorials, repository template to get you started with Nix.
 - [Tools to manage a Nix-based project](https://github.com/shajra/nix-project)
+- [Building static Haskell binary with Nix on Linux (2020)](https://blog.patchgirl.io/haskell/2020/07/13/static-haskell-binary.html)
