@@ -58,3 +58,4 @@
 - [Are you using SVG favicons yet? A guide for modern browsers. (2020)](https://medium.com/swlh/are-you-using-svg-favicons-yet-a-guide-for-modern-browsers-836a6aace3df)
 - [Sys: a Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code (2020)](https://cseweb.ucsd.edu/~dstefan/pubs/brown:2020:sys.pdf)
 - [Consider deploying cross-origin resource policy](https://resourcepolicy.fyi/)
+- [Ampie](https://ampie.app/) - Social navigator for the web. Helps you find interesting links, and find what people had to say about them. ([Tweet](https://twitter.com/posobin/status/1283111738154668032))
