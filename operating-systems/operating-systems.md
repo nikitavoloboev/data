@@ -112,3 +112,4 @@ And I like [NixOS](linux/nixos.md) and it's [nix package manager](../package-man
 - [OS Development Tutorials](http://www.osdever.net/tutorials/)
 - [Modern Operating Systems 3rd edition book](http://stst.elia.pub.ro/news/SO/Modern%20Operating%20System%20-%20Tanenbaum.pdf) - 4th edition available too.
 - [Learning operating system development using Linux kernel and Raspberry Pi](https://s-matyukevich.github.io/raspberry-pi-os/) ([HN](https://news.ycombinator.com/item?id=23611081))
+- [The OS Classics (2020)](https://www.allthingsdistributed.com/2020/07/the-os-classics.html)
