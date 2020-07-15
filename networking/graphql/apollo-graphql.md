@@ -10,3 +10,4 @@
 - [Hermes](https://github.com/convoyinc/apollo-cache-hermes) - Cache For Apollo Client.
 - [Apollo Client 3 State Management Examples](https://github.com/apollographql/ac3-state-management-examples)
 - [workers-graphql-server](https://github.com/signalnerve/workers-graphql-server) - Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers.
+- [Announcing the Release of Apollo Client 3.0 (2020)](https://www.apollographql.com/blog/announcing-the-release-of-apollo-client-3-0/)

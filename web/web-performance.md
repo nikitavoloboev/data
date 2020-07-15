@@ -89,3 +89,4 @@
 - [Speedlify](https://speedlify.netlify.app/ssg/) - Benchmark Static Site Generator web sites over time (ordered by Lighthouse scores). ([Article](https://www.zachleat.com/web/speedlify/))
 - [Is my host fast yet?](https://ismyhostfastyet.com/) - Leaderboard of hosting providers' TTFB performance. ([Code](https://github.com/rviscomi/ismyhostfastyet))
 - [web-vitals-reporter](https://github.com/treosh/web-vitals-reporter) - Tiny (800 B) utility to simplify web vitals reporting.
+- [Perf Track](https://perf-track.web.app/) - Tracking framework performance at scale. ([Code](https://github.com/GoogleChromeLabs/perf-track))

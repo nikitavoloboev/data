@@ -285,6 +285,7 @@
 - [vnopts](https://github.com/ikatyang/vnopts) - Validate and normalize options.
 - [canvas confetti](https://github.com/catdad/canvas-confetti) - On-demand confetti gun. ([Docs](https://www.kirilv.com/canvas-confetti/))
 - [Graphlib](https://github.com/dagrejs/graphlib) - JavaScript library that provides data structures for undirected and directed multi-graphs along with algorithms that can be used with them.
+- [ecsy](https://github.com/MozillaReality/ecsy) - Highly experimental Entity Component System framework implemented in javascript, aiming to be lightweight, easy to use and with good performance. ([Docs](https://ecsy.io/docs/#/))
 
 ## Links
 
