@@ -195,3 +195,4 @@ And anyone who owns Alfred can download the workflow and search through the wiki
 - [On Bookmarks and Note Taking (2020)](https://chrisman.github.io/11.html) ([Lobsters](https://lobste.rs/s/eg45vr/on_bookmarks_note_taking))
 - [Using VimWiki for Note Taking (2020)](https://thelinell.com/using-vimwiki/) ([Lobsters](https://lobste.rs/s/gynavy/using_vimwiki_for_note_taking))
 - [Artificial Brain Networked notebook apps](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709)
+- [Ask HN: How to Take Notes? (2020)](https://news.ycombinator.com/item?id=23844490)
