@@ -1,7 +1,5 @@
 # [Haskell](https://www.haskell.org)
 
-[Haskell book](http://haskellbook.com/) & [Thinking with types](https://leanpub.com/thinking-with-types) are great intros to Haskell, type systems and Type-Level Programming in Haskell.
-
 ## Notes
 
 - [Kinds are the types of types. Typeclasses are more like predicates or relations between types.](https://www.reddit.com/r/haskell/comments/8cdiql/isnt_a_typeclass_just_a_type_of_a_type/)
@@ -21,6 +19,8 @@
 
 ## Links
 
+- [Haskell Programming Book](https://haskellbook.com/)
+- [Thinking with Types by Sandy Maguire](https://leanpub.com/thinking-with-types)
 - [How I Learned to Stop Worrying and Love the Type System](http://reasonablypolymorphic.com/blog/love-types/)
 - [Simon Peyton Jones - Closer to Nirvana](https://www.youtube.com/watch?v=xmjvOLlCdFU)
 - [Curry-Howard-Lambek correspondence](https://wiki.haskell.org/Curry-Howard-Lambek_correspondence)

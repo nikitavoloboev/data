@@ -15,6 +15,7 @@ I generate my [personal site](https://nikitavoloboev.xyz) with it. Using [Minima
 - [HugoTeX](https://github.com/7ma7X/HugoTeX) - Hugo theme which looks like a LaTeX document.
 - [Codex](https://github.com/jakewies/hugo-theme-codex) - Minimal blog theme built for Hugo.
 - [Carlisle](https://github.com/thesephist/carlisle) - Minimal template for a Hugo site.
+- [Archie](https://github.com/athul/archie) - Minimal and clean theme for hugo with a markdown-ish UI.
 
 ## Examples
 
