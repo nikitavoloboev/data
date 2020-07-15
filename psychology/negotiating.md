@@ -20,3 +20,4 @@
 - [Questions you can ask about compensation (2020)](https://jvns.ca/blog/compensation-questions/)
 - [Candor](https://candor.co/) - Salary negotiation for top tech professionals.
 - [Otta: Explore salaries at London's most innovative companies](https://app.otta.com/salaries/)
+- [Advice on negotiating (2020)](https://twitter.com/jomayra_herrera/status/1283244902772387840)
