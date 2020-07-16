@@ -62,3 +62,4 @@ Still [learning](https://www.instagram.com/nikitavoloboev/). I share [photograph
 - [20 Most Iconic Photographs And The Cameras That Captured Them](https://themindcircle.com/iconic-photographs/)
 - [HN: Olympus quits camera business after 84 years (2020)](https://news.ycombinator.com/item?id=23644253)
 - [Photography Workflow (2020)](https://simonsarris.substack.com/p/photography-workflow)
+- [Reverse engineering a camera protocol for fun and profit (2020)](https://www.thirtythreeforty.net/posts/2020/05/hacking-reolink-cameras-for-fun-and-profit/) ([HN](https://news.ycombinator.com/item?id=23855884))
