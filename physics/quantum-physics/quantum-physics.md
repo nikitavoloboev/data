@@ -24,3 +24,4 @@
 - [Quantum Mechanical View of Reality - Richard Feynman](https://www.youtube.com/playlist?list=PLW_HsOU6YZRkdhFFznHNEfua9NK3deBQy)
 - [Scott Aaronson - Schrödinger's Cat and Quantum Necromancy (2020)](https://www.youtube.com/watch?v=xAYzTNFyazo)
 - [Q: What if the particles in the double slit experiment were conscious? Could you ask them which slit they went through afterwards? (2020)](https://www.askamathematician.com/2020/05/q-what-if-the-particles-in-the-double-slit-experiment-were-conscious-could-you-ask-them-which-slit-they-went-through-afterwards/)
+- [Research on Topological quantum matter (2020)](https://twitter.com/MBarkeshli/status/1283139300901695488)
