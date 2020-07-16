@@ -83,6 +83,7 @@ I love [Pour Painting](https://www.reddit.com/r/PourPainting) and [Glitch Art](h
 - [Danila Tkachenko](http://www.danilatkachenko.com/)
 - [Sebastien Larroude](https://rainart.artstation.com/)
 - [Lee Madgwick](https://leemadgwick.co.uk/portfolio/)
+- [Anastasia Opara](https://www.anastasiaopara.com/)
 - [Ben Ridgway](https://www.samwoolfe.com/2018/06/the-visionary-art-of-ben-ridgway.html) - DMT inspired.
 - [Josh James](https://www.artstation.com/stokens)
 - [Oleksij Luchnikov](https://www.artstation.com/luchnikov)
