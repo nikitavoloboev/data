@@ -254,3 +254,4 @@
 - [Building and debugging a high-throughput daemon in Rust (2020)](https://brokenco.de//2020/07/15/high-throughput-in-rust.html)
 - [Why even unused data needs to be valid (2020)](https://www.ralfj.de/blog/2020/07/15/unused-data.html) ([Reddit](https://www.reddit.com/r/rust/comments/hrlozh/why_even_unused_data_needs_to_be_valid/))
 - [Two Beautiful Rust Programs (2020)](https://matklad.github.io//2020/07/15/two-beautiful-programs.html) ([Reddit](https://www.reddit.com/r/rust/comments/hrwckz/blog_post_two_beautiful_rust_programs/))
+- [Rust for JavaScript Developers - Pattern Matching and Enums (2020)](http://www.sheshbabu.com/posts/rust-for-javascript-developers-pattern-matching-and-enums/) ([HN](https://news.ycombinator.com/item?id=23811431))
