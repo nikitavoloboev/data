@@ -181,6 +181,7 @@
 - [The Entrepreneur's Roadmap - From Concept to IPO](https://www.nyse.com/entrepreneur)
 - [Notes on tech strategy](https://sriramk.com/strategy)
 - [Product Club](https://chapterone.vc/product-club/) - Product mentorship program for early-stage startups.
+- [Two Years to Make \$10 in Software Revenue (2020)](https://www.beamjobs.com/startups/2-years-to-make-10-dollars-in-software-revenue) ([HN](https://news.ycombinator.com/item?id=23791369))
 
 ## Images
 

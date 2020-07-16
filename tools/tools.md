@@ -74,6 +74,7 @@ I love software and non software tools that help me in some way. Most tools I us
 - [Wire](https://wire.com/en/) - Modern day collaboration meets the most advanced security and superior user experience. ([Code](https://github.com/wireapp/wire))
 - [Commento](https://commento.io/) - Fast, privacy-focused commenting platform.
 - [Raindrop](https://raindrop.io/) - All-in-one bookmark manager.
+- [Cosign](https://cosign.co/login)
 - [Sonix](https://sonix.ai/) - Transcribe videos from [Zoom](https://sonix.ai/how-to-transcribe-a-zoom-meeting).
 - [Polar Bookshelf](https://getpolarized.io/) - Personal knowledge repository for PDF and web content supporting incremental reading and document annotation. ([Code](https://github.com/burtonator/polar-bookshelf))
 - [Jami](https://jam.link/) - Get access to services your friends pay for, instantly and securely.
